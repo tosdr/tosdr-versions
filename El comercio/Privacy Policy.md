@@ -31,1032 +31,874 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Deportivo Riestra se disculpó por alinear un ‘streamer’
-=======================================================
+El totalitarismo (II)
+=====================
 
-Spreen logró su carné habilitante como jugador profesional hace menos de tres meses.
-------------------------------------------------------------------------------------
+Carl J. Friedrich definió el totalitarismo como un control absoluto que centraliza poder e impone una ideología única.
+----------------------------------------------------------------------------------------------------------------------
 
-![El streamer argentino, Iván Buhajeruk, mas conocido como Spreen, debuta en el Deportivo Riestra en un partido frente al Vélez Sarfield por Liga Argentina.](https://www.elcomercio.com/wp-content/uploads/2024/11/influencer_argentina_1.jpg)
+![Ramiro Rivera Molina, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Ramiro-Rivera-Molina.jpg)
 
-El club argentino Deportivo Riestra se disculpó este martes 12 de noviembre de 2024, **por haber alineado ayer al ‘streamer’ Spreen** en un partido oficial de primera división y explicó que se trató de una “acción de marketing” con el fin de “atraer nuevas audiencias”.
+**Carl Friedrich**, en 1954, hace setenta años, publicó una obra titulada «_El carácter único de la sociedad totalitaria_».  Definió al **totalitarismo** como una forma de **dominio político**, centrándose en identificar las características comunes entre el **fascismo** y el **comunismo** como formas totalitarias, con cinco aspectos comunes:
 
-“En el día de ayer, tuvimos la oportunidad de contar con la participación de Iván Buhajeruk, **uno de los influencers más importantes de Latinoamérica**, en el partido ante Vélez”, escribió el club a través de sus redes sociales.
+Uno: La **ideología oficial**, instrumento de gobierno, a la que deben adherirse y hacer suya todos. Se proyecta como la **única versión** y verdad oficial. El eje y centro del **pensamiento** que lo explica todo. Un solo **partido** conducido por un solo hombre. El amado líder. Iluminado. **Infalible**, inmune y único guía. Es el redentor o mesías. **Sistema organizado** centralmente; se enquista en el Estado, lo asimila y se coloca por encima del mismo.  El partido único es, a su vez, el exclusivo **canal** de representación.  Las **elecciones** son **simulacros**, puesto que todos los **candidatos** son del partido único y escogidos por el **Líder**.
 
-### Más noticias:
+Dos: El Estado es el poderoso líder.  La **complejidad burocrática** se derrite y se fusiona en la figura del dictador. Es el todo. **Envanecido** y **arrogante**; desconfiado e Intocable. Infalible e invencible. 
 
-* [Ángel Mena sin ‘rencor’ con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-jovenes-ecuador-retiro.html "Ángel Mena sin ‘rencor’ con la Selección de Ecuador")
-* [Dos ciclistas abandonan tras aparatosa caída en Vuelta a Ecuador](https://www.elcomercio.com/deportes/vuelta-ecuador-ciclistas-bajas-etapa-1.html "Dos ciclistas abandonan tras aparatosa caída en Vuelta a Ecuador")
-* [La Selección de Ecuador y Alexander Domínguez, ¿están distanciados?](https://www.elcomercio.com/deportes/futbol/la-seleccion-de-ecuador-y-alexander-dominguez-estan-distanciados.html "La Selección de Ecuador y Alexander Domínguez, ¿están distanciados?")
+Tres: El **monopolio** del uso de la **fuerza** y el control de la **policía**, el ejército y de las armas. Todo en manos del partido o instancias sometidas al jefe Supremo. Sí, hace falta, **guardia** a las **órdenes** del **jefe** para sofocar cualquier intento de **disidencia** o riesgos de **perturbación**.
 
-El comunicado de Riestra hace referencia a la inclusión del joven de 24 años, **que tiene casi 20 millones de seguidores entre sus distintas redes sociales** y que se identifica virtualmente como ‘Spreen’.
+Cuatro: Un **sistema** de **control policiaco**. Vigilancia y hasta terror psíquico o **psicológico**. No hay opción, sino el sometimiento, el destierro y silencio. La otra **alternativa** es simplemente terminar con la existencia de quien incómoda.
 
-“Lamentablemente, esta acción de marketing generó muchas opiniones negativas. **Queremos ofrecer nuestras más sinceras disculpas** a quienes se sintieron ofendidos”, agregó el comunicado, en respuesta a la polémica generada en Argentina por la inclusión del joven, que no es futbolista y que fue reemplazado al minuto de juego.
+Cinco: El **control absoluto** y total de los medios de **comunicación** masiva. El Estado es de propaganda. La vigilancia de los medios como **instrumento** de control del **pensamiento** para moldearlo en una sola línea y color. La verdad oficial. Incuestionable. Indubitable. La **disidencia** será invisibilizada o simplemente castigada con el **destierro** y la muerte.  Recordemos los Gulags de Stalin o los **campos** de **concentración** nazis. Ahora, los **centros de aislamiento** y tortura en Cuba, Nicaragua o Venezuela
 
-Deportivo Riestra, cuyo encuentro ante Vélez Sársfield culminó en empate 1-1, **explicó que su intención no fue faltarle el respeto al fútbol argentino** ni a su rival, a quien comunicó con anticipación la decisión de alinear al ‘influencer’.
+Estas eran las características que Carl J. Friedrich definió como propias de los **totalitarismos**. Luego, junto a Z. Brzezinski se agregó un sexto rasgo:  El carácter de **centralización** total de la **economía**. No olvidemos la famosa **Nueva Política Económica de Stalin** que la implanta a partir de 1928, donde el Estado determina qué producir y cuánto producir, esclavizando a millones de personas, campesinos, agricultores desplazados, castigados, asesinados y muertos por el **agotamiento** y **hambre**. El Supremo no deja nada suelto. Todo está bajo su control. **Partido** y **Estado** se implantan y el resultado es el líder intocable y endiosado.  En el **totalitarismo** nada queda suelto ni al azar. A todo esto, se denominó El _síndrome de los seis puntos._ En los **totalitarismos** el **Líder** es la encarnación de la **voluntad colectiva**. Los **dictadores** son envanecidos y soberbios. Promueven una constante **agitación** y **movilización** de los adeptos que controlan.
 
-“Nuestro objetivo fue (y es) atraer nuevas audiencias hacia el fútbol, generando puentes entre diferentes mundos y plataformas para seguir potenciando el producto y a nuestro club, **viviendo un momento histórico en Primera División**“, reveló la institución, que llegó este año a la primera división del fútbol argentino por primera vez en su historia y marcha noveno en la Liga Profesional.
+Cartas a Quito / 13 de noviembre de 2024
+========================================
 
-El club citó en su explicación al presidente del Real Madrid, Florentino Pérez, y su **advertencia sobre la merma de interés del público joven europeo** en el fútbol, y destacó que la intención de la inclusión de ‘Spreen’ en el duelo de ayer fue “captar a nuevas generaciones que hoy se proyectan en las redes sociales a partir de los influencers”.
+Estas son las cartas a Quito de este miércoles 13 de noviembre de 2024
+----------------------------------------------------------------------
 
-Críticas al debut del ‘influencer’
-----------------------------------
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
 
-El caso generó una fuerte polémica en el país y desencadenó la condena de numerosas figuras del fútbol argentino, **incluyendo a Juan Sebastián Verón, presidente de Estudiantes de la Plata**; Marcos Acuña, futbolista de River Plate y del seleccionado argentino; y Braian Romero, delantero de Vélez Sársfield que fue titular en el duelo de ayer y que lidera la tabla de goleadores de la primera división.
-
-En paralelo con el fuerte rechazo social y las condenas en redes sociales, el **Comité de Ética de la Asociación del Fútbol Argentino** (AFA) abrió una investigación sobre el caso por considerar que la inclusión de ‘Spreen’ en el primer equipo de Deportivo Riestra podría representar una “conducta susceptible de perjudicar la reputación e integridad del fútbol argentino”.
-
-Buhajeruk logró su **carné habilitante como jugador profesional hace menos de tres meses** y este lunes fue incluido en la alineación inicial de Deportivo Riestra con el número 47 en su camiseta.
-
-El técnico Christian Fabbiani lo reemplazó a los 59 segundos por Gustavo Fernández y, **lejos de sorprenderse por el cambio** sin tocar siquiera una pelota, el ‘influencer’ se fue aplaudiendo a los simpatizantes de “Los Malevos”.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/influencer_argentina_2-1024x683.jpg)
-
-Foto: EFE.
-
-San viernes
------------
-
-La etapa 2 de la Vuelta al Ecuador se desarrolló con inconvenientes 
-====================================================================
-
-El tráfico fue el protagonista inesperado de la segunda etapa de la Vuelta al Ecuador, que se realizó en la zona costera del país.
-----------------------------------------------------------------------------------------------------------------------------------
-
-![La Vuelta al Ecuador 2024 tuvo su segunda etapa con varios inconvenientes.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-12T141640.170.jpg)
-
-La **Vuelta al Ecuador continúa** y su **segunda etapa** se llevó a cabo durante este martes 12 de noviembre del 2024. El trayecto, uno de los más largos del certamen, unió Vista Hermosa (Santo Domingo) con Babahoyo (Los Ríos) a través de **188, 64 kilómetros**.
-
-A las **09:00 los equipos partieron** desde el poblado santodomingueño con los líderes definidos de las distintas categorías en la primera fase. La nueva etapa mantuvo un trazado de bajada y, en su mayoría, llano, de forma que pasó desde los 343 a los 12 metros sobre el nivel del mar.
-
-### Más noticias:
-
-* [Un equipo se retira de la Vuelta a Ecuador tras caída de ciclistas](https://www.elcomercio.com/deportes/ciclismo/team-campo-fertil-retiro-vuelta-ecuador.html "Un equipo se retira de la Vuelta a Ecuador tras caída de ciclistas")
-* [¿Cómo será la segunda etapa de la Vuelta a Ecuador?](https://www.elcomercio.com/deportes/futbol/trazado-vuelta-ecuador-segunda-etapa.html "¿Cómo será la segunda etapa de la Vuelta a Ecuador?")
-* [Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/oscar-sevilla-vuelta-ecuador-etapa-1.html "Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador")
-
-Debido a la naturaleza del trayecto, este no presentó puertos de montaña, como sí lo hizo en la carrera inicial. De tal manera, **Segundo Navarrete,** quien se había hecho con el jersey de puntos rojos como el mejor escalador, se mantuvo. Al ser un recorrido plano y más apto para velocistas, se fijaron cuatro metas volantes. Pese a ello, la tercera fue suspendida y no se llevó a cabo.
-
-Entre las **novedades también estuvo el retiro del Team Campo Fértil**. A raíz de la caída que presentaron los miembros de su equipo, a pesar de que sí lograron finalizar la primera etapa, este decidió no continuar.
-
-Inconvenientes y paralización momentánea de la segunda etapa
-------------------------------------------------------------
-
-La segunda etapa **no estuvo exenta de inconvenientes en su recorrido e incomodó a todo el grupo de ciclistas.** Una de las primeras resoluciones de la organización fue suspender la tercera meta volante, sin embargo, aquello no sería la primera acción.
-
-Aunque la carrera se había desarrollado con normalidad, el **tráfico vehicular en la trayectoria frenó a los ciclistas** y obligó a que se tomen decisiones en torno a su desarrollo. Santiago Rosero, presidente de la Federación Ecuatoriana de Ciclismo, explicó que aquello se dio debido a la obstrucción de los dos carriles de la autopista por parte de automotores de transporte.
-
-A la altura de la entrada a Santa Rita, a pocos kilómetros de que los ciclistas ingresen a Babahoyo, el caos automovilístico se hizo presente y bloqueó el paso. Al momento en el que los participantes llegaron a tal punto, estos **debieron sortear a los autos y hacerse espacio por el medio.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-12T141256.109-1024x683.jpg)
-
-Ciclistas paralizados debido al tráfico en la ruta. Foto: Paulo Álvarez / EL COMERCIO
-
-El suceso interrumpió la fuga de quienes encabezaban la carrera y también atoró al pelotón que le perseguía. Finalmente, los atletas consiguieron abrirse paso, pero volvieron a toparse con un nuevo atasco y la **carrera se paralizó.**
-
-La decisión del comisario Rainer Nuhlen Thissen, director de la Vuelta, fue que la carrera se reinicie con los ciclistas en fuga como inicialistas. Luego de 1 minuto y 17 segundos, que era la diferencia que mantenían con el resto del pelotón, este salió hacia Babahoyo.
-
-Los ganadores de la etapa
--------------------------
-
-Pese a los inconvenientes**, Bryan Sánchez del Team Medellín se hizo con la etapa**. Este ganó la carrera con lo justo sobre Cristian Pita del Team Banco Guayaquil, quien obtuvo el premio a ciclista combativo.
-
-Joffre Imbaquingo se mantuvo como el mejor sub-24, Esteban Villarreal en la cima de metas volantes y Segundo Navarrete como líder de montaña. En la tabla general, **Óscar Sevilla lidera la Vuelta al Ecuador.**
-
-La Selección de Ecuador intenta volver al triunfo ante Bolivia
-==============================================================
-
-La Selección de Ecuador es quinta en la tabla de posiciones de las eliminatorias al Mundial 2026.
--------------------------------------------------------------------------------------------------
-
-![Ángel Mena (c) y el resto de seleccionados de Ecuador en Guayaquil en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_opciones_1.jpg)
-
-La **Selección de Ecuador intentará volver a sumar una victoria** en las eliminatorias sudamericanas al Mundial 2026, cuando se mida a Bolivia en la fecha 11 en el estadio Monumental de Guayaquil.
-
-El jueves 14 de noviembre de 2024, desde las 19:00, **la Selección de Ecuador recibirá a Bolivia**, con la necesidad de sumar los tres puntos para mantenerse en la zona de clasificación directa al Mundial 2026, caso contrario, es condición la puede perder.
-
-### Más noticias:
-
-* [La etapa 1 de la Vuelta a Ecuador dejó un líder y bajas](https://www.elcomercio.com/deportes/ciclismo/la-etapa-1-de-la-vuelta-a-ecuador-dejo-un-lider-y-bajas.html "La etapa 1 de la Vuelta a Ecuador dejó un líder y bajas")
-* [Ángel Mena sin ‘rencor’ con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-jovenes-ecuador-retiro.html "Ángel Mena sin ‘rencor’ con la Selección de Ecuador")
-* [¡Increíble! El streamer Spreen jugó un minuto en su debut en el fútbol argentino](https://www.elcomercio.com/deportes/futbol/streamer-spreen-jugo-un-minuto-en-su-debut-en-el-futbol-argentino.html "¡Increíble! El streamer Spreen jugó un minuto en su debut en el fútbol argentino")
-
-Hasta llegar a este punto han pasado 50 partidos, y **faltan 10 meses para jugarse la última fecha de las eliminatorias**, el 14 de septiembre de 2025, las 10 selecciones buscan los seis cupos directos o el de repesca.
-
-La undécima jornada transcurrirá en dos días a partir de este jueves 14 y comenzará con el partido en Maturín entre Venezuela, octava con 11 puntos, y Brasil, cuarta con 16.
-
-Ese mismo día, la **Selección de Paraguay (sexta con 13 puntos), recibirá al líder Argentina (22)**, y la de Ecuador (quinta con 13) se medirá con la de Bolivia (séptima con 12).
-
-El viernes 15 caerá el telón de esta fecha con partidos en Montevideo y Lima. Uruguay (tercera con 16) recibirá a Colombia (segunda con 19) y Perú (penúltimo con 6), se las verá con el colista Chile (5).
-
-Venezuela vuelve a correr por los puntos
-----------------------------------------
-
-El buen comienzo en las eliminatorias sudamericanas pareció un sueño y el **desempeño tras la Copa América de Estados Unidos** se ha convertido en una pesadilla, pues la ‘Vinotinto’ no pudo ganar en las cuatro fechas reciente: perdió dos y empató dos.
-
-El octavo puesto actual trae de vuelta los fantasmas del pasado: **sin pegada suficiente y lejos de los puestos** de acceso al Mundial.
-
-El seleccionador Fernando Batista espera traer de vuelta el buen fútbol y los goles con un afinado trío, el creativo **Yeferson Soteldo, el volante de equilibrio Tomás Rincón** y el máximo goleador en la historia de la ‘Vinotinto’, Salomón Rondón.
-
-Brasil, a mantener el tipo para seguir escalando
-------------------------------------------------
-
-Tres victorias en los últimos cuatro partidos, la última por goleada a Perú (4-0), **dan cuenta de los signos de recuperación de la ‘Canarinha**‘, que el 14 y el 19 de noviembre deben ser confirmados ante Perú y Uruguay para devolver la tranquilidad a un año convulso.
-
-El cuarto lugar no puede ser suficiente para Dorival Júnior y compañía y para dar más vuelo **llegan en gran momento Raphinha y Vinicius**. La plantilla pudo tener dos refuerzos de peso, pero Neymar volvió a lesionarse y la sensación que generó Endrick se ha ido disipando por su falta de minutos en el Real Madrid.
-
-Dorival Júnior convocó a **última hora al central Léo Ortiz, del Flamengo**, y al delantero Gabriel Martinelli, del Arsenal inglés, para suplir las bajas de Éder Militão y Rodrygo.
-
-Paraguay quiere más
--------------------
-
-El 12 de octubre de 2023 la Albirroja cayó en el Monumental de Buenos Aires con un gol de Nicolás Otamendi (1-0). Es el último antecedente en eliminatorias con Argentina. Se jugaba la tercera jornada y Gustavo Alfaro, no estaba en el panorama.
-
-¿Por qué la mención? **Porque desde la llegada del exseleccionador de Ecuador**, la selección de Paraguay enlazó cuatro partidos sin perder y con una defensa de nuevo rocosa que ha permitido un gol.
-
-Un triunfo en Asunción sobre los campeones del mundo es todo lo que necesita el argentino Alfaro para confirmar que el **ADN paraguayo ha vuelto en serio para reclamar un cupo en un Mundial** al que no acude desde 2010.
-
-Argentina, con la fuerza máxima completa
-----------------------------------------
-
-Con 22 puntos de 30 posibles, la ‘**Albiceleste’ encabeza las eliminatorias desde la primera jornada**, y a la undécima llega con el antecedente de haber vapuleado por 6-0 a Bolivia con un triplete de Lionel Messi.
-
-El entrenador Lionel Scaloni contará de nuevo con Emiliano ‘Dibu’ Martínez, quien pagó en octubre dos jornadas de suspensión**, aunque la aparición entre los palos de Gerónimo Rulli** el 10 de octubre en el 1-1 con Venezuela en Maturín generó mucha confianza.
-
-Para los de Scaloni el partido en el **estadio Defensores del Chaco tiene una gran significado,** ya que una derrota podría dejarlos a merced de lo que ocurra el viernes en Montevideo entre Colombia (19 puntos) y Uruguay (16).
-
-Ecuador necesita acelerar
--------------------------
-
-Después de una derrota ante Brasil y dos empates con Paraguay y Uruguay, **la Tri, que orienta el argentino Sebastián Beccacece** comienza a perder el crédito con la afición, que ve con desconfianza el descenso hasta el quinto puesto.
-
-La defensa de Ecuador es hasta hoy la más sólida de la liguilla junto a la de Paraguay, con apenas 4 goles, pero la **producción ofensiva es la segunda más floja entre las selecciones** que asoman al Mundial (6), lo que no deja de preocupar al entrenador.
-
-La buena noticia para enfrentar a Bolivia en Guayaquil es que el ariete Gonzalo Plata, hijo de esa ciudad portuaria, **llega motivado y como héroe de Flamengo**, que con un gol suyo conquistó el domingo la Copa do Brasil en la final con Atlético Mineiro.
-
-Bolivia quiere dejar de ser incógnita
--------------------------------------
-
-Tan solo un punto separa en las eliminatorias a Ecuador de Bolivia. La **Tricolor ocupa el quinto lugar con 13 puntos** y la ‘Verde’ yace con 12 en el séptimo, que da derecho a jugar una repesca.
-
-Desde que el boliviano Óscar Villegas llegó al banquillo, Bolivia enlazó tres triunfos y tornó en serio motivo de preocupación a su nuevo estadio, El Alto, a más de 4.000 metros de altitud.
-
-Si bien el lunar en **este proceso de recuperación encabezado por Villegas** fue la derrota por goleada ante Argentina en la décima jornada, el equipo ha mostrado fuerza a la ofensiva.
-
-Este jueves no estará Miguel Terceros, pero sí Carmelo Algarañaz y Ramiro Vaca.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_opciones_2-1024x683.jpg)
-
-Foto: EFE.
-
-Uruguay necesita recuperar su memoria
--------------------------------------
-
-Perder este viernes en el **Centenario de Montevideo puede significar** quedar descolgados del único líder hasta el momento.
-
-Para la ‘Celeste’, ganar es urgente, pues la última vez fue el partido con Canadá por el tercer puesto de la Copa América, el ya lejano 13 de julio.
-
-Además, con 16 puntos, **el tercer puesto en las eliminatorias está amenazado por Brasil**, que es cuarto con la misma renta.
-
-En la anterior doble fecha de partidos, los de Marcelo Bielsa perdieron por 1-0 con Perú en Lima y días después cedieron en casa un empate sin goles a Ecuador.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_opciones_3-1024x683.jpg)
-
-Foto: EFE.
-
-Colombia no se confía
+Gestionar los riesgos
 ---------------------
 
-Si de antecedentes se tratara, los pupilos de **Néstor Lorenzo pueden dormir tranquilos**, pero como esto es fútbol, todas las medidas de seguridad son urgentes, a juzgar por el hermetismo que se vive en el campamento del equipo en Argentina.
+Si en el sector privado es necesario gestionar oportuna y adecuadamente los riesgos para alcanzar sus objetivos que pueden medirse en las utilidades para sus propietarios, en el sector público es indispensable porque se deben alcanzar objetivos superiores como la salud, educación, seguridad, conectividad y el cuidado del ambiente, con ética, eficiencia, transparencia y cuidado del ambiente.
 
-El equipo ‘Cafetero’ vapuleó por 4-0 a Chile en la décima fecha y de su última cita con **Uruguay quedó un triunfo por 1-0 que lo clasificó** a la final de la Copa América. Y en 2023, en eliminatorias del Mundial, colombianos y uruguayos empataron 2-2 en Barranquilla.
+Las normativas nacionales e internacionales coinciden en que los riesgos internos más comunes son: la actitud y la aptitud del personal empezando por los directivos; las deficiencias en el diseño de los procesos o su mala aplicación; la ausencia o uso inadecuado de la tecnología; la falta de recursos financieros o de infraestructura, entre los que se debe poner especial atención su exposición al fraude y los riesgos externos como los políticos, sociales, tecnológicos y de la naturaleza.
 
-El juego aéreo se ha convertido en el arma preferida de los colombianos para resolver sus partidos. En los **últimos cuatro partidos celebró tres goles de cabeza**.
+Para gestionar los riesgos, las máximas autoridades de los poderes del Estado y de todas las instituciones tienen la obligación de establecer objetivos claros y medibles en los planes de corto, mediano y largo plazo, difundirlos con la mayor transparencia para promover el control social, y supervisarlos permanentemente utilizando recursos tecnológicos incorporados a los procesos que generen información en línea sobre los avances de los planes para tomar acciones correctivas oportunas sobre deficiencias identificadas. La falta de gestión de los riesgos vinculada a los procesos y los objetivos institucionales genera ineficiencia y corrupción que se reflejan en la falta o inadecuada prestación de los servicios fundamentales que todos los ciudadanos requerimos.
 
-Perú o el dilema de buscarse la vida sin perderla
--------------------------------------------------
+Es indispensable que las autoridades cumplan las normativas relativas a la gestión de los riesgos, la Contraloría y otros organismos de control vigilen su aplicación, y la ciudadanía, con el liderazgo de la academia, ejerza el control social que le corresponde.
 
-Cuando más fuerzas debía tener concentradas para afrontar en el Estadio Monumental el juego de la vida, la ‘Blanquirroja’ **avisa que no tendrá a su portero Pedro Gallese**, los defensores Carlos Zambrano y Bryan Reyna, ni el extremo Renato Tapia. En otras palabras, faltará seguridad atrás y vértigo en ataque.
+Mario Andrade Trujillo
 
-Perú, la penúltima selección de las eliminatorias con 6 puntos de 20 posibles, recibirá el viernes a Chile, la colista con 5 con el único objetivo que es acercarse al séptimo puesto o zona de repesca.
+Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador
+==============================================================================
 
-El partido de Lima será, prácticamente, una final. Si bien debía jugarse en el **Estadio Nacional, cambió de sede porque el Ministerio del Interior** no otorgó las garantías de seguridad.
+Los ecuatorianos necesitan conocer información oportuna para planificar sus actividades diarias.
+------------------------------------------------------------------------------------------------
 
-Chile se da otra oportunidad con ‘el Rey’
------------------------------------------
+![Los ciudadanos realizan sus labores entre velas y lámparas, debido a los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luzeditoral.jpg)
 
-La convocatoria de **Arturo Vidal un día después de coronarse campeón de Liga con Colo-Colo** acaparó el interés en la selección chilena, en la que no tenía espacio desde que el argentino Ricardo Gareca llegó al banquillo.
+Los **cortes de luz** de última hora que Ecuador tuvo el sábado 9 de noviembre de 2024 demostraron la falta de previsiones sobre la gravedad de la **crisis energética.**
 
-La versión oficial niega que ‘el Tigre’ haya dado su brazo a torcer ante el polémico jugador de 37 años e insiste en que se dio de forma natural tras las bajas de William Alarcón y Erick Pulgar.
+Para que los ecuatorianos puedan planificar sus actividades y cuenten con detalles a la mano, los funcionarios pueden guiarse con estos cuatro puntos.
 
-La necesidad de unir esfuerzos para **buscar escalar del décimo al séptimo puesto de la clasificación** ha sido más fuerte que los ataques verbales de Vidal a Gareca por sus planteamientos tácticos y, especialmente, por mantenerlo al margen de las convocatorias.
+**Uno**. Las autoridades tienen la obligación de ofrecer información oportuna para que los ciudadanos se puedan organizar en sus tareas, sea en la oficina, con el trabajo, o en las viviendas, con las actividades del hogar. 
 
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_opciones_4-1-1024x683.jpg)
+En ambos espacios es necesaria la electricidad y con información oportuna y real se pueden priorizar las actividades.
 
-Foto: EFE.
+> Los ecuatorianos precisan conocer cómo será el abastecimiento de **energía en diciembre**, para planificar las ventas, motor de la economía de fin de año.
 
-San viernes
------------
+**Dos.** Los ecuatorianos deben saber cómo avanza la ejecución del plan de emergencia para afrontar los cortes de luz en estos meses.
 
-Leonidas Iza presenta una querella contra Guillermo Lasso
-=========================================================
+El Gobierno nacional anunció su plan para incorporar **1 598 megavatios de energía** hasta el primer cuatrimestre de 2025.
 
-El abogado de Leonidas Iza explicó las razones de la querella contra Guillermo Lasso.
--------------------------------------------------------------------------------------
+Mientras se llega a la meta, se ofreció poner en el mercado 241 megavatios de energía termoeléctrica en noviembre. De este compromiso se desconoce si ya entró o no en ejecución. Esos 241 megavatios se componen de **91 en Esmeraldas, 100 en Salitral y 50 en Quevedo**.
 
-![El equipo legal de Leonidas Iza presentó la querella este 12 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Leonidas-Iza.jpg)
+Tampoco se conoce cómo avanzan los procesos de la renta de energía en tierra para contar con 3**00 megavatios desde diciembre.** Algo seguro sí es el inicio del llenado del **embalse del proyecto Toachi Pilatón,** que generará 204 megavatios. 
 
-El presidente de la Confederación de Nacionalidades Indígenas del Ecuador (**Conaie**), Leonidas Iza, presentó este martes 12 de noviembre una querella contra el expresidente del Ecuador, Guillermo Lasso[.](https://es.wikipedia.org/wiki/Leonidas_Iza "https://es.wikipedia.org/wiki/Leonidas_Iza")
+**Tres.** Los ciudadanos, como se lee en las redes sociales, demandan conocer información clara y real de la crisis energética para saber cómo está la situación de las hidroeléctricas, debido a la sequía prolongada en la **zona Austral, donde operan Mazar y el complejo Paute**[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
 
-Más noticias
-------------
+**Cuatro.** Si la situación es grave, la programación tiene que estar a tono con esa crisis. La queja común es el irrespeto a la propia programación oficial.
 
-* [Binomio de la ID está a un paso de la papeleta de las elecciones 2025](https://www.elcomercio.com/elecciones/binomio-id-papeleta-elecciones-2025.html "Binomio de la ID está a un paso de la papeleta de las elecciones 2025")
-* [Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?](https://www.elcomercio.com/actualidad/politica/daniel-noboa-presento-querella-contra-asambleista-monica-palacios.html "Daniel Noboa presentó una querella contra la asambleísta Mónica Palacios ¿Cuál fue el motivo?")
-* [Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan](https://www.elcomercio.com/actualidad/plazos-binomios-id-suma-elecciones-2025-id-suma.html "Plazos para los binomios de la ID y Suma para elecciones 2025 se acortan")
+Noviembre y diciembre son meses cruciales para el **comercio y los hogares**, por las **fiestas.** Esas son suficientes razones para que las autoridades programen los cortes de luz, de acuerdo con la disponibilidad del agua. En **Coca Codo** **Sinclair** no es posible almacenar, pero en las otras sí, lo que podría ayudar a guardar agua para ese mes de alta demanda.
 
-La acción legal fue interpuesta en el Complejo Judicial Norte de Quito por parte del equipo legal de **Leonidas Iza**.
+Hastío de los cortes
+====================
 
-¿Qué motivó la querella contra Guillermo Lasso?
------------------------------------------------
+El gobierno enfrenta una crisis energética y desorganización interna que afectan gravemente a la economía y aumentan el descontento ciudadano.
+----------------------------------------------------------------------------------------------------------------------------------------------
 
-El abogado de Iza, **Washington Andrade**, explicó que la **querella** responde a supuestas declaraciones **calumniosas** realizadas por **Lasso** en una entrevista el pasado 7 de octubre con la periodista **María Sol Borja.**
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
 
-En dicha entrevista, el exmandatario supuestamente señaló a Iza como responsable de actos violentos durante las protestas de 2019 y 2022.
+En las **elecciones** de **noviembre** pasado los astros se alinearon a favor de Noboa y sorpresivamente fue elegido **presidente** de la **República**. Ahora parece que los astros no le acompañan, pues sus **posibilidades** de **reelección** disminuyen con el mismo ritmo con que se extienden los **apagones**. En pocos días se cumplirán 2 meses de los **cortes de energía** -ahora nuevamente de 12 horas diarias- que destrozan a los **ciudadanos** y ponen en **riesgo** a todas las **actividades** **económicas**. Desde el tendero del barrio, el sastre, el zapatero, el peluquero, el panadero hasta las grandes empresas, pese a contar con **generadores de emergencia,** sufren la **catástrofe** en sus **actividades**. Y no se diga del ama de casa, del ciudadano común que ve su vida trastrocada porque se **dañan** sus **alimentos**, los niños y adolescentes afrontan el caos en sus **actividades estudiantiles**.
 
-Aparentemente, lo acusó de “i**ncendiar Quito**, la Contraloría General del Estado y un intento de incendio en la sede de Teleamazonas”, además de supuestamente señalarlo de ser el “autor intelectual” de dichos actos.
+Según Plan V, en los últimos 20 meses los gobiernos de **Lasso y Noboa** no han hecho nada para afrontar la **crisis** que se anticipó a principios de 2023. CNEL está inmerso en la **corrupción** y el **burocratismo**, según la misma publicación. Tenía 4.200 trabajadores en 2021 y hoy son 6.322 protegidos por jugosos **contratos colectivos**, mientras los planes de **modernización** de **plantas** y **equipos** quedaron en el olvido.
 
-Lo que busca la defensa de Iza
-------------------------------
+A estas **alturas** al **gobierno** no le queda más que buscar desesperadamente el **auxilio de Colombia** o los contratos de última hora para adquirir o arrendar **equipos** de **generación**. Pero nada le funciona. **Petro** le **negó** a Noboa la **venta de energía**. La **segunda barcaza** está operando en otro país y los **generadores comprados** o **alquilados no aparecen** por ninguna parte. Las **declaraciones** del presidente son **contradictorias**, su **ministra de Energía encargada** -en el área de vida o muerte del gobierno-trata de **explicar el fracaso y pide paciencia a los ciudadanos**. Pero no se confía en sus **justificaciones** y ofertas. En los últimos días, se ha pretendido **justificar** los **apagones** de 12 horas en la **sequía** y “**mantenimiento programado**”. ¿Creen que los **ciudadanos** son minusválidos mentales?
 
-Aunque **Leonidas Iza** no estuvo presente durante la presentación de la petición, Andrade indicó que la querella exige la imposición de la **pena máxima**. En este caso es de dos años de **prisión** para el Guillermo Lasso.
+A lo anterior agréguese la **pobreza** en la **comunicación**, que parece de principiantes o aficionados. El desconcierto en Carondelet se refleja no solamente en la **tragedia eléctrica**. Los **proyectos urgentes** para **crear nuevos impuestos** se envían a la **Asamblea**, se retiran a las pocas horas y se envían nuevamente modificados, lo cual no tiene otra explicación que no sea el **atolondramiento** y unos **servicios jurídicos deficientes.**
 
-Además, solicitan una indemnización de dos millones de dólares. Este dinero, según el abogado, se destinaría a programas de lucha contra la **desnutrición** **infantil** en las **comunidades** **indígenas** más vulnerables del Ecuador.
+Así va el **país** de tumbo en tumbo con una **economía paupérrima** que tiende a miserable mientras se acercan las **elecciones** de febrero, en las que cualquier persona sin preparación, **sin estructura política y sin planes concretos**, se podrá hacer con el poder.
 
-Afectaciones en Ecuador por las protestas de 2022 superaron las de 2019
------------------------------------------------------------------------
+Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz
+===========================================================================
 
-Las movilizaciones de junio de 2022 duraron más tiempo que las de octubre de 2019 y generaron mayores a**fectaciones económicas** en el mismo período.
+El alcalde de Quito, Pabel Muñoz, anunció medidas por los cortes de luz sobre racionamientos, fiestas de fundación, tránsito y otros.
+-------------------------------------------------------------------------------------------------------------------------------------
 
-La Cámara de Comercio de Guayaquil (**CCG**) informó que, durante los primeros 12 días de paralización, del 13 al 24 de junio de 2022, las pérdidas en el **sector comercial** alcanzaron los 218 millones de dólares. En el mismo lapso de las protestas de 2019, los perjuicios fueron de 196,66 millones de dólares.
+![Pabel Muñoz se refirió a las medidas por los cortes de luz en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/pabel-munoz-medidas-quito-cortes-luz.jpg)
 
-En el ámbito energético, el **Ministerio de Energía** y Minas reportó que el **Estado** dejó de percibir aproximadamente 72,6 millones de dólares durante los primeros 12 días de protestas.
+El alcalde **Pabel Muñoz** anunció medidas que se aplicarán en Quito por los **cortes de luz**, este martes 12 de noviembre de 2024.
 
-Petroecuador registró la mayor pérdida, con 651 396 barriles de petróleo, mientras que las empresas privadas reportaron una disminución de 159 484 barriles.
+**Racionamientos** y disminución del consumo del agua, eventos masivos en **fiestas de fundación**, coworking y salud mental fueron algunos de los temas mencionados.
 
-Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’
-====================================================================
+### Más noticias:
 
-La ministra de Energía, Inés Manzano, anunció que se trabaja para concretar la compra energía a Colombia.
----------------------------------------------------------------------------------------------------------
+* [Incendios forestales modifican el inicio de las fiestas de Quito](https://www.elcomercio.com/actualidad/quito/incendios-forestales-fiestas-quito-pregon.html "Incendios forestales modifican el inicio de las fiestas de Quito")
+* [Alcalde de Quito plantea la posibilidad de suspender las fiestas de fundación](https://www.elcomercio.com/actualidad/quito/alcalde-quito-comite-crisis-suspension-fiestas-cortes-luz.html "Alcalde de Quito plantea la posibilidad de suspender las fiestas de fundación")
 
-![Inés Manzano, ministra de Energía, encargada.](https://www.elcomercio.com/wp-content/uploads/2024/11/manzano-1211.jpg)
+Medidas de Pabel Muñoz para Quito por los cortes de luz
+-------------------------------------------------------
 
-La ministra de Energía encargada, **Inés Manzano**, se refirió a los avances en las conversaciones entre **Ecuador** y **Colombia** para la compra de energía y evitar **cortes de luz**, este 12 de noviembre de 2024, en un evento de **sostenibilidad**, organizado por la Cámara de Ecuatoriano Británica[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+El alcalde de Quito inició su intervención con el **consumo de agua** en exceso de los quiteños, 46 litros de agua por persona, al día.
 
-Más noticias
-------------
+Luego explicó los **sistemas de abastecimiento** de agua potable de Quito: Papallacta, Mica Sur, Pita Puengasí, Conducciones occidentales.
 
-* [Noboa envía a Arturo Félix Wong a Colombia para comprar energía](https://www.elcomercio.com/actualidad/politica/noboa-envia-a-arturo-felix-wong-a-colombia-para-comprar-energia.html "Noboa envía a Arturo Félix Wong a Colombia para comprar energía")
-* [Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ecuador-compra-energia-sector-privado-colombia.html "Al menos cuatro empresas privadas de Colombia, interesadas en venderle energía a Ecuador")
-* [Daniel Noboa designa a Félix Wong como consejero en Colombia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-designa-a-felix-wong-consejero-embajada-colombia.html "Daniel Noboa designa a Félix Wong como consejero en Colombia")
+Sobre los **embalses**, en el de La Mica, dijo, hay menos agua que el de 2023, aunque aún está por encima de la cota mínima.
 
-**Inés Manzano** señaló que Ecuador ya cuenta con un primer **contrato de importación** de **energía** con una empresa privada colombiana. El documento lo revisará el **Gobierno ecuatoriano** antes de su firma, agregó.
+En el embalse Salve Faccha, también hay menos agua que el anterior año, aunque también está sobre la **cota mínima**.
 
-“Justo hoy tengo que ir a ver un primer contrato con Colombia”, comentó Manzano. Sin embargo, no dio más información y evitó dar “falsas esperanzas”.
+Entonces, la primera decisión de Muñoz es **disminuir los caudales** en la planta de Bellavista, entre las 22:00 y las 03:00.
 
-Antes de finalizar su intervención, la ministra señaló: “**Ajústense los cinturones**, porque hay sacudones”, sin dar más explicaciones y anticipando desafíos en el sector eléctrico del Ecuador.
+### Racionamientos
 
-Riesgo de cortes de luz prolongados
------------------------------------
+La segunda decisión es un **racionamiento preventivo y programado**, en el sistema Pita Puengasí, con cortes de agua desde las **17:00 hasta las 03:00**.
 
-La compra de electricidad a empresas privadas es una posibilidad que el Gobierno de **Daniel Noboa** está gestionando desde que a finales de noviembre la ministra Manzano recibiera una respuesta negativa de retomar la compra de electricidad al Gobierno colombiano.
+Para esto, la población fue organizada en **dos grupos**, saltando un día cada uno, para que sea equitativo.
 
-El presidente **Noboa** designó al exministro de Gobierno, **Arturo Félix** **Wong**, como consejero de la embajada de **Ecuador en Colombia**, este 11 de noviembre de 2024. El objetivo es concretar una **compra de energía** al sector privado colombiano, que ayude afrontar la crisis energética por la que atraviesa el país.
+Muñoz dijo que la **medida incomoda a un total de 5,4% del total de la población de Quito** y mencionó algunos barrios afectados, como Monjas, San Bartolo, Edén del Valle, La Forestal y otros.
 
-**Colombia** suspendió la exportación de **electricidad** a Ecuador a inicios de octubre pasado. El argumento fue que no contaban con excedentes suficientes y que toda su producción energética estaba destinada a garantizar el abastecimiento de su demanda nacional.
+> 💧 [#Racionamientos](https://twitter.com/hashtag/Racionamientos?src=hash&ref_src=twsrc%5Etfw) | El Municipio toma medidas preventivas desde hoy para asegurar el abastecimiento de agua potable en todo el Distrito Metropolitano.  
+>   
+> Con el fin de minimizar la afectación a la ciudadanía a causa de la sequía, proteger las fuentes que abastecen de agua al… [pic.twitter.com/CLJivvBxqy](https://t.co/CLJivvBxqy)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [November 13, 2024](https://twitter.com/aguadequito/status/1856537801258414301?ref_src=twsrc%5Etfw)
 
-Actualmente, los cortes de **electricidad en Ecuador** son de doce horas diarias para los hogares. Mientras que está previsto que algunos sectores industriales no tengan electricidad por más tiempo.
+El Municipio también iniciará una **campaña** para disminuir el consumo de agua, porque “todos los días desperdiciamos 45 piscinas olímpicas”, en Quito.
 
-Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito
-=====================================================================
+Estas decisiones se implementarán desde mañana miércoles y el **listado de los barrios afectados** estará disponible en las redes sociales y la web de Agua Quito.
 
-Marco Angulo debutó en el fútbol profesional con Independiente del Valle en el 2021.
+### Tránsito
+
+Muñoz también dispuso que todo el personal administrativo de la **Agencia Metropolitana de Tránsito (AMT)** salga a las calles.
+
+Se pasará de 1005 a 1390 **agentes de tránsito** por día, los agentes permanecerán en las 206 intersecciones más sensibles.
+
+“En los cortes de luz largos y no programados hemos llegado a tener **afectaciones hasta en 500 intersecciones** en todo Quito”, dijo.
+
+El Municipio ampliará el número de **coworking** de seis a 19 espacios, beneficiando a 1 200 usuarios. Los horarios para este beneficio constan en la página web de Conquito.
+
+Respecto a la **salud mental,** se ampliaron los horarios de consulta para salud mental, en teleconsulta.
+
+En una intervención en vivo, el alcalde de Quito, Pabel Muñoz, tomo una decisión sobre las fiestas de Quito, por los **cortes de luz.**
+
+### Fiestas de fundación
+
+Muñoz anunció que los eventos masivos de las fiestas de Quito se realizarán con **autogeneración** eléctrica, sin ocupar la red de energía pública.
+
+Este último anuncio es parte del conjunto de acciones para **proteger la economía** de la capital en diciembre, que el Municipio anunciará la próxima semana.
+
+> 🔴 [#EnVivo](https://twitter.com/hashtag/EnVivo?src=hash&ref_src=twsrc%5Etfw) | Acciones ante la crisis energética [https://t.co/tCNhYNyYLZ](https://t.co/tCNhYNyYLZ)
+> 
+> — Pabel Muñoz L. (@pabelml) [November 13, 2024](https://twitter.com/pabelml/status/1856525263217336646?ref_src=twsrc%5Etfw)
+
+Histórico de Ecuador cataloga de injusta la ausencia de Domínguez
+=================================================================
+
+Alexander Domínguez no juega con la Selección de Ecuador desde la Copa América 2024.
 ------------------------------------------------------------------------------------
 
-![Marco Angulo, jugador de Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/angulo_siniestros_1.jpg)
+![Alexander Domínguez cantando el himno en un partido de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-12T212345.077.jpg)
 
-Marco Angulo falleció la **noche del 11 de noviembre de 2024 en un hospital de Quito**, luego de permanecer internado desde la madrugada del lunes 7 de octubre a causa de un siniestro de tránsito en el que estuvo involucrado.
+Desde la llegada de Sebastián Beccacece a los banquillos de la Selección de Ecuador, la **ausencia** de **Alexander** **Domínguez** en las convocatorias ha causado sorpresa y malestar. El experimentado golero no ha sido llamado a pesar de su buen nivel, superior al de algunos de los jugadores convocados.
 
-Marco Angulo era jugador de Liga de Quito desde 2024. Antes prestó sus servicios al **Football Club Cincinnati de los Estados Unidos**, y al Independiente del Valle, club en el que se formó y debutó profesionalmente en el fútbol ecuatoriano.
+Los arqueros elegidos por **Beccacece** para los últimos compromisos fueron Hernán Galíndez, figura en Huracán de Argentina, Moisés Ramírez y Gonzalo Valle.
 
 ### Más noticias:
 
-* [La Selección de Ecuador entrenó en el George Capwell](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-entrenamiento-george-capwell.html "La Selección de Ecuador entrenó en el George Capwell")
-* [Proveedores de Magis TV detenidos en Colombia por robar información](https://www.elcomercio.com/deportes/futbol/hermanos-detenidos-magis-tv-colombia.html "Proveedores de Magis TV detenidos en Colombia por robar información")
-* [La Selección de Ecuador vs. Bolivia, ¿cuándo juegan?](https://www.elcomercio.com/deportes/futbol/cuando-juega-bolivia-ecuador-guayaquil.html "La Selección de Ecuador vs. Bolivia, ¿cuándo juegan?")
+* [La Selección de Ecuador y Alexander Domínguez, ¿están distanciados?](https://www.elcomercio.com/deportes/futbol/la-seleccion-de-ecuador-y-alexander-dominguez-estan-distanciados.html "La Selección de Ecuador y Alexander Domínguez, ¿están distanciados?")
+* [La Selección de Ecuador cuesta 16 veces más que Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-valor-mercado-eliminatorias.html "La Selección de Ecuador cuesta 16 veces más que Bolivia")
+* [Selección de Ecuador corre el riesgo de jugar con poco público ante Bolivia](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-corre-riesgo-jugar-con-poco-publico-bolivia.html "Selección de Ecuador corre el riesgo de jugar con poco público ante Bolivia")
 
-Angulo con la Selección de Ecuador no tuvo un paso trascendental. **Solo jugó dos amistosos**, uno con Gustavo Alfaro, ante Irak en 2022; y otro con Félix Sánchez, en 2023 frente a Australia, ambos fuera del país.
+Curiosamente, **Ramírez y Valle no atraviesan su mejor momento.** El primero ha sido suplente en su equipo, mientras que Valle es el suplente de Domínguez en Liga de Quito.
 
-En cuanto a títulos, el mediocampista ganó la Copa Libertadores sub-20 en el 2020, **la Liga Pro 2021, la Copa Ecuador y la Copa Sudamericana en 2022**, y la MLS Supporters’ Shield y la MLS Conferencia Este en 2023.
+Es una injusticia la ausencia de Domínguez
+------------------------------------------
 
-Los últimos minutos de Angulo en una cancha se registraron en la **octava fecha de la segunda etapa de la Liga Pro** en el Rodrigo Paz Delgado. Ingresó en lugar de Madison Julio a los 87 minutos.
+**Carlos** **Tenorio**, histórico jugador de la Selección de Ecuador, dos veces mundialista y con más de 50 partidos con la camiseta de la Tri, calificó la ausencia de Domínguez como una injusticia y una falta de respeto.
 
-El marcador final fue 2-0 en favor de Liga contra Orense con goles de Fernando Cornejo y Bryan Ramírez.
+En una entrevista con Radio Centro, el exdelantero se **refirió a las convocatorias de Beccacece**, haciendo énfasis en la posición de arquero. A pesar de la presencia de Galíndez, quien está bien respaldado, Tenorio destacó que Domínguez debería ser convocado por su trayectoria.
 
-El esmeraldeño **se une a la lista de futbolistas ecuatorianos que perdieron la vida** luego de mortales siniestros de tránsito, en distintas partes del país.
+“Domínguez es un arquero que ha demostrado por su trayectoria que debe estar en la selección. **Es incomprensible que de la noche a la mañana ya no sea convocado**“, expresó el ‘Demoledor’.
 
-Édison Realpe, 22 de diciembre 2019
------------------------------------
+Tenorio también aclaró que sus comentarios no eran en contra de los otros convocados, sino que, según él, por nivel y trayectoria, el ‘Dida’ debería estar presente. “**Estamos siendo injustos**. Todos tienen la oportunidad, pero Domínguez es un arquero que siempre debe estar”, agregó.
 
-Edison Realpe fue un futbolista ecuatoriano que falleció a los 23 años de edad, la mañana del domingo 22 de diciembre del 2019**, en un siniestro de tránsito en Esmeraldas**, en un hecho que conmovió y enlutó al fútbol ecuatoriano.
+¿Por qué no es convocado Alexander Domínguez?
+---------------------------------------------
 
-El jugador **militó las temporadas 2018 y 2019 en Liga de Quito**. Según allegados, El Nacional iba a ser el próximo destino de su corta carrera que comenzó en el Guayaquil City, en el 2014 y se extendió hasta 2017.
+Considerando que Ramírez y Valle no atraviesan su mejor momento, y que **Domínguez** lidera la defensa de Liga de Quito, equipo que busca llegar a la final de la **Liga** **Pro**, su ausencia en la convocatoria resulta sorprendente.
 
-Su actuación más consagratoria ocurrió en la segunda final del torneo del 2018 que se cerró con un nuevo título del campeonato nacional para los universitarios.
+**Francisco** **Egas**, presidente de la Federación Ecuatoriana de Fútbol (**FEF**), se refirió a la no convocatoria de Domínguez durante una rueda de prensa el 11 de noviembre.
 
-Aquel domingo 16 de diciembre, **el lateral ingresó a la cancha a reemplazar a Franklin Guerra**, quien salió lesionado. Pese a que medía 1,75, el entrenador Pablo Repetto lo ubicó como defensa central, un puesto en el que nunca había actuado.
+“Yo no soy nadie para hablar de la convocatoria de uno y otro jugador. **No hay ninguna sanción**,” comentó Egas. Además, aclaró que solo Sebastián Beccacece toma las decisiones sobre los jugadores convocados y los motivos detrás de cada elección. “Él tiene en su cabeza lo que piensa plantear y lo que necesita de cada jugador,” destacó el dirigente.
 
-Otilino Tenorio, 7 de mayo del 2005
------------------------------------
+Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025
+==================================================================================
 
-En esa fecha se produjo el deceso del delantero **Otilino Tenorio, quien se dio a conocer en Emelec**, pero falleció cuando militaba en El Nacional.
-
-Él sufrió un violento siniestro de tránsito en la vía que conduce de Quevedo a Santo Domingo de Los Tsáchilas, cuanto tenía 24 años y se dirigía a Guayaquil para celebrar el Día de la Madre.
-
-Es recordado por sus **celebraciones con una máscara**, por lo que fue conocido también como ‘Spider-man’.
-
-Su último gol lo anotó precisamente a Emelec, el 17 de abril del 2005, en el Olímpico Atahualpa. Fue en la victoria de **El Nacional por 5-2 ante los azules**. ‘Otigol’ anotó tres tantos y no los festejó con la máscara.
-
-Uno de los momentos más memorables fue cuando **Jaime Iván Kaviedes marcó un gol contra Costa Rica** en el Mundial Alemania 2006, recordando así a Tenorio, en un partido que Ecuador goleó 3-0.
-
-Carlos Muñoz, 26 de diciembre de 1993
--------------------------------------
-
-El país se conmocionó al conocer el deceso del delantero del Barcelona Sporting Club, C**arlos Muñoz, quien sufrió un violento** siniestro cuando se dirigía a Playas, en la provincia del Guayas.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/05/OtilinoTenorio-1024x683.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Fue cuatro días después de haber sido determinante al anotar tres goles contra El Nacional para que los **toreros se clasificaran para la Copa Libertadores de 1994**. Ese fue su último partido de fútbol.  
-
-Antes integró el plantel de Barcelona SC que **llegó a la final de la Copa Libertadores en 1990**, y de la Selección de Ecuador en la Copa América en 1993, donde la Tri alcanzó el cuarto puesto, el mejor en sus participaciones en el torneo.
-
-Para los hinchas de BSC, el **‘Frentón’ es uno de sus principales ídolos**, al punto que la general sur del estadio Monumental, donde se ubica la barra organizada, lleva el nombre del jugador que también jugó en Everest, Olmedo, Audaz Octubrino y Filanbanco.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/10/CarlosMunoz.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Jimmy Izquierdo, 23 de abril de 1994
-------------------------------------
-
-Al igual que Angulo**, Jimmy Izquierdo no murió inmediatamente en el siniestro de tránsito** en el que estuvo involucrado, sino que estuvo cerca de un año en coma, antes de fallecer.
-
-El siniestro de tránsito de **Izquierdo se registró el 30 de abril de 1993 en la vía que une Manta** con Guayaquil, cuando el defensor se movilizaba a ver a sus padres, mientras era jugador de Delfín.
-
-Con BSC ganó los **títulos nacionales de 1985, 1987, 1989 y 1991**. Fue vicecampeón de la Copa Libertadores de América en 1990 y se caracterizaba por su potente remate.
-
-También integró la Selección de Ecuador con Dušan Drašković como entrenador.
-
-San viernes
------------
-
-Trump planea nombrar a Marco Rubio como Secretario de Estado
-============================================================
-
-Rubio, que habla un perfecto español, puede además ser de gran apoyo para la política exterior de la Administración Trump para Latinoamérica.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![El senador Marco Rubio habla delante del expresidente estadounidense Donald Trump que asiste a un mitin en Reading, Pensilvania.](https://www.elcomercio.com/wp-content/uploads/2024/11/Marco-rubio-efe.jpg)
-
-El presidente electo de Estados Unidos, [Donald Trump](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html"), planea **ofrecer la importante cartera de Secretario de Estado** al **senador cubano-estadounidense de Florida** [Marco Rubio](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html"), según informó este lunes el diario The New York Times.
-
-### Más noticias
-
-* [El beneficio de la ‘green card’ que prometió Donald Trump para extranjeros](https://www.elcomercio.com/actualidad/mundo/beneficio-green-card-prometio-donald-trump-extranjeros.html "El beneficio de la ‘green card’ que prometió Donald Trump para extranjeros")
-* [Donald Trump avanza en el diseño de su Gabinete](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "Donald Trump avanza en el diseño de su Gabinete")
-* [Donald Trump obtuvo la misma cantidad de votos en el 2020 y este 2024](https://www.elcomercio.com/actualidad/mundo/donald-trump-obtuvo-misma-cantidad-votos-2021-2024.html "Donald Trump obtuvo la misma cantidad de votos en el 2020 y este 2024")
-
-El Times señaló que **esta decisión aún podría cambiar,** pero parece probable la **elección de Rubio, de 53 año**s, especialmente después de que el exmandatario considerase nombrar al senador como su compañero de fórmula, antes decantarse finalmente por JD Vance.
-
-El **republicano de Miami fue elegido para el Senado en 2010** y mantuvo una posición como halcón en política exterior. Adoptó **líneas duras sobre China e Irán en particular** y manifestando una posición favorable a poner fin a la guerra entre Rusia y Ucrania.
-
-Rubio habla perfecto español
-----------------------------
-
-Rubio, que habla un perfecto español, puede además ser de gran apoyo para la política exterior de la Administración Trump para Latinoamérica y sus objetivos estratégicos.
-
-No obstante, algunos **conservadores lo consideraron vacilante en materia de inmigración,** un tema que le causó problemas políticos cuando se presentó a la nominación presidencial republicana en 2016 contra Trump y otros.
-
-Durante esa campaña, **Trump lo menospreció llamándolo ‘Pequeño Marco’**, y Rubio respondió con ataques mordaces.
-
-El nombre del senador ya se barajaba para liderar la **diplomacia estadounidense,** dado que estuvo en la lista de posibles vicepresidentes para un segundo mandato del republicano.
-
-Rubio, de origen cubano, ejerció desde el **Comité de Relaciones Exteriores del Senado** una notable influencia en la política hacia Latinoamérica del primer mandato de Trump. Algunos asesores del futuro mandatario creen que su perfil de **‘halcón’ contrasta con la política aislacionista** de ‘Estados Unidos primero’ que promueve Trump.
-
-Con los cortes de luz el internet también se interrumpe, ¿por qué?
-==================================================================
-
-El servicio de internet depende de la electricidad tanto en los hogares como en la infraestructura de los proveedores. Conozca las razones.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz interrumpen el servicio de internet porque el equipo en hogares e infraestructura de proveedores necesita electricidad para funcionar.](https://www.elcomercio.com/wp-content/uploads/2024/11/intenet.jpg)
-
-**Ecuador** atraviesa por una **grave crisis energética** con los **cortes de luz** de hasta 14 horas al día, que también afecta al internet. Entre los servicios más afectados están las **telecomunicaciones**. Así, millones de usuarios de **telefonía móvil** y **datos** tienen interrupciones durante los cortes de luz prolongados[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Asociación de operadores móviles tiene una propuesta frente a los cortes de luz](https://www.elcomercio.com/actualidad/negocios/asociacion-operadores-moviles-propuesta-frente-cortes-luz.html "Asociación de operadores móviles tiene una propuesta frente a los cortes de luz")
-* [Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre](https://www.elcomercio.com/actualidad/ecuador/ecuador-mantendra-cortes-luz-12-horas.html "Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre")
-* [Gremio industrial con incertidumbre tras horarios de cortes de luz en Quito](https://www.elcomercio.com/actualidad/quito/gremio-industrial-incertidumbre-cortes-luz-quito.html "Gremio industrial con incertidumbre tras horarios de cortes de luz en Quito")
-
-Cuando hay un **corte de luz**, el servicio de internet también se interrumpe. Esto ocurre principalmente porque el **internet** depende de un **sistema eléctrico complejo** que permite que los datos se transmitan de un lugar a otro.
-
-¿Cómo funciona y por qué la electricidad es crucial para que haya internet?
----------------------------------------------------------------------------
-
-El internet que se usa en casa u oficina llega a través de equipos como **módems y routers**, que convierten las señales en datos que podemos ver en nuestros dispositivos, como computadores, teléfonos, tablets, etc.
-
-Estos **equipos**, como sabemos, necesitan **electricidad** para funcionar. Si la **electricidad** se corta, el **módem y el router** dejan de funcionar y la **conexión a internet** se interrumpe de inmediato.
-
-Pero, el **internet** no solo depende de la **electricidad en nuestros hogares**; también necesita que toda la infraestructura que lo soporta esté conectada a la red eléctrica.
-
-Las instalaciones de las operadoras de telefonía móvil
-------------------------------------------------------
-
-Las empresas que brindan el **servicio telefonía móvil e internet** tienen sus propias instalaciones, donde cuentan con **servidores, antenas y estaciones de transmisión de datos.** Estos equipos también requieren energía para funcionar.
-
-En algunos casos, las operadoras tienen sistemas de respaldo, como **generadores o baterías**, para mantener sus equipos operativos durante cortes de luz. Sin embargo, estos sistemas de respaldo no pueden soportar largas y recurrentes interrupciones eléctricas.
-
-La autonomía de estos equipos puede durar hasta 6 horas, dependiendo de las personas que se intenten conectar a la red. Pero necesitan de un tiempo para poder recargarse, señalaron desde las operadoras telefónicas.
-
-Según la asociación global de operadores móviles (GSMA), el sector móvil ha implementado diversas  
-medidas como el aumento de la **capacidad de sus baterías**, instalación de más de generadores y la optimización de la logística de combustible, para mitigar el impacto de los apagones.
-
-Además, solicitaron a las autoridades **coordinar de los cortes de luz** para garantizar la carga completa de las **baterías de respaldo.**
-
-En Pichincha habrá 49 357 miembros de Juntas Receptoras del Voto
-================================================================
-
-Los estudiantes universitarios son la mayoría de los seleccionados para formar parte de las Juntas Receptoras del Voto.
------------------------------------------------------------------------------------------------------------------------
-
-![Este 12 de noviembre del 2024, en todas las delegaciones electorales provinciales, se llevó a cabo el sorteo para asignar a los miembros de las Juntas Receptoras del Voto.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-52.jpg)
-
-Este **12 de noviembre del 2024**, se llevó a cabo el sorteo para designar a los miembros de las **Juntas Receptoras del Voto (JRV)** para las elecciones presidenciales y parlamentarias del 9 de febrero del 2025. Las **delegaciones provinciales,** entre ellas la de **Pichincha**, actuaron de manera simultánea en todas las provincias.
-
-### Más noticias
-
-* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
-* [Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic](https://www.elcomercio.com/actualidad/politica/suma-receptara-carpetas-candidatos-presidencia-jan-topic.html "Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic")
-* [La legitimidad de Sariha Moya será puesta a prueba](https://www.elcomercio.com/actualidad/politica/legitimidad-sariha-moya-a-prueba.html "La legitimidad de Sariha Moya será puesta a prueba")
-
-Una elección rápida y tecnológica
----------------------------------
-
-En la **Delegación Provincial de Pichincha del Consejo Nacional Electoral**, la elección de los **49 357** miembros de las **Juntas Receptoras del Voto** para las elecciones generales del 2025, no duró más de 15 minutos. La selección **constó de cinco pasos** para elegir a los miembros de las 7 051 Juntas Receptoras del Voto, que se desplegarán a lo largo de los **464 recintos electorales** en **Pichincha**. Fue, en realidad, la generación del código QR de cada miembro lo que demoró más durante el proceso.
-
-Los criterios de designación
-----------------------------
-
-La mayoría de los asignados son **estudiantes universitarios**, que serán más del **81%** de los miembros de las JRV. Los siguen los **empleados de instituciones privadas (16.9%)**, de **instituciones públicas (9.26%).**
-
-Hubo que recurrir a los residentes en **zonas rurales** que pertenezcan a asociaciones comunitarias, juntas de agua, comité promejoras, el **048%**. Finalmente, solo **13 personas, es decir 0.03%**, salieron del **padrón electoral.**
-
-Las notificaciones
-------------------
-
-El **calendario electoral** determina que los miembros de las **Juntas Receptoras del Voto** para las presidenciales del próximo año deberán recibir las notificaciones entre el 18 de noviembre del 2024 y el 25 de enero del 2025[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador) "https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador)")[](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador) "https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador)")
-
-Las **capacitaciones**, por su parte, se llevarán a cabo entre el próximo 2 de diciembre y el 9 de febrero del próximo año.
-
-El beneficio de la ‘green card’ que prometió Donald Trump para extranjeros
-==========================================================================
-
-El magnate, quien volverá a la Casa Blanca, aseguró que en su primer día pondrá en marcha un plan para evitar fuga de talentos.
--------------------------------------------------------------------------------------------------------------------------------
-
-![La green card, un beneficio para extranjeros.](https://www.elcomercio.com/wp-content/uploads/2024/05/visa-estados-unidos-sancion-colombianos.jpg)
-
-“Triste que perdamos personas de las universidades más importantes”, expresó Donald Trump antes de las **elecciones presidenciales** cuando prometió un **beneficio** para **estudiantes extranjeros**. Ahora, como virtual presidente de **Estados Unidos**, varios esperan que cumpla lo dicho[.](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump")
-
-### Más noticias:
-
-* [Donald Trump avanza en el diseño de su Gabinete](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "Donald Trump avanza en el diseño de su Gabinete")
-* [Donald Trump nombra para la agencia ambiental a un aliado sin experiencia en el sector](https://www.elcomercio.com/actualidad/mundo/trump-nombra-agencia-ambiental-aliado-experiencia-sector.html "Donald Trump nombra para la agencia ambiental a un aliado sin experiencia en el sector")
-* [Migrantes temen quedar atrapados en la frontera sur de México tras la victoria de Trump](https://www.elcomercio.com/actualidad/mundo/migrantes-temen-quedar-atrapados-frontera-sur-mexico-tras-victoria-trump.html "Migrantes temen quedar atrapados en la frontera sur de México tras la victoria de Trump")
-
-Green card para extranjeros
----------------------------
-
-El **magnate** en medio de su **campaña,** que le permitió abrirse camino nuevamente a la **Casa Blanca**, se refirió a la **necesidad** de que ese país cuente con **personal calificado** para distintas labores.
-
-En el programa All-In Podcast, a mediados de junio de este 2024, **Trump** reiteró que **Estados Unidos** afrontaba una “invasión” de **migrantes**: “Muchas personas salen de **cárceles** y **prisiones**, salen de instituciones mentales, manicomios, y tenemos **terroristas** entrando a nuestro país a un nivel que nunca antes habíamos visto”.
-
-![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-efe--1024x683.jpg)
-
-Donald Trump. Fotografía: EFE
-
-Sin embargo, reconoció que del **extranjero** arriban muchas personas para adelantar sus **estudios** en **prestigiosas instituciones americanas.** Al graduarse, vuelven a sus países de origen.
-
-“Es muy triste cuando perdemos a personas de **Harvard**, MIT, de las universidades más importantes y de las escuelas más pequeñas que también son escuelas **fenomenales**“, opinó.
-
-La green card que prometió Donald Trump
----------------------------------------
-
-Por tanto, lanzó una nueva medida: “Lo que quiero hacer y lo que haré es que cuando se gradúen de una **universidad** creo que deberían **obtener automáticamente**, como parte de su **diploma**, una **green card** para poder quedarse en este país”.
-
-![Donald Trump ganó las elecciones de Estados Unidos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-23-1-1024x683.jpg)
-
-Donald Trump, quien será presidente de Estados Uidos en 2025
-
-**Trump** afirmó que el **beneficio** sería para “**cualquiera que se gradúe de una universidad**“. “Sé de historias de personas que se graduaron de una universidad de primer nivel y querían desesperadamente quedarse aquí. Tenían un plan para una **empresa**, un concepto, y no pueden. Vuelven a la India, vuelven a China, hacen lo mismo en esos lugares y se convierten en **multimillonarios**, **empleando** a miles y **miles** de **personas**. Y podría haberse hecho aquí”, añadió en All-In Podcast.
-
-Trump promete reformas migratorias desde el primer día en la Casa Blanca
-------------------------------------------------------------------------
-
-**Trump**, quien fue **presidente de Estados Unidos entre 2017 y 2021**, se comprometió a que tal situación se va a “acabar el primer día” (así es como ha denominado su primera jornada como presidente en 2025 a su regreso a la Casa Blanca). Vale mencionar que en **Estados Unidos**, para 2022 y 2023, se calculaban alrededor de un millón de **estudiantes extranjeros**, según datos del portal especializado Statista.
-
-Una **green card** es un permiso para que los **extranjeros** puedan **vivir** y **trabajar permanentemente** en **Estados Unidos**. Así, es muy distinto a una visa, ya que esta última solo les concede a los extranjeros una estadía temporal en el país. La green card se puede obtener de distintas formas, ya sea a través de: La familia, el empleo, estatus de refugiado o asilado.
-
-Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones
-======================================================================================
-
-Las fuertes lluvias que cayeron en los últimos días en Colombia acusaron estragos en varias regiones del país.
---------------------------------------------------------------------------------------------------------------
-
-![Gustavo Petro en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/gustavo-petro-efe-agosto.jpg)
-
-El presidente de Colombia, [Gustavo Petro](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html"), declaró el domingo, 10 de noviembre de 2024, la situación de desastre en todo el país por las **fuertes lluvias de los últimos días** que han provocó inundaciones, desbordamientos y **deslizamientos que afectan a 27 de los 32 departamentos colombianos** y acerca de 46 000 familias.
-
-### Más noticias
-
-* [Proveedores de Magis TV detenidos en Colombia por robar información](https://www.elcomercio.com/deportes/futbol/hermanos-detenidos-magis-tv-colombia.html "Proveedores de Magis TV detenidos en Colombia por robar información")
-* [Gustavo Petro expresa solidaridad con Ecuador y Cuba por crisis energética](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-expresa-solidaridad-ecuador-cuba-crisis-energetica.html "Gustavo Petro expresa solidaridad con Ecuador y Cuba por crisis energética")
-* [Petro dice que investigación contra su campaña de 2022 viola fuero presidencial](https://www.elcomercio.com/actualidad/mundo/petro-dice-investigacion-contra-campana-viola-presidencial.html "Petro dice que investigación contra su campaña de 2022 viola fuero presidencial")
-
-“Por lo que acontece en estos días, se declara **situación de desastre** en todo el país en virtud de la variabilidad climática, generadora de **impactos imprevisibles e inusuales aumentando** la vulnerabilidad en los territorios”, indicó el mandatario en una rueda de prensa tras un comité de emergencia -Puesto de Mando Unificado (PMU)-.
-
-Esta declaratoria será para todo el país, pero los esfuerzos se centrarán en tres zonas “con una escala muchísimo mayor”, en palabras de Petro, quien indicó que son en el **norte del departamento de La Guajira**, en todo el departamento del **Chocó y en Bogotá** “por escasez de agua potable”.
-
-“Lo que hace una declaración de estas es que podemos, a partir del decreto, t**rasladar recursos presupuestales** de la nación hoy en otras entidades que no tienen que ver con este tipo de atenciones a las regiones que están **siendo víctimas climáticas** de la situación actual”, detalló el presidente, para agregar que la temporada de lluvias se extenderá todo el mes de diciembre.
-
-El mandatario añadió que la **vulnerabilidad climática en Colombia** “viene agravándose por impactos que tienen que ver con la deforestación, las economías ilícitas y, en el caso de Bogotá, en mi opinión, por una urbanización desaforada de la Sabana de Bogotá”.
-
-Afectaciones
-------------
-
-Las **fuertes lluvias** que cayeron en los **últimos días en Colombia** acusaron estragos en varias regiones del país, con afectaciones en un total de 27 de los **32 departamentos** que incluyen inundaciones, desbordamientos en ríos y quebradas, y desprendimientos que afectan a 46 000 familias.
-
-“En el consolidado estamos hablando de **186 municipios en 27 departamentos**, con 467 eventos registrados y podrían estar afectadas cerca de 46 000 familias”, explicó en una rueda de prensa el director de la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD), Carlos Carrillo.
-
-El **departamento del Chocó es el más damnificado por el momento**, con 22 municipios afectados y más de 30 000 familias damnificadas, según las cifras preliminares ofrecidas por Carrillo, quien indicó que por el momento no hay víctimas ni personas desaparecidas.
-
-El comité departamental de gestión del riesgo del Chocó declaró calamidad pública tras las graves afectaciones en la región.
-
-Por su parte, en el **departamento de Santander** la crecida de la quebrada Las Cruces provocó afectaciones en el municipios de San Vicente de Chucurí, dejando una persona muerta y dos desaparecidas, según la información compartida por medios locales.
-
-En Bogotá también se **presentaron afectaciones en los últimos días**, con inundaciones en la autopista de entrada a la capital debido a las fuertes precipitaciones, así como en el departamento de La Guajira con más de 10 000 familias afectadas por inundaciones.
-
-Iván Cajamarca será cremado este 12 de noviembre
-================================================
-
-El proceso del trámite para la eutanasia de Iván Cajamarca no se pudo concluir. Su estado de salud se deterioró rápidamente
----------------------------------------------------------------------------------------------------------------------------
-
-![Iván Cajamarca anhelaba acogerse a la muerte asistida.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ivan-Cajamarca.jpg)
-
-Iván Cajamarca Déleg, de 50 años, falleció el domingo 10 de noviembre de 2024 a la espera de que se concluya un trámite legal que **le aprobara la eutanasia**.
-
-### Más noticias
-
-* [Cortes de agua en Quito este martes 12 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-este-martes-12-de-noviembre.html "Cortes de agua en Quito este martes 12 de noviembre")
-* [Un incendio ocurrió por causa de una vela encendida, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-se-registro-a-causa-de-vela-encendida-quito.html "Un incendio ocurrió por causa de una vela encendida, en Quito")
-* [De Bogotá a Quito en 32 horas](https://www.elcomercio.com/opinion/bogota-quito-32-horas-saudia-levoyer-columnista.html "De Bogotá a Quito en 32 horas")
-
-Un pedido que nunca llegó
--------------------------
-
-**Iván Cajamarca** deseaba una muerte digna en el momento en que lo quisiera, antes de sufrir más a causa del cáncer que le quitó la vida.
-
-Para que el proceso se aprobara, **Iván debía cumplir con tres requisitos**: una evaluación psicológica, un examen siquiátrico y una evaluación social.
-
-Sin embargo, su estado de salud decayó y **no pudo completar el trámite** que le exigía el Comité Interdisciplinario para la Aplicación de la Eutanasia.
-
-Su familia lo ayudaba a realizar los trámites y constató las trabas que tiene el proceso. Citas médicas que no se realizaban por vacaciones de los médicos o la falta de espacio en las agendas de los médicos.
-
-Iván tenía u**n cáncer que empezó en el hueso sacro**, pero hace un par de semanas se le detectó un tumor en la cabeza que le causó dolores muy fuertes. La metástasis llegó a su páncreas, sus dolores se incrementaron.
-
-Debido a su diagnóstico, Iván decidió acogerse a la resolución de la Corte Constitucional y solicitar la **muerte asistida**. Lastimosamente, el avance de su enfermedad fue más rápido que el del trámite.
-
-La voluntad que sí se cumplirá
-------------------------------
-
-Iván Cajamarca **es velado** el lunes 11 de noviembre en la casa de un hermano. Este martes 12 de noviembre, se llevará a cabo **una misa** y posteriormente **se realizará la cremación,** tal como era su voluntad.
-
-Posteriormente, se sembrará un árbol **en un parque del cerro Jalshi** en su honor, lo que también era su deseo, donde se colocarán [sus cenizas](https://es.wikipedia.org/wiki/Eutanasia "https://es.wikipedia.org/wiki/Eutanasia").
-
-Un equipo se retira de la Vuelta a Ecuador tras caída de ciclistas
-==================================================================
-
-La Vuelta Ciclística al Ecuador se quedó sin uno de sus animadores en la etapa 2. ¿Cuántos equipos quedan en competencia?
--------------------------------------------------------------------------------------------------------------------------
-
-![El pelotón de ciclistas en la etapa 2 de la Vuelta Ciclística al Ecuador 2024](https://www.elcomercio.com/wp-content/uploads/2024/11/vueltaalecuador.jpg)
-
-La etapa 2 de la **Vuelta Ciclística a Ecuador** arrancó con una novedad en torno a los equipos participantes. El **Team Campo Fértil** anunció su retiro debido a un incidente en el primer día de la competencia.
-
-De los 15 equipos que iniciaron la Vuelta a Ecuador, solo 14 partieron durante este martes 12 de noviembre de 2024 en la competencia. Aquello redujo la cantidad de participantes a 82 para lo que resta del certamen.
-
-### Más noticias:
-
-* [Segundo Navarrete y Steven Haro buscan revancha en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/vuelta-ecuador-2024-segundo-navarrete-steven-haro-revancha.html "Segundo Navarrete y Steven Haro buscan revancha en la Vuelta al Ecuador")
-* [¿Cómo será la segunda etapa de la Vuelta a Ecuador?](https://www.elcomercio.com/deportes/futbol/trazado-vuelta-ecuador-segunda-etapa.html "¿Cómo será la segunda etapa de la Vuelta a Ecuador?")
-* [Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/oscar-sevilla-vuelta-ecuador-etapa-1.html "Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador")
-
-En la presentación de equipos y ciclistas en la previa de la etapa, un cajón quedó sin firmas dentro de la grilla. Ninguno de los representantes del **Campo Fértil** se dio cita.
-
-El motivo de la salida de la escuadra es la caída que involucró a sus ciclistas dentro del primer día del evento. Aunque en primera instancia parte de los ciclistas de la delegación consiguió terminar la carrera, aquello no ocurrió para la continuación de la **Vuelta a Ecuador.**
-
-El Team Campo Fértil se pronunció por medio de un comunicado en el cual dio a conocer su salida y la situación de su equipo. “Aprovechamos esta oportunidad para felicitar a todos nuestro equipo por el esfuerzo y desempeño mostrado hasta el momento. Continuaremos apoyando a nuestros corredores en su recuperación y trabajando en conjunto para futuras competencias”, manifestó el cuadro.
-
-¿Qué pasó en el primer día de la Vuelta a Ecuador?
---------------------------------------------------
-
-En la primera etapa de la Vuelta a Ecuador se produjo una caída a la altura del kilómetro 40. Previo al puerto de montaña en **Nanegalito**, 10 ciclistas se vieron involucrados en un incidente con un automotor.
-
-En un inicio y a raíz de la gravedad del hecho, dos ciclistas anunciaron su baja. José Sarmiento Álvarez del Team Banco Guayaquil (TBG) y Cristian Montenegro del Team Sin Fronteras SP fueron quienes abandonaron la competencia.
-
-Pese a que nadie del Team Campo Fértil se había pronunciado, a la final el equipo decidió no continuar. A su vez, este manifestó que todos sus ciclistas se encuentran bien y han sido atendidos.
-
-¿Qué equipos permanecen en carrera en la Vuelta a Ecuador?
-----------------------------------------------------------
-
-Con la salida del Team Campo Fértil, solo cinco equipos nacionales se mantienen en competencia. Estos son el CYS Technology, Halcones Unidos, Giant Toscana, **Sin Fronteras** y COAC San Gabriel Cinecable.
-
-Los internacionales presentes son el BTR Racing, Orígenes Coffe, Politáchira, Hino One y Esparza Training.
-
-A nivel continental están el **Movistar Best PC**, **Saitel,** **TBG** y **Team Medellín**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCNQZqbO6Bi/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Team Campo Fertil (@teamcampofertil)](https://www.instagram.com/p/DCNQZqbO6Bi/?utm_source=ig_embed&utm_campaign=loading)
-
-Megan Fox y su ascenso, caída y resurgimiento en Hollywood 
-===========================================================
-
-Megan Fox, ícono de Hollywood, ha añadido un nuevo capítulo a su vida con Machine Gun Kelly.
+Los estudiantes universitarios son los que más participación tendrán en las elecciones 2025.
 --------------------------------------------------------------------------------------------
 
-![Megan Fox se consolidó en Hollywood con ‘Transformers’. Foto: @meganfox.](https://www.elcomercio.com/wp-content/uploads/2024/11/Megan-Fox.jpg)
+![En la delegación provincial de Guayas, se llevó a cabo el sorteo de los miembros de las Juntas Receptoras del Voto.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-54.jpg)
 
-**Megan Denise Fox** nació el 16 de mayo de 1986 en Oak Ridge, Tennessee. Desde muy joven, mostró interés por la actuación. A los 5 años, **comenzó a tomar clases de interpretación y danza**. Su familia se mudó a Florida, donde continuó su formación artística. A los 15 años, **debutó en el cine con la película ‘Holiday in the Sun’** (2001), que le abrió las puertas a una carrera prometedora, de acuerdo con [Sensacine](https://www.sensacine.com/actores/actor-105046/biografia/ "https://www.sensacine.com/actores/actor-105046/biografia/").  
+En las 24 delegaciones provinciales y en la Especial del Exterior del Consejo Nacional Electoral se llevó a cabo el **sorteo** para conformar las **Juntas Receptoras del Voto** (JRV). Las **elecciones generales** del domingo **9 de febrero del 2025** tendrán a más de **287 000 ciudadanos** que estarán a cargo de las mesas de votación.
 
 ### Más noticias
 
-* [Megan Fox y Machine Gun Kelly esperan un bebé](https://www.elcomercio.com/tendencias/entretenimiento/megan-fox-machine-gun-kelly-embarazo.html "https://www.elcomercio.com/tendencias/entretenimiento/megan-fox-machine-gun-kelly-embarazo.html")
-* [La neumonía sigue siendo una amenaza mortal, especialmente para los más pequeños](https://www.elcomercio.com/tendencias/salud/dia-mundial-contra-neumonia-efemeride.html "https://www.elcomercio.com/tendencias/salud/dia-mundial-contra-neumonia-efemeride.html")
+* [Este 12 de noviembre cambian los precios de las gasolinas en Ecuador](https://www.elcomercio.com/actualidad/negocios/12-de-noviembre-cambian-precios-de-gasolinas-ecuador.html "Este 12 de noviembre cambian los precios de las gasolinas en Ecuador")
+* [Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre](https://www.elcomercio.com/actualidad/ecuador/ecuador-mantendra-cortes-luz-12-horas.html "Ecuador mantendrá cortes de luz de 12 horas hasta el jueves 14 de noviembre")
+* [Calendario electoral en noviembre, claves del proceso de candidaturas](https://www.elcomercio.com/actualidad/politica/calendario-electoral-noviembre-claves-proceso-candidaturas.html "Calendario electoral en noviembre, claves del proceso de candidaturas")
 
-Durante su adolescencia, **Fox trabajó como modelo** y participó en series de televisión como ‘Dos hombres y medio’ (2003) y ‘Hope & Faith’ (2004-2006). Estos papeles le permitieron **ganar visibilidad en la industria**. 
+Sorteo informático en simultáneo
+--------------------------------
 
-**El gran salto a la fama de Megan Fox** 
------------------------------------------
+El **calendario electoral** asignaba el 12 de noviembre del 2024 como la fecha para el sorteo de los miembros de las **Juntas Receptoras del Voto**. Las competencias para este proceso son de las delegaciones provinciales y la Junta Especial del Exterior.
 
-El verdadero **despegue de la carrera de Megan Fox** ocurrió en 2007 con su papel como **Mikaela Banes** en **‘Transformers’**, dirigida por Michael Bay. La película fue un éxito rotundo, **recaudó más de 700 millones de dólares a nivel mundial**. Su interpretación como la novia del protagonista, interpretado por **Shia LaBeouf**, la convirtió en un símbolo y l**e valió varias nominaciones a premios importantes**, según [Fotogramas](https://www.fotogramas.es/noticias-cine/a19453176/que-fue-de-megan-fox/ "https://www.fotogramas.es/noticias-cine/a19453176/que-fue-de-megan-fox/").  
+En un proceso rápido, de no más de 15 minutos, el sorteo a nivel nacional seleccionó a **287 534 ciudadanos** para conformar las **40 791 Juntas** Receptoras del Voto que se instalarán en todo el país[.](https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador) "https://es.wikipedia.org/wiki/Consejo_Nacional_Electoral_(Ecuador)")
 
-La secuela, **‘Transformers: La venganza de los caídos’** (2009), consolidó su estatus en Hollywood al **superar las cifras de taquilla de su predecesora**. Sin embargo, este éxito vino acompañado de controversias. **La relación entre Fox y Bay se tornó tensa debido a diferencias creativas** y a las exigencias físicas que el director imponía a la actriz, siguiendo con Sensacine.  
+Criterios de selección
+----------------------
 
-**Desafíos y reinventos** 
---------------------------
+Para el sorteo de los miembros de las Juntas Receptoras del Voto, el sistema electoral ecuatoriano trabajó con **ocho criterios de selección**. El sector más importante es la población universitaria, que constituye el 79,34% de los miembros de las JRV.
 
-A pesar del éxito inicial, la carrera de **Megan Fox** sufrió un golpe tras su d**espido de la franquicia Transformers**. A partir de 2010, **enfrentó una serie de fracasos tanto críticos como comerciales**. Sin embargo, **se reinventó** al protagonizar ‘Jennifer’s Body’ (2009), **una película que exploraba temas oscuros con un toque de comedia**. Aunque recibió críticas mixtas, el filme ha ganado un estatus de culto con el tiempo, a decir de Fotogramas.  
+Los siguen en orden: los **empleados privados** con título profesional (4,45%), **servidores públicos** con título profesional (6,43%), empleados privados bachilleres (3,31%), servidores públicos bachilleres (2,16%), **estudiantes de bachillerato** mayores de edad (0,28%), **residentes de zonas rurales** y que formen parte de una junta de aguas o comité promejoras (3,72%). Finalmente, para completar la lista, se tomó en cuenta a los que están en el **padrón electoral**, pero solo corresponde al 0,32%.
 
-**Fox también exploró otros géneros y formatos.** En 2018, presentó la serie documental ‘Legends of the Lost’, donde **exploraba culturas antiguas y lugares históricos**. Este cambio hacia proyectos más intelectuales **ayudó a suavizar su imagen pública**. 
+¿Cómo saber si es parte de una Junta Receptora del Voto?
+--------------------------------------------------------
 
-**Vida personal y relación actual** 
-------------------------------------
+Los seleccionados recibirán las notificaciones de parte de la función electoral entre el 18 de noviembre del 2024 y el 25 de enero del 2025.
 
-En los últimos años, **Megan Fox ha estado en el centro de atención** no solo por su carrera, sino también por **su vida personal.** Su relación con el **rapero Machine Gun Kelly** ha sido objeto de **interés mediático constante**. Juntos han asistido a numerosas alfombras rojas con estilos llamativos y declaraciones audaces, siguiendo con Fotogramas. 
+Sin embargo, a partir del 14 de noviembre se habilitaría la consulta en la página web del Consejo Nacional Electoral. Con el número de cédula comprobará si fue seleccionado. Cada miembro de la JRV tendrá su propio código QR.
 
-Recientemente, **Fox anunció que espera un hijo con Machine Gun Kelly**, lo que ha añadido un nuevo capítulo a su vida personal y profesional. 
+Para las elecciones 2025 están en firme 15 candidatos
+-----------------------------------------------------
 
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCPh1gGzj9u/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Megan Fox (@meganfox)](https://www.instagram.com/p/DCPh1gGzj9u/?utm_source=ig_embed&utm_campaign=loading)
+El 11 de noviembre pasado, los jueces del Tribunal Contencioso Electoral, dictaminó que Jan Topic no podrá ser candidato a la Presidencia de la República. Mientras tanto, la organización que lo auspiciaba, SUMA (Sociedad Unida Más Acción), busca un nombre para reemplazarlo. Mientras eso ocurre, hasta el momento hay 15 candidatos firmes para disputar la Presidencia de la República el próximo año.
 
-Sí se puede pedir indemnización por daños a vehículos caídos en baches en Quito
-===============================================================================
+De este modo, **Jimmy Jairala**, será el candidato por Centro Democrático; **Jorge Escala**, por Unidad Popular; **Andrea González**, por Sociedad Patriótica; **Víctor Arauz**, por Pueblo Igualdad Democracia; **Luisa González**, por Revolución Ciudadana; **Henry Kronfle**, por el Partido Social Cristiano; **Daniel Noboa**, por Acción Democrática Nacional; **Luis Felipe Tillería**, por Avanza; **Carlos Rabascall,** por Izquierda Democrática; **Juan Cueva,** por Movimiento Amigo; **Pedro Granja**, por el Partido Socialista; **Leonidas Iza**, por el Movimiento Pachakutik; **Iván Saquicela**, por Democracia Sí; **Francisco Tabacchi**, por Movimiento Creo, y **Henry Cucalón**, por el Movimiento Construye, son los candidatos aún vigentes para las elecciones del 2025.
 
-Los ciudadanos que busquen una indemnización por los daños provocados por los baches en Quito deben hacer el siguiente proceso.
+Según el calendario electoral, la campaña comenzará el 5 de enero y deberá concluir el 6 de febrero del 2025. El sufragio universal será el domingo 9 de febrero del 2025.
+
+John Pólit, hijo del excontralor Carlos Pólit, se declaró culpable en Estados Unidos
+====================================================================================
+
+John Pólit Estévez llegó a un acuerdo con la justicia de Estados Unidos para obtener una sentencia reducida.
+------------------------------------------------------------------------------------------------------------
+
+![John Pólit se declaró culpable de lavado de activos, este martes 12 de noviembre](https://www.elcomercio.com/wp-content/uploads/2024/11/john-polit-acuerdo.jpg)
+
+**John Pólit** **Estévez**, hijo del excontralor sentenciado **Carlos Pólit**, se declaró culpable de conspiración de **lavado de activos** y llegó a un acuerdo con la justicia de **Estados Unidos** para obtener una sentencia reducida.
+
+### Más noticias
+
+* [Lavinia Valbonesi defiende a Daniel Noboa en redes sociales](https://www.elcomercio.com/actualidad/politica/lavinia-valvonesi-defiende-daniel-noboa.html "Lavinia Valbonesi defiende a Daniel Noboa en redes sociales")
+* [Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ajustense-cinturones-vienen-sacudones.html "Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’")
+* [Verónica Abad se presentará en la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/veronica-abad-pleno-asamblea-nacional-viviana-veloz.html "Verónica Abad se presentará en la Asamblea Nacional")
+
+Pólit acordó cooperar con las autoridades norteamericanas a cambio que los años de su sentencia sean ajustados a una **pena más leve**.
+
+Su **culpabilidad** fue aceptada en la audiencia desarrollada en la **Corte del Distrito Sur de la Florida**, este martes 12 de noviembre de 2024.
+
+Justicia desestimó cinco delitos tras acuerdo
+---------------------------------------------
+
+El hijo de **Carlos Pólit** era procesado por seis delitos; tras el acuerdo, solo sería acusado por uno de ellos, mientras que los otros cinco señalamientos fueron desestimados, informó **El Universo**.
+
+Los abogados de **Pólit** esperan que, con el acuerdo, la **Justicia de Estados Unidos** lo **sentencie** con una pena menor a los **10 años**, mismo tiempo en prisión que recibió su padre por cargos similares. Los dos involucrados eran acusados de realizar **transacciones de bienes derivados en acciones ilícitas** y de **lavado de dinero**.
+
+El trato le obliga a **John Pólit** a cumplir con una **serie de peticiones**, entre ellas, entregar documentos y evidencias de otros involucrados en los delitos; así como, declarar sobre sus **actividades ilegales**.
+
+La intención del **Gobierno norteamericano** es desvelar la trama de **corrupción** que estuvo detrás de estos actos, a través de los **testimonios** del hijo del excontralor y las pruebas que presente.
+
+**Pólit** acordó, también, no oponerse a la **incautación de sus bienes** en **Estados Unidos**, que incluyen dos propiedades, una en **Doral** y otra en **Coral Gables**.
+
+La **audiencia de sentencia** será el 30 de enero de 2025.
+
+Carlos Pólit fue sentenciado a 10 años
+--------------------------------------
+
+El excontralor ecuatoriano **Carlos Pólit** fue sentenciado a 10 años de cárcel por la jueza **Kathleen Williams** de la **Corte del Distrito Sur de Florida**, el 1 de octubre de este año.
+
+La sentencia fue dictada tras ser encontrado culpable del delito de **conspiración por lavado de activos**[.](https://www.contraloria.gob.ec/multimedia/Curriculum_Vitae_Carlos_Polit.pdf "https://www.contraloria.gob.ec/multimedia/Curriculum_Vitae_Carlos_Polit.pdf")
+
+Inicialmente, el fiscal **Michael Berger** sostuvo que el excontralor lavó **16,5 millones de dólares**, por lo que pedía una pena de **19 años de cárcel.**
+
+Carlos Pólit ha enfrentado otros procesos legales, incluyendo una condena en Ecuador de seis años por concusión en relación con el **caso Odebrecht**. Además, su hijo, John Pólit Estévez, fue detenido el 11 de septiembre de 2024, enfrentando cargos relacionados con lavado de activos.
+
+Audiencia del caso Nene será este miércoles 13 de noviembre
+===========================================================
+
+La audiencia del caso Nene será el mismo día que el Pleno de la Asamblea tratará el pedido de la vicepresidenta, Verónica Abad.
 -------------------------------------------------------------------------------------------------------------------------------
 
-![Los ciudadanos afirman que tienen que esquivar los baches mientras conducen en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Baches-Quito-1.jpg)
+![La audiencia del caso Nene está prevista para este miércoles 13 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/caso-nene.jpg)
 
-Varias calles de **Quito** presentan un deterioro significativo, lo que representa un problema para los conductores al movilizarse. Dicen que los baches pueden dañar sus vehículos[.](https://es.wikipedia.org/wiki/Calle "https://es.wikipedia.org/wiki/Calle")
+La **audiencia** del **caso Nene** será este miércoles 13 de noviembre de 2024, el mismo día en que el **Pleno de la Asamblea** se reúne para tratar el pedido de la vicepresidenta **Verónica Abad**.
 
-### Más noticias
-
-* [En Quito se realizan obras de renovación de espacios públicos](https://www.elcomercio.com/actualidad/en-quito-se-realizan-obras-de-renovacion-de-espacios-publicos.html "En Quito se realizan obras de renovación de espacios públicos")
-* [El tránsito se complica en la Orellana y Colón por obras en la Ecovía de Quito](https://www.elcomercio.com/actualidad/transito-avenidas-orellana-colon-obras-en-ecovia.html "El tránsito se complica en la Orellana y Colón por obras en la Ecovía de Quito")
-* [Rutas de buses cambian por obras viales, en Quito](https://www.elcomercio.com/actualidad/quito/rutas-de-buses-cambian-por-obras-viales-quito.html "Rutas de buses cambian por obras viales, en Quito")
-
-Nicolás López y José Carrera se preguntan si el **Municipio de Quito** indemniza a los ciudadanos por los **daños a sus vehículos** provocados por los **baches** en las vías.
-
-Ciudadanos preocupados por mal estado de las vías de Quito
-----------------------------------------------------------
-
-**Nicolás López**, un joven taxista, enfrenta un riesgo constante para su vehículo, su principal herramienta de trabajo.
-
-López comenta a EL COMERCIO que vías importantes, como la avenida **Galo** **Plaza** **Lasso**, tienen numerosos baches que, especialmente en las noches, se vuelven invisibles debido a los apagones.
-
-“En las **noches** es difícil verlos y uno termina cayendo en esos **huecos**“, asegura López.
-
-**José Carrera**, taxista informal, enfrenta cada noche el desafío de manejar en una ciudad donde los apagones dificultan aún más la visibilidad de las calles.
-
-“Con los apagones, es más difícil ver los baches. A menudo caigo en alguno, y esto afecta los amortiguadores; incluso las llantas pueden **poncharse** o la dirección del carro se daña”, relata Carrera.
-
-Carrera señala que por el sector de **Las Casas**, la calle está en mal estado y que los vehículos caen todo el tiempo en los baches.
-
-Ambos se cuestionan si el **Municipio de Quito** les indemnizará en caso de que la caída en un bache provoque desperfectos en sus vehículos.
-
-Proceso para pedir indemnización por daños provocados por baches
-----------------------------------------------------------------
-
-La Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) cuenta con un procedimiento para que los afectados soliciten una **compensación**.
-
-Para iniciar el trámite, los ciudadanos deben enviar un oficio a **Epmmop** al correo atencionciudadana@epmmop.gob.ec, junto con una carta que detalle el incidente, el parte policial (si la Agencia Metropolitana de Tránsito intervino), la fecha, la hora y la dirección exacta del suceso.
-
-También deben incluir **fotografías del lugar** y del **daño en el vehículo**, una **proforma** del costo de **reparación**, y copias de la cédula de identidad, licencia de conducir y matrícula del vehículo.
-
-Si el vehículo está en proceso de cambio de **propietario**, se requiere el contrato de compra y venta legalizado.
-
-Este mecanismo, aunque poco conocido, ofrece a los ciudadanos una opción para reclamar una indemnización por los daños atribuibles a la responsabilidad de la **Epmmop**, ya sea por baches, caída de árboles o trabajos en la vía.
-
-Prensa internacional reacciona al fallecimiento de Marco Angulo
-===============================================================
-
-Marco Angulo debutó en la Selección de Ecuador en el 2022 con el argentino Gustavo Alfaro.
-------------------------------------------------------------------------------------------
-
-![Marco Angulo (i), jugador de Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/angulo_internacional_1.jpg)
-
-El fallecimiento del futbolista **Marco Angulo, ocurrida el lunes 11 de noviembre de 2024**, conmocionó al fútbol ecuatoriano que rápidamente lamentó su pronta partida, luego de un siniestro de tránsito.
-
-Futbolistas, clubes y dirigentes vinculados al fútbol enviaron sus notas de pesar a los **familiares y amigos de Marco Angulo**, que permanecía internado en una casa de salud de Quito, desde las primeras horas del lunes 7 de octubre.
+La jueza anticorrupción **Karol Zambrano** fijó para el 13 y 14 de este mes la audiencia del caso en el que se investiga **oferta de tráfico de influencias** y está involucrado el **hijo de la Vicepresidenta**, Francisco B.
 
 ### Más noticias:
 
-* [Proveedores de Magis TV detenidos en Colombia por robar información](https://www.elcomercio.com/deportes/futbol/hermanos-detenidos-magis-tv-colombia.html "Proveedores de Magis TV detenidos en Colombia por robar información")
-* [La Selección de Ecuador vs. Bolivia, ¿cuándo juegan?](https://www.elcomercio.com/deportes/futbol/cuando-juega-bolivia-ecuador-guayaquil.html "La Selección de Ecuador vs. Bolivia, ¿cuándo juegan?")
-* [Naranja Mekánica separó a Luis Luna por un insólito penal](https://www.elcomercio.com/deportes/futbol/naranja-mekanica-luis-luna-penal.html "Naranja Mekánica separó a Luis Luna por un insólito penal")
+* [Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veronica-abad-cronologia-enfrentamiento-denuncia-elecciones-2025.html "Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes")
+* [Asamblea sesiona el miércoles por Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-sesiona-miercoles-veronica-abad.html "Asamblea sesiona el miércoles por Verónica Abad")
 
-Angulo estuvo involucrado en un siniestro de tránsito en la **Autopista General Rumiñahui, que une Quito con Sangolquí**, a la altura del ingreso a Conocoto, donde el vehículo en el que se movilizaba se impactó con una estructura que estaba sobre la vía.
+El caso Nene y la fecha de la audiencia
+---------------------------------------
 
-Fruto del impacto, **Roberto Cabezas, jugador del Independiente Juniors**, y Víctor Charcopa, amigo de los futbolistas, fallecieron, mientras Angulo y dos personas más, fueron trasladados a Quito.
+La **audiencia** del caso Nene fue fijada para las 10:30 de este miércoles 13 de noviembre de 2024.
 
-La prensa internacional se hizo eco del fallecimiento del esmeraldeño de 22 años, que reaccionaron inmediatamente ante la noticia que enlutó a los amantes del fútbol en Ecuador.
+Aunque la jueza a cargo del caso había adelantado la **diligencia** para el lunes 11 de noviembre, un pedido cambió las fechas nuevamente.
 
-Reacciones de la prensa internacional
--------------------------------------
+La defensa de **Francisco Sebastián B. A.** solicitó que se mantenga la fecha del 13 y 14 de noviembre para la reinstalación de la audiencia de evaluación y preparatoria de juicio en el caso Nene.
 
-Sport – España
---------------
+**Oswaldo Trujillo**, abogado del hijo de la vicepresidenta Verónica Abad, hizo el pedido porque el 11 de noviembre tenía otra audiencia con un procesado que tiene una enfermedad catastrófica.
 
-Tragedia en Ecuador: muere con 22 años el internacional Marco Angulo
+En la audiencia de este miércoles se conocerá el **dictamen acusatorio** del fiscal Leonardo Alarcón.
 
-El internacional con Ecuador sufrió una fractura de pelvis, **neumotórax derecho, edema cerebral, hemorragia subdural** y hemorragia subaracnoidea postraumática que terminó costándole la vida tras estar desde el accidente ingresado en estado crítico.
+El hijo de la Vicepresidenta y su asesor, **Daniel Lenín R. P.** son acusados por Fiscalía del delito de tráfico de influencias.
 
-Angulo era considerado uno de los más importantes talentos del fútbol ecuatoriano; empezó en **Independiente del Valle y terminó siendo fichado por el Cincinnati de la MLS**. Volvió a Ecuador para unirse al Liga de Quito, equipo donde estaba antes de su fallecimiento.
+La sustanciación de este caso empezó con la **denuncia** de Romel P. en contra de los dos procesados, por ofrecerle el cargo de coordinador de Comunicación en la Vicepresidencia de la República.
 
-Clarín – Argentina
-------------------
+Esto, a cambio de entregarles mensualmente casi la mitad del **sueldo** de 3 200 dólares que iba a recibir.
 
-Conmoción en el fútbol por la muerte de Marco Angulo Solís, la joven promesa que estuvo un mes internado tras un tremendo choque
+Por este caso, la Policía detuvo al hijo de Verónica Abad y lo trasladó a **La Roca**.
 
-El mediocampista, de 22 años, estuvo más de un mes con pronóstico reservado en un hospital de la capital  ecuatoriana, **como consecuencia de las lesiones que se produjo en la madrugada** del pasado 7 de octubre,  tras chocar a gran velocidad con unas vallas de protección obreras en la autopista Rumiñahui, en el sureste de Quito.
+Salió pagando la suma de **20 000 dólares**.
 
-Según las pericias, el auto en el que viajaban no respetó la señalética por los trabajos en la autopista.
+El millonario precio que le puso Flamengo a Gonzalo Plata
+=========================================================
 
-Se estrelló **contra una estructura metálica que pesaba 50 toneladas** y la desplazó casi 5 metros, de acuerdo  a la información del diario El Universal.
+En poco tiempo, Gonzalo Plata se ha ganado el cariño de su nuevo club y los aficionados.
+----------------------------------------------------------------------------------------
 
-La Tercera – Chile
-------------------
+![Gonzalo Plata junto con su primer título con el Flamengo en Brasil.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-12T202115.423.jpg)
 
-Tragedia en el fútbol: fallece joven promesa y seleccionado de Ecuador
+**Gonzalo** **Plata** se unió a **Flamengo** a finales de agosto de 2024, y en poco más de dos meses ya logró su primer título siendo figura, lo que le permitió ganarse el aprecio del club y convertirse en una pieza clave, hasta el punto de ser considerado intransferible.
 
-El seleccionado ecuatoriano que en la actualidad defendía a Liga de Quito, **dirigido por Pablo ‘Vitamina’ Sánchez, permaneció 35 días** en estado crítico antes de fallecer por la gravedad de las lesiones que provocó  el choque.
+La llegada del ecuatoriano al ‘Mengão’ ocurrió porque Plata buscaba una liga más competitiva tras su paso por Qatar, con el objetivo de regresar a la **Selección de Ecuador**, lo cual logró con éxito.
 
-Su vida deportiva se inició como jugador del **Rocafuerte Sporting Club en 2017**, incorporándose ese mismo año a Independiente del Valle donde finalizó su proceso en el fútbol formativo.
+### Más noticias:
 
-Tras ello **debutó como profesional en el primer equipo en 2021**, siendo parte del plantel que terminó levantando el título de la Serie A de Ecuador  tras vencer a Emelec en la final.
+* [Alan Franco y Gonzalo Plata pelearán por un título en Brasil](https://www.elcomercio.com/deportes/futbol/alan-franco-y-gonzalo-plata-pelearan-por-un-titulo-en-brasil.html "Alan Franco y Gonzalo Plata pelearán por un título en Brasil")
+* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
+* [La alegría de Flamengo tras el primer gol de Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-gol-flamengo-hinchas-video.html "La alegría de Flamengo tras el primer gol de Gonzalo Plata")
 
-Diario AS – España
-------------------
+Flamengo le puso precio millonario a Gonzalo Plata
+--------------------------------------------------
 
-Tragedia en Ecuador: muere el internacional Marco Angulo a los 22 años
+Recientemente, tras su destacada actuación en la final de la **Copa de Brasil,** donde asistió en la ida y anotó en la vuelta para coronarse campeón, surgieron rumores sobre el interés de clubes europeos.
 
-Ecuador está de luto. En las últimas horas, se conoció que el futbolista de Liga de Quito e internacional tres  veces por la Tri, **Marcó Angulo, falleció víctima de un accidente de tráfico** en el que se vieron envueltas más  personas.
+Según medios españoles, el **West Ham United habría puesto su ojo en el talentoso ecuatoriano**, sin embargo, RTI Esporte de Brasil desmintió esa información tras conversar con un dirigente de Flamengo.
 
-En total son tres los muertos. **El incidente se produjo hace 39 días**. Finalmente, el futbolista no pudo salvar la vida.
+El portal brasileño también reveló que el contrato de Plata con el ‘Mengão’ es hasta 2029, y que su cláusula de salida está **cerca de los 85 millones de dólares**.
 
-![Foto: Facebook Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/angulo_internacional_2-1024x683.jpg)
+Los números de Plata
+--------------------
 
-Foto: Facebook Liga de Quito.
+Desde su llegada a Flamengo, Gonzalo Plata ha disputado un total de **13 partidos en tres competiciones** distintas, la Copa Libertadores, Copa de Brasil y el Brasileirao.
 
-Infobae – Argentina
--------------------
+A pesar de que el entrenador Tite solicitó su fichaje, salió poco tiempo después y su compatriota Filipe Luís asumió la dirección del equipo. Aunque Gonzalo Plata perdió algo de protagonismo, se mantuvo como una de las opciones de recambio, hasta lograr recuperar la titularidad.
 
-Dolor en el fútbol: murió el jugador Marco Angulo luego de estar internado 35 días por un dramático accidente Marco Angulo Solórzano, **un joven futbolista ecuatoriano de 22 años**, murió luego de estar involucrado en un accidente  de tránsito que ocurrió el pasado 7 de octubre en la Autopista General Rumiñahui, en la ciudad de Quito.
+En cuanto a sus números, Plata **lleva dos goles, una asistencia y un título,** la Copa de Brasil 2024.
 
-El jugador, que en la actualidad **militaba en la Liga de Quito, y que había disputado un par de partidos** con la selección  de Ecuador, permaneció 35 días en estado crítico antes de fallecer debido a las graves lesiones que sufrió en el choque.
+Actualmente, el extremo está en Ecuador, concentrado en Guayaquil, para el próximo enfrentamiento de la selección contra Bolivia por las eliminatorias sudamericanas rumbo al Mundial de 2026.
 
-TV Azteca – México
-------------------
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
 
-Muere futbolista después de un mes de estar hospitalizado por accidente de tránsito
+Óscar Sevilla se mantiene líder de la Vuelta al Ecuador para la tercera etapa
+=============================================================================
 
-Una nueva tragedia sacude al futbol ecuatoriano. El prometedor mediocampista, **Marco Angulo, ha fallecido a los 22 años**  tras no superar las graves lesiones sufridas en un accidente automovilístico ocurrido el pasado 7 de octubre.
+La Vuelta al Ecuador 2022 ha recorrido dos etapas y tiene definida la tabla general de ciclistas con Óscar Sevilla como líder.
+------------------------------------------------------------------------------------------------------------------------------
 
-Angulo, quien militaba en el **conjunto de Liga de Quito, era considerado una de las grandes promesas** del futbol ecuatoriano  y su partida deja un profundo dolor en el mundo del deporte.
+![Ciclistas líderes de la Vuelta al Ecuador 2024 tras la segunda etapa.](https://www.elcomercio.com/wp-content/uploads/2024/11/1731458705196-scaled.jpg)
 
-Marca – España
---------------
+La **Vuelta al Ecuador** encarará su tercera etapa tras un intenso debut y una segunda carrera atípica. Las dos etapas que se han llevado a cabo han dejado como líder a Óscar Sevilla dentro de la tabla general de la competencia.
 
-Muere con 22 años el jugador internacional Marco Angulo tras el accidente en el que fallecieron dos futbolistas
+Desde el día 1 del evento ciclístico, el atleta colombo español se posicionó en lo más alto. Este ganó la primera etapa en la última recta en la que se midió a **Brayan Obando**, a quien tan solo lo venció por cuatro centésimas.
 
-El accidente de Marco Angulo Solórzano se produjo en la Autopista General Rumiñahui, en Quito, cuando el **Ford Explorer de su hermana en el que circulaba junto a otras cuatro personas** chocó contra una viga utilizada para la construcción de un puente peatonal.
+### Más noticias:
 
-Marco Angulo, que fue campeón de la Copa Libertadores Sub-20 con Independiente del Valle, ya había sido dos veces internacional absoluto con Ecuador.
+* [La etapa 2 de la Vuelta al Ecuador se desarrolló con inconvenientes](https://www.elcomercio.com/deportes/ciclismo/la-etapa-2-de-la-vuelta-al-ecuador-se-desarrollo-con-inconvenientes.html "La etapa 2 de la Vuelta al Ecuador se desarrolló con inconvenientes ")
+* [Un equipo se retira de la Vuelta a Ecuador tras caída de ciclistas](https://www.elcomercio.com/deportes/ciclismo/team-campo-fertil-retiro-vuelta-ecuador.html "Un equipo se retira de la Vuelta a Ecuador tras caída de ciclistas")
+* [Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/oscar-sevilla-vuelta-ecuador-etapa-1.html "Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador")
 
-El Espectador – Colombia
-------------------------
+Aunque la segunda etapa prometía cambios y potenciales sorpresas, no solo con respecto a la tabla general, sino a todas las clasificaciones, aquello no fue así. Un incidente fuera de lo planificado hizo que el trabajo hecho por los **ciclistas durante 163 kilómetro**s sea afectado.
 
-Murió futbolista tras más de un mes en el hospital con pronóstico reservado
+A falta de 25 kilómetros para que se completen los 188 planificados, el caos vehicular frenó al grupo y la carrera debió ser neutralizada. Tras ello, el Comisario Director de la carrera decidió que el grupo que se encontraba en fuga parta primero y el pelotón restante lo haga un minuto y 17 segundos después, la diferencia que había entre los dos fragmentos.
 
-Marco Angulo, futbolista ecuatoriano de la Liga de Quito, quien sufrió un grave accidente de tráfico hace 39 días, **falleció este martes en la madrugada, según confirmó su club** y la Federación  Ecuatoriana de Fútbol (FEF).
+Óscar Sevilla mantiene la sorpresa en la Vuelta al Ecuador
+----------------------------------------------------------
 
-El centrocampista de 22 años, internacional con la selección de su país en 2022, estuvo más de un mes con **pronóstico reservado en un hospital de la capital ecuatoriana**, hasta que en esta mañana se conoció de su trágica muerte.
+A sus 48 años, **Óscar Sevilla no deja de sorprender** con su experiencia, más allá de los sucesos de la segunda etapa. El ciclista líder del Team Medellín es uno de los de mayor edad, pero también un histórico del ciclismo hispanoamericano.
 
-Angulo chocó a gran velocidad con unas vallas de protección obreras en una autopista de Quito el pasado 7 de octubre.
+Sabía que la etapa no era prioridad y el objetivo era mantener el liderato, como lo manifestó a EL COMERCIO antes de arrancar la etapa. Debido al trazado, este manifestó que debía tener cuidado en las posibles fugas y en los velocistas que podían sacar ventaja de sus cualidades.
 
-En el vehículo viajaban Angulo y cuatro personas más. **Con la muerte del internacional son tres los fallecidos** en el accidente; Roberto Cabezas Simisterra, lateral de Independiente Juniors, y Víctor Charcopa Nazareno.
+Después de **mantener el jersey amarillo** y seguir en lo más alto de la clasificación. Sevilla también se refirió a lo ocurrido y señaló que fue una cuestión circunstancial que envolvió a los ciclistas y aceptó la victoria.
+
+Clasificación general de la Vuelta a Ecuador
+--------------------------------------------
+
+Dentro de la clasificación general, Óscar Sevilla del Team Medellín es el líder con un tiempo cronometrado de 07:56:00 horas. A él le sigue Brayan Obando del Movistar Best PC con una diferencia de cuatro segundos menos.
+
+Nicolás Paredes, Bayron Guamá y Esteban Villarreal completan el top 5 del certamen ciclístico.
+
+Quito tendrá 34 cierres viales por caminata a El Quinche
+========================================================
+
+La caminata a El Quinche se realizará entre el viernes 15 y el domingo 17 de noviembre.
+---------------------------------------------------------------------------------------
+
+![365 efectivos trabarán en el operativo de movilidad durante la caminata a El Quinche](https://www.elcomercio.com/wp-content/uploads/2024/11/camina-quinche-cierres-viales.jpg)
+
+La Agencia Metropolitana de Tránsito (**AMT**) informó los **cierres viales** que se realizarán en Quito por la caminata a El Quinche, que se realizará entre el **viernes 15** al **domingo 17** de noviembre de 2024.
+
+### Más noticias
+
+* [ANT cuestiona presunto hackeo a usuarios de la AMT](https://www.elcomercio.com/actualidad/quito/ant-cuestiona-presunto-hackeo-usuarios-amt.html "ANT cuestiona presunto hackeo a usuarios de la AMT")
+* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
+* [Conductor casi atropella a agente de tránsito en Cuenca](https://www.elcomercio.com/actualidad/ecuador/coductor-casi-arrolla-agente-transito-cuenca.html "Conductor casi atropella a agente de tránsito en Cuenca")
+
+La peregrinación hacia **el santuario de El Quinche** es una de las tradiciones religiosas más importantes de **Ecuador**, en la que **miles de personas** caminan durante **decenas de kilómetros** hasta llegar a la parroquia rural ubicada al noroeste de Quito.
+
+Cierres viales por la caminata a El Quinche
+-------------------------------------------
+
+La AMT tiene previsto realizar **34 cierres viales** en la **Panamericana Norte** por la caminta a El Quinche, desde la calle **García Moreno** hasta el km 0.
+
+La suspensión vehicular, que incluye a **automotores pesados**, se ejecutará desde las **18:00** del viernes 15 de noviembre hasta las **04:00** del sábado 16.
+
+Y desde las 18:00 del **sábado 16** hasta las 04:00 del **domingo 17** de noviembre.
+
+Además, se implementarán **cierres adicionales** en El Quinche, en los mismos horarios, “para garantizar la seguridad de los asistentes”, señaló la entidad.
+
+Los ciudadanos que se movilicen hacia el **Aeropuerto Mariscal Sucre de Quito** tendrán como **única ruta habilitada** la av. Simón Bolívar, Ruta Viva, Interoceánica, E35 y Conector de Alpachaca.
+
+Controles de aforo a buses de transporte
+----------------------------------------
+
+Asimismo, agentes de la AMT controlarán el **aforo, las rutas y las frecuencias** de los buses de transporte en las terminales terrestres y en puntos de control fijos y móviles.
+
+Estos **controles** estarán ubicados en: Palugo, Panamericana Norte, Tababela, Yaruquí, Checa, Iguiñaro, La Esperanza y Guayllabamba[.](https://es.wikipedia.org/wiki/Santuario_de_El_Quinche "https://es.wikipedia.org/wiki/Santuario_de_El_Quinche")
+
+En total, **365 funcionarios** estarán encargados cada día de dirigir el **tránsito** y garantizar la seguridad vial de los participantes en el evento religioso.
+
+> 🗞️ [#BoletínAMT](https://twitter.com/hashtag/Bolet%C3%ADnAMT?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+> 🗓️ Este fin de semana, debido a la tradicional Romería al Quinche, se implementarán cierres en la av. Panamericana Norte y en El Quinche para proteger a los peregrinos.  
+> 🔎 Conoce más detalles aquí ⬇️ [https://t.co/i4XhLbp8vI](https://t.co/i4XhLbp8vI) [pic.twitter.com/yweR06lXt5](https://t.co/yweR06lXt5)
+> 
+> — AMTQuito (@AMT\_Quito) [November 12, 2024](https://twitter.com/AMT_Quito/status/1856419988522840490?ref_src=twsrc%5Etfw)
+
+Caminata al santuario de El Quinche
+-----------------------------------
+
+El santuario de El Quinche se encuentra ubicado a unos **60 kilómetros de Quito**.
+
+El número de caminantes que participa en la romería varía cada año, pero por lo general los feligreses superan las **500 000 personas**.
+
+La caminata de El Quinche se realiza entre la **segunda y tercera semana de noviembre**, en los días más cercanos al 21 de este mes, fecha en la que se conmemoran las festividades de la **Virgen** de la parroquia.
+
+Rutas de la peregrinación
+-------------------------
+
+Para trasladarse hacia El Quinche a pie existen **cuatro rutas habilitadas**. Estas son:
+
+1. Calderón, Guayllabamba, La Victoria, El Quinche
+2. Palugo, Pifo, Oyambillo, Yaruquí, El Quinche
+3. Cusubamba, La Esperanza, El Quinche
+4. Colibrí, Pifo hasta llegar a El Quinche
+
+Dependiendo del camino escogido, los recorridos duran entre **cuatro y 10 horas**.
+
+La Selección de Ecuador cuesta 16 veces más que Bolivia
+=======================================================
+
+La Selección de Ecuador clasificó cuatro veces a una Copa del Mundo. La última en Catar 2022.
+---------------------------------------------------------------------------------------------
+
+![Jugadores de la Selección de Ecuador en las eliminatorias al Mundial 2026 en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_bolivia_valor_1.jpg)
+
+La **Selección de Ecuador** será anfitriona de la de Bolivia en la fecha 11 de las eliminatorias al Mundial 2026, en lo que será el penúltimo partido oficial que juegue en el 2024.
+
+El encuentro entre la **Selección de Ecuador y la de Bolivia** está programado para el jueves 14 de noviembre, desde las 19:00, en el estadio Monumental de Guayaquil, con la dirección arbitral del argentino Nicolás Ramírez.
+
+### Más noticias:
+
+* [La ‘Tuka’ Ordóñez brilla en Venezuela a sus casi 40 años](https://www.elcomercio.com/deportes/futbol/roberto-tuka-ordonez-brilla-en-venezuela-a-sus-casi-40-anos.html "La ‘Tuka’ Ordóñez brilla en Venezuela a sus casi 40 años")
+* [Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/oscar-sevilla-vuelta-ecuador-etapa-1.html "Óscar Sevilla, el experimentado que sorprende en la Vuelta a Ecuador")
+* [Marco Angulo, jugador de Liga de Quito, falleció a los 22 años](https://www.elcomercio.com/deportes/futbol/marco-angulo-siniestro-transito-fallecimiento.html "Marco Angulo, jugador de Liga de Quito, falleció a los 22 años")
+
+Ecuador ocupa el quinto lugar en la tabla de posiciones con 13 puntos y un gol diferencia de +2, mientras que **Bolivia se apoderó de la séptima casilla**, la del puesto del repechaje, con 12 y un gol diferencia de -10.
+
+El historial favorece ampliamente a la Tri. En eliminatorias **se han enfrentado en 17 ocasiones**, con 12 victorias tricolores, dos bolivianas y tres empates.
+
+En casa, tanto en Quito como en Guayaquil, jugaron ocho veces, **con siete triunfos para los anfitriones** y un empate, registrado en 1993 en el Monumental con el que los bolivianos clasificaron a la Copa del Mundo Estados Unidos 1994.
+
+El último antecedente data de las eliminatorias a Catar 2022. Fue en el 2021 en el propio Monumental de Guayaquil, y **terminó con una goleada de 3-0** con tantos de Michael Estada (14′) y un doblete de Enner Valencia (17′ y 19′).
+
+Ecuador saca ventaja en las valoraciones
+----------------------------------------
+
+Otro de los aspectos en los que la **Selección de Ecuador saca una amplia ventaja** es en el valor de mercado de su plantilla, que es otorgado por el sitio especializado Transfermarkt.
+
+Los ecuatorianos están valorados, hasta el martes 12, **en 284,9 millones de dólares**, mientras que los bolivianos alcanzan los 17,8 millones, es decir, 16 veces más.
+
+Moisés Caicedo, centrocampista del Chelsea, es el de mayor valor de los dos equipos con 79,6 millones.
+
+En Bolivia los que más destacan son **Boris Céspedes (Yverdon-Sport FC de Suiza)** y Roberto Fernández (Akron Tolyatti de Rusia) con 1,06 millones.
 
 San viernes
 -----------
 
-Verónica Abad se presentará en la Asamblea Nacional
-===================================================
+Mazar volvió a operar luego de tres días
+========================================
 
-El Ministerio del Trabajo suspendió a la vicepresidenta Verónica Abad el viernes 8 de noviembre de 2024.
---------------------------------------------------------------------------------------------------------
+La central Mazar fue apagada el sábado 9 de noviembre de 2024.
+--------------------------------------------------------------
 
-![Verónica Abad fue suspendida el viernes 8 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Veronica-Abad-pleno-.jpg)
+![Mazar volvió a operar después de tres días.](https://www.elcomercio.com/wp-content/uploads/2024/11/mazar-0611.jpg)
 
-La vicepresidenta de Ecuador, **Verónica Abad,** se presentará este miércoles, 13 de noviembre de 2024, en el pleno de la **Asamblea Nacional[.](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad")**
+La central hidroeléctrica **Mazar** volvió a operar este martes 12 de noviembres de 2024, después de tres días de haber sido apagada.
 
-Más noticias
-------------
+El nivel mínimo requerido para la buena operación de esta central es de 2 115 metros sobre el nivel del mar (m.s.n.m.). Si embargo, fue **reactivada** con 2 111, a las 16:00, de hoy.
 
-* [Verónica Abad apelará la suspensión en instancias internacionales](https://www.elcomercio.com/actualidad/politica/vicepresidenta-veronica-abad-suspension-apelacion.html "Verónica Abad apelará la suspensión en instancias internacionales")
-* [Asamblea sesiona el miércoles por Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-sesiona-miercoles-veronica-abad.html "Asamblea sesiona el miércoles por Verónica Abad")
-* [Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad](https://www.elcomercio.com/actualidad/negocios/ministra-trabajo-pronuncia-suspension-veronica-abad.html "Ministra del Trabajo se pronuncia sobre suspensión de Verónica Abad")
+### Más noticias:
 
-**Viviana Veloz,** presidenta de la **Asamblea Nacional**, anunció la presencia de **Abad** durante el informe semanal sobre las actividades desarrolladas en la **Función Legislativa.**
+* [El embalse Mazar perdió cinco metros desde el 4 de noviembre](https://www.elcomercio.com/actualidad/negocios/embalse-mazar-perdio-cinco-metros-noviembre.html "El embalse Mazar perdió cinco metros desde el 4 de noviembre")
+* [¿Cómo está el embalse de Mazar tras lluvias de Cuenca?](https://www.elcomercio.com/actualidad/negocios/como-esta-el-embalse-de-mazar-tras-lluvias-de-cuenca.html "¿Cómo está el embalse de Mazar tras lluvias de Cuenca?")
+* [Inés Manzano se pronunció sobre el estado del embalse de Mazar](https://www.elcomercio.com/actualidad/negocios/ines-manzano-mejoria-mazar.html "Inés Manzano se pronunció sobre el estado del embalse de Mazar")
 
-¿Por qué acudirá Verónica Abad al pleno de la Asamblea Nacional?
-----------------------------------------------------------------
+La central fue reactivada con cifras bajas
+------------------------------------------
 
-**Verónica Abad** asistirá al pleno de la **Asamblea Nacional** para abordar su reciente suspensión, comunicada por el Ministerio del Trabajo.
+Mazar dejó de operar el sábado al medio día por los **bajos niveles** de agua en el embalse.
 
-Solicitó este acto después de expresar en redes sociales su preocupación por las acciones del **Ministerio** del **Trabajo** y el **Ministerio de Relaciones Exteriores** y solicitar su **fiscalización**.
+A las 18:00, de este martes, la central contaba con 2 111,56 m.s.n.m. y con un **caudal** de 7,35 metros cúbicos por segundo.
 
-Viviana Veloz confirmó la presencia de Abad en la Asamblea Nacional
--------------------------------------------------------------------
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/mazar-1211-1024x413.jpg)
 
-Veloz señaló que la **Asamblea** busca esclarecer la competencia del **Ministerio del Trabajo** en este tipo de **suspensiones**. Especialmente cuando la **Constitución** establece que solo los legisladores tienen la potestad de fiscalizar, enjuiciar políticamente o censurar a altos funcionarios.
+Mazar hace parte del **Complejo Hidroeléctrico Paute Integral**, junto con las centrales Molino y Sopladora.
 
-En su informe semanal de actividades, **Veloz** informó que solicitará a la **Corte Constitucional** un dictamen interpretativo para delimitar las facultades de la **Ministra del Trabajo** en este contexto. Considera que excedió sus competencias.
+Entre las tres aportan 1.757 megavatios (MW) al sistema nacional interconectado (SNI).
 
-Ministerio de Trabajo suspendió a Verónica Abad
------------------------------------------------
+**Molino** es la que tiene mayor capacidad de generación, 1.100 MW; **Sopladora**, 487 MW; y **Mazar**, 170 MW.
 
-El **Ministerio de Trabajo** sancionó a **Abad** con una suspensión de 150 días sin remuneración, el pasado viernes 8 de noviembre de 2024.
+El 10 de noviembre, el Ministerio de Energía informó que las tres centrales estaban operativas, según **Celec**.
 
-Impuso esta sanción por una falta administrativa, al no presentarse en Ankara, **Turquía**, antes del 1 de septiembre de 2024, como se le ordenó mediante el Decreto Ejecutivo No. 353.
+Agregó que la central Mazar solo podía operar con una de sus dos **turbinas**, debido a que la cota del embalse de Mazar se encuentra en 2 111,21 metros sobre el nivel del mar (m s. n. m.), con corte a las 18:00 del domingo 10 de noviembre.
 
-La **Vicepresidenta** llegó el 9 de septiembre desde Tel Aviv, Israel, presuntamente sin justificar su retraso, lo cual implicó su ausencia en el destino asignado.
+La crisis energética en Ecuador por la dependencia de las lluvias ha hecho que el Gobierno ordene cortes de luz programados durante 50 días ya.
 
-Durante la audiencia del jueves 7 de noviembre, representantes de la **Presidencia y del Ministerio** de **Relaciones Exteriores** señalaron que ofrecieron las condiciones necesarias para su traslado y notificaron la exigencia de presentarse a tiempo.
+Desde septiembre de 2024, los cortes de luz no han desaparecido y se han prolongado hasta 14 horas diarias, en todo el país.
 
-Trataron este supuesto **abandono injustificado** conforme al artículo 48 de la Ley Orgánica del Servicio Público (**Losep**).
+Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador
+=======================================================================
 
-La defensa de **Abad** argumentó que no se presentaron pruebas suficientes para sostener la falta.
+La Selección de Ecuador disputa un juego clave contra Bolivia sin una de sus figuras principales, Moisés Caicedo.
+-----------------------------------------------------------------------------------------------------------------
 
-Infonavit congela mensualidades de 2 millones de créditos hipotecarios
-======================================================================
+![Carlos Gruezo durante un entrenamiento con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-12T185957.411.jpg)
 
-La medida, anunciada por Claudia Sheinbaum y Octavio Romero busca evitar que las deudas de los derechohabientes se incrementen.
+El mediocampista **Carlos Gruezo** se perfila como el sustituto del suspendido **Moisés Caicedo** en la Selección de Ecuador para el partido de la undécima fecha de las eliminatorias sudamericanas, que se disputará este jueves 14 de noviembre en Guayaquil contra Bolivia.
+
+La **Selección de Ecuador** inició este martes 12 de noviembre sus entrenamientos a puerta cerrada en el estadio de Emelec, afinando detalles para enfrentar a la ‘Verde’ en el Estadio Monumental de Barcelona Sporting Club.
+
+### Más noticias:
+
+* [Selección de Ecuador corre el riesgo de jugar con poco público ante Bolivia](https://www.elcomercio.com/deportes/futbol/seleccion-de-ecuador-corre-riesgo-jugar-con-poco-publico-bolivia.html "Selección de Ecuador corre el riesgo de jugar con poco público ante Bolivia")
+* [La Selección de Ecuador vs. una Bolivia con 10 potenciales bajas](https://www.elcomercio.com/deportes/futbol/bolivia-bajas-ecuador-eliminatorias-mundial.html "La Selección de Ecuador vs. una Bolivia con 10 potenciales bajas")
+* [¿Cortes de luz afectarán a los aficionados de la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cortes-de-luz-afectaran-a-los-aficionados-de-la-seleccion-de-ecuador.html "¿Cortes de luz afectarán a los aficionados de la Selección de Ecuador?")
+
+Las bajas confirmadas de Ecuador
+--------------------------------
+
+El entrenador argentino Sebastián Beccacece enfrenta tres bajas importantes para el próximo encuentro: **Moisés Caicedo**, suspendido por acumulación de tarjetas amarillas; **Ángelo Preciado**, en duda por una lesión; y **Óscar Zambrano**, fuera de la convocatoria debido a una suspensión por temas de dopaje.
+
+Para reforzar el mediocampo, **Beccacece cuenta con Carlos Gruezo**, quien regresa a la selección tras no estar presente en la ventana anterior, y apunta a ser el sustituto de Caicedo.
+
+En cuanto a la posición de lateral derecho, el entrenador argentino evalúa a Alan Minda como posible reemplazo de Ángelo Preciado. Aunque Minda es extremo, ha desempeñado funciones de carrilero tanto en su club como en la selección. Cabe destacar que Beccacece **no convocó a otro lateral derecho para estos partidos.**
+
+Ecuador vs. Bolivia
+-------------------
+
+La Federación Ecuatoriana de Fútbol (FEF) decidió **rotar la sede habitual de la selección para el compromiso contra Bolivia**, trasladando el partido de Quito a Guayaquil, donde ya se ha jugado en ocasiones anteriores contra la ‘Verde’, incluyendo en las eliminatorias rumbo al Mundial de 2022.
+
+Esta decisión se tomó para evitar cualquier ventaja competitiva para Bolivia, que suele jugar como local en altitud. Además, el encuentro en **Guayaquil** servirá como preparación para el próximo partido contra Colombia en Barranquilla, donde las condiciones climáticas son similares.
+
+El partido está programado para este jueves 14 de noviembre a las 19:00, en el Estadio Monumental. En la clasificación, **Ecuador ocupa el quinto puesto con 13 puntos**, mientras que Bolivia se encuentra en el séptimo lugar con 12.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Selección de Ecuador corre el riesgo de jugar con poco público ante Bolivia
+===========================================================================
+
+La afición de Guayaquil no ha respondido de la mejor manera para el próximo partido del combinado nacional.
+-----------------------------------------------------------------------------------------------------------
+
+![Enner Valencia y Jeremy Sarmiento en el último partido de la Selección de Ecuador en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-12T180137.332.jpg)
+
+La **Selección de Ecuador** se enfrentará a Bolivia este jueves 14 de noviembre por la fecha 11 de las eliminatorias sudamericanas, en el **Estadio Monumental de Guayaquil**. Sin embargo, la venta de boletos no ha sido la esperada.
+
+Desde que las entradas salieron a la venta hace dos semanas, se generó mucha expectativa por contar con un estadio lleno, **con casi 60 000 hinchas alentando** a Ecuador. Pero a falta de pocos días para el partido, la realidad indica que esto no será así.
+
+### Más noticias:
+
+* [La Selección de Ecuador vs. una Bolivia con 10 potenciales bajas](https://www.elcomercio.com/deportes/futbol/bolivia-bajas-ecuador-eliminatorias-mundial.html "La Selección de Ecuador vs. una Bolivia con 10 potenciales bajas")
+* [¿Cortes de luz afectarán a los aficionados de la Selección de Ecuador?](https://www.elcomercio.com/deportes/futbol/cortes-de-luz-afectaran-a-los-aficionados-de-la-seleccion-de-ecuador.html "¿Cortes de luz afectarán a los aficionados de la Selección de Ecuador?")
+* [La Selección de Ecuador intenta volver al triunfo ante Bolivia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-eliminatorias-mundial-guayaquil.html "La Selección de Ecuador intenta volver al triunfo ante Bolivia")
+
+Ecuador no vende suficientes boletos
+------------------------------------
+
+La **Federación Ecuatoriana de Fútbol** (FEF) inició desde la semana pasada una campaña en redes sociales para incentivar a los aficionados a adquirir sus boletos.
+
+Se realizaron varios posteos y se compartieron imágenes, incluso contando con la participación de jugadores como **Piero Hincapié y Kendry Páez** para promocionar el evento.
+
+Según el periodista Nicolás Rivera, hasta este martes 12 de noviembre se han vendido solo **22 000 entradas para el duelo entre Ecuador y Bolivia**, lo que representa aproximadamente un tercio de la capacidad del estadio, sin alcanzar siquiera la mitad.
+
+Por esta razón, a dos días del encuentro, la **FEF ha lanzado una nueva oferta con un descuento adicional del 10% en las entradas.**
+
+> Ya saben, ¡𝗟𝗢𝗦 𝗘𝗦𝗣𝗘𝗥𝗔𝗠𝗢𝗦!  
+>   
+> Compra tus entradas en [https://t.co/BXTxN8JUi0](https://t.co/BXTxN8JUi0) 🎟️ [pic.twitter.com/S5j4IM6Q6d](https://t.co/S5j4IM6Q6d)
+> 
+> — La Tri 🇪🇨 (@LaTri) [November 11, 2024](https://twitter.com/LaTri/status/1856052730181177672?ref_src=twsrc%5Etfw)
+
+¿Cuánto cuestan las entradas?
+-----------------------------
+
+Para este partido, la **FEF mantiene la reducción de precios** en la localidad General, una estrategia que resultó efectiva para atraer más público en el reciente partido contra Paraguay.
+
+Los miembros del programa Fan FEF disfrutan de diferentes **beneficios** según su categoría:
+
+* **Oro:** Acceso al palco en los seis últimos partidos como local.
+* **Plata:** Acceso a la tribuna.
+* **Bronce:** Prioridad en la compra de boletos y un descuento de hasta el 25%.
+
+Las categorías Oro y Plata ya pueden adquirir sus entradas a través de la página web de la FEF, mientras que la categoría Bronce puede comprarlas desde el lunes 28 de octubre a las 11:00. Para el público general, los boletos restantes están disponibles desde el miércoles 30 de octubre a las 11:00. **Cada usuario puede comprar un máximo de ocho boletos.**
+
+Precios de las entradas:
+------------------------
+
+**Generales**
+
+Precio regular: USD 25 + IVA  
+Categoría Bronce: USD 19 + IVA
+
+**Tribuna**
+
+Precio regular: USD 60 + IVA  
+Categoría Bronce: USD 48 + IVA
+
+**Palcos**
+
+**Bajo**
+
+Precio regular: USD 70 + IVA  
+Categoría Bronce: USD 59 + IVA
+
+**01, 05, 06 y 08**
+
+Precio regular: USD 75 + IVA  
+Categoría Bronce: USD 67 + IVA
+
+**02, 03, 04 y 07**
+
+Precio regular: USD 110 + IVA  
+Categoría Bronce: USD 99 + IVA
+
+_Estos precios no incluyen el 10% de descuento adicional ofrecido recientemente._
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Lavinia Valbonesi defiende a Daniel Noboa en redes sociales
+===========================================================
+
+Lavinia Valbonesi hace declaraciones a favor de su esposo y presidente Daniel Noboa en medio del ambiente electoral de Ecuador.
 -------------------------------------------------------------------------------------------------------------------------------
 
-![Fotografía del Palacio Nacional este jueves en la Ciudad de México (México).](https://www.elcomercio.com/wp-content/uploads/2024/11/palacio-nacional-efe.jpg)
+![Daniel Noboa y Lavinia Valbonesi en el Palacio de Carondelet.](https://www.elcomercio.com/wp-content/uploads/2024/11/lavinia-valbonesi-daniel-noboa.jpg)
 
-A partir del lunes 11 de noviembre de 2024, el **Instituto del Fondo Nacional de la Vivienda** para los Trabajadores (Infonavit) congelará las **mensualidades y los saldos de 2 millones de créditos hipotecarios** otorgados antes de 2013.
+**Lavinia Valbonesi** defendió a su esposo y presidente de la República, Daniel Noboa, en sus redes sociales, este martes 12 de noviembre de 2024.
+
+Las declaraciones de Valvonesi se dan en medio del **ambiente electoral** que vive Ecuador, previo a las elecciones generales de febrero de 2025.
+
+### Más noticias:
+
+* [Daniel Noboa designa a Félix Wong como consejero en Colombia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-designa-a-felix-wong-consejero-embajada-colombia.html "Daniel Noboa designa a Félix Wong como consejero en Colombia")
+* [Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic](https://www.elcomercio.com/actualidad/politica/suma-receptara-carpetas-candidatos-presidencia-jan-topic.html "Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic")
+
+Defensa de Lavinia Valbonesi a Daniel Noboa
+-------------------------------------------
+
+Lavinia Valbonesi publicó un video en sus **redes sociales** refiriéndose a los ataques en contra de su esposo, el presidente Daniel Noboa, y de ella misma.
+
+“Muchos me dijeron que no me desgastara explicando esto aquí, pero ¿saben qué? Si otros tienen la cara para defender a un poco de ladrones, ¿por qué yo no puedo hablar del hombre que conozco mejor que nadie y que jamás se atrevería a tocar un centavo que no es suyo o hacer algo en contra de los valores que sus padres le enseñaron?”, **señaló Valbonesi, en la introducción a su video.**
+
+La primera dama dijo que desde que asumió la Presidencia de la República su esposo, el presidente Daniel Noboa, ella lo que ha hecho es **mostrar su vida familiar**, su participación en actividades oficiales y “no se ha metido con nadie”.
+
+### Los políticos
+
+“La mayoría de los políticos me tienen siempre en la **punta de la lengua** para atacarme, para criticarme y hacer tantas cosas”, agregó.
+
+“Yo, verdaderamente, estoy harta del **doble discurso** de cientos de personas tratando de atacar a un hombre, que no quiero decir ‘mi esposo’ para que no piensen que lo estoy diciendo como la esposa, sino como la mujer ecuatoriana que ve a un hombre que está luchando por su país”, aseguró.
+
+Lavinia Valbonesi reiteró que el primer mandatario “trabaja incansablemente para sacar adelante al país y a su gente”, y sin esperar nada a cambio, ya que dijo que como **familia** ellos “**tienen más las de perder que de ganar**” y que **nadie se está lucrando** de ningún puesto público.
+
+Sin mencionar el nombre de **Jan Topic**, Valbonesi señaló que le hubiera gustado ver a todas las personas que hoy defienden esa candidatura, defendiendo la participación de su suegro, el empresario Álvaro Noboa, en el 2021.
+
+“¿Dónde está ahí la **democracia**?”, preguntó Valbonesi.
+
+> ### Violencia de género
+
+Lavinia Valbonesi también dijo que ha sufrido violencia de género por parte de **asambleístas electas**, periodistas, candidatos presidenciales a través de _trolls_ y campañas “sucias” con insinuaciones sobre su matrimonio y su familia.
+
+“Yo soy una mujer que puede hablar de **violencia de género**, y me indignan sus dobles discursos y que estén tratando de manchar la imagen de un hombre que lo arriesga todo, todos los días”, indicó.
+
+La primera dama finalizó diciendo que no debería estar haciendo este tipo de pronunciamientos y que las acciones en contra del Gobierno de Noboa provienen de la **vieja política** y buscan engañar a los ecuatorianos.
+
+“Todo cae por su propio peso, y Daniel es un **hombre maravilloso** que va a pelear hasta el final para sacar este país adelante como se lo merece”, concluyó.
+
+ANT cuestiona presunto hackeo a usuarios de la AMT
+==================================================
+
+El director ejecutivo de la ANT, habló sobre el presunto hackeo al sistema Axis 4.0, que, según la AMT, afectó a 38 de sus usuarios.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![La AMT denunció un presunto hackeo a sus contraseñas, entre septiembre y octubre](https://www.elcomercio.com/wp-content/uploads/2024/11/hackeo-amt-ant.jpg)
+
+El director ejecutivo de la **Agencia Nacional de Tránsito** (ANT), César García, cuestionó un presunto **hackeo cibernético** denunciado por la **Agencia Metropolitana de Tránsito** (AMT). La afectación a la **plataforma interoperativa** se habría dado entre septiembre y octubre de 2024.
 
 ### Más noticias
 
-* [Claudia Sheinbaum anuncia reestructura del Gobierno mexicano](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-anuncia-reestructura-gobierno-mexicano.html "Claudia Sheinbaum anuncia reestructura del Gobierno mexicano")
-* [Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html")
-* [Claudia Sheinbaum asume como la primera mujer presidenta de México](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-asume-primera-mujer-presidenta-mexico.html")
+* [Conductor casi atropella a agente de tránsito en Cuenca](https://www.elcomercio.com/actualidad/ecuador/coductor-casi-arrolla-agente-transito-cuenca.html "Conductor casi atropella a agente de tránsito en Cuenca")
+* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
+* [Tránsito cambia por nuevo intercambiador en la Occidental desde el 15 de noviembre](https://www.elcomercio.com/actualidad/quito/intercambiador-mariscal-sucre-transito-vehicular.html "Tránsito cambia por nuevo intercambiador en la Occidental desde el 15 de noviembre")
 
-La medida, anunciada por la presidenta [Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html") y el director del Infonavit, Octavio Romero, busca **evitar que las deudas** de los derechohabientes se incrementen de manera insostenible, de acuerdo con Milenio.
+De acuerdo con **Washington Martínez**, director de la AMT, en entrevista con TVC, en estos dos meses se habrían adulterado alrededor de **9 620 trámites**, tras la presunta vulneración del sistema **Axis 4.0.**
 
-En su intervención durante la conferencia de prensa matutina en Palacio Nacional, Romero explicó que los **créditos otorgados antes de 2013** operaban bajo un esquema conocido como **“veces salario mínimo”**.
+La ANT coordina este sistema digital que también lo utilizan otras entidades, para llevar el **control documental** de los vehículos y sus documentos en el país.
 
-En este modelo, aunque los trabajadores cumplieran con sus **pagos, el saldo de la deuda y las mensualidades aumentaban** cada año, lo que hacía que las deudas se elevaran de manera exponencial, incluso hasta cinco veces más. Esta situación afectaba gravemente a las familias, ya que el pago al capital disminuía y el monto destinado a intereses crecía.
+El supuesto hackeo, aun en investigación, afectó por lo menos a **38 usuarios de la AMT**.
 
-Impacto de la medida y beneficios
+Martínez confirmó que las contraseñas de los usuarios que habrían sido vulnerados fueron dadas de baja y que los **trámites irregulares** fueron puestos a órdenes de Fiscalía para que se investiguen.
+
+Se habla de al menos **2 000 trámites** de cambios de propietarios de vehículos y duplicados de licencias, entre otros casos[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+
+El **Director de la AMT** señaló que la vulneración tiene una ‘**huelle digital**‘ que permite identificar su origen.
+
+Además del **sistema de Quito**, otros sistemas de tránsito **también fueron vulnerados,** entre ellos, los de Cayambe, Pedro Moncayo, Rumiñahui, Mejía y algunos en la Costa, señaló el funcionario.
+
+ANT cuestionó presunto hackeo a la AMT
+--------------------------------------
+
+**César García** se refirió al presunto hackeo a los usuarios que denunció la AMT. El Director Ejecutivo de la ANT puso en duda de si, justamente, se trató de una vulneración al sistema Axis 4.0 o si hubo un **descuido en el manejo de los accesos** por parte de la entidad metropolitana.
+
+“La ANT entregó las **credenciales** de los usuarios a la AMT para que realicen las transacciones, si ellos tenían que cumplir con la operatividad de los trámites y no lo han hecho, por qué la culpa es nuestra”, mencionó.
+
+Asimismo, el funcionario cree que pudo haber un **mal uso** de la seguridad de las contraseñas de los usuarios.
+
+“Existe un hackeo cuando una autoridad lo determina y hay un **delito**, pero si hubo una **falta de omisión o comisión** porque utilizaron mal las claves, o porque las prestaron, o solo las dejaron apuntadas en un papel debajo de la mesa, ¿**la culpa es de la ANT o del usuario**?”, cuestionó García.
+
+AMT migró datos a otra plataforma
 ---------------------------------
 
-La decisión de **congelar los saldos y mensualidade**s beneficiará a un total de 4 millones de familias. Sin embargo, el proceso se ha dividido en dos grupos. En el primero, 500 mil personas verán sus mensualidades y **saldos congelados** de manera automática. En el segundo, un millón y medio de derechohabientes deberán acercarse a las oficinas del Infonavit para obtener beneficios adicionales que no se aplican de manera automática.
+Luego de esta problemática, la AMT decidió trasladar los datos digitales de los conductores y sus vehículos a un nuevo sistema, el **Axis Cloud**.
 
-Octavio Romero destacó que esta medida, además de **congelar las deudas,** tiene como objetivo que los trabajadores puedan hacer frente a los pagos de una forma más justa y acorde con sus ingresos. “El sistema que operaba antes perjudicaba gravemente a los **derechohabientes y vamos a corregirlo de manera definitiva**”, señaló Romero en la conferencia, que publica Milenio.
+“En varias administraciones no pudimos ocupar el Axis Cloud, pero confirmamos con TIC que ya se puede migrar la información a este sistema para tener más **seguridad**“, indicó Washington Martínez.
 
-Por otro lado, se indicó que los créditos otorgados entre 2013 y 2020 **también serán reestructurados,** ya que operaban bajo un esquema similar que afectaba a los usuarios. Se espera que para finales de este año, se beneficie a un total de **4 millones de derechohabientes**.
+La nueva plataforma se utiliza en la entidad desde el **lunes 11 de noviembre**.
 
-Los beneficiarios podrán consultar los **detalles de los beneficios** a través de la página web oficial del Infonavit a partir de la próxima semana, y deberán acudir a las oficinas del instituto para recibir el apoyo necesario, indica Milenio.
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCPXqdnBkTv/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por TVC Ecuador (@tvcecuador)](https://www.instagram.com/reel/DCPXqdnBkTv/?utm_source=ig_embed&utm_campaign=loading)
 
-Cuenca aminora los cortes de luz por Cumbre presidencial
-========================================================
+Segundo Castillo el mejor DT de la fecha 13 de la Liga Pro
+==========================================================
 
-Cuenca, que vivirá la Cumbre Presidencial Iberoamericana esta semana, tiene un cambio de horarios de cortes de luz
-------------------------------------------------------------------------------------------------------------------
+Barcelona Sporting Club ocupa el tercer lugar en la tabla de la segunda etapa y en la acumulada.
+------------------------------------------------------------------------------------------------
 
-![Fotografía de un tranvía en el centro histórico el pasado 11 de noviembre de 2024 en Cuenca.](https://www.elcomercio.com/wp-content/uploads/2024/11/f0fee8f1c848dd6a7a1b0c15c2601eadb13a99c2-1.jpg)
+![Segundo Alejandro Castillo, entrenador de Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/11/castillo_dt_1.jpg)
 
-El **centro histórico de Cuenca** no sufrirá cortes de luz durante la XXIX Cumbre Iberoamericana de Jefas y Jefes de Estado y de Gobierno, que se llevará a cabo entre el 14 y 15 de noviembre de 2024, en una semana marcada por cortes de luz de hasta doce horas diarias en el resto del país[.](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)")
+**Segundo Alejandro Castillo** fue elegido como el mejor entrenador de la fecha 13 de la segunda etapa de la Liga Pro, según publicó la tarde de este martes 12 de noviembre de 2024 la Liga Pro en sus redes sociales oficiales.
+
+La designación de **Segundo Alejandro Castillo como el DT de la fecha 13**, se debe a la goleada que Barcelona Sporting Club le propinó a Cumbayá por 8-1 la tarde del domingo 10 en el estadio Monumental de Guayaquil.
+
+### Más noticias:
+
+* [Deportivo Quito ya tiene fecha para enfrentar a Liga de Portoviejo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ya-tiene-fecha-para-enfrentar-a-liga-de-portoviejo.html "Deportivo Quito ya tiene fecha para enfrentar a Liga de Portoviejo")
+* [¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?](https://www.elcomercio.com/deportes/futbol/que-necesita-liga-de-quito-para-ganar-la-etapa-ligapro.html "¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?")
+* [Premier League suspende a árbitro por insultar al Liverpool y Klopp](https://www.elcomercio.com/deportes/futbol/premier-league-suspende-a-arbitro-por-insultar-al-liverpool-klopp.html "Premier League suspende a árbitro por insultar al Liverpool y Klopp")
+
+Allen Obando (2), Janner Corozo (2), **Octavio Rivero (2), Eduard Bello (1) y Cristhian Solano (1)**, con golazo de tiro libre, fueron los autores de los goles del equipo de Segundo Castillo, que sigue invicto en la Liga Pro.
+
+“¡**La aplanadora amarilla de Segundao**!”, fue el mensaje con el que la Liga Pro anunció al entrenador  
+ecuatoriano como el mejor de esta fecha, por delante de nombres como los de Pablo ‘Vitamina’ Sánchez,  
+líder de la tabla con Liga de Quito.
+
+Para el exmundialista con la **Selección de Ecuador en el Mundial Alemania 200**6, fue la segunda vez que se hizo acreedor a este reconocimiento que fecha a fecha otorga la Liga Pro.
+
+La primera vez para el de **San Lorenzo, Esmeraldas, fue en la fecha 10 en la victoria 2-1** ante Emelec en el Clásico del Astillero en el Monumental, con goles de Janner Corozo y Álex ‘El Bicho’ Rangel.
+
+Castillo se mantiene invicto
+----------------------------
+
+En esta nueva etapa como entrenador de Barcelona SC, el **‘Mortero’ Castillo se mantiene invicto** en los cuatro partidos que se sentó en la zona técnica de los guayaquileños.
+
+En la **fecha 10 le ganó 2-1 a Emelec en el Monumental**; en la 11 goleó 4-0 a Delfín, también de local; en la 12 empató 1-1 con Aucas en el Gonzalo Pozo Ripalda; y en la 13 aplastó por 8-1 a Cumbayá en el Monumental.
+
+Otro de los datos destacados es que **lleva anotados 15 goles y recibió tres para tener un gol** diferencia positivo de +12, con lo que mejoró ostensiblemente este ítem de los canarios a la hora de definir su posición final.
+
+Las opciones de ganar la etapa son mínimas para los amarillos. En el calendario tienen por delante la visita a Técnico Universitario en Ambato, y recibir en Guayaquil a Mushuc Runa en la fecha final.
+
+La primera experiencia de **Castillo como DT del ‘Ídolo del Astillero’** fue entre junio y julio de 2023.
+
+En cinco partidos, ganó dos **(vs. Guayaquil City 1-2 y vs. Estudiantes de La Plata 2-1**); empató uno (vs. Cerro Porteño 2-2); y perdió dos (vs. Universidad Católica 1-2 y Palmeiras 4-2).
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/castillo_dt_2-1024x683.jpg)
+
+San viernes
+-----------
+
+El desagradable error por el que Mattel tuvo que retirar miles de muñecas en EE.UU.
+===================================================================================
+
+La empresa de juguetes cometió una falla insólita que se hizo viral en todo el país.
+------------------------------------------------------------------------------------
+
+![Muñecas de la Mattel inspiradas en la película 'Wicked'.](https://www.elcomercio.com/wp-content/uploads/2024/11/mattel-El-Comercio-1.jpg)
+
+Acorde a lo comunicado por la propia empresa, **Mattel** tuvo que retirar las **muñecas** inspiradas en la [película **Wicked**](https://www.imdb.com/title/tt1262426/ "https://www.imdb.com/title/tt1262426/"), dado que en su caja aparecía el enlace hacia el sitio web de un sitio de películas triple X en lugar de la página oficial del filme, a la cual confundieron con el grupo de cine para adultos llamado Wicked Pictures.
+
+“Mattel fue informada de un error de impresión en el paquete de las **muñecas de la colección Wicked de Mattel**, vendidas principalmente en **Estados Unidos**, que pretendía dirigir a los consumidores a la página de inicio oficial [WickedMovie.com](https://www.wickedmovie.com/ "https://www.wickedmovie.com/")”, informó la compañía a través del comunicado.
 
 ### Más noticias
 
-* [Cuenca tiene la sequía más extensa de los últimos 51 años](https://www.elcomercio.com/actualidad/ecuador/cuenca-sequia-extensa-ultimos-anos.html "Cuenca tiene la sequía más extensa de los últimos 51 años")
-* [Asociación de operadores móviles tiene una propuesta frente a los cortes de luz](https://www.elcomercio.com/actualidad/negocios/asociacion-operadores-moviles-propuesta-frente-cortes-luz.html "Asociación de operadores móviles tiene una propuesta frente a los cortes de luz")
+* **[Una Barbie para cada gusto, Mattel expande su menú](https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-menu-inclusion-novedades.html "https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-menu-inclusion-novedades.html")**
+* **[Estas son las dos nuevas muñecas Barbie inclusivas de Mattel](https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-munecas-inclusivas-diversidad.html "https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-munecas-inclusivas-diversidad.html")**
 
-Los cortes de Luz en Cuenca
----------------------------
+Asimismo, agregó: “Lamentamos profundamente este desafortunado error y estamos tomando medidas inmediatas para remediarlo. Se advierte a los padres que el sitio web incorrecto y mal impreso no es apropiado para niños. Se recomienda a los consumidores que ya tienen el producto que desechen el paquete u oculten el enlace y que se comuniquen con el Servicio de atención al cliente de Mattel para obtener más información”.
 
-El **cronograma** definido hasta el próximo jueves 14 por la empresa eléctrica ‘Centrosur’, que comercializa la electricidad en el **Austro**, sí establece interrupciones programadas del suministro eléctrico de hasta **12 horas** en los barrios de la periferia de la **capital azuaya**.
+Ante esta situación, las distintas plataformas que las tenían a la venta tuvieron que adherirse a la medida, y también quitaron de sus productos a estas muñecas, como son los casos de Amazon, Target, Walmart, Best Buy, Barnes & Noble y Macy’s.
 
-Los apagones de seis horas programados inicialmente en distintas franjas horarias en todo el país, con excepción de las **islas Galápagos**, subieron posteriormente a ocho y desde el sábado han llegado hasta las 12 horas, casi lo mismo que sucedía a **finales de octubre**, cuando hubo días con hasta 14 horas diarias de interrupción en el suministro eléctrico.
+¿Qué pasará con las muñecas de Mattel en Estados Unidos?
+--------------------------------------------------------
 
-El Ministerio de Energía y Minas ha justificado el nuevo aumento de horas sin luz a causa de **mantenimientos programados** y de **emergencias** en las centrales Agoyán, San Francisco y otras plantas térmicas, así como a los mínimos históricos registrados en los caudales de los ríos que alimentan a las principales centrales **hidroeléctricas** del país.
+Según informo el sitio CNBC, todavía no se sabe qué sucederá con las **muñecas de Mattel** inspiradas en Wicked en Estados Unidos, dado que la empresa no respondió las preguntas enviadas por el sitio mencionado, por lo que no está esclarecido si las mismas serán reimpresas con el enlace correspondiente.
 
-Sin embargo, el **cronograma** fijado tanto para el corte como para el **restablecimiento** del servicio eléctrico se está incumpliendo en la práctica, lo cual ha generado un **profundo malestar** entre los ciudadanos.
+James Zahn, editor jefe de The Toy Book, dijo allí que “como en cualquier negocio, los errores pueden ocurrir en el negocio de los juguetes”, y opinó que, seguramente, lo sucedido en con las muñecas Mattel “fue un descuido inocente que pasó por los procesos normales”.
 
-Las **redes sociales** se han convertido en un canal de desahogo por el que circulan innumerables reclamos a las autoridades por esta situación, que complica aún más la **organización** de hogares, industrias y negocios.
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBZBN7qPx_7/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de MATTEL (@mattel)](https://www.instagram.com/p/DBZBN7qPx_7/?utm_source=ig_embed&utm_campaign=loading)
 
-Reclamos ciudadanos
--------------------
+**Wicked** es una película próxima a estrenarse en 2024, está protagonizada por Cynthia Erivo como Elphaba y **Ariana Grande** como Glinda, la historia explora los orígenes de estas dos brujas en la Tierra de Oz. Los jóvenes se conocen como estudiantes en la Universidad de Shiz, donde desarrolla una amistad inesperada pero profunda.
 
-En la calle es fácil escuchar **quejas** como las de Walter, un joven de 24 años que trabaja en una **cafetería** en Cuenca que, al igual que otros establecimientos de la zona, se ha visto obligada a cambiar los **horarios** de comidas, cierre y apertura.
-
-Una de las joyas de Cuenca es su **majestuosa catedral**, coronada por cúpulas celestes que adornan las postales de la sureña ciudad.
-
-Guillermina, una mujer que desde hace treinta años vende velas y otros artículos religiosos a las puertas de la catedral, cuenta que ahora la gente le **compra** sus pequeñas **lamparitas** para rezar en casa y que los feligreses ya deambulan por el centro histórico.
-
-“Antes la gente caminaba normalmente a las siete o las ocho de la noche, pero hoy ya no, porque hay lugares que no disponen de luz eléctrica. Entonces ‘**prontito**‘ hay que estar en las **casas** por la delincuencia, por tantos peligros que hay en la oscuridad”, explica.
-
-Dependencia hídrica
--------------------
-
-La sequía está haciendo mella en los ríos de **Cuenca**, donde el pedregal y los cauces secos han reemplazado el **caudal** de agua de otros tiempos.
-
-Al igual que **Cuenca**, otras zonas del país donde operan las centrales hidroeléctricas están sufriendo el embate de la **sequía**, motivo por el cual el **Gobierno** ya ha advertido de que mantendrá los apagones de 12 horas hasta el próximo jueves.
-
-Este es el caso del complejo hidroeléctrico del río **Paute**, en el sur del país , que cuenta con **tres centrales de generación** con una producción conjunta de más de 1.700 megavatios.
-
-Ecuador enfrenta una dura **crisis energética** debido a la peor sequía de los últimos sesenta años. Por ello, el Gobierno del presidente Daniel Noboa proyecta cambiar la matriz de **generación eléctrica**, que actualmente depende en más de un 70 % de plantas hidroeléctricas.
-
-**_Susana Madera, EFE_**
-
-De Bogotá a Quito en 32 horas
-=============================
-
-Odisea aérea por un vuelo con retraso, desencadenando una serie de demoras, pérdidas de conexión, largas filas y un caótico alojamiento.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
-
-Qué fácil es encontrar **historias** en los **aeropuertos**. La que sigue a continuación nos ocurrió a Francisco Guevara, chef y profesor universitario, y a mí, que solo queríamos llegar a nuestras casas, luego de tres días de trabajo. Todo comenzó cuando una **aerolínea comercial**, que debía cubrir la ruta **Popayán-Bogotá-Quito,** **retrasó** su **vuelo** por dos horas. Desde las **primeras horas de la mañana** del viernes 8 de noviembre, recibimos correos con la **notificación** de que estaba **retrasado** el **vuelo**. En el aeropuerto, el personal de **sala de embarque** tampoco daba más información. Así que, para **matar el tiempo**, empezamos a decir lo primero que se nos ocurría: hubo un **desperfecto**, **mal clima**, algún **accidente**…
-
-Volvimos a la **realidad** cuando **abordamos**. Una vez sentados, puestos los cinturones y **emocionados por el viaje,** el capitán nos desilusionó: faltaba **una hora para despegar** porque había **mucho tráfico** en el **aeropuerto El Dorado**; además, una zona de las pistas no funcionaba. En ese momento nos miramos y supimos que la **conexión Bogotá-Quito** estaba perdida. Y en eso no nos equivocamos. Llegamos cuando el **vuelo** estaba cerrado. Sin embargo, como **buenos optimistas**, Francisco y yo pensamos que nos pondrían en el siguiente avión. De hecho, él me mostró la **notificación** que le había llegado en donde le decían que saldría a las 20:40. Lo que no vio era que el **boleto** decía 9 de noviembre, es decir, el día siguiente. Pero esto apenas comenzaba.
-
-En el **aeropuerto bogotano**, esa **aerolínea** tenía, al pie de unas gradas, un pequeño **counter** con dos filas de más de 100 personas cada una. Ahí llegamos todos **quienes habíamos perdido vuelos** con **conexiones nacionales** e **internacionales**. Y, por supuesto, no todos veníamos de **Popayán**. Por ahí vimos 5 ecuatorianos que también querían regresar, pero no estaban dispuestos a hacer un grupo con nadie más. De pronto salieron a toda **marcha** de la **fila** que no se movía. Francisco decidió seguirlos y yo me quedé a la espera de ser atendida. Un caleño que quería **viajar al exterior** regresaba de hablar con uno de los tres **operadores** que estaban tratando de atender a tanta gente y comentó que quienes iban al **extranjero** debíamos salir y volver a entrar al segundo piso para ir al counter y cambiar los boletos. Corrí y me encontré con una situación que no era mala… era peor: otras **100 personas en la fila**, pero **atendidas por una sola persona.**
-
-Junto a nosotros había otros 100 o quizás **200 pasajeros** tratando de obtener respuestas sobre **vuelos internos**, con la ayuda de nos más de 3 personas. Francisco me logró contactar y llegó. Los otros **ecuatorianos** tenían **problemas** con sus **maletas**. Y así comenzaron otras dos largas horas que terminaron cuando nos dijeron que o tomábamos el **vuelo** del sábado por la noche o podíamos estar en lista de espera sentados en las **diferentes salas** hasta que alguien pierda el **vuelo**, se libere un asiento y nos embarquen. Resignados salimos por la puerta 5 en busca de la persona que nos llevaría al **hotel**. La encontramos a ella junto a unas 50 personas que esperaban el mismo transporte. Muy seria, nos dijo que la **buseta** llegaría en 40 minutos, que el **trayecto** tomaría un tiempo similar y que solo alcanzaban **20 personas por viaje**. Decidimos esperar. Teníamos que **cargar los teléfonos** y ya eran casi las 19:00. Había **llovido** en **Bogotá** y ver las **calles mojadas** y sentir el **olor de la humedad es agradable**. Además, dos jóvenes músicos de Nariño conversaban con nosotros. Ellos necesitaban llegar a Ipiales.
-
-Durante esta nueva espera, muchos se **fueron en taxis**, lo que redujo la fila. Pero no fue suficiente. No alcanzamos en el bus, así que tomamos un uber. Para ese momento ya solo pensábamos y hablábamos de comida. Estuvimos a punto de parar por unas hamburguesas, pero la **necesidad de dejar las maletas** y comer algo mejor nos contuvo. Cruzamos la **puerta del hotel** y nuestra ilusión se fue al suelo. Había unas 80 personas esperando recibir las tarjetas para ingresar a su habitación. Y un número similar en la sala a donde metieron a todos quienes teníamos **tiquetes para la cena.** Quisimos comer primero y nos **devolvieron a la fila** de ingreso al hotel. Había que **registrarse**, nos informaron. Luego nos dijeron que alguien se podía quedar en la fila y que el resto cene. En ese punto personalmente no sabía si reírme o llorar.
-
-**Francisco resultó un gran compañero de viaje**. Entró a uno de los restaurantes del hotel, ordenó una cerveza, una gaseosa y unas empanadas que nos resucitó a los cuatro. Debieron pasar unos 80 minutos en total cuando pudimos correr al **bufete**. La sopa de tomate, en honor a la verdad, estaba caliente, nos empezábamos a reconfortar. Pero el segundo plato nos desalentó: carne fría y dura, una ensalada con vinagre balsámico qué había sido calentada y dos pedazos de yuca frita hacía horas.
-
-Con **hambre** y **agotados** fuimos a dormir. A la mañana siguiente debimos dejar el hotel a las 12 y esperar en el lobby hasta las 4 que fuimos al aeropuerto. **Dos cambios** de sala y un nuevo **retraso** inexplicable fue el escenario. Pero el **vuelo se abrió**. En el camino me encontré con otra profesora que llevaba 14 horas en espera. La consolé diciendo que íbamos algo más de 30 y que la meta era ver si lográbamos llegar luego de 32. ¡Y lo conseguimos!
+Sin embargo, su relación enfrenta desafíos tras un encuentro con el Mago de Oz: Glinda, impulsada por la ambición y el poder, se distancia, mientras que Elphaba, fiel a sí misma y sus principios, desencadena un impacto sorprendente y duradero en su destino. y en el de Oz.
