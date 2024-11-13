@@ -128,12 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
     * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
-    * [Vivek Ramaswamy](https://www.news18.com/world/what-is-vivek-ramaswamys-future-in-trump-2-0-after-likely-snub-for-secretary-of-state-9117700.html)
+    * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
+    * [Elections Live](https://www.news18.com/elections/jharkhand-assembly-election-bypolls-wayanad-lok-sabha-polls-live-blog-jmm-bjp-congress-india-bloc-latest-news-november-13-liveblog-9118335.html)
     * [Song Jae Rim](https://www.news18.com/movies/south-korean-actor-song-jae-rim-passes-away-at-39-found-dead-in-seoul-apartment-9117748.html)
     * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-    * [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
+    * [Vivek Ramaswamy](https://www.news18.com/world/wont-go-gently-vivek-ramaswamy-elon-musk-make-their-motto-clear-after-key-trump-2-0-posts-9118469.html)
+    * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
 * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
-* [Vivek Ramaswamy](https://www.news18.com/world/what-is-vivek-ramaswamys-future-in-trump-2-0-after-likely-snub-for-secretary-of-state-9117700.html)
+* [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
+* [Elections Live](https://www.news18.com/elections/jharkhand-assembly-election-bypolls-wayanad-lok-sabha-polls-live-blog-jmm-bjp-congress-india-bloc-latest-news-november-13-liveblog-9118335.html)
 * [Song Jae Rim](https://www.news18.com/movies/south-korean-actor-song-jae-rim-passes-away-at-39-found-dead-in-seoul-apartment-9117748.html)
 * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-* [Gurpatwant Singh Pannun](https://www.news18.com/world/pannun-announces-new-dates-of-temple-attacks-in-canada-india-terms-threats-terror-acts-intel-sources-9116241.html)
+* [Vivek Ramaswamy](https://www.news18.com/world/wont-go-gently-vivek-ramaswamy-elon-musk-make-their-motto-clear-after-key-trump-2-0-posts-9118469.html)
+* [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
