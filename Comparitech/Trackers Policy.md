@@ -1,5 +1,3 @@
- 
-
 Menu Close
 
 [](https://www.comparitech.com/ "Comparitech")
