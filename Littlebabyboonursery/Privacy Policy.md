@@ -34,7 +34,7 @@ Log In
 
 Use tab to navigate through the menu items.
 
-![Toys on a Shelf](https://static.wixstatic.com/media/11062b_6cd4fdec35054ad6a9854241998c1c19~mv2.jpg/v1/fill/w_80,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/11062b_6cd4fdec35054ad6a9854241998c1c19~mv2.jpg)
+![Toys on a Shelf](https://static.wixstatic.com/media/11062b_6cd4fdec35054ad6a9854241998c1c19~mv2.jpg/v1/fill/w_80,h_50,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/11062b_6cd4fdec35054ad6a9854241998c1c19~mv2.jpg)
 
 Privacy Policy
 ==============
@@ -224,6 +224,6 @@ Do Not Sell My Personal Information
 
 [About Us](https://www.littlebabyboonursery.com/about-us)
 
-![LGBT Friendly Business.jpg](https://static.wixstatic.com/media/5c1f9e_046419d4fcb34da4b3389ec29572b4b6~mv2.jpg/v1/fill/w_133,h_20,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/LGBT%20Friendly%20Business.jpg)
+![LGBT Friendly Business.jpg](https://static.wixstatic.com/media/5c1f9e_046419d4fcb34da4b3389ec29572b4b6~mv2.jpg/v1/fill/w_133,h_20,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/LGBT%20Friendly%20Business.jpg)
 
 bottom of page
