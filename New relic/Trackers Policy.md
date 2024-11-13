@@ -271,9 +271,9 @@ Submit
 
 Search toggle
 
-[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Get Demo Get Demo](https://newrelic.com/request-demo)
+[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/index.php/signup)[Get Demo Get Demo](https://newrelic.com/index.php/request-demo)
 
-[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/signup)[Get Demo Get Demo](https://newrelic.com/request-demo)
+[Log in Log in](https://one.newrelic.com/)[Log in Log in](https://one.newrelic.com/)[Get Started Free Get Started Free](https://newrelic.com/index.php/signup)[Get Demo Get Demo](https://newrelic.com/index.php/request-demo)
 
 New Relic Cookie Policy
 =======================
