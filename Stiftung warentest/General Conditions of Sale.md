@@ -585,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Fußbereich
 
@@ -2720,21 +2720,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Erben­gemeinschaft: Wer seine Eltern pflegt, bekommt mehr](https://www.test.de/Erbengemeinschaft-Wer-seine-Eltern-pflegt-bekommt-mehr-5942443-0/ "Erbengemeinschaft - Wer seine Eltern pflegt, bekommt mehr")
-* [Arzt­termine finden: Schneller in die Fach­arzt­praxis](https://www.test.de/Arzttermine-bekommen-So-geht-es-schneller-6092505-0/ "Arzttermine finden - Schneller in die Facharztpraxis")
-* [Assistent für Digitalwährungs­handel: Achtung, Identitäts­klau!](https://www.test.de/Assistent-fuer-Digitalwaehrungshandel-Achtung-Identitaetsklau-6003423-0/ "Assistent für Digitalwährungshandel - Achtung, Identitätsklau!")
-* [Beamer: Aus für Queck­silber-Lampen naht](https://www.test.de/Beamer-Aus-fuer-Quecksilber-Lampen-naht-6162906-0/ "Beamer - Aus für Quecksilber-Lampen naht")
+* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
+* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
+* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
+* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
+* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
+* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
 
 Service Stiftung Warentest
 
