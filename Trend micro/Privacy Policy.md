@@ -340,15 +340,15 @@ search close
                 
                 ![](https://trendmicro.scene7.com/is/image/trendmicro/sps-mobile-security-enterprise-console-shot?scl=1.0&qlt=95&fmt=webp-alpha)
                 
-    * [Network Security](https://www.trendmicro.com/en_us/business/products/network.html)
+    * [Network Security](https://www.trendmicro.com/en_us/about/b-nav-network-security)
         
-        * [Network Security](https://www.trendmicro.com/en_us/business/products/network.html)
+        * [Network Security](https://www.trendmicro.com/en_us/about/b-nav-network-security)
             
             * Network Security Overview
                 
                 Expand the power of XDR with network detection and response
                 
-                [Learn more](https://www.trendmicro.com/en_us/business/products/network.html)
+                [Learn more](https://www.trendmicro.com/en_us/about/b-nav-network-security)
                 
         * [XDR for Network](https://www.trendmicro.com/en_us/business/products/detection-response/xdr.html)
             
@@ -386,17 +386,17 @@ search close
                 
                 ![](https://trendmicro.scene7.com/is/image/trendmicro/zero-trust-access-console-shot?scl=1.0&qlt=95&fmt=webp-alpha)
                 
-        * [Industrial Network Security](https://www.trendmicro.com/en_us/business/products/iot/industrial-network-security.html)
-            
-            * Industrial Network Security
-                
-                [Learn more](https://www.trendmicro.com/en_us/business/products/iot/industrial-network-security.html)
-                
         * [5G Network Security](https://www.trendmicro.com/en_us/business/solutions/iot/enterprise-5g-iot.html)
             
             * 5G Network Security
                 
                 [Learn more](https://www.trendmicro.com/en_us/business/solutions/iot/enterprise-5g-iot.html)
+                
+        * [Industrial Network Security](https://www.trendmicro.com/en_us/business/products/iot/industrial-network-security.html)
+            
+            * Industrial Network Security
+                
+                [Learn more](https://www.trendmicro.com/en_us/business/products/iot/industrial-network-security.html)
                 
     * [Email Security](https://www.trendmicro.com/en_us/business/products/email-security.html)
         
