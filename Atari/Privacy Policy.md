@@ -1,7 +1,5 @@
 [Skip to content](#MainContent)
 
-[EARLY ACCESS SALE | UP TO $60 CASHBACK](https://www.atari.com/collections/early-access-sale)
-
      
 
 * [Hardware](https://www.atari.com/collections/hardware)
@@ -378,6 +376,15 @@ RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
 
  
 
+SHOP EARLY & SAVE
+=================
+
+Don't let "Sold Out" spoil the holidays. Shop early before your wishlist sells out!
+
+[Shop Now](https://www.atari.com/collections/early-access-sale)
+
+ 
+
 **Introducing the Atari 7800+**
 
 New console, new games, and new accessories!
@@ -608,6 +615,46 @@ Unit price /  per](https://www.atari.com/products/rollercoaster-tycoon-25th-ann
 
 ![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
 
+Atari 2600+
+-----------
+
+Enjoy your favorite Atari 2600 and 7800 games on one system! Not only does the Atari 2600+ pull double cartridge duty, it also features HDMI and widescreen mode for easy connectivity to modern TVs.
+
+[Shop Now](https://www.atari.com/collections/atari-2600-plus)
+
+![](files/image_70679709-4dae-40f9-a153-5713cf2f7e01.png)
+
+#### 2 Systems in 1
+
+Plays both Atari 2600 and 7800 game cartridges.
+
+#### Ready to Play
+
+Comes with a 10-in-1 cartridge so you can dive into your favorite titles right away.
+
+#### HDMI Ready
+
+Easily connects via HDMI so you can enjoy every last pixel.
+
+NEW RELEASES
+------------
+
+[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
+
+### Super Pocket - Atari Edition
+
+Includes a whopping 50 Atari games, with arcade greats, console wonders, and portable Atari rarities!
+
+Shop Now](https://www.atari.com/products/super-pocket-atari-edition)[![Yars Rising](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
+
+### YARS RISING
+
+Run, jump, sneak, and hack your way to the heart of the mystery
+
+Physical & Digital Available Today](https://www.atari.com/products/yars-rising)
+
+![](//atari.com/cdn/shop/files/atari-symbol.svg?v=1692708467)
+
 Atari 7800+
 -----------
 
@@ -626,23 +673,6 @@ Plays both Atari 2600 and 7800 game cartridges
 #### Wireless Control
 
 Includes the NEW Wireless CX78+ Gamepad
-
-NEW RELEASES
-------------
-
-[![Super Pocket Atari Edition](files/Product_Image_2db1dbea-2baa-499c-bd5c-1ba43b694bfd.png)
-
-### Super Pocket - Atari Edition
-
-Includes a whopping 50 Atari games, with arcade greats, console wonders, and portable Atari rarities!
-
-Shop Now](https://www.atari.com/products/super-pocket-atari-edition)[![Yars Rising](files/Product_Image_abea9221-7178-4364-9526-7d5870fc8671.png)
-
-### YARS RISING
-
-Run, jump, sneak, and hack your way to the heart of the mystery
-
-Physical & Digital Available Today](https://www.atari.com/products/yars-rising)
 
 FEATURED GAMES
 --------------
