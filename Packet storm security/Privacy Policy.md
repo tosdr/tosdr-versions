@@ -1,6 +1,6 @@
 [![packet storm](https://packetstatic.com/img1514015884/ps_logo.png)](https://packetstormsecurity.com/)
 
-what you don't know can hurt you
+exploit the possibilities
 
 [Register](https://packetstormsecurity.com/account/register/) | [Login](https://packetstormsecurity.com/account/login/)
 
@@ -28,21 +28,37 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 239 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 62 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 23 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 20 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 300 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 63 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 20 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 19 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
-* [indoushka](https://packetstormsecurity.com/files/authors/7697) 5 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 4 files
-* [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
 * [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
+* [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
+* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 2 files
 
 Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Air National Guardsman Gets 15 Years For Leaking Docs On Discord](https://packetstormsecurity.com/news/view/36593/Air-National-Guardsman-Gets-15-Years-For-Leaking-Docs-On-Discord.html)
+
+Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:35 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [military](https://packetstormsecurity.com/news/tags/military)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36593/) | [View](https://www.theregister.com/2024/11/13/teixeira_prison_discord/)
+
+[Citrix, Cisco, Fortinet Zero-Days Among 2023's Most Exploited Vulnerabilities](https://packetstormsecurity.com/news/view/36592/Citrix-Cisco-Fortinet-Zero-Days-Among-2023s-Most-Exploited-Vulnerabilities.html)
+
+Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:31 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cisco](https://packetstormsecurity.com/news/tags/cisco), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36592/) | [View](https://www.securityweek.com/citrix-cisco-fortinet-zero-days-among-2023s-most-exploited-vulnerabilities/)
 
 [U.S. May Support Global Surveillance Treaty Hated by Everyone but Authoritarian Governments](https://packetstormsecurity.com/news/view/36587/U.S.-May-Support-Global-Surveillance-Treaty-Hated-by-Everyone-but-Authoritarian-Governments.html)
 
@@ -52,6 +68,22 @@ tags | [headline](https://packetstormsecurity.com/news/tags/headline), [governme
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36587/) | [View](https://gizmodo.com/u-s-may-support-global-surveillance-treaty-hated-by-everyone-but-authoritarian-governments-2000523043)
 
+[Ahold Delhaize Cybersecurity Incident Impacts Giant Food, Hannaford](https://packetstormsecurity.com/news/view/36586/Ahold-Delhaize-Cybersecurity-Incident-Impacts-Giant-Food-Hannaford.html)
+
+Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:02:43 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36586/) | [View](https://www.securityweek.com/ahold-delhaize-cybersecurity-incident-impacts-giant-food-hannaford/)
+
+[New GoIssue Tool Targets GitHub Devs And Corporate Supply Chains](https://packetstormsecurity.com/news/view/36585/New-GoIssue-Tool-Targets-GitHub-Devs-And-Corporate-Supply-Chains.html)
+
+Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:02:37 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [phish](https://packetstormsecurity.com/news/tags/phish)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36585/) | [View](https://www.securityweek.com/gitloker-strikes-again-new-goissue-tool-targets-github-developers-and-corporate-supply-chains/)
+
 [Remcos RAT Now Exploiting Microsoft Excel Files](https://packetstormsecurity.com/news/view/36584/Remcos-RAT-Now-Exploiting-Microsoft-Excel-Files.html)
 
 Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:01:52 UTC")
@@ -59,6 +91,22 @@ Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36584/) | [View](https://www.scworld.com/news/excel-doc-loaded-with-remcos-rat-lets-attackers-gain-backdoor-access)
+
+[Critical NAS-ty Flaw Strikes D-Link Storage Boxes](https://packetstormsecurity.com/news/view/36583/Critical-NAS-ty-Flaw-Strikes-D-Link-Storage-Boxes.html)
+
+Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:01:47 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36583/) | [View](https://www.scworld.com/news/nas-ty-flaw-strikes-d-link-storage-boxes)
+
+[Amazon Confirms Employee Data Exposed In Leak Linked TO MOVEit Vulnerability](https://packetstormsecurity.com/news/view/36582/Amazon-Confirms-Employee-Data-Exposed-In-Leak-Linked-TO-MOVEit-Vulnerability.html)
+
+Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:01:41 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [amazon](https://packetstormsecurity.com/news/tags/amazon), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36582/) | [View](https://www.theregister.com/2024/11/12/amazon_moveit_breach/)
 
 [DDoS Temporarily Blocked Israeli Credit Card Payments](https://packetstormsecurity.com/news/view/36581/DDoS-Temporarily-Blocked-Israeli-Credit-Card-Payments.html)
 
@@ -75,54 +123,6 @@ Posted [Nov 11, 2024](https://packetstormsecurity.com/news/date/2024-11-11/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36580/) | [View](https://www.theregister.com/2024/11/11/bitcoin_fog_sentencing/)
-
-[Cyberattack Cost Oil Giant Halliburton $35 Million](https://packetstormsecurity.com/news/view/36579/Cyberattack-Cost-Oil-Giant-Halliburton-35-Million.html)
-
-Posted [Nov 11, 2024](https://packetstormsecurity.com/news/date/2024-11-11/ "15:38:32 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36579/) | [View](https://www.securityweek.com/cyberattack-cost-oil-giant-halliburton-35-million/)
-
-[FBI Warns US Organizations Of Fake Emergency Data Requests](https://packetstormsecurity.com/news/view/36578/FBI-Warns-US-Organizations-Of-Fake-Emergency-Data-Requests.html)
-
-Posted [Nov 11, 2024](https://packetstormsecurity.com/news/date/2024-11-11/ "15:38:26 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [fbi](https://packetstormsecurity.com/news/tags/fbi)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36578/) | [View](https://www.securityweek.com/fbi-warns-us-organizations-of-fake-emergency-data-requests-made-by-cybercriminals/)
-
-[No One Knows Who Moved UK's Oldest Satellite](https://packetstormsecurity.com/news/view/36577/No-One-Knows-Who-Moved-UKs-Oldest-Satellite.html)
-
-Posted [Nov 9, 2024](https://packetstormsecurity.com/news/date/2024-11-09/ "15:06:05 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [britain](https://packetstormsecurity.com/news/tags/britain), [space](https://packetstormsecurity.com/news/tags/space)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36577/) | [View](https://www.bbc.com/news/articles/cpwrr58801yo)
-
-[Hackers Are Stealing Tickets From Ticketmaster Accounts](https://packetstormsecurity.com/news/view/36576/Hackers-Are-Stealing-Tickets-From-Ticketmaster-Accounts.html)
-
-Posted [Nov 9, 2024](https://packetstormsecurity.com/news/date/2024-11-09/ "15:05:20 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36576/) | [View](https://www.businessinsider.com/ticketmaster-hacked-transfer-tickets-from-customer-account-scam-2024-11)
-
-[US Gov Agency Urges Employees To Limit Phone Use After China Salt Typhoon Hack](https://packetstormsecurity.com/news/view/36575/US-Gov-Agency-Urges-Employees-To-Limit-Phone-Use-After-China-Salt-Typhoon-Hack.html)
-
-Posted [Nov 9, 2024](https://packetstormsecurity.com/news/date/2024-11-09/ "15:04:25 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36575/) | [View](https://www.securityweek.com/us-gov-agency-urges-employees-to-limit-phone-use-after-china-salt-typhoon-hack/)
-
-[Palo Alto Networks Expedition Vulnerability Exploited In Attacks](https://packetstormsecurity.com/news/view/36574/Palo-Alto-Networks-Expedition-Vulnerability-Exploited-In-Attacks.html)
-
-Posted [Nov 8, 2024](https://packetstormsecurity.com/news/date/2024-11-08/ "16:49:41 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36574/) | [View](https://www.securityweek.com/palo-alto-networks-expedition-vulnerability-exploited-in-attacks-cisa-warns/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2579671307&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2579671307.1731510257.1731510257.1731510257.1%3B%2B__utmz%3D32867617.1731510257.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1242892327&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1242892327.1731532763.1731532763.1731532763.1%3B%2B__utmz%3D32867617.1731532763.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
