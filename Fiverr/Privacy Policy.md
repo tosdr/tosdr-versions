@@ -460,31 +460,30 @@
     
 * [Business](https://www.fiverr.com/categories/business?source=category_tree)
     
-    * Business Management
+    * Business Formation & Consulting
         
-    * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
+    * [Business Formation & Registrationnew](https://www.fiverr.com/categories/business/business-registration?source=category_tree)
+    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
     * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
     * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
     * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree)
-    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
-    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
-    * [Supply Chain Management](https://www.fiverr.com/categories/business/supply-chain-management?source=category_tree)
-    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
-    
-    * [AI for Businesses](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
-    * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
-    * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
+    * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
     
     * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
-    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
+    * [Intellectual Property Managementnew](https://www.fiverr.com/categories/business/intellectual-property-management?source=category_tree)
     * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
     * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
+    * [General Legal Advice](https://www.fiverr.com/categories/business/legal-consulting-services/legal-advice?source=category_tree)
     
+    * General & Administrative
+        
+    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
+    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
+    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
     * [E-Commerce Management](https://www.fiverr.com/categories/business/ecommerce-management?source=category_tree)
-    * [Store Management](https://www.fiverr.com/categories/business/ecommerce-management/store-management?source=category_tree)
-    * [Amazon Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/amazon?source=category_tree&ref=platform%3Aamazon)
-    * [Shopify Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/shopify?source=category_tree&ref=platform%3Ashopify)
-    * [Etsy Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/store-management/etsy?source=category_tree)
+    * [Supply Chain Management](https://www.fiverr.com/categories/business/supply-chain-management?source=category_tree)
+    * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
+    * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
     
     * [Data & Business Intelligence](https://www.fiverr.com/categories/data?source=category_tree)
     * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
@@ -498,17 +497,13 @@
     * [Call Center & Calling](https://www.fiverr.com/categories/business/virtual-assistant-services/call-center-and-calling?source=category_tree)
     * [Customer Care](https://www.fiverr.com/categories/business/customer-care?source=category_tree)
     
-    * General & Administrative
-        
-    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
-    * [Online Investigationsnew](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
-    * [Fact Checking](https://www.fiverr.com/categories/business/fact-checking?source=category_tree)
-    
     * Miscellaneous
         
-    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
-    * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
-    * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
+    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
+    * [Online Investigations](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
+    * [Sustainability Consulting](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
+    * [Game Concept Design](https://www.fiverr.com/categories/business/game-concept?source=category_tree)
+    * [Other](https://www.fiverr.com/categories/business/business-services?source=category_tree)
     
 * [Finance](https://www.fiverr.com/categories/finance?source=category_tree)
     
@@ -1140,30 +1135,28 @@ Browse categories
     
     Business
     
-    * Business Management
-    * [Business Registration](https://www.fiverr.com/categories/business/legal-consulting-services/business-registration?source=category_tree)
+    * Business Formation & Consulting
+    * [Business Formation & RegistrationNew](https://www.fiverr.com/categories/business/business-registration?source=category_tree)
+    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
     * [Business Plans](https://www.fiverr.com/categories/business/business-plans?source=category_tree)
     * [Business Consulting](https://www.fiverr.com/categories/business/business-tips?source=category_tree)
     * [HR Consulting](https://www.fiverr.com/categories/business/hr-consulting?source=category_tree)
-    * [Market Research](https://www.fiverr.com/categories/business/market-research-reports?source=category_tree)
-    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
-    * [Supply Chain Management](https://www.fiverr.com/categories/business/supply-chain-management?source=category_tree)
-    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
-    
-    * [AI for Businesses](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
-    * [AI Strategy](https://www.fiverr.com/categories/business/ai-consulting/ai-strategy?source=category_tree)
-    * [AI Lessons](https://www.fiverr.com/categories/business/ai-consulting/ai-lessons?source=category_tree)
+    * [AI Consulting](https://www.fiverr.com/categories/business/ai-consulting?source=category_tree)
     
     * [Legal Services](https://www.fiverr.com/categories/business/legal-consulting-services?source=category_tree)
-    * [Applications & Registrations](https://www.fiverr.com/categories/business/legal-consulting-services/applications-registrations?source=category_tree)
+    * [Intellectual Property ManagementNew](https://www.fiverr.com/categories/business/intellectual-property-management?source=category_tree)
     * [Legal Documents & Contracts](https://www.fiverr.com/categories/business/legal-consulting-services/legal-documents?source=category_tree)
     * [Legal Research](https://www.fiverr.com/categories/business/legal-consulting-services/legal-research?source=category_tree)
+    * [General Legal Advice](https://www.fiverr.com/categories/business/legal-consulting-services/legal-advice?source=category_tree)
     
+    * General & Administrative
+    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
+    * [Project Management](https://www.fiverr.com/categories/business/project-management?source=category_tree)
+    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
     * [E-Commerce Management](https://www.fiverr.com/categories/business/ecommerce-management?source=category_tree)
-    * [Store Management](https://www.fiverr.com/categories/business/ecommerce-management/store-management?source=category_tree)
-    * [Amazon Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/amazon?source=category_tree&ref=platform%3Aamazon)
-    * [Shopify Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/shopify?source=category_tree&ref=platform%3Ashopify)
-    * [Etsy Experts](https://www.fiverr.com/categories/business/buy/ecommerce-management/store-management/etsy?source=category_tree)
+    * [Supply Chain Management](https://www.fiverr.com/categories/business/supply-chain-management?source=category_tree)
+    * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
+    * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
     
     * [Data & Business Intelligence](https://www.fiverr.com/categories/data?source=category_tree)
     * [Data Visualization](https://www.fiverr.com/categories/data/data-visualization?source=category_tree)
@@ -1176,15 +1169,12 @@ Browse categories
     * [Call Center & Calling](https://www.fiverr.com/categories/business/virtual-assistant-services/call-center-and-calling?source=category_tree)
     * [Customer Care](https://www.fiverr.com/categories/business/customer-care?source=category_tree)
     
-    * General & Administrative
-    * [Virtual Assistant](https://www.fiverr.com/categories/business/virtual-assistant-services?source=category_tree)
-    * [Online InvestigationsNew](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
-    * [Fact Checking](https://www.fiverr.com/categories/business/fact-checking?source=category_tree)
-    
     * Miscellaneous
-    * [Software Management](https://www.fiverr.com/categories/business/software-management?source=category_tree)
-    * [Product Management](https://www.fiverr.com/categories/business/product-management?source=category_tree)
-    * [Event Management](https://www.fiverr.com/categories/business/event-management?source=category_tree)
+    * [Presentations](https://www.fiverr.com/categories/business/online-presentations?source=category_tree)
+    * [Online Investigations](https://www.fiverr.com/categories/business/online-investigations?source=category_tree)
+    * [Sustainability Consulting](https://www.fiverr.com/categories/business/sustainability-consulting?source=category_tree)
+    * [Game Concept Design](https://www.fiverr.com/categories/business/game-concept?source=category_tree)
+    * [Other](https://www.fiverr.com/categories/business/business-services?source=category_tree)
     
 * Finance
     
