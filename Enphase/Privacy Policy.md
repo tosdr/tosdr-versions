@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -103,7 +103,7 @@ Enphase legal notices and policies
 
 ### Privacy Policy – ENPHASE ENERGY
 
-We have updated our Privacy Policy, effective September 29, 2023
+We have updated our Privacy Policy, effective October 15, 2024
 
 Contact details of the Controller
 
@@ -123,7 +123,7 @@ You may direct any questions or comments about this Privacy Policy or our privac
     Fremont, CA 94538  
     United States
 
-This “Privacy Policy” describes the privacy practices of Enphase Energy, Inc. and all subsidiaries and affiliates in connection with Enphase consumer activity in all regions and across all businesses and services, as well as privacy choices available to individuals with respect to their information. The first part of this document is applicable to all regions; the second part of this document includes information applicable only to certain regions, specifically for United States, European Economic Area (including Switzerland and the United Kingdom), Australia/New Zealand, and Mexico. The term “personal information” used throughout the first part of this document applies to “personal data,” “personally identifiable information,” and other similar definitions of such information. Certain legal bases are specific to certain jurisdictions and apply only as and if relevant to that particular jurisdiction. For example, “legitimate use” is a reference to India’s Digital Personal Data Protection Act, while “legitimate interest” is a reference to Europe’s GDPR, Brazil’s LGPD, and other regions which use that term.
+This “Privacy Policy” describes the privacy practices of Enphase Energy, Inc. and all subsidiaries and affiliates in connection with Enphase consumer activity in all regions and across all businesses and services, as well as privacy choices available to individuals with respect to their information. The first part of this document is applicable to all regions; the second part of this document includes information applicable only to certain regions, specifically for United States, European Economic Area (plus Switzerland and the United Kingdom), Australia/New Zealand, India, and Mexico. The term “personal information” used throughout the first part of this document applies to “personal data,” “personally identifiable information,” and other similar definitions of such information. Certain legal bases are specific to certain jurisdictions and apply only as and if relevant to that particular jurisdiction. For example, “legitimate use” is a reference to India’s Digital Personal Data Protection Act, while “legitimate interest” is a reference to Europe’s GDPR, Brazil’s LGPD, and other regions which use that term.
 
 This Privacy Policy applies to all Enphase products and services, including business units responsible for hardware, software, and SAAS, websites, the Enphase web and mobile applications, and any other website or mobile application that we own or control (all of the above collectively referred to as the “Business”). This includes the following domains and their sub-domains and alternative extensions: [enphase.com](https://www.enphase.com/), [enphaseenergy.com](https://enphaseenergy.com/), [solargraf.com](https://www.solargraf.com/), [roofgraf.com](https://www.roofgraf.com/), [solarleadfactory.com](https://solarleadfactory.com/), [understandsolar.com](https://understandsolar.com/), [yourchoicesolar.com](https://yourchoicesolar.com/), [solarpower-pro.com](https://solarpower-pro.com/), [clippercreek.com](http://clippercreek.com/), [365pronto.com](http://365pronto.com/), [my.enphase.com](https://enlighten.enphaseenergy.com/), and [enlighten.enphaseenergy.com](https://enlighten.enphaseenergy.com/).
 
@@ -157,7 +157,9 @@ English is the governing version of this Privacy Policy. Any localized or transl
 
 On our webpages, this information is collected using cookies, browser web storage (also known as locally stored objects, or “LSOs”), web beacons, and similar technologies. Our emails may also contain web beacons. In our mobile application, we may collect this information directly or through our use of third-party software development kits (“SDKs”). SDKs may enable third parties to collect information directly from our mobile application.
 
-Additionally, see our [Cookie Policy](https://enphase.com/cookie-policy) for more information.
+We also may use session replay cookies that track your usage of our websites over time, including a video or repeated image replay of your mouse movements, mouse clicks, page visits, scrolling, and keyboard/character entries. These cookies are used to find ways to improve the site and your user experience and in a way that generally anonymizes your individual use and instead aggregates usage of all users over a set period of time, but, depending on settings, may in some rare cases identify your specific web activity. These cookies may be turned off using the SecurePrivacy widget.
+
+Additionally, see our [Cookie Policy](javascript:void(0);) for more information.
 
 **Referrals.** Users of the Service may have the opportunity to refer other individuals to us. If you are an existing user, you may only submit a referral to us if you have permission to provide the referral’s contact information to us so that we may contact them.
 
@@ -206,7 +208,7 @@ We share your personal information as described below with the following entitie
 
 **Service providers.** We may share your personal information with third party companies and individuals that provide services on our behalf or help us operate our business (such as payment processors, customer support, hosting, analytics, email delivery, marketing, database management, as well as permit and rebate application preparation and submission services.)
 
-**Third-party energy providers.** At your direction, we may share or instruct our service providers to share your personal information with third-party energy provider partners or enable third-party energy provider partners to collect information directly via our Service. For example, if you wish to sign up with a third-party energy provider (such as a utility company or an energy aggregator) or submit an application to a utility or governmental authority, we may share your information with such provider. This may include, without limitation, your name, email address, system location information, meter identifier information, and augmented revenue grade meter data.
+**Third-party energy providers.** At your direction, we may share or instruct our service providers to share your personal information with third-party energy provider partners or enable third-party energy provider partners to collect information directly via our Service. Occasionally, we share your personal information with grid services partners such as utilities, energy retailers, aggregators, software or SAAS providers, or other virtual power plant providers based on your consent to those companies directly. For example, if you wish to sign up with a third-party energy provider (such as a utility company or an energy aggregator) or submit an application to a utility or governmental authority, we may share your information with such provider. This may include, without limitation, your name, email address, system location information, meter identifier information, and augmented revenue grade meter data.
 
 **Installers and energy partners.** We may share your information with installers or other energy partners for purposes of introducing you; facilitating a transaction; monitoring, financing, and servicing your Enphase product; customer service; and/or other purposes. This may include your name and contact information, unique site ID, IP address, system components and identification numbers, production information, and consumption information. Other energy partners may include, for example, solar renewable energy certificate (“SREC”) reporting services, third-party owners if you finance your system through a lease or power purchase agreement, or system maintainers.
 
@@ -224,7 +226,7 @@ We share your personal information as described below with the following entitie
 
 ### Your choices
 
-In this section, we describe the rights and choices available to all users. Users who are located in the United States, the European Economic Area, Australia & New Zealand, and Mexico can find additional information about their rights [below](https://enphase.com/legal/privacy-policy#european-users).
+In this section, we describe the rights and choices available to all users. Users who are located in the United States, the European Economic Area, Australia & New Zealand, India, and Mexico can find additional information about their rights [below](https://enphase.com/legal/privacy-policy#european-users).
 
 **Access or update your information.** If you have registered for an Enphase Account, you may review and update certain personal information in your account profile by logging into the Enphase Account.
 
@@ -264,7 +266,7 @@ We are headquartered in the United States and may have service providers in othe
 
 ### Children
 
-The Service is not directed to, and we do not knowingly collect personal information from, anyone under the age of 18. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us. We will delete such information from our files as soon as reasonably practicable. We encourage parents with concerns to [contact us](https://enphase.com/legal/privacy-policy#contact-us).
+The Service is not directed to, and we do not knowingly collect personal information from, anyone under the age of 18. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us. We will delete such information from our files as soon as reasonably practicable. We encourage parents with concerns to [contact us](https://enphase.com/legal/privacy-policy#legal-block-11).
 
 ### Changes to this Privacy Policy
 
@@ -274,7 +276,7 @@ Any modifications to this Privacy Policy will be effective upon our posting the 
 
 ### How to contact us
 
-You may direct any questions or comments about this Policy or our privacy practices to our privacy office and your communication will be handled by our privacy team (including what is sometimes referred to as a Grievance Officer, Data Protection Officer, or Privacy Officer). Our privacy office may be contacted by:
+You may direct any questions, comments, concerns, grievances/complaints, or appeals about this Policy or our privacy practices to our privacy office and your communication will be handled by our privacy team (including what is sometimes referred to as a Grievance Officer, Data Protection Officer, or Privacy Officer). Our privacy office may be contacted by:
 
 * Clicking on the Privacy link, Settings/Do Not Sell My Personal Information link, or SecurePrivacy trust badge at the bottom of any website;
 * Emailing [privacy@enphaseenergy.com;](mailto:privacy@enphaseenergy.com) or
@@ -284,6 +286,8 @@ You may direct any questions or comments about this Policy or our privacy practi
     Attn: Legal – Privacy  
     47281 Bayside Pkwy  
     Fremont, CA 94538
+
+Depending on where you reside, you may file grievances or appeals with your local governmental body that supervises compliance with local privacy laws (sometimes referred to as your Data Protection Authority, Data Protection Board).
 
 ### Important information for United States residents
 
@@ -364,11 +368,11 @@ The chart below summarizes our relevant data practices during the 12 months prec
 | --- | --- | --- | --- | --- |
 | May be derived from your:<br><br>* We do not systematically intentionally collect this information but it may be revealed in identity data or other information we collect | * N/A | * N/A | * N/A | * N/A |
 
-### Important information for European Economic Area residents
+### Important information for European Economic Area (plus Switzerland and United Kingdom) residents
 
 The information provided in this section applies only to individuals in the European Economic Area.
 
-**Personal information.** References to “Personal Data” in this Privacy Policy are defined as “personal data” governed by European data protection legislation.
+**Personal information.** References to “personal information” in this Privacy Policy are defined as “personal data” governed by European data protection legislation.
 
 **Controller and representative.** Enphase is the controller of your Personal Data covered by this Privacy Policy for purposes of European data protection legislation.
 
@@ -378,7 +382,7 @@ Our representative in Europe is: Enphase Energy NL B.V., located at Het Zuiderkr
 
 |     |     |
 | --- | --- |
-| **Processing purpose**<br><br>Details regarding each processing purpose listed below are provided in the section above titled “How we use your personal information”. | **Legal basis** |
+| **Processing purpose**<br><br>Details regarding each processing purpose listed below are provided in the section above titled “How we use your personal information”. | Legal basis |
 | **To operate our business** | Processing is necessary to perform a contractual obligation owed to you or to take steps that you request prior to signing a contract. If there is no contractual obligation, we process your Personal Data based on our legitimate interest in operating our business. |
 | * **To administer events, programs, and contests**<br>* **For research and development**<br>* **To send you marketing and promotional communications**<br>* **To display advertisements**<br>* **For protection of rights, fraud prevention and safety**<br>* **To create anonymous, aggregated or de identified data**<br>* **To respond to your requests**<br>* **To improve our products and Services** | These activities constitute our legitimate interests in fulfilling your requests, operating our business, and other purposes consistent with this privacy policy, Art. 6 (1) (f) GDPR. We do not use your Personal Data for these activities where our interests are overridden by the impact on you (unless we have your consent or are otherwise required or permitted to by law). |
 | * **To comply with law** | Processing is necessary to comply with our legal obligations. |
@@ -465,6 +469,29 @@ If we cannot resolve a complaint related to your personal information, you may d
 
 For more information about privacy issues in Australia and New Zealand, please visit [www.oaic.gov.au](https://www.oaic.gov.au/) or [www.privacy.org.nz](https://www.privacy.org.nz/).
 
+### Important information for India users
+
+The information provided in this section applies only to individuals who reside in India. This notice supplements and must be read in conjunction with our Privacy Policy.
+
+**Personal Data**. References to “personal information” in this Privacy Policy are defined as “personal data” in the Digital Personal Data Protection Act, 2023 (“DPDPA”).
+
+**Data Fiduciary.** Enphase is the “data fiduciary” with respect to your personal data covered by this Privacy Policy for purposes of the DPDPA.
+
+**Your Rights**
+
+The DPDPA gives you certain rights regarding your personal data. If you are located within India, you have the following rights with respect to the personal data that we hold:
+
+* **Access**. You have the right to request a summary of the personal data being processed and the processing activities, and identities of all the data fiduciaries and data processors that your personal data has been shared with.
+* **Correct, complete, and update**. You have the right to correct inaccuracies in your personal data, complete the incomplete personal data, and update your personal data.
+* **Delete**. You have the right to request that we delete your personal data.
+* **Withdraw your consent**. You have the right to withdraw your consent at any time. The withdrawal of consent is only effective for the future, i.e., the withdrawal shall not affect the lawfulness of processing on the basis of consent before its withdrawal.
+* **Nomination**. You have the right to nominate an individual to exercise your rights under the DPDPA on your behalf in the event of your death or incapacitation.
+* **Redress grievances**. You have the right to redress grievances with us. If you have exhausted the process with us and we still have not addressed your grievances, you may contact the Data Protection Board of India to make a complaint.
+
+You may exercise these privacy rights under the DPDPA by any of the methods listed in the “How to contact Us” section above. We may request specific information from you to help us confirm your identity and process your request.
+
+You may contact the Data Protection Board of India by contacting your local or national government office, or by contacting the Ministry of Electronics & Information Technology at [https://meity.gov.in/cyber-security](https://meity.gov.in/cyber-security).  As of our last update to this policy, we were not able to identify a website or phone number for the Data Protection Board of India directly.
+
 ### Important information for Mexico users
 
 According to Mexican legislation, you have the right to Access your personal data, request the correction or update of your personal data (Rectification); request that we delete your personal data in situations where this is possible (Cancellation); oppose the processing of your personal data for voluntary purposes or under other legitimate grounds (Opposition) (“ARCO Rights”). Likewise, you may limit the use and disclosure of your personal data or revoke the consent you have provided us for the processing of your personal data without retroactive effects.
@@ -478,8 +505,6 @@ The individual concerned can exercise these rights by contacting Enphase via the
 Products and services
 
 [Community Terms & Conditions](https://enphase.com/legal/community-terms-conditions)
-
-[Installer Network Terms & Conditions](https://enphase.com/legal/installer-network-terms-conditions)
 
 [Labor Protection Program](https://enphase.com/legal/labor-protection-program)
 
@@ -580,6 +605,8 @@ Solargraf Terms of Use
 [Philippines](https://enphase.com/legal/solargraf-terms-philippines)
 
 Enphase Installer Network Terms and Conditions
+
+[United States](https://enphase.com/legal/united-states)
 
 [Spain](https://enphase.com/legal/installer-network-terms-conditions-spain)
 
