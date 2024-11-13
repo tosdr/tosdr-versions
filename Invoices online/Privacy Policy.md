@@ -117,57 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Henry Venter
+Johan Botha - Brand Xplosion
 
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=157335628)  
-Blue Bulls Rugby Coaches Association
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=158703162)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=176154468)  
-Westside Car Audio CC
+![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=96170831)  
+Lindani Protection Services & Projects
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=74481960)  
-Nilbet T/A Waterman
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=155327992)  
+Oukraal Merino's
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=205649923)  
-CBR Verwe/Paints
-
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=153144605)  
-APTV Telecoms CC
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=115353604)  
-Three Moons Emporium
-
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=194139285)  
-Leef in Afrikaans
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=117210775)  
-Baby Toddles Infant Care
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=107055831)  
-BD Maintenance
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=142264546)  
-Fox Alarms & Security CC
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=109738820)  
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=46564450)  
 Safe-Train Consulting (PTY) Ltd
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=20030826)  
-Mtunzini Group
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=187975675)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=170478074)  
-FJW Security Cc
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=48629529)  
+NIMAWELL
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=129500388)  
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=213625409)  
 Kainos (Pty) Ltd
 
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=118465694)  
-NEW BEGINNINGS DESIGNS
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=201198747)  
+United Paintball Federation
+
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=78299394)  
+Little Nutty Professors
+
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=199393507)  
+FX ACCOUNTING
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=202162951)  
+J.M. HUMAN RESOURCES
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=193250607)  
+Wiselink Broadband Vryheid
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=142561471)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=158389714)  
+Cpower Projects t/a Pro Pure Water
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=6bbc2eb5a2a8dd05724895f5c31b2e0e58d0a3c9aaa03ecc41c25b655c128fbc&c=171406791)  
+IYD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
