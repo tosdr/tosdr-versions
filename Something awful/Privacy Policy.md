@@ -205,11 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Thinking with Portals](https://www.somethingawful.com/photoshop-phriday/thinking-with-portals/1/)
-* [Comic SWAT](https://www.somethingawful.com/fashion-swat/comic-swat/1/)
-* [The Content Creator's Oath](https://www.somethingawful.com/news/content-creators-oath/1/)
-* [\[SPOILER\] L@@K! Secret Ending - Bioshock: Infinite Pacifist 1999 Mode!!!](https://www.somethingawful.com/everdraed-showcase/bioshock-infinite-ending/)
+* [Never Played a Video Game? Here's Everything You Need to Know](https://www.somethingawful.com/video-game-article/how-video-game/)
+* [You fudge with me, you fudge with the best!](https://www.somethingawful.com/awfulvision/wrestling-furries-scarface/1/)
+* [Pet Disasters!](https://www.somethingawful.com/photoshop-phriday/pet-disasters-byob/1/)
+* [Flames from the Truth Media BioShock Review](https://www.somethingawful.com/truth-media-reviews/bioshock-flames/1/)
+* [MiSTer FPGA - Tinker, Tailor, Solder, Sprite](https://www.somethingawful.com/video-game-article/mister-fpga-core/)
 
 ### Popular Threads
 
@@ -218,11 +218,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [Seth MacFarlane: A Truth Media Celebrity Report](https://www.somethingawful.com/news/seth-macfarlane-truth/1/)
-* [On the Importance of Grappling Hooks and Jetpacks](https://www.somethingawful.com/news/on-importance-grappling/)
-* [Breaking News Agency](https://www.somethingawful.com/awful-links/awful-link-4162/)
-* [Tornados Hate Our Freedom](https://www.somethingawful.com/news/tornados-hate-freedom/)
-* [Spells and Magic (Thanks, Ethel Alcohol!)](https://www.somethingawful.com/awful-links/spells-magic-puzuzu/)
+* [The Best Jeopardy Stories](https://www.somethingawful.com/news/jeopardy-trebek-stories/)
+* [Chicken Sunday](https://www.somethingawful.com/news/chicken-sunday/1/)
+* [5 Essential Tips for Mass Transit Travel](https://www.somethingawful.com/news/train-riding-tips/)
+* [Knight Online World](https://www.somethingawful.com/mmo-roulette/knightonlineworld/1/)
+* [Initiations Makes Me Hazy](https://www.somethingawful.com/news/initiations-makes-me/)
 
 [Random!](https://www.somethingawful.com/random/)
 
