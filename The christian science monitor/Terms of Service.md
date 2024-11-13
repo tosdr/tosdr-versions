@@ -118,16 +118,6 @@ We hear a lot about the world’s direction-setters, and about those around them
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
-Featured Coverage
-
-[Here’s what Monitor reporters are watching.
-
-Read now
-
-![](//images.csmonitor.com/csm/2024/11/1183811_1_1105-election-illo-with-text_square.png?alias=square_200x200)
-
-### Election 2024 coverage](https://www.csmonitor.com/election2024?icid=topics-tab)
-
 News
 
 [Election 2024](https://www.csmonitor.com/USA/Topics/Election-2024) [Economy](https://www.csmonitor.com/Business) [Education](https://www.csmonitor.com/USA/Education) [Environment](https://www.csmonitor.com/Environment) [Foreign Policy](https://www.csmonitor.com/USA/Foreign-Policy) [Law & Courts](https://www.csmonitor.com/USA/Justice) [Olympics](https://www.csmonitor.com/World/Olympics) [Politics](https://www.csmonitor.com/USA/Politics) [Science](https://www.csmonitor.com/Science) [Security](https://www.csmonitor.com/USA/Military) [Society](https://www.csmonitor.com/USA/Society)
@@ -149,6 +139,14 @@ More
 [News Briefs](https://www.csmonitor.com/News-Briefs) [Points of Progress](https://www.csmonitor.com/World/Points-of-Progress) [People Making a Difference](https://www.csmonitor.com/World/Making-a-difference) [The World in Pictures](https://www.csmonitor.com/World/Topics/The-World-in-Pictures) [Podcasts](https://www.csmonitor.com/Podcasts) [Monitor Breakfast](https://www.csmonitor.com/USA/Politics/monitor_breakfast)
 
 * * *
+
+Featured podcast
+
+[Discover the values that drive the story.
+
+![](//images.csmonitor.com/csm/2022/09/1145231_1_why-we-wrote-this-album-cover-1400_square.png?alias=square_200x200)
+
+### Why We Wrote This](https://www.csmonitor.com/podcasts/why-we-wrote-this?icid=values-tab)
 
 Regions
 
