@@ -48,6 +48,7 @@ Log In
     
     * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
     * [Election 2024](https://www.ajc.com/politics/election/)
+    * [Trump Transition](https://www.ajc.com/politics/trump-transition/)
     * [Legislature](https://www.ajc.com/politics/georgia-state-legislature/)
     * [The Trump Investigations](https://www.ajc.com/news/trump-grand-jury-georgia/)
     * [Legislative Navigator](https://www.ajc.com/politics/georgia-legislative-navigator/)
