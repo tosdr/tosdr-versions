@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-pays-neutres-en-carbone-demandent-a-etre-reconnus-a-la-tribune-de-la-cop29-28691069.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/une-nouvelle-base-de-negociations-sur-la-finance-climatique-publiee-mercredi-28693437.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-pays-neutres-en-carbone-demandent-a-etre-reconnus-a-la-tribune-de-la-cop29-28691069.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/une-nouvelle-base-de-negociations-sur-la-finance-climatique-publiee-mercredi-28693437.html)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-pays-neutres-en-carbone-demandent-a-etre-reconnus-a-la-tribune-de-la-cop29-28691069.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/une-nouvelle-base-de-negociations-sur-la-finance-climatique-publiee-mercredi-28693437.html)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-pays-neutres-en-carbone-demandent-a-etre-reconnus-a-la-tribune-de-la-cop29-28691069.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/une-nouvelle-base-de-negociations-sur-la-finance-climatique-publiee-mercredi-28693437.html)
 
 #### S'informer
 
