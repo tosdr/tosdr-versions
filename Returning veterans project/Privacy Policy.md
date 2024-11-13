@@ -185,11 +185,14 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Lane Wickham Barton Jr.](https://cdn.returningveterans.org/images/honor/Battle_of_the_Bulge.jpg)  
+![Randy, Shawn, Kyle and Jacob Hester](https://cdn.returningveterans.org/images/honor/Jacob_Hester.JPG)  
 
-**In Memory of Lane Wickham Barton Jr.**  
+**In Honor of Randy, Shawn, Kyle and Jacob Hester**  
+United States Air Force  
 United States Army  
-Submitted by Sarah Smith](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+United States Navy  
+United States Marine Corps  
+Submitted by Michael Hester](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -232,5 +235,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/13/24 - 1:13:37  
+Printed 11/13/24 - 7:23:36  
 © 2024 Returning Veterans Project
