@@ -59,6 +59,7 @@
 Terms of Use
 ============
 
+* [Home](https://tcog.com/)
 * [Terms of Use](https://tcog.com/terms-of-use/)
 
 **The Terms of Use stated below (the “Terms”) govern your use of [www.texoma.cog.tx.us](https://www.tcog.com/wordpress/ "Texoma Council of Governments Website") (the “Site”) and are legally binding on you. If you do not agree with any of these terms, do not access or otherwise use this site or any information contained on the site. Your use of this site will be deemed to be your agreement to abide by each of the terms stated below. Texoma Council of Governments (“TCOG”) reserves the right to revise these terms at any time and we will notify you of these revisions by posting an updated version of these terms on the site. You are responsible for regularly reviewing these terms. Your continued use of the site will constitute your consent to these changes.**
@@ -142,12 +143,6 @@ Sherman, TX 75090
 Upcoming Events
 ---------------
 
-Nov 12
-
-12:30 pm - 2:00 pm
-
-### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs-2/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
-
 Nov 14
 
 10:00 am - 11:30 pm
@@ -179,6 +174,12 @@ Nov 21
 ### [Governing Board Meeting](https://tcog.com/event/governing-board-meeting/2024-11-21/ "Governing Board Meeting")
 
 Sherman
+
+Dec 3
+
+12:30 pm - 2:00 pm
+
+### [Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs](https://tcog.com/event/webinar-training-on-new-annual-reporting-requirements-for-generators-and-lrputs-3/ "Webinar: Training on New Annual Reporting Requirements for Generators and LRPUTs")
 
 [View Calendar](https://tcog.com/calendar/ "View more events.")
 
