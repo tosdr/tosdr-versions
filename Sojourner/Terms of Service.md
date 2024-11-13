@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-063a8d62206f65850dbfca0c762653dc
+8e0700ac132386c563d6b9042536d636
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![8 mm flat-back, two-hole peacock button pearls](https://sojourner.biz/images/cache/pearls/PE0095.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-flat-back-two-hole-peacock-button-pearls.html "8 mm flat-back, two-hole peacock button pearls")
+[![Onyx box clasp](https://sojourner.biz/images/cache/SKU0005variations.200.jpg)](https://sojourner.biz/clasps/semi-precious/onyx-box-clasp.html "Onyx box clasp")
 
-#### [8 mm flat-back, two-hole peacock button pearls](https://sojourner.biz/beads/pearls/8-mm-flat-back-two-hole-peacock-button-pearls.html "8 mm flat-back, two-hole peacock button pearls")
+#### [Onyx box clasp](https://sojourner.biz/clasps/semi-precious/onyx-box-clasp.html "Onyx box clasp")
 
-$20.00
+$23.50
 
 ### Best Sellers
 
