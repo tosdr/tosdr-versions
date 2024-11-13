@@ -27,7 +27,7 @@ Sign in Join
     * [Buy Gift Card](https://means.tv/gift_cards/new)
     * [Redeem Gift Card](https://means.tv/gift_card_redemptions/new)
 
-[Get the app ->](https://means.tv/about/apps) [Contact](https://means.tv/pages/contact) ∙ [Privacy](https://means.tv/pages/privacy-policy) ∙ [T&C](https://means.tv/pages/terms-conditions) ∙ [Help Center](https://means.tv/pages/user-guide) ∙ [Newsletter](https://actionnetwork.org/forms/join-the-meansmedia-newsletter-email-list) ∙ [Buy Gift Card](https://means.tv/gift_cards/new) ∙ [Redeem Gift Card](https://means.tv/gift_card_redemptions/new) ∙
+[Get the app ->](https://means.tv/about/apps) [Sign Up](https://means.tv/join) ∙ [Log In](https://means.tv/sign_in) ∙ [Contact](https://means.tv/pages/contact) ∙ [Privacy](https://means.tv/pages/privacy-policy) ∙ [T&C](https://means.tv/pages/terms-conditions) ∙ [Help Center](https://means.tv/pages/user-guide) ∙ [Newsletter](https://actionnetwork.org/forms/join-the-meansmedia-newsletter-email-list) ∙ [Buy Gift Card](https://means.tv/gift_cards/new) ∙ [Redeem Gift Card](https://means.tv/gift_card_redemptions/new) ∙
 
 Terms & Conditions
 
@@ -187,6 +187,14 @@ The effective date of these Terms is March 21, 2019.
 ![](https://www.facebook.com/tr?id=884284368759643&ev=PageView&noscript=1)
 
 © 2024 Means TV ∙
+
+[Sign Up](https://means.tv/join)
+
+∙
+
+[Log In](https://means.tv/sign_in)
+
+∙
 
 [Contact](https://means.tv/pages/contact)
 
