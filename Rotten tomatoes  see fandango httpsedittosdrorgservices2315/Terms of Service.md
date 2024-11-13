@@ -18,6 +18,8 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **It's Apple Pay Wednesday** Today only! Save $5 on your order with Apple Pay
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
 *  ![offer icon](https://images.fandango.com/cms/assets/41c35d30-ccb6-11ed-81d8-51a487a38835--gifticon78x78.png) **Gladiator II Prop Auction** Take a piece of history home!
@@ -25,7 +27,6 @@ Go to previous offer
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy select titles on Fandango at Home** Get $5 off Gladiator II on Fandango!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **SPECIAL EARLY SCREENING** See Wicked in theaters early as a Prime Member
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Seize the We Are Venom Bundle** Get 2 tickets to Venom: The Last Dance & more!
-*  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Wicked Exclusive Collector's Pin Pack** Purchase a ticket to see Wicked in IMAX and get
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Save 25% off on all Andrea Bocelli products** When you buy a ticket to Andrea Bocelli 30: The
 *  [![offer icon](https://images.fandango.com/cms/assets/64a40e40-5e81-11ef-a07e-5b03d6159fe4--rt-icon.svg) **New Audience Score Badge Unveiled: Verified Hot** Check out the first Verified Hot movies!](https://editorial.rottentomatoes.com/article/verified-hot-celebrating-the-best-verified-rated-films-by-fans/?cmp=TARS~FANDANGO~Verified%20Hot_GlobalNav)
 
@@ -61,21 +62,21 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
-* [SPECIAL EARLY SCREENING image link ![SPECIAL EARLY SCREENING](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/c7c8cc70-9335-11ef-8321-2b978811c524--fan-offerunit-wicked-292x118.png)](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer) 
+* [Wicked Exclusive Collector's Pin Pack image link ![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/36b2d7c0-82b0-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wickedimax-292x118.png)](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer) 
     
-    ### SPECIAL EARLY SCREENING
+    ### Wicked Exclusive Collector's Pin Pack
     
-    See Wicked in theaters early as a Prime Member Exclusive
+    Purchase a ticket to see Wicked in IMAX and get a Shiz University and IMAX pin! While supplies last.
     
-    [BUY NOW](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_Footer)
     
-* [Gladiator II Prop Auction image link ![Gladiator II Prop Auction](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/9f6f3b60-9899-11ef-8321-2b978811c524--fan-globalofferunit-homepage-gladiator2auction-292x118-v5.png)](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer) 
+* [Popular Poster Pack image link ![Popular Poster Pack](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/a73aa8c0-8dae-11ef-ab6e-6bc4e16d49df--fan-globalofferunit-homepage-wicked-292x118.png)](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer) 
     
-    ### Gladiator II Prop Auction
+    ### Popular Poster Pack
     
-    Take a piece of history home with official props straight from the movie set!
+    Get 2 movie tickets to Wicked, a limited edition poster, and more!
     
-    [LEARN MORE](https://www.fandango.com/fanstoreauction-gladiator2?cmp=TARS~FANDANGO~Gladiator2PropAuction_Footer)
+    [BUY NOW](https://www.fandangomovietickets.com/wickedbundle?cmp=TARS~FANDANGO~PopularPosterPack_Footer)
     
 * [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
     
@@ -85,13 +86,13 @@ Offers
     
     [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
-* [Save on select movies image link ![Save on select movies](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/0bac6670-9e1e-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2gwp-292x118.jpg)](https://www.watchfandangoathome.com/Gladiator2?cmp=TARS~FANDANGO~RewardsGladiator2Promo_Footer) 
+* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
     
-    ### Save on select movies
+    ### Introducing Fandango FanClub!
     
-    And get up to $5.00 towards a movie ticket\* to see Gladiator II in theaters
+    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
     
-    [LEARN MORE](https://www.watchfandangoathome.com/Gladiator2?cmp=TARS~FANDANGO~RewardsGladiator2Promo_Footer)
+    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
     
 
 New & Coming soon
@@ -190,6 +191,26 @@ New & Coming soon
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
 
+### Special Offer
+
+Close
+
+![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/cms/assets/2a60c6f0-82bd-11ef-8321-2b978811c524--fan-globalnavbar-wickedimax-343x362.jpg)
+
+#### Purchase a ticket to Wicked in IMAX and get a Wicked Collector's Pin Pack! While supplies lasts. See terms for details.
+
+Limited time offer. While supplies last. Log into your account on Fandango.com or the Fandango app and purchase at least one (1) IMAX movie ticket to ‘Wicked’ between 9:00am PT on 10/09/24 and 11:59pm PT on 12/31/24. Purchaser will receive a post purchase email containing one (1) Promotional Code (“Code”) that is good for the redemption of the Wicked Collector’s Pin Pack. Pin Pack will ship in November. There is a limited quantity of Codes available in this promotion. Codes will stop being distributed on the earlier of (i) the Code distribution limit being reached, (ii) Wicked no longer being in IMAX theaters, or (iii) 11:59pm PT on 12/31/24. There is a limited quantity of Code redemptions available in this promotion. Code expires, and can no longer be used, when the limit of Code redemptions has been reached, or at 11:59pm PT on 1/31/25, whichever comes first. Limit one Code per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_promomodule)
+
+### Special Offer
+
+Close
+
+![It's Apple Pay Wednesday](https://images.fandango.com/cms/assets/8f23aa00-9e31-11ef-ab6e-6bc4e16d49df--fan-globalnavbar-applepay-tickets-343x362.png)
+
+#### Today only! Save $5 on your order with Apple Pay
+
+Limited time offer, and limited quantities available. To redeem the offer, purchase one or more movie tickets on Wednesday 11/13/2024, to see any film through Fandango.com or the Fandango iOS mobile app and use Apple Pay®️ as the payment method, and enter the Fandango Promotional CodeAPPLEPAYWED (“Code”) in order to get the $5 off the entire purchase. There is a limited quantity of Code redemptions allowed in this promotion and therefore the offer is only available first come first served while supplies last. Code expires, and can no longer be used, upon earlier of Wednesday 11/13/2024, or after the limit of Code redemptions have been reached. Only valid for purchase of movie tickets made at Fandango.com or via the Fandango iOS app and cannot be redeemed directly at any theater box office. If lost or stolen, cannot be replaced. No cash value, except as required by law. Void where prohibited. Not valid with any other offer. Offer valid in U.S. One-time use only per email address, for a maximum of one transaction, receiving a maximum of one $5 discount on the purchase total regardless of how many tickets were purchased in that one transaction. Not for resale; void if sold or exchanged. Limit 1 Code per email address. Fandango reserves the right to modify or cancel this offer at any time and without notice. The redemption of the Code is subject to Fandango’s Terms and Policies at www.fandango.com/terms-and-policies. Apple Pay is a service provided by Apple Payments Services LLC, a subsidiary of Apple Inc. Neither Apple Inc. nor Apple Payments Services LLC is a bank. Any card used in Apple Pay is offered by the card issuer. Apple Pay is a registered mark of Apple Inc. [GET TICKETS](https://www.fandango.com/policies/www.fandango.com/redirect.aspx?source=mlp&promo=applepaywed&cmp=TARS~FANDANGO~Fandango_globalnav~applepaywednesday~TLP)
+
 ### SPECIAL OFFER
 
 Close
@@ -259,16 +280,6 @@ Close
 #### Get two tickets to Venom: The Last Dance, an exclusive Venom Collector's Cup, and more for $99.80!
 
 We Are Venom bundle is non-refundable. While supplies last. Movie tickets are non-refundable and non-exchangeable. You must be 18 years of age or older to purchase a bundle. You must have, and be logged into, a Fandango at Home account to buy your bundle and receive Venom: The Last Dance (pre-order so that you can view it when the studio makes it available), Venom, and Venom: Let There Be Carnage on Fandango at Home. The collectible cup and exclusive poster will begin shipping in the month of November. Please use a physical address where the collectible cup and exclusive poster shipment can be delivered. Once carrier confirms delivery, Fandango is not responsible for lost or stolen deliveries. See Offer Terms (https://www.watchfandangoathome.com/wearevenombundle/) for full terms and conditions for each item included in the We Are Venom bundle. [BUY NOW](https://www.fandangomovietickets.com/wearevenombundle?cmp=TARS~FANDANGO~VenomBundle_GlobalNav)
-
-### Special Offer
-
-Close
-
-![Wicked Exclusive Collector's Pin Pack](https://images.fandango.com/cms/assets/2a60c6f0-82bd-11ef-8321-2b978811c524--fan-globalnavbar-wickedimax-343x362.jpg)
-
-#### Purchase a ticket to Wicked in IMAX and get a Wicked Collector's Pin Pack! While supplies lasts. See terms for details.
-
-Limited time offer. While supplies last. Log into your account on Fandango.com or the Fandango app and purchase at least one (1) IMAX movie ticket to ‘Wicked’ between 9:00am PT on 10/09/24 and 11:59pm PT on 12/31/24. Purchaser will receive a post purchase email containing one (1) Promotional Code (“Code”) that is good for the redemption of the Wicked Collector’s Pin Pack. Pin Pack will ship in November. There is a limited quantity of Codes available in this promotion. Codes will stop being distributed on the earlier of (i) the Code distribution limit being reached, (ii) Wicked no longer being in IMAX theaters, or (iii) 11:59pm PT on 12/31/24. There is a limited quantity of Code redemptions available in this promotion. Code expires, and can no longer be used, when the limit of Code redemptions has been reached, or at 11:59pm PT on 1/31/25, whichever comes first. Limit one Code per transaction. You may have to pay taxes additionally. One-time use only. Void where prohibited. Offer is non-transferable and cannot be combined with any other offer or discount. If lost or stolen, cannot be replaced. No cash value, except as required by law. Not for resale; void if sold or exchanged. Offer valid in the U.S. only. You must have, and be logged into, your Fandango account to receive a Code. Fandango is free to join; you must be 18 years of age or older to create a Fandango account. Fandango reserves the right to modify or cancel this offer at any time and without notice. This offer is subject to Fandango Terms and Policies and Privacy Policy at Terms and Policies at http://www.fandango.com/terms-and-policies. [Buy Tickets](https://www.fandangomovietickets.com/wickedimaxpins?cmp=TARS~FANDANGO~WickedIMAXGWP_promomodule)
 
 ### Special Offer
 
