@@ -339,8 +339,6 @@ We do not accept any responsibility or liability for the privacy practices of su
 
 12.2 In accordance with data protection law, we designated a representative in the European Union, namely MuseScore BVBA, Kortrijksesteenweg 1126 9051 Gent, Belgium.
 
-![](//mc.yandex.ru/watch/18746557)
-
 * [About](https://www.ultimate-guitar.com/about/)
 * [Site rules](https://www.ultimate-guitar.com/article/blog/site-rules/)
 * [Terms](https://www.ultimate-guitar.com/about/tos.htm)
