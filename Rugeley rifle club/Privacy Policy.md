@@ -211,10 +211,6 @@ If you have any questions about this Privacy Policy, please contact us by email:
 * [HO Firearms Security Handbook](https://www.gov.uk/government/publications/firearms-security-handbook)
 * [Members](https://www.rugeleyrifleclub.org.uk/members)
 
-[![National Smallbore Rifle Association Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![National Smallbore Rifle Association Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2020/06/nsra.png)](https://www.nsra.co.uk/)  
-  
 [![NSRA Performance Club Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![NSRA Performance Club Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2024/10/NSRA-Performance-Club-Sign.png)](https://www.nsra.co.uk/)  
