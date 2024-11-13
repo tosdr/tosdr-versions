@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
+* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
     
-* [How to backup to Amazon S3](https://www.backup4all.com/backup-your-data-to-amazon-s3-kb.html)  
+* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
     
-* [How to find the logs in Backup4all](https://www.backup4all.com/how-to-find-the-logs-in-backup4all-kb.html)  
+* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
     
-* [How to start your free Backup4all trial](https://www.backup4all.com/how-to-start-your-free-backup4all-trial-kb.html)  
+* [Backup from network](https://www.backup4all.com/backup-from-network-kb.html)  
     
-* [Backup strategy: run first backup locally the ...](https://www.backup4all.com/how-to-run-the-first-large-backup-locally-then-continue-the-kb.html)  
+* [How to backup to cloud using Backup4all](https://www.backup4all.com/how-to-backup-to-cloud-using-backup4all-kb.html)  
     
 
 Choose language:
