@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
+
 [SaaS Data Protection
 
 Strategic 2025 Planning for CIOs: 5 Key Considerations](https://www.ownbackup.com/blog/strategic-2025-planning-for-cios-5-key-considerations)
@@ -139,10 +143,6 @@ Strategic 2025 Planning for CIOs: 5 Key Considerations](https://www.ownbackup.co
 [Customer Stories
 
 Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
-
-[Customer Stories
-
-Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
+
 [SaaS Data Protection
 
 Strategic 2025 Planning for CIOs: 5 Key Considerations](https://www.ownbackup.com/blog/strategic-2025-planning-for-cios-5-key-considerations)
@@ -367,10 +371,6 @@ Strategic 2025 Planning for CIOs: 5 Key Considerations](https://www.ownbackup.co
 [Customer Stories
 
 Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
-
-[Customer Stories
-
-Own Accelerate: Powering Salesforce Innovation at Huntington National Bank and PSEG](https://www.ownbackup.com/blog/own-accelerate-powering-salesforce-innovation-at-huntington-national-bank-and-pseg)
 
 Company
 
