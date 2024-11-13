@@ -155,6 +155,16 @@ to keep them secure
 
 ![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
+[![From The Election Polls to Holiday Deals: Cybercriminals are Preying on Seasonal Trends For Their Own Gain](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_fromtheelectionpollstoholidaydealscybercriminalsarepreyingonseasonaltrendsfortheirowngain1.webp?width=500&height=190&name=newsroom_fromtheelectionpollstoholidaydealscybercriminalsarepreyingonseasonaltrendsfortheirowngain1.webp)
+
+Posted on November 13, 2024 by TK Keanini
+
+ **
+
+From The Election Polls to Holiday Deals: Cybercriminals are Preying on Seasonal Trends For Their Own Gain
+
+**](https://www.dnsfilter.com/blog/seasonal-phishing-and-election-scams-2024)
+
 [![Ensuring CIPA Compliance: A Practical Guide (and checklist) for Educational Leaders](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_ciparequirementschecklistareyoucompliant%282%291.webp?width=500&height=190&name=newsroom_ciparequirementschecklistareyoucompliant%282%291.webp)
 
 Posted on November 12, 2024 by Kory Underdown
@@ -174,16 +184,6 @@ Posted on November 12, 2024 by Mikey Pruitt
 The Power of Customer Experience
 
 **](https://www.dnsfilter.com/blog/the-power-of-customer-experience)
-
-[![Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_securingguestwi_fiaretailguide1-1.webp?width=500&height=190&name=newsroom_securingguestwi_fiaretailguide1-1.webp)
-
-Posted on October 29, 2024 by Kory Underdown
-
- **
-
-Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all
-
-**](https://www.dnsfilter.com/blog/guest-wifi-solutions-retail-stores/)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
