@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Gas-Churning Monster Black Holes](https://www.sciencedaily.com/releases/2024/11/241113123542.htm)
+* [Bird Brain from Age of Dinosaurs: Intelligence](https://www.sciencedaily.com/releases/2024/11/241113123306.htm)
+* [Three Galactic 'Red Monsters' in Early Universe](https://www.sciencedaily.com/releases/2024/11/241113123127.htm)
+* [Solar-Powered Animal Cells](https://www.sciencedaily.com/releases/2024/10/241030150215.htm)
+* [Intelligent Beings in Our Universe and Beyond?](https://www.sciencedaily.com/releases/2024/11/241112190905.htm)
+* [Time Alone Heightens 'Threat Alert' in Teens](https://www.sciencedaily.com/releases/2024/11/241112190857.htm)
+* [How Can Humanity Limit Warming to 1.5°C?](https://www.sciencedaily.com/releases/2024/11/241112123259.htm)
 * [Synthetic Cells Emulate Cell Cell Communication](https://www.sciencedaily.com/releases/2024/11/241112123803.htm)
 * [Breakthrough in Photonic Time Crystals](https://www.sciencedaily.com/releases/2024/11/241112123307.htm)
 * [Fossil Fuel CO2 Emissions Increase Again in 2024](https://www.sciencedaily.com/releases/2024/11/241112191227.htm)
-* [What Is the Sun Made Of? New Data](https://www.sciencedaily.com/releases/2024/11/241112122742.htm)
-* [Earliest Ancient Maya Salt Works](https://www.sciencedaily.com/releases/2024/11/241112191056.htm)
-* [Swimming Sea Slug from the Deep Sea](https://www.sciencedaily.com/releases/2024/11/241112122719.htm)
-* [Super Microscope: Nanoscale Biological Process](https://www.sciencedaily.com/releases/2024/11/241111123408.htm)
-* [Genomic Test to Diagnose Nearly Any Infection](https://www.sciencedaily.com/releases/2024/11/241112123431.htm)
-* [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
-* [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
-
-[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Medical Education and Training](https://www.sciencedaily.com/news/health_medicine/medical_education_and_training/)
+
+[PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
-
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
