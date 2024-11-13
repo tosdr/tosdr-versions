@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/b12a511f-ea08-4fb7-b864-02739dc9488d/20241113T131657/b12a511f-ea08-4fb7-b864-02739dc9488d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b12a511f-ea08-4fb7-b864-02739dc9488d/20241113T131657/b12a511f-ea08-4fb7-b864-02739dc9488d_360x203.jpg)](https://www.king5.com/article/news/local/high-winds-washington-state-national-weather-service/281-64dab317-3600-4453-9309-ba8a93cb8e5a)
+        
+        #### [Wind speeds peak at nearly 70 mph on the peninsula overnight](https://www.king5.com/article/news/local/high-winds-washington-state-national-weather-service/281-64dab317-3600-4453-9309-ba8a93cb8e5a)
+        
     *  [![](https://media.king5.com/assets/KING/images/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840/20241113T072322/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840_16x9.jpg) ![](https://media.king5.com/assets/KING/images/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840/20241113T072322/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-weighs-options-aquasox-stadium-council-to-make-decision-december/281-aca164ed-a6db-4c3f-8f63-0b0663a4e952)
         
         #### [City of Everett weighs options for future of Aquasox baseball](https://www.king5.com/article/news/local/everett/everett-weighs-options-aquasox-stadium-council-to-make-decision-december/281-aca164ed-a6db-4c3f-8f63-0b0663a4e952)
-        
-    *  [![](https://media.king5.com/assets/KING/images/6c870a77-47fa-41b3-968a-cb4cfda213b0/20241113T070814/6c870a77-47fa-41b3-968a-cb4cfda213b0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6c870a77-47fa-41b3-968a-cb4cfda213b0/20241113T070814/6c870a77-47fa-41b3-968a-cb4cfda213b0_360x203.jpg)](https://www.king5.com/article/news/local/camp-long-fire-seattle-parks-citywide-budget-cuts/281-83e15d84-50a9-45de-ac51-68c55d80cc61)
-        
-        #### [Prior to Camp Long fire, Seattle parks were facing citywide budget cuts](https://www.king5.com/article/news/local/camp-long-fire-seattle-parks-citywide-budget-cuts/281-83e15d84-50a9-45de-ac51-68c55d80cc61)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d233a33e-a58b-41e7-bf2d-49c8d35e97ad/20241113T012630/d233a33e-a58b-41e7-bf2d-49c8d35e97ad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d233a33e-a58b-41e7-bf2d-49c8d35e97ad/20241113T012630/d233a33e-a58b-41e7-bf2d-49c8d35e97ad_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/72544b97-eb5f-46c7-bfec-6b88dc4021a3/20241113T125928/72544b97-eb5f-46c7-bfec-6b88dc4021a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/72544b97-eb5f-46c7-bfec-6b88dc4021a3/20241113T125928/72544b97-eb5f-46c7-bfec-6b88dc4021a3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+50°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
