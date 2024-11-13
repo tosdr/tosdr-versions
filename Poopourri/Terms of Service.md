@@ -176,7 +176,7 @@ Terms and Conditions
 ====================
 
 **BUILD YOUR OWN BUNDLE & FREE GIFT**  
-35% off promotion is only available for a limited time on select products when you build your own bundle of select Home~Pourri and Poo~Pourri products. A Free Gift will be included with purchases of $45 or more, while supplies last. Discount will be reflected at checkout. Cannot be combined with other offers or applied to previous purchases. ~Pourri reserves the right to end or modify promotional prices at any time. Exclusions apply. Offer subject to change. Offer valid while supplies last or until expiration of promotion on 11/12/24, 11:59 pm PST.
+35% off promotion is only available for a limited time on select products when you build your own bundle of select Home~Pourri and Poo~Pourri products. A Free Gift will be included with purchases of $45 or more, while supplies last. Discount will be reflected at checkout. Cannot be combined with other offers or applied to previous purchases. ~Pourri reserves the right to end or modify promotional prices at any time. Exclusions apply. Offer subject to change. Offer valid while supplies last or until expiration of promotion on 11/13/24, 11:59 pm PST.
 
 **FREE STANDARD SHIPPING**
 
