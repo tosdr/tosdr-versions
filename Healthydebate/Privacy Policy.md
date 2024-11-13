@@ -36,7 +36,7 @@ Most popular today
 * [End of Life](https://healthydebate.ca/topic/end-of-life/) (127)
 * [In Memoriam](https://healthydebate.ca/topic/in-memoriam/) (5)
 * [MAiD](https://healthydebate.ca/topic/maid/) (32)
-* [Environment](https://healthydebate.ca/topic/environment/) (65)
+* [Environment](https://healthydebate.ca/topic/environment/) (66)
 * [Climate Change](https://healthydebate.ca/topic/climate-change/) (33)
 
 * [About](https://healthydebate.ca/about/)
