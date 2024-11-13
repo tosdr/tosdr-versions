@@ -128,39 +128,39 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+* [![The Hasidic Drug Dealer](/wp-content/thumbnails/16688-100x70.jpg?x53432)
     
-    Louis Theroux: Drinking To Oblivion
+    The Hasidic Drug Dealer
     
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
+    Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
 
 ###### Throwback Documentaries
 
-* [![Secrets of the Vatican](/wp-content/thumbnails/13441-100x70.jpg?x53432)
+* [![Derek Tastes of Ear Wax](/wp-content/thumbnails/226-100x70.png?x53432)
     
-    Secrets of the Vatican
+    Derek Tastes of Ear Wax
     
-    On 28 February 2013, Pope Benedict XVI shocked the world by being the first pope to resign in 600 years. When the helicopter took him away he was leaving behind a bitterly divided Vatican and this FRO](https://documentaryheaven.com/secrets-of-vatican/ "Secrets of the Vatican")
-* [![Killer Asteroids](/wp-content/thumbnails/1957-100x70.jpg?x53432)
+    This documentary looks at the fact that perhaps one in every hundred people experiences a blending of the senses.Imagine if every time you saw someone called Derek you got a strong taste of earwax](https://documentaryheaven.com/derek-tastes-of-ear-wax/ "Derek Tastes of Ear Wax")
+* [![Slavery in the Chocolate Industry](/wp-content/thumbnails/6740-100x70.png?x53432)
     
-    Killer Asteroids
+    Slavery in the Chocolate Industry
     
-    In the far corner of our solar system, orbiting quietly, lurks one of the biggest threats to the survival of the human species. Somewhere out there, there’s an asteroid with our name on it. The Earth](https://documentaryheaven.com/killer-asteroids/ "Killer Asteroids")
-* [![Still Berning](/wp-content/thumbnails/12747-100x70.jpg?x53432)
+    Although slavery is no longer legal there are still millions of people living in slavery today. One place and industry where slaves still exist is the cocoa industry. This documentary takes a deeper l](https://documentaryheaven.com/slavery-in-the-chocolate-industry/ "Slavery in the Chocolate Industry")
+* [![Death Grip: Inside Pro Wrestling](/wp-content/thumbnails/8280-100x70.png?x53432)
     
-    Still Berning
+    Death Grip: Inside Pro Wrestling
     
-    As we are all now aware, Bernie Sanders lost the primaries to Hillary Clinton as the US presidential candidate for the Democratic Party. But it was a loss which ironically marked the beginning rather](https://documentaryheaven.com/still-berning/ "Still Berning")
-* [![American Nomads](/wp-content/thumbnails/13837-100x70.jpg?x53432)
+    The dark side, beyond the wrestling ring. A shocking murder suicide, pro wrestlers dying young and allegations of drug abuse. In the fall of 2005 following the year he wore the championship belt, prof](https://documentaryheaven.com/death-grip-inside-pro-wrestling/ "Death Grip: Inside Pro Wrestling")
+* [![CRACKHOUSE](/wp-content/thumbnails/8625-100x70.jpg?x53432)
     
-    American Nomads
+    CRACKHOUSE
     
-    Wanderlust, restlessness, the urge to get out onto the road and ride off into the sunset it is something which is deep and elemental in the American spirit. This is a journey in search of America](https://documentaryheaven.com/american-nomads/ "American Nomads")
-* [![Nas’ Story](/wp-content/thumbnails/3925-100x70.jpg?x53432)
+    CRACKHOUSE is a "Real Life" documentary by the BBC where ex-crack cocaine user Carl John or 'CJ' revisits his home town in Liverpool to get back in touch with some old friends who are all now addicted](https://documentaryheaven.com/crackhouse/ "CRACKHOUSE")
+* [![The Dream Team](/wp-content/thumbnails/9247-100x70.jpg?x53432)
     
-    Nas’ Story
+    The Dream Team
     
-    A very good documentary about the hip-hop artist Nas, giving  good insight into his life and upbringing.](https://documentaryheaven.com/nas-story/ "Nas’ Story")
+    To celebrate the 20th anniversary of the 1992 American Olympic team, The Dream Team, which to this day is considered one of the greatest sporting teams ever assembled, NBA TV created this documentary](https://documentaryheaven.com/dream-team/ "The Dream Team")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
