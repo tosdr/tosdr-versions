@@ -12,7 +12,7 @@
     * [TESTIMONIALS](https://firstliberty.org/client-testimonies/)
     * [ENDORSEMENTS](https://firstliberty.org/about-us/endorsements/)
     * [CAREERS](https://firstliberty.org/about-us/careers/)
-    * [INTERNSHIPS & FELLOWSHIPS](https://firstliberty.org/about-us/internships/)
+    * [INTERNSHIPS & FELLOWSHIPS](https://firstliberty.org/internships/)
 * [CASES](https://firstliberty.org/cases/)
     * [KEY CASES](https://firstliberty.org/featured-cases/)
     * [CURRENT CASES](https://firstliberty.org/cases-status/active/)
