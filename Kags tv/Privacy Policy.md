@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KAGS/images/ff91cf38-3516-413f-97c6-c7ff3f9769a3/ff91cf38-3516-413f-97c6-c7ff3f9769a3_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/ff91cf38-3516-413f-97c6-c7ff3f9769a3/ff91cf38-3516-413f-97c6-c7ff3f9769a3_360x203.jpg)](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
+        
+        #### [Water wells in Navasota that tested positive for E. coli bacteria return negative test result](https://www.kagstv.com/article/news/local/navasota-e-coli-bacteria-positive-test-nov-8-2024/500-34a1c18b-3ce6-4c41-ba70-2e2f44268ae8)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/e4074ecb-0589-440a-a11e-0612593c7e86/20241112T200745/e4074ecb-0589-440a-a11e-0612593c7e86_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/e4074ecb-0589-440a-a11e-0612593c7e86/20241112T200745/e4074ecb-0589-440a-a11e-0612593c7e86_360x203.jpg)](https://www.kagstv.com/article/news/crime/arnoldo-romero-sentenced-nov-2024/500-9ce72140-9cea-42cf-9bb4-e7f77a93ee41)
         
         #### [Man sentenced for 65 years for 2020 shooting in Bryan while on parole](https://www.kagstv.com/article/news/crime/arnoldo-romero-sentenced-nov-2024/500-9ce72140-9cea-42cf-9bb4-e7f77a93ee41)
-        
-    *  [![](https://media.kagstv.com/assets/KAGS/images/b70fbc22-fcc9-450d-866a-6e2edc00ca2e/20241112T151139/b70fbc22-fcc9-450d-866a-6e2edc00ca2e_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/b70fbc22-fcc9-450d-866a-6e2edc00ca2e/20241112T151139/b70fbc22-fcc9-450d-866a-6e2edc00ca2e_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-a-m-u/tx-tribune-tamu-lgbtq-studies-minor-and-low-producing-programs-cut/499-c185406e-403b-4848-af65-ad76b5cd6cdc)
-        
-        #### [Texas A&M regents overrule faculty, cut 52 “low-producing” programs including LGBTQ+ studies minor](https://www.kagstv.com/article/news/local/texas-a-m-u/tx-tribune-tamu-lgbtq-studies-minor-and-low-producing-programs-cut/499-c185406e-403b-4848-af65-ad76b5cd6cdc)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [Pleasant Weather Continues Through the Week | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [Breezy today; 40s incoming for Thursday morning | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-57°
+62°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
