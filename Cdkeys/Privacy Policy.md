@@ -556,47 +556,29 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-12-12t171950.016.jpg)   No 1. \-62%](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam)
+1.    [![Six Days in Fallujah PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-20t101856.525.jpg)   No 1. \-53%](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam)
     
-    **[Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC](https://www.cdkeys.com/pc/homeworld-3-fleet-command-edition-pc-steam "Homeworld 3 - Fleet Command Edition + Pre - Order Bonus PC")**
+    **[Six Days in Fallujah PC](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam "Six Days in Fallujah PC")**
     
-    Special Price $36.39 RRP $96.19
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![Ravenswatch PC](https://cdn.cdkeys.com/245x340/media/catalog/product/a/c/acacacac.jpg)   No 2. \-69%](https://www.cdkeys.com/pc/ravenswatch-pc-steam)
-    
-    **[Ravenswatch PC](https://www.cdkeys.com/pc/ravenswatch-pc-steam "Ravenswatch PC")**
-    
-    Special Price $14.29 RRP $45.49
+    Special Price $20.09 RRP $42.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![SKULL AND BONES PC (WW)](https://cdn.cdkeys.com/245x340/media/catalog/product/f/s/fsvsdv.jpg)   No 3. \-63%](https://www.cdkeys.com/pc/skull-and-bones-pc-ww-uplay)
+2.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 2. \-30%
     
-    **[SKULL AND BONES PC (WW)](https://www.cdkeys.com/pc/skull-and-bones-pc-ww-uplay "SKULL AND BONES PC (WW)")**
+    DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
     
-    Special Price $23.99 RRP $64.99
+    **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Dark Souls Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/a/dark-souls-remastered-pc-buy-cheap-cdkeys_4_.jpg)   No 4. \-65%](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key)
-    
-    **[Dark Souls Remastered PC](https://www.cdkeys.com/pc/dark-souls-remastered-pc-steam-cd-key "Dark Souls Remastered PC")**
-    
-    Special Price $15.99 RRP $45.49
+    Special Price $29.89 RRP $42.89
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Sea Power: Naval Combat in the Missile Age PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/e/sea_power_naval_combat_in_the_missile_age.png)   No 5. \-38%](https://www.cdkeys.com/pc/sea-power-naval-combat-in-the-missile-age-pc-steam)
+3.    [![Sea Power: Naval Combat in the Missile Age PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/e/sea_power_naval_combat_in_the_missile_age.png)   No 3. \-38%](https://www.cdkeys.com/pc/sea-power-naval-combat-in-the-missile-age-pc-steam)
     
     **[Sea Power: Naval Combat in the Missile Age PC](https://www.cdkeys.com/pc/sea-power-naval-combat-in-the-missile-age-pc-steam "Sea Power: Naval Combat in the Missile Age PC")**
     
@@ -606,21 +588,43 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-6.    [![Farming Simulator 25 - Year 1 Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25_-_year_1_edition.jpg)   No 6. \-34%](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam)
+4.    [![DRAGON QUEST III HD-2D Remake PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/r/dragon_quest_iii_hd-2d_remake.png)   No 4. \-21%
     
-    **[Farming Simulator 25 - Year 1 Edition PC](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam "Farming Simulator 25 - Year 1 Edition PC")**
+    Pre-order](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam)
     
-    Special Price $58.19 RRP $88.39
+    **[DRAGON QUEST III HD-2D Remake PC](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam "DRAGON QUEST III HD-2D Remake PC")**
+    
+    Special Price $51.29 RRP $64.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 7. \-33%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
+5.    [![Farming Simulator 25 - Year 1 Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25_-_year_1_edition.jpg)   No 5. \-36%](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam)
+    
+    **[Farming Simulator 25 - Year 1 Edition PC](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam "Farming Simulator 25 - Year 1 Edition PC")**
+    
+    Special Price $56.49 RRP $88.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-33%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
     
     **[Farming Simulator 25 PC](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
     Special Price $36.39 RRP $54.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Manor Lords PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/a/manor_lords_pc.jpg)   No 7. \-57%](https://www.cdkeys.com/pc/manor-lords-pc-steam)
+    
+    **[Manor Lords PC](https://www.cdkeys.com/pc/manor-lords-pc-steam "Manor Lords PC")**
+    
+    Special Price $19.49 RRP $45.49
     
     [Add to Wish List](# "Add to Wish List")
     
