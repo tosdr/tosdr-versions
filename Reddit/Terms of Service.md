@@ -409,10 +409,10 @@ Reddit User Agreement
 
 * [Tagalog](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [Kasunduan sa User ng Reddit](https://redditinc.com/tl/policies/user-agreement?hsLang=en)
-        * [Privacy Policy](https://www.reddit.com/fil-ph/policies/privacy-policy)
+        * [Privacy Policy](https://www.reddit.com/tl-ph/policies/privacy-policy)
         * [Patakaran sa Content ng Reddit](https://redditinc.com/tl/policies/content-policy?hsLang=en)
         * [Code of Conduct ng Moderator](https://redditinc.com/tl/policies/moderator-code-of-conduct?hsLang=en)
-        * [Cookie Notice](https://www.reddit.com/fil-ph/policies/cookies)
+        * [Cookie Notice](https://www.reddit.com/tl-ph/policies/cookies)
         * [Mga Tuntunin sa Econ ng Reddit](https://redditinc.com/tl/policies/econ-terms?hsLang=en)
         * [Mga Tuntunin ng Paggamit sa Mga Preview](https://redditinc.com/tl/policies/previews-terms?hsLang=en)
         * [Mga Tuntunin Para sa Creator](https://redditinc.com/tl/policies/creator-terms?hsLang=en)
