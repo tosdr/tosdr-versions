@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b12a511f-ea08-4fb7-b864-02739dc9488d/20241113T131657/b12a511f-ea08-4fb7-b864-02739dc9488d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b12a511f-ea08-4fb7-b864-02739dc9488d/20241113T131657/b12a511f-ea08-4fb7-b864-02739dc9488d_360x203.jpg)](https://www.king5.com/article/news/local/high-winds-washington-state-national-weather-service/281-64dab317-3600-4453-9309-ba8a93cb8e5a)
+    *  [![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_360x203.jpg)](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
         
-        #### [Wind speeds peak at nearly 70 mph on the peninsula overnight](https://www.king5.com/article/news/local/high-winds-washington-state-national-weather-service/281-64dab317-3600-4453-9309-ba8a93cb8e5a)
+        #### [Car thefts down 30% in Washington state in 2024, officials say](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a) [![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_360x203.jpg)](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
         
-    *  [![](https://media.king5.com/assets/KING/images/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840/20241113T072322/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840_16x9.jpg) ![](https://media.king5.com/assets/KING/images/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840/20241113T072322/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-weighs-options-aquasox-stadium-council-to-make-decision-december/281-aca164ed-a6db-4c3f-8f63-0b0663a4e952)
+        #### [Washington state sees 30% drop in car thefts so far this year, data shows](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
+    *  [![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_16x9.jpg) ![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoff-notices-delivered-wednesday-this-week/281-8570a0d7-608c-4262-98f4-5278918da655)
         
-        #### [City of Everett weighs options for future of Aquasox baseball](https://www.king5.com/article/news/local/everett/everett-weighs-options-aquasox-stadium-council-to-make-decision-december/281-aca164ed-a6db-4c3f-8f63-0b0663a4e952)
+        #### [Employees will start receiving Boeing layoff notices Wednesday](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoff-notices-delivered-wednesday-this-week/281-8570a0d7-608c-4262-98f4-5278918da655)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +61,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_360x203.jpg)](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
+    *  [![](https://media.king5.com/assets/KING/images/e31b760e-5d3c-4123-8b8e-22a8ea36014e/e31b760e-5d3c-4123-8b8e-22a8ea36014e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e31b760e-5d3c-4123-8b8e-22a8ea36014e/e31b760e-5d3c-4123-8b8e-22a8ea36014e_360x203.jpg)](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
-        #### [High Wind Warning issued for coast, areas north of Snohomish County](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
+        #### [Winter Storm Warning issued for the North Cascades](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+53°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
