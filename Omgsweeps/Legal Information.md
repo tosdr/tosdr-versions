@@ -25,6 +25,7 @@ Select Page
 * [Privacy Policy](https://omgsweeps.com/privacy-policy/)
 * [Privacy Notice](https://omgsweeps.com/privacy-notice-2/)
 * [Terms and Conditions](https://omgsweeps.com/terms-conditions/)
+* [Official Contest Rules](https://omgsweeps.com/rules/)
 * [How It Works](https://omgsweeps.com/how-it-works/)
 * [Accessibility Notice](https://omgsweeps.com/accessibility-notice/)
 * [Unsubscribe](https://reg.omgsweeps.com/unsub.aspx)
