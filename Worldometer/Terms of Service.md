@@ -40,10 +40,6 @@ By using this website you agree to [our Privacy Policy](https://www.worldometers
 
 [about](https://www.worldometers.info/about/) | [faq](https://www.worldometers.info/faq/) | [languages](https://www.worldometers.info/languages/) | [contact](https://www.worldometers.info/contact/)
 
-* [](https://www.worldometers.info/newsletter-subscribe/ "Newsletter")
-* [](https://twitter.com/Worldometers)
-* [](https://www.facebook.com/Worldometers.info)
-
 © Copyright Worldometers.info - All rights reserved - [Disclaimer & Privacy Policy](https://www.worldometers.info/disclaimer/)
 
 ![Quantcast](//pixel.quantserve.com/pixel/p-Pd9JxUkvV0m7q.gif)
