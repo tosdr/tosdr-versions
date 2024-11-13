@@ -4,7 +4,7 @@ AI Image
 
 Spark creativity with AI
 
-[Art Generator](https://hotpot.ai/art-generator) [Art Generator - Power Editor](https://hotpot.ai/ai-editor) [AI Characters](https://hotpot.ai/ai-character) [AI Logos](https://hotpot.ai/logo-generator) [AI Stock Photos](https://hotpot.ai/ai-stock-photo) [AI Backgrounds](https://hotpot.ai/background-generator) [AI Anime](https://hotpot.ai/anime-generator)
+[Art Generator](https://hotpot.ai/art-generator) [Art Generator - Power Editor](https://hotpot.ai/ai-editor) [AI Characters](https://hotpot.ai/ai-character-generator) [AI Logos](https://hotpot.ai/logo-generator) [AI Stock Photos](https://hotpot.ai/ai-stock-photo) [AI Backgrounds](https://hotpot.ai/background-generator) [AI Anime](https://hotpot.ai/anime-generator)
 
 AI Headshot
 
@@ -22,7 +22,7 @@ AI Game
 
 Create game content with AI
 
-[AI Game Tools](https://hotpot.ai/game-tools) [AI Game Background](https://hotpot.ai/background-generator) [AI Game Copywriter](https://hotpot.ai/sparkwriter) [AI Game Logo](https://hotpot.ai/logo-generator) [AI Characters](https://hotpot.ai/ai-character) [AI DnD Generator](https://hotpot.ai/dnd-generator)
+[AI Game Tools](https://hotpot.ai/game-tools) [AI Game Characters](https://hotpot.ai/ai-character-generator) [AI Game Background](https://hotpot.ai/background-generator) [AI Game Copywriter](https://hotpot.ai/sparkwriter) [AI Game Logo](https://hotpot.ai/logo-generator) [AI DnD Generator](https://hotpot.ai/dnd-generator)
 
 AI Writing
 
@@ -214,7 +214,7 @@ AI Images
 
 Resources
 
-[AI Game Tools](https://hotpot.ai/game-tools) [AI Avatars](https://hotpot.ai/ai-avatar) [AI Profile Picture Editor](https://hotpot.ai/profile-picture-editor) [AI Character Generator](https://hotpot.ai/ai-character) [AI Background Generator](https://hotpot.ai/background-generator) [Free Game Assets](https://hotpot.ai/free-game-assets) [App Marketing Pack](https://hotpot.ai/app-marketing-pack) [NFT Generator](https://hotpot.ai/nft-generator) [Free Icons](https://hotpot.ai/free-icons) [Icon Resizer](https://hotpot.ai/icon-resizer) [AI Art Gallery](https://hotpot.ai/gallery/8/ai-art-maker) [AI Color Generator](https://hotpot.ai/color-generator) [Stable Diffusion](https://hotpot.ai/stable-diffusion) [Stable Diffusion API](https://hotpot.ai/stable-diffusion-api)
+[AI Game Tools](https://hotpot.ai/game-tools) [AI Avatars](https://hotpot.ai/ai-avatar) [AI Profile Picture Editor](https://hotpot.ai/profile-picture-editor) [AI Character Generator](https://hotpot.ai/ai-character-generator) [AI Background Generator](https://hotpot.ai/background-generator) [Free Game Assets](https://hotpot.ai/free-game-assets) [App Marketing Pack](https://hotpot.ai/app-marketing-pack) [NFT Generator](https://hotpot.ai/nft-generator) [Free Icons](https://hotpot.ai/free-icons) [Icon Resizer](https://hotpot.ai/icon-resizer) [AI Art Gallery](https://hotpot.ai/gallery/8/ai-art-maker) [AI Color Generator](https://hotpot.ai/color-generator) [Stable Diffusion](https://hotpot.ai/stable-diffusion) [Stable Diffusion API](https://hotpot.ai/stable-diffusion-api)
 
 Blog
 
