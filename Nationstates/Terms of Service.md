@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Strategic Alliance Board Room (member… (640)](https://forum.nationstates.net/viewtopic.php?t=528054&f=5&view=unread#unread ""Strategic Alliance Board Room (members & Observers only)" (640 posts)")
-* [What triggers you about the AN? (10,588)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,588 posts)")
-* [Guess Who BN Is! (6,970)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (6,970 posts)")
-* [Your response to AN's interesting fact (111)](https://forum.nationstates.net/viewtopic.php?t=555421&f=25&view=unread#unread ""Your response to AN's interesting fact" (111 posts)")
-* [\[REPORT\] Routine action requests (Mov… (9,392)](https://forum.nationstates.net/viewtopic.php?t=473656&f=16&view=unread#unread ""[REPORT] Routine action requests (Moves, Adbots, Spam, etc)" (9,392 posts)")
+* [Lothar (MT-FT, OPEN) (183)](https://forum.nationstates.net/viewtopic.php?t=554934&f=5&view=unread#unread ""Lothar (MT-FT, OPEN)" (183 posts)")
+* [Empires: 2024 REVIVED IC (328)](https://forum.nationstates.net/viewtopic.php?t=557841&f=31&view=unread#unread ""Empires: 2024 REVIVED IC" (328 posts)")
+* [Intimacy boycotts (4B movement) (136)](https://forum.nationstates.net/viewtopic.php?t=558243&f=20&view=unread#unread ""Intimacy boycotts (4B movement)" (136 posts)")
+* [How disturbing is AN? (95)](https://forum.nationstates.net/viewtopic.php?t=556696&f=25&view=unread#unread ""How disturbing is AN?" (95 posts)")
+* [Ask BN a question and edit it when th… (237)](https://forum.nationstates.net/viewtopic.php?t=556146&f=25&view=unread#unread ""Ask BN a question and edit it when they answer II" (237 posts)")
 
 Advertisement
 
