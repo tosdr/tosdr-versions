@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![debate](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/debate-web.png?width=1920&height=1085&quality=80)
+
+### Greater flexibility for community radio stations to serve local listeners
+
+13 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/greater-flexibility-for-community-radio-stations-to-serve-local-listeners/)
+
 [![radio tower](/siteassets/resources/images/-news-centre/body-images/2024/mmwave-spectrum-auction-moves-a-step-closer/hero-1336--560px-mmwave-spectrum-auction-moves-a-step-closer.png?width=1920&height=1085&quality=80)
 
 ### mmWave spectrum auction moves a step closer
@@ -151,13 +157,7 @@
 
 5 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/community-radio-fund-2024-25-open-for-applications-round-2/)
 
-[![listening to speech](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/listening-to-speech-web.png?width=1920&height=1085&quality=80)
-
-### Tamara Ingram OBE and Lord Allan of Hallam join Ofcom Board
-
-1 November 2024](https://www.ofcom.org.uk/about-ofcom/structure-and-leadership/tamara-ingram-obe-and-lord-allan-of-hallam-join-ofcom-board/)
-
- [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/ "Switch to Welsh")
+ [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/cookies-policy/?language=cy "Switch to Welsh")
 
 1. [Home](https://www.ofcom.org.uk/)
 2. [About Ofcom](https://www.ofcom.org.uk/about-ofcom/)
