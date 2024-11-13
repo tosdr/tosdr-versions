@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/overwatch-classic-launches-from-november-12-december-2/)
+    [](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
     
-    ![Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/overwatch-classic-launches-from-november-12-december-2/)
+    [](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
     
-    ![Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/wp-content/uploads/2024/11/Monster-Hunter-Outlanders.png)
+
+[Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 13, 2024/
+
+Capcom and TiMi Studio Group have announced Monster Hunter Outlanders, an ambitious new mobile game set in the popular Monster…
+
+[Read More](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+
+![Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More ](https://player.me/wp-content/uploads/2024/11/Baidu-World-2024-Announcements-1.png)
+
+[Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More](https://player.me/baidu-world-2024-announcements/) 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 13, 2024/
+
+At the Baidu World 2024 conference in Shanghai, Baidu founder and CEO Robin Li unveiled new groundbreaking technologies and shared…
+
+[Read More](https://player.me/baidu-world-2024-announcements/)
+
 ![Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](https://player.me/wp-content/uploads/2024/11/Overwatch-Classic-6v6-Is-Launching-on-Overwatch-2-From-November-12-to-December-2.png)
 
 [Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](https://player.me/overwatch-classic-launches-from-november-12-december-2/)
@@ -218,32 +244,6 @@ November 8, 2024/
 KRAFTON, the South Korean powerhouse known for titles like PUBG, has announced a significant delay for its upcoming life simulation…
 
 [Read More](https://player.me/inzoi-early-access-release-date-on-march-28-2025/)
-
-![Microsoft Flight Simulator 2024: New Features, Platforms, System Requirements, and Every Detail to Know Before November 19](https://player.me/wp-content/uploads/2024/11/Microsoft-Flight-Simulator-2024.png)
-
-[Microsoft Flight Simulator 2024: New Features, Platforms, System Requirements, and Every Detail to Know Before November 19](https://player.me/microsoft-flight-simulator-2024-details-to-know/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 7, 2024/
-
-Microsoft Flight Simulator 2024 (MSFS 2024) is preparing to take the acclaimed series to new heights when it launches on…
-
-[Read More](https://player.me/microsoft-flight-simulator-2024-details-to-know/)
-
-![Virtua Fighter 6 Is Real and Under Development, Announced by SEGA](https://player.me/wp-content/uploads/2024/11/Virtua-Fighter-6-Is-Real-and-Under-Development-Announced-by-SEGA.png)
-
-[Virtua Fighter 6 Is Real and Under Development, Announced by SEGA](https://player.me/virtua-fighter-6-is-real-and-under-development/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------
-
-November 7, 2024/
-
-Sega is breathing new life into Virtua Fighter, one of its most celebrated and pioneering game series, with a long-awaited…
-
-[Read More](https://player.me/virtua-fighter-6-is-real-and-under-development/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/wp-content/uploads/2024/11/Monster-Hunter-Outlanders.png)
+
+[Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 13, 2024/
+
+Capcom and TiMi Studio Group have announced Monster Hunter Outlanders, an ambitious new mobile game set in the popular Monster…
+
+[Read More](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+
+![Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More ](https://player.me/wp-content/uploads/2024/11/Baidu-World-2024-Announcements-1.png)
+
+[Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More](https://player.me/baidu-world-2024-announcements/) 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 13, 2024/
+
+At the Baidu World 2024 conference in Shanghai, Baidu founder and CEO Robin Li unveiled new groundbreaking technologies and shared…
+
+[Read More](https://player.me/baidu-world-2024-announcements/)
+
 ![Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](https://player.me/wp-content/uploads/2024/11/Overwatch-Classic-6v6-Is-Launching-on-Overwatch-2-From-November-12-to-December-2.png)
 
 [Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](https://player.me/overwatch-classic-launches-from-november-12-december-2/)
@@ -379,32 +405,6 @@ November 7, 2024/
 Sega is breathing new life into Virtua Fighter, one of its most celebrated and pioneering game series, with a long-awaited…
 
 [Read More](https://player.me/virtua-fighter-6-is-real-and-under-development/)
-
-![LEGO Horizon Adventures: Gameplay, Customization, and Everything You Need to Know Before November 14](https://player.me/wp-content/uploads/2024/11/LEGO-Horizon-Adventures_-Gameplay-Customisation-and-Everything-You-Need-to-Know-Before-November-14.png)
-
-[LEGO Horizon Adventures: Gameplay, Customization, and Everything You Need to Know Before November 14](https://player.me/everything-to-know-about-lego-horizon-adventures/)
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 6, 2024/
-
-The familiar LEGO charm meets the thrilling Horizon franchise with the upcoming release of LEGO Horizon Adventures, promising fans a…
-
-[Read More](https://player.me/everything-to-know-about-lego-horizon-adventures/)
-
-![NVIDIA Surpasses Apple as Most Valuable Company, Capping at $3.43 Trillion Amid AI Surge](https://player.me/wp-content/uploads/2024/11/NVIDIA-Surpasses-Apple-as-Most-Valuable-Company-Capping-at-3.43-Trillion-Amid-AI-Surge.png)
-
-[NVIDIA Surpasses Apple as Most Valuable Company, Capping at $3.43 Trillion Amid AI Surge](https://player.me/nvidia-surpasses-apple-as-most-valuable-company/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 6, 2024/
-
-In a historical market shift, NVIDIA, a company once recognized primarily for gaming GPUs, surpassed tech giants like Apple and…
-
-[Read More](https://player.me/nvidia-surpasses-apple-as-most-valuable-company/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -679,6 +679,19 @@ TECHNOLOGY
 * All Post
 * TECHNOLOGY
 
+![Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More ](https://player.me/wp-content/uploads/2024/11/Baidu-World-2024-Announcements-1.png)
+
+[Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More](https://player.me/baidu-world-2024-announcements/) 
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 13, 2024/
+
+At the Baidu World 2024 conference in Shanghai, Baidu founder and CEO Robin Li unveiled new groundbreaking technologies and shared…
+
+[Read More](https://player.me/baidu-world-2024-announcements/)
+
 ![NVIDIA Surpasses Apple as Most Valuable Company, Capping at $3.43 Trillion Amid AI Surge](https://player.me/wp-content/uploads/2024/11/NVIDIA-Surpasses-Apple-as-Most-Valuable-Company-Capping-at-3.43-Trillion-Amid-AI-Surge.png)
 
 [NVIDIA Surpasses Apple as Most Valuable Company, Capping at $3.43 Trillion Amid AI Surge](https://player.me/nvidia-surpasses-apple-as-most-valuable-company/)
@@ -796,19 +809,6 @@ Meta Connect 2024 kicked off as one of the most highly anticipated developer eve
 
 [Read More](https://player.me/meta-connect-2024-rundown/)
 
-![Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/wp-content/uploads/2024/09/Made-on-YouTube-2024-Unveils-New-YouTube-Hype-Feature-to-Boost-Emerging-Creators.png)
-
-[Made on YouTube 2024 Unveils New YouTube Hype Feature to Boost Emerging Creators](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
-
-
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-September 19, 2024/
-
-At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new updates aimed at empowering creators and…
-
-[Read More](https://player.me/made-on-youtube-2024-unveils-new-youtube-hype-feature/)
-
 [Older Posts](https://player.me/page/2/)Newer Posts
 
 [![Follow Us on Google News](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDgyJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)](https://news.google.com/publications/CAAqBwgKMN65xgswgdXdAw?hl=en-US&gl=US&ceid=US%3Aen)
@@ -816,6 +816,18 @@ At the ‘Made on YouTube’ 2024 event, YouTube rolled out a series of new upda
 ![player.me](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDMwMCcgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
 
 player.me
+
+[](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/ "Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration")
+
+[Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+
+November 13, 2024
+
+[](https://player.me/baidu-world-2024-announcements/ "Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More ")
+
+[Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More](https://player.me/baidu-world-2024-announcements/) 
+
+November 13, 2024
 
 [](https://player.me/overwatch-classic-launches-from-november-12-december-2/ "Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2")
 
@@ -853,22 +865,10 @@ November 8, 2024
 
 November 8, 2024
 
-[](https://player.me/microsoft-flight-simulator-2024-details-to-know/ "Microsoft Flight Simulator 2024: New Features, Platforms, System Requirements, and Every Detail to Know Before November 19")
-
-[Microsoft Flight Simulator 2024: New Features, Platforms, System Requirements, and Every Detail to Know Before November 19](https://player.me/microsoft-flight-simulator-2024-details-to-know/)
-
-November 7, 2024
-
-[](https://player.me/virtua-fighter-6-is-real-and-under-development/ "Virtua Fighter 6 Is Real and Under Development, Announced by SEGA")
-
-[Virtua Fighter 6 Is Real and Under Development, Announced by SEGA](https://player.me/virtua-fighter-6-is-real-and-under-development/)
-
-November 7, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 580,112 times, 20 visit(s) today
+Visited 580,218 times, 126 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
