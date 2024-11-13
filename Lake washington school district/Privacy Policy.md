@@ -135,7 +135,6 @@ mobile-district-nav
     * [Other Programs](https://www.lwsd.org/schools/other-programs)
         
         * [Choice Schools](https://www.lwsd.org/programs/choice-schools)
-        * [Emerson K-12](https://emersonk12.lwsd.org/)
         * [Old Redmond Schoolhouse(opens in new window/tab)](https://orsh.lwsd.org/)
         * [Preschool](https://www.lwsd.org/programs/preschool)
         * [Transition Academy](https://www.lwsd.org/programs/transition-academy)
@@ -235,7 +234,7 @@ mobile-main-nav
     * [Technology Services](https://www.lwsd.org/services/technology)
     * [Transportation](https://www.lwsd.org/services/transportation)
     
-* [November 2024 Levy](https://www.lwsd.org/2024-levy)
+* [Budget Planning](https://www.lwsd.org/services/business-services/budget-planning)
 
 header-container
 ----------------
@@ -403,7 +402,6 @@ our schools
 * [Other Programs](https://www.lwsd.org/schools/other-programs)
     
     * [Choice Schools](https://www.lwsd.org/programs/choice-schools)
-    * [Emerson K-12](https://emersonk12.lwsd.org/)
     * [Old Redmond Schoolhouse(opens in new window/tab)](https://orsh.lwsd.org/)
     * [Preschool](https://www.lwsd.org/programs/preschool)
     * [Transition Academy](https://www.lwsd.org/programs/transition-academy)
@@ -589,7 +587,7 @@ nav-main
     * [Technology Services](https://www.lwsd.org/services/technology)
     * [Transportation](https://www.lwsd.org/services/transportation)
     
-* [November 2024 Levy](https://www.lwsd.org/2024-levy)
+* [Budget Planning](https://www.lwsd.org/services/business-services/budget-planning)
 
 horizontal-nav
 --------------
