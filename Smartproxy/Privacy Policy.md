@@ -228,13 +228,7 @@ NEW](https://smartproxy.com/smartproxy-quick-start-guide)
 
 [India](https://smartproxy.com/proxies/list/asia/india)
 
-[United Kingdom](https://smartproxy.com/proxies/list/europe/united-kingdom)
-
 [France](https://smartproxy.com/proxies/list/europe/france)
-
-[Germany](https://smartproxy.com/proxies/list/europe/germany)
-
-[China](https://smartproxy.com/proxies/list/asia/china)
 
 [Brazil](https://smartproxy.com/proxies/list/south-america/brazil)
 
