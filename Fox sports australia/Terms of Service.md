@@ -26,24 +26,24 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250403)
-* [One-Day Cup
-    
-    |     |     |
-    | --- | --- |
-    | VIC | 2 /16 |
-    | WA  |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250113)
 * [Women's BBL
     
-    13/11 18:10 AEST
+    |     |     |
+    | --- | --- |
+    | HOB | 1 /85 |
+    | ADE |     |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250125)
+* [One-Day Cup
+    
+    VIC won by 15 runs (DLS)
     
     |     |     |
     | --- | --- |
-    | HOB | –   |
-    | ADE | –   |
+    | VIC | 6 /132 |
+    | WA  | 108 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250125)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250113)
 * AFL
     
 * [AFL Women's
@@ -102,84 +102,84 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030001)
 * [NBA
     
-    3rd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BOS | 91  |
-    | ATL | 84  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010001/box-score)
-* [NBA
-    
-    3rd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | DET | 74  |
-    | MIA | 70  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010003/box-score)
-* [NBA
-    
-    3rd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | ORL | 85  |
-    | CHA | 64  |
+    | ORL | 114 |
+    | CHA | 89  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010005/box-score)
 * [NBA
     
-    Half Time
+    Full Time
     
     |     |     |
     | --- | --- |
-    | PHI | 50  |
-    | NY  | 54  |
+    | BOS | 116 |
+    | ATL | 117 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010001/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | DET | 123 |
+    | MIA | 121 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010003/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | PHI | 99  |
+    | NY  | 111 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010007/box-score)
 * [NBA
     
-    2nd Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | MIL | 32  |
-    | TOR | 25  |
+    | MIL | 99  |
+    | TOR | 85  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010009/box-score)
 * [NBA
     
-    13/11 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | UTA | –   |
-    | PHO | –   |
+    | UTA | 112 |
+    | PHO | 120 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010011)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010011/box-score)
 * [NBA
     
-    13/11 14:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | POR | –   |
-    | MIN | –   |
+    | POR | 122 |
+    | MIN | 108 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010015)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010015/box-score)
 * [NBA
     
-    13/11 14:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | GS  | –   |
-    | DAL | –   |
+    | GS  | 120 |
+    | DAL | 117 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010013)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010013/box-score)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
@@ -912,7 +912,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [UFC 309](https://www.foxsports.com.au/ufc)
