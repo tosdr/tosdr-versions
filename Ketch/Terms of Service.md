@@ -161,7 +161,11 @@ Who we are
 
 Get in touch
 
-[Partners](https://www.ketch.com/partnerships)[Careers](https://www.ketch.com/careers)[Contact us](https://www.ketch.com/contact-us)
+[Partners](https://www.ketch.com/partnerships)
+
+New
+
+[Careers](https://www.ketch.com/careers)[Contact us](https://www.ketch.com/contact-us)
 
 [Featured
 
@@ -278,7 +282,11 @@ Company
 
 [Get in touch](#)
 
-[Partners](https://www.ketch.com/partnerships)[**Careers ↗**](https://jobs.lever.co/Ketch)[Contact Us](https://www.ketch.com/contact-us)
+[Partners](https://www.ketch.com/partnerships)
+
+New
+
+[**Careers ↗**](https://jobs.lever.co/Ketch)[Contact Us](https://www.ketch.com/contact-us)
 
 [![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c53046008112716cd312_ic_twitter.svg)](https://twitter.com/Ketch_Digital)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52f4fdb8f0f858091b9_ic_linkedin.svg)](https://www.linkedin.com/company/ketchdigital/)[![](https://cdn.prod.website-files.com/611a337a2fd33f1abb7d18d3/6344c52e8cdc7cf2f303b856_ic_youtube.svg)](https://www.youtube.com/channel/UCYMaETSDcyTS6pFE5jAQJcw)
 
