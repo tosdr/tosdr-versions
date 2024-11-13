@@ -255,23 +255,15 @@ Latest News
 
 [As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
 
-4 hours ago
+10 hours ago
 
 [Seven & I considers massive management buyout offer](https://www.japantimes.co.jp/business/2024/11/13/companies/seven-i-buyout/ "Seven & I considers massive management buyout offer")
 
-7 hours ago
-
 [Host arrested on suspicion of coercing client into prostitution](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/host-club-prostution/ "Host arrested on suspicion of coercing client into prostitution")
-
-7 hours ago
 
 [Japan OKs insurance coverage of Alzheimer's drug donanemab](https://www.japantimes.co.jp/news/2024/11/13/japan/science-health/insuarance-coverage-alzheimers-drug/ "Japan OKs insurance coverage of Alzheimer's drug donanemab")
 
-7 hours ago
-
 [Chinese national held over swindling of Ibaraki woman who lost ¥809 million](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/83-million-investment-fraud/ "Chinese national held over swindling of Ibaraki woman who lost ¥809 million")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
