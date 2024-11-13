@@ -21,7 +21,7 @@ Effective May 25, 2018
 Mobifriends Solutions, S.L. C/Escorial 180, Bajos exterior, 08024 Barcelona. Spain.  
   
 **Data protection delegate:**  
-Elsa Carreras Ruiz Collegiate Lawyer 27223 ICAB  
+For any inquiries or requests regarding the processing of personal data or to exercise your data protection rights, you can contact our Data Protection Delegate via the following email address.  
   
   
 **Thanks for choosing mobifriends!**  
