@@ -305,7 +305,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#людисОВЗ](https://er.ru/activity/news?tags%5B0%5D=136007) [#интернет-сайт](https://er.ru/activity/news?tags%5B0%5D=19073) [#информация](https://er.ru/activity/news?tags%5B0%5D=1461)
 
-Сегодня 14:29
+13.11.24
 
 [![«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://cdn.er.ru/media/news/November2024/OcAELtOB82iqZZiQB58e-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
 
@@ -313,7 +313,7 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#помощьдетям](https://er.ru/activity/news?tags%5B0%5D=134046)
 
-Сегодня 09:22
+13.11.24
 
 [![О проекте федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/uKgqA7NDMa0ob6VYN6ts-small.jpg)](https://er.ru/activity/news/o-proekte-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
 
@@ -321,7 +321,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-Сегодня 09:00
+13.11.24
 
 [![Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://cdn.er.ru/media/news/November2024/o24euMPk1AWr0ziz6HtP-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
 
