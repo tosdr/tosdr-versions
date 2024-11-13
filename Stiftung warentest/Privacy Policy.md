@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
 
 Neueste Tests
 
+* [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
+* [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
+* [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
+* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
 * [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
-* [MSCI World Index: So reagieren die Aktienmärkte auf die US-Wahl](https://www.test.de/MSCI-World-Index-5886867-0/ "MSCI World Index - So reagieren die Aktienmärkte auf die US-Wahl")
-* [Bluetooth-Kopf­hörer im Test: Kopf­hörer mit gutem Sound und Akku](https://www.test.de/Bluetooth-Kopfhoerer-Test-4378783-0/ "Bluetooth-Kopfhörer im Test - Kopfhörer mit gutem Sound und Akku")
-* [Krankenkassen­vergleich 2024: Krankenkasse – güns­tige finden mit Top-Zusatz­leistungen](https://www.test.de/Krankenkassenvergleich-1801418-0/ "Krankenkassenvergleich 2024 - Krankenkasse – günstige finden mit Top-Zusatzleistungen")
 
 test.de entdecken
 
-* [Rauchmelder im Test: Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück](https://www.test.de/Rauchmelder-im-Test-Stiftung-Warentest-zieht-Mangelhaft-fuer-Pyrexx-Rauchmelder-zurueck-6098639-0/ "Rauchmelder im Test - Stiftung Warentest zieht „Mangelhaft“ für Pyrexx-Rauchmelder zurück")
-* [Winter­fahrplan der Deutschen Bahn: Mehr Nacht­züge, engere Taktung](https://www.test.de/Winterfahrplan-der-Deutschen-Bahn-Mehr-Nachtzuege-engere-Taktung-6052799-0/ "Winterfahrplan der Deutschen Bahn - Mehr Nachtzüge, engere Taktung")
-* [Stabile Fonds aus dem Finanztest-Fonds­rating: Empfehlungen für Filial­bank­kunden](https://www.test.de/Stabile-Fonds-aus-dem-Finanztest-Fondsrating-Empfehlungen-fuer-Filialbankkunden-6006555-0/ "Stabile Fonds aus dem Finanztest-Fondsrating - Empfehlungen für Filialbankkunden")
-* [Rück­ruf Fashy Schwimm­flügel Sima: Späte Reaktion auf unser Test­urteil](https://www.test.de/Rueckruf-Fashy-Schwimmfluegel-Sima-Spaete-Reaktion-auf-unser-Testurteil-6136440-0/ "Rückruf Fashy Schwimmflügel Sima - Späte Reaktion auf unser Testurteil")
-* [Konto­voll­macht: In drei einfachen Schritten zur Bank­voll­macht](https://www.test.de/Gewusst-wie-Bankvollmacht-6118803-0/ "Kontovollmacht - In drei einfachen Schritten zur Bankvollmacht")
-* [Insekten-Hundefutter im Test: Fliege statt Fleisch](https://www.test.de/insekten-hundefutter-im-test-6010994-0/ "Insekten-Hundefutter im Test - Fliege statt Fleisch")
+* [Skipässe im Preis­vergleich: Auf die Piste, sparen, los!](https://www.test.de/Skipaesse-im-Preisvergleich-Auf-die-Piste-sparen-los-5942066-0/ "Skipässe im Preisvergleich - Auf die Piste, sparen, los!")
+* [Bargeld: ING-Bank zahlt Bargeld per Banking-App aus](https://www.test.de/Bargeld-ING-Bank-zahlt-Bargeld-per-Banking-App-aus-5946381-0/ "Bargeld - ING-Bank zahlt Bargeld per Banking-App aus")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Sparduschköpfe im Test: Dusch­kosten halbieren](https://www.test.de/Sparduschkoepfe-im-Test-5980326-0/ "Sparduschköpfe im Test - Duschkosten halbieren")
+* [Drip Bars: Vitamin-Infusion? Für Gesunde unnötig](https://www.test.de/Drip-Bars-Vitamin-Infusion-Fuer-Gesunde-unnoetig-6160158-0/ "Drip Bars - Vitamin-Infusion? Für Gesunde unnötig")
+* [Verpackungs­ärger: Oregano von Wiberg](https://www.test.de/Verpackungsaerger-Oregano-von-Wiberg-5986974-0/ "Verpackungsärger - Oregano von Wiberg")
 
 Service Stiftung Warentest
 
