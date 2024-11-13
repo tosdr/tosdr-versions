@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/ook-zeurende-last-van-dit-bizarre-griepvirus/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/van-de-goddelijke-bron-los/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
