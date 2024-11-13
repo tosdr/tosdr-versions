@@ -585,21 +585,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 test.de entdecken
 
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
 
 Fußbereich
 
@@ -2720,21 +2720,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 test.de entdecken
 
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2776,39 +2776,39 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 test.de entdecken
 
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
 
 Neueste Tests
 
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
 * [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
-* [Prepaid-Jahres­pakete: Einmal zahlen, ein Jahr nutzen](https://www.test.de/Prepaid-Jahrespakete-Einmal-zahlen-ein-Jahr-nutzen-6157558-0/ "Prepaid-Jahrespakete - Einmal zahlen, ein Jahr nutzen")
 
 test.de entdecken
 
-* [Daten­schutz im Test: Was Laut­sprecher-Apps ausplaudern](https://www.test.de/Datenschutz-im-Test-Was-Lautsprecher-Apps-ausplaudern-6126264-0/ "Datenschutz im Test - Was Lautsprecher-Apps ausplaudern")
-* [Voll­korn­reis im Schad­stoff-Check: Oft voll gut](https://www.test.de/Vollkornreis-im-Schadstoff-Check-Oft-voll-gut-6122435-0/ "Vollkornreis im Schadstoff-Check - Oft voll gut")
-* [Crowdfunding: Gemein­sam kämpfen, wenn das Projekt scheitert](https://www.test.de/Crowdfunding-Vergleich-fuer-Exporo-Anleger-5965570-0/ "Crowdfunding - Gemeinsam kämpfen, wenn das Projekt scheitert")
-* [Kirchen­austritt: Aus der Kirche austreten – so gehen Sie vor](https://www.test.de/gewusst-wie-kirchenaustritt-5942008-0/ "Kirchenaustritt - Aus der Kirche austreten – so gehen Sie vor")
-* [Diver­sifikation bei der Geld­anlage: Streuung nutzt mehr als man denkt](https://www.test.de/Diversifikation-bei-der-Geldanlage-Streuung-nutzt-mehr-als-man-denkt-6123045-0/ "Diversifikation bei der Geldanlage - Streuung nutzt mehr als man denkt")
-* [DSL-Anschlüsse: Vodafone und 1&1 wollen mehr Geld](https://www.test.de/Guenstige-DSL-Anschluesse-11-will-mehr-Geld-6008165-0/ "DSL-Anschlüsse - Vodafone und 1&1 wollen mehr Geld")
+* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Risiko Psyche: Trotz Therapie gut versichert](https://www.test.de/Gut-versichert-trotz-Psychotherapie-6018021-0/ "Risiko Psyche - Trotz Therapie gut versichert")
+* [Fototipp: So gelingen Vitrinenfotos im Museum](https://www.test.de/Fototipp-So-gelingen-Vitrinenfotos-im-Museum-5936852-0/ "Fototipp - So gelingen Vitrinenfotos im Museum")
+* [Ratgeber Hilfe, ich habe geerbt: Formulare zum Download](https://www.test.de/Ratgeber-Hilfe-ich-habe-geerbt-Formulare-zum-Download-6038257-0/ "Ratgeber Hilfe, ich habe geerbt - Formulare zum Download")
+* [Haus­notruf: Hilfe auf Knopf­druck](https://www.test.de/Hausnotruf-Hilfe-auf-Knopfdruck-6150134-0/ "Hausnotruf - Hilfe auf Knopfdruck")
 
 Service Stiftung Warentest
 
