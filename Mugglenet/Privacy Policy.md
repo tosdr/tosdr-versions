@@ -308,6 +308,20 @@ Recurs yearly
 
 Death Eater (DH1, DH2)
 
+#### Tue, Nov 19
+
+Harry Potter and the Deathly Hallows - Part 1 movie
+
+Recurs yearly
+
+2010
+
+Poppy Corby-Tuech's birthday
+
+Recurs yearly
+
+Rosier
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -318,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Grangers and Potters were originally supposed to be neighbors in Godric’s Hollow.
+Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
 
 ### Potter History
 
-November 29, 2005 – Harry Potter and the Goblet of Fire film breaks $400 million worldwide in ticket sales.
+December 11, 2007 – Harry Potter and the Order of the Phoenix is released on DVD in the United States, a whole month after fans in the United Kingdom got their hands on it.
 
 ### Potter Quote
 
-“Draco, Draco, you are not a killer.”
+“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
 
 [](#)
 
