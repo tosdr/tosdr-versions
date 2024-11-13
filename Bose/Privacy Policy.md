@@ -1,5 +1,7 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+Deal of the Day: Save $150 on Cypress Green QuietComfort Headphones. [Shop](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1)
+
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
@@ -105,22 +107,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/6fa09240bc64c918/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Sandstone-QCUH.png)
+    [![](https://assets.bosecreative.com/m/60a8003c4d843dea/webimage-QCHLE25-CypressGreen_SF_NavFlyout_Promo_Mobile.png)
     
-    Exclusive Color Drop
+    Deal of the day
     
-    ### Sculpted in Sandstone](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
+    ### QuietComfort Headphones](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1 "BUY NOW ")
     
      
     
-    Exclusive Color Drop
+    Today only
     
-    Sculpted in Sandstone
-    ---------------------
+    Deal of the day
+    ---------------
     
-    Share the joy of legendary sound.
+    Act fast and save $150 off QuietComfort Headphones in Cypress Green.
     
-    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -394,6 +396,8 @@ Loyalty programs / Financial incentives
 We offer our customers a loyalty program (My Bose) that provides certain perks to members, such as members-only discounts, birthday offers, access to giveaways, events, and product testing and other benefits. Membership is free of charge. We may also provide other special offers and benefits to customers who sign up to receive communications from us or who participate in certain promotional campaigns. When a customer signs up for one of these programs, we typically ask the customer to provide their name, email address, and/or telephone number. Because we collect personal information, this may be interpreted as a “financial incentive” or “bona fide loyalty program” under applicable law. The value of customer personal information that we collect is reasonably related to the expenses of providing special offers and benefits to participants in the programs (which may vary depending on the specific offer or benefit or the amount purchased by the customer using the special offer).
 
 You have the right to opt out of these incentives at any time and can do so by visiting “[Your rights and choices](#Your_rights_and_choices).”
+
+[Back to top](#maincontent)
 
 Your rights and choices
 
