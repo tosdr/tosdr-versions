@@ -317,24 +317,6 @@ Open your account in just 5 minutes, directly from your phone.
 
 ![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
 
-Start your 30-day free trial
-----------------------------
-
-Open your account in just 5 minutes, directly from your phone.
-
-[Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
-
-![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
-
-Start your 30-day free trial
-----------------------------
-
-Open your account in just 5 minutes, directly from your phone.
-
-[Get started](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
-
-![](https://framerusercontent.com/images/y6dCrezjZfLrMAl319NLwa4SYA.png?scale-down-to=2048)
-
 [![bunq logo](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)](https://www.bunq.com/assets/media/legal/en/)
 
 [![](https://framerusercontent.com/images/eRrJWOkXnrzE0CRldRULgCfNpU.svg)](https://x.com/bunq)[![](https://framerusercontent.com/images/DtLW6cxzCYX9vGWk0IOlZcrrlU.svg)](https://linkedin.com/company/bunq)[![](https://framerusercontent.com/images/MSDKKaHUUy1SaoYRvx9SNuQ.svg)](https://www.instagram.com/bunq)[![](https://framerusercontent.com/images/xtrett7pVimMOKOdWSv4Qae0Y.svg)](https://www.facebook.com/bunq/)[![](https://framerusercontent.com/images/n9udLDqBAn4Xf6HbtREOLT7Zk.svg)](https://www.youtube.com/channel/UCNZo2GsB_ToorMDDSHoo70g)
