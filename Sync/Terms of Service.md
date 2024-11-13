@@ -167,7 +167,7 @@ This file was last modified on August 9, 2024
 
 #### Uses
 
-[* Secure file sharing](https://www.sync.com/secure-file-sharing/)[* Client file portal](https://www.sync.com/client-file-portal/)[* Team collaboration](https://www.sync.com/team-collaboration/)[* SOC compliance](https://www.sync.com/soc-report/)[* HIPAA cloud storage](https://www.sync.com/cloud-storage-for-healthcare-hipaa/)[* Free cloud storage](https://www.sync.com/free-cloud-storage/)[* Dropbox alternative](https://www.sync.com/secure-dropbox-alternative/)[* Google Drive alternative](https://www.sync.com/secure-google-drive-alternative/)[* Box.com alternative](https://www.sync.com/secure-box-alternative/)[* iCloud alternative](https://www.sync.com/secure-icloud-alternative/)
+[* Secure file sharing](https://www.sync.com/secure-file-sharing/)[* Client file portal](https://www.sync.com/client-file-portal/)[* Team collaboration](https://www.sync.com/team-collaboration/)[* SOC compliance](https://www.sync.com/soc-report/)[* HIPAA cloud storage](https://www.sync.com/cloud-storage-for-healthcare-hipaa/)[* Free cloud storage](https://www.sync.com/free-cloud-storage/)[* Dropbox alternative](https://www.sync.com/secure-dropbox-alternative/)[* Google Drive alternative](https://www.sync.com/secure-google-drive-alternative/)[* Box.com alternative](https://www.sync.com/secure-box-alternative/)[* iCloud alternative](https://www.sync.com/secure-icloud-alternative/)[* SharePoint alternative](https://www.sync.com/secure-sharepoint-alternative/)
 
 [Français](https://www.sync.com/ca-fr/)
 
