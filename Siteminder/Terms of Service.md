@@ -1,5 +1,7 @@
 [Skip to main content](#sitecontent)
 
+[Read the world’s largest consumer research on hotels, _SiteMinder’s Changing Traveller Report 2025_, **here**](https://www.siteminder.com/changing-traveller-report/)
+
 [](https://www.siteminder.com/ "Visit the home page")
 
 [Start free trial](https://www.siteminder.com/start-free-trial/)
@@ -29,14 +31,17 @@
             * [Hotel Business Intelligence](https://www.siteminder.com/hotel-business-intelligence/)
             * [Property Management Systems](https://www.siteminder.com/pms-property-management-system/)
             * [Groups and Chains](https://www.siteminder.com/groupsandchains/)
-    * ![](https://www.siteminder.com/wp-content/uploads/2024/01/sticky-logo.svg)
+            * [Dynamic Revenue Plus](https://www.siteminder.com/dynamic-revenue-plus/)
+    * ![](https://www.siteminder.com/wp-content/uploads/2024/11/ctr-logo.svg)
         
-        Findings from over  
-        115 million reservations
+        Transform insights into  
+        revenue: Your guide to the  
+        2025 traveller.
         
-        2023 Report
+        [Uncover all the findings](https://www.siteminder.com/changing-traveller-report/)
         
-        [Read now](https://www.siteminder.com/hotel-booking-trends/)
+        ![](/wp-content/uploads/2024/11/ctr-navbar-img.png)
+        
 * [Pricing](https://www.siteminder.com/pricing/)
 * [Integrations](https://www.siteminder.com/integrations/)
     * [Hidden left grid](#)
@@ -63,14 +68,16 @@
         * [Global Distribution System
             
             Putting your hotel in front of 600,000+ travel agents.](https://www.siteminder.com/integrations/global-distribution-systems/)
-    * ![](https://www.siteminder.com/wp-content/uploads/2024/01/sticky-logo.svg)
+    * ![](https://www.siteminder.com/wp-content/uploads/2024/11/ctr-logo.svg)
         
-        Findings from over  
-        115 million reservations
+        Transform insights into  
+        revenue: Your guide to the  
+        2025 traveller.
         
-        2023 Report
+        [Uncover all the findings](https://www.siteminder.com/changing-traveller-report/)
         
-        [Read now](https://www.siteminder.com/hotel-booking-trends/)
+        ![](/wp-content/uploads/2024/11/ctr-navbar-img.png)
+        
 * [Resources](https://www.siteminder.com/r/)
     * [Hidden left grid](#)
         * [Resources](https://www.siteminder.com/r/)
@@ -89,14 +96,16 @@
             * [Media Centre](https://www.siteminder.com/news/)
             * [Careers at SiteMinder](https://www.siteminder.com/careers/)
             * [Billing and Payments](https://billing.siteminder.com/)
-    * ![](https://www.siteminder.com/wp-content/uploads/2024/01/sticky-logo.svg)
+    * ![](https://www.siteminder.com/wp-content/uploads/2024/11/ctr-logo.svg)
         
-        Findings from over  
-        115 million reservations
+        Transform insights into  
+        revenue: Your guide to the  
+        2025 traveller.
         
-        2023 Report
+        [Uncover all the findings](https://www.siteminder.com/changing-traveller-report/)
         
-        [Read now](https://www.siteminder.com/hotel-booking-trends/)
+        ![](/wp-content/uploads/2024/11/ctr-navbar-img.png)
+        
 * EN
     * [ไทย](https://www.siteminder.com/th/legal/website-terms/)
 * [Contact us](https://www.siteminder.com/contact-sales/)
