@@ -31,6 +31,279 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de agua en Quito se inician en 95 barrios por 12 horas
+=============================================================
+
+Estos cortes de agua se suman a los que ya se aplican en Quito debido a los cortes de luz en los barrios altos.
+---------------------------------------------------------------------------------------------------------------
+
+![La Epmaps distribuye agua con tanqueros en los barrios con cortes de agua.](https://www.elcomercio.com/wp-content/uploads/2024/11/agua-Quito-.jpg)
+
+El **Municipio de Quito** informó en la noche del martes 12 de noviembre de 2024 sobre la decisión que se tomó en cuanto a la implementación de **cortes de agua** en el Distrito Metropolitano.
+
+### Más noticias
+
+* [Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica](https://www.elcomercio.com/actualidad/quito/alcalde-de-quito-evalua-cortes-de-agua-debido-a-crisis-hidrica.html "Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica")
+* [Alcalde de Quito plantea la posibilidad de suspender las fiestas de fundación](https://www.elcomercio.com/actualidad/quito/alcalde-quito-comite-crisis-suspension-fiestas-cortes-luz.html "Alcalde de Quito plantea la posibilidad de suspender las fiestas de fundación")
+* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
+
+Cortes de agua se aplican como medida preventiva
+------------------------------------------------
+
+Los racionamientos de agua potable son una **medida preventiva** para asegurar el abastecimiento de agua potable, debido a la escasez hídrica que se afronta a causa de la sequía.
+
+El Municipio asegura que, con el fin d**e minimizar la afectación** a la ciudadanía, proteger las fuentes de agua de Quito y evitar riesgos en la infraestructura, se harán trabajos nocturnos para recuperar los niveles de los tanques.
+
+Por ello, las autoridades han decidido **suspender el servicio de agua potable** en 95 de los 1 280 barrios del Distrito Metropolitano de Quito.
+
+El alcalde de Quito, Pabel Muñoz, anunció que esta decisión técnica **permitirá minimizar el impacto** de la crisis y asegurar el abastecimiento del servicio de agua potable en la ciudad durante el día.
+
+Estos racionamientos se suman a los cortes de agua que ya se realizan en Quito debido a los cortes de luz en los barrios altos de la ciudad, por la falta de bombeo eléctrico.
+
+Así mismo, la Empresa Metropolitana de Agua Potable señaló que es indispensable el compromiso y sensibilidad ciudadana para **reducir los altos consumos** que se registran en Quito.
+
+El Municipio también iniciará una campaña para disminuir el consumo de agua, porque “todos los días **desperdiciamos 45 piscinas olímpicas”**, en Quito.
+
+> 💧 [#ConsumoResponsable](https://twitter.com/hashtag/ConsumoResponsable?src=hash&ref_src=twsrc%5Etfw) | Con el fin de precautelar la integridad de la infraestructura de agua potable en la capital, tomamos medidas preventivas frente a la sequía.  
+>   
+> Contamos con tu colaboración. [pic.twitter.com/dpwXXC1rIY](https://t.co/dpwXXC1rIY)
+> 
+> — Municipio de Quito (@MunicipioQuito) [November 13, 2024](https://twitter.com/MunicipioQuito/status/1856665816042979339?ref_src=twsrc%5Etfw)
+
+Sectores con cortes de agua el 12, 14 y 16 de noviembre
+-------------------------------------------------------
+
+Los racionamientos preventivos en la Planta Puengasí se aplicarán de 17:00 a 03:00 e incluye los siguientes barrios:
+
+* Monjas
+    * El Guabo
+    * Las Orquídeas
+    * Jardín del Valle
+* San Bartolo
+    * Germán Ávila
+    * San Agustín
+    * Chimbacalle
+    * El Corazón
+    * El Camal
+    * México
+    * Pío XII
+    * Los Andes
+    * San Bartolo
+    * Epiclachima
+    * Recreo
+    * Clemencia
+    * El Calzado
+    * 1° de Mayo
+    * Barrionuevo
+    * Los Arrayanes
+    * Atahualpa
+    * La Magdalena
+    * Argelia Intermedia
+    * Tnt. Hugo Ortiz
+    * Clemente Ballén
+* Chiriyacu Medio
+    * Doscientas Casas
+    * Ferroviaria Media y Baja
+    * Chaguarquingo
+    * Forestal Alta y Baja
+
+Barrios con cortes de agua el 11, 13, 15, 17 de noviembre
+---------------------------------------------------------
+
+Los racionamientos preventivos en la **Planta Puengasí** se aplicarán de 17:00 a 03:00 e incluye los siguientes barrios:
+
+* Alpahuasi
+    * La Tola
+    * San MArcos
+    * La Loma
+    * González Suárez (Centro Histórico)
+    * San Sebastián
+    * El Sena
+    * México
+    * Los Andes
+    * Los Dos Puentes
+    * Santa Ana
+    * Villaflora
+    * La Recoleta
+    * El Camal
+    * CC Recreo
+    * La Estación
+    * Jefferson Pérez
+    * Molinos
+    * Luluncoto
+* Edén del Valle
+    * Miravalle
+    * Puertas del Sol
+    * Obrero Independiente 1, 2 y 3
+    * Edén del Valle
+    * Valle del Sur
+    * General Rumiñahui
+    * 28 de Noviembre
+    * Lomas de Puengasí
+    * 1° de MAyo
+    * Monjas
+    * Simón Bolívar
+    * Madrigal
+    * Mariano Hinojosa
+* Forestal
+    * Aída León
+    * Hierba Buena 2
+    * Lotización Miravalle
+    * Forestal ALta y Media
+    * Ferroviaria Alta y Media
+    * Epiclachima
+    * Lotiz Quingaza
+    * Vertientes Unidas
+    * Alegría 1
+    * Recreo
+    * Clemencia
+
+La Epmaps pide tomar en cuenta que las **redes de distribución** tardan aproximadamente dos horas en [recuperarse.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 💧 [#Racionamientos](https://twitter.com/hashtag/Racionamientos?src=hash&ref_src=twsrc%5Etfw) | El Municipio toma medidas preventivas desde hoy para asegurar el abastecimiento de agua potable en todo el Distrito Metropolitano.  
+>   
+> Con el fin de minimizar la afectación a la ciudadanía a causa de la sequía, proteger las fuentes que abastecen de agua al… [pic.twitter.com/CLJivvBxqy](https://t.co/CLJivvBxqy)
+> 
+> — Epmaps – Agua de Quito (@aguadequito) [November 13, 2024](https://twitter.com/aguadequito/status/1856537801258414301?ref_src=twsrc%5Etfw)
+
+¿Cómo será la etapa 3 de la Vuelta al Ecuador 2024?
+===================================================
+
+La tercera etapa de la Vuelta a Ecuador 2024 será la más corta en lo que va de la competencia y tendrá dos puertos de montaña.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Brayan Obando (izq) del Team Medellín y Cristian Pita (der.) del Movistar Team cruzan la meta en la Vuelta a Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/1000163184.jpg)
+
+La **Vuelta al Ecuador** continúa durante este miércoles 13 de noviembre del 2024 y afronta su tercera etapa de competencia. Para esta nueva ocasión, el evento ciclístico retorna hacia la región sierra del país, donde recorrerá todas sus próximas fases a partir de esta.
+
+A diferencia de las dos primeras etapas, que se llevaron a cabo entre **Calacalí** (Pichincha) y **La Concordia** (Santo Domingo) y **Vista Hermosa** (Santo Domingo) y **Babahoyo** (Los Ríos), esta arrancará a las 10:00. Las fases previas del certamen se habían iniciado a las 9:00.
+
+### Más noticias:
+
+* [Un equipo se retira de la Vuelta al Ecuador tras caída de ciclistas](https://www.elcomercio.com/deportes/ciclismo/team-campo-fertil-retiro-vuelta-ecuador.html "Un equipo se retira de la Vuelta a Ecuador tras caída de ciclistas")
+* [Óscar Sevilla se mantiene líder de la Vuelta al Ecuador para la tercera etapa](https://www.elcomercio.com/deportes/oscar-sevilla-se-mantiene-lider-de-la-vuelta-al-ecuador-para-la-tercera-etapa.html "Óscar Sevilla se mantiene líder de la Vuelta al Ecuador para la tercera etapa")
+* [La etapa 2 de la Vuelta al Ecuador se desarrolló con inconvenientes](https://www.elcomercio.com/deportes/ciclismo/la-etapa-2-de-la-vuelta-al-ecuador-se-desarrollo-con-inconvenientes.html "La etapa 2 de la Vuelta al Ecuador se desarrolló con inconvenientes ")
+
+El nuevo trayecto se llevará a cabo entre **El Arenal (Bolívar), y la vía Ambato – Guaranda**, y llegará hasta el **Municipio de Alausí** (Chimborazo). En ella, los ciclistas abarcarán un recorrido de 125, 27 kilómetros, lo que convierte a esta a la etapa más corta hasta ahora en la Vuelta al Ecuador[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador)
+
+Con relación a las dos etapas previas, esta también será la de mayor altura en cuanto a metros sobre el nivel del mar (msnm). Asimismo, tendrá condiciones totalmente distintas con respecto a su fase antecesora, que contó con un trazado llano, pero de **188, 64 kilómetros.**
+
+Los escaladores vuelven en la etapa 3 de la Vuelta al Ecuador
+-------------------------------------------------------------
+
+Aunque en un inicio irá de bajada, la tercera etapa será de montaña e iniciará a **4 355 msmn** y terminará a los **2 350**. Las condiciones del terreno y de la ruta son ideales para los escaladores y las principales emociones estarán en torno al jersey de puntos rojos, el cual lleva el líder de esta especialidad.
+
+La trayectoria contará con dos puertos de montaña que se celebrarán casi en el cierre de la carrera. El inicial será a los **103,59 kilómetros** y el subsecuente a los 117, 35. Ambos serán de tercera categoría y otorgarán dos puntos al primer y al segundo ciclista que atraviesen tales puntos.
+
+La segunda etapa no contó con puertos de montaña, mientras que la primera tuvo uno solo de tercera categoría. A partir de ello, **Segundo Navarrete** del Team Giant Toscana se ubica como el puntero de dicha clasificación tras la fase inaugural.
+
+Las metas volantes también tendrán espacio
+------------------------------------------
+
+El recorrido entre El Arenal y Alausí contará con tres metas volantes. Estas serán en los kilómetros **34,57, 53,41 y 97,6.**
+
+De cara a la tercera etapa, **Óscar Sevilla** llegará como líder dentro de la tabla general de clasificación. Como mejor juvenil estará **Joffre Imbaquingo** y **Esteban Villarreal** lo hará como cabeza de las metas volantes.
+
+Así funciona el Pico y placa en Quito este miércoles 13 de noviembre
+====================================================================
+
+Cuatro contraflujos se realizan como medidas simultáneas para controlar el flujo vehicular, además del Pico y placa
+-------------------------------------------------------------------------------------------------------------------
+
+![La medida del Pico y placa fue implementada para aliviar el tránsito vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/pico-y-placa-Quito-.jpg)
+
+El **Municipio de Quito** implementó la medida de **Pico y placa en Quito** para controlar el flujo vehicular dentro de la ciudad.
+
+### Más noticias
+
+* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
+* [Un incendio ocurrió por causa de una vela encendida, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-se-registro-a-causa-de-vela-encendida-quito.html "Un incendio ocurrió por causa de una vela encendida, en Quito")
+* [Sí se puede pedir indemnización por daños a vehículos caídos en baches en Quito](https://www.elcomercio.com/actualidad/quito/baches-quito-danos-municipio-indemniza.html "Sí se puede pedir indemnización por daños a vehículos caídos en baches en Quito")
+
+¿Cómo se aplica el Pico y placa?
+--------------------------------
+
+La medida del **Pico y placa** incluye a todos los vehículos y motos del Distrito Metropolitano, a excepción de los conducidos por personas de la tercera edad o con discapacidad.
+
+La restricción vehicular **Pico y placa en Quito** se aplica cinco días a la semana, de **lunes a viernes**, de 06:00 a 09:30 y de **16:00 a 20:00**.
+
+Este **miércoles,** no pueden circular los autos con **placas terminadas en dígitos 5 y 6.**
+
+Contraflujos y Pico y placa en Quito
+------------------------------------
+
+Como medida adicional **al Pico y placa**, para que el tránsito tenga mayor fluidez en horas pico, la Agencia Metropolitana de Tránsito (AMT) también aplica **cuatro contraflujos en Quito**, estos son:
+
+–**Avenida Mariscal Sucre:** desde el cementerio de San Diego hasta la avenida Universitaria.
+
+Mañana: 06:30 a 07:00 y de 07:30 a 08:00
+
+Tarde: 16:30 a 17:00 y 17:30 a 18:00
+
+–**Autopista General Rumiñahui:** desde la av. Pichincha, en El Trébol, hasta el sector de Cuscungo, en la autopista.
+
+Mañana: 06:30 a 07:30 y de 08:00 a 08:30
+
+Tarde: 16:30 a 19:30
+
+–**Avenida Velasco Ibarra** (Oriental): en la mañana desde la avenida Napo hasta la av. Velasco Ibarra (La Tola). En la tarde, desde el coliseo Rumiñahui hasta La Tola.
+
+Mañana: 06:00 a 08:30
+
+Tarde: 17:00 a 19:00
+
+– **Túnel Guayasamín:** desde la av. Guayasamín y av. Simón Bolívar hasta la av. 6 de Diciembre y av. Oswaldo Guayasamín y viceversa en la tarde.
+
+Mañana: 07:00 a 08:30
+
+Tarde: de 16:00 a 19:30
+
+Mantente atento a estos contraflujos y a los **horarios de Pico y placa** en Quito y [evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 📢 [#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+> ⏰ Conoce los horarios y los tramos de los contraflujos que hay en la ciudad.  
+>   
+> 👮‍♂️ Conduce con precaución, respeta las normas y llega seguro a tu destino.  
+>   
+> 🤝 Juntos llegamos sin contratiempos.  
+>   
+> ☀️[#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/nfehiI0uUO](https://t.co/nfehiI0uUO)
+> 
+> — AMTQuito (@AMT\_Quito) [October 22, 2024](https://twitter.com/AMT_Quito/status/1848669582912897155?ref_src=twsrc%5Etfw)
+
+Abastecimiento de agua en Cuenca está en estado crítico
+=======================================================
+
+Cuenca requiere un ahorro adicional del 18% para mantener el servicio. Caso contrario, los cortes empezarán la siguiente semana.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El río Culebrillas, que abastece a la planta de potabilización de El Cebollar, está seco. Cortesía: Etapa](https://www.elcomercio.com/wp-content/uploads/2024/11/Cuenca-3.jpg)
+
+La sequía hidrológica cumplió 124 días en **Cuenca** y es la más prolongada de los últimos 51 años. Los efectos llegan a niveles extremos en las fuentes de captación para la **dotación de agua potable.**
+
+Ante las actuales condiciones, el equipo de Agua Potable de la **Empresa Municipal (Etapa)** de Cuenca se reunió la noche del martes 14 de noviembre de 2024.
+
+Allí, se analizaron las condiciones, sobre todo, del río **Culebrillas**, que abastece a la planta de potabilización de El Cebollar. Esta infraestructura abastece de agua al 40% de **Cuenca**.
+
+En este río ya no existe agua, dijo el **alcalde de Cuenca, Cristian Zamora**. Eso pone en riesgo el normal abastecimiento.
+
+### Más noticias
+
+* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
+* [Servicio de agua potable en Quito seguirá inestable por cortes de luz](https://www.elcomercio.com/actualidad/quito/servicio-de-agua-potable-quito-seguira-inestable-cortes-de-luz.html "Servicio de agua potable en Quito seguirá  inestable por cortes de luz")
+* [Alcalde de Quito plantea la posibilidad de suspender las fiestas de fundación](https://www.elcomercio.com/actualidad/quito/alcalde-quito-comite-crisis-suspension-fiestas-cortes-luz.html "Alcalde de Quito plantea la posibilidad de suspender las fiestas de fundación")
+
+Cuenca requiere ahorrar más agua
+--------------------------------
+
+**Zamora** indicó que los habitantes de **Cuenca** ahorraron un 12% en el consumo de agua durante esta sequía hidrológica, pero ahora se requiere que ese indicador aumente.
+
+Su pedido es que se **ahorre un 18% adicional** para mantener el abastecimiento, caso contrario los racionamientos en el área urbana empezarán desde la siguiente semana.
+
+Zamora indicó que, en la actualidad, han podido mantener el servicio porque lograron construir una suerte de conexión entre las plantas de **El Cebollar y Tixán.** De esa forma han mantenido el servicio para el **norte y centro de Cuenca.**
+
+Las zonas de captación en los **ríos Culebrillas y Tomebamba** se recibe 580 litros por segundo, pero se requieren por lo menos 760 litros 
+
 El totalitarismo (II)
 =====================
 
@@ -74,6 +347,24 @@ Es indispensable que las autoridades cumplan las normativas relativas a la gesti
 
 Mario Andrade Trujillo
 
+Hastío de los cortes
+====================
+
+El gobierno enfrenta una crisis energética y desorganización interna que afectan gravemente a la economía y aumentan el descontento ciudadano.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
+
+En las **elecciones** de **noviembre** pasado los astros se alinearon a favor de Noboa y sorpresivamente fue elegido **presidente** de la **República**. Ahora parece que los astros no le acompañan, pues sus **posibilidades** de **reelección** disminuyen con el mismo ritmo con que se extienden los **apagones**. En pocos días se cumplirán 2 meses de los **cortes de energía** -ahora nuevamente de 12 horas diarias- que destrozan a los **ciudadanos** y ponen en **riesgo** a todas las **actividades** **económicas**. Desde el tendero del barrio, el sastre, el zapatero, el peluquero, el panadero hasta las grandes empresas, pese a contar con **generadores de emergencia,** sufren la **catástrofe** en sus **actividades**. Y no se diga del ama de casa, del ciudadano común que ve su vida trastrocada porque se **dañan** sus **alimentos**, los niños y adolescentes afrontan el caos en sus **actividades estudiantiles**.
+
+Según Plan V, en los últimos 20 meses los gobiernos de **Lasso y Noboa** no han hecho nada para afrontar la **crisis** que se anticipó a principios de 2023. CNEL está inmerso en la **corrupción** y el **burocratismo**, según la misma publicación. Tenía 4.200 trabajadores en 2021 y hoy son 6.322 protegidos por jugosos **contratos colectivos**, mientras los planes de **modernización** de **plantas** y **equipos** quedaron en el olvido.
+
+A estas **alturas** al **gobierno** no le queda más que buscar desesperadamente el **auxilio de Colombia** o los contratos de última hora para adquirir o arrendar **equipos** de **generación**. Pero nada le funciona. **Petro** le **negó** a Noboa la **venta de energía**. La **segunda barcaza** está operando en otro país y los **generadores comprados** o **alquilados no aparecen** por ninguna parte. Las **declaraciones** del presidente son **contradictorias**, su **ministra de Energía encargada** -en el área de vida o muerte del gobierno-trata de **explicar el fracaso y pide paciencia a los ciudadanos**. Pero no se confía en sus **justificaciones** y ofertas. En los últimos días, se ha pretendido **justificar** los **apagones** de 12 horas en la **sequía** y “**mantenimiento programado**”. ¿Creen que los **ciudadanos** son minusválidos mentales?
+
+A lo anterior agréguese la **pobreza** en la **comunicación**, que parece de principiantes o aficionados. El desconcierto en Carondelet se refleja no solamente en la **tragedia eléctrica**. Los **proyectos urgentes** para **crear nuevos impuestos** se envían a la **Asamblea**, se retiran a las pocas horas y se envían nuevamente modificados, lo cual no tiene otra explicación que no sea el **atolondramiento** y unos **servicios jurídicos deficientes.**
+
+Así va el **país** de tumbo en tumbo con una **economía paupérrima** que tiende a miserable mientras se acercan las **elecciones** de febrero, en las que cualquier persona sin preparación, **sin estructura política y sin planes concretos**, se podrá hacer con el poder.
+
 Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador
 ==============================================================================
 
@@ -105,24 +396,6 @@ Tampoco se conoce cómo avanzan los procesos de la renta de energía en tierra p
 **Cuatro.** Si la situación es grave, la programación tiene que estar a tono con esa crisis. La queja común es el irrespeto a la propia programación oficial.
 
 Noviembre y diciembre son meses cruciales para el **comercio y los hogares**, por las **fiestas.** Esas son suficientes razones para que las autoridades programen los cortes de luz, de acuerdo con la disponibilidad del agua. En **Coca Codo** **Sinclair** no es posible almacenar, pero en las otras sí, lo que podría ayudar a guardar agua para ese mes de alta demanda.
-
-Hastío de los cortes
-====================
-
-El gobierno enfrenta una crisis energética y desorganización interna que afectan gravemente a la economía y aumentan el descontento ciudadano.
-----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Francisco Rosales Ramos, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Francisco-Rosales-Ramos.jpg)
-
-En las **elecciones** de **noviembre** pasado los astros se alinearon a favor de Noboa y sorpresivamente fue elegido **presidente** de la **República**. Ahora parece que los astros no le acompañan, pues sus **posibilidades** de **reelección** disminuyen con el mismo ritmo con que se extienden los **apagones**. En pocos días se cumplirán 2 meses de los **cortes de energía** -ahora nuevamente de 12 horas diarias- que destrozan a los **ciudadanos** y ponen en **riesgo** a todas las **actividades** **económicas**. Desde el tendero del barrio, el sastre, el zapatero, el peluquero, el panadero hasta las grandes empresas, pese a contar con **generadores de emergencia,** sufren la **catástrofe** en sus **actividades**. Y no se diga del ama de casa, del ciudadano común que ve su vida trastrocada porque se **dañan** sus **alimentos**, los niños y adolescentes afrontan el caos en sus **actividades estudiantiles**.
-
-Según Plan V, en los últimos 20 meses los gobiernos de **Lasso y Noboa** no han hecho nada para afrontar la **crisis** que se anticipó a principios de 2023. CNEL está inmerso en la **corrupción** y el **burocratismo**, según la misma publicación. Tenía 4.200 trabajadores en 2021 y hoy son 6.322 protegidos por jugosos **contratos colectivos**, mientras los planes de **modernización** de **plantas** y **equipos** quedaron en el olvido.
-
-A estas **alturas** al **gobierno** no le queda más que buscar desesperadamente el **auxilio de Colombia** o los contratos de última hora para adquirir o arrendar **equipos** de **generación**. Pero nada le funciona. **Petro** le **negó** a Noboa la **venta de energía**. La **segunda barcaza** está operando en otro país y los **generadores comprados** o **alquilados no aparecen** por ninguna parte. Las **declaraciones** del presidente son **contradictorias**, su **ministra de Energía encargada** -en el área de vida o muerte del gobierno-trata de **explicar el fracaso y pide paciencia a los ciudadanos**. Pero no se confía en sus **justificaciones** y ofertas. En los últimos días, se ha pretendido **justificar** los **apagones** de 12 horas en la **sequía** y “**mantenimiento programado**”. ¿Creen que los **ciudadanos** son minusválidos mentales?
-
-A lo anterior agréguese la **pobreza** en la **comunicación**, que parece de principiantes o aficionados. El desconcierto en Carondelet se refleja no solamente en la **tragedia eléctrica**. Los **proyectos urgentes** para **crear nuevos impuestos** se envían a la **Asamblea**, se retiran a las pocas horas y se envían nuevamente modificados, lo cual no tiene otra explicación que no sea el **atolondramiento** y unos **servicios jurídicos deficientes.**
-
-Así va el **país** de tumbo en tumbo con una **economía paupérrima** que tiende a miserable mientras se acercan las **elecciones** de febrero, en las que cualquier persona sin preparación, **sin estructura política y sin planes concretos**, se podrá hacer con el poder.
 
 Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz
 ===========================================================================
@@ -716,189 +989,3 @@ _Estos precios no incluyen el 10% de descuento adicional ofrecido recientemente.
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
-
-Lavinia Valbonesi defiende a Daniel Noboa en redes sociales
-===========================================================
-
-Lavinia Valbonesi hace declaraciones a favor de su esposo y presidente Daniel Noboa en medio del ambiente electoral de Ecuador.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Daniel Noboa y Lavinia Valbonesi en el Palacio de Carondelet.](https://www.elcomercio.com/wp-content/uploads/2024/11/lavinia-valbonesi-daniel-noboa.jpg)
-
-**Lavinia Valbonesi** defendió a su esposo y presidente de la República, Daniel Noboa, en sus redes sociales, este martes 12 de noviembre de 2024.
-
-Las declaraciones de Valvonesi se dan en medio del **ambiente electoral** que vive Ecuador, previo a las elecciones generales de febrero de 2025.
-
-### Más noticias:
-
-* [Daniel Noboa designa a Félix Wong como consejero en Colombia](https://www.elcomercio.com/actualidad/politica/daniel-noboa-designa-a-felix-wong-consejero-embajada-colombia.html "Daniel Noboa designa a Félix Wong como consejero en Colombia")
-* [Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic](https://www.elcomercio.com/actualidad/politica/suma-receptara-carpetas-candidatos-presidencia-jan-topic.html "Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic")
-
-Defensa de Lavinia Valbonesi a Daniel Noboa
--------------------------------------------
-
-Lavinia Valbonesi publicó un video en sus **redes sociales** refiriéndose a los ataques en contra de su esposo, el presidente Daniel Noboa, y de ella misma.
-
-“Muchos me dijeron que no me desgastara explicando esto aquí, pero ¿saben qué? Si otros tienen la cara para defender a un poco de ladrones, ¿por qué yo no puedo hablar del hombre que conozco mejor que nadie y que jamás se atrevería a tocar un centavo que no es suyo o hacer algo en contra de los valores que sus padres le enseñaron?”, **señaló Valbonesi, en la introducción a su video.**
-
-La primera dama dijo que desde que asumió la Presidencia de la República su esposo, el presidente Daniel Noboa, ella lo que ha hecho es **mostrar su vida familiar**, su participación en actividades oficiales y “no se ha metido con nadie”.
-
-### Los políticos
-
-“La mayoría de los políticos me tienen siempre en la **punta de la lengua** para atacarme, para criticarme y hacer tantas cosas”, agregó.
-
-“Yo, verdaderamente, estoy harta del **doble discurso** de cientos de personas tratando de atacar a un hombre, que no quiero decir ‘mi esposo’ para que no piensen que lo estoy diciendo como la esposa, sino como la mujer ecuatoriana que ve a un hombre que está luchando por su país”, aseguró.
-
-Lavinia Valbonesi reiteró que el primer mandatario “trabaja incansablemente para sacar adelante al país y a su gente”, y sin esperar nada a cambio, ya que dijo que como **familia** ellos “**tienen más las de perder que de ganar**” y que **nadie se está lucrando** de ningún puesto público.
-
-Sin mencionar el nombre de **Jan Topic**, Valbonesi señaló que le hubiera gustado ver a todas las personas que hoy defienden esa candidatura, defendiendo la participación de su suegro, el empresario Álvaro Noboa, en el 2021.
-
-“¿Dónde está ahí la **democracia**?”, preguntó Valbonesi.
-
-> ### Violencia de género
-
-Lavinia Valbonesi también dijo que ha sufrido violencia de género por parte de **asambleístas electas**, periodistas, candidatos presidenciales a través de _trolls_ y campañas “sucias” con insinuaciones sobre su matrimonio y su familia.
-
-“Yo soy una mujer que puede hablar de **violencia de género**, y me indignan sus dobles discursos y que estén tratando de manchar la imagen de un hombre que lo arriesga todo, todos los días”, indicó.
-
-La primera dama finalizó diciendo que no debería estar haciendo este tipo de pronunciamientos y que las acciones en contra del Gobierno de Noboa provienen de la **vieja política** y buscan engañar a los ecuatorianos.
-
-“Todo cae por su propio peso, y Daniel es un **hombre maravilloso** que va a pelear hasta el final para sacar este país adelante como se lo merece”, concluyó.
-
-ANT cuestiona presunto hackeo a usuarios de la AMT
-==================================================
-
-El director ejecutivo de la ANT, habló sobre el presunto hackeo al sistema Axis 4.0, que, según la AMT, afectó a 38 de sus usuarios.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![La AMT denunció un presunto hackeo a sus contraseñas, entre septiembre y octubre](https://www.elcomercio.com/wp-content/uploads/2024/11/hackeo-amt-ant.jpg)
-
-El director ejecutivo de la **Agencia Nacional de Tránsito** (ANT), César García, cuestionó un presunto **hackeo cibernético** denunciado por la **Agencia Metropolitana de Tránsito** (AMT). La afectación a la **plataforma interoperativa** se habría dado entre septiembre y octubre de 2024.
-
-### Más noticias
-
-* [Conductor casi atropella a agente de tránsito en Cuenca](https://www.elcomercio.com/actualidad/ecuador/coductor-casi-arrolla-agente-transito-cuenca.html "Conductor casi atropella a agente de tránsito en Cuenca")
-* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
-* [Tránsito cambia por nuevo intercambiador en la Occidental desde el 15 de noviembre](https://www.elcomercio.com/actualidad/quito/intercambiador-mariscal-sucre-transito-vehicular.html "Tránsito cambia por nuevo intercambiador en la Occidental desde el 15 de noviembre")
-
-De acuerdo con **Washington Martínez**, director de la AMT, en entrevista con TVC, en estos dos meses se habrían adulterado alrededor de **9 620 trámites**, tras la presunta vulneración del sistema **Axis 4.0.**
-
-La ANT coordina este sistema digital que también lo utilizan otras entidades, para llevar el **control documental** de los vehículos y sus documentos en el país.
-
-El supuesto hackeo, aun en investigación, afectó por lo menos a **38 usuarios de la AMT**.
-
-Martínez confirmó que las contraseñas de los usuarios que habrían sido vulnerados fueron dadas de baja y que los **trámites irregulares** fueron puestos a órdenes de Fiscalía para que se investiguen.
-
-Se habla de al menos **2 000 trámites** de cambios de propietarios de vehículos y duplicados de licencias, entre otros casos[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
-
-El **Director de la AMT** señaló que la vulneración tiene una ‘**huelle digital**‘ que permite identificar su origen.
-
-Además del **sistema de Quito**, otros sistemas de tránsito **también fueron vulnerados,** entre ellos, los de Cayambe, Pedro Moncayo, Rumiñahui, Mejía y algunos en la Costa, señaló el funcionario.
-
-ANT cuestionó presunto hackeo a la AMT
---------------------------------------
-
-**César García** se refirió al presunto hackeo a los usuarios que denunció la AMT. El Director Ejecutivo de la ANT puso en duda de si, justamente, se trató de una vulneración al sistema Axis 4.0 o si hubo un **descuido en el manejo de los accesos** por parte de la entidad metropolitana.
-
-“La ANT entregó las **credenciales** de los usuarios a la AMT para que realicen las transacciones, si ellos tenían que cumplir con la operatividad de los trámites y no lo han hecho, por qué la culpa es nuestra”, mencionó.
-
-Asimismo, el funcionario cree que pudo haber un **mal uso** de la seguridad de las contraseñas de los usuarios.
-
-“Existe un hackeo cuando una autoridad lo determina y hay un **delito**, pero si hubo una **falta de omisión o comisión** porque utilizaron mal las claves, o porque las prestaron, o solo las dejaron apuntadas en un papel debajo de la mesa, ¿**la culpa es de la ANT o del usuario**?”, cuestionó García.
-
-AMT migró datos a otra plataforma
----------------------------------
-
-Luego de esta problemática, la AMT decidió trasladar los datos digitales de los conductores y sus vehículos a un nuevo sistema, el **Axis Cloud**.
-
-“En varias administraciones no pudimos ocupar el Axis Cloud, pero confirmamos con TIC que ya se puede migrar la información a este sistema para tener más **seguridad**“, indicó Washington Martínez.
-
-La nueva plataforma se utiliza en la entidad desde el **lunes 11 de noviembre**.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCPXqdnBkTv/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por TVC Ecuador (@tvcecuador)](https://www.instagram.com/reel/DCPXqdnBkTv/?utm_source=ig_embed&utm_campaign=loading)
-
-Segundo Castillo el mejor DT de la fecha 13 de la Liga Pro
-==========================================================
-
-Barcelona Sporting Club ocupa el tercer lugar en la tabla de la segunda etapa y en la acumulada.
-------------------------------------------------------------------------------------------------
-
-![Segundo Alejandro Castillo, entrenador de Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/11/castillo_dt_1.jpg)
-
-**Segundo Alejandro Castillo** fue elegido como el mejor entrenador de la fecha 13 de la segunda etapa de la Liga Pro, según publicó la tarde de este martes 12 de noviembre de 2024 la Liga Pro en sus redes sociales oficiales.
-
-La designación de **Segundo Alejandro Castillo como el DT de la fecha 13**, se debe a la goleada que Barcelona Sporting Club le propinó a Cumbayá por 8-1 la tarde del domingo 10 en el estadio Monumental de Guayaquil.
-
-### Más noticias:
-
-* [Deportivo Quito ya tiene fecha para enfrentar a Liga de Portoviejo](https://www.elcomercio.com/deportes/futbol/deportivo-quito-ya-tiene-fecha-para-enfrentar-a-liga-de-portoviejo.html "Deportivo Quito ya tiene fecha para enfrentar a Liga de Portoviejo")
-* [¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?](https://www.elcomercio.com/deportes/futbol/que-necesita-liga-de-quito-para-ganar-la-etapa-ligapro.html "¿Qué necesita Liga de Quito para ganar la etapa de la Liga Pro?")
-* [Premier League suspende a árbitro por insultar al Liverpool y Klopp](https://www.elcomercio.com/deportes/futbol/premier-league-suspende-a-arbitro-por-insultar-al-liverpool-klopp.html "Premier League suspende a árbitro por insultar al Liverpool y Klopp")
-
-Allen Obando (2), Janner Corozo (2), **Octavio Rivero (2), Eduard Bello (1) y Cristhian Solano (1)**, con golazo de tiro libre, fueron los autores de los goles del equipo de Segundo Castillo, que sigue invicto en la Liga Pro.
-
-“¡**La aplanadora amarilla de Segundao**!”, fue el mensaje con el que la Liga Pro anunció al entrenador  
-ecuatoriano como el mejor de esta fecha, por delante de nombres como los de Pablo ‘Vitamina’ Sánchez,  
-líder de la tabla con Liga de Quito.
-
-Para el exmundialista con la **Selección de Ecuador en el Mundial Alemania 200**6, fue la segunda vez que se hizo acreedor a este reconocimiento que fecha a fecha otorga la Liga Pro.
-
-La primera vez para el de **San Lorenzo, Esmeraldas, fue en la fecha 10 en la victoria 2-1** ante Emelec en el Clásico del Astillero en el Monumental, con goles de Janner Corozo y Álex ‘El Bicho’ Rangel.
-
-Castillo se mantiene invicto
-----------------------------
-
-En esta nueva etapa como entrenador de Barcelona SC, el **‘Mortero’ Castillo se mantiene invicto** en los cuatro partidos que se sentó en la zona técnica de los guayaquileños.
-
-En la **fecha 10 le ganó 2-1 a Emelec en el Monumental**; en la 11 goleó 4-0 a Delfín, también de local; en la 12 empató 1-1 con Aucas en el Gonzalo Pozo Ripalda; y en la 13 aplastó por 8-1 a Cumbayá en el Monumental.
-
-Otro de los datos destacados es que **lleva anotados 15 goles y recibió tres para tener un gol** diferencia positivo de +12, con lo que mejoró ostensiblemente este ítem de los canarios a la hora de definir su posición final.
-
-Las opciones de ganar la etapa son mínimas para los amarillos. En el calendario tienen por delante la visita a Técnico Universitario en Ambato, y recibir en Guayaquil a Mushuc Runa en la fecha final.
-
-La primera experiencia de **Castillo como DT del ‘Ídolo del Astillero’** fue entre junio y julio de 2023.
-
-En cinco partidos, ganó dos **(vs. Guayaquil City 1-2 y vs. Estudiantes de La Plata 2-1**); empató uno (vs. Cerro Porteño 2-2); y perdió dos (vs. Universidad Católica 1-2 y Palmeiras 4-2).
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/castillo_dt_2-1024x683.jpg)
-
-San viernes
------------
-
-El desagradable error por el que Mattel tuvo que retirar miles de muñecas en EE.UU.
-===================================================================================
-
-La empresa de juguetes cometió una falla insólita que se hizo viral en todo el país.
-------------------------------------------------------------------------------------
-
-![Muñecas de la Mattel inspiradas en la película 'Wicked'.](https://www.elcomercio.com/wp-content/uploads/2024/11/mattel-El-Comercio-1.jpg)
-
-Acorde a lo comunicado por la propia empresa, **Mattel** tuvo que retirar las **muñecas** inspiradas en la [película **Wicked**](https://www.imdb.com/title/tt1262426/ "https://www.imdb.com/title/tt1262426/"), dado que en su caja aparecía el enlace hacia el sitio web de un sitio de películas triple X en lugar de la página oficial del filme, a la cual confundieron con el grupo de cine para adultos llamado Wicked Pictures.
-
-“Mattel fue informada de un error de impresión en el paquete de las **muñecas de la colección Wicked de Mattel**, vendidas principalmente en **Estados Unidos**, que pretendía dirigir a los consumidores a la página de inicio oficial [WickedMovie.com](https://www.wickedmovie.com/ "https://www.wickedmovie.com/")”, informó la compañía a través del comunicado.
-
-### Más noticias
-
-* **[Una Barbie para cada gusto, Mattel expande su menú](https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-menu-inclusion-novedades.html "https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-menu-inclusion-novedades.html")**
-* **[Estas son las dos nuevas muñecas Barbie inclusivas de Mattel](https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-munecas-inclusivas-diversidad.html "https://www.elcomercio.com/tendencias/entretenimiento/barbie-mattel-munecas-inclusivas-diversidad.html")**
-
-Asimismo, agregó: “Lamentamos profundamente este desafortunado error y estamos tomando medidas inmediatas para remediarlo. Se advierte a los padres que el sitio web incorrecto y mal impreso no es apropiado para niños. Se recomienda a los consumidores que ya tienen el producto que desechen el paquete u oculten el enlace y que se comuniquen con el Servicio de atención al cliente de Mattel para obtener más información”.
-
-Ante esta situación, las distintas plataformas que las tenían a la venta tuvieron que adherirse a la medida, y también quitaron de sus productos a estas muñecas, como son los casos de Amazon, Target, Walmart, Best Buy, Barnes & Noble y Macy’s.
-
-¿Qué pasará con las muñecas de Mattel en Estados Unidos?
---------------------------------------------------------
-
-Según informo el sitio CNBC, todavía no se sabe qué sucederá con las **muñecas de Mattel** inspiradas en Wicked en Estados Unidos, dado que la empresa no respondió las preguntas enviadas por el sitio mencionado, por lo que no está esclarecido si las mismas serán reimpresas con el enlace correspondiente.
-
-James Zahn, editor jefe de The Toy Book, dijo allí que “como en cualquier negocio, los errores pueden ocurrir en el negocio de los juguetes”, y opinó que, seguramente, lo sucedido en con las muñecas Mattel “fue un descuido inocente que pasó por los procesos normales”.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBZBN7qPx_7/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de MATTEL (@mattel)](https://www.instagram.com/p/DBZBN7qPx_7/?utm_source=ig_embed&utm_campaign=loading)
-
-**Wicked** es una película próxima a estrenarse en 2024, está protagonizada por Cynthia Erivo como Elphaba y **Ariana Grande** como Glinda, la historia explora los orígenes de estas dos brujas en la Tierra de Oz. Los jóvenes se conocen como estudiantes en la Universidad de Shiz, donde desarrolla una amistad inesperada pero profunda.
-
-Sin embargo, su relación enfrenta desafíos tras un encuentro con el Mago de Oz: Glinda, impulsada por la ambición y el poder, se distancia, mientras que Elphaba, fiel a sí misma y sus principios, desencadena un impacto sorprendente y duradero en su destino. y en el de Oz.
