@@ -54,8 +54,11 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [Black Friday Sale](https://www.womanizer.com/eu/sale)
     
-    * [Premium](https://www.womanizer.com/eu/premium)
     * [Next](https://www.womanizer.com/eu/next)
+    * [Pro / W500](https://www.womanizer.com/eu/w500)
+    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
+    * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
     * [NEW
         
@@ -63,22 +66,19 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
-    * [DUO 2](https://www.womanizer.com/eu/duo2)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
+    * [OG](https://www.womanizer.com/eu/womanizer-og)
+    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
+    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [DUO](https://www.womanizer.com/eu/duo)
+    * [Premium](https://www.womanizer.com/eu/premium)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [NEW
         
         Blend](https://www.womanizer.com/eu/blend)
-    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
-    * [Pro40](https://www.womanizer.com/eu/pro-40)
-    * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
-    * [OG](https://www.womanizer.com/eu/womanizer-og)
-    * [Premium 2 Lilac Special Edition](https://www.womanizer.com/eu/premium2-lilac-special-edition)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
-    * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
-    * [Classic 2 Marilyn Monroe™ Edition](https://www.womanizer.com/eu/marilyn-monroe-special-edition)
-    * [Arcwave Ion](https://www.womanizer.com/eu/arcwave-ion)
-    * [Wave](https://www.womanizer.com/eu/wave-womanizer)
+    * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
