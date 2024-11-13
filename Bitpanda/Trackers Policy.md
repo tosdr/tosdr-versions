@@ -20,13 +20,17 @@ Commodities\*Invest in commodities 24/7](https://www.bitpanda.com/en/invest/bitp
 
 LeverageGo Long or Short on top cryptocurrencies](https://www.bitpanda.com/en/invest/leverage)
 
-Top 5 Cryptocurrencies:[![Bitcoin](https://a.storyblok.com/f/167140/x/6bfae2b6f5/asset-btc.svg)
+Top Cryptocurrencies:[![Bitcoin](https://a.storyblok.com/f/167140/x/6bfae2b6f5/asset-btc.svg)
 
-BitcoinBTC](https://www.bitpanda.com/en/prices/bitcoin-btc)[![](https://a.storyblok.com/f/176646/32x32/1c34769278/asset-shiba-inu.svg)
+BitcoinBTC](https://www.bitpanda.com/en/prices/bitcoin-btc)[![](https://a.storyblok.com/f/176646/32x32/e3e26994c3/asset-eth.svg)
 
-Shiba Inu SHIB](https://www.bitpanda.com/en/prices/shiba-inu-shib)[![](https://a.storyblok.com/f/176646/32x32/e3e26994c3/asset-eth.svg)
+EthereumETH](https://www.bitpanda.com/en/prices/ethereum-eth)[![Solana SOL icon](https://a.storyblok.com/f/176646/135x135/7ad7935213/asset-solana-sol.png "Solana SOL")
 
-EthereumETH](https://www.bitpanda.com/en/prices/ethereum-eth)[![](https://a.storyblok.com/f/176646/32x32/53760d755f/asset-xrp.svg)
+SolanaSOL](https://www.bitpanda.com/en/prices/solana-sol)[![Dogecoin Doge Icon](https://a.storyblok.com/f/176646/36x36/ae9eb22382/asset-dogecoin-doge.svg "Dogecoin Doge")
+
+DogecoinDOGE](https://www.bitpanda.com/en/prices/dogecoin-doge)[![](https://a.storyblok.com/f/176646/32x32/1c34769278/asset-shiba-inu.svg)
+
+Shiba Inu SHIB](https://www.bitpanda.com/en/prices/shiba-inu-shib)[![](https://a.storyblok.com/f/176646/32x32/53760d755f/asset-xrp.svg)
 
 RippleXRP](https://www.bitpanda.com/en/prices/ripple-xrp)[![BEST](https://a.storyblok.com/f/167140/x/45acbc6609/asset-best.svg)
 
@@ -90,13 +94,15 @@ Our Education Platform
 
 [![Bitpanda Academy](https://a.storyblok.com/f/167140/x/02c54ca8da/bitpanda-academy.svg)
 
-Bitpanda AcademyLearn how to invest, all about personal finance, Bitcoin and cryptocurrencies](https://www.bitpanda.com/academy/en/)
+Bitpanda AcademyLearn everything you need to know about personal finance, digital assets, emerging technologies and more.](https://www.bitpanda.com/academy/en/)
 
-[![](https://a.storyblok.com/f/176646/900x507/27c80df548/screenshot-2022-11-17-at-11-14-47.png)
+[![](https://a.storyblok.com/f/176646/3840x2160/22f8824fd3/start-trading-crypto.png)
 
-SECURITYCan a cryptocurrency like Bitcoin get hacked or shut down?](https://www.bitpanda.com/academy/en/lessons/can-a-cryptocurrency-like-bitcoin-get-hacked-or-shut-down/)[![](https://a.storyblok.com/f/176646/901x505/01ad5e0e94/screenshot-2022-11-17-at-11-15-02.png)
+CRYPTOHow to start trading cryptocurrencies](https://www.bitpanda.com/academy/en/lessons/how-to-start-trading-cryptocurrencies)[![](https://a.storyblok.com/f/176646/4167x2500/278190baf1/bitcoin-spot-etf-explained.png)
 
-SECURITYHow can I keep my cryptocurrencies safe?](https://www.bitpanda.com/academy/en/lessons/how-can-i-keep-my-cryptocurrencies-safe/)
+BITCOINBitcoin ETFs explained](https://www.bitpanda.com/academy/en/lessons/bitcoin-etfs-explained)[![](https://a.storyblok.com/f/176646/16000x9000/45ed3ba3ef/bitpanda-academy-expert-13-what-is-staking-in-crypto-header.png)
+
+STAKINGWhat is staking?](https://www.bitpanda.com/academy/en/lessons/what-is-staking)
 
 News, Updates & Stories
 
@@ -104,21 +110,13 @@ News, Updates & Stories
 
 Bitpanda BlogBe the first to learn the latest news, announcements, and stories from the world of investing, cryptocurrencies, stocks and precious metals](https://blog.bitpanda.com/en?utm_referrer=https://www.bitpanda.com)
 
-[![](https://a.storyblok.com/f/176646/280x200/8a5da8caff/blog-nav-thumb3-280x200.jpg)
+[![](https://a.storyblok.com/f/176646/2000x1200/09df7b5a09/bitcoin-all-time-high.png)
 
-BITCOINWhat to know when you are just starting to invest](https://blog.bitpanda.com/en/what-to-know-when-you-are-just-starting-to-invest)[![](https://a.storyblok.com/f/176646/2000x1200/d76ca60235/your-investment-your-assets-why-your-money-is-safe-with-bitpanda-bitpanda-blog-en.png)
+BITCOINBitcoin (BTC) reaches new all time high](https://blog.bitpanda.com/en/bitcoin-btc-reaches-new-all-time-high-whats-driving-growth)[![](https://a.storyblok.com/f/176646/2000x1200/e382042076/invest-zero-deposit-fees.png)
 
-ASSET MANAGEMENTYour investment, your assets: Why your money is safe with Bitpanda](https://blog.bitpanda.com/en/your-investment-your-assets-why-your-money-safe-bitpanda)
+FEESInvest with zero deposit fees](https://blog.bitpanda.com/en/invest-zero-deposit-fees)[![](https://a.storyblok.com/f/176646/2000x1200/327cb5b733/limit_orders.png)
 
-[![Bitpanda blog](https://a.storyblok.com/f/167140/x/2f1bf8296c/bitpanda-blog.svg)
-
-BTC halving 2024 The next Bitcoin halving event is almost here and we have everything you need to understand and prepare for this pivotal moment in crypto history.](https://www.bitpanda.com/en/bitcoin-halving-countdown)
-
-[![](https://a.storyblok.com/f/176646/1920x1080/f238744357/bitpanda-bitcoin-halving-countdown.jpg)
-
-COUNTDOWNBitcoin Halving Countdown 2024](https://www.bitpanda.com/en/bitcoin-halving-countdown)[![](https://a.storyblok.com/f/176646/2100x1260/7ac9e13862/bitpanda-academy-intermediate-22-bitcoin-halving-header-new.jpg)
-
-ACADEMYWhat is the Bitcoin halving?](https://www.bitpanda.com/academy/en/lessons/what-is-a-bitcoin-halving-and-what-happens-on-the-network/)
+LIMIT ORDERSInvest on autopilot with Bitpanda Limit Orders](https://blog.bitpanda.com/en/new-invest-on-autopilot-with-bitpanda-limit-orders)
 
 Business
 
