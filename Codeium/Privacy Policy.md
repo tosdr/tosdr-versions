@@ -2,19 +2,21 @@
 
 [](https://codeium.com/)
 
-Open Product optionsProduct
+Products
+
+Capabilities
+
+Engines
 
 [Pricing](https://codeium.com/pricing)
 
 [Enterprise](https://codeium.com/enterprise)
 
-Open Resources optionsResources
+Resources
 
-[Docs](https://docs.codeium.com/)
+Company
 
-Open Company optionsCompany
-
-[](https://codeium.com/account/login)[Get Codeium](https://codeium.com/download)
+[](https://codeium.com/account/login)[Download](https://codeium.com/download)
 
 Privacy Policy
 ==============
