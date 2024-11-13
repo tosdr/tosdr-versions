@@ -199,11 +199,11 @@ Get in touch with us!
 
 * [Terms of Service](https://clientarea.ramnode.com/tos.php)
 * [Acceptable Use Policy](https://clientarea.ramnode.com/aup.php)
-* [Data Processing Addendum](https://clientarea.ramnode.com/dpa.php)
-* [Privacy Policy](https://clientarea.ramnode.com/privacy.php)
-* [Accessibility Statement](https://clientarea.ramnode.com/accessibility.php)
-* [Do Not Sell My Personal Information](https://clientarea.ramnode.com/do-not-sell.php)
-* [Limit Use of My Sensitive Personal Information](https://clientarea.ramnode.com/cpra.php)
+* [Data Processing Addendum](https://www.inmotionhosting.com/privacy/dpa/)
+* [Privacy Policy](https://www.inmotionhosting.com/privacy/)
+* [Accessibility Statement](https://www.inmotionhosting.com/legal/accessibility-statement/)
+* [Do Not Sell My Personal Information](https://www.inmotionhosting.com/privacy/do-not-sell-my-personal-information/)
+* [Limit Use of My Sensitive Personal Information](https://www.inmotionhosting.com/privacy/limit-use-and-disclosure-of-sensitive-personal-information/)
 
 [](https://clientarea.ramnode.com/index.php)
 
