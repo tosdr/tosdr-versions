@@ -68,7 +68,10 @@ Search   ![Search](/themes/custom/usagov/components/searchbar/images/search--dar
     * [USAGov's mission and history](https://www.usa.gov/mission-history)
     * [Products and programs](https://www.usa.gov/products-programs)
     * [Partner with USAGov](https://www.usa.gov/partner-with-usagov)
-    * [Website policies and notices](https://www.usa.gov/website-policies-and-notices)
+    * current page
+        
+        Website policies and notices
+        
         * [Privacy and security](https://www.usa.gov/privacy)
         * [Accessibility policy](https://www.usa.gov/accessibility)
         * [Linking policy](https://www.usa.gov/linking-policy)
