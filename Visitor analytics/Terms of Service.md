@@ -57,7 +57,7 @@
     * [What Is Digital Experience Analytics? A Complete A-Z Guide](https://www.visitor-analytics.io/en/blog/digital-experience-analytics "What Is Digital Experience Analytics? A Complete A-Z Guide")
     * [Website Intelligence News Roundup October 2024](https://www.visitor-analytics.io/en/blog/website-intelligence-news-roundup-october-2024 "Website Intelligence News Roundup October 2024")
     * [How These 16 Marketing Case Studies Changed the Game](https://www.visitor-analytics.io/en/blog/marketing-case-studies "How These 16 Marketing Case Studies Changed the Game")
-    * [What Is a Compliance Audit? Key Steps & Examples](https://www.visitor-analytics.io/en/blog/compliance-audit "What Is a Compliance Audit? Key Steps & Examples")
+    * [Interview Dr Sindhu Bhaskar Data Strategies Emerging Technologies Financial Services](https://www.visitor-analytics.io/en/blog/interview-dr-sindhu-bhaskar-privacy-data-strategies-in-finance "Interview Dr Sindhu Bhaskar Data Strategies Emerging Technologies Financial Services")
     
 * [Resources](https://www.visitor-analytics.io/en/support)![](/fileadmin/twipla/typo3-website-theme/template/images/icons/down-arrow.svg)
     
