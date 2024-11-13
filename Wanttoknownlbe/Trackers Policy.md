@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/van-de-goddelijke-bron-los/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/2011-en-verder/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
