@@ -48,6 +48,12 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 #### Das könnte dir auch gefallen
 
+[![dunkler Raum mit ganz vielen Kerzen im Herbst](https://faircado.de/wp-content/uploads/2024/11/faizan-OdyMB4IZt3w-unsplash-scaled.jpg)](https://faircado.de/newsletter-archiv/herbstromantik/)
+
+### [Herbstromantik: Ein Liebesbrief an graue Novembertage](https://faircado.de/newsletter-archiv/herbstromantik/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/herbstromantik/)
+
 [![Otto Versandhaus Logo mit unterschiedlichen Produkten](https://faircado.de/wp-content/uploads/2024/11/blog-headers-website-5.png)](https://faircado.de/mag/otto-alternativen/)
 
 ### [Die 13 besten & nachhaltigsten OTTO Alternativen](https://faircado.de/mag/otto-alternativen/)
@@ -96,13 +102,13 @@ Terms and Conditions of the 100€ Voucher Giveaway
 
 [mehr lesen](https://faircado.de/mag/ursula-von-der-leyen/)
 
-[![business woman working from her laptop](https://faircado.de/wp-content/uploads/2024/09/microsoft-365-d3nKNw1ILdM-unsplash-1-scaled.jpg)](https://faircado.de/newsletter-archiv/dress-for-success/)
-
-### [Dress for Success – und den Planeten! 🎩](https://faircado.de/newsletter-archiv/dress-for-success/)
-
-[mehr lesen](https://faircado.de/newsletter-archiv/dress-for-success/)
-
 [Mehr Anzeigen](#)
+
+[![dunkler Raum mit ganz vielen Kerzen im Herbst](https://faircado.de/wp-content/uploads/2024/11/faizan-OdyMB4IZt3w-unsplash-scaled.jpg)](https://faircado.de/newsletter-archiv/herbstromantik/)
+
+### [Herbstromantik: Ein Liebesbrief an graue Novembertage](https://faircado.de/newsletter-archiv/herbstromantik/)
+
+[mehr lesen](https://faircado.de/newsletter-archiv/herbstromantik/)
 
 [![Otto Versandhaus Logo mit unterschiedlichen Produkten](https://faircado.de/wp-content/uploads/2024/11/blog-headers-website-5.png)](https://faircado.de/mag/otto-alternativen/)
 
@@ -115,12 +121,6 @@ Terms and Conditions of the 100€ Voucher Giveaway
 ### [Die 7 besten Alternativen zu Booklooker](https://faircado.de/mag/booklooker-alternativen/)
 
 [mehr lesen](https://faircado.de/mag/booklooker-alternativen/)
-
-[![Amazon Logo mit Produkten, die auf der Seite verkauft werden](https://faircado.de/wp-content/uploads/2024/11/blog-headers-website-3.png)](https://faircado.de/mag/amazon-alternativen/)
-
-### [Die 10 besten & nachhaltigsten Alternativen zu Amazon](https://faircado.de/mag/amazon-alternativen/)
-
-[mehr lesen](https://faircado.de/mag/amazon-alternativen/)
 
 [Mehr Anzeigen](#)
 
