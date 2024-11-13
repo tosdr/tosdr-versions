@@ -186,9 +186,10 @@ Quick Search:
     
     Cooking Calculators
     
+    * [Cooking Converter](https://www.thecalculatorsite.com/cooking/cooking-calculator.php)
+    * [Air Fryer Converter](https://www.thecalculatorsite.com/cooking/air-fryer.php)
     * [Baking Conversions](https://www.thecalculatorsite.com/cooking/baking-conversions.php)
     * [Butter Converter](https://www.thecalculatorsite.com/cooking/sticks-butter.php)
-    * [Cooking Converter](https://www.thecalculatorsite.com/cooking/cooking-calculator.php)
     * [Cups to Grams](https://www.thecalculatorsite.com/cooking/cups-grams.php)
     * [Cups to mL](https://www.thecalculatorsite.com/cooking/cups-ml.php)
     * [Cups to Ounces](https://www.thecalculatorsite.com/cooking/cups-ounces.php)
@@ -196,10 +197,10 @@ Quick Search:
     * [Grams to Cups](https://www.thecalculatorsite.com/cooking/grams-cups.php)
     * [Grams to Ounces](https://www.thecalculatorsite.com/cooking/grams-ounces.php)
     * [Grams to Tablespoons](https://www.thecalculatorsite.com/cooking/grams-tablespoons.php)
-    * [Grams to Teaspoons](https://www.thecalculatorsite.com/cooking/grams-teaspoons.php)
     
      
     
+    * [Grams to Teaspoons](https://www.thecalculatorsite.com/cooking/grams-teaspoons.php)
     * [mL to Grams](https://www.thecalculatorsite.com/cooking/ml-grams.php)
     * [Ounces to mL](https://www.thecalculatorsite.com/cooking/ounces-ml.php)
     * [Ounces to Grams](https://www.thecalculatorsite.com/cooking/ounces-grams.php)
