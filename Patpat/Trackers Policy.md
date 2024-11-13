@@ -755,6 +755,46 @@ This Application uses Trackers to deliver personalized ads or marketing content,
     * \_lgc|XXXXX\_view: indefinite
     * fingerprint: 12 months
     
+* ### Tapad (Tapad, Inc. )
+    
+    Tapad is an advertising service provided by Tapad, Inc. .
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://www.tapad.com/eu-privacy-policy) – [Opt out](https://www.tapad.com/eu-privacy-policy).
+    
+* ### LiveRamp (LiveRamp, Inc.)
+    
+    LiveRamp is an advertising service provided by LiveRamp, Inc.
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://liveramp.uk/privacy/service-privacy-policy/) – [Opt out](https://www.liveramp.com/service-privacy-policy/).
+    
+    Storage duration:
+    
+    * \*CONTENT: indefinite
+    * \*CREATEDAT: indefinite
+    * \*LASTREFRESHTIME: indefinite
+    * \*TYPE: indefinite
+    * \_lr\_drop\_match\_pixel: 1 day
+    * \_lr\_env: 1 year
+    * \_lr\_env\_src\_ats: 1 month
+    * \_lr\_geo\_location: 1 day
+    * \_lr\_retry\_request: 1 hour
+    * idl\_env: 1 month
+    * optout: 11 years
+    * pxrc: 2 months
+    * rlas3: 1 year
+    
+* ### Yeahmobi (Easy Click Worldwide Network Technology Co., Ltd.)
+    
+    Yeahmobi is an advertising service provided by Easy Click Worldwide Network Technology Co., Ltd.
+    
+    Personal Data processed: Trackers and Usage Data.
+    
+    Place of processing: China – [Privacy Policy](https://www.zmaticoo.com/zmaticoo/privacies.html) – [Opt out](https://en.yeahmobi.com/html/privacypolicy/).
+    
 * ### OneSignal (Lilomi, Inc.)
     
     OneSignal is a message sending service provided by Lilomi, Inc.
@@ -1040,7 +1080,7 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to this Application, if not stated otherwise within this document.
 
-Latest update: March 08, 2024
+Latest update: November 13, 2024
 
 [iubenda](https://www.iubenda.com/en/cookie-solution "iubenda - Cookie Policy and Cookie Solution") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
 
