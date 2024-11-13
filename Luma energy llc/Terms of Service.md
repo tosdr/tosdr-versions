@@ -38,7 +38,7 @@
     
 * [About LUMA](https://lumapr.com/about-luma/?lang=en)
     
-    [Our History and Values](https://lumapr.com/about-luma/?lang=en) [LUMA Progress](https://progresodelumapr.com/en/home/) [System Restoration](https://lumapr.com/about-the-restoration-of-the-energy-system/?lang=en) [Safety](https://lumapr.com/safety/?lang=en) [Careers](https://lumapr.com/careers/?lang=en) [Internships Programs](https://lumapr.com/internships-programs/?lang=en) [News](https://lumapr.com/news/?lang=en) [System Operator](https://lumapr.com/system-operator-home/?lang=en)
+    [Our History and Values](https://lumapr.com/about-luma/?lang=en) [LUMA Progress](https://progresodelumapr.com/en/home/) [Safety](https://lumapr.com/safety/?lang=en) [Careers](https://lumapr.com/careers/?lang=en) [Internships Programs](https://lumapr.com/internships-programs/?lang=en) [News](https://lumapr.com/news/?lang=en) [System Operator](https://lumapr.com/system-operator-home/?lang=en)
     
 
 * [Report a service interruption](https://miluma.lumapr.com/outages/outageMap)
@@ -97,7 +97,6 @@
 
 * [Our History and Values](https://lumapr.com/about-luma/?lang=en)
 * [LUMA Progress](https://progresodelumapr.com/en/home/)
-* [System Restoration](https://lumapr.com/about-the-restoration-of-the-energy-system/?lang=en)
 * [Safety](https://lumapr.com/safety/?lang=en)
 * [Careers](https://lumapr.com/careers/?lang=en)
 * [Internships Programs](https://lumapr.com/internships-programs/?lang=en)
