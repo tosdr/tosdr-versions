@@ -425,7 +425,7 @@ Pacifier
 
 [Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/can-a-baby-sleep-with-a-dummy-or-should-i-remove)
 
-[![Illustration showing the composition of breast milk and its nutrients in medela breast breast milk storage bottles](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2123/image-thumb__2123__card/k1_breast_milk_composition.3355ac2a.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/breast-milk-composition-what-s-in-your-breast-milk)
+[![Illustration of the composition of breast milk and its nutrients in Medela breast milk bottles.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2123/image-thumb__2123__card/k1_breast_milk_composition.3355ac2a.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/power-of-breastmilk/breast-milk-composition-what-s-in-your-breast-milk)
 
 Power of Breast Milk
 
@@ -485,7 +485,7 @@ Pumping Tips
 
 [Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/choosing-your-medela-breast-shield-size)
 
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2140/image-thumb__2140__card/ev3_11b-cleaning-and-sanitising.f77484de.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/cleaning-your-breast-pump-equipment)
+[![A mother washes Medela breast milk bottles and lays them on a towel to dry.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2140/image-thumb__2140__card/ev3_11b-cleaning-and-sanitising.f77484de.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pumping-tips/cleaning-your-breast-pump-equipment)
 
 Pumping Tips
 
