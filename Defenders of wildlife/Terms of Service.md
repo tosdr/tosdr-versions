@@ -184,8 +184,6 @@ Thank you!
 
 [Conserving Imperiled Species](https://defenders.org/issues/conserving-imperiled-species)
 
-[Advocating for Species Internationally](https://defenders.org/issues/advocating-species-internationally)
-
 [Protecting Habitat](https://defenders.org/issues/protecting-habitat)
 
 [Promoting Coexistence](https://defenders.org/issues/promoting-coexistence)
