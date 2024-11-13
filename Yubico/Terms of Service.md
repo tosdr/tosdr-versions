@@ -71,17 +71,18 @@ Hardware
 * [Security Key Series](https://www.yubico.com/products/security-key/)
 * [YubiHSM 2 & YubiHSM 2 FIPS](https://www.yubico.com/products/hardware-security-module/)
 
-YubiEnterprise Services
+Services
 
 * [YubiKey as a Service](https://www.yubico.com/products/yubikey-as-a-service/)
 * [YubiEnterprise Delivery](https://www.yubico.com/products/yubienterprise-delivery/)
+* [Yubico Enrollment Suite](https://www.yubico.com/products/yubicoenrollmentsuite/)
+* [YubiCloud](https://www.yubico.com/products/yubicloud/)
 
-Software and Services
+Software and tools
 
 * [Yubico Authenticator](https://www.yubico.com/products/yubico-authenticator/)
 * [Computer login tools](https://www.yubico.com/products/computer-login-tools/)
 * [Software Development Toolkits](https://www.yubico.com/products/software-development-toolkits-sdks/)
-* [YubiCloud](https://www.yubico.com/products/yubicloud/)
 
 Discover the YubiKey
 
