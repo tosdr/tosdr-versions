@@ -739,9 +739,9 @@ Privacy Policy
 Splunk Privacy Statement ("Privacy Policy")
 -------------------------------------------
 
-Updated: September 2024
+Updated: November 2024 
 
-[Download PDF](https://www.splunk.com/content/dam/splunk2/en_us/pdfs/legal/privacy-policy/splunk-privacy-policy-sept-2024.pdf)
+[Download PDF](https://www.splunk.com/content/dam/splunk2/en_us/pdfs/legal/privacy-policy/2024-nov-splunk-privacy-policy.pdf)
 
 This Privacy Policy explains how Splunk LLC and its subsidiaries ("Splunk") collect, use, and disclose information you provide to us or which we otherwise collect (“Information”), including “Personal Data” by which we mean Information about an identified or reasonably identifiable individual.
 
@@ -835,7 +835,7 @@ If we process your Personal Data for other purposes, we will provide you with in
 
 Opting Out of Marketing Emails
 
-If you no longer want to receive marketing emails from Splunk on a go-forward basis, please submit your request through our online [opt-out form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868). Alternatively, you may use the "unsubscribe" feature in our marketing email messages to opt-out of receiving marketing email messages.
+If you no longer want to receive marketing emails from Splunk on a go-forward basis, please submit your request through our online [opt-out form](https://privacyrequest.cisco.com/). Alternatively, you may use the "unsubscribe" feature in our marketing email messages to opt-out of receiving marketing email messages.
 
 Offerings
 
@@ -964,7 +964,7 @@ Minors
 
 Your Rights
 
-In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868), and we will respond as soon as reasonably practicable consistent with applicable law. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
+In certain locations, you may have rights under data protection law, such as to request access to or correction, deletion, or transfer of your Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyrequest.cisco.com/), and we will respond as soon as reasonably practicable consistent with applicable law. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
 
 European Economic Area, the UK, and Switzerland
 
@@ -990,7 +990,7 @@ Individuals located in the UK or European Economic Area are granted certain righ
 * Object to our processing of data about you, including in relation to processing your Personal Data for marketing purposes; and
 * Withdraw consent if processing of your Personal Data is based on consent.
 
-If you or a designated third-party agent would like to exercise these rights, please submit the request through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868ef06-4677-abe2-76e21885543c/af4fad38-c747-473d-ae29-6cb68b0e960c), and we will respond in accordance with our legal obligations. We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request and ask for your cooperation with our identity verification process.  
+If you or a designated third-party agent would like to exercise these rights, please submit the request through our [data request form](https://privacyrequest.cisco.com/), and we will respond in accordance with our legal obligations. We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request and ask for your cooperation with our identity verification process.  
   
 
 **Lawful Basis for Transferring Your Data: Cross-border Transfers**  
@@ -1020,7 +1020,7 @@ If you are a California Consumer, California law provides you with specific righ
 * the right to opt-out of the Sale or Sharing of Personal Information; and
 * the right to non-discrimination for exercising your rights.
 
-If you or a designated third-party agent would like to exercise these rights, please submit the request through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868) or via our toll-free number 1-888-914-9661 PIN #: 587261, and we will respond in accordance with our legal obligations. We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request, and ask for your cooperation with our identity verification process.  
+If you or a designated third-party agent would like to exercise these rights, please submit the request through our data request form or via our toll-free number 1-888-914-9661 PIN #: 587261, and we will respond in accordance with our legal obligations. We will verify your identity, and the identity of any third-party agent acting on your behalf, before we comply with the request, and ask for your cooperation with our identity verification process.  
   
 
 Splunk may collect the following categories of Personal Information from California Consumers for purposes outlined in [How We Use Information Collected from Interactions](#collapseOne_2080325859) and [What We Collect via Our Offerings and How We Use It](#collapseOne_342108531):  
@@ -1049,22 +1049,14 @@ Other U.S. States
 
 #### Other U.S. States with Data Privacy Laws
 
-  
-
 The categories of Personal Data processed, the purposes of processing Personal Data, the categories of Personal Data shared with third parties and the categories of third parties with whom Splunk shares Personal Data are as outlined above.
 
   
-Consumers in US states with privacy laws have privacy rights, such as to request access to or correction, deletion, or transfer of their Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you, or a person you have authorized, would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/e848e839-52fe-499e-9c0f-03c97a46f868), and we will respond in accordance with our legal obligations. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
-
-  
+Consumers in US states with privacy laws have privacy rights, such as to request access to or correction, deletion, or transfer of their Personal Data, or to object to or restrict Splunk from using it for certain purposes. If you, or a person you have authorized, would like to exercise these rights, please submit your request, with a description of the nature of your request and the Personal Data at issue, through our [data request form](https://privacyrequest.cisco.com/), and we will respond in accordance with our legal obligations. We will verify your identity before we comply with your request and ask for your cooperation with our identity verification process.
 
 In the event Splunk declines to take action on your request, we will respond with the legally-required information, including where applicable instructions for how to submit your appeal. Once an appeal is received, Splunk will respond to the appeal in compliance with applicable law.
 
-  
-
 Splunk does not sell your Personal Data. Splunk will seek your consent for use of cookies that are not strictly necessary and you can select which cookies to enable. If you wish to change previously selected cookie preferences, please consult the [Splunk Cookie Policy](https://www.splunk.com/en_us/legal/splunk-cookie-policy.html).
-
-  
 
 If you have any questions or concerns about Splunk’s privacy practices, you can contact us at any time via the contact options listed under [Contact Splunk](https://www.splunk.com/en_us/legal/privacy-policy.html#collapseOne_228357674) below.  
 
@@ -1088,7 +1080,7 @@ We may change this Privacy Policy from time to time and will post our updates [h
 
 Contact Splunk
 
-If you have any questions or comments about this Privacy Policy, you can contact us at any time at [dpo@splunk.com](mailto:dpo@splunk.com) or by mail as provided below:  
+If you have any questions or comments about this Privacy Policy, you can contact us at any time via our [request form](https://privacyrequest.cisco.com/) or by mail as provided below:  
   
 
 **Chief Privacy Officer  
@@ -1097,14 +1089,10 @@ If you have any questions or comments about this Privacy Policy, you can contact
 San Jose, CA 95134 USA  
   
 
-  
-
 **Americas Privacy Officer  
 **Cisco Systems, Inc.  
 170 West Tasman Dr.  
 San Jose, CA 95134 USA  
-  
-
   
 
 **Europe, Middle East, and Africa (EMEA) Privacy Officer  
@@ -1124,9 +1112,9 @@ Additional forms and notices
 
 [Data Privacy Framework Notice](https://www.splunk.com/en_us/legal/data-privacy-framework.html)
 
-[Data Request Form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/af4fad38-c747-473d-ae29-6cb68b0e960c)
+[Data Request Form](https://privacyrequest.cisco.com/)
 
-[Opt-out Form](https://privacyportal.onetrust.com/webform/7ee24406-ef06-4677-abe2-76e21885543c/13084112-5a8b-4e7b-bba4-d2a1c0e6ca33)
+[Opt-out Form](https://privacyrequest.cisco.com/)
 
  
 
