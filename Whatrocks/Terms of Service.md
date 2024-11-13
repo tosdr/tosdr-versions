@@ -972,6 +972,6 @@ If we waive any of our rights in any particular instance, it does not mean that 
 
 [](https://www.instagram.com/whatrocksapp/)[](https://www.facebook.com/WhatRocksApp/)[](http://www.youtube.com/@whatrocksapp)[](https://www.linkedin.com/company/whatrocks)
 
-[Terms of Use](https://www.whatrocks.co/en/terms-of-use) - [Community Guidelines](https://www.whatrocks.co/en/community-guidelines) - [Privacy policy](https://www.whatrocks.co/en/privacy-policy) - [Cookie policy](https://www.whatrocks.co/en/cookie-policy) - [Download on Android](https://www.whatrocks.co/en/whatrocks-for-android-google-play-store)
+[Terms of Use](https://www.whatrocks.co/en/terms-of-use) - [Community Guidelines](https://www.whatrocks.co/en/community-guidelines) - [Privacy policy](https://www.whatrocks.co/en/privacy-policy) - [Cookie policy](https://www.whatrocks.co/en/cookie-policy)
 
 [Back to Top](#header)
