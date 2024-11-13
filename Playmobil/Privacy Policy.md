@@ -64,7 +64,7 @@ Menu
         
     
 * [PLAYMOBIL PLUS](https://www.playmobil.com/en-us/web-shop/playmobil-plus/)
-* [Offers](https://www.playmobil.com/en-us/web-shop/sale/)
+* [Gift ideas](https://www.playmobil.com/en-us/gift-ideas/gift-ideas.html)
 
 [](https://www.playmobil.us/en-us/wishlist/)
 
