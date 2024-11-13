@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/thinking-bad-girls/frame-iz-videa-iza-pozornic.jpg?itok=GrOlnOBU)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/thinking-bad-girls)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/olga-jancic/skulpture/ostali-radovi/plod1.jpg?itok=3PavwP8j)](http://seecult.org/galerija/galerija-umetnika/olga-jancic/skulpture/ostali-radovi)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/art-music-001.jpg?itok=YVv_lL7k)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nadrealisti-andrebreton.jpg?itok=DO6yoWVL)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +444,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Mladi autori i velikani na 30. FAF-u](http://seecult.org/vest/mladi-autori-i-velikani-na-30-faf-u)
+* [Finale takmičenja Andrija Čikić](http://seecult.org/vest/finale-takmicenja-andrija-cikic)
 * [Ukrajina – ljubav + rat, 2014-2024](http://seecult.org/vest/ukrajina-ljubav-rat-2014-2024)
 * [Ćutanje je zlato](http://seecult.org/vest/cutanje-je-zlato-0)
 * [Big Bend RTS i Erik van Lir u slavu Herbolzhajmera](http://seecult.org/vest/big-bend-rts-i-erik-van-lir-u-slavu-herbolzhajmera)
@@ -452,8 +454,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Dragani Mladenović uručena nagrada Milica Stojadinović Srpkinja](http://seecult.org/vest/dragani-mladenovic-urucena-nagrada-milica-stojadinovic-srpkinja)
 * [20 godina Foruma slovenskih kultura](http://seecult.org/vest/20-godina-foruma-slovenskih-kultura)
 * [Pobednici 20. Slobodne zone](http://seecult.org/vest/pobednici-20-slobodne-zone)
-* [Festival evropske drame u BDP-u, u fokusu snovi](http://seecult.org/vest/festival-evropske-drame-u-bdp-u-u-fokusu-snovi)
-* [(Ne)mogućnost prijateljstva ideoloških neistomišljenika](http://seecult.org/vest/nemogucnost-prijateljstva-ideoloskih-neistomisljenika)
 
 * [Konkursi](#tab1_1)
 
