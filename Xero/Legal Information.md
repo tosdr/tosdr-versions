@@ -241,11 +241,11 @@ Footer
 
 ### Compare
 
-* [Xero vs MYOB](https://www.xero.com/au/explore/myob-alternative/)
+* [Xero vs MYOB](https://www.xero.com/au/versus/myob-alternative/)
     
-* [Xero vs Hnry](https://www.xero.com/au/explore/hnry-alternative/)
+* [Xero vs Hnry](https://www.xero.com/au/versus/hnry-alternative/)
     
-* [Xero vs Reckon](https://www.xero.com/au/explore/reckon-alternative/)
+* [Xero vs Reckon](https://www.xero.com/au/versus/reckon-alternative/)
     
 * [Xero vs Quickbooks](https://www.xero.com/au/explore/quickbooks-alternative/)
     
