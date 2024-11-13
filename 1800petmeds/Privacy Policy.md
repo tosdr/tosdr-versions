@@ -7,9 +7,9 @@ We’re sorry, but our website doesn’t work properly without JavaScript enable
 New Customers Save 40% With Autoship:  
 Use Code: NEW40 (Up to $30 Max Savings. [Exclusions Apply](https://www.1800petmeds.com/tc.html).)
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw5c4f4ae9/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwd364b2f0/images/petmeds-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
-Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwffa3d47d/images/close-icon.svg)
+Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw65b35530/images/close-icon.svg)
 
 ### Popular Searches
 
@@ -34,13 +34,13 @@ Products Education  ![altText](/on/demandware.static/Sites-1800petmeds-Site/-/de
 * [Cart 0](https://www.1800petmeds.com/cart "Cart")
     
 
-[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwf06fc1b0/images/petmeds-mobile-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
+[![PetMeds](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb9dbd48b/images/petmeds-mobile-logo.svg)](https://www.1800petmeds.com/ "PetMeds Home")
 
-[![Sign In](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw64f06eea/images/profile.svg)](https://www.1800petmeds.com/login)
+[![Sign In](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw5ce5fc20/images/profile.svg)](https://www.1800petmeds.com/login)
 
 [Cart 0](https://www.1800petmeds.com/cart "Cart")
 
-![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwffa3d47d/images/close-icon.svg)
+![altText](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw65b35530/images/close-icon.svg)
 
 Products Education 
 
@@ -502,7 +502,7 @@ Prior to honoring your request, the Company will make a reasonable attempt to ve
 
 Last updated February 13, 2024
 
-[![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw1aae0b5d/images/top-icon.svg)](#top-of-page)
+[![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dw93b8f2df/images/top-icon.svg)](#top-of-page)
 
 Contact Us
 ----------
@@ -574,7 +574,7 @@ Please provide a valid email Id
 
 \*By completing this form you are signing up to receive our emails and can unsubscribe at any time.
 
-![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwf2d0a052/images/email-entry.svg)
+![](/on/demandware.static/Sites-1800petmeds-Site/-/default/dwb7ba12cb/images/email-entry.svg)
 
  [![Join us on Facebook, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw2c32a907/images/icon_facebook.png)](https://www.facebook.com/PetMeds)[![Join us on Linked In, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw259d4b5c/images/icon_linkedin.png)](https://www.linkedin.com/company/1800petmeds)[![Join us on TikTok, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dwbf2c7a29/images/icon_tiktok.png)](https://tiktok.com/@petmeds)[![Follow us on Instagram, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw1289ab83/images/icon_instagram.png)](https://www.instagram.com/petmeds/)[![Join us on Youtube, Opens in New Window](https://www.1800petmeds.com/on/demandware.static/-/Sites-1800petmeds-Library/default/dw4553ad8d/images/icon_youtube.png)](https://www.youtube.com/petmeds)
 
