@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, November 12, 2024**
+**Wednesday, November 13, 2024**
 
-**...Patchy to Locally Dense Fog to Dissipate and Lift By the Mid-Morning Hours...Isolated to Scattered Showers Along Western Panhandle...Spotty Showers Along North Florida and the East Coast Throughout the Day...Breezy Winds to Develop Across Southeast Florida and Keys Late this Afternoon...Weak Frontal Boundary To Push Southward Throughout the Day...Mostly Dry Conditions to Return Tonight...Minor to Moderate Flooding Is Ongoing Along Portions of the Withlacoochee and St. Johns Rivers; Portions of Rivers Falling Below Flood Stage...NHC Monitoring Disturbance Western Caribbean Over Next 7 Days (80%)...**
+**...Strong High Pressure Over Northeast U.S. Bringing Breezy Wind Gusts Statewide This Afternoon...Spotty to Isolated Showers for East Coast...Frontal System Bringing Scattered Showers Late Today Across Western Panhandle, Then More Scattered Showers and Thunderstorms Overnight...Severe Weather Not Exepected But Could See Locally Strong Thunderstorm or Two; Gusty Winds and Heavy Rainfall...Localized Flooding Cannot Be Ruled Out Along Far Western Panhandle...High Risk for Rip Currents Persists Along Panhandle and East Coast With Breezy Winds and Dangerous Ocean Swells...Minor Coastal Flooding Returns for Portions of East Coast and Keys as King Tides and Onshore Winds Persist...Minor to Moderate Flooding Along Withlaocoochee and Minor Flooding for St. Johns River at Astor...NHC Monitoring Disturbance Within Central and Western Caribbean With High (90%) Chance for Development Through Next 7 Days...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
