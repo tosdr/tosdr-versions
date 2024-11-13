@@ -152,6 +152,7 @@ Menu
     * [PFAS Chemicals](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas/)
     * [PFAS and Cancer](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/pfas-cancer/)
     * [U.S. Military Exposure](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/military-exposure/)
+    * [AFFF Lawyers](https://www.sokolovelaw.com/personal-injury/workplace/chemical-exposure/firefighting-foam/lawyer/)
     
     * [Medical Malpractice](https://www.sokolovelaw.com/personal-injury/medical-malpractice/)
     * [Failure to Diagnose](https://www.sokolovelaw.com/personal-injury/medical-malpractice/failure-to-diagnose/)
