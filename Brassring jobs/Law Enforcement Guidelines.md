@@ -134,8 +134,6 @@ Close Job share dialog.
 
 Featured Job Allows Referral
 
-Read Job Details
-
 View application statusView your applications {{tgSettings.JobDetailsApplyButtonText}} Easy Apply
 
 Save {{jobDetailsButtonText}} Refer Show related jobs
@@ -229,6 +227,8 @@ Loading
 
 {{tgSettings.SearchResultsApplyToJobButtonText}} Save {{sendToFriendButtonText}} Refer
 
+﻿
+
 Back
 
 You have already applied for this job. [Check application statusCheck your applications.](#)
@@ -250,8 +250,6 @@ Job share URL  Copy Job URL
 Close Job share dialog.
 
 Featured Job Allows Referral
-
-Read Job Details
 
 Job Details | H&R Block
 =======================
