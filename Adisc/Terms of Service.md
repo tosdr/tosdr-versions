@@ -20,7 +20,7 @@
     
 * About ADISC
     
-    [Community Rules](https://www.adisc.org/forum/threads/the-rules.697/) [Introduction & FAQs](https://www.adisc.org/forum/threads/adisc-introduction-faq.1926/) [Other Guides](https://www.adisc.org/forum/forums/about-adisc.52/)
+    [Community Rules](https://www.adisc.org/forum/threads/the-rules.697/) [Introduction & FAQs](https://www.adisc.org/forum/threads/adisc-introduction-faq.1926/) [Leveling Up on ADISC](https://www.adisc.org/forum/threads/leveling-up-on-adisc.131782/) [Other Rules & Policies](https://www.adisc.org/forum/forums/rules-policies.69/) [Other Articles About ADISC](https://www.adisc.org/forum/forums/about-adisc.52/)
     
 
 [Log in](https://www.adisc.org/forum/login/) [Register](https://www.adisc.org/forum/login/register)
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1731437076) [LinkedIn](#_xfUid-1-1731437076) [Reddit](#_xfUid-1-1731437076) [Pinterest](#_xfUid-1-1731437076) [Tumblr](#_xfUid-1-1731437076) [WhatsApp](#_xfUid-1-1731437076) [Email](#_xfUid-1-1731437076) [Share](#_xfUid-1-1731437076) [Link](#_xfUid-1-1731437076)
+[X (Twitter)](#_xfUid-1-1731458658) [LinkedIn](#_xfUid-1-1731458658) [Reddit](#_xfUid-1-1731458658) [Pinterest](#_xfUid-1-1731458658) [Tumblr](#_xfUid-1-1731458658) [WhatsApp](#_xfUid-1-1731458658) [Email](#_xfUid-1-1731458658) [Share](#_xfUid-1-1731458658) [Link](#_xfUid-1-1731458658)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731437076%2C000c71973d7bf5163e56ee417b291cd4) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731437076%2C000c71973d7bf5163e56ee417b291cd4)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731458658%2C3e315c12087377eb57b3266333f1a68e) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731458658%2C3e315c12087377eb57b3266333f1a68e)
     
     * Essential cookies
     
