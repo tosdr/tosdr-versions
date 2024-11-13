@@ -6,7 +6,9 @@ Platform
 
 Create
 
-[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[Video Editing](https://www.synthesia.io/features#video-editing)[Video Templates](https://www.synthesia.io/video-templates)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)[All Features](https://www.synthesia.io/features)
+[AI Avatars](https://www.synthesia.io/features/avatars)[AI Voices](https://www.synthesia.io/features/languages)[Video Editing](https://www.synthesia.io/features#video-editing)[AI Dubbing
+
+New](https://www.synthesia.io/features/ai-dubbing)[Custom AI Avatars](https://www.synthesia.io/features/custom-avatar)[All Features](https://www.synthesia.io/features)
 
 Collaborate
 
@@ -22,7 +24,7 @@ Share
 
 The #1 AI Video Platform
 
-Explore all the Syntehsia features to easily produce your training, marketing and internal videos.
+Explore all the Synthesia features to easily produce your training, marketing and internal videos.
 
 Explore all features](https://www.synthesia.io/features)
 
@@ -38,7 +40,9 @@ Solutions
 
 [Learning & Development](https://www.synthesia.io/learning-and-development)[Sales Enablement](https://www.synthesia.io/sales-enablement)[Marketing](https://www.synthesia.io/marketing)
 
-[Information Technology](https://www.synthesia.io/information-technology)[Customer Service](https://www.synthesia.io/customer-service)[Business Operations](https://www.synthesia.io/business-operations)
+[Information Technology](https://www.synthesia.io/information-technology)[AI Dubbing
+
+New](https://www.synthesia.io/features/ai-dubbing)[Business Operations](https://www.synthesia.io/business-operations)
 
 [![](https://cdn.prod.website-files.com/65e89895c5a4b8d764c0d710/6627895b47979d86be56c416_features-card-case-study.webp)
 
@@ -451,7 +455,7 @@ Synthesia Ltd, Synthesia, Kent House, 14-17 Market Place, London, W1W 8AJ, Unite
 
 Features
 
-[All Features](https://www.synthesia.io/features)[230+ Video Avatars](https://www.synthesia.io/features/avatars)[140+ Languages](https://www.synthesia.io/features/languages)[60+ Video Templates](https://www.synthesia.io/video-templates)[Custom Avatars](https://www.synthesia.io/features/custom-avatar)[Free AI Video Generator](https://www.synthesia.io/#free-ai-video)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[AI Voice Generator](https://www.synthesia.io/features/ai-voice-generator)[AI Voice Cloning](https://www.synthesia.io/features/ai-voice-cloning)[AI Screen Recorder](https://www.synthesia.io/features/ai-screen-recorder)[Text to Video](https://www.synthesia.io/features/text-to-video)[Script to Video](https://www.synthesia.io/tools/script-to-video-maker)[Synthesia Tools](https://www.synthesia.io/tools)[AI Script Generator](https://www.synthesia.io/features/ai-script-generator)[Video Translator](https://www.synthesia.io/features/video-translator)
+[All Features](https://www.synthesia.io/features)[230+ Video Avatars](https://www.synthesia.io/features/avatars)[140+ Languages](https://www.synthesia.io/features/languages)[60+ Video Templates](https://www.synthesia.io/video-templates)[Custom Avatars](https://www.synthesia.io/features/custom-avatar)[Studio Avatars](https://www.synthesia.io/features/custom-avatar/studio)[Free AI Video Generator](https://www.synthesia.io/#free-ai-video)[AI Video Editor](https://www.synthesia.io/tools/ai-video-editor)[AI Voice Generator](https://www.synthesia.io/features/ai-voice-generator)[AI Voice Cloning](https://www.synthesia.io/features/ai-voice-cloning)[AI Screen Recorder](https://www.synthesia.io/features/ai-screen-recorder)[Text to Video](https://www.synthesia.io/features/text-to-video)[Script to Video](https://www.synthesia.io/tools/script-to-video-maker)[Synthesia Tools](https://www.synthesia.io/tools)[AI Script Generator](https://www.synthesia.io/features/ai-script-generator)[Video Translator](https://www.synthesia.io/features/video-translator)
 
 Use Cases
 
