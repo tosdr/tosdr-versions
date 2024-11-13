@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 08, 2024
+November 12, 2024
 
-American president, global impact
+History’s real front lines
 
-Donald Trump will significantly shape where the world goes from here. America’s influence is no longer what it once was, for better or worse, but the country remains the globe’s most influential force.Between migration and war, the world faces its most urgent challenges since the Cold War. Today, a team led by the Monitor’s Ryan Lenora Brown looks at six families whose lives Mr. Trump could well change. Some are worried; some are optimistic. All hope for better. Together, they are a portrait of how the American presidency touches parents and children around the world.
+We hear a lot about the world’s direction-setters, and about those around them who clamor for influence. But lived human history plays out humbly, mostly at ground level, sometimes literally in the trenches.Today, Dominique Soguel reports on the rise of wartime literature in Ukraine. Warriors’ undiluted words, whether in poetry or prose, can offer powerful authenticity. They might also help preserve an identity that some would erase.“Who will speak when the guns fall silent?” asks one Ukrainian soldier. “Whose voices will continue to be heard?”
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
