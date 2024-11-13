@@ -34,7 +34,7 @@ icon-X Close menu
         
     
 * [Call Us: 888-404-1724](tel:888-404-1724)
-* [Check Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
+* [Check Order Status](https://www.perfectsleepchair.com/pages/contact)
 * [Log in](https://www.perfectsleepchair.com/account)
     
 
@@ -101,7 +101,7 @@ Your cart is currently empty.
     [Incontinence Care](https://www.perfectsleepchair.com/products/adult-incontinence-disposal-system)
     
 * [Call Us: 888-404-1724](tel:888-404-1724)
-* [Check Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
+* [Check Order Status](https://www.perfectsleepchair.com/pages/contact)
 
 [account Log in](https://www.perfectsleepchair.com/account) [icon-search Search](https://www.perfectsleepchair.com/search) icon-hamburger Site navigation [Cart](https://www.perfectsleepchair.com/cart)
 
@@ -802,7 +802,7 @@ How Can We Help You?
 How Can We Help You?
 
 * [Phone Sales: Call 1-888-404-1724](tel:18884041724)
-* [Check Order Status](https://www.perfectsleepchair.com/pages/order-tracking)
+* [Check Order Status](https://www.perfectsleepchair.com/pages/contact)
 * [Sign In](https://www.perfectsleepchair.com/account/login)
 * [Shipping & Delivery](https://www.perfectsleepchair.com/pages/shipping-delivery)
 * [Warranty](https://www.perfectsleepchair.com/pages/warranty)
@@ -817,7 +817,7 @@ Get in Touch
 Get in Touch
 
 * [Customer Service: 1-800-958-8324](tel:18009588324)
-* [Email Customer Service](mailto:CS@shopjourney.com)
+* [Email Customer Service](https://www.perfectsleepchair.com/pages/contact)
 * [**Sales hours:**](#)
 * [M-F 9am - 7pm EST  
     Sat 10am - 6pm EST  
