@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Dignity
+
+### A ride for freedom in China](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1113/A-ride-for-freedom-in-China "A ride for freedom in China")
+
+[Innovation
+
+### Abandoned ‘ghost gear’ kills sea life. A Myanmar nonprofit is turning the tide.](https://www.csmonitor.com/World/Making-a-difference/2024/1113/myanmar-ocean-project-marine-conservation "Abandoned ‘ghost gear’ kills sea life. A Myanmar nonprofit is turning the tide.")
+
 [Balance
 
 ### Europe’s path for a just migration](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1112/Europe-s-path-for-a-just-migration "Europe’s path for a just migration")
-
-[Creativity
-
-### They took up arms to fight Russia. They’ve taken up pens to express themselves.](https://www.csmonitor.com/World/Europe/2024/1112/ukraine-war-russia-poetry-prose-literature-book-fair "They took up arms to fight Russia. They’ve taken up pens to express themselves.")
-
-[Community
-
-### ‘Circling the drain.’ How one Georgia veteran fought off homelessness.](https://www.csmonitor.com/USA/Society/2024/1111/veterans-day-va-homeless-georgia "‘Circling the drain.’ How one Georgia veteran fought off homelessness.")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### They took up arms to fight Russia. They’ve taken up pens to express themselves.](https://www.csmonitor.com/World/Europe/2024/1112/ukraine-war-russia-poetry-prose-literature-book-fair "They took up arms to fight Russia. They’ve taken up pens to express themselves.")
+[### In Lebanon, Hezbollah pays high political cost for its war with Israel](https://www.csmonitor.com/World/Middle-East/2024/1113/hezbollah-israel-lebanon-politics-christians-shiites "In Lebanon, Hezbollah pays high political cost for its war with Israel")
 
-[### ‘Circling the drain.’ How one Georgia veteran fought off homelessness.](https://www.csmonitor.com/USA/Society/2024/1111/veterans-day-va-homeless-georgia "‘Circling the drain.’ How one Georgia veteran fought off homelessness.")
+[### A British ‘culture warrior’? Kemi Badenoch sets Conservatives on populist path.](https://www.csmonitor.com/World/Europe/2024/1113/kemi-badenoch-conservative-uk-british-woke-culture-war "A British ‘culture warrior’? Kemi Badenoch sets Conservatives on populist path.")
 
-[### Ukrainian drones strike Moscow as Russia looks toward Trump’s presidency](https://www.csmonitor.com/World/Europe/2024/1110/ukraine-drone-attack-moscow-russia-trump-peace-talks "Ukrainian drones strike Moscow as Russia looks toward Trump’s presidency")
+[### Florida residents ramp up efforts to pull ‘sexually explicit’ books from school shelves](https://www.csmonitor.com/USA/2024/1113/Florida-banned-books-school-libraries-Angelou-Morrison "Florida residents ramp up efforts to pull ‘sexually explicit’ books from school shelves")
 
 * * *
 
