@@ -299,6 +299,22 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://cdn.er.ru/media/news/November2024/OcAELtOB82iqZZiQB58e-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
+
+[«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#помощьдетям](https://er.ru/activity/news?tags%5B0%5D=134046)
+
+Сегодня 09:22
+
+[![О проекте федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/uKgqA7NDMa0ob6VYN6ts-small.jpg)](https://er.ru/activity/news/o-proekte-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
+
+[О проекте федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/o-proekte-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
+
+Сегодня 09:00
+
 [![Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://cdn.er.ru/media/news/November2024/o24euMPk1AWr0ziz6HtP-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
 
 [Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
@@ -328,22 +344,6 @@
 [Госдума приняла закон «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
 
 [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
-
-12.11.24
-
-[![Владимир Якушев: В волгоградской школе №7 созданы все условия для комфортного обучения и самореализации ребят](https://cdn.er.ru/media/news/November2024/QScg9aBmDLALzKffAOhf-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-v-volgogradskoj-shkole-7-sozdany-vse-usloviya-dlya-komfortnogo-obucheniya-i-samorealizacii-rebyat)
-
-[Владимир Якушев: В волгоградской школе №7 созданы все условия для комфортного обучения и самореализации ребят](https://er.ru/activity/news/vladimir-yakushev-v-volgogradskoj-shkole-7-sozdany-vse-usloviya-dlya-komfortnogo-obucheniya-i-samorealizacii-rebyat)
-
-[#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#школы](https://er.ru/activity/news?tags%5B0%5D=121418) [#капремонт](https://er.ru/activity/news?tags%5B0%5D=5616)
-
-12.11.24
-
-[![Алёна Аршинова: При капремонте школ необходимо предусматривать площади для реализации проекта «Лица Героев»](https://cdn.er.ru/media/news/November2024/xHeynmWt6ilZ2DrQFrzF-small.JPG)](https://er.ru/activity/news/alena-arshinova-pri-kapremonte-shkol-neobhodimo-predusmatrivat-ploshadi-pod-realizaciyu-proekta-lica-geroev)
-
-[Алёна Аршинова: При капремонте школ необходимо предусматривать площади для реализации проекта «Лица Героев»](https://er.ru/activity/news/alena-arshinova-pri-kapremonte-shkol-neobhodimo-predusmatrivat-ploshadi-pod-realizaciyu-proekta-lica-geroev)
-
-[#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#героиВОВ](https://er.ru/activity/news?tags%5B0%5D=114356) [#Аршинова](https://er.ru/activity/news?tags%5B0%5D=3886) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Новаяшкола](https://er.ru/activity/news?tags%5B0%5D=1090067) [#ЛицаГероев](https://er.ru/activity/news?tags%5B0%5D=1093607)
 
 12.11.24
 
