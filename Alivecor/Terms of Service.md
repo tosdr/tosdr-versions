@@ -1,5 +1,3 @@
-[SALE: Get $20 off KardiaMobile 6L with code FALL2024 | Shop Now](https://store.kardia.com/products/kardiamobile6l)
-
 [](https://kardia.com/)
 
 * [Devices](javascript:void(0);)
