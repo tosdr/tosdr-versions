@@ -63,7 +63,7 @@ Tel: (+32) 56 33 08 35
 Conditions Générales de Vente
 =============================
 
-[Accueil](https://e2essentialelements.com/) / Conditions Générales de Vente
+[Home](https://e2essentialelements.com/) / Conditions Générales de Vente
 
 [1\. Champ d’application](#1) | [2\. Clients et commandes](#2) | [3\. Conclusion du contrat](#3) | [4\. Prix et frais de transport](#4) | [5\. Conditions de paiement](#5) | [6\. Livraisons et délais](#6) | [7\. Clause d’auto livraison](#7) | [8\. Réserve de propriété](#8) | [9\. Révocation et instructions](#9) | [10\. Responsabilité pour défauts](#10) | [11\. Responsabilité](#11) | [12\. SAV et réclamations](#12) | [13\. Résolution des litiges](#13) | [14\. Droit applicable](#14)
 
