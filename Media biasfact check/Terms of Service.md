@@ -73,7 +73,7 @@
 
 MBFC News
 
-* [November 13, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/13/media-news-daily-top-stories-for-11-12-2024-2/ "Media News Daily: Top Stories for 11/12/2024")
+* [November 13, 2024 | Media News Daily: Top Stories for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/media-news-daily-top-stories-for-11-12-2024-2/ "Media News Daily: Top Stories for 11/13/2024")
 * [November 13, 2024 | MBFC’s Daily Vetted Fact Checks for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/mbfcs-daily-vetted-fact-checks-for-11-13-2024/ "MBFC’s Daily Vetted Fact Checks for 11/13/2024")
 * [November 12, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/media-news-daily-top-stories-for-11-12-2024/ "Media News Daily: Top Stories for 11/12/2024")
 * [November 12, 2024 | MBFC’s Daily Vetted Fact Checks for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/mbfcs-daily-vetted-fact-checks-for-11-12-2024/ "MBFC’s Daily Vetted Fact Checks for 11/12/2024")
@@ -151,6 +151,26 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Environmental Evidence Journal – Bias and Credibility](https://mediabiasfactcheck.com/environmental-evidence-journal-bias/)
+    
+    November 13, 2024
+    
+* [ScheerPost – Bias and Credibility](https://mediabiasfactcheck.com/scheerpost-bias-and-credibility/)
+    
+    November 13, 2024
+    
+* [Save Us Now (SUN) – Bias and Credibility](https://mediabiasfactcheck.com/save-us-now-sun-bias-and-credibility/)
+    
+    November 13, 2024
+    
+* [Copper Country News – Bias and Credibility](https://mediabiasfactcheck.com/copper-country-news-bias/)
+    
+    November 13, 2024
+    
+* [St. Marys Evening Leader – Bias and Credibility](https://mediabiasfactcheck.com/st-marys-evening-leader-bias/)
+    
+    November 13, 2024
+    
 * [SarahWestall.com – Bias and Credibility](https://mediabiasfactcheck.com/sarahwestall-com-bias-and-credibility/)
     
     November 12, 2024
@@ -163,48 +183,28 @@ No related posts.
     
     November 12, 2024
     
-* [North Pocono News – Bias and Credibility](https://mediabiasfactcheck.com/north-pocono-news-bias/)
-    
-    November 12, 2024
-    
-* [Salisbury Review – Bias and Credibility](https://mediabiasfactcheck.com/salisbury-review-bias-and-credibility/)
-    
-    November 11, 2024
-    
-* [Public Interest Research Group (PIRG) – Bias and Credibility](https://mediabiasfactcheck.com/public-interest-research-group-pirg-bias-and-credibility/)
-    
-    November 11, 2024
-    
-* [Research Co. – Bias and Credibility](https://mediabiasfactcheck.com/research-co-bias-and-credibility/)
-    
-    November 11, 2024
-    
-* [Interlochen Public Radio – Bias and Credibility](https://mediabiasfactcheck.com/interlochen-public-radio-bias/)
-    
-    November 11, 2024
-    
 
 #### Recently Updated Pages
 
-* [TruthOut – Bias and Credibility](https://mediabiasfactcheck.com/truth-out/ "View TruthOut – Bias and Credibility") - November 13, 2024
+* [Biotech Express Magazine – Bias and Credibility](https://mediabiasfactcheck.com/biotech-express-magazine-bias/ "View Biotech Express Magazine – Bias and Credibility") - November 13, 2024
     
-* [Redacted – Bias and Credibility](https://mediabiasfactcheck.com/redacted-bias/ "View Redacted – Bias and Credibility") - November 12, 2024
+* [BioSpace – Bias and Credibility](https://mediabiasfactcheck.com/biospace/ "View BioSpace – Bias and Credibility") - November 13, 2024
     
-* [Big Country 99.5 – Tulsa – Bias and Credibility](https://mediabiasfactcheck.com/big-country-99-5-tulsa-bias/ "View Big Country 99.5 – Tulsa – Bias and Credibility") - November 12, 2024
+* [Biography (A&E) – Bias and Credibility](https://mediabiasfactcheck.com/biography-ae-bias/ "View Biography (A&E) – Bias and Credibility") - November 13, 2024
     
-* [France24 – Bias and Credibility](https://mediabiasfactcheck.com/france24/ "View France24 – Bias and Credibility") - November 12, 2024
+* [BioDefense – Bias and Credibility](https://mediabiasfactcheck.com/biodefense/ "View BioDefense – Bias and Credibility") - November 13, 2024
     
-* [Bicester Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/bicester-advertiser-bias/ "View Bicester Advertiser – Bias and Credibility") - November 12, 2024
+* [Big Island Times – Bias and Credibility](https://mediabiasfactcheck.com/big-island-times/ "View Big Island Times – Bias and Credibility") - November 13, 2024
     
-* [BestLife – Bias and Credibility](https://mediabiasfactcheck.com/bestlife/ "View BestLife – Bias and Credibility") - November 12, 2024
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 13, 2024
     
-* [Best News Here – Bias and Credibility](https://mediabiasfactcheck.com/best-news-here/ "View Best News Here – Bias and Credibility") - November 12, 2024
+* [Environmental Evidence Journal – Bias and Credibility](https://mediabiasfactcheck.com/environmental-evidence-journal-bias/ "View Environmental Evidence Journal – Bias and Credibility") - November 13, 2024
     
-* [Berliner Zeitung – Bias and Credibility](https://mediabiasfactcheck.com/berliner-zeitung/ "View Berliner Zeitung – Bias and Credibility") - November 12, 2024
+* [ScheerPost – Bias and Credibility](https://mediabiasfactcheck.com/scheerpost-bias-and-credibility/ "View ScheerPost – Bias and Credibility") - November 13, 2024
     
-* [ScienceDirect – Bias and Credibility](https://mediabiasfactcheck.com/sciencedirect/ "View ScienceDirect – Bias and Credibility") - November 12, 2024
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 13, 2024
     
-* [RT News (RT.Com) – Bias and Credibility](https://mediabiasfactcheck.com/rt-news/ "View RT News (RT.Com) – Bias and Credibility") - November 12, 2024
+* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 13, 2024
     
 
 #### Today’s Top Page Views
@@ -212,13 +212,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
-* [MBFC's Daily Vetted Fact Checks for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/mbfcs-daily-vetted-fact-checks-for-11-12-2024/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Search](https://mediabiasfactcheck.com/search/)
 
 #### Subscribe via Email
 
