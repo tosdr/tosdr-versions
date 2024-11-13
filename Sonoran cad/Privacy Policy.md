@@ -239,7 +239,7 @@ SearchCtrl + K
             
         * [Error Codes](https://info.sonorancad.com/integration-plugins/in-game-integration/error-codes)
             
-        * [Free Plugin Installation - Next Steps](https://info.sonorancad.com/integration-plugins/in-game-integration/free-plugin-installation-next-steps)
+        * [Free Submodule Activation - Next Steps](https://info.sonorancad.com/integration-plugins/in-game-integration/free-plugin-installation-next-steps)
             
         
     * [🎮Roblox ER:LC](https://info.sonorancad.com/integration-plugins/roblox-er-lc)
