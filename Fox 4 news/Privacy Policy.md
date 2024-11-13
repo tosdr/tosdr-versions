@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Gift ideas that support small businesses](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/small-business-thumbnail.jpg?ve=1&tl=1)
-
- ![Gift ideas that support small businesses](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/small-business-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-small-businesses)
-
-### [Gift ideas that support small businesses](https://www.fox4news.com/news/2024-gift-guide-small-businesses)
-
  [![Donald Trump’s new administration: Who has he chosen so far?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/donald-trump-picks.jpg?ve=1&tl=1)
 
  ![Donald Trump’s new administration: Who has he chosen so far?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/donald-trump-picks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-new-administration-selections-so-far)
 
 ### [Donald Trump’s new administration: Who has he chosen so far?](https://www.fox4news.com/news/trump-new-administration-selections-so-far)
 
- [![Grapevine Christmas tree now in place at Peace Plaza](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/vlcsnap-2024-11-12-12h56m39s131.png?ve=1&tl=1)
+ [![Trump appoints Elon Musk to lead Department of Government Efficiency](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2176078700.jpg?ve=1&tl=1)
 
- ![Grapevine Christmas tree now in place at Peace Plaza](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/vlcsnap-2024-11-12-12h56m39s131.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-christmas-tree-now-place-peace-plaza)
+ ![Trump appoints Elon Musk to lead Department of Government Efficiency](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2176078700.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
 
-### [Grapevine Christmas tree now in place at Peace Plaza](https://www.fox4news.com/news/grapevine-christmas-tree-now-place-peace-plaza)
+### [Trump appoints Elon Musk to lead Department of Government Efficiency](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
 
- [![Horrifically matted dog get a new look and a new home](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/Dallas-matted-dog.jpg?ve=1&tl=1)
+ [![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pete-hegseth.jpg?ve=1&tl=1)
 
- ![Horrifically matted dog get a new look and a new home](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/09/32/18/592/333/Dallas-matted-dog.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/horrifically-matted-dog-get-new-look-new-home)
+ ![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pete-hegseth.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
 
-### [Horrifically matted dog get a new look and a new home](https://www.fox4news.com/news/horrifically-matted-dog-get-new-look-new-home)
+### [Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
 
- [![2 charged with capital murder in Garland condo killing](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/garland-chaha-murder.jpg?ve=1&tl=1)
+ [![Live House election results: What GOP needs for majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2175609361.jpg?ve=1&tl=1)
 
- ![2 charged with capital murder in Garland condo killing](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/garland-chaha-murder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2-charged-with-capital-murder-in-garland-condo-killing)
+ ![Live House election results: What GOP needs for majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2175609361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
 
-### [2 charged with capital murder in Garland condo killing](https://www.fox4news.com/news/2-charged-with-capital-murder-in-garland-condo-killing)
+### [Live House election results: What GOP needs for majority](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
+
+ [![FAA prohibits US airlines from flying to Haiti after plane hit by gunfire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183607471.jpg?ve=1&tl=1)
+
+ ![FAA prohibits US airlines from flying to Haiti after plane hit by gunfire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183607471.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/faa-halts-haiti-flights-gang-violence)
+
+### [FAA prohibits US airlines from flying to Haiti after plane hit by gunfire](https://www.fox4news.com/news/faa-halts-haiti-flights-gang-violence)
 
 ###### [News](https://www.fox4news.com/news)
 
