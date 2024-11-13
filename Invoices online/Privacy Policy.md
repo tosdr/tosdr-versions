@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Integrated Debit Order Solution
-> -------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Hugo van Sittert
+Henry Venter
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=170843367)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=157335628)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=37352298)  
-Lion Software Develepment
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=176154468)  
+Westside Car Audio CC
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=2989972)  
-Cpower Projects t/a Pro Pure Water
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=74481960)  
+Nilbet T/A Waterman
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=9136976)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=205649923)  
+CBR Verwe/Paints
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=16475230)  
-Dombieterfontein (PTY) LTD
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=153144605)  
+APTV Telecoms CC
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=59700848)  
-ELLIE'S CLEANING CHICKS
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=115353604)  
+Three Moons Emporium
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=99283303)  
-Testpro Laboratory (Pty) Ltd
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=194139285)  
+Leef in Afrikaans
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=171157333)  
-#DiGi3 Marketing & Design
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=117210775)  
+Baby Toddles Infant Care
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=110868013)  
-INVOICES/JOBCARDS ONLINE
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=107055831)  
+BD Maintenance
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=164168165)  
-Depot Diesel (Pty) Ltd
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=142264546)  
+Fox Alarms & Security CC
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=83779062)  
-Meyer Towing & Recovery
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=109738820)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=28055038)  
-The Gourmet Artisans Ltd.
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=20030826)  
+Mtunzini Group
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=79452268)  
-SLOANE STAR MEAT MARKET
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=170478074)  
+FJW Security Cc
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=138062198)  
-MONSTER SECURITY GUARDING
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=129500388)  
+Kainos (Pty) Ltd
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=23ab9aa7890f58b454b57082f8b03e03eb2f78e39e148706f63e6ed66a77f1d1&c=169204578)  
-Alliance Energy
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=17bfe9583f4f37632e3c333433796bcdb1ebb47bee7d4b9a76044b9e296177b6&c=118465694)  
+NEW BEGINNINGS DESIGNS
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
