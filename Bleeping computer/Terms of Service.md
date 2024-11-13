@@ -36,18 +36,18 @@
         
         Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
     
-    * [![North Korean hackers create Flutter apps to bypass macOS security](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        North Korean hackers create Flutter apps to bypass macOS security](https://www.bleepingcomputer.com/news/security/north-korean-hackers-create-flutter-apps-to-bypass-macos-security/)
-    * [![This AdGuard deal gives you an all-in-one VPN and ad blocking solution](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
+    * [![Microsoft Exchange adds warning to emails abusing spoofing flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This AdGuard deal gives you an all-in-one VPN and ad blocking solution](https://www.bleepingcomputer.com/offer/deals/this-adguard-deal-gives-you-an-all-in-one-vpn-and-ad-blocking-solution/)
-    * [![iPhones now auto-restart to block access to encrypted data after long idle times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft Exchange adds warning to emails abusing spoofing flaw](https://www.bleepingcomputer.com/news/security/unpatched-microsoft-exchange-server-flaw-enables-spoofing-attacks/)
+    * [![D-Link won’t fix critical bug in 60,000 exposed EoL modems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        iPhones now auto-restart to block access to encrypted data after long idle times](https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
-    * [![VMware makes Workstation and Fusion free for everyone](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        D-Link won’t fix critical bug in 60,000 exposed EoL modems](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/)
+    * [![Windows 10 KB5046613 update released with fixes for printer bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+        Windows 10 KB5046613 update released with fixes for printer bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046613-update-released-with-fixes-for-printer-bugs/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -352,12 +352,12 @@ Melville, NY 11747**
 
 Popular Stories
 
-* [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [![VMWare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+* [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [![PyPI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Malicious PyPI package with 37,000 downloads steals AWS keys](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/)
