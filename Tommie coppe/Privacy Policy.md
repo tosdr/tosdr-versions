@@ -288,7 +288,7 @@ OK Cancel
 
 ##### EMAIL SIGN UP
 
-Sign up to receive 5% off your first order. Plus, stay up-to-date on new products and exclusive offers!
+Receive an additional 5% off your first order. Plus, stay up-to-date on new products and exclusive offers!
 
   
 
