@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -724,7 +724,6 @@ Your session expired. Please login again to continue to purchase.
     * [Installer network](https://enphase.com/homeowners/enphase-installer-network)
     * [Upgrade my system](https://enphase.com/homeowners/home-solar-upgrade-program)
     * [Enphase App login](https://enlighten.enphaseenergy.com/)
-    * [Blog](https://enphase.com/blog)
     * [Connected appliances](https://enphase.com/homeowners/connected-appliances)
     * [Critical updates](https://enphase.com/homeowners/updates)
     * [Design my system](https://estimator.enphase.com/)
@@ -745,7 +744,7 @@ Your session expired. Please login again to continue to purchase.
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training-and-certifications)
+    * [Training](https://enphase.com/installers/training)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
@@ -777,7 +776,6 @@ Your session expired. Please login again to continue to purchase.
     * [Leadership](https://enphase.com/leadership/)
     * [Investors](https://investor.enphase.com/)
     * [Careers](https://enphase.com/careers)
-    * [Blog](https://enphase.com/blog)
     * [Cybersecurity](https://enphase.com/cybersecurity)
     * [Contact us](https://enphase.com/contact)
     
