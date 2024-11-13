@@ -379,8 +379,6 @@ PLEASE READ THESE TERMS OF USE CAREFULLY BEFORE USING THE SERVICES as they conta
 19. [Miscellaneous](#miscellaneous)
 20. [Contact Us](#contact-us)
 
-\_
-
 1\. **SCOPE OF TERMS OF USE**
 -----------------------------
 
@@ -396,8 +394,6 @@ Terms of use
   
 **New Developments.** If any new aspects, features, components, or developments of the Services become available, they will be considered a part of the Services and your use of them will be governed by these Terms of Use unless we notify you that different terms and conditions apply. You must comply with any additional terms that apply to third-party content, material, information, software, or other services.  
 
-\_
-
 **2\. USER ELIGIBILITY**
 ------------------------
 
@@ -407,16 +403,12 @@ By using the Services, you represent and warrant that you are at least 18 years 
   
 We reserve the right, at our sole and absolute discretion, to deny any user access to the Services, or any portion of the Services, without notice and without reason.  
 
-\_
-
 **3\. ACCOUNT INFORMATION**
 ---------------------------
 
 If you wish to save preferences to your device, you may need to register for an account (“Account”). If you decide to register with us, you may be able to log in using a third-party login provider (e.g., Facebook, Google). If you do not wish to log in using these third-party access credentials, you will be prompted to create an Account, which includes a sign-in name (“Sign-In Name”), a password (“Password”), and perhaps certain additional information that will assist us in authenticating your identity when you log-in in the future (“Unique Identifiers”) (your Sign-In Name, Password, and Unique Identifiers together are referred to as your “Account Information”). When creating your Account, you must provide true, accurate, current, and complete information. Each Sign-In Name and corresponding Password may be used by only one authorized user. You are not permitted to transfer your account to anyone without first getting our written permission.  
   
 You are solely responsible for the confidentiality and use of your Account Information, as well as for any use of, misuse of, or communications entered through the Services using any of your Account Information. You must promptly inform us of any need to deactivate a Password or Sign-In Name or change any Unique Identifier. We reserve the right to delete or change your Password, Sign-In Name, or Unique Identifier at any time and for any reason and shall have no liability to you for any loss or damage caused by such action. AP is under no obligation to accept any individual or entity as an Account holder, and AP may accept or reject any registrations at our sole and complete discretion. We will not be liable for any loss or damage caused by any unauthorized use of your Account.  
-
-\_
 
 **4\. RULES OF CONDUCT**
 ------------------------
@@ -446,8 +438,6 @@ If you find something that violates our Rules of Conduct, please let us know so 
   
 We have the right to investigate occurrences that may involve violations of these Rules of Conduct and these Terms of Use, and we may involve, provide information to, and cooperate with, law enforcement authorities in prosecuting users who are involved in such violations.  
 
-\_
-
 **5\. USER CONTENT**
 --------------------
 
@@ -474,8 +464,6 @@ We may provide you with opportunities to submit, post, upload, transfer, send, p
   
 As addressed more fully in Section 6 of these Terms of Use, we reserve the right to remove any User Content you submit on or through the Services if we believe, at our sole discretion, that it violates these Terms of Use or applicable law. If you infringe other people’s intellectual property rights, we may disable your account when deemed appropriate by us at our sole discretion.  
 
-\_
-
 **6\. NO OBLIGATION TO MONITOR; RESERVED RIGHTS**
 -------------------------------------------------
 
@@ -491,8 +479,6 @@ We further reserve the unconditional right to:
 * Require you to cease use of all or part of the Services.
 
 You understand and agree that we have no liability or responsibility to you or any other person or entity for performance or nonperformance of such monitoring activities.  
-
-\_
 
 **7\. INTELLECTUAL PROPERTY**
 -----------------------------
@@ -523,8 +509,6 @@ All contents of the Services: Copyright 2024 The Associated Press and/or our Aff
   
 If you believe that your work has been copied on the Services in a way that constitutes copyright infringement, please provide our agent with notice in accordance with the requirements of the Act, including: (i) a description of the copyrighted work that has been infringed and the specific location on the Services where such work is located; (ii) a description of the location of the original or an authorized copy of the copyrighted work; (iii) your address, telephone number, and e-mail address; (iv) a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; (v) a statement by you, made under penalty of perjury, that the information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner’s behalf; and (vi) an electronic or physical signature of the owner of the copyright or the person authorized to act on behalf of the owner of the copyright interest.  
 
-\_
-
 **8\. COMMUNICATIONS WITH US**
 ------------------------------
 
@@ -534,16 +518,12 @@ If you believe that your work has been copied on the Services in a way that cons
   
 **Unsolicited Ideas Submission.** Note that we do not accept or consider unsolicited submissions concerning our business or operations, including, but not limited to, original ideas for new advertising campaigns, promotions, products, services, technologies, processes, materials, marketing plans, or new product/service names. Please do not send us such submissions. The purpose of this policy is to avoid potential misunderstandings or disputes when our services, products, or marketing strategies appear similar to ideas submitted to us. You acknowledge and agree that all such submissions to us are considered our property. We do not have an obligation to protect the confidentiality of any such submission. We will exclusively own all known or later-existing rights to such submissions worldwide, and we will be entitled to the unrestricted use of any such submissions for any purpose, without compensation to you or any third-party provider of such submissions.  
 
-\_
-
 **9\. THIRD-PARTY SERVICES AND EXTERNAL SITES**
 -----------------------------------------------
 
 General Information.  
   
 The Services may permit you to access content as services belonging to third parties (“Third-Party Services”) and may contain links to third-party web sites (“External Sites”). Access to such Third-Party Services and External Sites is provided solely as a convenience to you and not as an endorsement by us of the content on such Third-Party Services or External Sites. The content of such Third-Party Services and External Sites is developed and provided by others. By accessing Third-Party Services and External Sites, you agree to their respective terms and conditions. For example, we use YouTube’s API Services, whose terms of use are available at [https://www.youtube.com/t/terms](https://www.youtube.com/t/terms). You should contact the site administrator or webmaster for those Third-Party Services and External Sites if you have any concerns regarding such links or any content located on such External Sites. We are not responsible for the content of any linked External Sites and do not make any representations regarding the content or accuracy of materials on such External Sites. We disclaim any and all liability arising out of, related to, in connection with, or resulting in any way from your use of any Third-Party Services or External Sites. You should take precautions when downloading files from all web sites to protect your computer from viruses and other destructive programs. If you decide to access linked External Sites, you do so at your own risk.  
-
-\_
 
 **About AP Buyline**  
   
@@ -575,8 +555,6 @@ To maintain AP Buyline’s operations and compensate its proficient researchers,
   
 AP Buyline features articles that contain affiliate links. We earn a commission from purchases made through these links, without any extra cost to the buyer. This means that if you determine a product or service featured on the AP Buyline site suits your needs and you click on the provided link, we may receive payment from the provider associated with the advertisement.  
 
-\_
-
 **10\. DISCLAIMERS**
 --------------------
 
@@ -587,8 +565,6 @@ We make no representation that your use of the Services including any Content wi
 You acknowledge and agree that the Content: is made available for your personal informational, educational, and entertainment purposes only without representation or warranty of any kind; is not a substitute for legal advice or your judgment; and should not be construed as an endorsement by or representation of our opinions. Your reliance upon any Content obtained by you on or through the Services is solely at your own risk. You agree to comply with all notices and requirements accompanying third-party material. We may change the Services or delete or revise Content or features at any time, in any way, for any or no reason, at our sole discretion.  
   
 You acknowledge and agree that we do not control User Content submitted by any users of the Services, and we do not vouch for the accuracy, integrity, or quality of any such User Content. We do not endorse any opinions expressed by any users of the Services. We do not guarantee that any User Content has been submitted with the permission of the copyright or proprietary owner or is otherwise in compliance with these Terms of Use. You understand and agree that you must evaluate, and that you bear all risks associated with, the use of any User Content, including any reliance on the accuracy, completeness, or usefulness of such User Content. You acknowledge and agree that we have no responsibility for the storage or deletion of, or the failure to store or delete, any Content, including but not limited to User Content. You agree that under no circumstance will we, our directors, officers, members, employees, consultants, agents, representatives, advisers, affiliates, subsidiaries or our third-party partners be liable in any way in connection with: (a) any User Content submitted by any users of the Services, including without limitation errors or omissions in such information or data; (b) any loss or damage of any kind incurred as a result of the use by you or a third party of any such User Content; or (c) any failure to correct or remove any Content, including but not limited to User Content.  
-
-\_
 
 **11\. NO WARRANTIES; LIMITATION OF LIABILITY; EXCLUSIVE REMEDY; RELEASE**
 --------------------------------------------------------------------------
@@ -603,8 +579,6 @@ CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSI
   
 **RELEASE.** YOU EXPRESSLY UNDERSTAND AND AGREE THAT THIS RELEASE INCLUDES A WAIVER AND RELEASE OF UNKNOWN CLAIMS THAT EXIST OR MAY EXIST AS OF THE DATE OF THIS RELEASE, AND YOU AGREE TO WAIVE AND RELINQUISH ANY AND ALL RIGHTS YOU HAVE OR MAY HAVE UNDER ANY STATUTE OR OTHER LAW THAT REQUIRES THE KNOWING WAIVER OF SUCH UNKNOWN CLAIMS, INCLUDING WITHOUT LIMITATION CALIFORNIA CIVIL CODE § 1542, WHICH PROVIDES AS FOLLOWS: “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS WHICH THE CREDITOR DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE, WHICH IF KNOWN BY HIM OR HER MUST HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR.” THE SERVICES, INCLUDING BUT NOT LIMITED TO THE CONTENT, MAY CONTAIN TECHNICAL INACCURACIES OR TYPOGRAPHICAL ERRORS OR OMISSIONS. UNLESS REQUIRED BY APPLICABLE LAWS, WE ARE NOT RESPONSIBLE FOR ANY SUCH TYPOGRAPHICAL OR TECHNICAL ERRORS.  
 
-\_
-
 **12\. INDEMNIFICATION**
 ------------------------
 
@@ -612,16 +586,12 @@ To the fullest extent permitted under applicable law, you agree to defend, indem
   
 This defense and indemnification obligation will survive termination of these Terms of Use and your use of the Services.  
 
-\_
-
 **13\. COMPLIANCE WITH APPLICABLE LAWS**
 ----------------------------------------
 
 The Services are owned, controlled, and operated by The Associated Press, a New York not-for-profit corporation in the United States of America. The Services are based in the United States. Access to and use of the Services, including but not limited to the Content, may not be legal by certain persons or in certain countries. We make no claims concerning whether the Content may be downloaded, viewed, or appropriate for use outside of the United States. If you use the Services or the Content from outside of the United States, you do so at your own risk. Whether inside or outside of the United States, you are solely responsible for ensuring compliance with the laws of your specific jurisdiction. The Services may contain links to other web sites, some of which may be outside the United States. Those other web sites may have information that is appropriate only to the particular originating country or region where such other web site is based.  
   
 **_Special Provisions Relating to Users Outside of the United States._** The following provisions apply to users outside the United States: (a) You consent to having your personal data transferred to and processed in the United States; and (b) If you are located in a country embargoed by the United States or are on the U.S. Treasury Department’s list of Specially Designated Nationals, you are not permitted to engage in commercial activities on or through the Services (such as advertising or payments).  
-
-\_
 
 **14\. TERMINATION OF THESE TERMS OF USE**
 ------------------------------------------
@@ -636,14 +606,10 @@ You may terminate these Terms of Use at any time by ceasing to use the Services.
   
 Section 1 and Sections 5 through 20 of these Terms of Use shall survive the termination for any reason.  
 
-\_
-
 15\. CONTROLLING LAW
 --------------------
 
 These Terms of Use any action arising from, related to, connected with, or resulting in any way from these Terms of Use will be governed by the laws of the State of New York in the United States without regard to its conflict of laws provisions.  
-
-\_
 
 **16\. BINDING ARBITRATION AND CLASS ACTION WAIVER**
 ----------------------------------------------------
@@ -670,14 +636,10 @@ This Arbitration Agreement will survive the termination of your relationship wit
   
 Notwithstanding any provision in these Terms to the contrary, if we make any future material change to this Arbitration Agreement, you may reject that change within thirty (30) days of such change becoming effective by writing to us at the address provided for Legal Matters in the Contact Us Section of these Terms of Use (see Section 20).  
 
-\_
-
 **17\. EQUITABLE RELIEF**
 -------------------------
 
 You acknowledge and agree that, in the event of a breach or threatened breach of our intellectual property rights, confidential information, and/or proprietary information by you, we will suffer irreparable harm and will therefore be entitled to injunctive relief to enforce these Terms of Use. We may, without waiving any other remedies under these Terms of Use and applicable law, seek from any court having jurisdiction any interim, equitable, provisional, or injunctive relief that is necessary to protect our rights and property pending the outcome of the arbitration referenced above (see Section 16). All claims or disputes arising out of, related to, in connection with, or resulting in any way from these Terms of Use shall be heard exclusively by any of the federal or state courts of competent jurisdiction located in New York County in the State of New York, USA.  
-
-\_
 
 **18\. DOWNLOADING THE APP**
 ----------------------------
@@ -693,7 +655,7 @@ We may make the App available through the Google Play Store or the Apple App Sto
 * You represent and warrant that: (i) you are not located in a country that is subject to a U.S. Government embargo or that has been designated by the U.S. Government as a terrorist-supporting country; (ii) you are not listed on any U.S. Government list of prohibited or restricted parties; (iii) you are not an individual or associated with an entity designated under the UK’s Terrorist Asset-Freezing Act 2010 (TAFA 2010); and (iv) you are not otherwise subject to or affected in any way by any national security- or terrorism-related rules, whether applicable to you personally or to your location or other circumstances.
 * You must also comply with all applicable third-party Terms of Use when using the App.  
     
-    \_
+    miscellaneous
     
 
 **19\. MISCELLANEOUS**
@@ -710,7 +672,7 @@ We may make the App available through the Google Play Store or the Apple App Sto
 * If you have an account, any legal notice relating to these Terms of Use shall be sent to the email address associated with your account, and you agree that this constitutes adequate and sufficient notice. Any legal notice to us shall be sent to the contact for legal matters (see Contact Us, Section 20 ,below).
 * These Terms of Use will inure to the benefit of our successors, assigns, licensees, and sublicensees.  
     
-    \_
+    contact-us
     
 
 **20\. CONTACT US**
