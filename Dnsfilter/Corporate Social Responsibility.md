@@ -155,6 +155,26 @@ to keep them secure
 
 ![The salvation army](https://www.dnsfilter.com/hs-fs/hubfs/62fd235a12c56d22fc06da8b_salvation-army-white.png?width=194&height=198&name=62fd235a12c56d22fc06da8b_salvation-army-white.png)
 
+[![Ensuring CIPA Compliance: A Practical Guide (and checklist) for Educational Leaders](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_ciparequirementschecklistareyoucompliant%282%291.webp?width=500&height=190&name=newsroom_ciparequirementschecklistareyoucompliant%282%291.webp)
+
+Posted on November 12, 2024 by Kory Underdown
+
+ **
+
+Ensuring CIPA Compliance: A Practical Guide (and checklist) for Educational Leaders
+
+**](https://www.dnsfilter.com/blog/cipa-requirements-compliance-checklist)
+
+[![The Power of Customer Experience](https://www.dnsfilter.com/hs-fs/hubfs/Newsroom-%20The%20Power%20of%20Customer%20Experience.jpg?width=500&height=190&name=Newsroom-%20The%20Power%20of%20Customer%20Experience.jpg)
+
+Posted on November 12, 2024 by Mikey Pruitt
+
+ **
+
+The Power of Customer Experience
+
+**](https://www.dnsfilter.com/blog/the-power-of-customer-experience)
+
 [![Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_securingguestwi_fiaretailguide1-1.webp?width=500&height=190&name=newsroom_securingguestwi_fiaretailguide1-1.webp)
 
 Posted on October 29, 2024 by Kory Underdown
@@ -164,26 +184,6 @@ Posted on October 29, 2024 by Kory Underdown
 Enhancing Security for In-Store Wi-Fi: How to make convenience safe for all
 
 **](https://www.dnsfilter.com/blog/guest-wifi-solutions-retail-stores/)
-
-[![Green IT & Sustainability](https://www.dnsfilter.com/hs-fs/hubfs/Newsroom-%20Green%20IT%20%26%20Sustainability.jpg?width=500&height=190&name=Newsroom-%20Green%20IT%20%26%20Sustainability.jpg)
-
-Posted on October 28, 2024 by Mikey Pruitt
-
- **
-
-Green IT & Sustainability
-
-**](https://www.dnsfilter.com/blog/green-it-sustainability)
-
-[![How AppAware Protects Kids from Predator Dangers on Roblox](https://www.dnsfilter.com/hs-fs/hubfs/Newsroom-How%20AppAware%20Protects%20Kids%20from%20Predator%20Dangers%20on%20Roblox.jpg?width=500&height=190&name=Newsroom-How%20AppAware%20Protects%20Kids%20from%20Predator%20Dangers%20on%20Roblox.jpg)
-
-Posted on October 23, 2024 by Greg Delaney
-
- **
-
-How AppAware Protects Kids from Predator Dangers on Roblox
-
-**](https://www.dnsfilter.com/blog/how-appaware-protects-kids-from-predator-dangers-on-roblox)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
