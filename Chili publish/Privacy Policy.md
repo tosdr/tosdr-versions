@@ -69,6 +69,8 @@ By Job Role
 
 [Marketing Operations Director](https://www.chili-publish.com/solution/job-role/marketing-operations-director/)
 
+[Developers & Integrators](https://www.chili-publish.com/solution/job-role/developers-and-integrators/)
+
 [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAALCAYAAAB7/H1+AAAAAXNSR0IArs4c6QAAAlNJREFUKFM1k79u1EAQh7/ZXd/5cne5HJBAJP5IICoqOspUKA3iGWgo8hY8A08Ab0BPRYNAQkIUEegQElAQUJSgu7N9tnd30NpB1k/jsXZnfjv+Vt5MHp55Yd4KeKO0gBdo/8v0sblQyhtRWlFqI0RgFqAWKGy/Bjh3uTL3KFYFr4I10OfgABe0jxayi+KuayBYC7MIJgprq6iA9kbmbhDBimCTY8DG5FywZaRpK9zVMQ7B/t7gZhnZzJH52DmctspOgNJAlGRVUfrcDRW8gpHUIElpV4H88Ba7Tx7TFCVmMkaN0G5q2rYlm22zPPnD6dELdGfQnZ1uBNKVTsXdQARTNRgiwQ76BmlyVUN9vCBaSwPURYlmjjYENB+SLwt2BhllHdFMUA9RldhE9LLFDSpP9ugucT6hfv0ZW0TC3gh1lurZKzyBFsWT01Di2cLdHjPd3ya/nqNVgMrD1GKvjRntTTl9+xM54UCHL48IqwJzYx91Wecseo8vK9bHC7bu30ONwbct9XKN+fKN+cEDgjE0dYOPkWgN1bpgdfaXD0+f41wawvtPqLX446/obEoYDvDVBl/VZHuXqN59JKQRTLawix/kv84pqho/zLB3brJafKcdZmzqhuXJKRMzQpbuUIMvCSgBCARid3TTKZDjuxGkXxLYJScBWHcPbIg0KBXKBsMGS31lhLNBETPCQC9J6GhHSMKsQ9BMsCjzIAwj1EZBxj0JkvbTKe3t3r3iEl6ScEN6IhSCCiEtEsUkahTGKkyDEkTIopA+al8ZVOmuoAFNUYR/vT8xJ90H7E4AAAAASUVORK5CYII=)
 
 ![](https://www.datocms-assets.com/11099/1669045657-agency-white-paper.png?auto=format&corner-radius=6%2C6%2C0%2C0&mask=corners&w=270)
@@ -271,15 +273,15 @@ For specific services, apps or events, we may collect other types of data and us
     
     Would you like to view or improve your data?
     
-    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#112;&#x72;&#x69;&#118;&#97;&#x63;&#x79;&#x40;&#x63;&#x68;&#105;&#x6c;&#105;&#45;&#x70;&#117;&#98;&#108;&#105;&#115;&#104;&#46;&#99;&#x6f;&#x6d;)
+    You may adjust your personal data. Contact us at [privacy@chili-publish.com](mailto:&#112;&#114;&#105;&#118;&#x61;&#99;&#x79;&#64;&#99;&#104;&#105;&#x6c;&#105;&#45;&#112;&#117;&#98;&#x6c;&#x69;&#x73;&#x68;&#46;&#99;&#111;&#x6d;)
     
     Would you like to unsubscribe from the CHILI publish newsletter?
     
     This is possible using the link at the bottom of each mail or via this preference page.
     
-    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#112;&#x72;&#105;&#118;&#x61;&#x63;&#121;&#x40;&#x63;&#104;&#105;&#108;&#105;&#45;&#112;&#x75;&#98;&#x6c;&#105;&#x73;&#x68;&#x2e;&#x63;&#x6f;&#x6d;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
+    If you are not successful in removing your data via the preference page, or if you would like to invoke any other right you hold according to the General Data Protection Regulation (such as the removal of your data), you can submit a written request for this purpose via [privacy@chili-publish.com](mailto:&#x70;&#x72;&#105;&#118;&#97;&#x63;&#x79;&#x40;&#x63;&#104;&#x69;&#108;&#x69;&#45;&#112;&#117;&#98;&#108;&#105;&#115;&#x68;&#x2e;&#99;&#111;&#109;) or CHILI publish NV, att Privacy, Korte Keppestraat 9, bus 11, 9320 Erembodegem, Belgium. To be certain that only you receive access to your data, we ask that you include a copy of your identification (front only).
     
-    You can also contact us via [privacy@chili-publish.com](mailto:&#x70;&#114;&#x69;&#118;&#x61;&#99;&#x79;&#64;&#x63;&#x68;&#x69;&#x6c;&#x69;&#x2d;&#x70;&#x75;&#x62;&#x6c;&#x69;&#115;&#x68;&#46;&#99;&#x6f;&#x6d;) if you have any questions, comments or complaints concerning this privacy statement.
+    You can also contact us via [privacy@chili-publish.com](mailto:&#112;&#x72;&#x69;&#118;&#97;&#x63;&#121;&#64;&#99;&#x68;&#105;&#x6c;&#x69;&#45;&#112;&#117;&#98;&#108;&#105;&#115;&#x68;&#46;&#99;&#x6f;&#x6d;) if you have any questions, comments or complaints concerning this privacy statement.
     
 8. How will this privacy statement be maintained?
     
