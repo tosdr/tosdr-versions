@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I used the service while abroad and found it to be very good. I will certainly use it again on my next overseas visit.
+You guys are GREAT. Best support I've had with a product/service. Thanks!
 
-John Weatherley
+Mark VanMeter
