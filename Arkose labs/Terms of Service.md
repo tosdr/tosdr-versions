@@ -88,6 +88,7 @@
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
+    * [Briefs](https://www.arkoselabs.com/resources/?category=brief)
     
     Bookmark this page
     
@@ -195,6 +196,7 @@
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
+    * [Briefs](https://www.arkoselabs.com/resources/?category=brief)
 * [Company](https://www.arkoselabs.com/company/)
     * About Arkose Labs
         * [About Us](https://www.arkoselabs.com/about-us/)
