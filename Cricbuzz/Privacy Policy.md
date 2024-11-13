@@ -68,9 +68,9 @@ AllLive NowToday
     
 * West Indies v England, 2024
     
-    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95178/wi-vs-eng-2nd-t20i-west-indies-v-england-2024 "West Indies v England, 2nd T20I - ENG Won")
+    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95187/wi-vs-eng-3rd-t20i-west-indies-v-england-2024 "West Indies v England, 3rd T20I - Upcoming")
     
-    2nd T20I
+    3rd T20I
     
 * Australia v Pakistan
     
@@ -93,6 +93,10 @@ AllLive NowToday
 * [Indonesia vs Myanmar](https://www.cricbuzz.com/live-cricket-scores/109225/idn-vs-mmr-2nd-t20i-indonesia-v-myanmar-2024 "Indonesia v Myanmar, 2nd T20I - Preview")
     
     2nd T20I
+    
+* [Indonesia vs Myanmar](https://www.cricbuzz.com/live-cricket-scores/109232/idn-vs-mmr-3rd-t20i-indonesia-v-myanmar-2024 "Indonesia v Myanmar, 3rd T20I - Upcoming")
+    
+    3rd T20I
     
 * Netherlands tour of Oman, 2024
     
@@ -122,21 +126,13 @@ AllLive NowToday
     
     Elite Group D
     
-* [Delhi vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/97781/del-vs-jhkd-elite-group-d-ranji-trophy "Delhi v Jharkhand, Elite Group D - Preview")
-    
-    Elite Group D
-    
-* [Hyderabad vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97729/hyd-vs-ap-elite-group-b-ranji-trophy "Hyderabad v Andhra, Elite Group B - Preview")
+* [Himachal Pradesh vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97727/hp-vs-pdc-elite-group-b-ranji-trophy "Himachal Pradesh v Puducherry, Elite Group B - Preview")
     
     Elite Group B
     
 * [Chandigarh vs Saurashtra](https://www.cricbuzz.com/live-cricket-scores/97779/cdg-vs-saur-elite-group-d-ranji-trophy "Chandigarh v Saurashtra, Elite Group D - Preview")
     
     Elite Group D
-    
-* [Himachal Pradesh vs Puducherry](https://www.cricbuzz.com/live-cricket-scores/97727/hp-vs-pdc-elite-group-b-ranji-trophy "Himachal Pradesh v Puducherry, Elite Group B - Preview")
-    
-    Elite Group B
     
 * [Vidarbha vs Gujarat](https://www.cricbuzz.com/live-cricket-scores/97718/vid-vs-guj-elite-group-b-ranji-trophy "Vidarbha v Gujarat, Elite Group B - Preview")
     
@@ -170,13 +166,21 @@ AllLive NowToday
     
     Elite Group C
     
+* [Uttarakhand vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97738/utk-vs-raj-elite-group-b-ranji-trophy "Uttarakhand v Rajasthan, Elite Group B - Preview")
+    
+    Elite Group B
+    
 * [Railways vs Tamil Nadu](https://www.cricbuzz.com/live-cricket-scores/97783/rlys-vs-tn-elite-group-d-ranji-trophy "Railways v Tamil Nadu, Elite Group D - Preview")
     
     Elite Group D
     
-* [Uttarakhand vs Rajasthan](https://www.cricbuzz.com/live-cricket-scores/97738/utk-vs-raj-elite-group-b-ranji-trophy "Uttarakhand v Rajasthan, Elite Group B - Preview")
+* [Hyderabad vs Andhra](https://www.cricbuzz.com/live-cricket-scores/97729/hyd-vs-ap-elite-group-b-ranji-trophy "Hyderabad v Andhra, Elite Group B - Preview")
     
     Elite Group B
+    
+* [Delhi vs Jharkhand](https://www.cricbuzz.com/live-cricket-scores/97781/del-vs-jhkd-elite-group-d-ranji-trophy "Delhi v Jharkhand, Elite Group D - Preview")
+    
+    Elite Group D
     
 * Ranji Trophy Plate
     
@@ -212,7 +216,7 @@ AllLive NowToday
     
     12th Match
     
-* [Victoria vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103204/vic-vs-wa-13th-match-australia-domestic-one-day-cup-2024-25 "Victoria v Western Australia, 13th Match - Preview")
+* [Victoria vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/103204/vic-vs-wa-13th-match-australia-domestic-one-day-cup-2024-25 "Victoria v Western Australia, 13th Match - Break")
     
     13th Match
     
@@ -226,13 +230,13 @@ AllLive NowToday
     
     8th Match
     
-* [Uganda vs Italy](https://www.cricbuzz.com/live-cricket-scores/108217/uga-vs-ita-11th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Italy, 11th Match - Preview")
-    
-    11th Match
-    
 * [Singapore vs Tanzania](https://www.cricbuzz.com/live-cricket-scores/108209/sin-vs-tan-10th-match-icc-cwc-challenge-league-b-2024-26 "Singapore v Tanzania, 10th Match - Preview")
     
     10th Match
+    
+* [Uganda vs Italy](https://www.cricbuzz.com/live-cricket-scores/108217/uga-vs-ita-11th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Italy, 11th Match - Preview")
+    
+    11th Match
     
 * Pakistan A v Sri Lanka A, 2024
     
@@ -246,6 +250,14 @@ AllLive NowToday
     
     10th Match
     
+* [Victoria vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102900/vic-vs-wa-11th-match-sheffield-shield-2024-25 "Victoria v Western Australia, 11th Match - Upcoming")
+    
+    11th Match
+    
+* [Queensland vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102907/ql-vs-tas-12th-match-sheffield-shield-2024-25 "Queensland v Tasmania, 12th Match - Upcoming")
+    
+    12th Match
+    
 * CSA Four-Day Series Division Two 2024-25
     
     [Northern Cape vs Border](https://www.cricbuzz.com/live-cricket-scores/104348/ncape-vs-bor-6th-match-csa-four-day-series-division-two-2024-25 "Northern Cape v Border, 6th Match - Upcoming")
@@ -258,15 +270,15 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107449/cntbry-vs-nk-3rd-match-plunket-shield "Canterbury v Northern Knights, 3rd Match - Stumps")
+    [Canterbury vs Northern Knights  LIVE](https://www.cricbuzz.com/live-cricket-scores/107449/cntbry-vs-nk-3rd-match-plunket-shield "Canterbury v Northern Knights, 3rd Match - Live")
     
     3rd Match
     
-* [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107441/akl-vs-wel-2nd-match-plunket-shield "Auckland v Wellington, 2nd Match - Stumps")
+* [Auckland vs Wellington  LIVE](https://www.cricbuzz.com/live-cricket-scores/107441/akl-vs-wel-2nd-match-plunket-shield "Auckland v Wellington, 2nd Match - Live")
     
     2nd Match
     
-* [Otago vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107435/otg-vs-cd-1st-match-plunket-shield "Otago v Central Districts, 1st Match - Stumps")
+* [Otago vs Central Districts  LIVE](https://www.cricbuzz.com/live-cricket-scores/107435/otg-vs-cd-1st-match-plunket-shield "Otago v Central Districts, 1st Match - Live")
     
     1st Match
     
@@ -601,37 +613,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [The bowlers holding the batters' best interests](https://www.cricbuzz.com/cricket-news/132402/the-bowlers-holding-the-batters-best-interests "The bowlers holding the batters' best interests")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132401/munaf-patel-appointed-delhi-capitals-bowling-coach "Munaf Patel appointed Delhi Capitals bowling coach")
 
 [Munaf Patel appointed Delhi Capitals bowling coach](https://www.cricbuzz.com/cricket-news/132401/munaf-patel-appointed-delhi-capitals-bowling-coach "Munaf Patel appointed Delhi Capitals bowling coach")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132400/india-sa-eye-series-lead-in-centurion-before-decisive-t20i-in-johannesburg "India, SA eye series lead in Centurion before decisive T20I in Johannesburg")
 
 [India, SA eye series lead in Centurion before decisive T20I in Johannesburg](https://www.cricbuzz.com/cricket-news/132400/india-sa-eye-series-lead-in-centurion-before-decisive-t20i-in-johannesburg "India, SA eye series lead in Centurion before decisive T20I in Johannesburg")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132399/devine-hemalatha-power-scorchers-to-massive-win "Devine, Hemalatha power Scorchers to massive win")
 
 [Devine, Hemalatha power Scorchers to massive win](https://www.cricbuzz.com/cricket-news/132399/devine-hemalatha-power-scorchers-to-massive-win "Devine, Hemalatha power Scorchers to massive win")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132398/pcb-seeks-iccs-clarification-on-indias-decision-to-not-travel-to-pakistan "ICC in a catch-22 situation amid PCB's steadfast stance on hosting Champions Trophy")
 
 [ICC in a catch-22 situation amid PCB's steadfast stance on hosting Champions Trophy](https://www.cricbuzz.com/cricket-news/132398/pcb-seeks-iccs-clarification-on-indias-decision-to-not-travel-to-pakistan "ICC in a catch-22 situation amid PCB's steadfast stance on hosting Champions Trophy")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132397/shami-to-return-to-competitive-cricket-in-ranji-trophy "Shami to return to competitive cricket in Ranji Trophy")
 
 [Shami to return to competitive cricket in Ranji Trophy](https://www.cricbuzz.com/cricket-news/132397/shami-to-return-to-competitive-cricket-in-ranji-trophy "Shami to return to competitive cricket in Ranji Trophy")
 
-12h ago
+18h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
