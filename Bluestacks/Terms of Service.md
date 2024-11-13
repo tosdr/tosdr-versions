@@ -28,6 +28,7 @@
 * [Games](https://www.bluestacks.com/apps.html)
     * [All](https://www.bluestacks.com/apps.html)
     * [Top Games](https://www.bluestacks.com/top-games.html)
+    * [Exclusive Games](https://www.bluestacks.com/exclusive-games.html)
     * [Action](https://www.bluestacks.com/apps/action.html)
     * [Role Playing](https://www.bluestacks.com/apps/role-playing.html)
     * [Strategy](https://www.bluestacks.com/apps/strategy.html)
@@ -782,4 +783,4 @@ Unlock your PC's gaming potential. And yours too.
 
 © 2024 BlueStacks name and logo are registered trademarks of now.gg, inc
 
-[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy)
+[Terms and Privacy](https://www.bluestacks.com/terms-and-privacy.html) | [Copyright Dispute Policy](https://www.bluestacks.com/copyright-dispute-policy.html) | [EU Privacy](https://www.bluestacks.com/terms-and-privacy.html#eu-privacy) | Do Not Sell My Information
