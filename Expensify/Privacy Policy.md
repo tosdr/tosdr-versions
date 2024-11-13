@@ -751,6 +751,7 @@ We have appointed a data protection officer (DPO) who is responsible for oversee
 * [Press Kit](https://use.expensify.com/press-kit)
 * [Support](https://use.expensify.com/support)
 * [ExpensifyHelp](https://help.expensify.com/)
+* [Terms of Service](https://use.expensify.com/terms)
 * [Privacy](https://use.expensify.com/privacy)
 
 ### Learn more
