@@ -251,7 +251,8 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 * [Awards and recognition](https://www.tenable.com/why-tenable#awards)
 * [Customer stories](https://www.tenable.com/customers)
 * [Compare to Microsoft](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
-* [Compare to Qualys](https://www.tenable.com/whitepapers/competitive-guide-security-leaders-guide-to-comparing-tenable-and-qualys)
+* [Compare to Palo Alto Networks](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
+* [Compare to Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
 * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
 * [Compare to Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
 
@@ -410,7 +411,8 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Awards and recognition](https://www.tenable.com/why-tenable#awards)
         * [Customer Stories](https://www.tenable.com/customers)
         * [Compare to Microsoft](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
-        * [Compare to Qualys](https://www.tenable.com/whitepapers/competitive-guide-security-leaders-guide-to-comparing-tenable-and-qualys)
+        * [Compare to Palo Alto Networks](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
+        * [Compare to Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
         * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
         * [Compare to Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
     * Media
