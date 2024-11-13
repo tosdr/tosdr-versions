@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. marketing
+1. psychology
     
-2. c
+2. harvard
     
-3. flutter
+3. graphic design
     
 
 Popular subjects
 ----------------
 
-1. [Artificial Intelligence
+1. [Computer Science
     
-    13,569 courses](https://www.classcentral.com/subject/ai)
-2. [Marketing
+    42,706 courses](https://www.classcentral.com/subject/cs)
+2. [Artificial Intelligence
     
-    7,989 courses](https://www.classcentral.com/subject/marketing)
-3. [Communication Skills
+    13,599 courses](https://www.classcentral.com/subject/ai)
+3. [ChatGPT
     
-    4,114 courses](https://www.classcentral.com/subject/communication-skills)
+    1,093 courses](https://www.classcentral.com/subject/chatgpt)
 
 Popular courses
 ---------------
 
-1. [The Science of Happiness
+1. [The Art of Structural Engineering: Vaults
     
-    University of California, Berkeley](https://www.classcentral.com/course/happiness-university-of-california-berkeley-the-s-1781)
-2. [Shakespeare Matters
+    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
+2. [Working with Translation: Theory and Practice
     
-    University of Adelaide](https://www.classcentral.com/course/shakespeare-university-of-adelaide-shakespeare-ma-8731)
-3. [Precalculus: the Mathematics of Numbers, Functions and Equations
+    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
+3. [Inglés básico: conversacional y networking
     
-    University of Padova](https://www.classcentral.com/course/precalculus-8988)
+    Universidad Anáhuac](https://www.classcentral.com/course/english-universidades-anahuac-ingles-basico-conve-19170)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
