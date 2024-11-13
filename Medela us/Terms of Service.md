@@ -401,7 +401,7 @@ Inclusive Breast Milk Feeding
 
 Load More
 
-[![](/fallback-images/2025/image-thumb__2025__card/fallback-image.ae538cdb.png)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/are-pacifiers-good-for-your-baby-medela-baby)
+[![Mom holding baby while wearing the Medela Freestyle™ Hands-free double electric wearable breast pump](/fallback-images/2025/image-thumb__2025__card/fallback-image.ae538cdb.png)](https://www.medela.us/en-us/breastfeeding-pumping/articles/pacifiers/are-pacifiers-good-for-your-baby-medela-baby)
 
 Pacifier
 
