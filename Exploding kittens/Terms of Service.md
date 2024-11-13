@@ -43,6 +43,7 @@ Next
     Collections
     
     * [Best Sellers](https://www.explodingkittens.com/collections/best-sellers)
+    * [On Sale!](https://www.explodingkittens.com/collections/on-sale)
     * [Newest Games](https://www.explodingkittens.com/collections/new)
     * [Kitten Games (Ages 4+)](https://www.explodingkittens.com/collections/kitten-games)
     * [Game Bundles](https://www.explodingkittens.com/collections/game-bundles)
@@ -121,6 +122,7 @@ Belgium € Canada $ France € Germany € Ireland € Italy € Netherlands �
     * [Collections](#)
         
         * [Best Sellers](https://www.explodingkittens.com/collections/best-sellers)
+        * [On Sale!](https://www.explodingkittens.com/collections/on-sale)
         * [Newest Games](https://www.explodingkittens.com/collections/new)
         * [Kitten Games (Ages 4+)](https://www.explodingkittens.com/collections/kitten-games)
         * [Game Bundles](https://www.explodingkittens.com/collections/game-bundles)
