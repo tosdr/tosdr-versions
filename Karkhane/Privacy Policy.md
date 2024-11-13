@@ -52,9 +52,9 @@ Privacy Policy
 * [![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/app/uploads/2021/05/gozares-vaziyat-kargaran-labaniyat-hume-e-esfahan-95x65.jpg)](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)[گزارشی از وضعیت کارگران در کارخانه‌ی شیر و لبنیات در حومه‌ی اصفهان](https://karkhane.org/2711/%da%af%d8%b2%d8%a7%d8%b1%d8%b4%db%8c-%d8%a7%d8%b2-%d9%88%d8%b6%d8%b9%db%8c%d8%aa-%da%a9%d8%a7%d8%b1%da%af%d8%b1%d8%a7%d9%86-%d8%af%d8%b1-%da%a9%d8%a7%d8%b1%d8%ae%d8%a7%d9%86%d9%87%db%8c/)
-* [![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![پوستر فیلم «سازمانده»-پهن](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/app/uploads/2020/09/fasl-e-mostarak-e-ma-kargar-sodan-o-kargar-budan-95x65.jpg)](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)[فصل مشترک سرگذشت‌های متفاوت ما یک چیز است: کارگر شدن، کارگر بودن](https://karkhane.org/2167/%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%b4%d8%af%d9%86-%da%a9%d8%a7%d8%b1%da%af%d8%b1-%d8%a8%d9%88%d8%af%d9%86/)
+    ![پوستر فیلم «سازمانده»-پهن](https://karkhane.org/app/uploads/2020/04/organizer-movie-poster-wide-95x65.jpg)](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)[یادداشتی بر فیلم «سازمانده»](https://karkhane.org/1322/%d9%81%db%8c%d9%84%d9%85-%d8%b3%d8%a7%d8%b2%d9%85%d8%a7%d9%86%d8%af%d9%87/)
 
 * [Facebook](https://www.facebook.com/--107914377686249)
 * [YouTube](https://www.youtube.com/channel/UCnz481dcaM1p7c3oDR5Ot9A)
