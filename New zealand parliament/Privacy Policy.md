@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansDeb_20240530_20240531_68/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/daily-progress-in-the-house/daily-progress-for-wednesday-13-november-2024/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/combined/HansDeb_20240530_20240531_68/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/pb/daily-progress-in-the-house/daily-progress-for-wednesday-13-november-2024/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
