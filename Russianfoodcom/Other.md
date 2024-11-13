@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -171,6 +171,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Вкусно в праздники и в будни. Лучшие рецепты из рыбных консервов (13)](https://www.russianfood.com/reading/?post_id=22868) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/416/sm_415985.jpg)](https://www.russianfood.com/reading/?post_id=22868)
+
+Салат из сардины с яйцами и луком. Рис с тунцом и овощами. Суп из горбуши с сыром и шпинатом. Горячие бутерброды с рыбой в томате. Оладьи из рыбных консервов.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22868)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22868#comments) | 13.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Едим вкусно и недорого. Лучшие рецепты ЭКОНОМНЕЕ! №24-46](https://www.russianfood.com/reading/?post_id=22867) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/738/sm_737483.jpg)](https://www.russianfood.com/reading/?post_id=22867)
+
+Жареная картошка с тушёнкой. Капустные котлеты с творогом. Суп с фаршем и плавленым сыром. Крылышки гриль в микроволновке. Творожно-шоколадное суфле.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22867)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22867#comments) | 13.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -354,34 +382,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174595#comments) | 11.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Влажный шоколадный пирог на сливках (без муки)](https://www.russianfood.com/recipes/recipe.php?rid=174478) |     |
-
-[![Фото к рецепту: Влажный шоколадный пирог на сливках (без муки)](//img1.russianfood.com/dycontent/images_upl/750/sm_749384.jpg "Фото к рецепту: Влажный шоколадный пирог на сливках (без муки)")](https://www.russianfood.com/recipes/recipe.php?rid=174478)
-
-Тесто для этого пирога замешивается на основе сливок, с добавлением яиц, сливочного масла, сгущёнки, какао-порошка и белого шоколада. Интересная особенность этого пирога в том, что он готовится без использования муки. Снаружи пирог пропечётся, а внутри получится влажным, благодаря чему напоминает брауни и фондан одновременно.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174478)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174478#comments) | 11.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Цельнозерновая пицца с грушей, грибами, маслинами и острым перцем](https://www.russianfood.com/recipes/recipe.php?rid=174508) |     |
-
-[![Фото к рецепту: Цельнозерновая пицца с грушей, грибами, маслинами и острым перцем](//img1.russianfood.com/dycontent/images_upl/750/sm_749722.jpg "Фото к рецепту: Цельнозерновая пицца с грушей, грибами, маслинами и острым перцем")](https://www.russianfood.com/recipes/recipe.php?rid=174508)
-
-Основа этой необычной пиццы готовится с добавлением цельнозерновой муки. Для начинки используются как привычные продукты - грибы, маслины и сыр, так и более неожиданные - груши. А привнести пикантный акцент поможет острый перец.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174508)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174508#comments) | 11.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -453,10 +453,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749965.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174706) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751093.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174798) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741276.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174275) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750898.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749806.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) |
-| [Мясные рулетики с ананасами, яблоком и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174706) | [Картофельный пирог с говядиной и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174798) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Греческий салат с карамелизированным луком](https://www.russianfood.com/recipes/recipe.php?rid=174275) | [Пряные капкейки с сухофруктами, сырным кремом и змейками из мастики](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) |
-| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742515.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174216) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749386.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174595) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742450.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174206) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750888.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174800) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749722.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174508) |
-| [Творожный пирог с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174216) | [Слоёные тарталетки с шоколадным фланом](https://www.russianfood.com/recipes/recipe.php?rid=174595) | [Салат с курицей, сельдереем и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174206) | [Паштет из куриной печени](https://www.russianfood.com/recipes/recipe.php?rid=174800) | [Цельнозерновая пицца с грушей, грибами, маслинами и острым перцем](https://www.russianfood.com/recipes/recipe.php?rid=174508) |
+| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749722.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174508) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749965.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174706) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750888.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174800) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742515.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174216) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749386.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174595) |
+| [Цельнозерновая пицца с грушей, грибами, маслинами и острым перцем](https://www.russianfood.com/recipes/recipe.php?rid=174508) | [Мясные рулетики с ананасами, яблоком и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174706) | [Паштет из куриной печени](https://www.russianfood.com/recipes/recipe.php?rid=174800) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [Творожный пирог с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174216) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Слоёные тарталетки с шоколадным фланом](https://www.russianfood.com/recipes/recipe.php?rid=174595) |
+| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749806.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750898.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741276.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174275) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751093.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174798) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742450.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174206) |
+| [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [Пряные капкейки с сухофруктами, сырным кремом и змейками из мастики](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [Греческий салат с карамелизированным луком](https://www.russianfood.com/recipes/recipe.php?rid=174275) | [Картофельный пирог с говядиной и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174798) | [Салат с курицей, сельдереем и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174206) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -473,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(97)
+(164)
