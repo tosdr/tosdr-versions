@@ -534,8 +534,6 @@ Questions about the Terms of Service should be sent to us at
 
  Customers will only be charged once for shipping costs (this includes returns); No-restocking to be charged to the consumers for the return of the product.
 
-![](data:image/svg+xml,%3Csvg%20viewBox%3D%220%200%201020%20219%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E)
-
 Customer Services
 
 * [Cashmere Care](https://gentleherd.com/cashmere-care/)
@@ -748,6 +746,6 @@ Your personal data will be used to support your experience throughout this websi
 
  Register
 
-![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=386724052628427c3feb43d-f8d1-4879-a18c-43a1706831c2&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=386724052628427&ev=PageView&noscript=1&eid=38672405262842793ea5300-e18a-41ce-ad9a-b8ac1505f56c&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
 
-![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=1010714329333125c3feb43d-f8d1-4879-a18c-43a1706831c2&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
+![facebook_pixel](https://www.facebook.com/tr?id=1010714329333125&ev=PageView&noscript=1&eid=101071432933312593ea5300-e18a-41ce-ad9a-b8ac1505f56c&cd%5Bpage_title%5D=Terms+of+service&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=3060&cd%5Bplugin%5D=PixelYourSite&cd%5Bevent_url%5D=gentleherd.com%2Fterms-of-service%2F&cd%5Buser_role%5D=guest)
