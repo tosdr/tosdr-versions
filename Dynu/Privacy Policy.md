@@ -240,16 +240,26 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-### Priority Support
+#### Great Users
 
   
 
-#### Priority Support is staffed with experienced technicians and is an immediate, hands on approach to solving your unique problems.
+![Partner](/content/images/content/strip/wyatt.house.png)
 
   
 
-[Get Priority Support](https://www.dynu.com/Membership)  
   
+![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/Skyrim.co.png)
+
+  
+
+  
+![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
