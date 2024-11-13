@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
-* [Bible Crossword Puzzles](https://www.myabandonware.com/game/bible-crossword-puzzles-tou)
-* [Berušky](https://www.myabandonware.com/game/berusky-tot)
-* [Battle of the Elements](https://www.myabandonware.com/game/battle-of-the-elements-tos)
-* [Barbarian](https://www.myabandonware.com/game/barbarian-tor)
-* [Ballistic](https://www.myabandonware.com/game/ballistic-toq)
+* [Boulder](https://www.myabandonware.com/game/boulder-tpb)
+* [Boulder Dash](https://www.myabandonware.com/game/boulder-dash-tpa)
+* [Bips](https://www.myabandonware.com/game/bips-tp9)
+* [!Bingo Granny!](https://www.myabandonware.com/game/bingo-granny-tp8)
+* [Attack of the Petscii Robots](https://www.myabandonware.com/game/attack-of-the-petscii-robots-tp7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
