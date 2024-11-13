@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/is-assange-een-rothschild-agent/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nog-steeds-misleidende-prostaat-tests/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
