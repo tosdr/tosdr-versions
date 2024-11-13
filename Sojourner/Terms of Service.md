@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-4fc45e18078cb39fabaddb235761df46
+063a8d62206f65850dbfca0c762653dc
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![5 mm by 15 mm top-drilled Czech glass daggers](https://sojourner.biz/images/cache/glass/GL0224strand.200.jpg)](https://sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
+[![8 mm flat-back, two-hole peacock button pearls](https://sojourner.biz/images/cache/pearls/PE0095.200.jpg)](https://sojourner.biz/beads/pearls/8-mm-flat-back-two-hole-peacock-button-pearls.html "8 mm flat-back, two-hole peacock button pearls")
 
-#### [5 mm by 15 mm top-drilled Czech glass daggers](https://sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
+#### [8 mm flat-back, two-hole peacock button pearls](https://sojourner.biz/beads/pearls/8-mm-flat-back-two-hole-peacock-button-pearls.html "8 mm flat-back, two-hole peacock button pearls")
 
-$10.00
+$20.00
 
 ### Best Sellers
 
