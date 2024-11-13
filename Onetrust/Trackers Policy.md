@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [OneTrust named a strong performer in 2023 Forrester Data Governance Wave​](https://www.onetrust.com/resources/onetrust-named-a-strong-performer-in-2023-forrester-data-governance-wave-report/)
-* [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
-* [Bill S-211: Will you be ready by May 31?](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
+* [Tech risk and compliance masterclass](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-series/)
+* [Tech risk & compliance masterclass: An evidence-based approach to building by-design risk and compliance practices](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-an-evidence-based-approach-to-building-by-design-risk-and-compliance-practices-webinar/)
+* [The new data landscape: Navigating the shift to AI-ready data](https://www.onetrust.com/resources/the-new-data-landscape-navigating-the-shift-to-ai-ready-data-webinar/)
 
 ### Platform
 
