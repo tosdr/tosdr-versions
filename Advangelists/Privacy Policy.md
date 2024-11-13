@@ -4,7 +4,7 @@ Hit enter to search or ESC to close
 
 [![Advangelists Micro Audience Ad Targeting Technology](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Advangelists Micro Audience Ad Targeting Technology](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/01/logo.png?time=1730765259)](https://advangelists.com/)
+![Advangelists Micro Audience Ad Targeting Technology](https://advangelists.com/wp-content/uploads/2019/01/logo.png)](https://advangelists.com/)
 
 [](#sidewidgetarea)
 
@@ -26,7 +26,7 @@ Hit enter to search or ESC to close
 
 ![Advangelists Micro Audience Ad Targeting Technology](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![Advangelists Micro Audience Ad Targeting Technology](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/01/logo.png?time=1730765259)
+![Advangelists Micro Audience Ad Targeting Technology](https://advangelists.com/wp-content/uploads/2019/01/logo.png)
 
 [Menu](#)
 
@@ -420,11 +420,11 @@ You can also contact Advangelists’s Data Protection Officer at dpo@advangelist
 
 * ![IAB Member](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![IAB Member](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/04/iab-memberseal-black.gif)
+    ![IAB Member](https://advangelists.com/wp-content/uploads/2019/04/iab-memberseal-black.gif)
     
     ![tag certified](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    ![tag certified](https://87a7c6.p3cdn1.secureserver.net/wp-content/uploads/2019/04/tag-member-seal.gif)
+    ![tag certified](https://advangelists.com/wp-content/uploads/2019/04/tag-member-seal.gif)
     
 
 ###### [Privacy policy | GDPR](https://advangelists.com/privacy-policy/)
