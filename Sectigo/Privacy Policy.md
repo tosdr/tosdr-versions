@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
 * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
 * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
 * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
 * [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
-* [Root Causes 433: Will AI Eat All the Electricity?](https://www.sectigo.com/resource-library/root-causes-433-will-ai-eat-all-the-electricity)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -242,11 +242,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [45-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/45-day-tls-shorter-certificate-lifespans-everywhere)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
     * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
     * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
     * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
     * [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
-    * [Root Causes 433: Will AI Eat All the Electricity?](https://www.sectigo.com/resource-library/root-causes-433-will-ai-eat-all-the-electricity)
     
 * Company
     
