@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=4160820&fmt=gif)
 
-      Terms of Service | Toddle                                              
+      Terms of Service | Toddle                                             
 
 [![Toddle](https://www.toddleapp.com/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/ "Toddle")
 
@@ -60,7 +60,7 @@
         
         Explore Toddle for your school
         
-        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/07/MacBook-Pro.webp)
         
@@ -88,7 +88,7 @@
         
         Plan your curriculum, assess student learning and so much more - all from one place.
         
-        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
         
@@ -160,7 +160,7 @@
         
         Explore Toddle for your school
         
-        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/07/MacBook-Pro.webp)
         
@@ -188,7 +188,7 @@
         
         Plan your curriculum, assess student learning and so much more - all from one place.
         
-        [Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+        [Get a demo](https://toddleapp.com/book-a-free-demo/)
         
         ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
         
@@ -307,7 +307,7 @@ PLATFORM
 
 Explore Toddle for your school
 
-[Get a demo](https://www.toddleapp.com/book-a-free-demo/)
+[Get a demo](https://toddleapp.com/book-a-free-demo/)
 
 ![](https://www.toddleapp.com/wp-content/uploads/2024/09/Group-27574.webp)
 
@@ -348,7 +348,7 @@ In this document, unless the context otherwise requires:
 
 **“Subscription Period”** means the Service subscription period for a specific Subscriber and its Licensed Users. The Subscription Period is twelve (12) months with automatic renewal every 12 months and will commence on the Effective Date, or where so agreed a longer or shorter time period, as outlined in this licensing contract;
 
-**“Terms and conditions of Use”** means the Service Provider’s supplementary document “Toddle Terms of Use” that the Subscriber and their Users have to accept to use the Service; these Terms are available at [http://www.toddleapp.com/tou/](http://www.toddleapp.com/tou/) as the same may be updated from time to time.
+**“Terms and conditions of Use”** means the Service Provider’s supplementary document “Toddle Terms of Use” that the Subscriber and their Users have to accept to use the Service; these Terms are available at [https://toddleapp.com/tou/](https://toddleapp.com/tou/) as the same may be updated from time to time.
 
 **“User Account Information”** means information requested by the Service Provider about Subscriber’s Users in order to set up and register the Users for Services.
 
@@ -421,7 +421,7 @@ This Fair Usage Policy (the “Policy”) outlines the guidelines and expectatio
 **4.5 Updates to the Policy**
 
 Service Provider reserves the right to update or modify this Fair Usage Policy as needed. Subscriber will be notified of any changes and will be expected to comply with the updated version.  
-For the most updated version of the policy – please visit [www.toddleapp.com/privacy-center/](https://www.toddleapp.com/privacy-center/)
+For the most updated version of the policy – please visit [staging-www.toddleapp.com/privacy-center/](https://toddleapp.com/privacy-center/)
 
 5\. Fees and Payment
 --------------------
@@ -467,7 +467,7 @@ Example: If the Subscriber’s current pricing tier allows for up to 249 users, 
 
 8.3. Subscriber and its Users may not copy, make transcriptions or recordings or in any other way reproduce or duplicate any document or other medium containing Confidential Information or Intellectual Property Rights, without Service Provider’s written consent.
 
-8.4. Service Provider will comply with applicable Data Protection Regulation as well as with its own, at each time applicable, Privacy Policy in relation to any Subscriber or User personal data that it may collect and process for the purposes of supplying the Service. Service Provider will process any such personal data in accordance with Service Provider’s Privacy Policy, available online at [https://www.toddleapp.com/pp/](https://www.toddleapp.com/pp/)
+8.4. Service Provider will comply with applicable Data Protection Regulation as well as with its own, at each time applicable, Privacy Policy in relation to any Subscriber or User personal data that it may collect and process for the purposes of supplying the Service. Service Provider will process any such personal data in accordance with Service Provider’s Privacy Policy, available online at [https://toddleapp.com/pp/](https://toddleapp.com/pp/)
 
 9\. Limitation of Liability
 ---------------------------
