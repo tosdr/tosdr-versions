@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [!['Full House' actor Dave Coulier diagnosed with 'very aggressive' cancer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1241878424.jpg?ve=1&tl=1)
+ [![Gift ideas for people who have everything](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/they-dont-have-this-thumbnail.jpg?ve=1&tl=1)
 
- !['Full House' actor Dave Coulier diagnosed with 'very aggressive' cancer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1241878424.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dave-coulier-cancer-diagnosis)
+ ![Gift ideas for people who have everything](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/they-dont-have-this-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-they-dont-have-these)
 
-### ['Full House' actor Dave Coulier diagnosed with 'very aggressive' cancer](https://www.fox4news.com/news/dave-coulier-cancer-diagnosis)
+### [Gift ideas for people who have everything](https://www.fox4news.com/news/2024-gift-guide-they-dont-have-these)
 
- [![Trump taps Elon Musk, Vivek Ramaswamy to lead Department of Government Efficiency](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2176078700.jpg?ve=1&tl=1)
+ [![Sen. John Thune becomes next Senate majority leader](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1477583927-scaled.jpg?ve=1&tl=1)
 
- ![Trump taps Elon Musk, Vivek Ramaswamy to lead Department of Government Efficiency](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2176078700.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
+ ![Sen. John Thune becomes next Senate majority leader](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1477583927-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/senator-john-thune-senate-majority-leader)
 
-### [Trump taps Elon Musk, Vivek Ramaswamy to lead Department of Government Efficiency](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
+### [Sen. John Thune becomes next Senate majority leader](https://www.fox4news.com/news/senator-john-thune-senate-majority-leader)
 
- [![1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111224-fw-i20-fatal-crash-kdfweme002_21_36_06_mpg_00.25.59.28.jpg?ve=1&tl=1)
+ [![Top 10 toys for 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/top-10-toys-thumbnail.jpg?ve=1&tl=1)
 
- ![1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111224-fw-i20-fatal-crash-kdfweme002_21_36_06_mpg_00.25.59.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-killed-several-injured-i-20-chain-reaction-crash-fort-worth)
+ ![Top 10 toys for 2024](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/top-10-toys-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-top-10-toys)
 
-### [1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://www.fox4news.com/news/1-killed-several-injured-i-20-chain-reaction-crash-fort-worth)
+### [Top 10 toys for 2024](https://www.fox4news.com/news/2024-gift-guide-top-10-toys)
 
- [![Haltom City road rage shooting: 2 arrested for 16-year-old's murder; 2 more sought](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/haltom-city-arrest.png?ve=1&tl=1)
+ [![Biden, Trump meet at the White House for transition talks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183892179.jpg?ve=1&tl=1)
 
- ![Haltom City road rage shooting: 2 arrested for 16-year-old's murder; 2 more sought](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/haltom-city-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jasue-moreno-juan-perez-murder-arrests-raul-gonzalez-victim-road-rage-haltom-city)
+ ![Biden, Trump meet at the White House for transition talks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183892179.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-trump-meet-white-house-nov-13-2024)
 
-### [Haltom City road rage shooting: 2 arrested for 16-year-old's murder; 2 more sought](https://www.fox4news.com/news/jasue-moreno-juan-perez-murder-arrests-raul-gonzalez-victim-road-rage-haltom-city)
+### [Biden, Trump meet at the White House for transition talks](https://www.fox4news.com/news/biden-trump-meet-white-house-nov-13-2024)
 
- [![Live House election results: What GOP needs for majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2175609361.jpg?ve=1&tl=1)
+ [![Spirit prepares for bankruptcy filing after failed Frontier talks: report](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2006559720.jpg?ve=1&tl=1)
 
- ![Live House election results: What GOP needs for majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2175609361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
+ ![Spirit prepares for bankruptcy filing after failed Frontier talks: report](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2006559720.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/spirit-prepares-bankruptcy-filing-after-failed-frontier-talks-report)
 
-### [Live House election results: What GOP needs for majority](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
+### [Spirit prepares for bankruptcy filing after failed Frontier talks: report](https://www.fox4news.com/money/spirit-prepares-bankruptcy-filing-after-failed-frontier-talks-report)
 
 ###### [News](https://www.fox4news.com/news)
 
