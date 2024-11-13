@@ -46,7 +46,7 @@ If for any reason a court of competent jurisdiction finds any provision or porti
 
 If you have any questions or concerns about our Site or the Terms of Use, please contact us at [mcpp@mackinac.org](mailto:mcpp@mackinac.org).
 
-![](/include/images/logo.svg)
+![Mackinac Center Logo](/include/images/logo.svg)
 
 The Mackinac Center for Public Policy is a nonprofit research and educational institute that advances the principles of free markets and limited government. Through our research and education programs, we challenge government overreach and advocate for a free-market approach to public policy that frees people to realize their potential and dreams.
 
