@@ -4,7 +4,7 @@
 
 ![](https://s.amazon-adsystem.com/iu3?pid=67ae216d-997c-4448-b1c3-25887206ec47&event=PageView)
 
-                  
+              
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
@@ -275,7 +275,7 @@ About![Expander Arrow](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_righ
 
 Quick Links![Expander Arrow](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_right-arrow.svg?v=1583784384)
 
-[Careers](https://www.poopourri.com/pages/careers "Careers") [FAQ](https://www.poopourri.com/pages/faq "FAQ") [Find a Store](https://www.poopourri.com/pages/air-care "Find a Store") [Rewards](https://www.poopourri.com/pages/rewards "Rewards") [Refer a Friend](https://www.poopourri.com/pages/refer-a-friend "Refer a Friend") [Wholesale](https://wholesale.poopourri.com/ "Wholesale")
+[Careers](https://www.poopourri.com/pages/careers "Careers") [FAQ](https://www.poopourri.com/pages/faq "FAQ") [Find a Store](https://www.poopourri.com/pages/air-care "Find a Store") [Refer a Friend](https://www.poopourri.com/pages/refer-a-friend "Refer a Friend") [Wholesale](https://wholesale.poopourri.com/ "Wholesale")
 
 Legal![Expander Arrow](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_right-arrow.svg?v=1583784384)
 
@@ -307,7 +307,6 @@ INTERNATIONAL INQUIRIES[international@pourri.com](mailto:international@pourri.co
 * [Careers](https://www.poopourri.com/pages/careers)
 * [FAQ](https://www.poopourri.com/pages/faq)
 * [Find a Store](https://www.poopourri.com/pages/air-care)
-* [Rewards](https://www.poopourri.com/pages/rewards)
 * [Refer a Friend](https://www.poopourri.com/pages/refer-a-friend)
 * [Wholesale](https://wholesale.poopourri.com/)
 
