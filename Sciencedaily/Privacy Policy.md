@@ -208,16 +208,16 @@ this hour
 
 * * *
 
-* [Asthma and Memory Difficulties](https://www.sciencedaily.com/releases/2024/11/241111122759.htm)
-* [Swirling Polar Vortices Likely Exist On the Sun](https://www.sciencedaily.com/releases/2024/11/241111155235.htm)
-* [Universal Scale: Testing Einstein's Predictions](https://www.sciencedaily.com/releases/2024/11/241111123136.htm)
-* [Secret Behind Corpse Flower's Famous Stench](https://www.sciencedaily.com/releases/2024/11/241111122833.htm)
-* [Storm in a Laser Beam](https://www.sciencedaily.com/releases/2024/11/241111123307.htm)
-* [Noncoding RNAs Are Not Junk](https://www.sciencedaily.com/releases/2024/11/241107115053.htm)
-* [Deep Ocean Clues to Ice Age Puzzle](https://www.sciencedaily.com/releases/2024/11/241108113456.htm)
-* [How Plants Grow Thicker, Not Just Taller](https://www.sciencedaily.com/releases/2024/11/241107160612.htm)
-* [Scarlet Macaw Parents 'Play Favorites'](https://www.sciencedaily.com/releases/2024/11/241108113259.htm)
-* [Plastic Pollution: Much More Than Waste Issue](https://www.sciencedaily.com/releases/2024/11/241107115050.htm)
+* [Fossil Fuel CO2 Emissions Increase Again in 2024](https://www.sciencedaily.com/releases/2024/11/241112191227.htm)
+* [What Is the Sun Made Of? New Data](https://www.sciencedaily.com/releases/2024/11/241112122742.htm)
+* [Earliest Ancient Maya Salt Works](https://www.sciencedaily.com/releases/2024/11/241112191056.htm)
+* [Swimming Sea Slug from the Deep Sea](https://www.sciencedaily.com/releases/2024/11/241112122719.htm)
+* [Super Microscope: Nanoscale Biological Process](https://www.sciencedaily.com/releases/2024/11/241111123408.htm)
+* [Genomic Test to Diagnose Nearly Any Infection](https://www.sciencedaily.com/releases/2024/11/241112123431.htm)
+* [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
+* [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
+* [First Amber Find On the Antarctic Continent](https://www.sciencedaily.com/releases/2024/11/241112122816.htm)
+* [Moderate Exercise Can Reduce Heart Risk](https://www.sciencedaily.com/releases/2024/11/241111155405.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+
 [Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
-
-[Memory](https://www.sciencedaily.com/news/mind_brain/memory/)
+[Medical Education and Training](https://www.sciencedaily.com/news/health_medicine/medical_education_and_training/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
+
 [Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
-[Hacking](https://www.sciencedaily.com/news/computers_math/hacking/)
-
-[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
+[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Recycling and Waste](https://www.sciencedaily.com/news/earth_climate/recycling_and_waste/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
   
 
