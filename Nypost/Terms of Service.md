@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Judge delays ruling on whether to scrap Trump’s conviction in hush money case](https://nypost.com/2024/11/12/us-news/judge-delays-ruling-on-whether-to-scrap-trumps-conviction-in-hush-money-case/)
+
 Terms Of Use
 ============
 
