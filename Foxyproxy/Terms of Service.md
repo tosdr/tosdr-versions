@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for your fantastic support. Very quick and easy to understand.
+Thanks for this notification. No useful feedback to give I'm afraid; very pleased with the service and will be resubscribing soon.
 
-Ken Lingard
+Lieven Vandelanotte
