@@ -240,26 +240,18 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Great Users
+### Get connected with us!
 
   
-
-![Partner](/content/images/content/strip/wyatt.house.png)
-
-  
-
-  
-![Partner](/content/images/content/strip/clearviewnetworks.com.png)
+Keep updated with related news and offers.
 
   
 
   
-![Partner](/content/images/content/strip/Skyrim.co.png)
+
+[Follow @DynuSystems](https://twitter.com/DynuSystems)
 
   
-
-  
-![Partner](/content/images/content/strip/coreit.ro.png)
 
 ### News
 
