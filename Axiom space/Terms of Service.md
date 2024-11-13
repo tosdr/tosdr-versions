@@ -30,7 +30,7 @@ For education
 
 About
 
-[Board](https://www.axiomspace.com/board)[Team](https://www.axiomspace.com/team)[Careers](https://www.axiomspace.com/careers)[Newsroom](https://www.axiomspace.com/newsroom)
+[Team](https://www.axiomspace.com/team)[Careers](https://www.axiomspace.com/careers)[Newsroom](https://www.axiomspace.com/newsroom)
 
 Shop
 
