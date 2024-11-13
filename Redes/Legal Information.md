@@ -86,7 +86,7 @@ Transformación Digital PYMES
 
 Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting
 
-El programa, que estará abierto hasta el 31 de diciembre de 2024, ya ha superado las 10.000 solicitudes de ayudas 
+El programa tendrá el plazo de solicitud abierto hasta el 28 de febrero de 2025
 
 [Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting](http://red.es/es/actualidad/noticias/accede-los-bonos-de-asesoramiento-digital-especializado-para-pymes-de-kit "Ir al contenido de: Accede a los bonos de asesoramiento digital especializado para pymes de Kit Consulting")
 
