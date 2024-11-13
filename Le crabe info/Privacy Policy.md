@@ -121,7 +121,7 @@ En acceptant les cookies, vous aideriez et contribueriez à la gratuité du Crab
 
 Si vous changez d'avis et que **vous avez envie de nous donner un coup de pince**, cliquez ici : J'accepte les cookies 🍪️
 
-##### 164 utilisateurs actifs
+##### 613 utilisateurs actifs
 
 Chargement en cours
 
@@ -131,9 +131,9 @@ Chargement en cours
 
 ### À la une
 
+* [Un mini PC AMD Ryzen dans un clavier pliable : une innovation incroyable !](https://lecrabeinfo.net/un-mini-pc-amd-ryzen-dans-un-clavier-pliable-une-innovation-incroyable.html)
 * [4 méthodes pour bloquer les publicités sur YouTube](https://lecrabeinfo.net/4-methodes-pour-bloquer-les-publicites-sur-youtube.html)
 * [L'application officielle ChatGPT est enfin disponible sur Windows !](https://lecrabeinfo.net/lapplication-officielle-chatgpt-est-enfin-disponible-sur-windows.html) 
-* [Bug de Word qui supprime les documents (au lieu de les enregistrer) : Microsoft publie enfin un correctif !](https://lecrabeinfo.net/bug-de-word-qui-supprime-les-documents-au-lieu-de-les-enregistrer-microsoft-publie-enfin-un-correctif.html)
 
 ### Tendance
 
