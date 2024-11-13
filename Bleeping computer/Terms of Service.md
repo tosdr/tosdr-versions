@@ -23,19 +23,22 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Windows 11 is adding a 'Share' button to the Start menu and Taskbar](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 91 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 is adding a 'Share' button to the Start menu and Taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
-    * [![Microsoft says recent Windows 11 updates break SSH connections](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 91 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/)
+    * [![iPhones now auto-restart to block access to encrypted data after long idle times](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft says recent Windows 11 updates break SSH connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-11-updates-break-ssh-connections/)
-    * [![Google says “Enhanced protection” feature in Chrome now uses AI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        iPhones now auto-restart to block access to encrypted data after long idle times](https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
+    * [![Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Google says “Enhanced protection” feature in Chrome now uses AI](https://www.bleepingcomputer.com/news/google/google-says-enhanced-protection-feature-in-chrome-now-uses-ai/)
-    * [![Palo Alto Networks warns of potential PAN-OS RCE vulnerability](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/)
+    * [![Volt Typhoon rebuilds malware botnet following FBI disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
+        Volt Typhoon rebuilds malware botnet following FBI disruption](https://www.bleepingcomputer.com/news/security/volt-typhoon-rebuilds-malware-botnet-following-fbi-disruption/)
     
+    * [![This AI-powered voice recorder deal makes every meeting memorable](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This AI-powered voice recorder deal makes every meeting memorable](https://www.bleepingcomputer.com/offer/deals/this-ai-powered-voice-recorder-deal-makes-every-meeting-memorable/)
     * [![Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
@@ -45,9 +48,6 @@
     * [![D-Link won’t fix critical bug in 60,000 exposed EoL modems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         D-Link won’t fix critical bug in 60,000 exposed EoL modems](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/)
-    * [![Windows 10 KB5046613 update released with fixes for printer bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Windows 10 KB5046613 update released with fixes for printer bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046613-update-released-with-fixes-for-printer-bugs/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
