@@ -194,26 +194,6 @@ cancel
     
 * [Partners](https://www.turnitin.com/partners/)
     
-    close
-    
-    [Partners](https://www.turnitin.com/partners/ "Partners")
-    
-    [Content partners
-    
-    Become a Turnitin Content Partner to protect your published content with the world’s most trusted plagiarism checker.](https://www.turnitin.com/partners/content-partners)
-    
-    [Technical integration partners
-    
-    Expand the functionality of your solution by integrating with Turnitin-powered similarity checking, writing feedback, and grading tools.](https://www.turnitin.com/partners/technical-integration-partners)
-    
-    [Commercial partners
-    
-    Become a Turnitin Commercial Partner and choose from a variety of flexible business models that deliver value to your Customers.](https://www.turnitin.com/partners/commercial-partners)
-    
-    [Partner Directory
-    
-    Discover how Turnitin works with Partners to enhance education and research](https://www.turnitin.com/partners/partners-directory/)
-    
 * [Media Center](https://www.turnitin.com/media-center/)
     
     close
@@ -709,24 +689,6 @@ close
 * [Resources](https://www.turnitin.com/resources/)
     
 * [Partners](https://www.turnitin.com/partners/)
-    
-    [Partners](https://www.turnitin.com/partners/ "Partners")
-    
-    [Content partners
-    
-    Become a Turnitin Content Partner to protect your published content with the world’s most trusted plagiarism checker.](https://www.turnitin.com/partners/content-partners)
-    
-    [Technical integration partners
-    
-    Expand the functionality of your solution by integrating with Turnitin-powered similarity checking, writing feedback, and grading tools.](https://www.turnitin.com/partners/technical-integration-partners)
-    
-    [Commercial partners
-    
-    Become a Turnitin Commercial Partner and choose from a variety of flexible business models that deliver value to your Customers.](https://www.turnitin.com/partners/commercial-partners)
-    
-    [Partner Directory
-    
-    Discover how Turnitin works with Partners to enhance education and research](https://www.turnitin.com/partners/partners-directory/)
     
 * [Media Center](https://www.turnitin.com/media-center/)
     
