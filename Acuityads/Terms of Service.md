@@ -30,9 +30,9 @@ EARNINGS CALL - illumin's Q3 earnings call is Nov 8
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Effective, purpose-based marketing for 2025](https://illumin.com/wp-content/uploads/2023/05/Effective-Purpose-Based-Marketing-in-2023-2-263x300.jpg)
+    * ![Data privacy laws are tightening across the US, advertisers need to get ahead](https://illumin.com/wp-content/uploads/2024/11/daata-privacy-laws-263x300.jpg)
         
-        Effective, purpose-based marketing for 2025[Read More](https://illumin.com/insights/blog/effective-purpose-based-marketing/)
+        Data privacy laws are tightening across the US, advertisers need to get ahead[Read More](https://illumin.com/insights/blog/data-privacy-laws-are-tightening/)
         
 * [Company](#)
     * [Company](#)
