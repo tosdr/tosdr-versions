@@ -206,25 +206,22 @@ Or in writing to Michel West Media, 23 Belgrave St, Manly NSW 2095.
 
 This website is dedicated to the public interest. Our focus is investigations into big business, particularly multinational tax avoidance, banking and the energy sector.
 
-Good sources are critical to good journalism. We have always worked closely with our contacts and jealously guard their identities. Absolute confidentiality is assured.
+Good sources are critical to good journalism. We work closely with our contacts and jealously guard their identities. Absolute confidentiality is assured.
 
- 
+Get our free newsletter
+-----------------------
 
- 
+\* indicates required
 
-GET WEEKLY NEWSLETTER
+|     |     |
+| --- | --- |
+| Your Name |     |
+| Email Address\* |     |
 
-Loading...
+Select one or both
+------------------
 
-GET NEWSLETTER
-
-Loading...
-
-#### Thank you!
-
-Weekly email normally sent on Wednesday
-
-The Daily Newsfeed every day at 5pm
+* [x] Weekly on Wednesday [ ] Daily at 5pm
 
 © Michael West Media
 
