@@ -20,6 +20,23 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
+    
+    ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
+    
+    [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+    
+    ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+    
+    [![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-360x180.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
+    
+    ### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
+    
+    [![Greenwich train station reportedly dates back to the mid-19th century.
+    Photo from Google Earth.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Greenwich-Train-Station-360x180.jpg)](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
+    
+    ### [Victorian South London station to get a series of upgrades](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
+    
     [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
     
     ### [Sadiq Khan asked to support South London’s Migration Museum’s move to Tower Hill](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
@@ -40,22 +57,6 @@
     [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
     
     ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-    
-    [![Rober Rinder will give an interview inside the Cathedral later this month. Image: Cathyfosterknox (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rober-Rinder-will-give-an-interview-inside-the-Cathedral-later-this-month.-Image-Cathyfosterknox-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
-    
-    ### [TV’s Judge Rinder to join SleepOut to raise homelessness awareness at Southwark Cathedral](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
-    
-    [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-360x180.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-    
-    ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-    
-    [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-360x180.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
-    ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
-    [![New Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/New-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
-    
-    ### [‘Knifeman attempts bike theft’ in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +107,23 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
+    
+    ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
+    
+    [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+    
+    ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+    
+    [![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-360x180.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
+    
+    ### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
+    
+    [![Greenwich train station reportedly dates back to the mid-19th century.
+    Photo from Google Earth.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Greenwich-Train-Station-360x180.jpg)](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
+    
+    ### [Victorian South London station to get a series of upgrades](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
+    
     [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
     
     ### [Sadiq Khan asked to support South London’s Migration Museum’s move to Tower Hill](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
@@ -126,22 +144,6 @@ View All Result
     [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
     
     ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-    
-    [![Rober Rinder will give an interview inside the Cathedral later this month. Image: Cathyfosterknox (Creative Commons)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Rober-Rinder-will-give-an-interview-inside-the-Cathedral-later-this-month.-Image-Cathyfosterknox-Creative-Commons-360x180.png)](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
-    
-    ### [TV’s Judge Rinder to join SleepOut to raise homelessness awareness at Southwark Cathedral](https://southwarknews.co.uk/area/borough/tvs-judge-rinder-to-join-sleepout-to-raise-homelessness-awareness-at-southwark-cathedral/)
-    
-    [![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-360x180.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-    
-    ### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-    
-    [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-360x180.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
-    ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-    
-    [![New Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/New-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
-    
-    ### [‘Knifeman attempts bike theft’ in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -365,17 +367,17 @@ Website
 
 [10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
 
-[![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-[7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
 [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 [11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+
+[![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
+### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
+
+[7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
 [![Neil Harris passes on instructions. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/Harris-Azeez-Stoke--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
 
@@ -384,6 +386,18 @@ Website
 [9th November 2024](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
 
 ### Featured Articles
+
+[![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-120x86.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+
+### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+
+[13th November 2024](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
+
+[![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-120x86.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
+
+### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
+
+[13th November 2024](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
 
 [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
@@ -409,18 +423,6 @@ Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-c
 ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 [12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-
-[![Manfred Weichert pouring over the flight map notes. Credit: Manfred Weichert](https://southwarknews.co.uk/wp-content/uploads/2024/11/Manfred-Weichert-pouring-over-the-flight-map-notes.-Credit-Manfred-Weichert-120x86.png)](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-
-### [Mystery of WW2 airman from Herne Hill revived by handwritten notes from wreckage](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-
-[11th November 2024](https://southwarknews.co.uk/area/herne-hill/mystery-of-ww2-airman-from-herne-hill-revived-by-handwritten-notes-from-wreckage/)
-
-[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 ### USEFUL PAGES
 
