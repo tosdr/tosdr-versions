@@ -213,13 +213,15 @@ Shopping List
         
     * [Fan Favorites](https://www.aldi.us/products/fan-favorites/ "Vote for your 2024 Fan Favorites product winners and learn how to find these popular items online or at an ALDI store near you.")
         
-    * [Seasonal Products](https://www.aldi.us/products/seasonal-products/ "Get ready for autumn with limited time fall foods and items. Shop affordable seasonal products like cider and beer, coffee, pie and soup at your local ALDI.")
+    * [Seasonal Products](https://www.aldi.us/products/seasonal-products/ "Get ready for winter with limited time foods and items. Shop affordable seasonal products like soups, hot chocolate and eggnog at your local ALDI.")
         
     * [Advent & Holiday Calendars](https://www.aldi.us/products/advent-holiday-calendars/ "Explore our amazing selection of upcoming Holiday & Advent Calendars. Save money this holiday season when you shop at ALDI.")
         
     * [Thanksgiving](https://www.aldi.us/products/thanksgiving/ "From turkey to delicious sides & desserts, we’ve got everything you need to get ready for Thanksgiving. Save on Thanksgiving essentials when you shop at ALDI.  ")
         
     * [Holiday](https://www.aldi.us/products/holiday/ "Get holly and jolly for the Holiday season. View recipe ideas and assemble your Holiday grocery list and find dinner, side dishes, desserts and more at your local ALDI.  ")
+        
+    * [ALDI Gear](https://www.aldi.us/products/aldi-gear/ "Browse our upcoming Winter 2024 limited-edition ALDI Gear which includes holiday sweaters, tumblers, slippers, pajamas & more. Shop the collection November 20th.")
         
     * [BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Dive into spring and summer with ALDI’s barbecue and picnic essentials! Browse our finest selection of meats, fresh produce and sides for your outdoor feast.")
         
