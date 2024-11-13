@@ -449,45 +449,18 @@ Menu
         
         Alarms](https://www.thehomesecuritysuperstore.com/collections/alarms)
         
-        * [![Wireless Alarm Systems](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WirelessAlarms_500x500_4f5faf44-2c31-4e52-b449-2001e075d3b7.jpg?v=1624898751&width=300)
+        * [![Door and Window Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DoorAlarms_500x500_30c1c00a-1229-4ea2-a7e9-303abdf02351.jpg?v=1725048285&width=300)
             
-            Wireless Alarm Systems](https://www.thehomesecuritysuperstore.com/collections/wireless-alarms-systems)
-        * [![Door Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DoorAlarms_500x500_30c1c00a-1229-4ea2-a7e9-303abdf02351.jpg?v=1725048285&width=300)
-            
-            Door Alarms](https://www.thehomesecuritysuperstore.com/collections/door-alarms)
-        * [![Window Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HSDWA.jpg?v=1725048368&width=300)
-            
-            Window Alarms](https://www.thehomesecuritysuperstore.com/collections/window-alarms)
+            Door and Window Alarms](https://www.thehomesecuritysuperstore.com/collections/door-and-window-alarms)
         * [![Driveway Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DrivewayAlarms_500x500_1bd0b8c1-0d04-4abf-960b-c93dc615280f.jpg?v=1697662649&width=300)
             
             Driveway Alarms](https://www.thehomesecuritysuperstore.com/collections/driveway-alarms)
         * [![Motion Sensor & Detector Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MotionAlarms_500x500_18f1fa50-a290-4ab6-bc2e-4a60d3611541.jpg?v=1725048066&width=300)
             
             Motion Sensor & Detector Alarms](https://www.thehomesecuritysuperstore.com/collections/motion-detector-alarms)
-        * [![Glass Break Detectors](//www.thehomesecuritysuperstore.com/cdn/shop/collections/GlassBreakDetectors_500x500_9cec7743-a5de-4807-8c77-e02e926f8a18.jpg?v=1657907064&width=300)
+        * [![Personal Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PersonalAlarms_500x500_578b5eab-abef-4777-af39-6a44eadd2751.jpg?v=1624899788&width=300)
             
-            Glass Break Detectors](https://www.thehomesecuritysuperstore.com/collections/glass-break-detectors)
-        * [![Personal Safety Alarms & Keychains](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PersonalAlarms_500x500_578b5eab-abef-4777-af39-6a44eadd2751.jpg?v=1624899788&width=300)
-            
-            Personal Safety Alarms & Keychains](https://www.thehomesecuritysuperstore.com/collections/personal-alarms)
-        * [![Visitor Chimes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/VistorChimes_500x500_c25207ca-3deb-4495-9526-c369c5020fb3.jpg?v=1725048521&width=300)
-            
-            Visitor Chimes](https://www.thehomesecuritysuperstore.com/collections/visitor-chimes)
-        * [![Miscellaneous Alarm](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MiscAlarms_500x500_2c6e9fa8-7fab-4bb2-bd23-31d6469f4c1b.jpg?v=1725048644&width=300)
-            
-            Miscellaneous Alarm](https://www.thehomesecuritysuperstore.com/collections/miscellaneous-alarms)
-        * [![Wireless Doorbell Chimes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WirelessDoorbell_500x500_888bded9-f6be-4321-972b-300b83f5f334.jpg?v=1725048324&width=300)
-            
-            Wireless Doorbell Chimes](https://www.thehomesecuritysuperstore.com/collections/wireless-doorbell-chimes)
-        * [![Car Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CarAlarms_500x500_3c0b22ef-3074-4a45-a69c-7798941d614a.jpg?v=1563418697&width=300)
-            
-            Car Alarms](https://www.thehomesecuritysuperstore.com/collections/car-alarms)
-        * [![Security System Signs](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SecuritySigns_500x500_8240c20b-055c-4302-a9d5-1e5700c03808.jpg?v=1615413616&width=300)
-            
-            Security System Signs](https://www.thehomesecuritysuperstore.com/collections/security-system-signs)
-        * [![Yard Security Signs](//www.thehomesecuritysuperstore.com/cdn/shop/collections/YardSecuritySigns_500x500_e48c8437-ecbc-49b1-8903-22dc43250fc7.jpg?v=1624901347&width=300)
-            
-            Yard Security Signs](https://www.thehomesecuritysuperstore.com/collections/yard-security-signs)
+            Personal Alarms](https://www.thehomesecuritysuperstore.com/collections/personal-alarms)
         
     * [![Locks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/37388_xl.jpg?v=1725049992&width=60)
         
@@ -502,15 +475,9 @@ Menu
         * [![Deadbolts](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Deadbolts_500x500_52796a3c-7f52-4db3-b504-330b1304b402.jpg?v=1563417505&width=300)
             
             Deadbolts](https://www.thehomesecuritysuperstore.com/collections/deadbolts)
-        * [![Padlocks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Padlocks_500x500_2ab2e481-a910-4dbe-80d4-852185b65fa2.jpg?v=1725050044&width=300)
+        * [![High Security Padlocks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Padlocks_500x500_2ab2e481-a910-4dbe-80d4-852185b65fa2.jpg?v=1725050044&width=300)
             
-            Padlocks](https://www.thehomesecuritysuperstore.com/collections/padlocks)
-        * [![Gun Locks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/GunLocks2.jpg?v=1563414871&width=300)
-            
-            Gun Locks](https://www.thehomesecuritysuperstore.com/collections/gun-locks)
-        * [![Door Security bars](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DJAMA.jpg?v=1637171082&width=300)
-            
-            Door Security bars](https://www.thehomesecuritysuperstore.com/collections/door-security-bars)
+            High Security Padlocks](https://www.thehomesecuritysuperstore.com/collections/high-security-padlocks)
         
     * [![Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Flashlights_250x250_901fef0f-26ae-4a1f-a624-85ff7d935e45.jpg?v=1646083597&width=60)
         
@@ -678,45 +645,18 @@ Menu
         [Shop All Security](https://www.thehomesecuritysuperstore.com/collections/security/%3Fview=all)
         
     
-    * [![Wireless Alarm Systems](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WirelessAlarms_500x500_4f5faf44-2c31-4e52-b449-2001e075d3b7.jpg?crop=center&height=300&v=1624898751&width=300)
+    * [![Door and Window Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DoorAlarms_500x500_30c1c00a-1229-4ea2-a7e9-303abdf02351.jpg?crop=center&height=300&v=1725048285&width=300)
         
-        Wireless Alarm Systems](https://www.thehomesecuritysuperstore.com/collections/wireless-alarms-systems)
-    * [![Door Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DoorAlarms_500x500_30c1c00a-1229-4ea2-a7e9-303abdf02351.jpg?crop=center&height=300&v=1725048285&width=300)
-        
-        Door Alarms](https://www.thehomesecuritysuperstore.com/collections/door-alarms)
-    * [![Window Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HSDWA.jpg?crop=center&height=300&v=1725048368&width=300)
-        
-        Window Alarms](https://www.thehomesecuritysuperstore.com/collections/window-alarms)
+        Door and Window Alarms](https://www.thehomesecuritysuperstore.com/collections/door-and-window-alarms)
     * [![Driveway Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DrivewayAlarms_500x500_1bd0b8c1-0d04-4abf-960b-c93dc615280f.jpg?crop=center&height=300&v=1697662649&width=300)
         
         Driveway Alarms](https://www.thehomesecuritysuperstore.com/collections/driveway-alarms)
     * [![Motion Sensor & Detector Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MotionAlarms_500x500_18f1fa50-a290-4ab6-bc2e-4a60d3611541.jpg?crop=center&height=300&v=1725048066&width=300)
         
         Motion Sensor & Detector Alarms](https://www.thehomesecuritysuperstore.com/collections/motion-detector-alarms)
-    * [![Glass Break Detectors](//www.thehomesecuritysuperstore.com/cdn/shop/collections/GlassBreakDetectors_500x500_9cec7743-a5de-4807-8c77-e02e926f8a18.jpg?crop=center&height=300&v=1657907064&width=300)
+    * [![Personal Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PersonalAlarms_500x500_578b5eab-abef-4777-af39-6a44eadd2751.jpg?crop=center&height=300&v=1624899788&width=300)
         
-        Glass Break Detectors](https://www.thehomesecuritysuperstore.com/collections/glass-break-detectors)
-    * [![Personal Safety Alarms & Keychains](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PersonalAlarms_500x500_578b5eab-abef-4777-af39-6a44eadd2751.jpg?crop=center&height=300&v=1624899788&width=300)
-        
-        Personal Safety Alarms & Keychains](https://www.thehomesecuritysuperstore.com/collections/personal-alarms)
-    * [![Visitor Chimes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/VistorChimes_500x500_c25207ca-3deb-4495-9526-c369c5020fb3.jpg?crop=center&height=300&v=1725048521&width=300)
-        
-        Visitor Chimes](https://www.thehomesecuritysuperstore.com/collections/visitor-chimes)
-    * [![Miscellaneous Alarm](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MiscAlarms_500x500_2c6e9fa8-7fab-4bb2-bd23-31d6469f4c1b.jpg?crop=center&height=300&v=1725048644&width=300)
-        
-        Miscellaneous Alarm](https://www.thehomesecuritysuperstore.com/collections/miscellaneous-alarms)
-    * [![Wireless Doorbell Chimes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WirelessDoorbell_500x500_888bded9-f6be-4321-972b-300b83f5f334.jpg?crop=center&height=300&v=1725048324&width=300)
-        
-        Wireless Doorbell Chimes](https://www.thehomesecuritysuperstore.com/collections/wireless-doorbell-chimes)
-    * [![Car Alarms](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CarAlarms_500x500_3c0b22ef-3074-4a45-a69c-7798941d614a.jpg?crop=center&height=300&v=1563418697&width=300)
-        
-        Car Alarms](https://www.thehomesecuritysuperstore.com/collections/car-alarms)
-    * [![Security System Signs](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SecuritySigns_500x500_8240c20b-055c-4302-a9d5-1e5700c03808.jpg?crop=center&height=300&v=1615413616&width=300)
-        
-        Security System Signs](https://www.thehomesecuritysuperstore.com/collections/security-system-signs)
-    * [![Yard Security Signs](//www.thehomesecuritysuperstore.com/cdn/shop/collections/YardSecuritySigns_500x500_e48c8437-ecbc-49b1-8903-22dc43250fc7.jpg?crop=center&height=300&v=1624901347&width=300)
-        
-        Yard Security Signs](https://www.thehomesecuritysuperstore.com/collections/yard-security-signs)
+        Personal Alarms](https://www.thehomesecuritysuperstore.com/collections/personal-alarms)
     
     * [![Door Locks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Doorlocks_500x500_6021f60b-c634-40db-a916-546662f3beed.jpg?crop=center&height=300&v=1563417032&width=300)
         
@@ -727,15 +667,9 @@ Menu
     * [![Deadbolts](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Deadbolts_500x500_52796a3c-7f52-4db3-b504-330b1304b402.jpg?crop=center&height=300&v=1563417505&width=300)
         
         Deadbolts](https://www.thehomesecuritysuperstore.com/collections/deadbolts)
-    * [![Padlocks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Padlocks_500x500_2ab2e481-a910-4dbe-80d4-852185b65fa2.jpg?crop=center&height=300&v=1725050044&width=300)
+    * [![High Security Padlocks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Padlocks_500x500_2ab2e481-a910-4dbe-80d4-852185b65fa2.jpg?crop=center&height=300&v=1725050044&width=300)
         
-        Padlocks](https://www.thehomesecuritysuperstore.com/collections/padlocks)
-    * [![Gun Locks](//www.thehomesecuritysuperstore.com/cdn/shop/collections/GunLocks2.jpg?crop=center&height=300&v=1563414871&width=300)
-        
-        Gun Locks](https://www.thehomesecuritysuperstore.com/collections/gun-locks)
-    * [![Door Security bars](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DJAMA.jpg?crop=center&height=300&v=1637171082&width=300)
-        
-        Door Security bars](https://www.thehomesecuritysuperstore.com/collections/door-security-bars)
+        High Security Padlocks](https://www.thehomesecuritysuperstore.com/collections/high-security-padlocks)
     
     * [![Brightest Flashlight](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BrightestFlashlights_500x500_d32bc808-59a7-432c-859c-5a849d6c272a.jpg?crop=center&height=300&v=1627072798&width=300)
         
