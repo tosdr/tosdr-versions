@@ -63,7 +63,7 @@ Tel: (+32) 56 33 08 35
 Politique de Confidentialité
 ============================
 
-[Accueil](https://e2essentialelements.com/) / Politique de Confidentialité
+[Home](https://e2essentialelements.com/) / Politique de Confidentialité
 
 [0\. Introduction](#0) | [1\. Protection des données](#1) | [2\. Type de données traitées](#2) | [3\. Utilisation des cookies](#3) | [4\. Utilisation du site web](#4) | [5\. Cookies](#5) | [6\. Moyens de contact](#6) | [7\. Newsletter](#7) | [8\. Boutique en ligne](#8) | [9\. Divulgation à des tiers](#9) | [10\. Prise de décision automatisée](#10) | [11\. Profilage](#11) | [12\. Traitement des données par fournisseurs tiers](#12) | [13\. Médias sociaux](#13) | [14\. Plug-ins et outils](#14) | [15\. Vos droits](#15) | [16\. Sécurité](#16) | [17\. Utilisation des cookies](#17) | [18\. Règlement des litiges en ligne](#18) | [19\. Conditions générales de vente](#19)
 
