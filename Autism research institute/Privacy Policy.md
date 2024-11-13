@@ -28,7 +28,7 @@ Autism Support
 Research
 
 * [Research](https://autism.org/research-we-fund/)
-* [ARI-Funded Research Studies 2023](https://autism.org/ari-funded-research-studies-2023/)
+* [ARI-Funded Research Studies 2024](https://autism.org/ari-funded-research-studies-2024/)
 * [ARI Think Tanks](https://autism.org/ari-scientific-think-tanks/)
 * [Participate in Studies](https://autism.org/opportunities-to-participate-in-research/)
 * [ARI-Funded Research By Year](https://autism.org/research-we-fund/)
@@ -89,7 +89,7 @@ Donate
     * [Newly Diagnosed](https://autism.org/newly-diagnosed/)
     * [Studies Seeking Participants](https://autism.org/opportunities-to-participate-in-research/)
 * [Research](https://autism.org/research-we-fund/)
-    * [ARI-Funded Research Studies 2023](https://autism.org/ari-funded-research-studies-2023/)
+    * [ARI-Funded Research Studies 2024](https://autism.org/ari-funded-research-studies-2024/)
     * [ARI Think Tanks](https://autism.org/ari-scientific-think-tanks/)
     * [Participate in Studies](https://autism.org/opportunities-to-participate-in-research/)
     * [ARI-Funded Research By Year](https://autism.org/research-we-fund/)
