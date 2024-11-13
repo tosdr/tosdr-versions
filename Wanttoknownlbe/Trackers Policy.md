@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-maya-tijdsverschuiving/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/de-wedloop-tussen-bewustzijn-en-onderdrukking-lezersbrief/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
