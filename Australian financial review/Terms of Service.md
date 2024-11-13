@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.3447%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_312/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/02b51df1ccc275abafb565ed6b318f308e21ca69)](https://www.afr.com/life-and-luxury/health-and-wellness/it-turns-out-gin-and-tennis-do-mix-20241104-p5knnn)
+[![ ](https://static.ffx.io/images/$zoom_0.2277%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_414/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/75d0d80b75f53808faa53f9a7aa242e348cdb092)](https://www.afr.com/life-and-luxury/fashion-and-style/eight-essentials-to-get-you-travel-ready-20241104-p5knnj)
 
-### [It turns out gin and tennis do mix](https://www.afr.com/life-and-luxury/health-and-wellness/it-turns-out-gin-and-tennis-do-mix-20241104-p5knnn)
+### [Eight essentials to get you travel ready](https://www.afr.com/life-and-luxury/fashion-and-style/eight-essentials-to-get-you-travel-ready-20241104-p5knnj)
 
-* Life & Leisure
+* 57 mins ago
+* Eugenie Kelly
 
-* ### [10 delicious culinary adventures in 2025](https://www.afr.com/life-and-luxury/travel/10-delicious-culinary-adventures-in-2025-20241025-p5klgh)
+* ### [The rituals of a ryokan prevail in this new international hotel](https://www.afr.com/life-and-luxury/travel/the-rituals-of-a-ryokan-prevail-in-this-new-international-hotel-20241030-p5kmp0)
     
-* ### [Trust Los Angeles to have a crazy entertainment venue like Level 8](https://www.afr.com/life-and-luxury/travel/trust-los-angeles-to-have-a-crazy-entertainment-venue-like-level-8-20241017-p5kj1n)
+* ### [10 new and extraordinary international hotels to book in 2025](https://www.afr.com/life-and-luxury/travel/10-new-and-extraordinary-international-hotels-to-book-in-2025-20241025-p5klfw)
     
 
 [Rich List](https://www.afr.com/rich-list)
