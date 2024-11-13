@@ -26,7 +26,7 @@ Wasabi Privacy Policy
   
   
 
-[Company](https://wasabi.com/legal/privacy-policy?_hsmi=123&hsCtaTracking=123&hsenc=123&utm_campaign=12311111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111&utm_medium=123&utm_source=123#)
+[Company](https://wasabi.com/legal/privacy-policy#)
 
 * [About Wasabi](https://wasabi.com/company)
     
