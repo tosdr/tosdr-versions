@@ -34,6 +34,7 @@ Free UK Shipping with orders over £50
     * Enhance performance, improve endurance and reduce pain.
         
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
+    * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
     * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
     * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
     * [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms)
@@ -51,11 +52,11 @@ Free UK Shipping with orders over £50
     * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
     * [CAPS](https://puresportcbd.com/en-us/collections/caps)
     * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
-    * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
+    * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/sports-water-bottles)
     * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
     * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
-        * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
+        * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
     [![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
     
@@ -137,6 +138,7 @@ Free UK Shipping with orders over £50
         Enhance performance, improve endurance and reduce pain.
         
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
+        * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
         * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
         * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
         * [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms)
@@ -155,11 +157,11 @@ Free UK Shipping with orders over £50
         * [SHOP ALL](https://puresportcbd.com/en-us/collections/shop-all-apparel)
         * [CAPS](https://puresportcbd.com/en-us/collections/caps)
         * [SOCKS](https://puresportcbd.com/en-us/collections/socks)
-        * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/water-bottles)
+        * [WATER BOTTLES](https://puresportcbd.com/en-us/collections/sports-water-bottles)
         * [TOPS & T-SHIRTS](https://puresportcbd.com/en-us/collections/running-tops)
         * [HOODIES & SWEATSHIRTS](https://puresportcbd.com/en-us/collections/hoodies-sweatshirts)
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
-            * [NEW PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/new-performance-wear)
+            * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
     [![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
     
