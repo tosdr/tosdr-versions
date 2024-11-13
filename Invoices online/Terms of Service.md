@@ -196,59 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=163249200)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=85896605)  
+Electro-Heat
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=81829807)  
-Chiron Medical Solutions
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=107062964)  
+Little Nutty Professors
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=206471332)  
-MR Compressors& Industrial Supplies
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=34267902)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=88852745)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=147019860)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=73334933)  
-Fox Alarms & Security
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=147971846)  
+Moulded Wax SA - The Candle Store
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=192228284)  
-Goju Ryu Karate Centre
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=18530023)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=171144742)  
-Leef in Afrikaans
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=198221514)  
+Alliance Energy
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=60528047)  
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=54773935)  
+African Roots
+
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=112133455)  
+ARCHITEK PTY LTD
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=129075960)  
+Desygn
+
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=154468819)  
+Digifax (Pty) Ltd T/A SecurityHyper
+
+![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=2341396)  
+VIR Electrical (PTY) LTD
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=115532879)  
+Bchange Online CC
+
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=60199933)  
+LEO DEVELOPMENT GROUP
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=8179dee8d0d9eceb8411abee56623077f50b46bc9384d90262c05a174db0cdfc&c=71489466)  
 Firstweb Hosting & Design
-
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=32225850)  
-Meyer Towing & Recovery
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=22161487)  
-All Trucking Solutions
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=182582287)  
-Prosper Park
-
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=18856302)  
-Tiny Cuddles Photography
-
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=25057137)  
-Moremi Kitchens Rustenburg
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=205270632)  
-Druce Digital
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=0df6526b737d7c4395bf2fcc46a9914a2f8a69f0ad79a2fc2da06e1810458edc&c=117990577)  
-SA Security Brokerz (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
