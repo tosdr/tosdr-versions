@@ -61,7 +61,7 @@ We offer an online platform via the websites [www.studeersnel.nl](https://www.st
 
 This privacy statement applies to the processing of personal data of all users and visitors of the Websites.
 
-The controller is StudeerSnel B.V. (“StudeerSnel”), located at the Keizersgracht 424 sous, 1016 GC Amsterdam (registration number of Chamber of Commerce: 56829787). If you have questions about or comments on this privacy statement, please contact privacy@studocu.com.
+The controller is StudeerSnel B.V. (“StudeerSnel”), located at the Keizersgracht 424 sous, 1016 GC Amsterdam (registration number of Chamber of Commerce: 56829787). If you have questions about or comments on this privacy statement, please contact [\[email protected\]](https://www.studocu.com/cdn-cgi/l/email-protection).
 
 We may change this privacy statement from time to time. When we publish a modified version, we clearly show this on our websites. On this page you always find the most recent version of our privacy statement.
 
@@ -270,7 +270,7 @@ You can request us to exercise your rights with regard to your personal data:
 * **Objection**: you can object to the processing of your personal data when the data processing is based on our legitimate interest, including the use of personal data for direct marketing purposes.
 * **Data transfer (data portability)**: you can request us to obtain your personal data in a structured, current and machine readable form or transfer it to another organization when the data processing takes place automatically and is based on permission or an agreement.
 
-You can submit a request to exercise the above rights by contacting us at support@studocu.com. We aim to respond within four weeks of receiving the request.
+You can submit a request to exercise the above rights by contacting us at [\[email protected\]](https://www.studocu.com/cdn-cgi/l/email-protection). We aim to respond within four weeks of receiving the request.
 
 You can also submit a complaint to the Dutch Data Protection Authority when you believe that StudeerSnel violates your privacy rights.
 
