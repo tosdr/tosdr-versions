@@ -2,19 +2,21 @@
 
 [](https://codeium.com/)
 
-Open Product optionsProduct
+Products
+
+Capabilities
+
+Engines
 
 [Pricing](https://codeium.com/pricing)
 
 [Enterprise](https://codeium.com/enterprise)
 
-Open Resources optionsResources
+Resources
 
-[Docs](https://docs.codeium.com/)
+Company
 
-Open Company optionsCompany
-
-[](https://codeium.com/account/login)[Get Codeium](https://codeium.com/download)
+[](https://codeium.com/account/login)[Download](https://codeium.com/download)
 
 Terms of Service: Individual & Pro
 ==================================
@@ -23,7 +25,7 @@ _Interested in Teams? Check out the [Teams Terms of Service](https://codeium.com
 
 **Terms of Service: Individual & Pro**
 
-**Last updated September 18, 2024**
+**Last updated November 11, 2024**
 
 Thank you for choosing to be part of our community at Exafunction, Inc. ("**Company**," "**we**," "**us**," or "**our**"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at [hello@codeium.com](mailto:hello@codeium.com).
 
@@ -53,7 +55,7 @@ Thank you for choosing to be part of our community at Exafunction, Inc. ("**Comp
 
 **6\. Licenses**
 
-6.1. **Limited License.** Subject to your complete and ongoing compliance with these Terms, Exafunction grants you, solely for your personal use, a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to: (a) install and use one object code copy of any mobile or other downloadable application associated with the Service (whether installed by you or pre-installed on your mobile device by the device manufacturer or a wireless telephone provider) on a mobile device that you own or control; and (b) access and use the Service.
+6.1. **Limited License.** Subject to your complete and ongoing compliance with these Terms, and the payment of the applicable Fee (for Pro Users), Exafunction grants you, solely for your personal use, a limited, non-exclusive, non-transferable, non-sublicensable, revocable license to: (a) install and use one object code copy of any downloadable application that we provide to you, on a device that you own or control; and (b) access and use the Service.
 
 6.2. **License Restrictions.** Except and solely to the extent such a restriction is impermissible under applicable law, you may not: (a) reproduce, distribute, publicly display, publicly perform, or create derivative works of the Service; (b) make modifications to the Service; or (c) interfere with or circumvent any feature of the Service, including any security or access control mechanism. If you are prohibited under applicable law from using the Service, then you may not use it.
 
