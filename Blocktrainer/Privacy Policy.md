@@ -51,7 +51,7 @@
     * [Blockzeit-Rechner](https://www.blocktrainer.de/tools-services/blockzeit-rechner)
     * [Bitcoin Kalender](https://www.blocktrainer.de/tools-services/bitcoin-kalender)
     * [Deutschlands Verlust](https://www.blocktrainer.de/tools-services/deutschlands-verlust)
-    * [Teslas verpasster BTC-Gewinn](https://www.blocktrainer.de/tools-services/teslas-verpasster-btc-gewinn)
+    * [Verpasster BTC-Gewinn von Tesla](https://www.blocktrainer.de/tools-services/teslas-verpasster-btc-gewinn)
     * [Halving-Countdown](https://www.blocktrainer.de/tools-services/halving-countdown)
     * [Bitcoin versichern](https://www.blocktrainer.de/tools-services/btc-versichern)
     * [Zugriff auf Wallet verloren?](https://www.blocktrainer.de/tools-services/zugriff-auf-wallet-verloren)
@@ -593,7 +593,7 @@ Kopieren
 
 [](#)
 
-[![blocktrainer.de](/fileadmin/_processed_/9/e/csm_blocktrainer_box_17e9184473.png)](https://www.blocktrainer.de/unterstuetze-uns)
+[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
