@@ -160,70 +160,70 @@ TOP NEWS
 
 * [Tracking Every Trump Cabinet Pick](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
     
-    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758788-Trumps-cabinet-picks-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
 * [Trump Picks Kristi Noem to Be Homeland Security Secretary](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
     
-    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/04/11/id5627073-GettyImages-2087322067-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
-* [Trump Names Elon Musk, Vivek Ramaswamy to Lead New Efficiency Department](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
+* [Trump Names Elon Musk, Vivek Ramaswamy to Lead New Government Efficiency Department](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
     
-    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    9hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Efficiency Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Government Efficiency Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Efficiency Department](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758753-elon-musk-vivek-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
+    ![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Government Efficiency Department](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758753-elon-musk-vivek-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
 * [Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://www.theepochtimes.com/us/trump-names-fox-news-host-veteran-pete-hegseth-as-defense-secretary-5758731)
     
-    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758754-GettyImages-626419832KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-fox-news-host-veteran-pete-hegseth-as-defense-secretary-5758731)
 * [Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://www.theepochtimes.com/us/chuck-schumer-congratulates-trump-tells-democrats-to-learn-and-do-better-5758646)
     
-    4hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    9hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758768-Chuck-Schumer-GettyImages-2183774736-205x123.jpg.webp)](https://www.theepochtimes.com/us/chuck-schumer-congratulates-trump-tells-democrats-to-learn-and-do-better-5758646)
 * [Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://www.theepochtimes.com/business/small-business-optimism-rises-but-owners-still-face-unprecedented-economic-hardship-nfib-5758562)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741607-Chasteen_Small-Business-Hardware_013012-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-business-optimism-rises-but-owners-still-face-unprecedented-economic-hardship-nfib-5758562)
 * [Trump Names William McGinley to Serve as White House Counsel](https://www.theepochtimes.com/us/trump-names-william-mcginley-to-serve-as-white-house-counsel-5758658)
     
-    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    10hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Trump Names William McGinley to Serve as White House Counsel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Names William McGinley to Serve as White House Counsel](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758695-09292024-DSC02058-white-houseKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-william-mcginley-to-serve-as-white-house-counsel-5758658)
 * [DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://www.theepochtimes.com/us/doj-sues-to-block-unitedhealths-3-3-billion-acquisition-of-amedisys-5758492)
     
-    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689165-UnitedHealth_Justice_Department_Lawsuit_22055614377476-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-to-block-unitedhealths-3-3-billion-acquisition-of-amedisys-5758492)
 * [Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://www.theepochtimes.com/article/day-in-photos-congressional-session-typhoon-toraji-and-a-prime-ministers-apology-5758346)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758767-EpochImages-6641483991-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-congressional-session-typhoon-toraji-and-a-prime-ministers-apology-5758346)
 * [Trump Names John Ratcliffe as CIA Director](https://www.theepochtimes.com/us/trump-names-john-ratcliffe-as-cia-director-5758663)
     
-    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Trump Names John Ratcliffe as CIA Director](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
