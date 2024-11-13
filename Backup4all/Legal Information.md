@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore from Hitachi](https://www.backup4all.com/how-to-restore-from-hitachi-kb.html)  
+* [How to create a smart backup](https://www.backup4all.com/how-to-create-a-smart-backup-kb.html)  
     
-* [What to check when application does not start](https://www.backup4all.com/what-to-check-when-application-does-not-start-kb.html)  
+* [How to schedule a backup job in the New Backu ...](https://www.backup4all.com/how-to-schedule-a-backup-job-in-the-new-backup-wizard-kb.html)  
     
-* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [Backup4all back up destinations](https://www.backup4all.com/backup4all-back-up-destinations-kb.html)  
+* [How to back up data files from IDC Frontier u ...](https://www.backup4all.com/how-to-back-up-data-files-from-idc-frontier-using-backup4all-kb.html)  
     
-* [How to back up data files from NiftyClouds us ...](https://www.backup4all.com/how-to-back-up-data-files-from-niftyclouds-using-backup4all-kb.html)  
+* [How to backup your data to DDN](https://www.backup4all.com/how-to-backup-your-data-to-ddn-kb.html)  
     
 
 Choose language:
