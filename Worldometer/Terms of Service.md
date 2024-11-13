@@ -1,7 +1,7 @@
 [![](/img/worldometers-logo.gif "Worldometer")](https://www.worldometers.info/)
 
-* [Coronavirus](https://www.worldometers.info/coronavirus/)
 * [Population](https://www.worldometers.info/population/)
+* [Coronavirus](https://www.worldometers.info/coronavirus/)
 
 * [W](https://www.worldometers.info/)
 * Disclaimer
