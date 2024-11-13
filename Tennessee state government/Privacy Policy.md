@@ -45,7 +45,6 @@ Section
     * [Financial Overview](https://www.tn.gov/transparenttn0/financial-overview.html)
     * [Salary Search](https://www.tn.gov/transparenttn0/salary-search.html)
     * [Open Check Book](https://www.tn.gov/transparenttn0/open-check-book.html)
-    * [Open Maps](https://www.tn.gov/transparenttn0/open-maps.html)
 
 [Print This Page](javascript:window.print();)
 
