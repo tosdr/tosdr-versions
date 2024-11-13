@@ -253,6 +253,16 @@ Enable Dark Mode
     
     Latest Articles
     
+    *    [![](/wp-content/themes/yootheme/cache/dd/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-dd70eb10.png) ![](/wp-content/themes/yootheme/cache/dd/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-dd70eb10.png)
+        
+        Underthrow Series
+        
+        The Status of Status
+        
+        by **Max Borders**
+        
+        Read more](https://www.theadvocates.org/the-status-of-status/)
+        
     *    [![](/wp-content/themes/yootheme/cache/21/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-215d88ee.png) ![](/wp-content/themes/yootheme/cache/21/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-215d88ee.png)
         
         Underthrow Series
@@ -340,16 +350,6 @@ Enable Dark Mode
         by **Max Borders**
         
         Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/59/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-59986353.png) ![](/wp-content/themes/yootheme/cache/59/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-59986353.png)
-        
-        Underthrow Series
-        
-        Anything Peaceful
-        
-        by **Max Borders**
-        
-        Read more](https://www.theadvocates.org/anything-peaceful/)
         
     
     [](#)[](#)
@@ -545,6 +545,16 @@ Quizzes & Apps
 Articles
 --------
 
+*    [![](/wp-content/themes/yootheme/cache/07/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-0700ddd7.png) ![](/wp-content/themes/yootheme/cache/07/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-0700ddd7.png)
+    
+    Underthrow Series
+    
+    The Status of Status
+    
+    by **Max Borders**
+    
+    Read more](https://www.theadvocates.org/the-status-of-status/)
+    
 *    [![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png) ![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png)
     
     Underthrow Series
@@ -632,16 +642,6 @@ Articles
     by **Max Borders**
     
     Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
-    
-*    [![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png) ![](/wp-content/themes/yootheme/cache/83/Screenshot-2024-09-04-at-8.16.45%E2%80%AFAM-83e85594.png)
-    
-    Underthrow Series
-    
-    Anything Peaceful
-    
-    by **Max Borders**
-    
-    Read more](https://www.theadvocates.org/anything-peaceful/)
     
 
 ### Privacy Policy
