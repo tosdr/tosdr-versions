@@ -30,14 +30,22 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_360x203.jpg)](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
+    *  [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
         
-        #### [Solar project moves forward in Geneseo](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
+        #### [2nd suspect arrested following July shooting in Galesburg](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5) [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
+        #### [2nd suspect in July Galesburg shooting turns himself in, police say](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5) [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
         
-        #### [Enter to win tickets to see Disney on Ice presents Frozen and Encanto](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
+        #### [Police: Man wanted for attempted murder following July shooting in Galesburg turns himself in](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
         
+        #### [Muscatine police partner with local business to rescue cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37) [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        
+        #### [Thanks to some help from a local business, Muscatine police rescue cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37) [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        
+        #### [To the rescue: Muscatine police, local business partner to get cat out of a tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37) [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        
+        #### [Muscatine business rescues cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -86,9 +94,9 @@ Navigation
 
 Davenport, IA »
 
-45°
+49°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
