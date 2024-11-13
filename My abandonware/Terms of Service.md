@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Ninjets: XKalibre's Feat](https://www.myabandonware.com/game/ninjets-xkalibre-s-feat-t0a)
+* [Buster](https://www.myabandonware.com/game/buster-t09)
+* [The Adventures of Tom Sawyer](https://www.myabandonware.com/game/the-adventures-of-tom-sawyer-t08)
 * [Boulder](https://www.myabandonware.com/game/boulder-tpb)
 * [Boulder Dash](https://www.myabandonware.com/game/boulder-dash-tpa)
-* [Bips](https://www.myabandonware.com/game/bips-tp9)
-* [!Bingo Granny!](https://www.myabandonware.com/game/bingo-granny-tp8)
-* [Attack of the Petscii Robots](https://www.myabandonware.com/game/attack-of-the-petscii-robots-tp7)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
