@@ -145,26 +145,36 @@ United States (USD $)
 * [YouTube](https://www.youtube.com/channel/UCb3qBl6yySVqSVD9HxiMtyQ)
 
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 * Free shipping over $100 📦
-* Shop early black friday sale now 15% off
+* 🎁 Shop our early black friday sale and get 15% off site wide 🎁
+* OR [CLICK HERE](https://bosu.com/pages/sign-up-black-friday "https://bosu.com/pages/sign-up-black-friday") FOR OUR BIGGEST SALE YET 👀
 
 Refund policy
 =============
