@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [De Plane, De Plane: They are Shooting Passenger Jets in Haiti](https://www.thegunpage.com/de-plane-de-plane-they-are-shooting-passenger-jets-in-haiti/10611831)
+* [Ammunition Lifespan: Key Factors to Consider](https://www.thegunpage.com/ammunition-lifespan-key-factors-to-consider/10611829)
+* [Savage Introduces The Stance XR Micro 9mm](https://www.thegunpage.com/savage-introduces-the-stance-xr-micro-9mm/10611826)
+* [New: Troy Kryptos 5.56 Over The Barrel Suppressor](https://www.thegunpage.com/new-troy-kryptos-5-56-over-the-barrel-suppressor/10611827)
+* [Republicans Retain U.S. House Majority](https://www.thegunpage.com/republicans-retain-u-s-house-majority/10611825)
+* [Collegiate Rifle: TCU Defeats Alaska-Fairbanks, WVU Rises To No. 1 After Taking Down Army, John Jay](https://www.thegunpage.com/collegiate-rifle-tcu-defeats-alaska-fairbanks-wvu-rises-to-no-1-after-taking-down-army-john-jay/10611833)
+* [The Magpul FMG-9 is FINALLY HERE: The Magpul/ZEV FDP & FDC](https://www.thegunpage.com/the-magpul-fmg-9-is-finally-here-the-magpul-zev-fdp-fdc/10611822)
 * [Colorado To Tax Guns, Ammunition And Accessories](https://www.thegunpage.com/colorado-to-tax-guns-ammunition-and-accessories/10611818)
 * [Daniel Defense Limited Series: TAIGA](https://www.thegunpage.com/daniel-defense-limited-series-taiga/10611815)
 * [Western Australia Takes “Buybacks” To A New Low](https://www.thegunpage.com/western-australia-takes-buybacks-to-a-new-low/10611813)
-* [What’s In Your Range Bag, Matthew Kutz?](https://www.thegunpage.com/whats-in-your-range-bag-matthew-kutz/10611812)
-* [Trump Reaffirms Push for National Concealed Carry Reciprocity](https://www.thegunpage.com/trump-reaffirms-push-for-national-concealed-carry-reciprocity/10611810)
-* [Post-Election Worries? Don’t Panic Buy Your First Gun!](https://www.thegunpage.com/post-election-worries-dont-panic-buy-your-first-gun/10611806)
-* [Flat Tire Turned Machete Attack, Takes a Bad Day to Worse](https://www.thegunpage.com/flat-tire-turned-machete-attack-takes-a-bad-day-to-worse/10611803)
-* [Collegiate Rifle: Memphis Tigers Too Hot To Handle For Akron Zips](https://www.thegunpage.com/collegiate-rifle-memphis-tigers-too-hot-to-handle-for-akron-zips/10611808)
-* [TFB Weekly Web Deals 113: Deals for Veterans Day – November 11th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-113-deals-for-veterans-day-november-11th-2024/10611801)
-* [Take a Vet Shooting](https://www.thegunpage.com/take-a-vet-shooting/10611799)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* KayCee on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783178)
 * Stanley Warner on [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/#comment-783161)
 * KayCee on [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/#comment-783149)
 * David Criss on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783148)
@@ -240,7 +241,6 @@ Recent Comments
 * KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
 * Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
 * [Ted Thomas](http://cdn/) on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783096)
-* Ted Thomas on [I Am Anti-American And Anti-Christian, I Voted For Trump](https://www.conservativedailynews.com/2024/11/i-am-anti-american-and-anti-christian-i-voted-for-trump/#comment-783095)
 
 [Close](#)
 
