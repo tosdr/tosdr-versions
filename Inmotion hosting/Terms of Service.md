@@ -76,10 +76,10 @@ Close Menu Main Menu
 
 [Trust Center](https://www.inmotionhosting.com/legal)
 
-Welcome to Our Trust Center
----------------------------
+Welcome to the InMotion Hosting Trust Center
+--------------------------------------------
 
-At InMotion, we are committed to providing a secure and transparent environment for our customers. This Trust Center is designed to offer easy access to important information, ensuring that you understand our practices and policies.
+At InMotion Hosting, our brand collection is dedicated to building trust and transparency in all customer interactions. This Trust Center is a convenient resource for accessing our terms of service, privacy policies, and other essential terms, helping you stay informed about our practices. We’re committed to delivering a positive experience for every customer across all of our brands.
 
 [![InMotion Hosting Logo](https://design.inmotionhosting.com/assets/logos/corporate/logo-imh.svg)](https://www.inmotionhosting.com/)
 
