@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Rhys Ifans, the actor who plays Xenophilius Lovegood, compared being asked to work on “Harry Potter and the Deathly Hallows” with being knighted.
+Peeves was never a living person. He is not a ghost but an indestructible spirit of chaos, who can unscrew chandeliers, throw walking sticks, and generally cause mayhem.
 
 ### Potter History
 
-December 11, 2007 – Harry Potter and the Order of the Phoenix is released on DVD in the United States, a whole month after fans in the United Kingdom got their hands on it.
+May 26, 2009 – The running time for Harry Potter and the Half-Blood Prince is revealed to be 153 minutes.
 
 ### Potter Quote
 
-“She stopped you killing me. And I’ve seen the real you, I saw you last year. You’re a wreck. You’re barely alive. That’s where all your power got you. You’re in hiding. You’re ugly, you’re foul —”
+“Books! And cleverness! There are more important things — friendship and bravery and — oh Harry — be careful!”
 
 [](#)
 
