@@ -150,7 +150,7 @@
     
     Investor Relations at RTL
     
-    [Interim results 2024](https://company.rtl.com/en/rtl-group-interim-results-2024/)[Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)[Annual Report 2023](https://www.annual-report2023.rtl.com/)[Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
+    [Quarterly statement January to September 2024](https://company.rtl.com/export/sites/rtlunited/en/media/overview/press-releases-and-news/Quarterly-statement-January-to-September-2024/)[Interim results 2024](https://company.rtl.com/en/rtl-group-interim-results-2024/)[Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)[Annual Report 2023](https://www.annual-report2023.rtl.com/)[Subscribe to RTL Group press releases](https://media.rtl.com/sonstiges/registrierung/index.html)
     
     **Overview**
     
@@ -190,11 +190,11 @@
     
     [Contact](https://www.rtlgroup.com/export/sites/rtlunited/en/media/overview/contact/)
     
-    [![](/.galleries/images/rtl-group/RTL-stories_Isabell-Ostermann_1920x1080.png)
+    [![](/.galleries/images/Q3-2024_Quarterly-statement_16-9.png)
     
-    10 years at RTL: Isabell Ostermann
+    RTL Group’s streaming business continues to grow dynamically
     
-    05.11.24 | RTL Group](https://company.rtl.com/export/sites/rtlunited/en/media/overview/rtl-stories-the-podcast/10-years-at-RTL-Isabell-Ostermann/)
+    13.11.24 | RTL Group](https://company.rtl.com/export/sites/rtlunited/en/media/overview/press-releases-and-news/Quarterly-statement-January-to-September-2024/)
     
 * [](https://company.rtl.com/en/search/index.html)
 * [EN](#)
@@ -271,6 +271,7 @@
         * [Who we are](https://www.rtlgroup.com/en/career/life-at-rtl/who-we-are/)
         * [Our benefits](https://www.rtlgroup.com/en/career/life-at-rtl/our-benefits/)
 * [Investor Relations](https://www.rtlgroup.com/en/investor-relations/)
+    * [Quarterly statement January to September 2024](https://company.rtl.com/export/sites/rtlunited/en/media/overview/press-releases-and-news/Quarterly-statement-January-to-September-2024/)
     * [Interim results 2024](https://company.rtl.com/en/rtl-group-interim-results-2024/)
     * [Full-year results 2023](https://company.rtl.com/en/media/overview/press-releases-and-news/rtl-group-full-year-results-2023/)
     * [Annual Report 2023](https://www.annual-report2023.rtl.com/)
@@ -307,6 +308,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-Quarterly statement: January to September 2024](/.galleries/images/Q3-2024_Title-EN_16-9.png?__scale=undefined&description=)
+    
+    Quarterly statement: January to September 2024
+    
+    13.11.2024
+    
+    RTL Group has published its quarterly statement for the first nine months of 2024 (January to September 2024).](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Quarterly-statement-January-to-September-2024/)
+    
 * [![slide-10 years at RTL: Isabell Ostermann](/.galleries/images/rtl-group/RTL-stories_Isabell-Ostermann_1920x1080.png?__scale=undefined&description=)
     
     10 years at RTL: Isabell Ostermann
@@ -338,14 +347,6 @@ Europe's leading entertainment brand
     07.11.2024
     
     Business units across RTL Group reported extensively on the US election with round-the-clock broadcasts, on-the-ground journalists and special formats.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/Covering-the-US-election/)
-    
-* [![slide-RTL Deutschland goes Eurovision](/.galleries/images/Eurovision_16-9.jpg?__scale=undefined&description=)
-    
-    RTL Deutschland goes Eurovision
-    
-    04.11.2024
-    
-    RTL Deutschland is joining forces with Stefan Raab and ARD to search for the star act that will represent Germany at the 2025 Eurovision Song Contest.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/RTL-Deutschland-goes-Eurovision/)
     
 
 [![image-0](/.galleries/images/rtl-group/Career-at-RTL_Photoshooting.jpg)](https://jobsearch.createyourowncareer.com/RTL/?locale=en_US)
