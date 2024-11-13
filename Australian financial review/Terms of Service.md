@@ -325,7 +325,6 @@ Advertise
 
 ### [It turns out gin and tennis do mix](https://www.afr.com/life-and-luxury/health-and-wellness/it-turns-out-gin-and-tennis-do-mix-20241104-p5knnn)
 
-* 54 mins ago
 * Life & Leisure
 
 * ### [10 delicious culinary adventures in 2025](https://www.afr.com/life-and-luxury/travel/10-delicious-culinary-adventures-in-2025-20241025-p5klgh)
