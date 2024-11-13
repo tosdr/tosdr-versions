@@ -1,6 +1,6 @@
 [![Moon Logo](https://cdn.prod.website-files.com/6604526310f4c7f24d8e3435/66911057e49b9ed3c0e6ffa9_MoonLogoThin.svg)](https://paywithmoon.com/)
 
-[Home](https://paywithmoon.com/)[FAQ](https://paywithmoon.com/faqs)[Careers](https://wellfound.com/company/moon-13/jobs)[About Us](https://paywithmoon.com/about)
+[Home](https://paywithmoon.com/)[FAQ](https://paywithmoon.com/faqs)[Careers](https://wellfound.com/company/moon-13/jobs)[For Business](https://paywithmoon.com/business)[About Us](https://paywithmoon.com/about)
 
 [Log In](https://paywithmoon.com/login)[Sign Up](https://paywithmoon.com/signup)
 
