@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Special Counsel Jack Smith plans to retire before Trump takes office: report](https://nypost.com/2024/11/13/us-news/special-coounsel-jack-smith-plans-to-retire-before-trump-takes-office/)
+
 Privacy Notice Highlights
 =========================
 
