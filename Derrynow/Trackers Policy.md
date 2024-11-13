@@ -259,20 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Throwback Tuesday: Out and About with the County Post (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About with the County Post (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1652963/throwback-tuesday-out-and-about-with-the-county-post-2011.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[Throwback Tuesday: Out and About with the County Post (2011)](https://www.derrynow.com/story-telling/pictures---videos/1652963/throwback-tuesday-out-and-about-with-the-county-post-2011.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final")](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for Derry man convicted of harassment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man convicted of harassment")](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
 
 Derry Magistrate's Court
@@ -282,28 +268,12 @@ Derry Magistrate's Court
 [Suspended sentence for Derry man convicted of harassment](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’")](https://www.derrynow.com/news/arts---entertainment/1653579/derry-dancer-tiernagh-canning-starring-in-lord-of-the-dance.html)
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
 
-The young north Derry woman is currently wowing audiences as the female lead in 'Lord of the Dance'.
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Arts & Entertainment](https://www.derrynow.com/section/2211/arts-entertainment)
-
-[Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’](https://www.derrynow.com/news/arts---entertainment/1653579/derry-dancer-tiernagh-canning-starring-in-lord-of-the-dance.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Ballinderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Legacy body to investigate British Army killing of teenage IRA member in 1972](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Legacy body to investigate British Army killing of teenage IRA member in 1972")](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Legacy body to investigate British Army killing of teenage IRA member in 1972](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Wednesday, November 13, 2024](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Dessie McAleese retires from McKay Family Butchers ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dessie McAleese retires from McKay Family Butchers ")](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
 
@@ -314,21 +284,23 @@ Dessie McAleese retires from McKay Family Butchers
 [Long serving butcher Dessie hangs up his apron](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Limavady family raise over £11k for Foyle Hospice in memory of Emma](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady family raise over £11k for Foyle Hospice in memory of Emma")](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
+[![Magherafelt firm takes the steer on new £13.5M DVA test centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt firm takes the steer on new £13.5M DVA test centre")](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
 
-Emma pictured with her son Joedin during their family holiday to Disney World.
-
-[Home](https://www.derrynow.com/)
-
-[Limavady family raise over £11k for Foyle Hospice in memory of Emma](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds")](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+An artist's impression of how the new state-of-the-art building will look.
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Magherafelt firm takes the steer on new £13.5M DVA test centre](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards")](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
+
+Aaron McGrath and Paul Donnelly proudly accept the Medium Independent Dealer award from Shannon Baker, Affiliation & Partnerships Manager at Codeweavers, category sponsor.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park")](https://www.derrynow.com/news/national-news/1654147/watch-he-hasn-t-lost-it-paul-mescal-returns-to-his-gaa-roots-to-tog-out-at-croke-park.html)
 
@@ -336,6 +308,40 @@ Emma pictured with her son Joedin during their family holiday to Disney World.
 
 [WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park](https://www.derrynow.com/news/national-news/1654147/watch-he-hasn-t-lost-it-paul-mescal-returns-to-his-gaa-roots-to-tog-out-at-croke-park.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New Foyle Hospice shop to open in Ballykelly next week](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New Foyle Hospice shop to open in Ballykelly next week")](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
+
+Foyle Hospice volunteer Teresa pictured in one of the charity's shops.
+
+[Home](https://www.derrynow.com/)
+
+[New Foyle Hospice shop to open in Ballykelly next week](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous")](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry charity launches new ‘Movember’ campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry charity launches new ‘Movember’ campaign")](https://www.derrynow.com/news/local-news/1653807/derry-charity-launches-new-movember-campaign.html)
+
+Group pictured at the unveiling of Hive's new Movember billboard at Free Derry Corner.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry charity launches new ‘Movember’ campaign](https://www.derrynow.com/news/local-news/1653807/derry-charity-launches-new-movember-campaign.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry singer and songwriter Joe Kelly nominated for three awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry singer and songwriter Joe Kelly nominated for three awards")](https://www.derrynow.com/news/what-s-on/1653493/county-derry-singer-and-songwriter-joe-kelly-nominated-for-three-awards.html)
+
+Dungiven singer/songwriter Joe Kelly
+
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
+
+[County Derry singer and songwriter Joe Kelly nominated for three awards](https://www.derrynow.com/news/what-s-on/1653493/county-derry-singer-and-songwriter-joe-kelly-nominated-for-three-awards.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,55 +523,57 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
+[![Man arrested as police seize quantity of suspected Class B drugs in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as police seize quantity of suspected Class B drugs in Derry")](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, November 13, 2024](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Dessie McAleese retires from McKay Family Butchers ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dessie McAleese retires from McKay Family Butchers ")](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
-
-Dessie McAleese retires from McKay Family Butchers
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Long serving butcher Dessie hangs up his apron](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![New Foyle Hospice shop to open in Ballykelly next week](https://www.derrynow.com/resizer/165/93/true/2024_11_12/Screenshot_%2812%29_%281%29-1731425721500_1731425775.png--.png?1731425775175 "New Foyle Hospice shop to open in Ballykelly next week")](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
-
-Foyle Hospice volunteer Teresa pictured in one of the charity's shops.
-
-[Home](https://www.derrynow.com/)
-
-[New Foyle Hospice shop to open in Ballykelly next week](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police apologise as watchdog finds Katie Simpson’s family ‘failed’ by probe](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_12/1731431132673_0_1731433554.jpg--.jpg?1731433554326 "Police apologise as watchdog finds Katie Simpson’s family ‘failed’ by probe")](https://www.derrynow.com/news/local-news/1654135/police-apologise-as-watchdog-finds-katie-simpsons-family-failed-by-probe.html)
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Police apologise as watchdog finds Katie Simpson’s family ‘failed’ by probe](https://www.derrynow.com/news/local-news/1654135/police-apologise-as-watchdog-finds-katie-simpsons-family-failed-by-probe.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested as police seize quantity of suspected Class B drugs in Derry](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Glack Plough On group seeking retired farmers to join them](https://www.derrynow.com/resizer/165/93/true/2024_11_12/CDP_-_12-11-24_-_Page_4_lead_pic_%282%29-1731405460368.jpeg--.jpeg?1731405461592 "Glack Plough On group seeking retired farmers to join them")](https://www.derrynow.com/news/local-news/1653505/glack-plough-on-group-seeking-retired-farmers-to-join-them.html)
+[![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
 
-The retired farmers pictured during a recent visit to Foyle Search and Rescue.
+Paddy Tally is set to become te new Derry manager.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Paddy Tally set to be named as new Derry senior football manager](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/resizer/165/93/true/2015/06/04211140/derrycourthouse2.jpg--.jpg "Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous")](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Glack Plough On group seeking retired farmers to join them](https://www.derrynow.com/news/local-news/1653505/glack-plough-on-group-seeking-retired-farmers-to-join-them.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/resizer/165/93/true/2024_11_12/iGen_Autos_%281%29-1731420794844.jpg--.jpg?1731420794976 "Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards")](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
+[![Limavady High School surpasses fundraising goal with £60,000 for Air Ambulance NI](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Picture8-1731495588023.png--.png?1731495588087 "Limavady High School surpasses fundraising goal with £60,000 for Air Ambulance NI")](https://www.derrynow.com/news/home/1654545/limavady-high-school-surpasses-fundraising-goal-with-60-000-for-air-ambulance-ni.html)
 
-Aaron McGrath and Paul Donnelly proudly accept the Medium Independent Dealer award from Shannon Baker, Affiliation & Partnerships Manager at Codeweavers, category sponsor.
+Kevin O’Neill, Ellie Smyth, Mr Ian Crowe MBE, Mr. Mornin present the cheque to Briege Mulholland.
 
 [Home](https://www.derrynow.com/)
 
-[Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Limavady High School surpasses fundraising goal with £60,000 for Air Ambulance NI](https://www.derrynow.com/news/home/1654545/limavady-high-school-surpasses-fundraising-goal-with-60-000-for-air-ambulance-ni.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates](https://www.derrynow.com/resizer/165/93/true/2024_11_13/MixCollage-13-Nov-2024-11-06-AM-9211-1731496089466.jpg--.jpg?1731496089527 "Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates")](https://www.derrynow.com/news/home/1654557/get-your-pink-back-hilarious-irish-comedian-diona-doherty-announces-derry-dates.html)
+
+Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates
+
+[Home](https://www.derrynow.com/)
+
+[Get your pink back! Hilarious Irish comedian Diona Doherty announces Derry dates](https://www.derrynow.com/news/home/1654557/get-your-pink-back-hilarious-irish-comedian-diona-doherty-announces-derry-dates.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/resizer/165/93/true/1598981489699.jpg--.jpg?1598981489000 "New RTÉ kids show stars Derry YouTuber Adam B")](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+
+Pictured: Rathdowney comedian Mary Claire Fitzpatrick
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
