@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-ef5630638cd8a82082b3e54832a66aeb
+b16bd86026751f8626fa43bb0d92ed00
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![3 mm round rose quartz beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0004.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/3-mm-round-rose-quartz-beads.html "3 mm round rose quartz beads")
+[![Blue wave clasp](https://www.sojourner.biz/images/cache/SKU0151-1front.200.jpg)](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
 
-#### [3 mm round rose quartz beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/3-mm-round-rose-quartz-beads.html "3 mm round rose quartz beads")
+#### [Blue wave clasp](https://www.sojourner.biz/clasps/swarovski/blue-wave-clasp.html "Blue wave clasp")
 
-$8.00
+$23.00
 
 ### Best Sellers
 
