@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-You have no idea how grateful I am for FoxyProxy. I don't even have the right words yet because my HUGE problems that just got resolved with its use...I would seriously have to get on a plane tonight and fly >5K miles (to a destination I definitely do not wish to return to any time soon) if it were not for your product...THANK YOU!!!
+Thanks for your fantastic support. Very quick and easy to understand.
 
-Scott Devereaux
+Ken Lingard
