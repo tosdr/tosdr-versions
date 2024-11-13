@@ -20,7 +20,7 @@ Open Menu[![InMotion Hosting Logo](https://www.inmotionhosting.com/dslib/assets/
 
 Close Menu Main Menu
 
-* [Web Hosting](https://www.inmotionhosting.com/ "Web Hosting")
+* [Web Hosting](https://www.inmotionhosting.com/web-hosting "Web Hosting")
     
     [Shared HostingFast, Reliable & Secure](https://www.inmotionhosting.com/shared-hosting "Shared Hosting")
     
