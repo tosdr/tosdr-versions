@@ -135,6 +135,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
+[India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
+
+  [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
+
 [Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
   [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
@@ -147,10 +151,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-[Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
-
-  [![DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
-
 Editors' Picks
 --------------
 
@@ -159,6 +159,14 @@ Editors' Picks
 [Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
+
+By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
+
+  [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -184,14 +192,6 @@ By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "
 
   [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Head of key opposition DPP admits affair ahead of parliament vote for PM](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
-
-By [Eric Johnston](https://www.japantimes.co.jp/author/174/eric-johnston/ "Eric Johnston") and [Himari Semans](https://www.japantimes.co.jp/author/4668/himari-semans/ "Himari Semans")  
-
-  [![DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433261.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "DPP leader Yuichiro Tamaki speaks to reporters on Monday at parliament.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/dpp-tamaki-affair/ "Head of key opposition DPP admits affair ahead of parliament vote for PM")
-
 Podcast
 -------
 
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump names Elon Musk and Vivek Ramaswamy to lead 'DOGE' efficiency department](https://www.japantimes.co.jp/news/2024/11/13/world/politics/musk-ramaswamy-efficiency-department/ "Trump names Elon Musk and Vivek Ramaswamy to lead 'DOGE' efficiency department")
+[Seven & I considers massive management buyout offer](https://www.japantimes.co.jp/business/2024/11/13/companies/seven-i-buyout/ "Seven & I considers massive management buyout offer")
 
-45 mins ago
+56 mins ago
 
-[Japan to promote the joint transportation of local goods](https://www.japantimes.co.jp/business/2024/11/13/transport-ministry-logistics/ "Japan to promote the joint transportation of local goods")
-
-46 mins ago
-
-['We will die from hunger': Gazans decry Israel's UNRWA ban](https://www.japantimes.co.jp/news/2024/11/13/world/hunger-gaza-israel-unrwa-ban/ "'We will die from hunger': Gazans decry Israel's UNRWA ban")
+[Host arrested on suspicion of coercing client into prostitution](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/host-club-prostution/ "Host arrested on suspicion of coercing client into prostitution")
 
 1 hours ago
 
-[Trump picks Fox News host Pete Hegseth to be defense chief](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump picks Fox News host Pete Hegseth to be defense chief")
+[Chinese national held over swindling of Ibaraki woman who lost ¥809 million](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/83-million-investment-fraud/ "Chinese national held over swindling of Ibaraki woman who lost ¥809 million")
 
 1 hours ago
 
-[Russian sends 200 military instructors to Equatorial Guinea in West Africa push](https://www.japantimes.co.jp/news/2024/11/13/world/politics/russia-power-africa-equatorial-guinea/ "Russian sends 200 military instructors to Equatorial Guinea in West Africa push")
+[Ishiba in for a bumpy ride as CDP takes Budget Committee post](https://www.japantimes.co.jp/news/2024/11/13/japan/politics/budget-committee-chair-cdp/ "Ishiba in for a bumpy ride as CDP takes Budget Committee post")
 
 1 hours ago
+
+[Tsuruga reactor formally ruled noncompliant with safety standards](https://www.japantimes.co.jp/news/2024/11/13/japan/tsuruga-reactor-noncompliant/ "Tsuruga reactor formally ruled noncompliant with safety standards")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
