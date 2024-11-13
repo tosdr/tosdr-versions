@@ -86,6 +86,8 @@
             Accelerating incredible Black and Indigenous-owned brands.](https://www.yotpo.com/yotpo_rx/)
 * [Log in](https://yap.yotpo.com/)
 
+[![btn-bg](https://www.yotpo.com/wp-content/uploads/2024/11/Frame-23767.png)](https://www.yotpo.com/bfcm-at-your-service/)
+
 [Log in](https://login.yotpo.com/#/login?signup_utm_source=yotpo_website)
 
 Get a demo
@@ -304,7 +306,7 @@ Platform
 * [Loyalty & Referrals](https://www.yotpo.com/platform/loyalty/)
 * [Subscriptions](https://www.yotpo.com/platform/subscriptions/)
 * [Email](https://www.yotpo.com/platform/email-marketing/)
-* [Pricing](https://www.yotpo.com/pricing/)
+* [Pricing – old design (don’t remove)](https://www.yotpo.com/?page_id=116790)
 
 Resources
 
@@ -355,9 +357,9 @@ Sign up for weekly email & SMS inspiration by marketers, for marketers.
 
 [](https://www.yotpo.com/)
 
-Interested in Yotpo?
+Don't postpone your growth
 
-Schedule a call with one of our eCommerce experts to learn more.
+Fill out the form today and discover how Yotpo can elevate your retention game in a quick demo.
 
 Your information will be treated in accordance with our [Privacy Policy](https://www.yotpo.com/privacy-policy)
 
