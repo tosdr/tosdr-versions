@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 12, 2024**
+**November 13, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Synthetic Cells Emulate Cell Cell Communication](https://www.sciencedaily.com/releases/2024/11/241112123803.htm)
 * [Breakthrough in Photonic Time Crystals](https://www.sciencedaily.com/releases/2024/11/241112123307.htm)
 * [Fossil Fuel CO2 Emissions Increase Again in 2024](https://www.sciencedaily.com/releases/2024/11/241112191227.htm)
 * [What Is the Sun Made Of? New Data](https://www.sciencedaily.com/releases/2024/11/241112122742.htm)
@@ -217,7 +218,6 @@ this hour
 * [Genomic Test to Diagnose Nearly Any Infection](https://www.sciencedaily.com/releases/2024/11/241112123431.htm)
 * [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
 * [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
-* [First Amber Find On the Antarctic Continent](https://www.sciencedaily.com/releases/2024/11/241112122816.htm)
 
 Trending Topics
 ---------------
@@ -228,19 +228,19 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Leukemia](https://www.sciencedaily.com/news/health_medicine/leukemia/)
+
+[Hypertension](https://www.sciencedaily.com/news/health_medicine/hypertension/)
+
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
-
-[Medical Education and Training](https://www.sciencedaily.com/news/health_medicine/medical_education_and_training/)
-
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
-
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
 
   
 
