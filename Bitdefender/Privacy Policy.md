@@ -328,7 +328,7 @@
         
         * [Why Trusted](https://www.bitdefender.com/en-us/trusted/)
         * [The Bitdefender Difference](https://www.bitdefender.com/en-us/company/defeat-cybercrime)
-        * [Ferrari Partnership](https://www.bitdefender.com/ferrari/)
+        * [Ferrari Partnership](https://www.bitdefender.com/en-us/scuderiaferrari/)
         * [Brand Portal](https://brand.bitdefender.com/point/en/bitdefenderhub/component/default/104804)
         
     
