@@ -2,14 +2,14 @@ Wednesday, November 13 2024
 
 Breaking News
 
+* [America In The Age Of Stupidity: Dems Freakout And Ignore The Real Reason They Lost](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
+* [Nobody Will Be Taking A Knee On This Dream Team](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
 * [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
 * [President Joe Biden’s Schedule for Wednesday, November 13, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
 * [It’s Morning In America Again](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
 * [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
 * [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
 * [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
-* [Biden-Harris Admin Set To Slap Tax On Methane Emissions](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
-* [Chris Wallace to Leave CNN](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,21 +115,51 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Chuck-Schumer-and-Nancy-Pelosi.jpg)](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
+    
+    [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
+    
+    November 12, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
     
     [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
     
     November 12, 2024
     
-* [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
-    
-    [Here Comes Trump’s ‘Morning in America’ Economy](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
-    
-    November 11, 2024
-    
 
 Recent Posts
 
+* [![Donald Trump department of government efficiency DOGE Elon Musk Vivek Ramaswamy](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-doge-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/cleaning-house-2/)
+    
+    [Cleaning House](https://www.conservativedailynews.com/2024/11/cleaning-house-2/)
+    
+    November 13, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Dems-Lose-It-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
+    
+    [America In The Age Of Stupidity: Dems Freakout And Ignore The Real Reason They Lost](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
+    
+    November 13, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/unity/)
+    
+    [Unity…](https://www.conservativedailynews.com/2024/11/unity/)
+    
+    November 13, 2024
+    
+* [![Sonya Sotomayor retire](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/when-push-comes-to-shove/)
+    
+    [When Push Comes to Shove](https://www.conservativedailynews.com/2024/11/when-push-comes-to-shove/)
+    
+    November 13, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5770-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
+    
+    [Nobody Will Be Taking A Knee On This Dream Team](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
+    
+    November 13, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2017/10/the_thinker.jpg)](https://www.conservativedailynews.com/2024/11/a-nappy-solution-for-a-common-problem/)
     
     [A Nappy Solution for a Common Problem](https://www.conservativedailynews.com/2024/11/a-nappy-solution-for-a-common-problem/)
@@ -148,49 +178,19 @@ Recent Posts
     
     November 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Vandals-attack-constitution-220x150.jpg)](https://www.conservativedailynews.com/2024/11/national-archives-delivers-impact-statement-at-constitution-vandals-sentencing/)
-    
-    [National Archives Delivers Impact Statement At Constitution Vandal’s Sentencing](https://www.conservativedailynews.com/2024/11/national-archives-delivers-impact-statement-at-constitution-vandals-sentencing/)
-    
-    November 12, 2024
-    
-* [![donald-trump-thumbs-up](https://www.conservativedailynews.com/wp-content/uploads/2016/10/donald-trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
-    
-    [It’s Morning In America Again](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
-    
-    November 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/08/jail-cells-prison-public-domain.jpg)](https://www.conservativedailynews.com/2024/11/american-airman-who-leaked-classified-ukraine-documents-slapped-with-15-year-sentence/)
-    
-    [American Airman Who Leaked Classified Ukraine Documents Slapped With 15-Year Sentence](https://www.conservativedailynews.com/2024/11/american-airman-who-leaked-classified-ukraine-documents-slapped-with-15-year-sentence/)
-    
-    November 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Chuck-Schumer-and-Nancy-Pelosi.jpg)](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
-    
-    [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
-    
-    November 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
-    
-    [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
-    
-    November 12, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Indian Astr Defence PHANTOM Optics-Ready Double-Stack .32 ACP Pistol](https://www.thegunpage.com/indian-astr-defence-phantom-optics-ready-double-stack-32-acp-pistol/10611845)
+* [Huffington Post Inadvertently Outlines Why Gun Owners Chose Trump](https://www.thegunpage.com/huffington-post-inadvertently-outlines-why-gun-owners-chose-trump/10611843)
+* [X2 Dev Group Releases Trident Barrels for Builders](https://www.thegunpage.com/x2-dev-group-releases-trident-barrels-for-builders/10611842)
+* [Washington State Gun Sales Have Been Shut Down For 12 Days And Counting](https://www.thegunpage.com/washington-state-gun-sales-have-been-shut-down-for-12-days-and-counting/10611840)
 * [How Trump can restore American justice in just days](https://www.thegunpage.com/how-trump-can-restore-american-justice-in-just-days/10611838)
+* [MI: Senate Expanding Dangerous “Gun Free” Zones](https://www.thegunpage.com/mi-senate-expanding-dangerous-gun-free-zones/10611848)
 * [Review: GP Arms Patriot 4.8-Inch For Action-Pistol Competition](https://www.thegunpage.com/review-gp-arms-patriot-4-8-inch-for-action-pistol-competition/10611837)
 * [TFB Interview: Sami Hautamäki – World Champion IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-sami-hautamaki-world-champion-ipsc-rifle-world-shoot/10611834)
 * [POTD: Danish Soldiers With Gevær M/10 C8IUR + Thermals, M60E6 and C20s](https://www.thegunpage.com/potd-danish-soldiers-with-gevaer-m-10-c8iur-thermals-m60e6-and-c20s/10611835)
 * [HOT GAT or FUDD CRAP? Pistol Grip or Hope It Doesn’t Slip?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pistol-grip-or-hope-it-doesnt-slip/10611836)
-* [De Plane, De Plane: They are Shooting Passenger Jets in Haiti](https://www.thegunpage.com/de-plane-de-plane-they-are-shooting-passenger-jets-in-haiti/10611831)
-* [Ammunition Lifespan: Key Factors to Consider](https://www.thegunpage.com/ammunition-lifespan-key-factors-to-consider/10611829)
-* [Savage Introduces The Stance XR Micro 9mm](https://www.thegunpage.com/savage-introduces-the-stance-xr-micro-9mm/10611826)
-* [New: Troy Kryptos 5.56 Over The Barrel Suppressor](https://www.thegunpage.com/new-troy-kryptos-5-56-over-the-barrel-suppressor/10611827)
-* [Republicans Retain U.S. House Majority](https://www.thegunpage.com/republicans-retain-u-s-house-majority/10611825)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/#comment-783198)
 * [Lisa](http://conservativedailynews.com/) on [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/#comment-783186)
 * KayCee on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783178)
 * Stanley Warner on [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/#comment-783161)
@@ -240,7 +241,6 @@ Recent Comments
 * Beverly Sellers on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783146)
 * Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
 * KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
-* Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
 
 [Close](#)
 
