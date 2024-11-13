@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| A Guy With A GirlBlake Shelton<br><br>4:40am |
-| Am I OkMegan Moroney<br><br>4:36am |
-| She Got The Best Of MeLuke Combs<br><br>4:33am |
-| Just To Say We DidKenny Chesney<br><br>4:31am |
-| High RoadKoe Wetzel Ft Jess Murph<br><br>4:28am |
+| Cold As YouLuke Combs<br><br>10:38am |
+| Tennessee OrangeMegan Moroney<br><br>10:34am |
+| Miles On ItKane Brown Ft Marshmello<br><br>10:31am |
+| Thought You Should KnowMorgan Wallen<br><br>10:28am |
+| AlrightDarius Rucker<br><br>10:24am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
+
+[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+
+Country • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
