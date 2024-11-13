@@ -15,20 +15,20 @@
     
     [See All](https://www.coolthings.com/gadgets/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/rode-wireless-micro-lapel-mic-compact-pocket-sized/)
+    
+    [Rode Wireless Micro Lapel Mic Takes on a Compact, Pocket-Sized Form Factor](https://www.coolthings.com/rode-wireless-micro-lapel-mic-compact-pocket-sized/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/ayaneo-3-flagship-gaming-handheld-7inch-oled-amd-ai-chip/)
+    
+    [Ayaneo 3 Gaming Handheld Uses AI-Capable Chip for Versatile Function](https://www.coolthings.com/ayaneo-3-flagship-gaming-handheld-7inch-oled-amd-ai-chip/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/hori-wireless-horipad-for-steam-game-controller-pc-gaming/)
     
     [Hori Wireless Horipad for Steam Makes Your Gaming PC Feel Like a Game Console](https://www.coolthings.com/hori-wireless-horipad-for-steam-game-controller-pc-gaming/)
     ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/mudita-kompakt-minimalist-phone-pocket-sized-ereader/)
-    
-    [Mudita Kompakt Puts Minimalist Phone Functions in a Pocket-Sized E-Reader](https://www.coolthings.com/mudita-kompakt-minimalist-phone-pocket-sized-ereader/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
-    
-    [eufy SmartTrack Card E30 Rechargeable Wallet Tracker Only Needs Once-a-Year Charging](https://www.coolthings.com/eufy-smarttrack-card-e30-rechargeable-wallet-tracker-apple-find-my/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [GIFTS](http://www.coolthings.com/gifts/)
     
