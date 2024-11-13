@@ -208,25 +208,25 @@ Menü
 
 [BreakingNews
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
 
-Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team](https://www.bild.de/politik/ausland-und-internationales/donald-trump-holt-elon-musk-in-seine-regierung-neuer-job-fuer-tesla-boss-6733f3f1d39c7b0c2a08b70d)
+LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder](https://www.bild.de/politik/inland/regierungskrise-in-deutschland-showdown-um-die-ampel-macht-67288f86ebdb8724738e8224)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
