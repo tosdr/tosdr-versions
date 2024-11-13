@@ -142,10 +142,10 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
+* [Stella Blue Coffee Golden Mug](https://stellabluecoffee.com/)
+* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Ugly Sweater Collection](https://store.barstoolsports.com/collections/ugly-sweaters)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
-* [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
-* [Stella Blue Coffee Winter Flavors](https://stellabluecoffee.com/)
 * [Pardon My Cheesesteak](https://pardonmycheesesteak.com/)
 
 Privacy Policy
