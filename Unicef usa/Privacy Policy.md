@@ -83,25 +83,6 @@ Sort by RelevanceNewestOldest
         * [Companies](https://www.unicefusa.org/about-unicef-usa/partnerships/companies)
         * [Foundations](https://www.unicefusa.org/about-unicef-usa/partnerships/foundations)
         * [Humanitarian Organizations](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations)
-            * [Humanitarian Organizations](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations)
-            * [Faith Based Partnerships](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/faith-based-partnerships)
-            * [Greek Orthodox Ladies Philoptochos Society, Inc.](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/greek-orthodox-ladies-philoptochos-society)
-            * [Sudanese American Medical Association](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/SAMA)
-            * [Together Women Rise](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/together-women-rise)
-            * [Together for Girls](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/together-girls)
-            * [Advanced Remarketing Services](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/advanced-remarketing-services)
-            * [Delta Sigma Theta Society](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/delta-sigma-theta-society)
-            * [Diaspora Partnerships](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/diaspora-partnerships)
-            * [General Federation of Women's Clubs](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/general-federation-womens-clubs)
-            * [Global Giving](https://www.globalgiving.org/donate/6431/unicef-usa/)
-            * [Islamic Food and Nutrition Council of America](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/islamic-food-and-nutrition-council-america)
-            * [Kiwanis International](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/kiwanis-international)
-            * [National Arab American Medical Association](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/national-arab-american-medical-association)
-            * [Nova Ukraine](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/nova-ukraine)
-            * [Rotary International](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/rotary-international)
-            * [Sacred Heart Schools Chicago](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/sacred-heart-schools-chicago)
-            * [The Delta Kappa Gamma Society International](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/delta-kappa-gamma-society-international)
-            * [Zonta International](https://www.unicefusa.org/about-unicef-usa/partnerships/humanitarian-organizations/zonta-international)
         * [Our Supporters](https://www.unicefusa.org/about-unicef-usa/partnerships/our-supporters)
     *  UNICEF USA and UNICEF 
         * [UNICEF USA and UNICEF](https://www.unicefusa.org/about-unicef-usa/unicef-usa-and-unicef)
@@ -498,13 +479,17 @@ Be the first to know about UNICEF's humanitarian relief efforts in times of emer
 
 Stay informed: 
 
- 
+  
+
+Leave this field blank 
 
 Lead Gen
 
 Stay informed: 
 
- 
+  
+
+Leave this field blank 
 
 Main navigation
 ---------------
@@ -541,11 +526,12 @@ Footer
 * [Stories of UNICEF in Action](https://www.unicefusa.org/stories)
 * [Manage Cookies](#)
 * [Facebook](https://facebook.com/UNICEF-USA)
-* [Twitter](https://twitter.com/UNICEFUSA)
+* [Twitter](https://x.com/unicefusa)
 * [LinkedIn](https://linkedin.com/company/unicefusa)
 * [Youtube](https://youtube.com/UNICEFUSA)
 * [Instagram](https://instagram.com/UNICEFUSA)
 * [Pinterest](https://pinterest.com/UNICEFUSA)
+* [Bluesky](https://bsky.app/profile/unicefusa.org "Go to Blusky Social Profile.")
 
 [UNICEF USA](https://www.unicefusa.org/)
 
