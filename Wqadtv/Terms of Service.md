@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d7a35dde-96da-403e-8c72-9509c0639984/20241113T042947/d7a35dde-96da-403e-8c72-9509c0639984_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7a35dde-96da-403e-8c72-9509c0639984/20241113T042947/d7a35dde-96da-403e-8c72-9509c0639984_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a35d3151-064e-4f8f-b74f-a3baf7053791/20241113T132744/a35d3151-064e-4f8f-b74f-a3baf7053791_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a35d3151-064e-4f8f-b74f-a3baf7053791/20241113T132744/a35d3151-064e-4f8f-b74f-a3baf7053791_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Next round of showers still on track for later Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Showers on track for late afternoon, early evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-39°
+45°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
