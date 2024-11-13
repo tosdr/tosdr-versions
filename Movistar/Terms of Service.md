@@ -281,7 +281,7 @@ Dispositivos
 * [Black Friday](https://www.movistar.es/black-friday/ "Black Friday")
 * [Móviles](https://www.movistar.es/moviles/ "Móviles")
 * [Vender móvil](https://www.movistar.es/compramos-tu-movil/ "Vender móvil")
-* [Smart TV](https://www.movistar.es/smart-tv/ "Smart TV")
+* [Cyber Monday](https://www.movistar.es/cyber-monday/ "Cyber Monday")
 * [Gaming](https://www.movistar.es/gaming/ "Gaming")
 
 Más productos Movistar
