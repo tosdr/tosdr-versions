@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Breakthrough in Photonic Time Crystals](https://www.sciencedaily.com/releases/2024/11/241112123307.htm)
 * [Fossil Fuel CO2 Emissions Increase Again in 2024](https://www.sciencedaily.com/releases/2024/11/241112191227.htm)
 * [What Is the Sun Made Of? New Data](https://www.sciencedaily.com/releases/2024/11/241112122742.htm)
 * [Earliest Ancient Maya Salt Works](https://www.sciencedaily.com/releases/2024/11/241112191056.htm)
@@ -217,7 +218,6 @@ this hour
 * [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
 * [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
 * [First Amber Find On the Antarctic Continent](https://www.sciencedaily.com/releases/2024/11/241112122816.htm)
-* [Moderate Exercise Can Reduce Heart Risk](https://www.sciencedaily.com/releases/2024/11/241111155405.htm)
 
 Trending Topics
 ---------------
@@ -238,9 +238,9 @@ this week
 
 [Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
-
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
