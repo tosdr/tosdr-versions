@@ -190,7 +190,7 @@ Hi
         
     * [New! (77)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (43)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (54)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -275,9 +275,9 @@ Hi
             
         * [Bagels (16)](https://www.smithbrothersfarms.com/bagels)
             
-        * [Breakfast Treats (19)](https://www.smithbrothersfarms.com/breakfast-treats)
+        * [Breakfast Treats (20)](https://www.smithbrothersfarms.com/breakfast-treats)
             
-        * [Muffins & Scones (9)](https://www.smithbrothersfarms.com/muffins)
+        * [Muffins & Scones (8)](https://www.smithbrothersfarms.com/muffins)
             
         * [Treats (18)](https://www.smithbrothersfarms.com/desserts)
             
