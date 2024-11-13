@@ -32,11 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_360x203.jpg)](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
         
-        #### [Solar project moves forward in Geneseo](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac) [![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_360x203.jpg)](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
+        #### [Solar project moves forward in Geneseo](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
         
-        #### [Geneseo moves forward with solar project](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac) [![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9/20241113T040507/21e1ba31-1dc1-4b23-98f7-75939b9a3ac9_360x203.jpg)](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
-        
-        #### [Solar project in Geneseo will advance following city council vote](https://www.wqad.com/article/news/local/solar-project-geneseo-advancing/526-303b7823-9387-47ee-bdcb-50c35b1d23ac)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c762524a-5dbe-4fad-9f2b-5be1e31183fd/20241111T200837/c762524a-5dbe-4fad-9f2b-5be1e31183fd_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
         
         #### [Enter to win tickets to see Disney on Ice presents Frozen and Encanto](https://www.wqad.com/article/news/local/contests/enter-to-win-tickets-to-see-disney-on-ice-presents-frozen-and-encanto/526-b32f7c53-10bf-49f0-bb56-fdd75da4b228)
@@ -59,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/61ffb3f6-6b47-4543-8635-94212d70b782/20241112T225826/61ffb3f6-6b47-4543-8635-94212d70b782_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/61ffb3f6-6b47-4543-8635-94212d70b782/20241112T225826/61ffb3f6-6b47-4543-8635-94212d70b782_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d7a35dde-96da-403e-8c72-9509c0639984/20241113T042947/d7a35dde-96da-403e-8c72-9509c0639984_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d7a35dde-96da-403e-8c72-9509c0639984/20241113T042947/d7a35dde-96da-403e-8c72-9509c0639984_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Next round of showers still on track for later Wednesday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
