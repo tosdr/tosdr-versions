@@ -123,44 +123,44 @@ Advertisement
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
+    
+    The Fog of War
+    
+    Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
 * [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
     
     Louis Theroux: Drinking To Oblivion
     
     Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
-* [![William Cooper Project Redlight II](/wp-content/thumbnails/6677-100x70.jpg?x53432)
-    
-    William Cooper Project Redlight II
-    
-    "Project Redlight I and II were the very first videos produced about Area 51, also known as Dreamland. Contains more information than any other production. A historic classic video unlike anything els...](https://documentaryheaven.com/william-cooper-project-redlight-ii/ "William Cooper Project Redlight II")
 
 ###### Throwback Documentaries
 
-* [![Around the World in 90 Minutes](/wp-content/thumbnails/6096-100x70.jpg?x53432)
+* [![Secrets of the Vatican](/wp-content/thumbnails/13441-100x70.jpg?x53432)
     
-    Around the World in 90 Minutes
+    Secrets of the Vatican
     
-    At midnight, travel to the tiny country of Monaco and watch residents riding on a gondola on a beautiful summer night. By 12:05 a.m. you are transported to Canada to watch a gaggle of geese forage for](https://documentaryheaven.com/around-the-world-in-90-minutes/ "Around the World in 90 Minutes")
-* [![Osama Bin Laden: Dead or Alive](/wp-content/thumbnails/5734-100x70.jpg?x53432)
+    On 28 February 2013, Pope Benedict XVI shocked the world by being the first pope to resign in 600 years. When the helicopter took him away he was leaving behind a bitterly divided Vatican and this FRO](https://documentaryheaven.com/secrets-of-vatican/ "Secrets of the Vatican")
+* [![Killer Asteroids](/wp-content/thumbnails/1957-100x70.jpg?x53432)
     
-    Osama Bin Laden: Dead or Alive
+    Killer Asteroids
     
-    Examining what has happened to the world's most wanted man, Osama Bin Laden. Despite one of the biggest manhunts in history, Osama Bin Laden remained as elusive as ever. Rooted in the facts around Bin](https://documentaryheaven.com/osama-bin-laden-dead-or-alive/ "Osama Bin Laden: Dead or Alive")
-* [![Mental: A History of the Mad House](/wp-content/thumbnails/5833-100x70.jpg?x53432)
+    In the far corner of our solar system, orbiting quietly, lurks one of the biggest threats to the survival of the human species. Somewhere out there, there’s an asteroid with our name on it. The Earth](https://documentaryheaven.com/killer-asteroids/ "Killer Asteroids")
+* [![Still Berning](/wp-content/thumbnails/12747-100x70.jpg?x53432)
     
-    Mental: A History of the Mad House
+    Still Berning
     
-    This documentary tells the fascinating and poignant story of the closure of Britain’s mental asylums. In the post-war period, 150,000 people were hidden away in 120 of these vast Victorian institution](https://documentaryheaven.com/mental-a-history-of-the-mad-house/ "Mental: A History of the Mad House")
-* [![TikTok’s Dark Side](/wp-content/thumbnails/16588-100x70.jpg?x53432)
+    As we are all now aware, Bernie Sanders lost the primaries to Hillary Clinton as the US presidential candidate for the Democratic Party. But it was a loss which ironically marked the beginning rather](https://documentaryheaven.com/still-berning/ "Still Berning")
+* [![American Nomads](/wp-content/thumbnails/13837-100x70.jpg?x53432)
     
-    TikTok’s Dark Side
+    American Nomads
     
-    The Chinese social media platform known as TikTok has changed the way we interact with the internet. It has become the most popular app in the world, filled with fishing videos, cooking, skits, singi](https://documentaryheaven.com/tiktoks-dark-side/ "TikTok’s Dark Side")
-* [![America’s Military Empire?](/wp-content/thumbnails/14788-100x70.jpg?x53432)
+    Wanderlust, restlessness, the urge to get out onto the road and ride off into the sunset it is something which is deep and elemental in the American spirit. This is a journey in search of America](https://documentaryheaven.com/american-nomads/ "American Nomads")
+* [![Nas’ Story](/wp-content/thumbnails/3925-100x70.jpg?x53432)
     
-    America’s Military Empire?
+    Nas’ Story
     
-    Beginning in the 1980s a belief has slowly taken over the world, that neoliberal globalisation with its built in self-regulating mechanisms would finally do away with old institutions like the state a](https://documentaryheaven.com/americas-military-empire/ "America’s Military Empire?")
+    A very good documentary about the hip-hop artist Nas, giving  good insight into his life and upbringing.](https://documentaryheaven.com/nas-story/ "Nas’ Story")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
