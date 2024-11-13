@@ -206,28 +206,6 @@ Menü
     ===
     
 
-[BreakingNews
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder
-
-LIVE! Historische Redeschlacht im Bundestag! Jetzt sprechen Scholz, Merz, Baerbock, Lindner, Weidel, Söder](https://www.bild.de/politik/inland/regierungskrise-in-deutschland-showdown-um-die-ampel-macht-67288f86ebdb8724738e8224)
-
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
