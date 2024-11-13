@@ -313,3 +313,5 @@ Company
 
 © 2015 - 2024 Title Lock Corporation. All rights reserved.[Privacy Policy](https://www.hometitlelock.com/privacy)[Terms and Conditions](https://www.hometitlelock.com/terms)© 2015 - 2024 Title Lock Corporation.  
 All rights reserved.
+
+Our website requires JavaScript enabled in your browser to work. Please enable JavaScript in your browser in order to continue. **Need help?** Contact our US-based team of customer support specialists at [(800) 899-6268](tel:(800) 899-6268)
