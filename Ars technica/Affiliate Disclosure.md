@@ -89,11 +89,11 @@ Most Read
     
 2. 2. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
-3. 3. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
+3. 3. [Record labels unhappy with court win, say ISP should pay more for user piracy](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
     
-4. 4. [Russia: Fine, I guess we should have a Grasshopper rocket project, too](https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/)
+4. 4. [DNA shows Pompeii’s dead aren’t who we thought they were](https://arstechnica.com/science/2024/11/dna-shows-pompeiis-dead-arent-who-we-thought-they-were/)
     
-5. 5. [Record labels unhappy with court win, say ISP should pay more for user piracy](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
+5. 5. [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)
     
 
 Customize
