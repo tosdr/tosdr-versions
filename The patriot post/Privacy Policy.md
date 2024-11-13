@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -114,26 +114,30 @@ Last Updated: November 15, 2011.
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111901-a-fresh-start-2024-11-12)
+     [](https://patriotpost.us/memes/111931-historic-2024-11-13)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34493)
+     [](https://patriotpost.us/cartoons/34506)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Mark Alexander FEMA Avoided Trump Homes in Tennessee and North Carolina](https://patriotpost.us/alexander/111889-fema-avoided-trump-homes-in-tennessee-and-north-carolina-2024-11-12)
-*      [Dennis Prager The Democrats’ 2020 Victory Was a Blessing in Disguise](https://patriotpost.us/opinion/111887-the-democrats-2020-victory-was-a-blessing-in-disguise-2024-11-12)
-*      [Salena Zito Cultural Curators Face Reckoning for Mocking Middle America](https://patriotpost.us/opinion/111885-cultural-curators-face-reckoning-for-mocking-middle-america-2024-11-12)
-*      [Daniel McCarthy Democrats Are at a Dead End, Unless They Learn From Trump](https://patriotpost.us/opinion/111883-democrats-are-at-a-dead-end-unless-they-learn-from-trump-2024-11-12)
-*      [Victor Joecks Left Blames Racist Minorities for Trump’s Win](https://patriotpost.us/opinion/111882-left-blames-racist-minorities-for-trumps-win-2024-11-12)
-*      [Cal Thomas Democrats Self-Examine, but Not the Media](https://patriotpost.us/opinion/111881-democrats-self-examine-but-not-the-media-2024-11-12)
-*      [Hans von Spakovsky Biden-Harris DOJ Prosecutor Targets Trans Whistleblower Doctor Again](https://patriotpost.us/opinion/111879-biden-harris-doj-prosecutor-targets-trans-whistleblower-doctor-again-2024-11-12)
-*      [Rich Lowry Trump Shows Demography Isn’t Destiny](https://patriotpost.us/opinion/111878-trump-shows-demography-isnt-destiny-2024-11-12)
+*      [Christine Flowers Other Americans Get to Vote, Too](https://patriotpost.us/opinion/111922-other-americans-get-to-vote-too-2024-11-13)
+*      [Rich Lowry Trans Moralism Is Killing the Democrats](https://patriotpost.us/opinion/111920-trans-moralism-is-killing-the-democrats-2024-11-13)
+*      [Stephen Moore Climate Change Was the Big Election Loser](https://patriotpost.us/opinion/111917-climate-change-was-the-big-election-loser-2024-11-13)
+*      [Star Parker What Happened? What’s Next?](https://patriotpost.us/opinion/111916-what-happened-whats-next-2024-11-13)
+*      [Ian Haworth America Didn’t Fall for Emperor Kamala’s New Clothes](https://patriotpost.us/opinion/111915-america-didnt-fall-for-emperor-kamalas-new-clothes-2024-11-13)
+*      [Gary Bauer FEMA Plays Favorites](https://patriotpost.us/opinion/111914-fema-plays-favorites-2024-11-13)
+*      [John Stossel Kids Need Freedom](https://patriotpost.us/opinion/111913-kids-need-freedom-2024-11-13)
+*      [Neil Patel End of the Nutball Era](https://patriotpost.us/opinion/111912-end-of-the-nutball-era-2024-11-13)
+*      [Byron York The Case for Mass Deportations](https://patriotpost.us/opinion/111911-the-case-for-mass-deportations-2024-11-13)
+*      [Betsy McCaughey Trump’s Promising Health Agenda](https://patriotpost.us/opinion/111910-trumps-promising-health-agenda-2024-11-13)
+*      [Tim Graham Why Is PBS Allowed to Be Mangle-MAGA TV?](https://patriotpost.us/opinion/111909-why-is-pbs-allowed-to-be-mangle-maga-tv-2024-11-13)
+*      [The Babylon Bee Newsom Assures Californians They Will Be Safe From All the Trump Administration’s Prosperity, Safety, Lower Prices](https://patriotpost.us/opinion/111923-newsom-assures-californians-they-will-be-safe-from-all-the-trump-administrations-prosperity-safety-lower-prices-2024-11-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,13 +151,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The most sacred of the duties of a government \[is\] to do equal and impartial justice to all citizens.” —Thomas Jefferson (1816)
+“National defense is one of the cardinal duties of a statesman.” —John Adams (1815)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
