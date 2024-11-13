@@ -5,7 +5,7 @@
 [![Blue Donut Games Ltd. UK Boardgames and online store](https://www.bdgame.uk/BDGAME-LOGO.svg)](https://www.bdgame.uk/)
 
 * [Our Games](https://www.bdgame.uk/)
-    * [Horror in the Library](https://www.bdgame.uk/horror-in-the-library-board-game/)
+    * [Horror in the Library Boardgame](https://www.bdgame.uk/horror-in-the-library-board-game/)
     * [Horror in the Library VR Game](https://www.bdgame.uk/horror-in-the-library-vr-game/)
     * [Further Beyond](https://www.bdgame.uk/further-beyond-rpg/)
     * [Devices](https://www.bdgame.uk/devices/)
