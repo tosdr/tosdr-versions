@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Jack White and the White Stripes sue Donald Trump.](https://am23.mediaite.com/lc/cnt/uploads/2024/09/Jack-White-Donald-Trump-432x243.jpg)](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
+1. [![Gloria Williams and Kendrick Lee](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Gloria-Williams-and-Kendrick-Lee-432x243.jpg)](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-receives-fate/)
     
-    ### [Days after calling Trump a 'wannabe dictator,' Jack White and the White Stripes drop lawsuit against president-elect](https://lawandcrime.com/crime/days-after-calling-trump-a-wannabe-dictator-jack-white-and-the-white-stripes-drop-lawsuit-against-president-elect/)
+    ### [Mother who let boyfriend beat 8-year-old son to death before forcing the boy's siblings to live with his body for a year receives fate](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-receives-fate/)
     
-2. [![Background: CCTV footage posted by Shomrim CH showing an attempted kidnapping in Crown Heights, Brooklyn, on Nov. 9, 2024 (Shomrim CH). Inset: Another angle of the attempted kidnapping in Crown Heights, Brooklyn (Shomrim CH).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Crown-Heights-kidnapping-432x243.jpg)](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
+2. [![U.S. District Judge Algenon Marbley (Office of Diversity and Inclusion - The Ohio State University).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Judge-marbley-432x243.jpg)](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
     
-    ### ['Something is clearly going on': Video shows masked man allegedly trying to kidnap 6-year-old Jewish boy walking with his father](https://lawandcrime.com/crime/something-is-clearly-going-on-video-shows-masked-man-allegedly-trying-to-kidnap-6-year-old-jewish-boy-walking-with-his-father/)
+    ### [Clinton-appointed judge pulls reverse retirement card on Trump, rescinds 'senior status' decision after his election win](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
     
-3. [![Joseph Haren (Comal County Criminal District Attorney's Office).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/Joseph-Haren-Comal-County-Criminal-District-Attorneys-Office-432x243.jpg)](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
+3. [![Jack Smith](https://am22.mediaite.com/lc/cnt/uploads/2024/01/Jack-Smith--432x243.jpg)](https://lawandcrime.com/high-profile/unprecedented-circumstance-justice-department-says-accused-jan-6-rioters-wont-be-getting-the-jack-smith-special/)
     
-    ### [Man so drunk field sobriety tests were 'too dangerous' sentenced to life in prison for repeated DWI convictions](https://lawandcrime.com/crime/man-so-drunk-field-sobriety-tests-were-too-dangerous-sentenced-to-life-in-prison-for-repeated-dwi-convictions/)
+    ### ['Unprecedented circumstance': Justice Department says accused Jan. 6 rioters won't be getting the Jack Smith special](https://lawandcrime.com/high-profile/unprecedented-circumstance-justice-department-says-accused-jan-6-rioters-wont-be-getting-the-jack-smith-special/)
     
-4. [![Inset: Celebrity chef Tobias Dorzon with Usher (Instagram). Background: Surveillance footage showing the Tobias Dorzon shooting (WTTG/YouTube).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Tobias-Dorzon-with-Usher-432x243.jpg)](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
+4. [![Donald Trump, Mark Meadows](https://am22.mediaite.com/lc/cnt/uploads/2024/08/AP23048676817295-432x243.jpg)](https://lawandcrime.com/supreme-court/supreme-court-justices-offer-no-explanation-as-they-reject-mark-meadows-bid-to-remove-rico-case-to-federal-court/)
     
-    ### ['Please don't kill me, bro': Celebrity chef says he is 'grateful' to be alive after being gunned down with girlfriend in robbery caught on video](https://lawandcrime.com/crime/please-dont-kill-me-bro-celebrity-chef-says-he-is-grateful-to-be-alive-after-being-gunned-down-with-girlfriend-in-robbery-caught-on-video/)
+    ### [Supreme Court justices offer no explanation as they reject Mark Meadows bid to remove RICO case to federal court](https://lawandcrime.com/supreme-court/supreme-court-justices-offer-no-explanation-as-they-reject-mark-meadows-bid-to-remove-rico-case-to-federal-court/)
     
-5. [![Nicholas Wayne Hamlett (Monroe County (Tenn.) Sheriff's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Nicholas-Wayne-Hamlett-432x243.jpg)](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
+5. [![Left: John Nassif, circled in yellow, inside the U.S. Capitol on Jan. 6, 2021. Justice Department provided photos. Right: The U.S. Supreme Court on Wednesday, Jan. 19, 2022, in Washington, D.C. (AP Photo/Mariam Zuhaib)](https://am23.mediaite.com/lc/cnt/uploads/2024/07/NASSIF-432x243.jpg)](https://lawandcrime.com/high-profile/whose-house-our-house-scotus-swats-away-demand-from-jan-6-rioter-to-reverse-conviction-over-demonstrating-inside-capitol/)
     
-    ### [Hospital worker helps nab murder suspect who staged killing as bear attack to steal victim's identity: Cops](https://lawandcrime.com/crime/hospital-worker-helps-nab-murder-suspect-who-staged-killing-as-bear-attack-to-steal-victims-identity-cops/)
+    ### ['Whose House? Our House!' SCOTUS swats away demand from Jan. 6 rioter to reverse conviction over 'demonstrating' inside Capitol](https://lawandcrime.com/high-profile/whose-house-our-house-scotus-swats-away-demand-from-jan-6-rioter-to-reverse-conviction-over-demonstrating-inside-capitol/)
     
 
 [](http://eepurl.com/c89Jdb)
