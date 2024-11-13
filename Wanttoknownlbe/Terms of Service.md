@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/nog-steeds-misleidende-prostaat-tests/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/ingo-swann/buitenaardsen-en-telepathie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
