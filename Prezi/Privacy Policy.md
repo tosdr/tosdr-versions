@@ -903,17 +903,17 @@ Languages
 
 Blog
 
+Nov. 13, 2024
+
+[How to do bullet points right in your presentations](https://blog.prezi.com/how-to-do-bullet-points/)
+
+Nov. 13, 2024
+
+[Find cool presentation backgrounds for your next presentation](https://blog.prezi.com/cool-presentation-backgrounds/)
+
 Oct. 25, 2024
 
 [The future of AI and work](https://blog.prezi.com/future-of-ai/)
-
-Oct. 24, 2024
-
-[70+ interesting psychology topics for presentation](https://blog.prezi.com/interesting-psychology-topics-for-presentation/)
-
-Oct. 23, 2024
-
-[A guide for mastering your interview presentation](https://blog.prezi.com/interview-presentation/)
 
 [Latest posts](https://blog.prezi.com/)
 
