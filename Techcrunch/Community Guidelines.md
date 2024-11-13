@@ -180,12 +180,12 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Bluesky](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-* [Sam Bankman-Fried Movie](https://techcrunch.com/2024/11/12/sam-bankman-fried-is-coming-to-the-big-screen/)
-* [AT&T Hack](https://techcrunch.com/2024/11/12/snowflake-hackers-identified-and-charged-with-stealing-50-billion-att-records/)
-* [Apple Security Camera](https://techcrunch.com/2024/11/12/apple-reportedly-shipping-a-security-camera-in-2026/)
-* [Apple Genmoji](https://techcrunch.com/2024/11/12/how-to-create-a-custom-emoji-with-genmoji-apple-intelligence-feature/)
-* [Tech Layoffs](https://techcrunch.com/2024/11/05/tech-layoffs-2024-list/)
+* [Bluesky Surge](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/)
+* [Cybertruck Recall](https://techcrunch.com/2024/11/13/tesla-issues-sixth-cybertruck-recall-in-a-year/)
+* [Hot Topic Data Breach](https://techcrunch.com/2024/11/13/hot-topic-data-breach-exposed-personal-data-of-57-million-customers/)
+* [Amazon Takes On Temu](https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/)
+* [Klarna IPO](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/)
+* [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
 © 2024 Yahoo.
