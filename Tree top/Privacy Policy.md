@@ -217,7 +217,7 @@ www.treetop.com
 
 ZIP Code 
 
-© 2024 Tree Top. All Rights Reserved. | [Accessibility](https://treetop.com/accessibility/) | [Privacy Policy](https://treetop.com/privacy-policy/) | [Sitemap](https://www.treetop.com/sitemap_index.xml) | [Terms of Use](https://treetop.com/terms-of-use/) | [Human Rights](https://treetop.com/human-rights/) | [Transparency in Coverage](https://healthcomp.sapphiremrfhub.com/) | [Refund Policy](https://treetop.com/refund-policy/) | [Order Policy](https://treetop.com/ordering-policy/)
+© 2024 Tree Top. All Rights Reserved. | [Accessibility](https://treetop.com/accessibility/) | [Privacy Policy](https://treetop.com/privacy-policy/) | [Sitemap](https://www.treetop.com/sitemap_index.xml) | [Terms of Use](https://treetop.com/terms-of-use/) | [Human Rights](https://treetop.com/human-rights/) | [Transparency in Coverage](https://healthcomp.sapphiremrfhub.com/) | [Refund Policy](https://treetop.com/refund-policy/) | [Ordering Policy](https://treetop.com/ordering-policy/)
 
 This website uses [cookies.](https://cookieinformation.com/regulations/ccpa/) If you continue to use this site, we will assume that you're OK with that.
 
