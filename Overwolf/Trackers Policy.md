@@ -12,8 +12,10 @@
 * [Français](https://www.overwolf.com/fr/docs/overwolf/cookies-policy)
 * [Italiano](https://www.overwolf.com/it/docs/overwolf/cookies-policy)
 * [日本語](https://www.overwolf.com/ja/docs/overwolf/cookies-policy)
+* [한국어](https://www.overwolf.com/ko/docs/overwolf/cookies-policy)
 * [Polski](https://www.overwolf.com/pl/docs/overwolf/cookies-policy)
 * [Português](https://www.overwolf.com/pt/docs/overwolf/cookies-policy)
+* [简体中文](https://www.overwolf.com/zh/docs/overwolf/cookies-policy)
 
 Search
 
