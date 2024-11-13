@@ -451,7 +451,7 @@ team@effency.fr
 
 07 61 43 61 70
 
-Paris
+78 avenue de Flandre - Paris
 
 [Linkedin](https://www.linkedin.com/company/effency/?originalSubdomain=fr) [Twitter](https://twitter.com/effency_) [Youtube](https://www.youtube.com/channel/UCYWqhJ3gFmZzDrNo0w4d-SQ)
 
