@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/de-wedloop-tussen-bewustzijn-en-onderdrukking-lezersbrief/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/ook-zeurende-last-van-dit-bizarre-griepvirus/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
