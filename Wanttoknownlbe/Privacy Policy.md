@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-dood-in-de-doofpot/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/david-icke-de-waarheid-over-syrie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
