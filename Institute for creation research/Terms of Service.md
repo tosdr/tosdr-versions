@@ -165,6 +165,64 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
+More Features
+
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1223_rainbows.jpg)](https://www.icr.org/article/kids-edition-2023-rainbows)
+
+[Kids Edition 2023: Rainbows](https://www.icr.org/article/kids-edition-2023-rainbows/)
+
+Hi, kids! We created a special Acts & Facts just for you! Have fun doing the activities while learning about the wonderful world God...
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/LessonMtStHelens_1400x1050.jpg)](https://www.icr.org/article/lessons-from-mount-st-helens-eruption)
+
+[Lessons from the Mount St. Helens Eruption](https://www.icr.org/article/lessons-from-mount-st-helens-eruption/)
+
+Purpose Nothing put a damper on uniformitarianism like the Mount St. Helens eruption did on May 18, 1980. Prior to this eruption, strict uniformitarianism...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/creation_kids_1222_space.jpg)](https://www.icr.org/article/kids-edition-space)
+
+[Kids Edition 2022: Space](https://www.icr.org/article/kids-edition-space/)
+
+Hi, kids! We created a special Acts & Facts just for you! We hope you have fun doing the activities while learning how God designed creation...
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/34464783/file.jpg)
+
+Chimps and Humans](https://store.icr.org/chimps-and-humans.html)
+
+$19.99
+
+$29.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
+
+Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
+
+$4.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
+
+Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
+
+$14.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
+
+Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
+
+The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
+
+$29.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
