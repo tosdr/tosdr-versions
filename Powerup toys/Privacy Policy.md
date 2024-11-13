@@ -1,4 +1,4 @@
-FREE SHIPPING ON ORDERS $60+
+FREE SHIPPING ON ORDERS $70+
 
 Menu
 
@@ -261,7 +261,7 @@ Menu
 
 [0](https://www.poweruptoys.com/cart "Cart")
 
-FREE SHIPPING ON ORDERS $60+
+FREE SHIPPING ON ORDERS $70+
 
 * [](mailto:support@poweruptoys.com "Email POWERUP®")
 * [](https://www.facebook.com/Poweruptoys "POWERUP® on Facebook")
