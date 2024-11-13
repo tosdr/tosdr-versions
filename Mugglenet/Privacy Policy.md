@@ -318,15 +318,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
+The Grangers and Potters were originally supposed to be neighbors in Godric’s Hollow.
 
 ### Potter History
 
-April 20, 2006 – Harry Potter and the Order of the Phoenix film release dates are confirmed.
+November 29, 2005 – Harry Potter and the Goblet of Fire film breaks $400 million worldwide in ticket sales.
 
 ### Potter Quote
 
-“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
+“Draco, Draco, you are not a killer.”
 
 [](#)
 
