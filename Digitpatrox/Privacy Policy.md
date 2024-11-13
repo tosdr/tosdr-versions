@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Tuesday, November 12 2024
+Wednesday, November 13 2024
 
 Latest
 
-* [Why you should always offboard outgoing staff: A disgruntled ex-Disney employee targeted former colleagues with DDoS attacks and hacked its menu system to change peanut allergen information](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
-* [Navigating Global Compliance for Shopify Merchants](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
-* [Beware! The Samsung OLED panel lottery might be back in 2025 — here’s what it means for you](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
-* [Signal introduces convenient “call links” for private group chats](https://digitpatrox.com/signal-introduces-convenient-call-links-for-private-group-chats/)
-* [The slim PS5 is getting a price cut for the holidays](https://digitpatrox.com/the-slim-ps5-is-getting-a-price-cut-for-the-holidays/)
-* [Fortnite OG is Permanently Returning in December](https://digitpatrox.com/fortnite-og-is-permanently-returning-in-december/)
-* [Nearly half of workers think using AI makes them look lazy and incompetent](https://digitpatrox.com/nearly-half-of-workers-think-using-ai-makes-them-look-lazy-and-incompetent/)
-* [Box adds AI agent and no-code app builder tools – Computerworld](https://digitpatrox.com/box-adds-ai-agent-and-no-code-app-builder-tools-computerworld/)
-* [When to Watch the Leonid Meteor Shower This Weekend](https://digitpatrox.com/when-to-watch-the-leonid-meteor-shower-this-weekend/)
-* [How to make and receive calls on Windows 11, 10](https://digitpatrox.com/how-to-make-and-receive-calls-on-windows-11-10/)
+* [My Favorite Amazon Deal of the Day: Apple AirTags](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
+* [MA tax preparer and accountant pays ransom after hackers steal private info of 70K clients](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
+* [Windows 10 November 2024 update arrives with KB5046613](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
+* [How Long Does It Take to Charge These Popular Electric Cars?](https://digitpatrox.com/how-long-does-it-take-to-charge-these-popular-electric-cars/)
+* [VR Passthrough Needs to Get Much Better](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
+* [Microsoft admits users received unexpected upgrades to Windows Server 2025 – but the issue has been fixed](https://digitpatrox.com/microsoft-admits-users-received-unexpected-upgrades-to-windows-server-2025-but-the-issue-has-been-fixed/)
+* [Is AI Adoption Heading for a Plateau?](https://digitpatrox.com/is-ai-adoption-heading-for-a-plateau/)
+* [NYT Connections today hints and answers — Wednesday, November 13 (#521)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-13-521/)
+* [Microsoft Exchange adds warning to emails abusing spoofing flaw](https://digitpatrox.com/microsoft-exchange-adds-warning-to-emails-abusing-spoofing-flaw/)
+* [Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://digitpatrox.com/apples-rumored-six-inch-ai-wall-tablet-could-control-your-smart-home-by-march-2025/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/5ZGYoUNiZkmirm75MMLJPF-1200-80.jpg)](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
+* [![](https://lifehacker.com/imagery/articles/01JCH2R0HTQEMKE41HQVVF2JQ1/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
     
-    [Why you should always offboard outgoing staff: A disgruntled ex-Disney employee targeted former colleagues with DDoS attacks and hacked its menu system to change peanut allergen information](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
+    [My Favorite Amazon Deal of the Day: Apple AirTags](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
     
     14 mins ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/ecommerce-2023-11-27-04-49-52-utc.jpg)](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/MA-tax-preparer-and-accounting-firm-notifies-70K-of-data-breach.jpg)](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
     
-    [Navigating Global Compliance for Shopify Merchants](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
+    [MA tax preparer and accountant pays ransom after hackers steal private info of 70K clients](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
     
-    18 mins ago
+    21 mins ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/pwL8QuZvZcjc2mCNRLFAiE-1200-80.jpg)](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-10-kb5046613-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
     
-    [Beware! The Samsung OLED panel lottery might be back in 2025 — here’s what it means for you](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
+    [Windows 10 November 2024 update arrives with KB5046613](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
     
     22 mins ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/10/14/signal-header-white.jpg)](https://digitpatrox.com/signal-introduces-convenient-call-links-for-private-group-chats/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730470829/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Electrify-America-Chargers-Taycan-11-24)](https://digitpatrox.com/how-long-does-it-take-to-charge-these-popular-electric-cars/)
     
-    [Signal introduces convenient “call links” for private group chats](https://digitpatrox.com/signal-introduces-convenient-call-links-for-private-group-chats/)
+    [How Long Does It Take to Charge These Popular Electric Cars?](https://digitpatrox.com/how-long-does-it-take-to-charge-these-popular-electric-cars/)
     
-    2 hours ago
+    24 mins ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/NOcMbBRAvDeH-T69JvkUXnySPn0=/0x0:1000x1000/1200x628/filters:focal(500x500:501x501)/cdn.vox-cdn.com/uploads/chorus_asset/file/25471726/playstation_5_slim_digital.jpg)](https://digitpatrox.com/the-slim-ps5-is-getting-a-price-cut-for-the-holidays/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53438127273_ef00efa517_o.jpg)](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
     
-    [The slim PS5 is getting a price cut for the holidays](https://digitpatrox.com/the-slim-ps5-is-getting-a-price-cut-for-the-holidays/)
+    [VR Passthrough Needs to Get Much Better](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
     
-    2 hours ago
+    25 mins ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -210,49 +210,49 @@ Recent Topics
 
 * [14 mins ago
     
-    ### Why you should always offboard outgoing staff: A disgruntled ex-Disney employee targeted former colleagues with DDoS attacks and hacked its menu system to change peanut allergen information](https://digitpatrox.com/why-you-should-always-offboard-outgoing-staff-a-disgruntled-ex-disney-employee-targeted-former-colleagues-with-ddos-attacks-and-hacked-its-menu-system-to-change-peanut-allergen-information/)
-* [18 mins ago
+    ### My Favorite Amazon Deal of the Day: Apple AirTags](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
+* [21 mins ago
     
-    ### Navigating Global Compliance for Shopify Merchants](https://digitpatrox.com/navigating-global-compliance-for-shopify-merchants/)
+    ### MA tax preparer and accountant pays ransom after hackers steal private info of 70K clients](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
 * [22 mins ago
     
-    ### Beware! The Samsung OLED panel lottery might be back in 2025 — here’s what it means for you](https://digitpatrox.com/beware-the-samsung-oled-panel-lottery-might-be-back-in-2025-heres-what-it-means-for-you/)
+    ### Windows 10 November 2024 update arrives with KB5046613](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
 
 Most Popular Topics
 
-* [September 16, 2024
+* [2 weeks ago
     
-    ### Windows 10 Home and Pro ISO files for 32- and 64-bit PCs ready for download](https://digitpatrox.com/windows-10-home-and-pro-iso-files-for-32-and-64-bit-pcs-ready-for-download/)
-* [3 weeks ago
+    ### I Tried Instagram on the Meta Quest 3S; It’s More Fun than I Expected](https://digitpatrox.com/i-tried-instagram-on-the-meta-quest-3s-its-more-fun-than-i-expected/)
+* [September 19, 2024
     
-    ### Stable Diffusion 3.5 Is Out with Better Performance & the Right Number of Limbs](https://digitpatrox.com/stable-diffusion-3-5-is-out-with-better-performance-the-right-number-of-limbs/)
-* [August 23, 2024
+    ### I Put This Savory, Spicy Thai Sauce on Every Rice Dish](https://digitpatrox.com/i-put-this-savory-spicy-thai-sauce-on-every-rice-dish/)
+* [2 weeks ago
     
-    ### Home Depot’s Labor Day sale is live — 23 deals I’d shop now on grills, patio furniture and more](https://digitpatrox.com/home-depots-labor-day-sale-is-live-23-deals-id-shop-now-on-grills-patio-furniture-and-more/)
+    ### Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [1 hour ago
     
-    ### Nearly half of workers think using AI makes them look lazy and incompetent](https://digitpatrox.com/nearly-half-of-workers-think-using-ai-makes-them-look-lazy-and-incompetent/)
-* [4 hours ago
+    ### Is AI Adoption Heading for a Plateau?](https://digitpatrox.com/is-ai-adoption-heading-for-a-plateau/)
+* [1 hour ago
     
-    ### Box adds AI agent and no-code app builder tools – Computerworld](https://digitpatrox.com/box-adds-ai-agent-and-no-code-app-builder-tools-computerworld/)
-* [4 hours ago
+    ### NYT Connections today hints and answers — Wednesday, November 13 (#521)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-13-521/)
+* [2 hours ago
     
-    ### When to Watch the Leonid Meteor Shower This Weekend](https://digitpatrox.com/when-to-watch-the-leonid-meteor-shower-this-weekend/)
+    ### Microsoft Exchange adds warning to emails abusing spoofing flaw](https://digitpatrox.com/microsoft-exchange-adds-warning-to-emails-abusing-spoofing-flaw/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 13, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 28, 2024
+    
+    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
