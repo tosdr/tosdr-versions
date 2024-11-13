@@ -63,7 +63,7 @@ Tel: (+32) 56 33 08 35
 Mentions Légales
 ================
 
-[Accueil](https://e2essentialelements.com/) / Mentions Légales
+[Home](https://e2essentialelements.com/) / Mentions Légales
 
 [1\. Informations générales](#1) | [2\. Utilisation du site web](#2) | [3\. Accord de l’utilisateur](#3) | [4\. Moyens de contact](#4) | [5\. Propriété intellectuelle](#5) | [6\. Vie privée](#6) | [7\. Cookies](#7) | [8\. Photos retouchées](#8) | [9\. Ressources externes](#9) | [10\. Droit applicable et juridiction](#10) | [11\. Règlement des litiges en ligne](#11)
 
