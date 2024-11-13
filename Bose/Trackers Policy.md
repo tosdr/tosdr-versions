@@ -1,5 +1,7 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
+Deal of the Day: Save $150 on Cypress Green QuietComfort Headphones. [Shop](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1)
+
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
@@ -105,22 +107,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/6fa09240bc64c918/webimage-SF_SneakPeek_Nav-Fly-out_Mobile_Sandstone-QCUH.png)
+    [![](https://assets.bosecreative.com/m/60a8003c4d843dea/webimage-QCHLE25-CypressGreen_SF_NavFlyout_Promo_Mobile.png)
     
-    Exclusive Color Drop
+    Deal of the day
     
-    ### Sculpted in Sandstone](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
+    ### QuietComfort Headphones](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1 "BUY NOW ")
     
      
     
-    Exclusive Color Drop
+    Today only
     
-    Sculpted in Sandstone
-    ---------------------
+    Deal of the day
+    ---------------
     
-    Share the joy of legendary sound.
+    Act fast and save $150 off QuietComfort Headphones in Cypress Green.
     
-    [BUY NOW](https://www.bose.com/QCUH-HEADPHONEARN.html?dwvar_QCUH-HEADPHONEARN_color=SANDSTONE&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
