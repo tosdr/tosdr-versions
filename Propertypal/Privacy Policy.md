@@ -10,14 +10,14 @@ Menu
 
 ![](/_next/static/media/PropertyPalLogo.b096cb16.svg)](https://content.propertypal.com/)
 
-NI Housing Market Activity Surge: Q4 2024
------------------------------------------
+PropertyPal & Propertynews Announce Merger
+------------------------------------------
 
-[### NI Housing Market Activity Surge: Q4 2024
+[### PropertyPal & Propertynews Announce Merger
 
-Northern Ireland housing market activity is surging, with sales up 18% year on year. Stay tuned for the upcoming PropertyPal Q3 report for more insights.
+PropertyPal and Propertynews merge to enhance home search and agent advertising in Northern Ireland, combining expertise and driving innovation.
 
-Read more](https://content.propertypal.com/news-and-analysis/industry-news/ni-housing-market-activity-surge-q4-2024)
+Read more](https://content.propertypal.com/news-and-analysis/propertypal-updates/propertypal-and-propertynews-announce-merger)
 
 Hotel Sector Strong Despite Budget Uncertainty
 ----------------------------------------------
@@ -37,14 +37,14 @@ In the latest Budget, Chancellor Rachel Reeves revealed an increase in Stamp Dut
 
 Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)
 
-NI Housing Market Activity Surge: Q4 2024
------------------------------------------
+PropertyPal & Propertynews Announce Merger
+------------------------------------------
 
-[### NI Housing Market Activity Surge: Q4 2024
+[### PropertyPal & Propertynews Announce Merger
 
-Northern Ireland housing market activity is surging, with sales up 18% year on year. Stay tuned for the upcoming PropertyPal Q3 report for more insights.
+PropertyPal and Propertynews merge to enhance home search and agent advertising in Northern Ireland, combining expertise and driving innovation.
 
-Read more](https://content.propertypal.com/news-and-analysis/industry-news/ni-housing-market-activity-surge-q4-2024)
+Read more](https://content.propertypal.com/news-and-analysis/propertypal-updates/propertypal-and-propertynews-announce-merger)
 
 Hotel Sector Strong Despite Budget Uncertainty
 ----------------------------------------------
@@ -67,11 +67,11 @@ Read more](https://content.propertypal.com/news-and-analysis/industry-news/hotel
 
 In the latest Budget, Chancellor Rachel Reeves revealed an increase in Stamp Duty for second home buyers.
 
-Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)[### NI Housing Market Activity Surge: Q4 2024
+Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)[### PropertyPal & Propertynews Announce Merger
 
-Northern Ireland housing market activity is surging, with sales up 18% year on year. Stay tuned for the upcoming PropertyPal Q3 report for more insights.
+PropertyPal and Propertynews merge to enhance home search and agent advertising in Northern Ireland, combining expertise and driving innovation.
 
-Read more](https://content.propertypal.com/news-and-analysis/industry-news/ni-housing-market-activity-surge-q4-2024)
+Read more](https://content.propertypal.com/news-and-analysis/propertypal-updates/propertypal-and-propertynews-announce-merger)
 
 Industry News
 -------------
