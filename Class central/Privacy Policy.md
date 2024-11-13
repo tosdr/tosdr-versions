@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [Class Action: 50,000 Seek Payouts, Costing Coursera, Udemy Millions](https://www.classcentral.com/report/coursera-udemy-data-privacy-class-action/)
-2. [Black Friday 2024: Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
-3. [9 Best Adobe Premiere Pro Courses for 2024](https://www.classcentral.com/report/best-adobe-premiere-courses/)
-4. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
-5. [6 Best Graphic Design Courses for Beginners for 2024](https://www.classcentral.com/report/best-graphic-design-courses/)
+1. [250+ Free Courses on Sustainable Development Goals](https://www.classcentral.com/report/sustainability-courses-free-certificate/)
+2. [Class Action: 50,000 Seek Payouts, Costing Coursera, Udemy Millions](https://www.classcentral.com/report/coursera-udemy-data-privacy-class-action/)
+3. [Black Friday 2024: Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
+4. [9 Best Adobe Premiere Pro Courses for 2024](https://www.classcentral.com/report/best-adobe-premiere-courses/)
+5. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. psychology
+1. web development
     
-2. harvard
+2. html
     
-3. graphic design
+3. flutter
     
 
 Popular subjects
