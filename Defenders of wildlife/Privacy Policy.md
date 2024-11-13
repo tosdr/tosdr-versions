@@ -549,7 +549,7 @@ Washington, DC 20036
 
 97% of our funds go towards program and support services, with only 3% going towards fundraising.
 
-Search 
+Search
 
 Image
 
