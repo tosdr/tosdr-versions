@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Breakthrough in Photonic Time Crystals](https://www.sciencedaily.com/releases/2024/11/241112123307.htm)
+* [Fossil Fuel CO2 Emissions Increase Again in 2024](https://www.sciencedaily.com/releases/2024/11/241112191227.htm)
+* [What Is the Sun Made Of? New Data](https://www.sciencedaily.com/releases/2024/11/241112122742.htm)
 * [Earliest Ancient Maya Salt Works](https://www.sciencedaily.com/releases/2024/11/241112191056.htm)
 * [Swimming Sea Slug from the Deep Sea](https://www.sciencedaily.com/releases/2024/11/241112122719.htm)
 * [Super Microscope: Nanoscale Biological Process](https://www.sciencedaily.com/releases/2024/11/241111123408.htm)
@@ -236,9 +239,6 @@ this hour
 * [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
 * [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
 * [First Amber Find On the Antarctic Continent](https://www.sciencedaily.com/releases/2024/11/241112122816.htm)
-* [Moderate Exercise Can Reduce Heart Risk](https://www.sciencedaily.com/releases/2024/11/241111155405.htm)
-* [Milestone in the Study of Octopus Arms](https://www.sciencedaily.com/releases/2024/11/241111162206.htm)
-* [Was 'Snowball Earth' a Global Event?](https://www.sciencedaily.com/releases/2024/11/241111155227.htm)
 
 Trending Topics
 ---------------
@@ -249,27 +249,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+
+[Medical Education and Training](https://www.sciencedaily.com/news/health_medicine/medical_education_and_training/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
 
-[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
-
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+
+[Energy and Resources](https://www.sciencedaily.com/news/matter_energy/energy_and_resources/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
 [New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
 
   
 
