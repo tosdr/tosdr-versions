@@ -205,24 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Board Game Reality](https://www.somethingawful.com/photoshop-phriday/board-game-reality/1/)
-* [Abstract Pixel Art! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/abstract-pixel-art/1/)
-* [Welcome to the DynaMars Corporation's Ares Station Update Service](https://www.somethingawful.com/news/dynamars-corporation-kiosk/1/)
 * [Literotica](https://www.somethingawful.com/weekend-web/literotica-forums/1/)
-* [Jim, I simply remind everyone that Sonic The Hedgehog's Arms Are Not Freaking Blue](https://www.somethingawful.com/news/sonichu-stephen-miller/)
+* [Thinking with Portals](https://www.somethingawful.com/photoshop-phriday/thinking-with-portals/1/)
+* [Comic SWAT](https://www.somethingawful.com/fashion-swat/comic-swat/1/)
+* [The Content Creator's Oath](https://www.somethingawful.com/news/content-creators-oath/1/)
+* [\[SPOILER\] L@@K! Secret Ending - Bioshock: Infinite Pacifist 1999 Mode!!!](https://www.somethingawful.com/everdraed-showcase/bioshock-infinite-ending/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Avoid fifth glyph. It is bad.](http://forums.somethingawful.com/showthread.php?threadid=4075230 "Avoid fifth glyph. It is bad.")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Who has a good baby?](http://forums.somethingawful.com/showthread.php?threadid=4075223 "Who has a good baby?")
+* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Avoid fifth glyph. It is bad.](http://forums.somethingawful.com/showthread.php?threadid=4075230 "Avoid fifth glyph. It is bad.")
 
 ### Random Articles
 
-* [Comic Relief](https://www.somethingawful.com/news/comic-relief/)
-* [Of Moof and Men](https://www.somethingawful.com/mooflogs/daily-grizzly-bear/)
-* [/r/WatchPeopleCode (Thanks, Surprisingly Dope!)](https://www.somethingawful.com/awful-links/watch-people-code/)
-* [TruthMedia Review: Final Fantasy X](https://www.somethingawful.com/truth-media-reviews/truthmedia-review-final/)
-* [Defeat Boredom The Ace W. High Way!](https://www.somethingawful.com/news/defeat-boredom-ace/)
+* [Seth MacFarlane: A Truth Media Celebrity Report](https://www.somethingawful.com/news/seth-macfarlane-truth/1/)
+* [On the Importance of Grappling Hooks and Jetpacks](https://www.somethingawful.com/news/on-importance-grappling/)
+* [Breaking News Agency](https://www.somethingawful.com/awful-links/awful-link-4162/)
+* [Tornados Hate Our Freedom](https://www.somethingawful.com/news/tornados-hate-freedom/)
+* [Spells and Magic (Thanks, Ethel Alcohol!)](https://www.somethingawful.com/awful-links/spells-magic-puzuzu/)
 
 [Random!](https://www.somethingawful.com/random/)
 
