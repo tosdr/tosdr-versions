@@ -1695,7 +1695,7 @@ Connect
 
 PLATFORM
 
-[Security](https://www.subsplash.com/security)
+[Platform updates](https://subsplash.canny.io/changelog)[Security](https://www.subsplash.com/security)
 
 ABOUT US
 
