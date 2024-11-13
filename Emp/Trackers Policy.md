@@ -156,7 +156,7 @@ OK
 
 By clicking “Agree” you allow us to use cookies on our website, social media and partner websites in order to improve and personalize our shop, and for analysis and marketing purposes. Alternatively you can choose not to agree to the use of cookies – in this case we will only use the essential cookies. By clicking on “Set preferences” you can set your cookie preferences. You can change the cookie settings and revoke your permission at any time on the [cookie policy page](https://www.emp-online.com/terms-cookie-policy.html) . You can find more information in our data [data protection guidelines](https://www.emp-online.com/customer-service/terms-%26-conditions/terms-privacy-policy.html).
 
-Set preferences Agree
+Agree Deny all Set preferences
 
 With the help of this tool you can select and deactivate tracking & analytics tools used on this website
 
@@ -325,7 +325,7 @@ Subscribe
 
 Our customer services are here for you
 
-Today our customer service is available from 9:00 AM am to 5:30 PM pm. [More Info](https://www.emp-online.com/contact)
+Today our customer service is available till 5:30 PM. [More Info](https://www.emp-online.com/contact)
 
 Start chat
 
