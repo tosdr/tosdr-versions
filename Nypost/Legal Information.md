@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Breaking News
+#### Watch live
 
-[Special Counsel Jack Smith plans to retire before Trump takes office: report](https://nypost.com/2024/11/13/us-news/special-coounsel-jack-smith-plans-to-retire-before-trump-takes-office/)
+[President-elect Trump meets with President Biden at White House](https://nypost.com/video/watch-live-president-elect-donald-trump-meets-with-president-joe-biden-at-white-house/)
 
 Privacy Notice Highlights
 =========================
