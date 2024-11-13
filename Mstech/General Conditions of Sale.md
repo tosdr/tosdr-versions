@@ -385,7 +385,7 @@ lifetime license + free updates + free support
 
 [Buy Now](https://mstechglobal.com/wp-content/plugins/mstech_widget/includes/addToCart.php?product=487&coupon=im23ya51hoo&quantity=1&ref=1&campaign=popup)
 
-                                                                                        
+                                                                                           
 
 Insert/edit link
 ================
