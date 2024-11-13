@@ -75,13 +75,13 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
-    ![Angled shot of white, square-shaped USB hub.](https://cdn-shop.adafruit.com/230x173/6012-03.jpg)[Raspberry Pi USB 3 Hub - 5 Gbit/s USB 3.2 Gen1
-    
-    $12.00](https://www.adafruit.com/product/6012)
-    
     ![Pebble strand LED strips lit up yellow-pink and blue.](https://cdn-shop.adafruit.com/230x173/6023-04.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 300 LEDs - 2" Pitch
     
     $39.95](https://www.adafruit.com/product/6023)
+    
+    ![Angled shot of white, square-shaped USB hub.](https://cdn-shop.adafruit.com/230x173/6012-03.jpg)[Raspberry Pi USB 3 Hub - 5 Gbit/s USB 3.2 Gen1
+    
+    $12.00](https://www.adafruit.com/product/6012)
     
     ![Overhead shot of a Black hand with red manicure drawing a rectangle on a touchscreen landscape-style.](https://cdn-shop.adafruit.com/230x173/6079-06.jpg)[Raspberry Pi Touch Display 2 - 7" 720x1280 with Capacitive Touch
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable”
+“ Fight for the things that you care about, but do it in a way that will lead others to join you”
 
-[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
+[Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg)
 
 [](https://www.adafruit.com/about)
 
