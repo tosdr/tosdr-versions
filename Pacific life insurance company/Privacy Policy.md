@@ -21,6 +21,7 @@
         * [Universal Life Insurance](https://www.pacificlife.com/home/products/life-insurance/universal-life-insurance.html "Universal  Life Insurance")
     * [For Institutions](https://www.pacificlife.com/home/products/institutions.html "For Institutions") Whether you’re looking for a de-risking strategy for your company’s pension plan, want to provide financial security to your retirees, or looking for a strong investing partner, Pacific Life has the solutions and experience to help you succeed.
         * [Overview](https://www.pacificlife.com/home/products/institutions/overview.html "Overview")
+        * [Terms and Conditions](https://www.pacificlife.com/home/products/institutions/terms-and-conditions.html "Terms and Conditions")
     * [Workforce Benefits](https://www.pacificlife.com/home/products/workforce-benefits.html "Workforce Benefits") Pacific Life is revolutionizing employee benefits by empowering you with a premier, comprehensive, friction-free, digitally native experience.
         * [Overview](https://www.pacificlife.com/home/products/workforce-benefits/overview.html "Overview")
         * [Why Choose Us](https://www.pacificlife.com/home/products/workforce-benefits/why-choose-us.html "Why Choose Us")
