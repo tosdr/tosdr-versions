@@ -88,7 +88,7 @@
     
     For installers
     
-    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator) [Become an installer](https://enphase.com/installers/signup)
+    [System builder](https://enphase.com/installers/systems) [System estimator](https://estimator.enphase.com/) [Module calculator](https://enphase.com/installers/microinverters/calculator)
     
 * [](javascript:void(0);)
 * [ESG](https://enphase.com/company/sustainability)
@@ -279,8 +279,6 @@ Products and services
 
 [Community Terms & Conditions](https://enphase.com/legal/community-terms-conditions)
 
-[Installer Network Terms & Conditions](https://enphase.com/legal/installer-network-terms-conditions)
-
 [Labor Protection Program](https://enphase.com/legal/labor-protection-program)
 
 [Permit Assistance & Design Review Services Terms & Conditions](https://enphase.com/legal/permit-assistance-design-review-services-terms-conditions)
@@ -380,6 +378,8 @@ Solargraf Terms of Use
 [Philippines](https://enphase.com/legal/solargraf-terms-philippines)
 
 Enphase Installer Network Terms and Conditions
+
+[United States](https://enphase.com/legal/united-states)
 
 [Spain](https://enphase.com/legal/installer-network-terms-conditions-spain)
 
@@ -518,7 +518,7 @@ Your session expired. Please login again to continue to purchase.
     * [Accessories](https://enphase.com/installers/accessories)
     * [Apps](https://enphase.com/installers/apps)
     * [Documentation](https://enphase.com/installers/resources/documentation)
-    * [Training](https://enphase.com/installers/training)
+    * [Training](https://enphase.com/installers/training-and-certifications)
     * [Resources](https://enphase.com/installers/resources)
     * [O&M Marketplace](https://enphase.com/installers/om-marketplace)
     * [Leads Program](https://start.enphase.com/appointments-program-signup)
