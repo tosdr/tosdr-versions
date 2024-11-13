@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,13 +275,13 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the four stages of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-what-are-the-four-stages-of-lung-cancer.jpg "What Are the Four Stages of Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/stages "What Are the Four Stages of Lung Cancer?")
+[![Handling noncompliance in nursing homes](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements-scaled.jpg "Handling Noncompliance in Nursing Homes")](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/ "Handling Noncompliance in Nursing Homes")
 
-[#### What Are the Four Stages of Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/stages)
+[#### Handling Noncompliance in Nursing Homes](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/)
 
-[![Can my lawyer settle my case without me?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-my-lawyer-settle-my-case-without-me-scaled.jpg "Can My Lawyer Settle My Case Without Me?")](https://www.pintas.com/faq/can-my-lawyer-settle-my-case-without-me/ "Can My Lawyer Settle My Case Without Me?")
+[![Is there a cure for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-mesothelioma-lawyer-is-there-a-cure-for-mesothelioma.jpg "Is There a Cure for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/ "Is There a Cure for Mesothelioma?")
 
-[#### Can My Lawyer Settle My Case Without Me?](https://www.pintas.com/faq/can-my-lawyer-settle-my-case-without-me/)
+[#### Is There a Cure for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/)
 
 [![Where is johnson & johnson baby powder manufactured?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-where-is-j-and-j-baby-powder-manufactured.jpg "Where Is Johnson & Johnson Baby Powder Manufactured?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured "Where Is Johnson & Johnson Baby Powder Manufactured?")
 
