@@ -162,7 +162,6 @@
 [PROMT.One для iOS](https://redirect.appmetrica.yandex.com/serve/530772633478807329?ct=Translate.Ru_home-page)  
 [PROMT.One для Android](https://redirect.appmetrica.yandex.com/serve/386621284076766672?referrer=utm_source%3DTranslate.Ru%26utm_medium%3Dhome-page%26utm_content%3Dlink%26utm_campaign%3Dpremium)  
 [PROMT.One для Huawei](https://appgallery8.huawei.com/?utm_medium=Badge&utm_source=Trru&utm_term=getapp#/app/C101943011)  
-[Бот-переводчик в Telegram](https://t.me/TranslateRuBot)
 
 #### Предложения
 
