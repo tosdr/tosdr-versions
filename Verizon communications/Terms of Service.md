@@ -278,9 +278,13 @@ Close
 
 [Español](https://espanol.verizon.com/)
 
-New and existing customers get the best deals of the season! [Shop Now](https://www.verizon.com/deals/) | Or Online only [iPhone 16 Pro](https://www.verizon.com/smartphones/apple-iphone-16-pro/) on us with new line.  |  [Details](javascript:void(0);)
+Get the [iPhone 15](https://www.verizon.com/smartphones/apple-iphone-15/) or [iPhone 15 Plus](https://www.verizon.com/smartphones/apple-iphone-15-plus/) on us with new line on any plan. l Or, [iPhone 16 Pro](https://www.verizon.com/smartphones/apple-iphone-16-pro/) on us with new line on Unlimited Ultimate. Online only.  |  [Details](javascript:void(0);)
 
-$999.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $999.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.
+iPhone 15: $729.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate, postpaid Unlimited Plus or Unlimited Welcome plan (min. $65/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $729.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.   
+  
+iPhone 15 Plus: $829.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate, postpaid Unlimited Plus or Unlimited Welcome plan (min. $65/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $829.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.  
+  
+iPhone 16 Pro: $999.99 (128 GB only) purchase w/ new smartphone line on Unlimited Ultimate plan (min. $90/mo w/Auto Pay (+taxes/fees) for 36 mos) req'd. Less $999.99 promo credit applied over 36 mos.; promo credit ends if eligibility req’s are no longer met; 0% APR. Offer may not be combined with other offers.
 
 end of navigation menu
 
