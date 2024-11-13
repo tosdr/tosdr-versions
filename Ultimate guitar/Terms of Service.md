@@ -237,8 +237,6 @@ We reserve the right to add, delete, change or modify parts of these Terms at ou
 
 **Last updated June 15, 2021**
 
-![](//mc.yandex.ru/watch/18746557)
-
 * [About](https://ultimate-guitar.com/about/)
 * [Site rules](https://ultimate-guitar.com/article/blog/site-rules/)
 * [Terms](https://ultimate-guitar.com/about/tos.htm)
