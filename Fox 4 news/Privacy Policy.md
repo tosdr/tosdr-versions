@@ -401,23 +401,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Donald Trump’s new administration: Who has he chosen so far?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/donald-trump-picks.jpg?ve=1&tl=1)
+ [![1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111224-fw-i20-fatal-crash-kdfweme002_21_36_06_mpg_00.25.59.28.jpg?ve=1&tl=1)
 
- ![Donald Trump’s new administration: Who has he chosen so far?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/donald-trump-picks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-new-administration-selections-so-far)
+ ![1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111224-fw-i20-fatal-crash-kdfweme002_21_36_06_mpg_00.25.59.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-killed-several-injured-i-20-chain-reaction-crash-fort-worth)
 
-### [Donald Trump’s new administration: Who has he chosen so far?](https://www.fox4news.com/news/trump-new-administration-selections-so-far)
+### [1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://www.fox4news.com/news/1-killed-several-injured-i-20-chain-reaction-crash-fort-worth)
 
- [![Trump appoints Elon Musk to lead Department of Government Efficiency](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2176078700.jpg?ve=1&tl=1)
+ [![Haltom City road rage shooting: 2 arrested for 16-year-old's murder; 2 more sought](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/haltom-city-arrest.png?ve=1&tl=1)
 
- ![Trump appoints Elon Musk to lead Department of Government Efficiency](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2176078700.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
+ ![Haltom City road rage shooting: 2 arrested for 16-year-old's murder; 2 more sought](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/haltom-city-arrest.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/jasue-moreno-juan-perez-murder-arrests-raul-gonzalez-victim-road-rage-haltom-city)
 
-### [Trump appoints Elon Musk to lead Department of Government Efficiency](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
-
- [![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pete-hegseth.jpg?ve=1&tl=1)
-
- ![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pete-hegseth.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
-
-### [Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
+### [Haltom City road rage shooting: 2 arrested for 16-year-old's murder; 2 more sought](https://www.fox4news.com/news/jasue-moreno-juan-perez-murder-arrests-raul-gonzalez-victim-road-rage-haltom-city)
 
  [![Live House election results: What GOP needs for majority](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2175609361.jpg?ve=1&tl=1)
 
@@ -425,11 +419,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Live House election results: What GOP needs for majority](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
 
- [![FAA prohibits US airlines from flying to Haiti after plane hit by gunfire](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183607471.jpg?ve=1&tl=1)
+ [![California man wanted for sexually assaulting woman at Irving business](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/irving-sex-assault.png?ve=1&tl=1)
 
- ![FAA prohibits US airlines from flying to Haiti after plane hit by gunfire](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183607471.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/faa-halts-haiti-flights-gang-violence)
+ ![California man wanted for sexually assaulting woman at Irving business](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/irving-sex-assault.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/california-man-wanted-sexually-assaulting-woman-irving-business)
 
-### [FAA prohibits US airlines from flying to Haiti after plane hit by gunfire](https://www.fox4news.com/news/faa-halts-haiti-flights-gang-violence)
+### [California man wanted for sexually assaulting woman at Irving business](https://www.fox4news.com/news/california-man-wanted-sexually-assaulting-woman-irving-business)
+
+ [![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pete-hegseth.jpg?ve=1&tl=1)
+
+ ![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pete-hegseth.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
+
+### [Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
 
 ###### [News](https://www.fox4news.com/news)
 
