@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/mobiel-bellen-ongezond/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/een-stuk-over-donkere-manipulerende-krachten/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
