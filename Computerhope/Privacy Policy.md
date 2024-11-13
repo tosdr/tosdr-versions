@@ -63,9 +63,9 @@ Computer Hope visitors are encouraged to link their web page or blog to any page
 
 All files on Computer Hope are kept in their original format and are only posted on Computer Hope if users contact us regarding issues obtaining the files or are no longer available. Before any file is posted on Computer Hope, they are verified to work and scanned for any viruses. Computer Hope or the respected third-party companies of these files are not responsible for any potential issues that may arise when running these files.
 
-### Chat and forum
+### Forum
 
-By using or attempting to use the Computer Hope chat service, you agree to not do any of the below in any manner or extent.
+By using or attempting to use the Computer Hope services, you agree to not do any of the below in any manner or extent.
 
 * Commit or publish any abuse, harassment, stalking, use of profanity or violate any other visitor.
 * Commit or conduct any criminal offenses.
@@ -73,9 +73,9 @@ By using or attempting to use the Computer Hope chat service, you agree to not d
 * Advertise or offer to sell any goods or services.
 * Falsify your identity or information.
 * Post links to downloads containing spyware, Trojan horses, viruses, pornography, warez, or any other software containing malicious code or cannot be legally distributed.
-* Follow all other rules on the [computer chat](https://www.computerhope.com/chat.htm) page and [computer forum rules](https://www.computerhope.com/forum?topic=58736.0) page.
+* Follow all other rules on the [computer forum rules](https://www.computerhope.com/forum?topic=58736.0) page.
 
-A visitor's decision to use the Computer Hope chat and forum shall be entirely at the visitor's own risk and discretion. By using these services, you agree that Computer Hope cannot be held accountable for another user's actions and understand all views are not necessarily those of Computer Hope.
+A visitor's decision to use the Computer Hope forum shall be entirely at the visitor's own risk and discretion. By using these services, you agree that Computer Hope cannot be held accountable for another user's actions and understand all views are not necessarily those of Computer Hope.
 
 All forum posts are copyrighted, and any duplication is prohibited unless written approval is provided by Computer Hope and the original user of the post.
 
@@ -117,9 +117,9 @@ If an e-mail is submitted to Computer Hope, the end-user grants Computer Hope th
 
 Each visitor to our website is identified by IP and the pages visited. Computer Hope also uses Google Analytics to collect visitor information to help better understand how visitors use our site. No information regarding the visitor's e-mail address or any other personal information is recognized unless sent by the visitor in an e-mail or on the forum.
 
-### Chat and forum statement
+### Forum statement
 
-For security reasons and maintenance Computer Hope and Mibbit log all IP addresses and system information for users who participate in the Computer Hope chat and forums. Users who misbehave are warned, and users continue to abuse the service are permanently banned and may also be banned from other Computer Hope services.
+For security reasons and maintenance Computer Hope logs all IP addresses and system information for users who participate in the Computer Hope forums. Users who misbehave are warned, and users continue to abuse the service are permanently banned and may also be banned from other Computer Hope services.
 
 Users who register on the Computer Hope forums can choose whether or not their e-mails are displayed. This setting is changed in the user profile section. Computer Hope highly recommends keeping the default settings of hidden enabled.
 
