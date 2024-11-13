@@ -1,15 +1,15 @@
-Tuesday, November 12 2024
+Wednesday, November 13 2024
 
 Breaking News
 
+* [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
+* [President Joe Biden’s Schedule for Wednesday, November 13, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
+* [It’s Morning In America Again](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
+* [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
+* [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
+* [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
 * [Biden-Harris Admin Set To Slap Tax On Methane Emissions](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
 * [Chris Wallace to Leave CNN](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
-* [Speaker Johnson Is Just What The MAGA Movement Needs](https://www.conservativedailynews.com/2024/11/speaker-johnson-is-just-what-the-maga-movement-needs/)
-* [Biden’s Green Push Stumbles As Chinese Firm Ditches Texas Solar Plant](https://www.conservativedailynews.com/2024/11/bidens-green-push-stumbles-as-chinese-firm-ditches-texas-solar-plant/)
-* [Trump Picks Florida Rep. Mike Waltz As New National Security Advisor](https://www.conservativedailynews.com/2024/11/trump-picks-florida-rep-mike-waltz-as-new-national-security-advisor/)
-* [Electing Donald Trump is the Preface to a Bigger Story](https://www.conservativedailynews.com/2024/11/electing-donald-trump-is-the-preface-to-a-bigger-story/)
-* [President Joe Biden’s Schedule for Tuesday, November 12, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-tuesday-november-12-2024/)
-* [CNN’s Enten: Democrat Party Has No ‘Heir Apparent’ For Next Presidential Primary](https://www.conservativedailynews.com/2024/11/cnns-enten-democrat-party-has-no-heir-apparent-for-next-presidential-primary/)
 
 * [Sidebar](#)
 * [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
@@ -115,72 +115,75 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
+    
+    [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
+    
+    November 12, 2024
+    
 * [![Donald Trump success](https://www.conservativedailynews.com/wp-content/uploads/2017/01/Donald-Trump-2.jpg)](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
     
     [Here Comes Trump’s ‘Morning in America’ Economy](https://www.conservativedailynews.com/2024/11/here-comes-trumps-morning-in-america-economy/)
     
     November 11, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111124dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
-    
-    [Thank a Veteran](https://www.conservativedailynews.com/2024/11/thank-a-veteran/)
-    
-    November 11, 2024
-    
 
 Recent Posts
 
-* [![gas prices energy policy biden admin](https://www.conservativedailynews.com/wp-content/uploads/2022/06/mrz061622dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/elon-musk-6222396_640-220x150.jpg)](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
     
-    [Biden-Harris Admin Set To Slap Tax On Methane Emissions](https://www.conservativedailynews.com/2024/11/biden-harris-admin-set-to-slap-tax-on-methane-emissions/)
+    [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
     
-    November 12, 2024
+    November 13, 2024
     
-* [![fox-news-chris-wallace](https://www.conservativedailynews.com/wp-content/uploads/2016/10/Fox-News-Chris-Wallace.jpg)](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
+* [![2024 Election Joe Biden Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg070824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
     
-    [Chris Wallace to Leave CNN](https://www.conservativedailynews.com/2024/11/chris-wallace-to-leave-cnn/)
+    [President Joe Biden’s Schedule for Wednesday, November 13, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
     
-    November 12, 2024
+    November 13, 2024
     
-* [![Speakern Mike Johnson cat herder](https://www.conservativedailynews.com/wp-content/uploads/2023/10/image-58-220x150.png)](https://www.conservativedailynews.com/2024/11/speaker-johnson-is-just-what-the-maga-movement-needs/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Vandals-attack-constitution-220x150.jpg)](https://www.conservativedailynews.com/2024/11/national-archives-delivers-impact-statement-at-constitution-vandals-sentencing/)
     
-    [Speaker Johnson Is Just What The MAGA Movement Needs](https://www.conservativedailynews.com/2024/11/speaker-johnson-is-just-what-the-maga-movement-needs/)
-    
-    November 12, 2024
-    
-* [![Joe Biden not sure signing considering confused sad upset](https://www.conservativedailynews.com/wp-content/uploads/2021/12/Joe-Biden-not-sure-signing-considering-confused-220x150.png)](https://www.conservativedailynews.com/2024/11/bidens-green-push-stumbles-as-chinese-firm-ditches-texas-solar-plant/)
-    
-    [Biden’s Green Push Stumbles As Chinese Firm Ditches Texas Solar Plant](https://www.conservativedailynews.com/2024/11/bidens-green-push-stumbles-as-chinese-firm-ditches-texas-solar-plant/)
+    [National Archives Delivers Impact Statement At Constitution Vandal’s Sentencing](https://www.conservativedailynews.com/2024/11/national-archives-delivers-impact-statement-at-constitution-vandals-sentencing/)
     
     November 12, 2024
     
-* [![Donald Trump cabinet meeting 1-10-18](https://www.conservativedailynews.com/wp-content/uploads/2018/01/Donald-Trump-cabinet-meeting-1-10-18-e1571621810869.png)](https://www.conservativedailynews.com/2024/11/trump-picks-florida-rep-mike-waltz-as-new-national-security-advisor/)
+* [![donald-trump-thumbs-up](https://www.conservativedailynews.com/wp-content/uploads/2016/10/donald-trump-thumbs-up.jpg)](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
     
-    [Trump Picks Florida Rep. Mike Waltz As New National Security Advisor](https://www.conservativedailynews.com/2024/11/trump-picks-florida-rep-mike-waltz-as-new-national-security-advisor/)
-    
-    November 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/11/Dennis-Prager-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-democrats-2020-victory-was-a-blessing-in-disguise/)
-    
-    [The Democrats’ 2020 Victory Was a Blessing in Disguise](https://www.conservativedailynews.com/2024/11/the-democrats-2020-victory-was-a-blessing-in-disguise/)
+    [It’s Morning In America Again](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
     
     November 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111224dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/not-a-joke-2/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/08/jail-cells-prison-public-domain.jpg)](https://www.conservativedailynews.com/2024/11/american-airman-who-leaked-classified-ukraine-documents-slapped-with-15-year-sentence/)
     
-    [Not a Joke](https://www.conservativedailynews.com/2024/11/not-a-joke-2/)
+    [American Airman Who Leaked Classified Ukraine Documents Slapped With 15-Year Sentence](https://www.conservativedailynews.com/2024/11/american-airman-who-leaked-classified-ukraine-documents-slapped-with-15-year-sentence/)
     
     November 12, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Wedding-Ring-220x150.jpg)](https://www.conservativedailynews.com/2024/11/three-daughters-and-a-ring/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Chuck-Schumer-and-Nancy-Pelosi.jpg)](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
     
-    [Three Daughters and a Ring](https://www.conservativedailynews.com/2024/11/three-daughters-and-a-ring/)
+    [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
+    
+    November 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
+    
+    [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
+    
+    November 12, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/07/John-Ratcliffe.jpg)](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
+    
+    [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
     
     November 12, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [TFB Interview: Sami Hautamäki – World Champion IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-sami-hautamaki-world-champion-ipsc-rifle-world-shoot/10611834)
+* [POTD: Danish Soldiers With Gevær M/10 C8IUR + Thermals, M60E6 and C20s](https://www.thegunpage.com/potd-danish-soldiers-with-gevaer-m-10-c8iur-thermals-m60e6-and-c20s/10611835)
+* [HOT GAT or FUDD CRAP? Pistol Grip or Hope It Doesn’t Slip?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pistol-grip-or-hope-it-doesnt-slip/10611836)
 * [De Plane, De Plane: They are Shooting Passenger Jets in Haiti](https://www.thegunpage.com/de-plane-de-plane-they-are-shooting-passenger-jets-in-haiti/10611831)
 * [Ammunition Lifespan: Key Factors to Consider](https://www.thegunpage.com/ammunition-lifespan-key-factors-to-consider/10611829)
 * [Savage Introduces The Stance XR Micro 9mm](https://www.thegunpage.com/savage-introduces-the-stance-xr-micro-9mm/10611826)
@@ -188,9 +191,6 @@ Recent Posts
 * [Republicans Retain U.S. House Majority](https://www.thegunpage.com/republicans-retain-u-s-house-majority/10611825)
 * [Collegiate Rifle: TCU Defeats Alaska-Fairbanks, WVU Rises To No. 1 After Taking Down Army, John Jay](https://www.thegunpage.com/collegiate-rifle-tcu-defeats-alaska-fairbanks-wvu-rises-to-no-1-after-taking-down-army-john-jay/10611833)
 * [The Magpul FMG-9 is FINALLY HERE: The Magpul/ZEV FDP & FDC](https://www.thegunpage.com/the-magpul-fmg-9-is-finally-here-the-magpul-zev-fdp-fdc/10611822)
-* [Colorado To Tax Guns, Ammunition And Accessories](https://www.thegunpage.com/colorado-to-tax-guns-ammunition-and-accessories/10611818)
-* [Daniel Defense Limited Series: TAIGA](https://www.thegunpage.com/daniel-defense-limited-series-taiga/10611815)
-* [Western Australia Takes “Buybacks” To A New Low](https://www.thegunpage.com/western-australia-takes-buybacks-to-a-new-low/10611813)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* [Lisa](http://conservativedailynews.com/) on [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/#comment-783186)
 * KayCee on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783178)
 * Stanley Warner on [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/#comment-783161)
 * KayCee on [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/#comment-783149)
@@ -240,7 +241,6 @@ Recent Comments
 * Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
 * KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
 * Stanley Warner on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783130)
-* [Ted Thomas](http://cdn/) on [Democrat and “News” Media Comedians Struggle to Understand the Obvious](https://www.conservativedailynews.com/2024/11/democrat-and-news-media-comedians-struggle-to-understand-the-obvious/#comment-783096)
 
 [Close](#)
 
