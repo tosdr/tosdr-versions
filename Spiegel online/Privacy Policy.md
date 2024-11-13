@@ -49,7 +49,7 @@ Datenschutzerklärung So gehen wir mit Ihren Daten um
 
 welche Daten sammeln wir während Ihres Besuches bzw. über Ihre Nutzung unserer Webseiten? Welche Werbung wird Ihnen ausgespielt? Wer kann Ihre Daten sehen, wenn Sie Digital-Abonnent:in oder registrierte Nutzer:in sind? Kurz, wie gehen wir mit Daten um, die beim Nutzen unserer digitalen Angebote entstehen? Diese Fragen und viele weitere wollen wir Ihnen in dieser Datenschutzerklärung beantworten.
 
-**Stand: 10.09.2024**
+**Stand: 13.11.2024**
 
 Datenschutzrechtlich verantwortlich ist das jeweils im [Impressum](https://www.spiegel.de/impressum) genannte Unternehmen der SPIEGEL-Gruppe. Dessen Datenschutzbeauftragten erreichen Sie unter [datenschutz@spiegelgruppe.de](mailto:datenschutz@spiegelgruppe.de)    oder unter dem Kennwort Datenschutz, Ericusspitze 1, 20459 Hamburg.
 
@@ -112,13 +112,22 @@ Ihre Daten werden für die Dauer der bestehenden Registrierung gespeichert und e
 
 **b) Abschluss eines Abonnements**
 
-Für digitale Verträge wie Abonnementverträge (periodisch aktualisiertes Angebot digitaler Angebote), Zeitzugangsverträge (z.B. Wochen- bzw. Monats-, Mehrmonats- oder Jahrespass für vorhandene kostenpflichtige Inhalte) und für die Buchung der Werbefrei-lesen-Option benötigen Sie ein SPIEGEL-Konto. Über die Datenverarbeitungen in Zusammenhang mit Ihrer Registrierung hinaus (siehe Ziffer 3.a.), verarbeiten wir für den Abschluss digitaler Verträge Ihren vollständigen Namen, die Anrede, den Titel, ggf. die Information über ein bestehendes Print-Abonnement, Zahlungsdaten, Ihre Anschrift (Privat- oder Firmenadresse), sowie das Nutzungsland. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Die Angabe Ihres Geburtsdatums und / oder Ihrer Adresse ist nur dann für die Vertragserfüllung erforderlich, wenn es für das jeweilige Angebot relevant ist (z.B. beim U30-Abo / U30-Duo-Abo). Weitere Angaben wie Namensergänzung und Telefonnummer sind optional und basieren insofern auf Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO).
+Für digitale Verträge wie Abonnementverträge (periodisch aktualisiertes Angebot digitaler Angebote), Zeitzugangsverträge (z.B. Wochen- bzw. Monats-, Mehrmonats- oder Jahrespass für vorhandene kostenpflichtige Inhalte) und für die Buchung der Werbefrei-lesen-Option benötigen Sie ein SPIEGEL-Konto. Über die Datenverarbeitungen in Zusammenhang mit Ihrer Registrierung hinaus (siehe Ziffer 3.a.), verarbeiten wir für den Abschluss digitaler Verträge Ihren vollständigen Namen, die Anrede, den Titel, ggf. die Information über ein bestehendes Print-Abonnement, Zahlungsdaten, Ihre Anschrift (Privat- oder Firmenadresse), sowie das Nutzungsland (Abodaten). Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Die Bestätigung Ihres Alters, die Angabe Ihres Geburtsdatums und / oder Ihrer Adresse ist nur dann für die Vertragserfüllung erforderlich, wenn es für das jeweilige Angebot relevant ist (z.B. beim U30-Duo-Abo). Weitere Angaben wie Namensergänzung und Telefonnummer sind optional und basieren insofern auf Ihrer freiwilligen Einwilligung (Art. 6 Abs. 1 S. 1 lit. a DSGVO).
 
+Weitere Verarbeitungen bei Abschluss eine U30-Duo-Abonnements  
 Für die erforderlichenfalls gebotene Altersverifikation im Rahmen des U-30-Abos verarbeiten wir eine 7-stellige Prüfnummer Ihres Personalausweises oder Reisepasses, aus dem sich Ihr Geburtsdatum und damit der Nachweis für das Bestehen des Rabattgrundes aufgrund Ihres Alters ergibt. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Für die Altersverifikation setzen wir den Dienstleister Plenigo \[plenigo GmbH, Königstr. 4, 87435 Kempten, [www.plenigo.com](http://www.plenigo.com/) \] ein, mit dem wir zu diesem Zweck einen Auftragsverarbeitungsvertrag geschlossen haben, der gewährleistet, dass die Datenverarbeitung im Einklang mit den gesetzlichen Anforderungen erfolgt. Die Prüfnummer wird nach Überprüfung Ihres Alters direkt gelöscht. In unserem Kundenverwaltungssystem wird lediglich das Ablaufdatum des Rabattgrundes hinterlegt, um Ihr Abo mit Ihrem 30. Geburtstag ohne Rabattierung fortzuführen.
+
+Weitere Verarbeitungen bei Abschluss eine Starter-Abonnements  
+Sofern Sie unser Starter-Abo nutzen, verwenden wir über die Abodaten hinaus Teile der im Rahmen unseres Basistracking erhobenen Daten (die sog. SSO-Tracking-ID), um die Einhaltung der Abo-Voraussetzungen, insbesondere die Inanspruchnahme der Freischaltungen und die Zurverfügungstellung der in Anspruch genommenen Artikel, gewährleisten zu können. Die Rechtsgrundlage ist der zwischen Ihnen und uns bestehende Vertrag (Art. 6 Abs. 1 S. 1 lit. b DSGVO).
+
+Weitere Verarbeitungen bei Abschluss eines Probe-Abonnements  
+Bei Abschluss eines Probe-Abonnements behalten wir uns vor, die Voraussetzungen für die Inanspruchnahme des Rabattgrundes anhand Ihrer E-Mail-Adresse zu überprüfen. Zu diesem Zweck speichern wir einen pseudonymisierten Hash-Wert Ihrer E-Mail-Adresse für 12 Monate. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO.
 
 Im Rahmen der Erfüllung von digitalen Verträgen setzen wir externe Zahlungsdienstleister ein, über deren Plattformen wir und Sie Zahlungstransaktionen vornehmen können (z.B. Paypal, Kreditkarten wie Visa, Mastercard, American Express, SEPA-Lastschriftverfahren). Zu den durch die Zahlungsdienstleister verarbeiteten Daten gehören: Name, Adresse, Bankdaten, sowie Transaktionsdaten wie vertrags- und empfängerbezogene Angaben. Die Angaben sind erforderlich, um die Transaktionen durchzuführen, Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Die genannten Daten werden ausschließlich durch den jeweiligen Zahlungsdienstleister verarbeitet und bei diesem gespeichert, wir erhalten lediglich Informationen über Bestätigung oder Nichtvollzug der Zahlung. Unter Umständen werden die Daten seitens der Zahlungsdienstleister an Wirtschaftsauskunfteien übermittelt. Diese Übermittlung bezweckt die Identitäts- und Bonitätsprüfung. Hierzu verweisen wir auf die AGB und Datenschutzhinweise der jeweiligen Zahlungsdienstleister.
 
 Für die Optimierung unseres Kundenservice verwenden wir die Informationen über von Ihnen geschlossene digitale Verträge für die interne Organisation der Bearbeitung von Kundenanfragen (Leserpriorisierung). Die Leserpriorisierung erfolgt in unserem berechtigten Interesse, Kundenanliegen interessengerecht zu kategorisieren und zu bearbeiten. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. f DSGVO.
+
+Im Rahmen Ihres bestehenden digitalen Abonnementvertrages stellen wir Ihnen unter Umständen Rabattcodes für den Abschluss vergünstigter Abonnements bei anderen Verlags- und Medienhäusern, mit denen wir kooperieren, zur Verfügung. Wir verarbeiten zu diesem Zweck Ihre Kundennummer für den wiederkehrenden Abgleich der bestehenden Kundenbeziehung als Voraussetzung für die Rabatte und einmalig auch Ihre E-Mail-Adresse für die Zusendung eines individuellen Rabattcodes auf Ihre explizite Anfrage hin. Dieses Angebot ist Bestandteil unserer vertraglichen Leistungen Ihnen gegenüber, die Rechtsgrundlage für die Datenverarbeitung ist daher Art. 6 Abs. 1 S. 1 lit. b DSGVO. Für die technische Abwicklung solcher rabattierten Kombi-Abo-Angebote arbeiten wir mit dem Verein alles.plus \[alles.plus e.V., c/o DER SPIEGEL GmbH & Co. KG, Ericusspitze 1, 20457 Hamburg\] zusammen, mit dem wir einen Vertrag über die Auftragsdatenverarbeitung geschlossen haben.
 
 Wir speichern Ihre Daten stets bis zum Ende Ihres digitalen Vertrages. Eine Löschung Ihres SPIEGEL-Kontos ist nicht mit einer Kündigung Ihres digitalen Vertrages gleichzusetzen. Ggf. ist die Aufbewahrung Ihrer Daten erforderlich, um Voraussetzungen zur Begründung eines digitalen Vertrages zu überprüfen. bspw. zur Verhinderung einer wiederholten Bestellung zum Bezugsstart vergünstigter digitaler oder Prämien-Abonnements. Die Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 lit. b DSGVO. Darüber hinaus sind wir nach Art. 6 Abs. 1 S. 1 lit. c DSGVO verpflichtet, Daten aufgrund von steuer-, handelsrechtlichen oder sonstigen gesetzlichen Aufbewahrungspflichten vorzuhalten. Sofern die Daten nicht gelöscht werden, weil sie für andere vertraglich oder gesetzlich zulässige Zwecke erforderlich sind, wird ihre Verarbeitung eingeschränkt bzw. werden sie archiviert und mit angemessenen technischen und organisatorischen Maßnahmen nur den für Ihre Vorhaltung Berechtigten verfügbar gemacht.
 
@@ -334,7 +343,7 @@ Unter den folgenden Links können Sie sich über die Datenschutzhinweise der ein
 
 **2\. Eigene personalisierte redaktionelle Inhaltsempfehlungen**
 
-Wir möchten Ihnen im Rahmen der "personalisierten redaktionellen Inhaltsempfehlungen" an ausgewählten Stellen redaktionelle Inhalte auf Basis Ihres Leseverhaltens vorschlagen. Dafür verwenden wir die im Rahmen unseres Basistracking erhobenen Daten (sog. "Clickstream", ECID-ID und SSO-Tracking-ID), über die Surfverhalten und Navigation auf unserer Seite nachvollziehbar werden). Die Rechtsgrundlage ist Ihre freiwillig erklärte Einwilligung (Art. 6 Abs. 1 S. 1 lit. A DSGVO). Für die Verarbeitung der Clickstreamdaten arbeiten wir mit dem Anbieter Adobe (Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Saggart, Dublin 24, Ireland) zusammen, mit dem wir für diese Zwecke einen Vertrag über die Auftragsdatenverarbeitung gem. Art. 28 Abs. 3 DSGVO geschlossen haben. Nähere Informationen zu diesem Verwendungszweck erhalten Sie in unserem [Privacy-Center](#sp_privacy_manager).
+Wir möchten Ihnen im Rahmen der "personalisierten redaktionellen Inhaltsempfehlungen und -reviews" die Möglichkeit bieten, Ihre Nutzung unseres Angebotes analysieren zu lassen und an ausgewählten Stellen redaktionelle Inhalte auf Basis Ihres Leseverhaltens vorzuschlagen. Dafür verwenden wir die im Rahmen unseres Basistracking bereits erhobenen Daten (sog. "Clickstream", ECID-ID und SSO-Tracking-ID), über die Surfverhalten und Navigation auf unserer Seite nachvollziehbar werden). Bestandteil der Daten im "Clickstream" sind nur Daten, für die von Ihnen noch keine Datenlöschung veranlasst wurde und die uns noch zur Verfügung stehen. Die Rechtsgrundlage ist Ihre freiwillig erklärte Einwilligung (Art. 6 Abs. 1 S. 1 lit. A DSGVO). Für die Verarbeitung der Clickstreamdaten arbeiten wir mit dem Anbieter Adobe (Adobe Systems Software Ireland Limited, 4-6 Riverwalk, Citywest Business Campus, Saggart, Dublin 24, Ireland) zusammen, mit dem wir für diese Zwecke einen Vertrag über die Auftragsdatenverarbeitung gem. Art. 28 Abs. 3 DSGVO geschlossen haben. Nähere Informationen zu diesem Verwendungszweck erhalten Sie in unserem [Privacy-Center](#sp_privacy_manager).
 
 **3\. Redaktionelle Kooperationsangebote**
 
@@ -422,7 +431,7 @@ werden mit dem 3rd-Party Cookie 'i00' (ioam.de) und dem 1st-Party-Cookie 'ioam20
 
 Im Internet benötigt jedes Gerät zur Übertragung von Daten eine eindeutige Adresse, die sogenannte IP-Adresse. Die zumindest kurzzeitige Speicherung der IP-Adresse ist aufgrund der Funktionsweise des Internets technisch erforderlich.
 
-Die IP-Adressen werden vor jeglicher Verarbeitung um 1 Byte gekürzt und nur anonymisiert weiterverarbeitet. Es erfolgt keine Speicherung oder Verarbeitung der ungekürzten IP-Adressen.
+Die IP-Adressen werden im pseudonymen Verfahren ungekürzt weiterverarbeitet.
 
 • Einen zufällig erzeugten Client-Identifier:
 
@@ -660,7 +669,7 @@ Diese Maßnahme wird von uns auf Grundlage des Art. 6 Abs. 1 S. 1 lit. f) DSGVO 
 
 [Besondere Nutzungsbedingungen für Ihre Beiträge](https://www.spiegel.de/extra/besondere-nutzungsbedingungen-fuer-ihre-beitraege-a-1207779.html)
 
-Versionsnummer: 5.16
+Versionsnummer: 5.17
 
 Feedback
 
