@@ -20,6 +20,18 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
+    
+    ### [Sadiq Khan asked to support South London’s Migration Museum’s move to Tower Hill](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
+    
+    [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+    
+    ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+    
+    [![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-360x180.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+    
+    ### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+    
     [![Scott House as it looks today.
     Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-360x180.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
     
@@ -44,18 +56,6 @@
     [![New Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/New-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
     
     ### [‘Knifeman attempts bike theft’ in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
-    
-    [![Police were called to the incident on Wells Park Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-the-incident-on-Wells-Park-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-    
-    ### [Man dies and two injured after Sydenham shooting](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-    
-    [![Image provided by Billy Youth Engagement Project](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-13.10.42-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
-    
-    ### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
-    
-    [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-    
-    ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,18 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
+    
+    ### [Sadiq Khan asked to support South London’s Migration Museum’s move to Tower Hill](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
+    
+    [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+    
+    ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+    
+    [![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-360x180.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+    
+    ### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+    
     [![Scott House as it looks today.
     Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-360x180.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
     
@@ -130,18 +142,6 @@ View All Result
     [![New Kent Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/New-Kent-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
     
     ### [‘Knifeman attempts bike theft’ in Elephant and Castle](https://southwarknews.co.uk/area/elephant-and-castle/knifeman-attempts-bike-theft-in-elephant-and-castle/)
-    
-    [![Police were called to the incident on Wells Park Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-the-incident-on-Wells-Park-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-    
-    ### [Man dies and two injured after Sydenham shooting](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-    
-    [![Image provided by Billy Youth Engagement Project](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-13.10.42-360x180.png)](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
-    
-    ### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
-    
-    [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-    
-    ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -359,12 +359,6 @@ Website
 
 [6th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
-[![Next stop - La La Land (the sign in question)](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_5255-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
-### [Rotherhithe road sign points to LA, leaving locals amused and council unaware for 15 years](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
-[5th November 2024](https://southwarknews.co.uk/area/rotherhithe/rotherhithe-road-sign-points-to-la-leaving-locals-amused-and-council-unaware-for-15-years/)
-
 [![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
 
 ### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
@@ -383,7 +377,25 @@ Website
 
 [11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
+[![Neil Harris passes on instructions. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/Harris-Azeez-Stoke--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
+### [‘I’ve been very careful what to say’ – Millwall boss on Stoke draw as Potters head coach reveals referee admission](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
+[9th November 2024](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
 ### Featured Articles
+
+[![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+
+### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+
+[12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+
+[![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-120x86.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+
+### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
+
+[12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
 [![Scott House as it looks today.
 Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-120x86.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
@@ -409,18 +421,6 @@ Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-c
 ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 [11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[![Police were called to the incident on Wells Park Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-were-called-to-the-incident-on-Wells-Park-Road.-Image-Google-120x86.png)](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-
-### [Man dies and two injured after Sydenham shooting](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-
-[11th November 2024](https://southwarknews.co.uk/area/sydenham/man-dies-and-two-injured-after-sydenham-shooting/)
-
-[![Image provided by Billy Youth Engagement Project](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-13.10.42-120x86.png)](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
-
-### [Youth charity opens new Canada Water centre](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/) 
-
-[11th November 2024](https://southwarknews.co.uk/area/rotherhithe/youth-charity-opens-new-canada-water-centre/)
 
 ### USEFUL PAGES
 
