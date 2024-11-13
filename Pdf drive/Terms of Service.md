@@ -313,7 +313,7 @@ Please report any violations of the TOS to us from [here.](https://www.pdfdrive.
 * [![Personal Growth](/assets/img/cat/4.jpg,q1.pagespeed.ce.DJYM8KxsPA.jpg "Personal Growth")
     
     Personal Growth](https://www.pdfdrive.com/category/4)
-* [![Politics & Laws](/assets/img/cat/15.jpg?1 "Politics & Laws")
+* [![Politics & Laws](/assets/img/cat/15.jpg,q1.pagespeed.ce.C7piLVryvI.jpg "Politics & Laws")
     
     Politics & Laws](https://www.pdfdrive.com/category/15)
 * [![Religion](/assets/img/cat/10.jpg,q1.pagespeed.ce.w8ZghX1Xa9.jpg "Religion")
