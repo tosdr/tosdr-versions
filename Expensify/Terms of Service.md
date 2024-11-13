@@ -511,6 +511,7 @@ If you have any questions about these Terms of Service, please contact Expensify
 * [Press Kit](https://use.expensify.com/press-kit)
 * [Support](https://use.expensify.com/support)
 * [ExpensifyHelp](https://help.expensify.com/)
+* [Terms of Service](https://use.expensify.com/terms)
 * [Privacy](https://use.expensify.com/privacy)
 
 ### Learn more
