@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![28 Facts About Scottish League One ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22113%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/28-facts-about-scottish-league-one/)
+[![22 Facts About Ceramics Industry ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/22-facts-about-ceramics-industry/)
 
-Sports
+General
 
-12 Nov 2024
+13 Nov 2024
 
-[28 Facts About Scottish League One](https://facts.net/lifestyle/sports/28-facts-about-scottish-league-one/)
+[22 Facts About Ceramics Industry](https://facts.net/general/22-facts-about-ceramics-industry/)
 
-[![30 Facts About Non Functioning Pancreatic Endocrine Tumor ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-non-functioning-pancreatic-endocrine-tumor/)
+[![25 Facts About Intercellular Cholesterol Esterification Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-intercellular-cholesterol-esterification-disease/)
 
 Health Science
 
-12 Nov 2024
+13 Nov 2024
 
-[30 Facts About Non Functioning Pancreatic Endocrine Tumor](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-non-functioning-pancreatic-endocrine-tumor/)
+[25 Facts About Intercellular Cholesterol Esterification Disease](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-intercellular-cholesterol-esterification-disease/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
