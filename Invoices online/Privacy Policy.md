@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Terri Winfield
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=130214692)  
-TIGERDSL
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=137819441)  
+Imhoff Equestrian Centre
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=175745979)  
-Abandoned Vehicle and Truck Solutions
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=166110338)  
+Immediate Health (pty)ltd
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=29504573)  
-Highlands Auto Engineering
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=53214590)  
+NJR ICT Services (Pty) Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=168848278)  
-Konsortium Operations (PTY) LTD
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=54681364)  
-Vplay Letsheng Mall
-
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=72663066)  
-Lindani Protection Services & Projects
-
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=33525596)  
-Hydroworld T/A Milliqua
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=208520671)  
-Firstweb Hosting & Design
-
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=67509410)  
-RADIO TYGERBERG 104FM NPC
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=61813643)  
-VIR Electrical (PTY) LTD
-
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=10239749)  
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=47828111)  
 Electro-Heat
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=94319294)  
-Lion Software Develepment
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=209522257)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client SafeTclip](https://www.invoicesonline.co.za/scripts/image.php?bid=8368&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=44370794)  
-SafeTclip
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=44948685)  
+Little Nutty Professors
 
-![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=196207420)  
-Skinz Printing & Branding
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=6743252)  
+Entidee Enterprise PTY (ltd)
 
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=191111804d5b8d4f988c77b455a63452647edba64d40455f15d901627910187a&c=47443262)  
-Oukraal Merino's
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=101204751)  
+Henry's Home Renovations
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=5759644)  
+Calonet
+
+![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=28206994)  
+Cape Adventure Zone
+
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=140600976)  
+Super Sound Man (PTY) Ltd
+
+![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=8155382)  
+OptaServ
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=175592423)  
+PROGRAPHIX PTY LTD
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=36296852)  
+Alliance Energy
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=323d1d375e84a21b607dd4ce5b87f9caf05e2bbffacec9b056bcd0ee6d507670&c=162641636)  
+FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
