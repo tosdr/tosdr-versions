@@ -75,7 +75,7 @@ Spotify shall immediately inform the Customer if, in its opinion, an instructi
     ==============
     
 
-The Customer acknowledges and agrees that Spotify and Spotify’s Affiliates respectively may engage third-party subcontractors in connection with the provision of the Service. A current list of all subcontractor for the Service is accessible via [https://www.soundtrap.com/legal/subcontractors](https://www.google.com/url?q=https://www.soundtrap.com/legal/subcontractors&sa=D&source=editors&ust=1731472639404408&usg=AOvVaw1xFAKlBfKfES87PagnS5CM).
+The Customer acknowledges and agrees that Spotify and Spotify’s Affiliates respectively may engage third-party subcontractors in connection with the provision of the Service. A current list of all subcontractor for the Service is accessible via [https://www.soundtrap.com/legal/subcontractors](https://www.google.com/url?q=https://www.soundtrap.com/legal/subcontractors&sa=D&source=editors&ust=1731493964085395&usg=AOvVaw1Wt1N3_QPDqnpNGuwsY_tE).
 
 Spotify confirms that it has entered (or, for future appointments, will enter) into a written agreement with the subcontractor incorporating terms which are substantially similar to those set out in this Appendix.
 
@@ -154,7 +154,7 @@ Spotify may assign this Appendix, and its rights and obligations hereunder, to a
     ==========================
     
 
-Provisions regarding governing law and disputes are set forth in the Terms of Use ([https://soundtrap.com/legal/terms](https://www.google.com/url?q=https://soundtrap.com/legal/terms&sa=D&source=editors&ust=1731472639412871&usg=AOvVaw3X6w7bxuLl401wb-_6Di2Z))
+Provisions regarding governing law and disputes are set forth in the Terms of Use ([https://soundtrap.com/legal/terms](https://www.google.com/url?q=https://soundtrap.com/legal/terms&sa=D&source=editors&ust=1731493964092169&usg=AOvVaw378jjvDfYHZ8vi7XBHqZLN))
 
 * * *
 
@@ -166,11 +166,11 @@ The subject matter of this agreement concerns Spotify’s provision of the Servi
 
 2. Nature and purpose
 
-Spotify will process the Customer’s Personal Data for the purposes of providing the Service to the Customer in accordance with the [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731472639414423&usg=AOvVaw11bZBhG2j2BEAF1zcQ88qi) ([https://www.soundtrap.com/legal/terms/us](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731472639414839&usg=AOvVaw1K0cJUwjObxR4wf_2uYNVr)).
+Spotify will process the Customer’s Personal Data for the purposes of providing the Service to the Customer in accordance with the [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731493964093137&usg=AOvVaw2buz3A5qfPXuBY018BUB5r) ([https://www.soundtrap.com/legal/terms/us](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731493964093401&usg=AOvVaw0zlOqSuBJxd2hXnmHQQzhm)).
 
 3. Data categories
 
-Spotify shall process Personal Data relating to individuals provided to Spotify via the Service in accordance with the [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731472639415583&usg=AOvVaw3HpfX-9oO4FVOtqtYnVswp) ([https://www.soundtrap.com/legal/terms/us](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731472639415911&usg=AOvVaw1oHnHHCNKLckvYWGd2dnJ8)) and the [Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_world&sa=D&source=editors&ust=1731472639416185&usg=AOvVaw1tnFJcwTtOj1p3zpA3lxsY) ([https://www.soundtrap.com/legal/privacy\_us\_canada](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_us_canada&sa=D&source=editors&ust=1731472639416431&usg=AOvVaw2mat0hJSVIli2NWOifCyOy)).
+Spotify shall process Personal Data relating to individuals provided to Spotify via the Service in accordance with the [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731493964093903&usg=AOvVaw0MSAGxuI62cP8O2ZjeuWTK) ([https://www.soundtrap.com/legal/terms/us](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/us&sa=D&source=editors&ust=1731493964094125&usg=AOvVaw3ScrgtR8sZ0kAbBUWU93V2)) and the [Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_world&sa=D&source=editors&ust=1731493964094314&usg=AOvVaw33DQypoATs6pzQexYpK6Wd) ([https://www.soundtrap.com/legal/privacy\_us\_canada](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_us_canada&sa=D&source=editors&ust=1731493964094481&usg=AOvVaw15pQZdmq-ld7LQCQNuEnqs)).
 
 4. Data subjects
 
