@@ -59,109 +59,125 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
+[Steven Crowder
+
+52.2K](https://rumble.com/v5ow2rz--election-fallout-why-the-left-is-still-scratching-their-heads.html "Steven Crowder")
+
+[Bannons War Room
+
+30K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+
+[Graham Allen
+
+9.13K](https://rumble.com/v5ovctt-elonvivekappointed-to-dogepete-hegseth-is-the-new-secdefthe-elites-are-losi.html "Graham Allen")
+
 [NEWSMAX
 
-1.91K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
+5.78K](https://rumble.com/v5ovxse-the-gerry-callahan-show-live-wednesday-november-13-2024-newsmax-podcasts.html "NEWSMAX")
+
+[Badlands Media
+
+5.01K](https://rumble.com/v5osyq8-badlands-daily-wednesday-november-13-2024.html "Badlands Media")
+
+[Matt Kohrs
+
+1.35K](https://rumble.com/v5oroa5-the-mk-show-nov.-13th.html "Matt Kohrs")
+
+[barstoolsports
+
+141](https://rumble.com/v5ovdo8-kms-live-november-13-2024-ft.-ted-sellers-and-fax.html "barstoolsports")
+
+[The Kirk Minihane Show
+
+141](https://rumble.com/v5ovdo8-kms-live-november-13-2024-ft.-ted-sellers-and-fax.html "The Kirk Minihane Show")
+
+[Mike Crispi
+
+75](https://rumble.com/v5os6mz-mike-crispi-unafraid-11-13-24.html "Mike Crispi")
 
 [Major League Fishing
 
-12](https://rumble.com/v5n5v5q-live-toyota-series-championship.html "Major League Fishing")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
-
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
-
-[New York Post](https://rumble.com/c/NYPost "New York Post")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
-
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
-
-[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
-
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
-
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
-
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
-
-[Breaking Points](https://rumble.com/c/BreakingPoints "Breaking Points")
-
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[Badlands Media](https://rumble.com/c/BadlandsMedia "Badlands Media")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
-
-[Redacted News](https://rumble.com/c/Redacted "Redacted News")
-
-[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
-
-[GOP](https://rumble.com/c/GOP "GOP")
-
-[Kimberly Guilfoyle](https://rumble.com/c/KimberlyGuilfoyle "Kimberly Guilfoyle")
-
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
-
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
-
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
-
-[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
-
-[barstoolsports](https://rumble.com/user/barstoolsports "barstoolsports")
-
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
-
-[Rob Braxman Tech](https://rumble.com/c/robbraxman "Rob Braxman Tech")
-
-[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+10](https://rumble.com/v5n5v5q-live-toyota-series-championship.html "Major League Fishing")
 
 [OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
 
-[TruthStream with Joe and Scott](https://rumble.com/c/TruthStream "TruthStream with Joe and Scott")
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+[Lofi Girl](https://rumble.com/c/LofiGirl "Lofi Girl")
+
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
 
 [Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+
+[UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
+
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[The Kai 'N Speed Show](https://rumble.com/c/KaiNSpeed "The Kai 'N Speed Show")
+
+[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
+
+[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
+
+[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+
+[Athlete & Artist Show](https://rumble.com/c/AthleteArtistShow "Athlete & Artist Show")
+
+[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
+
+[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
+
+[Power Slap](https://rumble.com/c/powerslap "Power Slap")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
+
+[DanScavino45](https://rumble.com/user/DanScavino45 "DanScavino45")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
 
 [ItGirl](https://rumble.com/c/ItGirl "ItGirl")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
+[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
 
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
 
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
+
+[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
+
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
+
+[Barstool U](https://rumble.com/c/BarstoolU "Barstool U")
+
+[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
 
 ### Theme
 
