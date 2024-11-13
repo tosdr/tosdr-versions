@@ -956,16 +956,6 @@ Switch to
         * [Razer Nexus App](https://www.razer.com/mobile/razer-nexus)
         
     * [Razer Nexus App](https://www.razer.com/mobile/razer-nexus)
-    * Meta Quest
-        
-        Explore
-        -------
-        
-        * [All Meta Quest](https://www.razer.com/console-gaming/meta-quest)
-        * [Razer Adjustable Head Strap System Authorized for Meta Quest 2 and 3](https://www.razer.com/console-gaming/adjustable-head-strap-and-facial-interface-for-meta-quest-3)
-        * [Razer Facial Interface Authorized for Meta Quest 2 and 3](https://www.razer.com/console-gaming/adjustable-head-strap-and-facial-interface-for-meta-quest-3)
-        * [Razer Hammerhead HyperSpeed for Meta Quest](https://www.razer.com/console-earphones/razer-hammerhead-hyperspeed-for-meta-quest-3)
-        
     * Headphones
         
         Explore
