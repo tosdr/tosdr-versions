@@ -1,6 +1,6 @@
 5.39.5
 
-1731485922455
+1731508052740
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1731485759647
+1731508125607
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1731486321381
+1731507870122
 
 You need to enable JavaScript to run this app.
 
@@ -544,6 +544,21 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Mystery Cracker Promotion
+
+* The Mystery Cracker will be automatically added to bag when you buy any 2 selected Mystery Cracker products. The Mystery Cracker Gift contains:
+
+* Emma Hardie Moringa Balm 15ml
+* Neom Perfect Night's Sleep Face Cream 10ml
+* This Works Deep Sleep Pillow Spray 10ml
+* Slip Pure Silk Skinny Scrunchie Leopard
+
+* To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
+* The Mystery Cracker Gift will be automatically added once 2 qualifying Mystery Cracker products have been added to the bag on either the Product or Shopping Bag pages.
+* The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
+* This offer is not available to staff.
+* Offer applies while stocks last.
 
 ### Love & Roses + English National Ballet - The Nutcracker November 2024 Competition
 
@@ -2912,7 +2927,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1731486054602
+1731509487635
 
 ### Our Social Networks
 
