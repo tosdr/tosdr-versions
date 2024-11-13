@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/een-stuk-over-donkere-manipulerende-krachten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-dood-in-de-doofpot/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
