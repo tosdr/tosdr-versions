@@ -417,6 +417,12 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mike-tyson.webp)](https://www.sickchirpse.com/mike-tyson-encounters-a-man-he-robbed-as-a-teenager-in-viral-video/)
+
+### [Mike Tyson Encounters A Man He Robbed As A Teenager In Viral Video](https://www.sickchirpse.com/mike-tyson-encounters-a-man-he-robbed-as-a-teenager-in-viral-video/)
+
+[Read More »](https://www.sickchirpse.com/mike-tyson-encounters-a-man-he-robbed-as-a-teenager-in-viral-video/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/martha-stewart-drew-barrymore.webp)](https://www.sickchirpse.com/martha-stewart-pushes-drew-barrymore-away-during-touchy-interview/)
 
 ### [Martha Stewart Pushes Drew Barrymore Away During Touchy Interview](https://www.sickchirpse.com/martha-stewart-pushes-drew-barrymore-away-during-touchy-interview/)
@@ -440,12 +446,6 @@ SEND
 ### [Premier League Referee David Coote Investigated After Calling Jürgen Klopp a C\*\*\* In Leaked Video](https://www.sickchirpse.com/premier-league-referee-david-coote-investigated-after-calling-jurgen-klopp-a-c-in-leaked-video/)
 
 [Read More »](https://www.sickchirpse.com/premier-league-referee-david-coote-investigated-after-calling-jurgen-klopp-a-c-in-leaked-video/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/brazil-phone-thief-brazilian.webp)](https://www.sickchirpse.com/brazilians-are-finding-creative-ways-to-keep-their-phones-safe-from-thieves/)
-
-### [Brazilians Are Finding Creative Ways To Keep Their Phones Safe From Thieves](https://www.sickchirpse.com/brazilians-are-finding-creative-ways-to-keep-their-phones-safe-from-thieves/)
-
-[Read More »](https://www.sickchirpse.com/brazilians-are-finding-creative-ways-to-keep-their-phones-safe-from-thieves/)
 
 #### trending post
 
