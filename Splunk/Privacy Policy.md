@@ -208,6 +208,8 @@ false
         
     * [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
         
+    * [AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
+        
     
 * [Resources](#)
     
@@ -288,10 +290,6 @@ false
     * [Splunk Services
         
         Maximize your Splunk investment.](https://www.splunk.com/en_us/customer-success.html)
-        
-    * [.conf24
-        
-        Attend Splunk's largest learning event of the year.](https://conf.splunk.com/)
         
     
 * [Company](#)
@@ -569,6 +567,8 @@ Better Together
 
 [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
 
+[AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
+
 ![header-resources](/content/dam/splunk2/en_us/images/icon-library/navigation/header-resources.svg)
 
 [Resources
@@ -644,10 +644,6 @@ Create your own Splunk Apps.](https://dev.splunk.com/)
 [Splunk Services
 
 Maximize your Splunk investment.](https://www.splunk.com/en_us/customer-success.html)
-
-[.conf24
-
-Attend Splunk's largest learning event of the year.](https://conf.splunk.com/)
 
 [About Splunk
 
