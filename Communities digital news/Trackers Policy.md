@@ -26,25 +26,25 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brittany-patterson-1200x630.jpg)](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vivek-djt-elon-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/musk-ramaswamy-to-head-up-new-doge-department-reduce-federal-agencies-from-428-to-99/)
 
-[Small-town mom of four refuses to sign ‘safety plan’ after she’s arrested over 10-yr-old walking alone](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
+[Musk, Ramaswamy to head up new ‘DOGE’ department, reduce federal agencies from 428 to 99](https://americanwirenews.com/musk-ramaswamy-to-head-up-new-doge-department-reduce-federal-agencies-from-428-to-99/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumppbd1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/federal-judge-rescinds-retirement-following-trump-win-as-biden-scrambles-to-make-11th-hour-appointments/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Mitch-McConnell-1200x630.jpg)](https://americanwirenews.com/top-gop-senator-torches-mcconnells-grotesque-push-for-secret-leadership-vote/)
 
-[Federal judge rescinds retirement following Trump win as Biden scrambles to make 11th hour appointments](https://americanwirenews.com/federal-judge-rescinds-retirement-following-trump-win-as-biden-scrambles-to-make-11th-hour-appointments/)
+[Top GOP senator torches McConnell’s ‘grotesque’ push for secret leadership vote](https://americanwirenews.com/top-gop-senator-torches-mcconnells-grotesque-push-for-secret-leadership-vote/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelley-werkheiser-1200x630.jpg)](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alina-habba-1200x630.png)](https://americanwirenews.com/alina-habba-says-shed-very-seriously-consider-serving-as-trumps-press-secretary/)
 
-[CBS’s Scott Pelley reality checked by Penn restaurant owner, lifelong Dem, who voted Trump](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
+[Alina Habba says she’d ‘very seriously’ consider serving as Trump’s press secretary](https://americanwirenews.com/alina-habba-says-shed-very-seriously-consider-serving-as-trumps-press-secretary/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-faucihouse-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fauci-received-15-million-in-taxpayer-funded-security-perks-after-retirement-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hegseth-1200x630.jpg)](https://americanwirenews.com/trumps-choice-of-pete-hegseth-for-sec-of-defense-brings-more-meltdowns-from-clueless-media/)
 
-[Fauci received $15 MILLION in taxpayer-funded security perks after retirement: report](https://americanwirenews.com/fauci-received-15-million-in-taxpayer-funded-security-perks-after-retirement-report/)
+[Trump’s choice of Pete Hegseth for Sec of Defense brings MORE meltdowns from clueless media](https://americanwirenews.com/trumps-choice-of-pete-hegseth-for-sec-of-defense-brings-more-meltdowns-from-clueless-media/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/09/SGVotingMachine-1200x630.png)](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-al-sharpton-1200x630.png)](https://americanwirenews.com/al-sharptons-nonprofit-got-500k-from-kamala-harris-before-softball-interview/)
 
-[Colorado Secretary of State’s office facing probe after two affidavits claim ‘election laws were violated’](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
+[Al Sharpton’s nonprofit got $500K from Kamala Harris before softball interview](https://americanwirenews.com/al-sharptons-nonprofit-got-500k-from-kamala-harris-before-softball-interview/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-American-Flag-1200x630.jpg)](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
@@ -60,9 +60,9 @@ Search for:
 
 [MSNBC audience plummets after Trump win, primetime hardest hit](https://americanwirenews.com/msnbc-audience-plummets-after-trump-win-primetime-hardest-hit/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-washington-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-carvillejackassery-1200-x-628-1200x630.jpg)
 
-### Fired FEMA official throws senior leadership WAY under the bus: ‘You will find avoidance in the Carolinas’](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
+### Salty Carville unloads on D.C. Dems, rips their ‘identity sh\*t’ and ‘jackassery’](https://americanwirenews.com/salty-carville-unloads-on-d-c-dems-rips-their-identity-sht-and-jackassery/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +79,32 @@ Search for:
 ### [Fired FEMA supervisor claims she’s a ‘patsy,’ agency made her a ‘scapegoat’](https://americanwirenews.com/fired-fema-supervisor-claims-shes-a-patsy-agency-made-her-a-scapegoat/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunnywhoopi-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-view-divas-strongly-endorse-dems-shunning-trump-supporting-family-during-holidays/)
+
+[‘The View’ divas strongly endorse Dems shunning Trump-supporting family during holidays](https://americanwirenews.com/the-view-divas-strongly-endorse-dems-shunning-trump-supporting-family-during-holidays/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-smith-220x180.jpg)](https://americanwirenews.com/jack-smith-reportedly-plans-to-step-down-before-trump-can-fire-him/)
+
+[Jack Smith reportedly plans to step down before Trump can fire him](https://americanwirenews.com/jack-smith-reportedly-plans-to-step-down-before-trump-can-fire-him/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2174739456-1-220x180.jpg)](https://americanwirenews.com/strahan-explains-national-anthem-gaffe-episode-not-proud/)
+
+[Strahan explains national anthem gaffe episode: ‘Not proud’](https://americanwirenews.com/strahan-explains-national-anthem-gaffe-episode-not-proud/)
+
+(Photo by Sarah Stier/Getty Images)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-speakermikejohnson1-1200-x-628-220x180.jpg)](https://americanwirenews.com/some-house-republicans-set-to-protest-johnsons-leadership-just-more-stupid/)
+
+[Some House Republicans set to protest Johnson’s leadership: ‘just more stupid’](https://americanwirenews.com/some-house-republicans-set-to-protest-johnsons-leadership-just-more-stupid/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-mike-johnson-220x180.png)](https://americanwirenews.com/speaker-johnson-orders-biden-regime-to-preserve-all-records/)
+
+[Speaker Johnson orders Biden regime to preserve ALL records](https://americanwirenews.com/speaker-johnson-orders-biden-regime-to-preserve-all-records/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/06/TrumpPenceSG-1200-x-628-220x180.jpg)](https://americanwirenews.com/pence-weighs-in-on-trumps-potential-pardons-for-j6-prisoners-i-dont-think-the-president-should/)
+
+[Pence weighs in on Trump’s potential pardons for J6 prisoners: ‘I don’t think the president should…’](https://americanwirenews.com/pence-weighs-in-on-trumps-potential-pardons-for-j6-prisoners-i-dont-think-the-president-should/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2180010150-1-220x180.jpg)](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
 
@@ -155,30 +181,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-220x180.jpg)](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
 
 [Melania will reportedly skip WH meeting with Joe and Jill Biden](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-megyn-kelly-220x180.png)](https://americanwirenews.com/megyn-kelly-comes-for-liberal-feminists-over-how-they-treat-men-and-wow-is-she-on-fire/)
-
-[Megyn Kelly comes for liberal feminists over how they treat men, and WOW is she on FIRE!](https://americanwirenews.com/megyn-kelly-comes-for-liberal-feminists-over-how-they-treat-men-and-wow-is-she-on-fire/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-blinken-crier-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/state-dept-holds-therapy-cry-session-after-trump-win-report/)
-
-[State Dept. holds therapy ‘cry session’ after Trump win – report](https://americanwirenews.com/state-dept-holds-therapy-cry-session-after-trump-win-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt_kamhead-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/its-bullsht-house-dems-fall-into-bitter-squabbling-in-aftermath-of-trumps-drubbing-of-kamala/)
-
-[‘It’s bullsh\*t’ – House Dems fall into bitter squabbling in aftermath of Trump’s drubbing of Kamala](https://americanwirenews.com/its-bullsht-house-dems-fall-into-bitter-squabbling-in-aftermath-of-trumps-drubbing-of-kamala/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-beyonce-220x180.jpg)](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
-
-[Yale introducing new Beyoncé course centered on her political and cultural impact](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-capehart-220x180.jpg)](https://americanwirenews.com/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward/)
-
-[MSNBC’s Jon Capehart questions how to ‘live’ with Trump voters: ‘How do we move forward?’](https://americanwirenews.com/msnbcs-jon-capehart-questions-how-to-live-with-trump-voters-how-do-we-move-forward/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ana-navarro-220x180.png)](https://americanwirenews.com/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump/)
-
-[Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://americanwirenews.com/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
