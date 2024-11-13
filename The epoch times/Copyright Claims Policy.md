@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Oprah Winfrey Denies Claims She Took ‘Personal Fee’ From Harris Campaign](https://www.theepochtimes.com/us/oprah-winfrey-denies-claims-she-took-personal-fee-from-harris-campaign-5758541)
+* [Tracking Every Trump Cabinet Pick](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Oprah Winfrey Denies Claims She Took ‘Personal Fee’ From Harris Campaign](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Oprah Winfrey Denies Claims She Took ‘Personal Fee’ From Harris Campaign](https://img.theepochtimes.com/assets/uploads/2024/08/22/id5710583-oprah-205x123.jpg.webp)](https://www.theepochtimes.com/us/oprah-winfrey-denies-claims-she-took-personal-fee-from-harris-campaign-5758541)
-* [Here’s Who Could Be in Trump’s Cabinet](https://www.theepochtimes.com/us/heres-who-could-be-in-trumps-cabinet-5758458)
+    ![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758788-Trumps-cabinet-picks-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
+* [Trump Picks Kristi Noem to Be Homeland Security Secretary](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
     
-    NEW By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    3hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
-    [![Here’s Who Could Be in Trump’s Cabinet](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Here’s Who Could Be in Trump’s Cabinet](https://img.theepochtimes.com/assets/uploads/2021/04/14/Linda-McMahon-and-Donald-Trump-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-who-could-be-in-trumps-cabinet-5758458)
-* [FAA Bans US Airlines From Flying Into Haiti After Shots Hit Passenger Planes](https://www.theepochtimes.com/us/faa-bans-us-airlines-from-flying-into-haiti-for-30-days-after-shots-hit-passenger-planes-5758511)
+    ![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/04/11/id5627073-GettyImages-2087322067-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
+* [Trump Names Elon Musk, Vivek Ramaswamy to Lead New Efficiency Department](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
-    [![FAA Bans US Airlines From Flying Into Haiti After Shots Hit Passenger Planes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Efficiency Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FAA Bans US Airlines From Flying Into Haiti After Shots Hit Passenger Planes](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758579-1.tagreuters.com2024binary_LYNXMPEKAA0LS-FILEDIMAGE-LS-205x123.webp)](https://www.theepochtimes.com/us/faa-bans-us-airlines-from-flying-into-haiti-for-30-days-after-shots-hit-passenger-planes-5758511)
-* [US Supreme Court Rejects Jan. 6 Defendant’s Appeal Over Parading Charge](https://www.theepochtimes.com/us/us-supreme-court-rejects-jan-6-defendants-appeal-over-parading-charge-5758486)
+    ![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Efficiency Department](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758753-elon-musk-vivek-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
+* [Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://www.theepochtimes.com/us/trump-names-fox-news-host-veteran-pete-hegseth-as-defense-secretary-5758731)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![US Supreme Court Rejects Jan. 6 Defendant’s Appeal Over Parading Charge](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Supreme Court Rejects Jan. 6 Defendant’s Appeal Over Parading Charge](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758578-Jan-6-protest-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-supreme-court-rejects-jan-6-defendants-appeal-over-parading-charge-5758486)
-* [FTX Files Lawsuit Against Binance Seeking Nearly $1.8 Billion](https://www.theepochtimes.com/business/ftx-files-lawsuit-against-binance-seeking-nearly-1-8-billion-5758441)
+    ![Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758754-GettyImages-626419832KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-fox-news-host-veteran-pete-hegseth-as-defense-secretary-5758731)
+* [Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://www.theepochtimes.com/us/chuck-schumer-congratulates-trump-tells-democrats-to-learn-and-do-better-5758646)
     
-    2hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
-    [![FTX Files Lawsuit Against Binance Seeking Nearly $1.8 Billion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![FTX Files Lawsuit Against Binance Seeking Nearly $1.8 Billion](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758577-GettyImages-1244425803-LS-205x123.jpg.webp)](https://www.theepochtimes.com/business/ftx-files-lawsuit-against-binance-seeking-nearly-1-8-billion-5758441)
-* [Federal Judge Blocks Louisiana Law Requiring Ten Commandments in Public Schools](https://www.theepochtimes.com/us/federal-judge-blocks-louisiana-law-requiring-ten-commandments-in-public-schools-5758438)
+    ![Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758768-Chuck-Schumer-GettyImages-2183774736-205x123.jpg.webp)](https://www.theepochtimes.com/us/chuck-schumer-congratulates-trump-tells-democrats-to-learn-and-do-better-5758646)
+* [Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://www.theepochtimes.com/business/small-business-optimism-rises-but-owners-still-face-unprecedented-economic-hardship-nfib-5758562)
     
-    2hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Federal Judge Blocks Louisiana Law Requiring Ten Commandments in Public Schools](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Federal Judge Blocks Louisiana Law Requiring Ten Commandments in Public Schools](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758575-AP24190750681868-LS-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-judge-blocks-louisiana-law-requiring-ten-commandments-in-public-schools-5758438)
-* [Biden Meets With Israeli President Herzog at White House](https://www.theepochtimes.com/us/biden-meets-with-israeli-president-herzog-at-white-house-5758366)
+    ![Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741607-Chasteen_Small-Business-Hardware_013012-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-business-optimism-rises-but-owners-still-face-unprecedented-economic-hardship-nfib-5758562)
+* [Trump Names William McGinley to Serve as White House Counsel](https://www.theepochtimes.com/us/trump-names-william-mcginley-to-serve-as-white-house-counsel-5758658)
     
-    3hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan) and [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![Biden Meets With Israeli President Herzog at White House](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Names William McGinley to Serve as White House Counsel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Meets With Israeli President Herzog at White House](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758581-Herzog-at-the-White-House-LS-205x123.webp)](https://www.theepochtimes.com/us/biden-meets-with-israeli-president-herzog-at-white-house-5758366)
-* [Netanyahu Approved Pager Attacks Against Hezbollah, Spokesman Confirms](https://www.theepochtimes.com/world/netanyahu-approved-pager-attacks-against-hezbollah-spokesman-confirms-5757982)
+    ![Trump Names William McGinley to Serve as White House Counsel](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758695-09292024-DSC02058-white-houseKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-william-mcginley-to-serve-as-white-house-counsel-5758658)
+* [DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://www.theepochtimes.com/us/doj-sues-to-block-unitedhealths-3-3-billion-acquisition-of-amedisys-5758492)
     
-    3hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    5hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Netanyahu Approved Pager Attacks Against Hezbollah, Spokesman Confirms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Netanyahu Approved Pager Attacks Against Hezbollah, Spokesman Confirms](https://img.theepochtimes.com/assets/uploads/2024/09/18/id5726317-2024-09-18T002155Z_1_LYNXMPEK8H00B_RTROPTP_4_ISRAEL-PALESTINIANS-HEZBOLLAH-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-approved-pager-attacks-against-hezbollah-spokesman-confirms-5757982)
-* [Trump Selects Former Gov. Mike Huckabee as Ambassador to Israel](https://www.theepochtimes.com/us/trump-to-nominate-mike-huckabee-as-ambassador-to-israel-5758471)
+    ![DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689165-UnitedHealth_Justice_Department_Lawsuit_22055614377476-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-to-block-unitedhealths-3-3-billion-acquisition-of-amedisys-5758492)
+* [Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://www.theepochtimes.com/article/day-in-photos-congressional-session-typhoon-toraji-and-a-prime-ministers-apology-5758346)
     
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Trump Selects Former Gov. Mike Huckabee as Ambassador to Israel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Selects Former Gov. Mike Huckabee as Ambassador to Israel](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758509-Huckabee-and-Trump-GettyImages-2181797031-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-nominate-mike-huckabee-as-ambassador-to-israel-5758471)
-* [Trump Likely to Pick Marco Rubio as Secretary of State](https://www.theepochtimes.com/us/trump-likely-to-pick-marco-rubio-as-secretary-of-state-5757768)
+    ![Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758767-EpochImages-6641483991-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-congressional-session-typhoon-toraji-and-a-prime-ministers-apology-5758346)
+* [Trump Names John Ratcliffe as CIA Director](https://www.theepochtimes.com/us/trump-names-john-ratcliffe-as-cia-director-5758663)
     
-    4hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    5hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
-    [![Trump Likely to Pick Marco Rubio as Secretary of State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Names John Ratcliffe as CIA Director](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Likely to Pick Marco Rubio as Secretary of State](https://img.theepochtimes.com/assets/uploads/2024/07/31/id5697569-GettyImages-1412540326-SB-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-likely-to-pick-marco-rubio-as-secretary-of-state-5757768)
+    ![Trump Names John Ratcliffe as CIA Director](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758719-John-Ratcliffe-GettyImages-1211874840-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-john-ratcliffe-as-cia-director-5758663)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
