@@ -9,7 +9,7 @@
     * [Arcade (517)](https://an1.com/games/arcade/)
     * [RPG (4)](https://an1.com/games/rpg/)
     * [Shooter (6)](https://an1.com/games/shooter/)
-    * [Casual (291)](https://an1.com/games/casual/)
+    * [Casual (290)](https://an1.com/games/casual/)
     * [Strategy (279)](https://an1.com/games/strategy/)
     * [Sport (197)](https://an1.com/games/sport/)
     * [Simulations (459)](https://an1.com/games/simulations/)
@@ -19,7 +19,7 @@
     * [Quests (8)](https://an1.com/games/quests/)
     * [Adventure (261)](https://an1.com/games/adventure/)
     * [Music (30)](https://an1.com/games/music/)
-    * [Role Playing (253)](https://an1.com/games/role-playing/)
+    * [Role Playing (254)](https://an1.com/games/role-playing/)
     * [Puzzle (162)](https://an1.com/games/puzzle/)
     
 * [Programs](https://an1.com/programmy/)
