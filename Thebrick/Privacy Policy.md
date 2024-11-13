@@ -62,7 +62,7 @@ Get Directions
 [Back to Furniture](#)
 
 * Brands
-[BELDIVO](https://www.thebrick.com/pages/beldivo) [BLOK](https://www.thebrick.com/pages/scott-living-blok) [Cindy Crawford Home](https://www.thebrick.com/pages/sofa-brand-cindy) [Kort & Co.](https://www.thebrick.com/pages/kort-and-co) [Scott Living](https://www.thebrick.com/pages/scott-living) [SOFA LAB](https://www.thebrick.com/pages/sofalab)
+[BELDIVO](https://www.thebrick.com/pages/beldivo) [BLOK](https://www.thebrick.com/pages/scott-living-blok) [Cindy Crawford Home](https://www.thebrick.com/pages/cindy-crawford-home) [Kort & Co.](https://www.thebrick.com/pages/kort-and-co) [Scott Living](https://www.thebrick.com/pages/scott-living) [SOFA LAB](https://www.thebrick.com/pages/sofalab)
 
 [Back to Menu](#)
 
