@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Drop + Grell OAE1 is coming back
+[Drop + grell OAE1 Headphones
 
-All new blacked out colorway!
+New finish, same incredible fidelity.
 
-REQUEST NOW
+LISTEN IN
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-grell-oae1-headphones/story#story)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-grell-oae1-headphones/)
 
 Free Standard Shipping in the US on orders over $99
 
