@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
+*  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
     
-    [Exclusives](https://www.women.com/category/exclusives/)
+    [Politics](https://www.women.com/category/politics/)
     
-    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
     
-    [5 Perfume Mistakes You're Probably Making](https://www.women.com/1707678/perfume-mistakes/)
-    ============================================================================================
+    [6 Celebrities Who Had Abortions & Later Had Children By Choice](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+    ======================================================================================================================================================
     
-    Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
+    Abortion is a controversial topic in post Roe America, and pro choice celebrities haven't been afraid to speak out about their experiences.
     
-    By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
+    By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
     
-* *  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
+* *  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/)
+        
+        [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+        
+        ### [5 Perfume Mistakes You're Probably Making](https://www.women.com/1707678/perfume-mistakes/)
+        
+        Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
+        
+        By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
+        
+    *  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
         
         [Sex](https://www.women.com/category/sex-life/)
         
@@ -65,18 +77,6 @@
         It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
         
         By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-        
-    *  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
-        
-        [Fashion](https://www.women.com/category/fashion/)
-        
-        [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-        
-        ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
-        
-        Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
         
 
 More Stories
@@ -105,6 +105,18 @@ More Stories
     Makeup trends for winter 2024/2025 include classic holiday colors, metallics, and goth girl glam. But the natural, "no-makeup" look is also popular.
     
     By Emily Hutchinson [Read More](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+    
+*  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
+    
+    ### [Shiloh Jolie's Stunning Style Transformation](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
+    
+    Shiloh Jolie has undergone a remarkable transformation, from repurposing old garments to freely playing with gender expression.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
     
 *  [![Taylor Swift on stage](https://www.women.com/img/gallery/the-full-transformation-of-taylor-swift-from-country-singer-to-chiefs-wag/intro-1730484748.jpg)](https://www.women.com/1703649/full-transformation-taylor-swift-from-country-singer-chiefs-wag/)
     
@@ -393,18 +405,6 @@ More Stories
     Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
     
     By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
-    
-*  [![Taylor Swift short hair](https://www.women.com/img/gallery/taylor-swifts-best-short-hair-moments/intro-1729785342.jpg)](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Amanda Chatel
-    
-    ### [Taylor Swift's Best Short Hair Moments](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
-    
-    If you're a Swiftie who's thinking of cutting your hair, let Taylor Swift's hair journey serve as your inspiration.
-    
-    By Amanda Chatel [Read More](https://www.women.com/1696676/taylor-swift-best-short-hair-moments/)
     
 
 Back
