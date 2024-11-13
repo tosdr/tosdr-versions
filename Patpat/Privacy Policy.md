@@ -631,6 +631,36 @@ Personal Data is collected for the following purposes and using the following se
     * a Sale in California
     * a Sharing in California
     
+    #### Tapad (Tapad, Inc. )
+    
+    Tapad is an advertising service provided by Tapad, Inc. .
+    
+    Personal Data processed: Trackers; Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://www.tapad.com/eu-privacy-policy) – [Opt out](https://www.tapad.com/eu-privacy-policy).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
+    #### LiveRamp (LiveRamp, Inc.)
+    
+    LiveRamp is an advertising service provided by LiveRamp, Inc.
+    
+    Personal Data processed: Trackers; Usage Data.
+    
+    Place of processing: United States – [Privacy Policy](https://liveramp.uk/privacy/service-privacy-policy/) – [Opt out](https://www.liveramp.com/service-privacy-policy/).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
+    #### Yeahmobi (Easy Click Worldwide Network Technology Co., Ltd.)
+    
+    Yeahmobi is an advertising service provided by Easy Click Worldwide Network Technology Co., Ltd.
+    
+    Personal Data processed: Trackers; Usage Data.
+    
+    Place of processing: China – [Privacy Policy](https://www.zmaticoo.com/zmaticoo/privacies.html) – [Opt out](https://en.yeahmobi.com/html/privacypolicy/).
+    
+    Category of Personal Information collected according to the CCPA: internet or other electronic network activity information.
+    
 * ### Analytics
     
     The services contained in this section enable the Owner to monitor and analyze web traffic and can be used to keep track of User behavior.
@@ -1305,7 +1335,7 @@ _While such categorization of Personal Information is mainly based on California
     
     **Targeted Advertising: ℹ️:** Yes
     
-    **Third-parties:** Adyen B.V., PayPal Inc., Meta Platforms, Inc., Facebook, Inc., BidSwitch GmbH, Cloudflare Inc., Criteo SA, Pinterest, Inc., The Trade Desk, Yahoo! Inc., Branch Metrics, Inc., Microsoft Corporation, Sonobi, Inc, Lilomi, Inc., PubMatic, Inc., Google LLC, Admitad GmbH, AWIN AG, Commission Junction LLC (part of Publicis Groupe), Impact Tech, Inc., MoPub Inc., reddit inc., RTB House S.A., ShareAsale.com Inc., Webgains Ltd (ad pepper media GmbH), YANDEX, LLC, Rakuten Marketing LLC, Meta Platforms Ireland Limited, Functional Software, Inc. , AppsFlyer Ltd, Outbrain Inc., Adobe Systems Incorporated, BSmartData GmbH, intent.ly Global Ltd, Taboola Inc., Jetpack Digital LLC, X Corp., Reklame S.r.l., Demandbase Ltd., TikTok Inc., TradeTracker.com, iubenda srl, Zemanta Inc, a branch of Outbrain Inc., Nativo, Inc., PRECISO SRL
+    **Third-parties:** Adyen B.V., PayPal Inc., Meta Platforms, Inc., Facebook, Inc., BidSwitch GmbH, Cloudflare Inc., Criteo SA, Pinterest, Inc., The Trade Desk, Yahoo! Inc., Branch Metrics, Inc., Microsoft Corporation, Sonobi, Inc, Lilomi, Inc., PubMatic, Inc., Google LLC, Admitad GmbH, AWIN AG, Commission Junction LLC (part of Publicis Groupe), Impact Tech, Inc., MoPub Inc., reddit inc., RTB House S.A., ShareAsale.com Inc., Webgains Ltd (ad pepper media GmbH), YANDEX, LLC, Rakuten Marketing LLC, Meta Platforms Ireland Limited, Functional Software, Inc. , AppsFlyer Ltd, Outbrain Inc., Adobe Systems Incorporated, BSmartData GmbH, intent.ly Global Ltd, Taboola Inc., Jetpack Digital LLC, X Corp., Reklame S.r.l., Demandbase Ltd., TikTok Inc., TradeTracker.com, iubenda srl, Zemanta Inc, a branch of Outbrain Inc., Nativo, Inc., PRECISO SRL, Tapad, Inc. , LiveRamp, Inc., Easy Click Worldwide Network Technology Co., Ltd.
     
 * ### Identifiers
     
@@ -1535,7 +1565,7 @@ We respect your privacy and will handle your personal information in accordance 
 
 This authorization applies to customers based in the United States, Europe, and other regions where we operate, in compliance with relevant data protection laws such as GDPR and CCPA. You have the right to request deletion of your data or to opt-out of promotional use at any time.
 
-Latest update: March 08, 2024
+Latest update: November 13, 2024
 
 [Show the simplified Privacy Policy](https://eur.patpat.com/privacy-detail)
 
