@@ -1,5 +1,3 @@
-![](https://www.facebook.com/tr?id=166148367275777&ev=PageView&noscript=1)          
-
 [Jacobin Logo Jacobin Icon A/V Icon
 
 Jacobin
