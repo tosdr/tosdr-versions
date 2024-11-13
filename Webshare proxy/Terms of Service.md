@@ -166,38 +166,37 @@ Resources
 
 Learn
 
-manage proxy
+opportunities
 
-earn
+Developers
 
 Webshare academy
 
-[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64eca16e5cb6d979f1adff44_news.svg)
+[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/67348d4fa6b4863d5c4ec609_nav-icons.svg)
 
-Blog
+Get Started
 
-Discover news, and articles about proxies](https://www.webshare.io/blog)[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/6509899b2b7c2de84ec2228b_help_scout.svg)
+Quick start guides](https://help.webshare.io/en/collections/6097897-getting-started)[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/67348d4ff36fc19dbf211d67_nav-icons-2.svg)
 
-Help Center
+Docs
 
-Find Answers, Tips, and Support](https://help.webshare.io/en/)
+Find Answers, Tips](https://help.webshare.io/en/)
+
+[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/67348d51dbdea840800cde2d_nav-icons-1.svg)
+
+Integrations
+
+Proxy with your favourite applications.](https://help.webshare.io/en/collections/10514687-integrations)[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64eca16ec6b9b92a6f3fc9e0_Affiliate.svg)
+
+Affiliate & Referral Programs
+
+Refer customers and get rewarded](https://www.webshare.io/affiliate-program)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/6509899b8be2ef920658f035_api.svg)
 
 API Docs
 
-Explore API Documentations and Resources](https://apidocs.webshare.io/)[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64eca16e7f1a8760fb441034_system.svg)
-
-System Status
-
-Monitor Webshare system in real-time](https://status.webshare.io/)
-
-[![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/64eca16ec6b9b92a6f3fc9e0_Affiliate.svg)
-
-Affiliate & Referral Programs
-
-Refer customers and  
-get rewarded](https://www.webshare.io/affiliate-program)
+Access to restful proxy APIs.](https://apidocs.webshare.io/)
 
 Webshare academy
 
