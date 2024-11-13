@@ -88,6 +88,7 @@
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
+    * [Briefs](https://www.arkoselabs.com/resources/?category=brief)
     
     Bookmark this page
     
@@ -195,6 +196,7 @@
     * [Videos](https://www.arkoselabs.com/resources/?category=video)
     * [Reports](https://www.arkoselabs.com/resources/?category=report)
     * [eBooks](https://www.arkoselabs.com/resources/?category=ebook)
+    * [Briefs](https://www.arkoselabs.com/resources/?category=brief)
 * [Company](https://www.arkoselabs.com/company/)
     * About Arkose Labs
         * [About Us](https://www.arkoselabs.com/about-us/)
@@ -686,3 +688,7 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
+
+                                               
+
+https://www.arkoselabs.com/events/defending-enterprise-growing-business-2025-webinar?utm\_source=email&utm\_medium=marketo&utm\_campaign=datosweb3-nov-2024&mkt\_tok=MTM1LUJVWi0wMDEAAAGWwJ1ICzMme-2i0J5YV64VnOHycN0qNMu81Rct1gixU3qZ2Y5nEpts3gl-oAeLL4FnfSqF6l\_HmqqP5XTZ8aeqJTQz5SqJnZ2uy9Oj
