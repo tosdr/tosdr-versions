@@ -592,6 +592,10 @@ MENU MENU
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
     
+    November 13, 2024
+    
+    [Remarks by Assistant Secretary for Economic Policy (P.D.O.) Eric Van Nostrand on U.S. Business Investment in the Post-COVID Expansion](https://home.treasury.gov/news/press-releases/jy2711)
+    
     October 29, 2024
     
     [Virtual Remarks by Secretary of the Treasury Janet L. Yellen at the National Congress of American Indians Annual Convention and Marketplace](https://home.treasury.gov/news/press-releases/jy2702)
@@ -599,10 +603,6 @@ MENU MENU
     October 29, 2024
     
     [Remarks by Secretary of the Treasury Janet L. Yellen at the American Bankers Association Annual Convention](https://home.treasury.gov/news/press-releases/jy2694)
-    
-    October 28, 2024
-    
-    [Virtual Remarks by Secretary of the Treasury Janet L. Yellen at the Convention on Biological Diversity COP16 in Cali, Colombia](https://home.treasury.gov/news/press-releases/jy2701)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
