@@ -639,6 +639,7 @@ General Info
 * [Mobile App](https://www.greatwolf.com/mobile-app "Mobile App")
 * [Accessibility](https://www.greatwolf.com/accessibility "Accessibility")
 * [Sitemap](https://www.greatwolf.com/sitemap "Sitemap")
+* [Check-In Essentials](https://www.greatwolf.com/check-in-essentials "Check-In Essentials")
 
 Water Park & More
 
