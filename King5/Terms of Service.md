@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/8f92f9a2-74d9-44f0-8623-495c0217a511/20241026T005157/8f92f9a2-74d9-44f0-8623-495c0217a511_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8f92f9a2-74d9-44f0-8623-495c0217a511/20241026T005157/8f92f9a2-74d9-44f0-8623-495c0217a511_360x203.jpg)](https://www.king5.com/article/news/local/king-county-council-workforce-housing-motion-program/281-1476d53f-9f40-44d6-89bb-002cd82cc864)
+    *  [![](https://media.king5.com/assets/KING/images/f0577f17-c9c1-4a07-95e4-13f9bc465159/20241113T014506/f0577f17-c9c1-4a07-95e4-13f9bc465159_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0577f17-c9c1-4a07-95e4-13f9bc465159/20241113T014506/f0577f17-c9c1-4a07-95e4-13f9bc465159_360x203.jpg)](https://www.king5.com/article/news/local/king-county-prosecutors-share-tips-avoid-scams/281-1cdef9a8-9f48-45ae-a9ff-51d796fceaa6)
         
-        #### [King County Council to vote on motion funding $1 billion in affordable housing units](https://www.king5.com/article/news/local/king-county-council-workforce-housing-motion-program/281-1476d53f-9f40-44d6-89bb-002cd82cc864)
+        #### [King County prosecutors share tips to avoid scams](https://www.king5.com/article/news/local/king-county-prosecutors-share-tips-avoid-scams/281-1cdef9a8-9f48-45ae-a9ff-51d796fceaa6)
         
-    *  [![](https://media.king5.com/assets/KING/images/cb615b07-39cf-429d-901c-2d58408a3b12/20241112T131424/cb615b07-39cf-429d-901c-2d58408a3b12_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cb615b07-39cf-429d-901c-2d58408a3b12/20241112T131424/cb615b07-39cf-429d-901c-2d58408a3b12_360x203.jpg)](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
+    *  [![](https://media.king5.com/assets/KING/images/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f/20241113T011610/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f/20241113T011610/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f_360x203.jpg)](https://www.king5.com/article/news/crime/ice-axe-violently-kill-father-seattle/281-cd2da8b7-c0e8-4043-9950-661c4d4ce5b2)
         
-        #### [Central Tacoma residents advised to watch for discolored water after water main break](https://www.king5.com/article/news/local/tacoma/water-main-break-central-tacoma-discolored-water/281-686e9b83-e30b-4432-8d3b-fd5af069cf44)
+        #### [Ice ax used by woman to violently kill father in south Seattle home, charges say](https://www.king5.com/article/news/crime/ice-axe-violently-kill-father-seattle/281-cd2da8b7-c0e8-4043-9950-661c4d4ce5b2)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KGW/images/cc3c9ec5-7d30-4217-a435-59fec28491e3/20241112T174522/cc3c9ec5-7d30-4217-a435-59fec28491e3_16x9.jpg) ![](https://media.king5.com/assets/KGW/images/cc3c9ec5-7d30-4217-a435-59fec28491e3/20241112T174522/cc3c9ec5-7d30-4217-a435-59fec28491e3_360x203.jpg)](https://www.king5.com/article/weather/tornado-rockaway-beach-oregon-coast-national-weather-service/283-92caa4e7-62eb-49fc-abd5-e87b4e0e7b4b)
+    *  [![](https://media.king5.com/assets/KING/images/d233a33e-a58b-41e7-bf2d-49c8d35e97ad/20241113T012630/d233a33e-a58b-41e7-bf2d-49c8d35e97ad_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d233a33e-a58b-41e7-bf2d-49c8d35e97ad/20241113T012630/d233a33e-a58b-41e7-bf2d-49c8d35e97ad_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-        #### [National Weather Service investigating possible tornado on Oregon Coast Monday night](https://www.king5.com/article/weather/tornado-rockaway-beach-oregon-coast-national-weather-service/283-92caa4e7-62eb-49fc-abd5-e87b4e0e7b4b)
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     *  [![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe8c3bb3-0493-4300-bf66-a76248246bc1/fe8c3bb3-0493-4300-bf66-a76248246bc1_360x203.jpg)](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
-        #### [Strong winds possible in much of western Washington lowlands Tuesday and Wednesday](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
+        #### [High Wind Warning issued for coast, areas north of Snohomish County](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-54°
+52°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
