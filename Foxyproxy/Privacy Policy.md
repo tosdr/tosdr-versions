@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Its a great service and I will definitely use FoxyProxy when I need it again.
+I would like to thank you again for the very good service.
 
-Lauren Clark
+Peter Herbert
