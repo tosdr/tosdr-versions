@@ -186,25 +186,25 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [Redacted – Bias and Credibility](https://mediabiasfactcheck.com/redacted-bias/ "View Redacted – Bias and Credibility") - November 12, 2024
+    
+* [Big Country 99.5 – Tulsa – Bias and Credibility](https://mediabiasfactcheck.com/big-country-99-5-tulsa-bias/ "View Big Country 99.5 – Tulsa – Bias and Credibility") - November 12, 2024
+    
+* [France24 – Bias and Credibility](https://mediabiasfactcheck.com/france24/ "View France24 – Bias and Credibility") - November 12, 2024
+    
+* [Bicester Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/bicester-advertiser-bias/ "View Bicester Advertiser – Bias and Credibility") - November 12, 2024
+    
+* [BestLife – Bias and Credibility](https://mediabiasfactcheck.com/bestlife/ "View BestLife – Bias and Credibility") - November 12, 2024
+    
+* [Best News Here – Bias and Credibility](https://mediabiasfactcheck.com/best-news-here/ "View Best News Here – Bias and Credibility") - November 12, 2024
+    
+* [Berliner Zeitung – Bias and Credibility](https://mediabiasfactcheck.com/berliner-zeitung/ "View Berliner Zeitung – Bias and Credibility") - November 12, 2024
+    
 * [ScienceDirect – Bias and Credibility](https://mediabiasfactcheck.com/sciencedirect/ "View ScienceDirect – Bias and Credibility") - November 12, 2024
     
 * [RT News (RT.Com) – Bias and Credibility](https://mediabiasfactcheck.com/rt-news/ "View RT News (RT.Com) – Bias and Credibility") - November 12, 2024
     
 * [Benton Times – Bias and Credibility](https://mediabiasfactcheck.com/benton-times/ "View Benton Times – Bias and Credibility") - November 12, 2024
-    
-* [Mint Press News – Bias and Credibility](https://mediabiasfactcheck.com/mint-press-news/ "View Mint Press News – Bias and Credibility") - November 12, 2024
-    
-* [Bemidji Pioneer – Bias and Credibility](https://mediabiasfactcheck.com/bemidji-pioneer-bias/ "View Bemidji Pioneer – Bias and Credibility") - November 12, 2024
-    
-* [Bedford Times-Mail – Bias and Credibility](https://mediabiasfactcheck.com/bedford-times-mail-bias/ "View Bedford Times-Mail – Bias and Credibility") - November 12, 2024
-    
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 12, 2024
-    
-* [America Max News – Bias and Credibility](https://mediabiasfactcheck.com/america-max-news/ "View America Max News – Bias and Credibility") - November 12, 2024
-    
-* [Investopedia – Bias and Credibility](https://mediabiasfactcheck.com/investopedia/ "View Investopedia – Bias and Credibility") - November 12, 2024
-    
-* [Psychology Today – Bias and Credibility](https://mediabiasfactcheck.com/psychology-today/ "View Psychology Today – Bias and Credibility") - November 12, 2024
     
 
 #### Today’s Top Page Views
@@ -214,11 +214,11 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
