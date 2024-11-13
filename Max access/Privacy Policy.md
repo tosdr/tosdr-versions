@@ -4,7 +4,6 @@
 * [Features](https://maxaccess.io/features/)
 * [Pricing](https://maxaccess.io/pricing/)
 * [Plus](https://maxaccess.io/plus/)
-* [Demo](https://maxaccess.io/demo/)
 
 * [Home](https://maxaccess.io/)
 * [Contact](https://maxaccess.io/contact/)
@@ -128,7 +127,6 @@ If you need to contact us, you can submit a support ticket at \[Client Site/supp
 We strive to provide excellent products, along with equally excellent customer service. If you have any questions about this Privacy Policy or our practices, please feel free to contact us using one of the methods listed above.
 
 * [Sign Up for Free](https://maxaccess.io/free/)
-* [Demo](https://maxaccess.io/demo/)
 * [Features](https://maxaccess.io/features/)
 * [Pricing](https://maxaccess.io/pricing/)
 * [Plus](https://maxaccess.io/plus/)
