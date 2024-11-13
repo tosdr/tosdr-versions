@@ -394,7 +394,7 @@ Featured travel offers
     
     Black Friday Sale: up to 70% off selected deals
     
-    From £1,199pp £1,719pp  
+    From £1,249pp £1,789pp  
     
     [View Holiday\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals&utm_medium=search)
     
@@ -541,44 +541,48 @@ Where to travel abroad by month...
 New in travel
 -------------
 
-[![9 awe-inspiring travel destinations best explored by small ships](https://media.restless.co.uk/uploads/2024/09/awe-inspiring-travel-destinations-best-explored-by-small-ships-768x418.jpg)](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+[![7 locations that offer great value luxury](https://media.restless.co.uk/uploads/2024/09/locations-that-offer-great-value-luxury-768x482.jpg)](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
-### [9 awe-inspiring travel destinations best explored by small ships](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+### [7 locations that offer great value luxury](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
-[Read More »](https://restless.co.uk/travel/awe-inspiring-travel-destinations-best-explored-by-small-ships/)
+[Read More »](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
-[![8 hidden gem holiday destinations around the world](https://media.restless.co.uk/uploads/2023/08/hidden-gem-holiday-destinations-around-the-world-768x525.jpg)](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+[![10 unique holiday destinations](https://media.restless.co.uk/uploads/2022/12/unique-holiday-destinations-768x512.jpg)](https://restless.co.uk/travel/unique-holiday-destinations/)
 
-### [8 hidden gem holiday destinations around the world](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+### [10 unique holiday destinations](https://restless.co.uk/travel/unique-holiday-destinations/)
 
-[Read More »](https://restless.co.uk/travel/hidden-gem-holiday-destinations-around-the-world/)
+[Read More »](https://restless.co.uk/travel/unique-holiday-destinations/)
 
-[![Group tours of the UK – 10 lesser-known places to visit in 2025](https://media.restless.co.uk/uploads/2024/11/group-tours-of-the-uk-10-lesser-known-places-to-visit-in-2025-768x508.jpg)](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+[![10 sun-soaked cruise destinations for 2024-2025](https://media.restless.co.uk/uploads/2024/05/best-cruise-destinations-for-2024-2025-768x512.jpg)](https://restless.co.uk/travel/sun-soaked-cruise-destinations/)
 
-### [Group tours of the UK – 10 lesser-known places to visit in 2025](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+### [10 sun-soaked cruise destinations for 2025](https://restless.co.uk/travel/sun-soaked-cruise-destinations/) 
 
-[Read More »](https://restless.co.uk/travel/group-tours-of-the-uk-lesser-known-places-to-visit-in-2025/)
+[Read More »](https://restless.co.uk/travel/sun-soaked-cruise-destinations/)
 
-[![8 fascinating tours where you can really get to know a country](https://media.restless.co.uk/uploads/2024/10/fascinating-tours-where-you-can-really-get-to-know-a-country-768x349.jpg)](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+[![Escorted Canadian tours – 5 incredible experiences for 2023](https://media.restless.co.uk/uploads/2023/01/escorted-canadian-tours-incredible-experiences-for-2023-1-768x512.jpg)](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
 
-### [8 fascinating tours where you can really get to know a country](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/) 
+### [Escorted Canadian tours – 5 incredible experiences for 2025](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
 
-[Read More »](https://restless.co.uk/travel/fascinating-tours-where-you-can-really-get-to-know-a-country/)
+[Read More »](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
 
-[![7 spectacular things to do on a Northern Lights cruise](https://media.restless.co.uk/uploads/2024/10/spectacular-things-to-do-on-a-northern-lights-cruise-768x512.jpg)](https://restless.co.uk/travel/spectacular-things-to-do-on-a-northern-lights-cruise/)
+[![active holidays in Europe, America, and Canada](https://media.restless.co.uk/uploads/2022/11/active-holidays-in-europe-america-and-canada-768x512.jpeg)](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
 
-### [7 spectacular things to do on a Northern Lights cruise](https://restless.co.uk/travel/spectacular-things-to-do-on-a-northern-lights-cruise/)
+### [8 active holidays in Europe, America, and Canada for 2025](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
 
-[Read More »](https://restless.co.uk/travel/spectacular-things-to-do-on-a-northern-lights-cruise/)
+[Read More »](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
 
-[![12 of the best winter sun cruise destinations](https://media.restless.co.uk/uploads/2024/11/the-best-winter-sun-cruise-destinations-768x512.jpg)](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
+### [Escorted European tours – 9 enchanting adventures for 2025](https://restless.co.uk/travel/escorted-european-tours-enchanting-adventures/)
 
-### [12 of the best winter sun cruise destinations](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/) 
-
-[Read More »](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
+[Read More »](https://restless.co.uk/travel/escorted-european-tours-enchanting-adventures/)
 
 Popular travel guides
 ---------------------
+
+[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
+
+[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [![11 travel destinations where you can avoid crowds](https://media.restless.co.uk/uploads/2023/01/travel-destinations-where-you-can-avoid-crowds-768x512.jpg)](https://restless.co.uk/travel/travel-destinations-where-you-can-avoid-crowds/)
 
@@ -597,12 +601,6 @@ Popular travel guides
 ### [9 countries you can get to in two hours or under](https://restless.co.uk/travel/countries-you-can-get-to-in-two-hours-or-under/)
 
 [Read More »](https://restless.co.uk/travel/countries-you-can-get-to-in-two-hours-or-under/)
-
-[![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-### [7 of the cheapest Caribbean islands to visit on a budget](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
-
-[Read More »](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
 [![](https://media.restless.co.uk/uploads/2021/04/28_of_the_best_historical_sites_to_visit_in_the_uk_hero-768x512.jpg)](https://restless.co.uk/travel/the-best-historical-sites-to-visit-in-the-uk/)
 
