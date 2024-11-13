@@ -266,13 +266,6 @@ Most Popular
 [Throwback Tuesday: Out and About with the County Post (2011)](https://www.derrynow.com/story-telling/pictures---videos/1652963/throwback-tuesday-out-and-about-with-the-county-post-2011.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Tuesday, November 12, 2024](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final")](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -336,6 +329,13 @@ Emma pictured with her son Joedin during their family holiday to Disney World.
 
 [Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park")](https://www.derrynow.com/news/national-news/1654147/watch-he-hasn-t-lost-it-paul-mescal-returns-to-his-gaa-roots-to-tog-out-at-croke-park.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[WATCH: 'He hasn't lost it' - Paul Mescal returns to his GAA roots to tog out at Croke Park](https://www.derrynow.com/news/national-news/1654147/watch-he-hasn-t-lost-it-paul-mescal-returns-to-his-gaa-roots-to-tog-out-at-croke-park.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Wednesday, November 13, 2024](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Dessie McAleese retires from McKay Family Butchers ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dessie McAleese retires from McKay Family Butchers ")](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
 
 Dessie McAleese retires from McKay Family Butchers
@@ -526,7 +533,7 @@ Dessie McAleese retires from McKay Family Butchers
 [Long serving butcher Dessie hangs up his apron](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New Foyle Hospice shop to open in Ballykelly next week](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New Foyle Hospice shop to open in Ballykelly next week")](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
+[![New Foyle Hospice shop to open in Ballykelly next week](https://www.derrynow.com/resizer/165/93/true/2024_11_12/Screenshot_%2812%29_%281%29-1731425721500_1731425775.png--.png?1731425775175 "New Foyle Hospice shop to open in Ballykelly next week")](https://www.derrynow.com/news/home/1653963/new-foyle-hospice-shop-to-open-in-ballykelly-next-week.html)
 
 Foyle Hospice volunteer Teresa pictured in one of the charity's shops.
 
@@ -559,15 +566,6 @@ Aaron McGrath and Paul Donnelly proudly accept the Medium Independent Dealer awa
 
 [Derry's iGen Autos wins big at Northern Ireland Motor Industry Awards](https://www.derrynow.com/news/home/1653867/magherafelt-s-igen-autos-wins-big-at-northern-ireland-motor-industry-awards.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![John Deery (centre) from Eglinton survived a cardiac arrest at this year’s Belfast Marathon thanks to a life-saving defibrillator and CPR performed by Peter O’Hare (right holding the defib)](https://www.derrynow.com/resizer/165/93/true/2024_11_12/Fearghal%2C_John%2C_Peter%2C_The_Circuit_BHF_pic_1-1731419067408.JPG--.JPG?1731419068154 "John Deery (centre) from Eglinton survived a cardiac arrest at this year’s Belfast Marathon thanks to a life-saving defibrillator and CPR performed by Peter O’Hare (right holding the defib)")](https://www.derrynow.com/news/county-derry-post/1653812/belfast-marathon-man-who-had-a-cardiac-arrest-tells-his-survival-story-thanks-to-lifesaving-defibrillator.html)
-
-John Deery (centre) from Eglinton survived a cardiac arrest at this year’s Belfast Marathon thanks to a life-saving defibrillator and CPR performed by Peter O’Hare (right holding the defib)
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Belfast Marathon man who had a cardiac arrest tells his survival story thanks to lifesaving defibrillator](https://www.derrynow.com/news/county-derry-post/1653812/belfast-marathon-man-who-had-a-cardiac-arrest-tells-his-survival-story-thanks-to-lifesaving-defibrillator.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
