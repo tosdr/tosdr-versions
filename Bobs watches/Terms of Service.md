@@ -1,6 +1,10 @@
 100% Certified Authentic
 
-[](https://www.bobswatches.com/usa)[](https://www.bobswatches.com/cart)
+[](https://www.bobswatches.com/usa)
+
+Contact Us
+
+[](https://www.bobswatches.com/cart)
 
 [Bob's Watches Bob's Watches](https://www.bobswatches.com/)
 
