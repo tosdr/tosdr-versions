@@ -20,6 +20,15 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-360x180.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+    
+    ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+    
+    [![The last remaining gasholder in Rotherhithe will be dismantled. 
+    Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
+    
+    ### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
+    
     [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
     
     ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
@@ -48,15 +57,6 @@
     [![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-360x180.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
     
     ### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
-    
-    [![Scott House as it looks today.
-    Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-360x180.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-    
-    ### [31-storey student tower approved in Deptford](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-    
-    [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-    
-    ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +107,15 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-360x180.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+    
+    ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+    
+    [![The last remaining gasholder in Rotherhithe will be dismantled. 
+    Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
+    
+    ### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
+    
     [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
     
     ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
@@ -135,15 +144,6 @@ View All Result
     [![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-360x180.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
     
     ### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
-    
-    [![Scott House as it looks today.
-    Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-360x180.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-    
-    ### [31-storey student tower approved in Deptford](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-    
-    [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-    
-    ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -247,6 +247,19 @@ Terms of Use
 
 ### Featured Articles
 
+[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+[13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+[![The last remaining gasholder in Rotherhithe will be dismantled. 
+Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
+
+### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
+
+[13th November 2024](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
+
 [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-120x86.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
 
 ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
@@ -270,19 +283,6 @@ Terms of Use
 ### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
 [12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
-
-[![Scott House as it looks today.
-Image from Lewisham Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/Scott-House-as-it-looks-today-120x86.jpg)](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-
-### [31-storey student tower approved in Deptford](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-
-[12th November 2024](https://southwarknews.co.uk/area/deptford/31-storey-student-tower-approved-in-deptford/)
-
-[![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-
-### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
-
-[12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 ### USEFUL PAGES
 
