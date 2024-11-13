@@ -24,13 +24,13 @@ Menu
 * [User Guidelines](https://anchor.fm/us/legal/user-guidelines/)
 * [Paid Subscription Terms](https://anchor.fm/us/legal/paid-subscription-terms/)
 
-[](#spotify-for-podcasters-terms-and-conditions-of-use)**Spotify for Podcasters Terms and Conditions of Use**
-=============================================================================================================
+[](#spotify-for-creators-terms-and-conditions-of-use)**Spotify for Creators Terms and Conditions of Use**
+=========================================================================================================
 
 [](#1-introduction)1\. Introduction
 -----------------------------------
 
-Please read these Terms and Conditions of Use (these "**Terms**") carefully as they govern your access to or use of the Spotify for Podcasters service (the "**Service**") and any material that is made available through the Service (the "**Content**").
+Please read these Terms and Conditions of Use (these "**Terms**") carefully as they govern your access to or use of the Spotify for Creators service (the "**Service**") and any material that is made available through the Service (the "**Content**").
 
 Use of the Service may be subject to additional terms and conditions presented by Spotify, including without limitation Opt-In Terms (defined in Section 2 below), which are hereby incorporated by this reference into these Terms. Please refer to Section 8 (About These Terms) below for information about those additional terms and how we may change these Terms or the additional terms incorporated by reference.
 
@@ -46,16 +46,16 @@ These Terms are between you and (a) if you are a resident of, or entity organize
 
 In order to use the Service and access any Content, you need to (1) be 13 years of age (or the equivalent minimum age in your home country) or older, (2) have parent or guardian consent if you are a minor in your home country; (3) have the power to enter a binding contract with us and not be barred from doing so under any applicable laws, and (4) reside in a country where the Service is available. You also promise that any registration information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times If you are a minor in your home country, your parent or guardian will need to enter into these Terms on your behalf. You can find additional information regarding minimum age requirements in the registration process. If you do not meet the minimum age requirements then you should not register as a user.
 
-[](#2-spotify-for-podcasters-service)2\. Spotify for Podcasters Service
------------------------------------------------------------------------
+[](#2-spotify-for-creators-service)2\. Spotify for Creators Service
+-------------------------------------------------------------------
 
 ### [](#service-limitations-and-modifications)Service Limitations and Modifications
 
-We provide the Spotify for Podcasters Service free-of-charge. We use reasonable care and skill to keep the Service operational. However, our service offerings and their availability may change from time to time and subject to applicable laws, without liability to you; for example:
+We provide the Spotify for Creators Service free-of-charge. We use reasonable care and skill to keep the Service operational. However, our service offerings and their availability may change from time to time and subject to applicable laws, without liability to you; for example:
 
 * The Service may experience temporary interruptions due to technical difficulties, maintenance or testing, or updates, including those required to reflect changes in relevant laws and regulatory requirements.
 * We aim to evolve and improve our Service constantly, and we may modify, suspend, or stop (permanently or temporarily) providing all of part of the Service.
-* The Spotify for Podcasters Service offering is constantly evolving and adapting to the needs of the Spotify community. Spotify has no obligation to provide any specific content through the Service, and Spotify or the applicable owners may remove Content without notice.
+* The Spotify for Creators Service offering is constantly evolving and adapting to the needs of the Spotify community. Spotify has no obligation to provide any specific content through the Service, and Spotify or the applicable owners may remove Content without notice.
 
 Your right to terminate these Terms if you no longer want to use the Service is set forth in Section 7 below.
 
@@ -67,7 +67,7 @@ The Service may be integrated with, or may otherwise interact with, third-party 
 
 ### [](#data-insights-mistakes)Data Insights; Mistakes
 
-You acknowledge that Spotify for Podcasters is a free service that we are providing to you for use at our discretion. The Service may provide you with the ability to view usage data of your podcast and demographic data on your fans (the "**Spotify Insights Data**"). While we work hard to ensure the accuracy of the Spotify Insights Data, we do not guarantee that the Service or the data we collect from the Service will be available error-free or that mistakes, including mistakes in the data insights that we provide to you, will not happen from time to time. Where there is a glitch or mistake in the Service, we will take all reasonable efforts to address or correct these mistakes. You agree that you will indemnify and hold us harmless against any damage, liability, or costs that you incur as a result of a mistake, error, or glitch in this free service or arising from your use of the Spotify Insights Data. All Spotify Insights Data is provided to you "AS-IS." You use all such data provided by us at your sole risk and discretion.
+You acknowledge that Spotify for Creators is a free service that we are providing to you for use at our discretion. The Service may provide you with the ability to view usage data of your podcast and demographic data on your fans (the "**Spotify Insights Data**"). While we work hard to ensure the accuracy of the Spotify Insights Data, we do not guarantee that the Service or the data we collect from the Service will be available error-free or that mistakes, including mistakes in the data insights that we provide to you, will not happen from time to time. Where there is a glitch or mistake in the Service, we will take all reasonable efforts to address or correct these mistakes. You agree that you will indemnify and hold us harmless against any damage, liability, or costs that you incur as a result of a mistake, error, or glitch in this free service or arising from your use of the Spotify Insights Data. All Spotify Insights Data is provided to you "AS-IS." You use all such data provided by us at your sole risk and discretion.
 
 Although Spotify takes reasonable precautions to preserve and protect the Content stored in the database used by Spotify to provide the Service, you shall not rely on the Service as your only storage facility, and you should preserve backup copies of your User Content (as defined below). Spotify is not liable for damage to, deletion of, or failure to store any Content.
 
@@ -95,16 +95,16 @@ Spotify reserves the right to refund subscription fees paid by Subscribers, and/
 
 ### [](#opt-in-programs-beta-features)Opt-in Programs; Beta Features
 
-In addition to Spotify for Podcasters' existing features, we may from time-to-time add new features with opportunities for you to participate in new Spotify for Podcasters programs (each, a "**Program**"), including without limitation, Programs to access additional data insights related to their content or to participate in and manage marketing, promotional, merchandising, programming and other campaigns for their content through Spotify for Podcasters. Opportunities to participate in Programs will be presented to you or your Delegates on an opt-in basis through Spotify for Podcasters, along with the corresponding terms and conditions for the particular Program (each, "**Opt-In Terms**").
+In addition to Spotify for Creators' existing features, we may from time-to-time add new features with opportunities for you to participate in new Spotify for Creators programs (each, a "**Program**"), including without limitation, Programs to access additional data insights related to their content or to participate in and manage marketing, promotional, merchandising, programming and other campaigns for their content through Spotify for Creators. Opportunities to participate in Programs will be presented to you or your Delegates on an opt-in basis through Spotify for Creators, along with the corresponding terms and conditions for the particular Program (each, "**Opt-In Terms**").
 
-From time to time we may offer beta features through the Spotify for Podcasters Service ("**Beta Features**"). We use Beta Features to experiment with and test new feature ideas. Accordingly, you may find that Beta Features appear one day, undergo periodic changes, or even disappear completely. Without limiting anything in Section 2 above, you acknowledge that, as far as permitted by applicable law, we will not be liable to you or your Subscribing Entity for any losses related to the unavailability of any Beta Features.
+From time to time we may offer beta features through the Spotify for Creators Service ("**Beta Features**"). We use Beta Features to experiment with and test new feature ideas. Accordingly, you may find that Beta Features appear one day, undergo periodic changes, or even disappear completely. Without limiting anything in Section 2 above, you acknowledge that, as far as permitted by applicable law, we will not be liable to you or your Subscribing Entity for any losses related to the unavailability of any Beta Features.
 
-[](#3-your-use-of-the-spotify-for-podcasters-service)3\. Your Use of the Spotify for Podcasters Service
--------------------------------------------------------------------------------------------------------
+[](#3-your-use-of-the-spotify-for-creators-service)3\. Your Use of the Spotify for Creators Service
+---------------------------------------------------------------------------------------------------
 
 ### [](#your-account)Your Account
 
-You may need to create a Spotify for Podcasters and/or Spotify account to use all or part of the Service. Your username and password are for your personal use only and should be kept confidential.
+You may need to create a Spotify for Creators and/or Spotify account to use all or part of the Service. Your username and password are for your personal use only and should be kept confidential.
 
 You understand that you are responsible for all use (including any unauthorized use) of your username and password. If your username or password is lost or stolen, or if you believe there has been unauthorized access to your Account by third parties, please notify our Customer Service team immediately and change your password as soon as possible.
 
@@ -132,7 +132,7 @@ We've established guidelines for using the Service, to make sure the Service sta
 
 If you are using the Service or opening an account on the Service on behalf of a company, entity or organization (each a "**Subscribing Entit**y"), then you represent and warrant that: (a) you are an authorized representative of that Subscribing Entity with the authority to bind the Subscribing Entity to these Terms, regardless of whether you remain an authorized representative of that Subscribing Entity, (b) the Subscribing Entity agrees to be bound by these Terms, and (c) you agree to be bound by these Terms on behalf of such Subscribing Entity.
 
-You may delegate your authority to use and access Spotify for Podcasters to additional users within your Subscribing Entity (each, a "**Delegate**") and in the event that you and/or any of your Delegates access the Service, you acknowledge and agree that these Terms shall govern such use of the Service. You represent, warrant and covenant to us that each of your Delegates is authorized to use the Service, and sub-delegate their authority to additional users, for and on behalf of the Subscribing Entity. If you delegate such authority to any one or more Delegates, you expressly agree on behalf of the Subscribing Entity that (x) all such Delegates will comply with these Terms, (y) the Subscribing Entity shall be fully liable for your and each Delegate's violation of these Terms, and (z) the Subscribing Entity will be responsible for the acts or omissions of your Delegates for purposes of these Terms.
+You may delegate your authority to use and access Spotify for Creators to additional users within your Subscribing Entity (each, a "**Delegate**") and in the event that you and/or any of your Delegates access the Service, you acknowledge and agree that these Terms shall govern such use of the Service. You represent, warrant and covenant to us that each of your Delegates is authorized to use the Service, and sub-delegate their authority to additional users, for and on behalf of the Subscribing Entity. If you delegate such authority to any one or more Delegates, you expressly agree on behalf of the Subscribing Entity that (x) all such Delegates will comply with these Terms, (y) the Subscribing Entity shall be fully liable for your and each Delegate's violation of these Terms, and (z) the Subscribing Entity will be responsible for the acts or omissions of your Delegates for purposes of these Terms.
 
 In accordance with Section 4 below, you, your Delegates or your Subscribing Entity may post User Content to the Service. The Service is provided to you free-of-charge in exchange for your use of the Service and the provision of your User Content (defined below in Section 4) to the Service and agreement to these Terms.
 
@@ -147,7 +147,7 @@ Spotify's products may be subject to export control and economic sanctions laws 
 
 The content you post on the service
 
-Spotify for Podcasters users, including you and any of your Subscribing Entity's Delegates, may, at no cost to Spotify, post, upload, or otherwise contribute content to the Service ("**User Content**"). For the avoidance of doubt, "**User Content**" includes all information, materials and other content that is added, created, uploaded, submitted, distributed, or posted to the Service. Spotify, and/or any third party appointed by Spotify, may in its sole discretion decide to use all, or parts of, the metadata provided, as well as to supplement and/or replace such metadata. For more information on User Content or other third-party content and its moderation, see our [Platform Rules](https://support.spotify.com/article/platform-rules/#_gl=1*2x8cx4*_gcl_au*MzMwNzAyMjYzLjE3MDcxNjU0NjM.), information about [Content Actions](https://support.spotify.com/article/content-actions/#_gl=1*2x8cx4*_gcl_au*MzMwNzAyMjYzLjE3MDcxNjU0NjM.) and our [Intellectual Property Policy](https://www.spotify.com/ie/legal/intellectual-property-policy/).
+Spotify for Creators users, including you and any of your Subscribing Entity's Delegates, may, at no cost to Spotify, post, upload, or otherwise contribute content to the Service ("**User Content**"). For the avoidance of doubt, "**User Content**" includes all information, materials and other content that is added, created, uploaded, submitted, distributed, or posted to the Service. Spotify, and/or any third party appointed by Spotify, may in its sole discretion decide to use all, or parts of, the metadata provided, as well as to supplement and/or replace such metadata. For more information on User Content or other third-party content and its moderation, see our [Platform Rules](https://support.spotify.com/article/platform-rules/#_gl=1*2x8cx4*_gcl_au*MzMwNzAyMjYzLjE3MDcxNjU0NjM.), information about [Content Actions](https://support.spotify.com/article/content-actions/#_gl=1*2x8cx4*_gcl_au*MzMwNzAyMjYzLjE3MDcxNjU0NjM.) and our [Intellectual Property Policy](https://www.spotify.com/ie/legal/intellectual-property-policy/).
 
 You are solely responsible for all User Content that you post.
 
@@ -155,7 +155,7 @@ You promise that, with respect to any User Content you post to the Service, (1) 
 
 In posting or sharing User Content or other information on the Service, please keep in mind that content and other information will be publicly accessible, and may be used and re-shared by others, so please use caution in posting or sharing on the Service, and be mindful of your account settings. Spotify is not responsible for what you or others post or share on the Service.
 
-Spotify for Podcasters is not intended to be a music distribution tool. You must not use the Service to distribute music tracks, DJ mixes or similar content.
+Spotify for Creators is not intended to be a music distribution tool. You must not use the Service to distribute music tracks, DJ mixes or similar content.
 
 Embedded advertising
 
@@ -177,7 +177,7 @@ You also agree that, if you create your User Content with one or more collaborat
 
 Feedback
 
-If you provide feedback, ideas or suggestions to Spotify in connection with the Spotify for Podcasters Service or the Content ("**Feedback**"), such Feedback is not confidential and may be used by Spotify without restriction and without payment to you. Feedback is considered a type of User Content.
+If you provide feedback, ideas or suggestions to Spotify in connection with the Spotify for Creators Service or the Content ("**Feedback**"), such Feedback is not confidential and may be used by Spotify without restriction and without payment to you. Feedback is considered a type of User Content.
 
 ### [](#infringement-claims)Infringement claims
 
@@ -186,7 +186,7 @@ Spotify respects the rights of intellectual property owners. If you believe that
 [](#5-customer-support)5\. Customer Support
 -------------------------------------------
 
-For customer support with Spotify for Podcasters Account-related questions , please use Customer Support resources listed on the [Spotify for Podcasters Help Center](https://support.spotify.com/podcasters/) section of our website. If you have any questions concerning the Spotify for Podcasters Service or these Terms (including any Opt-In Terms incorporated into these Terms), please contact Spotify for Podcasters Customer Support by visiting the Help Center section of our website.
+For customer support with Spotify for Creators Account-related questions , please use Customer Support resources listed on the [Spotify for Creators Help Center](https://support.spotify.com/podcasters/) section of our website. If you have any questions concerning the Spotify for Creators Service or these Terms (including any Opt-In Terms incorporated into these Terms), please contact Spotify for CreatorsCustomer Support by visiting the Help Center section of our website.
 
 In addition, under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at 1-800-952-5210 in order to resolve a complaint regarding the service or to receive further information regarding use of the service.
 
@@ -235,7 +235,7 @@ Where you are an individual, Spotify will process your personal data in accordan
 
 These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate these Terms (including any additional terms and conditions incorporated herein) or suspend your access to the Service at any time if we believe you have breached any of these Terms, if we stop providing the Service or any material component thereof, or as we believe necessary to comply with applicable law, or if we believe there has been conduct that creates liability or material harm to any user, other third party, Spotify or our affiliates. If Spotify terminates these Terms, or if Spotify suspends your access to the Service, you agree that Spotify shall have no liability or responsibility to you, and (except as expressly provided in these Terms) Spotify will not refund any amounts that you have already paid. You may terminate these Terms at any time through the [Customer Service contact form](https://support.spotify.com/contact-spotify-support/) on the Contact Us section of our website, or by terminating your Spotify user account, in which case you may not continue accessing or using the Service. To learn how to terminate your Spotify account, please use the Customer Support resources on our [About Us](https://www.spotify.com/about-us/contact/) page.
 
-The following sections shall survive termination: Sections 2 (The Spotify for Podcasters Service Provided by Us, 3 (Your Use of the Spotify for Podcasters Service), 4 (Content and Intellectual Property Rights), 7 (Problems and Disputes), 8 (About These Terms), as well as any other sections of these Terms that, either explicitly or by their nature, must remain in effect even after termination of these Terms, shall survive termination.
+The following sections shall survive termination: Sections 2 (The Spotify for Creators Service Provided by Us, 3 (Your Use of the Spotify for Creators Service), 4 (Content and Intellectual Property Rights), 7 (Problems and Disputes), 8 (About These Terms), as well as any other sections of these Terms that, either explicitly or by their nature, must remain in effect even after termination of these Terms, shall survive termination.
 
 ### [](#warranty-and-disclaimer)Warranty and Disclaimer
 
@@ -361,7 +361,7 @@ To the extent We may make changes to these Terms (including any additional Spoti
 
 ### [](#entire-agreement)Entire Agreement
 
-Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. Please note, however, that other aspects of your use of the Service may be governed by additional agreements. As noted above, other terms and conditions governing use of the Service are incorporated herein by reference. These include the following (a) additional terms and conditions related to specific services offered on the Service: Opt-In Terms including Spotify for Podcasters Ads Terms; and (b) guidelines and policies: the [Spotify User Guidelines](https://www.spotify.com/legal/user-guidelines/); the Spotify [Platform Rules](https://support.spotify.com/article/platform-rules/?_gl=1*1fody4y*_gcl_au*MzMwNzAyMjYzLjE3MDcxNjU0NjM.), and the [Spotify Intellectual Property Policy](https://www.spotify.com/legal/copyright-policy/); and the Spotify for Podcasters Monetization Policy.
+Other than as stated in this section or as explicitly agreed upon in writing between you and Spotify, these Terms constitute all the terms and conditions agreed upon between you and Spotify and supersede any prior agreements in relation to the subject matter of these Terms, whether written or oral. Please note, however, that other aspects of your use of the Service may be governed by additional agreements. As noted above, other terms and conditions governing use of the Service are incorporated herein by reference. These include the following (a) additional terms and conditions related to specific services offered on the Service: Opt-In Terms including Spotify for Creators Ads Terms; and (b) guidelines and policies: the [Spotify User Guidelines](https://www.spotify.com/legal/user-guidelines/); the Spotify [Platform Rules](https://support.spotify.com/article/platform-rules/?_gl=1*1fody4y*_gcl_au*MzMwNzAyMjYzLjE3MDcxNjU0NjM.), and the [Spotify Intellectual Property Policy](https://www.spotify.com/legal/copyright-policy/); and the Spotify for Creators Monetization Policy.
 
 ### [](#severability-and-waiver)Severability and Waiver
 
@@ -373,7 +373,7 @@ Any failure by Spotify or any third-party beneficiary to enforce these Terms or 
 
 Spotify may assign any or all of these Terms, and may assign or delegate, in whole or in part, any of its rights or obligations under these Terms. You may not assign these Terms, in whole or in part, nor transfer or sub-license your rights under these Terms, to any third party.
 
-Last updated: 10 June 2024
+Last updated: 13 November 2024
 
 [Spotify](https://www.spotify.com/us/)
 
