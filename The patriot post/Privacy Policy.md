@@ -1,6 +1,6 @@
-**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
+**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,8 +134,6 @@ Last Updated: November 15, 2011.
 *      [Cal Thomas Democrats Self-Examine, but Not the Media](https://patriotpost.us/opinion/111881-democrats-self-examine-but-not-the-media-2024-11-12)
 *      [Hans von Spakovsky Biden-Harris DOJ Prosecutor Targets Trans Whistleblower Doctor Again](https://patriotpost.us/opinion/111879-biden-harris-doj-prosecutor-targets-trans-whistleblower-doctor-again-2024-11-12)
 *      [Rich Lowry Trump Shows Demography Isn’t Destiny](https://patriotpost.us/opinion/111878-trump-shows-demography-isnt-destiny-2024-11-12)
-*      [Tony Perkins Once Again, the Sacred Fire of Liberty Is Preserved](https://patriotpost.us/opinion/111876-once-again-the-sacred-fire-of-liberty-is-preserved-2024-11-12)
-*      [The Babylon Bee Jimmy Kimmel Ratings Soar After Debuting New Segment Where He Stands There All Sad and Cries Like a Wuss](https://patriotpost.us/opinion/111873-jimmy-kimmel-ratings-soar-after-debuting-new-segment-where-he-stands-there-all-sad-and-cries-like-a-wuss-2024-11-12)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
