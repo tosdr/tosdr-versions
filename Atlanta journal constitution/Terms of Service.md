@@ -1,8 +1,8 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Georgia election boards certify Trump’s win as Republicans object to law](https://www.ajc.com/politics/georgia-election-boards-certify-trumps-win-as-republicans-object-to-law/JWW6B7LTWNG4THDRDUAQ73UW4Y/)
+[Breaking: U.S. Sen. Jon Ossoff is pressuring Nikema Williams to step down as party chair, officials say](https://www.ajc.com/politics/us-sen-jon-ossoff-is-pressuring-nikema-williams-to-step-down-as-party-chair-officials-say/VEQ3CVDW7BDKVIXY42YTAYWFV4/)
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1808)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1808)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1809)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1809)](https://www.ajc.com/)
 
 Log In
 
@@ -18,14 +18,13 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-potential-peach-state-appointments/H33JDJJCEBETZAX764A6JRDN5M/)
 * [Georgia Election Results](https://www.ajc.com/politics/election-results/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1808)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1809)
 
 * Quick Links
     
@@ -147,7 +146,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1808)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1809)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
