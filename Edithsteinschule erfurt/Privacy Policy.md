@@ -330,14 +330,6 @@ Im Rahmen der Verbesserung der Sicherheit sowohl für die hier gespeicherten Dat
 
 ### Termine
 
-**01.11.2024**
-
-schulfreier Tag (das Sekretariat ist geschlossen)
-
-**06.11.2024**
-
-14.00 – 18.00 Uhr Elternsprechtag (Terminvereinbarung ab 21.10.2024 übers Sekretariat möglich)
-
 **22.11.2024**
 
 Schulball (Einlass ab 18.00 Uhr)
@@ -345,6 +337,14 @@ Schulball (Einlass ab 18.00 Uhr)
 **11.12.2024**
 
 17.30 Uhr Adventskonzert in der Reglerkirche
+
+**16.12.2024 – 04.02.2025**
+
+Terminvereinbarung zur Schüleranmeldung online möglich (Link wird ab 16.12.2024 hier bekanntgegeben)
+
+**22.12.2024**
+
+17.00 Uhr Ehemaligengottesdienst in der Schottenkirche
 
 ![](https://www.ess-erfurt.de/wp-content/uploads/Service/Logo_Praxissemesterschule_2023-24-002.png)
 
