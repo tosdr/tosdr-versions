@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want to see behind the curtain? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-It's how we feed the squirrel
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Court orders Oakland airport to stop using new name because it's too similar to SFO across the bay. Let's try to come up with a new name for the airport. My vote goes to: The Marshawn Lynch International Airport](https://www.fark.com/goto/13461092) ( [abc7news.com](https://www.fark.com/goto/13461092) ) » [(11 comments)](https://www.fark.com/comments/13461092/Court-orders-Oakland-airport-to-stop-using-new-name-because-its-too-similar-to-SFO-across-bay-Lets-try-to-come-up-with-a-new-name-for-airport-My-vote-goes-to-The-Marshawn-Lynch-International-Airport) |
-| [Discussion](https://www.fark.com/discussion/) | [Watching key John Oliver/Last Week Tonight episodes and sighing a lot. Join me, won't you?](https://www.fark.com/goto/13461084) ( [youtube.com](https://www.fark.com/goto/13461084) ) » [(1 comment)](https://www.fark.com/comments/13461084/Watching-key-John-OliverLast-Week-Tonight-episodes-sighing-a-lot-Join-me-wont-you) |
-| [Sports](https://www.fark.com/sports/) | [Oregon, Ohio State, Texas, Penn State atop CFP's rankings, Georgia comes in at 12 and Miami at 9](https://www.fark.com/goto/13461072) ( [espn.com](https://www.fark.com/goto/13461072) ) » [(0 comments)](https://www.fark.com/comments/13461072/Oregon-Ohio-State-Texas-Penn-State-atop-CFPs-rankings-Georgia-comes-in-at-12-Miami-at-9) |
-| [Business](https://www.fark.com/business/) | [Young millennial couple give up on homebuying after 15 rejected offers, one $65K over asking price: 'Slap in the face'](https://www.fark.com/goto/13460966) ( [cnbc.com](https://www.fark.com/goto/13460966) ) » [(3 comments)](https://www.fark.com/comments/13460966/Young-millennial-couple-give-up-on-homebuying-after-15-rejected-offers-one-$65K-over-asking-price-Slap-in-face) |
-| [STEM](https://www.fark.com/stem/) | [The Tuesday Night Science Channel Discussion Thread, 9PM Eastern](https://www.fark.com/goto/13460626) ( [fark.com](https://www.fark.com/goto/13460626) ) » [(85 comments)](https://www.fark.com/comments/13460626/The-Tuesday-Night-Science-Channel-Discussion-Thread-9PM-Eastern) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Not to be outdone by Oasis going Ambient, The Corrs go Grunge](https://www.fark.com/goto/13460796) ( [theguardian.com](https://www.fark.com/goto/13460796) ) » [(3 comments)](https://www.fark.com/comments/13460796/Not-to-be-outdone-by-Oasis-going-Ambient-The-Corrs-go-Grunge) |
-| [Fandom](https://www.fark.com/fandom/) | [David Duchovny and Gillian Anderson would avoid each other for weeks at a time while filming "The X Files." I want to be leave](https://www.fark.com/goto/13460914) ( [thedailybeast.com](https://www.fark.com/goto/13460914) ) » [(22 comments)](https://www.fark.com/comments/13460914/David-Duchovny-Gillian-Anderson-would-avoid-each-other-for-weeks-at-a-time-while-filming-The-X-Files-I-want-to-be-leave) |
+| [Main](https://www.fark.com/) | [Nice Nazis of University of Rochester: Wanted posters of Jewish faculty members glued to the walls](https://www.fark.com/goto/13461050) ( [cnn.com](https://www.fark.com/goto/13461050) ) » [(7 comments)](https://www.fark.com/comments/13461050/Nice-Nazis-of-University-of-Rochester-Wanted-posters-of-Jewish-faculty-members-glued-to-walls) |
+| [Discussion](https://www.fark.com/discussion/) | [Watching key John Oliver/Last Week Tonight episodes and sighing a lot. Join me, won't you?](https://www.fark.com/goto/13461084) ( [youtube.com](https://www.fark.com/goto/13461084) ) » [(5 comments)](https://www.fark.com/comments/13461084/Watching-key-John-OliverLast-Week-Tonight-episodes-sighing-a-lot-Join-me-wont-you) |
+| [Sports](https://www.fark.com/sports/) | [The Tampa Bay Rays are homeless](https://www.fark.com/goto/13461206) ( [tampabay.com](https://www.fark.com/goto/13461206) ) » [(2 comments)](https://www.fark.com/comments/13461206/The-Tampa-Bay-Rays-are-homeless) |
+| [Business](https://www.fark.com/business/) | [Spiritless](https://www.fark.com/goto/13461074) ( [msn.com](https://www.fark.com/goto/13461074) ) » [(1 comment)](https://www.fark.com/comments/13461074/Spiritless) |
+| [STEM](https://www.fark.com/stem/) | [Daily Mail reports which type of alcohol is the least healthy. I now doubt the existence of beer. NOOOOOOOOOO](https://www.fark.com/goto/13461294) ( [dailymail.co.uk](https://www.fark.com/goto/13461294) ) » [(0 comments)](https://www.fark.com/comments/13461294/Daily-Mail-reports-which-type-of-alcohol-is-least-healthy-I-now-doubt-existence-of-beer-NOOOOOOOOOO) |
+| [Entertainment](https://www.fark.com/entertainment/) | [The ten best movies that defined the 1990s. The list will fail without everything that everyone is going to suggest at the right](https://www.fark.com/goto/13461270) ( [collider.com](https://www.fark.com/goto/13461270) ) » [(8 comments)](https://www.fark.com/comments/13461270/The-ten-best-movies-that-defined-1990s-The-list-will-fail-without-everything-that-everyone-is-going-to-suggest-at-right) |
+| [Fandom](https://www.fark.com/fandom/) | [Teslas delivered from the factory with bad alignment. Is that Chaotic Neutral or Neutral Evil?](https://www.fark.com/goto/13461204) ( [theautopian.com](https://www.fark.com/goto/13461204) ) » [(6 comments)](https://www.fark.com/comments/13461204/Teslas-delivered-from-factory-with-bad-alignment-Is-that-Chaotic-Neutral-Neutral-Evil) |
 | [D'awww](https://www.fark.com/dawww/) | [Yeah, you're gonna need a trim](https://www.fark.com/goto/13460898) ( [youtube.com](https://www.fark.com/goto/13460898) ) » [(1 comment)](https://www.fark.com/comments/13460898/Yeah-youre-gonna-need-a-trim) |
-| [Food](https://www.fark.com/food/) | [Hey "The Charles", here's your Michelin Recommended award, enjoy the fruits of your labor and all the extra business. Uhh, upon further review, the award goes to "Mister Charles". Sorry. Hope you can stay open now](https://www.fark.com/goto/13460894) ( [wfaa.com](https://www.fark.com/goto/13460894) ) » [(3 comments)](https://www.fark.com/comments/13460894/Hey-The-Charles-heres-your-Michelin-Recommended-award-enjoy-fruits-of-your-labor-all-extra-business-Uhh-upon-further-review-award-goes-to-Mister-Charles-Sorry-Hope-you-can-stay-open-now) |
-| [Politics](https://www.fark.com/politics/) | [If you think bitcoin is going to increase 20% by the end of the year why wouldn't you buy bitcoin instead of making a bet on a gambling website?](https://www.fark.com/goto/13460730) ( [cnbc.com](https://www.fark.com/goto/13460730) ) » [(11 comments)](https://www.fark.com/comments/13460730/If-you-think-bitcoin-is-going-to-increase-20-by-end-of-year-why-wouldnt-you-buy-bitcoin-instead-of-making-a-bet-on-a-gambling-website) |
+| [Food](https://www.fark.com/food/) | [Pizza Hut's latest innovation? Better tasting pizza? Nope, how about a box that sits on your PS5 to keep your pizza warm while you play games](https://www.fark.com/goto/13460976) ( [techspot.com](https://www.fark.com/goto/13460976) ) » [(0 comments)](https://www.fark.com/comments/13460976/Pizza-Huts-latest-innovation-Better-tasting-pizza-Nope-how-about-a-box-that-sits-on-your-PS5-to-keep-your-pizza-warm-while-you-play-games) |
+| [Politics](https://www.fark.com/politics/) | [Incoming Trump admin is eyeing new concentration camps near major U.S. cities](https://www.fark.com/goto/13460974) ( [nbcnews.com](https://www.fark.com/goto/13460974) ) » [(23 comments)](https://www.fark.com/comments/13460974/Incoming-Trump-admin-is-eyeing-new-concentration-camps-near-major-US-cities) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 13 2024 01:42:10  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 13 2024 07:43:23  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
