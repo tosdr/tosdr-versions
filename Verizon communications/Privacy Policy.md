@@ -1217,10 +1217,9 @@ Support
 * [Mobile Online Support](https://www.verizon.com/support/)
 * [Home Online Support](https://www.verizon.com/support/)
 * [Contact Customer Support](https://www.verizon.com/support/contact-us/)
-* [Sign in to your Account](https://secure.verizon.com/vzauth/UI/Login)
+* [Sign in to your Account](https://secure.verizon.com/signin)
 * [Store Locator](https://www.verizon.com/stores)
 * [Account Security & Fraud Claims](https://www.verizon.com/about/account-security/overview)
-* [The Relay Blog](https://www.verizon.com/about/blog/relay)
 * [Accessibility](https://www.verizon.com/accessibility/)
 
 Innovation
