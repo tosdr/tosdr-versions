@@ -73,7 +73,7 @@ Target double opt-in users with our high converting Email Clicks ad format.
     
     ### [Black Friday eCommerce trends: How to increase sales on Black Friday](https://www.exoclick.com/black-friday-ecommerce-trends-how-to-increase-sales-on-black-friday/)
     
-    Black Friday is an American shopping event that gained international popularity in 2010 and will begin on November 29th, 2024 this year. In this article, we will explore Black Friday eCommerce trends and how to increase sales on Black Friday. This article is particularly useful for Advertisers promoting offers in Tier 1 countries in Europe \[…\]
+    Advertisers! Want to learn how to increase sales on Black Friday? Then read on for the emerging Black Friday eCommerce trends in 2024!
     
     [Read More](https://www.exoclick.com/black-friday-ecommerce-trends-how-to-increase-sales-on-black-friday/)
     
@@ -94,8 +94,8 @@ Target double opt-in users with our high converting Email Clicks ad format.
     [Read More](https://www.exoclick.com/ad-zone-placement-strategies-for-publishers/)
     
 
-[Tutorials](https://www.youtube.com/playlist?list=PL_vgYj9CKceY3zVm3W_G7_Sdiu1OXrJja)
--------------------------------------------------------------------------------------
+[Tutorials](https://academy.exoclick.com/)
+------------------------------------------
 
 * [![Advertiser Tutorial](https://www.exoclick.com/wp-content/uploads/2023/04/Smart-bid-tutorial-thumbnail_EN.png)](https://youtu.be/uA1Z_1owfgw)
     
