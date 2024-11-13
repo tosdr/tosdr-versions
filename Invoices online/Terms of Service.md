@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Jannie Schutte - myFinance-Online.co.za
 
-![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=123707849)  
-National Elite Security Services (PTY) LTD
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=111722047)  
+LEONARD
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=189739076)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=42447236)  
+Mtunzini Group
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=188899690)  
-United Paintball Federation
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=143892091)  
+Enhle Oarabile Kea
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=94069995)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=95478472)  
+NEW BEGINNINGS DESIGNS
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=184230434)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=96427632)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=153033624)  
-Gemini-IT Group
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=1213452)  
-Frameless Fanatix (Pty) Ltd.
-
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=39448687)  
-Entidee Enterprise PTY (ltd)
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=119206784)  
-PROGRAPHIX PTY LTD
-
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=37356572)  
-Firstweb Hosting & Design
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=118647272)  
-Goju Ryu Karate Centre
-
-![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=56515554)  
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=117220130)  
 Calonet
 
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=67319667)  
-SA Security Brokerz (Pty) Ltd
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=194102979)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=10131562)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Lemba Truck Stop](https://www.invoicesonline.co.za/scripts/image.php?bid=6556&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=28363234)  
+Lemba Truck Stop
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=50389641)  
-Testpro Laboratory (Pty) Ltd
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=123262551)  
+Oukraal Merino's
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=104554678)  
+IYD
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=44845374)  
+Peter Salvage Pty Ltd
+
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=6774228)  
+Three Moons Emporium
+
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=102114343)  
+Alliance Energy
+
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=76778728)  
+Immediate Health (pty)ltd
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=50f506e62eaa0ff063d313c310e125d7be4e89ad0dab88340822905a19b0f7a7&c=54155231)  
+Vplay Grafix
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
