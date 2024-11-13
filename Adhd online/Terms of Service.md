@@ -352,6 +352,18 @@ Your involvement will help improve mental health care for everyone.
 
 [Learn more](https://adhdonline.com/validity-study-recruitment/)
 
+ ![](https://adhdonline.com/wp-content/uploads/2024/05/Holiday-Hours-Sign-2024.png)
+
+### ADHD Online will be closed on Thursday, November 28 and Friday, November 29 in observance of Thanksgiving.
+
+Live support will be unavailable during this time, but you can always [submit a request](https://adhddiagnosis.zendesk.com/hc/en-us/requests/new) or leave a voice message. We’ll get back to you when we return on Monday, December 1.
+
+Each of our clinicians sets their own holiday hours. Check with your doctor for availability.
+
+**Are you looking to take our Assessment? It’s available all day, every day, whenever and wherever is best for you!** 
+
+[Start Assessment](https://patients.adhdonline.com/signup?_gl=1*9n9406*_gcl_au*MTcxNjgzNTkzMi4xNjg2ODU3MzU2&_ga=2.139146611.1991447896.1687188572-481719545.1686857356)
+
 #### **Provide [this form](https://drive.google.com/file/d/1W63Lv39xTnDufGJFXq4LLdJ6sEdV3Djd) to your local practitioner. You could:**
 
 * Send this link
