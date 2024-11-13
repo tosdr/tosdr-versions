@@ -1,4 +1,4 @@
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1731258882)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1731460182)](https://its-can.com/)
 
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
@@ -30,11 +30,11 @@ Menu
 
 [Client Support](https://its-can.itclientportal.com/)
 
-[1-866-970-3396](tel:18442584356)
+[1-866-970-3396](tel:1-866-970-3396)
 
 [Contact Us](https://its-can.com/contact/)
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1731258882)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1731460182)](https://its-can.com/)
 
 * [Home](https://its-can.com/)
 * [Solutions](https://its-can.com/solutions/)
@@ -66,15 +66,15 @@ Menu
 
 [Client Support](https://its-can.itclientportal.com/)
 
-[1-866-970-3396](tel:18442584356)
+[1-866-970-3396](tel:1-866-970-3396)
 
 [Contact Us](https://its-can.com/contact/)
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1731258882)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGOTRANSPARENCY.png?time=1731460182)](https://its-can.com/)
 
 [Client Support](https://its-can.itclientportal.com/)
 
-[1-866-970-3396](tel:18442584356)
+[1-866-970-3396](tel:1-866-970-3396)
 
 [Contact Us](https://its-can.com/contact/)
 
@@ -275,7 +275,7 @@ Privacy Officer, privacy@its-can.com
 
 Send
 
-[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png?time=1731258882)](https://its-can.com/)
+[![ITS Canada Logo](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/LOGO-TRANSPARENCY-02.png)](https://its-can.com/)
 
 [Schedule Consultation](#form)
 
@@ -283,13 +283,13 @@ Reviewed on
 
 __________ 5/5
 
-[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg?time=1731258882)](https://clutch.co/profile/its-canada#summary)
+[![](https://3js7c5.p3cdn1.secureserver.net/wp-content/uploads/2023/03/clutch-logo.svg)](https://clutch.co/profile/its-canada#summary)
 
 [Reviews](https://clutch.co/profile/its-canada#summary)
 
 [895 Don Mills Rd., Two Morneau Shepell Centre, Suite 900 Toronto, Ontario, M3C 1W3](https://www.google.com/maps/place/Morneau+Shepell/@43.7273209,-79.3392353,15z/data=!4m6!3m5!1s0x89d4cd0bf2dc039f:0xa362d405f8a9038d!8m2!3d43.7273209!4d-79.3392353!16s%2Fg%2F1tfjgj6d?entry=ttu)
 
-[T: 1-866-970-3396](tel:18003568933)
+[T: 1-866-970-3396](tel:1-866-970-3396)
 
 [E: info@its-can.com](mailto:office@tecnologia.com)
 
