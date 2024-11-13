@@ -314,15 +314,15 @@ Meist verkaufte Produkte
     
      1
     
-* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
+* [Olynth® 0,05 % Nasenspray für Kinder](https://www.medikamente-per-klick.de/olynth%C2%AE-0-05-schnupfen-dosierspray-fuer-kinder-10ml-02372668)
     
-    6,16 €\*
+    1,86 €\*
     
      1
     
-* [HOTGEN NASAL LAIENTEST](https://www.medikamente-per-klick.de/hotgen-nasal-laientest-1pcs-81010115)
+* [NASENSPRAY RATIO ERW - DOPPELPACK](https://www.medikamente-per-klick.de/nasenspray-ratiopharm-2x15ml-81004356)
     
-    1,62 €\*
+    6,16 €\*
     
      1
     
@@ -349,26 +349,26 @@ Mo-Fr 8:00 - 17:00
 
 Klick des Tages
 
-[GAVISCON Liquid Suspension bei Sodbrennen (24x10 ml) während der Schwangerschaft](https://www.medikamente-per-klick.de/product?artnr=10982961&simpleContentAttachmentId=14183&wochenklick)  
-\*\*\*auch für nicht schwangere Menschen geeignet\*\*\***  
+[MUCOSOLVAN Hustensaft - Schleimlöser bei Husten mit Ambroxol 250ml](https://www.medikamente-per-klick.de/product?artnr=00743445&simpleContentAttachmentId=14183&wochenklick)  
+Löst den Schleim, erleichtert das Abhusten, befreit die Bronchien**  
 Sonderangebot**  
-[![Sonderangebot](/images/products/medikamenteperklick/mittel/10982961_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=10982961&simpleContentAttachmentId=14183&wochenklick)
+[![Sonderangebot](/images/products/medikamenteperklick/mittel/00743445_m.jpg "Sonderangebot")](https://www.medikamente-per-klick.de/product?artnr=00743445&simpleContentAttachmentId=14183&wochenklick)
 
 VK1:
 
-22,97 €\*
+19,97 €\*
 
 Ihr Preis:
 
-9,99 €\*
+12,55 €\*
 
 Sie sparen:
 
-12,98 € \-57%
+7,42 € \-37%
 
-2024-11-13 08:00:00
+2024-11-20 12:00:00
 
-[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=10982961&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
+[Jetzt sichern](https://www.medikamente-per-klick.de/quickAddProductsToCart?pzn=00743445&quantity=1&simpleContentAttachmentId=14183&Wochenklick)
 
 layoutStyle2
 
@@ -664,4 +664,4 @@ Haben Sie bitte auch dafür Verständnis, dass wir aus Datenschutzgründen Ausk�
 
 ![](https://www.facebook.com/tr?id=338982736604254&ev=PageView&noscript=1)
 
-![](https://c.paypal.com/v1/r/d/b/ns?f=xknynrqmdyjqpockwkagrxzsuytwwbtl&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
+![](https://c.paypal.com/v1/r/d/b/ns?f=ajenhahdktgyjwptsfuvioxhelsitnox&s=MedikamentePerKlick_53G7W4P47GKSG_RT&js=0&r=1)
