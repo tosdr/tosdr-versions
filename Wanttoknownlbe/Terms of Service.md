@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/epstein-vervolg-begrafenis-en-ghislaine-maxwell/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/klimaat/groen-de-schimmel-op-de-wetenschap/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
