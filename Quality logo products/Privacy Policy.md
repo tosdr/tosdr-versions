@@ -184,7 +184,7 @@ Save 8% with Promo Code **NEWCUSTOMER8** at Checkout - _LIMITED TIME OFFER!_
     
     * [H2GO](https://www.qualitylogoproducts.com/h2go-brand-promotional-products.htm)
     * [YETI](https://www.qualitylogoproducts.com/yeti-brand-promotional-products.htm)
-    * [CamelBak](https://www.qualitylogoproducts.com/camelbak-brand-promotional-products.htm)
+    * [Urban Peak](https://www.qualitylogoproducts.com/urban-peak-brand-promotional-products.htm)
 * [Apparel](https://www.qualitylogoproducts.com/corporate-apparel.htm)
     
     * [T-Shirts](https://www.qualitylogoproducts.com/custom-shirt-t.htm)
