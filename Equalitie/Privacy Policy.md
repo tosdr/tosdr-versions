@@ -4,9 +4,9 @@ Menu
 
 * [Home](https://equalit.ie/)
 * [Projects](https://equalit.ie/project-portfolio "Portfolio")
-* [Focus](https://equalit.ie/#focus "Focus")
+* [Focus](https://equalit.ie/#focus)
 * [News](https://equalit.ie/blog "Blog")
-* [About Us](https://equalit.ie/#team "About Us")
+* [About Us](https://equalit.ie/#team)
     * [Who we are](https://equalit.ie/#team)
     * [Our Values](https://equalit.ie/values/)
     * [Work @ eQualitie](https://equalit.ie/jobs/)
@@ -21,9 +21,9 @@ Digital Security for a Civil Society
 
 * [Home](https://equalit.ie/)
 * [Projects](https://equalit.ie/project-portfolio "Portfolio")
-* [Focus](https://equalit.ie/#focus "Focus")
+* [Focus](https://equalit.ie/#focus)
 * [News](https://equalit.ie/blog "Blog")
-* [About Us](https://equalit.ie/#team "About Us")
+* [About Us](https://equalit.ie/#team)
     * [Who we are](https://equalit.ie/#team)
     * [Our Values](https://equalit.ie/values/)
     * [Work @ eQualitie](https://equalit.ie/jobs/)
