@@ -51,6 +51,7 @@
     * [Academic Services](#)
         * [Academic Advising](https://www.highpoint.edu/academicadvising/)
         * [Academic Tutoring](https://www.highpoint.edu/academicservices/)
+        * [Learning Excellence](https://www.highpoint.edu/academicservices/learningexcellence/)
         * [Office of Accessibility Resources](https://www.highpoint.edu/oars/)
         * [Writing Center](https://www.highpoint.edu/english/writing-center/)
     * [Student Services](#)
