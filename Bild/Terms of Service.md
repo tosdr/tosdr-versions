@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team
+
+Musk an der Macht! Trump gibt Tech-Milliardär wichtigen Posten in seinem Team](https://www.bild.de/politik/ausland-und-internationales/donald-trump-holt-elon-musk-in-seine-regierung-neuer-job-fuer-tesla-boss-6733f3f1d39c7b0c2a08b70d)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
