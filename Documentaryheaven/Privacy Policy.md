@@ -128,39 +128,39 @@ Advertisement
     Louis Theroux: Drinking To Oblivion
     
     Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
-* [![7/7: Ripple Effect](/wp-content/thumbnails/2370-100x70.png?x53432)
+* [![William Cooper Project Redlight II](/wp-content/thumbnails/6677-100x70.jpg?x53432)
     
-    7/7: Ripple Effect
+    William Cooper Project Redlight II
     
-    Verint Systems is the security firm that is responsible for the CCTV surveillance cameras, in the London Underground rail network, and it is an Israeli company, with approximately 1000 employees. This...](https://documentaryheaven.com/77-ripple-effect/ "7/7: Ripple Effect")
+    "Project Redlight I and II were the very first videos produced about Area 51, also known as Dreamland. Contains more information than any other production. A historic classic video unlike anything els...](https://documentaryheaven.com/william-cooper-project-redlight-ii/ "William Cooper Project Redlight II")
 
 ###### Throwback Documentaries
 
-* [![Secrets of The Occult: The Magicians](/wp-content/thumbnails/1159-100x70.jpg?x53432)
+* [![Around the World in 90 Minutes](/wp-content/thumbnails/6096-100x70.jpg?x53432)
     
-    Secrets of The Occult: The Magicians
+    Around the World in 90 Minutes
     
-    Secrets of the Occult explores the world of the occult from the ancient and modern magicians who practice it to the cutting edge scientists attempting to explain its mysterious claims. This program hi](https://documentaryheaven.com/secrets-of-the-occult-the-magicians/ "Secrets of The Occult: The Magicians")
-* [![We Love Cigarettes](/wp-content/thumbnails/6070-100x70.jpg?x53432)
+    At midnight, travel to the tiny country of Monaco and watch residents riding on a gondola on a beautiful summer night. By 12:05 a.m. you are transported to Canada to watch a gaggle of geese forage for](https://documentaryheaven.com/around-the-world-in-90-minutes/ "Around the World in 90 Minutes")
+* [![Osama Bin Laden: Dead or Alive](/wp-content/thumbnails/5734-100x70.jpg?x53432)
     
-    We Love Cigarettes
+    Osama Bin Laden: Dead or Alive
     
-    A love of nicotine unites all peoples across the globe, regardless of colour, wealth or creed. Where religion and politics have failed tobacco has succeeded, but at what cost? For over 50 years people](https://documentaryheaven.com/we-love-cigarettes/ "We Love Cigarettes")
-* [![War and Globalization: The Truth Behind 9/11](/wp-content/thumbnails/1364-100x70.jpg?x53432)
+    Examining what has happened to the world's most wanted man, Osama Bin Laden. Despite one of the biggest manhunts in history, Osama Bin Laden remained as elusive as ever. Rooted in the facts around Bin](https://documentaryheaven.com/osama-bin-laden-dead-or-alive/ "Osama Bin Laden: Dead or Alive")
+* [![Mental: A History of the Mad House](/wp-content/thumbnails/5833-100x70.jpg?x53432)
     
-    War and Globalization: The Truth Behind 9/11
+    Mental: A History of the Mad House
     
-    In this lecture by Michel Chossudovsky, he blows away the smokescreen put up by the mainstream media, that 9/11 was an attack on America by “Islamic terrorists”. Through meticulous research, he has un](https://documentaryheaven.com/war-globalization-truth-behind-911/ "War and Globalization: The Truth Behind 9/11")
-* [![The Bedroom Commandments](/wp-content/thumbnails/6317-100x70.jpg?x53432)
+    This documentary tells the fascinating and poignant story of the closure of Britain’s mental asylums. In the post-war period, 150,000 people were hidden away in 120 of these vast Victorian institution](https://documentaryheaven.com/mental-a-history-of-the-mad-house/ "Mental: A History of the Mad House")
+* [![TikTok’s Dark Side](/wp-content/thumbnails/16588-100x70.jpg?x53432)
     
-    The Bedroom Commandments
+    TikTok’s Dark Side
     
-    Since the dawn of human consciousness we have searched for a belief system.We want to know, 'How should I live?' 'Why is the world like this?' and 'What happens when I die'?Religions give us](https://documentaryheaven.com/the-bedroom-commandments/ "The Bedroom Commandments")
-* [![Cashing In On Degrees](/wp-content/thumbnails/6345-100x70.jpg?x53432)
+    The Chinese social media platform known as TikTok has changed the way we interact with the internet. It has become the most popular app in the world, filled with fishing videos, cooking, skits, singi](https://documentaryheaven.com/tiktoks-dark-side/ "TikTok’s Dark Side")
+* [![America’s Military Empire?](/wp-content/thumbnails/14788-100x70.jpg?x53432)
     
-    Cashing In On Degrees
+    America’s Military Empire?
     
-    With students facing massive increases in their fees, Dispatches investigates the pay, perks and privileges enjoyed by universities’ top earners. Journalist Laurie Penny reveals the increasing commer](https://documentaryheaven.com/cashing-in-on-degrees/ "Cashing In On Degrees")
+    Beginning in the 1980s a belief has slowly taken over the world, that neoliberal globalisation with its built in self-regulating mechanisms would finally do away with old institutions like the state a](https://documentaryheaven.com/americas-military-empire/ "America’s Military Empire?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
