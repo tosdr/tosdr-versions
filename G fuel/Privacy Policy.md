@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                  
+Privacy policy – G FUEL                                                                                                               
 
 [Skip to content](#MainContent)  
 
@@ -210,7 +210,7 @@ View more
 
 Pause slideshow Play slideshow
 
-[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/g-fuel-rewards-terms-and-conditions)
+[Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
 
 [Get Early Access 🔥Download the Official G FUEL APP](https://gfuel.com/pages/mobile-app)
 
