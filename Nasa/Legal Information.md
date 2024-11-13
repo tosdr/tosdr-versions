@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA Funds New Studies Looking at Future of Sustainable Aircraft
 
-article4 hours ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+article7 hours ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
 4 min read
 
@@ -247,7 +247,7 @@ Back
 
 ### Peculiar Pale Pebbles
 
-article 6 hours ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+article 9 hours ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
 4 min read
 
@@ -259,7 +259,7 @@ article 1 day ago](https://www.nasa.gov/missions/voyager-program/voyager-2/minin
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-g
 
 ### Station Science Top News: Nov. 8, 2024
 
-article 13 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+article 16 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 5 days ago](https://www.nasa.gov/hrp/hero/)
 
 ### NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite
 
-article 8 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
+article 11 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
 
 6 min read
 
@@ -335,7 +335,7 @@ article 1 week ago](https://science.nasa.gov/science-research/heliophysics/final
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
+article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
 
 2 min read
 
@@ -351,25 +351,25 @@ article 2 weeks ago](https://science.nasa.gov/missions/hubble/nasas-hubble-webb-
 
 ### Highlights
 
-[![NASA’s BlueFlux Campaign Supports Blue Carbon Management in South Florida](https://science.nasa.gov/wp-content/uploads/2024/10/figure-1.png)
-
-22 min read
-
-### NASA’s BlueFlux Campaign Supports Blue Carbon Management in South Florida
-
-article 7 hours ago](https://science.nasa.gov/science-research/earth-science/nasas-blueflux-campaign-supports-blue-carbon-management-in-south-florida/)[![NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+[![Two Puerto Rican women stand on a beach, both wearing teal longsleeve shirts and sunglasses. The one on the left has a tan, wide-brimmed hat, and the one on the right has a pink baseball cap.](https://www.nasa.gov/wp-content/uploads/2024/11/1q4a4494.jpg?w=1024)
 
 4 min read
 
-### NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite
+### Entrevista con Instructora de OCEANOS María Fernanda Barbarena-Arias
 
-article 8 hours ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/)[![Summary of the Second OMI–TROPOMI Science Team Meeting](https://science.nasa.gov/wp-content/uploads/2024/10/photo.jpg)
+article 4 mins ago](https://www.nasa.gov/general/entrevista-con-instructora-de-oceanos-maria-fernanda-barbarena-arias/)[![A Puerto Rican man wearing sunglasses, a navy baseball cap and longsleeve shirt is visible from the waist up, standing behind the silver wheel of a small white boat. In the background are a few islands of green foliage.](https://www.nasa.gov/wp-content/uploads/2024/11/1q4a1721.jpg?w=1024)
 
-22 min read
+4 min read
 
-### Summary of the Second OMI–TROPOMI Science Team Meeting
+### Entrevista con Instructor de OCEANOS Roy Armstrong
 
-article 9 hours ago](https://science.nasa.gov/science-research/earth-science/summary-of-the-second-omi-tropomi-science-team-meeting/)
+article 11 mins ago](https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-roy-armstrong/)[![A Puerto Rican man wearing a snorkel mask, fins, and a cream long-sleeve shirt float in bright blue water with one hand extended towards the camera. Just above his hand float two brown fuzzy balls, roughly the size of golf balls.](https://www.nasa.gov/wp-content/uploads/2024/11/1q4a4282.jpg?w=1024)
+
+4 min read
+
+### Entrevista con Instructor de OCEANOS Juan Torres-Pérez
+
+article 14 mins ago](https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-juan-torres-perez/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 9 hours ago](https://science.nasa.gov/science-research/earth-science/sum
 
 ### NASA Funds New Studies Looking at Future of Sustainable Aircraft
 
-article 4 hours ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
+article 7 hours ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
 
 5 min read
 
@@ -439,7 +439,7 @@ article 5 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### 40 Years Ago: STS-51A – “The Ace Repo Company”
 
-article 4 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
+article 5 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
 
 ### Highlights
 
