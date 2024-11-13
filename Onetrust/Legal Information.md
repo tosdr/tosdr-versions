@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
+* [OneTrust named a strong performer in 2023 Forrester Data Governance Wave​](https://www.onetrust.com/resources/onetrust-named-a-strong-performer-in-2023-forrester-data-governance-wave-report/)
 * [Third-party management academy](https://www.onetrust.com/resources/third-party-risk-management-academy-webinar-series/)
 * [Bill S-211: Will you be ready by May 31?](https://www.onetrust.com/resources/bill-s211-will-you-be-ready-by-may-31-webinar/)
-* [From request to resolution: Simplifying DSRs with automation](https://www.onetrust.com/resources/from-request-to-resolution-simplifying-dsrs-with-automation-webinar/)
 
 ### Platform
 
