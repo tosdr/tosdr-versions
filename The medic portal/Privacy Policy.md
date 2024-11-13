@@ -92,6 +92,7 @@ We may disclose your personal information to third parties:
 
 * to whom we may choose to sell, transfer or merge parts of our business or our assets. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy policy.
 * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Website Terms of Use](https://www.themedicportal.com/terms-conditions/) or [Product Terms and Conditions](https://www.themedicportal.com/product-terms-conditions/) and other agreements; or to protect the rights, property, or safety of The Medic Portal, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+* We will share your personal data within the Dukes Education Group for reporting, safeguarding, quality control and potential referral basis (for example, to our consultancy division in respect of university applications). Personal data will also be shared with other organisations, such as insurers and organisations which conduct background checks, where necessary.
 
 ### 7\. INTERNATIONAL TRANSFERS
 
