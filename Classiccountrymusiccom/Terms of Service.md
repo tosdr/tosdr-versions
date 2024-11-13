@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Brooks & Dunn Remove Diddy Reference...](https://classiccountrymusic.com/brooks-dunn-remove-diddy-reference-from-play-something-country-lyrics/)
+* [George Strait to be Honored with...](https://classiccountrymusic.com/george-strait-to-be-honored-with-the-cma-lifetime-achievement-award/)
 * [Jamey Johnson Releases Long-Awaited Album, “Midnight...](https://classiccountrymusic.com/jamey-johnson-releases-long-awaited-album-midnight-gasoline/)
-* [‘Little Known Fact’: The Gatlin Brothers...](https://classiccountrymusic.com/little-known-fact-the-gatlin-brothers-sang-backup-on-lee-greenwoods-god-bless-the-usa/)
-* [Reba McEntire & Linda Davis Sing...](https://classiccountrymusic.com/reba-mcentire-linda-davis-sing-does-he-love-you-at-1993-cma-awards/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
