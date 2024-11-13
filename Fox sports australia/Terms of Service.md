@@ -26,14 +26,6 @@ FOX SCORES
     | IND | –   |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250403)
-* [Women's BBL
-    
-    |     |     |
-    | --- | --- |
-    | HOB | 1 /85 |
-    | ADE |     |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250125)
 * [One-Day Cup
     
     VIC won by 15 runs (DLS)
@@ -44,6 +36,36 @@ FOX SCORES
     | WA  | 108 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/ODD2024-250113)
+* [Women's BBL
+    
+    HOB won by 28 runs
+    
+    |     |     |
+    | --- | --- |
+    | HOB | 2 /191 |
+    | ADE | 3 /163 |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250125)
+* [Women's BBL
+    
+    14/11 15:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SYD6 | –   |
+    | BRI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250126)
+* [Sheffield Shield
+    
+    14/11 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | NSW | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250110)
 * AFL
     
 * [AFL Women's
@@ -92,14 +114,14 @@ FOX SCORES
     
 * [WNBL
     
-    13/11 19:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | SYD | –   |
-    | BEN | –   |
+    | SYD | 71  |
+    | BEN | 90  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030001)
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030001/play-by-play)
 * [NBA
     
     Full Time
@@ -180,6 +202,116 @@ FOX SCORES
     | DAL | 117 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010013/box-score)
+* [NBA
+    
+    14/11 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ORL | –   |
+    | IND | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010208)
+* [NBA
+    
+    14/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PHI | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010210)
+* [NBA
+    
+    14/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | NY  | –   |
+    | CHI | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011045)
+* [NBA
+    
+    14/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | OKC | –   |
+    | NO  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011046)
+* [NBA
+    
+    14/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BKN | –   |
+    | BOS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010209)
+* [NBA
+    
+    14/11 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | HOU | –   |
+    | LAC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010211)
+* [NBA
+    
+    14/11 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | WAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010213)
+* [NBA
+    
+    14/11 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MIL | –   |
+    | DET | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010212)
+* [NBA
+    
+    14/11 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SAC | –   |
+    | PHO | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010216)
+* [NBA
+    
+    14/11 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAL | –   |
+    | MEM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010214)
+* [NBA
+    
+    14/11 14:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | POR | –   |
+    | MIN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010215)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
