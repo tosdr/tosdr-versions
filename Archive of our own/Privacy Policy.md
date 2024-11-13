@@ -45,7 +45,7 @@ Remember Me
     * [FAQ](https://archiveofourown.org/faq)
     * [Wrangling Guidelines](https://archiveofourown.org/wrangling_guidelines)
     * [Donate or Volunteer](https://archiveofourown.org/donate)
-* Work Search  tip: "sherlock (tv)" m/m NOT "sherlock holmes/john watson" 
+* Work Search  tip: katekyou "alternate universe" sort:>words 
     
 
 > **We are updating the AO3 Terms of Service**, and the proposed changes are now [open for feedback](https://archiveofourown.org/admin_posts/30349). The Board of Directors will vote on the proposed changes on **November 18, 2024. If the vote passes, you will have to agree to the new Terms to continue using AO3.** Check out [our news post](https://archiveofourown.org/admin_posts/30349) to provide your feedback prior to the vote.
