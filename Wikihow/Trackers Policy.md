@@ -139,24 +139,22 @@ Save settings
 
 ### Featured Articles
 
+[![Finding Dimes Meaning](https://www.wikihow.com/images/thumb/5/59/Finding-Dimes-Meaning-Step-12.jpg/-crop-126-120-126px-Finding-Dimes-Meaning-Step-12.jpg)
+
+What Does it Mean When You Find a Dime?](https://www.wikihow.com/Finding-Dimes-Meaning)
+
+[![What Does WSP Mean](https://www.wikihow.com/images/thumb/d/d7/What-Does-WSP-Mean-Step-11.jpg/-crop-126-120-126px-What-Does-WSP-Mean-Step-11.jpg)
+
+What Does WSP Mean?](https://www.wikihow.com/What-Does-WSP-Mean)
+
+[![Are You Smarter than a 5th Grader Quiz](https://www.wikihow.com/images/thumb/7/76/Are_you_smarter_than_a_fifth_grader_quiz.png/-crop-126-120-126px-Are_you_smarter_than_a_fifth_grader_quiz.png)
+
+Am I Smarter than a 5th Grader Quiz](https://www.wikihow.com/Are-You-Smarter-than-a-5th-Grader-Quiz)
+
 [![Make Instant Coffee](https://www.wikihow.com/images/thumb/1/12/Make-Instant-Coffee-Step-22-Version-6.jpg/-crop-126-120-126px-Make-Instant-Coffee-Step-22-Version-6.jpg)
 
 How to  
 Brew a Cup of Instant Coffee: 5 Delicious Methods](https://www.wikihow.com/Make-Instant-Coffee)
-
-[![Text a Guy Without Looking Desperate](https://www.wikihow.com/images/thumb/e/ef/Text-a-Guy-Without-Looking-Desperate-Step-12.jpg/-crop-126-120-126px-Text-a-Guy-Without-Looking-Desperate-Step-12.jpg)
-
-How to  
-Text a Guy Without Looking Desperate](https://www.wikihow.com/Text-a-Guy-Without-Looking-Desperate)
-
-[![Palm Reading Love Line](https://www.wikihow.com/images/thumb/2/2d/Palm-Reading-Love-Line-Step-13.jpg/-crop-126-120-126px-Palm-Reading-Love-Line-Step-13.jpg)
-
-A Complete Guide to Reading and Understanding Your Love Lines](https://www.wikihow.com/Palm-Reading-Love-Line)
-
-[![Become Valedictorian](https://www.wikihow.com/images/thumb/2/26/Become-Valedictorian-Step-15-Version-3.jpg/-crop-126-120-126px-Become-Valedictorian-Step-15-Version-3.jpg)
-
-How to  
-Become Valedictorian](https://www.wikihow.com/Become-Valedictorian)
 
   
 
@@ -199,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-148
+189
