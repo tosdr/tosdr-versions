@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-d5621f8f4ad7e89603d7c265969b1f38
+4fc45e18078cb39fabaddb235761df46
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Rose cloud clasp](https://sojourner.biz/images/cache/SKU0436front.200.jpg)](https://sojourner.biz/clasps/glass/rose-cloud-clasp.html "Rose cloud clasp")
+[![5 mm by 15 mm top-drilled Czech glass daggers](https://sojourner.biz/images/cache/glass/GL0224strand.200.jpg)](https://sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
 
-#### [Rose cloud clasp](https://sojourner.biz/clasps/glass/rose-cloud-clasp.html "Rose cloud clasp")
+#### [5 mm by 15 mm top-drilled Czech glass daggers](https://sojourner.biz/beads/glass/5-mm-by-15-mm-top-drilled-czech-glass-daggers.html "5 mm by 15 mm top-drilled Czech glass daggers")
 
-$23.50
+$10.00
 
 ### Best Sellers
 
