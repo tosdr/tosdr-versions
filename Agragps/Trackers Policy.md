@@ -92,9 +92,9 @@ Close
     
     $3,380.00
     
-     [![CLAAS-JD LEXION 5XX](https://www.agragps.com/wp-content/uploads/2022/02/xIMG_8699-thegem-product-justified-square-xxs.jpg.pagespeed.ic.dU3qTGQ9zl.jpg)](https://www.agragps.com/product/claas-jd-lexion-5xx/)
+     [![GLEANER-JD S9 COMBINE](https://www.agragps.com/wp-content/uploads/2022/04/xgleanerS9-thegem-product-justified-square-xxs.jpg.pagespeed.ic.IAuaYVekyN.jpg)](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
-    [CLAAS-JD LEXION 5XX](https://www.agragps.com/product/claas-jd-lexion-5xx/)
+    [GLEANER-JD S9 COMBINE](https://www.agragps.com/product/gleaner-jd-s9-combine/)
     
     $3,380.00
     
@@ -110,21 +110,21 @@ Close
     
     Accessories
     
-     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
+     [![CRG – GPS receiver](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-gps-receiver/)
     
-    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
+    [CRG – GPS receiver](https://www.agragps.com/product/crg-gps-receiver/)
     
-    $160.00
+    USD $4,400.00 – $4,600.00
     
-     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R2UtLQrlYG.jpg)](https://www.agragps.com/product/fendt-mount/)
     
-    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
+    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
     
     $120.00
     
-     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
+     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
     
-    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
+    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
     
     $120.00
     
@@ -230,15 +230,15 @@ Menu
     
     BRIDGE
     
-     [![MASSEY-8S.XXX-JD](https://www.agragps.com/wp-content/uploads/2022/07/xMassey-8s.265-thegem-product-justified-square-xxs.jpg.pagespeed.ic.j2fuPYRu_Z.jpg)](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
-    [MASSEY-8S.XXX-JD](https://www.agragps.com/product/massey-8s-jd-bridge/)
+    [GOLDACRES-JD CROP CRUISER](https://www.agragps.com/product/goldacres-jd-crop-cruiser/)
     
     $3,380.00
     
-     [![CLAAS-JD LEXION 5XX](https://www.agragps.com/wp-content/uploads/2022/02/xIMG_8699-thegem-product-justified-square-xxs.jpg.pagespeed.ic.dU3qTGQ9zl.jpg)](https://www.agragps.com/product/claas-jd-lexion-5xx/)
+     [![Massey Swather (99XX)](https://www.agragps.com/wp-content/uploads/2022/04/xmassey-thegem-product-justified-square-xxs.jpg.pagespeed.ic.AN9fXCPQno.jpg)](https://www.agragps.com/product/massey-swather-99xx/)
     
-    [CLAAS-JD LEXION 5XX](https://www.agragps.com/product/claas-jd-lexion-5xx/)
+    [Massey Swather (99XX)](https://www.agragps.com/product/massey-swather-99xx/)
     
     $3,380.00
     
@@ -254,9 +254,15 @@ Menu
     
     Accessories
     
-     [![CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_113156-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vZKxKCHxk4.jpg)](https://www.agragps.com/product/case-combine-mount/)
+     [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
-    [CASE CNH COMBINE ROOF MOUNT](https://www.agragps.com/product/case-combine-mount/)
+    [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
+    
+    $160.00
+    
+     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+    
+    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
     
     $120.00
     
@@ -265,12 +271,6 @@ Menu
     [CLAAS AXION ROOF MOUNT – REAR](https://www.agragps.com/product/claas-axion-roof-mount/)
     
     $120.00
-    
-     [![TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2023/06/xTRION-MOUNT-1-1-e1688003197417-thegem-product-justified-square-xxs.jpg.pagespeed.ic.fVGd8dRxhJ.jpg)](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
-    
-    [TRION CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/trion-claas-lexion-roof-mount/)
-    
-    $90.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -1991,6 +1991,6 @@ Save Preferences
 
 [Terms of Service & Privacy Policy](https://www.agragps.com/terms-of-use/) [Cookies Policy](https://www.agragps.com/terms-of-use/)
 
-                                                                        
+                                                                          
 
 [Digitalagentur Forge12 Interactive GmbH](https://www.forge12.com/ "Digital Agentur")
