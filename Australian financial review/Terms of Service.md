@@ -335,15 +335,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Nick Molnar and Anthony Eisen. Afterpay celebrated its 10th birthday this week.](https://static.ffx.io/images/$zoom_0.3198%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_362%2C$y_177/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/96f252ef88d6f566d8328495e51c90d6de82ebaf)](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
+[![ ](https://static.ffx.io/images/$zoom_0.9619%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/32fbcd6361d49bc885ca733a211bb012c8390655)](https://www.afr.com/property/commercial/rich-lister-strikes-three-with-170-million-adelaide-mall-deal-20241113-p5kq81)
 
-### [Inside a decade-long rollercoaster ride with Afterpay’s Nick Molnar](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
+### [Rich Lister strikes three with $170 million Adelaide mall deal](https://www.afr.com/property/commercial/rich-lister-strikes-three-with-170-million-adelaide-mall-deal-20241113-p5kq81)
 
-* James Eyers and Jonathan Shapiro
+* 46 mins ago
+* Nick Lenaghan
 
-* ### [The property giant that will soon build more data centres than sheds](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
+* ### [Inside a decade-long rollercoaster ride with Afterpay’s Nick Molnar](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
     
-* ### [Billionaire pays $1.6b for Anglo’s stake in Qld mines](https://www.afr.com/companies/mining/billionaire-sam-chong-pays-1-6b-for-anglo-s-stake-in-queensland-mines-20241104-p5knub)
+* ### [The property giant that will soon build more data centres than sheds](https://www.afr.com/property/commercial/the-property-giant-that-will-soon-build-more-data-centres-than-sheds-20241106-p5ko9y)
     
 
 [The Australian Financial Review](https://www.afr.com/)
