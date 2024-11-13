@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3be5b157fbc50fea23df965438f9e4fe
+ef5630638cd8a82082b3e54832a66aeb
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![10 mm faceted round zebra jasper beads](https://www.sojourner.biz/images/cache/stone/STN013.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-faceted-round-zebra-jasper-beads.html "10 mm faceted round zebra jasper beads")
+[![3 mm round rose quartz beads](https://www.sojourner.biz/images/cache/rose_quartz/RQ0004.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/3-mm-round-rose-quartz-beads.html "3 mm round rose quartz beads")
 
-#### [10 mm faceted round zebra jasper beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-faceted-round-zebra-jasper-beads.html "10 mm faceted round zebra jasper beads")
+#### [3 mm round rose quartz beads](https://www.sojourner.biz/beads/stone-m-z/rose-quartz/3-mm-round-rose-quartz-beads.html "3 mm round rose quartz beads")
 
-$15.00
+$8.00
 
 ### Best Sellers
 
