@@ -289,9 +289,3 @@ Mon-Saturday 8am-5pm MST
 © Copyright 2024 Pilot Institute. All Rights Reserved.
 
 [Back to Top](#header)
-
-![](https://pilotinstitute.com/wp-content/themes/pilotinstitute/dist/images/notification_8a98ab1a.png)
-
-#### Scored % on their FAA Exam
-
-x
