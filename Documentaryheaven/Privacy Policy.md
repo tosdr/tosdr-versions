@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Derek Tastes of Ear Wax](/wp-content/thumbnails/226-100x70.png?x53432)
+* [![Forced Adoption In The UK](/wp-content/thumbnails/9738-100x70.jpg?x53432)
     
-    Derek Tastes of Ear Wax
+    Forced Adoption In The UK
     
-    This documentary looks at the fact that perhaps one in every hundred people experiences a blending of the senses.Imagine if every time you saw someone called Derek you got a strong taste of earwax](https://documentaryheaven.com/derek-tastes-of-ear-wax/ "Derek Tastes of Ear Wax")
-* [![Slavery in the Chocolate Industry](/wp-content/thumbnails/6740-100x70.png?x53432)
+    RT (Russia Today) recently released this film which shines a light on one of the more controversial issues faced by some parents in living in the United Kingdom today and thats forced adoption. The UK](https://documentaryheaven.com/forced-adoption-in-the-uk/ "Forced Adoption In The UK")
+* [![Architects & Engineers: Solving the Mystery of WTC 7](/wp-content/thumbnails/6029-100x70.jpg?x53432)
     
-    Slavery in the Chocolate Industry
+    Architects & Engineers: Solving the Mystery of WTC 7
     
-    Although slavery is no longer legal there are still millions of people living in slavery today. One place and industry where slaves still exist is the cocoa industry. This documentary takes a deeper l](https://documentaryheaven.com/slavery-in-the-chocolate-industry/ "Slavery in the Chocolate Industry")
-* [![Death Grip: Inside Pro Wrestling](/wp-content/thumbnails/8280-100x70.png?x53432)
+    AE911Truth's new 9/11 documentary Solving the Mystery, the destruction of World Trade Center Building #7, WTC 7 on 9/11/01. Join actor, Ed Asner and Architect Richard Gage, AIA and Architects and Engi](https://documentaryheaven.com/architects-engineers-solving-the-mystery-of-wtc-7/ "Architects & Engineers: Solving the Mystery of WTC 7")
+* [![Places that dont Exist – The Caucasus](/wp-content/thumbnails/4314-100x70.jpg?x53432)
     
-    Death Grip: Inside Pro Wrestling
+    Places that dont Exist – The Caucasus
     
-    The dark side, beyond the wrestling ring. A shocking murder suicide, pro wrestlers dying young and allegations of drug abuse. In the fall of 2005 following the year he wore the championship belt, prof](https://documentaryheaven.com/death-grip-inside-pro-wrestling/ "Death Grip: Inside Pro Wrestling")
-* [![CRACKHOUSE](/wp-content/thumbnails/8625-100x70.jpg?x53432)
+    There are almost 200 official countries in the world. But there are dozens more breakaway states which are determined to be separate and independent.The breakaway states have their own rulers, par](https://documentaryheaven.com/places-that-dont-exist-the-caucasus/ "Places that dont Exist – The Caucasus")
+* [![Discovery Channel: Heroin Nation](/wp-content/thumbnails/1112-100x70.jpg?x53432)
     
-    CRACKHOUSE
+    Discovery Channel: Heroin Nation
     
-    CRACKHOUSE is a "Real Life" documentary by the BBC where ex-crack cocaine user Carl John or 'CJ' revisits his home town in Liverpool to get back in touch with some old friends who are all now addicted](https://documentaryheaven.com/crackhouse/ "CRACKHOUSE")
-* [![The Dream Team](/wp-content/thumbnails/9247-100x70.jpg?x53432)
+    Cocaine Nation and Heroin Nation premiered on the Discovery channel this week. The two series are rated TV-14 because of the subject matter and some disturbing footage of drug abuse. Both series take](https://documentaryheaven.com/discovery-channel-heroin-nation/ "Discovery Channel: Heroin Nation")
+* [![A Mathematical Mystery Tour](/wp-content/thumbnails/7760-100x70.jpg?x53432)
     
-    The Dream Team
+    A Mathematical Mystery Tour
     
-    To celebrate the 20th anniversary of the 1992 American Olympic team, The Dream Team, which to this day is considered one of the greatest sporting teams ever assembled, NBA TV created this documentary](https://documentaryheaven.com/dream-team/ "The Dream Team")
+    A fascinating BBC Horizon program from 1984 looking at the greatest unsolved problems in mathematics including Fermat’s Last Theorem (since solved), The Goldback Conjecture, The Riemann hypothesis, th](https://documentaryheaven.com/mathematical-mystery-tour/ "A Mathematical Mystery Tour")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
