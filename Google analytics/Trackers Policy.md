@@ -16,7 +16,7 @@
 
 [* Get started with Analytics](https://support.google.com/analytics/topic/14090456?hl=en&ref_topic=3544742,2986333,)[* Collect and manage data](https://support.google.com/analytics/topic/14132937?hl=en&ref_topic=3544742,2986333,)[* Report and explore](https://support.google.com/analytics/topic/9228654?hl=en&ref_topic=3544742,2986333,)[* Advertising and attribution](https://support.google.com/analytics/topic/10595744?hl=en&ref_topic=3544742,2986333,)[* Audiences and remarketing](https://support.google.com/analytics/topic/9303474?hl=en&ref_topic=3544742,2986333,)[* Manage accounts, properties, and users](https://support.google.com/analytics/topic/9303569?hl=en&ref_topic=3544742,2986333,)[* Google Analytics 360](https://support.google.com/analytics/topic/10985992?hl=en&ref_topic=3544742,2986333,)[* Migrate from UA to GA4 \[Legacy\]](https://support.google.com/analytics/topic/10737980?hl=en&ref_topic=3544742,2986333,)[* Policies and data privacy](https://support.google.com/analytics/topic/1008008?hl=en&ref_topic=3544742,2986333,)
 
-[* Community](https://support.google.com/analytics/community?hl=en&help_center_link=[2700409,%22[GA4]%20Policy%20requirements%20for%20Google%20Analytics%20Advertising%20Features%22])[* Analytics](https://www.google.com/analytics/)
+[* Community](https://support.google.com/analytics/community?hl=en&help_center_link=CPnopAESQ1tHQTRdIFBvbGljeSByZXF1aXJlbWVudHMgZm9yIEdvb2dsZSBBbmFseXRpY3MgQWR2ZXJ0aXNpbmcgRmVhdHVyZXM)[* Analytics](https://www.google.com/analytics/)
 
 [* Privacy Policy](https://www.google.com/intl/en/privacy.html)[* Terms of Service](https://www.google.com/accounts/TOS)[* Submit feedback](about:invalid#zjslayoutz)
 
@@ -29,7 +29,7 @@ General Help Center experience
 Next
 
 * [Help Center](https://support.google.com/analytics/?hl=en)
-* [Community](https://support.google.com/analytics/community?hl=en&help_center_link=[2700409,%22[GA4]%20Policy%20requirements%20for%20Google%20Analytics%20Advertising%20Features%22])
+* [Community](https://support.google.com/analytics/community?hl=en&help_center_link=CPnopAESQ1tHQTRdIFBvbGljeSByZXF1aXJlbWVudHMgZm9yIEdvb2dsZSBBbmFseXRpY3MgQWR2ZXJ0aXNpbmcgRmVhdHVyZXM)
 * [Announcements](https://support.google.com/analytics/announcements/10707884)
 
 [Analytics](https://www.google.com/analytics/) [Contact us](https://support.google.com/analytics/gethelp)
@@ -132,7 +132,7 @@ Need more help?
 
 ### Try these next steps:
 
-[Post to the help community Get answers from community members](https://support.google.com/analytics/community?hl=en&help_center_link=[2700409,%22[GA4]%20Policy%20requirements%20for%20Google%20Analytics%20Advertising%20Features%22])[Contact us Tell us more and we’ll help you get there](https://support.google.com/analytics/gethelp)
+[Post to the help community Get answers from community members](https://support.google.com/analytics/community?hl=en&help_center_link=CPnopAESQ1tHQTRdIFBvbGljeSByZXF1aXJlbWVudHMgZm9yIEdvb2dsZSBBbmFseXRpY3MgQWR2ZXJ0aXNpbmcgRmVhdHVyZXM)[Contact us Tell us more and we’ll help you get there](https://support.google.com/analytics/gethelp)
 
 true
 
@@ -242,7 +242,7 @@ Google apps
 
 Main menu
 
-11937488752116648261
+18077688530761117623
 
 true
 
@@ -260,6 +260,6 @@ true
 
 69256
 
-false
+true
 
 false
