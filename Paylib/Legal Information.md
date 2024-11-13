@@ -239,6 +239,24 @@ Chez SBE, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/
 
 [En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
 
+![Crédit Agricole](https://www.paylib.fr/wp-content/uploads/2023/03/SG_APP.svg) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez Société Générale, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
+
+![Crédit Agricole](https://www.paylib.fr/wp-content/uploads/2019/09/CIC-logo.svg) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez CIC, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
+
+![Crédit Agricole](https://www.paylib.fr/wp-content/uploads/2019/09/Fill-12.svg) ![Wero](/wp-content/themes/paylib/dist/images/etapes/wero-small.svg)
+
+Chez Crédit Mutuel, Paylib passe le relais à ![Logo Wero](/wp-content/themes/paylib/dist/images/logo-wero-small.svg) !
+
+[En savoir +](https://www.paylib.fr/activer-paylib/#more-infos)
+
  J’accepte que ce numéro de téléphone mobile soit utilisé par Paylib pour me guider dans l’utilisation du service
 
 Merci, un SMS vous a été envoyé pour activer Paylib dans l'application de votre banque
