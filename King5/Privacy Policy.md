@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f0577f17-c9c1-4a07-95e4-13f9bc465159/20241113T014506/f0577f17-c9c1-4a07-95e4-13f9bc465159_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f0577f17-c9c1-4a07-95e4-13f9bc465159/20241113T014506/f0577f17-c9c1-4a07-95e4-13f9bc465159_360x203.jpg)](https://www.king5.com/article/news/local/king-county-prosecutors-share-tips-avoid-scams/281-1cdef9a8-9f48-45ae-a9ff-51d796fceaa6)
+    *  [![](https://media.king5.com/assets/KING/images/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840/20241113T072322/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840_16x9.jpg) ![](https://media.king5.com/assets/KING/images/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840/20241113T072322/95c8f0f5-53e5-4c6f-ba9e-45e4e21b6840_360x203.jpg)](https://www.king5.com/article/news/local/everett/everett-weighs-options-aquasox-stadium-council-to-make-decision-december/281-aca164ed-a6db-4c3f-8f63-0b0663a4e952)
         
-        #### [King County prosecutors share tips to avoid scams](https://www.king5.com/article/news/local/king-county-prosecutors-share-tips-avoid-scams/281-1cdef9a8-9f48-45ae-a9ff-51d796fceaa6)
+        #### [City of Everett weighs options for future of Aquasox baseball](https://www.king5.com/article/news/local/everett/everett-weighs-options-aquasox-stadium-council-to-make-decision-december/281-aca164ed-a6db-4c3f-8f63-0b0663a4e952)
         
-    *  [![](https://media.king5.com/assets/KING/images/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f/20241113T011610/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f/20241113T011610/dc3c5b5f-f2fd-44e5-b65f-14560058ef4f_360x203.jpg)](https://www.king5.com/article/news/crime/ice-axe-violently-kill-father-seattle/281-cd2da8b7-c0e8-4043-9950-661c4d4ce5b2)
+    *  [![](https://media.king5.com/assets/KING/images/6c870a77-47fa-41b3-968a-cb4cfda213b0/20241113T070814/6c870a77-47fa-41b3-968a-cb4cfda213b0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6c870a77-47fa-41b3-968a-cb4cfda213b0/20241113T070814/6c870a77-47fa-41b3-968a-cb4cfda213b0_360x203.jpg)](https://www.king5.com/article/news/local/camp-long-fire-seattle-parks-citywide-budget-cuts/281-83e15d84-50a9-45de-ac51-68c55d80cc61)
         
-        #### [Ice ax used by woman to violently kill father in south Seattle home, charges say](https://www.king5.com/article/news/crime/ice-axe-violently-kill-father-seattle/281-cd2da8b7-c0e8-4043-9950-661c4d4ce5b2)
+        #### [Prior to Camp Long fire, Seattle parks were facing citywide budget cuts](https://www.king5.com/article/news/local/camp-long-fire-seattle-parks-citywide-budget-cuts/281-83e15d84-50a9-45de-ac51-68c55d80cc61)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-52°
+49°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
