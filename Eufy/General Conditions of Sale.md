@@ -659,7 +659,7 @@ Search our shop
 
 Sign in / Sign up
 
-[Order Track](https://us.eufy.com/apps/aftership?ref=header?ref=navimenu_12_2_copy)
+[Order Track](https://www.eufy.com/order-tracker?ref=header?ref=navimenu_12_2_copy)
 
 [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=header?ref=navimenu_12_3_copy)
 
@@ -686,7 +686,7 @@ Search our shop
 * Explore
 * Support
 
-* [Order Track](https://us.eufy.com/apps/aftership?ref=header?ref=navimenu_12_2_copy)
+* [Order Track](https://www.eufy.com/order-tracker?ref=header?ref=navimenu_12_2_copy)
 * [Refer Friends to get up to $80 per referral!](https://www.eufy.com/referral-new?ref=header?ref=navimenu_12_3_copy)
 
 Sign in Sign up
