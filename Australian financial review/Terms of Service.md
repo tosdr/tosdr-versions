@@ -339,7 +339,6 @@ Advertise
 
 ### [Rich Lister strikes three with $170 million Adelaide mall deal](https://www.afr.com/property/commercial/rich-lister-strikes-three-with-170-million-adelaide-mall-deal-20241113-p5kq81)
 
-* 46 mins ago
 * Nick Lenaghan
 
 * ### [Inside a decade-long rollercoaster ride with Afterpay’s Nick Molnar](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
