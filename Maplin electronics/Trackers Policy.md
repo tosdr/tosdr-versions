@@ -535,7 +535,7 @@ Browse
     * Security
         
         * [Security](https://www.maplin.co.uk/collections/security)
-        * [Tracking Tags](https://www.maplin.co.uk/collections/tracking-tags)
+        * [Item Finders](https://www.maplin.co.uk/collections/item-finders)
         * [Security Cameras](https://www.maplin.co.uk/collections/security-cameras)
         * [Floodlights](https://www.maplin.co.uk/collections/floodlights)
         * [Doorbells](https://www.maplin.co.uk/collections/doorbells)
@@ -1328,7 +1328,7 @@ Browse
     
     [Security](https://www.maplin.co.uk/collections/security)
     
-    * [Tracking Tags](https://www.maplin.co.uk/collections/tracking-tags)
+    * [Item Finders](https://www.maplin.co.uk/collections/item-finders)
     * [Security Cameras](https://www.maplin.co.uk/collections/security-cameras)
     * [Floodlights](https://www.maplin.co.uk/collections/floodlights)
     * [Doorbells](https://www.maplin.co.uk/collections/doorbells)
