@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/1336.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -105,23 +105,33 @@ Nos univers thématiques
 
 [![80x80_Icon_Gaming.png](/medias/80x80-Icon-Gaming.png?context=bWFzdGVyfGNtc3w0OTB8aW1hZ2UvcG5nfGFEbGpMMmhtTWk4NE1IZzRNRjlKWTI5dVgwZGhiV2x1Wnk1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdk9EQjRPREJmU1dOdmJsOUhZVzFwYm1jdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa3w4M2UyNjM4ZjE5NjgzYjI2MDA0MTJhY2NhNDRkN2YwNWQ2YjM0M2Q3MTYwYzVkNzU2NzhjNWRhNjE2Y2YzYjMz)
 
-Gaming](https://www.microspot.ch/fr/cms/gaming)
+Gaming
 
-[![80x80_I24_Icons_009_CM1_Icons_New5.png](/medias/80x80-I24-Icons-009-CM1-Icons-New5.png?context=bWFzdGVyfGNtc3w0ODV8aW1hZ2UvcG5nfGFHUXlMMmd3Wmk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURBNVgwTk5NVjlKWTI5dWMxOU9aWGMxTG5CdVoxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NWUwYzg2ZWE1ZmFmY2RlODM0ZGIxZjIwNjE1NmZlYWZlNzZiMDAwZmY3NGQxOTY3YTQ5ZTk2NmVjYTg5YzJiNA)
-
-Trade-In Service](https://www.microspot.ch/fr/cms/trade-in)
+Le meilleur du monde du jeu](https://www.microspot.ch/fr/cms/gaming)
 
 [![CM5_Bild_Icon_E_Mobility_300x300.png](/medias/CM5-Bild-Icon-E-Mobility-300x300.png?context=bWFzdGVyfGNtc3w3NTh8aW1hZ2UvcG5nfGFEVTNMMmcyWmk5RFRUVmZRbWxzWkY5SlkyOXVYMFZmVFc5aWFXeHBkSGxmTXpBd2VETXdNQzV3Ym1kVGRHRm5aV1J2Y0hScGJXbDZaV1F2UTAwMVgwSnBiR1JmU1dOdmJsOUZYMDF2WW1sc2FYUjVYek13TUhnek1EQXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NzY2NDk0NTlkOTIwZTI3YzU5NTJjZmFlMGMyZjk0ZWIwNjk1YTQ3Yjg2ZGY5YmVjYzAyYWI0Njk3MGMxNzY3OA)
 
-Ce qu'il faut savoir sur les produits E-Mobility](https://www.microspot.ch/fr/cms/mobilite)
+les produits E-Mobility
 
-[![80x80_Icon_Gadgets.png](/medias/80x80-Icon-Gadgets.png?context=bWFzdGVyfGNtc3w0Mjd8aW1hZ2UvcG5nfGFEZGxMMmhoWWk4NE1IZzRNRjlKWTI5dVgwZGhaR2RsZEhNdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBsamIyNWZSMkZrWjJWMGN5NXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXw5ZGY3Y2EyNmFkOTZhZDdiODJjYzc5NzVjOGJkNTY5ZjMwOTdkNWIwNWM1MjEyMWE5NzE1YjI4ZWRiZTJlNGI1)
-
-Gadgets](https://www.microspot.ch/fr/cms/gadget)
+Bon à savoir et offres spéciales](https://www.microspot.ch/fr/cms/mobilite)
 
 [![80x80_I24_Icons_016_Baby.png](/medias/80x80-I24-Icons-016-Baby.png?context=bWFzdGVyfGNtc3wxMTYyfGltYWdlL3BuZ3xhRGN4TDJnMFlpODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTJYMEpoWW5rdWNHNW5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6Z3dlRGd3WDBreU5GOUpZMjl1YzE4d01UWmZRbUZpZVM1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRfDRkY2YxMjIzZDE2ZmQ0OWI2ZDA5Zjk1YzIyNjU2ODAwNTkwMjUxYTAzM2M4Njk4ZWExYzkwMGNlMWMzMDA3ZTY)
 
-Bébé & Famille](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
+Bébé & Famille
+
+sécurité, confort et soins dès le début](https://www.microspot.ch/fr/cms/tout-pour-la-famille-bebe)
+
+[![80x80_I24_Icons_018_Season_Restposten2.png](/medias/80x80-I24-Icons-018-Season-Restposten2.png?context=bWFzdGVyfGNtc3w1MDF8aW1hZ2UvcG5nfGFEWmxMMmhtT0M4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdU1pNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhPRjlUWldGemIyNWZVbVZ6ZEhCdmMzUmxiakl1Y0c1blUzUmhaMlZrYjNCMGFXMXBlbVZrfGI5NjEyNTE0MTBiMGY5ZWYxNmRjNWQ4ZWVmNTVjOWI0ZTMxMWFmMGE2ZWJlZDUyNWNjYzBmMDA1NGM5ZmE4MjA)
+
+Season Deals
+
+Offres spéciales saisonnières](https://www.microspot.ch/de/cms/season-deals)
+
+[![80x80_I24_Icons_018_Season_Restposten.png](/medias/80x80-I24-Icons-018-Season-Restposten.png?context=bWFzdGVyfGNtc3wzNTV8aW1hZ2UvcG5nfGFEQXpMMmhsTXk4NE1IZzRNRjlKTWpSZlNXTnZibk5mTURFNFgxTmxZWE52Ymw5U1pYTjBjRzl6ZEdWdUxuQnVaMU4wWVdkbFpHOXdkR2x0YVhwbFpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERTRYMU5sWVhOdmJsOVNaWE4wY0c5emRHVnVMbkJ1WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXxlZmFhNDQ5YzUzZjg4MzE0YTk2NzllOGI4NGYzZWYwYmE5ZjY0NTVhNzJiODkwNzY0YmFmZDA1NzlhZWJkNTc5)
+
+Fins de Series
+
+Pièces Isoleès à Prix Fous](https://www.microspot.ch/fr/cms/fins-de-series)
 
 [![CM4_300x150_Fitness.png](/medias/CM4-300x150-Fitness.png?context=bWFzdGVyfGNtc3wxMTc2fGltYWdlL3BuZ3xZMjF6TDJnME1DOW9aak12UTAwMFh6TXdNSGd4TlRCZlJtbDBibVZ6Y3k1d2JtZFRkR0ZuWldSdmNIUnBiV2w2WldRdWNHNW58MjE1NjE0Njg0ZDk4YzMzYmE4Mzk1N2M3YzUyODdkYjMwZTM4MmY4NzBjMWNiY2YwODM1YjgyZmM5NTJhMWE2NQ)
 
@@ -217,9 +227,9 @@ Achetez comme vous aimez
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Retrait gratuit
+[Garantie Plus
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
