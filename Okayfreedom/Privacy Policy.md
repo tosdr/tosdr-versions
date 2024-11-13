@@ -101,11 +101,11 @@ If you need information about the data we have stored or if you have questions, 
 
 **Product recommendations**
 
-* [VPN Online Shield](https://www.steganos.com/en/products/steganos-vpn-online-shield) ![](/images/okayfreedom/rating_5.png)
 * [Password Manager](https://www.steganos.com/en/products/steganos-password-manager) ![](/images/okayfreedom/rating_5.png)
 * [Data Safe](https://www.steganos.com/en/products/steganos-data-safe) ![](/images/okayfreedom/rating_4.png)
 * [PC Tuning PRO](https://www.steganos.com/en/products/steganos-pc-tuning-pro) ![](/images/okayfreedom/rating_5.png)
-* [What is my IP](https://www.steganos.com/what-is-my-ip) ![](/images/okayfreedom/rating_5.png) 
+* [What is my IP](https://www.steganos.com/what-is-my-ip) ![](/images/okayfreedom/rating_5.png)
+* [Steganos VPN](https://www.steganos.com/en/products/steganos-vpn-online-shield) ![](/images/okayfreedom/rating_5.png) 
 
 * [Home](https://www.okayfreedom.com/en/)
 * [FAQ & Support](https://steganos.zendesk.com/hc/en-us/categories/360001818394)
