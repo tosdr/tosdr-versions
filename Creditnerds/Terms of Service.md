@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic, 2D cartoon-style image of a concerned character with glasses holding a document labeled 'Bankruptcy Costs' with a thoughtful expression. The character is surrounded by financial icons such as dollar signs, a calculator, and court symbols, symbolizing the expenses associated with filing for bankruptcy. The background includes elements like paperwork stacks and a question mark, using flat colors and minimal shading to keep the image approachable and easy to understand.](https://creditnerds.com/wp-content/uploads/2024/11/How-Much-Does-It-Cost-to-File-Bankruptcy-30x30.webp)](https://creditnerds.com/how-much-does-it-cost-to-file-bankruptcy/)
+
+[Credit](https://creditnerds.com/category/credit/)
+
+November 12, 2024
+
+#### [How Much Does It Cost to File Bankruptcy?](https://creditnerds.com/how-much-does-it-cost-to-file-bankruptcy/)
+
+Filing for bankruptcy is a significant financial decision, often considered a last resort when debt becomes unmanageable. But how much does it cost to file bankruptcy? The expenses can vary based on factors like the type of bankruptcy, the complexity of your case, and whether you hire an attorney. Here’s a breakdown of the typical …
+
+[Read More](https://creditnerds.com/how-much-does-it-cost-to-file-bankruptcy/)
+
 [![A semi-realistic, 2D cartoon-style image of a friendly character with glasses holding a checklist labeled 'Pay Off Holiday Debt' with a confident expression. Surrounding them are holiday-themed icons like gift boxes, a credit card, a piggy bank, and dollar signs, symbolizing strategies for managing and paying off holiday expenses. The background includes elements like a calendar and checklist items, using flat colors and minimal shading for an approachable and easy-to-follow design.](https://creditnerds.com/wp-content/uploads/2024/11/Holiday-Debt-30x30.webp)](https://creditnerds.com/how-to-pay-off-holiday-debt/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ October 15, 2024
 When you're financing a new home or refinancing an existing mortgage, finding the best mortgage rate is crucial. The good news is that you can negotiate mortgage rates to get a better deal. With careful preparation and smart tactics, you may save thousands over the life of your loan. Here’s how you can navigate the …
 
 [Read More](https://creditnerds.com/can-you-negotiate-mortgage-rates/)
-
-[![Cartoon-style image of a person wearing glasses, holding a checklist titled '7 Tips to Avoid Holiday Scams.' The character looks cautious, standing in front of a holiday-themed background with festive lights, gift boxes, and red warning symbols, representing the importance of staying vigilant against holiday scams.](https://creditnerds.com/wp-content/uploads/2024/10/Avoid-Holiday-Scams-30x30.webp)](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-October 9, 2024
-
-#### [7 Tips to Avoid Holiday Scams](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
-
-The holiday season brings joy, family time, and gift-giving, but it also increases the risk of scams and identity theft. As you juggle your to-do list and manage holiday expenses, fraudsters may see an opportunity to target you. To stay safe, follow these 7 tips to avoid holiday scams and protect your identity in 2024. …
-
-[Read More](https://creditnerds.com/7-tips-to-avoid-holiday-scams/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
