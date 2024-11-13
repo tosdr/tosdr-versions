@@ -141,10 +141,9 @@ Menu
         * [6\. Liability](#nav-freepik-responsibility)
         * [7\. Intellectual property](#nav-freepik-property)
         * [8\. License Agreement for Freepik Content](#nav-freepik-agreement)
-        * [9\. Fonts License Agreement](#nav-freepik-fonts)
-        * [10\. Conditions of Subscriptions Offered on the Website](#nav-conditions-subscriptions)
-        * [11\. Changes and Closure of the Website](#nav-freepik-modification)
-        * [12\. General and Contact Information](#nav-freepik-generalities)
+        * [9\. Conditions of Subscriptions Offered on the Website](#nav-conditions-subscriptions)
+        * [10\. Changes and Closure of the Website](#nav-freepik-modification)
+        * [11\. General and Contact Information](#nav-freepik-generalities)
     * [Freepik Online Editors](#nav-freepik-online-editor)
         * [1\. Use of our Service](#nav-freepik-online-editor-use-service)
         * [2\. Freepik Accounts](#nav-freepik-online-editor-accounts)
@@ -219,7 +218,7 @@ Menu
 Freepik Terms of use
 ====================
 
-#### October 2024
+#### November 2024
 
 This website is operated by Freepik Company, S.L., registered in the Commercial Registry of Málaga, volume 4994, sheet 217, page number MA-113059, with Tax Number B-93183366 and registered office at 13 Molina Lario St., 5th floor, 29015, Málaga, Spain ("**Company**").
 
@@ -305,7 +304,7 @@ The Company makes reasonable efforts in guaranteeing the lawfulness and quality 
 
 The User may generate different types of content using the AI Products offered by the Company on the Website. The use of the AI Products, as well as the content generated using such tools, is governed by the [AI Products Terms and Conditions](#nav-ai-products).
 
-The use of AI Products on the Website will be limited to the number of usage credits available to each User based on the Subscription they have purchased (for more information, see Section 10). The Company will inform the User on the Website of the number of usage credits available, as well as the usage credit cost of each AI Product. The AI Product usage credits available to each User will be reset at the start of each subscription period.
+The use of AI Products on the Website will be limited to the number of usage credits available to each User based on the Subscription they have purchased (for more information, see Section 9). The Company will inform the User on the Website of the number of usage credits available, as well as the usage credit cost of each AI Product. The AI Product usage credits available to each User will be reset at the start of each subscription period.
 
 #### 5\. Storage and Offer of Collaborator Content
 
@@ -351,6 +350,8 @@ If you believe that any content infringes third party rights or does not comply 
 
 #### 8\. License Agreement for Freepik Content
 
+##### 8.1. General
+
 The Company authorizes the User to download and use the Freepik Content under the terms of this Section (see Section 7 in relation to Sponsored Content). The Company and its licensors reserve all rights over the Freepik Content not expressly granted in this license to the User.
 
 Subject to the fulfillment of these Terms, the Company authorizes the User in a non-transferable, revocable, limited, non-exclusive manner and on a worldwide basis for the duration of the relevant rights; to download, use and modify the Freepik Content, in a device the User owns or controls and only for the purposes and uses allowed in these Terms.
@@ -371,9 +372,7 @@ When any Freepik Content is marked or identified as for editorial use, or when w
 
 The User acknowledges that some laws may impose limits on the use of Freepik Content. For this reason, the User agrees that it is the User's responsibility, and not the Company's, to verify that the applicable regulations in the User's jurisdiction do not prohibit the User's use of the Freepik Content.
 
-The authorization to use the Freepik Content shall be free provided that any use of the Freepik Content by the User is credited to the Company/Website as stated by the Company from time to time. In order to benefit from the Service or to use the Freepik Content without acknowledging the Company/Website, the User must purchase a premium subscription (hereinafter, the "**Premium Subscription**") in the Website and download the Freepik Content during the term of any such Premium Subscription. Conditions in Section 10 shall apply to the purchase of the Premium Subscription.
-
-Unless otherwise indicated, authorization to use Freepik Content is free of charge and conditioned upon any use by the User being duly attributed to the Website/Company and, where applicable, to the Contributor, as indicated by the Company at any given time. To benefit from the Service of using Freepik Content without the aforementioned attribution, the User must purchase a Premium or Premium+ Subscription on the Website and download the corresponding Freepik Content during the validity of that Subscription. The conditions established in Clause 10 of these Terms apply to the acquisition of different Subscriptions.
+Unless otherwise indicated, authorization to use Freepik Content is free of charge and conditioned upon any use by the User being duly attributed to the Website/Company and, where applicable, to the Collaborator, as indicated by the Company at any given time. To benefit from the Service of using Freepik Content without the aforementioned attribution, the User must purchase a Premium or Premium+ Subscription on the Website and download the corresponding Freepik Content during the validity of that Subscription. The conditions established in Clause 9 of these Terms apply to the acquisition of different Subscriptions.
 
 As a general rule, it is forbidden for a User to authorize any third parties to use the Freepik Content (or any modification of any Freepik Content). As an exception to the prohibition, the User may allow third parties to use the Freepik Content, when each and every of the following conditions are met:
 
@@ -391,7 +390,7 @@ The Company may, at any time, offer any content on the Website under a different
 
 The User’s rights under this Section will end automatically without any notice if the User breaches any of the Terms. In case of termination of the rights hereunder, the User shall cease using the Freepik Content and will destroy every copy, whether total or partial, thereof.
 
-#### 9\. Fonts License Agreement
+##### 8.2 Specific license conditions for Licensed Fonts
 
 The Company authorizes the User to download and use the licensed typographic fonts available on the Website ("**Licensed Fonts**") only in accordance with this condition. All rights in the Licensed Fonts not expressly granted to the User under this condition are reserved by the Company or its licensors.
 
@@ -401,7 +400,7 @@ The User may use the Licensed Fonts to design and develop documents, and may emb
 
 Likewise, the User may make use of the Licensed Fonts to design and develop websites and other web projects.
 
-Portions of the Licensed Fonts may use or contain open source software programs and software components. Their use is further governed by the terms of any open source license specified in the copyright files or license notices accompanying the Licensed Font.
+Portions of the Licensed Fonts may use or contain open source software programs and software components. Their use is further governed by the terms of any open source license specified in the copyright files or license notices accompanying the Licensed Fonts.
 
 Licensed Fonts may be provided to the User with certain copyright notices. The User must retain exactly as provided (and not remove or alter) such notices, following any instructions provided by the Company in each case.
 
@@ -412,13 +411,38 @@ The Users are expressly prohibited from:
 3. add any functionality to, or otherwise change, alter, adapt, modify or produce (or cause others to produce), derivative works of any part of the Licensed Fonts;
 4. disassemble, decompile, reverse engineer or otherwise attempt to discover the source code of the Licensed Fonts, or disable, override or otherwise circumvent any software protection mechanism.
 
-#### 10\. Conditions of Subscriptions Offered on the Website
+##### 8.3. Specific license conditions for Freepik Tunes Content
 
-##### 10.1. General Conditions of Subscriptions
+In addition to the licensing conditions set out in Section 8.1, this Section outlines the specific license granted by the Company to the User to use the AI-generated music, audio, and voice cover content available on Freepik Tunes, located at [tunes.freepik.com](https://tunes.freepik.com/), including any of its subdomains (the “Freepik Tunes Content”).
+
+The Company authorizes the User to download and use the Freepik Tunes Content under the terms of this Section. The Company and its licensors reserve all rights over the Freepik Tunes Content not expressly granted in these Conditions to the User.
+
+The Company authorizes the User in a non-transferable, revocable, limited, non-exclusive manner and on a worldwide basis for the duration of the relevant rights to download, use, copy, edit, incorporate, and synchronize the Freepik Tunes Content in a purely digital production. This production can incorporate or combine the Freepik Tunes Content with other independently created works by or for the User or on behalf of one of the User’s clients (a "Production") and can be distributed via:
+
+1. Websites;
+2. Social media platforms, such as X, TikTok, Facebook, or Instagram;
+3. Video sharing platforms, such as YouTube or Vimeo;
+4. Podcast distribution platforms, but solely in respect of audio-only Productions, in the nature of a podcast;
+5. Computer software applications (including mobile applications, or “apps”, and video games), not exceeding 1000 copies or downloads in aggregate.
+
+In addition to the other restrictions in Section 8.1, the use of Freepik Tunes Content under the license is subject to the following forbidden uses:
+
+1. Sub-licensing, re-selling, renting, lending, assigning, gifting, or otherwise transferring or distributing the Freepik Tunes Content to any third party, separate from the Production in which it is incorporated;
+2. Manufacturing, distributing, selling, or otherwise exploiting records, CDs, mp3s, or any other physical audio product embodying sound alone that incorporates Freepik Tunes Content;
+3. Using Freepik Tunes Content in an audio-only Production in which music is the primary content;
+4. Using Freepik Tunes Content in any public broadcast, including but not limited to TV shows, TV ads, documentaries, news, sports broadcasts, or children’s shows, cinema, radio, over-the-top services, IPTV, cablecast, satellite TV, theatrical releases, live settings, and on-demand television;
+5. Using Freepik Tunes Content in films, television, or theatrical productions;
+6. Using Freepik Tunes Content in or on any printed media, film, physical media (e.g., CD or DVD), or merchandise.
+
+The User may publish Productions incorporating Freepik Tunes Content on third-party "user-generated" content distribution platforms (e.g., YouTube) (each a "UGC Platform"). The User may not claim ownership of the Freepik Tunes Content or register any Freepik Tunes Content with any UGC Platform, even as synchronized with the Production. If the User becomes aware that any third party claims ownership interests in any Freepik Tunes Content, they agree to promptly notify the Company of each such claim.
+
+#### 9\. Conditions of Subscriptions Offered on the Website
+
+##### 9.1. General Conditions of Subscriptions
 
 The conditions in this section (the "Subscription Conditions") govern any purchase of a Subscription offered through the Website. It shall be deemed that, by completing the purchase process of any Subscription, the User has read and accepted without reservation the Subscription Conditions outlined in this section. For clarification purposes, the Subscription Conditions are additional to the Terms, which will continue to apply to Users who have purchased a Subscription, unless expressly stated otherwise.
 
-These Subscription Conditions, as well as any specific conditions applicable to the Services, can be printed by the User at any time before making a purchase. The available Subscriptions are offered on the Website, which includes information regarding them, how to contract them, their prices (in the corresponding currency and including, if applicable, the applicable Value Added Tax), and the conditions applicable to them (including, for example, daily download limits and the number of usage credits for AI Products). Subscriptions, except in the cases indicated in Section 10.2, are personal and cannot be transferred to third parties (including for these purposes, entities linked or belonging to the same group of companies).
+These Subscription Conditions, as well as any specific conditions applicable to the Services, can be printed by the User at any time before making a purchase. The available Subscriptions are offered on the Website, which includes information regarding them, how to contract them, their prices (in the corresponding currency and including, if applicable, the applicable Value Added Tax), and the conditions applicable to them (including, for example, daily download limits and the number of usage credits for AI Products). Subscriptions, except in the cases indicated in Section 9.2, are personal and cannot be transferred to third parties (including for these purposes, entities linked or belonging to the same group of companies).
 
 The price of the Subscriptions will be made using the payment methods accepted at any given time on the Website. The Company uses secure payment gateways and does not store, process, or transmit payment data related to the card itself or the cardholder (such as card number, holder, expiration date, service code, electronic signature, or cardholder authentication code, or bank account associated with the card). The Subscription will not be active until payment has been received or authorized by the corresponding payment entity. From that moment, the contracted Subscription will remain in force for the period contracted by the User. Once the purchase is completed, the User will receive the corresponding invoice.
 
@@ -430,7 +454,7 @@ If a Subscription is contracted on behalf of a legal entity, the User declares a
 
 As digital content is involved, no right of withdrawal applies, which the User expressly accepts, without prejudice to the guarantees established by consumer and user regulations that may apply, unless the Company indicates otherwise, in which case, it will be subject to the conditions established by the Company.
 
-##### 10.2. Guest Seats Contracting
+##### 9.2. Guest Seats Contracting
 
 The conditions in this section govern the contracting by an administrator User (the "Account Owner") of guest user accounts ("Seats") linked to their Owner account, allowing access to the Seats by different end-users ("Guests").
 
@@ -452,11 +476,11 @@ The Account Owner is solely responsible for:
 4. The legitimate access and use of the Services in accordance with these Terms (including the activities of the Guests); and
 5. All activities related to their Owner account and contracted Seats, regardless of whether the actions are performed by the Account Owner or the Guests.
 
-Both the Account Owner and the Guests will benefit from the advantages associated with the contracted Subscription, as described in section 10.4.
+Both the Account Owner and the Guests will benefit from the advantages associated with the contracted Subscription, as described in section 9.4.
 
-##### 10.3. Pausing, Modifying, or Canceling Subscriptions
+##### 9.3. Pausing, Modifying, or Canceling Subscriptions
 
-###### 10.3.1. Pausing the Subscription
+###### 9.3.1. Pausing the Subscription
 
 The User may, on certain occasions, pause their Subscription for a specified period while the Subscription is active. The User may pause and activate the Subscription during its validity period as many times as desired, provided it does not exceed the maximum aggregate pause period allowed by the Company, which will be indicated on the Website.
 
@@ -466,21 +490,21 @@ If the User exhausts the maximum aggregate pause period of the Subscription, it 
 
 If the User pauses their Subscription, the validity and renewal period of the Subscription will adjust based on the time the Subscription was paused.
 
-###### 10.3.2. Modifying the Subscription
+###### 9.3.2. Modifying the Subscription
 
 The User may upgrade the contracted Subscription at any time through their User account. When upgrading the contracted Subscription to a higher level, the update will be effective immediately, and the User must pay the full price of the new Subscription, retaining the unused AI Product usage credits up to the modification date, which will be added to those applicable to the new Subscription. Subscription modifications to lower levels will be effective at the end of the current billing period.
 
-###### 10.3.3. Canceling the Subscription and/or Contracted Seats
+###### 9.3.3. Canceling the Subscription and/or Contracted Seats
 
 The User may cancel the renewal of their Subscription and/or contracted Seats at any time through their profile. The Subscription and/or contracted Seats will remain in effect for the duration of the billing period. At the end of the subscription period, the Subscription benefits and/or contracted Seats will end for the User. Unused AI Product usage credits cannot be consumed once the Subscription ends.
 
-###### 10.3.4. Purchase of extra credits for usage of AI Products
+###### 9.3.4. Purchase of extra credits for usage of AI Products
 
 Depending on the type of Subscription purchased, the User may be able to purchase additional packages of credits for the usage of the AI Products (the ‘Extra Credits’) offered by the Company. The price and the number of credits included in each package of Extra Credits shall be those indicated on the Website at the time of purchase. Extra Credits contracted by the User and not consumed will be automatically transferred to the following periods of the User’s Subscription (rollover). Extra Credits will be consumed once the User has used up the credits associated with his/her current Subscription during the corresponding subscription period and, in any case, only for as long as they maintain an active Subscription. In the event that the User cancels the Subscription and becomes a free User, the unused Extra Credits will be automatically cancelled, without the possibility of any refund or compensation whatsoever. At the time of purchasing the Extra Credits, the User may select the option to convert the purchase of Extra Credits into a recurring purchase. In this case, once the number of Extra Credits available reaches the minimum number indicated by the Company, a new package of Extra Credits will be automatically contracted, with the same price conditions as for the first purchase. The Company may modify the purchase prices of the Extra Credits at any time, provided that it notifies the User who has chosen the recurring contracting option at least 30 days prior to its entry into force, with the email address associated with their account being the means of such communication. The Extra Credits will have an expiry period of 3 years from the time they are purchased, and will be cancelled after that time, with no possibility of reimbursement by the User.
 
-##### 10.4. Subscription Benefits
+##### 9.4. Subscription Benefits
 
-###### 10.4.1 Essential Subscription
+###### 9.4.1 Essential Subscription
 
 After contracting the Essential Subscription, as defined on the Website, the User may benefit from the following:
 
@@ -489,7 +513,7 @@ After contracting the Essential Subscription, as defined on the Website, the Use
 3. Usage of the AI Products indicated on the Website, limited to the number of usage credits per subscription period indicated on the Website.
 4. Priority support in relation to free Users.
 
-###### 10.4.2 Premium Subscription
+###### 9.4.2 Premium Subscription
 
 After contracting the Premium Subscription, as defined on the Website, the User may benefit from the following:
 
@@ -501,7 +525,7 @@ After contracting the Premium Subscription, as defined on the Website, the User 
 6. Usage of the AI Products indicated on the Website with a higher number of usage credits per subscription period than those applicable to the Essential Subscription.
 7. Priority support in relation to free Users or those who have contracted an Essential Subscription.
 
-###### 10.4.3 Premium+ Subscription
+###### 9.4.3 Premium+ Subscription
 
 After contracting the Premium+ Subscription, as defined on the Website, the User may benefit from the following:
 
@@ -510,11 +534,11 @@ After contracting the Premium+ Subscription, as defined on the Website, the User
 3. Priority access to new AI Products launched by the Company periodically.
 4. Priority support in relation to free Users or those who have contracted an Essential or Premium Subscription.
 
-#### 11\. Changes and Closure of the Website
+#### 10\. Changes and Closure of the Website
 
 The Company may, at any moment, and without incurring in any responsibility towards the User, modify the content of the Website or the Services, limit or modify the conditions or cease to provide some or all the Services and features available or deactivate and delete all or some of the User accounts and their corresponding information. However, the Company will comply with its obligations regarding the keeping of records in relation to certain transactions for the relevant period as provided by applicable law or refund the Users of Subscriptions in force at that time with the proportional part of the price not accrued before the termination.
 
-#### 12\. General and Contact Information
+#### 11\. General and Contact Information
 
 The use of the Website and the Services and the interpretation and application of these Terms shall be governed by Spanish Law. Except for those cases in which the applicable law impose a specific jurisdiction, any dispute in connection with these Terms shall be resolved by the Courts of Málaga (Spain), and the parties expressly waive any other applicable jurisdiction.
 
@@ -775,7 +799,7 @@ The Terms and Conditions is comprised of:
 4. the [Magnific Privacy Policy](https://magnific.ai/legal/#privacy);
 5. the [Freepik Terms and Conditions](#nav-freepik);
 6. the [Flaticon Terms and Conditions](https://www.flaticon.com/legal);
-7. the [Terms of Service of Magnific](https://magnific.ai/legal/)
+7. the [Terms of Service of Magnific](https://magnific.ai/legal/);
 8. the [AI Products Terms and Conditions](#nav-ai-products); and
 9. the [Acceptable Use Policy](https://www.freepikcompany.com/legal//acceptable-use-policy/).
 
