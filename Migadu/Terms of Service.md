@@ -181,7 +181,7 @@ This agreement shall be governed in all respects by the laws of the Canton of Ap
 * [No Fraud](https://www.migadu.com/use/#anti-fraud-commitment)
 * [No Violence](https://www.migadu.com/use/#anti-violence-commitment)
 
-![](/svg/swiss.svg)  
+![](/img/switzerland.png)  
 
 For the world, Made in Switzerland  
 Copyright © [Migadu-Mail GmbH](https://ar.chregister.ch/cr-portal/auszug/auszug.xhtml?uid=CHE-334.933.960) 2024
