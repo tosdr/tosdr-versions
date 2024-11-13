@@ -107,7 +107,7 @@ Build Better Digital Habits With Mobicip
 * Upgrade Anytime
 * Fast & Friendly Support
 
-[Start your 7-day free trial today!](https://www.mobicip.com/pricing)
+[Start 7-day Free Trial](https://www.mobicip.com/pricing)
 
 #### Platforms
 
