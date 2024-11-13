@@ -225,6 +225,20 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 13, 2024
+
+> quick and pleasant
+
+> The agent was a pleasure to communicate with and all requests were dealt with quickly. She was able to offer many options that fit our needs. The whole experience could not have gone smoother
+
+jeffrey gougeon
+
+,
+
+KR
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 12, 2024
 
 > Dolan won the sale
@@ -330,20 +344,6 @@ CA
 > Mel was amazing! I’m so grateful for her attention to detail. Our trip was incredible and I’ve already recommended Safari.com to friends and family! Thanks again Mel!
 
 Ben George
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 7, 2024
-
-> Keith Chideme is fantastic!
-
-> If you’re looking for someone to help you plan the trip of a lifetime, look no further than Keith Chideme. Keith has been nothing short of extraordinary in helping me create a month-long dream trip to South Africa for myself and 11 family members. His patience, kindness, and thoughtfulness throughout the entire process have been remarkable. Keith went above and beyond, engaging in countless conversations to make sure every detail of our six-destination itinerary was just right. He worked tirelessly to balance my budget with my desire for an unforgettable experience, finding deals and creative solutions that I would never have managed on my own. His dedication and expertise gave me complete confidence that this trip will be everything I’ve dreamed of and more. One of my favorite aspects of working with Keith was the personal touch he brought to every interaction. Whether through voice messages, phone calls, or texts, he was always patient, thorough, and thoughtful in explaining every aspect of the itinerary. I never once felt rushed or overlooked—he truly cared about making this trip perfect for us. I can’t imagine planning this trip without Keith. Knowing he has my back has been such a comfort, and I feel completely at ease knowing we are in such capable hands. My entire family is incredibly excited about this incredible adventure, and I know I’ll be contacting Keith for all my future travel plans. He is an absolute gem and a true professional. Thank you, Keith, for everything!
-
-Melissa Solomon
 
 ,
 
