@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Weitere spannende Themen
 
 Neueste Tests
 
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Neueste Tests
 
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
+* [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
 * [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Standmixer im Test: Groß gegen klein – welcher Mixer solls sein?](https://www.test.de/Mixer-Standmixer-im-Test-5073614-0/ "Standmixer im Test - Groß gegen klein – welcher Mixer solls sein?")
+* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Sicherheit im Online-Banking: Tan und Tipps – so schützen Sie Ihr Online-Konto](https://www.test.de/sicherheit-beim-online-banking-6109248-0/ "Sicherheit im Online-Banking - Tan und Tipps – so schützen Sie Ihr Online-Konto")
-* [Project-Gruppe: Auszahlungen an Anleger gestoppt](https://www.test.de/Project-Gruppe-Auszahlungen-an-Anleger-gestoppt-6044635-0/ "Project-Gruppe - Auszahlungen an Anleger gestoppt")
-* [Camping-Gasflaschen: Anschluss verpasst](https://www.test.de/Camping-Gasflaschen-Anschluss-verpasst-6024548-0/ "Camping-Gasflaschen - Anschluss verpasst")
-* [Genuss­rechte: Das Degag-Risiko](https://www.test.de/Genussrechte-Das-Degag-Risiko-6143169-0/ "Genussrechte - Das Degag-Risiko")
-* [Groß­baustellen der Deutschen Bahn: Wo nichts mehr zügig geht](https://www.test.de/Grossbaustellen-der-Deutschen-Bahn-Wo-nichts-mehr-zuegig-geht-6073286-0/ "Großbaustellen der Deutschen Bahn - Wo nichts mehr zügig geht")
-* [Heiz­decken im Test: Mit denen werden wir warm](https://www.test.de/Heizdecken-im-Test-6157422-0/ "Heizdecken im Test - Mit denen werden wir warm")
+* [Gut essen mit der Stiftung Warentest: Torte sizilia­nischer Art](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Torte-sizilianischer-Art-6020748-0/ "Gut essen mit der Stiftung Warentest - Torte sizilianischer Art")
+* [test warnt: Abzocke an der E-Auto-Ladesäule](https://www.test.de/test-warnt-Abzocke-an-der-E-Auto-Ladesaeule-6157093-0/ "test warnt - Abzocke an der E-Auto-Ladesäule")
+* [Warn­liste: Unechte Vermögens­verwalter](https://www.test.de/Warnliste-Unechte-Vermoegensverwalter-5981755-0/ "Warnliste - Unechte Vermögensverwalter")
+* [Mutmacherin: Warten auf gerechten Lohn](https://www.test.de/Mutmacherin-Warten-auf-gerechten-Lohn-5987036-0/ "Mutmacherin - Warten auf gerechten Lohn")
+* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Service Stiftung Warentest
 
