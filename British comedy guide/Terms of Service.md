@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Lazarus & Dingwall. Image shows from L to R: Steve Lazarus (Stephen Frost), Mark Dingwall (Mark Arden). Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/l/lazarus_and_dingwall.jpg "Lazarus & Dingwall. Image shows from L to R: Steve Lazarus (Stephen Frost), Mark Dingwall (Mark Arden). Copyright: BBC")](https://www.comedy.co.uk/quiz/332/) Quiz
+
+[British Comedy Quiz #332](https://www.comedy.co.uk/quiz/332/)
+
 [![Paulina Lenoir. Credit: David Pickens](https://cdn.comedy.co.uk/images/library/people/300x200/p/paulina_lenoir_b.jpg "Paulina Lenoir. Credit: David Pickens")](https://www.comedy.co.uk/live/random8/paulina-lenoir/) Live
 
 [Random 8: Paulina Lenoir](https://www.comedy.co.uk/live/random8/paulina-lenoir/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/are_you_being_served_staff.jpg "Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC")](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/) Features
 
 [Comedy Rewind: Dear Sexy Knickers - A love letter to Are You Being Served?](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/)
-
-[![A Christmas Carol(ish). David Elms. Credit: Matt Crockett](https://cdn.comedy.co.uk/images/library/people/300x200/d/david_elms_christmas_carol_ish.jpg "A Christmas Carol(ish). David Elms. Credit: Matt Crockett")](https://www.comedy.co.uk/live/fgwg/david-elms/) Live
-
-[First Gig, Worst Gig: David Elms](https://www.comedy.co.uk/live/fgwg/david-elms/)
 
 #### Subscribe to our newsletters
 
