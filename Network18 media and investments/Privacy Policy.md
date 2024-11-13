@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Wed, Nov 13, 2024
+Thu, Nov 14, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
+    * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
+    * [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
+    * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
     * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
-    * [Elections Live](https://www.news18.com/elections/jharkhand-assembly-election-bypolls-wayanad-lok-sabha-polls-live-blog-jmm-bjp-congress-india-bloc-latest-news-november-13-liveblog-9118335.html)
-    * [Song Jae Rim](https://www.news18.com/movies/south-korean-actor-song-jae-rim-passes-away-at-39-found-dead-in-seoul-apartment-9117748.html)
-    * [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-    * [Vivek Ramaswamy](https://www.news18.com/world/wont-go-gently-vivek-ramaswamy-elon-musk-make-their-motto-clear-after-key-trump-2-0-posts-9118469.html)
-    * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+    * [Sanju Samson](https://www.news18.com/cricket/dhoni-kohli-rohit-dravid-wasted-10-years-of-my-son-sanju-samsons-father-makes-explosive-accusations-9119566.html)
+    * [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-formation-date-salary-increase-da-hike-all-you-need-to-know-9118740.html)
+    * [Donald Trump](https://www.news18.com/world/after-landslide-victory-donald-trump-hints-at-third-term-in-white-house-9119577.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-about-becoming-mom-at-20-we-were-like-siblings-he-called-me-9116502.html)
+* [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
+* [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
+* [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
 * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
-* [Elections Live](https://www.news18.com/elections/jharkhand-assembly-election-bypolls-wayanad-lok-sabha-polls-live-blog-jmm-bjp-congress-india-bloc-latest-news-november-13-liveblog-9118335.html)
-* [Song Jae Rim](https://www.news18.com/movies/south-korean-actor-song-jae-rim-passes-away-at-39-found-dead-in-seoul-apartment-9117748.html)
-* [Boney Kapoor](https://www.news18.com/web-stories/entertainment/boney-kapoor-birthday-7-of-his-pics-with-sridevi-from-their-early-days-2601003/)
-* [Vivek Ramaswamy](https://www.news18.com/world/wont-go-gently-vivek-ramaswamy-elon-musk-make-their-motto-clear-after-key-trump-2-0-posts-9118469.html)
-* [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+* [Sanju Samson](https://www.news18.com/cricket/dhoni-kohli-rohit-dravid-wasted-10-years-of-my-son-sanju-samsons-father-makes-explosive-accusations-9119566.html)
+* [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-formation-date-salary-increase-da-hike-all-you-need-to-know-9118740.html)
+* [Donald Trump](https://www.news18.com/world/after-landslide-victory-donald-trump-hints-at-third-term-in-white-house-9119577.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -304,7 +304,7 @@ If you have questions or concerns about this Policy, please contact Network18 at
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 13, 2024
+Nov 14, 2024
 
 [View All](https://www.news18.com/short-news/)
 
