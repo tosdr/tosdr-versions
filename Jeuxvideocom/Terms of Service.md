@@ -15,9 +15,14 @@ CONNEXION
     * Réalité Virtuelle
     * Rétrogaming
     * Toutes les actus
+* Black Friday
 * RetourHigh-Tech
     * Actus JVTECH
     * Bons plans
+    * Smartphones
+    * Mobilité urbaine
+    * Hardware
+    * Image et son
     * Tutoriels
     * Tests produits High-Tech
     * Guides d'achat High-Tech
