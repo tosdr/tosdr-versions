@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+    * * [Psychology](https://www.sciencenews.org/topic/psychology)
             
-            ### [How does a fossil become a superstar? Just ask Lucy.](https://www.sciencenews.org/article/fossil-lucy-superstar-evolution-science)
+            ### [Researchers seek, and find, a magical illusion for the ears](https://www.sciencenews.org/article/magic-sound-auditory-visual-illusion)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")37 mins ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [The virus behind an outbreak in Brazil can spread from mother to fetus](https://www.sciencenews.org/article/virus-spread-fetus-womb-oropouche)
-            
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")21 hours ago
+            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")2 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
-            ### [A twisted protein sheds light on chronic wasting disease in deer](https://www.sciencenews.org/article/chronic-wasting-disease-deer-prion)
+            ### [Lizard spit can help detect a rare pancreatic tumor](https://www.sciencenews.org/article/lizard-spit-rare-pancreatic-tumor)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 12, 2024
+            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")3 hours ago
+            
+        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
+            
+            ### [Fossil teeth hint at a surprisingly early start to humans’ long childhoods](https://www.sciencenews.org/article/fossil-teeth-tooth-human-childhood)
+            
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")5 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -165,7 +165,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")23 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")November 12, 2024
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
