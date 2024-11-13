@@ -12,7 +12,7 @@
     * * *
     
     * [Support Plans](https://segment.com/en-us/support-plans)
-    * [Partner Solutions](https://segment.com/en-us/partner-solutions)
+    * [Partner Solutions](https://segment.com/en-us/partners)
     
 * [Login](https://www.twilio.com/login)
 * [Console](https://www.twilio.com/console)
@@ -199,12 +199,13 @@
     
     * * *
     
-    * [**Find a partner**
+    * **Find a partner**
         
-        Work with a Twilio partner to buy or build the right solution](https://segment.com/en-us/partner-solutions/partner-showcase)
+        Work with a Twilio partner to buy or build the right solution
+        
     * [**Partner with us**
         
-        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partner-solutions)
+        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partners)
     
 * Developers
     
@@ -561,12 +562,13 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
     
     * * *
     
-    * [**Find a partner**
+    * **Find a partner**
         
-        Work with a Twilio partner to buy or build the right solution](https://segment.com/en-us/partner-solutions/partner-showcase)
+        Work with a Twilio partner to buy or build the right solution
+        
     * [**Partner with us**
         
-        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partner-solutions)
+        Join our Partner Program to build or sell Twilio solutions to your customers.](https://segment.com/en-us/partners)
     
 * Developers
     
