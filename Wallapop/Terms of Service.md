@@ -29,7 +29,7 @@ We have updated our Terms and Conditions  to improve the information provided t
 Wallapop Terms and Conditions of Use
 ====================================
 
-**Last revision:** 2 October 2024
+**Last revision:** 13 November 2024
 
 Thank you for using Wallapop. Right now you are in a very important space: our Terms and Conditions of Use which, together with the specific conditions ([Specific Terms and Conditions of the Wallapop Shipping Service](https://about.wallapop.com/en/specific-terms-and-conditions-of-the-wallapop-shipping-service/) and [Specific Conditions regarding the Wallet](https://about.wallapop.com/en/specific-conditions-regarding-the-wallet/)), the [Privacy Policy](https://about.wallapop.com/en/privacy-policy/), the [Cookies Policy](https://about.wallapop.com/en/cookies/), the [Legal Notice](https://about.wallapop.com/en/legal-notice/), the [Community Guidelines](https://ayuda.wallapop.com/hc/en-us/articles/360019800078-Community-Guidelines) and the regulations in force, regulate our relationship. We do not expect you to find it fun, but at least intelligible, useful, practical and complete. From Wallapop we strive for our community to understand, within how complex the laws are becoming more and more complex, the legal conditions that establish the rules of our relationship.
 
@@ -597,20 +597,28 @@ If any clause included in these Terms and Conditions is declared totally or part
 
 **17.1.-** The Privacy Policy describes the personal data of Users collected by Wallapop and the purposes for which Wallapop processes such data. The Privacy Policy and any of its parts are not considered contractual clauses and do not form part of these General Terms and Conditions.
 
-**18.- Dispute resolution, applicable law and jurisdiction**
+**18.- Force majeure**
 
-**18.1.-** Consumer Users are informed that, in the event of any discrepancy or dispute with Wallapop when using the Platform or any Services contracted, they may contact Wallapop through this [form](https://ayuda.wallapop.com/hc/en-us/requests/new?ticket_form_id=13076994262801). 
+Wallapop shall not be held liable if the non-performance or delayed performance of one of its obligations is the result of force majeure. Force majeure shall be deemed to exist when an event beyond Wallapop’s control, which could not reasonably be foreseen and whose effects cannot be avoided, prevents Wallapop from fulfilling its obligations.
 
-**18.2.-** In the event that the discrepancy or dispute persists or the User is not satisfied with the response offered by Wallapop, the User may resort to alternative means of dispute resolution such as, for example, the European Platform for Online Dispute Resolution accessible through the following [link](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=ES). 
+In the case of a temporary hindrance, the performance of the obligation shall be suspended, unless the delay justifies the termination of the contract.
 
-**18.3.-** In case of dispute or conflict of interpretation of these Terms and Conditions, as well as any question related to the services offered by Wallapop, such dispute shall be governed by Spanish law.
+In this respect, Wallapop shall not be held liable in the event of any circumstance or event beyond its control that prevents the performance of the contracted services under normal conditions, without Wallapop being liable for any compensation in such cases.
 
-**18.4-** For the resolution of any disputes that may arise between Wallapop and the users, both parties agree to go to the following Courts and Tribunals, depending on the user’s status:
+**19.- Dispute resolution, applicable law and jurisdiction**
+
+**19.1.-** Consumer Users are informed that, in the event of any discrepancy or dispute with Wallapop when using the Platform or any Services contracted, they may contact Wallapop through this [form](https://ayuda.wallapop.com/hc/en-us/requests/new?ticket_form_id=13076994262801). 
+
+**19.2.-** In the event that the discrepancy or dispute persists or the User is not satisfied with the response offered by Wallapop, the User may resort to alternative means of dispute resolution such as, for example, the European Platform for Online Dispute Resolution accessible through the following [link](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home2.show&lng=ES). 
+
+**19.3.-** In case of dispute or conflict of interpretation of these Terms and Conditions, as well as any question related to the services offered by Wallapop, such dispute shall be governed by Spanish law.
+
+**19.4-** For the resolution of any disputes that may arise between Wallapop and the users, both parties agree to go to the following Courts and Tribunals, depending on the user’s status:
 
 * In the case of Professional Users: the process identified in the Terms and Conditions for Professional Users must be followed and, if applicable, both parties will go to the Courts and Tribunals of the city of Barcelona (Spain), waiving other jurisdictions that may be competent.
 * In the case of Consumer Users: the latter may bring their action before the courts corresponding to Wallapop’s domicile, or before the courts of the place where the User is domiciled.
 
-**18.5.-**In case of conflict between Users of the Platform, they will have to resolve their disputes in accordance with the regulations in force in the Spanish state, without Wallapop taking part in such dispute in any case.
+**19.5.-**In case of conflict between Users of the Platform, they will have to resolve their disputes in accordance with the regulations in force in the Spanish state, without Wallapop taking part in such dispute in any case.
 
 The name and the Wallapop™ logo are registered trademarks of Wallapop, S.L.
 
