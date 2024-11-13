@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Henry Venter
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=123973552)  
-Fox Alarms & Security CC
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=123707849)  
+National Elite Security Services (PTY) LTD
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=123682605)  
-Cape Adventure Zone
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=189739076)  
+Environment Friendly Toilets (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=195124455)  
-IYD
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=188899690)  
+United Paintball Federation
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=188332605)  
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=94069995)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=184230434)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=153033624)  
+Gemini-IT Group
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=1213452)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=39448687)  
 Entidee Enterprise PTY (ltd)
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=12203328)  
-Creative Characters
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=119206784)  
+PROGRAPHIX PTY LTD
 
-![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=182593758)  
-J.M. HUMAN RESOURCES
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=37356572)  
+Firstweb Hosting & Design
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=60982101)  
-African Roots
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=118647272)  
+Goju Ryu Karate Centre
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=114323763)  
-AFS Electrical
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=56515554)  
+Calonet
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=12867092)  
-Network Grey (Pty) Ltd
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=67319667)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=4767442)  
-West Coast Horse Trails
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=10131562)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=2907911)  
-BD Maintenance
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=102195480)  
-Myfinance-Online
-
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=69492552)  
-Cooper Logistics (Pty) Ltd
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=24429245)  
-Itroniq (Pty) Ltd
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=144c4ca127a1178a8e979f4c65cc07509b0457c91bdcea77a0b1d2b6de9f2848&c=135260072)  
-FJW Security Cc
+![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f223116838cb24cd3b96802cd6bb944d85e91a8660b00d4c30d65a63a9198189&c=50389641)  
+Testpro Laboratory (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
