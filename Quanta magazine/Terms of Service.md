@@ -247,23 +247,35 @@ Past Week
 
 _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
-[![An illustration of concentric rings of a radiating wave in space, with chopsticks that appear poised to pluck a particle out of the wave.](https://www.quantamagazine.org/wp-content/uploads/2024/10/Detecting-Gravitons_crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
-
-[#### It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
 [![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Persuasive-LLMs_crNash-Weerasekera-Thumbnail.webp)](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
 
 [#### Debate May Help AI Models Converge on Truth](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
 
 _By_ [Stephen Ornes](https://www.quantamagazine.org/authors/stephen-ornes)
 
-[![A person laying on a bunkbed resembling a graph](https://www.quantamagazine.org/wp-content/uploads/2024/11/BunkbedDebunked_cr-Irene-Perez-for-Quanta-Magazine-Thumbnail.webp)](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
+[![An illustration of concentric rings of a radiating wave in space, with chopsticks that appear poised to pluck a particle out of the wave.](https://www.quantamagazine.org/wp-content/uploads/2024/10/Detecting-Gravitons_crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 
-[#### Math’s ‘Bunkbed Conjecture’ Has Been Debunked](https://www.quantamagazine.org/maths-bunkbed-conjecture-has-been-debunked-20241101/)
+[#### It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
 
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
+
+[![Animation in which tornadoes twirl amid a crystalline lattice.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Supersolids-crIbrahimRayintakath_RuiBrazThumbnail.webp)](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+
+[#### Physicists Spot Quantum Tornadoes Twirling in a ‘Supersolid’](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+
+_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
+
+[![A woman sitting on a rocky shore looks up at the cosmos and sees a handful of solid shapes floating in the sky.](https://www.quantamagazine.org/wp-content/uploads/2024/09/Geometry-crSenor-Salme-AppleTileThumbnail.webp)](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+
+[#### Physicists Reveal a Quantum Geometry That Exists Outside of Space and Time](https://www.quantamagazine.org/physicists-reveal-a-quantum-geometry-that-exists-outside-of-space-and-time-20240925/)
+
+_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
 The Quanta Newsletter
 
