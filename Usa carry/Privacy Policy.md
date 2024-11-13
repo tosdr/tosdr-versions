@@ -405,7 +405,7 @@ Questions? Comments? Concerns? We’re here to help. Contact [\[email protected
 * [Forums](https://forums.usacarry.com/ "Concealed Carry Forums")
 * [Podcast](https://www.usacarry.com/podcast/)
 * [Store](https://store.usacarry.com/ "USA Carry Store")
-* [Deals](https://alnk.to/3ci4efO "Deals")
+* [Deals](https://alnk.to/3ci4efO)
 * [Giveaway](https://www.usacarry.com/concealed-carry-giveaway/ "Concealed Carry Giveaway")
 * [Advertise](https://www.usacarry.com/advertise/)
 * [Contact](https://www.usacarry.com/contact/)
