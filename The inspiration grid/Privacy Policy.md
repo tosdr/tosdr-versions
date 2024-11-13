@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/11/early-black-friday-2024.jpg)
+
+[Art](https://theinspirationgrid.com/category/art/)[Gaming](https://theinspirationgrid.com/category/gaming/)
+
+[](https://theinspirationgrid.com/editorial/here-are-some-early-black-friday-deals-to-check-out/)
+
+### Here are some early Black Friday deals to check out
+
 ![](https://inspgr.id/app/uploads/2024/10/huion-kamvas-13-gen3-review-temp.jpg)
 
 [Art](https://theinspirationgrid.com/category/art/)[Graphic Design](https://theinspirationgrid.com/category/design/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/skull-co-rog-ally-x-gripcase-review-a-sleek-budget-friendly-case/)
 
 ### Skull & Co ROG Ally X GripCase Review: A Sleek, Budget-Friendly Case
-
-![](https://inspgr.id/app/uploads/2024/10/editorial-pentips-halloween-cover.jpg)
-
-[Art](https://theinspirationgrid.com/category/art/)[Illustration](https://theinspirationgrid.com/category/illustration/)
-
-[](https://theinspirationgrid.com/editorial/wicked-discounts-some-of-our-favorite-ipad-accessories-are-on-sale-for-halloween/)
-
-### Wicked Discounts: Some of our favorite iPad accessories are on sale for Halloween
 
 #want
 -----
@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/photography-gian-donati-24-feature.jpg)
+
+[](https://theinspirationgrid.com/black-white-architecture-stunning-photos-by-gian-corrado-donati/)
+
+### Black & White Architecture: Stunning Photos by Gian Corrado Donati
+
+![](https://inspgr.id/app/uploads/2024/11/branding-musa-restaurant-feature.jpg)
+
+[](https://theinspirationgrid.com/musa-restaurant-branding-by-tiare-payano/)
+
+### Musa Restaurant Branding by Tiare Payano
+
 ![](https://inspgr.id/app/uploads/2024/11/art-niark1-feature.jpg)
 
 [](https://theinspirationgrid.com/multifaceted-digital-collages-by-niark1/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/graffiti-infused-creations-by-kano-kid/)
 
 ### Graffiti-Infused Creations by kaNO Kid
-
-![](https://inspgr.id/app/uploads/2024/11/art-alexander-isakov-feature.jpg)
-
-[](https://theinspirationgrid.com/intricate-abstract-murals-by-alexander-isakov/)
-
-### Intricate Abstract Murals by Alexander Isakov
-
-![](https://inspgr.id/app/uploads/2024/11/illustration-anthony-ventura-feature.jpg)
-
-[](https://theinspirationgrid.com/expressive-illustrated-portraits-by-anthony-ventura/)
-
-### Expressive Illustrated Portraits by Anthony Ventura
 
 Awesome products for creatives
 ------------------------------
