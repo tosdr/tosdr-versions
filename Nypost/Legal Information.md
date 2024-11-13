@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Trump stuns with pick for secretary of defense](https://nypost.com/2024/11/12/us-news/trump-nominates-fox-news-host-pete-hegseth-for-secretary-of-defense/)
+
 Privacy Notice Highlights
 =========================
 
