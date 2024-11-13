@@ -130,7 +130,6 @@ In many cases, service providers support our departments in fulfilling their tas
     * PayPal (Europe) S.à r.l. et Cie
 * Newsletter/Advertising purposes existing customers
     * Emarsys eMarketing Systems GmbH
-    * Marketo EMEA Ltd.
 * Contact method/Customer service
     * Freshworks Inc.
 * Advertising measurement/optimisation
@@ -140,16 +139,14 @@ In many cases, service providers support our departments in fulfilling their tas
     * LinkedIn Corporation
     * Doubleclick
     * Facebook
-    * Twitter Inc.
+    * X Corp. (Twitter)
 * Monitoring/Webtracking
     * Google Inc.
     * Sentry (Functional Software Inc.)
-    * New Relic Inc.
-    * Hotjar Limited
-* Resume service
+    * Reddit
+* CV service
     * Textkernel
     * Talent Inc (TopCV)
-    * Resume Library
 
 Sending to third country/Intention to send to third country
 -----------------------------------------------------------
@@ -332,13 +329,13 @@ In doing so, we respect the principle of data economy and data avoidance, since 
 
 You may naturally terminate the subscription at any time, via the opt-out option provided in the newsletter and thus withdraw your consent. It is also possible to unsubscribe from the newsletter via our website at any time.
 
-The technical handling of the newsletter is either via Emarsys eMarketing Systems GmbH, Märzstrasse 1, A-1150 Vienna or via Marketo EMEA Ltd., Cairn House, South County Business Park, Leopardstown Road, Dublin 18. For this purpose, all necessary data from your profile will be transmitted to Emarsys or Markto. The legal basis for this is Art. 6 para. 1 lit. f EU GDPR. We respect the principle of data economy and data avoidance, by providing only the data that we will need to perform the newsletter distribution. All data is transmitted in encrypted form. The data, which are necessary for the newsletter receipt, are not transmitted to other third parties.
+The Newsletter is distributed by Emarsys eMarketing Systems GmbH, Märzstrasse 1, A-1150 Vienna. For this purpose, all required data from your profile will be transferred to Emarsys. The legal basis for this is Art. 6 para. 1 lit. f EU-GDPR. The principle of data minimisation and data avoidance is observed in that we only transfer the minimum data required to send the newsletter. All data is transmitted in encrypted format. The data required to receive the newsletter will not be disclosed to other third parties.
 
 For the evaluation of newsletter campaigns, newsletters contain tracking pixels. An email thumbnail formatted in HTML is embedded for this purpose, allowing us to see which email you have opened and when. In addition, we can determine which links in the email you have accessed.
 
 **Unsubscribing from the newsletter is possible at any time, and may be done via a dedicated link in the newsletter.**
 
-You can find further information on the technologies used in the privacy policy of Emarsys eMarketing Systems GmbH at [https://www.emarsys.com/en-uk/privacy-policy/](https://www.emarsys.com/en-uk/privacy-policy/) and of Marketo EMEA Ltd. at [https://documents.marketo.com/legal/privacy/](https://documents.marketo.com/legal/privacy/).
+Further information on the utilised technologies can be found in the privacy policy of Emarsys eMarketing Systems GmbH at [https://emarsys.com/privacy-policy/](https://emarsys.com/privacy-policy/).
 
 **
 
@@ -351,7 +348,7 @@ The objection may be made without giving reasons, for free and free of form, and
 Location of data storage / hosting
 ----------------------------------
 
-For the purpose of operating our website, we use the services of infrastructure providers PlusServer GmbH (Hohenzollernring 72, 50672 Cologne), Amazon Webservices, Inc (410 Terry Drive Ave North, WA 98109-5210 Seattle, USA) and DigitalOcean (101 6th Ave, New York, NY 10013, USA). Personal data is stored exclusively in the EU at locations in Cologne and Frankfurt.
+For the purposes of operating our website, we use the services of the infrastructure providers Google Inc (1600 Amphitheatre Parkway in Mountain View, California 94043, USA), Amazon Webservices, Inc (410 Terry Drive Ave North, WA 98109-5210 Seattle, USA) and DigitalOcean (101 6th Ave, New York, NY 10013, USA). Personal data is stored exclusively in the EU, namely at the Frankfurt facility.
 
 Automated individual decision-making
 ------------------------------------
@@ -378,7 +375,7 @@ Please note: If you deactivate the placing of cookies, our website becomes unusa
 Advertising measurement/optimisation
 ------------------------------------
 
-**Criteo**: On our website, we utilise the services of Criteo SA, 32 Rue Blanche, 75009 Paris, France, to target visitors to our website with personalised, interest-based advertisements based on their browsing habits. Criteo SA collects and stores information in anonymous form, for this purpose, on the browsing behaviour of visitors to our website. For this, Criteo uses anonymous browser cookies, which at no time collect personal data such as name or address. Identification of the website user is therefore impossible. Only the identifiers in the browsers used by the visitor (desktop, tablet or smartphone) are compared. There is no further use or disclosure of data. The storage of cookies may be prevented by a corresponding setting in your browser. You may permanently disable the use of Criteo cookies by following the link below and changing the cookie setting accordingly: [http://www.criteo.com/privacy/](http://www.criteo.com/privacy/). Further information on the technology used is in the Criteo SA Privacy Policy at: [http://www.criteo.com/privacy/](http://www.criteo.com/privacy/).
+**Criteo**: On our website, we utilise the services of Criteo SA, 32 Rue Blanche, 75009 Paris, France, to target visitors to our website with personalised, interest-based advertisements based on their browsing habits. Criteo SA collects and stores information in anonymous form, for this purpose, on the browsing behaviour of visitors to our website. For this, Criteo uses anonymous browser cookies, which at no time collect personal data such as name or address. Identification of the website user is therefore impossible. Only the identifiers in the browsers used by the visitor (desktop, tablet or smartphone) are compared. There is no further use or disclosure of data. The storage of cookies may be prevented by a corresponding setting in your browser. You may permanently disable the use of Criteo cookies by following the link below and changing the cookie setting accordingly: [http://www.criteo.com/privacy/](http://www.criteo.com/privacy/). Further information on the technology used is in the Criteo SA Privacy Policy at: [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/).
 
 **Google Adwords**: We also use the Google AdWords Conversion Tracking feature of Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, United States („Google“). Google AdWords uses cookies when you click on a Google ad
 
@@ -408,7 +405,7 @@ Based on the marketing tools used, your browser automatically establishes a dire
 
 The legal basis for the processing of your data is Art. 6 para. 1 lit. f EU GDPR and our legitimate interest in the analysis, optimisation and economic operation of our website.
 
-More information on DoubleClick by Google can be obtained at [https://www.google.com/doubleclick](https://www.google.com/doubleclick), as well as on data protection at Google in general: [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy). Alternatively, you may visit the website for the Network Advertising Initiative (NAI) at [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+More information on DoubleClick by Google can be obtained at [https://www.google.com/doubleclick](https://www.google.com/doubleclick), as well as on data protection at Google in general: [https://www.google.com/policies/privacy](https://www.google.com/policies/privacy). Alternatively, you may visit the website for the Network Advertising Initiative (NAI) at [https://thenai.org/](https://thenai.org/).
 
 **Facebook Custom Audience**: As part of use-based online advertising, the Custom Audiences product of Facebook (Facebook Custom Audiences 1601 S. California Avenue, Palo Alto, CA, 94304) is also used on our website. Basically, a non-reversible and non-personal checksum (hash value) is generated from your usage data, which may be transmitted to Facebook for analysis and marketing purposes. For this purpose, a Facebook tracking pixel is used on our website. Information is collected on your activities on the website (i.e. browsing behaviour, visited subpages, etc.). For the geographical guiding of advertising, your IP address is stored and used.
 
@@ -416,11 +413,23 @@ The legal basis for the processing of your data is Art. 6 para. 1 lit. f EU GDPR
 
 For more information on the purpose and scope of the data collection and the further data processing and utilisation, as well as the privacy settings, please refer to the Privacy Policy of Facebook ([https://www.facebook.com/policy.php](https://www.facebook.com/policy.php)).
 
-**Twitter Advertising**: Finally, we also use the Twitter Tracking Code on our website (Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA). A Twitter cookie is used. Information is collected on your activities on the website (i.e. browsing behaviour, visited subpages, etc.). For the geographical guiding of advertising, your IP address is stored and used.
+**X Corp. advertising (Twitter)**: We also use the tracking code of X Corp. on our website (X Corp., Attn: Privacy Policy Inquiry, 1355 Market Street, Suite 900, San Francisco, CA 94103, USA). A Twitter cookie is set in the process. Information about your activities on the website (e.g. surfing behaviour, subpages visited, etc.) is collected. Your IP address is stored and used for geographical targeting of advertising.
 
-The legal basis for the processing of your data is Art. 6 para. 1 lit. f EU GDPR and our legitimate interest in the analysis, optimisation and economic operation of our website.
+If you live in the USA or another country outside the European Union, the EFTA states or the United Kingdom, the controller of your personal data is X Corp. at the following address:
 
-For more information on the purpose and scope of the data collection and the further data processing and utilisation, as well as the privacy settings, please refer to the Privacy Policy of Twitter ([https://twitter.com/privacy](https://twitter.com/privacy)).
+X Corp.  
+Attn: Privacy Policy Inquiry  
+1355 Market Street, Suite 900  
+San Francisco, CA 94103, USA  
+
+If you live in the European Union, EFTA States or the United Kingdom, the data controller for your personal data is Twitter International Unlimited Company with the following address:
+
+Twitter International Unlimited Company  
+Attn: Data Protection Officer  
+One Cumberland Place, Fenian Street  
+Dublin 2, D02 AX07 IRELAND  
+
+The legal basis for the processing of your data is Art. 6 para. 1 lit. f EU-GDPR and our legitimate interest in the analysis, optimisation and commercial operation of our website. Further information on the purpose and scope of data collection and the further processing and use of the data, as well as the privacy settings, can be found in X Corp.‘s privacy policy ([https://x.com/privacy](https://x.com/privacy)).
 
 **Google Tag Manager**: For reasons of transparency, we would like to point out that we use Google Tag Manager. Google Tag Manager does not collect personally identifiable information. The Tag Manager makes it easier for us to integrate and manage our tags. Tags are small code elements that can be used, among other things, to measure traffic and visitor behaviour, track the impact of online advertising and social channels, set up remarketing and audience targeting, and test and optimise websites. If you have opted out, this opt out is taken into account be the Google Tag Manager. For more information on Google Tag Manager see: [https://www.google.com/tagmanager/use-policy.html](https://www.google.com/tagmanager/use-policy.html).
 
@@ -433,22 +442,31 @@ On our website, we use Google Analytics that also includes the functions of Univ
 
 **Sentry**: We use Sentry to collect error messages from our online platform. In the process, usage data (called URL, website status) and technical data (browser information, IP) are collected and processed. We collect this data on the basis of legitimate interests for the purpose of Art. 6 para. 1 lit. f EU GDPR, in order to constantly improve our systems and to prevent security gaps.
 
-We have entered into a data processing agreement with Functional Software Inc. (Sentry), which commits Sentry to compliance with EU data protection standards. Sentry is also certified under the Privacy Shield Agreement, providing an additional guarantee to comply with European data protection law: [https://www.privacyshield.gov/participant?id=a2zt0000000TNDzAAO&status=Active](https://www.privacyshield.gov/participant?id=a2zt0000000TNDzAAO&status=Active).
+We have entered into a data processing agreement with Functional Software Inc. (Sentry), which commits Sentry to compliance with EU data protection standards. Sentry is also certified under the Privacy Shield Agreement, providing an additional guarantee to comply with European data protection law: [https://www.dataprivacyframework.gov/list](https://www.dataprivacyframework.gov/list).
 
 More information may be found in the Privacy Policy of Functional Software Inc. (Sentry) at [https://sentry.io/privacy/](https://sentry.io/privacy/).
 
-**New Relic**: We use the performance analysis services of New Relic Inc., 188 Spear Street, Suite 1200, San Francisco, CA 94105, USA, for the purpose of collecting performance data from our website. These are stored and analysed, for logged-in users with registration of the respective user ID. If data is conveyed on to New Relic, this is done exclusively and completely anonymised. The legal basis for the processing of your data is Art. 6 para. 1 lit. f EU GDPR. More information may be found in the Privacy Policy of New Relic at [https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy).
+**Reddit Pixel**: We use the Reddit tracking pixel of the social network Reddit, which is operated by Reddit, Inc, 548 Market St. #16093, San Francisco, California 94104, USA, on our website to measure the effectiveness and optimisation of our ads (‘conversion’). The company Reddit Ireland Limited (Reddit EU Data Inquiries, Georges Quay Plaza, Floor 2 - 101, Dublin D02 F856, Ireland) is responsible for the European area. The Reddit Pixel is used on the basis of your consent in accordance with Art. 6 para. 1 sentence 1 lit. a EU-GDPR, § 25 para. 1 TTDSG, which you can revoke here at any time.
 
-**Hotjar**: To improve usability and customer experience, we use the “Hotjar” web analytics service of Hotjar Limited on our website. Using Hotjar Limited technology, visitor information is collected and transmitted to the Hotjar Limited servers. The technology allows user activities to be collected, analysed and visualised while visiting our website. For example, we can use a “heat map” to identify which areas of our website are most visited and clicked on. Cookies are also used for this purpose. From the pseudonymous data utilised, we are not able to establish a direct personal reference. The legal basis for the processing of your data is Art. 6 para. 1 lit. f EU GDPR. At any time, you may object to the collection, processing and compilation of data generated by hotjar.com, by following the instructions at [https://www.hotjar.com/legal/policies/do-not-track/](https://www.hotjar.com/legal/policies/do-not-track/). More information on data protection at hotjar.com may be found at [https://www.hotjar.com/privacy/](https://www.hotjar.com/privacy/).
+We use the Reddit Pixel for marketing and optimisation purposes, in particular to analyse the use of our website and to improve individual functions and offers as well as the user experience. By statistically evaluating user behaviour, we want to improve our offer and make it more interesting for you as a user. 
+
+By using the pixel, a cookie is placed on your computer via the Reddit tracking pixel, which interacts with a JavaScript code from Reddit. This allows your behaviour to be tracked across multiple pages. Tracking allows the effectiveness of Reddit advertisements to be evaluated for statistical and market research purposes and to optimise future advertising measures. User actions (including type of action, time, browser type of end device) are automatically collected and forwarded to Reddit. As a result, we gain insight into consolidated statistics regarding the success rate of the adverts placed on the Reddit portal.
+
+Please note that this service may transfer the collected data outside the European Union and the European Economic Area and to a country that does not offer an equivalent level of data protection. Reddit may transfer personal data to the USA. In this case, there is a risk that your data may be processed by US authorities for control and monitoring purposes without you having any legal recourse. Nonetheless, we take the possible measures required under data protection law in accordance with Art. 44 et seq. EU GDPR to establish the level of data protection in the non-EU countries. 
+
+We delete the data collected by the Reddit Pixel as soon as it is no longer necessary for our purposes. This is regularly the case after 6 months.
+
+Reddit is responsible for data processing in connection with the distribution of our adverts within the social network. You can find more information about Reddit's data processing on the following website: [https://www.redditinc.com/policies/privacy-policy](https://www.redditinc.com/policies/privacy-policy).
 
 Social network social plugins
 -----------------------------
 
 **Facebook**: We use social plugins of the Facebook.com social network, which is operated by Facebook Inc., 1601 S. California Ave., Palo Alto, CA 94304, USA. The Like button also uses such a social plugin. If such a plugin is called by our users, the user browser establishes a direct connection to the Facebook servers. As a result, the information on which Experteer websites were visited by the user is automatically transmitted to the Facebook server. For users who are logged in to Facebook, Facebook assigns this information automatically their personal Facebook account and stores them. A cookie may also possibly be installed on your computer, but deleted when the browser is closed. The purpose and scope of the data collection and the further utilisation of the data by Facebook may be found in the Facebook Privacy Policy at [http://www.facebook.com/policy.php](http://www.facebook.com/policy.php).
 
-**Twitter**: On our website, we use features of the Twitter service offered by Twitter Inc., 795 Folsom St., Suite 600, San Francisco, CA 94107, USA. If you visit a website with a built-in Twitter button, and it is uploaded, Twitter will discover your IP address and that our website was visited via that IP address. In order to use Twitter, you need a Twitter account. If you are logged in to Twitter on your profile and click on the Twitter button on Experteer, you will share the content of the page in which the button is integrated with other Twitter users. Twitter will then remember that you have clicked this button along with information about the page and make that information available to other Twitter users. If you do not want Twitter to directly associate the data collected via our website to your Twitter profile, then you must log out of Twitter before visiting our website. For more information about data collection and utilisation by Twitter and your right related to it, please refer to the Privacy Policy of Twitter at [https://twitter.com/privacy](https://twitter.com/privacy).
+**X Corp (Twitter)**: On our website we use features of the service X (Twitter), which is offered by the company X Corp. When you access a website with an integrated X (Twitter) button and it is loaded, X Corp. receives your IP address and the information that our website was visited from this IP address. To be able to use X, you need an account with X.  
+If you are logged into your X profile and click on the X (Twitter) button on Experteer, you share the content of the page on which the button is integrated with other X users. X then saves the information that you have clicked on this button together with information about the respective page and makes this data available to other X users. If you do not want X to assign the data collected via our website directly to your X profile, you must log out of X before visiting our website. For more information on data collection and use by X and your related rights, please refer to X's privacy policy at [https://x.com/privacy](https://x.com/privacy).
 
-**Using the Shariff solution**: We are glad if you recommend and discuss the contents of our pages on social media. For this, we use the buttons provided by the “Shariff” extension. Standard social media buttons transmit user data with each page view, and give the social networks accurate information about your browsing behaviour (user tracking). You do not have to be logged in or be a member of the network. The Shariff social button only creates direct contact between the social network and visitors when the latter actively clicks on the share button. If the user is already logged in to a social network, this is done on Facebook without another window. On Twitter, a pop-up window appears where you can still edit the tweet. More information on this may be found at heise.de.
+**Using the Shariff solution**: Use of the Shariff solution: We are pleased when you recommend and discuss content from our pages on social media. For this purpose, we use the buttons provided by the c't project ‘Shariff’. Conventional social media buttons transfer user data each time a page is accessed and provide social networks with precise information about your surfing behaviour (user tracking). You do not need to be logged in or a member of the network to do this. The Shariff social button only establishes direct contact between the social network and the visitor when the latter actively clicks on the share button. If the user is already logged in to a social network, Facebook does this without an additional window. With X (Twitter), a pop-up window appears in which the text of the tweet can still be edited. You can find more information on this at heise.de.
 
 Links to other providers
 ------------------------
@@ -473,7 +491,7 @@ Minor
 
 Persons under 16 years of age may not submit any personal data to us without the consent of the legal guardian and/or a declaration of consent is provided. We encourage parents and guardians to actively participate in the online activities and interests of their children.
 
-_Munich, May 25, 2018_
+_Munich, October 8, 2024_
 
  [![](https://assets.experteer.com/assets/usa/v2/career/logo_with_claim-57edab533a3ec23ffc57afdc72493c19769cc7a423bfcaa037e7cc7b3a557b8d.svg) ![](https://assets.experteer.com/assets/usa/v2/career/logo_without_claim-c73c9251bd34ab1f3bbac497a5575f042755c7c00ead0357e0d941f5fb166869.svg)](https://us.experteer.com/)
 
