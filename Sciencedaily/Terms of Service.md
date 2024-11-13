@@ -229,6 +229,9 @@ this hour
 
 * * *
 
+* [Earliest Ancient Maya Salt Works](https://www.sciencedaily.com/releases/2024/11/241112191056.htm)
+* [Swimming Sea Slug from the Deep Sea](https://www.sciencedaily.com/releases/2024/11/241112122719.htm)
+* [Super Microscope: Nanoscale Biological Process](https://www.sciencedaily.com/releases/2024/11/241111123408.htm)
 * [Genomic Test to Diagnose Nearly Any Infection](https://www.sciencedaily.com/releases/2024/11/241112123431.htm)
 * [Robots With Superhuman Vision: Radio Signals](https://www.sciencedaily.com/releases/2024/11/241112123749.htm)
 * [Surprisingly Massive Galaxies in Early Universe](https://www.sciencedaily.com/releases/2024/11/241112123028.htm)
@@ -236,9 +239,6 @@ this hour
 * [Moderate Exercise Can Reduce Heart Risk](https://www.sciencedaily.com/releases/2024/11/241111155405.htm)
 * [Milestone in the Study of Octopus Arms](https://www.sciencedaily.com/releases/2024/11/241111162206.htm)
 * [Was 'Snowball Earth' a Global Event?](https://www.sciencedaily.com/releases/2024/11/241111155227.htm)
-* [Towards an Efficient Quantum 'Hard Drive'](https://www.sciencedaily.com/releases/2024/11/241111123405.htm)
-* [Asthma and Memory Difficulties](https://www.sciencedaily.com/releases/2024/11/241111122759.htm)
-* [Swirling Polar Vortices Likely Exist On the Sun](https://www.sciencedaily.com/releases/2024/11/241111155235.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
-[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
-
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+
+[Brain Injury](https://www.sciencedaily.com/news/mind_brain/brain_injury/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
-
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
 [Renewable Energy](https://www.sciencedaily.com/news/earth_climate/renewable_energy/)
+
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+
+[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
   
 
