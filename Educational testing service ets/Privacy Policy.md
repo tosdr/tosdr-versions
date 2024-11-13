@@ -319,7 +319,7 @@ Please contact us if you have any questions or comments about our privacy practi
 
 Country-specific Privacy Notices/Translations
 
-Australia Brazil Canada China Hong Kong Singapore
+Australia Brazil Canada China Hong Kong, China Singapore
 
 See also:
 ---------
