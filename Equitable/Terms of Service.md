@@ -157,6 +157,7 @@ We are continuously improving our digital accessibility, recognizing the importa
             * [Working with us](https://equitable.com/financial-professionals/employee-benefits)
             * [section-heading: Investments](#)
             * [Equitable Investment Management](https://equitable.com/financial-professionals/investments)
+            * [Managed Portfolio Strategies](https://equitable.com/financial-professionals/investments/managed-portfolio-strategies)
             * [promo-section: Investment Edge® variable annuity](#)
             * [promo-paragraph: Enhanced opportunity for tax-deferred growth with flexible options and tax-efficient distributions.](#)
             * [promo-link: Learn about Investment Edge®](https://equitable.com/financial-professionals/annuities/investment-edge-variable-annuity)
