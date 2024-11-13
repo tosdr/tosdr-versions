@@ -80,9 +80,9 @@ Trending Posts
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
+* [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 
 Close
 
@@ -144,9 +144,9 @@ Trending Posts
 * [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
+* [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 * [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
-* [Is anyone in power responsible for anything?](https://therealnews.com/is-anyone-in-power-responsible-for-anything)
 
 [Skip to content](#main)
 
