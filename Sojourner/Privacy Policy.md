@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-3332ce8b3e71c573cd8e46b11757c64d
+3be5b157fbc50fea23df965438f9e4fe
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![15 mm by 12 mm brown mustard agate oval beads](https://www.sojourner.biz/images/cache/stone/STN063.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/15-mm-by-12-mm-brown-mustard-agate-oval-beads.html "15 mm by 12 mm brown mustard agate oval beads")
+[![10 mm faceted round zebra jasper beads](https://www.sojourner.biz/images/cache/stone/STN013.200.jpg)](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-faceted-round-zebra-jasper-beads.html "10 mm faceted round zebra jasper beads")
 
-#### [15 mm by 12 mm brown mustard agate oval beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/15-mm-by-12-mm-brown-mustard-agate-oval-beads.html "15 mm by 12 mm brown mustard agate oval beads")
+#### [10 mm faceted round zebra jasper beads](https://www.sojourner.biz/beads/stone-m-z/other-stones/10-mm-faceted-round-zebra-jasper-beads.html "10 mm faceted round zebra jasper beads")
 
-$13.00
+$15.00
 
 ### Best Sellers
 
