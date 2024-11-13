@@ -40,7 +40,7 @@ At home [At work](https://olioapp.com/business)
 
 [Get the app](https://bit.ly/3M99LdV) Get the app
 
-_Effective from: 25 November 2024_
+_Version applicable from: 25 November 2024_
 
 **Please read this agreement carefully before accessing the App or Hubs from our website or downloading the App from any Appstore.** 
 
@@ -175,7 +175,7 @@ together, the “**Acceptable Use Restrictions**”.
 
 ————————————————–
 
-_Effective until:_ 24 November 2024
+_Version applicable until:_ 24 November 2024
 
 **Please read this agreement carefully before accessing the App from  our website or downloading the App from any Appstore.** 
 
