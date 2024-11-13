@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-12 Nov 2024
+13 Nov 2024
 
 * [Home
     
@@ -259,13 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Team Ireland's Olympic heroes and partners step out in style to centenary ball](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Team Ireland's Olympic heroes and partners step out in style to centenary ball")](https://www.derrynow.com/news/national-news/1653225/pictures-team-ireland-s-olympic-heroes-and-partners-step-out-in-style-to-centenary-ball.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[PICTURES: Team Ireland's Olympic heroes and partners step out in style to centenary ball](https://www.derrynow.com/news/national-news/1653225/pictures-team-ireland-s-olympic-heroes-and-partners-step-out-in-style-to-centenary-ball.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Throwback Tuesday: Out and About with the County Post (2011)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Tuesday: Out and About with the County Post (2011)")](https://www.derrynow.com/story-telling/pictures---videos/1652963/throwback-tuesday-out-and-about-with-the-county-post-2011.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -280,6 +273,13 @@ Most Popular
 [Derry Death Notices - Tuesday, November 12, 2024](https://www.derrynow.com/news/deaths/1652965/derry-death-notices-tuesday-november-12-2024.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final")](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Suspended sentence for Derry man convicted of harassment](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry man convicted of harassment")](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
 
 Derry Magistrate's Court
@@ -288,27 +288,6 @@ Derry Magistrate's Court
 
 [Suspended sentence for Derry man convicted of harassment](https://www.derrynow.com/news/local-news/1653687/suspended-sentence-for-derry-man-convicted-of-harassment.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Legacy body to investigate British Army killing of teenage IRA member in 1972](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Legacy body to investigate British Army killing of teenage IRA member in 1972")](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Legacy body to investigate British Army killing of teenage IRA member in 1972](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Ballinderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final")](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’")](https://www.derrynow.com/news/arts---entertainment/1653579/derry-dancer-tiernagh-canning-starring-in-lord-of-the-dance.html)
 
@@ -319,12 +298,28 @@ The young north Derry woman is currently wowing audiences as the female lead in 
 [Derry dancer Tiernagh Canning starring in ‘Lord of the Dance’](https://www.derrynow.com/news/arts---entertainment/1653579/derry-dancer-tiernagh-canning-starring-in-lord-of-the-dance.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds")](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+[![IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Ballnderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park")](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Ballinderry fans enjoy thrilling victory over Carrickcruppen at Celtic Park](https://www.derrynow.com/story-telling/pictures---videos/1653596/in-pictures-ballinderry-fans-enjoy-thrilling-victory-over-carrickcruppen-at-celtic-park.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Legacy body to investigate British Army killing of teenage IRA member in 1972](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Legacy body to investigate British Army killing of teenage IRA member in 1972")](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Legacy body to investigate British Army killing of teenage IRA member in 1972](https://www.derrynow.com/news/local-news/1653458/legacy-body-to-investigate-british-army-killing-of-teenage-ira-member-in-1972.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Dessie McAleese retires from McKay Family Butchers ](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Dessie McAleese retires from McKay Family Butchers ")](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
+
+Dessie McAleese retires from McKay Family Butchers
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Long serving butcher Dessie hangs up his apron](https://www.derrynow.com/news/county-derry-post/1653517/long-serving-butcher-dessie-hangs-up-his-apron.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Limavady family raise over £11k for Foyle Hospice in memory of Emma](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Limavady family raise over £11k for Foyle Hospice in memory of Emma")](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
 
@@ -334,6 +329,13 @@ Emma pictured with her son Joedin during their family holiday to Disney World.
 
 [Limavady family raise over £11k for Foyle Hospice in memory of Emma](https://www.derrynow.com/news/home/1653488/limavady-family-raise-over-11k-for-foyle-hospice-in-memory-of-emma.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds")](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Investigation into death of Katie Simpson was ‘flawed’ and ‘failed the Simpson family’ - report finds](https://www.derrynow.com/news/local-news/1653649/investigation-into-death-of-katie-simpson-was-flawed-and-failed-the-simpson-family-report-finds.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
