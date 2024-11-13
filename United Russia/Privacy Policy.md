@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Госдума приняла в первом чтении законопроект «Единой России» о повышении доступности сайтов госорганов для людей с инвалидностью](https://cdn.er.ru/media/news/November2024/Ng2aydkqNPdweHC33Dj9-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-povyshenii-dostupnosti-sajtov-gosorganov-dlya-lyudej-s-invalidnostyu)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о повышении доступности сайтов госорганов для людей с инвалидностью](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-povyshenii-dostupnosti-sajtov-gosorganov-dlya-lyudej-s-invalidnostyu)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#людисОВЗ](https://er.ru/activity/news?tags%5B0%5D=136007) [#интернет-сайт](https://er.ru/activity/news?tags%5B0%5D=19073) [#информация](https://er.ru/activity/news?tags%5B0%5D=1461)
+
+Сегодня 14:29
+
 [![«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://cdn.er.ru/media/news/November2024/OcAELtOB82iqZZiQB58e-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
 
 [«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
@@ -336,14 +344,6 @@
 [Владимир Путин отметил работу фракции «Единой России» в Госдуме](https://er.ru/activity/news/vladimir-putin-otmetil-rabotu-frakcii-edinoj-rossii-v-gosdume)
 
 [#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
-
-12.11.24
-
-[![Госдума приняла закон «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://cdn.er.ru/media/news/November2024/1rb0R9Oq1Ukq2uiKCm1j-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
-
-[Госдума приняла закон «Единой России» об отмене НДФЛ на возмещение расходов волонтёров на оплату медуслуг](https://er.ru/activity/news/gosduma-prinyala-zakon-edinoj-rossii-ob-otmene-ndfl-na-vozmeshenie-rashodov-volontyorov-na-oplatu-meduslug)
-
-[#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=126717) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#волонтерскаядеятельность](https://er.ru/activity/news?tags%5B0%5D=147139) [#НДФЛ](https://er.ru/activity/news?tags%5B0%5D=1219) [#медуслуги](https://er.ru/activity/news?tags%5B0%5D=94272)
 
 12.11.24
 
