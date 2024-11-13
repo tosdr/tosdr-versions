@@ -36,18 +36,18 @@
         
         Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
     
-    * [![Windows 11 KB5046617 and KB5046633 cumulative updates released](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Windows 11 KB5046617 and KB5046633 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046617-and-kb5046633-cumulative-updates-released/)
-    * [![Signal introduces convenient ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
+    * [![Microsoft Exchange adds warning to emails abusing spoofing flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Signal introduces convenient "call links" for private group chats](https://www.bleepingcomputer.com/news/software/signal-introduces-convenient-call-links-for-private-group-chats/)
-    * [![FBI, CISA, and NSA reveal most exploited vulnerabilities of 2023](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft Exchange adds warning to emails abusing spoofing flaw](https://www.bleepingcomputer.com/news/security/unpatched-microsoft-exchange-server-flaw-enables-spoofing-attacks/)
+    * [![D-Link won’t fix critical bug in 60,000 exposed EoL modems](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        FBI, CISA, and NSA reveal most exploited vulnerabilities of 2023](https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-reveal-most-exploited-vulnerabilities-of-2023/)
-    * [![Volt Typhoon rebuilds malware botnet following FBI disruption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        D-Link won’t fix critical bug in 60,000 exposed EoL modems](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/)
+    * [![Windows 10 KB5046613 update released with fixes for printer bugs](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Volt Typhoon rebuilds malware botnet following FBI disruption](https://www.bleepingcomputer.com/news/security/volt-typhoon-rebuilds-malware-botnet-following-fbi-disruption/)
+        Windows 10 KB5046613 update released with fixes for printer bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046613-update-released-with-fixes-for-printer-bugs/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -306,12 +306,12 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [![VMWare](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+* [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
 * [![PyPI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Malicious PyPI package with 37,000 downloads steals AWS keys](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/)
