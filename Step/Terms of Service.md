@@ -1,19 +1,3 @@
-[Step logoStep logo with colored accents and white text](https://www.step.com/)
-
-Benefits
-
-* [Build Credit](https://www.step.com/build-credit)
-* [Save](https://www.step.com/save)
-* [Direct Deposit](https://www.step.com/direct-deposit)
-* [Rewards](https://www.step.com/rewards)
-* [Invest](https://www.step.com/investing)
-
-[Money 101](https://www.step.com/education)[Families](https://www.step.com/families)[Security](https://www.step.com/security)[About](https://www.step.com/about)[FAQ](https://www.step.com/faq)
-
-[Get Step](https://get.step.com/rM7X/afe2261f "Get Step")
-
-Get Started
-
 1. [Policies](https://www.step.com/policies)
 2. Privacy Policy
 
@@ -430,51 +414,3 @@ Miscellaneous
 * [Step Daily Trivia Challenge Contest Official Rules](https://www.step.com/policies/step-daily-trivia-official-rules)
     
 * [Limited-Time Welcome Offer](https://www.step.com/policies/policies.welcomeoffer)
-
-Step logoStep logo with colored accents and white text
-
-### Banking That Builds Credit
-
-(US) **+1**
-
-Get Started
-
-Company
-
-* [About](https://www.step.com/about)
-* [Careers](https://www.step.com/careers)
-* [Press](https://www.step.com/press)
-* [Money 101 Blog](https://www.step.com/money-101)
-* [Step Merch Store](https://shop.step.com/)
-
-Legal
-
-* [Policies](https://www.step.com/policies)
-* [Privacy Policy](https://www.step.com/policies/privacy)
-* [COPPA](https://www.step.com/policies/coppa)
-* [Cookie Declaration](https://www.step.com/cookie-declaration)
-
-Support
-
-* [FAQ](https://www.step.com/faq)
-* [Contact Us](mailto:hello@step.com)
-* [Partner With Us](https://www.step.com/partners)
-* [Status](https://status.step.com/)
-
-[](https://www.instagram.com/stepmobile "Instagram")
-
-[](https://twitter.com/step "Twitter")
-
-[](https://www.tiktok.com/@step "TikTok")
-
-[](https://www.facebook.com/step "Facebook")
-
-[](https://www.linkedin.com/company/stepmobile "LinkedIn")
-
-[](https://discord.com/invite/step "Discord")
-
-[](https://youtube.com/c/Stepmobile "YouTube")
-
-* Step is a financial technology company, not a bank. Banking services provided by Evolve Bank & Trust, Member FDIC. The Step Visa Card is issued by Evolve Bank & Trust pursuant to a license from Visa U.S.A., Inc. Visa is a registered trademark of Visa International Service Association.
-
-©️ 2020 - 2024 Step Mobile, Inc. All rights reserved.
