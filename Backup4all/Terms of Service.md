@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Automatically run a backup when the USB drive ...](https://www.backup4all.com/configuring-a-backup-to-run-automatically-when-the-usb-drive-is-plugged-in-kb.html)  
+* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
     
-* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
+* [How to activate Backup4all Monitor](https://www.backup4all.com/how-to-activate-backup4all-monitor-kb.html)  
     
-* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
+* [How to back up data files from Akaza using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-akaza-using-backup4all-kb.html)  
     
-* [How to back up data files from Azure using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-azure-using-backup4all-kb.html)  
+* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
     
-* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
+* [Backup Terms Glossary](https://www.backup4all.com/backup-glossary-kb.html)  
     
 
 Choose language:
