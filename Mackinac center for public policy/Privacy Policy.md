@@ -146,7 +146,7 @@ We will notify the users via in-site notification
 
 We also agree to the Individual Redress Principle which requires that individuals have the right to legally pursue enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or government agencies to investigate and/or prosecute non-compliance by data processors.
 
-![](/include/images/logo.svg)
+![Mackinac Center Logo](/include/images/logo.svg)
 
 The Mackinac Center for Public Policy is a nonprofit research and educational institute that advances the principles of free markets and limited government. Through our research and education programs, we challenge government overreach and advocate for a free-market approach to public policy that frees people to realize their potential and dreams.
 
