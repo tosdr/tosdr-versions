@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/transform-fear-through-core-issue-work/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/wetenschap/energie/mobiel-bellen-ongezond/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
