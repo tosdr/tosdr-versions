@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 13, 2024](https://www.japantimes.co.jp/archive/2024/11/13/ "archive page")
+[November 14, 2024](https://www.japantimes.co.jp/archive/2024/11/14/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,21 +131,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
-  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
 [India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
 
   [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
+
+[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
 [Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
   [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-[Ishiba holds on to PM role as tricky parliamentary session looms](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
+[35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
-  [![Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433351.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
+  [![People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433711.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
 [Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
@@ -153,12 +153,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 Editors' Picks
 --------------
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
-  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -170,19 +164,25 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
-[Ishiba holds on to PM role as tricky parliamentary session looms](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
+[35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
-By [Gabriele Ninivaggi](https://www.japantimes.co.jp/author/4179/gabriele-ninivaggi/ "Gabriele Ninivaggi")  
+By [Isabel Kua](https://www.japantimes.co.jp/author/4982/isabel-kua/ "Isabel Kua") and [Michael ZHANG](https://www.japantimes.co.jp/author/6178/michael-zhang/ "Michael ZHANG")  
 
-  [![Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433351.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba votes to elect the prime minister at the Lower House in Tokyo on Monday.")](https://www.japantimes.co.jp/news/2024/11/11/japan/politics/shigeru-ishiba-pm-election/ "Ishiba holds on to PM role as tricky parliamentary session looms")
+  [![People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433711.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
+
+4 hours ago
+
 [Seven & I considers massive management buyout offer](https://www.japantimes.co.jp/business/2024/11/13/companies/seven-i-buyout/ "Seven & I considers massive management buyout offer")
 
-56 mins ago
+7 hours ago
 
 [Host arrested on suspicion of coercing client into prostitution](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/host-club-prostution/ "Host arrested on suspicion of coercing client into prostitution")
 
-1 hours ago
+7 hours ago
+
+[Japan OKs insurance coverage of Alzheimer's drug donanemab](https://www.japantimes.co.jp/news/2024/11/13/japan/science-health/insuarance-coverage-alzheimers-drug/ "Japan OKs insurance coverage of Alzheimer's drug donanemab")
+
+7 hours ago
 
 [Chinese national held over swindling of Ibaraki woman who lost ¥809 million](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/83-million-investment-fraud/ "Chinese national held over swindling of Ibaraki woman who lost ¥809 million")
 
-1 hours ago
-
-[Ishiba in for a bumpy ride as CDP takes Budget Committee post](https://www.japantimes.co.jp/news/2024/11/13/japan/politics/budget-committee-chair-cdp/ "Ishiba in for a bumpy ride as CDP takes Budget Committee post")
-
-1 hours ago
-
-[Tsuruga reactor formally ruled noncompliant with safety standards](https://www.japantimes.co.jp/news/2024/11/13/japan/tsuruga-reactor-noncompliant/ "Tsuruga reactor formally ruled noncompliant with safety standards")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
