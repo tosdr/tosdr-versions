@@ -184,6 +184,7 @@ Please enter a search term
     * [Electrify - multi-site development](https://www.pinsentmasons.com/solutions/electrify)
     * [Employment Law +](https://www.pinsentmasons.com/solutions/employment-law-plus)
     * [Medtech Express - medtech startup documentation](https://www.pinsentmasons.com/solutions/medtech-express)
+    * [Pay Equity Solution](https://www.pinsentmasons.com/solutions/pay-equity-solution)
     * [Pensions Solutions](https://www.pinsentmasons.com/solutions/pensions-services)
     * [P2C: Procurement to Completion](https://www.pinsentmasons.com/solutions/construction-procurement-contracts)
     * [Schrems II Managed Legal Service](https://www.pinsentmasons.com/solutions/schrems-ii-managed-legal-service)
@@ -1001,7 +1002,7 @@ Other notices and information
     * [Your risks and regulatory environment](https://www.pinsentmasons.com/what-we-do/your-risks-and-regulatory-environment)
     
 
-[](https://www.pinsentmasons.com/ "Pinsent Masons")
+[](https://www.pinsentmasons.com/en-gb "Pinsent Masons")
 
 * [Legal Notices](https://www.pinsentmasons.com/legal-notices)
 * [Privacy Policy](https://www.pinsentmasons.com/legal-notices/privacy-policy)
