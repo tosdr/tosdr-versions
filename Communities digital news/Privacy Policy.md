@@ -26,41 +26,43 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-blinken-crier-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/state-dept-holds-therapy-cry-session-after-trump-win-report/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brittany-patterson-1200x630.jpg)](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
 
-[State Dept. holds therapy ‘cry session’ after Trump win – report](https://americanwirenews.com/state-dept-holds-therapy-cry-session-after-trump-win-report/)
+[Small-town mom of four refuses to sign ‘safety plan’ after she’s arrested over 10-yr-old walking alone](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-megyn-kelly-1200x630.png)](https://americanwirenews.com/megyn-kelly-comes-for-liberal-feminists-over-how-they-treat-men-and-wow-is-she-on-fire/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumppbd1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/federal-judge-rescinds-retirement-following-trump-win-as-biden-scrambles-to-make-11th-hour-appointments/)
 
-[Megyn Kelly comes for liberal feminists over how they treat men, and WOW is she on FIRE!](https://americanwirenews.com/megyn-kelly-comes-for-liberal-feminists-over-how-they-treat-men-and-wow-is-she-on-fire/)
+[Federal judge rescinds retirement following Trump win as Biden scrambles to make 11th hour appointments](https://americanwirenews.com/federal-judge-rescinds-retirement-following-trump-win-as-biden-scrambles-to-make-11th-hour-appointments/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-1200x630.jpg)](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelley-werkheiser-1200x630.jpg)](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
 
-[Melania will reportedly skip WH meeting with Joe and Jill Biden](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
+[CBS’s Scott Pelley reality checked by Penn restaurant owner, lifelong Dem, who voted Trump](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-khamenei-pezeshkian-1200x630.jpg)](https://americanwirenews.com/third-rate-comedy-iran-responds-to-trump-assassination-attempt-claims/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-faucihouse-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fauci-received-15-million-in-taxpayer-funded-security-perks-after-retirement-report/)
 
-[‘Third-rate comedy’: Iran responds to Trump assassination attempts](https://americanwirenews.com/third-rate-comedy-iran-responds-to-trump-assassination-attempt-claims/)
+[Fauci received $15 MILLION in taxpayer-funded security perks after retirement: report](https://americanwirenews.com/fauci-received-15-million-in-taxpayer-funded-security-perks-after-retirement-report/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marco-rubio-and-kristi-noem-1200x630.jpg)](https://americanwirenews.com/the-chosen-kristi-noem-marco-rubio-added-to-trump-team-offered-major-roles/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/09/SGVotingMachine-1200x630.png)](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
 
-[The chosen: Kristi Noem, Marco Rubio added to Trump team, offered major roles](https://americanwirenews.com/the-chosen-kristi-noem-marco-rubio-added-to-trump-team-offered-major-roles/)
+[Colorado Secretary of State’s office facing probe after two affidavits claim ‘election laws were violated’](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-navarro-carlson-1200x630.jpg)](https://americanwirenews.com/shes-a-grown-ass-woman-ana-navarro-trashes-nikki-haley-for-embarrassing-herself-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-American-Flag-1200x630.jpg)](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
-[‘She’s a grown-ass woman’: Ana Navarro trashes Nikki Haley for ‘embarrassing’ herself for Trump](https://americanwirenews.com/shes-a-grown-ass-woman-ana-navarro-trashes-nikki-haley-for-embarrassing-herself-for-trump/)
+[‘This is the way!’ Elon Musk announces exciting next steps for his America PAC](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprahkamala-1200-x-628-1200x630.jpg)](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2175597782-1-1200x630.jpg)](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
 
-[Oprah denies she was ‘personally’ paid $1 million by Kamala’s campaign: ‘I was paid nothing’](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+(Photo by Jakub Porzycki/NurPhoto)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-cnnkamala1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/kamala-harris-hq-is-asking-for-donations-to-fund-recount/)
+[Stunning packaging ‘error’ leaves Mattel scrambling to recall kids’ toys](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
 
-[Kamala Harris HQ is asking for donations to fund ‘recount’](https://americanwirenews.com/kamala-harris-hq-is-asking-for-donations-to-fund-recount/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbc-election-night-1200x630.jpg)](https://americanwirenews.com/msnbc-audience-plummets-after-trump-win-primetime-hardest-hit/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt_kamhead-split-1200-x-628-1-1200x630.jpg)
+[MSNBC audience plummets after Trump win, primetime hardest hit](https://americanwirenews.com/msnbc-audience-plummets-after-trump-win-primetime-hardest-hit/)
 
-### ‘It’s bullsh\*t’ – House Dems fall into bitter squabbling in aftermath of Trump’s drubbing of Kamala](https://americanwirenews.com/its-bullsht-house-dems-fall-into-bitter-squabbling-in-aftermath-of-trumps-drubbing-of-kamala/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-washington-1200x630.jpg)
+
+### Fired FEMA official throws senior leadership WAY under the bus: ‘You will find avoidance in the Carolinas’](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -78,47 +80,23 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-washington-220x180.jpg)](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2180010150-1-220x180.jpg)](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
 
-[Fired FEMA official throws senior leadership WAY under the bus: ‘You will find avoidance in the Carolinas’](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
+[New bodycam footage shows witnesses defend Daniel Penny’s actions on NYC subway](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2175597782-1-220x180.jpg)](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
+(Photo by Spencer Platt/Getty Images)
 
-[Stunning packaging ‘error’ leaves Mattel scrambling to recall kids’ toys](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tapper-220x180.jpg)](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
 
-(Photo by Jakub Porzycki/NurPhoto)
+[CNN headed for another big round of layoffs and demotions likely to affect on-air talent: report](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-witthoeft-220x180.jpg)](https://americanwirenews.com/ashli-babbitts-mom-raises-a-toast-outside-dc-jail-as-she-hangs-her-hopes-on-trump/)
 
 [Ashli Babbitt’s mom raises a toast outside DC jail as she hangs her hopes on Trump](https://americanwirenews.com/ashli-babbitts-mom-raises-a-toast-outside-dc-jail-as-she-hangs-her-hopes-on-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2022/09/SGVotingMachine-220x180.png)](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
-
-[Colorado Secretary of State’s office facing probe after two affidavits claim ‘election laws were violated’](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelley-werkheiser-220x180.jpg)](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
-
-[CBS’s Scott Pelley reality checked by Penn restaurant owner, lifelong Dem, who voted Trump](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-faucihouse-1200-x-628-220x180.jpg)](https://americanwirenews.com/fauci-received-15-million-in-taxpayer-funded-security-perks-after-retirement-report/)
-
-[Fauci received $15 MILLION in taxpayer-funded security perks after retirement: report](https://americanwirenews.com/fauci-received-15-million-in-taxpayer-funded-security-perks-after-retirement-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-msnbc-election-night-220x180.jpg)](https://americanwirenews.com/msnbc-audience-plummets-after-trump-win-primetime-hardest-hit/)
-
-[MSNBC audience plummets after Trump win, primetime hardest hit](https://americanwirenews.com/msnbc-audience-plummets-after-trump-win-primetime-hardest-hit/)
-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-warren-buffett-220x180.jpg)](https://americanwirenews.com/warren-buffett-sparks-firestorm-of-speculation-with-major-stock-move/)
 
 [Warren Buffett sparks firestorm of speculation with major stock move](https://americanwirenews.com/warren-buffett-sparks-firestorm-of-speculation-with-major-stock-move/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-trumppbd1-1200-x-628-220x180.jpg)](https://americanwirenews.com/federal-judge-rescinds-retirement-following-trump-win-as-biden-scrambles-to-make-11th-hour-appointments/)
-
-[Federal judge rescinds retirement following Trump win as Biden scrambles to make 11th hour appointments](https://americanwirenews.com/federal-judge-rescinds-retirement-following-trump-win-as-biden-scrambles-to-make-11th-hour-appointments/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brittany-patterson-220x180.jpg)](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
-
-[Small-town mom of four refuses to sign ‘safety plan’ after she’s arrested over 10-yr-old walking alone](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-costner-220x180.jpg)](https://americanwirenews.com/actor-kevin-costner-strongly-defends-liz-cheney/)
 
@@ -154,6 +132,42 @@ Search for:
 
 [‘We’re coming’ – new ‘border czar’ puts sanctuary cities on notice, migrants already reacting](https://americanwirenews.com/were-coming-new-border-czar-puts-sanctuary-cities-on-notice-migrants-already-reacting/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-cnnkamala1-1200-x-628-220x180.jpg)](https://americanwirenews.com/kamala-harris-hq-is-asking-for-donations-to-fund-recount/)
+
+[Kamala Harris HQ is asking for donations to fund ‘recount’](https://americanwirenews.com/kamala-harris-hq-is-asking-for-donations-to-fund-recount/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprahkamala-1200-x-628-220x180.jpg)](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+
+[Oprah denies she was ‘personally’ paid $1 million by Kamala’s campaign: ‘I was paid nothing’](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-navarro-carlson-220x180.jpg)](https://americanwirenews.com/shes-a-grown-ass-woman-ana-navarro-trashes-nikki-haley-for-embarrassing-herself-for-trump/)
+
+[‘She’s a grown-ass woman’: Ana Navarro trashes Nikki Haley for ‘embarrassing’ herself for Trump](https://americanwirenews.com/shes-a-grown-ass-woman-ana-navarro-trashes-nikki-haley-for-embarrassing-herself-for-trump/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marco-rubio-and-kristi-noem-220x180.jpg)](https://americanwirenews.com/the-chosen-kristi-noem-marco-rubio-added-to-trump-team-offered-major-roles/)
+
+[The chosen: Kristi Noem, Marco Rubio added to Trump team, offered major roles](https://americanwirenews.com/the-chosen-kristi-noem-marco-rubio-added-to-trump-team-offered-major-roles/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-khamenei-pezeshkian-220x180.jpg)](https://americanwirenews.com/third-rate-comedy-iran-responds-to-trump-assassination-attempt-claims/)
+
+[‘Third-rate comedy’: Iran responds to Trump assassination attempts](https://americanwirenews.com/third-rate-comedy-iran-responds-to-trump-assassination-attempt-claims/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-220x180.jpg)](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
+
+[Melania will reportedly skip WH meeting with Joe and Jill Biden](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-megyn-kelly-220x180.png)](https://americanwirenews.com/megyn-kelly-comes-for-liberal-feminists-over-how-they-treat-men-and-wow-is-she-on-fire/)
+
+[Megyn Kelly comes for liberal feminists over how they treat men, and WOW is she on FIRE!](https://americanwirenews.com/megyn-kelly-comes-for-liberal-feminists-over-how-they-treat-men-and-wow-is-she-on-fire/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-blinken-crier-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/state-dept-holds-therapy-cry-session-after-trump-win-report/)
+
+[State Dept. holds therapy ‘cry session’ after Trump win – report](https://americanwirenews.com/state-dept-holds-therapy-cry-session-after-trump-win-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt_kamhead-split-1200-x-628-1-220x180.jpg)](https://americanwirenews.com/its-bullsht-house-dems-fall-into-bitter-squabbling-in-aftermath-of-trumps-drubbing-of-kamala/)
+
+[‘It’s bullsh\*t’ – House Dems fall into bitter squabbling in aftermath of Trump’s drubbing of Kamala](https://americanwirenews.com/its-bullsht-house-dems-fall-into-bitter-squabbling-in-aftermath-of-trumps-drubbing-of-kamala/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-beyonce-220x180.jpg)](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
 
 [Yale introducing new Beyoncé course centered on her political and cultural impact](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
@@ -165,18 +179,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ana-navarro-220x180.png)](https://americanwirenews.com/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump/)
 
 [Ana Navarro to Biden: ‘Baby, pardon Hunter because America just pardoned’ Trump](https://americanwirenews.com/ana-navarro-to-biden-baby-pardon-hunter-because-america-just-pardoned-trump/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-harris-winfrey-220x180.jpg)](https://americanwirenews.com/kamala-harris-campaign-paid-1-million-to-oprah-after-star-studded-october-town-hall/)
-
-[Kamala Harris campaign paid $1 million to Oprah after star-studded October town hall](https://americanwirenews.com/kamala-harris-campaign-paid-1-million-to-oprah-after-star-studded-october-town-hall/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelosi-sanders-220x180.jpg)](https://americanwirenews.com/nancy-pelosi-mauls-bernie-in-aftermath-of-kamala-collapse-he-fires-back/)
-
-[Nancy Pelosi mauls Bernie in aftermath of Kamala collapse – he fires back](https://americanwirenews.com/nancy-pelosi-mauls-bernie-in-aftermath-of-kamala-collapse-he-fires-back/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/07/sg-mark-cuban-2-220x180.jpg)](https://americanwirenews.com/mark-cuban-says-nothing-to-see-here-when-accused-of-deleting-pro-kamala-tweets/)
-
-[Mark Cuban says nothing to see here when accused of deleting pro-Kamala tweets](https://americanwirenews.com/mark-cuban-says-nothing-to-see-here-when-accused-of-deleting-pro-kamala-tweets/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
