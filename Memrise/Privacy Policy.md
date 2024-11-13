@@ -17,7 +17,7 @@ Select page language
 
 * [Log in](https://app.memrise.com/signin)
 
-[![memrise logo](https://6968579.fs1.hubspotusercontent-na1.net/hubfs/6968579/Memrise%20July%202020/Images/logo_yellow.svg)](https://www.memrise.com/ "Home")
+[![memrise logo](https://www.memrise.com/hubfs/Memrise%20July%202020/Images/logo_yellow.svg)](https://www.memrise.com/ "Home")
 
 * [Log in](https://app.memrise.com/signin)
 [![Start learning](https://no-cache.hubspot.com/cta/default/6968579/bc1e8c88-2166-4701-9ec6-9eca362af8a5.png)](https://cta-redirect.hubspot.com/cta/redirect/6968579/bc1e8c88-2166-4701-9ec6-9eca362af8a5)
@@ -289,7 +289,7 @@ We may change this Privacy Policy at any time and when we do we will post an upd
 
 If you have any questions about our Privacy Policy or our data practices, please [contact us](https://www.memrise.com/contact/).
 
-[![memrise](https://6968579.fs1.hubspotusercontent-na1.net/hubfs/6968579/Memrise%20July%202020/Images/logo.png)](https://www.memrise.com/)
+[![memrise](https://www.memrise.com/hubfs/Memrise%20July%202020/Images/logo.png)](https://www.memrise.com/)
 
 [![Start learning](https://no-cache.hubspot.com/cta/default/6968579/c1b818db-40d6-455e-b4f2-2eb540060828.png)](https://cta-redirect.hubspot.com/cta/redirect/6968579/c1b818db-40d6-455e-b4f2-2eb540060828)
 
