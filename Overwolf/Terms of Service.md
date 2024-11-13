@@ -12,8 +12,10 @@
 * [Français](https://www.overwolf.com/fr/docs/overwolf/website/terms-of-use)
 * [Italiano](https://www.overwolf.com/it/docs/overwolf/website/terms-of-use)
 * [日本語](https://www.overwolf.com/ja/docs/overwolf/website/terms-of-use)
+* [한국어](https://www.overwolf.com/ko/docs/overwolf/website/terms-of-use)
 * [Polski](https://www.overwolf.com/pl/docs/overwolf/website/terms-of-use)
 * [Português](https://www.overwolf.com/pt/docs/overwolf/website/terms-of-use)
+* [简体中文](https://www.overwolf.com/zh/docs/overwolf/website/terms-of-use)
 
 Search
 
