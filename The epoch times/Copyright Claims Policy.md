@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Paris Beefs Up Security Ahead of France v Israel Football Match](https://www.theepochtimes.com/world/paris-beefs-up-security-ahead-of-france-v-israel-football-match-5758838)
+* [Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly](https://www.theepochtimes.com/health/covid-19-vaccines-do-not-produce-durable-immune-cells-in-bone-marrow-5758996)
     
-    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    1hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
-    [![Paris Beefs Up Security Ahead of France v Israel Football Match](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Paris Beefs Up Security Ahead of France v Israel Football Match](https://img.theepochtimes.com/assets/uploads/2015/11/16/Getty-455903760-205x123.jpg.webp)](https://www.theepochtimes.com/world/paris-beefs-up-security-ahead-of-france-v-israel-football-match-5758838)
-* [Melania Trump Says She Won’t Be Attending White House Meeting, Responds to ‘False’ Rumors](https://www.theepochtimes.com/us/melania-trump-says-she-wont-be-attending-white-house-meeting-responds-to-false-rumors-5758936)
+    ![Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759128-shutterstock_2159236473_plasma_cell_antibody_antibodies_immunoglobulins_b-cell_bcell_immune_immunology-205x123.jpg.webp)](https://www.theepochtimes.com/health/covid-19-vaccines-do-not-produce-durable-immune-cells-in-bone-marrow-5758996)
+* [Trump Picks Gaetz for Attorney General, Rubio for Secretary of State](https://www.theepochtimes.com/us/trump-picks-gaetz-for-attorney-general-rubio-for-secretary-state-5759219)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![Melania Trump Says She Won’t Be Attending White House Meeting, Responds to ‘False’ Rumors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Picks Gaetz for Attorney General, Rubio for Secretary of State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Melania Trump Says She Won’t Be Attending White House Meeting, Responds to ‘False’ Rumors](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743454-DSC09482-alfred-smith-dinner-205x123.jpg.webp)](https://www.theepochtimes.com/us/melania-trump-says-she-wont-be-attending-white-house-meeting-responds-to-false-rumors-5758936)
-* [US Annual Inflation Rises to 2.6 Percent, First Increase Since March](https://www.theepochtimes.com/business/us-annual-inflation-rises-to-2-6-percent-first-increase-since-march-5758796)
+    ![Trump Picks Gaetz for Attorney General, Rubio for Secretary of State](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759286-GettyImages-1744932118-sb-205x123.jpg)](https://www.theepochtimes.com/us/trump-picks-gaetz-for-attorney-general-rubio-for-secretary-state-5759219)
+* [Blinken Vows US Military Aid Surge to Support Ukraine in 2025 Fight Against Russia](https://www.theepochtimes.com/world/blinken-vows-us-military-aid-surge-to-support-ukraine-in-2025-fight-against-russia-5759036)
     
-    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![US Annual Inflation Rises to 2.6 Percent, First Increase Since March](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Blinken Vows US Military Aid Surge to Support Ukraine in 2025 Fight Against Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Annual Inflation Rises to 2.6 Percent, First Increase Since March](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739371-GettyImages-1537694096-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-annual-inflation-rises-to-2-6-percent-first-increase-since-march-5758796)
-* [Senate Majority Leader: 9 Things to Know About the Candidates](https://www.theepochtimes.com/us/senate-majority-leader-9-things-to-know-about-the-candidates-5758407)
+    ![Blinken Vows US Military Aid Surge to Support Ukraine in 2025 Fight Against Russia](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759265-Belgium_NATO_US_24318308660620-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/blinken-vows-us-military-aid-surge-to-support-ukraine-in-2025-fight-against-russia-5759036)
+* [6 Things to Know About Kristi Noem, Trump’s Nominee for Homeland Security Secretary](https://www.theepochtimes.com/us/6-things-to-know-about-kristi-noem-trumps-nominee-for-homeland-security-secretary-5759073)
     
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Senate Majority Leader: 9 Things to Know About the Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![6 Things to Know About Kristi Noem, Trump’s Nominee for Homeland Security Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senate Majority Leader: 9 Things to Know About the Candidates](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757853-ScottThuneCornyn2-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-majority-leader-9-things-to-know-about-the-candidates-5758407)
-* [Supreme Court Won’t Hear Challenge to New York Rent Control Law](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-new-york-rent-control-law-5758668)
+    ![6 Things to Know About Kristi Noem, Trump’s Nominee for Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759269-Kristi-Noem-9_JF_05182024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/6-things-to-know-about-kristi-noem-trumps-nominee-for-homeland-security-secretary-5759073)
+* [Trump Picks Rubio, Longtime China Hawk, for Secretary of State](https://www.theepochtimes.com/article/trump-taps-rubio-longtime-china-hawk-as-secretary-of-state-5686671)
     
-    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
-    [![Supreme Court Won’t Hear Challenge to New York Rent Control Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Picks Rubio, Longtime China Hawk, for Secretary of State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Supreme Court Won’t Hear Challenge to New York Rent Control Law](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753916-10232024-DSC06732-SCOTUS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-new-york-rent-control-law-5758668)
-* [US Will Not Limit Israel Arms Transfers After Gaza Aid Deadline Passes](https://www.theepochtimes.com/world/us-will-not-limit-israel-arms-transfers-after-gaza-aid-deadline-passes-5758572)
+    ![Trump Picks Rubio, Longtime China Hawk, for Secretary of State](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758727-GettyImages-2181168888-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-taps-rubio-longtime-china-hawk-as-secretary-of-state-5686671)
+* [Mask Mandate Announced for Health Care Workers in California County](https://www.theepochtimes.com/us/mask-mandate-announced-for-health-care-workers-in-california-county-5759074)
     
-    5hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![US Will Not Limit Israel Arms Transfers After Gaza Aid Deadline Passes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Mask Mandate Announced for Health Care Workers in California County](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Will Not Limit Israel Arms Transfers After Gaza Aid Deadline Passes](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758894-2.download-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-will-not-limit-israel-arms-transfers-after-gaza-aid-deadline-passes-5758572)
-* [Biden to Host Trump at the White House Today](https://www.theepochtimes.com/us/biden-to-host-trump-at-the-white-house-today-5758740)
+    ![Mask Mandate Announced for Health Care Workers in California County](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740691-EpochImages-9193431748-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/mask-mandate-announced-for-health-care-workers-in-california-county-5759074)
+* [US Household Debt Inches Closer to Record $18 Trillion in 3rd Quarter: New York Fed](https://www.theepochtimes.com/business/us-household-debt-inches-closer-to-record-18-trillion-in-3rd-quarter-new-york-fed-5759016)
     
-    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Biden to Host Trump at the White House Today](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Household Debt Inches Closer to Record $18 Trillion in 3rd Quarter: New York Fed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden to Host Trump at the White House Today](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758971-Trump-arrives-in-DC-GettyImages-2184571676-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-host-trump-at-the-white-house-today-5758740)
-* [Senate Majority Leader Contenders Differ Mostly on Process, Not Policy](https://www.theepochtimes.com/us/senate-majority-leader-contenders-differ-mostly-on-process-not-policy-5758375)
+    ![US Household Debt Inches Closer to Record $18 Trillion in 3rd Quarter: New York Fed](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569401-GettyImages-1209301796-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-household-debt-inches-closer-to-record-18-trillion-in-3rd-quarter-new-york-fed-5759016)
+* [Biden, Xi to Hold Bilateral Meeting at APEC Summit This Week](https://www.theepochtimes.com/china/biden-xi-to-hold-bilateral-meeting-at-apec-summit-this-week-5758978)
     
-    6hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Senate Majority Leader Contenders Differ Mostly on Process, Not Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden, Xi to Hold Bilateral Meeting at APEC Summit This Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senate Majority Leader Contenders Differ Mostly on Process, Not Policy](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758884-EpochImages-3675006171-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-majority-leader-contenders-differ-mostly-on-process-not-policy-5758375)
-* [Tracking Every Trump Cabinet Pick](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
+    ![Biden, Xi to Hold Bilateral Meeting at APEC Summit This Week](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759270-GettyImages-2182727669-Joe-Biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/biden-xi-to-hold-bilateral-meeting-at-apec-summit-this-week-5758978)
+* [Los Angeles Mayor Pushes for Official Sanctuary City Status Before Trump Assumes Office](https://www.theepochtimes.com/us/los-angeles-mayor-pushes-for-official-sanctuary-city-status-before-trump-assumes-office-5758685)
     
-    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Los Angeles Mayor Pushes for Official Sanctuary City Status Before Trump Assumes Office](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758999-Trumps-cabinet-picks-7-205x123.jpg)](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
-* [Trump Picks Kristi Noem to Be Homeland Security Secretary](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
+    ![Los Angeles Mayor Pushes for Official Sanctuary City Status Before Trump Assumes Office](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759084-Karen-Bass-9_JF_01302024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/los-angeles-mayor-pushes-for-official-sanctuary-city-status-before-trump-assumes-office-5758685)
+* [Chinese National Pleads Guilty to Laundering $73 Million in Crypto Scam](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-to-laundering-73-million-in-crypto-scam-5758991)
     
-    15hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    5hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Chinese National Pleads Guilty to Laundering $73 Million in Crypto Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758893-GettyImages-2087322067-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
+    ![Chinese National Pleads Guilty to Laundering $73 Million in Crypto Scam](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734657-07292024-DSC09126-DOJKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-to-laundering-73-million-in-crypto-scam-5758991)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
