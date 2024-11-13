@@ -228,7 +228,7 @@ Haircare Bundle
 
 $32.00](https://blackwolfnation.com/products/haircare-bundle)
 
-Out of stock
+29% Off
 
 [![](//blackwolfnation.com/cdn/shop/files/NEW_PRODUCT_IMAGES_-_NEW_SITE_12.png?v=1726856781&width=1080)
 
@@ -236,7 +236,7 @@ Out of stock
 
 Sonic Scrubber Exfoliation System
 
-$49.99](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash)
+$71.00$49.99](https://blackwolfnation.com/products/sonic-scrubber-body-wash-face-wash)
 
 [![](//blackwolfnation.com/cdn/shop/files/ScreenShot2024-10-15at11.34.01AM.png?v=1729017249&width=946)
 
