@@ -303,7 +303,7 @@ We use your email address and the other information that you give to us as part 
 
 When you create an account we may collect your name and email address.
 
-For services that provide local information (like InYourArea) we will also collect your postcode and any associated areas of local interest that you want to be updated about. If you subscribe to a paid version of our sites such as **Premium** or **Privacy Plus** (without personalised advertising and tracking) we will collect your payment details, in order for us to fulfil your subscription. For more information on subscriptions see [9\. When you subscribe to our print or “Digital Edition” titles.](#whenyousubprintdgi)
+For services that provide local information (like InYourArea) we will also collect your postcode and any associated areas of local interest that you want to be updated about. If you subscribe to a paid version of our sites such as **Premium** or **Privacy Plus** (without personalised advertising) we will collect your payment details, in order for us to fulfil your subscription. For more information on subscriptions see [9\. When you subscribe to our print or “Digital Edition” titles.](#whenyousubprintdgi)
 
 Some services may let you upload your own content to our sites, such as comments or pictures. Those things will, by the nature of the service, be generally visible on the site and may be attributed to user names. Your comments may be used in print, online or on the social pages for brands owned and published by Reach plc. We may also record what types of content you have commented on, and associate this with our profile of you. Please do not provide any personal data which you do not want to be published. Comments will be subject to moderation checks before publication.
 
@@ -735,23 +735,16 @@ As part of the subscription process you may be asked if you want to receive othe
 
 **Privacy Plus Subscription**
 
-On some of our websites we offer you a **Privacy Plus** subscription service for tracking-free access. This **Privacy Plus** subscription provides a reading option free of personalised advertising, where we completely forego advertising tracking and only serve basic advertising. For a monthly fee, a Privacy Plus subscription enables you to access the same content, without sharing your personal data for advertising purposes.
+On some of our websites we offer you a **Privacy Plus** subscription service for tracking-free access. This **Privacy Plus** subscription provides a reading option free of personalised advertising. For a monthly fee, a Privacy Plus subscription enables you to access the same content, without sharing your personal data for advertising purposes.
 
 This means:
 
-* We will not run tracking technologies.
-* An interest profile will not be generated based on your browsing.
+* We will not run advertising tracking technologies.
 * You will not receive personalised advertising.
-* You will not receive personalised content, unless you specifically opt in to do so.
 
-The Privacy Plus "anti-tracking" subscription:
+For more information see our [T&Cs](https://www.somersetlive.co.uk/terms-conditions/)
 
-* Does not include the possibility of reading premium content.
-* Is not exempt from continuing to receive advertising (it will just be non-personalised advertising).
-
-If you subscribe to this service, you can still choose to subsequently consent, for example to personalised editorial content recommendations, however without this express consent we will only analyse your usage exclusively for our own essential site operation purposes (such as fraud prevention and to assess our editorial content e.g. to determine which articles are particularly popular). Selecting this option means we do not pass your data to advertising providers and do not pass on any personalised usage data to third parties.
-
-In order to be able to offer you this service on our website, we will collect online identifiers such as device type, IP address, language settings, approximate location at the time of browsing, and your logged in user id. This will be used to enable us to verify you as a Privacy Plus subscriber, to technically run the service and for security and anti-fraud purposes. We won't process information to identify or track you.
+In order to be able to offer you this service on our website, we will collect online identifiers such as device type, IP address, language settings, approximate location at the time of browsing, and your logged in user id. This will be used to enable us to verify you as a Privacy Plus subscriber, to technically run the service and for security and anti-fraud purposes.
 
 **9.2 When you place a classified ad**
 
