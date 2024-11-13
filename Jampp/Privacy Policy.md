@@ -58,13 +58,13 @@ Company
 
 From our blog
 
+[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/6734e7d7c7119d868b712138_5-ad-formats-to-boost-mobile-conversions-this-shopping-season.png)
+
+5 ad formats to boost mobile conversions this Shopping season](https://jampp.com/blog/5-ad-formats-to-boost-mobile-conversions-this-shopping-season)
+
 [![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/671904d9c72aac53b4e868cd_trending-creative-strategies-for-shopping-apps-in-2024-guide.png)
 
 Trending creative strategies for Shopping apps in 2024 \[+GUIDE\]](https://jampp.com/blog/trending-creative-strategies-for-shopping-apps-in-2024-guide)
-
-[![](https://cdn.prod.website-files.com/60ccf8130541d400f636b900/6706d6be80bbb2c31a2fbb74_julo-grows-the-penetration-of-financial-products-with-app-retargeting.png)
-
-JULO grows the penetration of financial products with App Retargeting](https://jampp.com/blog/julo-grows-the-penetration-of-financial-products-with-app-retargeting)
 
 [ Login](https://auth.jampp.com/login?redirect=https%3A%2F%2Fdashboard.jampp.com%2F)[Contact Sales](https://jampp.com/contact)
 
