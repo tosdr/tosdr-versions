@@ -205,24 +205,21 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Worst Goon Gifts \[Receiving\]: (Part 2 of 2)](https://www.somethingawful.com/comedy-goldmine/worst-goon-gifts/1/)
-* [AD&D 2nd Edition Planescape Monstrous Compendium Appendix III (1998)](https://www.somethingawful.com/dungeons-and-dragons/planescape-inner-planes/1/)
-* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
-* [Bugs Bunny's Crazy Castle](https://www.somethingawful.com/rom-pit/nes-bugs-bunny/)
-* [20 Alternate Titles for I Have No Mouth, and I Must Scream](https://www.somethingawful.com/news/harlan-ellison-alternatives/)
+* [The Best Of...](https://www.somethingawful.com/great-goon-database/great-goon-best/1/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
+* [Storytime: He-Man and the ROCK WARRIORS!](https://www.somethingawful.com/feature-articles/storytime-heman-rock/1/)
+* [Downgrades](https://www.somethingawful.com/photoshop-phriday/downgrades/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/tfr-box.gif) [Avoid fifth glyph. It is bad.](http://forums.somethingawful.com/showthread.php?threadid=4075230 "Avoid fifth glyph. It is bad.")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [Who has a good baby?](http://forums.somethingawful.com/showthread.php?threadid=4075223 "Who has a good baby?")
-
 ### Random Articles
 
-* [Hercolubus!!](https://www.somethingawful.com/awful-links/awful-link-2563/)
-* [MEN IN ONE-PIECE SWIMSUITS SITE](https://www.somethingawful.com/awful-links/awful-link-1747/)
-* [August 13, 2013](https://www.somethingawful.com/twitter-tuesday/tt08-13-13/)
-* [Television and Movie Forums](https://www.somethingawful.com/weekend-web/television-movie-forums/1/)
-* [A Tribute to Master Cheung](https://www.somethingawful.com/news/tribute-master-cheung/)
+* [Fight the Republican Future](https://www.somethingawful.com/news/joe-biden-xfiles/)
+* [Bitcoins: Are Your Children Safe?](https://www.somethingawful.com/everdraed-showcase/bitcoins-children-wonka/)
+* [Rifts World Book Japan](https://www.somethingawful.com/dungeons-and-dragons/rifts-japan/1/)
+* [Someone Call Jason Statham's Agent RIGHT NOW](https://www.somethingawful.com/webcam-ward/hustle-action-riff/)
+* [Something Awful World Exclusive First Review of Grand Theft Auto: San Andreas](https://www.somethingawful.com/news/something-awful-world/)
 
 [Random!](https://www.somethingawful.com/random/)
 
