@@ -401,7 +401,7 @@ We may revise or update this Privacy Policy from time to time to reflect changes
 13. [Contact Us](#contact-us)  
       
     
-    \_
+    personal-information
     
 
 **1\. What Personal Information May We Collect?**
@@ -430,8 +430,6 @@ Personal Information may be collected directly from you, such as when you contac
     * We use Third-Party Data to (a) contact such third party using the Third-Party Data provided, and/or (b) provide you with an editable template message designed to facilitate communication between you and such party through the Services. We may also send reminders or related messages to you and to third parties on your behalf from time to time, as and where permitted by applicable law.
 * **_Sensitive Personal Information_**_._ We generally do not collect or process Sensitive Personal Information. When you make a donation, you may be required to provide financial or bank information prior to making the donation. Please note, we do not store financial and bank information; such information is processed and stored by our payment processor, Stripe. For more information on Stripe’s privacy practices, please visit: [https://stripe.com/privacy](https://stripe.com/privacy).
 
-\_
-
 **2\. How May We Use Your Personal Information?**
 -------------------------------------------------
 
@@ -451,7 +449,7 @@ We and/or our service providers may use the Personal Information we collect from
 * **Safety and Security.** We may use your Personal Information to detect, prevent, or otherwise address fraud or security issues, and to protect against harm to our, your, or third parties’ rights, property, or safety.
 * **Fulfilling Other Purposes**. We may use your Personal Information to fulfill: (a) any other purpose for which you provide it; (b) any legal or regulatory requirements and any of our internal policies; (c) other purposes disclosed at the time of collection; (d) any other purpose with your consent; and (e) any other purposes set forth in this Privacy Policy  
     
-    \_
+    with-whom-do-we-share-personal-information-we-collect
     
 
 **3\. With Whom Do We Share Personal Information We Collect?**
@@ -472,7 +470,7 @@ Except as otherwise described in this Privacy Policy, we do not sell, share, ren
 * **Non-Personally Identifiable Information**. We may analyze your information in aggregate form to operate, maintain, manage, and improve the Services. We may share non-personally identifiable information about usage of the Services (including aggregate data) with third parties, including our affiliates, agents, and business partners, for their own use, in a de-identified form.
 * **Publicly Posted Information.** If you voluntarily post Personal Information to public areas of the Services, that information may be available to other Service users.  
     
-    \_
+    personal
     
 
 **4\. How Do We Secure Your Personal Information?**
@@ -484,8 +482,6 @@ We cannot guarantee that any information, during transmission through the Intern
   
 If you create an account on the Services, you are responsible for maintaining the strict confidentiality of your account password, and you shall be responsible for any activity, including disclosure of your Personal Information, that occurs using your account credentials, whether or not you authorized such activity. Please notify us of any unauthorized use of your password or account or any other breach of security.  
   
-
-\_
 
 **5\. Cookies Policy: How Do the Services Use Cookies and Other Tracking Technologies?**
 ----------------------------------------------------------------------------------------
@@ -521,7 +517,7 @@ We, and/or our service providers or partners on our behalf, may use tracking tec
     * Safari Mac: [https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac)
     * Safari iPhone, iPad, or iPod Touch: [https://support.apple.com/en-us/HT201265](https://support.apple.com/en-us/HT201265)  
         
-        \_
+        third-party
         
 
 **6\. Links and Connections to Third-Party Services ad Sites**
@@ -544,8 +540,6 @@ For example:
 
 We encourage you to read the privacy statements of services visited through the Services or web sites visited after leaving the Services to learn about how your information is treated by others.  
   
-
-\_
 
 **_AP Buyline._** AP Buyline ([Personal Finance](https://apnews.com/buyline-personal-finance/), [Shopping](https://apnews.com/hub/shopping)) is an initiative designed to simplify complex consumer-made decisions by providing its audience with reliable evaluations and straightforward insights. The AP Buyline web site is hosted by Taboola.com Ltd., and [Taboola’s Privacy Policy](https://www.taboola.com/policies/privacy-policy) (available [here](https://www.taboola.com/policies/privacy-policy)) applies to your use of AP Buyline.  
   
@@ -607,23 +601,17 @@ In some instances, we collect data and work with third parties to show you perso
 Please note that if you opt out of any third-party data collection described in this section, we may still suggest offerings (including content sponsored by third parties) to you on our Services based on your history or your account preferences.  
   
 
-\_
-
 **7\. Do Not Track Disclosures**
 --------------------------------
 
 Some web browsers may transmit “do-not-track” (“DNT”) signals to mobile applications with which the user communicates. We currently do not change our tracking practices (which are explained in more detail under “Service Usage Information” above) in response to DNT settings in your web browser.  
   
 
-\_
-
 **8\. Opt Out of E-mail Marketing**
 -----------------------------------
 
 You can opt out of our promotional e-mails by clicking the opt-out/unsubscribe link within the e-mail you receive. Please understand that it may take us a few days to process any opt-out request, and that even if you opt out of receiving promotional correspondence from us, we may still contact you in connection with your relationship, activities, transactions, and communications with us.  
   
-
-\_
 
 **9\. Your Personal Information Rights and Choices**
 ----------------------------------------------------
@@ -707,8 +695,6 @@ You may also object at any time to processing of your Personal Information for d
 We use data to support digital advertising activities on our Services that help us bring AP’s fast, accurate and unbiased news to you at no cost. We respect our users’ desire to limit the ads they receive. For instance, you may be able to limit your receipt of targeted ads (see above in Section 9). We also want you to be aware that, if you use an adblocker, the adblocker’s default settings could include your provision of consent to ads that meet certain standards, which may include some of the ads we serve through our Services. To change that setting, please go to your adblocker's settings.  
   
 
-\_
-
 **10\. What Is Our Legal Basis for Use of Your Personal Information?**
 ----------------------------------------------------------------------
 
@@ -722,23 +708,17 @@ The laws of some jurisdictions, such as the EEA and the UK, require us to tell y
     
 * **Legitimate Interest** – Where use of your Personal Information is necessary for our or third parties’ legitimate interests and where the use is not outweighed by your rights and interests. Legitimate interests include: providing the Services; improving the Services and developing new ones; recognizing and better understanding our users; conducting security and fraud-prevention activities; marketing and promoting our content and Services; conducting compliance and risk-management activities; ensuring the network and information security of our systems.
 
-\_
-
 **11\. Children’s Privacy**
 ---------------------------
 
 We care about protecting the privacy of children. You must be at least eighteen (18) years of age to submit any User Content or personal information on or through the Services, register for an account, or purchase any goods or services. If you are between the ages of thirteen (13) and 18, you may view the Services with the consent of your parent or legal guardian, provided that you do not engage in any of the activities prohibited in the prior sentence. We do not knowingly collect personal information of individuals under the age of 18. If we learn that we have collected personal information from a child under 18, we will delete it in accordance with applicable law. If you have reason to believe that a child under the age of 18 has provided personal information to us, please contact us at [\[email protected\]](https://apnews.com/cdn-cgi/l/email-protection), and we will endeavor to delete that information from our databases.  
   
 
-\_
-
 **12\. Data Retention**
 -----------------------
 
 We will retain your personal information while you have an account with us. If you do not have an account with us, or if your account terminates for any reason, we will retain your personal information for as long as we have a legitimate need to retain it. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity.  
   
-
-\_
 
 **13\. Contact Us**
 -------------------
