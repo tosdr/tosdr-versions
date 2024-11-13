@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [China unveils J-35A and other new fighters at Zhuhai Airshow](https://www.defensenews.com/global/asia-pacific/2024/11/13/china-unveils-j-35a-and-other-new-fighters-at-zhuhai-airshow/)  
+    11/13/24 06:51am  
+    
+    A J-35A stealth fighter, designed and built by Shenyang Aircraft Corporation, taxis at Zhuhai International Airport on Nov. 12, 2024. (China Military)
+    
 * [Next-gen stealth tanker may be unaffordable, Air Force secretary fears](https://www.defensenews.com/air/2024/11/08/next-gen-stealth-tanker-may-be-unaffordable-air-force-secretary-fears/)  
     11/08/24 02:15pm  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/05/24 10:54am  
     
     Four Boeing E-7 Wedgetail aircraft could be sold to South Korea, according to a U.S. State Department notice. (Boeing Australia)
-    
-* [Air Force to send bomber task force to Europe](https://www.defensenews.com/air/2024/11/04/air-force-to-send-bomber-task-force-to-europe/)  
-    11/04/24 02:20pm  
-    
-    The Air Force is soon sending a task force of strategic bombers to Europe, but has not said which bombers will be deployed. The service flies B-1 Lancers, B-2 Spirits, and B-52 Stratofortresses. (Air Force)
     
 
 Recent parts by keyword  
