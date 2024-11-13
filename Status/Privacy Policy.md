@@ -402,7 +402,7 @@ Us
 
 on Nov 12, 2024
 
-![](https://our.status.im/content/images/2024/11/Status-231-blog-header.png)](https://status.im/blog/status-v2-31-is-now-live-on-mobile-and-desktop)[Desktop
+![](https://our.status.im/content/images/2024/11/Blog_-_cover_-_26.png)](https://status.im/blog/status-v2-31-is-now-live-on-mobile-and-desktop)[Desktop
 
 Status Mobile Public Release & New Desktop Beta Now Live!
 
