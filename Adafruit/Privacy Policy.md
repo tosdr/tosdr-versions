@@ -75,6 +75,14 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Angled shot of white, square-shaped USB hub.](https://cdn-shop.adafruit.com/230x173/6012-03.jpg)[Raspberry Pi USB 3 Hub - 5 Gbit/s USB 3.2 Gen1
+    
+    $12.00](https://www.adafruit.com/product/6012)
+    
+    ![Pebble strand LED strips lit up yellow-pink and blue.](https://cdn-shop.adafruit.com/230x173/6023-04.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 300 LEDs - 2" Pitch
+    
+    $39.95](https://www.adafruit.com/product/6023)
+    
     ![Overhead shot of a Black hand with red manicure drawing a rectangle on a touchscreen landscape-style.](https://cdn-shop.adafruit.com/230x173/6079-06.jpg)[Raspberry Pi Touch Display 2 - 7" 720x1280 with Capacitive Touch
     
     $60.00](https://www.adafruit.com/product/6079)
@@ -82,14 +90,6 @@ Search
     ![Angled shot of black, rectangular, pressure sensor breakout.](https://cdn-shop.adafruit.com/230x173/6067-00.jpg)[Adafruit LPS28 (LPS28DFW) Pressure Sensor - STEMMA QT / Qwiic
     
     $12.50](https://www.adafruit.com/product/6067)
-    
-    ![Angled shot of green, credit-card-sized microcontroller in black rubber bumper case.](https://cdn-shop.adafruit.com/230x173/6056-06.jpg)[Protective Silicone Bumper for Raspberry Pi 5
-    
-    $3.00](https://www.adafruit.com/product/6056)
-    
-    ![Angled shot of rectangular breakout board with three 2-pin terminal blocks.](https://cdn-shop.adafruit.com/230x173/6062-00.jpg)[Adafruit INA3221 - Triple 0-26 VDC, ±3.2 Amp Power Monitor
-    
-    $10.95](https://www.adafruit.com/product/6062)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ In the beginner’s mind there are many possibilities, in the expert’s mind there are few”
+“ We are what we celebrate”
 
-[Shunryu Suzuki](http://en.wikipedia.org/wiki/Shunryu_Suzuki)
+[Dean Kamen](http://en.wikipedia.org/wiki/Dean_Kamen)
 
 [](https://www.adafruit.com/about)
 
