@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Jiya and Hardik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Jiya and Hardik](https://image.wedmegood.com/resized/250X/uploads/images/55a69c5cbde342968c1e49e153de11dbrealwedding/_BTG3094_Original.jpeg?crop=272,337,1626,914)
+
+Jiya and Hardik (Pushkar)](https://www.wedmegood.com/real_wedding/detail/jiya-and-hardik-pushkar-sindhi-wedding-4432)
+
 [![Kyraa and Hardik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Kyraa and Hardik](https://image.wedmegood.com/resized/250X/uploads/images/c92209dea9db4ea19cea7c20aace3e40realwedding/024A3170Large2.jpeg?crop=121,342,1013,570)
 
 Kyraa and Hardik (Thailand)](https://www.wedmegood.com/real_wedding/detail/kyraa-and-hardik-thailand-sindhi-wedding-4426)
-
-[![Neha and Varun ](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Neha and Varun ](https://image.wedmegood.com/resized/250X/uploads/images/a94dc58cc0544d6481703a7829dba078realwedding/DSC02650Large.jpeg?crop=147,278,1013,569)
-
-Neha and Varun (Bangalore)](https://www.wedmegood.com/real_wedding/detail/neha-and-varun-bangalore-telugu-wedding-4425)
 
 Browse by Category
 
@@ -190,7 +190,7 @@ Popular Sections
 
 Most Searched Blogs
 
-[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)[2025 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2025-auspicious-hindu-wedding-dates/)
+[Wedding Songs](https://www.wedmegood.com/blog/50-of-the-best-bollywood-wedding-songs/)[Best Bridal Entry Songs](https://www.wedmegood.com/blog/the-best-indian-bridal-entry-songs-that-create-an-impact/)[Chandni Chowk Lehengas](https://www.wedmegood.com/blog/where-to-buy-bridal-lehengas-in-chandni-chowk-with-pics/)[Bridal Mehendi Designs](https://www.wedmegood.com/blog/best-mehndi-designs/)[Best Groom Entry Songs](https://www.wedmegood.com/blog/30-most-awesome-groom-entry-songs-ever/)[Best Bridal Hairstyles](https://www.wedmegood.com/blog/best-bridal-hairstyles-indian-weddings/)[Wittiest Wedding Hashtags](https://www.wedmegood.com/blog/wittiest-wedding-hashtags-we-have-come-across/)[Latest Sabyasachi Lehengas](https://www.wedmegood.com/blog/30-sabyasachi-lehengas-we-spotted-on-real-brides/)[2025 Marriage Dates](https://www.wedmegood.com/blog/best-marriage-dates-in-2025-auspicious-hindu-wedding-dates/)[Bridal Blouse Designs](https://www.wedmegood.com/blog/latest-bridal-blouse-designs/)
 
 Top Blogs
 
