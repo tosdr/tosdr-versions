@@ -428,7 +428,7 @@ ADD TO TOTE
 
 ### [Vitamin C Serum](https://www.100percentpure.com/products/vitamin-c-serum)
 
-1421 reviews (1421)
+1422 reviews (1422)
 
 $58.00
 
@@ -602,7 +602,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Your Eye-Defining Duo - FREE with $60 Purchase! USE CODE: EYES24](https://www.100percentpure.com/products/eye-defining-gwp "https://www.100percentpure.com/products/eye-defining-gwp")
+[BUY 2, GET 1 Free On All Gift Sets USE CODE: GIFTS](https://www.100percentpure.com/collections/gift-sets "https://www.100percentpure.com/collections/gift-sets")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
