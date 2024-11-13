@@ -3,7 +3,7 @@ Welcome to Gaia! :: Terms of Service – Effective Date December 16, 2013
 
 [Gaia Home](https://www.gaiaonline.com/ "Return to the Gaia Homepage")
 
-  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/08e504bdab0b.gif)](https://www.gaiaonline.com/gaiaevent/halloweenspirits/ "Halloween Spirits")
+  [![](//u1cdn.gaiaonline.com/mfs/index/adminupload/4b36efc4da3f.gif)](https://www.gaiaonline.com/forum/t.113992572 "Avatar Chat")
 
 [Login](https://www.gaiaonline.com/auth/?_gaia_t_=4952 "Login to Gaia") [Register](https://www.gaiaonline.com/register/?v=c&_gaia_t_=4950 "Create a free account now")
 
@@ -13,7 +13,7 @@ Log In
 
 [Forgot your login?](https://www.gaiaonline.com/account/sendpass/ "Forgot your username/password?")
 
-4f4eb2b8e2e304fe96bd468e5fa3cac579b9b3883f5eb9cb8f8c4569f9ab0d0479b9b3883f5eb9cb8f8c4569f9ab0d0479b9b3883f5eb9cb8f8c4569f9ab0d04
+e7136123a6d4c21669b5c99525847ddf9298163d21f952fc94a5dd893c486abf
 
 * [My Gaia](https://www.gaiaonline.com/register/?v=c&&redirect=https%3A%2F%2Fwww.gaiaonline.com%2Fmygaia%2F)
 
@@ -531,4 +531,4 @@ Play with Platinum
 
 [More](https://www.gaiaonline.com/luckycatch/)
 
-![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1731484214)
+![](https://www.gaiaonline.com/internal/mkt_t.php?mid[]=354&tm=1731505994)
