@@ -66,9 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Scorecard: Essential Disclosure Requirements for Independent Spending, 2014](/assets/Images/teasers/full/Independent-Spending-Scorecard-2014.png)](http://www.followthemoney.org/research/institute-reports/scorecard-essential-disclosure-requirements-for-independent-spending-2014/)
-
-Independent Spending Scorecard, 2014
+[![Private Prison Political Contributions, 2009-2016](/assets/Images/teasers/small/Screen-Shot-2017-01-24-at-1.16.27-PM.png)](https://www.followthemoney.org/research/institute-reports/prisons-and-politics-profiling-the-pecuniary-political-persistence-of-private-prisons)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
