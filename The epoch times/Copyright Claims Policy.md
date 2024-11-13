@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Paris Beefs Up Security Ahead of France v Israel Football Match](https://www.theepochtimes.com/world/paris-beefs-up-security-ahead-of-france-v-israel-football-match-5758838)
+    
+    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Paris Beefs Up Security Ahead of France v Israel Football Match](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Paris Beefs Up Security Ahead of France v Israel Football Match](https://img.theepochtimes.com/assets/uploads/2015/11/16/Getty-455903760-205x123.jpg.webp)](https://www.theepochtimes.com/world/paris-beefs-up-security-ahead-of-france-v-israel-football-match-5758838)
+* [Melania Trump Says She Won’t Be Attending White House Meeting, Responds to ‘False’ Rumors](https://www.theepochtimes.com/us/melania-trump-says-she-wont-be-attending-white-house-meeting-responds-to-false-rumors-5758936)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Melania Trump Says She Won’t Be Attending White House Meeting, Responds to ‘False’ Rumors](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Melania Trump Says She Won’t Be Attending White House Meeting, Responds to ‘False’ Rumors](https://img.theepochtimes.com/assets/uploads/2024/10/18/id5743454-DSC09482-alfred-smith-dinner-205x123.jpg.webp)](https://www.theepochtimes.com/us/melania-trump-says-she-wont-be-attending-white-house-meeting-responds-to-false-rumors-5758936)
+* [US Annual Inflation Rises to 2.6 Percent, First Increase Since March](https://www.theepochtimes.com/business/us-annual-inflation-rises-to-2-6-percent-first-increase-since-march-5758796)
+    
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![US Annual Inflation Rises to 2.6 Percent, First Increase Since March](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Annual Inflation Rises to 2.6 Percent, First Increase Since March](https://img.theepochtimes.com/assets/uploads/2024/10/10/id5739371-GettyImages-1537694096-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-annual-inflation-rises-to-2-6-percent-first-increase-since-march-5758796)
+* [Senate Majority Leader: 9 Things to Know About the Candidates](https://www.theepochtimes.com/us/senate-majority-leader-9-things-to-know-about-the-candidates-5758407)
+    
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Senate Majority Leader: 9 Things to Know About the Candidates](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senate Majority Leader: 9 Things to Know About the Candidates](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757853-ScottThuneCornyn2-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-majority-leader-9-things-to-know-about-the-candidates-5758407)
+* [Supreme Court Won’t Hear Challenge to New York Rent Control Law](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-new-york-rent-control-law-5758668)
+    
+    4hr By [Matthew Vadum](https://www.theepochtimes.com/author/matthew-vadum)
+    
+    [![Supreme Court Won’t Hear Challenge to New York Rent Control Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Supreme Court Won’t Hear Challenge to New York Rent Control Law](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753916-10232024-DSC06732-SCOTUS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/supreme-court-wont-hear-challenge-to-new-york-rent-control-law-5758668)
+* [US Will Not Limit Israel Arms Transfers After Gaza Aid Deadline Passes](https://www.theepochtimes.com/world/us-will-not-limit-israel-arms-transfers-after-gaza-aid-deadline-passes-5758572)
+    
+    5hr By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![US Will Not Limit Israel Arms Transfers After Gaza Aid Deadline Passes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Will Not Limit Israel Arms Transfers After Gaza Aid Deadline Passes](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758894-2.download-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-will-not-limit-israel-arms-transfers-after-gaza-aid-deadline-passes-5758572)
+* [Biden to Host Trump at the White House Today](https://www.theepochtimes.com/us/biden-to-host-trump-at-the-white-house-today-5758740)
+    
+    6hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden to Host Trump at the White House Today](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden to Host Trump at the White House Today](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758971-Trump-arrives-in-DC-GettyImages-2184571676-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-to-host-trump-at-the-white-house-today-5758740)
+* [Senate Majority Leader Contenders Differ Mostly on Process, Not Policy](https://www.theepochtimes.com/us/senate-majority-leader-contenders-differ-mostly-on-process-not-policy-5758375)
+    
+    6hr By [Mark Tapscott](https://www.theepochtimes.com/author/mark-tapscott)
+    
+    [![Senate Majority Leader Contenders Differ Mostly on Process, Not Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senate Majority Leader Contenders Differ Mostly on Process, Not Policy](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758884-EpochImages-3675006171-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-majority-leader-contenders-differ-mostly-on-process-not-policy-5758375)
 * [Tracking Every Trump Cabinet Pick](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
     
-    6hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    12hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758788-Trumps-cabinet-picks-6-205x123.jpg.webp)](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
+    ![Tracking Every Trump Cabinet Pick](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758999-Trumps-cabinet-picks-7-205x123.jpg)](https://www.theepochtimes.com/article/tracking-every-trump-cabinet-pick-5758519)
 * [Trump Picks Kristi Noem to Be Homeland Security Secretary](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
     
-    9hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    15hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
     
     [![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/04/11/id5627073-GettyImages-2087322067-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
-* [Trump Names Elon Musk, Vivek Ramaswamy to Lead New Government Efficiency Department](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
-    
-    9hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Government Efficiency Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Names Elon Musk, Vivek Ramaswamy to Lead New Government Efficiency Department](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758753-elon-musk-vivek-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-taps-elon-musk-and-vivek-ramaswamy-to-lead-new-efficiency-department-5758739)
-* [Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://www.theepochtimes.com/us/trump-names-fox-news-host-veteran-pete-hegseth-as-defense-secretary-5758731)
-    
-    9hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Names Fox News Host, Veteran Pete Hegseth as Defense Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758754-GettyImages-626419832KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-fox-news-host-veteran-pete-hegseth-as-defense-secretary-5758731)
-* [Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://www.theepochtimes.com/us/chuck-schumer-congratulates-trump-tells-democrats-to-learn-and-do-better-5758646)
-    
-    9hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Chuck Schumer Congratulates Trump, Tells Democrats to Learn and Do Better](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758768-Chuck-Schumer-GettyImages-2183774736-205x123.jpg.webp)](https://www.theepochtimes.com/us/chuck-schumer-congratulates-trump-tells-democrats-to-learn-and-do-better-5758646)
-* [Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://www.theepochtimes.com/business/small-business-optimism-rises-but-owners-still-face-unprecedented-economic-hardship-nfib-5758562)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Small Business Optimism Rises, But Owners Still Face ‘Unprecedented’ Economic Hardship: NFIB](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741607-Chasteen_Small-Business-Hardware_013012-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/business/small-business-optimism-rises-but-owners-still-face-unprecedented-economic-hardship-nfib-5758562)
-* [Trump Names William McGinley to Serve as White House Counsel](https://www.theepochtimes.com/us/trump-names-william-mcginley-to-serve-as-white-house-counsel-5758658)
-    
-    10hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Trump Names William McGinley to Serve as White House Counsel](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Names William McGinley to Serve as White House Counsel](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758695-09292024-DSC02058-white-houseKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-william-mcginley-to-serve-as-white-house-counsel-5758658)
-* [DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://www.theepochtimes.com/us/doj-sues-to-block-unitedhealths-3-3-billion-acquisition-of-amedisys-5758492)
-    
-    11hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![DOJ Sues to Block UnitedHealth’s $3.3 Billion Acquisition of Amedisys](https://img.theepochtimes.com/assets/uploads/2024/07/18/id5689165-UnitedHealth_Justice_Department_Lawsuit_22055614377476-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/doj-sues-to-block-unitedhealths-3-3-billion-acquisition-of-amedisys-5758492)
-* [Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://www.theepochtimes.com/article/day-in-photos-congressional-session-typhoon-toraji-and-a-prime-ministers-apology-5758346)
-    
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Congressional Session, Typhoon Toraji, and a Prime Minister’s Apology](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758767-EpochImages-6641483991-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-congressional-session-typhoon-toraji-and-a-prime-ministers-apology-5758346)
-* [Trump Names John Ratcliffe as CIA Director](https://www.theepochtimes.com/us/trump-names-john-ratcliffe-as-cia-director-5758663)
-    
-    11hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Trump Names John Ratcliffe as CIA Director](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Names John Ratcliffe as CIA Director](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758719-John-Ratcliffe-GettyImages-1211874840-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-john-ratcliffe-as-cia-director-5758663)
+    ![Trump Picks Kristi Noem to Be Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758893-GettyImages-2087322067-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-kristi-noem-to-be-homeland-security-secretary-5758294)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
