@@ -1,6 +1,6 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Deal of the Day: Save $150 on Cypress Green QuietComfort Headphones. [Shop](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1)
+Deal of the Day: Save $150 on Cypress Green QuietComfort Headphones. [Buy now](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1)
 
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
 
