@@ -20,16 +20,16 @@ Wednesday, November 13 2024
 
 Latest
 
-* [My Favorite Amazon Deal of the Day: Apple AirTags](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
-* [MA tax preparer and accountant pays ransom after hackers steal private info of 70K clients](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
-* [Windows 10 November 2024 update arrives with KB5046613](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
-* [How Long Does It Take to Charge These Popular Electric Cars?](https://digitpatrox.com/how-long-does-it-take-to-charge-these-popular-electric-cars/)
-* [VR Passthrough Needs to Get Much Better](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
-* [Microsoft admits users received unexpected upgrades to Windows Server 2025 – but the issue has been fixed](https://digitpatrox.com/microsoft-admits-users-received-unexpected-upgrades-to-windows-server-2025-but-the-issue-has-been-fixed/)
-* [Is AI Adoption Heading for a Plateau?](https://digitpatrox.com/is-ai-adoption-heading-for-a-plateau/)
-* [NYT Connections today hints and answers — Wednesday, November 13 (#521)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-13-521/)
-* [Microsoft Exchange adds warning to emails abusing spoofing flaw](https://digitpatrox.com/microsoft-exchange-adds-warning-to-emails-abusing-spoofing-flaw/)
-* [Apple’s rumored six-inch ‘AI wall tablet’ could control your smart home by March 2025](https://digitpatrox.com/apples-rumored-six-inch-ai-wall-tablet-could-control-your-smart-home-by-march-2025/)
+* [Will the CHIPS Act survive a Trump presidency? – Computerworld](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
+* [The M1, M2, and M3 MacBook Airs Are All on Sale Right Now](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
+* [How to stay safe online](https://digitpatrox.com/how-to-stay-safe-online/)
+* [Don’t Rush Into an 84-Month Car Loan](https://digitpatrox.com/dont-rush-into-an-84-month-car-loan/)
+* [Today’s NYT Connections Hints and Answer for November 12 (#520)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-12-520/)
+* [Features, Pricing, Pros and Cons](https://digitpatrox.com/features-pricing-pros-and-cons-2/)
+* [I tried astrophotography on my Pixel 9 Pro XL to shoot galaxies, nebulas and star clusters — here’s the results](https://digitpatrox.com/i-tried-astrophotography-on-my-pixel-9-pro-xl-to-shoot-galaxies-nebulas-and-star-clusters-heres-the-results/)
+* [Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://digitpatrox.com/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
+* [Monster Hunter is getting an open-world RPG spinoff for mobile](https://digitpatrox.com/monster-hunter-is-getting-an-open-world-rpg-spinoff-for-mobile/)
+* [Today’s Wordle Answer and Hints (November 13, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-13-2024/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JCH2R0HTQEMKE41HQVVF2JQ1/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3601464-0-03685300-1731409349-Intel-New-Mexico-Fabs-1.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
     
-    [My Favorite Amazon Deal of the Day: Apple AirTags](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
+    [Will the CHIPS Act survive a Trump presidency? – Computerworld](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
     
-    14 mins ago
+    51 mins ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/MA-tax-preparer-and-accounting-firm-notifies-70K-of-data-breach.jpg)](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
+* [![](https://lifehacker.com/imagery/articles/01HRWJHQMADEADSWPAB7Z7G7JW/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
     
-    [MA tax preparer and accountant pays ransom after hackers steal private info of 70K clients](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
+    [The M1, M2, and M3 MacBook Airs Are All on Sale Right Now](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
     
-    21 mins ago
+    1 hour ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/10/windows-10-kb5046613-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Black-Friday-scams_-How-to-stay-safe.jpg)](https://digitpatrox.com/how-to-stay-safe-online/)
     
-    [Windows 10 November 2024 update arrives with KB5046613](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
+    [How to stay safe online](https://digitpatrox.com/how-to-stay-safe-online/)
     
-    22 mins ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730470829/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Electrify-America-Chargers-Taycan-11-24)](https://digitpatrox.com/how-long-does-it-take-to-charge-these-popular-electric-cars/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1692196030/prod/content/dam/CRO-Images-2023/08August/Cars/CR-Cars-Inlinehero-84-month-car-loan-0823)](https://digitpatrox.com/dont-rush-into-an-84-month-car-loan/)
     
-    [How Long Does It Take to Charge These Popular Electric Cars?](https://digitpatrox.com/how-long-does-it-take-to-charge-these-popular-electric-cars/)
+    [Don’t Rush Into an 84-Month Car Loan](https://digitpatrox.com/dont-rush-into-an-84-month-car-loan/)
     
-    24 mins ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/53438127273_ef00efa517_o.jpg)](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/nyt-connections-game-icon-on-a-phone-screen-and-several-magnifying-glasses-and-question-marks-around-it.jpg)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-12-520/)
     
-    [VR Passthrough Needs to Get Much Better](https://digitpatrox.com/vr-passthrough-needs-to-get-much-better/)
+    [Today’s NYT Connections Hints and Answer for November 12 (#520)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-12-520/)
     
-    25 mins ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [14 mins ago
+* [51 mins ago
     
-    ### My Favorite Amazon Deal of the Day: Apple AirTags](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-apple-airtags/)
-* [21 mins ago
+    ### Will the CHIPS Act survive a Trump presidency? – Computerworld](https://digitpatrox.com/will-the-chips-act-survive-a-trump-presidency-computerworld/)
+* [1 hour ago
     
-    ### MA tax preparer and accountant pays ransom after hackers steal private info of 70K clients](https://digitpatrox.com/ma-tax-preparer-and-accountant-pays-ransom-after-hackers-steal-private-info-of-70k-clients/)
-* [22 mins ago
+    ### The M1, M2, and M3 MacBook Airs Are All on Sale Right Now](https://digitpatrox.com/the-m1-m2-and-m3-macbook-airs-are-all-on-sale-right-now/)
+* [1 hour ago
     
-    ### Windows 10 November 2024 update arrives with KB5046613](https://digitpatrox.com/windows-10-november-2024-update-arrives-with-kb5046613/)
+    ### How to stay safe online](https://digitpatrox.com/how-to-stay-safe-online/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [September 23, 2024
     
-    ### I Tried Instagram on the Meta Quest 3S; It’s More Fun than I Expected](https://digitpatrox.com/i-tried-instagram-on-the-meta-quest-3s-its-more-fun-than-i-expected/)
-* [September 19, 2024
+    ### Shark Cordless PowerDetect Clean & Empty Vacuum System review](https://digitpatrox.com/shark-cordless-powerdetect-clean-empty-vacuum-system-review/)
+* [September 13, 2024
     
-    ### I Put This Savory, Spicy Thai Sauce on Every Rice Dish](https://digitpatrox.com/i-put-this-savory-spicy-thai-sauce-on-every-rice-dish/)
-* [2 weeks ago
+    ### Partnerships are Oracle’s key to success in the “multi-cloud era”](https://digitpatrox.com/partnerships-are-oracles-key-to-success-in-the-multi-cloud-era/)
+* [August 15, 2024
     
-    ### Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
+    ### Cisco layoffs cut deeper than expected as firm ramps up AI focus](https://digitpatrox.com/cisco-layoffs-cut-deeper-than-expected-as-firm-ramps-up-ai-focus/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### Is AI Adoption Heading for a Plateau?](https://digitpatrox.com/is-ai-adoption-heading-for-a-plateau/)
-* [1 hour ago
-    
-    ### NYT Connections today hints and answers — Wednesday, November 13 (#521)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-wednesday-november-13-521/)
 * [2 hours ago
     
-    ### Microsoft Exchange adds warning to emails abusing spoofing flaw](https://digitpatrox.com/microsoft-exchange-adds-warning-to-emails-abusing-spoofing-flaw/)
+    ### I tried astrophotography on my Pixel 9 Pro XL to shoot galaxies, nebulas and star clusters — here’s the results](https://digitpatrox.com/i-tried-astrophotography-on-my-pixel-9-pro-xl-to-shoot-galaxies-nebulas-and-star-clusters-heres-the-results/)
+* [3 hours ago
+    
+    ### Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://digitpatrox.com/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
+* [4 hours ago
+    
+    ### Monster Hunter is getting an open-world RPG spinoff for mobile](https://digitpatrox.com/monster-hunter-is-getting-an-open-world-rpg-spinoff-for-mobile/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
     
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
