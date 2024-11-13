@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Wind Up Missing YouTucker Wetmore<br><br>4:40pm |
-| Singles You UpJordan Davis<br><br>4:35pm |
-| Thank GodKane Brown Ft Katelyn Brown<br><br>4:32pm |
-| Love SomebodyMorgan Wallen<br><br>4:29pm |
-| Its 5 Oclock SomewhereAlan Jackson And Jimmy Buffett<br><br>4:25pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>10:39pm |
+| To Be Loved By YouParker Mccollum<br><br>10:36pm |
+| Dancin' In The CountryTyler Hubbard<br><br>10:33pm |
+| AustinDasha<br><br>10:22pm |
+| I Am Not OkayJelly Roll<br><br>10:19pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,14 +358,6 @@ State
 Featured Brands
 ---------------
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
@@ -373,6 +365,14 @@ Country • Western
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
