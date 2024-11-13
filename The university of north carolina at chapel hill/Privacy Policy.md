@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/fieldhockeyhero-250x141.png)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/HERO-Mathematicalbiology-250x141.png)
     
-    Carolina field hockey wins 27th ACC title](https://www.unc.edu/posts/2024/11/08/carolina-field-hockey-wins-27th-acc-title/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/RetiredNCSupremeCourtJustice_Hero-250x141.png)
+    ‘A mathematical biologist walks up to a farmer’](https://www.unc.edu/posts/2024/11/12/a-mathematical-biologist-walks-up-to-a-farmer/)
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/NursingHERO-250x141.jpg)
     
-    Retired NC Supreme Court justice to speak at Stone Center](https://www.unc.edu/posts/2024/11/08/retired-nc-supreme-court-justice-to-speak-at-stone-center/)
+    Carolina breaks ground on Nursing Education Building](https://www.unc.edu/posts/2024/11/12/carolina-breaks-ground-on-nursing-education-building/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=53e0688553&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=0f27531454&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
