@@ -211,8 +211,8 @@ Menu
         [Read more news](http://news.harvard.edu/)
         
         1. [**U.S. fertility rates are tumbling, but some families still go big. Why?** It’s partly matter of faith. Economist examines choice to have large families in new book.](https://news.harvard.edu/gazette/story/2024/11/u-s-fertility-rates-tumbling-but-some-families-still-go-big-why/)
-        2. [**Are optimists the realists?** Humanity is doing better than ever yet it often doesn’t seem that way. In podcast, experts make the case for fact-based hope.](https://news.harvard.edu/gazette/story/2024/11/are-optimists-the-realists-optimism-toxic-positivity-podcast-steven-pinker/)
-        3. [**Seem like peanut allergies were once rare and now everyone has them?** Surgeon, professor Marty Makary examines damage wrought when medicine closes ranks around inaccurate dogma](https://news.harvard.edu/gazette/story/2024/10/excerpt-from-blind-spots-by-marty-makary/)
+        2. [**Did Trump election signal start of new political era?** Analysts weigh issues, strategies, media decisions at work in contest, suggest class may become dominant factor](https://news.harvard.edu/gazette/story/2024/11/did-trump-election-signal-start-of-new-political-era/)
+        3. [**Are optimists the realists?** Humanity is doing better than ever yet it often doesn’t seem that way. In podcast, experts make the case for fact-based hope.](https://news.harvard.edu/gazette/story/2024/11/are-optimists-the-realists-optimism-toxic-positivity-podcast-steven-pinker/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
