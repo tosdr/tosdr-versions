@@ -87,8 +87,9 @@ Logout
         * [Non withdrawal Deposits](https://www.hdfcbank.com/personal/save/deposits/fixed-deposit#non-withdrawable-deposits)
         * [Fixed Deposit Interest Rate](https://www.hdfcbank.com/personal/save/deposits/fixed-deposit-interest-rate)
         * [Recurring Deposit](https://www.hdfcbank.com/personal/save/deposits/recurring-deposit)
-    * [Safe Deposit locker](https://www.hdfcbank.com/personal/save/safe-deposit-locker)
         * [My Passion Fund](https://www.hdfcbank.com/personal/save/my-passion-fund)
+    * [Safe Deposit locker](https://www.hdfcbank.com/personal/save/safe-deposit-locker)
+        
     * [High Networth Banking](https://www.hdfcbank.com/personal/save/high-networth-banking)
         * [Broker Services](https://www.hdfcbank.com/personal/save/high-networth-banking/broker-services)
         * [Wealth](https://v.hdfcbank.com/wealth/index.html "Wealth")
@@ -314,8 +315,9 @@ Middle navigation
         * [Non withdrawal Deposits](https://www.hdfcbank.com/personal/save/deposits/fixed-deposit#non-withdrawable-deposits)
         * [Fixed Deposit Interest Rate](https://www.hdfcbank.com/personal/save/deposits/fixed-deposit-interest-rate)
         * [Recurring Deposit](https://www.hdfcbank.com/personal/save/deposits/recurring-deposit)
-    * [Safe Deposit locker](https://www.hdfcbank.com/personal/save/safe-deposit-locker)
         * [My Passion Fund](https://www.hdfcbank.com/personal/save/my-passion-fund)
+    * [Safe Deposit locker](https://www.hdfcbank.com/personal/save/safe-deposit-locker)
+        
     * [High Networth Banking](https://www.hdfcbank.com/personal/save/high-networth-banking)
         * [Broker Services](https://www.hdfcbank.com/personal/save/high-networth-banking/broker-services)
         * [Wealth](https://v.hdfcbank.com/wealth/index.html "Wealth")
@@ -527,10 +529,9 @@ Middle navigation
         * [Non withdrawal Deposits](https://www.hdfcbank.com/personal/save/deposits/fixed-deposit#non-withdrawable-deposits)
         * [Fixed Deposit Interest Rate](https://www.hdfcbank.com/personal/save/deposits/fixed-deposit-interest-rate)
         * [Recurring Deposit](https://www.hdfcbank.com/personal/save/deposits/recurring-deposit)
+        * [My Passion Fund](https://www.hdfcbank.com/personal/save/my-passion-fund)
         
         [Safe Deposit locker](https://www.hdfcbank.com/personal/save/safe-deposit-locker)
-        
-        * [My Passion Fund](https://www.hdfcbank.com/personal/save/my-passion-fund)
         
         [High Networth Banking](https://www.hdfcbank.com/personal/save/high-networth-banking)
         
