@@ -139,6 +139,11 @@ View our [How It Works](https://www.myartbrief.com/#how-it-works) section which 
 
 ![New Milestone](/img/main/common/milestone3_155.jpg)
 
+**New Milestone** (12 November 2024)  
+MyArtBrief has facilitated the creation of 3550 Quotes since the launch date !
+
+![New Milestone](/img/main/common/milestone3_155.jpg)
+
 **New Milestone** (1 October 2024)  
 MyArtBrief now has over 4800 registered Users !
 
@@ -151,11 +156,6 @@ MyArtBrief has facilitated the creation of 3500 Quotes since the launch date !
 
 **New Milestone** (29 August 2024)  
 MyArtBrief has facilitated the completion of 940 Briefs with a total value in excess of £336110.00 !
-
-![New Milestone](/img/main/common/milestone3_155.jpg)
-
-**New Milestone** (24 June 2024)  
-MyArtBrief has facilitated the creation of 3450 Quotes since the launch date !
 
 About Us
 --------
