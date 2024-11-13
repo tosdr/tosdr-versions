@@ -221,7 +221,7 @@ Zip Code  QUOTE & SCHEDULE
 
 Enter your zip/postal code above to find carpet cleaning services in your area, get a free quote or book online!
 
-Average 4.7 Stars Based on 302,964 Reviews
+Average 4.7 Stars Based on 303,542 Reviews
 
 * [Home](https://www.oxifresh.com/)
 * \>
@@ -383,17 +383,17 @@ What Customers Are Saying
 
 ### Average 4.7 stars (Out of 5)
 
-Based on 302,964 Carpet Cleaning Services Reviews
+Based on 303,542 Carpet Cleaning Services Reviews
 
-**PM.** - Montgomery, NY - 11/06/2024
-
-(4.0 Out of 5 stars)
-
-They always do an fabulous job! **KW.** - Riverview, FL - 11/06/2024
+**KD.** - Jacksonville, FL - 11/12/2024
 
 (5.0 Out of 5 stars)
 
-The tech was on time and very thorough with the cleaning. My carpets look like new--in fact my husband thought we had to replace it and was amazed at how clean it was. **JG.** - Palm Springs, CA - 11/05/2024
+From the moment I called to the completion of the job, my experience with this carpet cleaning company was outstanding. The team was punctual, courteous, and highly professional. They treated my office space with respect and explained their cleaning process in detail. The results were astonishing—my carpets look as good as new! Stains that I thought were permanent disappeared, and the whole office smells fresh. I highly recommend their services to anyone looking for top-notch carpet care! **JP.** - New York, NY - 11/12/2024
+
+(5.0 Out of 5 stars)
+
+**KB.** - Las Vegas, NV - 11/12/2024
 
 (5.0 Out of 5 stars)
 
