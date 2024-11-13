@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,21 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
+[Trump names Elon Musk and Vivek Ramaswamy to lead 'DOGE' efficiency department](https://www.japantimes.co.jp/news/2024/11/13/world/politics/musk-ramaswamy-efficiency-department/ "Trump names Elon Musk and Vivek Ramaswamy to lead 'DOGE' efficiency department")
 
-10 hours ago
+45 mins ago
 
-[Ishiba and Xi to affirm mutually beneficial strategic ties](https://www.japantimes.co.jp/news/2024/11/12/japan/ishiba-xi-to-affirm-strategic-ties/ "Ishiba and Xi to affirm mutually beneficial strategic ties")
+[Japan to promote the joint transportation of local goods](https://www.japantimes.co.jp/business/2024/11/13/transport-ministry-logistics/ "Japan to promote the joint transportation of local goods")
 
-10 hours ago
+46 mins ago
 
-[Fukushima nuclear debris arrives at lab after secret journey](https://www.japantimes.co.jp/news/2024/11/12/japan/fukushima-nuclear-debris-lab-secret-journey/ "Fukushima nuclear debris arrives at lab after secret journey")
+['We will die from hunger': Gazans decry Israel's UNRWA ban](https://www.japantimes.co.jp/news/2024/11/13/world/hunger-gaza-israel-unrwa-ban/ "'We will die from hunger': Gazans decry Israel's UNRWA ban")
 
-10 hours ago
+1 hours ago
 
-[1 in 5 people in Japan age 65 and older will be living alone in 2050](https://www.japantimes.co.jp/news/2024/11/12/japan/society/single-person-households/ "1 in 5 people in Japan age 65 and older will be living alone in 2050")
+[Trump picks Fox News host Pete Hegseth to be defense chief](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump picks Fox News host Pete Hegseth to be defense chief")
 
-[Osaka governor announces candidacy for Nippon Ishin leadership](https://www.japantimes.co.jp/news/2024/11/12/japan/politics/nippon-ishin-yoshimura-leadership-election/ "Osaka governor announces candidacy for Nippon Ishin leadership")
+1 hours ago
+
+[Russian sends 200 military instructors to Equatorial Guinea in West Africa push](https://www.japantimes.co.jp/news/2024/11/13/world/politics/russia-power-africa-equatorial-guinea/ "Russian sends 200 military instructors to Equatorial Guinea in West Africa push")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
