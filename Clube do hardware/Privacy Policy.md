@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![RapGusta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255925.thumb.jpeg.1980ff246bc29f137ccb97cc297a7189.jpeg)](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")
+    * [![Caioo213](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1245526.thumb.jpeg.d3581e5a5306b05c060ca6734b739c2f.jpeg)](https://www.clubedohardware.com.br/profile/1245526-caioo213/ "Ir ao perfil de Caioo213")
         
         0
         
-        [Memória Xpg ou Kingston](https://www.clubedohardware.com.br/forums/topic/1702265-mem%C3%B3ria-xpg-ou-kingston/?do=getNewComment "Memória Xpg ou Kingston")
+        [Recomendação para teclados mecânicos de até R$250](https://www.clubedohardware.com.br/forums/topic/1702277-recomenda%C3%A7%C3%A3o-para-teclados-mec%C3%A2nicos-de-at%C3%A9-r250/?do=getNewComment "Recomendação para teclados mecânicos de até R$250")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Caioo213](https://www.clubedohardware.com.br/profile/1245526-caioo213/ "Ir ao perfil de Caioo213")  
+        15 minutos atrás
+        
+    * [![Patrocinador](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255959.thumb.jpeg.c3e3a5d291365b026cb7056f144a293a.jpeg)](https://www.clubedohardware.com.br/profile/1255959-patrocinador/ "Ir ao perfil de Patrocinador")
+        
+        4
+        
+        [ASRock B550M Steel Legend vem com a BIOS atualizada para um Ryzen 5 5600GT?](https://www.clubedohardware.com.br/forums/topic/1702274-asrock-b550m-steel-legend-vem-com-a-bios-atualizada-para-um-ryzen-5-5600gt/?do=getNewComment "ASRock B550M Steel Legend vem com a BIOS atualizada para um Ryzen 5 5600GT?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Patrocinador](https://www.clubedohardware.com.br/profile/1255959-patrocinador/ "Ir ao perfil de Patrocinador")  
+        30 minutos atrás
+        
+    * [![Douglas Adorno](https://www.clubedohardware.com.br/uploads/members/monthly_2021_11/imported-photo-1179392.thumb.png.f34841a06f3b2ef562727da12d1b70b2.png)](https://www.clubedohardware.com.br/profile/1179392-douglas-adorno/ "Ir ao perfil de Douglas Adorno")
+        
+        1
+        
+        [Upgrade/Montagem com orçamento de R$3.000](https://www.clubedohardware.com.br/forums/topic/1702272-upgrademontagem-com-or%C3%A7amento-de-r3000/?do=getNewComment "Upgrade/Montagem com orçamento de R$3.000")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Douglas Adorno](https://www.clubedohardware.com.br/profile/1179392-douglas-adorno/ "Ir ao perfil de Douglas Adorno")  
+        45 minutos atrás
+        
+    * [![guilhoda](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255992.thumb.png.beb36fc63a52a4759934e6d6ffc831f6.png)](https://www.clubedohardware.com.br/profile/1255992-guilhoda/ "Ir ao perfil de guilhoda")
+        
+        2
+        
+        [placa-mãe ASUS B760M-AYW WIFI para usar com i5 12400F e 32Gb RAM é boa escolha?](https://www.clubedohardware.com.br/forums/topic/1702269-placa-m%C3%A3e-asus-b760m-ayw-wifi-para-usar-com-i5-12400f-e-32gb-ram-%C3%A9-boa-escolha/?do=getNewComment "placa-mãe ASUS B760M-AYW WIFI para usar com i5 12400F e 32Gb RAM é boa escolha?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [guilhoda](https://www.clubedohardware.com.br/profile/1255992-guilhoda/ "Ir ao perfil de guilhoda")  
+        58 minutos atrás
+        
+    * [![Jonass](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/bddd6fe9ed725a5a66c55a0899b73e18.thumb.jpg.110cdb101feafc3826352bb91e80f910.jpg)](https://www.clubedohardware.com.br/profile/1255991-jonass/ "Ir ao perfil de Jonass")
+        
+        0
+        
+        [Luz vermelha de VGA em placa de vídeo funcional](https://www.clubedohardware.com.br/forums/topic/1702268-luz-vermelha-de-vga-em-placa-de-v%C3%ADdeo-funcional/?do=getNewComment "Luz vermelha de VGA em placa de vídeo funcional")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Jonass](https://www.clubedohardware.com.br/profile/1255991-jonass/ "Ir ao perfil de Jonass")  
+        1 hora atrás
+        
+    * [![leeonrz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255985.thumb.png.b89429e2fb1656362834670ae8303d39.png)](https://www.clubedohardware.com.br/profile/1255985-leeonrz/ "Ir ao perfil de leeonrz")
+        
+        1
+        
+        [Pc congela e não consigo clickar em nada](https://www.clubedohardware.com.br/forums/topic/1702267-pc-congela-e-n%C3%A3o-consigo-clickar-em-nada/?do=getNewComment "Pc congela e não consigo clickar em nada")
+        
+        [Computador congelando](https://www.clubedohardware.com.br/forums/forum/123-computador-congelando/ "Computador congelando")  
+        Por [leeonrz](https://www.clubedohardware.com.br/profile/1255985-leeonrz/ "Ir ao perfil de leeonrz")  
+        1 hora atrás
+        
+    * [![diego de melo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462ab%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1254184-diego-de-melo/ "Ir ao perfil de diego de melo")
+        
+        0
+        
+        [receptor para assistir um bom futebol](https://www.clubedohardware.com.br/forums/topic/1702266-receptor-para-assistir-um-bom-futebol/?do=getNewComment "receptor para assistir um bom futebol")
+        
+        [TV box e similares](https://www.clubedohardware.com.br/forums/forum/143-tv-box-e-similares/ "TV box e similares")  
+        Por [diego de melo](https://www.clubedohardware.com.br/profile/1254184-diego-de-melo/ "Ir ao perfil de diego de melo")  
+        4 horas atrás
+        
+    * [![RapGusta](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255925.thumb.jpeg.1980ff246bc29f137ccb97cc297a7189.jpeg)](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")
+        
+        2
+        
+        [memória RAM XPG Spectrix D35G ou Kingston Fury Beast?](https://www.clubedohardware.com.br/forums/topic/1702265-mem%C3%B3ria-ram-xpg-spectrix-d35g-ou-kingston-fury-beast/?do=getNewComment "memória RAM XPG Spectrix D35G ou Kingston Fury Beast?")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
         Por [RapGusta](https://www.clubedohardware.com.br/profile/1255925-rapgusta/ "Ir ao perfil de RapGusta")  
-        1 hora atrás
+        7 horas atrás
         
     * [![alexxnunes](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4af%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/615193-alexxnunes/ "Ir ao perfil de alexxnunes")
         
-        0
+        1
         
-        [Recomendação de fonte barata e boa](https://www.clubedohardware.com.br/forums/topic/1702264-recomenda%C3%A7%C3%A3o-de-fonte-barata-e-boa/?do=getNewComment "Recomendação de fonte barata e boa")
+        [Recomendação de fonte para Core i5-4460 e GeForce GTX 1060](https://www.clubedohardware.com.br/forums/topic/1702264-recomenda%C3%A7%C3%A3o-de-fonte-para-core-i5-4460-e-geforce-gtx-1060/?do=getNewComment "Recomendação de fonte para Core i5-4460 e GeForce GTX 1060")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [alexxnunes](https://www.clubedohardware.com.br/profile/615193-alexxnunes/ "Ir ao perfil de alexxnunes")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Thallisson Colins](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-1143718.thumb.jpeg.a4439c8c00f4defa02f3f63fefdef80d.jpeg)](https://www.clubedohardware.com.br/profile/1143718-thallisson-colins/ "Ir ao perfil de Thallisson Colins")
         
-        0
+        2
         
         [Sugestão de melhor Placa de Vídeo Custo beneficio para um Ryzen 5](https://www.clubedohardware.com.br/forums/topic/1702263-sugest%C3%A3o-de-melhor-placa-de-v%C3%ADdeo-custo-beneficio-para-um-ryzen-5/?do=getNewComment "Sugestão de melhor Placa de Vídeo Custo beneficio para um Ryzen 5")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
         Por [Thallisson Colins](https://www.clubedohardware.com.br/profile/1143718-thallisson-colins/ "Ir ao perfil de Thallisson Colins")  
-        3 horas atrás
-        
-    * [![Space_Cadet](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255980.thumb.jpeg.67f93ce73e89930910cd65956e59386e.jpeg)](https://www.clubedohardware.com.br/profile/1255980-space_cadet/ "Ir ao perfil de Space_Cadet")
-        
-        2
-        
-        [Orçamento até R$5.200,00. Devo montar PC Gamer AM4 ou AM5?](https://www.clubedohardware.com.br/forums/topic/1702261-or%C3%A7amento-at%C3%A9-r520000-devo-montar-pc-gamer-am4-ou-am5/?do=getNewComment "Orçamento até R$5.200,00. Devo montar PC Gamer AM4 ou AM5?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Space\_Cadet](https://www.clubedohardware.com.br/profile/1255980-space_cadet/ "Ir ao perfil de Space_Cadet")  
-        4 horas atrás
-        
-    * [![João Victor ghard](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255982.thumb.png.b6b5300ad5389808496e9f8df5f89eae.png)](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")
-        
-        1
-        
-        [Ryzen 7 3700X, RX 7600 e Biostar B450MH com baixo desempenho em jogos](https://www.clubedohardware.com.br/forums/topic/1702260-ryzen-7-3700x-rx-7600-e-biostar-b450mh-com-baixo-desempenho-em-jogos/?do=getNewComment "Ryzen 7 3700X, RX 7600 e Biostar B450MH com baixo desempenho em jogos")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [João Victor ghard](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")  
-        4 horas atrás
-        
-    * [![leorauber](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2383c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1255978-leorauber/ "Ir ao perfil de leorauber")
-        
-        0
-        
-        [arquivos estranhos na inicialização do sistema](https://www.clubedohardware.com.br/forums/topic/1702259-arquivos-estranhos-na-inicializa%C3%A7%C3%A3o-do-sistema/?do=getNewComment "arquivos estranhos na inicialização do sistema")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [leorauber](https://www.clubedohardware.com.br/profile/1255978-leorauber/ "Ir ao perfil de leorauber")  
-        5 horas atrás
-        
-    * [![mineirimbb](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%239cc462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")
-        
-        1
-        
-        [Como retirar esses pinos?](https://www.clubedohardware.com.br/forums/topic/1702258-como-retirar-esses-pinos/?do=getNewComment "Como retirar esses pinos?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [mineirimbb](https://www.clubedohardware.com.br/profile/1118639-mineirimbb/ "Ir ao perfil de mineirimbb")  
-        5 horas atrás
-        
-    * [![Luiz Fernando Vieira](https://www.clubedohardware.com.br/uploads/members/monthly_2020_09/imported-photo-846421.thumb.jpeg.e89243418087f9e4e418f97bb5f31ba3.jpeg)](https://www.clubedohardware.com.br/profile/846421-luiz-fernando-vieira/ "Ir ao perfil de Luiz Fernando Vieira")
-        
-        0
-        
-        [Microcontrolador - Conceito básico - memória e periféricos](https://www.clubedohardware.com.br/forums/topic/1702255-microcontrolador-conceito-b%C3%A1sico-mem%C3%B3ria-e-perif%C3%A9ricos/?do=getNewComment "Microcontrolador - Conceito básico -  memória  e periféricos")
-        
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Luiz Fernando Vieira](https://www.clubedohardware.com.br/profile/846421-luiz-fernando-vieira/ "Ir ao perfil de Luiz Fernando Vieira")  
-        6 horas atrás
-        
-    * [![Kleitom](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1243020.thumb.jpeg.05d57f2d35a4731c2fccb7d6891932a4.jpeg)](https://www.clubedohardware.com.br/profile/1243020-kleitom/ "Ir ao perfil de Kleitom")
-        
-        0
-        
-        [placa-mãe MACHINIST MR9A PRO LIGA E DESLIGA](https://www.clubedohardware.com.br/forums/topic/1702253-placa-m%C3%A3e-machinist-mr9a-pro-liga-e-desliga/?do=getNewComment "placa-mãe MACHINIST MR9A PRO LIGA E DESLIGA")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Kleitom](https://www.clubedohardware.com.br/profile/1243020-kleitom/ "Ir ao perfil de Kleitom")  
-        6 horas atrás
-        
-    * [![somavilla](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255973.thumb.jpeg.52b0ca4f9712017810ea1c6d9afb9ffb.jpeg)](https://www.clubedohardware.com.br/profile/1255973-somavilla/ "Ir ao perfil de somavilla")
-        
-        4
-        
-        [Posso utilizar uma fonte de 500W com a RTX 3060 1-click OC?](https://www.clubedohardware.com.br/forums/topic/1702251-posso-utilizar-uma-fonte-de-500w-com-a-rtx-3060-1-click-oc/?do=getNewComment "Posso utilizar uma fonte de 500W com a RTX 3060 1-click OC?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [somavilla](https://www.clubedohardware.com.br/profile/1255973-somavilla/ "Ir ao perfil de somavilla")  
-        6 horas atrás
+        9 horas atrás
         
     
 
