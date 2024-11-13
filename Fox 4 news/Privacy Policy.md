@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [!['Full House' actor Dave Coulier diagnosed with 'very aggressive' cancer](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1241878424.jpg?ve=1&tl=1)
+
+ !['Full House' actor Dave Coulier diagnosed with 'very aggressive' cancer](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1241878424.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dave-coulier-cancer-diagnosis)
+
+### ['Full House' actor Dave Coulier diagnosed with 'very aggressive' cancer](https://www.fox4news.com/news/dave-coulier-cancer-diagnosis)
+
+ [![Trump taps Elon Musk, Vivek Ramaswamy to lead Department of Government Efficiency](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2176078700.jpg?ve=1&tl=1)
+
+ ![Trump taps Elon Musk, Vivek Ramaswamy to lead Department of Government Efficiency](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2176078700.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
+
+### [Trump taps Elon Musk, Vivek Ramaswamy to lead Department of Government Efficiency](https://www.fox4news.com/news/trump-elon-musk-government-efficiency-2024)
+
  [![1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111224-fw-i20-fatal-crash-kdfweme002_21_36_06_mpg_00.25.59.28.jpg?ve=1&tl=1)
 
  ![1 killed, several injured in I-20 chain-reaction crash in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111224-fw-i20-fatal-crash-kdfweme002_21_36_06_mpg_00.25.59.28.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-killed-several-injured-i-20-chain-reaction-crash-fort-worth)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Live House election results: What GOP needs for majority](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2175609361.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
 
 ### [Live House election results: What GOP needs for majority](https://www.fox4news.com/news/live-house-election-results-what-gop-needs-majority)
-
- [![California man wanted for sexually assaulting woman at Irving business](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/irving-sex-assault.png?ve=1&tl=1)
-
- ![California man wanted for sexually assaulting woman at Irving business](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/irving-sex-assault.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/california-man-wanted-sexually-assaulting-woman-irving-business)
-
-### [California man wanted for sexually assaulting woman at Irving business](https://www.fox4news.com/news/california-man-wanted-sexually-assaulting-woman-irving-business)
-
- [![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/pete-hegseth.jpg?ve=1&tl=1)
-
- ![Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/pete-hegseth.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
-
-### [Trump nominates FOX News host, Army veteran Pete Hegseth for defense secretary](https://www.fox4news.com/news/trump-nominates-fox-news-host-army-veteran-pete-hegseth-defense-secretary)
 
 ###### [News](https://www.fox4news.com/news)
 
