@@ -4,7 +4,7 @@ Jónás, Renátó
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "borult")
 
-2°2°
+2°3°
 
 Menü
 
