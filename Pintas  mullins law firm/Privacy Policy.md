@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Do i need a lawyer for my memory care facility abuse claim?](https://www.pintas.com/wp-content/uploads/2021/02/practice-areas-personal-injury-assisted-living-accident-lawyer-do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim-300x200.jpg "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/ "Do I Need a Lawyer for My Memory Care Facility Abuse Claim?")
+[![Do you always lose weight with lung cancer?](https://www.pintas.com/wp-content/uploads/2020/06/lung-cancer-do-you-always-lose-weight-with-lung-cancer.jpg "Do You Always Lose Weight with Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/ "Do You Always Lose Weight with Lung Cancer?")
 
-[#### Do I Need a Lawyer for My Memory Care Facility Abuse Claim?](https://www.pintas.com/faq/do-i-need-a-lawyer-for-my-memory-care-facility-abuse-claim/)
+[#### Do You Always Lose Weight with Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/do-you-always-lose-weight-with-lung-cancer/)
 
-[![What are the signs of emotional abuse in nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-signs-of-emotional-abuse-in-nursing-homes-scaled.jpg "What Are the Signs of Emotional Abuse in Nursing Homes?")](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/ "What Are the Signs of Emotional Abuse in Nursing Homes?")
+[![What evidence do you need to sue a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-evidence-do-you-need-to-sue-a-nursing-home-scaled.jpg "What Evidence Do You Need to Sue a Nursing Home?")](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/ "What Evidence Do You Need to Sue a Nursing Home?")
 
-[#### What Are the Signs of Emotional Abuse in Nursing Homes?](https://www.pintas.com/faq/what-are-the-signs-of-emotional-abuse-in-nursing-homes/)
+[#### What Evidence Do You Need to Sue a Nursing Home?](https://www.pintas.com/faq/what-evidence-do-you-need-to-sue-a-nursing-home/)
 
-[![What are the misconceptions about a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-are-the-misconceptions-about-a-nursing-home-scaled.jpg "What Are the Misconceptions About a Nursing Home?")](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/ "What Are the Misconceptions About a Nursing Home?")
+[![What are the signs of end stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-signs-of-end-stage-lung-cancer.jpg "What Are the Signs of End Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer "What Are the Signs of End Stage Lung Cancer?")
 
-[#### What Are the Misconceptions About a Nursing Home?](https://www.pintas.com/faq/what-are-the-misconceptions-about-a-nursing-home/)
+[#### What Are the Signs of End Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
