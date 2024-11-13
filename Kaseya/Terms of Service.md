@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2022/12/CITlocal-CITY-1200x800_Chicago-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2022/09/CITlocal-chicago-300x200.png)
     
-    Kaseya+Datto Connect Local Chicago (For MSPs)
+    Kaseya+Datto Connect Local – Chicago (For Internal IT)
     
-    November 12
+    November 13
     
     [View All Events](https://www.kaseya.com/events/)
     
