@@ -20,16 +20,16 @@ Wednesday, November 13 2024
 
 Latest
 
-* [Silo Season 1 Recap: Everything You Should Know Before Season 2](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
-* [NatWest just banned staff from using WhatsApp at work – here’s why](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
-* [OpenAI’s SimpleQA tool for discerning genAI accuracy — right message, wrong messenger – Computerworld](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
-* [Here’s How Much It Costs to Fix a Pixel 9 Pro Fold Display](https://digitpatrox.com/heres-how-much-it-costs-to-fix-a-pixel-9-pro-fold-display/)
-* [Best Counter-Depth Refrigerators of 2024, Tested by Our Expe](https://digitpatrox.com/best-counter-depth-refrigerators-of-2024-tested-by-our-expe/)
-* [A Beginner’s Guide to Editing Text Files With Vi](https://digitpatrox.com/a-beginners-guide-to-editing-text-files-with-vi/)
-* [Databarracks snaps up Commvault solution provider COOLSPIRiT](https://digitpatrox.com/databarracks-snaps-up-commvault-solution-provider-coolspirit/)
-* [Apple’s Geo-Blocking Practices Could Violate EU Rules](https://digitpatrox.com/apples-geo-blocking-practices-could-violate-eu-rules/)
-* [Netflix’s new crime drama is now streaming — and it’s one of the year’s most surprising movies](https://digitpatrox.com/netflixs-new-crime-drama-is-now-streaming-and-its-one-of-the-years-most-surprising-movies/)
-* [D-Link won’t fix critical bug in 60,000 exposed EoL modems](https://digitpatrox.com/d-link-wont-fix-critical-bug-in-60000-exposed-eol-modems/)
+* [US indicts Snowflake hackers who extorted $2.5 million from 3 victims](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
+* [Meta must face FTC trial that could separate Instagram and WhatsApp](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
+* [Arcane Season 2: What Happened to Viktor?](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
+* [How to Change Location on Hinge](https://digitpatrox.com/how-to-change-location-on-hinge/)
+* [The infamous Volt Typhoon hacker group is back](https://digitpatrox.com/the-infamous-volt-typhoon-hacker-group-is-back/)
+* [4 ways to use your phone as a webcam on Windows – Computerworld](https://digitpatrox.com/4-ways-to-use-your-phone-as-a-webcam-on-windows-computerworld/)
+* [This Netgear Orbi 6E Wifi Mesh System Is $500 Off Right Now](https://digitpatrox.com/this-netgear-orbi-6e-wifi-mesh-system-is-500-off-right-now/)
+* [American Associated Pharmacies resets all user passwords after ransomware gang claims responsibility for cyber attack](https://digitpatrox.com/american-associated-pharmacies-resets-all-user-passwords-after-ransomware-gang-claims-responsibility-for-cyber-attack/)
+* [Car Brands Ranked by Maintenance and Repair Costs Over Time](https://digitpatrox.com/car-brands-ranked-by-maintenance-and-repair-costs-over-time/)
+* [This Is When Your iPhone Will (Probably) Get Image Playground & ChatGPT Integration](https://digitpatrox.com/this-is-when-your-iphone-will-probably-get-image-playground-chatgpt-integration/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/11/Juliette-Nichols-in-season-2.jpg)](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/06/24/justice-3.jpg)](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
     
-    [Silo Season 1 Recap: Everything You Should Know Before Season 2](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
+    [US indicts Snowflake hackers who extorted $2.5 million from 3 victims](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
     
-    4 mins ago
+    31 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/52jDDZYBjbnBY8QebT8ayH-1200-80.jpg)](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
+* [![](https://cdn.vox-cdn.com/thumbor/aFVf1nZ5PjZNbxd151IaoqXfmvA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg)](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
     
-    [NatWest just banned staff from using WhatsApp at work – here’s why](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
+    [Meta must face FTC trial that could separate Instagram and WhatsApp](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
+    
+    49 minutes ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/11/arcane-season-2-viktor.jpg)](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
+    
+    [Arcane Season 2: What Happened to Viktor?](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
+    
+    1 hour ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-change-location-on-Hinge.jpg)](https://digitpatrox.com/how-to-change-location-on-hinge/)
+    
+    [How to Change Location on Hinge](https://digitpatrox.com/how-to-change-location-on-hinge/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3603749-0-64352000-1731495802-wrong_way_road_sign_neonbrand_cc0_via_unsplash_1200x800-100753508-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
+* [![](https://cdn.mos.cms.futurecdn.net/D6hvhc8ZrWoC2dXjvMxggB-1200-80.jpg)](https://digitpatrox.com/the-infamous-volt-typhoon-hacker-group-is-back/)
     
-    [OpenAI’s SimpleQA tool for discerning genAI accuracy — right message, wrong messenger – Computerworld](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JCH592S8K0XJX1XW3C0DY2QN/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/heres-how-much-it-costs-to-fix-a-pixel-9-pro-fold-display/)
-    
-    [Here’s How Much It Costs to Fix a Pixel 9 Pro Fold Display](https://digitpatrox.com/heres-how-much-it-costs-to-fix-a-pixel-9-pro-fold-display/)
-    
-    2 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1672958546/prod/content/dam/CRO-Images-2023/01January/Home/CR-Home-InlineHero-Best-Counter-Depth-Refrigerators-0123)](https://digitpatrox.com/best-counter-depth-refrigerators-of-2024-tested-by-our-expe/)
-    
-    [Best Counter-Depth Refrigerators of 2024, Tested by Our Expe](https://digitpatrox.com/best-counter-depth-refrigerators-of-2024-tested-by-our-expe/)
+    [The infamous Volt Typhoon hacker group is back](https://digitpatrox.com/the-infamous-volt-typhoon-hacker-group-is-back/)
     
     3 hours ago
     
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 mins ago
+* [31 minutes ago
     
-    ### Silo Season 1 Recap: Everything You Should Know Before Season 2](https://digitpatrox.com/silo-season-1-recap-everything-you-should-know-before-season-2/)
-* [2 hours ago
+    ### US indicts Snowflake hackers who extorted $2.5 million from 3 victims](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
+* [49 minutes ago
     
-    ### NatWest just banned staff from using WhatsApp at work – here’s why](https://digitpatrox.com/natwest-just-banned-staff-from-using-whatsapp-at-work-heres-why/)
-* [2 hours ago
+    ### Meta must face FTC trial that could separate Instagram and WhatsApp](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
+* [1 hour ago
     
-    ### OpenAI’s SimpleQA tool for discerning genAI accuracy — right message, wrong messenger – Computerworld](https://digitpatrox.com/openais-simpleqa-tool-for-discerning-genai-accuracy-right-message-wrong-messenger-computerworld/)
+    ### Arcane Season 2: What Happened to Viktor?](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
 
 Most Popular Topics
 
-* [September 28, 2024
+* [August 17, 2024
     
-    ### Wordle Answer for Today, September 28, 2024](https://digitpatrox.com/wordle-answer-for-today-september-28-2024/)
-* [September 24, 2024
+    ### For August, Patch Tuesday means patch now – Computerworld](https://digitpatrox.com/for-august-patch-tuesday-means-patch-now-computerworld/)
+* [August 16, 2024
     
-    ### Three Nintendo Switch Deals to Consider Before the Holiday Rush](https://digitpatrox.com/three-nintendo-switch-deals-to-consider-before-the-holiday-rush/)
-* [7 days ago
+    ### Steve Jobs’ decades-old vision of a chatbot bears some resemblance to modern generative AI tools](https://digitpatrox.com/steve-jobs-decades-old-vision-of-a-chatbot-bears-some-resemblance-to-modern-generative-ai-tools/)
+* [September 20, 2024
     
-    ### Internet access returns to Mozambique – but social media remains blocked](https://digitpatrox.com/internet-access-returns-to-mozambique-but-social-media-remains-blocked/)
+    ### Transformers One Post-Credits Scene Explained](https://digitpatrox.com/transformers-one-post-credits-scene-explained/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Databarracks snaps up Commvault solution provider COOLSPIRiT](https://digitpatrox.com/databarracks-snaps-up-commvault-solution-provider-coolspirit/)
-* [3 hours ago
+    ### This Netgear Orbi 6E Wifi Mesh System Is $500 Off Right Now](https://digitpatrox.com/this-netgear-orbi-6e-wifi-mesh-system-is-500-off-right-now/)
+* [4 hours ago
     
-    ### Apple’s Geo-Blocking Practices Could Violate EU Rules](https://digitpatrox.com/apples-geo-blocking-practices-could-violate-eu-rules/)
-* [3 hours ago
+    ### American Associated Pharmacies resets all user passwords after ransomware gang claims responsibility for cyber attack](https://digitpatrox.com/american-associated-pharmacies-resets-all-user-passwords-after-ransomware-gang-claims-responsibility-for-cyber-attack/)
+* [4 hours ago
     
-    ### Netflix’s new crime drama is now streaming — and it’s one of the year’s most surprising movies](https://digitpatrox.com/netflixs-new-crime-drama-is-now-streaming-and-its-one-of-the-years-most-surprising-movies/)
+    ### Car Brands Ranked by Maintenance and Repair Costs Over Time](https://digitpatrox.com/car-brands-ranked-by-maintenance-and-repair-costs-over-time/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
