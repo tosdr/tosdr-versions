@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for the fast response and great customer service
+Just signed up for another 6 months package....This allows me to stay connected to the BBC iplayer whilst travelling in Asia. Great consistant connections...Thanks
 
-Ivana Danav
+Tim Holden
