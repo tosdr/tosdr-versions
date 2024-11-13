@@ -42,12 +42,30 @@ Who we are
 
 Our website address is: https://yunibalance.com.
 
+Personal data
+-------------
+
+This site doe not process any personal identifiable information.
+
+Cookies
+-------
+
+Functional cookies are necessary for the function of this site and security. We may place these cookies without your consent.
+
 Embedded content from other websites
 ------------------------------------
 
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
 
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
+
+Contact
+-------
+
+For questions regarding our privacy policy please use the following details:
+
+Website: https://yunibalance.com.  
+Email: privacy@yunibalance.com
 
 ##### Recent Posts
 
