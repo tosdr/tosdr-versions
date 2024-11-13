@@ -31,7 +31,8 @@ Sign In
 
 ###### Select your Professional platform
 
-[First Aid Forward](https://firstaid.mheducation.com/mg/auth)
+* [Boards & Beyond](https://www.boardsbeyond.com/login "Boards & Beyond, opens in a new window")
+* [First Aid Forward](https://firstaid.mheducation.com/mg/auth "First Aid Forward, opens in a new window")
 
 ###### Sign in to mheducation.com
 
@@ -481,7 +482,8 @@ Sign In
 
 ###### Select your Professional platform
 
-[First Aid Forward](https://firstaid.mheducation.com/mg/auth)
+* [Boards & Beyond](https://www.boardsbeyond.com/login "Boards & Beyond, opens in a new window")
+* [First Aid Forward](https://firstaid.mheducation.com/mg/auth "First Aid Forward, opens in a new window")
 
 ###### Sign in to mheducation.com
 
