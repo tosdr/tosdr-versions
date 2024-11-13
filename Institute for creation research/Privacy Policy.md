@@ -95,97 +95,65 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More God's Design Is an Engineering Wonder
+More Back to Genesis
 
-[![](/i/Main%20Stage%20-%201400x1050/rnavirusesocean-1400x1050)](https://www.icr.org/article/rna-viruses-ocean)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/ToothedFishFoss.jpg)](https://www.icr.org/article/toothed-fish-fossil-reveals)
 
-[New RNA Viruses Discovered in Ocean Water Samples](https://www.icr.org/article/rna-viruses-ocean/)
+[Toothed Fish Fossil Rewrites Evolutionary Fish Story](https://www.icr.org/article/toothed-fish-fossil-reveals/)
 
-An international team of scientists onboard the schooner Tara is conducting an ongoing oceanic global study. The research is part of the Tara Oceans Consortium...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/Main%20Stage%20-%201400x1050/dna_tech_1400x1050.jpg)](https://www.icr.org/article/latest-dna-tech-still-light-years-behind)
-
-[Latest DNA Tech Still Light-Years Behind](https://www.icr.org/article/latest-dna-tech-still-light-years-behind/)
-
-Let’s say you recorded a library of books onto DNA. Hundreds of books could fit on your fingertip, but how would you find the one book you wanted? As...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/theory_biological_design_1400x1050.jpg)](https://www.icr.org/article/applying-theory-biological-design-optimal)
-
-[Applying the Theory of Biological Design to Optimal Owl.,.](https://www.icr.org/article/applying-theory-biological-design-optimal/)
-
-by Randy J. Guliuzza, P.E., M.D., and Aaron T. Guliuzza, P.E.\*   If the greatest writers had been well-versed in fields of science,...
-
-BY:  [VARIOUS AUTHORS](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=35)
-
-More Creation Science Update
-
-[![](/i/Main%20Stage%20-%201400x1050/PlantDefense_1400x1050)](https://www.icr.org/article/amazing-plant-defense)
-
-[An Amazing Plant Defense](https://www.icr.org/article/amazing-plant-defense/)
-
-Although plants are not alive in the biblical sense,1 scientists continue to discover just how complex they are.2 It has been...
+Once again, research into the fossil record has provided evidence that a creature “originated far earlier than previously believed”—...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/MidEarGills_1400x1050.jpg)](https://www.icr.org/article/middle-ear-fish-gills)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/symbiotic_lichen.jpg)](https://www.icr.org/article/symbiotic-lichens-showcase-our-creators-ingenuity)
 
-[Did Our Middle Ear Evolve from Fish Gills?](https://www.icr.org/article/middle-ear-fish-gills/)
+[Symbiotic Lichens Showcase Our Creator's Ingenuity](https://www.icr.org/article/symbiotic-lichens-showcase-our-creators-ingenuity/)
 
-A recent SciTechDaily article begins by saying, “Embryonic and fossil evidence proves that the human middle ear evolved from the spiracle of fishes”1...
+Lichens resemble plants or fungi, with elaborate branches like ocean coral, tiny cup-like structures, or leaf-like fronds. They can be found growing...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/Main%20Stage%20-%201400x1050/originforecholocation_1400x1050.jpg)](https://www.icr.org/article/modern-echolocation-bats)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/created_cuttlebone.jpg)](https://www.icr.org/article/created-cuttlebones-sweet-spot)
 
-[An ''Early'' Origin for Modern Echolocation in Bats](https://www.icr.org/article/modern-echolocation-bats/)
+[Created Cuttlebone's Sweet Spot](https://www.icr.org/article/created-cuttlebones-sweet-spot/)
 
-As flying mammals, bats continue to amaze zoologists with their incredible abilities.1,2 But their origin continues to be an enigma for conventional...
+God created Earth during the creation week just thousands of years ago. This includes its marvelous oceans—128 million square miles of salt water....
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/26360806/file.jpg)
 
-The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
+Made in the Image of an Ape?](https://store.icr.org/discover-creation-made-in-the-image-of-an.html)
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/19699742/file.jpg)
+
+Made in the Image of an Ape? - Download](https://store.icr.org/discover-creation-made-in-the-image-of-an-ape-down.html)
 
 $4.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13241008/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+The Design and Complexity of the Cell](https://store.icr.org/dr-jeff-tomkins-the-design-and-complexity-of-the-c.html)
 
-The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+$14.99
 
-$7.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59221727/file.jpg)
 
-$9.99
+The Fossils Still Say No](https://store.icr.org/the-fossils-still-say-no.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+$29.99
 
-Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/39324153/file.jpg)
 
-$7.99
+Chimps and Humans - eBook](https://store.icr.org/chimps-and-humans-ebook.html)
 
-$9.99
+$14.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
-
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
-
-$4.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
-
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
-
-$16.99
+$19.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
