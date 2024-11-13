@@ -358,9 +358,9 @@ Popular Stories
 * [![Hacker box](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Hackers now use ZIP file concatenation to evade detection](https://www.bleepingcomputer.com/news/security/hackers-now-use-zip-file-concatenation-to-evade-detection/)
-* [![PyPI](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Amazon](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Malicious PyPI package with 37,000 downloads steals AWS keys](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-with-37-000-downloads-steals-aws-keys/)
+    Amazon confirms employee data breach after vendor hack](https://www.bleepingcomputer.com/news/security/amazon-confirms-employee-data-breach-after-vendor-hack/)
 
 ##### Follow us:
 
