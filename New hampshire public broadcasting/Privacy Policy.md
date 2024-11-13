@@ -185,8 +185,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 ###### LATEST VIDEO
 
 * [**Extended Preview** | Lucy Worsley's Holmes vs. Doyle](https://video.nhpbs.org/video/extended-preview-0sedpf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Meet the artists in Cheech Marin's Chicano Art collection** | Craft in America](https://video.nhpbs.org/video/meet-the-artists-in-cheech-marins-chicano-art-collection-eao0ap?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**American Coup: Wilmington 1898** | American Experience](https://video.nhpbs.org/video/american-coup-wilmington-1898-u9qwb9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Meet the artists in Cheech Marin's Chicano Art collection** | Craft in America](https://video.nhpbs.org/video/meet-the-artists-in-cheech-marins-chicano-art-collection-eao0ap?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 12, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-12-2024-pbs-news-hour-full-episode-1731387601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Building Stuff: Reach It! Preview** | NOVA](https://video.nhpbs.org/video/building-stuff-reach-it-promo-o7sbok?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Episode 4 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-4-scene-uuxbqy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
