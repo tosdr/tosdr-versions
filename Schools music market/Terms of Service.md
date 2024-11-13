@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/sallys-first-piano-lesson-a-ks1-story/)
+ [](https://schoolsmusicmarket.com/product/making-a-hip-hop-beat-on-garageband-bandlab/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/music-term-bingo/)
+ [](https://schoolsmusicmarket.com/product/instrument-family-jeopardy-key-music-game/)
 
 ###### Browse By Year/Grade
 
