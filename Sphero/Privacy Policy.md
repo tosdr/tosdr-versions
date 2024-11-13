@@ -18,7 +18,7 @@ Using information available, combined with skills acquired, can help make good d
 
        
 
-[Free Webinar | Join us on 11/12 for Power Up Learning with Blueprint Engineering for a chance to win a Blueprint Engineering Kit! Register now >](https://sphero.zoom.us/webinar/register/9017295456937/WN_esj_QU0AS4WhUR1RKUbbHA)
+[This just in! BOLT+ has been named one of TIME's Best Inventions for 2024. Shop now >](https://sphero.com/products/sphero-bolt-plus)
 
 * Shop
 * Educator Resources
