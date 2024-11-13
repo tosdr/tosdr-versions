@@ -63,7 +63,7 @@ Tel: (+32) 56 33 08 35
 Politique de Cookies
 ====================
 
-[Accueil](https://e2essentialelements.com/) / Politique des Cookies
+[Home](https://e2essentialelements.com/) / Politique des Cookies
 
 [1\. Ce que sont les cookies](#1) | [2\. Déclaration des cookies](#2) | [3\. Officier de protection des données](#3)
 
