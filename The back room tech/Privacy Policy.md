@@ -116,18 +116,18 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2027'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2042'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cent-os-80x27.png)](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")[Configure CentOS to Sync with NTP Time Servers](https://thebackroomtech.com/2019/01/17/configure-centos-to-sync-with-ntp-time-servers/ "Configure CentOS to Sync with NTP Time Servers")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2046'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/usb-device-80x42.jpg.optimal.jpg)](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")[Attach a USB Device to a Virtual Machine in VMware](https://thebackroomtech.com/2019/03/19/attach-a-usb-device-to-a-virtual-machine-in-vmware/ "Attach a USB Device to a Virtual Machine in VMware")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2026'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/image5-1-80x46.jpg.optimal.jpg)](https://thebackroomtech.com/2007/07/18/howto-using-ad-restore-and-psexec-to-remotely-restore-a-deleted-object-from-active-directory/ "Howto: Using AD Restore and PSexec to Remotely Restore a Deleted Object from Active Directory")[Howto: Using AD Restore and PSexec to Remotely Restore a Deleted Object from Active Directory](https://thebackroomtech.com/2007/07/18/howto-using-ad-restore-and-psexec-to-remotely-restore-a-deleted-object-from-active-directory/ "Howto: Using AD Restore and PSexec to Remotely Restore a Deleted Object from Active Directory")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2008-80x26.png)](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")[Mark’s Windows 2008 DNS Server Command Line Cheat Sheet](https://thebackroomtech.com/2008/03/24/marks-windows-2008-dns-server-command-line-cheat-sheet/ "Mark’s Windows 2008 DNS Server Command Line Cheat Sheet")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2037'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/00-80x52.png)](https://thebackroomtech.com/2019/04/12/an-introduction-to-the-security-linux-distro-tails/ "An Introduction To The Security Linux Distro “Tails”")[An Introduction To The Security Linux Distro “Tails”](https://thebackroomtech.com/2019/04/12/an-introduction-to-the-security-linux-distro-tails/ "An Introduction To The Security Linux Distro “Tails”")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/ntdsutil-files-80x37.png)](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")[Active Directory DSRM and Defragmentation](https://thebackroomtech.com/2018/08/23/active-directory-dsrm-and-defragmentation/ "Active Directory DSRM and Defragmentation")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2021'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/dos-command-prompt-78x52.jpg.optimal.jpg)](https://thebackroomtech.com/2019/03/20/automatically-pass-winscp-passwords-to-putty-ssh/ "Automatically Pass WinSCP Passwords to PuTTY (SSH)")[Automatically Pass WinSCP Passwords to PuTTY (SSH)](https://thebackroomtech.com/2019/03/20/automatically-pass-winscp-passwords-to-putty-ssh/ "Automatically Pass WinSCP Passwords to PuTTY (SSH)")
+    ![](https://s11921.pcdn.co/wp-content/uploads/powershell-1-1-80x21.png)](https://thebackroomtech.com/2019/03/25/how-to-remove-a-hyper-v-vm-snapshot-using-powershell/ "How to Remove a Hyper-V VM Snapshot using PowerShell")[How to Remove a Hyper-V VM Snapshot using PowerShell](https://thebackroomtech.com/2019/03/25/how-to-remove-a-hyper-v-vm-snapshot-using-powershell/ "How to Remove a Hyper-V VM Snapshot using PowerShell")
 
 #### Our Publishing Family
 
