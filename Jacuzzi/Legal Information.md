@@ -93,8 +93,8 @@ Menu
     
     *  [Most Popular Articles](https://www.jacuzzi.com/en-us/most-popular-articles-category.html)
     *  [Recent Articles](https://www.jacuzzi.com/en-us/recent-articles-blog.html)
-    *  [Sauna Articles](https://www.jacuzzi.com/en-us/category-sauna-blogs.html)
     *  [Hot Tub Articles](https://www.jacuzzi.com/en-us/category-hot-tub-blogs.html)
+    *  [Sauna Articles](https://www.jacuzzi.com/en-us/category-sauna-blogs.html)
     *  [Infrared Articles](https://www.jacuzzi.com/en-us/category-ir-blogs.html)
     *  [Swim Spa Articles](https://www.jacuzzi.com/en-us/category-swim-spa-blogs.html)
     *  [Hot Tub Shopping Tools](https://www.jacuzzi.com/en-us/design-your-own.html)
@@ -109,10 +109,10 @@ Menu
     *  [Specification Sheets](https://www.jacuzzi.com/en-us/specification-sheets.html)
     *  [CAD Downloads](https://www.jacuzzi.com/en-us/caddownloads.html)
     *  [Bath Manuals & User Guides](https://www.jacuzzi.com/en-us/owners-manuals.html)
-    *  [Manuals & User Guides](https://www.jacuzzi.com/en-us/resources/manuals-and-user-guides.html)
-    *  [Warranty Coverage](https://www.jacuzzi.com/en-us/owners-center/warranty-coverage.html)
-    *  [Register Your Product](https://www.jacuzzi.com/en-us/warranty-registration.html)
     *  [Referral Program](https://www.jacuzzi.com/en-us/referral-program.html)
+    *  [Warranty Coverage](https://www.jacuzzi.com/en-us/owners-center/warranty-coverage.html)
+    *  [Manuals & User Guides](https://www.jacuzzi.com/en-us/resources/manuals-and-user-guides.html)
+    *  [Register Your Product](https://www.jacuzzi.com/en-us/warranty-registration.html)
     
     #### Featured
     
