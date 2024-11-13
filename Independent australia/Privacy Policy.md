@@ -183,9 +183,9 @@ Just in
 * [Trump's return brings misogynists out of hiding](https://independentaustralia.net/article-display/trumps-return-brings-misogynists-out-of-hiding,19168 "Permanent Link : Trump's return brings misogynists out of hiding")
 * [AUKUS proves Australia and U.S. to be an Odd Couple](https://independentaustralia.net/article-display/aukus-proves-australia-and-us-to-be-an-odd-couple,19166 "Permanent Link : AUKUS proves Australia and U.S. to be an Odd Couple")
 * [Intelligent systems depend on fusion of biology and technology](https://independentaustralia.net/article-display/intelligent-systems-depend-on-fusion-of-biology-and-technology,19165 "Permanent Link : Intelligent systems depend on fusion of biology and technology")
+* [EDITORIAL: Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/editorial-trump-dutton-and-calling-a-fascist-a-fascist,19169 "Permanent Link : EDITORIAL: Trump, Dutton and calling a fascist a Fascist")
 * [How to minimize distractions while working from home](https://independentaustralia.net/article-display/how-to-minimize-distractions-while-working-from-home,19162 "Permanent Link : How to minimize distractions while working from home")
 * [Republic agenda still on the table 25 years after rejection](https://independentaustralia.net/article-display/republic-agenda-still-on-the-table-25-years-after-rejection,19164 "Permanent Link : Republic agenda still on the table 25 years after rejection")
-* [All aboard the Trump train](https://independentaustralia.net/article-display/all-aboard-the-trump-train,19163 "Permanent Link : All aboard the Trump train")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
