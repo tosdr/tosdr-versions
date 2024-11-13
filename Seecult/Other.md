@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/igor-stromajer/wlan/gsm/wap/ballettikka-internettikka.?itok=htBDIEu_)](http://seecult.org/galerija/galerija-umetnika/igor-stromajer/wlangsmwap)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/untitled-11.jpg?itok=zJqV68Pu)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/zp.jpg?itok=cZ6yGMf1)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/39-majska-izlozba-javno-kupatilo-144-15507/39-m-ackov-larisa.jpg?itok=IeJ2-a1r)](http://seecult.org/galerija/foto-galerija/foto-arhiva/39-majska-izlozba-javno-kupatilo-144-15507)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +444,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Ćutanje je zlato](http://seecult.org/vest/cutanje-je-zlato-0)
+* [Big Bend RTS i Erik van Lir u slavu Herbolzhajmera](http://seecult.org/vest/big-bend-rts-i-erik-van-lir-u-slavu-herbolzhajmera)
 * [Live Soundtrack - deset godina](http://seecult.org/vest/live-soundtrack-deset-godina)
 * [Karavan igre - podrška mladim igračima](http://seecult.org/vest/karavan-igre-podrska-mladim-igracima)
 * [Dragani Mladenović uručena nagrada Milica Stojadinović Srpkinja](http://seecult.org/vest/dragani-mladenovic-urucena-nagrada-milica-stojadinovic-srpkinja)
@@ -452,8 +454,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [(Ne)mogućnost prijateljstva ideoloških neistomišljenika](http://seecult.org/vest/nemogucnost-prijateljstva-ideoloskih-neistomisljenika)
 * [Hitovi 20. Slobodne zone na bis](http://seecult.org/vest/hitovi-20-slobodne-zone-na-bis)
 * [Nagrade 18. Animanime](http://seecult.org/vest/nagrade-18-animanime)
-* [Pobednici 22. ZFF-a](http://seecult.org/vest/pobednici-22-zff)
-* [Novo izdanje Filmova na štiklama](http://seecult.org/vest/novo-izdanje-filmova-na-stiklama)
 
 * [Konkursi](#tab1_1)
 
