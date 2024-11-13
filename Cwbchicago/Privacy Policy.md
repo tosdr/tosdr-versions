@@ -243,6 +243,27 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb13-326x245.jpg)](https://cwbchicago.com/2024/11/murder-victim-found-fatally-shot-in-south-side-intersection-previously-served-by-shotspotter.html "Murder victim found fatally shot in South Side intersection previously served by ShotSpotter")
+
+East Side
+
+### [Murder victim found fatally shot in South Side intersection previously served by ShotSpotter](https://cwbchicago.com/2024/11/murder-victim-found-fatally-shot-in-south-side-intersection-previously-served-by-shotspotter.html "Murder victim found fatally shot in South Side intersection previously served by ShotSpotter")
+
+[November 10, 2024 7:35 AM](https://cwbchicago.com/2024/11)
+
+Passersby reported finding a man struck by a car in an East Side intersection overnight. He had, in fact, been shot and his vehicle was overhead, on the Chicago Skyway. The neighborhood where the murder occurred used to be served by ShotSpotter.  
+[](https://cwbchicago.com/2024/11/murder-victim-found-fatally-shot-in-south-side-intersection-previously-served-by-shotspotter.html "Murder victim found fatally shot in South Side intersection previously served by ShotSpotter")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Raylon-East-Navy-Pier-326x245.jpg)](https://cwbchicago.com/2024/11/one-week-after-firing-navy-pier-employee-returned-to-kill-2-co-workers-officials-say-in-first-detailed-account.html "One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account")
+
+Streeterville
+
+### [One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account](https://cwbchicago.com/2024/11/one-week-after-firing-navy-pier-employee-returned-to-kill-2-co-workers-officials-say-in-first-detailed-account.html "One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account")
+
+[November 9, 2024 6:10 PM](https://cwbchicago.com/2024/11)
+
+One week after being fired from his food service job at Navy Pier, 36-year-old Raylon East returned to the lakefront attraction, murdered two former co-workers, and tossed the gun into Lake Michigan, prosecutors said Saturday.[](https://cwbchicago.com/2024/11/one-week-after-firing-navy-pier-employee-returned-to-kill-2-co-workers-officials-say-in-first-detailed-account.html "One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
 
 South Loop
@@ -252,26 +273,6 @@ South Loop
 [November 9, 2024 10:07 AM](https://cwbchicago.com/2024/11)
 
 The parents of a woman found dead in the stairwell of a South Loop luxury high-rise are asking a judge to block the woman’s husband from claiming her remains.[](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Raylon-East-Navy-Pier-326x245.jpg)](https://cwbchicago.com/2024/11/ex-employee-charged-with-double-murder-at-navy-pier.html "Ex-employee charged with double murder at Navy Pier")
-
-Streeterville
-
-### [Ex-employee charged with double murder at Navy Pier](https://cwbchicago.com/2024/11/ex-employee-charged-with-double-murder-at-navy-pier.html "Ex-employee charged with double murder at Navy Pier")
-
-[November 9, 2024 7:53 AM](https://cwbchicago.com/2024/11)
-
-Prosecutors have charged a man with murdering two of his former co-workers in an office at Navy Pier this week.[](https://cwbchicago.com/2024/11/ex-employee-charged-with-double-murder-at-navy-pier.html "Ex-employee charged with double murder at Navy Pier")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/1900-block-north-california-chicago-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-in-logan-square-overnight.html "Man shot in Logan Square overnight")
-
-Logan Square
-
-### [Man shot in Logan Square overnight](https://cwbchicago.com/2024/11/man-shot-in-logan-square-overnight.html "Man shot in Logan Square overnight")
-
-[November 9, 2024 7:23 AM](https://cwbchicago.com/2024/11)
-
-The 35-year-old was in the 1900 block of North California when he got into an argument with a man in a red sedan around 3:15 a.m., according to police.[](https://cwbchicago.com/2024/11/man-shot-in-logan-square-overnight.html "Man shot in Logan Square overnight")
 
 Search
 
