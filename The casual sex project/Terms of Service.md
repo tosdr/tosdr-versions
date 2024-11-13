@@ -104,6 +104,36 @@ Nov 07 2024
 
 By **[Howard P. Milstein](https://admin.mi52siterestore.com/person/howard-p-milstein/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/Trillion-dollar-deficits.jpeg)[](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/ "Read More")
+
+Commentary Economics Tax & Budget
+
+Nov 12 2024
+
+[2024 Chart Book Examines Spending, Taxes, and Deficits](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/)
+
+By **[Brian Riedl](https://admin.mi52siterestore.com/person/brian-riedl/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/the-economics-of-political-correctness-scholars-need-incentives-to-find-truth-not-hide-it.jpg)[](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/ "Read More")
+
+Commentary Education Higher Ed
+
+Nov 11 2024
+
+[The Economics of Political Correctness](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/)
+
+By **[Roland G. Fryer, Jr.](https://admin.mi52siterestore.com/person/roland-g-fryer-jr/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/no-to-drugs-marijuana-mushrooms.jpg)[](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/ "Read More")
+
+Commentary Governance, Health Elections
+
+Nov 11 2024
+
+[Americans Just Said No to Drugs](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/)
+
+By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/hispanics-shift-right.jpg)[](https://admin.mi52siterestore.com/article/hispanics-shift-right/ "Read More")
 
 Commentary Governance Elections
@@ -113,36 +143,6 @@ Nov 08 2024
 [Hispanics Shift Right](https://admin.mi52siterestore.com/article/hispanics-shift-right/)
 
 By **[Daniel Di Martino](https://admin.mi52siterestore.com/person/daniel-di-martino/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/hispanics-shift-right/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory.jpg)[](https://admin.mi52siterestore.com/article/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory/ "Read More")
-
-Commentary Governance, Education Higher Ed
-
-Nov 08 2024
-
-[Canceled Classes, Rescheduled Midterms, and Stress Baking: How Elite Universities Are Coddling Students Grieving over Trump’s Victory](https://admin.mi52siterestore.com/article/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory/)
-
-By **[Lexi Boccuzzi](https://admin.mi52siterestore.com/person/lexi-boccuzzi/), [Jessica Costescu](https://admin.mi52siterestore.com/person/jessica-costescu/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/canceled-classes-rescheduled-midterms-and-stress-baking-how-elite-universities-are-coddling-students-grieving-over-trumps-victory/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/are-black-newborns-more-likely-to-survive-with-black-doctors.jpg)[](https://admin.mi52siterestore.com/article/are-black-newborns-more-likely-to-survive-with-black-doctors/ "Read More")
-
-Commentary Governance, Culture, Health
-
-Nov 07 2024
-
-[Are Black Newborns More Likely to Survive with Black Doctors?](https://admin.mi52siterestore.com/article/are-black-newborns-more-likely-to-survive-with-black-doctors/)
-
-By **[Robert VerBruggen](https://admin.mi52siterestore.com/person/robert-verbruggen/), [George J. Borjas](https://admin.mi52siterestore.com/person/george-j-borjas/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/are-black-newborns-more-likely-to-survive-with-black-doctors/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/policy-recommendations-for-innovation-in-infrastructure.jpg)[](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/ "Read More")
-
-Report Governance, Cities, Economics
-
-Nov 07 2024
-
-[Policy Recommendations for Innovation in Infrastructure](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/)
-
-By **[John Ketcham](https://admin.mi52siterestore.com/person/john-ketcham/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/policy-recommendations-for-innovation-in-infrastructure/)
 
 Our Policy Areas
 ----------------
