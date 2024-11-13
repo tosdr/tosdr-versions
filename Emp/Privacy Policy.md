@@ -168,7 +168,7 @@ Ok
 
 Mit dem Klick auf „Geht klar!“ erlaubst du uns Cookies zur Verbesserung und Personalisierung unseres Shops, zur Analyse und zu Marketingzwecken auf unserer Website, Social Media und auf Partnerwebsites zu nutzen. Alternativ kannst du dem Verwenden von Cookies auch nicht zustimmen - in diesem Fall verwenden wir lediglich notwendige Cookies. Mit dem Klick auf "Einstellungen" kannst du deine Cookie Präferenzen auswählen. In der [Cookie-Richtlinie](https://www.emp.de/terms-cookie-policy.html) kannst du die Cookie-Einstellung jederzeit ändern und die Einwilligung widerrufen. Mehr Informationen findest du in unserer [Datenschutzerklärung](https://www.emp.de/customer-service/terms-%26-conditions/terms-privacy-policy.html).
 
-Einstellungen Geht klar!
+Geht klar! Alle ablehnen Einstellungen
 
 Hier kannst du das Tracking und die Analysetools auf unseren Websites zulassen oder ausschließen.
 
@@ -493,7 +493,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
