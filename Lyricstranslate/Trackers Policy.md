@@ -137,59 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![gakumiru](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616822-1717112280.jpg)](https://lyricstranslate.com/en/translator/gakumiru "gakumiru")
+[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
 
-New request
+New song
 
-[Exist † Trace - 海の雫 (Umi no shizuku)](https://lyricstranslate.com/en/request/%E6%B5%B7%E3%81%AE%E9%9B%AB)
+[Narvel Felts - I Swear By Stars Above](https://lyricstranslate.com/en/narvel-felts-i-swear-stars-above-lyrics)
 
-Japanese → English
+English
 
-[![heskia1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/heskia1 "heskia1")
-
-New comment
-
-You are most welcome. If you know Persian, the ...  [more](https://lyricstranslate.com/en/comment/1175490#comment-1175490)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175489#comment-1175489)
-
-[![Klaarzin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517013-1636035828.png)](https://lyricstranslate.com/en/translator/klaarzin "Klaarzin")
-
-New comment
-
-In diesem Gedicht lese ich einen scharfen Angriff ...  [more](https://lyricstranslate.com/en/comment/1175488#comment-1175488)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175487#comment-1175487)
-
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+[![edgelordneko](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1484515-1610097039.png)](https://lyricstranslate.com/en/translator/edgelordneko "edgelordneko")
 
 New translation
 
-[Hanaregumi - ののちゃん (Nono-chan)](https://lyricstranslate.com/en/hanaregumi-no-no-chan-english)
+[STRUGARE - КУЧЕЯДЕКУЧЕ (KUCHEYADEKUCHE)](https://lyricstranslate.com/en/strugare-kucheyadekuche-english)
 
-Japanese → English
+Bulgarian → English
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![magicmulder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1264038-1558603824.jpg)](https://lyricstranslate.com/en/translator/magicmulder "magicmulder")
 
 New comment
 
-Thank you for your time and help 😊  [more](https://lyricstranslate.com/en/comment/1175486#comment-1175486)
+Die überspringen einige Strophen des Originals, ...  [more](https://lyricstranslate.com/en/comment/1175868#comment-1175868)
 
-[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
+[![bavohopman](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1314977-1565772005.jpg)](https://lyricstranslate.com/en/translator/bavohopman "bavohopman")
 
 New translation
 
-[NATARIE IN THE DREAM - 空に届く砂の山 (Sora ni Todoku Suna no Yama)](https://lyricstranslate.com/en/natarie-dream-sora-ni-todoku-suna-no-ya-english)
+[Fats Waller - Ain't Misbehavin'](https://lyricstranslate.com/en/fats-waller-aint-misbehavin-dutch)
 
-Japanese → English
+English → Dutch
+
+[![Tarkman2023](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/tarkman2023 "Tarkman2023")
+
+New song
+
+[Ara Kekedjian - Ձիւնը եկաւ](https://lyricstranslate.com/en/ara-kekedjian-tsooyne-yegav-lyrics)
+
+Armenian
+
+[![Hilal_](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1602145-1714329449.jpg)](https://lyricstranslate.com/en/translator/hilal-1 "Hilal_")
+
+New translation
+
+[Hugues Aufray - Loin elle m'attend](https://lyricstranslate.com/en/hugues-aufray-loin-elle-mattend-turkish)
+
+French → Turkish
+
+[![RoshanDel](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/roshandel "RoshanDel")
+
+New translation
+
+[Arman Garshasbi - از تو گفتم - نسخه پیانو (Az To Goftam - Piano Version)](https://lyricstranslate.com/en/arman-garshasbi-az-goftam-piano-vers-english)
+
+Persian → English
+
+[![GoddessYuemi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1529913-1725652459.png)](https://lyricstranslate.com/en/translator/goddessyuemi "GoddessYuemi")
+
+New song
+
+[Xiao Zhan - 都一样](https://lyricstranslate.com/en/xiao-zhan-dou-yi-yang-lyrics)
+
+Chinese
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
