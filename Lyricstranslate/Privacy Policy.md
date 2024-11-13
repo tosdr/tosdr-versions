@@ -107,59 +107,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![gakumiru](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616822-1717112280.jpg)](https://lyricstranslate.com/en/translator/gakumiru "gakumiru")
+[![Anna Saibel](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636936-1731476806.png)](https://lyricstranslate.com/en/translator/anna-saibel "Anna Saibel")
 
 New request
 
-[Exist † Trace - 海の雫 (Umi no shizuku)](https://lyricstranslate.com/en/request/%E6%B5%B7%E3%81%AE%E9%9B%AB)
+[Eden Ben Zaken - יאסו (Yaso)](https://lyricstranslate.com/en/request/%D7%99%D7%90%D7%A1%D7%95-0)
 
-Japanese → English
+Hebrew → Russian
 
-[![heskia1](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/heskia1 "heskia1")
-
-New comment
-
-You are most welcome. If you know Persian, the ...  [more](https://lyricstranslate.com/en/comment/1175490#comment-1175490)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175489#comment-1175489)
-
-[![Klaarzin](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1517013-1636035828.png)](https://lyricstranslate.com/en/translator/klaarzin "Klaarzin")
-
-New comment
-
-In diesem Gedicht lese ich einen scharfen Angriff ...  [more](https://lyricstranslate.com/en/comment/1175488#comment-1175488)
-
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
-
-New comment
-
-https://lyricstranslate.com/en/...  [more](https://lyricstranslate.com/en/comment/1175487#comment-1175487)
-
-[![yuugure](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1569857-1681871201.png)](https://lyricstranslate.com/en/translator/yuugure "yuugure")
+[![GoldenTree](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554633-1669659478.jpg)](https://lyricstranslate.com/en/translator/goldentree "GoldenTree")
 
 New translation
 
-[Hanaregumi - ののちゃん (Nono-chan)](https://lyricstranslate.com/en/hanaregumi-no-no-chan-english)
+[Josie Katz - אני סולחת (Ani solachat)](https://lyricstranslate.com/en/josie-katz-ani-solachat-english)
 
-Japanese → English
+Hebrew → English
 
-[![Sailor PokeMoon2](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1399679-1688215899.jpg)](https://lyricstranslate.com/en/translator/sailor-pokemoon2 "Sailor PokeMoon2")
+[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
 
-New comment
+New song
 
-Thank you for your time and help 😊  [more](https://lyricstranslate.com/en/comment/1175486#comment-1175486)
+[Dorian (Spain) - Universal](https://lyricstranslate.com/en/dorian-spain-universal-lyrics)
 
-[![ElectricRaichu](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1616488-1714205588.gif)](https://lyricstranslate.com/en/translator/electricraichu "ElectricRaichu")
+Catalan
 
-New translation
+[![Anja Post](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636934-1731475898.png)](https://lyricstranslate.com/en/translator/anja-post "Anja Post")
 
-[NATARIE IN THE DREAM - 空に届く砂の山 (Sora ni Todoku Suna no Yama)](https://lyricstranslate.com/en/natarie-dream-sora-ni-todoku-suna-no-ya-english)
+New request
 
-Japanese → English
+[Oscar Harris - Try a Little Love](https://lyricstranslate.com/en/request/try-little-love)
+
+English → Dutch
+
+[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
+
+New song
+
+[Dorian (Spain) - Dual](https://lyricstranslate.com/en/dorian-spain-dual-lyrics)
+
+Spanish
+
+[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
+
+New song
+
+[Dorian (Spain) - Techos de cristal](https://lyricstranslate.com/en/dorian-spain-techos-de-cristal-lyrics)
+
+Spanish
+
+[![Joe Váradi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1567095-1679779584.jpg)](https://lyricstranslate.com/en/translator/joe-v%C3%A1radi "Joe Váradi")
+
+New song
+
+[Endre Kukorelly - Elszánt legyek](https://lyricstranslate.com/en/endre-kukorelly-elszant-legyek-lyrics)
+
+Hungarian
+
+[![Ignoringtornadowarnings](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1585040-1689370520.jpg)](https://lyricstranslate.com/en/translator/ignoringtornadowarnings "Ignoringtornadowarnings")
+
+New request
+
+[MILLI - สาธุ (Saa-Tuu)](https://lyricstranslate.com/en/request/%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8)
+
+Thai → Russian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
