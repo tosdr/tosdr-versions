@@ -266,7 +266,3 @@ Mon. - Fri.
 [(401) 444-0600](tel:4014440600)
 
 [50 Valley Street, Providence RI 02909](https://goo.gl/maps/SB1Z16Z6RXx)
-
-Early Voting Begins October 16 - Questions? Call 211
-
-[VOTER INFORMATION](https://vote.sos.ri.gov/)
