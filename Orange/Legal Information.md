@@ -119,7 +119,6 @@
     
 * [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
-* [Magazine: Because trust comes first](https://www.orange.com/en/magazines/magazine-because-trust-comes-first)
 * [Magazines](https://www.orange.com/en/magazines)
 
 * Algolia Search bar
