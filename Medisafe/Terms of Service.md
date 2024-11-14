@@ -320,7 +320,7 @@ Boston, MA
 
 [(888) 289-5236](tel:8882895236) [\[email protected\]](https://www.medisafe.com/cdn-cgi/l/email-protection)
 
-© Medisafe. All Rights Reserved    [Privacy Policy](https://www.medisafe.com/privacy-policy) | [Terms and Conditions](https://www.medisafe.com/terms-and-conditions)
+© Medisafe. All Rights Reserved    [Privacy Policy](https://www.medisafe.com/privacy-policy) | [Terms and Conditions](https://www.medisafe.com/terms-and-conditions)  | [Consumer Health Data Policy](https://www.medisafe.com/consumer-health-data-privacy-policy/)
 
 * [Book A Demo](https://www.medisafe.com/contact-us/?src=drive)
 * [Solutions](https://www.medisafe.com/solutions/)
