@@ -1,23 +1,23 @@
-Wednesday, November 13 2024
+Thursday, November 14 2024
 
 Breaking News
 
+* [President Joe Biden’s Schedule for Wednesday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
+* [Fareed Zakaria’s Criticism Far Too Kind to the Biden-Harris Wrecking Machine](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
 * [America In The Age Of Stupidity: Dems Freakout And Ignore The Real Reason They Lost](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
 * [Nobody Will Be Taking A Knee On This Dream Team](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
 * [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
 * [President Joe Biden’s Schedule for Wednesday, November 13, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
 * [It’s Morning In America Again](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
 * [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
-* [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
-* [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/)
 
-* [Sidebar](#)
-* [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
-* [Sign In](#)
-* [Telegram](https://t.me/CDNMedia)
-* [Twitter](https://twitter.com/CDNPosts)
-* [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
+* [Facebook](https://www.facebook.com/ConservativeDailyNews/)
+* [X](https://twitter.com/CDNPosts)
+* [Telegram](https://t.me/CDNMedia)
+* [Sign In](#)
+* [Random Article](https://www.conservativedailynews.com/privacy-policy/?random-post=1 "Random Article")
+* [Sidebar](#)
 
 * [Menu](#)
 
@@ -102,7 +102,7 @@ Support Conservative Daily News with a small donation via [Paypal or credit card
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
-* [Twitter](https://twitter.com/CDNPosts)
+* [X](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
 Support CDN!
@@ -130,6 +130,24 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
+    
+    [President Joe Biden’s Schedule for Wednesday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
+    
+    November 14, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/)
+    
+    [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/)
+    
+    November 13, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Kamala-Harris.jpg)](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
+    
+    [Fareed Zakaria’s Criticism Far Too Kind to the Biden-Harris Wrecking Machine](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
+    
+    November 13, 2024
+    
 * [![Donald Trump department of government efficiency DOGE Elon Musk Vivek Ramaswamy](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-doge-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/cleaning-house-2/)
     
     [Cleaning House](https://www.conservativedailynews.com/2024/11/cleaning-house-2/)
@@ -160,27 +178,11 @@ Recent Posts
     
     November 13, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/10/the_thinker.jpg)](https://www.conservativedailynews.com/2024/11/a-nappy-solution-for-a-common-problem/)
-    
-    [A Nappy Solution for a Common Problem](https://www.conservativedailynews.com/2024/11/a-nappy-solution-for-a-common-problem/)
-    
-    November 13, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/04/elon-musk-6222396_640-220x150.jpg)](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
-    
-    [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
-    
-    November 13, 2024
-    
-* [![2024 Election Joe Biden Donald Trump](https://www.conservativedailynews.com/wp-content/uploads/2024/07/stg070824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
-    
-    [President Joe Biden’s Schedule for Wednesday, November 13, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
-    
-    November 13, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The Best 1911 Chambered in .45 ACP](https://www.thegunpage.com/the-best-1911-chambered-in-45-acp/10611860)
+* [POTD: Suppressed Tikka T3x In Spuhr SICS Chassis](https://www.thegunpage.com/potd-suppressed-tikka-t3x-in-spuhr-sics-chassis/10611861)
 * [GOA, GOF, TFA Sue City of Memphis for Violating Tennessee Preemption Law](https://www.thegunpage.com/goa-gof-tfa-sue-city-of-memphis-for-violating-tennessee-preemption-law/10611859)
 * [C&H Precision Slide Milling Service & Duty Optic Review](https://www.thegunpage.com/ch-precision-slide-milling-service-duty-optic-review/10611856)
 * [Nosler M21 Carbon Limited Edition Rifle](https://www.thegunpage.com/nosler-m21-carbon-limited-edition-rifle/10611854)
@@ -189,8 +191,6 @@ Recent Posts
 * [Trump’s To-Do List: How He Can Restore Justice in His First Days](https://www.thegunpage.com/trumps-to-do-list-how-he-can-restore-justice-in-his-first-days/10611850)
 * [Indian Astr Defence PHANTOM Optics-Ready Double-Stack .32 ACP Pistol](https://www.thegunpage.com/indian-astr-defence-phantom-optics-ready-double-stack-32-acp-pistol/10611845)
 * [Huffington Post Inadvertently Outlines Why Gun Owners Chose Trump](https://www.thegunpage.com/huffington-post-inadvertently-outlines-why-gun-owners-chose-trump/10611843)
-* [X2 Dev Group Releases Trident Barrels for Builders](https://www.thegunpage.com/x2-dev-group-releases-trident-barrels-for-builders/10611842)
-* [Washington State Gun Sales Have Been Shut Down For 12 Days And Counting](https://www.thegunpage.com/washington-state-gun-sales-have-been-shut-down-for-12-days-and-counting/10611840)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -198,7 +198,7 @@ Follow Us on Social Media
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
-* [Twitter](https://twitter.com/CDNPosts)
+* [X](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
 Links We Love
@@ -218,7 +218,7 @@ Contact Us
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
-* [Twitter](https://twitter.com/CDNPosts)
+* [X](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
 [Back to top button](#go-to-tie-body)
@@ -227,7 +227,7 @@ Contact Us
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
-* [Twitter](https://twitter.com/CDNPosts)
+* [X](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
 
 Recent Comments
