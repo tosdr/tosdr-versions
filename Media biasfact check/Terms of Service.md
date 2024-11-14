@@ -151,6 +151,26 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Scottish Daily Express – Bias and Credibility](https://mediabiasfactcheck.com/scottish-daily-express-bias/)
+    
+    November 14, 2024
+    
+* [Scoop – Bias and Credibility](https://mediabiasfactcheck.com/scoop-bias-and-credibility/)
+    
+    November 14, 2024
+    
+* [Annual Review of Organizational Psychology – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-organizational-psychology-bias/)
+    
+    November 14, 2024
+    
+* [WMUK – NPR – Kalamazoo – Bias and Credibility](https://mediabiasfactcheck.com/wmuk-npr-kalamazoo-bias/)
+    
+    November 14, 2024
+    
+* [Bay Post – Bias and Credibility](https://mediabiasfactcheck.com/bay-post-bias-and-credibility/)
+    
+    November 14, 2024
+    
 * [Environmental Evidence Journal – Bias and Credibility](https://mediabiasfactcheck.com/environmental-evidence-journal-bias/)
     
     November 13, 2024
@@ -163,48 +183,28 @@ No related posts.
     
     November 13, 2024
     
-* [Copper Country News – Bias and Credibility](https://mediabiasfactcheck.com/copper-country-news-bias/)
-    
-    November 13, 2024
-    
-* [St. Marys Evening Leader – Bias and Credibility](https://mediabiasfactcheck.com/st-marys-evening-leader-bias/)
-    
-    November 13, 2024
-    
-* [SarahWestall.com – Bias and Credibility](https://mediabiasfactcheck.com/sarahwestall-com-bias-and-credibility/)
-    
-    November 12, 2024
-    
-* [RTV Slovenija – Bias and Credibility](https://mediabiasfactcheck.com/rtv-slovenija-bias-and-credibility/)
-    
-    November 12, 2024
-    
-* [Students For Liberty (SFL) – Bias and Credibility](https://mediabiasfactcheck.com/students-for-liberty-sfl-bias-and-credibility/)
-    
-    November 12, 2024
-    
 
 #### Recently Updated Pages
 
-* [Infowars-Alex Jones – Bias and Credibility](https://mediabiasfactcheck.com/infowars-alex-jones/ "View Infowars-Alex Jones – Bias and Credibility") - November 14, 2024
+* [WalesOnline – Bias and Credibility](https://mediabiasfactcheck.com/walesonline/ "View WalesOnline – Bias and Credibility") - November 14, 2024
     
-* [BlackPressUSA – Bias and Credibility](https://mediabiasfactcheck.com/black-press-usa-bias/ "View BlackPressUSA – Bias and Credibility") - November 13, 2024
+* [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/ "View The Mirror U.S. – Bias and Credibility") - November 14, 2024
     
-* [BlackNews.com – Bias and Credibility](https://mediabiasfactcheck.com/blacknews-com/ "View BlackNews.com – Bias and Credibility") - November 13, 2024
+* [Manchester Evening News – Bias and Credibility](https://mediabiasfactcheck.com/manchester-evening-news-bias/ "View Manchester Evening News – Bias and Credibility") - November 14, 2024
     
-* [Black Main Street – Bias and Credibility](https://mediabiasfactcheck.com/black-main-street/ "View Black Main Street – Bias and Credibility") - November 13, 2024
+* [Leicester Mercury – Bias and Credibility](https://mediabiasfactcheck.com/leicester-mercury/ "View Leicester Mercury – Bias and Credibility") - November 14, 2024
     
-* [Black America Web – Bias and Credibility](https://mediabiasfactcheck.com/black-america-web/ "View Black America Web – Bias and Credibility") - November 13, 2024
+* [Irish Daily Mirror – Bias and Credibility](https://mediabiasfactcheck.com/irish-daily-mirror-bias/ "View Irish Daily Mirror – Bias and Credibility") - November 14, 2024
     
-* [BitChute – Bias and Credibility](https://mediabiasfactcheck.com/bitchute/ "View BitChute – Bias and Credibility") - November 13, 2024
+* [Insider.co.uk – Bias and Credibility](https://mediabiasfactcheck.com/insider-co-uk-bias/ "View Insider.co.uk – Bias and Credibility") - November 14, 2024
     
-* [The Birmingham News – Bias and Credibility](https://mediabiasfactcheck.com/the-birmingham-news-bias/ "View The Birmingham News – Bias and Credibility") - November 13, 2024
+* [Daily Star UK – Bias and Credibility](https://mediabiasfactcheck.com/daily-star-uk/ "View Daily Star UK – Bias and Credibility") - November 14, 2024
     
-* [Biotech Express Magazine – Bias and Credibility](https://mediabiasfactcheck.com/biotech-express-magazine-bias/ "View Biotech Express Magazine – Bias and Credibility") - November 13, 2024
+* [Daily Record (Scotland) – Bias and Credibility](https://mediabiasfactcheck.com/daily-record-scotland/ "View Daily Record (Scotland) – Bias and Credibility") - November 14, 2024
     
-* [BioSpace – Bias and Credibility](https://mediabiasfactcheck.com/biospace/ "View BioSpace – Bias and Credibility") - November 13, 2024
+* [Daily Mirror – Bias and Credibility](https://mediabiasfactcheck.com/daily-mirror/ "View Daily Mirror – Bias and Credibility") - November 14, 2024
     
-* [Biography (A&E) – Bias and Credibility](https://mediabiasfactcheck.com/biography-ae-bias/ "View Biography (A&E) – Bias and Credibility") - November 13, 2024
+* [Daily Express – Bias and Credibility](https://mediabiasfactcheck.com/daily-express/ "View Daily Express – Bias and Credibility") - November 14, 2024
     
 
 #### Today’s Top Page Views
@@ -212,13 +212,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 
 #### Subscribe via Email
 
