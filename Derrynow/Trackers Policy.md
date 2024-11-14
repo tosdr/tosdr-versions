@@ -266,24 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast")](https://www.derrynow.com/news/weather/1654867/snow-tracker-county-by-county-snow-map-as-ireland-braces-for-met-eireann-cold-blast.html)
-
-SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast
-
-[Weather](https://www.derrynow.com/section/997/cookie-policy)
-
-[SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast](https://www.derrynow.com/news/weather/1654867/snow-tracker-county-by-county-snow-map-as-ireland-braces-for-met-eireann-cold-blast.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge")](https://www.derrynow.com/news/weather/1654762/met-eireann-in-snow-forecast-for-ireland-amid-arctic-cold-snap-as-temps-plunge.html)
-
-Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge
-
-[Weather](https://www.derrynow.com/section/997/cookie-policy)
-
-[Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge](https://www.derrynow.com/news/weather/1654762/met-eireann-in-snow-forecast-for-ireland-amid-arctic-cold-snap-as-temps-plunge.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspected gas leak in Creggan area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
 
 Suspected gas leak Creggan area of Derry.
@@ -293,22 +275,6 @@ Suspected gas leak Creggan area of Derry.
 [Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Leading Derry dissident republican charged with breaches of counter-terrorism legislation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading Derry dissident republican charged with breaches of counter-terrorism legislation")](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Leading Derry dissident republican charged with breaches of counter-terrorism legislation](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with attempting to commit grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attempting to commit grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -316,23 +282,48 @@ Derry Magistrate's Court
 [Derry Death Notices - Thursday, November 14, 2024](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bohemians confirm signing of Derry City striker Colm Whelan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+[![Probation for man charged with possessing over 300 indecent images](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Probation for man charged with possessing over 300 indecent images")](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
 
-Colm Whelan puts pen to paper on a multi-year deal with Bohemians
+Derry courthouse
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Probation for man charged with possessing over 300 indecent images](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![SVP appeals for donations as record numbers of families are seeking help](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SVP appeals for donations as record numbers of families are seeking help")](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
+[![Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed")](https://www.derrynow.com/news/arts---entertainment/1655811/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
 
-Pictured at the launch of the appeal were Doireann Garrihy, Marty Whelan and Mary Kennedy with SVP National President Rose McGowan.Photo Chris Bellew / Fennell Photography
+[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](https://www.derrynow.com/news/arts---entertainment/1655811/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[SVP appeals for donations as record numbers of families are seeking help](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Case against Limavady man charged with attempted murder of his partner to be reviewed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Case against Limavady man charged with attempted murder of his partner to be reviewed")](https://www.derrynow.com/news/local-news/1655796/case-against-limavady-man-charged-with-attempted-murder-of-his-partner-to-be-reviewed.html)
+
+Derry court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Case against Limavady man charged with attempted murder of his partner to be reviewed](https://www.derrynow.com/news/local-news/1655796/case-against-limavady-man-charged-with-attempted-murder-of-his-partner-to-be-reviewed.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Altered sign on the border (credit: lasairdhearg on Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Altered sign on the border (credit: lasairdhearg on Instagram)")](https://www.derrynow.com/news/derry-news/1655512/road-sign-on-derry-and-donegal-border-altered-to-read-occupied-ireland.html)
+
+Altered sign on the border (credit: lasairdhearg on Instagram)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Road sign on Derry and Donegal border altered to read ‘Occupied Ireland’](https://www.derrynow.com/news/derry-news/1655512/road-sign-on-derry-and-donegal-border-altered-to-read-occupied-ireland.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told")](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested in connection with drug-related offences charged to Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with drug-related offences charged to Derry court")](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
 
@@ -343,11 +334,36 @@ PSNI
 [Man arrested in connection with drug-related offences charged to Derry court](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Bohemians confirm signing of Derry City striker Colm Whelan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+
+Colm Whelan puts pen to paper on a multi-year deal with Bohemians
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event")](https://www.derrynow.com/story-telling/pictures---videos/1655932/in-pictures-students-in-derry-wowed-by-environmentally-themed-water-warriors-event.html)
+
+IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event](https://www.derrynow.com/story-telling/pictures---videos/1655932/in-pictures-students-in-derry-wowed-by-environmentally-themed-water-warriors-event.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Doire Trasna celebrates memorable year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Doire Trasna celebrates memorable year")](https://www.derrynow.com/story-telling/pictures---videos/1655693/in-pictures-doire-trasna-celebrates-memorable-year.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Doire Trasna celebrates memorable year](https://www.derrynow.com/story-telling/pictures---videos/1655693/in-pictures-doire-trasna-celebrates-memorable-year.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
 
@@ -408,20 +424,6 @@ IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
 
 [IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final")](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Fans come out in numbers as Derry City FC depart for FAI Cup Final](https://www.derrynow.com/story-telling/pictures---videos/1651803/in-pictures-fans-come-out-in-numbers-as-derry-city-fc-depart-for-fai-cup-final.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls")](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,59 +525,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Racist stickers erected in Bogside area of Derry condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Racist stickers erected in Bogside area of Derry condemned")](https://www.derrynow.com/news/local-news/1655793/racist-stickers-erected-in-bogside-area-of-derry-condemned.html)
+[![NI Water empowers Derry students with real-world industry experience](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Water empowers Derry students with real-world industry experience")](https://www.derrynow.com/news/home/1656074/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
 
-One of the stickers stuck on a lamp post in Jon Clifford/Bull Play Park
+Ava Norris Thornhill College, Rebecca Allen, Catchment Officer at NI Water from Limavady and Aoife Doherty Thornhill College.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Racist stickers erected in Bogside area of Derry condemned](https://www.derrynow.com/news/local-news/1655793/racist-stickers-erected-in-bogside-area-of-derry-condemned.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[NI Water empowers Derry students with real-world industry experience](https://www.derrynow.com/news/home/1656074/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fundraising quiz for Gaza to be held in Derry pub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraising quiz for Gaza to be held in Derry pub")](https://www.derrynow.com/news/local-news/1655601/fundraising-quiz-for-gaza-to-be-held-in-derry-pub.html)
+[![Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC")](https://www.derrynow.com/news/home/1656028/centenary-of-limavady-district-war-memorial-boards-exhibition-opens-in-rvacc.html)
 
-The quiz will be held this Saturday at 8pm in the Rocking Chair bar
+Joanne Honeyford, Community Engagement Officer, with WW1 historian Alistair Harper and members of Binevenagh Historical Society, Hester McCunn, Robert Peacocke, Val Morgan and Robert Guthrie.
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Home](https://www.derrynow.com/)
 
-[Fundraising quiz for Gaza to be held in Derry pub](https://www.derrynow.com/news/local-news/1655601/fundraising-quiz-for-gaza-to-be-held-in-derry-pub.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told")](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Paul O'Connor, PFC, with Paddy Hillyard, author of Decades of Deceit, and Bill Roulston.](https://www.derrynow.com/resizer/165/93/true/2024_11_14/Decades_of_Deceit_book_launch__2-1731587842449.jpg--.jpg?1731587843000 "Paul O'Connor, PFC, with Paddy Hillyard, author of Decades of Deceit, and Bill Roulston.")](https://www.derrynow.com/news/local-news/1655774/decades-of-deceit-the-stalker-affair-and-its-legacy-launched-in-derry.html)
-
-Paul O'Connor, PFC, with Paddy Hillyard, author of Decades of Deceit, and Bill Roulston.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[‘Decades of Deceit: The Stalker Affair and its Legacy’ launched in Derry](https://www.derrynow.com/news/local-news/1655774/decades-of-deceit-the-stalker-affair-and-its-legacy-launched-in-derry.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![27-year-old man charged with a series of drug offences remanded in custody](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "27-year-old man charged with a series of drug offences remanded in custody")](https://www.derrynow.com/news/local-news/1655590/27-year-old-man-charged-with-a-series-of-drug-offences-remanded-in-custody.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[27-year-old man charged with a series of drug offences remanded in custody](https://www.derrynow.com/news/local-news/1655590/27-year-old-man-charged-with-a-series-of-drug-offences-remanded-in-custody.html)
+[Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC](https://www.derrynow.com/news/home/1656028/centenary-of-limavady-district-war-memorial-boards-exhibition-opens-in-rvacc.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Probation for man charged with possessing over 300 indecent images](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Probation for man charged with possessing over 300 indecent images")](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
+[![Santa’s Grotto Returns to The Richmond Centre!](https://www.derrynow.com/resizer/165/93/true/2024_11_10/TRC_SANTA_Announcement-1731266081941_1731597997.png--.png?1731597997189 "Santa’s Grotto Returns to The Richmond Centre!")](https://www.derrynow.com/news/local-news/1655971/santas-grotto-returns-to-the-richmond-centre-this-saturday.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Santa’s Grotto returns to The Richmond Centre this Saturday!](https://www.derrynow.com/news/local-news/1655971/santas-grotto-returns-to-the-richmond-centre-this-saturday.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NWRC tiling trainee to compete in SkillBuild National Finals in Milton Keynes](https://www.derrynow.com/resizer/165/93/true/2024_11_14/MixCollage-14-Nov-2024-11-22-AM-4668-1731583348534.jpg--.jpg?1731583348581 "NWRC tiling trainee to compete in SkillBuild National Finals in Milton Keynes")](https://www.derrynow.com/news/local-news/1655689/nwrc-tiling-trainee-to-compete-in-skillbuild-national-finals-in-milton-keynes.html)
+
+Rebecca Gavigan is presented with a NWRC hoodie by Senior Marketing and PR Officer Erin Hutcheon.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NWRC tiling trainee to compete in SkillBuild National Finals in Milton Keynes](https://www.derrynow.com/news/local-news/1655689/nwrc-tiling-trainee-to-compete-in-skillbuild-national-finals-in-milton-keynes.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Stormont department will not be prosecuted over Noah Donohoe death, court told](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_14/1731593105368_0_1731604688.jpg--.jpg?1731604688570 "Stormont department will not be prosecuted over Noah Donohoe death, court told")](https://www.derrynow.com/news/local-news/1656115/stormont-department-will-not-be-prosecuted-over-noah-donohoe-death-court-told.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Stormont department will not be prosecuted over Noah Donohoe death, court told](https://www.derrynow.com/news/local-news/1656115/stormont-department-will-not-be-prosecuted-over-noah-donohoe-death-court-told.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told")](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
 
 Derry courthouse
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Probation for man charged with possessing over 300 indecent images](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
