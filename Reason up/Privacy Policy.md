@@ -11,9 +11,9 @@
 
 Start Free Trial
 
-![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2721%27%20height=%2721%27/%3e)![checked](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2722%27%20height=%2721%27/%3e)![checked](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
 
-![checked](/_next/static/media/checked-buttom.f643f86e.svg)
+![checked](/_next/static/media/check.e3cd6773.svg)
 
 **30-day money-back guarantee**
 
