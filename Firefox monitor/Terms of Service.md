@@ -145,6 +145,10 @@ Please download Firefox ESR (Extended Support Release) to use Firefox.
         
         Learn about Mozilla and the issues that matter to us.](https://blog.mozilla.org/?utm_source=www.mozilla.org&utm_medium=referral&utm_campaign=nav&utm_content=who-we-are)
         
+    * [#### Impact
+        
+        Find out how we’re making the internet more inclusive and sustainable](https://www.mozilla.org/en-US/impact/)
+        
     
     [More About Mozilla](https://www.mozilla.org/en-US/about/)
     
