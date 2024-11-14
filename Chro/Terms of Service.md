@@ -34,7 +34,7 @@ In the event of postponement of actual physical onsite event due to Government a
 
 Registered attendees are not able to cancel their tickets once they have been purchased.
 
-In the event that you are unable to attend the conference, you may transfer your ticket to a HR colleague by notifying HRM Asia of your colleague’s particulars via edward@hrmasia.com.sg at least 1 business day before the conference.
+In the event that you are unable to attend the conference, you may transfer your ticket to a HR colleague by notifying HRM Asia of your colleague’s particulars via [\[email protected\]](https://chroseries.com/cdn-cgi/l/email-protection) at least 1 business day before the conference.
 
 Promo code is not valid for CHRO Series and ESG Masterclass bundle tickets.
 
