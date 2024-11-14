@@ -73,6 +73,11 @@
     
     [See All](https://www.coolthings.com/style/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/casio-ca53wb-calculator-watch-casio-mini-details-retro-vintage/)
+    
+    [Casio CA53WB Brings Back the 80s Calculator Watch with 70s-Style Detailing](https://www.coolthings.com/casio-ca53wb-calculator-watch-casio-mini-details-retro-vintage/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-best-gardening-shoes-for-planting-weeding-and-more/)
     
     [The Best Gardening Shoes for Planting, Weeding and More](https://www.coolthings.com/the-best-gardening-shoes-for-planting-weeding-and-more/)
@@ -82,11 +87,6 @@
     
     [Furby x Cakeworthy Puts the Weird-Looking, Babbling Creature in a Line of Apparel and Accessories](https://www.coolthings.com/furby-x-cakeworthy-collection-apparel-accessories-furbyland/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/the-james-brand-timex-ironman-classic-sports-watch-bright-colors/)
-    
-    [The James Brand Timex Ironman Dresses Up The Classic Sports Watch In Bright Colors](https://www.coolthings.com/the-james-brand-timex-ironman-classic-sports-watch-bright-colors/)
-    ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [HOUSE](https://www.coolthings.com/house/)
     
