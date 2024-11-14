@@ -76,7 +76,7 @@ article1 day ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-
 
 ### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article2 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article3 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -247,13 +247,13 @@ Back
 
 ### Peculiar Pale Pebbles
 
-article 1 day ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
 4 min read
 
 ### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article 2 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
+article 3 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
 
 2 min read
 
@@ -269,7 +269,7 @@ article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-g
 
 ### Wearable Tech for Space Station Research
 
-article 11 hours ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
+article 15 hours ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
 
 2 min read
 
@@ -291,39 +291,41 @@ article 6 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 10 hours ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+article 14 hours ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
 ### NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite
 
-article 1 day ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
+article 2 days ago](https://science.nasa.gov/science-research/science-enabling-technology/technology-highlights/nasa-developed-technology-supports-ocean-wind-speed-measurements-from-commercial-satellite/)[![Mount Redoubt in southern Alaska in April 2009](https://www.nasa.gov/wp-content/uploads/2024/11/1-redoubt-eruption-usgs.jpg?w=1024)
 
 6 min read
 
 ### Powerful New US-Indian Satellite Will Track Earth’s Changing Surface
 
-article 5 days ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)
+article 6 days ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-satellite-will-track-earths-changing-surface/)
 
 ### Highlights
 
-[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
+
+2 min read
+
+### Moonquakes
+
+article 5 hours ago](https://science.nasa.gov/moon/moonquakes/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
 
 1 min read
 
 ### Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)[![](https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/Neil%20Zeller_Tripod%20Aurora.jpg)
-
-1 min read
-
-article 9 hours ago](https://science.nasa.gov/feature/nasas-guide-to-finding-and-photographing-auroras/)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)
 
 ### Featured
 
@@ -333,7 +335,7 @@ article 9 hours ago](https://science.nasa.gov/feature/nasas-guide-to-finding-and
 
 ### NASA’s Swift Studies Gas-Churning Monster Black Holes
 
-article 11 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
+article 15 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
 
 2 min read
 
@@ -355,19 +357,19 @@ article 1 week ago](https://science.nasa.gov/get-involved/citizen-science/nasas-
 
 ### OSDR at ASGSR 2024
 
-article 7 hours ago](https://www.nasa.gov/osdr-at-asgsr-2024/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+article 11 hours ago](https://www.nasa.gov/osdr-at-asgsr-2024/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
 
 1 min read
 
 ### Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)
 
 ### Highlights
 
@@ -377,13 +379,13 @@ article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-20
 
 ### NEAT
 
-article 3 hours ago](https://www.nasa.gov/neat/)[![Image of a paper airplane floating over a shadow of an airplane on a green background](https://www.nasa.gov/wp-content/uploads/2024/11/eap-testing-publications-2.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/neat/)[![Image of a paper airplane floating over a shadow of an airplane on a green background](https://www.nasa.gov/wp-content/uploads/2024/11/eap-testing-publications-2.jpg?w=1024)
 
 1 min read
 
 ### NEAT Publications
 
-article 4 hours ago](https://www.nasa.gov/neat-publications/)[![An artist’s concept that depicts a large, broad, white airliner with five propellers on each wing and twin tails with three air intakes between them. The concept aircraft is shown flying above the clouds in a blue sky.](https://www.nasa.gov/wp-content/uploads/2024/11/electra-nasa-aaces-concept-image.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/neat-publications/)[![An artist’s concept that depicts a large, broad, white airliner with five propellers on each wing and twin tails with three air intakes between them. The concept aircraft is shown flying above the clouds in a blue sky.](https://www.nasa.gov/wp-content/uploads/2024/11/electra-nasa-aaces-concept-image.jpg?w=1024)
 
 5 min read
 
@@ -399,13 +401,13 @@ article 1 day ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
 
 1 min read
 
 ### Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
+article 12 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
 
 1 min read
 
@@ -421,19 +423,19 @@ article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 5 days ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
+article 6 days ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
 
 5 min read
 
 ### Student-Built Capsules Endure Heat of Re-entry for NASA Science
 
-article 6 days ago](https://www.nasa.gov/learning-resources/student-built-capsules/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 7 days ago](https://www.nasa.gov/learning-resources/student-built-capsules/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 2 min read
 
 ### Power to Explore STEM Writing Challenge
 
-article 6 days ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
+article 7 days ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
 
 ### Featured
 
@@ -449,7 +451,7 @@ article 6 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### 40 Years Ago: STS-51A – “The Ace Repo Company”
 
-article 5 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
+article 6 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
 
 ### Highlights
 
