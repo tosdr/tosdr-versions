@@ -208,7 +208,21 @@ Save
 
 [Comment speech bubble icon](#comment)
 
-Share icon
+Share article
+-------------
+
+* Copy link
+    
+* [X Icon
+    
+    twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F&text=Terms+and+Conditions)
+* [Facebook Icon
+    
+    facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* [WhatsApp Icon
+    
+    whatsapp](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* [email](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
 
 31 August 2023 11:29am BST
 
@@ -216,10 +230,18 @@ Save
 
 [Comment speech bubble icon](#comment)
 
-* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F&text=Terms+and+Conditions)
-* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
-* [](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* Copy link
+    
+* [X Icon
+    
+    twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F&text=Terms+and+Conditions)
+* [Facebook Icon
+    
+    facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* [WhatsApp Icon
+    
+    whatsapp](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
+* [email](mailto:?to=&subject=Terms+and+Conditions&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fterms-and-conditions%2F)
 
 If you are visiting our Service from the United Kingdom, European Union, or other non-U.S. location, please review our [General Terms and Conditions](#ukterms). If you are visiting our Service from the United States, please review our [U.S. Terms and Conditions](#usterms).
 
