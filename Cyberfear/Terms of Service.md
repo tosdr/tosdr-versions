@@ -3,7 +3,7 @@ MENU [![](img/logo.svg)](https://cyberfear.com/)
 * [About](#)
 * [Pricing](https://cyberfear.com/pricing.html)
 * [Login](https://cyberfear.com/index.html#login)
-* [Sign Up](https://cyberfear.com/index.html#createUser)
+* [Sign Up](https://mailum.com/mailbox/#signup)
 * X
 
 **Terms and Conditions for CyberFear**
