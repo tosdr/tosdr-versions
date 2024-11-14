@@ -1,8 +1,6 @@
 [WHY FILESTACK?](https://www.filestack.com/file-uploader-diy/) [BLOG](https://blog.filestack.com/) [SUPPORT](mailto:support@filestack.com)
 
-[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![](https://www.filestack.com/wp-content/uploads/2023/01/fs-logo.svg)](https://www.filestack.com/)
+[![](https://www.filestack.com/wp-content/uploads/2023/01/fs-logo.svg)](https://www.filestack.com/)
 
 * [PRODUCTS](https://www.filestack.com/products/file-upload/)
     * [Uploads](https://www.filestack.com/products/file-upload/)
@@ -24,7 +22,7 @@
 
 [](#)
 
-[Sign Up Free](https://www.filestack.com/signup/)
+[Sign Up Free](https://www.filestack.com/signup-free/)
 
 [Log In](https://dev.filestack.com/login/)
 
@@ -246,7 +244,7 @@ Join the 100,000+ Applications Using Filestack
 
 Getting started is fast, free, and easy. [Improve your file upload performance today](https://www.filestack.com/performance/). Sign up now for free or click the ‘talk to us’ button. We are always here to help.
 
-[Sign Up Free](https://www.filestack.com/signup/)
+[Sign Up Free](https://www.filestack.com/signup-free/)
 
 [Plans & Pricing](https://www.filestack.com/pricing)
 
