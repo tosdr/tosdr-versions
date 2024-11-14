@@ -324,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a Muggle spotted Hogwarts, they would just see an old ruin with a sign that says “Keep out, dangerous building.”
+While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
 
 ### Potter History
 
-July 15, 2009 – Harry Potter and the Half-Blood Prince is released in theaters.
+July 10, 2007 – MuggleNet releases video coverage of the Harry Potter and the Order of the Phoenix US premiere, featuring interviews with some of the cast.
 
 ### Potter Quote
 
-“Dear Mr. Potter, We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. Term begins on September 1. We await your owl by no later than July 31.”
+“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
 
 [](#)
 
