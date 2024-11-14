@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Super Size Me](/wp-content/thumbnails/354-100x70.png?x53432)
+* [![Life After Life](/wp-content/thumbnails/3630-100x70.jpg?x53432)
     
-    Super Size Me
+    Life After Life
     
-    Super Size Me is an Academy Award-nominated 2004 documentary film, directed by and starring Morgan Spurlock, an American independent filmmaker. It follows a 30-day time period (February 2003) during w](https://documentaryheaven.com/super-size-me/ "Super Size Me")
-* [![A Good Job: Stories of the FDNY](/wp-content/thumbnails/9942-100x70.jpg?x53432)
+    In Life After Life Raymond Moody investigates case studies of people who experienced “clinical death” and were subsequently revived.This classic exploration of life after death started a revolutio](https://documentaryheaven.com/life-after-life/ "Life After Life")
+* [![The Death of Yugoslavia](/wp-content/thumbnails/6329-100x70.jpg?x53432)
     
-    A Good Job: Stories of the FDNY
+    The Death of Yugoslavia
     
-    In this amazing HBO special we see the critically acclaimed actor and FDNY veteran Steve Buscemi explore one of the worlds most demanding fire departments. Along side other such veterans, Buscemi expl](https://documentaryheaven.com/good-job-stories-of-fdny/ "A Good Job: Stories of the FDNY")
-* [![I Know I’m Not Alone](/wp-content/thumbnails/2436-100x70.jpg?x53432)
+    The Death of Yugoslavia (Serbian, Montenegrin,Bosnian, Croatian and Slovenian: Smrt Jugoslavije, Macedonian: Смртта на Југославија, Smrtta na Jugoslavija) is a BBC documentary series first broadcast i](https://documentaryheaven.com/the-death-of-yugoslavia/ "The Death of Yugoslavia")
+* [![Dispatches: Britain’s Bad Housing](/wp-content/thumbnails/618-100x70.png?x53432)
     
-    I Know I’m Not Alone
+    Dispatches: Britain’s Bad Housing
     
-    This film came out of the director’s frustration with watching the nightly news and hearing generals, politicians and pundits, explaining the political and economic cost of the war in the Middle East,](https://documentaryheaven.com/i-know-i%e2%80%99m-not-alone/ "I Know I’m Not Alone")
-* [![Radioman](/wp-content/thumbnails/16195-100x70.png?x53432)
+    What is the real reason behind Britain’s housing shortage. Is it really because of a true shortage of new houses or is there another reason. Well, like most things today, it’s really caused by powerfu](https://documentaryheaven.com/britains-bad-housing/ "Dispatches: Britain’s Bad Housing")
+* [![The Genius of Mozart](/wp-content/thumbnails/1773-100x70.jpg?x53432)
     
-    Radioman
+    The Genius of Mozart
     
-    Radioman is a New York film set mascot, a gentle vagrant whose real name is Craig Castaldo. He has become a staple of the NY film industry, having over 100 small roles to his name. Some of these film](https://documentaryheaven.com/radioman/ "Radioman")
-* [![The Pharmacratic Inquisition](/wp-content/thumbnails/2273-100x70.jpg?x53432)
+    The story begins with the composer's father Leopold with whom Mozart conducted a passionate and tortured correspondence. It is Leopold who knows Mozart's secrets. And there is another voice: that of t](https://documentaryheaven.com/genius-of-mozart/ "The Genius of Mozart")
+* [![A Haunting: Gateway to Hell](/wp-content/thumbnails/1682-100x70.jpg?x53432)
     
-    The Pharmacratic Inquisition
+    A Haunting: Gateway to Hell
     
-    Thousands of years ago, in the pre monarchic era, sacred plants and other entheogenic substances where politically correct and highly respected for their ability to bring forth the divine, Yahweh, God](https://documentaryheaven.com/the-pharmacratic-inquisition/ "The Pharmacratic Inquisition")
+    Bobby Mackey owns a country music nightclub in the small town of Wilder, Kentucky. The building was once home to a slaughterhouse. The Licking River, which runs next door, is said to have attracted Sa](https://documentaryheaven.com/a-haunting-gateway-to-hell/ "A Haunting: Gateway to Hell")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
