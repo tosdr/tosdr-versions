@@ -36,18 +36,18 @@
         
         New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
     
+    * [![Hacker gets 10 years in prison for extorting US healthcare provider](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Hacker gets 10 years in prison for extorting US healthcare provider](https://www.bleepingcomputer.com/news/legal/hacker-gets-10-years-in-prison-for-extorting-us-healthcare-provider/)
+    * [![ChatGPT allows access to underlying sandbox OS, “playbook” data](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        ChatGPT allows access to underlying sandbox OS, “playbook” data](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-allows-access-to-underlying-sandbox-os-playbook-data/)
+    * [![The true (and surprising) cost of forgotten passwords](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        The true (and surprising) cost of forgotten passwords](https://www.bleepingcomputer.com/news/security/the-true-and-surprising-cost-of-forgotten-passwords/)
     * [![This open-box 2024 Lenovo IdeaPad 5i is only $579.99 (for now)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This open-box 2024 Lenovo IdeaPad 5i is only $579.99 (for now)](https://www.bleepingcomputer.com/offer/deals/this-open-box-2024-lenovo-ideapad-5i-is-only-57999-for-now/)
-    * [![Hackers use macOS extended file attributes to hide malicious code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
-    * [![US govt officials’ communications compromised in recent telecom hack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US govt officials’ communications compromised in recent telecom hack](https://www.bleepingcomputer.com/news/security/chinese-hackers-compromised-us-government-officials-private-communications-in-recent-telecom-breach/)
-    * [![Leaked info of 122 million linked to B2B data aggregator breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Leaked info of 122 million linked to B2B data aggregator breach](https://www.bleepingcomputer.com/news/security/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
