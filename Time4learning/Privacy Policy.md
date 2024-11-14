@@ -484,7 +484,6 @@ A [Cambium Learning](https://www.cambiumlearning.com/)® Group Brand [![Cambium 
 
 TOP
 
-* [FAQs](https://www.time4learning.com/support/faq/ "FAQs")
 * [How it Works](https://www.time4learning.com/homeschool-curriculum/how-it-works/ "How it Works")
 * [Curriculum](# "Curriculum")
     * [Preschool](https://www.time4learning.com/homeschool-curriculum/preschool/ "Preschool")
