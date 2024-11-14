@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Donations to Ballot Measure Committees, by Industry, 2016](/assets/Images/teasers/small/Ballot-measures-by-industry.JPG)](https://www.followthemoney.org/research/institute-reports/2016-ballot-measures-overview)
+[![Independent Spending by Type of Office Targeted, 2009–2016](/assets/Images/teasers/small/IS.JPG)](https://www.followthemoney.org/research/institute-reports/independent-spending-overview-2015-and-2016)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
