@@ -1,4 +1,4 @@
-[![DeepL](http://assets.linguee.com/static/3d810d97/img5/deepl-logo-text-blue.svg)](https://www.deepl.com/translator?utm_source=lingueecom&utm_medium=linguee&utm_content=header_logo) [Translator](https://www.deepl.com/translator?utm_source=lingueecom&utm_medium=linguee&utm_content=header_translator) [Write](https://www.deepl.com/write?utm_source=lingueecom&utm_medium=linguee&utm_content=header_write) [Dictionary](https://www.linguee.com/)
+[![DeepL](http://assets.linguee.com/static/a647fcaf/img5/deepl-logo-text-blue.svg)](https://www.deepl.com/translator?utm_source=lingueecom&utm_medium=linguee&utm_content=header_logo) [Translator](https://www.deepl.com/translator?utm_source=lingueecom&utm_medium=linguee&utm_content=header_translator) [Write](https://www.deepl.com/write?utm_source=lingueecom&utm_medium=linguee&utm_content=header_write) [Dictionary](https://www.linguee.com/)
 
 EN
 
@@ -132,7 +132,7 @@ You also have the right to lodge a complaint with a supervisory authority regard
 We reserve the right to change this privacy policy. The current version of the privacy policy can be accessed on our [website](http://www.linguee.de/page/privacy.php) at any time.  
   
 
-Last updated: September 2020
+Last updated: November 2024
 
    
 
