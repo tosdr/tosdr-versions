@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/5-minute-exercise-day-lower-blood-pressure-1440x810.jpg)
+
+Just 5 Minutes of Exercise a Day May Lower Your Blood Pressure](https://www.everydayhealth.com/heart-health/five-minutes-of-exercise-a-day-may-lower-blood-pressure/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/sleep-promotes-healing-after-heart-attack-1440x810.jpg)
 
 Why Good Sleep Is Critical After a Heart Attack](https://www.everydayhealth.com/heart-health/why-good-sleep-is-critical-after-a-heart-attack/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/colonoscopy-more-reliable-than-new-blood-tests-1440x810.jpg)
-
-New Colorectal Cancer Blood Tests Not as Effective as Colonoscopy](https://www.everydayhealth.com/medical-procedures/new-colorectal-cancer-blood-tests-not-as-effective-as-colonoscopy/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
 
