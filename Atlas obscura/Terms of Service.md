@@ -14,110 +14,17 @@ Force Open Search
 
 Open main menu
 
-![](https://assets.atlasobscura.com/assets/hermes/aoa_logo_aon-fb53a8d4415047286c25915bdbbdf3721acc39fd90bd71bf7712345c0096a45b.svg)
-
-Take your next trip with Atlas Obscura!
----------------------------------------
-
-Our small-group adventures are inspired by our Atlas of the world's most fascinating places, the stories behind them, and the people who bring them to life.
-
-[Visit Adventures](https://www.atlasobscura.com/adventures/)
-
-Trips Highlight
-
-   [![Oaxaca Mexico tamales](https://img.atlasobscura.com/BaDERNykwdpWGsX04_iG0FTckM-RiYp8I4MeL2Z-xW0/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy8zNzM2/MmEwZC04NTcyLTRk/NzEtOTA0YS1jZDVl/YjgyYmI5YWY1MDE5/MjZkZDQ5ZTVhOGVi/ZDBfT2F4YWNhIE1l/eGljbyB0YW1hbGVz/IC0gQWRvYmVTdG9j/a180Nzk1MzAwODgu/anBlZw.jpg)](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-Mexico • 7 days, 6 nights
-
-[Flavors of Oaxaca: Markets, Mezcal & Home-Cooked Meals](https://www.atlasobscura.com/adventures/trips/oaxaca-gastro)
-
-from
-
-   [![Iceland - Northern Lights Aurora Borealis](https://img.atlasobscura.com/IyfPPV5wjzkxDQgpZ2TrTeys3Qwfd6OINBjYZ-z_oys/rs:fill:256:192/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V2ZW50/X2ltYWdlcy81MTA5/ZGM1YS01NmNjLTRh/MzUtOThhNC02Yzc1/MDEzN2Y3YzdhYzkx/ZmNlNTMwODk5NDE1/MGZfSWNlbGFuZCAx/IC0gTWFuIExvb2tp/bmcgYXQgTm9ydGhl/cm4gTGlnaHRzLnBu/Zw.png)](https://www.atlasobscura.com/adventures/trips/iceland-winter)
-
-Iceland • 8 days, 7 nights
-
-[Iceland in Winter: Northern Lights & Geothermal Marvels](https://www.atlasobscura.com/adventures/trips/iceland-winter)
-
-from
-
-[View all trips](https://www.atlasobscura.com/adventures/trips)
+Loading...
 
 Loading...
 
-Upcoming Courses
-
-[View All Courses »](https://www.atlasobscura.com/online-courses)
-
-   [![](https://img.atlasobscura.com/pzidrqzrZZyECY-vNqnesDKb0Ns9crzYordU8xAc8Ck/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8yNWE1/NDU2Yy0xM2EzLTRl/YWMtODliYi0zNjNi/ZmM5OTRjZTc3YTM0/ZTQ5ZTRiZWE1ZDBj/ZTZfQVNIXzA1MDgu/SlBH.jpg)
-
-Piecemaker: Sewing a Sampler Quilt With Aaron Sanders Head](https://www.atlasobscura.com/experiences/quilting-online-course)
-
-   [![](https://img.atlasobscura.com/SV6lzJqAakmxcYSPf8x3of4g1ESvKfcfeoktUiSPlHs/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy9mNDMz/M2VhNy1kZmQzLTRk/YzYtODk2NC0zZTBj/YjgxNGFmZTgwYjAw/NmFiZjg4MjlkMzMw/YzlfRDE1NEVCNDct/N0FGMC00Q0MyLUJD/NjctMDQ2MUY2OUUz/REQ2XzFfMjAxX2Eu/anBlZw.jpg)
-
-Paper Botanicals With Kate Croghan Alarcón](https://www.atlasobscura.com/experiences/paper-botanicals-course)
-
-   [![](https://img.atlasobscura.com/dZqzCddquHd-tydC1vae3cl7QuD1Vfhda9NnjX4TXfE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8zZDAz/YjJhMy0zNGMxLTQ4/ZTEtYTA3ZS1kYTBm/YTQ3ZjdmN2I3NTA4/MWI1YzEzMTI1ODg4/YmRfd29sZmdhbmct/aGFzc2VsbWFubi1G/cG1TTGpvNDA4RS11/bnNwbGFzaC5qcGc.jpg)
-
-Bee-licious: Taste Honey Like a Sommelier With C. Marina Marchese](https://www.atlasobscura.com/experiences/honey-tasting-online-course)
-
-   [![](https://img.atlasobscura.com/X22MWQEE9MnT4s8PTo_IlILLlbyUONGXD6zIBH_vrf4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy81ZTcx/N2M5MC0yYTBkLTRk/MjEtOTZkYi0yMTcz/NTc0MDNlZDQ4ZGJm/ZWJmMDllMzBkNzI1/MmZfRS10ZXh0aWxl/c18yLmpwZWc.jpg)
-
-Designing Soft Circuits & E-Textiles With Linh My Truong](https://www.atlasobscura.com/experiences/wearable-electronics-course)
-
-   [![](https://img.atlasobscura.com/GvclmYNtKmRjd1vLUiCiq0AGTTrC_F0Tx6Lc-L2uPTk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82MjEx/M2VkZC1iNmE3LTRk/MjMtOWRhZC05ZjI4/ZDk4MGE4MWI2OWQy/ZmY1ODAxYjYzZWY2/MzRfc2ltb24tYmVy/Z2VyLV9hMWxBNVRp/XzFJLXVuc3BsYXNo/IGNvcHkuanBn.jpg)
-
-Tree Communication With Annie Novak](https://www.atlasobscura.com/experiences/tree-communication-course)
+Loading...
 
 Loading...
 
-Latest Places to Eat & Drink
+Loading...
 
-[View All Places to Eat »](https://www.atlasobscura.com/cool-places-to-eat)
-
-   [![Introducing one of the only train station lobsters that won't leave you filled with regret](https://img.atlasobscura.com/w49Xe6XCTdMwAT4MMZKCaMVRMQ0QYIYwTUIARW4IXYM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83NmUz/MzYwNy0yNWY2LTQ0/YzktYThiMC04YjI4/MDQ3OWQ5NjIyMWI1/ZWNmNzExMjQ0NjNj/ZjVfR3JhbmRCcmFz/c2VyaWVfMDkyNF9K/b3ZhbmlEZW1ldHJp/ZV82Mi5qcGVn.jpg)
-
-Grand Brasserie](https://www.atlasobscura.com/places/grand-brasserie-new-york)
-
-   [![A simple box of soba noodles with aburaage (fried tofu), the foxes’ favorite food.](https://img.atlasobscura.com/uHXhNet6_FYjj3PEPq9AFApvObg3wV2cShSH0pDsKGM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8xNDZh/Zjg2ZS05NWNiLTQw/OTgtODcxNS0zODVl/YzdlMTQ1OGMwMjAy/YzQzNTcyOTFhNjYz/NGVfRFNDXzAwNzEu/anBlZw.jpg)
-
-Inari Soba Mansei](https://www.atlasobscura.com/places/inari-soba-mansei)
-
-   [![](https://img.atlasobscura.com/jaDz2TbGvVoE1mN7zXoqJ5nmmwFfhZ5bztztb3ItHq0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9lNTdh/NDUwNy01NmRiLTQx/YzgtOWU0Mi02M2Zj/MmFlMzIxNzJjMDQz/NDBjYWQ5ZmJmYzlk/YThfYm95YXJkZWUy/LmpwZw.jpg)
-
-Chef Boyardee Statue](https://www.atlasobscura.com/places/chef-boyardee-statue)
-
-   [![Cevapčići at Sarajevo ‘84](https://img.atlasobscura.com/LE8qSSozBNYlyyHbL6Tz8u29d7LsFp_hglJAupgVfA8/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZTZj/NmVhYi1jMGEwLTQx/NTUtYjQ0Zi1kY2Mz/ZmFhMGFkYmYyOGVj/YzgwMjY5NDI4ZGMz/YmNfYjA2NWM2Zjkt/ZGJlMi00MmNiLTgy/N2YtMmZmZTJkOTAx/Nzc4LkpQRw.jpg)
-
-Sarajevo ‘84](https://www.atlasobscura.com/places/sarajevo-84)
-
-   [![In this salad, rice gets topped with pinches of toasted coconut, dried fish, finely-sliced herbs and vegetables, bean sprouts, a tiny knot of noodles, crushed black pepper and dried chili. ](https://img.atlasobscura.com/gQIl5_2prwKwbxcG4VdRWmHZ42_9k05Hvhma2Mu-5EE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8yYmFm/YmI4MTVkODdkNWYy/YTNfMjAyMCBSaWNl/IFNhbGFkIHdpdGgg/TmFtIEJ1ZHUgRHJl/c3NpbmcgWWFsYSBU/aGFpbGFuZC0yNzI1/LmpwZw.jpg)
-
-Thai-Islam Phochana](https://www.atlasobscura.com/places/thai-islam-phochana)
-
-Recent Stories
-
-[All Stories](https://www.atlasobscura.com/articles) [Puzzles](https://www.atlasobscura.com/series/ao-puzzles) [Video](https://www.atlasobscura.com/videos) [Podcast](https://www.atlasobscura.com/podcast)
-
-Most Recent Stories
-
-[View All Stories »](https://www.atlasobscura.com/articles)
-
-   [![Accusations around sex and race have caused controversy and change at a major LARP community.](https://img.atlasobscura.com/MwrOCsRJ06Ik9Ea0zihefiFl1IWztEC9KsQamMtttfQ/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81YmRhMjk4NS0z/YzhkLTQ1YTItYjJh/Yi1jMDJhYTgzOTY2/ODc2MDk4OGU3NGQz/YjE2Yzc3MzFfaW1h/Z2UwICgxKS5qcGVn.jpg)
-
-Racism and Sexism Claims Shake a Modern Fantasy Village](https://www.atlasobscura.com/articles/bicolline-medieval-town-faces-sexism-and-racism)
-
-   [![T'anta wawa, or "baby bread," is baked in Bolivia, Peru, Colombia, Argentina, and Ecuador in honor of those who have passed away.](https://img.atlasobscura.com/P-E1mqO8j0iMerdIiivL9O7E8qZy6TarmgpU7-EQSwk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy81NDRmYmJiZi03/NGI1LTRiYjEtOTZh/MS1kNzU1ODJkYjli/ZTc5NTI3OWQzZTU1/YWMwMDNiYmZfVGFu/dGFfV2F3YSA0Lmpw/ZWc.jpg)
-
-Bake 'Baby Bread' as a Celebration of Life and Death](https://www.atlasobscura.com/articles/pan-y-dulce-cookbook-bryan-ford-latin-american-baking)
-
-   [![Get out of town to find transformative connections around the world.](https://img.atlasobscura.com/cgtmjGGf_CpSBQLGCAa4nmPnslT1j-ctHD4Jx1a3xU0/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy83OGUzNGFhZS1k/ZWY3LTRiNGItYTJl/MC05NTRhNTllMDMw/OTFhMjhhNDUxMmIy/MTA2NTE1Y2NfR2V0/dHlJbWFnZXMtNTQy/NjkyOTA4LmpwZw.jpg)
-
-Find Your Escape With Atlas Obscura’s Best Places to Travel in 2025](https://www.atlasobscura.com/articles/where-to-wander-2025)
-
-   [![Wolji Pond, South Korea](https://img.atlasobscura.com/6jDxUQvywdpbopq3dzlHEaraeJz5Y7qiQKOLRMGUvY4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2Fzc2V0/cy9hNjRkYTA0Yi0z/YjE4LTRjMDMtODU1/Zi0zNmQyMjAwMDcy/YTg1ZmJmOTViYWEz/NGM4MTQyMjlfMTAg/UGxhY2VzIFRoYXQg/RmVlbCBMaWtlIEpv/dXJuZXlpbmcgQmFj/ayBpbiBUaW1lLmpw/Zw.jpg)
-
-10 Places That Feel Like Journeying Back in Time](https://www.atlasobscura.com/articles/where-to-wander-time-travel)
+Loading...
 
 No search results found for  
 “”
