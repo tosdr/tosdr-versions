@@ -20,16 +20,16 @@ Thursday, November 14 2024
 
 Latest
 
-* [How to Freeze Fresh Cranberries](https://digitpatrox.com/how-to-freeze-fresh-cranberries/)
-* [How to use UUP Dump to download Windows 11 build 27749 or any ISO file](https://digitpatrox.com/how-to-use-uup-dump-to-download-windows-11-build-27749-or-any-iso-file/)
-* [How Do Hybrid Cars Work?](https://digitpatrox.com/how-do-hybrid-cars-work/)
-* [Which is Better for Gaming?](https://digitpatrox.com/which-is-better-for-gaming/)
-* [Workplace monitoring is still out of control – employees are stressed out, dejected, and rebelling against surveillance tools by using ‘mouse jigglers’](https://digitpatrox.com/workplace-monitoring-is-still-out-of-control-employees-are-stressed-out-dejected-and-rebelling-against-surveillance-tools-by-using-mouse-jigglers/)
-* [Chip Design Program Empowers the Apple Workforce of Tomorrow](https://digitpatrox.com/chip-design-program-empowers-the-apple-workforce-of-tomorrow/)
-* [5 ways to ventilate a room without windows](https://digitpatrox.com/5-ways-to-ventilate-a-room-without-windows/)
-* [Leaked info of 122 million linked to B2B data aggregator breach](https://digitpatrox.com/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/)
-* [OpenAI reportedly plans to launch an AI agent early next year](https://digitpatrox.com/openai-reportedly-plans-to-launch-an-ai-agent-early-next-year/)
-* [Today’s Wordle Answer and Hints (November 14, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-14-2024/)
+* [Eric Schmidt admits remote work has productivity benefits, but he still wants staff in the office](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
+* [AMD to cut 4% of workforce to prioritize AI chip expansion and rival Nvidia](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
+* [Best Buy’s Black Friday Deals on Hisense and Samsung TVs](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
+* [Car Brands With the Highest Road-Test Scores](https://digitpatrox.com/car-brands-with-the-highest-road-test-scores/)
+* [How to Emulate Apple Intelligence Writing Tools on Older iPhones](https://digitpatrox.com/how-to-emulate-apple-intelligence-writing-tools-on-older-iphones/)
+* [AMD to cut around 1,000 staff to focus on “largest growth opportunities”](https://digitpatrox.com/amd-to-cut-around-1000-staff-to-focus-on-largest-growth-opportunities/)
+* [Four Critical Vulnerabilities Paved Over](https://digitpatrox.com/four-critical-vulnerabilities-paved-over/)
+* [Apple facing new lawsuit over AirPods Pro ‘crackling’ issues — here’s what we know](https://digitpatrox.com/apple-facing-new-lawsuit-over-airpods-pro-crackling-issues-heres-what-we-know/)
+* [Microsoft patches Windows zero-day exploited in attacks on Ukraine](https://digitpatrox.com/microsoft-patches-windows-zero-day-exploited-in-attacks-on-ukraine/)
+* [Sonos revenue falls in the aftermath of company’s messy app debacle](https://digitpatrox.com/sonos-revenue-falls-in-the-aftermath-of-companys-messy-app-debacle/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01HF2GJDRTQ9ASCPWK0RAZYN4P/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/how-to-freeze-fresh-cranberries/)
+* [![](https://cdn.mos.cms.futurecdn.net/ybsrRYRYXkacruBBSXD5cF-1200-80.jpg)](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
     
-    [How to Freeze Fresh Cranberries](https://digitpatrox.com/how-to-freeze-fresh-cranberries/)
+    [Eric Schmidt admits remote work has productivity benefits, but he still wants staff in the office](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
     
-    16 minutes ago
+    12 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2023/09/windows-11-iso-preview-download-uupdump-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-use-uup-dump-to-download-windows-11-build-27749-or-any-iso-file/)
+* [![](https://www.networkworld.com/wp-content/uploads/2024/11/3605016-0-67505300-1731582277-AMD_logo_on_office.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
     
-    [How to use UUP Dump to download Windows 11 build 27749 or any ISO file](https://digitpatrox.com/how-to-use-uup-dump-to-download-windows-11-build-27749-or-any-iso-file/)
+    [AMD to cut 4% of workforce to prioritize AI chip expansion and rival Nvidia](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
     
-    24 minutes ago
+    32 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1674588109/prod/content/dam/CRO-Images-2023/01January/Cars/CR-Cars-InlineHero-2023-Toyota-Prius-r-driving-1-23)](https://digitpatrox.com/how-do-hybrid-cars-work/)
+* [![](https://lifehacker.com/imagery/articles/01JCKPERPX7ZDKY7Z7XKATZN5A/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
     
-    [How Do Hybrid Cars Work?](https://digitpatrox.com/how-do-hybrid-cars-work/)
+    [Best Buy’s Black Friday Deals on Hisense and Samsung TVs](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
     
-    26 minutes ago
+    60 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-gaming-pc-with-god-of-war-4-and-a-screenshot-icon.jpg)](https://digitpatrox.com/which-is-better-for-gaming/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730756147/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-Inline-Hero-What-Car-Brands-Have-the-Highest-Road-Test-Scores-1124-cg)](https://digitpatrox.com/car-brands-with-the-highest-road-test-scores/)
     
-    [Which is Better for Gaming?](https://digitpatrox.com/which-is-better-for-gaming/)
+    [Car Brands With the Highest Road-Test Scores](https://digitpatrox.com/car-brands-with-the-highest-road-test-scores/)
     
-    28 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/AxAgZGvaRwq6gCsjBhAnEH-1200-80.jpg)](https://digitpatrox.com/workplace-monitoring-is-still-out-of-control-employees-are-stressed-out-dejected-and-rebelling-against-surveillance-tools-by-using-mouse-jigglers/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg)](https://digitpatrox.com/how-to-emulate-apple-intelligence-writing-tools-on-older-iphones/)
     
-    [Workplace monitoring is still out of control – employees are stressed out, dejected, and rebelling against surveillance tools by using ‘mouse jigglers’](https://digitpatrox.com/workplace-monitoring-is-still-out-of-control-employees-are-stressed-out-dejected-and-rebelling-against-surveillance-tools-by-using-mouse-jigglers/)
+    [How to Emulate Apple Intelligence Writing Tools on Older iPhones](https://digitpatrox.com/how-to-emulate-apple-intelligence-writing-tools-on-older-iphones/)
     
     1 hour ago
     
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [16 minutes ago
+* [12 minutes ago
     
-    ### How to Freeze Fresh Cranberries](https://digitpatrox.com/how-to-freeze-fresh-cranberries/)
-* [24 minutes ago
+    ### Eric Schmidt admits remote work has productivity benefits, but he still wants staff in the office](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
+* [32 minutes ago
     
-    ### How to use UUP Dump to download Windows 11 build 27749 or any ISO file](https://digitpatrox.com/how-to-use-uup-dump-to-download-windows-11-build-27749-or-any-iso-file/)
-* [26 minutes ago
+    ### AMD to cut 4% of workforce to prioritize AI chip expansion and rival Nvidia](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
+* [60 minutes ago
     
-    ### How Do Hybrid Cars Work?](https://digitpatrox.com/how-do-hybrid-cars-work/)
+    ### Best Buy’s Black Friday Deals on Hisense and Samsung TVs](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [October 2, 2024
     
-    ### Tropical Storm Oscar is making Cuba’s nationwide power outage even worse](https://digitpatrox.com/tropical-storm-oscar-is-making-cubas-nationwide-power-outage-even-worse/)
-* [4 weeks ago
+    ### Nanoleaf Essentials Matter Smart Multicolor HD Lightstrip (5m) Review: Almost Perfect](https://digitpatrox.com/nanoleaf-essentials-matter-smart-multicolor-hd-lightstrip-5m-review-almost-perfect/)
+* [August 13, 2024
     
-    ### How to tell if your Facebook has been hacked](https://digitpatrox.com/how-to-tell-if-your-facebook-has-been-hacked/)
-* [3 weeks ago
+    ### Nvidia promises to give Californians free AI training with new initiative](https://digitpatrox.com/nvidia-promises-to-give-californians-free-ai-training-with-new-initiative/)
+* [August 22, 2024
     
-    ### How to watch NHK Plus in the USA with a VPN](https://digitpatrox.com/how-to-watch-nhk-plus-in-the-usa-with-a-vpn/)
+    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
 
 Last Modified Topics
 
-* [1 hour ago
-    
-    ### 5 ways to ventilate a room without windows](https://digitpatrox.com/5-ways-to-ventilate-a-room-without-windows/)
 * [2 hours ago
     
-    ### Leaked info of 122 million linked to B2B data aggregator breach](https://digitpatrox.com/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/)
+    ### Four Critical Vulnerabilities Paved Over](https://digitpatrox.com/four-critical-vulnerabilities-paved-over/)
+* [2 hours ago
+    
+    ### Apple facing new lawsuit over AirPods Pro ‘crackling’ issues — here’s what we know](https://digitpatrox.com/apple-facing-new-lawsuit-over-airpods-pro-crackling-issues-heres-what-we-know/)
 * [3 hours ago
     
-    ### OpenAI reportedly plans to launch an AI agent early next year](https://digitpatrox.com/openai-reportedly-plans-to-launch-an-ai-agent-early-next-year/)
+    ### Microsoft patches Windows zero-day exploited in attacks on Ukraine](https://digitpatrox.com/microsoft-patches-windows-zero-day-exploited-in-attacks-on-ukraine/)
 
 Most Viewed Topics
 
@@ -250,9 +250,9 @@ Most Viewed Topics
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 28, 2024
+* [August 13, 2024
     
-    ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
