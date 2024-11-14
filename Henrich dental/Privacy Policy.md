@@ -59,6 +59,7 @@ Current Patients (918) 528-6555
     * [Payment & Insurance](https://www.henrichdental.com/patient-resources/payment-insurance/)
     * [Special Needs Patients](https://www.henrichdental.com/patient-resources/special-needs-patients/)
     * [Blog](https://www.henrichdental.com/blog/)
+* [Sleep & TMJ Solutions](https://www.sleeptmjtherapy.com/)
 * [Smile Gallery](https://www.henrichdental.com/smile-gallery/)
 * [Pay My Bill](https://pay.balancecollect.com/m/henrichdental)
 
