@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly](https://www.theepochtimes.com/health/covid-19-vaccines-do-not-produce-durable-immune-cells-in-bone-marrow-5758996)
+* [Republicans Win Trifecta Control of Government–What Happens Now?](https://www.theepochtimes.com/us/republicans-win-trifecta-control-of-government-what-happens-now-5758240)
     
-    1hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republicans Win Trifecta Control of Government–What Happens Now?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Study Reveals Why COVID-19 Vaccine Antibodies Wane Rapidly](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759128-shutterstock_2159236473_plasma_cell_antibody_antibodies_immunoglobulins_b-cell_bcell_immune_immunology-205x123.jpg.webp)](https://www.theepochtimes.com/health/covid-19-vaccines-do-not-produce-durable-immune-cells-in-bone-marrow-5758996)
-* [Trump Picks Gaetz for Attorney General, Rubio for Secretary of State](https://www.theepochtimes.com/us/trump-picks-gaetz-for-attorney-general-rubio-for-secretary-state-5759219)
+    ![Republicans Win Trifecta Control of Government–What Happens Now?](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758408-11122024-DSC08942-speaker-mike-johnson-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-win-trifecta-control-of-government-what-happens-now-5758240)
+* [Republicans Retain House Majority, Completing Trifecta](https://www.theepochtimes.com/us/republicans-retain-house-majority-completing-trifecta-5759194)
     
-    1hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Trump Picks Gaetz for Attorney General, Rubio for Secretary of State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Republicans Retain House Majority, Completing Trifecta](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Picks Gaetz for Attorney General, Rubio for Secretary of State](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759286-GettyImages-1744932118-sb-205x123.jpg)](https://www.theepochtimes.com/us/trump-picks-gaetz-for-attorney-general-rubio-for-secretary-state-5759219)
-* [Blinken Vows US Military Aid Surge to Support Ukraine in 2025 Fight Against Russia](https://www.theepochtimes.com/world/blinken-vows-us-military-aid-surge-to-support-ukraine-in-2025-fight-against-russia-5759036)
+    ![Republicans Retain House Majority, Completing Trifecta](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746849-10232024-DSC06701-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-retain-house-majority-completing-trifecta-5759194)
+* [E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://www.theepochtimes.com/us/e-coli-outbreak-tied-to-mcdonalds-expands-to-14-states-104-infected-5759399)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Blinken Vows US Military Aid Surge to Support Ukraine in 2025 Fight Against Russia](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Blinken Vows US Military Aid Surge to Support Ukraine in 2025 Fight Against Russia](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759265-Belgium_NATO_US_24318308660620-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/blinken-vows-us-military-aid-surge-to-support-ukraine-in-2025-fight-against-russia-5759036)
-* [6 Things to Know About Kristi Noem, Trump’s Nominee for Homeland Security Secretary](https://www.theepochtimes.com/us/6-things-to-know-about-kristi-noem-trumps-nominee-for-homeland-security-secretary-5759073)
+    ![E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747749-MCDONALDS-CORP-ECOLI-CUSTOMERS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/e-coli-outbreak-tied-to-mcdonalds-expands-to-14-states-104-infected-5759399)
+* [5 Things to Know About John Thune, the Next Senate Majority Leader](https://www.theepochtimes.com/article/5-things-to-know-about-john-thune-the-next-senate-majority-leader-5759077)
     
-    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![6 Things to Know About Kristi Noem, Trump’s Nominee for Homeland Security Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5 Things to Know About John Thune, the Next Senate Majority Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![6 Things to Know About Kristi Noem, Trump’s Nominee for Homeland Security Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759269-Kristi-Noem-9_JF_05182024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/6-things-to-know-about-kristi-noem-trumps-nominee-for-homeland-security-secretary-5759073)
-* [Trump Picks Rubio, Longtime China Hawk, for Secretary of State](https://www.theepochtimes.com/article/trump-taps-rubio-longtime-china-hawk-as-secretary-of-state-5686671)
+    ![5 Things to Know About John Thune, the Next Senate Majority Leader](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759254-EpochImages-7620547898-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-things-to-know-about-john-thune-the-next-senate-majority-leader-5759077)
+* [Here’s Who Is on Senate GOP Leadership Team](https://www.theepochtimes.com/us/heres-who-is-on-senate-gop-leadership-team-5759106)
     
-    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![Trump Picks Rubio, Longtime China Hawk, for Secretary of State](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Here’s Who Is on Senate GOP Leadership Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Picks Rubio, Longtime China Hawk, for Secretary of State](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758727-GettyImages-2181168888-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-taps-rubio-longtime-china-hawk-as-secretary-of-state-5686671)
-* [Mask Mandate Announced for Health Care Workers in California County](https://www.theepochtimes.com/us/mask-mandate-announced-for-health-care-workers-in-california-county-5759074)
+    ![Here’s Who Is on Senate GOP Leadership Team](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759243-11132024-DSC09492-John-Thune-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-who-is-on-senate-gop-leadership-team-5759106)
+* [5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://www.theepochtimes.com/us/5-things-to-know-about-pete-hegseth-trumps-choice-for-secretary-of-defense-5759107)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
-    [![Mask Mandate Announced for Health Care Workers in California County](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Mask Mandate Announced for Health Care Workers in California County](https://img.theepochtimes.com/assets/uploads/2024/10/13/id5740691-EpochImages-9193431748-xlKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/mask-mandate-announced-for-health-care-workers-in-california-county-5759074)
-* [US Household Debt Inches Closer to Record $18 Trillion in 3rd Quarter: New York Fed](https://www.theepochtimes.com/business/us-household-debt-inches-closer-to-record-18-trillion-in-3rd-quarter-new-york-fed-5759016)
+    ![5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758754-GettyImages-626419832KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-things-to-know-about-pete-hegseth-trumps-choice-for-secretary-of-defense-5759107)
+* [Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://www.theepochtimes.com/us/johnson-says-gaetz-has-resigned-from-congress-after-ag-nomination-5759418)
     
-    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    3hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![US Household Debt Inches Closer to Record $18 Trillion in 3rd Quarter: New York Fed](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Household Debt Inches Closer to Record $18 Trillion in 3rd Quarter: New York Fed](https://img.theepochtimes.com/assets/uploads/2024/01/19/id5569401-GettyImages-1209301796-205x123.jpg.webp)](https://www.theepochtimes.com/business/us-household-debt-inches-closer-to-record-18-trillion-in-3rd-quarter-new-york-fed-5759016)
-* [Biden, Xi to Hold Bilateral Meeting at APEC Summit This Week](https://www.theepochtimes.com/china/biden-xi-to-hold-bilateral-meeting-at-apec-summit-this-week-5758978)
+    ![Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759286-GettyImages-1744932118-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/johnson-says-gaetz-has-resigned-from-congress-after-ag-nomination-5759418)
+* [GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://www.theepochtimes.com/business/gm-recalls-460000-vehicles-for-rear-wheel-lock-up-risk-5759400)
     
-    4hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    4hr By [Mary Man](https://www.theepochtimes.com/author/mary-man)
     
-    [![Biden, Xi to Hold Bilateral Meeting at APEC Summit This Week](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden, Xi to Hold Bilateral Meeting at APEC Summit This Week](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759270-GettyImages-2182727669-Joe-Biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/biden-xi-to-hold-bilateral-meeting-at-apec-summit-this-week-5758978)
-* [Los Angeles Mayor Pushes for Official Sanctuary City Status Before Trump Assumes Office](https://www.theepochtimes.com/us/los-angeles-mayor-pushes-for-official-sanctuary-city-status-before-trump-assumes-office-5758685)
+    ![GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759421-GM-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/gm-recalls-460000-vehicles-for-rear-wheel-lock-up-risk-5759400)
+* [Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://www.theepochtimes.com/health/study-finds-link-between-hallucinogen-related-er-visits-and-increased-schizophrenia-risk-5759066)
     
-    4hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    4hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
-    [![Los Angeles Mayor Pushes for Official Sanctuary City Status Before Trump Assumes Office](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Los Angeles Mayor Pushes for Official Sanctuary City Status Before Trump Assumes Office](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759084-Karen-Bass-9_JF_01302024-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/los-angeles-mayor-pushes-for-official-sanctuary-city-status-before-trump-assumes-office-5758685)
-* [Chinese National Pleads Guilty to Laundering $73 Million in Crypto Scam](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-to-laundering-73-million-in-crypto-scam-5758991)
+    ![Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://img.theepochtimes.com/assets/uploads/2023/10/13/id5509806-GettyImages-1230122221-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-finds-link-between-hallucinogen-related-er-visits-and-increased-schizophrenia-risk-5759066)
+* [Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://www.theepochtimes.com/us/judge-says-prosecutor-failed-to-prove-musks-1-million-voter-sweepstakes-was-illegal-lottery-5759101)
     
-    5hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
+    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Chinese National Pleads Guilty to Laundering $73 Million in Crypto Scam](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Chinese National Pleads Guilty to Laundering $73 Million in Crypto Scam](https://img.theepochtimes.com/assets/uploads/2024/10/03/id5734657-07292024-DSC09126-DOJKO-205x123.jpg.webp)](https://www.theepochtimes.com/china/chinese-national-pleads-guilty-to-laundering-73-million-in-crypto-scam-5758991)
+    ![Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754139-Elon-Musk-GettyImages-2180776933-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-says-prosecutor-failed-to-prove-musks-1-million-voter-sweepstakes-was-illegal-lottery-5759101)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
