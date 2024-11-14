@@ -325,7 +325,6 @@ Advertise
 
 ### [Eight essentials to get you travel ready](https://www.afr.com/life-and-luxury/fashion-and-style/eight-essentials-to-get-you-travel-ready-20241104-p5knnj)
 
-* 57 mins ago
 * Eugenie Kelly
 
 * ### [The rituals of a ryokan prevail in this new international hotel](https://www.afr.com/life-and-luxury/travel/the-rituals-of-a-ryokan-prevail-in-this-new-international-hotel-20241030-p5kmp0)
