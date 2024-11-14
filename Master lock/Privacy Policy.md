@@ -36,7 +36,7 @@ Search
     * [U-locks](https://www.masterlock.com/products/u-locks?personal)
     * [Accessories for Locks & Keys](https://www.masterlock.com/products/accessories-for-locks-keys?personal)
     
-    Find a lock [Product Videos](https://www.masterlock.com/support/videos) [Lost Combinations](https://www.masterlock.com/support/category/lost-combinations) [Insights](https://www.masterlock.com/insights)
+    [Product Selector](https://www.masterlock.com/product/selector) [Product Videos](https://www.masterlock.com/support/videos) [Lost Combinations](https://www.masterlock.com/support/category/lost-combinations) [Insights](https://www.masterlock.com/insights)
     
 * [Business](https://www.masterlock.com/business?business) Toggle Dropdown
     
@@ -60,7 +60,7 @@ Search
     * [Door Hardware](https://www.masterlock.com/products/door-hardware?business)
     * [Accessories for Locks & Keys](https://www.masterlock.com/products/accessories-for-locks-keys?business)
     
-    Find a lock [Vault Support](https://www.masterlock.com/support/category/vault-support) [Support For Business](https://www.masterlock.com/support-links) [Insights](https://www.masterlock.com/insights)
+    [Product Selector](https://www.masterlock.com/product/selector) [Vault Support](https://www.masterlock.com/support/category/vault-support) [Support For Business](https://www.masterlock.com/support-links) [Insights](https://www.masterlock.com/insights)
     
 * [Smart](https://www.masterlock.com/smart-solutions?smart-solutions) Toggle Dropdown
     
@@ -105,7 +105,7 @@ Search
     [Product Videos](https://www.masterlock.com/support/videos) [Insights](https://www.masterlock.com/insights) [Store Your Combo](https://register.masterlock.com/)
     
 
-[Find a lock](#void) [Master lock Vault](https://www.masterlockvault.com/) [Support for Business](https://www.masterlock.com/support-links)
+[Product Selector](https://www.masterlock.com/product/selector) [Master lock Vault](https://www.masterlockvault.com/) [Support for Business](https://www.masterlock.com/support-links)
 
 1. [Home](https://www.masterlock.com/)
 2. Privacy Policy
@@ -372,7 +372,7 @@ Close Modal Icon
 
 Back
 
-See Locks
+See Products
 
 Sign up for updates and offers from Master Lock about personal products
 
@@ -389,14 +389,14 @@ _\*Only customers in the U.S. will receive these emails from Master Lock._
 [Personal](https://www.masterlock.com/products?personal)
 --------------------------------------------------------
 
-* [Product Selector](#)
+* [Product Selector](https://www.masterlock.com/product/selector)
 * [Where to Buy](https://www.masterlock.com/where-to-buy)
 * [Master Lock Store](https://store.masterlock.com/)
 
 [Business](https://www.masterlock.com/business?business)
 --------------------------------------------------------
 
-* [Product Selector](#)
+* [Product Selector](https://www.masterlock.com/product/selector)
 * [Where to Buy](https://www.masterlock.com/where-to-buy/distributors)
 * [Distributor Ordering](https://www.masterlockshop.com/OA_HTML/mlc_ibeCAcdLogin.jsp)
 
