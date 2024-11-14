@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Life After Life](/wp-content/thumbnails/3630-100x70.jpg?x53432)
+* [![Fractals: The Colors of Infinity](/wp-content/thumbnails/2825-100x70.jpg?x53432)
     
-    Life After Life
+    Fractals: The Colors of Infinity
     
-    In Life After Life Raymond Moody investigates case studies of people who experienced “clinical death” and were subsequently revived.This classic exploration of life after death started a revolutio](https://documentaryheaven.com/life-after-life/ "Life After Life")
-* [![The Death of Yugoslavia](/wp-content/thumbnails/6329-100x70.jpg?x53432)
+    The Mandelbrot set – someone has called it the thumb-print of God – is one of the most beautiful and remarkable discoveries in the entire history of mathematics.With Arthur C. Clarke as narrator a](https://documentaryheaven.com/fractals-the-colors-of-infinity/ "Fractals: The Colors of Infinity")
+* [![UFO’s, Lies and The Cold War](/wp-content/thumbnails/2925-100x70.jpg?x53432)
     
-    The Death of Yugoslavia
+    UFO’s, Lies and The Cold War
     
-    The Death of Yugoslavia (Serbian, Montenegrin,Bosnian, Croatian and Slovenian: Smrt Jugoslavije, Macedonian: Смртта на Југославија, Smrtta na Jugoslavija) is a BBC documentary series first broadcast i](https://documentaryheaven.com/the-death-of-yugoslavia/ "The Death of Yugoslavia")
-* [![Dispatches: Britain’s Bad Housing](/wp-content/thumbnails/618-100x70.png?x53432)
+    Autumn 1989. Thousands of people sighted UFO's over Belgium. Interceptors scrambled, but were unsuccessful. Some of the objects were picked up on radar, but the phenomenon remains a mystery. The Belgi](https://documentaryheaven.com/ufos-lies-and-the-cold-war/ "UFO’s, Lies and The Cold War")
+* [![Loose Change 2nd Edition](/wp-content/thumbnails/431-100x70.png?x53432)
     
-    Dispatches: Britain’s Bad Housing
+    Loose Change 2nd Edition
     
-    What is the real reason behind Britain’s housing shortage. Is it really because of a true shortage of new houses or is there another reason. Well, like most things today, it’s really caused by powerfu](https://documentaryheaven.com/britains-bad-housing/ "Dispatches: Britain’s Bad Housing")
-* [![The Genius of Mozart](/wp-content/thumbnails/1773-100x70.jpg?x53432)
+    With the departure of the Bush Administration and the arrival of an “era of transparency,” opportunities are arising for the disclosure of new information that may shed more light on the events that t](https://documentaryheaven.com/loose-change-2nd-edition/ "Loose Change 2nd Edition")
+* [![Stress, Portrait of a Killer](/wp-content/thumbnails/5794-100x70.png?x53432)
     
-    The Genius of Mozart
+    Stress, Portrait of a Killer
     
-    The story begins with the composer's father Leopold with whom Mozart conducted a passionate and tortured correspondence. It is Leopold who knows Mozart's secrets. And there is another voice: that of t](https://documentaryheaven.com/genius-of-mozart/ "The Genius of Mozart")
-* [![A Haunting: Gateway to Hell](/wp-content/thumbnails/1682-100x70.jpg?x53432)
+    The stress response: in the beginning it saved our lives, making us run from predators and enabling us to take down prey. Today, human beings are turning on the same life-saving physical reaction to c](https://documentaryheaven.com/stress-portrait-of-a-killer/ "Stress, Portrait of a Killer")
+* [![Through The Wormhole: Are We Alone?](/wp-content/thumbnails/3734-100x70.jpg?x53432)
     
-    A Haunting: Gateway to Hell
+    Through The Wormhole: Are We Alone?
     
-    Bobby Mackey owns a country music nightclub in the small town of Wilder, Kentucky. The building was once home to a slaughterhouse. The Licking River, which runs next door, is said to have attracted Sa](https://documentaryheaven.com/a-haunting-gateway-to-hell/ "A Haunting: Gateway to Hell")
+    Aliens almost certainly do exist. So why haven’t we yet met E.T.? It turns out we’re only just developing instruments powerful enough to scan for them, and science sophisticated enough to know where t](https://documentaryheaven.com/through-the-wormhole-are-we-alone/ "Through The Wormhole: Are We Alone?")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
