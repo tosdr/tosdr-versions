@@ -1,6 +1,6 @@
-**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -201,7 +201,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34506)
+     [](https://patriotpost.us/cartoons/34508)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
@@ -215,13 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Ian Haworth America Didn’t Fall for Emperor Kamala’s New Clothes](https://patriotpost.us/opinion/111915-america-didnt-fall-for-emperor-kamalas-new-clothes-2024-11-13)
 *      [Gary Bauer FEMA Plays Favorites](https://patriotpost.us/opinion/111914-fema-plays-favorites-2024-11-13)
 *      [John Stossel Kids Need Freedom](https://patriotpost.us/opinion/111913-kids-need-freedom-2024-11-13)
-*      [Neil Patel End of the Nutball Era](https://patriotpost.us/opinion/111912-end-of-the-nutball-era-2024-11-13)
-*      [Byron York The Case for Mass Deportations](https://patriotpost.us/opinion/111911-the-case-for-mass-deportations-2024-11-13)
-*      [Betsy McCaughey Trump’s Promising Health Agenda](https://patriotpost.us/opinion/111910-trumps-promising-health-agenda-2024-11-13)
-*      [Tim Graham Why Is PBS Allowed to Be Mangle-MAGA TV?](https://patriotpost.us/opinion/111909-why-is-pbs-allowed-to-be-mangle-maga-tv-2024-11-13)
-*      [The Washington Stand American Dream 2.0: The Remarkable Rise of J.D. Vance](https://patriotpost.us/opinion/111945-american-dream-2-dot-0-the-remarkable-rise-of-jd-vance-2024-11-13)
-*      [The Babylon Bee Newsom Assures Californians They Will Be Safe From All the Trump Administration’s Prosperity, Safety, Lower Prices](https://patriotpost.us/opinion/111923-newsom-assures-californians-they-will-be-safe-from-all-the-trump-administrations-prosperity-safety-lower-prices-2024-11-13)
-*      [Guest Commentary Bigger BRICS in Russia](https://patriotpost.us/opinion/111944-bigger-brics-in-russia-2024-11-13)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -235,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J82YASE4QNMY5QGPJZ5PECFM.jpeg)](https://patriotpostshop.com/collections/founders-wisdom-coffee)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
