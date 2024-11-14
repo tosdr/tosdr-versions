@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Госдума приняла в первом чтении законопроект «Единой России» о повышении доступности сайтов госорганов для людей с инвалидностью](https://cdn.er.ru/media/news/November2024/Ng2aydkqNPdweHC33Dj9-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-povyshenii-dostupnosti-sajtov-gosorganov-dlya-lyudej-s-invalidnostyu)
+[![Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://cdn.er.ru/media/news/November2024/Ejk8xGEktIbM5Nx3w7Q6-small.jpg)](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
 
-[Госдума приняла в первом чтении законопроект «Единой России» о повышении доступности сайтов госорганов для людей с инвалидностью](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-povyshenii-dostupnosti-sajtov-gosorganov-dlya-lyudej-s-invalidnostyu)
+[Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#людисОВЗ](https://er.ru/activity/news?tags%5B0%5D=136007) [#интернет-сайт](https://er.ru/activity/news?tags%5B0%5D=19073) [#информация](https://er.ru/activity/news?tags%5B0%5D=1461)
+[#Матицын](https://er.ru/activity/news?tags%5B0%5D=149186) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#спортивнаяинфраструктура](https://er.ru/activity/news?tags%5B0%5D=1094899) [#массовыйспорт](https://er.ru/activity/news?tags%5B0%5D=111891) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-13.11.24
+Сегодня 12:34
 
-[![«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://cdn.er.ru/media/news/November2024/OcAELtOB82iqZZiQB58e-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
+[![Евгений Москвичев: На строительство дорог на три года в бюджете «Единая Россия» заложит 1 трлн 100 млрд рублей](https://cdn.er.ru/media/news/November2024/DY4NVPGPR9j6sY7U0wnh-small.jpg)](https://er.ru/activity/news/evgenij-moskvichev-na-stroitelstvo-dorog-na-tri-goda-v-byudzhete-edinaya-rossiya-zalozhit-1-trln-100-mlrd-rublej)
 
-[«Единая Россия» передала подарки в Центр матери и ребёнка в Алчевске (ЛНР)](https://er.ru/activity/news/edinaya-rossiya-peredala-podarki-v-centr-materi-i-rebyonka-v-alchevske-lnr)
+[Евгений Москвичев: На строительство дорог на три года в бюджете «Единая Россия» заложит 1 трлн 100 млрд рублей](https://er.ru/activity/news/evgenij-moskvichev-na-stroitelstvo-dorog-na-tri-goda-v-byudzhete-edinaya-rossiya-zalozhit-1-trln-100-mlrd-rublej)
 
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#КоробкаХрабрости](https://er.ru/activity/news?tags%5B0%5D=1092902) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#помощьдетям](https://er.ru/activity/news?tags%5B0%5D=134046)
+[#Москвичев](https://er.ru/activity/news?tags%5B0%5D=9274) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872) [#строительстводорог](https://er.ru/activity/news?tags%5B0%5D=118885) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-13.11.24
+Сегодня 12:27
 
-[![О проекте федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/uKgqA7NDMa0ob6VYN6ts-small.jpg)](https://er.ru/activity/news/o-proekte-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
+[![Анна Кузнецова: «Единая Россия» обеспечила выделение средств из бюджета на защиту суверенитета, семей с детьми и поддержку семей участников СВО](https://cdn.er.ru/media/news/November2024/UIJ8PdMuP20gosDQdKkl-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-obespechila-vydelenie-sredstv-iz-byudzheta-na-zashitu-suvereniteta-semej-s-detmi-i-podderzhku-semej-uchastnikov-svo)
 
-[О проекте федерального бюджета на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/o-proekte-federalnogo-byudzheta-na-2025-2027-gody-statya-andreya-isaeva)
+[Анна Кузнецова: «Единая Россия» обеспечила выделение средств из бюджета на защиту суверенитета, семей с детьми и поддержку семей участников СВО](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-obespechila-vydelenie-sredstv-iz-byudzheta-na-zashitu-suvereniteta-semej-s-detmi-i-podderzhku-semej-uchastnikov-svo)
 
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
+[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ФондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094096) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#детиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093752) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562)
 
-13.11.24
+Сегодня 12:15
 
-[![Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://cdn.er.ru/media/news/November2024/o24euMPk1AWr0ziz6HtP-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
+[![Александр Мажуга: «Единая Россия» ко второму чтению бюджета предусмотрела приоритетные поправки на развитие науки](https://cdn.er.ru/media/news/November2024/WW4mjISvTEZp7oGlLSet-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-ko-vtoromu-chteniyu-byudzheta-predusmotrela-prioritetnye-popravki-na-razvitie-nauki)
 
-[Владимир Якушев: Встречи с секретарями первичек «Единой России» дают возможность понять, что именно волнует людей на местах](https://er.ru/activity/news/vladimir-yakushev-vstrechi-s-sekretaryami-pervichek-edinoj-rossii-dayut-vozmozhnost-ponyat-chto-imenno-volnuet-lyudej-na-mestah)
+[Александр Мажуга: «Единая Россия» ко второму чтению бюджета предусмотрела приоритетные поправки на развитие науки](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-ko-vtoromu-chteniyu-byudzheta-predusmotrela-prioritetnye-popravki-na-razvitie-nauki)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Волгоградская область](https://er.ru/activity/news?tags%5B0%5D=444) [#первички](https://er.ru/activity/news?tags%5B0%5D=127619) [#советпервичек](https://er.ru/activity/news?tags%5B0%5D=128798) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-12.11.24
+Сегодня 12:05
 
-[![«Единая Россия» проведёт Единый день приёма граждан, приуроченный к Международному дню слепых](https://cdn.er.ru/media/news/November2024/PxZX5tDIPl8tTzwoosB4-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-provedyot-edinyj-den-priyoma-grazhdan-priurochennyj-k-mezhdunarodnomu-dnyu-slepyh)
+[![Алексей Гордеев: При поддержке «Единой России» бюджет на комплексное развитие сельских территорий увеличится](https://cdn.er.ru/media/news/November2024/8yHDKWzUAn2JALKF39m1-small.jpg)](https://er.ru/activity/news/aleksej-gordeev-pri-podderzhke-edinoj-rossii-byudzhet-na-kompleksnoe-razvitie-selskih-territorij-uvelichitsya)
 
-[«Единая Россия» проведёт Единый день приёма граждан, приуроченный к Международному дню слепых](https://er.ru/activity/news/edinaya-rossiya-provedyot-edinyj-den-priyoma-grazhdan-priurochennyj-k-mezhdunarodnomu-dnyu-slepyh)
+[Алексей Гордеев: При поддержке «Единой России» бюджет на комплексное развитие сельских территорий увеличится](https://er.ru/activity/news/aleksej-gordeev-pri-podderzhke-edinoj-rossii-byudzhet-na-kompleksnoe-razvitie-selskih-territorij-uvelichitsya)
 
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640) [#международныйденьслепых](https://er.ru/activity/news?tags%5B0%5D=140985) [#единыйденьприёмаграждан](https://er.ru/activity/news?tags%5B0%5D=113405) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#всероссийскоеобществослепых](https://er.ru/activity/news?tags%5B0%5D=124639) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ЕдинаяСтранаДоступнаяСреда](https://er.ru/activity/news?tags%5B0%5D=1090017)
+[#Гордеев](https://er.ru/activity/news?tags%5B0%5D=2510) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#развитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=118666)
 
-12.11.24
+Сегодня 11:28
 
-[![Владимир Путин отметил работу фракции «Единой России» в Госдуме](https://cdn.er.ru/media/news/November2024/yfJRriNpmtMyrzNOnwSb-small.jpg)](https://er.ru/activity/news/vladimir-putin-otmetil-rabotu-frakcii-edinoj-rossii-v-gosdume)
+[![Владимир Якушев оценил ход восстановительных работ в ДНР](https://cdn.er.ru/media/news/November2024/Ykmy8MmZr2bjZQF8S9QB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-ocenil-hod-vosstanovitelnyh-rabot-v-dnr)
 
-[Владимир Путин отметил работу фракции «Единой России» в Госдуме](https://er.ru/activity/news/vladimir-putin-otmetil-rabotu-frakcii-edinoj-rossii-v-gosdume)
+[Владимир Якушев оценил ход восстановительных работ в ДНР](https://er.ru/activity/news/vladimir-yakushev-ocenil-hod-vosstanovitelnyh-rabot-v-dnr)
 
-[#Путин](https://er.ru/activity/news?tags%5B0%5D=60) [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838)
 
-12.11.24
+Сегодня 09:10
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
