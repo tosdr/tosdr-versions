@@ -112,7 +112,7 @@ You hereby agree to indemnify and hold harmless RealVPN, its affiliated and asso
 ###### RealVPN](https://realvpn.io/)
 
 * [](https://www.facebook.com/realvpn.io/)
-* [](https://twitter.com/realvpn_io)
+* [](https://x.com/realvpn_io)
 * [](https://www.instagram.com/realvpn.io)
 
 ###### Company
