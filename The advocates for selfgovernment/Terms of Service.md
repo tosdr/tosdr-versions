@@ -160,31 +160,31 @@ Enable Dark Mode
     
     [Libertarian
     
-    What it Means to be a Libertarian
+    Liberty. Responsibility. Voluntarism. Tolerance.
     
     Read more](https://www.theadvocates.org/libertarian/)
     
     [Conservative
     
-    What it Means to be a Conservative
+    Tradition. Order. Security. Prudence.
     
     Read more](https://www.theadvocates.org/conservative/)
     
     [Progressive
     
-    What it Means to be a Progressive
+    Equality. Fairness. Diversity. Change.
     
     Read more](https://www.theadvocates.org/liberal/)
     
     [Moderate
     
-    What it Means to be a Moderate
+    Balance. Compromise. Stability. Cooperation.
     
     Read more](https://www.theadvocates.org/moderate/)
     
     [Authoritarian
     
-    What it Means to be a Authoritarian
+    Control. Power. Compliance. Regulation.
     
     Read more](https://www.theadvocates.org/authoritarian/)
     
@@ -420,10 +420,10 @@ Enable Dark Mode
 
 [![Advocates For Self-Government](/wp-content/uploads/2024/05/asg-logo-transparent.svg)](https://www.theadvocates.org/)
 
-![](/wp-content/uploads/2024/05/asg-logo-transparent.svg)
+[![](/wp-content/uploads/2024/05/asg-logo-transparent.svg)](https://www.theadvocates.org/)
 
-* [ASG Stream](https://asg.stream/)
-* [Our Store](https://shop.theadvocates.org/)
+* [Support Us](https://www.theadvocates.org/donate/)
+* [Shop Our Merch](https://shop.theadvocates.org/)
 
 * [](https://x.com/TheAdvocates)
 * [](https://www.facebook.com/SelfGov)
@@ -643,6 +643,8 @@ Articles
     
     Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
     
+
+[](#)[](#)
 
 ### Terms & Conditions
 
