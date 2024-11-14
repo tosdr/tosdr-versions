@@ -7,50 +7,6 @@ Site search input
 * [Sign In](https://www.teachervision.com/user/login?destination=/tv/membership-terms)
 * [Sign Up](https://www.teachervision.com/upgrade-premium?destination=/tv/membership-terms)
 
-* [Report Card Comments](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
-    
-    [50 Quick Report Card Comments](https://www.teachervision.com/blog/morning-announcements/50-quick-report-card-comments)
-    
-    [Academic Achievement & Improvement](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-academic-achievement-improvement)
-    
-    [Advice for Parents](https://www.teachervision.com/report-cards-advice-suggested-comments/report-cards-advice-for-parents)
-    
-    [All Subjects](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
-    
-    [Character and Social Traits](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-character-and-social-emotional)
-    
-    [Citizenship](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-citizenship)
-    
-    [Distance Learning and Homeschooling](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-distance-learning)
-    
-    [ESL Students](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-esl-students)
-    
-    [End of Year](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-end-year)
-    
-    [Essentials Kit](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments/grading-and-report-card-comments-essentials-kit)
-    
-    [Handwriting](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-general-handwriting)
-    
-    [Kindergarten](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-for-kindergarten)
-    
-    [Language Arts and Reading](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-language-arts-reading)
-    
-    [Math](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-math)
-    
-    [Personality & Attitude](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-personality-attitude)
-    
-    [Positive Descriptions of Student Behavior](https://www.teachervision.com/report-cards-advice-suggested-comments/positive-descriptions-student-behavior)
-    
-    [Preschool](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-preschool)
-    
-    [Science](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-science)
-    
-    [Social Studies](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-social-studies)
-    
-    [Work and Study Habits](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-work-habits)
-    
-    [All Report Card Comments](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
-    
 * [Subjects](https://www.teachervision.com/subject)
     
     [Art](https://www.teachervision.com/resources/art-music-drama)
@@ -117,6 +73,103 @@ Site search input
     
     [All Grades](https://www.teachervision.com/grade)
     
+* [Report Card Comments](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
+    
+    [50 Quick Report Card Comments](https://www.teachervision.com/blog/morning-announcements/50-quick-report-card-comments)
+    
+    [Academic Achievement & Improvement](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-academic-achievement-improvement)
+    
+    [Advice for Parents](https://www.teachervision.com/report-cards-advice-suggested-comments/report-cards-advice-for-parents)
+    
+    [All Subjects](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
+    
+    [Character and Social Traits](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-character-and-social-emotional)
+    
+    [Citizenship](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-citizenship)
+    
+    [Distance Learning and Homeschooling](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-distance-learning)
+    
+    [ESL Students](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-esl-students)
+    
+    [End of Year](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-end-year)
+    
+    [Essentials Kit](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments/grading-and-report-card-comments-essentials-kit)
+    
+    [Handwriting](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-general-handwriting)
+    
+    [Kindergarten](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-for-kindergarten)
+    
+    [Language Arts and Reading](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-language-arts-reading)
+    
+    [Math](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-math)
+    
+    [Personality & Attitude](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-personality-attitude)
+    
+    [Positive Descriptions of Student Behavior](https://www.teachervision.com/report-cards-advice-suggested-comments/positive-descriptions-student-behavior)
+    
+    [Preschool](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-preschool)
+    
+    [Science](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-science)
+    
+    [Social Studies](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-social-studies)
+    
+    [Work and Study Habits](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-work-habits)
+    
+    [All Report Card Comments](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
+    
+* [Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
+    
+    [Hispanic Heritage Month](https://www.teachervision.com/activity/hispanic-heritage-month-warm-up-writing-prompts)
+    
+    [Animal Habitats](https://www.teachervision.com/reading-comprehension/science-reading-warm-up-animal-habitats)
+    
+    [High School Grammar Packet](https://www.teachervision.com/grammar/high-school-grammar-warm-ups-packet)
+    
+    [Math](https://www.teachervision.com/daily-warm-ups/math)
+    
+    [Middle School Grammar Packet](https://www.teachervision.com/printable/middle-school-grammar-warm-up-packet)
+    
+    [Mountains](https://www.teachervision.com/reading-comprehension/geography-reading-warm-up-mountains)
+    
+    [Numbers and Numeration](https://www.teachervision.com/numbers-number-sense/math-warm-up-3-for-gr-5-6-numbers-and-numeration)
+    
+    [Reading](https://www.teachervision.com/daily-warm-ups/reading)
+    
+    [All Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
+    
+* [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+    
+    [Top 10 Most Popular](https://www.teachervision.com/graphic-organizer/top-10-most-popular-graphic-organizers)
+    
+    [Analogy Organizer](https://www.teachervision.com/graphic-organizer/analogy-organizer)
+    
+    [Argumentative Writing](https://www.teachervision.com/graphic-organizer/argumentative-writing)
+    
+    [Cause and Effect](https://www.teachervision.com/reading/cause-effect-graphic-organizer)
+    
+    [Chart, Three-Column](https://www.teachervision.com/graphic-organizer/chart-three-column)
+    
+    [Citing My Sources](https://www.teachervision.com/citing-my-sources-graphic-organizer)
+    
+    [Five-Paragraph Essay](https://www.teachervision.com/graphic-organizer/five-paragraph-essay)
+    
+    [General KWL Chart](https://www.teachervision.com/graphic-organizer/general-kwl-chart-version-3)
+    
+    [Literature](https://www.teachervision.com/graphic-organizer/top-20-literature-graphic-organizers-gallery)
+    
+    [Math](https://www.teachervision.com/graphic-organizer/math-graphic-organizers-gallery)
+    
+    [Research Paper Outline](https://www.teachervision.com/research-paper-outline-graphic-organizer)
+    
+    [Setting SMART Goals](https://www.teachervision.com/graphic-organizer/setting-smart-goals-student-worksheet)
+    
+    [Using "KWL" In Your Classroom Strategy](https://www.teachervision.com/graphic-organizer/using-kwl-classroom)
+    
+    [Writing](https://www.teachervision.com/writing/top-10-writing-graphic-organizers-gallery)
+    
+    [All Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+    
+* [Blog](https://www.teachervision.com/blog/morning-announcements "TeacherVision Blog")
 
 [![ logo](/themes/custom/tv_radix/logo.svg)](https://www.teachervision.com/)
 
@@ -126,10 +179,6 @@ Site search input
     
     [Home](https://www.teachervision.com/my-teachervision) [Favorites](https://www.teachervision.com/my-teachervision/user/favorites) [Profile](https://www.teachervision.com/my-teachervision/profile) [Subscription](https://www.teachervision.com/my-teachervision/subscription) [Today](https://www.teachervision.com/my-teachervision/today)
     
-* [Report Card Comments](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
-    
-    [50 Quick Report Card Comments](https://www.teachervision.com/blog/morning-announcements/50-quick-report-card-comments) [Academic Achievement & Improvement](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-academic-achievement-improvement) [Advice for Parents](https://www.teachervision.com/report-cards-advice-suggested-comments/report-cards-advice-for-parents) [All Subjects](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments) [Character and Social Traits](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-character-and-social-emotional) [Citizenship](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-citizenship) [Distance Learning and Homeschooling](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-distance-learning) [ESL Students](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-esl-students) [End of Year](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-end-year) [Essentials Kit](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments/grading-and-report-card-comments-essentials-kit) [Handwriting](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-general-handwriting) [Kindergarten](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-for-kindergarten) [Language Arts and Reading](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-language-arts-reading) [Math](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-math) [Personality & Attitude](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-personality-attitude) [Positive Descriptions of Student Behavior](https://www.teachervision.com/report-cards-advice-suggested-comments/positive-descriptions-student-behavior) [Preschool](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-preschool) [Science](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-science) [Social Studies](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-social-studies) [Work and Study Habits](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-work-habits)
-    
 * [Subjects](https://www.teachervision.com/subject)
     
     [Art](https://www.teachervision.com/resources/art-music-drama) [Health and Safety](https://www.teachervision.com/subjects/health-safety) [Language Arts and Writing](https://www.teachervision.com/subjects/language-arts-writing) [Languages](https://www.teachervision.com/subjects/language-arts-writing/foreign-languages) [Mathematics](https://www.teachervision.com/subjects/mathematics) [Music](https://www.teachervision.com/resources/music) [Physical Education](https://www.teachervision.com/subjects/health-safety/physical-education-fitness) [Library](https://www.teachervision.com/subjects/reading-literature/library-resources) [Reading and Literature](https://www.teachervision.com/subjects/reading-literature) [Geography](https://www.teachervision.com/resources/geography) [Science](https://www.teachervision.com/subjects/science) [Government](https://www.teachervision.com/resources/us-government) [Social Studies and History](https://www.teachervision.com/subjects/social-studies-history) [21st Century Skills-SEL](https://www.teachervision.com/futurefit)
@@ -138,6 +187,19 @@ Site search input
     
     [Early Learning](https://www.teachervision.com/grades/early-learning) [Pre-K](https://www.teachervision.com/grades/pre-k) [Kindergarten](https://www.teachervision.com/grades/kindergarten) [1st Grade](https://www.teachervision.com/grades/1st-grade) [2nd Grade](https://www.teachervision.com/grades/2nd-grade) [3rd Grade](https://www.teachervision.com/grades/3rd-grade) [4th Grade](https://www.teachervision.com/grades/4th-grade) [5th Grade](https://www.teachervision.com/grades/5th-grade) [6th Grade](https://www.teachervision.com/grades/6th-grade) [7th Grade](https://www.teachervision.com/grades/7th-grade) [8th Grade](https://www.teachervision.com/grades/8th-grade) [9th Grade](https://www.teachervision.com/grades/9th-grade) [10th Grade](https://www.teachervision.com/grades/10th-grade) [11th Grade](https://www.teachervision.com/grades/11th-grade) [12th Grade](https://www.teachervision.com/grades/12th-grade)
     
+* [Report Card Comments](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments)
+    
+    [50 Quick Report Card Comments](https://www.teachervision.com/blog/morning-announcements/50-quick-report-card-comments) [Academic Achievement & Improvement](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-academic-achievement-improvement) [Advice for Parents](https://www.teachervision.com/report-cards-advice-suggested-comments/report-cards-advice-for-parents) [All Subjects](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments) [Character and Social Traits](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-character-and-social-emotional) [Citizenship](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-citizenship) [Distance Learning and Homeschooling](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-distance-learning) [ESL Students](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-esl-students) [End of Year](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-end-year) [Essentials Kit](https://www.teachervision.com/teaching-strategies/report-cards-advice-suggested-comments/grading-and-report-card-comments-essentials-kit) [Handwriting](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-general-handwriting) [Kindergarten](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-for-kindergarten) [Language Arts and Reading](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-language-arts-reading) [Math](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-math) [Personality & Attitude](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-personality-attitude) [Positive Descriptions of Student Behavior](https://www.teachervision.com/report-cards-advice-suggested-comments/positive-descriptions-student-behavior) [Preschool](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-for-preschool) [Science](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-science) [Social Studies](https://www.teachervision.com/report-cards-advice-suggested-comments/report-card-comments-phrases-social-studies) [Work and Study Habits](https://www.teachervision.com/teaching-strategies/report-card-comments-phrases-work-habits)
+    
+* [Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
+    
+    [Hispanic Heritage Month](https://www.teachervision.com/activity/hispanic-heritage-month-warm-up-writing-prompts) [Animal Habitats](https://www.teachervision.com/reading-comprehension/science-reading-warm-up-animal-habitats) [High School Grammar Packet](https://www.teachervision.com/grammar/high-school-grammar-warm-ups-packet) [Math](https://www.teachervision.com/daily-warm-ups/math) [Middle School Grammar Packet](https://www.teachervision.com/printable/middle-school-grammar-warm-up-packet) [Mountains](https://www.teachervision.com/reading-comprehension/geography-reading-warm-up-mountains) [Numbers and Numeration](https://www.teachervision.com/numbers-number-sense/math-warm-up-3-for-gr-5-6-numbers-and-numeration) [Reading](https://www.teachervision.com/daily-warm-ups/reading)
+    
+* [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+    
+    [Top 10 Most Popular](https://www.teachervision.com/graphic-organizer/top-10-most-popular-graphic-organizers) [Analogy Organizer](https://www.teachervision.com/graphic-organizer/analogy-organizer) [Argumentative Writing](https://www.teachervision.com/graphic-organizer/argumentative-writing) [Cause and Effect](https://www.teachervision.com/reading/cause-effect-graphic-organizer) [Chart, Three-Column](https://www.teachervision.com/graphic-organizer/chart-three-column) [Citing My Sources](https://www.teachervision.com/citing-my-sources-graphic-organizer) [Five-Paragraph Essay](https://www.teachervision.com/graphic-organizer/five-paragraph-essay) [General KWL Chart](https://www.teachervision.com/graphic-organizer/general-kwl-chart-version-3) [Literature](https://www.teachervision.com/graphic-organizer/top-20-literature-graphic-organizers-gallery) [Math](https://www.teachervision.com/graphic-organizer/math-graphic-organizers-gallery) [Research Paper Outline](https://www.teachervision.com/research-paper-outline-graphic-organizer) [Setting SMART Goals](https://www.teachervision.com/graphic-organizer/setting-smart-goals-student-worksheet) [Using "KWL" In Your Classroom Strategy](https://www.teachervision.com/graphic-organizer/using-kwl-classroom) [Writing](https://www.teachervision.com/writing/top-10-writing-graphic-organizers-gallery)
+    
+* [Blog](https://www.teachervision.com/blog/morning-announcements "TeacherVision Blog")
 
 * [Planning](https://www.teachervision.com/lesson-plans)
     
