@@ -5,8 +5,8 @@
 Terms of Use
 ============
 
-North America (United States)
------------------------------
+North America
+-------------
 
 [English](https://www.hbomax.com/terms-of-use/en-us)
 
