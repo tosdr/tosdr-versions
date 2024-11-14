@@ -231,7 +231,7 @@ We use your information to deliver our products and services including to:
 * improve our service to you and your experience with us
 * communicate with you or your representatives about our products and services
 * let you know about other products and services that may be of interest to you
-* respond to your enquiries about our products and services, including with \[CommBank GenAI\].
+* respond to your enquiries about our products and services, including with GenAI.
 
 Improving our business
 
@@ -240,7 +240,7 @@ We use your information to improve the products and services we provide through 
 * reviewing customer feedback and assessing how you use our products and services
 * testing and validating the effectiveness of products, services and system enhancements
 * monitoring and reviewing call recordings, online chats and other business activity for quality assurance, training and compliance purposes
-* we may also use any information you provide through our online chat to improve our automated responses generated with \[Commbank GenAI\].
+* we may also use any information you provide through our online chat to improve our automated responses generated with GenAI.
 
 Managing our operations
 
@@ -363,7 +363,7 @@ We may share your information with our service partners, external service provid
 
 * organisations that we partner with to supply products and services, for example, payment and shopping services, mortgage insurers, loyalty program partners and our product distributors.
 * external service providers that we engage to do some of our work for us, for example mailing houses, debt recovery agencies, legal service providers and information technology, cloud service providers and market research companies.
-* external technology service providers that support \[CommBank GenAI\] (such as Microsoft).
+* external technology service providers that support GenAI (such as Microsoft).
 * people who help us process applications and claims (like assessors and investigators).
 * organisations involved in our funding arrangements (like loan purchasers, investors, advisers, researchers, trustees and rating agencies).
 * auditors, insurers and re-insurers
