@@ -75,14 +75,14 @@ Trending Posts
 
 * [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
+* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
-* [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
-* [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
+* ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
+* [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 
 Close
 
@@ -139,14 +139,14 @@ Trending Posts
 
 * [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
-* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
+* [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
 * [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
-* ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
-* [Noam Chomsky: Neoliberalism and the roots of fascism](https://therealnews.com/noam-chomsky-neoliberalism-and-the-roots-of-fascism)
-* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
-* [Trump, Project 2025, and the plan to bring autocracy to the US](https://therealnews.com/trump-project-2025-and-the-plan-to-bring-autocracy-to-the-us)
+* ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
+* [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
+* [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
+* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
 
 [Skip to content](#main)
 
