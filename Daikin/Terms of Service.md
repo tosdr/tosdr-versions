@@ -35,6 +35,7 @@ GLOBAL
     * [Daikin at a Glance](https://www.daikin.com/air/daikin_brand/glance)
     * [Japan Brand, Daikin](https://www.daikin.com/air/daikin_brand/japanbrand)
     * [Daikin for All Your Needs](https://www.daikin.com/air/daikin_brand/all_your_needs)
+    * [Daikin’s Air Today](https://www.daikin.com/air/daikin_brand/today)
     * [Carbon Neutrality with Air Conditioners](https://www.daikin.com/air/daikin_brand/carbon_neutrality)
 * [DAIKIN TECH-KNOWLEDGE](https://www.daikin.com/air/daikin_techknowledge)
     * [Benefits of Daikin Technology](https://www.daikin.com/air/daikin_techknowledge/benefits)
@@ -303,6 +304,7 @@ Find out more in your region.
 * [Daikin at a Glance](https://www.daikin.com/air/daikin_brand/glance)
 * [Japan Brand, Daikin](https://www.daikin.com/air/daikin_brand/japanbrand)
 * [Daikin for All Your Needs](https://www.daikin.com/air/daikin_brand/all_your_needs)
+* [Daikin’s Air Today](https://www.daikin.com/air/daikin_brand/today)
 * [Carbon Neutrality with Air Conditioners](https://www.daikin.com/air/daikin_brand/carbon_neutrality)
 
 * [Daikin Tech-Knowledge](https://www.daikin.com/air/daikin_techknowledge)
