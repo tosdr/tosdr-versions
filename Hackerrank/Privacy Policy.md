@@ -1,8 +1,10 @@
 [Skip to content](#main)
 
+Hoodie for your thoughts: take the Developer Skills Survey for a chance to win free merch [Start survey](https://www.surveymonkey.com/r/devskillssurvey_2)
+
 69% of tech leaders are preparing their teams for GenAI. Uncover more insights in the AI Skills Report. [Read now](https://www.hackerrank.com/research/ai-skills-report/2024?utm_campaign=ai-skills-2024&utm_source=web-promo-popup&utm_medium=web)
 
-Discover the universities with top developer talent. Based on 860,000 student technical assessments. [Download now](https://www.hackerrank.com/lp/university-tech-talent-infographic?utm_campaign=university-hiring-infographic-2024&utm_source=banner&utm_medium=web)
+Adapt your hiring strategy for an AI-powered future. Uncover more insights in our latest whitepaper. [Read now](https://www.hackerrank.com/lp/next-gen-hiring-wp/?utm_campaign=next-gen-hiring-whitepaper&utm_source=web-promo-popup&utm_medium=web)
 
 [](# "Previous Notification")[](# "Next Notification")
 
