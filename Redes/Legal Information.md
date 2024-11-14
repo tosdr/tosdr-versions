@@ -100,7 +100,15 @@ Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros 
 
 [Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital](http://red.es/es/actualidad/noticias/las-empresas-de-menos-de-3-trabajadores-pueden-solicitar-el-bono-de-3000-euros "Ir al contenido de: Las empresas de menos de 3 trabajadores pueden solicitar el bono de 3.000 euros que ofrece el programa Kit Digital")
 
-![eMerge](/sites/redes/files/styles/ratio_1_1/public/media/images/NOTIWEB%20EMERGE_0.png?h=f6385b08&itok=XJUMFMfd)
+![Descubre a las empresas del Pabellón de España MWC 2025](/sites/redes/files/styles/ratio_1_1/public/media/images/Anuncio%20empresas%20MWC%20RRSS%20%2B%20Web%20v6B_800%20x%20442_web.png?h=96281f56&itok=yfdzvKKB)
+
+Noticia
+
+Internacionalización
+
+Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de MWC Barcelona 2025
+
+[Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de MWC Barcelona 2025](http://red.es/es/actualidad/noticias/redes-selecciona-50-empresas-pabellon-de-espana-mwc-2025 "Ir al contenido de: Red.es selecciona a las 50 empresas que integrarán el Pabellón de España de MWC Barcelona 2025")
 
 Noticia
 
@@ -109,14 +117,6 @@ Internacionalización
 Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas
 
 [Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas](http://red.es/es/actualidad/noticias/abierto-hasta-el-2-de-diciembre-el-plazo-de-inscripciones-para-ser-parte-del "Ir al contenido de: Abierto hasta el 2 de diciembre el plazo de inscripciones para ser parte del Pabellón de España en eMerge Americas")
-
-Noticia
-
-Internacionalización
-
-Un total de 76 startups forman parte del Pabellón de España en la edición 2024 de Web Summit
-
-[Un total de 76 startups forman parte del Pabellón de España en la edición 2024 de Web Summit](http://red.es/es/actualidad/noticias/un-total-76-startups-forman-parte-pabellon-espana-web-summit-2024 "Ir al contenido de: Un total de 76 startups forman parte del Pabellón de España en la edición 2024 de Web Summit")
 
 Noticia
 
