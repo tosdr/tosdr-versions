@@ -83,7 +83,7 @@
     * [简体中文](https://privadovpn.com/zh-cn/privacy-policy/)
     * [繁體中文](https://privadovpn.com/zh-tc/privacy-policy/)
     
-* [Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD&coupon=12mo299-homepage&biannualcoupon=24mo199-homepage&monthcoupon=1mo1099-homepage)
+* [Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD)
 * [Upgrade](https://signup.privadovpn.com/upgrade?token=)
 
 PrivadoVPN Privacy Policy
@@ -292,7 +292,7 @@ Currency
 
 Sign Up
 
-[Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD&coupon=12mo299-homepage&biannualcoupon=24mo199-homepage&monthcoupon=1mo1099-homepage)
+[Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD)
 
 55
 
