@@ -224,7 +224,7 @@ Learn how Cybrary aligns to established industry frameworks](https://www.cybrary
 
 Teams Pricing
 
-Compare features across all plans.](https://www.cybrary.it/upgrade)
+Compare features across all plans.](https://www.cybrary.it/upgrade?team=true)
 
 [![](https://cdn.prod.website-files.com/63eef15e3ff8fd318e9a6888/64759bdd61f63e4571f51ef2_UsersThree.svg)
 
