@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Gloria Williams and Kendrick Lee](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Gloria-Williams-and-Kendrick-Lee-432x243.jpg)](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-receives-fate/)
+1. [![Inset: Jacquelyn Powers (Facebook). Background: Powers being arrested in connection to her daughter's fentanyl overdose (KTVI).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/asdfasdfafdaf-432x243.jpg)](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
     
-    ### [Mother who let boyfriend beat 8-year-old son to death before forcing the boy's siblings to live with his body for a year receives fate](https://lawandcrime.com/crime/mother-who-let-boyfriend-beat-8-year-old-son-to-death-before-forcing-the-boys-siblings-to-live-with-his-body-for-a-year-receives-fate/)
+    ### [Mom gave teen 'pill that she found in her drawer' to treat toothache, 10 hours later she was dead: Police](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
     
-2. [![U.S. District Judge Algenon Marbley (Office of Diversity and Inclusion - The Ohio State University).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Judge-marbley-432x243.jpg)](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
+2. [![Patrick Byrne, Hunter Biden](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Byrne-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
+    
+    ### [Ex-Overstock CEO says Hunter Biden is basically just calling him 'a right-wing nutjob' in order to keep his Iran-themed defamation lawsuit afloat](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
+    
+3. [![U.S. District Judge Algenon Marbley (Office of Diversity and Inclusion - The Ohio State University).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Judge-marbley-432x243.jpg)](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
     
     ### [Clinton-appointed judge pulls reverse retirement card on Trump, rescinds 'senior status' decision after his election win](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
     
-3. [![Jack Smith](https://am22.mediaite.com/lc/cnt/uploads/2024/01/Jack-Smith--432x243.jpg)](https://lawandcrime.com/high-profile/unprecedented-circumstance-justice-department-says-accused-jan-6-rioters-wont-be-getting-the-jack-smith-special/)
+4. [![Inset: Shaelynn Renoblas (Sheriff's Department via WPTA). Background: Manchester University in Indiana (Google Maps).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/threats-432x243.jpg)](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
     
-    ### ['Unprecedented circumstance': Justice Department says accused Jan. 6 rioters won't be getting the Jack Smith special](https://lawandcrime.com/high-profile/unprecedented-circumstance-justice-department-says-accused-jan-6-rioters-wont-be-getting-the-jack-smith-special/)
+    ### ['Air this b---- out': College student allegedly sends threatening texts with gun emojis, then tells cops she has 'a dark sense of humor'](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
     
-4. [![Donald Trump, Mark Meadows](https://am22.mediaite.com/lc/cnt/uploads/2024/08/AP23048676817295-432x243.jpg)](https://lawandcrime.com/supreme-court/supreme-court-justices-offer-no-explanation-as-they-reject-mark-meadows-bid-to-remove-rico-case-to-federal-court/)
+5. [![Haven Duncan, Jaqory Gill and Life Ford](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Laundromat-dryer-suspects-432x243.jpg)](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
     
-    ### [Supreme Court justices offer no explanation as they reject Mark Meadows bid to remove RICO case to federal court](https://lawandcrime.com/supreme-court/supreme-court-justices-offer-no-explanation-as-they-reject-mark-meadows-bid-to-remove-rico-case-to-federal-court/)
-    
-5. [![Left: John Nassif, circled in yellow, inside the U.S. Capitol on Jan. 6, 2021. Justice Department provided photos. Right: The U.S. Supreme Court on Wednesday, Jan. 19, 2022, in Washington, D.C. (AP Photo/Mariam Zuhaib)](https://am23.mediaite.com/lc/cnt/uploads/2024/07/NASSIF-432x243.jpg)](https://lawandcrime.com/high-profile/whose-house-our-house-scotus-swats-away-demand-from-jan-6-rioter-to-reverse-conviction-over-demonstrating-inside-capitol/)
-    
-    ### ['Whose House? Our House!' SCOTUS swats away demand from Jan. 6 rioter to reverse conviction over 'demonstrating' inside Capitol](https://lawandcrime.com/high-profile/whose-house-our-house-scotus-swats-away-demand-from-jan-6-rioter-to-reverse-conviction-over-demonstrating-inside-capitol/)
+    ### [Trio stuffed 6-year-old in dryer spin cycle because he was crying about losing bag of chips: Cops](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
     
 
 [](http://eepurl.com/c89Jdb)
