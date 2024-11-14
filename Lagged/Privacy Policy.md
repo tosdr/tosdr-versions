@@ -229,9 +229,9 @@ Games you might like
 
 [Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
 
-[Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
-
 [Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
+
+[Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
