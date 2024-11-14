@@ -452,7 +452,7 @@ Recommend this page[](#)[](# "Ihren XING-Kontakten zeigen")[](# "Ihren XING-Kont
 
 * [Website Credits](https://www.bertelsmann.com/meta/website-credits/)
 * [Privacy Statement](https://www.bertelsmann.com/meta/privacy/)
-* [Privacy Settings](https://www.bertelsmann.com/cookiedeclaration-cookiebot.jsp)
+* [Cookie-Settings](#)
 * [Sitemap](https://www.bertelsmann.com/meta/sitemap/)
 * [Contact](https://www.bertelsmann.com/news-and-media/contact/)
 * [Compliance](https://www.bertelsmann.com/company/essentials/compliance/)
@@ -494,6 +494,6 @@ Fax: +49 (0) 5241-80-62321
 
 © Bertelsmann SE & Co KGaA
 
-web-bertelsmann-asg-i-0e71b111b30b04673
+web-bertelsmann-asg-i-06f79c08491bbb5ac
 
 ![](/media/layout/images/icons/icon-mail.png)![](/media/layout/images/icons/icon-twitter.png)![](/media/layout/images/icons/icon-linkedin.png) ![](/media/layout/images/icons/icon-google-plus.png)![](/media/layout/images/icons/icon-xing.png)![](/media/layout/images/icons/icon-facebook.png) ![](/media/layout/images/icons/icon-youtube.png)
