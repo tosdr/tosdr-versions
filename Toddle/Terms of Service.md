@@ -314,7 +314,7 @@ Explore Toddle for your school
 Toddle - Terms of Service
 =========================
 
-Last Updated: September 4, 2024
+Last Updated: September 5, 2024
 
 It is Toddle’s mission to help teachers create world-class learning experiences by providing to them a one stop end- to- end solution. To ensure this, it is essential that we create a safe and secure environment where teachers, children and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
