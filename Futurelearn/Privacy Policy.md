@@ -720,6 +720,13 @@ Powered By
 
 ### Other top stories on FutureLearn
 
+* [FutureLearn Wins At The ESG & Sustainability Awards 2024](https://www.futurelearn.com/info/press/futurelearn-wins-at-the-esg-sustainability-awards-2024)
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------
+    
+    FutureLearn, the UK’s leading online learning platform, is proud to announce it has won an …
+    
+    Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
+    
 * [COP29: FutureLearn Encourages Learners To Be A Force For Good](https://www.futurelearn.com/info/press/cop29-futurelearn-encourages-learners-to-be-a-force-for-good)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
@@ -740,15 +747,6 @@ Powered By
     FutureLearn, the online career-based learning platform, joins celebrations for National STEM Day with a focus …
     
     Category: [Press](https://www.futurelearn.com/info/press), [Press Releases](https://www.futurelearn.com/info/press-releases)
-    
-* [![Why Choose Online Degree Blog Header 1500x750](https://cdn-wordpress-info.futurelearn.com/wp-content/uploads/Why_Choose_Online_Degree_Blog_Header_1500x750-150x150.jpg.optimal.jpg "Why Choose Online Degree Blog Header 1500x750")](https://www.futurelearn.com/info/blog/why-choose-an-online-degree)
-    
-    [Why choose an online degree?](https://www.futurelearn.com/info/blog/why-choose-an-online-degree)
-    -------------------------------------------------------------------------------------------------
-    
-    Interested in furthering your education with an online degree? We take a look at the …
-    
-    Category: [Degrees](https://www.futurelearn.com/info/faq/degrees), [General](https://www.futurelearn.com/info/blog/general), [Learning](https://www.futurelearn.com/info/blog/learning)
     
 
 ### Register for free to receive relevant updates on courses and news from FutureLearn.
