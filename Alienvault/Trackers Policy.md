@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### Fake Job Ads and Fake Identities: How North Korea Gets Its Hands on Our Data
+            ##### LevelBlue Cybersecurity Awareness Month Recap
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/fake-job-ads-and-fake-identities-how-north-korea-gets-its-hands-on-our-data)
+            [Learn more](https://levelblue.com/blogs/security-essentials/levelblue-cybersecurity-awareness-month-recap)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -433,13 +433,13 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 From the Blog
 
-![Nahla Davies](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Nahla Davies
+#### Theresa Lanowitz
 
-Nov 13, 2024
+Nov 14, 2024
 
-### [Fake Job Ads and Fake Identities: How North Korea Gets Its Hands on Our Data](https://levelblue.com/blogs/security-essentials/fake-job-ads-and-fake-identities-how-north-korea-gets-its-hands-on-our-data)
+### [LevelBlue Cybersecurity Awareness Month Recap](https://levelblue.com/blogs/security-essentials/levelblue-cybersecurity-awareness-month-recap)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
