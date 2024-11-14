@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_360x203.jpg)](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
+    *  [![](https://media.king5.com/assets/KING/images/598627f2-ca5f-4911-8b95-c6210b5981d4/20241114T020045/598627f2-ca5f-4911-8b95-c6210b5981d4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/598627f2-ca5f-4911-8b95-c6210b5981d4/20241114T020045/598627f2-ca5f-4911-8b95-c6210b5981d4_360x203.jpg)](https://www.king5.com/article/news/community/ferndale-food-bank-overcomes-adversity-strengthen-community/281-94ed564c-0558-4267-a527-3440904df293)
         
-        #### [Car thefts down 30% in Washington state in 2024, officials say](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a) [![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2a1c76c8-2a47-4999-aa32-1dc52681f131/20240727T014938/2a1c76c8-2a47-4999-aa32-1dc52681f131_360x203.jpg)](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
+        #### [Ferndale Food Bank overcomes adversity to strengthen community](https://www.king5.com/article/news/community/ferndale-food-bank-overcomes-adversity-strengthen-community/281-94ed564c-0558-4267-a527-3440904df293)
         
-        #### [Washington state sees 30% drop in car thefts so far this year, data shows](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
-    *  [![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_16x9.jpg) ![](https://media.king5.com/assets/KING/images/28f06813-9a26-49af-9fba-7055a5ab4584/20241010T062254/28f06813-9a26-49af-9fba-7055a5ab4584_360x203.jpg)](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoff-notices-delivered-wednesday-this-week/281-8570a0d7-608c-4262-98f4-5278918da655)
+    *  [![](https://media.king5.com/assets/KING/images/61cee59e-ae6c-4b2e-8898-1c1e537f9235/20241114T014555/61cee59e-ae6c-4b2e-8898-1c1e537f9235_16x9.jpg) ![](https://media.king5.com/assets/KING/images/61cee59e-ae6c-4b2e-8898-1c1e537f9235/20241114T014555/61cee59e-ae6c-4b2e-8898-1c1e537f9235_360x203.jpg)](https://www.king5.com/article/news/local/county-commissioner-pleads-not-guilty-election-night-dui-arrest/281-51e2d602-bcf6-423b-ab5a-aa8cee4d1a94)
         
-        #### [Employees will start receiving Boeing layoff notices Wednesday](https://www.king5.com/article/tech/science/aerospace/boeing/boeing-layoff-notices-delivered-wednesday-this-week/281-8570a0d7-608c-4262-98f4-5278918da655)
+        #### [County commissioner pleads not guilty following election night DUI arrest](https://www.king5.com/article/news/local/county-commissioner-pleads-not-guilty-election-night-dui-arrest/281-51e2d602-bcf6-423b-ab5a-aa8cee4d1a94)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -57,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/72544b97-eb5f-46c7-bfec-6b88dc4021a3/20241113T125928/72544b97-eb5f-46c7-bfec-6b88dc4021a3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/72544b97-eb5f-46c7-bfec-6b88dc4021a3/20241113T125928/72544b97-eb5f-46c7-bfec-6b88dc4021a3_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/be150937-c6b3-4e6c-b69f-15ea50c295d5/20241114T015225/be150937-c6b3-4e6c-b69f-15ea50c295d5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/be150937-c6b3-4e6c-b69f-15ea50c295d5/20241114T015225/be150937-c6b3-4e6c-b69f-15ea50c295d5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-53°
+51°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
