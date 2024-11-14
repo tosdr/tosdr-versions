@@ -44,35 +44,35 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ Binance Account hack 6E](https://pastebin.com/1SZTpP3X)
+* [NETFLIX UHD ACCOUNTS](https://pastebin.com/ePy0fbhQ)
     
-    JavaScript | 1 sec ago | 0.18 KB
+    JavaScript | 1 sec ago | 0.09 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/gU7xcwae)
+* [Binance Accounts Leaked](https://pastebin.com/PUYFYwmJ)
     
-    JavaScript | 2 sec ago | 0.05 KB
+    JavaScript | 2 sec ago | 0.09 KB
     
-* [Binance Accounts Leaked](https://pastebin.com/hfCHLQxf)
-    
-    JavaScript | 3 sec ago | 0.09 KB
-    
-* [Chaturbate Accounts with Tokens](https://pastebin.com/aVCVQBRe)
+* [Binance Accounts Leaked](https://pastebin.com/Kri1YMTy)
     
     JavaScript | 3 sec ago | 0.09 KB
     
-* [⭐ Binance Account hack PR](https://pastebin.com/5cyTpTXK)
+* [⭐ get any gift card for EO](https://pastebin.com/T3Aij2JP)
     
-    JavaScript | 4 sec ago | 0.18 KB
+    JavaScript | 3 sec ago | 0.18 KB
     
-* [⭐ FREE giftcards method](https://pastebin.com/tzrje78j)
+* [Leaked by Zak](https://pastebin.com/GWT0M27k)
+    
+    JavaScript | 4 sec ago | 0.09 KB
+    
+* [⭐ FREE giftcards method](https://pastebin.com/gf8guhYt)
     
     JavaScript | 7 sec ago | 0.05 KB
     
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/wyrmVMwy)
+* [BTC ACCOUNTS HACKED](https://pastebin.com/JpsxGr3x)
     
-    JavaScript | 7 sec ago | 0.09 KB
+    JavaScript | 8 sec ago | 0.09 KB
     
-* [NETFLIX UHD ACCOUNTS](https://pastebin.com/UD54Ma1M)
+* [Brazzers accounts](https://pastebin.com/thEBu8Jx)
     
     JavaScript | 8 sec ago | 0.09 KB
     
