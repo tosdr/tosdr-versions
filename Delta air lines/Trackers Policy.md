@@ -5,13 +5,13 @@ Delta Advertising Guidelines
 
 #### DELTA SKYMEDIA GUIDELINES FOR ACCEPTABLE ADVERTISING
 
-**Delta SkyMediaTM General Guidelines for Acceptable Advertising**
+**Delta SkyMediaTM General Guidelines for Acceptable Advertising**
 
 Delta reserves the right to reject advertising creative based on content, in its sole discretion.
 
 Representative cannot accept advertisements for airline competitors, adult content (i.e., tobacco, pornography, gambling), or companies that promote the sale of travel.
 
-All advertising creative must perform acceptably on the channel platform and adhere to these guidelines.  Delta reserves the right to reject or to suspend any placement that is deemed by Delta to be disruptive to service or performance or is reported to negatively affect our customer experience.  The content must meet the requirement listed below.
+All advertising creative must perform acceptably on the channel platform and adhere to these guidelines. Delta reserves the right to reject or to suspend any placement that is deemed by Delta to be disruptive to service or performance or is reported to negatively affect our customer experience. The content must meet the requirement listed below.
 
 * The Advertiser must fulfill the advertised offer as stated in the advertisement, including without limitation, not altering any offer periods, product offers or prices that are stated in the advertisement unless Advertiser has obtained prior approval.
 * Advertisements cannot mislead customers.
@@ -46,6 +46,6 @@ No trip insurance providers or offers
 
 No advertising from organizations similar to The Nature Conservancy or The Breast Cancer Research Foundation.
 
-No competing loyalty programs, unless a co-branded ad/partnership with SkyMiles – e.g. Starwood / SPG could be referenced only as an ad co-branded with SkyMiles
+No competing loyalty programs, unless a co-branded ad/partnership with SkyMiles – e.g. Starwood / SPG could be referenced only as an ad co-branded with SkyMiles.
 
-No advertising from any company or organization if such advertising would conflict with an exclusivity arrangement Delta has with another company or organization.  Upon request, Delta will provide a current list of companies or organizations with which Delta has an exclusivity arrangement.
+No advertising from any company or organization if such advertising would conflict with an exclusivity arrangement Delta has with another company or organization. Upon request, Delta will provide a current list of companies or organizations with which Delta has an exclusivity arrangement.
