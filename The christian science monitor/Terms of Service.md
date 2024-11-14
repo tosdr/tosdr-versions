@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Resilience
+
+### Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.](https://www.csmonitor.com/World/Europe/2024/1114/ukraine-war-pokrovsk-siege-russian-invasion-drones "Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.")
+
+[Forgiveness
+
+### Look who seeks Ethiopia’s postwar healing](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1114/Look-who-seeks-Ethiopia-s-postwar-healing "Look who seeks Ethiopia’s postwar healing")
+
 [Dignity
 
 ### A ride for freedom in China](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1113/A-ride-for-freedom-in-China "A ride for freedom in China")
-
-[Innovation
-
-### Abandoned ‘ghost gear’ kills sea life. A Myanmar nonprofit is turning the tide.](https://www.csmonitor.com/World/Making-a-difference/2024/1113/myanmar-ocean-project-marine-conservation "Abandoned ‘ghost gear’ kills sea life. A Myanmar nonprofit is turning the tide.")
-
-[Balance
-
-### Europe’s path for a just migration](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1112/Europe-s-path-for-a-just-migration "Europe’s path for a just migration")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 13, 2024
+November 14, 2024
 
-What we say, and what we vote
+A story for Ukraine, and the world
 
-Sometimes wake-up calls are important. As American politics shows us, the fight against climate change has its advocates and its detractors. But polls show most people are concerned. Most people say they want action.In her story today, Stephanie Hanes reveals the limits to that sentiment. It’s not that people don’t care. It’s that they care about other things more, and they’re also not super excited about making sacrifices, surprisingly enough. It’s a reminder that Election Day is often the best gauge of what voters really want, not of what they say.
+Two weeks ago, the Monitor’s Howard LaFranchi was the rare reporter to get into Pokrovsk, Ukraine, which is facing a tough Russian onslaught. It hasn’t fallen, something many expected in September, when Monitor writer Dominique Soguel reported from there about civilian evacuations.It’s a story that has meaning not only for Ukrainians but for the world as well. Yet a group of Ukrainian officials who visited the Monitor recently posed a searing question: Are Americans thinking of us as we struggle to defend our democracy? One woman told of her father, who was killed fighting last year. Her husband is a soldier as well. Eventually, she said, I, too, may wear a uniform.Their commitment to their freedom was unassailable. We reassured them that our commitment to sharing their stories is the same.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.](https://www.csmonitor.com/World/Europe/2024/1114/ukraine-war-pokrovsk-siege-russian-invasion-drones "Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.")
+
+[### Trump leaves European allies fearing for their future](https://www.csmonitor.com/World/Europe/2024/1114/trump-europe-weakens-allies "Trump leaves European allies fearing for their future")
+
 [### In Lebanon, Hezbollah pays high political cost for its war with Israel](https://www.csmonitor.com/World/Middle-East/2024/1113/hezbollah-israel-lebanon-politics-christians-shiites "In Lebanon, Hezbollah pays high political cost for its war with Israel")
-
-[### A British ‘culture warrior’? Kemi Badenoch sets Conservatives on populist path.](https://www.csmonitor.com/World/Europe/2024/1113/kemi-badenoch-conservative-uk-british-woke-culture-war "A British ‘culture warrior’? Kemi Badenoch sets Conservatives on populist path.")
-
-[### Florida residents ramp up efforts to pull ‘sexually explicit’ books from school shelves](https://www.csmonitor.com/USA/2024/1113/Florida-banned-books-school-libraries-Angelou-Morrison "Florida residents ramp up efforts to pull ‘sexually explicit’ books from school shelves")
 
 * * *
 
