@@ -671,7 +671,7 @@ About
 
 ![arrow](https://cdn.prod.website-files.com/671fb31e0ed79c76c93e0fee/671fb31e0ed79c76c93e12f0_Vector%2010%20(1).svg)
 
-[Team](https://www.axiomspace.com/team)[Board](https://www.axiomspace.com/board)[Partners](https://www.axiomspace.com/partners)[Investors](https://www.axiomspace.com/investors)[Suppliers](https://www.axiomspace.com/suppliers)[Report a Concern](https://www.axiomspace.com/compliance)
+[Team](https://www.axiomspace.com/team)[Partners](https://www.axiomspace.com/partners)[Investors](https://www.axiomspace.com/investors)[Suppliers](https://www.axiomspace.com/suppliers)[Report a Concern](https://www.axiomspace.com/compliance)
 
 Image Detail
 
