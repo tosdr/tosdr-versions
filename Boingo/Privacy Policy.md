@@ -540,7 +540,7 @@ We use cookies to help provide a great user experience. By using Boingo.com, you
 * [MORE](#)
     * [News Releases](https://www.boingo.com/corporate/press-releases/)
     * [News](https://www.boingo.com/corporate/boingo-in-the-news/)
-    * [Awards](https://www.boingo.com/?page_id=4827)
+    * [Awards](https://www.boingo.com/corporate/awards/)
     * [Boingo Cares](https://www.boingo.com/corporate/boingo-cares/)
 
 [A DigitalBridge Company](https://www.digitalbridge.com/)
