@@ -5,7 +5,21 @@ Save
 
 [Comment speech bubble icon](#comment)
 
-Share icon
+Share article
+-------------
+
+* Copy link
+    
+* [X Icon
+    
+    twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
+* [Facebook Icon
+    
+    facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* [WhatsApp Icon
+    
+    whatsapp](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* [email](mailto:?to=&subject=Privacy+and+Cookie+Policy&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
 
 29 September 2024 10:00am BST
 
@@ -13,10 +27,18 @@ Save
 
 [Comment speech bubble icon](#comment)
 
-* [X Icon](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
-* [Facebook Icon](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-* [WhatsApp Icon](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
-* [](mailto:?to=&subject=Privacy+and+Cookie+Policy&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* Copy link
+    
+* [X Icon
+    
+    twitter](https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F&text=Privacy+and+Cookie+Policy)
+* [Facebook Icon
+    
+    facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* [WhatsApp Icon
+    
+    whatsapp](https://wa.me/?text=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
+* [email](mailto:?to=&subject=Privacy+and+Cookie+Policy&body=https%3A%2F%2Fwww.telegraph.co.uk%2Fabout-us%2Fprivacy-and-cookie-policy%2F)
 
 Your privacy is important to us. If you are visiting our Service from the United Kingdom, European Union, or other non-U.S. location, please review our [General Privacy Policy](#UK). If you are visiting our Service from the United States, please review our [U.S. Privacy Policy.](#US)
 
