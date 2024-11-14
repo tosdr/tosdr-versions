@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke
+
+Neues Alzheimer-Medikament zugelassen — Hoffnung für Millionen Demenz-Kranke](https://www.bild.de/leben-wissen/medizin/alzheimer-medikament-lecanemab-jetzt-auch-in-europa-zugelassen-6735e5ccb0ce946580dff7ad)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
