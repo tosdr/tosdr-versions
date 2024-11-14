@@ -362,6 +362,9 @@ it
             * [Target PNRR](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/target-pnrr.html)
             * [Nuovo portale multiservizio ASI](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/nuovo-portale-multiservizio-asi.html)
             * [Servizio di Instant Feedback](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/servizio-di-instant-feedback.html)
+            * [Servizio di informazione personalizzata per i pensionati](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/servizio-di-informazione-personalizzata-per-i-pensionati.html)
+            * [INPS ti consiglia](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/inps-ti-consiglia.html)
+            * [INPS Mobile](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/pnrr---piano-nazionale-ripresa-resilienza/inps-mobile.html)
             
         
     * [Verso la certificazione di parità](https://www.inps.it/it/it/inps-comunica/verso-la-certificazione-di-parita.html)
