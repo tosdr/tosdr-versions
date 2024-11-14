@@ -184,15 +184,15 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Preview** | Il Volo in the Valley of the Temples](https://video.nhpbs.org/video/il-volo-in-the-valley-of-the-temples-preview-xbfpux?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | Broadway's Leading Men: A Musical Celebration](https://video.nhpbs.org/video/broadways-leading-men-a-musical-celebration-preview-umyf1b?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Preview** | HAUSER - Classic Gala Concert Live at the Royal Albert Hall](https://video.nhpbs.org/video/hauser-classic-gala-concert-live-at-the-royal-albert-hall-preview-gon09y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [| The Shamrock Tenors: Live From Belfast](https://video.nhpbs.org/video/the-shamrock-tenors-live-from-belfast-vjge7h?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**With Peter Bradley Trailer** | Local, USA](https://video.nhpbs.org/video/local-usa-with-peter-bradley-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**"China, the U.S. & the Rise of Xi Jinping" - Preview** | FRONTLINE](https://video.nhpbs.org/video/china-the-us-the-rise-of-xi-jinping-preview-4avniv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**A Real Pain** | Flicks](https://video.nhpbs.org/video/a-real-pain-oznk59?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 13, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-13-2024-pbs-news-hour-full-episode-1731474001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Extended Preview** | Lucy Worsley's Holmes vs. Doyle](https://video.nhpbs.org/video/extended-preview-0sedpf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**American Coup: Wilmington 1898** | American Experience](https://video.nhpbs.org/video/american-coup-wilmington-1898-u9qwb9?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Meet the artists in Cheech Marin's Chicano Art collection** | Craft in America](https://video.nhpbs.org/video/meet-the-artists-in-cheech-marins-chicano-art-collection-eao0ap?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 12, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-12-2024-pbs-news-hour-full-episode-1731387601?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Lin-Manuel Miranda and Eisa Davis on Their New Concept Album "Warriors"** | Amanpour and Company](https://video.nhpbs.org/video/lin-manuel-miranda-and-eisa-davis-on-their-new-concept-album-warriors-djoip1?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Building Stuff: Reach It! Preview** | NOVA](https://video.nhpbs.org/video/building-stuff-reach-it-promo-o7sbok?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Episode 4 Scene** | The Marlow Murder Club](https://video.nhpbs.org/video/episode-4-scene-uuxbqy?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**2024 Porsche 911 Dakar & 2024 Hyundai Kona EV** | MotorWeek](https://video.nhpbs.org/video/2024-porsche-911-dakar-2024-hyundai-kona-ev-i0h5i0?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
