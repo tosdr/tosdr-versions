@@ -12,7 +12,7 @@ All rights reserved.
 Product
 
 * [Features](https://railway.app/features)
-* [Docs](https://docs.railway.app/)
+* [Docs](https://docs.railway.com/)
 * [Changelog](https://railway.app/changelog)
 * [Pricing](https://railway.app/pricing)
 * [Templates](https://railway.app/templates)
@@ -23,17 +23,17 @@ Company
 
 * [About](https://railway.app/about)
 * [Careers](https://railway.app/careers)
-* [Blog](https://blog.railway.app/)
+* [Blog](https://blog.railway.com/)
 * [Shop](https://shop.railway.app/)
 * [Trust](https://trust.railway.app/)
 
 Contact
 
-* [Support](https://help.railway.app/)
+* [Support](https://help.railway.com/)
 * [Discord](https://discord.gg/railway)
 * [Twitter](https://twitter.com/Railway)
 * [GitHub](https://github.com/railwayapp)
-* [Email](mailto:team@railway.app)
+* [Email](mailto:team@railway.com)
 * [Enterprise](https://railway.app/legal/privacy#enterprise-calendar-embed)
 
 Legal
