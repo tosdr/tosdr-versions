@@ -288,4 +288,4 @@ Cookies help us deliver our services. By using our services, you agree to our us
 
 * Toggle limited content width
 
-![](https://analytics.wikitide.net/matomo.php?idsite=4692&rec=1&action_name=Privacy_Policy)
+![](https://analytics.wikitide.net/matomo.php?idsite=13543&rec=1&action_name=Privacy_Policy)
