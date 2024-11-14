@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-6b5ca7a52e3a3ef4b44abfb98099e36b
+f91ded7b02d83a5a85593e5645dd8cac
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![4 mm dark peacock seed pearls](https://sojourner.biz/images/cache/pearls/PE0227.200.jpg)](https://sojourner.biz/beads/pearls/4-mm-dark-peacock-seed-pearls.html "4 mm dark peacock seed pearls")
+[![Veined-wing butterfly clasp](https://sojourner.biz/images/cache/SKU0204front.200.jpg)](https://sojourner.biz/clasps/sterling-only/veined-wing-butterfly-clasp.html "Veined-wing butterfly clasp")
 
-#### [4 mm dark peacock seed pearls](https://sojourner.biz/beads/pearls/4-mm-dark-peacock-seed-pearls.html "4 mm dark peacock seed pearls")
+#### [Veined-wing butterfly clasp](https://sojourner.biz/clasps/sterling-only/veined-wing-butterfly-clasp.html "Veined-wing butterfly clasp")
 
-$10.00
+$28.00
 
 ### Best Sellers
 
