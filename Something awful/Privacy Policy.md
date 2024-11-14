@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Photoshop Skills Required](https://www.somethingawful.com/comedy-goldmine/photoshop-skills-required/1/)
-* [A Bear Walks into a Diner ...](https://www.somethingawful.com/photoshop-phriday/bear-ginger-ale/1/)
-* [Variety Pack #26: Fishin' Politicians and The First Lady!](https://www.somethingawful.com/photoshop-phriday/politicians-fishin-michelleobama/1/)
-* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
-* [Help Us Save Synnibarr!](https://www.somethingawful.com/dungeons-and-dragons/save-synnibarr-mccracken/1/)
+* [Street Style](https://www.somethingawful.com/fashion-swat/street-style/1/)
+* [International Male](https://www.somethingawful.com/fashion-swat/international-male/1/)
+* [Biggles!](https://www.somethingawful.com/photoshop-phriday/biggles/1/)
+* [Foodimals](https://www.somethingawful.com/comedy-goldmine/foodimals/1/)
+* [Demographics](https://www.somethingawful.com/guides/demographic-politics-marketing/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Thread for WOKE ANIME ONLY](http://forums.somethingawful.com/showthread.php?threadid=4075345 "Thread for WOKE ANIME ONLY")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Most Amazing Toys of 2024?](http://forums.somethingawful.com/showthread.php?threadid=4075317 "Most Amazing Toys of 2024?")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Most Amazing Toys of 2024?](http://forums.somethingawful.com/showthread.php?threadid=4075317 "Most Amazing Toys of 2024?")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Thread for WOKE ANIME ONLY](http://forums.somethingawful.com/showthread.php?threadid=4075345 "Thread for WOKE ANIME ONLY")
 
 ### Random Articles
 
-* [Goths, Witches, and Wiccans](https://www.somethingawful.com/weekend-web/goths-witches-wiccans/1/)
-* [GI Joe Killaz](https://www.somethingawful.com/awful-links/awful-link-1342/)
-* [The Internationally Beloved Demo Roundup: Part 8](https://www.somethingawful.com/your-band-sucks/internationally-beloved-demo/)
-* [NECRODOMINION](https://www.somethingawful.com/awful-links/awful-link-1242/)
-* [Photoshop Skills Required](https://www.somethingawful.com/comedy-goldmine/photoshop-skills-required/1/)
+* [Variety Pack #1: Yearbook Madness! Middle-earth Madness! Enough with the Ackbar (and the Madness) Already!](https://www.somethingawful.com/photoshop-phriday/variety-pack-1/1/)
+* [Pretend There Is a Pun Using the Word Head Here](https://www.somethingawful.com/news/pretend-there-pun/)
+* [September 17, 2007](https://www.somethingawful.com/forum-fridays/ff09-27-07/1/)
+* [I don't even know, okay](https://www.somethingawful.com/mooflogs/dont-even-know/)
+* [When Pride Cometh, Then Cometh Shame](https://www.somethingawful.com/news/when-pride-cometh/)
 
 [Random!](https://www.somethingawful.com/random/)
 
