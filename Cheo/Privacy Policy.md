@@ -35,7 +35,7 @@ Accessible formats and communication supports are available, please contact [acc
     * [Accessibility](https://www.cheo.on.ca/en/visiting-cheo/accessibility.aspx?_mid_=1555 "View our Accessibility page")
     * [Amenities](https://www.cheo.on.ca/en/visiting-cheo/amenities.aspx "View our Amenities page")
     * [Health Records](https://www.cheo.on.ca/en/visiting-cheo/health-records.aspx "View our Health Records page")
-    * [Maps and locations](https://www.cheo.on.ca/en/visiting-cheo/map-and-locations.aspx "View our Map and locations page")
+    * [Maps and locations](https://www.cheo.on.ca/fr/visiting-cheo/map-and-locations.aspx "View our Map and locations page")
     * [Parking](https://www.cheo.on.ca/en/visiting-cheo/parking.aspx "View our Parking page")
     
     * [Patient safety](https://www.cheo.on.ca/en/visiting-cheo/patient-safety.aspx "View our Patient safety page")
@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Boy looking at camera](/en/rotatingimages/defaultInterior/Banner-13.jpg)
+![Mother and daughter smiling at each other](/en/rotatingimages/defaultInterior/Banner-5.jpg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
