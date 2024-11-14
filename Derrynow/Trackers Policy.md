@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-13 Nov 2024
+14 Nov 2024
 
 * [Home
     
@@ -273,6 +273,15 @@ Most Popular
 [Derry Death Notices - Wednesday, November 13, 2024](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Suspected gas leak in Creggan area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
+
+Suspected gas leak Creggan area of Derry.
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man arrested as police seize quantity of suspected Class B drugs in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as police seize quantity of suspected Class B drugs in Derry")](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
 
 PSNI
@@ -281,15 +290,6 @@ PSNI
 
 [Man arrested as police seize quantity of suspected Class B drugs in Derry](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Magherafelt firm takes the steer on new £13.5M DVA test centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt firm takes the steer on new £13.5M DVA test centre")](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
-
-An artist's impression of how the new state-of-the-art building will look.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Magherafelt firm takes the steer on new £13.5M DVA test centre](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with attempting to commit grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attempting to commit grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
 
@@ -307,6 +307,15 @@ Derry Magistrate's Court
 [Leading Derry dissident republican charged with breaches of counter-terrorism legislation](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Magherafelt firm takes the steer on new £13.5M DVA test centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt firm takes the steer on new £13.5M DVA test centre")](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
+
+An artist's impression of how the new state-of-the-art building will look.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Magherafelt firm takes the steer on new £13.5M DVA test centre](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
 
 Paddy Tally is set to become te new Derry manager.
@@ -316,32 +325,23 @@ Paddy Tally is set to become te new Derry manager.
 [Paddy Tally set to be named as new Derry senior football manager](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New RTÉ kids show stars Derry YouTuber Adam B](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New RTÉ kids show stars Derry YouTuber Adam B")](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+[![SVP appeals for donations as record numbers of families are seeking help](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SVP appeals for donations as record numbers of families are seeking help")](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
 
-Pictured: Rathdowney comedian Mary Claire Fitzpatrick
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Olivia Rodrigo to spill her 'GUTS' as she returns for Summer concert](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Olivia Rodrigo to spill her 'GUTS' as she returns for Summer concert")](https://www.derrynow.com/news/national-news/1653616/olivia-rodrigo-to-spill-her-guts-as-she-returns-for-summer-concert.html)
-
-Tickets are set to go on sale Friday, November 15 at 8am on Ticketmaster,
+Pictured at the launch of the appeal were Doireann Garrihy, Marty Whelan and Mary Kennedy with SVP National President Rose McGowan.Photo Chris Bellew / Fennell Photography
 
 [National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Olivia Rodrigo to spill her 'GUTS' as she returns for Summer concert](https://www.derrynow.com/news/national-news/1653616/olivia-rodrigo-to-spill-her-guts-as-she-returns-for-summer-concert.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[SVP appeals for donations as record numbers of families are seeking help](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge")](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
+[![Bohemians confirm signing of Derry City striker Colm Whelan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
 
-Acorn Farm Kids from Nazareth House School outside Gate Lodge
+Colm Whelan puts pen to paper on a multi-year deal with Bohemians
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,7 +523,43 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Education Minister invited to visit St Brigid's College in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Education Minister invited to visit St Brigid's College in Derry")](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
+[![County Derry teenager named as part of Hitech GP’s British Formula 4 line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry teenager named as part of Hitech GP’s British Formula 4 line-up")](https://www.derrynow.com/news/sport/1655327/county-derry-teenager-named-as-part-of-hitech-gps-british-formula-4-line-up.html)
+
+Fionn McLaughlin is also part of the Red Bull Junior Driver Team (INPHO/Red Bull Content Pool/Joerg Mitter)
+
+[Sport](https://www.derrynow.com/section/976/sport)
+
+[County Derry teenager named as part of Hitech GP’s British Formula 4 line-up](https://www.derrynow.com/news/sport/1655327/county-derry-teenager-named-as-part-of-hitech-gps-british-formula-4-line-up.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![DAERA Minister visits newly improved Manor Park, Moneymore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DAERA Minister visits newly improved Manor Park, Moneymore")](https://www.derrynow.com/news/home/1655228/daera-minister-visits-newly-improved-manor-park-moneymore.html)
+
+Deputy Chair of Mid Ulster District Council, Councillor Wesley Brown is pictured with the DAERA Minister, Andrew Muir MLA and Sharon McGowan and Patrick Cosgrove (DfC).
+
+[Home](https://www.derrynow.com/)
+
+[DAERA Minister visits newly improved Manor Park, Moneymore](https://www.derrynow.com/news/home/1655228/daera-minister-visits-newly-improved-manor-park-moneymore.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/resizer/165/93/true/2018/07/31094705/PSNI-Logo.jpg--.jpg "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
+
+Suspected gas leak Creggan area of Derry.
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Bohemians confirm signing of Derry City striker Colm Whelan](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Colm_Whelan_Bohs-1731527420059.jpg--.jpg?1731527420087 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+
+Colm Whelan puts pen to paper on a multi-year deal with Bohemians
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Education Minister invited to visit St Brigid's College in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_13/IDNT_14-11-24_St_Brigid_s_College_30131240-1731496598787.jpg--.jpg?1731496598831 "Education Minister invited to visit St Brigid's College in Derry")](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
 
 Education Minister Paul Givan has been invited to visit St Brigid’s College.
 
@@ -532,46 +568,12 @@ Education Minister Paul Givan has been invited to visit St Brigid’s College.
 [Education Minister invited to visit St Brigid's College in Derry](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Still time to share views on Northern Trust’s proposals for general surgery services](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Still time to share views on Northern Trust’s proposals for general surgery services")](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
+[![Still time to share views on Northern Trust’s proposals for general surgery services](https://www.derrynow.com/resizer/165/93/true/2023_04_21/mj-1682084428975.png--.png?1682084429096 "Still time to share views on Northern Trust’s proposals for general surgery services")](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
 
 [Home](https://www.derrynow.com/)
 
 [Still time to share views on Northern Trust’s proposals for general surgery services](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Forgotten wartime sites from North Down to the North Coast collated](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_13/1731506721690_0.jpg--.jpg?1731506721725 "Forgotten wartime sites from North Down to the North Coast collated")](https://www.derrynow.com/news/local-news/1655076/forgotten-wartime-sites-from-north-down-to-the-north-coast-collated.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Forgotten wartime sites from North Down to the North Coast collated](https://www.derrynow.com/news/local-news/1655076/forgotten-wartime-sites-from-north-down-to-the-north-coast-collated.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Almost 9,000 emergency food parcels distributed in Foyle in last year ](https://www.derrynow.com/resizer/165/93/true/2024_11_13/foodparcels-1731510491364.jpg--.jpg?1731510491438 "Almost 9,000 emergency food parcels distributed in Foyle in last year ")](https://www.derrynow.com/news/local-news/1654905/almost-9-000-emergency-food-parcels-distributed-in-foyle-in-last-year.html)
-
-Almost 9,000 emergency food parcels distributed in Foyle in last year
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Almost 9,000 emergency food parcels distributed in Foyle in last year](https://www.derrynow.com/news/local-news/1654905/almost-9-000-emergency-food-parcels-distributed-in-foyle-in-last-year.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man charged with attempting to commit grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
-
-Derry Magistrate's Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Acorn_Farm_Kids_from_Nazareth_House_School_outside_Gate_Lodge-1731497541391_1731497564.JPG--.JPG?1731497564540 "Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge")](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
-
-Acorn Farm Kids from Nazareth House School outside Gate Lodge
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry pupils hands-on day of winter gardening at soft launch of Derry's Gate Lodge](https://www.derrynow.com/news/local-news/1654608/derry-pupils-hands-on-day-of-winter-gardeningat-soft-launch-of-derry-s-gate-lodge.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
