@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it”
+“ Fight for the things that you care about, but do it in a way that will lead others to join you”
 
-[Charles Townes](http://en.wikipedia.org/wiki/Charles_H._Townes)
+[Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg)
 
 [](https://www.adafruit.com/about)
 
