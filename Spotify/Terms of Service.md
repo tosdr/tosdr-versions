@@ -2,13 +2,7 @@
 
 [Spotify](https://www.spotify.com/us/)
 
-* Premium
-    
-    * [Premium Individual 1 account - For one person.](https://www.spotify.com/us/premium/?ref=spotifycom_header_premium_individual)
-    * [Premium Duo 2 accounts - For couples under one roof.](https://www.spotify.com/us/duo/?ref=spotifycom_header_premium_duo)
-    * [Premium Family 6 accounts - For family members under one roof.](https://www.spotify.com/us/family/?ref=spotifycom_header_premium_family)
-    * [Premium Student 1 account - Discount for eligible students.](https://www.spotify.com/us/student/?ref=spotifycom_header_premium_student)
-    
+* [Premium](https://www.spotify.com/us/premium/?ref=spotifycom_header_premium_button)
 * [Support](https://support.spotify.com/)
 * [Download](https://www.spotify.com/us/download/)
 
@@ -367,16 +361,6 @@ Useful links
 * [Support](https://support.spotify.com/)
 * [Web Player](https://open.spotify.com/)
 * [Free Mobile App](https://www.spotify.com/us/free/)
-
-Spotify Plans
--------------
-
-* [Premium Individual](https://www.spotify.com/us/premium/#ref=spotifycom_footer_premium_individual)
-* [Premium Duo](https://www.spotify.com/us/duo/#ref=spotifycom_footer_premium_duo)
-* [Premium Family](https://www.spotify.com/us/family/#ref=spotifycom_footer_premium_family)
-* [Premium Student](https://www.spotify.com/us/student/#ref=spotifycom_footer_premium_student)
-* [Spotify Free](https://www.spotify.com/us/free/#ref=spotifycom_footer_free)
-* [Audiobooks Access](https://www.spotify.com/us/audiobooks/#plans)
 
 * [](https://instagram.com/spotify "Instagram")
 * [](https://twitter.com/spotify "Twitter")
