@@ -135,7 +135,11 @@ Follow Us
 Download the Apps
 -----------------
 
-* [](https://apps.apple.com/app/arcademics/id655870953)
-* [](https://play.google.com/store/apps/details?id=air.com.arcademics.Arcademics)
+* [Download on the
+    
+    App Store](https://apps.apple.com/app/arcademics/id655870953)
+* [Get it on
+    
+    Google Play](https://play.google.com/store/apps/details?id=air.com.arcademics.Arcademics)
 
 © 2024 Arcademics
