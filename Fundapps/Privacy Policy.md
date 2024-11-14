@@ -1,4 +1,4 @@
-![b-corp-logo](https://www.fundapps.co/hubfs/Website%20Imagery/b-corp-logo.svg) [People, Planet](https://www.fundapps.co/what-we-stand-for)
+![b-corp-logo](https://www.fundapps.co/hubfs/Website%20Imagery/b-corp-logo.svg) [Be a LEADR](https://www.fundapps.co/what-we-stand-for)
 
 ![book-a-demo-icon](https://www.fundapps.co/hubfs/Website%20Imagery/book-a-demo-icon.svg) [Book a demo](https://www.fundapps.co/book-a-demo)
 
@@ -20,17 +20,17 @@ Our solutions
 
 About us
 
-[About FundApps](https://www.fundapps.co/about-us)[Careers](https://www.fundapps.co/careers)[Partners we work with](https://www.fundapps.co/partners)
+[About FundApps](https://www.fundapps.co/about-us)[People, Planet](https://www.fundapps.co/what-we-stand-for)[Careers](https://www.fundapps.co/careers)[Partners we work with](https://www.fundapps.co/partners)
 
 For clients
 
-[Courses and certifications](https://www.fundapps.co/courses-and-certifications)[Here to solve your needs](https://www.fundapps.co/here-to-solve-your-needs)[Support](https://support.fundapps.co/hc/en-us)[Join community](https://www.fundapps.co/community)
+[Courses and certifications](https://www.fundapps.co/courses-and-certifications)[Here to solve your needs](https://www.fundapps.co/here-to-solve-your-needs)[Access the FundApps Community](https://www.fundapps.co/community)[Support](https://support.fundapps.co/hc/en-us)
 
 Resources
 
 [Blogs](https://www.fundapps.co/blog)[Case Studies](https://www.fundapps.co/case-studies)[SEC Knowledge Bank](https://www.fundapps.co/all-things-sec)[News and Press](https://www.fundapps.co/news-and-press)[Podcast and Webinars](https://www.fundapps.co/webinars)
 
-![b-corp-logo](https://www.fundapps.co/hubfs/Website%20Imagery/b-corp-logo.svg) [People, Planet](https://www.fundapps.co/what-we-stand-for)
+![b-corp-logo](https://www.fundapps.co/hubfs/Website%20Imagery/b-corp-logo.svg) [Be a LEADR](https://www.fundapps.co/what-we-stand-for)
 
 ![book-a-demo-icon](https://www.fundapps.co/hubfs/Website%20Imagery/book-a-demo-icon.svg) [Book a demo](https://www.fundapps.co/book-a-demo)
 
