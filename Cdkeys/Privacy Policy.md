@@ -65,7 +65,7 @@ Menu
     * [View All](https://www.cdkeys.com/xbox-live)
     * [XBOX Games](https://www.cdkeys.com/xbox-live/games)
     * [Gift Cards/Points](https://www.cdkeys.com/xbox-live/gift-cards-points)
-    * [Memberships](https://www.cdkeys.com/xbox-live/memberships)
+    * [Game Pass](https://www.cdkeys.com/xbox-live/memberships)
     * [Season Passes](https://www.cdkeys.com/xbox-live/season-passes)
 * [Nintendo](https://www.cdkeys.com/nintendo)
     * Nintendo
