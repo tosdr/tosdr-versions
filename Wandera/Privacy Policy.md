@@ -31,7 +31,7 @@ Toggle Navigation
     
     [Mobile Device Management (MDM)](https://www.wandera.com/solutions/device-management/)
     
-    [Identity-Based Access](https://www.wandera.com/solutions/identity-based-access/)
+    [Identity and access management](https://www.wandera.com/solutions/identity-based-access/)
     
     [Threat prevention and remediation](https://www.wandera.com/solutions/threat-prevention-remediation/)
     
@@ -401,7 +401,7 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 * [App management](https://www.wandera.com/solutions/app-lifecycle-management/)
 * [Inventory management](https://www.wandera.com/solutions/inventory-management/)
 * [Self Service](https://www.wandera.com/solutions/self-service/)
-* [Identity-Based Access](https://www.wandera.com/solutions/identity-based-access/)
+* [Identity and access management](https://www.wandera.com/solutions/identity-based-access/)
 * [Endpoint protection](https://www.wandera.com/solutions/endpoint-protection/)
 * [Threat prevention and remediation](https://www.wandera.com/solutions/threat-prevention-remediation/)
 * [Content filtering and safe internet](https://www.wandera.com/solutions/content-filtering/)
@@ -418,7 +418,7 @@ Jamf’s purpose is to simplify work by helping organizations manage and secure 
 * [Jamf Now](https://www.wandera.com/support/jamf-now/)
 * [Jamf School](https://www.wandera.com/support/jamf-school/)
 * [Jamf Connect](https://www.wandera.com/support/jamf-connect/)
-* [Jamf Protect Support](https://www.wandera.com/support/jamf-protect/)
+* [Jamf Protect](https://www.wandera.com/support/jamf-protect/)
 
 ### [Services](https://www.wandera.com/services/)
 
