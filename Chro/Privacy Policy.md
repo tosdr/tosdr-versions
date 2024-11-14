@@ -34,7 +34,7 @@ By submitting this application form to HRM Asia, attendees agree that any person
 
 If attendees are providing someone else’s personal data or submitting this Form on behalf of someone else, you hereby declare that you have obtained consent from the named individual(s) in this Form, for the collection, use and disclosure of his/her personal data by you to organiser, HRM Asia, HRM Asia business partners and other third party service providers.
 
-If attendees would like to request access to, or to correct, or to withdraw consent to organiser use of your personal data, photographs and/or videos after submitting this form, or if attendees have questions on how organiser and HRM Asia handles personal data, please send an email to the programme organiser at info@hrtechfestasia.com. Please note that by withdrawing consent from organiser/HRM Asia list after the event will unsubscribe attendee from receiving emails from organiser/HRM Asia which does not include third party emails like sponsors and exhibitors.
+If attendees would like to request access to, or to correct, or to withdraw consent to organiser use of your personal data, photographs and/or videos after submitting this form, or if attendees have questions on how organiser and HRM Asia handles personal data, please send an email to the programme organiser at [\[email protected\]](https://chroseries.com/cdn-cgi/l/email-protection). Please note that by withdrawing consent from organiser/HRM Asia list after the event will unsubscribe attendee from receiving emails from organiser/HRM Asia which does not include third party emails like sponsors and exhibitors.
 
 ### THIRD PARTY LINKS AND CONTENT
 
