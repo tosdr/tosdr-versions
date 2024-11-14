@@ -20,16 +20,16 @@ Thursday, November 14 2024
 
 Latest
 
-* [Eric Schmidt admits remote work has productivity benefits, but he still wants staff in the office](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
-* [AMD to cut 4% of workforce to prioritize AI chip expansion and rival Nvidia](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
-* [Best Buy’s Black Friday Deals on Hisense and Samsung TVs](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
-* [Car Brands With the Highest Road-Test Scores](https://digitpatrox.com/car-brands-with-the-highest-road-test-scores/)
-* [How to Emulate Apple Intelligence Writing Tools on Older iPhones](https://digitpatrox.com/how-to-emulate-apple-intelligence-writing-tools-on-older-iphones/)
-* [AMD to cut around 1,000 staff to focus on “largest growth opportunities”](https://digitpatrox.com/amd-to-cut-around-1000-staff-to-focus-on-largest-growth-opportunities/)
-* [Four Critical Vulnerabilities Paved Over](https://digitpatrox.com/four-critical-vulnerabilities-paved-over/)
-* [Apple facing new lawsuit over AirPods Pro ‘crackling’ issues — here’s what we know](https://digitpatrox.com/apple-facing-new-lawsuit-over-airpods-pro-crackling-issues-heres-what-we-know/)
-* [Microsoft patches Windows zero-day exploited in attacks on Ukraine](https://digitpatrox.com/microsoft-patches-windows-zero-day-exploited-in-attacks-on-ukraine/)
-* [Sonos revenue falls in the aftermath of company’s messy app debacle](https://digitpatrox.com/sonos-revenue-falls-in-the-aftermath-of-companys-messy-app-debacle/)
+* [iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
+* [Misconfigurations in Microsoft Power Pages could expose millions of sensitive records](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
+* [Now you can download an ISO file of Windows 11 for Arm chips – Computerworld](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
+* [How to Germinate Seeds Outside During Winter](https://digitpatrox.com/how-to-germinate-seeds-outside-during-winter/)
+* [4 Best Facial Tissues From Our Tests](https://digitpatrox.com/4-best-facial-tissues-from-our-tests/)
+* [Apple Sued Over AirPods Pro Crackling Audio Issues](https://digitpatrox.com/apple-sued-over-airpods-pro-crackling-audio-issues/)
+* [DORA and why resilience (once again) matters to the board](https://digitpatrox.com/dora-and-why-resilience-once-again-matters-to-the-board/)
+* [1.1 Million UK NHS Employee Records Exposed](https://digitpatrox.com/1-1-million-uk-nhs-employee-records-exposed/)
+* [Apple releases Final Cut Pro 11 for Mac, plus iPhone and iPad updates — here’s what’s new](https://digitpatrox.com/apple-releases-final-cut-pro-11-for-mac-plus-iphone-and-ipad-updates-heres-whats-new/)
+* [Critical bug in EoL D-Link NAS devices now exploited in attacks](https://digitpatrox.com/critical-bug-in-eol-d-link-nas-devices-now-exploited-in-attacks/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/ybsrRYRYXkacruBBSXD5cF-1200-80.jpg)](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/iRobot-Roomba-j9-Black-Friday-Deal.jpg)](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
     
-    [Eric Schmidt admits remote work has productivity benefits, but he still wants staff in the office](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
+    [iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
     
-    12 minutes ago
+    5 minutes ago
     
-* [![](https://www.networkworld.com/wp-content/uploads/2024/11/3605016-0-67505300-1731582277-AMD_logo_on_office.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
+* [![](https://cdn.mos.cms.futurecdn.net/VPfHKn7dXBDmxcwUn45gvd-1200-80.jpg)](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
     
-    [AMD to cut 4% of workforce to prioritize AI chip expansion and rival Nvidia](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
+    [Misconfigurations in Microsoft Power Pages could expose millions of sensitive records](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
     
-    32 minutes ago
+    2 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCKPERPX7ZDKY7Z7XKATZN5A/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3606468-0-18794500-1731597440-Bildschirmfoto-2024-11-07-um-15.41.35.png?w=1024)](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
     
-    [Best Buy’s Black Friday Deals on Hisense and Samsung TVs](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
+    [Now you can download an ISO file of Windows 11 for Arm chips – Computerworld](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
     
-    60 minutes ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730756147/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-Inline-Hero-What-Car-Brands-Have-the-Highest-Road-Test-Scores-1124-cg)](https://digitpatrox.com/car-brands-with-the-highest-road-test-scores/)
+* [![](https://lifehacker.com/imagery/articles/01JCNDWFH5SV8WBA16MJ5NZBPM/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-germinate-seeds-outside-during-winter/)
     
-    [Car Brands With the Highest Road-Test Scores](https://digitpatrox.com/car-brands-with-the-highest-road-test-scores/)
+    [How to Germinate Seeds Outside During Winter](https://digitpatrox.com/how-to-germinate-seeds-outside-during-winter/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg)](https://digitpatrox.com/how-to-emulate-apple-intelligence-writing-tools-on-older-iphones/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729108483/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-OTL-InlineHero-Facial-Tissues-1024)](https://digitpatrox.com/4-best-facial-tissues-from-our-tests/)
     
-    [How to Emulate Apple Intelligence Writing Tools on Older iPhones](https://digitpatrox.com/how-to-emulate-apple-intelligence-writing-tools-on-older-iphones/)
+    [4 Best Facial Tissues From Our Tests](https://digitpatrox.com/4-best-facial-tissues-from-our-tests/)
     
-    1 hour ago
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [12 minutes ago
+* [5 minutes ago
     
-    ### Eric Schmidt admits remote work has productivity benefits, but he still wants staff in the office](https://digitpatrox.com/eric-schmidt-admits-remote-work-has-productivity-benefits-but-he-still-wants-staff-in-the-office/)
-* [32 minutes ago
+    ### iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
+* [2 hours ago
     
-    ### AMD to cut 4% of workforce to prioritize AI chip expansion and rival Nvidia](https://digitpatrox.com/amd-to-cut-4-of-workforce-to-prioritize-ai-chip-expansion-and-rival-nvidia/)
-* [60 minutes ago
+    ### Misconfigurations in Microsoft Power Pages could expose millions of sensitive records](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
+* [2 hours ago
     
-    ### Best Buy’s Black Friday Deals on Hisense and Samsung TVs](https://digitpatrox.com/best-buys-black-friday-deals-on-hisense-and-samsung-tvs/)
+    ### Now you can download an ISO file of Windows 11 for Arm chips – Computerworld](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
 
 Most Popular Topics
 
-* [October 2, 2024
+* [September 3, 2024
     
-    ### Nanoleaf Essentials Matter Smart Multicolor HD Lightstrip (5m) Review: Almost Perfect](https://digitpatrox.com/nanoleaf-essentials-matter-smart-multicolor-hd-lightstrip-5m-review-almost-perfect/)
-* [August 13, 2024
+    ### AI is paying dividends for Dell Technologies – booming server sales and rapid networking growth have taken the edge off a rocky period](https://digitpatrox.com/ai-is-paying-dividends-for-dell-technologies-booming-server-sales-and-rapid-networking-growth-have-taken-the-edge-off-a-rocky-period/)
+* [October 14, 2024
     
-    ### Nvidia promises to give Californians free AI training with new initiative](https://digitpatrox.com/nvidia-promises-to-give-californians-free-ai-training-with-new-initiative/)
-* [August 22, 2024
+    ### How to Remove a Password From a PDF File](https://digitpatrox.com/how-to-remove-a-password-from-a-pdf-file/)
+* [August 16, 2024
     
-    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
+    ### Steve Jobs’ decades-old vision of a chatbot bears some resemblance to modern generative AI tools](https://digitpatrox.com/steve-jobs-decades-old-vision-of-a-chatbot-bears-some-resemblance-to-modern-generative-ai-tools/)
 
 Last Modified Topics
 
-* [2 hours ago
-    
-    ### Four Critical Vulnerabilities Paved Over](https://digitpatrox.com/four-critical-vulnerabilities-paved-over/)
-* [2 hours ago
-    
-    ### Apple facing new lawsuit over AirPods Pro ‘crackling’ issues — here’s what we know](https://digitpatrox.com/apple-facing-new-lawsuit-over-airpods-pro-crackling-issues-heres-what-we-know/)
 * [3 hours ago
     
-    ### Microsoft patches Windows zero-day exploited in attacks on Ukraine](https://digitpatrox.com/microsoft-patches-windows-zero-day-exploited-in-attacks-on-ukraine/)
+    ### DORA and why resilience (once again) matters to the board](https://digitpatrox.com/dora-and-why-resilience-once-again-matters-to-the-board/)
+* [3 hours ago
+    
+    ### 1.1 Million UK NHS Employee Records Exposed](https://digitpatrox.com/1-1-million-uk-nhs-employee-records-exposed/)
+* [3 hours ago
+    
+    ### Apple releases Final Cut Pro 11 for Mac, plus iPhone and iPad updates — here’s what’s new](https://digitpatrox.com/apple-releases-final-cut-pro-11-for-mac-plus-iphone-and-ipad-updates-heres-whats-new/)
 
 Most Viewed Topics
 
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 11, 2024
+* [August 12, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 13, 2024
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
