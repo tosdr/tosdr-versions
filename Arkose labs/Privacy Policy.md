@@ -688,3 +688,7 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
+
+                                               
+
+https://sklep.radiozet.pl/sandaly-damskie/28170864-sandaly-bayla-187-587-571-bialy-skora-ekologiczna
