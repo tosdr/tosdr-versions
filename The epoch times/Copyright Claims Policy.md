@@ -160,70 +160,70 @@ TOP NEWS
 
 * [Republicans Win Trifecta Control of Government–What Happens Now?](https://www.theepochtimes.com/us/republicans-win-trifecta-control-of-government-what-happens-now-5758240)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Republicans Win Trifecta Control of Government–What Happens Now?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Republicans Win Trifecta Control of Government–What Happens Now?](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758408-11122024-DSC08942-speaker-mike-johnson-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-win-trifecta-control-of-government-what-happens-now-5758240)
 * [Republicans Retain House Majority, Completing Trifecta](https://www.theepochtimes.com/us/republicans-retain-house-majority-completing-trifecta-5759194)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![Republicans Retain House Majority, Completing Trifecta](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Republicans Retain House Majority, Completing Trifecta](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746849-10232024-DSC06701-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-retain-house-majority-completing-trifecta-5759194)
 * [E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://www.theepochtimes.com/us/e-coli-outbreak-tied-to-mcdonalds-expands-to-14-states-104-infected-5759399)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747749-MCDONALDS-CORP-ECOLI-CUSTOMERS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/e-coli-outbreak-tied-to-mcdonalds-expands-to-14-states-104-infected-5759399)
 * [5 Things to Know About John Thune, the Next Senate Majority Leader](https://www.theepochtimes.com/article/5-things-to-know-about-john-thune-the-next-senate-majority-leader-5759077)
     
-    3hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    8hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![5 Things to Know About John Thune, the Next Senate Majority Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Things to Know About John Thune, the Next Senate Majority Leader](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759254-EpochImages-7620547898-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-things-to-know-about-john-thune-the-next-senate-majority-leader-5759077)
 * [Here’s Who Is on Senate GOP Leadership Team](https://www.theepochtimes.com/us/heres-who-is-on-senate-gop-leadership-team-5759106)
     
-    3hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    8hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Here’s Who Is on Senate GOP Leadership Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Here’s Who Is on Senate GOP Leadership Team](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759243-11132024-DSC09492-John-Thune-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-who-is-on-senate-gop-leadership-team-5759106)
 * [5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://www.theepochtimes.com/us/5-things-to-know-about-pete-hegseth-trumps-choice-for-secretary-of-defense-5759107)
     
-    3hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758754-GettyImages-626419832KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-things-to-know-about-pete-hegseth-trumps-choice-for-secretary-of-defense-5759107)
 * [Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://www.theepochtimes.com/us/johnson-says-gaetz-has-resigned-from-congress-after-ag-nomination-5759418)
     
-    3hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    9hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759286-GettyImages-1744932118-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/johnson-says-gaetz-has-resigned-from-congress-after-ag-nomination-5759418)
 * [GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://www.theepochtimes.com/business/gm-recalls-460000-vehicles-for-rear-wheel-lock-up-risk-5759400)
     
-    4hr By [Mary Man](https://www.theepochtimes.com/author/mary-man)
+    10hr By [Mary Man](https://www.theepochtimes.com/author/mary-man)
     
     [![GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759421-GM-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/gm-recalls-460000-vehicles-for-rear-wheel-lock-up-risk-5759400)
 * [Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://www.theepochtimes.com/health/study-finds-link-between-hallucinogen-related-er-visits-and-increased-schizophrenia-risk-5759066)
     
-    4hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
+    10hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
     
     [![Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://img.theepochtimes.com/assets/uploads/2023/10/13/id5509806-GettyImages-1230122221-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-finds-link-between-hallucinogen-related-er-visits-and-increased-schizophrenia-risk-5759066)
 * [Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://www.theepochtimes.com/us/judge-says-prosecutor-failed-to-prove-musks-1-million-voter-sweepstakes-was-illegal-lottery-5759101)
     
-    5hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
