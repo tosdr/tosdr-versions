@@ -37,7 +37,6 @@ EUR
             * [Oval Stickers](https://www.jukeboxprint.com/oval-stickers)
             * [Transparent Stickers](https://www.jukeboxprint.com/transparent-stickers)
             * [Sticker Rolls](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)
-            * [Glitter Stickers](https://www.jukeboxprint.com/glitter-stickers)
         * * [Custom Stickers](https://www.jukeboxprint.com/custom-printed-stickers)
             * [Wine Labels](https://www.jukeboxprint.com/custom-printed-wine-labels)
             * [Vinyl Decals](https://www.jukeboxprint.com/custom-vinyl-decals)
@@ -47,6 +46,7 @@ EUR
             * [Gold Stickers](https://www.jukeboxprint.com/custom-gold-stickers)
             * [Silver Stickers](https://www.jukeboxprint.com/custom-silver-stickers)
             * [Holographic Stickers](https://www.jukeboxprint.com/holographic-stickers)
+            * [Glitter Stickers](https://www.jukeboxprint.com/glitter-stickers)
             * [White Ink Stickers](https://www.jukeboxprint.com/clear-stickers-with-white-ink-printing)
             * [Spot UV Stickers](https://www.jukeboxprint.com/spot-uv-stickers)
             * [Bike Name Stickers](https://www.jukeboxprint.com/bike-name-stickers)
@@ -74,8 +74,6 @@ EUR
     
     Information[#### Custom Sticker Rolls](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)[Sticker rolls are ideal for production lines or any business looking for a quick way to apply product labels. Our sticker rolls are easy to peel, produced in two business days, and available in Soft Matte and High Gloss coating.](https://www.jukeboxprint.com/Custom-Sticker-Rolls-and-Roll-Label-Printing)
     
-    Information[#### Glitter Stickers](https://www.jukeboxprint.com/glitter-stickers)[Experience the ultimate in uniqueness with our holographic glitter stickers - long-lasting and durable.](https://www.jukeboxprint.com/glitter-stickers)
-    
     Information[#### Custom Stickers](https://www.jukeboxprint.com/custom-printed-stickers)[From intricate designs to simple shapes, we've got you covered no matter the shape sticker you're looking for! With just a few clicks, you can create and print your custom stickers online.](https://www.jukeboxprint.com/custom-printed-stickers)
     
     Information[#### Custom Printed Wine Labels](https://www.jukeboxprint.com/custom-printed-wine-labels)[Customize your wine bottles with our premium, long-lasting labels. Choose from various designs for wineries or weddings. Printed on durable Estate Label Papers.](https://www.jukeboxprint.com/custom-printed-wine-labels)
@@ -87,6 +85,8 @@ EUR
     Information[#### Silver Stickers](https://www.jukeboxprint.com/custom-silver-stickers)[Add class to your stickers with our custom Silver Stickers. Silver stickers are available in Gloss, Matte and Brushed silver.](https://www.jukeboxprint.com/custom-silver-stickers)
     
     Information[#### Holographic Stickers](https://www.jukeboxprint.com/holographic-stickers)[Our holographic stickers have a metallic, rainbow effect that catches the eye. Produced with high-quality vinyl and a shiny finish, they come in any size or shape.](https://www.jukeboxprint.com/holographic-stickers)
+    
+    Information[#### Glitter Stickers](https://www.jukeboxprint.com/glitter-stickers)[Experience the ultimate in uniqueness with our holographic glitter stickers - long-lasting and durable.](https://www.jukeboxprint.com/glitter-stickers)
     
     Information[#### Clear Stickers with White Ink](https://www.jukeboxprint.com/clear-stickers-with-white-ink-printing)[The combination of the white ink and transparent stock has inspired designers to create incredible stickers.](https://www.jukeboxprint.com/clear-stickers-with-white-ink-printing)
     
