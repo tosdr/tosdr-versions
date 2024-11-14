@@ -2,7 +2,7 @@
 
 ![](https://px.ads.linkedin.com/collect/?pid=4160820&fmt=gif)
 
-      Privacy Policy | Toddle                                             
+      Privacy Policy | Toddle                                              
 
 [![Toddle](https://www.toddleapp.com/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/ "Toddle")
 
@@ -498,7 +498,7 @@ We use the collected data only to provide services to you as laid out in the Pri
 
 ### Data Retention
 
-Toddle will keep your data for only as long as it is required or as mandated by law or as requested by the 3rd party. Before deleting your data, Toddle will send out 3 reminders to you.
+Toddle will retain your information for 7 years or as long as necessary to fulfill the purposes outlined in its Privacy Policy. Data that Toddle processes on behalf of its customers will be retained under Toddle’s [Terms of Service](https://www.toddleapp.com/termsofservice/), Toddle’s Data Processing Agreement, as mandated by law, and any other relevant agreements. Before deleting your data, Toddle will send out 3 reminders to you.
 
 ### When does Toddle share data with third parties?
 
@@ -583,9 +583,9 @@ For previous versions of the Privacy Policy, please reach out to us at [privacy
 
 ### Contact Information
 
-Our Data Protection Officer is Misbah Jafary. If you have any questions about this Privacy Policy, please feel free to write to us at: [privacy@toddleapp.com](mailto:privacy@toddleapp.com) and we will reach out to you as soon as possible.
+Our Data Protection Officer is Anshul Chauhan. If you have any questions about this Privacy Policy, please feel free to write to us at: [privacy@toddleapp.com](mailto:privacy@toddleapp.com) and we will reach out to you as soon as possible.
 
-If you are based in India and you have any grievance or complaint about how your personal data is being processed you can contact the Grievance Officer for India – Misbah Jafary via e-mail address [privacy@toddleapp.com](mailto:privacy@toddleapp.com)
+If you are based in India and you have any grievance or complaint about how your personal data is being processed you can contact the Grievance Officer for India – Anshul Chauhan via e-mail address [privacy@toddleapp.com](mailto:privacy@toddleapp.com)
 
 ### We value and protect your privacy
 
