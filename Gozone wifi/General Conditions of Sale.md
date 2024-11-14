@@ -317,6 +317,26 @@ LEGAL
 All trademarks, logos and brand names are the property of their respective owners. All company, product and service names used in this website are for identification purposes only. Use of these names, trademarks and brands does not imply endorsement.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Sign Up Now
+
+Name(Required)
+
+First  Last 
+
+Email(Required)
+
+Phone(Required)
+
+Your Company Name(Required)
+
+We respect your privacy and will not sell your information. [Click here](https://www.gozonewifi.com/policies/privacy/) to see our full privacy policy.
+
+CAPTCHA
+
+        
+
+CLOSE
+
 You should receive a text shortly with a link to view a sample Guest Flow.
 
 Take a look at the sample we just sent you, and feel free to [reach out](https://www.gozonewifi.com/contact/) if you’d like to learn more.
@@ -390,6 +410,24 @@ AutomotiveCities and CommunitiesCoworking SpaceEducationFood & BeverageGrocery &
 How many venue locations do you have?(Required)
 
 12 - 56 - 1011 - 2425 - 5051+
+
+We respect your privacy and will not sell your information. [Click here](https://www.gozonewifi.com/policies/privacy/) to see our full privacy policy.
+
+CAPTCHA
+
+       
+
+Sign Up Now
+
+Name(Required)
+
+First  Last 
+
+Email(Required)
+
+Phone(Required)
+
+Your Company Name(Required)
 
 We respect your privacy and will not sell your information. [Click here](https://www.gozonewifi.com/policies/privacy/) to see our full privacy policy.
 
