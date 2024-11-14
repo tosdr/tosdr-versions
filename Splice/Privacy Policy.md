@@ -21,7 +21,8 @@
 
 [Home![Splice logo glyph](https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_21,dpr_1.0/app-assets/general/Logo-Logged-In-Light_3x.png)![Splice logo](https://splice-res.cloudinary.com/image/upload/f_auto,q_auto,w_99,dpr_1.0/app-assets/general/Logo-Lock-Up-Light_3x.png)](https://splice.com/)
 
-* [Sounds](https://splice.com/features/sounds)
+* [Sounds](https://splice.com/sounds)
+* [Create](https://splice.com/sounds/create)
 * [Skills](https://splice.com/skills)
 * [Plugins](https://splice.com/plugins)
 * [Community](https://splice.com/community)
