@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Eviden leads the charge in high-performance computing with new AI-ready scale-out networking offering](https://atos.net/en/2024/press-release_2024_11_14/eviden-leads-the-charge-in-high-performance-computing-with-new-ai-ready-scale-out-networking-offering)
         * [Market Update](https://atos.net/en/2024/press-release_2024_11_08/market-update-6)
         * [Eviden Launches Evidian Orbion: A Next-Generation, comprehensive Cloud-Based Identity and Access Management Solution](https://atos.net/en/2024/news_2024_11_05/eviden-launches-evidian-orbion-a-next-generation-comprehensive-cloud-based-identity-and-access-management-solution)
-        * [Atos signs binding agreement to sell Worldgrid to ALTEN for an enterprise value of €270 million](https://atos.net/en/2024/press-release_2024_11_05/atos-signs-binding-agreement-to-sell-worldgrid-to-alten-for-an-enterprise-value-of-e270-million)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 8, 2024
+        Nov 14, 2024
         
-        ### Market Update
+        ### Eviden leads the charge in high-performance computing with new AI-ready scale-out networking offering
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -166,18 +166,18 @@ Atos homepage](https://atos.net/en/)
         
         ### Latest articles
         
+        * [Modernize without compromise: Why hybrid cloud still matters](https://atos.net/en/blog/modernize-without-compromise-why-hybrid-cloud-still-matters)
         * [Ensure your virtual infrastructure is sustainable infrastructure](https://atos.net/en/blog/ensure-your-virtual-infrastructure-is-sustainable-infrastructure)
         * [AI in customer service operations: Automation and human empathy](https://atos.net/en/blog/ai-in-customer-service-operations-automation-and-human-empathy)
         * [Creating connections with athlete engagement portals](https://atos.net/en/blog/experience-matters-creating-connections-with-athlete-engagement-portals)
-        * [Successfully integrating AI into your business strategy](https://atos.net/en/blog/successfully-integrate-ai-business-strategy-lessons-from-experience)
         
         [All articles](https://atos.net/en/blog)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 11, 2024
+        Nov 14, 2024
         
-        ### Ensure your virtual infrastructure is sustainable infrastructure
+        ### Modernize without compromise: Why hybrid cloud still matters
         
     * [Client Stories](https://atos.net/en/client-stories)˅
         
