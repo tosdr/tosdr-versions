@@ -335,7 +335,147 @@ Email(Required)
 
 Phone(Required)
 
+Company Type(Required)
+
+Choose one belowI own or manage my own venue(s)I am an IT professional or MSP
+
 Your Company Name(Required)
+
+What type of venue is your business?(Required)
+
+ Bowling Alley
+
+ Cities & Communities
+
+ Conference & Event Centers
+
+ Convenience Stores
+
+ Gaming & Casinos
+
+ Hotels / Hospitality
+
+ Malls
+
+ Outdoor Venues
+
+ Parks & Recreation
+
+ Restaurant(s) & Bar(s)
+
+ Retail & Grocery
+
+ Sports Events & Festivals
+
+ Stadiums & Arenas
+
+ Travel & Transportation
+
+ Other
+
+What type of venues do you provide service for?(Required)
+
+ Bowling Alley
+
+ Cities & Communities
+
+ Conference & Event Centers
+
+ Convenience Stores
+
+ Gaming & Casinos
+
+ Hotels / Hospitality
+
+ Malls
+
+ Outdoor Venues
+
+ Parks & Recreation
+
+ Restaurant(s) & Bar(s)
+
+ Retail & Grocery
+
+ Sports Events & Festivals
+
+ Stadiums & Arenas
+
+ Travel & Transportation
+
+ Other
+
+What type of business hardware do you provide?(Required)
+
+ Adtran
+
+ Aruba
+
+ Cambium
+
+ CloudTrax
+
+ Cisco Enterprise
+
+ Cisco Meraki
+
+ Cradlepoint
+
+ Datto
+
+ EnGenius
+
+ Everest
+
+ Extreme Networks
+
+ Fortinet / Fortigate
+
+ IgniteNet
+
+ Juniper Mist
+
+ Mesh ++
+
+ MikroTik
+
+ NetExperience
+
+ NETGEAR Insight
+
+ Nomadix
+
+ OpenWiFi
+
+ Peplink / Pepwave
+
+ Ruckus
+
+ SonicWall
+
+ TP-Link Omada
+
+ Ubiquiti Unifi
+
+ WatchGuard
+
+ Xirrus
+
+ Zyxel Nebula
+
+What's Your #1 Goal with Wi-Fi Marketing?(Required)
+
+Select your top goal that you would like to achieve by implementing a Wi-Fi Marketing solution:
+
+ Build guest/customer list for my loyalty program
+
+ Enhance guest communication/messaging/branding
+
+ Offer premium/paid Wi-Fi service
+
+ Promote repeat/return visits
+
+ Draw customers from adjacent properties
 
 We respect your privacy and will not sell your information. [Click here](https://www.gozonewifi.com/policies/privacy/) to see our full privacy policy.
 
@@ -435,7 +575,147 @@ Email(Required)
 
 Phone(Required)
 
+Company Type(Required)
+
+Choose one belowI own or manage my own venue(s)I am an IT professional or MSP
+
 Your Company Name(Required)
+
+What type of venue is your business?(Required)
+
+ Bowling Alley
+
+ Cities & Communities
+
+ Conference & Event Centers
+
+ Convenience Stores
+
+ Gaming & Casinos
+
+ Hotels / Hospitality
+
+ Malls
+
+ Outdoor Venues
+
+ Parks & Recreation
+
+ Restaurant(s) & Bar(s)
+
+ Retail & Grocery
+
+ Sports Events & Festivals
+
+ Stadiums & Arenas
+
+ Travel & Transportation
+
+ Other
+
+What type of venues do you provide service for?(Required)
+
+ Bowling Alley
+
+ Cities & Communities
+
+ Conference & Event Centers
+
+ Convenience Stores
+
+ Gaming & Casinos
+
+ Hotels / Hospitality
+
+ Malls
+
+ Outdoor Venues
+
+ Parks & Recreation
+
+ Restaurant(s) & Bar(s)
+
+ Retail & Grocery
+
+ Sports Events & Festivals
+
+ Stadiums & Arenas
+
+ Travel & Transportation
+
+ Other
+
+What type of business hardware do you provide?(Required)
+
+ Adtran
+
+ Aruba
+
+ Cambium
+
+ CloudTrax
+
+ Cisco Enterprise
+
+ Cisco Meraki
+
+ Cradlepoint
+
+ Datto
+
+ EnGenius
+
+ Everest
+
+ Extreme Networks
+
+ Fortinet / Fortigate
+
+ IgniteNet
+
+ Juniper Mist
+
+ Mesh ++
+
+ MikroTik
+
+ NetExperience
+
+ NETGEAR Insight
+
+ Nomadix
+
+ OpenWiFi
+
+ Peplink / Pepwave
+
+ Ruckus
+
+ SonicWall
+
+ TP-Link Omada
+
+ Ubiquiti Unifi
+
+ WatchGuard
+
+ Xirrus
+
+ Zyxel Nebula
+
+What's Your #1 Goal with Wi-Fi Marketing?(Required)
+
+Select your top goal that you would like to achieve by implementing a Wi-Fi Marketing solution:
+
+ Build guest/customer list for my loyalty program
+
+ Enhance guest communication/messaging/branding
+
+ Offer premium/paid Wi-Fi service
+
+ Promote repeat/return visits
+
+ Draw customers from adjacent properties
 
 We respect your privacy and will not sell your information. [Click here](https://www.gozonewifi.com/policies/privacy/) to see our full privacy policy.
 
