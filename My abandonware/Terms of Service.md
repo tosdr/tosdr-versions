@@ -98,27 +98,27 @@ Top downloads
 * [The House of the Dead 2](https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
 * [SimAnt](https://www.myabandonware.com/game/simant-197)
 * [Yu-Gi-Oh!: Power of Chaos - Yugi the Destiny](https://www.myabandonware.com/game/yu-gi-oh-power-of-chaos-yugi-the-destiny-bex)
-* [Dune II: The Building of a Dynasty](https://www.myabandonware.com/game/dune-ii-the-building-of-a-dynasty-1e7)
 * [The Typing of the Dead](https://www.myabandonware.com/game/the-typing-of-the-dead-bee)
+* [Dune II: The Building of a Dynasty](https://www.myabandonware.com/game/dune-ii-the-building-of-a-dynasty-1e7)
 
 [List of top downloads](https://www.myabandonware.com/game/ "See the Top 40 Games")
 
 Latest releases
 
-* [Clone](https://www.myabandonware.com/game/clone-tpg)
-* [Classic Jumpman](https://www.myabandonware.com/game/classic-jumpman-tpf)
-* [Chickie Egg](https://www.myabandonware.com/game/chickie-egg-tpe)
-* [Chenard](https://www.myabandonware.com/game/chenard-tpd)
-* [Bref](https://www.myabandonware.com/game/bref-tpc)
+* [Endgame](https://www.myabandonware.com/game/endgame-tpx)
+* [Edge of the Abyss](https://www.myabandonware.com/game/edge-of-the-abyss-tpw)
+* [Double Agent](https://www.myabandonware.com/game/double-agent-tpt)
+* [Dimono](https://www.myabandonware.com/game/dimono-tps)
+* [Dia Bolo](https://www.myabandonware.com/game/dia-bolo-tpr)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Oli-Boo-Chu](https://www.myabandonware.com/game/oli-boo-chu-rso)
-* [Best of the Indies](https://www.myabandonware.com/game/best-of-the-indies-kmu)
-* [Jonah: A VeggieTales Game](https://www.myabandonware.com/game/jonah-a-veggietales-game-m96)
+* [Hornby Virtual Railway](https://www.myabandonware.com/game/hornby-virtual-railway-mn1)
+* [Web Wars](https://www.myabandonware.com/game/web-wars-quy)
+* [ParaWorld: Gold Edition](https://www.myabandonware.com/game/paraworld-gold-edition-mgf)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
