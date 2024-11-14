@@ -291,21 +291,21 @@ Main
         
         By Type
         
+        [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
+        
         [Blogs](https://info.badgr.com/resources/blog)
         
         [Case Studies](https://info.badgr.com/resources/case-studies)
         
         [Ebooks & Buyer's Guides](https://info.badgr.com/resources/ebooks)
         
+        [Infographics](https://info.badgr.com/resources/infographic)
+        
         [Research](https://info.badgr.com/resources/research)
         
         [Videos](https://info.badgr.com/resources/videos)
         
-        [Infographics](https://info.badgr.com/resources/infographic)
-        
         [On-Demand Webinars](https://info.badgr.com/resources/webinars)
-        
-        [AI Resources](https://info.badgr.com/resources/artificial-intelligence)
         
     * Featured Resource
         
