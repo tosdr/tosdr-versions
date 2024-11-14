@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Watch live
+#### Breaking News
 
-[President-elect Trump meets with President Biden at White House](https://nypost.com/video/watch-live-president-elect-donald-trump-meets-with-president-joe-biden-at-white-house/)
+[Special counsel Jack Smith stands down in Trump classified docs case](https://nypost.com/2024/11/13/us-news/special-counsel-jack-smith-stands-down-in-trump-classified-docs-case-asks-court-to-halt-appeal/)
 
 Terms Of Use
 ============
