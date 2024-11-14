@@ -31,94 +31,968 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-En Garabot aprenderás cómo tu marca puede generar emociones
-===========================================================
+Moisés Caicedo, el jefe del Chelsea de Inglaterra
+=================================================
 
-Gabriel Freire, gerente de Comunicaciones Integradas de Marketing de Movistar Ecuador, explica cómo lograr que las marcas se conecten con la gente.
----------------------------------------------------------------------------------------------------------------------------------------------------
+El Chelsea está enamorado de Moisés Caicedo por sus destacadas actuaciones esta temporada.
+------------------------------------------------------------------------------------------
 
-![Gabriel Freire es Gerente de Comunicaciones Integradas de Marketing de Movistar Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/1200X800-GARABOT-9.jpg)
+![Moisés Caicedo en un partido con el Chelsea en la Premier League.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T143947.687.jpg)
 
-Las **marcas** deben crear lazos sólidos con sus consumidores. En un mundo saturado de opciones, la **verdadera diferencia radica** en cómo logran **conectar emocionalmente** con su audiencia.
+**Moisés** **Caicedo** está brillando en la Premier League de Inglaterra, donde su excelente nivel ha llamado la atención. Partido tras partido, el Chelsea destaca sus actuaciones en redes sociales, y los elogios no paran.
 
-Las relaciones humanas, basadas en empatía y vínculos profundos, son la inspiración detrás de las conexiones emocionales que las marcas deben forjar.
+Actualmente, el “Niño Moi” es **considerado el mejor mediocampista central de la Premier League**, un reconocimiento otorgado por la misma competición, y no es para menos: el ecuatoriano supera a sus competidores en numerosas estadísticas clave.
 
-**Gabriel Freire, gerente de Comunicaciones Integradas de Marketing de Movistar Ecuador,** cuenta qué estrategias utilizan las marcas para crear una conexión emocional con sus consumidores.
+### Más noticias:
 
-Escucha **todos sus consejos** en este capítulo de la segunda temporada del **podcast Garabot.**
+* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
+* [Chelsea de Moisés Caicedo divide puntos con el Arsenal](https://www.elcomercio.com/deportes/futbol/chelsea-moises-caicedo-empate-arsenal.html "Chelsea de Moisés Caicedo divide puntos con el Arsenal")
+* [Moisés Caicedo se consolida como el mejor volante central de Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-se-consolida-como-el-mejor-volante-central-de-inglaterra.html "Moisés Caicedo se consolida como el mejor volante central de Inglaterra")
+
+Moisés Caicedo, el líder del Chelsea
+------------------------------------
+
+Este jueves 14 de noviembre, el equipo ‘Blue’ **volvió a presumir las estadísticas de Caicedo** esta temporada. El ecuatoriano lleva 25 tacles ganados y un acierto del 87,8% en pases, lo que demuestra su solidez e importancia en el equipo.
+
+Desde la llegada del técnico italiano Enzo Maresca, **Caicedo se ha ganado un puesto como uno de los capitanes** del Chelsea a pesar de su corta estadía en el club (esta es apenas su segunda temporada).
+
+Su desempeño ha llevado a exglorias del Chelsea a rendirle elogios, como el nigeriano **John Obi Mikel**, quien lo destacó en su podcast.
+
+_“Míralo jugar con el Chelsea, es el jefe, es el hombre. La forma en que se mueve, su actitud, la confianza… **Este es el equipo de Caicedo**“,_ comentó Mikel.
+
+> Key contributors. 📊💪 [pic.twitter.com/gbwVBmWaCP](https://t.co/gbwVBmWaCP)
+> 
+> — Chelsea FC (@ChelseaFC) [November 14, 2024](https://twitter.com/ChelseaFC/status/1857048068723523884?ref_src=twsrc%5Etfw)
+
+El mejor volante central de la Premier League
+---------------------------------------------
+
+Su dominio en el mediocampo llevó a la **Premier League** a destacarlo como el mejor volante central de la liga, con un análisis detallado de su temporada. **Caicedo** lidera en varios aspectos: es el número uno en tacles ganados, segundo en duelos ganados, tercero en intercepciones y quinto en pases exitosos.
+
+_“**Caicedo siempre está a la ofensiva**, buscando la oportunidad de recuperar el balón y avanzando para desestabilizar a los oponentes,”_ comentó Adrian Clarke, exfutbolista y comentarista de la Premier League.
+
+El jefe de la Selección de Ecuador
+----------------------------------
+
+Al igual que en el Chelsea, **Caicedo** es uno de los líderes de la Selección de Ecuador, donde también porta la banda de capitán. Actualmente, está en concentración para la doble fecha de eliminatorias sudamericanas.
+
+Sin embargo, **Moisés no estará disponible** para el partido de este jueves 14 de noviembre contra Bolivia debido a la acumulación de tarjetas. Su regreso será el martes 19 de noviembre para enfrentar a Colombia en Barranquilla.
+
+Problemas climáticos que afectan al mundo
+=========================================
+
+Países de América, Europa y Asia enfrentan graves problemas climáticos.
+-----------------------------------------------------------------------
+
+![Un hombre observa el caudal del Barranco el Poyo este jueves, en el que AEMET ha bajado el aviso de fenómenos meteorológicos adversos de rojo a naranja.](https://www.elcomercio.com/wp-content/uploads/2024/11/dana-espana-14-noviembre.jpg)
+
+A **escala mundial** países de varias regiones atraviesan **problemas climáticos** que dejan varias afectaciones. **Lluvias extremas, sequías, huracanes, nevadas, alertas de tifón**, entre otros.
 
 ### Más noticias
 
-* [Garabot te enseña a negociar en la era digital](https://www.elcomercio.com/podcasts/garabot-te-ensena-a-negociar-en-la-era-digital.html "Garabot te enseña a negociar en la era digital")
-* [En Garabot te enseñamos estrategias para optimizar la empresa con IA](https://www.elcomercio.com/podcasts/garabot-ensenamos-estrategias-optimizar-empresa-ia.html "En Garabot te enseñamos estrategias para optimizar la empresa con IA")
-* [¿Cómo potenciar tu marca personal digital? En Garabot te contamos](https://www.elcomercio.com/podcasts/como-potenciar-marca-personal-digital-garabot-contamos.html "¿Cómo potenciar tu marca personal digital? En Garabot te contamos")
+* [La DANA llega a Málaga y Tarragona; Valencia está en nuevo riesgo](https://www.elcomercio.com/actualidad/mundo/dana-llega-a-malaga-y-tarragona-valencia-esta-en-riesgo.html "La DANA llega a Málaga y Tarragona; Valencia está en nuevo riesgo")
+* [El desierto de Arabia Saudita se cubrió de nieve](https://www.elcomercio.com/actualidad/mundo/desierto-arabia-saudita-cubrio-nieve.html "El desierto de Arabia Saudita se cubrió de nieve")
+* [El huracán Rafael, de categoría 3, toca tierra en el suroeste de Cuba](https://www.elcomercio.com/actualidad/mundo/huracan-rafael-categoria-3-toca-tierra-suroeste-cuba.html "El huracán Rafael, de categoría 3, toca tierra en el suroeste de Cuba")
 
-Las emociones son importantes
------------------------------
+DANA en España
+--------------
 
-Recuerda que las marcas están formadas por personas. Cada **empleado, cada historia**, cada interacción contribuye a construir una identidad que los consumidores perciben como cercana y auténtica.
+ Las últimas lluvias caídas en Valencia (este de España), castigada ya por un temporal el 29 de octubre de 2024, con 216 muertos y 16 desaparecidos, retrasaron los **trabajos de limpieza** de los municipios más afectados hace 16 días, donde los vecinos, con la **ayuda del Ejército,** vuelven este jueves a sacar fango de **bajos y de la calle.**
 
-La **empatía y la comunicación** transparente son clave para humanizar tu marca y fomentar una conexión genuina.
+“Seguimos igual, sacando agua de los trasteros, de las paredes está saliendo moho, el garaje sigue inundado, con las tuberías rotas y encharcado con los coches dentro”, lamentó María Ángeles en declaraciones a EFE mientras barre el lodo acumulado en la entrada de su bloque de viviendas.
 
-**Más allá de la publicidad**, las experiencias que las marcas ofrecen deben dejar una **huella emocional.**
+Enfundada en un **mono blanco protector** y con **mascarilla FPP2**, esta vecina reconoce que la tormenta de ayer no llegó ni mucho menos al nivel de la primera DANA, aunque sí ha dado al traste con parte del trabajo de recuperación ganado. “Nos va a costar mucho; **hay mucho por hacer en Catarroja**“, dice.
 
-Los consumidores quieren sentir algo especial al interactuar con un producto o servicio.
-
-El diseño, la usabilidad y el servicio al cliente deben estar pensados para ofrecer una experiencia única.
-
-Utiliza la nostalgia con cuidado 
----------------------------------
-
-Las marcas más exitosas han logrado evocar sentimientos de nostalgia. Si bien esto puede ser poderoso, es importante usarlo de manera estratégica para que no pierda su efectividad con el tiempo.
-
-Escucha a tu audiencia
+Inundaciones en Italia
 ----------------------
 
-Las redes sociales son un canal vital para escuchar a los consumidores.
+ El **fuerte temporal** que azota Sicilia (sur de Italia) provocó el **corte de carreteras** a causa de las **inundaciones** y el **cierre de las escuelas** en la costa noreste de la isla, en una jornada en la que los bomberos tuvieron que hacer más de **80 intervenciones** debido a las complicaciones meteorológicas.
 
-Las **marcas que responden, interactúan y muestran interés** por las opiniones de su público, logran construir una relación más fuerte.
+Sicilia se encuentra desde el martes, 12 de noviembre de 2024, en **alerta por fuertes lluvias**, especialmente intensas en la provincia de **Catania,** al **noreste de la isla,** donde hoy en solo cuatro horas los bomberos realizaron hasta **64 intervenciones**, que incluyeron el rescate de personas, la recuperación de vehículos atrapados y la gestión de daños estructurales.
 
-**No se trata solo de hablar, sino de escuchar y adaptarse.**
+Las intensas lluvias causaron inundaciones y el desbordamiento de arroyos, afectando a localidades como **Torre Archirafi** y **Giarre**, ambas en **Catania**, donde las calles se transformaron en torrentes que arrastraron coches y volcaron furgonetas, según informan medios locales.
 
-Utiliza la tecnología de manera ética
--------------------------------------
+Las **escuelas de Catania** permanecen cerradas desde ayer después de que el alcalde, Enrico Trantino, explicase en su perfil de Facebook que “la **suspensión de clases no se toma a la ligera**” y que como padre y responsable de la ciudad, siente “la **obligación de proteger a nuestros hijos**, quienes deben poder estudiar en condiciones de seguridad”.
 
-La **inteligencia artificial y el análisis de datos** permiten a las marcas conocer mejor las necesidades de sus consumidores.
+Alerta de tifón en Taiwán
+-------------------------
 
-Sin embargo, es vital que las marcas utilicen esta información de manera ética y respetuosa, priorizando la privacidad y la transparencia.
+La **Agencia Meteorológica Central** (CWA) de Taiwán emitió este jueves, 14 de noviembre de 2024, una alerta marítima debido al **avance de Usagi,** el tercer tifón que amenaza la isla en el último mes y medio y que trae consigo rachas de viento cercanas a los **200 kilómetros por hora (km/h).**
 
-Ofrece un producto que resuelva problemas reales
+A las 14:30 del jueves, Usagi se encontraba unos **450 kilómetros al sureste del cabo Eluanbi,** en el extremo sur de Taiwán, y se movía en **dirección noroest**e a norte a una velocidad de entre 13 y 19 km por hora, según estimaciones de la CWA.
+
+La última medición disponible indicó que el temporal, que presenta un **radio de 150 k**m, tenía vientos sostenidos de 162 km/h en su centro y ráfagas de hasta 198 km por hora.
+
+Tifón Usagi en Filipinas
+------------------------
+
+Las autoridades de Filipinas **evacuaron el domingo, 10 de noviembre de 2024, a 2 500 personas** y se preparan para la llegada del **tifón Toraji,** que golpeará el lunes la **isla de Luzón,** la más poblada del archipiélago y donde se encuentra la capital.
+
+Toraji, bautizado en el país como Nika, se encontraba en la tarde de hoy, como **tormenta tropical severa** y que se espera se convierta en **tifón en las próximas horas**, a unos 380 km al este de Luzón, con vientos sostenidos de 1**10 km por hora y rachas de hasta 135**, apunta el servicio de Meteorología.
+
+Conforme a lo previsto por el ente, el tifón **golpeará en la mañana o a primeras horas de la tarde** del lunes territorio filipino, entre las provincias de Isabela y Aurora, antes de debilitarse mientras cruza la isla.
+
+El desierto de Arabia Saudita se cubrió de nieve
 ------------------------------------------------
 
-Los consumidores se sienten emocionalmente conectados con las marcas que entienden sus problemas y ofrecen soluciones auténticas. Ya sea un servicio que simplifique su vida o un producto que les haga sentir bien, asegúrate de que tu oferta tenga un propósito claro.
+Un hecho sin precedentes sorprendió a Arabia Saudita la semana pasada, cuando las dunas de Al-Jawf, en el norte del país, amanecieron cubiertas de nieve.
 
-Sé consistente en tu mensaje  
-------------------------------
+Este **fenómeno meteorológico**, inesperado en una región caracterizada por sus **altas temperaturas y su clima árido,** generó un aluvión de reacciones en redes sociales, donde rápidamente comenzaron a circular imágenes del desierto transformado en un **paisaje blanco y helado**. Expertos y residentes coinciden en señalar que nunca antes se registró un evento así en la historia reciente de la región, de acuerdo con El Confidencial.
 
-La consistencia es fundamental. Ya sea a través de campañas publicitarias, redes sociales o puntos de contacto directos, tu marca debe mantener una voz coherente que resuene con su identidad. Un mensaje claro y constante genera confianza.
+Huracán Rafael en Cuba
+----------------------
 
-Involucra a tu público en la creación de contenido
+El **huracán Rafael** dañó un total de **3 266 viviendas en las provincias Artemisa y Mayabeque** (oeste de Cuba), dos de los territorios más afectados por el **ciclón tropical** que tocó tierra el pasado miércoles, informaron este viernes medios estatales de prensa.
+
+En Artemisa, por donde Rafael tocó tierra el miércoles por la tarde como un huracán de categoría tres, las **casas afectadas suman las 2825**, según el diario oficial Granma que versiona una reunión del Consejo de Defensa Nacional encabezado por el presidente cubano, **Miguel Díaz-Canel.**
+
+Sequía en Ecuador
+-----------------
+
+Ante los cortes programados que se dan a diario desde mediados de septiembre de 2024, debido a una **histórica sequía** en las principales centrales hidroeléctricas de Ecuador, los **generadores** se volvieron el **objeto más buscado** junto a otras **alternativas para suplir la falta de energía como baterías**, lámparas recargables, linternas, velas, cocinas a gas o inversores de corriente.
+
+Lluvias en Colombia
+-------------------
+
+Las **fuertes lluvias** que cayeron en los últimos días en **Colombia** causaron estragos en varias regiones del país, con afectaciones en un total de **27 de los 32 departamentos** que incluyen inundaciones, desbordamientos en ríos y quebradas, y **desprendimientos que afectan a 46 000 familias.**
+
+“En el consolidado estamos hablando de **186 municipios en 27 departamentos**, con 467 eventos registrados y podrían estar afectadas cerca de 46 000 familias”, explicó este domingo en una rueda de prensa el director de la **Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)**, Carlos Carrillo.
+
+El departamento del Chocó es el más damnificado por el momento, con **22 municipios afectados** y más de **30 000 familias damnificadas,** según las cifras preliminares ofrecidas por Carrillo, quien indicó que por el momento **no hay víctimas ni personas desaparecidas.**
+
+El comité departamental de gestión del **riesgo del Chocó** declaró calamidad pública tras las graves afectaciones en la región.
+
+En Bogotá también se presentaron afectaciones en los últimos días, con inundaciones en la autopista de entrada a la capital debido a las fuertes precipitaciones, así como en el departamento de La Guajira con más de 10 000 familias afectadas por inundaciones.
+
+Incendios en Chile
+------------------
+
+Las **autoridades chilenas** decretaron este martes, 12 de noviembre de 2024, una **alerta roja** en Viña de Mar y Quilpué debido a **cuatro focos de incendios forestales** que se propagaron durante la tarde al interior de la región de Valparaíso, mismo territorio afectado por el mega siniestro de febrero pasado.
+
+La emergencia fue decretada por el **Servicio Nacional de Prevención y Respuesta ante Desastres (Senapred)**, que además informó el despliegue de diversos equipos para combatir el avance de las llamas.
+
+Para el fin de la jornada, según la **Corporación Nacional Forestal (Conaf),** múltiples brigadas de bomberos y equipos de respuesta aún combaten los cuatro focos identificados en la región de Valparaíso, en el litoral central del país suramericano, siniestros que han consumido más de **155 hectáreas**.
+
+Incendios en Bolivia
+--------------------
+
+Los incendios forestales que este año arrasaron con cerca de 10 millones de hectáreas en Bolivia.
+
+Nevadas y lluvias intensas en Estados Unidos
+--------------------------------------------
+
+Según La Nación, este jueves 14 de noviembre de 2024, Estados Unidos está bajo una serie de alertas climáticas, que incluyen **nevadas, lluvias intensas y temperaturas fluctuantes**. De acuerdo con el pronóstico del Servicio Meteorológico Nacional (NWS), varias regiones del país experimentarán condiciones meteorológicas adversas.
+
+En la costa oeste, un sistema frontal proveniente del Pacífico se desplaza hacia el este, trayendo consigo lluvias en áreas de **baja altitud y nevadas** en las zonas montañosas de estados como Washington, Oregon y el norte de California. Las autoridades meteorológicas advierten sobre posibles deslizamientos de tierra y afectaciones al tráfico en carreteras de montaña debido a las nevadas y lluvias intensas.
+
+Además de las precipitaciones, de acuerdo con La Nación, se espera que las **zonas montañosas** experimenten **heladas significativas.** En lugares como las **Rocallosas y las Sierras de Nevada**, las temperaturas podrían descender de manera considerable, creando condiciones peligrosas para las personas que se encuentren en áreas de mayor altitud. Se recomienda a los residentes y viajeros tomar precauciones y mantenerse informados sobre los cambios en las alertas del clima.
+
+Tres parqueaderos de La Carolina suspenden servicio en Quito
+============================================================
+
+Del 18 al 20 de noviembre, los últimos parqueaderos de La Carolina entrarán en una fase de rehabilitación arquitectónica y tecnológica.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Los trabajos en los estacionamientos de La Carolina están llegando a su tramo final.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-59.jpg)
+
+**Tres parqueaderos** de **La Carolina** **suspenderán** el servicio desde la próxima semana, según informó la Empresa Pública Metropolitana de Obras Públicas (**Epmmop**). El lunes 18 de noviembre del 2024 comenzará la tercera y última fase de **rehabilitación** de los estacionamientos de este parque fundamental del centro-norte de Quito.
+
+### Más noticias
+
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+* [Epmmop anuncia la suspensión del intercambiador de la Occidental](https://www.elcomercio.com/actualidad/quito/epmmop-pospone-construccion-intercambiador-occidental.html "Epmmop anuncia la suspensión del intercambiador de la Occidental")
+* [Barrio de Quito tiene escasez de agua por más de 10 días](https://www.elcomercio.com/actualidad/quito/barrio-agua-quito-moradores-cortes.html "Barrio de Quito tiene escasez de agua por más de 10 días")
+
+La suspensión de parqueaderos
+-----------------------------
+
+Los parqueaderos inhabilitados desde este lunes 18 de noviembre del 2024, serán los conocidos como C2, C3 y C8. Es decir, los que están ubicados en las siguientes calles:
+
+* C2: av. Amazonas y Atahualpa.
+* C3: calle Japón y Amazonas.
+* C8: Eloy Alfaro y Severino.
+
+Los **trabajos de rehabilitación** de los estacionamientos deberán terminar el miércoles 20 de noviembre. Con ello se completa con la adecuación de todo el complejo de estacionamientos de este parque clave de la ciudad de Quito.
+
+Según la Epmmop, los trabajos serán de mejoras arquitectónicas y tecnológicas. Se implementarán jardines verticales y sistemas automatizados[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
+
+Alternativa para los usuarios
+-----------------------------
+
+Habrá, sin embargo, algunas **alternativas** para los **usuarios frecuentes** con la suspensión de los parqueaderos de La Carolina y que, sobre todo, **tengan contratos de alquiler** de un espacio para dejar su vehículo. Serán los estacionamientos que se rehabilitaron en la fase anterior.
+
+Estas serán las **alternativas** para estos usuarios frecuentes:
+
+* C1: Amazonas y República.
+* C4: De los Shyris y Portugal.
+* C6: De los Shyris y Rumipamba.
+
+Otras intervenciones en estacionamientos
+----------------------------------------
+
+No es el parque La Carolina el único sitio donde se realizan mejoras en el sistema de estacionamiento que llevaron a la suspensión del servicio, sino también en el parque Bicentenario. Próximamente, se los llevará a cabo en el parque Carollo y en Quitumbe, ambos al sur de Quito.
+
+La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba
+============================================================================
+
+Cristian Pita ganó la etapa 4 de la Vuelta al Ecuador y el ciclista combativo fue Bryan Sánchez. Brayan Obando se mantiene líder.
+---------------------------------------------------------------------------------------------------------------------------------
+
+![La etapa 4 de la Vuelta al Ecuador se corrió en Riobamba.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-25.jpg)
+
+  
+La **Vuelta al Ecuador** continúa y cerró la etapa intermedia de la competencia durante este jueves 14 de noviembre del 2024. En su cuarta fase, el evento contó con un circuito cerrado en la ciudad de **Riobamba**.
+
+Después de finalizar el trayecto previo en **Alausí**, los equipos se trasladaron a la capital de Chimborazo para continuar con su trajín. De cara a la nueva etapa, la tabla general llegó con ligeros cambios dentro de sus distintas categorías.
+
+### Más noticias:
+
+* [¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?](https://www.elcomercio.com/deportes/equipos-ciclismo-vuelta-ecuador-2024.html "¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?")
+* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
+* [¿Cómo será la etapa 4 de la Vuelta al Ecuador 2024?](https://www.elcomercio.com/deportes/como-sera-etapa-4-vuelta-al-ecuador-2024.html "¿Cómo será la etapa 4 de la Vuelta al Ecuador 2024?")
+
+Para la etapa 4, aunque en la previa se otorgó el jersey amarillo de líder de la clasificación a Óscar Sevilla del Team Medellín, quién partió con tal distinción fue **Brayan Obando** del Movistar Best PC. Ambos ciclistas habían finalizado la etapa 3 con los mismos tiempos, sin embargo, Obando se impuso en la tabla general debido a los resultados globales de ingreso a la meta.
+
+El circuito de Riobamba abarcó 129, 6 kilómetros de rotura y partió desde el sector de la Loma de Quito, mismo lugar destinado para la llegada. En total, ocho vueltas completarían el trazado la carrera y entre ellas se dividirían tres metas volantes y tres puertos de montaña.
+
+Una etapa que alternó entre el sprint y la montaña
 --------------------------------------------------
 
-Permite que tus consumidores sean parte activa de tu narrativa.
+En la trayectoria de la cuarta etapa de la Vuelta a Ecuador se estableció a la primera y última vuelta como aquellas en las que no se disputen clasificación de sprint ni de escalada. Las metas volantes se fijaron en las vueltas dos cuatro y seis y los puertos de montaña, de tercera categoría, en las vueltas tres, cinco y siete.
 
-Ya sea a través de comentarios, fotos, historias o incluso diseños colaborativos, los usuarios se sienten más conectados con una marca cuando pueden verse reflejados en su creación.
+Dentro de las metas volantes, el líder en los tres puntos fue Alejandro Pita del **Team Saitel**, quien estuvo en la disputa con **Kevin Navas** y Brayan Sánchez. Pese a ello, eso no bastó para destronar a Esteban Villarreal del **CYS Technology** del liderato de tal clasificación.
 
-Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador
+En cuanto a los puertos de montaña, los tres fueron encabezados por Kevin Navas del Team Banco Guayaquil. Aquello, sin embargo, no bastó para destronar a Juan Córdova del CYS Technology, que se había hecho con el jersey de puntos rojos en la etapa 3.
+
+Cuando finalizaron los espacios de tales clasificaciones, la fuga se acortó y se dio una llegada masiva.
+
+**Cristian Pita** del Team Banco Guayaquil fue quien ganó la etapa y el ciclista combativo fue Bryan Sánchez.  
+Brayan Obando se mantiene líder en la carrera .
+
+Dentro de la tabla general y las demás clasificaciones se mantuvieron sus líderes. Brayan Obando del Team Movistar Best PC continuará con el jersey amarillo.
+
+En la clasificación de montaña, Juan Córdova del CYS Technology continúa con el liderato, mientras que en las metas volantes también lo hace Esteban Villarreal del mismo equipo. Joffre Imbaquingo, del Giant Toscana continúa como mejor juvenil y con jersey blanco.
+
+Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson 
+=======================================================================================
+
+Netflix se adentra en el mundo de las transmisiones deportivas en vivo.
+-----------------------------------------------------------------------
+
+![Netflix entra fuerte al ‘streaming’ deportivo con la NFL y WWE. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Netflix-transmision-en-vivo.jpg)
+
+**Netflix** ha dado un paso audaz hacia el mundo de las **transmisiones deportivas en vivo**. Este movimiento busca **competir con otras plataformas** que ya han incursionado en este sector.  
+
+### Más noticias
+
+* [¿Qué tan fiel es la película de ‘Pedro Páramo’ en Netflix al libro de Juan Rulfo?](https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html "https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html")
+* [La batalla final de ‘Cobra Kai’ se desata esta semana en Netflix](https://www.elcomercio.com/tendencias/trending/cobra-kai-netflix-serie-estreno.html "https://www.elcomercio.com/tendencias/trending/cobra-kai-netflix-serie-estreno.html") 
+
+La **plataforma de ‘streaming’**, conocida principalmente por sus series y películas, ahora busca ofrecer **eventos deportivos en tiempo real**. El primer evento con el que apostaron fue la **Copa Netflix**, que reunió a **destacados deportistas de golf y Fórmula 1** el 14 de noviembre de 2023 en el **Wynn Golf Club de Las Vegas**, de acuerdo con [Marca](https://www.marca.com/polideportivo/2023/10/18/652f9ed8268e3eb8608b456f.html "https://www.marca.com/polideportivo/2023/10/18/652f9ed8268e3eb8608b456f.html").  
+
+**Netflix y su giro a las transmisiones en vivo**  
+---------------------------------------------------
+
+La **decisión de Netflix** de aventurarse en las **transmisiones deportivas** responde a un **cambio estratégico** más amplio dentro del sector del ‘streaming’. Durante años, **la compañía se centró exclusivamente en contenido grabado**. Sin embargo, con la **creciente competencia de plataformas como Amazon y Apple TV**, que se le adelantaron en ofrecer deportes en vivo, era solo cuestión de tiempo antes de que Netflix hiciera su movimiento, a decir de [ADSL Zone](https://www.adslzone.net/noticias/streaming-tv/netflix-millones-emitir-directo-deporte-enero-2025/ "https://www.adslzone.net/noticias/streaming-tv/netflix-millones-emitir-directo-deporte-enero-2025/").  
+
+**La plataforma tiene planes ambiciosos**. Se espera que comience a transmitir **partidos de la NFL el 25 de diciembre de 2024**, lo que marcará un nuevo capítulo en su historia, según [Infobae](https://www.infobae.com/mexico/2024/11/03/netflix-transmitira-partidos-de-la-nfl-en-vivo-cuando-y-a-que-hora-verlos-en-mexico/ "https://www.infobae.com/mexico/2024/11/03/netflix-transmitira-partidos-de-la-nfl-en-vivo-cuando-y-a-que-hora-verlos-en-mexico/"). Este acuerdo representa una **oportunidad significativa para atraer nuevos suscriptores**, especialmente dado que la **NFL es una de las ligas más populares y rentables del mundo**. A esto se suma la apuesta por la transmisión de la popular **lucha libre WWE** a partir de enero de 2025. 
+
+**Desafíos y oportunidades** 
+-----------------------------
+
+A pesar del entusiasmo por estas nuevas iniciativas, **Netflix enfrenta desafíos significativos**. La empresa debe asegurarse de que sus **inversiones en derechos deportivos sean rentables**. Con aproximadamente **270 millones de suscriptores**, la presión para atraer aún más usuarios es intensa. Además, el crecimiento del número de suscriptores ha sido lento en el último año, según la web [Redacción](https://www.redaccion.com.ar/netflix-comenzara-a-transmitir-deportes-en-vivo-para-competir-con-la-television-y-otras-plataformas/ "https://www.redaccion.com.ar/netflix-comenzara-a-transmitir-deportes-en-vivo-para-competir-con-la-television-y-otras-plataformas/"). 
+
+Algunos analistas sugieren que comenzar con **eventos más pequeños como la Copa Netflix resultó estrategia prudente**. Este tipo de pruebas permite a la plataforma **evaluar su capacidad para manejar transmisiones en vivo** sin comprometerse inicialmente con inversiones masivas 
+
+Sin embargo, **si esta estrategia resulta exitosa**, podría abrir la puerta a adquisiciones más grandes y derechos sobre competiciones deportivas reconocidas. 
+
+**Logan Paul vs. Mike Tyson: el plato fuerte** 
+-----------------------------------------------
+
+De acuerdo a la web [Bío Bío Chile](https://www.biobiochile.cl/noticias/servicios/toma-nota/2024/11/13/mike-tyson-vs-jake-paul-cuando-y-donde-ver-en-vivo-la-pelea-entre-el-ex-boxeador-y-el-influencer.shtml "https://www.biobiochile.cl/noticias/servicios/toma-nota/2024/11/13/mike-tyson-vs-jake-paul-cuando-y-donde-ver-en-vivo-la-pelea-entre-el-ex-boxeador-y-el-influencer.shtml"), este viernes 15 de noviembre, la esperada pelea entre **Mike Tyson y Jake Paul** será **transmitida en vivo exclusivamente por Netflix**, lo que marcará un hito en el mundo del boxeo y las transmisiones deportivas. La pelea se la ha vendido como un **enfrentamiento histórico entre Tyson, de 58 años, y Paul, 31 años más joven**, a través de la plataforma de ‘streaming’. Tyson, con un récord de 50 victorias (44 por K.O.) y 6 derrotas, regresa al ring tras 20 años de retiro, mientras que Paul, con 10 victorias y 1 derrota en su corta carrera profesional, ha sido una figura polémica dentro y fuera del boxeo. Con entradas que alcanzan los 20 000 dólares, el combate, que se celebrará en el AT&T Stadium de Arlington, Texas, también establecerá el r**écord de mayor diferencia de edad entre dos boxeadores en la historia**.  
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCSOe26v83X/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Netflix US (@netflix)](https://www.instagram.com/p/DCSOe26v83X/?utm_source=ig_embed&utm_campaign=loading)
+
+Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón
+================================================================================
+
+Carlos Vives celebró el reconocimiento de los Latin Grammy con sus amigos y familiares.
+---------------------------------------------------------------------------------------
+
+![Carlos Vives celebró la noche más importante de su carrera. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-14T132324.687.jpg)
+
+**Carlos Vives** celebró la noche más significativa de su carrera al recibir el máximo galardón de los **Latin Grammy 2024.** La velada estuvo llena de emoción y homenajes.
+
+El artista **colombiano** compartió ese **reconocimiento** con su familia, amigos y figuras destacadas de la música **latina**. Todos se unieron para rendirle tributo por su trayectoria.
+
+### **Más noticias:**
+
+* [Premios Latin Grammy 2024: cuándo y dónde ver la edición 25 desde Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front "https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html?source=Internal&ref=Latest%20News%20Widget%20-%20Front")
+* [+57 de Karol G, Maluma, Feid… podría salir de las plataformas digitales](https://www.elcomercio.com/tendencias/entretenimiento/polemica-cancion-maluma-57-controversia-feid.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/polemica-cancion-maluma-57-controversia-feid.html?source=Internal&ref=Single+Content+Link")
+* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html")
+
+**Carlos Vives recibió el reconocimiento de los Latin Grammy rodeado de amigos y familiares**
+---------------------------------------------------------------------------------------------
+
+La velada comenzó con una impresionante **sección musical**, en la que participaron leyendas como Rubén Blades, Juan Luis Guerra, Gloria y Emilio Estefan, y Alejandro Sanz.
+
+La actuación más destacada fue la interpretación de Juanes de La Gota fría, una versión rockera que hizo ponerse de pie al propio Carlos Vives, quien expresó su emoción por la cantidad de artistas que lo acompañaron esa noche.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DCUwoJJp_XP/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCUwoJJp_XP/?utm_source=ig_embed&utm_campaign=loading)
+
+“Invité a todos los amigos que pude y son muchos”, comentó el colombiano a EFE, destacando la presencia de su familia, incluidos su esposa, Claudia Elena Vásquez, y su madre, Aracely Restrepo.
+
+**Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón**
+------------------------------------------------------------------------------------
+
+Carlos Vives, visiblemente conmovido, tras ser reconocido como la **Persona de Año,** señaló que ese premio era un logro esperado, pero no sin esfuerzo.
+
+“Esta era una meta que nos propusimos, aunque parecía difícil”, explicó su esposa, quien ha sido una pieza clave en su carrera.
+
+> [View this post on Instagram](https://www.instagram.com/p/DCVSoR9pPc2/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Carlos Vives (@carlosvives)](https://www.instagram.com/p/DCVSoR9pPc2/?utm_source=ig_embed&utm_campaign=loading)
+
+Por su parte, su madre, a sus 89 años, se mostró emocionada y orgullosa del trabajo y la dedicación de su hijo.
+
+El reconocimiento también estuvo acompañado de palabras de admiración de artistas como Gloria Estefan, quien recordó el primer encuentro con Vives, y Julieta Venegas, quien destacó tanto su calidad humana como artística.
+
+“Carlos nos abrió caminos a todos los artistas colombianos”, expresó Goyo, de ChocQuibTown, reafirmando el impacto de Vives en la música latina.
+
+Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad
 ==================================================================================
 
-Las nueve empresas distribuidoras de energía eléctrica presentaron los horarios para cada una de las unidades de negocio que manejan
-------------------------------------------------------------------------------------------------------------------------------------
+La noche de este miércoles 13 de noviembre, el Pleno de la Asamblea aprobó una resolución sobre la sanción a la vicepresidenta Verónica Abad.
+---------------------------------------------------------------------------------------------------------------------------------------------
 
-![Los cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz-1.jpg)
+![El Pleno de la Asamblea aprobó una resolución sobre la sanción a la Vicepresidenta de la República, la noche del 13 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/asamblea-.jpg)
+
+Legisladoras de la Asamblea Nacional impulsan un **juicio político** a la ministra de Trabajo, **Ivonne Núñez,** por la suspensión de sus funciones a la vicepresidenta de la República, **Verónica Abad**.
+
+### Más noticias
+
+* [Ministerio de Gobierno rechaza aprobación de resolución a favor de Verónica Abad](https://www.elcomercio.com/actualidad/politica/ministerio-de-gobierno-pronunciamiento-aprobacion-resolucion-veronica-abad-asamblea.html "Ministerio de Gobierno rechaza aprobación de resolución a favor de Verónica Abad")
+* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
+* [Verónica Abad se presentará en la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/veronica-abad-pleno-asamblea-nacional-viviana-veloz.html "Verónica Abad se presentará en la Asamblea Nacional")
+
+La solicitud de juicio político
+-------------------------------
+
+Este jueves 14 de noviembre de 2024, **cuatro asambleístas** de diferentes bancadas **solicitaron un juicio político en contra de la ministra Núñez**, donde se la acusa de incumplimiento de funciones. Esta solicitud tendría 44 firmas de respaldo.
+
+Las asambleístas que forman parte de esta petición son:
+
+* Jahiren Noriega, Revolución Ciudadana
+* Carla Cruz, Partido Social Cristiano
+* Mariana Yumbay, Pachakutik
+* Cristina Chávez, independiente
+
+Otras causales tomadas en cuenta para esta solicitud son arrogarse funciones que le corresponden a la Asamblea Nacional. También la creación del procedimiento para **habilitar sumarios administrativos** en contra de autoridades de elección popular.
+
+El Ministerio de Trabajo informó de la suspensión de **150 días sin remuneración** a Abad, el pasado viernes 8 de noviembre de 2024.
+
+La funcionaria fue sancionada por una **falta administrativa**, tras no presentarse en Ankara, Turquía, antes del 1 de septiembre de 2024, como se le ordenó mediante el Decreto Ejecutivo No. 353.
+
+La Vicepresidenta llegó el 9 de septiembre desde **Tel Aviv**, Israel, presuntamente sin justificar su retraso. Esto implicó su **ausencia** en su destino asignado.
+
+La noche de este miércoles 13 de noviembre de 2024, el Pleno de la **Asamblea** aprobó una resolución sobre la sanción a la vicepresidenta suspendida, **Verónica Abad**.
+
+La sesión inició con la **comparecencia virtual** de la vicepresidenta Verónica Abad, desde Ankara, [Turquía](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad").
+
+Este jueves 14 de noviembre, el Ministerio de Gobierno publicó un pronunciamiento en el que rechaza la aprobación de la resolución a favor de la Vicepresidenta.
+
+Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?
+====================================================================
+
+El regreso de Mike Tyson al boxeo se dará ante el boxeador y youtuber Jake Paul. Muchos temen por la salud de 'Iron Mike'.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Mike Tyson regresa al ring a los 58 años para enfrentar a Jake Paul, de 27.](https://www.elcomercio.com/wp-content/uploads/2024/11/tyson.jpg)
+
+El icónico boxeador **Mike Tyson**, a sus 58 años, regresará al cuadrilátero este viernes 15 de noviembre del 2024 en un combate profesional contra el boxeador y youtuber **Jake Paul**, de 27 años, en el AT&T Stadium de Arlington, Texas.  
+  
+Su regreso al ring plantea riesgos para su **salud**, pues lo hará después de 19 años desde su última pelea profesional. Además, este combate será histórico por la diferencia de edad entre ambos boxeadores, con 31 años de diferencia, lo que establece un récord en la historia del boxeo profesional.  
+  
+**Más noticias:**
+
+* [¿A qué hora juega la Selección de Ecuador vs. Bolivia en eliminatorias?](https://www.elcomercio.com/deportes/futbol/ecuador-vs-bolivia-hora-juega-partido-eliminatorias.html "¿A qué hora juega la Selección de Ecuador vs. Bolivia en eliminatorias?")
+* [Posible alineación de Ecuador para enfrentar a Bolivia en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineacion-ecuador-para-enfrentar-a-bolivia-eliminatorias.html "Posible alineación de Ecuador para enfrentar a Bolivia en eliminatorias")
+* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
+
+Mike Tyson salud
+----------------
+
+**Tyson**, quien acumula 50 victorias en su carrera, 44 de ellas por nocaut, y seis derrotas, buscará reavivar su legado, aunque su regreso al ring plantea riesgos significativos para su salud.
+
+A lo largo de su carrera, **Tyson** fue conocido por su estilo agresivo, pero también por recibir golpes fuertes, lo que, según expertos médicos, podría aumentar el riesgo de daño neurológico, especialmente al regresar a los 58 años.
+
+Los golpes recibidos a lo largo de tantos combates suelen dejar secuelas. La última vez que Tyson peleó profesionalmente fue en 2005, cuando fue derrotado por el irlandés **Kevin McBride.**  
+  
+A medida que los atletas envejecen, mantenerse en forma física y mentalmente se vuelve más complicado, especialmente en deportes como el boxeo, donde los desafíos neurológicos son mayores.
+
+Mucho dinero
+------------
+
+Este combate no solo genera controversia por la edad de Tyson, sino también por el alto atractivo económico.
+
+Se estima que la bolsa total alcanzará los 80 millones de dólares, repartidos equitativamente entre Tyson y Paul. Las entradas para asistir al evento en el **AT&T Stadium** varían entre los 5 mil y los 20 mil dólares, y la opción más exclusiva, una suite especial, cuesta dos millones de dólares.
+
+Además de la pelea principal, se ha confirmado una revancha entre las boxeadoras Amanda Serrano y Katie Taylor, quienes volverán a enfrentarse por los títulos de peso súper ligero.
+
+Aunque la pelea entre **Tyson y Paul** se considera una exhibición, será un espectáculo de alto voltaje, con ocho asaltos de dos minutos, guantes de 14 onzas y sin casco protector, que promete atraer a miles de fanáticos del boxeo en todo el mundo.
+
+Este regreso de Tyson, tras años de retiro, pone en evidencia el impacto que sigue teniendo en el boxeo, a pesar de los riesgos involucrados en su regreso.
+
+En combate será transmitido en directo por **Netflix**.
+
+**La leyenda de Tyson continúa**
+--------------------------------
+
+Mike Tyson regresa al ring a los 58 años para enfrentar a Jake Paul, de 27, en un combate que marcará un récord histórico por la mayor diferencia de edad en la historia del boxeo profesional, con 31 años de diferencia.
+
+Con este enfrentamiento, Tyson busca superar el récord de [Steve Ward](https://en.wikipedia.org/wiki/Steve_Ward_(boxer)), quien peleó a los 60 años.
+
+A lo largo de su carrera, Tyson logró 50 victorias, 44 por nocaut, y 6 derrotas, mientras que Paul acumula 9 triunfos (6 por nocaut) y 1 derrota.
+
+Este regreso de Tyson añade otro hito a su legendaria carrera.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCVEkVGO57i/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Netflix US (@netflix)](https://www.instagram.com/reel/DCVEkVGO57i/?utm_source=ig_embed&utm_campaign=loading)
+
+Marco Rubio, el latino que será canciller de Donald Trump
+=========================================================
+
+Nació en Miami, Florida. Es el segundo hijo de los inmigrantes cubanos Mario Rubio y Oria García.
+-------------------------------------------------------------------------------------------------
+
+![Marco Rubio durante su discurso.](https://www.elcomercio.com/wp-content/uploads/2024/11/Marco-rubio-efe-3.jpg)
+
+[Marco Antonio Rubio](https://www.elcomercio.com/actualidad/mundo/trump-confirma-marco-rubio-sera-el-proximo-secretario-de-estado-de-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/trump-confirma-marco-rubio-sera-el-proximo-secretario-de-estado-de-ee-uu.html"), quien nació el 28 de mayo de 1971 en Miami, es un **político conservador estadounidense** de ascendencia cubana. Pertenece al **Partido Republicano** y es senador por el estado de Florida.
+
+### Más noticias
+
+* [Trump confirma que Marco Rubio será el próximo secretario de Estado de EE.UU.](https://www.elcomercio.com/actualidad/mundo/trump-confirma-marco-rubio-sera-el-proximo-secretario-de-estado-de-ee-uu.html "https://www.elcomercio.com/actualidad/mundo/trump-confirma-marco-rubio-sera-el-proximo-secretario-de-estado-de-ee-uu.html")
+* [Trump planea nombrar a Marco Rubio como Secretario de Estado](https://www.elcomercio.com/actualidad/mundo/trump-nombraria-al-cubano-estadounidense-marco-rubio-como-secretario-de-estado.html "https://www.elcomercio.com/actualidad/mundo/trump-nombraria-al-cubano-estadounidense-marco-rubio-como-secretario-de-estado.html")
+
+Ocupará desde el 20 de enero del 2025 el cargo de **Secretario de Estado de los Estados Unidos** por **designación del presidente electo Donald Trump**, convirtiéndose en el primer político de ascendencia hispana en obtenerlo.
+
+Fue **legislador de Florida** y ahora junto a **Ted Cruz del estado de Texas** y **Robert Menendez por Nueva Jersey**, son los únicos senadores en el Congreso de los Estados Unidos con **raíces cubanas.**
+
+Biografía
+---------
+
+Marco Rubio nació en Miami, Florida. Es el segundo hijo de los **inmigrantes cubanos** **Mario Rubio** y **Oria García**. Sus padres emigraron de Cuba a los Estados Unidos en 1956 y se nacionalizaron como ciudadanos en 1975.
+
+De familia católica, Rubio realizó su primera comunión en 1984. **Fue confirmado y se casó en 1998 con la colombiana Jeanette Dousdebes**, excajera de un banco y animadora de los Miami Dolphins.​ Los Rubio tienen cuatro hijos y viven en West Miami.
+
+Marco Rubio será el próximo secretario de Estado de EE.UU.
+----------------------------------------------------------
+
+El presidente electo de Estados Unidos, Donald Trump, anunció la nominación del senador por Florida Marco Rubio como **nuevo secretario de Estado** para su próximo gobierno, que arrancará en enero, según Efe.
+
+A través de un comunicado, el expresidente republicano confirmó la noticia que llevaba varios días circulando, la elección de Rubio como **máximo representante de la diplomacia estadounidense,** convirtiéndose en el **primer latino en asumir el cargo.**
+
+“Marco es un **líder muy respetado** y una voz muy poderosa en pro de la libertad. Será un firme defensor de nuestra nación, un verdadero amigo de nuestros aliados y un guerrero valiente que nunca se rendirá ante nuestros adversarios”, apuntó el presidente electo.
+
+¿Su relación con Cuba, Venezuela y Nicaragua?
+---------------------------------------------
+
+Marco Rubio es partidario de la **mano dura** con **China e Irán,** y de las **sanciones sobre Cuba, Venezuela y Nicaragua.**
+
+Rubio ganó popularidad a escala nacional cuando participó en las **primarias por la nominación** presidencial republicana de 2016, en las que se enfrentó a Trump, entre otros.
+
+Tras retirarse de esa contienda, Rubio expresó su lealtad al magnate neoyorquino y, desde el Comité de Relaciones Exteriores del Senado, tuvo **influencia en la política** hacia Latinoamérica de la primera Administración de Trump (2017-2021).
+
+El de Marco Rubio es el **tercer secretario** que anuncia Trump para su gabinete, tras el de Defensa, Pete Hegseth, y la de Seguridad Nacional, Kristi Noem.
+
+Entre otros nombramientos, el republicano también colocó a **Susie Wiles como su jefa de gabinete,** a John Ratcliffe como director de la CIA, a Sliese Stefanik como embajadora ante la ONU y a Tom Homan como **zar de la frontera.  
+**  
+  
+
+Ecuador despliega un amplio dispositivo de seguridad para una cumbre sin presidentes
+====================================================================================
+
+La Seguridad durante la Cumbre Iberoamericana de Presidentes y Jefes de Estado es uno de los principales puntos de preocupación
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Una niña posa en medio de soldados ecuatorianos durante la inauguración de una nueva escuela del Atlético de Madrid este jueves, en Cuenca (Ecuador), en la Cumbre Iberoamericana de Jefes de Estado.](https://www.elcomercio.com/wp-content/uploads/2024/11/e2d8181ca242df852afd137af1c97f0d7584ed26.jpg)
+
+**Grupos de inteligencia**, “barridos” electrónicos y antiexplosivos, “cápsulas de seguridad” para cancilleres y embajadores, **Fuerzas Armadas** por toda la ciudad y en los puntos estratégicos, drones y naves aeropoliciales, y un total de 2 400 agentes y militares integran el dispositivo de seguridad desplegado de forma excepcional en Cuenca para reforzar la seguridad de la XXIX **Cumbre Iberoamericana**, que se celebra este jueves y viernes[.](https://es.wikipedia.org/wiki/Cumbre_Iberoamericana "https://es.wikipedia.org/wiki/Cumbre_Iberoamericana")
+
+### Más noticias
+
+* [El rey Felipe VI visita una escuela de fútbol en Cuenca](https://www.elcomercio.com/actualidad/el-rey-felipe-vi-visita-una-escuela-de-futbol-en-cuenca.html "https://www.elcomercio.com/actualidad/el-rey-felipe-vi-visita-una-escuela-de-futbol-en-cuenca.html")
+* [Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos](https://www.elcomercio.com/actualidad/mundo/arranca-reunion-cancilleres-cumbre-presidentes-latinoamericanos.html "https://www.elcomercio.com/actualidad/mundo/arranca-reunion-cancilleres-cumbre-presidentes-latinoamericanos.html")
+
+Seguridad durante la cumbre
+---------------------------
+
+“Tenemos en este momento **22 cápsulas de seguridad con los cancilleres** y cápsulas adicionales con embajadores y ministros de Estado. La seguridad de los presidentes y vicepresidentes de la República está a cargo en este momento de las **Fuerzas Armadas**“, declaró hoy el comandante del operativo, el coronel José Vargas.
+
+La cumbre, marcada por la **ausencia de líderes de la región** y a la que solo asisten el presidente anfitrión Daniel Noboa; el rey de España, Felipe VI; y el presidente de Portugal, Marcelo Rebelo de Sousa, se realiza bajo un intenso control y **supervisión policial** condicionado por la oleada de violencia que Ecuador vive desde finales de 2020.
+
+La seguridad ciudadana en Ecuador
+---------------------------------
+
+Si bien los niveles de inseguridad de **Cuenca**, situada al sur del país, no están entre los más altos, las bandas del crimen organizado situó a Ecuador, en 2023, como la nación latinoamericana con más homicidios per cápita, con una tasa de **47,2 homicidios por cada 100 000 habitantes**.
+
+“Hasta el momento no hemos tenido ninguna novedad, más bien tenemos que agradecer la colaboración de la ciudadanía ante el cierre de ciertos lugares que por **seguridad** hemos tenido que **aislar**“, señaló el también jefe de la Zona 6 de Cuenca, que comprende las provincias de Azuay, Cañar y Morona Santiago.
+
+El 9 de enero de este año, coincidiendo con el inicio del mandato del **presidente Noboa**, un grupo de encapuchados fuertemente armado entró un estudio del canal **TC Televisión, en Guayaquil** y obligó al personal a tumbarse en el suelo, mientras se oían disparos y gritos. Las imágenes del suceso, emitido en directo, dieron la vuelta al mundo.
+
+El suceso, que generó una profunda alarma social, se produjo además en medio de una **oleada de violencia**, fugas de narcotraficantes y disturbios en algunas prisiones que motivaron que el presidente Daniel Noboa declarara el estado de excepción en el país.
+
+Este mismo martes, a dos días de la cumbre, se produjo una **nueva masacre en la Penitenciaría del Litoral, en Guayaquil,** la cárcel más violenta de Ecuador, con un balance de diecisiete reos asesinados y catorce heridos.
+
+Mandatario paraguayo no asistió
+-------------------------------
+
+El mandatario **paraguayo, Santiago Peña,** uno de los pocos cuya asistencia estaba confirmada, suspendió este jueves su participación a la **Cumbre** debido al escenario político y social “inestable” en Ecuador, segín informó la Presidencia de Paraguay.
+
+En paralelo al evento, varias organizaciones sociales celebran una “**contracumbre**” con la convocatoria de varias manifestaciones.
+
+“Hay una preocupación normal por la contracumbre, pero lo importante es que pensando en el país, no en temas **políticos ni gremiales**, actúen con altura, de forma pacífica y que no dañen la imagen que hasta el momento está dando Cuenca de una ciudad absolutamente culta, respetuosa”, recalcó el coronel Vargas.
+
+Algunas calles de la ciudad permanecen cerradas los dos días que dura esta cita internacional, especialmente las cercanas al **Museo Pumapungo**, que será la sede de la reunión de Jefes y Jefas de Estado y de Gobierno, así como del encuentro previo de los cancilleres.
+
+**_EFE_**
+
+Ángela Aguilar ya es la Mujer del Año 2024
+==========================================
+
+El galardón se lo entregó una reconocida revista mexicana.
+----------------------------------------------------------
+
+![La mexicana Ángela Aguilar tiene 21 años. Foto: Facebook](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-14T122306.840.jpg)
+
+**Ángela Aguilar**, la joven cantante de **música regional mexicana**, recibió el prestigioso premio Mujer del Año 2024. ¿Quién le otorgó el **galardón**? Te contamos todos los detalles.
+
+### **Más noticias:**
+
+* [Ángela Aguilar causa polémica con el lanzamiento de su muñeca](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html")
+* [Ángela Aguilar publica un mensaje viral tras el viaje de Nodal a Argentina](https://www.elcomercio.com/afull/angela-aguilar-christian-nodal-relacion.html "https://www.elcomercio.com/afull/angela-aguilar-christian-nodal-relacion.html") 
+* [Cazzu redefine su carrera como símbolo de madurez y autocontrol](https://www.elcomercio.com/tendencias/entretenimiento/cazzu-argentina-simbolo-fuerza-angela-aguilar-polemica.html "https://www.elcomercio.com/tendencias/entretenimiento/cazzu-argentina-simbolo-fuerza-angela-aguilar-polemica.html")
+
+**Ángela Aguilar ya es la Mujer del Año**
+-----------------------------------------
+
+La ceremonia fue celebrada el pasado 13 de noviembre en la **Ciudad de México**. “Estoy muy agradecida de estar aquí esta noche. Cada vez que me subo al escenario trato de representar a **México**, el país que me ha dado tanto”.
+
+También hizo hincapié en la **importancia** de apoyarse mutuamente entre mujeres y dedicó palabras a las nuevas generaciones que la ven como un modelo a seguir.
+
+> [View this post on Instagram](https://www.instagram.com/p/DCU9ml7BfwG/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Glamour México y Latinoamérica (@glamourmexico)](https://www.instagram.com/p/DCU9ml7BfwG/?utm_source=ig_embed&utm_campaign=loading)
+
+**Reacciones a favor y en contra del nombramiento**
+---------------------------------------------------
+
+El reconocimiento generó reacciones mixtas en redes sociales, donde algunos aplaudieron su talento y otros criticaron su nombramiento, especialmente tras su reciente matrimonio con **Christian Nodal,** quien fue pareja de su amiga **Cazzu**.
+
+Durante su emotivo discurso, **Aguilar** agradeció a su familia y a las mujeres que han luchado por abrir caminos en la industria musical.
+
+A pesar de las críticas, que incluyeron una petición en **Change.org** para revocar el premio, **Glamour** defendió su decisión al señalar que Aguilar representa a una nueva generación de mujeres que transforman la música y promueven una representación auténtica de la cultura mexicana.
+
+La gala también reconoció a otras personalidades como **Dulce María y Galilea Montijo**.
+
+Incendio forestal en el Parque Nacional El Cajas continúa activo y avanza
+=========================================================================
+
+El incendio forestal lleva activo desde el sábado 9 de noviembre y ya ha consumido más de 200 hectáreas de vegetación.
+----------------------------------------------------------------------------------------------------------------------
+
+![Las labores de control de fuego se iniciaron el sábado 9 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/Molleturo.jpg)
+
+Azuay se ha visto golpeada por **al menos 10 incendios forestales** en diferentes puntos de la provincia, a causa de la **sequía** que afronta el Ecuador. Uno de ellos se ubica en Chiri
+
+### Más noticias
+
+* [Azuay registra 10 incendios forestales activos este miércoles 13 de noviembre](https://www.elcomercio.com/actualidad/ecuador/azuay-incendios-forestales-activos.html "Azuay registra 10 incendios forestales activos este miércoles 13 de noviembre")
+* [Un incendio ocurrió por causa de una vela encendida, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-se-registro-a-causa-de-vela-encendida-quito.html "Un incendio ocurrió por causa de una vela encendida, en Quito")
+* [El incendio forestal en los Ilinizas fue controlado](https://www.elcomercio.com/actualidad/ecuador/incendio-forestal-ilinizas-controlado-mejia.html "El incendio forestal en los Ilinizas fue controlado")
+
+Incendio en Cruzpamba
+---------------------
+
+Un **incendio forestal** se inició el sábado 9 de noviembre en el **sector de Cruzpamba**, en la vía Molleturo, a la altura del kilómetro 17. Este incendio compromete la vegetación de**l Parque Nacional El Cajas.**
+
+En el área trabaja el **Cuerpo de Bomberos de Cuenca**, junto a personal del GAD Parroquial de Chiquintad.
+
+Para el combate de este incendio **se lucha de forma manual,** ya que es imposible el acceso de vehículos hasta la zona afectada. De igual manera, se realiza un monitoreo con la ayuda de drones.
+
+> [#IncendioMolleturo](https://twitter.com/hashtag/IncendioMolleturo?src=hash&ref_src=twsrc%5Etfw)🌿🔥  
+> Nuestros drones permiten visualizar el avance del incendio forestal en Cruzpamba, vía Cuenca – Molleturo.  
+> Personal combate de forma manual el fuego ya que es imposible el acceso de vehículos. [pic.twitter.com/hT9bXTT2X2](https://t.co/hT9bXTT2X2)
+> 
+> — Bomberos Cuenca (@Bomberos\_Cuenca) [November 13, 2024](https://twitter.com/Bomberos_Cuenca/status/1856812473166512572?ref_src=twsrc%5Etfw)
+
+La lucha incansable contra el fuego
+-----------------------------------
+
+Este jueves 14 de noviembre de 2024, el **Cuerpo de Bomberos de Cuenca**, la Secretaría de Gestión de Riesgos, Etapa, Elecasutro y el Municipio cuencano luchan conjuntamente para controlar el incendio.
+
+Un helicóptero con ‘bambi bucket’ brinda a**poyo desde el aire con descargas de agua**. Hasta ayer, 16 400 litros de agua se descargaron en los incendios forestales de Chaucha y zonas aledañas al PArque Nacional El Cajas.
+
+El jefe de Bomberos Cuenca, **Sixto Heras,** informó que los equipos de socorro se encuentran en el km 17 del sector Cruzpamba, que es parte del Parque Nacional El Cajas, en las labores de control de fuego.
+
+Informó que elaboraron el plan de trabajo desde el Puesto de Mando Unificado para que el personal de la Fuerza Aérea, más los militares y los helicópteros inicien los trabajos.
+
+Además, señaló que sin duda **este incendio se debe “a la mano del hombre”.** El viento podría haber expandido el fuego de cualquier quema.
+
+La comunidad, guardaparques y voluntarios colaboran con las instituciones en el control del fuego, que está quemando pajonal, chaparro (altamente inflamable). **El fuego ha consumido ya más de 200 hectáreas.**
+
+El capitán Heras informó que el fuego se inició en la **zona de Cruzpamba,** pero lamentablemente ya se extiende a la zona de las Dos Cuevas. El incendio se encuentra totalmente activo.
+
+La **topografía es inclinada en más del 90%** por lo que es de difícil acceso, por ello necesitan ayuda aérea. Los bomberos deben identificar senderos y abrir trochas para poder acceder a la cumbre, donde se registra el incendio.
+
+> Helicóptero con bambi bucket de las [@FFAAECUADOR](https://twitter.com/FFAAECUADOR?ref_src=twsrc%5Etfw) arriba al sector de Cruzpamba, para un reconocimiento del lugar, previo a iniciar con las labores de control del incendio forestal. [pic.twitter.com/30UDzq2zIo](https://t.co/30UDzq2zIo)
+> 
+> — Bomberos Cuenca (@Bomberos\_Cuenca) [November 14, 2024](https://twitter.com/Bomberos_Cuenca/status/1857103682078167148?ref_src=twsrc%5Etfw)
+
+El rey Felipe VI visita una escuela de fútbol en Cuenca
+=======================================================
+
+El rey Felipe VI asistió en Cuenca a la cancha de la escuela de fútbol del Atlético de Madrid en la capital de Azuay.
+---------------------------------------------------------------------------------------------------------------------
+
+![En el Complejo Deportivo de La Gloria, en Cuenca, se inauguró la escuela de futbol JBG. E la foto: el al alcalde de Cuenca, Cristhian Zamora; el rey de España, Felipe VI; y Daniel Noboa, presidente de la República.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-34.jpg)
+
+El rey **Felipe VI** ha visitado este jueves 14 de noviembre de 2024 la escuela de fútbol puesta en marcha por la Junta de Beneficencia de Guayaquil y el **Atlético de Madrid en Cuenca**, proyecto en el que participan 600 niños y que tiene como objetivo alejar a los jóvenes de la violencia a través del deporte.
+
+* [Jefes de Estado llegan a Ecuador para la XXIX Cumbre Iberoamericana](https://www.elcomercio.com/actualidad/ecuador/jefes-de-estado-llegan-a-ecuador-xxix-cumbre-iberoamericana-cuenca.html "https://www.elcomercio.com/actualidad/ecuador/jefes-de-estado-llegan-a-ecuador-xxix-cumbre-iberoamericana-cuenca.html")
+* [Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos](https://www.elcomercio.com/actualidad/mundo/arranca-reunion-cancilleres-cumbre-presidentes-latinoamericanos.html "https://www.elcomercio.com/actualidad/mundo/arranca-reunion-cancilleres-cumbre-presidentes-latinoamericanos.html")
+
+Rey Felipe está en Cuenca
+-------------------------
+
+El rey ha asistido a una demostración **del trabajo de la escuela** de la Junta de Beneficencia en el campo de fútbol municipal de la Gloria, que se ha inaugurado este jueves, al que han asistido también el presidente de Ecuador, **Daniel Noboa**, y el presidente del Atlético de Madrid, **Enrique Cerezo**.
+
+Un acto que se enmarca dentro de la visita de **Felipe VI** a Cuenca para asistir a la XXIX **Cumbre** **Iberoamericana** de Jefes de Estado y de Gobierno.
+
+Las escuelas de fútbol
+----------------------
+
+Se trata de la decimosexta escuela que la Junta de Beneficencia inaugura en Ecuador en colaboración con el **Atlético de Madrid** para fomentar la práctica del deporte y que ha beneficiado ya a 10 000 niños y jóvenes de sectores vulnerables a través de su pasión por el fútbol.
+
+Así lo ha explicado uno de los responsables de esta **organización**, que comenzó a funcionar en 2022 con Carlos Andretta y que inició su colaboración con el **Atlético de Madrid** en 2023.
+
+Un proyecto social, ha indicado Andretta, cuyos participantes, según informa la organización, reciben vigilancia en **salud física, atención médica**, cuidados en nutrición y becas, además de ser en la actualidad uno de los “principales semilleros futbolísticos” de América Latina.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/3315a14a633e813608829e20fae54a9129275626-1024x683.jpg)
+
+El rey Felipe VI saluda a niños en la inauguración de una nueva escuela del Atlético de Madrid este jueves, en Cuenca (Ecuador). El Atlético de Madrid inaugura una nueva escuela en Ecuador bajo el convenio desarrollado con la Junta de Beneficencia de Guayaquil. Foto: EFE/ José Jácome
+
+La visita del rey Felipe VI
+---------------------------
+
+El rey, que ha visitado las instalaciones, ha hablado con **entrenadores y niños** y ha dado también unos toques de balón que le han pasado los escolares. Y también ha recibido **una camiseta de la escuela** con su nombre, al igual que el presidente ecuatoriano.
+
+Alan Sinchi, de 12 años, ha explicado a los periodistas antes de empezar el acto su ilusión por participar en este proyecto y no estar “solo en casa”, ha confiado en poder llegar a ser algún día como **Cristiano Ronaldo** y ha animado a otros niños de Ecuador a que “sigan sus sueños en el deporte”.
+
+Justin Guerrero, de 16 años, dice soñar también con poder jugar algún día en el **Atlético de Madrid** y ser como Antoine Griezmann.
+
+El fútbol ayuda
+---------------
+
+El presidente del club, **Enrique Cerezo,** antes de inaugurar la escuela, señaló que el proyecto brinda oportunidades a través del fútbol y usa el deporte como herramienta para transmitir valores positivos y construir una sociedad mejor, al tiempo que ha animado al presidente ecuatoriano a que use el deporte como herramienta de cohesión social.
+
+**Daniel Noboa** ha explicado cómo el fútbol y otros deportes permiten trabajar en equipo y más allá del resultado sirve para reforzar lazos de amistad y, por eso, ha agregado, proyectos como este apuestan por el **futuro del país y de los niños**. “Quién sabe si en el futuro tendremos una estrella deportiva brillando en el mundo”.
+
+El **alcalde de Cuenca,** Cristian Zamora, ha compartido con los asistentes su sueño de que alguno de los niños que toman parte en este proyecto “brillen en el mundo”.
+
+**_EFE_**
+
+La FIFA presentó el trofeo para el campeón del Mundial de Clubes
+================================================================
+
+Ese cupo será para el vencedor de la final de la Copa Libertadores de 2024 entre Mineiro y Botafogo.
+----------------------------------------------------------------------------------------------------
+
+![Fotografía cedida por la FIFA, que muestra el trofeo para el ganador del Mundial de Clubes.](https://www.elcomercio.com/wp-content/uploads/2024/11/trofeo_fifa_1.jpg)
+
+La FIFA desveló este jueves **14 de noviembre de 2024 el trofeo para el Mundial de Clubes** ampliado que se entregará por primera vez el año que viene en la edición inaugural de este torneo, que se celebrará en Estados Unidos.
+
+La **FIFA compartió imágenes del trofeo en sus redes sociales** y explicó que el diseño de este galardón surgió de la colaboración con la compañía Tiffany & Co.
+
+### Más noticias:
+
+* [Leonardo Campana es duda para el partido de Ecuador vs. Bolivia](https://www.elcomercio.com/deportes/futbol/leonardo-campana-es-duda-para-partido-ecuador-vs-bolivia.html "Leonardo Campana es duda para el partido de Ecuador vs. Bolivia")
+* [Sebastián Beccacece confirmó la baja de un titular de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-confirmo-baja-titular-ecuador-angelo-preciado.html "Sebastián Beccacece confirmó la baja de un titular de Ecuador")
+* [(Video) Periodista boliviano sufrió un robo en el estadio Monumental](https://www.elcomercio.com/deportes/futbol/periodista-boliviano-sufrio-un-robo-en-el-estadio-monumental.html "(Video) Periodista boliviano sufrió un robo en el estadio Monumental")
+
+“El trofeo del Mundial de Clubes FIFA está grabado con láser en ambos lados, con palabras e imágenes que retratan la rica historia del fútbol.
+
+Las inscripciones incluyen un mapa mundial y los nombres de las **211 Asociaciones Miembro de la FIFA** y de las seis confederaciones, representando la diversidad geográfica y cultural del deporte rey”, detalla el organismo en un comunicado.
+
+La primera edición del nuevo **Mundial de Clubes de la FIFA se jugará del 15 de junio al 13 de julio** de 2025 con la participación de 32 equipos procedentes de los cinco continentes. En total se jugarán 63 partidos en 12 sedes diferentes.
+
+Después de que en octubre el Inter Miami de Lionel Messi se llevara por invitación y tras ganar el MLS Supporters’ Shield la plaza pendiente que le correspondía al país anfitrión, solo falta por conocer el último de los 32 boletos para este torneo.
+
+Ese cupo será para el vencedor de la **final de la Copa Libertadores de 2024** que disputarán los brasileños Atlético Mineiro y Botafogo.
+
+El sorteo para este torneo, que ha despertado polémica en diferentes sectores del fútbol por sumar más encuentros a un calendario muy apretado, se celebrará el próximo 5 de diciembre en Miami (EE.UU.).
+
+![Foto: FIFA.com.](https://www.elcomercio.com/wp-content/uploads/2024/11/trofeo_fifa_2-1024x683.jpg)
+
+Foto: FIFA.com.
+
+Equipos clasificados
+--------------------
+
+Como campeones continentales entre 2021 y 2024 aseguraron su plaza Seattle Sounders (USA) y Pachuca (MEX), León (MEX) y Monterrey (MEX), en representación de la CONCACAF; Al Ain (UAE), Urawa Reds (JPN) y Al Hilal (SAU).
+
+De la Confederación Asiática; **Chelsea (ING), Manchester City (ING) y Real Madrid (ESP), de la UEFA**; Fluminense (BRA), Palmeiras (BRA) y Flamengo (BRA), de la CONMEBOL, y Wydad (MAR) y Al Ahly (EGI), de la Confederación Africana.
+
+A través del ránking de cada confederación entre 2021 y 2024 también lo hicieron Salzburgo (AUT), Juventus (ITA) y Benfica (POR), Oporto (POR), Atlético de Madrid (ESP), **Inter de Milan (ITA), Borussia Dortmund (GER), PSG (FRA)** y Bayern Munich (GER), de la UEFA.
+
+Auckland (NZL), de Oceanía; Boca Juniors (ARG) y River Plate (ARG), de la CONMEBOL; Ulsan (COR), de la Confederación Asiática; Mamelid Sundowns (AFS) y Esperamce (TUN), de la CAF.
+
+San viernes
+-----------
+
+¿A qué hora juega la Selección de Ecuador vs. Bolivia en eliminatorias?
+=======================================================================
+
+Ecuador espera mantener su racha invicta en el Monumental ante un Bolivia motivado. ¿A qué hora juegan Ecuador vs. Bolivia?
+---------------------------------------------------------------------------------------------------------------------------
+
+![Piero Hincapié, de la Selección de Ecuador en una práctica. La Tri recibirá a Bolivia en el Monumental de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/tricolor.jpg)
+
+La **Selección de Ecuador** se prepara para enfrentar a Bolivia en un partido clave por las eliminatorias sudamericanas al Mundial 2026. ¿A qué hora juegan Ecuador vs. Bolivia?
+
+El técnico **Sebastián Beccacece** no subestima al equipo rival, a pesar de las bajas que ha sufrido Bolivia. En rueda de prensa, el entrenador destacó que ha pedido a sus jugadores abordar el encuentro con la misma intensidad que si fuera una final.
+
+### Más noticias:
+
+* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
+* [La Selección de Bolivia pretende sorprender a Ecuador](https://www.elcomercio.com/deportes/futbol/bolivia-ecuador-zona-de-clasificacion-guayaquil.html "La Selección de Bolivia pretende sorprender a Ecuador")
+* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
+
+“Es muy difícil que me encuentren relajado. Les he pedido a mis jugadores que salgan a jugar como si fuera este el último partido de sus vidas”, aseguró Beccacece, quien también destacó que Ecuador tiene la meta clara: cerrar el año en zona de clasificación directa al Mundial.
+
+A pesar de las ausencias de figuras como Moisés Caicedo, quien no podrá jugar por suspensión, y Ángelo Preciado, quien aún se recupera de una lesión, Beccacece confía en el talento de su equipo. El seleccionador resaltó las virtudes del conjunto ecuatoriano, como la velocidad y el coraje, elementos que considera esenciales para afrontar el desafío con Bolivia.
+
+¿A qué hora juega Ecuador vs. Bolivia?
+--------------------------------------
+
+El partido está programado para este jueves 14 de noviembre a las 19:00 horas, en el estadio Monumental de Guayaquil.
+
+Aunque el rival llega con varias bajas, Beccacece subrayó que Bolivia se ha estado preparando desde finales de octubre, lo que hace que no se pueda bajar la guardia.
+
+Ecuador, actualmente en la quinta posición con 13 puntos, buscará un triunfo que lo acerque aún más a las primeras posiciones de la tabla de clasificación.
+
+Mientras tanto, Bolivia, con 12 puntos, intentará dar la sorpresa en tierras ecuatorianas.
+
+El ambiente en Guayaquil promete ser eléctrico, con un [Monumental](https://es.wikipedia.org/wiki/Estadio_Monumental_Isidro_Romero_Carbo) lleno de hinchas que respaldarán a la Tri en este crucial cotejo para ir al Mundial.
+
+Posible alineación de Ecuador para enfrentar a Bolivia en eliminatorias
+=======================================================================
+
+La Selección de Ecuador enfrenta un partido crucial en su camino hacia el sueño mundialista.
+--------------------------------------------------------------------------------------------
+
+![Willian Pacho es uno de los titulares habituales de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T104236.361.jpg)
+
+La **Selección de Ecuador** recibe este jueves 14 de noviembre a Bolivia en el Estadio Monumental de Guayaquil, por la undécima jornada de las eliminatorias sudamericanas. Una victoria acercaría al equipo de **Sebastián Beccacece** al Mundial 2026.
+
+Este será el quinto partido del argentino al mando de la ‘Tri’, aunque su **balance hasta ahora es limitado**: una victoria, dos empates y una derrota, con apenas un gol a favor desde que asumió el cargo.
+
+### Más noticias:
+
+* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
+* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
+* [Ecuador busca ampliar su invicto contra Bolivia en eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-busca-ampliar-invicto-contra-bolivia-eliminatorias.html "Ecuador busca ampliar su invicto contra Bolivia en eliminatorias")
+
+Para este compromiso clave, **Beccacece tiene el reto de ajustar su alineación** inicial debido a la baja de dos titulares importantes, y buscará alternativas entre los convocados disponibles.
+
+Posible alineación de Ecuador ante Bolivia
+------------------------------------------
+
+Beccacece **no contará con Moisés Caicedo**, suspendido por acumulación de tarjetas, ni con Ángelo Preciado, desafectado por lesión. Tampoco estará disponible Leonardo Campana, quien está tocado y al menos en este partido no jugará.
+
+Estos cambios obligan al DT a seleccionar reemplazos tanto en el mediocampo como en el lateral derecho.
+
+### Posible once de Ecuador
+
+**Arquero:** Hernán Galíndez
+
+**Defensas:** Félix Torres, Willian Pacho, y Piero Hincapié
+
+**Volantes:** Alan Minda, Alan Franco, Carlos Gruezo, Kendry Páez, y Pervis Estupiñán
+
+**Delanteros:** Gonzalo Plata y Enner Valencia
+
+### Las alineaciones del Lincenciado Dognaldo
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCVEnvNuhG7/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCVEnvNuhG7/?utm_source=ig_embed&utm_campaign=loading)
+
+Historial de Ecuador vs. Bolivia
+--------------------------------
+
+En suelo ecuatoriano (Quito o Guayaquil), la ‘Tri’ **ha jugado ocho partidos contra Bolivia**, con un saldo de siete victorias y un empate, con 16 goles a favor y solo cuatro en contra.
+
+La única vez que Bolivia sumó puntos de visitante fue en septiembre de 1993 en el primer enfrentamiento de eliminatorias, que terminó 1-1 en el Estadio Monumental. William Ramallo anotó para la ‘Verde’ y Raúl Noriega igualó para Ecuador.
+
+Desde entonces, **Ecuador ha mantenido el invicto como local frente a Bolivia** en eliminatorias, acumulando siete victorias consecutivas. La última fue en octubre de 2021, rumbo a Catar 2022, con un 3-0 a favor de la ‘Tri’ en el Monumental, con goles de Michael Estrada y un doblete de Enner Valencia en los primeros 20 minutos.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
+
+Detalles del partido
+--------------------
+
+**Fecha:** Jueves 14 de noviembre
+
+**Hora:** 19:00
+
+**Estadio:** Monumental
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Epmmop anuncia la suspensión del intercambiador de la Occidental
+================================================================
+
+La Epmmop informó que se pospone la construcción del intercambiador de la Occidental y Mariana de Jesús por un problema de diseño.
+----------------------------------------------------------------------------------------------------------------------------------
+
+![Ayer, 13 de noviembre, se realizó un encuentro de la Epmmop con vecinos del sector de la av. Mariscal Sucre y Mariana de Jesús.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-57.jpg)
+
+La **Empresa Pública Metropolitana de Movilidad y de Obras Públicas** (Epmmop) decidió posponer la construcción del intercambiador en la avenida **Mariscal Sucre** (Occidental) y **Mariana de Jesús.** Según el comunicado de la **Epmmop**, del jueves 14 de noviembre del 2024, el **diseño omitía una necesidad.**
+
+### Más noticias
+
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+* [La actitud al volante es vital para el tránsito de Quito en los apagones](https://www.elcomercio.com/actualidad/quito/actitud-volante-transito-apagones-quito.html "La actitud al volante es vital para el tránsito de Quito en los apagones")
+* [Quito aumentará a 1 390 agentes de tránsito en las calles](https://www.elcomercio.com/actualidad/quito/quito-aumenta-a-1-390-agentes-transito-calles.html "Quito aumentará a 1 390 agentes de tránsito en las calles")
+
+La suspensión del intercambiador
+--------------------------------
+
+En el comunicado, la gerente general de la **Epmmop**, **Claudia Otero**, señala que la suspensión de la construcción del intercambiador se tomó “tras un análisis profundo, ha dispuesto que los consultores revisen el proyecto para dar respuesta a una necesidad no identificada previamente, asegurando que **el diseño responda mejor** a las demandas de la **ciudadanía** y eleve **la calidad de vida de los vecinos** de la zona”.
+
+Según comunicaron desde le Epmmop, la **suspensión del intercambiador de la Occidental** se tomó luego de las **reuniones** que se mantuvieron con los **vecinos** del sector.
+
+Sin embargo, esto no significa la suspensión definitiva de la obra, que iba a ser de las más importantes de la alcaldía de **Pabel Muñoz**. “La **nueva fecha de inicio** será comunicada una vez que se concreten los ajustes necesarios”, agrega el comunicado.
+
+El intercambiador inicial comenzaba el 15 de noviembre
+------------------------------------------------------
+
+El proyecto debía comenzar este viernes **15 de noviembre del 2024.** Y la obra debía ser entregada en **270 días.** Tanto la **Epmmop** como la **Agencia Metropolitana de Tránsito** (**ATM**) tenían ya elaborado un operativo para que los vehículos que pasaran por allí -aproximadamente **73 000 al día**– tomen los desvíos correspondientes.
+
+La construcción del intercambiador tenía **tres etapas**. Cada uno tenía su propio operativo.
+
+Un problema de diseño
+---------------------
+
+Algunos moradores de la zona no estaban de acuerdo con la obra, según se pudo conocer, y habían enviado oficios a la Alcaldía. Y como dice el comunicado de la Epmmop, “la suspensión tuvo **una necesidad no identificada previamente”[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")**
+
+Era, entonces, un **problema de diseño**, que no cubría todas las “necesidades” para que agilicen el tránsito. Quito ya tiene una historia de intercambiadores que no ayudaron a mejorar significativamente el paso de los vehículos, como el de la avenida Granados y Eloy Alfaro.
+
+El auto volador de la empresa china Xpeng revoluciona el transporte
+===================================================================
+
+Xpeng presenta un auto volador, que promete transformar el transporte futuro.
+-----------------------------------------------------------------------------
+
+![Xpeng presenta su auto volador para entornos escénicos amplios. Foto: Instagram @xpeng_aeroht.](https://www.elcomercio.com/wp-content/uploads/2024/11/Xpeng-auto-volador.jpg)
+
+La **empresa china de autos eléctricos [Xpeng](https://www.instagram.com/xpeng_aeroht/ "https://www.instagram.com/xpeng_aeroht/")** ha dado un paso audaz hacia el futuro del transporte al presentar oficialmente su **primer auto volador**. Este innovador vehículo, que **combina la movilidad terrestre y aérea**, promete transformar la forma en que nos desplazamos.  
+
+### Más noticias
+
+* [El primer auto volador sorprendió al público en Dubái](https://www.elcomercio.com/tecnologia/auto-volador-sorprendio-publico-dubai.html "https://www.elcomercio.com/tecnologia/auto-volador-sorprendio-publico-dubai.html")
+* [Firma japonesa anuncia prueba exitosa de un auto volador tripulado](https://www.elcomercio.com/tecnologia/empresa-japon-auto-volador-tripulado.html "https://www.elcomercio.com/tecnologia/empresa-japon-auto-volador-tripulado.html")
+
+**Xpeng**, conocido por su enfoque en **tecnología avanzada y sostenibilidad**, ha desarrollado este **automóvil volador** en un contexto donde la **demanda de soluciones de transporte más eficientes y rápidas** es cada vez mayor. 
+
+**El auto volador eléctrico de Xpeng**  
+----------------------------------------
+
+El **auto volador de Xpeng**, conocido como **Land Aircraft Carrier**, fue presentado en el **Airshow China 2024**. Este vehículo no solo es un automóvil, sino también un **dron biplaza** que puede **despegar y aterrizar verticalmente**. Según **Brian Gu**, copresidente de **Xpeng**, el vehículo está diseñado para **operar principalmente en áreas escénicas y no en centros urbanos**, lo que facilita su integración en entornos menos congestionados, según [Revista E y N](https://www.revistaeyn.com/empresasymanagement/fabricante-chino-planea-entregar-su-primer-automovil-volador-en-2026-EM19377407 "https://www.revistaeyn.com/empresasymanagement/fabricante-chino-planea-entregar-su-primer-automovil-volador-en-2026-EM19377407").  
+
+**Características del auto volador** 
+-------------------------------------
+
+El **Land Aircraft Carrier** cuenta con un **módulo terrestre equipado con seis ruedas y tracción 6×6**. Tiene capacidad para **cuatro pasajeros** y puede despegar de manera independiente gracias a su **dron integrado**. La compañía ha indicado que **los pasajeros no necesitarán una licencia especial para volar el dron** durante su uso inicial, lo que podría **democratizar el acceso a esta nueva forma de transporte**, siguiendo con la misma fuente.  
+
+**Proceso de certificación y lanzamiento** 
+-------------------------------------------
+
+**Xpeng ha comenzado el proceso de certificación del auto volador** con el regulador de aviación chino. La compañía espera **iniciar los pedidos anticipados este año**, con la **entrega programada para 2026**. Este enfoque metódico refleja la **intención de Xpeng de garantizar la seguridad y la viabilidad del vehículo** antes de su lanzamiento al mercado. 
+
+**Innovación tecnológica** 
+---------------------------
+
+El vehículo **está diseñado para ser eficiente y amigable con el medio ambiente**, alineándose con las tendencias actuales en la industria automotriz hacia soluciones más sostenibles. La **combinación de capacidades terrestres y aéreas representa un avance significativo en el desarrollo de autos eléctricos**, de acuerdo con [TN](https://tn.com.ar/tecno/novedades/2024/11/14/una-empresa-china-presento-su-primer-auto-volador-como-funciona-y-cuando-ingresaria-al-mercado/ "https://tn.com.ar/tecno/novedades/2024/11/14/una-empresa-china-presento-su-primer-auto-volador-como-funciona-y-cuando-ingresaria-al-mercado/"). 
+
+**Desafíos y perspectivas** 
+----------------------------
+
+A pesar del entusiasmo por el lanzamiento del auto volador, existen **desafíos que Xpeng deberá enfrentar**. La regulación del espacio aéreo y las preocupaciones sobre la seguridad son aspectos críticos que influirán en la **aceptación pública del vehículo**. Sin embargo, **Gu ha expresado confianza en que colaborarán con los municipios para crear zonas de vuelo adecuadas** que faciliten el uso seguro del automóvil volador, a decir de Revista E y N. 
+
+**Futuro del transporte aéreo personal** 
+-----------------------------------------
+
+La **introducción del auto volador de Xpeng** podría marcar el comienzo de **una nueva era en el transporte personal**. A medida que las ciudades continúan creciendo y enfrentando **problemas de congestión**, soluciones como esta podrían **ofrecer alternativas viables para los desplazamientos cotidianos**. La visión de **Xpeng va más allá del simple transporte**; busca redefinir cómo interactuamos con nuestro entorno urbano y natural. 
+
+Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos
+=============================================================================
+
+Solo el presidente anfitrión, Daniel Noboa; su homólogo de Portugal, Marcelo Rebelo de Sousa, y el rey de España, Felipe VI, figuran entre las altas autoridades participantes.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La ministra de Relaciones Exteriores de Panamá, Gabriela Sommerfeld (c), habla en la reunión de cancilleres.](https://www.elcomercio.com/wp-content/uploads/2024/11/cumbre-iberoamericana.jpg)
+
+L**a ministra de Relaciones Exteriores de Ecuador, Gabriela Sommerfeld**, inauguró este jueves, 14 de noviembre de 2024, la reunión de cancilleres de la **XXIX Cumbre Iberoamericana de jefes de Estado** y de Gobierno, en la ciudad de Cuenca, una cita que se celebra sin la asistencia de presidentes latinoamericanos, con excepción del anfitrión, [Daniel Noboa](https://www.elcomercio.com/actualidad/politica/lavinia-valvonesi-defiende-daniel-noboa.html "https://www.elcomercio.com/actualidad/politica/lavinia-valvonesi-defiende-daniel-noboa.html").
+
+### Más noticias
+
+* [Jefes de Estado llegan a Ecuador para la XXIX Cumbre Iberoamericana](https://www.elcomercio.com/actualidad/ecuador/jefes-de-estado-llegan-a-ecuador-xxix-cumbre-iberoamericana-cuenca.html "https://www.elcomercio.com/actualidad/ecuador/jefes-de-estado-llegan-a-ecuador-xxix-cumbre-iberoamericana-cuenca.html")
+* [Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador](https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html?source=Internal&ref=Single+Content+Link")
+
+Sommerfeld dio la bienvenida a las delegaciones de 19 de los 22 países iberoamericanos enfatizando que el **trabajo de los responsables de Relaciones Exteriores** “es crucial, pues deben presentar propuestas que aprobarán los gobernantes” durante su jornada de trabajo. La **cumbre de Cuenca,** ciudad andina situada en el sur de Ecuador, pasará a la historia por ser la de **más baja asistencia de gobernantes** desde que comenzaron estas reuniones, en 1991.
+
+Participantes de la cumbre
+--------------------------
+
+Solo el presidente anfitrión, Daniel Noboa; su homólogo de Portugal, **Marcelo Rebelo de Sousa**, y el **rey de España, Felipe VI,** figuran entre las **altas autoridades participantes**.
+
+También se espera la llegada del **jefe del Ejecutivo de Andorra, Xavier Espot.** El **mandatario de Paraguay, Santiago Peña,** canceló su participación a última hora del miércoles debido al escenario político y social “inestable” en Ecuador, según informaron fuentes de la Presidencia.
+
+Esta cumbre reafirmará los **compromisos de la comunidad iberoamericana** para encontrar “soluciones innovadoras” en la construcción de un futuro “más justo y prometedor” para los países que la conforman, aseguró la canciller.
+
+De esta cita saldrán directrices para la **lucha contra el crimen organizado trasnacional, la crisis climática,** la migración y el acceso a tecnologías resilientes, entre otros temas, detalló Sommerfeld.
+
+La **XXIX Cumbre Iberoamericana de Jefes de Estado y de Gobierno** se realiza en un momento en el que la región está atenta a la **crisis en Venezuela** derivada de las últimas elecciones y del cambio presidencial en Estados Unidos con el retorno de Donald Trump a la Casa Blanca.
+
+Las **delegaciones esperan concluir mañana la reunión** con la firma de una declaración conjunta en la que se abogue por una **mayor integración de la educación de calidad** y el fomento del empleo para resolver los desafíos de la región en ‘Innovación, inclusión y sostenibilidad’.
+
+Asimismo, se pretende avanzar en la **implementación de la Carta Iberoamericana de Principios y Derechos en Entornos Digitales** que fue aprobada en la anterior cita, celebrada en Santo Domingo en 2023.
+
+Cortes de luz en Cuenca para viernes, sábado y domingo 17 de noviembre
+======================================================================
+
+Debido a la realización de la Cumbre Iberoamericana, el Centro Histórico de Cuenca no sufrirá cortes de luz entre el 14 y 15 de noviembre.
+------------------------------------------------------------------------------------------------------------------------------------------
+
+![Cuenca tiene cortes de luz de 12 horas, al igual que el resto de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Cuenca-cortes.jpg)
 
 El **Ministerio de Energía y Minas** publicó la programación de **cortes de luz** para todo Ecuador del viernes 15 de noviembre al domingo 17 de noviembre de 2024.
 
 ### Más noticias
 
-* [Cortes de luz en Quito este jueves 14 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-14-noviembre.html "Cortes de luz en Quito este jueves 14 de noviembre")
-* [Cortes de luz en Guayaquil para este jueves 14 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-jueves-14-de-noviembre.html "Cortes de luz en Guayaquil para este jueves 14 de noviembre")
-* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
+* [Cortes de luz en Guayaquil para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Guayaquil para viernes, sábado y domingo 17 de noviembre")
+* [Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre")
+* [Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-mantienen-12-horas-hasta-domingo-17-de-noviembre-ecuador.html "Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador")
 
 Se mantienen los cortes de 12 horas
 -----------------------------------
@@ -129,13 +1003,9 @@ Esta suspensión de electricidad **contempla hasta 12 horas** en los sectores re
 
 La Cartera de Estado informó **los cronogramas** que se aplicarán durante el viernes y el fin de semana próximos en Ecuador.
 
-Las nueve empresas **distribuidoras de energía eléctrica** presentaron los horarios para cada una de las unidades de negocio que manejan para que los afectados puedan planificar con tiempo sus labores.
+Las nueve empresas **distribuidoras de energía eléctrica** presentaron los horarios para cada una de las unidades de negocio que manejan para que se pueda planificar con tiempo.
 
-Con estos racionamientos, Ecuador **cumplirá nueve días con cortes de luz de 12 horas**, lo cual ha impactado todas las actividades.
-
-Estos horarios podrían mejorar **si las condiciones hidrológicas lo permitieran**; sin embargo, la reducción se aplicaría dentro del horario programado.
-
-No obstante, las quejas ciudadanas no se han hecho esperar **ante la falta del cumplimiento** de los horarios difundidos por [las autoridades](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad").
+Debido a la realización de l**a XXIX Cumbre Iberoamericana de Jefes de Estado y de Gobierno**, el Centro Histórico de Cuenca no sufrirá cortes de luz entre el 14 y 15 de noviembre de 2024.
 
 > 📍¡IMPORTANTE!  
 >   
@@ -145,853 +1015,24 @@ No obstante, las quejas ciudadanas no se han hecho esperar **ante la falta del c
 > 
 > — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 14, 2024](https://twitter.com/RecNaturalesEC/status/1857029539001410013?ref_src=twsrc%5Etfw)
 
-Colombia evalúa venta de energía
---------------------------------
-
-El **Ministerio de Minas y Energía de Colombi**a envió un proyecto de resolución que busca reanudar la venta de electricidad a Ecuador.
-
-La Cartera de Estado **publicó el borrador de la resolución**, que tiene fecha de 12 de noviembre de 2024. El objetivo es recibir comentarios del sector eléctrico antes de la firma, que podría ser esta misma semana, señaló el medio colombiano Blu Radio.
-
-La nueva normativa establece reglas para garantizar el suministro eléctrico en Colombia y cumplir con compromisos de exportación.
-
-La reactivación de exportaciones hacia Ecuador se realizará **únicamente si las condiciones permiten** cumplir con la demanda nacional. Además, el **Ministerio colombiano** se compromete a adoptar decisiones rápidas mediante circulares para adaptarse a posibles cambios climáticos que afecten la generación y exportación de electricidad.
-
-Según esta resolución, **Ecuador podrá comprar electricidad** primero a las plantas térmicas, que generen con diésel. Después a las plantas despachadas centralmente, y solo en última opción a las hidroeléctricas.
-
-La resolución se conoce una vez que los **embalses de Colombia** se encuentran al 61,41% de su capacidad.
-
-Colombia suspendió las **exportaciones de energía** a Ecuador el 30 de septiembre del 2024, debido a la sequía y cuando sus embalses se encontraban en un 49,74%.  
-
-Ecuador busca ampliar su invicto contra Bolivia en eliminatorias
-================================================================
-
-La Selección de Ecuador nunca ha perdido contra Bolivia en casa.
-----------------------------------------------------------------
-
-![Enner Valencia en el partido entre Ecuador y Bolivia por las eliminatorias sudamericanas rumbo al Mundial 2022.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-13T193524.915.jpg)
-
-La **Selección de Ecuador** recibirá a Bolivia este jueves 14 de noviembre en una nueva fecha de las eliminatorias sudamericanas. Será su **enfrentamiento número 18 e**n el proceso de clasificación al Mundial y el noveno en territorio ecuatoriano.
-
-El conjunto dirigido por **Sebastián Beccacece** no atraviesa su mejor momento en cuanto a resultados y goles; en cuatro partidos, solo ha conseguido una victoria y un gol. **Bolivia se perfila como un rival históricamente accesible** para que la ‘Tri’ busque mejorar sus números.
-
-### Más noticias:
-
-* [Cuatro bolivianos que dejaron huella en Ecuador](https://www.elcomercio.com/deportes/futbol/jugadores-bolivianos-ecuador-eliminatorias-mundial.html "Cuatro bolivianos que dejaron huella en Ecuador")
-* [(Video) Periodista boliviano sufrió un robo en el estadio Monumental](https://www.elcomercio.com/deportes/futbol/periodista-boliviano-sufrio-un-robo-en-el-estadio-monumental.html "(Video) Periodista boliviano sufrió un robo en el estadio Monumental")
-* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
-
-Ecuador nunca perdió con Bolivia de local
------------------------------------------
-
-Desde que existen eliminatorias para el Mundial de 1994, Ecuador ha enfrentado a Bolivia 17 veces, con un balance muy favorable: **12 victorias, tres empates y solo dos derrotas**. Además, ha anotado 34 goles y recibido 16.
-
-La **estadística es aún más contundente** cuando se consideran solo los partidos en Ecuador, donde la ‘Verde’ nunca ha ganado y solo ha conseguido un empate.
-
-En territorio ecuatoriano, sea en Quito o Guayaquil, la selección ha disputado ocho partidos, con siete victorias y un empate, anotando 16 goles y recibiendo solo cuatro.
-
-La única vez que **Bolivia sumó de visitante fue en el primer enfrentamiento por eliminatorias, en septiembre de 1993**. Ese partido terminó 1-1 en el Estadio Monumental, donde volverán a jugar en este 2024. William Ramallo anotó para la ‘Verde’ y Raúl Noriega para Ecuador.
-
-Siete victorias consecutivas para Ecuador
------------------------------------------
-
-Desde aquel empate en 1993, **Ecuador no ha vuelto a perder puntos ante Bolivia** como local, sumando siete victorias consecutivas en eliminatorias.
-
-La última victoria fue en octubre de 2021, en el proceso hacia el Mundial 2022, con Gustavo Alfaro como DT. El partido finalizó 3-0 en el Estadio Monumental, con goles de **Michael Estrada** y un doblete de Enner Valencia en los primeros 20 minutos.
-
-Ecuador vs. Bolivia
--------------------
-
-Ecuador enfrentará a Bolivia este **jueves 14 de noviembre en Guayaquil**, en la undécima jornada de las eliminatorias. El partido comenzará a las 19:00.
-
-Ministerio de Gobierno rechaza aprobación de resolución a favor de Verónica Abad
-================================================================================
-
-Un comunicado cuestiona que la Asamblea no intervino en los intentos de la Vicepresidenta para destituir al presidente Daniel Noboa
------------------------------------------------------------------------------------------------------------------------------------
-
-![LA vicepresidenta Verónica Abad compareció ante la Asamblea de forma virtual desde Turquía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Asamblea.jpg)
-
-El Pleno de la **Asamblea** aprobó una resolución sobre la sanción a la vicepresidenta suspendida, **Verónica Abad,** la noche del miércoles 13 de noviembre de 2024. La Vicepresidenta de la República compareció virtualmente.
-
-La resolución **condena las acciones de la ministra de Trabajo,** Ivonne Núñez, por la sanción y suspensión de las funciones de la Vicepresidenta.
-
-### Más noticias
-
-* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
-* [Verónica Abad se presentará en la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/veronica-abad-pleno-asamblea-nacional-viviana-veloz.html "Verónica Abad se presentará en la Asamblea Nacional")
-* [Verónica Abad apelará la suspensión en instancias internacionales](https://www.elcomercio.com/actualidad/politica/vicepresidenta-veronica-abad-suspension-apelacion.html "Verónica Abad apelará la suspensión en instancias internacionales")
-
-Ministerio de Gobierno se pronuncia
+Horarios de cortes de luz en Cuenca
 -----------------------------------
 
-El **Ministerio de Gobierno** publicó un pronunciamiento en el que expresa que los principios democráticos rigen para todos y los gobernantes deben someterse a ellos, respetarlos y hacerlos respetar.
+La **empresa distribuidora de energía Centrosur** dio a conocer los horarios de cortes de luz que se aplicarán en Cuenca este viernes 15, sábado 16 y domingo 17 de noviembre.
 
-El documento hace una crítica **a las viejas formas de hacer política** y señala que el Gobierno del presidente Daniel Noboa ha tenido que afrontar intentos por derribar la institucionalidad de su mandato.
+Estos horarios contemplan **12 horas de suspensión del servicio** y en esta unidad de negocio están distribuidos en **dos y tres franjas horarias**, cada una de tres o cuatro horas. Los **cronogramas** están establecidos tanto para la zona residencial como para el sector industrial.
 
-Se refirió a que “la traición y el viejo Ecuador han mostrado ser dos caras de la moneda”. “Lo demostraron hace unos meses, cuando la **vicepresidenta en funciones, Verónica Abad,** pretendió la destitución del presidente Noboa…”, agrega.
+Cronograma de cortes de luz para viernes 15 de noviembre
+--------------------------------------------------------
 
-El **Ministerio de Gobierno**, mediante este comunicado, cuestiona si fueron legales las acciones de la Vicepresidenta, si fue constitucional o legal. Además, pregunta si la **Asamblea Nacional** cuestionó estos actos y responde que no porque “tal vez no era época de campaña”.
+Estos son los cronogramas dispuestos por la distribuidora Centrosur para el viernes 15 de noviembre
 
-“Prefirieron mirar a un costado **para no dimensionar la gravedad de pretender destituir al Presidente** constitucional de la República… Y ahora lo intentan comparar con una sanción administrativa de suspensión temporal por incumplir las responsabilidades que exigía su cargo”, agrega en referencia a la suspensión de la **vicepresidenta Abad.**
-
-El Ministerio de Gobierno además menciona que la **Vicepresidenta “fue involucrada** en casos de corrupción y cuya vinculación a un proceso penal fue solicitada [por la Fiscalía](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad") y la Asamblea lo negó y generó impunidad”.
-
-La resolución aprobada
-----------------------
-
-El proyecto a consideración contó con siete artículos que señalaban:
-
-* Condenar las acciones de la ministra de Trabajo, Ivonne Núñez, que de manera inconstitucional e ilegal estableció un procedimiento especial para sancionar mediante sumario administrativo a servidores públicos excluidos de la carrera del servicio público, lo que permite que funcionarios de elección popular sean juzgados por faltas administrativas por el Ministerio de Trabajo, las cuales están expresamente excluidas de sus competencias, lo cual afecta de manera grave los principios democráticos de la República del Ecuador.
-* Rechazar el sumario administrativo de la Ministra del Trabajo, abogada Ivonne Elizabeth Núñez Figueroa, la cual, de forma inconstitucional e ilegal sanciona con la suspensión temporal sin goce de remuneración por 150 días a la señora María Verónica Abad Rojas, en su condición de Vicepresidenta de la República.
-* Disponer a la Presidencia de la Asamblea Nacional que, a través de la Coordinación de Asesoría Jurídica presente ante la Corte Constitucional la acción de interpretación a los artículos 146, 149, 150 y, 154, numeral 1, de la Constitución.
-* Desconocer la sanción establecida en contra de la señora María Verónica Abad Rojas, en su condición de Vicepresidenta de la República.
-* Convocar a la Ministra del Trabajo, Ivonne Núñez a comparecencia ante el Pleno.
-* Alertar a todas las autoridades e instituciones públicas de control para que, en el ámbito de sus competencias, revisen exhaustivamente el proceso administrativo llevado a cabo por el Ministerio del Trabajo.
-* Disponer a la Secretaría General de la Asamblea Nacional que notifique.
-
-El Pleno de la Asamblea aprobó la resolución con **86 votos afirmativos**, 0 blancos y 27 abstenciones.
-
-¿Cómo será la etapa 4 de la Vuelta al Ecuador 2024?
-===================================================
-
-La Vuelta a Ecuador de ciclismo 2024 celebrará su etapa 4 en un circuito cerrado de ocho vueltas en Riobamba.
--------------------------------------------------------------------------------------------------------------
-
-![Ciclistas cruzan la meta en la etapa 3 de la Vuelta al Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-1.54.34-PM-1-scaled.jpeg)
-
-La **Vuelta al Ecuador** tendrá su punto medio con la etapa 4, que también contará con un sistema de recorrido distinto a los que le antecedieron y sucederán. Esta se llevará a cabo en Riobamba y será a circuito cerrado.
-
-Con tres etapas ya finalizadas, el nuevo evento se llevará a cabo este **jueves 14 de noviembre del 2024**. A partir de las 09:00, los ciclistas darán inicio a la última competencia antes de arrancar la recta final del evento que recorre la costa y la sierra del país[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
-
-### Más noticias:
-
-* [Alausí vibra con la victoria de Steven Haro en la etapa 3 de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/vuelta-ecuador-steven-haro-etapa3-alausi.html "Alausí vibra con la victoria de Steven Haro en la etapa 3 de la Vuelta al Ecuador")
-* [El coraje de Segundo Navarrete en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/segundo-navarrete-vuelta-ecuador-2024.html "El coraje de Segundo Navarrete en la Vuelta al Ecuador")
-* [¿Cómo será la etapa 3 de la Vuelta al Ecuador 2024?](https://www.elcomercio.com/deportes/etapa-3-vuelta-ecuador-2024-trayecto.html "¿Cómo será la etapa 3 de la Vuelta al Ecuador 2024?")
-
-La próxima fase contará con **129,6 kilómetros de ruta** y recorrerá la capital de Chimborazo en un trazado que será consecutivo para completar tal cantidad de trayecto. En total, el circuito de la cuarta etapa estará constituido por ocho pasos alrededor de este.
-
-A partir del recorrido fijado, las distintas vueltas tendrá puntos que alternarán con respecto a puestos para otras **clasificaciones**. Las metas volantes y los puertos de montaña tendrán varianza en función del devenir de la carrera.
-
-¿Qué puntos se establecerán en la etapa 4 de la Vuelta al Ecuador?
-------------------------------------------------------------------
-
-Dentro de las ocho vueltas que se llevarán a cabo en la cuarta etapa, estas iniciarán en el sector de la **Loma de Quito** y finalizarán en el mismo. En la primera vuelta no existirán ni metas volantes ni puertos de montaña, sin embargo, aquello cambiará a partir de la segunda.
-
-Las vueltas dos, cuatro y seis contarán con metas volantes en los puntos de bajada y están establecidas para los kilómetros **33,26; 66,52 y 99,78**. En el caso de los puertos de montaña, estos van en las vueltas tres, cinco y siete y en los kilómetros **40,8; 68 y 107,32.**
-
-La última vuelta será similar a la primera y no tendrá ni metas ni puertos.
-
-¿Cómo llega la Vuelta a Ecuador a la etapa 3?
----------------------------------------------
-
-Para la etapa cuatro de la Vuelta a Ecuador, **Brayan Obando** del Team Movistar Best PC llega como líder de la tabla general. Este se encuentra igualado con Óscar Sevilla del Team Medellín en cuanto a tiempos, sin embargo, tuvo mejor ubicación en la última etapa y aquello lo coloca en la cima.
-
-Dentro de la clasificación de montaña, **Juan Córdova** es el mejor ubicado y entre los juveniles está **Joffre Imbaquingo**. A nivel de las metas volantes, quien encabeza la clasificación es David Villarreal.
-
-Día Mundial de la Diabetes, conciencia y prevención a nivel global 
-===================================================================
-
-La diabetes afecta a millones; se requiere conciencia, diagnóstico y tratamiento.
----------------------------------------------------------------------------------
-
-![La diabetes puede ser silenciosa; se debe consultar al médico. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Diabetes.jpg)
-
-El 14 de noviembre se conmemora el **Día Mundial de la Diabetes**, una fecha que busca **crear conciencia sobre esta enfermedad** que afecta a millones de personas en todo el mundo. La diabetes es una **condición crónica** que requiere atención constante y adecuada. Este año, el lema “Rompiendo barreras, cerrando brechas” destaca la **necesidad de garantizar acceso equitativo a tratamientos y cuidados** para todos los pacientes con diabetes, a decir de la [Organización Panamericana de Salud](https://www.paho.org/es/campanas/dia-mundial-diabetes-2024 "https://www.paho.org/es/campanas/dia-mundial-diabetes-2024"). 
-
-### Más noticias
-
-* [‘Ozempic no debe ser usado para la pérdida de peso en personas sin diabetes’, advierte médico](https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html "https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html")
-* [En Quito, las enfermedades no transmisibles siguen cobrando vidas. Las respiratorias persisten](https://www.elcomercio.com/actualidad/quito/en-quito-las-enfermedades-no-transmisibles-siguen-cobrando-vidas-las-respiratorias-persisten.html "https://www.elcomercio.com/actualidad/quito/en-quito-las-enfermedades-no-transmisibles-siguen-cobrando-vidas-las-respiratorias-persisten.html")
-
-**La importancia del Día Mundial de la Diabetes** 
---------------------------------------------------
-
-El **Día Mundial de la Diabetes** fue establecido en 1991 por la **Federación Internacional de Diabetes** (FID) y la **Organización Mundial de la Salud** (OMS). Esta conmemoración se eligió **en honor al nacimiento de Frederick Banting**, quien **descubrió la insulina j**unto a Charles Best. Desde su creación, este día ha servido como plataforma para aumentar la conciencia sobre las causas, síntomas y complicaciones asociadas a la diabetes, de acuerdo con [Fundación para la Salud](https://www.fundacionparalasalud.org/diamundial/328/que-es-el-dia-mundial-de-la-diabetes "https://www.fundacionparalasalud.org/diamundial/328/que-es-el-dia-mundial-de-la-diabetes").  
-
-Las **estadísticas actuales** son alarmantes, de acuerdo a Karina Pazmiño, directora de la escuela de nutrición de la UIDE, lo que ha llevado a poner énfasis en un enfoque integral para tratar esta enfermedad. Actualmente, **537 millones de personas viven con diabetes**, de las cuales tres de cada cuatro residen en países con ingresos bajos y medios. Lo más preocupante es que **más del 50% de los afectados no han sido diagnosticados**. La diabetes puede impactar órganos como los riñones, los ojos, los nervios y diversas áreas de la vida cotidiana. 
-
-**Información importante sobre la diabetes** 
----------------------------------------------
-
-La doctora Nasthia Quilismal, especialista en Endocrinología y Metabolismo de SIME Sistemas Médicos, ofrece información para aumentar la conciencia sobre la diabetes. 
-
-### **Tipos de diabetes**:
-
-Existen distintos tipos de diabetes, siendo la **tipo 2** la más prevalente, ya que representa el **90% de los casos**. Esta suele aparecer en la adultez y está **estrechamente relacionada con la obesidad y el sobrepeso**. 
-
-La **diabetes tipo 1** se origina por un **daño autoinmune en las células beta del páncreas**, lo que provoca una **falta total de insulina**, por lo que quienes la padecen necesitan **insulina desde el momento del diagnóstico**. 
-
-Otros tipos menos frecuentes incluyen
-
-* **Diabetes gestacional:** intolerancia a los carbohidratos detectada por primera vez durante el embarazo. 
-
-* **Diabetes MODY:** forma monogénica provocada por una mutación en un gen vinculado con la secreción o acción de insulina. 
-
-### **Factores de riesgo para la diabetes tipo 2**
-
-Los **factores de riesgo para la diabetes tipo 2** incluyen una dieta alta en carbohidratos, azúcares y grasas saturadas, sedentarismo, sobrepeso, edad mayor a 45 años y un perímetro de cintura superior a 80 cm en mujeres y 90 cm en hombres. También **influyen los antecedentes familiares**, diabetes gestacional, síndrome de ovario poliquístico, hipertensión, colesterol alto y signos de resistencia a la insulina. S**e recomienda hacerse una prueba de detección** si se presenta alguno de estos factores. 
-
-**Síntomas comunes que se deben reconocer**
--------------------------------------------
-
-La diabetes puede ser silenciosa, por lo que **es importante estar atento a los factores de riesgo**. Si se presentan, se debe consultar con un médico para **evaluar los niveles de glucosa**. Los síntomas incluyen aumento del apetito, sed excesiva, frecuencia urinaria elevada, pérdida de peso inexplicable y oscurecimiento de la piel en áreas de pliegues. 
-
-El podcast de EL COMERCIO **Cuaderno de Salud**, con la **Dra. Alba González**, diabetóloga del Hospital VozAndes, comparte recomendaciones prácticas, hábitos de vida saludables y consejos para mejorar el bienestar de quienes viven con diabetes:
-
-**Desafíos globales** 
-----------------------
-
-A pesar del aumento en la conciencia sobre la diabetes, **persisten desafíos significativos**. La falta de acceso a **tratamientos adecuados** sigue siendo un problema crítico en muchas regiones del mundo. Según datos de la OMS, cerca del 40% de las personas con diabetes no son conscientes de su condición. 
-
-Esto **resalta la necesidad urgente de mejorar las estrategias de diagnóstico** y tratamiento. El **acceso a insulina y otros medicamentos esenciales** es vital para el **manejo efectivo de la diabetes**. Sin embargo, muchas personas aún enfrentan barreras económicas y logísticas para obtener estos tratamientos. 
-
-Así funciona el Pico y placa en Quito este jueves 13 de noviembre
-=================================================================
-
-Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
-------------------------------------------------------------------------------------------------------------------------------
-
-![El Pico y placa se estableció para controlar el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-18.jpg)
-
-El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
-
-### Más noticias
-
-* [Quito aumentará a 1 390 agentes de tránsito en las calles](https://www.elcomercio.com/actualidad/quito/quito-aumenta-a-1-390-agentes-transito-calles.html "Quito aumentará a 1 390 agentes de tránsito en las calles")
-* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
-* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
-
-El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
-
-El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
-
-El esquema de aplicación:
--------------------------
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes:** los que finalizan en 3 y 4.
-* **Miércoles:** los de dígitos 5 y 6.
-* **Jueves:** los que tengan 7 y 8.
-* **Viernes:** las placas 9 y 0.
-
-Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
-
-Multas por infringir Pico y placa
----------------------------------
-
-La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
-
-Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
-
-Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
-
-Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
-
-Matriculación vehicular
------------------------
-
-Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de noviembre los automotores con placa terminada en 0 deben cumplir con el proceso de matriculación. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
-> 
-> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
-
-¡Ojo a la salud mental!
-=======================
-
-Es urgente fortalecer el sistema de salud mental, crear espacios de apoyo y promover la resiliencia psicológica.
-----------------------------------------------------------------------------------------------------------------
-
-![Imagen creada en Adobe Firefly con el prompt "Grupo de personas deprimidas caminando por las calles obscuras de Ecuador".](https://www.elcomercio.com/wp-content/uploads/2024/11/Imagen-editorial-Salud-mental.jpg)
-
-La crisis energética que atraviesa Ecuador está impactando en la salud mental de la población. Problemas preexistentes como la ansiedad y la depresión se han exacerbado. 
-
-Los apagones prolongados de hasta 14 horas al día no solo interrumpen la vida cotidiana, sino que crean un clima de incertidumbre y desasosiego. Esto afecta el bienestar emocional de los ciudadanos.
-
-La incapacidad para planificar actividades básicas genera un aumento en los niveles de estrés. Esto se agrava en ciertos casos por el contexto social de violencia e inseguridad. 
-
-La mezcla de factores exacerba la ansiedad y el sentimiento de aislamiento. Esto se da sobre todo en jóvenes y adolescentes, que ya vienen afrontando un impacto desde la pandemia. La falta de acceso a dispositivos electrónicos durante los apagones profundiza su desconexión y ansiedad.
-
-> Hay que tomar en cuenta que los envenenamientos, traumatismos y otras causas externas son la primera causa de egresos hospitalarios en varones, entre 12 y 17 años. En el caso de las mujeres, es la tercera.
-
-La situación es aún más grave al ver las principales causas de muerte. En el caso de las mujeres de este grupo etario, están lesiones autoinflingidas intencionalmente (suicidio) y en hombres es la tercera causa.
-
-Ante este escenario resulta crucial el fortalecimiento del sistema de salud mental. El Ministerio de Salud Pública, junto con gobiernos locales, oenegés y otras instituciones, debería trabajar en conjunto para promover el [acceso a servicios](https://www.elcomercio.com/actualidad/quito/guia-para-elegir-entre-psicologo-psiquiatra-y-psicoterapeuta-en-quito.html "https://www.elcomercio.com/actualidad/quito/guia-para-elegir-entre-psicologo-psiquiatra-y-psicoterapeuta-en-quito.html") de calidad. La mejora de infraestructuras, como también la educación comunitaria, son necesidades urgentes. 
-
-Crear espacios de apoyo emocional en centros comunitarios puede ofrecer un respiro a quienes se sienten abrumados por la situación.
-
-Es indispensable desestigmatizar los problemas de salud mental, a través de campañas que fomenten el apoyo mutuo entre ciudadanos. 
-
-Capacitar a voluntarios y líderes locales en primeros auxilios psicológicos permitirá que las comunidades identifiquen a las personas en riesgo y les ofrezcan apoyo en momentos de crisis.
-
-Además, el desarrollo de programas de resiliencia psicológica que enseñen técnicas de manejo del estrés y la incertidumbre es vital para ayudar a las personas a sobrellevar la crisis de manera más efectiva.
-
-Las actividades físicas y de socialización al aire libre durante el día ayudarían a que las personas mantengan un equilibrio emocional, evitando la sensación de encierro y estrés que provocan los apagones prolongados.
-
-En conclusión, la crisis energética en Ecuador va más allá de ser un desafío técnico: está afectando la salud mental de toda una nación. 
-
-Es fundamental que las autoridades implementen un enfoque integral que priorice tanto las soluciones energéticas como las estrategias para salvaguardar el bienestar emocional de los ecuatorianos. 
-
-Cartas a Quito / 14 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este jueves 14 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Iberoamérica como comunidad
----------------------------
-
-Hoy y mañana celebramos en Cuenca, Ecuador, la Cumbre Iberoamericana. Bajo el lema “Innovación, Inclusión y Sostenibilidad en Iberoamérica”, todos los países de la Comunidad nos reunimos para compartir respuestas y propuestas ante los retos y oportunidades que compartimos.  Entre ellos, la importancia de luchar contra los efectos del cambio climático, los desastres naturales – como hemos visto recientemente con los efectos de la DANA en España – y la necesidad de establecer políticas de gestión de emergencias.
-
-En estas dos jornadas nos reunimos como Comunidad. Lo somos porque hay una forma iberoamericana de ser y de estar en el mundo que compartimos y que nos identifica ante el resto del planeta. Somos Comunidad porque compartimos lazos económicos y políticos especialmente intensos, pero sobre todo recogemos el sustrato profundo de vínculos familiares, humanos y culturales de los miles de compatriotas que a lo largo del tiempo han vivido en varios de nuestros países. Somos Comunidad porque compartimos valores y trabajamos juntos por promover el multilateralismo, la cooperación y la solidaridad. España ha sentido muy cerca esta comunidad en cada muestra de apoyo con las víctimas y afectados de las inundaciones que acabamos de sufrir, entre las que se encuentran también ciudadanos de otros países iberoamericanos.
-
-En Cuenca constatamos nuestros avances, y damos pasos importantes en cuestiones medioambientales, en materia de seguridad alimentaria, en derechos digitales, en la movilidad de las personas, en el conocimiento científico y en cohesión social y cultura. Un patrimonio compartido de valores, principios y consensos basados en la defensa de la paz, la democracia, los derechos humanos y el desarrollo sostenible.
-
-La Cumbre de Cuenca dará continuidad a un acervo, que hemos ido construyendo a lo largo de más de tres décadas, y cuyo testigo recogerá España en 2026. Un acervo que, lejos de ser algo abstracto e intangible, implica resultados concretos que llegan a la vida de nuestros ciudadanos. Fue en este marco en el que aprobamos el Convenio Iberoamericano de Seguridad Social, que permite la coordinación de nuestras legislaciones nacionales en materia de pensiones, así como el Convenio Marco para el Impulso de la Circulación del Talento en el Espacio Iberoamericano. A estos logros se suman el programa Campus Iberoamérica, que permite la movilidad de estudiantes investigadores y trabajadores de los países que componemos la región. Este año, la Cumbre de Cuenca aborda la innovación, la inclusión y la sostenibilidad como áreas prioritarias para una región en transformación, unido a otros temas clave como la empleabilidad juvenil, la seguridad y las migraciones.
-
-Este patrimonio compartido distingue a nuestra Comunidad de otras organizaciones. A largo del tiempo hemos sabido atesorar el capital que, en estos tiempos de incertidumbre, alcanza más valor y es el más seguro: la confianza, la seguridad en unos lazos que están muy por encima de cualquier coyuntura.
-
-Durante la Cumbre de Cuenca formalizamos también el traspaso de la Presidencia Pro Témpore de Ecuador a España. Albergaremos la próxima Cumbre Iberoamericana de 2026. Ejerceremos esta Secretaría Pro Témpore de la mano de la Secretaría General Iberoamericana, que permite dar seguimiento profundo y puntual a los acuerdos alcanzados y se constituye como el único espacio oficial de convergencia, trabajo y seguimiento de los acuerdos de la región. Somos plenamente conscientes de la importancia de esta confianza por parte del resto de países iberoamericanos.  Para España es un honor haber recibido el apoyo unánime de todos los países de nuestra comunidad como sede para la próxima cumbre iberoamericana en 2026.
-
-Trabajamos desde el primer momento para que la cita en 2026 sea una Cumbre de reafirmación y consolidación de la Comunidad Iberoamericana, con mejoras tangibles para nuestras sociedades y nuestros ciudadanos, porque la comunidad iberoamericana no solo acerca instituciones y Estados, une pueblos y gentes.
-
-Además, trabajamos para impulsar el papel internacional de la región iberoamericana. Un rol al que nuestra región está llamada a jugar por su peso demográfico y económico: somos cerca del 10% de la población mundial, el 7% del PIB mundial y casi el 15% de la superficie terrestre. Pero también por su patrimonio humano y cultural. Las lenguas iberoamericanas –el español y el portugués- suman más de 700 millones de hablantes repartidos en cuatro continentes. Todo ello nos impulsa a ejercer como actor con peso específico en la comunidad internacional, que alce la voz a favor de la paz, el multilateralismo y los derechos humanos.
-
-España trabajará en posicionar globalmente a la Comunidad Iberoamericana, fortaleciendo su asociación estratégica birregional con la Unión Europea, alcanzando mayor presencia en foros multilaterales y abriendo nuestra asociación a otras regiones, como nuestros hermanos caribeños. También avanzamos para afianzar el sistema mediante el fortalecimiento de los mecanismos de funcionamiento y coordinación.
-
-Como ministro de Asuntos Exteriores de España trabajaré para tender puentes y acercar a todos los miembros de nuestra comunidad en torno a nuestros valores compartidos y en beneficio de nuestros pueblos. Ningún futuro se puede construir desde la confrontación y la separación, sino desde la unión y la cooperación. En estos tiempos cobran más importancia que nunca los lazos y los valores del afecto, la confianza y las vidas compartidas que unen a nuestros pueblos y países. Los valores de paz y diálogo sobre los que hemos construido nuestra comunidad son la única guía estable para cualquier futuro y no podemos renunciar a nada de eso sin renunciar a lo que somos. Por todo ello, creo firmemente que esta Comunidad que compartimos es nuestra fortaleza y nuestra fortuna. Algo que, sin ninguna duda, vale la pena cuidar y reforzar y a eso dedicaremos todo nuestro compromiso y nuestro esfuerzo.
-
-_**José Manuel Albares Bueno**, **Ministro de Asuntos Exteriores, Unión Europea y Cooperación de España**_
-
-Los factores de éxito de un país
-================================
-
-El éxito de un país depende de instituciones políticas sólidas y económicas inclusivas, más allá de factores geográficos o culturales.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
-
-**El tema es potente y merecería una investigación de posgrado, y un tratado interdisciplinar.** Pero la ocasión es propicia para reflexionar en voz alta cuando el mundo, la región y nuestro país atraviesan por **profundas crisis internas y externas de diversa etiología.**
-
-**No se trata de elaborar un listado de buenas intenciones o recetas comunes a los textos de autoayuda.** Porque los factores de éxito de un país dependen, necesariamente, de **enfoques científicos, ideológicos y políticos, desde las raíces de los Estados y variables complejas articuladas a la política, la economía, la educación, la cultura y el ambiente. ¡Y porque la historia enseña!**
-
-El pretexto es el libro **“Por qué fracasan los países: los orígenes del poder, la prosperidad y la pobreza”, de Daron Acemoglu y James A. Robinson**, quienes obtuvieron el Premio Nobel de Economía 2024.
-
-Los autores aludidos -sin insultos ni agravios- reconocen desde 2012 que **es “necesario una ‘destrucción creativa’ (de lo mal hecho) para construir un Estado de derecho ordenado al desarrollo económico”.** Las experiencias sistematizadas en varios países son ejemplos reveladores de **por qué ciertos países “escogieron” ser pobres.**
-
-Sus conclusiones son patéticas: **“el destino económico de un país -dicen- no está determinado por la situación geográfica o el legado cultural, ni por las enfermedades o la fe en los antepasados, sino por las instituciones políticas, con voluntad integradora, que apoyan a instituciones económicas de carácter inclusivo para construir una prosperidad sostenida”.**
-
-Los factores de éxito mencionados actualizan a **Adam Smith y Douglass North**, y reafirman de manera consistente que **los países mejoran cuando ponen en marcha instituciones políticas sólidas ordenadas al crecimiento económico que compartan el poder.**
-
-El caso del Ecuador debería revisarse según esta mirada: **la evolución de las instituciones políticas y económicas, y no desde los resentimientos, las injurias y las acusaciones ideológicas, a veces sin sustento, al culpar a los imperios de nuestras calamidades, pobrezas y fracasos.**
-
-Vuelve la tensión a la Penitenciaría del Litoral, tras masacre
-==============================================================
-
-La Penitenciaría del Litoral es escenarios, nuevamente, de hechos violentos.
-----------------------------------------------------------------------------
-
-![La Penitenciaría del Litoral es, nuevamente, escenario de muertes y tensiones.](https://www.elcomercio.com/wp-content/uploads/2024/11/penitenciaria-litoral.jpg)
-
-Este miércoles 13 de noviembre de 2024, la **Penitenciaría del Litoral** volvió a ser escenario de hechos violentos, tras la masacre registrada el martes, con al menos **17 reos muertos**.
-
-La noche de este miércoles, se registraron nuevos **enfrentamientos** y alertas de detonaciones.
-
-### Más detalles:
-
-* [Incidentes en la Penitenciaría del Litoral dejan al menos 15 fallecidos](https://www.elcomercio.com/actualidad/seguridad/incidentes-penitenciaria-del-litoral-habrian-dejado-siete-fallecidos.html "Incidentes en la Penitenciaría del Litoral dejan al menos 15 fallecidos")
-* [Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral](https://www.elcomercio.com/actualidad/seguridad/prision-preventiva-para-nueve-reos-por-asesinatos-penitenciaria-del-litoral.html "Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral")
-
-Siguen las tensiones en la Penitenciaría del Litoral
-----------------------------------------------------
-
-En la Penitenciaría del Litoral, al norte de Guayaquil, se registró un nuevo **hecho violento**, este miércoles.
-
-Un enfrentamiento que habría iniciado alrededor de las 18:25, en el **pabellón 3**, hizo que la ciudadanía alerte sobre detonaciones al interior del lugar.
-
-El martes, tras el reporte de **17 reos fallecidos** en este centro carcelario, el Bloque de Seguridad intervino para tomar el control de las instalaciones y activar un operativo de requisa a gran escala.
-
-Además, se iniciaron las **investigaciones** correspondientes para determinar las motivaciones y los responsables de lo ocurrido.
-
-El centro penitenciario se encuentra bajo **control absoluto** y un contingente significativo de personal militar y policial se desplegó para garantizar la seguridad y evitar nuevos incidentes, aseguraron las autoridades.
-
-Por la masacre en el pabellón tres de la Penitenciaría del Litoral, un juez dictó **prisión preventiva** contra nueve reclusos.
-
-La **Fiscalía General del Estado** formuló cargos contra los sospechosos de los asesinatos.
-
-Tras los asesinatos, las autoridades activaron un **comité de crisis** y puntos de información en la morgue para familiares.
-
-Entre otras medidas, las visitas fueron **suspendidas** temporalmente y las fuerzas de seguridad realizan operativos en busca de armas, municiones y explosivos.
-
-Sin embargo, a menos de 48 horas de la masacre, las **tensiones** siguen en la Penitenciaría del Litoral.
-
-El **Servicio de Atención a Personas Privadas de la Libertad y Adultos Infractores (SNAI)** aún no emite información sobre los hechos de hoy en este centro carcelario.
-
-Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito
-========================================================================================
-
-El Ministerio de Ambiente emitió un comunicado sobre los anuncios del agua para Quito, del alcalde Pabel Muñoz.
----------------------------------------------------------------------------------------------------------------
-
-![El Ministerio de Ambiente se refirió al abastecimiento de agua para Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/ministerio-ambiente-agua-quito.jpg)
-
-El **Ministerio de Ambiente** se refirió a los anuncios del alcalde **Pabel Muñoz** sobre el **agua para Quito**, este miércoles 13 de noviembre de 2024.
-
-El alcalde Pabel Muñoz anunció **racionamientos de agua preventivos** en la capital, la noche del martes.
-
-### Más noticias:
-
-* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
-
-Ministerio de Ambiente se pronunció sobre datos de Pabel Muñoz sobre el agua para Quito
----------------------------------------------------------------------------------------
-
-La noche del martes 12 de noviembre, el alcalde **Pabel Muñoz** anunció racionamientos de agua programados para la capital.
-
-Muñoz explicó la situación de los sistemas de abastecimiento de agua potable de Quito: Papallacta, Mica Sur, **Pita Puengasí,** Conducciones occidentales.
-
-Sobre los embalses, en el de **La Mica,** dijo, hay menos agua que el de 2023, aunque aún está por encima de la cota mínima.
-
-En el embalse **Salve Faccha**, también hay menos agua que el anterior año, aunque también está sobre la cota mínima.
-
-Entonces, Muñoz decidió disminuir los caudales en la **planta de Bellavista**, entre las 22:00 y las 03:00.
-
-Además, implementar un **racionamiento preventivo y programado**, en el sistema Pita Puengasí, con cortes de agua desde las 17:00 hasta las 03:00.
-
-Cerca de **cien barrios** de Quito son los afectados desde este miércoles.
-
-El alcalde dijo que Muñoz dijo que la medida incomoda a un total de **5,4% del total de la población** capitalina.
-
-### Pronunciamiento del Ministerio de Ambiente
-
-El **Ministerio del Ambiente, Agua y Transición Ecológica (MAATE)** anunció que inspeccionará los embalses de agua cruda que dotan de líquido a las plantas de tratamiento de potabilización de Quito.
-
-Esto, tras las publicaciones difundidas por el **Municipio del Distrito Metropolitano de Quito** y las declaraciones del alcalde, Pabel Muñoz.
-
-El MAATE realizará la **inspección a los embalses** de agua cruda en coordinación con la Agencia de Regulación y Control del Agua (ARCA).
-
-Esos embalses proveen del líquido a las plantas de tratamiento de potabilización: **La Mica, Salve Faccha, Mogotes y Sucus.**
-
-El objetivo del Ministerio es verificar el descenso de los **niveles de agua y evaluar la veracidad de las proyecciones** de racionamiento presentadas.
-
-“Como Autoridad Única del Agua, garantizaremos que las proyecciones emitidas por la Empresa Pública Metropolitana de Agua Potable y Saneamiento de Quito (Epmaps), **sean precisas y que las medidas adoptadas no sean prolongadas innecesariamente**“, señaló la institución en un comunicado.
-
-Además, se solicitará el **Plan de Acción** correspondiente y se hará el seguimiento necesario, para superar juntos este desafío.
-
-  
-
-(Video) Diego Forlán debutó con derrota en el tenis profesional
-===============================================================
-
-El histórico jugador uruguayo, amante de los deportes, incursiona ahora en el mundo del tenis.
-----------------------------------------------------------------------------------------------
-
-![Diego Forlán debutó como tenista profesional en Uruguay.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-13T212639.256.jpg)
-
-**Diego** **Forlán** dio sus primeros pasos en el tenis profesional este miércoles 13 de noviembre de 2024. El icónico exjugador uruguayo participó en el **Abierto de Uruguay, en Montevideo**, en la categoría de dobles.
-
-**‘Cachavacha’ hizo dupla con el argentino Federico Coria** en su primer torneo profesional, aunque esta no es su primera experiencia con el deporte blanco. Forlán ya había competido en el circuito senior de la ITF para mayores de 30 años, pero ahora hace su debut a nivel profesional.
-
-### Más noticias:
-
-* [Diego Forlán sorprende y hará su debut en el tenis profesional](https://www.elcomercio.com/deportes/diego-forlan-sorprende-y-hara-su-debut-en-el-tenis-profesional.html "Diego Forlán sorprende y hará su debut en el tenis profesional")
-* [Lionel Messi, el Mundial 2026 y el pádel](https://www.elcomercio.com/deportes/futbol/lionel-messi-mundial2026-miami-padel.html "Lionel Messi, el Mundial 2026 y el pádel")
-* [Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay](https://www.elcomercio.com/deportes/seleccion-ecuador-sebastian-beccacece-compromiso-uruguay.html "Beccacece destacó el compromiso de la Selección de Ecuador ante Uruguay")
-
-Así fue el debut de Diego Forlán
---------------------------------
-
-En su partido inicial, **Forlán y Coria fueron derrotados por 6-1 y 6-2** ante los bolivianos Boris Arias y Federico Zeballos en el Abierto de Uruguay. La pareja rioplatense recibió los aplausos y cánticos de la multitud que llenó el Carrasco Lawn Tennis de Montevideo, pero no logró vencer el dominio de la sólida dupla boliviana.
-
-> Diego Forlan at the net! 💯[#ATPChallenger](https://twitter.com/hashtag/ATPChallenger?src=hash&ref_src=twsrc%5Etfw) | [@DiegoForlan7](https://twitter.com/DiegoForlan7?ref_src=twsrc%5Etfw) [pic.twitter.com/p24PQgTVxJ](https://t.co/p24PQgTVxJ)
-> 
-> — ATP Challenger Tour (@ATPChallenger) [November 14, 2024](https://twitter.com/ATPChallenger/status/1856855480154619909?ref_src=twsrc%5Etfw)
-
-A pesar de los esfuerzos de Coria, quien destacó con varios puntos ganadores, y de **Forlán**, la dupla no pudo contrarrestar la habilidad de sus rivales.
-
-Al concluir el encuentro, **Forlán agradeció a Coria por acompañarlo en esta nueva aventura** y al público que acudió a verlo, dejando momentos memorables para los fanáticos.
-
-> Forlan magic touch, just like the World Cup 2010 🇺🇾 😉 [#ATPChallenger](https://twitter.com/hashtag/ATPChallenger?src=hash&ref_src=twsrc%5Etfw) | [@DiegoForlan7](https://twitter.com/DiegoForlan7?ref_src=twsrc%5Etfw) [pic.twitter.com/LivsUEV8XK](https://t.co/LivsUEV8XK)
-> 
-> — ATP Challenger Tour (@ATPChallenger) [November 14, 2024](https://twitter.com/ATPChallenger/status/1856861301797970135?ref_src=twsrc%5Etfw)
-
-El Abierto de Uruguay
----------------------
-
-La **edición 23 del Abierto de Uruguay** dará al campeón 100 puntos para el ránking, mientras que el finalista se llevará 60. Asimismo, repartirá 133.000 dólares en premios.
-
-Algunos de los tenistas que buscarán coronarse son los argentinos Francisco Comesaña, Federico Coria y Juan Manuel Cerundolo, el brasileño Thiago Monteiro, el boliviano Hugo Dellien y el colombiano Daniel Galán.
-
-El Abierto de Uruguay, que comenzó a disputarse en 1998, contó con destacadas participaciones a lo largo de su historia, entre estas las de los argentinos Guillermo Coria, David Nalbandian, Juan Martín Del Potro y **Diego** **Schwartzman**; el español Tomás Ventura; y el brasileño Thomaz Bellucci, ganadores en distintos años.
-
-El uruguayo Pablo Cuevas es el único **tenista que ha ganado tres veces el título** (2009, 2014 y 2017).
-
-Arconel actualizó compensación para generadores para noviembre y diciembre
-==========================================================================
-
-La Arconel presentó los nuevos valores de compensación de generadores para noviembre y diciembre de 2024.
----------------------------------------------------------------------------------------------------------
-
-![El Gobierno compensa a los empresarios y emprendedores que generan su propia energía, con artefactos superiores a 10 kW](https://www.elcomercio.com/wp-content/uploads/2024/11/generadores-privados.jpg)
-
-La Agencia de Regulación y Control de la Electricidad (**Arconel**) presentó la actualización de los **rubros de compensación** para los generadores de energía privados de más de **10 kilovatios** (kW).
-
-### Más noticias
-
-* [Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano](https://www.elcomercio.com/actualidad/negocios/colombia-venta-energia-ecuador-ines-manzano-cortes-luz.html "Colombia no reanudará la venta de energía a Ecuador, dice Inés Manzano")
-* [Cortes de luz en Quito este jueves 14 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-14-noviembre.html "Cortes de luz en Quito este jueves 14 de noviembre")
-* [Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador](https://www.elcomercio.com/opinion/editorial/cuatro-puntos-crisis-electricidad-ecuador.html "Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador")
-
-Los nuevos valores se aplicarán durante un mes, desde el martes **12 de noviembre** hasta el **12 de diciembre** de 2024.
-
-Los beneficiados de esta compensación son las empresas que se registraron en el programa de **abastecimiento privado de energía** eléctrica, con del Operador Nacional de Electricidad (**Cenace**).
-
-Los participantes que generen su propia electricidad, con aparatos superiores a 10 kilovatios, son recompensados por “reducir el impacto de la **crisis energética**” en el país[.](https://controlelectrico.gob.ec/ "https://controlelectrico.gob.ec/")
-
-Modificación a la regulación de los rubros
-------------------------------------------
-
-El Arconel modificó la regulación de los rubros el 26 de septiembre de 2024. Con este cambio, se incluyeron los generadores con un mínimo de **10 kW** y no solo aquellos superiores a **100 kW**.
-
-Asimismo, en su texto original, la regulación solo contemplaba al **diésel** como el único recurso para la generación.
-
-Con la reforma se incorporaron al **gas licuado de petróleo** (GLP) y al **Fuel Oil 4 y al Fuel Oil 6.**
-
-Nuevos rubros de compensación
------------------------------
-
-Los nuevos rubros de compensación fijados por el Arconel para mediados de noviembre y diciembre son:
-
-* **Diesel 1 y 2:**
-    * 21,59 centavos de dólar por kW para generadores menores a 100 kW
-    * 25,75 centavos de dólar por kW para generadores iguales o mayores a 100 kW
-* **Diesel Premium:**
-    * 24,25 centavos de dólar por kW para generadores menores a 100 kW
-    * 28,40 centavos de dólar por kW para generadores iguales o mayores a 100 kW
-* **GLP:**
-    * 29,93 centavos de dólar por kW para generadores menores a 100 kW
-    * 34,08 centavos de dólar por kW para generadores iguales o mayores a 100 kW
-* **Fuel Oil 4 y 6:**
-    * 14,13 centavos de dólar por kW para generadores menores a 100 kW
-    * 18,28 centavos de dólar por kW para generadores iguales o mayores a 100 kW
-
-> 📍Comunicado Importante [pic.twitter.com/Kc6AcZZViI](https://t.co/Kc6AcZZViI)
-> 
-> — Agencia de Regulación y Control de Electricidad (@ARCONEL\_Ec) [November 13, 2024](https://twitter.com/ARCONEL_Ec/status/1856496683850645887?ref_src=twsrc%5Etfw)
-
-Sebastián Beccacece considera una final el Ecuador vs. Bolivia
-==============================================================
-
-Sebastián Beccacece solo tiene una victoria como DT de la Selección de Ecuador.
--------------------------------------------------------------------------------
-
-![Ecuador y Bolivia en su último enfrentamiento en Guayaquil en 2021.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-13T203952.873.jpg)
-
-**Sebastián** **Beccacece**, DT de la **Selección de Ecuador**, afirmó este miércoles 13 de noviembre que no subestima la aparente debilidad de Bolivia ni las ausencias anunciadas en el equipo rival. Ha instado a sus jugadores a encarar el partido de este jueves con la misma intensidad que en una final.
-
-“No compramos el mensaje que llega desde **Bolivia**, es muy difícil que me encuentren relajado y a mis jugadores les he pedido que salgan a jugar como si fuera este el último partido de sus vidas”, señaló Beccacece en una rueda de prensa.
-
-### Más noticias:
-
-* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
-* [Sebastián Beccacece confirmó la baja de un titular de Ecuador](https://www.elcomercio.com/deportes/futbol/sebastian-beccacece-confirmo-baja-titular-ecuador-angelo-preciado.html "Sebastián Beccacece confirmó la baja de un titular de Ecuador")
-* [La Selección de Ecuador cuesta 16 veces más que Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-valor-mercado-eliminatorias.html "La Selección de Ecuador cuesta 16 veces más que Bolivia")
-
-Bolivia no es un rival fácil
-----------------------------
-
-El seleccionador indicó que confía en que ese mensaje o pedido cale hondo en el corazón de sus futbolistas, y que jueguen ante Bolivia con mucha concentración y responsabilidad.
-
-“La realidad es que **Bolivia se ha preparado** desde el 30 de octubre para este partido, por lo que es imposible que mi equipo esté relajado a sabiendas de que ellos se han preparado con mucho tiempo y nosotros poco. Pero nos estamos preparando para la victoria”, expresó.
-
-**Beccacece** insistió en que Ecuador quiere cerrar el año en zona de clasificación directa, por lo que ante Bolivia llegará “con el estado de ánimo a tope”.
-
-Pidió que quede claro que Ecuador no subestima a nadie y que tampoco teme a nadie: **“Salimos con respeto a jugar contra cualquiera** y sin temerle a nadie, todo con mucho respeto”, remarcó.
-
-Entre las virtudes de su equipo, el técnico resaltó “la velocidad, el desequilibrio, el coraje, que lo viene tratando de mostrar de local y de visitante”.
-
-El seleccionador remarcó que prefiere ocuparse de lo propio, preparar los partidos con la responsabilidad y el deseo de ganarlo, y que Bolivia seguramente saldrá por lo suyo.
-
-“**Yo deseo que Ecuador esté en el Mundial**, después tengo mucho respeto de todos los otros países, es verdad que soy argentino, pero mi afán, mi deseo y mi trabajo es para que Ecuador vaya al Mundial”, insistió.
-
-Las ausencias de Ecuador
-------------------------
-
-Lamentó la ausencia por suspensión de **Moisés** **Caicedo**, pero dijo que el jugador que le reemplace contará con su entera confianza.
-
-Otra de las bajas que anunció Beccacece es la del extremo **Ángelo** **Preciado**, ya que “lamentablemente no se recuperó para estas dos fechas”.
-
-**Ecuador y Bolivia** se enfrentarán este jueves por la undécima fecha de las eliminatorias suramericanas del Mundial 2026. Mientras Ecuador está quinto, con 13 puntos, Bolivia es séptimo, con 12.  
-  
-
-Barrio de Quito tiene escasez de agua por más de 10 días
-========================================================
-
-Los moradores de este barrio de Quito deben recolectar agua en baldes y racionarla para diversas necesidades.
--------------------------------------------------------------------------------------------------------------
-
-![Lilia Pérez, residente del barrio desde hace 30 años, afirma que el problema con el agua es constante.](https://www.elcomercio.com/wp-content/uploads/2024/11/Barrio-sin-agua-Quito.jpg)
-
-Ecuador enfrenta días con **escasas lluvias**, lo que provoca racionamientos de luz a escala nacional y **cortes de agua en Quito[.](https://es.wikipedia.org/wiki/Cortes_(agua) "https://es.wikipedia.org/wiki/Cortes_(agua)")**
-
-Más noticias
-------------
-
-* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
-* [Cortes de agua en Quito este martes 12 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-en-quito-este-martes-12-de-noviembre.html "Cortes de agua en Quito este martes 12 de noviembre")
-* [Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica](https://www.elcomercio.com/actualidad/quito/alcalde-de-quito-evalua-cortes-de-agua-debido-a-crisis-hidrica.html "Alcalde de Quito evalúa cortes de agua debido a la crisis hídrica")
-
-Aunque el **Municipio de Quito** informó el martes 12 de noviembre sobre los **racionamientos de agua** en la capital, este problema no es nuevo para el barrio **Santa Anita-Bellavista de Cotocollao**. Se ubica en el norte de la ciudad, donde residen cerca de 3 000 personas.
-
-Santa Anita-Bellavista de Cotocollao reclama por agua
+Horarios de cortes de luz para sábado 16 de noviembre
 -----------------------------------------------------
 
-Los moradores señalan que el agua escasea en época seca desde hace más de 20 años. Esto, A pesar de ser uno de los barrios más antiguos del noroccidente de Quito.
+Para el sábado 16 de noviembre se prevé racionamientos también de 12 horas, divididos en dos y tres franjas horarias.
 
-Este sector cuenta con calles de adoquines llenas de baches, casas de cemento de dos o tres pisos, tanques en los techos para **almacenar agua** y una tienda en la **esquina**.
+Cronograma de cortes de luz para el domingo 17 de noviembre
+-----------------------------------------------------------
 
-La casa comunal, rodeada de viviendas, tiene una cancha de baloncesto donde los niños pueden jugar.
-
-**Rafael** **Vega**, presidente del comité del barrio, afirma que enviaron solicitudes a la Empresa Pública Metropolitana de Agua y Saneamiento, pero no reciben una respuesta favorable.
-
-**Marlene Caicedo**, residente del sector, comenta que debe acudir a diario a la Unidad de Policía Comunitaria para **recolectar agua**. Una parte utiliza para el aseo y otra cantidad la hierve para su consumo. Ella vive con su nieta y su pareja.
-
-**Vega** relata que en varias ocasiones de este 2024 pasaron hasta 17 días sin agua; el problema se agudizó desde mediados de septiembre. El tanquero llega a diferentes horas, pero a veces ni siquiera pasa por el sector.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Barrio-sin-agua--1-1024x683.jpg)
-
-Rafael Vega mientras revisa si hay agua en la casa comunal del barrio. Foto: Julio Estrella / EL COMERCIO.
-
-**Washington Andara**, propietario de una mecánica en el barrio, señala que, tras 15 años en el sector, siempre tiene el mismo problema. “Sabemos que esto pasa, así que recolectamos agua en baldes”.
-
-El problema de agua es por esta razón, según sus moradores
-----------------------------------------------------------
-
-Vega explica que el problema radica en el diseño de las conexiones de **tuberías**: mientras las de otros sectores están dispuestas de forma vertical, la de su zona es horizontal, lo que dificulta el flujo de **agua** hacia su conexión.
-
-**Lilia Pérez**, residente desde hace 38 años, recuerda que antes usaban un tubo comunitario, pero los problemas comenzaron cuando instalaron las **acometidas** para potabilizar el agua y cambiaron la conexión.
-
-Pérez menciona que el agua de los **tanqueros** del Municipio no sirve para **consumo humano**, pues su impureza ya provocó enfermedades en algunos niños. La utilizan para el aseo.
-
-**Caicedo** expresa su **indignación** al recibir una factura de octubre de 60 dólares, casi el doble de lo que suele pagar, a pesar de la falta de agua.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Barrio-Quito-1024x683.jpg)
-
-Lilia Pérez recolecta el agua en tinas de diferentes tamaños. Foto: Julio Estrella / EL COMERCIO.
-
-Falta de agua afecta a la economía de los moradores
----------------------------------------------------
-
-Dos viviendas en renta quedaron vacías, ya que los inquilinos se marcharon por la **falta de agua,** lo que afecta **económicamente** a los propietarios.
-
-Además, los residentes deben comprar **agua en galones** con frecuencia, un gasto que afecta su **economía**, pues la unidad tiene un precio de tres dólares.
-
-Cuando llaman a la **Epmaps**, reciben como respuesta que la falta de agua se debe a los **cortes de luz**, pues sin electricidad no pueden bombear el agua hacia su sector.
-
-**Vega** afirma que, tras el acuerdo del **Municipio** de **Quito** con el **Gobierno** para evitar cortes de electricidad en zonas con **bombas de agua**, a su sector ya no le suspenden la luz, pero el problema del **agua** persiste.
-
-La Epmaps respondió a EL COMERCIO que los sectores altos de **Quito** tienen problemas de abastecimiento de agua por los **cortes de luz.**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Agua-Quito-1024x683.jpg)
-
-Marlene Caicedo recoge agua de la UPC que está cerca de su casa. Foto: Julio Estrella / EL COMERCIO.
-
-Barrios de Quito sin agua
--------------------------
-
-Los r**acionamientos de agua** potable son una medida preventiva para asegurar el suministro ante la escasez hídrica provocada por la sequía.
-
-El **Municipio** asegura que, para reducir la afectación a la ciudadanía, proteger las fuentes de agua de **Quito** y evitar riesgos en la infraestructura, se realizarán trabajos nocturnos destinados a recuperar los niveles de los tanques.
-
-Por esta razón, las autoridades han decidido suspender el servicio de agua potable en 95 de los 1 280 barrios del **Distrito Metropolitano de Quito.**
-
-Cortes de luz en Quito este jueves 14 de noviembre
-==================================================
-
-Quito continúa con cortes de luz de hasta 12 horas para el sector residencial este jueves 14 de noviembre.
-----------------------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Quito para este jueves 14 de noviembre son programados por la Empresa Eléctrica.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-jueves-14-noviembre.jpg)
-
-Los **cortes de luz** en **Quito** este **jueves 14 de noviembre de 2024** se mantienen con doce horas de duración para el sector residencial.
-
-La **Empresa Eléctrica Quito** dividió los cortes en dos franjas horarias, en la mayoría de sectores.
-
-### Más noticias:
-
-* [Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador](https://www.elcomercio.com/opinion/editorial/cuatro-puntos-crisis-electricidad-ecuador.html "Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador")
-* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
-
-Los horarios de cortes de luz en Quito este jueves 14 de noviembre
-------------------------------------------------------------------
-
-Los cortes de luz en Quito están acompañados por **cortes de agua** en cerca de cien barrios.
-
-Esta es una de las medidas tomadas por el alcalde **Pabel Muñoz** para prevenir la escasez del líquido vital en las próximas semanas.
-
-Muñoz explicó que la situación de los **embalses** que abastecen a la capital.
-
-Dijo que han bajado, respecto al mismo período en el anterior año, pero que aún están sobre la cota mínima.
-
-En tanto, a nivel nacional, el **Ministerio de Energía** informó que los cortes se dan “debido a que las condiciones hidrológicas y climáticas en las zonas de las hidroeléctricas persisten”.
-
-Esto, mientras el Gobierno busca comprar energía a **Colombia**.
-
-Este martes, durante un evento de sostenibilidad realizado en la Cámara de Ecuatoriano Británica, en lenguaje figurado, que la ministra de Energía encargada, **Inés Manzano**, dijo a la ciudadanía que debería “ajustarse los cinturones porque se vienen sacudones”.
-
-Asimismo, aseguró que por el momento “no se ha firmado **ningún contrato**” con empresas privadas.
-
-A continuación, los horarios de los **cortes de luz en Quito para este jueves 14 de noviembre** de 2024:
-
-La filtración de chats de Villavicencio no afecta el proceso judicial
-=====================================================================
-
-La filtración de los chats de Fernando Villavicencio generaron un debate jurídico sobre la validez de las pruebas.
-------------------------------------------------------------------------------------------------------------------
-
-![El 9 de agosto del 2023, Fernando Villavicencio fue asesinado al salir de un mitin electoral cuando era candidato a la Presidencia.](https://www.elcomercio.com/wp-content/uploads/2023/08/movimiento-construye-fernando-villavicencio-denuncio-ataque-armado-instalaciones-quito.jpg)
-
-La **filtración** y divulgación del contenido de los **chats** del teléfono de **Fernando Villavicencio** han dado paso a los **debates jurídicos**. El derecho a la privacidad, su validez o no como **prueba** o si, de algún modo, **afecte la investigación** que lleva adelante la **Fiscalía General,** son algunos de los temas que se han tratado en estos días.
-
-### Más noticias
-
-* [Fiscalía se pronunció sobre paradero del celular de Fernando Villavicencio](https://www.elcomercio.com/actualidad/politica/fiscalia-fernando-villavicencio-celular-desconocidos.html "Fiscalía se pronunció sobre paradero del celular de Fernando Villavicencio")
-* [Conaie anuncia movilizaciones para el viernes 15 de noviembre](https://www.elcomercio.com/actualidad/ecuador/conaie-anuncia-movilizaciones-para-viernes-15-de-noviembre.html "Conaie anuncia movilizaciones para el viernes 15 de noviembre")
-* [FUT y otras organizaciones sociales anuncian movilización nacional](https://www.elcomercio.com/actualidad/ecuador/fut-sindicatos-movilizacion-nacional-noviembre.html "FUT y otras organizaciones sociales anuncian movilización nacional")
-
-Filtración de chats, un tema complejo
--------------------------------------
-
-La filtración de los chats de Fernando Villavicencio, **asesinado el 9 de agosto del 2023**, al salir de un mitin cuando era **candidato** a la Presidencia de la República, es un tema complejo. “Y tiene varias aristas”, dice el penalista Pedro Bermeo.
-
-Una de ellas es “el **mecanismo de obtención de esa información** y si se trata de una copia espejo de lo que contenía el **celular** de Villavicencio, aunque, como ha salido en diversos medios y plataformas, ciertas personas reconocen su contenido”.
-
-Otro aspecto a tomar en cuenta son los aspectos constitucionales y convencionales. “¿Qué debe primar: el derecho a la información y conocer la verdad sobre los hechos de relevancia pública o efectivamente el derecho a la privacidad o inclusive al tratarse de información que tiene el carácter de reservada?”, se pregunta Bermeo.
-
-La filtración de chats y la cadena de custodia
-----------------------------------------------
-
-Los penalistas **Nathalya Salazar** y **Daniel Soto** sostienen que hay que analizar el tema a partir del artículo 180 del Código Orgánico Integral Penal (**COIP**).
-
-“La investigación previa debe **mantenerse en reserva** y es **completamente ilegal** para aquel que divulgue esa información”, al punto que está penado hasta con tres años de cárcel, dice Soto.  
-
-Ante ello, para Salazar, “Fiscalía debe agotar todos los mecanismos, incluso con cooperación internacional, para **determinar cómo llegó esa información a manos de terceros**“.
-
-Salazar apunta que “el celular de Fernando Villavicencio **no entró a cadena de custodia junto con los demás indicios** recabados el día del asesinato. Lo pusieron en manos de uno de los miembros de la cápsula de seguridad, posteriormente a manos de Amanda (Villavicencio, hija de Fernando) y luego a Zurita”.
-
-Por eso, es preciso esclarecer “**cuántas copias se crearon del celular y en qué tiempos**. Tampoco podemos olvidar que la información del teléfono fue **explotado legalmente bajo custodia del FBI”,** añade Salazar[.](https://es.wikipedia.org/wiki/Fiscal%C3%ADa_General_del_Estado_(Ecuador) "https://es.wikipedia.org/wiki/Fiscal%C3%ADa_General_del_Estado_(Ecuador)")
-
-La importancia de la reserva
-----------------------------
-
-La reserva es importante, según Soto, porque, en primer lugar, **“la ley tiene lineamientos estrictos** para llevar adelante las investigaciones. Por eso, **los fiscales deben dar varios pasos adelante** de las personas que hubieran cometido el delito”. 
-
-En segundo lugar, dentro de los chats se pudiera identificar **algún delito que no tiene que ver con el principal** (en este caso, el asesinato de Villavicencio), u otros delitos vinculados a las personas, que, enterándose de que se pudieran abrir otras causas, pudiera huir o destruir pruebas.
-
-Obviamente, dice Soto, que la información que reposa nos puede dar a entender algún vínculo para dar con el responsable del asesinato. La Fiscalía necesita, en ese sentido, cuidar el trabajo que está haciendo para que no se vaya a la basura.
-
-¿Afecta al proceso?
--------------------
-
-Soto es tajante en esto y dice **no**. Con él coincide Salazar. Siempre se puede **desestimar** una prueba, pero no por la filtración de información.
-
-“La información filtrada y revelada, **no pierde su calidad indiciaria o probatoria,** pero sí su **veracidad** y **credibilidad** al haber sido sujeta a posibles modificaciones o alteraciones. Esto no implica que no pueda ser presentada en el marco de un proceso judicial”, dice Salazar.
-
-“La **presunción de validez** de la prueba se mantiene porque lo único que hay que tener en cuenta que el teléfono donde reposa la información y que no ha perdido las características que lo mantengan como prueba”, entre ellas, la cadena de custodia y se haya cumplido con el proceso de explotación y reguardo de la pericia, para Soto.
-
-Cortes de luz en Guayaquil para este jueves 14 de noviembre
-===========================================================
-
-Guayaquil tendrá cortes de 12 horas en las zonas residenciales, este jueves 14 de noviembre.
---------------------------------------------------------------------------------------------
-
-![CNEL es la empresa eléctrica a cargo de distribuir el servicio en Guayaquil](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-guayaquil-jueves-14.jpg)
-
-Los cortes de luz en **Guayaquil** para este **jueves 14 de noviembre** de 2024 serán de **12 horas**, al igual que en el resto de ciudades de Ecuador.
-
-### Más noticias
-
-* [Colombia trabaja en resolución para reanudar venta de energía eléctrica a Ecuador](https://www.elcomercio.com/actualidad/negocios/colombia-trabaja-resolucion-reanudar-venta-energia-ecuador.html "Colombia trabaja en resolución para reanudar venta de energía eléctrica a Ecuador")
-* [Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador](https://www.elcomercio.com/opinion/editorial/cuatro-puntos-crisis-electricidad-ecuador.html "Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador")
-* [Inamhi prevé altos niveles de lluvias en cinco provincias](https://www.elcomercio.com/actualidad/ecuador/inamhi-niveles-altos-lluvias-provincias.html "Inamhi prevé altos niveles de lluvias en cinco provincias")
-
-El **Ministerio de Energía** informó que esta cantidad de horas de apagones se aplicará “debido a que las **condiciones hidrológicas y climáticas** en las zonas de las hidroeléctricas persisten”.
-
-Gobierno busca comprar energía a Colombia
------------------------------------------
-
-Ante ello, la ministra de Energía encargada, **Inés Manzano**, detalló sobre los avances de las conversaciones entre **Ecuador y Colombia** para la compra de energía, una de las soluciones que busca el Gobierno[.](https://www.cnelep.gob.ec/ "https://www.cnelep.gob.ec/")
-
-Manzano dijo este martes, durante un evento de sostenibilidad realizado en la **Cámara de Ecuatoriano Británica**, en lenguaje figurado, que la ciudadanía debería “ajustarse los cinturones porque se vienen sacudones”.
-
-Asimismo, aseguró que por el momento “**no se ha firmado ningún contrato**” con empresas privadas.
-
-Esto, luego de la decisión del presidente Daniel Noboa de designar al exministro de Gobierno, **Arturo Félix Wong**, como consejero de la Embajada de Ecuador en Colombia, desde el 11 de noviembre.
-
-El objetivo es concretar una compra de energía al sector privado colombiano, que ayude afrontar la **crisis energética** por la que atraviesa el país.
-
-Cortes de luz en Guayaquil
---------------------------
-
-Mientras las negociaciones sobre una posible compra de energía con Colombia se desarrollan, Ecuador enfrenta a**pagones programados** durante la mitad del día en las zonas residenciales.
-
-La Corporación Nacional de Electricidad (**CNEL**) detalló los horarios de cortes de luz por sectores para Guayaquil.
-
-Según el cronograma, la **suspensión del servicio eléctrico** en las **zonas industriales** variará entre las cuatro y **ocho horas**.
-
-A continuación, los **cortes de luz en Guayaquil** por sectores y franjas horarias:
-
-Caso Nene: jueza se pronunció sobre la validez del proceso
-==========================================================
-
-El hijo de la vicepresidenta suspendida, Verónica Abad, Francisco B., es procesado en el caso Nene.
----------------------------------------------------------------------------------------------------
-
-![El caso Nene está en la etapa de la audiencia preparatoria de juicio.](https://www.elcomercio.com/wp-content/uploads/2024/11/caso-nene-1.jpg)
-
-En el caso Nene, la jueza anticorrupción, **Karol Zambrano**, se pronunció sobre la validez del proceso, la tarde de este miércoles 13 de noviembre de 2024.
-
-La audiencia del caso Nene se reinstaló a las 15:00, hora a la que también se convocó al Pleno de la Asamblea para conocer la situación de **Verónica Abad**.
-
-### Más noticias:
-
-* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
-* [Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes](https://www.elcomercio.com/actualidad/politica/daniel-noboa-veronica-abad-cronologia-enfrentamiento-denuncia-elecciones-2025.html "Daniel Noboa y Verónica Abad, una cronología de sus inconvenientes")
-
-La jueza se pronunció sobre la validez del proceso en el caso Nene
-------------------------------------------------------------------
-
-La Fiscalía investiga el delito de **oferta de tráfico de influencias** en el caso Nene.
-
-Los hechos ocurrieron, según una denuncia puesta en Fiscalía, porque se ofreció un **puesto** en la Vicepresidencia de la República, a cambio de entregar la mitad de ese sueldo.
-
-En el caso están involucrados el hijo de la vicepresidenta suspendida, Verónica Abad, **Francisco B**. y su asesor, Daniel R.
-
-La audiencia preparatoria de juicio contra Francisco B. y Daniel R. se instaló en el **Complejo Judicial Norte**, en Quito.
-
-La jueza escuchó a las **defensas** sobre posibles vicios procesales, que fueron rebatidos por la Fiscalía y luego suspendió la audiencia para analizar las alegaciones y el expediente.
-
-En la reinstalación de la diligencia, a las 15:00, la jueza señaló que no existen **vicios en la causa**.
-
-Declaró la **validez** de todo lo actuado en el proceso, hasta el momento.
-
-La audiencia se **reinstalará** este jueves 14 de noviembre a las 14:30.
-
-Este jueves, la Fiscalía tiene previsto presentar su **dictamen acusatorio** contra los dos procesados en el caso Nene.
-
-Dentro de este proceso, el hijo de Abad, Francisco B., fue detenido y trasladado a **La Roca**.
-
-Sin embargo, él salió, tras el pago de **20 000 dólares**.
-
-La audiencia se reinstaló a la misma hora que la Asamblea estaba convocada para tomar una **resolución** sobre Verónica Abad.
-
-En el Pleno de la Asamblea, de forma virtual, Abad dijo que se está **utilizando a su hijo** para perseguirle políticamente.
+Estos son los horarios que se aplicarán en Cuenca el domingo
