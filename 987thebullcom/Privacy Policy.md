@@ -347,11 +347,11 @@ Recently Played
 
 |     |
 | --- |
-| Lies, Lies, LiesMorgan Wallen<br><br>4:41pm |
-| Beer Never Broke My HeartLuke Combs<br><br>4:37pm |
-| The PainterCody Johnson<br><br>4:34pm |
-| I Never LieZach Top<br><br>4:30pm |
-| Dust On The BottleDavid Lee Murphy<br><br>4:27pm |
+| White HorseChris Stapleton<br><br>10:38pm |
+| Love SomebodyMorgan Wallen<br><br>10:35pm |
+| High RoadKoe Wetzel Ft Jess Murph<br><br>10:24pm |
+| Son Of A SinnerJelly Roll<br><br>10:20pm |
+| Get Me Some Of ThatThomas Rhett<br><br>10:17pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -499,6 +499,10 @@ Featured Brands
 
 Spanish • Western
 
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
+
 [![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
 Top 40 • Eastern
@@ -506,10 +510,6 @@ Top 40 • Eastern
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
