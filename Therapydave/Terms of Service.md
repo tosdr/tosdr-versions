@@ -1,9 +1,7 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![TherapyDave](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20120'%3E%3C/svg%3E)
-
-![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+[![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
 
 TherapyDave
 
@@ -19,15 +17,11 @@ Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 Terms of Service
 ================
 
-  ![An abstract image featureing symbols of agreement for a terms and conditions of service page](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20585'%3E%3C/svg%3E)
-
-![An abstract image featureing symbols of agreement for a terms and conditions of service page](https://therapydave.com/wp-content/uploads/terms-conditions-service-1024x585.jpg)
+  ![An abstract image featureing symbols of agreement for a terms and conditions of service page](https://therapydave.com/wp-content/uploads/terms-conditions-service-1024x585.jpg)
 
 Terms of Service for TherapyDave.com
 
-_Last updated: August 27, 2024_
-
-The following Terms of Services (the “Agreement”) govern your access to and use of this website, [therapydave.com](https://therapydave.com/), and any of its services (collectively referred to as the “Site”). This website is owned and operated by TherapyDave, a licensed therapy provider (the “Company”).
+The following Terms of Services (the “Agreement”) govern your access to and use of this website, [therapydave.com](https://therapydave.com/), and any of its services (collectively referred to as the “Site”). This website is owned and operated by DTSC, LLC d/b/a TherapyDave, a licensed therapy provider in Oregon and Arizona (the “Company”).
 
 When the terms “we,” “us,” “our,” or similar are used in this Agreement, they refer to the Company.
 
@@ -148,9 +142,11 @@ We reserve the right, in our sole discretion, to change the Agreement under whic
 Contact Information
 -------------------
 
-If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
+If you have any questions or concerns about this Agreement, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 1-541-705-4666.
 
-_“I used to feel like a complete mess. I was starting to lose myself and everyone else that I cared about. After working with Dave, I learned how to be mindful and talk myself out of my spiral of endless worry. I don’t feel so completely lost or crazy. Instead, I feel more normal, more at peace. I’m not totally fighting myself at every turn.”_
+_Last updated: November 14, 2024_
+
+_“I’ve had a lot of therapists over the last 17 years and I’ve never had a counselor bring me through this much progress... ever. Not even close.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
@@ -163,6 +159,7 @@ Eugene, OR 97405-3170
 * [Terms](https://therapydave.com/terms/)
 * [Privacy](https://therapydave.com/privacy/)
 * [Disclaimer](https://therapydave.com/disclaimer/)
-* [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
+* [Good Faith Estimate](https://therapydave.com/good-faith-estimate/)
+* [Nondiscrimination & Accessibility](https://therapydave.com/language-assistance-nondiscrimination/)
 * [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
 * [Client Portal](https://clients.therapydave.com/)
