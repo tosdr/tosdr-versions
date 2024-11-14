@@ -422,8 +422,8 @@ Enable Dark Mode
 
 ![](/wp-content/uploads/2024/05/asg-logo-transparent.svg)
 
-* [ASG Stream](https://asg.stream/)
-* [Our Store](https://shop.theadvocates.org/)
+* [Support Us](https://www.theadvocates.org/donate/)
+* [Shop Our Merch](https://shop.theadvocates.org/)
 
 * [](https://x.com/TheAdvocates)
 * [](https://www.facebook.com/SelfGov)
@@ -643,6 +643,8 @@ Articles
     
     Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
     
+
+[](#)[](#)
 
 ### Privacy Policy
 
