@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/david-icke-de-waarheid-over-syrie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/verband-vaccinaties-met-autisme-en-hersenbeschadiging/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
