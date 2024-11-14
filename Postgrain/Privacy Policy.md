@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![Marketing de Retenção - A imagem que ilustra o tema tem o fundo laranja com uma vinheta preta nas bordas e, no meio, tem uma mulher, de cabelo solto longo, usando uma camisa de manga média branca, segurando um mega fone e a boca aberta, como se estivesse falando através dele.](https://postgrain.com/wp-content/uploads/2024/11/THUUMB-Marketing-de-Retencao-Entenda-sua-importancia-beneficios-e-como-colocar-em-pratica-580x290.jpg)](https://postgrain.com/?post_type=post&p=12717)
+[![](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-A-Apple-pode-lancar-uma-loja-de-aplicatovos-para-jogos-1-580x290.jpg)](https://postgrain.com/?post_type=post&p=12721)
 
-[Marketing de Retenção: Entenda sua importância, benefícios e como colocar em prática](https://postgrain.com/?post_type=post&p=12717)
+[A Apple pode lançar uma loja de aplicativos para jogos](https://postgrain.com/?post_type=post&p=12721)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12717)
+[Leia mais](https://postgrain.com/?post_type=post&p=12721)
 
 Ilustração de um dos personagens do Postgrain
 
