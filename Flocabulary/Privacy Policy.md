@@ -114,7 +114,7 @@ If you have any questions about this Website Privacy Notice, the practices of th
 
 ATTN: Privacy Inquiry | DPO, 6625 W. 78th Street, Suite 220, Bloomington, MN 55439
 
-* [Songs & Videos](https://www.flocabulary.com/subjects/)
+* [###### Songs & Videos](https://www.flocabulary.com/subjects/)
 * [Language Arts](https://www.flocabulary.com/subjects/language-arts/)
 * [Math](https://www.flocabulary.com/subjects/math/)
 * [Science](https://www.flocabulary.com/subjects/science/)
@@ -123,7 +123,7 @@ ATTN: Privacy Inquiry | DPO, 6625 W. 78th Street, Suite 220, Bloomington, MN 554
 * [Vocabulary](https://www.flocabulary.com/subjects/vocabulary/)
 * [Current Events](https://www.flocabulary.com/subjects/current-events/)
 
-* [Product](https://www.flocabulary.com/how-it-works/)
+* [###### Product](https://www.flocabulary.com/how-it-works/)
 * [How it works](https://www.flocabulary.com/how-it-works/)
 * [Research & Results](https://www.flocabulary.com/results/)
 * [How to Use](https://www.flocabulary.com/how-to-use/)
@@ -131,18 +131,18 @@ ATTN: Privacy Inquiry | DPO, 6625 W. 78th Street, Suite 220, Bloomington, MN 554
 * [FAQs](https://flocabulary.zendesk.com/hc/)
 * [Pricing](https://www.flocabulary.com/plans/)
 
-* [Company](https://www.flocabulary.com/about/)
+* [###### Company](https://www.flocabulary.com/about/)
 * [Who We Are](https://www.flocabulary.com/about/)
 * [Community](http://blog.flocabulary.com/community/)
 * [Blog](http://blog.flocabulary.com/)
 * [Jobs](https://www.flocabulary.com/careers)
 * [Press](https://www.flocabulary.com/press/)
 
-* [Get in touch](https://www.flocabulary.com/contactus)
+* [###### Get in touch](https://www.flocabulary.com/contactus)
 * [Contact Us](https://www.flocabulary.com/contactus/)
 * [Request a Quote](https://www.flocabulary.com/inquiry/)
 * [Newsletter](https://go.nearpod.com/flocabulary-newsletter)
-[](https://www.instagram.com/flocabulary/)[](https://www.pinterest.com/flocabulary/)[](https://twitter.com/Flocabulary/)[](https://www.facebook.com/flocabulary/)[](https://www.youtube.com/@FlocabularyYT)
+[Flocabulary on Instagram link](https://www.instagram.com/flocabulary/) [Flocabulary on Pinterest link](https://www.pinterest.com/flocabulary/) [Flocabulary on X/Twitter link](https://twitter.com/Flocabulary/) [Flocabulary on Facebook link](https://www.facebook.com/flocabulary/) [Flocabulary on Youtube link](https://www.youtube.com/@FlocabularyYT)
 
 * Copyright ©2024 Flocabulary
 * [Website Terms of Use](https://www.flocabulary.com/terms-of-use/)
