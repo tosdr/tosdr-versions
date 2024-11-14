@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Researchers seek, and find, a magical illusion for the ears](https://www.sciencenews.org/article/magic-sound-auditory-visual-illusion)
             
-            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")8 hours ago
+            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")13 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Lizard spit can help detect a rare pancreatic tumor](https://www.sciencenews.org/article/lizard-spit-rare-pancreatic-tumor)
             
-            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")10 hours ago
+            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")15 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Fossil teeth hint at a surprisingly early start to humans’ long childhoods](https://www.sciencenews.org/article/fossil-teeth-tooth-human-childhood)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")12 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")17 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
