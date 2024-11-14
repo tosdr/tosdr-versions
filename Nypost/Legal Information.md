@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Watch live
-
-[President-elect Trump meets with President Biden at White House](https://nypost.com/video/watch-live-president-elect-donald-trump-meets-with-president-joe-biden-at-white-house/)
-
 Privacy Notice Highlights
 =========================
 
