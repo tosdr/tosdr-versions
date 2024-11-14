@@ -196,56 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Integrated Debit Order Solution
+> -------------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> We sell adsl bandwidth ranging from a single gig account, up to uncapped accounts. We use invoices online for all our invoicing needs - the invoices online API is integrated in our debit order system that runs on a monthly basis. All clients receive an invoice as soon as their account is debited, and on successful payment the payment is automatically recorded against their account. The system saves us a great deal of time and effort every month, and we recommend that you give it a try.
 
-Anri van der Linde
+Hugo van Sittert
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=146950073)  
-Kara Medical (Pty) Ltd
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=209578825)  
+KTEN PARTS
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=19354330)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=26459515)  
+Oukraal Merino's
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=209592360)  
-Dr V Naik Consult
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=103361018)  
+Skinz Printing & Branding
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=116042030)  
-Imhoff Equestrian Centre
+![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=110782288)  
+Moving Made Easy (PTY) Ltd
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=72493720)  
-Druce Digital
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=149289536)  
+Desygn
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=135057809)  
-Highlands Auto Engineering
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=1494975)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=14564062)  
-MONSTER SECURITY GUARDING
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=171742592)  
+MONSTER SECURITY SERVICES
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=39132789)  
-Hydroworld T/A Milliqua
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=43637574)  
+TurboFibre
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=210134431)  
-TechnoDezi PTY(LTD)
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=68743275)  
+Lion Software Develepment
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=199841912)  
-MSPCloud (Pty) Ltd
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=102498180)  
+Chiron Medical Solutions
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=75958901)  
-Nilbet T/A Waterman
+![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=19751280)  
+NIMAWELL
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=160282815)  
-Vplay Letsheng Mall
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=80760320)  
+Kainos (Pty) Ltd
 
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=181977156)  
-Goju-Ryu Pretoria East
+![valued client Digifax (Pty) Ltd T/A SecurityHyper](https://www.invoicesonline.co.za/scripts/image.php?bid=3135&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=184696159)  
+Digifax (Pty) Ltd T/A SecurityHyper
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=206613175)  
-PROGRAPHIX PTY LTD
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=73326779)  
+Blue Sky Solar Services
 
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=f8dcdf9d147707c74ef345e50b68bfa4e450b87842ea8aa57c596f462ba4775b&c=193180983)  
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=31738e03e2916b0cae8cb26c8a63c2ddd16c432b87c77167b08697da19c6b4f0&c=89578430)  
+Kaylas Creations
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
