@@ -223,7 +223,7 @@ FR
         
         up to 6% Cash Back](https://www.rakuten.ca/vistaprint-canada)[TSC
         
-        1.5% Cash Back](https://www.rakuten.ca/tsc)[Swarovski Canada
+        4.5% Cash Back](https://www.rakuten.ca/tsc)[Swarovski Canada
         
         2% Cash Back](https://www.rakuten.ca/swarovski-ca)[Mejuri
         
