@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/3d-puffy-numbers-feature.jpg)
+
+[](https://theinspirationgrid.com/puffy-numbers-3d-type-series-by-tavo/)
+
+### Puffy Numbers: 3D Type Series by TAVO
+
+![](https://inspgr.id/app/uploads/2024/11/art-dima-lamonov-feature.jpg)
+
+[](https://theinspirationgrid.com/matreksha-fun-sculptures-by-dima-lamonov/)
+
+### Matreksha: Fun Sculptures by Dima Lamonov
+
 ![](https://inspgr.id/app/uploads/2024/11/photography-gian-donati-24-feature.jpg)
 
 [](https://theinspirationgrid.com/black-white-architecture-stunning-photos-by-gian-corrado-donati/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/amazing-illustrations-by-paykhan/)
 
 ### Amazing Illustrations by Paykhan
-
-![](https://inspgr.id/app/uploads/2024/11/design-good-dogs-feature.jpg)
-
-[](https://theinspirationgrid.com/good-dogs-a-celebration-of-canine-companions/)
-
-### Good Dogs: A Celebration of Canine Companions
-
-![](https://inspgr.id/app/uploads/2024/11/art-kano-feature.jpg)
-
-[](https://theinspirationgrid.com/graffiti-infused-creations-by-kano-kid/)
-
-### Graffiti-Infused Creations by kaNO Kid
 
 Awesome products for creatives
 ------------------------------
