@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/verband-vaccinaties-met-autisme-en-hersenbeschadiging/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/nieuwe-vaccinvrij-site-online/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
