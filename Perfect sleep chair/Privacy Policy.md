@@ -398,7 +398,7 @@ The Leather Perfect Sleep Chair is shipping November 24th.
 
 Rated 4.9 out of 5 stars
 
-340 Reviews
+337 Reviews
 
 * * *
 
