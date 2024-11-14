@@ -1,8 +1,8 @@
 Prev 1/2 Next
 
-Nov 11, 2024 [Introducing Paybis Business Wallets: Simplify Your Business Crypto Transactions](https://paybis.com/news/introducing-paybis-business-wallets/)
+Nov 14, 2024 [The Blik Payment Method is Now Available on Paybis](https://paybis.com/news/blik-payment-method-is-available-on-paybis/)
 
-Nov 8, 2024 [Paybis Adds a New Cryptocurrency: Toncoin](https://paybis.com/news/new-cryptocurrency-toncoin/)
+Nov 11, 2024 [Introducing Paybis Business Wallets: Simplify Your Business Crypto Transactions](https://paybis.com/news/introducing-paybis-business-wallets/)
 
 [](https://paybis.com/ "Paybis - Digital and Crypto currency exchange!")
 
@@ -359,7 +359,7 @@ If you have any questions, comments, or concerns regarding our Privacy Policy an
 
 * [support@paybis.com](mailto:support@paybis.com)
 
-[![linkedin-new](https://cdn.paybis.com/resources/icons/linkedin-new.svg)2.5k](https://www.linkedin.com/company/paybis/)[![twitter-new](https://cdn.paybis.com/resources/icons/twitter-new.svg)8k](https://twitter.com/paybis)[![youtube-new](https://cdn.paybis.com/resources/icons/youtube-new.svg)46.8k](https://www.youtube.com/@Paybis)[![instagram-new](https://cdn.paybis.com/resources/icons/instagram-new.svg)4.3k](https://www.instagram.com/paybis/)[![facebook-new](https://cdn.paybis.com/resources/icons/facebook-new.svg)4.1k](https://www.facebook.com/Paybis/)
+[![linkedin-new](https://cdn.paybis.com/resources/icons/linkedin-new.svg)2.5k](https://www.linkedin.com/company/paybis/)[![twitter-new](https://cdn.paybis.com/resources/icons/twitter-new.svg)8k](https://twitter.com/paybis)[![youtube-new](https://cdn.paybis.com/resources/icons/youtube-new.svg)46.9k](https://www.youtube.com/@Paybis)[![instagram-new](https://cdn.paybis.com/resources/icons/instagram-new.svg)4.3k](https://www.instagram.com/paybis/)[![facebook-new](https://cdn.paybis.com/resources/icons/facebook-new.svg)4.1k](https://www.facebook.com/Paybis/)
 
 PAYBIS POLAND Sp. z o.o.
 
