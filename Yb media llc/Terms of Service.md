@@ -218,7 +218,7 @@ Emailed Daily. Always Free!
     * [UFL](https://www.yardbarker.com/ufl)
     * [WNBA](https://www.yardbarker.com/wnba)
     * [Wrestling](https://www.yardbarker.com/wrestling)
-    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_17313_41216549)
+    * [More Sports ▸](https://www.yardbarker.com/stats/sport_list/s1_16448_37217803)
     
 
 * [![](/images/icons/icon-search-white.svg)](#)
