@@ -675,7 +675,7 @@ In an attempt to provide increased value to our visitors, Tailor Toys L.L.C may 
 
 ###### Contact
 
-* [Shipping Information](https://www.poweruptoys.com/pages/shipping-information-2024)
+* [Holiday Shipping](https://www.poweruptoys.com/pages/holiday-shipping-2024)
     
 * [Track my Order](https://shaipoweruptoys.aftership.com/?page-name=tracking-page)
     
