@@ -104,6 +104,16 @@ Nov 07 2024
 
 By **[Howard P. Milstein](https://admin.mi52siterestore.com/person/howard-p-milstein/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/)
 
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-might-have-won-the-first-postracial-election-black-hispanic-minorities.jpg)[](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/ "Read More")
+
+Commentary Governance Elections
+
+Nov 12 2024
+
+[Trump Might Have Won the First Postracial Election](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/)
+
+By **[Jason L. Riley](https://admin.mi52siterestore.com/person/jason-l-riley/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/)
+
     ![](https://media4.manhattan-institute.org/wp-content/uploads/Trillion-dollar-deficits.jpeg)[](https://admin.mi52siterestore.com/article/2024-chart-book-examines-spending-taxes-and-deficits/ "Read More")
 
 Commentary Economics Tax & Budget
@@ -133,16 +143,6 @@ Nov 11 2024
 [Americans Just Said No to Drugs](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/)
 
 By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/hispanics-shift-right.jpg)[](https://admin.mi52siterestore.com/article/hispanics-shift-right/ "Read More")
-
-Commentary Governance Elections
-
-Nov 08 2024
-
-[Hispanics Shift Right](https://admin.mi52siterestore.com/article/hispanics-shift-right/)
-
-By **[Daniel Di Martino](https://admin.mi52siterestore.com/person/daniel-di-martino/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/hispanics-shift-right/)
 
 Our Policy Areas
 ----------------
