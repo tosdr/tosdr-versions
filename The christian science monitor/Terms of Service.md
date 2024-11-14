@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 12, 2024
+November 13, 2024
 
-History’s real front lines
+What we say, and what we vote
 
-We hear a lot about the world’s direction-setters, and about those around them who clamor for influence. But lived human history plays out humbly, mostly at ground level, sometimes literally in the trenches.Today, Dominique Soguel reports on the rise of wartime literature in Ukraine. Warriors’ undiluted words, whether in poetry or prose, can offer powerful authenticity. They might also help preserve an identity that some would erase.“Who will speak when the guns fall silent?” asks one Ukrainian soldier. “Whose voices will continue to be heard?”
+Sometimes wake-up calls are important. As American politics shows us, the fight against climate change has its advocates and its detractors. But polls show most people are concerned. Most people say they want action.In her story today, Stephanie Hanes reveals the limits to that sentiment. It’s not that people don’t care. It’s that they care about other things more, and they’re also not super excited about making sacrifices, surprisingly enough. It’s a reminder that Election Day is often the best gauge of what voters really want, not of what they say.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
