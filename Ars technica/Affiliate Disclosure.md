@@ -87,11 +87,11 @@ Most Read
     
     1. [Record labels unhappy with court win, say ISP should pay more for user piracy](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
     
-2. 2. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
+2. 2. [New secret math benchmark stumps AI models and PhDs alike](https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/)
     
-3. 3. [New secret math benchmark stumps AI models and PhDs alike](https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/)
+3. 3. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
     
-4. 4. [Review: The fastest of the M4 MacBook Pros might be the least interesting one](https://arstechnica.com/apple/2024/11/review-the-fastest-of-the-m4-macbook-pros-might-be-the-least-interesting-one/)
+4. 4. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
     
 5. 5. [Spotify’s Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
     
