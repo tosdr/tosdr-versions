@@ -316,7 +316,6 @@ United States
     * [Credly Support](https://support.credly.com/hc/en-us)
     * [TalentLens Support](https://www.talentlens.com/about/get-in-touch-for-more-details.html)
     * [Accelerated Pathways Contact](https://www.pearsonaccelerated.com/contact.html)
-    * [Skills Accelerator Support](https://www.pearson.com/skills-accelerator/form.html)
     * [All Work Support](https://www.pearson.com/en-us/work/support.html)
     
 * [Explore Pearson](https://www.pearson.com/en-us/explore-pearson.html)
