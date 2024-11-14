@@ -567,7 +567,7 @@ UP TO 75% OFF
 
 Black Friday Favorites](https://www.houzz.com/ideabooks/178755967) 
 
-[![Shop Promo Banner](https://st.hzcdn.com/fimgs/b141e8a6072cb488_3054-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
+[![Shop Promo Banner](https://st.hzcdn.com/fimgs/c1a1c70a0735ba48_4350-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/products/sale-event--black-friday-sale) 
 
 [0](https://www.houzz.com/viewCart)
 
