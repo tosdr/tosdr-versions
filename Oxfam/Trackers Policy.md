@@ -34,7 +34,7 @@ Language
         * [Crisis in Syria](https://www.oxfam.org/en/what-we-do/emergencies/crisis-syria)
         * [Crisis in Yemen](https://www.oxfam.org/en/what-we-do/emergencies/crisis-yemen)
         * [Hunger crisis in South Sudan](https://www.oxfam.org/en/what-we-do/emergencies/hunger-crisis-south-sudan)
-        * [Open Call for an Immediate Ceasefire in the Gaza Strip and Israel](https://www.oxfam.org/en/open-call-immediate-ceasefire-occupied-palestinian-territory)
+        * [Open Call for an Immediate Ceasefire in the Gaza Strip and Israel](https://www.oxfam.org/en/open-call-immediate-ceasefire-gaza-strip-and-israel)
     * [Working worldwide](https://www.oxfam.org/en/what-we-do/countries)
         * [About us](https://www.oxfam.org/en/what-we-do/about)
     
