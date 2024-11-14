@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 13, 2024**
+**November 14, 2024**
 
 * * *
 
@@ -208,6 +208,9 @@ this hour
 
 * * *
 
+* [12,000-Year-Old Stones: Wheel-Like Technology?](https://www.sciencedaily.com/releases/2024/11/241113160855.htm)
+* [Laser Light Can Cast a Shadow](https://www.sciencedaily.com/releases/2024/11/241114130211.htm)
+* [AI Detects Missed Brain Tumor Cells in 10 ...](https://www.sciencedaily.com/releases/2024/11/241113123219.htm)
 * [Can We Live On Our Planet Without Destroying It?](https://www.sciencedaily.com/releases/2024/11/241113123119.htm)
 * [Liquid Water On Mars 742 Million Years Ago](https://www.sciencedaily.com/releases/2024/11/241113160829.htm)
 * [Gas-Churning Monster Black Holes](https://www.sciencedaily.com/releases/2024/11/241113123542.htm)
@@ -215,9 +218,6 @@ this hour
 * [Three Galactic 'Red Monsters' in Early Universe](https://www.sciencedaily.com/releases/2024/11/241113123127.htm)
 * [Solar-Powered Animal Cells](https://www.sciencedaily.com/releases/2024/10/241030150215.htm)
 * [Intelligent Beings in Our Universe and Beyond?](https://www.sciencedaily.com/releases/2024/11/241112190905.htm)
-* [Time Alone Heightens 'Threat Alert' in Teens](https://www.sciencedaily.com/releases/2024/11/241112190857.htm)
-* [How Can Humanity Limit Warming to 1.5°C?](https://www.sciencedaily.com/releases/2024/11/241112123259.htm)
-* [Synthetic Cells Emulate Cell Cell Communication](https://www.sciencedaily.com/releases/2024/11/241112123803.htm)
 
 Trending Topics
 ---------------
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+
 [Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
-
-[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
+[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Encryption](https://www.sciencedaily.com/news/computers_math/encryption/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
-[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
+[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
 
   
 
