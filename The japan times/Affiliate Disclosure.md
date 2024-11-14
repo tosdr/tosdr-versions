@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,19 @@ Latest News
 
 [Hong Kong bomb plot 'mastermind' jailed for almost 24 years](https://www.japantimes.co.jp/news/2024/11/14/asia-pacific/hong-kong-bomb-plot-mastermind-24-years/ "Hong Kong bomb plot 'mastermind' jailed for almost 24 years")
 
-4 hours ago
+10 hours ago
 
 [U.S. accuses China of vast cyberespionage against telecoms](https://www.japantimes.co.jp/news/2024/11/14/world/us-china-cyberespionage-telecoms/ "U.S. accuses China of vast cyberespionage against telecoms")
 
-4 hours ago
+10 hours ago
 
 [Human error behind Osprey accident on remote Japan island: GSDF](https://www.japantimes.co.jp/news/2024/11/14/japan/human-error-osprey-remote-japan-island/ "Human error behind Osprey accident on remote Japan island: GSDF")
 
-5 hours ago
+11 hours ago
 
 [Ishiba Cabinet approval inches up to 28.7%, poll shows](https://www.japantimes.co.jp/news/2024/11/14/japan/ishiba-cabinet-approval-november/ "Ishiba Cabinet approval inches up to 28.7%, poll shows")
 
-7 hours ago
-
 [Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
