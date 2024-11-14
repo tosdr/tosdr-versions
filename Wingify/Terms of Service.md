@@ -38,7 +38,7 @@
     
     Supercharge your optimization velocity with AI
     
-    ![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/pricing/orb-banner.svg)](https://vwo.com/copilot/)
+    ![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/pricing/ai-pricing-orb@2x.png?tr=w-0.5,h-0.5)](https://vwo.com/copilot/)
     
     * [Web Testing
         
@@ -65,7 +65,11 @@
     
     [Behavior Analytics Overview
     
-    Use insights about visitor behavior to drive growth and conversions](https://vwo.com/insights/)
+    Use insights about visitor behavior to drive growth and conversions](https://vwo.com/insights/) [![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/pricing/icon-ai-copilots.svg) VWO Copilot
+    
+    Supercharge your optimization velocity with AI
+    
+    ![](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/pricing/ai-pricing-orb@2x.png?tr=w-0.5,h-0.5)](https://vwo.com/copilot/)
     
     * [Web Insights
         
@@ -188,6 +192,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-CRO-Perspectives-Umniah-Adel-1.jpg?tr=w-60,h-50)
+    
+    Analyze Local User Behavior to Tailor Offerings and Optimize Regional Experiences](https://vwo.com/blog/umniah-adel-insights/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-40-Top-Website-Feedback-Tools-for-Better-Engagement.jpg?tr=w-60,h-50)
     
     40+ Top Website Feedback Tools for Better Engagement](https://vwo.com/blog/website-feedback-tools/)
@@ -203,10 +211,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Top-Statistics-for-Effective-Website-Personalization-1.jpg?tr=w-60,h-50)
     
     Top 35 Website Personalization Statistics to Boost Engagement](https://vwo.com/blog/website-personalization-statistics/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Top-7-Landing-Page-Optimization-Tools-1.jpg?tr=w-60,h-50)
-    
-    Top 7 Landing Page Optimization Tools](https://vwo.com/blog/landing-page-optimization-tools/)
     
     Featured Blogs
     
