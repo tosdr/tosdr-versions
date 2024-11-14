@@ -190,13 +190,6 @@
 
 Subscribe
 
-[#### Migraine](https://www.healthline.com/migraine)
-
-* [Basics](https://www.healthline.com/migraine/basics)
-* [Treatments](https://www.healthline.com/migraine/medication-treatments)
-* [Alternative Therapies](https://www.healthline.com/migraine/alternative-therapy)
-* [Prevention](https://www.healthline.com/migraine/prevention-and-self-care)
-
 Terms of Use
 ============
 
