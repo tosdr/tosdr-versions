@@ -324,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Sorting Hat took 5 and a half minutes to figure out whether to put Minerva McGonagall in Gryffindor or Ravenclaw.
+If a Muggle spotted Hogwarts, they would just see an old ruin with a sign that says “Keep out, dangerous building.”
 
 ### Potter History
 
-September 7, 2012 – The Harry Potter Wizard’s Collection, the most comprehensive Blu-ray and DVD set yet, is released.
+July 15, 2009 – Harry Potter and the Half-Blood Prince is released in theaters.
 
 ### Potter Quote
 
-“Grindelwald doesn’t seem to understand the nature of things he considers simple.”
+“Dear Mr. Potter, We are pleased to inform you that you have been accepted at Hogwarts School of Witchcraft and Wizardry. Please find enclosed a list of all necessary books and equipment. Term begins on September 1. We await your owl by no later than July 31.”
 
 [](#)
 
