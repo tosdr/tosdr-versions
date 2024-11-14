@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_3.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,6 +148,7 @@
 
 Сейчас читают
 
+* [Макароны с фаршем и стручковой фасолью (на сковороде)](https://www.russianfood.com/recipes/recipe.php?rid=167054)
 * [Яблочный уксус](https://www.russianfood.com/recipes/recipe.php?rid=67203)
 * [Свиные рёбрышки, запечённые в томатном соусе с вином](https://www.russianfood.com/recipes/recipe.php?rid=164873)
 * [Тарт с франжипаном и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=158504)
@@ -175,6 +176,20 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Налистники (блинчики) с печенью трески, обжаренные в кляре](https://www.russianfood.com/recipes/recipe.php?rid=174707) |     |
+
+[![Фото к рецепту: Налистники (блинчики) с печенью трески, обжаренные в кляре](//img1.russianfood.com/dycontent/images_upl/748/sm_747746.jpg "Фото к рецепту: Налистники (блинчики) с печенью трески, обжаренные в кляре")](https://www.russianfood.com/recipes/recipe.php?rid=174707)
+
+Налистники – тонкие, эластичные блинчики с начинкой. Нежная печень трески с яйцами и свежей зеленью как нельзя лучше подходит для фарширования нейтральных по вкусу блинчиков. Обжаренные в яичном кляре налистники с печенью трески – потрясающая закуска, которая аппетитно удивляет. Готовим в будни и к праздникам!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174707)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [СП Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=486608) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174707#comments) | 14.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Рецепты<br><br>[Японский закусочный суши-торт](https://www.russianfood.com/recipes/recipe.php?rid=174715) |     |
 
 [![Фото к рецепту: Японский закусочный суши-торт](//img1.russianfood.com/dycontent/images_upl/748/sm_747941.jpg "Фото к рецепту: Японский закусочный суши-торт")](https://www.russianfood.com/recipes/recipe.php?rid=174715)
@@ -199,7 +214,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174814#comments) | 13.11.24 |     |
+|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174814#comments) | 13.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -325,7 +340,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174798#comments) | 12.11.24 |     |
+|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174798#comments) | 12.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -339,7 +354,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174799#comments) | 12.11.24 |     |
+|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174799#comments) | 12.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,7 +368,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174800#comments) | 12.11.24 |     |
+|     | [BakingNews](https://www.russianfood.com/blogs/?id=413626) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174800#comments) | 12.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +383,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22864#comments) | 12.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Аппетитные заметки. Лучшие ЗАВТРАКИ №24-46](https://www.russianfood.com/reading/?post_id=22862) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/652/sm_651256.jpg)](https://www.russianfood.com/reading/?post_id=22862)
-
-Яичница с ветчиной в картофельных корзиночках. Оладьи из гороха. Ленивые вареники-клёцки. Картофельные маффины с колбасой и огурцом. Пшёнка с бананом. Сырники с орехами и финиками. Хлебная запеканка с бананами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22862)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие завтраки](https://www.russianfood.com/blogs/?id=325261) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22862#comments) | 12.11.24 |     |
 
 |     |
 | --- |
@@ -454,10 +455,8 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/742/alt1_741276.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174275) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751093.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174798) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749386.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174595) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742450.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174206) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750888.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174800) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749965.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174706) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747941.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174715) |
-| [Греческий салат с карамелизированным луком](https://www.russianfood.com/recipes/recipe.php?rid=174275) | [Картофельный пирог с говядиной и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174798) | [Слоёные тарталетки с шоколадным фланом](https://www.russianfood.com/recipes/recipe.php?rid=174595) | [Салат с курицей, сельдереем и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174206) | [Паштет из куриной печени](https://www.russianfood.com/recipes/recipe.php?rid=174800) | [Мясные рулетики с ананасами, яблоком и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174706) | [Японский закусочный суши-торт](https://www.russianfood.com/recipes/recipe.php?rid=174715) |
-| [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749806.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749722.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174508) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750898.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742515.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174216) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) |
-| [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [Цельнозерновая пицца с грушей, грибами, маслинами и острым перцем](https://www.russianfood.com/recipes/recipe.php?rid=174508) | [Пряные капкейки с сухофруктами, сырным кремом и змейками из мастики](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [Творожный пирог с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174216) | [Фаршированные кабачки с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) |
+| [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747746.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174707) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750898.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749806.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747941.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174715) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) |
+| [Налистники (блинчики) с печенью трески, обжаренные в кляре](https://www.russianfood.com/recipes/recipe.php?rid=174707) | [Пряные капкейки с сухофруктами, сырным кремом и змейками из мастики](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [Японский закусочный суши-торт](https://www.russianfood.com/recipes/recipe.php?rid=174715) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Фаршированные кабачки с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +473,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(93)
+(109)
