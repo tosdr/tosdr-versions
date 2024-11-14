@@ -69,7 +69,7 @@ Menu
     * [View All](https://www.cdkeys.com/xbox-live)
     * [XBOX Games](https://www.cdkeys.com/xbox-live/games)
     * [Gift Cards/Points](https://www.cdkeys.com/xbox-live/gift-cards-points)
-    * [Memberships](https://www.cdkeys.com/xbox-live/memberships)
+    * [Game Pass](https://www.cdkeys.com/xbox-live/memberships)
     * [Season Passes](https://www.cdkeys.com/xbox-live/season-passes)
 * [Nintendo](https://www.cdkeys.com/nintendo)
     * Nintendo
@@ -116,7 +116,6 @@ Menu
 * [New](https://www.cdkeys.com/new)
 * [Coming Soon](https://www.cdkeys.com/coming-soon)
 
-* [My Account](https://www.cdkeys.com/customer/account/login/)
 * [Wishlist](https://www.cdkeys.com/wishlist/)
 * [My Cart](https://www.cdkeys.com/checkout/cart/)
 * [Checkout](https://www.cdkeys.com/checkout/)
