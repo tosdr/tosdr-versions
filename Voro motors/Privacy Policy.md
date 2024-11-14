@@ -150,7 +150,11 @@ Continue Shopping
 
 * Taxes and [shipping](https://www.voromotors.com/policies/shipping-policy) calculated at checkout
     
-* Checkout
+*  I Agree with the Terms & Conditions [\[View Terms\]](https://www.voromotors.com/en-gb/pages/returns-and-exchanges)
+    
+    I agree to the following purchasing terms & conditions: [Return & Exchange Policy](https://www.voromotors.com/en-gb/pages/returns-and-exchanges "https://www.voromotors.com/en-gb/pages/returns-and-exchanges"), [Warranty Policy,](https://www.voromotors.com/en-gb/pages/warranty "https://www.voromotors.com/en-gb/pages/warranty") [Shipping Policy](https://www.voromotors.com/en-gb/pages/shipping "https://www.voromotors.com/en-gb/pages/shipping") and the [Website Terms & Conditions.](https://www.voromotors.com/en-gb/pages/website-terms-and-conditions "https://www.voromotors.com/en-gb/pages/website-terms-and-conditions")
+    
+    Checkout
 
 [![VORO MOTORS](//www.voromotors.com/cdn/shop/files/VORO_LOGO_-_White_410x.png?v=1633491759)](https://www.voromotors.com/ "VORO MOTORS")
 
