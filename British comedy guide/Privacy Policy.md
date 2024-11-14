@@ -16,7 +16,7 @@
 * [Pro](https://www.comedy.co.uk/pro/)
 * [More](https://www.comedy.co.uk/overview/)
 
-* Search
+* [Search](https://www.comedy.co.uk/search/ "Search")
 
 × Close menu
 
@@ -159,10 +159,6 @@ _This privacy policy was last updated on 24th May 2018, with minor clarification
 #### Subscribe to our newsletters
 
  Go
-
-Do not sell my info
-
-Privacy settings
 
 * [TV](https://www.comedy.co.uk/tv/)
 * [Radio](https://www.comedy.co.uk/radio/)
