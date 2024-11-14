@@ -1,9 +1,7 @@
 * [Skip to primary navigation](#genesis-nav-primary)
 * [Skip to main content](#genesis-content)
 
-[![TherapyDave](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20320%20120'%3E%3C/svg%3E)
-
-![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
+[![TherapyDave](https://therapydave.com/wp-content/uploads/therapydave-eugene-oregon.png)](https://therapydave.com/)
 
 TherapyDave
 
@@ -19,15 +17,11 @@ Gottman Couples Therapy & Individual Counseling in Eugene, Oregon
 Privacy Policy
 ==============
 
-  ![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20536'%3E%3C/svg%3E)
-
-![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](https://therapydave.com/wp-content/uploads/privacy-policy-1024x536.jpg)
+  ![An abstract image representing a website's privacy policy, featuring a lock symbol representing security and confidentiality](https://therapydave.com/wp-content/uploads/privacy-policy-1024x536.jpg)
 
 Privacy Policy for TherapyDave.com
 
-_Last updated: August 27, 2024_
-
-This Privacy Policy explains how TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service](https://therapydave.com/terms/) and [Disclaimer](https://therapydave.com/disclaimer/) which are hereby expressly incorporated into this document by reference.
+This Privacy Policy explains how DTSC, LLC d/b/a TherapyDave collects, uses, and discloses information about you when you use this website. Additional definitions, terms, and conditions are stipulated in the [Terms of Service](https://therapydave.com/terms/) and [Disclaimer](https://therapydave.com/disclaimer/) which are hereby expressly incorporated into this document by reference.
 
 HIPAA Notice of Privacy Practices
 ---------------------------------
@@ -109,14 +103,16 @@ Articles on this site may include embedded content (e.g. videos, images, article
 Contact Information
 -------------------
 
-If you have any questions or concerns about this Privacy Policy or our data practices, or if you wish to exercise your rights regarding your personal data, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 541-705-4666.
+If you have any questions or concerns about this Privacy Policy or our data practices, or if you wish to exercise your rights regarding your personal data, please contact us at 2440 Willamette Street, Suite 101-C, Eugene, Oregon, 97405 or by phone at 1-541-705-4666.
 
 Changes to This Policy
 ----------------------
 
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date on this policy. We encourage you to review our Privacy Policy whenever you access or otherwise interact with this website so that you can stay informed about our information practices and the ways you can help protect your privacy.
 
-_“Dave Lechnyr is a very compassionate and empathetic couples therapist who has been able to work with me and my husband in very constructive and practical ways.”_
+_Last updated: November 14, 2024_
+
+_“Dave is the most professional therapist I have ever worked with. He provides well informed advice, and was able to help me through a very difficult relationship crisis other therapists weren't able to help with. What I learned is that specialization is important. Through his Gottman and other methods, he navigated respecting my background from a different culture and was sensitive in his consults which he helped me through a marriage crisis, trauma, depression and kept me focused on healing. I highly recommend his professional help. I wouldn't be where I am today without him.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
@@ -129,6 +125,7 @@ Eugene, OR 97405-3170
 * [Terms](https://therapydave.com/terms/)
 * [Privacy](https://therapydave.com/privacy/)
 * [Disclaimer](https://therapydave.com/disclaimer/)
-* [Good Faith Estimate](https://therapydave.com/good-faith-estimate.pdf)
+* [Good Faith Estimate](https://therapydave.com/good-faith-estimate/)
+* [Nondiscrimination & Accessibility](https://therapydave.com/language-assistance-nondiscrimination/)
 * [Community Resources](https://therapydave.com/mental-health-crisis-resources/)
 * [Client Portal](https://clients.therapydave.com/)
