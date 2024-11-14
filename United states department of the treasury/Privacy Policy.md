@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    November 14, 2024
+    
+    [Treasury Targets Syrian Conglomerate Funding Qods Force and Houthis](https://home.treasury.gov/news/press-releases/jy2712)
+    
     November 12, 2024
     
     [Treasury Sanctions Sudanese Commander Involved in Human Rights Abuses in West Darfur](https://home.treasury.gov/news/press-releases/jy2710)
@@ -582,10 +586,6 @@ MENU MENU
     November 6, 2024
     
     [Treasury Expands Sanctions on Republika Srpska Network Evading U.S. Sanctions](https://home.treasury.gov/news/press-releases/jy2709)
-    
-    November 1, 2024
-    
-    [Treasury Issues Final Rule Expanding CFIUS Coverage of Real Estate Transactions Around More Than 60 Military Installations](https://home.treasury.gov/news/press-releases/jy2708)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
