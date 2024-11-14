@@ -108,7 +108,7 @@ Join over 14,000 individuals and families managing food allergies who are sharin
 * [Join Patient Registry](https://www.foodallergy.org/research-innovation/elevating-research/fare-patient-registry)
 * [How to Advocate](https://www.foodallergy.org/take-action/how-advocate)
 * [FARE Food Allergy Summit](https://www.foodallergy.org/take-action/food-allergy-summit)
-* [Start a Team FARE Fundraising Event](https://www.foodallergy.org/take-action/team-fare)
+* [Start a Team FARE Fundraising Event](https://www.foodallergy.org/take-action/join-team)
 * [Host a Hometown Heroes Community Walk](https://www.foodallergy.org/take-action/hometown-heroes-community-walk)
 * [Volunteer with FARE](https://www.foodallergy.org/take-action/volunteer-fare)
 * [Teal Pumpkin Project](https://www.foodallergy.org/our-initiatives/awareness-campaigns/living-teal/teal-pumpkin-project)
@@ -123,7 +123,7 @@ Join over 14,000 individuals and families managing food allergies who are sharin
 You can help improve the lives of 85 million Americans impacted by food allergies and intolerances by supporting Food Allergy Research & Education (FARE) with your tax-deductible gift today.
 
 * [Make a Gift](https://www.foodallergy.org/donate)
-* [Team FARE](https://www.foodallergy.org/take-action/team-fare)
+* [Team FARE](https://www.foodallergy.org/take-action/join-team)
 * [Hometown Heroes Community Walk](https://www.foodallergy.org/take-action/hometown-heroes-community-walk)
 * [More Ways to Give](https://www.foodallergy.org/take-action/ways-give)
 * [Special Events](https://www.foodallergy.org/our-initiatives/education-programs-training/special-events)
