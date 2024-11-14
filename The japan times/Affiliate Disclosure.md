@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
+[Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+
+  [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+
 [35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
   [![People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433711.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
-
-[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
-
-  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
 Editors' Picks
 --------------
@@ -176,6 +176,14 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+
 [ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
 
 [35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
@@ -183,14 +191,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Isabel Kua](https://www.japantimes.co.jp/author/4982/isabel-kua/ "Isabel Kua") and [Michael ZHANG](https://www.japantimes.co.jp/author/6178/michael-zhang/ "Michael ZHANG")  
 
   [![People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433711.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[Trafficked: The girls sold for sex in India](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
-
-By [Aishwarya KUMAR](https://www.japantimes.co.jp/author/4798/aishwarya-kumar/ "Aishwarya KUMAR")  
-
-  [![Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/07/432840.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Indian and Bangladeshi girls rescued from sexual exploitation stand near the window of a house provided by a non-governmental organization (NGO) in Kolkata on Sept. 11.")](https://www.japantimes.co.jp/news/2024/11/07/asia-pacific/crime-legal/trafficked-girls-sex-india/ "Trafficked: The girls sold for sex in India")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,17 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
+[New minister promises ample budget for disaster resilience](https://www.japantimes.co.jp/news/2024/11/14/japan/japan-land-minister-interview/ "New minister promises ample budget for disaster resilience")
 
-10 hours ago
+20 mins ago
 
-[Seven & I considers massive management buyout offer](https://www.japantimes.co.jp/business/2024/11/13/companies/seven-i-buyout/ "Seven & I considers massive management buyout offer")
+[‘Call anytime you want’: Trump roils G20 with disdain for rules](https://www.japantimes.co.jp/news/2024/11/14/world/politics/trump-g20-disdain-rules/ "‘Call anytime you want’: Trump roils G20 with disdain for rules")
 
-[Host arrested on suspicion of coercing client into prostitution](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/host-club-prostution/ "Host arrested on suspicion of coercing client into prostitution")
+32 mins ago
 
-[Japan OKs insurance coverage of Alzheimer's drug donanemab](https://www.japantimes.co.jp/news/2024/11/13/japan/science-health/insuarance-coverage-alzheimers-drug/ "Japan OKs insurance coverage of Alzheimer's drug donanemab")
+[47-year-old man arrested over Chiba hotel murder-robbery](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/japan-hotel-murder-arrest/ "47-year-old man arrested over Chiba hotel murder-robbery")
 
-[Chinese national held over swindling of Ibaraki woman who lost ¥809 million](https://www.japantimes.co.jp/news/2024/11/13/japan/crime-legal/83-million-investment-fraud/ "Chinese national held over swindling of Ibaraki woman who lost ¥809 million")
+39 mins ago
+
+[How will Musk's new U.S. government efficiency panel work?](https://www.japantimes.co.jp/news/2024/11/14/world/politics/musk-us-government-efficiency/ "How will Musk's new U.S. government efficiency panel work?")
+
+2 hours ago
+
+[Ukraine allies to push China on Russia-North Korea ties at G20](https://www.japantimes.co.jp/news/2024/11/14/world/politics/ukraine-china-russia-north-korea-g20/ "Ukraine allies to push China on Russia-North Korea ties at G20")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
