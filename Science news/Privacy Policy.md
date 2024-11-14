@@ -91,19 +91,19 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Researchers seek, and find, a magical illusion for the ears](https://www.sciencenews.org/article/magic-sound-auditory-visual-illusion)
             
-            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")12 hours ago
+            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")20 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Lizard spit can help detect a rare pancreatic tumor](https://www.sciencenews.org/article/lizard-spit-rare-pancreatic-tumor)
             
-            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")13 hours ago
+            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")22 hours ago
             
         * [Anthropology](https://www.sciencenews.org/topic/anthropology)
             
             ### [Fossil teeth hint at a surprisingly early start to humans’ long childhoods](https://www.sciencenews.org/article/fossil-teeth-tooth-human-childhood)
             
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")15 hours ago
+            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")24 hours ago
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Animals](https://www.sciencenews.org/topic/animals)
+            
+            ### [Stray DNA is all around us. It could revolutionize conservation](https://www.sciencenews.org/article/edna-environmental-conservation)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")2 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [A twisted protein sheds light on chronic wasting disease in deer](https://www.sciencenews.org/article/chronic-wasting-disease-deer-prion)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [A common drug may help treat a rare genetic disease](https://www.sciencenews.org/article/common-drug-treat-rare-genetic-disease)
             
             By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")November 8, 2024
-            
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Bees flying near cars are dying by the millions, a roadkill study suggests](https://www.sciencenews.org/article/bees-cars-dying-roadkill)
-            
-            By [Amanda Heidt](https://www.sciencenews.org/author/amanda-heidt "Posts by Amanda Heidt")November 7, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
