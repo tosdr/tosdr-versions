@@ -459,9 +459,9 @@ Regular price $169.95
 
 Unit price /  per](https://www.atari.com/products/atari-7800-mega-bundle) 
 
-[![Oversized Fuji Hoodie](files/ae5668c8-308b-435e-b57c-1bb3352c2aa2copy.jpg)
+[![Oversized Fuji Hoodie](files/fe661587-106c-4959-86f6-799dd541558bcopy.jpg)
 
-![Oversized Fuji Hoodie](files/8b7b3d6f-daf8-4b06-a3db-3444bf0cdf8acopy.jpg)
+![Oversized Fuji Hoodie](files/7fd0d636-7aef-475f-8165-f373222012f0copy.jpg)
 
 Add to cart
 
