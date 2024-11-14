@@ -119,6 +119,7 @@
     
 * [Careers](https://www.orange.com/en/your-career-at-orange)
 * [Newsroom](https://newsroom.orange.com/?lang=en)
+* [Board of Directors: duties and members](https://www.orange.com/en/group/governance/board-of-directors)
 * [Magazines](https://www.orange.com/en/magazines)
 
 * Algolia Search bar
