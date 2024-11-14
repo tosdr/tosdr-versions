@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/aanwijzingen-relatie-tussen-overlijden-en-mrna-middelen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/wakker-worden-voor-het-leven/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
