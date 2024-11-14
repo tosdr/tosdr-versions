@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-    * [Kanguva](https://www.news18.com/movies/kanguva-first-review-out-suriya-is-superb-but-film-suffers-from-weak-script-9119871.html)
+    * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
     * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
     * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
     * [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
-    * [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-formation-date-salary-increase-da-hike-all-you-need-to-know-9118740.html)
-    * [Tulsi Gabbard](https://www.news18.com/world/trump-picks-ex-rep-tulsi-gabbard-as-director-of-national-intelligence-9119801.html)
+    * [WhatsApp](https://www.news18.com/tech/whatsapp-warns-about-shutting-down-in-india-if-it-was-forced-to-break-chat-encryption-know-more-8867113.html)
+    * [Bangladesh](https://www.news18.com/world/snub-to-mujibur-rahman-secular-word-out-of-constitution-bangladesh-to-become-islamic-nation-soon-9120025.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-* [Kanguva](https://www.news18.com/movies/kanguva-first-review-out-suriya-is-superb-but-film-suffers-from-weak-script-9119871.html)
+* [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
 * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
 * [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
-* [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-formation-date-salary-increase-da-hike-all-you-need-to-know-9118740.html)
-* [Tulsi Gabbard](https://www.news18.com/world/trump-picks-ex-rep-tulsi-gabbard-as-director-of-national-intelligence-9119801.html)
+* [WhatsApp](https://www.news18.com/tech/whatsapp-warns-about-shutting-down-in-india-if-it-was-forced-to-break-chat-encryption-know-more-8867113.html)
+* [Bangladesh](https://www.news18.com/world/snub-to-mujibur-rahman-secular-word-out-of-constitution-bangladesh-to-become-islamic-nation-soon-9120025.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -191,114 +191,240 @@ News18 Website and App Privacy Policy
 * For other Residents
 * For EU, UK and California Residents
 
-Our Commitment
---------------
+Network18 Media and Investments Limited, having its registered office at First Floor, Empire Complex, 414, Senapati Bapat Marg, Lower Parel, Mumbai - 400013, India (“we”, “us”, “our”, “Network18”, “News18”) is committed to protecting the privacy and security of your personal data, your privacy is important to us. This Privacy Policy (“Policy”) applies to all products and/or services offered by us to all individuals (“you”, “your”, “user”).
 
-Network18 Media and Investments Ltd. ("we", "us" , "news18.com", "News18", “Network18”) is committed to protecting the privacy of the users ("you" / "your" / "yourself") of its website / software applications offered by Network18 (collectively, "Applications") and has provided this privacy policy ("Policy") to familiarize you with the manner in which Network18 uses and discloses your information collected through the Applications.
+This Policy explains how we collect, receive, store, disclose, share, and use your personal data for the purpose of your participation and consumption of our products and/or services offered by us through our website and/or software application (collectively, “Platform”) or during any interaction with us, and how you can exercise your privacy rights.
 
-The terms of the Policy provided herein govern your use of any and all of the Applications and the information accessible on or from these Applications. The Policy also lays down how Network18 may collect, use and share any information you provide. Network18 reserves the right, at its discretion, to change, modify, add or remove portions of this Policy at any time. Network18 recommends that you review this Policy periodically to ensure that you are aware of the current privacy practices.
+Before using our Platform or availing any of our products and/or services, you are advised to carefully read this Policy. If you do not agree with the terms of this Policy, please do not access this Platform. By visiting and/or using our Platform, you are consenting to process your personal data in the manner as set forth in this Policy.
 
-This Policy shall be construed as provided in compliance with Information Technology Act, 2000 as amended and read with the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011.
+1\. DATA PRIVACY DISCLAIMER
+---------------------------
 
-1\. Collection of Information
------------------------------
+The scope of this policy is limited to the product and/or services provided by us within the territory of India and applies to users who request for these products and/or services within the Indian territory.
 
-### 1\. Network18 may collect the following two types of information:
+2\. WHAT PERSONAL DATA DO WE COLLECT ABOUT YOU?
+-----------------------------------------------
 
-a. **"Personal Information"** which shall mean information which could reasonably be used to identify you personally, such as your name, email address, registration account details, physical address or other relevant personal details; and demographic information, such as gender, pin code or similar information. For the purpose of this policy, sensitive personal data or information has been considered as a part of Personal Information, which may include information such as password, financial information (details of bank account, credit card, debit card, or other payment instrument details).
+When you interact with us, we collect different types of information from you based on the type of interaction.
 
-b. **"Non-Personal Information"** which shall mean information that does not identify you or any other individual, and includes session, web beacons and usage data, log data and aggregate information. We use this information to inter-alia deliver our web pages to you upon request, to tailor our Application/website to the interests of our users, to measure traffic within our Application/website, to improve the Application/website quality, functionality and interactivity and let advertisers know the geographic locations from where our visitors come.
+_“Personal Data”_ means any data about an individual who is identifiable by or in relation to such data.
 
-c. Network18 may install cookies or other similar data collection software in your computer system/device for such purpose and you hereby consent to the same. We may use "cookies", beacons or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the identified computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.
+_“Processing”, “Processed”, “Process”_ in relation to personal data, means a wholly or partly automated operation or set of operations performed on digital personal data, and includes operations such as collection, recording, organization, structuring, storage, adaptation, retrieval, use, alignment, or combination, indexing, sharing, disclosure by transmission, dissemination or otherwise making available, restriction, erasure, or destruction.
 
-2\. You represent that the information or data you provide from time to time is and shall be correct, current and updated and you have all the rights, permissions and consents to provide such information or data. Your providing the information or data and Network18\`s consequent storage, collection, usage, transfer, access or processing of the same shall not be in violation of any third party agreement, laws, judgments, orders or decrees.
+We endeavor to collect only such personal data that is reasonably necessary to perform our services for you. When you interact with our Platform or otherwise us, we may collect the following personal data from you directly:
 
-2\. Use of Information
-----------------------
+1\. **General Data –** your first name, last name, email, mobile number, address with Pin Code as well as your preferred language;
 
-1\. You may need to provide Network18 with your Personal Information while registering yourself on any of the Applications. The information so provided by you to Network18 or otherwise captured by Network18 may be used for a number of purposes connected with Network18\`s business operations which may include the following:
+2\. **Government Identification Data –** data that enables us to identify you, e.g. your Aadhaar card and PAN card;
 
-a. Processing orders or applications;
+3\. **Authentication –** data required for authentication, such as username and password;
 
-b. Provisioning of services, testing or improvement of services, recommending various products or services including those of third parties;
+4\. **Technical and Network Activity Data –** data about your device and your usage of our Platform, including your IP address, device ID, hardware model and version, mobile network information, operating system and other online identifiers, type of browser, browsing history, search history, access time, pages viewed, URLs clicked on, forms submitted, and physical location;
 
-c. Dealing with requests, enquiries and complaints, customer services and related activities;
+5\. **Financial Data –** your bank details, including account name, account number, cancelled cheque;
 
-d. Marketing products and services of Network18 and its analysis;
+6\. **Employment Details-** your employment details, such as company name, designation, education qualification, and resume
 
-e. Responding to your queries and fulfilling your requests for information regarding the Applications;
+You can choose not to give us personal data when we ask you for it. If you decide not to give us your personal data, it may restrict our relationship with you.
 
-f. Notifying you of any new offers or services of Network18 and sending you important information regarding the Applications, changes to any of Network18\`s policies and/or other administrative information;
+3\. HOW DO WE COLLECT YOUR PERSONAL DATA?
+-----------------------------------------
 
-g. Keeping you informed about the latest content available on the Applications and special offers with respect to the same;
+**Information you directly provide to us:**
 
-h. Sending you surveys and marketing communications that Network18 believes may be of interest to you;
+You may choose to provide us with the data, which is essential for us to deliver the products and/or services you request. Without this data, we may not be able to provide you with all the requested products and/or services;
 
-i. Conducting internal reviews and data analysis for the Applications;
+* Use our Platform;
+* Share or use your social media profile to contact us;
+* Enter a contest or competition organised by us;
+* Engage with one of our sales representatives;
+* Get in touch for support or to provide feedback/ queries;
+* Attend an online as well as on ground event;
+* Ask questions or seek clarification regarding our products or services;
+* To view any news, quiz or polls related services offered by us through the Platform.
 
-j. Personalizing your experience while using the Applications by presenting advertising, products and offers tailored to you;
+**Information you provide to us voluntarily:**
 
-k. If you wish to subscribe to any content package or service offered by Network18 through the Applications, for completing your purchase. (For example, to have your payments processed, communicate with you regarding your purchase and provide you with related customer service);
+If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Platform, we may collect and store such data.
 
-l. Improving the services, content and advertising on the Applications;
+We may collect additional data at other times, when you provide feedback(s), modify your content or email preferences, respond to surveys, or communicate with us. This data may include your name, e-mail id, mobile number, etc.
 
-m. Protecting the integrity of the Applications; and
+**Information we collect automatically:**
 
-n. Responding to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law.
+We collect data about you, your interactions with us, as well as data regarding your computer or other devices used to access our Platform. This source may include, but is not limited to:
 
-2\. Your Personal Information will be kept confidential to the maximum possible extent and will be used to support your relationship with Network18, to notify you of any updated information and new activities and other related functions offered by Network18. Any personally identifiable information provided by you will not be considered as sensitive if it is freely available and / or accessible in the public domain. Further, any comments, messages, blogs, scribbles etc. posted/uploaded/conveyed/communicated by users on the public sections of the Application becomes published content and is not considered personally identifiable information subject to this Policy.
+* Activities on the Platform such as type of pages viewed, time spent on pages, search queries etc.;
+* Your interactions with our email, customer care and contact us Platform;
+* Geo-location data through IP addresses;
+* Device information like device id, device model etc. and other unique identifiers;
+* Data collected via the use of cookies.
 
-3\. Network18 may use Personal Information to verify whether you are entitled to access and use the Applications and the products and services made available through the Applications. This Personal Information may also be used to enable Network18 to enhance your experience of the Applications.
+**Information we collect from other sources:**
 
-4\. Further, with respect to Non-Personal Information automatically collected and stored in files, Network18 uses this information to understand and analyze trends, to administer the Applications, to learn about user behavior on the Applications, and to gather demographic information about the user base as a whole. Network18 may use this information in its marketing and advertising services. Network18 may also use such information to measure traffic patterns on the Applications. As Non-Personal Information does not personally identify you, Network18 may use and disclose Non-Personal Information for any purpose.
+We may collect or receive data about you from third-party sources and process this data in accordance with this policy. The sources may include, but is not limited to:
 
-3\. Disclosure
---------------
+* Publicly accessible sources;
+* Marketing vendors;
+* Event management agencies;
+* Social media Platforms.
 
-1\. Network18 does not sell or rent Personal Information. Personal Information may be disclosed under the following circumstances:
+If you connect your social media account to our Platform, you will share certain personal data from your social media account with us. This may include your name, email address, photo, list of social media contacts, and any other data you make accessible to us.
 
-a. Network18 may disclose your Personal Information to its affiliates, group companies, consultants, vendors and contractors who provide various services including, contact information verification, payment processing, customer service, website hosting, data analysis, infrastructure provision, IT services, and other similar services, under confidentiality restrictions, in order to enable such vendor and service providers to provide the services subscribed to by you;
+4\. LAWFUL BASIS FOR PROCESSING YOUR PERSONAL DATA
+--------------------------------------------------
 
-b. Network18 may provide your information or data to its partners, associates, advertisers, service providers or other third parties to provide, advertise or market their legitimate products and/or services which may be of your interest. You will have the choice to 'opt out' of such marketing or promotional communications at your will; and
+We will collect personal data by lawful and fair means and, where appropriate, with the knowledge of the individual concerned. We only collect and process personal data about you where we have a lawful basis. Lawful basis on which we would process data from you includes:
 
-c. As necessary or appropriate: (a) in any manner permitted under applicable law, including laws outside your country of residence; (b) to comply with legal process whether local or foreign; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce Network18\`s terms and conditions; (e) to protect Network18\`s rights, privacy, safety or property, and/or that of Network18\`s affiliates, you or others; and (f) to allow Network18 to pursue available remedies or limit the damages that Network18 may sustain.
+* Obtaining explicit consent from you,
+* Processing for legitimate uses where processing is necessary in order to provide you with our products and/or services, such as:
 
-d. We may disclose to third party services certain personally identifiable information listed below:
+1. To enforce our terms and conditions;
+2. To ensure compliance with our legal obligations and to also comply with our obligations towards public authorities;
+3. To enforce any legal right or claim;
+4. For responding to a medical emergency involving a threat to your health or life or that of any other individual;
+5. For taking measures to ensure safety of, or provide assistance or services to any individual any disaster, or any breakdown of public order;
+6. For legal and compliance reasons, such as the prevention, detection, or investigation of a crime, loss prevention or prevention of fraud;
+7. As otherwise described to you at the time of collection of your personal data.
 
-* Information you provide us such as name, email, mobile phone number.
-* Information we collect as you access and use our service, including device information, location and network carrier.
+5\. HOW DO WE USE YOUR PERSONAL DATA?
+-------------------------------------
 
-e. This information is shared with third party service providers so that we can:
+We use your personal data for the purposes we have described below in this privacy notice, or for purposes which are reasonably compatible to the ones described.
 
-* Personalize the app for you.
-* Perform behavioural analytics.
+**To manage our relationship with you.**
 
-2\. Your consent being part of the terms and conditions through which Network18 provide you with a service. your consent to collecting Personal and Non-Personal Information may be implicit or implied or through course of conduct.
+We will use your personal data to:
 
-3\. Application may present display advertising and may collect data about traffic via Google Analytics or any equivalent analytical tool, Demographics and Interest Reporting.
+* Verify your identity; to help provide our products and/or services and to administer those products and/or services;
+* Communicate with you concerning our service (for example by email, push notifications text messaging, and online messaging channels), so that we communicate news regarding the Platform to you, details about new features and content available on our platform;
+* For marketing (where you have agreed to this) and for market research purposes, including internal demographic studies, to provide, optimize and personalize our products and/or services and to send you newsletters and data (where you have agreed to this) about our products and/or services;
+* Provide online or offline products and/or services such as contests and employment opportunities;
+* Identify you and authenticate your access rights access to our Platform;
+* Invite you to provide feedback, surveys or attend events;
+* Personalize your experience when interacting with us;
+* To respond to your queries and provide you with data when you request it or when we believe our products and/or services may be of interest to you. If we intend to share electronic marketing with you, we will ask for your consent where required and you can opt out at any time.
 
-4\. Information Security and Storage
-------------------------------------
+**To manage and improve our processes and our business operations.**
 
-1\. Network18 uses reasonable security measures, at the minimum those mandated under the Information Technology Act, 2000 as amended and read with Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011, to safeguard and protect your data and information. Network18 implements such measures, as stated above, to protect against unauthorized access to, and unlawful interception of, Personal Information. You accept the inherent security implications of providing information over Internet/ cellular/data networks and will not hold Network18 responsible for any breach of security or the disclosure of Personal Information unless Network18 has been grossly and wilfully negligent.
+We will use your personal data to:
 
-2\. Your information or data will primarily be stored in electronic form. However, certain data can also be stored in physical form. Network18 may store, collect, process and use your data in countries other than the Republic of India but under full compliance with applicable laws. Network18 may enter into agreement with third parties (in or outside of India) to store your information or data. These third parties may have their own security standards to safeguard your information or data and Network18 will on commercial reasonable basis require such third parties to adopt reasonable security standards to safeguard your information / data.
+* Manage our network and information systems security;
+* Manage our workforce effectively;
+* Perform data analyses, auditing and research to help us deliver and improve our digital Platform, content and products and/or services;
+* Monitor and analyse trends, usage and activities in connection with our products and/or services to understand which parts of our products and/or services are of the most interest and to improve them accordingly.
 
-3\. Notwithstanding anything contained in this Policy or elsewhere, Network18 shall not be held responsible for any loss, damage or misuse of your Personal Information, if such loss, damage or misuse is attributable to a Force Majeure Event. A "Force Majeure Event" shall mean any event that is beyond the reasonable control of Network18 and shall include, without limitation, sabotage, fire, flood, explosion, acts of God, civil commotion, strikes or industrial action of any kind, riots, insurrection, war, acts of government, computer hacking, unauthorized access to computer data and storage device, computer crashes, breach of security and encryption, etc.
+**To achieve other purposes.**
 
-5\. Third Party Websites, Applications and Services
----------------------------------------------------
+We shall also use your personal data for legal and regulatory purposes, such as:
 
-The Application/website may include links to other websites/applications. Such websites/application are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website/application you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites/application via a link from the website's homepage, you should contact the website/application directly for more information.
+* For our internal and external audit requirements and for information security purposes;
+* To gain insights and feedback on our products and/or services in order to correct or improve them, by analysing data from external sources such as Google, Facebook and Twitter (and others).
 
-News18 uses the YouTube API Services to showcase video content on it's web and app platforms, and by accepting the above terms you also accept the [YouTube Terms of Service (ToS)](https://developers.google.com/youtube/terms/developer-policies#a.-api-client-terms-of-use-and-privacy-policies) and [Google privacy policy](https://policies.google.com/privacy)
+6\. HOW DO WE USE PERSONAL DATA WHEN YOU VISIT OUR OFFICES?
+-----------------------------------------------------------
 
-6\. Access, Correction and Deletion
+When you visit our offices, we process your personal data in accordance with this privacy statement and some specific information regarding the use of visitor data and the potential use of CCTV in our offices is provided in the reception area.
+
+7\. HOW DO WE PROTECT YOUR PERSONAL DATA?
+-----------------------------------------
+
+We implement reasonable technical and organizational measures in relation to the data and personal data that is processed by us. We take reasonable measures to protect all personal data from unauthorized processing or accidental disclosure, alteration, misuse, destruction or loss or unauthorized access and modification that compromises the confidentiality, integrity, and availability of such data.
+
+While we endeavor to always protect our Platform, operations and data against unauthorized access, use, modification, and disclosure, due to the inherent nature of the Internet, we cannot guarantee that any data, during transmission or while stored on our systems, will be safe and secure from intrusion by others.
+
+8\. YOUR RIGHTS IN CONNECTION WITH YOUR PERSONAL DATA
+-----------------------------------------------------
+
+We respect your right to access and control your personal data, and we will respond to requests to exercise your rights under applicable laws and, where applicable, will correct, update, or erase your personal data.
+
+**You have the following rights:**
+
+* **Right to access data :** At any point, you can contact us for a summary of your personal data we hold about you, the processing activities undertaken with respect to such personal data, the identities of all those persons with whom your personal data has been shared by us along with the description of the personal data so shared, and any other data related to your personal data and its processing.
+* **Right to request correction:** If your personal data is incomplete, inaccurate, misleading, or out of date, you can inform us about the same and your personal data will be corrected, completed, or updated.
+* **Right to request erasure:** If you believe that we should discontinue the use of your personal data, you have the option to request the deletion of your personal data, unless retention is necessary for compliance with any law for the time being in force.
+* **Right of grievance redressal:** In case of any grievance, you can also raise a request to alter your consent choices at **[dpo@nw18.com](mailto:dpo@nw18.com)**.
+* **Right to nominate:** In the event of death or incapacity to exercise these rights, you can nominate any other individual to exercise such rights.
+* **Right to withdraw your consent:** You can withdraw your consent easily by emailing us on [dpo@nw18.com](mailto:dpo@nw18.com). The withdrawal of consent previously granted for the processing of personal data does not affect the lawfulness of the processing until the withdrawal. However, opting out will result in cessation of the respective services.
+
+For exercising any of your rights, you can contact us using [dpo@nw18.com](mailto:dpo@nw18.com). We will need you to furnish proof of your identity before you can exercise these rights. We may not be able to process any requests made in the event you fail to establish your identity, or if we are unable to authenticate your identity.
+
+9\. SHARING/DISCLOSURE OF PERSONAL DATA
+---------------------------------------
+
+As far as this is necessary for the purposes set out above, we will share your personal data with the following recipients who either have a need to know and who will process it for us based on our instructions and for no other purpose:
+
+**General Disclosure:**
+
+We may disclose your personal data will include:
+
+* Our related companies;
+* We use third-party advertising companies to serve ads when you visit our Platform;
+* All our employees and contractors are required to follow our data protection and security policies when handling personal data;
+* We’ll share or disclose your personal data outside of the Platform when we have your consent. For example, providing SMS and E-mail related services such as marketing newsletters, promotions and offers;
+* Your personal data might also have to be shared in the event of a merger, sale, restructure, acquisition, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with any bankruptcy or similar proceedings).
+
+**External service providers:**
+
+Occasionally, to provide our products and/or services, it is necessary to collaborate with external service providers. We may use these service providers to assist us with some features or functions of our Platform. These external service providers shall process your personal data on our behalf subject to appropriate safeguards only insofar as it is necessary for them to provide their products and/or services to us. Our prior authorization is required before they are permitted to transfer responsibility for processing personal data to a third party.
+
+**Business Transfers:**
+
+We provide personal data to our affiliates and other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures.
+
+In the event if we merge with or acquired by another company or in case of re-organization or re-structuring of business, we and our affiliates may share your personal data, wholly or in part, with another business entity.
+
+**Courts and public authorities:**
+
+We will share personal data when required for the following purposes:
+
+* To comply with legal obligations and respond to requests from government agencies, including law enforcement agencies and other public authorities;
+* To prevent or detect or investigate offences or cyber incidents or for the prosecution or punishment of offences;
+* To raise or defend against legal claims;
+* To protect our users, systems, and products and/or services.
+
+We only share your personal data with recipients that have an adequate level of data protection by implementing appropriate technical and organizational security measures, or we take measures to ensure that all recipients provide an adequate level of data protection as prescribed by applicable law. We do not sell your personal data to anyone.
+
+10\. PERSONAL DATA TRANSFER, STORAGE AND PROCESSING GLOBALLY
+------------------------------------------------------------
+
+We operate globally and may transfer your personal data to our affiliates or third parties in territories outside India for the purposes described in this Policy in accordance with applicable data protection laws, provided that no such restriction is notified by the Government/ appropriate authority.
+
+11\. HOW LONG DO WE KEEP YOUR PERSONAL DATA?
+--------------------------------------------
+
+We will retain your personal data which we have collected for as long as we reasonably consider it necessary for achieving the above mentioned purposes and as is permissible under applicable law. This is determined on a case-to-case basis.
+
+We will delete your personal data whenever you request us to do so. However, we may archive and/or retain your personal data for as long as there are statutory retention obligations or potential legal claims are not, yet time barred.
+
+12\. SAFEGUARDING THE PRIVACY OF CHILDREN
+-----------------------------------------
+
+We do not knowingly collect or solicit personal data from minors. Our products and/or services are not designed for any person who is under 18 years of age, and we do not knowingly permit such persons to register for products and/ or services or share data through any of the web forms without verifiable consent from minors’ parents or lawful guardians. Further, we do not undertake tracking or behavioral monitoring of children or targeted advertising directed at children.
+
+If we learn that we have collected personal data from a minor without verified parental consent, we will erase such personal data.
+
+If you believe that a child under 18 years may have provided us their personal data, please contact us on [dpo@nw18.com](mailto:dpo@nw18.com).
+
+13\. CONTACT INFORMATION
+------------------------
+
+If you have questions or comments regarding this Policy or want to exercise any of your rights or express your grievances regarding the processing of your personal data, please contact us using the contact details given below:
+
+Network18 Media and Investments Limited
+
+**Data Protection Officer  
+Apurv Narula  
+[dpo@nw18.com](mailto:dpo@nw18.com)  
+**
+
+If you are not satisfied with the resolution provided you may log your complaint with the Data Protection Board of India following the procedure prescribed by them.
+
+14\. CHANGES TO THIS PRIVACY POLICY
 -----------------------------------
 
-Network18 provides you with all information that Network18 maintains about you such as the transaction and contact information upon proper verification. This may be provided to you on request, in case you experience any doubts. You may request access and/or correct the information Network18 has collected from you by contacting Network18 at [dpo@nw18.com](mailto:dpo@nw18.com) . If you wish to have the information or data that you have provided to Network18 deleted, you can always do so by sending a request to us on the e-mail id. You may note that correction or deletion of certain information or data may lead to cancellation of your registration with the Application(s) or your access to certain features of the Application(s). You also agree and acknowledge that certain data or information cannot be corrected or deleted or prohibited to be deleted as required under any applicable law, law enforcement requests or under any judicial proceedings.
+We reserve the right to change this Policy at our sole discretion at any time. Any material changes to this Policy will be posted on this page. We encourage you to review this Policy regularly for such changes. The updated Privacy Policy will take effect as soon as it has been updated.
 
-If you have questions or concerns about this Policy, please contact Network18 at [dpo@nw18.com](mailto:dpo@nw18.com)
+This Policy was last updated as of 14th November 2024.
 
 [![short video](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/Impactshorts.svg?impolicy=website&amp;width=140&amp;height=50)](https://www.news18.com/short-news/)
 
