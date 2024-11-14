@@ -399,11 +399,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 
 ##### Latest
 
-1. [250+ Free Courses on Sustainable Development Goals](https://www.classcentral.com/report/sustainability-courses-free-certificate/)
-2. [Class Action: 50,000 Seek Payouts, Costing Coursera, Udemy Millions](https://www.classcentral.com/report/coursera-udemy-data-privacy-class-action/)
-3. [Black Friday 2024: Online Learning Deals](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
-4. [9 Best Adobe Premiere Pro Courses for 2024](https://www.classcentral.com/report/best-adobe-premiere-courses/)
-5. [7 Best Free Cell Biology Courses for 2024](https://www.classcentral.com/report/best-cell-biology-courses/)
+1. [10 Best Lean Six Sigma Courses for 2024](https://www.classcentral.com/report/best-lean-six-sigma-courses/)
+2. [8 Best WordPress Courses for 2024](https://www.classcentral.com/report/best-wordpress-courses/)
+3. [175 Online Classes to Help You Become a Better Parent](https://www.classcentral.com/report/parenting-online-courses/)
+4. [250+ Free Courses on Sustainable Development Goals](https://www.classcentral.com/report/sustainability-courses-free-certificate/)
+5. [Class Action: 50,000 Seek Payouts, Costing Coursera, Udemy Millions](https://www.classcentral.com/report/coursera-udemy-data-privacy-class-action/)
 
 [Visit _The Report_](https://www.classcentral.com/report/)
 
@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. digital marketing
+1. harvard
     
-2. java
+2. graphic design
     
-3. psychology
+3. French
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Python
     
-    42,706 courses](https://www.classcentral.com/subject/cs)
-2. [Artificial Intelligence
+    9,838 courses](https://www.classcentral.com/subject/python)
+2. [Computer Science
     
-    13,599 courses](https://www.classcentral.com/subject/ai)
-3. [ChatGPT
+    42,744 courses](https://www.classcentral.com/subject/cs)
+3. [Psychology
     
-    1,093 courses](https://www.classcentral.com/subject/chatgpt)
+    2,664 courses](https://www.classcentral.com/subject/psychology)
 
 Popular courses
 ---------------
 
-1. [The Art of Structural Engineering: Vaults
+1. [The Analytics Edge
     
-    Princeton University](https://www.classcentral.com/course/structural-engineering-princeton-university-the-a-12040)
-2. [Working with Translation: Theory and Practice
+    Massachusetts Institute of Technology](https://www.classcentral.com/course/analytics-massachusetts-institute-of-technology-t-1623)
+2. [Rome: A Virtual Tour of the Ancient City
     
-    Cardiff University](https://www.classcentral.com/course/working-with-translation-6981)
-3. [Inglés básico: conversacional y networking
+    University of Reading](https://www.classcentral.com/course/rome-7801)
+3. [Managing Conflicts on Projects with Cultural and Emotional Intelligence
     
-    Universidad Anáhuac](https://www.classcentral.com/course/english-universidades-anahuac-ingles-basico-conve-19170)
+    University System of Maryland](https://www.classcentral.com/course/conflict-resolution-the-university-of-maryland-co-19747)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
