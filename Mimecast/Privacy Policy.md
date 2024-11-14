@@ -47,11 +47,13 @@
         
         We're always mindful of having a positive impact](https://www.mimecast.com/company/corporate-social-responsibility/)
     
-    ![newCFO.png](https://assets.mimecast.com/api/public/content/682272e31e2c49f2824e8f36f05c9aa3?v=2270add9)
+    ![icon_WCircle_BECDefense.png](https://assets.mimecast.com/api/public/content/377d96a9f5cf46cabad85240ef655766?v=aa5a15b4)
     
-    Mimecast Announces Acquisition of Code42
+    Advanced BEC Protection
     
-    [Learn More](https://www.mimecast.com/resources/press-releases/mimecast-announces-acquisition-of-code42/)
+    Block threats and gain visibility into your most targeted users
+    
+    [Learn more](https://www.mimecast.com/solutions/advanced-bec-protection/)
     
 * Our Platform
     
