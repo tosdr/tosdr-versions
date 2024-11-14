@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/1b09e217-2a64-43ff-bc41-275269abdb17/20241114T061402/1b09e217-2a64-43ff-bc41-275269abdb17_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1b09e217-2a64-43ff-bc41-275269abdb17/20241114T061402/1b09e217-2a64-43ff-bc41-275269abdb17_360x203.jpg)](https://www.king5.com/article/news/local/bpd-officer-suffered-critical-injuries-fall-i-5-on-ramp-sues-state-negligence/281-8bd22631-7c09-4dc2-b7f7-ce999ed98e27)
+        
+        #### [BPD officer who suffered critical injuries after fall from I-5 on-ramp sues state for negligence](https://www.king5.com/article/news/local/bpd-officer-suffered-critical-injuries-fall-i-5-on-ramp-sues-state-negligence/281-8bd22631-7c09-4dc2-b7f7-ce999ed98e27)
+        
     *  [![](https://media.king5.com/assets/KING/images/eb6f8270-1df3-462e-94fa-4ecf4027084d/20241114T071857/eb6f8270-1df3-462e-94fa-4ecf4027084d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eb6f8270-1df3-462e-94fa-4ecf4027084d/20241114T071857/eb6f8270-1df3-462e-94fa-4ecf4027084d_360x203.jpg)](https://www.king5.com/article/money/home-developers-flocking-to-marysville-but-expert-says-prices-staying-high/281-f7c7b783-c1db-450b-8c6f-69b31ddff829)
         
         #### [Home developers are flocking to Marysville, but an expert says prices are staying high](https://www.king5.com/article/money/home-developers-flocking-to-marysville-but-expert-says-prices-staying-high/281-f7c7b783-c1db-450b-8c6f-69b31ddff829)
-        
-    *  [![](https://media.king5.com/assets/KING/images/8c4e0314-36ed-4467-848b-8cd8b3c728bc/20241114T062616/8c4e0314-36ed-4467-848b-8cd8b3c728bc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8c4e0314-36ed-4467-848b-8cd8b3c728bc/20241114T062616/8c4e0314-36ed-4467-848b-8cd8b3c728bc_360x203.jpg)](https://www.king5.com/article/news/education/seattle-school-board-president-recall-effort/281-9716a7bb-e8ca-4fc2-9c49-ffdfe78cce1e)
-        
-        #### [SPS board president pushing back after group of parents file petition to recall](https://www.king5.com/article/news/education/seattle-school-board-president-recall-effort/281-9716a7bb-e8ca-4fc2-9c49-ffdfe78cce1e)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/be150937-c6b3-4e6c-b69f-15ea50c295d5/20241114T015225/be150937-c6b3-4e6c-b69f-15ea50c295d5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/be150937-c6b3-4e6c-b69f-15ea50c295d5/20241114T015225/be150937-c6b3-4e6c-b69f-15ea50c295d5_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/60a16761-642f-4ce6-9a87-f83903a91eb0/20241114T131240/60a16761-642f-4ce6-9a87-f83903a91eb0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/60a16761-642f-4ce6-9a87-f83903a91eb0/20241114T131240/60a16761-642f-4ce6-9a87-f83903a91eb0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
