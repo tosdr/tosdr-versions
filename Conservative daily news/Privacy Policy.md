@@ -2,14 +2,14 @@ Thursday, November 14 2024
 
 Breaking News
 
-* [President Joe Biden’s Schedule for Wednesday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
+* [Special Counsel Jack Smith Moves To Freeze Trump’s Florida Case Proceedings](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
+* [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
+* [After $1 Billion Failed To Stop Trump, Lib Donors Balk At Funding ‘Resistance’](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
+* [President Joe Biden’s Schedule for Thursday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
 * [Fareed Zakaria’s Criticism Far Too Kind to the Biden-Harris Wrecking Machine](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
 * [America In The Age Of Stupidity: Dems Freakout And Ignore The Real Reason They Lost](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
 * [Nobody Will Be Taking A Knee On This Dream Team](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
 * [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
-* [President Joe Biden’s Schedule for Wednesday, November 13, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-13-2024/)
-* [It’s Morning In America Again](https://www.conservativedailynews.com/2024/11/its-morning-in-america-again/)
-* [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,57 +130,58 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/jack-Smith-220x150.jpg)](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
     
-    [President Joe Biden’s Schedule for Wednesday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
+    [Special Counsel Jack Smith Moves To Freeze Trump’s Florida Case Proceedings](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
     
     November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/11/Ben-Shapiro-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Pete-Hegseth-Fox-News-Modern-Warrior-veterans-day-special.jpg)](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
     
-    [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/)
+    [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
     
-    November 13, 2024
+    November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/Kamala-Harris.jpg)](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
     
-    [Fareed Zakaria’s Criticism Far Too Kind to the Biden-Harris Wrecking Machine](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
+    [After $1 Billion Failed To Stop Trump, Lib Donors Balk At Funding ‘Resistance’](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
     
-    November 13, 2024
+    November 14, 2024
     
-* [![Donald Trump department of government efficiency DOGE Elon Musk Vivek Ramaswamy](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-doge-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/cleaning-house-2/)
+* [![Kamala loser begging money](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/reap-what-you-sow/)
     
-    [Cleaning House](https://www.conservativedailynews.com/2024/11/cleaning-house-2/)
+    [Reap What You Sow…](https://www.conservativedailynews.com/2024/11/reap-what-you-sow/)
     
-    November 13, 2024
+    November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Dems-Lose-It-220x150.jpg)](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/Thinking-woman.jpg)](https://www.conservativedailynews.com/2024/11/sandwiched-between-aging-parents-and-adult-children/)
     
-    [America In The Age Of Stupidity: Dems Freakout And Ignore The Real Reason They Lost](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
+    [Sandwiched Between Aging Parents and Adult Children](https://www.conservativedailynews.com/2024/11/sandwiched-between-aging-parents-and-adult-children/)
     
-    November 13, 2024
+    November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/unity/)
+* [![Joe Biden leaving lone rider done](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/lone-rider/)
     
-    [Unity…](https://www.conservativedailynews.com/2024/11/unity/)
+    [Lone Rider](https://www.conservativedailynews.com/2024/11/lone-rider/)
     
-    November 13, 2024
+    November 14, 2024
     
-* [![Sonya Sotomayor retire](https://www.conservativedailynews.com/wp-content/uploads/2024/11/mrz111324dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/when-push-comes-to-shove/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/)
     
-    [When Push Comes to Shove](https://www.conservativedailynews.com/2024/11/when-push-comes-to-shove/)
+    [Hey, Democrats — It’s Your Policies](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/)
     
-    November 13, 2024
+    November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5770-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
     
-    [Nobody Will Be Taking A Knee On This Dream Team](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
+    [President Joe Biden’s Schedule for Thursday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
     
-    November 13, 2024
+    November 14, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Software Development Goes Full Brown Shirt On 3D Printing](https://www.thegunpage.com/software-development-goes-full-brown-shirt-on-3d-printing/10611865)
 * [Litzie Leads Way For Team USA At 2024 IPSC Rifle World Shoot In Finland](https://www.thegunpage.com/litzie-leads-way-for-team-usa-at-2024-ipsc-rifle-world-shoot-in-finland/10611864)
 * [Wheelgun Wednesday: Smith & Wesson Model 20 .357 Magnum](https://www.thegunpage.com/wheelgun-wednesday-smith-wesson-model-20-357-magnum/10611863)
 * [The Best 1911 Chambered in .45 ACP](https://www.thegunpage.com/the-best-1911-chambered-in-45-acp/10611860)
@@ -189,7 +190,6 @@ Recent Posts
 * [C&H Precision Slide Milling Service & Duty Optic Review](https://www.thegunpage.com/ch-precision-slide-milling-service-duty-optic-review/10611856)
 * [Nosler M21 Carbon Limited Edition Rifle](https://www.thegunpage.com/nosler-m21-carbon-limited-edition-rifle/10611854)
 * [Nocpix ACE – New Flagship Thermal Rifle Scope Line](https://www.thegunpage.com/nocpix-ace-new-flagship-thermal-rifle-scope-line/10611855)
-* [Maine Gun Safety Coalition Collects Signatures For New Red Flag Law](https://www.thegunpage.com/maine-gun-safety-coalition-collects-signatures-for-new-red-flag-law/10611852)
 * [Trump’s To-Do List: How He Can Restore Justice in His First Days](https://www.thegunpage.com/trumps-to-do-list-how-he-can-restore-justice-in-his-first-days/10611850)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
