@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/olga-jancic/skulpture/ostali-radovi/plod1.jpg?itok=3PavwP8j)](http://seecult.org/galerija/galerija-umetnika/olga-jancic/skulpture/ostali-radovi)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put/haos-007.jpg?itok=hMLNin8E)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nadrealisti-andrebreton.jpg?itok=DO6yoWVL)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/arhangel/risto-vrtev_0.jpg?itok=2vyulYma)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/arhangel)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +444,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Minut ćutanja za 14 žrtava](http://seecult.org/vest/minut-cutanja-za-14-zrtava)
+* [Nihad Nino Pušija - U potrazi za Eldoradom](http://seecult.org/vest/nihad-nino-pusija-u-potrazi-za-eldoradom)
 * [Mladi autori i velikani na 30. FAF-u](http://seecult.org/vest/mladi-autori-i-velikani-na-30-faf-u)
 * [Finale takmičenja Andrija Čikić](http://seecult.org/vest/finale-takmicenja-andrija-cikic)
 * [Ukrajina – ljubav + rat, 2014-2024](http://seecult.org/vest/ukrajina-ljubav-rat-2014-2024)
@@ -452,8 +454,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Live Soundtrack - deset godina](http://seecult.org/vest/live-soundtrack-deset-godina)
 * [Karavan igre - podrška mladim igračima](http://seecult.org/vest/karavan-igre-podrska-mladim-igracima)
 * [Dragani Mladenović uručena nagrada Milica Stojadinović Srpkinja](http://seecult.org/vest/dragani-mladenovic-urucena-nagrada-milica-stojadinovic-srpkinja)
-* [20 godina Foruma slovenskih kultura](http://seecult.org/vest/20-godina-foruma-slovenskih-kultura)
-* [Pobednici 20. Slobodne zone](http://seecult.org/vest/pobednici-20-slobodne-zone)
 
 * [Konkursi](#tab1_1)
 
