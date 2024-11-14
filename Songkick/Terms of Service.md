@@ -3,6 +3,8 @@
         
         [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city) [Jersey City concerts](https://www.songkick.com/metro-areas/4690-us-jersey-city "Jersey City concerts")
         
+        *  [![My Chemical Romance Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) My Chemical Romance  
+            MetLife Stadium](https://www.songkick.com/concerts/42271604-my-chemical-romance-at-metlife-stadium)
         *  [![The Feelies Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) The Feelies  
             White Eagle Hall](https://www.songkick.com/concerts/42237962-feelies-at-white-eagle-hall)
         
