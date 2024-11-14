@@ -387,7 +387,7 @@ Solutions
 
 Resources
 
-[Riverside University](https://riverside.fm/university)[Recorded on Riverside](https://riverside.fm/recorded-on-riverside)[Help Center](https://support.riverside.fm/hc/en-us)[Case Studies](https://riverside.fm/case-studies)[Webinar Hub](https://riverside.fm/webinars)[Partners](https://riverside.fm/partners)[Blog](https://riverside.fm/blog)[Product Videos](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](https://www.comeet.com/jobs/riverside-fm/66.009)[Masterclass](https://riverside.fm/masterclass/master-the-art-of-podcasting)[Community Hub](https://riverside.fm/community)
+[Video Editing Glossary](https://riverside.fm/video-editor/video-editing-glossary)[Riverside University](https://riverside.fm/university)[Recorded on Riverside](https://riverside.fm/recorded-on-riverside)[Help Center](https://support.riverside.fm/hc/en-us)[Case Studies](https://riverside.fm/case-studies)[Webinar Hub](https://riverside.fm/webinars)[Partners](https://riverside.fm/partners)[Blog](https://riverside.fm/blog)[Product Videos](https://www.comeet.com/jobs/riverside-fm/66.009)[Press](https://www.comeet.com/jobs/riverside-fm/66.009)[Masterclass](https://riverside.fm/masterclass/master-the-art-of-podcasting)[Community Hub](https://riverside.fm/community)
 
 [![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61e588e0c1469fc45c4e0214_apple-ios-icon.svg)](https://apps.apple.com/us/app/riverside-fm/id1554443872)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61e11c17aacd34d67314788e_google-play-footer-logo.svg)](https://play.google.com/store/apps/details?id=riverside.fm)![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61682b8a6b01383d78c950f5_aicpa-green.png)
 
@@ -407,7 +407,7 @@ Podcast guides
 
 [![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/609725838ff1a763bfd85caf_facebook.svg)](https://www.facebook.com/riversidedotfm)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/609725834e779c6e4cb744ac_youtube.svg)](https://www.youtube.com/channel/UCOaG4tMpmIQaLXYe063SZlw?sub_confirmation=1)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/653a3b14186416d039615deb_Twitter.svg)](https://twitter.com/riversidedotfm)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/609725839f604142891bf1e6_linkedin.svg)](https://www.linkedin.com/company/riverside-fm/)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61fbf33192d8c3487faf79b5_Instagram.svg)](https://www.instagram.com/riverside.fm/)[![](https://cdn.prod.website-files.com/5f996b22b00afe35a55e6f79/61fbf2eaab7f997e7547bc9a_Tiktok.svg)](https://www.tiktok.com/@riverside.fm)
 
-© 2023 RiversideFM, Inc.
+© 2024 RiversideFM, Inc.
 
 [Terms](https://riverside.fm/terms-conditions)[Privacy](https://riverside.fm/privacy-policy)[Cookies](https://riverside.fm/cookies)
 
