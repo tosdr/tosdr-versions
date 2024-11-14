@@ -139,6 +139,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
+[Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
+
+  [![Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.")](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
+
 [Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
 
   [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
@@ -146,10 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
-
-[35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
-
-  [![People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433711.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
 Editors' Picks
 --------------
@@ -168,6 +168,14 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
   [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
 
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.")](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
+
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
@@ -183,14 +191,6 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
-
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[35 killed, dozens wounded in south China car ramming: police](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
-
-By [Isabel Kua](https://www.japantimes.co.jp/author/4982/isabel-kua/ "Isabel Kua") and [Michael ZHANG](https://www.japantimes.co.jp/author/6178/michael-zhang/ "Michael ZHANG")  
-
-  [![People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433711.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "People burn incense near floral tributes placed outside a sports center where a deadly hit-and-run attack took place in Zhuhai, Guangdong province, China, on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/12/asia-pacific/crime-legal/south-china-car-ramming/ "35 killed, dozens wounded in south China car ramming: police")
 
 Podcast
 -------
@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[New minister promises ample budget for disaster resilience](https://www.japantimes.co.jp/news/2024/11/14/japan/japan-land-minister-interview/ "New minister promises ample budget for disaster resilience")
+[Ishiba Cabinet approval inches up to 28.7%, poll shows](https://www.japantimes.co.jp/news/2024/11/14/japan/ishiba-cabinet-approval-november/ "Ishiba Cabinet approval inches up to 28.7%, poll shows")
 
-20 mins ago
+1 hours ago
 
-[‘Call anytime you want’: Trump roils G20 with disdain for rules](https://www.japantimes.co.jp/news/2024/11/14/world/politics/trump-g20-disdain-rules/ "‘Call anytime you want’: Trump roils G20 with disdain for rules")
+[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
 
-32 mins ago
+1 hours ago
 
-[47-year-old man arrested over Chiba hotel murder-robbery](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/japan-hotel-murder-arrest/ "47-year-old man arrested over Chiba hotel murder-robbery")
+[Japan government to adopt Musk's reform methods, minister says](https://www.japantimes.co.jp/news/2024/11/14/japan/politics/reform-minister-adoption-musk-methods/ "Japan government to adopt Musk's reform methods, minister says")
 
-39 mins ago
+1 hours ago
 
-[How will Musk's new U.S. government efficiency panel work?](https://www.japantimes.co.jp/news/2024/11/14/world/politics/musk-us-government-efficiency/ "How will Musk's new U.S. government efficiency panel work?")
+[Japan eyes extraordinary session of parliament from Nov. 28](https://www.japantimes.co.jp/news/2024/11/14/japan/politics/japan-extraordinary-diet-date-plan/ "Japan eyes extraordinary session of parliament from Nov. 28")
 
-2 hours ago
+1 hours ago
 
-[Ukraine allies to push China on Russia-North Korea ties at G20](https://www.japantimes.co.jp/news/2024/11/14/world/politics/ukraine-china-russia-north-korea-g20/ "Ukraine allies to push China on Russia-North Korea ties at G20")
+[Mizuho raises profit forecast and announces share buyback](https://www.japantimes.co.jp/business/2024/11/14/companies/mizuho-profit-forecast-raise/ "Mizuho raises profit forecast and announces share buyback")
 
 2 hours ago
 
