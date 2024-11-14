@@ -232,7 +232,7 @@ this week
 
 [Brain Tumor](https://www.sciencedaily.com/news/health_medicine/brain_tumor/)
 
-[Medical Education and Training](https://www.sciencedaily.com/news/health_medicine/medical_education_and_training/)
+[Breast Cancer](https://www.sciencedaily.com/news/health_medicine/breast_cancer/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
