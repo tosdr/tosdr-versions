@@ -16,7 +16,7 @@
 * [Pro](https://www.comedy.co.uk/pro/)
 * [More](https://www.comedy.co.uk/overview/)
 
-* Search
+* [Search](https://www.comedy.co.uk/search/ "Search")
 
 × Close menu
 
@@ -195,10 +195,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 #### Subscribe to our newsletters
 
  Go
-
-Do not sell my info
-
-Privacy settings
 
 * [TV](https://www.comedy.co.uk/tv/)
 * [Radio](https://www.comedy.co.uk/radio/)
