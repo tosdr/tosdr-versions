@@ -315,39 +315,7 @@ EUR
     With your creative flair and our perfected process, you can create your very own custom notebook within two business days.](https://www.jukeboxprint.com/saddle-stitched-booklets)
     
 * [Quote Request](https://www.jukeboxprint.com/quote)
-* [Resources](#)
-* * [Sticker Maker](https://www.jukeboxprint.com/creator/custom-sticker-maker)
-    * [Sticker Sheets Maker](https://www.jukeboxprint.com/creator/custom-sticker-sheet-maker)
-    * [Decal Maker](https://www.jukeboxprint.com/creator/custom-decal-sticker-maker)
-    * [Business Card Maker](https://www.jukeboxprint.com/creator/business-card-maker)
-    * [Wrapping Paper Maker](https://www.jukeboxprint.com/creator/custom-wrapping-paper-maker)
-    * [Coaster Maker](https://www.jukeboxprint.com/creator/custom-coaster-maker)
-    * [Tissue Maker](https://www.jukeboxprint.com/creator/custom-tissue-maker)
-    * [Gift Certificates](https://www.jukeboxprint.com/creator/gift-certificate-maker)
-    * [Letterhead](https://www.jukeboxprint.com/creator/letterhead-maker)
-    * [Wedding Invitation](https://www.jukeboxprint.com/creator/wedding-invitation-maker)
-    * [Notepad](https://www.jukeboxprint.com/creator/notepad-maker)
-    * [Flyer](https://www.jukeboxprint.com/creator/flyer-maker)
-    * [Greeting Card](https://www.jukeboxprint.com/creator/greeting-card-maker)
-    * [Hang Tag](https://www.jukeboxprint.com/creator/hang-tag-maker)
-    * [Luggage Tag](https://www.jukeboxprint.com/creator/luggage-tag-maker)
-    * [Perfect Bind Booklet](https://www.jukeboxprint.com/creator/perfect-bound-booklet-maker)
-    * [Brochure](https://www.jukeboxprint.com/creator/brochure-maker)
-    * [Poster](https://www.jukeboxprint.com/creator/poster-maker)
-    * [Unique Shape](https://www.jukeboxprint.com/creator/free-online-design-tool)
-    * [Gift Card Holder](https://www.jukeboxprint.com/creator/gift-card-holder-maker)
-    * [Shipping Calculator](https://www.jukeboxprint.com/shipping/calculator)
-    * [Re-Order](https://www.jukeboxprint.com/customer/orders/history)
-    * [Quote Request](https://www.jukeboxprint.com/quote)
-    * [Sample Packs](https://www.jukeboxprint.com/samples)
-    * [Contact Us](https://www.jukeboxprint.com/contact)
-    * [About Us](https://www.jukeboxprint.com/about-us)
-    * [Careers](https://www.jukeboxprint.com/job-postings)
-    
-    [#### Create your Business Cards Online!
-    
-    Our tool makes it easy for you upload your own design instantly](https://www.jukeboxprint.com/creator/business-card-maker)
-    
+* [Order Sample Pack](https://www.jukeboxprint.com/samples)
 * We're here to help:[888-667-0067](tel:888-667-0067)
     
 
