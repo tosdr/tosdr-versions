@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put/haos-007.jpg?itok=hMLNin8E)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/sve-ovo-vidim-prvi-put)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum/sunce.jpg?itok=CiQBc1fR)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/arhangel/risto-vrtev_0.jpg?itok=2vyulYma)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/arhangel)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/novih-7-svetskih-cuda/koloseum-rim.jpg?itok=VyP0gfel)](http://seecult.org/galerija/foto-galerija/foto-arhiva/novih-7-svetskih-cuda)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
