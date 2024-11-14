@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Producer Price Index Signals Persistent Inflationary Pressures Throughout US Economy](https://www.theepochtimes.com/us/producer-price-index-signals-persistent-inflationary-pressures-throughout-us-economy-5759641)
+    
+    1hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    
+    [![Producer Price Index Signals Persistent Inflationary Pressures Throughout US Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Producer Price Index Signals Persistent Inflationary Pressures Throughout US Economy](https://img.theepochtimes.com/assets/uploads/2024/10/12/id5740270-inflation-GettyImages-2166171191-205x123.jpg.webp)](https://www.theepochtimes.com/us/producer-price-index-signals-persistent-inflationary-pressures-throughout-us-economy-5759641)
+* [How Trump Could Transform Indo–Pacific Policy](https://www.theepochtimes.com/us/how-trump-could-transform-indo-pacific-policy-5757962)
+    
+    2hr By [Andrew Thornebrooke](https://www.theepochtimes.com/author/andrew-thornebrooke)
+    
+    [![How Trump Could Transform Indo–Pacific Policy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How Trump Could Transform Indo–Pacific Policy](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746096-GettyImages-1455723642-205x123.jpg.webp)](https://www.theepochtimes.com/us/how-trump-could-transform-indo-pacific-policy-5757962)
+* [Democratic Governors Create Coalition to Push Back Against Trump Policies](https://www.theepochtimes.com/us/governors-form-alliance-to-protect-state-level-institutions-of-democracy-after-trump-win-5759582)
+    
+    3hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![Democratic Governors Create Coalition to Push Back Against Trump Policies](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Democratic Governors Create Coalition to Push Back Against Trump Policies](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759590-FotoJet-205x123.jpg.webp)](https://www.theepochtimes.com/us/governors-form-alliance-to-protect-state-level-institutions-of-democracy-after-trump-win-5759582)
+* [US Ambassador Accuses Mexican Government of Refusing Help in Fighting Drugs Cartels](https://www.theepochtimes.com/world/us-ambassador-accuses-mexican-government-of-refusing-help-in-fighting-drugs-cartels-5759584)
+    
+    5hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![US Ambassador Accuses Mexican Government of Refusing Help in Fighting Drugs Cartels](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Ambassador Accuses Mexican Government of Refusing Help in Fighting Drugs Cartels](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759583-AP24318845583030-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-ambassador-accuses-mexican-government-of-refusing-help-in-fighting-drugs-cartels-5759584)
+* [Why Blue Border Counties Flipped for Trump](https://www.theepochtimes.com/us/why-blue-border-counties-flipped-for-trump-5759197)
+    
+    6hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    
+    [![Why Blue Border Counties Flipped for Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Why Blue Border Counties Flipped for Trump](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759221-RGV_3Hidalgo-205x123.jpg.webp)](https://www.theepochtimes.com/us/why-blue-border-counties-flipped-for-trump-5759197)
+* [‘SNL’ Actor Recalls How Amy Adams Refused Raunchy Duet to Protect Young Fans](https://www.theepochtimes.com/entertainment/snl-actor-recalls-how-amy-adams-refused-raunchy-duet-to-protect-young-fans-5759277)
+    
+    7hr By [Juliette Fairley](https://www.theepochtimes.com/author/juliette-fairley)
+    
+    [![‘SNL’ Actor Recalls How Amy Adams Refused Raunchy Duet to Protect Young Fans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![‘SNL’ Actor Recalls How Amy Adams Refused Raunchy Duet to Protect Young Fans](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759370-GettyImages-1082127088-e1731538101408-205x123.jpeg.webp)](https://www.theepochtimes.com/entertainment/snl-actor-recalls-how-amy-adams-refused-raunchy-duet-to-protect-young-fans-5759277)
 * [Republicans Win Trifecta Control of Government–What Happens Now?](https://www.theepochtimes.com/us/republicans-win-trifecta-control-of-government-what-happens-now-5758240)
     
-    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    12hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Republicans Win Trifecta Control of Government–What Happens Now?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Republicans Win Trifecta Control of Government–What Happens Now?](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758408-11122024-DSC08942-speaker-mike-johnson-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-win-trifecta-control-of-government-what-happens-now-5758240)
 * [Republicans Retain House Majority, Completing Trifecta](https://www.theepochtimes.com/us/republicans-retain-house-majority-completing-trifecta-5759194)
     
-    6hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    13hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![Republicans Retain House Majority, Completing Trifecta](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Republicans Retain House Majority, Completing Trifecta](https://img.theepochtimes.com/assets/uploads/2024/10/23/id5746849-10232024-DSC06701-US-Capitol-building-205x123.jpg.webp)](https://www.theepochtimes.com/us/republicans-retain-house-majority-completing-trifecta-5759194)
 * [E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://www.theepochtimes.com/us/e-coli-outbreak-tied-to-mcdonalds-expands-to-14-states-104-infected-5759399)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![E. Coli Outbreak Tied to McDonald’s Expands to 14 States, 104 Infected](https://img.theepochtimes.com/assets/uploads/2024/10/25/id5747749-MCDONALDS-CORP-ECOLI-CUSTOMERS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/e-coli-outbreak-tied-to-mcdonalds-expands-to-14-states-104-infected-5759399)
 * [5 Things to Know About John Thune, the Next Senate Majority Leader](https://www.theepochtimes.com/article/5-things-to-know-about-john-thune-the-next-senate-majority-leader-5759077)
     
-    8hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    15hr By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman) and [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![5 Things to Know About John Thune, the Next Senate Majority Leader](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![5 Things to Know About John Thune, the Next Senate Majority Leader](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759254-EpochImages-7620547898-xl-205x123.jpg.webp)](https://www.theepochtimes.com/article/5-things-to-know-about-john-thune-the-next-senate-majority-leader-5759077)
-* [Here’s Who Is on Senate GOP Leadership Team](https://www.theepochtimes.com/us/heres-who-is-on-senate-gop-leadership-team-5759106)
-    
-    8hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Here’s Who Is on Senate GOP Leadership Team](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Here’s Who Is on Senate GOP Leadership Team](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759243-11132024-DSC09492-John-Thune-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-who-is-on-senate-gop-leadership-team-5759106)
-* [5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://www.theepochtimes.com/us/5-things-to-know-about-pete-hegseth-trumps-choice-for-secretary-of-defense-5759107)
-    
-    9hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Things to Know About Pete Hegseth, Trump’s Choice for Secretary of Defense](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5758754-GettyImages-626419832KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-things-to-know-about-pete-hegseth-trumps-choice-for-secretary-of-defense-5759107)
-* [Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://www.theepochtimes.com/us/johnson-says-gaetz-has-resigned-from-congress-after-ag-nomination-5759418)
-    
-    9hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord), [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh) and [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Johnson Says Gaetz Has Resigned From Congress After AG Nomination](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759286-GettyImages-1744932118-sb-205x123.jpg.webp)](https://www.theepochtimes.com/us/johnson-says-gaetz-has-resigned-from-congress-after-ag-nomination-5759418)
-* [GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://www.theepochtimes.com/business/gm-recalls-460000-vehicles-for-rear-wheel-lock-up-risk-5759400)
-    
-    10hr By [Mary Man](https://www.theepochtimes.com/author/mary-man)
-    
-    [![GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![GM Recalls 460,000 Vehicles for Rear Wheel Lock-Up Risk](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759421-GM-logo-205x123.jpg.webp)](https://www.theepochtimes.com/business/gm-recalls-460000-vehicles-for-rear-wheel-lock-up-risk-5759400)
-* [Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://www.theepochtimes.com/health/study-finds-link-between-hallucinogen-related-er-visits-and-increased-schizophrenia-risk-5759066)
-    
-    10hr By [Cara Michelle Miller](https://www.theepochtimes.com/author/cara-michelle-miller)
-    
-    [![Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Study Finds Link Between Hallucinogen-Related ER Visits and Increased Schizophrenia Risk](https://img.theepochtimes.com/assets/uploads/2023/10/13/id5509806-GettyImages-1230122221-205x123.jpg.webp)](https://www.theepochtimes.com/health/study-finds-link-between-hallucinogen-related-er-visits-and-increased-schizophrenia-risk-5759066)
-* [Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://www.theepochtimes.com/us/judge-says-prosecutor-failed-to-prove-musks-1-million-voter-sweepstakes-was-illegal-lottery-5759101)
-    
-    10hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Says Prosecutor Failed to Prove Musk’s $1 Million Voter Sweepstakes Was Illegal Lottery](https://img.theepochtimes.com/assets/uploads/2024/11/05/id5754139-Elon-Musk-GettyImages-2180776933-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-says-prosecutor-failed-to-prove-musks-1-million-voter-sweepstakes-was-illegal-lottery-5759101)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
