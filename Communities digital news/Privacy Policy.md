@@ -26,25 +26,21 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183892170-1200x630.jpg)](https://americanwirenews.com/trump-makes-triumphant-return-to-dc-meets-with-a-happy-joe-biden-in-oval-office-politics-is-tough/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetzrnc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/senate-republican-vows-gaetz-will-never-get-confirmed-as-uniparty-circles-the-wagons/)
 
-(Getty Images)
+[Senate Republican vows Gaetz ‘will never get confirmed’ as uniparty circles the wagons](https://americanwirenews.com/senate-republican-vows-gaetz-will-never-get-confirmed-as-uniparty-circles-the-wagons/)
 
-[Trump makes triumphant return to DC, meets with a ‘happy’ Joe Biden in Oval Office: ‘Politics is tough’](https://americanwirenews.com/trump-makes-triumphant-return-to-dc-meets-with-a-happy-joe-biden-in-oval-office-politics-is-tough/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joebsmiley-pxbay-rig-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-steele-sg-cpd-1200x630.jpg)](https://americanwirenews.com/first-term-chicago-dem-charged-with-dui-after-crash-mocks-arresting-officers-penis-size/)
+[Biden regime imposes new tax on the way out the door](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
 
-Image via Cook County Board of Review
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-indiegogo-fundraiser-corey-burke-and-samantha-leigh-allen-1200x630.jpg)](https://americanwirenews.com/wife-of-prominent-trans-author-hacks-father-to-death-with-ice-axe-in-breakdown-over-trump-win/)
 
-[First-term Chicago Dem charged with DUI after crash ‘mocks’ arresting officer’s penis size](https://americanwirenews.com/first-term-chicago-dem-charged-with-dui-after-crash-mocks-arresting-officers-penis-size/)
+[Wife of prominent trans author hacks father to death with ice axe in breakdown over Trump win](https://americanwirenews.com/wife-of-prominent-trans-author-hacks-father-to-death-with-ice-axe-in-breakdown-over-trump-win/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bannon-1200x630.jpg)](https://americanwirenews.com/bannon-has-blistering-message-for-pelosi-ag-james-ahead-of-pre-trial-hearing-in-nyc/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schiff-gaetz-1200x630.jpg)](https://americanwirenews.com/musk-warns-schiff-that-the-hammer-of-justice-is-coming/)
 
-[Bannon has blistering message for Pelosi, AG James ahead of pre-trial hearing in NYC](https://americanwirenews.com/bannon-has-blistering-message-for-pelosi-ag-james-ahead-of-pre-trial-hearing-in-nyc/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogan-harris-1200x630.jpg)](https://americanwirenews.com/joe-rogan-reveals-one-condition-high-on-the-list-for-kamala-during-interview-talks/)
-
-[Joe Rogan reveals one condition ‘high’ on the list for Kamala during interview talks](https://americanwirenews.com/joe-rogan-reveals-one-condition-high-on-the-list-for-kamala-during-interview-talks/)
+[Musk warns Schiff that ‘the hammer of justice is coming’](https://americanwirenews.com/musk-warns-schiff-that-the-hammer-of-justice-is-coming/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lemon-x-1200x630.jpg)](https://americanwirenews.com/don-lemon-announces-departure-from-x-his-reason-will-leave-you-in-stitches/)
 
@@ -62,11 +58,9 @@ Image via Cook County Board of Review
 
 [Jayapal loses her enthusiasm to nuke filibuster after GOP wins control of Senate](https://americanwirenews.com/jayapal-loses-her-enthusiasm-to-nuke-filibuster-after-gop-wins-control-of-senate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183581288-1-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-viewbidendebate1-1200-x-628-1200x630.jpg)
 
-(Photo by ANDREW CABALLERO-REYNOLDS / AFP)
-
-### Awkward tension between Harris, Jill Biden has X buzzing: ‘Too many cats in the litter box’](https://americanwirenews.com/awkward-tension-between-harris-jill-biden-has-x-buzzing-too-many-cats-in-the-litter-box/)
+### Big changes could be coming to ‘The View’ with ABC bosses in ‘panic mode’ after Trump win](https://americanwirenews.com/big-changes-could-be-coming-to-the-view-with-abc-bosses-in-panic-mode-after-trump-win/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
