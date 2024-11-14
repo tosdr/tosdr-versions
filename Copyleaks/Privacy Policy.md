@@ -220,8 +220,8 @@ Our assigned Data Protection Officer is Alon Yamin.
 Any notifications of claimed copyright infringement must be sent to our Data Protection Officer:  
 Alon Yamin  
 Copyleaks Inc  
-700 Canal St,  
-Stamford CT, 06902  
+115 East 23rd St, 7th floor  
+New York, NY 10010  
 Email: [\[email protected\]](https://copyleaks.com/cdn-cgi/l/email-protection)
 
 Table of Contents
