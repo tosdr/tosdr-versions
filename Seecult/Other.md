@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/olga-jancic/skulpture/untitled/skulptura-001.jpg?itok=e9-B-tnh)](http://seecult.org/galerija/galerija-umetnika/olga-jancic/skulpture/untitled)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/crtez-011.jpg?itok=pP3t5zr5)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/exit-09/arctic-monkeys.jpg?itok=Ipd75mtV)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/exit-09)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bambi-molesters.jpg?itok=a3CdSSQt)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +444,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Eksperimentisanje tradicijom](http://seecult.org/vest/eksperimentisanje-tradicijom)
+* [Jubilarni, 10. Festival nezavisnog američkog filma](http://seecult.org/vest/jubilarni-10-festival-nezavisnog-americkog-filma)
 * [Minut ćutanja za 14 žrtava](http://seecult.org/vest/minut-cutanja-za-14-zrtava)
 * [Nihad Nino Pušija - U potrazi za Eldoradom](http://seecult.org/vest/nihad-nino-pusija-u-potrazi-za-eldoradom)
 * [Mladi autori i velikani na 30. FAF-u](http://seecult.org/vest/mladi-autori-i-velikani-na-30-faf-u)
@@ -452,8 +454,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Ćutanje je zlato](http://seecult.org/vest/cutanje-je-zlato-0)
 * [Big Bend RTS i Erik van Lir u slavu Herbolzhajmera](http://seecult.org/vest/big-bend-rts-i-erik-van-lir-u-slavu-herbolzhajmera)
 * [Live Soundtrack - deset godina](http://seecult.org/vest/live-soundtrack-deset-godina)
-* [Karavan igre - podrška mladim igračima](http://seecult.org/vest/karavan-igre-podrska-mladim-igracima)
-* [Dragani Mladenović uručena nagrada Milica Stojadinović Srpkinja](http://seecult.org/vest/dragani-mladenovic-urucena-nagrada-milica-stojadinovic-srpkinja)
 
 * [Konkursi](#tab1_1)
 
