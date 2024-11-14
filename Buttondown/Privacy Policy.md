@@ -167,6 +167,6 @@ No credit card required. Only pay for what you use. Cancel anytime.
 
 [Blog](https://buttondown.email/blog)[Changelog](https://buttondown.email/changelog)[Testimonials](https://buttondown.email/testimonials)[Docs](https://docs.buttondown.com/)[Features](https://buttondown.email/features)[Integrations](https://buttondown.email/features/integrations)[Open source](https://buttondown.email/open-source)
 
-[Alternatives](https://buttondown.email/alternatives)[Climate](https://buttondown.email/climate)[Terms of service](https://buttondown.email/legal/terms)[Use cases](https://buttondown.email/use-cases)[Privacy policy](https://buttondown.email/legal/privacy)[Customer support](mailto:support@buttondown.email)
+[Alternatives](https://buttondown.email/alternatives)[Climate](https://buttondown.email/climate)[Terms of service](https://buttondown.email/legal/terms)[Use cases](https://buttondown.email/use-cases)[Privacy policy](https://buttondown.email/legal/privacy)[Customer support](mailto:support@buttondown.com)
 
 © 2024 Buttondown. All rights reserved; have a lovely day.
