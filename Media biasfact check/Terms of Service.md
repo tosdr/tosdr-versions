@@ -186,6 +186,18 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [BlackPressUSA – Bias and Credibility](https://mediabiasfactcheck.com/black-press-usa-bias/ "View BlackPressUSA – Bias and Credibility") - November 13, 2024
+    
+* [BlackNews.com – Bias and Credibility](https://mediabiasfactcheck.com/blacknews-com/ "View BlackNews.com – Bias and Credibility") - November 13, 2024
+    
+* [Black Main Street – Bias and Credibility](https://mediabiasfactcheck.com/black-main-street/ "View Black Main Street – Bias and Credibility") - November 13, 2024
+    
+* [Black America Web – Bias and Credibility](https://mediabiasfactcheck.com/black-america-web/ "View Black America Web – Bias and Credibility") - November 13, 2024
+    
+* [BitChute – Bias and Credibility](https://mediabiasfactcheck.com/bitchute/ "View BitChute – Bias and Credibility") - November 13, 2024
+    
+* [The Birmingham News – Bias and Credibility](https://mediabiasfactcheck.com/the-birmingham-news-bias/ "View The Birmingham News – Bias and Credibility") - November 13, 2024
+    
 * [Biotech Express Magazine – Bias and Credibility](https://mediabiasfactcheck.com/biotech-express-magazine-bias/ "View Biotech Express Magazine – Bias and Credibility") - November 13, 2024
     
 * [BioSpace – Bias and Credibility](https://mediabiasfactcheck.com/biospace/ "View BioSpace – Bias and Credibility") - November 13, 2024
@@ -193,18 +205,6 @@ No related posts.
 * [Biography (A&E) – Bias and Credibility](https://mediabiasfactcheck.com/biography-ae-bias/ "View Biography (A&E) – Bias and Credibility") - November 13, 2024
     
 * [BioDefense – Bias and Credibility](https://mediabiasfactcheck.com/biodefense/ "View BioDefense – Bias and Credibility") - November 13, 2024
-    
-* [Big Island Times – Bias and Credibility](https://mediabiasfactcheck.com/big-island-times/ "View Big Island Times – Bias and Credibility") - November 13, 2024
-    
-* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 13, 2024
-    
-* [Environmental Evidence Journal – Bias and Credibility](https://mediabiasfactcheck.com/environmental-evidence-journal-bias/ "View Environmental Evidence Journal – Bias and Credibility") - November 13, 2024
-    
-* [ScheerPost – Bias and Credibility](https://mediabiasfactcheck.com/scheerpost-bias-and-credibility/ "View ScheerPost – Bias and Credibility") - November 13, 2024
-    
-* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 13, 2024
-    
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 13, 2024
     
 
 #### Today’s Top Page Views
@@ -214,11 +214,11 @@ No related posts.
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [Search](https://mediabiasfactcheck.com/search/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
