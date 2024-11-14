@@ -577,20 +577,24 @@ MENU MENU
     
     November 14, 2024
     
+    [Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States](https://home.treasury.gov/news/press-releases/jy2714)
+    
+    November 14, 2024
+    
     [Treasury Targets Syrian Conglomerate Funding Qods Force and Houthis](https://home.treasury.gov/news/press-releases/jy2712)
     
     November 12, 2024
     
     [Treasury Sanctions Sudanese Commander Involved in Human Rights Abuses in West Darfur](https://home.treasury.gov/news/press-releases/jy2710)
     
-    November 6, 2024
-    
-    [Treasury Expands Sanctions on Republika Srpska Network Evading U.S. Sanctions](https://home.treasury.gov/news/press-releases/jy2709)
-    
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
     [Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks)
     ------------------------------------------------------------------------------------------
+    
+    November 14, 2024
+    
+    [Remarks by Secretary of the Treasury Janet L. Yellen at the Financial Literacy and Education Commission Meeting](https://home.treasury.gov/news/press-releases/jy2713)
     
     November 13, 2024
     
@@ -599,10 +603,6 @@ MENU MENU
     October 29, 2024
     
     [Virtual Remarks by Secretary of the Treasury Janet L. Yellen at the National Congress of American Indians Annual Convention and Marketplace](https://home.treasury.gov/news/press-releases/jy2702)
-    
-    October 29, 2024
-    
-    [Remarks by Secretary of the Treasury Janet L. Yellen at the American Bankers Association Annual Convention](https://home.treasury.gov/news/press-releases/jy2694)
     
     [View All Remarks and Statements](https://home.treasury.gov/news/press-releases/statements-remarks "View all Remarks and Statements")
     
