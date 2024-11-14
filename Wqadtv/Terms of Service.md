@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+    *  [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
         
-        #### [Muscatine police partner with local business to rescue cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        #### [Fake bomb threat made at Moline Taco Bell, 12-year-old detained](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613) [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
+        #### [12-year-old detained after making fake bomb threat at Moline Taco Bell, police say](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613) [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
         
-        #### [Davenport City Council passes rent abatement ordinance](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
+        #### [12-year-old detained after allegedly making fake bomb threat at Moline Taco Bell](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
+    *  [![](https://media.tegna-media.com/assets/KARE/images/615749f0-1448-4829-b6c4-3b0af06d666d/20241114T042423/615749f0-1448-4829-b6c4-3b0af06d666d_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/615749f0-1448-4829-b6c4-3b0af06d666d/20241114T042423/615749f0-1448-4829-b6c4-3b0af06d666d_360x203.jpg)](https://www.wqad.com/article/news/local/all-aboard-the-borealis-julie-bel-hop-fast-track-to-chicago/89-42072276-19b1-4acc-8dd0-cfbe3bb44020)
+        
+        #### [All aboard the Borealis! Amtrak creating a fast track to Chicago](https://www.wqad.com/article/news/local/all-aboard-the-borealis-julie-bel-hop-fast-track-to-chicago/89-42072276-19b1-4acc-8dd0-cfbe3bb44020)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +59,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/7b154d5b-94e8-4a26-8e0b-44c457a374cd/20241114T043055/7b154d5b-94e8-4a26-8e0b-44c457a374cd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7b154d5b-94e8-4a26-8e0b-44c457a374cd/20241114T043055/7b154d5b-94e8-4a26-8e0b-44c457a374cd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ab1f5dc2-3c90-4a7c-9662-8144daf031df/20241114T131326/ab1f5dc2-3c90-4a7c-9662-8144daf031df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ab1f5dc2-3c90-4a7c-9662-8144daf031df/20241114T131326/ab1f5dc2-3c90-4a7c-9662-8144daf031df_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Showers developing this evening and overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Tracking showers and fog to start your Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-46°
+49°
 
-![Mist](/assets/shared-images/weather-icons/fog-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
