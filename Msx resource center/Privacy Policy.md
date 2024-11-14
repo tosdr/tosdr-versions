@@ -150,8 +150,9 @@ Latest reactions
 
 Latest forum posts
 
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
+* [The PC-70100 is for auction](https://www.msx.org/forum/msx-talk/general-discussion/the-pc-70100-is-for-auction "The PC-70100 is for auction")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [Nikko made msx computer?](https://www.msx.org/forum/msx-talk/general-discussion/nikko-made-msx-computer?page=9 "Nikko made msx computer?")
@@ -162,7 +163,6 @@ Latest forum posts
 * [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
 * [μ·PACK pronounciation](https://www.msx.org/forum/msx-talk/general-discussion/%CE%BC%C2%B7pack-pronounciation?page=1 "μ·PACK pronounciation")
 * [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
-* [Please help testing upcoming openMSX release!](https://www.msx.org/forum/msx-talk/openmsx/please-help-testing-upcoming-openmsx-release?page=124 "Please help testing upcoming openMSX release!")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
