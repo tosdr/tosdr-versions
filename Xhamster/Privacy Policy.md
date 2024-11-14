@@ -1,3 +1,5 @@
+JavaScript is required for this website. Please turn it on in your browser and reload the page
+
  [![Free Porn Videos xHamster](https://static-ah.xhcdn.com/xh-desktop/images/logo/logo.svg)![](https://static-ah.xhcdn.com/xh-desktop/images/logo/logo-nightmode.svg) US](https://xhamster.com/)
 
 * Straight
@@ -26,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%222200%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A1%7D%2C%223002%22%3A%7B%22g%22%3A%22g%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D&xhStatsUid=6735d052787904.03856058dfa&xhSessionToken=2f16a7abe61118b1ef77efcf746704982ea8cd5f&xhSessionStartedAt=1731579986)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22i%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D&xhStatsUid=67362ae9035099.07256263c1b&xhSessionToken=c8c49d0329541117e5d84b7c5d2f0a8bb02c6143&xhSessionStartedAt=1731603177)
 
 [Categories](https://xhamster.com/categories)
 
@@ -52,7 +54,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[2 DAYS OF FAPHOUSE FOR ONLY 0.99 ⭐ Experience the premium quality TRY NOW](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=trial-2024&utm_medium=desktop-headline)
+[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette JOIN FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster&utm_medium=all-pages)
 
 Privacy Policy
 ==============
@@ -377,8 +379,8 @@ Last Modified: January 04, 2024
 
 ### Start making money with us
 
-* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-mobile&utm_medium=footer)
-* [Creator Contest](https://xhamster.com/creators/contest)
+* [Camgirls Wanted](https://join.flirtify.com/?utm_source=xhamster-desktop&utm_medium=footer)
+* [Creator Contest](https://xhamster.com/gay/creators/contest)
 * [Сontent Creators Program](https://xhamster.com/creator?source=footerCcp)
 
 Monetize your content
@@ -394,5 +396,3 @@ Monetize your content
 [18 U.S.C. 2257 Record-Keeping Requirements Compliance Statement](https://xhamster.com/info/2257)
 
 [![Monetization](//static-nss.xhcdn.com/xh-images/components/footer/rta_nightmode.component.png)![Monetization](//static-nss.xhcdn.com/xh-images/components/footer/rta.component.png)](https://www.asacp.org/?content=validate&ql=0b38b549f187edb883db00b7b057cbaa)
-
-JavaScript is required for this website. Please turn it on in your browser and reload the page
