@@ -56,10 +56,10 @@
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
 * [Trump Picks Team](https://www.breitbart.com/tag/2024-presidential-election/)
-* [Amsterdam Pogroms](https://www.breitbart.com/tag/amsterdam/)
+* [PA Recount](https://www.breitbart.com/tag/pennsylvania/)
 * [Media Meltdown](https://www.breitbart.com/the-media/)
 * [Hollywood Hate](https://www.breitbart.com/entertainment/)
-* [Israel-Hamas War](https://www.breitbart.com/tag/israel/)
+* [Amsterdam Pogroms](https://www.breitbart.com/tag/amsterdam/)
 
 Breitbart Privacy Policy
 ========================
