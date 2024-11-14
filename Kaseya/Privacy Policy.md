@@ -408,11 +408,11 @@ Kaseya DattoCon Announcements - Release of Kaseya 365 User & Acquisition of SaaS
     
     Upcoming Events
     
-    ![](https://www.kaseya.com/wp-content/uploads/2022/09/CITlocal-chicago-300x200.png)
+    ![](https://www.kaseya.com/wp-content/uploads/2022/09/CITlocal-houston-300x200.png)
     
-    Kaseya+Datto Connect Local – Chicago (For Internal IT)
+    Kaseya+Datto Connect Local :: Houston
     
-    November 13
+    November 19
     
     [View All Events](https://www.kaseya.com/events/)
     
