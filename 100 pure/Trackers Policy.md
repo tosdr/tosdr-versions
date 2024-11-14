@@ -24,11 +24,11 @@ My Tote
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4617 reviews (4617)
+4620 reviews (4620)
 
-$16.00 $29.00
+$23.00 $42.00
 
-1 oz - $29 0.3 oz - $16
+1 oz - $42 0.3 oz - $23
 
 1 oz
 
@@ -52,9 +52,9 @@ CHOOSE Size
 
 1049 reviews (1049)
 
-$64.00
+$92.00
 
-Default Title - $64
+Default Title - $92
 
 ADD TO TOTE
 
@@ -70,9 +70,9 @@ ADD TO TOTE
 
 97 reviews (98)
 
-$72.00
+$103.00
 
-1 oz - $72
+1 oz - $103
 
 ADD TO TOTE
 
@@ -84,9 +84,9 @@ ADD TO TOTE
 
 2410 reviews (2410)
 
-$28.00 $28.00
+$40.00 $40.00
 
-Dark Chocolate - $28 Black Tea - $28 Blackberry - $28
+Dark Chocolate - $40 Black Tea - $40 Blackberry - $40
 
 Black Tea
 
@@ -106,9 +106,9 @@ CHOOSE Color
 
 763 reviews (763)
 
-$12.00 $26.00
+$18.00 $38.00
 
-1.7 oz - $12 8 oz - $26
+1.7 oz - $18 8 oz - $38
 
 8 oz
 
@@ -126,9 +126,9 @@ CHOOSE Size
 
 39 reviews (39)
 
-$7.00 $28.00
+$10.00 $40.00
 
-Single - $7 5 Pack - $28
+Single - $10 5 Pack - $40
 
 Single
 
@@ -146,9 +146,9 @@ CHOOSE Size
 
 375 reviews (375)
 
-$7.00
+$10.00
 
-Single - $7
+Single - $10
 
 ADD TO TOTE
 
@@ -160,9 +160,9 @@ ADD TO TOTE
 
 2025 reviews (2025)
 
-$27.00 $27.00
+$39.00 $39.00
 
-Blackest - $27 Dark Cacao - $27 Gleaming Pewter - $27
+Blackest - $39 Dark Cacao - $39 Gleaming Pewter - $39
 
 Gleaming Pewter
 
@@ -182,9 +182,9 @@ CHOOSE Color
 
 46 reviews (46)
 
-$25.00
+$36.00
 
-Default Title - $25
+Default Title - $36
 
 ADD TO TOTE
 
@@ -196,9 +196,9 @@ ADD TO TOTE
 
 354 reviews (354)
 
-$7.00 $32.00
+$10.00 $46.00
 
-Single - $7 5 Pack - $32
+Single - $10 5 Pack - $46
 
 5 Pack
 
@@ -216,9 +216,9 @@ CHOOSE Size
 
 846 reviews (846)
 
-$38.00
+$55.00
 
-Default Title - $38
+Default Title - $55
 
 ADD TO TOTE
 
@@ -232,9 +232,9 @@ ADD TO TOTE
 
 197 reviews (197)
 
-$58.00
+$83.00
 
-Default Title - $58
+Default Title - $83
 
 ADD TO TOTE
 
@@ -246,9 +246,9 @@ ADD TO TOTE
 
 294 reviews (294)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -260,9 +260,9 @@ ADD TO TOTE
 
 350 reviews (350)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -274,9 +274,9 @@ ADD TO TOTE
 
 387 reviews (387)
 
-$26.00
+$38.00
 
-Default Title - $26
+Default Title - $38
 
 ADD TO TOTE
 
@@ -288,9 +288,9 @@ ADD TO TOTE
 
 120 reviews (120)
 
-$30.00
+$43.00
 
-Default Title - $30
+Default Title - $43
 
 ADD TO TOTE
 
@@ -302,9 +302,9 @@ ADD TO TOTE
 
 878 reviews (878)
 
-$38.00
+$55.00
 
-Default Title - $38
+Default Title - $55
 
 ADD TO TOTE
 
@@ -318,9 +318,9 @@ ADD TO TOTE
 
 78 reviews (78)
 
-$19.00
+$28.00
 
-Default Title - $19
+Default Title - $28
 
 ADD TO TOTE
 
@@ -334,9 +334,9 @@ ADD TO TOTE
 
 1572 reviews (1572)
 
-$30.00 $30.00
+$43.00 $43.00
 
-Blackberry - $30 Black Tea - $30 Dark Chocolate - $30
+Blackberry - $43 Black Tea - $43 Dark Chocolate - $43
 
 Black Tea
 
@@ -356,9 +356,9 @@ CHOOSE Color
 
 1131 reviews (1131)
 
-$45.00
+$65.00
 
-Default Title - $45
+Default Title - $65
 
 ADD TO TOTE
 
@@ -370,9 +370,9 @@ ADD TO TOTE
 
 695 reviews (695)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -386,9 +386,9 @@ ADD TO TOTE
 
 508 reviews (508)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -400,9 +400,9 @@ ADD TO TOTE
 
 545 reviews (545)
 
-$52.00
+$75.00
 
-Default Title - $52
+Default Title - $75
 
 ADD TO TOTE
 
@@ -414,9 +414,9 @@ ADD TO TOTE
 
 59 reviews (59)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -430,9 +430,9 @@ ADD TO TOTE
 
 1422 reviews (1422)
 
-$58.00
+$83.00
 
-Default Title - $58
+Default Title - $83
 
 ADD TO TOTE
 
@@ -444,9 +444,9 @@ ADD TO TOTE
 
 188 reviews (188)
 
-$58.00
+$83.00
 
-Default Title - $58
+Default Title - $83
 
 ADD TO TOTE
 
@@ -458,9 +458,9 @@ ADD TO TOTE
 
 5295 reviews (5295)
 
-$28.00 $28.00
+$40.00 $40.00
 
-Blackberry - $28 Blueberry - $28 Dark Chocolate - $28 Black Tea - $28
+Blackberry - $40 Blueberry - $40 Dark Chocolate - $40 Black Tea - $40
 
 Blueberry
 
@@ -484,9 +484,9 @@ CHOOSE Color
 
 125 reviews (125)
 
-$55.00
+$79.00
 
-Default Title - $55
+Default Title - $79
 
 ADD TO TOTE
 
@@ -500,9 +500,9 @@ ADD TO TOTE
 
 84 reviews (84)
 
-$48.00
+$69.00
 
-Default Title - $48
+Default Title - $69
 
 ADD TO TOTE
 
@@ -516,9 +516,9 @@ ADD TO TOTE
 
 83 reviews (83)
 
-$32.00
+$46.00
 
-Default Title - $32
+Default Title - $46
 
 ADD TO TOTE
 
@@ -530,9 +530,9 @@ ADD TO TOTE
 
 512 reviews (512)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -546,9 +546,9 @@ ADD TO TOTE
 
 975 reviews (975)
 
-$7.00 $30.00
+$10.00 $43.00
 
-5 Pack - $30 Single - $7
+5 Pack - $43 Single - $10
 
 Single
 
@@ -566,9 +566,9 @@ CHOOSE Size
 
 757 reviews (757)
 
-$8.00
+$12.00
 
-Default Title - $8
+Default Title - $12
 
 ADD TO TOTE
 
@@ -580,9 +580,9 @@ ADD TO TOTE
 
 103 reviews (103)
 
-$55.00
+$79.00
 
-Default Title - $55
+Default Title - $79
 
 ADD TO TOTE
 
@@ -1038,7 +1038,7 @@ Albania (ALL L) Andorra (EUR €) Austria (EUR €) Belgium (EUR €) Bosnia & H
 
 Update country/region
 
-(USD $)
+(CAD $)
 
 * [Albania (ALL L)](#)
 * [Andorra (EUR €)](#)
