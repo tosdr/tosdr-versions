@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/wetenschappelijk-bewijs-de-griepprik-werkt-niet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/9-11/911-en-de-israelische-kunststudenten-in-t-wtc/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
