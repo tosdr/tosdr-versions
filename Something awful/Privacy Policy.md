@@ -205,25 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Re-make Movies for Internet Subcultures](https://www.somethingawful.com/comedy-goldmine/remake-movies-for/1/)
-* [The Many Faces of Barack Obama](https://www.somethingawful.com/comedy-goldmine/faces-barack-obama/1/)
-* [Myspace SWAT](https://www.somethingawful.com/fashion-swat/myspace-swat/1/)
-* [Codename Nina: Global Terrorism Strike Force](https://www.somethingawful.com/game-reviews/codename-nina-global/1/)
-* [Lost Treasures of the AD&D 2nd Edition Monstrous Compendium](https://www.somethingawful.com/dungeons-and-dragons/monstrous-manual-adnd/1/)
+* [If Life Were More Like Cartoons](https://www.somethingawful.com/comedy-goldmine/life-were-more/1/)
+* [Another Obama Backfire!](https://www.somethingawful.com/everdraed-showcase/obama-backfire-romney/)
+* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
+* [Historical Inaccuracies (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part/1/)
+* [Guess who's back! (It's me. (I am.))](https://www.somethingawful.com/awfulvision/awfulvision-is-back/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Pay me $1million in Bitcoin or I will start an anime thread](http://forums.somethingawful.com/showthread.php?threadid=4075330 "Pay me $1million in Bitcoin or I will start an anime thread")
+* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Thread for WOKE ANIME ONLY](http://forums.somethingawful.com/showthread.php?threadid=4075345 "Thread for WOKE ANIME ONLY")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Most Amazing Toys of 2024?](http://forums.somethingawful.com/showthread.php?threadid=4075317 "Most Amazing Toys of 2024?")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
 
 ### Random Articles
 
-* [Thorpe's Notes: R. Kelly's Trapped In The Closet Chapters 6-12](https://www.somethingawful.com/your-band-sucks/thorpes-notes-kellys-2/1/)
-* [Wanderlust; Act of Valor; Gone; Tyler Perry's Good Deeds; The Secret World of Arrietty](https://www.somethingawful.com/current-movie-reviews/wanderlust-act-valor/1/)
-* [I Hate You Page 150](https://www.somethingawful.com/cliff-yablonski/i-hate-you-150/)
-* [Crowolf Designs](https://www.somethingawful.com/awful-links/crowolf-rpg-portraits/)
-* [The 117th Element](https://www.somethingawful.com/news/ununseptium-ronpaul-element117/)
+* [Red Carpet Roadkill](https://www.somethingawful.com/photoshop-phriday/red-carpet-roadkill/1/)
+* [Valentine's Day Emergency Kit](https://www.somethingawful.com/news/valentines-day-emergency/)
+* [Subj: ROAMIN DAD'S WILL](https://www.somethingawful.com/news/roamin-dad-4/)
+* [Thanks!](https://www.somethingawful.com/daily-dirt/thanks-book/)
+* [It's Time For Some Culture On Here](https://www.somethingawful.com/news/its-time-for/)
 
 [Random!](https://www.somethingawful.com/random/)
 
