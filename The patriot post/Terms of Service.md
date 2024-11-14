@@ -1,10 +1,10 @@
-**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
+**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111942-mid-day-digest-2024-11-13?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111982-mid-day-digest-2024-11-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111942-mid-day-digest-2024-11-13?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111982-mid-day-digest-2024-11-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -217,6 +217,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Allen West Things That Make You Go Hmm…](https://patriotpost.us/opinion/111962-things-that-make-you-go-hmm-dot-dot-dot-2024-11-14)
 *      [The Washington Stand Fame Fatale: How the Elite Celeb Culture Doomed Dems](https://patriotpost.us/opinion/111974-fame-fatale-how-the-elite-celeb-culture-doomed-dems-2024-11-14)
 *      [The Babylon Bee Biden Administration Declares Trump Cabinet Picks ‘Unqualified’](https://patriotpost.us/opinion/111959-biden-administration-declares-trump-cabinet-picks-unqualified-2024-11-14)
+*      [Guest Commentary Not Out of the Woods Yet](https://patriotpost.us/opinion/111985-not-out-of-the-woods-yet-2024-11-14)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -230,11 +231,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
