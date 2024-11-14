@@ -1,6 +1,6 @@
 [Jump to content](#ipsLayout_mainArea "Go to main content on this page")
 
-[![Grieving.com, Help for Coping with Loss Types: Child, Mother, Father, Wife, Husband, Mate, Pet, Friend, Sibling, Sister & Brother](//content.invisioncic.com/x319419/monthly_2023_01/grieving-logo.png.2eee25ce0925db1ed66792092fe21dec.png)](https://forums.grieving.com/)
+[![Grieving.com, Help for Coping with Loss Types: Child, Mother, Father, Wife, Husband, Mate, Pet, Friend, Sibling, Sister & Brother](//media.invisioncic.com/x319419/monthly_2023_01/grieving-logo.png.2eee25ce0925db1ed66792092fe21dec.png)](https://forums.grieving.com/)
 
 * [Community Home](https://forums.grieving.com/ "Go to the community homepage")
 
@@ -123,7 +123,7 @@ This cookie stores a transaction key for a guest member, it is used to identify 
 
   
 
-### Optional Cookies[](https://forums.grieving.com/index.php?app=core&module=system&controller=cookies&do=cookieConsentToggle&ref=aHR0cHM6Ly9mb3J1bXMuZ3JpZXZpbmcuY29tL2Nvb2tpZXMv&status=1&csrfKey=bff803ad35c983ba56f2c192d8bba562)
+### Optional Cookies[](https://forums.grieving.com/index.php?app=core&module=system&controller=cookies&do=cookieConsentToggle&ref=aHR0cHM6Ly9mb3J1bXMuZ3JpZXZpbmcuY29tL2Nvb2tpZXMv&status=1&csrfKey=a00890b5523cb7f03ae4d671f789b06a)
 
 These cookies are not required, but can be enabled to enhance your browsing experience.
 
