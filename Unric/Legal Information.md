@@ -59,7 +59,7 @@ Search
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![UNRIC.ORG](https://unric.org/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
+  [![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)UNRIC - Regional Information CentreUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 SearchSearch
 
@@ -79,7 +79,7 @@ SearchSearch
     * [Suomi](https://unric.org/fi)
     * [Svenska](https://unric.org/sv)
 
-  [![UNRIC.ORG](https://unric.org/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
+  [![UNRIC.ORG](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2020/12/logo-EN-UN.png)Regional Information Centre for Western EuropeUnited Nations Information Centre for Western Europe](https://unric.org/en/ "UNRIC.ORG")
 
 [Live now](# "Live now")
 
@@ -131,7 +131,7 @@ A-Z Site Index
 Privacy Notice
 ==============
 
-[![privacy](https://unric.org/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://unric.org/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
+[![privacy](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy-696x464.jpg "privacy")](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/privacy.jpg)
 
 ### UNITED NATIONS’ PRIVACY NOTICE
 
@@ -147,31 +147,31 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Latest News
 
- [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
 
 ### [UNRIC Info Point & Library Newsletter: November 2024](https://unric.org/en/unric-info-point-library-newsletter-november-2024/ "UNRIC Info Point & Library Newsletter: November 2024")
 
 07/11/2024
 
- [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 ### [UNRIC Info Point & Library Newsletter: October 2024](https://unric.org/en/unric-info-point-library-newsletter-october-2024/ "UNRIC Info Point & Library Newsletter: October 2024")
 
 10/10/2024
 
- [![Latest UNRIC Library Newsletter](https://unric.org/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
+ [![Latest UNRIC Library Newsletter](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2019/11/latest-library-info-point-newsletter-banner-100x70.jpg)](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 ### [UNRIC Info Point & Library Newsletter – September 2024](https://unric.org/en/unric-info-point-library-newsletter-september-2024/ "UNRIC Info Point & Library Newsletter – September 2024")
 
 10/09/2024
 
- [![UNRIC Library Backgrounder: Sea Level Rise](https://unric.org/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
+ [![UNRIC Library Backgrounder: Sea Level Rise](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/sea-level-rise-backgrounder-100x70.png)](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 ### [UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources](https://unric.org/en/unric-library-backgrounder-sea-level-rise/ "UNRIC Library Backgrounder: Sea Level Rise – Selected Online Resources")
 
 29/08/2024
 
- [![UNRIC Library Backgrounder: Mpox](https://unric.org/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
+ [![UNRIC Library Backgrounder: Mpox](https://e4k4c4x9.rocketcdn.me/en/wp-content/uploads/sites/15/2024/08/backgrounder-MPOX-100x70.png)](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
 ### [UNRIC Library Backgrounder: Mpox](https://unric.org/en/unric-library-backgrounder-mpox/ "UNRIC Library Backgrounder: Mpox")
 
@@ -181,7 +181,7 @@ The information will be used internally only for web site traffic analysis. If t
 
 #### Publications
 
-* [November 2024](https://unric.org/en/2024/11/) (8)
+* [November 2024](https://unric.org/en/2024/11/) (9)
 * [October 2024](https://unric.org/en/2024/10/) (38)
 * [September 2024](https://unric.org/en/2024/09/) (34)
 * [August 2024](https://unric.org/en/2024/08/) (12)
