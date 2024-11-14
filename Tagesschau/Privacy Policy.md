@@ -558,13 +558,13 @@ Schließlich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten d
 
 [](#ts_header)
 
-[Service](#)
+Service
 
 * [7-Tage-Überblick](https://www.tagesschau.de/archiv/allemeldungen)
 * [Ihre Meinung](https://meta.tagesschau.de/)
 * [Wo Sie uns sonst noch finden](https://www.tagesschau.de/infoservices)
 
-[tagesschau.de](#)
+tagesschau.de
 
 * [Inland](https://www.tagesschau.de/inland)
 * [Ausland](https://www.tagesschau.de/ausland)
@@ -576,14 +576,14 @@ Schließlich haben Sie das Recht, sich bei dem Rundfunkdatenschutzbeauftragten d
 * [Videos und Audios](https://www.tagesschau.de/multimedia)
 * [tagesschau24 im Livestream](https://www.tagesschau.de/multimedia/livestreams/livestream1)
 
-[ARD Angebote](#)
+ARD Angebote
 
 * [Sportschau](https://www.sportschau.de/)
 * [Mediathek](https://www.ardmediathek.de/)
 * [Audiothek](https://www.ardaudiothek.de/)
 * [KiKA](https://www.kika.de/index.html)
 
-[Rundfunkanstalten](#)
+Rundfunkanstalten
 
 * [Bayerischer Rundfunk](https://www.br.de/index.html)
 * [Hessischer Rundfunk](https://www.hessenschau.de/index.html)
