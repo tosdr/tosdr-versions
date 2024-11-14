@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/598627f2-ca5f-4911-8b95-c6210b5981d4/20241114T020045/598627f2-ca5f-4911-8b95-c6210b5981d4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/598627f2-ca5f-4911-8b95-c6210b5981d4/20241114T020045/598627f2-ca5f-4911-8b95-c6210b5981d4_360x203.jpg)](https://www.king5.com/article/news/community/ferndale-food-bank-overcomes-adversity-strengthen-community/281-94ed564c-0558-4267-a527-3440904df293)
+    *  [![](https://media.king5.com/assets/KING/images/eb6f8270-1df3-462e-94fa-4ecf4027084d/20241114T071857/eb6f8270-1df3-462e-94fa-4ecf4027084d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eb6f8270-1df3-462e-94fa-4ecf4027084d/20241114T071857/eb6f8270-1df3-462e-94fa-4ecf4027084d_360x203.jpg)](https://www.king5.com/article/money/home-developers-flocking-to-marysville-but-expert-says-prices-staying-high/281-f7c7b783-c1db-450b-8c6f-69b31ddff829)
         
-        #### [Ferndale Food Bank overcomes adversity to strengthen community](https://www.king5.com/article/news/community/ferndale-food-bank-overcomes-adversity-strengthen-community/281-94ed564c-0558-4267-a527-3440904df293)
+        #### [Home developers are flocking to Marysville, but an expert says prices are staying high](https://www.king5.com/article/money/home-developers-flocking-to-marysville-but-expert-says-prices-staying-high/281-f7c7b783-c1db-450b-8c6f-69b31ddff829)
         
-    *  [![](https://media.king5.com/assets/KING/images/61cee59e-ae6c-4b2e-8898-1c1e537f9235/20241114T014555/61cee59e-ae6c-4b2e-8898-1c1e537f9235_16x9.jpg) ![](https://media.king5.com/assets/KING/images/61cee59e-ae6c-4b2e-8898-1c1e537f9235/20241114T014555/61cee59e-ae6c-4b2e-8898-1c1e537f9235_360x203.jpg)](https://www.king5.com/article/news/local/county-commissioner-pleads-not-guilty-election-night-dui-arrest/281-51e2d602-bcf6-423b-ab5a-aa8cee4d1a94)
+    *  [![](https://media.king5.com/assets/KING/images/8c4e0314-36ed-4467-848b-8cd8b3c728bc/20241114T062616/8c4e0314-36ed-4467-848b-8cd8b3c728bc_16x9.jpg) ![](https://media.king5.com/assets/KING/images/8c4e0314-36ed-4467-848b-8cd8b3c728bc/20241114T062616/8c4e0314-36ed-4467-848b-8cd8b3c728bc_360x203.jpg)](https://www.king5.com/article/news/education/seattle-school-board-president-recall-effort/281-9716a7bb-e8ca-4fc2-9c49-ffdfe78cce1e)
         
-        #### [County commissioner pleads not guilty following election night DUI arrest](https://www.king5.com/article/news/local/county-commissioner-pleads-not-guilty-election-night-dui-arrest/281-51e2d602-bcf6-423b-ab5a-aa8cee4d1a94)
+        #### [SPS board president pushing back after group of parents file petition to recall](https://www.king5.com/article/news/education/seattle-school-board-president-recall-effort/281-9716a7bb-e8ca-4fc2-9c49-ffdfe78cce1e)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 51°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
