@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/9-11/911-en-de-israelische-kunststudenten-in-t-wtc/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/bevestigde-fraude-bij-cda-lijsttrekkersverkiezing/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
