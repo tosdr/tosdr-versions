@@ -2,7 +2,7 @@
 
 [](https://www.zumalighting.com/search)
 
-Products [Custom Solutions](https://www.zumalighting.com/custom-solutions) [Project Gallery](https://www.zumalighting.com/project-gallery-1) [Rep Locator](https://www.zumalighting.com/rep-locator) Resources [About](https://www.zumalighting.com/about)
+Products [Custom Solutions](https://www.zumalighting.com/custom-solutions) [Project Gallery](https://www.zumalighting.com/project-gallery-1) Resources [About](https://www.zumalighting.com/about)
 
 [Contact](https://www.zumalighting.com/contact)
 
@@ -12,7 +12,7 @@ Back [Terms & Conditions](https://www.zumalighting.com/terms) [Warranty](https:/
 
 [](https://www.linkedin.com/company/zuma-lighting/)
 
-[Products](https://www.zumalighting.com/products-1) [All](https://www.zumalighting.com/products) [Architectural](https://www.zumalighting.com/architectural) [Bollards & Columns](https://www.zumalighting.com/bollards) [Poles, Arms & Bases](https://www.zumalighting.com/poles-arms-bases) [Retrofit](https://www.zumalighting.com/retrofit) [Site & Area](https://www.zumalighting.com/site-and-area) [Wall & Ceiling](https://www.zumalighting.com/wall-and-ceiling) [Custom Solutions](https://www.zumalighting.com/custom-solutions)[Project Gallery](https://www.zumalighting.com/project-gallery-1)[Rep Locator](https://www.zumalighting.com/rep-locator) [Resources](https://www.zumalighting.com/resources-1) [Terms & Conditions](https://www.zumalighting.com/terms) [Warranty](https://www.zumalighting.com/warranty) [Zuma Blog](https://www.zumalighting.com/zuma-blog) [Cancellation Policy](https://www.zumalighting.com/cancellation-policy) [About](https://www.zumalighting.com/about)
+[Products](https://www.zumalighting.com/products-1) [All](https://www.zumalighting.com/products) [Architectural](https://www.zumalighting.com/architectural) [Bollards & Columns](https://www.zumalighting.com/bollards) [Poles, Arms & Bases](https://www.zumalighting.com/poles-arms-bases) [Retrofit](https://www.zumalighting.com/retrofit) [Site & Area](https://www.zumalighting.com/site-and-area) [Wall & Ceiling](https://www.zumalighting.com/wall-and-ceiling) [Custom Solutions](https://www.zumalighting.com/custom-solutions)[Project Gallery](https://www.zumalighting.com/project-gallery-1) [Resources](https://www.zumalighting.com/resources-1) [Terms & Conditions](https://www.zumalighting.com/terms) [Warranty](https://www.zumalighting.com/warranty) [Zuma Blog](https://www.zumalighting.com/zuma-blog) [Cancellation Policy](https://www.zumalighting.com/cancellation-policy) [About](https://www.zumalighting.com/about)
 
 [![Zuma Lighting](//images.squarespace-cdn.com/content/v1/5ba54cf57fdcb8f5162035b1/1539812480004-4O1UMTKP9W8Z7GBB4YPB/Artboard+4+copy.png)](https://www.zumalighting.com/)
 
