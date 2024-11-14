@@ -56,17 +56,16 @@ Depending on your relationship with us we process your persoanl data in the foll
 
 **Creator:** This is where you sign up to our platform as a customer to sell goods and services.
 
-|     |     |     |
+| Processing Activities | Personal Data | Lawful Basis |
 | --- | --- | --- |
-| Processing activities | Personal Data | Lawful Basis |
 | When you create an account with us | Name, e-mail address, and phone numbers either entered directly or transmitted via a social sign-up facility such as ‘sign up with Google’ or ‘sign up with Facebook’ as is necessary to provide such a service. | Performance of a contract |
 | When you register with us | Name, location and email address. | Performance of a contract |
-| When you create a tailored profile | Information you put into your Ko-fi profile and updates to your profile including but not limited to images, tags, text updates and links to third-party websites or content. | Performance of a Contract |
-| Manage payments, fees and charges. Collect and recover money owed to us | Information you enter to send or receive payments such as your name, e-mail address, when using PayPal, PayPal email address, PayPal ID, IP Address associated with a transaction or Stripe Connected Account information such as Stripe ID, IP address, IP address associated with the transaction as necessary so we can effect payments. | Performance of a Contract |
-| To respond to any enquires | Name, email address and any information that you provide to us. | Performance of a contract with you Necessary for our legitimate interests to be able to respond to you |
-| To respond to our regulatory reporting requirements under platform tax reporting rules or its equivalence under law. | Name, address, date of birth, Income earned from the platform, fees paid to Ko-Fi, Your unique Tax Identification Number, VAT (Value Added Tax) or equivalent number, Company Registration information where applicable. | Necessary for our legal obligations under platform tax reporting rules. |
+| When you create a tailored profile | Information you put into your profile and updates to your profile including but not limited to images, tags, text updates and links to third-party websites or content. | Performance of a contract |
+| Manage payments, fees and charges. Collect and recover money owed to us | Information you enter to send or receive payments such as your name, e-mail address, PayPal email address, PayPal ID, IP Address associated with a transaction or Stripe Connected Account information such as Stripe ID, IP address associated with the transaction as necessary so we can effect payments. | Performance of a contract |
+| To respond to any inquiries | Name, email address and any information that you provide to us. | Performance of a contract with you, necessary for our legitimate interests to be able to respond to you |
+| To respond to our regulatory reporting requirements under platform tax reporting rules or its equivalence under law | Name, address, date of birth, income earned from the platform, fees paid, Tax Identification Number, VAT (Value Added Tax) or equivalent number, Company Registration information where applicable. | Necessary for our legal obligations under platform tax reporting rules. |
 
-‍
+**Supporter:** This is where you purchase products and services from the Creator or support the Creator.
 
 | Processing Activities | Personal Data | Lawful Basis |
 | --- | --- | --- |
@@ -76,81 +75,124 @@ Depending on your relationship with us we process your persoanl data in the foll
 | When you support a Creator and follow them | Email address (when following a Creator). Additional information (e.g., Stripe ID, PayPal ID, IP address associated with the transaction) when supporting a Creator to enable content you have requested to follow. | Performance of a contract |
 | Guest Supporters (supporting a Creator as a guest) | Name, email address, Stripe ID (if using Stripe), PayPal ID, and IP address associated with a transaction as a guest supporter. | Necessary for legitimate interests to process your support without creating a profile. |
 | To respond to any inquiries | Name, email address, and any information provided in the inquiry. | Performance of a contract and necessary for legitimate interests to respond to inquiries. |
-| Regulatory reporting requirements | Name, address, date of birth, income earned on the platform, fees paid to Ko-fi, unique Tax Identification Number, VAT number, or equivalent, and Company Registration information where applicable. | Necessary for compliance with legal obligations under platform tax reporting rules. |
 
-### **4\. International transfers of your personal data**
+**Additional information regarding sharing information to Creator** When you support a Creator we may share your:
 
-Where personal data is shared and disclosed as set out above, these parties may be established outside the European Economic Area (“EEA”) and the United Kingdom. Whenever we transfer your personal data outside the EEA and the United Kingdom, we ensure that a similar degree of protection is afforded to it by ensuring appropriate safeguards are implemented. This may include, where appropriate, signing up to EU Standard Contractual Clauses. To keep this policy as short and easy to understand as possible, we haven’t set out the specific circumstances when each of these protection measures are used. To find out more information regarding the specific mechanism used by us when transferring your personal data outside the EEA and the United Kingdom, please contact us at data@ko-fi.com.
+* Name or username registered with us when you make a payment to a Creator.
+* Email address.
+* Physical address, (only where it is required to deliver a product that you have purchased)
+* Any transaction information entered on Ko-fi required to facilitate direct communication between the Creator and Supporter, the fulfilment of transactions or calculation of tax liabilities.
+* Some aggregated and anonymised information about your support that cannot identify you.
 
-### **5\. How long do you keep my data for?**
+Please note that when you as a Supporter make a payment to a Creator using the Ko-fi platform, their PayPal or Stripe information may be shared with the Creator through PayPal or Stripe. To find out more, please check the help pages available [here](https://help.ko-fi.com/hc/en-us/articles/115004001294-What-Personal-Information-Is-Shared-on-Ko-fi-).  
+  
+Creators are responsible for how they use the data collected on Ko-fi. By following, supporting, subscribing or buying from a Creator on Ko-fi you are directing us to share your information in this way. If you do not wish for information to be disclosed to a Creator please do not use Ko-fi.  
+  
+Creators may contact you outside of the Ko-fi platform and you agree to contact them directly and when this happens it will be wholly the responsibility of the Creator and not Ko-fi to use your data in accordance with applicable laws.**‍**
 
-We will only retain your personal data for as long as we need it unless we are required to keep it for longer to comply with our legal, accounting, or regulatory requirements.
+**Note: For all users (Creator or Supporter) of our platform** ‍
 
-In some circumstances we may carefully anonymise your personal data so that it can no longer be associated with you, and we may use this anonymised information indefinitely without notifying you. We use this anonymised information to improve the way we work and our services.
+If you don’t want us to use your personal data for any of the other reasons you can let us know at any time by contacting us at [data@ko-fi.com](mailto:data@ko-fi.com) and we will delete your data from our systems. However, you acknowledge this will remove our ability to provide the service to you and will not automatically remove that contact or transaction data previously made available to any Creators.**‍**
 
-We delete information relating to purchases from us 7 years after your last order with us. 
+**Website visitor**: This is where you are a visitor of our website.
+
+| Processing Activities | Personal Data | Lawful Basis |
+| --- | --- | --- |
+| When you use our website (purchases/donations) | Purchases/donations made through our platform. | Necessary for our legitimate interests so we can provide you with a better experience. |
+| When you sign up or take part in surveys | Information you put into the forms, or surveys on our site to improve your experience of our service. | Necessary for our legitimate interests so we can contact you or process your survey responses. We use this information to understand your marketing preferences. Consent – where we provide marketing to you, such as by email or Soft Opt-in consent. |
+| When you contact us via our website, forms and other links on our website | Name, email address, and other contact details you provide to us. | Necessary for our legitimate interests where we need to be able to respond to you. |
+| To manage our relationship with you which will include notifying you about changes to our terms or privacy policy | Name, email address (only where you have provided that information to us). | Necessary for our legitimate interests i.e., to keep our records updated. |
+| To administer and protect our business and our website including troubleshooting, data analysis, testing, system maintenance, support, reporting and hosting of data | Name, email address, IP address, location data. | Necessary for our legitimate interests for running our business, provision of administration and IT services, network security, to prevent fraud and in the context of a business reorganisation or group restructuring exercise. Necessary to comply with a legal obligation. |
+| To deliver relevant website content and advertisements to you and measure or understand the effectiveness of the advertising we serve to you | Name, email address, IP address. | Necessary for our legitimate interests i.e., to study how customers use our products/services, to develop them, to grow our business and to inform our marketing strategy. |
+| To use data analytics to improve our website, products/services, marketing, customer relationships and experiences | IP address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website. | Necessary for our legitimate interests to define types of customers for our products and services, to keep our website updated and relevant, to develop our business and to inform our marketing strategy. _Note:_ Where applicable consent will be used for data analytics obtained through cookies or similar technologies. See our cookies policy. |
+| Use of non-essential cookies (where the jurisdiction applies and consent is required) | IP address, your login data, browser type and version, time zone setting and location, browser plug-in types and versions, operating system and platform and other technology on the devices you use to access our website. | Consent |
+
+**Job applicant**
+
+| Processing Activities | Personal Data | Lawful Basis |
+| --- | --- | --- |
+| When you apply for a job with us | Name, contact details, recruitment information (e.g. resume, right-to-work documentation and references), test results (inc. psychometric), qualifications, accreditations and any additional information we may receive from our recruitment partners. | In contemplation (of performance of a contract). |
+| Assessing you for suitability of role | We will use your personal data to assess your suitability for our available roles. | In contemplation (of performance of a contract). |
+
+### ‍**‍  
+4\. Marketing communications**
+
+We may send you marketing communication. You have the right to object to processing of your personal data for direct marketing purposes. You can unsubscribe from receiving marketing communications from us by using the unsubscribe methods contained in communications we send to you or by contacting us.  
+
+Where you opt out of receiving marketing communications this will not apply to personal data provided to us as a result of registering for or using our service, your service experience or other interactions with this website.
+
+### **5\. Disclosure of personal data to third parties**
+
+We sometimes share your personal data with third parties. The types of third parties with which we share personal data are described below:
+
+|     |     |
+| --- | --- |
+| Internally at Ko-fi | Your personal data will be used by our employees and contractors who are working on providing your services to you on a need-to-know basis. |
+| Creators | When a Supporter supports a Creator the following personal data belonging to the Supporter will be shared with the Creators:  <br>  <br>**Data shared for Donations**  <br>\- Name or Username given when you register or make a payment to a Creator  <br>\- Email address  <br>  <br>**Additional data shared for Purchases and Memberships**  <br>\- First name and last name  <br>\- Email address  <br>\- Postal address and phone number  <br>  <br>We collect this information to allow the Creator to deliver any physical items you have requested or entitled to as part of a membership. The Creators receive this personal data as it is required for shipping purposes and as such Creators are responsible for their own lawful processing of information made available to them by the service. Ko-fi facilitates a direct relationship between Creators and Supporters. Creators receive certain contact information from Supporters such as email addresses and transaction information such as delivery addresses and phone numbers when required for shipping providers and as such Creators are responsible for their own lawful processing of information made available to them by the service. |
+| Third Party Payment Processors | We are not a payment processor. Payments are facilitated directly between users of the platform including the Creators and Supporters, via third party payment providers such as PayPal and Stripe. Before creating an account or making a payment please take a moment to read the privacy policies of these payment providers:  <br>  <br>\- PayPal whose Privacy Policy can be found at [https://www.paypal.com/en/webapps/mpp/ua/privacy-full](https://www.paypal.com/en/webapps/mpp/ua/privacy-full)  <br>\- Stripe whose Privacy Policy can be found at [https://stripe.com/privacy](https://stripe.com/privacy) |
+| Third Party Service Providers | We may connect users to third party services listed below to perform certain functions. Before using our website please take a moment to read the privacy policies of these third-party services.  <br>  <br>**Users can authenticate (log in to Ko-fi) via the following services:**  <br>\- Google whose Privacy Policy can be found at [https://policies.google.com/privacy](https://policies.google.com/privacy). Revoke access at any time directly in your Google account at [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions)  <br>\- X (formerly Twitter) whose Privacy Policy can be found at [https://twitter.com/en/privacy](https://twitter.com/en/privacy)  <br>\- Facebook whose Privacy Policy can be found at [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)  <br>\- Twitch whose Privacy Policy can be found at [https://www.twitch.tv/p/en/legal/privacy-notice/](https://www.twitch.tv/p/en/legal/privacy-notice/)  <br>  <br>**Users can connect to Chat and set up Stream Alerts via:**  <br>\- YouTube whose Privacy Policy can be found at [https://policies.google.com/privacy](https://policies.google.com/privacy). Revoke access at any time directly in your Google account at [https://myaccount.google.com/permissions](https://myaccount.google.com/permissions). Ko-fi uses YouTube API Services to connect to YouTube (find out more).  <br>\- Twitch whose Privacy Policy can be found at [https://www.twitch.tv/p/en/legal/privacy-notice/](https://www.twitch.tv/p/en/legal/privacy-notice/) |
+| Third parties where required by law | We may disclose your personal data to a third party if it is necessary to comply with a legal obligation, to enforce or apply our terms of use and other agreements or to protect the rights, property, or safety of our clients or others.  <br>  <br>This includes exchanging information with other companies and organisations for the purposes of fraud protection or tax reporting purposes laid down in law such as platform tax rules and its equivalent. |
+| Professional advisors | We may disclose personal data to our professional advisors, such as lawyers, auditors, and insurers, if necessary as part of the professional services they provide us with. |
+| Third parties in connection with a business sale | If we make a sale or transfer of assets or are otherwise involved in a merger, business / asset transfer, we may transfer your personal data to one or more third parties as part of that transaction. If a change happens to our business, the new owners may use your personal data in the same way as set out in this privacy policy. |
+
+### **6\. Data security**
+
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know. They will only process your personal data on our instructions and they are subject to a duty of confidentiality.  
+‍  
+The transmission of information via the internet is not completely secure. Although we will take reasonable measures to protect your personal data, we cannot guarantee the security of your information transmitted and any transmission is at your own risk.
+
+### **7\. International transfers of your personal data**
+
+Where personal data is shared and disclosed as set out above, these parties may be established outside the European Economic Area (“EEA”) and the United Kingdom (UK). Whenever we transfer your personal data outside the EEA and the United Kingdom we ensure that a similar degree of protection is afforded to it by ensuring appropriate safeguards are implemented.  
+
+This may include where appropriate signing up to safeguard mechanisms such as Standard Contractual Clauses endorsed by the UK Government or European Commission. To find out more information regarding the specific mechanism used by us when transferring your personal data outside the EEA and the United Kingdom please contact us at [data@ko-fi.com](mailto:data@ko-fi.com).
+
+### **8\. How long do you keep my data for?**
+
+We will only retain your personal data for as long as we need it unless we are required to keep it for longer to comply with our legal, accounting, or regulatory requirements. In some circumstances we may carefully anonymise your personal data so that it can no longer be associated with you, and we may use this anonymised information indefinitely without notifying you. We use this anonymised information to improve the way we work and our services. We delete information relating to purchases from us 7 years after your last order with us.  
 
 Other information related to your account will be deleted 2 years after your account has become inactive.
 
-### **6\. Marketing**
-
-We may send you marketing messages from time to time in accordance with your marketing preferences. You can ask us to stop sending you marketing messages at any time by following the opt-out links in any message sent to you or by contacting us at [data@ko-fi.com](mailto:data@ko-fi.com). 
-
-Please note that opting out of marketing does not opt you out of receiving important business communications, such as service announcements or security information. If you opted-in to our marketing messages, we rely on our consent to contact you. Otherwise, we rely on our legitimate interests to promote our business when reaching out to our Creators and Supporters who are likely to be interested in hearing from us.**‍**
-
-### **7\. Your rights and controlling your personal data**
+### **9\. Your rights and controlling your personal data**
 
 You may exercise certain rights regarding your data, such as the following:
 
 * **The right to access.** If you wish to access your personal data, you can do so at any time by contacting us.
 * **The right to seek rectification.** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us.
 * **The right to deletion.** You can ask us to delete or remove your personal data from our systems where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).  
-* **The right to object.** You have the right to object to the processing of your personal data at any time for direct marketing purposes. You can also object in certain other circumstances to our continued processing of your personal data. 
+* **The right to object.** You have the right to object to the processing of your personal data at any time for direct marketing purposes. You can also object in certain other circumstances to our continued processing of your personal data.
 * **The right of restriction.** You have the right, under certain circumstances, to restrict the processing of your data.
 * **The right to data portability.** You have the right under certain circumstances to be provided with a copy of the personal data we have on you in a structured, machine-readable and commonly used format and for us to transfer it to a third party.
-* **The right to withdraw consent.** You have the right to withdraw consent to our processing of your personal data where we have collected and processed it with your consent. 
+* **The right to withdraw consent.** You have the right to withdraw consent to our processing of your personal data where we have collected and processed it with your consent.  
+    
 
-Any requests to exercise these rights can be done by emailing [data@ko-fi.com](mailto:data@ko-fi.com). These requests can be exercised free of charge and will be addressed as early as possible and always within one month.
+**Carrying out your data subject rights**
 
-You also have the right to make a complaint to your supervisory authority. In the UK, this is the Information Commissioner’s Office (www.ico.org.uk).**‍**
+You will not have to pay a fee to access your personal data or to exercise any of the other rights. However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive. We may need to request specific information from you to help us confirm your identity and ensure your right to access your personal information or to exercise any of your other rights. This is a security measure to ensure that personal information is not disclosed to any person who has no right to receive it. We may also contact you to ask you for further information in relation to your request to speed up our response.
 
-### **8\. Cookie Policy**
+We try to respond to all legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a number of requests. In this case, we will notify you and keep you updated.
 
-Ko-fi.com use cookies to operate the service and improve it.
+If you wish to exercise any of the rights set out above, please contact us at [data@ko-fi.com](mailto:data@ko-fi.com)    
 
-Our website uses cookies to collect information about your access to the site. Cookies are pieces of information that include a unique reference code that a website transfers to your device to store and sometimes track information about you. We use CookieYes to deliver this information to you. For further information, [Please click](#). **‍**
+Any requests to exercise these rights can be done by emailing [data@ko-fi.com](mailto:data@ko-fi.com). These requests can be exercised free of charge and will be addressed as early as possible and normally within one month. If we require an extension of up to two months under Data Protection Laws, we will let you know.
 
-### **9\. Disclosing your information**
+### **10\. Concerns and complaints**
 
-Where any of your data is required for such a purpose, we will take all reasonable steps to ensure that your data will be handled safely, securely, and in accordance with your rights, our obligations, and the obligations of the third party under GDPR and the law.
+We would appreciate the chance to deal with your concerns in the first instance. Please contact us at [data@ko-fi.com](mailto:data@ko-fi.com) . If you have unresolved issues you have the right to complain at any time to a data protection supervisory authority for data protection issues such as the UK data protection regulator – the Information Commissioner’s Office (ICO).  
 
-#### **Disclosing Supporter information to Creators**
+If you live or work outside the UK or you have a complaint concerning our personal data processing activities you may lodge a complaint with a supervisory authority.  
 
-When you support a Creator, we may share your:
+### **11\. Cookie Policy**
 
-* Name or username registered with us when you make a payment to a Creator
-* email address,
-* physical address, (only where it is required to deliver a product that you have purchased)
-* any transaction information entered on Ko-fi required to facilitate direct communication between the Creator and Supporter, the fulfilment of transactions or calculation of tax liabilities, and
-* some aggregated and anonymised information about your support that cannot identify you.
+Ko-fi.com use cookies to operate the service and improve it. Our website uses cookies to collect information about your access to the site. Cookies are pieces of information that include a unique reference code that a website transfers to your device to store and sometimes track information about you. We use CookieYes to deliver this information to you. For further information please see our [Cookies Policy.](#)
 
-Please note that when a Supporter makes a payment to a Creator using the Ko-fi platform, their PayPal or Stripe information may be shared with the Creator through PayPal or Stripe. To find out more, please check the help pages available [here](https://help.ko-fi.com/hc/en-us/articles/115004001294-What-Personal-Information-Is-Shared-on-Ko-fi-). 
+### **12\. Links to other sites**
 
-Creators are responsible for how they use the data collected on Ko-fi. By following, supporting, subscribing or buying from a Creator on Ko-fi you are directing us to share your information in this way. If you do not wish for information to be disclosed to a Creator please do not use Ko-fi.
+We are not responsible for any other sites not operated by Ko-fi Labs Limited. Please note that our [Terms of Use](https://ko-fi.com/home/terms) and our policies will not apply to other websites that you get to via a link from our site. We have no control over how your data is collected, stored or used by other websites and we advise you to check the privacy policies of any such websites before providing any data to them.
 
-Creators may contact you outside of Ko-fi and you agree to contact them directly should you wish to withdraw your consent to contact you. It will be wholly the responsibility of the Creator, not Ko-fi to use your data in accordance with applicable laws.
+### **13\. Changes**
 
-### **10\. Links to other sites**
-
-We are not responsible for any other sites not operated by Ko-fi Labs Limited
-
-Please note that our [Terms of Use](https://ko-fi.com/home/terms) and our policies will not apply to other websites that you get to via a link from our site. We have no control over how your data is collected, stored or used by other websites and we advise you to check the privacy policies of any such websites before providing any data to them.
-
-### **11\. Changes**
-
-Come back to this page for updates
-
-If we change our Privacy Policy, we will post the changes on this page. If we decide to, we may also email you.
+This privacy policy may be changed from time to time in response to legal, technical or business developments. We will take appropriate measures to inform you when we update our privacy policy.
 
 **Privacy Policy (Ended since 16th February 2024)**
 
