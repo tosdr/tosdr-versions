@@ -176,9 +176,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [Tech risk and compliance masterclass](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-series/)
-* [Tech risk & compliance masterclass: An evidence-based approach to building by-design risk and compliance practices](https://www.onetrust.com/resources/tech-risk-and-compliance-masterclass-an-evidence-based-approach-to-building-by-design-risk-and-compliance-practices-webinar/)
-* [The new data landscape: Navigating the shift to AI-ready data](https://www.onetrust.com/resources/the-new-data-landscape-navigating-the-shift-to-ai-ready-data-webinar/)
+* [Getting Ready for the EU AI Act, Phase 1: Discover & Catalog, The Gartner® Report​](https://www.onetrust.com/resources/getting-ready-for-the-eu-ai-act-phase-1-discover-and-catalog-the-gartner-report/)
+* [OneTrust AI Governance demo video](https://www.onetrust.com/resources/onetrust-ai-governance-demo-video/)
+* [OneTrust Solution & Product Demos](https://www.onetrust.com/resources/onetrust-demos/)
 
 ### Platform
 
