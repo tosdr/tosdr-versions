@@ -2,8 +2,6 @@
 
 [Home](https://ifdb.org/) [Browse](https://ifdb.org/search?browse)
 
- ![](/img/search_small.svg)
-
 * [Log In](https://ifdb.org/login?dest=home)
 
 IFDB Terms of Service
