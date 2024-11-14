@@ -197,9 +197,6 @@ SearchCtrl + K
                     
                 * [Framework Support (ESX/QBCore) and Auto Fines](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/framework-support-esx-qbcore-and-auto-fines)
                     
-                    * [Depreciated: ESX Support](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/framework-support-esx-qbcore-and-auto-fines/esx-support)
-                        
-                    
                 * [FivePD](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/fivepd)
                     
                 * [ForceReg](https://info.sonorancad.com/integration-plugins/in-game-integration/fivem-installation/available-plugins/forcereg)
