@@ -741,7 +741,7 @@ POWERUP Toys - Tailor Toys LLC
 
 ###### Contact
 
-* [Shipping Information](https://www.poweruptoys.com/pages/shipping-information-2024)
+* [Holiday Shipping](https://www.poweruptoys.com/pages/holiday-shipping-2024)
     
 * [Track my Order](https://shaipoweruptoys.aftership.com/?page-name=tracking-page)
     
