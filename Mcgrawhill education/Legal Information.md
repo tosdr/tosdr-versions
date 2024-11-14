@@ -221,7 +221,7 @@ Follow McGraw Hill
 * |
 * [Site Map](https://www.mheducation.com/site-map.html)
 
-©2024 McGraw Hill. All Rights Reserved.
+© 2024 McGraw Hill. All Rights Reserved.
 
 * [Terms of Use](https://www.mheducation.com/terms-use.html)
 * |
@@ -233,7 +233,7 @@ Follow McGraw Hill
 * |
 * [Site Map](https://www.mheducation.com/site-map.html)
 
-©2024 McGraw Hill. All Rights Reserved.
+© 2024 McGraw Hill. All Rights Reserved.
 
 * [Terms of Use](https://www.mheducation.com/terms-use.html)
 * |
@@ -245,7 +245,7 @@ Follow McGraw Hill
 * |
 * [Site Map](https://www.mheducation.com/site-map.html)
 
-©2024 McGraw Hill. All Rights Reserved.
+© 2024 McGraw Hill. All Rights Reserved.
 
 Sign In
 -------
