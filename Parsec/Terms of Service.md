@@ -234,6 +234,7 @@ Social
 * [![X icon](https://cdn.sanity.io/images/fuvbjjlp/production/e9d8edc63e910a02d4c70d2cd3777e63d97e5a56-32x32.svg)](https://www.twitter.com/unity)
 * [![Facebook icon](https://cdn.sanity.io/images/fuvbjjlp/production/3c67aed6455caf27f09c3f552c581d0815b1ec01-24x24.svg)](https://www.facebook.com/unity3d)
 * [![Instagram icon](https://cdn.sanity.io/images/fuvbjjlp/production/0d84cf67aa301c88e9eb1559d8d20ea14b73159a-24x24.svg)](https://www.instagram.com/unitytechnologies)
+* [![Reddit icon](https://cdn.sanity.io/images/fuvbjjlp/production/409bfc1bb9db03458d2bcedf36aba253211f87f2-32x32.svg)](https://www.reddit.com/r/Unity3D/)
 
 Currency
 
