@@ -204,7 +204,7 @@ If you are located in the EEA, Security Tech OÜ is the entity responsible for t
 ###### RealVPN](https://realvpn.io/)
 
 * [](https://www.facebook.com/realvpn.io/)
-* [](https://twitter.com/realvpn_io)
+* [](https://x.com/realvpn_io)
 * [](https://www.instagram.com/realvpn.io)
 
 ###### Company
