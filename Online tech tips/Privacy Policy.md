@@ -93,6 +93,18 @@ We use a third party to provide monetization technologies for our site. You can 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
 
+[![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "3D-rendering-of-Grok-logo - Online Tech Tips")
+
+![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-300x200.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/)
+
+[News](https://www.online-tech-tips.com/category/news/) · 2 min read
+
+### [X is Rolling Out a Free Tier of Its Grok AI Chatbot](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/)
+
+X (formerly Twitter) is testing a free tier of Grok, its humorous AI search assistant, for non-paying users. Grok is…
+
+Sodiq Olanrewaju · Nov 13, 2024
+
 [![Google Vids dashboard sample - google-vids-dashboard-sample](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "google-vids-dashboard-sample - Online Tech Tips")
 
 ![Google Vids dashboard sample - google-vids-dashboard-sample](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-vids-dashboard-sample-300x200.png "google-vids-dashboard-sample - Online Tech Tips")](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/)
@@ -117,9 +129,7 @@ WhatsApp’s latest feature, Custom Lists, permits the creation of custom catego
 
 Sodiq Olanrewaju · Nov 4, 2024
 
-[![ChatGPT web search icon - chatgpt-web-search-icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "chatgpt-web-search-icon - Online Tech Tips")
-
-![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-300x200.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
+[![ChatGPT web search icon - chatgpt-web-search-icon](https://www.online-tech-tips.com/wp-content/uploads/2024/10/chatgpt-web-search-icon-300x200.png "chatgpt-web-search-icon - Online Tech Tips")](https://www.online-tech-tips.com/openai-launches-chatgpt-search-to-battle-google-and-bing-search/)
 
 [News](https://www.online-tech-tips.com/category/news/) · 2 min read
 
@@ -128,16 +138,6 @@ Sodiq Olanrewaju · Nov 4, 2024
 Source: OpenAI OpenAI is incorporating web search functionality into ChatGPT to help users find better answers from relevant, trustworthy, and…
 
 Sodiq Olanrewaju · Nov 1, 2024
-
-[![WhatsApp application on an Android phone overlayed by a WhatsApp logo - whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/10/whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo-1.png "whatsapp-application-on-an-android-phone-overlayed-by-a-whatsapp-logo - Online Tech Tips")](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
-
-[News](https://www.online-tech-tips.com/category/news/) · 2 min read
-
-### [WhatsApp Launches Cloud-Based Contact Managment Feature](https://www.online-tech-tips.com/whatsapp-launches-cloud-based-contact-managment-feature/)
-
-WhatsApp is introducing a new way for users to save and manage contacts on their devices. The instant messaging platform…
-
-Sodiq Olanrewaju · Oct 29, 2024
 
 [VIEW MORE POSTS](https://www.online-tech-tips.com/category/news/)
 
@@ -183,6 +183,10 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 
 #### Recent Articles
 
+* [![3D rendering of the Grok logo - 3D-rendering-of-Grok-logo](https://www.online-tech-tips.com/wp-content/uploads/2024/11/3D-rendering-of-Grok-logo-130x85.jpg "3D-rendering-of-Grok-logo - Online Tech Tips")](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/ "X is Rolling Out a Free Tier of Its Grok AI Chatbot")
+    
+    [X is Rolling Out a Free Tier of Its Grok AI Chatbot](https://www.online-tech-tips.com/x-is-rolling-out-a-free-tier-of-its-grok-ai-chatbot/ "X is Rolling Out a Free Tier of Its Grok AI Chatbot")Nov 13, 2024
+    
 * [![Google Vids dashboard sample - google-vids-dashboard-sample](https://www.online-tech-tips.com/wp-content/uploads/2024/11/google-vids-dashboard-sample-130x85.png "google-vids-dashboard-sample - Online Tech Tips")](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/ "Google Launches Vids, an AI Video Tool for Workspace Users")
     
     [Google Launches Vids, an AI Video Tool for Workspace Users](https://www.online-tech-tips.com/google-launches-vids-an-ai-video-tool-for-workspace-users/ "Google Launches Vids, an AI Video Tool for Workspace Users")Nov 11, 2024
@@ -194,10 +198,6 @@ Get daily tips, tricks, guides, and special offers delivered right to your inbox
 * [![ - preview-media-1-reboot-wifi-feature-img](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-reboot-wifi-feature-img-130x85.png "preview-media-1-reboot-wifi-feature-img - Online Tech Tips")](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")
     
     [How to Reboot a WiFi Router](https://www.online-tech-tips.com/how-to-reboot-a-wifi-router/ "How to Reboot a WiFi Router")Nov 6, 2024
-    
-* [![ - preview-media-1-snapchat-featured](https://www.online-tech-tips.com/wp-content/uploads/2024/11/preview-media-1-snapchat-featured-130x85.png "preview-media-1-snapchat-featured - Online Tech Tips")](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")
-    
-    [How to See Mutual Friends On Snapchat](https://www.online-tech-tips.com/how-to-see-mutual-friends-on-snapchat/ "How to See Mutual Friends On Snapchat")Nov 4, 2024
     
 
 [![Online Tech Tips](/wp-content/themes/ott/images/ott-banner.png)](https://www.online-tech-tips.com/)
