@@ -1,3 +1,19 @@
+* [Лимит экранного времени](https://kids360.app/limit-ekrannogo-vremeni)
+* [Блокировка приложений](https://kids360.app/ru/blokirovka-prilozhenij)
+* [Веб-контроль](https://kids360.app/ru/bezopasnyy-internet)
+* [Статистика приложений](https://kids360.app/ru/statistika-ispolzovaniya-prilozhenij)
+* [Громкий сигнал](https://kids360.app/ru/gromkij-signal)
+* [Ребенок на карте](https://kids360.app/ru/otslezhivanie-mestopolozheniya)
+* [Задания для ребёнка](https://kids360.app/ru/zadaniya-dlya-detey)
+
+* [Screen Time Limits](https://kids360.app/screen-time-limits)
+* [App Blocker](https://kids360.app/app-blocker)
+* [Internet Safety](https://kids360.app/internet-safety)
+* [App Usage Statistics](https://kids360.app/app-usage-statistics)
+* [Loud Signal](https://kids360.app/loud-signal)
+* [Location Tracking](https://kids360.app/location-tracking-for-child)
+* [Developmental Tasks for Kids](https://kids360.app/developmental-tasks-for-kids)
+
 [![](https://static.tildacdn.one/tild3366-6136-4063-b862-626566303530/Kids_full_logo_2.png)](https://kids360.app/)
 
 **Privacy Policy and Personal Data Processing Statement**  
