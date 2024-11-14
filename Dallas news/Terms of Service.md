@@ -1,4 +1,4 @@
-![](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=50&width=50&smart=true&quality=80)
+[![](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=50&width=50&smart=true&quality=80)](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
@@ -234,7 +234,7 @@ Email: [DMCA@dallasnews.com](mailto:DMCA@dallasnews.com)
 
 [](http://www.facebook.com/sharer/sharer.php?u=https://www.dallasnews.com/help/terms-of-service/&title=Terms%20of%20Service "Share on Facebook")[](https://twitter.com/intent/tweet?text=Terms%20of%20Service&url=https://www.dallasnews.com/help/terms-of-service/ "Share on Twitter")[](mailto:?subject=DallasNews.com%3A%20Terms%20of%20Service&body=From%20The%20Dallas%20Morning%20News%3A%0A%0ATerms%20of%20Service%0A%0Ahttps://www.dallasnews.com/help/terms-of-service/ "Share via Email")[](javascript:window.print() "Print")
 
-[![The Dallas Morning News](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=140&width=140&smart=true&quality=80)](https://www.dallasnews.com/author/the-dallas-morning-news)
+[![The Dallas Morning News](https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/v2/https%3A%2F%2Fs3.amazonaws.com%2Farc-authors%2Fdmn%2Fc8973d2b-e5d3-49a8-a88d-2507acb8fb11.png?auth=52229f806c1750cb2b3aaae8c2f2ac13377589896623170d5704f9a83331c03e&height=50&width=50&smart=true&quality=80)](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
 By [The Dallas Morning News](https://www.dallasnews.com/author/the-dallas-morning-news/)
 
