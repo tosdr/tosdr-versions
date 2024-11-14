@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum/sunce.jpg?itok=CiQBc1fR)](http://seecult.org/galerija/galerija-umetnika/margareta-jelic/quaternio-terminorum)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/olga-jancic/skulpture/untitled/skulptura-001.jpg?itok=e9-B-tnh)](http://seecult.org/galerija/galerija-umetnika/olga-jancic/skulpture/untitled)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/novih-7-svetskih-cuda/koloseum-rim.jpg?itok=VyP0gfel)](http://seecult.org/galerija/foto-galerija/foto-arhiva/novih-7-svetskih-cuda)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/exit-09/arctic-monkeys.jpg?itok=Ipd75mtV)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/exit-09)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
