@@ -1,3 +1,7 @@
+[Review and sign transactions from a single secure screen with Ledger Flex™
+
+Discover now](https://shop.ledger.com/pages/ledger-flex)
+
 Our Website now exists in . Do you want to change languages?
 
 Yes, please No, I'm good
