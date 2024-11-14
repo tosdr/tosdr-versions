@@ -190,7 +190,7 @@ Hi
         
     * [New! (77)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (56)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (57)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -252,12 +252,12 @@ Hi
         * [Cottage Cheese (2)](https://www.smithbrothersfarms.com/cottage-cheese)
             
         
-    * [Produce (89)](https://www.smithbrothersfarms.com/produce-3)
+    * [Produce (88)](https://www.smithbrothersfarms.com/produce-3)
         
         * BACK
         * [Harvest Box (1)](https://www.smithbrothersfarms.com/bulk-boxes)
             
-        * [Fruit (29)](https://www.smithbrothersfarms.com/fruit)
+        * [Fruit (28)](https://www.smithbrothersfarms.com/fruit)
             
         * [Vegetables (29)](https://www.smithbrothersfarms.com/vegetables)
             
@@ -284,10 +284,10 @@ Hi
         * [Cookies (3)](https://www.smithbrothersfarms.com/cookie)
             
         
-    * [Meat (51)](https://www.smithbrothersfarms.com/meat-poultry)
+    * [Meat (52)](https://www.smithbrothersfarms.com/meat-poultry)
         
         * BACK
-        * [Beef, Pork, & Poultry (13)](https://www.smithbrothersfarms.com/poultry)
+        * [Beef, Pork, & Poultry (14)](https://www.smithbrothersfarms.com/poultry)
             
         * [Bacon & Breakfast Meat (14)](https://www.smithbrothersfarms.com/bacon-breakfast-meat)
             
@@ -296,10 +296,10 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (76)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (75)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
-        * [Frozen Meals (32)](https://www.smithbrothersfarms.com/entrees)
+        * [Frozen Meals (31)](https://www.smithbrothersfarms.com/entrees)
             
         * [Sides & Appetizers (22)](https://www.smithbrothersfarms.com/sides-and-apps)
             
