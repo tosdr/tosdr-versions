@@ -70,7 +70,7 @@ Suggested Searches
 
 ### NASA Funds New Studies Looking at Future of Sustainable Aircraft
 
-article22 hours ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+article1 day ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
 4 min read
 
@@ -259,7 +259,7 @@ article 2 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mini
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
 
 ### Highlights
 
@@ -269,13 +269,13 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-g
 
 ### Wearable Tech for Space Station Research
 
-article 3 hours ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
+article 11 hours ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
 
 2 min read
 
 ### Station Science Top News: Nov. 8, 2024
 
-article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 6 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 2 hours ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
+article 10 hours ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![NASA-developed Technology Supports Ocean Wind Speed Measurements from Commercial Satellite](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/technology-highlights/2024/NGRx_Image_2.jpg)
 
 4 min read
 
@@ -307,23 +307,23 @@ article 5 days ago](https://www.nasa.gov/missions/nisar/powerful-new-us-indian-s
 
 ### Highlights
 
-[![](https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/Neil%20Zeller_Tripod%20Aurora.jpg)
+[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
-article 1 hour ago](https://science.nasa.gov/feature/nasas-guide-to-finding-and-photographing-auroras/)[![The Next Full Moon Will Be the Last of Four Consecutive Supermoons](https://images-assets.nasa.gov/image/GRC-2024-C-10124/GRC-2024-C-10124~large.jpg)
+### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-24 min read
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
 
-### The Next Full Moon Will Be the Last of Four Consecutive Supermoons
+1 min read
 
-article 12 hours ago](https://science.nasa.gov/solar-system/skywatching/the-next-full-moon-will-be-the-last-of-four-consecutive-supermoons/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+### Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.
 
-4 min read
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)[![](https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/Neil%20Zeller_Tripod%20Aurora.jpg)
 
-### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
+1 min read
 
-article 2 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)
+article 9 hours ago](https://science.nasa.gov/feature/nasas-guide-to-finding-and-photographing-auroras/)
 
 ### Featured
 
@@ -333,13 +333,13 @@ article 2 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mini
 
 ### NASA’s Swift Studies Gas-Churning Monster Black Holes
 
-article 3 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
+article 11 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
 
 2 min read
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 5 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
+article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)[![NASA’s NEOWISE Spacecraft Re-Enters Atmosphere, But More Discoveries Await!](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/citizen-science/highlights/2024/neowise-citizenscience-logos.jpg)
 
 2 min read
 
@@ -349,67 +349,69 @@ article 1 week ago](https://science.nasa.gov/get-involved/citizen-science/nasas-
 
 ### Highlights
 
-[![A Puerto Rican man with a bushy white beard, green bucket hat, teal longsleeve shirt, and black shorts gestures to a group of high school students wearing neon orange shirts.](https://www.nasa.gov/wp-content/uploads/2024/11/img-2293.jpg?w=1024)
+[![American Society for Gravitational and Space Research (ASGSR) 2024 Logo](https://www.nasa.gov/wp-content/uploads/2024/10/asgsr-2024.jpg?w=800)
 
-3 min read
+2 min read
 
-### Entrevista con Instructor de OCEANOS Samuel Suleiman
+### OSDR at ASGSR 2024
 
-article 18 mins ago](https://www.nasa.gov/general/entrevista-con-instructor-de-oceanos-samuel-suleiman/)[![](https://assets.science.nasa.gov/dynamicimage/assets/science/hpd/itm/Neil%20Zeller_Tripod%20Aurora.jpg)
+article 7 hours ago](https://www.nasa.gov/osdr-at-asgsr-2024/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
-article 1 hour ago](https://science.nasa.gov/feature/nasas-guide-to-finding-and-photographing-auroras/)[![NASA’s Swift Studies Gas-Churning Monster Black Holes](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/swift-observatory/news/2024/at-2021hdr/AT2021hdr_Swift.jpg)
+### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-4 min read
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
 
-### NASA’s Swift Studies Gas-Churning Monster Black Holes
+1 min read
 
-article 3 hours ago](https://science.nasa.gov/missions/swift/nasas-swift-studies-gas-churning-monster-black-holes/)
+### Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.
+
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)
 
 ### Highlights
 
-[![An artist’s concept that depicts a large, broad, white airliner with five propellers on each wing and twin tails with three air intakes between them. The concept aircraft is shown flying above the clouds in a blue sky.](https://www.nasa.gov/wp-content/uploads/2024/11/electra-nasa-aaces-concept-image.jpg?w=1024)
+[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+
+2 min read
+
+### NEAT
+
+article 3 hours ago](https://www.nasa.gov/neat/)[![Image of a paper airplane floating over a shadow of an airplane on a green background](https://www.nasa.gov/wp-content/uploads/2024/11/eap-testing-publications-2.jpg?w=1024)
+
+1 min read
+
+### NEAT Publications
+
+article 4 hours ago](https://www.nasa.gov/neat-publications/)[![An artist’s concept that depicts a large, broad, white airliner with five propellers on each wing and twin tails with three air intakes between them. The concept aircraft is shown flying above the clouds in a blue sky.](https://www.nasa.gov/wp-content/uploads/2024/11/electra-nasa-aaces-concept-image.jpg?w=1024)
 
 5 min read
 
 ### NASA Funds New Studies Looking at Future of Sustainable Aircraft
 
-article 22 hours ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Two images - Left, Diana Acosta holding her daughter in front of the cab of NASA's Vertical Motion Simulator. Right, Diana Acosta with her daughter inside the control deck of the Vertical Motion Simulator.](https://www.nasa.gov/wp-content/uploads/2024/02/acosta-daughter-vms-igted.png?w=1024)
-
-5 min read
-
-### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
-
-article 5 days ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![View from outside a large run stall. The 100-foot-long X-59 sits in the run stall with the engine and the rest of the back of the aircraft sitting outside the run stall’s open bay door.](https://images-assets.nasa.gov/image/AFRC2024-0176-01/AFRC2024-0176-01~large.jpg?w=1920&h=1281&fit=clip&crop=faces%2Cfocalpoint)
-
-4 min read
-
-### X-59 Fires Up its Engine for First Time on its Way to Takeoff
-
-article 1 week ago](https://www.nasa.gov/aeronautics/x-59-fires-up-its-engine-for-first-time-on-its-way-to-takeoff/)
+article 1 day ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)
 
 ### Highlights
 
-[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
+[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+
+1 min read
+
+### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
+
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)[![Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/bosf/images/6-3-prism-400x300-1.jpg)
+
+1 min read
+
+### Amendment 66: F.10 Payloads and Research Investigations on the Surface of the Moon Deferred to ROSES-25.
+
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-66-f-10-payloads-and-research-investigations-on-the-surface-of-the-moon-deferred-to-roses-25/)[![Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/exo-explore/internal_resources/245/Red_dwarf_star_with_possible_planet.jpeg)
 
 1 min read
 
 ### Amendment 65: D.19 Habitable Worlds Observatory System Technology Demonstrations and Mission Architecture Studies Final Text and Due Date.
 
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)[![Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF](https://assets.science.nasa.gov/dynamicimage/assets/science/astro/universe/internal_resources/380/Galaxy_Collision-1.jpeg)
-
-3 min read
-
-### Amendment 64: Significant Changes to Three Astrophysics ROSES Program Elements: D.3 APRA, D.7 SAT, and D.8 RTF
-
-article 6 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-64-significant-changes-to-three-astrophysics-roses-program-elements-d-3-apra-d-7-sat-and-d-8-rtf/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
-
-2 min read
-
-### Power to Explore STEM Writing Challenge
-
-article 6 days ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
+article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-65-d-19-habitable-worlds-observatory-system-technology-demonstrations-and-mission-architecture-studies-final-text-and-due-date/)
 
 ### Featured
 
@@ -457,7 +459,7 @@ article 5 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-re
 
 ### El X-59 enciende su motor por primera vez rumbo al despegue
 
-article 7 days ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/es/el-x-59-enciende-su-motor-por-primera-vez-rumbo-al-despegue/)[![A view of the front of a bustling event tent outfitted with NASA flags and insignia. The tent is centered in the photo and sits atop a concrete airfield, where many people are walking in and out of the tent. A grey-white overcast sky is behind and above the tent.](https://www.nasa.gov/wp-content/uploads/2024/10/nasa-miramarairshow-10012024-dsc00038.jpg?w=1024)
 
 3 min read
 
