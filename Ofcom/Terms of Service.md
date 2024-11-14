@@ -133,6 +133,12 @@
 
 #### Latest news
 
+[![Complaints-visual-web](/siteassets/resources/images/-news-centre/thumbnail-images/phones/complaints-visual-web.jpg?width=1920&height=1085&quality=80)
+
+### Latest telecoms and pay-TV complaints figures revealed
+
+14 November 2024](https://www.ofcom.org.uk/phones-and-broadband/service-quality/latest-telecoms-and-pay-tv-complaints-figures-revealed2/)
+
 [![debate](/siteassets/resources/images/-news-centre/thumbnail-images/about-ofcom/debate-web.png?width=1920&height=1085&quality=80)
 
 ### Greater flexibility for community radio stations to serve local listeners
@@ -150,12 +156,6 @@
 ### Open letter to UK online service providers regarding Generative AI and chatbots
 
 8 November 2024](https://www.ofcom.org.uk/online-safety/illegal-and-harmful-content/open-letter-to-uk-online-service-providers-regarding-generative-ai-and-chatbots/)
-
-[![Close up shot of a radio microphone in a radio studio](/siteassets/resources/images/-news-centre/thumbnail-images/radio/close-up-shot-of-a-radio-microphone-in-a-radio-studio.jpg?width=1920&height=1085&quality=80)
-
-### Community Radio Fund 2024-25 open for applications R2
-
-5 November 2024](https://www.ofcom.org.uk/tv-radio-and-on-demand/community-radio/community-radio-fund-2024-25-open-for-applications-round-2/)
 
  [Cymraeg](https://www.ofcom.org.uk/cy/about-ofcom/our-website/terms-of-use/?language=cy "Switch to Welsh")
 
