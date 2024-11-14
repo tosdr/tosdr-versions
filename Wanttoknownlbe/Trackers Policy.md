@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/de-ufo-op-de-vrachtwagen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/orgonite-wortelkrukjes-wablief/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
