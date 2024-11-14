@@ -391,22 +391,23 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Do a French Manicure](https://www.wikihow.com/images/thumb/e/ee/Do-a-French-Manicure-Step-12-Version-7.jpg/-crop-126-120-126px-Do-a-French-Manicure-Step-12-Version-7.jpg)
+
+How to  
+Do a French Manicure](https://www.wikihow.com/Do-a-French-Manicure)
+
+[![Do You Really Love Someone if You Cheat on Them](https://www.wikihow.com/images/thumb/7/77/Do-You-Really-Love-Someone-if-You-Cheat-on-Them-Step-11.jpg/-crop-126-120-126px-Do-You-Really-Love-Someone-if-You-Cheat-on-Them-Step-11.jpg)
+
+Do You Really Love Someone if You Cheat on Them? Why We Cheat on People We Love](https://www.wikihow.com/Do-You-Really-Love-Someone-if-You-Cheat-on-Them)
+
+[![How Did You Sleep](https://www.wikihow.com/images/thumb/9/9d/How-Did-You-Sleep-Step-8.jpg/-crop-126-120-126px-How-Did-You-Sleep-Step-8.jpg)
+
+How to  
+Reply to “How Did You Sleep?”](https://www.wikihow.com/How-Did-You-Sleep)
+
 [![Finding Dimes Meaning](https://www.wikihow.com/images/thumb/5/59/Finding-Dimes-Meaning-Step-12.jpg/-crop-126-120-126px-Finding-Dimes-Meaning-Step-12.jpg)
 
 What Does it Mean When You Find a Dime?](https://www.wikihow.com/Finding-Dimes-Meaning)
-
-[![What Does WSP Mean](https://www.wikihow.com/images/thumb/d/d7/What-Does-WSP-Mean-Step-11.jpg/-crop-126-120-126px-What-Does-WSP-Mean-Step-11.jpg)
-
-What Does WSP Mean?](https://www.wikihow.com/What-Does-WSP-Mean)
-
-[![Are You Smarter than a 5th Grader Quiz](https://www.wikihow.com/images/thumb/7/76/Are_you_smarter_than_a_fifth_grader_quiz.png/-crop-126-120-126px-Are_you_smarter_than_a_fifth_grader_quiz.png)
-
-Am I Smarter than a 5th Grader Quiz](https://www.wikihow.com/Are-You-Smarter-than-a-5th-Grader-Quiz)
-
-[![Make Instant Coffee](https://www.wikihow.com/images/thumb/1/12/Make-Instant-Coffee-Step-22-Version-6.jpg/-crop-126-120-126px-Make-Instant-Coffee-Step-22-Version-6.jpg)
-
-How to  
-Brew a Cup of Instant Coffee: 5 Delicious Methods](https://www.wikihow.com/Make-Instant-Coffee)
 
   
 
@@ -449,4 +450,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-253
+227
