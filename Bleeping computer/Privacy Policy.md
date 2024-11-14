@@ -36,6 +36,9 @@
         
         New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
     
+    * [![This open-box 2024 Lenovo IdeaPad 5i is only $579.99 (for now)](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This open-box 2024 Lenovo IdeaPad 5i is only $579.99 (for now)](https://www.bleepingcomputer.com/offer/deals/this-open-box-2024-lenovo-ideapad-5i-is-only-57999-for-now/)
     * [![Hackers use macOS extended file attributes to hide malicious code](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
@@ -45,9 +48,6 @@
     * [![Leaked info of 122 million linked to B2B data aggregator breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Leaked info of 122 million linked to B2B data aggregator breach](https://www.bleepingcomputer.com/news/security/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/)
-    * [![Microsoft patches Windows zero-day exploited in attacks on Ukraine](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Microsoft patches Windows zero-day exploited in attacks on Ukraine](https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-exploited-in-attacks-on-ukraine/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
