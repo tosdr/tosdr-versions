@@ -87,7 +87,7 @@ Cookies managing
 
 We use cookies to provide the best site experience.
 
-Accept AllCookie Settings
+Accept All Cookie Settings
 
 Cookies managing
 
@@ -102,13 +102,13 @@ Always On. These cookies are essential so that you can use the website and use i
 
 Analytics cookies
 
-Disabled
+Disabled 
 
 These cookies collect information to help us understand how our Websites are being used or how effective our marketing campaigns are, or to help us customise our Websites for you. See a list of the analytics cookies we use here.
 
 Advertising cookies
 
-Disabled
+Disabled 
 
 These cookies provide advertising companies with information about your online activity to help them deliver more relevant online advertising to you or to limit how many times you see an ad. This information may be shared with other advertising companies. See a list of the advertising cookies we use here.
 
