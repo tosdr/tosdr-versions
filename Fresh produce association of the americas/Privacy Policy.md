@@ -21,7 +21,7 @@ Search for:
     * [Board of Directors](https://www.freshfrommexico.com/team/#board-of-directors)
     * [Committees](https://www.freshfrommexico.com/team/#committees)
 * [Events](https://www.freshfrommexico.com/events/)
-    * [SWIPE 2024](https://swipeexpo.com/)
+    * [SWIPE 2026](https://swipeexpo.com/)
 * [Membership](https://www.freshfrommexico.com/membership/)
     * [Distributor Members](https://www.freshfrommexico.com/distributor-membership-directory/)
     * [Associate Members](https://www.freshfrommexico.com/associate-membership-directory/)
