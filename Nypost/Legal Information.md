@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Exclusive
+
+[Trump slams Hochul move to revive NYC congestion tax: ‘It will hurt workers, families, and businesses’](https://nypost.com/2024/11/14/us-news/trump-slams-hochul-move-to-revive-nyc-congestion-tax/)
+
 Privacy Notice Highlights
 =========================
 
