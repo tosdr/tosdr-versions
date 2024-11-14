@@ -276,6 +276,7 @@ Log in to order, manage your products and services, and track your orders.
             * [Email Pro](https://www.ovhcloud.com/en-ie/emails/email-pro/) The professional email solution for your business
             * [Hosted Exchange](https://www.ovhcloud.com/en-ie/emails/hosted-exchange/) Microsoft Exchange email and your data hosted at OVHcloud
             * [Private Exchange](https://www.ovhcloud.com/en-ie/emails/private-exchange/) Microsoft Exchange email and your data hosted at OVHcloud on an infrastructure dedicated to your business
+            * [Trusted Exchange](https://www.ovhcloud.com/en-ie/emails/trusted-exchange/) Our professional, collaborative, flexible, multi-platform and customised email solution.
             * [All our email solutions](https://www.ovhcloud.com/en-ie/emails/) Compare all our email solutions.
     * [SMS](https://www.ovhcloud.com/en-ie/sms/)
         * Back to menu
@@ -473,7 +474,7 @@ Log in to order, manage your products and services, and track your orders.
             
         * Hosted Private Cloud
             
-            * [Nutanix on OVHcloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/nutanix/) Our scalable, hyperconverged platform (HCI), ready-to-use in just a few hours
+            * [Nutanix on OVHcloud](https://www.ovhcloud.com/en-ie/hosted-private-cloud/nutanix/) Our scalable, ready-to-use Nutanix hyperconverged platform (HCI)
             * [Veeam Enterprise for all your backups](https://www.ovhcloud.com/en-ie/storage-solutions/veeam-enterprise/) A dedicated Veeam Backup Replication solution for all your backups
         * Use cases
             
