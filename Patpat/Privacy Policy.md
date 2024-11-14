@@ -1587,6 +1587,7 @@ SHOP NOW
 
 ##### Products
 
+* [Christmas Pajamas](https://eur.patpat.com/family-matching-outfits-christmas-pajamas-c.html)
 * [Matching Family Outfits](https://eur.patpat.com/family-matching-outfits-c.html)
 * [Character Clothing](https://eur.patpat.com/characters-c.html)
 * [Kids Clothing](https://eur.patpat.com/kids-clothing-c.html)
