@@ -152,7 +152,7 @@ We collect names, email addresses and other business contact information about i
 
 _To send marketing communications_
 
-With your consent, we use your email address or mobile phone number as well as other information on an optional basis to help us tailor our communications to you. You will receive email or text message communications from us or our partners regarding our or our partners’ products, services and initiatives (including collaborations and partnerships).
+With your consent, we use your email address or mobile phone number as well as other information on an optional basis to help us tailor our communications to you. You will receive email or text message communications from us or our partners regarding our or our partners’ products, services and initiatives (including collaborations and partnerships). We do not share or disclose patient mobile phone numbers to third parties for marketing or any other purpose outside of facilitating Opencare services, except where legally required or with explicit patient consent.
 
 If you participate in our referral program to refer a friend or family member to Opencare, we collect your name and email address as well as the name and email address of your friends and family member. We use this information for the purposes of sending the referral link to your friends and family member and tracking your rewards, and do not use your friend or family member’s information for any other purpose without their consent. Please ensure that you only provide information about individuals with whom you have a personal or family relationship, and who would want to receive the communication about Opencare.
 
