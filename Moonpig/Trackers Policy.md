@@ -323,7 +323,7 @@ Menu
     * [Prosecco](https://www.moonpig.com/uk/gifts/alcohol/prosecco/)
     * [All Wine](https://www.moonpig.com/uk/gifts/alcohol/wine/)
     * [Red Wine](https://www.moonpig.com/uk/gifts/alcohol/red-wine/)
-    * [White Wine](https://www.moonpig.com/uk/gifts/alcohol/white-wine/)
+    * [White Wine](https://www.moonpig.com/uk/gifts/alcohol/virgin-wines/white/)
     * [Rosé Wine](https://www.moonpig.com/uk/gifts/alcohol/rose-wine/)
     * [Personalised Alcohol](https://www.moonpig.com/uk/gifts/alcohol/personalised-alcohol/)
     * [Spirits & Whiskey](https://www.moonpig.com/uk/gifts/alcohol/spirits-whiskey/)
