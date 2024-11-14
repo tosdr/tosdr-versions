@@ -228,10 +228,14 @@ This site is protected by reCAPTCHA and the Google [**Privacy Policy**](https://
 
 ![Reason Plus](https://d2eehagpk5cl65.cloudfront.net/wp-content/themes/reason-dot-com-theme/dist/./reason-plus-logo_fa18e919.svg)
 
-#### Go ad-free with Reason Plus.
+#### Special Offer!
 
-And get unlimited access to _everything_ at reason.com.
+* Full digital edition access
+* No ads
+* Commenting privileges
 
-[Learn More](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=popup&utm_medium=internal_ad&utm_campaign=reason_plus)
+Just **$25** per year
 
-reason-plus-modal
+[Join Today!](https://reason.secure.darwin.cx/J4PKEXTR?utm_source=popup&utm_medium=internal_ad&utm_campaign=reason_plus)
+
+reason-plus-modal-2
