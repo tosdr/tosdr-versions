@@ -1,6 +1,6 @@
 5.39.5
 
-1731574055296
+1731595717939
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1731573813850
+1731595717856
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1731572538982
+1731595718605
 
 You need to enable JavaScript to run this app.
 
@@ -544,6 +544,56 @@ The use of a nextpay card (formally known as Directory Card) or the nextpay in-a
 Please note the redemption of the 10% welcome offer to credit applies only to Next.co.uk.
 
  Promotional Offers, Multibuys, Vouchers and Gift Cards
+
+### Bath & Body Works UK Social Media Competition
+
+**Promoter:** The promoter is Next Beauty Limited (Company no. 04521150) whose registered office is at Desford Road, Enderby, Leicester, LE19 4AT (‘Next and Bath & Body Works’).
+
+**Eligibility:** This competition is open to UK residents aged 18 or over, excluding employees of Next and Bath & Body Works, their holding or subsidiary companies, and their immediate family.
+
+**Start date/Time:** 09:00 on 15.11.2024
+
+**Closing date/Time:** 17:00 on 22.11.2024
+
+**How to Enter:**
+
+* Follow @bathandbodyworksuk on the relevant channel they are entering from (Instagram or TikTok).
+* Like the relevant competition post.
+* Tag 3 friends.
+
+No purchase necessary. Multiple entries are permitted. Entries made after 17:00 on 22.11.2024 will not be counted. Next does not accept responsibility for entries not received for whatever reason.
+
+**Prize:** 1x £100 Bath & Body Works gift card. Gift cards are valid for 12 months and can be redeemed against Bath & Body Works products online at next.co.uk or in Bath & Body Works UK stores.
+
+**Winner Selection:** One winner will be selected at random by @bathandbodyworksuk on 25.11.2024 and will be contacted directly by @bathandbodyworksuk via direct message before 17:00 on 29.11.2024.
+
+**Notification:** Next will only notify the winner on the account they entered (Instagram or TikTok) via the official account @bathandbodyworksuk. This competition is in no way endorsed, affiliated with, administered, or sponsored by Meta or TikTok.
+
+**Prize Claim:** The winner must confirm whether they wish to claim the prize within 7 days of being notified and provide the information requested by Next. If the winner fails to do so, Next reserves the right to award the prize to a reserve winner randomly selected. Next does not accept any responsibility if the winner fails to claim the prize.
+
+**Prize Dispatch:** Next will send the prize to the winner via post to the address provided within 14 working days of them claiming the prize. Next does not accept responsibility for any incorrect details provided by the winner.
+
+**Substitute Prize:** In the event of unforeseen circumstances, Next reserves the right to substitute the prize for an alternative of equal or greater value.
+
+**Non-Transferable:** The entirety of this prize is non-transferable and non-refundable. It must be taken as offered and will only be awarded to the winner as specified in these terms and conditions.
+
+**Final Decision:** Next’s decision is final, and no correspondence will be entered into.
+
+**Verification:** Next reserves the right to verify all entries and participants’ eligibility, including but not limited to asking for address and identity details. Next may refuse to award a prize, withdraw prize entitlement, or disqualify a participant if there are reasonable grounds to believe there has been a breach of these terms or if a participant has gained unfair advantage or won using fraudulent means.
+
+**Publicity:** By entering the competition, participants agree to be contacted for competition purposes by email, mail, or telephone, and to their personal details being used to administer the competition. The winner agrees to participate in publicity arising from the promotion, including the use of their name and image in a congratulations competition social media post. If you object to any or all of your details being published, please contact [nextofficial@next.co.uk](mailto:nextofficial@next.co.uk).
+
+**Event Changes:** Events may occur that render the competition or the awarding of a prize impossible due to reasons beyond the control of Next. Accordingly, Next may at its absolute discretion vary, amend, or withdraw the competition, and the winner agrees that no liability shall attach to Next as a result thereof.
+
+**Content Use:** By submitting, posting, or otherwise providing any content, including but not limited to text, images, videos, or other material and any content recorded in any Next store ("Content") to Next, you grant Next a non-exclusive, royalty-free, worldwide, perpetual, irrevocable, and sublicensable right to use, reproduce, modify, adapt, publish, distribute, publicly perform, and display such content, in whole or in part, in any form, media, or technology, whether now known or hereafter developed. This includes the right to use the content for promotional and marketing purposes on our social media platforms.
+
+You also acknowledge that Next may use the content without any obligation to provide compensation, credit, or notice, and you waive any moral rights you may have in such content to the extent permitted by law.
+
+**Limitation of Liability:** To the fullest extent permitted by law, Next excludes all liability for any loss, damage, personal injury, or death suffered by the prize winner as a result of accepting the prize, except where it is caused by the negligence of Next, their agents, distributors, or employees. Your statutory rights are not affected.
+
+**Governing Law:** The competition and these terms and conditions are governed by English law, and the parties submit to the exclusive jurisdiction of the English courts.
+
+**Winner Details:** Details of the competition winner will be available for 14 days after the competition ends by writing to Next Marketing, at Desford Road, Enderby, Leicester, LE19 4AT. Next will provide the details of the winning entry to the Advertising Standards Authority on request.
 
 ### Mystery Cracker Promotion
 
@@ -2927,7 +2977,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1731572960798
+1731596298118
 
 ### Our Social Networks
 
