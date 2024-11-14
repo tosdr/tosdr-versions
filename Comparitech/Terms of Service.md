@@ -126,7 +126,7 @@ Search
     * [Press](https://www.comparitech.com/press/)
     * [Software Testing Methodology](https://www.comparitech.com/how-we-test-and-review-software/)
     * [Editorial Process](https://www.comparitech.com/editorial-process/)
-    * [Join us](https://www.comparitech.com/careers/)
+    * [Careers at Comparitech](https://www.comparitech.com/careers/)
     * [Contact](https://www.comparitech.com/contact/)
 
 Terms of use
