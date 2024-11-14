@@ -18,22 +18,12 @@ FOX SCORES
     
 * [Men's T20I
     
-    IND won by 11 runs
+    AUS won by 29 runs
     
     |     |     |
     | --- | --- |
-    | RSA | 7 /208 |
-    | IND | 6 /219 |
-    
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250403)
-* [Men's T20I
-    
-    14/11 19:00 AEST
-    
-    |     |     |
-    | --- | --- |
-    | AUS | –   |
-    | PAK | –   |
+    | AUS | 4 /93 |
+    | PAK | 9 /64 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250801)
 * [Women's BBL
@@ -46,6 +36,16 @@ FOX SCORES
     | BRI | 9 /139 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250126)
+* [Women's BBL
+    
+    15/11 15:45 AEST
+    
+    |     |     |
+    | --- | --- |
+    | PER | –   |
+    | SYDT | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250127)
 * [Sheffield Shield
     
     |     |     |
@@ -54,6 +54,26 @@ FOX SCORES
     | NSW | 2 /140 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250110)
+* [Sheffield Shield
+    
+    15/11 10:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | VIC | –   |
+    | WA  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250111)
+* [Sheffield Shield
+    
+    15/11 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | QLD | –   |
+    | TAS | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250112)
 * Basketball
     
 * [NBA
@@ -166,14 +186,24 @@ FOX SCORES
     | MEM | 123 |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010214/box-score)
-* [WNBL
+* [NBA
     
-    1st Qtr
+    15/11 13:00 AEST
     
     |     |     |
     | --- | --- |
-    | CAN | 15  |
-    | PER | 14  |
+    | UTA | –   |
+    | DAL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010217)
+* [WNBL
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | CAN | 90  |
+    | PER | 92  |
     
     Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030002/play-by-play)
 * AFL
@@ -224,12 +254,12 @@ FOX SCORES
     
 * [WCQ
     
-    14/11 20:10 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | AUS | –   |
-    | KSA | –   |
+    | AUS | 0   |
+    | KSA | 0   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250501)
 * [WCQ
