@@ -52,7 +52,7 @@ Sign in
 * [Locations](https://www.truist.com/locations)
 * [Contact](https://www.truist.com/contact)
 * [Español](# "Global Switch")
-*  [![](//static.truist.com/content/dam/global-images/more-icon.svg) More](#)
+* [More](#)
     
     [About Truist](https://www.truist.com/who-we-are/about-truist) [Care](https://www.truist.com/care) [Fraud and security](https://www.truist.com/fraud-and-security) [Payment relief](https://www.truist.com/payment-relief/personal-loans) [Careers](https://careers.truist.com/) [Privacy](https://www.truist.com/privacy) [Legal](https://www.truist.com/terms-and-conditions)
     
