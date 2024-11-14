@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/melania-trump-wantrouw-big-pharma/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/hautaine-bol-com-censuur-wegwezen-daar/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
