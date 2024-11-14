@@ -34,7 +34,7 @@ Die wichtigsten Themen auf einen Blick
 
 [Datenschutzhinweise bei Bewerbungen](#DSE_Bewerber)
 
-Wir nehmen Datenschutz ernst: Wir verarbeiten personenbezogene Daten grundsätzlich ausschließlich dann, wenn dies für die Bereitstellung eines Dienstes oder Angebots erforderlich ist oder diese von Ihnen freiwillig bereitgestellt werden. Außerdem schützen wir Ihre Daten mit Hilfe technischer und betrieblicher Sicherungen vor zufälliger oder vorsätzlicher Manipulation, vor Verlust, Zerstörung oder dem Zugriff unberechtigter Personen. Diese Vorkehrungen überprüfen und modernisieren wir regelmäßig.
+Wir nehmen Datenschutz ernst: Wir verarbeiten personenbezogene Daten grundsätzlich ausschließlich dann, wenn dies für die Bereitstellung eines Dienstes oder Angebots erforderlich ist oder diese von den Nutzern freiwillig bereitgestellt werden. Außerdem schützen wir personenbezogene Daten mit Hilfe technischer und betrieblicher Sicherungen vor zufälliger oder vorsätzlicher Manipulation, vor Verlust, Zerstörung oder dem Zugriff unberechtigter Personen. Diese Vorkehrungen überprüfen und modernisieren wir regelmäßig.
 
 #### Datenschutzhinweise bei Bewerbungen
 
@@ -173,20 +173,20 @@ Es gibt folgende Cookie-Typen und Funktionen:
 * **Permanente Cookies:** Permanente Cookies bleiben auch nach dem Schließen des Browsers gespeichert. So können beispielsweise der Login-Status gespeichert oder bevorzugte Inhalte direkt angezeigt werden, wenn der Nutzer eine Website erneut besucht. Ebenso können die Interessen von Nutzern, die zur Reichweitenmessung oder zu Marketingzwecken verwendet werden, in einem solchen Cookie gespeichert werden.
 * **First-Party-Cookies:** First-Party-Cookies werden von uns selbst gesetzt und genutzt, um Benutzerinformationen zu verarbeiten.
 * **Third-Party-Cookies (auch: Drittanbieter-Cookies):** Drittanbieter-Cookies werden hauptsächlich von Werbetreibenden (sog. Dritten) oder anderen Partnern verwendet, um Benutzerinformationen zu verarbeiten.
-* **Unbedingt erfoderliche (auch: essentielle oder notwendige) Cookies:** Diese Cookies gewährleisten Funktionen, ohne die Sie diese digitalen Angebote nicht wie gewünscht nutzen könnten. Sie können für den Betrieb einer Webseite unbedingt erforderlich sein, um beispielsweise Logins oder andere Nutzereingaben zu speichern, oder aus Gründen der Sicherheit.
-* **Analyse- und Statistik-Cookies:** Diese Cookies ermöglichen uns, Ihre Nutzung unserer digitalen Angebote zu analysieren, insbesondere um Reichweiten - also Klicks, Besuchs- und Besucherzahlen - messen zu können. Ziel ist es, die Anzahl der Besuche und Besucher und deren Surfverhalten (Dauer, Herkunft) statistisch – auf Basis eines einheitlichen Standardverfahrens – zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Die gesammelten Informationen werden aggregiert ausgewertet, um daraus Verbesserungen und Optimierungen unserer Produkte ableiten zu können.
-* **Marketing- und Personalisierungs-Cookies:** Ferner werden Cookies eingesetzt, um die Interessen eines Nutzers oder sein Verhalten (z.B. Betrachten bestimmter Inhalte, Nutzen von Funktionen etc.) in einem Nutzerprofil zu speichern. Solche Profile dienen dazu, den Nutzern z.B. Inhalte anzuzeigen, die ihren potentiellen Interessen entsprechen. Dieses Verfahren wird auch als „Tracking“, d.h., Nachverfolgung der potentiellen Interessen der Nutzer bezeichnet. Soweit wir Cookies oder „Tracking“-Technologien einsetzen, informieren wir Sie gesondert in unserer Datenschutzerklärung oder im Rahmen der Einholung einer Einwilligung.
+* **Unbedingt erfoderliche (auch: essentielle oder notwendige) Cookies:** Diese Cookies gewährleisten Funktionen, ohne die diese digitalen Angebote nicht wie gewünscht genutzt werden könnten. Sie können für den Betrieb einer Webseite unbedingt erforderlich sein, um beispielsweise Logins oder andere Nutzereingaben zu speichern, oder aus Gründen der Sicherheit.
+* **Analyse- und Statistik-Cookies:** Diese Cookies ermöglichen uns, die Nutzung unserer digitalen Angebote zu analysieren, insbesondere um Reichweiten - also Klicks, Besuchs- und Besucherzahlen - messen zu können. Ziel ist es, die Anzahl der Besuche und Besucher und deren Surfverhalten (Dauer, Herkunft) statistisch zu bestimmen und somit marktweit vergleichbare Werte zu erhalten. Die gesammelten Informationen werden aggregiert ausgewertet, um daraus Verbesserungen und Optimierungen unserer Produkte ableiten zu können.
+* **Marketing- und Personalisierungs-Cookies:** Ferner werden Cookies eingesetzt, um die Interessen eines Nutzers oder sein Verhalten (z.B. Betrachten bestimmter Inhalte, Nutzen von Funktionen etc.) in einem Nutzerprofil zu speichern. Solche Profile dienen dazu, den Nutzern z.B. Inhalte anzuzeigen, die ihren potentiellen Interessen entsprechen. Dieses Verfahren wird auch als „Tracking“, d.h., Nachverfolgung der potentiellen Interessen der Nutzer bezeichnet. Soweit wir Cookies oder „Tracking“-Technologien einsetzen, informieren wir darüber gesondert in unserer Datenschutzerklärung oder im Rahmen der Einholung einer Einwilligung.
 
 ### Technische Bereitstellung und Sicherheit
 
-Wenn Sie unser Angebot nutzen, werden durch uns automatisch unbedingt erforderliche Technologien eingesetzt, um die Nutzbarkeit der bereitgestellten Funktionen zu ermöglichen und die Sicherheit und Stabilität unseres Angebots zu gewährleisten:
+Wenn unser Angebot genutzt wird, werden durch uns automatisch unbedingt erforderliche Technologien eingesetzt, um die Nutzbarkeit der bereitgestellten Funktionen zu ermöglichen und die Sicherheit und Stabilität unseres Angebots zu gewährleisten:
 
 * Informationen über das zugreifende Endgerät und die verwendete Software
 * Datum und Uhrzeit des Zugriffs
-* Websites, von denen Sie auf unsere Website gelangt oder die Sie über unsere Website aufrufen
+* Websites, von denen der Nutzer auf unsere Website gelangt oder die der Nutzer über unsere Website aufruft
 * IP-Adresse
 
-Die Verarbeitung der IP-Adresse ist unbedingt erforderlich, um eine Auslieferung unseres Angebots an Ihr Endgerät zu ermöglichen sowie die Leistungsfähigkeit und Performance unseres Angebots zu messen. Nutzungsprofile werden dabei nicht erstellt. Unsere Server speichern Ihre IP-Adresse für bis zu sieben Tagen zu dem Zweck und dem Interesse, die Sicherheit unseres Angebots gewährleisten zu können. Die anderen Daten werden nach 30 Tagen gelöscht.
+Die Verarbeitung der IP-Adresse ist unbedingt erforderlich, um eine Auslieferung unseres Angebots an das Endgerät zu ermöglichen sowie die Leistungsfähigkeit und Performance unseres Angebots zu messen. Nutzungsprofile werden dabei nicht erstellt. Unsere Server speichern die IP-Adresse für bis zu sieben Tagen zu dem Zweck und dem Interesse, die Sicherheit unseres Angebots gewährleisten zu können. Die anderen Daten werden nach 30 Tagen gelöscht.
 
 **Kontoübernahme zur Fehlerbehebung**  
 Wenn Sie uns wegen eines Fehlers beim Betrieb unseres digitalen Angebots kontaktieren, können wir zur Fehlerermittlung und -behebung kurzeitig Ihr SZ-Konto übernehmen, um den Fehler nachvollziehen und schneller beheben zu können. Dies ist lediglich für wenige Minuten erforderlich, um Informationen über Version, Betriebssystem u.ä. zu erhalten.
@@ -1094,7 +1094,7 @@ Verantwortlicher im Sinne der DSGVO ist die
 Hultschiner Str. 8  
 81677 München
 
-Unseren **Datenschutzbeauftragten** erreichen Sie unter
+Unseren **Datenschutzbeauftragten** ist erreichbar unter
 
 **atarax Unternehmensgruppe**
 
