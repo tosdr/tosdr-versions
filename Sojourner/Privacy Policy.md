@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-452f28a6ceebecd6942854384d41c835
+57be0bc615ee19e74e8c0d1131b7ffb3
 
 [](# "Expand for more options")[](# "Search")
 
@@ -171,11 +171,11 @@ Sojourner may revise this policy as needed by updating this posting.
 
 ### Featured Product
 
-[![Opalescent bracelet clasp](https://www.sojourner.biz/images/cache/SKU0522front.200.jpg)](https://www.sojourner.biz/clasps/bracelet-clasps/opalescent-bracelet-clasp.html "Opalescent bracelet clasp")
+[![Faceted apatite chunks](https://www.sojourner.biz/images/cache/stone/APT002.200.jpg)](https://www.sojourner.biz/beads/stone-a-l/apatite/faceted-apatite-chunks.html "Faceted apatite chunks")
 
-#### [Opalescent bracelet clasp](https://www.sojourner.biz/clasps/bracelet-clasps/opalescent-bracelet-clasp.html "Opalescent bracelet clasp")
+#### [Faceted apatite chunks](https://www.sojourner.biz/beads/stone-a-l/apatite/faceted-apatite-chunks.html "Faceted apatite chunks")
 
-$33.00
+$60.00
 
 ### Best Sellers
 
