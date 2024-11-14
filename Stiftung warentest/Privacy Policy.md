@@ -806,21 +806,21 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
 
 Fußbereich
 
@@ -3840,59 +3840,59 @@ Weitere spannende Themen
 
 Neueste Tests
 
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
 
 Weitere spannende Themen
 
 Neueste Tests
 
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
 
 Neueste Tests
 
+* [Tablets im Test: Die güns­tige Mittel­klasse greift an](https://www.test.de/Tablets-im-Test-4627215-0/ "Tablets im Test - Die günstige Mittelklasse greift an")
+* [Medikamente bei Hals­schmerzen im Test: Viele sind ihr Geld nicht wert](https://www.test.de/Medikamente-bei-Halsschmerzen-5286622-0/ "Medikamente bei Halsschmerzen im Test - Viele sind ihr Geld nicht wert")
 * [Riester-Fonds­policen optimieren: Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite](https://www.test.de/Riester-Fondspolicen-optimieren-Durch-Fondswechsel-mehr-herausholen-5020719-0/ "Riester-Fondspolicen optimieren - Tauschen Sie schlechte gegen gute Fonds und steigern Sie die Rendite")
 * [Bank­voll­macht: Diese Konto­voll­machten bieten Banken und Zinsportale an](https://www.test.de/Bankvollmacht-Kontovollmacht-5766500-0/ "Bankvollmacht - Diese Kontovollmachten bieten Banken und Zinsportale an")
 * [Lebens- und Renten­versicherung im Check: Welche Versicherer am besten wirt­schaften](https://www.test.de/Lebensversicherung-Rentenversicherung-Was-kommt-am-Ende-raus-Anbieter-im-Ertrags-Check-5318680-0/ "Lebens- und Rentenversicherung im Check - Welche Versicherer am besten wirtschaften")
 * [Crowdfunding-Probleme: Der Schwarm packt aus](https://www.test.de/Crowdfunding-Worauf-es-bei-der-Schwarmfinanzierung-ankommt-6082986-0/ "Crowdfunding-Probleme - Der Schwarm packt aus")
-* [Wärmepumpen­versicherung: Wärmepumpe gegen Umwelt­schäden und Vandalismus absichern](https://www.test.de/Waermepumpenversicherung-6030311-0/ "Wärmepumpenversicherung - Wärmepumpe gegen Umweltschäden und Vandalismus absichern")
-* [Kfz-Versicherung im Vergleich: Dem Preis­anstieg davon­fahren – jetzt güns­tige Auto­versicherung finden](https://www.test.de/kfz-versicherungsvergleich-1575560-0/ "Kfz-Versicherung im Vergleich - Dem Preisanstieg davonfahren – jetzt günstige Autoversicherung finden")
 
 test.de entdecken
 
-* [Hoch­ver­arbeitete Lebens­mittel: Zu viel vom Band macht krank](https://www.test.de/Hochverarbeitete-Lebensmittel-Zu-viel-vom-Band-macht-krank-6120161-0/ "Hochverarbeitete Lebensmittel - Zu viel vom Band macht krank")
-* [Babynester im Test: Gefahren statt Geborgenheit](https://www.test.de/Babynester-im-Test-Gefahren-statt-Geborgenheit-6043309-0/ "Babynester im Test - Gefahren statt Geborgenheit")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
-* [Verpackungs­ärger: CD Milde Seife, 100 Gramm](https://www.test.de/Verpackungsaerger-CD-Milde-Seife-100-Gramm-5944699-0/ "Verpackungsärger - CD Milde Seife, 100 Gramm")
-* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
-* [Lyoner, Mortadella & Co: Wurst-Aufschnitt im Test](https://www.test.de/Lyoner-Mortadella-Co-Wurst-Aufschnitt-im-Test-6046593-0/ "Lyoner, Mortadella & Co - Wurst-Aufschnitt im Test")
+* [Versicherungs­beiträge absetzen: Vorsorgen und Steuern sparen](https://www.test.de/Versicherungsbeitraege-absetzen-Vorsorgen-und-Steuern-sparen-5973110-0/ "Versicherungsbeiträge absetzen - Vorsorgen und Steuern sparen")
+* [Photovoltaik: Unver­hoffter Geldsegen für Altanlagen](https://www.test.de/Photovoltaik-Unverhoffter-Geldsegen-fuer-Altanlagen-6019672-0/ "Photovoltaik - Unverhoffter Geldsegen für Altanlagen")
+* [Seelische Leiden behandeln: Psycho­therapie hilft auch im Alter](https://www.test.de/Psychotherapie-im-Alter-6068656-0/ "Seelische Leiden behandeln - Psychotherapie hilft auch im Alter")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
+* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
 
 Service Stiftung Warentest
 
