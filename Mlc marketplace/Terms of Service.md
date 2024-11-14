@@ -1,6 +1,6 @@
 □
 
-                                                                                        Terms & Conditions - Muscat Livestock                             
+                                                                                            Terms & Conditions - Muscat Livestock                         
 
 [Skip to content](#main-content)
 
@@ -656,7 +656,8 @@ Drop Us A Line!
 Muscat Livestock, SHS Tower - Suite 81 Ghala, Muscat, Oman
 
 [**Email: contactus@mls.om  
-**](mailto:contactus@mls.om "mailto:contactus@mls.om")[**Whatsapp: 92423242**](https://wa.me/96892423242 "https://wa.me/96892423242")
+**](mailto:contactus@mls.om "mailto:contactus@mls.om")[**Whatsapp: 92423242  
+**](https://wa.me/96892423242 "https://wa.me/96892423242")Telephone: 24026400
 
 * [Facebook](https://www.facebook.com/muscatlivestock "Muscat Livestock on Facebook")
 * [Instagram](https://www.instagram.com/mls.om/ "Muscat Livestock on Instagram")
