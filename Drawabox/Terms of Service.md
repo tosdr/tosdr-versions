@@ -24,13 +24,25 @@
 
 [](javascript:ShowNextAnnouncement(false,'next'))
 
-[](https://amzn.to/2BA10no)
+[](https://drawabox.com/rec/uncomfortable/whattodraw)
 
-[](https://amzn.to/4cDKBhz)
+USE CODE BLACK20
+
+FOR 20% OFF
+
+SALE ENDS November 29th
+
+[](https://amzn.to/3KUTasJ)
+
+[](https://drawabox.com/rec/proko/figuredrawing)
+
+USE CODE BLACK20
+
+FOR 20% OFF
+
+SALE ENDS November 29th
 
 [](https://amzn.to/4bl6tx5)
-
-[](https://amzn.to/45JqVq9)
 
 ![Drawabox](https://d15v304a6xpq4b.cloudfront.net/assets/images/drawabox-logo.png "Drawabox")
 
