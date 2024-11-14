@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                         
+Privacy policy – G FUEL                                                                                                    
 
 [Skip to content](#MainContent)  
 
@@ -22,9 +22,9 @@ Close menu
         * [Tubs](https://gfuel.com/collections/tubs)
         * [Collector's Boxes](https://gfuel.com/collections/collectors-boxes)
         * [Starter Kits](https://gfuel.com/collections/starter-kit)
+        * [Cans](https://gfuel.com/collections/cans)
         * [Single Serving Packs](https://gfuel.com/collections/packs)
         * [Bundles](https://gfuel.com/collections/bundles)
-        * [Cans](https://gfuel.com/collections/cans)
         
     * [More Formulas](https://gfuel.com/collections)
         
@@ -109,25 +109,25 @@ Close menu
 
   Search  "Close (esc)"
 
-[](https://gfuel.com/products/hack-n-slash)
+[](https://gfuel.com/pages/gfuel-holiday-gift-guide)
 
-[Jason’s back for Fear Fest! Hack N Slash has returned 🔪](https://gfuel.com/products/hack-n-slash)[SHOP NOW](https://gfuel.com/products/hack-n-slash)
+[This holiday season, give the gift of energy!](https://gfuel.com/pages/gfuel-holiday-gift-guide)[SHOP GIFT GUIDE](https://gfuel.com/pages/gfuel-holiday-gift-guide)
 
 ### SEE HOTTEST PICKS 🔥
 
- [![HYPE SAUCE](//gfuel.com/cdn/shop/files/hype-sauce-tub-g-fuel-gamer-drink-862064_medium.png?v=1705691117) HYPE SAUCE](https://gfuel.com/products/hype-sauce-tub)
+ [![Nuka Cola Quantum](//gfuel.com/cdn/shop/files/nuka-cola-quantum-tub-g-fuel-gamer-drink-655279_medium.png?v=1712710170) Nuka Cola Quantum](https://gfuel.com/products/fallout-25-anniversary-nuka-cola-quantum-energy-tub)
 
  [![Miami Nights](//gfuel.com/cdn/shop/files/miami-nights-tub-g-fuel-gamer-drink-183550_medium.png?v=1710297383) Miami Nights](https://gfuel.com/products/miami-nights-tub)
 
- [![The Ultimate Murdercorn Sour Rainbow Candy](//gfuel.com/cdn/shop/products/murdercorn-candy-tub-g-fuel-gamer-drink-620974_medium.png?v=1689025657) The Ultimate Murdercorn Sour Rainbow Candy](https://gfuel.com/products/murdercorn-candy)
+ [![Wumpa Fruit](//gfuel.com/cdn/shop/products/wumpa-fruit-tub-g-fuel-gamer-drink-773571_medium.png?v=1660320283) Wumpa Fruit](https://gfuel.com/products/wumpa-fruit)
+
+ [![HYPE SAUCE Hydration](//gfuel.com/cdn/shop/products/hype-sauce-hydration-hydration-tub-g-fuel-gamer-drink-381042_medium.png?v=1687799391) HYPE SAUCE Hydration](https://gfuel.com/products/hype-sauce-hydration-tub)
 
  [![PewDiePie's Yuzu Slash Hydration](//gfuel.com/cdn/shop/files/pewdiepies-yuzu-slash-hydration-hydration-tub-g-fuel-gamer-drink-589853_medium.png?v=1729305183) PewDiePie's Yuzu Slash Hydration](https://gfuel.com/products/yuzu-slash-hydration)
 
- [![Sonic's Peach Rings Supreme Hydration](//gfuel.com/cdn/shop/files/sonics-peach-rings-supreme-hydration-hydration-tub-g-fuel-gamer-drink-966027_medium.png?v=1705532832) Sonic's Peach Rings Supreme Hydration](https://gfuel.com/products/sonics-peach-rings-hydration-tub)
-
  [![Dragon Fruit Cans](//gfuel.com/cdn/shop/products/spyro-dragonfruit-cans-retail-rtd-g-fuel-gamer-drink-469412_medium.png?v=1667259506) Dragon Fruit Cans](https://gfuel.com/products/spyro-dragonfruit-cans)
 
- [![Naruto's Rasengan Soda Ice Candy Cans](//gfuel.com/cdn/shop/products/narutos-soda-ice-candy-cans-rtd-single-can-g-fuel-gamer-drink-501479_medium.png?v=1674206078) Naruto's Rasengan Soda Ice Candy Cans](https://gfuel.com/products/rasengan-cans)
+ [![Berry Bomb Cans](//gfuel.com/cdn/shop/products/berry-bomb-cans-rtd-g-fuel-gamer-drink-435046_medium.png?v=1668618798) Berry Bomb Cans](https://gfuel.com/products/berry-bomb-cans)
 
  [![G FUEL Energy + Protein Bundle](//gfuel.com/cdn/shop/files/energy-protein-bundle-bundle-g-fuel-gamer-drink-495379_medium.png?v=1712710220) G FUEL Energy + Protein Bundle](https://gfuel.com/products/energy-protein-bundle)
 
@@ -160,11 +160,11 @@ View more
     
     [Starter Kits](https://gfuel.com/collections/starter-kit)
     
+    [Cans](https://gfuel.com/collections/cans)
+    
     [Single Serving Packs](https://gfuel.com/collections/packs)
     
     [Bundles](https://gfuel.com/collections/bundles)
-    
-    [Cans](https://gfuel.com/collections/cans)
     
     [More Formulas](https://gfuel.com/collections)
     ----------------------------------------------
@@ -615,7 +615,7 @@ The statements contained in this website have not been evaluated by the Food and
 
 Rated 4.8 out of 5 stars
 
-80 Reviews
+82 Reviews
 
 4.8
 
