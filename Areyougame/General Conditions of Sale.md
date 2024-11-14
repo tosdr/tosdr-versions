@@ -1,4 +1,6 @@
-[Skip to content](#MainContent)
+    
+
+        [Skip to content](#MainContent)
 
 **Take 25% Off 800+ Games, Puzzles, and Activities with Code "SAVE25"**
 
