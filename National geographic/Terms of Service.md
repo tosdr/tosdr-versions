@@ -196,3 +196,25 @@ Washington, DC 20036
 [Careers](https://www.nationalgeographic.org/society/careers/)  |  [Newsroom](https://blog.nationalgeographic.org/)  |  [Ethics](https://www.nationalgeographic.org/ethics/)  |  [Privacy Notice](https://www.nationalgeographic.org/society/privacy-notice/)  |  [Terms of Service](https://www.nationalgeographic.org/terms-of-service/) | [Your Privacy Choices](#)
 
 © 1996 – 2024 National Geographic Society. All rights reserved.
+
+GIVE TODAY!
+
+The National Geographic Society is proud to invest in a global community of intrepid Explorers working to illuminate and protect the wonder of our world. Make a tax-deductible gift to support the Society today, and your support will help fund the next generation of changemakers.
+
+[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=35)
+
+[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=250)
+
+[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=100)
+
+[Give $500](https://give.nationalgeographic.org/page/49060/donate/1?transaction.donationAmt=500)
+
+[Give $35](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=35)
+
+[Give $50](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=50)
+
+[Give $100](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=100)
+
+[Give $250](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=250)
+
+[OTHER GIFT](https://give.nationalgeographic.org/page/49060/donate/1?ea.tracking.id=WSXX1W&utm_content=acq&utm_medium=web&utm_source=ngs&en_txn6=WSXX1W&en_txn7=XXXX2&transaction.donationAmt=Other)
