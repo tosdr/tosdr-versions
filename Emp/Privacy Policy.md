@@ -156,9 +156,7 @@ Katalog durchsuchen  löschen Packstation suchen
 
 Winter Is Coming!
 
-\-15%\*
-
-[Wappne dich!](https://www.emp.de/winter-is-coming/ "Wappne dich!") Code **MIDWEEK15** kopieren
+[Wappne dich!](https://www.emp.de/winter-is-coming/ "Wappne dich!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Kundenservice ist am nächsten Tag wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
