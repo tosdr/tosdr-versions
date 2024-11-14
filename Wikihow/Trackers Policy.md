@@ -139,23 +139,23 @@ Save settings
 
 ### Featured Articles
 
+[![Apply Perfume](https://www.wikihow.com/images/thumb/0/01/Apply-Perfume-Step-24-Version-2.jpg/-crop-126-120-126px-Apply-Perfume-Step-24-Version-2.jpg)
+
+How & Where to Apply Perfume (Plus, Common Mistakes to Avoid)](https://www.wikihow.com/Apply-Perfume)
+
+[![Save a Wet Cell Phone](https://www.wikihow.com/images/thumb/8/8b/Save-a-Wet-Cell-Phone-Step-5-Version-6.jpg/-crop-126-120-126px-Save-a-Wet-Cell-Phone-Step-5-Version-6.jpg)
+
+How to  
+Save a Wet Cell Phone](https://www.wikihow.com/Save-a-Wet-Cell-Phone)
+
+[![What Does It Mean when He Texts You Good Morning Everyday](https://www.wikihow.com/images/thumb/3/34/What-Does-It-Mean-when-He-Texts-You-Good-Morning-Everyday-Step-10.jpg/-crop-126-120-126px-What-Does-It-Mean-when-He-Texts-You-Good-Morning-Everyday-Step-10.jpg)
+
+What Does It Mean When He Texts You Good Morning Every Day?](https://www.wikihow.com/What-Does-It-Mean-when-He-Texts-You-Good-Morning-Everyday)
+
 [![Do a French Manicure](https://www.wikihow.com/images/thumb/e/ee/Do-a-French-Manicure-Step-12-Version-7.jpg/-crop-126-120-126px-Do-a-French-Manicure-Step-12-Version-7.jpg)
 
 How to  
 Do a French Manicure](https://www.wikihow.com/Do-a-French-Manicure)
-
-[![Do You Really Love Someone if You Cheat on Them](https://www.wikihow.com/images/thumb/7/77/Do-You-Really-Love-Someone-if-You-Cheat-on-Them-Step-11.jpg/-crop-126-120-126px-Do-You-Really-Love-Someone-if-You-Cheat-on-Them-Step-11.jpg)
-
-Do You Really Love Someone if You Cheat on Them? Why We Cheat on People We Love](https://www.wikihow.com/Do-You-Really-Love-Someone-if-You-Cheat-on-Them)
-
-[![How Did You Sleep](https://www.wikihow.com/images/thumb/9/9d/How-Did-You-Sleep-Step-8.jpg/-crop-126-120-126px-How-Did-You-Sleep-Step-8.jpg)
-
-How to  
-Reply to “How Did You Sleep?”](https://www.wikihow.com/How-Did-You-Sleep)
-
-[![Finding Dimes Meaning](https://www.wikihow.com/images/thumb/5/59/Finding-Dimes-Meaning-Step-12.jpg/-crop-126-120-126px-Finding-Dimes-Meaning-Step-12.jpg)
-
-What Does it Mean When You Find a Dime?](https://www.wikihow.com/Finding-Dimes-Meaning)
 
   
 
@@ -198,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-132
+151
