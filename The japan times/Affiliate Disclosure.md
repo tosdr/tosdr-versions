@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 14, 2024](https://www.japantimes.co.jp/archive/2024/11/14/ "archive page")
+[November 15, 2024](https://www.japantimes.co.jp/archive/2024/11/15/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
 
-[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
-  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
-[Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
-
-  [![Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.")](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
-
-[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
-
-  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
-
 [Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+
+[Trump's picks: A Fox News host, an ex-spy chief and the world's richest man](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
+
+  [![Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433751.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
+
+[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+[As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
+
+  [![Masato Kanda, then-vice minister of finance for international affairs, in January 2022](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433952.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Masato Kanda, then-vice minister of finance for international affairs, in January 2022")](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
 
 Editors' Picks
 --------------
@@ -164,33 +164,33 @@ By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beatti
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
-  [![Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/09/433163.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Akiko, who left for Britain on Thursday to attend an international conference in London, returned to Tokyo on Saturday morning and visited to visit her ailing grandmother, Princess Yuriko.")](https://www.japantimes.co.jp/news/2024/11/09/japan/princess-yuriko-condition-deteriorates/ "Condition of hospitalized Japanese Princess Yuriko, 101, deteriorates")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433810.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Nippon Steel Chairman and CEO Eiji Hashimoto told a local weekly that a lawsuit is possible if the company's proposed buyout of U.S. Steel gets blocked without proper procedures being followed.")](https://www.japantimes.co.jp/business/2024/11/13/companies/nippon-steel-lawsuit/ "Nippon Steel does not rule out lawsuit if U.S. Steel deal nixed, CEO says")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Imperial family members visit ailing Princess Yuriko at hospital](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/11/433392.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023. At 101 years old, she is the oldest member of the imperial family.")](https://www.japantimes.co.jp/news/2024/11/11/japan/family-visits-princess-yuriko/ "Imperial family members visit ailing Princess Yuriko at hospital")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
 [Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
 By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+
+[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+
+[Trump's picks: A Fox News host, an ex-spy chief and the world's richest man](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433751.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
+
+By [Tetsushi Kajimoto](https://www.japantimes.co.jp/author/575/tetsushi-kajimoto/ "Tetsushi Kajimoto") and [Makiko Yamazaki](https://www.japantimes.co.jp/author/449/makiko-yamazaki/ "Makiko Yamazaki")  
+
+  [![Masato Kanda, then-vice minister of finance for international affairs, in January 2022](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433952.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Masato Kanda, then-vice minister of finance for international affairs, in January 2022")](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
 
 Podcast
 -------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Hong Kong bomb plot 'mastermind' jailed for almost 24 years](https://www.japantimes.co.jp/news/2024/11/14/asia-pacific/hong-kong-bomb-plot-mastermind-24-years/ "Hong Kong bomb plot 'mastermind' jailed for almost 24 years")
+
+4 hours ago
+
+[U.S. accuses China of vast cyberespionage against telecoms](https://www.japantimes.co.jp/news/2024/11/14/world/us-china-cyberespionage-telecoms/ "U.S. accuses China of vast cyberespionage against telecoms")
+
+4 hours ago
+
+[Human error behind Osprey accident on remote Japan island: GSDF](https://www.japantimes.co.jp/news/2024/11/14/japan/human-error-osprey-remote-japan-island/ "Human error behind Osprey accident on remote Japan island: GSDF")
+
+5 hours ago
+
 [Ishiba Cabinet approval inches up to 28.7%, poll shows](https://www.japantimes.co.jp/news/2024/11/14/japan/ishiba-cabinet-approval-november/ "Ishiba Cabinet approval inches up to 28.7%, poll shows")
 
-1 hours ago
+7 hours ago
 
 [Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
 
-1 hours ago
-
-[Japan government to adopt Musk's reform methods, minister says](https://www.japantimes.co.jp/news/2024/11/14/japan/politics/reform-minister-adoption-musk-methods/ "Japan government to adopt Musk's reform methods, minister says")
-
-1 hours ago
-
-[Japan eyes extraordinary session of parliament from Nov. 28](https://www.japantimes.co.jp/news/2024/11/14/japan/politics/japan-extraordinary-diet-date-plan/ "Japan eyes extraordinary session of parliament from Nov. 28")
-
-1 hours ago
-
-[Mizuho raises profit forecast and announces share buyback](https://www.japantimes.co.jp/business/2024/11/14/companies/mizuho-profit-forecast-raise/ "Mizuho raises profit forecast and announces share buyback")
-
-2 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
