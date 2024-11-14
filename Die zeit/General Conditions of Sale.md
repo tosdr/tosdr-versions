@@ -85,6 +85,7 @@ Anzeigen
 * [congstar Fairnessheld\*innen](https://www.zeit.de/campus/angebote/congstar/fairnessheldinnen/index)
 * [ZEIT LEO Weltretter-Mission](https://zeitleo.de/weltretter-mission/)
 * [How it works: Studium und Job](https://www.zeit.de/campus/angebote/howitworks/index)
+* [How it works: Podcast-Reihe](https://zett.cmk.zeit.de/cms/articles/18185/anzeige/techniker-krankenkasse/podcast-wie-macht-social-media-wieder-spass-hannes-vincent-krause)
 * [Deutsches Schulportal](https://deutsches-schulportal.de/)
 * [ZEIT für Forschung](https://zeitfuerx.de/forschung/)
 * [ZEIT für X](https://zeitfuerx.de/)
