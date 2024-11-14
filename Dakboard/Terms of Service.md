@@ -88,7 +88,6 @@ When registering for DAKboard we ask for information such as your name and email
 ##### Links
 
 [Home](https://dakboard.com/site)  
-[Business](https://dakboard.com/site/business)  
 [Pricing](https://dakboard.com/pricing)  
 [Shop](https://shop.dakboard.com/)  
 [About](https://dakboard.com/about)  
