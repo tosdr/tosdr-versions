@@ -1,6 +1,6 @@
 [Jump to content](#ipsLayout_mainArea "Go to main content on this page")
 
-[![Grieving.com, Help for Coping with Loss Types: Child, Mother, Father, Wife, Husband, Mate, Pet, Friend, Sibling, Sister & Brother](//content.invisioncic.com/x319419/monthly_2023_01/grieving-logo.png.2eee25ce0925db1ed66792092fe21dec.png)](https://forums.grieving.com/)
+[![Grieving.com, Help for Coping with Loss Types: Child, Mother, Father, Wife, Husband, Mate, Pet, Friend, Sibling, Sister & Brother](//media.invisioncic.com/x319419/monthly_2023_01/grieving-logo.png.2eee25ce0925db1ed66792092fe21dec.png)](https://forums.grieving.com/)
 
 * [Community Home](https://forums.grieving.com/ "Go to the community homepage")
 
