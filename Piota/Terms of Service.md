@@ -41,7 +41,7 @@ Menu
 Terms of Use (“The Terms”) – Schappit Ltd / Piota Apps ​
 --------------------------------------------------------
 
-![terms and conditions](https://www.piota.co.uk/wp-content/uploads/2024/08/Privacy-Policy.png)
+![terms and conditions](https://www.piota.co.uk/wp-content/uploads/2024/08/xPrivacy-Policy.png.pagespeed.ic.gAjmjjBm2V.png)
 
 Terms of Use (“The Terms”) – Schappit Ltd / Piota Apps ​
 --------------------------------------------------------
