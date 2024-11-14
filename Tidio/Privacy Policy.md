@@ -218,9 +218,9 @@ Channels
 
 [See customer story](https://www.tidio.com/blog/suitor-case-study/)
 
-[Tidio+ Premium Plan
+[Discover Premium Plan
 
-Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-premium/)
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
@@ -230,9 +230,9 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [See customer story](https://www.tidio.com/blog/eye-oo-case-study/)
 
-[Tidio+ Premium Plan
+[Discover Premium Plan
 
-Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-premium/)
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
@@ -242,9 +242,9 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [See customer story](https://www.tidio.com/blog/wulff-beltton-case-study/)
 
-[Tidio+ Premium Plan
+[Discover Premium Plan
 
-Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-premium/)
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
@@ -254,9 +254,9 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [See customer story](https://www.tidio.com/blog/endeksa-case-study/)
 
-[Tidio+ Premium Plan
+[Discover Premium Plan
 
-Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-premium/)
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
@@ -266,9 +266,9 @@ Grow faster with done-for-you automation, tailored optimization strategies, and 
 
 [See customer story](https://www.tidio.com/blog/integratec-case-study/)
 
-[Tidio+ Premium Plan
+[Discover Premium Plan
 
-Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-plus/)
+Grow faster with done-for-you automation, tailored optimization strategies, and custom limits.](https://www.tidio.com/tidio-premium/)
 
 [Watch Demo](https://www.tidio.com/watch-demo/)
 
@@ -1004,7 +1004,7 @@ Product
 * [Live Chat](https://www.tidio.com/live-chat/ "Live Chat")
 * [Flows](https://www.tidio.com/flows/ "Flows")
 * [Help Desk](https://www.tidio.com/helpdesk/ "Help Desk")
-* [Tidio+](https://www.tidio.com/tidio-plus/ "Tidio+")
+* [Tidio Premium](https://www.tidio.com/tidio-premium/ "Tidio Premium")
 * [All features](https://www.tidio.com/features/ "All features")
 * [Ecommerce](https://www.tidio.com/industry/ecommerce/ "Ecommerce")
 
