@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Shakil Dip has called for Southwark Council to install permanent security along the market](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3150-2-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
+    
+    ### [East Street Market traders say safety ‘a lottery’ and call for security guards amid rising crime in Walworth](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
+    
+    [![London Bridge Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-14-11-2024-at-13.21-e1731590557478-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+    
+    ### [London Bridge and East Dulwich Post Offices could be at risk of closure](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+    
+    [![Photo taken in Gallery Road of the roundabout in Dulwich Village approached from the south](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photo-taken-in-Gallery-Road-of-the-roundabout-in-Dulwich-Village-aproached-from-the-south-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
+    
+    ### [Exclusive: Dulwich LTN clobbers drivers with up to £26 million in fines](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
+    
+    [![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-360x180.jpeg)](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
+    
+    ### [King Charles to spend 76th birthday in Deptford](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
+    
     [![The section of Roman road discovered (Veolia)](https://southwarknews.co.uk/wp-content/uploads/2024/11/f_m3ejf0231-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
     
     ### [2,000-Year-Old Roman road unearthed beneath Old Kent Road](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
@@ -40,23 +56,6 @@
     [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
     
     ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-    
-    [![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-360x180.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-    
-    ### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-    
-    [![Greenwich train station reportedly dates back to the mid-19th century.
-    Photo from Google Earth.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Greenwich-Train-Station-360x180.jpg)](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
-    
-    ### [Victorian South London station to get a series of upgrades](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
-    
-    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
-    
-    ### [Sadiq Khan asked to support South London’s Migration Museum’s move to Tower Hill](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
-    
-    [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-    
-    ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -107,6 +106,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Shakil Dip has called for Southwark Council to install permanent security along the market](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3150-2-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
+    
+    ### [East Street Market traders say safety ‘a lottery’ and call for security guards amid rising crime in Walworth](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
+    
+    [![London Bridge Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-14-11-2024-at-13.21-e1731590557478-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+    
+    ### [London Bridge and East Dulwich Post Offices could be at risk of closure](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+    
+    [![Photo taken in Gallery Road of the roundabout in Dulwich Village approached from the south](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photo-taken-in-Gallery-Road-of-the-roundabout-in-Dulwich-Village-aproached-from-the-south-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
+    
+    ### [Exclusive: Dulwich LTN clobbers drivers with up to £26 million in fines](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
+    
+    [![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-360x180.jpeg)](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
+    
+    ### [King Charles to spend 76th birthday in Deptford](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
+    
     [![The section of Roman road discovered (Veolia)](https://southwarknews.co.uk/wp-content/uploads/2024/11/f_m3ejf0231-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
     
     ### [2,000-Year-Old Roman road unearthed beneath Old Kent Road](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
@@ -127,23 +142,6 @@ View All Result
     [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
     
     ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-    
-    [![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-360x180.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-    
-    ### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-    
-    [![Greenwich train station reportedly dates back to the mid-19th century.
-    Photo from Google Earth.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Greenwich-Train-Station-360x180.jpg)](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
-    
-    ### [Victorian South London station to get a series of upgrades](https://southwarknews.co.uk/area/south-london/victorian-south-london-station-to-get-a-series-of-upgrades/)
-    
-    [![Hina Bokhari AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Hina-Bokhari-Am-360x180.jpg)](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
-    
-    ### [Sadiq Khan asked to support South London’s Migration Museum’s move to Tower Hill](https://southwarknews.co.uk/news/community/sadiq-khan-asked-to-support-south-londons-migration-museums-move-to-tower-hill/)
-    
-    [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-360x180.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-    
-    ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -233,19 +231,31 @@ Terms of Use
 
 [7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
 
+[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+[13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
 [![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 ### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
 [6th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
 
-[![Neil Harris passes on instructions. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/Harris-Azeez-Stoke--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
-
-### [‘I’ve been very careful what to say’ – Millwall boss on Stoke draw as Potters head coach reveals referee admission](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
-
-[9th November 2024](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
-
 ### Featured Articles
+
+[![London Bridge Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-14-11-2024-at-13.21-e1731590557478-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+
+### [London Bridge and East Dulwich Post Offices could be at risk of closure](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+
+[14th November 2024](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
+
+[![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-120x86.jpeg)](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
+
+### [King Charles to spend 76th birthday in Deptford](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
+
+[14th November 2024](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
 
 [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
@@ -271,18 +281,6 @@ Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-
 ### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
 
 [13th November 2024](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-
-[![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-
-### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-
-[12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
-
-[![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-120x86.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
-
-### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
-
-[12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
 ### USEFUL PAGES
 
