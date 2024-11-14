@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Forced Adoption In The UK](/wp-content/thumbnails/9738-100x70.jpg?x53432)
+* [![Super Size Me](/wp-content/thumbnails/354-100x70.png?x53432)
     
-    Forced Adoption In The UK
+    Super Size Me
     
-    RT (Russia Today) recently released this film which shines a light on one of the more controversial issues faced by some parents in living in the United Kingdom today and thats forced adoption. The UK](https://documentaryheaven.com/forced-adoption-in-the-uk/ "Forced Adoption In The UK")
-* [![Architects & Engineers: Solving the Mystery of WTC 7](/wp-content/thumbnails/6029-100x70.jpg?x53432)
+    Super Size Me is an Academy Award-nominated 2004 documentary film, directed by and starring Morgan Spurlock, an American independent filmmaker. It follows a 30-day time period (February 2003) during w](https://documentaryheaven.com/super-size-me/ "Super Size Me")
+* [![A Good Job: Stories of the FDNY](/wp-content/thumbnails/9942-100x70.jpg?x53432)
     
-    Architects & Engineers: Solving the Mystery of WTC 7
+    A Good Job: Stories of the FDNY
     
-    AE911Truth's new 9/11 documentary Solving the Mystery, the destruction of World Trade Center Building #7, WTC 7 on 9/11/01. Join actor, Ed Asner and Architect Richard Gage, AIA and Architects and Engi](https://documentaryheaven.com/architects-engineers-solving-the-mystery-of-wtc-7/ "Architects & Engineers: Solving the Mystery of WTC 7")
-* [![Places that dont Exist – The Caucasus](/wp-content/thumbnails/4314-100x70.jpg?x53432)
+    In this amazing HBO special we see the critically acclaimed actor and FDNY veteran Steve Buscemi explore one of the worlds most demanding fire departments. Along side other such veterans, Buscemi expl](https://documentaryheaven.com/good-job-stories-of-fdny/ "A Good Job: Stories of the FDNY")
+* [![I Know I’m Not Alone](/wp-content/thumbnails/2436-100x70.jpg?x53432)
     
-    Places that dont Exist – The Caucasus
+    I Know I’m Not Alone
     
-    There are almost 200 official countries in the world. But there are dozens more breakaway states which are determined to be separate and independent.The breakaway states have their own rulers, par](https://documentaryheaven.com/places-that-dont-exist-the-caucasus/ "Places that dont Exist – The Caucasus")
-* [![Discovery Channel: Heroin Nation](/wp-content/thumbnails/1112-100x70.jpg?x53432)
+    This film came out of the director’s frustration with watching the nightly news and hearing generals, politicians and pundits, explaining the political and economic cost of the war in the Middle East,](https://documentaryheaven.com/i-know-i%e2%80%99m-not-alone/ "I Know I’m Not Alone")
+* [![Radioman](/wp-content/thumbnails/16195-100x70.png?x53432)
     
-    Discovery Channel: Heroin Nation
+    Radioman
     
-    Cocaine Nation and Heroin Nation premiered on the Discovery channel this week. The two series are rated TV-14 because of the subject matter and some disturbing footage of drug abuse. Both series take](https://documentaryheaven.com/discovery-channel-heroin-nation/ "Discovery Channel: Heroin Nation")
-* [![A Mathematical Mystery Tour](/wp-content/thumbnails/7760-100x70.jpg?x53432)
+    Radioman is a New York film set mascot, a gentle vagrant whose real name is Craig Castaldo. He has become a staple of the NY film industry, having over 100 small roles to his name. Some of these film](https://documentaryheaven.com/radioman/ "Radioman")
+* [![The Pharmacratic Inquisition](/wp-content/thumbnails/2273-100x70.jpg?x53432)
     
-    A Mathematical Mystery Tour
+    The Pharmacratic Inquisition
     
-    A fascinating BBC Horizon program from 1984 looking at the greatest unsolved problems in mathematics including Fermat’s Last Theorem (since solved), The Goldback Conjecture, The Riemann hypothesis, th](https://documentaryheaven.com/mathematical-mystery-tour/ "A Mathematical Mystery Tour")
+    Thousands of years ago, in the pre monarchic era, sacred plants and other entheogenic substances where politically correct and highly respected for their ability to bring forth the divine, Yahweh, God](https://documentaryheaven.com/the-pharmacratic-inquisition/ "The Pharmacratic Inquisition")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
