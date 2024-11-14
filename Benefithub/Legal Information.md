@@ -21,7 +21,6 @@
     * [About Our Team](https://www.benefithub.com/about-benefithub#AboutTheTeam)
     * [Careers](https://www.benefithub.com/about-benefithub/careers)
     * [Global Presence](https://www.benefithub.com/about-benefithub#GlobalPresence)
-    * [News](https://www.benefithub.com/news)
     * [Celebrating 25 Years](https://www.benefithub.com/25th-anniversary)
 * [Partner With Us](https://www.benefithub.com/benefithub-partnership) [ ] 
     * [Benefits Broker](https://www.benefithub.com/partner-with-benefithub/benefits-broker)
@@ -30,7 +29,9 @@
 * [Contact Us](https://www.benefithub.com/contact-us) [ ] 
     * [FAQ](https://www.benefithub.com/en/support)
     * [Customer Help Center Centre](https://www.benefithub.com/en/support/did-not-find-an-answer)
-* [Blog](https://www.benefithub.com/blog)
+* [Resources](https://www.benefithub.com/benefithub-resources) [ ] 
+    * [Blog](https://www.benefithub.com/blog)
+    * [News](https://www.benefithub.com/news)
 
 * [Global](https://www.benefithub.com/global-presence) [ ] 
     * [US](https://www.benefithub.com/global-presence?country=us)
