@@ -1,6 +1,7 @@
 [![ROMEO](https://www.romeo.com/wp-content/uploads/2018/04/planetromeo-logo-blackbg-2018v2.svg)](https://www.romeo.com/)
 
 * [About](https://www.romeo.com/en/about)
+* [News](https://www.romeo.com/en/blog)
 * [App](https://www.romeo.com/en/app)
 * [Community](https://www.romeo.com/en/care)
 * Tips
@@ -19,6 +20,7 @@
 [![ROMEO](https://www.romeo.com/wp-content/uploads/2018/04/planetromeo-logo-blackbg-2018v2.svg)](https://www.romeo.com/)
 
 * [About](https://www.romeo.com/en/about)
+* [News](https://www.romeo.com/en/blog)
 * [App](https://www.romeo.com/en/app)
 * [Community](https://www.romeo.com/en/care)
 * Tips
@@ -251,6 +253,7 @@ These Terms of Use apply to the use of the Service by ROMEO BV. Please read thes
 * [youtube](https://www.youtube.com/c/ROMEOTV "YouTube")
 
 * [About](https://www.romeo.com/en/about)
+* [News](https://www.romeo.com/en/blog)
 * [App](https://www.romeo.com/en/app)
 * [Community](https://www.romeo.com/en/care)
 * Tips
