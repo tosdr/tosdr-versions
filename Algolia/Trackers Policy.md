@@ -1,147 +1,168 @@
-[Algolia mark blueAlgolia logo blue](https://www.algolia.com/)Menu
-
-Search Algolia
-
-Solutions
-
-* [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/ai-blue.svg)AI Search
+* [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/policyentry-6 "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/policyentry-6 "Switch to ")
     
-    The results users need to see](https://www.algolia.com/products/ai-search/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/browse-blue.svg)AI Browse
-    
-    Category and collection pages built by AI](https://www.algolia.com/products/ai-browse/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/recommendations-blue.svg)AI Recommendations
-    
-    Suggestions anywhere in the user journey](https://www.algolia.com/products/ai-recommendations/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Studio
-    
-    Data-enhanced customer experiences, without code](https://www.algolia.com/industries/ecommerce/merchandising-studio/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706630499/ui-library/nav/rebrand-2022/pie-blue.svg)Analytics
-    
-    All your insights in one dashboard](https://www.algolia.com/products/features/analytics/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428489/ui-library/nav/rebrand-2022/ui-components-blue.svg)UI Components
-    
-    Pre-built components for custom journeys](https://www.algolia.com/developers/search-ui/)[Read more](https://www.algolia.com/products/)
-    
-* Integrations
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1648030908/ui-library/icons/adobe.svg)Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1698748632/ui-library/icons/bigcommerce-icon_1.svg)BigCommerce](https://www.algolia.com/search-solutions/bigcommerce/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706635486/ui-library/icons/commercetools-symbol.svg)Commercetools](https://www.algolia.com/search-solutions/commercetools/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1648030908/ui-library/icons/salesforce.svg)Salesforce CC](https://www.algolia.com/search-solutions/salesforce-commerce-cloud/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1648038540/ui-library/icons/shopify.svg)Shopify](https://www.algolia.com/search-solutions/shopify/)[See all integrations](https://www.algolia.com/developers/integrations/)
-    
-
-Industries
-
-* [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1660826231/ui-library/nav/rebrand-2022/retail-blue.svg)Retail Ecommerce](https://www.algolia.com/industries/ecommerce/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661417963/ui-library/nav/rebrand-2022/b2b-blue.svg)B2B Ecommerce](https://www.algolia.com/industries/b2b-ecommerce/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418138/ui-library/nav/rebrand-2022/marketplaces-blue.svg)Marketplaces](https://www.algolia.com/industries/marketplaces/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418253/ui-library/nav/rebrand-2022/media-blue.svg)Media](https://www.algolia.com/industries/media/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418362/ui-library/nav/rebrand-2022/saas-blue.svg)SaaS](https://www.algolia.com/industries/saas/)[Read more](https://www.algolia.com/industries/)
-    
-
-[Pricing](https://www.algolia.com/pricing/)
-
-Developers
-
-* Get started
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1707167709/ui-library/nav/rebrand-2022/desktop-blue.svg)Developer Hub](https://www.algolia.com/developers/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418472/ui-library/nav/rebrand-2022/documentation-blue.svg)Documentation](https://www.algolia.com/doc/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418574/ui-library/nav/rebrand-2022/integrations-blue.svg)Integrations](https://www.algolia.com/developers/integrations/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428489/ui-library/nav/rebrand-2022/ui-components-blue.svg)UI Components](https://www.algolia.com/developers/search-ui/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428592/ui-library/nav/rebrand-2022/autocomplete-blue.svg)Autocomplete](https://www.algolia.com/products/features/search-autocomplete/)
-    
-* Resources
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428817/ui-library/nav/rebrand-2022/codex-blue.svg)Code Exchange](https://www.algolia.com/developers/code-exchange/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428974/ui-library/nav/rebrand-2022/eng-blog-blue.svg)Engineering Blog](https://www.algolia.com/blog/engineering/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429053/ui-library/nav/rebrand-2022/community-blue.svg)Discord](https://alg.li/discord)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Webinars & Events](https://www.algolia.com/events/)
-    
-* Quick Links
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429233/ui-library/nav/rebrand-2022/quickstart-blue.svg)Quick Start Guide](https://www.algolia.com/doc/guides/getting-started/quick-start/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429343/ui-library/nav/rebrand-2022/opensource-blue.svg)For Open Source](https://www.algolia.com/for-open-source/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429412/ui-library/nav/rebrand-2022/api-blue.svg)API Status](https://status.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/hc/en-us)
-    
-
-Resources
-
-* Inspiration
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434320/ui-library/nav/rebrand-2022/blog-blue.svg)Algolia Blog](https://www.algolia.com/blog/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433275/ui-library/nav/rebrand-2022/resource-blue.svg)Resource Center](https://www.algolia.com/resources/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433386/ui-library/nav/rebrand-2022/customer-stories-blue.svg)Customer Stories](https://www.algolia.com/customers/)
-    
-* Learn
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Customer Hub](https://www.algolia.com/customer-hub/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Changelog](https://changelog.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
-    
-* Tools
-    
-    [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://www.algolia.com/ai-search-grader/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
-    
-
-Quick Access
-
-* [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661436126/ui-library/nav/rebrand-2022/company-blue.svg)Company](https://www.algolia.com/about/)
-* [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661436259/ui-library/nav/rebrand-2022/partners-blue.svg)Partners](https://partners.algolia.com/)
-* [![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/)
-
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1724919194/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
-    
-    Eng
-    
-
-Algolia mark white
-
-Looking for our logo?
-
-We got you covered!
-
-[Brand guidelines](https://algolia.frontify.com/)[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
 [Now streaming:
 
 Watch the replays from DevCon 2024 🍿
 
-Learn more](https://www.algolia.com/devcon/)
+Learn more](https://www.algolia.com/devcon)
 
-* [Company](https://www.algolia.com/about/)
+* [Company](https://www.algolia.com/about)
 * [Partners](https://partners.algolia.com/)
 * [Support](https://support.algolia.com/)
+*  [![](/files/live/sites/algolia-assets/files/icons/person_blue.svg) Login](https://dashboard.algolia.com/users/sign_in)
+*  [![](/files/live/sites/algolia-assets/files/icons/Check%20Square.svg) Logout](https://dashboard.algolia.com/users/sign_out)
 
-* ![globe](https://res.cloudinary.com/hilnmyskv/image/upload/v1724919194/ui-library/nav/rebrand-2022/globe-blue.svg)EnglishFrançaisDeutsch
-    
-    Eng
-    
+[Algolia mark white Algolia logo white](https://www.algolia.com/)
 
-[Algolia mark blueAlgolia logo blue](https://www.algolia.com/)Menu
-
-Search Algolia
+Menu
 
 * Solutions
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/ai-blue.svg) AI Search](https://www.algolia.com/products/ai-search)
+        
+        The results users need to see
+        
+    *  [![](/files/live/sites/algolia-assets/files/nav/browse-blue.svg) AI Browse](https://www.algolia.com/products/ai-browse)
+        
+        Category and collection pages built by AI
+        
+    *  [![](/files/live/sites/algolia-assets/files/nav/recommendations-blue.svg) AI Recommendations](https://www.algolia.com/products/ai-recommendations)
+        
+        Suggestions anywhere in the user journey
+        
+    *  [![](/files/live/sites/algolia-assets/files/nav/local_mall_1.svg) Merchandising Studio](https://www.algolia.com/industries/ecommerce/merchandising-studio)
+        
+        Data-enhanced customer experiences, without code
+        
+    *  [![](/files/live/sites/algolia-assets/files/nav/pie-blue.svg) Analytics](https://www.algolia.com/products/features/analytics)
+        
+        All your insights in one dashboard
+        
+    *  [![](/files/live/sites/algolia-assets/files/nav/space_dashboard_1.svg) UI Components](https://www.algolia.com/developers/search-ui)
+        
+        Pre-built components for custom journeys
+        
+    * [Read more ![](/files/live/sites/algolia-assets/files/icons/arrowRightCircle.svg)](https://www.algolia.com/products) 
+    
+    ###### INTEGRATIONS
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)
+    *  [![](/files/live/sites/algolia-assets/files/nav/adobe.svg) Adobe AEM](https://www.algolia.com/search-solutions/adobe-experience-manager)
+    *  [![](/files/live/sites/algolia-assets/files/nav/bigcommerce-icon_1.svg) BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
+    *  [![](/files/live/sites/algolia-assets/files/nav/commercetools-symbol.svg) Commercetools](https://www.algolia.com/search-solutions/commercetools)
+    *  [![](/files/live/sites/algolia-assets/files/nav/salesforce.svg) Salesforce CC](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)
+    *  [![](/files/live/sites/algolia-assets/files/nav/shopify.svg) Shopify](https://www.algolia.com/search-solutions/shopify)
+    * [See all integrations ![](/files/live/sites/algolia-assets/files/icons/arrowRightCircle.svg)](https://www.algolia.com/developers/integrations) 
+    
 * Industries
-* [Pricing](https://www.algolia.com/pricing/)
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/shopping_cart_1.svg) Retail Ecommerce](https://www.algolia.com/industries/ecommerce)
+    *  [![](/files/live/sites/algolia-assets/files/nav/business_center_1.svg) B2B Ecommerce](https://www.algolia.com/industries/b2b-ecommerce)
+    *  [![](/files/live/sites/algolia-assets/files/nav/store_1.svg) Marketplaces](https://www.algolia.com/industries/marketplaces)
+    *  [![](/files/live/sites/algolia-assets/files/nav/perm_media_1.svg) Media](https://www.algolia.com/industries/media)
+    *  [![](/files/live/sites/algolia-assets/files/nav/cloud_done.svg) SaaS](https://www.algolia.com/industries/saas)
+    * [Read more ![](/files/live/sites/algolia-assets/files/icons/arrowRightCircle.svg)](https://www.algolia.com/industries) 
+    
+* [Pricing](https://www.algolia.com/pricing)
 * Developers
+    
+    ###### GET STARTED
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/desktop-blue.svg) Developer Hub](https://www.algolia.com/developers)
+    *  [![](/files/live/sites/algolia-assets/files/nav/menu_book_1.svg) Documentation](https://www.algolia.com/doc/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/category_1.svg) Integrations](https://www.algolia.com/developers/integrations)
+    *  [![](/files/live/sites/algolia-assets/files/nav/space_dashboard_1.svg) UI Components](https://www.algolia.com/developers/search-ui)
+    *  [![](/files/live/sites/algolia-assets/files/nav/pageview_1.svg) Autocomplete](https://www.algolia.com/products/features/search-autocomplete)
+    
+    ###### RESOURCES
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/integration_instructions_1.svg) Code Exchange](https://www.algolia.com/developers/code-exchange)
+    *  [![](/files/live/sites/algolia-assets/files/nav/terminal_1.svg) Engineering Blog](https://www.algolia.com/blog/engineering/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/group_1.svg) Discord](https://alg.li/discord)
+    *  [![](/files/live/sites/algolia-assets/files/nav/event_note_1.svg) Webinars & Events](https://www.algolia.com/events)
+    
+    ###### QUICK LINKS
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/assignment_turned_in_1.svg) Quick Start Guide](https://www.algolia.com/doc/guides/getting-started/quick-start/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/Subtract_1.svg) For Open Source](https://www.algolia.com/for-open-source)
+    *  [![](/files/live/sites/algolia-assets/files/nav/dns_1.svg) API Status](https://status.algolia.com/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/support_1.svg) Support](https://support.algolia.com/hc/en-us)
+    
 * Resources
+    
+    ###### INSPIRATION
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/description_FILL1_wght400_GRAD0_opsz48_1_1.svg) Algolia Blog](https://www.algolia.com/blog)
+    *  [![](/files/live/sites/algolia-assets/files/nav/folder_open_FILL1_wght400_GRAD0_opsz48_1_1.svg) Resource Center](https://resources.algolia.com/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/contacts_FILL1_wght400_GRAD0_opsz48_1_1.svg) Customer Stories](https://www.algolia.com/customers)
+    
+    ###### LEARN
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/school_FILL1_wght400_GRAD0_opsz48_1_1.svg) Algolia Academy](https://academy.algolia.com/trainings)
+    *  [![](/files/live/sites/algolia-assets/files/nav/local_mall_1.svg) Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook)
+    *  [![](/files/live/sites/algolia-assets/files/nav/flaky_1.svg) Ecommerce Search Audit](https://www.algolia.com/search-audit/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/event_note_1.svg) Events](https://www.algolia.com/events)
+    
+    ###### NEW
+    
+    *  [![](/files/live/sites/algolia-assets/files/nav/diversity_3_FILL1_wght400_GRAD0_opsz48_1_1.svg) Customer Hub](https://www.algolia.com/customer-hub)
+    *  [![](/files/live/sites/algolia-assets/files/nav/screen_search_desktop_1.svg) Changelog](https://changelog.algolia.com/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/newspaper_1.svg) Newsroom](https://www.algolia.com/about/news/)
+    
 
-Search Algolia
+Quick Access
 
-[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/ai-blue.svg)AI Search
+*  [![](/files/live/sites/algolia-assets/files/icons/apartment_blue.svg) Company](https://www.algolia.com/about)
+*  [![](/files/live/sites/algolia-assets/files/icons/handshake_blue.svg) Partners](https://partners.algolia.com/)
+*  [![](/files/live/sites/algolia-assets/files/icons/support_blue.svg) Support](https://support.algolia.com/)
+*  [![](/files/live/sites/algolia-assets/files/icons/person_blue.svg) Login](https://dashboard.algolia.com/users/sign_in)
+*  [![](/files/live/sites/algolia-assets/files/icons/Check%20Square.svg) Logout](https://dashboard.algolia.com/users/sign_out)
 
-The results users need to see](https://www.algolia.com/products/ai-search/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/browse-blue.svg)AI Browse
+[Request Demo](https://www.algolia.com/demorequest)
 
-Category and collection pages built by AI](https://www.algolia.com/products/ai-browse/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706727735/ui-library/nav/rebrand-2022/recommendations-blue.svg)AI Recommendations
+[Get started](https://dashboard.algolia.com/users/sign_up)
 
-Suggestions anywhere in the user journey](https://www.algolia.com/products/ai-recommendations/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Studio
+[Search Algolia](https://www.algolia.com/search)
 
-Data-enhanced customer experiences, without code](https://www.algolia.com/industries/ecommerce/merchandising-studio/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706630499/ui-library/nav/rebrand-2022/pie-blue.svg)Analytics
+[Request Demo](https://www.algolia.com/demorequest)
 
-All your insights in one dashboard](https://www.algolia.com/products/features/analytics/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428489/ui-library/nav/rebrand-2022/ui-components-blue.svg)UI Components
+[Get started](https://dashboard.algolia.com/users/sign_up)
 
-Pre-built components for custom journeys](https://www.algolia.com/developers/search-ui/)[Read more](https://www.algolia.com/products/)
+![](/files/live/sites/algolia-assets/files/icons/algolialogo.svg)
 
-Integrations[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1648030908/ui-library/icons/adobe.svg)Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1698748632/ui-library/icons/bigcommerce-icon_1.svg)BigCommerce](https://www.algolia.com/search-solutions/bigcommerce/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1706635486/ui-library/icons/commercetools-symbol.svg)Commercetools](https://www.algolia.com/search-solutions/commercetools/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1648030908/ui-library/icons/salesforce.svg)Salesforce CC](https://www.algolia.com/search-solutions/salesforce-commerce-cloud/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1648038540/ui-library/icons/shopify.svg)Shopify](https://www.algolia.com/search-solutions/shopify/)[See all integrations](https://www.algolia.com/developers/integrations/)
+Looking for our logo?
 
-[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1660826231/ui-library/nav/rebrand-2022/retail-blue.svg)Retail Ecommerce](https://www.algolia.com/industries/ecommerce/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661417963/ui-library/nav/rebrand-2022/b2b-blue.svg)B2B Ecommerce](https://www.algolia.com/industries/b2b-ecommerce/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418138/ui-library/nav/rebrand-2022/marketplaces-blue.svg)Marketplaces](https://www.algolia.com/industries/marketplaces/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418253/ui-library/nav/rebrand-2022/media-blue.svg)Media](https://www.algolia.com/industries/media/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418362/ui-library/nav/rebrand-2022/saas-blue.svg)SaaS](https://www.algolia.com/industries/saas/)[Read more](https://www.algolia.com/industries/)
+We got you covered!
 
-Get started[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1707167709/ui-library/nav/rebrand-2022/desktop-blue.svg)Developer Hub](https://www.algolia.com/developers/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418472/ui-library/nav/rebrand-2022/documentation-blue.svg)Documentation](https://www.algolia.com/doc/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661418574/ui-library/nav/rebrand-2022/integrations-blue.svg)Integrations](https://www.algolia.com/developers/integrations/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428489/ui-library/nav/rebrand-2022/ui-components-blue.svg)UI Components](https://www.algolia.com/developers/search-ui/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428592/ui-library/nav/rebrand-2022/autocomplete-blue.svg)Autocomplete](https://www.algolia.com/products/features/search-autocomplete/)
+[Brand guidelines](https://algolia.frontify.com/)
 
-Resources[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428817/ui-library/nav/rebrand-2022/codex-blue.svg)Code Exchange](https://www.algolia.com/developers/code-exchange/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661428974/ui-library/nav/rebrand-2022/eng-blog-blue.svg)Engineering Blog](https://www.algolia.com/blog/engineering/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429053/ui-library/nav/rebrand-2022/community-blue.svg)Discord](https://alg.li/discord)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Webinars & Events](https://www.algolia.com/events/)
+[Download logo pack](https://www.algolia.com/algolia-logo-pack.zip)
 
-Quick Links[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429233/ui-library/nav/rebrand-2022/quickstart-blue.svg)Quick Start Guide](https://www.algolia.com/doc/guides/getting-started/quick-start/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429343/ui-library/nav/rebrand-2022/opensource-blue.svg)For Open Source](https://www.algolia.com/for-open-source/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429412/ui-library/nav/rebrand-2022/api-blue.svg)API Status](https://status.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429480/ui-library/nav/rebrand-2022/support-blue.svg)Support](https://support.algolia.com/hc/en-us)
-
-Inspiration[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434320/ui-library/nav/rebrand-2022/blog-blue.svg)Algolia Blog](https://www.algolia.com/blog/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433275/ui-library/nav/rebrand-2022/resource-blue.svg)Resource Center](https://www.algolia.com/resources/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433386/ui-library/nav/rebrand-2022/customer-stories-blue.svg)Customer Stories](https://www.algolia.com/customers/)
-
-Learn[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433725/ui-library/nav/rebrand-2022/onboarding-blue.svg)Customer Hub](https://www.algolia.com/customer-hub/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433581/ui-library/nav/rebrand-2022/academy-blue.svg)Algolia Academy](https://academy.algolia.com/trainings)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433860/ui-library/nav/rebrand-2022/merch-blue.svg)Merchandising Playbook](https://www.algolia.com/ecommerce-merchandising-playbook/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1666886621/ui-library/nav/rebrand-2022/newsroom-blue.svg)Changelog](https://changelog.algolia.com/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661429144/ui-library/nav/rebrand-2022/events-blue.svg)Events](https://www.algolia.com/events/)
-
-Tools[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661433989/ui-library/nav/rebrand-2022/profit-sim-blue.svg)Profit Simulator](https://www.algolia.com/profit-simulator/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434083/ui-library/nav/rebrand-2022/grader-blue.svg)Search Grader](https://www.algolia.com/ai-search-grader/)[![](https://res.cloudinary.com/hilnmyskv/image/upload/v1661434168/ui-library/nav/rebrand-2022/search-audit-blue.svg)Ecommerce Search Audit](https://www.algolia.com/search-audit/)
-
-Cookies 🍪
-==========
+Cookies
+=======
 
 Algolia's use of cookies
 
-Select policyTerms of ServiceService Level AgreementPrivacy PolicySupportAcceptable Use PolicyLegal InformationCookiesInfrastructure & Sub-Processors
+Select Policy
+
+[Terms of Service](https://www.algolia.com/policies/terms)
+
+[Service Level Agreement](https://www.algolia.com/policies/sla)
+
+[Privacy Policy](https://www.algolia.com/policies/privacy)
+
+[Support Policy](https://www.algolia.com/policies/support)
+
+[Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
+
+[Legal Information](https://www.algolia.com/policies/legal)
+
+[Cookies](https://www.algolia.com/policies/cookies)
+
+[Infrastructure & Sub-Processors](https://www.algolia.com/policies/infrastructure-and-sub-processors)
+
+[Anti-Modern Slavery Statement](https://www.algolia.com/policies/anti-modern-slavery-statement)
 
 What Are Cookies?
 -----------------
@@ -156,12 +177,12 @@ Cookies on our websites fall into four categories: (1) Strictly Necessary, (2) P
 How to Manage Cookies?
 ----------------------
 
-**Cookie Consent Manager.** You may at any time manage your consent to such categories of Cookies by clicking on the “Cookie Settings” section at the bottom of the page. The Cookie Settings allow you to opt-in or out of cookies by category.
+**Cookie Consent Manager.** You may at any time manage your consent to such categories of Cookies by clicking on the “Cookie Settings” section at the bottom of the page. The Cookie Settings allow you to opt-in or out of cookies by category.
 
-**Browser Settings.** If you prefer, you can restrict, block or delete Cookies by changing your browser settings as instructed below.
+**Browser Settings.** If you prefer, you can restrict, block or delete Cookies by changing your browser settings as instructed below.
 
 However by blocking or deleting Cookies used on our websites, you may not be able to take full advantage of the websites.  
-For more information about cookies and their impact on you and your browsing visit [www.aboutcookies.org](https://www.aboutcookies.org/ "www.aboutcookies.org").
+For more information about cookies and their impact on you and your browsing visit [www.aboutcookies.org](https://www.aboutcookies.org/ "www.aboutcookies.org").
 
 Categories of Cookies
 ---------------------
@@ -247,22 +268,17 @@ To manage cookies on our website, follow the steps below.
 2. Then select "Options" tab and the "Advanced".
 3. Select "Enable cookies."
 
-Get the AI search that shows users what they need
--------------------------------------------------
-
-[Request demo](https://www.algolia.com/demorequest/)[Get started](https://www.algolia.com/users/sign_up)
-
 #### Solutions
 
-[Overview](https://www.algolia.com/products/)[AI Search](https://www.algolia.com/products/ai-search/)[AI Browse](https://www.algolia.com/products/ai-browse/)[AI Recommendations](https://www.algolia.com/products/recommendations/)[Pricing](https://www.algolia.com/pricing/)
+[Overview](https://www.algolia.com/products)[AI Search](https://www.algolia.com/products/ai-search)[AI Browse](https://www.algolia.com/products/ai-browse)[AI Recommendations](https://www.algolia.com/products/ai-recommendations)[Pricing](https://www.algolia.com/pricing)
 
 #### Use cases
 
-[Overview](https://www.algolia.com/use-cases/)[Enterprise search](https://www.algolia.com/industries-and-solutions/enterprise/)[Headless commerce](https://www.algolia.com/industries-and-solutions/headless-commerce/)[Mobile & app search](https://www.algolia.com/industries-and-solutions/mobile-search/)[Voice search](https://www.algolia.com/industries-and-solutions/voice-search/)[Image search](https://www.algolia.com/products/search-and-discovery/image-search/)
+[Overview](https://www.algolia.com/use-cases)[Enterprise search](https://www.algolia.com/use-cases/enterprise)[Headless commerce](https://www.algolia.com/use-cases/headless-commerce)[Mobile & app search](https://www.algolia.com/use-cases/mobile-search)[Voice search](https://www.algolia.com/use-cases/voice-search)[Image search](https://www.algolia.com/use-cases/image-search)
 
 #### Developers
 
-[Developer Hub](https://www.algolia.com/developers/)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations/)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source/)
+[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
 
 #### Live demos
 
@@ -270,70 +286,74 @@ Get the AI search that shows users what they need
 
 #### Integrations
 
-[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud/)[Shopify](https://www.algolia.com/search-solutions/shopify/)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento/)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools/)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce/)
+[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
 
 #### Distributed & secure
 
-[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws/)
+[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws)
 
 #### Industries
 
-[Overview](https://www.algolia.com/industries/)[B2C ecommerce](https://www.algolia.com/industries-and-solutions/ecommerce/)[B2B ecommerce](https://www.algolia.com/industries-and-solutions/b2b-ecommerce/)[Marketplaces](https://www.algolia.com/industries-and-solutions/marketplaces/)[SaaS](https://www.algolia.com/industries-and-solutions/saas/)[Media](https://www.algolia.com/industries-and-solutions/media/)[Startups](https://www.algolia.com/industries/startups/)
+[Overview](https://www.algolia.com/industries)[B2C ecommerce](https://www.algolia.com/industries/ecommerce)[B2B ecommerce](https://www.algolia.com/industries/b2b-ecommerce)[Marketplaces](https://www.algolia.com/industries/marketplaces)[SaaS](https://www.algolia.com/industries/saas)[Media](https://www.algolia.com/industries/media)[Startups](https://www.algolia.com/industries/startups)
 
 #### Company
 
-[About Algolia](https://www.algolia.com/about/)[Careers](https://www.algolia.com/careers/)[Newsroom](https://www.algolia.com/about/news/)[Events](https://www.algolia.com/events/)[Leadership](https://www.algolia.com/about/leadership/)[Social impact](https://www.algolia.com/about/social-impact/)[Contact us](https://www.algolia.com/contact/)
+[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news/)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
 
 #### Social networks
 
-* [LinkedIn](https://www.linkedin.com/company/algolia/)
-* [X (ex-Twitter)](https://twitter.com/algolia)
-* [Facebook](https://www.facebook.com/algolia/)
-* [Instagram](https://www.instagram.com/algolia.search/)
-* [YouTube](https://www.youtube.com/channel/UCTNkiq-SO8hay1PRx-it9Cw)
+* [](https://twitter.com/algolia "Twitter")
+* [](https://www.facebook.com/algolia/ "FaceBook")
+* [](https://www.linkedin.com/company/algolia/ "LinkedIn")
+* [](https://www.youtube.com/user/Algolia "YouTube")
+* [](https://www.instagram.com/algolialife "Instagram")
 
-#### Use cases
+#### Developers
 
-[Overview](https://www.algolia.com/use-cases/)[Enterprise search](https://www.algolia.com/industries-and-solutions/enterprise/)[Headless commerce](https://www.algolia.com/industries-and-solutions/headless-commerce/)[Mobile & app search](https://www.algolia.com/industries-and-solutions/mobile-search/)[Voice search](https://www.algolia.com/industries-and-solutions/voice-search/)[Image search](https://www.algolia.com/products/search-and-discovery/image-search/)
-
-#### Integrations
-
-[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud/)[Shopify](https://www.algolia.com/search-solutions/shopify/)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento/)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools/)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce/)
-
-#### Industries
-
-[Overview](https://www.algolia.com/industries/)[B2C ecommerce](https://www.algolia.com/industries-and-solutions/ecommerce/)[B2B ecommerce](https://www.algolia.com/industries-and-solutions/b2b-ecommerce/)[Marketplaces](https://www.algolia.com/industries-and-solutions/marketplaces/)[SaaS](https://www.algolia.com/industries-and-solutions/saas/)[Media](https://www.algolia.com/industries-and-solutions/media/)[Startups](https://www.algolia.com/industries/startups/)
+[Developer Hub](https://www.algolia.com/developers)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source)
 
 #### Live demos
 
 [GDPR](https://gdpr.algolia.com/)[AI Act](https://aiact.algolia.com/)
 
+#### Industries
+
+[Overview](https://www.algolia.com/industries)[B2C ecommerce](https://www.algolia.com/industries/ecommerce)[B2B ecommerce](https://www.algolia.com/industries/b2b-ecommerce)[Marketplaces](https://www.algolia.com/industries/marketplaces)[SaaS](https://www.algolia.com/industries/saas)[Media](https://www.algolia.com/industries/media)[Startups](https://www.algolia.com/industries/startups)
+
 #### Solutions
 
-[Overview](https://www.algolia.com/products/)[AI Search](https://www.algolia.com/products/ai-search/)[AI Browse](https://www.algolia.com/products/ai-browse/)[AI Recommendations](https://www.algolia.com/products/recommendations/)[Pricing](https://www.algolia.com/pricing/)
+[Overview](https://www.algolia.com/products)[AI Search](https://www.algolia.com/products/ai-search)[AI Browse](https://www.algolia.com/products/ai-browse)[AI Recommendations](https://www.algolia.com/products/ai-recommendations)[Pricing](https://www.algolia.com/pricing)
 
-#### Developers
+#### Use cases
 
-[Developer Hub](https://www.algolia.com/developers/)[Documentation](https://www.algolia.com/doc/)[Integrations](https://www.algolia.com/developers/integrations/)[Engineering blog](https://www.algolia.com/blog/engineering/)[Discord community](https://alg.li/discord)[API status](https://status.algolia.com/)[DocSearch](https://docsearch.algolia.com/)[For Open Source](https://www.algolia.com/for-open-source/)
+[Overview](https://www.algolia.com/use-cases)[Enterprise search](https://www.algolia.com/use-cases/enterprise)[Headless commerce](https://www.algolia.com/use-cases/headless-commerce)[Mobile & app search](https://www.algolia.com/use-cases/mobile-search)[Voice search](https://www.algolia.com/use-cases/voice-search)[Image search](https://www.algolia.com/use-cases/image-search)
+
+#### Integrations
+
+[Salesforce Commerce Cloud B2C](https://www.algolia.com/search-solutions/salesforce-commerce-cloud)[Shopify](https://www.algolia.com/search-solutions/shopify)[Adobe Commerce](https://www.algolia.com/search-solutions/adobe-commerce-magento)[Netlify](https://www.algolia.com/search-solutions/netlify/)[Commercetools](https://www.algolia.com/search-solutions/commercetools)[BigCommerce](https://www.algolia.com/search-solutions/bigcommerce)
 
 #### Distributed & secure
 
-[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure/)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance/)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure/)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws/)
+[Global infrastructure](https://www.algolia.com/distributed-secure/global-infrastructure)[Security & compliance](https://www.algolia.com/distributed-secure/security-compliance)[Azure](https://www.algolia.com/search-solutions/algolia-on-azure)[AWS](https://www.algolia.com/search-solutions/algolia-on-aws)
 
 #### Company
 
-[About Algolia](https://www.algolia.com/about/)[Careers](https://www.algolia.com/careers/)[Newsroom](https://www.algolia.com/about/news/)[Events](https://www.algolia.com/events/)[Leadership](https://www.algolia.com/about/leadership/)[Social impact](https://www.algolia.com/about/social-impact/)[Contact us](https://www.algolia.com/contact/)
+[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news/)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
 
 #### Social networks
 
-* [LinkedIn](https://www.linkedin.com/company/algolia/)
-* [X (ex-Twitter)](https://twitter.com/algolia)
-* [Facebook](https://www.facebook.com/algolia/)
-* [Instagram](https://www.instagram.com/algolia.search/)
-* [YouTube](https://www.youtube.com/channel/UCTNkiq-SO8hay1PRx-it9Cw)
+* [](https://twitter.com/algolia "Twitter")
+* [](https://www.facebook.com/algolia/ "FaceBook")
+* [](https://www.linkedin.com/company/algolia/ "LinkedIn")
+* [](https://www.youtube.com/user/Algolia "YouTube")
+* [](https://www.instagram.com/algolialife "Instagram")
 
 * * *
 
-Algolia mark white©2024 Algolia - All rights reserved.
+Algolia mark white ©2024 Algolia - All rights reserved.
 
-[Privacy policy](https://www.algolia.com/policies/privacy/)[Terms of service](https://www.algolia.com/policies/terms/)[Acceptable use policy](https://www.algolia.com/policies/acceptable-use/)[Anti-Modern Slavery Statement](https://www.algolia.com/policies/anti-modern-slavery-statement/)
+* Cookie settings
+* [Trust Center](https://www.algolia.com/trust-center/)
+* [Privacy Policy](https://www.algolia.com/policies/privacy)
+* [Terms of service](https://www.algolia.com/policies/terms)
+* [Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
