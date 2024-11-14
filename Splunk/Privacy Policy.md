@@ -206,8 +206,6 @@ false
         
     * [Partners](https://www.splunk.com/en_us/partners.html)
         
-    * [Customer Success](https://www.splunk.com/en_us/customer-success.html)
-        
     * [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
         
     * [AppDynamics joins Splunk](https://www.splunk.com/en_us/appdynamics-joins-splunk.html)
@@ -566,8 +564,6 @@ Better Together
 [Customer Stories](https://www.splunk.com/en_us/customers.html)
 
 [Partners](https://www.splunk.com/en_us/partners.html)
-
-[Customer Success](https://www.splunk.com/en_us/customer-success.html)
 
 [Cisco + Splunk](https://www.splunk.com/en_us/cisco-splunk-better-together.html)
 
