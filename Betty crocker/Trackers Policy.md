@@ -81,6 +81,8 @@ Menu
         * [Thanksgiving Side Dish Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/sides)
         * [Thanksgiving Pie Recipes](https://www.bettycrocker.com/recipes/dishes/pie-and-tart-recipes/thanksgiving)
         * [Thanksgiving Dessert Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/desserts)
+        * [Non-Turkey Thanksgiving Mains](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/thanksgiving-non-turkey-mains)
+        * [Leftover Thanksgiving Recipes](https://www.bettycrocker.com/special-occasions/thanksgiving-recipes/thanksgiving-leftovers)
     * [Christmas](https://www.bettycrocker.com/special-occasions/christmas-recipes)
         * [Christmas Cookie Recipes](https://www.bettycrocker.com/recipes/dishes/cookie-recipes/christmas-cookies)
         * [Christmas Cake Recipes](https://www.bettycrocker.com/recipes/dishes/cake-recipes/christmas-cake-recipes)
