@@ -274,8 +274,6 @@ Last Name
 
 Email Address \*
 
-[![](data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 800 365'%3E%3C/svg%3E)](https://mugclub.rumble.com/support)
-
 [](https://www.louderwithcrowder.com/)
 
 [](https://www.facebook.com/stevencrowderofficial/)[](https://twitter.com/scrowder)[](https://www.instagram.com/louderwithcrowder/)[](https://www.youtube.com/user/StevenCrowder/)
@@ -283,5 +281,3 @@ Email Address \*
 © 2023 Louder with Crowder. All Rights Reserved.
 
 [Privacy Policy](https://www.louderwithcrowder.com/privacy-policy)  |  [Terms of Use](https://www.louderwithcrowder.com/terms-of-use)
-
-[![](https://cdn.shopify.com/s/files/1/0697/5150/5204/files/Steven_Crowder_-_Placement_Ads_Mug_Club_-_975x250_1.png?v=1709377051)](https://mugclub.rumble.com/)
