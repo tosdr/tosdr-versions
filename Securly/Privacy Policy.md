@@ -147,52 +147,52 @@
     
     #### School
     
-    * [![Aware](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-aware-icon.svg)
+    * [![Online student monitoring app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-aware-icon.svg)
         
         Aware](https://www.securly.com/app/login?product=aware)
-    * [![Classroom](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-classroom-icon.svg)
+    * [![Classroom management app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-classroom-icon.svg)
         
         Classroom](https://deviceconsole.securly.com/classroom)
-    * [![Filter](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-filter-icon.svg)
+    * [![Web activity monitoring app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-filter-icon.svg)
         
         Filter](https://www.securly.com/app/filter)
-    * [![MDM](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-mdm-icon.svg)
+    * [![Apple device management solution](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-mdm-icon.svg)
         
         MDM](https://deviceconsole.securly.com/mdm)
-    * [![Reveal](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-reveal-icon.svg)
+    * [![Edtech usage analysis app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-reveal-icon.svg)
         
         Reveal](https://dyknow.me/)
-    * [![Rhithm](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-rhithm-icon.svg)
+    * [![Daily safety insights app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-rhithm-icon.svg)
         
         Rhithm](https://portal.rhithm.app/)
-    * [![Discern](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-discern-icon.svg)
+    * [![Student support AI solution](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-discern-icon.svg)
         
         Discern](https://discern.securly.com/)
-    * [![Visitor](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-visitor-icon.svg)
+    * [![School visitor management app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-visitor-icon.svg)
         
         Visitor](https://vms.securly.com/)
-    * [![Respond](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-respond-icon.svg)
+    * [![Alert management app for school staff](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-respond-icon.svg)
         
         Respond](https://www.securly.com/responder/login)
-    * [![On-Call](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-on-call-icon.svg)
+    * [![Securly managed alert analysis app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-on-call-icon.svg)
         
         On-Call](https://www.securly.com/app/login?product=aware)
-    * [![pass](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-e-hallpass-icon.svg)
+    * [![Digital hall pass app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-e-hallpass-icon.svg)
         
         Pass](https://pass.securly.com/login)
-    * [![Flex](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-flex-icon.svg)
+    * [![Flexible period management app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-flex-icon.svg)
         
         Flex](https://flextimemanager.com/login)
-    * [![Observe](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/menu-observe-logo.svg)
+    * [![Student wellness monitoring solution](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/menu-observe-logo.svg)
         
         Observe](https://observe.securly.com/)
-    * [![Multi-school login](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-multi-school-icon.svg)
+    * [![Login with Google or Microsoft Azure](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-multi-school-icon.svg)
         
         Multi-school login](https://idp.securly.com/app/auth)
     
     #### Parent
     
-    * [![Home](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-home-icon.svg)
+    * [![Family engagement app](https://prod-web-assets-securly.s3.us-west-1.amazonaws.com/images/login-home-icon.svg)
         
         Home](https://www.securly.com/parent-login)
     
