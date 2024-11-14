@@ -488,7 +488,7 @@ Services
 
 * [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
 * [FAQ](https://www.1800gotjunk.com/us_en/frequently-asked-questions)
-* [Book an Appointment](https://request.1800gotjunk.com/us_en/onlinebooking)
+* [Book an Appointment](#book-now)
 * [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
 * [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
 * [Business Services](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services)
@@ -511,7 +511,7 @@ Services
 
 * [Pricing](https://www.1800gotjunk.com/us_en/how-our-pricing-works)
 * [FAQ](https://www.1800gotjunk.com/us_en/frequently-asked-questions)
-* [Book an Appointment](https://request.1800gotjunk.com/us_en/onlinebooking)
+* [Book an Appointment](#book-now)
 * [What We Do](https://www.1800gotjunk.com/us_en/what-we-do/what_we_do)
 * [What We Take](https://www.1800gotjunk.com/us_en/what-we-take/what_we_take)
 * [Business Services](https://www.1800gotjunk.com/us_en/Commercial/Commercial_Services)
@@ -893,22 +893,6 @@ Shawn Newkirk Seattle 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
-
-Laura Feijo Austin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Terrell and Mason were awesome!
-
-philip jims Austin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Steven and Daren were great. Prompt, quick, and friendly. Thanks guys!
 
 J Johnston Madison 09/11/2024
@@ -920,14 +904,6 @@ J Johnston Madison 09/11/2024
 Chris and Will all star crew, here for 10min and out!
 
 Ricky Lovett Wisconsin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Patrick and Gio did a great job today
-
-sarah thelen Naples 09/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -957,6 +933,14 @@ Bob Saffin Cincinnati 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
+
+Laura Feijo Austin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Keith and Caleb were awesome!
 
 Ben Hardin Wisconsin 09/11/2024
@@ -965,9 +949,41 @@ Ben Hardin Wisconsin 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Terrell and Mason were awesome!
+
+philip jims Austin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Darontay and Derrick J. did an amazing job. Showed up right on time and cleared out everything that I wanted gone.
 
 Tim Leber Seattle 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Patrick and Gio did a great job today
+
+sarah thelen Naples 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Tia and Kegan were great at getting us situated and moved to another storage unit.
+
+Neil Raisanen Naples 08/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Tia and Kegan were great at helping us clean some clutter from the office. Thank you 1800gotjunk
+
+Brandon Mace Naples 08/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -989,6 +1005,14 @@ Abhishek Ray Seattle 08/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Antonio & Chris were courtious quick and awesome. Thank you
+
+Amie Sommer Cincinnati 08/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 TC and Nick are great!!!
 
 Sergio Perez Austin 08/11/2024
@@ -997,33 +1021,9 @@ Sergio Perez Austin 08/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Louis and Jordan were the best. Highly recommend!! Professional and friendly.
+JASON AND DANIEL
 
-M Naples 08/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Zack & David were amazing!!! Highly recommend this company. Fast, efficient, thorough. The best!
-
-Suzanne Tubbs Austin 08/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-We had a full room of furnitures removed in Naples. The guys (Chaz and Josh) were efficient, polite and I would recommend them to anyone.
-
-Melissa Ross Naples 08/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Antonio & Chris were courtious quick and awesome. Thank you
-
-Amie Sommer Cincinnati 08/11/2024
+Lucien Cox LA Metro 08/11/2024
 
 ### 
 
