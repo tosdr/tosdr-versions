@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [U.S. public schools spread anti-Israe… (49)](https://forum.nationstates.net/viewtopic.php?t=558205&f=20&view=unread#unread ""U.S. public schools spread anti-Israel misinfo, antisemitism" (49 posts)")
-* [\[R\] Misgendering other user (7)](https://forum.nationstates.net/viewtopic.php?t=558315&f=16&view=unread#unread ""[R] Misgendering other user" (7 posts)")
-* [Regional cards a new thing to collect (11)](https://forum.nationstates.net/viewtopic.php?t=558303&f=15&view=unread#unread ""Regional cards a new thing to collect" (11 posts)")
-* [Intimacy boycotts (4B movement) (218)](https://forum.nationstates.net/viewtopic.php?t=558243&f=20&view=unread#unread ""Intimacy boycotts (4B movement)" (218 posts)")
-* [Out of the 2 AN’s: Which one has the… (4,339)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (4,339 posts)")
+* [UK Politics Thread: Kemi Badenoch ele… (12,289)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,289 posts)")
+* [What do you love about AN? (1,984)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,984 posts)")
+* [American Politics: Turnabout Trump (4,459)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,459 posts)")
+* [What question do you want to ask AU? (11,645)](https://forum.nationstates.net/viewtopic.php?t=492529&f=25&view=unread#unread ""What question do you want to ask AU?" (11,645 posts)")
+* [AN Out of Context III (4,088)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,088 posts)")
 
 Advertisement
 
