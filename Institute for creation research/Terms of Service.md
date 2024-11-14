@@ -165,31 +165,69 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
+More Origins Issues
 
-[![](/i/ICR_Sept23_wallpaper_1400x1050_main.jpg)](https://www.icr.org/article/september-2023-icr-wallpaper)
+[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/pb-j-painful-blisters-jellies)
 
-[September 2023 ICR Wallpaper](https://www.icr.org/article/september-2023-icr-wallpaper/)
+[PB & J (Painful Blisters and Jellies)](https://www.icr.org/article/pb-j-painful-blisters-jellies/)
 
-"If you walk in My statutes and keep My commandments, and perform them, then I will give you rain in its season, the land shall yield its produce, and...
+Jellies (commonly termed "jellyfish") of the phylum Cnidaria (ni-dah'-ree-ah), class Scyphozoa, are amazing creatures composed of...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/DrummerWood_1400x1050.jpg)](https://www.icr.org/article/Natures-Drummer)
+[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/mending-mistakes-amazing-ability-repair)
 
-[Nature's Drummer](https://www.icr.org/article/Natures-Drummer/)
+[Mending Mistakes - The Amazing Ability of Repair](https://www.icr.org/article/mending-mistakes-amazing-ability-repair/)
 
-The sweet melody of songbirds fills the air as the forest wakes up. But there is another familiar voice that joins in the morning songs: woodpecker....
+If someone were to ask a creation scientist for evidence of creation, he may very well reply, "The DNA molecule." Everyone has heard...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/Main%20Stage%20-%201400x1050/FineStructure_1400x1050.jpg)](https://www.icr.org/article/The-Fine-Structure-Constant)
+[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/those-anti-creation-websites)
 
-[The Fine-Structure Constant: Evidence of Design in Nature](https://www.icr.org/article/The-Fine-Structure-Constant/)
+[Those Anti-Creation Websites](https://www.icr.org/article/those-anti-creation-websites/)
 
-The job of physicists is to worry about numbers, but one number has perplexed physicists for more than a century. That number is 0.00729735256—approximately...
+One need not cruise the Net very long to encounter a plethora of anti-creation and anti- Christian sites. This is strange in light of society’s insistence...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+
+Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+
+$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
