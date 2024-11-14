@@ -42,6 +42,14 @@ An international digital games and entertainment company. We develop, publish an
 What's New
 ----------
 
+[![](https://static-prod-web.miniclip.com/assets/news/21_PR_Easybrain.jpg)](https://mobilegamer.biz/miniclip-acquires-easybrain-from-embracer-for-1-2bn/)
+
+### Easybrain joins Miniclip
+
+Bringing in top puzzle titles like Sudoku.com, Pixel Art, and Blockudoku, marks a strategic expansion into the casual puzzle space.
+
+[See More](https://mobilegamer.biz/miniclip-acquires-easybrain-from-embracer-for-1-2bn/)
+
 [![](https://static-prod-web.miniclip.com/assets/news/20_PR_FuturLab.png)](https://futurlab.co.uk/2024/04/10/futurlab-joins-the-miniclip-family)
 
 ### FuturLab joins the Miniclip Group
@@ -113,14 +121,6 @@ James Russell, Chief Product Officer, on iOS UA environment changes and the vola
 "I think the games industry has a responsibility to harness the power of play to tackle climate change." Rob Small, Games Forest Club Ambassador.
 
 [See More](https://gamesforest.club/blog/miniclip-joins-with-their-president-rob-small-the-games-forest-club/)
-
-[![](https://static-prod-web.miniclip.com/assets/news/SaadCEO/10_PR_Article_Guinness_World_Record.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:6864200471200980993)
-
-### Miniclip Appoints Saad Choudri to CEO
-
-Saad Choudri who has been with Miniclip since 2011 has taken over the role of CEO from Jurgen Post.
-
-[See More](https://www.linkedin.com/feed/update/urn:li:activity:6864200471200980993)
 
 ### Careers
 
