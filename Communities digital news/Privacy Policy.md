@@ -26,161 +26,161 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetzrnc-1200-x-628-1200x630.jpg)](https://americanwirenews.com/senate-republican-vows-gaetz-will-never-get-confirmed-as-uniparty-circles-the-wagons/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-obama-dnc-1200x630.jpg)](https://americanwirenews.com/secret-service-agent-fired-for-sneaking-girlfriend-to-obamas-beach-house-bathroom-to-use-as-mile-high-club/)
 
-[Senate Republican vows Gaetz ‘will never get confirmed’ as uniparty circles the wagons](https://americanwirenews.com/senate-republican-vows-gaetz-will-never-get-confirmed-as-uniparty-circles-the-wagons/)
+[Secret Service agent fired for sneaking girlfriend to Obama’s beach house bathroom to use as ‘mile high club’](https://americanwirenews.com/secret-service-agent-fired-for-sneaking-girlfriend-to-obamas-beach-house-bathroom-to-use-as-mile-high-club/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joebsmiley-pxbay-rig-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-rachel-zegler-1200x630.jpg)](https://americanwirenews.com/snow-white-woke-reboot-actress-wishes-ill-on-trump-supporters/)
 
-[Biden regime imposes new tax on the way out the door](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
+[Snow White ‘woke’ reboot actress wishes ill on Trump supporters](https://americanwirenews.com/snow-white-woke-reboot-actress-wishes-ill-on-trump-supporters/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-indiegogo-fundraiser-corey-burke-and-samantha-leigh-allen-1200x630.jpg)](https://americanwirenews.com/wife-of-prominent-trans-author-hacks-father-to-death-with-ice-axe-in-breakdown-over-trump-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-natalie-harp-1200x630.jpg)](https://americanwirenews.com/woman-dubbed-trumps-human-printer-became-one-of-his-most-important-allies-with-an-inspirational-story/)
 
-[Wife of prominent trans author hacks father to death with ice axe in breakdown over Trump win](https://americanwirenews.com/wife-of-prominent-trans-author-hacks-father-to-death-with-ice-axe-in-breakdown-over-trump-win/)
+[Woman dubbed Trump’s ‘human printer’ became one of his most important allies with an inspirational story](https://americanwirenews.com/woman-dubbed-trumps-human-printer-became-one-of-his-most-important-allies-with-an-inspirational-story/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schiff-gaetz-1200x630.jpg)](https://americanwirenews.com/musk-warns-schiff-that-the-hammer-of-justice-is-coming/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-eva-longoria-1200x630.jpg)](https://americanwirenews.com/eternally-ignorant-leftist-eva-longoria-leaves-dystopian-u-s-after-trump-win-rips-homelessness-and-taxes/)
 
-[Musk warns Schiff that ‘the hammer of justice is coming’](https://americanwirenews.com/musk-warns-schiff-that-the-hammer-of-justice-is-coming/)
+[‘Eternally ignorant’: Leftist Eva Longoria leaves ‘dystopian’ U.S. after Trump win, rips ‘homelessness’ and ‘taxes’](https://americanwirenews.com/eternally-ignorant-leftist-eva-longoria-leaves-dystopian-u-s-after-trump-win-rips-homelessness-and-taxes/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lemon-x-1200x630.jpg)](https://americanwirenews.com/don-lemon-announces-departure-from-x-his-reason-will-leave-you-in-stitches/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-flag-utah-1200x630.jpg)](https://americanwirenews.com/police-hunt-madman-terrorizing-neighborhood-by-cutting-down-trump-american-flags/)
 
-[Don Lemon announces departure from X – his reason will leave you in stitches](https://americanwirenews.com/don-lemon-announces-departure-from-x-his-reason-will-leave-you-in-stitches/)
+[Police hunt madman terrorizing neighborhood by cutting down Trump, American flags](https://americanwirenews.com/police-hunt-madman-terrorizing-neighborhood-by-cutting-down-trump-american-flags/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-johnson-1200x630.jpg)](https://americanwirenews.com/boris-johnson-faction-within-republican-party-has-a-weird-sort-of-homoerotic-fascination-for-putin/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183862554-1-1200x630.jpg)](https://americanwirenews.com/blinken-biden-is-committed-to-making-sure-every-dollar-we-have-at-our-disposal-goes-to-ukraine/)
 
-[Boris Johnson: ‘Faction within Republican Party has a weird, sort of homoerotic fascination for Putin’](https://americanwirenews.com/boris-johnson-faction-within-republican-party-has-a-weird-sort-of-homoerotic-fascination-for-putin/)
+(Photo by NICOLAS TUCAT/POOL/AFP via Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chaffetz-fox-news-1200x630.jpg)](https://americanwirenews.com/jason-chaffetz-dares-any-republican-senator-to-vote-against-trumps-choice-for-def-sec/)
+[‘Another giant FU’: Blinken flatly states where every available dollar will go before Trump takes office](https://americanwirenews.com/blinken-biden-is-committed-to-making-sure-every-dollar-we-have-at-our-disposal-goes-to-ukraine/)
 
-[Jason Chaffetz dares any Republican senator to vote against Trump’s choice for Sec Def](https://americanwirenews.com/jason-chaffetz-dares-any-republican-senator-to-vote-against-trumps-choice-for-def-sec/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-mccarthy-1200x630.jpg)](https://americanwirenews.com/mccarthy-adamant-gaetz-wont-be-confirmed-federalists-sean-davis-floats-interesting-twist-if-hes-right/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jayapal-1200x630.jpg)](https://americanwirenews.com/jayapal-loses-her-enthusiasm-to-nuke-filibuster-after-gop-wins-control-of-senate/)
+[McCarthy adamant Gaetz won’t be confirmed, Federalist’s Sean Davis floats ‘interesting’ twist if he’s right](https://americanwirenews.com/mccarthy-adamant-gaetz-wont-be-confirmed-federalists-sean-davis-floats-interesting-twist-if-hes-right/)
 
-[Jayapal loses her enthusiasm to nuke filibuster after GOP wins control of Senate](https://americanwirenews.com/jayapal-loses-her-enthusiasm-to-nuke-filibuster-after-gop-wins-control-of-senate/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-woman-tearing-up-order-1200x630.jpg)](https://americanwirenews.com/woman-jailed-for-keeping-salon-open-during-covid-just-won-a-seat-in-texas-house/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-viewbidendebate1-1200-x-628-1200x630.jpg)
+[Woman jailed for keeping salon open during Covid just won a seat in Texas House](https://americanwirenews.com/woman-jailed-for-keeping-salon-open-during-covid-just-won-a-seat-in-texas-house/)
 
-### Big changes could be coming to ‘The View’ with ABC bosses in ‘panic mode’ after Trump win](https://americanwirenews.com/big-changes-could-be-coming-to-the-view-with-abc-bosses-in-panic-mode-after-trump-win/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-pete-hegseth-1200x630.png)
+
+### Ex-Fox host ‘stunned’ by Trump’s Pete Hegseth appointment: ‘Yes he’s a veteran… and?’](https://americanwirenews.com/ex-fox-host-stunned-by-trumps-pete-hegseth-appointment-yes-hes-a-veteran-and/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
-### [Epic clip of new border czar sparring with AOC sets the tone](https://americanwirenews.com/epic-clip-of-new-border-czar-sparring-with-aoc-sets-the-tone/)
+### [Al Sharpton’s nonprofit got $500K from Kamala Harris before softball interview](https://americanwirenews.com/al-sharptons-nonprofit-got-500k-from-kamala-harris-before-softball-interview/)
 
-### [Leftists send hockey legend to penalty box for wearing pro-Trump hat](https://americanwirenews.com/leftists-send-hockey-legend-to-penalty-box-for-wearing-pro-trump-hat/)
+### [Trump’s choice of Pete Hegseth for Sec of Defense brings MORE meltdowns from clueless media](https://americanwirenews.com/trumps-choice-of-pete-hegseth-for-sec-of-defense-brings-more-meltdowns-from-clueless-media/)
 
-### [Jesse Watters says his ultra-liberal mom didn’t invite him for Thanksgiving, ‘she said it was a scheduling situation’](https://americanwirenews.com/jesse-watters-says-his-ultra-liberal-mom-didnt-invite-him-for-thanksgiving-she-said-it-was-a-scheduling-situation/)
+### [Alina Habba says she’d ‘very seriously’ consider serving as Trump’s press secretary](https://americanwirenews.com/alina-habba-says-shed-very-seriously-consider-serving-as-trumps-press-secretary/)
 
-### [Woman cries that she can’t have kids for 4 years since Trump won, may miss her window](https://americanwirenews.com/woman-cries-that-she-cant-have-kids-for-4-years-since-trump-won-may-miss-her-window/)
+### [Top GOP senator torches McConnell’s ‘grotesque’ push for secret leadership vote](https://americanwirenews.com/top-gop-senator-torches-mcconnells-grotesque-push-for-secret-leadership-vote/)
 
-### [‘We’re coming’ – new ‘border czar’ puts sanctuary cities on notice, migrants already reacting](https://americanwirenews.com/were-coming-new-border-czar-puts-sanctuary-cities-on-notice-migrants-already-reacting/)
+### [Musk, Ramaswamy to head up new ‘DOGE’ department, reduce federal agencies from 428 to 99](https://americanwirenews.com/musk-ramaswamy-to-head-up-new-doge-department-reduce-federal-agencies-from-428-to-99/)
 
-### [Kamala Harris HQ is asking for donations to fund ‘recount’](https://americanwirenews.com/kamala-harris-hq-is-asking-for-donations-to-fund-recount/)
+### [Salty Carville unloads on D.C. Dems, rips their ‘identity sh\*t’ and ‘jackassery’](https://americanwirenews.com/salty-carville-unloads-on-d-c-dems-rips-their-identity-sht-and-jackassery/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-220x180.jpg)](https://americanwirenews.com/desantis-endorses-florida-taking-legal-action-against-fema-over-discrimination/)
+
+[Florida takes swift legal action against FEMA over discrimination](https://americanwirenews.com/desantis-endorses-florida-taking-legal-action-against-fema-over-discrimination/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2023/02/GI-RF-Money-220x180.jpg)](https://americanwirenews.com/california-city-to-vote-on-6m-reparations-plan-for-black-and-latino-families/)
+
+[California city to vote on $6M reparations plan for Black and Latino families](https://americanwirenews.com/california-city-to-vote-on-6m-reparations-plan-for-black-and-latino-families/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-pexels-lindt-chocolate-220x180.jpg)](https://americanwirenews.com/lindt-chocolatier-makes-case-against-itself-to-maintain-excellence-claim-in-wild-courtroom-twist/)
+
+[Lindt chocolatier makes case AGAINST itself to maintain ‘excellence’ claim in wild courtroom twist](https://americanwirenews.com/lindt-chocolatier-makes-case-against-itself-to-maintain-excellence-claim-in-wild-courtroom-twist/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-watters-1-220x180.jpg)](https://americanwirenews.com/jesse-watters-gives-preview-of-the-pork-doge-will-be-torching-the-feds-spent-20-grand-on-drag-shows-in-ecuador/)
+
+[Jesse Watters gives preview of the pork DOGE will be torching: ‘The feds spent $20 grand on drag shows in Ecuador…’](https://americanwirenews.com/jesse-watters-gives-preview-of-the-pork-doge-will-be-torching-the-feds-spent-20-grand-on-drag-shows-in-ecuador/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-kamalahitler-1200-x-628-220x180.jpg)](https://americanwirenews.com/harris-campaign-adviser-points-finger-of-blame-for-missed-opportunity-with-joe-rogan/)
+
+[Harris campaign adviser points finger of blame for missed opportunity with Joe Rogan](https://americanwirenews.com/harris-campaign-adviser-points-finger-of-blame-for-missed-opportunity-with-joe-rogan/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aseem-malhotra-220x180.jpg)](https://americanwirenews.com/potential-trump-admin-heart-disease-czar-vows-to-treat-processed-junk-food-like-the-new-tobacco/)
+
+[Potential Trump admin heart disease czar vows to treat processed junk food ‘like the new tobacco’](https://americanwirenews.com/potential-trump-admin-heart-disease-czar-vows-to-treat-processed-junk-food-like-the-new-tobacco/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-patrick-megan-220x180.jpg)](https://americanwirenews.com/to-be-fair-i-cant-twerk-danica-patrick-reveals-how-much-she-got-to-stump-for-trump-reacts-to-5m-payout-to-megan-thee-stallion/)
+
+[‘To be fair, I can’t twerk’: Danica Patrick reveals how much she got to stump for Trump, reacts to $5M payout to Megan Thee Stallion](https://americanwirenews.com/to-be-fair-i-cant-twerk-danica-patrick-reveals-how-much-she-got-to-stump-for-trump-reacts-to-5m-payout-to-megan-thee-stallion/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-polymarketcnbc-1200-x-628-220x180.jpg)](https://americanwirenews.com/polymarket-ceos-phone-devices-seized-by-feds-after-online-betting-platform-predicted-trump-win/)
+
+[Polymarket CEO’s phone, devices seized by feds after online betting platform predicted Trump win](https://americanwirenews.com/polymarket-ceos-phone-devices-seized-by-feds-after-online-betting-platform-predicted-trump-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fetterman-220x180.jpg)](https://americanwirenews.com/fetterman-praises-trump-picks-as-god-tier-level-trolling/)
+
+[Fetterman praises Trump picks as ‘God-tier level trolling’](https://americanwirenews.com/fetterman-praises-trump-picks-as-god-tier-level-trolling/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-trump-3-220x180.jpg)](https://americanwirenews.com/trump-joke-about-third-term-triggers-cavalcade-of-exploding-leftist-heads/)
+
+[Trump joke about third term triggers cavalcade of exploding leftist heads](https://americanwirenews.com/trump-joke-about-third-term-triggers-cavalcade-of-exploding-leftist-heads/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-schiff-gaetz-220x180.jpg)](https://americanwirenews.com/musk-warns-schiff-that-the-hammer-of-justice-is-coming/)
+
+[Musk warns Schiff that ‘the hammer of justice is coming’](https://americanwirenews.com/musk-warns-schiff-that-the-hammer-of-justice-is-coming/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-indiegogo-fundraiser-corey-burke-and-samantha-leigh-allen-220x180.jpg)](https://americanwirenews.com/wife-of-prominent-trans-author-hacks-father-to-death-with-ice-axe-in-breakdown-over-trump-win/)
+
+[Wife of prominent trans author hacks father to death with ice axe in breakdown over Trump win](https://americanwirenews.com/wife-of-prominent-trans-author-hacks-father-to-death-with-ice-axe-in-breakdown-over-trump-win/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joebsmiley-pxbay-rig-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
+
+[Biden regime imposes new tax on the way out the door](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetzrnc-1200-x-628-220x180.jpg)](https://americanwirenews.com/senate-republican-vows-gaetz-will-never-get-confirmed-as-uniparty-circles-the-wagons/)
+
+[Senate Republican vows Gaetz ‘will never get confirmed’ as uniparty circles the wagons](https://americanwirenews.com/senate-republican-vows-gaetz-will-never-get-confirmed-as-uniparty-circles-the-wagons/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-viewbidendebate1-1200-x-628-220x180.jpg)](https://americanwirenews.com/big-changes-could-be-coming-to-the-view-with-abc-bosses-in-panic-mode-after-trump-win/)
+
+[Big changes could be coming to ‘The View’ with ABC bosses in ‘panic mode’ after Trump win](https://americanwirenews.com/big-changes-could-be-coming-to-the-view-with-abc-bosses-in-panic-mode-after-trump-win/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/05/sg-schumer-220x180.jpg)](https://americanwirenews.com/katie-pavlich-calls-out-schumer-says-dem-wants-to-play-nice-now-that-hes-lost/)
 
 [Katie Pavlich calls out Schumer, says Dem ‘wants to play nice now that he’s lost’](https://americanwirenews.com/katie-pavlich-calls-out-schumer-says-dem-wants-to-play-nice-now-that-hes-lost/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tom-homan-220x180.png)](https://americanwirenews.com/border-czar-slams-the-view-as-an-island-of-misfit-toys-over-misinformation/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rogan-harris-220x180.jpg)](https://americanwirenews.com/joe-rogan-reveals-one-condition-high-on-the-list-for-kamala-during-interview-talks/)
 
-[Border czar slams ‘The View’ as an ‘island of misfit toys’ over misinformation](https://americanwirenews.com/border-czar-slams-the-view-as-an-island-of-misfit-toys-over-misinformation/)
+[Joe Rogan reveals one condition ‘high’ on the list for Kamala during interview talks](https://americanwirenews.com/joe-rogan-reveals-one-condition-high-on-the-list-for-kamala-during-interview-talks/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-1176473354-1-220x180.jpg)](https://americanwirenews.com/one-of-the-richest-men-in-the-world-is-moving-to-the-us-following-trump-victory/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-johnson-220x180.jpg)](https://americanwirenews.com/boris-johnson-faction-within-republican-party-has-a-weird-sort-of-homoerotic-fascination-for-putin/)
 
-[One of the richest men in the world is moving TO the US following Trump victory](https://americanwirenews.com/one-of-the-richest-men-in-the-world-is-moving-to-the-us-following-trump-victory/)
+[Boris Johnson: ‘Faction within Republican Party has a weird, sort of homoerotic fascination for Putin’](https://americanwirenews.com/boris-johnson-faction-within-republican-party-has-a-weird-sort-of-homoerotic-fascination-for-putin/)
 
-(Photo by Alex Ellinghausen/The Sydney Morning Herald via Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lemon-x-220x180.jpg)](https://americanwirenews.com/don-lemon-announces-departure-from-x-his-reason-will-leave-you-in-stitches/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kelly-1-220x180.jpg)](https://americanwirenews.com/jesse-kelly-the-right-should-not-forget-or-forgive-evils-of-biden-admin-in-post-election-euphoria/)
+[Don Lemon announces departure from X – his reason will leave you in stitches](https://americanwirenews.com/don-lemon-announces-departure-from-x-his-reason-will-leave-you-in-stitches/)
 
-[Jesse Kelly: The Right should not forget or forgive evils of Biden Admin in post-election euphoria](https://americanwirenews.com/jesse-kelly-the-right-should-not-forget-or-forgive-evils-of-biden-admin-in-post-election-euphoria/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-bannon-220x180.jpg)](https://americanwirenews.com/bannon-has-blistering-message-for-pelosi-ag-james-ahead-of-pre-trial-hearing-in-nyc/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gw-detaining-illegal-220x180.jpg)](https://americanwirenews.com/trump-admins-reported-plans-to-build-more-migrant-detention-centers-end-welfare-for-illegals-hold-families-together/)
+[Bannon has blistering message for Pelosi, AG James ahead of pre-trial hearing in NYC](https://americanwirenews.com/bannon-has-blistering-message-for-pelosi-ag-james-ahead-of-pre-trial-hearing-in-nyc/)
 
-[Trump admin’s reported plans to build more migrant detention centers, end welfare for illegals, hold families together](https://americanwirenews.com/trump-admins-reported-plans-to-build-more-migrant-detention-centers-end-welfare-for-illegals-hold-families-together/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183892170-220x180.jpg)](https://americanwirenews.com/trump-makes-triumphant-return-to-dc-meets-with-a-happy-joe-biden-in-oval-office-politics-is-tough/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laratrump-pitbull-220x180.jpg)](https://americanwirenews.com/miami-singer-pitbull-or-lara-trump-for-senator-both-floated-as-desantis-prepares-to-fill-rubios-seat/)
+[Trump makes triumphant return to DC, meets with a ‘happy’ Joe Biden in Oval Office: ‘Politics is tough’](https://americanwirenews.com/trump-makes-triumphant-return-to-dc-meets-with-a-happy-joe-biden-in-oval-office-politics-is-tough/)
 
-[Miami singer Pitbull or Lara Trump for Senator; both floated as DeSantis prepares to fill Rubio’s seat](https://americanwirenews.com/miami-singer-pitbull-or-lara-trump-for-senator-both-floated-as-desantis-prepares-to-fill-rubios-seat/)
+(Getty Images)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sunnywhoopi-1200-x-628-220x180.jpg)](https://americanwirenews.com/the-view-divas-strongly-endorse-dems-shunning-trump-supporting-family-during-holidays/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183581288-1-220x180.jpg)](https://americanwirenews.com/awkward-tension-between-harris-jill-biden-has-x-buzzing-too-many-cats-in-the-litter-box/)
 
-[‘The View’ divas strongly endorse Dems shunning Trump-supporting family during holidays](https://americanwirenews.com/the-view-divas-strongly-endorse-dems-shunning-trump-supporting-family-during-holidays/)
+[Awkward tension between Harris, Jill Biden has X buzzing: ‘Too many cats in the litter box’](https://americanwirenews.com/awkward-tension-between-harris-jill-biden-has-x-buzzing-too-many-cats-in-the-litter-box/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-smith-220x180.jpg)](https://americanwirenews.com/jack-smith-reportedly-plans-to-step-down-before-trump-can-fire-him/)
+(Photo by ANDREW CABALLERO-REYNOLDS / AFP)
 
-[Jack Smith reportedly plans to step down before Trump can fire him](https://americanwirenews.com/jack-smith-reportedly-plans-to-step-down-before-trump-can-fire-him/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-steele-sg-cpd-220x180.jpg)](https://americanwirenews.com/first-term-chicago-dem-charged-with-dui-after-crash-mocks-arresting-officers-penis-size/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2174739456-1-220x180.jpg)](https://americanwirenews.com/strahan-explains-national-anthem-gaffe-episode-not-proud/)
+[First-term Chicago Dem charged with DUI after crash ‘mocks’ arresting officer’s penis size](https://americanwirenews.com/first-term-chicago-dem-charged-with-dui-after-crash-mocks-arresting-officers-penis-size/)
 
-[Strahan explains national anthem gaffe episode: ‘Not proud’](https://americanwirenews.com/strahan-explains-national-anthem-gaffe-episode-not-proud/)
+Image via Cook County Board of Review
 
-(Photo by Sarah Stier/Getty Images)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chaffetz-fox-news-220x180.jpg)](https://americanwirenews.com/jason-chaffetz-dares-any-republican-senator-to-vote-against-trumps-choice-for-def-sec/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-speakermikejohnson1-1200-x-628-220x180.jpg)](https://americanwirenews.com/some-house-republicans-set-to-protest-johnsons-leadership-just-more-stupid/)
-
-[Some House Republicans set to protest Johnson’s leadership: ‘just more stupid’](https://americanwirenews.com/some-house-republicans-set-to-protest-johnsons-leadership-just-more-stupid/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-mike-johnson-220x180.png)](https://americanwirenews.com/speaker-johnson-orders-biden-regime-to-preserve-all-records/)
-
-[Speaker Johnson orders Biden regime to preserve ALL records](https://americanwirenews.com/speaker-johnson-orders-biden-regime-to-preserve-all-records/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2023/06/TrumpPenceSG-1200-x-628-220x180.jpg)](https://americanwirenews.com/pence-weighs-in-on-trumps-potential-pardons-for-j6-prisoners-i-dont-think-the-president-should/)
-
-[Pence weighs in on Trump’s potential pardons for J6 prisoners: ‘I don’t think the president should…’](https://americanwirenews.com/pence-weighs-in-on-trumps-potential-pardons-for-j6-prisoners-i-dont-think-the-president-should/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-al-sharpton-220x180.png)](https://americanwirenews.com/al-sharptons-nonprofit-got-500k-from-kamala-harris-before-softball-interview/)
-
-[Al Sharpton’s nonprofit got $500K from Kamala Harris before softball interview](https://americanwirenews.com/al-sharptons-nonprofit-got-500k-from-kamala-harris-before-softball-interview/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hegseth-220x180.jpg)](https://americanwirenews.com/trumps-choice-of-pete-hegseth-for-sec-of-defense-brings-more-meltdowns-from-clueless-media/)
-
-[Trump’s choice of Pete Hegseth for Sec of Defense brings MORE meltdowns from clueless media](https://americanwirenews.com/trumps-choice-of-pete-hegseth-for-sec-of-defense-brings-more-meltdowns-from-clueless-media/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alina-habba-220x180.png)](https://americanwirenews.com/alina-habba-says-shed-very-seriously-consider-serving-as-trumps-press-secretary/)
-
-[Alina Habba says she’d ‘very seriously’ consider serving as Trump’s press secretary](https://americanwirenews.com/alina-habba-says-shed-very-seriously-consider-serving-as-trumps-press-secretary/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/01/SG-Mitch-McConnell-220x180.jpg)](https://americanwirenews.com/top-gop-senator-torches-mcconnells-grotesque-push-for-secret-leadership-vote/)
-
-[Top GOP senator torches McConnell’s ‘grotesque’ push for secret leadership vote](https://americanwirenews.com/top-gop-senator-torches-mcconnells-grotesque-push-for-secret-leadership-vote/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-vivek-djt-elon-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/musk-ramaswamy-to-head-up-new-doge-department-reduce-federal-agencies-from-428-to-99/)
-
-[Musk, Ramaswamy to head up new ‘DOGE’ department, reduce federal agencies from 428 to 99](https://americanwirenews.com/musk-ramaswamy-to-head-up-new-doge-department-reduce-federal-agencies-from-428-to-99/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-carvillejackassery-1200-x-628-220x180.jpg)](https://americanwirenews.com/salty-carville-unloads-on-d-c-dems-rips-their-identity-sht-and-jackassery/)
-
-[Salty Carville unloads on D.C. Dems, rips their ‘identity sh\*t’ and ‘jackassery’](https://americanwirenews.com/salty-carville-unloads-on-d-c-dems-rips-their-identity-sht-and-jackassery/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2180010150-1-220x180.jpg)](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
-
-[New bodycam footage shows witnesses defend Daniel Penny’s actions on NYC subway](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
-
-(Photo by Spencer Platt/Getty Images)
-
-[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-American-Flag-220x180.jpg)](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
-
-[‘This is the way!’ Elon Musk announces exciting next steps for his America PAC](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tapper-220x180.jpg)](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
-
-[CNN headed for another big round of layoffs and demotions likely to affect on-air talent: report](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-washington-220x180.jpg)](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
-
-[Fired FEMA official throws senior leadership WAY under the bus: ‘You will find avoidance in the Carolinas’](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2175597782-1-220x180.jpg)](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
-
-[Stunning packaging ‘error’ leaves Mattel scrambling to recall kids’ toys](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
-
-(Photo by Jakub Porzycki/NurPhoto)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-witthoeft-220x180.jpg)](https://americanwirenews.com/ashli-babbitts-mom-raises-a-toast-outside-dc-jail-as-she-hangs-her-hopes-on-trump/)
-
-[Ashli Babbitt’s mom raises a toast outside DC jail as she hangs her hopes on Trump](https://americanwirenews.com/ashli-babbitts-mom-raises-a-toast-outside-dc-jail-as-she-hangs-her-hopes-on-trump/)
+[Jason Chaffetz dares any Republican senator to vote against Trump’s choice for Sec Def](https://americanwirenews.com/jason-chaffetz-dares-any-republican-senator-to-vote-against-trumps-choice-for-def-sec/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
@@ -242,9 +242,23 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [BUSINESS](https://www.commdiginews.com/category/featured-business/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-pxby-pig-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/grocers-clap-back-after-being-labeled-as-pigs-by-whoopi/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tapper-1200x630.jpg)](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
 
-[Grocers clap back after being labeled as ‘pigs’ by Whoopi](https://americanwirenews.com/grocers-clap-back-after-being-labeled-as-pigs-by-whoopi/)
+[CNN headed for another big round of layoffs and demotions likely to affect on-air talent: report](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tapper-220x180.jpg)](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
+
+[CNN headed for another big round of layoffs and demotions likely to affect on-air talent: report](https://americanwirenews.com/cnn-headed-for-another-big-round-of-layoffs-and-demotions-likely-to-affect-on-air-talent-report/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2175597782-1-220x180.jpg)](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
+
+[Stunning packaging ‘error’ leaves Mattel scrambling to recall kids’ toys
+
+(Photo by Jakub Porzycki/NurPhoto)](https://americanwirenews.com/stunning-packaging-error-leaves-mattel-scrambling-to-recall-kids-toys/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-warren-buffett-220x180.jpg)](https://americanwirenews.com/warren-buffett-sparks-firestorm-of-speculation-with-major-stock-move/)
+
+[Warren Buffett sparks firestorm of speculation with major stock move](https://americanwirenews.com/warren-buffett-sparks-firestorm-of-speculation-with-major-stock-move/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-whoopi-pxby-pig-split-1200-x-628-220x180.jpg)](https://americanwirenews.com/grocers-clap-back-after-being-labeled-as-pigs-by-whoopi/)
 
@@ -254,43 +268,31 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 [They did it: Hundreds of New York Times staffers go on strike the day before election](https://americanwirenews.com/they-did-it-hundreds-of-new-york-times-staffers-go-on-strike-the-day-before-election/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dcmickeyd-1200-x-628-220x180.jpg)](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
-
-[Deep blue city business owners board up, prepare for possible election violence](https://americanwirenews.com/deep-blue-city-business-owners-board-up-prepare-for-possible-election-violence/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-soriano-johnson-220x180.jpg)](https://americanwirenews.com/maga-dress-designer-fights-back-when-hes-told-to-remove-trump-signs-after-a-karen-flips-out/)
-
-[MAGA dress designer fights back when he’s told to remove Trump signs after a ‘Karen’ flips out](https://americanwirenews.com/maga-dress-designer-fights-back-when-hes-told-to-remove-trump-signs-after-a-karen-flips-out/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/10/sg-neiman-marcus-store-220x180.jpg)](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
-
-[Luxury retailer sparks backlash for woke holiday, removes ‘Christmas’ from popular gift catalog](https://americanwirenews.com/luxury-retailer-sparks-backlash-for-woke-holiday-removes-christmas-from-popular-gift-catalog/)
-
 ### [POLITICS](https://www.commdiginews.com/category/featured-politics/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprahkamala-1200-x-628-1200x630.jpg)](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-American-Flag-1200x630.jpg)](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
-[Oprah denies she was ‘personally’ paid $1 million by Kamala’s campaign: ‘I was paid nothing’](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+[‘This is the way!’ Elon Musk announces exciting next steps for his America PAC](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-oprahkamala-1200-x-628-220x180.jpg)](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/10/RF-Getty-American-Flag-220x180.jpg)](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
-[Oprah denies she was ‘personally’ paid $1 million by Kamala’s campaign: ‘I was paid nothing’](https://americanwirenews.com/oprah-denies-she-was-personally-paid-1-million-by-kamalas-campaign-i-was-paid-nothing/)
+[‘This is the way!’ Elon Musk announces exciting next steps for his America PAC](https://americanwirenews.com/this-is-the-way-elon-musk-announces-exciting-next-steps-for-his-america-pac/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-navarro-carlson-220x180.jpg)](https://americanwirenews.com/shes-a-grown-ass-woman-ana-navarro-trashes-nikki-haley-for-embarrassing-herself-for-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-washington-220x180.jpg)](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
 
-[‘She’s a grown-ass woman’: Ana Navarro trashes Nikki Haley for ‘embarrassing’ herself for Trump](https://americanwirenews.com/shes-a-grown-ass-woman-ana-navarro-trashes-nikki-haley-for-embarrassing-herself-for-trump/)
+[Fired FEMA official throws senior leadership WAY under the bus: ‘You will find avoidance in the Carolinas’](https://americanwirenews.com/fired-fema-official-throws-senior-leadership-way-under-the-bus-you-will-find-avoidance-in-the-carolinas/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-marco-rubio-and-kristi-noem-220x180.jpg)](https://americanwirenews.com/the-chosen-kristi-noem-marco-rubio-added-to-trump-team-offered-major-roles/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-witthoeft-220x180.jpg)](https://americanwirenews.com/ashli-babbitts-mom-raises-a-toast-outside-dc-jail-as-she-hangs-her-hopes-on-trump/)
 
-[The chosen: Kristi Noem, Marco Rubio added to Trump team, offered major roles](https://americanwirenews.com/the-chosen-kristi-noem-marco-rubio-added-to-trump-team-offered-major-roles/)
+[Ashli Babbitt’s mom raises a toast outside DC jail as she hangs her hopes on Trump](https://americanwirenews.com/ashli-babbitts-mom-raises-a-toast-outside-dc-jail-as-she-hangs-her-hopes-on-trump/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-khamenei-pezeshkian-220x180.jpg)](https://americanwirenews.com/third-rate-comedy-iran-responds-to-trump-assassination-attempt-claims/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/09/SGVotingMachine-220x180.png)](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
 
-[‘Third-rate comedy’: Iran responds to Trump assassination attempts](https://americanwirenews.com/third-rate-comedy-iran-responds-to-trump-assassination-attempt-claims/)
+[Colorado Secretary of State’s office facing probe after two affidavits claim ‘election laws were violated’](https://americanwirenews.com/colorado-secretary-of-states-office-facing-probe-after-two-affidavits-claim-election-laws-were-violated/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-melania-220x180.jpg)](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelley-werkheiser-220x180.jpg)](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
 
-[Melania will reportedly skip WH meeting with Joe and Jill Biden](https://americanwirenews.com/melania-will-reportedly-skip-wh-meeting-with-joe-and-jill-biden/)
+[CBS’s Scott Pelley reality checked by Penn restaurant owner, lifelong Dem, who voted Trump](https://americanwirenews.com/cbss-scott-pelley-reality-checked-by-penn-restaurant-owner-lifelong-dem-who-voted-trump/)
 
 ### [HUMOR](https://www.commdiginews.com/category/featured-humor/)
 
@@ -320,9 +322,21 @@ Start today! **Enjoy the REAL news** at your fingertips. You could be getting th
 
 ### [CULTURE & SOCIETY](https://www.commdiginews.com/category/featured-culture-society/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-beyonce-1200x630.jpg)](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2180010150-1-1200x630.jpg)](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
 
-[Yale introducing new Beyoncé course centered on her political and cultural impact](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
+(Photo by Spencer Platt/Getty Images)
+
+[New bodycam footage shows witnesses defend Daniel Penny’s actions on NYC subway](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2180010150-1-220x180.jpg)](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
+
+[New bodycam footage shows witnesses defend Daniel Penny’s actions on NYC subway
+
+(Photo by Spencer Platt/Getty Images)](https://americanwirenews.com/new-bodycam-footage-shows-witnesses-defend-daniel-pennys-actions-on-nyc-subway/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brittany-patterson-220x180.jpg)](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
+
+[Small-town mom of four refuses to sign ‘safety plan’ after she’s arrested over 10-yr-old walking alone](https://americanwirenews.com/small-town-mom-of-four-refuses-to-sign-safety-plan-after-shes-arrested-over-10-yr-old-walking-alone/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-beyonce-220x180.jpg)](https://americanwirenews.com/yale-introducing-new-beyonce-course-centered-on-her-political-and-cultural-impact/)
 
@@ -337,13 +351,5 @@ Image via Facebook](https://americanwirenews.com/msnbc-eyes-trump-hating-mn-man-
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-columbia-protesters-470x260-1200-x-628-220x180.jpg)](https://americanwirenews.com/columbia-university-miscreants-to-protest-veterans-day-rename-it-martyrs-day/)
 
 [Columbia University miscreants to protest Veteran’s Day, rename it ‘Martyrs Day’](https://americanwirenews.com/columbia-university-miscreants-to-protest-veterans-day-rename-it-martyrs-day/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/x-trump-grandkids-220x180.png)](https://americanwirenews.com/sundays-with-grandpa-trump-takes-time-to-enjoy-grandkids-after-election-win/)
-
-[‘Sundays with Grandpa’: Trump takes time to enjoy grandkids after election win](https://americanwirenews.com/sundays-with-grandpa-trump-takes-time-to-enjoy-grandkids-after-election-win/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-auburn-220x180.jpg)](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
-
-[Auburn basketball flight diverted after scuffle; team marks big win with bizarre celebration](https://americanwirenews.com/auburn-basketball-flight-diverted-after-scuffle-team-marks-big-win-with-bizarre-celebration/)
 
 © 2024. All Rights Reserved. American Wire News
