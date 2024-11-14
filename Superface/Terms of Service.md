@@ -6,7 +6,7 @@
 
 [Blog](https://superface.ai/blog)
 
-[Documentation](https://superface.ai/docs)
+[Documentation](https://docs.superface.ai/)
 
 * * *
 
