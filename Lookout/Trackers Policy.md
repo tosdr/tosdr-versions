@@ -39,32 +39,32 @@
             
             Safeguard private apps with zero trust](https://security.lookout.com/products/cloud-security/secure-private-access)
     
-    * Platform
+    * Technology
         
         * [Data Loss Prevention (DLP)
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/dlp)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/data-loss-prevention)
         * [Digital Rights Management (DRM)
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/drm)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/digital-rights-management)
         * [Data Security Posture Management (DSPM)
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/dspm)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/data-security-posture-management)
         * [User and Entity Behavior Analytics (UEBA)
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/ueba)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/user-and-entity-behavior-analytics)
         * [Unified Policy Engine
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/upe)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/unified-policy-engine)
         * [Artificial Intelligence and Machine Learning
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/ai-ml)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/artificial-intelligence-and-machine-learning)
         * [Phishing and Content Protection (PCP)
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/pcp)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/phishing-and-content-protection)
         * [Mobile Vulnerability Management (MVM)
             
-            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/platform/mvm)
+            ![](https://cdn.prod.website-files.com/64ad8cecda5417d65d91a876/6572503ee1c138dac6e0183d_chev.svg)](https://security.lookout.com/technology/mobile-vulnerablilty-management)
     
 * Solutions
     
