@@ -3,12 +3,12 @@
 Manga & Anime Favorites
 -----------------------
 
-* [Boruto](https://www.viz.com/boruto)
+* [My Hero Academia](https://www.viz.com/my-hero-academia)
 * [Ito-verse](https://www.viz.com/junji-ito)
+* [Pokémon](https://www.viz.com/pokemon)
+* [Boruto](https://www.viz.com/boruto)
 * [Bleach](https://www.viz.com/bleach)
 * [Naruto](https://www.viz.com/naruto)
-* [My Hero Academia](https://www.viz.com/my-hero-academia)
-* [Pokémon](https://www.viz.com/pokemon)
 * [Read Kamudo Free!](https://www.viz.com/vizmanga/chapters/kamudo)
 * [Gomi](https://www.viz.com/products/gomi-no-sensei)
 
@@ -17,14 +17,26 @@ Manga & Anime Favorites
 
 [Menu](javascript:void(0))
 
-[Dismiss](javascript:void(0))
+[](javascript:void(0))
 
-* [Read](https://www.viz.com/read)
-* [Watch](https://www.viz.com/watch)
-* [Shonen Jump](https://www.viz.com/shonenjump)
-* [VIZ Manga](https://www.viz.com/vizmanga)
-* [Create](https://www.viz.com/create)
+* [Manga & Books](#)
+    * [Main Page](https://www.viz.com/manga-books)
+    * [Series & Titles](https://www.viz.com/manga-books/series)
+    * [Shonen Jump](https://www.viz.com/shonenjump)
+    * [VIZ Manga](https://www.viz.com/vizmanga)
+    * [Genres](https://www.viz.com/manga-books/genres)
+    * [Submit Manga](https://www.viz.com/create)
+* [Anime](#)
+    * [Main Page](https://www.viz.com/anime)
+    * [TV Shows](https://www.viz.com/anime/tv-shows)
+    * [Movies](https://www.viz.com/anime/movies)
+* [Shop](https://shonenjumpstore.com/?utm_campaign=shop-link&utm_source=viz.com&utm_medium=referral)
 * [Calendar](https://www.viz.com/calendar)
+* [More](#)
+    * [Blog](https://www.viz.com/blog)
+    * [Apps](https://www.viz.com/apps)
+    * [Events](https://www.viz.com/events)
+    * [Submit Manga](https://www.viz.com/create)
 
 Author, title, character 
 
@@ -450,21 +462,11 @@ By subscribing, I agree to VIZ's [Terms of Service](https://www.viz.com/terms) a
 
 [![VIZ](https://assets.viz.com/assets/logo@2x-b76f649f933ea15f45147ff5445a2501c85c7f863ba0aba5ea7bec93c3272cc6.png)](https://www.viz.com/)
 
-* [Read](https://www.viz.com/read)
-* [Watch](https://www.viz.com/watch)
-* [Shonen Jump](https://www.viz.com/shonenjump)
-
-* [VIZ Manga](https://www.viz.com/vizmanga)
-* [Create](https://www.viz.com/create)
-* [Calendar](https://www.viz.com/calendar)
-
 * [About VIZ](https://www.viz.com/company-about)
 * [Contact VIZ](https://www.viz.com/company-contact)
 * [FAQ](https://www.viz.com/company-faq)
-* [Events](https://www.viz.com/events)
 * [Redeem Gift](https://www.viz.com/gifts/redeem)
 
-* [Apps](https://www.viz.com/apps)
 * [Ratings](https://www.viz.com/ratings)
 * [Copyrights](https://www.viz.com/copyrights)
 * [Jobs](https://www.viz.com/company-jobs)
@@ -569,6 +571,15 @@ E-mail
 [](#modal-thanks)
 
 [Close](javascript:Modals.toggle('#modal-thanks'))
+
+[](#modal-leaving)
+
+Click Continue to visit the , an official VIZ online store.
+-----------------------------------------------------------
+
+The privacy and security policies differ.
+
+[Cancel](#modal-leaving) Continue
 
 Note to our visitors in the EU
 ------------------------------
