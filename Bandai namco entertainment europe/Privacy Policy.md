@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
+* [ELDEN RING Shadow of the Erdtree soundtrack available now on Bandai Namco Game Music channels](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-soundtrack-available-now-bandai-namco-game-music)
 * [Announcing the DRAGON BALL: Sparking! ZERO - The Dramatic Showdown Tournament!](https://en.bandainamcoent.eu/dragon-ball/news/announcing-the-dragon-ball-sparking-zero-the-dramatic-showdown-tournament)
-* [Drum to the beat of TAIKO NO TATSUJIN: RHYTHM FESTIVAL available now on new platforms](https://en.bandainamcoent.eu/taiko-no-tatsujin/news/drum-the-beat-of-taiko-no-tatsujin-rhythm-festival-available-now-new)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
