@@ -17,6 +17,7 @@ Menu
     Sign up to empower NPI’s research and advocacy by giving monthly or yearly.](https://www.nwprogressive.org/join/)
 
 * [Home](https://www.nwprogressive.org/)
+* [Elections Hub](https://www.nwprogressive.org/elections/)
 * [About NPI](https://www.nwprogressive.org/about/)
     * [Code of Ethics](https://www.nwprogressive.org/about/code-of-ethics/)
     * [Commenting Guidelines](https://www.nwprogressive.org/about/user-agreement/commenting-guidelines/)
