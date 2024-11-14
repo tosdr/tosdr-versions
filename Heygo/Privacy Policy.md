@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 enriching UK breaks](https://media.restless.co.uk/uploads/2024/09/enriching-uk-breaks-e1726831157473-768x384.jpg)](https://restless.co.uk/travel/enriching-uk-breaks/)
+
+### [10 enriching UK breaks](https://restless.co.uk/travel/enriching-uk-breaks/)
+
+[Read More »](https://restless.co.uk/travel/enriching-uk-breaks/)
+
 [![10 of the most popular travel destinations in 2024/25](https://media.restless.co.uk/uploads/2024/04/the-most-popular-travel-destinations-in-2024-25-e1712224038762-768x453.jpg)](https://restless.co.uk/travel/the-most-popular-holidays/)
 
 ### [10 of the most popular holidays in 2025](https://restless.co.uk/travel/the-most-popular-holidays/)
@@ -571,14 +577,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
 
-[![active holidays in Europe, America, and Canada](https://media.restless.co.uk/uploads/2022/11/active-holidays-in-europe-america-and-canada-768x512.jpeg)](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
-
-### [8 active holidays in Europe, America, and Canada for 2025](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
-
-[Read More »](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
-
 Popular travel guides
 ---------------------
+
+[![10 amazing countries you can get to in under four hours](https://media.restless.co.uk/uploads/2023/10/amazing-countries-you-can-get-to-in-under-four-hours-768x512.jpg)](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
+
+### [10 amazing countries you can get to in under four hours](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
+
+[Read More »](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
 
 [![12 things to do and places to visit in February in the UK](https://media.restless.co.uk/uploads/2023/01/things-to-do-and-places-to-visit-in-february-in-the-uk-768x537.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
 
@@ -621,12 +627,6 @@ Popular travel guides
 ### [10 budget-friendly all-inclusive holiday destinations](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/) 
 
 [Read More »](https://restless.co.uk/travel/budget-friendly-all-inclusive-holiday-destinations/)
-
-[![10 amazing countries you can get to in under four hours](https://media.restless.co.uk/uploads/2023/10/amazing-countries-you-can-get-to-in-under-four-hours-768x512.jpg)](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
-
-### [10 amazing countries you can get to in under four hours](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
-
-[Read More »](https://restless.co.uk/travel/amazing-countries-you-can-get-to-in-under-four-hours/)
 
 [![10 places with Viking connections to visit in the UK](https://media.restless.co.uk/uploads/2023/05/places-with-viking-connections-to-visit-in-the-uk-768x459.jpg)](https://restless.co.uk/travel/places-with-viking-connections-to-visit-in-the-uk/)
 
