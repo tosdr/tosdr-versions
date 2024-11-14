@@ -266,5 +266,3 @@ Copyright © 2013-2024 Memberful LLC. All rights reserved.
 ![Memberful is a Stripe verified partner](/images/stripe-verified-e931bb1e.svg)
 
 Memberful is a ![Memberful is a Patreon company](/images/patreon-5ff29023.svg) company
-
-Close
