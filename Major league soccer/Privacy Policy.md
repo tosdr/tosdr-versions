@@ -870,7 +870,9 @@ Attention: Privacy Administrator/Legal Department
 
 * [![Leagues Cup](https://images.mlssoccer.com/image/upload/v1719428284/assets/logos/Leagues_cup-vertical_yuhvsx.png)](https://www.leaguescup.com/?utm_source=mlssoccer&utm_medium=site-footer&utm_campaign=lc)
 
-* About MLS
+About MLS
+---------
+
 * [Fact & Record Book](https://www.mlssoccer.com/about/fact-and-record-book)
 * [Competition Guidelines](https://www.mlssoccer.com/about/competition-guidelines)
 * [Roster Rules & Regulations](https://www.mlssoccer.com/about/roster-rules-and-regulations)
@@ -880,26 +882,34 @@ Attention: Privacy Administrator/Legal Department
 * [Jobs/Internships](https://jobs.mlssoccer.com/)
 * [MLS Community](https://www.mlssoccer.com/community)
 
-* Contact Us
+Contact Us
+----------
+
 * [Customer Service](https://www.mlssoccer.com/about/contact-us)
 * [Media Contacts](https://www.mlssoccer.com/media-resources/)
 * [Advertising Contacts](https://www.mlssoccer.com/about/advertise-or-partner-with-us)
 
-* Stay Connected
+Stay Connected
+--------------
+
 * [MLS on Apple News](https://soc.cr/3WTq4iR)
 * [Newsletters](https://www.mlssoccer.com/newsletters/)
 * [Podcasts](https://www.mlssoccer.com/podcasts/)
 * [iOS App](https://itunes.apple.com/us/app/apple-store/id397303467?pt=388641&ct=footerLINK&mt=8)
 * [Android App](https://play.google.com/store/apps/details?id=com.mlssoccer)
 
-* Resources
+Resources
+---------
+
 * [MLS Communications](https://www.mlssoccer.com/media-resources/)
 * [Professional Referee Organization (PRO)](http://proreferees.com/)
 * ["Simplified Laws of the Game"](https://www.footballrules.com/)
 * [Player Engagement](https://www.mlssoccer.com/playerengagement/)
 * [MLS Greats](https://www.mlssoccer.com/playerengagement/mls-greats)
 
-* Store
+Store
+-----
+
 * [By club](https://www.mlsstore.com/)
 * [Jerseys](https://www.mlsstore.com/jerseys/d-47221982+z-9744807-1425885315)
 * [Men](https://www.mlsstore.com/men/ga-56+z-896880912-1007981579)
@@ -907,7 +917,9 @@ Attention: Privacy Administrator/Legal Department
 * [Kids](https://www.mlsstore.com/kids/ga-25+z-803070096-3471709361)
 * [Clearance](https://www.mlsstore.com/sale-items/os-23+z-9231196011-2402405417)
 
-* League Reports
+League Reports
+--------------
+
 * [Competition Guidelines](https://www.mlssoccer.com/league-reports/competition-guidelines/)
 * [Postponement Policy](https://www.mlssoccer.com/league-reports/postponement-policy/)
 * [All Transfers](https://www.mlssoccer.com/league-reports/all-transfers/)
@@ -1093,7 +1105,7 @@ Vancouver Vancouver
 * [](https://www.facebook.com/mls "Facebook")
 * [](https://www.youtube.com/mls "YouTube")
 
-* [![major](https://images.mlssoccer.com/image/upload/v1594889391/assets/crest/MLS-Crest-FFF.svg)](https://www.mlssoccer.com/ "major league soccer")
+* [![major league soccer](https://images.mlssoccer.com/image/upload/v1594889391/assets/crest/MLS-Crest-FFF.svg)](https://www.mlssoccer.com/ "major league soccer")
 
 * [Terms of Service](https://www.mlssoccer.com/legal/terms-of-service)
 * [Privacy Policy](https://www.mlssoccer.com/legal/privacy-policy)
