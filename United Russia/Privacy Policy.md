@@ -299,11 +299,35 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Ольга Занко: «Единая Россия» заложила в бюджет серьёзные средства на социальные и гражданские обязательства](https://cdn.er.ru/media/news/November2024/50HycWMoak2H5CCFV36l-small.jfif)](https://er.ru/activity/news/olga-zanko-edinaya-rossiya-zalozhila-v-byudzhet-seryoznye-sredstva-na-socialnye-i-grazhdanskie-obyazatelstva)
+
+[Ольга Занко: «Единая Россия» заложила в бюджет серьёзные средства на социальные и гражданские обязательства](https://er.ru/activity/news/olga-zanko-edinaya-rossiya-zalozhila-v-byudzhet-seryoznye-sredstva-na-socialnye-i-grazhdanskie-obyazatelstva)
+
+[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394)
+
+Сегодня 16:47
+
+[![Федеральный бюджет принят в основном чтении с социально значимыми поправками от «Единой России»](https://cdn.er.ru/media/news/November2024/BfZaajZxxF72CnsUAqgq-small.jpg)](https://er.ru/activity/news/federalnyj-byudzhet-prinyat-v-osnovnom-chtenii-s-socialno-znachimymi-popravkami-ot-edinoj-rossii)
+
+[Федеральный бюджет принят в основном чтении с социально значимыми поправками от «Единой России»](https://er.ru/activity/news/federalnyj-byudzhet-prinyat-v-osnovnom-chtenii-s-socialno-znachimymi-popravkami-ot-edinoj-rossii)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+
+Сегодня 16:05
+
+[![«Единая Россия» передала помощь военнослужащим на Сватово-Купянском направлении](https://cdn.er.ru/media/news/November2024/8hGf5T1C0WPTUUVRSwS6-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-voennosluzhashim-na-svatovo-kupyanskom-napravlenii)
+
+[«Единая Россия» передала помощь военнослужащим на Сватово-Купянском направлении](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-voennosluzhashim-na-svatovo-kupyanskom-napravlenii)
+
+[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305)
+
+Сегодня 14:30
+
 [![Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://cdn.er.ru/media/news/November2024/Ejk8xGEktIbM5Nx3w7Q6-small.jpg)](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
 
 [Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
 
-[#Матицын](https://er.ru/activity/news?tags%5B0%5D=149186) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#спортивнаяинфраструктура](https://er.ru/activity/news?tags%5B0%5D=1094899) [#массовыйспорт](https://er.ru/activity/news?tags%5B0%5D=111891) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+[#Матицын](https://er.ru/activity/news?tags%5B0%5D=149186) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#спортивнаяинфраструктура](https://er.ru/activity/news?tags%5B0%5D=1094899) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 Сегодня 12:34
 
@@ -322,30 +346,6 @@
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ФондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094096) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#детиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093752) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562)
 
 Сегодня 12:15
-
-[![Александр Мажуга: «Единая Россия» ко второму чтению бюджета предусмотрела приоритетные поправки на развитие науки](https://cdn.er.ru/media/news/November2024/WW4mjISvTEZp7oGlLSet-small.jpg)](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-ko-vtoromu-chteniyu-byudzheta-predusmotrela-prioritetnye-popravki-na-razvitie-nauki)
-
-[Александр Мажуга: «Единая Россия» ко второму чтению бюджета предусмотрела приоритетные поправки на развитие науки](https://er.ru/activity/news/aleksandr-mazhuga-edinaya-rossiya-ko-vtoromu-chteniyu-byudzheta-predusmotrela-prioritetnye-popravki-na-razvitie-nauki)
-
-[#Мажуга](https://er.ru/activity/news?tags%5B0%5D=1091855) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
-
-Сегодня 12:05
-
-[![Алексей Гордеев: При поддержке «Единой России» бюджет на комплексное развитие сельских территорий увеличится](https://cdn.er.ru/media/news/November2024/8yHDKWzUAn2JALKF39m1-small.jpg)](https://er.ru/activity/news/aleksej-gordeev-pri-podderzhke-edinoj-rossii-byudzhet-na-kompleksnoe-razvitie-selskih-territorij-uvelichitsya)
-
-[Алексей Гордеев: При поддержке «Единой России» бюджет на комплексное развитие сельских территорий увеличится](https://er.ru/activity/news/aleksej-gordeev-pri-podderzhke-edinoj-rossii-byudzhet-na-kompleksnoe-razvitie-selskih-territorij-uvelichitsya)
-
-[#Гордеев](https://er.ru/activity/news?tags%5B0%5D=2510) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#АПК](https://er.ru/activity/news?tags%5B0%5D=72) [#развитиесельскихтерриторий](https://er.ru/activity/news?tags%5B0%5D=118666)
-
-Сегодня 11:28
-
-[![Владимир Якушев оценил ход восстановительных работ в ДНР](https://cdn.er.ru/media/news/November2024/Ykmy8MmZr2bjZQF8S9QB-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-ocenil-hod-vosstanovitelnyh-rabot-v-dnr)
-
-[Владимир Якушев оценил ход восстановительных работ в ДНР](https://er.ru/activity/news/vladimir-yakushev-ocenil-hod-vosstanovitelnyh-rabot-v-dnr)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#капремонтшкол](https://er.ru/activity/news?tags%5B0%5D=1095605) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889) [#Сидякин](https://er.ru/activity/news?tags%5B0%5D=10838)
-
-Сегодня 09:10
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
