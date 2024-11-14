@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. harvard
+1. hacking
     
-2. graphic design
+2. psychology
     
-3. French
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Python
+1. [Communication Skills
     
-    9,838 courses](https://www.classcentral.com/subject/python)
-2. [Computer Science
+    4,181 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Digital Marketing
     
-    42,744 courses](https://www.classcentral.com/subject/cs)
-3. [Psychology
+    6,190 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Artificial Intelligence
     
-    2,664 courses](https://www.classcentral.com/subject/psychology)
+    13,618 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
 ---------------
 
-1. [The Analytics Edge
+1. [Introduction to Marketing
     
-    Massachusetts Institute of Technology](https://www.classcentral.com/course/analytics-massachusetts-institute-of-technology-t-1623)
-2. [Rome: A Virtual Tour of the Ancient City
+    University of Pennsylvania](https://www.classcentral.com/course/whartonmarketing-1137)
+2. [How to Succeed at: Interviews
     
-    University of Reading](https://www.classcentral.com/course/rome-7801)
-3. [Managing Conflicts on Projects with Cultural and Emotional Intelligence
+    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
+3. [Introduction to Engineering Mechanics
     
-    University System of Maryland](https://www.classcentral.com/course/conflict-resolution-the-university-of-maryland-co-19747)
+    Georgia Institute of Technology](https://www.classcentral.com/course/statics1-564)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
