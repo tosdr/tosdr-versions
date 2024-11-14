@@ -24,6 +24,8 @@ Social
 
 [Shop](https://comma.ai/shop)
 
+[**We're hiring! Come build the future of self driving cars.**](https://comma.ai/jobs.html)
+
 Terms & Privacy
 ===============
 
