@@ -129,12 +129,12 @@ English
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
     * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-    * [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
+    * [Kanguva](https://www.news18.com/movies/kanguva-first-review-out-suriya-is-superb-but-film-suffers-from-weak-script-9119871.html)
     * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
-    * [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
-    * [Sanju Samson](https://www.news18.com/cricket/dhoni-kohli-rohit-dravid-wasted-10-years-of-my-son-sanju-samsons-father-makes-explosive-accusations-9119566.html)
+    * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+    * [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
     * [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-formation-date-salary-increase-da-hike-all-you-need-to-know-9118740.html)
-    * [Donald Trump](https://www.news18.com/world/after-landslide-victory-donald-trump-hints-at-third-term-in-white-house-9119577.html)
+    * [Tulsi Gabbard](https://www.news18.com/world/trump-picks-ex-rep-tulsi-gabbard-as-director-of-national-intelligence-9119801.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -171,12 +171,12 @@ Follow us on
 In Trends:
 
 * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-* [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
+* [Kanguva](https://www.news18.com/movies/kanguva-first-review-out-suriya-is-superb-but-film-suffers-from-weak-script-9119871.html)
 * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
-* [Giant Meteorite](https://www.news18.com/viral/giant-meteorite-to-hit-earth-on-november-13-what-we-know-9116579.html)
-* [Sanju Samson](https://www.news18.com/cricket/dhoni-kohli-rohit-dravid-wasted-10-years-of-my-son-sanju-samsons-father-makes-explosive-accusations-9119566.html)
+* [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+* [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
 * [8th Pay Commission](https://www.news18.com/business/8th-pay-commission-formation-date-salary-increase-da-hike-all-you-need-to-know-9118740.html)
-* [Donald Trump](https://www.news18.com/world/after-landslide-victory-donald-trump-hints-at-third-term-in-white-house-9119577.html)
+* [Tulsi Gabbard](https://www.news18.com/world/trump-picks-ex-rep-tulsi-gabbard-as-director-of-national-intelligence-9119801.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
