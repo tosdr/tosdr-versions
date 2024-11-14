@@ -1,4 +1,13 @@
-[Skip to content](#mainContentBlock)
+Product announcement
+
+Live by default
+===============
+
+Ensure fresh content is served to all users—even at massive scale—without specialized infrastructure or dedicated engineering teams
+
+[Watch keynote](https://www.sanity.io/live#8dcd448bfd2d?ref=takeover)
+
+![Simeon presenting at Next.js conf 2024](https://cdn.sanity.io/images/3do82whm/next/948ac81ac6d5cdb083b3c5568325d4fa5c6723f0-4096x2732.jpg?rect=104,503,3751,1615&w=3840&q=75&fit=clip&auto=format)
 
 [Unlock seamless workflows and faster delivery with our latest releases - Join the deep dive](https://www.sanity.io/events/developer-deep-dive-launch?ref=banner)
 
@@ -178,7 +187,7 @@
 
 [Contact sales](https://www.sanity.io/contact/sales?ref=navbar)[Get started](https://www.sanity.io/get-started?ref=navbar)
 
-Last updated December 21, 2023
+December 21, 2023
 
 Terms of Service
 ================
