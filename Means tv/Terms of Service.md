@@ -1,9 +1,9 @@
 [![Means TV](https://alpha.uscreencdn.com/images/logotypes/7692/meanstv_logo_uscreen.1682452364.png)](https://means.tv/)
 
-* [Home](https://means.tv/)
-* [Browse](https://means.tv/catalog)
-* [Community](https://means.tv/community)
-* [About](https://means.tv/pages/what-is-means)
+* [HOME](https://means.tv/)
+* [BROWSE](https://means.tv/catalog)
+* [COMMUNITY](https://means.tv/community)
+* [ABOUT](https://means.tv/pages/what-is-means)
     * [What is Means TV?](https://means.tv/pages/what-is-means)
     * [User Guide](https://means.tv/pages/user-guide)
     * [Cooperative Structure](https://means.tv/pages/cooperative-structure)
@@ -15,10 +15,10 @@
 Sign in Join
 
 * [Sign in](https://means.tv/sign_in)
-* [Home](https://means.tv/)
-* [Browse](https://means.tv/catalog)
-* [Community](https://means.tv/community)
-* [About](https://means.tv/pages/what-is-means)
+* [HOME](https://means.tv/)
+* [BROWSE](https://means.tv/catalog)
+* [COMMUNITY](https://means.tv/community)
+* [ABOUT](https://means.tv/pages/what-is-means)
     * [What is Means TV?](https://means.tv/pages/what-is-means)
     * [User Guide](https://means.tv/pages/user-guide)
     * [Cooperative Structure](https://means.tv/pages/cooperative-structure)
