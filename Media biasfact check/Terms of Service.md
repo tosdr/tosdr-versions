@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 14, 2024 | Media News Daily: Top Stories for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/media-news-daily-top-stories-for-11-14-2024/ "Media News Daily: Top Stories for 11/14/2024")
+* [November 14, 2024 | MBFC’s Daily Vetted Fact Checks for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/mbfcs-daily-vetted-fact-checks-for-11-14-2024/ "MBFC’s Daily Vetted Fact Checks for 11/14/2024")
 * [November 13, 2024 | Media News Daily: Top Stories for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/media-news-daily-top-stories-for-11-12-2024-2/ "Media News Daily: Top Stories for 11/13/2024")
 * [November 13, 2024 | MBFC’s Daily Vetted Fact Checks for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/mbfcs-daily-vetted-fact-checks-for-11-13-2024/ "MBFC’s Daily Vetted Fact Checks for 11/13/2024")
 * [November 12, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/media-news-daily-top-stories-for-11-12-2024/ "Media News Daily: Top Stories for 11/12/2024")
-* [November 12, 2024 | MBFC’s Daily Vetted Fact Checks for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/mbfcs-daily-vetted-fact-checks-for-11-12-2024/ "MBFC’s Daily Vetted Fact Checks for 11/12/2024")
-* [November 11, 2024 | Media News Daily: Top Stories for 11/11/2024](https://mediabiasfactcheck.com/2024/11/11/media-news-daily-top-stories-for-11-11-2024/ "Media News Daily: Top Stories for 11/11/2024")
 
 Search for:  
 
@@ -186,6 +186,8 @@ No related posts.
 
 #### Recently Updated Pages
 
+* [Infowars-Alex Jones – Bias and Credibility](https://mediabiasfactcheck.com/infowars-alex-jones/ "View Infowars-Alex Jones – Bias and Credibility") - November 14, 2024
+    
 * [BlackPressUSA – Bias and Credibility](https://mediabiasfactcheck.com/black-press-usa-bias/ "View BlackPressUSA – Bias and Credibility") - November 13, 2024
     
 * [BlackNews.com – Bias and Credibility](https://mediabiasfactcheck.com/blacknews-com/ "View BlackNews.com – Bias and Credibility") - November 13, 2024
@@ -204,21 +206,19 @@ No related posts.
     
 * [Biography (A&E) – Bias and Credibility](https://mediabiasfactcheck.com/biography-ae-bias/ "View Biography (A&E) – Bias and Credibility") - November 13, 2024
     
-* [BioDefense – Bias and Credibility](https://mediabiasfactcheck.com/biodefense/ "View BioDefense – Bias and Credibility") - November 13, 2024
-    
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
-* [MBFC's Daily Vetted Fact Checks for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/mbfcs-daily-vetted-fact-checks-for-11-13-2024/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
-* [Search](https://mediabiasfactcheck.com/search/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
