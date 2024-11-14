@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Thu, Nov 14, 2024
+Fri, Nov 15, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
+    * [Canada](https://www.news18.com/world/in-canada-khalistanis-ask-canadians-to-go-back-to-england-europe-watch-9120165.html)
+    * [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
     * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-    * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
-    * [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
     * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
-    * [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
-    * [WhatsApp](https://www.news18.com/tech/whatsapp-warns-about-shutting-down-in-india-if-it-was-forced-to-break-chat-encryption-know-more-8867113.html)
-    * [Bangladesh](https://www.news18.com/world/snub-to-mujibur-rahman-secular-word-out-of-constitution-bangladesh-to-become-islamic-nation-soon-9120025.html)
+    * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +169,12 @@ Follow us on
 
 In Trends:
 
+* [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
+* [Canada](https://www.news18.com/world/in-canada-khalistanis-ask-canadians-to-go-back-to-england-europe-watch-9120165.html)
+* [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
 * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-* [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
-* [Shalini Passi](https://www.news18.com/movies/shalini-passi-makes-rare-comment-on-salary-from-fabulous-lives-vs-bollywood-wives-entire-fee-has-gone-9118735.html)
 * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
-* [Imsha Rehman](https://www.news18.com/viral/pakistani-tiktok-star-imsha-rehmans-obscene-video-shocks-fans-heres-what-she-did-next-9118545.html)
-* [WhatsApp](https://www.news18.com/tech/whatsapp-warns-about-shutting-down-in-india-if-it-was-forced-to-break-chat-encryption-know-more-8867113.html)
-* [Bangladesh](https://www.news18.com/world/snub-to-mujibur-rahman-secular-word-out-of-constitution-bangladesh-to-become-islamic-nation-soon-9120025.html)
+* [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -430,7 +428,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 14, 2024
+Nov 15, 2024
 
 [View All](https://www.news18.com/short-news/)
 
