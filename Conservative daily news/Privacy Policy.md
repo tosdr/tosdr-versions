@@ -181,6 +181,8 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Litzie Leads Way For Team USA At 2024 IPSC Rifle World Shoot In Finland](https://www.thegunpage.com/litzie-leads-way-for-team-usa-at-2024-ipsc-rifle-world-shoot-in-finland/10611864)
+* [Wheelgun Wednesday: Smith & Wesson Model 20 .357 Magnum](https://www.thegunpage.com/wheelgun-wednesday-smith-wesson-model-20-357-magnum/10611863)
 * [The Best 1911 Chambered in .45 ACP](https://www.thegunpage.com/the-best-1911-chambered-in-45-acp/10611860)
 * [POTD: Suppressed Tikka T3x In Spuhr SICS Chassis](https://www.thegunpage.com/potd-suppressed-tikka-t3x-in-spuhr-sics-chassis/10611861)
 * [GOA, GOF, TFA Sue City of Memphis for Violating Tennessee Preemption Law](https://www.thegunpage.com/goa-gof-tfa-sue-city-of-memphis-for-violating-tennessee-preemption-law/10611859)
@@ -189,8 +191,6 @@ Recent Posts
 * [Nocpix ACE – New Flagship Thermal Rifle Scope Line](https://www.thegunpage.com/nocpix-ace-new-flagship-thermal-rifle-scope-line/10611855)
 * [Maine Gun Safety Coalition Collects Signatures For New Red Flag Law](https://www.thegunpage.com/maine-gun-safety-coalition-collects-signatures-for-new-red-flag-law/10611852)
 * [Trump’s To-Do List: How He Can Restore Justice in His First Days](https://www.thegunpage.com/trumps-to-do-list-how-he-can-restore-justice-in-his-first-days/10611850)
-* [Indian Astr Defence PHANTOM Optics-Ready Double-Stack .32 ACP Pistol](https://www.thegunpage.com/indian-astr-defence-phantom-optics-ready-double-stack-32-acp-pistol/10611845)
-* [Huffington Post Inadvertently Outlines Why Gun Owners Chose Trump](https://www.thegunpage.com/huffington-post-inadvertently-outlines-why-gun-owners-chose-trump/10611843)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
