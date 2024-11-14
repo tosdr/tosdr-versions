@@ -205,25 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [If Life Were More Like Cartoons](https://www.somethingawful.com/comedy-goldmine/life-were-more/1/)
-* [Another Obama Backfire!](https://www.somethingawful.com/everdraed-showcase/obama-backfire-romney/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Historical Inaccuracies (Part 1 of 2)](https://www.somethingawful.com/photoshop-phriday/historical-inaccuracies-part/1/)
-* [Guess who's back! (It's me. (I am.))](https://www.somethingawful.com/awfulvision/awfulvision-is-back/1/)
+* [Photoshop Skills Required](https://www.somethingawful.com/comedy-goldmine/photoshop-skills-required/1/)
+* [A Bear Walks into a Diner ...](https://www.somethingawful.com/photoshop-phriday/bear-ginger-ale/1/)
+* [Variety Pack #26: Fishin' Politicians and The First Lady!](https://www.somethingawful.com/photoshop-phriday/politicians-fishin-michelleobama/1/)
+* [The Full Version of Roy Batty's "Tears in Rain" Speech](https://www.somethingawful.com/news/blade-runner-speech/1/)
+* [Help Us Save Synnibarr!](https://www.somethingawful.com/dungeons-and-dragons/save-synnibarr-mccracken/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Thread for WOKE ANIME ONLY](http://forums.somethingawful.com/showthread.php?threadid=4075345 "Thread for WOKE ANIME ONLY")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Most Amazing Toys of 2024?](http://forums.somethingawful.com/showthread.php?threadid=4075317 "Most Amazing Toys of 2024?")
 * ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
 
 ### Random Articles
 
-* [Red Carpet Roadkill](https://www.somethingawful.com/photoshop-phriday/red-carpet-roadkill/1/)
-* [Valentine's Day Emergency Kit](https://www.somethingawful.com/news/valentines-day-emergency/)
-* [Subj: ROAMIN DAD'S WILL](https://www.somethingawful.com/news/roamin-dad-4/)
-* [Thanks!](https://www.somethingawful.com/daily-dirt/thanks-book/)
-* [It's Time For Some Culture On Here](https://www.somethingawful.com/news/its-time-for/)
+* [Goths, Witches, and Wiccans](https://www.somethingawful.com/weekend-web/goths-witches-wiccans/1/)
+* [GI Joe Killaz](https://www.somethingawful.com/awful-links/awful-link-1342/)
+* [The Internationally Beloved Demo Roundup: Part 8](https://www.somethingawful.com/your-band-sucks/internationally-beloved-demo/)
+* [NECRODOMINION](https://www.somethingawful.com/awful-links/awful-link-1242/)
+* [Photoshop Skills Required](https://www.somethingawful.com/comedy-goldmine/photoshop-skills-required/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
