@@ -58,7 +58,6 @@
     
     [Compare Deals](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=nav)
     
-    * [Smart Meter Help](https://www.energyhelpline.com/how-to-read-your-smart-meter-step-by-step)
     * [Price Cap](https://www.energyhelpline.com/the-history-of-ofgems-energy-price-cap)
     * [Understanding Tariffs](https://www.energyhelpline.com/fixed-and-variable-tariffs-whats-the-difference)
     * [Standing Charge Help](https://www.energyhelpline.com/your-guide-to-standing-charge-energy-tariffs)
@@ -66,12 +65,12 @@
     * [Economy 7 Guide](https://www.energyhelpline.com/what-is-economy-7)
     * [Economy 10 Guide](https://www.energyhelpline.com/what-is-economy-10)
     * [Duel Fuel Guide](https://www.energyhelpline.com/dual-fuel-or-single-fuel-tariffs-what-suits-your-home)
-    * [Taking Meter Readings](https://www.energyhelpline.com/how-to-read-your-electric-and-gas-meters-step-by-step)
     * [Understanding Your Bill](https://www.energyhelpline.com/business-energy/understanding-your-energy-bill)
     * [Feed In Tariffs Guide](https://www.energyhelpline.com/business-energy/what-is-a-feed-in-tariff)
     * [Wholesale Energy Guide](https://www.energyhelpline.com/business-energy/wholesale-energy/)
     * [Purchase Power Agreements Guide](https://www.energyhelpline.com/business-energy/what-is-a-ppa-power-purchase-agreements-explained)
     * [Smart Thermostats](https://www.energyhelpline.com/tado-vs-hive-which-smart-thermostat-is-best)
+    * [Energy Meter Help](https://www.energyhelpline.com/energy-meters/)
     
 * [Compare Tariffs Online](https://quotes.energyhelpline.com/comparison/?affiliateid=316&thirdpartyid=EHL_NavButton)
 
