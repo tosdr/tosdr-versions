@@ -140,9 +140,9 @@ MSX Music player
 
 Latest reactions
 
+* [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
-* [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
-* [The PC-70100 is for auction](https://www.msx.org/forum/msx-talk/general-discussion/the-pc-70100-is-for-auction "The PC-70100 is for auction")
-* [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
-* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
-* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [Nikko made msx computer?](https://www.msx.org/forum/msx-talk/general-discussion/nikko-made-msx-computer?page=9 "Nikko made msx computer?")
+* [Sony Hi-Brid](https://www.msx.org/forum/msx-talk/software-and-gaming/sony-hi-brid?page=1 "Sony Hi-Brid")
+* [MSX1 what type fdd pcb it is?](https://www.msx.org/forum/msx-talk/hardware/msx1-what-type-fdd-pcb-it-is "MSX1 what type fdd pcb it is?")
+* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
+* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
+* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=223 "Wiki editing discussion")
+* [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
+* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
+* [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
+* [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
+* [Nikko made msx computer?](https://www.msx.org/forum/msx-talk/general-discussion/nikko-made-msx-computer?page=9 "Nikko made msx computer?")
 * [Kernel.tmp Mega-SCSI](https://www.msx.org/forum/msx-talk/software/kerneltmp-mega-scsi?page=1 "Kernel.tmp Mega-SCSI")
 * [Yamaha YIS-503 II Power supply Unit pinout information](https://www.msx.org/forum/msx-talk/hardware/yamaha-yis-503-ii-power-supply-unit-pinout-information "Yamaha YIS-503 II Power supply Unit pinout information")
-* [pack freeware games](https://www.msx.org/forum/msx-talk/software/pack-freeware-games "pack freeware games")
-* [OpenMSX for Trimui Smart Pro Handheld](https://www.msx.org/forum/msx-talk/emulation/openmsx-for-trimui-smart-pro-handheld?page=1 "OpenMSX for Trimui Smart Pro Handheld")
-* [μ·PACK pronounciation](https://www.msx.org/forum/msx-talk/general-discussion/%CE%BC%C2%B7pack-pronounciation?page=1 "μ·PACK pronounciation")
-* [carnivore 2 problem](https://www.msx.org/forum/msx-talk/hardware/carnivore-2-problem?page=1 "carnivore 2 problem")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
