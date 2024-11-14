@@ -309,35 +309,75 @@ Any interactions with LiA is automatically anonymised.
 
 **Why do we process personal data?**
 
+  
+
 CCTV recording is active at all Lidl sites which includes our stores, distribution centres, local and property offices and our Head Office. Some of our cameras may also use non-scan detection technologies as part of the checkout process. Any cameras using non-scan detection technologies are only active at our store checkouts and self-checkouts. Such recordings or technologies used are captured and processed in Lidl’s legitimate interest for the purpose of;
+
+  
 
 • Safety and security of our customers, staff and security guards;
 
+  
+
 • Safety and security of our premises and property;
+
+  
 
 • Health and safety and to investigate accidents or claims;
 
+  
+
 • Protection against, detection of and evidencing of criminal activities;
+
+  
 
 • The reduction of company losses and inventory discrepancies and;
 
+  
+
 Any non-scan technologies used on our checkouts and self-checkouts cameras are only used to identify non-scanned items, prevent inventory loss and will always involve human intervention. All facial images collected as part of our non-scan detection cameras are pixelated and no facial recognition technologies are used. Only non-scanned footage will be recorded and these will be stored in line with the principle set out in this Privacy Notice.
+
+  
 
 Many of our premises hold alcohol licenses which requires CCTV to be in operation. For these premises, the processing is necessary for Lidl to comply with its legal obligations.
 
+  
+
 CCTV footage may at times be used in evidencing legal/ongoing disputes where all requirements for the access and storage of such data have been met as laid out in our internal investigation procedures.
+
+  
 
 The physical technological infrastructure and recordings are stored and backed-up internally.
 
-Who can assess your personal data?
+  
+
+**Who can assess your personal data?**
+
+  
 
 As a general rule, we will not disclose this data to any third parties.
 
+  
+
 Lidl will always cooperate with the local police or law enforcement agencies and will provide CCTV footage upon their request when it is lawful and necessary to do so.
+
+  
 
 Should there be an incident involving the damage or destruction of our property or premises, or violence or abuse towards of customers, staff or security guards, we may disclose CCTV footage to the police or law enforcement agencies.
 
+  
+
 We may share CCTV footage or images with our internal or external advisors (including but not limited to lawyers, consultants, insurance companies) as may be necessary for the defense of our legal rights.
+
+  
+
+**How long do we store your personal data?**
+
+CCTV footage is kept for a period of up to 31 days from the time of recording unless specified separately under licence requirements.
+
+  
+
+In the event of an incident, potential or ongoing investigation or claim, then footage may be retained for a period of up to 3 years from the date of the incident or when the claim is finalised.
 
 8\. Newsletter distribution
 
@@ -701,6 +741,8 @@ The personal data relating to the duration of time spent in surveys and date and
   
 
 All the remaining personal data stored as log files using cookies is archived after 7 days and deleted after 14 days. For a full list of cookies used in the “Have Your Say” survey and our Customer Care experience survey (NPS) see below:
+
+12.1 Customer Surveys- continued
 
 **Providing further feedback to our customer service**
 
