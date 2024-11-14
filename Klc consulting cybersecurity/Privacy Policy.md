@@ -223,7 +223,7 @@ About
 * [Speaking & Training](https://klcconsulting.net/cmmc-and-nist-resources/speaking-training/)
 * [Get Your Assessment Price](https://klcconsulting.net/cmmc-level-2-assessment-price-quote/)
 
-Copyright 2022 © [KLC Consulting](https://klcconsulting.net/ "KLC Consulting") All Rights Reserved | [Privacy Policy](https://klcconsulting.net/privacy-security-statement/) | [Site Map](https://klcconsulting.net/site-map/) | [Contact Us](https://klcconsulting.net/contact/) | [Website Design by MP Design](https://mpdesignonline.com/)
+Copyright 2024 © [KLC Consulting](https://klcconsulting.net/ "KLC Consulting") All Rights Reserved | [Privacy Policy](https://klcconsulting.net/privacy-security-statement/) | [Site Map](https://klcconsulting.net/site-map/) | [Contact Us](https://klcconsulting.net/contact/) | [Website Design by MP Design](https://mpdesignonline.com/)
 
 Manage Cookie Consent
 
