@@ -41,7 +41,7 @@ Menu
 Data Protection Policy – Schappit Ltd / Piota Apps ​​
 -----------------------------------------------------
 
-![](https://www.piota.co.uk/wp-content/uploads/2024/08/Data-Protection.png)
+![](https://www.piota.co.uk/wp-content/uploads/2024/08/xData-Protection.png.pagespeed.ic.eDNwhttUlH.png)
 
 Data Protection Policy – Schappit Ltd / Piota Apps ​​
 -----------------------------------------------------
