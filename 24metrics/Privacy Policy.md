@@ -84,14 +84,14 @@ Advanced Advertising Solutions
 
 Copyrights® 24metrics. All Rights Reserved.
 
-* [Terms and Conditions](https://www.24metrics.com/terms_and_conditions/)
+* [Terms and Conditions](https://www.24metrics.com/terms-and-conditions/)
 * [Privacy Policy](https://www.24metrics.com/privacy-policy/)
 * [Referral Program](http://referrals.24metrics.com/)
 * [Contact](https://www.24metrics.com/contact/)
 * [Help](https://www.24metrics.com/)
 * [Service Operational Status](https://status.24metrics.com/)
 
-* [Terms and Conditions](https://www.24metrics.com/terms_and_conditions/)
+* [Terms and Conditions](https://www.24metrics.com/terms-and-conditions/)
 * [Privacy Policy](https://www.24metrics.com/privacy-policy/)
 * [Referral Program](http://referrals.24metrics.com/)
 * [Contact](https://www.24metrics.com/contact/)
