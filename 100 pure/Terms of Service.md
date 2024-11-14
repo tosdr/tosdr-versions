@@ -354,7 +354,7 @@ CHOOSE Color
 
 ### [Mattifying Primer](https://www.100percentpure.com/products/mattifying-primer)
 
-1131 reviews (1131)
+1134 reviews (1134)
 
 $45.00
 
