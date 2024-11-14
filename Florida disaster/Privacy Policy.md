@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Wednesday, November 13, 2024**
+**Thursday, November 14, 2024**
 
-**...Strong High Pressure Over Northeast U.S. Bringing Breezy Wind Gusts Statewide This Afternoon...Spotty to Isolated Showers for East Coast...Frontal System Bringing Scattered Showers Late Today Across Western Panhandle, Then More Scattered Showers and Thunderstorms Overnight...Severe Weather Not Exepected But Could See Locally Strong Thunderstorm or Two; Gusty Winds and Heavy Rainfall...Localized Flooding Cannot Be Ruled Out Along Far Western Panhandle...High Risk for Rip Currents Persists Along Panhandle and East Coast With Breezy Winds and Dangerous Ocean Swells...Minor Coastal Flooding Returns for Portions of East Coast and Keys as King Tides and Onshore Winds Persist...Minor to Moderate Flooding Along Withlaocoochee and Minor Flooding for St. Johns River at Astor...NHC Monitoring Disturbance Within Central and Western Caribbean With High (90%) Chance for Development Through Next 7 Days...**
+**...High Pressure Shifting Off to The East to Maintain Mostly Dry Conditions Along the Peninsula and Keys...Incoming Cold Front to Allow for Isolated to Scattered Showers and Thunderstorms Along the Florida Panhandle Today and Across the Big Bend and Northern Peninsula Tonight...Breezy Winds With Gusts Upwards of 10-20 MPH Across the State Today...Cooler Temperatures Developing Across Much of North Florida Overnight Behind the Cold Front...Coastal Flood Advisories In Effect Along the St. Johns River Basin, East Coast, and Keys For Minor to Moderate Coastal Flooding Near and At Times of High Tide...Minor to Moderate Riverine Flooding Continues Along Portions of the Withlacoochee and St. Johns Rivers...Tropical Depression Nineteen Is Forecast to Become a Tropical Storm Later Today and Continue Strengthening As It Moves Westward, Stalling and Meandering Near the North Coast of Honduras Late Friday and Through the Weekend...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
