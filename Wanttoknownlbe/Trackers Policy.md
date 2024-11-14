@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/orgonite-wortelkrukjes-wablief/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/melania-trump-wantrouw-big-pharma/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
