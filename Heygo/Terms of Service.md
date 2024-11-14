@@ -541,6 +541,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![10 of the most popular travel destinations in 2024/25](https://media.restless.co.uk/uploads/2024/04/the-most-popular-travel-destinations-in-2024-25-e1712224038762-768x453.jpg)](https://restless.co.uk/travel/the-most-popular-holidays/)
+
+### [10 of the most popular holidays in 2025](https://restless.co.uk/travel/the-most-popular-holidays/)
+
+[Read More »](https://restless.co.uk/travel/the-most-popular-holidays/)
+
 [![7 locations that offer great value luxury](https://media.restless.co.uk/uploads/2024/09/locations-that-offer-great-value-luxury-768x482.jpg)](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
 
 ### [7 locations that offer great value luxury](https://restless.co.uk/travel/locations-that-offer-great-value-luxury/)
@@ -571,12 +577,14 @@ New in travel
 
 [Read More »](https://restless.co.uk/travel/active-holidays-in-europe-america-and-canada/)
 
-### [Escorted European tours – 9 enchanting adventures for 2025](https://restless.co.uk/travel/escorted-european-tours-enchanting-adventures/)
-
-[Read More »](https://restless.co.uk/travel/escorted-european-tours-enchanting-adventures/)
-
 Popular travel guides
 ---------------------
+
+[![12 things to do and places to visit in February in the UK](https://media.restless.co.uk/uploads/2023/01/things-to-do-and-places-to-visit-in-february-in-the-uk-768x537.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
+
+### [12 things to do and places to visit in February in the UK](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
+
+[Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
 
 [![7 of the cheapest Caribbean islands to visit on a budget](https://media.restless.co.uk/uploads/2023/08/the-cheapest-caribbean-islands-to-visit-on-a-budget-1-768x511.jpg)](https://restless.co.uk/travel/the-cheapest-caribbean-islands-to-visit-on-a-budget/)
 
@@ -643,12 +651,6 @@ Popular travel guides
 ### [12 things to do and places to visit in the UK in March](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
 
 [Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-the-uk-in-march/)
-
-[![12 things to do and places to visit in February in the UK](https://media.restless.co.uk/uploads/2023/01/things-to-do-and-places-to-visit-in-february-in-the-uk-768x537.jpg)](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-### [12 things to do and places to visit in February in the UK](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
-
-[Read More »](https://restless.co.uk/travel/things-to-do-and-places-to-visit-in-february-in-the-uk/)
 
 [![14 of the best travel destinations to visit in April](https://media.restless.co.uk/uploads/2023/11/the-best-travel-destinations-to-visit-in-april-768x512.jpg)](https://restless.co.uk/travel/the-best-travel-destinations-to-visit-in-april/)
 
