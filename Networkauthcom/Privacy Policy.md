@@ -442,7 +442,7 @@ Whether online, on the phone, or on-demand , our resources are available around 
 
 * [Product End-of-Life (EOL) Policy](#product-end-of-life-eol-policy)
     
-* [Return Policy and Requesting a RMA](#return-policy-and-requesting-a-rma)
+* [Cisco Meraki Warranties, Returns, and RMAs](#return-policy-and-requesting-a-rma)
     
 * [Online Privacy Statement](#privacy-policy)
     
@@ -518,16 +518,24 @@ _(Click the image to view larger)_ 
 
 [![](https://meraki.cisco.com/wp-content/uploads/2024/08/product_eol_milestones_web-1024x547.png)](https://meraki.cisco.com/wp-content/uploads/2024/08/product_eol_milestones_web.png)
 
-Return Policy and Requesting a RMA
-----------------------------------
+Cisco Meraki Warranties, Returns, and RMAs
+------------------------------------------
 
 * * *
 
 Return policy terms may vary by region. Please refer to the Regional Return Policies section for region-specific terms.
 
-##### Warranty Returns
+##### Warranty
 
-Cisco Meraki stands behind its products. Cisco Meraki hardware products come with the following warranty periods:
+Cisco Meraki stands behind its products. Cisco represents to the first purchaser who purchased the Hardware from Cisco or a Cisco Partner that such Hardware will be free from material defects in materials and workmanship during the warranty period, as set forth below. The warranty period commences on the date the Hardware is shipped to that first purchaser. This warranty is non-transferable.
+
+If Hardware does not meet this warranty, Cisco will, at its option, (a) repair, (b) replace, or (c) refund You the depreciated amount of the price You paid for such Hardware, calculated on a straight-line, five-year basis. All Hardware repaired or replaced by Cisco under this warranty will be warranted for the remainder of the warranty period referred to above. This Hardware warranty is subject to (y) Cisco Meraki’s Product End-of-Life (EOL) Policy, and (z) the liability provisions and warranty restrictions, limitations, and disclaimers of the Agreement.
+
+The above warranty is Cisco’s sole liability and your sole remedy for Cisco’s breach of this Hardware warranty.
+
+##### Warranty Periods
+
+Cisco Meraki products come with the following warranty periods:
 
 Product
 
@@ -570,6 +578,8 @@ Accessories\*
 \*\*Product lifetime ends concurrently with product End-of-Support (EOST) Date as described in Cisco Meraki’s [End of Life (EOL) Policy](https://documentation.meraki.com/General_Administration/Other_Topics/Meraki_End-of-Life_(EOL)_Products_and_Dates).
 
 \*\*\*Warranty period for MV21, MV71, and MV2 is 3 years.
+
+##### Warranty Returns
 
 If you are experiencing hardware issues, for any product under warranty (as described above), please contact Cisco Meraki support by logging in to dashboard (Help > Get help) or by [calling us](https://meraki.cisco.com/form/contact/).
 
