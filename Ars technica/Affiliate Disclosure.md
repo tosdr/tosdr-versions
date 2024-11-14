@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Record labels unhappy with court win, say ISP should pay more for user piracy](https://cdn.arstechnica.net/wp-content/uploads/2024/11/record-player-768x432.jpg)](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
+1. [![Listing image for first story in Most Read: Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://cdn.arstechnica.net/wp-content/uploads/2024/11/GettyImages-2182417724-scaled-768x432-1731510611.jpg)](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
     
-    1. [Record labels unhappy with court win, say ISP should pay more for user piracy](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
+    1. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
     
-2. 2. [New secret math benchmark stumps AI models and PhDs alike](https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/)
+2. 2. [Record labels unhappy with court win, say ISP should pay more for user piracy](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
     
-3. 3. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
+3. 3. [New secret math benchmark stumps AI models and PhDs alike](https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/)
     
 4. 4. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
     
-5. 5. [Spotify’s Car Thing, due for bricking, is getting an open source second life](https://arstechnica.com/gaming/2024/11/firmware-hacks-are-rejuvenating-spotifys-car-thing-before-the-company-bricks-it/)
+5. 5. [Trump says Elon Musk will lead “DOGE,” a new Department of Government Efficiency](https://arstechnica.com/tech-policy/2024/11/trump-says-elon-musk-will-lead-doge-a-new-department-of-government-efficiency/)
     
 
 Customize
