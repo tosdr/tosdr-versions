@@ -12,6 +12,7 @@ Solutions
 * [Sectors](https://riot.im/sectors)
 * [Use cases](https://riot.im/solutions)
 * [Customers](https://riot.im/customers)
+* [Partners](https://riot.im/partners)
 * [Matrix in Germany](https://riot.im/matrix-in-germany)
 
 Resources
@@ -45,6 +46,7 @@ Solutions
 * [Sectors](https://riot.im/sectors)
 * [Use cases](https://riot.im/solutions)
 * [Customers](https://riot.im/customers)
+* [Partners](https://riot.im/partners)
 * [Matrix in Germany](https://riot.im/matrix-in-germany)
 
 Resources
@@ -394,7 +396,7 @@ This CCPA and CPRA Addendum is being entered into pursuant to the California Con
 
 #### Solutions
 
-[Sectors](https://riot.im/sectors) [Use cases](https://riot.im/solutions) [Customers](https://riot.im/customers) [Communities](https://riot.im/communities) [Personal](https://riot.im/personal) [Matrix in Deutschland](https://riot.im/de/matrix-in-deutschland)
+[Sectors](https://riot.im/sectors) [Use cases](https://riot.im/solutions) [Customers](https://riot.im/customers) [Communities](https://riot.im/communities) [Personal](https://riot.im/personal) [Partners](https://riot.im/partners) [Matrix in Deutschland](https://riot.im/de/matrix-in-deutschland)
 
 #### Resources
 
@@ -410,4 +412,4 @@ Copyright © 2016–2024 Element • [Legal](https://riot.im/legal) • [Privacy
 
 All Rights Reserved. The Element name, logo and device are registered trade marks of New Vector Ltd
 
-[![Twitter](images/twitter.svg)](https://twitter.com/element_hq) [![Linkedin](images/linkedin.svg)](https://www.linkedin.com/company/element-hq) [![Github](images/github.svg)](https://github.com/element-hq) [![](images/youtube-logo.svg)](https://www.youtube.com/channel/UCTW5bZLYK97SllqUQDwuxnA) [![](images/mastodon-logo.svg)](https://mastodon.matrix.org/@Element)
+[![](images/x-logo.svg)](https://x.com/element_hq) [![Linkedin](images/linkedin.svg)](https://www.linkedin.com/company/element-hq) [![Github](images/github.svg)](https://github.com/element-hq) [![Youtube](images/youtube-logo.svg)](https://www.youtube.com/channel/UCTW5bZLYK97SllqUQDwuxnA) [![Mastodon](images/mastodon-logo.svg)](https://mastodon.matrix.org/@Element) [![Bluesky](images/Bluesky_Logo.svg)](https://bsky.app/profile/element.io)
