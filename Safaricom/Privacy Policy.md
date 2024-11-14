@@ -142,6 +142,18 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 14, 2024
+
+> Thank you Safari.com
+
+> Thank you Safari.com (Tanya) for your kind handling of my many emails. regards Paulene
+
+Paulene
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 13, 2024
 
 > Exceptional travel agent and overall experience!!
@@ -251,20 +263,6 @@ Werner Untrieser
 ,
 
 DE
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 8, 2024
-
-> Sara was very helpful
-
-> Sara was very helpful, she answered all my questions, addressed all my requests and did so very quickly 😁
-
-Melanie
-
-,
-
-CA
 
 VIP service
 
