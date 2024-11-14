@@ -57,6 +57,7 @@ Search
     * [Return Policy](https://www.easybreathe.com/pages/return-policy)
     * [Price-Match Policy](https://www.easybreathe.com/pages/price-match-policy)
 * [Lose Weight](https://easy-breathe.careglp.com/partner/easy-breathe)
+* [The Easy Blog](https://blog.easybreathe.com/)
 * [Check Your Insurance Coverage](https://easybreathe.typeform.com/to/fUyKR4m2)
 
 * [](https://www.facebook.com/easybreatheinc)
@@ -99,6 +100,7 @@ Search
     * [Price-Match Policy](https://www.easybreathe.com/pages/price-match-policy)
     
 * [Lose Weight](https://easy-breathe.careglp.com/partner/easy-breathe)
+* [The Easy Blog](https://blog.easybreathe.com/)
 * [Check Your Insurance Coverage](https://easybreathe.typeform.com/to/fUyKR4m2)
 * [More links](#)
     
@@ -305,6 +307,7 @@ Subscribe
 
 Resources
 
+* [The Easy Blog](https://blog.easybreathe.com/)
 * [Manage Subscriptions](https://easybreathe.com/a/loop_subscriptions/customer)
 * [Prescription Renewal](https://www.easybreathe.com/products/cpap-prescription-package)
 * [Home Sleep Test](https://www.easybreathe.com/products/easy-sleep-test)
