@@ -1,6 +1,6 @@
 [Jump to content](#ipsLayout_mainArea "Go to main content on this page")
 
-[![Photo.net](//content.invisioncic.com/l323473/monthly_2022_10/logo.png.ebcaf4292cc242ad8e505edc5f28e744.png)](https://www.photo.net/)
+[![Photo.net](//media.invisioncic.com/l323473/monthly_2022_10/logo.png.ebcaf4292cc242ad8e505edc5f28e744.png)](https://www.photo.net/)
 
 * [Community Home](https://www.photo.net/ "Go to the community homepage")
 
