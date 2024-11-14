@@ -244,7 +244,7 @@ Conditions générales
     * Contrats pour Fixed Voice Infinity conclus à partir du 01/07/2020 au 03/01/2024: [DSC Fixed Voice Infinity(PDF, 857Kb)](https://www.proximus.be/dam/jcr:9403709b-4533-4f68-ac02-5aa58c2d8804/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Fixed_Voice_Infinity_CSD_20220110_FR~2023-12-20-09-15-17~cache.pdf)
     * Contrats pour Business Trunking conclus à partir du 08/02/2023 au 14/01/2024: [DSC Business Trunking(PDF, 1.4Mb)](https://www.proximus.be/dam/jcr:830bf764-f679-4e05-b851-5e86041a596f/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Business_Trunking_CSD_FR_20230208~2023-02-13-08-58-12~cache.pdf)
     * Contrats pour Business Trunking conclus à partir du 01/07/2020 au 07/02/2023: [DSC Business Trunking(PDF, 1349Kb)](https://www.proximus.be/dam/jcr:1cf6b191-1017-4737-a5c2-9c87b586048a/cdn/sites/iportal/documents/pdfs/common/PDFS-of-Terms-and-conditions/Business_Trunking_CSD_20220110_FR~2023-01-02-06-38-20~cache.pdf)
-    * Contrats pour PSTN/ISDN conclus avant 01/07/2020: [Conditions Générales pour ISDN/PSTN(PDF, 222Kb)](https://www.proximus.be/dam/jcr:5d24e576-4960-4c24-a12f-2d3f277214db/cdn/sites/iportal/documents/pdfs/common/GTC_TELEPHONIE_112012_FR~2021-08-16-15-05-13~cache.pdf)
+    * Contrats pour PSTN/ISDN conclus avant 01/07/2020: [Conditions Générales pour ISDN/PSTN(PDF, 222Kb)](https://www.proximus.be/dam/jcr:5d24e576-4960-4c24-a12f-2d3f277214db/cdn/sites/iportal/documents/pdfs/common/GTC_TELEPHONIE_112012_FR~2021-08-16-15-05-14~cache.pdf)
     * Contrats pour IP (VoIP) conclus à partir du 12/06/2017 au 01/07/2020: [Conditions Générales pour VoIP(PDF, 360Kb)](https://www.proximus.be/dam/jcr:bbc4a40f-de23-4979-b290-f75feddc31c0/cdn/sites/iportal/documents/pdfs/common/GTC_VoiP_apres_12_juin_2017_FR~2022-01-21-09-23-44~cache.pdf)
     * Contrats pour IP (VoIP) conclus avant 12/06/2017: [Conditions Générales pour VoIP(PDF, 243Kb)](https://www.proximus.be/dam/jcr:4ce3520e-7276-415a-9566-5befd242b29a/cdn/sites/iportal/documents/pdfs/common/GTC_FR_VoIP~2022-01-21-09-23-42~cache.pdf)
 * Conditions générales pour Numéros Marketing:
@@ -658,7 +658,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
@@ -715,7 +715,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Unlimited Calls (ligne fixe)**
 
 * [_​_Unlimited Calls National (Enterprise)(PDF, 101Kb)](https://www.proximus.be/dam/jcr:c865c35d-bdc6-46b3-9622-7fbcc6d91129/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_FR.PDF~2022-02-21-12-07-45~cache.pdf)
-* [_​_Unlimited Calls National/International (Enterprise)(PDF, 290Kb)](https://www.proximus.be/dam/jcr:85021768-8a20-42d6-8bbd-cab41c68a7a7/cdn/sites/iportal/documents/pdfs/cor/Pricelist_Unlimited_Calls_National_International_Ent_FR~2021-12-22-16-04-18~cache.pdf)
+* [_​_Unlimited Calls National/International (Enterprise)(PDF, 290Kb)](https://www.proximus.be/dam/jcr:85021768-8a20-42d6-8bbd-cab41c68a7a7/cdn/sites/iportal/documents/pdfs/cor/Pricelist_Unlimited_Calls_National_International_Ent_FR~2021-12-22-16-04-17~cache.pdf)
 
 **Call Credit (ligne fixe)**
 
