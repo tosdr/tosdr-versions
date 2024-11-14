@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [LIST: All Past Recipients Of The...](https://classiccountrymusic.com/list-all-past-recipients-of-the-cmas-willie-nelson-lifetime-achievement-award/)
+* [VOICE: Team Reba’s Katie O Wins...](https://classiccountrymusic.com/voice-team-rebas-katie-o-wins-knockout-after-singing-rebas-turn-on-the-radio/)
 * [Brooks & Dunn Remove Diddy Reference...](https://classiccountrymusic.com/brooks-dunn-remove-diddy-reference-from-play-something-country-lyrics/)
-* [George Strait to be Honored with...](https://classiccountrymusic.com/george-strait-to-be-honored-with-the-cma-lifetime-achievement-award/)
-* [Jamey Johnson Releases Long-Awaited Album, “Midnight...](https://classiccountrymusic.com/jamey-johnson-releases-long-awaited-album-midnight-gasoline/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
@@ -120,9 +120,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/outlaw) [See All](https://classiccountrymusic.com/genre/outlaw)
 
+* [LIST: All Past Recipients Of The...](https://classiccountrymusic.com/list-all-past-recipients-of-the-cmas-willie-nelson-lifetime-achievement-award/)
+* [Willie Nelson & Wife Annie Release...](https://classiccountrymusic.com/willie-nelson-wife-annie-release-their-cannabis-cookbook/)
 * [Willie Nelson Joined By Chris Stapleton,...](https://classiccountrymusic.com/willie-nelson-joined-by-chris-stapleton-sheryl-crow-dave-matthews-for-epic-on-the-road-again-collaboration/)
-* [Jamey Johnson Explains How Toby Keith’s...](https://classiccountrymusic.com/jamey-johnson-explains-how-toby-keiths-death-motivated-him-to-release-his-new-album/)
-* [Hank Williams Jr. & Waylon Jennings’...](https://classiccountrymusic.com/hank-williams-jr-waylon-jennings-the-conversation-reaches-new-milestone-45-years-later/)
 
 Terms of Use
 ============
