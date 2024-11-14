@@ -30,7 +30,7 @@ Phone Number
 
 Please describe your use case \*
 
-Expected Traffic
+Expected Traffic \*
 
 1,000 GB5,000 GBUnlimited
 
