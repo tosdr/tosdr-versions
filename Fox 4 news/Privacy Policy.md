@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Gift ideas for people who have everything](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/they-dont-have-this-thumbnail.jpg?ve=1&tl=1)
+ [![Fort Worth Lyft driver shot by passenger during private ride](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/s-fw-cassie-ln-driver-shot-63_00.00.01.32.jpg?ve=1&tl=1)
 
- ![Gift ideas for people who have everything](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/they-dont-have-this-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-they-dont-have-these)
+ ![Fort Worth Lyft driver shot by passenger during private ride](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/s-fw-cassie-ln-driver-shot-63_00.00.01.32.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-lyft-driver-hospitalized-shot-by-passenger)
 
-### [Gift ideas for people who have everything](https://www.fox4news.com/news/2024-gift-guide-they-dont-have-these)
+### [Fort Worth Lyft driver shot by passenger during private ride](https://www.fox4news.com/news/fort-worth-lyft-driver-hospitalized-shot-by-passenger)
 
- [![Sen. John Thune becomes next Senate majority leader](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1477583927-scaled.jpg?ve=1&tl=1)
+ [![Rep. Matt Gaetz resigns from Congress after Donald Trump nominates him for Attorney General](https://images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/gettyimages-2183887334-scaled.jpg?ve=1&tl=1)
 
- ![Sen. John Thune becomes next Senate majority leader](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1477583927-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/senator-john-thune-senate-majority-leader)
+ ![Rep. Matt Gaetz resigns from Congress after Donald Trump nominates him for Attorney General](https://images.foxtv.com/images.foxtv.com/static.fox35orlando.com/www.fox35orlando.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183887334-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/donald-trump-picks-florida-rep-matt-gaetz-attorney-general)
 
-### [Sen. John Thune becomes next Senate majority leader](https://www.fox4news.com/news/senator-john-thune-senate-majority-leader)
+### [Rep. Matt Gaetz resigns from Congress after Donald Trump nominates him for Attorney General](https://www.fox4news.com/news/donald-trump-picks-florida-rep-matt-gaetz-attorney-general)
 
- [![Top 10 toys for 2024](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/top-10-toys-thumbnail.jpg?ve=1&tl=1)
+ [![Gaylord Texan ICE! exhibit returns with Rudolph the Red-Nosed Reindeer theme](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-dionne-gaylord-ice-preview-6p_00.00.06.14.jpg?ve=1&tl=1)
 
- ![Top 10 toys for 2024](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/top-10-toys-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-top-10-toys)
+ ![Gaylord Texan ICE! exhibit returns with Rudolph the Red-Nosed Reindeer theme](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-dionne-gaylord-ice-preview-6p_00.00.06.14.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gaylord-texan-ice-exhibit-returns-rudolph-red-nosed-reindeer-theme)
 
-### [Top 10 toys for 2024](https://www.fox4news.com/news/2024-gift-guide-top-10-toys)
+### [Gaylord Texan ICE! exhibit returns with Rudolph the Red-Nosed Reindeer theme](https://www.fox4news.com/news/gaylord-texan-ice-exhibit-returns-rudolph-red-nosed-reindeer-theme)
 
- [![Biden, Trump meet at the White House for transition talks](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183892179.jpg?ve=1&tl=1)
+ [![Mesquite high school student sexually assaulted in bathroom by man who sneaked into campus: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/synniaz-elijah-mesquite-pd-mug.png?ve=1&tl=1)
 
- ![Biden, Trump meet at the White House for transition talks](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183892179.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-trump-meet-white-house-nov-13-2024)
+ ![Mesquite high school student sexually assaulted in bathroom by man who sneaked into campus: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/synniaz-elijah-mesquite-pd-mug.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/horn-high-school-sexual-assault-synniaz-elijah-arrest)
 
-### [Biden, Trump meet at the White House for transition talks](https://www.fox4news.com/news/biden-trump-meet-white-house-nov-13-2024)
+### [Mesquite high school student sexually assaulted in bathroom by man who sneaked into campus: police](https://www.fox4news.com/news/horn-high-school-sexual-assault-synniaz-elijah-arrest)
 
- [![Spirit prepares for bankruptcy filing after failed Frontier talks: report](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2006559720.jpg?ve=1&tl=1)
+ [![WATCH: US Congress holds UFO hearing](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/01/32/18/US-Capitol-building.jpg?ve=1&tl=1)
 
- ![Spirit prepares for bankruptcy filing after failed Frontier talks: report](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2006559720.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/money/spirit-prepares-bankruptcy-filing-after-failed-frontier-talks-report)
+ ![WATCH: US Congress holds UFO hearing](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2022/01/32/18/592/333/US-Capitol-building.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-us-congress-holds-ufo-hearing-uap-unidentified-anomalous-phenomena)
 
-### [Spirit prepares for bankruptcy filing after failed Frontier talks: report](https://www.fox4news.com/money/spirit-prepares-bankruptcy-filing-after-failed-frontier-talks-report)
+### [WATCH: US Congress holds UFO hearing](https://www.fox4news.com/news/watch-us-congress-holds-ufo-hearing-uap-unidentified-anomalous-phenomena)
 
 ###### [News](https://www.fox4news.com/news)
 
