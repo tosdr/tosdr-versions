@@ -259,12 +259,30 @@ Advertise with Us
 
 Most Popular
 
-[![Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous")](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
+[![Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
 
-[Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast")](https://www.derrynow.com/news/weather/1654867/snow-tracker-county-by-county-snow-map-as-ireland-braces-for-met-eireann-cold-blast.html)
+
+SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast
+
+[Weather](https://www.derrynow.com/section/997/cookie-policy)
+
+[SNOW TRACKER: County by county snow map as Ireland braces for Met Éireann cold blast](https://www.derrynow.com/news/weather/1654867/snow-tracker-county-by-county-snow-map-as-ireland-braces-for-met-eireann-cold-blast.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge")](https://www.derrynow.com/news/weather/1654762/met-eireann-in-snow-forecast-for-ireland-amid-arctic-cold-snap-as-temps-plunge.html)
+
+Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge
+
+[Weather](https://www.derrynow.com/section/997/cookie-policy)
+
+[Met Éireann in snow forecast for Ireland amid Arctic cold snap as temps plunge](https://www.derrynow.com/news/weather/1654762/met-eireann-in-snow-forecast-for-ireland-amid-arctic-cold-snap-as-temps-plunge.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Suspected gas leak in Creggan area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
 
@@ -275,14 +293,12 @@ Suspected gas leak Creggan area of Derry.
 [Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Man arrested as police seize quantity of suspected Class B drugs in Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested as police seize quantity of suspected Class B drugs in Derry")](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
-
-PSNI
+[![Leading Derry dissident republican charged with breaches of counter-terrorism legislation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading Derry dissident republican charged with breaches of counter-terrorism legislation")](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Man arrested as police seize quantity of suspected Class B drugs in Derry](https://www.derrynow.com/news/local-news/1654623/man-arrested-as-police-seize-quantity-of-suspected-class-b-drugs-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Leading Derry dissident republican charged with breaches of counter-terrorism legislation](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man charged with attempting to commit grievous bodily harm returned for trial](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man charged with attempting to commit grievous bodily harm returned for trial")](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
 
@@ -293,39 +309,12 @@ Derry Magistrate's Court
 [Derry man charged with attempting to commit grievous bodily harm returned for trial](https://www.derrynow.com/news/local-news/1654647/derry-man-charged-with-attempting-to-commit-grievous-bodily-harm-returned-for-trial.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Leading Derry dissident republican charged with breaches of counter-terrorism legislation](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Leading Derry dissident republican charged with breaches of counter-terrorism legislation")](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Leading Derry dissident republican charged with breaches of counter-terrorism legislation](https://www.derrynow.com/news/local-news/1654613/leading-derry-dissident-republican-charged-with-breaches-of-counter-terrorism-legislation.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Magherafelt firm takes the steer on new £13.5M DVA test centre](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt firm takes the steer on new £13.5M DVA test centre")](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
-
-An artist's impression of how the new state-of-the-art building will look.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Magherafelt firm takes the steer on new £13.5M DVA test centre](https://www.derrynow.com/news/home/1654463/magherafelt-firm-takes-the-steer-on-new-13-5m-dva-test-centre.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry GAA](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry GAA")](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
-
-Paddy Tally is set to become te new Derry manager.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Paddy Tally set to be named as new Derry senior football manager](https://www.derrynow.com/news/derry-sport/1654703/paddy-tally-set-to-be-named-as-new-derry-senior-football-manager.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![SVP appeals for donations as record numbers of families are seeking help](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SVP appeals for donations as record numbers of families are seeking help")](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
-
-Pictured at the launch of the appeal were Doireann Garrihy, Marty Whelan and Mary Kennedy with SVP National President Rose McGowan.Photo Chris Bellew / Fennell Photography
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[SVP appeals for donations as record numbers of families are seeking help](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Thursday, November 14, 2024](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Bohemians confirm signing of Derry City striker Colm Whelan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
 
@@ -336,20 +325,36 @@ Colm Whelan puts pen to paper on a multi-year deal with Bohemians
 [Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![New RTÉ kids show stars Derry YouTuber Adam B](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New RTÉ kids show stars Derry YouTuber Adam B")](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+[![SVP appeals for donations as record numbers of families are seeking help](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "SVP appeals for donations as record numbers of families are seeking help")](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
 
-Pictured: Rathdowney comedian Mary Claire Fitzpatrick
+Pictured at the launch of the appeal were Doireann Garrihy, Marty Whelan and Mary Kennedy with SVP National President Rose McGowan.Photo Chris Bellew / Fennell Photography
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[SVP appeals for donations as record numbers of families are seeking help](https://www.derrynow.com/news/national-news/1655271/svp-appeals-for-donations-as-record-numbers-of-families-are-seeking-help.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Man arrested in connection with drug-related offences charged to Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with drug-related offences charged to Derry court")](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
+
+PSNI
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
+[Man arrested in connection with drug-related offences charged to Derry court](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)")](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Newbridge fans cheer on their team in the Ulster GAA Football Senior Club Championship quarter-final")](https://www.derrynow.com/story-telling/pictures---videos/1653598/in-pictures-newbridge-fans-cheer-on-their-team-in-the-ulster-gaa-football-senior-club-championship-quarter-final.html)
 
@@ -417,13 +422,6 @@ IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
 
 [IN PICTURES: Thousands attend Derry rally calling for end to violence against women and girls](https://www.derrynow.com/story-telling/pictures---videos/1651804/in-pictures-thousands-attend-derry-rally-calling-for-end-to-violence-against-women-and-girls.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road")](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Sandy's African Food Hub and Restaurant opens in Derry's Spencer Road](https://www.derrynow.com/story-telling/pictures---videos/1651089/in-pictures-sandy-s-african-food-hub-and-restaurant-opens-in-derry-s-spencer-road.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,57 +523,59 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
+[![Racist stickers erected in Bogside area of Derry condemned](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Racist stickers erected in Bogside area of Derry condemned")](https://www.derrynow.com/news/local-news/1655793/racist-stickers-erected-in-bogside-area-of-derry-condemned.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, November 14, 2024](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry teenager named as part of Hitech GP’s British Formula 4 line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry teenager named as part of Hitech GP’s British Formula 4 line-up")](https://www.derrynow.com/news/sport/1655327/county-derry-teenager-named-as-part-of-hitech-gps-british-formula-4-line-up.html)
-
-Fionn McLaughlin is also part of the Red Bull Junior Driver Team (INPHO/Red Bull Content Pool/Joerg Mitter)
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[County Derry teenager named as part of Hitech GP’s British Formula 4 line-up](https://www.derrynow.com/news/sport/1655327/county-derry-teenager-named-as-part-of-hitech-gps-british-formula-4-line-up.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![DAERA Minister visits newly improved Manor Park, Moneymore](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Manor_Park-16-1731524357634.JPG--.JPG?1731524358633 "DAERA Minister visits newly improved Manor Park, Moneymore")](https://www.derrynow.com/news/home/1655228/daera-minister-visits-newly-improved-manor-park-moneymore.html)
-
-Deputy Chair of Mid Ulster District Council, Councillor Wesley Brown is pictured with the DAERA Minister, Andrew Muir MLA and Sharon McGowan and Patrick Cosgrove (DfC).
-
-[Home](https://www.derrynow.com/)
-
-[DAERA Minister visits newly improved Manor Park, Moneymore](https://www.derrynow.com/news/home/1655228/daera-minister-visits-newly-improved-manor-park-moneymore.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/resizer/165/93/true/2018/07/31094705/PSNI-Logo.jpg--.jpg "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
-
-Suspected gas leak Creggan area of Derry.
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Bohemians confirm signing of Derry City striker Colm Whelan](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Colm_Whelan_Bohs-1731527420059.jpg--.jpg?1731527420087 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
-
-Colm Whelan puts pen to paper on a multi-year deal with Bohemians
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Education Minister invited to visit St Brigid's College in Derry](https://www.derrynow.com/resizer/165/93/true/2024_11_13/IDNT_14-11-24_St_Brigid_s_College_30131240-1731496598787.jpg--.jpg?1731496598831 "Education Minister invited to visit St Brigid's College in Derry")](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
-
-Education Minister Paul Givan has been invited to visit St Brigid’s College.
+One of the stickers stuck on a lamp post in Jon Clifford/Bull Play Park
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Education Minister invited to visit St Brigid's College in Derry](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Racist stickers erected in Bogside area of Derry condemned](https://www.derrynow.com/news/local-news/1655793/racist-stickers-erected-in-bogside-area-of-derry-condemned.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fundraising quiz for Gaza to be held in Derry pub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fundraising quiz for Gaza to be held in Derry pub")](https://www.derrynow.com/news/local-news/1655601/fundraising-quiz-for-gaza-to-be-held-in-derry-pub.html)
+
+The quiz will be held this Saturday at 8pm in the Rocking Chair bar
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Fundraising quiz for Gaza to be held in Derry pub](https://www.derrynow.com/news/local-news/1655601/fundraising-quiz-for-gaza-to-be-held-in-derry-pub.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told")](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Paul O'Connor, PFC, with Paddy Hillyard, author of Decades of Deceit, and Bill Roulston.](https://www.derrynow.com/resizer/165/93/true/2024_11_14/Decades_of_Deceit_book_launch__2-1731587842449.jpg--.jpg?1731587843000 "Paul O'Connor, PFC, with Paddy Hillyard, author of Decades of Deceit, and Bill Roulston.")](https://www.derrynow.com/news/local-news/1655774/decades-of-deceit-the-stalker-affair-and-its-legacy-launched-in-derry.html)
+
+Paul O'Connor, PFC, with Paddy Hillyard, author of Decades of Deceit, and Bill Roulston.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Decades of Deceit: The Stalker Affair and its Legacy’ launched in Derry](https://www.derrynow.com/news/local-news/1655774/decades-of-deceit-the-stalker-affair-and-its-legacy-launched-in-derry.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![27-year-old man charged with a series of drug offences remanded in custody](https://www.derrynow.com/resizer/165/93/true/2024_03_28/derrycourthouse2.jpg--man_remanded_at_derry_magistrate_s_court_on_series_of_driving_charges-1711633542377.jpg--.jpg?1711633542414 "27-year-old man charged with a series of drug offences remanded in custody")](https://www.derrynow.com/news/local-news/1655590/27-year-old-man-charged-with-a-series-of-drug-offences-remanded-in-custody.html)
+
+Derry Magistrate's Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[27-year-old man charged with a series of drug offences remanded in custody](https://www.derrynow.com/news/local-news/1655590/27-year-old-man-charged-with-a-series-of-drug-offences-remanded-in-custody.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Probation for man charged with possessing over 300 indecent images](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Probation for man charged with possessing over 300 indecent images")](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Probation for man charged with possessing over 300 indecent images](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
