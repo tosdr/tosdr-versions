@@ -117,61 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
+> Support even on Sundays!
 > ------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks Adriaan...
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> You guys even work on Sundays?
 > 
-> I just wish I started using Invoices Online ages ago.
+> I’m impressed!!
 
-Terri Winfield
+Johan Botha - Brand Xplosion
 
-![valued client UMVIKELI PRIVATE SECURITY](https://www.invoicesonline.co.za/scripts/image.php?bid=7357&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=159942810)  
-UMVIKELI PRIVATE SECURITY
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=150014587)  
+TurboFibre
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=203789033)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=183379694)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=119258539)  
-Three Moons Emporium
+![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=207395269)  
+WIP Digital Solutions
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=23844796)  
-Roamfree Boerdery (PTY) LTD
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=130473405)  
+CGHK Enterprises (PTY) LTD
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=67877125)  
-Well Hung Art
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=167898125)  
+Skinz Printing & Branding
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=214292700)  
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=20527775)  
+Bchange Online CC
+
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=141822789)  
+Shades of Summer Investments 184cc t/a Junker Construction
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=77866789)  
+West Coast Horse Trails
+
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=115464280)  
+Depot Diesel (Pty) Ltd
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=210440254)  
+Waterfinatics Swim School
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=118710457)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=7120569)  
+Vplay Grafix
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=114781212)  
+MSPCloud (Pty) Ltd
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=32926852)  
+Westside Car Audio CC
+
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=1e7f5cf24cd9400eeee04c1c7bbbc1b50c060360fdc9a04f62556fe6ca7d9376&c=172922774)  
 Blue Sky Solar Services
-
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=99493120)  
-Enhle Oarabile Kea
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=132276156)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=198493190)  
-FJW Security Cc
-
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=210213460)  
-Network Grey (Pty) Ltd
-
-![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=70212924)  
-SA Security Brokerz (Pty) Ltd
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=39685977)  
-Cape Adventure Zone
-
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=6850300)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=133693475)  
-MONSTER SECURITY SERVICES
-
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=38130a2d672e5ebcfca834563b455d030d8854ce04423d07f7b4941a2406648a&c=35534965)  
-MONSTER SECURITY SERVICES (NORTHAM)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
