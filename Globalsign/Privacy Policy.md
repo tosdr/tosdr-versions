@@ -336,6 +336,10 @@ Repository
 * [GlobalSign PKI Disclosure Statement v1.3](https://www.globalsign.com/en/repository/GlobalSign_PDS_v1.3_final.pdf)
 * [GlobalSign Qualified Production and Sample Certificates](https://support.globalsign.com/ca-certificates/intermediate-certificates/globalsign-qualified-production-and-sample-certificates)
 
+### Singapore documents
+
+* [GlobalSign Singapore CPS - current version - v1.0 - March 29, 2024](https://www.globalsign.com/en/repository/GlobalSign-Singapore-CPS-v1.0.pdf)
+
 ### Validation Resources
 
 * [GlobalSign State List v2.1](https://www.globalsign.com/en/repository/GlobalSign-State-List-v2.1.pdf)
