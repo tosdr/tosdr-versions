@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thanks for this notification. No useful feedback to give I'm afraid; very pleased with the service and will be resubscribing soon.
+Brilliant customer support as usual. Delighted to be able to use Foxyproxy again. I fiddled with NordVPn and their performance is light years behind your standard.
 
-Lieven Vandelanotte
+Frederic Delaroche
