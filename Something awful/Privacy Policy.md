@@ -205,21 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Best Of...](https://www.somethingawful.com/great-goon-database/great-goon-best/1/)
-* [Sponsored Links Sponsored By Recommended Sponsors](https://www.somethingawful.com/news/sponsored-recommended-links/)
-* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
-* [Storytime: He-Man and the ROCK WARRIORS!](https://www.somethingawful.com/feature-articles/storytime-heman-rock/1/)
-* [Downgrades](https://www.somethingawful.com/photoshop-phriday/downgrades/1/)
+* [Re-make Movies for Internet Subcultures](https://www.somethingawful.com/comedy-goldmine/remake-movies-for/1/)
+* [The Many Faces of Barack Obama](https://www.somethingawful.com/comedy-goldmine/faces-barack-obama/1/)
+* [Myspace SWAT](https://www.somethingawful.com/fashion-swat/myspace-swat/1/)
+* [Codename Nina: Global Terrorism Strike Force](https://www.somethingawful.com/game-reviews/codename-nina-global/1/)
+* [Lost Treasures of the AD&D 2nd Edition Monstrous Compendium](https://www.somethingawful.com/dungeons-and-dragons/monstrous-manual-adnd/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/games-regret.gif) [Pay me $1million in Bitcoin or I will start an anime thread](http://forums.somethingawful.com/showthread.php?threadid=4075330 "Pay me $1million in Bitcoin or I will start an anime thread")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Most Amazing Toys of 2024?](http://forums.somethingawful.com/showthread.php?threadid=4075317 "Most Amazing Toys of 2024?")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
+
 ### Random Articles
 
-* [Fight the Republican Future](https://www.somethingawful.com/news/joe-biden-xfiles/)
-* [Bitcoins: Are Your Children Safe?](https://www.somethingawful.com/everdraed-showcase/bitcoins-children-wonka/)
-* [Rifts World Book Japan](https://www.somethingawful.com/dungeons-and-dragons/rifts-japan/1/)
-* [Someone Call Jason Statham's Agent RIGHT NOW](https://www.somethingawful.com/webcam-ward/hustle-action-riff/)
-* [Something Awful World Exclusive First Review of Grand Theft Auto: San Andreas](https://www.somethingawful.com/news/something-awful-world/)
+* [Thorpe's Notes: R. Kelly's Trapped In The Closet Chapters 6-12](https://www.somethingawful.com/your-band-sucks/thorpes-notes-kellys-2/1/)
+* [Wanderlust; Act of Valor; Gone; Tyler Perry's Good Deeds; The Secret World of Arrietty](https://www.somethingawful.com/current-movie-reviews/wanderlust-act-valor/1/)
+* [I Hate You Page 150](https://www.somethingawful.com/cliff-yablonski/i-hate-you-150/)
+* [Crowolf Designs](https://www.somethingawful.com/awful-links/crowolf-rpg-portraits/)
+* [The 117th Element](https://www.somethingawful.com/news/ununseptium-ronpaul-element117/)
 
 [Random!](https://www.somethingawful.com/random/)
 
