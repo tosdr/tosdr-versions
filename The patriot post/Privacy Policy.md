@@ -1,10 +1,10 @@
-**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111942-mid-day-digest-2024-11-13?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/111982-mid-day-digest-2024-11-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Privacy Policy for _The Patriot Post_
 
@@ -108,7 +108,7 @@ Our website provides a Contact Us section to facilitate feedback from site visit
 
 Last Updated: November 15, 2011.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111942-mid-day-digest-2024-11-13?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/111982-mid-day-digest-2024-11-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -136,6 +136,7 @@ Last Updated: November 15, 2011.
 *      [Allen West Things That Make You Go Hmm…](https://patriotpost.us/opinion/111962-things-that-make-you-go-hmm-dot-dot-dot-2024-11-14)
 *      [The Washington Stand Fame Fatale: How the Elite Celeb Culture Doomed Dems](https://patriotpost.us/opinion/111974-fame-fatale-how-the-elite-celeb-culture-doomed-dems-2024-11-14)
 *      [The Babylon Bee Biden Administration Declares Trump Cabinet Picks ‘Unqualified’](https://patriotpost.us/opinion/111959-biden-administration-declares-trump-cabinet-picks-unqualified-2024-11-14)
+*      [Guest Commentary Not Out of the Woods Yet](https://patriotpost.us/opinion/111985-not-out-of-the-woods-yet-2024-11-14)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -149,11 +150,9 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
+[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
 
- 
-
-Shop Now](https://patriotpostshop.com/)
+![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
