@@ -227,6 +227,20 @@ out of 5 based on
 
 > Nov 13, 2024
 
+> Exceptional travel agent and overall experience!!
+
+> Leigh Ann was an exceptional travel agent who went above and beyond to make our trip to Kruger National Park, Victoria Falls, and Chobe unforgettable. Her recommendations were spot-on, and what made the experience even better was her personal perspective—insights you simply won’t find online. She shared tips that added so much value to our trip and made everything feel more meaningful. Leigh Ann was available anytime we had questions, which made us feel completely supported throughout the trip. From the initial planning stages to our return, every detail was seamless and perfectly coordinated. If you’re planning a trip to Africa, I highly recommend Leigh Ann. She truly gave us a once-in-a-lifetime experience. Thank you, Leigh Ann!
+
+Uvaldo Oz Mencia
+
+,
+
+ZA
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 13, 2024
+
 > quick and pleasant
 
 > The agent was a pleasure to communicate with and all requests were dealt with quickly. She was able to offer many options that fit our needs. The whole experience could not have gone smoother
@@ -334,20 +348,6 @@ Melanie
 ,
 
 CA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 8, 2024
-
-> Mel was amazing!
-
-> Mel was amazing! I’m so grateful for her attention to detail. Our trip was incredible and I’ve already recommended Safari.com to friends and family! Thanks again Mel!
-
-Ben George
-
-,
-
-US
 
 VIP service
 
