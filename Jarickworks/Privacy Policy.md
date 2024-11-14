@@ -217,10 +217,10 @@ Ethereum
 
 [](https://jarick.works/eidolon/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/003.svg)](https://jarick.works/anaarkei/free-body/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/008.svg)](https://jarick.works/anaarkei/what-is-anarchism-02-14/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/voice-memos-1.svg)](https://jarick.works/beagle/productivity/voice-memos/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/multimedia/photos-1.svg)](https://jarick.works/beagle/multimedia/photos/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/slides-1.svg)](https://jarick.works/beagle/productivity/slides/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/004.svg)](https://jarick.works/anaarkei/what-is-anarchism-01-14/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/024.svg)](https://jarick.works/anaarkei/what-is-anarchism-06-14/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/006.svg)](https://jarick.works/anaarkei/define-your-terms-corporatism/)
