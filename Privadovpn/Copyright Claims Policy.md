@@ -83,7 +83,7 @@
     * [简体中文](https://privadovpn.com/zh-cn/ban-quan-zheng-ce/)
     * [繁體中文](https://privadovpn.com/zh-tc/ban-quan-zheng-ce/)
     
-* [Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD&coupon=12mo299-homepage&biannualcoupon=24mo199-homepage&monthcoupon=1mo1099-homepage)
+* [Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD)
 * [Upgrade](https://signup.privadovpn.com/upgrade?token=)
 
 PrivadoVPN Copyright Policy
@@ -187,7 +187,7 @@ Currency
 
 Sign Up
 
-[Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD&coupon=12mo299-homepage&biannualcoupon=24mo199-homepage&monthcoupon=1mo1099-homepage)
+[Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD)
 
 55
 
