@@ -10,14 +10,25 @@ No options
 
 ![img](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/cross-black.svg)
 
+* [Generate](https://www.the-qrcode-generator.com/)
+* [Scan](https://www.the-qrcode-generator.com/scan)
 * [Custom QR Code](https://www.the-qrcode-generator.com/custom-qr-code)
 * [Dynamic QR Code](https://www.the-qrcode-generator.com/dynamic-qr-code)
-* [Scan](https://www.the-qrcode-generator.com/scan?lng=en)
+* [Trackable QR Code](https://www.the-qrcode-generator.com/trackable-qr-code)
+* [Community](https://community.the-qrcode-generator.com/)
 *  [![globe icon](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/Globe_icon.svg) English](javascript:void(0);)
 
 [Sign in](https://app.the-qrcode-generator.com/sign-in?lng=en&signup_source=mobile_header_sign_in&from=mob&fromSearch=)[Sign up free](https://app.the-qrcode-generator.com/sign-in?lng=en&signup_source=mobile_header_sign_up&from=mob&fromSearch=)
 
-[![](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/polo-logo-v1.png "The qrcode generator")](https://www.the-qrcode-generator.com/)[Custom QR Code](https://www.the-qrcode-generator.com/custom-qr-code)[Dynamic QR Code](https://www.the-qrcode-generator.com/dynamic-qr-code)[Scan](https://www.the-qrcode-generator.com/scan?lng=en)
+[![](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/polo-logo-v1.png "The qrcode generator")](https://www.the-qrcode-generator.com/)[Generate](https://www.the-qrcode-generator.com/)[Scan](https://www.the-qrcode-generator.com/scan?lng=en)
+
+About QR Codes
+
+![arrow](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/arrow-up.svg)
+
+[Custom QR Code](https://www.the-qrcode-generator.com/custom-qr-code?lng=en)[Dynamic QR Code](https://www.the-qrcode-generator.com/dynamic-qr-code?lng=en)[Trackable QR Code](https://www.the-qrcode-generator.com/trackable-qr-code?lng=en)
+
+[Community](https://community.the-qrcode-generator.com/)
 
  ![globe icon](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/Globe_icon.svg) EN ![arrow](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/arrow-up.svg) 
 
