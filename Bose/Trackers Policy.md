@@ -1,8 +1,8 @@
 [Skip to main content](#maincontent) [Skip to Support Chat](#) [Skip to footer content](#footercontent) [Skip to Accessibility Statement](https://www.bose.com/legal/accessibility)
 
-Deal of the Day: Save $150 on Cypress Green QuietComfort Headphones. [Buy now](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1)
-
 Get gift inspiration with our Holiday Gift Guide. [Shop](https://www.bose.com/holiday-gift-guide)
+
+Exclusive color drop: Save $50 off Ultra Open Earbuds in new Carbon Blue. [Buy now](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1)
 
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
@@ -107,22 +107,22 @@ Back
     * [Gift Sets](https://www.bose.com/c/sets)
     * [Gift Cards](https://www.bose.com/gift-cards)
     
-    [![](https://assets.bosecreative.com/m/60a8003c4d843dea/webimage-QCHLE25-CypressGreen_SF_NavFlyout_Promo_Mobile.png)
+    [![](https://assets.bosecreative.com/m/5ec88eb5ac5c390a/webimage-UOEBLE25-CarbonBlue_SF_NavFlyout_Holiday_Gifting_Artemas_Mobile.png)
     
-    Deal of the day
+    Exclusive Color Drop
     
-    ### QuietComfort Headphones](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1 "BUY NOW ")
+    ### Artemas’ Top Pick](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1 "BUY NOW ")
     
      
     
-    Today only
+    Exclusive color drop
     
-    Deal of the day
-    ---------------
+    Artemas’ top pick
+    -----------------
     
-    Act fast and save $150 off QuietComfort Headphones in Cypress Green.
+    Save $50 off Ultra Open Earbuds now in new Carbon Blue.
     
-    [BUY NOW](https://www.bose.com/QC-HEADPHONEARN.html?dwvar_QC-HEADPHONEARN_color=CYPRESS+GREEN&quantity=1 "BUY NOW")
+    [BUY NOW](https://www.bose.com/ULT-HEADPHONEOPN.html?dwvar_ULT-HEADPHONEOPN_color=CARBON+BLUE&quantity=1 "BUY NOW")
     
 
 * [Explore](#)
@@ -142,16 +142,14 @@ Back
     
     [![](https://assets.bosecreative.com/m/3fd8877b4aaead5b/webimage-SusanAlexander_NavFlyout_mobile_343x180_x2.png)
     
-    SUSAN ALEXANDRA COLLABORATION
-    
-    ### Express yourself](https://www.bose.com/stories/collabs "Learn more")
+    ### Partners in powerful sound](https://www.bose.com/stories/collabs "Learn more")
     
      
     
-    Express yourself
-    ----------------
+    Partners in powerful sound
+    --------------------------
     
-    Learn about our collaboration with Susan Alexandra
+    From the music studio to the fashion world and beyond, check out who we're teaming up with.
     
     [Learn more](https://www.bose.com/stories/collabs "Learn more")
     
