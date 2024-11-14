@@ -336,21 +336,21 @@ New
 
 ###### New Arrivals
 
-[![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+[![](files/all-over-print-recycled-unisex-sweatshirt-white-front-6733a67f9c02ecopy.jpg)
 
-Atari 7800+](https://www.atari.com/collections/7800)
-
-[![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
-
-Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
 
 [![](files/classic-dad-hat-black-front-6724d1d04c296copy.jpg)
 
 Jaguar](https://www.atari.com/collections/jaguar)
 
-[![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+[![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
-RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+
+[![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+
+Atari 7800+](https://www.atari.com/collections/7800)
 
 New
 
@@ -358,21 +358,21 @@ Menu
 
 ###### New Arrivals
 
-[![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+[![](files/all-over-print-recycled-unisex-sweatshirt-white-front-6733a67f9c02ecopy.jpg)
 
-Atari 7800+](https://www.atari.com/collections/7800)
-
-[![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
-
-Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
 
 [![](files/classic-dad-hat-black-front-6724d1d04c296copy.jpg)
 
 Jaguar](https://www.atari.com/collections/jaguar)
 
-[![RCT x errornogo](files/Product_Image_aa18f2b3-48b8-439e-9d63-e9d86801f87f.png)
+[![](files/ThumbsUp_-ATAORGDECSET-Image5-160835-Daniel.jpg)
 
-RCT x errornogo](https://www.atari.com/collections/rct-x-errornogo)
+Atari x Thumbs Up!](https://www.atari.com/collections/atari-x-thumbs-up)
+
+[![Atari 7800](files/Product_Image_c5251c7b-482e-4001-b085-641ad524affe.png)
+
+Atari 7800+](https://www.atari.com/collections/7800)
 
  
 
