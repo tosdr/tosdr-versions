@@ -87,23 +87,23 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Psychology](https://www.sciencenews.org/topic/psychology)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [22 pesticides show links to prostate cancer](https://www.sciencenews.org/article/pesticides-link-prostate-cancer)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            
+        * [Psychology](https://www.sciencenews.org/topic/psychology)
             
             ### [Researchers seek, and find, a magical illusion for the ears](https://www.sciencenews.org/article/magic-sound-auditory-visual-illusion)
             
-            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")20 hours ago
+            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")November 13, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Lizard spit can help detect a rare pancreatic tumor](https://www.sciencenews.org/article/lizard-spit-rare-pancreatic-tumor)
             
-            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")22 hours ago
-            
-        * [Anthropology](https://www.sciencenews.org/topic/anthropology)
-            
-            ### [Fossil teeth hint at a surprisingly early start to humans’ long childhoods](https://www.sciencenews.org/article/fossil-teeth-tooth-human-childhood)
-            
-            By [Bruce Bower](https://www.sciencenews.org/author/bruce-bower "Posts by Bruce Bower")24 hours ago
+            By [Rohini Subrahmanyam](https://www.sciencenews.org/author/rohini-subrahmanyam "Posts by Rohini Subrahmanyam")November 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Stray DNA is all around us. It could revolutionize conservation](https://www.sciencenews.org/article/edna-environmental-conservation)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")2 hours ago
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -138,7 +138,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Environment](https://www.sciencenews.org/topic/environment)
+    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [22 pesticides show links to prostate cancer](https://www.sciencenews.org/article/pesticides-link-prostate-cancer)
+            
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")5 hours ago
+            
+        * [Environment](https://www.sciencenews.org/topic/environment)
             
             ### [Fire-prone neighborhoods on the fringes of nature are rapidly expanding](https://www.sciencenews.org/article/fire-prone-neighborhoods-expanding)
             
@@ -149,12 +155,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Meet Chonkus, the mutant cyanobacteria that could help sink climate change](https://www.sciencenews.org/article/chonkus-climate-change-cyanobacteria)
             
             By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 7, 2024
-            
-        * [Agriculture](https://www.sciencenews.org/topic/agriculture)
-            
-            ### [Exploiting a genetic quirk in potatoes may cut fertilizer needs](https://www.sciencenews.org/article/potatoes-genetic-quirk-less-fertilizer)
-            
-            By [Javier Barbuzano](https://www.sciencenews.org/author/javier-barbuzano "Posts by Javier Barbuzano")November 6, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
