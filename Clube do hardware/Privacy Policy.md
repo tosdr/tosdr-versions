@@ -134,104 +134,104 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![MagiiC](https://www.clubedohardware.com.br/uploads/members/monthly_2018_12/imported-photo-918436.thumb.jpeg.16b5a662bb2dcc62ea22b55acb6bb524.jpeg)](https://www.clubedohardware.com.br/profile/918436-magiic/ "Ir ao perfil de MagiiC")
+    * [![Antônio Justino](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/5765e13dfa5ae63b6a3deec6911f9954e5b5353d.thumb.png.fe55545b974c9f0031ad208e9b804884.png)](https://www.clubedohardware.com.br/profile/1058877-ant%C3%B4nio-justino/ "Ir ao perfil de Antônio Justino")
         
         0
         
-        [Orçamento ate R$23000,00, irei montar um PC digam o que acham e sugestões.](https://www.clubedohardware.com.br/forums/topic/1702309-or%C3%A7amento-ate-r2300000-irei-montar-um-pc-digam-o-que-acham-e-sugest%C3%B5es/?do=getNewComment "Orçamento ate R$23000,00, irei montar um PC digam o que acham e sugestões.")
+        [Meu notebook não consegue controlar a velocidade do fan](https://www.clubedohardware.com.br/forums/topic/1702340-meu-notebook-n%C3%A3o-consegue-controlar-a-velocidade-do-fan/?do=getNewComment "Meu notebook não consegue controlar a velocidade do fan")
         
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [MagiiC](https://www.clubedohardware.com.br/profile/918436-magiic/ "Ir ao perfil de MagiiC")  
-        15 minutos atrás
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Antônio Justino](https://www.clubedohardware.com.br/profile/1058877-ant%C3%B4nio-justino/ "Ir ao perfil de Antônio Justino")  
+        28 minutos atrás
         
-    * [![Nexo00](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254612.thumb.png.9ae7654021e3a509de1c10d772634907.png)](https://www.clubedohardware.com.br/profile/1254612-nexo00/ "Ir ao perfil de Nexo00")
+    * [![Calaveira](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/IMG_1835.thumb.jpeg.6048b8556bd724ffd1464edf1c4ca21f.jpeg)](https://www.clubedohardware.com.br/profile/665538-calaveira/ "Ir ao perfil de Calaveira")
         
         1
         
-        [Como funciona o DOCP?](https://www.clubedohardware.com.br/forums/topic/1702308-como-funciona-o-docp/?do=getNewComment "Como funciona o DOCP?")
+        [Routeador Huawei Mesh 3 em rede mesh com lentidão.](https://www.clubedohardware.com.br/forums/topic/1702339-routeador-huawei-mesh-3-em-rede-mesh-com-lentid%C3%A3o/?do=getNewComment "Routeador Huawei Mesh 3 em rede mesh com lentidão.")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Nexo00](https://www.clubedohardware.com.br/profile/1254612-nexo00/ "Ir ao perfil de Nexo00")  
-        25 minutos atrás
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [Calaveira](https://www.clubedohardware.com.br/profile/665538-calaveira/ "Ir ao perfil de Calaveira")  
+        1 hora atrás
         
-    * [![nosferatuvini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256016.thumb.png.d9ab3d1773ed811439df948961a72aa5.png)](https://www.clubedohardware.com.br/profile/1256016-nosferatuvini/ "Ir ao perfil de nosferatuvini")
-        
-        0
-        
-        [Acer nitro 5, monitor LG Ultragear: 180hz](https://www.clubedohardware.com.br/forums/topic/1702307-acer-nitro-5-monitor-lg-ultragear-180hz/?do=getNewComment "Acer nitro 5, monitor LG Ultragear: 180hz")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [nosferatuvini](https://www.clubedohardware.com.br/profile/1256016-nosferatuvini/ "Ir ao perfil de nosferatuvini")  
-        25 minutos atrás
-        
-    * [![Proxy.Sys](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255512.thumb.jpeg.1e22e83293814815e7d7585387125cc0.jpeg)](https://www.clubedohardware.com.br/profile/1255512-proxysys/ "Ir ao perfil de Proxy.Sys")
-        
-        0
-        
-        [Por que é recomendado ter mais memória RAM para instalar uma placa de vídeo?](https://www.clubedohardware.com.br/forums/topic/1702306-por-que-%C3%A9-recomendado-ter-mais-mem%C3%B3ria-ram-para-instalar-uma-placa-de-v%C3%ADdeo/?do=getNewComment "Por que é recomendado ter mais memória RAM para instalar uma placa de vídeo?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Proxy.Sys](https://www.clubedohardware.com.br/profile/1255512-proxysys/ "Ir ao perfil de Proxy.Sys")  
-        27 minutos atrás
-        
-    * [![Matheus Andrei Jankovski](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-881766.thumb.jpeg.fdffc7a0bcc9cd35c9607f5d57747f01.jpeg)](https://www.clubedohardware.com.br/profile/881766-matheus-andrei-jankovski/ "Ir ao perfil de Matheus Andrei Jankovski")
-        
-        0
-        
-        [Windows Server 2022 - erro atualizações autonomas.](https://www.clubedohardware.com.br/forums/topic/1702305-windows-server-2022-erro-atualiza%C3%A7%C3%B5es-autonomas/?do=getNewComment "Windows Server 2022 - erro atualizações autonomas.")
-        
-        [Windows Server](https://www.clubedohardware.com.br/forums/forum/51-windows-server/ "Windows Server")  
-        Por [Matheus Andrei Jankovski](https://www.clubedohardware.com.br/profile/881766-matheus-andrei-jankovski/ "Ir ao perfil de Matheus Andrei Jankovski")  
-        27 minutos atrás
-        
-    * [![KairanD](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/Kairan_Dashpaw_Beach_Portrait_v2_Redim.thumb.png.9f55abf6242151b19086708b51fd2d8a.png)](https://www.clubedohardware.com.br/profile/660886-kairand/ "Ir ao perfil de KairanD")
-        
-        3
-        
-        [Proteção do aplicativo McAfee em smartphones Samsung: faz sentido?](https://www.clubedohardware.com.br/forums/topic/1702304-prote%C3%A7%C3%A3o-do-aplicativo-mcafee-em-smartphones-samsung-faz-sentido/?do=getNewComment "Proteção do aplicativo McAfee em smartphones Samsung: faz sentido?")
-        
-        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
-        Por [KairanD](https://www.clubedohardware.com.br/profile/660886-kairand/ "Ir ao perfil de KairanD")  
-        41 minutos atrás
-        
-    * [![Zion Oliveira](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c362c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EZO%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1028972-zion-oliveira/ "Ir ao perfil de Zion Oliveira")
+    * [![ratodeskate144p](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/126501781_ndice.thumb.jpg.ee5f7461dbd4a400dda05518b954c4db.jpg)](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")
         
         2
         
-        [Windows Explorer travando "parcialmente"](https://www.clubedohardware.com.br/forums/topic/1702303-windows-explorer-travando-parcialmente/?do=getNewComment "Windows Explorer travando "parcialmente"")
+        [Como conectar 4 fans akasa piranha a placa-mãe SOYO A520M](https://www.clubedohardware.com.br/forums/topic/1702338-como-conectar-4-fans-akasa-piranha-a-placa-m%C3%A3e-soyo-a520m/?do=getNewComment "Como conectar 4 fans akasa piranha a placa-mãe SOYO A520M")
         
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [Zion Oliveira](https://www.clubedohardware.com.br/profile/1028972-zion-oliveira/ "Ir ao perfil de Zion Oliveira")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [ratodeskate144p](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")  
         1 hora atrás
         
-    * [![JuniorGonçalves10](https://www.clubedohardware.com.br/uploads/members/monthly_2023_06/f1c90901d645b7d1b74c7d43b3dbd66e.thumb.jpg.bb725dcf056431a09ef671a52780c8ac.jpg)](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")
+    * [![Caio Nunes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1247118.thumb.jpeg.3f74d3c1f665c0801a9954d3633d4125.jpeg)](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")
         
-        4
+        7
         
-        [É possível alterar um arquivo no notebook e essa alteração acontecer computador?](https://www.clubedohardware.com.br/forums/topic/1702302-%C3%A9-poss%C3%ADvel-alterar-um-arquivo-no-notebook-e-essa-altera%C3%A7%C3%A3o-acontecer-computador/?do=getNewComment "É possível alterar um arquivo no notebook e essa alteração acontecer computador?")
+        [Devo atualizar BIOS da B550M PRO VDH WIFI para o Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1702336-devo-atualizar-bios-da-b550m-pro-vdh-wifi-para-o-ryzen-7-5700x3d/?do=getNewComment "Devo atualizar BIOS da B550M PRO VDH WIFI para o Ryzen 7 5700X3D?")
         
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [JuniorGonçalves10](https://www.clubedohardware.com.br/profile/936863-juniorgon%C3%A7alves10/ "Ir ao perfil de JuniorGonçalves10")  
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Caio Nunes](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")  
         1 hora atrás
         
-    * [![João Victor ghard](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255982.thumb.png.b6b5300ad5389808496e9f8df5f89eae.png)](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")
+    * [![Mengineer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/inter.thumb.jpg.14ab9347fec0eee301c8699d353a18ad.jpg)](https://www.clubedohardware.com.br/profile/1254776-mengineer/ "Ir ao perfil de Mengineer")
         
         0
         
-        [placa-mãe para trocar a minha a530m para exigir q máximo dos meu componentes](https://www.clubedohardware.com.br/forums/topic/1702301-placa-m%C3%A3e-para-trocar-a-minha-a530m-para-exigir-q-m%C3%A1ximo-dos-meu-componentes/?do=getNewComment "placa-mãe para trocar a minha a530m para exigir q máximo dos meu componentes")
+        [Barulho irritante CPU cooler, coolers diferentes mesma placa-mãe](https://www.clubedohardware.com.br/forums/topic/1702332-barulho-irritante-cpu-cooler-coolers-diferentes-mesma-placa-m%C3%A3e/?do=getNewComment "Barulho irritante CPU cooler, coolers diferentes mesma placa-mãe")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [João Victor ghard](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")  
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Mengineer](https://www.clubedohardware.com.br/profile/1254776-mengineer/ "Ir ao perfil de Mengineer")  
         1 hora atrás
         
-    * [![João Victor ghard](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1255982.thumb.png.b6b5300ad5389808496e9f8df5f89eae.png)](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")
+    * [![pedro-correa](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362b8c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256035-pedro-correa/ "Ir ao perfil de pedro-correa")
         
-        9
+        1
         
-        [Qual placa comprar para trocar uma a520m](https://www.clubedohardware.com.br/forums/topic/1702300-qual-placa-comprar-para-trocar-uma-a520m/?do=getNewComment "Qual placa comprar para trocar uma a520m")
+        [Conexão de internet via cabo interfere no sinal e potência de wifi?](https://www.clubedohardware.com.br/forums/topic/1702331-conex%C3%A3o-de-internet-via-cabo-interfere-no-sinal-e-pot%C3%AAncia-de-wifi/?do=getNewComment "Conexão de internet via cabo interfere no sinal e potência de wifi?")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [João Victor ghard](https://www.clubedohardware.com.br/profile/1255982-jo%C3%A3o-victor-ghard/ "Ir ao perfil de João Victor ghard")  
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [pedro-correa](https://www.clubedohardware.com.br/profile/1256035-pedro-correa/ "Ir ao perfil de pedro-correa")  
+        1 hora atrás
+        
+    * [![FoX_66](https://www.clubedohardware.com.br/uploads/members/monthly_2017_03/12003000_532219560279394_7340728705367851295_n.thumb.jpg.ee800b307802724824437d267bbd51d0.jpg)](https://www.clubedohardware.com.br/profile/877519-fox_66/ "Ir ao perfil de FoX_66")
+        
+        0
+        
+        [Segunda tela não é detectada](https://www.clubedohardware.com.br/forums/topic/1702330-segunda-tela-n%C3%A3o-%C3%A9-detectada/?do=getNewComment "Segunda tela não é detectada")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [FoX\_66](https://www.clubedohardware.com.br/profile/877519-fox_66/ "Ir ao perfil de FoX_66")  
+        1 hora atrás
+        
+    * [![O Pequeno Príncipe](https://www.clubedohardware.com.br/uploads/members/monthly_2017_08/599f67fc85394_opequenoprincipe2.thumb.jpeg.1a051b9476fdb9467c1a5c369f546921.jpeg)](https://www.clubedohardware.com.br/profile/800645-o-pequeno-pr%C3%ADncipe/ "Ir ao perfil de O Pequeno Príncipe")
+        
+        0
+        
+        [Quê Ácido pode retirar Estanho da Malha Dessoldadora ?](https://www.clubedohardware.com.br/forums/topic/1702329-qu%C3%AA-%C3%A1cido-pode-retirar-estanho-da-malha-dessoldadora/?do=getNewComment "Quê Ácido pode retirar Estanho da Malha Dessoldadora ?")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [O Pequeno Príncipe](https://www.clubedohardware.com.br/profile/800645-o-pequeno-pr%C3%ADncipe/ "Ir ao perfil de O Pequeno Príncipe")  
+        1 hora atrás
+        
+    * [![Brunno22](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256034.thumb.jpeg.cb799fab942cdd13e85e3cc24f35d536.jpeg)](https://www.clubedohardware.com.br/profile/1256034-brunno22/ "Ir ao perfil de Brunno22")
+        
+        1
+        
+        [Arrebentei o cabo que liga o Fan à placa-mãe do Lenovo IdeaPad Gaming 3i](https://www.clubedohardware.com.br/forums/topic/1702327-arrebentei-o-cabo-que-liga-o-fan-%C3%A0-placa-m%C3%A3e-do-lenovo-ideapad-gaming-3i/?do=getNewComment "Arrebentei o cabo que liga o Fan à placa-mãe do Lenovo IdeaPad Gaming 3i")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Brunno22](https://www.clubedohardware.com.br/profile/1256034-brunno22/ "Ir ao perfil de Brunno22")  
+        1 hora atrás
+        
+    * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
+        
+        6
+        
+        [Ebay vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702325-ebay-vale-a-pena/?do=getNewComment "Ebay vale a pena?")
+        
+        [Recomendações de lojas e serviços](https://www.clubedohardware.com.br/forums/forum/12-recomenda%C3%A7%C3%B5es-de-lojas-e-servi%C3%A7os/ "Recomendações de lojas e serviços")  
+        Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
         1 hora atrás
         
     
