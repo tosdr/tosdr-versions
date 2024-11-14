@@ -255,6 +255,9 @@
     * [**API Status**
         
         Check real-time monitoring of APIs and all services](https://status.twilio.com/)
+    * [**Beta Products and Features**
+        
+        Explore new launches and request access to early releases](https://segment.com/en-us/products/beta)
     
 * Why Twilio
     
@@ -617,6 +620,9 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
     * [**API Status**
         
         Check real-time monitoring of APIs and all services](https://status.twilio.com/)
+    * [**Beta Products and Features**
+        
+        Explore new launches and request access to early releases](https://segment.com/en-us/products/beta)
     
 * Why Twilio
     
