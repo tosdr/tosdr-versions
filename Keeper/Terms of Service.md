@@ -1121,8 +1121,9 @@ Resources
 * [User Guides](https://docs.keeper.io/user-guides/ "User Guides")
 * [Passkeys Directory](https://www.keepersecurity.com/passkeys-directory/ "Passkeys Directory")
 * [Blog](https://www.keepersecurity.com/blog/ "Blog")
-* [Sitemap](https://www.keepersecurity.com/sitemap/ "Sitemap")
 * [Keeper Webinars](https://www.keepersecurity.com/webinars.html "Keeper Webinars")
+* [Flex Your Cyber Education Initiative](https://www.flexyourcyber.com/ "Flex Your Cyber Education Initiative")
+* [Sitemap](https://www.keepersecurity.com/sitemap/ "Sitemap")
 
 Partners
 
