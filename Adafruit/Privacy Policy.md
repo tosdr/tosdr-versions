@@ -75,21 +75,21 @@ Search
     
     New Products[view all](https://www.adafruit.com/new)
     
+    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 100 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6026-06.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 100 LEDs - 4" Pitch
+    
+    $17.50](https://www.adafruit.com/product/6026)
+    
     ![Pebble strand LED strips lit up yellow-pink and blue.](https://cdn-shop.adafruit.com/230x173/6023-04.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 300 LEDs - 2" Pitch
     
     $39.95](https://www.adafruit.com/product/6023)
     
-    ![Angled shot of white, square-shaped USB hub.](https://cdn-shop.adafruit.com/230x173/6012-03.jpg)[Raspberry Pi USB 3 Hub - 5 Gbit/s USB 3.2 Gen1
+    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 150 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6025-03.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 150 LEDs - 4" Pitch
     
-    $12.00](https://www.adafruit.com/product/6012)
+    $24.95](https://www.adafruit.com/product/6025)
     
-    ![Overhead shot of a Black hand with red manicure drawing a rectangle on a touchscreen landscape-style.](https://cdn-shop.adafruit.com/230x173/6079-06.jpg)[Raspberry Pi Touch Display 2 - 7" 720x1280 with Capacitive Touch
+    ![Demo Shot of the LED RGB Pebble Pixel, Addressable string light/DC5V, 200 LED/pcs.](https://cdn-shop.adafruit.com/230x173/6024-03.jpg)[Adafruit NeoPixel Pebble / Seed LED Strand - 200 LEDs - 2" Pitch
     
-    $60.00](https://www.adafruit.com/product/6079)
-    
-    ![Angled shot of black, rectangular, pressure sensor breakout.](https://cdn-shop.adafruit.com/230x173/6067-00.jpg)[Adafruit LPS28 (LPS28DFW) Pressure Sensor - STEMMA QT / Qwiic
-    
-    $12.50](https://www.adafruit.com/product/6067)
+    $29.95](https://www.adafruit.com/product/6024)
     
     Featured Products[view all](https://www.adafruit.com/featured)
     
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Fight for the things that you care about, but do it in a way that will lead others to join you”
+“ Simplicity is the ultimate sophistication”
 
-[Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg)
+[Leonardo da Vinci](http://en.wikipedia.org/wiki/Leonardo_da_Vinci)
 
 [](https://www.adafruit.com/about)
 
