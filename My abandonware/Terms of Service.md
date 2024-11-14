@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Mappy](https://www.myabandonware.com/game/mappy-7uq)
+* [HenchMan](https://www.myabandonware.com/game/henchman-t0m)
+* [Sky Kid](https://www.myabandonware.com/game/sky-kid-9hd)
 * [Endgame](https://www.myabandonware.com/game/endgame-tpx)
 * [Edge of the Abyss](https://www.myabandonware.com/game/edge-of-the-abyss-tpw)
-* [Double Agent](https://www.myabandonware.com/game/double-agent-tpt)
-* [Dimono](https://www.myabandonware.com/game/dimono-tps)
-* [Dia Bolo](https://www.myabandonware.com/game/dia-bolo-tpr)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
