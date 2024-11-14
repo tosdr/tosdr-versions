@@ -86,7 +86,7 @@ close mobile menu
     ---------------
     
     * [Multiple Award Schedule](https://www.gsa.gov/buy-through-us/purchasing-programs/multiple-award-schedule?topnav=buy-through-us "Governmentwide contracts for products and services at volume discount pricing.") Governmentwide contracts for products and services at volume discount pricing.
-    * [Auctions](http://www.gsaauctions.gov/?source=gsa.gov-buy-through-us "Federal assets available via auction to the general public.") Federal assets available via auction to the general public.
+    * [Auctions](https://www.gsaauctions.gov/?source=gsa.gov-buy-through-us "Federal assets available via auction to the general public.") Federal assets available via auction to the general public.
     
 * Sell to government
     
@@ -206,7 +206,7 @@ close mobile menu
     Featured Topics - Real Estate
     -----------------------------
     
-    * [Historic preservation tools and resources](https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools?topnav=real-estate-feature "Procedures for maintaining and repairing historic buildings.") Procedures for maintaining and repairing historic buildings.
+    * [Historic preservation tools and resources](https://www.gsa.gov/real-estate/historic-preservation/historic-preservation-policy-tools?topnav=real-estate "Procedures for maintaining and repairing historic buildings.") Procedures for maintaining and repairing historic buildings.
     * [Real property disposal](https://www.gsa.gov/real-estate/real-estate-services/real-property-disposition?topnav=real-estate "Dispose or acquire excess federal real property including buildings or land.") Dispose or acquire excess federal real property including buildings or land.
     
 * Policy and regulations
@@ -270,7 +270,7 @@ close mobile menu
     
     * [Forecast tool](https://www.gsa.gov/small-business/forecast-of-contracting-opportunities?topnav=small-business "Information on planned federal contracting opportunities.") Information on planned federal contracting opportunities.
     * [Socio economic categories](https://www.sba.gov/federal-contracting/contracting-guide/types-contracts#section-header-6?source=gsa.gov-small-business "Check your eligibility for small-business set-asides.") Check your eligibility for small-business set-asides.
-    * [Training and videos](https://www.gsa.gov/small-business/small-business-resources/training-resources?topnav=small-business "Suggested training for doing business with us.") Suggested training for doing business with us.
+    * [Training resources](https://www.gsa.gov/small-business/small-business-resources/training-resources?topnav=small-business "Suggested training for doing business with us.") Suggested training for doing business with us.
     
 * Travel
     
@@ -337,6 +337,7 @@ close mobile menu
         Toggle submenu](https://www.gsa.gov/technology/government-it-initiatives?topnav=technology)
         
         * [18F](https://18f.gsa.gov/?topnav=technology)
+        * [Artificial Intelligence](https://www.gsa.gov/technology/government-it-initiatives/artificial-intelligence?topnav=technology)
         * [Cybersecurity](https://www.gsa.gov/technology/government-it-initiatives/cybersecurity?topnav=technology)
         * [Digital strategy](https://www.gsa.gov/technology/government-it-initiatives/digital-strategy?topnav=technology)
         * [Emerging citizen technology](https://www.gsa.gov/technology/government-it-initiatives/emerging-technologies?topnav=technology)
@@ -351,8 +352,8 @@ close mobile menu
     Featured Topics
     ---------------
     
-    * [Challenge.gov](http://challenge.gov/?source=gsa.gov-technology "Government sponsored challenges and prize competitions.") Government sponsored challenges and prize competitions.
-    * [Data.gov](http://data.gov/?source=gsa.gov-technology "Access U.S. government data.") Access U.S. government data.
+    * [Challenge.gov](https://www.challenge.gov/?source=gsa.gov-technology "Government sponsored challenges and prize competitions.") Government sponsored challenges and prize competitions.
+    * [Data.gov](https://data.gov/?source=gsa.gov-technology "Access U.S. government data.") Access U.S. government data.
     * [Multiple award schedule IT category](https://www.gsa.gov/technology/it-contract-vehicles-and-purchasing-programs/multiple-award-schedule-it?topnav=technology "Information technology products, services and solutions.") Information technology products, services and solutions.
     
 * About us
@@ -754,6 +755,8 @@ Technology expand menu
 [Government initiatives](https://www.gsa.gov/technology/government-it-initiatives?topnav=technology) expand menu
 
 [18F](https://18f.gsa.gov/?topnav=technology)
+
+[Artificial Intelligence](https://www.gsa.gov/technology/government-it-initiatives/artificial-intelligence?topnav=technology)
 
 [Cybersecurity](https://www.gsa.gov/technology/government-it-initiatives/cybersecurity?topnav=technology)
 
