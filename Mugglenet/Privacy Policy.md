@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (12) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Wed, Nov 13
-
-Weighing of the Wands Ceremony
-
-Recurs yearly
-
-1994
-
 #### Thu, Nov 14
 
 MuggleNet Fan Fiction's anniversary
@@ -332,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The curse of the Defense Against the Dark Arts position was inspired by the Spinal Tap drummers dying in bizarre circumstances.
+The Sorting Hat took 5 and a half minutes to figure out whether to put Minerva McGonagall in Gryffindor or Ravenclaw.
 
 ### Potter History
 
-November 17, 2004 – Harry Potter screenwriter Steve Kloves temporarily steps down for Harry Potter and the Order of the Phoenix; is replaced by Michael Goldenberg.
+September 7, 2012 – The Harry Potter Wizard’s Collection, the most comprehensive Blu-ray and DVD set yet, is released.
 
 ### Potter Quote
 
-“It was necessary. He’s extremely powerful. We’ve had to change his guard three times – he’s very… persuasive. So we removed his tongue.”
+“Grindelwald doesn’t seem to understand the nature of things he considers simple.”
 
 [](#)
 
