@@ -10,7 +10,7 @@ Open and close search bar
 
 Open and close main navigation menu
 
-Don't forget, stop in for Touchdown Tuesday after every home football game!
+Don't forget, book rentals are due by December 24, 2024!
 
 ×
 
@@ -158,7 +158,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Thursday 8:00AM - 5:00PM CLOSED
+Thursday 8:00AM - 5:00PM OPEN
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
