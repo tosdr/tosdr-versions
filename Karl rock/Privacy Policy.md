@@ -418,9 +418,9 @@ Top
     
     [Nankana Sahib Travel Super Guide](https://blog.karlrock.com/nankana-sahib-travel-super-guide/ "Nankana Sahib Travel Super Guide")
     
-* [![How I Learnt Urdu Script (and How You Can Too!)](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/06/karl-rock-day-1-studying-Urdu-at-earth-diverse.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+* [![How To Get Off India’s Blacklist](https://i0.wp.com/blog.karlrock.com/wp-content/uploads/2021/07/Why-I-Havent-Seen-My-Wife-in-269-Days-Blacklist.jpg?resize=40%2C40&ssl=1)](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
-    [How I Learnt Urdu Script (and How You Can Too!)](https://blog.karlrock.com/how-i-learnt-urdu-and-how-you-can-too/ "How I Learnt Urdu Script (and How You Can Too!)")
+    [How To Get Off India’s Blacklist](https://blog.karlrock.com/how-to-get-off-indias-blacklist/ "How To Get Off India’s Blacklist")
     
 
 © 2024 [Karl Rock's Blog](https://blog.karlrock.com/)
