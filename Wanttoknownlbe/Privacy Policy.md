@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/nieuwe-vaccinvrij-site-online/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/aanwijzingen-relatie-tussen-overlijden-en-mrna-middelen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
