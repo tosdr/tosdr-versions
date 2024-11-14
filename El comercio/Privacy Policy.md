@@ -31,27 +31,377 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Los factores de éxito de un país
-================================
+En Garabot aprenderás cómo tu marca puede generar emociones
+===========================================================
 
-El éxito de un país depende de instituciones políticas sólidas y económicas inclusivas, más allá de factores geográficos o culturales.
---------------------------------------------------------------------------------------------------------------------------------------
+Gabriel Freire, gerente de Comunicaciones Integradas de Marketing de Movistar Ecuador, explica cómo lograr que las marcas se conecten con la gente.
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
-![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+![Gabriel Freire es Gerente de Comunicaciones Integradas de Marketing de Movistar Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/1200X800-GARABOT-9.jpg)
 
-**El tema es potente y merecería una investigación de posgrado, y un tratado interdisciplinar.** Pero la ocasión es propicia para reflexionar en voz alta cuando el mundo, la región y nuestro país atraviesan por **profundas crisis internas y externas de diversa etiología.**
+Las **marcas** deben crear lazos sólidos con sus consumidores. En un mundo saturado de opciones, la **verdadera diferencia radica** en cómo logran **conectar emocionalmente** con su audiencia.
 
-**No se trata de elaborar un listado de buenas intenciones o recetas comunes a los textos de autoayuda.** Porque los factores de éxito de un país dependen, necesariamente, de **enfoques científicos, ideológicos y políticos, desde las raíces de los Estados y variables complejas articuladas a la política, la economía, la educación, la cultura y el ambiente. ¡Y porque la historia enseña!**
+Las relaciones humanas, basadas en empatía y vínculos profundos, son la inspiración detrás de las conexiones emocionales que las marcas deben forjar.
 
-El pretexto es el libro **“Por qué fracasan los países: los orígenes del poder, la prosperidad y la pobreza”, de Daron Acemoglu y James A. Robinson**, quienes obtuvieron el Premio Nobel de Economía 2024.
+**Gabriel Freire, gerente de Comunicaciones Integradas de Marketing de Movistar Ecuador,** cuenta qué estrategias utilizan las marcas para crear una conexión emocional con sus consumidores.
 
-Los autores aludidos -sin insultos ni agravios- reconocen desde 2012 que **es “necesario una ‘destrucción creativa’ (de lo mal hecho) para construir un Estado de derecho ordenado al desarrollo económico”.** Las experiencias sistematizadas en varios países son ejemplos reveladores de **por qué ciertos países “escogieron” ser pobres.**
+Escucha **todos sus consejos** en este capítulo de la segunda temporada del **podcast Garabot.**
 
-Sus conclusiones son patéticas: **“el destino económico de un país -dicen- no está determinado por la situación geográfica o el legado cultural, ni por las enfermedades o la fe en los antepasados, sino por las instituciones políticas, con voluntad integradora, que apoyan a instituciones económicas de carácter inclusivo para construir una prosperidad sostenida”.**
+### Más noticias
 
-Los factores de éxito mencionados actualizan a **Adam Smith y Douglass North**, y reafirman de manera consistente que **los países mejoran cuando ponen en marcha instituciones políticas sólidas ordenadas al crecimiento económico que compartan el poder.**
+* [Garabot te enseña a negociar en la era digital](https://www.elcomercio.com/podcasts/garabot-te-ensena-a-negociar-en-la-era-digital.html "Garabot te enseña a negociar en la era digital")
+* [En Garabot te enseñamos estrategias para optimizar la empresa con IA](https://www.elcomercio.com/podcasts/garabot-ensenamos-estrategias-optimizar-empresa-ia.html "En Garabot te enseñamos estrategias para optimizar la empresa con IA")
+* [¿Cómo potenciar tu marca personal digital? En Garabot te contamos](https://www.elcomercio.com/podcasts/como-potenciar-marca-personal-digital-garabot-contamos.html "¿Cómo potenciar tu marca personal digital? En Garabot te contamos")
 
-El caso del Ecuador debería revisarse según esta mirada: **la evolución de las instituciones políticas y económicas, y no desde los resentimientos, las injurias y las acusaciones ideológicas, a veces sin sustento, al culpar a los imperios de nuestras calamidades, pobrezas y fracasos.**
+Las emociones son importantes
+-----------------------------
+
+Recuerda que las marcas están formadas por personas. Cada **empleado, cada historia**, cada interacción contribuye a construir una identidad que los consumidores perciben como cercana y auténtica.
+
+La **empatía y la comunicación** transparente son clave para humanizar tu marca y fomentar una conexión genuina.
+
+**Más allá de la publicidad**, las experiencias que las marcas ofrecen deben dejar una **huella emocional.**
+
+Los consumidores quieren sentir algo especial al interactuar con un producto o servicio.
+
+El diseño, la usabilidad y el servicio al cliente deben estar pensados para ofrecer una experiencia única.
+
+Utiliza la nostalgia con cuidado 
+---------------------------------
+
+Las marcas más exitosas han logrado evocar sentimientos de nostalgia. Si bien esto puede ser poderoso, es importante usarlo de manera estratégica para que no pierda su efectividad con el tiempo.
+
+Escucha a tu audiencia
+----------------------
+
+Las redes sociales son un canal vital para escuchar a los consumidores.
+
+Las **marcas que responden, interactúan y muestran interés** por las opiniones de su público, logran construir una relación más fuerte.
+
+**No se trata solo de hablar, sino de escuchar y adaptarse.**
+
+Utiliza la tecnología de manera ética
+-------------------------------------
+
+La **inteligencia artificial y el análisis de datos** permiten a las marcas conocer mejor las necesidades de sus consumidores.
+
+Sin embargo, es vital que las marcas utilicen esta información de manera ética y respetuosa, priorizando la privacidad y la transparencia.
+
+Ofrece un producto que resuelva problemas reales
+------------------------------------------------
+
+Los consumidores se sienten emocionalmente conectados con las marcas que entienden sus problemas y ofrecen soluciones auténticas. Ya sea un servicio que simplifique su vida o un producto que les haga sentir bien, asegúrate de que tu oferta tenga un propósito claro.
+
+Sé consistente en tu mensaje  
+------------------------------
+
+La consistencia es fundamental. Ya sea a través de campañas publicitarias, redes sociales o puntos de contacto directos, tu marca debe mantener una voz coherente que resuene con su identidad. Un mensaje claro y constante genera confianza.
+
+Involucra a tu público en la creación de contenido
+--------------------------------------------------
+
+Permite que tus consumidores sean parte activa de tu narrativa.
+
+Ya sea a través de comentarios, fotos, historias o incluso diseños colaborativos, los usuarios se sienten más conectados con una marca cuando pueden verse reflejados en su creación.
+
+Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador
+==================================================================================
+
+Las nueve empresas distribuidoras de energía eléctrica presentaron los horarios para cada una de las unidades de negocio que manejan
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz-1.jpg)
+
+El **Ministerio de Energía y Minas** publicó la programación de **cortes de luz** para todo Ecuador del viernes 15 de noviembre al domingo 17 de noviembre de 2024.
+
+### Más noticias
+
+* [Cortes de luz en Quito este jueves 14 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-luz-quito-jueves-14-noviembre.html "Cortes de luz en Quito este jueves 14 de noviembre")
+* [Cortes de luz en Guayaquil para este jueves 14 de noviembre](https://www.elcomercio.com/actualidad/guayaquil/cortes-de-luz-en-guayaquil-para-este-jueves-14-de-noviembre.html "Cortes de luz en Guayaquil para este jueves 14 de noviembre")
+* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
+
+Se mantienen los cortes de 12 horas
+-----------------------------------
+
+Debido a las condicione**s hidrológicas y climáticas** en las zonas de las hidroeléctricas persisten, el Ministerio de Energía informó que se mantiene la suspensión del servicio eléctrico.
+
+Esta suspensión de electricidad **contempla hasta 12 horas** en los sectores residenciales e industriales.
+
+La Cartera de Estado informó **los cronogramas** que se aplicarán durante el viernes y el fin de semana próximos en Ecuador.
+
+Las nueve empresas **distribuidoras de energía eléctrica** presentaron los horarios para cada una de las unidades de negocio que manejan para que los afectados puedan planificar con tiempo sus labores.
+
+Con estos racionamientos, Ecuador **cumplirá nueve días con cortes de luz de 12 horas**, lo cual ha impactado todas las actividades.
+
+Estos horarios podrían mejorar **si las condiciones hidrológicas lo permitieran**; sin embargo, la reducción se aplicaría dentro del horario programado.
+
+No obstante, las quejas ciudadanas no se han hecho esperar **ante la falta del cumplimiento** de los horarios difundidos por [las autoridades](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad").
+
+> 📍¡IMPORTANTE!  
+>   
+> Debido a que las condiciones hidrológicas y climáticas en las zonas de las hidroeléctricas persisten, se mantiene la suspensión de electricidad de hasta 12 horas, para el viernes 15, sábado 16 y domingo 17 de noviembre.  
+>   
+> 🔸Programación en➡️ [https://t.co/hN2m1Jq8RT](https://t.co/hN2m1Jq8RT) [pic.twitter.com/PGpZnyvGuh](https://t.co/PGpZnyvGuh)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 14, 2024](https://twitter.com/RecNaturalesEC/status/1857029539001410013?ref_src=twsrc%5Etfw)
+
+Colombia evalúa venta de energía
+--------------------------------
+
+El **Ministerio de Minas y Energía de Colombi**a envió un proyecto de resolución que busca reanudar la venta de electricidad a Ecuador.
+
+La Cartera de Estado **publicó el borrador de la resolución**, que tiene fecha de 12 de noviembre de 2024. El objetivo es recibir comentarios del sector eléctrico antes de la firma, que podría ser esta misma semana, señaló el medio colombiano Blu Radio.
+
+La nueva normativa establece reglas para garantizar el suministro eléctrico en Colombia y cumplir con compromisos de exportación.
+
+La reactivación de exportaciones hacia Ecuador se realizará **únicamente si las condiciones permiten** cumplir con la demanda nacional. Además, el **Ministerio colombiano** se compromete a adoptar decisiones rápidas mediante circulares para adaptarse a posibles cambios climáticos que afecten la generación y exportación de electricidad.
+
+Según esta resolución, **Ecuador podrá comprar electricidad** primero a las plantas térmicas, que generen con diésel. Después a las plantas despachadas centralmente, y solo en última opción a las hidroeléctricas.
+
+La resolución se conoce una vez que los **embalses de Colombia** se encuentran al 61,41% de su capacidad.
+
+Colombia suspendió las **exportaciones de energía** a Ecuador el 30 de septiembre del 2024, debido a la sequía y cuando sus embalses se encontraban en un 49,74%.  
+
+Ecuador busca ampliar su invicto contra Bolivia en eliminatorias
+================================================================
+
+La Selección de Ecuador nunca ha perdido contra Bolivia en casa.
+----------------------------------------------------------------
+
+![Enner Valencia en el partido entre Ecuador y Bolivia por las eliminatorias sudamericanas rumbo al Mundial 2022.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-13T193524.915.jpg)
+
+La **Selección de Ecuador** recibirá a Bolivia este jueves 14 de noviembre en una nueva fecha de las eliminatorias sudamericanas. Será su **enfrentamiento número 18 e**n el proceso de clasificación al Mundial y el noveno en territorio ecuatoriano.
+
+El conjunto dirigido por **Sebastián Beccacece** no atraviesa su mejor momento en cuanto a resultados y goles; en cuatro partidos, solo ha conseguido una victoria y un gol. **Bolivia se perfila como un rival históricamente accesible** para que la ‘Tri’ busque mejorar sus números.
+
+### Más noticias:
+
+* [Cuatro bolivianos que dejaron huella en Ecuador](https://www.elcomercio.com/deportes/futbol/jugadores-bolivianos-ecuador-eliminatorias-mundial.html "Cuatro bolivianos que dejaron huella en Ecuador")
+* [(Video) Periodista boliviano sufrió un robo en el estadio Monumental](https://www.elcomercio.com/deportes/futbol/periodista-boliviano-sufrio-un-robo-en-el-estadio-monumental.html "(Video) Periodista boliviano sufrió un robo en el estadio Monumental")
+* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
+
+Ecuador nunca perdió con Bolivia de local
+-----------------------------------------
+
+Desde que existen eliminatorias para el Mundial de 1994, Ecuador ha enfrentado a Bolivia 17 veces, con un balance muy favorable: **12 victorias, tres empates y solo dos derrotas**. Además, ha anotado 34 goles y recibido 16.
+
+La **estadística es aún más contundente** cuando se consideran solo los partidos en Ecuador, donde la ‘Verde’ nunca ha ganado y solo ha conseguido un empate.
+
+En territorio ecuatoriano, sea en Quito o Guayaquil, la selección ha disputado ocho partidos, con siete victorias y un empate, anotando 16 goles y recibiendo solo cuatro.
+
+La única vez que **Bolivia sumó de visitante fue en el primer enfrentamiento por eliminatorias, en septiembre de 1993**. Ese partido terminó 1-1 en el Estadio Monumental, donde volverán a jugar en este 2024. William Ramallo anotó para la ‘Verde’ y Raúl Noriega para Ecuador.
+
+Siete victorias consecutivas para Ecuador
+-----------------------------------------
+
+Desde aquel empate en 1993, **Ecuador no ha vuelto a perder puntos ante Bolivia** como local, sumando siete victorias consecutivas en eliminatorias.
+
+La última victoria fue en octubre de 2021, en el proceso hacia el Mundial 2022, con Gustavo Alfaro como DT. El partido finalizó 3-0 en el Estadio Monumental, con goles de **Michael Estrada** y un doblete de Enner Valencia en los primeros 20 minutos.
+
+Ecuador vs. Bolivia
+-------------------
+
+Ecuador enfrentará a Bolivia este **jueves 14 de noviembre en Guayaquil**, en la undécima jornada de las eliminatorias. El partido comenzará a las 19:00.
+
+Ministerio de Gobierno rechaza aprobación de resolución a favor de Verónica Abad
+================================================================================
+
+Un comunicado cuestiona que la Asamblea no intervino en los intentos de la Vicepresidenta para destituir al presidente Daniel Noboa
+-----------------------------------------------------------------------------------------------------------------------------------
+
+![LA vicepresidenta Verónica Abad compareció ante la Asamblea de forma virtual desde Turquía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Asamblea.jpg)
+
+El Pleno de la **Asamblea** aprobó una resolución sobre la sanción a la vicepresidenta suspendida, **Verónica Abad,** la noche del miércoles 13 de noviembre de 2024. La Vicepresidenta de la República compareció virtualmente.
+
+La resolución **condena las acciones de la ministra de Trabajo,** Ivonne Núñez, por la sanción y suspensión de las funciones de la Vicepresidenta.
+
+### Más noticias
+
+* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
+* [Verónica Abad se presentará en la Asamblea Nacional](https://www.elcomercio.com/actualidad/politica/veronica-abad-pleno-asamblea-nacional-viviana-veloz.html "Verónica Abad se presentará en la Asamblea Nacional")
+* [Verónica Abad apelará la suspensión en instancias internacionales](https://www.elcomercio.com/actualidad/politica/vicepresidenta-veronica-abad-suspension-apelacion.html "Verónica Abad apelará la suspensión en instancias internacionales")
+
+Ministerio de Gobierno se pronuncia
+-----------------------------------
+
+El **Ministerio de Gobierno** publicó un pronunciamiento en el que expresa que los principios democráticos rigen para todos y los gobernantes deben someterse a ellos, respetarlos y hacerlos respetar.
+
+El documento hace una crítica **a las viejas formas de hacer política** y señala que el Gobierno del presidente Daniel Noboa ha tenido que afrontar intentos por derribar la institucionalidad de su mandato.
+
+Se refirió a que “la traición y el viejo Ecuador han mostrado ser dos caras de la moneda”. “Lo demostraron hace unos meses, cuando la **vicepresidenta en funciones, Verónica Abad,** pretendió la destitución del presidente Noboa…”, agrega.
+
+El **Ministerio de Gobierno**, mediante este comunicado, cuestiona si fueron legales las acciones de la Vicepresidenta, si fue constitucional o legal. Además, pregunta si la **Asamblea Nacional** cuestionó estos actos y responde que no porque “tal vez no era época de campaña”.
+
+“Prefirieron mirar a un costado **para no dimensionar la gravedad de pretender destituir al Presidente** constitucional de la República… Y ahora lo intentan comparar con una sanción administrativa de suspensión temporal por incumplir las responsabilidades que exigía su cargo”, agrega en referencia a la suspensión de la **vicepresidenta Abad.**
+
+El Ministerio de Gobierno además menciona que la **Vicepresidenta “fue involucrada** en casos de corrupción y cuya vinculación a un proceso penal fue solicitada [por la Fiscalía](https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad "https://es.wikipedia.org/wiki/Ver%C3%B3nica_Abad") y la Asamblea lo negó y generó impunidad”.
+
+La resolución aprobada
+----------------------
+
+El proyecto a consideración contó con siete artículos que señalaban:
+
+* Condenar las acciones de la ministra de Trabajo, Ivonne Núñez, que de manera inconstitucional e ilegal estableció un procedimiento especial para sancionar mediante sumario administrativo a servidores públicos excluidos de la carrera del servicio público, lo que permite que funcionarios de elección popular sean juzgados por faltas administrativas por el Ministerio de Trabajo, las cuales están expresamente excluidas de sus competencias, lo cual afecta de manera grave los principios democráticos de la República del Ecuador.
+* Rechazar el sumario administrativo de la Ministra del Trabajo, abogada Ivonne Elizabeth Núñez Figueroa, la cual, de forma inconstitucional e ilegal sanciona con la suspensión temporal sin goce de remuneración por 150 días a la señora María Verónica Abad Rojas, en su condición de Vicepresidenta de la República.
+* Disponer a la Presidencia de la Asamblea Nacional que, a través de la Coordinación de Asesoría Jurídica presente ante la Corte Constitucional la acción de interpretación a los artículos 146, 149, 150 y, 154, numeral 1, de la Constitución.
+* Desconocer la sanción establecida en contra de la señora María Verónica Abad Rojas, en su condición de Vicepresidenta de la República.
+* Convocar a la Ministra del Trabajo, Ivonne Núñez a comparecencia ante el Pleno.
+* Alertar a todas las autoridades e instituciones públicas de control para que, en el ámbito de sus competencias, revisen exhaustivamente el proceso administrativo llevado a cabo por el Ministerio del Trabajo.
+* Disponer a la Secretaría General de la Asamblea Nacional que notifique.
+
+El Pleno de la Asamblea aprobó la resolución con **86 votos afirmativos**, 0 blancos y 27 abstenciones.
+
+¿Cómo será la etapa 4 de la Vuelta al Ecuador 2024?
+===================================================
+
+La Vuelta a Ecuador de ciclismo 2024 celebrará su etapa 4 en un circuito cerrado de ocho vueltas en Riobamba.
+-------------------------------------------------------------------------------------------------------------
+
+![Ciclistas cruzan la meta en la etapa 3 de la Vuelta al Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-13-at-1.54.34-PM-1-scaled.jpeg)
+
+La **Vuelta al Ecuador** tendrá su punto medio con la etapa 4, que también contará con un sistema de recorrido distinto a los que le antecedieron y sucederán. Esta se llevará a cabo en Riobamba y será a circuito cerrado.
+
+Con tres etapas ya finalizadas, el nuevo evento se llevará a cabo este **jueves 14 de noviembre del 2024**. A partir de las 09:00, los ciclistas darán inicio a la última competencia antes de arrancar la recta final del evento que recorre la costa y la sierra del país[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
+
+### Más noticias:
+
+* [Alausí vibra con la victoria de Steven Haro en la etapa 3 de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/vuelta-ecuador-steven-haro-etapa3-alausi.html "Alausí vibra con la victoria de Steven Haro en la etapa 3 de la Vuelta al Ecuador")
+* [El coraje de Segundo Navarrete en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/segundo-navarrete-vuelta-ecuador-2024.html "El coraje de Segundo Navarrete en la Vuelta al Ecuador")
+* [¿Cómo será la etapa 3 de la Vuelta al Ecuador 2024?](https://www.elcomercio.com/deportes/etapa-3-vuelta-ecuador-2024-trayecto.html "¿Cómo será la etapa 3 de la Vuelta al Ecuador 2024?")
+
+La próxima fase contará con **129,6 kilómetros de ruta** y recorrerá la capital de Chimborazo en un trazado que será consecutivo para completar tal cantidad de trayecto. En total, el circuito de la cuarta etapa estará constituido por ocho pasos alrededor de este.
+
+A partir del recorrido fijado, las distintas vueltas tendrá puntos que alternarán con respecto a puestos para otras **clasificaciones**. Las metas volantes y los puertos de montaña tendrán varianza en función del devenir de la carrera.
+
+¿Qué puntos se establecerán en la etapa 4 de la Vuelta al Ecuador?
+------------------------------------------------------------------
+
+Dentro de las ocho vueltas que se llevarán a cabo en la cuarta etapa, estas iniciarán en el sector de la **Loma de Quito** y finalizarán en el mismo. En la primera vuelta no existirán ni metas volantes ni puertos de montaña, sin embargo, aquello cambiará a partir de la segunda.
+
+Las vueltas dos, cuatro y seis contarán con metas volantes en los puntos de bajada y están establecidas para los kilómetros **33,26; 66,52 y 99,78**. En el caso de los puertos de montaña, estos van en las vueltas tres, cinco y siete y en los kilómetros **40,8; 68 y 107,32.**
+
+La última vuelta será similar a la primera y no tendrá ni metas ni puertos.
+
+¿Cómo llega la Vuelta a Ecuador a la etapa 3?
+---------------------------------------------
+
+Para la etapa cuatro de la Vuelta a Ecuador, **Brayan Obando** del Team Movistar Best PC llega como líder de la tabla general. Este se encuentra igualado con Óscar Sevilla del Team Medellín en cuanto a tiempos, sin embargo, tuvo mejor ubicación en la última etapa y aquello lo coloca en la cima.
+
+Dentro de la clasificación de montaña, **Juan Córdova** es el mejor ubicado y entre los juveniles está **Joffre Imbaquingo**. A nivel de las metas volantes, quien encabeza la clasificación es David Villarreal.
+
+Día Mundial de la Diabetes, conciencia y prevención a nivel global 
+===================================================================
+
+La diabetes afecta a millones; se requiere conciencia, diagnóstico y tratamiento.
+---------------------------------------------------------------------------------
+
+![La diabetes puede ser silenciosa; se debe consultar al médico. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Diabetes.jpg)
+
+El 14 de noviembre se conmemora el **Día Mundial de la Diabetes**, una fecha que busca **crear conciencia sobre esta enfermedad** que afecta a millones de personas en todo el mundo. La diabetes es una **condición crónica** que requiere atención constante y adecuada. Este año, el lema “Rompiendo barreras, cerrando brechas” destaca la **necesidad de garantizar acceso equitativo a tratamientos y cuidados** para todos los pacientes con diabetes, a decir de la [Organización Panamericana de Salud](https://www.paho.org/es/campanas/dia-mundial-diabetes-2024 "https://www.paho.org/es/campanas/dia-mundial-diabetes-2024"). 
+
+### Más noticias
+
+* [‘Ozempic no debe ser usado para la pérdida de peso en personas sin diabetes’, advierte médico](https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html "https://www.elcomercio.com/tendencias/uso-ozempic-obesidad-diabetes.html")
+* [En Quito, las enfermedades no transmisibles siguen cobrando vidas. Las respiratorias persisten](https://www.elcomercio.com/actualidad/quito/en-quito-las-enfermedades-no-transmisibles-siguen-cobrando-vidas-las-respiratorias-persisten.html "https://www.elcomercio.com/actualidad/quito/en-quito-las-enfermedades-no-transmisibles-siguen-cobrando-vidas-las-respiratorias-persisten.html")
+
+**La importancia del Día Mundial de la Diabetes** 
+--------------------------------------------------
+
+El **Día Mundial de la Diabetes** fue establecido en 1991 por la **Federación Internacional de Diabetes** (FID) y la **Organización Mundial de la Salud** (OMS). Esta conmemoración se eligió **en honor al nacimiento de Frederick Banting**, quien **descubrió la insulina j**unto a Charles Best. Desde su creación, este día ha servido como plataforma para aumentar la conciencia sobre las causas, síntomas y complicaciones asociadas a la diabetes, de acuerdo con [Fundación para la Salud](https://www.fundacionparalasalud.org/diamundial/328/que-es-el-dia-mundial-de-la-diabetes "https://www.fundacionparalasalud.org/diamundial/328/que-es-el-dia-mundial-de-la-diabetes").  
+
+Las **estadísticas actuales** son alarmantes, de acuerdo a Karina Pazmiño, directora de la escuela de nutrición de la UIDE, lo que ha llevado a poner énfasis en un enfoque integral para tratar esta enfermedad. Actualmente, **537 millones de personas viven con diabetes**, de las cuales tres de cada cuatro residen en países con ingresos bajos y medios. Lo más preocupante es que **más del 50% de los afectados no han sido diagnosticados**. La diabetes puede impactar órganos como los riñones, los ojos, los nervios y diversas áreas de la vida cotidiana. 
+
+**Información importante sobre la diabetes** 
+---------------------------------------------
+
+La doctora Nasthia Quilismal, especialista en Endocrinología y Metabolismo de SIME Sistemas Médicos, ofrece información para aumentar la conciencia sobre la diabetes. 
+
+### **Tipos de diabetes**:
+
+Existen distintos tipos de diabetes, siendo la **tipo 2** la más prevalente, ya que representa el **90% de los casos**. Esta suele aparecer en la adultez y está **estrechamente relacionada con la obesidad y el sobrepeso**. 
+
+La **diabetes tipo 1** se origina por un **daño autoinmune en las células beta del páncreas**, lo que provoca una **falta total de insulina**, por lo que quienes la padecen necesitan **insulina desde el momento del diagnóstico**. 
+
+Otros tipos menos frecuentes incluyen
+
+* **Diabetes gestacional:** intolerancia a los carbohidratos detectada por primera vez durante el embarazo. 
+
+* **Diabetes MODY:** forma monogénica provocada por una mutación en un gen vinculado con la secreción o acción de insulina. 
+
+### **Factores de riesgo para la diabetes tipo 2**
+
+Los **factores de riesgo para la diabetes tipo 2** incluyen una dieta alta en carbohidratos, azúcares y grasas saturadas, sedentarismo, sobrepeso, edad mayor a 45 años y un perímetro de cintura superior a 80 cm en mujeres y 90 cm en hombres. También **influyen los antecedentes familiares**, diabetes gestacional, síndrome de ovario poliquístico, hipertensión, colesterol alto y signos de resistencia a la insulina. S**e recomienda hacerse una prueba de detección** si se presenta alguno de estos factores. 
+
+**Síntomas comunes que se deben reconocer**
+-------------------------------------------
+
+La diabetes puede ser silenciosa, por lo que **es importante estar atento a los factores de riesgo**. Si se presentan, se debe consultar con un médico para **evaluar los niveles de glucosa**. Los síntomas incluyen aumento del apetito, sed excesiva, frecuencia urinaria elevada, pérdida de peso inexplicable y oscurecimiento de la piel en áreas de pliegues. 
+
+El podcast de EL COMERCIO **Cuaderno de Salud**, con la **Dra. Alba González**, diabetóloga del Hospital VozAndes, comparte recomendaciones prácticas, hábitos de vida saludables y consejos para mejorar el bienestar de quienes viven con diabetes:
+
+**Desafíos globales** 
+----------------------
+
+A pesar del aumento en la conciencia sobre la diabetes, **persisten desafíos significativos**. La falta de acceso a **tratamientos adecuados** sigue siendo un problema crítico en muchas regiones del mundo. Según datos de la OMS, cerca del 40% de las personas con diabetes no son conscientes de su condición. 
+
+Esto **resalta la necesidad urgente de mejorar las estrategias de diagnóstico** y tratamiento. El **acceso a insulina y otros medicamentos esenciales** es vital para el **manejo efectivo de la diabetes**. Sin embargo, muchas personas aún enfrentan barreras económicas y logísticas para obtener estos tratamientos. 
+
+Así funciona el Pico y placa en Quito este jueves 13 de noviembre
+=================================================================
+
+Recuerda que en octubre deben matricular autos con placas terminadas en 9. Revisa los horarios del Pico y placa y evita multas
+------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se estableció para controlar el tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-18.jpg)
+
+El **pico y placa continúa vigente en Quito** para autos y motos; esta medida fue implementada para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+### Más noticias
+
+* [Quito aumentará a 1 390 agentes de tránsito en las calles](https://www.elcomercio.com/actualidad/quito/quito-aumenta-a-1-390-agentes-transito-calles.html "Quito aumentará a 1 390 agentes de tránsito en las calles")
+* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
+* [Metro de Quito habilita opciones de ingreso para acompañantes](https://www.elcomercio.com/actualidad/quito/metro-de-quito-habilita-opciones-de-ingreso-para-acompanantes.html "Metro de Quito habilita opciones de ingreso para acompañantes")
+
+El **Pico y placa no afecta a vehículos de personas de la tercera edad o** con discapacidad. Tampoco a vehículos oficiales o de servicios de salud.
+
+El **horario de aplicación** de Pico y placa es en la mañana de **06:00 a 09:30** y en la tarde de 16:00 a 20:00.
+
+El esquema de aplicación:
+-------------------------
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes:** los que finalizan en 3 y 4.
+* **Miércoles:** los de dígitos 5 y 6.
+* **Jueves:** los que tengan 7 y 8.
+* **Viernes:** las placas 9 y 0.
+
+Así, este jueves no pueden circular las **placas terminadas en 7 y 8.**
+
+Multas por infringir Pico y placa
+---------------------------------
+
+La multa por incumplir el **Pico y placa** es del 15% del Salario Básico Unificado, es decir 69 dólares la primera vez; la segunda vez será el 25%, es decir, 115 dólares.
+
+Si incumples por tercera vez, **la multa asciende** al 50% de un salario básico, es decir, 230 dólares.
+
+Además, los agentes de tránsito se pueden llevar tu auto retenido. La estancia de tu auto en los parqueaderos municipales genera **costos diarios**.
+
+Revisa antes de salir de casa la placa de tu auto y si eres distraído, coloca una alarma en tu celular los días de Pico y placa.
+
+Matriculación vehicular
+-----------------------
+
+Recuerda que debes tener licencia y **matrícula vigentes** para poder circular. El mes de noviembre los automotores con placa terminada en 0 deben cumplir con el proceso de matriculación. [Evita sanciones.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/PsjaUTUJC0](https://t.co/PsjaUTUJC0)
+> 
+> — AMTQuito (@AMT\_Quito) [October 17, 2024](https://twitter.com/AMT_Quito/status/1846853759294472282?ref_src=twsrc%5Etfw)
 
 ¡Ojo a la salud mental!
 =======================
@@ -121,6 +471,28 @@ España trabajará en posicionar globalmente a la Comunidad Iberoamericana, fort
 Como ministro de Asuntos Exteriores de España trabajaré para tender puentes y acercar a todos los miembros de nuestra comunidad en torno a nuestros valores compartidos y en beneficio de nuestros pueblos. Ningún futuro se puede construir desde la confrontación y la separación, sino desde la unión y la cooperación. En estos tiempos cobran más importancia que nunca los lazos y los valores del afecto, la confianza y las vidas compartidas que unen a nuestros pueblos y países. Los valores de paz y diálogo sobre los que hemos construido nuestra comunidad son la única guía estable para cualquier futuro y no podemos renunciar a nada de eso sin renunciar a lo que somos. Por todo ello, creo firmemente que esta Comunidad que compartimos es nuestra fortaleza y nuestra fortuna. Algo que, sin ninguna duda, vale la pena cuidar y reforzar y a eso dedicaremos todo nuestro compromiso y nuestro esfuerzo.
 
 _**José Manuel Albares Bueno**, **Ministro de Asuntos Exteriores, Unión Europea y Cooperación de España**_
+
+Los factores de éxito de un país
+================================
+
+El éxito de un país depende de instituciones políticas sólidas y económicas inclusivas, más allá de factores geográficos o culturales.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Fausto Segovia Baus, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Fausto-Segovia-Baus.jpg)
+
+**El tema es potente y merecería una investigación de posgrado, y un tratado interdisciplinar.** Pero la ocasión es propicia para reflexionar en voz alta cuando el mundo, la región y nuestro país atraviesan por **profundas crisis internas y externas de diversa etiología.**
+
+**No se trata de elaborar un listado de buenas intenciones o recetas comunes a los textos de autoayuda.** Porque los factores de éxito de un país dependen, necesariamente, de **enfoques científicos, ideológicos y políticos, desde las raíces de los Estados y variables complejas articuladas a la política, la economía, la educación, la cultura y el ambiente. ¡Y porque la historia enseña!**
+
+El pretexto es el libro **“Por qué fracasan los países: los orígenes del poder, la prosperidad y la pobreza”, de Daron Acemoglu y James A. Robinson**, quienes obtuvieron el Premio Nobel de Economía 2024.
+
+Los autores aludidos -sin insultos ni agravios- reconocen desde 2012 que **es “necesario una ‘destrucción creativa’ (de lo mal hecho) para construir un Estado de derecho ordenado al desarrollo económico”.** Las experiencias sistematizadas en varios países son ejemplos reveladores de **por qué ciertos países “escogieron” ser pobres.**
+
+Sus conclusiones son patéticas: **“el destino económico de un país -dicen- no está determinado por la situación geográfica o el legado cultural, ni por las enfermedades o la fe en los antepasados, sino por las instituciones políticas, con voluntad integradora, que apoyan a instituciones económicas de carácter inclusivo para construir una prosperidad sostenida”.**
+
+Los factores de éxito mencionados actualizan a **Adam Smith y Douglass North**, y reafirman de manera consistente que **los países mejoran cuando ponen en marcha instituciones políticas sólidas ordenadas al crecimiento económico que compartan el poder.**
+
+El caso del Ecuador debería revisarse según esta mirada: **la evolución de las instituciones políticas y económicas, y no desde los resentimientos, las injurias y las acusaciones ideológicas, a veces sin sustento, al culpar a los imperios de nuestras calamidades, pobrezas y fracasos.**
 
 Vuelve la tensión a la Penitenciaría del Litoral, tras masacre
 ==============================================================
@@ -623,396 +995,3 @@ Sin embargo, él salió, tras el pago de **20 000 dólares**.
 La audiencia se reinstaló a la misma hora que la Asamblea estaba convocada para tomar una **resolución** sobre Verónica Abad.
 
 En el Pleno de la Asamblea, de forma virtual, Abad dijo que se está **utilizando a su hijo** para perseguirle políticamente.
-
-Deportivo Quito entre los ocho sobrevivientes del ascenso
-=========================================================
-
-El Torneo de Ascenso Nacional es organizado por la Federación Ecuatoriana de Fútbol (1-1).
-------------------------------------------------------------------------------------------
-
-![Plantel del Deportivo Quito en el estadio Alejandro Ponce Noboa.](https://www.elcomercio.com/wp-content/uploads/2024/11/quito_cuartos_1-1.jpg)
-
-**Deportivo Quito** es uno de los ocho equipos que siguen con vida en el Torneo de Ascenso Nacional y sigue en carrera para lograr uno de los dos cupos para la Liga Pro Serie B de 2025.
-
-El Deportivo Quito arrancó su camino en los **treintaidosavos de final derrotando por un marcador global** de 5-1 a Santa Elena SC, con lo que dio el primer paso en su objetivo de regresar a la B, tras su descenso en 2016.
-
-### Más noticias:
-
-* [Óscar Sevilla se mantiene líder de la Vuelta al Ecuador para la tercera etapa](https://www.elcomercio.com/deportes/oscar-sevilla-se-mantiene-lider-de-la-vuelta-al-ecuador-para-la-tercera-etapa.html "Óscar Sevilla se mantiene líder de la Vuelta al Ecuador para la tercera etapa")
-* [El millonario precio que le puso Flamengo a Gonzalo Plata](https://www.elcomercio.com/deportes/futbol/millonario-precio-que-le-puso-flamengo-a-gonzalo-plata.html "El millonario precio que le puso Flamengo a Gonzalo Plata")
-* [Histórico de Ecuador cataloga de injusta la ausencia de Domínguez](https://www.elcomercio.com/deportes/futbol/historico-de-ecuador-cataloga-de-injusta-la-ausencia-de-dominguez.html "Histórico de Ecuador cataloga de injusta la ausencia de Domínguez")
-
-En los dieciseisavos de final se midió ante Cantera Orense. La clasificación fue sufrida y se **concretó en los lanzamientos penales**. En la ida el juego finalizó por 1-1, y la revancha se cerró con un luchado y dramático 0-0.
-
-Los octavos de final de la ‘AKD’ se jugaron a medias. En la ida, en el Alejandro Ponce Noboa de Guayaquil, empataron 1-1 contra Toreros, **pero la revancha nunca se jugó por la eliminación de sus rivales** por no cumplir con requisitos administrativos.
-
-En los cuartos de final, el Quito tendrá un duro rival en Liga de Portoviejo, uno de los favoritos para ascender y **uno de los clubes que tiene una gran cantidad de hinchas en la provincia** de Manabí y en distintos puntos del país.
-
-Los clasificados se completaron con La Unión de Cotopaxi, que se metió en esta etapa del ascenso al vencer, en penales por 5-3, al **11 de Mayo de Manabí**, equipo que regresó al torneo por la descalificación de Patria, también por temas administrativos.
-
-El cuadro de clasificados se completan con 22 de Julio (Esmeraldas), La Paz (Manabí), Liga de Portoviejo (Manabí), Aviced (Azuay), La Unión (Cotopaxi), Cuenca Jrs. (Azuay), Deportivo Quito (Pichincha) y Club Vinotinto (Pichincha).
-
-Cuartos de final – ida
-----------------------
-
-**Club Vinotinto vs. La Paz FC**
-
-La Unión vs. Cuenca Jrs.
-
-**Liga de Portoviejo vs. Deportivo Quito**
-
-22 de Julio vs. Aviced FC
-
-San viernes
------------
-
-Inamhi prevé altos niveles de lluvias en cinco provincias
-=========================================================
-
-El Inamhi dio a conocer los pronósticos del clima en Ecuador, entre el miércoles 13 y el domingo 17 de noviembre.
------------------------------------------------------------------------------------------------------------------
-
-![La falta de lluvias en Ecuador, en parte, ha causado una crisis energética con apagones de hasta 14 horas](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-ecuador-inamhi.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) dio las previsiones del **clima** para **Ecuador** hasta el domingo 17 de noviembre de 2024.
-
-### Más noticias
-
-* [Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz](https://www.elcomercio.com/actualidad/quito/pabel-munoz-medidas-quito-cortes-luz.html "Pabel Muñoz anunció medidas que se aplicarán en Quito por los cortes de luz")
-* [Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-declara-situacion-desastre-colombia-inundaciones.html "Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones")
-* [Con los cortes de luz el internet también se interrumpe, ¿por qué?](https://www.elcomercio.com/actualidad/negocios/por-que-internet-depende-electricidad-funcionar.html "Con los cortes de luz el internet también se interrumpe, ¿por qué?")
-
-La entidad detalló que se esperan **lluvias, tormentas y vientos**, en algunas provincias del país, entre las 11:00 del miércoles 13 y las 18:00 del domingo 17 de noviembre.
-
-Las precipitaciones de niveles **medio, alto y muy alto** están previstas principalmente en la **Amazonía** y parte de la región **Interandina**.
-
-La predicción del clima afirma que en Sucumbíos, Orellana, Napo, Pastaza y Morona Santiago se registraran niveles de lluvias altos, entre los **31 a 54 milímetros diarios**.
-
-Mientras que en lugares puntuales de la Sierra, los niveles serán medios, entre **8 a 11 mm** por día[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Las provincias de la Sierra donde se estiman lluvias son siete: Imbabura, Pichincha, Cotopaxi, Tungurahua, Bolívar, Cañar y Azuay.
-
-Los días con **precipitaciones más intensas** serán el **viernes 15 y el sábado 16** de noviembre, en el occidente de **Pastaza y Orellana**; así como en la parte oriental de Napo.
-
-¿Por qué lloverá en estas provincias?
--------------------------------------
-
-El Inamhi explicó que las lluvias en estas provincias están previstas por el **ingreso de masas de aire húmedo** desde la Amazonía y el sur del continente.
-
-Este fenómeno, sumado a los **vientos** y el calentamiento **diurno** que se espera,, genera procesos termodinámicos que favorecen la presencia de **nubes**, y con ellas, de precipitaciones.
-
-> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #61 l Entre el 13 y 17 de noviembre se incrementará la probabilidad de lluvias y tormentas en la región Amazónica 🌦️⛈️🌧️. Eventos puntuales y menos intensos podrían presentarse en la Sierra. Más información en el boletín.⚠️ 👇 [pic.twitter.com/jstASGN000](https://t.co/jstASGN000)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 13, 2024](https://twitter.com/inamhi_ec/status/1856765852990710210?ref_src=twsrc%5Etfw)
-
-Toma precauciones ante las lluvias
-----------------------------------
-
-Si en tu sector se registran **fuertes lluvias** procura alejarte de los c**auces de los ríos**, mismos que podrían arrastrarte o traer consigo **objetos** que puedan golpearte.
-
-Asimismo, evita el contacto cercano con **cables de electricidad**. También desconecta los aparatos electrónicos de tu casa mientras exista una **tormenta**.
-
-Si una fuerte lluvia te toma por sorpresa en el **exterior**, no te refugies bajo **árboles**, ni utilices herramientas metálicas que puedan ser un imán para los rayos.
-
-Liga de Quito y una emotiva despedida a Marco Angulo
-====================================================
-
-Liga de Quito rindió un homenaje al fallecido jugador Marco Angulo.
--------------------------------------------------------------------
-
-![Liga de Quito le rindió un homenaje de despedida a Marco Angulo (+).](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-13T182228.868.jpg)
-
-**Marco** **Angulo**, jugador de Liga de Quito, falleció la noche del lunes 11 de noviembre debido a un grave accidente de tránsito ocurrido la madrugada del lunes 7 de octubre en la Autopista General Rumiñahui.
-
-La ‘U’, su último club, **le rindió un homenaje con varios jugadores** y miembros del conjunto capitalino.
-
-### Más noticias:
-
-* [Marco Angulo falleció por ‘una parada cardiorrespiratoria’](https://www.elcomercio.com/deportes/futbol/marco-angulo-causa-muerte-salud.html "Marco Angulo falleció por ‘una parada cardiorrespiratoria’")
-* [FC Cincinnati homenajeó a Marco Angulo con emotivo video](https://www.elcomercio.com/deportes/futbol/cincinnati-homenajeo-a-marco-angulo-con-emotivo-video.html "FC Cincinnati homenajeó a Marco Angulo con emotivo video")
-* [Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito](https://www.elcomercio.com/deportes/futbol/marco-angulo-futbolistas-fallecidos-siniestros.html "Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito")
-
-Homenaje de despedida a Marco Angulo
-------------------------------------
-
-El martes 12 de noviembre, en el **Centro de Alto Rendimiento (CAR) de Liga de Quito** en Pomasqui, se llevó a cabo un emotivo homenaje a Marco Angulo.
-
-En un video que circula en redes sociales se observa cómo los integrantes del ‘Rey de Copas’ **formaron un pasillo** en una de las canchas del CAR, sosteniendo globos blancos en honor a Marco.
-
-A través del pasillo, algunos jugadores, entre ellos José ‘Choclo’ Quintero, **Michael Estrada**, Richard Mina, Bryan Ramírez y **Alexander Domínguez,** cargaron el féretro del jugador, quien fue parte del club desde inicios de 2024.
-
-El **féretro estaba adornado con las banderas de Ecuador** y de Liga de Quito. Al pasar, los miembros de la plantilla soltaron los globos hacia el cielo en señal de despedida, mientras el cuerpo de Angulo partía hacia su natal Esmeraldas para su velación y posterior sepelio.
-
-Angulo llegó la madrugada de este miércoles 13 de noviembre a Esmeraldas, donde familiares y amigos lo recibieron en la parroquia Rocafuerte, en el cantón Río Verde.
-
-La carrera de Marco Angulo
---------------------------
-
-El volante se formó y debutó profesionalmente en **Independiente del Valle**, luego pasó por el Football Club Cincinnati de Estados Unidos y finalmente llegó a Liga de Quito.
-
-Con la **Selección de Ecuador**, disputó dos partidos: uno en la era de Gustavo Alfaro, quien lo hizo debutar en noviembre de 2022 en un empate 0-0 ante Irak, y otro en marzo de 2023 bajo el mando de Félix Sánchez, en el que ingresó como sustituto de Junior Sornoza.
-
-A nivel profesional, Angulo disputó 124 partidos, anotó seis goles y dio cinco asistencias. En cuanto a títulos, con Independiente del Valle ganó la **Copa Libertadores Sub-20 en 2020**, la Liga Pro 2021, la Copa Ecuador y la **Copa Sudamericana en 2022**. Con el FC Cincinnati logró la MLS Supporters’ Shield en 2023.
-
-La guapa esposa de John Krasinski, el hombre más sexy del mundo, también es actriz
-==================================================================================
-
-John Krasinski es el hombre más sexy del mundo, según People y su esposa está feliz. ¿Quién es y cómo celebrará con él?
------------------------------------------------------------------------------------------------------------------------
-
-![John Krasinski es un actor y productor de 51 años.](https://www.elcomercio.com/wp-content/uploads/2024/11/john-El-Comercio.jpg)
-
-Ya se conoce que el actor de ‘**The Office**‘, **John Krasinski (**45 años), es el ‘**Hombre Más Sexy del Mundo’ en 2024**, según la revista **People**. Pero ¿sabemos quién es su esposa y cómo quiso festejar la nueva distinción de su esposo?
-
-La esposa de Krasinski es la **guapa actriz Emily Blunt** (41 años). Llevan casados 14 años y tienen dos hijas, Hazel y Violet. Han llevado su familia de la forma más discreta que les es posible.
-
-### **Más noticias**
-
-* **[Dave Coulier, el tío Joey de ‘Un hogar casi perfecto’, padece cáncer](https://www.elcomercio.com/afull/dave-coulier-cancer-tio-joey-full-house.html "https://www.elcomercio.com/afull/dave-coulier-cancer-tio-joey-full-house.html")**
-* **[¿Cómo celebró P. Diddy su cumpleaños en la cárcel?](https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html "https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html")**
-
-Blunt es Emily en la película ‘**[El diablo viste a la moda](https://www.elcomercio.com/tendencias/el-diablo-se-viste-a-la-moda-2-secuela-estreno-meryl-streep-anne-hathaway.html "https://www.elcomercio.com/tendencias/el-diablo-se-viste-a-la-moda-2-secuela-estreno-meryl-streep-anne-hathaway.html")**‘ junto con [**Meryl Streep** y **Anne Hathaway**](https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html "https://www.elcomercio.com/afull/el-diablo-viste-a-la-moda-2-tiene-excelentes-noticias-para-sus-fans.html"), pero ha participado en decenas de producciones más.
-
-Entre ellas, las películas de terror ‘**[Un lugar en silencio](https://www.imdb.com/title/tt6644200/ "https://www.imdb.com/title/tt6644200/") 1 y 2**‘, donde comparte pantalla con Krasinski. A lo largo de los años, él ha destacado lo mucho que ha aprendido y crecido al lado de Blunt, pero ser el hombre más sexy no lo liberará de las tareas domésticas, al contrario, él cree que las incrementará, dice el actor.
-
-![La actriz Emily Blunt lleva 14 años casada con John Krasinski. ](https://www.elcomercio.com/wp-content/uploads/2024/11/blunt-El-Comercio-1024x683.jpg)
-
-La actriz Emily Blunt lleva 14 años casada con John Krasinski.
-
-La idea para celebrar el título de Krasinski en su hogar
---------------------------------------------------------
-
-Cuando recibió la noticia, no pudo evitar sentirse incrédulo. Según compartió Krasinski en una entrevista con People , pensó que alguien le estaba haciendo una broma.
-
-“Me quedé en blanco”, confesó el actor. Sin embargo, no fue solo él quien quedó sorprendido; la reacción de Blunt fue igual de positiva, pero con un toque de humor.
-
-Al enterarse del reconocimiento, ella sugirió redecorar la casa con la portada de la revista en la que aparece el actor con el título del más sexy. “Mis hijos lo amarán; no será raro en absoluto”, bromeó Krasinski.
-
-Este nombramiento fue revelado en el programa ‘**[The Late Show with Stephen Colbert](https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig "https://www.youtube.com/channel/UCMtFAi84ehTSYSE9XoHefig")**‘, donde Krasinski compartió que la primera persona fuera de la familia en enterarse fue su amigo, el actor **[Matt Damon](https://www.imdb.com/name/nm0000354/ "https://www.imdb.com/name/nm0000354/")**.
-
-En una divertida anécdota, el actor confesó que llegó tarde a la fiesta de cumpleaños de Damon debido a la sesión de fotos para People , y explicó su retraso diciendo: “¡Soy el hombre más sexy de People!”.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCVSJtBPUFs/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCVSJtBPUFs/?utm_source=ig_embed&utm_campaign=loading)
-
-  
-
-La Selección de Ecuador está invicta 31 años en el Monumental
-=============================================================
-
-La Selección de Ecuador jugó por primera vez en el estadio Monumental en las eliminatorias a Italia 1990.
----------------------------------------------------------------------------------------------------------
-
-![Jugadores de Ecuador y Argentina en el estadio Monumental en el 2022.](https://www.elcomercio.com/wp-content/uploads/2024/09/monumental_invicto_1.jpg)
-
-La **Selección de Ecuador** volverá a jugar en Guayaquil y más concretamente en el estadio Monumental en la fecha 11 de las eliminatorias sudamericanas al Mundial que en el 2026 será organizado por Estados Unidos, México y Canadá.
-
-El viernes 13 de septiembre de 2024, la **Federación Ecuatoriana de Fútbol (FEF)**, a través de las redes sociales oficiales de la Selección de Ecuador, publicó un video en donde anunció que volverá a jugar en Guayaquil.
-
-### Más noticias:
-
-* [Cristiano Ronaldo marca un golazo de mil millones de seguidores](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-record-millones-seguidores.html "Cristiano Ronaldo marca un golazo de mil millones de seguidores")
-* [Alexander Domínguez denuncia racismo y aclara altercados con Liga de Quito](https://www.elcomercio.com/deportes/alexander-dominguez-liga-always-ready-racismo.html "Alexander Domínguez denuncia racismo y aclara altercados con Liga de Quito")
-* [(Video) Independiente Juniors perdió por un blooper de su arquero](https://www.elcomercio.com/deportes/futbol/independiente-juniors-blooper-arquero-quinonez.html "(Video) Independiente Juniors perdió por un blooper de su arquero")
-
-El jueves 14 de noviembre, la renovada y **sorprendente Selección de Bolivia visitará Guayaquil**, tal como lo hizo rumbo al Mundial Catar 2022, Francia 1998 y Estados Unidos 1994, con la mezcla de malos y espectaculares resultados.
-
-El recuerdo más glorioso del **fútbol boliviano se construyó en el Monumental** el 19 de septiembre de 1993 en las eliminatorias a Estados Unidos 1994, con la única clasificación en su historia para este torneo.
-
-Empató 1-1 y alcanzó el puntaje que necesitaba para armar maletas y mudarse al año siguiente al grupo C con Alemania, la vigente campeona; **España, una potencia europea**; y la indescifrable Corea del Sur.
-
-**William Ramallo adelantó a la ‘Verde’ a los 45 minutos** del primer tiempo, mientras que Raúl ‘Pavo’ Noriega empató para la Tri a los 72 minutos para sellar el histórico marcador.
-
-Ecuador debutó en el Monumental en el 89
-----------------------------------------
-
-El 27 de diciembre de 1987 se aperturó el Monumental y el **3 de septiembre de 1989 la Selección de Ecuador** jugó por primera vez en este escenario y fue un empate 0-0 contra Colombia.
-
-El juego correspondió a la tercera fecha del grupo 2 de las eliminatorias sudamericanas al Mundial Italia 1990, que compartían con Paraguay.
-
-La Tri tenía en sus filas a jugadores como Carlos Luis Morales, Álex Darío Aguinaga, Luis Capurro, Hólguer Quiñónez, Kléber Fajardo, **Raúl Ney Avilés, Byron Tenorio, Hamilton Cuvi**, Jimmy Izquierdo, Julio César Rosero, Tulio Quinteros, Enrique Verduga y Ermen Benítez.
-
-Los colombianos a René Higuita, **Carlos Valderrama, Luis Carlos Perea, Wilson Pérez**, Arnoldo Iguarán, Andrés Escobar, Gabriel Gómez, José Ricardo Pérez, Rubén Darío Hernández, Luis Fajardo, Carlos Hoyos, Albeiro Usuriaga y Juan Jairo Galeano.
-
-Dusan Draskovic era el entrenador de Ecuador, mientras que el **legendario Francisco ‘Pacho’ Maturana** estaba en el banco de suplentes de los visitantes.
-
-El argentino Ricardo Calabria fue el árbitro central. Existe un registro que más de 55 000 hinchas asistieron a observar el encuentro.
-
-Primer triunfo de Ecuador en el Monumental
-------------------------------------------
-
-El 24 de septiembre del mismo año llegó el primer triunfo de la Tri en el Monumental. **Fue por 3-1 ante Paraguay.** Esta vez llegaron algo más de 18 000 personas para ver a un equipo que ya no tenía opciones de clasificar a la Copa del Mundo.
-
-**Aguinaga** fue el autor del primer gol de Ecuador en este estadio para Ecuador, sin embargo, el primer gol en eliminatorias estuvo a cargo del paraguayo **Gustavo Alfredo Neffa**.
-
-Esa noche también anotaron, con el arbitraje del brasileño Arnaldo Cézar Coelho, Pietro Marsetti y Raúl Ney Avilés.
-
-Ecuador en el Monumental
-------------------------
-
-De los nueve encuentros de eliminatorias jugados en el Monumental, **los locales ganaron cuatro, empataron cuatro y perdieron tan solo uno**. Marcaron 13 goles y recibieron cinco para un gol diferencia positivo de +8.
-
-Fue el 5 de septiembre de 1993 en el proceso a Estados Unidos. Uruguay se llevó el triunfo **con un tanto de Rubén Sosa** ante la mirada de 55 000 hinchas que se quedaron con las ganas de sumar puntos.
-
-Es decir, son más de 31 años que la Tri no conocer la derrota en el estadio guayaquileño.
-
-Ecuador y su números en el Monumental
--------------------------------------
-
-San viernes
------------
-
-¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las inundaciones en Colombia?
-============================================================================================
-
-La disparidad climática entre Ecuador y sus vecinos muestra cómo eventos como El Niño y La Niña influyen en las condiciones meteorológicas
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ecuador enfrenta sequías severas debido a las condiciones actuales asociadas con La Niña, Colombia experimenta un exceso de lluvias. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-47-1.jpg)
-
-Ecuador enfrenta una prolongada sequía, mientras que Colombia experimenta lluvias intensas e incluso inundaciones. Este fenómeno climático se debe a la interacción de eventos oceánicos y atmosféricos, principalmente, por los fenómenos de El Niño y La Niña.
-
-Más noticias
-------------
-
-* [Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-declara-situacion-desastre-colombia-inundaciones.html "Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones")
-* [Cuenca tiene la sequía más extensa de los últimos 51 años](https://www.elcomercio.com/actualidad/ecuador/cuenca-sequia-extensa-ultimos-anos.html "Cuenca tiene la sequía más extensa de los últimos 51 años")
-
-El Niño y La Niña son fases opuestas del fenómeno conocido como Oscilación del Sur. El Niño se caracteriza por un aumento en la Temperatura Superficial del Mar (TSM) en el océano Pacífico central, mientras que La Niña presenta anomalías frías en esa misma área. Los dos eventos ocurren en el área llamada 3.4, cuyo centro queda a ocho mil km al oeste de Ecuador.
-
-Según Franklin Ormaza, investigador de la Escuela Superior Politécnica del Litoral (Espol), durante La Niña, las anomalías de la TSM oscilan entre -0.5°C y -2.0°C. Pero este momento, la TSM es menor al promedio de 20 a 25 años. Para el niño las anomalías son positivas (+0.5°C y +2.0°C).
-
-En Ecuador, los efectos típicos de La Niña incluyen lluvias por debajo del promedio y sequías prolongadas, como la que está ahora en la costa ecuatoriana.
-
-En contraste, durante El Niño, se producen excesos de lluvias que pueden llevar a inundaciones desastrosas. Este patrón se ha observado en dos eventos pasados de 2015-2016 y 2023-2024.
-
-Las razones del retraso en la activación de La Niña
----------------------------------------------------
-
-Inicialmente se había anticipado que La Niña podría comenzar en agosto en Ecuador. Sin embargo, los pronósticos climáticos y oceánicos han cambiado, enfatiza Ormaza.
-
-Aunque las temperaturas de la superficie del mar (TSM) en el Pacífico ecuatorial central y oriental han estado relativamente frías, la parte atmosférica del fenómeno no se ha acoplado adecuadamente. Es decir, las condiciones meteorológicas no han alcanzado los valores necesarios para que se declare oficialmente la presencia de La Niña.
-
-Recientemente, las condiciones meteorológicas parecían acercarse a esos umbrales, pero finalmente no se concretaron. Por lo tanto, se espera que el acoplamiento entre las condiciones oceánicas y atmosféricas ocurra a finales de noviembre o principios de diciembre. A pesar de este retraso, las condiciones  oceanográficas en el Pacífico siguen estando dentro de los límites de La Niña.
-
-En Colombia, especialmente en el norte del país y a lo largo de la costa atlántica, las lluvias han superado los promedios históricos, creando condiciones propensas a inundaciones. Esto se debe a que durante La Niña, las temperaturas en el Atlántico tienden a aumentar y puede intensificar las lluvias en esa región.
-
-¿Qué se prevé a corto plazo?
-----------------------------
-
-Las proyecciones indican que si se establece un evento de La Niña, este podría ser débil y corto, extendiéndose hasta enero o febrero de 2025. Durante este periodo, se espera que la costa centro-sur de Ecuador continúe con sequías, mientras que la Amazonía podría experimentar un retorno a condiciones más normales con posibles inundaciones.
-
-“Se debe recordar siempre que las estructuras meteorológicas de la costa ecuatoriana están gobernadas por el Océano Pacífico, mientras que la Amazonía es regida por el Atlántico”, explica Ormaza.
-
-Factores que están influenciando en los eventos climáticos
-----------------------------------------------------------
-
-Hay expertos que consideran que el cambio climático también juega un papel en la intensidad y frecuencia de los fenómenos climáticos extremos. Sin embargo, Ormaza señala que está afectando más otros dos factores: la deforestación y las condiciones oceanográficas en el Pacifico y el Atlántico.
-
-En Ecuador, la deforestación de debe a varios factores, entre ellos: la expansión de la minería ilegal, la actividad agropecuaria, la expansión de la infraestructura vial, los incendios forestales.
-
-Este problema, según Ormaza, está jugando un papel decisivo. Sin embargo, el país ha estado avanzando en ese sentido. Proamazonía, en julio del 2024, informó que Ecuador tiene una reducción histórica de la [tasa de deforestación](https://www.proamazonia.org/ppr/ecuador-redujo-sus-niveles-de-deforestacion-y-accedio-a-pagos-basados-en-resultados/ "https://www.proamazonia.org/ppr/ecuador-redujo-sus-niveles-de-deforestacion-y-accedio-a-pagos-basados-en-resultados/") de 48,6 % en las dos últimas décadas.
-
-En conclusión, la disparidad climática entre Ecuador y sus vecinos Colombia y Perú es un claro ejemplo de cómo los fenómenos oceánicos como El Niño y La Niña pueden influir drásticamente en las condiciones meteorológicas regionales.
-
-Mientras Ecuador enfrenta sequías severas debido a condiciones asociadas con La Niña, Colombia experimenta un exceso de lluvias que resulta en inundaciones significativas.
-
-Cuatro bolivianos que dejaron huella en Ecuador
-===============================================
-
-Los pocos jugadores y entrenadores bolivianos que han pasado por Ecuador han sido con buenos resultados.
---------------------------------------------------------------------------------------------------------
-
-![Gustavo Quinteros en su etapa como entrenador de Emelec.](https://www.elcomercio.com/wp-content/uploads/2024/11/bolivianos_3.jpg)
-
-La Selección de Bolivia es una de las **sorpresas de las eliminatorias sudamericanas al Mundial 2026**, luego de ganar tres de los últimos cuatro partidos y escalar a la séptima casilla en la tabla de posiciones.
-
-El jueves 14 de noviembre de 2024, desde las 19:00, la Selección de **Bolivia tiene la misión de sumar en Guayaquil**, tal como lo hizo en 1993 en el camino a Estados Unidos, donde logró el único empate en su visita a Ecuador en esta clase de partidos.
-
-### Más noticias:
-
-* [Ibai Llanos responde a críticas tras su cambio físico](https://www.elcomercio.com/deportes/futbol/ibai-llanos-criticas-cambio-fisico.html "Ibai Llanos responde a críticas tras su cambio físico")
-* [FC Cincinnati homenajeó a Marco Angulo con emotivo video](https://www.elcomercio.com/deportes/futbol/cincinnati-homenajeo-a-marco-angulo-con-emotivo-video.html "FC Cincinnati homenajeó a Marco Angulo con emotivo video")
-* [La Selección de Ecuador vs. una Bolivia con 10 potenciales bajas](https://www.elcomercio.com/deportes/futbol/bolivia-bajas-ecuador-eliminatorias-mundial.html "La Selección de Ecuador vs. una Bolivia con 10 potenciales bajas")
-
-Ese 19 de septiembre de 1993 algo más de 10 000 personas llegaron al **estadio Monumental de Barcelona Sporting Club**, porque la Tri ya estaba eliminada y solo jugó para cumplir el calendario.
-
-La visita se adelantó en el marcador a los 45 minutos del primer tiempo por intermedio de William Ramallo, mientras que Raúl ‘Pavo’ Noriega logró el definitivo 1-1 a los 72 minutos.
-
-El marcador no se movió y dio paso al **festejo de los bolivianos que aseguraron su tercera participación** en una Copa del Mundo, luego de Uruguay 1930 (invitada) y Brasil 1950 (tras el retiro de Argentina y Perú).
-
-Ese partido tiene una estrecha relación con el fútbol de Ecuador porque Gustavo Quinteros, Marco Antonio Etcheverry y Julio César Baldivieso, más Ramiro Blacut (que no tuvo participación en el referido juego) tuvieron pasos exitosos en el fútbol ecuatoriano.
-
-Marco Antonio Etcheverry
-------------------------
-
-Marco Antonio Etcheverry necesitó 13 partidos y tres meses en Barcelona SC para dejar grabado su nombre en la historia del ‘Ídolo de Ecuador’.
-
-Llegó en **noviembre de 1997 desde la MLS y se marchó en enero de 1998**, una vez que fue clave para la obtención del título del campeonato nacional ante el Deportivo Quito en un repleto Monumental.
-
-Con la amarilla anotó seis goles, incluido uno a El Nacional en el Olímpico Atahualpa en la recordada victoria de 2-3 y otro **en el Monumental en el 3-0 ante la ‘AKD’ que selló el título 13** en la gran historia de los canarios.
-
-Al año siguiente pasó a Emelec y volvió a ser clave. Esta vez obtuvo el segundo lugar y no pudo sumar a su palmarés una nueva corona, que quedó en manos de Liga de Quito con el recordado 7-0 en el Rodrigo Paz Delgado.
-
-![Foto: Facebook Historia de BSC.](https://www.elcomercio.com/wp-content/uploads/2024/11/bolivianos_2-1024x683.jpg)
-
-Foto: Facebook Historia de BSC.
-
-Julio César Baldivieso
-----------------------
-
-Para el segundo semestre de 1999, **Julio César Baldivieso fue contratado por Barcelona SC** y se mantuvo hasta el primer semestre de 2000.
-
-A Baldivieso le tocó vivir una transición entre el equipo que en 1998 fue finalista de la Copa Libertadores y la inserción en 1999 de la generación de jóvenes futbolistas que fueron bautizados como los ‘Mutantes’.
-
-En el 99 alcanzaron el **octavo puesto de la tabla acumulada y estuvieron coqueteando** con el descenso.
-
-En la primera etapa del 2000 la historia se repitió y los toreros terminaron en la penúltima casilla con tan solo 19 puntos, cuatro más que Técnico Universitario, el último clasificado.
-
-Baldivieso regresó al país en el **primer semestre de 2005 para defender al Deportivo Quevedo** en la Serie A. Se marchó con el equipo descendido.
-
-![Foto: Instagram historia_bsc.](https://www.elcomercio.com/wp-content/uploads/2024/11/bolivianos_1-1024x683.jpg)
-
-Foto: Instagram historia\_bsc.
-
-Ramiro Blacut
--------------
-
-Para el mismo segundo semestre de 1999 llegó al país Ramio Blacut para hacerse cargo de la parte técnica de Aucas. Se mantuvo hasta diciembre de 2000.
-
-Los primeros **seis meses como auquista peleó con el descenso** y terminó en la casilla nueve, a cinco puntos de Delfín, el primero de los tres descendidos en ese año.
-
-En el 2000 la realidad cambió y peleó todo el año en la parte alta de la tabla. En la sumatoria final se quedó con el cuarto puesto y **logró clasificar a la Copa Merconorte de 2001**.
-
-En el 2001 tomó las riendas de **El Nacional y en la tabla acumulada terminó en el primer lugar**, pero por el formato del campeonato, que incluía una liguilla final, se quedó con el vicecampeonato y con un cupo a la Copa Libertadores 2002.
-
-En abril de 2002 reemplazo a Dalcio Giovagnolli como DT del Deportivo Cuenca y se mantuvo hasta abril de 2003 por razones personales.
-
-En la acumulada **terminó en el 2002 en la quinta casilla y en el 2003** se fue luego de un arranque complicado.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/08/RamiroBlacut.jpg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-Gustavo Quinteros
------------------
-
-El más exitoso de los bolivianos en Ecuador es Gustavo Quinteros. El entrenador fue el **responsable del tricampeonato nacional de los azules** con los títulos de 2013 y 2014, donde le ganó en las finales a Barcelona SC.
-
-En el 2015 dejó listo el plantel que a final de año se coronaron con el tricampeonato, pero ya sin su participación, porque fue contratado por la Selección de Ecuador como su nuevo entrenador.
-
-Pese a su espectacular arranque con cuatro victorias en las cuatro primeras fechas de las eliminatorias sudamericanas a Rusia 2018, **no logró terminar el proceso y fue despedido por la seguidilla** de malos resultados que lo dejaron sin un cupo a la Copa del Mundo.
-
-Daner Pachi (Liga de Portoviejo en 2009) y Marcelo Moreno Martins (Independiente del Valle en el 2023), también pasaron por el país, pero sin trascendencia y sin logros deportivos.
-
-En el 2024, **Liga de Quito contrató a Gabriel Villamil**, una de las jóvenes promesas del fútbol boliviano.
-
-Su aporte ha sido intermitente, **pero al final de la presente temporada puede sumar el título** de la Liga Pro. Los albos siguen en carrera para ser uno de los finalistas.
-
-![Foto: Archivo histórico EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2022/06/5c312e5a232f7.jpeg)
-
-Foto: Archivo histórico EL COMERCIO.
-
-San viernes
------------
