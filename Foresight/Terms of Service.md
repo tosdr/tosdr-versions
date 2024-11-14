@@ -14,11 +14,8 @@ Popular products
 * [See all templates, courses, and services](https://foresight.is/products/)
 
 * [78k+ Downloads](https://foresight.is/users/)
-* [Updates 1](#)
-    
-    * [Changelog](https://foresight.is/changelog/)
-    * [New manual portfolio construction method](https://foresight.is/changelog/#2024-10-29-manual-venture-capital)
-    
+* [Blog](https://foresight.is/blog/)
+* [Changelog](https://foresight.is/changelog/)
 * [Docs](https://foresight.is/docs/)
 
 Login
