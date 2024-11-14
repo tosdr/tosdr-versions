@@ -359,6 +359,9 @@ Tele @CallMeIsDK
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
+  
+**Fatal error**: Cannot use empty array elements in arrays in **/home/www/bongapi/wlink/keygroup.php** on line **554**  
+
 Copyright 2023 by [saoketvxa.cc](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
 
 x
