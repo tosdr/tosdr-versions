@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/de-geraffineerde-ondermijning-van-mattias-desmet/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/wetenschappelijk-bewijs-de-griepprik-werkt-niet/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
