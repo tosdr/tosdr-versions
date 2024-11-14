@@ -99,8 +99,6 @@ External
             
             [Explore](https://www.bakerhughes.com/gaffneycline-energy-advisory)
             
-            * [Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory/advisory)
-                
             * [Geoscience](https://www.bakerhughes.com/gaffneycline-energy-advisory/geoscience)
                 
             
@@ -1064,8 +1062,6 @@ Search
             
             [Explore](https://www.bakerhughes.com/gaffneycline-energy-advisory)
             
-            * [Advisory](https://www.bakerhughes.com/gaffneycline-energy-advisory/advisory)
-                
             * [Geoscience](https://www.bakerhughes.com/gaffneycline-energy-advisory/geoscience)
                 
             
