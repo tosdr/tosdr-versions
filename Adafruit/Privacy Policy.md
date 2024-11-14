@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Simplicity is the ultimate sophistication”
+“ This good fun, explore, explore, explore, that's what science is, exploration, finding out new things, so have a good time with it”
 
-[Leonardo da Vinci](http://en.wikipedia.org/wiki/Leonardo_da_Vinci)
+[Charles Townes](http://en.wikipedia.org/wiki/Charles_H._Townes)
 
 [](https://www.adafruit.com/about)
 
