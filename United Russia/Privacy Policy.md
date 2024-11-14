@@ -305,7 +305,7 @@
 
 [#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394)
 
-Сегодня 16:47
+14.11.24
 
 [![Федеральный бюджет принят в основном чтении с социально значимыми поправками от «Единой России»](https://cdn.er.ru/media/news/November2024/BfZaajZxxF72CnsUAqgq-small.jpg)](https://er.ru/activity/news/federalnyj-byudzhet-prinyat-v-osnovnom-chtenii-s-socialno-znachimymi-popravkami-ot-edinoj-rossii)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
 
-Сегодня 16:05
+14.11.24
 
 [![«Единая Россия» передала помощь военнослужащим на Сватово-Купянском направлении](https://cdn.er.ru/media/news/November2024/8hGf5T1C0WPTUUVRSwS6-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-voennosluzhashim-na-svatovo-kupyanskom-napravlenii)
 
@@ -321,7 +321,7 @@
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305)
 
-Сегодня 14:30
+14.11.24
 
 [![Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://cdn.er.ru/media/news/November2024/Ejk8xGEktIbM5Nx3w7Q6-small.jpg)](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
 
@@ -329,7 +329,7 @@
 
 [#Матицын](https://er.ru/activity/news?tags%5B0%5D=149186) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#спортивнаяинфраструктура](https://er.ru/activity/news?tags%5B0%5D=1094899) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 12:34
+14.11.24
 
 [![Евгений Москвичев: На строительство дорог на три года в бюджете «Единая Россия» заложит 1 трлн 100 млрд рублей](https://cdn.er.ru/media/news/November2024/DY4NVPGPR9j6sY7U0wnh-small.jpg)](https://er.ru/activity/news/evgenij-moskvichev-na-stroitelstvo-dorog-na-tri-goda-v-byudzhete-edinaya-rossiya-zalozhit-1-trln-100-mlrd-rublej)
 
@@ -337,7 +337,7 @@
 
 [#Москвичев](https://er.ru/activity/news?tags%5B0%5D=9274) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872) [#строительстводорог](https://er.ru/activity/news?tags%5B0%5D=118885) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-Сегодня 12:27
+14.11.24
 
 [![Анна Кузнецова: «Единая Россия» обеспечила выделение средств из бюджета на защиту суверенитета, семей с детьми и поддержку семей участников СВО](https://cdn.er.ru/media/news/November2024/UIJ8PdMuP20gosDQdKkl-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-obespechila-vydelenie-sredstv-iz-byudzheta-na-zashitu-suvereniteta-semej-s-detmi-i-podderzhku-semej-uchastnikov-svo)
 
@@ -345,7 +345,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ФондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094096) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#детиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093752) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562)
 
-Сегодня 12:15
+14.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
