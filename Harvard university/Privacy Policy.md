@@ -121,7 +121,7 @@ Menu
     
     In Focus
     
-    **Explore and understand the world with Harvard** In Focus is a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
+    **[In Focus](https://www.harvard.edu/in-focus/)** Explore a curated examination of Harvard's research, scholarly work, and community. Recent topics include:
     
     1. The Enhanced Body
         
@@ -132,7 +132,7 @@ Menu
         1. 1. [**The progress of dental implants**](https://news.harvard.edu/gazette/story/2024/10/daniel-buser-honored-at-harvard-school-of-dental-medicine/)
             2. [**The innovation of wearable robotics**](https://gsas.harvard.edu/news/walk-robot)
         
-    2. Tradition of Service
+    2. Veterans
         
         In Focus
         
@@ -152,7 +152,6 @@ Menu
             1. [**How AI is affecting elections**](https://ash.harvard.edu/articles/ai-and-the-2024-elections/)
             2. [**How polls become more accurate**](https://news.harvard.edu/gazette/story/2024/10/why-do-election-polls-seem-to-have-such-a-mixed-track-record/)
         
-    4. [Explore the In Focus archives](https://www.harvard.edu/in-focus/)
     
 4. Visit
     
