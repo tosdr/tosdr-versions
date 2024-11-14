@@ -102,11 +102,11 @@
             
             [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)](#)
             
-            [**Blog**](#)[](https://www.is.com/community/blog/advertisers-playbook-to-win-the-holiday-season/)
+            [**Blog**](#)[](https://www.is.com/community/blog/extend-your-holiday-success-q5-strategies-for-mobile-user-acquisition/)
             
-            Advertiser's Playbook to Win the 2024 Holiday Season
+            Extend Your Holiday Success: Q5 Strategies for Mobile User Acquisition
             
-            [Read more >](https://www.is.com/community/blog/advertisers-playbook-to-win-the-holiday-season/)
+            [Read more >](https://www.is.com/community/blog/extend-your-holiday-success-q5-strategies-for-mobile-user-acquisition/)
             
 * [Company](#)
     * [About](https://www.is.com/about/)
