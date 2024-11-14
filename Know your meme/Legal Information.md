@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/612/tuff.jpg "What Is The 'Homer Sharingan' Meme On TikTok? The Viral 'Simpsons x Naruto' Crossover Memes Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/633/alt_headerr.jpg "Where Are They Now? Here's What Neekolul, AKA The 'OK Boomer' Girl, Has Been Up To Since She Went Viral In 2020")
     
-    What Is The 'Homer Sharingan' Meme On TikTok? The Viral 'Simpsons x Naruto' Crossover Memes Explained](https://knowyourmeme.com/editorials/guides/what-is-the-homer-sharingan-meme-on-tiktok-the-viral-simpsons-x-naruto-crossover-memes-explained)
+    Where Are They Now? Here's What Neekolul, AKA The 'OK Boomer' Girl, Has Been Up To Since She Went Viral In 2020](https://knowyourmeme.com/editorials/where-are-they-now-heres-what-neekolul-aka-the-ok-boomer-girl-has-been-up-to-since-she-went-viral-in-2020)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/611/fruitsnacks-explainer.jpg "Who Is 'Fruitsnacks' On TikTok? The Viral E-Girl And Underground Rap Influencer Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/632/Screenshot_2024-11-14_at_10.45.20_AM.jpg "The Onion Buys Alex Jones' Infowars, Plans To Make It A Channel Satirizing Conspiracy Grifters")
     
-    Who Is 'Fruitsnacks' On TikTok? The Viral E-Girl And Underground Rap Influencer Explained](https://knowyourmeme.com/editorials/guides/who-is-fruitsnacks-on-tiktok-the-viral-e-girl-and-underground-rap-influencer-explained)
+    The Onion Buys Alex Jones' Infowars, Plans To Make It A Channel Satirizing Conspiracy Grifters](https://knowyourmeme.com/news/the-onion-buys-infowars-plans-to-make-it-a-channel-satirizing-conspiracy-grifters)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/610/cover9.jpg "'The Humble Apostrophe' And 'The Nefarious Anglerfish': The Grandiloquent Caption Memes Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/636/damnation.jpg "What Is The Baby Pūkeko, And Why Are People So Obsessed With It? Memes About The Big-Footed Bird Often Mistaken For A Kiwi or Jacana Explained")
     
-    'The Humble Apostrophe' And 'The Nefarious Anglerfish': The Grandiloquent Caption Memes Explained](https://knowyourmeme.com/editorials/guides/the-humble-apostrophe-and-the-nefarious-anglerfish-the-grandiloquent-caption-memes-explained)
+    What Is The Baby Pūkeko, And Why Are People So Obsessed With It? Memes About The Big-Footed Bird Often Mistaken For A Kiwi or Jacana Explained](https://knowyourmeme.com/editorials/guides/what-is-the-baby-pukeko-and-why-are-people-so-obsessed-with-it-memes-about-the-big-footed-bird-often-mistaken-for-a-kiwi-or-jacana-explained)
     
-* [![Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws](https://i.kym-cdn.com/featured_items/icons/wide/000/026/609/cover1.jpg "Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/635/doge.jpg "What Is The 'DOGE' State Department? Memes About Elon Musk and Vivek Ramaswamy's 'Department Of Government Efficiency' Explained")
     
-    Guts Cosplayer With An Impossibly Huge Sword On His Shoulder Inspires Redraws](https://knowyourmeme.com/memes/humongous-sword-guy)
+    What Is The 'DOGE' State Department? Memes About Elon Musk and Vivek Ramaswamy's 'Department Of Government Efficiency' Explained](https://knowyourmeme.com/editorials/guides/what-is-the-doge-state-department-memes-about-elon-musk-and-vivek-ramaswamys-department-of-government-efficiency-explained)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/605/leopards_eatin.jpg "What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained")
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/634/thp.jpg "Where Does 'The Horrors Persist, But So Do I' Meme Come From? The Wholesome Catchphrase Explained")
     
-    What's Up With Memes About A 'Leopards Eating People's Faces' Political Party? Memes About Face-Eating Leopards Explained](https://knowyourmeme.com/editorials/guides/whats-up-with-memes-about-a-leopards-eating-peoples-faces-political-party-memes-about-face-eating-leopards-explained)
+    Where Does 'The Horrors Persist, But So Do I' Meme Come From? The Wholesome Catchphrase Explained](https://knowyourmeme.com/editorials/guides/where-does-the-horrors-persist-but-so-do-i-meme-come-from-the-wholesome-catchphrase-explained)
     
 
 ##### Also Trending:
 
-[Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Streaming vs. 9-5 Job Debate](https://knowyourmeme.com/memes/streaming-vs-9-5-job-debate "Streaming vs. 9-5 Job Debate") [Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hauu! You must login or signup first!
+### Namaste! You must login or signup first!
 
 |     |     |
 | --- | --- |
