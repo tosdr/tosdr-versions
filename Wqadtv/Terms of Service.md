@@ -30,22 +30,17 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
-        
-        #### [2nd suspect arrested following July shooting in Galesburg](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5) [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
-        
-        #### [2nd suspect in July Galesburg shooting turns himself in, police say](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5) [![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_16x9.jpg) ![](https://media.tegna-media.com/assets/WHAS/images/f63d7a0b-9c84-4bb4-86e8-001dae2018f6/20240820T173634/f63d7a0b-9c84-4bb4-86e8-001dae2018f6_360x203.jpg)](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
-        
-        #### [Police: Man wanted for attempted murder following July shooting in Galesburg turns himself in](https://www.wqad.com/article/news/local/galesburg-shooting-july-6-second-suspect-arrested/526-f3baaab8-cfc3-4d23-904a-edf1cdf5b7b5)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
         
-        #### [Muscatine police partner with local business to rescue cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37) [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        #### [Muscatine police partner with local business to rescue cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
         
-        #### [Thanks to some help from a local business, Muscatine police rescue cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37) [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
         
-        #### [To the rescue: Muscatine police, local business partner to get cat out of a tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37) [![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a/20241113T215057/fc1585f6-214e-42ca-8eb9-0b6d9b48a23a_360x203.jpg)](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        #### [Davenport City Council passes rent abatement ordinance](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8) [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
         
-        #### [Muscatine business rescues cat from tree](https://www.wqad.com/article/news/local/muscatine-police-rescue-cat-tree/526-87083531-703b-40be-869e-067132569a37)
+        #### [Davenport passes rent abatement ordinance: here's what it does](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8) [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
+        
+        #### [Here's how Davenport's new rent abatement ordinance works](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -64,9 +59,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/a35d3151-064e-4f8f-b74f-a3baf7053791/20241113T132744/a35d3151-064e-4f8f-b74f-a3baf7053791_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a35d3151-064e-4f8f-b74f-a3baf7053791/20241113T132744/a35d3151-064e-4f8f-b74f-a3baf7053791_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/7b154d5b-94e8-4a26-8e0b-44c457a374cd/20241114T043055/7b154d5b-94e8-4a26-8e0b-44c457a374cd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/7b154d5b-94e8-4a26-8e0b-44c457a374cd/20241114T043055/7b154d5b-94e8-4a26-8e0b-44c457a374cd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Showers on track for late afternoon, early evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Showers developing this evening and overnight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
@@ -94,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+50°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
