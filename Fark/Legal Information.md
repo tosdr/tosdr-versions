@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more news before we break it? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-All the submissions, none of the calories.
+See what's behind the green door  
+and help keep the tap flowing
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Fark NotNewsletter: The Bar Has Been Raised](https://www.fark.com/goto/13458242) ( [fark.com](https://www.fark.com/goto/13458242) ) » [(2 comments)](https://www.fark.com/comments/blog1456/Fark-NotNewsletter-The-Bar-Has-Been-Raised) |
-| [Discussion](https://www.fark.com/discussion/) | [Tonight on AEW Dynamite: Adam Cole takes on Takeshiata, Lio Rush faces Swerve, FTR vs House of Black, Britt & Penelope have a match and we hear from Mox, Ospreay & Lashley. This and more starting at 8 PM ET on TBS](https://www.fark.com/goto/13461830) ( [allelitewrestling.com](https://www.fark.com/goto/13461830) ) » [(9 comments)](https://www.fark.com/comments/13461830/Tonight-on-AEW-Dynamite-Adam-Cole-takes-on-Takeshiata-Lio-Rush-faces-Swerve-FTR-vs-House-of-Black-Britt-Penelope-have-a-match-we-hear-from-Mox-Ospreay-Lashley-This-more-starting-at-8-PM-ET-on-TBS) |
-| [Sports](https://www.fark.com/sports/) | [University of Oregon to female athletes: If you file a Title IX complaint against us for how we're treating you, we'll just cancel your seasons](https://www.fark.com/goto/13462096) ( [msn.com](https://www.fark.com/goto/13462096) ) » [(3 comments)](https://www.fark.com/comments/13462096/University-of-Oregon-to-female-athletes-If-you-file-a-Title-IX-complaint-against-us-for-how-were-treating-you-well-just-cancel-your-seasons) |
-| [Business](https://www.fark.com/business/) | [Warren Buffett tells young Mortimers to buy homes instead of stocks, says 30-year mortgages are 'a terrific deal'](https://www.fark.com/goto/13461888) ( [aol.com](https://www.fark.com/goto/13461888) ) » [(8 comments)](https://www.fark.com/comments/13461888/Warren-Buffett-tells-young-Mortimers-to-buy-homes-instead-of-stocks-says-30-year-mortgages-are-a-terrific-deal) |
-| [STEM](https://www.fark.com/stem/) | [Want LEGO to go nuclear? Support the reactor](https://www.fark.com/goto/13462020) ( [ideas.lego.com](https://www.fark.com/goto/13462020) ) » [(1 comment)](https://www.fark.com/comments/13462020/Want-LEGO-to-go-nuclear-Support-reactor) |
-| [Entertainment](https://www.fark.com/entertainment/) | [CKY singer admits punching Alien Ant Farm singer in the face backstage during joint tour, claims it was self-defense. But were there bloodstains on the carpet?](https://www.fark.com/goto/13462098) ( [consequence.net](https://www.fark.com/goto/13462098) ) » [(1 comment)](https://www.fark.com/comments/13462098/CKY-singer-admits-punching-Alien-Ant-Farm-singer-in-face-backstage-during-joint-tour-claims-it-was-self-defense-But-were-there-bloodstains-on-carpet) |
-| [Fandom](https://www.fark.com/fandom/) | [I've always wanted to dress up as Sexy Kurgan, but had a hard time finding good reference images to build my costume from. This Adam Savage/Propstore video is exactly what I was looking for](https://www.fark.com/goto/13462126) ( [youtube.com](https://www.fark.com/goto/13462126) ) » [(0 comments)](https://www.fark.com/comments/13462126/Ive-always-wanted-to-dress-up-as-Sexy-Kurgan-but-had-a-hard-time-finding-good-reference-images-to-build-my-costume-from-This-Adam-SavagePropstore-video-is-exactly-what-I-was-looking-for) |
-| [D'awww](https://www.fark.com/dawww/) | [Wild beluga retrieves a cellphone dropped from a boat](https://www.fark.com/goto/13461932) ( [dailymail.co.uk](https://www.fark.com/goto/13461932) ) » [(0 comments)](https://www.fark.com/comments/13461932/Wild-beluga-retrieves-a-cellphone-dropped-from-a-boat) |
-| [Food](https://www.fark.com/food/) | [I saw these flour products in the store today. Anyone ever tried coffee flour?](https://www.fark.com/goto/13462034) ( [groundupev.com](https://www.fark.com/goto/13462034) ) » [(7 comments)](https://www.fark.com/comments/13462034/I-saw-these-flour-products-in-store-today-Anyone-ever-tried-coffee-flour) |
-| [Politics](https://www.fark.com/politics/) | [Little Mushroom officially chooses Little Marco for Secretary of State](https://www.fark.com/goto/13462024) ( [apnews.com](https://www.fark.com/goto/13462024) ) » [(6 comments)](https://www.fark.com/comments/13462024/Little-Mushroom-officially-chooses-Little-Marco-for-Secretary-of-State) |
+| [Main](https://www.fark.com/) | [ONO](https://www.fark.com/goto/13462244) ( [wfsb.com](https://www.fark.com/goto/13462244) ) » [(5 comments)](https://www.fark.com/comments/13462244/ONO) |
+| [Discussion](https://www.fark.com/discussion/) | [Tonight on AEW Dynamite: Adam Cole takes on Takeshiata, Lio Rush faces Swerve, FTR vs House of Black, Britt & Penelope have a match and we hear from Mox, Ospreay & Lashley. This and more starting at 8 PM ET on TBS](https://www.fark.com/goto/13461830) ( [allelitewrestling.com](https://www.fark.com/goto/13461830) ) » [(17 comments)](https://www.fark.com/comments/13461830/Tonight-on-AEW-Dynamite-Adam-Cole-takes-on-Takeshiata-Lio-Rush-faces-Swerve-FTR-vs-House-of-Black-Britt-Penelope-have-a-match-we-hear-from-Mox-Ospreay-Lashley-This-more-starting-at-8-PM-ET-on-TBS) |
+| [Sports](https://www.fark.com/sports/) | [Keith Hernandez's cat has fielded his last groundball to first](https://www.fark.com/goto/13462142) ( [mlb.com](https://www.fark.com/goto/13462142) ) » [(2 comments)](https://www.fark.com/comments/13462142/Keith-Hernandezs-cat-has-fielded-his-last-groundball-to-first) |
+| [Business](https://www.fark.com/business/) | [19th century rush was gold. 20th was oil. The 21th is the Broadcast Land Grab, with illustration of the head bread and circus landscaper](https://www.fark.com/goto/13461706) ( [hollywoodreporter.com](https://www.fark.com/goto/13461706) ) » [(9 comments)](https://www.fark.com/comments/13461706/-19th-century-rush-was-gold-20th-was-oil-The-21th-is-Broadcast-Land-Grab-with-illustration-of-head-bread-circus-landscaper) |
+| [STEM](https://www.fark.com/stem/) | [Headline: University is still operating Voyager Plasma Wave Instrument. Story: Bill, who worked on the instrument as a grad student, is still operating it 45 years later. Tag is for Bill](https://www.fark.com/goto/13462148) ( [physics.uiowa.edu](https://www.fark.com/goto/13462148) ) » [(10 comments)](https://www.fark.com/comments/13462148/Headline-University-is-still-operating-Voyager-Plasma-Wave-Instrument-Story-Bill-who-worked-on-instrument-as-a-grad-student-is-still-operating-it-45-years-later-Tag-is-for-Bill) |
+| [Entertainment](https://www.fark.com/entertainment/) | ["Being a teacher is exhausting after my WWE run . . . but I haven't quit wrestling"](https://www.fark.com/goto/13462092) ( [metro.co.uk](https://www.fark.com/goto/13462092) ) » [(3 comments)](https://www.fark.com/comments/13462092/Being-a-teacher-is-exhausting-after-my-WWE-run-but-I-havent-quit-wrestling) |
+| [Fandom](https://www.fark.com/fandom/) | [Episode 7 of Superman & Lois did something that has never been done before \*Spoilers\*](https://www.fark.com/goto/13462180) ( [screenrant.com](https://www.fark.com/goto/13462180) ) » [(16 comments)](https://www.fark.com/comments/13462180/Episode-7-of-Superman-Lois-did-something-that-has-never-been-done-before-Spoilers) |
+| [D'awww](https://www.fark.com/dawww/) | [Wild beluga retrieves a cellphone dropped from a boat](https://www.fark.com/goto/13461932) ( [dailymail.co.uk](https://www.fark.com/goto/13461932) ) » [(2 comments)](https://www.fark.com/comments/13461932/Wild-beluga-retrieves-a-cellphone-dropped-from-a-boat) |
+| [Food](https://www.fark.com/food/) | [I saw these flour products in the store today. Anyone ever tried coffee flour?](https://www.fark.com/goto/13462034) ( [groundupev.com](https://www.fark.com/goto/13462034) ) » [(15 comments)](https://www.fark.com/comments/13462034/I-saw-these-flour-products-in-store-today-Anyone-ever-tried-coffee-flour) |
+| [Politics](https://www.fark.com/politics/) | [And Trump's pick for Agriculture Secretary is a notorious sexual predator because OF FARKING COURSE](https://www.fark.com/goto/13462260) ( [1011now.com](https://www.fark.com/goto/13462260) ) » [(9 comments)](https://www.fark.com/comments/13462260/And-Trumps-pick-for-Agriculture-Secretary-is-a-notorious-sexual-predator-because-OF-FARKING-COURSE) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 13 2024 20:43:51  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 14 2024 01:42:36  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
