@@ -79,27 +79,27 @@ Latest commented posts
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/72463/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-gren-art-12/)
 
-[#72463](https://yiff-party.com/yiff/72463/)
+[directed by gren art](https://yiff-party.com/yiff-ai-premium/directed-by-gren-art-12/)
 
 0 1 0
 
 November 14, 2024
 
-[](https://yiff-party.com/yiff/von-lycaon-zenless-zone-zero-and-etc-created-by-xlyuz/)
+[](https://yiff-party.com/yiff/snuffy-vtuber-created-by-vammzu/)
 
-[von lycaon (zenless zone zero and etc) created by xlyuz](https://yiff-party.com/yiff/von-lycaon-zenless-zone-zero-and-etc-created-by-xlyuz/)
+[snuffy (vtuber) created by vammzu](https://yiff-party.com/yiff/snuffy-vtuber-created-by-vammzu/)
 
-0 182 0
+0 112 0
 
 October 15, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-kobywick/)
+[](https://yiff-party.com/yiff-ai-premium/hannah-directed-by-asp791-director-2/)
 
-[nintendo and etc created by kobywick](https://yiff-party.com/yiff/nintendo-and-etc-created-by-kobywick/)
+[hannah directed by asp791 (director)](https://yiff-party.com/yiff-ai-premium/hannah-directed-by-asp791-director-2/)
 
-0 39 0
+0 42 0
 
 October 15, 2024
 
