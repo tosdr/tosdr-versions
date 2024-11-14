@@ -135,12 +135,12 @@ Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159 "Permanent Link : Australia’s 3G shutdown: Why your 4G/5G phone is now blocked")
+* [Trump — the oldest, richest and first felon to be President](https://independentaustralia.net/article-display/trump-the-oldest-richest-and-first-felon-to-be-president,19170 "Permanent Link : Trump — the oldest, richest and first felon to be President")
+* [EDITORIAL: Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/editorial-trump-dutton-and-calling-a-fascist-a-fascist,19169 "Permanent Link : EDITORIAL: Trump, Dutton and calling a fascist a Fascist")
 * [Trump's return brings misogynists out of hiding](https://independentaustralia.net/article-display/trumps-return-brings-misogynists-out-of-hiding,19168 "Permanent Link : Trump's return brings misogynists out of hiding")
 * [AUKUS proves Australia and U.S. to be an Odd Couple](https://independentaustralia.net/article-display/aukus-proves-australia-and-us-to-be-an-odd-couple,19166 "Permanent Link : AUKUS proves Australia and U.S. to be an Odd Couple")
 * [Intelligent systems depend on fusion of biology and technology](https://independentaustralia.net/article-display/intelligent-systems-depend-on-fusion-of-biology-and-technology,19165 "Permanent Link : Intelligent systems depend on fusion of biology and technology")
-* [EDITORIAL: Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/editorial-trump-dutton-and-calling-a-fascist-a-fascist,19169 "Permanent Link : EDITORIAL: Trump, Dutton and calling a fascist a Fascist")
 * [How to minimize distractions while working from home](https://independentaustralia.net/article-display/how-to-minimize-distractions-while-working-from-home,19162 "Permanent Link : How to minimize distractions while working from home")
-* [Republic agenda still on the table 25 years after rejection](https://independentaustralia.net/article-display/republic-agenda-still-on-the-table-25-years-after-rejection,19164 "Permanent Link : Republic agenda still on the table 25 years after rejection")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
