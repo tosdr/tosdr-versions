@@ -219,9 +219,17 @@ If you have any questions about this Privacy Policy, please contact us by email:
 
 ![British Shooting Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2021/01/British_Shooting_Logo_RGB-copy.png)](https://www.britishshooting.org.uk/)
 
+![A purple crown is formed from the silhouettes of many people, representing the volunteers whose work is recognised by the King's Award for Voluntary Service](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![A purple crown is formed from the silhouettes of many people, representing the volunteers whose work is recognised by the King's Award for Voluntary Service](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2024/11/KAVS-Main_Emblem.png)
+
 * [facebook](https://www.facebook.com/rugeleyrifleclub/ "Facebook")
 * [rss](https://www.rugeleyrifleclub.org.uk/feed "RSS")
 * [mastodon](http://%40rugeleyrifleclub@www.rugeleyrifleclub.org.uk/ "Mastodon")
 * [instagram](https://www.instagram.com/rugeleyrifleclub/ "Instagram")
+
+[![NSRA Performance Club Logo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![NSRA Performance Club Logo](https://www.rugeleyrifleclub.org.uk/wp-content/uploads/2024/11/KAVS-Main_Emblem.png)](https://kavs.dcms.gov.uk/)
 
 Copyright Rugeley Rifle Club © 2024 All Rights Reserved. [Website Privacy Policy](https://www.rugeleyrifleclub.org.uk/website-privacy-policy)
