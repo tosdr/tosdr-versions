@@ -4,7 +4,7 @@
 Terms of Use
 ============
 
-last update: 10/10/2024
+last update: 11/14/2024
 
 ### Table of content
 
@@ -153,11 +153,13 @@ Just something to bear in mind -they are optional extras and are not part of our
     
 2. Hindering the functionality of the Services, including reverse engineering, hacking, copying, translating, disassembling, or decompiling of the Services, or creating derivative works in whole or in part, based on them.This also includes attempting to gain unauthorized access to the Services (or any portion thereof), or related **Text’s** systems, networks, or data;
     
-3. Creating a false identity or any attempt to mislead others as to the sender, or the origin of any data or communications, or masking the origin of any data, content, or other information you submit. This includes “spoofing,” “phishing,” manipulating headers or other identifiers, impersonating others, or accessing the Services via another Customer’s Account without their permission;
+3. Creating a false identity or any attempt to mislead others as to the sender, or the origin of any data or communications, or masking the origin of any data, content, or other information you submit as well as creating or distributing content through our Services that misinforms, misrepresents, or otherwise misleads others. This includes “spoofing,” “phishing,” manipulating headers or other identifiers, impersonating others, or accessing the Services via another Customer’s Account without their permission;
     
 4. Using Services in a way that violates the rights or freedoms of others or breaches any laws.This includes failing to inform End-Users about the usage of the Services, as well as failing to obtain required consent for transmitting, recording, collecting, or monitoring data or communications, and sharing offensive, harmful or illegal content on the Services. Additionally, using the Services for benchmarking or any other purposes that could harm **Text’s** business operations or reputation is prohibited.
     
-5. Allowing or encouraging others to commit any of the actions listed above.
+5. Using the Services for automated decision-making in sensitive domains-such as finance, healthcare, legal, employment, housing, insurance, and social welfare-where such decisions could have material impacts on individual rights or well-being.
+    
+6. Allowing or encouraging others to commit any of the actions listed above.
     
 
 We will notify you through appropriate means of any significant changes to these rules for using your Account and the Services.
@@ -256,7 +258,7 @@ All aspects of our Services, from features to the underlying tech, belong entire
 6\. Fees and Payment Terms
 --------------------------
 
-6.1. You acknowledge and agree to pay fees in accordance with the then-current effective rates placed on the Sites applicable for your Services unless otherwise set forth in an Order Form, if any.
+6.1. You acknowledge and agree to pay fees in accordance with the then-current effective rates placed on the Sites applicable for your Services unless otherwise set forth in an Order Form, if any. Any promotions, discounts, or bonuses are applicable only to the Subscription Period during which they were offered. Upon automatic extension of the Agreement for any subsequent periods, standard, current, and up-to-date rates will apply, and any discounts granted may vary unless otherwise agreed.
 
 6.2. The usage of the Services available on the particular Sites is free of charge for some period of time depending on the Services.
 
