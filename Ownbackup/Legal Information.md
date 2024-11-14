@@ -132,6 +132,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Salesforce Data Lifecycle Management: 5 Takeaways for a Leaner, Meaner Org](https://www.ownbackup.com/blog/salesforce-data-lifecycle-management-5-takeaways-for-a-leaner-meaner-org)
+
 [Own Discover
 
 Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
@@ -139,10 +143,6 @@ Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownb
 [Salesforce
 
 Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
-
-[SaaS Data Protection
-
-Strategic 2025 Planning for CIOs: 5 Key Considerations](https://www.ownbackup.com/blog/strategic-2025-planning-for-cios-5-key-considerations)
 
 Company
 
@@ -360,6 +360,10 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Salesforce Data Lifecycle Management: 5 Takeaways for a Leaner, Meaner Org](https://www.ownbackup.com/blog/salesforce-data-lifecycle-management-5-takeaways-for-a-leaner-meaner-org)
+
 [Own Discover
 
 Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
@@ -367,10 +371,6 @@ Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownb
 [Salesforce
 
 Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
-
-[SaaS Data Protection
-
-Strategic 2025 Planning for CIOs: 5 Key Considerations](https://www.ownbackup.com/blog/strategic-2025-planning-for-cios-5-key-considerations)
 
 Company
 
