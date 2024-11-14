@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[Breaking: Metro Atlanta’s heaviest rain in 6 weeks slowing morning commute](https://www.ajc.com/news/atlanta-news/metro-atlantas-heaviest-rain-in-6-weeks-slowing-morning-commute/FTDEHQA52ZGW5IDMIHTHTVU37Q/)
+[Breaking: Justice Department finds “abhorrent, unconstitutional” conditions at Fulton jail](https://www.ajc.com/politics/justice-department-finds-abhorrent-unconstitutional-conditions-at-fulton-jail/2GVOH6KGGBDFZLRBVV33NGO4PE/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1813)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1813)](https://www.ajc.com/)
 
@@ -18,7 +18,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-is-letting-your-kids-roam-a-crime/U5CWOK5B35FGNPLP6PBLF5MV7A/)
+* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-nov-15-17/ZW5WDEO5NVDTXDZXELR7BGMRSQ/)
 * [Georgia Election Results](https://www.ajc.com/politics/election-results/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
