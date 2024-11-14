@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [LaserAge](https://www.myabandonware.com/game/laserage-t0g)
+* [Spuds Quest](https://www.myabandonware.com/game/spuds-quest-t0c)
 * [Ninjets: XKalibre's Feat](https://www.myabandonware.com/game/ninjets-xkalibre-s-feat-t0a)
 * [Buster](https://www.myabandonware.com/game/buster-t09)
 * [The Adventures of Tom Sawyer](https://www.myabandonware.com/game/the-adventures-of-tom-sawyer-t08)
-* [Boulder](https://www.myabandonware.com/game/boulder-tpb)
-* [Boulder Dash](https://www.myabandonware.com/game/boulder-dash-tpa)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
