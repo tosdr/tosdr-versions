@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/2011-en-verder/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-ufo-op-de-vrachtwagen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
