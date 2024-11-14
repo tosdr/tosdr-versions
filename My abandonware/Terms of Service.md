@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 32200 old games to download for free!
+More than 32300 old games to download for free!
 
  
 
@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [LaserAge](https://www.myabandonware.com/game/laserage-t0g)
-* [Spuds Quest](https://www.myabandonware.com/game/spuds-quest-t0c)
-* [Ninjets: XKalibre's Feat](https://www.myabandonware.com/game/ninjets-xkalibre-s-feat-t0a)
-* [Buster](https://www.myabandonware.com/game/buster-t09)
-* [The Adventures of Tom Sawyer](https://www.myabandonware.com/game/the-adventures-of-tom-sawyer-t08)
+* [Clone](https://www.myabandonware.com/game/clone-tpg)
+* [Classic Jumpman](https://www.myabandonware.com/game/classic-jumpman-tpf)
+* [Chickie Egg](https://www.myabandonware.com/game/chickie-egg-tpe)
+* [Chenard](https://www.myabandonware.com/game/chenard-tpd)
+* [Bref](https://www.myabandonware.com/game/bref-tpc)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Puzzle Bobble 2X & Space Invaders](https://www.myabandonware.com/game/puzzle-bobble-2x-space-invaders-qjo)
-* [Time Pilot '84](https://www.myabandonware.com/game/time-pilot-84-rjr)
-* [Marvel vs. Capcom 2: New Age Of Heroes](https://www.myabandonware.com/game/marvel-vs-capcom-2-new-age-of-heroes-sox)
+* [Oli-Boo-Chu](https://www.myabandonware.com/game/oli-boo-chu-rso)
+* [Best of the Indies](https://www.myabandonware.com/game/best-of-the-indies-kmu)
+* [Jonah: A VeggieTales Game](https://www.myabandonware.com/game/jonah-a-veggietales-game-m96)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
