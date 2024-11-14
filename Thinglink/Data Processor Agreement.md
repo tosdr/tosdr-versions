@@ -253,7 +253,7 @@ Sign up
 
  OR
 
-[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=VtUZfhU7PY7PvKjSx4TM2q&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/subprocessors "Login with Microsoft.")   [](# "Login with Google.")luNuj9r9dazBA6vKjEknhAf4hdWGB3\_f\_PgoaUXkn413HnV5c6xwqd-cAOizCSdg
+[Login with Microsoft](https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=5a5c866c-0105-4bc4-ae0d-3e995d07a028&response_type=id_token+code&nonce=26TjjNS18CqJWz2XRPTrxs&scope=openid%20profile%20email%20User.Read&response_mode=form_post&redirect_uri=https://www.thinglink.com/action/azurelogin&state=r:/subprocessors "Login with Microsoft.")   [](# "Login with Google.")QDhuyv7AmByGo4-WNZgWl8y3E5hL6HPsLKRc1hwLF5ZaAKAp76hKWd-cAOizCSdg
 
   [](#)[Login with Clever](https://clever.com/oauth/authorize?response_type=code&redirect_uri=https%3A%2F%2Fwww.thinglink.com%2Faction%2Fcleverlogin&client_id=35ec47d01b85ff7bf80d "Login with Clever.") [Login with Facebook](https://www.facebook.com/dialog/oauth?client_id=163019823751039&scope=email&redirect_uri=https://www.thinglink.com/action/fblogin&state=r:/subprocessors "Login with Facebook.") [Login with MPASSid](https://www.thinglink.com/auth/mpassid/login "Login with MPASSid")
 
@@ -267,3 +267,5 @@ By signing up you agree to the [Terms of Service](https://www.thinglink.com/term
 
 Join a community of 10M+ content creators and some of the world's most recognized companies and education institutions
 ----------------------------------------------------------------------------------------------------------------------
+
+![](https://px.ads.linkedin.com/collect/?pid=6776580&fmt=gif)
