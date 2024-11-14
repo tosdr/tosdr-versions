@@ -535,37 +535,37 @@ Looking for the perfect gift? Send a [Houzz Gift Card!](https://www.houzz.com/gi
 
 Cancel
 
-[Bed & Bath Sale Sale](https://www.houzz.com/sales)
+[Black Friday Sneak Peek Sale](https://www.houzz.com/products/sale-event--black-friday-sale)
 
 [ON SALE - UP TO 75% OFF](https://www.houzz.com/sales)
 
 [Bathroom Vanities](https://www.houzz.com/products/bathroom-vanities-and-sink-consoles/on-sale)[Chandeliers](https://www.houzz.com/products/chandeliers/on-sale)[Bar Stools](https://www.houzz.com/products/bar-stools-and-counter-stools/on-sale)[Pendant Lights](https://www.houzz.com/products/pendant-lighting/on-sale)[Rugs](https://www.houzz.com/products/rugs/on-sale)[Living Room Chairs](https://www.houzz.com/products/chairs/on-sale)[Dining Room Furniture](https://www.houzz.com/products/kitchen-and-dining-furniture/on-sale)[Wall Lighting](https://www.houzz.com/products/wall-lighting/on-sale)[Coffee Tables](https://www.houzz.com/products/coffee-tables/on-sale)[Side & End Tables](https://www.houzz.com/products/side-tables-and-accent-tables/on-sale)[Home Office Furniture](https://www.houzz.com/products/home-office-furniture/on-sale)[Sofas](https://www.houzz.com/products/sofas/on-sale)[Bedroom Furniture](https://www.houzz.com/products/bedroom-furniture/on-sale)[Lamps](https://www.houzz.com/products/lamps/on-sale)[Mirrors](https://www.houzz.com/products/mirrors/on-sale)
 
-[Bed & Bath Sale](https://www.houzz.com/sales)
+[Black Friday Sneak Peek](https://www.houzz.com/products/sale-event--black-friday-sale)
 
-[![The Ultimate Bedroom Sale](https://st.hzcdn.com/fimgs/1e71d11d072c440c_4252-w150-h150-b0-p0--home-design.jpg)
+[![Deals on Furniture](https://st.hzcdn.com/fimgs/9a911d3c0735a02c_7660-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 55% OFF
+UP TO 75% OFF
 
-The Ultimate Bedroom Sale](https://www.houzz.com/ideabooks/141498082) 
+Deals on Furniture](https://www.houzz.com/ideabooks/163284806) 
 
-[![The Ultimate Bathroom Sale](https://st.hzcdn.com/fimgs/33013b99072c4415_4262-w150-h150-b0-p0--home-design.jpg)
+[![Black Friday Deals Under $199](https://st.hzcdn.com/fimgs/ea7150840735a02f_7663-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 65% OFF
+UP TO 75% OFF
 
-The Ultimate Bathroom Sale](https://www.houzz.com/ideabooks/170385531) 
+Black Friday Deals Under $199](https://www.houzz.com/ideabooks/178726942) 
 
-[![Bestselling Bedroom Storage](https://st.hzcdn.com/fimgs/43218569072c4412_4259-w150-h150-b0-p0--home-design.jpg)
+[![Deals on Home Decor](https://st.hzcdn.com/fimgs/c2415f700735a02a_7659-w150-h150-b0-p0--home-design.jpg)
 
-UP TO 50% OFF
+UP TO 75% OFF
 
-Bestselling Bedroom Storage](https://www.houzz.com/ideabooks/171361306) 
+Deals on Home Decor](https://www.houzz.com/ideabooks/178751287) 
 
-[![Little and Luxurious Powder Room](https://st.hzcdn.com/fimgs/ea612964072c4411_4257-w150-h150-b0-p0--home-design.jpg)
+[![Black Friday Favorites](https://st.hzcdn.com/fimgs/e3713a910735a026_7654-w150-h150-b0-p0--home-design.jpg)
 
-BESTSELLERS
+UP TO 75% OFF
 
-Little and Luxurious Powder Room](https://www.houzz.com/ideabooks/178457896) 
+Black Friday Favorites](https://www.houzz.com/ideabooks/178755967) 
 
 [![Shop Promo Banner](https://st.hzcdn.com/fimgs/b141e8a6072cb488_3054-w566-h722-b0-p0--home-design.jpg)](https://www.houzz.com/sales) 
 
