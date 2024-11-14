@@ -138,6 +138,20 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Did you subscribe to gain access to our VIP Black ![Did you subscribe to gain access to our VIP Black Friday? CHECK YOUR INBOX! Your VIP EARLY ACCESS deal has been sent! This is a BIGGER discount than our public Black Friday sale happening later this month. And it's only available to email subscribers. Miss the boat? Sign up today via the link in our bio for one last chance to receive this promotion on Saturday.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCUZP94Pt4z/) 
+
+[Salivary gland damage may soon see a more effectiv ![Salivary gland damage may soon see a more effective treatment. Researchers aim to regenerate damaged glands using stem cell research and advanced biomedicine. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCUNeziOhMF/) 
+
 [Crown lengthening is essential for creating a stab ![Crown lengthening is essential for creating a stable biological foundation in restorative dentistry, ensuring long-term success. By understanding the significance of diagnosing altered passive eruption (APE) and applying an interdisciplinary approach, clinicians can optimize both functional and esthetic outcomes while preserving soft and hard tissue health. Link in bio.⁠
 ⁠
 ⁠
@@ -168,18 +182,6 @@ By Bright Chang, DMD, MS⁠
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCJ6TBOtWwz/) 
-
-[Get ready for an EXCLUSIVE Black Friday CE deal th ![Get ready for an EXCLUSIVE Black Friday CE deal that’s BIGGER than our main event! 📣🎉🙌🏼
-🔓📧Subscribe to our emails before Nov 13 and unlock EXTRA SAVINGS in your inbox!
-👉🏼Click the link in our bio, then click “Join Our Newsletter”
-#dentist #dentistry #dental #dds #dentalcare #oralhealth #oralcare #oralhygiene](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCH2fJaiXJL/) 
-
-[Achieving predictable and lasting esthetic outcome ![Achieving predictable and lasting esthetic outcomes with immediate implant placement requires meticulous planning and adherence to 10 essential keys. From proper implant sizing to managing gingival phenotypes, this structured approach ensures optimal bone stability and soft tissue preservation, minimizing long-term complications. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCHcXcXuLeN/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
@@ -229,15 +231,16 @@ This website uses cookies to improve your experience. We'll assume you're ok wit
 
 [](#)
 
-#### YEAR-END CE SALE
+#### BLACK FRIDAY / CYBER MONDAY  
+CE PROMOTION
 
 Coupon has expired
 
 [Get the Details](#)
 
-Get your units by year-end or buy now to get the discount and complete the courses next year. All at discounted pricing!
+Stay top of your profession with our evidence-based peer-reviewed continuing education courses written by world-class educators and researchers!
 
-Get Special CE Savings!
+Get Black Friday CE Savings!
 
 \_\_\_\_
 
