@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I thought the FoxyProxy service was very good.
+I thought the service worked perfectly and I would most likely sign up for a recurring plan next time. I used it to access BBC online content in Ireland.
 
-Nic Barnes
+Michael Emberley
