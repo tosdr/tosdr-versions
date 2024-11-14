@@ -79,10 +79,11 @@
     
 * Solutions
     
-    * * [AI and Machine Learning](https://www.paperspace.com/?utm_medium=referral&utm_source=solutions-nav)Develop, train, and deploy AI apps
+    * * [AI and Machine Learning](https://www.digitalocean.com/products/ai-ml)Develop, train, and deploy AI apps
             
-            * [GPUs](https://www.paperspace.com/gpu-cloud?utm_medium=referral&utm_source=solutions-nav)
-            * [Notebook IDE](https://www.paperspace.com/notebooks?utm_medium=referral&utm_source=solutions-nav)
+            * [GPUs](https://www.digitalocean.com/products/gpu-droplets)
+            * [GenAI Platform](https://www.digitalocean.com/products/gen-ai)
+            * [1-Click Models](https://www.digitalocean.com/products/ai-ml/1-click-models)
         * [Blockchain](https://www.digitalocean.com/solutions/blockchain)Infrastructure for decentralized apps
             
         * [Blogs, Forums and Content Websites](https://www.digitalocean.com/solutions/content-hosting)Lightning-fast, reliable CMS hosting
