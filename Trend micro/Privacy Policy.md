@@ -340,15 +340,15 @@ search close
                 
                 ![](https://trendmicro.scene7.com/is/image/trendmicro/sps-mobile-security-enterprise-console-shot?scl=1.0&qlt=95&fmt=webp-alpha)
                 
-    * [Network Security](https://www.trendmicro.com/en_us/about/b-nav-network-security)
+    * [Network Security](https://www.trendmicro.com/en_us/business/products/network.html)
         
-        * [Network Security](https://www.trendmicro.com/en_us/about/b-nav-network-security)
+        * [Network Security](https://www.trendmicro.com/en_us/business/products/network.html)
             
             * Network Security Overview
                 
                 Expand the power of XDR with network detection and response
                 
-                [Learn more](https://www.trendmicro.com/en_us/about/b-nav-network-security)
+                [Learn more](https://www.trendmicro.com/en_us/business/products/network.html)
                 
         * [XDR for Network](https://www.trendmicro.com/en_us/business/products/detection-response/xdr.html)
             
