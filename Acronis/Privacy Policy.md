@@ -118,7 +118,7 @@ Menu Close
     
     Data protection
     
-    [Advanced Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [File Sync & Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/)
+    [Advanced Backup](https://www.acronis.com/en-us/products/cloud/cyber-protect/backup/) [Disaster Recovery](https://www.acronis.com/en-us/products/cloud/cyber-protect/disaster-recovery/) [File Sync & Share](https://www.acronis.com/en-us/products/cloud/cyber-protect/file-sync-and-share/) [Email Archiving for Microsoft 365](https://www.acronis.com/en-us/solutions/email-archiving/) [Ultrafast backup for Microsoft 365](https://www.acronis.com/en-us/products/cloud/cyber-protect/m365-backup/)
     
     MSP operations
     
