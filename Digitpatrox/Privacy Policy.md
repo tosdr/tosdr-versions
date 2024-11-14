@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Wednesday, November 13 2024
+Thursday, November 14 2024
 
 Latest
 
-* [US indicts Snowflake hackers who extorted $2.5 million from 3 victims](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
-* [Meta must face FTC trial that could separate Instagram and WhatsApp](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
-* [Arcane Season 2: What Happened to Viktor?](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
-* [How to Change Location on Hinge](https://digitpatrox.com/how-to-change-location-on-hinge/)
-* [The infamous Volt Typhoon hacker group is back](https://digitpatrox.com/the-infamous-volt-typhoon-hacker-group-is-back/)
-* [4 ways to use your phone as a webcam on Windows – Computerworld](https://digitpatrox.com/4-ways-to-use-your-phone-as-a-webcam-on-windows-computerworld/)
-* [This Netgear Orbi 6E Wifi Mesh System Is $500 Off Right Now](https://digitpatrox.com/this-netgear-orbi-6e-wifi-mesh-system-is-500-off-right-now/)
-* [American Associated Pharmacies resets all user passwords after ransomware gang claims responsibility for cyber attack](https://digitpatrox.com/american-associated-pharmacies-resets-all-user-passwords-after-ransomware-gang-claims-responsibility-for-cyber-attack/)
-* [Car Brands Ranked by Maintenance and Repair Costs Over Time](https://digitpatrox.com/car-brands-ranked-by-maintenance-and-repair-costs-over-time/)
-* [This Is When Your iPhone Will (Probably) Get Image Playground & ChatGPT Integration](https://digitpatrox.com/this-is-when-your-iphone-will-probably-get-image-playground-chatgpt-integration/)
+* [The CIO’s quantum leap into the cloud: Integrating quantum computing into cloud infrastructure](https://digitpatrox.com/the-cios-quantum-leap-into-the-cloud-integrating-quantum-computing-into-cloud-infrastructure/)
+* [Effective IT Budgeting: Strategies for Prioritizing Investments](https://digitpatrox.com/effective-it-budgeting-strategies-for-prioritizing-investments/)
+* [NYT Connections today hints and answers — Thursday, November 14 (#522)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-14-522/)
+* [US govt officials’ communications compromised in recent telecom hack](https://digitpatrox.com/us-govt-officials-communications-compromised-in-recent-telecom-hack/)
+* [Apple updates Logic Pro with new sounds and search features](https://digitpatrox.com/apple-updates-logic-pro-with-new-sounds-and-search-features/)
+* [NYT Strands Today: Hints, Answers & Spangram for November 14](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-14/)
+* [AI PCs might be all the rage, but the channel isn’t fully sold](https://digitpatrox.com/ai-pcs-might-be-all-the-rage-but-the-channel-isnt-fully-sold/)
+* [VMware makes Workstation and Fusion free for everyone – Computerworld](https://digitpatrox.com/vmware-makes-workstation-and-fusion-free-for-everyone-computerworld/)
+* [Apple Arcade Is Getting 15 New Games](https://digitpatrox.com/apple-arcade-is-getting-15-new-games/)
+* [Can you bypass local Facebook newsfeed restrictions with a VPN?](https://digitpatrox.com/can-you-bypass-local-facebook-newsfeed-restrictions-with-a-vpn/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/06/24/justice-3.jpg)](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
+* [![](https://cdn.mos.cms.futurecdn.net/rgeZT75L2teiiLtZGFKjJ5-1200-80.jpg)](https://digitpatrox.com/the-cios-quantum-leap-into-the-cloud-integrating-quantum-computing-into-cloud-infrastructure/)
     
-    [US indicts Snowflake hackers who extorted $2.5 million from 3 victims](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
+    [The CIO’s quantum leap into the cloud: Integrating quantum computing into cloud infrastructure](https://digitpatrox.com/the-cios-quantum-leap-into-the-cloud-integrating-quantum-computing-into-cloud-infrastructure/)
     
-    31 minutes ago
+    8 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/aFVf1nZ5PjZNbxd151IaoqXfmvA=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951355/STK043_VRG_Illo_N_Barclay_1_Meta.jpg)](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241113-it-budgeting-the-smart-persons-guide.jpg)](https://digitpatrox.com/effective-it-budgeting-strategies-for-prioritizing-investments/)
     
-    [Meta must face FTC trial that could separate Instagram and WhatsApp](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
+    [Effective IT Budgeting: Strategies for Prioritizing Investments](https://digitpatrox.com/effective-it-budgeting-strategies-for-prioritizing-investments/)
     
-    49 minutes ago
+    12 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/arcane-season-2-viktor.jpg)](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
+* [![](https://cdn.mos.cms.futurecdn.net/wNvLvjTssKAz44xARheeHW-1200-80.jpg)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-14-522/)
     
-    [Arcane Season 2: What Happened to Viktor?](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
+    [NYT Connections today hints and answers — Thursday, November 14 (#522)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-14-522/)
+    
+    16 minutes ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/13/telecom-hack.jpg)](https://digitpatrox.com/us-govt-officials-communications-compromised-in-recent-telecom-hack/)
+    
+    [US govt officials’ communications compromised in recent telecom hack](https://digitpatrox.com/us-govt-officials-communications-compromised-in-recent-telecom-hack/)
     
     1 hour ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-change-location-on-Hinge.jpg)](https://digitpatrox.com/how-to-change-location-on-hinge/)
+* [![](https://cdn.vox-cdn.com/thumbor/8hMNvf94hHJzi9xjH43IwAdpkOo=/0x0:3840x2560/1200x628/filters:focal(1920x1280:1921x1281)/cdn.vox-cdn.com/uploads/chorus_asset/file/25731695/Apple_Logic_Pro_for_Mac_11_1_Quantec_Room_Simulator.jpg)](https://digitpatrox.com/apple-updates-logic-pro-with-new-sounds-and-search-features/)
     
-    [How to Change Location on Hinge](https://digitpatrox.com/how-to-change-location-on-hinge/)
+    [Apple updates Logic Pro with new sounds and search features](https://digitpatrox.com/apple-updates-logic-pro-with-new-sounds-and-search-features/)
     
     2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/D6hvhc8ZrWoC2dXjvMxggB-1200-80.jpg)](https://digitpatrox.com/the-infamous-volt-typhoon-hacker-group-is-back/)
-    
-    [The infamous Volt Typhoon hacker group is back](https://digitpatrox.com/the-infamous-volt-typhoon-hacker-group-is-back/)
-    
-    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [31 minutes ago
+* [8 minutes ago
     
-    ### US indicts Snowflake hackers who extorted $2.5 million from 3 victims](https://digitpatrox.com/us-indicts-snowflake-hackers-who-extorted-2-5-million-from-3-victims/)
-* [49 minutes ago
+    ### The CIO’s quantum leap into the cloud: Integrating quantum computing into cloud infrastructure](https://digitpatrox.com/the-cios-quantum-leap-into-the-cloud-integrating-quantum-computing-into-cloud-infrastructure/)
+* [12 minutes ago
     
-    ### Meta must face FTC trial that could separate Instagram and WhatsApp](https://digitpatrox.com/meta-must-face-ftc-trial-that-could-separate-instagram-and-whatsapp/)
-* [1 hour ago
+    ### Effective IT Budgeting: Strategies for Prioritizing Investments](https://digitpatrox.com/effective-it-budgeting-strategies-for-prioritizing-investments/)
+* [16 minutes ago
     
-    ### Arcane Season 2: What Happened to Viktor?](https://digitpatrox.com/arcane-season-2-what-happened-to-viktor/)
+    ### NYT Connections today hints and answers — Thursday, November 14 (#522)](https://digitpatrox.com/nyt-connections-today-hints-and-answers-thursday-november-14-522/)
 
 Most Popular Topics
 
-* [August 17, 2024
+* [September 3, 2024
     
-    ### For August, Patch Tuesday means patch now – Computerworld](https://digitpatrox.com/for-august-patch-tuesday-means-patch-now-computerworld/)
-* [August 16, 2024
+    ### The 6 Best Antivirus Software Options for Windows in 2024](https://digitpatrox.com/the-6-best-antivirus-software-options-for-windows-in-2024/)
+* [4 weeks ago
     
-    ### Steve Jobs’ decades-old vision of a chatbot bears some resemblance to modern generative AI tools](https://digitpatrox.com/steve-jobs-decades-old-vision-of-a-chatbot-bears-some-resemblance-to-modern-generative-ai-tools/)
-* [September 20, 2024
+    ### How to leverage $200 million FCC program boosting K-12 cybersecurity](https://digitpatrox.com/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
+* [6 days ago
     
-    ### Transformers One Post-Credits Scene Explained](https://digitpatrox.com/transformers-one-post-credits-scene-explained/)
+    ### IT services spending set to surge in 2025 as CIOs shift to AI partner solutions](https://digitpatrox.com/it-services-spending-set-to-surge-in-2025-as-cios-shift-to-ai-partner-solutions/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### This Netgear Orbi 6E Wifi Mesh System Is $500 Off Right Now](https://digitpatrox.com/this-netgear-orbi-6e-wifi-mesh-system-is-500-off-right-now/)
 * [4 hours ago
     
-    ### American Associated Pharmacies resets all user passwords after ransomware gang claims responsibility for cyber attack](https://digitpatrox.com/american-associated-pharmacies-resets-all-user-passwords-after-ransomware-gang-claims-responsibility-for-cyber-attack/)
+    ### AI PCs might be all the rage, but the channel isn’t fully sold](https://digitpatrox.com/ai-pcs-might-be-all-the-rage-but-the-channel-isnt-fully-sold/)
 * [4 hours ago
     
-    ### Car Brands Ranked by Maintenance and Repair Costs Over Time](https://digitpatrox.com/car-brands-ranked-by-maintenance-and-repair-costs-over-time/)
+    ### VMware makes Workstation and Fusion free for everyone – Computerworld](https://digitpatrox.com/vmware-makes-workstation-and-fusion-free-for-everyone-computerworld/)
+* [4 hours ago
+    
+    ### Apple Arcade Is Getting 15 New Games](https://digitpatrox.com/apple-arcade-is-getting-15-new-games/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 28, 2024
     
     ### Getting Your iPhone Repaired Could Ban You From Snapchat](https://digitpatrox.com/getting-your-iphone-repaired-could-ban-you-from-snapchat/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
