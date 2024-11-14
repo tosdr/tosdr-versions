@@ -208,6 +208,8 @@ this hour
 
 * * *
 
+* [Can We Live On Our Planet Without Destroying It?](https://www.sciencedaily.com/releases/2024/11/241113123119.htm)
+* [Liquid Water On Mars 742 Million Years Ago](https://www.sciencedaily.com/releases/2024/11/241113160829.htm)
 * [Gas-Churning Monster Black Holes](https://www.sciencedaily.com/releases/2024/11/241113123542.htm)
 * [Bird Brain from Age of Dinosaurs: Intelligence](https://www.sciencedaily.com/releases/2024/11/241113123306.htm)
 * [Three Galactic 'Red Monsters' in Early Universe](https://www.sciencedaily.com/releases/2024/11/241113123127.htm)
@@ -216,8 +218,6 @@ this hour
 * [Time Alone Heightens 'Threat Alert' in Teens](https://www.sciencedaily.com/releases/2024/11/241112190857.htm)
 * [How Can Humanity Limit Warming to 1.5°C?](https://www.sciencedaily.com/releases/2024/11/241112123259.htm)
 * [Synthetic Cells Emulate Cell Cell Communication](https://www.sciencedaily.com/releases/2024/11/241112123803.htm)
-* [Breakthrough in Photonic Time Crystals](https://www.sciencedaily.com/releases/2024/11/241112123307.htm)
-* [Fossil Fuel CO2 Emissions Increase Again in 2024](https://www.sciencedaily.com/releases/2024/11/241112191227.htm)
 
 Trending Topics
 ---------------
@@ -244,11 +244,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Microbiology](https://www.sciencedaily.com/news/plants_animals/microbiology/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Organic](https://www.sciencedaily.com/news/plants_animals/organic/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+[New Species](https://www.sciencedaily.com/news/plants_animals/new_species/)
 
   
 
