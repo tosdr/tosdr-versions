@@ -228,12 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-Want more news before we break it? Try
+If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-See what's behind the green door  
-and help keep the tap flowing
+More Farking, less working
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -333,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [ONO](https://www.fark.com/goto/13462244) ( [wfsb.com](https://www.fark.com/goto/13462244) ) » [(5 comments)](https://www.fark.com/comments/13462244/ONO) |
-| [Discussion](https://www.fark.com/discussion/) | [Tonight on AEW Dynamite: Adam Cole takes on Takeshiata, Lio Rush faces Swerve, FTR vs House of Black, Britt & Penelope have a match and we hear from Mox, Ospreay & Lashley. This and more starting at 8 PM ET on TBS](https://www.fark.com/goto/13461830) ( [allelitewrestling.com](https://www.fark.com/goto/13461830) ) » [(17 comments)](https://www.fark.com/comments/13461830/Tonight-on-AEW-Dynamite-Adam-Cole-takes-on-Takeshiata-Lio-Rush-faces-Swerve-FTR-vs-House-of-Black-Britt-Penelope-have-a-match-we-hear-from-Mox-Ospreay-Lashley-This-more-starting-at-8-PM-ET-on-TBS) |
-| [Sports](https://www.fark.com/sports/) | [Keith Hernandez's cat has fielded his last groundball to first](https://www.fark.com/goto/13462142) ( [mlb.com](https://www.fark.com/goto/13462142) ) » [(2 comments)](https://www.fark.com/comments/13462142/Keith-Hernandezs-cat-has-fielded-his-last-groundball-to-first) |
-| [Business](https://www.fark.com/business/) | [19th century rush was gold. 20th was oil. The 21th is the Broadcast Land Grab, with illustration of the head bread and circus landscaper](https://www.fark.com/goto/13461706) ( [hollywoodreporter.com](https://www.fark.com/goto/13461706) ) » [(9 comments)](https://www.fark.com/comments/13461706/-19th-century-rush-was-gold-20th-was-oil-The-21th-is-Broadcast-Land-Grab-with-illustration-of-head-bread-circus-landscaper) |
-| [STEM](https://www.fark.com/stem/) | [Headline: University is still operating Voyager Plasma Wave Instrument. Story: Bill, who worked on the instrument as a grad student, is still operating it 45 years later. Tag is for Bill](https://www.fark.com/goto/13462148) ( [physics.uiowa.edu](https://www.fark.com/goto/13462148) ) » [(10 comments)](https://www.fark.com/comments/13462148/Headline-University-is-still-operating-Voyager-Plasma-Wave-Instrument-Story-Bill-who-worked-on-instrument-as-a-grad-student-is-still-operating-it-45-years-later-Tag-is-for-Bill) |
-| [Entertainment](https://www.fark.com/entertainment/) | ["Being a teacher is exhausting after my WWE run . . . but I haven't quit wrestling"](https://www.fark.com/goto/13462092) ( [metro.co.uk](https://www.fark.com/goto/13462092) ) » [(3 comments)](https://www.fark.com/comments/13462092/Being-a-teacher-is-exhausting-after-my-WWE-run-but-I-havent-quit-wrestling) |
-| [Fandom](https://www.fark.com/fandom/) | [Episode 7 of Superman & Lois did something that has never been done before \*Spoilers\*](https://www.fark.com/goto/13462180) ( [screenrant.com](https://www.fark.com/goto/13462180) ) » [(16 comments)](https://www.fark.com/comments/13462180/Episode-7-of-Superman-Lois-did-something-that-has-never-been-done-before-Spoilers) |
-| [D'awww](https://www.fark.com/dawww/) | [Wild beluga retrieves a cellphone dropped from a boat](https://www.fark.com/goto/13461932) ( [dailymail.co.uk](https://www.fark.com/goto/13461932) ) » [(2 comments)](https://www.fark.com/comments/13461932/Wild-beluga-retrieves-a-cellphone-dropped-from-a-boat) |
-| [Food](https://www.fark.com/food/) | [I saw these flour products in the store today. Anyone ever tried coffee flour?](https://www.fark.com/goto/13462034) ( [groundupev.com](https://www.fark.com/goto/13462034) ) » [(15 comments)](https://www.fark.com/comments/13462034/I-saw-these-flour-products-in-store-today-Anyone-ever-tried-coffee-flour) |
-| [Politics](https://www.fark.com/politics/) | [And Trump's pick for Agriculture Secretary is a notorious sexual predator because OF FARKING COURSE](https://www.fark.com/goto/13462260) ( [1011now.com](https://www.fark.com/goto/13462260) ) » [(9 comments)](https://www.fark.com/comments/13462260/And-Trumps-pick-for-Agriculture-Secretary-is-a-notorious-sexual-predator-because-OF-FARKING-COURSE) |
+| [Main](https://www.fark.com/) | [Orange gas cloud leaks from waste plant in Taoyuan's Guanyin District. Don't blame me, I didn't have the Cheetos](https://www.fark.com/goto/13462314) ( [taipeitimes.com](https://www.fark.com/goto/13462314) ) » [(3 comments)](https://www.fark.com/comments/13462314/Orange-gas-cloud-leaks-from-waste-plant-in-Taoyuans-Guanyin-District-Dont-blame-me-I-didnt-have-Cheetos) |
+| [Discussion](https://www.fark.com/discussion/) | [Now that Fark is 25 years old, it's time to consider what terrifyingly stupid forgotten Fark traditions should be brought back from the depths of obscurity](https://www.fark.com/goto/13462300) ( [salon.com](https://www.fark.com/goto/13462300) ) » [(43 comments)](https://www.fark.com/comments/13462300/Now-that-Fark-is-25-years-old-its-time-to-consider-what-terrifyingly-stupid-forgotten-Fark-traditions-should-be-brought-back-from-depths-of-obscurity) |
+| [Sports](https://www.fark.com/sports/) | [There are a lot of nice strokes in the NBA. This is not one of them](https://www.fark.com/goto/13462482) ( [the-sun.com](https://www.fark.com/goto/13462482) ) » [(1 comment)](https://www.fark.com/comments/13462482/There-are-a-lot-of-nice-strokes-in-NBA-This-is-not-one-of-them) |
+| [Business](https://www.fark.com/business/) | [Amazon Haul, it's Temu competitor, is now available in-app including shipping direct from China](https://www.fark.com/goto/13462478) ( [gizmodo.com](https://www.fark.com/goto/13462478) ) » [(5 comments)](https://www.fark.com/comments/13462478/Amazon-Haul-its-Temu-competitor-is-now-available-in-app-including-shipping-direct-from-China) |
+| [STEM](https://www.fark.com/stem/) | [Ahh, yes. A scammer's worst nightmare: A grandma talking about knitting](https://www.fark.com/goto/13462434) ( [metro.co.uk](https://www.fark.com/goto/13462434) ) » [(4 comments)](https://www.fark.com/comments/13462434/Ahh-yes-A-scammers-worst-nightmare-A-grandma-talking-about-knitting) |
+| [Entertainment](https://www.fark.com/entertainment/) | [For some crazy, inexplicable reason, Pharrell Williams' new, self-written, Lego-themed musical biopic doesn't mention one single word about the $5 million plagiarism lawsuit against him](https://www.fark.com/goto/13462672) ( [bbc.com](https://www.fark.com/goto/13462672) ) » [(1 comment)](https://www.fark.com/comments/13462672/For-some-crazy-inexplicable-reason-Pharrell-Williams-new-self-written-Lego-themed-musical-biopic-doesnt-mention-one-single-word-about-$5-million-plagiarism-lawsuit-against-him) |
+| [Fandom](https://www.fark.com/fandom/) | [The impact of jungle music in 1990s video game development. So... 🎵 they've got jungle fever 🎵 ?](https://www.fark.com/goto/13462552) ( [pikuma.com](https://www.fark.com/goto/13462552) ) » [(11 comments)](https://www.fark.com/comments/13462552/The-impact-of-jungle-music-in-1990s-video-game-development-So-theyve-got-jungle-fever-) |
+| [D'awww](https://www.fark.com/dawww/) | [Arctic fox found wandering around Portland is going to a Wisconsin zoo, don't cha know?](https://www.fark.com/goto/13462374) ( [yahoo.com](https://www.fark.com/goto/13462374) ) » [(1 comment)](https://www.fark.com/comments/13462374/Arctic-fox-found-wandering-around-Portland-is-going-to-a-Wisconsin-zoo-dont-cha-know) |
+| [Food](https://www.fark.com/food/) | [One of the few excellent things left about America, pecan pie, is intentionally being made worse this month](https://www.fark.com/goto/13462436) ( [177milkstreet.com](https://www.fark.com/goto/13462436) ) » [(4 comments)](https://www.fark.com/comments/13462436/One-of-few-excellent-things-left-about-America-pecan-pie-is-intentionally-being-made-worse-this-month) |
+| [Politics](https://www.fark.com/politics/) | [Worst. "He was just joking." Ever](https://www.fark.com/goto/13462614) ( [thehill.com](https://www.fark.com/goto/13462614) ) » [(22 comments)](https://www.fark.com/comments/13462614/Worst-He-was-just-joking-Ever) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -352,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 14 2024 01:42:36  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 14 2024 08:42:29  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
