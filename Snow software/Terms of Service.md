@@ -110,11 +110,11 @@ Main navigation
             * [Demos & trials](https://www.flexera.com/resources?type%5Bdemo-trials%5D=demo-trials)
             * [Business value calculator](https://www.flexera.com/resources/business-value-calculator)
     
-    ### Flexera 2024 State of ITAM Report
+    ### Flexera 2025 IT Priorities Report
     
-    How are ITAM professionals optimizing IT assets? Check out the 2024 State of ITAM Report to discover the latest trends.
+    Insights from Flexera’s 2025 IT Priorities Report highlight what’s top of mind for IT decision makers in the year ahead. Discover the challenges, priorities and opportunities that will shape the future IT landscape.
     
-    [View Report](https://info.flexera.com/ITAM-REPORT-State-of-IT-Asset-Management?lead_source=Website%20Visitor&id=Flexera.com-Resources)
+    [View Report](https://info.flexera.com/ITV-REPORT-IT-Priorities)
     
 * About
     * Column 1
