@@ -179,13 +179,13 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [IA is fighting for its life and its survival depends on YOU!](https://independentaustralia.net/article-display/ia-is-fighting-for-its-life-and-its-survival-depends-on-you,19172 "Permanent Link : IA is fighting for its life and its survival depends on YOU!")
 * [Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159 "Permanent Link : Australia’s 3G shutdown: Why your 4G/5G phone is now blocked")
+* [International Day of People with Disabilities: Amplification Gone Wrong](https://independentaustralia.net/article-display/international-day-of-people-with-disabilities-amplification-gone-wrong,19171 "Permanent Link : International Day of People with Disabilities: Amplification Gone Wrong")
 * [Trump — the oldest, richest and first felon to be President](https://independentaustralia.net/article-display/trump-the-oldest-richest-and-first-felon-to-be-president,19170 "Permanent Link : Trump — the oldest, richest and first felon to be President")
 * [EDITORIAL: Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/editorial-trump-dutton-and-calling-a-fascist-a-fascist,19169 "Permanent Link : EDITORIAL: Trump, Dutton and calling a fascist a Fascist")
 * [Trump's return brings misogynists out of hiding](https://independentaustralia.net/article-display/trumps-return-brings-misogynists-out-of-hiding,19168 "Permanent Link : Trump's return brings misogynists out of hiding")
 * [AUKUS proves Australia and U.S. to be an Odd Couple](https://independentaustralia.net/article-display/aukus-proves-australia-and-us-to-be-an-odd-couple,19166 "Permanent Link : AUKUS proves Australia and U.S. to be an Odd Couple")
-* [Intelligent systems depend on fusion of biology and technology](https://independentaustralia.net/article-display/intelligent-systems-depend-on-fusion-of-biology-and-technology,19165 "Permanent Link : Intelligent systems depend on fusion of biology and technology")
-* [How to minimize distractions while working from home](https://independentaustralia.net/article-display/how-to-minimize-distractions-while-working-from-home,19162 "Permanent Link : How to minimize distractions while working from home")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
