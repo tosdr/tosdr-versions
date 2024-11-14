@@ -6,7 +6,6 @@ Close Mobile Menu
 
 * [Help Animals](https://www.peta.org/action/)
     
-    * [Help Animals](https://www.peta.org/action/)
     * [Urgent Alerts](https://www.peta.org/action/action-alerts/)
     * [Our Campaigns](https://www.peta.org/action/campaigns/)
     * [Action Team](https://www.peta.org/action/action-team/)
@@ -15,19 +14,16 @@ Close Mobile Menu
     * [Leaflets & Stickers](https://www.petaliterature.com/)
 * [News](https://www.peta.org/blog/)
     
-    * [News](https://www.peta.org/blog/)
     * [Features](https://www.peta.org/features/)
     * [Videos](https://www.peta.org/videos/)
     * [Adoptable Animals](https://www.peta.org/category/miscellaneous-parent/adoptable/)
     * [Rescue Stories](https://www.peta.org/category/miscellaneous-parent/rescued/)
 * [Investigations](https://www.peta.org/investigations/)
     
-    * [Recent Investigations](https://www.peta.org/investigations/)
     * [Investigations & Rescue Fund](https://support.peta.org/page/43696/donate/1?en_txn7=Navigation::main-top-investigations-subnav&supporter.appealCode=IXXXWBXXXXR)
     * [Report Cruelty to Animals](https://www.peta.org/about-peta/contact-peta/report-cruelty/)
 * [Animal Rights Issues](https://www.peta.org/issues/)
     
-    * [Animal Rights Issues](https://www.peta.org/issues/)
     * [Animals Used for Experimentation](https://www.peta.org/issues/animals-used-for-experimentation/)
     * [Food](https://www.peta.org/issues/animals-used-for-food/)
     * [Clothing](https://www.peta.org/issues/animals-used-for-clothing/)
@@ -36,7 +32,6 @@ Close Mobile Menu
     * [Wildlife](https://www.peta.org/issues/wildlife/)
 * [Living](https://www.peta.org/living/)
     
-    * [Living](https://www.peta.org/living/)
     * [Living 101](https://www.peta.org/living/living-101/)
     * [Personal Care & Fashion](https://www.peta.org/living/personal-care-fashion/)
     * [Food & Health](https://www.peta.org/living/food/)
@@ -61,7 +56,6 @@ Close Mobile Menu
     * [Holiday Gift Ideas](https://shop.peta.org/trending/vegan-holiday-gift-ideas-that-help-animals.html?en_txn7=Navigation::Shop-Subnav)
 * [About](https://www.peta.org/about-peta/)
     
-    * [About](https://www.peta.org/about-peta/)
     * [Our Story](https://www.peta.org/about-peta/learn-about-peta/)
     * [Our Views](https://www.peta.org/about-peta/why-peta/)
     * [Victories](https://www.peta.org/about-peta/victories/)
@@ -103,7 +97,6 @@ Close Mobile Menu
 
 * [Help Animals](https://www.peta.org/action/ "Help Animals")
     
-    * [Help Animals](https://www.peta.org/action/ "Help Animals")
     * [Urgent Alerts](https://www.peta.org/action/action-alerts/ "Urgent Alerts")
     * [Our Campaigns](https://www.peta.org/action/campaigns/ "Our Campaigns")
     * [Action Team](https://www.peta.org/action/action-team/ "Action Team")
@@ -113,7 +106,6 @@ Close Mobile Menu
     
 * [News](https://www.peta.org/blog/ "News")
     
-    * [News](https://www.peta.org/blog/ "News")
     * [Features](https://www.peta.org/features/ "Features")
     * [Videos](https://www.peta.org/videos/ "Videos")
     * [Adoptable Animals](https://www.peta.org/category/miscellaneous-parent/adoptable/ "Adoptable Animals")
@@ -121,13 +113,11 @@ Close Mobile Menu
     
 * [Investigations](https://www.peta.org/investigations/ "Investigations")
     
-    * [Recent Investigations](https://www.peta.org/investigations/ "Recent Investigations")
     * [Investigations & Rescue Fund](https://support.peta.org/page/43696/donate/1?en_txn7=Navigation::main-top-investigations-subnav&supporter.appealCode=IXXXWBXXXXR "Investigations & Rescue Fund")
     * [Report Cruelty to Animals](https://www.peta.org/about-peta/contact-peta/report-cruelty/ "Report Cruelty to Animals")
     
 * [Animal Rights Issues](https://www.peta.org/issues/ "Animal Rights Issues")
     
-    * [Animal Rights Issues](https://www.peta.org/issues/ "Animal Rights Issues")
     * [Animals Used for Experimentation](https://www.peta.org/issues/animals-used-for-experimentation/ "Animals Used for Experimentation")
     * [Food](https://www.peta.org/issues/animals-used-for-food/ "Food")
     * [Clothing](https://www.peta.org/issues/animals-used-for-clothing/ "Clothing")
@@ -137,7 +127,6 @@ Close Mobile Menu
     
 * [Living](https://www.peta.org/living/ "Living")
     
-    * [Living](https://www.peta.org/living/ "Living")
     * [Living 101](https://www.peta.org/living/living-101/ "Living 101")
     * [Personal Care & Fashion](https://www.peta.org/living/personal-care-fashion/ "Personal Care & Fashion")
     * [Food & Health](https://www.peta.org/living/food/ "Food & Health")
@@ -165,7 +154,6 @@ Close Mobile Menu
     
 * [About](https://www.peta.org/about-peta/ "About")
     
-    * [About](https://www.peta.org/about-peta/ "About")
     * [Our Story](https://www.peta.org/about-peta/learn-about-peta/ "Our Story")
     * [Our Views](https://www.peta.org/about-peta/why-peta/ "Our Views")
     * [Victories](https://www.peta.org/about-peta/victories/ "Victories")
@@ -191,7 +179,6 @@ Close Mobile Menu
 
 * [Help Animals](https://www.peta.org/action/ "Help Animals")
     
-    * [Help Animals](https://www.peta.org/action/ "Help Animals")
     * [Urgent Alerts](https://www.peta.org/action/action-alerts/ "Urgent Alerts")
     * [Our Campaigns](https://www.peta.org/action/campaigns/ "Our Campaigns")
     * [Action Team](https://www.peta.org/action/action-team/ "Action Team")
@@ -201,7 +188,6 @@ Close Mobile Menu
     
 * [News](https://www.peta.org/blog/ "News")
     
-    * [News](https://www.peta.org/blog/ "News")
     * [Features](https://www.peta.org/features/ "Features")
     * [Videos](https://www.peta.org/videos/ "Videos")
     * [Adoptable Animals](https://www.peta.org/category/miscellaneous-parent/adoptable/ "Adoptable Animals")
@@ -209,13 +195,11 @@ Close Mobile Menu
     
 * [Investigations](https://www.peta.org/investigations/ "Investigations")
     
-    * [Recent Investigations](https://www.peta.org/investigations/ "Recent Investigations")
     * [Investigations & Rescue Fund](https://support.peta.org/page/43696/donate/1?en_txn7=Navigation::main-top-investigations-subnav&supporter.appealCode=IXXXWBXXXXR "Investigations & Rescue Fund")
     * [Report Cruelty to Animals](https://www.peta.org/about-peta/contact-peta/report-cruelty/ "Report Cruelty to Animals")
     
 * [Animal Rights Issues](https://www.peta.org/issues/ "Animal Rights Issues")
     
-    * [Animal Rights Issues](https://www.peta.org/issues/ "Animal Rights Issues")
     * [Animals Used for Experimentation](https://www.peta.org/issues/animals-used-for-experimentation/ "Animals Used for Experimentation")
     * [Food](https://www.peta.org/issues/animals-used-for-food/ "Food")
     * [Clothing](https://www.peta.org/issues/animals-used-for-clothing/ "Clothing")
@@ -225,7 +209,6 @@ Close Mobile Menu
     
 * [Living](https://www.peta.org/living/ "Living")
     
-    * [Living](https://www.peta.org/living/ "Living")
     * [Living 101](https://www.peta.org/living/living-101/ "Living 101")
     * [Personal Care & Fashion](https://www.peta.org/living/personal-care-fashion/ "Personal Care & Fashion")
     * [Food & Health](https://www.peta.org/living/food/ "Food & Health")
@@ -253,7 +236,6 @@ Close Mobile Menu
     
 * [About](https://www.peta.org/about-peta/ "About")
     
-    * [About](https://www.peta.org/about-peta/ "About")
     * [Our Story](https://www.peta.org/about-peta/learn-about-peta/ "Our Story")
     * [Our Views](https://www.peta.org/about-peta/why-peta/ "Our Views")
     * [Victories](https://www.peta.org/about-peta/victories/ "Victories")
@@ -275,7 +257,6 @@ Close Mobile Menu
     * [Gifts in Wills](https://legacy.peta.org/?en_txn7=Navigation%3A%3ADonation%20SubnavigationPETAorg-Support-PETA-Dropdown-Monthly&supporter.appealCode=IXXXWBXXXXG "Your Legacy for Animals")
     
 
-* [About](https://www.peta.org/about-peta/ "About")
 * [Our Story](https://www.peta.org/about-peta/learn-about-peta/ "Our Story")
 * [Our Views](https://www.peta.org/about-peta/why-peta/ "Our Views")
 * [Victories](https://www.peta.org/about-peta/victories/ "Victories")
