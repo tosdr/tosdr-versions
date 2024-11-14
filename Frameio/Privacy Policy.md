@@ -3,7 +3,7 @@
 Mobile navigation
 -----------------
 
-[Sign In](https://accounts.frame.io/welcome?auth_callback=https%3A%2F%2Fapp.frame.io%2Fauth%2Fcallback&redirect_path=%2F)
+[Sign In](https://accounts.frame.io/welcome)
 
 * Features
     
@@ -110,7 +110,7 @@ Mobile navigation
 * [Pricing](https://frame.io/pricing)
 
 * [Contact Sales](https://frame-io.drift.click/chat-with-an-expert)
-* [Sign In](https://accounts.frame.io/welcome?auth_callback=https%3A%2F%2Fapp.frame.io%2Fauth%2Fcallback&redirect_path=%2F)
+* [Sign In](https://accounts.frame.io/welcome)
 * [Start Free Trial](https://accounts.frame.io/welcome/?signup_as_v4_account=true)
 * [](https://www.adobe.com/ "Adobe")
 
