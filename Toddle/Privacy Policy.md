@@ -314,7 +314,7 @@ Explore Toddle for your school
 Our Privacy Policy
 ==================
 
-Last Updated: September 4, 2024
+Last Updated: November 14, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -326,8 +326,8 @@ It is our mission to help teachers deliver meaningful learning experiences. To a
 
 ![Privacy Policy illustration](https://www.toddleapp.com/wp-content/uploads/2021/04/pp_hero-3b524a28802035bc74268e25631941a2.png)
 
-Introduction
-------------
+Introduction 
+-------------
 
 This Privacy Policy governs the use of data collected by our websites [staging-www.toddleapp.com](https://toddleapp.com/), [web.toddleapp.com](https://web.toddleapp.com/), [web.toddleapp.cn](https://web.toddleapp.cn/), and our apps – Toddle Family, Toddle Educator and Toddle Student (hereafter, collectively referred to as “the Service”, “Toddle”, or, “the Toddle Service”).
 
