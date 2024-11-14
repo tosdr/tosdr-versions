@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -175,6 +175,62 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636) |     |
+
+[![Фото к рецепту: Крамбл с грушей, миндалём и фисташками](//img1.russianfood.com/dycontent/images_upl/751/sm_750391.jpg "Фото к рецепту: Крамбл с грушей, миндалём и фисташками")](https://www.russianfood.com/recipes/recipe.php?rid=174636)
+
+Крамбл с грушей, миндалём и фисташками - простое лакомство, с приготовлением которого справится даже начинающий кулинар. Кусочки груши сперва тушатся с добавлением мускатного ореха и корицы, что придаёт десерту аппетитный аромат. Поверх груш распределяются два вида измельчённых орехов и песочная крошка. Верхний слой получается хрустящим, а под ним скрываются нежные груши.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174636)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174636#comments) | 14.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Лазанья-рататуй](https://www.russianfood.com/recipes/recipe.php?rid=174563) |     |
+
+[![Фото к рецепту: Лазанья-рататуй](//img1.russianfood.com/dycontent/images_upl/745/sm_744021.jpg "Фото к рецепту: Лазанья-рататуй")](https://www.russianfood.com/recipes/recipe.php?rid=174563)
+
+Лазанья-рататуй – аппетитный повод попробовать сразу два блюда. На отваренные листы лазаньи выкладываются не мясной фарш и белый соус бешамель, а овощное ассорти, которое напоминает по составу рататуй. Небанально, не очень сложно и крайне вкусно!
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174563)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174563#comments) | 14.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) |     |
+
+[![Фото к рецепту: Томатный суп с рыбными фрикадельками](//img1.russianfood.com/dycontent/images_upl/745/sm_744542.jpg "Фото к рецепту: Томатный суп с рыбными фрикадельками")](https://www.russianfood.com/recipes/recipe.php?rid=174570)
+
+Рыбное филе измельчается в фарш с луком, чесноком и зеленью и смешивается с яйцом и специями. Из такого фарша с помощью чайных ложек формируются фрикадельки, которые добавляются в томатный суп с картофелем и сладким перцем в конце варки. Суп получается достаточно сытным, ароматным и вкусным.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174570)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174570#comments) | 14.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Крученики из свинины с маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174702) |     |
+
+[![Фото к рецепту: Крученики из свинины с маринованными огурцами](//img1.russianfood.com/dycontent/images_upl/748/sm_747295.jpg "Фото к рецепту: Крученики из свинины с маринованными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=174702)
+
+Крученики (рулетики) из свинины – классика домашней кухни. По этому рецепту в тонкую свиную отбивную, сдобренную горчицей, заворачивается маленький огурчик. Томление мясных рулетиков на овощной подушке из лука и моркови доведёт блюдо до аппетитной готовности.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174702)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [СП Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=486608) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174702#comments) | 14.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Сытный обед – хорошая идея.) Лучшие СУПЫ №24-46](https://www.russianfood.com/reading/?post_id=22875) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/751/sm_750684.jpg)](https://www.russianfood.com/reading/?post_id=22875)
@@ -199,7 +255,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174634#comments) | 14.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174634#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -207,7 +263,7 @@
 
 [![Фото к рецепту: Суп с фасолью, ветчиной и сельдереем](//img1.russianfood.com/dycontent/images_upl/751/sm_750704.jpg "Фото к рецепту: Суп с фасолью, ветчиной и сельдереем")](https://www.russianfood.com/recipes/recipe.php?rid=174573)
 
-Суп с фасолью, ветчиной и сельдереем прост в приготовлении. Сельдерей придаёт блюду особый аромат, ветчина — насыщенный вкус, а фасоль добавляет сытности.
+Фасоль для этого супа используется консервированная - она уже готова к употреблению, что сокращает время, проведенное на кухне. Ветчина делает вкус супа более насыщенным, а сельдерей и чеснок придают особый аромат. В итоге получается сытное и вкусное блюдо для быстрого обеда.
 
 [Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174573)  
 
@@ -227,7 +283,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174635#comments) | 14.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174635#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -327,62 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ЭКОНОМНЕЕ!](https://www.russianfood.com/blogs/?id=338625) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22867#comments) | 13.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Простые рецепты домашней кухни. Лучшие УЖИНЫ №24-46](https://www.russianfood.com/reading/?post_id=22866) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/744/sm_743550.jpg)](https://www.russianfood.com/reading/?post_id=22866)
-
-Мясные тефтели с рисом и гречкой. Запеканка из батата с фаршем. Макароны с курицей и шпинатом. Морепродукты в сливочном соусе. Капуста с куриными желудками. Булгур с грибами. Курица с яблоками в рукаве.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22866)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие ужины](https://www.russianfood.com/blogs/?id=325304) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22866#comments) | 13.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Творожный пирог с грушами](https://www.russianfood.com/recipes/recipe.php?rid=174216) |     |
-
-[![Фото к рецепту: Творожный пирог с грушами](//img1.russianfood.com/dycontent/images_upl/743/sm_742515.jpg "Фото к рецепту: Творожный пирог с грушами")](https://www.russianfood.com/recipes/recipe.php?rid=174216)
-
-Творожный пирог с грушами получается нежным, влажным и ароматным. Мягкое тесто с добавлением творога отлично сочетается с сочными ломтиками груш. Перед выпеканием пирог посыпается коричневым сахаром, благодаря чему приобретает аппетитную корочку.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174216)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174216#comments) | 12.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) |     |
-
-[![Фото к рецепту: Клафути с брокколи, брюссельской капустой и луком-пореем](//img1.russianfood.com/dycontent/images_upl/750/sm_749806.jpg "Фото к рецепту: Клафути с брокколи, брюссельской капустой и луком-пореем")](https://www.russianfood.com/recipes/recipe.php?rid=174596)
-
-Два вида капусты и лук-порей слегка обжаривают, заливают в форме пряным блинным тестом с сыром, посыпают рублеными орехами и затем отправляют в духовку. Тесто схватывается и напоминает омлет, а овощи получаются мягкие (но не слишком). Получается что-то между запеканкой и пирогом.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174596)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Печкины внучки](https://www.russianfood.com/blogs/?id=421070) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174596#comments) | 12.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Греческий салат с карамелизированным луком](https://www.russianfood.com/recipes/recipe.php?rid=174275) |     |
-
-[![Фото к рецепту: Греческий салат с карамелизированным луком](//img1.russianfood.com/dycontent/images_upl/742/sm_741276.jpg "Фото к рецепту: Греческий салат с карамелизированным луком")](https://www.russianfood.com/recipes/recipe.php?rid=174275)
-
-Яркий и оригинальный греческий салат с карамелизированным луком. Сочные свежие овощи и ароматная заправка создают прекрасное сочетание, а карамелизированный лук добавляет салату новые вкусовые нотки.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174275)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174275#comments) | 12.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -454,10 +454,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749806.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750704.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750684.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174635) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750726.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174634) |
-| [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Фаршированные кабачки с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) | [Суп с фасолью, ветчиной и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [Солянка с фасолью, колбасой и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=174635) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634) |
-| [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747746.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174707) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750898.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747941.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174715) |
-| [Налистники (блинчики) с печенью трески, обжаренные в кляре](https://www.russianfood.com/recipes/recipe.php?rid=174707) | [Пряные капкейки с сухофруктами, сырным кремом и змейками из мастики](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [Японский закусочный суши-торт](https://www.russianfood.com/recipes/recipe.php?rid=174715) |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750684.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174635) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747746.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174707) | [![](//img1.russianfood.com/dycontent/images_upl/749/alt1_748685.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [![](//img1.russianfood.com/dycontent/images_upl/752/alt1_751426.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747941.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174715) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750726.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174634) | [![](//img1.russianfood.com/dycontent/images_upl/750/alt1_749806.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174596) |
+| [Солянка с фасолью, колбасой и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=174635) | [Налистники (блинчики) с печенью трески, обжаренные в кляре](https://www.russianfood.com/recipes/recipe.php?rid=174707) | [Картофельный салат с селёдкой и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174571) | [Фаршированные кабачки с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174814) | [Японский закусочный суши-торт](https://www.russianfood.com/recipes/recipe.php?rid=174715) | [Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634) | [Клафути с брокколи, брюссельской капустой и луком-пореем](https://www.russianfood.com/recipes/recipe.php?rid=174596) |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750391.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750704.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750898.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744021.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174563) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174570) |
+| [Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [Суп с фасолью, ветчиной и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Пряные капкейки с сухофруктами, сырным кремом и змейками из мастики](https://www.russianfood.com/recipes/recipe.php?rid=174799) | [Крученики из свинины с маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [Лазанья-рататуй](https://www.russianfood.com/recipes/recipe.php?rid=174563) | [Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +474,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(158)
+(106)
