@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![22 Facts About Ceramics Industry ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/general/22-facts-about-ceramics-industry/)
+[![26 Facts About Armenian Highlands ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/26-facts-about-armenian-highlands/)
 
-General
+Landmarks
 
-13 Nov 2024
+14 Nov 2024
 
-[22 Facts About Ceramics Industry](https://facts.net/general/22-facts-about-ceramics-industry/)
+[26 Facts About Armenian Highlands](https://facts.net/world/landmarks/26-facts-about-armenian-highlands/)
 
-[![25 Facts About Intercellular Cholesterol Esterification Disease ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-intercellular-cholesterol-esterification-disease/)
+[![50 Facts About Cutis Verticis Gyrata ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-cutis-verticis-gyrata/)
 
 Health Science
 
-13 Nov 2024
+14 Nov 2024
 
-[25 Facts About Intercellular Cholesterol Esterification Disease](https://facts.net/fitness-and-wellbeing/health-science/25-facts-about-intercellular-cholesterol-esterification-disease/)
+[50 Facts About Cutis Verticis Gyrata](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-cutis-verticis-gyrata/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
