@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![superrblue](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1215165.thumb.png.16ee5b4e177743b71f139cd1a535c8b3.png)](https://www.clubedohardware.com.br/profile/1215165-superrblue/ "Ir ao perfil de superrblue")
+    * [![alexloganBR76](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256053.thumb.jpeg.eb15d380c8ef1fb047d3d41e1a0475ee.jpeg)](https://www.clubedohardware.com.br/profile/1256053-alexloganbr76/ "Ir ao perfil de alexloganBR76")
         
         0
         
-        [2666 funciona em i5 12400f?](https://www.clubedohardware.com.br/forums/topic/1702348-2666-funciona-em-i5-12400f/?do=getNewComment "2666 funciona em i5 12400f?")
+        [Leds pararam de funionar na minha RTX 3060](https://www.clubedohardware.com.br/forums/topic/1702364-leds-pararam-de-funionar-na-minha-rtx-3060/?do=getNewComment "Leds pararam de funionar na minha RTX 3060")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [superrblue](https://www.clubedohardware.com.br/profile/1215165-superrblue/ "Ir ao perfil de superrblue")  
-        2 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [alexloganBR76](https://www.clubedohardware.com.br/profile/1256053-alexloganbr76/ "Ir ao perfil de alexloganBR76")  
+        agora
         
-    * [![dhionatan de barros zago](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EDB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/797931-dhionatan-de-barros-zago/ "Ir ao perfil de dhionatan de barros zago")
+    * [![Prozyh](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256051.thumb.png.573caa5c700ce501d2143aba95d470a5.png)](https://www.clubedohardware.com.br/profile/1256051-prozyh/ "Ir ao perfil de Prozyh")
         
-        0
+        1
         
-        [PC reiniciando ao setar memórias a 3600mhz a520m tuf plus 2 + Ryzen 7 5700x3d](https://www.clubedohardware.com.br/forums/topic/1702347-pc-reiniciando-ao-setar-mem%C3%B3rias-a-3600mhz-a520m-tuf-plus-2-ryzen-7-5700x3d/?do=getNewComment "PC reiniciando ao setar memórias a 3600mhz a520m tuf plus 2 + Ryzen 7 5700x3d")
+        [Como ativar XMP na B450m Steel Legend?](https://www.clubedohardware.com.br/forums/topic/1702362-como-ativar-xmp-na-b450m-steel-legend/?do=getNewComment "Como ativar XMP na B450m Steel Legend?")
         
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [dhionatan de barros zago](https://www.clubedohardware.com.br/profile/797931-dhionatan-de-barros-zago/ "Ir ao perfil de dhionatan de barros zago")  
-        3 horas atrás
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Prozyh](https://www.clubedohardware.com.br/profile/1256051-prozyh/ "Ir ao perfil de Prozyh")  
+        12 minutos atrás
         
-    * [![Gakkari](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4a062%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EG%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256043-gakkari/ "Ir ao perfil de Gakkari")
+    * [![Black_Loth](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1244937.thumb.png.5293c233ea3b808760411a33a373c788.png)](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")
         
-        0
+        3
         
-        [upgrade para RTX 4060](https://www.clubedohardware.com.br/forums/topic/1702346-upgrade-para-rtx-4060/?do=getNewComment "upgrade para RTX 4060")
+        [Painel IPS ou VA para jogos?](https://www.clubedohardware.com.br/forums/topic/1702360-painel-ips-ou-va-para-jogos/?do=getNewComment "Painel IPS ou VA para jogos?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Black\_Loth](https://www.clubedohardware.com.br/profile/1244937-black_loth/ "Ir ao perfil de Black_Loth")  
+        30 minutos atrás
+        
+    * [![Edukssio](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EE%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1039353-edukssio/ "Ir ao perfil de Edukssio")
+        
+        3
+        
+        [Upgrade para o Ryzen 7 5700X3D para a nova geração de GPUs ou montar PC AM5?](https://www.clubedohardware.com.br/forums/topic/1702359-upgrade-para-o-ryzen-7-5700x3d-para-a-nova-gera%C3%A7%C3%A3o-de-gpus-ou-montar-pc-am5/?do=getNewComment "Upgrade para o Ryzen 7 5700X3D para a nova geração de GPUs ou montar PC AM5?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Gakkari](https://www.clubedohardware.com.br/profile/1256043-gakkari/ "Ir ao perfil de Gakkari")  
-        3 horas atrás
+        Por [Edukssio](https://www.clubedohardware.com.br/profile/1039353-edukssio/ "Ir ao perfil de Edukssio")  
+        33 minutos atrás
         
-    * [![Cydro Anemo](https://www.clubedohardware.com.br/uploads/members/monthly_2021_11/das.thumb.jpeg.b5b82c4a23c11f718f67b7adc9a0143d.jpeg)](https://www.clubedohardware.com.br/profile/1172777-cydro-anemo/ "Ir ao perfil de Cydro Anemo")
-        
-        0
-        
-        [Xeon E5 1680 v4 ou Xeon e5-2697 v3](https://www.clubedohardware.com.br/forums/topic/1702344-xeon-e5-1680-v4-ou-xeon-e5-2697-v3/?do=getNewComment "Xeon E5 1680 v4 ou Xeon e5-2697 v3")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Cydro Anemo](https://www.clubedohardware.com.br/profile/1172777-cydro-anemo/ "Ir ao perfil de Cydro Anemo")  
-        5 horas atrás
-        
-    * [![Nicolas Gouveia Costa de Campos](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-803779.thumb.jpeg.257f445d39f297c49c83551260f976a1.jpeg)](https://www.clubedohardware.com.br/profile/803779-nicolas-gouveia-costa-de-campos/ "Ir ao perfil de Nicolas Gouveia Costa de Campos")
-        
-        0
-        
-        [Qual dessas b650 comprar?](https://www.clubedohardware.com.br/forums/topic/1702343-qual-dessas-b650-comprar/?do=getNewComment "Qual dessas b650 comprar?")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Nicolas Gouveia Costa de Campos](https://www.clubedohardware.com.br/profile/803779-nicolas-gouveia-costa-de-campos/ "Ir ao perfil de Nicolas Gouveia Costa de Campos")  
-        5 horas atrás
-        
-    * [![NONESDI](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_5497.thumb.JPG.7242e79cc1bf1d4e6a26d75c403ce276.JPG)](https://www.clubedohardware.com.br/profile/1256039-nonesdi/ "Ir ao perfil de NONESDI")
-        
-        0
-        
-        Outro [área de desenvolvimento mobile](https://www.clubedohardware.com.br/forums/topic/1702342-%C3%A1rea-de-desenvolvimento-mobile/?do=getNewComment "área de desenvolvimento mobile")
-        
-        [Programação - outros](https://www.clubedohardware.com.br/forums/forum/182-programa%C3%A7%C3%A3o-outros/ "Programação - outros")  
-        Por [NONESDI](https://www.clubedohardware.com.br/profile/1256039-nonesdi/ "Ir ao perfil de NONESDI")  
-        5 horas atrás
-        
-    * [![Antônio Justino](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/5765e13dfa5ae63b6a3deec6911f9954e5b5353d.thumb.png.fe55545b974c9f0031ad208e9b804884.png)](https://www.clubedohardware.com.br/profile/1058877-ant%C3%B4nio-justino/ "Ir ao perfil de Antônio Justino")
+    * [![Pancierizx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/IMG_2311.thumb.jpeg.42aaa527e7ae5c11bc2352d73b7cbe02.jpeg)](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")
         
         1
         
-        [Meu notebook não consegue controlar a velocidade do fan](https://www.clubedohardware.com.br/forums/topic/1702340-meu-notebook-n%C3%A3o-consegue-controlar-a-velocidade-do-fan/?do=getNewComment "Meu notebook não consegue controlar a velocidade do fan")
+        [Placa de Vídeo: RTX 4060 ou RX7600?](https://www.clubedohardware.com.br/forums/topic/1702358-placa-de-v%C3%ADdeo-rtx-4060-ou-rx7600/?do=getNewComment "Placa de Vídeo: RTX 4060 ou RX7600?")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Antônio Justino](https://www.clubedohardware.com.br/profile/1058877-ant%C3%B4nio-justino/ "Ir ao perfil de Antônio Justino")  
-        6 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Pancierizx](https://www.clubedohardware.com.br/profile/1255529-pancierizx/ "Ir ao perfil de Pancierizx")  
+        40 minutos atrás
         
-    * [![Calaveira](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/IMG_1835.thumb.jpeg.6048b8556bd724ffd1464edf1c4ca21f.jpeg)](https://www.clubedohardware.com.br/profile/665538-calaveira/ "Ir ao perfil de Calaveira")
+    * [![Gian X3D](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/images.thumb.jpeg.9f9aa289a35b2c1ba426ae2785f058fc.jpeg)](https://www.clubedohardware.com.br/profile/1248719-gian-x3d/ "Ir ao perfil de Gian X3D")
         
         1
         
-        [Routeador Huawei Mesh 3 em rede mesh com lentidão.](https://www.clubedohardware.com.br/forums/topic/1702339-routeador-huawei-mesh-3-em-rede-mesh-com-lentid%C3%A3o/?do=getNewComment "Routeador Huawei Mesh 3 em rede mesh com lentidão.")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Calaveira](https://www.clubedohardware.com.br/profile/665538-calaveira/ "Ir ao perfil de Calaveira")  
-        7 horas atrás
-        
-    * [![ratodeskate144p](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/126501781_ndice.thumb.jpg.ee5f7461dbd4a400dda05518b954c4db.jpg)](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")
-        
-        4
-        
-        [Como conectar 4 fans akasa piranha a placa-mãe SOYO A520M](https://www.clubedohardware.com.br/forums/topic/1702338-como-conectar-4-fans-akasa-piranha-a-placa-m%C3%A3e-soyo-a520m/?do=getNewComment "Como conectar 4 fans akasa piranha a placa-mãe SOYO A520M")
+        [Indicação de modelos de ventoinha (120mm) para gabinete SuperFrame Glass](https://www.clubedohardware.com.br/forums/topic/1702357-indica%C3%A7%C3%A3o-de-modelos-de-ventoinha-120mm-para-gabinete-superframe-glass/?do=getNewComment "Indicação de modelos de ventoinha (120mm) para gabinete SuperFrame Glass")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [ratodeskate144p](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")  
-        7 horas atrás
+        Por [Gian X3D](https://www.clubedohardware.com.br/profile/1248719-gian-x3d/ "Ir ao perfil de Gian X3D")  
+        51 minutos atrás
         
-    * [![Caio Nunes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1247118.thumb.jpeg.3f74d3c1f665c0801a9954d3633d4125.jpeg)](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")
+    * [![Joao Vito00r](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1245284.thumb.png.5fc34ebe3e2fb15e9aa99fe82e146253.png)](https://www.clubedohardware.com.br/profile/1245284-joao-vito00r/ "Ir ao perfil de Joao Vito00r")
         
-        7
+        3
         
-        [Devo atualizar BIOS da B550M PRO VDH WIFI para o Ryzen 7 5700X3D?](https://www.clubedohardware.com.br/forums/topic/1702336-devo-atualizar-bios-da-b550m-pro-vdh-wifi-para-o-ryzen-7-5700x3d/?do=getNewComment "Devo atualizar BIOS da B550M PRO VDH WIFI para o Ryzen 7 5700X3D?")
+        [Fonte Mancer Thunder 400W suporta Ryzen 3 3200G e Radeon RX 6600?](https://www.clubedohardware.com.br/forums/topic/1702355-fonte-mancer-thunder-400w-suporta-ryzen-3-3200g-e-radeon-rx-6600/?do=getNewComment "Fonte Mancer Thunder 400W suporta Ryzen 3 3200G e Radeon RX 6600?")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Caio Nunes](https://www.clubedohardware.com.br/profile/1247118-caio-nunes/ "Ir ao perfil de Caio Nunes")  
-        7 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Joao Vito00r](https://www.clubedohardware.com.br/profile/1245284-joao-vito00r/ "Ir ao perfil de Joao Vito00r")  
+        1 hora atrás
+        
+    * [![Jotatakae](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256048.thumb.png.bf370cedeb5a23dfc9dd597939c1e009.png)](https://www.clubedohardware.com.br/profile/1256048-jotatakae/ "Ir ao perfil de Jotatakae")
+        
+        2
+        
+        [placa-mãe b550m k gigabyte reiniciando sem parar](https://www.clubedohardware.com.br/forums/topic/1702353-placa-m%C3%A3e-b550m-k-gigabyte-reiniciando-sem-parar/?do=getNewComment "placa-mãe b550m k gigabyte reiniciando sem parar")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Jotatakae](https://www.clubedohardware.com.br/profile/1256048-jotatakae/ "Ir ao perfil de Jotatakae")  
+        2 horas atrás
+        
+    * [![Breno Gabriel Modesto Brag](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256047.thumb.jpeg.09d41dd1379def53662535fa369139c8.jpeg)](https://www.clubedohardware.com.br/profile/1256047-breno-gabriel-modesto-brag/ "Ir ao perfil de Breno Gabriel Modesto Brag")
+        
+        1
+        
+        [PC R$ 2.500,00: MSI B450M-A Pro Max, Ryzen 5 5600, 32GB, Radeon RX5880, vale?](https://www.clubedohardware.com.br/forums/topic/1702351-pc-r-250000-msi-b450m-a-pro-max-ryzen-5-5600-32gb-radeon-rx5880-vale/?do=getNewComment "PC R$ 2.500,00: MSI B450M-A Pro Max, Ryzen 5 5600, 32GB, Radeon RX5880, vale?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Breno Gabriel Modesto Brag](https://www.clubedohardware.com.br/profile/1256047-breno-gabriel-modesto-brag/ "Ir ao perfil de Breno Gabriel Modesto Brag")  
+        3 horas atrás
+        
+    * [![DonCorleone](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/wp12091224-bills-dbz-wallpapers.thumb.jpg.2ccd1da8fdf7283a5d11f9a32f811d46.jpg)](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")
+        
+        0
+        
+        [Reiniciei o Pc e o argb não liga mais](https://www.clubedohardware.com.br/forums/topic/1702350-reiniciei-o-pc-e-o-argb-n%C3%A3o-liga-mais/?do=getNewComment "Reiniciei o Pc e o argb não liga mais")
+        
+        [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
+        Por [DonCorleone](https://www.clubedohardware.com.br/profile/1241368-doncorleone/ "Ir ao perfil de DonCorleone")  
+        4 horas atrás
         
     
 
