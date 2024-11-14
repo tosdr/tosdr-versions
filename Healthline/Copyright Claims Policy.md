@@ -190,6 +190,16 @@
 
 Subscribe
 
+[#### Multiple Sclerosis](https://www.healthline.com/multiple-sclerosis)
+
+* [Newly Diagnosed](https://www.healthline.com/multiple-sclerosis/ms-basics)
+* [Treatment](https://www.healthline.com/multiple-sclerosis/treatment)
+* [Living Well with MS](https://www.healthline.com/multiple-sclerosis/living-with-ms)
+* [What to Eat](https://www.healthline.com/multiple-sclerosis/food)
+* [Well-Being & Support](https://www.healthline.com/multiple-sclerosis/mental-health-ms)
+* [Community](https://apps.apple.com/us/app/ms-healthline/id1040195462)
+* [Newsletter](https://www.healthline.com/newsletter-signup/multiple-sclerosis)
+
 Ad & Sponsorship Policy
 =======================
 
