@@ -319,7 +319,15 @@ follow
 
 All models appearing on this website are 18 years or older. By entering this site you swear that you are of legal age in your area to view adult material and that you wish to view such material.
 
+![Payments](/themes/play/images/US-payment-methods.svg)
+
+![Payments mobile](/themes/play/images/US-payment-methods-mobile.svg)
+
+![lelo wechat](/themes/play/images/lelo-wechat.png)
+
 Wechat: lelo\_mall
+
+![bazaarvoice](/themes/play/images/bazaarvoice_logo.png)
 
 These reviews are managed by Bazaarvoice and comply with the Bazaarvoice Authenticity Policy, which is supported by anti-fraud technology and human analysis.
 
