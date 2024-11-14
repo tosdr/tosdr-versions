@@ -694,3 +694,5 @@ If you’re still having problems please [drop us an email](mailto:allreplies@us
 By submitting the form, I agree to the [Privacy Policy](https://www.usertesting.com/privacy-center/privacy-policy) and [Terms of Use](https://www.usertesting.com/privacy-center/terms-of-use-enterprise-client).
 
 © UserTesting 2024
+
+![SOC security logo](/themes/custom/usertesting/assets/images/security_logos/LOGO-2024-security-badge-SOC-64x64.png) ![CSA security logo](/themes/custom/usertesting/assets/images/security_logos/LOGO-2024-security-badge-CSA-64x64.png) ![GDPR security logo](/themes/custom/usertesting/assets/images/security_logos/LOGO-2024-security-badge-GDPR-64x64.png)
