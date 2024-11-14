@@ -132,13 +132,13 @@ Select your region and language
 Cookie Notice
 -------------
 
-#### Cookie notice from Paysafe
+#### **Cookie notice from Paysafe**
 
 This policy applies to Paysafe Limited and any of its group companies (together “Paysafe” or "we" or “our”) use “cookies” and other technologies when you use its websites, mobile sites, or mobile apps. This notice applies additional to any other Terms of Use or contract provision for the particular Paysafe service being used.
 
 In this notice, we explain how you can control which cookies are used and learn more about cookies and similar technologies. If you want to know more about how Paysafe handles your data, you can find more information in our [Privacy notice](https://www.paysafecard.com/en-us/privacy-notice/).
 
-#### Websites: Granting, changing and withdrawing Consent
+#### **Websites: Granting, changing and withdrawing Consent**
 
 When using our websites, mobiles sites and mobile apps, you will be asked to acknowledge your consent before we place cookies or similar technologies on your device. You can withdraw or change this consent, unless those cookies are strictly necessary to operate the site or provide the services. 
 
@@ -158,17 +158,17 @@ When you first visit the preference centre, all cookies will be switched off, ex
 
 Please note: if you have deleted your cookies or use a browser or browser settings which prevent cookies remaining on your device, you will see the Cookie Banner each time you visit our sites and the preference centre will reset.  This is because we use a cookie to remember your privacy preferences. You can also set your browser to restrict cookies or to reject them entirely, but this may affect your browsing experience.
 
-#### Mobile apps: Granting, changing and withdrawing consent
+#### **Mobile apps: Granting, changing and withdrawing consent**
 
 Paysafe mobile apps also collect data using technology similar to cookies.  This helps us learn how our apps are used and how they can be improved, and also helps to make your data more secure.
 
 Paysafe mobile apps contain a preference centre which gives you control of what data we use about you.  If you want to check or change these settings, simply open the app for the Paysafe product you are using, go to your Profile, find the preference centre in your Marketing or Privacy Settings and select the data preferences which suit you.
 
-#### What are cookies and similar technologies, and what do they do?
+#### **What are cookies and similar technologies, and what do they do?**
 
 Cookies and similar technologies are used to gather information from website visitors, for specific purposes.
 
-#### Cookies
+#### **Cookies**
 
 Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website and mobile application owners in order to make their websites and apps work, or to work more efficiently, as well as to provide reporting information.  
 
@@ -184,17 +184,17 @@ Cookies set by the website/app owner (in this case, Paysafe Group) are called *
 
 Cookies and some of the similar technologies we use can also be disabled on your device settings or browser, but this may significantly impact the ability for our websites, mobile sites, or mobile apps to work on your devices.
 
-#### Pixel Tags
+#### **Pixel Tags**
 
 We also use similar technologies such as ‘pixel tags’ and ‘JavaScript’ to undertake these tasks. Pixel tags and JavaScript are tiny graphics files that contain a unique identifier that enable us to recognise when someone has visited our Websites or opened an e-mail that we have sent them.  
 
 JavaScript and some of the similar technologies we use can also be disabled on your device settings or browser, but this may significantly impact the ability for our websites, mobile sites, or mobile apps to work on your devices.
 
-#### What do the cookies do?
+#### **What do the cookies do?**
 
 There are different types of cookies which are used for different purposes.  In this section, we describe five different functions, but be aware that not all these types will be used on every website you visit and some cookies may fit into multiple categories.
 
-#### ‘Strictly necessary’ cookies
+#### **‘Strictly necessary’ cookies**
 
 These cookies are necessary for the website to function correctly and cannot be switched off in our systems.  
 
@@ -202,7 +202,7 @@ They are usually only set in response to actions made by you which amount to a r
 
 ‘Strictly necessary’ cookies store data which can be used to: remember your privacy preferences; allow you to log in or fill in forms; move around the website and use its features, such as accessing secure areas of the website; meet our legal and regulatory requirements, for example, anti-money laundering and fraud prevention; secure your account and prevent it being misused by others.
 
-#### ‘Performance’ cookies
+#### **‘Performance’ cookies**
 
 These cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site to give you a better service.
 
@@ -210,13 +210,13 @@ They help us to know which pages are the most and least popular and see how visi
 
 Performance cookies can be used to: record where visitors click on each page and track which services they look for; log error messages from web pages; help improve the websites to make information and services quicker and easier to access on both desktop and mobile browsers.
 
-#### ‘Functional’ cookies
+####  **‘Functional’ cookies**
 
 These cookies allow the website to remember choices you make (such as your username, language or the region you are in) and provide enhanced, more personal features.
 
 For instance, a website may be able to provide you with local weather reports or traffic news by storing in a cookie the region in which you are currently located. They may also be used to provide services you have asked for such as watching a video or commenting on a blog. The information these cookies collect may be anonymised and they cannot track your browsing activity on other websites.  So, basically, these cookies remember choices you make to improve your user experience. 
 
-#### ‘Targeting’ cookies
+#### **‘Targeting’ cookies**
 
 These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of advertising campaigns.
 
@@ -224,13 +224,13 @@ They are usually placed by advertising networks with the website operator’s pe
 
 If you disable these cookies, you will still see advertising, but it will not be profiled to show content and offers of most interest to you.
 
-#### ‘Social Media’ cookies
+#### **‘Social Media’ cookies**
 
 These cookies are set by a range of social media services where we have added them to the site to enable you to share our content with your friends and networks.
 
 They are capable of tracking your browser across other sites and building up a profile of your interests. This may impact the content and messages you see on other websites you visit. If you do not allow these cookies you may not be able to use or see these sharing tools and any content of offers provided may be of less relevance to you.
 
-#### Cookies in Emails
+#### **Cookies in Emails**
 
 We use cookies and similar technology in some of our emails which contain hyperlinks, each of which has a unique tag. They help us to understand how you interact with our emails and are used to improve our future email communications to you.
 
@@ -238,13 +238,13 @@ If you click on links contained in the email it will allow us to track your use 
 
 If you do not wish to accept cookies from any one of our emails, simply close the email before downloading any images or clicking on any links. You can also set your browser to restrict cookies or to reject them entirely. These settings will apply to all cookies whether included on websites or in emails. If you have configured your computer to automatically display images, or if you have added us to your email "address book" (or "safe senders" list), or if you have configured your computer to have "weak" security, cookies might be set at the same time as you download, open or read an email from us. If you would prefer for this not to happen, you should disable the automatic displaying of images, or remove us from your address book or strengthen your security settings. 
 
-#### Learning more about specific cookies used by Paysafe Group:
+#### **Learning more about specific cookies used by Paysafe Group:**
 
 To find out about each cookie used by Paysafe Group, visit the Cookie Preference Centre. 
 
 Clicking on individual cookies will take you to their description in the OneTrust Cookiepedia.  Please note that the Cookiepedia is owned and operated by OneTrust and the content is not controlled by Paysafe Group, but it provides an industry standard explanation of different cookies.
 
-#### How does Paysafe work with third parties to show you tailored ads?
+#### **How d****oes Paysafe** **work with third parties to show you tailored ads?**
 
 We work with third parties, such as advertisers, publishers, social media networks, search engines and agencies, to improve the relevance of the adverts we serve.
 
@@ -256,7 +256,7 @@ If you choose to opt-out of targeting cookies in our cookies settings we won’t
 
 If you choose to opt-out of Digital Media marketing in your account settings we won’t use your data to analyse trends in your use of your account, or to improve the way we target users across these platforms in e.g. custom audience/lookalike campaigns where we ask our partners to deliver messages on their platforms to certain customers or share non-personally identifying attributes about our existing customers to these platforms to locate similar prospects/leads. Opting out will mean you may still see adverts from us, but again they will be less relevant to you.
 
-#### Who does Paysafe work with to show you tailored ads?
+#### **Who does Paysafe work with to show you tailored ads?**
 
 Learn more about who we work with, and how to access their privacy policies and notices here.
 
@@ -279,7 +279,6 @@ The main agencies we use, whose privacy pages we have linked to, include:
 * Amazon Advertising
 * [Moat](https://www.oracle.com/legal/privacy/)
 * [Playstation](https://www.playstation.com/en-gb/legal/privacy-policy/)
-* [Apple TV](https://www.apple.com/uk/legal/privacy/en-ww/)
 * [Reddit](https://www.reddit.com/policies/privacy-policy)
 * [TikTok](https://www.tiktok.com/legal/page/row/privacy-policy/en)
 
