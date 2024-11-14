@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [What do you think of when you see the… (9,632)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,632 posts)")
-* [Womanly things that men do these days… (1,245)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (1,245 posts)")
-* [2025 CCA Leaders Summit \[In-Character… (25)](https://forum.nationstates.net/viewtopic.php?t=558317&f=5&view=unread#unread ""2025 CCA Leaders Summit [In-Character - CCA ONLY]" (25 posts)")
-* [American Politics: Turnabout Trump (4,362)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,362 posts)")
-* [Citizens of The Isles \[IC, TWI only\] (196)](https://forum.nationstates.net/viewtopic.php?t=360717&f=4&view=unread#unread ""Citizens of The Isles [IC, TWI only]" (196 posts)")
+* [U.S. public schools spread anti-Israe… (49)](https://forum.nationstates.net/viewtopic.php?t=558205&f=20&view=unread#unread ""U.S. public schools spread anti-Israel misinfo, antisemitism" (49 posts)")
+* [\[R\] Misgendering other user (7)](https://forum.nationstates.net/viewtopic.php?t=558315&f=16&view=unread#unread ""[R] Misgendering other user" (7 posts)")
+* [Regional cards a new thing to collect (11)](https://forum.nationstates.net/viewtopic.php?t=558303&f=15&view=unread#unread ""Regional cards a new thing to collect" (11 posts)")
+* [Intimacy boycotts (4B movement) (218)](https://forum.nationstates.net/viewtopic.php?t=558243&f=20&view=unread#unread ""Intimacy boycotts (4B movement)" (218 posts)")
+* [Out of the 2 AN’s: Which one has the… (4,339)](https://forum.nationstates.net/viewtopic.php?t=552240&f=25&view=unread#unread ""Out of the 2 AN’s: Which one has the better flag? VIII" (4,339 posts)")
 
 Advertisement
 
