@@ -90,15 +90,15 @@ SHOW MENU
 
 [Around the World](https://www.jw.org/en/jehovahs-witnesses/worldwide/)
 
-[Donations (opens new window)](https://apps.jw.org/E_DONATE)
+[Donations (opens new window)](https://donate.jw.org/en)
 
 [LOG IN (opens new window)](https://hub.jw.org/home/en)
 
 CLOSE
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/d8f8c0370e/images/siteLogo-jworg-print.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/siteLogo-jworg-print.png)
 
-![](https://assetsnffrgf-a.akamaihd.net/assets/ct/d8f8c0370e/images/siteLogo-jworg-print-rtl.png)
+![](https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/siteLogo-jworg-print-rtl.png)
 
 [JW.ORG](https://www.jw.org/en/ "Go to the JW.ORG home page")
 
@@ -159,7 +159,7 @@ Jehovah’s Witnesses
         * [Activities](https://www.jw.org/en/jehovahs-witnesses/activities/)
         * [Experiences](https://www.jw.org/en/jehovahs-witnesses/experiences/)
         * [Around the World](https://www.jw.org/en/jehovahs-witnesses/worldwide/)
-        * [Donations (opens new window)](https://apps.jw.org/E_DONATE)
+        * [Donations (opens new window)](https://donate.jw.org/en)
     * CLOSE
 
 Would you like to read this article in %%?
@@ -295,7 +295,7 @@ English
 
 Terms of Use
 
-https://assetsnffrgf-a.akamaihd.net/assets/ct/d8f8c0370e/images/syn\_placeholder\_sqr.png
+https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/syn\_placeholder\_sqr.png
 
 ##### JW.ORG® **/ OFFICIAL WEBSITE OF JEHOVAH’S WITNESSES**
 
@@ -357,7 +357,7 @@ Appearance Settings
 * [Resources for Journalists](https://www.jw.org/en/resources-for-journalists/)
 * [Information for Government Officials](https://www.jw.org/en/gov-resources/)
 
-* [Donations (opens new window)](https://apps.jw.org/E_DONATE)
+* [Donations (opens new window)](https://donate.jw.org/en)
 
 * [Watchtower ONLINE LIBRARY™ (opens new window)](https://wol.jw.org/wol/finder?wtlocale=E)
 * [JW Hub® (opens new window)](https://hub.jw.org/home/en)
