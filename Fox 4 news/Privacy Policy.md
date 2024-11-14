@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Sydney Sweeney slams Hollywood's 'women empowering other women' message as 'fake'](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/sydney-sweeney.jpg?ve=1&tl=1)
+ [![Six Flags announces $1 billion in enhancements at parks across the country](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/cca86c62-GettyImages-1234869682.jpg?ve=1&tl=1)
 
- ![Sydney Sweeney slams Hollywood's 'women empowering other women' message as 'fake'](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/sydney-sweeney.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/sydney-sweeney-slams-hollywood-women-empowering-other-women-message)
+ ![Six Flags announces $1 billion in enhancements at parks across the country](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2023/11/32/18/592/333/cca86c62-GettyImages-1234869682.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/six-flags-announces-1-billion-enhancements-parks-across-country)
 
-### [Sydney Sweeney slams Hollywood's 'women empowering other women' message as 'fake'](https://www.fox4news.com/news/sydney-sweeney-slams-hollywood-women-empowering-other-women-message)
+### [Six Flags announces $1 billion in enhancements at parks across the country](https://www.fox4news.com/news/six-flags-announces-1-billion-enhancements-parks-across-country)
 
- [![Social Security Fairness Act: Bill to raise benefits for some passes House](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/gettyimages-1346574953.jpg?ve=1&tl=1)
+ [![1 man, 2 juveniles arrested for McKinney double murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/9p-394-tz-mckinney-chestnut-colorado-shooting_00.00.15.30.jpg?ve=1&tl=1)
 
- ![Social Security Fairness Act: Bill to raise benefits for some passes House](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/10/32/18/592/333/gettyimages-1346574953.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/social-security-fairness-act-bill-hr-82-house-nov-14-2024)
+ ![1 man, 2 juveniles arrested for McKinney double murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/9p-394-tz-mckinney-chestnut-colorado-shooting_00.00.15.30.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/1-man-2-juveniles-arrested-mckinney-double-murder)
 
-### [Social Security Fairness Act: Bill to raise benefits for some passes House](https://www.fox4news.com/news/social-security-fairness-act-bill-hr-82-house-nov-14-2024)
+### [1 man, 2 juveniles arrested for McKinney double murder](https://www.fox4news.com/news/1-man-2-juveniles-arrested-mckinney-double-murder)
 
- [![Republicans gain control of presidency, House and Senate](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1244839165.jpg?ve=1&tl=1)
+ [![Teens accused of robbing Fort Worth jewelry store with hammers arrested](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/fort-worth-jewelry-arrests.jpg?ve=1&tl=1)
 
- ![Republicans gain control of presidency, House and Senate](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1244839165.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/republicans-gain-control-presidency-house-senate)
+ ![Teens accused of robbing Fort Worth jewelry store with hammers arrested](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/fort-worth-jewelry-arrests.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-jewelry-store-robbery)
 
-### [Republicans gain control of presidency, House and Senate](https://www.fox4news.com/news/republicans-gain-control-presidency-house-senate)
+### [Teens accused of robbing Fort Worth jewelry store with hammers arrested](https://www.fox4news.com/news/fort-worth-jewelry-store-robbery)
 
- [![Boeing issues layoff notices as aerospace giant cuts 17,000 jobs](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/boeing.jpg?ve=1&tl=1)
+ [![19-year-old girl charged with capital murder in Dallas killing of elderly man](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/amaya-mug-web.png?ve=1&tl=1)
 
- ![Boeing issues layoff notices as aerospace giant cuts 17,000 jobs](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/boeing.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/boeing-layoff-job-cuts-17000-union-labor-strike-2024)
+ ![19-year-old girl charged with capital murder in Dallas killing of elderly man](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/amaya-mug-web.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/19-year-old-girl-charged-capital-murder-dallas-killing-elderly-man)
 
-### [Boeing issues layoff notices as aerospace giant cuts 17,000 jobs](https://www.fox4news.com/news/boeing-layoff-job-cuts-17000-union-labor-strike-2024)
+### [19-year-old girl charged with capital murder in Dallas killing of elderly man](https://www.fox4news.com/news/19-year-old-girl-charged-capital-murder-dallas-killing-elderly-man)
 
- [![Tropical Depression 19 forms in Caribbean Sea, expected to become Sara](https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/td-19-thursday-5am-models.png?ve=1&tl=1)
+ [![Victim fires back in Mesquite drive-by shooting, police say](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Crime-scene-tape.jpg?ve=1&tl=1)
 
- ![Tropical Depression 19 forms in Caribbean Sea, expected to become Sara](https://images.foxtv.com/images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2024/11/32/18/592/333/td-19-thursday-5am-models.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/tropical-depression-19-forms-caribbean-sea-expected-become-sara)
+ ![Victim fires back in Mesquite drive-by shooting, police say](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Crime-scene-tape.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mesquite-drive-by-shooting)
 
-### [Tropical Depression 19 forms in Caribbean Sea, expected to become Sara](https://www.fox4news.com/news/tropical-depression-19-forms-caribbean-sea-expected-become-sara)
+### [Victim fires back in Mesquite drive-by shooting, police say](https://www.fox4news.com/news/mesquite-drive-by-shooting)
 
 ###### [News](https://www.fox4news.com/news)
 
