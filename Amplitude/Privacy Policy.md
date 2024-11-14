@@ -552,11 +552,19 @@ Deliver customer value and drive business outcomes
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
+    
+    Explore Hub
+    
+    Detailed guides on product and web analytics](https://amplitude.com/explore)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
 * [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
+* [Explore Hub](https://amplitude.com/explore)
 
 #### Connect
 
@@ -674,11 +682,19 @@ Deliver customer value and drive business outcomes
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
+    
+    Explore Hub
+    
+    Detailed guides on product and web analytics](https://amplitude.com/explore)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
 * [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
+* [Explore Hub](https://amplitude.com/explore)
 
 #### Connect
 
@@ -1322,11 +1338,19 @@ Deliver customer value and drive business outcomes
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
+    
+    Explore Hub
+    
+    Detailed guides on product and web analytics](https://amplitude.com/explore)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
 * [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
+* [Explore Hub](https://amplitude.com/explore)
 
 #### Connect
 
@@ -1444,11 +1468,19 @@ Deliver customer value and drive business outcomes
     Templates
     
     Amplitude template library](https://amplitude.com/templates)
+* [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2764%27%20height=%2764%27/%3e)![explore hub](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+    
+    ![explore hub](https://cdn.sanity.io/images/l5rq9j6r/production/0f6abcaabe169267228450e3c7b72b976a9d979c-64x64.svg)
+    
+    Explore Hub
+    
+    Detailed guides on product and web analytics](https://amplitude.com/explore)
 
 * [Blog](https://amplitude.com/blog)
 * [Resource Center](https://amplitude.com/resources)
 * [Glossary](https://amplitude.com/glossary/terms)
 * [Templates](https://amplitude.com/templates)
+* [Explore Hub](https://amplitude.com/explore)
 
 #### Connect
 
