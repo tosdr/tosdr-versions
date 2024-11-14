@@ -15,7 +15,8 @@
 * [한국어](https://www.overwolf.com/ko/docs/overwolf/website/terms-of-use)
 * [Polski](https://www.overwolf.com/pl/docs/overwolf/website/terms-of-use)
 * [Português](https://www.overwolf.com/pt/docs/overwolf/website/terms-of-use)
-* [简体中文](https://www.overwolf.com/zh/docs/overwolf/website/terms-of-use)
+* [简体中文](https://www.overwolf.com/zh-Hans/docs/overwolf/website/terms-of-use)
+* [繁體中文](https://www.overwolf.com/zh-Hant/docs/overwolf/website/terms-of-use)
 
 Search
 
