@@ -266,13 +266,6 @@ Most Popular
 [Suspended sentence for Derry woman who stole over £10,000 from Alcoholics Anonymous](https://www.derrynow.com/news/local-news/1654610/suspended-sentence-for-derry-woman-who-stole-over-10-000-from-alcoholics-anonymous.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Wednesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Wednesday")](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Wednesday, November 13, 2024](https://www.derrynow.com/news/deaths/1653983/derry-death-notices-wednesday-november-13-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspected gas leak in Creggan area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
 
 Suspected gas leak Creggan area of Derry.
@@ -342,6 +335,15 @@ Colm Whelan puts pen to paper on a multi-year deal with Bohemians
 
 [Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![New RTÉ kids show stars Derry YouTuber Adam B](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "New RTÉ kids show stars Derry YouTuber Adam B")](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+
+Pictured: Rathdowney comedian Mary Claire Fitzpatrick
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[New RTÉ kids show stars Derry YouTuber Adam B](https://www.derrynow.com/news/local-news/1654491/new-rte-kids-show-stars-derry-youtuber-adam-b.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,6 +525,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Thursday, November 14, 2024](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry teenager named as part of Hitech GP’s British Formula 4 line-up](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry teenager named as part of Hitech GP’s British Formula 4 line-up")](https://www.derrynow.com/news/sport/1655327/county-derry-teenager-named-as-part-of-hitech-gps-british-formula-4-line-up.html)
 
 Fionn McLaughlin is also part of the Red Bull Junior Driver Team (INPHO/Red Bull Content Pool/Joerg Mitter)
@@ -532,7 +541,7 @@ Fionn McLaughlin is also part of the Red Bull Junior Driver Team (INPHO/Red Bull
 [County Derry teenager named as part of Hitech GP’s British Formula 4 line-up](https://www.derrynow.com/news/sport/1655327/county-derry-teenager-named-as-part-of-hitech-gps-british-formula-4-line-up.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![DAERA Minister visits newly improved Manor Park, Moneymore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "DAERA Minister visits newly improved Manor Park, Moneymore")](https://www.derrynow.com/news/home/1655228/daera-minister-visits-newly-improved-manor-park-moneymore.html)
+[![DAERA Minister visits newly improved Manor Park, Moneymore](https://www.derrynow.com/resizer/165/93/true/2024_11_13/Manor_Park-16-1731524357634.JPG--.JPG?1731524358633 "DAERA Minister visits newly improved Manor Park, Moneymore")](https://www.derrynow.com/news/home/1655228/daera-minister-visits-newly-improved-manor-park-moneymore.html)
 
 Deputy Chair of Mid Ulster District Council, Councillor Wesley Brown is pictured with the DAERA Minister, Andrew Muir MLA and Sharon McGowan and Patrick Cosgrove (DfC).
 
@@ -567,13 +576,6 @@ Education Minister Paul Givan has been invited to visit St Brigid’s College.
 
 [Education Minister invited to visit St Brigid's College in Derry](https://www.derrynow.com/news/local-news/1654560/education-minister-invited-to-visit-st-brigid-s-college-in-derry.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Still time to share views on Northern Trust’s proposals for general surgery services](https://www.derrynow.com/resizer/165/93/true/2023_04_21/mj-1682084428975.png--.png?1682084429096 "Still time to share views on Northern Trust’s proposals for general surgery services")](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
-
-[Home](https://www.derrynow.com/)
-
-[Still time to share views on Northern Trust’s proposals for general surgery services](https://www.derrynow.com/news/home/1655218/still-time-to-share-views-on-northern-trusts-proposals-for-general-surgery-services.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
