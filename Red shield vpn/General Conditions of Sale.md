@@ -6,9 +6,9 @@ You are not protected
 
 [![Red Shield VPN](/_nuxt/logo.6cef71f7.png)![Red Shield VPN](/_nuxt/logo_short.c94cb288.png)](https://redshieldvpn.com/en)
 
-En
+🇬🇧 En
 
-[Ru](javascript:;)[En](javascript:;)
+[🇬🇧 English](javascript:;)[🇪🇸 Espanol](javascript:;)[🇷🇺 Русский](javascript:;)
 
 [Subscribe](https://my.redshieldvpn.com/register)
 
@@ -192,4 +192,4 @@ HAMILTON, NY, 13346
   
 [contact@redshieldvpn.com](mailto:contact@redshieldvpn.com)  
 
-[](tg://resolve?domain=redshieldvpn)[](https://www.facebook.com/pages/category/Science--Technology---Engineering/Red-Shield-VPN-101014258248527/)[](http://twitter.com/redshieldvpn)
+[](tg://resolve?domain=redshieldvpn)[](https://www.facebook.com/pages/category/Science--Technology---Engineering/Red-Shield-VPN-101014258248527/)[](https://twitter.com/redshieldvpn)
