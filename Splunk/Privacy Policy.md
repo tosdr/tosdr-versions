@@ -100,6 +100,8 @@ false
         
     * [Splunk IT Service Intelligence](https://www.splunk.com/en_us/products/it-service-intelligence.html)
         
+    * [Splunk AppDynamics](https://www.splunk.com/en_us/products/splunk-appdynamics.html)
+        
     
     ![Platform](/content/dam/splunk2/en_us/icons/standard/delivery-platform.svg)
     
@@ -468,6 +470,8 @@ More from Splunk
 [Splunk Observability Cloud](https://www.splunk.com/en_us/products/observability-cloud.html)
 
 [Splunk IT Service Intelligence](https://www.splunk.com/en_us/products/it-service-intelligence.html)
+
+[Splunk AppDynamics](https://www.splunk.com/en_us/products/splunk-appdynamics.html)
 
 ![Platform](/content/dam/splunk2/en_us/icons/standard/delivery-platform.svg)
 
