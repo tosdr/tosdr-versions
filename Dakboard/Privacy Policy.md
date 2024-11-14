@@ -164,7 +164,6 @@ If you believe that a child has provided us with personal information, please [C
 ##### Links
 
 [Home](https://dakboard.com/site)  
-[Business](https://dakboard.com/site/business)  
 [Pricing](https://dakboard.com/pricing)  
 [Shop](https://shop.dakboard.com/)  
 [About](https://dakboard.com/about)  
