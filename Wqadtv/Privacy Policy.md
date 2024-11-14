@@ -30,16 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-couple-plead-guilty-stealing-170000-dollars-relative/526-c5f38eb7-1662-49a7-ab92-1b58af3900aa)
+        
+        #### [Davenport couple pleads guilty to stealing more than $170,000 from relative](https://www.wqad.com/article/news/crime/davenport-couple-plead-guilty-stealing-170000-dollars-relative/526-c5f38eb7-1662-49a7-ab92-1b58af3900aa)
+        
     *  [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
         
-        #### [Fake bomb threat made at Moline Taco Bell, 12-year-old detained](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613) [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
-        
-        #### [12-year-old detained after making fake bomb threat at Moline Taco Bell, police say](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613) [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
-        
-        #### [12-year-old detained after allegedly making fake bomb threat at Moline Taco Bell](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
-    *  [![](https://media.tegna-media.com/assets/KARE/images/615749f0-1448-4829-b6c4-3b0af06d666d/20241114T042423/615749f0-1448-4829-b6c4-3b0af06d666d_16x9.jpg) ![](https://media.tegna-media.com/assets/KARE/images/615749f0-1448-4829-b6c4-3b0af06d666d/20241114T042423/615749f0-1448-4829-b6c4-3b0af06d666d_360x203.jpg)](https://www.wqad.com/article/news/local/all-aboard-the-borealis-julie-bel-hop-fast-track-to-chicago/89-42072276-19b1-4acc-8dd0-cfbe3bb44020)
-        
-        #### [All aboard the Borealis! Amtrak creating a fast track to Chicago](https://www.wqad.com/article/news/local/all-aboard-the-borealis-julie-bel-hop-fast-track-to-chicago/89-42072276-19b1-4acc-8dd0-cfbe3bb44020)
+        #### [12-year-old detained after making fake bomb threat at Moline Taco Bell, police say](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ab1f5dc2-3c90-4a7c-9662-8144daf031df/20241114T131326/ab1f5dc2-3c90-4a7c-9662-8144daf031df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ab1f5dc2-3c90-4a7c-9662-8144daf031df/20241114T131326/ab1f5dc2-3c90-4a7c-9662-8144daf031df_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8c0afa8-25c5-4f9f-a587-a64b93c2932b/20241114T222811/c8c0afa8-25c5-4f9f-a587-a64b93c2932b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c0afa8-25c5-4f9f-a587-a64b93c2932b/20241114T222811/c8c0afa8-25c5-4f9f-a587-a64b93c2932b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Tracking showers and fog to start your Thursday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Clouds to stick around for the rest of the night](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
@@ -89,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+46°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
