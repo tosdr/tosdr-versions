@@ -244,9 +244,9 @@ Brazil
 
 Canada
 
-[English](https://can.mars.com/en/)
+[English](https://www.mars.com/en-ca)
 
-[Français](https://can.mars.com/fr/)
+[Français](https://www.mars.com/fr-ca)
 
 Mexico
 
