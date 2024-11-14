@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+*  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
     
     [Politics](https://www.women.com/category/politics/)
     
-    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    [6 Celebrities Who Had Abortions & Later Had Children By Choice](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
-    ======================================================================================================================================================
+    [5 Celebs Who Clapped Back At Demands They Label Their Sexuality](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+    ==================================================================================================================================================
     
-    Abortion is a controversial topic in post Roe America, and pro choice celebrities haven't been afraid to speak out about their experiences.
+    No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+    By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
     
-* *  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
+* *  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+        
+        [Politics](https://www.women.com/category/politics/)
+        
+        [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+        
+        ### [6 Celebrities Who Had Abortions & Later Had Children By Choice](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+        
+        Abortion is a controversial topic in post Roe America, and pro choice celebrities haven't been afraid to speak out about their experiences.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+        
+    *  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
         
         [Exclusives](https://www.women.com/category/exclusives/)
         
@@ -65,18 +77,6 @@
         Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
         
         By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
-        
-    *  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-        
-        [Sex](https://www.women.com/category/sex-life/)
-        
-        [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
-        
-        ### [How To Tell Your Partner You Want To Have Spicier Sex](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
-        
-        It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
-        
-        By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
         
 
 More Stories
@@ -105,6 +105,18 @@ More Stories
     Makeup trends for winter 2024/2025 include classic holiday colors, metallics, and goth girl glam. But the natural, "no-makeup" look is also popular.
     
     By Emily Hutchinson [Read More](https://www.women.com/1709009/winter-2024-2025-makeup-trends-seeing-everywhere/)
+    
+*  [![Two people embracing](https://www.women.com/img/gallery/how-to-tell-your-partner-you-want-to-have-spicier-sex/intro-1730835547.jpg)](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
+    
+    [Sex](https://www.women.com/category/sex-life/)
+    
+    [Sex](https://www.women.com/category/sex-life/) By Amanda Chatel
+    
+    ### [How To Tell Your Partner You Want To Have Spicier Sex](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
+    
+    It might be time to spice things up and lean into the thrill of experimenting with each other. But broach this conversation mindfully.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1706028/how-to-tell-partner-want-spicier-sex/)
     
 *  [![Shiloh and Angelina Jolie](https://www.women.com/img/gallery/shiloh-jolies-stunning-style-transformation/intro-1730825127.jpg)](https://www.women.com/1705729/shiloh-jolie-stunning-style-transformation/)
     
@@ -393,18 +405,6 @@ More Stories
     Youngest child to Angelina Jolie and Brad Pitt, Vivienne Marcheline Jolie is now paving her way in the world, and she is uniquely herself.
     
     By Bernadette Roe [Read More](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
-    
-*  [![Ciara on the red carpet](https://www.women.com/img/gallery/15-celebrities-with-iconic-maternity-fashion/intro-1729706679.jpg)](https://www.women.com/1695972/celebrities-maternity-fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [15 Celebrities With Iconic Maternity Fashion](https://www.women.com/1695972/celebrities-maternity-fashion/)
-    
-    Celebrities like Beyoncé, Rihanna, and Blake Lively are proving that maternity fashion doesn't have to mean hiding your baby bump.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1695972/celebrities-maternity-fashion/)
     
 
 Back
