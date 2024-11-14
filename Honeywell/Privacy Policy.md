@@ -7534,7 +7534,7 @@ INDUSTRIES
 * [Commercial Buildings](https://www.honeywell.com/us/en/industries/buildings-cities)
 * [Energy](https://www.honeywell.com/us/en/industries/energy)
 * [Healthcare](https://www.honeywell.com/us/en/industries/healthcare)
-* [IT/High-Tech](https://www.honeywell.com/us/en/industries/high-tech)
+* [Data Centers](https://www.honeywell.com/us/en/industries/data-centers)
 * [Life Sciences](https://www.honeywell.com/us/en/industries/life-sciences)
 * [Logistics & Warehouse](https://www.honeywell.com/us/en/industries/supply-chain)
 * [Manufacturing](https://www.honeywell.com/us/en/industries/manufacturing)
