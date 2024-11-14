@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/51HansS_20160415_00000141/davis-kelvin-ng%C4%81ti-p%C5%ABkenga-claims-settlement-bill-first/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/political-parties/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/51HansS_20160415_00000141/davis-kelvin-ng%C4%81ti-p%C5%ABkenga-claims-settlement-bill-first/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/mps-and-electorates/political-parties/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
