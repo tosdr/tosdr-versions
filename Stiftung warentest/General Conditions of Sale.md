@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Bank­karten zum Giro­konto: Debitkarte – was die neuen Karten können und was nicht](https://www.test.de/Debitkarte-zum-Girokonto-6008302-0/ "Bankkarten zum Girokonto - Debitkarte – was die neuen Karten können und was nicht")
-* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
-* [Gut essen mit der Stiftung Warentest: Orecchiette in Grün](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Orecchiette-in-Gruen-6045209-0/ "Gut essen mit der Stiftung Warentest - Orecchiette in Grün")
-* [Photovoltaik-Anlagen: So erkennen Sie unseriöse Anbieter von Solar­anlagen](https://www.test.de/Photovoltaik-Anlagen-So-erkennen-Sie-unserioese-Anbieter-von-Solaranlagen-6149204-0/ "Photovoltaik-Anlagen - So erkennen Sie unseriöse Anbieter von Solaranlagen")
-* [Wanderja­cken im Test: Viele sind nicht ganz dicht](https://www.test.de/Wanderjacken-im-Test-Viele-sind-nicht-ganz-dicht-6160402-0/ "Wanderjacken im Test - Viele sind nicht ganz dicht")
-* [Nahrungs­ergän­zungs­mittel: Warnung vor Ashwagandha](https://www.test.de/Nahrungsergaenzungsmittel-Warnung-vor-Ashwagandha-6162426-0/ "Nahrungsergänzungsmittel - Warnung vor Ashwagandha")
+* [Projekt Digi­taler Engel: Hilfe für Senioren im Umgang mit Technik](https://www.test.de/Projekt-Digitaler-Engel-Hilfe-fuer-Senioren-im-Umgang-mit-Technik-5944629-0/ "Projekt Digitaler Engel - Hilfe für Senioren im Umgang mit Technik")
+* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
+* [Rück­ruf: Brandgefahr bei Philips-Staubsaugern](https://www.test.de/Rueckruf-Brandgefahr-bei-Philips-Staubsaugern-6160624-0/ "Rückruf - Brandgefahr bei Philips-Staubsaugern")
+* [Aufsicht warnt: Vorsicht vor Kaizentech­limited.com](https://www.test.de/Aufsicht-warnt-Vorsicht-bei-Kaizentechlimitedcom-6045723-0/ "Aufsicht warnt - Vorsicht vor Kaizentechlimited.com")
+* [Alkohol und Gesundheit: Gesund­heits­risiko steigt mit jedem Glas](https://www.test.de/Alkohol-und-Gesundheit-Gesundheitsrisiko-steigt-mit-jedem-Glas-6152254-0/ "Alkohol und Gesundheit - Gesundheitsrisiko steigt mit jedem Glas")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
 
 Service Stiftung Warentest
 
