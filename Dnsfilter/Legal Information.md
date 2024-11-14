@@ -337,6 +337,16 @@ Cross-Border Data Transfer. If we transfer your personal information to a countr
 
 If you have any questions or concerns about our Privacy Policy or any other privacy matters, please contact us at [privacy@dnsfilter.com](mailto:privacy@dnsfilter.com).
 
+[![How MSPs Can Enhance Customer Experience with Technology](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_thepowerofcustomerexperience%281%291.webp?width=500&height=190&name=newsroom_thepowerofcustomerexperience%281%291.webp)
+
+Posted on November 13, 2024 by Mikey Pruitt
+
+ **
+
+How MSPs Can Enhance Customer Experience with Technology
+
+**](https://www.dnsfilter.com/blog/the-power-of-customer-experience)
+
 [![From The Election Polls to Holiday Deals: Cybercriminals are Preying on Seasonal Trends For Their Own Gain](https://www.dnsfilter.com/hs-fs/hubfs/newsroom_fromtheelectionpollstoholidaydealscybercriminalsarepreyingonseasonaltrendsfortheirowngain1.webp?width=500&height=190&name=newsroom_fromtheelectionpollstoholidaydealscybercriminalsarepreyingonseasonaltrendsfortheirowngain1.webp)
 
 Posted on November 13, 2024 by TK Keanini
@@ -356,16 +366,6 @@ Posted on November 12, 2024 by Kory Underdown
 Ensuring CIPA Compliance: A Practical Guide (and checklist) for Educational Leaders
 
 **](https://www.dnsfilter.com/blog/cipa-requirements-compliance-checklist)
-
-[![The Power of Customer Experience](https://www.dnsfilter.com/hs-fs/hubfs/Newsroom-%20The%20Power%20of%20Customer%20Experience.jpg?width=500&height=190&name=Newsroom-%20The%20Power%20of%20Customer%20Experience.jpg)
-
-Posted on November 12, 2024 by Mikey Pruitt
-
- **
-
-The Power of Customer Experience
-
-**](https://www.dnsfilter.com/blog/the-power-of-customer-experience)
 
 ![dnsfilter logo dark dns protection](https://www.dnsfilter.com/hubfs/raw_assets/public/Dnsfilter_March2023/images/5fda16a63a8939e688d5cc59_Layer%201.svg "dnsfilter logo dark dns protection")
 
