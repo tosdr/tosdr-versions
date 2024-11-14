@@ -49,10 +49,10 @@
     
     Training & Support
     
-    * [DocsPlus LearningHub](https://cricksoft.com/docsplus/learninghub/)
-    * [Get started](https://cricksoft.com/docsplus/learninghub/get-started/)
-    * [Tutorials](https://cricksoft.com/docsplus/learninghub/tutorials/)
-    * [Webinars](https://cricksoft.com/docsplus/learninghub/webinars/)
+    * [DocsPlus LearningHub](https://cricksoft.com/docsplus/docspluslearninghub/)
+    * [Get started](https://cricksoft.com/docsplus/docspluslearninghub/get-started/)
+    * [Tutorials](https://cricksoft.com/docsplus/docspluslearninghub/tutorials/)
+    * [Webinars](https://cricksoft.com/docsplus/docspluslearninghub/webinars/)
     * [Technical support](https://cricksoft.com/docsplus/technical-support/)
     * [FAQ](https://cricksoft.com/docsplus/faq/)
     
