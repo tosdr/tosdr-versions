@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1b09e217-2a64-43ff-bc41-275269abdb17/20241114T061402/1b09e217-2a64-43ff-bc41-275269abdb17_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1b09e217-2a64-43ff-bc41-275269abdb17/20241114T061402/1b09e217-2a64-43ff-bc41-275269abdb17_360x203.jpg)](https://www.king5.com/article/news/local/bpd-officer-suffered-critical-injuries-fall-i-5-on-ramp-sues-state-negligence/281-8bd22631-7c09-4dc2-b7f7-ce999ed98e27)
+    *  [![](https://media.king5.com/assets/KING/images/fa147645-42cf-4595-901a-f656ad67c3f2/20241113T162555/fa147645-42cf-4595-901a-f656ad67c3f2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fa147645-42cf-4595-901a-f656ad67c3f2/20241113T162555/fa147645-42cf-4595-901a-f656ad67c3f2_360x203.jpg)](https://www.king5.com/article/life/food/largest-asian-supermarket-washington-state-bellevue/281-1a26c874-21d4-49af-ab67-9a849adc4b88)
         
-        #### [BPD officer who suffered critical injuries after fall from I-5 on-ramp sues state for negligence](https://www.king5.com/article/news/local/bpd-officer-suffered-critical-injuries-fall-i-5-on-ramp-sues-state-negligence/281-8bd22631-7c09-4dc2-b7f7-ce999ed98e27)
+        #### [Largest Asian supermarket in Washington state set to open in Bellevue](https://www.king5.com/article/life/food/largest-asian-supermarket-washington-state-bellevue/281-1a26c874-21d4-49af-ab67-9a849adc4b88)
         
-    *  [![](https://media.king5.com/assets/KING/images/eb6f8270-1df3-462e-94fa-4ecf4027084d/20241114T071857/eb6f8270-1df3-462e-94fa-4ecf4027084d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/eb6f8270-1df3-462e-94fa-4ecf4027084d/20241114T071857/eb6f8270-1df3-462e-94fa-4ecf4027084d_360x203.jpg)](https://www.king5.com/article/money/home-developers-flocking-to-marysville-but-expert-says-prices-staying-high/281-f7c7b783-c1db-450b-8c6f-69b31ddff829)
+    *  [![](https://media.king5.com/assets/KING/images/0616b4da-6fa7-49b4-8936-a7b825ef3e94/20241003T144114/0616b4da-6fa7-49b4-8936-a7b825ef3e94_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0616b4da-6fa7-49b4-8936-a7b825ef3e94/20241003T144114/0616b4da-6fa7-49b4-8936-a7b825ef3e94_360x203.jpg)](https://www.king5.com/article/news/crime/bellevue-arrest-vandalizing-pride-installation/281-427d8f76-c6c4-449b-af6c-28924f7bf0e8)
         
-        #### [Home developers are flocking to Marysville, but an expert says prices are staying high](https://www.king5.com/article/money/home-developers-flocking-to-marysville-but-expert-says-prices-staying-high/281-f7c7b783-c1db-450b-8c6f-69b31ddff829)
+        #### [Police arrest suspect accused of vandalizing Bellevue Pride art installation](https://www.king5.com/article/news/crime/bellevue-arrest-vandalizing-pride-installation/281-427d8f76-c6c4-449b-af6c-28924f7bf0e8)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-51°
+50°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
