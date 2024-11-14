@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Fight for the things that you care about, but do it in a way that will lead others to join you”
+“ I don’t care that they stole my idea — I care that they don’t have any of their own”
 
-[Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg)
+[Nikola Tesla](https://en.wikipedia.org/wiki/Nikola_Tesla)
 
 [](https://www.adafruit.com/about)
 
