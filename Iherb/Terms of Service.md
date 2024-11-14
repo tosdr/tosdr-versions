@@ -1131,11 +1131,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-22% auf Sportnahrung
+[\-22% auf Kollagen 
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/sports?pcode=22SPORTS24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/collagen?pcode=22COLLAGEN24)
 
       
 
