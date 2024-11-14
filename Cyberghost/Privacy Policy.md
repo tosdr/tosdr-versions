@@ -393,18 +393,16 @@ Connect with us
 
 © 2024 CyberGhost S.R.L.
 
- 
-
 ×
 
-![](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/ei-default-image.png)
+BLACK FRIDAY MEGA SALE
 
-### Time to Step up Your Digital Protection
+OFF
+---
 
-The 2-Year Plan Is Now  
-Available for only /mo
------------------------------------------------
+You don’t want to miss this sale:  
+**4 months FREE!**
 
-**Save Now**
+Get It Now | /mo
 
-![undefined](https://assets.cyberghostvpn.com/photos/cg/campaigns/july2022/cg-fp-small-shield.svg) 45-Day Money-Back Guarantee
+45-Day Money-Back Guarantee
