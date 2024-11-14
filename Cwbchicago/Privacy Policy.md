@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2023/12/Cameron-Jernigan-326x245.jpg)](https://cwbchicago.com/2024/11/probation-for-man-who-sexually-abused-woman-he-followed-from-red-line-station.html "Probation for man who sexually abused woman he followed from Red Line station")
+
+Bridgeport
+
+### [Probation for man who sexually abused woman he followed from Red Line station](https://cwbchicago.com/2024/11/probation-for-man-who-sexually-abused-woman-he-followed-from-red-line-station.html "Probation for man who sexually abused woman he followed from Red Line station")
+
+[November 11, 2024 2:28 PM](https://cwbchicago.com/2024/11)
+
+A man accused of sexually abusing a woman he followed from the Sox-35th Red Line station one year ago has received probation in exchange for his guilty plea.[](https://cwbchicago.com/2024/11/probation-for-man-who-sexually-abused-woman-he-followed-from-red-line-station.html "Probation for man who sexually abused woman he followed from Red Line station")
+
+[![](https://cwbchicago.com/wp-content/uploads/2022/12/Telisa-Pratt-326x245.jpg)](https://cwbchicago.com/2024/11/woman-gets-9-years-for-shooting-12-year-old-who-argued-with-her-niece.html "Woman gets 9 years for shooting 12-year-old who argued with her niece")
+
+South Chicago
+
+### [Woman gets 9 years for shooting 12-year-old who argued with her niece](https://cwbchicago.com/2024/11/woman-gets-9-years-for-shooting-12-year-old-who-argued-with-her-niece.html "Woman gets 9 years for shooting 12-year-old who argued with her niece")
+
+[November 11, 2024 8:31 AM](https://cwbchicago.com/2024/11)
+
+A woman has been given a nine-year sentence for intentionally shooting a 12-year-old girl who got into an argument with her niece.[](https://cwbchicago.com/2024/11/woman-gets-9-years-for-shooting-12-year-old-who-argued-with-her-niece.html "Woman gets 9 years for shooting 12-year-old who argued with her niece")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/city-hall-flags-326x245.jpg)](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [November 10, 2024 7:28 PM](https://cwbchicago.com/2024/11)
 
 Far too often, Chicago’s flags fly at half-staff in honor of first responders, military personnel, and others who gave their lives in service. But who decides whether and when to lower the flags? And when are they raised again?[](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb14-326x245.jpg)](https://cwbchicago.com/2024/11/yet-another-murder-victim-found-lying-on-a-street-previously-monitored-by-shotspotter.html "Yet another murder victim found lying on a street previously monitored by ShotSpotter")
-
-West Pullman
-
-### [Yet another murder victim found lying on a street previously monitored by ShotSpotter](https://cwbchicago.com/2024/11/yet-another-murder-victim-found-lying-on-a-street-previously-monitored-by-shotspotter.html "Yet another murder victim found lying on a street previously monitored by ShotSpotter")
-
-[November 10, 2024 8:51 AM](https://cwbchicago.com/2024/11)
-
-Police and fire personnel responding to a “person down” call on Saturday evening discovered the individual had been shot to death. Hours later, not too far away, another man met a similar fate.[](https://cwbchicago.com/2024/11/yet-another-murder-victim-found-lying-on-a-street-previously-monitored-by-shotspotter.html "Yet another murder victim found lying on a street previously monitored by ShotSpotter")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/01/Rodney-Henderson-326x245.jpg)](https://cwbchicago.com/2024/11/carjacker-gets-6-years-for-targeting-driver-in-the-loop-while-on-pretrial-release-for-2-felony-cases.html "Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases")
-
-Loop
-
-### [Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases](https://cwbchicago.com/2024/11/carjacker-gets-6-years-for-targeting-driver-in-the-loop-while-on-pretrial-release-for-2-felony-cases.html "Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases")
-
-[November 10, 2024 8:22 AM](https://cwbchicago.com/2024/11)
-
-A man who carjacked a driver in the Loop earlier this year while on pretrial release for two other felony cases has been given a six-year prison sentence.[](https://cwbchicago.com/2024/11/carjacker-gets-6-years-for-targeting-driver-in-the-loop-while-on-pretrial-release-for-2-felony-cases.html "Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases")
 
 Search
 
