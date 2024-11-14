@@ -243,36 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb13-326x245.jpg)](https://cwbchicago.com/2024/11/murder-victim-found-fatally-shot-in-south-side-intersection-previously-served-by-shotspotter.html "Murder victim found fatally shot in South Side intersection previously served by ShotSpotter")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/city-hall-flags-326x245.jpg)](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
 
-East Side
+Citywide
 
-### [Murder victim found fatally shot in South Side intersection previously served by ShotSpotter](https://cwbchicago.com/2024/11/murder-victim-found-fatally-shot-in-south-side-intersection-previously-served-by-shotspotter.html "Murder victim found fatally shot in South Side intersection previously served by ShotSpotter")
+### [Why aren’t Chicago’s flags at half-staff? When will they be lowered?](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
 
-[November 10, 2024 7:35 AM](https://cwbchicago.com/2024/11)
+[November 10, 2024 7:28 PM](https://cwbchicago.com/2024/11)
 
-Passersby reported finding a man struck by a car in an East Side intersection overnight. He had, in fact, been shot and his vehicle was overhead, on the Chicago Skyway. The neighborhood where the murder occurred used to be served by ShotSpotter.  
-[](https://cwbchicago.com/2024/11/murder-victim-found-fatally-shot-in-south-side-intersection-previously-served-by-shotspotter.html "Murder victim found fatally shot in South Side intersection previously served by ShotSpotter")
+Far too often, Chicago’s flags fly at half-staff in honor of first responders, military personnel, and others who gave their lives in service. But who decides whether and when to lower the flags? And when are they raised again?[](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Raylon-East-Navy-Pier-326x245.jpg)](https://cwbchicago.com/2024/11/one-week-after-firing-navy-pier-employee-returned-to-kill-2-co-workers-officials-say-in-first-detailed-account.html "One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/bb14-326x245.jpg)](https://cwbchicago.com/2024/11/yet-another-murder-victim-found-lying-on-a-street-previously-monitored-by-shotspotter.html "Yet another murder victim found lying on a street previously monitored by ShotSpotter")
 
-Streeterville
+West Pullman
 
-### [One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account](https://cwbchicago.com/2024/11/one-week-after-firing-navy-pier-employee-returned-to-kill-2-co-workers-officials-say-in-first-detailed-account.html "One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account")
+### [Yet another murder victim found lying on a street previously monitored by ShotSpotter](https://cwbchicago.com/2024/11/yet-another-murder-victim-found-lying-on-a-street-previously-monitored-by-shotspotter.html "Yet another murder victim found lying on a street previously monitored by ShotSpotter")
 
-[November 9, 2024 6:10 PM](https://cwbchicago.com/2024/11)
+[November 10, 2024 8:51 AM](https://cwbchicago.com/2024/11)
 
-One week after being fired from his food service job at Navy Pier, 36-year-old Raylon East returned to the lakefront attraction, murdered two former co-workers, and tossed the gun into Lake Michigan, prosecutors said Saturday.[](https://cwbchicago.com/2024/11/one-week-after-firing-navy-pier-employee-returned-to-kill-2-co-workers-officials-say-in-first-detailed-account.html "One week after firing, Navy Pier employee returned to kill 2 co-workers, officials say in first detailed account")
+Police and fire personnel responding to a “person down” call on Saturday evening discovered the individual had been shot to death. Hours later, not too far away, another man met a similar fate.[](https://cwbchicago.com/2024/11/yet-another-murder-victim-found-lying-on-a-street-previously-monitored-by-shotspotter.html "Yet another murder victim found lying on a street previously monitored by ShotSpotter")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/09/CPD-patch-2024-generic-edited-326x245.jpg)](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
+[![](https://cwbchicago.com/wp-content/uploads/2024/01/Rodney-Henderson-326x245.jpg)](https://cwbchicago.com/2024/11/carjacker-gets-6-years-for-targeting-driver-in-the-loop-while-on-pretrial-release-for-2-felony-cases.html "Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases")
 
-South Loop
+Loop
 
-### [Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
+### [Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases](https://cwbchicago.com/2024/11/carjacker-gets-6-years-for-targeting-driver-in-the-loop-while-on-pretrial-release-for-2-felony-cases.html "Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases")
 
-[November 9, 2024 10:07 AM](https://cwbchicago.com/2024/11)
+[November 10, 2024 8:22 AM](https://cwbchicago.com/2024/11)
 
-The parents of a woman found dead in the stairwell of a South Loop luxury high-rise are asking a judge to block the woman’s husband from claiming her remains.[](https://cwbchicago.com/2024/11/family-asks-court-to-block-husband-from-claiming-remains-of-woman-found-dead-in-south-loop-stairwell.html "Family asks court to block husband from claiming remains of woman found dead in South Loop stairwell")
+A man who carjacked a driver in the Loop earlier this year while on pretrial release for two other felony cases has been given a six-year prison sentence.[](https://cwbchicago.com/2024/11/carjacker-gets-6-years-for-targeting-driver-in-the-loop-while-on-pretrial-release-for-2-felony-cases.html "Carjacker gets 6 years for targeting driver in the Loop while on pretrial release for 2 felony cases")
 
 Search
 
