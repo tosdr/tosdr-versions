@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [GOA, GOF, TFA Sue City of Memphis for Violating Tennessee Preemption Law](https://www.thegunpage.com/goa-gof-tfa-sue-city-of-memphis-for-violating-tennessee-preemption-law/10611859)
+* [C&H Precision Slide Milling Service & Duty Optic Review](https://www.thegunpage.com/ch-precision-slide-milling-service-duty-optic-review/10611856)
+* [Nosler M21 Carbon Limited Edition Rifle](https://www.thegunpage.com/nosler-m21-carbon-limited-edition-rifle/10611854)
+* [Nocpix ACE – New Flagship Thermal Rifle Scope Line](https://www.thegunpage.com/nocpix-ace-new-flagship-thermal-rifle-scope-line/10611855)
+* [Maine Gun Safety Coalition Collects Signatures For New Red Flag Law](https://www.thegunpage.com/maine-gun-safety-coalition-collects-signatures-for-new-red-flag-law/10611852)
+* [Trump’s To-Do List: How He Can Restore Justice in His First Days](https://www.thegunpage.com/trumps-to-do-list-how-he-can-restore-justice-in-his-first-days/10611850)
 * [Indian Astr Defence PHANTOM Optics-Ready Double-Stack .32 ACP Pistol](https://www.thegunpage.com/indian-astr-defence-phantom-optics-ready-double-stack-32-acp-pistol/10611845)
 * [Huffington Post Inadvertently Outlines Why Gun Owners Chose Trump](https://www.thegunpage.com/huffington-post-inadvertently-outlines-why-gun-owners-chose-trump/10611843)
 * [X2 Dev Group Releases Trident Barrels for Builders](https://www.thegunpage.com/x2-dev-group-releases-trident-barrels-for-builders/10611842)
 * [Washington State Gun Sales Have Been Shut Down For 12 Days And Counting](https://www.thegunpage.com/washington-state-gun-sales-have-been-shut-down-for-12-days-and-counting/10611840)
-* [How Trump can restore American justice in just days](https://www.thegunpage.com/how-trump-can-restore-american-justice-in-just-days/10611838)
-* [MI: Senate Expanding Dangerous “Gun Free” Zones](https://www.thegunpage.com/mi-senate-expanding-dangerous-gun-free-zones/10611848)
-* [Review: GP Arms Patriot 4.8-Inch For Action-Pistol Competition](https://www.thegunpage.com/review-gp-arms-patriot-4-8-inch-for-action-pistol-competition/10611837)
-* [TFB Interview: Sami Hautamäki – World Champion IPSC Rifle World Shoot](https://www.thegunpage.com/tfb-interview-sami-hautamaki-world-champion-ipsc-rifle-world-shoot/10611834)
-* [POTD: Danish Soldiers With Gevær M/10 C8IUR + Thermals, M60E6 and C20s](https://www.thegunpage.com/potd-danish-soldiers-with-gevaer-m-10-c8iur-thermals-m60e6-and-c20s/10611835)
-* [HOT GAT or FUDD CRAP? Pistol Grip or Hope It Doesn’t Slip?](https://www.thegunpage.com/hot-gat-or-fudd-crap-pistol-grip-or-hope-it-doesnt-slip/10611836)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Deb on [Cleaning House](https://www.conservativedailynews.com/2024/11/cleaning-house-2/#comment-783201)
 * Stanley Warner on [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/#comment-783198)
 * [Lisa](http://conservativedailynews.com/) on [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/#comment-783186)
 * KayCee on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783178)
@@ -240,7 +241,6 @@ Recent Comments
 * David Criss on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783148)
 * Beverly Sellers on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783146)
 * Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
-* KayCee on [Why Trump Won](https://www.conservativedailynews.com/2024/11/why-trump-won/#comment-783139)
 
 [Close](#)
 
