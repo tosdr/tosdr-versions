@@ -529,6 +529,7 @@ Shop Now
 * [Request Us To A Shelf](https://forms.westock.io/brand/1077?source=website&medium=website)
 * [Rewards & Loyalty](https://elsenutrition.com/pages/rewards)
 * [Affiliates](https://elsenutrition.com/pages/affiliates)
+* [Partnership Program](https://elsenutrition.com/pages/collab)
 
 Else World
 
