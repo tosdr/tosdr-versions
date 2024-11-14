@@ -91,7 +91,7 @@ Table of contents
 * [10. Links to Other Websites](#h-10-nbsp-links-to-other-websites)
 * [11. Changes to Our Privacy Policy](#h-11-nbsp-changes-to-our-privacy-policy)
 * [12. Privacy Information for California Residents](#h-12-nbsp-privacy-information-for-california-residents)
-* [13. Contact Us](#h-13-nbsp-contact-us)
+* [13. Contact Us](#h-13-contact-us)
 
 **1. Information We Collect and Their Sources**
 -----------------------------------------------
@@ -424,6 +424,8 @@ We do not knowingly sell the personal information of minors under 16 years of ag
 
 **13. Contact Us**
 ------------------
+
+To exercise the privacy rights and choices, please use this [webform](https://www.care.com/swf/privacyRequestForm?execution=e1s1).
 
 If you have any questions on our Privacy Policy and practices, you can contact us via email at [privacy@care.com](mailto:privacy@care.com) or at:
 
