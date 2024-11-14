@@ -28,16 +28,16 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 300 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 63 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 20 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 19 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 272 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 56 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 18 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
-* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 4 files
-* [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
+* [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 3 files
 * [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
-* [nu11secur1ty](https://packetstormsecurity.com/files/authors/14758) 2 files
+* [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
+* [Valentin Lobstein](https://packetstormsecurity.com/files/authors/16024) 2 files
 
 Recent News
 -----------
@@ -59,6 +59,38 @@ Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cisco](https://packetstormsecurity.com/news/tags/cisco), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36592/) | [View](https://www.securityweek.com/citrix-cisco-fortinet-zero-days-among-2023s-most-exploited-vulnerabilities/)
+
+[Ivanti Patches 50 Vulnerabilities Across Several Products](https://packetstormsecurity.com/news/view/36591/Ivanti-Patches-50-Vulnerabilities-Across-Several-Products.html)
+
+Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:29 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36591/) | [View](https://www.securityweek.com/ivanti-patches-50-vulnerabilities-across-several-products/)
+
+[Intel And AMD Have Released Many Advisories](https://packetstormsecurity.com/news/view/36590/Intel-And-AMD-Have-Released-Many-Advisories.html)
+
+Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:09 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [intel](https://packetstormsecurity.com/news/tags/intel)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36590/) | [View](https://www.securityweek.com/chipmaker-patch-tuesday-intel-publishes-44-and-amd-publishes-8-new-advisories/)
+
+[November Patch Tuesday Brings Cornucopia Of 89 Fixes To Windows](https://packetstormsecurity.com/news/view/36589/November-Patch-Tuesday-Brings-Cornucopia-Of-89-Fixes-To-Windows.html)
+
+Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:03 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36589/) | [View](https://www.scworld.com/news/november-patch-tuesday-brings-cornucopia-of-89-fixes-to-windows)
+
+[China's Volt Typhoon Surges Back With A Vengeance](https://packetstormsecurity.com/news/view/36588/Chinas-Volt-Typhoon-Surges-Back-With-A-Vengeance.html)
+
+Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:35:56 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36588/) | [View](https://www.theregister.com/2024/11/13/china_volt_typhoon_back/)
 
 [U.S. May Support Global Surveillance Treaty Hated by Everyone but Authoritarian Governments](https://packetstormsecurity.com/news/view/36587/U.S.-May-Support-Global-Surveillance-Treaty-Hated-by-Everyone-but-Authoritarian-Governments.html)
 
@@ -91,38 +123,6 @@ Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36584/) | [View](https://www.scworld.com/news/excel-doc-loaded-with-remcos-rat-lets-attackers-gain-backdoor-access)
-
-[Critical NAS-ty Flaw Strikes D-Link Storage Boxes](https://packetstormsecurity.com/news/view/36583/Critical-NAS-ty-Flaw-Strikes-D-Link-Storage-Boxes.html)
-
-Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:01:47 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36583/) | [View](https://www.scworld.com/news/nas-ty-flaw-strikes-d-link-storage-boxes)
-
-[Amazon Confirms Employee Data Exposed In Leak Linked TO MOVEit Vulnerability](https://packetstormsecurity.com/news/view/36582/Amazon-Confirms-Employee-Data-Exposed-In-Leak-Linked-TO-MOVEit-Vulnerability.html)
-
-Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:01:41 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [amazon](https://packetstormsecurity.com/news/tags/amazon), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [flaw](https://packetstormsecurity.com/news/tags/flaw)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36582/) | [View](https://www.theregister.com/2024/11/12/amazon_moveit_breach/)
-
-[DDoS Temporarily Blocked Israeli Credit Card Payments](https://packetstormsecurity.com/news/view/36581/DDoS-Temporarily-Blocked-Israeli-Credit-Card-Payments.html)
-
-Posted [Nov 11, 2024](https://packetstormsecurity.com/news/date/2024-11-11/ "15:42:12 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [denial of service](https://packetstormsecurity.com/news/tags/denial_of_service), [israel](https://packetstormsecurity.com/news/tags/israel)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36581/) | [View](https://www.timesofisrael.com/ddos-cyberattack-temporarily-blocks-israeli-credit-card-payments/)
-
-[Dark Web Crypto Laundering Kingpin Sentenced To 12.5 Years In Prison](https://packetstormsecurity.com/news/view/36580/Dark-Web-Crypto-Laundering-Kingpin-Sentenced-To-12.5-Years-In-Prison.html)
-
-Posted [Nov 11, 2024](https://packetstormsecurity.com/news/date/2024-11-11/ "15:38:38 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36580/) | [View](https://www.theregister.com/2024/11/11/bitcoin_fog_sentencing/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1639449377&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1639449377.1731597551.1731597551.1731597551.1%3B%2B__utmz%3D32867617.1731597551.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1850707098&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1850707098.1731619491.1731619491.1731619491.1%3B%2B__utmz%3D32867617.1731619491.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
