@@ -165,31 +165,31 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Creation Science Update
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/faith-hope-love-step)
+[![](/i/ICR_Sept23_wallpaper_1400x1050_main.jpg)](https://www.icr.org/article/september-2023-icr-wallpaper)
 
-[Faith, Hope, and Love in Step](https://www.icr.org/article/faith-hope-love-step/)
+[September 2023 ICR Wallpaper](https://www.icr.org/article/september-2023-icr-wallpaper/)
 
-“And now abideth faith, hope, charity, these three; but the greatest of these is charity.” (1 Corinthians 13:13) Love, rendered...
+"If you walk in My statutes and keep My commandments, and perform them, then I will give you rain in its season, the land shall yield its produce, and...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/wisdom-for-encountering-trials)
+[![](/i/Main%20Stage%20-%201400x1050/DrummerWood_1400x1050.jpg)](https://www.icr.org/article/Natures-Drummer)
 
-[Wisdom for Encountering Trials](https://www.icr.org/article/wisdom-for-encountering-trials/)
+[Nature's Drummer](https://www.icr.org/article/Natures-Drummer/)
 
-“Count it all joy when ye fall into divers temptations; knowing this, that the trying of your faith worketh patience. But let patience have...
+The sweet melody of songbirds fills the air as the forest wakes up. But there is another familiar voice that joins in the morning songs: woodpecker....
 
-BY: [CHARLES (CHAS) C. MORSE, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=223)
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14123)
+[![](/i/Main%20Stage%20-%201400x1050/FineStructure_1400x1050.jpg)](https://www.icr.org/article/The-Fine-Structure-Constant)
 
-[The First Love](https://www.icr.org/article/14123/)
+[The Fine-Structure Constant: Evidence of Design in Nature](https://www.icr.org/article/The-Fine-Structure-Constant/)
 
-“Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me:...
+The job of physicists is to worry about numbers, but one number has perplexed physicists for more than a century. That number is 0.00729735256—approximately...
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
