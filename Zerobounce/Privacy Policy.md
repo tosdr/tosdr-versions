@@ -42,6 +42,7 @@ Trigger navigation
     * [Enterprise](https://www.zerobounce.net/enterprise/ "Enterprise")
     * [Agencies](https://www.zerobounce.net/solutions/agencies/ "Agencies")
     * [Business Development](https://www.zerobounce.net/solutions/business-development/ "Business Development")
+    * [Class-Action Settlements](https://www.zerobounce.net/solutions/class-action-settlement-email-validation/ "Class-Action Settlements")
     * [Developers](https://www.zerobounce.net/solutions/developers/ "Developers")
     * [Email Marketing](https://www.zerobounce.net/solutions/email-marketing/ "Email Marketing")
     * [SMB](https://www.zerobounce.net/solutions/smb/ "SMB")
