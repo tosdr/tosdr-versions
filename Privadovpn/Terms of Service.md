@@ -83,7 +83,7 @@
     * [简体中文](https://privadovpn.com/zh-cn/fu-wu-tiao-kuan/)
     * [繁體中文](https://privadovpn.com/zh-tc/fu-wu-tiao-kuan/)
     
-* [Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD&coupon=12mo299-homepage&biannualcoupon=24mo199-homepage&monthcoupon=1mo1099-homepage)
+* [Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD)
 * [Upgrade](https://signup.privadovpn.com/upgrade?token=)
 
 PrivadoVPN Terms of Service
@@ -312,7 +312,7 @@ Currency
 
 Sign Up
 
-[Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD&coupon=12mo299-homepage&biannualcoupon=24mo199-homepage&monthcoupon=1mo1099-homepage)
+[Get PrivadoVPN](https://signup.privadovpn.com/?currency=USD)
 
 55
 
