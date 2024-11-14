@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [UK Politics Thread: Kemi Badenoch ele… (12,289)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,289 posts)")
-* [What do you love about AN? (1,984)](https://forum.nationstates.net/viewtopic.php?t=551356&f=25&view=unread#unread ""What do you love about AN?" (1,984 posts)")
-* [American Politics: Turnabout Trump (4,459)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,459 posts)")
-* [What question do you want to ask AU? (11,645)](https://forum.nationstates.net/viewtopic.php?t=492529&f=25&view=unread#unread ""What question do you want to ask AU?" (11,645 posts)")
-* [AN Out of Context III (4,088)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,088 posts)")
+* [Where do Democrats go from here? (679)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (679 posts)")
+* [UK Politics Thread: Kemi Badenoch ele… (12,299)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,299 posts)")
+* [Hypothetical: Californian Secession (72)](https://forum.nationstates.net/viewtopic.php?t=558290&f=20&view=unread#unread ""Hypothetical: Californian Secession" (72 posts)")
+* [Lone Wolves United - For Your Protection (772)](https://forum.nationstates.net/viewtopic.php?t=510102&f=12&view=unread#unread ""Lone Wolves United - For Your Protection" (772 posts)")
+* [Ask BN a question (2,032)](https://forum.nationstates.net/viewtopic.php?t=550451&f=25&view=unread#unread ""Ask BN a question" (2,032 posts)")
 
 Advertisement
 
