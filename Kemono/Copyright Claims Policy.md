@@ -74,7 +74,7 @@ For further assistance, or for any questions regarding takedowns, please [contac
 
 * [\[Contact\]](https://kemono.party/contact)
 * [\[Status\]](https://status.kemono.su/)
-* [\[API\]](https://kemono.party/api/schema)
+* [\[API\]](https://kemono.party/documentation/api)
 * [\[2257 Statement\]](https://kemono.party/2257)
 * [\[DMCA\]](https://kemono.party/dmca)
 
