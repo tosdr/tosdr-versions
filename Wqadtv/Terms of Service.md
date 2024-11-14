@@ -36,11 +36,8 @@ Navigation
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
         
-        #### [Davenport City Council passes rent abatement ordinance](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8) [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
+        #### [Davenport City Council passes rent abatement ordinance](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
         
-        #### [Davenport passes rent abatement ordinance: here's what it does](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8) [![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b97d302f-b741-4000-be37-5879fa6e20df/20241114T035744/b97d302f-b741-4000-be37-5879fa6e20df_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
-        
-        #### [Here's how Davenport's new rent abatement ordinance works](https://www.wqad.com/article/news/local/public-safety/davenport-rent-abatement-ordinance/526-e576aa97-6afa-45b3-a47c-a8c2f3d41dc8)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -89,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-50°
+46°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Mist](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
