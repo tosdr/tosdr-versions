@@ -88,6 +88,6 @@ FoxyProxy is a USA company privately owned by Americans. Mailing address is avai
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-It's been 3 months, maybe more, My Android signs in to FoxyProxy in 2 seconds, much faster than in the past. Not only that, but it has a faster transfer speed. I like what you are doing, keep it up folks. You'll soon rule the internet proxy service.
+My phone battery died in mid-sentence, but not before I was able to express my gratitude for your patient assistance and my glee at having FoxyProxy back.
 
-Dennis Cote
+Dan Revell
