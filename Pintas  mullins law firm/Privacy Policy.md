@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Handling noncompliance in nursing homes](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements-scaled.jpg "Handling Noncompliance in Nursing Homes")](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/ "Handling Noncompliance in Nursing Homes")
+[![What is asbestosis disease?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-is-asbestosis-disease-scaled.jpg "What Is Asbestosis Disease?")](https://www.pintas.com/practice-areas/lung-cancer/asbestosis "What Is Asbestosis Disease?")
 
-[#### Handling Noncompliance in Nursing Homes](https://www.pintas.com/faq/what-if-my-nursing-home-was-found-noncompliant-with-federal-requirements/)
+[#### What Is Asbestosis Disease?](https://www.pintas.com/practice-areas/lung-cancer/asbestosis)
 
-[![Is there a cure for mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-mesothelioma-lawyer-is-there-a-cure-for-mesothelioma.jpg "Is There a Cure for Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/ "Is There a Cure for Mesothelioma?")
+[![What cancers are caused by asbestos?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-what-cancers-are-caused-by-asbestos.jpg "What Cancers Are Caused By Asbestos?")](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/ "What Cancers Are Caused By Asbestos?")
 
-[#### Is There a Cure for Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-there-a-cure-for-mesothelioma/)
+[#### What Cancers Are Caused By Asbestos?](https://www.pintas.com/lung-cancer/how-do-you-test-for-asbestos-in-the-lungs/)
 
-[![Where is johnson & johnson baby powder manufactured?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-where-is-j-and-j-baby-powder-manufactured.jpg "Where Is Johnson & Johnson Baby Powder Manufactured?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured "Where Is Johnson & Johnson Baby Powder Manufactured?")
+[![What causes abdominal mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/10/lung-cancer-mesothelioma-lawyer-what-causes-abdominal-mesothelioma-scaled.jpg "What Causes Abdominal Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-abdominal-mesothelioma/ "What Causes Abdominal Mesothelioma?")
 
-[#### Where Is Johnson & Johnson Baby Powder Manufactured?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/where-is-johnson-and-johnson-baby-powder-manufactured)
+[#### What Causes Abdominal Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/what-causes-abdominal-mesothelioma/)
 
 ### Injured?  
 Tell Us What Happened.
