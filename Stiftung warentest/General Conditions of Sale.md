@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Investieren in Gold: Wie umgehen mit der Gold­rallye?](https://www.test.de/Investieren-in-Gold-Wie-umgehen-mit-der-Goldrallye-6105829-0/ "Investieren in Gold - Wie umgehen mit der Goldrallye?")
-* [Private Zusatz­rente: So funk­tioniert der Pleite-Schutz für Ihre Alters­vorsorge](https://www.test.de/Zusatzrenten-Wie-sicher-sind-Ihre-privaten-Renten-6017304-0/ "Private Zusatzrente - So funktioniert der Pleite-Schutz für Ihre Altersvorsorge")
-* [Dispozinsen: Alle Banken im Test](https://www.test.de/Dispozinsen-Alle-Banken-im-Test-6007265-0/ "Dispozinsen - Alle Banken im Test")
-* [Gut essen mit der Stiftung Warentest: Gemüsedöner mit Feta](https://www.test.de/Gute-essen-mit-der-Stiftung-Warentest-Gemuesedoener-mit-Feta-5999597-0/ "Gut essen mit der Stiftung Warentest - Gemüsedöner mit Feta")
-* [Deutsch­land-ETF: Das sind die Alternativen zum Dax](https://www.test.de/Deutschland-ETF-Das-sind-die-Alternativen-zum-Dax-6012269-0/ "Deutschland-ETF - Das sind die Alternativen zum Dax")
-* [Finanz­bildung: Mit Kindern über Geld sprechen](https://www.test.de/Mit-Kindern-ueber-Geld-sprechen-6071008-0/ "Finanzbildung - Mit Kindern über Geld sprechen")
+* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
+* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
+* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
+* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
 
 Service Stiftung Warentest
 
