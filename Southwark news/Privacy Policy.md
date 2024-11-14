@@ -377,11 +377,11 @@ Website
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
-[![L: Neckinger Estate, Bermondsey. R: The 'maggots' (now moth larvae) on the kitchen ceiling.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-05-11-2024-at-16.46-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+[![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
-### [Bermondsey mum wrongly told ‘maggots falling from ceiling’ were due to ‘dead carcass’ in her extractor fan](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
-[6th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-mum-wrongly-told-maggots-falling-from-ceiling-were-due-to-dead-carcass-in-her-extractor-fan/)
+[12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
 ### Featured Articles
 
