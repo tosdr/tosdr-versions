@@ -279,23 +279,23 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Inset: Jacquelyn Powers (Facebook). Background: Powers being arrested in connection to her daughter's fentanyl overdose (KTVI).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/asdfasdfafdaf-432x243.jpg)](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
+1. [![Inset: Jacquelyn Powers (Facebook). Background: Powers being arrested in connection to her daughter's fentanyl overdose (KTVI).](https://lawandcrime.com/wp-content/uploads/2024/11/asdfasdfafdaf-432x243.jpg)](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
     
     ### [Mom gave teen 'pill that she found in her drawer' to treat toothache, 10 hours later she was dead: Police](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
     
-2. [![Patrick Byrne, Hunter Biden](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Byrne-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
+2. [![Patrick Byrne, Hunter Biden](https://lawandcrime.com/wp-content/uploads/2024/10/Byrne-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
     
     ### [Ex-Overstock CEO says Hunter Biden is basically just calling him 'a right-wing nutjob' in order to keep his Iran-themed defamation lawsuit afloat](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
     
-3. [![U.S. District Judge Algenon Marbley (Office of Diversity and Inclusion - The Ohio State University).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Judge-marbley-432x243.jpg)](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
+3. [![U.S. District Judge Algenon Marbley (Office of Diversity and Inclusion - The Ohio State University).](https://lawandcrime.com/wp-content/uploads/2024/11/Judge-marbley-432x243.jpg)](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
     
     ### [Clinton-appointed judge pulls reverse retirement card on Trump, rescinds 'senior status' decision after his election win](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
     
-4. [![Inset: Shaelynn Renoblas (Sheriff's Department via WPTA). Background: Manchester University in Indiana (Google Maps).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/threats-432x243.jpg)](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
+4. [![Inset: Shaelynn Renoblas (Sheriff's Department via WPTA). Background: Manchester University in Indiana (Google Maps).](https://lawandcrime.com/wp-content/uploads/2024/11/threats-432x243.jpg)](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
     
     ### ['Air this b---- out': College student allegedly sends threatening texts with gun emojis, then tells cops she has 'a dark sense of humor'](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
     
-5. [![Haven Duncan, Jaqory Gill and Life Ford](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Laundromat-dryer-suspects-432x243.jpg)](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
+5. [![Haven Duncan, Jaqory Gill and Life Ford](https://lawandcrime.com/wp-content/uploads/2024/11/Laundromat-dryer-suspects-432x243.jpg)](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
     
     ### [Trio stuffed 6-year-old in dryer spin cycle because he was crying about losing bag of chips: Cops](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
     
