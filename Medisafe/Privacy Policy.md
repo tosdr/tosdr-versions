@@ -161,18 +161,18 @@
 Privacy Policy
 ==============
 
-28 Feb 2024
+14 Nov 2024
 
 [Share](https://www.addtoany.com/share)
 
 **PRIVACY POLICY – MEDISAFE PROJECT**
 =====================================
 
-**_UPDATED Sept. 9, 2024_**
+**_UPDATED Nov. 14, 2024_**
 
 We have the highest regard for your privacy and personal information and realize that the success of our services depends on the trust that you have in the way we handle your personal information. By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken considerable steps to protect the confidentiality, security and integrity of this information. We encourage you to review the following information carefully.
 
-This Privacy Policy applies to your use of the Medisafe mobile device applications (including the Medisafe App and Medisafe Maestro Link; collectively the “Apps”) and related websites located at [www.medisafe.com](https://www.medisafe.com/) and www.medisafeapp.com (including their mobile-optimized versions, collectively the “Site”) owned by Medisafe Project Ltd. (“we” or “us”). The Apps and the Site are referred to together as the “Service”. “You” refers to any user of the Service.
+This Privacy Policy applies to your use of the Medisafe mobile device applications (including the Medisafe App and Medisafe Maestro Link; collectively the “Apps”) and related websites located at [www.medisafe.com,](https://www.medisafe.com/) www.medisafeapp.com and HIVWeightLoss.com (including their mobile-optimized versions, collectively the “Site”) owned by Medisafe Project Ltd. (“we” or “us”). The Apps and the Site are referred to together as the “Service”. “You” refers to any user of the Service.
 
 This policy sets out our commitments and explains the rights that you have with respect to your personal information. We may update this Privacy Policy from time to time. Any changes will be effective immediately upon the posting of the revised Privacy Policy. We encourage you to periodically review this Privacy Policy for the latest information on our privacy practices. If you do not agree to the terms of this Privacy Policy, please do not use the Service.
 
