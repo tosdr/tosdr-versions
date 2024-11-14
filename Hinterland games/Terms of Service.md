@@ -1,6 +1,6 @@
  [Jump to content](#elContent "Go to main content on this page")
 
-[![Hinterland Forums](//content.invisioncic.com/g266965/monthly_2022_11/hinterland-forum-logo.png.fa7fee1f01f5bb0bf53774f3e8a63b40.png)](https://hinterlandforums.com/)
+[![Hinterland Forums](//media.invisioncic.com/g266965/monthly_2022_11/hinterland-forum-logo.png.fa7fee1f01f5bb0bf53774f3e8a63b40.png)](https://hinterlandforums.com/)
 
 [Community Home](https://hinterlandforums.com/ "Go to the community homepage")
 
@@ -29,7 +29,7 @@ Our software uses cookies to distinguish you from other users of our website. Th
 
 * [Home](https://hinterlandforums.com/ "Home")
 
-![1974565198_HInterlandfooterlogov4.png.cdcf708786a2f6bb3ce6388438b094f6.png](//content.invisioncic.com/g266965/monthly_2019_03/1974565198_HInterlandfooterlogov4.png.cdcf708786a2f6bb3ce6388438b094f6.png)
+![1974565198_HInterlandfooterlogov4.png.cdcf708786a2f6bb3ce6388438b094f6.png](//media.invisioncic.com/g266965/monthly_2019_03/1974565198_HInterlandfooterlogov4.png.cdcf708786a2f6bb3ce6388438b094f6.png)
 
 © 2012-2024 Hinterland Studio Inc.   
 "THE LONG DARK", "Hinterland", the hatchet and the fox logo  
