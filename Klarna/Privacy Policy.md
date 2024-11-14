@@ -21,6 +21,7 @@ Shopping categories
 * [Black Friday](https://www.klarna.com/us/shopping/c/black-friday/)
 * [Holidays](https://www.klarna.com/us/shopping/c/holiday-decor/)
 * [Gift ideas](https://www.klarna.com/us/shopping/c/gifts/)
+* [Blog](https://www.klarna.com/us/shopping/blog/)
 * [Health & Beauty](https://www.klarna.com/us/shopping/t/10/Health-Beauty/)
 * [Clothing & Accessories](https://www.klarna.com/us/shopping/t/141/Clothing-Accessories/)
 * [Toys & Hobbies](https://www.klarna.com/us/shopping/t/1493/Toys-Hobbies/)
