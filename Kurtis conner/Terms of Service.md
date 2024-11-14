@@ -5,6 +5,7 @@
 * [Tour](https://shop.kurtisconner.com/pages/tour)
 * [Apparel](https://shop.kurtisconner.com/collections/apparel)
 * [Accessories](https://shop.kurtisconner.com/collections/accessories-1)
+* [Christmas Order Dates](https://privacy-policy.sandbagheadquarters.com/2024-xmas-delivery-dates-us/)
 
 [Log in](https://shop.kurtisconner.com/account/login)
 
@@ -268,6 +269,7 @@ United States | USD $
 * [Tour](https://shop.kurtisconner.com/pages/tour)
 * [Apparel](https://shop.kurtisconner.com/collections/apparel)
 * [Accessories](https://shop.kurtisconner.com/collections/accessories-1)
+* [Christmas Order Dates](https://privacy-policy.sandbagheadquarters.com/2024-xmas-delivery-dates-us/)
 
 Country/region
 --------------
