@@ -87,13 +87,13 @@ Most Read
     
     1. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
     
-2. 2. [New secret math benchmark stumps AI models and PhDs alike](https://arstechnica.com/ai/2024/11/new-secret-math-benchmark-stumps-ai-models-and-phds-alike/)
+2. 2. [Trump says Elon Musk will lead “DOGE,” a new Department of Government Efficiency](https://arstechnica.com/tech-policy/2024/11/trump-says-elon-musk-will-lead-doge-a-new-department-of-government-efficiency/)
     
-3. 3. [Record labels unhappy with court win, say ISP should pay more for user piracy](https://arstechnica.com/tech-policy/2024/11/record-labels-unhappy-with-court-win-say-isp-should-pay-more-for-user-piracy/)
+3. 3. [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
     
-4. 4. [Trump says Elon Musk will lead “DOGE,” a new Department of Government Efficiency](https://arstechnica.com/tech-policy/2024/11/trump-says-elon-musk-will-lead-doge-a-new-department-of-government-efficiency/)
+4. 4. [How a stubborn computer scientist accidentally launched the deep learning boom](https://arstechnica.com/ai/2024/11/how-a-stubborn-computer-scientist-accidentally-launched-the-deep-learning-boom/)
     
-5. 5. [There are some things the Crew-8 astronauts aren’t ready to talk about](https://arstechnica.com/space/2024/11/there-are-some-things-the-crew-8-astronauts-arent-ready-to-talk-about/)
+5. 5. [Amazon ends free ad-supported streaming service after Prime Video with ads debuts](https://arstechnica.com/gadgets/2024/11/amazon-ends-free-ad-supported-streaming-service-after-prime-video-with-ads-debuts/)
     
 
 Customize
