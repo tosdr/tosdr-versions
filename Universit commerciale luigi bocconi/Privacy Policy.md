@@ -32,6 +32,7 @@ Menu Close
     * [International Networks](https://www.unibocconi.eu/en/about-us/international-networks)
     * [Diversity, Equity and Inclusion](https://www.unibocconi.eu/en/about-us/diversity-equity-and-inclusion)
     * [Sustainability](https://www.unibocconi.eu/en/about-us/sustainability)
+    * [History](https://www.unibocconi.eu/en/about-us/history)
     
 * Programs
     
@@ -194,7 +195,12 @@ About Us
         
     
 * [Third Mission](https://www.unibocconi.eu/en/about-us/third-mission)
-* [Quality](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
+* Quality
+    
+    [Overview](https://www.unibocconi.eu/en/about-us/organization/quality-assurance-system)
+    
+    * [Bocconi Teaching Awards](https://www.unibocconi.eu/en/about-us/quality/bocconi-teaching-awards)
+    
 * [Ranking](https://www.unibocconi.eu/en/about-us/education-quality-rankings-world)
 * International Networks
     
@@ -224,6 +230,7 @@ About Us
     * [New Sustainable Campus](https://www.unibocconi.eu/en/about-us/sustainability/new-sustainable-campus)
     * [Enviromental Policy And Related Management System](https://www.unibocconi.eu/en/about-us/sustainability/enviromental-policy-and-related-management-system)
     
+* [History](https://www.unibocconi.eu/en/about-us/history)
 
 Close
 
