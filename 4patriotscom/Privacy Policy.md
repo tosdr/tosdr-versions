@@ -1,6 +1,6 @@
-[America Loves This Delicious 4-Week Survival Food Kit![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+[Early Black Friday Deals | Up to 30% Off![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
-Learn More](https://4patriots.com/product/4-week-emergency-survival-food-kit)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+Shop Now](https://4patriots.com/category/deals)![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
 
 [SHOP](https://4patriots.com/category/shop-all)
 
