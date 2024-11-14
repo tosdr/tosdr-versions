@@ -65,7 +65,7 @@ New orders are expected to ship by
 
 Sign in
 
- [* ![](//www.lttstore.com/cdn/shop/t/123/assets/shopify-logo.svg?v=182554083611724108241729193571) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/123/assets/floatplane-logo-notext.svg?v=135174765184720699891729193487) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/124/assets/shopify-logo.svg?v=182554083611724108241731607562) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/124/assets/floatplane-logo-notext.svg?v=135174765184720699891731607562) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [![LTTStore](//www.lttstore.com/cdn/shop/files/LTT_Logo.png?v=1667427218&width=50)](https://www.lttstore.com/)
 
@@ -94,7 +94,7 @@ Sign in
 
 Sign in through
 
- [* ![](//www.lttstore.com/cdn/shop/t/123/assets/shopify-logo.svg?v=182554083611724108241729193571) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/123/assets/floatplane-logo-notext.svg?v=135174765184720699891729193487) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
+ [* ![](//www.lttstore.com/cdn/shop/t/124/assets/shopify-logo.svg?v=182554083611724108241731607562) Shopify](https://www.lttstore.com/account/login) [* ![](//www.lttstore.com/cdn/shop/t/124/assets/floatplane-logo-notext.svg?v=135174765184720699891731607562) Floatplane](https://floatplane.com/channel/linustechtips/shopify/login?redirect=https://www.lttstore.com)
 
 [Cart](https://www.lttstore.com/cart)
 
@@ -255,7 +255,7 @@ Support
 -------
 
 * [Help Center / Contact Us](https://www.lttstore.com/pages/contact-us)
-![linus tech tips logo](//www.lttstore.com/cdn/shop/t/123/assets/ltt-logo.svg?v=133296236752336137041729184739)
+![linus tech tips logo](//www.lttstore.com/cdn/shop/t/124/assets/ltt-logo.svg?v=133296236752336137041731607562)
 
 © LINUS TECH TIPS STORE Powered by Shopify
 
