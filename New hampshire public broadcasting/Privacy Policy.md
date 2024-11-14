@@ -190,9 +190,9 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [| The Shamrock Tenors: Live From Belfast](https://video.nhpbs.org/video/the-shamrock-tenors-live-from-belfast-vjge7h?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**With Peter Bradley Trailer** | Local, USA](https://video.nhpbs.org/video/local-usa-with-peter-bradley-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"China, the U.S. & the Rise of Xi Jinping" - Preview** | FRONTLINE](https://video.nhpbs.org/video/china-the-us-the-rise-of-xi-jinping-preview-4avniv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**A Real Pain** | Flicks](https://video.nhpbs.org/video/a-real-pain-oznk59?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Filming Lions in the Namib Desert** | Nature](https://video.nhpbs.org/video/filming-lions-in-the-namib-desert?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Trump's Win: How a "Polluted Information Environment" Shaped the Election** | Amanpour and Company](https://video.nhpbs.org/video/trumps-win-how-a-polluted-information-environment-shaped-the-election-s9vdyo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**November 13, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-13-2024-pbs-news-hour-full-episode-1731474001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Extended Preview** | Lucy Worsley's Holmes vs. Doyle](https://video.nhpbs.org/video/extended-preview-0sedpf?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
