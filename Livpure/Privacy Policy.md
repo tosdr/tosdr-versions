@@ -507,13 +507,13 @@ Create an account with us to view your order status online. Your details can als
 
 ### Let customers speak for us
 
-[4549 reviews](https://www.livpure.com/pages/reviews)
+[4550 reviews](https://www.livpure.com/pages/reviews)
 
 [Write a review](#)
 
 87%
 
-(3979)
+(3980)
 
 10%
 
@@ -530,6 +530,16 @@ Create an account with us to view your order status online. Your details can als
 1%
 
 (41)
+
+P
+
+[Glitz (UV+UF) Water Purifier](https://livpure.com/products/glitz-water-purifier-uv-uf#judgeme_product_reviews)
+
+Prabhanjan Moleyar
+
+**Happy**
+
+Ordered Livpure Glitz UV+UF filter by calling the number given on the product site. On the website, the product was shown as 'Sold Out' but the customer care executive was able to add to the stock and guided me through the purchase process. Apart from the tracking number provided, there were no updates for a few days, and then suddenly there was an update that the delivery would be made next day. The delivery got delayed by a day as I was not available on site, but I did not have to do any follow-up. The installation request was triggered automatically, I did not have to do anything. Again, the installation was delayed due to my unavailability, but again I did not have to do any follow-up. The system seems to have automatically escalated the delay until the installation was completed. I have used the same filter earlier. The only one negative comment I have is that the tap tends to get cut very easily, but otherwise the filter has been trouble-free.
 
 A
 
@@ -572,22 +582,6 @@ Krishna Settikere
 Very excellent product earlier i had neck problem now after using it pain subsided
 
 Thank you for your valuable review. We are glad that you are loving our product. We would love to serve you again! Keep snoozing with us.
-
-K
-
-[Bolt+ (RO+UF) Water Purifier](https://livpure.com/products/bolt-ro#judgeme_product_reviews)
-
-Krishna Tiwari
-
-**Very Nice Taste**
-
-No requirement of any external Sediment filter. Very nice taste after filteration.  
-No bitterness. Model is also looking elegant in design.  
-Overall recommended product.
-
-[](https://judgeme.imgix.net/livpure/1683454631__img-20230423-wa0003__original.jpeg?auto=format)
-
-Thank you for your valuable review. We are glad that you are loving our products. We would love to serve you again!
 
 123
 
