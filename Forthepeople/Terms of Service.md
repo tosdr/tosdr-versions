@@ -68,6 +68,7 @@
     * [The Case Process](https://www.forthepeople.com/blog/the-case-process/)
     * [About Us](https://www.forthepeople.com/who-we-are/)
     * [Blog](https://www.forthepeople.com/blog/)
+    * [Post Car Accident Checklist](https://www.forthepeople.com/blog/8-things-to-do-after-car-accident/)
     * Careers
         * [Employment Opportunities](https://www.forthepeople.com/employment/)
         * [Student Opportunities](https://www.forthepeople.com/student-careers/)
