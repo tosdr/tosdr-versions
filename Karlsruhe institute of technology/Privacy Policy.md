@@ -146,6 +146,7 @@
         
         * [Xueting Huang](https://secuso.aifb.kit.edu/english/Staff_2681.php)
         * [Zi Le Leow](https://secuso.aifb.kit.edu/english/Staff_2626.php)
+        * [Christian Mack](https://secuso.aifb.kit.edu/english/Staff_2817.php)
         * [Thanusha Santhakumar](https://secuso.aifb.kit.edu/english/Staff_2723.php)
         * [Leonie Schmidt-Enke](https://secuso.aifb.kit.edu/english/Staff_2161.php)
         * [Patrick Schneider](https://secuso.aifb.kit.edu/english/Staff_2214.php)
