@@ -19,7 +19,7 @@ Condiciones generales
 
 Los documentos legales necesarios para ofrecer nuestros servicios. El documento de Condiciones Generales de Contratación es jurídicamente vinculante en inglés; se facilitan traducciones para su comodidad.
 
-[Ver la versión en inglés](https://weblate.org/en/terms/)
+[Ver la versión en inglés](https://weblate.org/en/terms/) [Download as PDF](https://weblate.org/static/Weblate_General_Terms_and_Conditions.pdf)
 
 The rights and obligations of the User and the Provider resulting from the use of the Service are governed by these General Terms and Conditions.
 
