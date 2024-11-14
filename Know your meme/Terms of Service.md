@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Leopards Eating People's Faces Party](https://knowyourmeme.com/memes/leopards-eating-peoples-faces-party "Leopards Eating People's Faces Party") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [RadiaActive "No Violations of the Dress Code"](https://knowyourmeme.com/memes/vtuber-radiaactives-no-violations-of-the-dress-code "RadiaActive "No Violations of the Dress Code"") [Gender-reversed 'Polite' Compliments Comic](https://knowyourmeme.com/memes/gender-reversed-polite-compliments-comic "Gender-reversed 'Polite' Compliments Comic") [Nick Fuentes Doxxing](https://knowyourmeme.com/memes/events/nick-fuentes-doxxing "Nick Fuentes Doxxing") [Humongous Sword Guy](https://knowyourmeme.com/memes/humongous-sword-guy "Humongous Sword Guy")
+[Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Leopards Eating People's Faces Party](https://knowyourmeme.com/memes/leopards-eating-peoples-faces-party "Leopards Eating People's Faces Party") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Luce the Vatican's Anime Mascot](https://knowyourmeme.com/memes/luce-the-vaticans-anime-mascot "Luce the Vatican's Anime Mascot") [This Shit Is So Ass](https://knowyourmeme.com/memes/this-shit-is-so-ass "This Shit Is So Ass")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo Yo! You must login or signup first!
+### Word Up! You must login or signup first!
 
 |     |     |
 | --- | --- |
