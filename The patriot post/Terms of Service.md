@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111943-the-photo-id-map-2024-11-13)
+     [](https://patriotpost.us/memes/111954-arrogance-2024-11-14)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,14 +207,16 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
-*      [Mark Alexander The Demos’ Widening Voter Disconnect and Divide](https://patriotpost.us/alexander/111946-the-demos-widening-voter-disconnect-and-divide-2024-11-13)
-*      [Christine Flowers Other Americans Get to Vote, Too](https://patriotpost.us/opinion/111922-other-americans-get-to-vote-too-2024-11-13)
-*      [Rich Lowry Trans Moralism Is Killing the Democrats](https://patriotpost.us/opinion/111920-trans-moralism-is-killing-the-democrats-2024-11-13)
-*      [Stephen Moore Climate Change Was the Big Election Loser](https://patriotpost.us/opinion/111917-climate-change-was-the-big-election-loser-2024-11-13)
-*      [Star Parker What Happened? What’s Next?](https://patriotpost.us/opinion/111916-what-happened-whats-next-2024-11-13)
-*      [Ian Haworth America Didn’t Fall for Emperor Kamala’s New Clothes](https://patriotpost.us/opinion/111915-america-didnt-fall-for-emperor-kamalas-new-clothes-2024-11-13)
-*      [Gary Bauer FEMA Plays Favorites](https://patriotpost.us/opinion/111914-fema-plays-favorites-2024-11-13)
-*      [John Stossel Kids Need Freedom](https://patriotpost.us/opinion/111913-kids-need-freedom-2024-11-13)
+*      [Larry Elder Election 2024: Not So Random Thoughts](https://patriotpost.us/opinion/111972-election-2024-not-so-random-thoughts-2024-11-14)
+*      [Laura Hollis Hey, Democrats — It’s Your Policies](https://patriotpost.us/opinion/111970-hey-democrats-its-your-policies-2024-11-14)
+*      [Ann Coulter Trump’s Magnificent Beginning](https://patriotpost.us/opinion/111968-trumps-magnificent-beginning-2024-11-14)
+*      [Armstrong Williams Why Are We Ignoring the American Hostages in Gaza?](https://patriotpost.us/opinion/111967-why-are-we-ignoring-the-american-hostages-in-gaza-2024-11-14)
+*      [Gary Bauer Trump Returns](https://patriotpost.us/opinion/111966-trump-returns-2024-11-14)
+*      [Ben Shapiro The Trump Doctrine](https://patriotpost.us/opinion/111964-the-trump-doctrine-2024-11-14)
+*      [Cal Thomas Trump’s Chance to Change Taxation](https://patriotpost.us/opinion/111963-trumps-chance-to-change-taxation-2024-11-14)
+*      [Allen West Things That Make You Go Hmm…](https://patriotpost.us/opinion/111962-things-that-make-you-go-hmm-dot-dot-dot-2024-11-14)
+*      [The Washington Stand Fame Fatale: How the Elite Celeb Culture Doomed Dems](https://patriotpost.us/opinion/111974-fame-fatale-how-the-elite-celeb-culture-doomed-dems-2024-11-14)
+*      [The Babylon Bee Biden Administration Declares Trump Cabinet Picks ‘Unqualified’](https://patriotpost.us/opinion/111959-biden-administration-declares-trump-cabinet-picks-unqualified-2024-11-14)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +230,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“National defense is one of the cardinal duties of a statesman.” —John Adams (1815)
+“The aim of every political constitution is, or ought to be, first to obtain for rulers men who possess most wisdom to discern, and most virtue to pursue, the common good of the society; and in the next place, to take the most effectual precautions for keeping them virtuous whilst they continue to hold their public trust.” —James Madison (1788)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
