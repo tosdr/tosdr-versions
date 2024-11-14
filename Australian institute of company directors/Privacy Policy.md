@@ -33,10 +33,9 @@ Toggle Menu [![AICD](https://www.aicd.com.au/content/dam/aicd/logo/logo-dark.png
     * [Board diversity](https://www.aicd.com.au/about-aicd/governance-and-policy-leadership/board-diversity.html)
     * [The forward governance agenda](https://www.aicd.com.au/about-aicd/governance-and-policy-leadership/forward-governance-agenda.html)
     
-    [AICD Board Insights](https://www.aicd.com.au/about-aicd/board-insights.html)
-    
     [For your organisation](https://www.aicd.com.au/about-aicd/consulting.html) Open Sub Menu
     
+    * [Board Insights](https://www.aicd.com.au/about-aicd/consulting/board-insights.html)
     * [In-House Governance Development](https://www.aicd.com.au/about-aicd/consulting/in-house-governance.html)
     
     [Working with AICD](https://www.aicd.com.au/about-aicd/working-with-aicd.html) Open Sub Menu
