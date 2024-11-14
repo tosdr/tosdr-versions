@@ -307,29 +307,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Nick Mann, regional CEO of Australia, Asia and New Zealand and rotating group CEO of Swisse’s parent company H&H Group, at Swisse’s office in Collingwood, Melbourne.](https://static.ffx.io/images/$zoom_0.5387%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_660%2C$y_122/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/d1e52244f14863a310a64a9abab1bc5f595959ea)](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
+[![Grant Wilckens presides over G’Day Group, a holiday parks company that owns $2 billion of property and is the largest provider of regional accommodation in the country.](https://static.ffx.io/images/$zoom_0.2718%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_223/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c89fc6fcdc8133d229d456196c8a4d6118b58af5)](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
 
-### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
+### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
 
-* Euan Black
+* 57 mins ago
+* Sally Patten
 
-* ### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
+* ### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
     
-* ### [This top fundie names the best business leaders she has met](https://www.afr.com/work-and-careers/leaders/this-top-fundie-names-the-best-business-leaders-she-has-met-20241003-p5kfly)
+* ### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2277%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_414/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/75d0d80b75f53808faa53f9a7aa242e348cdb092)](https://www.afr.com/life-and-luxury/fashion-and-style/eight-essentials-to-get-you-travel-ready-20241104-p5knnj)
+[![Martin Shaw and Michael Hill-Smith. ](https://static.ffx.io/images/$zoom_0.1576%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bde23db96e56833a86b3d4fca3ccfd34e0e1ad50)](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
 
-### [Eight essentials to get you travel ready](https://www.afr.com/life-and-luxury/fashion-and-style/eight-essentials-to-get-you-travel-ready-20241104-p5knnj)
+### [Tolpuddle’s new tasting room is another great reason to visit Tasmania](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
 
-* Eugenie Kelly
+* 57 mins ago
+* Max Allen
 
-* ### [The rituals of a ryokan prevail in this new international hotel](https://www.afr.com/life-and-luxury/travel/the-rituals-of-a-ryokan-prevail-in-this-new-international-hotel-20241030-p5kmp0)
+* ### [10 top luxury cruises to sail away on in 2025](https://www.afr.com/life-and-luxury/travel/10-top-luxury-cruises-to-sail-away-on-in-2025-20241025-p5klgj)
     
-* ### [10 new and extraordinary international hotels to book in 2025](https://www.afr.com/life-and-luxury/travel/10-new-and-extraordinary-international-hotels-to-book-in-2025-20241025-p5klfw)
+* ### [If it’s gourmet adventures you’re after, it’s time to visit Slovenia](https://www.afr.com/life-and-luxury/food-and-wine/if-it-s-gourmet-adventures-you-re-after-it-s-time-to-visit-slovenia-20240712-p5jtax)
     
 
 [Rich List](https://www.afr.com/rich-list)
