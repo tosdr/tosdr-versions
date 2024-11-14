@@ -19,7 +19,7 @@ Your basket is empty.
 
 Added to Basket
 
-f91ded7b02d83a5a85593e5645dd8cac
+089b2bba02b2a6bce924f5533e061641
 
 [](# "Expand for more options")[](# "Search")
 
@@ -142,11 +142,11 @@ Terms and Conditions
 
 ### Featured Product
 
-[![Veined-wing butterfly clasp](https://sojourner.biz/images/cache/SKU0204front.200.jpg)](https://sojourner.biz/clasps/sterling-only/veined-wing-butterfly-clasp.html "Veined-wing butterfly clasp")
+[![Large round jet Swarovski clasp](https://sojourner.biz/images/cache/SKU0284variations.200.jpg)](https://sojourner.biz/clasps/swarovski/large-round-jet-swarovski-clasp.html "Large round jet Swarovski clasp")
 
-#### [Veined-wing butterfly clasp](https://sojourner.biz/clasps/sterling-only/veined-wing-butterfly-clasp.html "Veined-wing butterfly clasp")
+#### [Large round jet Swarovski clasp](https://sojourner.biz/clasps/swarovski/large-round-jet-swarovski-clasp.html "Large round jet Swarovski clasp")
 
-$28.00
+$30.50
 
 ### Best Sellers
 
