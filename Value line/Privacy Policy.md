@@ -51,6 +51,8 @@
 * [Institutional](https://www.valuelinepro.com/)
     
 
+The Value Line website will undergo scheduled maintenance on **Friday, November 15th, 2024** starting at **1:00AM EST**, concluding **Friday, November 15th, 2024** at **2:00AM EST**. We apologize for any inconvenience.
+
 1. [Home](https://www.valueline.com/)
 2. Privacy Policy
 
