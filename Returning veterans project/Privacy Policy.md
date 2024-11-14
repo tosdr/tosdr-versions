@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![The US Navy](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
+![Capt. Chris Brooks](https://cdn.returningveterans.org/images/honor/CPT_Chris_Brooks.jpg)  
 
-**In Honor of The US Navy**  
-United States Navy  
-Submitted by Kyle Foreman](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Capt. Chris Brooks**  
+United States Air Force  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/13/24 - 1:39:18  
+Printed 11/13/24 - 7:40:53  
 © 2024 Returning Veterans Project
