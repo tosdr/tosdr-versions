@@ -14,11 +14,20 @@ REWARDS LIVE
 
 ×
 
-Welcome to our sweepstakes! Here is some important information:  
-  
-Prizes: 4 winners selected from entries done on weekdays (Mon-Fri). 2 winners selected from entries done over the weekend (Sat-Sun), $25 per winner.  
-  
-How to participate: 1 entry/attempted paid survey. 5 entries for completing a paid survey. 5 entries for referred friend. 1 entry per day for logging in. 1 entry per day for the survey of the day.
+Welcome to our **sweepstakes**! Here is some important information:
+
+**Prizes ($25 per winner):**
+
+* •4 winners from entries earned on weekdays (Mon-Fri).
+* •2 winners from entries earned over the weekend (Sat-Sun).
+
+**How to participate:**
+
+* •1 entry/attempted paid survey.
+* •5 entries for completing a paid survey.
+* •5 entries for referred friend.
+* •1 entry per day for logging in.
+* •1 entry per day for the survey of the day.
 
 Login to Continue Close
 
@@ -378,7 +387,7 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 
 * Surveys: **91,408**
 
-* Voters: **2,956,456**
+* Voters: **2,956,945**
 
 * Light / Dark / Auto
 
