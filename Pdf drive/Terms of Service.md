@@ -307,10 +307,10 @@ Please report any violations of the TOS to us from [here.](https://www.pdfdrive.
 * [![Health & Fitness](/assets/img/cat/8.jpg,q1.pagespeed.ce.OuzH2mMuOP.jpg "Health & Fitness")
     
     Health & Fitness](https://www.pdfdrive.com/category/8)
-* [![Lifestyle](/assets/img/cat/19.jpg,q1.pagespeed.ce.HauFtH45bw.jpg "Lifestyle")
+* [![Lifestyle](/assets/img/cat/19.jpg?1 "Lifestyle")
     
     Lifestyle](https://www.pdfdrive.com/category/19)
-* [![Personal Growth](/assets/img/cat/4.jpg,q1.pagespeed.ce.DJYM8KxsPA.jpg "Personal Growth")
+* [![Personal Growth](/assets/img/cat/4.jpg?1 "Personal Growth")
     
     Personal Growth](https://www.pdfdrive.com/category/4)
 * [![Politics & Laws](/assets/img/cat/15.jpg,q1.pagespeed.ce.C7piLVryvI.jpg "Politics & Laws")
