@@ -466,7 +466,7 @@ Privacy Notice
 ![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d4ec34980b0e35281d5bf4_Line%203.avif)
 
 Effective Date: May 28, 2024  
-Last Reviewed: May 28, 2024
+Last Reviewed: Nov 7, 2024
 
 At Own, one of our key company values is building trust through transparency. We know that you care how information about you is used and shared. With this Privacy Notice, we aim to provide you transparency into the types of data we collect about you and what we do with it.
 
@@ -719,7 +719,7 @@ d) cooperate with the DPAs, the ICO and FDPIC and comply with the advice given b
 
 e) accept responsibility (including any potential liability) for onward transfers of personal data to third parties.  
 
-In addition, it is important for you to be aware that, with respect to personal data received or transferred pursuant to the Data Privacy Frameworks, Own is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission and U.S. Department of Transportation.  
+In addition, it is important for you to be aware that, with respect to personal data received or transferred pursuant to the Data Privacy Frameworks, Own is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission.  
 
 For the sake of clarity, the U.S. entity of Own adhering to the DPF Principles is the entity identified in the “[How to Contact Us](#How-to-Contact-Us)” section below.  
 
