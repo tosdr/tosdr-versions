@@ -14,6 +14,20 @@ Blog
 
 [](https://pupil-labs.com/legal/)
 
+Products
+
+Learn
+
+About
+
+Careers
+
+Blog
+
+[](https://pupil-labs.com/legal/cart)
+
+[](https://pupil-labs.com/legal/)
+
 [](https://pupil-labs.com/legal/cart)
 
 Pupil Invisible Companion App Terms of Use
