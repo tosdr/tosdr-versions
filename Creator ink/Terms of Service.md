@@ -8,7 +8,7 @@ icon-X Close menu
         
         * [After Skool](https://creatorink.com/collections/after-skool)
         * [Anti-Chef](https://creatorink.com/collections/anti-chef)
-        * [Brody Animates](https://creatorink.com/collections/brodyanimates)
+        * [BrodyAnimates](https://creatorink.com/collections/brodyanimates)
         * [Chocovania](https://creatorink.com/collections/chocovania)
         * [CircleToonsHD](https://creatorink.com/collections/circletoonshd)
         * [Cream Crew](https://creatorink.com/collections/cream-crew)
@@ -84,7 +84,7 @@ icon-X Close menu
     
     [Anti-Chef](https://creatorink.com/collections/anti-chef)
     
-    [Brody Animates](https://creatorink.com/collections/brodyanimates)
+    [BrodyAnimates](https://creatorink.com/collections/brodyanimates)
     
     [Chocovania](https://creatorink.com/collections/chocovania)
     
