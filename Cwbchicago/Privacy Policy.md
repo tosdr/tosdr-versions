@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2023/12/Cameron-Jernigan-326x245.jpg)](https://cwbchicago.com/2024/11/probation-for-man-who-sexually-abused-woman-he-followed-from-red-line-station.html "Probation for man who sexually abused woman he followed from Red Line station")
-
-Bridgeport
-
-### [Probation for man who sexually abused woman he followed from Red Line station](https://cwbchicago.com/2024/11/probation-for-man-who-sexually-abused-woman-he-followed-from-red-line-station.html "Probation for man who sexually abused woman he followed from Red Line station")
-
-[November 11, 2024 2:28 PM](https://cwbchicago.com/2024/11)
-
-A man accused of sexually abusing a woman he followed from the Sox-35th Red Line station one year ago has received probation in exchange for his guilty plea.[](https://cwbchicago.com/2024/11/probation-for-man-who-sexually-abused-woman-he-followed-from-red-line-station.html "Probation for man who sexually abused woman he followed from Red Line station")
-
-[![](https://cwbchicago.com/wp-content/uploads/2022/12/Telisa-Pratt-326x245.jpg)](https://cwbchicago.com/2024/11/woman-gets-9-years-for-shooting-12-year-old-who-argued-with-her-niece.html "Woman gets 9 years for shooting 12-year-old who argued with her niece")
-
-South Chicago
-
-### [Woman gets 9 years for shooting 12-year-old who argued with her niece](https://cwbchicago.com/2024/11/woman-gets-9-years-for-shooting-12-year-old-who-argued-with-her-niece.html "Woman gets 9 years for shooting 12-year-old who argued with her niece")
-
-[November 11, 2024 8:31 AM](https://cwbchicago.com/2024/11)
-
-A woman has been given a nine-year sentence for intentionally shooting a 12-year-old girl who got into an argument with her niece.[](https://cwbchicago.com/2024/11/woman-gets-9-years-for-shooting-12-year-old-who-argued-with-her-niece.html "Woman gets 9 years for shooting 12-year-old who argued with her niece")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/city-hall-flags-326x245.jpg)](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/John-Catanzara-Brandon-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
 
 Citywide
 
-### [Why aren’t Chicago’s flags at half-staff? When will they be lowered?](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
+### [Slain cop’s family wants mayor, governor to stay away from funeral, union chief says](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
 
-[November 10, 2024 7:28 PM](https://cwbchicago.com/2024/11)
+[November 12, 2024 12:55 PM](https://cwbchicago.com/2024/11)
 
-Far too often, Chicago’s flags fly at half-staff in honor of first responders, military personnel, and others who gave their lives in service. But who decides whether and when to lower the flags? And when are they raised again?[](https://cwbchicago.com/2024/11/why-arent-chicagos-flags-at-half-staff-when-will-they-be-lowered.html "Why aren’t Chicago’s flags at half-staff? When will they be lowered?")
+The family of slain Chicago Police Officer Enrique Martinez does not want Mayor Brandon Johnson or Gov. JB Pritzker to attend his funeral next Monday. That’s according to a video message posted by John Catanzara, president of the police union that represents Chicago’s front-line “blue shirt” cops.[](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Land-Daley-Center-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
+
+Loop
+
+### [Man charged with threatening to kill judge in Zoom court, voicemails](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
+
+[November 12, 2024 6:05 AM](https://cwbchicago.com/2024/11)
+
+A suburban man faces a host of felony charges for allegedly threatening a Cook County judge electronically and during open court.[](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Alyxandra-Goodwin-326x245.jpg)](https://cwbchicago.com/2024/11/103000-a-year-mayoral-advisors-plates-expired-in-2022-because-her-car-wont-pass-an-emissions-test.html "$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test")
+
+Citywide
+
+### [$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test](https://cwbchicago.com/2024/11/103000-a-year-mayoral-advisors-plates-expired-in-2022-because-her-car-wont-pass-an-emissions-test.html "$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test")
+
+[November 12, 2024 5:15 AM](https://cwbchicago.com/2024/11)
+
+Mayor Brandon Johnson’s $103,488-a-year public safety advisor has been driving on expired plates for two years because her “check engine” light keeps coming on and she can’t pass an emissions test.[](https://cwbchicago.com/2024/11/103000-a-year-mayoral-advisors-plates-expired-in-2022-because-her-car-wont-pass-an-emissions-test.html "$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test")
 
 Search
 
