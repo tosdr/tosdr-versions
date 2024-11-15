@@ -196,59 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Shaun Gartshore
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=161239005)  
-McKaynine Mobility
+![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=83379136)  
+ELLIE'S CLEANING CHICKS
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=127102688)  
-Network Grey (Pty) Ltd
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=129363213)  
+Website Café (PTY) LTD
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=45390751)  
-RADIO TYGERBERG 104FM NPC
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=89986519)  
+Mountain Lion Properties
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=208196833)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=99236374)  
+Super Sound Man (PTY) Ltd
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=124530756)  
-SAUL ATHOL ACRES RENTAL
+![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=32873097)  
+FX ACCOUNTING
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=133984366)  
-Westside Car Audio CC
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=5216460)  
+ARCHITEK PTY LTD
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=136313374)  
-Cooper Power
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=132508168)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=7535528)  
-Hydroworld T/A Milliqua
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=152339446)  
+Redlum Group (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=139054088)  
-IYD
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=57377110)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=38792543)  
-Wiselink Broadband Vryheid
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=156862423)  
+TIGERDSL
 
-![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=112158165)  
-MONSTER SECURITY SERVICES (NORTHAM)
-
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=110409577)  
-Alliance Energy
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=200262854)  
-Three Moons Emporium
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=199406513)  
-Prosper Park
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=183993722)  
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=191788211)  
 Bchange Online CC
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=119812697)  
+Imhoff Equestrian Centre
+
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=124653950)  
+#DiGi3 Marketing & Design
+
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=45255355)  
+Frameless Fanatix (Pty) Ltd.
+
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=155934261)  
+TechnoDezi PTY(LTD)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
