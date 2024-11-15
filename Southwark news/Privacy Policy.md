@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    ### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
+    ### [Sadiq Khan wants more money from government to hit his current affordable housing target](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
     [![Shakil Dip has called for Southwark Council to install permanent security along the market](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3150-2-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
     
     ### [East Street Market traders say safety ‘a lottery’ and call for security guards amid rising crime in Walworth](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
@@ -48,14 +56,6 @@
     Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
     
     ### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
-    
-    [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-    
-    ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    ### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
+    ### [Sadiq Khan wants more money from government to hit his current affordable housing target](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
     [![Shakil Dip has called for Southwark Council to install permanent security along the market](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3150-2-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
     
     ### [East Street Market traders say safety ‘a lottery’ and call for security guards amid rising crime in Walworth](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
@@ -134,14 +142,6 @@ View All Result
     Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
     
     ### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
-    
-    [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-    
-    ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -365,12 +365,6 @@ Website
 
 [11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
-[![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-[7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
 [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
@@ -383,7 +377,19 @@ Website
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
+[![Neil Harris passes on instructions. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/Harris-Azeez-Stoke--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
+### [‘I’ve been very careful what to say’ – Millwall boss on Stoke draw as Potters head coach reveals referee admission](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
+[9th November 2024](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
 ### Featured Articles
+
+[![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-120x86.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+
+### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+
+[15th November 2024](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
 
 [![London Bridge Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-14-11-2024-at-13.21-e1731590557478-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
 
@@ -415,12 +421,6 @@ Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-
 ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
 
 [13th November 2024](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-
-[![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-120x86.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-
-### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-
-[13th November 2024](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
 
 ### USEFUL PAGES
 
