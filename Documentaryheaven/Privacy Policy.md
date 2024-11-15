@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Roger & Me](/wp-content/thumbnails/6980-100x70.jpg?x53432)
+* [![The Andes: The Dragon’s Back](/wp-content/thumbnails/7978-100x70.jpg?x53432)
     
-    Roger & Me
+    The Andes: The Dragon’s Back
     
-    Roger & Me is a 1989 American documentary film directed by Michael Moore. Moore portrays the regional negative economic impact of General Motors CEO Roger Smith's summary action of closing several](https://documentaryheaven.com/roger-me/ "Roger & Me")
-* [![Carl Cox: Space Is The Place](/wp-content/thumbnails/12809-100x70.jpg?x53432)
+    The Andes is one of the world's most spectacular mountain ranges with one of the richest environments on Earth and a diverse and unique mix of plants and animals existing nowhere else in the world. An](https://documentaryheaven.com/andes-dragons-back/ "The Andes: The Dragon’s Back")
+* [![The London Perambulator](/wp-content/thumbnails/6308-100x70.jpg?x53432)
     
-    Carl Cox: Space Is The Place
+    The London Perambulator
     
-    Carl Cox is one of the all time greats when it comes to the history of house and techno, for about 40 years now he has been one of the most recognisable figures on the scene. Well known throughout the](https://documentaryheaven.com/carl-cox-space-is-place/ "Carl Cox: Space Is The Place")
-* [![What Killed Arafat?](/wp-content/thumbnails/6813-100x70.jpg?x53432)
+    John Rogers' film looks at the city we deny and the future city that awaits us. Leading London writers and cultural commentators Will Self, Iain Sinclair and Russell Brand explore the importance of th](https://documentaryheaven.com/the-london-perambulator/ "The London Perambulator")
+* [![America Before Columbus](/wp-content/thumbnails/6453-100x70.png?x53432)
     
-    What Killed Arafat?
+    America Before Columbus
     
-    Eight years after his death, it remains a mystery exactly what killed the longtime Palestinian leader. Tests conducted in Paris found no obvious traces of poison in Arafat’s system. Rumors abound abo](https://documentaryheaven.com/what-killed-arafat/ "What Killed Arafat?")
-* [![Silk Road: Drugs, Death and the Dark Web](/wp-content/thumbnails/13459-100x70.jpg?x53432)
+    History books traditionally depict the pre-Columbus Americas as a pristine wilderness where small native villages lived in harmony with nature.But scientific evidence tells a very different story:](https://documentaryheaven.com/america-before-columbus/ "America Before Columbus")
+* [![The Blockchain and Us](/wp-content/thumbnails/13767-100x70.jpg?x53432)
     
-    Silk Road: Drugs, Death and the Dark Web
+    The Blockchain and Us
     
-    A BBC Storyville special which sets out to take a deep look into the now infamous black market website known as the Silk Road which came into existance back in 2011. Coined the 'Amazon of illegal drug](https://documentaryheaven.com/silk-road-drugs-death-dark-web/ "Silk Road: Drugs, Death and the Dark Web")
-* [![Killer Fog](/wp-content/thumbnails/6932-100x70.jpg?x53432)
+    In 1903 the Wright brothers invented the first airplane, it was hard to imagine back then that today there would be over 500,000 people traveling in the air at any point in time. In 2008, a person or](https://documentaryheaven.com/blockchain-and-us/ "The Blockchain and Us")
+* [![Strangeways: Britain’s Toughest Prison Riot](/wp-content/thumbnails/9803-100x70.jpg?x53432)
     
-    Killer Fog
+    Strangeways: Britain’s Toughest Prison Riot
     
-    The fog that blanketed London, England, on December 5, 1952, seemed quite ordinary at first. But over the next two days, the fog turned yellow and people began to die. By the end of the week 4,000 Lon](https://documentaryheaven.com/killer-fog/ "Killer Fog")
+    Twenty-five years ago nearly 2,000 inmates broke out of their cells and took over strangeways prison in Manchester, the worlds media caught every moment of the rooftop siege, but what made strang](https://documentaryheaven.com/strangeways-britains-toughest-prison-riot/ "Strangeways: Britain’s Toughest Prison Riot")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
