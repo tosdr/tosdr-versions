@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![bien ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)0°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,22 +54,22 @@
 
 Thèmes du moment
 
+* [Football](https://www.watson.ch/fr/football/)
+* [Nati](https://www.watson.ch/fr/nati/)
 * [Elon Musk](https://www.watson.ch/fr/elon-musk/)
-* [Lausanne](https://www.watson.ch/fr/lausanne/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Musique](https://www.watson.ch/fr/musique/)
-* [Votation](https://www.watson.ch/fr/votation/)
+* [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
 * [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
-* [La Poste](https://www.watson.ch/fr/la-poste/)
 * [Grisons](https://www.watson.ch/fr/grisons/)
 * [Espagne](https://www.watson.ch/fr/espagne/)
-* [Météo](https://www.watson.ch/fr/meteo/)
-* [Twitter](https://www.watson.ch/fr/twitter/)
+* [boxe](https://www.watson.ch/fr/boxe/)
+* [Politique](https://www.watson.ch/fr/politique/)
+* [Justice](https://www.watson.ch/fr/justice/)
+* [Tourisme](https://www.watson.ch/fr/tourisme/)
 * [Israël](https://www.watson.ch/fr/israel/)
 * [Liban](https://www.watson.ch/fr/liban/)
-* [boxe](https://www.watson.ch/fr/boxe/)
-* [CFF](https://www.watson.ch/fr/cff/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [En Train](https://www.watson.ch/fr/en-train/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
 * [France](https://www.watson.ch/fr/france/)
 * [Technologie](https://www.watson.ch/fr/technologie/)
