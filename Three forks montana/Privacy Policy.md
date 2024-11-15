@@ -8,7 +8,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/s01d.png) Today's weather: Light snow 43°/25°
+![](/imgD/weatherbit_icons/s04d.png) Today's weather: Mix snow/rain 43°/25°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
@@ -37,6 +37,7 @@ Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informe
         * [Three Forks Rodeo Arena](https://www.threeforksmontana.us/three-forks-rodeo-arena)
             * [TFRA Board Minutes](https://www.threeforksmontana.us/tfra-board-minutes)
         * [Zoning & Planning](https://www.threeforksmontana.us/zoning-and-planning)
+            * [Board Agendas](https://www.threeforksmontana.us/board-agendas)
             * [Board Minutes](https://www.threeforksmontana.us/board-minutes)
     * [Capital Improvements Plan (CIP)](https://www.threeforksmontana.us/capital-improvements-plan-cip)
     * [City Charter](https://www.threeforksmontana.us/city-charter)
