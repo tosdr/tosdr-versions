@@ -246,14 +246,6 @@ MuggleNet Archive Select Month November 2024  (12) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Thu, Nov 14
-
-MuggleNet Fan Fiction's anniversary
-
-Recurs yearly
-
-2005
-
 #### Fri, Nov 15
 
 Fantastic Beasts and Where to Find Them - Movie 1 (London premiere)
@@ -324,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
+Evanna Lynch found out about the auditions for the role of Luna Lovegood after reading a news post on MuggleNet. She has been a long-term fan of the series and the website. She made Luna’s lion hat in Harry Potter and the Half-Blood Prince and created some of the jewelry worn by Luna in the films.
 
 ### Potter History
 
-October 1, 2013 – David Heyman confirms he will produce the “Fantastic Beasts” film series.
+February 19, 2009 – Filming begins on Harry Potter and the Deathly Hallows.
 
 ### Potter Quote
 
-“He knows what you were born, not who you are.”
+“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
 
 [](#)
 
