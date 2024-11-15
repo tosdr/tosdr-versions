@@ -26,16 +26,26 @@ FOX SCORES
     | PAK | 9 /64 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250801)
-* [Women's BBL
+* [Men's T20I
     
-    BRI won by 12 runs
+    ENG won by 3 wkts
     
     |     |     |
     | --- | --- |
-    | SYD6 | 8 /127 |
-    | BRI | 9 /139 |
+    | WI  | 8 /145 |
+    | ENG | 7 /149 |
     
-    Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250126)
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250603)
+* [Men's T20I
+    
+    16/11 2:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | RSA | –   |
+    | IND | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250404)
 * [Women's BBL
     
     15/11 15:45 AEST
@@ -61,27 +71,23 @@ FOX SCORES
     |     |     |
     | --- | --- |
     | SA  | 110 |
-    | NSW | 2 /140 |
+    | NSW | 3 /211 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250110)
 * [Sheffield Shield
     
-    15/11 10:30 AEST
-    
     |     |     |
     | --- | --- |
-    | VIC | –   |
-    | WA  | –   |
+    | VIC |     |
+    | WA  | 3 /84 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250111)
 * [Sheffield Shield
     
-    15/11 11:00 AEST
-    
     |     |     |
     | --- | --- |
-    | QLD | –   |
-    | TAS | –   |
+    | QLD |     |
+    | TAS | 1 /78 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250112)
 * Football
@@ -98,14 +104,24 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250501)
 * [WCQ
     
-    15/11 1:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | BHR | –   |
-    | CHN | –   |
+    | BHR | 0   |
+    | CHN | 1   |
     
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250502)
+* [WCQ
+    
+    15/11 23:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | IDN | –   |
+    | JPN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250503)
 * [A-League W
     
     15/11 19:00 AEST
@@ -120,36 +136,6 @@ FOX SCORES
     
 * [NBA
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SAC | 127 |
-    | PHO | 104 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010216/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | POR | 106 |
-    | MIN | 98  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010215/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | LAL | 128 |
-    | MEM | 123 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010214/box-score)
-* [NBA
-    
     15/11 13:00 AEST
     
     |     |     |
@@ -158,16 +144,6 @@ FOX SCORES
     | DAL | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010217)
-* [WNBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | CAN | 90  |
-    | PER | 92  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030002/play-by-play)
 * [NBL
     
     15/11 19:30 AEST
@@ -236,12 +212,12 @@ FOX SCORES
     
 * [NFL
     
-    15/11 12:15 AEST
+    Qtr Time
     
     |     |     |
     | --- | --- |
-    | PHI | –   |
-    | WAS | –   |
+    | PHI | 0   |
+    | WAS | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251112)
 
