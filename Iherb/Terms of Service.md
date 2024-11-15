@@ -1131,11 +1131,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-22% auf Kollagen 
+[\-22% auf Beauty, Bad und Körperpflege 
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/collagen?pcode=22COLLAGEN24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/cl/beauty-bath-personal-products?pcode=22BBPC24)
 
       
 
