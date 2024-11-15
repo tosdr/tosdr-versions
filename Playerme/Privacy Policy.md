@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+    [](https://player.me/avowed-is-launching-on-february-18-2025/)
     
-    ![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
+    [](https://player.me/avowed-is-launching-on-february-18-2025/)
     
-    ![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/wp-content/uploads/2024/11/Launching-on-February-18-2025.png)
+
+[Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/avowed-is-launching-on-february-18-2025/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 15, 2024/
+
+Avowed, the highly anticipated first-person RPG developed by Obsidian Entertainment is launching on February 18, 2025, for PC and Xbox…
+
+[Read More](https://player.me/avowed-is-launching-on-february-18-2025/)
+
+![Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/wp-content/uploads/2024/11/Infinity-Nikki-Release-Date-Set-on-December-5.png)
+
+[Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/infinity-nikki-release-date-set-on-december-5/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 15, 2024/
+
+After months of eager anticipation, Infinity Nikki, an open-world dress-up game, is finally set for release on December 5, 2024,…
+
+[Read More](https://player.me/infinity-nikki-release-date-set-on-december-5/)
+
 ![Misc. A Tiny Tale, a New 3D Platformer, Is Launching on PC and Nintendo Switch in 2025](https://player.me/wp-content/uploads/2024/11/a-New-3D-Platformer-Is-Launching-on-PC-and-Nintendo-Switch-in-2025.png)
 
 [Misc. A Tiny Tale, a New 3D Platformer, Is Launching on PC and Nintendo Switch in 2025](https://player.me/misc-a-tiny-tale-is-launching-on-pc-and-switch-in-2025/)
@@ -218,32 +244,6 @@ November 12, 2024/
 Marvel Rivals, the eagerly anticipated 6v6 shooter developed by NetEase, has taken center stage in the gaming world with its…
 
 [Read More](https://player.me/marvel-rivals-x-fortnite-crossover-before-end-of-2024/)
-
-![Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/wp-content/uploads/2024/11/Everything-to-Know-Before-November-19.png)
-
-[Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/towers-of-aghasba-early-access-on-november-19/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
-November 11, 2024/
-
-Dreamlit Games project, Towers of Aghasba, an open-world fantasy game that invites players into a sandbox of boundless creativity and…
-
-[Read More](https://player.me/towers-of-aghasba-early-access-on-november-19/)
-
-![Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/wp-content/uploads/2024/11/The-10-Best-Mods-to-Try-1.png)
-
-[Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
-
-
--------------------------------------------------------------------------------------------------------------
-
-November 11, 2024/
-
-Risk of Rain 2 is a remarkable evolution of its predecessor, pushing players into the thrill of escaping an alien…
-
-[Read More](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/wp-content/uploads/2024/11/Launching-on-February-18-2025.png)
+
+[Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/avowed-is-launching-on-february-18-2025/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 15, 2024/
+
+Avowed, the highly anticipated first-person RPG developed by Obsidian Entertainment is launching on February 18, 2025, for PC and Xbox…
+
+[Read More](https://player.me/avowed-is-launching-on-february-18-2025/)
+
+![Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/wp-content/uploads/2024/11/Infinity-Nikki-Release-Date-Set-on-December-5.png)
+
+[Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/infinity-nikki-release-date-set-on-december-5/)
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 15, 2024/
+
+After months of eager anticipation, Infinity Nikki, an open-world dress-up game, is finally set for release on December 5, 2024,…
+
+[Read More](https://player.me/infinity-nikki-release-date-set-on-december-5/)
+
 ![Misc. A Tiny Tale, a New 3D Platformer, Is Launching on PC and Nintendo Switch in 2025](https://player.me/wp-content/uploads/2024/11/a-New-3D-Platformer-Is-Launching-on-PC-and-Nintendo-Switch-in-2025.png)
 
 [Misc. A Tiny Tale, a New 3D Platformer, Is Launching on PC and Nintendo Switch in 2025](https://player.me/misc-a-tiny-tale-is-launching-on-pc-and-switch-in-2025/)
@@ -379,32 +405,6 @@ November 11, 2024/
 Risk of Rain 2 is a remarkable evolution of its predecessor, pushing players into the thrill of escaping an alien…
 
 [Read More](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
-
-![Ranking the 6 Best Cooking Anime of All Time](https://player.me/wp-content/uploads/2024/11/Ranking-the-6-Best-Cooking-Anime-of-All-Time.png)
-
-[Ranking the 6 Best Cooking Anime of All Time](https://player.me/ranking-the-6-best-cooking-anime-of-all-time/)
-
-
--------------------------------------------------------------------------------------------------------------------
-
-November 8, 2024/
-
-Cooking anime has an irresistible charm that captivates audiences with its stunning visuals, rich storytelling, and the delightful sound of…
-
-[Read More](https://player.me/ranking-the-6-best-cooking-anime-of-all-time/)
-
-![inZOI, KRAFTON Sims Competitor Announces a New Early Access Release Date on March 28, 2025](https://player.me/wp-content/uploads/2024/11/inZOI_KRAFTON-Sims-Competitor.png)
-
-[inZOI, KRAFTON Sims Competitor Announces a New Early Access Release Date on March 28, 2025](https://player.me/inzoi-early-access-release-date-on-march-28-2025/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 8, 2024/
-
-KRAFTON, the South Korean powerhouse known for titles like PUBG, has announced a significant delay for its upcoming life simulation…
-
-[Read More](https://player.me/inzoi-early-access-release-date-on-march-28-2025/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Android smartwatches have become an essential gadget for many people, particular
 
 player.me
 
+[](https://player.me/avowed-is-launching-on-february-18-2025/ "Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players")
+
+[Avowed Is Launching on February 18, 2025, with Early Access Planned for Premium Edition Players](https://player.me/avowed-is-launching-on-february-18-2025/)
+
+November 15, 2024
+
+[](https://player.me/infinity-nikki-release-date-set-on-december-5/ "Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game")
+
+[Infinity Nikki Release Date Set on December 5: Everything to Know About the 30 Million Pre-Register Cozy Game](https://player.me/infinity-nikki-release-date-set-on-december-5/)
+
+November 15, 2024
+
 [](https://player.me/misc-a-tiny-tale-is-launching-on-pc-and-switch-in-2025/ "Misc. A Tiny Tale, a New 3D Platformer, Is Launching on PC and Nintendo Switch in 2025")
 
 [Misc. A Tiny Tale, a New 3D Platformer, Is Launching on PC and Nintendo Switch in 2025](https://player.me/misc-a-tiny-tale-is-launching-on-pc-and-switch-in-2025/)
@@ -853,22 +865,10 @@ November 12, 2024
 
 November 12, 2024
 
-[](https://player.me/towers-of-aghasba-early-access-on-november-19/ "Towers of Aghasba Early Access: Everything to Know Before November 19")
-
-[Towers of Aghasba Early Access: Everything to Know Before November 19](https://player.me/towers-of-aghasba-early-access-on-november-19/)
-
-November 11, 2024
-
-[](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/ "Risk of Rain 2 Mods: The 10 Best Mods to Try")
-
-[Risk of Rain 2 Mods: The 10 Best Mods to Try](https://player.me/the-10-best-risk-of-rain-2-mods-to-try/)
-
-November 11, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 580,771 times, 26 visit(s) today
+Visited 580,861 times, 116 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
