@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 15, 2024](https://www.japantimes.co.jp/archive/2024/11/15/ "archive page")
+[November 16, 2024](https://www.japantimes.co.jp/archive/2024/11/16/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,50 +131,28 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
-
-  [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
-
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
-
-  [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
-
 [Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
-[Trump's picks: A Fox News host, an ex-spy chief and the world's richest man](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
-
-  [![Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433751.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
-
-Editors' Picks
---------------
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[India set to overtake Japan in GDP rankings](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
-
-By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
-
-  [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
 [American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
   [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+
+  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
 [Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
 
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
   [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+
+Editors' Picks
+--------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -184,13 +162,33 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
-[WORLD](https://www.japantimes.co.jp/news/world/ "WORLD")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Trump's picks: A Fox News host, an ex-spy chief and the world's richest man](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
-  [![Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433751.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
 
 Podcast
 -------
@@ -211,9 +209,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Man found guilty of stealing ¥10.4 million tea bowl from Tokyo exhibition](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/tea-bowl-theft-guilty-verdict/ "Man found guilty of stealing ¥10.4 million tea bowl from Tokyo exhibition")
+
+6 hours ago
+
+[Ferrari sells for ¥171 million at Japanese tax sale](https://www.japantimes.co.jp/business/2024/11/15/ferrari-auction-tax-agency/ "Ferrari sells for ¥171 million at Japanese tax sale")
+
+6 hours ago
+
 [Share of graduating Japanese university students with job offers falls](https://www.japantimes.co.jp/news/2024/11/15/japan/society/uni-students-job-offers-down/ "Share of graduating Japanese university students with job offers falls")
 
-15 mins ago
+6 hours ago
 
 [U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-55 mins ago
+7 hours ago
 
 [British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
-1 hours ago
-
-[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
-
-1 hours ago
-
-[DPP leader clashes with governors over tax-free income limit](https://www.japantimes.co.jp/news/2024/11/15/japan/politics/dpp-tamaki-governor-clashes/ "DPP leader clashes with governors over tax-free income limit")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
