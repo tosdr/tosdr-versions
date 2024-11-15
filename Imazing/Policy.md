@@ -71,7 +71,6 @@ Accept Selection Accept All
     *  [![iMazing 3](/img/navigation/app-imazing_dark.svg) iMazing 3](https://imazing.com/v3)
     *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing Converter](/img/navigation/app-imazing_converter.svg) iMazing Converter](https://imazing.com/converter)
-    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
     
 * ![Business](/img/navigation/footer/icon-footer-section-business.svg) Business
     
@@ -80,8 +79,9 @@ Accept Selection Accept All
     Products
     
     *  [![iMazing](/img/navigation/app-imazing_dark.svg) iMazing](https://imazing.com/app)
-    *  [![iMazing Configurator](/img/navigation/app-imazing_configurator.svg) iMazing Configurator](https://imazing.com/configurator)
-    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Configurator](/img/navigation/app-imazing_configurator-dark.svg) iMazing Configurator](https://imazing.com/configurator)
+    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor-dark.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing CLI](/img/navigation/app-imazing_cli.svg) iMazing CLI](https://imazing.com/cli)
     
     Solutions
@@ -352,11 +352,11 @@ Thank you for subscribing!
 * ![Products](/img/navigation/footer/icon-footer-section-products.svg) Products
     
     *  [![iMazing](/img/navigation/app-imazing.svg) iMazing](https://imazing.com/app)
-    *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
-    *  [![iMazing Converter](/img/navigation/app-imazing_converter.svg) iMazing Converter](https://imazing.com/converter)
     *  [![iMazing Configurator](/img/navigation/app-imazing_configurator.svg) iMazing Configurator](https://imazing.com/configurator)
     *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing CLI](/img/navigation/app-imazing_cli.svg) iMazing CLI](https://imazing.com/cli)
+    *  [![iMazing Converter](/img/navigation/app-imazing_converter.svg) iMazing Converter](https://imazing.com/converter)
     *  [![Hot](/img/navigation/app-hot.png) Hot](https://imazing.com/downloads#hot)
     *  [![Silicon](/img/navigation/app-silicon.png) Silicon](https://imazing.com/downloads#silicon)
     
