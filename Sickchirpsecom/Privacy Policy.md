@@ -137,11 +137,11 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/mike-tyson-slaps-jake-paul-at-the-weigh-ins-ahead-of-netflix-showdown-tonight/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/sophie-turner-tomb-raider-lara-croft.jpg)](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/sophie-turner-tomb-raider-lara-croft.jpg)](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-cr0ft-in-the-upcoming-tomb-raider-series/)
 
-### [Sophie Turner Set To Star As Lara Craft In The Upcoming Tomb Raider Series](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+### [Sophie Turner Set To Star As Lara Croft In The Upcoming Tomb Raider Series](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-cr0ft-in-the-upcoming-tomb-raider-series/)
 
-[Read More »](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+[Read More »](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-cr0ft-in-the-upcoming-tomb-raider-series/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/ufc-carlos-prates.jpg)](https://www.sickchirpse.com/undefeated-ufc-ko-artist-carlos-prates-smokes-8-10-cigarettes-a-day-even-right-before-he-fights/)
 
@@ -163,11 +163,11 @@ SEND
 
 #### trending post
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/sophie-turner-tomb-raider-lara-croft.jpg)](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/sophie-turner-tomb-raider-lara-croft.jpg)](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-cr0ft-in-the-upcoming-tomb-raider-series/)
 
-### [Sophie Turner Set To Star As Lara Craft In The Upcoming Tomb Raider Series](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+### [Sophie Turner Set To Star As Lara Croft In The Upcoming Tomb Raider Series](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-cr0ft-in-the-upcoming-tomb-raider-series/)
 
-[Read More »](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+[Read More »](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-cr0ft-in-the-upcoming-tomb-raider-series/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/ufc-carlos-prates.jpg)](https://www.sickchirpse.com/undefeated-ufc-ko-artist-carlos-prates-smokes-8-10-cigarettes-a-day-even-right-before-he-fights/)
 
