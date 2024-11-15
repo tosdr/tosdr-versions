@@ -8,10 +8,10 @@
 
 *  
     
-* [Trump Picks](https://www.motherjones.com/politics/2024/11/trump-marco-rubio-secretary-of-state-war-hawks-ukraine-gaza-russia-israel/)
-* [Christian Nationalism](https://www.motherjones.com/politics/2024/11/don-jr-s-new-gig-an-investment-firm-connected-to-christian-nationalists/)
-* [Robert F. Kennedy Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-national-institutes-of-health/)
-* [Election Conspiracy Theories](https://www.motherjones.com/politics/2024/11/2024-election-conspiracy-theories/)
+* [RFK Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-donald-trump-health-and-human-services/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/11/musk-trump-men-election-results-misogyny-sexism/)
+* [Trump’s Defense Secretary Pick](https://www.motherjones.com/politics/2024/11/trump-peter-hegseth-defense-secretary-pick-theobros-hopes-for-a-christian-crusade/)
+* [Russian Disinformation](https://www.motherjones.com/politics/2024/11/trump-cabinet-picks-marco-rubio-elise-stefanik-once-confirmed-putin-attacked-the-2016-election-to-help-trump/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [Trump Picks](https://www.motherjones.com/politics/2024/11/trump-marco-rubio-secretary-of-state-war-hawks-ukraine-gaza-russia-israel/)
-* [Christian Nationalism](https://www.motherjones.com/politics/2024/11/don-jr-s-new-gig-an-investment-firm-connected-to-christian-nationalists/)
-* [Robert F. Kennedy Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-national-institutes-of-health/)
-* [Election Conspiracy Theories](https://www.motherjones.com/politics/2024/11/2024-election-conspiracy-theories/)
+* [RFK Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-donald-trump-health-and-human-services/)
+* [Elon Musk](https://www.motherjones.com/politics/2024/11/musk-trump-men-election-results-misogyny-sexism/)
+* [Trump’s Defense Secretary Pick](https://www.motherjones.com/politics/2024/11/trump-peter-hegseth-defense-secretary-pick-theobros-hopes-for-a-christian-crusade/)
+* [Russian Disinformation](https://www.motherjones.com/politics/2024/11/trump-cabinet-picks-marco-rubio-elise-stefanik-once-confirmed-putin-attacked-the-2016-election-to-help-trump/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
