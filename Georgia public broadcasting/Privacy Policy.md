@@ -265,7 +265,7 @@ Don't Miss
 Don't Miss:
 -----------
 
-* [Election News and Results](https://www.gpb.org/politics/election2024)
+* [GHSA Football Playoff Scores & Brackets](https://www.gpb.org/sports/football/matchups)
 * [Explore GPB Passport](https://www.gpb.org/explore)
 * [TV Highlights This Week](https://www.gpb.org/blogs/topic/television)
 
