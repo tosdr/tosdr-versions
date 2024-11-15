@@ -325,7 +325,7 @@ We may share the information we collect from you in the following circumstances:
 * **Legal Obligations:** We may disclose information in response to subpoenas, warrants, or court orders, or in connection with any legal process, or to comply with relevant laws. We may also share your information in order to establish or exercise our rights, to defend against a legal claim, to investigate, prevent, or take action regarding possible illegal activities, suspected fraud, safety of person or property, or a violation of our policies, or to comply with your request for the shipment of products to or the provision of services by a third-party intermediary.
 * **Other Third Parties With Your Consent:** We may disclose your information to other third parties when we have your consent or direction to do so. For example, you may authorize some third-party companies to access your information to provide financial products and services such as: account aggregation (consolidating your financial account information from different sources), making payments via a website or mobile application, and tax preparation. We recommend you use caution when granting such access and ensure that these third parties have appropriate policies and practices in place to secure your information. Navy Federal is not responsible for the use or disclosure of any information accessed by or on behalf of any third party or person to whom you provide your Navy Federal sign in credentials or account information. Any use of your information is governed by the privacy policy and any terms of use with that third party. Navy Federal does not control the privacy, security, or accuracy of your information that may be held by these third parties, and our privacy, security, and other terms will not apply to any third-party services. You may revoke access you previously granted to a third party through Navy Federal’s Security Center on our mobile application or, for certain third parties, by changing your Navy Federal password. For security and other reasons, Navy Federal may block or disable third-party access to any account without notice.
 
-Additional information on our banking terms and conditions can be found in our [Mobile Banking, Online Banking, and Bill Pay Terms and Conditions](https://www.navyfederal.org/content/dam/nfculibs/pdfs/membership/nfcu_652a_nfo.pdf).
+Additional information on our banking terms and conditions can be found in our [Mobile Banking, Online Banking, and Bill Pay Terms and Conditions](https://www.navyfederal.org/content/dam/nfculibs/pdfs/membership/nfcu_652a.pdf).
 
 Keeping Your Information Accurate
 ---------------------------------
@@ -425,7 +425,7 @@ Navy Federal conducts all member business in English. All origination, servicing
 
 * APY = Annual Percentage Yield, APR = Annual Percentage Rate
 * +Rates are based on an evaluation of credit history, so your rate may differ. 
-* \*Message and data rates may apply. [Terms and Conditions](https://www.navyfederal.org/content/dam/nfculibs/pdfs/membership/nfcu_652a_nfo.pdf) are available. 
+* \*Message and data rates may apply. [Terms and Conditions](https://www.navyfederal.org/content/dam/nfculibs/pdfs/membership/nfcu_652a.pdf) are available. 
 * ♦Terms and conditions are applied to gift cards.
 
 ### Navy Federal
