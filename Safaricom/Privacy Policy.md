@@ -144,6 +144,34 @@ out of 5 based on
 
 > Nov 14, 2024
 
+> Incredibly helpful and experienced agent Anja
+
+> Anja was incredibly helpful and organized the most beautiful safari for us at a small lodge and also arranged our transport. She always responded within minutes no matter the day and took time for all my questions. I will recommend anyone who is looking for a premium experience to get in contact with Anja! Thanks for everything!
+
+Julia Heckmanns
+
+,
+
+NL
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 14, 2024
+
+> Very helpful and attentive to my needs
+
+> Very helpful and attentive to my needs
+
+GP
+
+,
+
+US
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 14, 2024
+
 > Thank you Safari.com
 
 > Thank you Safari.com (Tanya) for your kind handling of my many emails. regards Paulene
@@ -151,6 +179,8 @@ out of 5 based on
 Paulene
 
 ,
+
+ZA
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -235,34 +265,6 @@ Thembela Coleman
 ,
 
 us
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 9, 2024
-
-> Details were clear and sent in atimely…
-
-> Details were clear and sent in atimely manner.
-
-Tony N
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 9, 2024
-
-> The lodge was great
-
-> The lodge was great, very friendly stuff. Saw all kind of animals. The vendor we booked the lodge, charged way to much, compared when you book the lodge directly.
-
-Werner Untrieser
-
-,
-
-DE
 
 VIP service
 
