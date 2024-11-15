@@ -118,7 +118,7 @@ Trimester 4
 Privacy Policy
 ==============
 
-Jul 7, 2022Updated on Nov 15, 2023
+Jul 7, 2022Updated on Nov 15, 2024
 
 The Preglife application (**“Preglife”**) is operated by Preglife AB (corporate identity number 556768-4278) (**“we”**, **“our”**, **“us”**). Preglife AB is the data controller for the processing of personal data in the Preglife app. We care about protecting the personal privacy of our users and therefore strive to maintain the highest possible standard in the protection of personal data. Toward this end, we commit to following this personal data policy (**“The Personal Data Policy”**). The Personal Data Policy includes information about how we collect your personal data as user (**“User”**), how we use the data and how we protect the data. We therefore encourage you to read the Personal Data Policy before you start using Preglife.
 
@@ -330,9 +330,9 @@ When Preglife processes your personal data, you have certain rights when you are
 
 14.1 The easiest way to contact Preglife is to send an email to privacy@preglife.com
 
-14.2 If you would like to send a letter, please address it to: Data controller: Preglife AB Brahegatan 9 SE-114 37 Stockholm
+14.2 If you would like to send a letter, please address it to: Data controller: Preglife AB Regeringsgatan 93 SE-111 39 Stockholm
 
-14.3 Contact details data protection representative: Alexander Lindahl, Insatt AB, alexander.lindahl@insatt.com
+14.3 Contact details data protection representative: Matilda Weinberger, Insatt AB, dso.preglife@insatt.com
 
 [](https://preglife.com/)
 
