@@ -2,8 +2,6 @@
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/SB118_logo_white-300x115.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/)
 
 * [News](https://www.starbase118.net/news/)
@@ -25,8 +23,6 @@ Menu
 [Join Now](https://www.starbase118.net/application/)
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2021/05/SB118_logo_white-300x115.png?lossy=0&strip=1&webp=1)](https://www.starbase118.net/)
 
