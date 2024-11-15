@@ -70,13 +70,13 @@ Suggested Searches
 
 ### NASA Funds New Studies Looking at Future of Sustainable Aircraft
 
-article2 days ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+article3 days ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
 4 min read
 
 ### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article3 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article4 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -247,19 +247,19 @@ Back
 
 ### Peculiar Pale Pebbles
 
-article 2 days ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
+article 3 days ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
 
 4 min read
 
 ### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
 
-article 3 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
+article 4 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
 
 2 min read
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
+article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-g
 
 ### Wearable Tech for Space Station Research
 
-article 1 day ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
+article 2 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
 
 2 min read
 
@@ -291,19 +291,19 @@ article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 8 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
+article 20 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
 
 4 min read
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 1 day ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![A woman sits on a tan-gray rock to the right of the image. She is wearing a deep purple colored shirt and black pants. One of her legs is tucked up while the other hangs off the side of the rock, and her arms are gently crossed. The woman is at a higher elevation than the background, so the landscape behind her can be seen a far distance. The landscape to the left of the image is a nearly flat ground in dark green, brown, and orange colors, and centered in the image is a lake which is reflecting the color of the sky off of it. Above the horizon, the sky is a bright blue color, but is covered slightly by sparse gray clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/59-dsc-0274-1536x1021-1.webp?w=1024)
+article 2 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![A woman sits on a tan-gray rock to the right of the image. She is wearing a deep purple colored shirt and black pants. One of her legs is tucked up while the other hangs off the side of the rock, and her arms are gently crossed. The woman is at a higher elevation than the background, so the landscape behind her can be seen a far distance. The landscape to the left of the image is a nearly flat ground in dark green, brown, and orange colors, and centered in the image is a lake which is reflecting the color of the sky off of it. Above the horizon, the sky is a bright blue color, but is covered slightly by sparse gray clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/59-dsc-0274-1536x1021-1.webp?w=1024)
 
 6 min read
 
 ### Inia Soto Ramos, From the Mountains of Puerto Rico to Mountains of NASA Earth Data
 
-article 2 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto-ramos-from-the-mountains-of-puerto-rico-to-mountains-of-nasa-earth-data/)
+article 3 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto-ramos-from-the-mountains-of-puerto-rico-to-mountains-of-nasa-earth-data/)
 
 ### Highlights
 
@@ -313,85 +313,85 @@ article 2 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
 
 2 min read
 
 ### Moonquakes
 
-article 1 day ago](https://science.nasa.gov/moon/moonquakes/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+article 2 days ago](https://science.nasa.gov/moon/moonquakes/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)
 
 ### Featured
 
-[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
+[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+
+2 min read
+
+### Hubble Takes a Look at Tangled Galaxies
+
+article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
 ### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article 11 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![Photo of Roman's Optical Telescope Assembly](https://www.nasa.gov/wp-content/uploads/2024/11/ioa-005.jpg?w=1024)
+article 23 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![Photo of Roman's Optical Telescope Assembly](https://www.nasa.gov/wp-content/uploads/2024/11/ioa-005.jpg?w=1024)
 
 5 min read
 
 ### Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
 
-article 11 hours ago](https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/)[![This release features an illustration of the galaxy in which black hole LID-568 resides. A smaller illustration of black hole itself, in an outlined box, is superimposed on top of the galaxy image toward our upper right. Two lines extend from a single point in the middle of the galaxy and terminate on corners of the outlined box containing the black hole illustration. The placement of the lines and outlined box indicate that the superimposed black hole image is an enlargement of a tiny place in the center of the galaxy.](https://www.nasa.gov/wp-content/uploads/2024/11/lid568-crunched.jpg?w=1024)
-
-4 min read
-
-### Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
-
-article 1 day ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/)
+article 23 hours ago](https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/)
 
 ### Highlights
 
-[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+
+2 min read
+
+### Hubble Takes a Look at Tangled Galaxies
+
+article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
 
 2 min read
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 8 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Amendment 67: A.22 NASA Energy and Water Cycle Study Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/water_cycle-590.jpg)
-
-2 min read
-
-### Amendment 67: A.22 NASA Energy and Water Cycle Study Final Text and Due Dates Released.
-
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-67-a-22-nasa-energy-and-water-cycle-study-final-text-and-due-dates-released/)
+article 20 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)
 
 ### Highlights
 
-[![A room full of various testing equipment, including gauges, cables, and machinery, with a rectangular motor drive stand in the center.](https://www.nasa.gov/wp-content/uploads/2024/11/areal-24-1.jpg?w=1024)
+[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+
+1 min read
+
+### SPEED Publications
+
+article 7 hours ago](https://www.nasa.gov/speed-publications/)[![A room full of various testing equipment, including gauges, cables, and machinery, with a rectangular motor drive stand in the center.](https://www.nasa.gov/wp-content/uploads/2024/11/areal-24-1.jpg?w=1024)
 
 2 min read
 
 ### AREAL
 
-article 5 hours ago](https://www.nasa.gov/areal/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 17 hours ago](https://www.nasa.gov/areal/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
 ### NEAT
 
-article 1 day ago](https://www.nasa.gov/neat/)[![Image of a paper airplane floating over a shadow of an airplane on a green background](https://www.nasa.gov/wp-content/uploads/2024/11/eap-testing-publications-2.jpg?w=1024)
-
-1 min read
-
-### NEAT Publications
-
-article 1 day ago](https://www.nasa.gov/neat-publications/)
+article 2 days ago](https://www.nasa.gov/neat/)
 
 ### Highlights
 
@@ -401,19 +401,19 @@ article 1 day ago](https://www.nasa.gov/neat-publications/)
 
 ### Precision Pointing Goes the Distance on NASA Experiment
 
-article 7 hours ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+article 19 hours ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
 
 2 min read
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
 ### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
 
-article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)
+article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)
 
 ### Featured
 
@@ -423,7 +423,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 6 days ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
+article 7 days ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
 
 5 min read
 
@@ -451,7 +451,7 @@ article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### 40 Years Ago: STS-51A – “The Ace Repo Company”
 
-article 6 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
+article 7 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
 
 ### Highlights
 
