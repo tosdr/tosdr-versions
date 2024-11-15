@@ -2,11 +2,13 @@
 
 [Skip to main content](#site_main)
 
+Alerts
+
 Welcome to Our New Website! [**Subscribe Here to Receive Alerts to Stay Informed!**](https://threeforks.municipalimpact.com/subscribe)
 
 [Contact Us](https://www.threeforksmontana.us/contact-us)
 
-![](/imgD/weatherbit_icons/c02d.png) Today's weather: Scattered clouds 52°/19°
+![](/imgD/weatherbit_icons/c02d.png) Today's weather: Scattered clouds 53°/20°
 
 [![City of Three Forks - A Place to Call Home...](/images/logos_mi/C_650_mi_650_SEAL-favicon_1352902479_7058_1352756831_1286.jpeg)](https://www.threeforksmontana.us/home)[City of Three Forks](https://www.threeforksmontana.us/home)
 
@@ -199,9 +201,40 @@ Three Forks, MT 59752
 Powered by [MunicipalImpact.com](https://www.municipalimpact.com/)  
 [Admin](https://clients.municipalimpact.com/client/?e=fd9435d9ca85e8a8563e00474436c432)
 
+Alert
+-----
+
+### [Notifications for Certain Service Lines](https://www.threeforksmontana.us/alerts)
+
+11/14/2024
+
+The City is in process of sending a mailing to property owners and tenants of certain water service lines.
+
+As you'll recall, the City conducted inventory from mailed and emailed surveys, as well as cross-referenced information based on any records we may have had, known data in Montana Cadastral, and other sources, of known LEAD and known GALVANIZED water service lines.  This inventory was required to be submitted to DEQ by 10/2024.
+
+We are now at the stage of notifying customers of the results for LEAD, GALVANIZED, and UNKNOWN service lines.  If you are one of these three types of customers, you will be receiving a letter from the City in the next few days.  The letters will state the confirmation of known service line type for your property if they are LEAD, GALVANIZED, or UNKNOWN, as well as steps you can take to reduce lead in drinking water, contact numbers to companies providing testing, and instructions to notify us if you plan to replace your service line.  (This helps us keep DEQ updated on the inventory status.)
+
+**If you do no receive a letter, this means you do not have one of these service line types.**
+
+Once you read your letter, if you still have questions, please feel free to call us at 406-285-3431.
+
+Okay, Got It!
+
 Alerts
 ------
 
-### No active alerts at this time.
+### [Notifications for Certain Service Lines](https://www.threeforksmontana.us/alerts)
+
+11/14/2024
+
+The City is in process of sending a mailing to property owners and tenants of certain water service lines.
+
+As you'll recall, the City conducted inventory from mailed and emailed surveys, as well as cross-referenced information based on any records we may have had, known data in Montana Cadastral, and other sources, of known LEAD and known GALVANIZED water service lines.  This inventory was required to be submitted to DEQ by 10/2024.
+
+We are now at the stage of notifying customers of the results for LEAD, GALVANIZED, and UNKNOWN service lines.  If you are one of these three types of customers, you will be receiving a letter from the City in the next few days.  The letters will state the confirmation of known service line type for your property if they are LEAD, GALVANIZED, or UNKNOWN, as well as steps you can take to reduce lead in drinking water, contact numbers to companies providing testing, and instructions to notify us if you plan to replace your service line.  (This helps us keep DEQ updated on the inventory status.)
+
+**If you do no receive a letter, this means you do not have one of these service line types.**
+
+Once you read your letter, if you still have questions, please feel free to call us at 406-285-3431.
 
 Okay, Got It!
