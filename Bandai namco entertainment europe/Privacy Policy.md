@@ -24,7 +24,7 @@ Popular Games
 Latest game news
 
 * [ELDEN RING Shadow of the Erdtree soundtrack available now on Bandai Namco Game Music channels](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-soundtrack-available-now-bandai-namco-game-music)
-* [Announcing the DRAGON BALL: Sparking! ZERO - The Dramatic Showdown Tournament!](https://en.bandainamcoent.eu/dragon-ball/news/announcing-the-dragon-ball-sparking-zero-the-dramatic-showdown-tournament)
+* [Adventure Awaits: New Unknown 9 Quests to Embark on](https://en.bandainamcoent.eu/unknown-9/news/adventure-awaits-new-unknown-9-quests-embark)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
