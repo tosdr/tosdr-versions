@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-14 Nov 2024
+15 Nov 2024
 
 * [Home
     
@@ -266,15 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Suspected gas leak in Creggan area of Derry](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspected gas leak in Creggan area of Derry")](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
-
-Suspected gas leak Creggan area of Derry.
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Suspected gas leak in Creggan area of Derry](https://www.derrynow.com/news/derry-news/1655288/suspected-gas-leak-in-creggan-area-of-derry.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -290,6 +281,15 @@ Derry courthouse
 
 [Probation for man charged with possessing over 300 indecent images](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told")](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+
+Derry courthouse
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed")](https://www.derrynow.com/news/arts---entertainment/1655811/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
 
@@ -316,14 +316,14 @@ Altered sign on the border (credit: lasairdhearg on Instagram)
 [Road sign on Derry and Donegal border altered to read ‘Occupied Ireland’](https://www.derrynow.com/news/derry-news/1655512/road-sign-on-derry-and-donegal-border-altered-to-read-occupied-ireland.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told")](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
+[![Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told")](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
 
 Derry courthouse
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[‘Vast majority’ of drug related deaths in Derry revolve around class C drugs - court told](https://www.derrynow.com/news/local-news/1655779/vast-majority-of-drug-related-deaths-in-derry-revolve-around-class-c-drugs-court-told.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man arrested in connection with drug-related offences charged to Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with drug-related offences charged to Derry court")](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
 
@@ -334,14 +334,12 @@ PSNI
 [Man arrested in connection with drug-related offences charged to Derry court](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Bohemians confirm signing of Derry City striker Colm Whelan](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Bohemians confirm signing of Derry City striker Colm Whelan")](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
+[![Urgent talks sought over Derry postal delays](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Urgent talks sought over Derry postal delays")](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
 
-Colm Whelan puts pen to paper on a multi-year deal with Bohemians
+[Local News](https://www.derrynow.com/section/975/news)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Derry City striker Colm Whelan completes move to Bohemians](https://www.derrynow.com/news/derry-sport/1655268/derry-city-striker-colm-whelan-completes-move-to-bohemians.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Urgent talks sought over Derry postal delays](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,6 +523,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Young Derry author’s debut novel sounds warning about THC dangers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Young Derry author’s debut novel sounds warning about THC dangers")](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
+
+Conghaile McLaughlin with a copy of his book, 'The Joys of Humanity'.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Young Derry author’s debut novel sounds warning about THC dangers](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![NI Water empowers Derry students with real-world industry experience](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Water empowers Derry students with real-world industry experience")](https://www.derrynow.com/news/home/1656074/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
 
 Ava Norris Thornhill College, Rebecca Allen, Catchment Officer at NI Water from Limavady and Aoife Doherty Thornhill College.
@@ -534,7 +541,7 @@ Ava Norris Thornhill College, Rebecca Allen, Catchment Officer at NI Water from 
 [NI Water empowers Derry students with real-world industry experience](https://www.derrynow.com/news/home/1656074/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC")](https://www.derrynow.com/news/home/1656028/centenary-of-limavady-district-war-memorial-boards-exhibition-opens-in-rvacc.html)
+[![Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC](https://www.derrynow.com/resizer/165/93/true/2024_11_14/CCGBC_1411_LIMAVADY_WAR_01-1731600405481.JPG--.JPG?1731600406819 "Centenary of Limavady & District War Memorial Boards Exhibition Opens in RVACC")](https://www.derrynow.com/news/home/1656028/centenary-of-limavady-district-war-memorial-boards-exhibition-opens-in-rvacc.html)
 
 Joanne Honeyford, Community Engagement Officer, with WW1 historian Alistair Harper and members of Binevenagh Historical Society, Hester McCunn, Robert Peacocke, Val Morgan and Robert Guthrie.
 
@@ -565,15 +572,6 @@ Rebecca Gavigan is presented with a NWRC hoodie by Senior Marketing and PR Offic
 
 [Stormont department will not be prosecuted over Noah Donohoe death, court told](https://www.derrynow.com/news/local-news/1656115/stormont-department-will-not-be-prosecuted-over-noah-donohoe-death-court-told.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told")](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
-
-Derry courthouse
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
