@@ -85,7 +85,7 @@ Not open for further replies.
 
 Messages
 
-3,622
+3,624
 
 * Feb 14, 2008
 
@@ -235,7 +235,7 @@ This document is not an exhaustive list of terms. Other terms, such as our priva
 These terms may be changed at any time without notice.  
 If you do not agree with these rules/terms, you may not use our service.
 
-Last edited: Friday at 4:10 AM
+Last edited: Nov 8, 2024
 
 * ![Like](https://cdn.jsdelivr.net/joypixels/assets/8.0/png/unicode/64/1f44d.png "Like")
 
@@ -247,7 +247,7 @@ Not open for further replies.
 
 Share:
 
-[X (Twitter)](#_xfUid-1-1731631506) [LinkedIn](#_xfUid-1-1731631506) [Reddit](#_xfUid-1-1731631506) [Pinterest](#_xfUid-1-1731631506) [Tumblr](#_xfUid-1-1731631506) [WhatsApp](#_xfUid-1-1731631506) [Email](#_xfUid-1-1731631506) [Share](#_xfUid-1-1731631506) [Link](#_xfUid-1-1731631506)
+[X (Twitter)](#_xfUid-1-1731653068) [LinkedIn](#_xfUid-1-1731653068) [Reddit](#_xfUid-1-1731653068) [Pinterest](#_xfUid-1-1731653068) [Tumblr](#_xfUid-1-1731653068) [WhatsApp](#_xfUid-1-1731653068) [Email](#_xfUid-1-1731653068) [Share](#_xfUid-1-1731653068) [Link](#_xfUid-1-1731653068)
 
 * [Forums](https://www.adisc.org/forum/) 
 * [About Us](https://www.adisc.org/forum/#about-us.65) 
@@ -272,7 +272,7 @@ Share:
     
     [See further information and configure your preferences](#)
     
-    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731631506%2C43c1771f6453325b25d0977363f32345) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731631506%2C43c1771f6453325b25d0977363f32345)
+    [Accept all cookies](https://www.adisc.org/forum/misc/cookies?update=1&accept=1&t=1731653068%2C0d74b9e73fb644de00eca32907be89d0) [Reject optional cookies](https://www.adisc.org/forum/misc/cookies?update=1&reject=1&t=1731653068%2C0d74b9e73fb644de00eca32907be89d0)
     
     * Essential cookies
     
