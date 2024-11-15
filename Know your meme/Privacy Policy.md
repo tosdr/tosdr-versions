@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/653/cover7.jpg "The Weekly Meme Roundup: DOGE Doubt, Gary Barlow's Big Boy, I Understand It Now and More")
+    
+    The Weekly Meme Roundup: DOGE Doubt, Gary Barlow's Big Boy, I Understand It Now and More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doge-doubt-gary-barlows-big-boy-i-understand-it-now-and-more)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/656/awoooog.jpg "Where Did The 'Awooga' Copypasta Come From? Memes That Go 'Hummina Hummina Bazooing' Explained")
+    
+    Where Did The 'Awooga' Copypasta Come From? Memes That Go 'Hummina Hummina Bazooing' Explained](https://knowyourmeme.com/editorials/guides/where-did-the-awooga-copypasta-come-from-memes-that-go-hummina-hummina-bazooing-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/655/HUZZ-BRUZZ-EXPLAINER.jpg "What Do 'Huzz,' 'Bruzz' And 'Gruzz' Mean? The 'Uzz' Slang Words On TikTok And Their Meanings Explained")
+    
+    What Do 'Huzz,' 'Bruzz' And 'Gruzz' Mean? The 'Uzz' Slang Words On TikTok And Their Meanings Explained](https://knowyourmeme.com/editorials/guides/what-do-huzz-bruzz-and-gruzz-mean-the-uzz-slang-words-on-tiktok-and-their-meanings-explained)
+    
+* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/654/csd2.jpg "Who Is 'Chip Shop Diva?' TikTok's Viral 'Mini Haddock Meal' Girl Explained")
+    
+    Who Is 'Chip Shop Diva?' TikTok's Viral 'Mini Haddock Meal' Girl Explained](https://knowyourmeme.com/editorials/guides/who-is-chip-shop-diva-tiktoks-viral-mini-haddock-meal-girl-explained)
+    
 * [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/633/alt_headerr.jpg "Where Are They Now? Here's What Neekolul, AKA The 'OK Boomer' Girl, Has Been Up To Since She Went Viral In 2020")
     
     Where Are They Now? Here's What Neekolul, AKA The 'OK Boomer' Girl, Has Been Up To Since She Went Viral In 2020](https://knowyourmeme.com/editorials/where-are-they-now-heres-what-neekolul-aka-the-ok-boomer-girl-has-been-up-to-since-she-went-viral-in-2020)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/632/Screenshot_2024-11-14_at_10.45.20_AM.jpg "The Onion Buys Alex Jones' Infowars, Plans To Make It A Channel Satirizing Conspiracy Grifters")
-    
-    The Onion Buys Alex Jones' Infowars, Plans To Make It A Channel Satirizing Conspiracy Grifters](https://knowyourmeme.com/news/the-onion-buys-infowars-plans-to-make-it-a-channel-satirizing-conspiracy-grifters)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/636/damnation.jpg "What Is The Baby Pūkeko, And Why Are People So Obsessed With It? Memes About The Big-Footed Bird Often Mistaken For A Kiwi or Jacana Explained")
-    
-    What Is The Baby Pūkeko, And Why Are People So Obsessed With It? Memes About The Big-Footed Bird Often Mistaken For A Kiwi or Jacana Explained](https://knowyourmeme.com/editorials/guides/what-is-the-baby-pukeko-and-why-are-people-so-obsessed-with-it-memes-about-the-big-footed-bird-often-mistaken-for-a-kiwi-or-jacana-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/635/doge.jpg "What Is The 'DOGE' State Department? Memes About Elon Musk and Vivek Ramaswamy's 'Department Of Government Efficiency' Explained")
-    
-    What Is The 'DOGE' State Department? Memes About Elon Musk and Vivek Ramaswamy's 'Department Of Government Efficiency' Explained](https://knowyourmeme.com/editorials/guides/what-is-the-doge-state-department-memes-about-elon-musk-and-vivek-ramaswamys-department-of-government-efficiency-explained)
-    
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/634/thp.jpg "Where Does 'The Horrors Persist, But So Do I' Meme Come From? The Wholesome Catchphrase Explained")
-    
-    Where Does 'The Horrors Persist, But So Do I' Meme Come From? The Wholesome Catchphrase Explained](https://knowyourmeme.com/editorials/guides/where-does-the-horrors-persist-but-so-do-i-meme-come-from-the-wholesome-catchphrase-explained)
-    
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
+[Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [We Still Talk About You](https://knowyourmeme.com/memes/we-still-talk-about-you "We Still Talk About You") [Emergence First Page / Saki Yoshida Redraws](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws "Emergence First Page / Saki Yoshida Redraws") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Weekjaks](https://knowyourmeme.com/memes/weekjaks "Weekjaks") [Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Hello! You must login or signup first!
+### Yo Yo! You must login or signup first!
 
 |     |     |
 | --- | --- |
