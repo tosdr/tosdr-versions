@@ -144,7 +144,7 @@ Conditions générales
 
 [Conditions générales applicables à tous les services](#)
 
-[Conditions générales pour consommateurs et petites entreprises(PDF, 257Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-10-25-12-09-57~cache.pdf)
+[Conditions générales pour consommateurs et petites entreprises(PDF, 257Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-11-14-06-10-36~cache.pdf)
 
 [Téléphonie fixe](#)
 
@@ -344,7 +344,7 @@ En raison de la difficulté d’identifier avec certitude les clients impactés 
 * Les interruptions de service mobile (abonnements) sont compensées automatiquement si le client a notifié la panne et pour autant que plusieurs clients soient impactés par la même panne ;
 * Les interruptions de service mobile (cartes prépayées) ne sont compensées sur demande expresse du client qui fournit en même temps l’adresse de son domicile et pour autant que plusieurs clients soient impactés par la même panne.
 
-Les clients pourront notifier les pannes et introduire les demandes de compensation légales au plus tard 5 jours suivant le jour de la fin de la panne et selon les moyens que Proximus mettra à disposition cet effet.
+Les clients pourront notifier les pannes et introduire les demandes de compensation légales au plus tard 30 jours suivant le jour de la fin de la panne et selon les moyens que Proximus mettra à disposition cet effet.
 
 _**Quel est le montant de la compensation et sous quelle forme sera-t-elle octroyée ?**_
 
@@ -669,7 +669,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Appels nationaux (ligne fixe)**
 
 * [_​_Free Calls National(PDF, 62.5Kb)](https://www.proximus.be/dam/jcr:b04107d6-bf68-4b5b-9cd1-693b9084310b/cdn/sites/iportal/documents/pdfs/res/rates_-free_calls_national-_fr~2023-07-03-06-10-29~cache.pdf)
-* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-13~cache.pdf)
+* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-12~cache.pdf)
 
 **Appels internationaux (ligne fixe)**
 
