@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Thursday, November 14 2024
+Friday, November 15 2024
 
 Latest
 
-* [iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
-* [Misconfigurations in Microsoft Power Pages could expose millions of sensitive records](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
-* [Now you can download an ISO file of Windows 11 for Arm chips – Computerworld](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
-* [How to Germinate Seeds Outside During Winter](https://digitpatrox.com/how-to-germinate-seeds-outside-during-winter/)
-* [4 Best Facial Tissues From Our Tests](https://digitpatrox.com/4-best-facial-tissues-from-our-tests/)
-* [Apple Sued Over AirPods Pro Crackling Audio Issues](https://digitpatrox.com/apple-sued-over-airpods-pro-crackling-audio-issues/)
-* [DORA and why resilience (once again) matters to the board](https://digitpatrox.com/dora-and-why-resilience-once-again-matters-to-the-board/)
-* [1.1 Million UK NHS Employee Records Exposed](https://digitpatrox.com/1-1-million-uk-nhs-employee-records-exposed/)
-* [Apple releases Final Cut Pro 11 for Mac, plus iPhone and iPad updates — here’s what’s new](https://digitpatrox.com/apple-releases-final-cut-pro-11-for-mac-plus-iphone-and-ipad-updates-heres-whats-new/)
-* [Critical bug in EoL D-Link NAS devices now exploited in attacks](https://digitpatrox.com/critical-bug-in-eol-d-link-nas-devices-now-exploited-in-attacks/)
+* [Microsoft just killed the Windows 10 Beta Channel again](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
+* [The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
+* [Want a Flip Phone? Moto Razr+ Is Now Half Its Price in This Early Black Friday Deal!](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
+* [Sluggish enterprise tech adoption has cost the UK economy billions](https://digitpatrox.com/sluggish-enterprise-tech-adoption-has-cost-the-uk-economy-billions/)
+* [Apple’s iPhone partners make plans for US manufacturing – Computerworld](https://digitpatrox.com/apples-iphone-partners-make-plans-for-us-manufacturing-computerworld/)
+* [Review: Apple Sports Is the Best Ad-Free Score App](https://digitpatrox.com/review-apple-sports-is-the-best-ad-free-score-app/)
+* [Best VPNs for PokerStars – Comparitech](https://digitpatrox.com/best-vpns-for-pokerstars-comparitech/)
+* [2025 Acura ADX Preview – Consumer Reports](https://digitpatrox.com/2025-acura-adx-preview-consumer-reports/)
+* [You Really Do Need Audiophile Headphones](https://digitpatrox.com/you-really-do-need-audiophile-headphones/)
+* [API attacks are spiraling out of control](https://digitpatrox.com/api-attacks-are-spiraling-out-of-control/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://beebom.com/wp-content/uploads/2024/11/iRobot-Roomba-j9-Black-Friday-Deal.jpg)](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/Windows.jpg)](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
     
-    [iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
+    [Microsoft just killed the Windows 10 Beta Channel again](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
     
-    5 minutes ago
+    24 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/VPfHKn7dXBDmxcwUn45gvd-1200-80.jpg)](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
+* [![](https://cdn.vox-cdn.com/thumbor/kbsaOY6MgLSUuW7hLti4UcQeiB4=/0x0:1886x1257/1200x628/filters:focal(943x629:944x630)/cdn.vox-cdn.com/uploads/chorus_asset/file/25734293/GXdMxmZXcAEQ5K5.jpeg)](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
     
-    [Misconfigurations in Microsoft Power Pages could expose millions of sensitive records](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
+    [The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
+    
+    40 minutes ago
+    
+* [![](https://beebom.com/wp-content/uploads/2024/11/Moto-Razr-Black-Friday-Deal.jpg)](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
+    
+    [Want a Flip Phone? Moto Razr+ Is Now Half Its Price in This Early Black Friday Deal!](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
+    
+    1 hour ago
+    
+* [![](https://cdn.mos.cms.futurecdn.net/J3ezGnzxr9JTn2ztzGDCFa-1200-80.jpg)](https://digitpatrox.com/sluggish-enterprise-tech-adoption-has-cost-the-uk-economy-billions/)
+    
+    [Sluggish enterprise tech adoption has cost the UK economy billions](https://digitpatrox.com/sluggish-enterprise-tech-adoption-has-cost-the-uk-economy-billions/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3606468-0-18794500-1731597440-Bildschirmfoto-2024-11-07-um-15.41.35.png?w=1024)](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3606641-0-52350200-1731607677-Apple-iPhone-16-Pro-finish-lineup-240909.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apples-iphone-partners-make-plans-for-us-manufacturing-computerworld/)
     
-    [Now you can download an ISO file of Windows 11 for Arm chips – Computerworld](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
-    
-    2 hours ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JCNDWFH5SV8WBA16MJ5NZBPM/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-germinate-seeds-outside-during-winter/)
-    
-    [How to Germinate Seeds Outside During Winter](https://digitpatrox.com/how-to-germinate-seeds-outside-during-winter/)
-    
-    2 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729108483/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-OTL-InlineHero-Facial-Tissues-1024)](https://digitpatrox.com/4-best-facial-tissues-from-our-tests/)
-    
-    [4 Best Facial Tissues From Our Tests](https://digitpatrox.com/4-best-facial-tissues-from-our-tests/)
+    [Apple’s iPhone partners make plans for US manufacturing – Computerworld](https://digitpatrox.com/apples-iphone-partners-make-plans-for-us-manufacturing-computerworld/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 minutes ago
+* [24 minutes ago
     
-    ### iRobot’s Roomba j9+ is $300 Off During Early Black Friday](https://digitpatrox.com/irobots-roomba-j9-is-300-off-during-early-black-friday/)
-* [2 hours ago
+    ### Microsoft just killed the Windows 10 Beta Channel again](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
+* [40 minutes ago
     
-    ### Misconfigurations in Microsoft Power Pages could expose millions of sensitive records](https://digitpatrox.com/misconfigurations-in-microsoft-power-pages-could-expose-millions-of-sensitive-records/)
-* [2 hours ago
+    ### The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
+* [1 hour ago
     
-    ### Now you can download an ISO file of Windows 11 for Arm chips – Computerworld](https://digitpatrox.com/now-you-can-download-an-iso-file-of-windows-11-for-arm-chips-computerworld/)
+    ### Want a Flip Phone? Moto Razr+ Is Now Half Its Price in This Early Black Friday Deal!](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
 
 Most Popular Topics
 
-* [September 3, 2024
+* [October 6, 2024
     
-    ### AI is paying dividends for Dell Technologies – booming server sales and rapid networking growth have taken the edge off a rocky period](https://digitpatrox.com/ai-is-paying-dividends-for-dell-technologies-booming-server-sales-and-rapid-networking-growth-have-taken-the-edge-off-a-rocky-period/)
-* [October 14, 2024
+    ### There’s Now an NYT Connections Game for Sports](https://digitpatrox.com/theres-now-an-nyt-connections-game-for-sports/)
+* [September 17, 2024
     
-    ### How to Remove a Password From a PDF File](https://digitpatrox.com/how-to-remove-a-password-from-a-pdf-file/)
-* [August 16, 2024
+    ### Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
+* [October 11, 2024
     
-    ### Steve Jobs’ decades-old vision of a chatbot bears some resemblance to modern generative AI tools](https://digitpatrox.com/steve-jobs-decades-old-vision-of-a-chatbot-bears-some-resemblance-to-modern-generative-ai-tools/)
+    ### Windows 11 24H2 and 23H2 get November 2024 update expanding new features (preview)](https://digitpatrox.com/windows-11-24h2-and-23h2-get-november-2024-update-expanding-new-features-preview/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### DORA and why resilience (once again) matters to the board](https://digitpatrox.com/dora-and-why-resilience-once-again-matters-to-the-board/)
+    ### Best VPNs for PokerStars – Comparitech](https://digitpatrox.com/best-vpns-for-pokerstars-comparitech/)
 * [3 hours ago
     
-    ### 1.1 Million UK NHS Employee Records Exposed](https://digitpatrox.com/1-1-million-uk-nhs-employee-records-exposed/)
+    ### 2025 Acura ADX Preview – Consumer Reports](https://digitpatrox.com/2025-acura-adx-preview-consumer-reports/)
 * [3 hours ago
     
-    ### Apple releases Final Cut Pro 11 for Mac, plus iPhone and iPad updates — here’s what’s new](https://digitpatrox.com/apple-releases-final-cut-pro-11-for-mac-plus-iphone-and-ipad-updates-heres-whats-new/)
+    ### You Really Do Need Audiophile Headphones](https://digitpatrox.com/you-really-do-need-audiophile-headphones/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
