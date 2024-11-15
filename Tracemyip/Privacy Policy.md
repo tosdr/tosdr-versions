@@ -119,6 +119,8 @@ The following Privacy Policy applies to the information that we obtain through y
 
 [Trace My IP](https://www.tracemyip.org/)
 
+[Ultimate IP Tracker](https://www.tracemyip.org/ultimate-ip-tracker.htm)
+
 [Website Visitor Alerts](https://www.tracemyip.org/website-visitors-alerts.htm)
 
 [Website Analytics](https://www.tracemyip.org/website-analytics.htm)
