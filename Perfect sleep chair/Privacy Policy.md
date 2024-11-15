@@ -90,7 +90,7 @@ Your cart is currently empty.
     
     [Manual Mobility Accessories](https://www.perfectsleepchair.com/collections/manual-mobility/accessories)
     
-    [![Bath Safety](//www.shopjourney.com/cdn/shop/collections/category_header_Bath.jpg?v=1722006573&width=4360)](https://www.perfectsleepchair.com/collections/bathroom)
+    [![Bath Safety & Comfort](//www.shopjourney.com/cdn/shop/collections/category_header_Bath.jpg?v=1722006573&width=4360)](https://www.perfectsleepchair.com/collections/bathroom)
     
     [Bath Safety](https://www.perfectsleepchair.com/collections/bathroom)
     
