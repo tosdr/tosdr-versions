@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![MrJoao04](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237662c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EM%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1078396-mrjoao04/ "Ir ao perfil de MrJoao04")
+    * [![Warrior27](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1172916.thumb.png.e3f295d1850ec200172572edb21a4a0f.png)](https://www.clubedohardware.com.br/profile/1172916-warrior27/ "Ir ao perfil de Warrior27")
         
         0
         
-        [upgrade para rx 6600 vale a pena com essa configuração?](https://www.clubedohardware.com.br/forums/topic/1702438-upgrade-para-rx-6600-vale-a-pena-com-essa-configura%C3%A7%C3%A3o/?do=getNewComment "upgrade para rx 6600 vale a pena com essa configuração?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [MrJoao04](https://www.clubedohardware.com.br/profile/1078396-mrjoao04/ "Ir ao perfil de MrJoao04")  
-        1 minuto atrás
-        
-    * [![Patrickbuss](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256105.thumb.png.de4e827195c94e7a8ce6478d6ba2fb36.png)](https://www.clubedohardware.com.br/profile/1256105-patrickbuss/ "Ir ao perfil de Patrickbuss")
-        
-        0
-        
-        [Sugestão de quais peças eu deveria dar upgrade primeiro ? Não tenho conhecimento](https://www.clubedohardware.com.br/forums/topic/1702437-sugest%C3%A3o-de-quais-pe%C3%A7as-eu-deveria-dar-upgrade-primeiro-n%C3%A3o-tenho-conhecimento/?do=getNewComment "Sugestão de quais peças eu deveria dar upgrade primeiro ? Não tenho conhecimento")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Patrickbuss](https://www.clubedohardware.com.br/profile/1256105-patrickbuss/ "Ir ao perfil de Patrickbuss")  
-        13 minutos atrás
-        
-    * [![Websadadk](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256104.thumb.jpeg.ca3a8969f354ad0154aa5553c480d3b4.jpeg)](https://www.clubedohardware.com.br/profile/1256104-websadadk/ "Ir ao perfil de Websadadk")
-        
-        0
-        
-        [Windows inicia, porém, não da vídeo](https://www.clubedohardware.com.br/forums/topic/1702435-windows-inicia-por%C3%A9m-n%C3%A3o-da-v%C3%ADdeo/?do=getNewComment "Windows inicia, porém, não da vídeo")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Websadadk](https://www.clubedohardware.com.br/profile/1256104-websadadk/ "Ir ao perfil de Websadadk")  
-        16 minutos atrás
-        
-    * [![MatteusAlvves](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1007430.thumb.jpeg.a9b554de5170250c65684a870b19ea85.jpeg)](https://www.clubedohardware.com.br/profile/1007430-matteusalvves/ "Ir ao perfil de MatteusAlvves")
-        
-        0
-        
-        [Qual seria a melhor opção de SSD?](https://www.clubedohardware.com.br/forums/topic/1702434-qual-seria-a-melhor-op%C3%A7%C3%A3o-de-ssd/?do=getNewComment "Qual seria a melhor opção de SSD?")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [MatteusAlvves](https://www.clubedohardware.com.br/profile/1007430-matteusalvves/ "Ir ao perfil de MatteusAlvves")  
-        19 minutos atrás
-        
-    * [![Caique VInicius](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1246008.thumb.jpeg.b1040090fe41d6cf631daeb6b35ad93c.jpeg)](https://www.clubedohardware.com.br/profile/1246008-caique-vinicius/ "Ir ao perfil de Caique VInicius")
-        
-        0
-        
-        [Monitor Gamer Gigabyte 27", QHD, IPS, 180Hz GS27QA-AS É BOM ?](https://www.clubedohardware.com.br/forums/topic/1702433-monitor-gamer-gigabyte-27-qhd-ips-180hz-gs27qa-as-%C3%A9-bom/?do=getNewComment "Monitor Gamer Gigabyte 27", QHD, IPS, 180Hz GS27QA-AS É BOM ?")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [Caique VInicius](https://www.clubedohardware.com.br/profile/1246008-caique-vinicius/ "Ir ao perfil de Caique VInicius")  
-        33 minutos atrás
-        
-    * [![Luk3ty](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/20241115_063254.thumb.jpg.b7ace61494acba188b9b2bfa91cff34d.jpg)](https://www.clubedohardware.com.br/profile/726361-luk3ty/ "Ir ao perfil de Luk3ty")
-        
-        0
-        
-        [Velocidade de download maior no 2,4Ghz do que no 5Ghz](https://www.clubedohardware.com.br/forums/topic/1702432-velocidade-de-download-maior-no-24ghz-do-que-no-5ghz/?do=getNewComment "Velocidade de download maior no 2,4Ghz do que no 5Ghz")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Luk3ty](https://www.clubedohardware.com.br/profile/726361-luk3ty/ "Ir ao perfil de Luk3ty")  
-        1 hora atrás
-        
-    * [![RNzx](https://www.clubedohardware.com.br/uploads/members/monthly_2023_08/imported-photo-1226018.thumb.png.cd6245f3b7c7d10149e630c6d44e5b21.png)](https://www.clubedohardware.com.br/profile/1226018-rnzx/ "Ir ao perfil de RNzx")
-        
-        0
-        
-        [Diferença HyperX Cloud II e Cloud II Core](https://www.clubedohardware.com.br/forums/topic/1702431-diferen%C3%A7a-hyperx-cloud-ii-e-cloud-ii-core/?do=getNewComment "Diferença HyperX Cloud II e Cloud II Core")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [RNzx](https://www.clubedohardware.com.br/profile/1226018-rnzx/ "Ir ao perfil de RNzx")  
-        1 hora atrás
-        
-    * [![Raí](https://www.clubedohardware.com.br/uploads/members/monthly_2023_10/6276a1cf7ae185b2be335653855c6dbe.thumb.jpg.20be3fb5da6ac53d41be56543e572e2e.jpg)](https://www.clubedohardware.com.br/profile/1229858-ra%C3%AD/ "Ir ao perfil de Raí")
-        
-        0
-        
-        [Como ligar uma controladora argb em outra?](https://www.clubedohardware.com.br/forums/topic/1702430-como-ligar-uma-controladora-argb-em-outra/?do=getNewComment "Como ligar uma controladora argb em outra?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Raí](https://www.clubedohardware.com.br/profile/1229858-ra%C3%AD/ "Ir ao perfil de Raí")  
-        2 horas atrás
-        
-    * [![Gustavo Sanches](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256100.thumb.jpeg.bf1289934c459efbe3d89f274a079523.jpeg)](https://www.clubedohardware.com.br/profile/1256100-gustavo-sanches/ "Ir ao perfil de Gustavo Sanches")
-        
-        1
-        
-        [(R$20,00 no PIX) Computador LIGA, porém as duas telas ficam PISCANDO](https://www.clubedohardware.com.br/forums/topic/1702429-r2000-no-pix-computador-liga-por%C3%A9m-as-duas-telas-ficam-piscando/?do=getNewComment "(R$20,00 no PIX) Computador LIGA, porém as duas telas ficam PISCANDO")
+        [Kit novo não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1702466-kit-novo-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Kit novo não dá vídeo")
         
         [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Gustavo Sanches](https://www.clubedohardware.com.br/profile/1256100-gustavo-sanches/ "Ir ao perfil de Gustavo Sanches")  
-        3 horas atrás
+        Por [Warrior27](https://www.clubedohardware.com.br/profile/1172916-warrior27/ "Ir ao perfil de Warrior27")  
+        5 minutos atrás
         
-    * [![Mateus Pavão](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b962%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMP%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256101-mateus-pav%C3%A3o/ "Ir ao perfil de Mateus Pavão")
+    * [![Oliv3ira](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256129.thumb.jpeg.74eed6ee94776551820450506badc525.jpeg)](https://www.clubedohardware.com.br/profile/1256129-oliv3ira/ "Ir ao perfil de Oliv3ira")
         
-        7
+        0
         
-        [STUTTERING de 2 dias p/ cá! PC de 2019/2020. Setup abaixo](https://www.clubedohardware.com.br/forums/topic/1702428-stuttering-de-2-dias-p-c%C3%A1-pc-de-20192020-setup-abaixo/?do=getNewComment "STUTTERING de 2 dias p/ cá! PC de 2019/2020. Setup abaixo")
+        [Comprei um Machenike k500b-b87 e umas teclas não funcionam](https://www.clubedohardware.com.br/forums/topic/1702465-comprei-um-machenike-k500b-b87-e-umas-teclas-n%C3%A3o-funcionam/?do=getNewComment "Comprei um Machenike k500b-b87 e umas teclas não funcionam")
         
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Mateus Pavão](https://www.clubedohardware.com.br/profile/1256101-mateus-pav%C3%A3o/ "Ir ao perfil de Mateus Pavão")  
-        3 horas atrás
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Oliv3ira](https://www.clubedohardware.com.br/profile/1256129-oliv3ira/ "Ir ao perfil de Oliv3ira")  
+        25 minutos atrás
+        
+    * [![Gustavo Donisete](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256128.thumb.png.b1d3942c03a7301e8084c9194cf084f3.png)](https://www.clubedohardware.com.br/profile/1256128-gustavo-donisete/ "Ir ao perfil de Gustavo Donisete")
+        
+        0
+        
+        [Pc desliga quando abre o jogo](https://www.clubedohardware.com.br/forums/topic/1702464-pc-desliga-quando-abre-o-jogo/?do=getNewComment "Pc desliga quando abre o jogo")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Gustavo Donisete](https://www.clubedohardware.com.br/profile/1256128-gustavo-donisete/ "Ir ao perfil de Gustavo Donisete")  
+        25 minutos atrás
+        
+    * [![josephze](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/8bf7aabe-1862-4d3d-bf70-7fe12135facf.thumb.jpeg.a82ef8df6a9314d4ae7660190e48934a.jpeg)](https://www.clubedohardware.com.br/profile/1256121-josephze/ "Ir ao perfil de josephze")
+        
+        0
+        
+        [o que montar com 9k](https://www.clubedohardware.com.br/forums/topic/1702463-o-que-montar-com-9k/?do=getNewComment "o que montar com 9k")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [josephze](https://www.clubedohardware.com.br/profile/1256121-josephze/ "Ir ao perfil de josephze")  
+        28 minutos atrás
+        
+    * [![Letter B](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/95b28609b5044e1a2706bee4e659a02a.thumb.jpg.10573f60eb520a8502a53133232c1a66.jpg)](https://www.clubedohardware.com.br/profile/1256126-letter-b/ "Ir ao perfil de Letter B")
+        
+        0
+        
+        [RTX 3050 Ex da Galax cabe no meu Gabinete?](https://www.clubedohardware.com.br/forums/topic/1702462-rtx-3050-ex-da-galax-cabe-no-meu-gabinete/?do=getNewComment "RTX 3050 Ex da Galax cabe no meu Gabinete?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Letter B](https://www.clubedohardware.com.br/profile/1256126-letter-b/ "Ir ao perfil de Letter B")  
+        41 minutos atrás
+        
+    * [![gartmaciel](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1179651.thumb.png.dbff7dcfcec5eea3dab0d56a3d392a64.png)](https://www.clubedohardware.com.br/profile/1179651-gartmaciel/ "Ir ao perfil de gartmaciel")
+        
+        0
+        
+        [upgrade da indicacao de vcs](https://www.clubedohardware.com.br/forums/topic/1702461-upgrade-da-indicacao-de-vcs/?do=getNewComment "upgrade da indicacao de vcs")
+        
+        [Quais jogos meu PC roda?](https://www.clubedohardware.com.br/forums/forum/277-quais-jogos-meu-pc-roda/ "Quais jogos meu PC roda?")  
+        Por [gartmaciel](https://www.clubedohardware.com.br/profile/1179651-gartmaciel/ "Ir ao perfil de gartmaciel")  
+        41 minutos atrás
+        
+    * [![nosferatuvini](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256016.thumb.png.d9ab3d1773ed811439df948961a72aa5.png)](https://www.clubedohardware.com.br/profile/1256016-nosferatuvini/ "Ir ao perfil de nosferatuvini")
+        
+        0
+        
+        [Echo Dot 4 (Alexa) conecta no meu Acer Nitro 5, porém não funciona audio](https://www.clubedohardware.com.br/forums/topic/1702460-echo-dot-4-alexa-conecta-no-meu-acer-nitro-5-por%C3%A9m-n%C3%A3o-funciona-audio/?do=getNewComment "Echo Dot 4 (Alexa) conecta no meu Acer Nitro 5, porém não funciona audio")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [nosferatuvini](https://www.clubedohardware.com.br/profile/1256016-nosferatuvini/ "Ir ao perfil de nosferatuvini")  
+        43 minutos atrás
+        
+    * [![xdioxxz](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256125.thumb.png.a47d805922e6ea07935661c1bb0fdf25.png)](https://www.clubedohardware.com.br/profile/1256125-xdioxxz/ "Ir ao perfil de xdioxxz")
+        
+        0
+        
+        [não consigo instalar o windows na a520m maxsun](https://www.clubedohardware.com.br/forums/topic/1702459-n%C3%A3o-consigo-instalar-o-windows-na-a520m-maxsun/?do=getNewComment "não consigo instalar o windows na a520m maxsun")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [xdioxxz](https://www.clubedohardware.com.br/profile/1256125-xdioxxz/ "Ir ao perfil de xdioxxz")  
+        43 minutos atrás
+        
+    * [![nextboy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/a0c71107032b89503dbba924354f060a.thumb.jpg.8ba450d07a6b6028f4a11d437ba37400.jpg)](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")
+        
+        2
+        
+        [O que compensa mais, 1x16gb ou 2x8gb com Ryzen 7 5700g](https://www.clubedohardware.com.br/forums/topic/1702458-o-que-compensa-mais-1x16gb-ou-2x8gb-com-ryzen-7-5700g/?do=getNewComment "O que compensa mais, 1x16gb ou 2x8gb com Ryzen 7 5700g")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [nextboy](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")  
+        1 hora atrás
+        
+    * [![josephze](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/8bf7aabe-1862-4d3d-bf70-7fe12135facf.thumb.jpeg.a82ef8df6a9314d4ae7660190e48934a.jpeg)](https://www.clubedohardware.com.br/profile/1256121-josephze/ "Ir ao perfil de josephze")
+        
+        4
+        
+        [qual placa de Vídeo vale a pena com um Ryzen 7 5800x](https://www.clubedohardware.com.br/forums/topic/1702456-qual-placa-de-v%C3%ADdeo-vale-a-pena-com-um-ryzen-7-5800x/?do=getNewComment "qual placa de Vídeo vale a pena com um Ryzen 7 5800x")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [josephze](https://www.clubedohardware.com.br/profile/1256121-josephze/ "Ir ao perfil de josephze")  
+        1 hora atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
