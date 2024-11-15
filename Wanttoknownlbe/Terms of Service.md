@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/de-atlantische-matrix-en-het-ontwaken-van-de-mensheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/babys-aan-het-hepatitus-vaccin-en-ontslag-om-weigering/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -140,7 +140,7 @@ Inschrijven
 
 #### Quote van de week
 
-> Realiteit bestaat in de menselijke geest en nergens anders.
+> Een samenleving wordt totalitair wanneer haar structuur flagrant kunstmatig wordt: dat is wanneer de heersende klasse haar functie heeft verloren, maar erin slaagt zich aan de macht vast te klampen door middel van geweld of fraude.
 > 
 > George Orwell (1903-1950), journalist-auteur
 
