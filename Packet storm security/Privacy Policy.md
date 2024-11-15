@@ -29,7 +29,7 @@ Top Authors In Last 30 Days
 ---------------------------
 
 * [Red Hat](https://packetstormsecurity.com/files/authors/4676) 272 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 56 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 64 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
 * [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 18 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
@@ -43,6 +43,54 @@ Recent News
 -----------
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
+
+[Microsoft Power Pages Misconfigurations Exposing Sensitive Data](https://packetstormsecurity.com/news/view/36602/Microsoft-Power-Pages-Misconfigurations-Exposing-Sensitive-Data.html)
+
+Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:50 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36602/) | [View](https://www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/)
+
+[Man Gets 5 Years For Laundering Crypto From Bitfinex Hack](https://packetstormsecurity.com/news/view/36598/Man-Gets-5-Years-For-Laundering-Crypto-From-Bitfinex-Hack.html)
+
+Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:19 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [fraud](https://packetstormsecurity.com/news/tags/fraud), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36598/) | [View](https://www.reuters.com/technology/us-man-sentenced-5-years-over-laundering-crypto-stolen-bitfinex-hack-2024-11-14/)
+
+[Five Eyes Infosec Agencies List 2024's Most Exploited Software Flaws](https://packetstormsecurity.com/news/view/36597/Five-Eyes-Infosec-Agencies-List-2024s-Most-Exploited-Software-Flaws.html)
+
+Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:09:00 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [canada](https://packetstormsecurity.com/news/tags/canada), [britain](https://packetstormsecurity.com/news/tags/britain), [australia](https://packetstormsecurity.com/news/tags/australia), [flaw](https://packetstormsecurity.com/news/tags/flaw), [new zealand](https://packetstormsecurity.com/news/tags/new_zealand)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36597/) | [View](https://www.theregister.com/2024/11/14/five_eyes_2024_top_vulnerabilities/)
+
+[CISA, FBI Confirm China Hacked Telecoms To Spy](https://packetstormsecurity.com/news/view/36596/CISA-FBI-Confirm-China-Hacked-Telecoms-To-Spy.html)
+
+Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:08:49 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36596/) | [View](https://www.securityweek.com/cisa-fbi-confirm-china-hacked-telecoms-providers-for-spying/)
+
+[Two Men Charged For Hacking US Tax Preparation Firms](https://packetstormsecurity.com/news/view/36595/Two-Men-Charged-For-Hacking-US-Tax-Preparation-Firms.html)
+
+Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:08:39 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [fraud](https://packetstormsecurity.com/news/tags/fraud), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36595/) | [View](https://www.securityweek.com/two-men-charged-for-hacking-us-tax-preparation-firms/)
+
+[Iranian Threat Group Targets Aerospace Workers With Fake Job Lures](https://packetstormsecurity.com/news/view/36594/Iranian-Threat-Group-Targets-Aerospace-Workers-With-Fake-Job-Lures.html)
+
+Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:08:34 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [fraud](https://packetstormsecurity.com/news/tags/fraud), [phish](https://packetstormsecurity.com/news/tags/phish), [iran](https://packetstormsecurity.com/news/tags/iran)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36594/) | [View](https://www.scworld.com/news/iranian-threat-group-targets-aerospace-workers-with-fake-job-lures)
 
 [Air National Guardsman Gets 15 Years For Leaking Docs On Discord](https://packetstormsecurity.com/news/view/36593/Air-National-Guardsman-Gets-15-Years-For-Leaking-Docs-On-Discord.html)
 
@@ -75,54 +123,6 @@ Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [intel](https://packetstormsecurity.com/news/tags/intel)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36590/) | [View](https://www.securityweek.com/chipmaker-patch-tuesday-intel-publishes-44-and-amd-publishes-8-new-advisories/)
-
-[November Patch Tuesday Brings Cornucopia Of 89 Fixes To Windows](https://packetstormsecurity.com/news/view/36589/November-Patch-Tuesday-Brings-Cornucopia-Of-89-Fixes-To-Windows.html)
-
-Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:03 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36589/) | [View](https://www.scworld.com/news/november-patch-tuesday-brings-cornucopia-of-89-fixes-to-windows)
-
-[China's Volt Typhoon Surges Back With A Vengeance](https://packetstormsecurity.com/news/view/36588/Chinas-Volt-Typhoon-Surges-Back-With-A-Vengeance.html)
-
-Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:35:56 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [china](https://packetstormsecurity.com/news/tags/china), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36588/) | [View](https://www.theregister.com/2024/11/13/china_volt_typhoon_back/)
-
-[U.S. May Support Global Surveillance Treaty Hated by Everyone but Authoritarian Governments](https://packetstormsecurity.com/news/view/36587/U.S.-May-Support-Global-Surveillance-Treaty-Hated-by-Everyone-but-Authoritarian-Governments.html)
-
-Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:02:46 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [spyware](https://packetstormsecurity.com/news/tags/spyware)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36587/) | [View](https://gizmodo.com/u-s-may-support-global-surveillance-treaty-hated-by-everyone-but-authoritarian-governments-2000523043)
-
-[Ahold Delhaize Cybersecurity Incident Impacts Giant Food, Hannaford](https://packetstormsecurity.com/news/view/36586/Ahold-Delhaize-Cybersecurity-Incident-Impacts-Giant-Food-Hannaford.html)
-
-Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:02:43 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36586/) | [View](https://www.securityweek.com/ahold-delhaize-cybersecurity-incident-impacts-giant-food-hannaford/)
-
-[New GoIssue Tool Targets GitHub Devs And Corporate Supply Chains](https://packetstormsecurity.com/news/view/36585/New-GoIssue-Tool-Targets-GitHub-Devs-And-Corporate-Supply-Chains.html)
-
-Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:02:37 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [phish](https://packetstormsecurity.com/news/tags/phish)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36585/) | [View](https://www.securityweek.com/gitloker-strikes-again-new-goissue-tool-targets-github-developers-and-corporate-supply-chains/)
-
-[Remcos RAT Now Exploiting Microsoft Excel Files](https://packetstormsecurity.com/news/view/36584/Remcos-RAT-Now-Exploiting-Microsoft-Excel-Files.html)
-
-Posted [Nov 12, 2024](https://packetstormsecurity.com/news/date/2024-11-12/ "15:01:52 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36584/) | [View](https://www.scworld.com/news/excel-doc-loaded-with-remcos-rat-lets-attackers-gain-backdoor-access)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1320678914&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1320678914.1731661019.1731661019.1731661019.1%3B%2B__utmz%3D32867617.1731661019.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2452907615&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2452907615.1731683980.1731683980.1731683980.1%3B%2B__utmz%3D32867617.1731683980.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
