@@ -306,7 +306,7 @@ Platform
 * [Loyalty & Referrals](https://www.yotpo.com/platform/loyalty/)
 * [Subscriptions](https://www.yotpo.com/platform/subscriptions/)
 * [Email](https://www.yotpo.com/platform/email-marketing/)
-* [Pricing – old design (don’t remove)](https://www.yotpo.com/?page_id=116790)
+* [Pricing](https://www.yotpo.com/pricing/)
 
 Resources
 
