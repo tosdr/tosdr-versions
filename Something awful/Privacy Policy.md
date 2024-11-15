@@ -205,23 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Thomas Edison, Inventor Of Jerkicity](https://www.somethingawful.com/news/edison-jerk-elephant/)
-* [@graeyalien's Graeytest Hits](https://www.somethingawful.com/twitter-tuesday/tt06-05-12/1/)
-* [I Hate You Page 156](https://www.somethingawful.com/cliff-yablonski/i-hate-you-156/)
-* [I Hate You Page 131](https://www.somethingawful.com/cliff-yablonski/i-hate-you-131/)
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [The Nuge Board, Panty Hog and Quizilla](https://www.somethingawful.com/weekend-web/nuge-board-panty/1/)
+* [Classic Art III](https://www.somethingawful.com/photoshop-phriday/classic-art-iii/1/)
+* [Christmas in Middle Earth](https://www.somethingawful.com/comedy-goldmine/christmas-middle-earth/1/)
+* [Definitive Movies](https://www.somethingawful.com/photoshop-phriday/definitive-movies/1/)
+* [Paintings of Light II](https://www.somethingawful.com/photoshop-phriday/paintings-light-ii/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Tips for handling politicals during the holidays](http://forums.somethingawful.com/showthread.php?threadid=4075400 "Tips for handling politicals during the holidays")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Stupid shit that you cant stop yourself from doing](http://forums.somethingawful.com/showthread.php?threadid=4075418 "Stupid shit that you cant stop yourself from doing")
 
 ### Random Articles
 
-* [The Tiger King and I: Part 6 - Cuba and Other Places Than These](https://www.somethingawful.com/news/tiger-king6/)
-* [Garfield: A Week of Garfield](https://www.somethingawful.com/rom-pit/garfield-week-garfield/)
-* [There is Nothing to Wink But Wink Itself](https://www.somethingawful.com/news/there-nothing-wink/)
-* [I think I've invented a new genre of fanfiction](https://www.somethingawful.com/comedy-goldmine/think-ive-invented/1/)
-* [Retro SWAT](https://www.somethingawful.com/fashion-swat/retro-swat/1/)
+* [Afterlife Telegrams](https://www.somethingawful.com/awful-links/awful-link-1262/)
+* [Rowdy Roddy Piper Goes Massively Multiplayer](https://www.somethingawful.com/news/rowdy-roddy-piper/)
+* [Party Egg!](https://www.somethingawful.com/comedy-goldmine/party-egg/)
+* [Conan](https://www.somethingawful.com/rom-pit/conan/)
+* [Pixilated History](https://www.somethingawful.com/photoshop-phriday/pixilated-history/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
