@@ -624,18 +624,6 @@ Enjoy your favorite Atari 2600 and 7800 games on one system! Not only does the A
 
 ![](files/image_70679709-4dae-40f9-a153-5713cf2f7e01.png)
 
-#### 2 Systems in 1
-
-Plays both Atari 2600 and 7800 game cartridges.
-
-#### Ready to Play
-
-Comes with a 10-in-1 cartridge so you can dive into your favorite titles right away.
-
-#### HDMI Ready
-
-Easily connects via HDMI so you can enjoy every last pixel.
-
 NEW RELEASES
 ------------
 
@@ -665,14 +653,6 @@ The new Atari 7800+ joins the ranks of such timeless design icons as shoulder pa
 ![7800 Home](files/7800_home.png)
 
 ![7800 Home](files/7800_home.png)
-
-#### Forward & Backward Compatible
-
-Plays both Atari 2600 and 7800 game cartridges
-
-#### Wireless Control
-
-Includes the NEW Wireless CX78+ Gamepad
 
 FEATURED GAMES
 --------------
