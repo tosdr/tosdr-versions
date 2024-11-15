@@ -242,6 +242,8 @@ Join us and share the message of reuse
 * [Instagram](https://instagram.com/jococups)
 * [Facebook](https://facebook.com/jococups)
 
+[The Perfect Adventure Companions #ourfuture #kids ![The Perfect Adventure Companions #ourfuture #kids #dog #surf #family #plasticfree](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCXyjUkSvdh/) 
+
 [The LUX Glass.. A vessel just right for the perfec ![The LUX Glass.. A vessel just right for the perfect pour. Designed with the intimate knowledge of skilled baristas and pressed borosilicate glass, the striking architecture of the Lux glass delivers sensory enlightenment to your daily ritual #6pack #borosilicate #glass #art](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBqC9M0SY95/) 
 
 [Providing Solutions since 2008 #plasticfree #activ ![Providing Solutions since 2008 #plasticfree #activeflask #desertsage](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBfQLn_y0Ve/) 
@@ -251,8 +253,6 @@ Join us and share the message of reuse
 [Adding a little flair to your daily brew is our be ![Adding a little flair to your daily brew is our beautiful Artist Series - Jen Lobo 🦉 Back in stock #art #series #owl #gift](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA9-_q7yRJi/) 
 
 [DESERT SAGE - Jocos first ever insulated vessel. P ![DESERT SAGE - Jocos first ever insulated vessel. Providing optimal drinking during any occasion, keeping your beverage at the temperature you like them, all wrapped up in the proven Joco DNA #coffee #tea #icelongblack #hotchocolate #cappuccino](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DA2StWYyOxB/) 
-
-[Poolside Hydration 🏊‍♀️ #hydrate #active ![Poolside Hydration 🏊‍♀️ #hydrate #active #plasticfree #swim](https://jococups.com/usa/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DAkX5rMynWo/) 
 
 Keep informed on new releases and subscriber exclusives
 
