@@ -37,13 +37,7 @@
     * [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/)
 * [News](https://mediabiasfactcheck.com/news/)
     * [Factual News](https://mediabiasfactcheck.com/factual-news/)
-    * [2024 Election](https://mediabiasfactcheck.com/election-center-2024/)
-        * [Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
-        * [Election Simluation Results](https://mediabiasfactcheck.com/electoral-college-simulation-data/)
-        * [Presidential Media Endorsements](https://mediabiasfactcheck.com/presidential-media-endorsements/)
-        * [Election Spending - PACS/SuperPACS](https://mediabiasfactcheck.com/election-spending-pacs-and-superpacs/)
-        * [Pollster Ratings](https://mediabiasfactcheck.com/pollsters-bias-and-credibility/)
-        * [Election News](https://mediabiasfactcheck.com/election-center-2024/)
+    * [Political News](https://mediabiasfactcheck.com/election-center-2024/)
 * [Search](https://mediabiasfactcheck.com/search/)
     * [All Search Options](https://mediabiasfactcheck.com/search/)
     * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
@@ -51,16 +45,16 @@
     * [Country Profiles](https://mediabiasfactcheck.com/country-profiles/)
     * [World Leaders – Facts and Bias](https://mediabiasfactcheck.com/world-leaders-facts-and-bias/)
 * [Politician/Journalists](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
-    * [Presidential Election 2024 Candidates Bias Ratings](https://mediabiasfactcheck.com/presidential-election-2024-candidates-bias-ratings/)
     * [United States Governors Bias Ratings](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
     * [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/)
+    * [Presidential Election 2024 Candidates Bias Ratings](https://mediabiasfactcheck.com/presidential-election-2024-candidates-bias-ratings/)
 * [Educators](https://mediabiasfactcheck.com/educational-class-materials-by-media-bias-fact-check/)
     * [Educator Resources](https://mediabiasfactcheck.com/educational-class-materials-by-media-bias-fact-check/)
     * [Educational Media Sources](https://mediabiasfactcheck.com/educational-media-sources/)
 * [Maps](https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/)
-    * [MBFC's 2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
     * [Interactive Political Orientation Map of the World](https://mediabiasfactcheck.com/interactive-political-orientation-map-of-the-world/)
     * [Interactive Country Freedom Map of the World](https://mediabiasfactcheck.com/interactive-country-freedom-map-of-the-world/)
+    * [MBFC's 2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [MORE](https://mediabiasfactcheck.com/re-evaluated-sources/)
     * [Extensions](https://mediabiasfactcheck.com/appsextensions/)
     * [Re-Evaluated Sources](https://mediabiasfactcheck.com/re-evaluated-sources/)
@@ -145,12 +139,28 @@ No related posts.
 **[Ad-Free Sign up](https://mediabiasfactcheck.com/membership-account/membership-levels/)  
 [Support MBFC – Donations](https://mediabiasfactcheck.com/support-media-bias-fact-check/)  
 [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)  
-**[Election Center 2024 (New)](https://mediabiasfactcheck.com/election-center-2024/)  
+**[Fact-Based Political News](https://mediabiasfactcheck.com/election-center-2024/)  
 [2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)  
 **
 
 #### Recently Added Sources or Pages
 
+* [San Francisco Standard – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-standard-bias-and-credibility/)
+    
+    November 15, 2024
+    
+* [Cryptography Journal – Bias and Credibility](https://mediabiasfactcheck.com/cryptography-journal-bias/)
+    
+    November 15, 2024
+    
+* [Lynn News – Bias and Credibility](https://mediabiasfactcheck.com/lynn-news-bias/)
+    
+    November 15, 2024
+    
+* [SFist – Bias and Credibility](https://mediabiasfactcheck.com/sfist-bias-and-credibility/)
+    
+    November 15, 2024
+    
 * [RMG Research – Bias and Credibility](https://mediabiasfactcheck.com/rmg-research-bias-and-credibility/)
     
     November 15, 2024
@@ -167,44 +177,28 @@ No related posts.
     
     November 14, 2024
     
-* [WMUK – NPR – Kalamazoo – Bias and Credibility](https://mediabiasfactcheck.com/wmuk-npr-kalamazoo-bias/)
-    
-    November 14, 2024
-    
-* [Bay Post – Bias and Credibility](https://mediabiasfactcheck.com/bay-post-bias-and-credibility/)
-    
-    November 14, 2024
-    
-* [Environmental Evidence Journal – Bias and Credibility](https://mediabiasfactcheck.com/environmental-evidence-journal-bias/)
-    
-    November 13, 2024
-    
-* [ScheerPost – Bias and Credibility](https://mediabiasfactcheck.com/scheerpost-bias-and-credibility/)
-    
-    November 13, 2024
-    
 
 #### Recently Updated Pages
 
+* [Fact-Based Political News](https://mediabiasfactcheck.com/election-center-2024/ "View Fact-Based Political News") - November 15, 2024
+    
 * [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 15, 2024
+    
+* [San Francisco Standard – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-standard-bias-and-credibility/ "View San Francisco Standard – Bias and Credibility") - November 15, 2024
+    
+* [Pro-Science](https://mediabiasfactcheck.com/pro-science/ "View Pro-Science") - November 15, 2024
+    
+* [Cryptography Journal – Bias and Credibility](https://mediabiasfactcheck.com/cryptography-journal-bias/ "View Cryptography Journal – Bias and Credibility") - November 15, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 15, 2024
+    
+* [Lynn News – Bias and Credibility](https://mediabiasfactcheck.com/lynn-news-bias/ "View Lynn News – Bias and Credibility") - November 15, 2024
+    
+* [SFist – Bias and Credibility](https://mediabiasfactcheck.com/sfist-bias-and-credibility/ "View SFist – Bias and Credibility") - November 15, 2024
     
 * [RMG Research – Bias and Credibility](https://mediabiasfactcheck.com/rmg-research-bias-and-credibility/ "View RMG Research – Bias and Credibility") - November 15, 2024
     
 * [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 15, 2024
-    
-* [San Francisco Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-chronicle/ "View San Francisco Chronicle – Bias and Credibility") - November 15, 2024
-    
-* [WalesOnline – Bias and Credibility](https://mediabiasfactcheck.com/walesonline/ "View WalesOnline – Bias and Credibility") - November 14, 2024
-    
-* [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/ "View The Mirror U.S. – Bias and Credibility") - November 14, 2024
-    
-* [Manchester Evening News – Bias and Credibility](https://mediabiasfactcheck.com/manchester-evening-news-bias/ "View Manchester Evening News – Bias and Credibility") - November 14, 2024
-    
-* [Leicester Mercury – Bias and Credibility](https://mediabiasfactcheck.com/leicester-mercury/ "View Leicester Mercury – Bias and Credibility") - November 14, 2024
-    
-* [Irish Daily Mirror – Bias and Credibility](https://mediabiasfactcheck.com/irish-daily-mirror-bias/ "View Irish Daily Mirror – Bias and Credibility") - November 14, 2024
-    
-* [Insider.co.uk – Bias and Credibility](https://mediabiasfactcheck.com/insider-co-uk-bias/ "View Insider.co.uk – Bias and Credibility") - November 14, 2024
     
 
 #### Today’s Top Page Views
@@ -212,13 +206,13 @@ No related posts.
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Onion - Bias and Credibility](https://mediabiasfactcheck.com/the-onion/)
 * [Methodology](https://mediabiasfactcheck.com/methodology/)
-* [News18 - Bias and Credibility](https://mediabiasfactcheck.com/news18/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
 
 #### Subscribe via Email
 
