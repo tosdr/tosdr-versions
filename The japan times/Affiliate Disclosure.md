@@ -209,9 +209,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,23 +253,17 @@ Latest News
 
 [Man found guilty of stealing ¥10.4 million tea bowl from Tokyo exhibition](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/tea-bowl-theft-guilty-verdict/ "Man found guilty of stealing ¥10.4 million tea bowl from Tokyo exhibition")
 
-6 hours ago
+11 hours ago
 
 [Ferrari sells for ¥171 million at Japanese tax sale](https://www.japantimes.co.jp/business/2024/11/15/ferrari-auction-tax-agency/ "Ferrari sells for ¥171 million at Japanese tax sale")
 
-6 hours ago
+11 hours ago
 
 [Share of graduating Japanese university students with job offers falls](https://www.japantimes.co.jp/news/2024/11/15/japan/society/uni-students-job-offers-down/ "Share of graduating Japanese university students with job offers falls")
 
-6 hours ago
-
 [U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-7 hours ago
-
 [British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
