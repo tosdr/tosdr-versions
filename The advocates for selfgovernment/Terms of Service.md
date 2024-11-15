@@ -76,7 +76,7 @@ Enable Dark Mode
         
         2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/pexels-photo-4855351-scaled-resized.jpeg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/DALL·E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--resized.webp)
         
         ### Human Respect Test for Progressives
         
@@ -91,7 +91,7 @@ Enable Dark Mode
         
         6 Min](https://www.theadvocates.org/qep/hrt-progressive/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/kari-shea-8zUaMNX1Yhs-unsplash-scaled-resized.jpg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/DALL·E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-resized.webp)
         
         ### Human Respect Test for Conservatives
         
@@ -106,7 +106,7 @@ Enable Dark Mode
         
         5 Min](https://www.theadvocates.org/qep/hrt-conservative/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/pexels-lara-jameson-8898867-scaled-resized.jpg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/DALL·E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-resized.webp)
         
         ### Human Respect Test for Moderates
         
@@ -121,7 +121,7 @@ Enable Dark Mode
         
         5 Min](https://www.theadvocates.org/qep/hrt-moderate/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/pexels-cottonbro-4865542-scaled-resized.jpg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/DALL·E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--resized.webp)
         
         ### Human Respect Test for Authoritarians
         
@@ -136,7 +136,7 @@ Enable Dark Mode
         
         5 Min](https://www.theadvocates.org/qep/hrt-authoritarian/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/pexels-tima-miroshnichenko-7203908-scaled-resized.jpg)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2024/06/DALL·E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-resized.webp)
         
         ### Human Respect Test for Libertarians
         
@@ -439,107 +439,107 @@ Enable Dark Mode
 Quizzes & Apps
 --------------
 
-*    [![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg) ![](/wp-content/themes/yootheme/cache/be/pexels-lara-jameson-8899196-scaled-beec0f66.jpeg)
+*    [![](/wp-content/themes/yootheme/cache/60/asg-whitehouse-60ee3a2c.jpeg) ![](/wp-content/themes/yootheme/cache/60/asg-whitehouse-60ee3a2c.jpeg)
     
-    ### Freedom of Speech & Expression
+    ### The World’s Smallest Political Quiz
     
-    You'll be given 3 possible answers per question.
+    Discover your political type and what your answers mean
+    
+    Read more
+    
+    WSPQ
+    
+    23,242,153 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
+    
+*  [![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp) ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
+    
+    ### Human Respect Test for Progressives
+    
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
     Read more
     
     Human Respect Tests
     
-      
-    by **ASG Author**
+    13,330 Respondents  
+    by **The Advocates**
     
     Duration
     
-    3 Min](https://www.theadvocates.org/qep/freedom-of-speech-and-expression/)
+    6 Min](https://www.theadvocates.org/qep/hrt-progressive/)
     
-*    [![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg) ![](/wp-content/themes/yootheme/cache/2f/pexels-a-darmel-7710200-scaled-2f7560b0.jpeg)
+*  [![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp) ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
     
-    ### Freedom of Association
+    ### Human Respect Test for Conservatives
     
-    You'll be given 3 possible answers per question.
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
     Read more
     
     Human Respect Tests
     
-      
-    by **ASG Author**
+    1,140 Respondents  
+    by **The Advocates**
     
     Duration
     
-    3 Min](https://www.theadvocates.org/qep/freedom-of-association/)
+    5 Min](https://www.theadvocates.org/qep/hrt-conservative/)
     
-*    [![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg) ![](/wp-content/themes/yootheme/cache/2e/pexels-francesco-ungaro-97509-2e83fd6f.jpeg)
+*  [![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp) ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
     
-    ### Freedom of Privacy
+    ### Human Respect Test for Moderates
     
-    You'll be given 3 possible answers per question.
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
     Read more
     
     Human Respect Tests
     
-      
-    by **ASG Author**
+    13,850 Respondents  
+    by **The Advocates**
     
     Duration
     
-    3 Min](https://www.theadvocates.org/qep/freedom-of-privacy/)
+    5 Min](https://www.theadvocates.org/qep/hrt-moderate/)
     
-*    [![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg) ![](/wp-content/themes/yootheme/cache/77/pexels-emily-ranquist-493228-1205651-77c9dc0a.jpeg)
+*  [![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp) ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
     
-    ### Education Freedom Respect
+    ### Human Respect Test for Authoritarians
     
-    You'll be given 3 possible answers per question.
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
     Read more
     
     Human Respect Tests
     
-      
-    by **ASG Author**
+    610 Respondents  
+    by **The Advocates**
     
     Duration
     
-    3 Min](https://www.theadvocates.org/qep/education-freedom/)
+    5 Min](https://www.theadvocates.org/qep/hrt-authoritarian/)
     
-*    [![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg) ![](/wp-content/themes/yootheme/cache/a4/pexels-rethaferguson-3825586-scaled-a4fa40d1.jpeg)
+*  [![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp) ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
     
-    ### Healthcare Respect
+    ### Human Respect Test for Libertarians
     
-    You'll be given 3 possible answers per question.
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
     Read more
     
     Human Respect Tests
     
-      
-    by **ASG Author**
+    13,020 Respondents  
+    by **The Advocates**
     
     Duration
     
-    3 Min](https://www.theadvocates.org/qep/freedom-of-bodily-autonomy-copy-copy/)
-    
-*    [![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg) ![](/wp-content/themes/yootheme/cache/12/pexels-pixabay-532001-125c1315.jpeg)
-    
-    ### Personal Choice & Victimless Crimes
-    
-    You'll be given 3 possible answers per question.
-    
-    Read more
-    
-    Human Respect Tests
-    
-      
-    by **ASG Author**
-    
-    Duration
-    
-    3 Min](https://www.theadvocates.org/qep/personal-choice-victimless-crimes/)
+    5 Min](https://www.theadvocates.org/qep/hrt-libertarian/)
     
 
 Articles
