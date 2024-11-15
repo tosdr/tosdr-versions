@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Action Stops H&R Block’s Unfair Downgrading Practices and Deceptive Promises of ‘Free’ Filing](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-action-stops-hr-blocks-unfair-downgrading-practices-deceptive-promises-free-filing)
+    ### [Reports of Unwanted Telemarketing Calls Down More Than 50 Percent Since 2021](https://www.ftc.gov/news-events/news/press-releases/2024/11/reports-unwanted-telemarketing-calls-down-more-50-percent-2021)
     
-    November 12, 2024
+    November 15, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
