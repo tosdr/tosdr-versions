@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Trump nominates RFK Jr. to head Department of Health and Human Services](https://nypost.com/2024/11/14/us-news/trump-to-nominate-rfk-jr-to-head-department-of-health-and-human-services-sources/)
+[Trump to nominate close ally as Department of the Interior secretary](https://nypost.com/2024/11/14/us-news/trump-to-nominate-north-dakota-gov-doug-burgum-as-department-of-the-interior-secretary/)
 
 Privacy Notice Highlights
 =========================
