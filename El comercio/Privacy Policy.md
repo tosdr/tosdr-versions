@@ -31,59 +31,249 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-La desinformación aumenta en épocas de crisis
-=============================================
+Cortes de luz en Quito este viernes 15 de noviembre
+===================================================
 
-En tiempos de crisis energética, la información veraz es crucial para mantener la estabilidad social y emocional de los ecuatorianos.
--------------------------------------------------------------------------------------------------------------------------------------
+El anuncio de los horarios es recibido en medio de las quejas ante el incumplimiento de los cronogramas establecidos para Quito
+-------------------------------------------------------------------------------------------------------------------------------
 
-![En un mundo donde la desinformación se propaga a la velocidad de un clic, cultivar una cultura de responsabilidad informativa es muy importante.](https://www.elcomercio.com/wp-content/uploads/2024/11/Oscuridad-y-celulares.jpg)
+![La Empresa Eléctrica Quito mantiene monitoreo en sus redes.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz-Quito.jpg)
 
-La actual crisis energética que enfrenta Ecuador, caracterizada por frecuentes cortes de luz, ha puesto de manifiesto la crucial importancia de contar con fuentes de información confiables y oportunas. En un escenario donde la incertidumbre y la ansiedad se propagan tan rápidamente como la oscuridad en las calles, la responsabilidad de proporcionar datos precisos recae no solo en las entidades oficiales, sino también en los medios de comunicación, líderes políticos y ciudadanos.
+El **Ministerio de Energía y Minas** publicó la programación de **cortes de luz** para todo Ecuador del viernes 15 de noviembre al domingo 17 de noviembre de 2024.
 
-> La proliferación de información falsa, especialmente en plataformas digitales, no solo socava la confianza pública, sino que también afecta la estabilidad emocional de una población ya estresada por los desafíos cotidianos.
+### Más noticias
 
-En momentos de crisis, la transparencia y la prontitud en la comunicación por parte de las autoridades son fundamentales. Las entidades gubernamentales y las empresas de servicios públicos tienen la obligación de proporcionar información clara, precisa y oportuna sobre la situación energética, los horarios de cortes programados y las medidas que se están tomando para resolver la crisis. La falta de comunicación o la entrega de información contradictoria solo alimenta la especulación y el pánico.
+* [Así funciona el Pico y placa en Quito este viernes 15 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-en-quito-este-viernes-15-de-noviembre.html "Así funciona el Pico y placa en Quito este viernes 15 de noviembre")
+* [Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta](https://www.elcomercio.com/actualidad/mundo/trump-felicita-a-milei-por-hacer-grande-a-argentina-respuesta.html "Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta")
+* [Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-mantienen-12-horas-hasta-domingo-17-de-noviembre-ecuador.html "Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador")
 
-En un contexto de crisis, es común que ciertos actores políticos intenten capitalizar la situación para obtener ventajas electorales. Sin embargo, la difusión de información falsa o manipulada con fines políticos no solo es éticamente reprobable, sino que también puede tener consecuencias graves para la estabilidad social y emocional de la población. Un informe de la UNESCO sobre desinformación en América Latina señala que durante periodos de crisis, la propagación de noticias falsas puede aumentar hasta en un 300%, con consecuencias que van desde la erosión de la confianza en las instituciones hasta la incitación de comportamientos peligrosos.
+Se mantienen los cortes de 12 horas
+-----------------------------------
 
-La exposición constante a información contradictoria o falsa puede tener un impacto significativo en la salud mental de las personas. Un estudio publicado en el **Journal of Anxiety Disorders** encontró una correlación directa entre el consumo de información falsa y el aumento de los niveles de ansiedad y estrés. En el contexto de la crisis energética ecuatoriana, esto puede traducirse en un aumento de la tensión social y una disminución de la capacidad de la población para enfrentar los desafíos de manera racional y coordinada.
+Debido a las condicione**s hidrológicas y climáticas** en las zonas de las hidroeléctricas persisten, el Ministerio de Energía informó que se mantiene la suspensión del servicio eléctrico.
 
-Las redes sociales y otras plataformas digitales juegan un papel crucial en la difusión de información durante las crisis. Sin embargo, la reciente decisión de medios respetados como **The Guardian y La Vanguardia** de abandonar X (anteriormente Twitter) debido a su percepción como una plataforma tóxica y llena de desinformación, plantea serias preguntas sobre la responsabilidad de estas plataformas en la propagación de noticias falsas. La salida de estos medios de X no solo representa una pérdida para la plataforma en términos de contenido de calidad, sino que también envía un mensaje claro sobre la necesidad de espacios digitales más responsables y comprometidos con la verdad.
+Esta suspensión de electricidad **contempla hasta 12 horas** en los sectores residenciales e industriales.
 
-La crisis energética en Ecuador no es solo un desafío técnico y logístico; también es una prueba para nuestro ecosistema informativo. La capacidad de proporcionar y acceder a información confiable es crucial no solo para manejar los aspectos prácticos de la crisis, sino también para mantener la cohesión social y la estabilidad emocional de la población.
+La Cartera de Estado informó **los cronogramas** que se aplicarán durante el viernes y el fin de semana próximos en Ecuador.
 
-Respuesta de Chat GPT
-=====================
+Las nueve empresas **distribuidoras de energía eléctrica** presentaron los horarios para cada una de las unidades de negocio que manejan para que los afectados puedan planificar con tiempo sus labores.
 
-Las ciudades deben prepararse para un crecimiento que considere la movilidad, el acceso a servicios básicos y la protección del medio ambiente.
------------------------------------------------------------------------------------------------------------------------------------------------
+> 📍¡IMPORTANTE!  
+>   
+> Debido a que las condiciones hidrológicas y climáticas en las zonas de las hidroeléctricas persisten, se mantiene la suspensión de electricidad de hasta 12 horas, para el viernes 15, sábado 16 y domingo 17 de noviembre.  
+>   
+> 🔸Programación en➡️ [https://t.co/hN2m1Jq8RT](https://t.co/hN2m1Jq8RT) [pic.twitter.com/PGpZnyvGuh](https://t.co/PGpZnyvGuh)
+> 
+> — Ministerio de Energía y Minas Ecuador🇪🇨 (@RecNaturalesEC) [November 14, 2024](https://twitter.com/RecNaturalesEC/status/1857029539001410013?ref_src=twsrc%5Etfw)
 
-![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+Horarios de cortes de luz en Quito viernes 15
+---------------------------------------------
 
-En coincidencia con un artículo que estuve preparando sobre **inteligencia artificial** me llegó el mensaje de un primo en **España** a quien comparto mis artículos semanalmente. Estimado lector me permitirá compartir dicho mensaje que hace referencia a la **crisis energética** que vivimos en el **Ecuador**.
+La **Empresa Eléctrica Quito** dio a conocer los horarios de cortes de luz que se aplicarán en la ciudad este viernes 15 de noviembre.
 
-”Mira Kurt, lo que dice ChTgpt respecto a tus artículos y pegunta sobre qué medidas propondría: Para abordar la situación expuesta en los artículos de Kurt Freund Ruf”
+Estos horarios contemplan **12 horas de suspensión del servicio** y se mantienen casi iguales a los establecidos en los días anteriores. Los **cronogramas** están establecidos tanto para la zona residencial como para el sector industrial.
 
-“Es clave implementar un **enfoque integral**, que abarque tanto **políticas nacionales** como cambios en la **conciencia social**, para dirigir a la **sociedad** hacia un **desarrollo equilibrado** y sostenible. Aquí propongo algunas soluciones y medidas:
+Sin embargo, los quiteños se quejan en redes sociales de **la falta de cumplimiento** en la aplicación de estos cronogramas.
 
-1\. Creación de un Consejo Multidisciplinario y Multipartidista: Como Freund sugiere, es esencial formar un **grupo de expertos** en diferentes áreas (economía, medio ambiente, tecnología, seguridad, y derechos humanos) que pueda definir **metas estratégicas para el país**, orientadas al desarrollo sostenible y la resiliencia ante **cambios globales.** Este consejo debe ser apolítico y contar con representación del sector público, privado y sociedad civil, con el objetivo de construir consensos sobre las **prioridades nacionales**.
+En Quito, **la situación es crítica** debido a que también se aplican **cortes de agua** no solo a causa de los cortes de luz, sino también por la **sequía.**
 
-2\. Seguridad Alimentaria y Energética: La **seguridad alimentaria** y la independencia energética son pilares fundamentales para reducir la **dependencia de factores externos.** Se podrían implementar programas para **incentivar la agricultura sostenible**, promover la agricultura urbana y periurbana, e invertir en **energías renovables**, especialmente en áreas rurales, donde estas soluciones pueden generar empleo y mejorar las **condiciones de vida**.
+Casi 100 barrios están afectados por los primeros **racionamientos preventivos** ante la crisis hídrica que presentan los embalses que abastecen de agua a Quito.
 
-3\. Educación e Innovación Tecnológica: Es importante crear **programas educativos** que se alineen con las habilidades necesarias en el contexto actual y futuro. Esto implica tanto mejorar la educación en **tecnología y sostenibilidad** como fomentar la investigación y desarrollo (I+D) en inteligencia artificial, energías renovables y otras **tecnologías emergentes.** Las **políticas educativas** deben incluir una **dimensión ética** y de **conciencia social** sobre los impactos del **desarrollo tecnológico.**
+Trump felicita a Milei por ‘hacer grande a Argentina nuevamente’ y recibe respuesta
+===================================================================================
 
-4\. Políticas de Transparencia y Seguridad Jurídica: La **confianza** es fundamental para atraer **inversiones** y mantener un **ambiente económico estable**. Por lo tanto, sería clave establecer **leyes** que refuercen la transparencia en la **gestión pública** y la rendición de cuentas, promoviendo prácticas contra la **corrupción** y la **impunidad**. Además, es importante asegurar la **seguridad jurídica** para empresas y ciudadanos, facilitando **procesos judiciales ágiles y justos**.
+Milei felicitó a Trump por la remontada política más grande de la historia y señaló que el mundo es mucho mejor ahora.
+----------------------------------------------------------------------------------------------------------------------
 
-5\. Planificación Urbana Sostenible: Las **ciudades** deben prepararse para un **crecimiento** que considere la movilidad, el acceso a **servicios básicos** y la protección del medio **ambiente**. Para ello, podrían desarrollarse **políticas de urbanismo** que incentiven la construcción de **viviendas sostenibles**, el uso de **transporte público** limpio y la creación de espacios verdes que absorban la **contaminación** y mejoren la **calidad de vida.**
+![El presidente argentino, Javier Milei; el presidente electo de EE.UU. Donald Trump y el magnate Elon Musk durante la gala de un foro de conservadores en Florida.](https://www.elcomercio.com/wp-content/uploads/2024/11/Trump-Milei.jpg)
 
-6\. Fortalecimiento de Redes de Protección Social: Es necesario crear una **red** de **seguridad** para las personas afectadas por factores como el **desplazamiento**, la **violencia, la pobreza** extrema y el **cambio climático**. Esto implica mejorar el acceso a servicios de salud, educación, empleo y seguridad, priorizando a los sectores más vulnerables de la **población**.
+El presidente de Argentina, **Javier Milei**, y el mandatario electo de EE.UU., **Donald Trump**, se felicitaron este jueves mutuamente durante sendos discursos en la gala de un foro de conservadores. El evento se lleva a cabo en Mar-a-Lago, el club privado del republicano, en Palm Beach (Florida).
 
-7\. Fomento de un Discurso Positivo en los Medios: Como menciona Freund, sería beneficioso que los **medios de comunicación** contribuyan con una narrativa que informe sobre los problemas, pero que también ofrezca soluciones y esperanza. Una mayor **colaboración** entre medios y **expertos en sostenibilidad, desarrollo y ética** podría facilitar la creación de contenido que inspire **acciones positivas** y **educativas** en la población.
+### Más noticias
 
-En conclusión, estas medidas, basadas en **cooperación**, **educación**, **transparencia** y **desarrollo sostenible,** podrían marcar una diferencia en la dirección hacia un futuro equilibrado y resiliente”
+* [Trump confirma que Marco Rubio será el próximo secretario de Estado de EE.UU.](https://www.elcomercio.com/actualidad/mundo/trump-confirma-marco-rubio-sera-el-proximo-secretario-de-estado-de-ee-uu.html "Trump confirma que Marco Rubio será el próximo secretario de Estado de EE.UU.")
+* [Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador](https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html "Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador")
+* [Donald Trump continúa con las designaciones de su próximo gabinete](https://www.elcomercio.com/actualidad/mundo/donald-trump-continua-con-las-designaciones-de-su-proximo-gabinete.html "Donald Trump continúa con las designaciones de su próximo gabinete")
 
-¿Qué opina Ud. ¿Estimado lector?
+Las palabras que se dedicaron
+-----------------------------
+
+“Javier, te quiero felicitar por el trabajo que has hecho, de hacer **la Argentina grande de nuevo.** Es increíble cómo la estás arreglando”, aseguró el expresidente Trump (2017-2021).
+
+“Tu discurso fue hermoso, pero **el trabajo que has hecho es increíble**. Hacer a la Argentina grande de nuevo. Eres una persona MAGA (Make America Great Again)”, le dijo Trump durante el discurso.
+
+“Creo que tus números están funcionando. Has hecho un trabajo fantástico en un período de tiempo muy corto”, manifestó Trump.
+
+Previamente, **Milei había resaltado al republicano** por “su contundente victoria y por la remontada **política más grande de la historia**, enfrentando a todo el establishment. Incluso, poniendo en riesgo su propia vida”, señaló en referencia a los dos atentados que sufrió durante la campaña.
+
+“Hoy **el mundo es mucho mejor** porque soplan vientos de libertad que son muchísimo más fuertes. Un verdadero milagro y prueba fehaciente de que las fuerzas del cielo están de nuestro lado”, agregó Milei.
+
+El presidente libertario además se reunió durante la gala con el **multimillonario Elon Musk,** a quien también felicitó por su nombramiento en el nuevo Departamento de Eficiencia Gubernamental (DOGE, en inglés) de Estados Unidos.
+
+**Milei conversó con Trump** durante la gala del conservador America First Policy Institute, en la que se dieron cita cientos de invitados, **aunque ambos líderes no mantuvieron una reunión bilateral.**
+
+Mar-a-Lago es desde hoy y hasta el próximo sábado la sede de la Conferencia de Acción Política Conservadora (CPAC, en inglés), que reúne a inversores de esta tendencia.
+
+**Milei es el primer líder extranjero que se reúne con Trump** tras su victoria en las pasadas elecciones presidenciales del pasado 5 de noviembre, y antes de que asuma la presidencia el próximo 20 de enero.
+
+El **Mandatario argentino** afirmó antes de partir rumbo a Florida que su intención es buscar un Acuerdo de Libre Comercio (TLC) con Estados Unidos. Además, conseguir que **Argentina** tenga mejores condiciones en la relación con el Fondo Monetario Internacional (FMI).
+
+‘Milei es su presidente favorito’
+---------------------------------
+
+Asimismo, indicó que **Trump le confesó e**n una conversación telefónica que él es su “presidente favorito” de América, por lo que entre ambos van a hacer tanto a Estados Unidos como a Argentina “más grandes”.  
+Antes del evento, Milei mantuvo en Miami reuniones privadas con empresarios de Estados Unidos.
+
+**Milei conoció a Trump** en un encuentro informal en los márgenes de la edición de febrero pasado de la CPAC, cuando se saludaron de forma cordial y ambos se expresaron buenos deseos en sus respectivos planes políticos, en tanto el argentino reconoció su admiración por el republicano.
+
+La visita de Milei a EE.UU. será corta, porque recibirá el fin de semana en Buenos Aires al presidente de Francia, Emmanuel Macron. Después viajará a Brasil para participar en la **cumbre del G20** y luego recibirá, también en la capital argentina, a la primera ministra italiana, [Georgia Meloni](https://es.wikipedia.org/wiki/Donald_Trump "https://es.wikipedia.org/wiki/Donald_Trump").
+
+¿Cómo será la etapa 5 de la Vuelta al Ecuador?
+==============================================
+
+La Vuelta al Ecuador 2024 de ciclismo entra en su recta final con la etapa 5 que se llevará a cabo entre Urbina y Machachi.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Líderes de la clasificación y ganadores de la Vuelta Ciclística a Ecuador tras la cuarta etapa.](https://www.elcomercio.com/wp-content/uploads/2024/11/1000164463-scaled.jpg)
+
+La **Vuelta al Ecuador** de ciclismo entra a su recta final durante este viernes 16 de noviembre del 2024. El certamen disputará su quinta etapa con un trazado de montaje que se dirigirá hacia el norte de la sierra ecuatoriana.
+
+Después de haber celebrado la **etapa 4** en un circuito cerrado y diferente en torno al resto de la carrera, la nueva fase volverá a tener similitud con las tres primeras. En la capital de **Chimborazo**, el recorrido dejó de ser interprovincial y entre ciudades y se celebró una carrera de ocho vueltas en un trayecto consecutivo[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
+
+### Más noticias:
+
+* [La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa4-ganador-general-riobamba.html "La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba")
+* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
+* [Miryam Núñez apunta a los Juegos Olímpicos](https://www.elcomercio.com/deportes/miryam-nunez-vuelta-femenina-juegos-olimpicos.html "Miryam Núñez apunta a los Juegos Olímpicos")
+
+El día cinco del certamen ciclístico abarcará una ruta que irá desde Urbina (Chimborazo) y Machachi (Pichincha). Esta ocupará un total de **153,42 kilómetros** y será una de las más largas de la competencia.
+
+La nueva carrera de la **Vuelta** estará caracterizada por la presencia de **puertos de montaña** y una escalada en cuanto a metros sobre el nivel del mar. Pese a que será un recorrido idea para los especialistas en subidas, las **metas volantes** también estarán presentes.
+
+Un recorrido de altura en la Vuelta al Ecuador
+----------------------------------------------
+
+Aunque el recorrido iniciará en bajada en un inicio, tras ello la etapa se transformará en un a de plena escalada y montaña. El inicio será a **2 819 metros** sobre el nivel del mar (msnm) y el fin a 2 350.
+
+Al igual que en las etapas anteriores, el recorrido presentará **tres metas volantes**. Estas estarán ubicadas en los kilómetros 16,92, en la bajada; y 76,7 y 100, 4, ya en subida.
+
+Los puertos de montaña contemplarán dos espacios y, a diferencia de los previos en las fases anteriores, estos serán de **primera categoría**, es decir, que otorgarán un mayor puntaje en su clasificación. Los ciclistas beneficiados serán los seis primeros que crucen el lugar establecido y se llevarán 10, 8, 6, 4, 2 y un punto.
+
+Los **puertos de montaña** se establecerán en los kilómetros 54, 4 y 136, 5 de la carrera
+
+Mitos y realidades de la vasectomía que se debe tomar en cuenta
+===============================================================
+
+El Día de la Vasectomía promueve la salud reproductiva masculina.
+-----------------------------------------------------------------
+
+![La vasectomía ha evolucionado hasta realizarse sin bisturí. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-Vasectomia.jpg)
+
+El **Día de la Vasectomía**, celebrado el **15 de noviembre**, busca **concienciar sobre este procedimiento quirúrgico**.  
+
+### Más noticias
+
+* [Día Mundial de la Diabetes, conciencia y prevención a nivel global](https://www.elcomercio.com/tendencias/salud/dia-mundial-diabetes-efemeride-salud.html "https://www.elcomercio.com/tendencias/salud/dia-mundial-diabetes-efemeride-salud.html") 
+* [La neumonía sigue siendo una amenaza mortal, especialmente para los más pequeños](https://www.elcomercio.com/tendencias/salud/dia-mundial-contra-neumonia-efemeride.html "https://www.elcomercio.com/tendencias/salud/dia-mundial-contra-neumonia-efemeride.html") 
+
+**La vasectomía es un método anticonceptivo seguro**. Su objetivo es **ofrecer a los hombres una opción permanente** para el control de la natalidad.  
+
+Este día también se utiliza para **desmitificar las creencias erróneas que rodean a este procedimiento**. 
+
+**Historia de la vasectomía** 
+------------------------------
+
+**El Dr. Christian Alexander Cueva Ponce**, cirujano urólogo y docente en la Escuela de Medicina de la UIDE, explica que e**ste procedimiento quirúrgico tiene casi 250 años de historia**, comenzó con la **primera oclusión del conducto deferente realizada por el Dr. John Hunter**. Con el tiempo, la técnica ha evolucionado y adaptado, llegando a realizarse hoy en día incluso sin necesidad de un bisturí. 
+
+**¿En qué consiste la vasectomía?** 
+------------------------------------
+
+**La vasectomía consiste en cortar y sellar los conductos deferentes**. Esto impide que los espermatozoides se mezclen con el semen durante la eyaculación. Aunque **se considera un procedimiento simple**, muchos hombres tienen dudas sobre su seguridad y efectividad. Según [Planned Parenthood](https://www.plannedparenthood.org/es/temas-de-salud/anticonceptivos/vasectomia/que-puedo-esperar-si-me-hago-una-vasectomia "https://www.plannedparenthood.org/es/temas-de-salud/anticonceptivos/vasectomia/que-puedo-esperar-si-me-hago-una-vasectomia"), existen dos tipos principales: **la vasectomía con bisturí y la vasectomía sin bisturí**. La segunda opción es menos invasiva y tiene un tiempo de recuperación más rápido. 
+
+**Importancia de esta efeméride** 
+----------------------------------
+
+En muchos países, la **salud reproductiva masculina** ha sido históricamente ignorada. Este día busca cambiar esa narrativa. **Se promueve la vasectomía como una opción válida para aquellos que no desean tener más hijos**. También se enfatiza que **este procedimiento no afecta la libido ni la capacidad de tener relaciones sexuales**. 
+
+En Ecuador, por ejemplo, **existen organizaciones como [Cemoplaf](https://www.cemoplaf.org.ec/?fbclid=IwY2xjawGjWLJleHRuA2FlbQIxMAABHSUm9vW-vXxD_Kga8kgRAl9aksegQJa83zRep1xzgnRBb4ihDYrLz09VzA_aem_AXzeTKt6kv7ggKTpa8u3FQ "https://www.cemoplaf.org.ec/?fbclid=IwY2xjawGjWLJleHRuA2FlbQIxMAABHSUm9vW-vXxD_Kga8kgRAl9aksegQJa83zRep1xzgnRBb4ihDYrLz09VzA_aem_AXzeTKt6kv7ggKTpa8u3FQ") que informan y realizan este tipo de procedimientos**.  
+
+Estas iniciativas son fundamentales para **aumentar el acceso a este método anticonceptivo.** 
+
+**Mitos y realidades** 
+-----------------------
+
+Existen **varios mitos sobre la vasectomía** que necesitan ser abordados. Uno de los más comunes es que **causa impotencia o disminución del deseo sexual**. Sin embargo, estudios han demostrado que **no hay relación entre la vasectomía y estos problemas sexuales** 
+
+Otro mito es que **el procedimiento es doloroso**; en realidad, **se utiliza anestesia local** y muchos hombres reportan **solo molestias menores** durante el proceso, siguiendo con Planned Parenthood.  
+
+Es crucial que los hombres tengan **acceso a información precisa sobre la vasectomía**. Esto les permitirá **tomar decisiones informadas sobre su salud reproductiva**. La educación sobre este tema debe ser parte integral de las campañas de salud pública. 
+
+El Dr. Cueva Ponce señala que, aunque el procedimiento no ofrece protección automática contra las **enfermedades de transmisión sexual**, tampoco provoca **aumento de peso**, ni aumenta el **riesgo de desarrollar Alzheimer, cáncer de próstata, ni afecta el deseo sexual**, la cantidad de líquido eyaculado o, lo más importante, la **capacidad de mantener erecciones.** 
+
+**Procedimiento y recuperación** 
+---------------------------------
+
+El **procedimiento de vasectomía** generalmente dura entre 15 y 30 minutos. Se realiza bajo anestesia local, lo que minimiza el dolor durante la cirugía.  
+
+Después del procedimiento, **es normal experimentar algunas molestias o hinchazón**. Los médicos recomiendan **reposo y evitar actividades físicas intensas** durante al menos una semana. 
+
+Es importante destacar que **la efectividad del procedimiento no es inmediata**. Los hombres **deben seguir utilizando métodos anticonceptivos alternativos** hasta que un análisis confirme que no hay espermatozoides en el semen, lo cual puede tardar entre 8 a 16 semanas. 
+
+Así funciona el Pico y placa en Quito este viernes 15 de noviembre
+==================================================================
+
+Recuerda que el Pico y placa aplica de lunes a viernes. Fines de semana y feriados no rige esta medida de tránsito
+------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se aplica en Quito para controlar el flujo vehicular.](https://www.elcomercio.com/wp-content/uploads/2024/11/Quito-pico.jpg)
+
+El **Pico y placa** es una restricción vehicular que rige en todo el Distrito Metropolitano de **Quito** como medida para **gestionar el tránsito** de la ciudad en las horas pico.
+
+Esta **restricción excluye** a los autos conducidos por **personas de la tercera edad** o personas con discapacidad.
+
+### Más noticias
+
+* [Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre")
+* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
+* [Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-mantienen-12-horas-hasta-domingo-17-de-noviembre-ecuador.html "Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador")
+
+Horarios de Pico y placa
+------------------------
+
+El Pico y placa se aplica en dos horarios de **lunes a viernes**. Los feriados, sábados y domingo no aplica la restricción.
+
+Estos son los horarios de aplicación:
+
+* En la **mañana**: de 06:00 a 09:30
+* En la **tarde**: de 16:00 a 20:00
+
+El **Pico y placa** es una medida que se implementó en **diversas ciudades** alrededor del mundo como respuesta a los desafíos de la **urbanización** y el aumento del tránsito vehicular.
+
+Multas por infringir el Pico y placa
+------------------------------------
+
+La multa por incumplir el **Pico y placa** es del **15% del Salario Básico Unificado, es decir 69 dólares** la primera vez; la segunda vez será el 25%, es decir, **115 dólares**.
+
+Si incumples por tercera vez, la multa asciende al 50% de un salario básico, es decir, **230 dólares**.
+
+Recuerda retirar tu auto de las plazas de parqueo
+-------------------------------------------------
+
+Está vigente la resolución que dispone el proceso de **chatarrización** de los vehículos ingresados en los Centros de Retención Vehicular (CRV) por **más de tres años**, que no hayan sido retirados por sus propietarios.
+
+Con estos vehículos se emite una **declaratoria de abandono** y luego se procede a la chatarrización.
+
+Por esta razón, la Agencia de Tránsito llama a los **legítimos propietarios** a realizar el proceso de [liberación](https://es.wikipedia.org/wiki/Quito) vehicular.
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/UFguFjnMCB](https://t.co/UFguFjnMCB)
+> 
+> — AMTQuito (@AMT\_Quito) [October 18, 2024](https://twitter.com/AMT_Quito/status/1847210996382740688?ref_src=twsrc%5Etfw)
 
 Tres Cumbres en Suramérica
 ==========================
@@ -145,6 +335,60 @@ Otra de mis quejas que, desde luego,  es un clamor generalizado es  ¿Po
 Es necesario que la gente tome conciencia y haga acopio de estas sugerencias por respeto, empatía y amor a sus compatriotas y a la Patria toda. 
 
 Fabiola Carrera Alemán 
+
+Respuesta de Chat GPT
+=====================
+
+Las ciudades deben prepararse para un crecimiento que considere la movilidad, el acceso a servicios básicos y la protección del medio ambiente.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+En coincidencia con un artículo que estuve preparando sobre **inteligencia artificial** me llegó el mensaje de un primo en **España** a quien comparto mis artículos semanalmente. Estimado lector me permitirá compartir dicho mensaje que hace referencia a la **crisis energética** que vivimos en el **Ecuador**.
+
+”Mira Kurt, lo que dice ChTgpt respecto a tus artículos y pegunta sobre qué medidas propondría: Para abordar la situación expuesta en los artículos de Kurt Freund Ruf”
+
+“Es clave implementar un **enfoque integral**, que abarque tanto **políticas nacionales** como cambios en la **conciencia social**, para dirigir a la **sociedad** hacia un **desarrollo equilibrado** y sostenible. Aquí propongo algunas soluciones y medidas:
+
+1\. Creación de un Consejo Multidisciplinario y Multipartidista: Como Freund sugiere, es esencial formar un **grupo de expertos** en diferentes áreas (economía, medio ambiente, tecnología, seguridad, y derechos humanos) que pueda definir **metas estratégicas para el país**, orientadas al desarrollo sostenible y la resiliencia ante **cambios globales.** Este consejo debe ser apolítico y contar con representación del sector público, privado y sociedad civil, con el objetivo de construir consensos sobre las **prioridades nacionales**.
+
+2\. Seguridad Alimentaria y Energética: La **seguridad alimentaria** y la independencia energética son pilares fundamentales para reducir la **dependencia de factores externos.** Se podrían implementar programas para **incentivar la agricultura sostenible**, promover la agricultura urbana y periurbana, e invertir en **energías renovables**, especialmente en áreas rurales, donde estas soluciones pueden generar empleo y mejorar las **condiciones de vida**.
+
+3\. Educación e Innovación Tecnológica: Es importante crear **programas educativos** que se alineen con las habilidades necesarias en el contexto actual y futuro. Esto implica tanto mejorar la educación en **tecnología y sostenibilidad** como fomentar la investigación y desarrollo (I+D) en inteligencia artificial, energías renovables y otras **tecnologías emergentes.** Las **políticas educativas** deben incluir una **dimensión ética** y de **conciencia social** sobre los impactos del **desarrollo tecnológico.**
+
+4\. Políticas de Transparencia y Seguridad Jurídica: La **confianza** es fundamental para atraer **inversiones** y mantener un **ambiente económico estable**. Por lo tanto, sería clave establecer **leyes** que refuercen la transparencia en la **gestión pública** y la rendición de cuentas, promoviendo prácticas contra la **corrupción** y la **impunidad**. Además, es importante asegurar la **seguridad jurídica** para empresas y ciudadanos, facilitando **procesos judiciales ágiles y justos**.
+
+5\. Planificación Urbana Sostenible: Las **ciudades** deben prepararse para un **crecimiento** que considere la movilidad, el acceso a **servicios básicos** y la protección del medio **ambiente**. Para ello, podrían desarrollarse **políticas de urbanismo** que incentiven la construcción de **viviendas sostenibles**, el uso de **transporte público** limpio y la creación de espacios verdes que absorban la **contaminación** y mejoren la **calidad de vida.**
+
+6\. Fortalecimiento de Redes de Protección Social: Es necesario crear una **red** de **seguridad** para las personas afectadas por factores como el **desplazamiento**, la **violencia, la pobreza** extrema y el **cambio climático**. Esto implica mejorar el acceso a servicios de salud, educación, empleo y seguridad, priorizando a los sectores más vulnerables de la **población**.
+
+7\. Fomento de un Discurso Positivo en los Medios: Como menciona Freund, sería beneficioso que los **medios de comunicación** contribuyan con una narrativa que informe sobre los problemas, pero que también ofrezca soluciones y esperanza. Una mayor **colaboración** entre medios y **expertos en sostenibilidad, desarrollo y ética** podría facilitar la creación de contenido que inspire **acciones positivas** y **educativas** en la población.
+
+En conclusión, estas medidas, basadas en **cooperación**, **educación**, **transparencia** y **desarrollo sostenible,** podrían marcar una diferencia en la dirección hacia un futuro equilibrado y resiliente”
+
+¿Qué opina Ud. ¿Estimado lector?
+
+La desinformación aumenta en épocas de crisis
+=============================================
+
+En tiempos de crisis energética, la información veraz es crucial para mantener la estabilidad social y emocional de los ecuatorianos.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![En un mundo donde la desinformación se propaga a la velocidad de un clic, cultivar una cultura de responsabilidad informativa es muy importante.](https://www.elcomercio.com/wp-content/uploads/2024/11/Oscuridad-y-celulares.jpg)
+
+La actual crisis energética que enfrenta Ecuador, caracterizada por frecuentes cortes de luz, ha puesto de manifiesto la crucial importancia de contar con fuentes de información confiables y oportunas. En un escenario donde la incertidumbre y la ansiedad se propagan tan rápidamente como la oscuridad en las calles, la responsabilidad de proporcionar datos precisos recae no solo en las entidades oficiales, sino también en los medios de comunicación, líderes políticos y ciudadanos.
+
+> La proliferación de información falsa, especialmente en plataformas digitales, no solo socava la confianza pública, sino que también afecta la estabilidad emocional de una población ya estresada por los desafíos cotidianos.
+
+En momentos de crisis, la transparencia y la prontitud en la comunicación por parte de las autoridades son fundamentales. Las entidades gubernamentales y las empresas de servicios públicos tienen la obligación de proporcionar información clara, precisa y oportuna sobre la situación energética, los horarios de cortes programados y las medidas que se están tomando para resolver la crisis. La falta de comunicación o la entrega de información contradictoria solo alimenta la especulación y el pánico.
+
+En un contexto de crisis, es común que ciertos actores políticos intenten capitalizar la situación para obtener ventajas electorales. Sin embargo, la difusión de información falsa o manipulada con fines políticos no solo es éticamente reprobable, sino que también puede tener consecuencias graves para la estabilidad social y emocional de la población. Un informe de la UNESCO sobre desinformación en América Latina señala que durante periodos de crisis, la propagación de noticias falsas puede aumentar hasta en un 300%, con consecuencias que van desde la erosión de la confianza en las instituciones hasta la incitación de comportamientos peligrosos.
+
+La exposición constante a información contradictoria o falsa puede tener un impacto significativo en la salud mental de las personas. Un estudio publicado en el **Journal of Anxiety Disorders** encontró una correlación directa entre el consumo de información falsa y el aumento de los niveles de ansiedad y estrés. En el contexto de la crisis energética ecuatoriana, esto puede traducirse en un aumento de la tensión social y una disminución de la capacidad de la población para enfrentar los desafíos de manera racional y coordinada.
+
+Las redes sociales y otras plataformas digitales juegan un papel crucial en la difusión de información durante las crisis. Sin embargo, la reciente decisión de medios respetados como **The Guardian y La Vanguardia** de abandonar X (anteriormente Twitter) debido a su percepción como una plataforma tóxica y llena de desinformación, plantea serias preguntas sobre la responsabilidad de estas plataformas en la propagación de noticias falsas. La salida de estos medios de X no solo representa una pérdida para la plataforma en términos de contenido de calidad, sino que también envía un mensaje claro sobre la necesidad de espacios digitales más responsables y comprometidos con la verdad.
+
+La crisis energética en Ecuador no es solo un desafío técnico y logístico; también es una prueba para nuestro ecosistema informativo. La capacidad de proporcionar y acceder a información confiable es crucial no solo para manejar los aspectos prácticos de la crisis, sino también para mantener la cohesión social y la estabilidad emocional de la población.
 
 Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito
 ==========================================================================
@@ -781,558 +1025,3 @@ Hasta las 18:00 de este jueves, el nivel de agua de este reservorio llegó a 2 1
 Hay dos otros embalses de **regulación multianual**: **Pisayambo** y el multipropósito Daule-Peripa. El resto de hidroeléctricas es de pasada o tiene embalses pequeños de regulación diaria.
 
 Este 14 de noviembre de 2024, el **Ministerio de Energía** programó **cortes de luz** de hasta 12 horas diarias hasta el 17 de noviembre, debido a la sequía por la que atraviesa la región.
-
-Enner Valencia anotó su gol 43 con la Selección de Ecuador
-==========================================================
-
-Enner Valencia debutó en la Selección de Ecuador con Reinaldo Rueda como entrenador en 2012.
---------------------------------------------------------------------------------------------
-
-![Enner Valencia celebra uno de los 43 goles con la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/valencia_goles_1.jpg)
-
-Enner Valencia abrió el marcador en la victoria parcial de la Selección de Ecuador por 2-0 ante Bolivia en la **fecha 11 de las eliminatorias sudamericanas al Mundial 2026**, que se jugó este jueves 14 de noviembre en el estadio Monumental de Guayaquil
-
-Para Enner Valencia es el segundo gol en las actuales eliminatorias. El **anterior fue en la octava jornada contra Perú** en el estadio Rodrigo Paz Delgado, con lo que puso fin a siete años de sequía goleadora en la capital ecuatoriana. 
-
-### Más noticias:
-
-* [Deportivo Quito tiene rival confirmado en el Ascenso Nacional](https://www.elcomercio.com/deportes/futbol/deportivo-quito-rival-ascenso-ecuador.html "Deportivo Quito tiene rival confirmado en el Ascenso Nacional")
-* [Hallan muerto en Grecia al futbolista George Baldock](https://www.elcomercio.com/deportes/futbol/hallan-muerto-en-grecia-al-futbolista-george-baldock.html "Hallan muerto en Grecia al futbolista George Baldock")
-* [Luis Saritama confía en el legado que dejará la nueva generación de Ecuador](https://www.elcomercio.com/deportes/futbol/luis-saritama-confia-legado-que-dejara-la-nueva-generacion-de-ecuador.html "Luis Saritama confía en el legado que dejará la nueva generación de Ecuador")
-
-Con el tanto ante Perú, Valencia llegó a los 43 goles en 94 partidos, y se consolidó como el máximo goleador histórico de la Tri de todos los tiempos y cada vez se aleja de sus perseguidores. 
-
-En este ítem el esmeraldeño está secundando por Agustín Delgado (31), Eduardo Hurtado (26), Christian Benítez (24), **Álex Darío Aguinaga (23), Felipe Caicedo (22), Edison Méndez (18)**, Ney Raúl Avilés (16), Ariel Graziani (15) y Jaime Iván Kaviedes (15). 
-
-Ninguno de los nueve perseguidores de ‘Superman’ están activos, por lo que su liderado como máximo goleador histórico no está en peligro.  
-
-De los actuales seleccionados, **Gonzalo Plata (Flamengo) es el que más goles tiene con siete**. Le siguen Félix Torres (Corinthians) con cinco, y Pervis Estupiñán (Brighton & Hove Albión) con cuatro. 
-
-> 🗣️ ¡ENNER LO VOLVIÓ A HACER EN EL MONUMENTAL!  
->   
-> 📌 Desde los 12 pasos Enner abre el marcador  
->   
-> ⚽️ [#Ecuador](https://twitter.com/hashtag/Ecuador?src=hash&ref_src=twsrc%5Etfw) 🇪🇨 1🆚 0 [#Bolivia](https://twitter.com/hashtag/Bolivia?src=hash&ref_src=twsrc%5Etfw) 🇧🇴[#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/kyPRhhWYmS](https://t.co/kyPRhhWYmS) [pic.twitter.com/KbeoH3s2BQ](https://t.co/KbeoH3s2BQ)
-> 
-> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 15, 2024](https://twitter.com/ElCanalDFutbol/status/1857219247048442221?ref_src=twsrc%5Etfw)
-
-Guatemala, 1
-
-Enner Valencia tiene a Bolivia como ‘cliente’
----------------------------------------------
-
-A Bolivia es la Selección a la que más goles le anotó **Enner Valencia a lo largo de su carrera con la Tri**.
-
-Son nueve los goles recibidos por la ‘Verde’, tanto en eliminatorias mundialistas, Copa América y en amistosos.
-
-El primer tanto se remonta al **6 de septiembre de 2014 en un amistoso que se jugó** en el Lockhart Stadium, actual casa del Inter Miami.
-
-Christian Noboa (Emelec), Juan Cazares (Santos de Brasil) y Junior Sornoza (Independiente Del Valle) completaron el marcador.
-
-En la Copa América Chile 2015 marcó en la derrota 2-3. Como es costumbre, E**cuador regresó a casa al ser eliminado en la fase de grupos**.
-
-Tanto para las eliminatorias a Rusia 2018, Catar 2022 y Canadá, Estados Unidos y México, **Valencia también le anotó a los bolivianos.**
-
-Enner Valencia y sus goles mundialistas
----------------------------------------
-
-Con la Selección de Ecuador se convirtió en el futbolista del con más tantos en la competición (seis).
-
-En 2014 vulnera el arco de **Suiza (1) y Honduras (2)**. En 2022 de Catar (2) y Países Bajos (1).
-
-Agustín Delgado (3), Carlos Tenorio (2)**, Jaime Iván Kaviedes (1), Édison Méndez (1)**,  y Moisés Caicedo (1), son los otros ecuatorianos que han anotado en los mundiales.
-
-San viernes
------------
-
-Latin Grammy 2024: esta es la lista completa de los ganadores
-=============================================================
-
-Conoce a los ganadores de los Latin Grammy 2024.
-------------------------------------------------
-
-![Karol G se impuso en la categoría Mejor álbum de música urbana. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-14T230729.365.jpg)
-
-**Edgar Barrera y Nathy Peluso se destacaron en la ceremonia preliminar de los** [**Latin Grammy 2024**](https://www.latingrammy.com/ "https://www.latingrammy.com/") celebrada este 14 de noviembre de 2024.
-
-### **Más noticias:**
-
-* [Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-carlos-vives-persona-ano-2024.html "https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-carlos-vives-persona-ano-2024.html")
-* [Premios Latin Grammy 2024: cuándo y dónde ver la edición 25 desde Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html "https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html")
-* [+57 de Karol G, Maluma, Feid… podría salir de las plataformas digitales](https://www.elcomercio.com/tendencias/entretenimiento/polemica-cancion-maluma-57-controversia-feid.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/polemica-cancion-maluma-57-controversia-feid.html?source=Internal&ref=Single+Content+Link")
-
-**Latin Grammy 2024: estos son los ganadores**
-----------------------------------------------
-
-La antesala de los **Latin Grammy 2024** dejó una huella memorable con las victorias de Edgar Barrera y Nathy Peluso, quienes se llevaron tres premios cada uno.
-
-La premiere, que entregó la mayoría de los galardones antes de la esperada gala televisada, reconoció a los artistas en diversas categorías.
-
-**Barrera** fue el primero en subir al escenario para recibir su primer galardón como **Compositor del Año**, un reconocimiento que también obtuvo en 2023.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCYLu0zIht8/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCYLu0zIht8/?utm_source=ig_embed&utm_campaign=loading)
-
-El mexicano, además, se coronó como **Productor del Año** y ganó el premio a **Mejor Canción Regional Mexicana** por su colaboración con Keytin en la composición de El amor de su vida de Grupo Frontera y Grupo Firme. “Gracias a la Academia por este reconocimiento”, expresó el compositor, dedicando el premio a su hija de cuatro semanas y a los grandes nombres que han marcado su carrera.
-
-Nathy Peluso se mostró visiblemente emocionada al recibir tres gramófonos dorados: **Mejor Video Largo** por ‘**Grasa’**, **Mejor Canción Alternativa** por El día que perdí mi juventud y **Mejor Canción de Rap/Hip Hop** por Aprender a amar.
-
-**Grabación del año**
----------------------
-
-* Mambo 23, Juan Luis Guerra y 4.40
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCYLGGyuZz_/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCYLGGyuZz_/?utm_source=ig_embed&utm_campaign=loading)
-
-**Álbum del año**
------------------
-
-* ‘Radio Güira’, Juan Luis Guerra 4.40
-
-**Canción del año**
--------------------
-
-* Derrumbe, Jorge Drexler, compositor (Jorge Drexler)
-
-**Mejor artista nuevo**
------------------------
-
-* Ela Taubert
-
-**Mejor álbum vocal pop**
--------------------------
-
-* ‘_El Viaje_‘, Luis Fonsi
-
-**Mejor álbum vocal pop tradicional**
--------------------------------------
-
-* ‘_García_‘, Kany García
-
-**Mejor canción pop**
----------------------
-
-* Feriado, Rawayana, compositores (Rawayana)
-
-**Mejor interpretación de música electrónica latina**
------------------------------------------------------
-
-* Bzrp Music Sessions, Vol. 53 (Tiësto Remix), Bizarrap, Shakira
-
-**Mejor fusión/interpretación urbana**
---------------------------------------
-
-* Tranky Funky, Trueno
-
-**Mejor interpretación reguetón**
----------------------------------
-
-* Perro Negro, Bad Bunny Featuring Feid
-
-**Mejor álbum de música urbana**
---------------------------------
-
-* ‘_Mañana Será Bonito’ (Bichota Season)_, Karol G
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCYH-oHOR6k/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCYH-oHOR6k/?utm_source=ig_embed&utm_campaign=loading)
-
-**Mejor canción de rap/hip hop**
---------------------------------
-
-* Aprender A Amar, Pablo Drexler, Alberto Escámez López & Nathy Peluso, compositores (Nathy Peluso)
-
-**Mejor canción urbana**
-------------------------
-
-* Bonita, Daddy Yankee, compositor (Daddy Yankee)
-
-**Mejor álbum de rock**
------------------------
-
-* ‘El Dorado’ (En Vivo), Aterciopelados
-
-**Mejor canción de rock**
--------------------------
-
-* No Me Preguntes (Live), Jesús Quintero & Draco Rosa, compositores (Draco Rosa)
-
-**Mejor álbum de pop/rock**
----------------------------
-
-* ‘_Reflejos De Lo Eterno’_, Draco Rosa
-
-**Mejor canción pop/rock**
---------------------------
-
-* 5 Horas Menos, Conociendo Rusia & Natalia Lafourcade, compositores (Conociendo Rusia Featuring Natalia Lafourcade)
-
-**Mejor álbum de música alternativa**
--------------------------------------
-
-* ‘Autopoiética’, Mon Laferte
-
-**Mejor canción alternativa**
------------------------------
-
-* El Día Que Perdí Mi Juventud, Devonté Hynes & Nathy Peluso, compositores (Nathy Peluso)
-
-**Mejor álbum de salsa**
-------------------------
-
-* ‘Siembra: 45° Aniversario (En Vivo en el Coliseo de Puerto Rico, 14 de Mayo 2022)’, Rubén Blades and Roberto Delgado & Orquesta
-
-**Mejor álbum de cumbia/vallenato**
------------------------------------
-
-* ‘Ta Malo’, Silvestre Dangond
-
-**Mejor álbum de merengue y/o bachata**
----------------------------------------
-
-* ‘Radio Güira’, Juan Luis Guerra 4.40
-
-**Mejor álbum tropical tradicional**
-------------------------------------
-
-* ‘Rodando Por El Mundo’, José Alberto ‘El Canario’
-
-**Mejor Álbum Tropical Contemporáneo**
---------------------------------------
-
-* Tropicalia, Fonseca
-
-**Mejor canción tropical**
---------------------------
-
-* Mambo 23, Juan Luis Guerra, compositor (Juan Luis Guerra 4.40)
-
-**Mejor álbum cantautor**
--------------------------
-
-* ‘Pausa’, Leonel García
-
-**Mejor canción cantautor**
----------------------------
-
-* Derrumbe, Jorge Drexler, compositor (Jorge Drexler) – GANADOR (EMPATE)
-* García, Kany García, compositora (Kany García) – GANADORA (EMPATE)
-
-**Mejor álbum de música ranchera/mariachi**
--------------------------------------------
-
-* ‘Te Llevo En La Sangre’, Alejandro Fernández
-
-**Mejor álbum de música banda**
--------------------------------
-
-* ‘Diamantes’, Chiquis
-
-**Mejor álbum de música tejana**
---------------------------------
-
-* ‘Imperfecto’, El Plan
-
-**Mejor álbum de música norteña**
----------------------------------
-
-* ‘El Comienzo’, Grupo Frontera – GANADOR
-
-**Mejor álbum de música mexicana contemporánea**
-------------------------------------------------
-
-* ‘_Boca Chueca, Vol. 1_‘, Carín León
-
-**Mejor canción regional mexicana**
------------------------------------
-
-* El Amor De Su Vida, Edgar Barrera & Kevyn Mauricio Cruz, compositores (Grupo Frontera, Grupo Firme)
-
-**Mejor álbum instrumental**
-----------------------------
-
-* ‘Tembla’, Hamilton De Holanda & C4 Trío
-
-**Mejor álbum folclórico**
---------------------------
-
-* ‘Raíz Nunca Me Fui’, Lila Downs, Niña Pastori, Soledad
-
-**Mejor álbum de tango**
-------------------------
-
-* ‘Apiazolado’, Diego Schissi Quinteto
-
-**Mejor álbum de música flamenca**
-----------------------------------
-
-* Historias De Un Flamenco, Antonio Rey
-
-**Mejor álbum de jazz latino/jazz**
------------------------------------
-
-* ‘Pra Você’, Ilza, Hermeto Pascoal & Grupo
-
-**Mejor álbum cristiano (en español)**
---------------------------------------
-
-* ‘Kintsugi’, Un Corazón
-
-**Mejor álbum cristiano (en portugués)**
-----------------------------------------
-
-* ‘Deixa Vir’ – Vol II (Ao Vivo), Thalles Roberto
-
-**Mejor álbum de pop contemporáneo en lengua portuguesa**
----------------------------------------------------------
-
-* ‘Os Garotin De São Gonçalo’, Os Garotin
-
-**Mejor álbum de rock o música alternativa en lengua portuguesa**
------------------------------------------------------------------
-
-* ‘Erasmo Esteves’, Erasmo Carlos
-
-**Mejor interpretación urbana en lengua portuguesa**
-----------------------------------------------------
-
-* Cachimbo da Paz 2, Gabriel O Pensador, Lulu Santos, Xamã
-
-**Mejor álbum de samba/pagode**
--------------------------------
-
-* Xande Canta Caetano, Xande De Pilares
-
-**Mejor álbum música popular brasileña/música afro portuguesa brasileña**
--------------------------------------------------------------------------
-
-* Se o Meu Peito Fosse o Mundo, Jota.Pê
-
-**Mejor álbum de música sertaneja**
------------------------------------
-
-* Boiadeira Internacional (Ao Vivo), Ana Castela
-
-**Mejor álbum de música de raíces en lengua portuguesa**
---------------------------------------------------------
-
-* Mariana e Mestrinho, Mariana Aydar, Mestrinho
-
-**Mejor canción en lengua portuguesa**
---------------------------------------
-
-* Ouro Marrom, Jota.Pê, compositor (Jota.Pê)
-
-**Mejor álbum de música latina para niños**
--------------------------------------------
-
-* ‘¡A Cantar!’, Danilo & Chapis
-
-**Mejor álbum de música clásica**
----------------------------------
-
-‘Fandango, Anne Akiko Meyers & Gustavo Castillo’; Gustavo Dudamel, director; Dmitry Lipay, productores (Los Angeles Philharmonic)
-
-**Mejor obra/composición clásica contemporánea**
-------------------------------------------------
-
-* Fandango, Arturo Márquez, compositor (Los Angeles Philharmonic, Gustavo Dudamel, Anne Akiko Meyers)
-
-**Mejor arreglo**
------------------
-
-* Night In Tunisia, Hilario Durán, arreglista (Hilario Durán And His Latin Jazz Big Band Featuring Paquito D’Rivera)
-
-**Mejor diseño de empaque**
----------------------------
-
-* En Vivo – 100 Años de Azúcar, Nelson Albareda, Sebastian Aristizabal, Kemelly Figueroa-Mouriz, Omer Pardillo-Cid & Albertico Rodríguez, directores de arte (Celia Cruz) – GANADORES (EMPATE)
-* Karma, Carlos Ortiz, director de arte (Diana Burco) – GANADOR (EMPATE)
-
-**Compositor del año**
-----------------------
-
-* Edgar Barrera
-
-**Mejor ingeniería de grabación para un álbum**
------------------------------------------------
-
-* Se o Meu Peito Fosse o Mundo, Thiago Baggio, Will Bone, Leonardo Emocija, Rodrigo Lemos & Felipe Vassão, ingenieros; João Milliet, mezclador; Felipe Tichauer, ingeniero de mastering (Jota.Pê)
-
-**Productor del año**
----------------------
-
-* Edgar Barrera
-
-**Mejor video musical versión corta**
--------------------------------------
-
-* 313, Residente Featuring Penélope Cruz & Silvia Pérez Cruz; Residente, director; Carolina Wolf, productora
-
-**Mejor video musical versión larga**
--------------------------------------
-
-* Grasa (Album Long Form), Nathy Peluso; Agustín Puente, director
-
-Diabetes es la cuarta causa de muerte en Ecuador ¿Cuáles son los desafíos en el tratamiento?
-============================================================================================
-
-La diabetes se puede detectar en el nivel de atención primaria y los tratamientos eficaces reducen el riesgo de complicaciones.
--------------------------------------------------------------------------------------------------------------------------------
-
-![La falta de tratamiento o el retraso en el mismo aumenta el riesgo de complicaciones y muerte por diabetes. Foto: Pixabay](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-48-1.jpg)
-
-La diabetes no insulinodependiente con problemas circulatorios es la segunda causa de morbilidad en hombres de entre 40 a 64 años. Esto se refleja en la estadística de egresos hospitalarios del sistema de salud público ecuatoriano de este 2024. En el grupo etario de 65 años en adelante, esta patología es el segundo motivo de atención en mujeres.
-
-Más noticias
-------------
-
-* [Día Mundial de la Diabetes, conciencia y prevención a nivel global](https://www.elcomercio.com/tendencias/salud/dia-mundial-diabetes-efemeride-salud.html "Día Mundial de la Diabetes, conciencia y prevención a nivel global ")
-* [El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios](https://www.elcomercio.com/tendencias/salud/ecuador-tambien-afronta-el-aumento-de-pacientes-con-sobrepeso-y-obesidad.html "El riesgo de sobrepeso y obesidad en la niñez aumenta 10% cada año. Tres testimonios")
-
-Hoy, 14 de noviembre, se celebra el **Día Mundial de la Diabetes**. En esta fecha se busca concienciar sobre esta enfermedad crónica que está en aumento no solo en el Ecuador.
-
-En la lista de emergencias, la diabetes se ubica en el sexto lugar con un mayor número de atenciones en mujeres. Hay que tomar en cuenta que hay dos tipos de diabetes. El uno depende de la insulina y el otro no. En ambos casos se pueden presentar complicaciones renales, oftálmicas, neurológicas, circulatorias, múltiples. También está asociada a la desnutrición y puede originarse con el embarazo.
-
-La diabetes se puede detectar en el nivel de atención primaria de salud y los tratamientos eficaces reducen el riesgo de estas complicaciones.
-
-Al analizar los datos de [consulta externa](https://app.powerbi.com/view?r=eyJrIjoiZDk3YTljYzQtNWUwNi00M2ZkLTllY2ItYjIzMGVmOWI4MDQzIiwidCI6ImQxMDMxZjJkLWI0MzAtNDMwOS04ZGFhLThhMDdmYzJiODE2ZCIsImMiOjR9 "https://app.powerbi.com/view?r=eyJrIjoiZDk3YTljYzQtNWUwNi00M2ZkLTllY2ItYjIzMGVmOWI4MDQzIiwidCI6ImQxMDMxZjJkLWI0MzAtNDMwOS04ZGFhLThhMDdmYzJiODE2ZCIsImMiOjR9"), a escala nacional la diabetes no insulinodependiente sin mención de complicaciones está en cuarta posición.
-
-Los principales factores de riesgo para la diabetes en Ecuador, según diversos estudios, incluyen:
-
-* Sobrepeso y obesidad
-* Sedentarismo
-* Antecedentes familiares
-* Edad
-* Hipertensión arterial
-* Dislipidemia
-* Resistencia a la insulina
-
-Por otra parte, la enfermedad es la cuarta causa de muerte en Ecuador. De acuerdo con los registros del INEC, 5 100 personas murieron por diabetes en 2022. Un año después fallecieron 4 460. Los grupos etarios más impactados son entre 30 y 64 años y de 65 años en adelante.
-
-En el 2023, para los hombres representa la quinta causa de mortalidad, mientras que para las mujeres sube al segundo lugar. De ahí su importancia en la prevención y en los controles permanentes.
-
-La diabetes en el mundo
------------------------
-
-Un reciente estudio de _[The Lancet](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02317-1/fulltext "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)02317-1/fulltext")_ revela una alarmante tendencia en el aumento de la diabetes a escala mundial. Se estima que en 2022 había cerca de 828 millones de adultos con diabetes, un incremento de 630 millones desde 1990. Este aumento es particularmente notable en países de ingresos bajos y medios, donde la prevalencia ha crecido significativamente.
-
-En América Latina y el Caribe, países como Jamaica, Trinidad y Tobago, y Costa Rica han mostrado las mayores tasas de incremento en la diabetes.
-
-Desafíos en el tratamiento de la diabetes
------------------------------------------
-
-A pesar del crecimiento en la prevalencia de la diabetes, la cobertura del tratamiento no ha seguido el mismo ritmo. En 2022, 445 millones de adultos de 30 años o más con diabetes en el mundo no recibieron tratamiento, lo que representa el 59% de esta población. Este número subió 3,5 veces desde 1990.
-
-Este fenómeno es crítico ya que la falta de tratamiento adecuado puede llevar a complicaciones graves como amputaciones, problemas renales y enfermedades cardiovasculares.
-
-La mayor mejora en la cobertura del tratamiento se produjo en países de Europa central y occidental. En América Latina destacan: México, Colombia, Chile y Costa Rica.
-
-En otros países, aunque se han implementado programas para mejorar el acceso a tratamientos, estos esfuerzos no son suficientes para contrarrestar el aumento de casos.
-
-A pesar de que existen medicamentos efectivos para el tratamiento, que son relativamente económicos, su acceso sigue siendo limitado en muchas áreas, lo que contribuye a la alta tasa de diabetes no tratada.
-
-El estudio indica que la expansión del seguro médico y los servicios de salud primaria deben incluir programas dirigidos a la detección temprana y tratamiento efectivo de la diabetes.
-
-Miryam Núñez apunta a los Juegos Olímpicos
-==========================================
-
-Miryam Núñez es uno de los mayores nombres del ciclismo femenino y apunta hacia los Juegos Olímpicos de Los Ángeles 2028.
--------------------------------------------------------------------------------------------------------------------------
-
-![Miryam Núñez, campeona nacional de ruta, que busca los Juegos Olímpicos.](https://www.elcomercio.com/wp-content/uploads/2024/11/1000164701.jpg)
-
-La cuarta etapa de la **Vuelta a Ecuador** contó con la presencia de una referente del ciclismo ecuatoriano. Miryam Núñez, vigente campeona nacional de ruta, se dio cita en el fin de la carrera y brindó sus expectativas a futuro.
-
-La nueva etapa del evento ciclístico se llevó a cabo en **Riobamba**, tierra natal de Núñez y donde ganó su último título. Esta se realizó en un trazado a circuito cerrado que contó con ocho etapas.
-
-### Más noticias:
-
-* [La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa4-ganador-general-riobamba.html "La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba")
-* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
-* [¿Cómo será la etapa 4 de la Vuelta al Ecuador 2024?](https://www.elcomercio.com/deportes/como-sera-etapa-4-vuelta-al-ecuador-2024.html "¿Cómo será la etapa 4 de la Vuelta al Ecuador 2024?")
-
-Una vez que finalizó la etapa, **Núñez** se hizo presente para la premiación de los líderes. Allí, la ciclista fue la encargada de realizar investiduras de jerseys tanto a quienes destacaron en la etapa como a quienes se mantuvieron en lo alto de las clasificaciones[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
-
-Finalizado el acto de protocolo en la **Vuelta a Ecuador**, Miryam Núñez conversó con EL COMERCIO y brindó detalles sobre su futuro. Allí, la atleta señaló que se encuentra a la expectativa de la Vuelta Femenina a Ecuador y que apunta a una preparación hacia los próximos Juegos Olímpicos de Los Ángeles 2028.
-
-Miryam Núñez espera confirmar su participación en la Vuelta al Ecuador
-----------------------------------------------------------------------
-
-Con la finalización de la Vuelta al Ecuador Masculina el domingo 17 de noviembre y el próximo arranque de la Vuelta Femenina, **Miryam Núñez** aún desconoce si estará presente. La atleta reveló que aún no se ha confirmado su presencia, sin embargo, mantiene los entrenamientos.
-
-“**Sigo entrenando, sigo haciendo actividad física, pero también dentro de eso está, un poquito, disfrutar fuera de la bici. Ya no como ciclista, sino como espectadora, que la verdad que es otra emoción.** Simplemente, si estoy en la Vuelta Femenina, compartir con todas las chicas guerreras. El ciclismo femenino también cada vez está creciendo más y eso es muy bonito”, manifestó.
-
-Antes de la Vuelta al Ecuador 2024, Núñez estuvo presente en el Mundial de Ciclismo como una de las representantes de la selección nacional junto a **Marcela Peñafiel y Natalia Vásquez**. Pese a ello, la ciclista apunta más alto y tiene un objetivo firme para el futuro.
-
-La ilusión de los Juegos Olímpicos 2028
----------------------------------------
-
-El Mundial de Ciclismo fue el primero dentro de la carrera de **Miryam Núñez**, quien a sus 30 años sueña en grande. La ciclista piensa que en aquel certamen realizó un buen papel y pudo aportar con su experiencia a la juventud de sus dos compañeras. Asimismo, estuvo presente en la competencia de relevos mixtos contrarreloj.
-
-“Quiero seguir sobre la bici dando triunfos a mi provincia, a mi país y seguir haciendo lo que me gusta. El objetivo y mi sueño es y siempre ha sido participar en unos Juegos Olímpicos y no me voy a cansar de repetirlo. **Voy a hacer lo imposible para lograr ese sueño y poder estar en Los Ángeles 2028**“, señaló.
-
-(Video) Ángel Mena llora en homenaje de la Selección de Ecuador
-===============================================================
-
-Ángel Mena pondrá fin a su carrera con la Selección de Ecuador en Guayaquil.
-----------------------------------------------------------------------------
-
-![Ángel Mena en su homenaje de despedida de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T184845.238.jpg)
-
-**Ángel Mena** recibió un homenaje por parte de la **Selección de Ecuador** este jueves 14 de noviembre de 2024, en la previa del partido contra Bolivia. Este podría ser el último partido del extremo tricolor con la camiseta de la ‘Tri’.
-
-Durante el homenaje, se **organizó un pasillo con todos los jugadores del equipo** vistiendo la camiseta número 15, la misma que Mena ha portado a lo largo de su trayectoria con la selección. Entre aplausos y muestras de alegría, ‘Angelito’ cruzó el pasillo, cerrando una destacada carrera como internacional.
-
-### Más noticias:
-
-* [Ángel Mena sin ‘rencor’ con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-jovenes-ecuador-retiro.html "Ángel Mena sin ‘rencor’ con la Selección de Ecuador")
-* [Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil](https://www.elcomercio.com/deportes/futbol/angel-mena-seleccion-ecuador-retiro.html "Ángel Mena se despedirá de la Selección de Ecuador en Guayaquil")
-* [La Selección de Bolivia pretende sorprender a Ecuador](https://www.elcomercio.com/deportes/futbol/bolivia-ecuador-zona-de-clasificacion-guayaquil.html "La Selección de Bolivia pretende sorprender a Ecuador")
-
-Las lágrimas de Ángel Mena en Ecuador
--------------------------------------
-
-Mientras cruzaba el pasillo, **Mena se emocionó al recibir otra sorpresa** por parte de la Selección de Ecuador y el Estadio Monumental de Guayaquil. En las pantallas del estadio, se proyectó un video con mensajes de su madre, amigos y compañeros de equipo.
-
-> El homenaje a Angelito Mena con su gente.  
->   
-> 𝐌𝐄𝐑𝐄𝐂𝐈𝐃𝐎 👏 [pic.twitter.com/7gmyn1GCPb](https://t.co/7gmyn1GCPb)
-> 
-> — La Tri 🇪🇨 (@LaTri) [November 14, 2024](https://twitter.com/LaTri/status/1857207043578319251?ref_src=twsrc%5Etfw)
-
-Al ver las imágenes y escuchar las palabras, **Mena no pudo contener sus emociones**. L**as lágrimas inundaron su rostro**, reflejando la alegría y la nostalgia de cerrar un capítulo especial en su vida, algo con lo que muchos sueñan.
-
-Para **finalizar el homenaje**, sus compañeros lo rodearon, lo abrazaron y, entre risas y muestras de cariño, lo lanzaron al aire como gesto de celebración y respeto.
-
-> 🥹🇪🇨 ¡ENTRE LÁGRIMAS MENA SE DESPIDE DE LA TRI!  
->   
-> 📌 La selección de Ecuador le hace un homenaje a Ángel Mena en lo que será su último partido con la piel tricolor[#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/kyPRhhWYmS](https://t.co/kyPRhhWYmS) [pic.twitter.com/AIgmrZUL7u](https://t.co/AIgmrZUL7u)
-> 
-> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 14, 2024](https://twitter.com/ElCanalDFutbol/status/1857204109595602953?ref_src=twsrc%5Etfw)
-
-La carrera de Ángel Mena con Ecuador
-------------------------------------
-
-**Ángel** **Mena** llega a su último compromiso con la camiseta de la Selección de Ecuador con 61 partidos y ocho goles.
-
-Según Transfermarkt, ha jugado 27 partidos de eliminatorias sudamericanas en los procesos hacia Rusia 2018, Catar 2022, y el actual para Canadá, Estados Unidos y México 2026; además de 24 encuentros amistosos y 10 en **Copa América**, entre Brasil 2019, 2021 y Estados Unidos 2024.
-
-Entre sus goles, destacan los que anotó contra Paraguay (1), México (1), Japón (1), Argentina (1), Bolivia (1), Colombia (1), Brasil (1) y Chile (1). También **registró siete asistencias** frente a Colombia (2), México (1), Uruguay (1), Nigeria (1), Guatemala (1) y Bolivia (1).
-
-Su **debut fue en marzo de 2015 en un amistoso contra México**, que terminó en derrota 1-0 en el Los Angeles Memorial Coliseum, ante más de 90,000 personas. El único tanto lo marcó Javier ‘Chicharito’ Hernández.
-
-Su última aparición con Ecuador fue en los cuartos de final de la Copa América 2024 en Estados Unidos, donde jugó 10 minutos y falló en la tanda de penales ante Emiliano Martínez, lo que selló la eliminación de Ecuador.
-
-La **cuenta pendiente de Mena fue jugar en una Copa del Mundo.** Aunque fue convocado por Gustavo Alfaro entre los 26 seleccionados para Catar 2022, no tuvo minutos en los encuentros contra Catar, Países Bajos y Senegal.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
