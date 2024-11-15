@@ -67,7 +67,7 @@ Main navigation
     
     * POPULAR
     * [Get Your Tax Record](https://www.irs.gov/individuals/get-transcript)
-    * [Apply for an Employer ID Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online)
+    * [Apply for an Employer ID Number (EIN)](https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number)
     * [Check Your Amended Return Status](https://www.irs.gov/filing/wheres-my-amended-return)
     * [Get an Identity Protection PIN (IP PIN)](https://www.irs.gov/identity-theft-fraud-scams/get-an-identity-protection-pin)
     * [File Your Taxes for Free](https://www.irs.gov/filing/irs-free-file-do-your-taxes-for-free)
