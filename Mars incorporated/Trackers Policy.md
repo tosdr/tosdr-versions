@@ -814,8 +814,6 @@ Follow Us
     
 * [CA Supply Chain Transparency Act](https://www.mars.com/about/policies-and-practices/ca-supply-chain-transparency-act)
     
-* [Global Human Rights Disclosure](https://www.mars.com/about/policies-and-practices/modern-slavery-act)
-    
 * [Mars Supplier Gateway(Opens a new window)](https://supplier.mars.com/)
     
 * [Your Privacy Choices(Opens a new window)](https://privacyportal-eu.onetrust.com/webform/5f2759ff-9efe-412c-a3be-f13092d2c945/98373dac-6247-48a6-a190-f0094af43ee8)
