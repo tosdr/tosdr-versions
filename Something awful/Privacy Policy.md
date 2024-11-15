@@ -205,26 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Animal Anomalies 4](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-4/1/)
-* [Dude, Where's Your Ride?](https://www.somethingawful.com/photoshop-phriday/wheres-my-ride/1/)
-* [Children's Letters to Dracula](https://www.somethingawful.com/news/children-letters-dracula/1/)
-* [Indiana Jones and the Crossovers of Doom](https://www.somethingawful.com/photoshop-phriday/indiana-jones-crossovers/1/)
-* [Batman Through the Ages](https://www.somethingawful.com/photoshop-phriday/batman-through-ages/1/)
+* [Indiaparenting](https://www.somethingawful.com/weekend-web/indiaparenting/1/)
+* [Lost Comics of the Golden Age](https://www.somethingawful.com/news/golden-age-comics/1/)
+* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
+* [Games & Toys Made Less Fun](https://www.somethingawful.com/photoshop-phriday/games-toys-fun/1/)
+* [Recalled Foods](https://www.somethingawful.com/photoshop-phriday/recalled-foods/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Thread for WOKE ANIME ONLY](http://forums.somethingawful.com/showthread.php?threadid=4075345 "Thread for WOKE ANIME ONLY")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Tips for handling politicals during the holidays](http://forums.somethingawful.com/showthread.php?threadid=4075400 "Tips for handling politicals during the holidays")
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
 * ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Tips for handling politicals during the holidays](http://forums.somethingawful.com/showthread.php?threadid=4075400 "Tips for handling politicals during the holidays")
 
 ### Random Articles
 
-* [Dave's Cartoon Lagoon!](https://www.somethingawful.com/awful-links/awful-link-1036/)
-* [One Letter Off (Part 2)](https://www.somethingawful.com/photoshop-phriday/one-letter-off2/1/)
-* [The Goal's In The Net!](https://www.somethingawful.com/flash-tub/net-goal-cartoon/)
-* [The Second-Hand Tourist Destination Travel Brochure](https://www.somethingawful.com/news/second-hand-tourist/1/)
-* [M-More Pigs!](https://www.somethingawful.com/news/mmore-pigs/)
+* [Proposition 43](https://www.somethingawful.com/news/proposition-43/1/)
+* [Avast, It Be Sunday!](https://www.somethingawful.com/news/avast-be-sunday/)
+* [Lair Flair!](https://www.somethingawful.com/news/monstergeddon-lair-flair/1/)
+* [Gewgaw and the Salami Swami](https://www.somethingawful.com/daily-dirt/gewgaw-salami-swami/)
+* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
