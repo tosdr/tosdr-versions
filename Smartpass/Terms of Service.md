@@ -160,13 +160,13 @@ Featured Success Stories
 
 Reduced Students Cutting Class by 60%](https://www.smartpass.app/customers/how-pinelands-reduced-students-cutting-class-by-60)
 
-[Berlin HS
-
-Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
-
 [Simmons MS
 
 Enhanced School Security & Student Accountability](https://www.smartpass.app/customers/ridgeland-school-district-122)
+
+[Berlin HS
+
+Reduced Student Behavior Referrals by 45%](https://www.smartpass.app/customers/reduce-student-behavior-referrals)
 
 ![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/66236bc2ac665c1d613c536f_G2%20logo.svg)
 
@@ -366,10 +366,6 @@ Discover Guides](https://www.smartpass.app/discover-guides)
 
 Live Chat](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950d5511407d44a3e74208_Group%20344.webp)
 
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde1324cf7a65eee055_Phone.svg)
-
-Call Us](#)
-
 [![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
 
 Product Updates](https://www.smartpass.app/product-updates)[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde3c43f45d2d29f046_Fantasy.svg)
@@ -401,10 +397,6 @@ Discover Guides](https://www.smartpass.app/discover-guides)
 [![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde82c7a6edf356d4bb_Chat.svg)
 
 Live Chat](#)![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64950d5511407d44a3e74208_Group%20344.webp)
-
-[![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/64952bde1324cf7a65eee055_Phone.svg)
-
-Call Us](#)
 
 [![](https://www.smartpass.app/cdn-cgi/image/format=avif,quality=90/https://cdn.prod.website-files.com/5c06a26695c70027e67b9afb/667dcd574d8782c251e500f8_Product%20Updates.svg)
 
