@@ -1,5 +1,20 @@
 [Skip to content](#main)[![geeksforgeeks](https://media.geeksforgeeks.org/gfg-gg-logo.svg)](https://www.geeksforgeeks.org/)
 
+* Courses
+    * [DSA to Development](https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Machine Learning & Data Science](https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Generative AI & ChatGPT](https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * [Become AWS Certified](https://www.geeksforgeeks.org/courses/search?query=AWS&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * DSA Courses
+        * [Data Structure & Algorithm(C++/JAVA)](https://www.geeksforgeeks.org/courses/dsa-self-paced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Data Structure & Algorithm(Python)](https://www.geeksforgeeks.org/courses/Data-Structures-With-Python?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Data Structure & Algorithm(JavaScript)](https://www.geeksforgeeks.org/courses/data-structures-and-algorithms-in-javascript?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+    * Programming Languages
+        * [CPP](https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Java](https://www.geeksforgeeks.org/courses/Java-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [Python](https://www.geeksforgeeks.org/courses/Python-Foundation?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [JavaScript](https://www.geeksforgeeks.org/courses/javascript?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
+        * [C](https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
 * Tutorials
     * Python Tutorial
         * [Taking Input in Python](https://www.geeksforgeeks.org/taking-input-in-python/?ref=outind)
@@ -373,21 +388,6 @@
         * [jQuery Cheat Sheet](https://www.geeksforgeeks.org/jquery-cheat-sheet-a-basic-guide-to-jquery/?ref=outind)
         * [Bootstrap Cheat Sheet](https://www.geeksforgeeks.org/bootstrap-cheatsheet-a-basic-guide-to-bootstrap/?ref=outind)
     * [Learn Complete Web Development](https://www.geeksforgeeks.org/web-development/?ref=outind)
-* Courses
-    * [DSA to Development](https://www.geeksforgeeks.org/courses/dsa-to-development-coding-guide?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-    * [Machine Learning & Data Science](https://www.geeksforgeeks.org/courses/data-science-live?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-    * [Generative AI & ChatGPT](https://www.geeksforgeeks.org/courses/mastering-generative-ai-and-chat-gpt?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-    * [Become AWS Certified](https://www.geeksforgeeks.org/courses/search?query=AWS&itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-    * DSA Courses
-        * [Data Structure & Algorithm(C++/JAVA)](https://www.geeksforgeeks.org/courses/dsa-self-paced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-        * [Data Structure & Algorithm(Python)](https://www.geeksforgeeks.org/courses/Data-Structures-With-Python?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-        * [Data Structure & Algorithm(JavaScript)](https://www.geeksforgeeks.org/courses/data-structures-and-algorithms-in-javascript?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-    * Programming Languages
-        * [CPP](https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-        * [Java](https://www.geeksforgeeks.org/courses/Java-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-        * [Python](https://www.geeksforgeeks.org/courses/Python-Foundation?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-        * [JavaScript](https://www.geeksforgeeks.org/courses/javascript?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
-        * [C](https://www.geeksforgeeks.org/courses/c-Programming-basic-to-advanced?itm_source=geeksforgeeks&itm_medium=main_header&itm_campaign=courses)
 
 * 
 
