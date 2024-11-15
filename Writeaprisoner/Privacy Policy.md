@@ -88,6 +88,8 @@ Main navigation
 MENU
 
 * Inmate Profiles
+    * [Search Inmate Profiles (MOST POPULAR)](https://writeaprisoner.com/search-inmates)
+        * [Advanced Search Inmate Profiles](https://writeaprisoner.com/inmate-search-advanced)
     * [Inmate Newest Listings](https://writeaprisoner.com/profiles-new)
     * [Inmates Recently Updated](https://writeaprisoner.com/profiles-recent)
     * [Inmate Alphabetical Listing of Profiles](https://writeaprisoner.com/inmate-alphabetical-profiles)
