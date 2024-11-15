@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Forbidden Forest set in the Warner Bros. studio has 19 trees, each with a diameter of around 12 feet.
+Harry Potter and the Deathly Hallows was released on July 21, 2007, and sold 11 million copies on the first day of its release, becoming the fastest selling book of all time.
 
 ### Potter History
 
-July 8, 1999 – Harry Potter and the Prisoner of Azkaban is published in the United Kingdom.
+November 27, 2005 – Tolga Safer, David Heyman, Miranda Richardson, Daniel Radcliffe, Jamie Waylett, Katie Leung, Tiana Benjamin, and Mike Newell are interviewed at the Harry Potter and the Goblet of Fire NYC red carpet.
 
 ### Potter Quote
 
-“If being good at Divination means I have to pretend to see death omens in a lump of tea leaves, I’m not sure I’ll be studying it much longer!”
+“You are a braver man by far than Igor Karkaroff. You know, I sometimes think we sort too soon. . . .”
 
 [](#)
 
