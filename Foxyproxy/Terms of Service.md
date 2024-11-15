@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I think foxy proxy offers a great service. I will definitely be setting up a subscription in the future and I have already recommended it to all my expat friends.
+I just wanna say thank you to make FoxyProxy, it's best way to manage proxies & it made my weak internet powerful & great.
 
-Darren Smalley
+Zandi
