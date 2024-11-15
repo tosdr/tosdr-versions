@@ -36,6 +36,9 @@
         
         New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
     
+    * [![Study ethical hacking in this comprehensive $40 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Study ethical hacking in this comprehensive $40 course bundle deal](https://www.bleepingcomputer.com/offer/deals/study-ethical-hacking-in-this-comprehensive-40-course-bundle-deal/)
     * [![Microsoft just killed the Windows 10 Beta Channel again](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft just killed the Windows 10 Beta Channel again](https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-again/)
@@ -45,9 +48,6 @@
     * [![CISA warns of more Palo Alto Networks bugs exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         CISA warns of more Palo Alto Networks bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
-    * [![New Glove infostealer malware bypasses Chrome’s cookie encryption](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        New Glove infostealer malware bypasses Chrome’s cookie encryption](https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
