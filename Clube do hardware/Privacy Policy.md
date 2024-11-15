@@ -134,15 +134,95 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![yan paiva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256085.thumb.png.d237ef2a6971958599345dd77ea820df.png)](https://www.clubedohardware.com.br/profile/1256085-yan-paiva/ "Ir ao perfil de yan paiva")
+    * [![RB Bittencourrt](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1064944.thumb.png.368a89eca60fc7cf115b71888ddcb6c6.png)](https://www.clubedohardware.com.br/profile/1064944-rb-bittencourrt/ "Ir ao perfil de RB Bittencourrt")
         
         0
         
+        [2 monitores reinicia o computador](https://www.clubedohardware.com.br/forums/topic/1702425-2-monitores-reinicia-o-computador/?do=getNewComment "2 monitores reinicia o computador")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [RB Bittencourrt](https://www.clubedohardware.com.br/profile/1064944-rb-bittencourrt/ "Ir ao perfil de RB Bittencourrt")  
+        36 minutos atrás
+        
+    * [![br4nd40](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a962c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1250500-br4nd40/ "Ir ao perfil de br4nd40")
+        
+        0
+        
+        MySQL [criei um modelo E-R e queria saber se esta correto](https://www.clubedohardware.com.br/forums/topic/1702424-criei-um-modelo-e-r-e-queria-saber-se-esta-correto/?do=getNewComment "criei um modelo  E-R e queria saber se esta correto")
+        
+        [Web e banco de dados](https://www.clubedohardware.com.br/forums/forum/16-web-e-banco-de-dados/ "Web e banco de dados")  
+        Por [br4nd40](https://www.clubedohardware.com.br/profile/1250500-br4nd40/ "Ir ao perfil de br4nd40")  
+        1 hora atrás
+        
+    * [![joao22marcos](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256094.thumb.png.ed6dcfd99c3985c1840f2c1d01967df1.png)](https://www.clubedohardware.com.br/profile/1256094-joao22marcos/ "Ir ao perfil de joao22marcos")
+        
+        0
+        
+        [notebook ATIV Book NP270E4E-KD6BR da para trocar de processador:](https://www.clubedohardware.com.br/forums/topic/1702423-notebook-ativ-book-np270e4e-kd6br-da-para-trocar-de-processador/?do=getNewComment "notebook ATIV Book NP270E4E-KD6BR da para trocar de processador:")
+        
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [joao22marcos](https://www.clubedohardware.com.br/profile/1256094-joao22marcos/ "Ir ao perfil de joao22marcos")  
+        1 hora atrás
+        
+    * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
+        
+        1
+        
+        [Para que serve essa peça parafusada no gabinete e qual o nome dela?](https://www.clubedohardware.com.br/forums/topic/1702422-para-que-serve-essa-pe%C3%A7a-parafusada-no-gabinete-e-qual-o-nome-dela/?do=getNewComment "Para que serve essa peça parafusada no gabinete e qual o nome dela?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
+        2 horas atrás
+        
+    * [![sagaki](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1213601.thumb.jpeg.2a5eb46e0756f01100b187e1c2001546.jpeg)](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")
+        
+        0
+        
+        [Recomendação de mouse até R$200](https://www.clubedohardware.com.br/forums/topic/1702421-recomenda%C3%A7%C3%A3o-de-mouse-at%C3%A9-r200/?do=getNewComment "Recomendação de mouse até R$200")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [sagaki](https://www.clubedohardware.com.br/profile/1213601-sagaki/ "Ir ao perfil de sagaki")  
+        2 horas atrás
+        
+    * [![carllosrr](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256092.thumb.jpeg.2c5e482d2a37e643944d4af82620a447.jpeg)](https://www.clubedohardware.com.br/profile/1256092-carllosrr/ "Ir ao perfil de carllosrr")
+        
+        0
+        
+        [radeon 540x amd placa de Vídeo](https://www.clubedohardware.com.br/forums/topic/1702420-radeon-540x-amd-placa-de-v%C3%ADdeo/?do=getNewComment "radeon 540x amd placa de Vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [carllosrr](https://www.clubedohardware.com.br/profile/1256092-carllosrr/ "Ir ao perfil de carllosrr")  
+        2 horas atrás
+        
+    * [![luads](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/457379.thumb.jpg.66a7c0f129ba662d37af6d3eb7d4a935.jpg)](https://www.clubedohardware.com.br/profile/1209774-luads/ "Ir ao perfil de luads")
+        
+        1
+        
+        [A GTX 1650 da MSI funciona sem um conector de 6 pinos?](https://www.clubedohardware.com.br/forums/topic/1702419-a-gtx-1650-da-msi-funciona-sem-um-conector-de-6-pinos/?do=getNewComment "A GTX 1650 da MSI funciona sem um conector de 6 pinos?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [luads](https://www.clubedohardware.com.br/profile/1209774-luads/ "Ir ao perfil de luads")  
+        2 horas atrás
+        
+    * [![Artecobugadaço](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4aa%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1239210-artecobugada%C3%A7o/ "Ir ao perfil de Artecobugadaço")
+        
+        0
+        
+        [Utilizar Ryzen 5 5500 Em stock](https://www.clubedohardware.com.br/forums/topic/1702418-utilizar-ryzen-5-5500-em-stock/?do=getNewComment "Utilizar Ryzen 5 5500 Em stock")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Artecobugadaço](https://www.clubedohardware.com.br/profile/1239210-artecobugada%C3%A7o/ "Ir ao perfil de Artecobugadaço")  
+        3 horas atrás
+        
+    * [![yan paiva](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256085.thumb.png.d237ef2a6971958599345dd77ea820df.png)](https://www.clubedohardware.com.br/profile/1256085-yan-paiva/ "Ir ao perfil de yan paiva")
+        
+        2
+        
         [Fui restaurar o computador e agora ele não liga](https://www.clubedohardware.com.br/forums/topic/1702416-fui-restaurar-o-computador-e-agora-ele-n%C3%A3o-liga/?do=getNewComment "Fui restaurar o computador e agora ele não liga")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [yan paiva](https://www.clubedohardware.com.br/profile/1256085-yan-paiva/ "Ir ao perfil de yan paiva")  
-        13 minutos atrás
+        6 horas atrás
         
     * [![Samuca123](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4be%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/405244-samuca123/ "Ir ao perfil de Samuca123")
         
@@ -152,87 +232,7 @@ Política de privacidade
         
         [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
         Por [Samuca123](https://www.clubedohardware.com.br/profile/405244-samuca123/ "Ir ao perfil de Samuca123")  
-        1 hora atrás
-        
-    * [![ratodeskate144p](https://www.clubedohardware.com.br/uploads/members/monthly_2021_10/126501781_ndice.thumb.jpg.ee5f7461dbd4a400dda05518b954c4db.jpg)](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")
-        
-        1
-        
-        [Recomendação e diferença entre: estabilizador, filtro de linha, no break, etc.](https://www.clubedohardware.com.br/forums/topic/1702411-recomenda%C3%A7%C3%A3o-e-diferen%C3%A7a-entre-estabilizador-filtro-de-linha-no-break-etc/?do=getNewComment "Recomendação e diferença entre: estabilizador, filtro de linha, no break, etc.")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [ratodeskate144p](https://www.clubedohardware.com.br/profile/1113801-ratodeskate144p/ "Ir ao perfil de ratodeskate144p")  
-        2 horas atrás
-        
-    * [![rafaelcsferreira](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46270%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/564711-rafaelcsferreira/ "Ir ao perfil de rafaelcsferreira")
-        
-        0
-        
-        [24h pra decidir: Dell Inspiron I15-i120k-u30p ou ASUS Vivobook 16X K3605ZF?](https://www.clubedohardware.com.br/forums/topic/1702410-24h-pra-decidir-dell-inspiron-i15-i120k-u30p-ou-asus-vivobook-16x-k3605zf/?do=getNewComment "24h pra decidir: Dell Inspiron I15-i120k-u30p ou ASUS Vivobook 16X K3605ZF?")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [rafaelcsferreira](https://www.clubedohardware.com.br/profile/564711-rafaelcsferreira/ "Ir ao perfil de rafaelcsferreira")  
-        2 horas atrás
-        
-    * [![Davi28](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256078.thumb.jpeg.4e528621782a0de59ac27b6e04cefb9d.jpeg)](https://www.clubedohardware.com.br/profile/1256078-davi28/ "Ir ao perfil de Davi28")
-        
-        2
-        
-        [Qual a fonte recomendada para Ryzen 5 5500 e GeForce RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1702406-qual-a-fonte-recomendada-para-ryzen-5-5500-e-geforce-rtx-4060/?do=getNewComment "Qual a fonte recomendada para Ryzen 5 5500 e GeForce RTX 4060?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Davi28](https://www.clubedohardware.com.br/profile/1256078-davi28/ "Ir ao perfil de Davi28")  
-        3 horas atrás
-        
-    * [![KJ_NvmE](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256076.thumb.jpeg.93c0d3aec6c11971f55419c90a221cbb.jpeg)](https://www.clubedohardware.com.br/profile/1256076-kj_nvme/ "Ir ao perfil de KJ_NvmE")
-        
-        0
-        
-        [Guia de overclock para placas Nvidia da arquitetura Kepler 1.0 e 2.0](https://www.clubedohardware.com.br/forums/topic/1702405-guia-de-overclock-para-placas-nvidia-da-arquitetura-kepler-10-e-20/?do=getNewComment "Guia de overclock para placas Nvidia da arquitetura Kepler 1.0 e 2.0")
-        
-        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
-        Por [KJ\_NvmE](https://www.clubedohardware.com.br/profile/1256076-kj_nvme/ "Ir ao perfil de KJ_NvmE")  
-        4 horas atrás
-        
-    * [![Brian Muriel Werkhausen](https://www.clubedohardware.com.br/uploads/members/monthly_2021_06/imported-photo-1160465.thumb.jpeg.079939f974a53e4ec3778c7cf482d943.jpeg)](https://www.clubedohardware.com.br/profile/1160465-brian-muriel-werkhausen/ "Ir ao perfil de Brian Muriel Werkhausen")
-        
-        2
-        
-        [Pc muito lento e desligou com um estalo - Fonte 600W](https://www.clubedohardware.com.br/forums/topic/1702404-pc-muito-lento-e-desligou-com-um-estalo-fonte-600w/?do=getNewComment "Pc muito lento e desligou com um estalo - Fonte 600W")
-        
-        [Computador desligando sozinho](https://www.clubedohardware.com.br/forums/forum/258-computador-desligando-sozinho/ "Computador desligando sozinho")  
-        Por [Brian Muriel Werkhausen](https://www.clubedohardware.com.br/profile/1160465-brian-muriel-werkhausen/ "Ir ao perfil de Brian Muriel Werkhausen")  
-        4 horas atrás
-        
-    * [![RIZONCIOPT](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/Designsemnome.thumb.png.438fe9f231d87d4514c298325d191e7a.png)](https://www.clubedohardware.com.br/profile/1230140-rizonciopt/ "Ir ao perfil de RIZONCIOPT")
-        
-        2
-        
-        [Recomendação de gabinete aquário para RTX 4070 de 3 fan](https://www.clubedohardware.com.br/forums/topic/1702402-recomenda%C3%A7%C3%A3o-de-gabinete-aqu%C3%A1rio-para-rtx-4070-de-3-fan/?do=getNewComment "Recomendação de gabinete aquário para RTX 4070 de 3 fan")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [RIZONCIOPT](https://www.clubedohardware.com.br/profile/1230140-rizonciopt/ "Ir ao perfil de RIZONCIOPT")  
-        4 horas atrás
-        
-    * [![BrenoHen17](https://www.clubedohardware.com.br/uploads/members/monthly_2021_07/e1e3fa8c77eada085f012174cab4b032b64212aa.thumb.jpeg.b758d571d6635962a89ac8172191851a.jpeg)](https://www.clubedohardware.com.br/profile/1166435-brenohen17/ "Ir ao perfil de BrenoHen17")
-        
-        9
-        
-        [Downloads na Steam a apenas 27MB/s em internet com 500Mb](https://www.clubedohardware.com.br/forums/topic/1702401-downloads-na-steam-a-apenas-27mbs-em-internet-com-500mb/?do=getNewComment "Downloads na Steam a apenas 27MB/s em internet com 500Mb")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [BrenoHen17](https://www.clubedohardware.com.br/profile/1166435-brenohen17/ "Ir ao perfil de BrenoHen17")  
-        4 horas atrás
-        
-    * [![eight88](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1253482.thumb.jpeg.ec69518dc5fade88989daf48c18dbf03.jpeg)](https://www.clubedohardware.com.br/profile/1253482-eight88/ "Ir ao perfil de eight88")
-        
-        5
-        
-        [Computador não dá vídeo após queda de eletricidade](https://www.clubedohardware.com.br/forums/topic/1702398-computador-n%C3%A3o-d%C3%A1-v%C3%ADdeo-ap%C3%B3s-queda-de-eletricidade/?do=getNewComment "Computador não dá vídeo após queda de eletricidade")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [eight88](https://www.clubedohardware.com.br/profile/1253482-eight88/ "Ir ao perfil de eight88")  
-        5 horas atrás
+        7 horas atrás
         
     
 
