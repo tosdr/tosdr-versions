@@ -185,6 +185,18 @@ SEND
 
 #### Featured POSts
 
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mike-tyson-slap-jake-paul.webp)](https://www.sickchirpse.com/mike-tyson-slaps-jake-paul-at-the-weigh-ins-ahead-of-netflix-showdown-tonight/)
+
+### [Mike Tyson Slaps Jake Paul At The Weigh-Ins Ahead Of Netflix Showdown Tonight](https://www.sickchirpse.com/mike-tyson-slaps-jake-paul-at-the-weigh-ins-ahead-of-netflix-showdown-tonight/)
+
+[Read More »](https://www.sickchirpse.com/mike-tyson-slaps-jake-paul-at-the-weigh-ins-ahead-of-netflix-showdown-tonight/)
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/sophie-turner-tomb-raider-lara-croft.jpg)](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+
+### [Sophie Turner Set To Star As Lara Craft In The Upcoming Tomb Raider Series](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+
+[Read More »](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/ufc-carlos-prates.jpg)](https://www.sickchirpse.com/undefeated-ufc-ko-artist-carlos-prates-smokes-8-10-cigarettes-a-day-even-right-before-he-fights/)
 
 ### [Undefeated UFC KO Artist Carlos Prates Smokes 8 – 10 Cigarettes A Day, Even Right Before He Fights](https://www.sickchirpse.com/undefeated-ufc-ko-artist-carlos-prates-smokes-8-10-cigarettes-a-day-even-right-before-he-fights/)
@@ -203,19 +215,13 @@ SEND
 
 [Read More »](https://www.sickchirpse.com/mike-tyson-encounters-a-man-he-robbed-as-a-teenager-in-viral-video/)
 
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/martha-stewart-drew-barrymore.webp)](https://www.sickchirpse.com/martha-stewart-pushes-drew-barrymore-away-during-touchy-interview/)
-
-### [Martha Stewart Pushes Drew Barrymore Away During Touchy Interview](https://www.sickchirpse.com/martha-stewart-pushes-drew-barrymore-away-during-touchy-interview/)
-
-[Read More »](https://www.sickchirpse.com/martha-stewart-pushes-drew-barrymore-away-during-touchy-interview/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/lily-phillips-film-star-scottish.jpg)](https://www.sickchirpse.com/adult-film-star-lily-phillips-goes-viral-for-flying-out-scottish-lad-his-girlfriend-after-he-won-a-competition-to-bonk-me/)
-
-### [Adult Film Star Lily Phillips Goes Viral For Flying Out Scottish Lad & His Girlfriend After He “Won A Competition To Bonk Me”](https://www.sickchirpse.com/adult-film-star-lily-phillips-goes-viral-for-flying-out-scottish-lad-his-girlfriend-after-he-won-a-competition-to-bonk-me/)
-
-[Read More »](https://www.sickchirpse.com/adult-film-star-lily-phillips-goes-viral-for-flying-out-scottish-lad-his-girlfriend-after-he-won-a-competition-to-bonk-me/)
-
 #### trending post
+
+[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/sophie-turner-tomb-raider-lara-croft.jpg)](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+
+### [Sophie Turner Set To Star As Lara Craft In The Upcoming Tomb Raider Series](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
+
+[Read More »](https://www.sickchirpse.com/sophie-turner-set-to-star-as-lara-craft-in-the-upcoming-tomb-raider-series/)
 
 [![](https://www.sickchirpse.com/wp-content/uploads/2024/11/ufc-carlos-prates.jpg)](https://www.sickchirpse.com/undefeated-ufc-ko-artist-carlos-prates-smokes-8-10-cigarettes-a-day-even-right-before-he-fights/)
 
@@ -240,12 +246,6 @@ SEND
 ### [Dave’s Hot Chicken Give Away Hundreds Of Free Sliders For UK Launch](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
 
 [Read More »](https://www.sickchirpse.com/daves-hot-chicken-hundreds-free-sliders-uk-launch/)
-
-[![](https://www.sickchirpse.com/wp-content/uploads/2024/11/mattel-wicked-doll-site-packaging.webp)](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
-
-### [Mattel’s ‘Wicked’ Movie Dolls Accidentally List Porn Site On Packaging](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
-
-[Read More »](https://www.sickchirpse.com/mattels-wicked-movie-dolls-accidentally-list-porn-site-on-packaging/)
 
 Copyright 2023 © All rights Reserved.
 
