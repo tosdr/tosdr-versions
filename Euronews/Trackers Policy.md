@@ -19,12 +19,32 @@
     * [Spain](https://www.euronews.com/tag/spain)
     * [Climate crisis](https://www.euronews.com/tag/climate-crisis)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [Protests](https://www.euronews.com/tag/protestas)
     * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+    * [Floods](https://www.euronews.com/tag/flood)
     
     * * *
     
     Latest stories
+    
+    [![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")
+    
+    ![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](https://static.euronews.com/articles/stories/08/85/42/24/368x207_cmsv2_0f020c8f-57f2-5a21-bcc9-689d25f8bfd0-8854224.jpg "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Dutch state secretary to quit over racist remarks after riots](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+    
+    [![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")
+    
+    ![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](https://static.euronews.com/articles/stories/08/85/41/92/368x207_cmsv2_92762386-5fad-5126-ba28-b3a39a7b128c-8854192.jpg "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
+    
+    Now playing Next
+    
+    [Culture news](https://www.euronews.com/culture/culture-news)
+    
+    ### [Linkin Park – ‘From Zero’: Trumphant comeback or rebooted fumble?](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
     
     [![A design showing a technology infrastructure concept.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A design showing a technology infrastructure concept.")
     
@@ -45,26 +65,6 @@
     [World News](https://www.euronews.com/programs/world)
     
     ### [Heavy Israeli airstrikes hit southern suburbs of Beirut](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
-    
-    [![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")
-    
-    ![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](https://static.euronews.com/articles/stories/08/85/39/38/368x207_cmsv2_f34371ca-02e5-53da-a84a-31aac5164967-8853938.jpg "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
-    
-    Now playing Next
-    
-    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-    
-    ### [Man suspected of supplying small boats to people smugglers arrested](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
-    
-    [![Aerial view of Dublin, Ireland, at night.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Aerial view of Dublin, Ireland, at night.")
-    
-    ![Aerial view of Dublin, Ireland, at night.](https://static.euronews.com/articles/stories/08/85/38/64/368x207_cmsv2_d01b7dfe-6c48-5d62-a33a-532812f4c34f-8853864.jpg "Aerial view of Dublin, Ireland, at night.")](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
-    
-    Now playing Next
-    
-    [Economy](https://www.euronews.com/business/economy)
-    
-    ### [Irish economy likely to lag in 2024 as multinational sector declines](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -367,12 +367,36 @@ Trending
 * [Spain](https://www.euronews.com/tag/spain)
 * [Climate crisis](https://www.euronews.com/tag/climate-crisis)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [Protests](https://www.euronews.com/tag/protestas)
 * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
+* [Floods](https://www.euronews.com/tag/flood)
 
 * * *
 
 Latest stories
+
+[![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")
+
+![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](https://static.euronews.com/articles/stories/08/85/42/24/368x207_cmsv2_0f020c8f-57f2-5a21-bcc9-689d25f8bfd0-8854224.jpg "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+
+Now playing Next
+
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+
+### [Dutch state secretary to quit over racist remarks after riots](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+
+* * *
+
+[![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")
+
+![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](https://static.euronews.com/articles/stories/08/85/41/92/368x207_cmsv2_92762386-5fad-5126-ba28-b3a39a7b128c-8854192.jpg "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
+
+Now playing Next
+
+[Culture news](https://www.euronews.com/culture/culture-news)
+
+### [Linkin Park – ‘From Zero’: Trumphant comeback or rebooted fumble?](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
+
+* * *
 
 [![A design showing a technology infrastructure concept.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A design showing a technology infrastructure concept.")
 
@@ -395,30 +419,6 @@ Now playing Next
 [World News](https://www.euronews.com/programs/world)
 
 ### [Heavy Israeli airstrikes hit southern suburbs of Beirut](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
-
-* * *
-
-[![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")
-
-![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](https://static.euronews.com/articles/stories/08/85/39/38/368x207_cmsv2_f34371ca-02e5-53da-a84a-31aac5164967-8853938.jpg "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
-
-Now playing Next
-
-[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
-
-### [Man suspected of supplying small boats to people smugglers arrested](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
-
-* * *
-
-[![Aerial view of Dublin, Ireland, at night.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Aerial view of Dublin, Ireland, at night.")
-
-![Aerial view of Dublin, Ireland, at night.](https://static.euronews.com/articles/stories/08/85/38/64/368x207_cmsv2_d01b7dfe-6c48-5d62-a33a-532812f4c34f-8853864.jpg "Aerial view of Dublin, Ireland, at night.")](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
-
-Now playing Next
-
-[Economy](https://www.euronews.com/business/economy)
-
-### [Irish economy likely to lag in 2024 as multinational sector declines](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
 
 [Europe](https://www.euronews.com/my-europe)
 
