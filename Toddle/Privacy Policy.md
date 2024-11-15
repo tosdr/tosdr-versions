@@ -314,7 +314,7 @@ Explore Toddle for your school
 Our Privacy Policy
 ==================
 
-Last Updated: November 14, 2024
+Last Updated: November 15, 2024
 
 It is our mission to help teachers deliver meaningful learning experiences. To achieve this, we build easy to use tools that help make things simple for teachers and empower them to focus on the important things. It is hence critical that we create a safe and secure environment where teachers, children, and parents freely share content and ideas. Creating such a safe and secure environment is central to the success of our endeavours.
 
@@ -329,7 +329,7 @@ It is our mission to help teachers deliver meaningful learning experiences. To a
 Introduction 
 -------------
 
-This Privacy Policy governs the use of data collected by our websites [staging-www.toddleapp.com](https://toddleapp.com/), [web.toddleapp.com](https://web.toddleapp.com/), [web.toddleapp.cn](https://web.toddleapp.cn/), and our apps – Toddle Family, Toddle Educator and Toddle Student (hereafter, collectively referred to as “the Service”, “Toddle”, or, “the Toddle Service”).
+This Privacy Policy governs the use of data collected by our websites [toddleapp.com](https://toddleapp.com/), [web.toddleapp.com](https://web.toddleapp.com/), [web.toddleapp.cn](https://web.toddleapp.cn/), and our apps – Toddle Family, Toddle Educator and Toddle Student (hereafter, collectively referred to as “the Service”, “Toddle”, or, “the Toddle Service”).
 
 By using Toddle, you are agreeing to this Privacy Policy. If you do not agree, please refrain from using Toddle. You can contact us anytime with queries about this Privacy Policy at [privacy@toddleapp.com](mailto:privacy@toddleapp.com).
 
@@ -549,7 +549,7 @@ If you have any questions, concerns, or requests regarding this policy or Toddle
 
 ### Use of Cookies and Advertising
 
-We use Cookies and other similar services (such as Local Storage) to keep you logged in to Toddle, customize your Toddle experience, understand how you use Toddle, and promote Toddle to relevant teachers and schools. On the Toddle Website ([staging-www.toddleapp.com](https://toddleapp.com/)), we also use the Facebook pixel to understand how visitors, including those who may be directed from our apps, use our website. Information collected through the Facebook pixel may be shared with Facebook. We do not use these technologies on our website ([web.toddleapp.com](https://web.toddleapp.com/)) and our apps for advertising or marketing purposes, and we do not knowingly collect personal information from children under 13 without verifiable parental consent.
+We use Cookies and other similar services (such as Local Storage) to keep you logged in to Toddle, customize your Toddle experience, understand how you use Toddle, and promote Toddle to relevant teachers and schools. On the Toddle Website ([toddleapp.com](https://toddleapp.com/)), we also use the Facebook pixel to understand how visitors, including those who may be directed from our apps, use our website. Information collected through the Facebook pixel may be shared with Facebook. We do not use these technologies on our website ([web.toddleapp.com](https://web.toddleapp.com/)) and our apps for advertising or marketing purposes, and we do not knowingly collect personal information from children under 13 without verifiable parental consent.
 
 You can remove or disable cookies via your browser settings, in which case your experience with Toddle will not be optimal.
 
