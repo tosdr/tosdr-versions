@@ -29,17 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+[![HorusApl](plugins/MineCraft/icons/25x25xHorusApl_1720169128.png.pagespeed.ic.dbPZXbDd8P.png)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+ExeosCraft (1.21) | Economy SMP | McMMO | No Resets](https://minecraft-server.net/details/HorusApl/ "ExeosCraft (1.21) | Economy SMP | McMMO | No Resets")[![Opinium](plugins/MineCraft/icons/25x25xOpinium_1729658202.png.pagespeed.ic.uLOW_8Oyyj.jpg)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![The_Wildlands](plugins/MineCraft/icons/25x25xThe_Wildlands_1726393087.png.pagespeed.ic.PqPvUXZw6A.png)
+BeanSMP](https://minecraft-server.net/details/Opinium/ "BeanSMP")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
 
-The Wildlands](https://minecraft-server.net/details/The_Wildlands/ "The Wildlands")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![Mrhelpless](plugins/MineCraft/icons/25x25xMrhelpless_1660079077.png.pagespeed.ic.Nu5TWpbpzJ.png)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![Macedon](plugins/MineCraft/icons/25x25xMacedon_1718371823.png.pagespeed.ic.gTC2ZWMNEb.jpg)
+MC.MrHelpless.XYZ](https://minecraft-server.net/details/Mrhelpless/ "MC.MrHelpless.XYZ")[![A2rath](plugins/MineCraft/icons/25x25xA2rath_1731694115.png.pagespeed.ic.GN-yKvGqoG.png)
 
-GreeceEarthMC](https://minecraft-server.net/details/Macedon/ "GreeceEarthMC")
+Fermium MC - SURVIVAL (Custom Ores)](https://minecraft-server.net/details/A2rath/ "Fermium MC - SURVIVAL (Custom Ores)")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -142,4 +142,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06092 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06307 - Created by [Debaucus](https://debauc.us/)
