@@ -8,7 +8,7 @@
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
-[Black Friday - 35% Off Sitewide!](https://www.poopourri.com/collections/black-friday-cyber-monday-sale)
+[Free Shipping On All Orders Over $35\*](https://www.poopourri.com/collections/black-friday-cyber-monday-sale)
 
 [![~Pourri](//pourri.com/cdn/shop/t/805/assets/pourri--logo-150.gif?v=92675186479064556311730915063)](https://www.poopourri.com/)
 
@@ -57,6 +57,10 @@ shop
 * [Build Your Own Bundle](https://www.poopourri.com/pages/build-your-own-bundle)
 * [Sale](https://www.poopourri.com/collections/sale)
 * Search  
+    
+* ![customer account icon](//pourri.com/cdn/shop/t/805/assets/icon--nav-account-v2.svg?v=125546052516818336491730914955)
+    
+    **Sign in** to earn rewards
     
 *  ![shopping bag icon](//pourri.com/cdn/shop/t/805/assets/icon--cart.svg?v=43504665361036498501730914951) **0**
 
@@ -153,7 +157,32 @@ Trending ![](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_right-arrow.sv
 
 [![Poo~Pourri on Instagram](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_instagram.svg?v=1583937528)](https://www.instagram.com/poopourri "View Poo~Pourri on Instagram") [![Poo~Pourri on TikTok](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_tiktok.svg?v=1633035528)](https://www.tiktok.com/@pourri "View Poo~Pourri on TikTok") [![Poo~Pourri on Facebook](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_facebook.svg?v=1583937528)](https://www.facebook.com/PooPourri/ "View Poo~Pourri on Facebook") [![Poo~Pourri on YouTube](https://cdn.shopify.com/s/files/1/1020/1629/files/nv_youtube.svg?v=1583937528)](https://www.youtube.com/channel/UCWks4qtrESbtEvrTy0Qt9mQ "View Poo~Pourri on YouTube")
 
-  
+My Account
+==========
+
+  Forgot Password? [Manage Subscriptions Without Password](https://www.poopourri.com/apps/retextion)
+
+Don't have an account? Create Account
+
+Lost Password
+=============
+
+Lost your password? Please enter your username or email address. You will receive a link to create a new password via email.
+
+ 
+
+Recover Password Go Back
+
+Register
+========
+
+Loading...
+
+![customer account icon](//pourri.com/cdn/shop/t/805/assets/icon--nav-account-v2.svg?v=125546052516818336491730914955)
+
+**Sign in to earn rewards** Don’t have an account? Create an account
+
+Sign In
 
 Terms and Conditions
 ====================
