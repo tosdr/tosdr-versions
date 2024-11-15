@@ -458,13 +458,13 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-2.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 2. \-30%
+2.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 2. \-33%
     
     DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
     
     **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
     
-    Special Price $29.89 RRP $42.89
+    Special Price $28.59 RRP $42.89
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -480,9 +480,7 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-4.    [![DRAGON QUEST III HD-2D Remake PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/r/dragon_quest_iii_hd-2d_remake.png)   No 4. \-21%
-    
-    Pre-order](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam)
+4.    [![DRAGON QUEST III HD-2D Remake PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/r/dragon_quest_iii_hd-2d_remake.png)   No 4. \-21%](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam)
     
     **[DRAGON QUEST III HD-2D Remake PC](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam "DRAGON QUEST III HD-2D Remake PC")**
     
