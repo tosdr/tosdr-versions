@@ -6,7 +6,7 @@ You are not protected
 
 [![Red Shield VPN](/_nuxt/logo.6cef71f7.png)![Red Shield VPN](/_nuxt/logo_short.c94cb288.png)](https://redshieldvpn.com/en)
 
-🇬🇧 En
+En
 
 [🇩🇪 Deutsch](javascript:;)[🇪🇸 Espanol](javascript:;)[🇷🇺 Русский](javascript:;)[🇬🇧 English](javascript:;)
 
