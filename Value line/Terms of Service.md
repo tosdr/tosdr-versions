@@ -129,16 +129,16 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 
  (f) a statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly breached.
 
-For copyright inquiries under the Digital Millennium Copyright Act, please contact: 
+For copyright inquiries under the Digital Millennium Copyright Act, please contact:
 
- Phone: 1-800-825-8354  
-Website: [www.valueline.com](https://www.valueline.com/ "www.valueline.com") or [www.valuelinepro.com](http://www.valuelinepro.com/ "www.valuelinepro.com")  
- Email: privacy@valueline.com
+Phone: 1-800-825-8354  
+Website: [www.valueline.com](https://www.valueline.com/ "www.valueline.com") or [www.valuelinepro.com](http://www.valuelinepro.com/ "www.valuelinepro.com")  
+Email: [legal@valueline.com](mailto:legal@valueline.com)
 
 Value Line  
-Att: Data Protection Officer  
+Att: Anna Fiorentino, Legal Department  
 551 Fifth Avenue, 3rd Floor  
-New York, New York 10176 
+New York, New York 10176
 
 Upon receipt of a copyright inquiry under the Digital Millennium Copyright Act, Value Line will remove, or disable access to, the material claimed to be infringing.
 
@@ -296,11 +296,11 @@ Value Line’s failure to insist upon or enforce strict performance of any provi
 Value Line will be pleased to assist you with any queries, explanations, or questions concerning these Terms. You can reach us at: 
 
 Phone: 1-800-825-8354  
-Website: [www.valueline.com](https://www.valueline.com/ "www.valueline.com"), [www.valuelinepro.com](http://www.valuelinepro.com/ "www.valuelinepro.com"), [www.valuelinelibrary.com](http://www.valuelinelibrary.com/ "www.valuelinelibrary.com")  
-Email: privacy@valueline.com 
+Website: [www.valueline.com](https://www.valueline.com/ "www.valueline.com"), [www.valuelinepro.com](http://www.valuelinepro.com/ "www.valuelinepro.com"), [www.valuelinelibrary.com](http://www.valuelinelibrary.com/ "www.valuelinelibrary.com")  
+Email: [legal@valueline.com](mailto:legal@valueline.com)
 
 Value Line  
-Att: Data Protection Officer  
+Att: Anna Fiorentino, Legal Department  
 551 Fifth Avenue, 3rd Floor  
 New York, New York 10176
 
