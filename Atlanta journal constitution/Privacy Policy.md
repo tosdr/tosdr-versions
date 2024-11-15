@@ -1,5 +1,3 @@
-[Breaking: Justice Department finds “abhorrent, unconstitutional” conditions at Fulton jail](https://www.ajc.com/politics/justice-department-finds-abhorrent-unconstitutional-conditions-at-fulton-jail/2GVOH6KGGBDFZLRBVV33NGO4PE/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1813)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1813)](https://www.ajc.com/)
 
 Log In
