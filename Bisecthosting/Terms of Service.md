@@ -156,12 +156,11 @@ What 'Premium Server BisectBoost' does NOT include:
 What 'Budget Server BisectBoost' does include:
 ----------------------------------------------
 
-1. Unlimited modpack installs + updates
-2. Individual mod uploads
-3. Plugin installation
-4. Map uploads
-5. Making small setting and configuration changes for you
-6. DNS Management for domains purchased with us
+1. Individual mod uploads
+2. Plugin installation
+3. Map uploads
+4. Making small setting and configuration changes for you
+5. DNS Management for domains purchased with us
 
 What 'Budget Server BisectBoost' does NOT include:
 --------------------------------------------------
