@@ -9,7 +9,7 @@ Overall [Current](https://www.defconlevel.com/current-level.php "Current Defcon 
 * [Home](https://www.defconlevel.com/ "Home")
 * [Current](https://www.defconlevel.com/current-level.php "Current level")
 * [Alerts](https://www.defconlevel.com/news-alerts.php "Defcon Level Alerts")
-* [News](https://www.ssj.news/ "Read news on our sister site The Standeford Journal")
+* [News/Intel](https://www.ssj.news/ "Read news on our sister site The Standeford Journal")
 * [Raised](https://www.defconlevel.com/current-alerts.php#raised-levels "Currently Raised alerts")
 * [Levels](https://www.defconlevel.com/defcon-levels.php "Defcon levels")
 * [About](https://www.defconlevel.com/about.php "About Defcon Level")
