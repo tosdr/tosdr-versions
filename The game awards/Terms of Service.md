@@ -6,7 +6,7 @@
 * [FAQ](https://thegameawards.com/faq)
 * [Watch](https://thegameawards.com/watch)
 
-• nominees coming mid November •
+• nominees coming on Nov 18 •
 
 Sign In
 
@@ -45,7 +45,7 @@ Close
 
 ### My Profile
 
-[log out](#! "log out")
+[log out](#!)
 
 [Delete Account](http://eepurl.com/iWOMA6)
 
