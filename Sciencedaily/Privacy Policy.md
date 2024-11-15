@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 14, 2024**
+**November 15, 2024**
 
 * * *
 
@@ -230,25 +230,25 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
+[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
 
-[Chronic Illness](https://www.sciencedaily.com/news/health_medicine/chronic_illness/)
+[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
+[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
+
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
-
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
-
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+
+[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
 
   
 
