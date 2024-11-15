@@ -1,6 +1,6 @@
-[![YTMP3](/logo.svg)](https://ytmp3.cc/en-G9YC/)
+[![YTMP3](/logo.svg)](https://ytmp3.cc/en-E0IS/)
 
-[Home](https://ytmp3.cc/en-G9YC/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)[MP3Juice](https://emp3juice.la/)
+[Home](https://ytmp3.cc/en-E0IS/)[Add-on](https://ytmp3.cc/add-on-1/)[FAQ](https://ytmp3.cc/faq-1/)[MP3Juice](https://emp3juice.la/)
 
 Copyright Claims
 ================
