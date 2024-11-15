@@ -117,59 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client NIMAWELL  ](https://www.invoicesonline.co.za/scripts/image.php?bid=6419&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=95188616)  
-NIMAWELL
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=176680276)  
+NJR ICT Services (Pty) Ltd
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=13971497)  
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=149576203)  
+Skinz Printing & Branding
+
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=9960624)  
+MONSTER SECURITY SERVICES
+
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=88749312)  
+Kinetic Power Solutions (Pty) Ltd.
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=170956154)  
+IEMS (PTY) ltd
+
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=48681361)  
+SMART GUY PCS (PTY) LTD
+
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=189149286)  
+UniTech Solutions Pty Ltd
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=101996277)  
+Wiselink Broadband Pty Ltd
+
+![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=148432254)  
+African Roots
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=214508927)  
 OrgChart Hosting Pty Ltd
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=46190739)  
-Super Sound Man (PTY) Ltd
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=19461114)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=126476430)  
-CGHK Enterprises (PTY) LTD
-
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=117172618)  
-OXYAIDER (PTY) LTD
-
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=92313992)  
-TechnoDezi PTY(LTD)
-
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=130240030)  
-BD Maintenance
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=25485223)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=117031029)  
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=42492355)  
 Website Café (PTY) LTD
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=129597023)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Little Nutty Professors](https://www.invoicesonline.co.za/scripts/image.php?bid=4826&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=92334513)  
+Little Nutty Professors
 
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=169165031)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Konsortium Operations ( Roamfree Meats )](https://www.invoicesonline.co.za/scripts/image.php?bid=2819&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=17162214)  
+Konsortium Operations ( Roamfree Meats )
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=173982726)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=120918220)  
-Creative Characters
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=155026629)  
-Brilliant Roof Products
-
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=5e9f46daa1f73f2f25a9336c783eebd1a3a62af1a84ecd298211815fcb56a001&c=92431377)  
-Baby Toddles Infant Care
+![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=f9e2c8df6ae1197da1dbb73c022f40fce02159c18b52a5cf30f6f0409aabccda&c=75344272)  
+AquariumSmiths
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
