@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -227,7 +227,7 @@ Search results
     
     ### iGroom [iGroom Squeaky Clean Shampoo - Gallon](https://www.petagree.net/products/igroom-squeaky-clean-shampoo-gallon)
     
-    16 in stock
+    12 in stock
     
     $58.75
     
@@ -251,7 +251,7 @@ Search results
     
     ### iGroom [iGroom Tearless Facial Shampoo - Gallon](https://www.petagree.net/products/igroom-tearless-facial-shampoo-gallon)
     
-    9 in stock
+    4 in stock
     
     $60.00
     
