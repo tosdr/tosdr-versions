@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [NS Military Worldbuilding Thread No. 12 (9,015)](https://forum.nationstates.net/viewtopic.php?t=489819&f=23&view=unread#unread ""NS Military Worldbuilding Thread No. 12" (9,015 posts)")
-* [American Politics: Turnabout Trump (4,820)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,820 posts)")
-* [2023-24 Israel-Iran proxy conflict (1,825)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,825 posts)")
-* [Let's play Simon Says! (3)](https://forum.nationstates.net/viewtopic.php?t=558356&f=25&view=unread#unread ""Let's play Simon Says!" (3 posts)")
-* [Big Dawg National Food Company (2)](https://forum.nationstates.net/viewtopic.php?t=558380&f=6&view=unread#unread ""Big Dawg National Food Company" (2 posts)")
+* [Heirs of Icarus | OoC | Closed (101)](https://forum.nationstates.net/viewtopic.php?t=558264&f=31&view=unread#unread ""Heirs of Icarus | OoC | Closed" (101 posts)")
+* [What rights specifically will Donald… (181)](https://forum.nationstates.net/viewtopic.php?t=558263&f=20&view=unread#unread ""What rights specifically will Donald Trump Take Away?" (181 posts)")
+* [\[DRAFT\] Regulating Astronautical Proc… (14)](https://forum.nationstates.net/viewtopic.php?t=557351&f=9&view=unread#unread ""[DRAFT] Regulating Astronautical Procedures" (14 posts)")
+* [What is the last movie you've seen? P… (6,419)](https://forum.nationstates.net/viewtopic.php?t=346244&f=19&view=unread#unread ""What is the last movie you've seen? Part 2" (6,419 posts)")
+* [What do you think of when you see the… (9,654)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,654 posts)")
 
 Advertisement
 
