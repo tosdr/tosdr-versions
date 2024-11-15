@@ -1,74 +1,72 @@
-[![insta360](https://res.insta360.com/static/152c5357495e029a5b3904d8d2b5eea9/logo-black.svg)](https://www.insta360.com/)
+[![insta360](https://res.insta360.com/static/152c5357495e029a5b3904d8d2b5eea9/logo-black.svg)](https://www.insta360.com/fr/)
 
-[Consumer](https://store.insta360.com/consumer?i_source=website&i_medium=menu_button&i_campaign=consumer)
+[Grand public](https://store.insta360.com/consumer?i_source=website&i_medium=menu_button&i_campaign=consumer)
 
-[Professional](https://store.insta360.com/professional?i_source=website&i_medium=menu_button&i_campaign=professional)
+[Professionnel](https://store.insta360.com/professional?i_source=website&i_medium=menu_button&i_campaign=professional)
 
-[Enterprise](https://www.insta360.com/enterprise)
+[Entreprise](https://www.insta360.com/fr/enterprise)
 
-[Explore](https://www.insta360.com/awards/about)
+[Explorer](https://www.insta360.com/fr/awards/about)
 
-[Support](https://www.insta360.com/support)
+[Assistance](https://www.insta360.com/fr/support)
 
-[Downloads](https://www.insta360.com/download)
+[Téléchargements](https://www.insta360.com/fr/download)
 
-[About](https://www.insta360.com/about)
-
-[Shop by Interest](https://store.insta360.com/motorcycling?i_source=website&i_medium=menu_button&i_campaign=interest)
+[À propos d'Insta360](https://www.insta360.com/fr/about)
 
 ![insta360](https://res.insta360.com/static/0f4ec576f79eaaad2a998582306ffe31/ic-close.svg)
 
-360 Cameras
+Caméra 360
 
-More![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8495dba2b/ic-arrow-down.svg)
+Plus![insta360](https://res.insta360.com/static/59106ba9718b21a48e5ccbf8495dba2b/ic-arrow-down.svg)
 
-[Insta360 X4](https://www.insta360.com/product/insta360-x4)[Insta360 X3](https://www.insta360.com/product/insta360-x3)[Insta360 ONE RS](https://www.insta360.com/product/insta360-oners)[Insta360 X2](https://www.insta360.com/product/insta360-onex2)[Insta360 Sphere](https://www.insta360.com/product/insta360-sphere/)[Insta360 ONE R](https://www.insta360.com/product/insta360-oner_twin-edition)[Insta360 ONE X](https://www.insta360.com/product/insta360-onex)[Insta360 EVO](https://www.insta360.com/product/insta360-evo)
+[Insta360 X4](https://www.insta360.com/fr/product/insta360-x4)[Insta360 X3](https://www.insta360.com/fr/product/insta360-x3)[Insta360 ONE RS](https://www.insta360.com/fr/product/insta360-oners)[Insta360 X2](https://www.insta360.com/fr/product/insta360-onex2)[Insta360 Sphere](https://www.insta360.com/fr/product/insta360-sphere/)[Insta360 ONE R](https://www.insta360.com/fr/product/insta360-oner_twin-edition)[Insta360 ONE X](https://www.insta360.com/fr/product/insta360-onex)[Insta360 EVO](https://www.insta360.com/fr/product/insta360-evo)
 
-Wide-Angle Cameras
+Caméras grand angle
 
-[Insta360 Ace Pro 2](https://www.insta360.com/product/insta360-ace-pro2)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/product/insta360-ace-pro)[Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/product/insta360-go3s)
+[Insta360 Ace Pro 2](https://www.insta360.com/fr/product/insta360-ace-pro2)[Insta360 Ace Pro Insta360 Ace](https://www.insta360.com/fr/product/insta360-ace-pro)[Insta360 GO 3S Insta360 GO 3](https://www.insta360.com/fr/product/insta360-go3s)
 
-Handheld Gimbals
+Stabilisateur
 
-[Insta360 Flow Pro Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
+[Insta360 Flow Pro Insta360 Flow](https://www.insta360.com/fr/product/insta360-flow-pro)
 
-Webcams
+Webcam
 
-[Insta360 Link 2 Insta360 Link 2C](https://www.insta360.com/product/insta360-link2)[Insta360 Link](https://www.insta360.com/product/insta360-link)
+[Insta360 Link 2 Insta360 Link 2C](https://www.insta360.com/fr/product/insta360-link2)[Insta360 Link](https://www.insta360.com/fr/product/insta360-link)
 
-Accessories
+Accessoires
 
-[Accessories](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
+[Accessoires](https://store.insta360.com/accessory?i_source=website&i_medium=consumer_accessory&i_campaign=accessory)
 
-Comparison
+Comparaison
 
-[Product Comparison](https://www.insta360.com/product/compare)
+[Comparaison de produits](https://www.insta360.com/fr/product/compare)
 
-Professional VR Cameras
+Caméras VR professionnelles
 
-[Insta360 Pro 2](https://www.insta360.com/product/insta360-pro2/)[Insta360 TITAN](https://www.insta360.com/product/insta360-titan/)[Insta360 Pro](https://www.insta360.com/product/insta360-pro/)[Accessories](https://www.insta360.com/shop/pro2)
+[Insta360 Pro 2](https://www.insta360.com/fr/product/insta360-pro2/)[Insta360 TITAN](https://www.insta360.com/fr/product/insta360-titan/)[Insta360 Pro](https://www.insta360.com/fr/product/insta360-pro/)[Accessoires](https://www.insta360.com/fr/shop/pro2)
 
 Conferencing
 
-[Insta360 Connect](https://www.insta360.com/product/insta360-connect/)
+[Insta360 Connect](https://www.insta360.com/fr/product/insta360-connect/)
 
 Industries
 
-Products
+Produits
 
-Resources
+Ressources
 
-[Real Estate](https://www.insta360.com/enterprise/industries/real_estate)[Construction](https://www.insta360.com/enterprise/industries/construction)[VR Live Streaming](https://www.insta360.com/enterprise/industries/livestreaming)[Google Street View](https://www.insta360.com/enterprise/industries/gsv)[Media](https://www.insta360.com/enterprise/industries/media)[Training and Education](https://www.insta360.com/enterprise/industries/education)
+[Immobilier](https://www.insta360.com/fr/enterprise/industries/real_estate)[Construction](https://www.insta360.com/fr/enterprise/industries/construction)[VR Live Streaming](https://www.insta360.com/fr/enterprise/industries/livestreaming)[Google Street View](https://www.insta360.com/fr/enterprise/industries/gsv)[Médias](https://www.insta360.com/fr/enterprise/industries/media)[Formation et éducation](https://www.insta360.com/fr/enterprise/industries/education)
 
-[![insta360](https://res.insta360.com/static/8e10093f8a148722e3bf0adab471a1db/real-estate.jpg)](https://www.insta360.com/enterprise/industries/real_estate)
+[![insta360](https://res.insta360.com/static/8e10093f8a148722e3bf0adab471a1db/real-estate.jpg)](https://www.insta360.com/fr/enterprise/industries/real_estate)
 
-Explore
+Explorer
 
-[Insta360 Awards](https://www.insta360.com/awards/about)[Think Bold Fund](https://www.insta360.com/ThinkBoldFund)[Team Insta360](https://www.insta360.com/explore/team-insta360)[Blog](https://www.insta360.com/blog)[Community Forum](http://forums.insta360.com/?utm_source=officialsite&utm_medium=nav)
+[Prix Insta360](https://www.insta360.com/fr/awards/about)[Think Bold Fund](https://www.insta360.com/fr/ThinkBoldFund)[Équipe Insta360](https://www.insta360.com/fr/explore/team-insta360)[Blog](https://www.insta360.com/blog-fr)[Communauté Insta360](http://forums.insta360.com/?utm_source=officialsite&utm_medium=nav)
 
-Support
+Assistance
 
-[Product Support](https://www.insta360.com/support/product-support)[Where to Buy](https://www.insta360.com/support/buy-map)[Care Service](https://www.insta360.com/support/care_warranty)[Repair Service](https://www.insta360.com/support/workorder)[After-Sales Policy](https://www.insta360.com/support/aftersales?name=repair)
+[Assistance produit](https://www.insta360.com/fr/support/product-support)[Points de vente](https://www.insta360.com/fr/support/buy-map)[Service Care](https://www.insta360.com/fr/support/care_warranty)[Service de réparation](https://www.insta360.com/fr/support/workorder)[Service après-vente](https://www.insta360.com/fr/support/aftersales?name=repair)
 
 Shop by Interest
 
@@ -394,15 +392,15 @@ If any provision of this Agreement is deemed to be invalid, void or unenforceabl
 
 ![insta360](https://static.insta360.com/assets/www/project/official/support/question.png)
 
-Was this information helpful?
+Est-ce que cette information a été utile?
 
-Yes
+Oui
 
-No
+Non
 
 [![insta360](https://static.insta360.com/assets/storage/20200422/83d3f77ba8cf2d1fe522e50b33f549ce/supportcourse_pc_en.jpg)](http://forums.insta360.com/?&utm_source=officialsite&utm_medium=supportcourse)
 
-### Consumer
+### Amateur
 
 * [Insta360 X4](https://www.insta360.com/product/insta360-x4)
 * [Insta360 X3](https://www.insta360.com/product/insta360-x3)
@@ -413,66 +411,64 @@ No
 * [Insta360 Flow Pro & Insta360 Flow](https://www.insta360.com/product/insta360-flow-pro)
 * [Insta360 Link 2 & Insta360 Link 2C](https://www.insta360.com/product/insta360-link2)
 
-### Support
+### Aide
 
-* [Product Support](https://www.insta360.com/support/product-support)
-* [Repair Service](https://www.insta360.com/support/workorder)
-* [After-Sales Policy](https://www.insta360.com/support/aftersales?name=repair)
-* [Care & Extended Warranty](https://www.insta360.com/support/care_warranty)
-* [Downloads](https://www.insta360.com/download)
+* [Aide produit](https://www.insta360.com/support/product-support)
+* [Service réparation](https://www.insta360.com/support/workorder)
+* [Politique après-vente](https://www.insta360.com/support/aftersales?name=repair)
+* [Care et extension de garantie](https://www.insta360.com/support/care_warranty)
+* [Téléchargements](https://www.insta360.com/download)
 
-### About us
+### À propos de nous
 
-* [About Insta360](https://www.insta360.com/about)
-* [Press](https://www.insta360.com/press)
-* [Insta360 Blog](https://www.insta360.com/blog)
+* [À propos d'Insta360](https://www.insta360.com/about)
+* [Presse](https://www.insta360.com/press)
+* [Blog Insta360](https://www.insta360.com/blog)
 * [Awards](https://www.insta360.com/awards/about)
 * [Insta360 Think Bold Fund](https://www.insta360.com/ThinkBoldFund)
-* [Join Us](https://www.insta360.com/jobs)
-* [Community Forum](https://forums.insta360.com/)
+* [Rejoignez-nous](https://www.insta360.com/jobs)
+* [Communauté](http://forums.insta360.com/)
 
-### Partners
+### Nos partenaires
 
-* [Contact Us](https://www.insta360.com/contact)
-* [Become an Affiliate](https://store.insta360.com/reseller/intro)
-* [Become a Rising Talent](https://www.insta360.com/rising-talents)
-* [Become a Reseller](https://www.insta360.com/reseller_application)
-* [Invite Friends for Vouchers](https://www.insta360.com/email_referral)
-* [SDK Application](https://www.insta360.com/sdk/home)
-* [Enterprise](https://www.insta360.com/enterprise)
+* [Nous contacter](https://www.insta360.com/contact)
+* [Devenir affilié](https://store.insta360.com/reseller/intro)
+* [Devenir revendeur](https://www.insta360.com/reseller_application)
+* [Application SDK](https://www.insta360.com/sdk/home)
+* [Entreprise](https://www.insta360.com/enterprise)
 
-### Professional
+### Professionnel
 
 * [Insta360 Pro 2](https://www.insta360.com/product/insta360-pro2)
 * [Insta360 Titan](https://www.insta360.com/product/insta360-titan)
 * [Insta360 Pro](https://www.insta360.com/product/insta360-pro)
 
-### Where to buy
+### Où acheter
 
-* [Online Stores](https://www.insta360.com/support/buy)
-* [Retail Stores](https://www.insta360.com/support/buy-map)
+* [Boutique en ligne](https://www.insta360.com/support/buy)
+* [Points de vente](https://www.insta360.com/support/buy-map)
 
-### Subscribe
+### Souscrire
 
-Get the latest news from Insta360
+Recevez les dernières nouvelles d'Insta360
 
 ![insta360](https://res.insta360.com/static/assets/storage/20200824/9a8e3f626ea9badeb5e4220ba6efa157/ic_black.svg)![insta360](https://res.insta360.com/static/6eb49b39147280e210ef9b7b907696e2/Rectangle%205%20(Stroke).svg)
 
-\*You can learn more about how we handle your user data through our [privacy policy](https://www.insta360.com/support/supportcourse?post_id=20166).
+\*Vous pouvez en savoir plus sur la façon dont nous traitons vos données d'utilisateur grâce à notre [politique de confidentialité](https://www.insta360.com/support/supportcourse?post_id=20166).
 
 [![tiktok](https://res.insta360.com/static/e3681f1dde1f82c10c7d87adf84f2144/1006.svg)![tiktok](https://res.insta360.com/static/assets/storage/20210420/8088adf76b82f555d0836bf0f2cd9244/icon_tiktok_hover.svg)](https://www.tiktok.com/@insta360_official)[![youtube](https://res.insta360.com/static/fad5413ac440fd1af62b7e998af1de90/10001-(1)%20(1).svg)![youtube](https://res.insta360.com/static/assets/storage/20210420/675916cae0e6dbd60ed9593b2bc220f9/icon_youtube_hover.svg)](https://www.youtube.com/c/insta360)[![twitter](https://res.insta360.com/static/77f76cf49335f413211aa16992550ddb/icon-x.svg)![twitter](https://res.insta360.com/static/430a50a064ee6890dca324cce086eef8/icon-x-hover.svg)](https://twitter.com/insta360)[![facebook](https://res.insta360.com/static/627e398e6e1a009ae8fdca6bde3b833e/10005-(1)%20(1).svg)![facebook](https://res.insta360.com/static/assets/storage/20210420/5627d043dfd5982678bac46e046c8acc/icon_fb_hover.svg)](https://www.facebook.com/Insta360)[![instagram](https://res.insta360.com/static/ee50f7f021ab074ba85eed3a8748a686/10003%20(1).svg)![instagram](https://res.insta360.com/static/assets/storage/20210420/9cdaf4f45d44ea82789605d562f9bbcd/icon_ig_hover.svg)](https://www.instagram.com/insta360/)
 
-[Download the Insta360 App](https://www.insta360.com/download/insta360-x3) ｜ [User Service Agreement](https://www.insta360.com/support/supportcourse?post_id=9142) ｜ [Privacy Policy](https://www.insta360.com/support/supportcourse?post_id=20166)
+[Télécharger l'application Insta360](https://www.insta360.com/download/insta360-x3) ｜ [Contrat utilisateur](https://www.insta360.com/support/supportcourse?post_id=9142) ｜ [Politique de confidentialité](https://www.insta360.com/support/supportcourse?post_id=20166)
 
- ｜ Cookie Settings ｜ [Cookie Policy](https://www.insta360.com/support/supportcourse?post_id=20744)
+ ｜ Paramètres des cookies ｜ [Politique en matière de cookie](https://www.insta360.com/support/supportcourse?post_id=20744)
 
-English![insta360](https://res.insta360.com/static/ccaff183a64761d3eee581198d3420a0/%E8%AF%AD%E8%A8%80-%E5%8F%8D%E9%BB%91.svg)
+Français![insta360](https://res.insta360.com/static/ccaff183a64761d3eee581198d3420a0/%E8%AF%AD%E8%A8%80-%E5%8F%8D%E9%BB%91.svg)
 
 [English](https://www.insta360.com/)[Deutsch](https://www.insta360.com/de)[简体中文](https://www.insta360.com/cn)[繁體中文](https://www.insta360.com/hk)[日本語](https://www.insta360.com/jp)[Español](https://www.insta360.com/es)[한국어](https://www.insta360.com/kr)[Français](https://www.insta360.com/fr)[Italiano](https://www.insta360.com/it)[Русский](https://www.insta360.com/ru)
 
 Copyright © ARASHI VISION INC. All Rights Reserved.
 
-Guang Dong ICP No. 16095556.
+Guang Dong ICP n° 16095556.
 
 ![](https://res.insta360.com/static/15de494c616f82440df402317a4f1352/feedback.svg)
 
