@@ -192,6 +192,10 @@
     
     Latest Blogs
     
+    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-neilson@2x.jpg?tr=w-60,h-50)
+    
+    How Neilson Active Holidays Leveraged Behaviour Analytics by VWO to Boost UX and User Engagement \[Case Study\]](https://vwo.com/blog/how-neilson-active-holidays-leveraged-behaviour-analytics-by-vwo/)
+    
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-CRO-Perspectives-Umniah-Adel-1.jpg?tr=w-60,h-50)
     
     Analyze Local User Behavior to Tailor Offerings and Optimize Regional Experiences](https://vwo.com/blog/umniah-adel-insights/)
@@ -207,10 +211,6 @@
     [![](https://static.wingify.com/gcp/uploads/sites/3/2024/11/Feature-image-10-Best-Web-Analytics-Tools-to-Boost-Your-Digital-Strategy.jpg?tr=w-60,h-50)
     
     10 Best Web Analytics Tools to Boost Your Digital Strategy](https://vwo.com/blog/web-analytics-tools/)
-    
-    [![](https://static.wingify.com/gcp/uploads/sites/3/2024/10/Feature-image-Top-Statistics-for-Effective-Website-Personalization-1.jpg?tr=w-60,h-50)
-    
-    Top 35 Website Personalization Statistics to Boost Engagement](https://vwo.com/blog/website-personalization-statistics/)
     
     Featured Blogs
     
