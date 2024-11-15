@@ -113,6 +113,8 @@ Please read these terms and conditions carefully prior to using TraceMyIP Servic
 
 [Trace My IP](https://www.tracemyip.org/)
 
+[Ultimate IP Tracker](https://www.tracemyip.org/ultimate-ip-tracker.htm)
+
 [Website Visitor Alerts](https://www.tracemyip.org/website-visitors-alerts.htm)
 
 [Website Analytics](https://www.tracemyip.org/website-analytics.htm)
