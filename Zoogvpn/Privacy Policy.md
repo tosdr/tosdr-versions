@@ -152,7 +152,7 @@ Zoog Services IKE
 * [VPN for Android TV](https://zoogvpn.com/products/vpn-for-android/ "Download VPN for Android TV")
 * [VPN for Routers](https://zoogvpn.com/products/vpn-for-router/ "Download VPN for Routers")
 * [VPN for Linux](https://zoogvpn.com/products/vpn-for-linux/ "Download VPN for Linux")
-* [VPN Extensions for Chrome](https://zoogvpn.com/chrome-vpn-extension/ "VPN Extensions for Chrome")
+* [VPN Extension for Chrome](https://zoogvpn.com/chrome-vpn-extension/ "VPN Extension for Chrome")
 * [VPN for Business](https://zoogvpn.com/business-vpn/ "Business VPN Solution")
 
 ##### About ZoogVPN
