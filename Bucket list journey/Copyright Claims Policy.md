@@ -243,6 +243,18 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[I’m no artist, but I do LOVE trying something ne ![I’m no artist, but I do LOVE trying something new—how about you?
+When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
+The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
+Did I mention that there were delicious tacos too? 😋 
+#bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![I’m no artist, but I do LOVE trying something new—how about you?
+When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
+The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
+Did I mention that there were delicious tacos too? 😋 
+#bucketlistidea #paintnight #paintandsip #peacock  #bucketlist✔️ #bucketlist✅ #bucketlistadventures #bucketlisters](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCZZ88Mvt-J/) 
+
 [If you’re heading to Point Reyes National Seasho ![If you’re heading to Point Reyes National Seashore in  #northerncalifornia, these are my favorite places to eat to add to your bucket list.
 (💫 SAVE for planning your trip to Northern #California💫)
 POINT REYES, CALIFORNIA RESTAURANTS
@@ -324,20 +336,6 @@ Want to conquer all that Golden Gate Park has to offer in just one day? Challeng
 1️⃣0️⃣ Dinner at @kothaisf 🍽
 End your adventure with a feast at this cozy spot in the Inner Sunset. Their Asian-inspired dishes like Slow Shrooms and Monterey Squid are the perfect way to wrap up a day well-spent.
 #sanfrancisco #sanfranciscocalifornia #california #BucketListAdventures #visitcalifornia#travelbucketlist #GoldenGatePark](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DB9OT8Fylus/) 
-
-[Ready to tackle 313 stairs down to California’s ![Ready to tackle 313 stairs down to California’s historic Point Reyes Lighthouse... and then 313 stairs back up? 😅 (Yes, your quads will feel it, but it’s worth it!). This beauty sits along the rugged coastline of the Point Reyes National Seashore, offering killer views—if Mother Nature cooperates, that is ☁️ 
-Tip: Check your weather app before heading out! The area is notorious for fog that likes to crash the party, blocking those postcard-worthy ocean views. Your best bet? Visit on a sunny, clear day (afternoons usually give you the best chance).
-Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
-⚡️Save for your trip to Northern California⚡️
-@pointreyesnps @visitcalifornia
-#PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![Ready to tackle 313 stairs down to California’s historic Point Reyes Lighthouse... and then 313 stairs back up? 😅 (Yes, your quads will feel it, but it’s worth it!). This beauty sits along the rugged coastline of the Point Reyes National Seashore, offering killer views—if Mother Nature cooperates, that is ☁️ 
-Tip: Check your weather app before heading out! The area is notorious for fog that likes to crash the party, blocking those postcard-worthy ocean views. Your best bet? Visit on a sunny, clear day (afternoons usually give you the best chance).
-Not up for all those stairs? No worries! There’s a great viewing platform near the parking lot where you can still soak in the scenery without the climb (though there is still a .4 mile walk to the platform!).
-⚡️Save for your trip to Northern California⚡️
-@pointreyesnps @visitcalifornia
-#PointReyes #pointreyescalifornia #PointReyesLighthouse #california #northern california #BucketListAdventures #visitcalifornia #lighthouse #travelbucketlist](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBrAOgyvE34/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
