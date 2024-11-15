@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I want to live in a world I like, I have to help create it”
+“ Everyone you will ever meet knows something you don't”
 
-[Caroline Caldwell](https://www.adafruit.com/quotes)
+[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
 
 [](https://www.adafruit.com/about)
 
