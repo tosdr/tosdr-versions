@@ -23,8 +23,6 @@
         Publish and share your ML models and datasets](https://wandb.ai/site/registry/)
     * [Automations  
         Trigger workflows automatically](https://wandb.ai/site/automations/)
-    * [Launch  
-        Package and run your ML workflow jobs](https://wandb.ai/site/launch/)
     
     [Weave: LLMOps solution](https://wandb.ai/site/weave)
     
@@ -426,7 +424,6 @@ If you have questions about our use of your personal information, please email u
 * [Sweeps](https://wandb.ai/site/sweeps/)
 * [Registry](https://wandb.ai/site/registry)
 * [Automations](https://wandb.ai/site/automations/)
-* [Launch](https://wandb.ai/site/launch/)
 * [Weave​](https://wandb.ai/site/weave/)
 * [Traces](https://wandb.ai/site/traces/)
 * [Evaluations](https://wandb.ai/site/evaluations/)
@@ -438,7 +435,6 @@ If you have questions about our use of your personal information, please email u
 * [Sweeps](https://wandb.ai/site/sweeps/)
 * [Registry](https://wandb.ai/site/registry)
 * [Automations](https://wandb.ai/site/automations/)
-* [Launch](https://wandb.ai/site/launch/)
 * [Weave​](https://wandb.ai/site/weave/)
 * [Traces](https://wandb.ai/site/traces/)
 * [Evaluations](https://wandb.ai/site/evaluations/)
