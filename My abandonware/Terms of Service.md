@@ -105,20 +105,20 @@ Top downloads
 
 Latest releases
 
-* [Williams Arcade Classics](https://www.myabandonware.com/game/williams-arcade-classics-2s5)
-* [Miner 2049er](https://www.myabandonware.com/game/miner-2049er-2jn)
-* [Mappy](https://www.myabandonware.com/game/mappy-7uq)
-* [HenchMan](https://www.myabandonware.com/game/henchman-t0m)
-* [Sky Kid](https://www.myabandonware.com/game/sky-kid-9hd)
+* [FlipOut](https://www.myabandonware.com/game/flipout-tq1)
+* [Fight'N'Jokes](https://www.myabandonware.com/game/fight-n-jokes-tq0)
+* [Fall Weiß 1939](https://www.myabandonware.com/game/fall-weiss-1939-tpz)
+* [Enigma](https://www.myabandonware.com/game/enigma-tpy)
+* [Zeitgeist](https://www.myabandonware.com/game/zeitgeist-tec)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
 
 Screenshots needed
 
-* [Hornby Virtual Railway](https://www.myabandonware.com/game/hornby-virtual-railway-mn1)
-* [Web Wars](https://www.myabandonware.com/game/web-wars-quy)
-* [ParaWorld: Gold Edition](https://www.myabandonware.com/game/paraworld-gold-edition-mgf)
+* [NFL Hall of Fame Football](https://www.myabandonware.com/game/nfl-hall-of-fame-football-pl5)
+* [War of the Worlds](https://www.myabandonware.com/game/war-of-the-worlds-saz)
+* [Yogurt Commercial](https://www.myabandonware.com/game/yogurt-commercial-3sn)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
