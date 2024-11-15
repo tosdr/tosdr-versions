@@ -60,7 +60,7 @@ We are pleased to accommodate course transfer requests within three months of en
 
 L. REFUND POLICY
 
-For Challenges, we're dedicated to providing high-quality content at an affordable price, which is why all purchases are considered final and non-refundable. If a participant is unsatisfied or faces obstacles that prevent full participation, they may opt to transfer to the next batch, provided the request is made on or before Day 3 of the Challenge.
+If a participant is not satisfied with the program or encounters difficulties that make it hard to continue, they have the option to withdraw from the course and receive a full refund, provided this is done within 30 days of the first class. After the refund is processed, access to all associated platforms will be revoked. If a refund request is made after the 30-day period, the refund amount will be prorated according to the policy. Nas Academy aims to ensure participant satisfaction and is here to assist in any way possible.For Challenges, we're dedicated to providing high-quality content at an affordable price, which is why all purchases are considered final and non-refundable. If a participant is unsatisfied or faces obstacles that prevent full participation, they may opt to transfer to the next batch, provided the request is made on or before Day 3 of the Challenge.
 
 M. REVOCATION OF ACCOUNTS
 
