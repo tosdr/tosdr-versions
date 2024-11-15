@@ -347,7 +347,7 @@ Search![X icon](https://www.yubico.com/wp-content/themes/yubicool/img/icons/clos
 
 [![Yubico Text Logo](https://www.yubico.com/wp-content/themes/yubicool/img/logos/logo.svg)](https://www.yubico.com/)
 
-* [RSS](https://www.yubico.com/rss/)
+* [RSS Feed](https://www.yubico.com/feed/)
 * [X](https://x.com/Yubico)
 * [LinkedIn](https://www.linkedin.com/company/Yubico)
 * [Facebook](https://www.facebook.com/Yubikey)
