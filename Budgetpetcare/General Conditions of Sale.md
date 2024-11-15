@@ -1,6 +1,6 @@
 11.11 SUPER SALE!
 
-25% Off + 10% **Cashback**
+22% Off + 10% **Cashback**
 
 on all orders -
 
