@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)4°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![bien ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-90.svg)7°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Votation](https://www.watson.ch/fr/votation/)
-* [Musique](https://www.watson.ch/fr/musique/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
+* [Elon Musk](https://www.watson.ch/fr/elon-musk/)
 * [Lausanne](https://www.watson.ch/fr/lausanne/)
+* [Musique](https://www.watson.ch/fr/musique/)
+* [Votation](https://www.watson.ch/fr/votation/)
+* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
 * [La Poste](https://www.watson.ch/fr/la-poste/)
 * [Grisons](https://www.watson.ch/fr/grisons/)
-* [Climat](https://www.watson.ch/fr/climat/)
-* [Météo](https://www.watson.ch/fr/meteo/)
-* [Incendie](https://www.watson.ch/fr/incendie/)
 * [Espagne](https://www.watson.ch/fr/espagne/)
-* [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [En Train](https://www.watson.ch/fr/en-train/)
+* [Météo](https://www.watson.ch/fr/meteo/)
+* [Twitter](https://www.watson.ch/fr/twitter/)
+* [Israël](https://www.watson.ch/fr/israel/)
+* [Liban](https://www.watson.ch/fr/liban/)
+* [boxe](https://www.watson.ch/fr/boxe/)
 * [CFF](https://www.watson.ch/fr/cff/)
-* [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
 * [Russie](https://www.watson.ch/fr/russie/)
-* [Migros](https://www.watson.ch/fr/migros/)
-* [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
-* [Royauté](https://www.watson.ch/fr/royaute/)
+* [En Train](https://www.watson.ch/fr/en-train/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
+* [France](https://www.watson.ch/fr/france/)
+* [Technologie](https://www.watson.ch/fr/technologie/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
