@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12473 Hostels in 2595 cities.
+We have 12473 Hostels in 2594 cities.
 
 Where do you want to go?
 
@@ -2047,7 +2047,7 @@ from US$11.78
 
 Paris
 
-7.7
+7.6
 
 From US$21.27](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
 
@@ -2057,7 +2057,7 @@ Barcelona
 
 8.9
 
-From US$15.33](https://www.hostelworld.com/st/hostels/p/61557/st-christopher-s-barcelona/ "St Christopher's Barcelona")[![ClinkNOORD](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "ClinkNOORD")
+From US$16.52](https://www.hostelworld.com/st/hostels/p/61557/st-christopher-s-barcelona/ "St Christopher's Barcelona")[![ClinkNOORD](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "ClinkNOORD")
 
 **ClinkNOORD**
 
