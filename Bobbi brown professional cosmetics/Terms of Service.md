@@ -298,6 +298,8 @@ Close
 
 Always-On Artistry
 
+ [TRENDS](https://www.bobbibrowncosmetics.com/trends)
+
  [HOW TO VIDEOS](https://www.bobbibrowncosmetics.com/how-to) HOW TO VIDEOS 
 
 HOW TO VIDEOS
