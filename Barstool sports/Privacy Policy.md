@@ -142,7 +142,7 @@
 [My Feed!My Feed](https://www.barstoolsports.com/favorites)[App](https://www.barstoolsports.com/download)
 
 * Trending Topics
-* [Stella Blue Coffee Golden Mug](https://stellabluecoffee.com/)
+* [Stella Blue Coffee](https://stellabluecoffee.com/)
 * [Barstool Store Best Sellers](https://store.barstoolsports.com/collections/best-sellers-page)
 * [Ugly Sweater Collection](https://store.barstoolsports.com/collections/ugly-sweaters)
 * [Football Collection](https://store.barstoolsports.com/collections/football)
