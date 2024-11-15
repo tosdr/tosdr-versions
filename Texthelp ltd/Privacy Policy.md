@@ -73,7 +73,7 @@ Texthelp will:
 * Work to avoid a negative impact to Texthelp’s reputation and brand
 * Protect the information of all interested parties including the personal information of its customers. Should the Texthelp company be acquired by another company at some future time, this will include checks that the acquiring company will have data security controls at least as robust as Texthelp’s in place to ensure the future safeguarding of existing customer data.
 
-* Comply with any legal, regulatory or contractual requirements in respect of the data it holds about individuals. These are listed in the [List of Legislative & Regulatory Bodies](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vRVvvLNtTIqY4ji4wvbULN2PnM_oxtFudSLakqKM0M37LLNWg89J9YXfFOynZb_kJK9PBQTfDI18W63/pubhtml&sa=D&source=editors&ust=1731667733499322&usg=AOvVaw0vZbwDlzwCZMBaKXlKQXcb);
+* Comply with any legal, regulatory or contractual requirements in respect of the data it holds about individuals. These are listed in the [List of Legislative & Regulatory Bodies](https://www.google.com/url?q=https://docs.google.com/spreadsheets/d/e/2PACX-1vRVvvLNtTIqY4ji4wvbULN2PnM_oxtFudSLakqKM0M37LLNWg89J9YXfFOynZb_kJK9PBQTfDI18W63/pubhtml&sa=D&source=editors&ust=1731691135062795&usg=AOvVaw322bkcF8xL8Br5gKJhnubj);
 * Follow best practice
 * Seek to continually improve the company’s Information Security Management System
 
@@ -139,7 +139,7 @@ Significant breaches of this policy will be handled under Texthelp’s disciplin
 Confidentiality
 ===============
 
-Because confidentiality applies to a much wider range of information than Data Protection, Texthelp has a separate Data [Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731667733505377&usg=AOvVaw2LYu7Wz8aKbTsh18zBN-BJ).
+Because confidentiality applies to a much wider range of information than Data Protection, Texthelp has a separate Data [Privacy Policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731691135067265&usg=AOvVaw20OGhefBZJuxBb3q560598).
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Scope
@@ -152,12 +152,12 @@ Third party agents will also be contractually required, where this is possible, 
 
 Texthelp will comply with requests under the General Data Protection Regulation (GDPR, EU), Data Protection Act (2018)(UK), Regulation of Investigatory Powers Act 2000 (RIPA) from UK authorities and under the USA Patriots Act from US authorities and Freedom of Information and Protection of Privacy Act (FOIPPA)(British Columbia), Danish Data Protection Act, Norwegian Personal Data Act, Swedish Data Protection Act (2018:218) and other agencies where obliged to do so if requested.
 
-The full list of regulatory and legislative requirements with which Texthelp complies are given in this table of [Legislative & Regulatory bodies](https://www.google.com/url?q=https://drive.google.com/open?id%3D1zkMU4AJcYRGQFXT2f4QCsrMSCfcTbX_iJFewG9eus1E&sa=D&source=editors&ust=1731667733507294&usg=AOvVaw3z-lhXS4rcBneIOUhjzOxW)
+The full list of regulatory and legislative requirements with which Texthelp complies are given in this table of [Legislative & Regulatory bodies](https://www.google.com/url?q=https://drive.google.com/open?id%3D1zkMU4AJcYRGQFXT2f4QCsrMSCfcTbX_iJFewG9eus1E&sa=D&source=editors&ust=1731691135068713&usg=AOvVaw3CW4M79BspWA6qxXMzpSMB)
 
 What we do with customer data
 -----------------------------
 
-Texthelp has a [privacy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731667733508374&usg=AOvVaw3f1iMZzEgtk1-dBj5T7ku4) [](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731667733508832&usg=AOvVaw0kpRw8AMbeIGTpI7QWTMrj)[policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731667733509180&usg=AOvVaw2fSl0nfpjtFcYdHJiGRD3J) for Users, setting out how their information will be used.
+Texthelp has a [privacy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731691135069414&usg=AOvVaw3UT3Ke4cL7Ecv2G6mB-hEY) [](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731691135069680&usg=AOvVaw1aytDAInNj4nimVM0zp-Ow)[policy](https://www.google.com/url?q=https://docs.google.com/document/d/13D3gUalhk4Gg-sEEsOknX8OGt8uGK9g89x8PwDq50dI/pub&sa=D&source=editors&ust=1731691135069880&usg=AOvVaw3xOB9RaSqzauFL79jfcFsr) for Users, setting out how their information will be used.
 
 Texthelp Group  Staff Responsibilities
 --------------------------------------
@@ -303,7 +303,7 @@ An audit of this policy will be carried out once per year. However, the requirem
 information security Incidents
 ------------------------------
 
-All information security incidents will be logged in the [Downtime/Security Events Register](https://www.google.com/url?q=https://crm.texthelp.com/index.php?module%3DDT_Downtime%26action%3Dindex&sa=D&source=editors&ust=1731667733520335&usg=AOvVaw2eYRNWiwhiN4PHYf35QUco) in Sugar. information security incidents will be classified according to severity.  Incidents such as unsuccessful exploit attempts that do not involve data loss will be classified as Level 1 - Non Critical Incidents. Level 1 incidents should not trigger a customer notification since there has been no impact to privacy.
+All information security incidents will be logged in the [Downtime/Security Events Register](https://www.google.com/url?q=https://crm.texthelp.com/index.php?module%3DDT_Downtime%26action%3Dindex&sa=D&source=editors&ust=1731691135092303&usg=AOvVaw0Fkjg2iZys1LADnjUCXxTG) in Sugar. information security incidents will be classified according to severity.  Incidents such as unsuccessful exploit attempts that do not involve data loss will be classified as Level 1 - Non Critical Incidents. Level 1 incidents should not trigger a customer notification since there has been no impact to privacy.
 
 Incidents that do involve data loss will be classified as Level 2 - Critical Incidents & should trigger a notification to all customers that are impacted by the data loss. Where required, the relevant local data protection authority will also be contacted.
 
@@ -338,8 +338,8 @@ If you are in doubt about whether to disclose information or not, do not guess. 
 
 Your confidentiality obligations continue to apply indefinitely after you have stopped working for Texthelp .
 
-Signed: ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOO2pzV11tJoef_Tmmr9FQc10rlURy8NYwmShhLny8foQcgg9cxG2SuHpBddJya70oFS1rQtTneWmFl8luUIQUT3nWMXzk-Bk0kb4Je-5jAYJLKOVsu0B3dNR_zX7njceTTsYSL5HHptYUhYE?key=dsOzQC7AVBsifLxoph1NlQ)Martin McKay  (CEO)
+Signed: ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdORjTGfnNhBItowCXc9tWOvwWQDpNDRS4U5pPUjLgL1kF_IuPyZ5AU3ciWK1Y3yOcygqwrdK2lXfsDk967xj4Xl3C-bQ9cgEbSaNfag1AYoSv3WMHiPfqq1ebF4FJxehSnn-zg6sZbVP6-xuM?key=dsOzQC7AVBsifLxoph1NlQ)Martin McKay  (CEO)
 
-Signed:  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzgyyYmu5KsyoievQ75_TKsE3sXwVrkozY1w_3KiV17i6UQTvvokMOaEHxbm_Oc9zCBYKtD3BTTEsaaXimqztiqyKxYfLTgE88wSAycqP-YmyOaDrO4b0YejVKbfwsOqOgj7GRyIdmG2zN9sP9?key=dsOzQC7AVBsifLxoph1NlQ)    Ryan Graham (CTO)
+Signed:  ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfArrFHGjdlc_7FOcbqjXq-J-ma5hUuSJC0Qm0Nm6w6xMA9SE69nMpCvn_CtDTtzl1mg_LgFfJ0vZTbwswi2bP_JDqWdarIQKmRvh06Yv4cEowRpreMsKX181XK0MqeACfQvy1eSqJ5KYUaU346?key=dsOzQC7AVBsifLxoph1NlQ)    Ryan Graham (CTO)
 
 Public Information
