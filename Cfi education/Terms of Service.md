@@ -248,29 +248,7 @@ Menu
         * [Explore All Topics](https://corporatefinanceinstitute.com/topics/)
     * [View All Courses](https://corporatefinanceinstitute.com/collections/)
     
-* CFI For Teams
-    
-    * [Overview](#)
-        * [Overview](https://corporatefinanceinstitute.com/cfi-for-teams/)
-        * [Pricing](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
-        * [Why CFI Certifications?](https://corporatefinanceinstitute.com/cfi-for-teams/certified-professionals/)
-        * [Get Started](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
-    * [How CFI Can Help](#)
-        * [How CFI Can Help](#)
-        
-        * [New Hire Training](https://corporatefinanceinstitute.com/cfi-for-teams/onboarding/)
-        * [Hybrid Team Training](https://corporatefinanceinstitute.com/cfi-for-teams/distributed-training/)
-        * [Upskilling and Reskilling](https://corporatefinanceinstitute.com/cfi-for-teams/upskilling-reskilling/)
-        * [Retaining Talent](https://corporatefinanceinstitute.com/cfi-for-teams/hiring-retention/)
-        
-    * [Corporate Solutions](#)
-        * [Corporate Solutions](#)
-        
-        * [Finance Teams](https://corporatefinanceinstitute.com/cfi-for-teams/for-finance-teams/)
-        * [Financial Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-financial-services/)
-        * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
-        
-    
+* [CPE](https://corporatefinanceinstitute.com/about-cfi/cpe-credits-online/)
 * Pricing
     
     * [For Individuals](https://corporatefinanceinstitute.com/pricing/)
@@ -297,6 +275,29 @@ Menu
         * [Economics](https://corporatefinanceinstitute.com/topic/economics/)
         
         * [Corporate Finance Resources](https://corporatefinanceinstitute.com/resources/)
+    
+* CFI For Teams
+    
+    * [Overview](#)
+        * [Overview](https://corporatefinanceinstitute.com/cfi-for-teams/)
+        * [Pricing](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
+        * [Why CFI Certifications?](https://corporatefinanceinstitute.com/cfi-for-teams/certified-professionals/)
+        * [Get Started](https://corporatefinanceinstitute.com/cfi-for-teams/pricing-plans/)
+    * [How CFI Can Help](#)
+        * [How CFI Can Help](#)
+        
+        * [New Hire Training](https://corporatefinanceinstitute.com/cfi-for-teams/onboarding/)
+        * [Hybrid Team Training](https://corporatefinanceinstitute.com/cfi-for-teams/distributed-training/)
+        * [Upskilling and Reskilling](https://corporatefinanceinstitute.com/cfi-for-teams/upskilling-reskilling/)
+        * [Retaining Talent](https://corporatefinanceinstitute.com/cfi-for-teams/hiring-retention/)
+        
+    * [Corporate Solutions](#)
+        * [Corporate Solutions](#)
+        
+        * [Finance Teams](https://corporatefinanceinstitute.com/cfi-for-teams/for-finance-teams/)
+        * [Financial Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-financial-services/)
+        * [Professional Services](https://corporatefinanceinstitute.com/cfi-for-teams/for-professional-services/)
+        
     
 
 * [My Account](#)
