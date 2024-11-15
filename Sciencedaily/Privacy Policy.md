@@ -209,6 +209,8 @@ this hour
 * * *
 
 * [12,000-Year-Old Stones: Wheel-Like Technology?](https://www.sciencedaily.com/releases/2024/11/241113160855.htm)
+* [Evolution of a Large Brain: Long Childhood](https://www.sciencedaily.com/releases/2024/11/241113123122.htm)
+* [Fast Flowing Glaciers: Hidden Volcanic Activity](https://www.sciencedaily.com/releases/2024/11/241113123717.htm)
 * [Laser Light Can Cast a Shadow](https://www.sciencedaily.com/releases/2024/11/241114130211.htm)
 * [AI Detects Missed Brain Tumor Cells in 10 ...](https://www.sciencedaily.com/releases/2024/11/241113123219.htm)
 * [Can We Live On Our Planet Without Destroying It?](https://www.sciencedaily.com/releases/2024/11/241113123119.htm)
@@ -216,8 +218,6 @@ this hour
 * [Gas-Churning Monster Black Holes](https://www.sciencedaily.com/releases/2024/11/241113123542.htm)
 * [Bird Brain from Age of Dinosaurs: Intelligence](https://www.sciencedaily.com/releases/2024/11/241113123306.htm)
 * [Three Galactic 'Red Monsters' in Early Universe](https://www.sciencedaily.com/releases/2024/11/241113123127.htm)
-* [Solar-Powered Animal Cells](https://www.sciencedaily.com/releases/2024/10/241030150215.htm)
-* [Intelligent Beings in Our Universe and Beyond?](https://www.sciencedaily.com/releases/2024/11/241112190905.htm)
 
 Trending Topics
 ---------------
@@ -240,15 +240,15 @@ this week
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Encryption](https://www.sciencedaily.com/news/computers_math/encryption/)
+[Robotics](https://www.sciencedaily.com/news/computers_math/robotics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
-
 [Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
-[Molecular Biology](https://www.sciencedaily.com/news/plants_animals/molecular_biology/)
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
   
 
