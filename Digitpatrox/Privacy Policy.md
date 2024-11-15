@@ -20,16 +20,16 @@ Friday, November 15 2024
 
 Latest
 
-* [What Is a Payroll Schedule and How to Choose One](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
-* [Huge Black Friday Saucony sale — 9 deals I’d buy now on running shoes and apparel from $9](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
-* [Fraud network uses 4,700 fake shopping sites to steal credit cards](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
-* [NASA’s AI Earth Copilot will take your questions about our planet](https://digitpatrox.com/nasas-ai-earth-copilot-will-take-your-questions-about-our-planet/)
-* [How to Get Ice Spice’s Mythic Rifle in Fortnite Chapter 2 Remix](https://digitpatrox.com/how-to-get-ice-spices-mythic-rifle-in-fortnite-chapter-2-remix/)
-* [These three critical sectors are riddled with high-risk vulnerabilities](https://digitpatrox.com/these-three-critical-sectors-are-riddled-with-high-risk-vulnerabilities/)
-* [PCs with NPUs tweaked for AI now account for one of every five PCs shipped, says Canalys – Computerworld](https://digitpatrox.com/pcs-with-npus-tweaked-for-ai-now-account-for-one-of-every-five-pcs-shipped-says-canalys-computerworld/)
-* [The Apple Vision Pro Is One of the Worst Headsets for Gaming](https://digitpatrox.com/the-apple-vision-pro-is-one-of-the-worst-headsets-for-gaming/)
-* [Lunchables Pulled From National School Lunch Program](https://digitpatrox.com/lunchables-pulled-from-national-school-lunch-program/)
-* [3 Best Ways to Backup Windows to External Storage](https://digitpatrox.com/3-best-ways-to-backup-windows-to-external-storage/)
+* [Please Don’t Use Any of These Passwords](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
+* [What is a dumpster diving attack? Tips to keep your data safe](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
+* [Windows 11 receives updates KB5046740 and KB5046732 with new features (preview)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
+* [Jeep Grand Cherokee, Dodge Durango Recall ABS, Brake Light Problems](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
+* [How to Edit Mac Screenshots on Your iPhone or iPad (and Why You Should)](https://digitpatrox.com/how-to-edit-mac-screenshots-on-your-iphone-or-ipad-and-why-you-should/)
+* [The four-day week sounds great – but we need the private sector on board for it to work](https://digitpatrox.com/the-four-day-week-sounds-great-but-we-need-the-private-sector-on-board-for-it-to-work/)
+* [A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-3/)
+* [I’m a mattress tester and this is the Black Friday deal I think side sleepers should shop](https://digitpatrox.com/im-a-mattress-tester-and-this-is-the-black-friday-deal-i-think-side-sleepers-should-shop/)
+* [CISA warns of more Palo Alto Networks bugs exploited in attacks](https://digitpatrox.com/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
+* [Pokémon TCG Pocket will let you trade cards starting early next year](https://digitpatrox.com/pokemon-tcg-pocket-will-let-you-trade-cards-starting-early-next-year/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241113-payroll-schedule.jpg)](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
+* [![](https://lifehacker.com/imagery/articles/01JCP6SAPYTD1AKT33A1P9B0ZD/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
     
-    [What Is a Payroll Schedule and How to Choose One](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
+    [Please Don’t Use Any of These Passwords](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
     
-    4 minutes ago
+    10 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/uYax4xenBrqPFoZRykhDq-1200-80.png)](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-is-a-dumpster-diving-attack_.jpg)](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
     
-    [Huge Black Friday Saucony sale — 9 deals I’d buy now on running shoes and apparel from $9](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
+    [What is a dumpster diving attack? Tips to keep your data safe](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
     
-    8 minutes ago
+    17 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/14/cards.jpg)](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/11/kb5046740-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
     
-    [Fraud network uses 4,700 fake shopping sites to steal credit cards](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
+    [Windows 11 receives updates KB5046740 and KB5046732 with new features (preview)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
     
-    1 hour ago
+    18 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/LhrH-FA_6s4_iQpVxaJwE2X4J1U=/0x0:720x480/1200x628/filters:focal(360x240:361x241)/cdn.vox-cdn.com/uploads/chorus_asset/file/25734145/nasa_satellite_view.jpg)](https://digitpatrox.com/nasas-ai-earth-copilot-will-take-your-questions-about-our-planet/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731509225/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Chrysler-Dodge-Recall-1124)](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
     
-    [NASA’s AI Earth Copilot will take your questions about our planet](https://digitpatrox.com/nasas-ai-earth-copilot-will-take-your-questions-about-our-planet/)
+    [Jeep Grand Cherokee, Dodge Durango Recall ABS, Brake Light Problems](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
     
-    2 hours ago
+    20 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Ice-Spices-Rifle-in-Fortnite.jpg)](https://digitpatrox.com/how-to-get-ice-spices-mythic-rifle-in-fortnite-chapter-2-remix/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/untitled_artwork.png)](https://digitpatrox.com/how-to-edit-mac-screenshots-on-your-iphone-or-ipad-and-why-you-should/)
     
-    [How to Get Ice Spice’s Mythic Rifle in Fortnite Chapter 2 Remix](https://digitpatrox.com/how-to-get-ice-spices-mythic-rifle-in-fortnite-chapter-2-remix/)
+    [How to Edit Mac Screenshots on Your iPhone or iPad (and Why You Should)](https://digitpatrox.com/how-to-edit-mac-screenshots-on-your-iphone-or-ipad-and-why-you-should/)
     
-    2 hours ago
+    22 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [10 minutes ago
     
-    ### What Is a Payroll Schedule and How to Choose One](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
-* [8 minutes ago
+    ### Please Don’t Use Any of These Passwords](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
+* [17 minutes ago
     
-    ### Huge Black Friday Saucony sale — 9 deals I’d buy now on running shoes and apparel from $9](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
-* [1 hour ago
+    ### What is a dumpster diving attack? Tips to keep your data safe](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
+* [18 minutes ago
     
-    ### Fraud network uses 4,700 fake shopping sites to steal credit cards](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
+    ### Windows 11 receives updates KB5046740 and KB5046732 with new features (preview)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
 
 Most Popular Topics
 
+* [October 11, 2024
+    
+    ### What Is Hosted Virtual Desktop? A complete 2024 Guide](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
 * [August 22, 2024
     
-    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
-* [August 22, 2024
+    ### One Piece Live-Action Season 2: King Cobra’s Actor Revealed](https://digitpatrox.com/one-piece-live-action-season-2-king-cobras-actor-revealed/)
+* [August 18, 2024
     
-    ### Microsoft to release AI feature Recall in October for Windows Insiders – Computerworld](https://digitpatrox.com/microsoft-to-release-ai-feature-recall-in-october-for-windows-insiders-computerworld/)
-* [September 12, 2024
-    
-    ### Xbox Is Bringing Back Friend Requests, Marking the End of a Decade-Long Absence](https://digitpatrox.com/xbox-is-bringing-back-friend-requests-marking-the-end-of-a-decade-long-absence/)
+    ### Upgrade to Windows 11 Pro for Only $19.97](https://digitpatrox.com/upgrade-to-windows-11-pro-for-only-19-97/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [1 hour ago
     
-    ### PCs with NPUs tweaked for AI now account for one of every five PCs shipped, says Canalys – Computerworld](https://digitpatrox.com/pcs-with-npus-tweaked-for-ai-now-account-for-one-of-every-five-pcs-shipped-says-canalys-computerworld/)
-* [4 hours ago
+    ### A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-3/)
+* [1 hour ago
     
-    ### The Apple Vision Pro Is One of the Worst Headsets for Gaming](https://digitpatrox.com/the-apple-vision-pro-is-one-of-the-worst-headsets-for-gaming/)
-* [4 hours ago
+    ### I’m a mattress tester and this is the Black Friday deal I think side sleepers should shop](https://digitpatrox.com/im-a-mattress-tester-and-this-is-the-black-friday-deal-i-think-side-sleepers-should-shop/)
+* [2 hours ago
     
-    ### Lunchables Pulled From National School Lunch Program](https://digitpatrox.com/lunchables-pulled-from-national-school-lunch-program/)
+    ### CISA warns of more Palo Alto Networks bugs exploited in attacks](https://digitpatrox.com/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 12, 2024
     
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
+* [August 11, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
