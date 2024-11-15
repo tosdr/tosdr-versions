@@ -73,9 +73,11 @@ MyAbandonware.com is hosted by OVH SAS - 2 rue Kellermann - 59100 Roubaix - Fran
 
 Follow Us!
 
-[8,900](https://www.facebook.com/myabandonware) [Like](https://www.facebook.com/myabandonware)
+[9,000](https://www.facebook.com/myabandonware "Like our page on Facebook") [Like](https://www.facebook.com/myabandonware "Like our page on Facebook")
 
-[9,600](https://x.com/myabandonware) [Follow](https://x.com/myabandonware)
+[9,800](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
+
+[10](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") Follow
 
 Monthly Newsletter
 
@@ -105,14 +107,14 @@ Top downloads
 
 Latest releases
 
-* [FlipOut](https://www.myabandonware.com/game/flipout-tq1)
-* [Fight'N'Jokes](https://www.myabandonware.com/game/fight-n-jokes-tq0)
-* [Fall Weiß 1939](https://www.myabandonware.com/game/fall-weiss-1939-tpz)
-* [Enigma](https://www.myabandonware.com/game/enigma-tpy)
-* [Zeitgeist](https://www.myabandonware.com/game/zeitgeist-tec)
+* [KengBoxing](https://www.myabandonware.com/game/kengboxing-tqg)
+* [Infinitris](https://www.myabandonware.com/game/infinitris-tqf)
+* [Husita](https://www.myabandonware.com/game/husita-tqe)
+* [Hugo 5](https://www.myabandonware.com/game/hugo-5-tqc)
+* [Oh-chan no Oekaki Logic](https://www.myabandonware.com/game/oh-chan-no-oekaki-logic-ayb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
-Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
+Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
@@ -124,4 +126,4 @@ Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
 [Ad Consent](javascript:void(0);) [Terms](https://www.myabandonware.com/terms/) [About](https://www.myabandonware.com/about/) [Contact](https://www.myabandonware.com/contact/) [FAQ](https://www.myabandonware.com/faq/) [Useful links](https://www.myabandonware.com/useful/) [Contribute](https://www.myabandonware.com/contribute/) [Taking screenshots](https://www.myabandonware.com/screenshots/) [How to play](https://www.myabandonware.com/howto/)
 
-[MyAbandonware](https://www.myabandonware.com/) [utopiaweb](http://utopiaweb.fr/ "Visit utopiaweb website")
+[MyAbandonware](https://www.myabandonware.com/) [utopiaweb](https://utopiaweb.fr/ "Visit utopiaweb website")
