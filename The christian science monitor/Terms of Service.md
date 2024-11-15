@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Trump promised to pardon Jan. 6 felons. Where does that stand now?](https://www.csmonitor.com/USA/Justice/2024/1115/trump-jan6-capitol-attack-pardons "Trump promised to pardon Jan. 6 felons. Where does that stand now?")
+
 [### Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.](https://www.csmonitor.com/World/Europe/2024/1114/ukraine-war-pokrovsk-siege-russian-invasion-drones "Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.")
 
 [### Trump leaves European allies fearing for their future](https://www.csmonitor.com/World/Europe/2024/1114/trump-europe-weakens-allies "Trump leaves European allies fearing for their future")
-
-[### In Lebanon, Hezbollah pays high political cost for its war with Israel](https://www.csmonitor.com/World/Middle-East/2024/1113/hezbollah-israel-lebanon-politics-christians-shiites "In Lebanon, Hezbollah pays high political cost for its war with Israel")
 
 * * *
 
