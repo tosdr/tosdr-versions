@@ -1013,6 +1013,7 @@ Address: Harju maakond, Tallinn, Kesklinna linnaosa, Vesivärava tn 50-201, 1015
 * [Jobs](https://scalacube.com/jobs)
 * [Apply for Sponsorship](https://scalacube.com/help/gameservers/minecraft/how-to-get-a-sponsored-minecraft-server)
 * [Sitemap](https://scalacube.com/sitemap)
+* [Minecraft Server List](https://scalacube.com/server-list/minecraft)
 
 #### Game Server Hosting
 
