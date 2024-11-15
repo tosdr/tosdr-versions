@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTExMjo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
+[![Human Rights Foundation](data:image/svg+xml;nitro-empty-id=MTE0Njo2NDM=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjgzMiA3NzkiIHdpZHRoPSIyODMyIiBoZWlnaHQ9Ijc3OSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48L3N2Zz4=)](https://hrf.org/)
 
 * [About Us](https://hrf.org/about-us/) Close About Us Open About Us
     
@@ -47,7 +47,7 @@ Close this search box.
 
 [](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1NTgiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D)
 
-![](data:image/svg+xml;nitro-empty-id=MTU3MTo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
+![](data:image/svg+xml;nitro-empty-id=MTYwNTo0Mzg=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTUwIDE1MCIgd2lkdGg9IjE1MCIgaGVpZ2h0PSIxNTAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+)
 
 About Us
 
@@ -414,12 +414,15 @@ If you have any questions about this Privacy Policy, You can contact us:
 
 * By email: [\[email protected\]](https://hrf.org/cdn-cgi/l/email-protection)
 
-![HRF](data:image/svg+xml;nitro-empty-id=MjE3NToxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
+[Back to homepage](https://hrf.org/)
+
+![HRF](data:image/svg+xml;nitro-empty-id=MjIyMDoxNjY=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMjY0IDcyIiB3aWR0aD0iMjY0IiBoZWlnaHQ9IjcyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)
 
 ##### We believe that when we rise, tyranny falls.
 
-[+1 (212) 246-8486](tel:+12122468486)  
-350 5th Ave #6500, New York, NY 10118, United States
+[+1 (212) 246-8486](tel:+12122468486)
+
+###### 350 5th Ave #6500, New York, NY 10118, United States
 
 [](https://hrf.org/contact-us/)
 
@@ -454,7 +457,7 @@ Email Address
 
 Submit
 
-[Hrf-iconfacebook](https://www.facebook.com/humanrightsfoundation/) [Hrf-iconyoutube](https://www.youtube.com/@humanrightsfdn) [Hrf-iconinstagram](https://www.instagram.com/hrf/) [Hrf-icontwitter-x](https://x.com/HRF) [Hrf-set-10-threads-1](https://www.threads.net/@hrf) [Hrf-set-10-bluesky-1](https://bsky.app/profile/hrf.org)
+[Hrf-set-10-facebook](https://www.facebook.com/humanrightsfoundation/) [Hrf-set-10-youtube](https://www.youtube.com/@humanrightsfdn) [Hrf-set-10-instagram](https://www.instagram.com/hrf/) [Hrf-set-10-twitter-x](https://x.com/HRF) [Hrf-set-10-threads-1](https://www.threads.net/@hrf) [Hrf-set-10-bluesky-1](https://bsky.app/profile/hrf.org)
 
 How can we help?
 ----------------
