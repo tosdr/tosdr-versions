@@ -1,4 +1,4 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                         Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                            Rad Power Bikes Terms of Purchase | Rad Power Bikes | Rad Power Bikes                              [Skip to content](#main)
 
 [Black Friday Sale! Save up to $699. Shop now.](https://www.radpowerbikes.com/pages/sales-deals "Black Friday Sale! Save up to $699. Shop now.")
 
@@ -435,7 +435,7 @@ A copy of these Terms and all other documents which apply to your purchase of Pr
 -----------------------------------
 
 In the event you are purchasing an ebike (i) by ordering online, (ii) in an RPB retail store (as opposed to a direct purchase in store of in-stock item), or (iii) through Rad Mobile Service, your order of an ebike is an offer to buy. RPB will send you an email confirming our receipt of your order. RPB has accepted your order upon shipment of the ebike. We reserve the right at any time, even after we send you a confirmation email, to decline or cancel your order or to limit order quantities for any reason, including errors or suspected fraud.  
-a. **Orders Placed Via Affirm.** Orders placed using Affirm as a payment method via www.radpowerbikes.com must be shipped and cannot be picked up in store. If you would like to pick up a bike from our Seattle store and purchase using financing, you may do so at time of purchase at our shop at the following address: 1128 NW 52nd St. Seattle, WA 98107.b. From time to time, in its sole discretion, RPB may promote special offers, codes or referral programs for certain sales or product launches. Special offers, codes, and referral programs may not be combined and RPB reserves the right to end or pause all such offers, codes, or programs at any time.
+a. **Orders Placed Via Affirm.** Orders placed using Affirm as a payment method via www.radpowerbikes.com must be shipped and cannot be picked up in store. If you would like to pick up a bike from our Seattle store and purchase using financing, you may do so at time of purchase at our shop at the following address: 1121 NW 52nd St. Seattle, WA 98107.b. From time to time, in its sole discretion, RPB may promote special offers, codes or referral programs for certain sales or product launches. Special offers, codes, and referral programs may not be combined and RPB reserves the right to end or pause all such offers, codes, or programs at any time.
 
 3\. Refer A Friend Program Terms/Limitations
 --------------------------------------------
@@ -598,7 +598,7 @@ RPB will provide all notices (including legal process) that RPB is required to g
 
 Rad Power Bikes Inc. Legal Department
 
-1128 NW 52nd St.
+1121 NW 52nd St.
 
 Seattle, WA 98107
 
@@ -622,7 +622,7 @@ We pride ourselves in being nothing but respectful, kind, patient, friendly, and
 
 If you have any questions or comments regarding these Terms, you may contact RPB by any of the methods available on our website at www.radpowerbikes.com or by mail at the following address:
 
-Rad Power Bikes Inc., 1128 NW 52nd St. Suite 201 Seattle, WA 98107; ATTN: Legal Department or legal@radpowerbikes.com.
+Rad Power Bikes Inc., 1121 NW 52nd St. Suite 201 Seattle, WA 98107; ATTN: Legal Department or legal@radpowerbikes.com.
 
 ### Don’t miss out.
 
