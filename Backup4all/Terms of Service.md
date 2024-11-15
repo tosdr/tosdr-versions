@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to force Backup4all to copy again some mi ...](https://www.backup4all.com/how-to-force-backup4all-to-copy-again-some-missing-files-in-destination-kb.html)  
+* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
     
-* [How to activate Backup4all Monitor](https://www.backup4all.com/how-to-activate-backup4all-monitor-kb.html)  
+* [HDD enclosures Backup4all is compatible with](https://www.backup4all.com/which-one-touch-backup-hdd-enclosures-is-backup4all-compatible-with-kb.html)  
     
-* [How to back up data files from Akaza using Ba ...](https://www.backup4all.com/how-to-back-up-data-files-from-akaza-using-backup4all-kb.html)  
+* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
     
-* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
+* [How to backup your data to Verizon](https://www.backup4all.com/how-to-backup-your-data-to-verizon-kb.html)  
     
-* [Backup Terms Glossary](https://www.backup4all.com/backup-glossary-kb.html)  
+* [FTP backup using passive mode](https://www.backup4all.com/ftp-backup-using-passive-mode-kb.html)  
     
 
 Choose language:
