@@ -81,7 +81,7 @@ Javascript is required to view this site.
 | --- |
 |     |
 | [FAQ](https://www.pirate101.com/free_game/faq) |
-| [Quick Start Guide](https://edgecast.pirate101.com/file/free/Pirate/Images/P101-Quickstart.jpg) |
+| [Quick Start Guide](https://edgecast.pirate101.com/file/free/Pirate/Images/P101-Quickstart.jpg?v=8) |
 | [Player's Guide](https://www.pirate101.com/free_game/players_guide) |
 | [System Reqs](https://www.pirate101.com/free_game/system_requirements) |
 | [Discord Chat](https://discord.gg/pirate101) |
@@ -680,7 +680,7 @@ To send us an access and deletion request, or for questions, or further informat
 
 Version: 2023-06-02
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=FcPtDq6AuU9TS7qAyLU9EDJZP7Jx0X3iksvR0M4DEw7Dgps5tRwftkQV%2FAjWjF74NLuPtBk6%2B2hN%2B8PMVLucfirP9aUV3B5JRQ6CXm8kV7jSt8hnZu%2Bc0fJGIYM0XRMN)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=jhx05N73G9fXcsgdmsu13EINddYc1fJ29aQNNrzgvF80QtayjaC6rVQWoagWTFbFknrg%2Bs5HHDlE%2BW0imWUtsQ%2BTY8kDe9JNDDu9iFPsS7FXsrs7dIxuHG6MbNWtED8Q)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
