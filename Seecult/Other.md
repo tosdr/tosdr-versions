@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume/u-ogledalu.jpg?itok=kyhcfUHJ)](http://seecult.org/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/love-story.jpg?itok=aoloZT79)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5129.jpg?itok=9h06_pl4)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/akcije-drustvo/prihvatiliste-za-decu/dado-topic.jpg?itok=V3x68dkj)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/akcije-dru%C5%A1tvo/prihvatili%C5%A1te-za-decu)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
