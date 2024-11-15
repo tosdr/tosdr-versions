@@ -15,56 +15,56 @@
     
     Trending
     
-    * [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
-    * [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
-    * [Election results](https://www.euronews.com/tag/election-results)
-    * [European Commission](https://www.euronews.com/tag/eu-commission)
+    * [COP29](https://www.euronews.com/tag/cop29)
+    * [Spain](https://www.euronews.com/tag/spain)
+    * [Climate crisis](https://www.euronews.com/tag/climate-crisis)
     * [EU Policy](https://www.euronews.com/tag/eu-policy)
+    * [Protests](https://www.euronews.com/tag/protestas)
+    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
     
     * * *
     
     Latest stories
     
-    [![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")
+    [![A design showing a technology infrastructure concept.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A design showing a technology infrastructure concept.")
     
-    ![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](https://static.euronews.com/articles/stories/08/83/56/60/368x207_cmsv2_3c7f790b-d081-509e-a111-262433d5c0de-8835660.jpg "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
-    
-    Now playing Next
-    
-    [No Comment](https://www.euronews.com/nocomment)
-    
-    ### [No Comment. Anti-government protests in Israel](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
-    
-    [![The British Museum celebrates Picasso’s lesser-known printmaking legacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The British Museum celebrates Picasso’s lesser-known printmaking legacy")
-    
-    ![The British Museum celebrates Picasso’s lesser-known printmaking legacy](https://static.euronews.com/articles/stories/08/83/58/80/368x207_cmsv2_6612e37a-fb58-5e28-9af1-8aebce82e9a6-8835880.jpg "The British Museum celebrates Picasso’s lesser-known printmaking legacy")](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
+    ![A design showing a technology infrastructure concept.](https://static.euronews.com/articles/stories/08/85/41/14/368x207_cmsv2_483e2fab-72fe-5cc9-bc18-1c8ef8a4123a-8854114.jpg "A design showing a technology infrastructure concept.")](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
     
     Now playing Next
     
-    [Art](https://www.euronews.com/culture/art)
+    [Tech News](https://www.euronews.com/next/tech-news)
     
-    ### [Never-seen-before Picasso prints go on display at British Museum](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
+    ### [US government releases guidelines for AI in critical infrastructure](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
     
-    [![US Presidential election winner Donald Trump, left, with JD Vance right. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "US Presidential election winner Donald Trump, left, with JD Vance right. ")
+    [![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")
     
-    ![US Presidential election winner Donald Trump, left, with JD Vance right. ](https://static.euronews.com/articles/stories/08/83/61/12/368x207_cmsv2_465f179c-06d8-5dd5-af4f-13fc24983584-8836112.jpg "US Presidential election winner Donald Trump, left, with JD Vance right. ")](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
-    
-    Now playing Next
-    
-    [Green News](https://www.euronews.com/green/green-news)
-    
-    ### [What does Trump’s win mean for global climate action?](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
-    
-    [![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")
-    
-    ![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](https://static.euronews.com/articles/stories/08/83/60/76/368x207_cmsv2_62f6ac36-bc86-547e-ac53-916d176d0866-8836076.jpg "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
+    ![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](https://static.euronews.com/articles/stories/08/85/36/94/368x207_cmsv2_6158ec52-50de-537e-a1fd-d6575521f7b8-8853694.jpg "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
     
     Now playing Next
     
-    [Russia](https://www.euronews.com/news/europe/russia)
+    [World News](https://www.euronews.com/programs/world)
     
-    ### [Russia-North Korea treaty signed amid Pyongyang troops joining fight](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
+    ### [Heavy Israeli airstrikes hit southern suburbs of Beirut](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
+    
+    [![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")
+    
+    ![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](https://static.euronews.com/articles/stories/08/85/39/38/368x207_cmsv2_f34371ca-02e5-53da-a84a-31aac5164967-8853938.jpg "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
+    
+    Now playing Next
+    
+    [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
+    
+    ### [Man suspected of supplying small boats to people smugglers arrested](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
+    
+    [![Aerial view of Dublin, Ireland, at night.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Aerial view of Dublin, Ireland, at night.")
+    
+    ![Aerial view of Dublin, Ireland, at night.](https://static.euronews.com/articles/stories/08/85/38/64/368x207_cmsv2_d01b7dfe-6c48-5d62-a33a-532812f4c34f-8853864.jpg "Aerial view of Dublin, Ireland, at night.")](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
+    
+    Now playing Next
+    
+    [Economy](https://www.euronews.com/business/economy)
+    
+    ### [Irish economy likely to lag in 2024 as multinational sector declines](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -317,6 +317,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -336,7 +338,6 @@ Partner content
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
-* [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
 * [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
@@ -362,62 +363,62 @@ Close menu sidebar
 
 Trending
 
-* [US presidential election 2024](https://www.euronews.com/tag/us-elections-2024)
-* [Donald Trump](https://www.euronews.com/tag/donald-trump)
-* [Kamala Harris](https://www.euronews.com/tag/kamala-harris)
-* [Election results](https://www.euronews.com/tag/election-results)
-* [European Commission](https://www.euronews.com/tag/eu-commission)
+* [COP29](https://www.euronews.com/tag/cop29)
+* [Spain](https://www.euronews.com/tag/spain)
+* [Climate crisis](https://www.euronews.com/tag/climate-crisis)
 * [EU Policy](https://www.euronews.com/tag/eu-policy)
+* [Protests](https://www.euronews.com/tag/protestas)
+* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
 
 * * *
 
 Latest stories
 
-[![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")
+[![A design showing a technology infrastructure concept.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A design showing a technology infrastructure concept.")
 
-![A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.](https://static.euronews.com/articles/stories/08/83/56/60/368x207_cmsv2_3c7f790b-d081-509e-a111-262433d5c0de-8835660.jpg "A demonstrator holds an Israeli flag during a protest in response to the surprise dismissal of Defence Minister Yoav Gallant, Tel Aviv, Israel, 05.11.2024.")](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
+![A design showing a technology infrastructure concept.](https://static.euronews.com/articles/stories/08/85/41/14/368x207_cmsv2_483e2fab-72fe-5cc9-bc18-1c8ef8a4123a-8854114.jpg "A design showing a technology infrastructure concept.")](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
 
 Now playing Next
 
-[No Comment](https://www.euronews.com/nocomment)
+[Tech News](https://www.euronews.com/next/tech-news)
 
-### [No Comment. Anti-government protests in Israel](https://www.euronews.com/video/2024/11/06/no-comment-massive-protests-against-the-government-in-israel)
+### [US government releases guidelines for AI in critical infrastructure](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
 
 * * *
 
-[![The British Museum celebrates Picasso’s lesser-known printmaking legacy](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "The British Museum celebrates Picasso’s lesser-known printmaking legacy")
+[![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")
 
-![The British Museum celebrates Picasso’s lesser-known printmaking legacy](https://static.euronews.com/articles/stories/08/83/58/80/368x207_cmsv2_6612e37a-fb58-5e28-9af1-8aebce82e9a6-8835880.jpg "The British Museum celebrates Picasso’s lesser-known printmaking legacy")](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
+![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](https://static.euronews.com/articles/stories/08/85/36/94/368x207_cmsv2_6158ec52-50de-537e-a1fd-d6575521f7b8-8853694.jpg "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
 
 Now playing Next
 
-[Art](https://www.euronews.com/culture/art)
+[World News](https://www.euronews.com/programs/world)
 
-### [Never-seen-before Picasso prints go on display at British Museum](https://www.euronews.com/culture/2024/11/06/pablo-picassos-lesser-known-prints-take-centre-stage-in-new-british-museum-exhibition)
+### [Heavy Israeli airstrikes hit southern suburbs of Beirut](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
 
 * * *
 
-[![US Presidential election winner Donald Trump, left, with JD Vance right. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "US Presidential election winner Donald Trump, left, with JD Vance right. ")
+[![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")
 
-![US Presidential election winner Donald Trump, left, with JD Vance right. ](https://static.euronews.com/articles/stories/08/83/61/12/368x207_cmsv2_465f179c-06d8-5dd5-af4f-13fc24983584-8836112.jpg "US Presidential election winner Donald Trump, left, with JD Vance right. ")](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
+![File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.](https://static.euronews.com/articles/stories/08/85/39/38/368x207_cmsv2_f34371ca-02e5-53da-a84a-31aac5164967-8853938.jpg "File photo: A group of migrants wait to come ashore at Dover marina in Kent, England, after a small boat incident in the English Channel, Sept. 22, 2020.")](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
 
 Now playing Next
 
-[Green News](https://www.euronews.com/green/green-news)
+[Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [What does Trump’s win mean for global climate action?](https://www.euronews.com/green/2024/11/06/drill-baby-drill-what-trumps-victory-could-mean-for-the-future-according-to-climate-expert)
+### [Man suspected of supplying small boats to people smugglers arrested](https://www.euronews.com/my-europe/2024/11/15/man-suspected-of-supplying-small-boats-to-people-smugglers-arrested-in-the-netherlands)
 
 * * *
 
-[![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")
+[![Aerial view of Dublin, Ireland, at night.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Aerial view of Dublin, Ireland, at night.")
 
-![Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.](https://static.euronews.com/articles/stories/08/83/60/76/368x207_cmsv2_62f6ac36-bc86-547e-ac53-916d176d0866-8836076.jpg "Russian President Vladimir Putin greets North Korean Foreign Minister Choe Son Hui during their meeting at the Kremlin in Moscow, Russia, 4 November 2024.")](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
+![Aerial view of Dublin, Ireland, at night.](https://static.euronews.com/articles/stories/08/85/38/64/368x207_cmsv2_d01b7dfe-6c48-5d62-a33a-532812f4c34f-8853864.jpg "Aerial view of Dublin, Ireland, at night.")](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
 
 Now playing Next
 
-[Russia](https://www.euronews.com/news/europe/russia)
+[Economy](https://www.euronews.com/business/economy)
 
-### [Russia-North Korea treaty signed amid Pyongyang troops joining fight](https://www.euronews.com/2024/11/06/russia-and-north-korea-sign-off-military-alliance-amid-pyongyang-troops-entering-the-fray)
+### [Irish economy likely to lag in 2024 as multinational sector declines](https://www.euronews.com/business/2024/11/15/irelands-economy-likely-to-lag-in-2024-as-multinational-sector-declines)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -672,6 +673,8 @@ More
 
 Special coverage
 
+* [Climate](https://www.euronews.com/special/climate)
+* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -691,7 +694,6 @@ Partner content
 * [Digital Garden City Nation](https://www.euronews.com/partnercontent/world/pmo-japan/)
 * [Experience Brazil](https://www.euronews.com/partnercontent/embratur/experience-brazil/EN-index.html)
 * [Galaxy Brain Investor](https://www.euronews.com/partnercontent/capital/galaxy-brain-investor/EN-index.html)
-* [Ron Barceló](https://www.euronews.com/partnercontent/ron-barcelo/first-ecologic-rum-of-dominican-republic/EN-index.html)
 * [Securing the future](https://www.euronews.com/partnercontent/intel/securing-the-future/EN-index.html)
 * [Sparkle](https://www.euronews.com/partnercontent/sparkle/your-world-connected/EN-index.html)
 * [Turkmenistan – Our story](https://www.euronews.com/partnercontent/turkmenistan/our-story/EN-index.html)
