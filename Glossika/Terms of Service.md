@@ -154,7 +154,7 @@ Company
 
 Recent Posts
 
-[Italian Basics: What You Need to Know About Verbs](https://ai.glossika.com/blog/italian-basics-of-verbs "blog") [The Diverse Voices of Korea: An Exploration of South Korean Dialects](https://ai.glossika.com/blog/the-diverse-voices-of-korea-an-exploration-of-south-korean-dialects "blog") [Polyglot Interviews: Insights into Language Learning](https://ai.glossika.com/blog/polyglot-conversations-insights-for-language-learning "blog") [Read More →](https://ai.glossika.com/blog "blog")
+[Australian student on learning Chinese by himself](https://ai.glossika.com/blog/matthews-story "blog") [Italian Basics: What You Need to Know About Verbs](https://ai.glossika.com/blog/italian-basics-of-verbs "blog") [The Diverse Voices of Korea: An Exploration of South Korean Dialects](https://ai.glossika.com/blog/the-diverse-voices-of-korea-an-exploration-of-south-korean-dialects "blog") [Read More →](https://ai.glossika.com/blog "blog")
 
 Get the latest news and updates!
 
