@@ -29,7 +29,7 @@ Terms of Use
 
 * * *
 
-_Last updated: October 25, 2024_
+_Last updated: November 15, 2024_
 
 **IMPORTANT NOTICE: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION AGREEMENT AND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 13.**
 
@@ -598,7 +598,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-463326)
+Don’t have an account? [Sign up](#sign-up-163934)
 
 Sign up for an account
 
@@ -616,7 +616,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-463326)
+Already have an account? [Sign in](#sign-in-163934)
 
 Log in to your account
 
@@ -636,7 +636,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-940757)
+Don’t have an account? [Sign up](#sign-up-592969)
 
 Sign up for an account
 
@@ -654,7 +654,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-940757)
+Already have an account? [Sign in](#sign-in-592969)
 
 Success
 
