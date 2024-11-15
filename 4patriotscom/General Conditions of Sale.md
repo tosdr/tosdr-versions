@@ -240,7 +240,7 @@ Search
     
     $50 Off Freedom Fridge](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
     
-    $85 Off 95-Piece Car Kit](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
+    $80 Off 95-Piece Car Kit](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
