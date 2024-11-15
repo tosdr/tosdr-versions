@@ -205,24 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Indiaparenting](https://www.somethingawful.com/weekend-web/indiaparenting/1/)
-* [Lost Comics of the Golden Age](https://www.somethingawful.com/news/golden-age-comics/1/)
-* [reCAPTCHA 2!](https://www.somethingawful.com/photoshop-phriday/recaptcha-recaptcha2-paint/1/)
-* [Games & Toys Made Less Fun](https://www.somethingawful.com/photoshop-phriday/games-toys-fun/1/)
-* [Recalled Foods](https://www.somethingawful.com/photoshop-phriday/recalled-foods/1/)
+* [Thomas Edison, Inventor Of Jerkicity](https://www.somethingawful.com/news/edison-jerk-elephant/)
+* [@graeyalien's Graeytest Hits](https://www.somethingawful.com/twitter-tuesday/tt06-05-12/1/)
+* [I Hate You Page 156](https://www.somethingawful.com/cliff-yablonski/i-hate-you-156/)
+* [I Hate You Page 131](https://www.somethingawful.com/cliff-yablonski/i-hate-you-131/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Tips for handling politicals during the holidays](http://forums.somethingawful.com/showthread.php?threadid=4075400 "Tips for handling politicals during the holidays")
 
 ### Random Articles
 
-* [Proposition 43](https://www.somethingawful.com/news/proposition-43/1/)
-* [Avast, It Be Sunday!](https://www.somethingawful.com/news/avast-be-sunday/)
-* [Lair Flair!](https://www.somethingawful.com/news/monstergeddon-lair-flair/1/)
-* [Gewgaw and the Salami Swami](https://www.somethingawful.com/daily-dirt/gewgaw-salami-swami/)
-* [Leonard Crabs' Carnival of Savings!](https://www.somethingawful.com/feature-articles/leonard-crabs-carnival/1/)
+* [The Tiger King and I: Part 6 - Cuba and Other Places Than These](https://www.somethingawful.com/news/tiger-king6/)
+* [Garfield: A Week of Garfield](https://www.somethingawful.com/rom-pit/garfield-week-garfield/)
+* [There is Nothing to Wink But Wink Itself](https://www.somethingawful.com/news/there-nothing-wink/)
+* [I think I've invented a new genre of fanfiction](https://www.somethingawful.com/comedy-goldmine/think-ive-invented/1/)
+* [Retro SWAT](https://www.somethingawful.com/fashion-swat/retro-swat/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
