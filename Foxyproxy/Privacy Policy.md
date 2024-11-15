@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-The service was great, no issues at all with the VPNs - they worked each time and I had no problems accessing the geo-blocked content. If I need VPNs in the future (or any of my friends/family need one) you will hear from me :)
+Your service is always most pleasing :D
 
-Michael Belos
+G. A. Murdoch
