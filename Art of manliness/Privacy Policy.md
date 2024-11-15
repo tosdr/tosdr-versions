@@ -115,6 +115,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 * [Health](https://www.artofmanliness.com/health-fitness/health/)
 * [Program Review](https://www.artofmanliness.com/health-fitness/program-review/)
 
+[![Illustration of a person performing a barbell lift. Start with the bar just above knees in an RDL position, grip outside knees, take two steps back, and stand tall with chest out. Know Your Lifts to ensure proper form and maximize efficiency in your Romanian Deadlift routine.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/know-your-lifts-the-romanian-deadlift-rdl/)
+
+[Know Your Lifts: The Romanian Deadlift (RDL)](https://www.artofmanliness.com/health-fitness/fitness/know-your-lifts-the-romanian-deadlift-rdl/)
+
 [![Cartoon of a muscular man perfecting his leg press techniques while wearing a green tank top and red shoes.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
 
 [Leg Press Like a Pro: Tips, Techniques, and Mistakes to Avoid](https://www.artofmanliness.com/health-fitness/fitness/leg-press/)
@@ -126,10 +130,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![As morning light kisses the grassy field, a person, seemingly born to run, glides effortlessly through nature's embrace. With hills and trees painting the horizon, each step syncs with the rhythm of their internal podcast of thoughts and dreams.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
 
 [Podcast #1,021: You Were Born to Run](https://www.artofmanliness.com/health-fitness/fitness/podcast-1021-you-were-born-to-run/)
-
-[![A man performs a bicep curl with a dumbbell on a beach while wearing shorts and a weightlifting belt, showcasing his dedication to fitness. Several people are in the background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
-
-[Bro Splits: Are They Right For You?](https://www.artofmanliness.com/health-fitness/fitness/bro-splits/)
 
 [![A clock resembling a white plate has black fork and knife hands, and a red second hand, set against a dark blue background.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
 
@@ -256,6 +256,10 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 
 [How to Tie a Lasso](https://www.artofmanliness.com/skills/how-to/how-to-tie-a-lasso/)
 
+[![A cartoon illustration of a man throwing a punch at another man.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/3-ways-to-throw-an-elbow-strike/)
+
+[Skill of the Week: Throw a Devastating Elbow Strike](https://www.artofmanliness.com/skills/manly-know-how/3-ways-to-throw-an-elbow-strike/)
+
 [![Illustration of hands demonstrating the skill of the week: precisely holding one match, lit and glowing, near a matchbox adorned with a barcode.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-light-a-fire-with-just-one-match/)
 
 [Skill of the Week: Light a Fire With Just One Match](https://www.artofmanliness.com/skills/manly-know-how/how-to-light-a-fire-with-just-one-match/)
@@ -267,10 +271,6 @@ Menu [![logo](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lo
 [![Illustration of a sneaker pressing lightly on a brake pedal with a red arrow indicating upward movement of the foot, showcasing Car Brake Safety.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-if-your-brakes-go-out/)
 
 [Skill of the Week: Handle Your Car’s Brakes Going Out](https://www.artofmanliness.com/skills/manly-know-how/what-to-do-if-your-brakes-go-out/)
-
-[![Illustration of a man with a headband, reminiscent of Mr. Miyagi, deftly holding a small object between chopsticks against a red background—perfect for Skill of the Week.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
-
-[Skill of the Week: Use Chopsticks Like Mr. Miyagi](https://www.artofmanliness.com/skills/manly-know-how/how-to-use-chopsticks-like-mr-miyagi/)
 
 [![An illustration of a bald man holding a pipe, demonstrating how to siphon fuel.](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/lazy.gif)](https://www.artofmanliness.com/skills/outdoor-survival/how-to-siphon-fuel/)
 
@@ -649,6 +649,18 @@ I agree to the [privacy policy](#) terms.
 
 ![podcast](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-2.jpg)
 
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/living/food-drink/podcast-1038-the-art-and-spirituality-of-bread/)
+
+[Podcast #1,038
+
+###### The Art and Spirituality of Bread](https://www.artofmanliness.com/living/food-drink/podcast-1038-the-art-and-spirituality-of-bread/)
+
+[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1037-an-undercover-cops-tips-on-how-to-influence-others-and-navigate-life/)
+
+[Podcast #1,037
+
+###### An Undercover Cop’s Tips on How to Influence Others and Navigate Life](https://www.artofmanliness.com/character/behavior/podcast-1037-an-undercover-cops-tips-on-how-to-influence-others-and-navigate-life/)
+
 [![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/health-fitness/health/podcast-1036-when-to-eat-the-optimal-schedule-for-metabolic-health/)
 
 [Podcast #1,036
@@ -660,18 +672,6 @@ I agree to the [privacy policy](#) terms.
 [Podcast #1,035
 
 ###### A Bible for Heroes — The Influential Book Read By History’s Eminent Men](https://www.artofmanliness.com/character/knowledge-of-men/podcast-plutarchs-lives/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/character/behavior/podcast-1034-are-you-a-thrill-seeker-or-a-chill-seeker/)
-
-[Podcast #1,034
-
-###### Are You a Thrill Seeker or a Chill Seeker?](https://www.artofmanliness.com/character/behavior/podcast-1034-are-you-a-thrill-seeker-or-a-chill-seeker/)
-
-[![podcast icon](https://www.artofmanliness.com/wp-content/themes/aom/assets/img/podcast-icon.jpg)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
-
-[Podcast #1,033
-
-###### Ouch! That Stings! Why Rejection Hurts So Much (And How to Deal With It)](https://www.artofmanliness.com/people/relationships/podcast-1033-ouch-that-stings-why-rejection-hurts-so-much-and-how-to-deal-with-it/)
 
 [View all](https://www.artofmanliness.com/podcast/)
 
