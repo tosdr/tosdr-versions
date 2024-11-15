@@ -321,12 +321,6 @@ News
 
 Der neue Homematic IP Heizkörperthermostat – pure: der ideale Energiesparhelfer für den Winter](https://homematic-ip.com/de/news/heizkoerperthermostat-pure-minimalistisches-design)
 
- [![](/sites/default/files/styles/thumbnail/public/images/teaser-hydraulischer-abgleich.jpg.webp?itok=wTOV4CJx)
-
-News
-
-TÜV Rheinland zertifiziert den automatischen hydraulischen Abgleich mit Homematic IP](https://homematic-ip.com/de/news/tuev-zertifiziert-automatischen-hydraulischen-abgleich)
-
 [Nov.
 
 14-16
