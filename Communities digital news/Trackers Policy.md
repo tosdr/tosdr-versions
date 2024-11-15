@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-obama-dnc-1200x630.jpg)](https://americanwirenews.com/secret-service-agent-fired-for-sneaking-girlfriend-to-obamas-beach-house-bathroom-to-use-as-mile-high-club/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pelosi-1200x630.jpg)](https://americanwirenews.com/pelosi-could-be-looking-at-a-2026-comeback-to-wash-the-away-humiliation-of-biden-coup/)
 
-[Secret Service agent fired for sneaking girlfriend to Obama’s beach house bathroom to use as ‘mile high club’](https://americanwirenews.com/secret-service-agent-fired-for-sneaking-girlfriend-to-obamas-beach-house-bathroom-to-use-as-mile-high-club/)
+[Pelosi could be looking at a 2026 comeback to wash the away humiliation of Biden coup](https://americanwirenews.com/pelosi-could-be-looking-at-a-2026-comeback-to-wash-the-away-humiliation-of-biden-coup/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/08/sg-rachel-zegler-1200x630.jpg)](https://americanwirenews.com/snow-white-woke-reboot-actress-wishes-ill-on-trump-supporters/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-muskint1200-x-628-1200x630.jpg)](https://americanwirenews.com/musk-led-doge-taking-applications-recruiting-super-high-iq-small-government-revolutionaries/)
 
-[Snow White ‘woke’ reboot actress wishes ill on Trump supporters](https://americanwirenews.com/snow-white-woke-reboot-actress-wishes-ill-on-trump-supporters/)
+[Musk-led DOGE taking applications, recruiting ‘super high-IQ small-government revolutionaries’](https://americanwirenews.com/musk-led-doge-taking-applications-recruiting-super-high-iq-small-government-revolutionaries/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-natalie-harp-1200x630.jpg)](https://americanwirenews.com/woman-dubbed-trumps-human-printer-became-one-of-his-most-important-allies-with-an-inspirational-story/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chucksch-1200-x-628-1200x630.jpg)](https://americanwirenews.com/schumer-ramming-through-bidens-extremist-judges-while-he-still-can/)
 
-[Woman dubbed Trump’s ‘human printer’ became one of his most important allies with an inspirational story](https://americanwirenews.com/woman-dubbed-trumps-human-printer-became-one-of-his-most-important-allies-with-an-inspirational-story/)
+[Schumer ramming through Biden’s extremist judges while he still can](https://americanwirenews.com/schumer-ramming-through-bidens-extremist-judges-while-he-still-can/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-eva-longoria-1200x630.jpg)](https://americanwirenews.com/eternally-ignorant-leftist-eva-longoria-leaves-dystopian-u-s-after-trump-win-rips-homelessness-and-taxes/)
+[![](https://americanwirenews.com/wp-content/uploads/2022/07/SG-Jan-6-Protest-1200x630.jpg)](https://americanwirenews.com/judges-postpone-j6-trials-but-feds-still-making-arrests/)
 
-[‘Eternally ignorant’: Leftist Eva Longoria leaves ‘dystopian’ U.S. after Trump win, rips ‘homelessness’ and ‘taxes’](https://americanwirenews.com/eternally-ignorant-leftist-eva-longoria-leaves-dystopian-u-s-after-trump-win-rips-homelessness-and-taxes/)
+[Judges postpone J6 trials but feds still making arrests](https://americanwirenews.com/judges-postpone-j6-trials-but-feds-still-making-arrests/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-trump-flag-utah-1200x630.jpg)](https://americanwirenews.com/police-hunt-madman-terrorizing-neighborhood-by-cutting-down-trump-american-flags/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jordan-1200x630.jpg)](https://americanwirenews.com/jim-jordan-explains-whats-going-on-says-ethics-committee-report-on-matt-gaetz-should-not-go-public/)
 
-[Police hunt madman terrorizing neighborhood by cutting down Trump, American flags](https://americanwirenews.com/police-hunt-madman-terrorizing-neighborhood-by-cutting-down-trump-american-flags/)
+[Jim Jordan explains what’s going on, says Ethics Committee Report on Matt Gaetz ‘should not go public’](https://americanwirenews.com/jim-jordan-explains-whats-going-on-says-ethics-committee-report-on-matt-gaetz-should-not-go-public/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/gettyimages-2183862554-1-1200x630.jpg)](https://americanwirenews.com/blinken-biden-is-committed-to-making-sure-every-dollar-we-have-at-our-disposal-goes-to-ukraine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dunleavy-1200x630.jpg)](https://americanwirenews.com/trash-talking-teacher-who-threatened-maga-voters-starts-bawling-when-forced-to-resign/)
 
-(Photo by NICOLAS TUCAT/POOL/AFP via Getty Images)
+[‘Trash-talking’ teacher who threatened MAGA voters starts bawling when forced to resign](https://americanwirenews.com/trash-talking-teacher-who-threatened-maga-voters-starts-bawling-when-forced-to-resign/)
 
-[‘Another giant FU’: Blinken flatly states where every available dollar will go before Trump takes office](https://americanwirenews.com/blinken-biden-is-committed-to-making-sure-every-dollar-we-have-at-our-disposal-goes-to-ukraine/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sylvester-stallone-1200x630.jpg)](https://americanwirenews.com/sly-stallones-epic-introduction-of-trump-at-huge-mar-a-lago-gala-where-trump-makes-lib-triggering-proposal/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-mccarthy-1200x630.jpg)](https://americanwirenews.com/mccarthy-adamant-gaetz-wont-be-confirmed-federalists-sean-davis-floats-interesting-twist-if-hes-right/)
+[Sly Stallone’s epic introduction of Trump at huge Mar-a-Lago gala where Trump makes lib-triggering proposal](https://americanwirenews.com/sly-stallones-epic-introduction-of-trump-at-huge-mar-a-lago-gala-where-trump-makes-lib-triggering-proposal/)
 
-[McCarthy adamant Gaetz won’t be confirmed, Federalist’s Sean Davis floats ‘interesting’ twist if he’s right](https://americanwirenews.com/mccarthy-adamant-gaetz-wont-be-confirmed-federalists-sean-davis-floats-interesting-twist-if-hes-right/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nikki-haley-2-1200x630.jpg)](https://americanwirenews.com/nikki-haley-says-she-turned-down-a-cabinet-position-after-he-sent-team-asking-her-for-a-truce/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-woman-tearing-up-order-1200x630.jpg)](https://americanwirenews.com/woman-jailed-for-keeping-salon-open-during-covid-just-won-a-seat-in-texas-house/)
+[Nikki Haley says she turned down a Cabinet position after Trump sent team asking her for a ‘truce’](https://americanwirenews.com/nikki-haley-says-she-turned-down-a-cabinet-position-after-he-sent-team-asking-her-for-a-truce/)
 
-[Woman jailed for keeping salon open during Covid just won a seat in Texas House](https://americanwirenews.com/woman-jailed-for-keeping-salon-open-during-covid-just-won-a-seat-in-texas-house/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-aoccnn1-1200-x-628-1200-x-628-1200x630.jpg)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/06/sg-pete-hegseth-1200x630.png)
-
-### Ex-Fox host ‘stunned’ by Trump’s Pete Hegseth appointment: ‘Yes he’s a veteran… and?’](https://americanwirenews.com/ex-fox-host-stunned-by-trumps-pete-hegseth-appointment-yes-hes-a-veteran-and/)
+### Did Dems’ electoral spanking knock the pronouns right out of AOC? X users notice something missing](https://americanwirenews.com/did-dems-electoral-spanking-knock-the-pronouns-right-out-of-aoc-x-users-notice-something-missing/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
