@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Jim Reeves](https://cdn.returningveterans.org/images/honor/Jim_Reeves.JPG)  
+![Brian Radke](https://cdn.returningveterans.org/images/honor/4_Brian_Radke.png)  
 
-**In Honor of Jim Reeves**  
+**In Honor of Brian Radke**  
 United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+Submitted by Alan and Brenda Gardner](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -211,7 +211,7 @@ Returning Veterans Project
 * [](https://www.instagram.com/returningveteransproject/ "See what we're up to on Instagram")
 * [_Subscribe to Our Newsletter_](https://returningveterans.org/about/stay-connected/stay-connected/534)
 
-[Candid Platinum Transparency 2024](https://www.guidestar.org/profile/20-4034255)
+[Candid Platinum Transparency 2024](https://www.guidestar.org/profile/shared/5a232879-fb80-4489-a1d0-9232f305cb0a)
 
 [![America's Warrior Partnership](https://cdn.returningveterans.org/images/site/logo-awp.png)](https://www.americaswarriorpartnership.org/community-integration)
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/15/24 - 7:40:29  
+Printed 11/15/24 - 1:27:40  
 © 2024 Returning Veterans Project
