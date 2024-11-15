@@ -81,7 +81,7 @@ Javascript is required to view this site.
 | --- |
 |     |
 | [FAQ](https://www.pirate101.com/free_game/faq) |
-| [Quick Start Guide](https://edgecast.pirate101.com/file/free/Pirate/Images/P101-Quickstart.jpg) |
+| [Quick Start Guide](https://edgecast.pirate101.com/file/free/Pirate/Images/P101-Quickstart.jpg?v=8) |
 | [Player's Guide](https://www.pirate101.com/free_game/players_guide) |
 | [System Reqs](https://www.pirate101.com/free_game/system_requirements) |
 | [Discord Chat](https://discord.gg/pirate101) |
@@ -225,7 +225,7 @@ The terms related to protection of the Company’s intellectual property rights,
   
 The Company’s failure to insist upon or enforce strict performance of any provision of these Terms of Use shall not constitute a waiver of the provision. Neither a course of dealing or conduct between you and the Company nor any trade practices shall be deemed to modify these Terms of Use.
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=NGPCt4C0XlfEvJb8RB8qeWqsqirMV2zJkwFCGx5YO042aDnOw4p%2Fc78rd3DHoB9waNhLXyZoVpLdvBGiRzoHx2dFEclOXzldghxYjrt1B88Lr4yNERv%2BLJOZgoH7W4XO)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=Wf4vemhdPfSSTgUY8jeCtZ9W9EZXfboo8JedxMjsocJHOoN3F6NlyOaPkvrJQRwl%2BEOfurh1NsiwJF0UCN6yMPY6P2tvMYETeaAd7Po7mkxxJwmq4i%2BQKspGYkc%2BuJVV)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
