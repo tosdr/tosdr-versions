@@ -292,19 +292,19 @@ Please report any violations of the TOS to us from [here.](https://www.pdfdrive.
 * [![Biography](/assets/img/cat/16.jpg,q1.pagespeed.ce.zwzmmHmCkd.jpg "Biography")
     
     Biography](https://www.pdfdrive.com/category/16)
-* [![Business & Career](/assets/img/cat/3.jpg?1 "Business & Career")
+* [![Business & Career](/assets/img/cat/3.jpg,q1.pagespeed.ce.aSeZkTbnd7.jpg "Business & Career")
     
     Business & Career](https://www.pdfdrive.com/category/3)
 * [![Children & Youth](/assets/img/cat/17.jpg,q1.pagespeed.ce.bADb2_dTk7.jpg "Children & Youth")
     
     Children & Youth](https://www.pdfdrive.com/category/17)
-* [![Environment](/assets/img/cat/18.jpg?1 "Environment")
+* [![Environment](/assets/img/cat/18.jpg,q1.pagespeed.ce.vjPjtEIVKT.jpg "Environment")
     
     Environment](https://www.pdfdrive.com/category/18)
 * [![Fiction & Literature](/assets/img/cat/11.jpg,q1.pagespeed.ce.DGFb-dl2_M.jpg "Fiction & Literature")
     
     Fiction & Literature](https://www.pdfdrive.com/category/11)
-* [![Health & Fitness](/assets/img/cat/8.jpg?1 "Health & Fitness")
+* [![Health & Fitness](/assets/img/cat/8.jpg,q1.pagespeed.ce.OuzH2mMuOP.jpg "Health & Fitness")
     
     Health & Fitness](https://www.pdfdrive.com/category/8)
 * [![Lifestyle](/assets/img/cat/19.jpg,q1.pagespeed.ce.HauFtH45bw.jpg "Lifestyle")
