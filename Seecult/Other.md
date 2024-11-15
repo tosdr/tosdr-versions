@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike/crtez-011.jpg?itok=pP3t5zr5)](http://seecult.org/galerija/galerija-umetnika/tadija-janicic/crtezi-i-slike)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume/u-ogledalu.jpg?itok=kyhcfUHJ)](http://seecult.org/galerija/galerija-umetnika/boris-radivojkov/fotografije-iz-sume)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/bambi-molesters.jpg?itok=a3CdSSQt)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5129.jpg?itok=9h06_pl4)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
