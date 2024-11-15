@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/hautaine-bol-com-censuur-wegwezen-daar/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/duurzaam/wnf-kom-voor-de-dag-met-de-waarheid/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
