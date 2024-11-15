@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Fri, Nov 08, 2024
+Fri, Nov 15, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,12 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
-    * [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
-    * [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
-    * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
-    * [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
-    * [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+    * [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
+    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
+    * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
+    * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+    * [Haka Dance](https://www.news18.com/world/new-zealand-mp-performs-traditional-haka-dance-in-parliament-rips-up-copy-of-indigenous-treaty-bill-9120896.html)
+    * [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
+    * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -169,12 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Ind vs SA Live Score](https://www.news18.com/cricket/india-vs-south-africa-live-score-today-1st-t20i-ind-sa-match-updates-scorecard-commentary-coverage-suryakumar-yadav-hardik-pandya-sanju-samson-liveblog-9113652.html)
-* [Saree Cancer](https://www.news18.com/india/saree-cancer-and-petticoat-cancer-causes-symptoms-and-prevention-9111961.html)
-* [Canada Temple Attack](https://www.news18.com/world/hindu-temple-attacks-in-canada-were-planned-meticulously-supported-by-state-intelligence-sources-9112415.html)
-* [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-makes-rare-comment-on-son-robin-maa-ne-kuch-sikhaya-nahi-9112780.html)
-* [Nitin Chauhaan](https://www.news18.com/movies/mtv-splitsvilla-5-and-tera-yaar-hoon-main-fame-nitin-chauhaan-passes-away-at-35-9112980.html)
-* [Elon Musk](https://www.news18.com/world/elon-musk-justin-trudeau-future-prediction-he-will-be-gone-trump-canada-latest-news-9112978.html)
+* [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
+* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
+* [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
+* [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+* [Haka Dance](https://www.news18.com/world/new-zealand-mp-performs-traditional-haka-dance-in-parliament-rips-up-copy-of-indigenous-treaty-bill-9120896.html)
+* [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
+* [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -185,120 +187,109 @@ In Trends:
 
 [](#)
 
-Cookie Policy
-=============
+News18 Cookie Policy
+====================
 
-Last Updated: 5th June 2023
+Network18 Media & Investments Limited, having its registered office at First Floor, Empire Complex, 414, Senapati Bapat Marg, Lower Parel, Mumbai – 400013, India (“we”, “us”, “our”, “Network18”, “News18”) is committed to protecting the privacy and security of your personal data, your privacy is important to us. We are committed to being transparent about the technologies we use while making the website (“Website”).
+
+This Cookie Policy (“Policy”) applies to the Website that links to this Policy offered by us to all individuals (“you”, “your”, “user”). We use cookies to provide you our services (“Services”) and improve your experience of the Website.
+
+This Policy explains how and why we use cookies and the choices you have. This Policy describes the usage of the data captured using cookies which we collect from you when you access or use the Website.
+
+Before using our Website or availing any of our products and/or services, you are advised to carefully read the Privacy Policy of our Website. Except otherwise stated in this Policy, the Privacy Policy shall govern the way we collect and process data via cookies. By visiting and/or using our Website, you are consenting to the collection, use and storage of cookies in the manner as set forth in this Policy.
+
+1\. WHAT ARE COOKIES?
+---------------------
+
+A cookie is a small text file that the Website saves on your computer or mobile, tablet or any other devices (“Device”) when you visit the Website, to the extent you agree to the same. It enables the Website to remember your actions and preferences (such as login, language, location, and other display preferences) over a period, so you don’t have to keep re-entering them whenever you re-visit the Website or browse different pages, thereby making your next visit easier and to identify and learn more about your interests. This allows our Website to uniquely identify your device from those of other users of the Website.
+
+2\. WHY DO WE NEED COOKIES?
 ---------------------------
 
-Network18 Media and Investments Ltd. (“we”, “us”) understands that privacy is important to the data subject (“you”, “your”, “user”, “subscriber”) and we are committed to being transparent about the technologies we use. This Cookie Policy explains how and why cookies and other similar technologies may be stored on and accessed from your device when you use or visit the Our Websites that post a link to this Policy (collectively, “the Sites”). This Cookie Policy should be read together with our Privacy Policy.
+We use cookies to offer you a more tailored experience by understanding and remembering your browsing preferences. We use cookies for various purposes such as:
 
-What are cookies and other tracking technologies?
--------------------------------------------------
+* To provide you with our services and offer better browsing experience;
+* Make this Website and its content available to you and to further optimize & develop it;
+* To provide non-personalized or personalized advertisements;
+* Identify and distinguish between a human and bot;
+* To identify Your browser and device;
+* To perform analytics and research based on aggregate data;
+* For fraud detection and prevention;
+* To measure and analyze the audience for each page in order to subsequently improve the browsing, or visibility of content;
+* To measure the reliability of Our Website by analyzing the number of visits to its pages in real time, and offer varied ads that are adapted to users’ areas of interest;
+* To detect unauthorized access to Website and minimize blocking of legitimate users.
 
-A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login, language, and font size and other display preferences) over a period of time, so you don’t have to keep re-entering them whenever you re-visit the site or browse different pages. The other tracking technologies (e.g. web beacons, pixels, sdk files, scripts) work in a manner similar to the working of cookies and place small data files on your devices to monitor your website activity and enable us to collect information about how you use Our Websites. This allows Our Websites to uniquely identify your device from those of other users of the websites. The information about cookies provided below also applies to the other tracking technologies.
+3\. HOW LONG DO COOKIES STAY ON YOUR DEVICE?
+--------------------------------------------
 
-How do we use cookies and other tracking technologies?
-------------------------------------------------------
+We do not store data for longer than is necessary to fulfil the purposes covered herein. A number of cookies we use last only for the duration of your web session and expire when you close your browser or exit the Website. Others are used to remember you when you return to the Website and will last depending on the purpose.
 
-We use cookies to collect and store information when you visit our website and use the website’s services. We use cookies for various purposes such as:  
-a. To provide subscription services  
-b. To provide non-personalized or personalized advertisements  
-c. To identify your location  
-d. To identify your browser and device  
-e. For analytics and research,  
-f. To measure and analyze the audience for each page in order to subsequently improve the ergonomics, browsing, or visibility of content;  
-g. To measure the reliability of Our Websites by analyzing the number of visits to its pages in real time, and offer varied ads that are adapted to users’ areas of interest;  
+4\. TYPES OF COOKIES
+--------------------
 
-Cookies may also be saved by social media tools if you use these functionalities (e.g. Facebook, Google, & Twitter).
+1. **First–Party Cookies:**
+    
+    These cookies are set by the Website and only that Website can read them. They are also called internal cookies. For example, first-party cookies can keep you logged in as you navigate through different pages or remember your language settings.
+    
+    Some of these cookies are necessary for proper functioning of our Website. You can opt-out of these cookies through your browser settings. If you choose to opt-out of these cookies, then we may not be able to provide you an optimum Website experience.
+    
+    Others are used for purposes such as analytics and performance. We identify these cookies before they are used so that you can decide whether you wish to accept them or not through the cookie banner that is provided when you visit the Website (for the first time and when the consent should be renewed) or through the cookie settings page at the bottom of every page of the Website.
+    
+2. **Third–Party Cookies:**
+    
+    These cookies are set by third parties when you access or use our Website and have a different domain to that of the Website you are visiting and they enable certain Website functionality, such as perform analytics, deliver personalized content to the users, etc.
+    
+    We identify these cookies before they are used so that you can decide whether you wish to accept them or not through the cookie banner that is provided when you visit the Website (for the first time and when the consent should be renewed) or through the cookie setting page at the bottom of every page of the Website
+    
 
-How long do cookies stay on your device?
+5\. WHAT CATEGORIES OF COOKIE DO WE COLLECT?
+--------------------------------------------
+
+We use the following categories of cookies to provide our services when you access our Website:
+
+| Sr. No. | Cookie Categories | Description | Example Parameters |
+| --- | --- | --- | --- |
+| 1   | Strictly Necessary | Essential for Website operation, enable basic functions like page navigation and access to secure areas | Session ID, akamai\_cdn\_url, etc. |
+| 2   | Performance | Collect data on how users interact with a Website, used to improve performance | Time to first byte, fcp, perf, etc. |
+| 3   | Functional | Allow Website to remember user choices and provide personalized features | User Language, User Preferences, CLID, etc. |
+| 4   | Advertisement | Used to deliver relevant ads to users, track ad campaign performance and limit ad exposure | Tracking ID, FCNEC, cid, audit, etc. |
+| 5   | Analytics | Help Website owners understand visitor interactions with the site by collecting data anonymously. | Cdn-Uid, X-Amz-Request-Id, etc. |
+
+6\. Your choices
+----------------
+
+You can choose to allow or block cookies, delete existing cookies, and set cookie preferences for the Website. We use cookies to personalize your experience when you interact with or use our services.
+
+Please note that blocking cookies may restrict us from providing certain website features, and your overall user experience may deteriorate. Furthermore, if your browser setting is already set to block all cookies, then some of the website features may not operate as intended. Please remember that updating browser’s cookie setting will apply to all websites you visit unless you choose to allow/block cookies from a particular Website.
+
+If you allow cookies through your browser or device, they will be readable only by their issuer. If you want to remove previously stored cookies, you can manually delete the cookies at any time through your browser’s cookie settings. However, this will not prevent the Website from placing further cookies on your device. You may choose to change your cookie preference at any time by updating your browser’s cookie settings. We recommend that you allow all cookies in order to provide you with a personalized experience on the website.
+
+7\. SAFEGUARDING THE PRIVACY OF CHILDREN
 ----------------------------------------
 
-We do not store information for longer than is necessary to fulfil the purposes covered herein. A number of cookies we use last only for the duration of your web session and expire when you close your browser. Others are used to remember you when you return to the Website and will last from 1 day to 2 years, depending on the purpose.
+We do not knowingly collect or solicit personal data from minors. Our products and/or services are not designed for any person who is under 18 years of age, and we do not knowingly permit such persons to register for products and/ or services or share data through any of the web forms without verifiable consent from minors’ parents or lawful guardians. Further, we do not undertake tracking or behavioral monitoring of children or targeted advertising directed at children.
 
-Type of Cookies
----------------
+If we learn that we have collected personal data from a minor without verified parental consent, we will erase such personal data.
 
-### First-party cookies
+If you believe that a child under 18 years may have provided us their personal data, please contact us on [dpo@nw18.com](mailto:dpo@nw18.com).
 
-These are the cookies that belong to us and that we place on your device or are those set by a website that is being visited by you at the time. These cookies will be used for tracking purposes for aggregated data.
+8\. CONTACT INFORMATION
+-----------------------
 
-### Third-party cookies
+If you have questions or comments regarding this Policy or for any other queries of your device data that we have collected and processed, please contact us using the contact details given in our [Privacy Policy](https://www.news18.com/privacy_policy/)
 
-These cookies are those that another party places on your device through our site (For e.g. advertising agencies may place their cookies on our website which will collect tracking information and serve you with advertisements).
+9\. CHANGES TO THIS COOKIE POLICY
+---------------------------------
 
-We use the following types of cookies:
---------------------------------------
+We reserve the right to change this Policy at our sole discretion at any time. Any material changes to this Policy will be posted on this page. We encourage you to review this Policy regularly for such changes. The updated Cookie Policy will take effect as soon as it has been updated.
 
-### Persistent Cookies
-
-We use persistent cookies to improve your experience of using the websites. This includes recording your acceptance of our Cookie Policy to remove the cookie message which first appears when you visit the Site.
-
-### Session Cookies
-
-Session Cookies are temporary and deleted from your device when your web browser closes. We use session Cookies to help us track internet usage as described above.
-
-You may refuse to accept browser Cookies by activating the appropriate setting on your browser. However, if you select this setting you may be unable to access certain parts of the website. Unless you have adjusted your browser setting so that it will refuse Cookies, our system will check if Cookies can be captured when you direct your browser to our website. We categorize cookies as follows:
-
-### Strictly Necessary/Technical
-
-These Cookies are necessary to allow us to operate our websites so you may access them as you have requested. These Cookies, for example, let us recognize that you have created an account and have logged in/out to access website content. They also include Cookies that enable us to remember your previous actions within the same browsing session and secure our websites.
-
-### Analytical/Performance
-
-These Cookies are used by us or third-party service providers to analyse how the websites are used and how they are performing. For example, these Cookies track what type of articles are most frequently visited and which locations we receive most of our visitors from. If you subscribe to a newsletter or otherwise register with the websites, these Cookies may be correlated to you. These Cookies include, for example, Google Analytics cookies.
-
-### Functionality
-
-These Cookies let us operate the websites in accordance with the choices you make. These Cookies permit us to "remember" you in-between visits. For instance, we will recognize your username and remember how you customized the Sites and services, for example by adjusting text size, fonts, languages and other parts of web pages that are alterable, and provide you with the same customizations during future visits.
-
-### Targeting or Advertising Cookies
-
-These cookies are used to deliver content that is more relevant to you and your interests. They are also used to deliver targeted advertising or limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaigns on our websites. They remember that you have visited one of our websites and this information is shared with other parties, including advertisers and our agencies. These cookies may also be linked to website functionality provided by third-parties.
-
-### Third-Party Cookies.
-
-We use a number of partners that may also set cookies on your device on our behalf when you visit our websites to allow them to deliver tailored advertising within their domains, for example Facebook and Google DoubleClick. We endeavour to identify these cookies before they are used so that you can decide whether you wish to accept them or not. We also use a number of partners to provide digital experiences and functionalities on our websites. For example, while browsing our websites you may be served cookies from third-parties who provide some of its features on Our Websites (e.g., a YouTube video), although you have withdrawn or declined your consent to our cookies. This happens because you have directly given your consent to the use of their cookies. In such cases, you should directly withdraw your consent on the relevant third-party website.
-
-Do these cookies collect personal data/identify me?
----------------------------------------------------
-
-Most types of cookies track consumers via their Device ID or IP address therefore they may collect personal data. Based on the type of cookies used by the relevant third-party, the information these cookies collect may include personal data but they may not be able to directly identify you as an individual or have any of your personal information such as Name, E-mail id or Mobile number.
-
-Your choices
-------------
-
-You have a choice on how we use cookies with respect to your use and access of our Services. Please note that if you limit our ability to use cookies, you may deteriorate your overall user experience of the Website, since it may no longer be personalized to you. It may also prohibit you from saving customized settings like your login information. The saving of a cookie on a device is governed by user-defined settings of the browser or device. If you have accepted the option to allow the collecting and saving of cookies through your browser or device, they will be integrated into the pages and content you have viewed and may be temporarily stored in a dedicated location on your browser or Device. Such cookies will be readable only by their issuer. You have the choice, at any time, to delete or disable all or part of these cookies using your browser or device. When you use our Services for the first time, a pop-up banner informs you of the use of cookies and provides a direct link to this Cookie Policy. The banner will require you to accept the collection of cookies by us, in accordance to this Cookie Policy.
-
-How do I refuse or withdraw my consent to the use of Cookies?
--------------------------------------------------------------
-
-If you do not want cookies to be dropped on your device, you can adjust the setting of your Internet browser to reject the setting of all or some cookies and to alert you when a cookie is placed on your device. For further information about how to do so, please refer to your browser ‘help’ / ‘tool’ or ‘edit’ section for cookie settings with respect to your browser that may be Google Chrome, Safari, Mozilla Firefox etc.
-
-Please note that if your browser setting is already setup to block all Cookies (including strictly necessary Cookies) you may not be able to access or use all or parts of functionalities of our websites.
-
-If you want to remove previously-stored Cookies, you can manually delete the Cookies at any time. However, this will not prevent the Sites from placing further Cookies on your device unless and until you adjust your Internet browser setting as described above.
-
-For more information on the development of user-profiles and the use of targeting/advertising Cookies, please see www.youronlinechoices.eu if you are located in Europe or www.aboutads.info/choices if in the United States.
-
-More detail on how businesses use cookies is available at [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
-
-Your Rights
------------
-
-Please see our [Privacy Policy](https://www.news18.com//privacy_policy) for more information on how you can request for access, rectification and erasure and for any other queries of your device information that we have collected and processed.
-
-Contact Us
-----------
-
-If you have any queries regarding this Cookie Policy please contact our Data Protection Officer Apurv Narula at [DPO@nw18.com](mailto:DPO@nw18.com)
+This Policy was last updated as of 14th November 2024.
 
 [![short video](https://images.news18.com/dlxczavtqcctuei/news18/static/images/english/Impactshorts.svg?impolicy=website&amp;width=140&amp;height=50)](https://www.news18.com/short-news/)
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 08, 2024
+Nov 15, 2024
 
 [View All](https://www.news18.com/short-news/)
 
