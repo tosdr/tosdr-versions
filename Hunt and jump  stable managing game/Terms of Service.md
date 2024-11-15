@@ -41,6 +41,9 @@ FOREST SERVER | **Year: 137 Era: 15**
     * [Upgrades for HBs](https://hj2.huntandjump.com/member_exchange.php)
     * [Buy Upgrades](https://hj2.huntandjump.com/upgrade.php)
     * [Buy Rare Genes](https://hj2.huntandjump.com/upgrade.php#tabs-5)
+* ![](/images/coloricons/Snowflake.png)Seasonal
+    
+    * [Gift Exchange](https://hj2.huntandjump.com/giftexchange.php)
 * ![](/images/coloricons/icon_nav_resources.png)Resources
     
     * [**FAQ User Guide**](https://hj2.huntandjump.com/faq.php)
@@ -143,6 +146,29 @@ HuntAndJump.com Rules
 
 ![](/images/coloricons/News-Alerts-2.png)News & Alerts
 
+11/15/2024 2:51 AM EST
+
+Gift Exchange sign-ups are now open!
+------------------------------------
+
+Link is in the navigation. Have questions, or want a guide? Check the stickied forum post.
+
+11/15/2024 9:30 AM EST
+
+[SWITCH UP! It's the 15th and Random Gene Sale switch has activated. Until the 1st of the month you can now pick up:](https://hj2.huntandjump.com/upgrade.php#tabs-5)  
+**Mushroom**  
+![](https://www.huntandjump.com/images/grsExamples/mush.png)  
+**Kit Promoter**  
+![](https://www.huntandjump.com/images/grsExamples/kp.png)  
+**Phantom Autumn**  
+![](https://www.huntandjump.com/images/grsExamples/phatmn.png)  
+**Rainbow Riot Paintbrush Prism**  
+![](https://www.huntandjump.com/images/grsExamples/pbp.png)  
+**Appaloosa Spot Regulator 1**  
+![](https://www.huntandjump.com/images/grsExamples/asr1.png)  
+**Gray Reduction**  
+![](https://www.huntandjump.com/images/grsExamples/grayredu.png)
+
 11/8/2024 2:06 AM EST
 
 ### Just one week until the gift exchange opens for sign-ups!
@@ -170,16 +196,6 @@ HuntAndJump.com Rules
 ### Check your inboxes it's newsletter day!
 
 Two special creates are yours to collect.
-
-10/23/2024 8:30 AM EST
-
-### Gift Exchange sign-ups open in less than a month.
-
-Our gift exchange is one of the most fun times of the year, but you must have participated in a number of forum conversations to be eligible. Now is the time to start posting on the forums to make sure you can enter the exchange.
-
-10/22/2024 2:16 AM EST
-
-### The university is now accepting golden tokens in exchange for synthesized gametes from deceased horses.
 
 ![](/images/coloricons/Gold-Star-2.png)Bonus Stall Progress
 
