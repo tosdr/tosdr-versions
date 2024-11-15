@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/wakker-worden-voor-het-leven/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/ga-de-hele-weg-of-begin-er-niet-aan/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
