@@ -259,7 +259,7 @@ article 3 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mini
 
 ### Hubble Captures a Galaxy with Many Lights
 
-article 6 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
+article 7 days ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
 
 ### Highlights
 
@@ -275,13 +275,13 @@ article 1 day ago](https://www.nasa.gov/missions/station/iss-research/wearable-t
 
 ### Station Science Top News: Nov. 8, 2024
 
-article 2 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
 
 3 min read
 
 ### NASA Shares Space Food Insight with Commercial Food Industry
 
-article 7 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)
+article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)
 
 ### Highlights
 
@@ -291,7 +291,7 @@ article 7 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 2 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
 
 4 min read
 
@@ -313,13 +313,13 @@ article 2 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
 
 2 min read
 
 ### Moonquakes
 
-article 19 hours ago](https://science.nasa.gov/moon/moonquakes/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+article 1 day ago](https://science.nasa.gov/moon/moonquakes/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
@@ -335,13 +335,13 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article 5 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![Photo of Roman's Optical Telescope Assembly](https://www.nasa.gov/wp-content/uploads/2024/11/ioa-005.jpg?w=1024)
+article 11 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![Photo of Roman's Optical Telescope Assembly](https://www.nasa.gov/wp-content/uploads/2024/11/ioa-005.jpg?w=1024)
 
 5 min read
 
 ### Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
 
-article 5 hours ago](https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/)[![This release features an illustration of the galaxy in which black hole LID-568 resides. A smaller illustration of black hole itself, in an outlined box, is superimposed on top of the galaxy image toward our upper right. Two lines extend from a single point in the middle of the galaxy and terminate on corners of the outlined box containing the black hole illustration. The placement of the lines and outlined box indicate that the superimposed black hole image is an enlargement of a tiny place in the center of the galaxy.](https://www.nasa.gov/wp-content/uploads/2024/11/lid568-crunched.jpg?w=1024)
+article 11 hours ago](https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/)[![This release features an illustration of the galaxy in which black hole LID-568 resides. A smaller illustration of black hole itself, in an outlined box, is superimposed on top of the galaxy image toward our upper right. Two lines extend from a single point in the middle of the galaxy and terminate on corners of the outlined box containing the black hole illustration. The placement of the lines and outlined box indicate that the superimposed black hole image is an enlargement of a tiny place in the center of the galaxy.](https://www.nasa.gov/wp-content/uploads/2024/11/lid568-crunched.jpg?w=1024)
 
 4 min read
 
@@ -357,41 +357,41 @@ article 1 day ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 2 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Amendment 67: A.22 NASA Energy and Water Cycle Study Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/water_cycle-590.jpg)
+article 8 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Amendment 67: A.22 NASA Energy and Water Cycle Study Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/esd/climate/2023/12/water_cycle-590.jpg)
 
 2 min read
 
 ### Amendment 67: A.22 NASA Energy and Water Cycle Study Final Text and Due Dates Released.
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-67-a-22-nasa-energy-and-water-cycle-study-final-text-and-due-dates-released/)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-67-a-22-nasa-energy-and-water-cycle-study-final-text-and-due-dates-released/)
 
 ### Highlights
 
-[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+[![A room full of various testing equipment, including gauges, cables, and machinery, with a rectangular motor drive stand in the center.](https://www.nasa.gov/wp-content/uploads/2024/11/areal-24-1.jpg?w=1024)
+
+2 min read
+
+### AREAL
+
+article 5 hours ago](https://www.nasa.gov/areal/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
 ### NEAT
 
-article 21 hours ago](https://www.nasa.gov/neat/)[![Image of a paper airplane floating over a shadow of an airplane on a green background](https://www.nasa.gov/wp-content/uploads/2024/11/eap-testing-publications-2.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/neat/)[![Image of a paper airplane floating over a shadow of an airplane on a green background](https://www.nasa.gov/wp-content/uploads/2024/11/eap-testing-publications-2.jpg?w=1024)
 
 1 min read
 
 ### NEAT Publications
 
-article 22 hours ago](https://www.nasa.gov/neat-publications/)[![An artist’s concept that depicts a large, broad, white airliner with five propellers on each wing and twin tails with three air intakes between them. The concept aircraft is shown flying above the clouds in a blue sky.](https://www.nasa.gov/wp-content/uploads/2024/11/electra-nasa-aaces-concept-image.jpg?w=1024)
-
-5 min read
-
-### NASA Funds New Studies Looking at Future of Sustainable Aircraft
-
-article 2 days ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)
+article 1 day ago](https://www.nasa.gov/neat-publications/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 2 days ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studie
 
 ### Precision Pointing Goes the Distance on NASA Experiment
 
-article 40 mins ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+article 7 hours ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
 
 2 min read
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 2 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
+article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
 
 1 min read
 
@@ -445,7 +445,7 @@ article 1 week ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### NASA Shares Space Food Insight with Commercial Food Industry
 
-article 7 days ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![Anna L. Fisher operates the Remote Manipulator System from Discovery’s aft flight deck](https://www.nasa.gov/wp-content/uploads/2024/11/sts-51a-20-fisher-operating-rms-51a-31-067.jpg?w=381)
+article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![Anna L. Fisher operates the Remote Manipulator System from Discovery’s aft flight deck](https://www.nasa.gov/wp-content/uploads/2024/11/sts-51a-20-fisher-operating-rms-51a-31-067.jpg?w=381)
 
 12 min read
 
