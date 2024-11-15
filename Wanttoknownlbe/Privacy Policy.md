@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/magnesium-speelt-een-hoofdrol/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/gezondheidsraad-maakt-misleidende-tekst-over-vitamine-d/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
