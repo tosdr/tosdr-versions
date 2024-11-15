@@ -47,10 +47,6 @@ Upcoming Experiences
 
 [View All Experiences »](https://www.atlasobscura.com/events)
 
-   [![](https://img.atlasobscura.com/iBmYQnBuFHN6USDGinknmm1IrzJw7Y2XxZIT_GHYChg/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy82OGVh/ZmQzZi01NzEyLTQz/Y2MtOTU3OS0zMWE3/ZTQ4MzdjYTQxZTlj/OTNiYjNhYTM2OWVk/MmJfdWMzeGtqa1Eu/anBn.jpg)
-
-Wild Life: An Explorer's Guide to the World's Living Wonders](https://www.atlasobscura.com/experiences/wild-life-book-event-toronto)
-
    [![](https://img.atlasobscura.com/rHgWDyNgbn2PLJ4fPnve5r--YDSMfBkSbNDqnDrd6NE/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL2V4cGVy/aWVuY2Vfc2VyaWVz/X2ltYWdlcy8xODAz/Mjk3OS0xYThiLTQ1/YjQtYjFkMC1hNDhk/MTcxZmUxNTBhZjcx/MWI1MGE0MjY5NTAy/ZjZfanVuaW9yLWZl/cnJlaXJhLTdlc1JQ/VHQzOG5JLXVuc3Bs/YXNoLmpwZw.jpg)
 
 Members Only
@@ -145,21 +141,21 @@ Latest Places
 
 [View All Places »](https://www.atlasobscura.com/places?sort=published_at)
 
-   [![The Golden Dove up close](https://img.atlasobscura.com/fHZfuZ5xXcRa8BuUzkDctuQ3LYMsTztIzdYJCgQGAYM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hZTgw/MmNmMS00YmVjLTRh/MGItOTI0ZS02OGEx/NzExNDgzNjgxZWM2/ZTJhMmNlNTVjODI5/YTFfR29sZGVuX0Rv/dmVfMS5qcGc.jpg)
+   [![The trestle from off the southeast abutment.](https://img.atlasobscura.com/mejneA9YZ_orD6yTI_6PsyHUaAw23pYI-rFAzOby8pk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy80MTdk/YjU5ZS05NGNlLTQ4/NGYtYmM2Yi1lMmM1/ZjdiYTUwNTdmMWMz/N2E0MDIzYTgxMGM3/ZmFfMjAyNDA4Mjlf/MTM0NzM1LmpwZw.jpg)
 
-King Eric's Golden Dove](https://www.atlasobscura.com/places/king-erics-golden-dove)
+Renslow Trestle](https://www.atlasobscura.com/places/renslow-trestle)
 
-   [![Dhamnihawa Stupas](https://img.atlasobscura.com/loW9NmPWlGtPpFbO3bJahBPOFccTPhvf75b4f94Ymo4/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9kNDJi/MGE1Yy03YzFiLTQ3/M2MtYTc3Zi00MmM0/NWExYTgyYWQ2NTIw/ZjMyZGJlYjA3Mzdi/NGZfSU1HXzMzMzgu/SlBH.jpg)
+   [![The Willow Globe shortly after it was planted](https://img.atlasobscura.com/b_xQw2xzGw6_GqPSmfBHmY9RMm3OSGd-7LMPc3N1A7w/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9hNzg4/YWM1Ni1mMjU4LTQz/NjUtOWNhZC1kYTE4/MjE2OTZkZWIwOWEz/NGY3ZjY0ODg0Mjlj/NDhfTGxhbndydGh3/bF9saXZpbmdfd2ls/bG93X3RoZWF0cmUg/KDEpLmpwZw.jpg)
 
-Dhamnihawa Stupas](https://www.atlasobscura.com/places/twin-stupas-of-tilaurakot)
+Willow Globe Theatre](https://www.atlasobscura.com/places/willow-globe-theatre)
 
-   [![Introducing one of the only train station lobsters that won't leave you filled with regret](https://img.atlasobscura.com/w49Xe6XCTdMwAT4MMZKCaMVRMQ0QYIYwTUIARW4IXYM/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy83NmUz/MzYwNy0yNWY2LTQ0/YzktYThiMC04YjI4/MDQ3OWQ5NjIyMWI1/ZWNmNzExMjQ0NjNj/ZjVfR3JhbmRCcmFz/c2VyaWVfMDkyNF9K/b3ZhbmlEZW1ldHJp/ZV82Mi5qcGVn.jpg)
+   [![Shadowhawk Western Town entrance](https://img.atlasobscura.com/GB98mlBZc5fNvg6kzGHl1IJjrDkEvCixWBbmqYfnr3U/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy8wZGUx/Y2QxOS0xNTAzLTQz/ZTktYTgxOS1jZjkz/ODYzMWI5NWMwYzc0/ZTY4YTA1NDNlZTI5/MmZfU2NyZWVuc2hv/dF8yMDI0MDkxNC0x/MDEzMDdfRmxpY2ty/LmpwZw.jpg)
 
-Grand Brasserie](https://www.atlasobscura.com/places/grand-brasserie-new-york)
+Wild Bill's Western Town](https://www.atlasobscura.com/places/bills-western-town-shadowhawk)
 
-   [![Bamboo](https://img.atlasobscura.com/IcF4WQCPul-zmmalqCoBMqbjE7dPTmDSi6iCkSiXbPk/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jNDAw/Y2UzYS0yZDZmLTRl/M2YtOGQwZC05ZTg0/MGIzZWI4OWMxOGU0/MGY1YzM0NmRhZmZk/YjVfNEFEOTcyMUQt/OTA4OS00RjVGLUI3/NkUtRUM2QjM0QTgw/RTRFLmpwZWc.jpg)
+   [![Espada Aqueduct](https://img.atlasobscura.com/fCDIWeSAPjFHmYnXmZblwOR4eVVdeDB8Xfh7QBqojEc/rs:fill:222:148:1/g:ce/q:81/sm:1/scp:1/ar:1/aHR0cHM6Ly9hdGxh/cy1kZXYuczMuYW1h/em9uYXdzLmNvbS91/cGxvYWRzL3BsYWNl/X2ltYWdlcy9jZjBm/NzljNS1jODFjLTRl/ZmYtYjZmZi04Y2U4/ZTNiNTAwODRmZmQ5/MTM2NGI4YWYyNWM3/ZDFfSU1HXzAyNjUu/anBn.jpg)
 
-Edison Bamboo](https://www.atlasobscura.com/places/edison-bamboo)
+Espada Aqueduct](https://www.atlasobscura.com/places/espada-aqueduct)
 
 Latest Places to Eat & Drink
 
