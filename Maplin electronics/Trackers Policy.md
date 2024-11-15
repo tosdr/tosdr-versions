@@ -4,7 +4,7 @@
 
   
 
-Save up to 80% in our [Clearance Sale!](https://www.maplin.co.uk/collections/clearance)
+🔥 Enjoy massive savings with our [Black Friday Sale!](https://www.maplin.co.uk/pages/black-friday) 🔥
 
 Browse
 
@@ -803,9 +803,10 @@ Browse
         * [Explore Full Range](https://pro.maplin.co.uk/collections/tools-equipment)
         
     
-* Offers
+* Black Friday
     
-    * [Offers](https://www.maplin.co.uk/collections/deals)
+    * [Black Friday](https://www.maplin.co.uk/pages/black-friday)
+    * [Black Friday Sale](https://www.maplin.co.uk/pages/black-friday)
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
@@ -1587,8 +1588,9 @@ Browse
     
     [![MPS Maplin Professional Supplies](//www.maplin.co.uk/cdn/shop/files/120423_mobile_MPS-2new_800x.jpg?v=1693474121)](https://pro.maplin.co.uk/)
     
-* [Offers](https://www.maplin.co.uk/collections/deals)
+* [Black Friday](https://www.maplin.co.uk/pages/black-friday)
     
+    * [Black Friday Sale](https://www.maplin.co.uk/pages/black-friday)
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
