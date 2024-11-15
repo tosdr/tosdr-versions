@@ -82,11 +82,9 @@ Shop by Interest
 
 Insta360 User Service Agreement
 
-\[V5.0\]
+\[V6.0\]
 
-Update Time: 2024/7/12
-
-Effective Time: 2024/7/19
+Effective Time: 2024/11/15
 
 Welcome to Insta360!
 
@@ -198,7 +196,7 @@ You understand and acknowledge that if you pay or top up your Account on our Pla
 
 7.1 You may upload, post or transmit content, including but not limited to text, software, programs, graphics, images, sounds, music, videos, audio and video, links and other information or other materials (the “Content”) on our Platform through our Platform Services, provided that you assume legal responsibility for such Content.
 
-7.2 YOU MUST ENSURE THAT YOU OWN THE COPYRIGHT OR ARE LEGALLY AUTHORIZED TO USE THE CONTENT THAT YOU UPLOAD OR POST ON OUR PLATFORM. UNLESS PROVEN TO THE CONTRARY, BY UPLOADING OR POSTING CONTENT USING OUR PLATFORM SERVICES, YOU HAVE THE RIGHT AND AGREE TO GRANT US, WORLDWIDE, NON-EXCLUSIVE, FREE OF CHARGE, THE RIGHT TO: (1) store, use, post, reproduce, modify, adapt, publish, translate, create derivative works based on, transmit, perform and display the Content. (2) incorporate the Content, in whole or in part, into any other work, media, or technology of any kind. (3) commercially exploit your uploaded, posted content. (4) to provide your computer terminal, mobile communication terminal (including but not limited to portable communication devices such as cell phones and smart tablets, etc.), handheld digital audio and video playback devices, television receiving devices (analog signal receiving devices, digital signal receiving devices, digital TV, IPTV, playback devices with Internet access, etc.), etc. through wired or wireless networks for the downloading of information, on-demand data transmission, mobile video services (including but not limited to SMS, MMS, WAP, IVR, Streaming, 5G, mobile video and other wireless services), and its related publicity and promotion and other services. (5) sub-license to other third parties for use in the manner described above.
+7.2 YOU MUST ENSURE THAT YOU OWN THE COPYRIGHT OR ARE LEGALLY AUTHORIZED TO USE THE CONTENT THAT YOU SUBMIT OR POST ON OUR PLATFORM. UNLESS PROVEN TO THE CONTRARY, BY SUBMITTING OR POSTING CONTENT USING OUR PLATFORM SERVICES, YOU HAVE THE RIGHT AND AGREE TO GRANT US A WORLDWIDE, NON-EXCLUSIVE, SUB-LICENSABLE, TRANSFERABLE, FREE OF CHARGE, LIMITED RIGHT TO: (1) store, use, post, reproduce, modify, adapt, publish, translate, create derivative works based on, transmit, perform, display, and distribute the Content on our Platform and Software; (2) incorporate the Content, in whole or in part, into any other work, media, or technology of any kind for tutorial, promotional purpose.
 
 7.3 The intellectual property rights of the content (including but not limited to software, technology, programs, web pages, text, pictures, images, audio, video, graphics, layout, electronic documents, etc.) provided by us in our Platform Services belong to us. The copyrights, patents and other intellectual property rights of the software on which we provide our Platform Services are owned by us. No one may use (including but not limited to monitoring, copying, transmitting, displaying, mirroring, uploading, downloading) the content of our Platform Services without our permission, through any robot, "spider" or other program or device.
 
@@ -392,7 +390,7 @@ If you reside outside of the European Union, these Terms and any action related 
 
 If any provision of this Agreement is deemed to be invalid, void or unenforceable, that provision shall be deemed severable and shall not affect the validity and enforceability of the remaining provisions of this Agreement.
 
-### 20\. This Agreement is updated on \[2024/7/12\] and comes into effect on \[2024/7/19\].
+### 20\. This Agreement is updated and comes into effect on \[2024/11/15\].
 
 ![insta360](https://static.insta360.com/assets/www/project/official/support/question.png)
 
