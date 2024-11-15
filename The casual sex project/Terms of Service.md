@@ -90,19 +90,29 @@ New York, NY 10017
 Spotlight
 ---------
 
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/lessons-from-the-tappan-zee-bridge-procurement.jpg)[](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/ "Read More")
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors.jpg)[](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/ "Read More")
 
-Issue Brief Governance, Economics Infrastructure & Transportation
+Report Economics, Governance
 
-Nov 07 2024
+Nov 14 2024
 
-Issue Brief Governance, Economics Infrastructure & Transportation
+Report Economics, Governance
 
-Nov 07 2024
+Nov 14 2024
 
-### [Crossroads of Opportunity and Innovation](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/) Lessons from the Tappan Zee Bridge Procurement
+### [Moving Left](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/) A Study of Ideological and Demographic Change Among Federal Reserve Bank Directors
 
-By **[Howard P. Milstein](https://admin.mi52siterestore.com/person/howard-p-milstein/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/lessons-from-the-tappan-zee-bridge-procurement/)
+By **[Judge Glock](https://admin.mi52siterestore.com/person/judge-glock/), [Reade Ben](https://admin.mi52siterestore.com/person/reade-ben/)** Read time **27 mins** [Read More](https://admin.mi52siterestore.com/article/moving-left-a-study-of-ideological-and-demographic-change-among-federal-reserve-bank-directors/)
+
+    ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-economy-prosperity.jpg)[](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/ "Read More")
+
+Commentary Governance Elections
+
+Nov 14 2024
+
+[A Lot of Trump Voters Saw More Light than Darkness in His Message](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/)
+
+By **[Robert Henderson](https://admin.mi52siterestore.com/person/robert-henderson/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/a-lot-of-trump-voters-saw-more-light-than-darkness-in-his-message/)
 
     ![](https://media4.manhattan-institute.org/wp-content/uploads/trump-might-have-won-the-first-postracial-election-black-hispanic-minorities.jpg)[](https://admin.mi52siterestore.com/article/trump-might-have-won-the-first-postracial-election/ "Read More")
 
@@ -133,16 +143,6 @@ Nov 11 2024
 [The Economics of Political Correctness](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/)
 
 By **[Roland G. Fryer, Jr.](https://admin.mi52siterestore.com/person/roland-g-fryer-jr/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/the-economics-of-political-correctness/)
-
-    ![](https://media4.manhattan-institute.org/wp-content/uploads/no-to-drugs-marijuana-mushrooms.jpg)[](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/ "Read More")
-
-Commentary Governance, Health Elections
-
-Nov 11 2024
-
-[Americans Just Said No to Drugs](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/)
-
-By **[Charles Fain Lehman](https://admin.mi52siterestore.com/person/charles-fain-lehman/)** Read time **2 mins** [Read More](https://admin.mi52siterestore.com/article/americans-just-said-no-to-drugs/)
 
 Our Policy Areas
 ----------------
