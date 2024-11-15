@@ -53,6 +53,12 @@ Menu
 
 [Crypto Wallets](https://paybis.com/crypto-wallet/)
 
+Tools
+
+* [Crypto Prices](https://paybis.com/price/)
+* [Crypto Calculator](https://paybis.com/bitcoin-calculator/)
+* [Crypto Glossary](https://paybis.com/blog/glossary/)
+
 [Sign In](https://paybis.com/user/login/)
 
 English
