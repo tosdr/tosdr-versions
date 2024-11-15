@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Trump picks ex-Georgia congressman for Veterans Affairs secretary](https://nypost.com/2024/11/14/us-news/trump-picks-ex-georgia-congressman-doug-collins-for-veterans-affairs-secretary/)
+[Trump to nominate close ally as Department of the Interior secretary](https://nypost.com/2024/11/14/us-news/trump-to-nominate-north-dakota-gov-doug-burgum-as-department-of-the-interior-secretary/)
 
 Terms Of Use
 ============
