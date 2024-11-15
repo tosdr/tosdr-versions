@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![26 Facts About Armenian Highlands ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/world/landmarks/26-facts-about-armenian-highlands/)
+[![24 Facts About College Of Engineering ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/tech-and-sciences/engineering/24-facts-about-college-of-engineering/)
 
-Landmarks
+Engineering
 
-14 Nov 2024
+15 Nov 2024
 
-[26 Facts About Armenian Highlands](https://facts.net/world/landmarks/26-facts-about-armenian-highlands/)
+[24 Facts About College Of Engineering](https://facts.net/tech-and-sciences/engineering/24-facts-about-college-of-engineering/)
 
-[![50 Facts About Cutis Verticis Gyrata ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-cutis-verticis-gyrata/)
+[![30 Facts About Cutaneous Photosensitivity Colitis Lethal ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-cutaneous-photosensitivity-colitis-lethal/)
 
 Health Science
 
-14 Nov 2024
+15 Nov 2024
 
-[50 Facts About Cutis Verticis Gyrata](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-cutis-verticis-gyrata/)
+[30 Facts About Cutaneous Photosensitivity Colitis Lethal](https://facts.net/fitness-and-wellbeing/health-science/30-facts-about-cutaneous-photosensitivity-colitis-lethal/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
