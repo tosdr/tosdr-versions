@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Дмитрий Медведев: «Молодая Гвардия Единой России» вносит свой вклад в развитие страны](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/dmitrij-medvedev-molodaya-gvardiya-edinoj-rossii-vnosit-svoj-vklad-v-razvitie-strany)
+[![«Единая Россия» дала старт международной акции «Люди Артека»-2025](https://cdn.er.ru/media/news/November2024/V0gidMiU7mp2Qh5r9HIc-small.png)](https://er.ru/activity/news/edinaya-rossiya-dala-start-mezhdunarodnoj-akcii-lyudi-arteka-2025)
 
-[Дмитрий Медведев: «Молодая Гвардия Единой России» вносит свой вклад в развитие страны](https://er.ru/activity/news/dmitrij-medvedev-molodaya-gvardiya-edinoj-rossii-vnosit-svoj-vklad-v-razvitie-strany)
+[«Единая Россия» дала старт международной акции «Люди Артека»-2025](https://er.ru/activity/news/edinaya-rossiya-dala-start-mezhdunarodnoj-akcii-lyudi-arteka-2025)
 
-[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
+[#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#Беларусь](https://er.ru/activity/news?tags%5B0%5D=5381) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834)
 
-Сегодня 12:54
+Сегодня 15:15
 
-[![ВСУ атаковали автомобиль гуманитарной миссии «Единой России»](https://cdn.er.ru/media/news/November2024/RguaLJl55KfgDPN8sNMW-small.jpg)](https://er.ru/activity/news/vsu-atakovali-avtomobil-gumanitarnoj-missii-edinoj-rossii)
+[![Антон Демидов: Более 5 тысяч активистов «Молодой Гвардии» прошли через волонтёрскую и гуманитарную миссии на освобождённых территориях](https://cdn.er.ru/media/news/November2024/lry73Dc5FFR6176RUpBm-small.jpg)](https://er.ru/activity/news/anton-demidov-bolee-5-tysyach-aktivistov-molodoj-gvardii-proshli-cherez-volontyorskuyu-i-gumanitarnuyu-missii-na-osvobozhdyonnyh-territoriyah)
 
-[ВСУ атаковали автомобиль гуманитарной миссии «Единой России»](https://er.ru/activity/news/vsu-atakovali-avtomobil-gumanitarnoj-missii-edinoj-rossii)
+[Антон Демидов: Более 5 тысяч активистов «Молодой Гвардии» прошли через волонтёрскую и гуманитарную миссии на освобождённых территориях](https://er.ru/activity/news/anton-demidov-bolee-5-tysyach-aktivistov-molodoj-gvardii-proshli-cherez-volontyorskuyu-i-gumanitarnuyu-missii-na-osvobozhdyonnyh-territoriyah)
 
-[#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
+[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
 
-Сегодня 10:57
+Сегодня 14:30
 
-[![«Единая Россия» внесла в Госдуму законопроект о продлении механизма «зонтичных» поручительств](https://cdn.er.ru/media/news/November2024/dm2ja4ZgRK5Q07YjErA1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-prodlenii-mehanizma-zontichnyh-poruchitelstv)
+[![Денис Пушилин: Работа МГЕР в Донбассе войдёт в летопись организации](https://cdn.er.ru/media/news/November2024/6geqrZMmvDWB8PlRUVcf-small.jpg)](https://er.ru/activity/news/denis-pushilin-rabota-mger-v-donbasse-vojdyot-v-letopis-organizacii)
 
-[«Единая Россия» внесла в Госдуму законопроект о продлении механизма «зонтичных» поручительств](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-prodlenii-mehanizma-zontichnyh-poruchitelstv)
+[Денис Пушилин: Работа МГЕР в Донбассе войдёт в летопись организации](https://er.ru/activity/news/denis-pushilin-rabota-mger-v-donbasse-vojdyot-v-letopis-organizacii)
 
-[#Когогина](https://er.ru/activity/news?tags%5B0%5D=10885) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
+[#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443)
 
-Сегодня 09:00
+Сегодня 14:17
 
-[![Ольга Занко: «Единая Россия» заложила в бюджет серьёзные средства на социальные и гражданские обязательства](https://cdn.er.ru/media/news/November2024/50HycWMoak2H5CCFV36l-small.jfif)](https://er.ru/activity/news/olga-zanko-edinaya-rossiya-zalozhila-v-byudzhet-seryoznye-sredstva-na-socialnye-i-grazhdanskie-obyazatelstva)
+[![Владимир Якушев поддержал предложение МГЕР провести форум рабочей молодёжи](https://cdn.er.ru/media/news/November2024/O9ZFm6Z1tzLTYb8zmrya-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-provesti-forum-rabochej-molodyozhi)
 
-[Ольга Занко: «Единая Россия» заложила в бюджет серьёзные средства на социальные и гражданские обязательства](https://er.ru/activity/news/olga-zanko-edinaya-rossiya-zalozhila-v-byudzhet-seryoznye-sredstva-na-socialnye-i-grazhdanskie-obyazatelstva)
+[Владимир Якушев поддержал предложение МГЕР провести форум рабочей молодёжи](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-provesti-forum-rabochej-molodyozhi)
 
-[#Занко](https://er.ru/activity/news?tags%5B0%5D=1092667) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#НКО](https://er.ru/activity/news?tags%5B0%5D=1394)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
 
-14.11.24
+Сегодня 14:14
 
-[![Федеральный бюджет принят в основном чтении с социально значимыми поправками от «Единой России»](https://cdn.er.ru/media/news/November2024/BfZaajZxxF72CnsUAqgq-small.jpg)](https://er.ru/activity/news/federalnyj-byudzhet-prinyat-v-osnovnom-chtenii-s-socialno-znachimymi-popravkami-ot-edinoj-rossii)
+[![Владимир Якушев поддержал предложение МГЕР по созданию Дома молодёжи в ЛНР](https://cdn.er.ru/media/news/November2024/1S7VRmeuxPsNJE9DkcEp-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-po-sozdaniyu-doma-molodyozhi-v-lnr)
 
-[Федеральный бюджет принят в основном чтении с социально значимыми поправками от «Единой России»](https://er.ru/activity/news/federalnyj-byudzhet-prinyat-v-osnovnom-chtenii-s-socialno-znachimymi-popravkami-ot-edinoj-rossii)
+[Владимир Якушев поддержал предложение МГЕР по созданию Дома молодёжи в ЛНР](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-po-sozdaniyu-doma-molodyozhi-v-lnr)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#ФракцияЕР](https://er.ru/activity/news?tags%5B0%5D=1090016) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
 
-14.11.24
+Сегодня 14:06
 
-[![«Единая Россия» передала помощь военнослужащим на Сватово-Купянском направлении](https://cdn.er.ru/media/news/November2024/8hGf5T1C0WPTUUVRSwS6-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-voennosluzhashim-na-svatovo-kupyanskom-napravlenii)
+[![Владимир Якушев: Проект МГЕР «Наставник Z» сегодня важен для нас, как и уроки ветеранов Великой Отечественной войны для предыдущих поколений](https://cdn.er.ru/media/news/November2024/mYVu7vlObImS2PZRP6Qk-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-proekt-mger-nastavnik-z-segodnya-vazhen-dlya-nas-kak-i-uroki-veteranov-velikoj-otechestvennoj-vojny-dlya-predydushih-pokolenij)
 
-[«Единая Россия» передала помощь военнослужащим на Сватово-Купянском направлении](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-voennosluzhashim-na-svatovo-kupyanskom-napravlenii)
+[Владимир Якушев: Проект МГЕР «Наставник Z» сегодня важен для нас, как и уроки ветеранов Великой Отечественной войны для предыдущих поколений](https://er.ru/activity/news/vladimir-yakushev-proekt-mger-nastavnik-z-segodnya-vazhen-dlya-nas-kak-i-uroki-veteranov-velikoj-otechestvennoj-vojny-dlya-predydushih-pokolenij)
 
-[#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВОВ](https://er.ru/activity/news?tags%5B0%5D=357) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262)
 
-14.11.24
+Сегодня 13:32
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
