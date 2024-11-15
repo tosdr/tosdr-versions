@@ -178,11 +178,11 @@ Lawyers and free speech advocates. IP, gaming, adult, and First Amendment law.
 
 ![walterslawgroup](https://pbs.twimg.com/profile_images/1639690830/40482_141262409241305_114671631900383_269027_5869480_n_normal.jpg)](https://twitter.com/walterslawgroup)[Walters Law Group](https://twitter.com/walterslawgroup) [@walterslawgroup](https://twitter.com/walterslawgroup) ·
 
-[16h](https://twitter.com/walterslawgroup/status/1854329145368392185)
+[11 Nov](https://twitter.com/walterslawgroup/status/1856067388892131494)
 
-Adult Industry Reacts to Trump Victory
+Join us tomorrow to discuss the impact of the election.
 
-[Reply on Twitter 1854329145368392185](https://twitter.com/intent/tweet?in_reply_to=1854329145368392185&related=walterslawgroup) [Retweet on Twitter 1854329145368392185](https://twitter.com/intent/retweet?tweet_id=1854329145368392185&related=walterslawgroup) [Like on Twitter 1854329145368392185 1](https://twitter.com/intent/like?tweet_id=1854329145368392185&related=walterslawgroup) [Twitter 1854329145368392185](https://twitter.com/walterslawgroup/status/1854329145368392185)
+[Reply on Twitter 1856067388892131494](https://twitter.com/intent/tweet?in_reply_to=1856067388892131494&related=walterslawgroup) [Retweet on Twitter 1856067388892131494 1](https://twitter.com/intent/retweet?tweet_id=1856067388892131494&related=walterslawgroup) [Like on Twitter 1856067388892131494 3](https://twitter.com/intent/like?tweet_id=1856067388892131494&related=walterslawgroup) [Twitter 1856067388892131494](https://twitter.com/walterslawgroup/status/1856067388892131494)
 
 [Load More](javascript:void(0);)
 
