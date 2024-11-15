@@ -18,14 +18,24 @@ FOX SCORES
     
 * [Men's T20I
     
-    16/11 2:00 AEST
+    IND won by 135 runs
     
     |     |     |
     | --- | --- |
-    | RSA | –   |
-    | IND | –   |
+    | RSA | 148 |
+    | IND | 1 /283 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250404)
+* [Men's T20I
+    
+    16/11 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | PAK | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250802)
 * [Women's BBL
     
     SYDT won by 7 wkts
@@ -82,16 +92,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250112)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | UTA | 115 |
-    | DAL | 113 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010217/box-score)
 * [NBA
     
     16/11 11:00 AEST
@@ -232,6 +232,46 @@ FOX SCORES
     | SEM | 84  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25090002/play-by-play)
+* [NBL
+    
+    16/11 17:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAI | –   |
+    | NZB | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25090003)
+* [NBL
+    
+    16/11 20:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | ILL | –   |
+    | SYD | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25090004)
+* [WNBL
+    
+    16/11 18:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | GEE | –   |
+    | ADL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030003)
+* [WNBL
+    
+    16/11 20:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | TWN | –   |
+    | BEN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030004)
 * AFL
     
 * [AFL Women's
@@ -264,18 +304,6 @@ FOX SCORES
     |     |
     
     Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=746)
-* NFL
-    
-* [NFL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | PHI | 26  |
-    | WAS | 18  |
-    
-    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251112)
 * Rugby
     
 * Men's Test
@@ -301,16 +329,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/football/world-cup-qualifiers/match-centre/WCQ2024-250503)
 * [A-League W
     
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BRI | 3   |
-    | PER | 0   |
-    
-    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250301)
-* [A-League W
-    
     16/11 14:15 AEST
     
     |     |     |
@@ -319,6 +337,26 @@ FOX SCORES
     | WSW | –   |
     
     Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250302)
+* [A-League W
+    
+    16/11 16:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | CAN | –   |
+    | ADL | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250304)
+* [A-League W
+    
+    16/11 16:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MCY | –   |
+    | CCM | –   |
+    
+    Match Centre](https://www.foxsports.com.au/football/w-league/match-centre/ALW2024-250303)
 
 [Go to All Scores](https://www.foxsports.com.au/score-centre/)
 
