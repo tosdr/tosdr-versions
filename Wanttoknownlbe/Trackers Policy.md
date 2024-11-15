@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/kinderarts-dr-ovide-waarschuwt-voor-stille-tragedie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/de-mens-en-de-onmacht/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
