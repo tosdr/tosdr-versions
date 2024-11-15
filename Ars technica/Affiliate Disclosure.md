@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: Six inane arguments about EVs and how to handle them at the dinner table](https://cdn.arstechnica.net/wp-content/uploads/2024/11/ev-family-arguments-768x432.jpg)](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
+1. [![Listing image for first story in Most Read: I, too, installed an open source garage door opener, and am loving it](https://cdn.arstechnica.net/wp-content/uploads/2024/10/IMG_5523-scaled-768x432-1729621105.jpeg)](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
-    1. [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
+    1. [I, too, installed an open source garage door opener, and am loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
-2. 2. [After working with a dual-screen portable monitor for a month, I’m a believer](https://arstechnica.com/gadgets/2024/11/after-working-with-a-dual-screen-portable-monitor-for-a-month-im-a-believer/)
+2. 2. [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
     
-3. 3. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
+3. 3. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
     
-4. 4. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
+4. 4. [Trump team puts EV tax credit on the block, Tesla is on board: Report](https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/)
     
-5. 5. [Trump team puts EV tax credit on the block, Tesla is on board: Report](https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/)
+5. 5. [After working with a dual-screen portable monitor for a month, I’m a believer](https://arstechnica.com/gadgets/2024/11/after-working-with-a-dual-screen-portable-monitor-for-a-month-im-a-believer/)
     
 
 Customize
