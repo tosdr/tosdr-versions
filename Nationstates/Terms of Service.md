@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Say a random sentence (9,263)](https://forum.nationstates.net/viewtopic.php?t=514647&f=25&view=unread#unread ""Say a random sentence" (9,263 posts)")
-* [What do you think of when you see the… (9,639)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,639 posts)")
-* [Constructively rate the above nation'… (8,473)](https://forum.nationstates.net/viewtopic.php?t=499566&f=25&view=unread#unread ""Constructively rate the above nation's flag (8)" (8,473 posts)")
-* [Using the AN's flag, how do they deal… (8,803)](https://forum.nationstates.net/viewtopic.php?t=508055&f=25&view=unread#unread ""Using the AN's flag, how do they deal with traitors? III" (8,803 posts)")
-* [STRANGE NEW WORLD (2025 ALT-HISTORY R… (204)](https://forum.nationstates.net/viewtopic.php?t=558220&f=31&view=unread#unread ""STRANGE NEW WORLD (2025 ALT-HISTORY RP) - OOC" (204 posts)")
+* [NS Military Worldbuilding Thread No. 12 (9,015)](https://forum.nationstates.net/viewtopic.php?t=489819&f=23&view=unread#unread ""NS Military Worldbuilding Thread No. 12" (9,015 posts)")
+* [American Politics: Turnabout Trump (4,820)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,820 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,825)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,825 posts)")
+* [Let's play Simon Says! (3)](https://forum.nationstates.net/viewtopic.php?t=558356&f=25&view=unread#unread ""Let's play Simon Says!" (3 posts)")
+* [Big Dawg National Food Company (2)](https://forum.nationstates.net/viewtopic.php?t=558380&f=6&view=unread#unread ""Big Dawg National Food Company" (2 posts)")
 
 Advertisement
 
