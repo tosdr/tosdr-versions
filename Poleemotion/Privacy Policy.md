@@ -84,9 +84,15 @@ Pour découvrir l'école et t'aider à choisir la ou les disciplines qui te fero
 À ne pas manquer en ce moment!
 ------------------------------
 
-[](https://app.pole-emotion.ch/evjf)
+[![image Cerceau aérien](/storage/highlights/54289/highlight.webp?v=307528)
 
-[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=095644)](https://app.pole-emotion.ch/evjf)
+##### Cerceau aérien
+
+dim. 17 novembre 2024 - **09:30** à Monthey
+
+Prête à défier la gravité ? Le Cerceau Aérien t'attend pour une expérience incroyable, alliant force, souplesse, et...](https://app.pole-emotion.ch/cours/54289)[](https://app.pole-emotion.ch/evjf)
+
+[![image pour Pensez aux Enterrements Vie de Jeunes Filles](/storage/highlights/newsflash/highlight.webp?v=308922)](https://app.pole-emotion.ch/evjf)
 
 [##### Pensez aux Enterrements Vie de Jeunes Filles](https://app.pole-emotion.ch/evjf)
 
