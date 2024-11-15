@@ -1,4 +1,4 @@
-[![BT_IDERA-Logo_Horizontal-on-Light](https://www.bittitan.com/wp-content/uploads/2023/05/BT_IDERA-Logo_Horizontal-on-Light.png "BT_IDERA-Logo_Horizontal-on-Light")](https://www.bittitan.com/)
+[![BT_IDERA-Logo_Horizontal-on-Light](https://www.bittitan.com/wp-content/uploads/2024/11/Logo_Standard-on-Light.png "Logo_Standard on Light")](https://www.bittitan.com/)
 
 * [MigrationWiz](#)
     * [Overview](#)
@@ -43,7 +43,7 @@
 
 [Free Trial](https://www.bittitan.com/free-trial/)     [Sign In](https://www.bittitan.com/account/login)
 
-[![BT_IDERA-Logo_Horizontal-on-Light](https://www.bittitan.com/wp-content/uploads/2023/05/BT_IDERA-Logo_Horizontal-on-Light.png)](https://www.bittitan.com/)
+[![](https://www.bittitan.com/wp-content/uploads/2024/11/Logo_Standard-on-Light.png)](https://www.bittitan.com/)
 
 * [MigrationWiz](#)
     * [Overview](#)
@@ -131,7 +131,7 @@
 * [Report the use of Unlicensed Software](https://www.ideracorp.com/legal/reportus)
 * [Copyright Infringement and Takedown Policy](https://www.ideracorp.com/Legal/BitTitan/Copyright-Infringement-Notification)
 
-![Logo_BitTitan Horizontal on Dark](https://www.bittitan.com/wp-content/uploads/2022/10/Logo_BitTitan-Horizontal-on-Dark.png "Logo_BitTitan Horizontal on Dark")
+![Logo_BitTitan Horizontal on Dark](https://www.bittitan.com/wp-content/uploads/2024/11/Logo_Standard-on-Dark.png "Logo_Standard on Dark")
 
 Search for:     
 
