@@ -1,8 +1,8 @@
-[Black Friday Sale! Save up to $700 + 30% off select Accessories!](https://www.aventon.com/collections/sale)
+[Black Friday Sale! Save up to $800 + 30% off select Accessories!](https://www.aventon.com/collections/ebikes)
 
 — —
 
-View All Offers 4
+View All Offers 6
 
 SUPPORT
 
@@ -20,7 +20,7 @@ US/EN
 
 YOUR OFFERS
 
-[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-BFCM.png?v=1730756022&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/sale)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-Pace_3d59955e-8a7c-41f6-9897-e28a462f8ddf.jpg?v=1725397344&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-step-through-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-Soltera2.jpg?v=1725923813&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)
+[![](https://aventon-images.imgix.net/files/57eb89b3-6ec2-4d11-ad67-cb71bf85dd0b_promo-free-shipping-all-bikes-2_6862aff3-6291-4154-8340-73832a16587f.jpg?v=1714157335&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/US_BFCM_Side_Drawer_-_Aventure.png?v=1731626081&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventure2-ebike)[![](https://aventon-images.imgix.net/files/Promo-Side-Drawer-US-BFCM_f4f041b4-a822-4522-88c8-2f18afcda086.png?v=1731621772&auto=compress,format&w=10&blur=10)](https://www.aventon.com/collections/ebikes)[![](https://aventon-images.imgix.net/files/US_BFCM_Side_Drawer_-_Level.png?v=1731625950&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/aventon-level-commuter-ebike)[![](https://aventon-images.imgix.net/files/US_BFCM_Side_Drawer_-_Pace.png?v=1731628508&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/pace500-3-ebike)[![](https://aventon-images.imgix.net/files/US_BFCM_Side_Drawer_-_Soltera_04c136f5-89c9-40b4-80dd-78433e943987.png?v=1731628407&auto=compress,format&w=10&blur=10)](https://www.aventon.com/products/soltera-2-ebike)
 
 [Aventon](https://www.aventon.com/)
 
@@ -157,7 +157,7 @@ YOUR OFFERS
     
     [Ranked #1 Ebike Brand](https://www.aventon.com/blogs/aventon_bikes/best-ebike-brand)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM.png?v=1731009482&width=720)](https://www.aventon.com/collections/sale)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/sale)
     
 * [EQUIPMENT](https://www.aventon.com/collections/all-equipment)
     
@@ -460,7 +460,7 @@ Open menu
         
         Lightweight City Ebike](https://www.aventon.com/collections/ebikes?constraint=__soltera)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM.png?v=1731009482&width=720)](https://www.aventon.com/collections/sale)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/sale)
     
 * [EQUIPMENT](javascript:void(0))
     
@@ -515,7 +515,7 @@ Open menu
     * [Tools & Maintenance](https://www.aventon.com/collections/bike-tools)
     * [Wheels & Tires](https://www.aventon.com/collections/wheels)
     
-    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM.png?v=1731009482&width=720)](https://www.aventon.com/collections/sale)
+    [![promo](//www.aventon.com/cdn/shop/files/Promo-Drop-Down-Nav-US-BFCM_8e5d481b-fc19-4e5f-aa64-168f0bf6ef07.png?v=1731621279&width=720)](https://www.aventon.com/collections/sale)
     
 * [BLACK FRIDAY SALE](https://www.aventon.com/collections/ebikes)
 
