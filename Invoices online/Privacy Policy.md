@@ -117,57 +117,56 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Jannie Schutte - myFinance-Online.co.za
+Anri van der Linde
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=125646579)  
-LEO DEVELOPMENT GROUP
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=180761096)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=37101002)  
-Hydroworld T/A Milliqua
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=134138070)  
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=59297363)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=199150923)  
+Myfinance-Online
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=81389811)  
-SMART GUY PCS (PTY) LTD
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=77133186)  
+Lion Software Develepment
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=38833624)  
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=178521342)  
+Bchange Online CC
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=54625359)  
+Roekeloos Group
+
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=20533828)  
+UniTech Solutions Pty Ltd
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=35321802)  
+IYD
+
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=15418238)  
+Druce Digital
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=88139803)  
+Printo
+
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=170717585)  
+KTEN PARTS
+
+![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=109157634)  
+Imhoff Equestrian Centre
+
+![valued client NJR ICT Services (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6292&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=73060460)  
+NJR ICT Services (Pty) Ltd
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=42008791)  
 Tiny Cuddles Photography
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=118633190)  
-Roamfree Boerdery (PTY) LTD
-
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=178457197)  
-Wiselink Broadband Pty Ltd
-
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=70092164)  
-Bloem Rugby Academy PTY (Ltd)
-
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=130123721)  
-Chiron Medical Solutions
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=181451522)  
-Import Maaw
-
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=160969914)  
-Depot Diesel (Pty) Ltd
-
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=31227521)  
-Westside Car Audio CC
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=66486496)  
-MONSTER SECURITY SERVICES
-
-![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=64916393)  
-Oukraal Merino's
-
-![valued client AquariumSmiths](https://www.invoicesonline.co.za/scripts/image.php?bid=7183&file=logo_300_100&type=&fe=1a581f6c6f72163fe526a01cb1aabe84bd620091ea3cf7276b93970066c44859&c=40735212)  
-AquariumSmiths
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=0cd43963ee8d283cab6c01d9dc2b18d4c204ec279661f5d9d0e5611b79483b05&c=65369764)  
+MONSTER SECURITY GUARDING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
