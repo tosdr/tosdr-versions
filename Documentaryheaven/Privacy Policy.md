@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Andes: The Dragon’s Back](/wp-content/thumbnails/7978-100x70.jpg?x53432)
+* [![Hackers Wanted](/wp-content/thumbnails/6679-100x70.png?x53432)
     
-    The Andes: The Dragon’s Back
+    Hackers Wanted
     
-    The Andes is one of the world's most spectacular mountain ranges with one of the richest environments on Earth and a diverse and unique mix of plants and animals existing nowhere else in the world. An](https://documentaryheaven.com/andes-dragons-back/ "The Andes: The Dragon’s Back")
-* [![The London Perambulator](/wp-content/thumbnails/6308-100x70.jpg?x53432)
+    This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought – from the criminal to the p](https://documentaryheaven.com/hackers-wanted/ "Hackers Wanted")
+* [![Killer in the Woods](/wp-content/thumbnails/13159-100x70.png?x53432)
     
-    The London Perambulator
+    Killer in the Woods
     
-    John Rogers' film looks at the city we deny and the future city that awaits us. Leading London writers and cultural commentators Will Self, Iain Sinclair and Russell Brand explore the importance of th](https://documentaryheaven.com/the-london-perambulator/ "The London Perambulator")
-* [![America Before Columbus](/wp-content/thumbnails/6453-100x70.png?x53432)
+    This is the story of one mans obsessive desire to control and even kill women, throughout his life John Taylor repeatedly found himself being drawn to woods, it was here that he would quietly watch an](https://documentaryheaven.com/killer-in-woods/ "Killer in the Woods")
+* [![Earth – The Climate Wars PT 3/3](/wp-content/thumbnails/243-100x70.png?x53432)
     
-    America Before Columbus
+    Earth – The Climate Wars PT 3/3
     
-    History books traditionally depict the pre-Columbus Americas as a pristine wilderness where small native villages lived in harmony with nature.But scientific evidence tells a very different story:](https://documentaryheaven.com/america-before-columbus/ "America Before Columbus")
-* [![The Blockchain and Us](/wp-content/thumbnails/13767-100x70.jpg?x53432)
+    PART THREE - New ChallengesHaving explained the science behind global warming, and addressed the arguments of the climate change sceptics earlier in the series, in this third and final part Dr Iain](https://documentaryheaven.com/earth-the-climate-wars-pt-33/ "Earth – The Climate Wars PT 3/3")
+* [![Floyd Mayweather](/wp-content/thumbnails/8332-100x70.jpeg?x53432)
     
-    The Blockchain and Us
+    Floyd Mayweather
     
-    In 1903 the Wright brothers invented the first airplane, it was hard to imagine back then that today there would be over 500,000 people traveling in the air at any point in time. In 2008, a person or](https://documentaryheaven.com/blockchain-and-us/ "The Blockchain and Us")
-* [![Strangeways: Britain’s Toughest Prison Riot](/wp-content/thumbnails/9803-100x70.jpg?x53432)
+    Floyd Mayweather Jr. is an American professional boxer currently residing in Las Vegas, Nevada. He is well known for never having been beaten as a professional and is described as a money making machi](https://documentaryheaven.com/floyd-mayweather/ "Floyd Mayweather")
+* [![Witness: Tornado Swarm 2011](/wp-content/thumbnails/12041-100x70.jpg?x53432)
     
-    Strangeways: Britain’s Toughest Prison Riot
+    Witness: Tornado Swarm 2011
     
-    Twenty-five years ago nearly 2,000 inmates broke out of their cells and took over strangeways prison in Manchester, the worlds media caught every moment of the rooftop siege, but what made strang](https://documentaryheaven.com/strangeways-britains-toughest-prison-riot/ "Strangeways: Britain’s Toughest Prison Riot")
+    In April of 2011 the United States experienced a month of extraordinary violent tornado's, it was the deadliest recorded in modern times. Stretching from Oklahoma to North Carolina over 600 tornados w](https://documentaryheaven.com/witness-tornado-swarm-2011/ "Witness: Tornado Swarm 2011")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
