@@ -615,7 +615,7 @@ We respect your privacy and will not sell your information. [Click here](https:/
 
 CAPTCHA
 
-        
+         
 
 CLOSE
 
@@ -641,7 +641,7 @@ Which best describes your business?(Required)
 
 I own a business where guests use WiFi.I am a service provider to businesses.
 
-Hidden
+This field is hidden when viewing the form
 
 Business Type - OLD(Required)
 
@@ -659,7 +659,7 @@ We respect your privacy and will not sell your information. [Click here](https:/
 
 CAPTCHA
 
-        
+         
 
 CLOSE
 
@@ -679,7 +679,7 @@ Which best describes your business?(Required)
 
 I own a business where guests use WiFi.I am a service provider to businesses.
 
-Hidden
+This field is hidden when viewing the form
 
 Business Type - OLD(Required)
 
@@ -697,7 +697,7 @@ We respect your privacy and will not sell your information. [Click here](https:/
 
 CAPTCHA
 
-       
+        
 
 Sign Up Now
 
@@ -855,7 +855,7 @@ We respect your privacy and will not sell your information. [Click here](https:/
 
 CAPTCHA
 
-       
+        
 
 Smart WiFi Suite Enterprise Feature Matrix
 ------------------------------------------
