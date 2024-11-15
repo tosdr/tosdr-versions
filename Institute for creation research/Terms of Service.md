@@ -165,93 +165,117 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Proteins Were Created to Catalyze the Reactions of Life
+More Evidence for Creation
 
-[![](/i/wide/atp_synthase_motor_wide.jpg)](https://www.icr.org/article/sophisticated-protein-motor-defies)
+[![](/i/Main%20Stage%20-%201400x1050/Irelands_First_Dinosaur_Bones_1400x1050.jpg)](https://www.icr.org/article/irelands-first-dinosaur-bones)
 
-[Sophisticated Protein Motor Defies Evolution](https://www.icr.org/article/sophisticated-protein-motor-defies/)
+[Ireland’s First Dinosaur Bones Found in Flood Rocks](https://www.icr.org/article/irelands-first-dinosaur-bones/)
 
-God appears to have left His unmistakable signature throughout His creation, even on the smallest parts. ATP synthase, an important enzyme, manufactures...
+Ireland finally has some dinosaur fossils of its own.1 The ground-breaking discovery came as a bit of a surprise, however, as the bones were...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-[![](/i/wide/molecule_vision_wide.jpg)](https://www.icr.org/article/perfect-molecule-for-vision-shows-eyes)
+[![](/i/Main%20Stage%20-%201400x1050/Bat_Echo_1400x1050.jpg)](https://www.icr.org/article/innate-speed-of-sound)
 
-[Perfect Molecule for Vision Shows Eyes Were Designed](https://www.icr.org/article/perfect-molecule-for-vision-shows-eyes/)
+[Innate Speed-of-Sound Engineering Revealed in Bats](https://www.icr.org/article/innate-speed-of-sound/)
 
-The eye is an ingeniously designed biological mechanism. In 1802, William Paley used eyes as a clear illustration of what he called "contrivances,"...
+Bats have the amazing ability to accurately and consistently detect the speed of sound.1 This enables them to employ a complex system of echolocation...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
-[![](/i/wide/kangaroo_rat_wide.jpg)](https://www.icr.org/article/hormone-research-unwittingly-corroborates-biblical)
+[![](/i/stage_248/lutherfivehundred-stage.jpg)](https://www.icr.org/article/luther-biblical-creation-500-years)
 
-[Hormone Research Unwittingly Corroborates Biblical Kinds](https://www.icr.org/article/hormone-research-unwittingly-corroborates-biblical/)
+[Luther and Biblical Creation, 500 Years Later](https://www.icr.org/article/luther-biblical-creation-500-years/)
 
-Hormones are small chemical switches that turn on or off different cellular systems. They are tissue-specific, most often produced by the tissue of one...
+Five hundred years ago in Wittenberg, Germany, an unusual scholar changed the course of human history using pen and hammer. Dr. Martin Luther protested...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
 
-More Creation Science Update
+More Godâ€™s Universe on Display: Telescope to Microscope
 
-[![](/i/Main%20Stage%20-%201400x1050/spiralgalaxy_1400x1050.jpg)](https://www.icr.org/article/distant-barred-spiral-galaxy)
+[![](/i/radio/images/peacock_spider_wide.jpg)](https://www.icr.org/article/spiders)
 
-[Distant Barred Spiral Galaxy Shouldn't Exist?](https://www.icr.org/article/distant-barred-spiral-galaxy/)
+[Spiders](https://www.icr.org/article/spiders/)
 
-Conventional theories have a difficult time accounting for the existence of a distant galaxy whose existence has been revealed by the James Webb Space...
-
-BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
-
-[![](/i/Main%20Stage%20-%201400x1050/originforecholocation_1400x1050.jpg)](https://www.icr.org/article/modern-echolocation-bats)
-
-[An ''Early'' Origin for Modern Echolocation in Bats](https://www.icr.org/article/modern-echolocation-bats/)
-
-As flying mammals, bats continue to amaze zoologists with their incredible abilities.1,2 But their origin continues to be an enigma for conventional...
+Do you feel a natural revulsion when you experience spiders up close? Why would God create creepy arachnids? Discover God’s purpose for these...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](/i/ICR_Feb23_wallpaper-Main.jpg)](https://www.icr.org/article/february-2023-icr-wallpaper)
+[![](/i/radio/images/marvels_human_design_wide.jpg)](https://www.icr.org/article/gods-universe-on-display-podcast)
 
-[February 2023 ICR Wallpaper](https://www.icr.org/article/february-2023-icr-wallpaper/)
+[God's Universe on Display: Telescope to Microscope \[Podcast\]](https://www.icr.org/article/gods-universe-on-display-podcast/)
 
-"Let all that you do be done with love." 1 Corinthians 16:14 NKJV ICR February 2023 wallpapers are now available for mobile, tablet, and...
+We find evidence for the Creator’s grand design everywhere in the universe, from enormous galaxies to microscopic DNA. ICR zoologist and researcher...
 
-BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/radio/images/genome_wide.jpg)](https://www.icr.org/article/dna)
+
+[DNA](https://www.icr.org/article/dna/)
+
+What is DNA? Why is it important? And how does it reveal the handiwork of the omnipotent Designer? Discover the code of life as Mr. Sherwin unwinds...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+More Radio Program
+
+[![](/i/radio/images/dino_bone_blood_wide.jpg)](https://www.icr.org/article/dinosaurs-lived-recently)
+
+[Is There Evidence That Dinosaurs Lived Recently?](https://www.icr.org/article/dinosaurs-lived-recently/)
+
+Textbooks and even children’s books tout dinosaur history going back millions of years. The Bible presents a different account of only thousands...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/radio/images/shale_oil_boom_wide.jpg)](https://www.icr.org/article/oil-soft-tissue)
+
+[Oil as a "Soft Tissue"](https://www.icr.org/article/oil-soft-tissue/)
+
+Oil is in the news almost every day due to fluctuating prices and controversial fracking. How does oil fit into the Bible? Was oil made in the...
+
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/Main%20Stage%20-%201400x1050/Do%20Billions%20of%20Years%20Fit%20with%20Genesis-1400x1050.jpg)](https://www.icr.org/article/do-billions-of-years-fit-with-genesis)
+
+[Do Billions of Years Fit with Genesis?](https://www.icr.org/article/do-billions-of-years-fit-with-genesis/)
+
+Many Christians think that if they can somehow find room in the Scriptures for billions of years then the conflict between Genesis and evolution...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
 
-Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
-
-$7.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
-
-Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
-
-$15.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
-
-Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
 
 $4.99
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
 
-Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
+The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
 
-$2.99
+$4.99
 
-$7.99
+$9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
 
-Adam or Apes](https://store.icr.org/adam-or-apes.html)
+Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
 
 $12.99
+
+[](https://store.icr.org/.html)
+
+$
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+
+$16.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
