@@ -20,16 +20,16 @@ Friday, November 15 2024
 
 Latest
 
-* [Please Don’t Use Any of These Passwords](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
-* [What is a dumpster diving attack? Tips to keep your data safe](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
-* [Windows 11 receives updates KB5046740 and KB5046732 with new features (preview)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
-* [Jeep Grand Cherokee, Dodge Durango Recall ABS, Brake Light Problems](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
-* [How to Edit Mac Screenshots on Your iPhone or iPad (and Why You Should)](https://digitpatrox.com/how-to-edit-mac-screenshots-on-your-iphone-or-ipad-and-why-you-should/)
-* [The four-day week sounds great – but we need the private sector on board for it to work](https://digitpatrox.com/the-four-day-week-sounds-great-but-we-need-the-private-sector-on-board-for-it-to-work/)
-* [A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-3/)
-* [I’m a mattress tester and this is the Black Friday deal I think side sleepers should shop](https://digitpatrox.com/im-a-mattress-tester-and-this-is-the-black-friday-deal-i-think-side-sleepers-should-shop/)
-* [CISA warns of more Palo Alto Networks bugs exploited in attacks](https://digitpatrox.com/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
-* [Pokémon TCG Pocket will let you trade cards starting early next year](https://digitpatrox.com/pokemon-tcg-pocket-will-let-you-trade-cards-starting-early-next-year/)
+* [AI tools aren’t helping developers save time on software testing – but small teams are reaping the rewards](https://digitpatrox.com/ai-tools-arent-helping-developers-save-time-on-software-testing-but-small-teams-are-reaping-the-rewards/)
+* [The EU seeks proposals for AI that should be banned – Computerworld](https://digitpatrox.com/the-eu-seeks-proposals-for-ai-that-should-be-banned-computerworld/)
+* [This Free App Makes Custom Covers For Your Apple Music and Spotify Playlists](https://digitpatrox.com/this-free-app-makes-custom-covers-for-your-apple-music-and-spotify-playlists/)
+* [IPVanish Secure Browser: First Look & Review (2024)](https://digitpatrox.com/ipvanish-secure-browser-first-look-review-2024/)
+* [ChatGPT app for Windows 11, 10 is better than web version because of these 3 features](https://digitpatrox.com/chatgpt-app-for-windows-11-10-is-better-than-web-version-because-of-these-3-features/)
+* [Cadillac, Chevrolet, and GMC Diesel Recall for Transmission Issue](https://digitpatrox.com/cadillac-chevrolet-and-gmc-diesel-recall-for-transmission-issue/)
+* [Everybody Gets Active Noise Cancellation!](https://digitpatrox.com/everybody-gets-active-noise-cancellation/)
+* [What to look out for at HPE Discover Barcelona 2024](https://digitpatrox.com/what-to-look-out-for-at-hpe-discover-barcelona-2024/)
+* [9 Worthwhile Product Launch Templates for Busy Leaders](https://digitpatrox.com/9-worthwhile-product-launch-templates-for-busy-leaders/)
+* [Boxing schedule 2024: Live stream every big fight, dates, results, Tyson Fury, Oleksandr Usyk, Jake Paul, Joshua](https://digitpatrox.com/boxing-schedule-2024-live-stream-every-big-fight-dates-results-tyson-fury-oleksandr-usyk-jake-paul-joshua/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JCP6SAPYTD1AKT33A1P9B0ZD/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
+* [![](https://cdn.mos.cms.futurecdn.net/S7cPapbWzympgZMrgJNBye-1200-80.jpg)](https://digitpatrox.com/ai-tools-arent-helping-developers-save-time-on-software-testing-but-small-teams-are-reaping-the-rewards/)
     
-    [Please Don’t Use Any of These Passwords](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
+    [AI tools aren’t helping developers save time on software testing – but small teams are reaping the rewards](https://digitpatrox.com/ai-tools-arent-helping-developers-save-time-on-software-testing-but-small-teams-are-reaping-the-rewards/)
     
-    10 minutes ago
+    25 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/What-is-a-dumpster-diving-attack_.jpg)](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3607277-0-40112000-1731689300-european-union-flags-100945597-orig.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/the-eu-seeks-proposals-for-ai-that-should-be-banned-computerworld/)
     
-    [What is a dumpster diving attack? Tips to keep your data safe](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
+    [The EU seeks proposals for AI that should be banned – Computerworld](https://digitpatrox.com/the-eu-seeks-proposals-for-ai-that-should-be-banned-computerworld/)
     
-    17 minutes ago
+    45 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/11/kb5046740-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
+* [![](https://lifehacker.com/imagery/articles/01J1FJ302M9H9AYHCFRJJTWWHB/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/this-free-app-makes-custom-covers-for-your-apple-music-and-spotify-playlists/)
     
-    [Windows 11 receives updates KB5046740 and KB5046732 with new features (preview)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
+    [This Free App Makes Custom Covers For Your Apple Music and Spotify Playlists](https://digitpatrox.com/this-free-app-makes-custom-covers-for-your-apple-music-and-spotify-playlists/)
     
-    18 minutes ago
+    1 hour ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731509225/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Chrysler-Dodge-Recall-1124)](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/IPVanish-Secure-Browser-Review.jpg)](https://digitpatrox.com/ipvanish-secure-browser-first-look-review-2024/)
     
-    [Jeep Grand Cherokee, Dodge Durango Recall ABS, Brake Light Problems](https://digitpatrox.com/jeep-grand-cherokee-dodge-durango-recall-abs-brake-light-problems/)
+    [IPVanish Secure Browser: First Look & Review (2024)](https://digitpatrox.com/ipvanish-secure-browser-first-look-review-2024/)
     
-    20 minutes ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/untitled_artwork.png)](https://digitpatrox.com/how-to-edit-mac-screenshots-on-your-iphone-or-ipad-and-why-you-should/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/11/windows-11-chatgpt-app-hero-mauro-huculak.webp)](https://digitpatrox.com/chatgpt-app-for-windows-11-10-is-better-than-web-version-because-of-these-3-features/)
     
-    [How to Edit Mac Screenshots on Your iPhone or iPad (and Why You Should)](https://digitpatrox.com/how-to-edit-mac-screenshots-on-your-iphone-or-ipad-and-why-you-should/)
+    [ChatGPT app for Windows 11, 10 is better than web version because of these 3 features](https://digitpatrox.com/chatgpt-app-for-windows-11-10-is-better-than-web-version-because-of-these-3-features/)
     
-    22 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [10 minutes ago
+* [25 minutes ago
     
-    ### Please Don’t Use Any of These Passwords](https://digitpatrox.com/please-dont-use-any-of-these-passwords/)
-* [17 minutes ago
+    ### AI tools aren’t helping developers save time on software testing – but small teams are reaping the rewards](https://digitpatrox.com/ai-tools-arent-helping-developers-save-time-on-software-testing-but-small-teams-are-reaping-the-rewards/)
+* [45 minutes ago
     
-    ### What is a dumpster diving attack? Tips to keep your data safe](https://digitpatrox.com/what-is-a-dumpster-diving-attack-tips-to-keep-your-data-safe/)
-* [18 minutes ago
+    ### The EU seeks proposals for AI that should be banned – Computerworld](https://digitpatrox.com/the-eu-seeks-proposals-for-ai-that-should-be-banned-computerworld/)
+* [1 hour ago
     
-    ### Windows 11 receives updates KB5046740 and KB5046732 with new features (preview)](https://digitpatrox.com/windows-11-receives-updates-kb5046740-and-kb5046732-with-new-features-preview/)
+    ### This Free App Makes Custom Covers For Your Apple Music and Spotify Playlists](https://digitpatrox.com/this-free-app-makes-custom-covers-for-your-apple-music-and-spotify-playlists/)
 
 Most Popular Topics
 
-* [October 11, 2024
+* [September 24, 2024
     
-    ### What Is Hosted Virtual Desktop? A complete 2024 Guide](https://digitpatrox.com/what-is-hosted-virtual-desktop-a-complete-2024-guide/)
-* [August 22, 2024
+    ### 27 of the Best AirPods Pro Settings Everyone Should Be Using](https://digitpatrox.com/27-of-the-best-airpods-pro-settings-everyone-should-be-using/)
+* [3 weeks ago
     
-    ### One Piece Live-Action Season 2: King Cobra’s Actor Revealed](https://digitpatrox.com/one-piece-live-action-season-2-king-cobras-actor-revealed/)
-* [August 18, 2024
+    ### MSI Codex R2 review: 1080p gaming on a budget](https://digitpatrox.com/msi-codex-r2-review-1080p-gaming-on-a-budget/)
+* [October 4, 2024
     
-    ### Upgrade to Windows 11 Pro for Only $19.97](https://digitpatrox.com/upgrade-to-windows-11-pro-for-only-19-97/)
+    ### FBCS debt collector data breach of 5 million+ records caused by ransomware attack, Comcast says](https://digitpatrox.com/fbcs-debt-collector-data-breach-of-5-million-records-caused-by-ransomware-attack-comcast-says/)
 
 Last Modified Topics
 
 * [1 hour ago
     
-    ### A Complete Guide for 2024](https://digitpatrox.com/a-complete-guide-for-2024-3/)
-* [1 hour ago
-    
-    ### I’m a mattress tester and this is the Black Friday deal I think side sleepers should shop](https://digitpatrox.com/im-a-mattress-tester-and-this-is-the-black-friday-deal-i-think-side-sleepers-should-shop/)
+    ### Everybody Gets Active Noise Cancellation!](https://digitpatrox.com/everybody-gets-active-noise-cancellation/)
 * [2 hours ago
     
-    ### CISA warns of more Palo Alto Networks bugs exploited in attacks](https://digitpatrox.com/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
+    ### What to look out for at HPE Discover Barcelona 2024](https://digitpatrox.com/what-to-look-out-for-at-hpe-discover-barcelona-2024/)
+* [2 hours ago
+    
+    ### 9 Worthwhile Product Launch Templates for Busy Leaders](https://digitpatrox.com/9-worthwhile-product-launch-templates-for-busy-leaders/)
 
 Most Viewed Topics
 
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 11, 2024
+* [August 21, 2024
     
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
