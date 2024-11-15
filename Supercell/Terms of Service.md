@@ -1,7 +1,7 @@
 TERMS OF SERVICE
 ================
 
-DeutschEnglishEspañolFrançaisItalianoNederlandPortuguêsSuomiSvenskaTürkçeРусскийالعربية한국어日本語简体中文繁體中文
+DeutschEnglishEspañolFrançaisItalianoNederlandsPortuguêsSuomiSvenskaTürkçeРусскийالعربية한국어日本語简体中文繁體中文
 
 * [1\. Using the Service](https://supercell.com/en/terms-of-service/#1.-Using-the-Service)
 * [2\. Ownership](https://supercell.com/en/terms-of-service/#2.-Ownership)
