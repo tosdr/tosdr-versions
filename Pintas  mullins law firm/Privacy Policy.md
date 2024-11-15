@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Detecting mesothelioma in its early stages](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-early-can-mesothelioma-be-detected.jpg "Detecting Mesothelioma in Its Early Stages")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/ "Detecting Mesothelioma in Its Early Stages")
+[![Proving memory care facility abuse with expert help](https://www.pintas.com/wp-content/uploads/2021/03/nurse-texting-while-ignoring-elderly-patient-300x168.jpg "Proving Memory Care Facility Abuse with Expert Help")](https://www.pintas.com/faq/do-i-need-a-medical-expert-to-prove-memory-care-facility-abuse/ "Proving Memory Care Facility Abuse with Expert Help")
 
-[#### Detecting Mesothelioma in Its Early Stages](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/)
+[#### Proving Memory Care Facility Abuse with Expert Help](https://www.pintas.com/faq/do-i-need-a-medical-expert-to-prove-memory-care-facility-abuse/)
 
-[![What is talcum powder used for?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-talc-powder-used-for-scaled.jpg "What Is Talcum Powder Used For?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/ "What Is Talcum Powder Used For?")
+[![Are falls a sign of assisted living neglect?](https://www.pintas.com/wp-content/uploads/2021/03/elderly-lady-sitting-on-floor-300x200.jpg "Are Falls a Sign of Assisted Living Neglect?")](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/ "Are Falls a Sign of Assisted Living Neglect?")
 
-[#### What Is Talcum Powder Used For?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/)
+[#### Are Falls a Sign of Assisted Living Neglect?](https://www.pintas.com/faq/are-falls-a-sign-of-assisted-living-neglect/)
 
-[![Average lung cancer settlement from asbestos](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-what-is-the-average-settlement-for-lung-cancer-caused-by-asbestos-exposure.jpg "Average Lung Cancer Settlement from Asbestos")](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement "Average Lung Cancer Settlement from Asbestos")
+[![Is talc-free powder safe?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-is-talc-free-powder-safe-scaled.jpg "Is Talc-Free Powder Safe?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/ "Is Talc-Free Powder Safe?")
 
-[#### Average Lung Cancer Settlement from Asbestos](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement)
+[#### Is Talc-Free Powder Safe?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/is-talc-free-powder-safe/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
