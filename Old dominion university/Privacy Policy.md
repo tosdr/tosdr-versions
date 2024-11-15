@@ -127,7 +127,7 @@ Legal
 Visit
 -----
 
-* [Visit ODU](https://ww1.odu.edu/node/279256)
+* [Visit ODU](https://ww1.odu.edu/visit)
 * [Transportation & Parking](https://ww1.odu.edu/transportation-parking-services)
 * [Campus Map](https://ww1.odu.edu/map)
 
@@ -176,13 +176,13 @@ Mega Menu
     **Academic Resources**
     
     * [Academic Calendars](https://ww1.odu.edu/academics/calendar)
-    * [University Libraries](https://www.odu.edu/library)
+    * [University Libraries](https://ww1.odu.edu/library)
     * [Academic Advising](https://ww1.odu.edu/advising)
-    * [Tutoring](https://ww1.odu.edu/node/279251)
-    * [Writing Center](https://www.odu.edu/al/centers/writing-center)
+    * [Tutoring](https://ww1.odu.edu/tutoring)
+    * [Writing Center](https://ww1.odu.edu/al/centers/writing-center)
     * [Academic Success](https://ww1.odu.edu/success)
     * [University Catalogs](https://catalog.odu.edu/)
-    * [Higher Education Regional Centers](https://www.odu.edu/regionalcenters)
+    * [Regional Higher Education Centers](https://ww1.odu.edu/regional-centers)
     
 * [Admission & Aid](https://ww1.odu.edu/admissions-aid)
     
@@ -221,7 +221,7 @@ Mega Menu
     * [Office of Intercultural Relations](https://ww1.odu.edu/intercultural-relations)
     * [Recreation & Wellness](https://ww1.odu.edu/recreation-wellness)
     * [Student Engagement & Traditions](https://ww1.odu.edu/student-engagement-traditions)
-    * [Leadership & Learning](https://ww1.odu.edu/node/279146)
+    * [Career & Leadership Development](https://ww1.odu.edu/career-leadership)
     * [Off-Campus University Life](https://ww1.odu.edu/housing/application-information/continuing-students)
     * [Service & Civic Engagement](https://ww1.odu.edu/career-leadership/service-learning)
     
@@ -236,10 +236,9 @@ Mega Menu
     **Student Services**
     
     * [Educational Accessibility](https://ww1.odu.edu/accessibility)
-    * [Student Success Center](https://ww1.odu.edu/success/center)
-    * [Career Development Services](https://ww1.odu.edu/node/279066)
+    * [Student Success Center](https://ww1.odu.edu/academic-success-center)
     * [International Student Resources](https://ww1.odu.edu/international)
-    * [Student Outreach & Support](https://ww1.odu.edu/node/752796)
+    * [Student Outreach & Support](https://ww1.odu.edu/dean-students/student-outreach-support)
     * [Counseling](https://ww1.odu.edu/counseling-services)
     * [Women's & Gender Equity Center](https://ww1.odu.edu/wgec)
     * [LGBTQIA+ Initiatives](https://ww1.odu.edu/wgec/lgbt)
@@ -274,7 +273,7 @@ Mega Menu
     
     **Programs & Partnerships**
     
-    * [Visitor's Guide](https://ww1.odu.edu/node/279256)
+    * [Visitor's Guide](https://ww1.odu.edu/visit)
     * [Sports & Recreation](https://ww1.odu.edu/life/sports-recreation)
     * [Pre-College & Summer Programs](https://ww1.odu.edu/ails/trio-programs)
     * [Vendors](https://ww1.odu.edu/procurement/vendors)
