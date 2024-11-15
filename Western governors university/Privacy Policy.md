@@ -1,4 +1,4 @@
-[Skip to content](#main) [Skip to Live Chat](#live-chat)
+[Skip to content](#main) [Skip to Chat](#chat)
 
 [![](/etc.clientlibs/wgu/clientlibs/clientlib-site/resources/images/wgu-logo.png)](https://www.wgu.edu/)
 
