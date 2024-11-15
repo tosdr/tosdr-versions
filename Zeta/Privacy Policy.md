@@ -1,4 +1,10 @@
-[![](https://d142whjg6dsdg2.cloudfront.net/logos/zeta-logo-lightmode.svg)](https://www.askzeta.com/)[Joint Accounts](https://www.askzeta.com/joint-bank-account)[Personal Accounts](https://www.askzeta.com/personal-bank-account)[Zeta+](https://www.askzeta.com/zeta-plus)[Magazine](https://www.askzeta.com/magazine)
+[![](https://d142whjg6dsdg2.cloudfront.net/logos/zeta-logo-lightmode.svg)](https://www.askzeta.com/)
+
+[Accounts](https://www.askzeta.com/joint-bank-account)
+
+[Zeta+](https://www.askzeta.com/zeta-plus)
+
+[Magazine](https://www.askzeta.com/magazine)
 
 Get started
 
@@ -190,108 +196,27 @@ If you have any questions or concerns about this Privacy Policy or our data prac
 
 2261 Market Street #4718 San Francisco, CA 94114 United States
 
-A newsletter designed to help  
-you achieve relationship goals.
-
 A newsletter designed to help you achieve relationship goals.
 
 [About](https://www.askzeta.com/aboutus)
 
-[Diversity](https://www.askzeta.com/diversity)
-
-[Press](https://www.askzeta.com/press)
-
-[Team](https://www.askzeta.com/aboutus)
-
-[Careers](https://www.askzeta.com/careers)
-
-[Legal](https://www.askzeta.com/legal)
-
-[Security](https://www.askzeta.com/security)
-
-[Magazine](https://www.askzeta.com/magazine/articles)
-
-[Articles](https://www.askzeta.com/magazine/articles)
-
-[Guides and Tools](https://www.askzeta.com/magazine/#guides-quizzes-tools-podcast)
-
-[Podcast](https://www.askzeta.com/magazine/podcast)
-
-[#SentWithLove](https://www.askzeta.com/sentwithlove)
-
-[Support](https://www.askzeta.com/help)
-
-[FAQs](https://www.askzeta.com/help)
-
-[support@askzeta.com](mailto:support@askzeta.com)
-
-[Secure Chat](https://card.askzeta.com/messages)
-
-[Swag](https://askzeta.myshopify.com/)
-
-[![](https://d142whjg6dsdg2.cloudfront.net/app-store-icons/googleplaybadge.png)](https://play.google.com/store/apps/details?id=com.askzeta.aZetaFi&hl=en_US&gl=US)
-
-[![](https://d142whjg6dsdg2.cloudfront.net/app-store-icons/AppleBadge.png)](https://apps.apple.com/us/app/zeta-joint-card/id1493011848)
-
-Join Our Community
-
-[](https://www.youtube.com/channel/UC4ATyZg_5sMfFtGCiZqCwxw)
-
-[](https://www.instagram.com/askzeta/)
-
-[](https://www.facebook.com/askzeta)
-
-[](https://twitter.com/askzeta)
-
-[](https://pinterest.com/askzeta)
-
-[](https://www.reddit.com/r/ZetaJointCards/)
-
-[](https://www.tiktok.com/@askzeta)
-
-© 2024 Zeta Help Inc. All rights reserved.
-
-2261 Market Street #4718
-
-San Francisco, CA 94114
-
 [About](https://www.askzeta.com/aboutus)
 
-[Diversity |](https://www.askzeta.com/diversity) 
+[Diversity](https://www.askzeta.com/diversity)[Press](https://www.askzeta.com/press)[Team](https://www.askzeta.com/aboutus)[Careers](https://www.askzeta.com/careers)[Legal](https://www.askzeta.com/legal)[Security](https://www.askzeta.com/security)
 
-[Press  |](https://www.askzeta.com/press)
+[Magazine](https://www.askzeta.com/magazine)
 
-[Team  |](https://www.askzeta.com/aboutus)
+[Magazine](https://www.askzeta.com/magazine)
 
-[Careers  |](https://www.askzeta.com/careers)
-
-[Partner   |](https://www.askzeta.com/partner)
-
- [Legal  |](https://www.askzeta.com/legal)
-
-[Security](https://www.askzeta.com/security)
-
-[Magazine](https://www.askzeta.com/magazine/articles)
-
-[Articles  |](https://www.askzeta.com/magazine/articles)
-
-[Guides  |](https://www.askzeta.com/magazine/#guides-quizzes-tools-podcast)
-
-[Tools  |](https://www.askzeta.com/magazine/#guides-quizzes-tools-podcast)
-
-[Podcast |](https://www.askzeta.com/magazine/podcast) 
-
-[#SentWithLove](https://www.askzeta.com/sentwithlove)
+[Articles](https://www.askzeta.com/magazine/articles)[Guides and Tools](https://www.askzeta.com/magazine/#guides-quizzes-tools-podcast)[Podcast](https://www.askzeta.com/magazine/podcast)[#SentWithLove](https://www.askzeta.com/sentwithlove)
 
 [Support](https://www.askzeta.com/help)
 
-[FAQs  |](https://www.askzeta.com/help)
+[Support](https://www.askzeta.com/help)
 
-[support@askzeta.com |](mailto:support@askzeta.com) 
+[FAQs](https://www.askzeta.com/help)[support@askzeta.com
 
-[Secure Chat  |](https://card.askzeta.com/messages)
-
-[Swag](https://askzeta.myshopify.com/)
+ |](https://www.askzeta.com/mailto:support@askzeta.com) [Secure Chat](https://card.askzeta.com/messages)
 
 [![](https://d142whjg6dsdg2.cloudfront.net/app-store-icons/googleplaybadge.png)](https://play.google.com/store/apps/details?id=com.askzeta.aZetaFi&hl=en_US&gl=US)
 
@@ -315,13 +240,12 @@ Join Our Community
 
 © 2024 Zeta Help Inc. All rights reserved.
 
-2261 Market Street #4718
-
+2261 Market Street #4718  
 San Francisco, CA 94114
 
 * * *
 
-To safely consume this site, we recommend reading this disclaimer. Any outbound links will take you away from Zeta, to external sites in the world wide web. Just so you know, Zeta doesn’t endorse any linked websites nor do we pay/bribe anyone to appear on here. Any reference to prices on the site are just estimates; actual prices are up to specific merchants and their current desire to charge you for things. Also, nothing on this website should be construed as investment advice. We’re here to share our favorite tools, tactics and tips for managing your money together. This content is for your responsible consumption. Please don’t see this as a recommendation to buy specific investments or go on a crypto-binge. Lastly, we 100% believe that personal finance is exactly that, personal. We may sometimes publish content on this website that has been created by affiliated or unaffiliated partners such as employees, advisors or writers. Unless we explicitly say so, these post do not necessarily represent the actual views or opinions of Zeta.  
+To safely consume this site, we recommend reading this disclaimer. Any outbound links will take you away from Zeta, to external sites in the world wide web. Just so you know, Zeta doesn’t endorse any linked websites nor do we pay anyone to appear on here. Any reference to prices on the site are just estimates; actual prices are up to specific merchants and their current desire to charge you for things. Also, nothing on this website should be construed as investment advice. We’re here to share our favorite tools, tactics and tips for managing your money together. This content is for your responsible consumption. Please don’t see this as a recommendation to buy specific investments or go on a crypto-binge. Lastly, we 100% believe that personal finance is exactly that, personal. We may sometimes publish content on this website that has been created by affiliated or unaffiliated partners such as employees, advisors or writers. Unless we explicitly say so, these post do not necessarily represent the actual views or opinions of Zeta.  
   
 By using this website, you understand the content presented is provided for informational purposes only and agree to our [Terms of Use](https://www.askzeta.com/terms-of-use) and [Privacy Policy](https://www.askzeta.com/privacy-policy).  
   
