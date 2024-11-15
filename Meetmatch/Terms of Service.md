@@ -19,7 +19,9 @@
     * [Fontys University Career Day event](https://www.meetmatch.biz/fontys-career-day/)
     * [Informa Live Labs Connect](https://www.meetmatch.biz/informa-live-labs-connect-smart-match-app/)
     * [Success story: DHL](https://www.meetmatch.biz/success-story-dhl/)
+    * [Hosted Buyer events ABM Signature Summit Series](https://www.meetmatch.biz/abm-signature-summit-series-and-meetmatch-elevate-hosted-buyer-experience/)
 * About us
+    * [Our team](https://www.meetmatch.biz/professional-networking-app-our-team/)
     * [Careers](https://www.meetmatch.biz/realtime-networking-career/)
     * [Blog](https://www.meetmatch.biz/blog/)
     * [Media](https://www.meetmatch.biz/media/)
@@ -41,7 +43,9 @@ Menu
     * [Fontys University Career Day event](https://www.meetmatch.biz/fontys-career-day/)
     * [Informa Live Labs Connect](https://www.meetmatch.biz/informa-live-labs-connect-smart-match-app/)
     * [Success story: DHL](https://www.meetmatch.biz/success-story-dhl/)
+    * [Hosted Buyer events ABM Signature Summit Series](https://www.meetmatch.biz/abm-signature-summit-series-and-meetmatch-elevate-hosted-buyer-experience/)
 * About us
+    * [Our team](https://www.meetmatch.biz/professional-networking-app-our-team/)
     * [Careers](https://www.meetmatch.biz/realtime-networking-career/)
     * [Blog](https://www.meetmatch.biz/blog/)
     * [Media](https://www.meetmatch.biz/media/)
@@ -345,7 +349,9 @@ SUBMIT
     * [Fontys University Career Day event](https://www.meetmatch.biz/fontys-career-day/)
     * [Informa Live Labs Connect](https://www.meetmatch.biz/informa-live-labs-connect-smart-match-app/)
     * [Success story: DHL](https://www.meetmatch.biz/success-story-dhl/)
+    * [Hosted Buyer events ABM Signature Summit Series](https://www.meetmatch.biz/abm-signature-summit-series-and-meetmatch-elevate-hosted-buyer-experience/)
 * About us
+    * [Our team](https://www.meetmatch.biz/professional-networking-app-our-team/)
     * [Careers](https://www.meetmatch.biz/realtime-networking-career/)
     * [Blog](https://www.meetmatch.biz/blog/)
     * [Media](https://www.meetmatch.biz/media/)
