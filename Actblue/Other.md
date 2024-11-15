@@ -166,6 +166,7 @@ Support
 * [For Donors and Supporters](https://support.actblue.com/donors-and-supporters)
 * [Recurring Contributions](https://support.actblue.com/donors/contributions/how-do-i-change-or-cancel-my-recurring-contribution)
 * [Help](https://support.actblue.com/)
+* [Developer Documentation](https://secure.actblue.com/docs)
 
 Paid for by ActBlue ([actblue.com](https://secure.actblue.com/)) and not authorized by any candidate or candidate's committee.
 
