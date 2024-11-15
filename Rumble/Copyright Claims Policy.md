@@ -61,115 +61,119 @@ Go Ad-Free
 
 [Bannons War Room
 
-40.6K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+11K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Steven Crowder
+[Candace Show Podcast
 
-23.2K](https://rumble.com/v5plenh--next-chat-you-ask-we-answer.html "Steven Crowder")
+8.09K](https://rumble.com/v5ppbr2-fight-night-me-vs-marc-lamont-hill-on-transgenderism-candace-ep-104.html "Candace Show Podcast")
+
+[Nerdrotic
+
+4.69K](https://rumble.com/v5ppg2w-hollywood-in-panic-woke-celebrity-meltdown-penguin-finale-crushes-friday-ni.html "Nerdrotic")
+
+[The Jimmy Dore Show
+
+3.64K](https://rumble.com/v5ppwv2-deep-state-melting-down-over-tulsi-nomination-trump-calls-for-campus-speech.html "The Jimmy Dore Show")
 
 [NEWSMAX
 
-4.89K](https://rumble.com/v5pllcb-the-gerry-callahan-show-live-friday-november-15-2024-newsmax-podcasts.html "NEWSMAX")
+3.23K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[vivafrei
 
-1.49K](https://rumble.com/v5pib5q-the-mk-show-nov.-15th.html "Matt Kohrs")
+2.54K](https://rumble.com/v5ppccq-chinese-and-indian-infiltration-in-canadian-government-live-with-david-kray.html "vivafrei")
 
-[The Kirk Minihane Show
+[Stephen Gardner
 
-45](https://rumble.com/v5pm7fb-the-producers-show-november-15-2024.html "The Kirk Minihane Show")
+958](https://rumble.com/v5ppo2t-secret-traps-laid-for-trump-rfk-and-elon-megyn-kelly-worries-for-trumps-lif.html "Stephen Gardner")
 
-[barstoolsports
+[SNEAKO
 
-42](https://rumble.com/v5pm7fb-the-producers-show-november-15-2024.html "barstoolsports")
+347](https://rumble.com/v5ppe2t-sneako-x-konvy-soccer-stream.html "SNEAKO")
 
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
 
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
 
-[The Charlie Kirk Show](https://rumble.com/c/CharlieKirk "The Charlie Kirk Show")
+[Zero Blog Thirty](https://rumble.com/c/ZeroBlogThirty "Zero Blog Thirty")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
+
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
 
 [UFC Fight Pass](https://rumble.com/c/UFCFightPass "UFC Fight Pass")
 
-[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+[JustPearlyThings](https://rumble.com/c/JustPearlyThings "JustPearlyThings")
 
-[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+[Redacted News](https://rumble.com/c/Redacted "Redacted News")
 
-[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
 
-[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+[A New Untold Story](https://rumble.com/c/ANewUntoldStory "A New Untold Story")
 
-[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
-
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
-
-[Barstool Chicago](https://rumble.com/c/BarstoolChicago "Barstool Chicago")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
-
-[Jersey Jerry](https://rumble.com/c/jerseyjerry "Jersey Jerry")
-
-[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
-
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
-
-[Power Slap](https://rumble.com/c/powerslap "Power Slap")
-
-[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
-
-[Who's the Biggest A\*\*Hole?](https://rumble.com/c/WhosTheBiggestAHole "Who's the Biggest A**Hole?")
-
-[Hi-Rez](https://rumble.com/c/HIREZTV "Hi-Rez")
-
-[Vivek Ramaswamy](https://rumble.com/c/VivekRamaswamy "Vivek Ramaswamy")
-
-[Major League Fishing](https://rumble.com/c/MajorLeagueFishing "Major League Fishing")
-
-[LockPickingLawyer](https://rumble.com/c/LockPickingLawyer "LockPickingLawyer")
-
-[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
-
-[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
-
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
-
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
-
-[Mike Crispi](https://rumble.com/c/crispi "Mike Crispi")
-
-[Dr Steve Turley](https://rumble.com/c/DrSteveTurley "Dr Steve Turley")
-
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
-
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
-
-[The Big Jackpot](https://rumble.com/c/TheBigJackpot "The Big Jackpot")
-
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[Out & About](https://rumble.com/c/OutAndAbout "Out & About")
-
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
-
-[Dave Portnoy](https://rumble.com/c/DavePortnoy "Dave Portnoy")
-
-[Frank the Tank Fleming](https://rumble.com/c/FrankTheTankFleming "Frank the Tank Fleming")
-
-[Primitive Survival Tool](https://rumble.com/c/PrimitiveSurvivalTools "Primitive Survival Tool")
-
-[Tate Confidential](https://rumble.com/c/tateconfidential "Tate Confidential")
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
 
 [United Fight League](https://rumble.com/c/UnitedFightLeague "United Fight League")
 
-[Donald Trump Jr.](https://rumble.com/c/DonaldJTrumpJr "Donald Trump Jr.")
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
 
-[One Bite Pizza Reviews](https://rumble.com/c/OneBitePizzaReviews "One Bite Pizza Reviews")
+[Awaken With JP](https://rumble.com/c/AwakenWithJP "Awaken With JP")
 
-[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
+
+[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
+
+[The War Effort Podcast](https://rumble.com/c/THEWAREFFORTPODCAST "The War Effort Podcast")
+
+[Barstool Gametime](https://rumble.com/c/BarstoolGametime "Barstool Gametime")
+
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[Akademiks](https://rumble.com/c/Akademiks "Akademiks")
+
+[Havoc](https://rumble.com/c/Havoc "Havoc")
+
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+
+[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+
+[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+
+[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+
+[The Kirk Minihane Show](https://rumble.com/c/thekirkminihaneshow "The Kirk Minihane Show")
+
+[Nitrocross](https://rumble.com/c/Nitrocross "Nitrocross")
+
+[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+
+[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
+
+[JoBlo Originals](https://rumble.com/c/JoBloOriginals "JoBlo Originals")
+
+[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
+
+[NHRA](https://rumble.com/c/NHRA "NHRA")
+
+[Spittin' Chiclets](https://rumble.com/c/SpittinChiclets "Spittin' Chiclets")
+
+[After Skool](https://rumble.com/c/AfterSkool "After Skool")
 
 ### Theme
 
