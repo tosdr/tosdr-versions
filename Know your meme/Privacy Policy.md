@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[First Buddy](https://knowyourmeme.com/memes/first-buddy-elon-musk "First Buddy") [Streaming vs. 9-5 Job Debate](https://knowyourmeme.com/memes/streaming-vs-9-5-job-debate "Streaming vs. 9-5 Job Debate") [Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
+[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
