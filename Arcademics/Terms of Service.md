@@ -110,9 +110,9 @@ Useful Links
 
 * [FAQ](https://www.arcademics.com/faq)
 * [How It Works](https://www.arcademics.com/how-it-works)
+* [Accessibility](https://www.arcademics.com/accessibility)
 * [Standards](https://www.arcademics.com/standards)
 * [Link to Us](https://www.arcademics.com/link)
-* [Tell a Friend](https://www.arcademics.com/share)
 * [Contact Us](https://www.arcademics.com/contact)
 
 Company
