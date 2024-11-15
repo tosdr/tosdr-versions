@@ -144,7 +144,7 @@ Read how you can revolutionize your operation with Knack.
 
 Knack builders are succeeding.
 
-[![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/1-1.svg)](https://www.knack.com/case-studies/)
+[![](https://www.knack.com/wp-content/uploads/2023/11/1-1.svg)](https://www.knack.com/case-studies/)
 
 [DeRock Electric](https://www.knack.com/case-study/derock-electric/)
 
@@ -197,7 +197,7 @@ Built a a HIPAA-Compliant Start-Up and saved $250k+ saved/year.
 
 Get a quick taste of Knack.
 
-[![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/Screenshot-2023-11-06-at-2.35.42-PM-300x151-1.png)](https://www.knack.com/tour/)
+[![](https://www.knack.com/wp-content/uploads/2023/11/Screenshot-2023-11-06-at-2.35.42-PM-300x151-1.png)](https://www.knack.com/tour/)
 
 [Comprehensive Guide: How to Build Construction Software to Manage Operations](https://www.knack.com/blog/build-construction-software/)
 
@@ -275,7 +275,7 @@ Creating a web app without any coding experience is now…
 
 Expedite your app build with a pre-built template.
 
-[![Knack: No-Code Application Development Platform](https://www.knack.com/wp-content/uploads/2023/11/Customer-Portal-1-300x201-1.png)](https://www.knack.com/template-inventory/)
+[![](https://www.knack.com/wp-content/uploads/2023/11/Customer-Portal-1-300x201-1.png)](https://www.knack.com/template-inventory/)
 
 [Work Order Template](https://www.knack.com/templates/work-order/)
 
@@ -415,7 +415,7 @@ Knack may include identification of Customer as a customer on Knack’s website,
 
 The best no-code platform for building custom online databases and applications.
 
-[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/1.svg "Social Media Icons")](https://www.linkedin.com/company/knackhq/) [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/icons8-facebook.svg "Social Media Icons")](https://www.facebook.com/KnackHQ/) [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/2.svg "Social Media Icons")](https://www.instagram.com/knackteam/?hl=en) [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/3.svg "Social Media Icons")](https://www.youtube.com/user/knackhq)
+ [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/1.svg "Social Media Icons")](https://www.linkedin.com/company/knackhq/)[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/icons8-facebook.svg "Social Media Icons")](https://www.facebook.com/KnackHQ/)[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/2.svg "Social Media Icons")](https://www.instagram.com/knackteam/?hl=en)[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/3.svg "Social Media Icons")](https://www.youtube.com/user/knackhq)
 
 PLATFORM
 
@@ -468,7 +468,7 @@ SUPPORT
 
 [![](https://www.knack.com/wp-content/uploads/2023/11/knack-header-logo-2.svg "Knack: No-Code Application Development Platform")](https://www.knack.com/)
 
-[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/document-magnifying-glass.svg "Social Media Icons")](https://www.linkedin.com/company/knackhq/) [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/Item_margin.svg "Social Media Icons")](https://www.facebook.com/KnackHQ/) [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/Item_margin-2.svg "Social Media Icons")](https://www.instagram.com/knackteam/?hl=en) [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/Item-→-Link-Visit-Caspio-on-Youtube.svg "Social Media Icons")](https://www.youtube.com/user/knackhq)
+ [![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/document-magnifying-glass.svg "Social Media Icons")](https://www.linkedin.com/company/knackhq/)[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/Item_margin.svg "Social Media Icons")](https://www.facebook.com/KnackHQ/)[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/Item_margin-2.svg "Social Media Icons")](https://www.instagram.com/knackteam/?hl=en)[![Social Media Icons](https://www.knack.com/wp-content/uploads/2023/11/Item-→-Link-Visit-Caspio-on-Youtube.svg "Social Media Icons")](https://www.youtube.com/user/knackhq)
 
 [Terms of Service](https://www.knack.com/terms-of-service/) | [Privacy Policy](https://www.knack.com/privacy/) |
 
