@@ -51,7 +51,7 @@ Connexion
     * [Regardez Marmiton TV](https://tv.marmiton.org/)
     * [Rejoignez Marmitest](https://marmitest.marmiton.org/)
 * Prix Marmiton
-    * [Prix Marmiton 2024](https://www.marmiton.org/Prix-Marmiton-2023/prix-marmiton-2023-tp186800.html)
+    * [Prix Marmiton 2024](https://www.marmiton.org/prix-marmiton-2024/prix-marmiton-2024-hub-tp199358.html)
 * Livres
     * [Nos livres de cuisine avec](https://www.marmiton.org/recettes/les-livres-de-cuisine-marmiton-tp192022.html)
 
