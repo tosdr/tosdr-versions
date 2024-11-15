@@ -33,7 +33,7 @@
     More support
     
     * [Newsletters](https://www.understood.org/en/newsletters)
-    * [Podcasts](https://www.understood.org/en/podcast)
+    * [Podcasts](https://www.understood.org/en/podcasts)
     * [Take N.O.T.E. (tool for parents)](https://www.understood.org/en/take-note)
     
 * About us
