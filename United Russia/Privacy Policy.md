@@ -299,6 +299,30 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Дмитрий Медведев: «Молодая Гвардия Единой России» вносит свой вклад в развитие страны](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/dmitrij-medvedev-molodaya-gvardiya-edinoj-rossii-vnosit-svoj-vklad-v-razvitie-strany)
+
+[Дмитрий Медведев: «Молодая Гвардия Единой России» вносит свой вклад в развитие страны](https://er.ru/activity/news/dmitrij-medvedev-molodaya-gvardiya-edinoj-rossii-vnosit-svoj-vklad-v-razvitie-strany)
+
+[#ДАМедведев](https://er.ru/activity/news?tags%5B0%5D=1095750) [#Медведев](https://er.ru/activity/news?tags%5B0%5D=105) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899)
+
+Сегодня 12:54
+
+[![ВСУ атаковали автомобиль гуманитарной миссии «Единой России»](https://cdn.er.ru/media/news/November2024/RguaLJl55KfgDPN8sNMW-small.jpg)](https://er.ru/activity/news/vsu-atakovali-avtomobil-gumanitarnoj-missii-edinoj-rossii)
+
+[ВСУ атаковали автомобиль гуманитарной миссии «Единой России»](https://er.ru/activity/news/vsu-atakovali-avtomobil-gumanitarnoj-missii-edinoj-rossii)
+
+[#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#гуманитарнаямиссия](https://er.ru/activity/news?tags%5B0%5D=1092899) [#Харьковская область](https://er.ru/activity/news?tags%5B0%5D=1093485) [#Туров](https://er.ru/activity/news?tags%5B0%5D=24396) [#волонтеры](https://er.ru/activity/news?tags%5B0%5D=6247)
+
+Сегодня 10:57
+
+[![«Единая Россия» внесла в Госдуму законопроект о продлении механизма «зонтичных» поручительств](https://cdn.er.ru/media/news/November2024/dm2ja4ZgRK5Q07YjErA1-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-prodlenii-mehanizma-zontichnyh-poruchitelstv)
+
+[«Единая Россия» внесла в Госдуму законопроект о продлении механизма «зонтичных» поручительств](https://er.ru/activity/news/edinaya-rossiya-vnesla-v-gosdumu-zakonoproekt-o-prodlenii-mehanizma-zontichnyh-poruchitelstv)
+
+[#Когогина](https://er.ru/activity/news?tags%5B0%5D=10885) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#кредитование](https://er.ru/activity/news?tags%5B0%5D=1313) [#бизнес](https://er.ru/activity/news?tags%5B0%5D=18)
+
+Сегодня 09:00
+
 [![Ольга Занко: «Единая Россия» заложила в бюджет серьёзные средства на социальные и гражданские обязательства](https://cdn.er.ru/media/news/November2024/50HycWMoak2H5CCFV36l-small.jfif)](https://er.ru/activity/news/olga-zanko-edinaya-rossiya-zalozhila-v-byudzhet-seryoznye-sredstva-na-socialnye-i-grazhdanskie-obyazatelstva)
 
 [Ольга Занко: «Единая Россия» заложила в бюджет серьёзные средства на социальные и гражданские обязательства](https://er.ru/activity/news/olga-zanko-edinaya-rossiya-zalozhila-v-byudzhet-seryoznye-sredstva-na-socialnye-i-grazhdanskie-obyazatelstva)
@@ -320,30 +344,6 @@
 [«Единая Россия» передала помощь военнослужащим на Сватово-Купянском направлении](https://er.ru/activity/news/edinaya-rossiya-peredala-pomosh-voennosluzhashim-na-svatovo-kupyanskom-napravlenii)
 
 [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#помощьучастникамСВО](https://er.ru/activity/news?tags%5B0%5D=1093584) [#помощьвоеннослужащим](https://er.ru/activity/news?tags%5B0%5D=1093164) [#техника](https://er.ru/activity/news?tags%5B0%5D=2305)
-
-14.11.24
-
-[![Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://cdn.er.ru/media/news/November2024/Ejk8xGEktIbM5Nx3w7Q6-small.jpg)](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
-
-[Олег Матыцин: Поправки «Единой России» в бюджет помогут выполнить поставленную Президентом задачу по развитию массового спорта](https://er.ru/activity/news/oleg-matycin-popravki-edinoj-rossii-v-byudzhet-pomogut-vypolnit-postavlennuyu-prezidentom-zadachu-po-razvitiyu-massovogo-sporta)
-
-[#Матицын](https://er.ru/activity/news?tags%5B0%5D=149186) [#проектбюджета](https://er.ru/activity/news?tags%5B0%5D=113195) [#спортивнаяинфраструктура](https://er.ru/activity/news?tags%5B0%5D=1094899) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
-
-14.11.24
-
-[![Евгений Москвичев: На строительство дорог на три года в бюджете «Единая Россия» заложит 1 трлн 100 млрд рублей](https://cdn.er.ru/media/news/November2024/DY4NVPGPR9j6sY7U0wnh-small.jpg)](https://er.ru/activity/news/evgenij-moskvichev-na-stroitelstvo-dorog-na-tri-goda-v-byudzhete-edinaya-rossiya-zalozhit-1-trln-100-mlrd-rublej)
-
-[Евгений Москвичев: На строительство дорог на три года в бюджете «Единая Россия» заложит 1 трлн 100 млрд рублей](https://er.ru/activity/news/evgenij-moskvichev-na-stroitelstvo-dorog-na-tri-goda-v-byudzhete-edinaya-rossiya-zalozhit-1-trln-100-mlrd-rublej)
-
-[#Москвичев](https://er.ru/activity/news?tags%5B0%5D=9274) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#дороги](https://er.ru/activity/news?tags%5B0%5D=872) [#строительстводорог](https://er.ru/activity/news?tags%5B0%5D=118885) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
-
-14.11.24
-
-[![Анна Кузнецова: «Единая Россия» обеспечила выделение средств из бюджета на защиту суверенитета, семей с детьми и поддержку семей участников СВО](https://cdn.er.ru/media/news/November2024/UIJ8PdMuP20gosDQdKkl-small.jpg)](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-obespechila-vydelenie-sredstv-iz-byudzheta-na-zashitu-suvereniteta-semej-s-detmi-i-podderzhku-semej-uchastnikov-svo)
-
-[Анна Кузнецова: «Единая Россия» обеспечила выделение средств из бюджета на защиту суверенитета, семей с детьми и поддержку семей участников СВО](https://er.ru/activity/news/anna-kuznecova-edinaya-rossiya-obespechila-vydelenie-sredstv-iz-byudzheta-na-zashitu-suvereniteta-semej-s-detmi-i-podderzhku-semej-uchastnikov-svo)
-
-[#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#ФондЗащитникиОтечества](https://er.ru/activity/news?tags%5B0%5D=1094096) [#семьиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093476) [#детиучастниковСВО](https://er.ru/activity/news?tags%5B0%5D=1093752) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#семьисдетьми](https://er.ru/activity/news?tags%5B0%5D=136562)
 
 14.11.24
 
