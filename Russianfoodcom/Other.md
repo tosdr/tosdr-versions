@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_6.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,7 @@
 
 Сейчас читают
 
-* [Яблочный уксус](https://www.russianfood.com/recipes/recipe.php?rid=67203)
+* [Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634)
 * [Свиные рёбрышки, запечённые в томатном соусе с вином](https://www.russianfood.com/recipes/recipe.php?rid=164873)
 * [Тарт с франжипаном и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=158504)
 
@@ -172,6 +172,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Новый взгляд на новогоднее меню. Лучшие рецепты на Новый год (87)](https://www.russianfood.com/reading/?post_id=22877) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/718/sm_717776.jpg)](https://www.russianfood.com/reading/?post_id=22877)
+
+Кобб-салат с тунцом. Настойка на цитрусах. Жюльен с креветками и грибами. Голубцы под соусом бешамель. Десерт с персиками и сгущенкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22877)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22877#comments) | 15.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -199,7 +213,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174636#comments) | 14.11.24 |     |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174636#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -297,7 +311,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174635#comments) | 14.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174635#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -368,20 +382,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174814#comments) | 13.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Вкусно в праздники и в будни. Лучшие рецепты из рыбных консервов (13)](https://www.russianfood.com/reading/?post_id=22868) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/416/sm_415985.jpg)](https://www.russianfood.com/reading/?post_id=22868)
-
-Салат из сардины с яйцами и луком. Рис с тунцом и овощами. Суп из горбуши с сыром и шпинатом. Горячие бутерброды с рыбой в томате. Оладьи из рыбных консервов.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22868)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22868#comments) | 13.11.24 |     |
 
 |     |
 | --- |
@@ -454,10 +454,10 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750391.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750704.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744021.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174563) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174570) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750726.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174634) |
-| [Крученики из свинины с маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Суп с фасолью, ветчиной и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [Лазанья-рататуй](https://www.russianfood.com/recipes/recipe.php?rid=174563) | [Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) | [Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634) |
-| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750684.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174635) |
-| [Солянка с фасолью, колбасой и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=174635) |
+| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750391.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750704.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744021.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174563) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174570) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750726.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174634) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750684.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174635) |
+| [Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [Суп с фасолью, ветчиной и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [Лазанья-рататуй](https://www.russianfood.com/recipes/recipe.php?rid=174563) | [Крученики из свинины с маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) | [Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634) | [Солянка с фасолью, колбасой и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=174635) |
+| [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) |
+| [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -474,4 +474,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(109)
+(134)
