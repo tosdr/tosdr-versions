@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Effects of Psychedelics: Neural Circuits](https://www.sciencedaily.com/releases/2024/11/241114161054.htm)
 * [12,000-Year-Old Stones: Wheel-Like Technology?](https://www.sciencedaily.com/releases/2024/11/241113160855.htm)
 * [Evolution of a Large Brain: Long Childhood](https://www.sciencedaily.com/releases/2024/11/241113123122.htm)
 * [Fast Flowing Glaciers: Hidden Volcanic Activity](https://www.sciencedaily.com/releases/2024/11/241113123717.htm)
@@ -217,7 +218,6 @@ this hour
 * [Liquid Water On Mars 742 Million Years Ago](https://www.sciencedaily.com/releases/2024/11/241113160829.htm)
 * [Gas-Churning Monster Black Holes](https://www.sciencedaily.com/releases/2024/11/241113123542.htm)
 * [Bird Brain from Age of Dinosaurs: Intelligence](https://www.sciencedaily.com/releases/2024/11/241113123306.htm)
-* [Three Galactic 'Red Monsters' in Early Universe](https://www.sciencedaily.com/releases/2024/11/241113123127.htm)
 
 Trending Topics
 ---------------
