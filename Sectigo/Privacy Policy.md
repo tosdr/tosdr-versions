@@ -138,7 +138,7 @@ Resource Library
 
 [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
 
-* [45-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/45-day-tls-shorter-certificate-lifespans-everywhere)
+* [47-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/47-day-tls-shorter-certificate-lifespans-everywhere)
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
@@ -240,7 +240,7 @@ Login
     * [Webinars](https://www.sectigo.com/resource-library/webinars)
     * [Whitepapers](https://www.sectigo.com/resource-library/whitepapers)
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
-    * [45-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/45-day-tls-shorter-certificate-lifespans-everywhere)
+    * [47-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/47-day-tls-shorter-certificate-lifespans-everywhere)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
     * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
     * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
@@ -275,7 +275,7 @@ Legal and Compliance
 Privacy policy
 ==============
 
-![](/uploads/block_backgrounds/_1920x1080_fit_center-center_none/large-glass-office-building.png)
+![](https://www.sectigo.com/uploads/block_backgrounds/_1920x1080_fit_center-center_none/large-glass-office-building.png)
 
 ### Privacy policy in other languages
 
