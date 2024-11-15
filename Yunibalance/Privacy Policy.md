@@ -75,6 +75,8 @@ Email: privacy@yunibalance.com
 * [Tips to stay healthy during changing seasons](https://yunibalance.com/tips-stay-healthy-changing-seasons/)
 * [Importance of creation in your life](https://yunibalance.com/importance-creation-life/)
 
+##### Yunibalance
+
 * [About](https://yunibalance.com/about/)
 * [Privacy Policy](https://yunibalance.com/privacy-policy/)
 
