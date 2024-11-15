@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/bevestigde-fraude-bij-cda-lijsttrekkersverkiezing/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/de-atlantische-matrix-en-het-ontwaken-van-de-mensheid/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
