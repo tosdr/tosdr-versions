@@ -135,6 +135,14 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
 
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+
+  [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+
 [Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
 
   [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
@@ -142,14 +150,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 [Trump's picks: A Fox News host, an ex-spy chief and the world's richest man](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
 
   [![Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433751.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
-
-[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
-
-  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
-
-[As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
-
-  [![Masato Kanda, then-vice minister of finance for international affairs, in January 2022](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433952.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Masato Kanda, then-vice minister of finance for international affairs, in January 2022")](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
 
 Editors' Picks
 --------------
@@ -161,6 +161,20 @@ Editors' Picks
 By [Elizabeth Beattie](https://www.japantimes.co.jp/author/3993/elizabeth-beattie/ "Elizabeth Beattie")  
 
   [![An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433619.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An infrastructure project in the city of Mumbai. The International Monetary Fund forecasts 7.0% growth for India in 2024 and 6.5% in 2025, compared with 0.3% growth for Japan this year and 1.1% next year.")](https://www.japantimes.co.jp/business/2024/11/12/economy/india-japan-gdp/ "India set to overtake Japan in GDP rankings")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -177,20 +191,6 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
 
   [![Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433751.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Then-U.S. President Donald Trump is interviewed by "Fox and Friends" co-host Pete Hegseth at the White House in Washington in April 2017. Trump nominated Hegseth to be the next U.S. defense secretary on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/13/world/politics/trump-defense-secretary-hegseth/ "Trump's picks: A Fox News host, an ex-spy chief and the world's richest man")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
-
-  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
-
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
-
-[As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
-
-By [Tetsushi Kajimoto](https://www.japantimes.co.jp/author/575/tetsushi-kajimoto/ "Tetsushi Kajimoto") and [Makiko Yamazaki](https://www.japantimes.co.jp/author/449/makiko-yamazaki/ "Makiko Yamazaki")  
-
-  [![Masato Kanda, then-vice minister of finance for international affairs, in January 2022](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433952.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "Masato Kanda, then-vice minister of finance for international affairs, in January 2022")](https://www.japantimes.co.jp/business/2024/11/13/weak-yen-kanda-action-warning/ "As pain from weak yen deepens, Japan's ex-currency chief Masato Kanda warns of action")
 
 Podcast
 -------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Kim Jong Un calls for mass production of suicide attack drones](https://www.japantimes.co.jp/news/2024/11/15/asia-pacific/politics/kim-mass-suicide-drone-production/ "Kim Jong Un calls for mass production of suicide attack drones")
+[Share of graduating Japanese university students with job offers falls](https://www.japantimes.co.jp/news/2024/11/15/japan/society/uni-students-job-offers-down/ "Share of graduating Japanese university students with job offers falls")
 
-26 mins ago
+15 mins ago
 
-[U.S. keeps Japan on forex monitoring list](https://www.japantimes.co.jp/business/2024/11/15/markets/us-japan-forex-list/ "U.S. keeps Japan on forex monitoring list")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-1 hours ago
+55 mins ago
 
-[Borderless Europe fights brain drain as talent heads north](https://www.japantimes.co.jp/news/2024/11/15/world/society/europe-brain-drain-north/ "Borderless Europe fights brain drain as talent heads north")
-
-1 hours ago
-
-[Many long COVID patients adjust to slim recovery odds as world moves on](https://www.japantimes.co.jp/news/2024/11/15/world/science-health/long-covid-patients-adjust/ "Many long COVID patients adjust to slim recovery odds as world moves on")
+[British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
 1 hours ago
 
-[LDP eyes larger tax breaks for individual political donations](https://www.japantimes.co.jp/news/2024/11/15/japan/politics/ldp-individual-donations-tax/ "LDP eyes larger tax breaks for individual political donations")
+[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
-2 hours ago
+1 hours ago
+
+[DPP leader clashes with governors over tax-free income limit](https://www.japantimes.co.jp/news/2024/11/15/japan/politics/dpp-tamaki-governor-clashes/ "DPP leader clashes with governors over tax-free income limit")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
