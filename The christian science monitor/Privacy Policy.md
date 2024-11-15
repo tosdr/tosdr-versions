@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Joy
+
+### A graceful renewal of Notre-Dame Cathedral](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1115/A-graceful-renewal-of-Notre-Dame-Cathedral "A graceful renewal of Notre-Dame Cathedral")
+
+[Safety
+
+### When Hezbollah rockets are incoming, and you can’t reach the shelter](https://www.csmonitor.com/World/Middle-East/2024/1115/hezbollah-rockets-terrorize-northern-israel-towns "When Hezbollah rockets are incoming, and you can’t reach the shelter")
+
 [Resilience
 
-### Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.](https://www.csmonitor.com/World/Europe/2024/1114/ukraine-war-pokrovsk-siege-russian-invasion-drones "Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.")
-
-[Forgiveness
-
-### Look who seeks Ethiopia’s postwar healing](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1114/Look-who-seeks-Ethiopia-s-postwar-healing "Look who seeks Ethiopia’s postwar healing")
-
-[Dignity
-
-### A ride for freedom in China](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1113/A-ride-for-freedom-in-China "A ride for freedom in China")
+### Women in construction find solidarity as ‘sisters in the brotherhood’](https://www.csmonitor.com/USA/Society/2024/1115/women-construction-trade-unions-gender-pay-gap "Women in construction find solidarity as ‘sisters in the brotherhood’")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 14, 2024
+November 15, 2024
 
-A story for Ukraine, and the world
+An extraordinary man and his message for today
 
-Two weeks ago, the Monitor’s Howard LaFranchi was the rare reporter to get into Pokrovsk, Ukraine, which is facing a tough Russian onslaught. It hasn’t fallen, something many expected in September, when Monitor writer Dominique Soguel reported from there about civilian evacuations.It’s a story that has meaning not only for Ukrainians but for the world as well. Yet a group of Ukrainian officials who visited the Monitor recently posed a searing question: Are Americans thinking of us as we struggle to defend our democracy? One woman told of her father, who was killed fighting last year. Her husband is a soldier as well. Eventually, she said, I, too, may wear a uniform.Their commitment to their freedom was unassailable. We reassured them that our commitment to sharing their stories is the same.
+“You have to love that person who’s hitting you.” That is a quote from civil rights icon John Lewis in today’s review of a new biography.Why is that true? The pioneer of modern nonviolent resistance, Mohandas Gandhi, came to a startling conclusion. Injustice comes from the desire to control others, which plays upon our passions and prejudices. Truth comes from the struggle to control oneself without yielding to despair or hate. In its most radical forms, this becomes a transformational grace that changes people and societies through conscience, not through control.It is the amplitude of a pure heart, unabridged and unleashed, and a power that does not wax or wane with the political seasons.
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Trump promised to pardon Jan. 6 felons. Where does that stand now?](https://www.csmonitor.com/USA/Justice/2024/1115/trump-jan6-capitol-attack-pardons "Trump promised to pardon Jan. 6 felons. Where does that stand now?")
+[### When Hezbollah rockets are incoming, and you can’t reach the shelter](https://www.csmonitor.com/World/Middle-East/2024/1115/hezbollah-rockets-terrorize-northern-israel-towns "When Hezbollah rockets are incoming, and you can’t reach the shelter")
 
-[### Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.](https://www.csmonitor.com/World/Europe/2024/1114/ukraine-war-pokrovsk-siege-russian-invasion-drones "Ukraine’s Pokrovsk was about to fall to Russia 2 months ago. It’s hanging on.")
+[### Trump prepares for ‘economic warfare’ with China](https://www.csmonitor.com/World/2024/1115/trump-tariffs-china-us-trade-war-deficit "Trump prepares for ‘economic warfare’ with China")
 
-[### Trump leaves European allies fearing for their future](https://www.csmonitor.com/World/Europe/2024/1114/trump-europe-weakens-allies "Trump leaves European allies fearing for their future")
+[### ‘Elderly’ or ‘older’? Advocates and a dictionary address language on aging.](https://www.csmonitor.com/USA/Society/2024/1115/aging-vocabulary-gerontological-society-oed "‘Elderly’ or ‘older’? Advocates and a dictionary address language on aging.")
 
 * * *
 
