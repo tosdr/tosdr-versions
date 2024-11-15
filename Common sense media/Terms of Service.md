@@ -75,8 +75,6 @@ Search
     * [Privacy Program](https://www.commonsense.org/education/privacy)
         * [About the Privacy Program](https://privacy.commonsense.org/)
         * [Privacy Evaluations](https://privacy.commonsense.org/evaluations/1)
-        * [Privacy Articles](https://www.commonsense.org/education/privacy/articles)
-        * [Privacy Direct (Free download)](https://www.commonsense.org/education/privacy-direct)
 * [Tips and Resources](https://www.commonsense.org/education/articles)
     * [Lessons and Activities](https://www.commonsense.org/)
         * [Free Back-to-School Templates](https://www.commonsense.org/education/articles/free-back-to-school-templates-for-teachers-and-families)
