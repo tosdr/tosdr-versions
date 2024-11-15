@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[20% Off All Self-Defense Batons | Code: BATON20](https://www.thehomesecuritysuperstore.com/collections/batons?utm_source=website&utm_medium=banner&utm_campaign=20%25+Off+All+Self-Defense+Batons)
+[15% Off Self-Defense for Women | Code: MYSAFETY](https://www.thehomesecuritysuperstore.com/collections/self-defense-weapons-for-women?utm_campaign=15%25%20Off%20Self-Defense%20for%20Women&utm_medium=banner&utm_source=website)
 
-TODAY'S OFFER: :: | 20% Off All Self-Defense Batons | Code: BATON20
+TODAY'S OFFER: :: | 15% Off Self-Defense for Women | Code: MYSAFETY
 
 TODAY'S OFFER: : :
 
- 20% Off All Self-Defense Batons Code: BATON20
+ 15% Off Self-Defense for Women Code: MYSAFETY
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
