@@ -401,6 +401,18 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![McDonald's is bringing back a festive dessert – but not everywhere](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2181113229.jpg?ve=1&tl=1)
+
+ ![McDonald's is bringing back a festive dessert – but not everywhere](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2181113229.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-holiday-pie-2024-locations)
+
+### [McDonald's is bringing back a festive dessert – but not everywhere](https://www.fox4news.com/news/mcdonalds-holiday-pie-2024-locations)
+
+ [![Advance Auto Parts closing over 700 locations following sluggish performance](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/advanced-auto-parts.jpg?ve=1&tl=1)
+
+ ![Advance Auto Parts closing over 700 locations following sluggish performance](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/advanced-auto-parts.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/advance-auto-parts-closing-over-700-locations-following-sluggish-performance)
+
+### [Advance Auto Parts closing over 700 locations following sluggish performance](https://www.fox4news.com/news/advance-auto-parts-closing-over-700-locations-following-sluggish-performance)
+
  [![Juvenile killed in Fort Worth hit-and-run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
 
  ![Juvenile killed in Fort Worth hit-and-run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/juvenile-killed-fort-worth-hit-and-run)
@@ -418,18 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Dallas woman, 19, kills elderly man over phone in Facebook Marketplace meetup: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/facebook-marketplace-murder.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/19-year-old-girl-charged-capital-murder-dallas-killing-elderly-man)
 
 ### [Dallas woman, 19, kills elderly man over phone in Facebook Marketplace meetup: police](https://www.fox4news.com/news/19-year-old-girl-charged-capital-murder-dallas-killing-elderly-man)
-
- [![Woman testified Matt Gaetz had sex with her while she was 17 and in high school: Report](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gaetz1.jpg?ve=1&tl=1)
-
- ![Woman testified Matt Gaetz had sex with her while she was 17 and in high school: Report](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gaetz1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/woman-testified-matt-gaetz-had-sex-her-while-she-was-17-high-school-report)
-
-### [Woman testified Matt Gaetz had sex with her while she was 17 and in high school: Report](https://www.fox4news.com/news/woman-testified-matt-gaetz-had-sex-her-while-she-was-17-high-school-report)
-
- [![Trump's cabinet nominations: Who's picked and what's still open?](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-picks.jpg?ve=1&tl=1)
-
- ![Trump's cabinet nominations: Who's picked and what's still open?](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-picks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-nominations-picks-open-roles)
-
-### [Trump's cabinet nominations: Who's picked and what's still open?](https://www.fox4news.com/news/trump-cabinet-nominations-picks-open-roles)
 
 ###### [News](https://www.fox4news.com/news)
 
