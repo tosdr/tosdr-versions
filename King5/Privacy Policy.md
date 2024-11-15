@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/9737b014-65ba-476a-af1f-7d2aa6bb1bb9/9737b014-65ba-476a-af1f-7d2aa6bb1bb9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9737b014-65ba-476a-af1f-7d2aa6bb1bb9/9737b014-65ba-476a-af1f-7d2aa6bb1bb9_360x203.jpg)](https://www.king5.com/article/news/local/seattle-century-ballroom-announces-plans-to-close-2025/281-4f6995fa-bf22-4482-b9da-2485f82a5d50)
+    *  [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
         
-        #### [Seattle's Century Ballroom announces plans to close in 2025](https://www.king5.com/article/news/local/seattle-century-ballroom-announces-plans-to-close-2025/281-4f6995fa-bf22-4482-b9da-2485f82a5d50)
+        #### [Driver fleeing Thurston County traffic stop causes fatal crash, deputies say](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f) [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
         
-    *  [![](https://media.king5.com/assets/KING/images/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5/20241115T070925/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5/20241115T070925/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5_360x203.jpg)](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
+        #### [Man killed in Tumwater after being struck by driver fleeing traffic stop, deputies say](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f) [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
         
-        #### [Car thefts down 30% in Washington state in 2024, officials say](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
+        #### [Driver who fled traffic stop causes fatal Thurston County crash, deputies say](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
+    *  [![](https://media.king5.com/assets/KING/images/948dbcd9-a660-47e0-be26-4001ca527ab8/20241115T011443/948dbcd9-a660-47e0-be26-4001ca527ab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/948dbcd9-a660-47e0-be26-4001ca527ab8/20241115T011443/948dbcd9-a660-47e0-be26-4001ca527ab8_360x203.jpg)](https://www.king5.com/article/news/local/infrastructure/puget-sound-energy-upgrades-electrical-grid-in-vulnerable-community/281-873d494b-720e-40dc-9dd2-bd8f98dd8c3e)
+        
+        #### [Power to the people: PSE upgrades electrical grid in vulnerable community](https://www.king5.com/article/news/local/infrastructure/puget-sound-energy-upgrades-electrical-grid-in-vulnerable-community/281-873d494b-720e-40dc-9dd2-bd8f98dd8c3e)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +59,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/6d1d5e6a-37e5-40b0-8694-78c341b1a38c/20241115T072559/6d1d5e6a-37e5-40b0-8694-78c341b1a38c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6d1d5e6a-37e5-40b0-8694-78c341b1a38c/20241115T072559/6d1d5e6a-37e5-40b0-8694-78c341b1a38c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/ce08f110-7497-427e-824d-da003a8ae389/20241115T131144/ce08f110-7497-427e-824d-da003a8ae389_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce08f110-7497-427e-824d-da003a8ae389/20241115T131144/ce08f110-7497-427e-824d-da003a8ae389_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +97,7 @@ Navigation
 
 Seattle, WA »
 
-43°
+44°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
