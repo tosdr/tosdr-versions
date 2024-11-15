@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/5820.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -72,13 +72,13 @@ Visitez l'une de nos quelques environ
 
 [Filiales](https://www.microspot.ch/fr/storefinder)
 
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-ID-Weekend-Deals-KW16-.jpg%3Fcontext%3DbWFzdGVyfGNtc3w0NTA4OHxpbWFnZS9qcGVnfGFHSmxMMmd3Tnk4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhNVFpmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE5qQjRORGcwWDBreU5GOUpSRjlYWldWclpXNWtYMFJsWVd4elgwdFhNVFpmTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8NzdkNjY4NGNkODdlNGU3M2Y5YTk5MWIwOGZhZjZmMmM4MmE3MTRlODYxNGRiMDI5YzFlMTFlMmY4YzE1YjNiNw&w=2360&q=75)
+
+25%de rabais sur les cartouches d'encre et les toners HP et EPSON](https://www.microspot.ch/fr/cms/id-weekend-deal)
+
 [![APPLE](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0749-CM2-MacBook-Pro2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxOTgwM3xpbWFnZS9qcGVnfGFEZzNMMmd6Tmk4NE5qQjRORGcwWDBreU5GOHdOelE1WDBOTk1sOU5ZV05DYjI5clgxQnliekl1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTNORGxmUTAweVgwMWhZMEp2YjJ0ZlVISnZNaTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8Y2MyYTk3MWEyZThkNWE4YjkzNGExODUwNThhZWFkNmQ1ZDUyOTZiYjMyNTdiMTBmMjFhZjQ0ZDE2NzkxYWJmNQ&w=2360&q=75)
 
 10%de rabais sur une sélection de MacBook](https://www.microspot.ch/fr/cms/macbook)
-
-[![Philips TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0725-CM1-Phillips-Week-KW46-47.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1NDM0N3xpbWFnZS9qcGVnfGFHWXlMMmhrTlM4NE5qQjRORGcwWDBreU5GOHdOekkxWDBOTk1WOVFhR2xzYkdsd2MxOVhaV1ZyWDB0WE5EWXRORGN1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTNNalZmUTAweFgxQm9hV3hzYVhCelgxZGxaV3RmUzFjME5pMDBOeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGE4Nzg2OWU2YjY3NDMwNDRiOWUxMzU2YmRhZmZkOTZmZjkzODlhNzc4ZTIxYWNjMDNiZTg5Y2JlYjY1ODE0ZA&w=2360&q=75)
-
-15%de rabais sur une sélection de téléviseurs PHILIPS](https://www.microspot.ch/fr/brand/philips)
 
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0746-CM1-Promos-KW46-472.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzNjY5NHxpbWFnZS9qcGVnfGFEZGlMMmcxWXk4NE5qQjRORGcwWDBreU5GOHdOelEyWDBOTk1WOVFjbTl0YjNOZlMxYzBOaTAwTnpJdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6ZzJNSGcwT0RSZlNUSTBYekEzTkRaZlEwMHhYMUJ5YjIxdmMxOUxWelEyTFRRM01pNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXwzMmVkMDZjNjZjMmUxMWFhN2I4MzA1YWFiMTUxMzU3ODkyODI4Y2VjYjA0YzIzNDQyNTljZGQ5ZDE5YjdjYzAz&w=2360&q=75)
 
@@ -92,9 +92,9 @@ Visitez l'une de nos quelques environ
 
 20%de rabais sur SAMSUNG TV à partir de 75 pouces](https://www.microspot.ch/fr/cms/samsung-promotion)
 
-[![HAMMER Fitness](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0734-CM3-NL-Hammer-Fitnessgera-te-KW45.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyMjE2MnxpbWFnZS9qcGVnfGFESXpMMmhqT0M4NE5qQjRORGcwWDBreU5GOHdOek0wWDBOTk0xOU9URjlJWVcxdFpYSmZSbWwwYm1WemMyZGxjbUhNaUhSbFgwdFhORFV1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTNNelJmUTAwelgwNU1YMGhoYlcxbGNsOUdhWFJ1WlhOeloyVnlZY3lJZEdWZlMxYzBOUzVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8ODI0NmQ3NjdkMDA4Mjc1MjNiNzBlZmM2ODMwNzAxNDE2MjgwNjkxMGEyMDMwOTAyMTNkOWZiOWExNzYzMGE2Yw&w=2360&q=75)
+[![Philips TV](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0725-CM1-Phillips-Week-KW46-47.jpg%3Fcontext%3DbWFzdGVyfGNtc3w1NDM0N3xpbWFnZS9qcGVnfGFHWXlMMmhrTlM4NE5qQjRORGcwWDBreU5GOHdOekkxWDBOTk1WOVFhR2xzYkdsd2MxOVhaV1ZyWDB0WE5EWXRORGN1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnMk1IZzBPRFJmU1RJMFh6QTNNalZmUTAweFgxQm9hV3hzYVhCelgxZGxaV3RmUzFjME5pMDBOeTVxY0dkVGRHRm5aV1J2Y0hScGJXbDZaV1F8NGE4Nzg2OWU2YjY3NDMwNDRiOWUxMzU2YmRhZmZkOTZmZjkzODlhNzc4ZTIxYWNjMDNiZTg5Y2JlYjY1ODE0ZA&w=2360&q=75)
 
-10%de rabais sur les articles de fitness de HAMMER](https://www.microspot.ch/fr/brand/hammer)
+15%de rabais sur une sélection de téléviseurs PHILIPS](https://www.microspot.ch/fr/brand/philips)
 
 Autres actions ici
 
@@ -219,17 +219,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Retrait gratuit
+[Frais de port gratuits pour livraison
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+
+[Retrait gratuit
+
+dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
