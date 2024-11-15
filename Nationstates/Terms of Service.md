@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Where do Democrats go from here? (679)](https://forum.nationstates.net/viewtopic.php?t=558013&f=20&view=unread#unread ""Where do Democrats go from here?" (679 posts)")
-* [UK Politics Thread: Kemi Badenoch ele… (12,299)](https://forum.nationstates.net/viewtopic.php?t=538053&f=20&view=unread#unread ""UK Politics Thread: Kemi Badenoch elected Tory Leader" (12,299 posts)")
-* [Hypothetical: Californian Secession (72)](https://forum.nationstates.net/viewtopic.php?t=558290&f=20&view=unread#unread ""Hypothetical: Californian Secession" (72 posts)")
-* [Lone Wolves United - For Your Protection (772)](https://forum.nationstates.net/viewtopic.php?t=510102&f=12&view=unread#unread ""Lone Wolves United - For Your Protection" (772 posts)")
-* [Ask BN a question (2,032)](https://forum.nationstates.net/viewtopic.php?t=550451&f=25&view=unread#unread ""Ask BN a question" (2,032 posts)")
+* [American Politics: Turnabout Trump (4,751)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (4,751 posts)")
+* [The guns of TET fell silent (12,090)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""The guns of TET fell silent" (12,090 posts)")
+* [NFL Football Thread 24-25: The Road t… (8,553)](https://forum.nationstates.net/viewtopic.php?t=527922&f=20&view=unread#unread ""NFL Football Thread 24-25: The Road to New Orleans!" (8,553 posts)")
+* [Commend or Condemn AN II (2,063)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,063 posts)")
+* [Womanly things that men do these days… (1,278)](https://forum.nationstates.net/viewtopic.php?t=557416&f=20&view=unread#unread ""Womanly things that men do these days, apparently." (1,278 posts)")
 
 Advertisement
 
