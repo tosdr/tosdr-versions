@@ -82,8 +82,8 @@ Menu
     *  [Partnerships](https://www.jacuzzi.com/en-us/partnerships.html)
     *  [Clean Water](https://www.jacuzzi.com/en-us/owners-center/clean-water.html)
     *  [Sustainability](https://www.jacuzzi.com/en-us/corporate-sustainability.html)
-    *  [Jacuzzi® - Everything Else is Just Hot Water](https://www.jacuzzi.com/en-us/Understand-the-Difference-Between-the-Terms-Spa-and-Jacuzzi.html)
     *  [Referral Program](https://www.jacuzzi.com/en-us/referral-program.html)
+    *  [Jacuzzi® - Everything Else is Just Hot Water](https://www.jacuzzi.com/en-us/Understand-the-Difference-Between-the-Terms-Spa-and-Jacuzzi.html)
     
     #### Featured
     
@@ -109,9 +109,9 @@ Menu
     *  [Specification Sheets](https://www.jacuzzi.com/en-us/specification-sheets.html)
     *  [CAD Downloads](https://www.jacuzzi.com/en-us/caddownloads.html)
     *  [Bath Manuals & User Guides](https://www.jacuzzi.com/en-us/owners-manuals.html)
+    *  [Manuals & User Guides](https://www.jacuzzi.com/en-us/resources/manuals-and-user-guides.html)
     *  [Referral Program](https://www.jacuzzi.com/en-us/referral-program.html)
     *  [Warranty Coverage](https://www.jacuzzi.com/en-us/owners-center/warranty-coverage.html)
-    *  [Manuals & User Guides](https://www.jacuzzi.com/en-us/resources/manuals-and-user-guides.html)
     *  [Register Your Product](https://www.jacuzzi.com/en-us/warranty-registration.html)
     
     #### Featured
