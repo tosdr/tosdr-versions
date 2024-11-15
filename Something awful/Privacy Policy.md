@@ -205,26 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Street Style](https://www.somethingawful.com/fashion-swat/street-style/1/)
-* [International Male](https://www.somethingawful.com/fashion-swat/international-male/1/)
-* [Biggles!](https://www.somethingawful.com/photoshop-phriday/biggles/1/)
-* [Foodimals](https://www.somethingawful.com/comedy-goldmine/foodimals/1/)
-* [Demographics](https://www.somethingawful.com/guides/demographic-politics-marketing/1/)
+* [Animal Anomalies 4](https://www.somethingawful.com/photoshop-phriday/animal-anomalies-4/1/)
+* [Dude, Where's Your Ride?](https://www.somethingawful.com/photoshop-phriday/wheres-my-ride/1/)
+* [Children's Letters to Dracula](https://www.somethingawful.com/news/children-letters-dracula/1/)
+* [Indiana Jones and the Crossovers of Doom](https://www.somethingawful.com/photoshop-phriday/indiana-jones-crossovers/1/)
+* [Batman Through the Ages](https://www.somethingawful.com/photoshop-phriday/batman-through-ages/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/question.png) [Most Amazing Toys of 2024?](http://forums.somethingawful.com/showthread.php?threadid=4075317 "Most Amazing Toys of 2024?")
-* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
 * ![](https://fi.somethingawful.com/forums/posticons/anime-hm7.gif) [Thread for WOKE ANIME ONLY](http://forums.somethingawful.com/showthread.php?threadid=4075345 "Thread for WOKE ANIME ONLY")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Tips for handling politicals during the holidays](http://forums.somethingawful.com/showthread.php?threadid=4075400 "Tips for handling politicals during the holidays")
+* ![](https://fi.somethingawful.com/forums/posticons/icon-dear_jeffrey.png) [Official mock hot cocoa on the couch thread \[mod sanctioned and approved\]](http://forums.somethingawful.com/showthread.php?threadid=4075336 "Official mock hot cocoa on the couch thread [mod sanctioned and approved]")
+* ![](https://fi.somethingawful.com/forums/posticons/LF-2wqxulw.gif) [Not Mad Max](http://forums.somethingawful.com/showthread.php?threadid=4075354 "Not Mad Max")
 
 ### Random Articles
 
-* [Variety Pack #1: Yearbook Madness! Middle-earth Madness! Enough with the Ackbar (and the Madness) Already!](https://www.somethingawful.com/photoshop-phriday/variety-pack-1/1/)
-* [Pretend There Is a Pun Using the Word Head Here](https://www.somethingawful.com/news/pretend-there-pun/)
-* [September 17, 2007](https://www.somethingawful.com/forum-fridays/ff09-27-07/1/)
-* [I don't even know, okay](https://www.somethingawful.com/mooflogs/dont-even-know/)
-* [When Pride Cometh, Then Cometh Shame](https://www.somethingawful.com/news/when-pride-cometh/)
+* [Dave's Cartoon Lagoon!](https://www.somethingawful.com/awful-links/awful-link-1036/)
+* [One Letter Off (Part 2)](https://www.somethingawful.com/photoshop-phriday/one-letter-off2/1/)
+* [The Goal's In The Net!](https://www.somethingawful.com/flash-tub/net-goal-cartoon/)
+* [The Second-Hand Tourist Destination Travel Brochure](https://www.somethingawful.com/news/second-hand-tourist/1/)
+* [M-More Pigs!](https://www.somethingawful.com/news/mmore-pigs/)
 
 [Random!](https://www.somethingawful.com/random/)
 
