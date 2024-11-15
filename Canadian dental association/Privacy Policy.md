@@ -16,7 +16,7 @@ Menu
 * [FAQ](https://www.cda-adc.ca/en/oral_health/faqs/index.asp)
 * [**Log In**](https://www.cda-adc.ca/en/practice/loginRedirect.asp?lang=en&redirect=/en/important_notices/website_privacy_policy/default.asp)
 * [](https://www.facebook.com/Canadian-Dental-Association)
-* [](https://twitter.com/CdnDentalAssoc)
+* [![X logo](/_images/content/x-logo-25px.png)](https://twitter.com/CdnDentalAssoc)
 * [](https://www.instagram.com/cdndentalassoc/)
 * [](https://www.linkedin.com/company/canadian-dental-association/)
 
@@ -27,7 +27,7 @@ Menu
 * [FAQ](https://www.cda-adc.ca/en/oral_health/faqs/index.asp)
 * **[Log In](https://www.cda-adc.ca/en/practice/loginRedirect.asp?lang=en&redirect=/en/important_notices/website_privacy_policy/default.asp)** 
 * [](https://www.facebook.com/Canadian-Dental-Association)
-* [](https://twitter.com/CdnDentalAssoc)
+* [![X logo](/_images/content/x-logo-25px.png)](https://x.com/CdnDentalAssoc)
 * [](https://www.instagram.com/cdndentalassoc/)
 * [](https://www.linkedin.com/company/canadian-dental-association/)
 
@@ -203,7 +203,7 @@ CDA website Privacy Policy September 8, 2003
 * [Practice Support Services](https://services.cda-adc.ca/)
 
 * [](https://www.facebook.com/Canadian-Dental-Association)
-* [](https://twitter.com/CdnDentalAssoc)
+* [![X logo](/_images/content/x-logo-white-25px.png)](https://x.com/CdnDentalAssoc)
 * [](https://www.instagram.com/cdndentalassoc/)
 * [](https://www.linkedin.com/company/canadian-dental-association/)
 
