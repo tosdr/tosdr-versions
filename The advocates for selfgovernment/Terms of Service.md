@@ -17,7 +17,7 @@ The username/email and password combination you entered was not found. Please tr
 
 [Skip to main content](#tm-main)
 
-[![Advocates For Self-Government](/wp-content/uploads/2024/04/the-advocates-logo.svg)](https://www.theadvocates.org/)
+ [![Advocates For Self-Government](/wp-content/themes/yootheme/cache/9e/asg-logo-retina-9e578128.png)](https://www.theadvocates.org/)
 
 [](#tm-dialog-mobile)
 
@@ -76,7 +76,7 @@ Enable Dark Mode
         
         2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Progressive-resized.png)
+    * [![](https://www.theadvocates.org/wp-content/uploads/pexels-photo-4855351-scaled-resized.jpeg)
         
         ### Human Respect Test for Progressives
         
@@ -89,9 +89,9 @@ Enable Dark Mode
         
         Duration
         
-        12 Min](https://www.theadvocates.org/qep/hrt-progressive/)
+        6 Min](https://www.theadvocates.org/qep/hrt-progressive/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Conservative-resized.png)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/kari-shea-8zUaMNX1Yhs-unsplash-scaled-resized.jpg)
         
         ### Human Respect Test for Conservatives
         
@@ -106,7 +106,7 @@ Enable Dark Mode
         
         5 Min](https://www.theadvocates.org/qep/hrt-conservative/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Moderate-resized.png)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/pexels-lara-jameson-8898867-scaled-resized.jpg)
         
         ### Human Respect Test for Moderates
         
@@ -121,7 +121,7 @@ Enable Dark Mode
         
         5 Min](https://www.theadvocates.org/qep/hrt-moderate/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Authoritarian-resized.png)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/pexels-cottonbro-4865542-scaled-resized.jpg)
         
         ### Human Respect Test for Authoritarians
         
@@ -136,7 +136,7 @@ Enable Dark Mode
         
         5 Min](https://www.theadvocates.org/qep/hrt-authoritarian/)
         
-    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/FB_graphics_Libertarian-resized.png)
+    * [![](https://www.theadvocates.org/wp-content/uploads/2020/07/pexels-tima-miroshnichenko-7203908-scaled-resized.jpg)
         
         ### Human Respect Test for Libertarians
         
