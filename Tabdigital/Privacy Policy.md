@@ -216,7 +216,13 @@ Call Eng: +371 66117130
 
 [![](https://static.tildacdn.com/tild3030-3934-4765-b238-326439316663/RIPE-NCC-Member.png)](https://apps.db.ripe.net/db-web-ui/query?searchtext=TABDIGITAL)
 
-* [Nextcloud Service](https://cloud.tab.digital/)
+* Language
+    
+    * [EN](https://cloud.tab.digital/)
+    * [FR](https://cloud.tab.digital/fr)
+    * [DE](https://cloud.tab.digital/de)
+    * [IT](https://cloud.tab.digital/it)
+    
 
 © 2024 TAB.DIGITAL
 
