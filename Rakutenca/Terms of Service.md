@@ -531,7 +531,7 @@ FR
         
         up to 3% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
         
-        2% Cash Back](https://www.rakuten.ca/holiday-inn)
+        8% Cash Back](https://www.rakuten.ca/holiday-inn)
         
         Featured Shops & Deals
         
@@ -848,11 +848,9 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 11% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/302082/en-stickyfooter-1170x60_ua-1.png "Under Armour Canada Coupons, Promo Codes")
+[![Earn 2% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/302082/en-stickyfooter-1170x60_ua-1.png "Under Armour Canada Coupons, Promo Codes")
 
-was 2%, now
-
-11% Cash Back
+2% Cash Back
 
 Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
 
