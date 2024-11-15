@@ -1,6 +1,6 @@
 [Skip To Content](#page-content-section) [Skip To Navigation](#)
 
-[Shop Our Holiday Gift Guide >](https://www.shaneco.com/christmas-gift-ideas?promo_name=global&promo_id=holiday) [Free Express Shipping & Free 60-Day Returns](https://www.shaneco.com/customer-service/shipping?promo_name=global&promo_id=shipping)
+[$10k Sparkle Spree! Enter to Win $10,000 >](https://www.shaneco.com/10ksparklespree?promo_name=global_holidaygiveaway) [Free Express Shipping & Free 60-Day Returns](https://www.shaneco.com/customer-service/shipping?promo_name=global_shipping)
 
 **Item**  has been added to your bag
 
