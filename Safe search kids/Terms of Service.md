@@ -172,11 +172,7 @@ Share This Article
 
 [Amazon Prime FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
-### Additional Search Tools
-
-* [Safe Game Search](https://www.safesearchkids.com/safe-online-game-search/#games)
-* [Safe App Search](https://www.safesearchkids.com/safe-app-search/#safeapps)
-* [Safe News Search](https://www.safesearchkids.com/what-news-should-students-use/#searchnews)
+* [Parental Control Software](https://www.safesearchkids.com/parental-control-software/)
 
 ### Parenting and Well-Being
 
@@ -415,6 +411,7 @@ Visit each page to bookmark each resource:
 [Search Wiki Kids](https://www.safesearchkids.com/wikipedia-for-kids/)  
 [Video Search](https://www.safesearchkids.com/safe-video-search/)  
 [Safe Games](https://www.safesearchkids.com/safe-online-game-search/#games)  
+[Safe News](https://www.safesearchkids.com/what-news-should-students-use/#searchnews)  
 [Safe Apps](https://www.safesearchkids.com/safe-app-search/#safeapps)  
   
 
