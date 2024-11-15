@@ -32,16 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
         
-        #### [School officials cut ribbon on expansion to Davenport West High School athletics center](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b) [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
+        #### [Davenport West High School has a new athletic wing](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
         
-        #### [Davenport West High School has a new athletic wing](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b) [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
-        
-        #### [Take a look inside the new athletics wing at West High School in Davenport](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_360x203.jpg)](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
         
-        #### [QC boxers feeling the hype around upcoming match between Jake Paul and Mike Tyson](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07) [![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_360x203.jpg)](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
+        #### [QC boxers feeling the hype around upcoming match between Jake Paul and Mike Tyson](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
         
-        #### [Excitement about Mike Tyson's boxing match against Jake Paul is building among QC boxers](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -90,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-45°
+41°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
