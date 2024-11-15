@@ -60,25 +60,25 @@ Exchanges: [763](https://coinmarketcap.com/rankings/exchanges/)
 
 Market Cap: 
 
-[$2.97T](https://coinmarketcap.com/charts/)
+[$2.9T](https://coinmarketcap.com/charts/)
 
-1.41%
+2.72%
 
 24h Vol: 
 
-[$255.09B](https://coinmarketcap.com/charts/)
+[$235.02B](https://coinmarketcap.com/charts/)
 
-13.30%
+23.78%
 
-Dominance: [BTC: 59.7% ETH: 12.7%](https://coinmarketcap.com/charts/bitcoin-dominance/)
+Dominance: [BTC: 59.8% ETH: 12.7%](https://coinmarketcap.com/charts/bitcoin-dominance/)
 
  ETH Gas: 
 
-22.58 Gwei
+17.27 Gwei
 
  Fear & Greed: 
 
-[85/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
+[83/100](https://coinmarketcap.com/charts/fear-and-greed-index/)
 
 Privacy Policy
 ==============
