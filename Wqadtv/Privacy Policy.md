@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e2828c89-45bd-47e6-9349-9aca737bf006/20241115T040601/e2828c89-45bd-47e6-9349-9aca737bf006_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e2828c89-45bd-47e6-9349-9aca737bf006/20241115T040601/e2828c89-45bd-47e6-9349-9aca737bf006_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/andalusia-fire-station-groundbreaking/526-4a0e8e9f-f57f-476a-8146-468b9bf144f0)
+        
+        #### [Andalusia breaks ground on new fire station](https://www.wqad.com/article/news/local/public-safety/andalusia-fire-station-groundbreaking/526-4a0e8e9f-f57f-476a-8146-468b9bf144f0)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
         
         #### [Davenport West High School has a new athletic wing](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_360x203.jpg)](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
-        
-        #### [QC boxers feeling the hype around upcoming match between Jake Paul and Mike Tyson](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f/20241115T043222/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f/20241115T043222/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b1c77e81-4c4f-48c9-8cfc-07b99590d946/20241115T131501/b1c77e81-4c4f-48c9-8cfc-07b99590d946_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1c77e81-4c4f-48c9-8cfc-07b99590d946/20241115T131501/b1c77e81-4c4f-48c9-8cfc-07b99590d946_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Clouds to stick around for the rest of the night](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Dense fog this morning giving way to sunshine by afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-41°
+50°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
