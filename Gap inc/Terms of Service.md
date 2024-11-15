@@ -67,7 +67,7 @@ Search Site:
     * [Job Search](https://www.gapinc.com/en-us/careers/job-search)
         * [My Saved Jobs](https://www.gapinc.com/en-us/careers/job-search/my-saved-jobs)
     * [Seasonal Hiring](https://www.gapinc.com/en-us/careers/seasonal-jobs)
-* [Investors](https://www.gapinc.com/en-us/investors)
+* [Investors](https://investors.gapinc.com/)
     * [Overview](https://www.gapinc.com/investors)
     * [Financial Information](https://investors.gapinc.com/financial-information/default.aspx)
         * [Quarterly Results](https://investors.gapinc.com/financial-information/default.aspx)
