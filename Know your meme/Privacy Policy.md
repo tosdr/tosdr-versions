@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [Streaming vs. 9-5 Job Debate](https://knowyourmeme.com/memes/streaming-vs-9-5-job-debate "Streaming vs. 9-5 Job Debate") [Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)")
+[First Buddy](https://knowyourmeme.com/memes/first-buddy-elon-musk "First Buddy") [Streaming vs. 9-5 Job Debate](https://knowyourmeme.com/memes/streaming-vs-9-5-job-debate "Streaming vs. 9-5 Job Debate") [Department of Government Efficiency (DOGE)](https://knowyourmeme.com/memes/subcultures/department-of-government-efficiency-doge "Department of Government Efficiency (DOGE)") [2024 U.S. Presidential Election](https://knowyourmeme.com/memes/events/2024-united-states-presidential-election--3 "2024 U.S. Presidential Election") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
 
 Privacy Policy
 ==============
