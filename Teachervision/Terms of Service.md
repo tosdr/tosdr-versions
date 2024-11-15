@@ -137,7 +137,7 @@ Site search input
     
     [All Warm Ups](https://www.teachervision.com/resources/daily-warm-ups)
     
-* [Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+* [Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
     
     [Top 10 Most Popular](https://www.teachervision.com/graphic-organizer/top-10-most-popular-graphic-organizers)
     
@@ -167,7 +167,7 @@ Site search input
     
     [Writing](https://www.teachervision.com/writing/top-10-writing-graphic-organizers-gallery)
     
-    [All Graphic Organizers](https://www.teachervision.com/lesson-planning/graphic-organizer)
+    [All Graphic Organizers](https://www.teachervision.com/graphic-organizers/printable/6293.html)
     
 * [Blog](https://www.teachervision.com/blog/morning-announcements "TeacherVision Blog")
 
@@ -175,10 +175,6 @@ Site search input
 
 Site search input 
 
-* [My Teachervision](https://www.teachervision.com/my-teachervision)
-    
-    [Home](https://www.teachervision.com/my-teachervision) [Favorites](https://www.teachervision.com/my-teachervision/user/favorites) [Profile](https://www.teachervision.com/my-teachervision/profile) [Subscription](https://www.teachervision.com/my-teachervision/subscription) [Today](https://www.teachervision.com/my-teachervision/today)
-    
 * [Subjects](https://www.teachervision.com/subject)
     
     [Art](https://www.teachervision.com/resources/art-music-drama) [Health and Safety](https://www.teachervision.com/subjects/health-safety) [Language Arts and Writing](https://www.teachervision.com/subjects/language-arts-writing) [Languages](https://www.teachervision.com/subjects/language-arts-writing/foreign-languages) [Mathematics](https://www.teachervision.com/subjects/mathematics) [Music](https://www.teachervision.com/resources/music) [Physical Education](https://www.teachervision.com/subjects/health-safety/physical-education-fitness) [Library](https://www.teachervision.com/subjects/reading-literature/library-resources) [Reading and Literature](https://www.teachervision.com/subjects/reading-literature) [Geography](https://www.teachervision.com/resources/geography) [Science](https://www.teachervision.com/subjects/science) [Government](https://www.teachervision.com/resources/us-government) [Social Studies and History](https://www.teachervision.com/subjects/social-studies-history) [21st Century Skills-SEL](https://www.teachervision.com/futurefit)
