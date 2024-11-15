@@ -99,7 +99,7 @@ Close this search box.
     [![](data:image/svg+xml;nitro-empty-id=MjMxMjozMjU=-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTY2NyAxMjgwIiB3aWR0aD0iMTY2NyIgaGVpZ2h0PSIxMjgwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==)](https://myrepublic.net/sg/4g/)
     
     ### [Our Best 4G Plan:  
-    $7.99/mth 188GB for first 3 mths](https://myrepublic.net/sg/4g/)
+    $7.99/mth 188GB for first 6 mths](https://myrepublic.net/sg/4g/)
     
     [Get Plans](https://myrepublic.net/sg/4g/)
     
