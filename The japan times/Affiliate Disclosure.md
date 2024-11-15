@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,21 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Hong Kong bomb plot 'mastermind' jailed for almost 24 years](https://www.japantimes.co.jp/news/2024/11/14/asia-pacific/hong-kong-bomb-plot-mastermind-24-years/ "Hong Kong bomb plot 'mastermind' jailed for almost 24 years")
+[Kim Jong Un calls for mass production of suicide attack drones](https://www.japantimes.co.jp/news/2024/11/15/asia-pacific/politics/kim-mass-suicide-drone-production/ "Kim Jong Un calls for mass production of suicide attack drones")
 
-10 hours ago
+26 mins ago
 
-[U.S. accuses China of vast cyberespionage against telecoms](https://www.japantimes.co.jp/news/2024/11/14/world/us-china-cyberespionage-telecoms/ "U.S. accuses China of vast cyberespionage against telecoms")
+[U.S. keeps Japan on forex monitoring list](https://www.japantimes.co.jp/business/2024/11/15/markets/us-japan-forex-list/ "U.S. keeps Japan on forex monitoring list")
 
-10 hours ago
+1 hours ago
 
-[Human error behind Osprey accident on remote Japan island: GSDF](https://www.japantimes.co.jp/news/2024/11/14/japan/human-error-osprey-remote-japan-island/ "Human error behind Osprey accident on remote Japan island: GSDF")
+[Borderless Europe fights brain drain as talent heads north](https://www.japantimes.co.jp/news/2024/11/15/world/society/europe-brain-drain-north/ "Borderless Europe fights brain drain as talent heads north")
 
-11 hours ago
+1 hours ago
 
-[Ishiba Cabinet approval inches up to 28.7%, poll shows](https://www.japantimes.co.jp/news/2024/11/14/japan/ishiba-cabinet-approval-november/ "Ishiba Cabinet approval inches up to 28.7%, poll shows")
+[Many long COVID patients adjust to slim recovery odds as world moves on](https://www.japantimes.co.jp/news/2024/11/15/world/science-health/long-covid-patients-adjust/ "Many long COVID patients adjust to slim recovery odds as world moves on")
 
-[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+1 hours ago
+
+[LDP eyes larger tax breaks for individual political donations](https://www.japantimes.co.jp/news/2024/11/15/japan/politics/ldp-individual-donations-tax/ "LDP eyes larger tax breaks for individual political donations")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
