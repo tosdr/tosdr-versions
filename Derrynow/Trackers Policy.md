@@ -259,21 +259,14 @@ Advertise with Us
 
 Most Popular
 
-[![Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told")](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
+[![Major Ireland snow update with one area pinpointed for 30cm within days](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Major Ireland snow update with one area pinpointed for 30cm within days")](https://www.derrynow.com/news/national-news/1656703/major-ireland-snow-update-with-one-area-pinpointed-for-30cm-within-days.html)
 
-Derry courthouse
+Major Ireland snow update with one area pinpointed for 30cm within days
 
-[Local News](https://www.derrynow.com/section/975/news)
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed")](https://www.derrynow.com/news/arts---entertainment/1655811/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
-
-[Arts & Entertainment](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on this week's RTÉ Late Late Show as star-studded line-up revealed](https://www.derrynow.com/news/arts---entertainment/1655811/who-are-the-guests-on-this-week-s-rte-late-late-show-as-star-studded-line-up-revealed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Major Ireland snow update with one area pinpointed for 30cm within days](https://www.derrynow.com/news/national-news/1656703/major-ireland-snow-update-with-one-area-pinpointed-for-30cm-within-days.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1656146/derry-death-notices-friday-november-15-2024.html)
 
@@ -282,46 +275,12 @@ Derry courthouse
 [Derry Death Notices - Friday, November 15, 2024](https://www.derrynow.com/news/deaths/1656146/derry-death-notices-friday-november-15-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Case against Limavady man charged with attempted murder of his partner to be reviewed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Case against Limavady man charged with attempted murder of his partner to be reviewed")](https://www.derrynow.com/news/local-news/1655796/case-against-limavady-man-charged-with-attempted-murder-of-his-partner-to-be-reviewed.html)
-
-Derry court
+[![Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack")](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Case against Limavady man charged with attempted murder of his partner to be reviewed](https://www.derrynow.com/news/local-news/1655796/case-against-limavady-man-charged-with-attempted-murder-of-his-partner-to-be-reviewed.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Urgent talks sought over Derry postal delays](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Urgent talks sought over Derry postal delays")](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Urgent talks sought over Derry postal delays](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Doire Trasna celebrates memorable year](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Doire Trasna celebrates memorable year")](https://www.derrynow.com/story-telling/pictures---videos/1655693/in-pictures-doire-trasna-celebrates-memorable-year.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Doire Trasna celebrates memorable year](https://www.derrynow.com/story-telling/pictures---videos/1655693/in-pictures-doire-trasna-celebrates-memorable-year.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Family of Derry man killed by army seeking fresh inquest](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Family of Derry man killed by army seeking fresh inquest")](https://www.derrynow.com/news/local-news/1655678/family-of-derry-man-killed-by-army-seeking-fresh-inquest.html)
-
-Dennis Heaney was shot in 1978 by British soldiers. PHOTO: Tom Heaney.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Family of Derry man killed by army seeking fresh inquest](https://www.derrynow.com/news/local-news/1655678/family-of-derry-man-killed-by-army-seeking-fresh-inquest.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Young Derry author’s debut novel sounds warning about THC dangers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Young Derry author’s debut novel sounds warning about THC dangers")](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
-
-Conghaile McLaughlin with a copy of his book, 'The Joys of Humanity'.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Young Derry author’s debut novel sounds warning about THC dangers](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry woman (25) sentenced for ‘extremely dangerous’ glass attack on another woman](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago")](https://www.derrynow.com/news/local-news/1656656/derry-man-extradited-from-us-jailed-for-historical-sex-abuse-of-his-niece-over-40-years-ago.html)
 
@@ -332,6 +291,33 @@ Derry Court
 [Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago](https://www.derrynow.com/news/local-news/1656656/derry-man-extradited-from-us-jailed-for-historical-sex-abuse-of-his-niece-over-40-years-ago.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry man shot by police while brandishing two knives jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man shot by police while brandishing two knives jailed")](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
+
+Derry Crown Court
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Young Derry author’s debut novel sounds warning about THC dangers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Young Derry author’s debut novel sounds warning about THC dangers")](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
+
+Conghaile McLaughlin with a copy of his book, 'The Joys of Humanity'.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Young Derry author’s debut novel sounds warning about THC dangers](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
+
+Ruaidhri Higgins enjoyed some memorable times at Derry City.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Ruaidhri Higgins - 'It has been an honour to manage this football club'](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
 
 Patrick McEleney is no longer a Derry City player.
@@ -340,6 +326,22 @@ Patrick McEleney is no longer a Derry City player.
 
 [Another Derry City departure as Patrick McEleney joins Ballymena United](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Who are the guests on tonight's Late Late Show on RTÉ One?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Late Late Show on RTÉ One?")](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
+
+[National News](https://www.derrynow.com/section/997/cookie-policy)
+
+[Who are the guests on tonight's Late Late Show on RTÉ One?](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Ruaidhrí Higgins steps down as Derry City manager by mutual consent](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ruaidhrí Higgins steps down as Derry City manager by mutual consent")](https://www.derrynow.com/news/sport/1656467/ruaidhri-higgins-steps-down-as-derry-city-manager-by-mutual-consent.html)
+
+Former Derry City manager Ruaidhrí Higgins. Picture by David Fitzgerald
+
+[Sport](https://www.derrynow.com/section/976/sport)
+
+[Ruaidhrí Higgins steps down as Derry City manager by mutual consent](https://www.derrynow.com/news/sport/1656467/ruaidhri-higgins-steps-down-as-derry-city-manager-by-mutual-consent.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,7 +525,50 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry man shot by police while brandishing two knives jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man shot by police while brandishing two knives jailed")](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
+[![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry singer JOSIE with her debut single  ‘Run Little Girl’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
+
+Derry singer JOSIE with her debut single ‘Run Little Girl’
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+['It is never to late to follow your dreams' as Derry singer-songwriter releases debut single](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's North West Regional College to hold charity 5K fun walk/run](https://www.derrynow.com/resizer/165/93/true/2024_11_15/PRESS_Glow_run_picture_%281%29-1731683774839.jpg--.jpg?1731683775510 "Derry's North West Regional College to hold charity 5K fun walk/run")](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
+
+NWRC staff Danny McFeely, Leta McCusker, Nicholas Mullan and Eimear McDevitt get ready for the 2024 Glow Run.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's North West Regional College to hold charity 5K fun walk/run](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Elf Run/Walk at Coleraine in aid of the RAF Benevolent Fund](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IMG_5137_%283%29-1731683139738.JPG--.JPG?1731683139769 "Elf Run/Walk at Coleraine in aid of the RAF Benevolent Fund")](https://www.derrynow.com/news/county-derry-post/1656917/ben-elephant-invites-elves-to-run-for-santa-in-coleraine.html)
+
+Elf Run/Walk at Coleraine in aid of the RAF Benevolent Fund.
+
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
+
+[Ben Elephant invites Elves to Run for Santa in Coleraine](https://www.derrynow.com/news/county-derry-post/1656917/ben-elephant-invites-elves-to-run-for-santa-in-coleraine.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry branch of the Salvation Army on Carlisle Road](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IMG-20241115-WA0001-1731675271887.jpg--.jpg?1731675272592 "Derry branch of the Salvation Army on Carlisle Road")](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
+
+Derry branch of the Salvation Army on Carlisle Road
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[The Salvation Army has begun their Family Appeal for Christmas](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man shot by police while brandishing two knives jailed")](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
 
 Derry Crown Court
 
@@ -531,49 +576,6 @@ Derry Crown Court
 
 [Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack")](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman (25) sentenced for ‘extremely dangerous’ glass attack on another woman](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago](https://www.derrynow.com/resizer/165/93/true/2024_05_29/derrycourthouse2.jpg---1716982422986.jpg--.jpg?1716982423183 "Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago")](https://www.derrynow.com/news/local-news/1656656/derry-man-extradited-from-us-jailed-for-historical-sex-abuse-of-his-niece-over-40-years-ago.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago](https://www.derrynow.com/news/local-news/1656656/derry-man-extradited-from-us-jailed-for-historical-sex-abuse-of-his-niece-over-40-years-ago.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Glentoran complete signing of Shane McEleney from Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_15/Glentoran_complete_signing_of_Shane_McEleney_1-1731663638985.JPG--.JPG?1731663639471 "Glentoran complete signing of Shane McEleney from Derry City")](https://www.derrynow.com/news/sport/1656476/glentoran-complete-signing-of-shane-mceleney-from-derry-city.html)
-
-Former Derry City defender Shane McEleney on an 18-month contract
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[Glentoran complete signing of Shane McEleney from Derry City](https://www.derrynow.com/news/sport/1656476/glentoran-complete-signing-of-shane-mceleney-from-derry-city.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_15/2953838_%281%29-1731664605509.jpg--.jpg?1731664609339 "Derry City")](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
-
-Ruaidhri Higgins enjoyed some memorable times at Derry City.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Ruaidhri Higgins - 'It has been an honour to manage this football club'](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](https://www.derrynow.com/resizer/165/93/true/2024_11_15/2947289-1731664341738.jpg--.jpg?1731664344158 "Derry City")](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
-
-Patrick McEleney is no longer a Derry City player.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Another Derry City departure as Patrick McEleney joins Ballymena United](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
