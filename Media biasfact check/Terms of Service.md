@@ -213,12 +213,12 @@ No related posts.
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [The Onion - Bias and Credibility](https://mediabiasfactcheck.com/the-onion/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Methodology](https://mediabiasfactcheck.com/methodology/)
-* [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
+* [News18 - Bias and Credibility](https://mediabiasfactcheck.com/news18/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
