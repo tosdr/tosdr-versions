@@ -193,7 +193,6 @@ Security
 
 Legal
 
-* [Accessibility](https://www.anthology.com/trust-center/accessibility)
 * [Modern Slavery Act Statement](https://www.anthology.com/trust-center/modern-slavery-act-statement)
 * [Terms of Use](https://www.anthology.com/trust-center/terms-of-use)
 * [Policy Statement on Equal Employment Opportunity](https://www.anthology.com/trust-center/equal-employment-opportunity)
@@ -537,6 +536,7 @@ Footer Menu
 * [Integration Partnerships](https://www.anthology.com/integration-partnerships)
 * [Channel Partnerships](https://www.anthology.com/channel-partnerships)
 * [Investor Relations](https://www.anthology.com/investor-relations)
+* [Our Commitment to Accessibility](https://www.anthology.com/our-commitment-to-accessibility)
 
 Footer Menu
 -----------
@@ -545,7 +545,6 @@ Footer Menu
 * [Privacy Statement](https://www.anthology.com/trust-center/privacy-statement)
 * [US State Privacy Notice](https://www.anthology.com/trust-center/us-state-privacy-notice)
 * [Modern Slavery Act Statement](https://www.anthology.com/trust-center/modern-slavery-act-statement)
-* [Accessibility](https://www.anthology.com/trust-center/accessibility)
 * [Security](https://www.anthology.com/trust-center/security)
 * [Terms of Use](https://www.anthology.com/trust-center/terms-of-use)
 * [Cookie Preferences](#)
