@@ -613,14 +613,6 @@ Zaki Aslam Calgary 06/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
-
-Karen Hanson Calgary 05/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Fast friendly arrived on time Could not have asked for A better experience
 
 Ralph Gubler Calgary 05/11/2024
@@ -640,6 +632,14 @@ Ilse Calgary 05/11/2024
 The guys were very polite, and super efficient. I will totally use them again! Great job. And thank you.
 
 Diana Ruff Calgary 05/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
+
+Karen Hanson Calgary 05/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,9 +885,25 @@ henri cadieux Monteregie Metro 05/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Derek and Deronta did a fabulous job clearing our items from my father’s house. They were done inside of 30 minutes.
+Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
 
-Shawn Newkirk Seattle 09/11/2024
+Laura Feijo Austin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Terrell and Mason were awesome!
+
+philip jims Austin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Patrick and Gio did a great job today
+
+sarah thelen Naples 09/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -933,9 +949,9 @@ Bob Saffin Cincinnati 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
+Derek and Deronta did a fabulous job clearing our items from my father’s house. They were done inside of 30 minutes.
 
-Laura Feijo Austin 09/11/2024
+Shawn Newkirk Seattle 09/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -949,14 +965,6 @@ Ben Hardin Wisconsin 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Terrell and Mason were awesome!
-
-philip jims Austin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Darontay and Derrick J. did an amazing job. Showed up right on time and cleared out everything that I wanted gone.
 
 Tim Leber Seattle 09/11/2024
@@ -965,9 +973,9 @@ Tim Leber Seattle 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Patrick and Gio did a great job today
+TC and Nick are great!!!
 
-sarah thelen Naples 09/11/2024
+Sergio Perez Austin 08/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1016,14 +1024,6 @@ Christa Duffy Naples 08/11/2024
 Tia and Kegan were great at getting us situated and moved to another storage unit.
 
 Neil Raisanen Naples 08/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Tia and Kegan were great at helping us clean some clutter from the office. Thank you 1800gotjunk
-
-Brandon Mace Naples 08/11/2024
 
 ### 
 
