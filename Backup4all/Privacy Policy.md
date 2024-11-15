@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup Yahoo! emails](https://www.backup4all.com/how-to-backup-yahoo-emails-kb.html)  
+* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
     
-* [How to use the compression](https://www.backup4all.com/how-to-use-the-compression-kb.html)  
+* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
     
-* [How to backup your data to Scality](https://www.backup4all.com/how-to-backup-your-data-to-scality-kb.html)  
+* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
     
-* [Backup from network](https://www.backup4all.com/backup-from-network-kb.html)  
+* [How to backup your data to Caringo Swarm](https://www.backup4all.com/how-to-backup-your-data-to-caringo-swarm-kb.html)  
     
-* [How to backup to cloud using Backup4all](https://www.backup4all.com/how-to-backup-to-cloud-using-backup4all-kb.html)  
+* [How to schedule all jobs?](https://www.backup4all.com/how-to-schedule-all-groups-kb.html)  
     
 
 Choose language:
