@@ -12,6 +12,7 @@
 * [Coaster & Bar Mat Warranty](https://store.gamersnexus.net/coaster-bar-mat-warranty)
 * [Project & Solder Mat Warranty](https://store.gamersnexus.net/project-solder-mat-warranty)
 * [GN15 Emblem Glass Warranty](https://store.gamersnexus.net/gn15-emblem-glass-warranty)
+* [GN Dice Set Warranty](https://store.gamersnexus.net/gn-dice-warranty)
 
 * [Hiring](https://store.gamersnexus.net/hiring)
 * [Sign In My Account](#)
@@ -35,6 +36,7 @@ Menu
     * [Coaster & Bar Mat Warranty](https://store.gamersnexus.net/coaster-bar-mat-warranty)
     * [Project & Solder Mat Warranty](https://store.gamersnexus.net/project-solder-mat-warranty)
     * [GN15 Emblem Glass Warranty](https://store.gamersnexus.net/gn15-emblem-glass-warranty)
+    * [GN Dice Set Warranty](https://store.gamersnexus.net/gn-dice-warranty)
     
 * [Hiring](https://store.gamersnexus.net/hiring)
 * [Sign In My Account](#)
