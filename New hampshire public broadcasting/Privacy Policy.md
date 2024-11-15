@@ -184,6 +184,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
+* [**Trailer The Body Politic** | POV](https://video.nhpbs.org/video/trailer-the-body-politic-ndieef?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 14, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-14-2024-pbs-news-hour-full-episode-1731560401?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Il Volo in the Valley of the Temples](https://video.nhpbs.org/video/il-volo-in-the-valley-of-the-temples-preview-xbfpux?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Broadway's Leading Men: A Musical Celebration](https://video.nhpbs.org/video/broadways-leading-men-a-musical-celebration-preview-umyf1b?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | HAUSER - Classic Gala Concert Live at the Royal Albert Hall](https://video.nhpbs.org/video/hauser-classic-gala-concert-live-at-the-royal-albert-hall-preview-gon09y?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
@@ -191,8 +193,6 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**With Peter Bradley Trailer** | Local, USA](https://video.nhpbs.org/video/local-usa-with-peter-bradley-trailer?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**"China, the U.S. & the Rise of Xi Jinping" - Preview** | FRONTLINE](https://video.nhpbs.org/video/china-the-us-the-rise-of-xi-jinping-preview-4avniv?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Filming Lions in the Namib Desert** | Nature](https://video.nhpbs.org/video/filming-lions-in-the-namib-desert?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Trump's Win: How a "Polluted Information Environment" Shaped the Election** | Amanpour and Company](https://video.nhpbs.org/video/trumps-win-how-a-polluted-information-environment-shaped-the-election-s9vdyo?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**November 13, 2024 - full episode** | PBS News Hour](https://video.nhpbs.org/video/november-13-2024-pbs-news-hour-full-episode-1731474001?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
