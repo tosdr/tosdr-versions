@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Total Fundraising by Candidates for State Offices, 2000–2016](/assets/Images/teasers/small/state-candidates.JPG)](https://www.followthemoney.org/research/institute-reports/2016-candidate-elections-overview)
+[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
+
+Monsanto has taken a keen interest in ballot measures.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
