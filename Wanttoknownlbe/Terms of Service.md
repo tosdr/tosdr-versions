@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/babys-aan-het-hepatitus-vaccin-en-ontslag-om-weigering/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/bewezen-bomenkap-om-5g-vrij-baan-te-geven/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
