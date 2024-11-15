@@ -105,11 +105,11 @@ Top downloads
 
 Latest releases
 
+* [Williams Arcade Classics](https://www.myabandonware.com/game/williams-arcade-classics-2s5)
+* [Miner 2049er](https://www.myabandonware.com/game/miner-2049er-2jn)
 * [Mappy](https://www.myabandonware.com/game/mappy-7uq)
 * [HenchMan](https://www.myabandonware.com/game/henchman-t0m)
 * [Sky Kid](https://www.myabandonware.com/game/sky-kid-9hd)
-* [Endgame](https://www.myabandonware.com/game/endgame-tpx)
-* [Edge of the Abyss](https://www.myabandonware.com/game/edge-of-the-abyss-tpw)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [Facebook](https://www.facebook.com/myabandonware) or [X (Twitter)](https://x.com/myabandonware)
