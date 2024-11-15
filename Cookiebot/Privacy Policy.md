@@ -16,7 +16,7 @@ Regulations
 
 Partners
 
-[Become an Affiliate](https://www.cookiebot.com/en/affiliate-program/) [Become a Reseller](https://www.cookiebot.com/en/resellers/) [Reseller Certification](https://www.cookiebot.com/en/partner-certification/) [Find a Reseller](https://www.cookiebot.com/en/cookiebot-reseller/)
+[Become an Affiliate](https://www.cookiebot.com/en/affiliates/) [Become a Reseller](https://www.cookiebot.com/en/resellers/) [Reseller Certification](https://www.cookiebot.com/en/partner-certification/) [Find a Reseller](https://www.cookiebot.com/en/cookiebot-reseller/)
 
 Resources
 
