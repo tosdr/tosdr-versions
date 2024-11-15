@@ -201,7 +201,8 @@ Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accet
 
 [![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png)](https://www.lealternative.net/)
 
-[Trasparenza](https://www.lealternative.net/donazioni/#trasparenza) | [Contatti](https://www.lealternative.net/chi-siamo/#contatti) | [Disclaimer](https://www.lealternative.net/disclaimer/) | [Privacy](https://www.lealternative.net/privacy-policy/) | [CC BY-SA 4.0](https://www.lealternative.net/disclaimer/#licenza) | [Status](https://status.lealternative.net/) 🟢  
+[Trasparenza](https://www.lealternative.net/donazioni/#trasparenza) | [Contatti](https://www.lealternative.net/chi-siamo/#contatti) | [Disclaimer](https://www.lealternative.net/disclaimer/) | [Privacy](https://www.lealternative.net/privacy-policy/) | [CC BY-SA 4.0](https://www.lealternative.net/disclaimer/#licenza)  
+[Stato dei nostri servizi grazie a UptimeRobot ![](/wp-content/uploads/loghi/uptimerobot-logo-01-safe-bff1bd066d46.webp)](https://stats.uptimerobot.com/ACzo47d1gZ)   
 Questo sito [utilizza](https://www.infomaniak.com/it/ecologia) solo energia verde 💚
 
 • Questo sito utilizza solo cookie tecnici e non fa alcuna profilazione. Per questo non dovete firmare strani patti con il diavolo per visitarci.  
