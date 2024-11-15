@@ -95,117 +95,67 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Evidence for Creation
+More Research
 
-[![](/i/Main%20Stage%20-%201400x1050/Irelands_First_Dinosaur_Bones_1400x1050.jpg)](https://www.icr.org/article/irelands-first-dinosaur-bones)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/observations_GC_flood.jpg)](https://www.icr.org/article/observations-support-grand-canyon-flood-origin)
 
-[Ireland’s First Dinosaur Bones Found in Flood Rocks](https://www.icr.org/article/irelands-first-dinosaur-bones/)
+[Observations Support Grand Canyon Flood Origin](https://www.icr.org/article/observations-support-grand-canyon-flood-origin/)
 
-Ireland finally has some dinosaur fossils of its own.1 The ground-breaking discovery came as a bit of a surprise, however, as the bones were...
-
-BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
-
-[![](/i/Main%20Stage%20-%201400x1050/Bat_Echo_1400x1050.jpg)](https://www.icr.org/article/innate-speed-of-sound)
-
-[Innate Speed-of-Sound Engineering Revealed in Bats](https://www.icr.org/article/innate-speed-of-sound/)
-
-Bats have the amazing ability to accurately and consistently detect the speed of sound.1 This enables them to employ a complex system of echolocation...
-
-BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
-
-[![](/i/stage_248/lutherfivehundred-stage.jpg)](https://www.icr.org/article/luther-biblical-creation-500-years)
-
-[Luther and Biblical Creation, 500 Years Later](https://www.icr.org/article/luther-biblical-creation-500-years/)
-
-Five hundred years ago in Wittenberg, Germany, an unusual scholar changed the course of human history using pen and hammer. Dr. Martin Luther protested...
-
-BY: [JAMES J. S. JOHNSON, J.D., TH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=193)
-
-More Godâ€™s Universe on Display: Telescope to Microscope
-
-[![](/i/radio/images/peacock_spider_wide.jpg)](https://www.icr.org/article/spiders)
-
-[Spiders](https://www.icr.org/article/spiders/)
-
-Do you feel a natural revulsion when you experience spiders up close? Why would God create creepy arachnids? Discover God’s purpose for these...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/radio/images/marvels_human_design_wide.jpg)](https://www.icr.org/article/gods-universe-on-display-podcast)
-
-[God's Universe on Display: Telescope to Microscope \[Podcast\]](https://www.icr.org/article/gods-universe-on-display-podcast/)
-
-We find evidence for the Creator’s grand design everywhere in the universe, from enormous galaxies to microscopic DNA. ICR zoologist and researcher...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](/i/radio/images/genome_wide.jpg)](https://www.icr.org/article/dna)
-
-[DNA](https://www.icr.org/article/dna/)
-
-What is DNA? Why is it important? And how does it reveal the handiwork of the omnipotent Designer? Discover the code of life as Mr. Sherwin unwinds...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-More Radio Program
-
-[![](/i/radio/images/dino_bone_blood_wide.jpg)](https://www.icr.org/article/dinosaurs-lived-recently)
-
-[Is There Evidence That Dinosaurs Lived Recently?](https://www.icr.org/article/dinosaurs-lived-recently/)
-
-Textbooks and even children’s books tout dinosaur history going back millions of years. The Bible presents a different account of only thousands...
-
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
-
-[![](/i/radio/images/shale_oil_boom_wide.jpg)](https://www.icr.org/article/oil-soft-tissue)
-
-[Oil as a "Soft Tissue"](https://www.icr.org/article/oil-soft-tissue/)
-
-Oil is in the news almost every day due to fluctuating prices and controversial fracking. How does oil fit into the Bible? Was oil made in the...
+Old-earth geologists claim that observations contradict the Flood model origin for Grand Canyon.1 However, recently exposed sediments at...
 
 BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
 
-[![](/i/Main%20Stage%20-%201400x1050/Do%20Billions%20of%20Years%20Fit%20with%20Genesis-1400x1050.jpg)](https://www.icr.org/article/do-billions-of-years-fit-with-genesis)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/AsiaDataConfirm.jpg)](https://www.icr.org/article/asia-data-confirm-prog-global-flood)
 
-[Do Billions of Years Fit with Genesis?](https://www.icr.org/article/do-billions-of-years-fit-with-genesis/)
+[Asia Data Confirm Progressive Global Flood](https://www.icr.org/article/asia-data-confirm-prog-global-flood/)
 
-Many Christians think that if they can somehow find room in the Scriptures for billions of years then the conflict between Genesis and evolution...
+The Institute for Creation Research’s Column Project team recently finished a two-year study of Asia. We have now accumulated column data across...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [TIM CLAREY, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=176)
+
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/darwinianplasticity_1400x1050.jpg)](https://www.icr.org/article/myth-darwinian-plasticity)
+
+[The Myth of Darwinian Plasticity](https://www.icr.org/article/myth-darwinian-plasticity/)
+
+Staff Writer Among the mechanisms promoted to account for the process of evolution, plasticity is one of the most prominent. This term broadly refers...
+
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/39324171/file.jpg)
 
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+Henry Explores the New World - eBook](https://store.icr.org/henry-explores-the-new-world-ebook.html)
+
+$4.99
+
+$8.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/59496549/file.jpg)
+
+Carved in Stone DVD](https://store.icr.org/carved-in-stone-dvd.html)
+
+$21.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8267153/file.jpg)
+
+The Truth of the Genesis Flood - Download](https://store.icr.org/the-truth-of-the-genesis-flood-download.html)
 
 $4.99
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285716/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10474371/file.jpg)
 
-The Mighty, Wonderful Oceans - Download](https://store.icr.org/the-mighty-wonderful-oceans-download.html)
+Dinosaurs: Marvels of God's Design](https://store.icr.org/dr-timothy-clarey-dinosaurs-marvels-of-gods-design.html)
 
-$4.99
+$24.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/56265926/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+Carved in Stone](https://store.icr.org/carved-in-stone.html)
 
-Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
-
-$12.99
-
-[](https://store.icr.org/.html)
-
-$
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
-
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
-
-$16.99
+$39.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
