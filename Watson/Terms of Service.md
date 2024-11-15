@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez clair, brumeux](https://www.watson.ch/fr/_watsui/static/img/weather/w-2.svg)0°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)4°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Climat](https://www.watson.ch/fr/climat/)
+* [Votation](https://www.watson.ch/fr/votation/)
+* [Musique](https://www.watson.ch/fr/musique/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [Valais](https://www.watson.ch/fr/valais/)
+* [Lausanne](https://www.watson.ch/fr/lausanne/)
+* [La Poste](https://www.watson.ch/fr/la-poste/)
 * [Grisons](https://www.watson.ch/fr/grisons/)
-* [Argent](https://www.watson.ch/fr/argent/)
-* [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Climat](https://www.watson.ch/fr/climat/)
+* [Météo](https://www.watson.ch/fr/meteo/)
+* [Incendie](https://www.watson.ch/fr/incendie/)
+* [Espagne](https://www.watson.ch/fr/espagne/)
 * [présidentielle américaine](https://www.watson.ch/fr/presidentielle-americaine/)
-* [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
-* [boxe](https://www.watson.ch/fr/boxe/)
+* [En Train](https://www.watson.ch/fr/en-train/)
 * [CFF](https://www.watson.ch/fr/cff/)
-* [Vaud](https://www.watson.ch/fr/vaud/)
+* [Royaume-Uni](https://www.watson.ch/fr/royaume-uni/)
+* [Russie](https://www.watson.ch/fr/russie/)
 * [Migros](https://www.watson.ch/fr/migros/)
 * [famille royale britannique](https://www.watson.ch/fr/famille-royale-britannique/)
 * [Royauté](https://www.watson.ch/fr/royaute/)
-* [Salaire](https://www.watson.ch/fr/salaire/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
-* [France](https://www.watson.ch/fr/france/)
-* [Technologie](https://www.watson.ch/fr/technologie/)
-* [républicain](https://www.watson.ch/fr/republicain/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
