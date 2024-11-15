@@ -8,7 +8,7 @@ Numbers, Facts and Trends Shaping Your World
 
 Read our research on:
 
-* [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
+* [Vaccines](https://www.pewresearch.org/topic/science/science-issues/medicine-health/vaccines/)
 * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
 * [News Habits](https://www.pewresearch.org/topic/news-habits-media/)
 
@@ -98,7 +98,7 @@ Search
     
     Read Our Research On:
     
-    * [Economy & Work](https://www.pewresearch.org/topic/economy-work/)
+    * [Vaccines](https://www.pewresearch.org/topic/science/science-issues/medicine-health/vaccines/)
     * [Election 2024](https://www.pewresearch.org/topic/politics-policy/us-elections-voters/election-2024/)
     * [News Habits](https://www.pewresearch.org/topic/news-habits-media/)
     
