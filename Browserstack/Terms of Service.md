@@ -492,6 +492,7 @@ PRODUCTS
 * [Test Observability](https://www.browserstack.com/test-observability)
 * [Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
 * [Accessibility Automation](https://www.browserstack.com/accessibility-testing/features/automated-tests)
+* [App Accessibility Testing](https://www.browserstack.com/app-accessibility-testing)
 * [Low Code Automation](https://www.browserstack.com/low-code-automation)
 * [Bug Capture](https://www.browserstack.com/bug-capture)
 
