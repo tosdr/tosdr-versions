@@ -239,7 +239,7 @@ Back to top
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
     
-* Advice Hub Open
+* [Advice Hub](https://www.tes.com/advice-hub) Open
     
     * [Safeguarding](https://www.tes.com/advice-hub/safeguarding)
         
