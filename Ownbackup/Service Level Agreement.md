@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Compliance
 
-Salesforce Data Lifecycle Management: 5 Takeaways for a Leaner, Meaner Org](https://www.ownbackup.com/blog/salesforce-data-lifecycle-management-5-takeaways-for-a-leaner-meaner-org)
+How to Demonstrate DORA Compliance For SaaS Systems](https://www.ownbackup.com/blog/how-to-demonstrate-dora-compliance-for-saas-systems)
 
-[Own Discover
+[Data Management
 
-Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+How Manufacturers Can Move to The Cloud with Confidence](https://www.ownbackup.com/blog/how-manufacturers-can-move-to-the-cloud-with-confidence)
 
-[Salesforce
+[Report
 
-Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
+Are You Prepared for Data Loss?: 2021 SaaS Data Protection Report](https://www.ownbackup.com/blog/2021-state-of-saas-data-protection)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
-[Salesforce
+[Compliance
 
-Salesforce Data Lifecycle Management: 5 Takeaways for a Leaner, Meaner Org](https://www.ownbackup.com/blog/salesforce-data-lifecycle-management-5-takeaways-for-a-leaner-meaner-org)
+How to Demonstrate DORA Compliance For SaaS Systems](https://www.ownbackup.com/blog/how-to-demonstrate-dora-compliance-for-saas-systems)
 
-[Own Discover
+[Data Management
 
-Own Discover: Fuel New Insights With Your Historical SaaS Data](https://www.ownbackup.com/blog/own-discover-fuel-new-insights-with-your-historical-saas-data)
+How Manufacturers Can Move to The Cloud with Confidence](https://www.ownbackup.com/blog/how-manufacturers-can-move-to-the-cloud-with-confidence)
 
-[Salesforce
+[Report
 
-Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
+Are You Prepared for Data Loss?: 2021 SaaS Data Protection Report](https://www.ownbackup.com/blog/2021-state-of-saas-data-protection)
 
 Company
 
