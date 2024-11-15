@@ -70,11 +70,11 @@ MENUMENU
                 * [Activities to Improve Smooth Visual Pursuits](https://www.theottoolbox.com/activities-smooth-pursuits/)
                 * [What is Visual Scanning](https://www.theottoolbox.com/what-is-visual-scanning/)
                 * [Classroom Accommodations for Visual Impairments](https://www.theottoolbox.com/visual-impairment-accommodations/)
-        * * [![Time management skills in everyday tasks. Image of a clock](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        * * [![Thanksgiving therapy activities](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
                 
-                ![Time management skills in everyday tasks. Image of a clock](https://www.theottoolbox.com/wp-content/uploads/2024/11/time-management-skills-in-executive-functioning.png)](https://www.theottoolbox.com/time-management-in-executive-function/)
+                ![Thanksgiving therapy activities](https://www.theottoolbox.com/wp-content/uploads/2023/10/thanksgiving-therapy-activities.png)](https://www.theottoolbox.com/thanksgiving-activities-for-kids/)
                 
-                #### [Time Management in Executive Function](https://www.theottoolbox.com/time-management-in-executive-function/)
+                #### [Thanksgiving Activities for Kids](https://www.theottoolbox.com/thanksgiving-activities-for-kids/)
                 
 * [Free Resources](https://www.theottoolbox.com/category/free-resources/)
 * [The Shop](https://www.theottoolbox.com/shop/)
