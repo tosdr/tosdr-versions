@@ -139,6 +139,10 @@
     
     #### Our blog where we share our views about trends in music and streaming tech
     
+    [](https://blog.tunedglobal.com/music-as-transformative-power-in-healthcare?hsLang=en)
+    
+    [The Transformative Power of Music Therapy in Health & Wellness](https://blog.tunedglobal.com/music-as-transformative-power-in-healthcare?hsLang=en)
+    
     [![](https://www.tunedglobal.com/hubfs/chance-the-rapper-sxsw-sydney-2023.jpg)](https://blog.tunedglobal.com/sxsw-sydney-2023-tunedglobal-warner-music-chance-le-rapper-web3?hsLang=en)
     
     [3 Takeaways from SXSW Sydney: AI, Web3 and Chance the Rapper](https://blog.tunedglobal.com/sxsw-sydney-2023-tunedglobal-warner-music-chance-le-rapper-web3?hsLang=en)
@@ -146,10 +150,6 @@
     [![](https://www.tunedglobal.com/hubfs/AdobeStock_583543137-1-1.jpeg)](https://blog.tunedglobal.com/microstreaming-how-brands-use-niche-music-streaming-to-reach-key-audiences?hsLang=en)
     
     [Microstreaming: How brands use niche music streaming to reach key audiences](https://blog.tunedglobal.com/microstreaming-how-brands-use-niche-music-streaming-to-reach-key-audiences?hsLang=en)
-    
-    [![](https://www.tunedglobal.com/hubfs/AdobeStock_145652480-1-1.jpeg)](https://blog.tunedglobal.com/how-music-licensing-works-for-music-streaming-services?hsLang=en)
-    
-    [How music licensing works for music streaming services?](https://blog.tunedglobal.com/how-music-licensing-works-for-music-streaming-services?hsLang=en)
     
     [More articles](https://blog.tunedglobal.com/?hsLang=en)
     
