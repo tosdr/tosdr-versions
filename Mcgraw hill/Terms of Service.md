@@ -448,7 +448,7 @@ Follow McGraw Hill
 
     [![Visit McGraw Hill LinkedIn page](https://www.mheducation.com/content/dam/mhe/footer/socialshare/linkedin-white.svg)](https://www.linkedin.com/company/mcgraw-hill-education)
 
-    [![Visit McGraw Hill Instagram page](https://www.mheducation.com/content/dam/mhe/footer/socialshare/instagram-white.svg)](https://instagram.com/mheducation/)
+    [![Visit McGraw Hill Instagram page](https://www.mheducation.com/content/dam/mhe/footer/socialshare/instagram-white.svg)](https://www.instagram.com/mheducation/)
 
 * * *
 
