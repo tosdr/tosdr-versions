@@ -236,7 +236,7 @@ Brooklyn, NY 11217
 
 [Privacy Policy](https://freedom.press/privacy-policy/) [Accessibility](https://freedom.press/accessibility/)
 
-[Facebook](https://facebook.com/FreedomofthePressFoundation) [X](https://x.com/freedomofpress) [Mastodon](https://newsie.social/@freedomofpress)
+[Facebook](https://facebook.com/FreedomofthePressFoundation) [X](https://x.com/freedomofpress) [Mastodon](https://social.freedom.press/@freedomofpress)
 
 Licensed under [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) where not otherwise indicated.
 
