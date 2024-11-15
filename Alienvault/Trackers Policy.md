@@ -7,7 +7,7 @@
 * [Contact](https://www.alienvault.com/contact)
 * [Support](https://www.alienvault.com/support)
 
-[![LevelBlue logo](https://cdn.levelblue.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/)
+[![LevelBlue logo](https://cdn.levelblue.com/images/uploads/logos/lb-logo-black.svg)](https://www.alienvault.com/ "LevelBlue logo")
 
 * Products & Services
     
@@ -429,7 +429,7 @@ If you have any queries regarding this Cookie Policy please contact us at [dl-cy
 
 [Get price](https://www.alienvault.com/pricing/request-quote?utm_internal=sb_quote) [Free trial](https://www.alienvault.com/products/usm-anywhere/free-trial?utm_internal=sb_freetrial_modal)
 
-[](https://www.alienvault.com/)
+[LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
 
 From the Blog
 
