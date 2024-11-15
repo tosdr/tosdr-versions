@@ -225,12 +225,6 @@ Terms of Use
 
 [11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
-[![An aerial view of the Jones & Higgins building set to become a nightclub. Image: Southwark Planning Documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/An-aerial-view-of-the-Jones-Higgins-building-set-to-become-a-nightclub.-Image-Southwark-Planning-Documents-120x86.png)](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-### [Peckham’s newest nightclub inside historic building edges closer](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
-[7th November 2024](https://southwarknews.co.uk/area/peckham/peckhams-newest-nightclub-inside-historic-building-edges-closer/)
-
 [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
@@ -242,6 +236,12 @@ Terms of Use
 ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
+
+[![Neil Harris passes on instructions. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/Harris-Azeez-Stoke--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
+### [‘I’ve been very careful what to say’ – Millwall boss on Stoke draw as Potters head coach reveals referee admission](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+
+[9th November 2024](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
 
 ### Featured Articles
 
