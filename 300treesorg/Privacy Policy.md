@@ -10,6 +10,7 @@ Main Menu
     * [Neighborhood](https://300trees.org/neighborhood/)
     * [City](https://300trees.org/city/)
     * [Partners](https://300trees.org/partners/)
+    * [Volunteer](https://300trees.org/volunteer/)
 * [Tree care](https://300trees.org/tree-care/)
 * [Donate](https://300trees.org/donate/)
 * [Contact](https://300trees.org/contact/)
