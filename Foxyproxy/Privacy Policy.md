@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Just want to say WOW great response time, great response, all together extremely satisfied. Thank you, Dan
+...Let me say that your service is excellent, never had a problem with your proxy at all.
 
-Dan Rosendorf
+Pablo Chiappetti
