@@ -62,7 +62,7 @@
     * [Upcoming Events](https://www.heanet.ie/workshops/)
     * [Conference Archive](https://www.heanet.ie/conferences)
 * [Find Us](https://www.heanet.ie/who-we-are/contact-heanet)
-* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=705a664ab7)
+* [Logout](https://www.heanet.ie/wp-login.php?action=logout&redirect_to=%2F&_wpnonce=3638ac593e)
 
 [](#)
 
@@ -158,19 +158,19 @@ Ireland
 * [Freedom of Information](https://www.heanet.ie/who-we-are/foi)
 * [Support](#)
 
-[](https://www.facebook.com/HEAnet-117074412627/ "Facebook")
+[](https://www.facebook.com/HEAnet-117074412627/)
 
 Facebook
 
-[](https://www.linkedin.com/company/heanet-limited "LinkedIn")
+[](https://www.linkedin.com/company/heanet-limited)
 
 LinkedIn
 
-[](https://www.instagram.com/heanet_clg/ "Instagram")
+[](https://www.instagram.com/heanet_clg/)
 
 Instagram
 
-[](https://www.youtube.com/channel/UCmFsgh_vSTFvJJ8fq-XVwNQ "YouTube")
+[](https://www.youtube.com/channel/UCmFsgh_vSTFvJJ8fq-XVwNQ)
 
 YouTube
 
