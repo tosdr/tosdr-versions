@@ -8,7 +8,8 @@
 * [Free Trial](https://worldvpn.net/free-trial)
 * Pricing
     
-    * [Shared VPN](https://worldvpn.net/pricing)
+    * [Pricing](https://worldvpn.net/pricing)
+    * [Shared VPN](https://worldvpn.net/shared-vpn)
     * [Dedicated VPN IP](https://worldvpn.net/dedicated-vpn-ip)
     * [Reseller Program](https://worldvpn.net/become-a-vpn-reseller)
     
@@ -33,7 +34,8 @@ If you are in compliance with the above mentioned criteria, then we will definit
 
 ### Plans
 
-* [Shared VPN](https://worldvpn.net/pricing)
+* [Pricing](https://worldvpn.net/pricing)
+* [Shared VPN](https://worldvpn.net/shared-vpn)
 * [Dedicated VPN](https://worldvpn.net/dedicated-vpn-ip)
 * [VPN Reseller](https://worldvpn.net/become-a-vpn-reseller)
 
