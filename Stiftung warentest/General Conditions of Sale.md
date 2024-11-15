@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
-* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
-* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
-* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
-* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
-* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
+* [Immobilien: Colonia-Anleger wurden wohl geprellt](https://www.test.de/Immobilien-Colonia-Anleger-wurden-wohl-geprellt-6126446-0/ "Immobilien - Colonia-Anleger wurden wohl geprellt")
+* [Gewicht halten: So vermeiden Sie den Jojo-Effekt](https://www.test.de/jojo-effekt-vermeiden-6072389-0/ "Gewicht halten - So vermeiden Sie den Jojo-Effekt")
+* [Sicher­heits­lücke bei Türschloss: Abus muss besser auf Schwach­stelle hinweisen](https://www.test.de/Sicherheitsluecke-bei-Tuerschloss-Gerichtsurteil-Abus-muss-besser-auf-Schwachstelle-hinweisen-6115986-0/ "Sicherheitslücke bei Türschloss - Abus muss besser auf Schwachstelle hinweisen")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Freche Freunde Müsliriegel](https://www.test.de/Verpackungsaerger-Freche-Freunde-Muesliriegel-6105762-0/ "Verpackungsärger - Freche Freunde Müsliriegel")
+* [Ersatz­teile Wäschetrockner: Kosten und Verfügbarkeit](https://www.test.de/Ersatzteile-Waeschetrockner-Kosten-und-Verfuegbarkeit-6140545-0/ "Ersatzteile Wäschetrockner - Kosten und Verfügbarkeit")
 
 Service Stiftung Warentest
 
