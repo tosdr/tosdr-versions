@@ -31,7 +31,6 @@
         * [Erin Rossini, Dental Hygienist](https://www.granddentallockport.com/meet-the-team.html#erin)
         * [Kevin Flores, Dental Hygienist](https://www.granddentallockport.com/meet-the-team.html#kevin)
         * [Jackie Iniguez, Team Leader](https://www.granddentallockport.com/meet-the-team.html#jackie)
-        * [Stephanie Jurica, Dental Hygienist](https://www.granddentallockport.com/meet-the-team.html#stephanie)
     * [Tour Our Office](https://www.granddentallockport.com/tour-our-office.html "Tour Our Dental Office")
     * [Dental Technology](https://www.granddentallockport.com/advanced-dental-technology.html "Advanced Dental Services & Technology")
     * [Blog](http://www.granddentallockport.com/blog/ "Blog")
