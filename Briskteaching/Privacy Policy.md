@@ -38,7 +38,7 @@ Get Started
 
 use cases
 
-[English Teachers](https://www.briskteaching.com/subject/tools-for-english-teachers)[Math Teachers](https://www.briskteaching.com/subject/tools-for-math-teachers)[Google Teachers](https://www.briskteaching.com/brisk-for-google-teachers)[Administrators](https://www.briskteaching.com/subject/tools-for-administrators)
+[English Teachers](https://www.briskteaching.com/subject/tools-for-english-teachers)[Math Teachers](https://www.briskteaching.com/subject/tools-for-math-teachers)[Science Teachers](https://www.briskteaching.com/subject/ai-tools-for-science-teachers)[Google Teachers](https://www.briskteaching.com/brisk-for-google-teachers)[First Year Teachers](https://www.briskteaching.com/subject/ai-tools-for-first-year-teachers)[Administrators](https://www.briskteaching.com/subject/tools-for-administrators)
 
 Learn
 
