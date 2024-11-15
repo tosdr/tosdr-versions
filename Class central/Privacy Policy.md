@@ -414,9 +414,9 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. java
+1. c
     
-2. c
+2. finance
     
 3. html
     
@@ -424,28 +424,28 @@ Most common
 Popular subjects
 ----------------
 
-1. [Project Management
+1. [Computer Networking
+    
+    1,728 courses](https://www.classcentral.com/subject/computer-networking)
+2. [Project Management
     
     4,160 courses](https://www.classcentral.com/subject/project-management)
-2. [Digital Marketing
+3. [Psychology
     
-    6,217 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [ChatGPT
-    
-    1,096 courses](https://www.classcentral.com/subject/chatgpt)
+    2,670 courses](https://www.classcentral.com/subject/psychology)
 
 Popular courses
 ---------------
 
-1. [Introduction to Psychology
+1. [Monitoring Volcanoes and Magma Movements
     
-    University of Toronto](https://www.classcentral.com/course/introduction-psych-647)
-2. [Machine Learning for Musicians and Artists
+    University of Iceland](https://www.classcentral.com/course/volcanoes-the-university-of-iceland-monitoring-vo-13227)
+2. [Arab-Islamic History: From Tribes to Empires
     
-    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
-3. [Introducción a los encofrados y las cimbras en obra civil y edificación
+    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
+3. [ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/civil-engineering-universitat-politecnica-de-vale-11880)
+    Universitat Politècnica de València](https://www.classcentral.com/course/sustainable-development-universitat-politecnica-d-9740)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
