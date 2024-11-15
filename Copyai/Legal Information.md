@@ -1,6 +1,6 @@
 Event Series: **How to Drive GTM AI Strategy in 2025**
 
-[Operations Leaders](https://www.copy.ai/webinars/ai-meets-operations-how-ops-can-implement-a-gtm-ai-strategy-in-2025?utm_source=linkedin&utm_medium=social&utm_campaign=nov_19_webinar&utm_content=company_page_promo)[Sales Leaders](https://www.copy.ai/webinars/the-new-ai-sales-play-how-sales-leaders-can-create-a-gtm-ai-strategy-in-2025?utm_source=linkedin&utm_medium=social&utm_campaign=nov_14_webinar&utm_content=company_page_promo)
+[Operations Leaders](https://www.copy.ai/webinars/ai-meets-operations-how-ops-can-implement-a-gtm-ai-strategy-in-2025?utm_source=linkedin&utm_medium=social&utm_campaign=nov_19_webinar&utm_content=company_page_promo)[SDR Leaders](https://www.copy.ai/webinars/the-sdr-shift-how-sdr-leaders-can-redefine-gtm-strategy-with-ai-in-2025?utm_source=linkedin&utm_medium=social&utm_campaign=nov_21_webinar&utm_content=company_page_promo)
 
 [![](https://cdn.prod.website-files.com/628288c5cd3e8411b90a36a4/659e8f4c92a0028e36e42623_logo_kerning-fix.svg)](https://copy.ai/)
 
