@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Tarife für Kinder-Smartwatches: Günstig nach Hause telefonieren](https://www.test.de/Tarife-fuer-Kinder-Smartwatches-Guenstig-nach-Hause-telefonieren-6044492-0/ "Tarife für Kinder-Smartwatches - Günstig nach Hause telefonieren")
-* [Korrelations­analyse: Welche Märkte sich ähnlich bewegen](https://www.test.de/Korrelationsanalyse-Welche-Maerkte-sich-aehnlich-bewegen-5973008-0/ "Korrelationsanalyse - Welche Märkte sich ähnlich bewegen")
-* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
-* [Warn­liste: Falsche Firma Fest­geld48](https://www.test.de/Warnliste-Falsche-Firma-Festgeld48-5981748-0/ "Warnliste - Falsche Firma Festgeld48")
-* [EuGH-Urteil: Vertrag darf nicht nur vom Schufa-Score abhängen](https://www.test.de/EuGH-Urteil-Vertrag-darf-nicht-nur-vom-Schufa-Score-abhaengen-6073255-0/ "EuGH-Urteil - Vertrag darf nicht nur vom Schufa-Score abhängen")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
+* [Insolvenz von Welt­bild: Jetzt eBooks und Hörbucher sichern](https://www.test.de/Insolvenz-von-Weltbild-Jetzt-eBooks-und-Hoerbucher-sichern-6147571-0/ "Insolvenz von Weltbild - Jetzt eBooks und Hörbucher sichern")
+* [Gut essen mit der Stiftung Warentest: Gesunde Flocken am Morgen](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Gesunde-Flocken-am-Morgen-5966273-0/ "Gut essen mit der Stiftung Warentest - Gesunde Flocken am Morgen")
+* [Kündigung mit Abfindung: So holen Sie aus Ihrer Abfindung das Beste raus](https://www.test.de/Kuendigung-mit-Abfindung-Abfindung-guenstig-versteuern-oder-fuer-die-Rente-nutzen-6159415-0/ "Kündigung mit Abfindung - So holen Sie aus Ihrer Abfindung das Beste raus")
+* [Online-Reisebüros im Test: Drei lassen Urlaubs­stimmung aufkommen](https://www.test.de/Test-von-Online-Reiseportalen-6070481-0/ "Online-Reisebüros im Test - Drei lassen Urlaubsstimmung aufkommen")
+* [Schufa: Zugriff auf Basis-Score per App](https://www.test.de/Schufa-Jederzeit-Zugriff-auf-Basis-Score-6026386-0/ "Schufa - Zugriff auf Basis-Score per App")
+* [Dark Patterns: Sieben fiese Tricks: So werden Sie im Internet manipuliert](https://www.test.de/dark-patterns-manipulation-im-internet-6141853-0/ "Dark Patterns - Sieben fiese Tricks: So werden Sie im Internet manipuliert")
 
 Service Stiftung Warentest
 
