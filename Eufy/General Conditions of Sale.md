@@ -1097,7 +1097,7 @@ Register
 
  Email me with news and offers (you can unsubscribe at any time).
 
-\*For account security, verify your email address.Send email
+\*Sorry, your account has private data, please verify your account by e-mail.Sent Again
 
 Buy on the eufy store
 
