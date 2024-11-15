@@ -76,9 +76,9 @@ Search
 
 Search
 
-#### Exclusive
+#### Breaking News
 
-[Trump slams Hochul move to revive NYC congestion tax: ‘It will hurt workers, families, and businesses’](https://nypost.com/2024/11/14/us-news/trump-slams-hochul-move-to-revive-nyc-congestion-tax/)
+[Trump picks ex-Georgia congressman for Veterans Affairs secretary](https://nypost.com/2024/11/14/us-news/trump-picks-ex-georgia-congressman-doug-collins-for-veterans-affairs-secretary/)
 
 Terms Of Use
 ============
