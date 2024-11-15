@@ -173,33 +173,52 @@ Primary Menu
 Aviso legal
 ===========
 
-**© 2021 Telefónica S.A., Gran Vía 28, 28013 Madrid, España.**
+1. **Identificación del prestador del sitio web**
 
-Registro Mercantil de Madrid, al tomo 208 de Sociedades, folio 1, hoja número M-6.164, inscripción 946 ª CIF. A-28/015865
+1. Denominación social: Telefónica, S.A. (“**Telefónica**”)
+2. Domicilio social: Gran Vía 28, 28013 Madrid, España
+3. NIF: A28015865
+4. Datos registrales: Registro Mercantil de Madrid, al tomo 208 de Sociedades, folio 1, hoja número M-6.164, inscripción 946ª
+5. Datos de contacto: [\[email protected\]](https://www.telefonica.com/cdn-cgi/l/email-protection)
 
-Todos los derechos reservados.
-
-1. Los derechos de propiedad intelectual del web telefonica.com, su código fuente, diseño, estructura de navegación, bases de datos y los distintos elementos en él contenidos son titularidad de Telefónica S.A. a quien corresponde el ejercicio exclusivo de los derechos de explotación de los mismos en cualquier forma y, en especial, los derechos de reproducción, distribución, comunicación pública y transformación.
-2. Estas condiciones generales regulan el acceso y utilización del sitio web telefonica.com que Telefónica pone gratuitamente a disposición de los usuarios de Internet. El acceso al mismo implica su aceptación sin reservas. La utilización de determinados servicios ofrecidos en este sitio se regirá además por las condiciones particulares previstas en cada caso, las cuales se entenderán aceptadas por el mero uso de tales servicios.
-3. Se autoriza la visualización, impresión y descarga parcial del contenido de la web sólo y exclusivamente si concurren las siguientes condiciones:
-
-* Que sea compatible con los fines de la web telefonica.com.
-* Que se realice con el exclusivo ánimo de obtener la información contenida para uso personal y privado. Se prohíbe expresamente su utilización con fines comerciales o para su distribución, comunicación publica, transformación o descompilación.
-* Que ninguno de los contenidos relacionados en esta web sean modificados de manera alguna.
-* Que ningún gráfico, icono o imagen disponible en esta web sea utilizado, copiado o distribuido separadamente del texto o resto de imágenes que lo acompañan.
-
-4. Telefónica, S.A. se reserva la facultad de efectuar, en cualquier momento y sin necesidad de previo aviso, modificaciones y actualizaciones de la información contenida en su web, de la configuración y presentación de éste y de las condiciones de acceso.
-5. Telefónica S.A. no garantiza la inexistencia de interrupciones o errores en el acceso al web, en su contenido, ni que éste se encuentre actualizado, aunque desarrollará sus mejores esfuerzos para, en su caso, evitarlos, subsanarlos o actualizarlos.
-6. Tanto el acceso a este web como el uso que pueda hacerse de la información contenida en el mismo es de la exclusiva responsabilidad de quien lo realiza. Telefónica no responderá de ninguna consecuencia, daño o perjuicio que pudieran derivarse de dicho acceso o uso de la información. Telefónica no se hace responsable de los posibles errores de seguridad que se puedan producir ni de los posibles daños que puedan causarse al sistema informático del usuario (hardware y software), los ficheros o documentos almacenados en el mismo, como consecuencia de la presencia de virus en el ordenador del usuario utilizado para la conexión a los servicios y contenidos de la web, de un mal funcionamiento del navegador o del uso de versiones no actualizadas del mismo.
-7. Esta web y los documentos publicados en ella, pueden contener manifestaciones de futuro que incluyan proyecciones, estimaciones, planes, objetivos y expectativas relativas a distintas materias.  
-    Estas manifestaciones de futuro reflejan opiniones respecto de sucesos futuros y no constituyen, por su propia naturaleza, garantías de un futuro cumplimento, encontrándose condicionadas por riesgos e incertidumbres que podrían determinar que los resultados finales difieran materialmente de los expresados en las manifestaciones de futuro.  
-    Estas manifestaciones de futuro sólo son válidas en la fecha en la cual fueron elaboradas. Telefónica, S.A. no asume ninguna obligación de actualizar públicamente ni revisar las declaraciones de futuro para adaptarlas a hechos o circunstancias posteriores a esa fecha.  
-    Asimismo, la información contenida en esta Web tiene finalidad informativa y no proporciona ningún tipo de recomendación de inversión, ni asesoramiento legal, ni de otra clase, ni constituye una oferta y nada de lo que en ella se incluye debe ser tomado como base para realizar inversiones o tomar decisiones, declinando Telefónica, S.A. toda responsabilidad por el uso que de la información contenida en esta Web pueda hacerse en tal sentido.
-8. Telefónica no asume responsabilidad alguna derivada de la concesión o contenidos de los enlaces de terceros a los que se hace referencia en la web, ni garantiza la ausencia de virus u otros elementos en los mismos que puedan producir alteraciones en el sistema informático (hardware y software), los documentos o los ficheros del usuario, excluyendo cualquier responsabilidad por los daños de cualquier clase causados al usuario por este motivo.
-9. Telefónica S.A. es titular de los derechos de propiedad industrial referidos a sus productos y servicios, y específicamente de los relativos a la marca registrada «Telefónica». Respecto a las citas de productos y servicios de terceros Telefónica, S.A. reconoce a favor de sus titulares los correspondientes derechos de propiedad industrial e intelectual, no implicando su sola mención o aparición en el web la existencia de derechos o responsabilidad alguna de Telefónica sobre los mismos, como tampoco respaldo, patrocinio, recomendación por parte de Telefónica, S.A.
-10. La utilización no autorizada de la información contenida en esta web, su reventa, así como la lesión de los derechos de Propiedad Intelectual o Industrial de Telefónica S.A., dará lugar a las responsabilidades legalmente establecidas.
-11. Todo enlace de terceros a esta web debe serlo a su página principal o de entrada.
-12. Telefónica S.A. y el usuario, con renuncia expresa a cualquier otro fuero, se someten al de los juzgados y tribunales del domicilio del usuario para cualquier controversia que pudiera derivarse del acceso a esta web. En el caso de que el usuario tenga su domicilio fuera de España, Telefónica S.A. y el usuario se someten, con renuncia expresa a cualquier otro fuero, a los juzgados y tribunales de la ciudad de Madrid (España).
+2. **Condiciones generales de acceso y utilización del sitio web**  
+    El presente Aviso Legal recoge las condiciones generales que regulan el acceso y utilización del sitio web en el que se incluye, y que Telefónica pone gratuitamente a disposición de los usuarios de Internet. Por ello, el acceso al mismo implica su lectura por los usuarios y aceptación sin reservas.  
+      
+    No obstante, la utilización de determinados servicios ofrecidos en el sitio web se regirá, además, por las condiciones particulares previstas en cada caso.  
+      
+    Se autoriza al usuario, excepcionalmente, la reproducción parcial del contenido del sitio web, sólo y exclusivamente, si concurren todas las siguientes condiciones cumulativas: (1) que sea compatible con los fines del sitio web; (2) que se realice con el exclusivo ánimo de usar la información contenida para fines personales y/o privados (excluyendo los fines comerciales), y respetando en todo caso su integridad; y (3) que ningún gráfico, icono o imagen disponible en el sitio web sea utilizado, copiado o distribuido separadamente del texto o resto de imágenes que lo acompañan.
+3. **Declaraciones de Responsabilidad**  
+    Tanto el acceso al sitio web como el uso que pueda hacerse de la información, incluyendo los documentos con posibilidad de descarga, contenida en el mismo es de la exclusiva responsabilidad del usuario que lo realiza. Telefónica no responderá de ninguna consecuencia, daño o perjuicio que pudieran derivarse de dicho acceso o uso de la información. Telefónica tampoco responderá por ninguna consecuencia, daño o perjuicio por el acceso o uso de información disponible en sitios webs de terceros prestadores cuyo enlace de acceso se encuentre disponible en el sitio web.  
+      
+    El sitio web, la información y los documentos publicados en ella, pueden contener manifestaciones de futuro que incluyan proyecciones, estimaciones, planes, objetivos y expectativas relativas a distintas materias.  
+      
+    Estas manifestaciones de futuro reflejan meras opiniones respecto de sucesos futuros y no constituyen, por su propia naturaleza, garantías de cumplimento, encontrándose condicionadas por riesgos e incertidumbres que podrían determinar que los resultados finales difieran materialmente de los expresados en las manifestaciones.  
+      
+    Estas manifestaciones de futuro sólo son válidas en la fecha en la cual fueron elaboradas. Telefónica no asume ninguna obligación de actualizar públicamente ni revisar las declaraciones de futuro para adaptarlas a hechos o circunstancias posteriores a esa fecha.  
+      
+    Asimismo, la información contenida en el sitio web tiene finalidad informativa y no proporciona ningún tipo de recomendación de inversión, ni asesoramiento legal, ni de otra clase, ni constituye una oferta y nada de lo que en ella se incluye debe ser tomado como base para realizar inversiones o tomar decisiones, declinando Telefónica toda responsabilidad por el uso que de la información contenida en el sitio web pueda hacerse en tal sentido.  
+      
+    En cualquier caso, Telefónica se reserva la facultad de efectuar, en cualquier momento y sin necesidad de previo aviso, modificaciones y actualizaciones de la información contenida en el sitio web, de la configuración y presentación de este y de las condiciones de acceso.  
+      
+    Telefónica no se hace responsable de los posibles errores de seguridad que se puedan producir ni de los posibles daños que puedan causarse al sistema informático del usuario (hardware y software), los ficheros o documentos almacenados en el sitio web (o en los de terceros a los que se pueda acceder a través del correspondiente enlace), como consecuencia de la presencia de virus en el ordenador del usuario utilizado para la conexión a los servicios y contenidos del sitio web, de un mal funcionamiento del navegador o del uso de versiones no actualizadas del mismo.  
+      
+    Tampoco garantiza Telefónica la inexistencia de interrupciones o errores en el acceso en el sitio web, en su contenido, ni que este se encuentre actualizado, aunque pondrá sus mejores esfuerzos para, en su caso, evitarlos, subsanarlos o actualizarlos.
+4. **Propiedad Intelectual e Industrial**  
+    Telefónica es titular originaria (o cesionaria) de los derechos reconocidos por la normativa de Propiedad Intelectual e Industrial de los contenidos que se muestran en el sitio web, incluyendo a título meramente enunciativo y no limitativo, todos los elementos que configuran la apariencia visual, imágenes, estímulos sensoriales (comprendiendo el aspecto o _look and feel_), textos, contenidos audiovisuales, descargables, diseños, sonidos, nombre de dominio, marcas, diseños y/o cualesquiera otros elementos y/o signos que se presentan en el sitio web.  
+      
+    Por tanto, queda prohibida la reproducción, distribución, transformación y/o comunicación pública, incluida su puesta a disposición, de la totalidad o parte de los contenidos que se muestran en el sitio web, sin que medie autorización previa y por escrito de Telefónica.  
+      
+    Telefónica declara que queda estrictamente prohibida la minería de datos de toda clase sobre los contenidos presentes en este sitio web, incluyendo la minería de textos. La extracción, recolección o procesamiento de contenidos sin el consentimiento expreso y por escrito de Telefónica, está terminantemente prohibida y será considerada como una violación de derechos de Propiedad Intelectual e Industrial y/o de la normativa aplicable.  
+      
+    En relación con las citas de productos y servicios de terceros, Telefónica reconoce a favor de sus titulares los correspondientes derechos de Propiedad Intelectual e Industrial, no implicando su sola mención o aparición en el sitio web la existencia de derechos o responsabilidad alguna de Telefónica sobre los mismos.  
+      
+    Telefónica se compromete a velar por el cumplimiento de las obligaciones exigidas por la normativa de Propiedad Intelectual o Industrial, incluyendo la correcta utilización de los contenidos que integran el sitio web. No obstante, si el usuario detectase cualquier infracción de los derechos que le corresponden bajo la normativa de Propiedad Intelectual e Industrial o quisiera recabar más información sobre la materia, le rogamos que se ponga inmediatamente en contacto con nosotros dirigiéndose a la dirección de correo electrónico [\[email protected\]](https://www.telefonica.com/cdn-cgi/l/email-protection).
+5. **Tratamiento de datos personales**  
+    El sitio web podrá recoger, almacenar o permitir de otro modo el tratamiento de información personal del usuario, o de terceros, con diferentes finalidades.  
+      
+    La Política de Privacidad y la Política de Cookies del sitio web, dispuestas generalmente junto al presente Aviso Legal, constituyen las condiciones particulares aplicables al tratamiento de dicha información personal, debiendo el usuario dirigirse a las mismas para conocer todo el detalle.
+6. **Legislación y fuero aplicable**  
+    Este Aviso Legal se rige por la ley común española. Telefónica y el usuario, con renuncia expresa a cualquier otro fuero, se someten al de los juzgados y tribunales de Madrid capital, salvo que resulte de aplicación algún otro imperativo.
 
 Hacer nuestro mundo más humano, conectando la vida de las personas.
 
