@@ -299,13 +299,21 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
+
+[«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
+
+[#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+15.11.24
+
 [![«Единая Россия» дала старт международной акции «Люди Артека»-2025](https://cdn.er.ru/media/news/November2024/V0gidMiU7mp2Qh5r9HIc-small.png)](https://er.ru/activity/news/edinaya-rossiya-dala-start-mezhdunarodnoj-akcii-lyudi-arteka-2025)
 
 [«Единая Россия» дала старт международной акции «Люди Артека»-2025](https://er.ru/activity/news/edinaya-rossiya-dala-start-mezhdunarodnoj-akcii-lyudi-arteka-2025)
 
 [#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#Беларусь](https://er.ru/activity/news?tags%5B0%5D=5381) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834)
 
-Сегодня 15:15
+15.11.24
 
 [![Антон Демидов: Более 5 тысяч активистов «Молодой Гвардии» прошли через волонтёрскую и гуманитарную миссии на освобождённых территориях](https://cdn.er.ru/media/news/November2024/lry73Dc5FFR6176RUpBm-small.jpg)](https://er.ru/activity/news/anton-demidov-bolee-5-tysyach-aktivistov-molodoj-gvardii-proshli-cherez-volontyorskuyu-i-gumanitarnuyu-missii-na-osvobozhdyonnyh-territoriyah)
 
@@ -313,7 +321,7 @@
 
 [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
 
-Сегодня 14:30
+15.11.24
 
 [![Денис Пушилин: Работа МГЕР в Донбассе войдёт в летопись организации](https://cdn.er.ru/media/news/November2024/6geqrZMmvDWB8PlRUVcf-small.jpg)](https://er.ru/activity/news/denis-pushilin-rabota-mger-v-donbasse-vojdyot-v-letopis-organizacii)
 
@@ -321,7 +329,7 @@
 
 [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443)
 
-Сегодня 14:17
+15.11.24
 
 [![Владимир Якушев поддержал предложение МГЕР провести форум рабочей молодёжи](https://cdn.er.ru/media/news/November2024/O9ZFm6Z1tzLTYb8zmrya-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-provesti-forum-rabochej-molodyozhi)
 
@@ -329,7 +337,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
 
-Сегодня 14:14
+15.11.24
 
 [![Владимир Якушев поддержал предложение МГЕР по созданию Дома молодёжи в ЛНР](https://cdn.er.ru/media/news/November2024/1S7VRmeuxPsNJE9DkcEp-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-po-sozdaniyu-doma-molodyozhi-v-lnr)
 
@@ -337,15 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
 
-Сегодня 14:06
-
-[![Владимир Якушев: Проект МГЕР «Наставник Z» сегодня важен для нас, как и уроки ветеранов Великой Отечественной войны для предыдущих поколений](https://cdn.er.ru/media/news/November2024/mYVu7vlObImS2PZRP6Qk-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-proekt-mger-nastavnik-z-segodnya-vazhen-dlya-nas-kak-i-uroki-veteranov-velikoj-otechestvennoj-vojny-dlya-predydushih-pokolenij)
-
-[Владимир Якушев: Проект МГЕР «Наставник Z» сегодня важен для нас, как и уроки ветеранов Великой Отечественной войны для предыдущих поколений](https://er.ru/activity/news/vladimir-yakushev-proekt-mger-nastavnik-z-segodnya-vazhen-dlya-nas-kak-i-uroki-veteranov-velikoj-otechestvennoj-vojny-dlya-predydushih-pokolenij)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#ВОВ](https://er.ru/activity/news?tags%5B0%5D=357) [#участникиСВО](https://er.ru/activity/news?tags%5B0%5D=1094633) [#ГероиРоссии](https://er.ru/activity/news?tags%5B0%5D=114262)
-
-Сегодня 13:32
+15.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
