@@ -1330,6 +1330,7 @@
             * [ ]  [Data pipelines](https://handbook.gitlab.com/handbook/enterprise-data/platform/pipelines/)
             * [ ]  [Data Team CI Jobs](https://handbook.gitlab.com/handbook/enterprise-data/platform/ci-jobs/)
             * [ ]  [Data with GitLab Duo](https://handbook.gitlab.com/handbook/enterprise-data/platform/data-with-duo/)
+                * [ ]  [Duo Inspiration Hub](https://handbook.gitlab.com/handbook/enterprise-data/platform/data-with-duo/duo-inspiriation-hub/)
             * [ ]  [dbt Guide](https://handbook.gitlab.com/handbook/enterprise-data/platform/dbt-guide/)
             * [ ]  [Enterprise Data Warehouse](https://handbook.gitlab.com/handbook/enterprise-data/platform/edw/)
             * [ ]  [GDPR deletions](https://handbook.gitlab.com/handbook/enterprise-data/platform/gdpr-deletions/)
