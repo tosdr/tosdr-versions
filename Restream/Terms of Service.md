@@ -544,6 +544,10 @@ You understand and acknowledge that we are not certifying nor endorsing, and hav
 Nothing in this Agreement is intended to or does create any type of joint venture, creditor-debtor, escrow, partnership or any employer/employee or fiduciary or franchise relationship between you and us.  
   
   
+  
+**18\. Promo Code Terms and Conditions**  
+  
+If you use a promo code in connection with our Services, you agree to abide by our [Promo Code Terms and Conditions](https://restream.io/promo-code-terms), which are incorporated into these Terms of Service by reference.  
 
 #### Products
 
