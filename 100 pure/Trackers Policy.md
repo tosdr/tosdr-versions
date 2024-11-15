@@ -6,6 +6,704 @@ My Tote
 
  ![](https://www.100percentpure.com/s/files/1/0648/1955/files/cross.svg?v=1699049258&em-origin=cdn.shopify.com) Close cart
 
+SPEND $45 To
+
+UNLOCK BEAUTY DEALS
+
+[SHOP NOW](https://www.100percentpure.com/collections/best-sellers)
+
+BEAUTY DEALS UNLOCKED!
+
+[SHOP NOW](https://www.100percentpure.com/collections/beauty-deals)
+
+BEAUTY DEALS
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FMVPMT_Multi_Vitamin_Cream_Primary.jpg?em-origin=cdn.shopify.com)](#product-6918011748430)
+
+Beauty Deal - Multi-Vitamin + Antioxidants Ultra Riché PM Treatment
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FMVPMT_Multi_Vitamin_Cream_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Multi-Vitamin + Antioxidants Ultra Riché PM Treatment
+
+Age Corrective. Luxurious night cream is a multi-vitamin powerhouse made with correcting vitamin C and reparative vitamin A, and works to combat daily damage and signs of aging.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMVPPMSER_Beauty_Deal_2022-Multi-Vitamin_PM_Serum_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838962749518)
+
+Beauty Deal - Multi-Vitamin + Antioxidants Potent PM Serum
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMVPPMSER_Beauty_Deal_2022-Multi-Vitamin_PM_Serum_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Multi-Vitamin + Antioxidants Potent PM Serum
+
+Potent, stabilized vitamins in this PM serum work synergistically to reduce lines and wrinkles, increase firmness and elasticity, brighten and even skin tone.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_71d0d4a0-3658-4eb4-a2b1-ea7b42cbe309.jpg?em-origin=cdn.shopify.com)](#product-6918011813966)
+
+Beauty Deal - Multi-Vitamin + Antioxidants PM Facial Oil
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FMVPMFO_Multi_Viamin_Facial_Oil_Primary_71d0d4a0-3658-4eb4-a2b1-ea7b42cbe309.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Multi-Vitamin + Antioxidants PM Facial Oil
+
+Age corrective visibly reduce lines, wrinkles + increase firmness and elasticity. A multi-vitamin facial oil treatment designed for targeted anti-aging benefits. Features concentrated potencies of vitamins E, C, D3, retinol and CoQ10.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1Ca9fvhKiaogXGykSRulBtbV_E37X2zH0_export_view.jpg?em-origin=cdn.shopify.com)](#product-7507287179342)
+
+Beauty Deal - Mushroom Peptides Firming Serum
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1Ca9fvhKiaogXGykSRulBtbV_E37X2zH0_export_view.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Mushroom Peptides Firming Serum
+
+Medicinal mushrooms deliver multiple skin benefits. Unlock firmer-looking skin with eleven different skin beneficial medicinal mushrooms and quinoa peptides that make skin more resilient, vibrant and increase firmness and elasticity.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/MushroomPeptides_1600x_92891f54-32c6-4b87-8549-81a9312b5308.webp?em-origin=cdn.shopify.com)](#product-6927911485518)
+
+Beauty Deal - Mushroom Peptide Moisturizer
+
+SELECT Buy for $25
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/MushroomPeptides_1600x_92891f54-32c6-4b87-8549-81a9312b5308.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Mushroom Peptide Moisturizer
+
+A luxurious blend of 11 medicinal mushrooms, hyaluronic acid & quinoa peptides for intense hydration & firmness. Antioxidant-rich formula boosts skin's glow & vibrancy. Perfect for a youthful, radiant complexion.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FAPFSR_Beauty_Deal_2022-Acai_Pulp_Facial_Scrub_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838962978894)
+
+Beauty Deal - Acai Pulp Facial Scrub
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FAPFSR_Beauty_Deal_2022-Acai_Pulp_Facial_Scrub_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Acai Pulp Facial Scrub
+
+Super fruit infused all natural facial scrub smoothes away bumps, flakes, and dead skin while instilling vitamins and antioxidants for a super soft, glowing complexion.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMRROBM_Beauty_Deal_2022-Retinol_Restorative_Overnight_Balm_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838962290766)
+
+Beauty Deal - Retinol Restorative Overnight Balm
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FMRROBM_Beauty_Deal_2022-Retinol_Restorative_Overnight_Balm_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Retinol Restorative Overnight Balm
+
+Nourishing PM balm enhances firmness, tone, and elasticity while you sleep. Made with vegan retinol, avocado butter, and plant oils to moisturize and restore.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FFRWC_Fermented_Rice_Water_Cleanser_Primary_83e98f65-72ca-41aa-a3d3-c0b14c1a908a.png?em-origin=cdn.shopify.com)](#product-6918011420750)
+
+Beauty Deal - Fermented Rice Water Cleanser
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FFRWC_Fermented_Rice_Water_Cleanser_Primary_83e98f65-72ca-41aa-a3d3-c0b14c1a908a.png?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fermented Rice Water Cleanser
+
+Softening. Fermented rice water (Sake) is rich in enzymes, amino acids, malic acid, minerals, and vitamins to brighten, gently exfoliate, and deeply soften skin.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FFRWT_Fermented_Rice_Water_Toner_Primary_c0e65fb7-4355-409d-93ee-ce014d3f3924.png?em-origin=cdn.shopify.com)](#product-6918011093070)
+
+Beauty Deal - Fermented Rice Water Toner
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FFRWT_Fermented_Rice_Water_Toner_Primary_c0e65fb7-4355-409d-93ee-ce014d3f3924.png?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fermented Rice Water Toner
+
+Softening. Brightening facial toner uses enzymes and amino acids from fermented rice water (Sake) to brighten, hydrate, plump, and deeply soften skin.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211FFRWS_Fermented_Rice_Water_Serum_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657760067662)
+
+Beauty Deal - Fermented Rice Water Serum
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211FFRWS_Fermented_Rice_Water_Serum_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fermented Rice Water Serum
+
+Concentrated daily serum is made with fermented rice water (Sake), which is rich in enzymes and beneficial nutrients to brighten, soften, and hydrate your skin.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CMP_Mattifying_Primer_Primary.jpg?em-origin=cdn.shopify.com)](#product-6657758724174)
+
+Beauty Deal - Mattifying Primer
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CMP_Mattifying_Primer_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Mattifying Primer
+
+Silicone-free primer infused with skin-plumping seaweed collagen for flawless, long lasting cosmetic application. Fills fine lines while minimizing shine.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/Luminousprimer_1600x_c826b9f9-a9be-47c0-88ff-91f2f8de5523.webp?em-origin=cdn.shopify.com)](#product-6840074895438)
+
+Beauty Deal - Luminous Primer
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/Luminousprimer_1600x_c826b9f9-a9be-47c0-88ff-91f2f8de5523.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Luminous Primer
+
+Silicone-free, antioxidant infused primer diffuses pores and illuminates with light reflective pigment while giving flawless, long lasting cosmetic application.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FBOCB_Beauty_Deal_2022-Blood_Orange_Cleansing_Balm_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838962159694)
+
+Beauty Deal - Blood Orange Cleansing Balm
+
+SELECT Buy for $20
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FBOCB_Beauty_Deal_2022-Blood_Orange_Cleansing_Balm_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Blood Orange Cleansing Balm
+
+Moisturizing facial cleanser made with degreasing blood orange, plus coconut and olive oils to sweep away even the most stubborn makeup, debris, and impurities.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1CBBPT_Bamboo_Blur_Powder_Tan_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927909093454)
+
+Beauty Deal - Bamboo Blur Powder - Tan
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1CBBPT_Bamboo_Blur_Powder_Tan_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Bamboo Blur Powder - Tan
+
+Translucent to tinted setting powders made with mattifying bamboo silica to absorb excess oil, stamp out shine, and refract light for a soft, poreless finish.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/download_174730e4-f333-4a2f-84a7-020838bc7297.jpg?em-origin=cdn.shopify.com)](#product-6927908733006)
+
+Beauty Deal - Dark Spot Remover
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/download_174730e4-f333-4a2f-84a7-020838bc7297.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Dark Spot Remover
+
+Lightens Dark Spots + Evens Skin Tone. An all natural dark spot remover serum that visibly reduces hyperpigmentation, scars, and dark spots.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1SINO_Beauty_Deal_2022-Intensive_Nourishing_Oil_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838962847822)
+
+Beauty Deal - Intensive Nourishing Oil
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1SINO_Beauty_Deal_2022-Intensive_Nourishing_Oil_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Intensive Nourishing Oil
+
+Deeply nourishing, ultra lightweight facial oil concentrated with a highly potent blend of clarifying oils and anti-aging antioxidants.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_94d5e227-02fd-4262-8904-c1ca5c3dc437.jpg?em-origin=cdn.shopify.com)](#product-6928803594318)
+
+Beauty Deal - Cucumber Cloud Foam Cleanser
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCCFC_Cucumber_Cloud_Foam_Cleanser_Primary_94d5e227-02fd-4262-8904-c1ca5c3dc437.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Cucumber Cloud Foam Cleanser
+
+Extra Gentle. Deeply hydrating foam cleanser replenishes thirsty skin cells with cucumber juice, aloe, and rose hydrosol, while calming dry skin with calendula and chamomile.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_196yIVNpGMOaxjhvA-F1sG6H9KkwT1Y4E_export_download.png?em-origin=cdn.shopify.com)](#product-7491737092174)
+
+Beauty Deal - Flower Water Toner
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_196yIVNpGMOaxjhvA-F1sG6H9KkwT1Y4E_export_download.png?em-origin=cdn.shopify.com)
+
+Beauty Deal - Flower Water Toner
+
+Immensely calming rose and calendula hydrosols quench thirsty skin cells with nutrient-packed waters. The hydrosols work with hyaluronic acid to lock in hydration resulting in a plumped, softened and soothed complexion. Plant peptides, stem cells, ceramides and vitamins increase elasticity and firmness while lessening the appearance of lines and wrinkles.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1CBHE_Fruit_Pigmented_Blush_Healthy_Primary_1f02ed2e-3acc-4ea4-a727-d9c5c659d680.jpg?em-origin=cdn.shopify.com)](#product-6927910502478)
+
+Beauty Deal - Fruit Pigmented® Blush - Healthy
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1CBHE_Fruit_Pigmented_Blush_Healthy_Primary_1f02ed2e-3acc-4ea4-a727-d9c5c659d680.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Blush - Healthy
+
+Versatile range of blush makeup made from finely pressed rice powder and antioxidant-rich fruit pigments to give cheeks a healthy, natural flush of color.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CBCH_Fruit_Pigmented_Blush_Chiffon_Primary_670x_bf6e9e11-257e-41d7-887c-0b14fc563659.webp?em-origin=cdn.shopify.com)](#product-7491737485390)
+
+Beauty Deal - Fruit Pigmented® Blush - Chiffon
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CBCH_Fruit_Pigmented_Blush_Chiffon_Primary_670x_bf6e9e11-257e-41d7-887c-0b14fc563659.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Blush - Chiffon
+
+Versatile range of blush makeup made from finely pressed rice powder and antioxidant-rich fruit pigments to give cheeks a healthy, natural flush of color.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CBCR_Fruit_Pigmented_Blush_Cherry_Primary_670x_22c2cea3-89a0-4946-9708-27c3ffa528c0.webp?em-origin=cdn.shopify.com)](#product-7491737518158)
+
+Beauty Deal - Fruit Pigmented® Blush - Cherry
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CBCR_Fruit_Pigmented_Blush_Cherry_Primary_670x_22c2cea3-89a0-4946-9708-27c3ffa528c0.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Fruit Pigmented® Blush - Cherry
+
+Versatile range of blush makeup made from finely pressed rice powder and antioxidant-rich fruit pigments to give cheeks a healthy, natural flush of color.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/GLHSR_Repair_Shampoo_Primary.jpg?em-origin=cdn.shopify.com)](#product-6674955305038)
+
+Beauty Deal - Repair Shampoo - 13.5oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/GLHSR_Repair_Shampoo_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Repair Shampoo - 13.5oz
+
+Natural shampoo for restoring health and vitality to dry, damaged locks. Replenishes with essential vitamins and nutrients, while hydrating with rose and honey.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1y1RHdAnZJ8xL59a_7IOprAIFMmrwltnM_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491736961102)
+
+Beauty Deal - Glossy Locks Repair Conditioner - 13.5oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1y1RHdAnZJ8xL59a_7IOprAIFMmrwltnM_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Repair Conditioner - 13.5oz
+
+Deeply restorative treatment for repairing and nourishing dry, damaged hair. Concentrated with moisturizing oils and vitamins for smooth, hydrated locks.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1z97rFwH8zelpg_wKQVoRl6mHrCNeuxPv_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491737059406)
+
+Beauty Deal - Glossy Locks Repair Shampoo - 16oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1z97rFwH8zelpg_wKQVoRl6mHrCNeuxPv_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Repair Shampoo - 16oz
+
+Natural shampoo for restoring health and vitality to dry, damaged locks. Replenishes with essential vitamins and nutrients, while hydrating with rose and honey.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1v5_DNEv9xLSRfB_BeWJf0wl7P1_K8vB7_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491736993870)
+
+Beauty Deal - Glossy Locks Repair Conditioner - 16oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1v5_DNEv9xLSRfB_BeWJf0wl7P1_K8vB7_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Repair Conditioner - 16oz
+
+Deeply restorative treatment for repairing and nourishing dry, damaged hair. Concentrated with moisturizing oils and vitamins for smooth, hydrated locks.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_118ZwmnhHV-u1ZEj_hAPhnrFoP02Tfa9b_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491737026638)
+
+Beauty Deal - Glossy Locks Moisture Drench Shampoo - 13.5oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_118ZwmnhHV-u1ZEj_hAPhnrFoP02Tfa9b_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Moisture Drench Shampoo - 13.5oz
+
+Luxuriously moisturizing shampoo deeply restores hydration and shine to thirsty locks. Fortified with nourishing aloe, biotin, rose water, and coconut oil.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1wAjpuGEXJt_xHtrBZe5oGydbAwNiI6RS_export_download.jpg?em-origin=cdn.shopify.com)](#product-7491736928334)
+
+Beauty Deal - Glossy Locks Moisture Drench Conditioner 13.5oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/uc_id_1wAjpuGEXJt_xHtrBZe5oGydbAwNiI6RS_export_download.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Moisture Drench Conditioner 13.5oz
+
+Deeply moisturizing conditioner restores hydration to dry, dehydrated locks. Replenishes essential moisture for stronger, healthier hair and renewed shine.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHSG16OZ_Glossing_Shampoo_16oz_Primary_138926e7-6a72-4a3c-9687-a215f964f3ab.jpg?em-origin=cdn.shopify.com)](#product-6918010961998)
+
+Beauty Deal - Glossy Locks Glossing Shampoo 16oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHSG16OZ_Glossing_Shampoo_16oz_Primary_138926e7-6a72-4a3c-9687-a215f964f3ab.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Glossing Shampoo 16oz
+
+Hydrating shampoo quenches hair while restoring bounce, shine, and luster. Gently washes away hair-dulling residues while nourishing and strengthening.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHCGM_Grow_More_Conditioner_Primary_80509226-d7cb-44ad-9dd3-e6e41be62d8f.jpg?em-origin=cdn.shopify.com)](#product-6918011027534)
+
+Beauty Deal - Glossy Locks Grow More Conditioner 13oz
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/GLHCGM_Grow_More_Conditioner_Primary_80509226-d7cb-44ad-9dd3-e6e41be62d8f.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Glossy Locks Grow More Conditioner 13oz
+
+Glossy Locks Grow More Conditioner is formulated to minimize shedding and stimulate new hair growth. Deeply nourishes, hydrates, and detangles for smooth, soft, and healthier hair.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1BSHA_BodyScrub_HoneyAlmond_Primary_82031daf-1d04-474e-aff1-f6b1d124d1a6.jpg?em-origin=cdn.shopify.com)](#product-6928810115150)
+
+Beauty Deal - Honey Almond Body Scrub
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1BSHA_BodyScrub_HoneyAlmond_Primary_82031daf-1d04-474e-aff1-f6b1d124d1a6.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Honey Almond Body Scrub
+
+Crystalline sea salt scrub buffs away dry, rough skin while blanketing skin in rich, supple moisture.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1BSBO_BodyScrub_BloodOrange_Primary_b117519f-cf91-4649-95d5-17f7eeaa7ac3.jpg?em-origin=cdn.shopify.com)](#product-6928809918542)
+
+Beauty Deal - Blood Orange Body Scrub
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1BSBO_BodyScrub_BloodOrange_Primary_b117519f-cf91-4649-95d5-17f7eeaa7ac3.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Blood Orange Body Scrub
+
+Crystalline sea salt scrub buffs away dry, rough skin while blanketing skin in rich, supple moisture.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1BSLA_Beauty_Deal_2022-100_Pure__Body_Scrub__Lavender_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838962683982)
+
+Beauty Deal - Lavender Body Scrub
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1BSLA_Beauty_Deal_2022-100_Pure__Body_Scrub__Lavender_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Lavender Body Scrub
+
+Crystalline sea salt scrub buffs away dry, rough skin while blanketing skin in rich, supple moisture.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211BSCO_Coconut_Body_Scrub_Primary.jpg?em-origin=cdn.shopify.com)](#product-6657753874510)
+
+Beauty Deal - Coconut Body Scrub
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211BSCO_Coconut_Body_Scrub_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Coconut Body Scrub
+
+Crystalline sea salt scrub buffs away dry, rough skin while blanketing skin in rich, supple moisture.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BWBBC_Whipped_Body_Butter_Coconut_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927907651662)
+
+Beauty Deal - Coconut Whipped Body Butter
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BWBBC_Whipped_Body_Butter_Coconut_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Coconut Whipped Body Butter
+
+Thick and decadent Coconut Whipped Body Butter deeply moisturizes and softens using creamy cocoa, shea, and avocado butters, with added hydration from aloe and rose hydrosol. Note: This current batch has a strong cocoa aroma due to the cocoa butter. See our Product Details for further information.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1BWBBHA_Whipped_Body_Butter_Honey_Almond_Primary_670x_3d14aab5-391a-4743-8a4c-c5a3466e8b8d.webp?em-origin=cdn.shopify.com)](#product-7491737452622)
+
+Beauty Deal - Honey Almond Whipped Body Butter
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1BWBBHA_Whipped_Body_Butter_Honey_Almond_Primary_670x_3d14aab5-391a-4743-8a4c-c5a3466e8b8d.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Honey Almond Whipped Body Butter
+
+Thick and decadent honey almond body butter deeply moisturizes and softens using creamy cocoa, shea, and avocado butters, with added hydration from aloe and rose hydrosol. Note: This current batch has a strong cocoa aroma due to the cocoa butter. See our Product Details for further information.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BWBBFL_Whipped_Body_Butter_French_Lavender_Primary_df400282-95a7-4a57-a83e-f32285ca56f6.jpg?em-origin=cdn.shopify.com)](#product-6927908044878)
+
+Beauty Deal - French Lavender Whipped Body Butter
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BWBBFL_Whipped_Body_Butter_French_Lavender_Primary_df400282-95a7-4a57-a83e-f32285ca56f6.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - French Lavender Whipped Body Butter
+
+Thick and decadent body butter deeply moisturizes and softens using creamy cocoa, shea, and avocado butters, with added hydration from aloe and rose hydrosol. Note: This current batch has a strong cocoa aroma due to the cocoa butter. See our Product Details for further information.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CELLBB_Long_Last_Liquid_Eye_Liner__Blackberry_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657756561486)
+
+Beauty Deal - Long Last Liquid Eye Liner: Blackberry
+
+SELECT Buy for $10
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CELLBB_Long_Last_Liquid_Eye_Liner__Blackberry_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Long Last Liquid Eye Liner: Blackberry
+
+Liquid liner richly pigmented from micronized black tea leaves for deep, dramatic color. Long-lasting, smudge-proof, and water-resistant for all day wear.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CELLBT_Long_Last_Liquid_Eye_Liner_-_Black_Tea_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6657756594254)
+
+Beauty Deal - Long Last Liquid Eye Liner - Black Tea
+
+SELECT Buy for $10
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211CELLBT_Long_Last_Liquid_Eye_Liner_-_Black_Tea_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Long Last Liquid Eye Liner - Black Tea
+
+Liquid liner richly pigmented from micronized black tea leaves for deep, dramatic color. Long-lasting, smudge-proof, and water-resistant for all day wear.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FLOMSCL_Beauty_Deal_2022-Lavender_Oat_Milk_Soothing_Cleanser_Primary.jpg?em-origin=cdn.shopify.com)](#product-6838961176654)
+
+Beauty Deal - Lavender Oat Milk Soothing Cleanser
+
+SELECT Buy for $10
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FLOMSCL_Beauty_Deal_2022-Lavender_Oat_Milk_Soothing_Cleanser_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Lavender Oat Milk Soothing Cleanser
+
+Skin-softening powder cleanser made with colloidal oatmeal, soothing rose petals, deeply purifying lavender, moisturizing coconut milk, and calming botanicals.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FPDHC_Beauty_Deal_2019_-_Pore_Detox_Herbal_Cleanser_Primary.jpg?em-origin=cdn.shopify.com)](#product-6928809787470)
+
+Beauty Deal - Pore Detox Herbal Cleanser
+
+SELECT Buy for $10
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1FPDHC_Beauty_Deal_2019_-_Pore_Detox_Herbal_Cleanser_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Pore Detox Herbal Cleanser
+
+Gently exfoliating powder cleanser detoxifies with dandelion and neem, unclogs and minimizes the appearance of pores, and reduces excess oil with green clay.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCBMM_Cocoa_Butter_Moisture_Mask_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927907520590)
+
+Beauty Deal - Cocoa Butter Moisture Mask
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCBMM_Cocoa_Butter_Moisture_Mask_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Cocoa Butter Moisture Mask
+
+Decadent, intensely nourishing facial mask made with nutrient-dense cacao, designed to enhance youthful elasticity and deeply moisturize.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCBFS_Cocoa_Bean_Facial_Scrub_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927909683278)
+
+Beauty Deal - Cocoa Bean Facial Scrub
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCBFS_Cocoa_Bean_Facial_Scrub_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Cocoa Bean Facial Scrub
+
+Nutrient-dense facial scrub gently polishes the skin with organic cacao nibs and nourishes with vitamin E to reveal a softer, more luminous complexion.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CPEDC_Creamy_Long_Last_Liner_Dark_Cacao_Primary_efc92456-cdfc-446e-b417-e92e4c09feec.jpg?em-origin=cdn.shopify.com)](#product-6918010765390)
+
+Beauty Deal - Creamy Long Last Liner - Dark Cacao
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CPEDC_Creamy_Long_Last_Liner_Dark_Cacao_Primary_efc92456-cdfc-446e-b417-e92e4c09feec.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Creamy Long Last Liner - Dark Cacao
+
+This creamy, long-lasting eyeliner pencil glides easily onto lids to line and define your eyes, while nourishing skin with jojoba oil.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CPEBL_Beauty_Deal_2022-Creamy_Long_Last_Liner__Blackest_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838961078350)
+
+Beauty Deal - Creamy Long Last Liner: Blackest
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CPEBL_Beauty_Deal_2022-Creamy_Long_Last_Liner__Blackest_Primary_2.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Creamy Long Last Liner: Blackest
+
+This creamy, long-lasting eyeliner pencil glides easily onto lids to line and define your eyes, while nourishing skin with jojoba oil.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCBCCO_Coconut_Hand_Buttercream_Primary_1600x_8528722a-7695-43cc-90ac-58427e145eda.webp?em-origin=cdn.shopify.com)](#product-7491737911374)
+
+Beauty Deal - Coconut Hand Buttercream
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCBCCO_Coconut_Hand_Buttercream_Primary_1600x_8528722a-7695-43cc-90ac-58427e145eda.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Coconut Hand Buttercream
+
+Non-greasy hand cream made with rich cocoa, avocado, and shea butters. Fortified with anti-aging vitamins and super fruit antioxidants for soft, supple skin.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPCAON_Beauty_Deal_2022-Cor-All_or_Nothing_Nail_Polish_Primary_42687521-d401-4252-9e9a-e9b57905c9d9.jpg?em-origin=cdn.shopify.com)](#product-6840074666062)
+
+Beauty Deal - Cor-All or Nothing Nail Polish
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPCAON_Beauty_Deal_2022-Cor-All_or_Nothing_Nail_Polish_Primary_42687521-d401-4252-9e9a-e9b57905c9d9.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Cor-All or Nothing Nail Polish
+
+Vegan, cruelty-free nail polish made without the 20 common toxins found in conventional formulas.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPEL_Beauty_Deal_2022-Elderberry_Nail_Polish_Primary_b1815aad-fddb-44ed-8f3d-191b41ee781e.jpg?em-origin=cdn.shopify.com)](#product-6840074534990)
+
+Beauty Deal - Elderberry Nail Polish
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPEL_Beauty_Deal_2022-Elderberry_Nail_Polish_Primary_b1815aad-fddb-44ed-8f3d-191b41ee781e.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Elderberry Nail Polish
+
+Vegan, cruelty-free nail polish made without the 20 common toxins found in conventional formulas.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPIALR_Beauty_Deal_2022-I_27m_A_Little_Rusty_Nail_Polish_Primary_ec44c5fd-956c-4222-be7f-2e28c48a203b.jpg?em-origin=cdn.shopify.com)](#product-6840074600526)
+
+Beauty Deal - I'm A Little Rusty Nail Polish
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPIALR_Beauty_Deal_2022-I_27m_A_Little_Rusty_Nail_Polish_Primary_ec44c5fd-956c-4222-be7f-2e28c48a203b.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - I'm A Little Rusty Nail Polish
+
+Vegan, cruelty-free nail polish made without the 20 common toxins found in conventional formulas.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211NPBASE_Horsetail_Base_Coat_Polish_Primary.jpg?em-origin=cdn.shopify.com)](#product-6667765973070)
+
+Beauty Deal - Horsetail Base Coat Polish
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211NPBASE_Horsetail_Base_Coat_Polish_Primary.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Horsetail Base Coat Polish
+
+Our base coat is made without the 10 common nail polish toxins, strengthens nails with horsetail plant, and promotes growth while protecting your natural nails.
+
+SELECT
+
   
 
 ---
@@ -456,7 +1154,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5295 reviews (5295)
+5297 reviews (5297)
 
 $28.00 $28.00
 
