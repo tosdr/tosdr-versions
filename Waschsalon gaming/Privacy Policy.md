@@ -14,6 +14,7 @@
 5. [Garrys Mod Shop](https://ggc.tebex.io/)
 6. [GExtension](https://gg-community.de/gextension)
 7. [Streaming-Partner](https://gg-community.de/streaming-partner/)
+8. [Wiki](https://gg-community.de/lexicon/)
 
 [](https://gg-community.de/login/?url=https%3A%2F%2Fgg-community.de%2Fdatenschutzerklaerung%2F "Anmelden oder registrieren")
 
