@@ -1,11 +1,5 @@
 ![](https://www.facebook.com/tr?id=833439704982348&ev=PageView&noscript=1)    
 
-![](https://img.gg.deals/2b/46/36efa4539b68ae7eaaa4b2415cac07fdb6ff_1224cr120_Q100.jpg)
-
-![](https://img.gg.deals/af/5d/ed030f16bb3d5f2190d057f80cafe4cd2d38_2560xt1440_Q100.jpg)
-
-[](https://gg.deals/us/redirect/0b09abd946c59be794aaf099e1c27476ac098895/?utm_campaign=top-banner&utm_source=page%2Fpage)
-
 Region: United States
 
 Keyshops: Enabled
@@ -35,6 +29,12 @@ Light Dark
     
 
 * [Sign in](https://gg.deals/login/)
+
+![](https://img.gg.deals/f9/b4/9d4fd0e2222485854b21cb9ac4ae162be6ea_1272cr200_Q100.jpg)
+
+![](https://img.gg.deals/c5/0b/06d98aa890965d5067d37029718d2e646c15_2560xt1440_Q100.jpg)
+
+[](https://gg.deals/us/redirect/c8bc57e0252b45271c77fdbcd05c869fafe6eb93/?utm_campaign=main-banner&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/c8bc57e0252b45271c77fdbcd05c869fafe6eb93/?utm_campaign=main-left&utm_source=page%2Fpage)[](https://gg.deals/us/redirect/c8bc57e0252b45271c77fdbcd05c869fafe6eb93/?utm_campaign=main-right&utm_source=page%2Fpage)
 
 * [Home](https://gg.deals/) 
 * [Terms & conditions](https://gg.deals/terms/) 
