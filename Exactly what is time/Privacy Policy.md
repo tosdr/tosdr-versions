@@ -83,7 +83,7 @@ Random Pages
 
 * * *
 
-[Sources And References](https://www.exactlywhatistime.com/sources-and-references/) [Time Standards](https://www.exactlywhatistime.com/measurement-of-time/time-standards/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [24H Ampm Converter](https://www.exactlywhatistime.com/24h-ampm-converter) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Glossary of Terms](https://www.exactlywhatistime.com/glossary-of-terms/) [Periodization](https://www.exactlywhatistime.com/measurement-of-time/periodization/) [Absolute Time](https://www.exactlywhatistime.com/physics-of-time/absolute-time/) [Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Other Aspects of Time](https://www.exactlywhatistime.com/other-aspects-of-time/)
+[Measurement of Time](https://www.exactlywhatistime.com/measurement-of-time/) [Definition of Time](https://www.exactlywhatistime.com/definition-of-time/) [Biopsychology](https://www.exactlywhatistime.com/psychology-of-time/biopsychology/) [Physics of Time](https://www.exactlywhatistime.com/physics-of-time/) [Philosophy of Time](https://www.exactlywhatistime.com/philosophy-of-time/) [Early Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/early-modern-philosophy/) [Time In Different Cultures](https://www.exactlywhatistime.com/other-aspects-of-time/time-in-different-cultures/) [Modern Philosophy](https://www.exactlywhatistime.com/philosophy-of-time/modern-philosophy/) [Quantum Time](https://www.exactlywhatistime.com/physics-of-time/quantum-time/) [The Arrow of Time](https://www.exactlywhatistime.com/physics-of-time/the-arrow-of-time/)
 
 © 2024 ExactlyWhatIsTime.com - Exactly What Is Time?
 
