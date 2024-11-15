@@ -96,10 +96,12 @@ Menu
     * [Champagne & Prosecco](https://www.moonpig.com/uk/gifts/christmas/alcohol-gifts/champagne-prosecco/)
     * [Chocolate & Sweets](https://www.moonpig.com/uk/gifts/christmas/chocolate-sweets/)
     * [Experience Gifts](https://www.moonpig.com/uk/gifts/experience-gifts/all/)
+    * [Flowers & Plants](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
     * [Hampers](https://www.moonpig.com/uk/gifts/christmas/hampers/)
     * [Home](https://www.moonpig.com/uk/gifts/homeware/christmas/)
     * [Kids Toys](https://www.moonpig.com/uk/gifts/christmas/toys-games/)
-    * [Flowers & Plants](https://www.moonpig.com/uk/flowers-and-plants/christmas/)
+    * [Personalised Gifts](https://www.moonpig.com/uk/gifts/personalised-gifts/christmas/)
+    * [Soft Toys](https://www.moonpig.com/uk/gifts/christmas/soft-toys/)
     
     ### Gift Inspiration
     
