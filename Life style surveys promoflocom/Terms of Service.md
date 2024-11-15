@@ -164,13 +164,13 @@ Force Majeure
 1. The owner and managers shall not be responsible for any breach of warranty, delay or failure in performance under these terms and conditions that results from events beyond its control, including without limitation, such as acts of God, acts of war, epidemics, power outages, fire, earthquakes, and other disasters.
 2. In the event of any delay or failure in performance by the owner or managers due to any cause arising from or attributable to acts, events, non-happenings, omissions, accidents or acts beyond the control of the owner and managers, the owner and managers shall be under no liability for loss or injury suffered by you as a result thereof.
 
-[](https://promoflo.com/?ix=131211)[Legal Info](https://promoflo.com/?ix=131211)
+[](https://promoflo.com/?ix=131106)[Legal Info](https://promoflo.com/?ix=131106)
 
-[Privacy Policy](https://promoflo.com/?ix=131215)
+[Privacy Policy](https://promoflo.com/?ix=131110)
 
-[Terms & Conditions](https://promoflo.com/?ix=131216)
+[Terms & Conditions](https://promoflo.com/?ix=131111)
 
-[Copyright Policy](https://promoflo.com/?ix=131213)
+[Copyright Policy](https://promoflo.com/?ix=131108)
 
 [](https://promoflo.com/?ix=131040)[Home](https://promoflo.com/?ix=131040)
 
