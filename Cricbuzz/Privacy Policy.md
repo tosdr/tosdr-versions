@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95187/wi-vs-eng-3rd-t20i-england-tour-of-west-indies-2024 "West Indies v England, 3rd T20I - Preview")[AUS vs PAK - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92039/aus-vs-pak-1st-t20i-pakistan-tour-of-australia-2024 "Australia v Pakistan, 1st T20I - AUS Won")[PRSW vs SYTW - Preview](https://www.cricbuzz.com/live-cricket-scores/101383/prsw-vs-sytw-27th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Sydney Thunder Women, 27th Match - Preview")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100384/rsa-vs-ind-4th-t20i-india-tour-of-south-africa-2024 "South Africa v India, 4th T20I - Preview")[UP vs KAR - Stumps](https://www.cricbuzz.com/live-cricket-scores/97743/up-vs-kar-elite-group-c-ranji-trophy-elite-2024-25 "Uttar Pradesh v Karnataka, Elite Group C - Stumps")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[WI vs ENG - Complete](https://www.cricbuzz.com/live-cricket-scores/95187/wi-vs-eng-3rd-t20i-england-tour-of-west-indies-2024 "West Indies v England, 3rd T20I - Complete")[RSA vs IND - Preview](https://www.cricbuzz.com/live-cricket-scores/100384/rsa-vs-ind-4th-t20i-india-tour-of-south-africa-2024 "South Africa v India, 4th T20I - Preview")[PRSW vs SYTW - Preview](https://www.cricbuzz.com/live-cricket-scores/101383/prsw-vs-sytw-27th-match-womens-big-bash-league-2024 "Perth Scorchers Women v Sydney Thunder Women, 27th Match - Preview")[MLSW vs MLRW - Preview](https://www.cricbuzz.com/live-cricket-scores/101385/mlsw-vs-mlrw-28th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Melbourne Renegades Women, 28th Match - Preview")[AUS vs PAK - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92039/aus-vs-pak-1st-t20i-pakistan-tour-of-australia-2024 "Australia v Pakistan, 1st T20I - AUS Won")
 
 AllLive NowToday
 
@@ -66,9 +66,13 @@ AllLive NowToday
     
 * West Indies v England, 2024
     
-    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95187/wi-vs-eng-3rd-t20i-west-indies-v-england-2024 "West Indies v England, 3rd T20I - Preview")
+    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95187/wi-vs-eng-3rd-t20i-west-indies-v-england-2024 "West Indies v England, 3rd T20I - Complete")
     
     3rd T20I
+    
+* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95191/wi-vs-eng-4th-t20i-west-indies-v-england-2024 "West Indies v England, 4th T20I - Upcoming")
+    
+    4th T20I
     
 * Australia v Pakistan
     
@@ -100,6 +104,10 @@ AllLive NowToday
     
     4th T20I
     
+* [Indonesia vs Myanmar](https://www.cricbuzz.com/live-cricket-scores/109239/idn-vs-mmr-5th-t20i-indonesia-v-myanmar-2024 "Indonesia v Myanmar, 5th T20I - Upcoming")
+    
+    5th T20I
+    
 * Netherlands tour of Oman, 2024
     
     [Netherlands vs Oman](https://www.cricbuzz.com/live-cricket-scores/108907/ned-vs-oman-1st-t20i-netherlands-tour-of-oman-2024 "Netherlands v Oman, 1st T20I - OMAN Won")
@@ -125,6 +133,14 @@ AllLive NowToday
 * [Assam vs Chhattisgarh](https://www.cricbuzz.com/live-cricket-scores/97770/asm-vs-cg-elite-group-d-ranji-trophy "Assam v Chhattisgarh, Elite Group D - Stumps")
     
     Elite Group D
+    
+* [Services vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97709/ser-vs-mum-elite-group-a-ranji-trophy "Services v Mumbai, Elite Group A - Stumps")
+    
+    Elite Group A
+    
+* [Kerala vs Haryana](https://www.cricbuzz.com/live-cricket-scores/97765/ker-vs-har-elite-group-c-ranji-trophy "Kerala v Haryana, Elite Group C - Stumps")
+    
+    Elite Group C
     
 * [Bihar vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97761/bih-vs-pun-elite-group-c-ranji-trophy "Bihar v Punjab, Elite Group C - Stumps")
     
@@ -174,14 +190,6 @@ AllLive NowToday
     
     Elite Group B
     
-* [Services vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97709/ser-vs-mum-elite-group-a-ranji-trophy "Services v Mumbai, Elite Group A - Stumps")
-    
-    Elite Group A
-    
-* [Kerala vs Haryana](https://www.cricbuzz.com/live-cricket-scores/97765/ker-vs-har-elite-group-c-ranji-trophy "Kerala v Haryana, Elite Group C - Stumps")
-    
-    Elite Group C
-    
 * Ranji Trophy Plate
     
     [Nagaland vs Mizoram](https://www.cricbuzz.com/live-cricket-scores/98168/ngl-vs-miz-plate-ranji-trophy-plate "Nagaland v Mizoram, Plate - Stumps")
@@ -218,13 +226,13 @@ AllLive NowToday
     
 * ICC CWC Challenge League B, 2024-26
     
-    [Uganda vs Italy](https://www.cricbuzz.com/live-cricket-scores/108217/uga-vs-ita-11th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Italy, 11th Match - UGA Won")
-    
-    11th Match
-    
-* [Tanzania vs Singapore](https://www.cricbuzz.com/live-cricket-scores/108209/tan-vs-sin-10th-match-icc-cwc-challenge-league-b-2024-26 "Tanzania v Singapore, 10th Match - No Result")
+    [Tanzania vs Singapore](https://www.cricbuzz.com/live-cricket-scores/108209/tan-vs-sin-10th-match-icc-cwc-challenge-league-b-2024-26 "Tanzania v Singapore, 10th Match - No Result")
     
     10th Match
+    
+* [Uganda vs Italy](https://www.cricbuzz.com/live-cricket-scores/108217/uga-vs-ita-11th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Italy, 11th Match - UGA Won")
+    
+    11th Match
     
 * [Hong Kong vs Singapore](https://www.cricbuzz.com/live-cricket-scores/108233/hk-vs-sin-13th-match-icc-cwc-challenge-league-b-2024-26 "Hong Kong v Singapore, 13th Match - Preview")
     
@@ -250,15 +258,15 @@ AllLive NowToday
     
 * Sheffield Shield 2024-25
     
-    [South Australia vs New South Wales](https://www.cricbuzz.com/live-cricket-scores/102898/saus-vs-nsw-10th-match-sheffield-shield-2024-25 "South Australia v New South Wales, 10th Match - Stumps")
+    [South Australia vs New South Wales  LIVE](https://www.cricbuzz.com/live-cricket-scores/102898/saus-vs-nsw-10th-match-sheffield-shield-2024-25 "South Australia v New South Wales, 10th Match - Live")
     
     10th Match
     
-* [Victoria vs Western Australia](https://www.cricbuzz.com/live-cricket-scores/102900/vic-vs-wa-11th-match-sheffield-shield-2024-25 "Victoria v Western Australia, 11th Match - Preview")
+* [Western Australia vs Victoria  LIVE](https://www.cricbuzz.com/live-cricket-scores/102900/wa-vs-vic-11th-match-sheffield-shield-2024-25 "Western Australia v Victoria, 11th Match - Live")
     
     11th Match
     
-* [Queensland vs Tasmania](https://www.cricbuzz.com/live-cricket-scores/102907/ql-vs-tas-12th-match-sheffield-shield-2024-25 "Queensland v Tasmania, 12th Match - Preview")
+* [Tasmania vs Queensland  LIVE](https://www.cricbuzz.com/live-cricket-scores/102907/tas-vs-ql-12th-match-sheffield-shield-2024-25 "Tasmania v Queensland, 12th Match - Live")
     
     12th Match
     
@@ -274,17 +282,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107449/cntbry-vs-nk-3rd-match-plunket-shield "Canterbury v Northern Knights, 3rd Match - NK Won")
+    [Otago vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107435/otg-vs-cd-1st-match-plunket-shield "Otago v Central Districts, 1st Match - CD Won")
+    
+    1st Match
+    
+* [Canterbury vs Northern Knights](https://www.cricbuzz.com/live-cricket-scores/107449/cntbry-vs-nk-3rd-match-plunket-shield "Canterbury v Northern Knights, 3rd Match - NK Won")
     
     3rd Match
     
 * [Auckland vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107441/akl-vs-wel-2nd-match-plunket-shield "Auckland v Wellington, 2nd Match - AKL Won")
     
     2nd Match
-    
-* [Otago vs Central Districts](https://www.cricbuzz.com/live-cricket-scores/107435/otg-vs-cd-1st-match-plunket-shield "Otago v Central Districts, 1st Match - CD Won")
-    
-    1st Match
     
 * WOMEN
     
@@ -621,37 +629,37 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 [IPL auction to have two sets of marquee players](https://www.cricbuzz.com/cricket-news/132422/ipl-auction-to-have-two-sets-of-marquee-players "IPL auction to have two sets of marquee players")
 
-2h ago
+8h ago
 
   [](https://www.cricbuzz.com/cricket-news/132421/amid-uncertainty-icc-sends-ct-trophy-to-pakistan-for-official-tour "Amid uncertainty, ICC sends CT trophy to Pakistan for official tour")
 
 [Amid uncertainty, ICC sends CT trophy to Pakistan for official tour](https://www.cricbuzz.com/cricket-news/132421/amid-uncertainty-icc-sends-ct-trophy-to-pakistan-for-official-tour "Amid uncertainty, ICC sends CT trophy to Pakistan for official tour")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132420/heinrich-klaasen-bemoans-south-afircas-shrinking-status "Heinrich Klaasen bemoans South Afirca's shrinking status")
 
 [Heinrich Klaasen bemoans South Afirca's shrinking status](https://www.cricbuzz.com/cricket-news/132420/heinrich-klaasen-bemoans-south-afircas-shrinking-status "Heinrich Klaasen bemoans South Afirca's shrinking status")
 
-4h ago
+10h ago
 
   [](https://www.cricbuzz.com/cricket-news/132419/ranji-wrap-shami-shines-in-his-comeback-game "Ranji wrap: Shami shines on return; Goa fly with two triple centuries")
 
 [Ranji wrap: Shami shines on return; Goa fly with two triple centuries](https://www.cricbuzz.com/cricket-news/132419/ranji-wrap-shami-shines-in-his-comeback-game "Ranji wrap: Shami shines on return; Goa fly with two triple centuries")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132418/maxwell-pacers-give-australia-1-0-lead "Maxwell, pacers give Australia 1-0 lead")
 
 [Maxwell, pacers give Australia 1-0 lead](https://www.cricbuzz.com/cricket-news/132418/maxwell-pacers-give-australia-1-0-lead "Maxwell, pacers give Australia 1-0 lead")
 
-7h ago
+13h ago
 
   [](https://www.cricbuzz.com/cricket-news/132417/ashraful-kick-starts-coaching-career-at-rangpur-riders "Ashraful kick-starts coaching career at Rangpur Riders")
 
 [Ashraful kick-starts coaching career at Rangpur Riders](https://www.cricbuzz.com/cricket-news/132417/ashraful-kick-starts-coaching-career-at-rangpur-riders "Ashraful kick-starts coaching career at Rangpur Riders")
 
-7h ago
+13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
