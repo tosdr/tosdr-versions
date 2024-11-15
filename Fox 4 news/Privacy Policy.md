@@ -5,7 +5,7 @@
 * [Weather](https://www.fox4news.com/weather)
 * [Good Day](https://www.fox4news.com/shows/good-day)
 * [Sports](https://www.fox4news.com/sports)
-* [Traffic](https://www.fox4news.com/traffic)
+* [Gift Guide](https://www.fox4news.com/giftguide)
 * [Vote](https://www.fox4news.com/vote)
 * [More](#)
 
@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![McDonald's is bringing back a festive dessert – but not everywhere](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2181113229.jpg?ve=1&tl=1)
+ [![Fire damages HG Sply Co. restaurant in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111524-sky-4-friday-1pm-kdfweme002_12_57_10_mpg_00.20.51.52.jpg?ve=1&tl=1)
 
- ![McDonald's is bringing back a festive dessert – but not everywhere](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2181113229.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mcdonalds-holiday-pie-2024-locations)
+ ![Fire damages HG Sply Co. restaurant in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111524-sky-4-friday-1pm-kdfweme002_12_57_10_mpg_00.20.51.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-burning-fort-worth-restaurant)
 
-### [McDonald's is bringing back a festive dessert – but not everywhere](https://www.fox4news.com/news/mcdonalds-holiday-pie-2024-locations)
+### [Fire damages HG Sply Co. restaurant in Fort Worth](https://www.fox4news.com/news/fire-burning-fort-worth-restaurant)
 
- [![Advance Auto Parts closing over 700 locations following sluggish performance](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/advanced-auto-parts.jpg?ve=1&tl=1)
+ [![Last actions the Biden administration will take before Trump moves in](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/biden-and-trump.jpg?ve=1&tl=1)
 
- ![Advance Auto Parts closing over 700 locations following sluggish performance](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/advanced-auto-parts.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/advance-auto-parts-closing-over-700-locations-following-sluggish-performance)
+ ![Last actions the Biden administration will take before Trump moves in](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/biden-and-trump.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/last-actions-biden-administration-trump)
 
-### [Advance Auto Parts closing over 700 locations following sluggish performance](https://www.fox4news.com/news/advance-auto-parts-closing-over-700-locations-following-sluggish-performance)
+### [Last actions the Biden administration will take before Trump moves in](https://www.fox4news.com/news/last-actions-biden-administration-trump)
 
- [![Juvenile killed in Fort Worth hit-and-run](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
+ [![Dallas police officer rehired following off-duty arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/60358ba0-DPD20badge_1439831436204_110027_ver1.0_640_360.jpg?ve=1&tl=1)
 
- ![Juvenile killed in Fort Worth hit-and-run](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/juvenile-killed-fort-worth-hit-and-run)
+ ![Dallas police officer rehired following off-duty arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/60358ba0-DPD20badge_1439831436204_110027_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-officer-rehired-following-off-duty-arrest)
 
-### [Juvenile killed in Fort Worth hit-and-run](https://www.fox4news.com/news/juvenile-killed-fort-worth-hit-and-run)
+### [Dallas police officer rehired following off-duty arrest](https://www.fox4news.com/news/dallas-police-officer-rehired-following-off-duty-arrest)
 
- [![North Texas man reunited with stolen high school state championship ring two decades later](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/11142024-rr-pkg-amelia-southlake-carroll-ring-retu_00.02.46.00.jpg?ve=1&tl=1)
+ [![Airbnb promotion will let users play gladiator in Rome's Colosseum](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182908977-scaled.jpg?ve=1&tl=1)
 
- ![North Texas man reunited with stolen high school state championship ring two decades later](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/11142024-rr-pkg-amelia-southlake-carroll-ring-retu_00.02.46.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/north-texas-man-reunited-stolen-high-school-state-championship-ring-two-decades-later)
+ ![Airbnb promotion will let users play gladiator in Rome's Colosseum](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182908977-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/airbnb-colosseum-gladiator-experience)
 
-### [North Texas man reunited with stolen high school state championship ring two decades later](https://www.fox4news.com/news/north-texas-man-reunited-stolen-high-school-state-championship-ring-two-decades-later)
+### [Airbnb promotion will let users play gladiator in Rome's Colosseum](https://www.fox4news.com/news/airbnb-colosseum-gladiator-experience)
 
- [![Dallas woman, 19, kills elderly man over phone in Facebook Marketplace meetup: police](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/facebook-marketplace-murder.png?ve=1&tl=1)
+ [![Gifts tweens actually want](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/tweens-thumbnail.jpg?ve=1&tl=1)
 
- ![Dallas woman, 19, kills elderly man over phone in Facebook Marketplace meetup: police](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/facebook-marketplace-murder.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/19-year-old-girl-charged-capital-murder-dallas-killing-elderly-man)
+ ![Gifts tweens actually want](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/tweens-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-tweens)
 
-### [Dallas woman, 19, kills elderly man over phone in Facebook Marketplace meetup: police](https://www.fox4news.com/news/19-year-old-girl-charged-capital-murder-dallas-killing-elderly-man)
+### [Gifts tweens actually want](https://www.fox4news.com/news/2024-gift-guide-tweens)
 
 ###### [News](https://www.fox4news.com/news)
 
