@@ -4,7 +4,7 @@ Albert, Lipót
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "közepesen felhős")
 
-3°8°
+3°9°
 
 Menü
 
