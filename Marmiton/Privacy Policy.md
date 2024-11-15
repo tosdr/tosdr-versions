@@ -68,6 +68,10 @@ Connexion
     ](https://assets.afcdn.com/recipe/20241008/154531_origin.svg)
     
     Actus](https://www.marmiton.org/cuisine-rapide/actus-food-tp123982.html)
+* [![Prix Marmiton 2024
+    ](https://assets.afcdn.com/recipe/20241115/155845_origin.png)
+    
+    Prix Marmiton 2024](https://www.marmiton.org/prix-marmiton-2024/prix-marmiton-2024-hub-tp199358.html)
 
 [Accueil](https://www.marmiton.org/) / [Aide](https://www.marmiton.org/aide-sc27.html) / POLITIQUE DE PROTECTION DES DONNÉÉS PERSONNELLES / PRIVACY POLICY
 
