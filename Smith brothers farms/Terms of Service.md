@@ -188,9 +188,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (83)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (79)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (56)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (59)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -296,12 +296,12 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (78)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (80)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
-        * [Frozen Meals (31)](https://www.smithbrothersfarms.com/entrees)
+        * [Frozen Meals (32)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (25)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (26)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (4)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
