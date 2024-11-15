@@ -309,6 +309,18 @@ _By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
 
 _By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
 
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
+
+_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2019/08/Sinuolinea_Thumb.jpg)](https://www.quantamagazine.org/can-new-species-evolve-from-cancers-maybe-heres-how-20190819/)
+
+[#### Can New Species Evolve From Cancers? Maybe. Here’s How.](https://www.quantamagazine.org/can-new-species-evolve-from-cancers-maybe-heres-how-20190819/)
+
+_By_ [Christie Wilcox](https://www.quantamagazine.org/authors/christiewilcox)
+
 The Quanta Newsletter
 
 _Get highlights of the most important news delivered to your email inbox_
