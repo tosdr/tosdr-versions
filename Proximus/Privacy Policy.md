@@ -658,7 +658,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
@@ -669,7 +669,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 **Appels nationaux (ligne fixe)**
 
 * [_​_Free Calls National(PDF, 62.5Kb)](https://www.proximus.be/dam/jcr:b04107d6-bf68-4b5b-9cd1-693b9084310b/cdn/sites/iportal/documents/pdfs/res/rates_-free_calls_national-_fr~2023-07-03-06-10-29~cache.pdf)
-* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-12~cache.pdf)
+* [_​_Unlimited Calls National(PDF, 108.4Kb)](https://www.proximus.be/dam/jcr:9f60e010-f8e0-4c09-8e3f-bb1d17145b43/cdn/sites/iportal/documents/pdfs/res/Pricelist_Unlimited_Calls_National_RES_FR.PDF~2022-02-21-12-08-13~cache.pdf)
 
 **Appels internationaux (ligne fixe)**
 
