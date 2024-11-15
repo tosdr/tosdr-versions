@@ -45,12 +45,12 @@ Setupad participates in the IAB Europe Transparency & Consent Framework and comp
 \- hashed email address  
 \- User ID assigned in our system.  
   
-This data is used in a non personally identifiable way for the purpose of ad serving operations only. 3\. Information sharing Setupad does not share raw collected information to any third party. 4\. Cookies Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. Using cookies is common and prevalent practice in the ad industry. The following types of cookies may be employed by Setupad:  
+This data is used in a non personally identifiable way for the purpose of ad serving operations only. 3\. Information sharing Setupad does not share raw collected information to any third party. 4\. Data retention We store your personal information for a period of time that is consistent with our business purposes. 5\. Cookies Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the site’s or service provider’s systems to recognize your browser and capture and remember certain information. Using cookies is common and prevalent practice in the ad industry. The following types of cookies may be employed by Setupad:  
   
 – cookies necessary for proper web site operation (e.g. authorization);  
 – cookies gathering personally non-identifiable information on how people use Setupad and tracking performance;  
 – option and functionality choices storage to provide users with customized and relevant experience;  
-– targeting and advertising data cookies for the purpose of advertising campaign tracking, serving targeted relevant ads and interest-based advertising. 5\. Cookie removal Cookies can be removed using privacy preferences in user’s browser or application or using general system privacy settings (such as available in Android operating system, for instance). After that Setupad will not be able to serve relevant targeted advertising and will continue serving general non-personalized ads.  
+– targeting and advertising data cookies for the purpose of advertising campaign tracking, serving targeted relevant ads and interest-based advertising. 6\. Cookie removal Cookies can be removed using privacy preferences in user’s browser or application or using general system privacy settings (such as available in Android operating system, for instance). After that Setupad will not be able to serve relevant targeted advertising and will continue serving general non-personalized ads.  
   
 Please refer to browser instructions to decline the saving of cookies:  
   
@@ -70,9 +70,9 @@ Android: https://support.google.com
   
 iOS: https://support.apple.com  
   
-6\. Security Setupad applies reasonable measures to protect the collected data against accidental or unlawful destruction and loss, alteration, unauthorized disclosure, processing or access.  
+7\. Security Setupad applies reasonable measures to protect the collected data against accidental or unlawful destruction and loss, alteration, unauthorized disclosure, processing or access.  
   
-Setupad is a member of Interactive Advertising Bureau and complies with its highest industry standards on digital advertising, including user’s privacy protection best practices. 7\. Final terms By using our Website you agree to the terms and conditions set out in this Privacy Policy.  
+Setupad is a member of Interactive Advertising Bureau and complies with its highest industry standards on digital advertising, including user’s privacy protection best practices. 8\. Final terms By using our Website you agree to the terms and conditions set out in this Privacy Policy.  
 For any questions or concerns regarding the Privacy Policy and use of the Website, please contact Setupad at this email address: [\[email protected\]](https://setupad.com/cdn-cgi/l/email-protection).
 
  [![message icon](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-small.svg) ![message icon big](https://setupad.com/wp-content/themes/setupad/assets/img/message-icon-big.svg)](https://setupad.com/contact/)
