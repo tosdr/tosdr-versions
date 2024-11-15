@@ -285,25 +285,25 @@ article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### Highlights
 
-[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+[![NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels](https://science.nasa.gov/wp-content/uploads/2024/11/waterstorage-grc-2023-1440px.jpg)
+
+4 min read
+
+### NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
+
+article 3 hours ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 20 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
 
 4 min read
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 2 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)[![A woman sits on a tan-gray rock to the right of the image. She is wearing a deep purple colored shirt and black pants. One of her legs is tucked up while the other hangs off the side of the rock, and her arms are gently crossed. The woman is at a higher elevation than the background, so the landscape behind her can be seen a far distance. The landscape to the left of the image is a nearly flat ground in dark green, brown, and orange colors, and centered in the image is a lake which is reflecting the color of the sky off of it. Above the horizon, the sky is a bright blue color, but is covered slightly by sparse gray clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/59-dsc-0274-1536x1021-1.webp?w=1024)
-
-6 min read
-
-### Inia Soto Ramos, From the Mountains of Puerto Rico to Mountains of NASA Earth Data
-
-article 3 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto-ramos-from-the-mountains-of-puerto-rico-to-mountains-of-nasa-earth-data/)
+article 2 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
 
 ### Highlights
 
@@ -313,7 +313,7 @@ article 3 days ago](https://www.nasa.gov/people-of-nasa/goddard-people/inia-soto
 
 ### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
 
 2 min read
 
@@ -329,91 +329,91 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Featured
 
-[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+
+7 min read
+
+### Six Ways Supercomputing Advances Our Understanding of the Universe
+
+article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
 ### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article 23 hours ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![Photo of Roman's Optical Telescope Assembly](https://www.nasa.gov/wp-content/uploads/2024/11/ioa-005.jpg?w=1024)
-
-5 min read
-
-### Telescope for NASA’s Roman Mission Complete, Delivered to Goddard
-
-article 23 hours ago](https://www.nasa.gov/missions/roman-space-telescope/telescope-for-nasas-roman-mission-complete-delivered-to-goddard/)
+article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)
 
 ### Highlights
 
-[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+
+7 min read
+
+### Six Ways Supercomputing Advances Our Understanding of the Universe
+
+article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Title slide for OSDR Chats with Rob Reynolds interview](https://www.nasa.gov/wp-content/uploads/2024/11/osdr-chats-title-slide-dr-robert-reynolds.jpg?w=1024)
+
+2 min read
+
+### OSDR Chats with Dr Robert Reynolds
+
+article 4 hours ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 2 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
-
-2 min read
-
-### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
-
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
-
-5 min read
-
-### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
-
-article 20 hours ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)
+article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)
 
 ### Highlights
 
-[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+
+7 min read
+
+### Six Ways Supercomputing Advances Our Understanding of the Universe
+
+article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
 
 1 min read
 
 ### SPEED Publications
 
-article 7 hours ago](https://www.nasa.gov/speed-publications/)[![A room full of various testing equipment, including gauges, cables, and machinery, with a rectangular motor drive stand in the center.](https://www.nasa.gov/wp-content/uploads/2024/11/areal-24-1.jpg?w=1024)
+article 13 hours ago](https://www.nasa.gov/speed-publications/)[![A room full of various testing equipment, including gauges, cables, and machinery, with a rectangular motor drive stand in the center.](https://www.nasa.gov/wp-content/uploads/2024/11/areal-24-1.jpg?w=1024)
 
 2 min read
 
 ### AREAL
 
-article 17 hours ago](https://www.nasa.gov/areal/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
-
-2 min read
-
-### NEAT
-
-article 2 days ago](https://www.nasa.gov/neat/)
+article 23 hours ago](https://www.nasa.gov/areal/)
 
 ### Highlights
 
-[![NASA’s Psyche spacecraft is depicted receiving a laser signal from the Deep Space Optical Communications](https://www.nasa.gov/wp-content/uploads/2024/11/1-dsoc-uplink.webp?w=1024)
+[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
+
+2 min read
+
+### NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
+
+article 57 mins ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+
+7 min read
+
+### Six Ways Supercomputing Advances Our Understanding of the Universe
+
+article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Psyche spacecraft is depicted receiving a laser signal from the Deep Space Optical Communications](https://www.nasa.gov/wp-content/uploads/2024/11/1-dsoc-uplink.webp?w=1024)
 
 4 min read
 
 ### Precision Pointing Goes the Distance on NASA Experiment
 
-article 19 hours ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
-
-2 min read
-
-### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
-
-article 20 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
-
-1 min read
-
-### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
-
-article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)
+article 1 day ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)
 
 ### Featured
 
@@ -423,7 +423,7 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 7 days ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
+article 1 week ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
 
 5 min read
 
@@ -451,7 +451,7 @@ article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### 40 Years Ago: STS-51A – “The Ace Repo Company”
 
-article 7 days ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
+article 1 week ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
 
 ### Highlights
 
