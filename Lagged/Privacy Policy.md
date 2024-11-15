@@ -229,29 +229,29 @@ Games you might like
 
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
 
-[Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
-
 [Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
+
+[Bikini for Love](https://lagged.com/en/g/bikini-for-love) ![Bikini for Love Game](https://imgs2.dab3games.com/bikiniforlove-ft50.png)
 
 [Dino Dash](https://lagged.com/en/g/dino-dash) ![Dino Dash Game](https://imgs2.dab3games.com/dino-dash-game-ft37.png)
 
 [Magic Piano Tiles](https://lagged.com/en/g/magic-piano-tiles) ![Magic Piano Tiles Game](https://imgs2.dab3games.com/magic-piano-tiles-ft17.png)
 
-[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
-
-[Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
-
 [Ice Cream Stack Run](https://lagged.com/en/g/ice-cream-stack-run) ![Ice Cream Stack Run Game](https://imgs2.dab3games.com/ice-cream-stack-run29.png) top rated
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
+[Stair Race 3D](https://lagged.com/en/g/stair-race-3d) ![Stair Race 3D Game](https://imgs2.dab3games.com/stair-race-3d-game-ft.png)
+
+[Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
+
 [Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
 
-[Master of Numbers](https://lagged.com/en/g/master-of-numbers) ![Master of Numbers Game](https://imgs2.dab3games.com/master-of-numbers-ft119.png)
+[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
-[Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
+[Master of Numbers](https://lagged.com/en/g/master-of-numbers) ![Master of Numbers Game](https://imgs2.dab3games.com/master-of-numbers-ft119.png)
 
 [Lagged.com](https://lagged.com/ "Lagged.com")
 
