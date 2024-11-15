@@ -22,7 +22,9 @@ Menu-header
 * [Radio France sur Facebook](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")
 * [Radio France sur Twitter](https://twitter.com/radiofrance "Radio France sur Twitter - Nouvelle fenêtre")
 * [Radio France sur Instagram](https://www.instagram.com/radiofrance "Radio France sur Instagram - Nouvelle fenêtre")
-* [Radio France sur Youtube](https://www.youtube.com/@radiofrance "Radio France sur Youtube - Nouvelle fenêtre")
+* [![Radio France sur YouTube](/themes/custom/radiofrance/images/icons/yt_icon_mono_dark.png)
+    
+    Radio France sur Youtube](https://www.youtube.com/@radiofrance "Radio France sur YouTube - Nouvelle fenêtre")
 * [Radio France sur Linkedin](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
 Menu principal
@@ -111,7 +113,7 @@ Menu principal
 
 [](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")[](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")[](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")[](https://www.linkedin.com/company/radio-france/ "Radio France sur Linkedin - Nouvelle fenêtre")
 
-[![Radio France](/themes/custom/radiofrance/logo.svg?1731659890)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
+[![Radio France](/themes/custom/radiofrance/logo.svg?1731684607)](https://www.radiofrance.com/ "Radio France : retour à l'accueil")
 
 [](#collapse-menu-ecouter "Écouter")
 
@@ -316,7 +318,9 @@ Vous cherchez Sélectionnez Sélectionnez une valeur pour le champ "Vous êtes"
 * [Radio France sur Facebook](https://www.facebook.com/pages/Groupe-Radio-France/225248330547 "Radio France sur Facebook - Nouvelle fenêtre")
 * [Radio France sur Twitter](https://twitter.com/radiofrance/ "Radio France sur Twitter - Nouvelle fenêtre")
 * [Radio France sur Instagram](https://www.instagram.com/radiofrance/ "Radio France sur Instagram - Nouvelle fenêtre")
-* [Radio France sur Youtube](https://www.youtube.com/@radiofrance "Radio France sur Youtube - Nouvelle fenêtre")
+* [![Radio France sur YouTube](/themes/custom/radiofrance/images/icons/yt_icon_mono_light.png)
+    
+    Radio France sur Youtube](https://www.youtube.com/@radiofrance "Radio France sur YouTube - Nouvelle fenêtre")
 * [Radio France sur Linkedin](https://www.linkedin.com/company/radio-france/ "Radio France sur LinkedIn - Nouvelle fenêtre")
 
 * [Radios](https://www.radiofrance.com/nos-activites-radiophoniques "Radios")
