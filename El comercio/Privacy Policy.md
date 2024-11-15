@@ -31,17 +31,537 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-(En vivo) La Selección de Ecuador golea a Bolivia en Guayaquil
-==============================================================
+La desinformación aumenta en épocas de crisis
+=============================================
 
-La Selección de Ecuador disputa la undécima fecha de las eliminatorias sudamericanas rumbo al Mundial de 2026.
---------------------------------------------------------------------------------------------------------------
+En tiempos de crisis energética, la información veraz es crucial para mantener la estabilidad social y emocional de los ecuatorianos.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![En un mundo donde la desinformación se propaga a la velocidad de un clic, cultivar una cultura de responsabilidad informativa es muy importante.](https://www.elcomercio.com/wp-content/uploads/2024/11/Oscuridad-y-celulares.jpg)
+
+La actual crisis energética que enfrenta Ecuador, caracterizada por frecuentes cortes de luz, ha puesto de manifiesto la crucial importancia de contar con fuentes de información confiables y oportunas. En un escenario donde la incertidumbre y la ansiedad se propagan tan rápidamente como la oscuridad en las calles, la responsabilidad de proporcionar datos precisos recae no solo en las entidades oficiales, sino también en los medios de comunicación, líderes políticos y ciudadanos.
+
+> La proliferación de información falsa, especialmente en plataformas digitales, no solo socava la confianza pública, sino que también afecta la estabilidad emocional de una población ya estresada por los desafíos cotidianos.
+
+En momentos de crisis, la transparencia y la prontitud en la comunicación por parte de las autoridades son fundamentales. Las entidades gubernamentales y las empresas de servicios públicos tienen la obligación de proporcionar información clara, precisa y oportuna sobre la situación energética, los horarios de cortes programados y las medidas que se están tomando para resolver la crisis. La falta de comunicación o la entrega de información contradictoria solo alimenta la especulación y el pánico.
+
+En un contexto de crisis, es común que ciertos actores políticos intenten capitalizar la situación para obtener ventajas electorales. Sin embargo, la difusión de información falsa o manipulada con fines políticos no solo es éticamente reprobable, sino que también puede tener consecuencias graves para la estabilidad social y emocional de la población. Un informe de la UNESCO sobre desinformación en América Latina señala que durante periodos de crisis, la propagación de noticias falsas puede aumentar hasta en un 300%, con consecuencias que van desde la erosión de la confianza en las instituciones hasta la incitación de comportamientos peligrosos.
+
+La exposición constante a información contradictoria o falsa puede tener un impacto significativo en la salud mental de las personas. Un estudio publicado en el **Journal of Anxiety Disorders** encontró una correlación directa entre el consumo de información falsa y el aumento de los niveles de ansiedad y estrés. En el contexto de la crisis energética ecuatoriana, esto puede traducirse en un aumento de la tensión social y una disminución de la capacidad de la población para enfrentar los desafíos de manera racional y coordinada.
+
+Las redes sociales y otras plataformas digitales juegan un papel crucial en la difusión de información durante las crisis. Sin embargo, la reciente decisión de medios respetados como **The Guardian y La Vanguardia** de abandonar X (anteriormente Twitter) debido a su percepción como una plataforma tóxica y llena de desinformación, plantea serias preguntas sobre la responsabilidad de estas plataformas en la propagación de noticias falsas. La salida de estos medios de X no solo representa una pérdida para la plataforma en términos de contenido de calidad, sino que también envía un mensaje claro sobre la necesidad de espacios digitales más responsables y comprometidos con la verdad.
+
+La crisis energética en Ecuador no es solo un desafío técnico y logístico; también es una prueba para nuestro ecosistema informativo. La capacidad de proporcionar y acceder a información confiable es crucial no solo para manejar los aspectos prácticos de la crisis, sino también para mantener la cohesión social y la estabilidad emocional de la población.
+
+Respuesta de Chat GPT
+=====================
+
+Las ciudades deben prepararse para un crecimiento que considere la movilidad, el acceso a servicios básicos y la protección del medio ambiente.
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+![Kurt Freund Ruf, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Kurt-Freund-Ruf.jpg)
+
+En coincidencia con un artículo que estuve preparando sobre **inteligencia artificial** me llegó el mensaje de un primo en **España** a quien comparto mis artículos semanalmente. Estimado lector me permitirá compartir dicho mensaje que hace referencia a la **crisis energética** que vivimos en el **Ecuador**.
+
+”Mira Kurt, lo que dice ChTgpt respecto a tus artículos y pegunta sobre qué medidas propondría: Para abordar la situación expuesta en los artículos de Kurt Freund Ruf”
+
+“Es clave implementar un **enfoque integral**, que abarque tanto **políticas nacionales** como cambios en la **conciencia social**, para dirigir a la **sociedad** hacia un **desarrollo equilibrado** y sostenible. Aquí propongo algunas soluciones y medidas:
+
+1\. Creación de un Consejo Multidisciplinario y Multipartidista: Como Freund sugiere, es esencial formar un **grupo de expertos** en diferentes áreas (economía, medio ambiente, tecnología, seguridad, y derechos humanos) que pueda definir **metas estratégicas para el país**, orientadas al desarrollo sostenible y la resiliencia ante **cambios globales.** Este consejo debe ser apolítico y contar con representación del sector público, privado y sociedad civil, con el objetivo de construir consensos sobre las **prioridades nacionales**.
+
+2\. Seguridad Alimentaria y Energética: La **seguridad alimentaria** y la independencia energética son pilares fundamentales para reducir la **dependencia de factores externos.** Se podrían implementar programas para **incentivar la agricultura sostenible**, promover la agricultura urbana y periurbana, e invertir en **energías renovables**, especialmente en áreas rurales, donde estas soluciones pueden generar empleo y mejorar las **condiciones de vida**.
+
+3\. Educación e Innovación Tecnológica: Es importante crear **programas educativos** que se alineen con las habilidades necesarias en el contexto actual y futuro. Esto implica tanto mejorar la educación en **tecnología y sostenibilidad** como fomentar la investigación y desarrollo (I+D) en inteligencia artificial, energías renovables y otras **tecnologías emergentes.** Las **políticas educativas** deben incluir una **dimensión ética** y de **conciencia social** sobre los impactos del **desarrollo tecnológico.**
+
+4\. Políticas de Transparencia y Seguridad Jurídica: La **confianza** es fundamental para atraer **inversiones** y mantener un **ambiente económico estable**. Por lo tanto, sería clave establecer **leyes** que refuercen la transparencia en la **gestión pública** y la rendición de cuentas, promoviendo prácticas contra la **corrupción** y la **impunidad**. Además, es importante asegurar la **seguridad jurídica** para empresas y ciudadanos, facilitando **procesos judiciales ágiles y justos**.
+
+5\. Planificación Urbana Sostenible: Las **ciudades** deben prepararse para un **crecimiento** que considere la movilidad, el acceso a **servicios básicos** y la protección del medio **ambiente**. Para ello, podrían desarrollarse **políticas de urbanismo** que incentiven la construcción de **viviendas sostenibles**, el uso de **transporte público** limpio y la creación de espacios verdes que absorban la **contaminación** y mejoren la **calidad de vida.**
+
+6\. Fortalecimiento de Redes de Protección Social: Es necesario crear una **red** de **seguridad** para las personas afectadas por factores como el **desplazamiento**, la **violencia, la pobreza** extrema y el **cambio climático**. Esto implica mejorar el acceso a servicios de salud, educación, empleo y seguridad, priorizando a los sectores más vulnerables de la **población**.
+
+7\. Fomento de un Discurso Positivo en los Medios: Como menciona Freund, sería beneficioso que los **medios de comunicación** contribuyan con una narrativa que informe sobre los problemas, pero que también ofrezca soluciones y esperanza. Una mayor **colaboración** entre medios y **expertos en sostenibilidad, desarrollo y ética** podría facilitar la creación de contenido que inspire **acciones positivas** y **educativas** en la población.
+
+En conclusión, estas medidas, basadas en **cooperación**, **educación**, **transparencia** y **desarrollo sostenible,** podrían marcar una diferencia en la dirección hacia un futuro equilibrado y resiliente”
+
+¿Qué opina Ud. ¿Estimado lector?
+
+Tres Cumbres en Suramérica
+==========================
+
+Tres cumbres internacionales en América Latina abordan biodiversidad, economía y sostenibilidad.
+------------------------------------------------------------------------------------------------
+
+![Juan Pablo Lira B., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Juan-Pablo-Lira-B..jpg)
+
+Cuando la **marginación**, **irrelevancia** y ninguneo, son características del trato que recibe **Latinoamérica** a **nivel global**, tenemos que tres importantes **Cumbres** se realizaran en nuestro barrio.
+
+La primera ocurrió en Cali, Colombia, entre el 21 de octubre y el 1 de noviembre. Fue la COP 16 del **Convenio** de las **Naciones Unidas** para la **Diversidad Biológica**, para avanzar en la **conservación** y uso sostenible de la **biodiversidad**.
+
+Se avanzó en la **consolidación de la biodiversidad** como un eje central en la **agenda global**, situándola al mismo nivel de importancia que el **cambio climático y la descarbonización**.
+
+Se acordó **distribuir las ganancias** que obtienen laboratorios e industrias de **países desarrollados**, utilizando información, genética de semillas, plantas y animales.  Así, se creó el Fondo Cali.
+
+También se creó un **órgano subsidiario** enfocado en conservar los **conocimientos tradicionales** de pueblos indígenas y comunidades locales.
+
+En esta misma línea se alcanzó el **reconocimiento** de los **afrodescendientes** como **protectores** de la **biodiversidad**.
+
+Finalmente, se acordó la **creación** de un marco para identificar las **áreas marinas** en pro de la salud de los océanos.
+
+Hay conciencia que el mundo ha perdido el 70% de sus animales por el **deterioro ambiental** y la **crisis climática.** Existe consenso también sobre la necesidad de **restaurar** la naturaleza **perdida** y proteger lo que está en **peligro**. Pero, se fracasó en definir quién financiará estas **acciones**.
+
+Una segunda Cumbre, es la del APEC (Foro de Cooperación Económica Asia-Pacífico) que se está reuniendo en Lima, para promover la **cooperación económica y el crecimiento de sus países miembros**. Está compuesto por 21 economías y representa más de un tercio de la **población** **mundial**, el 58 % del PIB Global y casi el 50 % del **comercio internacional**. Se habla de **economías** y no países, para evitar **confrontaciones ideológicas**. 
+
+Su máxima instancia es la **Cumbre** de **jefes de Estado**, que será los días 15 y 16, habiendo comprometido su presencia -entre otros- los presidentes de China y los Estados Unidos. El gran ausente será Putin quien, por tener una alerta de **Interpol**, no puede ingresar al Perú sin ser detenido.
+
+Este APEC se organiza bajo el lema “Empoderar, Incluir, Crecer”. La **agenda** se centra en C**recimiento Inclusivo, Digitalización y Formalización Económica, y Sostenibilidad,** relevando la inclusión socioeconómica y el empoderamiento mediante **educación y digitalización.**  
+
+APEC, buscará adoptar diversas medidas, entre ellas: una **Guía de Políticas** para fomentar el desarrollo de **hidrógeno** bajo en **emisiones**; **elaboración** de principios para reducir la **perdida** y **desperdicio de alimentos;** la construcción de metas para el **empoderamiento económico** de personas con discapacidad; y, la búsqueda de una **transición energética** justa y sostenible, a la vez que se intentará fortalecer l**as finanzas sostenibles** entre los países del Foro.
+
+La **tercera y última Cumbre** por ocurrir en Suramérica, es el G-20, a desarrollarse en **Río de Janeiro**, los días 18 y 19 de noviembre. Es el encuentro de las más grandes **economías del planeta**, precedida de la primera **Cumbre Social** de los países que integran el G-20.  
+
+Se esperan 55 delegaciones de cerca de 40 países, entre los confirmados están el presidente estadounidense Biden y el líder chino Jinping. Rusia estará representada por su Canciller Lavrov. De europea, asistirán el presidente francés; el canciller alemán; la primera ministra italiana; el nuevo primer ministro británico. Por Latinoamérica estarán el dueño de casa, Lula da Silva, además de la nueva presidenta mexicana, Claudia Sheinbaum, y el presidente argentino, Javier Milei.
+
+El G-20 es un “club” de **cooperación internacional** que discute iniciativas para **promover mejoras económicas, políticas y sociales** en las naciones que lo integran.
+
+Todo esto ocurrirá, en un subcontinente crecientemente desintegrado, sumido en la **pobreza**, en la **violencia del narcotráfico**, y atemorizado por las eventuales **secuelas de las políticas** que Trump ha anunciado que implementara en **comercio e inmigración**.
+
+Cartas a Quito / 15 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este viernes 15 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Clamoroso pedido 
+-----------------
+
+Los Centros Comerciales se han convertido, hoy por hoy, en un obligado refugio  para los sufridos ecuatorianos que buscamos lugares propicios e iluminados para escapar de las tinieblas en las que nos tienen sumidos. 
+
+Se hace necesario entonces y, como siempre lo vengo diciendo, suprimir de una vez por todas, el cobro de los parqueaderos,  pues, se supone que la gente acude a estos sitios a consumir aunque sea un helado y no es justo tensionarse por este abusivo e injusto cobro “por tiempo”. Da gusto acudir, por ejemplo, al Condado Shopping, al CCA  y a unos pocos lugares más, en donde no existe este odioso pago y uno puede sentirse tranquilo y relajado sin mirar insistentemente el reloj  y salir  a prisa en busca de los “Punto pago” para hacer largas colas y evitar pagar este costoso servicio que, a todas luces, debería ser GRATUITO. 
+
+Otra de mis quejas que, desde luego,  es un clamor generalizado es  ¿Por qué en vez de incrementar asientos (banquetas) en los diferentes pisos y locaciones de algunos Centros Comerciales, se han dado a la ingrata tarea de eliminarlos, sin considerar que, especialmente,  los niños y las personas de la tercera edad nos cansamos en estos recorridos y necesitamos sentarnos  unos minutos  para retomar las fuerzas y continuar en esta caminata? 
+
+Es necesario que la gente tome conciencia y haga acopio de estas sugerencias por respeto, empatía y amor a sus compatriotas y a la Patria toda. 
+
+Fabiola Carrera Alemán 
+
+Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito
+==========================================================================
+
+El Municipio de Quito aplica racionamientos de agua por 12 horas en 95 barrios.
+-------------------------------------------------------------------------------
+
+![El embalse de Salve Faccha abastece a dos plantas de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Salve-Faccha-embalse.jpg)
+
+Quito depende de cuatro sistemas principales para su suministro de agua. En la región oriental, se encuentran **Papallacta**, **La Mica Quito Sur** y **Pita**–**Puengasí**. En la zona occidental se ubican sistemas menores entre el **Pichincha** y el **Atacazo**[.](https://es.wikipedia.org/wiki/Empresa_P%C3%BAblica_Metropolitana_de_Agua_Potable_y_Saneamiento_Quito "https://es.wikipedia.org/wiki/Empresa_P%C3%BAblica_Metropolitana_de_Agua_Potable_y_Saneamiento_Quito")
+
+Más noticias
+------------
+
+* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+* [Barrio de Quito tiene escasez de agua por más de 10 días](https://www.elcomercio.com/actualidad/quito/barrio-agua-quito-moradores-cortes.html "Barrio de Quito tiene escasez de agua por más de 10 días")
+
+En estos lugares se distribuyen cuatro embalses: **Salve Faccha**, **Mogotes**, **Sucus** y **Mica**, que almacenan 38 millones de metros cúbicos de agua, los cuales son transportados por tuberías hasta las plantas de tratamiento de agua potable que luego llega a los 2 679 722 habitantes que hay en **Quito**.
+
+Estado del embalse de Salve Faccha
+----------------------------------
+
+**Salve Faccha** se encuentra dentro del **Parque Nacional Cayambe Coca**. Es una reserva protegida, dedicada a la conservación del páramo y libre de actividades ganaderas e industriales que está a tres horas de **Quito**.
+
+El embalse, que pertenece al **Sistema Papallacta Integrado**, el mayor proveedor de agua para Quito con el 47% de la producción, enfrenta actualmente una **sequía** **extrema** con niveles bajos, aunque aún son **operativos**.
+
+Rafael Osorio, técnico de Epmaps, explica que esta **reserva hídrica**, situada en la provincia de **Napo**, registró precipitaciones muy por debajo de lo habitual en octubre y noviembre, lo que afecta su capacidad de llenado.
+
+Esto se evidencia en la **vegetación seca** que hay en el lugar y la mancha amarilla y húmeda en las piedras del embalse.
+
+En noviembre, el embalse recibió solo 16 milímetros de lluvia, muy lejos de los 100 milímetros mensuales promedio. Octubre tuvo alrededor de 70 milímetros de lluvia.
+
+En octubre de 2024 soportó hasta 16 días seguidos sin lluvias, y la última precipitación significativa ocurrió el 16 de junio de 2024.
+
+A pesar de esta situación, Osorio afirma que el **embalse** abastece las plantas de tratamiento de agua **Bellavista** y **Paluguillo**, gracias a seis caudales medios provenientes del páramo, que aportan alrededor de 700 litros de agua por segundo, suficiente para mantener **niveles operativos.**
+
+El embalse de **Salve Faccha** entrega aproximadamente 1 000 litros por segundo a las plantas.
+
+Desde **Bellavista**, el agua se distribuye hacia sectores del norte de **Quito**, desde el parque **La Carolina** hasta **Calderón**, mientras que desde la planta de **Paluguillo** se envía hacia los valles de la capital.
+
+El sistema **Pita-Puengasí** abastece desde el centro hasta el sur de Quito.
+
+Operatividad y conservación en el Sistema Papallacta Integrado
+--------------------------------------------------------------
+
+Andrés Baquero, jefe del **Sistema Papallacta** **Integrado**, detalla que **Salve Faccha** tiene una capacidad de almacenamiento de 12 millones de metros cúbicos, de los cuales 8,4 millones representan el volumen útil.
+
+Aunque los niveles actuales son bajos, el **embalse** opera dentro de los **márgenes normales**, con una cota de 3 886,73 metros cúbicos, cercana al mínimo operativo de 3 860.
+
+La conservación del páramo es esencial para el **embalse**, ubicado en el Parque Nacional **Cayambe** **Coca**, protegido de actividades industriales o ganaderas.
+
+Consumo excesivo de agua en Quito
+---------------------------------
+
+Rafael Osorio explica que este año presenta una anomalía climática, con un periodo de sequía extrema tanto en el embalse de **Salve Faccha** como en **Quito**.
+
+Señala que la **época seca** en el embalse comienza en septiembre u octubre y se extiende hasta marzo o abril del siguiente año. Contrario a lo que normalmente debe pasar en **Quito**.
+
+El consumo elevado de agua en la ciudad también agrava la situación. Según la organización Quito Cómo Vamos, cada persona en la capital utiliza un promedio de 138 litros diarios, lo que supera los 100 litros recomendados por la Organización Mundial de la Salud (**OMS**).
+
+Pabel Muñoz habló sobre el estado de los embalses de Quito
+----------------------------------------------------------
+
+La noche del martes 12 de noviembre, el alcalde **Pabel Muñoz** anunció **racionamientos** de agua programados para la capital.
+
+Muñoz explicó la situación de los sistemas de abastecimiento de agua potable de Quito: **Papallacta**, **Mica Sur**, **Pita** **Puengasí**, **Conducciones occidentales.**
+
+Sobre los embalses, en el de La Mica, dijo, hay menos agua que el de 2023, aunque aún está por encima de la cota mínima.
+
+En el embalse **Salve** **Faccha**, también hay menos agua que el anterior año, aunque también está sobre la cota mínima.
+
+Entonces, Muñoz anunció que se disminuirán los caudales en la planta de **Bellavista**, entre las 22:00 y las 03:00.
+
+FEF rechaza intervención de candidata presidencial en partido de Ecuador
+========================================================================
+
+Luisa González es candidata presidencial para las próximas elecciones por el partido Movimiento Revolución Ciudadana.
+---------------------------------------------------------------------------------------------------------------------
+
+![Enner Valencia durante el partido de la Selección de Ecuador ante Bolivia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T215241.181.jpg)
+
+Durante la previa del partido de la **Selección de Ecuador** ante Bolivia, jugado este jueves 14 de noviembre en el Estadio Monumental, la señal oficial encargada de la transmisión mostró a la candidata a la presidencia, **Luisa González.**
+
+La aparición de González **generó rechazo en redes sociales** por parte de los aficionados, quienes consideraron inapropiado el uso de la selección para fines políticos. Posteriormente, la **Federación Ecuatoriana de Fútbol** (FEF) se sumó a las críticas mediante un comunicado.
+
+### Más noticias:
+
+* [Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-figura-ecuador-bolivia.html "Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia")
+* [Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025](https://www.elcomercio.com/actualidad/politica/elecciones-2025-miembros-junta-receptora-voto.html "Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025")
+* [Ecuador se consolida como la mejor defensa de América](https://www.elcomercio.com/deportes/futbol/ecuador-consolida-como-la-mejor-defensa-de-america.html "Ecuador se consolida como la mejor defensa de América")
+
+La FEF rechaza el uso de la selección con fines políticos
+---------------------------------------------------------
+
+“La Federación Ecuatoriana de Fútbol rechaza categóricamente el uso de la transmisión de los partidos de nuestra selección para fines de **proselitismo político**“, expresó la FEF en su comunicado.
+
+Asimismo, el organismo rector del fútbol ecuatoriano indicó que tomará **acciones para salvaguardar la neutralidad del fútbol** frente al ámbito político y garantizar el cumplimiento de la normativa que rige al deporte, agregó el documento.
+
+> 📍Comunicado oficial. [pic.twitter.com/feeJdiUGuk](https://t.co/feeJdiUGuk)
+> 
+> — FEF 🇪🇨 (@FEFecuador) [November 15, 2024](https://twitter.com/FEFecuador/status/1857234162832294029?ref_src=twsrc%5Etfw)
+
+La **empresa encargada de los derechos de transmisión** de la Selección de Ecuador es El Canal del Fútbol, que tiene firmado el acuerdo para todas las eliminatorias rumbo al Mundial en Estados Unidos, México y Canadá 2026.
+
+Después de lo sucedido, la empresa también se refirió al tema, desmarcándose de cualquier ámbito político y aclarando que la entrevista a la candidata **Luisa González** fue realizada como a una aficionada más.
+
+“Respetamos los criterios, pensamientos y diversidad de cada persona, **sin involucrarnos en proselitismo político alguno**“, mencionaron.
+
+> 📌 COMUNICADO ECDF [pic.twitter.com/TbqPIEo2tE](https://t.co/TbqPIEo2tE)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 15, 2024](https://twitter.com/ElCanalDFutbol/status/1857252664142135529?ref_src=twsrc%5Etfw)
+
+La Selección de Ecuador volvió a ganar
+--------------------------------------
+
+En cuanto al aspecto futbolístico, **Ecuador regresó a la senda del triunfo** tras dos empates consecutivos.
+
+La ‘Tri’, con una espléndida actuación en el Estadio Monumental de Guayaquil, **goleó 4-0 a Bolivia** en un partido en el que el combinado nacional le dio un verdadero baile a su rival.
+
+Enner Valencia, Alan Minda y **Gonzalo Plata**, con un doblete, fueron los autores de los goles para Ecuador.
+
+El próximo partido de la Selección de Ecuador será el martes 19 de noviembre, cuando **visite a Colombia en Barranquilla**. El encuentro se jugará a las 18:00 (hora de Ecuador).
+
+Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia
+===================================================================
+
+Gonzalo Plata tiene 40 partidos y ocho goles con la Selección de Ecuador.
+-------------------------------------------------------------------------
+
+![Gonzalo Plata, jugador de la Selección de Ecuador en el estadio Monumental de Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/plata_figura_1.jpg)
+
+**Gonzalo Plata** fue la gran figura que tuvo la Selección de Ecuador en la victoria 4-0 ante Bolivia en la undécima fecha de las eliminatorias sudamericanas al Mundial 2026.
+
+La Selección de Ecuador recibió a Bolivia la noche de este **jueves 14 de noviembre de 2024 en el estadio Monumental de Guayaquil**, ante algo más de 30 000 personas que disfrutaron de un espectáculo lleno de buenos goles
+
+### Más noticias:
+
+* [La FIFA presentó el trofeo para el campeón del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/fifa-presenta-trofeo-mundial-clubes.html "La FIFA presentó el trofeo para el campeón del Mundial de Clubes")
+* [Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson](https://www.elcomercio.com/tendencias/trending/netflix-transmisiones-vivo-paul-tyson.html "Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson ")
+* [Policía captura a presunto distribuidor de Magis TV en Ecuador](https://www.elcomercio.com/actualidad/ecuador/policia-distribuidor-magis-ecuador-detencion.html "Policía captura a presunto distribuidor de Magis TV en Ecuador")
+
+Quien tomó la **batuta en los primeros minutos fue Enner Valencia**, autor del primer tanto desde el punto penal, con lo que alcanzó los 43 goles con la Selección de Ecuador y se consolidó como el máximo goleador histórico del combinado nacional.
+
+Valencia siguió con su buen momento y se puso en traje de asistidor para entregarle dos asistencias a **Plata para que marque el 2-0 y 3-0 en el marcador**, uno en cada tiempo, con los que los de Sebastián Beccacece aseguraron los tres puntos y empezaron a darle forma a la goleada.
+
+‘Platita’ se mantuvo en el terreno de juego hasta los 68 minutos. Pese a su molestia por el cambio, **en su lugar ingresó Kevin Rodríguez**, mientras el actual jugador del Flamengo salió ente los aplausos de los hinchas.
+
+En la zona técnica fue recibido por Sebastián Beccacece. **Con un abrazo y una sonrisa se cerró la participación** del guayaquileño en esta brillante jornada de buen fútbol y goles de alta calidad.
+
+El cuarto tanto de la Tri fue obra de Alan Minda. Su remate cruzado fue imposible de ser atajado por el buen arquero Guillermo Vizcarra, el gran sacrificado de los bolivianos.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/plata_figura_2-1024x683.jpg)
+
+Foto: API.
+
+El arranque de Gonzalo Plata
+----------------------------
+
+El 2019 fue la presentación ‘oficial’ de **Gonzalo Plata al mundo futbolístico ecuatoriano**. Fue en el Campeonato Sudamericano sub-20 que Ecuador ganó en Chile, un hecho inédito y que aún no se repitió.
+
+Jorge Célico confió en **Plata en los nueve partidos y en todos fue titular**. Completó los 90 minutos en seis y aportó con tres asistencias: Argentina, Colombia y Venezuela.
+
+Ese mismo año confirmó su talento en el Mundial en Polonia. Fue titular en los siete partidos, completó todos los **minutos posibles, anotó dos goles (México y Uruguay)** y fue clave para el resonado tercer lugar.
+
+En enero de ese mismo año fue transferido al Sporting de Portugal y **debutó en la Selección absoluta con tan solo 18 años**, 10 meses y cuatro días. Célico fue el encargado de abrirle las puertas en el equipo.
+
+Ese fue el arranque de una carrera que lo llevó a equipos de España, Catar y ahora el Flamengo de Brasil
+
+San viernes
+-----------
+
+Por la romería a El Quinche, terminales de buses modifican los horarios
+=======================================================================
+
+Este fin de semana se llevará a cabo la romería a la Virgen de El Quinche. El transporte público debió modificar los horarios por la peregrinación masiva.
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El transporte público que llega hacia El Quinche debió modificar los horarios para este fin de semana,](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-2.jpg)
+
+El fin de semana del **15 al 17 de noviembre del 2024**, en Quito se vivirá una de las mayores manifestaciones de la **religiosidad popular**. Son miles de personas que **peregrinan** hacia el **Santuario de la Virgen de El Quinche,** regido por los padres oblatos. Ante ello, los **terminales de buses** que se dirigen hacia los valles orientales de Quito han modificado sus horarios de atención.
+
+### Más noticias
+
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
+* [Tres parqueaderos de La Carolina suspenden servicio en Quito](https://www.elcomercio.com/actualidad/quito/tres-parqueaderos-carolina-suspension-rehabilitacion.html "Tres parqueaderos de La Carolina suspenden servicio en Quito")
+
+Terminales modifican horarios
+-----------------------------
+
+Las **terminales** microrregionales de la avenida **Río Coca** y la de la **Ofelia** modificaron los horarios para ajustarse a la peregrinación de los devotos a la **Virgen de El Quinche**.
+
+Las cooperativas que hacen los recorridos hacia el oriente por el valle de **Tumbaco** solamente tendrán **salidas desde Quito entre las 05:00 y las 17:00**. Así lo informó la Empresa Pública Metropolitana de Obras Públicas y Movilidad, **Epmmop**.
+
+“Pasado este horario, no habrá transporte disponible debido a los cierres viales”, dice la Epmmop en un comunicado.
+
+La terminal con más afluencia
+-----------------------------
+
+La terminal de la avenida **Río Coca y la calle De los Laureles** es la que mayor afluencia de pasajeros tiene hacia el santuario de la Virgen. Por ello, es a la que más atención prestan durante la romería a El Quinche, pues salen de allí buses de **siete operadoras**.
+
+En cambio, desde la **Ofelia**, en la avenida Diego Vásquez y C11, solamente sale **una** hacia El Quinche[.](https://es.wikipedia.org/wiki/El_Quinche_(parroquia) "https://es.wikipedia.org/wiki/El_Quinche_(parroquia)")
+
+Ante ello, las autoridades han permitido que los buses que salgan de **El Quinche** puedan llegar a la terminal de **Quitumbe**, aunque el horario será entre las **04:00 y las 06:00.**
+
+Ecuador se consolida como la mejor defensa de América
+=====================================================
+
+Ecuador se ha convertido en una muralla defensiva, destacando en las exigentes eliminatorias sudamericanas.
+-----------------------------------------------------------------------------------------------------------
+
+![Willian Pacho en la victoria de Ecuador sobre Bolivia por las eliminatorias 2026.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T213742.356.jpg)
+
+La **Selección de Ecuador** hizo su tarea y goleó 4-0 a Bolivia este jueves 14 de noviembre por las eliminatorias sudamericanas. Además del contundente resultado, el equipo celebró nuevamente la portería en cero, **consolidándose como una defensa sólida y efectiva.**
+
+Gracias a la victoria de Paraguay y al gol recibido por Argentina en su derrota 2-1, la ‘Tri’ se convierte en la **mejor defensa de todas las eliminatorias**, con apenas cuatro goles encajados en 11 partidos, lo que evidencia el gran momento que atraviesan sus zagueros.
+
+### Más noticias:
+
+* [La Selección de Ecuador se afianza en la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha11-eliminatorias-mundial.html "La Selección de Ecuador se afianza en la tabla de posiciones")
+* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html "La Selección de Ecuador brilla en Guayaquil y golea a Bolivia")
+* [Enner Valencia anotó su gol 43 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 43 con la Selección de Ecuador")
+
+Ecuador tiene la mejor defensa del continente
+---------------------------------------------
+
+La selección ecuatoriana cuenta con destacados defensores que compiten en las mejores ligas del mundo. Entre ellos, **Piero Hincapié** en el Bayer Leverkusen de Alemania, **Willian Pacho** en el París Saint-Germain de Francia y Pervis Estupiñán en el Brighton de Inglaterra.
+
+Además, emergen **nuevos talentos como Joel Ordóñez**, quien a sus 20 años ya brilla en la Champions League y debutó ante Bolivia mostrando grandes cualidades.
+
+Gracias a estos talentos, Ecuador solo ha **recibido cuatro goles** en estas eliminatorias sudamericanas, con anotaciones de Argentina, Brasil, Uruguay y Bolivia. Este dato es aún más notable cuando Ecuador juega como local, con cifras defensivas impresionantes.
+
+Según MisterChip, esta es la primera vez en la historia de la ‘Tri’ que **logra enlazar cinco partidos consecutivos en casa sin conceder un solo gol** en eliminatorias, consolidándose como una de las mejores defensas del continente.
+
+Es decir, el combinado que actualmente dirige **Sebastián Beccacece** recibe un gol cada 244 minutos en el proceso clasificatorio al Mundial 2026, lo que equivale a una anotación cada dos partidos y medio.
+
+Colombia, una prueba de fuego
+-----------------------------
+
+En su próximo compromiso, Ecuador **viajará a Barranquilla para enfrentarse a Colombia** en la duodécima jornada de las eliminatorias sudamericanas.
+
+Con la reciente goleada, la ‘Tri’ espera que el impulso anímico le sirva para enfrentar a una de las selecciones en mejor estado de forma, y que representará una gran prueba para la defensa ecuatoriana, que ha mostrado **solidez ante rivales de peso.**
+
+**Colombia** ocupa actualmente la segunda posición, con 19 puntos y un partido menos que el resto de equipos, sumando 13 goles a favor y seis en contra.
+
+El encuentro se disputará el próximo martes 19 de noviembre a las 18:00 (hora de Ecuador) en el Estadio Metropolitano Roberto Meléndez.
+
+Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca
+===================================================================
+
+El Presidente Daniel Noboa clausuró la Cumbre Empresarial Iberoamericana. Mañana serpa la reunión de mandatarios y delegaciones.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/852dd6e3699ca14ff033a7a61f0f3822a041ffbe-1.jpg)
+
+El presidente de la República, **Daniel Noboa**, apeló este jueves 14 de noviembre de 2024, a la unidad de las naciones iberoamericanas en medio de un contexto internacional “complejo”, durante la clausura de la XV Cumbre Empresarial Iberoamericana, en Cuenca, en un acto en el que también intervino el rey de España, Felipe VI[.](https://es.wikipedia.org/wiki/Daniel_Noboa "https://es.wikipedia.org/wiki/Daniel_Noboa")
+
+### Más noticias
+
+* [Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos](https://www.elcomercio.com/actualidad/mundo/arranca-reunion-cancilleres-cumbre-presidentes-latinoamericanos.html "Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos")
+* [Ecuador despliega un amplio dispositivo de seguridad para una cumbre sin presidentes](https://www.elcomercio.com/actualidad/ecuador-despliega-un-amplio-dispositivo-de-seguridad-para-una-cumbre-sin-presidentes-2.html "Ecuador despliega un amplio dispositivo de seguridad para una cumbre sin presidentes")
+
+Discurso de Daniel Noboa en Cuenca
+----------------------------------
+
+El mandatario ecuatoriano pronunció estas palabras pocas horas antes de que diera comienzo la XXIX **Cumbre Iberoamericana**, que marcará el récord de líderes ausentes en la historia de este foro, que comenzó en 1991.
+
+Además de **Felipe VI** y **Daniel Noboa**, en el acto estuvieron presentes el presidente de Portugal, Marcelo Rebelo de Sousa, y el jefe de Gobierno de **Andorra**, Xavier Espot, los únicos otros líderes asistentes a la Cumbre Iberoamericana.
+
+En la clausura del foro empresarial, Noboa aseveró que Ecuador asumió el reto de la realización de la **cita** “con gran responsabilidad en un contexto internacional y nacional **complejo** debido a la situación **política** interna de diversos países”, y una delicada coyuntura internacional.
+
+“Pero todo eso no puede limitarnos -dijo-, este es el **momento propicio** para fortalecer y buscar alianzas estratégicas internacionales que nos permitan enfrentar los **desafíos** con respuestas conjuntas y colaborativas”, enfatizó.
+
+El gobernante ecuatoriano realizó esta reflexión en momentos en que las **delegaciones** de los diecinueve países iberoamericanos asistentes (México, Venezuela y Nicaragua no participan) no han logrado hasta el momento unanimidad para sacar adelante una **declaración conjunta** de esta Cumbre Iberoamericana, según señalaron fuentes próximas a las conversaciones.
+
+**Concertación política para un mejor futuro**
+----------------------------------------------
+
+Como país anfitrión, Ecuador mantiene el **compromiso de impulsar** la cooperación y concertación política para “un futuro más justo, equitativo e inclusivo”, aseveró Noboa.
+
+“La Cumbre Iberoamericana que nos reúne estos días bajo el lema de ‘Innovación, inclusión y sostenibilidad’, nos ha permitido **explorar soluciones** a los problemas comunes que tienen los países iberoamericanos, en particular sobre el desarrollo socioeconómico, la seguridad alimentaria y el cambio climático”, detalló.
+
+Citando datos de 2023 de la **Organización Internacional del Trabajo** (OIT), Noboa señaló que la tasa de desempleo juvenil en América Latina y el Caribe asciende a más del 20 %, lo que triplica el desempleo de las personas adultas.
+
+Además, “veinte millones de jóvenes **ni estudian ni trabajan**, desanimados por la falta de oportunidades”, comentó al señalar que la cita iberoamericana permitirá identificar los problemas regionales comunes vinculados a los nuevos tiempos.
+
+Impulsar el diálogo
+-------------------
+
+También es una gran oportunidad para impulsar un **diálogo dinámico**, que reconozca el aporte y el valor empresarial del liderazgo femenino en la región, agregó.
+
+Noboa enfatizó el compromiso para apoyar el empleo para los **jóvenes** suscrito por los **empresarios** iberoamericanos reunidos en la ciudad andina de Cuenca.
+
+Progreso inclusivo
+------------------
+
+El jefe de Estado de Ecuador agradeció al **sector privado** haber “contribuido al progreso inclusivo, innovador y sostenible de toda la región” y felicitó a España, que este jueves asumió la secretaria pro tempore del Consejo Iberoamericano de Empresarios (CEIB), de manos de Ecuador.
+
+“Debemos trabajar en conjunto para la **integración regional,** energética, cultural, empresarial (…), tener un marco con condiciones mínimas para que exista este tipo de cooperación, y trabajar todos en una sola dirección, que es el mejoramiento de nuestros pueblos”, añadió.
+
+“Hoy más que nunca” se deben realizar **mayores esfuerzos** para mantener unidos a los pueblos iberoamericanos, pidió el presidente anfitrión a los empresarios iberoamericanos.
+
+**_EFE_**
+
+Tres armados fueron detenidos tras persecución y balacera en Carchi
+===================================================================
+
+Un grupo de policías realizaban un control de contrabando en el Carchi cuando fueron sorprendidos a tiros por desconocidos.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Los desconocidos llevaban mercadería de contrabando en dos vehículos](https://www.elcomercio.com/wp-content/uploads/2024/11/persecucion-policia-carchi.jpg)
+
+La **Policía Nacional** neutralizó a tres ciudadanos tras una **balacera** que tuvo lugar en la provincia del Carchi, en el norte de Ecuador, este jueves 14 de noviembre de 2024.
+
+Más noticias
+------------
+
+* [Policía captura a presunto distribuidor de Magis TV en Ecuador](https://www.elcomercio.com/actualidad/ecuador/policia-distribuidor-magis-ecuador-detencion.html "Policía captura a presunto distribuidor de Magis TV en Ecuador")
+* [Policía abre nuevo reclutamiento para 2 900 aspirantes](https://www.elcomercio.com/actualidad/ecuador/policia-nueva-convocatoria-noviembre-aspirantes.html "Policía abre nuevo reclutamiento para 2 900 aspirantes")
+* [Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral](https://www.elcomercio.com/actualidad/seguridad/prision-preventiva-para-nueve-reos-por-asesinatos-penitenciaria-del-litoral.html "Prisión preventiva para nueve reos por asesinatos en la Penitenciaría del Litoral")
+
+Según detalló la Institución, los uniformados realizaban un **control preventivo** en el sector de Las Mangueras – Julio Andrade, cuando les solicitaron a los ocupantes de **dos vehículos** que se detuvieran.
+
+Los conductores hicieron caso omiso de la orden y **trataron de fugarse**.
+
+Desconocidos dispararon contra los policías
+-------------------------------------------
+
+Tras una **persecución**, la Policía cerró el paso a los desconocidos, quienes mostraron resistencia y **dispararon contra los gendarmes** en varias ocasiones.
+
+En uso legítimo de la fuerza, las autoridades del orden lograron neutralizar y **detener a los atacantes** en medio de la carretera.
+
+Al requisar los vehículos se descubrió que los dos hombres y la mujer se mostraron reacios en un inicio por llevar presuntamente **objetos de contrabando**[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
+
+Entre los indicios del hecho se recuperaron:
+
+* **2 vehículos**
+* 5 celulares
+* 384 dólares
+* 2 radios de comunicación
+* Cartones con prendas de vestir
+
+Los atacantes fueron puestos a órdenes de las autoridades competentes por los delitos de **contrabando y ataque y resistencia**.
+
+> [#IMPORTANTE](https://twitter.com/hashtag/IMPORTANTE?src=hash&ref_src=twsrc%5Etfw)||  
+>   
+> NEUTRALIZAMOS A 3 SUJETOS TRAS ENFRENTAMIENTO ARMADO  
+>   
+> En el sector de Las Mangueras – Julio Andrade, [#Carchi](https://twitter.com/hashtag/Carchi?src=hash&ref_src=twsrc%5Etfw), dos vehículos intentaron evadir el control policial, durante la acción, los ocupantes de los vehículos mostraron resistencia y realizaron varias… [pic.twitter.com/Yzodlo3efh](https://t.co/Yzodlo3efh)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [November 14, 2024](https://twitter.com/PoliciaEcuador/status/1857143359997190489?ref_src=twsrc%5Etfw)
+
+Persecución en Imbabura
+-----------------------
+
+En otra **persecución**, la Policía logró aprehender a tres presuntos delincuentes que estarían involucrados en el robo de accesorios a carros en **Imbabura**.
+
+En propiedad de los hombres se encontraron varios **indicios** que servirán en la **investigación** del caso.
+
+> APREHENDIDOS POR EL DELITO DE ROBO  
+>   
+> En [#Imbabura](https://twitter.com/hashtag/Imbabura?src=hash&ref_src=twsrc%5Etfw), tras persecución ininterrumpida aprehendimos a 3 sujetos, presuntos implicados en el robo de accesorios de un vehículo.  
+>   
+> Existen varios indicios vinculantes al hecho.[#PolicíaEcuador](https://twitter.com/hashtag/Polic%C3%ADaEcuador?src=hash&ref_src=twsrc%5Etfw)[#NuestraMisiónSigueIntacta](https://twitter.com/hashtag/NuestraMisi%C3%B3nSigueIntacta?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/BfXSjDfOIw](https://t.co/BfXSjDfOIw)
+> 
+> — Policía Ecuador (@PoliciaEcuador) [November 15, 2024](https://twitter.com/PoliciaEcuador/status/1857234701510938761?ref_src=twsrc%5Etfw)
+
+La Selección de Ecuador se afianza en la tabla de posiciones
+============================================================
+
+La Selección de Ecuador termina la fecha 11 de las eliminatorias en zona directa de clasificación.
+--------------------------------------------------------------------------------------------------
+
+![Enner Valencia, goleador histórico de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/tabla_ecuador_1.jpg)
+
+La **Selección de Ecuador** no tuvo problemas para golear 3-0 a la de Bolivia en la undécima fecha de las eliminatorias sudamericanas al Mundial 2026, con lo que se afianzó en la zona directa de clasificación al Mundial 2026.
+
+El encuentro entre la **Selección de Ecuador y Bolivia** se jugó la noche de este jueves 14 de noviembre de 2024 en el estadio Monumental de Guayaquil, que contó con alrededor de 40 000 personas en sus dependencias.
+
+### Más noticias:
+
+* [Enner Valencia anotó su gol 43 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 43 con la Selección de Ecuador")
+* [La FIFA presentó el trofeo para el campeón del Mundial de Clubes](https://www.elcomercio.com/deportes/futbol/fifa-presenta-trofeo-mundial-clubes.html "La FIFA presentó el trofeo para el campeón del Mundial de Clubes")
+* [Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?](https://www.elcomercio.com/deportes/boxeo/mike-tyson-boxeo-salud-riesgo-jake-paul.html "Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?")
+
+Una de las figuras de la noche fue Enner Valencia, **autor del primer gol y el responsable directo** con dos asistencias para que Gonzalo Plata marque su doblete y llegue a los ocho con la camiseta de la Tri.
+
+Plata firmó una noche espectacular en lo que fue una especie de ‘reconciliación’ con la hinchada ecuatoriana, **luego de estar apartado de la Copa América y de las fechas siete y ocho** de las eliminatorias, por una falta disciplinaria.
+
+Ecuador y la tabla
+------------------
+
+Jugados tres de los cinco compromisos de la fecha 11, **Ecuador quedó firme en la quinta posición con 16** puntos y un gol diferencia positivo de +5, mejorando ostensiblemente este aspecto del juego.
+
+La tabla sigue comandada por Argentina, **pese a la derrota 1-2 contra Paraguay** en el Defensores del Chaco. Siguen con 22 puntos y un gol diferencia positivo de -13.
+
+Los **paraguayos llegaron a los mismos 16 puntos**, pero su gol diferencia es de +1, con lo que Gustavo Alfaro confirma el excelente arranque desde que tomó este combinado en agosto, tras dejar Costa Rica.
+
+Las selecciones de Perú y Chile, que se enfrentan el viernes 15 en el Monumental de Lima, **cierran la tabla con seis y cinco puntos cada una**, pero con pocas opciones de pelear por alcanzar, al menos, la séptima casilla que da un cupo para el repechaje.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/ELIMINATORIAS-TABLA-POSICIONES-5-819x1024.jpg)
+
+San viernes
+-----------
+
+La Selección de Ecuador brilla en Guayaquil y golea a Bolivia
+=============================================================
+
+Ecuador no mostró piedad y consiguió una goleada contundente ante Bolivia.
+--------------------------------------------------------------------------
 
 ![Enner Valencia y Alan Minda celebran uno de los goles de Ecuador ante Bolivia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T194047.195.jpg)
 
-La **Selección de Ecuador** golea 4-0 contra Bolivia este jueves 14 de noviembre a Bolivia en un partido crucial para encaminar su clasificación al que sería el quinto Mundial de su historia. El encuentro se está jugando en el Estadio Monumental de Guayaquil.
+La **Selección de Ecuador** fue superior de principio a fin ante Bolivia y la **derrotó contundentemente 4-0** este jueves 14 de noviembre, en la undécima jornada de las eliminatorias sudamericanas. La ‘Tri’ se impuso a la ‘Verde’ en el **Estadio Monumental de Guayaqui**l.
 
-El **cambio de sede hacia Guayaquil, en lugar de Quito**, responde a una estrategia de la ‘Tri’ para evitar que Bolivia, acostumbrado a jugar en la altura de La Paz, saque ventaja deportiva en condiciones similares.
+El **cambio de sede hacia Guayaquil, en lugar de Quito**, respondió a una estrategia de la ‘Tri’ para evitar que Bolivia, acostumbrado a jugar en la altura de La Paz, saque ventaja deportiva en condiciones similares.
 
 ### Más noticias:
 
@@ -49,7 +569,7 @@ El **cambio de sede hacia Guayaquil, en lugar de Quito**, responde a una estrate
 * [¿Qué tan fuerte es Bolivia en las eliminatorias?](https://www.elcomercio.com/deportes/futbol/que-tan-fuerte-es-bolivia-en-las-eliminatorias.html "¿Qué tan fuerte es Bolivia en las eliminatorias?")
 * [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
 
-Ecuador llega a esta undécima jornada en la **quinta posición con 16 puntos**, mientras que Bolivia ocupa el octavo lugar con 12 unidades.
+Gracias a este triunfo, Ecuador llega a la duodécima jornada en la **quinta posición con 16 puntos**, mientras que Bolivia ocupa el octavo lugar con 12 unidades.
 
 Ecuador bailó a Bolivia
 -----------------------
@@ -134,8 +654,6 @@ Por poco, **Pervis Estupiñán** se une a la fiesta. Un potente disparo del late
 
 Alineaciones de Ecuador y Bolivia
 ---------------------------------
-
-Sebastián Beccacece enfrenta algunas bajas importantes. **Moisés Caicedo** no estará disponible debido a una suspensión por acumulación de tarjetas, y Angelo Preciado, también convocado, fue desafectado por lesión.
 
 ### Alineación de Ecuador
 
@@ -327,13 +845,13 @@ Agustín Delgado (3), Carlos Tenorio (2)**, Jaime Iván Kaviedes (1), Édison M�
 San viernes
 -----------
 
-(EN VIVO) Latin Grammy 2024: estos son los ganadores
-====================================================
+Latin Grammy 2024: esta es la lista completa de los ganadores
+=============================================================
 
 Conoce a los ganadores de los Latin Grammy 2024.
 ------------------------------------------------
 
-![El colombiano Sebastián Yatra paseó por la alfombra roja de los Latin Grammy. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-14T185915.851.jpg)
+![Karol G se impuso en la categoría Mejor álbum de música urbana. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-14T230729.365.jpg)
 
 **Edgar Barrera y Nathy Peluso se destacaron en la ceremonia preliminar de los** [**Latin Grammy 2024**](https://www.latingrammy.com/ "https://www.latingrammy.com/") celebrada este 14 de noviembre de 2024.
 
@@ -352,6 +870,10 @@ La premiere, que entregó la mayoría de los galardones antes de la esperada gal
 
 **Barrera** fue el primero en subir al escenario para recibir su primer galardón como **Compositor del Año**, un reconocimiento que también obtuvo en 2023.
 
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCYLu0zIht8/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCYLu0zIht8/?utm_source=ig_embed&utm_campaign=loading)
+
 El mexicano, además, se coronó como **Productor del Año** y ganó el premio a **Mejor Canción Regional Mexicana** por su colaboración con Keytin en la composición de El amor de su vida de Grupo Frontera y Grupo Firme. “Gracias a la Academia por este reconocimiento”, expresó el compositor, dedicando el premio a su hija de cuatro semanas y a los grandes nombres que han marcado su carrera.
 
 Nathy Peluso se mostró visiblemente emocionada al recibir tres gramófonos dorados: **Mejor Video Largo** por ‘**Grasa’**, **Mejor Canción Alternativa** por El día que perdí mi juventud y **Mejor Canción de Rap/Hip Hop** por Aprender a amar.
@@ -359,68 +881,31 @@ Nathy Peluso se mostró visiblemente emocionada al recibir tres gramófonos dora
 **Grabación del año**
 ---------------------
 
-* Mil Veces, Anitta
-* Monaco, Bad Bunny
-* Una Vida Pasada, Camilo & Carín León
-* Catalina, Cimafunk & Monsieur Periné
-* Derrumbe, Jorge Drexler
-* Con Dinero y Sin Dinero, Fonseca & Grupo Niche
-* Mi Ex Tenía Razón, Karol G
 * Mambo 23, Juan Luis Guerra y 4.40
-* Tenochtitlán, Mon Laferte
-* Igual Que Un Ángel, Kali Uchis & Peso Pluma
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCYLGGyuZz_/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCYLGGyuZz_/?utm_source=ig_embed&utm_campaign=loading)
 
 **Álbum del año**
 -----------------
 
-* ‘Bolero’, Ángela Aguilar
-* ‘Cuatro’, Camilo
-* ‘Xande Canta Caetano’, Xande De Pilares
-* ‘Mañana Será Bonito’ (Bichota Season), Karol G
-* ‘García’, Kany García
 * ‘Radio Güira’, Juan Luis Guerra 4.40
-* ‘Autopoiética’, Mon Laferte
-* ‘Boca Chueca, Vol. 1’, Carín León
-* ‘Las Letras Ya No Importan’, Residente
-* ‘Las Mujeres Ya No Lloran’, Shakira
 
 **Canción del año**
 -------------------
 
-* A Fuego Lento, Daymé Arocena & Vicente García, compositores (Daymé Arocena & Vicente García)
-* A La Mitad (Banda Sonora Original De La Serie “Zorro”), Julio Reyes Copello & Mariana Vega, compositores (Maura Nava)
-* Aún Me Sigo Encontrando, Rubén Blades, Gian Marco & Julio Reyes Copello, compositores (Gian Marco & Rubén Blades)
-* Caracas En El 2000, Marvin Hawkins Rodriguez, Jerry Di, La Pichu, Danny Ocean & Elena Rose, compositores (Elena Rose, Danny Ocean & Jerry Di)
 * Derrumbe, Jorge Drexler, compositor (Jorge Drexler)
-* (Entre Paréntesis), Edgar Barrera, Kevyn Mauricio Cruz, Manuel Lorente Freire, Lenin Yorney Palacios & Shakira, compositores (Shakira, Grupo Frontera)
-* Mi Ex Tenía Razón, Edgar Barrera, Andres Jael Correa Rios, Kevyn Mauricio Cruz Moreno, Karol G & MAG, compositores (Karol G)
-* Según Quién, Edgar Barrera, Kevyn Mauricio Cruz, Luís Miguel Gómez Castaño, Maluma, Lenin Yorney Palacios & Juan Camilo Vargas, compositores (Maluma & Carín León)
-* Te Lo Agradezco, Rafa Arcaute, Kany García, Carín León & Richi López, compositores (Kany García & Carín León)
-* 313, Leo Genovese, Residente & Silvia Pérez Cruz, compositores (Residente,Silvia Pérez Cruz & Penélope Cruz)
 
 **Mejor artista nuevo**
 -----------------------
 
-* Agris
-* Kevin Aguilar
-* Darumas
-* Nicolle Horbath
-* Latin Mafia
-* Cacá Magalhães
-* Os Garotin
-* Iñigo Quintero
-* Sofi Saar
 * Ela Taubert
 
 **Mejor álbum vocal pop**
 -------------------------
 
-* ‘_Tofu’_, Caloncho
-* _‘.mp3_‘, Emilia
 * ‘_El Viaje_‘, Luis Fonsi
-* ‘_Hotel Caracas’_, Mau y Ricky
-* ‘_Orquídeas_‘ (AOP), Kali Uchis
-* ‘_Escrita’_, Nicole Zignago
 
 **Mejor álbum vocal pop tradicional**
 -------------------------------------
@@ -450,12 +935,11 @@ Nathy Peluso se mostró visiblemente emocionada al recibir tres gramófonos dora
 **Mejor álbum de música urbana**
 --------------------------------
 
-* ‘_Nadie Sabe Lo Que Va A Pasar Mañana’_, Bad Bunny
-* _‘Sol María_‘, Eladio Carrión
-* ‘_Sayonara_‘, Álvaro Díaz
-* ‘_Ferxxocalipsis’_, Feid
 * ‘_Mañana Será Bonito’ (Bichota Season)_, Karol G
-* ‘_El Último Baile’_, Trueno
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCYH-oHOR6k/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCYH-oHOR6k/?utm_source=ig_embed&utm_campaign=loading)
 
 **Mejor canción de rap/hip hop**
 --------------------------------
@@ -480,11 +964,7 @@ Nathy Peluso se mostró visiblemente emocionada al recibir tres gramófonos dora
 **Mejor álbum de pop/rock**
 ---------------------------
 
-* ‘_Cuando Ella Me Besó Probé A Dios_‘, Bruses
-* ‘_Jet Love’_, Conociendo Rusia
-* _‘Jay De La Cueva_‘, Jay De La Cueva
 * ‘_Reflejos De Lo Eterno’_, Draco Rosa
-* ‘_Adentro’_, Francisca Valenzuela
 
 **Mejor canción pop/rock**
 --------------------------
@@ -856,689 +1336,3 @@ La **cuenta pendiente de Mena fue jugar en una Copa del Mundo.** Aunque fue conv
 
 No te pierdas nuestro Especial de Halloween
 -------------------------------------------
-
-Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair
-=============================================================
-
-El Inamhi registró la presencia de fuertes lluvias y tormentas en algunas provincias de la Amazonía.
-----------------------------------------------------------------------------------------------------
-
-![Coca Codo Sinclair tiene una capacidad de 1 500 MW](https://www.elcomercio.com/wp-content/uploads/2024/11/coca-codo-sinclair.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) confirmó que en algunos sectores de la **Amazonía** se registraron **fuertes lluvias**, entre la noche del miércoles 13 y la madrugada del jueves 14 de noviembre.
-
-### Más noticias
-
-* [Inamhi prevé altos niveles de lluvias en cinco provincias](https://www.elcomercio.com/actualidad/ecuador/inamhi-niveles-altos-lluvias-provincias.html "Inamhi prevé altos niveles de lluvias en cinco provincias")
-* [¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?](https://www.elcomercio.com/tendencias/ambiente/como-inciden-los-eventos-climaticos-en-la-sequia-de-ecuador-y-las-inundaciones-en-colombia.html "¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?")
-* [Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-declara-situacion-desastre-colombia-inundaciones.html "Gustavo Petro declara la situación de desastre en Colombia tras lluvias e inundaciones")
-
-Según su último reporte, la Advertencia 61, las lluvias fueron superiores a **70 milímetros** en dos ciudades.
-
-Los **cantones** que recibieron más precipitaciones fueron:
-
-* **Gonzalo Pizarro**, en Sucumbíos (78,4 mm)
-* Jumandy, en Napo (71,3 mm)
-* Coca, en Orellana (37,2 mm)
-* Puyo, en Pastaza (37,2 mm)
-* Nuevo Rocafuerte, en Orellana (31,6 mm)
-* Nueva Loja, en Sucumbíos (22,6 mm)
-
-Un milímetro de precipitación equivale a un **litro de agua** por cada metro cuadrado.
-
-> [#DatoINAMHI](https://twitter.com/hashtag/DatoINAMHI?src=hash&ref_src=twsrc%5Etfw) l 🌧Entre la noche del 13 y madrugada del 14 de noviembre se registraron precipitaciones moderadas y puntual fuertes al norte y centro de la región Amazónica⛈️  
->   
-> Eventos previstos en la Advertencia No. 61 por lluvias y tormentas.  
-> Más información👇 [pic.twitter.com/rbzeLHY6b8](https://t.co/rbzeLHY6b8)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 14, 2024](https://twitter.com/inamhi_ec/status/1857152056122855827?ref_src=twsrc%5Etfw)
-
-Las intensas lluvias que cayeron sobre **Morona Santiago, Pastaza, Orellana y Sucumbíos** se iniciaron en el sector oriental del Ecuador y fueron trasladándose hacia el **centro y norte** de la Amazonía.
-
-> [#MonitoreoSatelital](https://twitter.com/hashtag/MonitoreoSatelital?src=hash&ref_src=twsrc%5Etfw) 🛰️l Jueves 14 de noviembre (6h00), eventos de lluvia con tormentas eléctricas se han presentado durante la madrugada al interior de la región amazónica. Se espera que las condiciones se mantengan las próximas horas al este de Orellana y Sucumbíos. 🌦️⛈️ ⚠️#61. [pic.twitter.com/vA7LHnQIxZ](https://t.co/vA7LHnQIxZ)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 14, 2024](https://twitter.com/inamhi_ec/status/1857018996802883843?ref_src=twsrc%5Etfw)
-
-El Inamhi aclaró sobre este **gráfico**, que la coloración naranja, roja y negra indican que la nube tiene un amplio desarrollo en altura, por lo que se estiman **lluvias y tormentas intensas** en estas zonas.
-
-Mientras que la coloración **amarilla, verde y azul** muestran probables lluvias leves.
-
-Se espera que las condiciones se mantengan las próximas horas al este de **Orellana y Sucumbíos**.
-
-Inamhi prevé lluvias en la Amazonía hasta el domingo
-----------------------------------------------------
-
-Las lluvias en el Oriente de Ecuador coinciden con las **previsiones** que dio el Inamhi este miércoles 13 de noviembre[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-La entidad detalló que se esperan **lluvias, tormentas y vientos**, en algunas provincias del país hasta las 18:00 del domingo 17 de noviembre.
-
-Las precipitaciones de niveles **medio, alto y muy alto** están previstas principalmente en la **Amazonía** y parte de la región **Interandina**.
-
-> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #61 l Entre el 13 y 17 de noviembre se incrementará la probabilidad de lluvias y tormentas en la región Amazónica 🌦️⛈️🌧️. Eventos puntuales y menos intensos podrían presentarse en la Sierra. Más información en el boletín.⚠️ 👇 [pic.twitter.com/jstASGN000](https://t.co/jstASGN000)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 13, 2024](https://twitter.com/inamhi_ec/status/1856765852990710210?ref_src=twsrc%5Etfw)
-
-La predicción del clima señala que en Sucumbíos, Orellana, Napo, Pastaza y Morona Santiago se registraran niveles promedios de lluvias altos, entre los **31 a 54 milímetros diarios**.
-
-Mientras que en lugares puntuales de la Sierra, los niveles serán medios, entre **8 a 11 mm** por día[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Los días con **precipitaciones más intensas** serán el **viernes 15 y el sábado 16** de noviembre, en el occidente de **Pastaza y Orellana**; así como en la parte oriental de **Napo**.
-
-¿Por qué lloverá en estas provincias?
--------------------------------------
-
-El Inamhi explicó que las lluvias en estas provincias están previstas por el **ingreso de masas de aire húmedo** desde la Amazonía y el sur del continente.
-
-Este fenómeno, sumado a los **vientos** y el calentamiento **diurno** que se espera, genera procesos termodinámicos que favorecen la presencia de **nubes**, y con ellas, de precipitaciones.
-
-Lluvias alimentan a Coca Codo Sinclair, ¿son suficientes?
----------------------------------------------------------
-
-Según las previsiones del clima del Inamhi, es probable que se registren **lluvias considerables** en **Napo y Sucumbíos**, provincias donde se encuentra la hidroeléctrica **Coca Codo Sinclair**, entre los cantones **El Chaco y Gonzalo Pizarro**.
-
-Justamente, en esta última ciudad fue donde se registró la mayor presencia de lluvias la **madrugada de este jueves**.
-
-Sin embargo, esto favorece el mejoramiento de la energía en el país de **forma temporal**, pero se requieren lluvias también en otras zonas del Ecuador.
-
-Coca Codo Sinclair es una central de paso que brinda **1 500 megavatios** (MW), aunque no almacena agua. Esto significa que capta el agua del río hacia una tubería subterránea, pero **no la guarda**.
-
-Para mejorar las **crisis energética e hídrica** en Ecuador se requiere la presencia de precipitaciones en el **Austro**.
-
-Según la Corporación Eléctrica de Ecuador (**Celec**), en este punto del sur del país se ubican tres de las hidroeléctricas más importantes: **Paute – Molino**, de 1 050 MW y Sopladora, con **487 MW** y Mazar de **170 MW**.
-
-Venezuela rescató un punto contra Brasil en las eliminatorias
-=============================================================
-
-La selección de Venezuela sumó un punto valioso ante la pentacampeona del mundo.
---------------------------------------------------------------------------------
-
-![Venezuela y Brasil empataron en las eliminatorias sudamericanas 2026.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T175713.148.jpg)
-
-**Venezuela** se plantó muy bien en casa ante una **Brasil** que sigue dejando dudas. La ‘Vinotinto’, aunque tuvo dificultades en la primera mitad, mejoró en el segundo tiempo y logró arañar un empate en las eliminatorias sudamericanas.
-
-El partido, disputado el jueves 14 de noviembre, **terminó 1-1.** La ‘Canarinha’ abrió el marcador con un golazo de su nuevo 10, **Raphinha**, mientras que el empate para los locales llegó de los pies del otro número 10, **Telasco Segovia**.
-
-### Más noticias:
-
-* [La selección brasileña resalta la fortaleza de Venezuela en eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-brasilena-eliminatorias-venezuela-partidos-2024.html "La selección brasileña resalta la fortaleza de Venezuela en eliminatorias")
-* [La ‘Tuka’ Ordóñez brilla en Venezuela a sus casi 40 años](https://www.elcomercio.com/deportes/futbol/roberto-tuka-ordonez-brilla-en-venezuela-a-sus-casi-40-anos.html "La ‘Tuka’ Ordóñez brilla en Venezuela a sus casi 40 años")
-* [Eliminatorias sudamericanas 2024. Así se juegan los partidos de la fecha 11](https://www.elcomercio.com/deportes/futbol/eliminatorias-sudamericanas-2024-partidos-fecha-11.html "Eliminatorias sudamericanas 2024. Así se juegan los partidos de la fecha 11")
-
-Con este punto, y a falta de otros partidos, **Venezuela se mantiene en zona de clasificación con 12 puntos** en 11 jornadas. Por su parte, Brasil acumula 17 puntos y se afianza en la tercera posición.
-
-Brasil se adelantó en el marcador
----------------------------------
-
-Durante la primera parte, el combinado brasileño lució más dominante, encontrando espacios en la defensa rival y generando varias ocasiones. La primera oportunidad clara llegó a los 22 minutos, cuando **Vinícius** **Júnior** estrelló un remate en el poste.
-
-Venezuela, por su parte, generó algunas llegadas, aunque sin mucha claridad y más bien aprovechando errores en la defensa brasileña.
-
-Al cierre de la primera mitad, Brasil encontró el gol: **Raphinha**, en su debut como el nuevo 10 de la ‘Canarinha’ y en gran momento con el FC Barcelona, ejecutó un tiro libre con precisión para poner en ventaja a su selección.
-
-Venezuela resurge y empata
---------------------------
-
-En la segunda mitad, la ‘Vinotinto’ arrancó con intensidad, logrando igualar el marcador apenas a los 50 segundos. **Telasco Segovia**, el 10 venezolano, finalizó una gran jugada colectiva para convertir el empate.
-
-Este gol **revitalizó a Venezuela**, que tomó control del balón y comenzó a generar peligro, aunque sin lograr otra ocasión clara de gol.
-
-A los 60 minutos, Brasil tuvo una gran oportunidad de recuperar la ventaja. Vinícius Júnior fue derribado en el área por el arquero Rafael Romo, y el árbitro sancionó penal. Sin embargo, el propio **Vinícius se encargó del cobro y Romo**, portero de la Universidad Católica de Ecuador, **detuvo el disparo**.
-
-En los minutos finales, el partido se trabó un poco. Aunque **Brasil** mantuvo la posesión, no logró convertir ese dominio en goles.
-
-Alineación de Ecuador para enfrentar a Bolivia en eliminatorias
-===============================================================
-
-La Selección de Ecuador enfrenta un partido crucial en su camino hacia el sueño mundialista.
---------------------------------------------------------------------------------------------
-
-![Pedro Vite, jugador de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/alineacion_ecu_1.jpg)
-
-La **Selección de Ecuador** recibe este jueves 14 de noviembre a Bolivia en el Estadio Monumental de Guayaquil, por la undécima jornada de las eliminatorias sudamericanas. Una victoria acercaría al equipo de **Sebastián Beccacece** al Mundial 2026.
-
-Este será el quinto partido del argentino al mando de la ‘Tri’, aunque su **balance hasta ahora es limitado**: una victoria, dos empates y una derrota, con apenas un gol a favor desde que asumió el cargo.
-
-### Más noticias:
-
-* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
-* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
-* [Ecuador busca ampliar su invicto contra Bolivia en eliminatorias](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-busca-ampliar-invicto-contra-bolivia-eliminatorias.html "Ecuador busca ampliar su invicto contra Bolivia en eliminatorias")
-
-Para este compromiso clave, **Beccacece tiene el reto de ajustar su alineación** inicial debido a la baja de dos titulares importantes, y buscará alternativas entre los convocados disponibles.
-
-Alineación de Ecuador ante Bolivia
-----------------------------------
-
-Beccacece **no contará con Moisés Caicedo**, suspendido por acumulación de tarjetas, ni con Ángelo Preciado, desafectado por lesión. Tampoco estará disponible Leonardo Campana, quien está tocado y al menos en este partido no jugará.
-
-Estos cambios obligan al DT a seleccionar reemplazos tanto en el mediocampo como en el lateral derecho.
-
-Uno de los primeros cambios es el ingreso de Joel Ordóñez por Félix Torres, que no fue citado para este compromiso, pese a ser uno de los goleadores del equipo con dos tantos en el actual proceso.
-
-Por primera vez ingresan en el 11 titular **John Yeboah, Pedro Vite y Alan Minda**, tres apuestas de Beccacece para darle velocidad por las bandas en el ataque y a la hora del retroceso defensivo.
-
-### Alineación de Ecuador
-
-**Arquero:** Hernán Galíndez
-
-**Defensas:** Joel Ordóñez, Willian Pacho y Piero Hincapié
-
-**Volantes:** Alan Minda, Alan Franco, Pedro Vite y Pervis Estupiñán
-
-**Delanteros:** John Yeboah, Gonzalo Plata y Enner Valencia
-
-### Las alineaciones del Licenciado Dognaldo
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCVEnvNuhG7/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCVEnvNuhG7/?utm_source=ig_embed&utm_campaign=loading)
-
-Historial de Ecuador vs. Bolivia
---------------------------------
-
-En suelo ecuatoriano (Quito o Guayaquil), la ‘Tri’ **ha jugado ocho partidos contra Bolivia**, con un saldo de siete victorias y un empate, con 16 goles a favor y solo cuatro en contra.
-
-La única vez que Bolivia sumó puntos de visitante fue en septiembre de 1993 en el primer enfrentamiento de eliminatorias, que terminó 1-1 en el Estadio Monumental. William Ramallo anotó para la ‘Verde’ y Raúl Noriega igualó para Ecuador.
-
-Desde entonces, **Ecuador ha mantenido el invicto como local frente a Bolivia** en eliminatorias, acumulando siete victorias consecutivas. La última fue en octubre de 2021, rumbo a Catar 2022, con un 3-0 a favor de la ‘Tri’ en el Monumental, con goles de Michael Estrada y un doblete de Enner Valencia en los primeros 20 minutos.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
-
-Detalles del partido
---------------------
-
-**Fecha:** Jueves 14 de noviembre
-
-**Hora:** 19:00
-
-**Estadio:** Monumental
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Joe Biden arriba a Perú para participar por última vez en la cumbre Apec
-========================================================================
-
-El presidente de Estados Unidos, Joe Biden, está en Perú para participar en la cumbre Apec.
--------------------------------------------------------------------------------------------
-
-![l presidente de Estados Unidos, Joe Biden, arribó este jueves 14 de noviembre de 2024 a la capital peruana para la cumbre Asia Pacífico.](https://www.elcomercio.com/wp-content/uploads/2024/11/bidenapec.jpg)
-
-El **presidente de Estados Unidos, Joe Biden**, aterrizó en Lima para participar en la cumbre de líderes del Foro de **Cooperación Económica Asia Pacífico (Apec)**. En este encuentro se reunirá con su **homólogo chino, Xi Jinping**, y la peruana, **Dina Boluarte.**
-
-El avión Air Force One llegó este jueves 14 de noviembre de 2024 al Grupo Aéreo Número 8. Esta es una base militar anexa al aeropuerto de la capital del país andino, donde fue recibido por el presidente del Consejo de Ministros, Gustavo Adrianzén.
-
-### Más noticias
-
-* [Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico](https://www.elcomercio.com/actualidad/mundo/presidente-chino-xi-jinping-llega-peru-cumbre-asia-pacifico.html "Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico")
-* [Biden y Trump se reunirán el miércoles en la Casa Blanca para iniciar la transición](https://www.elcomercio.com/actualidad/mundo/biden-trump-reuniran-miercoles-casa-blanca-iniciar-transicion.html "Biden y Trump se reunirán el miércoles en la Casa Blanca para iniciar la transición")
-* [La clave de Donald Trump para conquistar a los hombres jóvenes](https://www.elcomercio.com/actualidad/mundo/clave-donald-trump-conquistar-hombres-jovenes.html "La clave de Donald Trump para conquistar a los hombres jóvenes")
-
-El mandatario tiene previsto anunciar acuerdos con Perú en materia de lucha contra el narcotráfico e infraestructuras. El domingo hará una histórica visita a la Amazonía en Manaos (Brasil), antes de aterrizar en **Río de Janeiro** para participar en la cumbre del G20.
-
-Biden se reunirá este viernes 15 de noviembre de manera bilateral con Boluarte. Luego, mantendrá un encuentro trilateral con el nuevo primer ministro nipón, **Shigeru Ishiba**, y el presidente surcoreano, **Yoon Suk-yeol.**
-
-Es un encuentro con aliados que la Casa Blanca, dijo hoy, quiere que se “institucionalice” y se celebre de manera periódica, con la llegada de la nueva administración de Donald Trump en enero.
-
-Según el asesor de Seguridad Nacional de la **Casa Blanca, Jake Sullivan**, en ruta a Lima desde el Air Force One’, Washington podría anunciar acuerdos con Perú en materia de lucha contra el narcotráfico.
-
-Además, inversión en infraestructura ferroviaria y en espacio, algo comenzó que concretarse este jueves 14 de noviembre. Se hizo la firma de un memorando de entendimiento entre la agencia espacial estadounidense **NASA** y la agencia peruana Conida.
-
-La reunión de Biden con su homólogo chino
------------------------------------------
-
-Uno de los momentos más esperados de la visita del presidente estadounidense a Perú será su reunión con el presidente chino, que tendrá lugar el sábado en los márgenes de la APEC.
-
-Este será su tercer encuentro tras el de hace un año en **San Francisco (EE.UU.)** y el del G20 celebrado hace dos años en Bali.
-
-Sullivan consideró hoy que el “riesgo más significativo para Estados Unidos y el mundo es si la paz y estabilidad en el estrecho de **Taiwán** se viera interrumpida” y eso desencadenara un conflicto.
-
-En este sentido, opinó que la nueva administración del presidente electo **Donald Trump** va a tener que enfrentarse “desde el comienzo” al desafío que supone la “actividad agresiva” de China en el mar de China meridional.
-
-Adicionalmente, los problemas para contener al sector tecnológico chino allá donde suponga un riesgo para la seguridad y la ventaja competitiva estadounidense[.](https://es.wikipedia.org/wiki/Joe_Biden "https://es.wikipedia.org/wiki/Joe_Biden")
-
-La reunión **Biden-Xi** será una oportunidad para “marcar el progreso que hemos hecho en la relación y también ayudar a gestionar este período de transición y mantener la estabilidad, al tiempo que continuamos compitiendo vigorosamente con China”.
-
-El presidente chino llegó unas cuatro horas antes que el estadounidense, y poco después del arribo se reunió con **Boluarte** en el Palacio de Gobierno. Ambos inauguraron de manera virtual el puerto de Chancay, construido con capitales del gigante asiático, a unos 80 kilómetros de Lima.
-
-EL COMERCIO te lleva en vivo el Ecuador vs. Bolivia por WhatsApp
-================================================================
-
-La Selección de Ecuador juega ante Bolivia y te llevamos todas las actualizaciones en tiempo real vía WhatsApp.
----------------------------------------------------------------------------------------------------------------
-
-![Piero Hincapié entonando el himno en un partido de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-14T151137.551.jpg)
-
-La **Selección de Ecuador** se medirá ante **Bolivia** en las eliminatorias sudamericanas a las 19:00 de este jueves 14 de noviembre del 2024. En caso de que no puedas seguir el compromiso por televisión u otro medio debido a eventuales cortes de luz, **EL COMERCIO** te lo llevará en su página web y vía WhatsApp.
-
-Para estar pendiente del cotejo y de todas sus actualizaciones debes suscribirte al canal de noticias en **WhatsApp** en este [enlace](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a "https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a"). Allí se enviarán los contantes sucesos en vivo del partido, material gráfico y de video e informes sonoros en tiempo real desde el Estadio Rodrigo Paz Delgado.
-
-### Más noticias:
-
-* [¿A qué hora juega la Selección de Ecuador vs. Bolivia en eliminatorias?](https://www.elcomercio.com/deportes/futbol/ecuador-vs-bolivia-hora-juega-partido-eliminatorias.html "¿A qué hora juega la Selección de Ecuador vs. Bolivia en eliminatorias?")
-* [Posible alineación de Ecuador para enfrentar a Bolivia en eliminatorias](https://www.elcomercio.com/deportes/futbol/alineacion-ecuador-para-enfrentar-a-bolivia-eliminatorias.html "Posible alineación de Ecuador para enfrentar a Bolivia en eliminatorias")
-* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
-
-Por medio de nuestras distintas redes sociales también podrás acompañar la cobertura de cada detalle con transmisiones en vivo y constantes publicaciones. Para ello puedes seguir las páginas de Facebook, Twitter e [Instagram](https://www.instagram.com/elcomerciocom/ "https://www.instagram.com/elcomerciocom/").
-
-La Selección de Ecuador enfrenta a Bolivia
-------------------------------------------
-
-La Selección de Ecuador tendrá su undécimo partido de las eliminatorias 2026 ante Bolivia. Sebastián Beccacece, en su quinto encuentro como director técnico de la ‘Tri’, **buscará su segunda victoria** ante un equipo históricamente accesible.
-
-El entrenador argentino llega al encuentro con más dudas que certezas, ya que el saldo de sus primeros cuatro cotejos al mando de **Ecuador** ha dejado mucho que desear.
-
-Lo positivo para Beccacece es que la ‘Tri’ mantiene un invicto en casa ante Bolivia. En territorio ecuatoriano, sea en **Quito o Guayaquil**, la selección ha **disputado ocho partidos**, con siete victorias y un empate, anotando 16 goles y recibiendo solo cuatro.
-
-La **única vez que Bolivia sumó de visitante** fue en el primer enfrentamiento por eliminatorias, en septiembre de 1993. Ese partido terminó 1-1 en el Estadio Monumental, donde volverán a jugar en este 2024. William Ramallo anotó para la ‘Verde’ y Raúl Noriega para Ecuador.
-
-Desde aquel empate en 1993, Ecuador no ha vuelto a perder puntos ante Bolivia como local, **sumando siete victorias consecutivas** en eliminatorias.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/reel/DCVH9UDp5lo/?utm_source=ig_embed&utm_campaign=loading)
-
-Detalles del partido
---------------------
-
-**Partido**: Ecuador vs. Paraguay
-
-**Fecha**: Jueves 14 de noviembre del 2024.
-
-**Hora**: 19:00.
-
-**Estadio**: Monumental de Guayaquil.
-
-No te pierdas nuestro especial de Halloween
--------------------------------------------
-
-Presidente chino, Xi Jinping, llega a Perú para la cumbre Asia-Pacífico
-=======================================================================
-
-Perú inauguró el megapuerto Chancay, con la presencia del presidente chino Xi Jinping. China tiene una gran inversión.
-----------------------------------------------------------------------------------------------------------------------
-
-![El presidente de la República Popular de China, Xi Jinping (I), saluda durante su llegada a Lima, Perú.](https://www.elcomercio.com/wp-content/uploads/2024/11/xi-ping-1.jpg)
-
-Los presidentes d**e China, Xi Jinping, y de Perú, Dina Boluarte**, inauguraron este jueves 14 de noviembre de 2024 el **megapuerto de Chancay,** en la costa central peruana, destinado a potenciar el comercio chino con América del Sur.
-
-Este hecho ocurrió en la antesala de la **31 cumbre del Foro de Cooperación Económica Asia Pacífico (Apec).**
-
-### Más noticias
-
-* [¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?](https://www.elcomercio.com/tendencias/ambiente/como-inciden-los-eventos-climaticos-en-la-sequia-de-ecuador-y-las-inundaciones-en-colombia.html "¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?")
-* [China rompe acuerdos con Cuba](https://www.elcomercio.com/actualidad/mundo/china-rompe-acuerdos-cuba.html "https://www.elcomercio.com/actualidad/mundo/china-rompe-acuerdos-cuba.html")
-* [China pide que Washington levante el embargo y las sanciones contra Cuba tras apagones](https://www.elcomercio.com/actualidad/mundo/china-pide-washington-levante-embargo-sanciones-contra-cuba-tras-apagones.html "China pide que Washington levante el embargo y las sanciones contra Cuba tras apagones")
-
-Con este puerto, “el **Perú** podrá establecer un paradigma de conectividad multidimensional, diversificado y eficiente que comunica el litoral y el interior del país”, destacó Xi en un artículo que escribió especialmente para el diario oficial El Peruano.
-
-El mandatario chino dijo que el megapuerto “conecta el Perú con el resto de América Latina y el Caribe”,
-
-**Xi y Boluarte** presidieron la ceremonia desde el palacio presidencial en esta capital, 80 kilómetros al sur del nuevo puerto, a pedido de la presidencia china por razones de seguridad.
-
-En víspera de la cumbre de 21 naciones de ambas orillas del Pacífico -asistirán 16 jefes de Estado o de gobierno-, transportistas y otros gremios realizaban en Lima protestas contra el Gobierno.
-
-En previsión de desórdenes suspendió del deber presencial a distintas actividades laborales y de centros de enseñanza.
-
-El encuentro entre Joe Biden y Xi Jinping
------------------------------------------
-
-Otro hito de la cumbre será el encuentro, previsto para el sábado 16 de noviembre, entre **Xi y el presidente saliente estadounidense Joe Biden.**
-
-Será, teniendo en cuenta la rivalidad entre las dos primeras potencias económicas del planeta y la marcada decisión de enfrentar a China, que muestra el próximo presidente de Estados Unidos, Donald Trump.
-
-Se descuenta que el gobierno de Trump priorizará, en materia comercial, los acuerdos bilaterales. Se sabe que utilizará herramientas como la imposición o el incremento de aranceles, por encima de los pactos multilaterales.
-
-La cumbre Apec de este año se hará bajo el lema “Personas, empresas, prosperidad”. Se centrará en la búsqueda de soluciones innovadoras para los desafíos más urgentes de la gran región económica del Pacífico.
-
-Las 21 economías socias de la Apec son **Australia, Brunei, Canadá, Chile, China, Corea del Sur, Estados Unidos, Filipinas, Hong Kong. Otros socios son Indonesia, Japón, Malasia, México, Nueva Zelanda, Papúa Nueva Guinea, Perú, Rusia, Singapur, Tailandia y Taiwán.**
-
-Los temas de la cumbre Asia-Pacífico
-------------------------------------
-
-Un objetivo declarado es promover el crecimiento inclusivo e interconectado. Otro es abordar la economía informal mediante el uso de plataformas digitales para una mejor integración económica. Un tercero es priorizar el crecimiento resiliente frente al cambio climático y la seguridad alimentaria.
-
-Los miembros trabajan sobre la **agenda del Área de Libre Comercio de Asia y el Pacífico.** Tratarán temas, como marcos de políticas de hidrógeno con bajas emisiones de carbono para apoyar las transiciones energéticas regionales. Además, iniciativas para prevenir y reducir la pérdida y el desperdicio de alimentos.
-
-Como telón de fondo de esos temas opera la **rivalidad China-Estados Unidos,** y por ello cobra especial significado el estreno del **puerto de Chancay.**
-
-La obra muestra la fuerte penetración de Beijing con inversiones y comercio en una región donde Estados Unidos ha operado como gran socio e interlocutor.
-
-El puerto de Chancay, la mega obra china
-----------------------------------------
-
-Oficialmente llamado Terminal Portuario Multipropósito de Chancay, la instalación abarca 992 hectáreas de costa. Solo la primera etapa recibió una inversión china de **1 213 millones de dólares y se espera que en total llegará a 3 600 millones.**
-
-El puerto, cuya magnitud contrasta con el tamaño y pobreza del distrito pesquero donde fue construido, se inicia con la operación de cuatro muelles y se podrá ampliar a 15.
-
-Su equipamiento contempla grúas pórtico, las más grandes del mundo, con capacidad de atender buques de hasta 24 000 contenedores.
-
-En su escrito, Xi destacó que ya con la primera fase del proyecto “se podrá reducir a 23 días el viaje marítimo del Perú a China”.
-
-Eso significa que “se ahorrará más de 20% del costo logístico y se generarán para el Perú ingresos anuales de 4 500 millones de dólares y más de 8000 empleos directos”.
-
-Los problemas ambientales del megapuerto de Chancay
----------------------------------------------------
-
-Debido a preocupaciones ambientales, Xi mencionó que “en el marco de este proyecto se ha establecido una estación de rescate de animales”.
-
-Esta tiene la iniciativa de asumir la responsabilidad de proteger pingüinos, focas y aves. Además, mejorar las condiciones ambientales de humedales, playas y el hábitat biológico”.
-
-Sin embargo, un estudio de la Coordinadora Nacional de Derechos Humanos (74 organizaciones) reveló que, de 50 observaciones al estudio de impacto ambiental, solo 21 fueron levantadas por Cosco.
-
-En particular, se señala que Cosco no prestó suficiente atención al humedal Santa Rosa, de 78 hectáreas y a solo tres kilómetros del centro de Chancay.
-
-En esas zonas hay aves migratorias anidan, descansan, se alimentan y se activan en el transporte de semillas y control de plagas a nivel mundial[.](https://es.wikipedia.org/wiki/Per%C3%BA "https://es.wikipedia.org/wiki/Per%C3%BA")
-
-También hay temor porque el puerto puede generar contaminación por hidrocarburos y metales pesados debido al transporte intensivo. Pese a que serán eléctricas las grúas y otras maquinarias, las aves llevarían consigo estos contaminantes.
-
-Boluarte expresó al inicio de la ceremonia inaugural que Chancay “revolucionará el comercio y dinamizará la **economía de Asia y el Pacífico”.**
-
-Jugando con los sonidos de los nombres de la mayor ciudad china y del nuevo puerto peruano, Xi expuso que “necesitamos hacer que \\’de **Chancay a Shanghái\\**‘ se convierta verdaderamente en un camino próspero para promover el desarrollo conjunto de China-Perú y China-América Latina”.
-
-Estados Unidos enfrenta nevadas, lluvias intensas y tormentas eléctricas
-========================================================================
-
-Según el pronóstico del Servicio Meteorológico Nacional, varias regiones del país experimentarán precipitaciones de diversa intensidad.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo de un carro cubierto por la nieve como consecuencia del paso de tormentas por EE.UU.](https://www.elcomercio.com/wp-content/uploads/2024/11/estados-unidos-archivo-efe.jpg)
-
-El jueves 14 de noviembre, [Estados Unidos](https://www.elcomercio.com/actualidad/mundo/problemas-climaticos-afectan-mundo.html "https://www.elcomercio.com/actualidad/mundo/problemas-climaticos-afectan-mundo.html") experimenta **nevadas, lluvias intensas** y alertas por **tormentas eléctricas**, según el **Servicio Meteorológico Nacional**, según La Nación.
-
-### Más noticias
-
-* [Marco Rubio, el latino que será secretario de Estado de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/marco-rubio-latino-sera-canciller-donald-trump.html "Marco Rubio, el latino que será secretario de Estado de Estados Unidos")
-* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
-* [Problemas climáticos que afectan al mundo](https://www.elcomercio.com/actualidad/mundo/problemas-climaticos-afectan-mundo.html "Problemas climáticos que afectan al mundo")
-
-Este jueves 14 de noviembre de 2024, Estados Unidos enfrenta una serie de condiciones climáticas adversas que incluyen **alertas de nevadas, lluvias intensas y temperaturas fluctuantes**. Según el pronóstico del **Servicio Meteorológico Nacional** (NWS, por sus siglas en inglés), varias regiones del país experimentarán precipitaciones de diversa intensidad, mientras que algunas zonas montañosas sufrirán heladas significativas, según La Nación.
-
-En la costa oeste, un sistema frontal proveniente del Pacífico **traerá lluvias a áreas de baja altitud** y nevadas en las zonas montañosas de estados como **Washington, Oregon y el norte de California.**
-
-Según La Nación, se prevé que las montañas verán acumulaciones de nieve moderada a intensa, especialmente en la cordillera de Sierra Nevada, donde podrían caer más de **30 centímetros de nieve hasta el viernes**. Esta acumulación podría generar condiciones peligrosas para el tránsito en las elevaciones superiores, afectando la visibilidad y las rutas de montaña.
-
-Tormentas eléctricas y lluvias intensas
----------------------------------------
-
-Mientras tanto, en el sureste del país, los estados de la **costa del Golfo**, como **Alabama, Misisipi, Georgia y las Carolinas**, enfrentarán **lluvias intensas** y tormentas eléctricas debido a un frente frío que avanza por la región.
-
-En particular, se esperan **ráfagas de viento severas** y posibles inundaciones en zonas bajas y áreas propensas a desbordamientos. En algunas áreas costeras d**e Carolina del Sur** y **Carolina del Norte**, existe el riesgo de **tornados breves** debido a la combinación de humedad y cizalladura del viento, según el pronóstico de La Nación.
-
-Los meteorólogos alertan sobre el peligro que representan las **tormentas para la seguridad pública**, en especial en las áreas más vulnerables a **inundaciones repentinas**. Las autoridades instan a los residentes a mantenerse informados sobre las condiciones meteorológicas y tomar precauciones.
-
-Clima más estable en el noroeste y centro
------------------------------------------
-
-A pesar de las **condiciones adversas** en otras regiones, el centro y noreste de Estados Unidos experimentarán un clima relativamente estable. Según el NWS, las temperaturas estarán dentro de los valores estacionales, con máximas que oscilarán entre lo**s 5 °C y los 15 °C** sobre el promedio, especialmente en los **Grandes Lagos** y el medio oeste. En el noreste, se esperan temperaturas frías por la mañana, pero con un leve ascenso hacia el viernes.
-
-Liga de Quito y un ‘agradecimiento’ por Marco Angulo
-====================================================
-
-Marco Angulo jugó con Liga de Quito 20 partidos y sumo 890 minutos en cuatro torneos.
--------------------------------------------------------------------------------------
-
-![Marco Angulo en su etapa como jugador de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/angulo_sepelio_1.jpg)
-
-Liga de Quito vive **momentos de dolor por el fallecimiento de Marco Angulo** la noche del lunes 11 de noviembre de 2024 en la capital ecuatoriana. Se unió a sus filas en el inicio de la temporada 2024.
-
-Tras la confirmación de la muerte de Marco Angulo, **Liga de Quito y otros clubes del fútbol ecuatorianos**, jugadores, directivos y el Football Club Cincinnati de los Estados Unidos, hicieron públicas sus condolencias para los familiares y amigos del deportista.
-
-### Más noticias:
-
-* [La Selección de Ecuador está invicta 31 años en el Monumental](https://www.elcomercio.com/deportes/eliminatorias/seleccion-ecuador-estadio-monumental-eliminatorias.html "La Selección de Ecuador está invicta 31 años en el Monumental")
-* [Liga de Quito y una emotiva despedida a Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-de-quito-y-una-emotiva-despedida-a-marco-angulo.html "Liga de Quito y una emotiva despedida a Marco Angulo")
-* [Deportivo Quito entre los ocho sobrevivientes del ascenso](https://www.elcomercio.com/deportes/futbol/deportivo-quito-portoviejo-gonzalo-pozo.html "Deportivo Quito entre los ocho sobrevivientes del ascenso")
-
-El martes 12, antes que el féretro de Angulo sea trasladado a su natal Esmeraldas, sus excompañeros lo recibieron y lo **despidieron en el Centro de Alto Rendimiento de Pomasqui**, al igual que los trabajadores del equipo universitario.
-
-Además, es sus redes sociales se publicó un video con los mejores momentos del mediocampista de 22 años de edad, **en su corto paso por las filas del equipo que actualmente ostenta** los títulos de la Liga Pro y la Copa Sudamericana 2023.
-
-La última presentación de Angulo con la camiseta de LDU fue en la octava fecha de la segunda etapa ante Orense. Ingresó a los 87 minutos por Madison Julio y fue parte de la victoria 2-0 en el Rodrigo Paz Delgado.
-
-Eso fue el 6 de octubre, horas previas del fatal siniestro de tránsito en el que estuvo involucrado en la **autopista que una a Quito con Sangolquí**, en donde también perdieron la vida Roberto Cabezas (Independiente Juniors) y Víctor Charcopa (amigo de los futbolistas).
-
-Liga envió un mensaje especial
-------------------------------
-
-“Queremos expresar **nuestro más profundo agradecimiento por las incontables muestras de afecto**, apoyo y condolencias que nos han enviado estos días. Nos conmueve profundamente el cariño que hemos sentido”, fue el mensaje que Liga publicó en sus rede sociales este 14 de noviembre.
-
-“**El recuerdo de Marco quedará por siempre con nosotros**“, fue la parte final del mensaje, que estuvo acompañado con una fotografía del deportista que se complementa con la leyenda ‘Marco 88’ y un listón de color negro.
-
-Inmediatamente, los hinchas albos llenaron el posteo con muestra de afecto para el jugador que debutó en el fútbol profesional en el 2021 con Independiente del Valle.
-
-Con la **Selección de Ecuador disputó dos amistosos**. Uno contra Irak en la era del argentino Gustavo Alfaro, y otro ante Australia en el inicio de la corta etapa del español Félix Sánchez.
-
-La Copa Libertadores sub-20 en 2020, la Liga Pro en el 2021 y la Copa Ecuador y la Copa Sudamericana en el 2022, **todos con Independiente, más la MLS Supporters’ Shield** en el 2023 con el Football Club Cincinnati, fueron los títulos logrados en su carrera.
-
-La tarde de este 14 se realizó su sepelio en la parroquia Rocafuerte, Esmeraldas, en medio del dolor de sus familiares, amigos, allegados, conocidos y público en general que le dieron el último adiós.
-
-> Queremos expresar nuestro más profundo agradecimiento por las incontables muestras de afecto, apoyo y condolencias que nos han enviado estos días. Nos conmueve profundamente el cariño que hemos sentido.  
->   
-> El recuerdo de Marco quedará por siempre con nosotros. [pic.twitter.com/xc5MyiC0u7](https://t.co/xc5MyiC0u7)
-> 
-> — LDU Oficial (@LDU\_Oficial) [November 14, 2024](https://twitter.com/LDU_Oficial/status/1857174167055114467?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-Así es el colibrí que una ONG busca salvar de la extinción con un millón de dólares
-===================================================================================
-
-El colibrí Estrella de Garganta Azul habita en los páramos ecuatorianos; quedan menos 110 individuos maduros.
--------------------------------------------------------------------------------------------------------------
-
-![El colibrí Estrella de Garganta Azul se alimenta del néctar de más de 10 plantas. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-14T171801.933.jpg)
-
-La **[Fundación Jocotoco](https://www.jocotoco.org.ec/wb#/ES/home "https://www.jocotoco.org.ec/wb#/ES/home")** fue seleccionada como ganadora del ‘**Saving Species Challenge’** del Zoológico de Indianápolis. Se trata de un reconocimiento que le otorgará un millón de dólares para implementar un proyecto de conservación dirigido al colibrí **Estrella de Garganta Azul**.
-
-### **Más noticias:**
-
-* [Los gatos más famosos de Instagram](https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html "https://www.elcomercio.com/tendencias/curiosidades/gatos-famosos-instagram-redes-sociales-mascotas.html") 
-* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
-* [Multa ejemplar para un caso de crueldad animal en Ecuador](https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link")
-
-**Un colibrí en peligro de extinción**
---------------------------------------
-
-El colibrí **Estrella de Garganta Azul** es una especie catalogada como **En Peligro Crítico de extinción**. Por eso, el desafío, organizado por el **Zoológico de Indianápolis**, busca financiar iniciativas que mejoren el estado de especies amenazadas según la Lista Roja de la UICN.
-
-Jocotoco fue elegida entre 52 propuestas de 46 países, y su plan de conservación para el Estrella de Garganta Azul, una especie endémica de los Andes ecuatorianos, se destacó por su enfoque integral y sostenible.
-
-**¿Cómo es el colibrí Estrella de Garganta Azul?**
---------------------------------------------------
-
-El Estrella de Garganta Azul (Oreotrochilus cyanolaemus) habita en un reducido sector de los páramos de las provincias de El Oro y Loja, a más de 3 000 metros sobre el nivel del mar.
-
-Su población, que actualmente cuenta con menos de 110 individuos maduros, se ve amenazada principalmente por la pérdida de hábitat debido a la minería y los incendios forestales.
-
-Con la subvención obtenida, Jocotoco implementará un plan de cinco años para restaurar y proteger el hábitat del colibrí. Las acciones incluirán la expansión de la **Reserva Cerro de Arcos**, donde se protege el último refugio conocido de la especie.
-
-Además, se mejorarán las condiciones de anidación del **colibrí** y se monitoreará su población mediante tecnologías avanzadas, como la inteligencia artificial.
-
-**Características físicas del colibrí Estrella de Garganta Azul**
------------------------------------------------------------------
-
-* Tamaño: entre 11 y 12 cm
-* Peso: 8,15 gramos
-
-### **Machos**
-
-* Largo alas: 6,91cm
-* Cola: 4,9cm
-
-### **Hembras**
-
-* Largo alas: 6,58cm
-* Cola: 4,9cm
-
-Osamenta hallada se trataba de mujer embarazada que desapareció en Manabí
-=========================================================================
-
-Se confirmó la identidad de unas osamentas encontradas en Manabí
-----------------------------------------------------------------
-
-![Se confirmó la identidad de la osamenta encontrada en Manabí.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-35.jpg)
-
-Luego de cinco meses de ser reportada **la desaparición de Ariana Jiménez Andrade,** se confirmó este jueves 14 de noviembre de 2024 que una osamenta hallada en Portoviejo, Manabí, era suya[.](https://es.wikipedia.org/wiki/Provincia_de_Manab%C3%AD)
-
-### Más noticias
-
-* [554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas](https://www.elcomercio.com/actualidad/ecuador/dosis-vacunas-influenza-manabi-santo-domingo.html "554 307 vacunas contra la influenza se aplicarán en Manabí y Santo Domingo de los Tsáchilas")
-* [Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga](https://www.elcomercio.com/actualidad/seguridad/extranjeros-ecuatoriano-fueron-detenidos-manabi-droga.html "Tres extranjeros y un ecuatoriano fueron detenidos en Manabí con droga")
-
-La osamenta encontrada en Manabí
---------------------------------
-
-**La estudiante universitaria, de 24 años de edad, desapareció el 14 de junio del 2024 en Portoviejo, Manabí,** luego de ser citada por su pareja.
-
-Ella estaba embarazada y, según sus familiares, en aquel momento presentaba dos meses de gestación.
-
-A inicios de octubre se dio el hallazgo de una osamenta en una **zona alta de la vía Cuatro Esquinas-Zapallo, en Portoviejo.**
-
-Se supo que se trata de una mujer por varias **prendas de vestir que se encontraron junto a los restos óseos.**
-
-Para entonces, las autoridades confirmaron que se podía tardar entre 45 y 90 días el proceso de identificación.
-
-**La osamenta estaba junto a un sostén desgastado, un interior descolorido** y una pulsera roja con la letra “A”.
-
-Pruebas forenses
-----------------
-
-**Tras las respectivas pruebas, especialmente de ADN s**e confirmó que los restos hallados sí pertenecían a Ariana Jiménez.
-
-Este jueves 14 de noviembre, familiares y amigos de la estudiante compartieron en sus estados de **Whatsapp y en redes sociales una imagen de Ariana.**
-
-Ariana Jiménez nunca llegó ese día a la universidad
----------------------------------------------------
-
-Allí se da a conocer acerca de su fallecimiento acaecido en la ciudad de Portoviejo este jueves 14 de noviembre.
-
-**E incluso una empresa que brinda servicios exequiales también emitió un comunicado** y ofreció el pésame a toda la familia.
-
-Era una mañana como cualquier otra cuando Ariana, de 24 años, con sueños de graduarse y dos meses de embarazo, salió de la casa de su madre en la ciudadela El Llano, en Portoviejo.
-
-**“Voy a la universidad, mami”, fueron sus últimas palabras.**
-
-Su tesis de Administración de Empresas esperaba fecha de sustentación, pero el destino tenía otros planes.
-
-Ariana nunca llegó a la universidad. **En su lugar, se detuvo en el parque de Los Jazmines,** donde la esperaba él, el padre de su hijo no nacido.
-
-Un misterio
------------
-
-**Lo que sucedió en ese encuentro del 14 de junio es un misterio** que solo dos personas conocen, y una de ellas está ausente.
-
-“Cada quien se fue por su lado y ella se marchó en un taxi”, declaró él a la Policía.
-
-En la casa de los Jiménez, **el tiempo se mide de forma diferente desde hace casi cuatro meses.**
-
-Confidencialmente, la noche del lunes pasado, la Policía allanó una casa y capturó a Joel E., un hombre con una orden vigente por “desaparición involuntaria”. **Se presume que estaría vinculado con este caso.**
-
-**_El Diario, Manabí_**
-
-El significado de los nuevos emojis que llegarán en 2025
-========================================================
-
-Cada emoji tiene un contexto perfecto para transmitir mensajes específicos.
----------------------------------------------------------------------------
-
-![Al emoji de la cara loca, de la cara sonriente con lágrimas de risa y de la cara con corazones en los ojos se suman otros en 2025.](https://www.elcomercio.com/wp-content/uploads/2024/11/emojis-El-Comercio.jpg)
-
-En 2025, los usuarios de **Android e iOS** podrán disfrutar de **siete nuevos emojis**, los cuales fueron confirmados por [Emojipedia](https://emojipedia.org/ "https://emojipedia.org/").
-
-Estos íconos permitirán a millones de personas expresarse de formas más diversas, ampliando las opciones de comunicación digital.
-
-### Más noticias
-
-* **[Activa el modo Stranger Things en tu WhatsApp](https://www.elcomercio.com/tecnologia/stranger-things-whatsapp-netflix.html "https://www.elcomercio.com/tecnologia/stranger-things-whatsapp-netflix.html")**
-* **[Guía para bloquear una cuenta de WhatsApp en caso de robo del teléfono](https://www.elcomercio.com/tecnologia/whatsapp-robo-celular-bloqueo-tutorial.html "https://www.elcomercio.com/tecnologia/whatsapp-robo-celular-bloqueo-tutorial.html")** 
-
-Antes de usarlos,conoce lo que significan en la siguiente lista.
-
-**Significado de los emojis**
------------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/emojis-El-Comercio-1-1024x683.jpg)
-
-**Arpa**
---------
-
-Es un símbolo asociado con la música y la serenidad. Es perfecto para hablar de conciertos, momentos poéticos o cualquier tema relacionado con sonidos celestiales. Ejemplo: “Me encanta el sonido del arpa”.
-
-**Pala**
---------
-
-Es ideal para representar trabajo, jardinería o excavaciones. Se puede utilizar para compartir actividades cotidianas como “Hoy me tocó trabajar en el jardín”.
-
-**Símbolo de salpicadura**
---------------------------
-
-Este emoji puede usarse para representar creatividad, arte o incluso errores. Ideal para los amantes de la pintura o el arte en general. Ejemplo: “Hoy pasé toda la tarde pintando”.
-
-**Cara con bolsas bajo los ojos**
----------------------------------
-
-Este emoticono expresa desinterés, hastío o indiferencia, perfecto para situaciones aburridas; aunque muchos ya lo han asociado al cansancio y hasta le conocen como el emoji estoy cansado, jefe. Ejemplo: “Otra reunión sin sentido”.
-
-**Árbol sin hojas**
--------------------
-
-Representa la desolación, la sequía, el otoño. También puede aludir a la pérdida o sentimientos de vacío. Ejemplo: “El campo está tan seco este año”.
-
-**Hortaliza**
--------------
-
-Está relacionado con la comida saludable, la agricultura y la nutrición. Es ideal para hablar de recetas o hábitos alimenticios. Ejemplo: “Voy a preparar una ensalada de remolacha”.
-
-**Huellas azules**
-------------------
-
-Está asociado con la autenticación, seguridad y huellas digitales. Es perfecto para conversaciones sobre tecnología y privacidad. Ejemplo: “Necesito tu huella para desbloquear el dispositivo”.
-
-Los significados de los emojis son solo una guía. Cada usuario puede asignarle su propio sentido. Estos nuevos emojis estarán disponibles en dispositivos Android e iOS a partir de 2025.
-
-Evo Morales deja de ser el líder del MAS después de casi tres décadas tras fallo judicial
-=========================================================================================
-
-Esto supone el reconocimiento a la elección del dirigente campesino Grover García como nuevo presidente del partido gobernante.
--------------------------------------------------------------------------------------------------------------------------------
-
-![Fotografía de archivo del 6 de noviembre de 2024 del expresidente Evo Morales (2006-2019) durante el quinto día de huelga de hambre iniciada por el exmandatario en Lauca Ñ (Bolivia).](https://www.elcomercio.com/wp-content/uploads/2024/11/evo-morales-efe-14-noviembre.jpg)
-
- El **Tribunal Constitucional Plurinacional de Bolivia** emitió este jueves, 14 de noviembre de 2024, una sentencia que valida el congreso del oficialista **Movimiento al Socialismo (MAS) r**ealizado por las organizaciones sociales afines al Gobierno de Luis Arce. Con esto el exmandatario [Evo Morales](https://www.elcomercio.com/actualidad/tribunal-constitucional-de-bolivia-ratifica-que-evo-morales-no-puede-ser-candidato.html "https://www.elcomercio.com/actualidad/tribunal-constitucional-de-bolivia-ratifica-que-evo-morales-no-puede-ser-candidato.html") (2006-2019) deja de ser el líder de ese partido **después de casi tres décadas.**
-
-### Más noticias:
-
-* [Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato](https://www.elcomercio.com/actualidad/tribunal-constitucional-de-bolivia-ratifica-que-evo-morales-no-puede-ser-candidato.html "Tribunal Constitucional de Bolivia ratifica que Evo Morales no puede ser candidato")
-* [Evo Morales cumple su primer día de huelga de hambre](https://www.elcomercio.com/actualidad/mundo/evo-morales-cumple-primer-huelga-hambre.html "Evo Morales cumple su primer día de huelga de hambre")
-* [Bloqueos en defensa de Evo Morales obstruyen el paso de 300 camiones](https://www.elcomercio.com/actualidad/mundo/bloqueos-defensa-evo-morales-obstruyen-paso-300-camiones.html "Bloqueos en defensa de Evo Morales obstruyen el paso de 300 camiones ")
-
-En la sentencia, firmada por los magistrados Gonzalo Hurtado y René Espada, se determinó la validez de “todos los actos de ejecución incluido el Congreso Nacional Ordinario del MAS-IPSP llevado adelante en El Alto del **departamento de La Paz del 3 al 5 de mayo de 2024**“.
-
-Nuevo presidente del partido gobernante
----------------------------------------
-
-Esto supone el reconocimiento a la **elección del dirigente campesino Grover García** como nuevo presidente del partido gobernante.
-
-El congreso realizado en la **ciudad de El Alto por el bloque ‘arcista’,** los sectores afines a Arce, fue después de otro que llevó a cabo la facción ‘evista’, los leales a Morales, en octubre de 2023 en la localidad de Lauca Ñ, en el **Trópico de Cochabamba (centro),** el bastión político y sindical del expresidente.
-
-Arce y el vicepresidente del país, David Choquehuanca, no asistieron al congreso en el **Trópico** al considerar que las **organizaciones sociales** que conforman el MAS no estaban debidamente representadas.
-
-En el congreso ‘evista’ se **reeligió a Morales como líder del MAS** y lo proclamó como “candidato único” del partido gobernante para las elecciones presidenciales de 2025, aunque poco después el organismo electoral **declaró improcedente esa reunión** debido a que no se cumplieron algunos requisitos de la convocatoria.
-
-A partir de eso, el **Tribunal Supremo Electoral (TSE)** instó a ambos bloques del oficialismo a realizar un congreso en “consenso” para que sea validado, sin embargo eso no ocurrió.
-
-El bloque de Morales intentó en varias ocasiones llevar a cabo un congreso propio en el **Trópico de Cochabamba,** pero por la negativa del ente electoral a supervisarlas, esas reuniones terminaron como simples encuentros del partido.
-
-Pese a que el TSE insistió en que el congreso del MAS debía desarrollarse por mutuo acuerdo, los dirigentes del ala ‘arcista’ **activaron recursos legales** para conseguir que se reconociera el congreso realizado en El Alto.
-
-Los magistrados que validaron el congreso de los ‘arcistas’ son los mismos que hace unos días emitieron una sentencia para **aclarar que las autoridades electas en los poderes Legislativo, Ejecutivo y Judicial** tienen “el ejercicio de su periodo de mandato, únicamente por dos periodos, sean estos continuos o discontinuos sin posibilidad de ampliarse a un tercer mandato”.
-
-Ese fallo confirma una sentencia de diciembre de 2023 que sostiene que la reelección indefinida “no es un derecho humano” y que la misma se aplica en Bolivia por una única vez, sea de forma continua o discontinua.
-
-Esto afecta las intenciones de **Morales de ser candidato a la Presidencia nuevamente**, pues ya gobernó Bolivia en tres ocasiones (2006-2009, 2010-2014 y 2015-2019).
-
-Las pugnas por la candidatura presidencial y el control del MAS agravaron la división al interior del oficialismo, que viene desde finales de 2021 tras el **distanciamiento entre Morales y Arce.**
