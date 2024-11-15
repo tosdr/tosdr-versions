@@ -898,23 +898,23 @@ Start Now
 
 #### Set up your password to get started
 
-Business Email: \* 
+Business Email \* 
 
 Invalid Email
 
-First Name: \* 
+First Name \* 
 
 Invalid First Name
 
-Last Name: \* 
+Last Name \* 
 
 Invalid Last Name
 
-Phone Number: \* 
+Phone Number \* 
 
 Invalid Phone Number
 
-Password: \* 
+Password \* 
 
 Password
 
