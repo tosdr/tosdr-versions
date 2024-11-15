@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Jason A. Landau](https://cdn.returningveterans.org/images/honor/J_Landau_Navyphoto.JPG)  
+![Bert S. Adams](https://cdn.returningveterans.org/images/honor/Bert_Adams_copy_2.jpg)  
 
-**In Honor of Jason A. Landau**  
-United States Navy  
-Submitted by Belle Landau](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Bert S. Adams**  
+United States Army  
+Submitted by Beth Adams](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/14/24 - 7:34:31  
+Printed 11/15/24 - 1:15:40  
 © 2024 Returning Veterans Project
