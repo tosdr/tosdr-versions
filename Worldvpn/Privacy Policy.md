@@ -8,7 +8,8 @@
 * [Free Trial](https://worldvpn.net/free-trial)
 * Pricing
     
-    * [Shared VPN](https://worldvpn.net/pricing)
+    * [Pricing](https://worldvpn.net/pricing)
+    * [Shared VPN](https://worldvpn.net/shared-vpn)
     * [Dedicated VPN IP](https://worldvpn.net/dedicated-vpn-ip)
     * [Reseller Program](https://worldvpn.net/become-a-vpn-reseller)
     
@@ -56,7 +57,8 @@ By logging in to any WorldVPN service, you agree to the WorldVPN Terms of Servic
 
 ### Plans
 
-* [Shared VPN](https://worldvpn.net/pricing)
+* [Pricing](https://worldvpn.net/pricing)
+* [Shared VPN](https://worldvpn.net/shared-vpn)
 * [Dedicated VPN](https://worldvpn.net/dedicated-vpn-ip)
 * [VPN Reseller](https://worldvpn.net/become-a-vpn-reseller)
 
