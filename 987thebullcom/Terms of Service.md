@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:40pm |
-| Back Then Right NowTyler Hubbard<br><br>10:37pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:34pm |
-| Where It EndsBailey Zimmerman<br><br>10:22pm |
-| Pink SkiesZach Bryan<br><br>10:19pm |
+| Whatcha See Is Whatcha GetChris Janson<br><br>4:39am |
+| You Should Probably LeaveChris Stapleton<br><br>4:36am |
+| What IfsKane Brown Ft Lauren Alaina<br><br>4:32am |
+| Wind Up Missing YouTucker Wetmore<br><br>4:30am |
+| Bigger HousesDan Shay<br><br>4:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,17 +358,17 @@ State
 Featured Brands
 ---------------
 
-[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-News Talk • Eastern
+Top 40 • Pacific NW
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
 
-Sports • Midwest
+Top 40 • Eastern
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
