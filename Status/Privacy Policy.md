@@ -217,11 +217,9 @@ Manage your crypto easily and safely across multiple networks.
 
 ![](https://res.cloudinary.com/dhgck7ebz/image/upload/f_auto,c_limit,w_96,q_auto/Non%20Beta%20Release/Icons/01)
 
-Send, swap\* and bridge crypto
+Send, swap and bridge crypto
 
 All the features you have come to expect from your favorite crypto wallet.
-
-\*Only available with Status Desktop
 
 Buy crypto with a credit card or Apple Pay!
 
