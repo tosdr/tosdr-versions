@@ -30,16 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
+    *  [![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_360x203.jpg)](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c)
         
-        #### [Driver fleeing Thurston County traffic stop causes fatal crash, deputies say](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f) [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
+        #### [Aberdeen teen arrested after firing a gun around neighborhood and fleeing officers, police say](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c) [![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_360x203.jpg)](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c)
         
-        #### [Man killed in Tumwater after being struck by driver fleeing traffic stop, deputies say](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f) [![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_16x9.jpg) ![](https://media.king5.com/assets/KING/images/c19dacec-29bc-4e41-bed1-77a4de628a57/c19dacec-29bc-4e41-bed1-77a4de628a57_360x203.jpg)](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
+        #### [Teen fired gun in neighborhood and fled officers before arrest in Aberdeen, police say](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c)
+    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
-        #### [Driver who fled traffic stop causes fatal Thurston County crash, deputies say](https://www.king5.com/article/news/crime/driver-fleeing-thurston-traffic-stop-fatal-crash/281-7f7c4be3-1998-4ad8-9110-46fe0367af2f)
-    *  [![](https://media.king5.com/assets/KING/images/948dbcd9-a660-47e0-be26-4001ca527ab8/20241115T011443/948dbcd9-a660-47e0-be26-4001ca527ab8_16x9.jpg) ![](https://media.king5.com/assets/KING/images/948dbcd9-a660-47e0-be26-4001ca527ab8/20241115T011443/948dbcd9-a660-47e0-be26-4001ca527ab8_360x203.jpg)](https://www.king5.com/article/news/local/infrastructure/puget-sound-energy-upgrades-electrical-grid-in-vulnerable-community/281-873d494b-720e-40dc-9dd2-bd8f98dd8c3e)
-        
-        #### [Power to the people: PSE upgrades electrical grid in vulnerable community](https://www.king5.com/article/news/local/infrastructure/puget-sound-energy-upgrades-electrical-grid-in-vulnerable-community/281-873d494b-720e-40dc-9dd2-bd8f98dd8c3e)
+        #### [Winter Storm Watch in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -59,13 +57,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
+        #### [Winter Storm Watch in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
     *  [![](https://media.king5.com/assets/KING/images/ce08f110-7497-427e-824d-da003a8ae389/20241115T131144/ce08f110-7497-427e-824d-da003a8ae389_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce08f110-7497-427e-824d-da003a8ae389/20241115T131144/ce08f110-7497-427e-824d-da003a8ae389_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-    *  [![](https://media.king5.com/assets/KING/images/e31b760e-5d3c-4123-8b8e-22a8ea36014e/e31b760e-5d3c-4123-8b8e-22a8ea36014e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e31b760e-5d3c-4123-8b8e-22a8ea36014e/e31b760e-5d3c-4123-8b8e-22a8ea36014e_360x203.jpg)](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
-        
-        #### [Winter Storm Warning issued for the North Cascades](https://www.king5.com/article/weather/western-washington-storm-high-winds-rain-mountain-snow/281-8b38a456-b9a0-4330-9438-9d089493f96e)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -97,9 +95,9 @@ Navigation
 
 Seattle, WA »
 
-44°
+49°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
