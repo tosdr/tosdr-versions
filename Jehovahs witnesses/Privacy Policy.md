@@ -232,6 +232,8 @@ https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/syn\_placeholder
 
 * [Angola](https://www.jw.org/open?docid=1014955&prefer=content)
     
+* [Argentina](https://www.jw.org/open?docid=1014965&prefer=content)
+    
 * [Austria](https://www.jw.org/open?docid=1014910&prefer=content)
     
 * [Belgium](https://www.jw.org/open?docid=1014911&prefer=content)
@@ -323,6 +325,8 @@ https://assetsnffrgf-a.akamaihd.net/assets/ct/1add6d1d93/images/syn\_placeholder
 * [Uganda](https://www.jw.org/open?docid=1014959&prefer=content)
     
 * [United Kingdom](https://www.jw.org/open?docid=1014941&prefer=content)
+    
+* [Uruguay](https://www.jw.org/open?docid=1014966&prefer=content)
     
 * [Wallis and Futuna Islands](https://www.jw.org/open?docid=1014950&prefer=content)
     
