@@ -87,9 +87,9 @@ Most Read
     
     1. [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
     
-2. 2. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
+2. 2. [After working with a dual-screen portable monitor for a month, I’m a believer](https://arstechnica.com/gadgets/2024/11/after-working-with-a-dual-screen-portable-monitor-for-a-month-im-a-believer/)
     
-3. 3. [After working with a dual-screen portable monitor for a month, I’m a believer](https://arstechnica.com/gadgets/2024/11/after-working-with-a-dual-screen-portable-monitor-for-a-month-im-a-believer/)
+3. 3. [Tesla is recalling 2,431 Cybertrucks, and this time there’s no software fix](https://arstechnica.com/cars/2024/11/tesla-recalls-cybertrucks-for-faulty-inverter-the-6th-recall-this-year/)
     
 4. 4. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
     
