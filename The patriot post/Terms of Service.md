@@ -1,10 +1,10 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Did you know?** _The Patriot Post_ is funded 100% by its readers. Help us stay front and center in the fight for Liberty and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us).
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_3&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/111982-mid-day-digest-2024-11-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112025-mid-day-digest-2024-11-15?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,32 +189,35 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/111982-mid-day-digest-2024-11-14?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112025-mid-day-digest-2024-11-15?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111954-arrogance-2024-11-14)
+     [](https://patriotpost.us/memes/111986-historic-2024-11-15)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34508)
+     [](https://patriotpost.us/cartoons/34519)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Larry Elder Election 2024: Not So Random Thoughts](https://patriotpost.us/opinion/111972-election-2024-not-so-random-thoughts-2024-11-14)
-*      [Laura Hollis Hey, Democrats — It’s Your Policies](https://patriotpost.us/opinion/111970-hey-democrats-its-your-policies-2024-11-14)
-*      [Ann Coulter Trump’s Magnificent Beginning](https://patriotpost.us/opinion/111968-trumps-magnificent-beginning-2024-11-14)
-*      [Armstrong Williams Why Are We Ignoring the American Hostages in Gaza?](https://patriotpost.us/opinion/111967-why-are-we-ignoring-the-american-hostages-in-gaza-2024-11-14)
-*      [Gary Bauer Trump Returns](https://patriotpost.us/opinion/111966-trump-returns-2024-11-14)
-*      [Ben Shapiro The Trump Doctrine](https://patriotpost.us/opinion/111964-the-trump-doctrine-2024-11-14)
-*      [Cal Thomas Trump’s Chance to Change Taxation](https://patriotpost.us/opinion/111963-trumps-chance-to-change-taxation-2024-11-14)
-*      [Allen West Things That Make You Go Hmm…](https://patriotpost.us/opinion/111962-things-that-make-you-go-hmm-dot-dot-dot-2024-11-14)
+*      [Gary Bauer Smiles & Fires](https://patriotpost.us/opinion/112012-smiles-and-fires-2024-11-15)
+*      [David Harsanyi A Lesson for Democrats — Don’t Be Weird](https://patriotpost.us/opinion/112011-a-lesson-for-democrats-dont-be-weird-2024-11-15)
+*      [Michael Barone The Democratic Gerontocracy Forgets the Lessons of Its Youth and Maturity](https://patriotpost.us/opinion/112010-the-democratic-gerontocracy-forgets-the-lessons-of-its-youth-and-maturity-2024-11-15)
+*      [Victor Davis Hanson Restoring Deterrence Will Prevent Endless Wars](https://patriotpost.us/opinion/112008-restoring-deterrence-will-prevent-endless-wars-2024-11-15)
+*      [Erick Erickson Dear Democrats](https://patriotpost.us/opinion/112006-dear-democrats-2024-11-15)
+*      [Josh Hammer Donald Trump Is Set to Make MAGA America’s Defining Political Movement](https://patriotpost.us/opinion/112005-donald-trump-is-set-to-make-maga-americas-defining-political-movement-2024-11-15)
+*      [Tim Graham Brian Stelter Explores Media Cluelessness](https://patriotpost.us/opinion/112004-brian-stelter-explores-media-cluelessness-2024-11-15)
+*      [Michael Reagan Democracy Outvoted the Democrats](https://patriotpost.us/opinion/112002-democracy-outvoted-the-democrats-2024-11-15)
+*      [Mark Alexander Profiles of Valor: COL Michael Waltz](https://patriotpost.us/alexander/111984-profiles-of-valor-col-michael-waltz-2024-11-15)
+*      [The Washington Stand The Art of Getting It Wrong](https://patriotpost.us/opinion/112023-the-art-of-getting-it-wrong-2024-11-15)
+*      [The Babylon Bee DOGE Identifies 535 Government Workers Who Haven’t Done Any Work for Years](https://patriotpost.us/opinion/112000-doge-identifies-535-government-workers-who-havent-done-any-work-for-years-2024-11-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,13 +231,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01J5RS2YKRTNS1580CS7YVV0SF.jpeg)
-
-![](https://img.patriotpost.us/01J5RSAEYEKZ8DRMMYMBSNCWNH.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The aim of every political constitution is, or ought to be, first to obtain for rulers men who possess most wisdom to discern, and most virtue to pursue, the common good of the society; and in the next place, to take the most effectual precautions for keeping them virtuous whilst they continue to hold their public trust.” —James Madison (1788)
+“The steady character of our countrymen is a rock to which we may safely moor; and notwithstanding the efforts of the papers to disseminate early discontents, I expect that a just, dispassionate and steady conduct, will at length rally to a proper system the great body of our country. Unequivocal in principle, reasonable in manner, we shall be able I hope to do a great deal of good to the cause of freedom & harmony.” —Thomas Jefferson (1801)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
