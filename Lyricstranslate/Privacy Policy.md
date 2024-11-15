@@ -107,69 +107,65 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Anna Saibel](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636936-1731476806.png)](https://lyricstranslate.com/en/translator/anna-saibel "Anna Saibel")
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
-New request
+New comment
 
-[Eden Ben Zaken - יאסו (Yaso)](https://lyricstranslate.com/en/request/%D7%99%D7%90%D7%A1%D7%95-0)
+A pleasure is mine.. Hebrew songs are like friends  [more](https://lyricstranslate.com/en/comment/1176228#comment-1176228)
 
-Hebrew → Russian
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
 
-[![GoldenTree](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1554633-1669659478.jpg)](https://lyricstranslate.com/en/translator/goldentree "GoldenTree")
+Transcription request fulfilled
+
+[Quelques minutes de publicité](https://lyricstranslate.com/en/marlene-jobert-quelques-minutes-de-publi-lyrics)
+
+French
+
+[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
+
+New song
+
+[Marlène Jobert - Quelques minutes de publicité](https://lyricstranslate.com/en/marlene-jobert-quelques-minutes-de-publi-lyrics)
+
+French
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
 New translation
 
-[Josie Katz - אני סולחת (Ani solachat)](https://lyricstranslate.com/en/josie-katz-ani-solachat-english)
+[Damien Jurado - Sheets](https://lyricstranslate.com/en/damien-jurado-sheets-japanese)
 
-Hebrew → English
+English → Japanese
 
-[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
+[![Mgielka](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1493621-1616014740.jpg)](https://lyricstranslate.com/en/translator/mgielka "Mgielka")
 
 New song
 
-[Dorian (Spain) - Universal](https://lyricstranslate.com/en/dorian-spain-universal-lyrics)
+[Vincent Gross - Du träumst nur](https://lyricstranslate.com/en/vincent-gross-du-traumst-nur-lyrics)
 
-Catalan
+German
 
-[![Anja Post](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636934-1731475898.png)](https://lyricstranslate.com/en/translator/anja-post "Anja Post")
+[![Servant Captain](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636343-1731031301.png)](https://lyricstranslate.com/en/translator/servant-captain "Servant Captain")
+
+New comment
+
+Thankkkk youuuuu veryyyy muchhhh for thisssss!   [more](https://lyricstranslate.com/en/comment/1176226#comment-1176226)
+
+[![birkışakşamı](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626001-1731410912.jpg)](https://lyricstranslate.com/en/translator/birk%C4%B1%C5%9Fak%C5%9Fam%C4%B1 "birkışakşamı")
 
 New request
 
-[Oscar Harris - Try a Little Love](https://lyricstranslate.com/en/request/try-little-love)
+[ATEEZ - Ice On My Teeth](https://lyricstranslate.com/en/request/ice-my-teeth)
 
-English → Dutch
+English → Turkish
 
-[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
+[![Mladen Racic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1584085-1690521459.jpg)](https://lyricstranslate.com/en/translator/mladen-racic "Mladen Racic")
 
-New song
+New translation
 
-[Dorian (Spain) - Dual](https://lyricstranslate.com/en/dorian-spain-dual-lyrics)
+[The Human League - Louise](https://lyricstranslate.com/en/human-league-louise-serbian)
 
-Spanish
-
-[![BlackRyder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1429942-1641186576.png)](https://lyricstranslate.com/en/translator/blackryder "BlackRyder")
-
-New song
-
-[Dorian (Spain) - Techos de cristal](https://lyricstranslate.com/en/dorian-spain-techos-de-cristal-lyrics)
-
-Spanish
-
-[![Joe Váradi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1567095-1679779584.jpg)](https://lyricstranslate.com/en/translator/joe-v%C3%A1radi "Joe Váradi")
-
-New song
-
-[Endre Kukorelly - Elszánt legyek](https://lyricstranslate.com/en/endre-kukorelly-elszant-legyek-lyrics)
-
-Hungarian
-
-[![Ignoringtornadowarnings](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1585040-1689370520.jpg)](https://lyricstranslate.com/en/translator/ignoringtornadowarnings "Ignoringtornadowarnings")
-
-New request
-
-[MILLI - สาธุ (Saa-Tuu)](https://lyricstranslate.com/en/request/%E0%B8%AA%E0%B8%B2%E0%B8%98%E0%B8%B8)
-
-Thai → Russian
+English → Serbian
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
