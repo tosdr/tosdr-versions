@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-max-sheika-feature.jpg)
+
+[](https://theinspirationgrid.com/drim-a-fascinating-sculpture-by-max-sheika/)
+
+### DRIM: A Fascinating Sculpture by Max Sheika
+
+![](https://inspgr.id/app/uploads/2024/11/packaging-jacomy-mayne-feature.jpg)
+
+[](https://theinspirationgrid.com/eye-catching-packaging-design-by-jacomy-mayne/)
+
+### Eye-Catching Packaging Design by Jacomy & Mayne
+
 ![](https://inspgr.id/app/uploads/2024/11/3d-puffy-numbers-feature.jpg)
 
 [](https://theinspirationgrid.com/puffy-numbers-3d-type-series-by-tavo/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/me-myself-and-i-sculptural-self-portraits-by-chris-labrooy/)
 
 ### Me, Myself and I: Sculptural Self-Portraits by Chris Labrooy
-
-![](https://inspgr.id/app/uploads/2024/11/design-beatles-toys-feature.jpg)
-
-[](https://theinspirationgrid.com/the-beatles-art-toys-by-collectable-cities/)
-
-### The Beatles Art Toys by Collectable Cities
-
-![](https://inspgr.id/app/uploads/2024/11/illustration-paykhan-feature.jpg)
-
-[](https://theinspirationgrid.com/amazing-illustrations-by-paykhan/)
-
-### Amazing Illustrations by Paykhan
 
 Awesome products for creatives
 ------------------------------
