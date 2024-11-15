@@ -115,15 +115,15 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Pete-Hegseth-Fox-News-Modern-Warrior-veterans-day-special.jpg)](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
+    
+    [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
+    
+    November 14, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Chuck-Schumer-and-Nancy-Pelosi.jpg)](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
     
     [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
-    
-    November 12, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2020/04/Gavin-Newsom-3.jpg)](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
-    
-    [RV Sales and Registration to Be Banned Across Six States As California Climate Rules Take Effect](https://www.conservativedailynews.com/2024/11/rv-sales-and-registration-to-be-banned-across-six-states-as-california-climate-rules-take-effect/)
     
     November 12, 2024
     
@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
-* [Software Development Goes Full Brown Shirt On 3D Printing](https://www.thegunpage.com/software-development-goes-full-brown-shirt-on-3d-printing/10611865)
-* [Litzie Leads Way For Team USA At 2024 IPSC Rifle World Shoot In Finland](https://www.thegunpage.com/litzie-leads-way-for-team-usa-at-2024-ipsc-rifle-world-shoot-in-finland/10611864)
-* [Wheelgun Wednesday: Smith & Wesson Model 20 .357 Magnum](https://www.thegunpage.com/wheelgun-wednesday-smith-wesson-model-20-357-magnum/10611863)
-* [The Best 1911 Chambered in .45 ACP](https://www.thegunpage.com/the-best-1911-chambered-in-45-acp/10611860)
-* [POTD: Suppressed Tikka T3x In Spuhr SICS Chassis](https://www.thegunpage.com/potd-suppressed-tikka-t3x-in-spuhr-sics-chassis/10611861)
-* [GOA, GOF, TFA Sue City of Memphis for Violating Tennessee Preemption Law](https://www.thegunpage.com/goa-gof-tfa-sue-city-of-memphis-for-violating-tennessee-preemption-law/10611859)
-* [C&H Precision Slide Milling Service & Duty Optic Review](https://www.thegunpage.com/ch-precision-slide-milling-service-duty-optic-review/10611856)
-* [Nosler M21 Carbon Limited Edition Rifle](https://www.thegunpage.com/nosler-m21-carbon-limited-edition-rifle/10611854)
-* [Nocpix ACE – New Flagship Thermal Rifle Scope Line](https://www.thegunpage.com/nocpix-ace-new-flagship-thermal-rifle-scope-line/10611855)
-* [Trump’s To-Do List: How He Can Restore Justice in His First Days](https://www.thegunpage.com/trumps-to-do-list-how-he-can-restore-justice-in-his-first-days/10611850)
+* [HIT THE MARK, NOT YOUR WALLET: Strikeman’s Black Friday Deal is the Perfect Gift for Every Shooter](https://www.thegunpage.com/hit-the-mark-not-your-wallet-strikemans-black-friday-deal-is-the-perfect-gift-for-every-shooter/10611887)
+* [All American Hunters Win as Ban Against Mountain Lion Hunting in Colorado Fails!](https://www.thegunpage.com/all-american-hunters-win-as-ban-against-mountain-lion-hunting-in-colorado-fails/10611886)
+* [SK Customs Introduces The Saints Series “Santa Muerte”](https://www.thegunpage.com/sk-customs-introduces-the-saints-series-santa-muerte/10611885)  
+* [Wyoming Duck Hunter Says Fatal Shooting Was Accident](https://www.thegunpage.com/wyoming-duck-hunter-says-fatal-shooting-was-accident/10611883)
+* [Silent Steel Gen 3 Flow Streamer Suppressors](https://www.thegunpage.com/silent-steel-gen-3-flow-streamer-suppressors/10611881)
+* [Hornady’s .338 ARC Cartridge Designed For ‘Reliable Cycling With Both Supersonic And Subsonic Loads’](https://www.thegunpage.com/hornadys-338-arc-cartridge-designed-for-reliable-cycling-with-both-supersonic-and-subsonic-loads/10611888)
+* [Q&A: How an Illinois Legal Case Can Help the Gun Cause in California](https://www.thegunpage.com/qa-how-an-illinois-legal-case-can-help-the-gun-cause-in-california/10611879)
+* [Matt Gaetz may scare Democrats more than President-elect Trump](https://www.thegunpage.com/matt-gaetz-may-scare-democrats-more-than-president-elect-trump/10611872)
+* [Sweden & Finland Sign Agreement For Aimpoint Sights & Senop Optronics](https://www.thegunpage.com/sweden-finland-sign-agreement-for-aimpoint-sights-senop-optronics/10611882)
+* [NOT GUILTY: But the Baltimore Legal System Tried in Self-Defense Case](https://www.thegunpage.com/not-guilty-but-the-baltimore-legal-system-tried-in-self-defense-case/10611868)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/#comment-783214)
 * Deb on [Cleaning House](https://www.conservativedailynews.com/2024/11/cleaning-house-2/#comment-783201)
 * Stanley Warner on [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/#comment-783198)
 * [Lisa](http://conservativedailynews.com/) on [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/#comment-783186)
@@ -240,7 +241,6 @@ Recent Comments
 * KayCee on [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/#comment-783149)
 * David Criss on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783148)
 * Beverly Sellers on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783146)
-* Jeff L. on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783141)
 
 [Close](#)
 
