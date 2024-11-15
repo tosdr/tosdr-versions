@@ -74,11 +74,11 @@ Any rights not expressly granted herein are reserved.
 
 ### From the Blog
 
-#### [Online forms explained: FAQs and insights into Hush™ Secure Forms](https://blog.hushmail.com/blog/hipaa-faqs/)
+#### [VPNs and HIPAA compliance for small healthcare practices](https://blog.hushmail.com/blog/vpn-hipaa/)
 
-Published on October 21, 2024
+Published on November 15, 2024
 
-Read this guide for answers to all your questions on using online forms in a small healthcare practice. [Read more.](https://blog.hushmail.com/blog/hipaa-faqs/)
+If you access work emails using public Wi-Fi, you could be putting your practice at risk of a privacy breach. Using a VPN can help. Find out how. [Read more.](https://blog.hushmail.com/blog/vpn-hipaa/)
 
 [Hushmail](https://www.hushmail.com/)[](https://apps.apple.com/app/hushmail/id1008495364)
 
@@ -133,7 +133,7 @@ Copyright © 1999-2024 Hush Communications Canada Inc.
 
 [](#)[](#)[Hide](# "Hide this notice")
 
-![](https://hushforms.com/visitorid?visitorid=2469F05F84EACF52CCC09E298D8CE60C)
+![](https://hushforms.com/visitorid?visitorid=5F98E4B4576960065BE67EEDF4F8D2F6)
 
 We use cookies to deliver the best possible experience on our website. To learn more, visit our [Privacy Policy](https://www.hushmail.com/privacy/). By continuing to use this site, or closing this box, you consent to our use of cookies.
 
