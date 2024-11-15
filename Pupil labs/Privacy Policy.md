@@ -14,15 +14,15 @@ Blog
 
 [](https://pupil-labs.com/legal/)
 
-[Products](https://pupil-labs.com/legal/products)
+Products
 
-[Learn](https://docs.pupil-labs.com/)
+Learn
 
-[About](https://pupil-labs.com/legal/about)
+About
 
-[Careers](https://pupil-labs.com/legal/careers)
+Careers
 
-[Blog](https://pupil-labs.com/legal/blog)
+Blog
 
 [](https://pupil-labs.com/legal/cart)
 
