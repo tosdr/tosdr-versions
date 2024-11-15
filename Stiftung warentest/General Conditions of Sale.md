@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
-* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
-* [Verpackungs­ärger: Toblerone](https://www.test.de/Verpackungsaerger-Toblerone-6105751-0/ "Verpackungsärger - Toblerone")
-* [Ozempic, Wegovy, Mounjaro: Das steckt hinter dem Hype um die Abnehm­spritzen](https://www.test.de/Ozempic-und-Wegovy-Abnehm-Spritze-gibts-nur-auf-Rezept-5987253-0/ "Ozempic, Wegovy, Mounjaro - Das steckt hinter dem Hype um die Abnehmspritzen")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
+* [Krypto-Währungen: In vier Schritten Krypto-Broker einrichten](https://www.test.de/Krypto-Waehrungen-Krypto-Broker-einrichten-in-vier-Schritten-6159811-0/ "Krypto-Währungen - In vier Schritten Krypto-Broker einrichten")
+* [Hilferuf per Satellit: iPhones funken jetzt ins Welt­all](https://www.test.de/Neue-iPhone-Funktion-Hilferuf-per-Satellit-5952479-0/ "Hilferuf per Satellit - iPhones funken jetzt ins Weltall")
+* [ETF-Sonder­heft: Fonds­liste zur Komplettierung](https://www.test.de/ETF-Sonderheft-Fondsliste-zur-Komplettierung-6065383-0/ "ETF-Sonderheft - Fondsliste zur Komplettierung")
+* [Dubiose Anleger­anwälte: Komplexe Vereinbarungen und unrealistische Szenarien](https://www.test.de/Dubiose-Anlegeranwaelte-Komplexe-Vereinbarungen-und-unrealistische-Szenarien-6133882-0/ "Dubiose Anlegeranwälte - Komplexe Vereinbarungen und unrealistische Szenarien")
+* [Abwehr­kräfte stärken: So machen Sie Ihr Immun­system fit](https://www.test.de/Immunsystem-Fruehjahrskur-fuer-die-Abwehrkraefte-5966017-0/ "Abwehrkräfte stärken - So machen Sie Ihr Immunsystem fit")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
 
 Service Stiftung Warentest
 
