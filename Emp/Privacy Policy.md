@@ -152,13 +152,11 @@ Ok](https://www.emp-online.com/home?forceThisShop=1)
 
 Katalog durchsuchen  löschen Packstation suchen
 
-[](https://www.emp.de/bekleidung/?pmid=SAM-2957_25_ab_100_EUR)
+[](https://www.emp.de/search?cgid=root&cmid=BLACK_WEEK "Sei schnell!")
 
-Eiszeit im Geldbeutel?
++++ Ständig wechselnde Angebote! +++
 
-Nicht mit 25 € Rabatt!
-
-[Schlag zu!](https://www.emp.de/bekleidung/?pmid=SAM-2957_25_ab_100_EUR "Schlag zu!") Code **SAVE25** kopieren
+[Sei schnell!](https://www.emp.de/search?cgid=root&cmid=BLACK_WEEK "Sei schnell!")
 
 Die Javascript-Funktion Ihres Browsers ist deaktiviert.
 
@@ -493,7 +491,7 @@ Anmelden
 
 Unser Kundenservice ist für dich da
 
-Ja, unser Kundenservice ist heute wieder erreichbar von 08:00 Uhr bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
+Ja, unser Kundenservice ist heute erreichbar bis 18:00 Uhr. [Mehr Infos](https://www.emp.de/kontakt)
 
 Live-Chat starten
 
