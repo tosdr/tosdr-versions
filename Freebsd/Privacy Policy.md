@@ -39,7 +39,6 @@
 * [Developers](https://www.freebsd.org/projects/)
     * [Project Ideas](https://wiki.freebsd.org/IdeasPage)
     * [Git Repository](https://cgit.freebsd.org/)
-    * [Subversion Repository](https://svnweb.freebsd.org/)
     * [GitHub Mirror](https://github.com/freebsd)
     * [Code Review (Phabricator)](https://reviews.freebsd.org/)
     * [Wiki](https://wiki.freebsd.org/)
