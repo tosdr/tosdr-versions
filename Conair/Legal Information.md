@@ -142,6 +142,7 @@ https://www.conair.com/cart?lang=en\_US
         * [Rectangle and Square](https://www.conair.com/rectangle-square?lang=en_US)
         * [Rechargeable](https://www.conair.com/mirror-rechargeable?lang=en_US)
         * [Accessory Spot](https://www.conair.com/accessory-spot?lang=en_US)
+        * [Replacement Bulbs](https://www.conair.com/replacement-bulbs?lang=en_US)
     
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
         
@@ -258,6 +259,7 @@ https://www.conair.com/cart?lang=en\_US
         * [Rectangle and Square](https://www.conair.com/rectangle-square?lang=en_US)
         * [Rechargeable](https://www.conair.com/mirror-rechargeable?lang=en_US)
         * [Accessory Spot](https://www.conair.com/accessory-spot?lang=en_US)
+        * [Replacement Bulbs](https://www.conair.com/replacement-bulbs?lang=en_US)
         
         [![](/on/demandware.static/Sites-us-conair-sfra-Site/-/default/dw508f134b/images/arrow-expand.svg)](https://www.conair.com/mirrors?lang=en_US)
     * [Womens Grooming](https://www.conair.com/s/us-conair-sfra/conairwomen.html?lang=en_US)
