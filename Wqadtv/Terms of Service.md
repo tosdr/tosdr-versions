@@ -30,14 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc/fdb48844-d4f0-4e77-a7b9-ce69c56dbafc_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-couple-plead-guilty-stealing-170000-dollars-relative/526-c5f38eb7-1662-49a7-ab92-1b58af3900aa)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
         
-        #### [Davenport couple pleads guilty to stealing more than $170,000 from relative](https://www.wqad.com/article/news/crime/davenport-couple-plead-guilty-stealing-170000-dollars-relative/526-c5f38eb7-1662-49a7-ab92-1b58af3900aa)
+        #### [School officials cut ribbon on expansion to Davenport West High School athletics center](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b) [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
         
-    *  [![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_16x9.jpg) ![](https://media.tegna-media.com/assets/WVEC/images/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff/cbad1f83-b8e5-4a0c-9ab8-c37311f68cff_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
+        #### [Davenport West High School has a new athletic wing](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b) [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
         
-        #### [12-year-old detained after making fake bomb threat at Moline Taco Bell, police say](https://www.wqad.com/article/news/local/public-safety/bomb-threat-taco-bell-avenue-of-the-cities-fake-moline-illinois/526-245e924d-e19d-4333-b88a-757a65d87613)
+        #### [Take a look inside the new athletics wing at West High School in Davenport](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_360x203.jpg)](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
         
+        #### [QC boxers feeling the hype around upcoming match between Jake Paul and Mike Tyson](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07) [![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/bc32290c-01af-4e0e-abca-02e2fdef1bee/20241115T034352/bc32290c-01af-4e0e-abca-02e2fdef1bee_360x203.jpg)](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
+        
+        #### [Excitement about Mike Tyson's boxing match against Jake Paul is building among QC boxers](https://www.wqad.com/article/news/local/qc-boxers-discuss-jake-paul-mike-tyson-fight/526-0c365cb8-6495-465e-840d-56312c821b07)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,7 +60,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c8c0afa8-25c5-4f9f-a587-a64b93c2932b/20241114T222811/c8c0afa8-25c5-4f9f-a587-a64b93c2932b_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c8c0afa8-25c5-4f9f-a587-a64b93c2932b/20241114T222811/c8c0afa8-25c5-4f9f-a587-a64b93c2932b_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f/20241115T043222/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f/20241115T043222/e3842db2-c5f6-49ba-95cf-54d6b0c9a89f_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
         #### [Clouds to stick around for the rest of the night](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
@@ -86,7 +90,7 @@ Navigation
 
 Davenport, IA »
 
-46°
+45°
 
 ![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
