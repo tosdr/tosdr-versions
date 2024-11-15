@@ -266,13 +266,6 @@ Most Popular
 [Throwback Thursday: Partytime out and about in Sugar Nightclub and Strand Bar (2007)](https://www.derrynow.com/story-telling/pictures---videos/1652964/throwback-thursday-partytime-out-and-about-in-sugar-nightclub-and-strand-bar-2007.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Thursday, November 14, 2024](https://www.derrynow.com/news/deaths/1654906/derry-death-notices-thursday-november-14-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Probation for man charged with possessing over 300 indecent images](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Probation for man charged with possessing over 300 indecent images")](https://www.derrynow.com/news/local-news/1655723/probation-for-man-charged-with-possessing-over-300-indecent-images.html)
 
 Derry courthouse
@@ -325,6 +318,22 @@ Derry courthouse
 [Man who ran up ‘significant debts’ to drug dealers was prevailed upon to sell cannabis - court told](https://www.derrynow.com/news/local-news/1655809/man-who-ran-up-significant-debts-to-drug-dealers-was-prevailed-upon-to-sell-cannabis-court-told.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Urgent talks sought over Derry postal delays](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Urgent talks sought over Derry postal delays")](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Urgent talks sought over Derry postal delays](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![‘Patrick’s loss affected us’ - Derry defender Shane McEleney](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "‘Patrick’s loss affected us’ - Derry defender Shane McEleney")](https://www.derrynow.com/news/derry-sport/1655801/patricks-loss-affected-us-derry-defender-shane-mceleney.html)
+
+Shane McEleney in action during Sunday’s FAI Cup final. (Photo: Ben McShane/Sportsfile)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[‘Patrick’s loss affected us’ - Derry defender Shane McEleney](https://www.derrynow.com/news/derry-sport/1655801/patricks-loss-affected-us-derry-defender-shane-mceleney.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man arrested in connection with drug-related offences charged to Derry court](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man arrested in connection with drug-related offences charged to Derry court")](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
 
 PSNI
@@ -333,13 +342,6 @@ PSNI
 
 [Man arrested in connection with drug-related offences charged to Derry court](https://www.derrynow.com/news/local-news/1655483/man-arrested-in-connection-with-drug-related-offences-charged-to-derry-court.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Urgent talks sought over Derry postal delays](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Urgent talks sought over Derry postal delays")](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Urgent talks sought over Derry postal delays](https://www.derrynow.com/news/local-news/1655695/urgent-talks-sought-over-derry-postal-delays.html)
---------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -523,7 +525,23 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Young Derry author’s debut novel sounds warning about THC dangers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Young Derry author’s debut novel sounds warning about THC dangers")](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
+[![NI Water empowers Derry students with real-world industry experience](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Water empowers Derry students with real-world industry experience")](https://www.derrynow.com/news/local-news/1655951/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
+
+Ava Norris Thornhill College, Rebecca Allen, Catchment Officer at NI Water from Limavady and Aoife Doherty Thornhill College.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NI Water empowers Derry students with real-world industry experience](https://www.derrynow.com/news/local-news/1655951/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1656146/derry-death-notices-friday-november-15-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Friday, November 15, 2024](https://www.derrynow.com/news/deaths/1656146/derry-death-notices-friday-november-15-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Young Derry author’s debut novel sounds warning about THC dangers](https://www.derrynow.com/resizer/165/93/true/2024_11_14/IDNT_14-11-24_Conghaile_McLaughlin-1731582592014.jpg--.jpg?1731582592523 "Young Derry author’s debut novel sounds warning about THC dangers")](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
 
 Conghaile McLaughlin with a copy of his book, 'The Joys of Humanity'.
 
@@ -532,7 +550,7 @@ Conghaile McLaughlin with a copy of his book, 'The Joys of Humanity'.
 [Young Derry author’s debut novel sounds warning about THC dangers](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![NI Water empowers Derry students with real-world industry experience](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NI Water empowers Derry students with real-world industry experience")](https://www.derrynow.com/news/home/1656074/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
+[![NI Water empowers Derry students with real-world industry experience](https://www.derrynow.com/resizer/165/93/true/2024_11_14/Derry_Students_-1731601990936.jpg--.jpg?1731601991656 "NI Water empowers Derry students with real-world industry experience")](https://www.derrynow.com/news/home/1656074/ni-water-empowers-derry-students-with-real-world-industry-experience.html)
 
 Ava Norris Thornhill College, Rebecca Allen, Catchment Officer at NI Water from Limavady and Aoife Doherty Thornhill College.
 
@@ -556,22 +574,6 @@ Joanne Honeyford, Community Engagement Officer, with WW1 historian Alistair Harp
 
 [Santa’s Grotto returns to The Richmond Centre this Saturday!](https://www.derrynow.com/news/local-news/1655971/santas-grotto-returns-to-the-richmond-centre-this-saturday.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![NWRC tiling trainee to compete in SkillBuild National Finals in Milton Keynes](https://www.derrynow.com/resizer/165/93/true/2024_11_14/MixCollage-14-Nov-2024-11-22-AM-4668-1731583348534.jpg--.jpg?1731583348581 "NWRC tiling trainee to compete in SkillBuild National Finals in Milton Keynes")](https://www.derrynow.com/news/local-news/1655689/nwrc-tiling-trainee-to-compete-in-skillbuild-national-finals-in-milton-keynes.html)
-
-Rebecca Gavigan is presented with a NWRC hoodie by Senior Marketing and PR Officer Erin Hutcheon.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NWRC tiling trainee to compete in SkillBuild National Finals in Milton Keynes](https://www.derrynow.com/news/local-news/1655689/nwrc-tiling-trainee-to-compete-in-skillbuild-national-finals-in-milton-keynes.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Stormont department will not be prosecuted over Noah Donohoe death, court told](https://www.derrynow.com/resizer/165/93/true/pa/2024_11_14/1731593105368_0_1731604688.jpg--.jpg?1731604688570 "Stormont department will not be prosecuted over Noah Donohoe death, court told")](https://www.derrynow.com/news/local-news/1656115/stormont-department-will-not-be-prosecuted-over-noah-donohoe-death-court-told.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Stormont department will not be prosecuted over Noah Donohoe death, court told](https://www.derrynow.com/news/local-news/1656115/stormont-department-will-not-be-prosecuted-over-noah-donohoe-death-court-told.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
