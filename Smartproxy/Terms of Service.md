@@ -174,13 +174,13 @@ Boost your privacy, access blocked sites, and browse seamlessly online.](https:/
 
 WHAT'S NEW
 
-![](https://images.smartproxy.com/knowledge_Hub_c0bfdd889d/knowledge_Hub_c0bfdd889d.svg)
+![](https://images.smartproxy.com/ecommerce_index_white_631c28ae0d/ecommerce_index_white_631c28ae0d.svg)
 
-Smartproxy Knowledge Hub
+eCommerce Maturity Index
 
-Advanced scraping tutorials, proxy setup and integration guides.
+Industry-first report on user experience and dynamic pricing techniques.
 
-[Explore](https://smartproxy.com/devs)
+[Explore](https://smartproxy.com/ecommerce)
 
 Resources
 
