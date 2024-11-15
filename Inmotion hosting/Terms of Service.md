@@ -76,6 +76,8 @@ Close Menu Main Menu
 
 [Trust Center](https://www.inmotionhosting.com/legal)
 
+Your Trust, Our Priority: Transparent Terms, Clear Commitments
+
 Welcome to the InMotion Hosting Trust Center
 --------------------------------------------
 
@@ -202,7 +204,7 @@ Follow Us
 
 2020-2024 © InMotion Hosting, Inc., All Rights Reserved.
 
-[Terms of Service](https://www.inmotionhosting.com/legal/) | [Privacy Policy](https://www.inmotionhosting.com/privacy/) | [DPA](https://www.inmotionhosting.com/privacy/dpa/) | [Accessibility Statement](https://www.inmotionhosting.com/legal/accessibility-statement/) | [Legal Inquiries](https://www.inmotionhosting.com/legal/legal-inquiries/)  
+[Terms of Service](https://www.inmotionhosting.com/legal/universal-terms-of-service/) | [Privacy Policy](https://www.inmotionhosting.com/privacy/) | [DPA](https://www.inmotionhosting.com/privacy/dpa/) | [Accessibility Statement](https://www.inmotionhosting.com/legal/accessibility-statement/) | [Legal Inquiries](https://www.inmotionhosting.com/legal/legal-inquiries/)  
 [Do Not Sell My Personal Information](https://www.inmotionhosting.com/privacy/do-not-sell-my-personal-information/) | [Limit Use of My Sensitive Personal Information](https://www.inmotionhosting.com/privacy/limit-use-and-disclosure-of-sensitive-personal-information/)
 
-By using this website or chat features, you signify that you agree to be bound by these [Universal Terms of Service](https://www.inmotionhosting.com/legal/)
+By using this website or chat features, you signify that you agree to be bound by these [Universal Terms of Service](https://www.inmotionhosting.com/legal/universal-terms-of-service/)
