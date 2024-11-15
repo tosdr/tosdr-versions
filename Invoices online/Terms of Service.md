@@ -196,59 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have upgraded to the Gold account in order to support you guys!
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Shaun Gartshore
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=7504597)  
-Import Maaw
+![valued client McKaynine Mobility](https://www.invoicesonline.co.za/scripts/image.php?bid=8229&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=161239005)  
+McKaynine Mobility
 
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=165236614)  
-Abandoned Vehicle and Truck Solutions
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=127102688)  
+Network Grey (Pty) Ltd
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=110895099)  
-Printo
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=45390751)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=162321049)  
-Gemini-IT Group
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=208196833)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=116604412)  
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=124530756)  
+SAUL ATHOL ACRES RENTAL
+
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=133984366)  
+Westside Car Audio CC
+
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=136313374)  
+Cooper Power
+
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=7535528)  
+Hydroworld T/A Milliqua
+
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=139054088)  
+IYD
+
+![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=38792543)  
 Wiselink Broadband Vryheid
 
-![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=161326023)  
-Salvage Genie
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=112158165)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=75071324)  
-CBR Verwe/Paints
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=110409577)  
+Alliance Energy
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=11344874)  
-Blue Sky Solar Services
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=200262854)  
+Three Moons Emporium
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=50172772)  
-African Roots
+![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=199406513)  
+Prosper Park
 
-![valued client Digifax Pty) Ltd t/a Findfish](https://www.invoicesonline.co.za/scripts/image.php?bid=1295&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=144672806)  
-Digifax Pty) Ltd t/a Findfish
-
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=133819381)  
-Tracknetics
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=204001355)  
-LEO DEVELOPMENT GROUP
-
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=6621838)  
-IEMS (PTY) ltd
-
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=54782998)  
-Cape Adventure Zone
-
-![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=2fb34511606adee4ef69777e55ccdb8dbad337dca7f910a892ed444486e058b7&c=54770082)  
-Environment Friendly Toilets (Pty) Ltd
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=fe668cd1890816f03c250cf6923f0ec8132d34b1b3f823cf792e3b46447eef88&c=183993722)  
+Bchange Online CC
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
