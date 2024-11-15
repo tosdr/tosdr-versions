@@ -94,12 +94,12 @@ Hide Main Navigation Menu
 
 ### Featured
 
+* [![](https://www.unc.edu/wp-content/uploads/2024/11/ProjectUpliftHERO-1-250x141.jpg)
+    
+    Project Uplift couple carries on mission for equity](https://www.unc.edu/posts/2024/11/14/project-uplift-couple-carries-on-mission-for-equity/)
 * [![](https://www.unc.edu/wp-content/uploads/2024/11/keeganleeHERO-250x141.jpg)
     
     She took ‘60 Days to Disconnect’ and wrote a book](https://www.unc.edu/posts/2024/11/13/she-took-60-days-to-disconnect-and-wrote-a-book/)
-* [![](https://www.unc.edu/wp-content/uploads/2024/11/ShepsHERO2-250x141.jpg)
-    
-    $11M federal contract to strengthen health care training programs](https://www.unc.edu/posts/2024/11/13/11m-federal-contract-to-strengthen-health-care-training-programs/)
 
 About the University
 
@@ -477,7 +477,7 @@ Please contact [privacy@unc.edu](mailto:privacy@unc.edu) for more information on
 
  [LinkedIn](https://www.linkedin.com/sharing/share-offsite/?mini=true&url=%url%&title=%title%)
 
- [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=f62ae3d833&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
+ [Email](https://www.unc.edu/wp-admin/admin-ajax.php?action=has_email_social_modal&permalink=%url%&nonce=90503bdac3&text=%prefix%%text%%suffix%&post_id=0&type=%type%)
 
 ### Share on Mastodon
 
