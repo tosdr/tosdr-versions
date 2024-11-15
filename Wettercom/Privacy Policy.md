@@ -2,7 +2,7 @@
 
 Menü
 
-[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202411071210 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
+[![Online Wetter bei wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202411141057 "wetter.com ▶ Aktuelles Wetter & 16-Tages Wettervorhersage")](https://www.wetter.com/)
 
 [](javascript:void(0);)
 
@@ -205,7 +205,7 @@ Menü
     
     * Reisetipps ANZEIGE
         
-    * [Tirol](https://www.wetter.com/reise/tirol/)
+    * [Tirol Bergwinter](https://www.wetter.com/reise/tirol-winter/)
     * [Zillertal Arena](https://www.wetter.com/reise/zillertal-arena/)
     * [Sachsen-Anhalt](https://www.wetter.com/reise/sachsen-anhalt/)
     * [Caravaning erleben](https://www.wetter.com/reise/caravaning/)
@@ -213,7 +213,7 @@ Menü
     * [Cuneo und Haute-Provence](https://www.wetter.com/reise/cuneo/)
     * [Schatzkammer Thüringen](https://www.wetter.com/reise/schatzkammer-thueringen/)
     * [Alpbachtal](https://www.wetter.com/reise/alpbachtal/)
-    * [Tirol Bergwinter](https://www.wetter.com/reise/tirol-winter/)
+    * [Tirol](https://www.wetter.com/reise/tirol/)
     * [INTERSPORT Rent – Skiverleih](https://www.wetter.com/reise/intersport/)
     
     * [Unterwegs](https://www.wetter.com/reise/routenwetter/)
@@ -1125,7 +1125,7 @@ Reichenaustraße 19a
 78467 Konstanz  
 [contact@wetter.com](mailto:contact@wetter.com)
 
-![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202411071210 "wetter.com")
+![wetter.com](https://cs3.wettercomassets.com/wcomv5/images/wetter_com_logo.svg?202411141057 "wetter.com")
 
 [Zurück](#) [Schließen ✕](#)
 
@@ -1143,10 +1143,10 @@ Mehr Informationen zu Werbung und Tracking findest du in unseren [Datenschutzhin
 
 Nutze wetter.com und viele weitere Websites ganz ohne Werbebanner, personalisiertes Tracking und Werbespots für nur 3,99€ / Monat.
 
- ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202411071210 "contentpass") Werbefrei für 3,99€ / Monat
+ ![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202411141057 "contentpass") Werbefrei für 3,99€ / Monat
 
 Bereits contentpass-Mitglied?  
- [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202411071210 "contentpass") Hier einloggen](#).
+ [![contentpass](https://cs3.wettercomassets.com/wcomv5/images/contentpass/logo.svg?202411141057 "contentpass") Hier einloggen](#).
 
 Wir nutzen ausschließlich Cookies und andere Technologien, die zur Bereitstellung unseres Angebotes unbedingt erforderlich sind. Details zum Abo findest du [hier](https://my.contentpass.net/) und in unseren [Datenschutzhinweisen (contentpass-Abo)](https://www.wetter.com/datenschutz/pay/).
 
