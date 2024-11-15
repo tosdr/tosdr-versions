@@ -70,9 +70,7 @@ Hardware
 
 #### COLLECTIONS
 
-* [Atari+ Platform](https://www.atari.com/collections/atari-platform)
-    
-    [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+* [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
@@ -114,9 +112,7 @@ Hardware
 
 COLLECTIONS
 
-* [Atari+ Platform](https://www.atari.com/collections/atari-platform)
-    
-    [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
+* [Alan-1](https://atari.com/products/atari-asteroids-recharged-arcademachine)
     
     [My Arcade](https://www.atari.com/collections/myarcade)
     
