@@ -73,11 +73,11 @@
 
 MBFC News
 
+* [November 15, 2024 | Media News Daily: Top Stories for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/media-news-daily-top-stories-for-11-15-2024/ "Media News Daily: Top Stories for 11/15/2024")
+* [November 15, 2024 | MBFC’s Daily Vetted Fact Checks for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/mbfcs-daily-vetted-fact-checks-for-11-15-2024/ "MBFC’s Daily Vetted Fact Checks for 11/15/2024")
 * [November 14, 2024 | Media News Daily: Top Stories for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/media-news-daily-top-stories-for-11-14-2024/ "Media News Daily: Top Stories for 11/14/2024")
 * [November 14, 2024 | MBFC’s Daily Vetted Fact Checks for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/mbfcs-daily-vetted-fact-checks-for-11-14-2024/ "MBFC’s Daily Vetted Fact Checks for 11/14/2024")
 * [November 13, 2024 | Media News Daily: Top Stories for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/media-news-daily-top-stories-for-11-12-2024-2/ "Media News Daily: Top Stories for 11/13/2024")
-* [November 13, 2024 | MBFC’s Daily Vetted Fact Checks for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/mbfcs-daily-vetted-fact-checks-for-11-13-2024/ "MBFC’s Daily Vetted Fact Checks for 11/13/2024")
-* [November 12, 2024 | Media News Daily: Top Stories for 11/12/2024](https://mediabiasfactcheck.com/2024/11/12/media-news-daily-top-stories-for-11-12-2024/ "Media News Daily: Top Stories for 11/12/2024")
 
 Search for:  
 
@@ -151,6 +151,10 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [RMG Research – Bias and Credibility](https://mediabiasfactcheck.com/rmg-research-bias-and-credibility/)
+    
+    November 15, 2024
+    
 * [Scottish Daily Express – Bias and Credibility](https://mediabiasfactcheck.com/scottish-daily-express-bias/)
     
     November 14, 2024
@@ -179,13 +183,17 @@ No related posts.
     
     November 13, 2024
     
-* [Save Us Now (SUN) – Bias and Credibility](https://mediabiasfactcheck.com/save-us-now-sun-bias-and-credibility/)
-    
-    November 13, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 15, 2024
+    
+* [RMG Research – Bias and Credibility](https://mediabiasfactcheck.com/rmg-research-bias-and-credibility/ "View RMG Research – Bias and Credibility") - November 15, 2024
+    
+* [Credible Pollsters Used By MBFC](https://mediabiasfactcheck.com/credible-pollsters-used-by-mbfc/ "View Credible Pollsters Used By MBFC") - November 15, 2024
+    
+* [San Francisco Chronicle – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-chronicle/ "View San Francisco Chronicle – Bias and Credibility") - November 15, 2024
+    
 * [WalesOnline – Bias and Credibility](https://mediabiasfactcheck.com/walesonline/ "View WalesOnline – Bias and Credibility") - November 14, 2024
     
 * [The Mirror U.S. – Bias and Credibility](https://mediabiasfactcheck.com/the-mirror-u-s-bias-and-credibility/ "View The Mirror U.S. – Bias and Credibility") - November 14, 2024
@@ -198,14 +206,6 @@ No related posts.
     
 * [Insider.co.uk – Bias and Credibility](https://mediabiasfactcheck.com/insider-co-uk-bias/ "View Insider.co.uk – Bias and Credibility") - November 14, 2024
     
-* [Daily Star UK – Bias and Credibility](https://mediabiasfactcheck.com/daily-star-uk/ "View Daily Star UK – Bias and Credibility") - November 14, 2024
-    
-* [Daily Record (Scotland) – Bias and Credibility](https://mediabiasfactcheck.com/daily-record-scotland/ "View Daily Record (Scotland) – Bias and Credibility") - November 14, 2024
-    
-* [Daily Mirror – Bias and Credibility](https://mediabiasfactcheck.com/daily-mirror/ "View Daily Mirror – Bias and Credibility") - November 14, 2024
-    
-* [Daily Express – Bias and Credibility](https://mediabiasfactcheck.com/daily-express/ "View Daily Express – Bias and Credibility") - November 14, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -213,9 +213,9 @@ No related posts.
 * [Least Biased](https://mediabiasfactcheck.com/center/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [The Onion - Bias and Credibility](https://mediabiasfactcheck.com/the-onion/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [News18 - Bias and Credibility](https://mediabiasfactcheck.com/news18/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
