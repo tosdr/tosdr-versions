@@ -117,6 +117,7 @@ Skip to Navigation Skip to Navigation Skip to Search Skip to Search [Skip to Mai
 * [Parking](https://www.transportation.ucla.edu/campus-parking)
 * [Campus Shuttles](https://transportation.ucla.edu/getting-around-campus/bruinbus)
 * [Public Transit](https://transportation.ucla.edu/getting-to-ucla/public-transit)
+* [Events](https://www.ucla.edu/events)
 * [Newsroom](https://newsroom.ucla.edu/)
 * [Magazine](https://newsroom.ucla.edu/magazine)
 * [Alumni](https://alumni.ucla.edu/)
