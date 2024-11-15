@@ -56,17 +56,17 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/can-olfactory-loss-predict-disease-1440x810.jpg)
+
+Loss of Smell Tied to Over 100 Serious Medical Conditions](https://www.everydayhealth.com/neurological-disorders/loss-of-smell-tied-to-serious-medical-conditions/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/5-minute-exercise-day-lower-blood-pressure-1440x810.jpg)
 
 Just 5 Minutes of Exercise a Day May Lower Your Blood Pressure](https://www.everydayhealth.com/heart-health/five-minutes-of-exercise-a-day-may-lower-blood-pressure/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/sleep-promotes-healing-after-heart-attack-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/fda-pulling-phenylephrine-from-market-1440x810.jpg)
 
-Why Good Sleep Is Critical After a Heart Attack](https://www.everydayhealth.com/heart-health/why-good-sleep-is-critical-after-a-heart-attack/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/with-mounjaro-shortage-over-will-tirzepatide-become-unavailable-1440x810.jpg)
-
-Are Compounded Weight Loss Drugs on Their Way Out?](https://www.everydayhealth.com/weight-management/are-compounded-weight-loss-drugs-on-their-way-out/)
+FDA Plans to Pull Certain Over-the-Counter Cough Medicines and Decongestants from Store Shelves](https://www.everydayhealth.com/lung-respiratory/fda-plans-to-pull-certain-cough-medicines-and-decongestants/)
 
 ![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
