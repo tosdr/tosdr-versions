@@ -91,7 +91,6 @@ Delivery cost from
         * [Energy Management](https://sps24.eu/en/menu/photovoltaics/photovoltaic-accessories/energy-management-4033.html "Energy Management")
         * [Specialty Switches](https://sps24.eu/en/menu/photovoltaics/photovoltaic-accessories/specialty-switches-4050.html "Specialty Switches")
     * [Complete photovoltaic installations](https://sps24.eu/en/menu/photovoltaics/complete-photovoltaic-installations-3868.html "Complete photovoltaic installations")
-    * [Water Heater Controllers](https://sps24.eu/en/menu/photovoltaics/water-heater-controllers-4929.html "Water Heater Controllers")
 * [Battery modules](https://sps24.eu/en/menu/battery-modules-3679.html "Battery modules")
     * [BYD](https://sps24.eu/en/menu/battery-modules/byd-4036.html "BYD")
     * [Tigo](https://sps24.eu/en/menu/battery-modules/tigo-4040.html "Tigo")
@@ -290,7 +289,7 @@ Marketing Activities of the Data Controller
 
 The data controller may place marketing information about his/her Goods or services on the Online Shop’s website. Such content shall be displayed by the data controller in accordance with Article 6 section 1 letter f of the GDPR, in accordance with the legitimate interest pursued by the data controller, in publishing the content related to the services provided and the promotional content of the actions in which the data controller is involved. At the same time, the action does not infringe the rights and freedoms of the Customers/Users, the Customers/Users expect to receive similar content, or even expect it or it is their direct purpose to visit the website(s) of the Online Shop.
 
-![pixel](https://client4733.idosell.com/checkup.php?c=95b48fab756398f275a48b3ab7360248)
+![pixel](https://client4733.idosell.com/checkup.php?c=ce01921f260f6d5f6bd8207350e212b2)
 
 * [ORDERS](https://sps24.eu/en/client-orders.html)
     * [Order status](https://sps24.eu/en/order-open.html)
