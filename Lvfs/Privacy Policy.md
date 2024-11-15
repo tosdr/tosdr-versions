@@ -221,7 +221,7 @@ Contents:
 * [Offline Firmware](https://lvfs.readthedocs.io/en/latest/offline.html)
 * [Product Certification](https://lvfs.readthedocs.io/en/latest/prodcert.html)
 * [LVFS Releases](https://lvfs.readthedocs.io/en/latest/news.html)
-* [Firmware Embedded SBoM Specification](https://lvfs.readthedocs.io/en/latest/sbom.html)
+* [Firmware Embedded SBOM Specification](https://lvfs.readthedocs.io/en/latest/sbom.html)
 * [ChromeOS firmware testing](https://lvfs.readthedocs.io/en/latest/chromeos.html)
 * [How to run fwupd tests with Moblab](https://lvfs.readthedocs.io/en/latest/moblab.html)
 
