@@ -1,4 +1,4 @@
-![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                           Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                              [Skip to content](#main)
+![](data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48c3ZnIHdpZHRoPSI5OTk5OXB4IiBoZWlnaHQ9Ijk5OTk5cHgiIHZpZXdCb3g9IjAgMCA5OTk5OSA5OTk5OSIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48ZyBzdHJva2U9Im5vbmUiIGZpbGw9Im5vbmUiIGZpbGwtb3BhY2l0eT0iMCI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9Ijk5OTk5IiBoZWlnaHQ9Ijk5OTk5Ij48L3JlY3Q+IDwvZz4gPC9zdmc+)                                                                         Rad Power Bikes Privacy Policy | Rad Power Bikes | Rad Power Bikes                                [Skip to content](#main)
 
 [Black Friday Sale! Save up to $699. Shop now.](https://www.radpowerbikes.com/pages/sales-deals "Black Friday Sale! Save up to $699. Shop now.")
 
@@ -650,6 +650,7 @@ After you buy
 
 * [Track my order](https://www.radpowerbikes.com/pages/lookup-order)
 * [Return a product](https://www.radpowerbikes.com/apps/returns)
+* [Holiday return policy](https://support.radpowerbikes.com/Orders%2C_shipping_and_returns/Returns/How_to_request_a_return)
 * [Rad service center](https://www.radpowerbikes.com/pages/rad-service)
 * [Assembly videos & owner's manuals](https://support.radpowerbikes.com/Assembly_and_how-tos/Assembly_and_manuals/Download_my_owner%27s_manual_or_view_assembly_video)
 
