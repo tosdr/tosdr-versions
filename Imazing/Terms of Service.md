@@ -71,7 +71,6 @@ Accept Selection Accept All
     *  [![iMazing 3](/img/navigation/app-imazing_dark.svg) iMazing 3](https://imazing.com/v3)
     *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing Converter](/img/navigation/app-imazing_converter.svg) iMazing Converter](https://imazing.com/converter)
-    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
     
 * ![Business](/img/navigation/footer/icon-footer-section-business.svg) Business
     
@@ -80,8 +79,9 @@ Accept Selection Accept All
     Products
     
     *  [![iMazing](/img/navigation/app-imazing_dark.svg) iMazing](https://imazing.com/app)
-    *  [![iMazing Configurator](/img/navigation/app-imazing_configurator.svg) iMazing Configurator](https://imazing.com/configurator)
-    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Configurator](/img/navigation/app-imazing_configurator-dark.svg) iMazing Configurator](https://imazing.com/configurator)
+    *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor-dark.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing CLI](/img/navigation/app-imazing_cli.svg) iMazing CLI](https://imazing.com/cli)
     
     Solutions
@@ -148,7 +148,6 @@ Terms of Use
 
 1. The use of websites, products and services managed or administered by DigiDNA SARL ("DigiDNA"), as well as of software developed and/or distributed by DigiDNA, are executed by the current Terms and Conditions ("Terms and Conditions"). When downloading, installing or using software provided by DigiDNA, Users acknowledge that they have read, understood and accepted the current Terms and Conditions.
 2. In the event of modifications of the Terms and Conditions, the version published on DigiDNA's website is the only evidence. As a consequence, Users are invited to frequently consult this document in order to be informed of possible modifications.
-3. This page was last updated on the 7th of November, 2018.
 
 #### 2\. Orders/Merchant of Record
 
@@ -171,20 +170,24 @@ Terms of Use
 2. As far as possible, DigiDNA commits itself to reduce latency periods to their minimum. DigiDNA's current average first response time is about 12 hours, weekends included.
 3. Technical Support related questions are sent by email or through online forms or other appropriate means which are normally processed within the same response time. However, if the issue requires the intervention of a third party to be appropriately handled, DigiDNA will not be held liable for eventual delays.
 
-#### 6\. Limitation of Responsability
+#### 6\. Limitation of Responsibility
 
-DIGIDNA DOESN'T ASSUME ANY RESPONSABILITY FOR POSSIBLE INTERRUPTION OR SUSPENSION OF WHOLE OR PARTS OF THE FEATURES ON ITS SITES RESULTING FROM ACTIONS OR OMISSIONS BY DIGIDNA OR A THIRD PARTY. WHEN SUBSCRIBING TO SERVICES PROVIDED BY DIGIDNA, USERS RECOGNIZE AND ACCEPT THAT WITHIN THE SCOPE OF REGULATIONS, DIGIDNA, ITS AFFILIATED COMPANIES OR COMPANIES WHICH TAKE PART IN MAINTENANCE, PRODUCTION OR SUBCONTRACTING SHALL NOT BE HELD RESPONSIBLE FOR DIRECT, INDIRECT OR ACCIDENTAL DAMAGES, OR FOR THE COMPENSATION OF MORAL DAMAGES, COSTS, LOSSES, DECREASES IN THE TURNOVER OR ANY LIABILITIES (EVEN IF SUCH A DAMAGE WAS ANTICIPATED OR COULD BE AVOIDED BY DIGIDNA), LIKELY TO HAPPEN WHEN USING SERVICES, OR ON THE CONTRARY, WHEN SITES OR THEIR CONTENTS CANNOT BE USED. DIGIDNA DOES NOT ASSUME ANY RESPONSIBILITY FOR DAMAGES OR VIRUSES WHICH COULD INFECT YOUR COMPUTER OR YOUR IT HARDWARE AFTER JOINING OR USING DIGIDNA WEBSITES OR DOWNLOADING PARTS OF THE WEBSITES.
+DIGIDNA DOES NOT ASSUME ANY RESPONSIBILITY FOR POSSIBLE INTERRUPTION OR SUSPENSION OF WHOLE OR PARTS OF THE FEATURES ON ITS SITES RESULTING FROM ACTIONS OR OMISSIONS BY DIGIDNA OR A THIRD PARTY. WHEN SUBSCRIBING TO SERVICES PROVIDED BY DIGIDNA, USERS RECOGNIZE AND ACCEPT THAT WITHIN THE SCOPE OF REGULATIONS, DIGIDNA, ITS AFFILIATED COMPANIES OR COMPANIES WHICH TAKE PART IN MAINTENANCE, PRODUCTION OR SUBCONTRACTING SHALL NOT BE HELD RESPONSIBLE FOR DIRECT, INDIRECT OR ACCIDENTAL DAMAGES, OR FOR THE COMPENSATION OF MORAL DAMAGES, COSTS, LOSSES, DECREASES IN THE TURNOVER OR ANY LIABILITIES (EVEN IF SUCH A DAMAGE WAS ANTICIPATED OR COULD BE AVOIDED BY DIGIDNA), LIKELY TO HAPPEN WHEN USING SERVICES, OR ON THE CONTRARY, WHEN SITES OR THEIR CONTENTS CANNOT BE USED. DIGIDNA DOES NOT ASSUME ANY RESPONSIBILITY FOR DAMAGES OR VIRUSES WHICH COULD INFECT YOUR COMPUTER OR YOUR IT HARDWARE AFTER JOINING OR USING DIGIDNA WEBSITES OR DOWNLOADING PARTS OF THE WEBSITES.
 
 #### 7\. Privacy
 
 1. Any data or information likely to personally identify corporate bodies or individuals is protected and processed under the Privacy Policy in effect at DigiDNA.
-2. When forwarding information, the owner of an account on DigiDNA servers certifies that the hardware/content transmitted is their property, or that they have rights or licences authorising use, that it is not defamatory and that its use through plans, services and DigiDNA's servers shall not infringe on the rights of a third party.
+2. When forwarding information, the owner of an account on DigiDNA servers certifies that the hardware/content transmitted is their property, or that they have rights or licenses authorizing use, that it is not defamatory and that its use through plans, services and DigiDNA's servers shall not infringe on the rights of a third party.
 
 #### 8\. Denial of Guarantee
 
 1. WITHOUT LIMITING THE SCOPE OF ARTICLE 5 ABOVE, ALL CONTENT, INFORMATION AND PROGRAMS FOUND ON DIGIDNA'S WEBSITES ARE PROVIDED 'AS IS', ACCORDING TO THEIR AVAILABILITY, AND WITHOUT ANY GUARANTEE, EITHER EXPLICIT OR IMPLICIT.
 2. DIGIDNA DOES NOT GUARANTEE THAT ITS SERVERS, ITS INTERNET SITES OR THEIR CONTENTS WILL MEET YOUR EXPECTATIONS, NOR THAT THEY ARE UNINTERRUPTED, CONVENIENT, SAFE OR ERROR-FREE.
-3. ADVICE OR INFORMATION OBTAINED FROM DIGIDNA IN WRITTEN OR ORAL FORM REGARDING USE OF DIGIDNA SERVICES AND PRODUCTS DOES NOT CONSTITUTE A GUARANTY OF ANY KIND.
+3. ADVICE OR INFORMATION OBTAINED FROM DIGIDNA IN WRITTEN OR ORAL FORM REGARDING USE OF DIGIDNA SERVICES AND PRODUCTS DOES NOT CONSTITUTE A GUARANTEE OF ANY KIND.
+
+* * *
+
+This page was last updated on the 15th of November, 2024.
 
  
 
@@ -227,11 +230,11 @@ Thank you for subscribing!
 * ![Products](/img/navigation/footer/icon-footer-section-products.svg) Products
     
     *  [![iMazing](/img/navigation/app-imazing.svg) iMazing](https://imazing.com/app)
-    *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
-    *  [![iMazing Converter](/img/navigation/app-imazing_converter.svg) iMazing Converter](https://imazing.com/converter)
     *  [![iMazing Configurator](/img/navigation/app-imazing_configurator.svg) iMazing Configurator](https://imazing.com/configurator)
     *  [![iMazing Profile Editor](/img/navigation/app-imazing_profile_editor.svg) iMazing Profile Editor](https://imazing.com/profile-editor)
+    *  [![iMazing Mini](/img/navigation/app-imazing_mini.svg) iMazing Mini](https://imazing.com/mini)
     *  [![iMazing CLI](/img/navigation/app-imazing_cli.svg) iMazing CLI](https://imazing.com/cli)
+    *  [![iMazing Converter](/img/navigation/app-imazing_converter.svg) iMazing Converter](https://imazing.com/converter)
     *  [![Hot](/img/navigation/app-hot.png) Hot](https://imazing.com/downloads#hot)
     *  [![Silicon](/img/navigation/app-silicon.png) Silicon](https://imazing.com/downloads#silicon)
     
