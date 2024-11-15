@@ -244,7 +244,7 @@ Cougar Mountain Software develops leading on-premises accounting solutions that 
 
 * [Terms / Privacy](https://www.cougarmtn.com/terms-privacy/)
 
-* © 2023 | All Rights Reserved
+* © 2024 | All Rights Reserved
 
 [](#)
 
