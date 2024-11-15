@@ -73,18 +73,18 @@ If you believe that your work has been copied in a way that constitutes infringe
 COPYRIGHT AGENT
 ---------------
 
-Phillip Dang, Accounting Department  
+Anna Fiorentino, Legal Department  
 Value Line, Inc.  
 551 Fifth Avenue, 3rd Floor  
 New York, NY 10167  
-[pdang@valueline.com](mailto:pdang@valueline.com)
+[legal@valueline.com](mailto:legal@valueline.com)
 
 Upon receipt of the written Notification containing the information as outlined above, Value Line will remove, or disable access to, the material claimed to be infringing. Value Line may, in its sole discretion, terminate the accounts of users who violate others’ intellectual property rights.
 
 Use of Value Line Material
 --------------------------
 
-Value Line products and services—including publications, data, index, software, website content (the "Content")—are owned either by Value Line or by third parties who have granted Value Line permission to use the content. If you want to use Value Line copyrighted or trademarked material in your works (e.g., books, publications), please email your request to [pdang@valueline.com](mailto:pdang@valueline.com).
+Value Line products and services—including publications, data, index, software, website content (the "Content")—are owned either by Value Line or by third parties who have granted Value Line permission to use the content. If you want to use Value Line copyrighted or trademarked material in your works (e.g., books, publications), please email your request to [legal@valueline.com](mailto:legal@valueline.com).
 
 Trademark
 ---------
