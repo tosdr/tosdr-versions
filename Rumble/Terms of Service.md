@@ -448,115 +448,119 @@ Go Ad-Free
 
 [Bannons War Room
 
-40.6K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
+11K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
 
-[Steven Crowder
+[Candace Show Podcast
 
-23.2K](https://rumble.com/v5plenh--next-chat-you-ask-we-answer.html "Steven Crowder")
+8.09K](https://rumble.com/v5ppbr2-fight-night-me-vs-marc-lamont-hill-on-transgenderism-candace-ep-104.html "Candace Show Podcast")
+
+[Nerdrotic
+
+4.69K](https://rumble.com/v5ppg2w-hollywood-in-panic-woke-celebrity-meltdown-penguin-finale-crushes-friday-ni.html "Nerdrotic")
+
+[The Jimmy Dore Show
+
+3.64K](https://rumble.com/v5ppwv2-deep-state-melting-down-over-tulsi-nomination-trump-calls-for-campus-speech.html "The Jimmy Dore Show")
 
 [NEWSMAX
 
-4.89K](https://rumble.com/v5pllcb-the-gerry-callahan-show-live-friday-november-15-2024-newsmax-podcasts.html "NEWSMAX")
+3.23K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[vivafrei
 
-1.49K](https://rumble.com/v5pib5q-the-mk-show-nov.-15th.html "Matt Kohrs")
+2.54K](https://rumble.com/v5ppccq-chinese-and-indian-infiltration-in-canadian-government-live-with-david-kray.html "vivafrei")
 
-[barstoolsports
+[Stephen Gardner
 
-45](https://rumble.com/v5pm7fb-the-producers-show-november-15-2024.html "barstoolsports")
+958](https://rumble.com/v5ppo2t-secret-traps-laid-for-trump-rfk-and-elon-megyn-kelly-worries-for-trumps-lif.html "Stephen Gardner")
 
-[The Kirk Minihane Show
+[SNEAKO
 
-45](https://rumble.com/v5pm7fb-the-producers-show-november-15-2024.html "The Kirk Minihane Show")
+347](https://rumble.com/v5ppe2t-sneako-x-konvy-soccer-stream.html "SNEAKO")
 
-[Taylor Watch](https://rumble.com/c/TAYLORWATCH "Taylor Watch")
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
 
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+[Barstool Gambling](https://rumble.com/c/BarstoolGambling "Barstool Gambling")
 
-[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+[Major League Fishing](https://rumble.com/c/MajorLeagueFishing "Major League Fishing")
 
-[Nerdrotic](https://rumble.com/c/Nerdrotic "Nerdrotic")
+[Ben Shapiro](https://rumble.com/c/BenShapiro "Ben Shapiro")
 
-[Plan Bri Uncut](https://rumble.com/c/PlanBriUncut "Plan Bri Uncut")
+[Danny Polishchuk](https://rumble.com/c/Dannyjokes "Danny Polishchuk")
 
-[FULL SEND PODCAST](https://rumble.com/c/FULLSENDPODCAST "FULL SEND PODCAST")
+[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
 
-[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
 
-[Caleb Hammer](https://rumble.com/c/calebhammerFA "Caleb Hammer")
+[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
 
-[Lights, Camera, Barstool](https://rumble.com/c/LightsCameraBarstool "Lights, Camera, Barstool")
+[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
 
-[SNEAKO](https://rumble.com/c/SNEAKO "SNEAKO")
-
-[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
-
-[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
-
-[Rebel News](https://rumble.com/c/RebelNews "Rebel News")
-
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
-
-[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
-
-[Winston Marshall](https://rumble.com/c/WinstonMarshall "Winston Marshall")
-
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
-
-[UnchartedX](https://rumble.com/c/UnchartedX "UnchartedX")
-
-[Hannah Barron](https://rumble.com/c/HannahBarron "Hannah Barron")
-
-[WeAreChange](https://rumble.com/c/WeAreChange "WeAreChange")
-
-[The Chris Salcedo Show](https://rumble.com/c/TheChrisSalcedoShow "The Chris Salcedo Show")
-
-[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
-
-[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
-
-[Gia Mariano](https://rumble.com/c/giamariano "Gia Mariano")
-
-[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
-
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
-
-[Candace Show Podcast](https://rumble.com/c/RealCandaceO "Candace Show Podcast")
+[NELK](https://rumble.com/c/NELK "NELK")
 
 [Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
-[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
-
-[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
-
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
-
-[Son of a Boy Dad](https://rumble.com/c/SonOfABoyDad "Son of a Boy Dad")
-
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
-
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
-
 [Anthony Pompliano](https://rumble.com/c/AnthonyPompliano "Anthony Pompliano")
 
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+
+[Healthy Debate](https://rumble.com/c/HealthyDebate "Healthy Debate")
+
+[Eddie Bravo](https://rumble.com/c/eddiebravo "Eddie Bravo")
 
 [Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
 
 [Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
 
-[Havoc](https://rumble.com/c/Havoc "Havoc")
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
 
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
+[Candace Owens Podcast](https://rumble.com/c/CandaceOwensPodcast "Candace Owens Podcast")
 
-[THE SHOW CALEB SHOW](https://rumble.com/c/TheShowCalebShow "THE SHOW CALEB SHOW")
+[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
+
+[Devin Nunes](https://rumble.com/c/DevinNunes "Devin Nunes")
+
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+
+[CartierFamily](https://rumble.com/c/TheOfficialCartierFamily "CartierFamily")
+
+[Dr. Drew](https://rumble.com/c/DrDrew "Dr. Drew")
+
+[Taylor Alesia](https://rumble.com/c/TheBibleChick "Taylor Alesia")
+
+[Tucker Carlson](https://rumble.com/c/TuckerCarlson "Tucker Carlson")
+
+[Medical Medium](https://rumble.com/c/MedicalMedium "Medical Medium")
+
+[Daily Caller News Foundation](https://rumble.com/c/DailyCallerNewsFoundation "Daily Caller News Foundation")
+
+[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
+
+[Standpoint with Gabe Groisman](https://rumble.com/c/GabeGroisman "Standpoint with Gabe Groisman")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Darkhorse Podcast](https://rumble.com/c/darkhorse "Darkhorse Podcast")
+
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
+
+[Macrodosing w/ PFT & Arian Foster](https://rumble.com/c/MacrodosingWithPFTAndArianFoster "Macrodosing w/ PFT & Arian Foster")
+
+[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+
+[The Rubin Report](https://rumble.com/c/RubinReport "The Rubin Report")
 
 [Tate Speech by Andrew Tate](https://rumble.com/c/TateSpeech "Tate Speech by Andrew Tate")
+
+[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
+
+[Glenn Greenwald](https://rumble.com/c/GGreenwald "Glenn Greenwald")
+
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
 
 ### Theme
 
