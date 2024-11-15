@@ -1206,6 +1206,7 @@
                     * [ ]  [US Public Sector Services team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/gitlab-dedicated/us-public-sector-services/)
                 * [ ]  [Production Engineering Foundations Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/foundations/)
                 * [ ]  [Production Engineering Ops Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/)
+                    * [ ]  [EOC Onboarding Buddies](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/sre-oncall-onboarding-buddy/)
                     * [ ]  [On-call handover](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/on-call-handover/)
                     * [ ]  [SRE Onboarding](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/sre-onboarding/)
                 * [ ]  [Scalability Group](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/)
