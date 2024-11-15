@@ -94,6 +94,8 @@ Choose Topic
 
 [Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
 
+[PTSD](https://www.managedhealthcareexecutive.com/clinical/ptsd)
+
 [Pain](https://www.managedhealthcareexecutive.com/clinical/pain)
 
 [Pediatrics](https://www.managedhealthcareexecutive.com/clinical/pediatrics)
@@ -241,6 +243,8 @@ Choose Topic
 [Oncology](https://www.managedhealthcareexecutive.com/clinical/oncology)
 
 [Opioids](https://www.managedhealthcareexecutive.com/clinical/opioids)
+
+[PTSD](https://www.managedhealthcareexecutive.com/clinical/ptsd)
 
 [Pain](https://www.managedhealthcareexecutive.com/clinical/pain)
 
