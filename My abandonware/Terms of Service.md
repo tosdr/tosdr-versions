@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Space Invaders](https://www.myabandonware.com/game/space-invaders-8z2)
+* [Shanghai Pocket](https://www.myabandonware.com/game/shanghai-pocket-90e)
+* [Puyo Puyo 2](https://www.myabandonware.com/game/puyo-puyo-2-85m)
 * [KengBoxing](https://www.myabandonware.com/game/kengboxing-tqg)
 * [Infinitris](https://www.myabandonware.com/game/infinitris-tqf)
-* [Husita](https://www.myabandonware.com/game/husita-tqe)
-* [Hugo 5](https://www.myabandonware.com/game/hugo-5-tqc)
-* [Oh-chan no Oekaki Logic](https://www.myabandonware.com/game/oh-chan-no-oekaki-logic-ayb)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
