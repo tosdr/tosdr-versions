@@ -15,7 +15,7 @@ Sales: [+1(888) 993-8990](tel:+1(888) 993-8990)
 Terms of Use
 ============
 
-Last updated: June 1, 2024
+Last updated: November 15, 2024
 
 Please read these Terms of Use (“**Terms**”) carefully before using any Matterport owned or operated website, including but not limited to www.matterport.com, support.matterport.com or my.matterport.com, (the “**Matterport Website**”)  or any Matterport service products, software, applications, data, imagery, models, functionality and/or services provided to you on, from, or through the Matterport Website, any Matterport App, or any other Matterport service (collectively, the “**Service**”). Using the Service indicates that you accept these Terms and any other terms, policies and guidelines of Matterport incorporated herein by reference. Any capitalized terms not otherwise defined in these Terms shall have their respective meanings as set forth in such other terms, policies and guidelines. If you do not accept these Terms or such other terms, policies or guidelines, you may not use the Service.
 
@@ -29,7 +29,7 @@ The Service is owned and operated by Matterport, Inc. (“**Matterport**,” “
 2\. Prohibited Activities.
 --------------------------
 
-In using the Service, you must not:
+In using the Service, you must not use the service in violation of this section (this Section 2 being referred to as the “Acceptable Use Policy” or “AUP”):
 
 * Send, post, upload or otherwise transmit to or through the Service any data including but not limited to any media, any imagery, text or other content that is unlawful, infringing, harmful, harassing, defamatory, threatening, hateful, discriminatory, violent, fraudulent, vulgar, pornographic, or otherwise objectionable;
     
