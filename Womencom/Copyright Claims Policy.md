@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+*  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
     
-    [Politics](https://www.women.com/category/politics/)
+    [Beauty](https://www.women.com/category/beauty/)
     
-    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
     
-    [5 Celebs Who Clapped Back At Demands They Label Their Sexuality](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
-    ==================================================================================================================================================
+    [Lindsay Lohan's Hair Transformation Throughout The Years](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
+    =============================================================================================================================================
     
-    No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
+    Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
     
-    By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+    By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
     
-* *  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+* *  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+        
+        [Politics](https://www.women.com/category/politics/)
+        
+        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        
+        ### [5 Celebs Who Clapped Back At Demands They Label Their Sexuality](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+        
+        No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+        
+    *  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
         
         [Politics](https://www.women.com/category/politics/)
         
@@ -66,22 +78,22 @@
         
         By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
         
-    *  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/)
-        
-        [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
-        
-        ### [5 Perfume Mistakes You're Probably Making](https://www.women.com/1707678/perfume-mistakes/)
-        
-        Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
-        
-        By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
-        
 
 More Stories
 ------------
 
+*  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/)
+    
+    [Exclusives](https://www.women.com/category/exclusives/) By Bernadette Roe
+    
+    ### [5 Perfume Mistakes You're Probably Making](https://www.women.com/1707678/perfume-mistakes/)
+    
+    Unless you're versed in the art of applying perfume, you're likely making some mistakes. Luckily, Onyi Ifeguni has offered some expert advice.
+    
+    By Bernadette Roe [Read More](https://www.women.com/1707678/perfume-mistakes/)
+    
 *  [![Hilary Novelle Simon sitting on a table](https://www.women.com/img/gallery/heres-what-went-down-with-the-style-club-after-shark-tank/intro-1730917118.jpg)](https://www.women.com/1706982/what-went-down-with-the-style-club-after-shark-tank/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -393,18 +405,6 @@ More Stories
     Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
     
     By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
-    
-*  [![Vivienne and Angelina Jolie](https://www.women.com/img/gallery/vivienne-jolies-stunning-transformation/intro-1729783815.jpg)](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Vivienne Jolie's Stunning Transformation](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
-    
-    Youngest child to Angelina Jolie and Brad Pitt, Vivienne Marcheline Jolie is now paving her way in the world, and she is uniquely herself.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1696630/vivienne-jolie-stunning-transformation/)
     
 
 Back
