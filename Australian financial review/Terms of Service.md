@@ -311,7 +311,6 @@ Advertise
 
 ### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
 
-* 57 mins ago
 * Sally Patten
 
 * ### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
@@ -326,7 +325,6 @@ Advertise
 
 ### [Tolpuddle’s new tasting room is another great reason to visit Tasmania](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
 
-* 57 mins ago
 * Max Allen
 
 * ### [10 top luxury cruises to sail away on in 2025](https://www.afr.com/life-and-luxury/travel/10-top-luxury-cruises-to-sail-away-on-in-2025-20241025-p5klgj)
