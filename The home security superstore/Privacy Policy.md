@@ -17,7 +17,6 @@ All
 * All
 * Access Control
 * Audio Jammers & Noise Generators
-* B Rated Safes
 * Bathroom Safety
 * Baton Flashlights
 * Self-Defense Batons
@@ -26,8 +25,7 @@ All
 * Cell Phone Taser & Stun Guns
 * Concealed Carry Gun Holsters & Purses
 * Counter Surveillance
-* Cree LED Flashlights
-* Data Media Safes
+* Cree Flashlights
 * Data Recovery
 * Disguised Stun Guns
 
@@ -70,7 +68,7 @@ Menu
         
     * [TASER®](https://www.thehomesecuritysuperstore.com/collections/taser)
         
-        * [![Pulse](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Pulse-01_1.png?v=1723214598&width=300)
+        * [![Pulse](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Pulse-01_1.png?v=1731687843&width=300)
             
             Pulse](https://www.thehomesecuritysuperstore.com/collections/taser-pulse)
         * [![Bolt](//www.thehomesecuritysuperstore.com/cdn/shop/collections/bolt_pers_cap_lightE-1.png?v=1723214757&width=300)
@@ -295,7 +293,7 @@ Menu
         
         Kubotans](https://www.thehomesecuritysuperstore.com/collections/kubotans)
     
-    * [![Pulse](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Pulse-01_1.png?crop=center&height=300&v=1723214598&width=300)
+    * [![Pulse](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Pulse-01_1.png?crop=center&height=300&v=1731687843&width=300)
         
         Pulse](https://www.thehomesecuritysuperstore.com/collections/taser-pulse)
     * [![Bolt](//www.thehomesecuritysuperstore.com/cdn/shop/collections/bolt_pers_cap_lightE-1.png?crop=center&height=300&v=1723214757&width=300)
@@ -483,21 +481,15 @@ Menu
         
         Flashlights](https://www.thehomesecuritysuperstore.com/collections/flashlights)
         
-        * [![Brightest Flashlight](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BrightestFlashlights_500x500_d32bc808-59a7-432c-859c-5a849d6c272a.jpg?v=1627072798&width=300)
+        * [![Brightest Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BrightestFlashlights_500x500_d32bc808-59a7-432c-859c-5a849d6c272a.jpg?v=1627072798&width=300)
             
-            Brightest Flashlight](https://www.thehomesecuritysuperstore.com/collections/brightest-flashlight)
-        * [![Pocket Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PocketFlashlights_500x500_d44fb3c1-9e58-49a1-9d2a-0bc8d4908871.jpg?v=1630008852&width=300)
+            Brightest Flashlights](https://www.thehomesecuritysuperstore.com/collections/brightest-flashlights)
+        * [![Waterproof Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WaterproofFlashlights_500x500_a69416d2-122c-4923-93fd-5c43cd4c4cc8.jpg?v=1563421561&width=300)
             
-            Pocket Flashlights](https://www.thehomesecuritysuperstore.com/collections/pocket-flashlights)
-        * [![Waterproof / Water Resistant Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WaterproofFlashlights_500x500_a69416d2-122c-4923-93fd-5c43cd4c4cc8.jpg?v=1563421561&width=300)
+            Waterproof Flashlights](https://www.thehomesecuritysuperstore.com/collections/waterproof-flashlights)
+        * [![Cree Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CreeLEDFlashlights_500x500_fe2b515a-4c05-4c83-8fbb-4006f735d911.jpg?v=1563417743&width=300)
             
-            Waterproof / Water Resistant Flashlights](https://www.thehomesecuritysuperstore.com/collections/waterproof-water-resistant-flashlights)
-        * [![Cree LED Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CreeLEDFlashlights_500x500_fe2b515a-4c05-4c83-8fbb-4006f735d911.jpg?v=1563417743&width=300)
-            
-            Cree LED Flashlights](https://www.thehomesecuritysuperstore.com/collections/cree-led-flashlights)
-        * [![Cheap Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CheapFlashlights_500x500_c2857ac8-8e56-4918-8ae7-817bb02b990a.jpg?v=1563418223&width=300)
-            
-            Cheap Flashlights](https://www.thehomesecuritysuperstore.com/collections/cheap-flashlights)
+            Cree Flashlights](https://www.thehomesecuritysuperstore.com/collections/cree-flashlights)
         * [![Small Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SmallFlashlights_500x500_6602d9d8-9e0f-4238-ab89-aea0e9d07deb.jpg?v=1563408154&width=300)
             
             Small Flashlights](https://www.thehomesecuritysuperstore.com/collections/small-flashlights)
@@ -510,9 +502,6 @@ Menu
         * [![Rechargeable Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/RechargeableFlashlights_500x500_ebbb1269-752f-48d5-9e30-a98f78ae6c44.jpg?v=1630009036&width=300)
             
             Rechargeable Flashlights](https://www.thehomesecuritysuperstore.com/collections/rechargeable-flashlights)
-        * [![Specialty Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PFCL2F55_magnetic.jpg?v=1630009087&width=300)
-            
-            Specialty Flashlights](https://www.thehomesecuritysuperstore.com/collections/specialty-flashlights)
         
     * [![Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Safes_250x250_159db79b-ef97-4a92-b846-512fa6a4c237.jpg?v=1646083511&width=60)
         
@@ -527,39 +516,18 @@ Menu
         * [![Biometric Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/biometricsafe_a92e38e2-04af-417b-8c58-878e845f9d07.jpg?v=1624911263&width=300)
             
             Biometric Safes](https://www.thehomesecuritysuperstore.com/collections/biometric-safes)
-        * [![Digital Electronic Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DigitalElecSafes_500x500_14dac563-166d-4717-8f90-0325da8e2f51.jpg?v=1625065333&width=300)
+        * [![Digital Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DigitalElecSafes_500x500_14dac563-166d-4717-8f90-0325da8e2f51.jpg?v=1625065333&width=300)
             
-            Digital Electronic Safes](https://www.thehomesecuritysuperstore.com/collections/digital-electronic-safes)
-        * [![Floor Safe](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FloorSafes1.jpg?v=1660664247&width=300)
-            
-            Floor Safe](https://www.thehomesecuritysuperstore.com/collections/floor-safe)
-        * [![In Floor Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/InFloorSafes_500x500_7f5114a0-4f99-440e-a183-adf92322ebaf.jpg?v=1729536807&width=300)
-            
-            In Floor Safes](https://www.thehomesecuritysuperstore.com/collections/in-floor-safes)
-        * [![Wall Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WallSafes_500x500_3e7d8bd2-22bc-47a2-b53a-74675508b5d9.jpg?v=1563421799&width=300)
-            
-            Wall Safes](https://www.thehomesecuritysuperstore.com/collections/wall-safes)
-        * [![Office Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/OfficeSafes_500x500_7e9fbf99-d02d-4556-ae17-9cda8c3f4ca6.jpg?v=1563411637&width=300)
-            
-            Office Safes](https://www.thehomesecuritysuperstore.com/collections/office-safes)
-        * [![Drop Depository Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DropDepositorySafes_500x500_e6e31c8c-4807-4faf-8824-85cb4418e73f.jpg?v=1563416786&width=300)
-            
-            Drop Depository Safes](https://www.thehomesecuritysuperstore.com/collections/drop-depository-safes)
+            Digital Safes](https://www.thehomesecuritysuperstore.com/collections/digital-safes)
         * [![Fireproof Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FireproofSafes_500x500_82f78b7d-7b08-4bac-97f1-93e880ea27fd.jpg?v=1625065706&width=300)
             
             Fireproof Safes](https://www.thehomesecuritysuperstore.com/collections/fireproof-safes)
-        * [![Mailbox Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MailboxSafes_500x500_3ad82855-ca5e-44b3-83e4-67bbe3be83d8.jpg?v=1563412355&width=300)
+        * [![Locking Mailboxes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MailboxSafes_500x500_3ad82855-ca5e-44b3-83e4-67bbe3be83d8.jpg?v=1563412355&width=300)
             
-            Mailbox Safes](https://www.thehomesecuritysuperstore.com/collections/mailbox-safes)
+            Locking Mailboxes](https://www.thehomesecuritysuperstore.com/collections/locking-mailboxes)
         * [![Hidden Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HiddenSafes_500x500_1987f8e2-08ac-4ba3-8dc3-44bc9aafa95d.jpg?v=1624911462&width=300)
             
             Hidden Safes](https://www.thehomesecuritysuperstore.com/collections/hidden-safes)
-        * [![Diversion Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DiversionSafes_500x500_f5ea1a63-ef76-4672-81cd-65d698a2248f.jpg?v=1624911443&width=300)
-            
-            Diversion Safes](https://www.thehomesecuritysuperstore.com/collections/diversion-safes)
-        * [![Can Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CanSafes_500x500_3328645f-422a-45b8-915a-5b437bc7b216.jpg?v=1563418696&width=300)
-            
-            Can Safes](https://www.thehomesecuritysuperstore.com/collections/can-safes)
         
     * [![Security Lights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/OutdoorSecurityLighting_250x250_0ef2d573-fc40-4315-af03-a40eba400328.jpg?v=1646083683&width=60)
         
@@ -671,21 +639,15 @@ Menu
         
         High Security Padlocks](https://www.thehomesecuritysuperstore.com/collections/high-security-padlocks)
     
-    * [![Brightest Flashlight](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BrightestFlashlights_500x500_d32bc808-59a7-432c-859c-5a849d6c272a.jpg?crop=center&height=300&v=1627072798&width=300)
+    * [![Brightest Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/BrightestFlashlights_500x500_d32bc808-59a7-432c-859c-5a849d6c272a.jpg?crop=center&height=300&v=1627072798&width=300)
         
-        Brightest Flashlight](https://www.thehomesecuritysuperstore.com/collections/brightest-flashlight)
-    * [![Pocket Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PocketFlashlights_500x500_d44fb3c1-9e58-49a1-9d2a-0bc8d4908871.jpg?crop=center&height=300&v=1630008852&width=300)
+        Brightest Flashlights](https://www.thehomesecuritysuperstore.com/collections/brightest-flashlights)
+    * [![Waterproof Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WaterproofFlashlights_500x500_a69416d2-122c-4923-93fd-5c43cd4c4cc8.jpg?crop=center&height=300&v=1563421561&width=300)
         
-        Pocket Flashlights](https://www.thehomesecuritysuperstore.com/collections/pocket-flashlights)
-    * [![Waterproof / Water Resistant Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WaterproofFlashlights_500x500_a69416d2-122c-4923-93fd-5c43cd4c4cc8.jpg?crop=center&height=300&v=1563421561&width=300)
+        Waterproof Flashlights](https://www.thehomesecuritysuperstore.com/collections/waterproof-flashlights)
+    * [![Cree Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CreeLEDFlashlights_500x500_fe2b515a-4c05-4c83-8fbb-4006f735d911.jpg?crop=center&height=300&v=1563417743&width=300)
         
-        Waterproof / Water Resistant Flashlights](https://www.thehomesecuritysuperstore.com/collections/waterproof-water-resistant-flashlights)
-    * [![Cree LED Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CreeLEDFlashlights_500x500_fe2b515a-4c05-4c83-8fbb-4006f735d911.jpg?crop=center&height=300&v=1563417743&width=300)
-        
-        Cree LED Flashlights](https://www.thehomesecuritysuperstore.com/collections/cree-led-flashlights)
-    * [![Cheap Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CheapFlashlights_500x500_c2857ac8-8e56-4918-8ae7-817bb02b990a.jpg?crop=center&height=300&v=1563418223&width=300)
-        
-        Cheap Flashlights](https://www.thehomesecuritysuperstore.com/collections/cheap-flashlights)
+        Cree Flashlights](https://www.thehomesecuritysuperstore.com/collections/cree-flashlights)
     * [![Small Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SmallFlashlights_500x500_6602d9d8-9e0f-4238-ab89-aea0e9d07deb.jpg?crop=center&height=300&v=1563408154&width=300)
         
         Small Flashlights](https://www.thehomesecuritysuperstore.com/collections/small-flashlights)
@@ -698,9 +660,6 @@ Menu
     * [![Rechargeable Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/RechargeableFlashlights_500x500_ebbb1269-752f-48d5-9e30-a98f78ae6c44.jpg?crop=center&height=300&v=1630009036&width=300)
         
         Rechargeable Flashlights](https://www.thehomesecuritysuperstore.com/collections/rechargeable-flashlights)
-    * [![Specialty Flashlights](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PFCL2F55_magnetic.jpg?crop=center&height=300&v=1630009087&width=300)
-        
-        Specialty Flashlights](https://www.thehomesecuritysuperstore.com/collections/specialty-flashlights)
     
     * [![Home Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HomeSafes_500x500_0937d8fd-7118-437e-adc0-3c2b14837b32.jpg?crop=center&height=300&v=1729536742&width=300)
         
@@ -711,39 +670,18 @@ Menu
     * [![Biometric Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/biometricsafe_a92e38e2-04af-417b-8c58-878e845f9d07.jpg?crop=center&height=300&v=1624911263&width=300)
         
         Biometric Safes](https://www.thehomesecuritysuperstore.com/collections/biometric-safes)
-    * [![Digital Electronic Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DigitalElecSafes_500x500_14dac563-166d-4717-8f90-0325da8e2f51.jpg?crop=center&height=300&v=1625065333&width=300)
+    * [![Digital Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DigitalElecSafes_500x500_14dac563-166d-4717-8f90-0325da8e2f51.jpg?crop=center&height=300&v=1625065333&width=300)
         
-        Digital Electronic Safes](https://www.thehomesecuritysuperstore.com/collections/digital-electronic-safes)
-    * [![Floor Safe](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FloorSafes1.jpg?crop=center&height=300&v=1660664247&width=300)
-        
-        Floor Safe](https://www.thehomesecuritysuperstore.com/collections/floor-safe)
-    * [![In Floor Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/InFloorSafes_500x500_7f5114a0-4f99-440e-a183-adf92322ebaf.jpg?crop=center&height=300&v=1729536807&width=300)
-        
-        In Floor Safes](https://www.thehomesecuritysuperstore.com/collections/in-floor-safes)
-    * [![Wall Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/WallSafes_500x500_3e7d8bd2-22bc-47a2-b53a-74675508b5d9.jpg?crop=center&height=300&v=1563421799&width=300)
-        
-        Wall Safes](https://www.thehomesecuritysuperstore.com/collections/wall-safes)
-    * [![Office Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/OfficeSafes_500x500_7e9fbf99-d02d-4556-ae17-9cda8c3f4ca6.jpg?crop=center&height=300&v=1563411637&width=300)
-        
-        Office Safes](https://www.thehomesecuritysuperstore.com/collections/office-safes)
-    * [![Drop Depository Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DropDepositorySafes_500x500_e6e31c8c-4807-4faf-8824-85cb4418e73f.jpg?crop=center&height=300&v=1563416786&width=300)
-        
-        Drop Depository Safes](https://www.thehomesecuritysuperstore.com/collections/drop-depository-safes)
+        Digital Safes](https://www.thehomesecuritysuperstore.com/collections/digital-safes)
     * [![Fireproof Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FireproofSafes_500x500_82f78b7d-7b08-4bac-97f1-93e880ea27fd.jpg?crop=center&height=300&v=1625065706&width=300)
         
         Fireproof Safes](https://www.thehomesecuritysuperstore.com/collections/fireproof-safes)
-    * [![Mailbox Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MailboxSafes_500x500_3ad82855-ca5e-44b3-83e4-67bbe3be83d8.jpg?crop=center&height=300&v=1563412355&width=300)
+    * [![Locking Mailboxes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/MailboxSafes_500x500_3ad82855-ca5e-44b3-83e4-67bbe3be83d8.jpg?crop=center&height=300&v=1563412355&width=300)
         
-        Mailbox Safes](https://www.thehomesecuritysuperstore.com/collections/mailbox-safes)
+        Locking Mailboxes](https://www.thehomesecuritysuperstore.com/collections/locking-mailboxes)
     * [![Hidden Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HiddenSafes_500x500_1987f8e2-08ac-4ba3-8dc3-44bc9aafa95d.jpg?crop=center&height=300&v=1624911462&width=300)
         
         Hidden Safes](https://www.thehomesecuritysuperstore.com/collections/hidden-safes)
-    * [![Diversion Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/DiversionSafes_500x500_f5ea1a63-ef76-4672-81cd-65d698a2248f.jpg?crop=center&height=300&v=1624911443&width=300)
-        
-        Diversion Safes](https://www.thehomesecuritysuperstore.com/collections/diversion-safes)
-    * [![Can Safes](//www.thehomesecuritysuperstore.com/cdn/shop/collections/CanSafes_500x500_3328645f-422a-45b8-915a-5b437bc7b216.jpg?crop=center&height=300&v=1563418696&width=300)
-        
-        Can Safes](https://www.thehomesecuritysuperstore.com/collections/can-safes)
     
     * [![Security Lights with Camera](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SecurityLightsCam_500x500_4c3596d0-36e3-4763-9725-157576ef898a.jpg?crop=center&height=300&v=1729536890&width=300)
         
