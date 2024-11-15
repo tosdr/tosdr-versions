@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/1f9e1412-3999-4cee-a80d-a9f65e57537d/20241115T015816/1f9e1412-3999-4cee-a80d-a9f65e57537d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1f9e1412-3999-4cee-a80d-a9f65e57537d/20241115T015816/1f9e1412-3999-4cee-a80d-a9f65e57537d_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-minister-advocate-homeless-charged-child-porn/281-82eac87f-fcd1-4930-90ac-ac8d77da9f15)
+    *  [![](https://media.king5.com/assets/KING/images/9737b014-65ba-476a-af1f-7d2aa6bb1bb9/9737b014-65ba-476a-af1f-7d2aa6bb1bb9_16x9.jpg) ![](https://media.king5.com/assets/KING/images/9737b014-65ba-476a-af1f-7d2aa6bb1bb9/9737b014-65ba-476a-af1f-7d2aa6bb1bb9_360x203.jpg)](https://www.king5.com/article/news/local/seattle-century-ballroom-announces-plans-to-close-2025/281-4f6995fa-bf22-4482-b9da-2485f82a5d50)
         
-        #### [Child porn charges filed against Seattle minister, homeless advocate](https://www.king5.com/article/news/crime/seattle-minister-advocate-homeless-charged-child-porn/281-82eac87f-fcd1-4930-90ac-ac8d77da9f15)
+        #### [Seattle's Century Ballroom announces plans to close in 2025](https://www.king5.com/article/news/local/seattle-century-ballroom-announces-plans-to-close-2025/281-4f6995fa-bf22-4482-b9da-2485f82a5d50)
         
-    *  [![](https://media.king5.com/assets/KING/images/948f4f3d-ca03-41f3-aad6-4204fde22a58/20241110T040722/948f4f3d-ca03-41f3-aad6-4204fde22a58_16x9.jpg) ![](https://media.king5.com/assets/KING/images/948f4f3d-ca03-41f3-aad6-4204fde22a58/20241110T040722/948f4f3d-ca03-41f3-aad6-4204fde22a58_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-stabbing-suspect-charged-assault/281-9ef02bd0-f0e8-4880-81e4-62ba587c7f9e)
+    *  [![](https://media.king5.com/assets/KING/images/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5/20241115T070925/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5/20241115T070925/7a053bd0-91bc-4ddc-9fd0-dfecb67fd8a5_360x203.jpg)](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
         
-        #### [Suspect that went on stabbing spree in Seattle charged, held on $2 million bail](https://www.king5.com/article/news/crime/seattle-stabbing-suspect-charged-assault/281-9ef02bd0-f0e8-4880-81e4-62ba587c7f9e)
+        #### [Car thefts down 30% in Washington state in 2024, officials say](https://www.king5.com/article/news/crime/car-thefts-down-washington-state-2024-crime-data/281-153e43a6-44be-4a0b-8f18-042e7c0b492a)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/aea2c938-bd08-4576-be8d-5d359fed62d0/20241115T013053/aea2c938-bd08-4576-be8d-5d359fed62d0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/aea2c938-bd08-4576-be8d-5d359fed62d0/20241115T013053/aea2c938-bd08-4576-be8d-5d359fed62d0_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/6d1d5e6a-37e5-40b0-8694-78c341b1a38c/20241115T072559/6d1d5e6a-37e5-40b0-8694-78c341b1a38c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/6d1d5e6a-37e5-40b0-8694-78c341b1a38c/20241115T072559/6d1d5e6a-37e5-40b0-8694-78c341b1a38c_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-47°
+43°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
