@@ -218,14 +218,9 @@ UPCOMING EVENTS
 
 [See all events](https://www.unitedwayri.org/get-involved/join-an-event/)
 
-[![FCARI Conference image only](https://www.unitedwayri.org/wp-content/uploads/bb-plugin/cache/FCARI-Conference-image-only-1-landscape-fe6970067cabe80a8470698543dd8409-.jpg "FCARI Conference image only")](https://www.unitedwayri.org/event/caring-for-family-caregivers-conference-2/)
+Sorry, we couldn't find any posts. Please try a different search.
 
-14 Nov
-
-#### [Join us at the 6th Annual Family Caregivers Alliance of RI Conference](https://www.unitedwayri.org/event/caring-for-family-caregivers-conference-2/ "Join us at the 6th Annual Family Caregivers Alliance of RI Conference")
-
-Our Voices, Our Stories: Centering the Unique Needs  
-of Caregivers in Rhode Island [(more…)](https://www.unitedwayri.org/event/caring-for-family-caregivers-conference-2/#more-22049)
+### Search
 
 ### Subscribe to add impact to your inbox
 
