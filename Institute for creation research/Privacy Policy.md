@@ -95,69 +95,93 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Origins Issues
+More Proteins Were Created to Catalyze the Reactions of Life
 
-[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/pb-j-painful-blisters-jellies)
+[![](/i/wide/atp_synthase_motor_wide.jpg)](https://www.icr.org/article/sophisticated-protein-motor-defies)
 
-[PB & J (Painful Blisters and Jellies)](https://www.icr.org/article/pb-j-painful-blisters-jellies/)
+[Sophisticated Protein Motor Defies Evolution](https://www.icr.org/article/sophisticated-protein-motor-defies/)
 
-Jellies (commonly termed "jellyfish") of the phylum Cnidaria (ni-dah'-ree-ah), class Scyphozoa, are amazing creatures composed of...
+God appears to have left His unmistakable signature throughout His creation, even on the smallest parts. ATP synthase, an important enzyme, manufactures...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/wide/molecule_vision_wide.jpg)](https://www.icr.org/article/perfect-molecule-for-vision-shows-eyes)
+
+[Perfect Molecule for Vision Shows Eyes Were Designed](https://www.icr.org/article/perfect-molecule-for-vision-shows-eyes/)
+
+The eye is an ingeniously designed biological mechanism. In 1802, William Paley used eyes as a clear illustration of what he called "contrivances,"...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+[![](/i/wide/kangaroo_rat_wide.jpg)](https://www.icr.org/article/hormone-research-unwittingly-corroborates-biblical)
+
+[Hormone Research Unwittingly Corroborates Biblical Kinds](https://www.icr.org/article/hormone-research-unwittingly-corroborates-biblical/)
+
+Hormones are small chemical switches that turn on or off different cellular systems. They are tissue-specific, most often produced by the tissue of one...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/spiralgalaxy_1400x1050.jpg)](https://www.icr.org/article/distant-barred-spiral-galaxy)
+
+[Distant Barred Spiral Galaxy Shouldn't Exist?](https://www.icr.org/article/distant-barred-spiral-galaxy/)
+
+Conventional theories have a difficult time accounting for the existence of a distant galaxy whose existence has been revealed by the James Webb Space...
+
+BY: [JAKE HEBERT, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=218)
+
+[![](/i/Main%20Stage%20-%201400x1050/originforecholocation_1400x1050.jpg)](https://www.icr.org/article/modern-echolocation-bats)
+
+[An ''Early'' Origin for Modern Echolocation in Bats](https://www.icr.org/article/modern-echolocation-bats/)
+
+As flying mammals, bats continue to amaze zoologists with their incredible abilities.1,2 But their origin continues to be an enigma for conventional...
 
 BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
 
-[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/mending-mistakes-amazing-ability-repair)
+[![](/i/ICR_Feb23_wallpaper-Main.jpg)](https://www.icr.org/article/february-2023-icr-wallpaper)
 
-[Mending Mistakes - The Amazing Ability of Repair](https://www.icr.org/article/mending-mistakes-amazing-ability-repair/)
+[February 2023 ICR Wallpaper](https://www.icr.org/article/february-2023-icr-wallpaper/)
 
-If someone were to ask a creation scientist for evidence of creation, he may very well reply, "The DNA molecule." Everyone has heard...
+"Let all that you do be done with love." 1 Corinthians 16:14 NKJV ICR February 2023 wallpapers are now available for mobile, tablet, and...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
-
-[![](https://dummyimage.com/328x116/DDD/000&text=Origins Issues+Article)](https://www.icr.org/article/those-anti-creation-websites)
-
-[Those Anti-Creation Websites](https://www.icr.org/article/those-anti-creation-websites/)
-
-One need not cruise the Net very long to encounter a plethora of anti-creation and anti- Christian sites. This is strange in light of society’s insistence...
-
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [STAFF WRITER](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=27)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/62183393/file.jpg)
 
-Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
-
-$7.99
-
-$9.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
-
-The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+Adam or Apes - Download](https://store.icr.org/adam-or-apes-download.html)
 
 $7.99
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60662163/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+Living in Light of Genesis](https://store.icr.org/living-in-light-of-genesis.html)
 
-Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
+$15.99
 
-$12.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216342/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
-
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+Discovering Dinosaurs - Download](https://store.icr.org/mr-brian-thomas-discovering-dinosaurs-download.html)
 
 $4.99
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/60993469/file.jpg)
 
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+Why the World Looks So Young - eBook](https://store.icr.org/why-the-world-looks-so-young-ebook.html)
 
-$16.99
+$2.99
+
+$7.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/49457244/file.jpg)
+
+Adam or Apes](https://store.icr.org/adam-or-apes.html)
+
+$12.99
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
