@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. sql
+1. java
     
-2. computer science
+2. c
     
-3. web development
+3. html
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Project Management
     
-    4,181 courses](https://www.classcentral.com/subject/communication-skills)
+    4,160 courses](https://www.classcentral.com/subject/project-management)
 2. [Digital Marketing
     
-    6,190 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Artificial Intelligence
+    6,217 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [ChatGPT
     
-    13,618 courses](https://www.classcentral.com/subject/ai)
+    1,096 courses](https://www.classcentral.com/subject/chatgpt)
 
 Popular courses
 ---------------
 
-1. [Introduction to Marketing
+1. [Introduction to Psychology
     
-    University of Pennsylvania](https://www.classcentral.com/course/whartonmarketing-1137)
-2. [How to Succeed at: Interviews
+    University of Toronto](https://www.classcentral.com/course/introduction-psych-647)
+2. [Machine Learning for Musicians and Artists
     
-    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
-3. [Introduction to Engineering Mechanics
+    Goldsmiths University of London](https://www.classcentral.com/course/kadenze-machine-learning-for-musicians-and-artists-3768)
+3. [Introducción a los encofrados y las cimbras en obra civil y edificación
     
-    Georgia Institute of Technology](https://www.classcentral.com/course/statics1-564)
+    Universitat Politècnica de València](https://www.classcentral.com/course/civil-engineering-universitat-politecnica-de-vale-11880)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
