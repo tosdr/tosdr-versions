@@ -113,9 +113,9 @@
             
             Product Brief
             
-            ##### LevelBlue Consulting Adversary Simulation Service
+            ##### LevelBlue Managed Threat Detection and Response for Partners
             
-            [Learn more](https://cyber.levelblue.com/m/7a567d558a6a2208/original/PB-Adversary-Simulation-Consulting.pdf)
+            [Learn more](https://cyber.levelblue.com/m/5419a206019796c7/original/PB-Managed-Threat-Detection-Response-Partners.pdf)
             
             [View all Product Briefs](https://www.alienvault.com/resource-center#content_product-brief)
             
@@ -123,9 +123,9 @@
             
             Solution Brief
             
-            ##### LevelBlue Managed Detection and Response
+            ##### LevelBlue Incident Response Retainer for Partners
             
-            [Learn more](https://cyber.levelblue.com/m/740b863bacd986b2/original/SB-Managed-Detection-Response.pdf)
+            [Learn more](https://cyber.levelblue.com/m/4db9a066c0577202/original/SB-Incident-Response-Retainer-Partners.pdf)
             
             [View all Solution Briefs](https://www.alienvault.com/resource-center#content_solution-brief)
             
@@ -165,9 +165,9 @@
             
             Blog: Security Essentials
             
-            ##### LevelBlue Cybersecurity Awareness Month Recap
+            ##### Safeguarding Healthcare Organizations from IoMT Risks
             
-            [Learn more](https://levelblue.com/blogs/security-essentials/levelblue-cybersecurity-awareness-month-recap)
+            [Learn more](https://levelblue.com/blogs/security-essentials/safeguarding-healthcare-organizations-from-iomt-risks)
             
             [View all Blog posts](https://www.alienvault.com/blogs)
             
@@ -399,13 +399,13 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 From the Blog
 
-![Theresa Lanowitz](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
+![Farwa Sajjad](data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22150px%22%20height%3D%22150px%22%3E%3Crect%20fill%3D%22none%22%20width%3D%22150%22%20height%3D%22150%22%2F%3E%3C%2Fsvg%3E)
 
-#### Theresa Lanowitz
+#### Farwa Sajjad
 
-Nov 14, 2024
+Nov 15, 2024
 
-### [LevelBlue Cybersecurity Awareness Month Recap](https://levelblue.com/blogs/security-essentials/levelblue-cybersecurity-awareness-month-recap)
+### [Safeguarding Healthcare Organizations from IoMT Risks](https://levelblue.com/blogs/security-essentials/safeguarding-healthcare-organizations-from-iomt-risks)
 
 [Explore All Blog Posts ›](https://www.alienvault.com/blogs)
 
