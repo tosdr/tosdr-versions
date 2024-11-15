@@ -192,7 +192,10 @@ Please enter your location to help us display the correct information for your a
 
   
 
-[![Gifts matched for World Kindness Day - Your donation will be 2x matched - Donate today!](/sites/default/files/WDK-24-2340x804-transparent.png "Gifts 2x matched for World Kindness Day")](https://donate.autismspeaks.org/-/XTTHJLTJ)
+Enhancing lives tod​ay and accelerating a spectrum of solutions for tomorrow.
+=============================================================================
+
+![Champions of Change Tonya and Tyler](/sites/default/files/styles/wysiwyg_fullscreen_width/public/Tonya_Tyler_herohtml.png?itok=p_dJo7-H "Tonya Tyler hero html crop")
 
 Autism information and support
 
