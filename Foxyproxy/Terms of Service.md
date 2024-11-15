@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is great. The people involved are truly appreciated.
+I think foxy proxy offers a great service. I will definitely be setting up a subscription in the future and I have already recommended it to all my expat friends.
 
-Todd Kopecki
+Darren Smalley
