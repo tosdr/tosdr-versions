@@ -188,9 +188,9 @@ Hi
     * BACK
     * [All Products](https://www.smithbrothersfarms.com/all-products)
         
-    * [New! (77)](https://www.smithbrothersfarms.com/featured-products)
+    * [New! (83)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (57)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (56)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
@@ -218,10 +218,10 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (75)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (74)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
-        * [Greek Yogurt (52)](https://www.smithbrothersfarms.com/greek)
+        * [Greek Yogurt (51)](https://www.smithbrothersfarms.com/greek)
             
         * [Traditional Yogurt (21)](https://www.smithbrothersfarms.com/traditional)
             
@@ -266,7 +266,7 @@ Hi
         * [Prepared Produce (5)](https://www.smithbrothersfarms.com/prepped)
             
         
-    * [Bakery (104)](https://www.smithbrothersfarms.com/bakery)
+    * [Bakery (107)](https://www.smithbrothersfarms.com/bakery)
         
         * BACK
         * [Bread & Buns (35)](https://www.smithbrothersfarms.com/bread)
@@ -281,7 +281,7 @@ Hi
             
         * [Treats (18)](https://www.smithbrothersfarms.com/desserts)
             
-        * [Cookies (3)](https://www.smithbrothersfarms.com/cookie)
+        * [Cookies (6)](https://www.smithbrothersfarms.com/cookie)
             
         
     * [Meat (52)](https://www.smithbrothersfarms.com/meat-poultry)
@@ -296,12 +296,12 @@ Hi
         * [Deli & Charcuterie (17)](https://www.smithbrothersfarms.com/deli-and-charcuterie)
             
         
-    * [Meals & Sides (75)](https://www.smithbrothersfarms.com/prepared-foods)
+    * [Meals & Sides (78)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
         * [Frozen Meals (31)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (22)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (25)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (4)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
