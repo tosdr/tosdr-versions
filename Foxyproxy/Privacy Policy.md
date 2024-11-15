@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I have been quite happy with the service...I have already upgraded to an annual subscription.
+Just want to say WOW great response time, great response, all together extremely satisfied. Thank you, Dan
 
-Tom Swift
+Dan Rosendorf
