@@ -248,6 +248,22 @@ Cougar Mountain Software develops leading on-premises accounting solutions that 
 
 [](#)
 
+Denali Web Screens
+
+Please enable JavaScript in your browser to complete this form.
+
+Name \*
+
+First
+
+Last
+
+Email \*
+
+Submit![Loading](https://www.cougarmtn.com/wp-content/plugins/wpforms-lite/assets/images/submit-spin.svg)
+
+CLOSE
+
 <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start">﻿</span>
 
 <span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start">﻿</span>
