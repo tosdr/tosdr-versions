@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Orbán Calls on EU to End Russian Sanctions to Avoid ‘Destroying’ Europe’s Economy](https://www.theepochtimes.com/world/orban-calls-on-eu-to-end-russian-sanctions-to-avoid-destroying-europes-economy-5760336)
+    
+    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Orbán Calls on EU to End Russian Sanctions to Avoid ‘Destroying’ Europe’s Economy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Orbán Calls on EU to End Russian Sanctions to Avoid ‘Destroying’ Europe’s Economy](https://img.theepochtimes.com/assets/uploads/2024/09/19/id5726783-NATO-NORDICS-SWEDEN-HUNGARY.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/orban-calls-on-eu-to-end-russian-sanctions-to-avoid-destroying-europes-economy-5760336)
+* [Record High Migration From Poor to Rich Countries in 2023: Study](https://www.theepochtimes.com/world/record-high-migration-from-poor-to-rich-countries-in-2023-study-5760279)
+    
+    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Record High Migration From Poor to Rich Countries in 2023: Study](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Record High Migration From Poor to Rich Countries in 2023: Study](https://img.theepochtimes.com/assets/uploads/2023/07/14/id5399745-TRV-WLT-UK-ENTRY-FEE-GET-205x123.jpg.webp)](https://www.theepochtimes.com/world/record-high-migration-from-poor-to-rich-countries-in-2023-study-5760279)
+* [18 States File Lawsuit Against SEC Over Alleged Unlawful Crypto Regulation](https://www.theepochtimes.com/business/18-states-file-lawsuit-against-sec-over-alleged-unlawful-crypto-regulation-5760177)
+    
+    NEW By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![18 States File Lawsuit Against SEC Over Alleged Unlawful Crypto Regulation](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![18 States File Lawsuit Against SEC Over Alleged Unlawful Crypto Regulation](https://img.theepochtimes.com/assets/uploads/2024/05/03/id5643301-GettyImages-82880353KO-205x123.jpg.webp)](https://www.theepochtimes.com/business/18-states-file-lawsuit-against-sec-over-alleged-unlawful-crypto-regulation-5760177)
+* [Senate Leader-Elect Thune Says ‘All Options’ on the Table to Confirm Trump’s Cabinet Selections](https://www.theepochtimes.com/us/senate-leader-elect-thune-says-all-options-on-the-table-to-confirm-trumps-cabinet-selections-5760368)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Senate Leader-Elect Thune Says ‘All Options’ on the Table to Confirm Trump’s Cabinet Selections](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senate Leader-Elect Thune Says ‘All Options’ on the Table to Confirm Trump’s Cabinet Selections](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759243-11132024-DSC09492-John-Thune-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-leader-elect-thune-says-all-options-on-the-table-to-confirm-trumps-cabinet-selections-5760368)
+* [Israel Says UN Peacekeepers in Lebanon Are Serving as Hezbollah’s Human Shields](https://www.theepochtimes.com/world/israel-says-un-peacekeepers-in-lebanon-are-serving-as-hezbollahs-human-shields-5759919)
+    
+    NEW By [Dan M. Berger](https://www.theepochtimes.com/author/dan-m-berger)
+    
+    [![Israel Says UN Peacekeepers in Lebanon Are Serving as Hezbollah’s Human Shields](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Israel Says UN Peacekeepers in Lebanon Are Serving as Hezbollah’s Human Shields](https://img.theepochtimes.com/assets/uploads/2024/10/15/id5741678-GettyImages-2176702516-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/israel-says-un-peacekeepers-in-lebanon-are-serving-as-hezbollahs-human-shields-5759919)
+* [Here’s What’s Next for Trump’s Cabinet Picks](https://www.theepochtimes.com/us/whats-next-for-trumps-cabinet-picks-5759662)
+    
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
+    
+    [![Here’s What’s Next for Trump’s Cabinet Picks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Here’s What’s Next for Trump’s Cabinet Picks](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759725-GettyImages-2183887398-Donald-Trump-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/whats-next-for-trumps-cabinet-picks-5759662)
+* [UK Economic Growth Stalls in First 3 Months After Labour Win](https://www.theepochtimes.com/world/economic-growth-stalls-in-first-3-months-after-labour-win-5760313)
+    
+    3hr By [Evgenia Filimianova](https://www.theepochtimes.com/author/evgenia-filimianova)
+    
+    [![UK Economic Growth Stalls in First 3 Months After Labour Win](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![UK Economic Growth Stalls in First 3 Months After Labour Win](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760348-01JB9XBYNP9N38DC15F2Y4BZFM.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/economic-growth-stalls-in-first-3-months-after-labour-win-5760313)
+* [Democrat Governor Backs RFK Jr. for US Health Secretary Position](https://www.theepochtimes.com/us/democrat-governor-backs-rfk-jr-for-us-health-secretary-position-5760266)
+    
+    4hr By [Zachary Stieber](https://www.theepochtimes.com/author/zachary-stieber)
+    
+    [![Democrat Governor Backs RFK Jr. for US Health Secretary Position](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Democrat Governor Backs RFK Jr. for US Health Secretary Position](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760351-colorado-jared-polis.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/democrat-governor-backs-rfk-jr-for-us-health-secretary-position-5760266)
 * [6 Charts That Show How Trump Realigned the Political Landscape](https://www.theepochtimes.com/article/6-charts-that-show-how-trump-realigned-the-political-landscape-5757759)
     
-    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    14hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord) and [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
     [![6 Charts That Show How Trump Realigned the Political Landscape](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![6 Charts That Show How Trump Realigned the Political Landscape](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5760121-6-Charts-1-01-205x123.jpg.webp)](https://www.theepochtimes.com/article/6-charts-that-show-how-trump-realigned-the-political-landscape-5757759)
 * [Trump Picks North Dakota Gov. Doug Burgum to Lead Interior Department](https://www.theepochtimes.com/us/trump-picks-north-dakota-gov-doug-burgum-for-interior-department-5760164)
     
-    8hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    14hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Trump Picks North Dakota Gov. Doug Burgum to Lead Interior Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Picks North Dakota Gov. Doug Burgum to Lead Interior Department](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721865-09102024-DSC08060-Doug-Burgum-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-north-dakota-gov-doug-burgum-for-interior-department-5760164)
-* [California Voters on Track to Reject Higher Minimum Wage Proposal, Citing Inflation Concerns](https://www.theepochtimes.com/us/california-voters-on-track-to-reject-higher-minimum-wage-proposal-citing-inflation-concerns-5759523)
-    
-    8hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
-    
-    [![California Voters on Track to Reject Higher Minimum Wage Proposal, Citing Inflation Concerns](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![California Voters on Track to Reject Higher Minimum Wage Proposal, Citing Inflation Concerns](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5757557-Voters-California-4-205x123.jpg.webp)](https://www.theepochtimes.com/us/california-voters-on-track-to-reject-higher-minimum-wage-proposal-citing-inflation-concerns-5759523)
-* [5 Takeaways From Congressional UFO Hearing](https://www.theepochtimes.com/us/5-takeaways-from-congressional-ufo-hearing-5759956)
-    
-    8hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![5 Takeaways From Congressional UFO Hearing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Takeaways From Congressional UFO Hearing](https://img.theepochtimes.com/assets/uploads/2024/01/18/id5568314-Rep-Luna-GettyImages-1813803302-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-takeaways-from-congressional-ufo-hearing-5759956)
-* [5 Things to Know About Tulsi Gabbard, Trump’s Pick to Lead Intel Community](https://www.theepochtimes.com/us/5-things-to-know-about-tulsi-gabbard-trumps-pick-to-lead-intel-community-5759705)
-    
-    10hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![5 Things to Know About Tulsi Gabbard, Trump’s Pick to Lead Intel Community](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![5 Things to Know About Tulsi Gabbard, Trump’s Pick to Lead Intel Community](https://img.theepochtimes.com/assets/uploads/2024/03/08/id5603360-03072024-DSC08321-Tulsi-Gabbard-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-things-to-know-about-tulsi-gabbard-trumps-pick-to-lead-intel-community-5759705)
-* [Trump Picks Former Rep. Doug Collins for Secretary of Veterans Affairs](https://www.theepochtimes.com/us/trump-picks-former-rep-doug-collins-for-veterans-affairs-secretary-5760104)
-    
-    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Trump Picks Former Rep. Doug Collins for Secretary of Veterans Affairs](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Picks Former Rep. Doug Collins for Secretary of Veterans Affairs](https://img.theepochtimes.com/assets/uploads/2020/09/30/rep-doug-collins-2-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-former-rep-doug-collins-for-veterans-affairs-secretary-5760104)
-* [Trump Taps Attorneys Todd Blanche for Deputy AG, Dean John Sauer for Solicitor General](https://www.theepochtimes.com/us/trump-chooses-attorneys-todd-blanche-emil-bove-to-serve-in-doj-5760083)
-    
-    11hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Trump Taps Attorneys Todd Blanche for Deputy AG, Dean John Sauer for Solicitor General](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Taps Attorneys Todd Blanche for Deputy AG, Dean John Sauer for Solicitor General](https://img.theepochtimes.com/assets/uploads/2024/05/20/id5653881-GettyImages-2153308313KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chooses-attorneys-todd-blanche-emil-bove-to-serve-in-doj-5760083)
-* [Day in Photos: A Rescue Mission, Congressional Freshmen Orientation, and a Deadly Explosion](https://www.theepochtimes.com/article/day-in-photos-a-rescue-mission-congressional-freshmen-orientation-and-a-deadly-explosion-5759667)
-    
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: A Rescue Mission, Congressional Freshmen Orientation, and a Deadly Explosion](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: A Rescue Mission, Congressional Freshmen Orientation, and a Deadly Explosion](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5760008-GettyImages-2184031422-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-rescue-mission-congressional-freshmen-orientation-and-a-deadly-explosion-5759667)
-* [IRS Watchdog Nominee Vows to Probe Allegations of IRS Misconduct](https://www.theepochtimes.com/us/irs-watchdog-nominee-vows-to-probe-allegations-of-irs-misconduct-5759828)
-    
-    11hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![IRS Watchdog Nominee Vows to Probe Allegations of IRS Misconduct](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![IRS Watchdog Nominee Vows to Probe Allegations of IRS Misconduct](https://img.theepochtimes.com/assets/uploads/2024/02/18/id5589772-06282023-DSC05012-IRSKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/irs-watchdog-nominee-vows-to-probe-allegations-of-irs-misconduct-5759828)
-* [House Committee Proposes Revoking China’s Trade Status](https://www.theepochtimes.com/china/house-committee-proposes-revoking-chinas-trade-status-5759775)
-    
-    11hr By [Catherine Yang](https://www.theepochtimes.com/author/catherine-yang), Epoch Times
-    
-    [![House Committee Proposes Revoking China’s Trade Status](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![House Committee Proposes Revoking China’s Trade Status](https://img.theepochtimes.com/assets/uploads/2024/11/03/id5753056-GettyImages-979598998-205x123.jpg.webp)](https://www.theepochtimes.com/china/house-committee-proposes-revoking-chinas-trade-status-5759775)
+    ![Trump Picks North Dakota Gov. Doug Burgum to Lead Interior Department](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760360-09102024-DSC08060-Doug-Burgum.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-picks-north-dakota-gov-doug-burgum-for-interior-department-5760164)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
