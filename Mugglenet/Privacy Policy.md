@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Evanna Lynch found out about the auditions for the role of Luna Lovegood after reading a news post on MuggleNet. She has been a long-term fan of the series and the website. She made Luna’s lion hat in Harry Potter and the Half-Blood Prince and created some of the jewelry worn by Luna in the films.
+The Forbidden Forest set in the Warner Bros. studio has 19 trees, each with a diameter of around 12 feet.
 
 ### Potter History
 
-February 19, 2009 – Filming begins on Harry Potter and the Deathly Hallows.
+July 8, 1999 – Harry Potter and the Prisoner of Azkaban is published in the United Kingdom.
 
 ### Potter Quote
 
-“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
+“If being good at Divination means I have to pretend to see death omens in a lump of tea leaves, I’m not sure I’ll be studying it much longer!”
 
 [](#)
 
