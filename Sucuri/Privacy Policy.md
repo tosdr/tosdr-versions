@@ -1,3 +1,27 @@
+Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+
+Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+
+Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+
+Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+
+Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+
+Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+
 [![Sucuri](https://sucuri.net/wp-content/uploads/elementor/thumbs/Sucuri-Logo-qio221wlg9vvaaewra0jqjt8rf04jyn1vtdestgfmi.png "Sucuri Logo")](https://sucuri.net/)
 
 * [Products](https://sucuri.net/website-security/)
