@@ -128,11 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
     * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
+    * [Champions Trophy](https://www.news18.com/cricket/icc-champions-trophy-row-pakistan-provokes-india-cricket-board-announces-trophy-tour-in-pok-9121059.html)
+    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
     * [Canada](https://www.news18.com/world/in-canada-khalistanis-ask-canadians-to-go-back-to-england-europe-watch-9120165.html)
-    * [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
-    * [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-    * [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+    * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-regrets-inviting-abhishek-bachchan-on-kaun-banega-crorepati-16-galti-kardi-inko-9120997.html)
     * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -169,11 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
 * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
+* [Champions Trophy](https://www.news18.com/cricket/icc-champions-trophy-row-pakistan-provokes-india-cricket-board-announces-trophy-tour-in-pok-9121059.html)
+* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
 * [Canada](https://www.news18.com/world/in-canada-khalistanis-ask-canadians-to-go-back-to-england-europe-watch-9120165.html)
-* [JEE Main 2025](https://www.news18.com/education-career/jee-main-2025-only-5-10-lakh-applications-so-far-why-obc-and-ews-students-are-not-applying-9118860.html)
-* [Sanjay Kapoor](https://www.news18.com/movies/sanjay-kapoor-recalls-living-in-chembur-with-anil-kapoor-boney-kapoor-wed-sleep-on-mattresses-9118916.html)
-* [Laapataa Ladies](https://www.news18.com/movies/aamir-khan-and-kiran-rao-change-laapataa-ladies-title-ahead-of-oscar-campaign-heres-the-new-name-9118454.html)
+* [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-regrets-inviting-abhishek-bachchan-on-kaun-banega-crorepati-16-galti-kardi-inko-9120997.html)
 * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
 
 * Follow Us
