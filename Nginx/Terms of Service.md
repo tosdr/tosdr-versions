@@ -531,12 +531,12 @@ F5’s portfolio of automation, security, performance, and insight capabilities 
 
 #### RESOURCESRESOURCES
 
-* [Product Documentation](https://support.f5.com/csp/home)
+* [Product Documentation](https://my.f5.com/manage/s/tech-documents)
 * [White Papers](https://www.f5.com/services/resources/white-papers.html)
 * [Glossary](https://www.f5.com/glossary)
 * [Customer Stories](https://www.f5.com/customer-stories.html)
 * [Webinars](https://www.f5.com/company/events/webinars)
-* [Free Online Courses](https://www.f5.com/services/training/free-training-courses/getting-started-start-here.html)
+* [Free Online Courses](https://www.f5.com/learn/training)
 * [F5 Certification](https://www.f5.com/services/certification.html)
 * [LearnF5 Training](https://www.f5.com/services/training.html)
 
