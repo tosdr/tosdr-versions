@@ -92,9 +92,9 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [Government bans social media fearing rise of 'Generation Left'](https://independentaustralia.net/article-display/government-bans-social-media-fearing-rise-of--generation-left,19158)
 
-[Donald Trump wins presidency thanks to lack of media scrutiny](https://independentaustralia.net/article-display/politics-display/donald-trump-wins-presidency-thanks-to-lack-of-media-scrutiny,19157)
+[AUKUS proves Australia and U.S. to be an Odd Couple](https://independentaustralia.net/article-display/politics-display/aukus-proves-australia-and-us-to-be-an-odd-couple,19166)
 
-[Why an LNP win in outback QLD won't necessarily translate nationwide](https://independentaustralia.net/article-display/why-an-lnp-win-in-outback-qld-wont-necessarily-translate-nationwide,19151)
+[Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159)
 
 Privacy Policy
 
@@ -181,11 +181,11 @@ Just in
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [IA is fighting for its life and its survival depends on YOU!](https://independentaustralia.net/article-display/ia-is-fighting-for-its-life-and-its-survival-depends-on-you,19172 "Permanent Link : IA is fighting for its life and its survival depends on YOU!")
 * [Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/trump-dutton-and-calling-a-fascist-a-fascist,19175 "Permanent Link : Trump, Dutton and calling a fascist a Fascist")
-* [Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159 "Permanent Link : Australia’s 3G shutdown: Why your 4G/5G phone is now blocked")
+* [Poor speech alienates hearing-impaired Australians](https://independentaustralia.net/article-display/poor-speech-alienates-hearing-impaired-australians,19176 "Permanent Link : Poor speech alienates hearing-impaired Australians")
+* [Melbourne dealing with green amenity versus endless growth](https://independentaustralia.net/article-display/melbourne-dealing-with-green-amenity-versus-endless-growth,19174 "Permanent Link : Melbourne dealing with green amenity versus endless growth")
 * [CARTOONS: Dave vs Rupert](https://independentaustralia.net/article-display/cartoons-dave-vs-rupert,19161 "Permanent Link : CARTOONS: Dave vs Rupert")
 * [What is sustainable growth of the onshore international education industry?](https://independentaustralia.net/article-display/what-is-sustainable-growth-of-the-onshore-international-education-industry,19173 "Permanent Link : What is sustainable growth of the onshore international education industry?")
 * [International Day of People with Disabilities: Amplification gone wrong](https://independentaustralia.net/article-display/international-day-of-people-with-disabilities-amplification-gone-wrong,19171 "Permanent Link : International Day of People with Disabilities: Amplification gone wrong")
-* [Trump — the oldest, richest and first felon to be President](https://independentaustralia.net/article-display/trump-the-oldest-richest-and-first-felon-to-be-president,19170 "Permanent Link : Trump — the oldest, richest and first felon to be President")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
