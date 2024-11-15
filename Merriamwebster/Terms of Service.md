@@ -256,11 +256,11 @@ Missing Letter A daily crossword with a twist
 
 Play](https://www.merriam-webster.com/games/missing-letter)
 
-[![collage with pinking shears decanter bustle sculling on a purple background](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+[![silhouette of a man with a megaphone against a british flag ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
-Name That Thing MegaQuiz: Vol. 5 Test your visual vocabulary!
+Another Great British Vocabulary Quiz, Innit? A double-decker quiz with words from across the pond
 
-Take the quiz](https://www.merriam-webster.com/games/ntt-mega-5)
+Take the quiz](https://www.merriam-webster.com/games/british-quiz-2)
 
 [Merriam Webster](https://www.merriam-webster.com/)
 
