@@ -459,6 +459,32 @@ Company
 
 [Contact us](https://www.rezolve.ai/contact-us)
 
+Comparison
+
+[TopDesk](https://www.rezolve.ai/compare/topdesk)
+
+[SolarWinds](https://www.rezolve.ai/compare/solarwinds)
+
+[ServiceNow](https://www.rezolve.ai/compare/servicenow)
+
+[Managengine](https://www.rezolve.ai/compare/managengine)
+
+[Kace](https://www.rezolve.ai/compare/kace)
+
+[JIRA Service Management](https://www.rezolve.ai/compare/jira-service-management)
+
+[Ivanti Neurons](https://www.rezolve.ai/compare/ivanti-neurons)
+
+[Halo ITSM](https://www.rezolve.ai/compare/halo-itsm)
+
+[Freshservice](https://www.rezolve.ai/compare/freshservice)
+
+[EasyVista](https://www.rezolve.ai/compare/easyvista)
+
+[Cherwell](https://www.rezolve.ai/compare/cherwell)
+
+[BMC Helix](https://www.rezolve.ai/compare/bmc-helix)
+
 Resources
 
 [Blogs](https://www.rezolve.ai/blogs)[Case Studies](https://www.rezolve.ai/case-studies)[Guides & E-books](https://www.rezolve.ai/e-books)[Webinars](https://www.rezolve.ai/webinars)[Press Releases](https://www.rezolve.ai/press-releases)[FAQs](https://www.rezolve.ai/rezolve-faqs)[Help Center](https://www.rezolve.ai/help-center)[Cookie Policy](https://www.rezolve.ai/cookie-policy)
