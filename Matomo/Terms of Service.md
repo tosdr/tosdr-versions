@@ -245,6 +245,7 @@ Comparisons
 -----------
 
 * [vs Google Analytics](https://matomo.org/matomo-vs-google-analytics-comparison/)
+* [vs Amplitude](https://matomo.org/amplitude-vs-matomo/)
 * [vs Adobe Analytics vs Google Analytics](https://matomo.org/adobe-analytics-vs-google-analytics-vs-matomo/)
 * [vs Piwik PRO](https://matomo.org/piwik-pro-vs-matomo/)
 * [vs Plausible](https://matomo.org/plausible-vs-matomo/)
