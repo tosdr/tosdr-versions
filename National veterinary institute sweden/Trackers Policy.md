@@ -1116,7 +1116,7 @@ Gå direkt till :
             * [Utmaningar med enskild vattenförsörjning](https://www.sva.se/amnesomraden/sakert-foder-och-vatten/en-robust-enskild-vattenforsorjning-hur-nar-vi-dit/utmaningar-med-enskild-vattenforsorjning/)
             * [Tekniska lösningar för att skapa en robust enskild vattenförsörjning](https://www.sva.se/amnesomraden/sakert-foder-och-vatten/en-robust-enskild-vattenforsorjning-hur-nar-vi-dit/tekniska-losningar-for-att-skapa-en-robust-enskild-vattenforsorjning/)
     * [Livsmedelsberedskap](https://www.sva.se/amnesomraden/livsmedelsberedskap/)[](#)
-        * [Beredskapsplanering i primärproduktionen](https://www.sva.se/amnesomraden/livsmedelsberedskap/beredskapsplanering-i-primarproduktionen/)
+        * [Beredskap i primärproduktionen](https://www.sva.se/amnesomraden/livsmedelsberedskap/beredskap-i-primarproduktionen/)
     * [Forskning](https://www.sva.se/amnesomraden/forskning/)[](#)
         * [Forskare vid SVA](https://www.sva.se/amnesomraden/forskning/forskare-vid-sva/)
         * [Forsknings- och utvecklingsprojekt](https://www.sva.se/amnesomraden/forskning/forsknings-och-utvecklingsprojekt/)
