@@ -111,7 +111,7 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 
 * [Active Directory](https://www.tenable.com/solutions/active-directory)
 * [Compliance](https://www.tenable.com/solutions/compliance)
-* [Cyber insurance](https://www.tenable.com/cyber-insurance)
+* [Cyber insurance](https://www.tenable.com/solutions/cyber-insurance)
 * [OT / IT](https://www.tenable.com/solutions/it-ot)
 * [Ransomware](https://www.tenable.com/solutions/ransomware)
 * [Vulnerability assessment](https://www.tenable.com/solutions/vulnerability-assessment)
@@ -123,7 +123,6 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * * *
 
 * [Automotive manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
-* [Educational institutions](https://www.tenable.com/solutions/education)
 * [Energy](https://www.tenable.com/solutions/energy)
 * [Finance](https://www.tenable.com/solutions/finance)
 * [Healthcare](https://www.tenable.com/solutions/healthcare)
@@ -142,14 +141,41 @@ Tenable One Exposure Management Platform enables you to gain visibility across y
 * [PCI](https://www.tenable.com/solutions/pci-dss)
 * [Security frameworks](https://www.tenable.com/solutions/security-frameworks)
 
-##### Public sector
+##### Public Sector
 
 * * *
 
+* [Educational institutions](https://www.tenable.com/solutions/education)
 * [State / Local / Education](https://www.tenable.com/solutions/sled)
 * [US federal](https://www.tenable.com/solutions/government/us-fed)
 
 [View all solutions](https://www.tenable.com/solutions/)
+
+##### The Tenable difference
+
+* * *
+
+* [Why choose Tenable](https://www.tenable.com/why-tenable)
+* [Industry recognition](https://www.tenable.com/why-tenable#awards)
+* [Customer stories](https://www.tenable.com/customers)
+
+##### Compare Tenable to:
+
+* * *
+
+* [Microsoft Defender](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
+* [Palo Alto Prisma Cloud](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
+* [Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
+* [Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
+* [Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
+
+[![Exposure video](/themes/custom/tenable/images-new/menus/exposure-video-thumb.png)](javascript:void(0);)
+
+##### Isolate and eradicate your true exposures
+
+Close critical cyber exposures anywhere to reduce business risk everywhere.
+
+[Watch the video](javascript:void(0);)
 
 ##### Resources
 
@@ -196,12 +222,13 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 * [Partner application](https://www.tenable.com/partners/assure-program-application)
 * [Partner portal](https://partners.tenable.com/#/page/partner-login)
 
-##### Technology partners
+##### Other partner opportunities
 
 * * *
 
 * [Technology ecosystem](https://www.tenable.com/partners/technology)
 * [Research Alliance program](https://www.tenable.com/partners/research)
+* [Tenable performance marketing program](https://tenable.partnerstack.com/)
 
 ##### Support
 
@@ -235,26 +262,9 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 * [Leadership](https://www.tenable.com/about-tenable/leadership)
 * [Investor relations](https://investors.tenable.com/)
 * [Tenable Ventures](https://www.tenable.com/tenable-ventures)
-
-##### Join us
-
-* * *
-
-* [Careers](https://www.tenable.com/careers)
-* [Diversity and inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
-
-##### Why Tenable
-
-* * *
-
 * [Why choose Tenable](https://www.tenable.com/why-tenable)
 * [Awards and recognition](https://www.tenable.com/why-tenable#awards)
 * [Customer stories](https://www.tenable.com/customers)
-* [Compare to Microsoft](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
-* [Compare to Palo Alto Networks](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
-* [Compare to Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
-* [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
-* [Compare to Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
 
 ##### Media
 
@@ -274,6 +284,13 @@ Techstrong Research surveyed their community of security, cloud, and DevOps read
 * [Tenable community](https://community.tenable.com/s/)
 * [Subscribe to the blog](https://info.tenable.com/blog-subscription-page.html)
 * [Contact us](https://www.tenable.com/about-tenable/contact-tenable)
+
+##### Join us
+
+* * *
+
+* [Careers](https://www.tenable.com/careers)
+* [Diversity and inclusion](https://www.tenable.com/about-tenable/diversity-and-inclusion)
 
 ![Frost & Sullivan: Frost Radar, Vulnerability Management, 2023](/themes/custom/tenable/images-new/menus/menu-featured-frost-radar.png)
 
@@ -324,7 +341,7 @@ Tenable is named a leading force in vulnerability management and top ranked amon
     * Business needs
         * [Active Directory](https://www.tenable.com/solutions/active-directory)
         * [Compliance](https://www.tenable.com/solutions/compliance)
-        * [Cyber insurance](https://www.tenable.com/cyber-insurance)
+        * [Cyber insurance](https://www.tenable.com/solutions/cyber-insurance)
         * [IT / OT](https://www.tenable.com/solutions/it-ot)
         * [Ransomware](https://www.tenable.com/solutions/ransomware)
         * [Vulnerability assessment](https://www.tenable.com/solutions/vulnerability-assessment)
@@ -332,7 +349,6 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Zero trust](https://www.tenable.com/solutions/zero-trust)
     * Industries
         * [Automotive manufacturing](https://www.tenable.com/solutions/automotive-manufacturing)
-        * [Educational institutions](https://www.tenable.com/solutions/education)
         * [Energy](https://www.tenable.com/solutions/energy)
         * [Finance](https://www.tenable.com/solutions/finance)
         * [Healthcare](https://www.tenable.com/solutions/healthcare)
@@ -347,10 +363,23 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [PCI](https://www.tenable.com/solutions/pci-dss)
         * [Security frameworks](https://www.tenable.com/solutions/security-frameworks)
     * Public sector
+        * [Educational institutions](https://www.tenable.com/solutions/education)
         * [State / Local / Education](https://www.tenable.com/solutions/sled)
         * [US federal](https://www.tenable.com/solutions/government/us-fed)
     * [View all solutions](https://www.tenable.com/solutions/)
-* [Why Tenable](https://www.tenable.com/why-tenable)
+* Why Tenable
+    * #### Why Tenable
+        
+    * The Tenable difference
+        * [Why choose Tenable](https://www.tenable.com/why-tenable)
+        * [Industry recognition](https://www.tenable.com/why-tenable#awards)
+        * [Customer stories](https://www.tenable.com/customers)
+    * Compare Tenable to:
+        * [Microsoft Defender](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
+        * [Palo Alto Prisma Cloud](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
+        * [Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
+        * [Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
+        * [Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
 * Resources
     * #### Tenable resources
         
@@ -380,9 +409,10 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [MSSP partner program](https://www.tenable.com/partners/mssp-partner-program)
         * [Partner application](https://www.tenable.com/partners/assure-program-application)
         * [Partner portal](https://partners.tenable.com/#/page/partner-login)
-    * Technology partners
+    * Other partner opportunities
         * [Technology ecosystem](https://www.tenable.com/partners/technology)
         * [Research alliance program](https://www.tenable.com/partners/research)
+        * [Tenable performance marketing program](https://tenable.partnerstack.com/)
 * Support
     * #### Tenable support
         
@@ -406,15 +436,9 @@ Tenable is named a leading force in vulnerability management and top ranked amon
         * [Leadership](https://www.tenable.com/about-tenable/leadership)
         * [Investor relations](https://investors.tenable.com/)
         * [Tenable ventures](https://www.tenable.com/tenable-ventures)
-    * Why Tenable
         * [Why choose Tenable](https://www.tenable.com/why-tenable)
         * [Awards and recognition](https://www.tenable.com/why-tenable#awards)
-        * [Customer Stories](https://www.tenable.com/customers)
-        * [Compare to Microsoft](https://www.tenable.com/why-tenable/tenable-vs-microsoft)
-        * [Compare to Palo Alto Networks](https://www.tenable.com/why-tenable/tenable-vs-palo-alto-networks)
-        * [Compare to Qualys](https://www.tenable.com/why-tenable/tenable-vs-qualys)
-        * [Compare to Rapid7](https://www.tenable.com/whitepapers/security-leaders-guide-to-comparing-tenable-and-rapid7)
-        * [Compare to Wiz](https://www.tenable.com/why-tenable/tenable-vs-wiz)
+        * [Customer stories](https://www.tenable.com/customers)
     * Media
         * [Press releases](https://www.tenable.com/media#press-releases)
         * [Financial news releases](https://investors.tenable.com/news-releases)
