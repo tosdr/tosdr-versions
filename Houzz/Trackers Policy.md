@@ -501,7 +501,7 @@ Get Advice[Design Dilemmas](https://www.gardenweb.com/discussions/design-dilemma
 
 * [View All Holiday](https://www.houzz.com/products/holiday-decorations)
 
-* Shop by Style
+* [Shop by Style](https://www.houzz.com/products/shop-by-style)
 * [Modern Products](https://www.houzz.com/products/modern)
 * [Contemporary Products](https://www.houzz.com/products/contemporary)
 * [Farmhouse Products](https://www.houzz.com/products/farmhouse)
