@@ -1921,6 +1921,6 @@ Company
 
 [](https://www.linkedin.com/company/amplitude-analytics)[](https://twitter.com/Amplitude_HQ)[](https://www.g2.com/products/amplitude-analytics/reviews)
 
-[Terms of Service](https://amplitude.com/terms)[Privacy Notice](https://amplitude.com/privacy)[Acceptable Use Policy](https://amplitude.com/aup)[Legal](https://amplitude.com/legal)Cookie Settings
+[Terms of Service](https://amplitude.com/terms)[Privacy Notice](https://amplitude.com/privacy)[Acceptable Use Policy](https://amplitude.com/aup)[Legal](https://amplitude.com/legal)Cookie Settings[JP (日本語)](https://amplitude.jp/)
 
 © 2024 Amplitude, Inc. All rights reserved. Amplitude is a registered trademark of Amplitude, Inc.
