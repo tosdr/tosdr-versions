@@ -18,7 +18,7 @@ No options
 * [Community](https://community.the-qrcode-generator.com/)
 *  [![globe icon](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/Globe_icon.svg) English](javascript:void(0);)
 
-[Sign in](https://app.the-qrcode-generator.com/sign-in?lng=en&signup_source=mobile_header_sign_in&from=mob&fromSearch=)[Sign up free](https://app.the-qrcode-generator.com/sign-in?lng=en&signup_source=mobile_header_sign_up&from=mob&fromSearch=)
+[Sign in](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=mobile_header_sign_in)[Sign up free](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=mobile_header_sign_up)
 
 [![](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/header/polo-logo-v1.png "The qrcode generator")](https://www.the-qrcode-generator.com/)[Generate](https://www.the-qrcode-generator.com/)[Scan](https://www.the-qrcode-generator.com/scan?lng=en)
 
@@ -36,9 +36,9 @@ About QR Codes
 
 No options
 
-[Sign in](https://app.the-qrcode-generator.com/sign-in?lng=en&signup_source=header_sign_in)[Sign up free](https://app.the-qrcode-generator.com/sign-in?lng=en&signup_source=header_sign_up)
+[Sign in](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=header_sign_in)[Sign up free](https://app.the-qrcode-generator.com/qrcodes?lng=en&signup_source=header_sign_up)
 
- [![New Dynamic QR Code](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/pen-nib-cross.png) New Dynamic QR Code](https://app.the-qrcode-generator.com/sign-in?lng=enfrom=%2Fmycodes%2Fnew&fromSearch=&signup_source=new_dynamic_code) [![New Static QR Code](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/metric-spike.png) New Static QR Code](https://www.the-qrcode-generator.com/)
+ [![New Dynamic QR Code](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/pen-nib-cross.png) New Dynamic QR Code](https://app.the-qrcode-generator.com/qrcodes?lng=enfrom=%2Fmycodes%2Fnew&fromSearch=&signup_source=new_dynamic_code) [![New Static QR Code](https://www.the-qrcode-generator.com/wp-content/themes/tqrcg/img/metric-spike.png) New Static QR Code](https://www.the-qrcode-generator.com/)
 
 Privacy Policy
 ==============
