@@ -473,14 +473,14 @@ Rochester, MN 55905
 
 ![](https://assets.mayoclinic.org/content/dam/media/global/images/2023/11/14/giving-charity.svg)
 
-Your gift holds great power – donate today!
--------------------------------------------
+Double your impact!
+-------------------
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Give Now](https://give.mayoclinic.org/give/627381?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devgivingtuesday%2F%23%21%2Fdonation%2Fcheckout)
 
-Make your tax-deductible gift and be a part of the cutting-edge research and care that's changing medicine.
+Your GivingTuesday gift can go 2X as far.
 
-[Donate](https://philanthropy.mayoclinic.org/page.aspx?pid=1523&sourcecode=24R001WG1MWV90Z24B&utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devevergreen)
+[Give Now](https://give.mayoclinic.org/give/627381?utm_source=devorgtilead&utm_medium=devweb&utm_campaign=devgivingtuesday%2F%23%21%2Fdonation%2Fcheckout)
 
 * [Find a doctor](https://www.mayoclinic.org/appointments/find-a-doctor)
     
