@@ -51,6 +51,7 @@ Cancel
         * [Flags & Pennants](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=268&catalog_name=RmxhZ3MgJiBQZW5uYW50cw)
         * [Keychains & Lanyards](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=301&catalog_name=S2V5Y2hhaW5zICYgTGFueWFyZHM)
         * [Lawn Signs](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=305&catalog_name=TGF3biBTaWducw)
+        * [Mom & Dad](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=292&catalog_name=TW9tICYgRGFk)
         * [Novelty Items](https://www.bhsubookstore.com/shop_product_list.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM&catalog_id=293&catalog_name=Tm92ZWx0eSBJdGVtcw)
         * [View All Gifts](https://www.bhsubookstore.com/shop_main.asp?catalog_group_id=MTI&catalog_group_name=R2lmdHM)
 * [Services](#)
@@ -158,7 +159,7 @@ Begin Footer
 | Saturday | CLOSED |
 | Sunday | CLOSED |
 
-Friday 8:00AM - 5:00PM CLOSED
+Friday 8:00AM - 5:00PM OPEN
 
 [View All Store Hours](https://www.bhsubookstore.com/site_contact_us.asp?)
 
