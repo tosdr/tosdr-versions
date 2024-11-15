@@ -20,16 +20,16 @@ Friday, November 15 2024
 
 Latest
 
-* [Microsoft just killed the Windows 10 Beta Channel again](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
-* [The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
-* [Want a Flip Phone? Moto Razr+ Is Now Half Its Price in This Early Black Friday Deal!](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
-* [Sluggish enterprise tech adoption has cost the UK economy billions](https://digitpatrox.com/sluggish-enterprise-tech-adoption-has-cost-the-uk-economy-billions/)
-* [Apple’s iPhone partners make plans for US manufacturing – Computerworld](https://digitpatrox.com/apples-iphone-partners-make-plans-for-us-manufacturing-computerworld/)
-* [Review: Apple Sports Is the Best Ad-Free Score App](https://digitpatrox.com/review-apple-sports-is-the-best-ad-free-score-app/)
-* [Best VPNs for PokerStars – Comparitech](https://digitpatrox.com/best-vpns-for-pokerstars-comparitech/)
-* [2025 Acura ADX Preview – Consumer Reports](https://digitpatrox.com/2025-acura-adx-preview-consumer-reports/)
-* [You Really Do Need Audiophile Headphones](https://digitpatrox.com/you-really-do-need-audiophile-headphones/)
-* [API attacks are spiraling out of control](https://digitpatrox.com/api-attacks-are-spiraling-out-of-control/)
+* [What Is a Payroll Schedule and How to Choose One](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
+* [Huge Black Friday Saucony sale — 9 deals I’d buy now on running shoes and apparel from $9](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
+* [Fraud network uses 4,700 fake shopping sites to steal credit cards](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
+* [NASA’s AI Earth Copilot will take your questions about our planet](https://digitpatrox.com/nasas-ai-earth-copilot-will-take-your-questions-about-our-planet/)
+* [How to Get Ice Spice’s Mythic Rifle in Fortnite Chapter 2 Remix](https://digitpatrox.com/how-to-get-ice-spices-mythic-rifle-in-fortnite-chapter-2-remix/)
+* [These three critical sectors are riddled with high-risk vulnerabilities](https://digitpatrox.com/these-three-critical-sectors-are-riddled-with-high-risk-vulnerabilities/)
+* [PCs with NPUs tweaked for AI now account for one of every five PCs shipped, says Canalys – Computerworld](https://digitpatrox.com/pcs-with-npus-tweaked-for-ai-now-account-for-one-of-every-five-pcs-shipped-says-canalys-computerworld/)
+* [The Apple Vision Pro Is One of the Worst Headsets for Gaming](https://digitpatrox.com/the-apple-vision-pro-is-one-of-the-worst-headsets-for-gaming/)
+* [Lunchables Pulled From National School Lunch Program](https://digitpatrox.com/lunchables-pulled-from-national-school-lunch-program/)
+* [3 Best Ways to Backup Windows to External Storage](https://digitpatrox.com/3-best-ways-to-backup-windows-to-external-storage/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/Windows.jpg)](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241113-payroll-schedule.jpg)](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
     
-    [Microsoft just killed the Windows 10 Beta Channel again](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
+    [What Is a Payroll Schedule and How to Choose One](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
     
-    24 minutes ago
+    4 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/kbsaOY6MgLSUuW7hLti4UcQeiB4=/0x0:1886x1257/1200x628/filters:focal(943x629:944x630)/cdn.vox-cdn.com/uploads/chorus_asset/file/25734293/GXdMxmZXcAEQ5K5.jpeg)](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
+* [![](https://cdn.mos.cms.futurecdn.net/uYax4xenBrqPFoZRykhDq-1200-80.png)](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
     
-    [The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
+    [Huge Black Friday Saucony sale — 9 deals I’d buy now on running shoes and apparel from $9](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
     
-    40 minutes ago
+    8 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Moto-Razr-Black-Friday-Deal.jpg)](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/14/cards.jpg)](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
     
-    [Want a Flip Phone? Moto Razr+ Is Now Half Its Price in This Early Black Friday Deal!](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
+    [Fraud network uses 4,700 fake shopping sites to steal credit cards](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/J3ezGnzxr9JTn2ztzGDCFa-1200-80.jpg)](https://digitpatrox.com/sluggish-enterprise-tech-adoption-has-cost-the-uk-economy-billions/)
+* [![](https://cdn.vox-cdn.com/thumbor/LhrH-FA_6s4_iQpVxaJwE2X4J1U=/0x0:720x480/1200x628/filters:focal(360x240:361x241)/cdn.vox-cdn.com/uploads/chorus_asset/file/25734145/nasa_satellite_view.jpg)](https://digitpatrox.com/nasas-ai-earth-copilot-will-take-your-questions-about-our-planet/)
     
-    [Sluggish enterprise tech adoption has cost the UK economy billions](https://digitpatrox.com/sluggish-enterprise-tech-adoption-has-cost-the-uk-economy-billions/)
+    [NASA’s AI Earth Copilot will take your questions about our planet](https://digitpatrox.com/nasas-ai-earth-copilot-will-take-your-questions-about-our-planet/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3606641-0-52350200-1731607677-Apple-iPhone-16-Pro-finish-lineup-240909.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/apples-iphone-partners-make-plans-for-us-manufacturing-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Ice-Spices-Rifle-in-Fortnite.jpg)](https://digitpatrox.com/how-to-get-ice-spices-mythic-rifle-in-fortnite-chapter-2-remix/)
     
-    [Apple’s iPhone partners make plans for US manufacturing – Computerworld](https://digitpatrox.com/apples-iphone-partners-make-plans-for-us-manufacturing-computerworld/)
+    [How to Get Ice Spice’s Mythic Rifle in Fortnite Chapter 2 Remix](https://digitpatrox.com/how-to-get-ice-spices-mythic-rifle-in-fortnite-chapter-2-remix/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [24 minutes ago
+* [4 minutes ago
     
-    ### Microsoft just killed the Windows 10 Beta Channel again](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-again/)
-* [40 minutes ago
+    ### What Is a Payroll Schedule and How to Choose One](https://digitpatrox.com/what-is-a-payroll-schedule-and-how-to-choose-one/)
+* [8 minutes ago
     
-    ### The world’s biggest battery maker says Elon Musk’s 4680 cell ‘is going to fail’](https://digitpatrox.com/the-worlds-biggest-battery-maker-says-elon-musks-4680-cell-is-going-to-fail/)
+    ### Huge Black Friday Saucony sale — 9 deals I’d buy now on running shoes and apparel from $9](https://digitpatrox.com/huge-black-friday-saucony-sale-9-deals-id-buy-now-on-running-shoes-and-apparel-from-9/)
 * [1 hour ago
     
-    ### Want a Flip Phone? Moto Razr+ Is Now Half Its Price in This Early Black Friday Deal!](https://digitpatrox.com/want-a-flip-phone-moto-razr-is-now-half-its-price-in-this-early-black-friday-deal/)
+    ### Fraud network uses 4,700 fake shopping sites to steal credit cards](https://digitpatrox.com/fraud-network-uses-4700-fake-shopping-sites-to-steal-credit-cards/)
 
 Most Popular Topics
 
-* [October 6, 2024
+* [August 22, 2024
     
-    ### There’s Now an NYT Connections Game for Sports](https://digitpatrox.com/theres-now-an-nyt-connections-game-for-sports/)
-* [September 17, 2024
+    ### How to Navigate Today’s Elevated New-Car Prices](https://digitpatrox.com/how-to-navigate-todays-elevated-new-car-prices/)
+* [August 22, 2024
     
-    ### Swiss supercomputer Alps comes online, aimed at complex AI development](https://digitpatrox.com/swiss-supercomputer-alps-comes-online-aimed-at-complex-ai-development/)
-* [October 11, 2024
+    ### Microsoft to release AI feature Recall in October for Windows Insiders – Computerworld](https://digitpatrox.com/microsoft-to-release-ai-feature-recall-in-october-for-windows-insiders-computerworld/)
+* [September 12, 2024
     
-    ### Windows 11 24H2 and 23H2 get November 2024 update expanding new features (preview)](https://digitpatrox.com/windows-11-24h2-and-23h2-get-november-2024-update-expanding-new-features-preview/)
+    ### Xbox Is Bringing Back Friend Requests, Marking the End of a Decade-Long Absence](https://digitpatrox.com/xbox-is-bringing-back-friend-requests-marking-the-end-of-a-decade-long-absence/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [4 hours ago
     
-    ### Best VPNs for PokerStars – Comparitech](https://digitpatrox.com/best-vpns-for-pokerstars-comparitech/)
-* [3 hours ago
+    ### PCs with NPUs tweaked for AI now account for one of every five PCs shipped, says Canalys – Computerworld](https://digitpatrox.com/pcs-with-npus-tweaked-for-ai-now-account-for-one-of-every-five-pcs-shipped-says-canalys-computerworld/)
+* [4 hours ago
     
-    ### 2025 Acura ADX Preview – Consumer Reports](https://digitpatrox.com/2025-acura-adx-preview-consumer-reports/)
-* [3 hours ago
+    ### The Apple Vision Pro Is One of the Worst Headsets for Gaming](https://digitpatrox.com/the-apple-vision-pro-is-one-of-the-worst-headsets-for-gaming/)
+* [4 hours ago
     
-    ### You Really Do Need Audiophile Headphones](https://digitpatrox.com/you-really-do-need-audiophile-headphones/)
+    ### Lunchables Pulled From National School Lunch Program](https://digitpatrox.com/lunchables-pulled-from-national-school-lunch-program/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 13, 2024
     
     ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 13, 2024
     
     ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
