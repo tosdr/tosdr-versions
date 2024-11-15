@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Life's most persistent and urgent question is, What are you doing for others?”
+“ If I want to live in a world I like, I have to help create it”
 
-[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.)
+[Caroline Caldwell](https://www.adafruit.com/quotes)
 
 [](https://www.adafruit.com/about)
 
