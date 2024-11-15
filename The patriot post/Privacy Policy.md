@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Why We Ask:** Our mission and operations are funded 100% by conservatives like _you_. Please help us continue to extend Liberty to the next generation and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_2&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -134,9 +134,6 @@ Last Updated: November 15, 2011.
 *      [Ben Shapiro The Trump Doctrine](https://patriotpost.us/opinion/111964-the-trump-doctrine-2024-11-14)
 *      [Cal Thomas Trump’s Chance to Change Taxation](https://patriotpost.us/opinion/111963-trumps-chance-to-change-taxation-2024-11-14)
 *      [Allen West Things That Make You Go Hmm…](https://patriotpost.us/opinion/111962-things-that-make-you-go-hmm-dot-dot-dot-2024-11-14)
-*      [The Washington Stand Fame Fatale: How the Elite Celeb Culture Doomed Dems](https://patriotpost.us/opinion/111974-fame-fatale-how-the-elite-celeb-culture-doomed-dems-2024-11-14)
-*      [The Babylon Bee Biden Administration Declares Trump Cabinet Picks ‘Unqualified’](https://patriotpost.us/opinion/111959-biden-administration-declares-trump-cabinet-picks-unqualified-2024-11-14)
-*      [Guest Commentary Not Out of the Woods Yet](https://patriotpost.us/opinion/111985-not-out-of-the-woods-yet-2024-11-14)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -150,7 +147,7 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
