@@ -36,18 +36,18 @@
         
         New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
     
-    * [![Study ethical hacking in this comprehensive $40 course bundle deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![FTC reports 50% drop in unwanted call complaints since 2021](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Study ethical hacking in this comprehensive $40 course bundle deal](https://www.bleepingcomputer.com/offer/deals/study-ethical-hacking-in-this-comprehensive-40-course-bundle-deal/)
-    * [![Microsoft just killed the Windows 10 Beta Channel again](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        FTC reports 50% drop in unwanted call complaints since 2021](https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/)
+    * [![Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft just killed the Windows 10 Beta Channel again](https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-again/)
-    * [![Fraud network uses 4,700 fake shopping sites to steal credit cards](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://www.bleepingcomputer.com/news/security/bitfinex-hacker-gets-5-years-in-prison-for-120-000-bitcoin-heist/)
+    * [![Microsoft pulls Exchange security updates over mail delivery issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Fraud network uses 4,700 fake shopping sites to steal credit cards](https://www.bleepingcomputer.com/news/security/fraud-network-uses-4-700-fake-shopping-sites-to-steal-credit-cards/)
-    * [![CISA warns of more Palo Alto Networks bugs exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft pulls Exchange security updates over mail delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-exchange-security-updates-over-mail-delivery-issues/)
+    * [![Palo Alto Networks warns of critical RCE zero-day exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        CISA warns of more Palo Alto Networks bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
+        Palo Alto Networks warns of critical RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
