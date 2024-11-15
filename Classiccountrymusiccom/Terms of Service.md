@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [New George Jones Album “The Lost...](https://classiccountrymusic.com/new-george-jones-album-the-lost-nashville-sessions-available-now/)
+* [All-Star Collaborators Join Brooks & Dunn...](https://classiccountrymusic.com/all-star-collaborators-join-brooks-dunn-on-their-new-album-reboot-ii/)
 * [Thomas Rhett Tells Funny Story About...](https://classiccountrymusic.com/thomas-rhett-tells-funny-story-about-being-babysat-by-reba-mcentire/)
-* [Dolly Parton Donates $4.5 Million To...](https://classiccountrymusic.com/dolly-parton-donates-4-5-million-to-the-nashville-public-library-foundation/)
-* [LIST: All Past Recipients Of The...](https://classiccountrymusic.com/list-all-past-recipients-of-the-cmas-willie-nelson-lifetime-achievement-award/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
