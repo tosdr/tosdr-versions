@@ -287,6 +287,14 @@ Autism news
 
 All the latest that matters to our community
 
+![Autism Speaks new PSA for employment](/sites/default/files/styles/content_list/public/Autism%20Speaks%20new%20PSA%20for%20employment.png.webp?itok=XRKtwSWZ)
+
+11.15.24
+
+[### \[PSA\] This is why hiring autistic employees can benefit your business](https://guide.autismspeaks.org/news/watch-autism-speaks-psa-autistic-employment)
+
+Hiring autistic employees can be a game-changer for your business. Find out how in Autism Speaks’ newest PSA is changing how we view workplace
+
 ![Autism Digest logo](/sites/default/files/styles/content_list/public/Autism%20Digest%20logo.jpg.webp?itok=pmzzVnN0)
 
 11.5.24
@@ -326,14 +334,6 @@ Victoria Handy shares how she and her daughter make adjustments so they can cele
 [### Autism diagnosis on the rise, according to trends study](https://guide.autismspeaks.org/science-news/why-autism-increasing)
 
 A new study shows the number of children and adults diagnosed with autism spectrum disorder has increased by 175% over a decade. Why is autism
-
-![Vijay Vasudevan standing in front of a poster with his research](/sites/default/files/styles/content_list/public/Vijay-Vasudevan-standing-in-front-of-a-poster-with-his-research_0.jpg.webp?itok=IU3LIS6x)
-
-10.30.24
-
-[### Autism Speaks’ director of data science speaks at APHA conference](https://guide.autismspeaks.org/science-news/autism-speaks-director-data-science-speaks-apha-conference)
-
-Vijay Vasudevan, Autism Speaks’ director of data science and evaluation research, is taking the stage at the annual American Public Health Association
 
 [Read more news](https://guide.autismspeaks.org/articles?article_type%5B981%5D=981&article_type%5B2181%5D=2181&article_type%5B2186%5D=2186&article_type%5B986%5D=986)
 
