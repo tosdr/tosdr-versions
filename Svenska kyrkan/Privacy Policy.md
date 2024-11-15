@@ -754,9 +754,9 @@ Sök Meny
                     
                     * [Att möta förändring - rapport inför kontrollstation 2024](https://www.svenskakyrkan.se/att-mota-forandring---rapport-infor-kontrollstation-2024)
                         
-                        * [Hållbar höjning av kyrkoantikvarisk ersättning](https://www.svenskakyrkan.se/hallbar-hojning-av-kyrkoantikvarisk-ersattning)
+                        * [Folkets syn på kyrkligt kulturarv](https://www.svenskakyrkan.se/sa-ser-svenska-folket-pa-det-kyrkliga-kulturarvet)
                             
-                        * [Så ser svenska folket på det kyrkliga kulturarvet](https://www.svenskakyrkan.se/sa-ser-svenska-folket-pa-det-kyrkliga-kulturarvet)
+                        * [Hållbar höjning av kyrkoantikvarisk ersättning](https://www.svenskakyrkan.se/hallbar-hojning-av-kyrkoantikvarisk-ersattning)
                             
                         * [Förord](https://www.svenskakyrkan.se/forord-till-rapport-infor-kontrollstation-2024)
                             
@@ -770,7 +770,7 @@ Sök Meny
                             
                         * [Växande underhållsskuld](https://www.svenskakyrkan.se/vaxande-underhallsskuld-riskerar-kulturhistoriska-varden)
                             
-                * [Sök medel för projekt som utvecklar kunskapen om kulturarvet](https://www.svenskakyrkan.se/kunskapsutveckling-kulturarv)
+                * [Sök projektmedel](https://www.svenskakyrkan.se/kunskapsutveckling-kulturarv)
                     
                     * [Anvisningar till ansökan](https://www.svenskakyrkan.se/anvisningar---ansokan-om-stod-for-kunskapsutvecklingsprojekt-inom-det-kyrkliga-kulturarvet)
                         
