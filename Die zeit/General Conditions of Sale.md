@@ -428,6 +428,7 @@ Schließen
 * [Datenschutz](https://datenschutz.zeit.de/zon)
 * [Privacy Einstellungen](https://datenschutz.zeit.de/zon#consentbutton)
 * Cookies & Tracking
+* [Utiq verwalten](https://www.zeit.de/utiq-verwalten)
 * [Abo kündigen](https://premium.zeit.de/abo-kuendigen)
 
 Schließen
