@@ -56,13 +56,13 @@ Featured stories
 
 [![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
+![ ](https://images.everydayhealth.com/images/news/severe-stroke-risk-factors-1440x810.jpg)
+
+3 Risk Factors Do the Most to Make a Stroke Deadly](https://www.everydayhealth.com/heart-health/risk-factors-to-make-a-stroke-deadly/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
+
 ![ ](https://images.everydayhealth.com/images/news/can-olfactory-loss-predict-disease-1440x810.jpg)
 
 Loss of Smell Tied to Over 100 Serious Medical Conditions](https://www.everydayhealth.com/neurological-disorders/loss-of-smell-tied-to-serious-medical-conditions/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
-
-![ ](https://images.everydayhealth.com/images/news/5-minute-exercise-day-lower-blood-pressure-1440x810.jpg)
-
-Just 5 Minutes of Exercise a Day May Lower Your Blood Pressure](https://www.everydayhealth.com/heart-health/five-minutes-of-exercise-a-day-may-lower-blood-pressure/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
 ![ ](https://images.everydayhealth.com/images/news/fda-pulling-phenylephrine-from-market-1440x810.jpg)
 
