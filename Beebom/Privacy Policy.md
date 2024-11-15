@@ -66,19 +66,15 @@
         * [Solo Leveling](https://beebom.com/tag/solo-leveling/)
 * [Beebom Gadgets](https://gadgets.beebom.com/)
 
-[Beebom Gadgets ![Right Arrow](https://beebom.com/wp-content/themes/beebom-2023/assets/images/right_arrow.svg)](https://gadgets.beebom.com/) 
+[Beebom Gadgets](https://gadgets.beebom.com/)
 
 Search For : 
-
-![Close search](https://beebom.com/wp-content/themes/beebom-2023/assets/images/search_close.svg)
 
 Search For : 
 
 Search Results
 
 [Load More](https://beebom.com/?s=)
-
-![Close menu](https://beebom.com/wp-content/themes/beebom-2023/assets/images/search_close.svg)
 
 * [News](https://beebom.com/category/news/)
 * [Opinions](https://beebom.com/tag/opinion/)
@@ -142,7 +138,7 @@ Search Results
         * [Solo Leveling](https://beebom.com/tag/solo-leveling/)
 * [Beebom Gadgets](https://gadgets.beebom.com/)
 
- [![Facebook](https://beebom.com/wp-content/themes/beebom-2023/assets/images/facebook.svg)](https://www.facebook.com/beebomco/ "Facebook")[![Instagram](https://beebom.com/wp-content/themes/beebom-2023/assets/images/instagram.svg)](https://instagram.com/beebomco/ "Instagram")[![Twitter](https://beebom.com/wp-content/themes/beebom-2023/assets/images/twitter.svg)](https://twitter.com/beebomco "Twitter")[![Youtube](https://beebom.com/wp-content/themes/beebom-2023/assets/images/youtube.svg)](https://www.youtube.com/beebomco "YouTube")[![Linkedin](https://beebom.com/wp-content/themes/beebom-2023/assets/images/linkedin.svg)](https://in.linkedin.com/company/beebom "LinkedIn")[![Mail](https://beebom.com/wp-content/themes/beebom-2023/assets/images/socials/mail.svg)](mailto:contact@beebom.com "Mail")
+[](https://www.facebook.com/beebomco/ "Facebook")[](https://instagram.com/beebomco/ "Instagram")[](https://twitter.com/beebomco "Twitter")[](https://www.youtube.com/beebomco "YouTube")[](https://in.linkedin.com/company/beebom "LinkedIn")[](mailto:contact@beebom.com "Mail")
 
 No results found
 
@@ -252,11 +248,11 @@ If you have any questions or concerns about this Privacy Policy or our informati
 
 * * *
 
-[![Beebom](https://beebom.com/wp-content/themes/beebom-2023/assets/images/beebom_bb.svg)](https://beebom.com/ "Beebom")
+[](https://beebom.com/ "Beebom")
 
 Beebom is one of the leading consumer technology websites aimed at helping people understand and use technology in a better way.
 
- [![Facebook](https://beebom.com/wp-content/themes/beebom-2023/assets/images/facebook.svg)](https://www.facebook.com/beebomco/ "Facebook")[![Instagram](https://beebom.com/wp-content/themes/beebom-2023/assets/images/instagram.svg)](https://instagram.com/beebomco/ "Instagram")[![Twitter](https://beebom.com/wp-content/themes/beebom-2023/assets/images/twitter.svg)](https://twitter.com/beebomco "Twitter")[![Youtube](https://beebom.com/wp-content/themes/beebom-2023/assets/images/youtube.svg)](https://www.youtube.com/beebomco "YouTube")[![Linkedin](https://beebom.com/wp-content/themes/beebom-2023/assets/images/linkedin.svg)](https://in.linkedin.com/company/beebom "LinkedIn")[![Mail](https://beebom.com/wp-content/themes/beebom-2023/assets/images/socials/mail.svg)](mailto:contact@beebom.com "Mail")
+[](https://www.facebook.com/beebomco/ "Facebook")[](https://instagram.com/beebomco/ "Instagram")[](https://twitter.com/beebomco "Twitter")[](https://www.youtube.com/beebomco "YouTube")[](https://in.linkedin.com/company/beebom "LinkedIn")[](mailto:contact@beebom.com "Mail")
 
 * [About Us](https://beebom.com/about-us/)
 * [Careers](https://beebom.com/careers/)
@@ -265,7 +261,7 @@ Beebom is one of the leading consumer technology websites aimed at helping peopl
 * [Privacy Policy](https://beebom.com/privacy-policy/)
 * [Editorial Guidelines](https://beebom.com/editorial-guidelines/)
 
-[![Beebom](https://beebom.com/wp-content/themes/beebom-2023/assets/images/beebom_bb.svg)](https://beebom.com/ "Beebom")
+[](https://beebom.com/ "Beebom")
 
 Beebom is one of the leading consumer technology websites aimed at helping people understand and use technology in a better way.
 
@@ -278,6 +274,6 @@ Beebom is one of the leading consumer technology websites aimed at helping peopl
 
 * * *
 
- [![Facebook](https://beebom.com/wp-content/themes/beebom-2023/assets/images/facebook.svg)](https://www.facebook.com/beebomco/ "Facebook")[![Instagram](https://beebom.com/wp-content/themes/beebom-2023/assets/images/instagram.svg)](https://instagram.com/beebomco/ "Instagram")[![Twitter](https://beebom.com/wp-content/themes/beebom-2023/assets/images/twitter.svg)](https://twitter.com/beebomco "Twitter")[![Youtube](https://beebom.com/wp-content/themes/beebom-2023/assets/images/youtube.svg)](https://www.youtube.com/beebomco "YouTube")[![Linkedin](https://beebom.com/wp-content/themes/beebom-2023/assets/images/linkedin.svg)](https://in.linkedin.com/company/beebom "LinkedIn")[![Mail](https://beebom.com/wp-content/themes/beebom-2023/assets/images/socials/mail.svg)](mailto:contact@beebom.com "Mail")
+[](https://www.facebook.com/beebomco/ "Facebook")[](https://instagram.com/beebomco/ "Instagram")[](https://twitter.com/beebomco "Twitter")[](https://www.youtube.com/beebomco "YouTube")[](https://in.linkedin.com/company/beebom "LinkedIn")[](mailto:contact@beebom.com "Mail")
 
 © Beebom Media Private Limited
