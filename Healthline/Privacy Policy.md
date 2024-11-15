@@ -168,9 +168,9 @@
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Inflammatory-Bowel-Disease.png)
         
         Inflammatory Bowel Disease](https://www.bezzyibd.com/?utm_source=healthline&utm_medium=nav-bar-connections)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/04/Bezzy_COPD_Icon_Circle_280x280.png)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/11/Bezzy-DEP-Icon-Circle.png)
         
-        COPD](https://www.bezzycopd.com/?utm_source=healthline&utm_medium=nav-bar-connections)
+        Depression](https://www.bezzydepression.com/?auvelity&utm_source=healthline&utm_medium=nav-bar-connections)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Migraine.png)
         
         Migraine](https://www.bezzymigraine.com/?utm_source=healthline&utm_medium=nav-bar-connections)
@@ -189,6 +189,15 @@
     
 
 Subscribe
+
+[#### Sexual Health](https://www.healthline.com/sexual-health)
+
+* [Birth control](https://www.healthline.com/sexual-health/birth-control)
+* [STIs](https://www.healthline.com/sexual-health/sexually-transmitted-infections)
+* [HIV](https://www.healthline.com/sexual-health/hiv-aids)
+* [HSV](https://www.healthline.com/sexual-health/oral-genital-herpes)
+* [Activity](https://www.healthline.com/sexual-health/sexual-activity)
+* [Relationships](https://www.healthline.com/sexual-health/relationships-intimacy)
 
 Privacy Policy
 ==============
