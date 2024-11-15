@@ -13,6 +13,7 @@
 *  [![](/_r/c/4/_uib/Components/Flag/Flags/9650462a96f4/img/flag-square/it.png) Italiano](https://www.scanguard.com/privacy?forceLang=it)
 *  [![](/_r/c/4/_uib/Components/Flag/Flags/7bb1df183437/img/flag-square/nl.png) Nederlands](https://www.scanguard.com/privacy?forceLang=nl)
 *  [![](/_r/c/4/_uib/Components/Flag/Flags/01c0f29ce047/img/flag-square/pt.png) Português](https://www.scanguard.com/privacy?forceLang=pt)
+*  [![](/_r/c/4/_uib/Components/Flag/Flags/66385681dca7/img/flag-circle/cz.png) Česky](https://www.scanguard.com/privacy?forceLang=cs)
 
 ![](/_r/c/4/_uib/Components/Flag/Flags/76c32ffae7ab/img/flag-circle/gb.png) English
 
@@ -23,6 +24,7 @@
 *  [![](/_r/c/4/_uib/Components/Flag/Flags/3387757f1d63/img/flag-circle/it.png) Italiano](https://www.scanguard.com/privacy?forceLang=it)
 *  [![](/_r/c/4/_uib/Components/Flag/Flags/ee6772ecd9d5/img/flag-circle/nl.png) Nederlands](https://www.scanguard.com/privacy?forceLang=nl)
 *  [![](/_r/c/4/_uib/Components/Flag/Flags/d0992b470ccf/img/flag-circle/pt.png) Português](https://www.scanguard.com/privacy?forceLang=pt)
+*  [![](/_r/c/4/_uib/Components/Flag/Flags/66385681dca7/img/flag-circle/cz.png) Česky](https://www.scanguard.com/privacy?forceLang=cs)
 
 [Login](#login)[Sign up](#signup)
 
