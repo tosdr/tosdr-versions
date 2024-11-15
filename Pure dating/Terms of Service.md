@@ -1,9 +1,9 @@
-[](https://pure.dating/app/en/onboarding)
+[](https://pure.dating/)
 
 [](https://puredating.app.link/e/VkrgdZaotnb)[](https://puredating.app.link/e/VkrgdZaotnb)[](https://puredating.app.link/e/VkrgdZaotnb)[](https://puredating.app.link/e/VkrgdZaotnb)
 
-Date, play, misbehave
-=====================
+Date, play, _misbehave_
+=======================
 
 SIGN UP
 
@@ -11,14 +11,7 @@ SIGN UP
 
 [RUSTORE](https://puredating.app.link/e/VkrgdZaotnb)
 
-Anything but boring
--------------------
-
-### Pure – dating with no shame.
-
-[READ OUR JOURNAL](https://pure.dating/content/en/journal)
-
-Get the app
+OFFICIAL _DATING APP_ ![Playboy](/assets/playboy.png)
 
 [](https://puredating.app.link/e/VkrgdZaotnb)[](https://puredating.app.link/e/VkrgdZaotnb)[](https://puredating.app.link/e/VkrgdZaotnb)[](https://puredating.app.link/e/VkrgdZaotnb)
 
