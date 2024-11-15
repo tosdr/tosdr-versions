@@ -96,13 +96,13 @@ Search
     
     [Shop All](https://4patriots.com/category/emergency-food-kits)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2407-72HR-TABLESCAPE-680x680.jpg)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F3c9ffb38d5044447bf6dd60a007322a3?width=343)
     
-    Emergency Food Kits](https://4patriots.com/page/emergency-survival-food-kits)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2407-4WK-LIFESTYLE-TOTE-UNDER-BED-680x680.jpg)
+    Emergency Food Kits](https://4patriots.com/page/emergency-survival-food-kits)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F9627210a4b13464cb9af3ca7ff9d1cea?width=343)
     
     Time-Based Food Kits](https://4patriots.com/category/emergency-food-kits/time-based-food-kits)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2403-CEK-LIFESTYLE-CHICKEN-680x680.jpg)
     
-    Specialty Food Kits](https://4patriots.com/category/emergency-food-kits/speciality-food-kits)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2403-FBR-LIFESTYLE-CAMPING-680x680.jpg)
+    Specialty Food Kits](https://4patriots.com/category/emergency-food-kits/speciality-food-kits)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F5c1b4cc4e4d04ab59815439d765ae793?width=343)
     
     Best Sellers](https://4patriots.com/category/emergency-food-kits/emergency-food-best-sellers)
     
