@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Marcell-Hale-326x245.jpg)](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
+
+Hermosa
+
+### [Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
+
+[November 12, 2024 5:59 PM](https://cwbchicago.com/2024/11)
+
+A 19-year-old man is charged with committing eight armed robberies within an hour while he was on electronic monitoring for six other felonies, including four more robberies.[](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/John-Catanzara-Brandon-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
 
 Citywide
@@ -262,16 +272,6 @@ Loop
 [November 12, 2024 6:05 AM](https://cwbchicago.com/2024/11)
 
 A suburban man faces a host of felony charges for allegedly threatening a Cook County judge electronically and during open court.[](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Alyxandra-Goodwin-326x245.jpg)](https://cwbchicago.com/2024/11/103000-a-year-mayoral-advisors-plates-expired-in-2022-because-her-car-wont-pass-an-emissions-test.html "$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test")
-
-Citywide
-
-### [$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test](https://cwbchicago.com/2024/11/103000-a-year-mayoral-advisors-plates-expired-in-2022-because-her-car-wont-pass-an-emissions-test.html "$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test")
-
-[November 12, 2024 5:15 AM](https://cwbchicago.com/2024/11)
-
-Mayor Brandon Johnson’s $103,488-a-year public safety advisor has been driving on expired plates for two years because her “check engine” light keeps coming on and she can’t pass an emissions test.[](https://cwbchicago.com/2024/11/103000-a-year-mayoral-advisors-plates-expired-in-2022-because-her-car-wont-pass-an-emissions-test.html "$103,000-a-year mayoral advisor’s plates expired in 2022 because her car won’t pass an emissions test")
 
 Search
 
