@@ -89,7 +89,7 @@ FR
         
         up to 11% Cash Back](https://www.rakuten.ca/crocs)[icebreaker
         
-        2% Cash Back](https://www.rakuten.ca/icebreaker)[H&M
+        4% Cash Back](https://www.rakuten.ca/icebreaker)[H&M
         
         2% Cash Back](https://www.rakuten.ca/hm)[Simons
         
