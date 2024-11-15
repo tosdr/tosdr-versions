@@ -324,15 +324,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-While filming Harry Potter and the Prisoner of Azkaban, Tom Felton’s Hogwarts robes had their pockets sewn shut because he kept trying to sneak food onto the set.
+The Golden Snitch was invented by Bowman Wright, a metal charmer who lived during the Middle Ages.
 
 ### Potter History
 
-July 10, 2007 – MuggleNet releases video coverage of the Harry Potter and the Order of the Phoenix US premiere, featuring interviews with some of the cast.
+October 1, 2013 – David Heyman confirms he will produce the “Fantastic Beasts” film series.
 
 ### Potter Quote
 
-“Aw, don’t worry, honey. Most guys think what you was thinking, first time they see me.”
+“He knows what you were born, not who you are.”
 
 [](#)
 
