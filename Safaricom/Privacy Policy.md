@@ -142,6 +142,30 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 15, 2024
+
+> Great service and knowledge
+
+> Great service and knowledge
+
+Julian
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 15, 2024
+
+> Responsive
+
+> Responsive, knowledgeable, professional, patient, friendly and courteous, more than expected.
+
+Gordon Myers
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 14, 2024
 
 > Incredibly helpful and experienced agent Anja
@@ -237,34 +261,6 @@ peter price
 ,
 
 AU
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 11, 2024
-
-> Luxury South Africa Tour
-
-> I inquired into a South African safari tour. I asked two questions, is this a private tour and what are the available dates in May. The first question wasn't answered and the itinerary presented was for "May 2025" but had February dates. When I asked for clarification on the timeline and the dates, there was no response (over 3 days now). I would expect a better response for a luxury tour.
-
-Don Shewmaker
-
-,
-
-US
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 11, 2024
-
-> 3-nights Zambia trip
-
-> I would start by saying before I started talking to Leigh-Ann Croeser I knew I wanted to go on this 3-nights adventure in Zambia with my family towards the end of this year, but I did not have any idea of how to go about planning it, thankfully Leigh-Ann responded immediately to my enquiry. Ever since I started communicating with her, she has been a very friendly, professional, knowledgeable, awesome Luxury Safari consultant who came through for me in every step of this process. She offered great advice and did a great job in customizing our itinerary and put my mind at ease in the process. She always responded quickly and gave me great advise when I needed. We are so looking forward to going on this adventure. I want to thank her from the bottom of my heart;) Thembi Coleman and her family
-
-Thembela Coleman
-
-,
-
-us
 
 VIP service
 
