@@ -208,16 +208,16 @@ this hour
 
 * * *
 
+* [Genetic 'Switch' Behind Parrot Color Diversity](https://www.sciencedaily.com/releases/2024/11/241115125034.htm)
+* [Sitting Too Long Can Harm Heart Health](https://www.sciencedaily.com/releases/2024/11/241115124729.htm)
+* [Heart Shape and Risk of Cardiovascular Disease](https://www.sciencedaily.com/releases/2024/11/241114125445.htm)
+* [Living Microbes in Earth's Driest Desert](https://www.sciencedaily.com/releases/2024/11/241114125607.htm)
+* [AI Headphones Create a 'Sound Bubble'](https://www.sciencedaily.com/releases/2024/11/241114161302.htm)
+* [Backyard Birds Learn from New Neighbors](https://www.sciencedaily.com/releases/2024/11/241114161140.htm)
+* [4 Policies to Eliminate 90% of Plastic Waste](https://www.sciencedaily.com/releases/2024/11/241114161138.htm)
+* [Capturing 'Hot' CO2 from Industrial Exhaust](https://www.sciencedaily.com/releases/2024/11/241114161135.htm)
 * [Effects of Psychedelics: Neural Circuits](https://www.sciencedaily.com/releases/2024/11/241114161054.htm)
 * [12,000-Year-Old Stones: Wheel-Like Technology?](https://www.sciencedaily.com/releases/2024/11/241113160855.htm)
-* [Evolution of a Large Brain: Long Childhood](https://www.sciencedaily.com/releases/2024/11/241113123122.htm)
-* [Fast Flowing Glaciers: Hidden Volcanic Activity](https://www.sciencedaily.com/releases/2024/11/241113123717.htm)
-* [Laser Light Can Cast a Shadow](https://www.sciencedaily.com/releases/2024/11/241114130211.htm)
-* [AI Detects Missed Brain Tumor Cells in 10 ...](https://www.sciencedaily.com/releases/2024/11/241113123219.htm)
-* [Can We Live On Our Planet Without Destroying It?](https://www.sciencedaily.com/releases/2024/11/241113123119.htm)
-* [Liquid Water On Mars 742 Million Years Ago](https://www.sciencedaily.com/releases/2024/11/241113160829.htm)
-* [Gas-Churning Monster Black Holes](https://www.sciencedaily.com/releases/2024/11/241113123542.htm)
-* [Bird Brain from Age of Dinosaurs: Intelligence](https://www.sciencedaily.com/releases/2024/11/241113123306.htm)
 
 Trending Topics
 ---------------
@@ -230,25 +230,25 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Healthy Aging](https://www.sciencedaily.com/news/health_medicine/healthy_aging/)
+[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
 
-[Urology](https://www.sciencedaily.com/news/health_medicine/urology/)
+[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+
 [Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
-[Robotics Research](https://www.sciencedaily.com/news/matter_energy/robotics/)
-
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
-[Endangered Animals](https://www.sciencedaily.com/news/plants_animals/endangered_animals/)
+[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
 
   
 
