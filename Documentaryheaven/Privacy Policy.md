@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Frank Bruno: Gloves Off](/wp-content/thumbnails/8567-100x70.jpg?x53432)
+* [![Roger & Me](/wp-content/thumbnails/6980-100x70.jpg?x53432)
     
-    Frank Bruno: Gloves Off
+    Roger & Me
     
-    Franklin Roy Bruno or simply Frank Bruno, is a former English professional boxer and WBC heavyweight championship title holder. Frank was known for his punching ability and who won his WBC title again](https://documentaryheaven.com/frank-bruno-gloves-off/ "Frank Bruno: Gloves Off")
-* [![Anatomy of Sex](/wp-content/thumbnails/3121-100x70.jpg?x53432)
+    Roger & Me is a 1989 American documentary film directed by Michael Moore. Moore portrays the regional negative economic impact of General Motors CEO Roger Smith's summary action of closing several](https://documentaryheaven.com/roger-me/ "Roger & Me")
+* [![Carl Cox: Space Is The Place](/wp-content/thumbnails/12809-100x70.jpg?x53432)
     
-    Anatomy of Sex
+    Carl Cox: Space Is The Place
     
-    As one young couple settles down to start a family, learn how biological and evolutionary forces conspire to keep the human race running.Our bodies work in specific, subtle ways for one reason onl](https://documentaryheaven.com/anatomy-of-sex/ "Anatomy of Sex")
-* [![For the Love of the Leader](/wp-content/thumbnails/5599-100x70.jpg?x53432)
+    Carl Cox is one of the all time greats when it comes to the history of house and techno, for about 40 years now he has been one of the most recognisable figures on the scene. Well known throughout the](https://documentaryheaven.com/carl-cox-space-is-place/ "Carl Cox: Space Is The Place")
+* [![What Killed Arafat?](/wp-content/thumbnails/6813-100x70.jpg?x53432)
     
-    For the Love of the Leader
+    What Killed Arafat?
     
-    This is the story of an extraordinary love affair between one Nation’s women and its leader.The Nation is Libya, an Islamic socialist state.Its leader, Muammar Gaddafi, a man reviled in the we](https://documentaryheaven.com/for-the-love-of-the-leader/ "For the Love of the Leader")
-* [![Lil Wayne: The Carter](/wp-content/thumbnails/6629-100x70.png?x53432)
+    Eight years after his death, it remains a mystery exactly what killed the longtime Palestinian leader. Tests conducted in Paris found no obvious traces of poison in Arafat’s system. Rumors abound abo](https://documentaryheaven.com/what-killed-arafat/ "What Killed Arafat?")
+* [![Silk Road: Drugs, Death and the Dark Web](/wp-content/thumbnails/13459-100x70.jpg?x53432)
     
-    Lil Wayne: The Carter
+    Silk Road: Drugs, Death and the Dark Web
     
-    An in-depth look at the artist Dwayne LIL’ WAYNE Carter Jr, proclaimed by many as the “greatest rapper alive” With comprehensive and personal interviews with Lil’ Wayne, this film will also feature in](https://documentaryheaven.com/lil-wayne-the-carter/ "Lil Wayne: The Carter")
-* [![EP 2/4 Time – Lifetime](/wp-content/thumbnails/2282-100x70.jpg?x53432)
+    A BBC Storyville special which sets out to take a deep look into the now infamous black market website known as the Silk Road which came into existance back in 2011. Coined the 'Amazon of illegal drug](https://documentaryheaven.com/silk-road-drugs-death-dark-web/ "Silk Road: Drugs, Death and the Dark Web")
+* [![Killer Fog](/wp-content/thumbnails/6932-100x70.jpg?x53432)
     
-    EP 2/4 Time – Lifetime
+    Killer Fog
     
-    In this four-programme series, string theory pioneer Michio Kaku goes on an extraordinary exploration of the world in search of time. He discovers our sense of time passing and the clocks that drive](https://documentaryheaven.com/ep-24-time-lifetime/ "EP 2/4 Time – Lifetime")
+    The fog that blanketed London, England, on December 5, 1952, seemed quite ordinary at first. But over the next two days, the fog turned yellow and people began to die. By the end of the week 4,000 Lon](https://documentaryheaven.com/killer-fog/ "Killer Fog")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
