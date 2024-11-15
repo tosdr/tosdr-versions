@@ -80,6 +80,14 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alina-habba-220x180.png)](https://americanwirenews.com/alina-habba-addresses-press-secretary-speculation-as-names-of-potential-contenders-rips-through-x/)
+
+[Alina Habba addresses Press Secretary speculation as names of potential contenders rip through X](https://americanwirenews.com/alina-habba-addresses-press-secretary-speculation-as-names-of-potential-contenders-rips-through-x/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ezra-klein-220x180.jpg)](https://americanwirenews.com/nyt-columnist-tells-leftists-blaming-fox-news-for-loss-to-shut-the-fk-up-in-reality-filled-rant/)
+
+[NYT columnist tells leftists blaming ‘Fox News’ for loss to ‘shut the f\*\*k up’ in reality-filled rant](https://americanwirenews.com/nyt-columnist-tells-leftists-blaming-fox-news-for-loss-to-shut-the-fk-up-in-reality-filled-rant/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-220x180.jpg)](https://americanwirenews.com/desantis-endorses-florida-taking-legal-action-against-fema-over-discrimination/)
 
 [Florida takes swift legal action against FEMA over discrimination](https://americanwirenews.com/desantis-endorses-florida-taking-legal-action-against-fema-over-discrimination/)
@@ -171,16 +179,6 @@ Search for:
 [Awkward tension between Harris, Jill Biden has X buzzing: ‘Too many cats in the litter box’](https://americanwirenews.com/awkward-tension-between-harris-jill-biden-has-x-buzzing-too-many-cats-in-the-litter-box/)
 
 (Photo by ANDREW CABALLERO-REYNOLDS / AFP)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-steele-sg-cpd-220x180.jpg)](https://americanwirenews.com/first-term-chicago-dem-charged-with-dui-after-crash-mocks-arresting-officers-penis-size/)
-
-[First-term Chicago Dem charged with DUI after crash ‘mocks’ arresting officer’s penis size](https://americanwirenews.com/first-term-chicago-dem-charged-with-dui-after-crash-mocks-arresting-officers-penis-size/)
-
-Image via Cook County Board of Review
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chaffetz-fox-news-220x180.jpg)](https://americanwirenews.com/jason-chaffetz-dares-any-republican-senator-to-vote-against-trumps-choice-for-def-sec/)
-
-[Jason Chaffetz dares any Republican senator to vote against Trump’s choice for Sec Def](https://americanwirenews.com/jason-chaffetz-dares-any-republican-senator-to-vote-against-trumps-choice-for-def-sec/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
