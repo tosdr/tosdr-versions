@@ -380,7 +380,7 @@ Help & support
 * [Customer support](https://support.sailpoint.com/)
 * [Glossary](https://www.sailpoint.com/glossary)
 
-Stay Connected
+Stay connected
 
 * [![](https://cdn.sanity.io/images/4vd6xhxw/production/c33fea7d5b3b875bf5e7773656f5211dd1129513-21x20.svg)](https://www.linkedin.com/company/sailpoint-technologies/)
 * [![](https://cdn.sanity.io/images/4vd6xhxw/production/d79ea01818cfe47a2aef9489c3f4a9271b7a6895-22x20.svg)](https://twitter.com/SailPoint)
