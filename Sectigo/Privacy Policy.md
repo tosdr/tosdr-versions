@@ -94,13 +94,13 @@ Purpose-built digital certificate management for small businesses
 
 CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
 
-[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [45-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
+[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [45-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
 
 Prepare for 45-day TLS certificates!
 
 Download our free 45-day survival guide to learn how automation can help you stay ahead.
 
-[Download](https://www.sectigo.com/resource-library/ebook-the-45-day-survival-guide)
+[Download](https://www.sectigo.com/resource-library/ebook-the-47-day-survival-guide)
 
 [Partners](https://www.sectigo.com/partners/channel)
 
@@ -210,7 +210,7 @@ Login
     * CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
         
     * [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations)
-    * [45-Day certificates are coming](https://www.sectigo.com/45-day-ssl)
+    * [45-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
     
 * Partners
     
