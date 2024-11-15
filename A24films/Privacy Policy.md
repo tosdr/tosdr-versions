@@ -18,7 +18,7 @@ Privacy Policy
 
 Effective Date: June 30, 2020.
 
-Last Updated: July 5, 2023  
+Last Updated: November 15, 2024  
 
 1\. Introduction and Overview.
 
@@ -38,7 +38,7 @@ We and our agents, vendors, consultants, and other service providers (collective
 * Location: We collect your general location via pixels when you interact with our Site.
 * Professional or employment-related information if you apply for a job, such as your resume/CV, work history, social/professional networking pages, and any other info you choose to submit with your job application. And if you engage with us in a business-to-business capacity on behalf of your employer, we will collect professional information about you, such as your employer name, job title, your business contact information, and records of our business correspondence and transactions with you;
 * Sensitive personal information: If you create an account with us, we will collect and store your A24 login credentials. If you make a purchase on the Sites, we will collect your payment card number and billing information.
-* Social media information: If you use your login credentials from a social media service in connection with our Sites, we may receive information from or send information to that service in accordance with its terms and privacy policy and your preferences and settings. We also use social widgets (which are buttons or icons provided by third-party social media[https://a24films.com/admin/ent...](https://a24films.com/admin/entries/pages/2993-privacy-policy#) providers) that allow you to interact with social media services when you view a webpage or mobile app screen. These social widgets collect browsing data.
+* Social media and third-party content provider information: If you use your login credentials from a social media service or third-party content provider in connection with our Sites, we may receive information from or send information to that service or provider in accordance with its terms and privacy policy and your preferences and settings. Information we may receive includes, for example, your name, user information, and content and activity on the platform. We also use social widgets (which are buttons or icons provided by third-party social media services and content providers) that allow you to interact with the services and providers when you view a webpage or mobile app screen. These social widgets collect browsing data.
 * Inferences drawn from any of the above information to create a profile about you; and
 * Other information that you consent to us collecting from time to time.
 
