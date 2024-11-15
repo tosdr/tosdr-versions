@@ -91,13 +91,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [50 years ago, U.S. drinking water sparked health and safety concerns](https://www.sciencenews.org/article/drinking-water-carcinogens-update)
             
-            By [Karen Kwon](https://www.sciencenews.org/author/karen-kwon "Posts by Karen Kwon")1 hour ago
+            By [Karen Kwon](https://www.sciencenews.org/author/karen-kwon "Posts by Karen Kwon")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [22 pesticides show links to prostate cancer](https://www.sciencenews.org/article/pesticides-link-prostate-cancer)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")23 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 14, 2024
             
         * [Psychology](https://www.sciencenews.org/topic/psychology)
             
@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Animals](https://www.sciencenews.org/topic/animals)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")5 hours ago
+            
+        * [Animals](https://www.sciencenews.org/topic/animals)
             
             ### [Stray DNA is all around us. It could revolutionize conservation](https://www.sciencenews.org/article/edna-environmental-conservation)
             
@@ -126,35 +132,29 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 12, 2024
             
-        * [Genetics](https://www.sciencenews.org/topic/genetics)
-            
-            ### [A common drug may help treat a rare genetic disease](https://www.sciencenews.org/article/common-drug-treat-rare-genetic-disease)
-            
-            By [Tina Hesman Saey](https://www.sciencenews.org/author/tina-hesman-saey "Posts by Tina Hesman Saey")November 8, 2024
-            
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+            
+            ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")5 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [22 pesticides show links to prostate cancer](https://www.sciencenews.org/article/pesticides-link-prostate-cancer)
             
-            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")23 hours ago
+            By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 14, 2024
             
         * [Environment](https://www.sciencenews.org/topic/environment)
             
             ### [Fire-prone neighborhoods on the fringes of nature are rapidly expanding](https://www.sciencenews.org/article/fire-prone-neighborhoods-expanding)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 8, 2024
-            
-        * [Climate](https://www.sciencenews.org/topic/climate)
-            
-            ### [Meet Chonkus, the mutant cyanobacteria that could help sink climate change](https://www.sciencenews.org/article/chonkus-climate-change-cyanobacteria)
-            
-            By [Carolyn Gramling](https://www.sciencenews.org/author/carolyn-gramling "Posts by Carolyn Gramling")November 7, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -188,7 +188,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [A first look at rocks from the lunar farside create a volcanic mystery](https://www.sciencenews.org/article/first-look-rocks-lunar-volcanic-mystery)
             
-            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")5 hours ago
+            By [Lisa Grossman](https://www.sciencenews.org/author/lisa-grossman "Posts by Lisa Grossman")11 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
