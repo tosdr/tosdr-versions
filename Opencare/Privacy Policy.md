@@ -453,7 +453,9 @@ For Dentists
 ------------
 
 * [Patient Acquisition](https://www.opencare.com/for-dentists/patient-acquisition/)
+* [Guide to Dental Marketing](https://www.opencare.com/for-dentists/dental-marketing-guide/)
 * [The Opencare Difference](https://www.opencare.com/for-dentists/the-opencare-difference/)
+* [Our Results](https://www.opencare.com/for-dentists/us-based-case-study/)
 * [Practice Login](https://app.opencare.com/#/login/)
 
 Need help?
@@ -470,15 +472,20 @@ Popular Searches
 
 * [Dentists Near Me](https://www.opencare.com/)
 * [Dentists in Austin](https://www.opencare.com/dentists/austin-tx/)
+* [Dentists in Boston](https://www.opencare.com/dentists/boston-ma/)
 * [Dentists in Brooklyn](https://www.opencare.com/dentists/brooklyn-ny/)
 * [Dentists in Calgary](https://www.opencare.com/dentists/calgary-ab/)
 * [Dentists in Chicago](https://www.opencare.com/dentists/chicago-il/)
 * [Dentists in Dallas](https://www.opencare.com/dentists/dallas-tx/)
 * [Dentists in Denver](https://www.opencare.com/dentists/denver-co/)
+* [Dentists in Houston](https://www.opencare.com/dentists/houston-tx/)
+* [Dentists in Las Vegas](https://www.opencare.com/dentists/las-vegas-nv/)
 * [Dentists in Los Angeles](https://www.opencare.com/dentists/los-angeles-ca/)
 * [Dentists in Miami](https://www.opencare.com/dentists/miami-fl/)
 * [Dentists in New York](https://www.opencare.com/dentists/new-york-ny/)
+* [Dentists in Ottawa](https://www.opencare.com/dentists/ottawa-on/)
 * [Dentists in Phoenix](https://www.opencare.com/dentists/phoenix-az/)
+* [Dentists in Sacramento](https://www.opencare.com/dentists/sacramento-ca/)
 * [Dentists in San Diego](https://www.opencare.com/dentists/san-diego-ca/)
 * [Dentists in San Francisco](https://www.opencare.com/dentists/san-francisco-ca/)
 * [Dentists in San Jose](https://www.opencare.com/dentists/san-jose-ca/)
