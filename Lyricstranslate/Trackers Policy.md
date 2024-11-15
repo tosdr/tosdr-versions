@@ -137,67 +137,69 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
+[![SlowCheetah](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611112-1709747394.png)](https://lyricstranslate.com/en/translator/slowcheetah "SlowCheetah")
+
+New translation
+
+[Linkin Park - Stained](https://lyricstranslate.com/en/linkin-park-stained-french)
+
+English → French
+
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
 
 New song
 
-[Narvel Felts - I Swear By Stars Above](https://lyricstranslate.com/en/narvel-felts-i-swear-stars-above-lyrics)
+[Hugues Aufray - San Miguel](https://lyricstranslate.com/en/hugues-aufray-san-miguel-lyrics)
+
+French
+
+[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
+
+New translation
+
+[Léo Ferré - À vendre](https://lyricstranslate.com/en/leo-ferre-vendre-italian)
+
+French → Italian
+
+[![김태태](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1339838-1496064240.jpg)](https://lyricstranslate.com/en/translator/%EA%B9%80%ED%83%9C%ED%83%9C "김태태")
+
+New translation
+
+[Amirchik - Кандай](https://lyricstranslate.com/en/amirchik-kanday-russian)
+
+Kyrgyz → Russian
+
+[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+
+New request
+
+[Hugues Aufray - Dou Wakadou](https://lyricstranslate.com/en/request/dou-wakadou)
+
+French → English
+
+[![Sherly Sherly](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523263-1702619033.png)](https://lyricstranslate.com/en/translator/sherly-sherly "Sherly Sherly")
+
+New transcription request
+
+[Marta Knight - Blood On The Way](https://lyricstranslate.com/en/marta-knight-blood-way)
 
 English
 
-[![edgelordneko](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1484515-1610097039.png)](https://lyricstranslate.com/en/translator/edgelordneko "edgelordneko")
+[![Frog](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1271442-1631025238.jpg)](https://lyricstranslate.com/en/translator/frog "Frog")
 
 New translation
 
-[STRUGARE - КУЧЕЯДЕКУЧЕ (KUCHEYADEKUCHE)](https://lyricstranslate.com/en/strugare-kucheyadekuche-english)
+[Aiko (CZ) - Naivní](https://lyricstranslate.com/en/aiko-cz-naivni-english)
 
-Bulgarian → English
+Czech → English
 
-[![magicmulder](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1264038-1558603824.jpg)](https://lyricstranslate.com/en/translator/magicmulder "magicmulder")
-
-New comment
-
-Die überspringen einige Strophen des Originals, ...  [more](https://lyricstranslate.com/en/comment/1175868#comment-1175868)
-
-[![bavohopman](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1314977-1565772005.jpg)](https://lyricstranslate.com/en/translator/bavohopman "bavohopman")
+[![Noelia Corso](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637124-1731666854.png)](https://lyricstranslate.com/en/translator/noelia-corso "Noelia Corso")
 
 New translation
 
-[Fats Waller - Ain't Misbehavin'](https://lyricstranslate.com/en/fats-waller-aint-misbehavin-dutch)
+[Nirvana - Oh, me](https://lyricstranslate.com/en/nirvana-oh-me-spanish)
 
-English → Dutch
-
-[![Tarkman2023](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/tarkman2023 "Tarkman2023")
-
-New song
-
-[Ara Kekedjian - Ձիւնը եկաւ](https://lyricstranslate.com/en/ara-kekedjian-tsooyne-yegav-lyrics)
-
-Armenian
-
-[![Hilal_](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1602145-1714329449.jpg)](https://lyricstranslate.com/en/translator/hilal-1 "Hilal_")
-
-New translation
-
-[Hugues Aufray - Loin elle m'attend](https://lyricstranslate.com/en/hugues-aufray-loin-elle-mattend-turkish)
-
-French → Turkish
-
-[![RoshanDel](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/roshandel "RoshanDel")
-
-New translation
-
-[Arman Garshasbi - از تو گفتم - نسخه پیانو (Az To Goftam - Piano Version)](https://lyricstranslate.com/en/arman-garshasbi-az-goftam-piano-vers-english)
-
-Persian → English
-
-[![GoddessYuemi](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1529913-1725652459.png)](https://lyricstranslate.com/en/translator/goddessyuemi "GoddessYuemi")
-
-New song
-
-[Xiao Zhan - 都一样](https://lyricstranslate.com/en/xiao-zhan-dou-yi-yang-lyrics)
-
-Chinese
+English → Spanish
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
