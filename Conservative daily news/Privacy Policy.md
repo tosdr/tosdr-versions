@@ -1,15 +1,15 @@
-Thursday, November 14 2024
+Friday, November 15 2024
 
 Breaking News
 
+* [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/)
+* [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/)
+* [President Joe Biden’s Schedule for Friday, November 15, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-15-2024/)
 * [Special Counsel Jack Smith Moves To Freeze Trump’s Florida Case Proceedings](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
 * [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
 * [After $1 Billion Failed To Stop Trump, Lib Donors Balk At Funding ‘Resistance’](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
 * [President Joe Biden’s Schedule for Thursday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
 * [Fareed Zakaria’s Criticism Far Too Kind to the Biden-Harris Wrecking Machine](https://www.conservativedailynews.com/2024/11/fareed-zakarias-criticism-far-too-kind-to-the-biden-harris-wrecking-machine/)
-* [America In The Age Of Stupidity: Dems Freakout And Ignore The Real Reason They Lost](https://www.conservativedailynews.com/2024/11/america-in-the-age-of-stupidity-dems-freakout-and-ignore-the-real-reason-they-lost/)
-* [Nobody Will Be Taking A Knee On This Dream Team](https://www.conservativedailynews.com/2024/11/nobody-will-be-taking-a-knee-on-this-dream-team/)
-* [Musk’s PAC Vows To ‘Keep Grinding’ Through Midterm Elections](https://www.conservativedailynews.com/2024/11/musks-pac-vows-to-keep-grinding-through-midterm-elections/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,6 +130,42 @@ Orange = One-Time Donations
 
 Recent Posts
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/1200px-NATO_OTAN_landscape_logo.svg.png)](https://www.conservativedailynews.com/2024/11/nato-forces-mobilized-as-russian-jets-cross-lines-in-baltic-sea/)
+    
+    [NATO Forces Mobilized As Russian Jets Cross Lines In Baltic Sea](https://www.conservativedailynews.com/2024/11/nato-forces-mobilized-as-russian-jets-cross-lines-in-baltic-sea/)
+    
+    November 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/begging-your-pardon/)
+    
+    [Begging Your Pardon](https://www.conservativedailynews.com/2024/11/begging-your-pardon/)
+    
+    November 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/)
+    
+    [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/)
+    
+    November 15, 2024
+    
+* [![angry-white-liberals](https://www.conservativedailynews.com/wp-content/uploads/2016/11/Angry-White-Liberals.jpg)](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/)
+    
+    [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/)
+    
+    November 15, 2024
+    
+* [![Donald Trump department of government efficiency DOGE Elon Musk Vivek Ramaswamy](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-doge-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/)
+    
+    [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/)
+    
+    November 15, 2024
+    
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/Crazy-Joe-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-15-2024/)
+    
+    [President Joe Biden’s Schedule for Friday, November 15, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-15-2024/)
+    
+    November 15, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2023/12/jack-Smith-220x150.jpg)](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
     
     [Special Counsel Jack Smith Moves To Freeze Trump’s Florida Case Proceedings](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
@@ -142,55 +178,19 @@ Recent Posts
     
     November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2017/06/money-600-x-366.jpg)](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
-    
-    [After $1 Billion Failed To Stop Trump, Lib Donors Balk At Funding ‘Resistance’](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
-    
-    November 14, 2024
-    
-* [![Kamala loser begging money](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/reap-what-you-sow/)
-    
-    [Reap What You Sow…](https://www.conservativedailynews.com/2024/11/reap-what-you-sow/)
-    
-    November 14, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/Thinking-woman.jpg)](https://www.conservativedailynews.com/2024/11/sandwiched-between-aging-parents-and-adult-children/)
-    
-    [Sandwiched Between Aging Parents and Adult Children](https://www.conservativedailynews.com/2024/11/sandwiched-between-aging-parents-and-adult-children/)
-    
-    November 14, 2024
-    
-* [![Joe Biden leaving lone rider done](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111424dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/lone-rider/)
-    
-    [Lone Rider](https://www.conservativedailynews.com/2024/11/lone-rider/)
-    
-    November 14, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/hollis-feat-220x150-1.jpg)](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/)
-    
-    [Hey, Democrats — It’s Your Policies](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/)
-    
-    November 14, 2024
-    
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2021/02/Joe-Biden-Air-Force-One-220x150.png)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
-    
-    [President Joe Biden’s Schedule for Thursday, November 14, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-wednesday-november-14-2024/)
-    
-    November 14, 2024
-    
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [YouTuber Brandon Herrera for ATF Director? Mmmm, Probably Not; But Would be Funny](https://www.thegunpage.com/youtuber-brandon-herrera-for-atf-director-mmmm-probably-not-but-would-be-funny/10611903)
+* [FALCO Holsters Launches Hybrid Holsters Featuring New TalonGuard Syste](https://www.thegunpage.com/falco-holsters-launches-hybrid-holsters-featuring-new-talonguard-syste/10611899)
+* [NSSF Urges Trump to Disband White House Office of Gun Violence Prevention](https://www.thegunpage.com/nssf-urges-trump-to-disband-white-house-office-of-gun-violence-prevention/10611897)
+* [NEW H&K MR556 A4: Is this Civilian HK 416 Worth $3929?](https://www.thegunpage.com/new-hk-mr556-a4-is-this-civilian-hk-416-worth-3929/10611900)
+* [Despite Election Loss, Gun-Ban Groups Vow To Continue Fight Against Your 2A Rights](https://www.thegunpage.com/despite-election-loss-gun-ban-groups-vow-to-continue-fight-against-your-2a-rights/10611894)
+* [Maximus White: Youngest Ever Steel Master](https://www.thegunpage.com/maximus-white-youngest-ever-steel-master/10611893)
+* [TFB Review: Original SIG Sauer MCX vs Spear LT](https://www.thegunpage.com/tfb-review-original-sig-sauer-mcx-vs-spear-lt/10611890)
+* [POTD: 3E EOS PARS Thermal Sight on Heckler & Koch MR223](https://www.thegunpage.com/potd-3e-eos-pars-thermal-sight-on-heckler-koch-mr223/10611891)
+* [Concealed Carry Corner: How to Train for Carrying](https://www.thegunpage.com/concealed-carry-corner-how-to-train-for-carrying/10611892)
 * [HIT THE MARK, NOT YOUR WALLET: Strikeman’s Black Friday Deal is the Perfect Gift for Every Shooter](https://www.thegunpage.com/hit-the-mark-not-your-wallet-strikemans-black-friday-deal-is-the-perfect-gift-for-every-shooter/10611887)
-* [All American Hunters Win as Ban Against Mountain Lion Hunting in Colorado Fails!](https://www.thegunpage.com/all-american-hunters-win-as-ban-against-mountain-lion-hunting-in-colorado-fails/10611886)
-* [SK Customs Introduces The Saints Series “Santa Muerte”](https://www.thegunpage.com/sk-customs-introduces-the-saints-series-santa-muerte/10611885)  
-* [Wyoming Duck Hunter Says Fatal Shooting Was Accident](https://www.thegunpage.com/wyoming-duck-hunter-says-fatal-shooting-was-accident/10611883)
-* [Silent Steel Gen 3 Flow Streamer Suppressors](https://www.thegunpage.com/silent-steel-gen-3-flow-streamer-suppressors/10611881)
-* [Hornady’s .338 ARC Cartridge Designed For ‘Reliable Cycling With Both Supersonic And Subsonic Loads’](https://www.thegunpage.com/hornadys-338-arc-cartridge-designed-for-reliable-cycling-with-both-supersonic-and-subsonic-loads/10611888)
-* [Q&A: How an Illinois Legal Case Can Help the Gun Cause in California](https://www.thegunpage.com/qa-how-an-illinois-legal-case-can-help-the-gun-cause-in-california/10611879)
-* [Matt Gaetz may scare Democrats more than President-elect Trump](https://www.thegunpage.com/matt-gaetz-may-scare-democrats-more-than-president-elect-trump/10611872)
-* [Sweden & Finland Sign Agreement For Aimpoint Sights & Senop Optronics](https://www.thegunpage.com/sweden-finland-sign-agreement-for-aimpoint-sights-senop-optronics/10611882)
-* [NOT GUILTY: But the Baltimore Legal System Tried in Self-Defense Case](https://www.thegunpage.com/not-guilty-but-the-baltimore-legal-system-tried-in-self-defense-case/10611868)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
-* Stanley Warner on [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/#comment-783214)
-* Deb on [Cleaning House](https://www.conservativedailynews.com/2024/11/cleaning-house-2/#comment-783201)
-* Stanley Warner on [Trump Announces John Ratcliffe As CIA Director Pick](https://www.conservativedailynews.com/2024/11/trump-announces-john-ratcliffe-as-cia-director-pick/#comment-783198)
-* [Lisa](http://conservativedailynews.com/) on [Can We Finally Just Call Them Voters?](https://www.conservativedailynews.com/2024/11/can-we-finally-just-call-them-voters/#comment-783186)
-* KayCee on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783178)
-* Stanley Warner on [Biden’s Signature Climate ‘Boondoggle’ Might Be On Chopping Block After Trump Win](https://www.conservativedailynews.com/2024/11/bidens-signature-climate-boondoggle-might-be-on-chopping-block-after-trump-win/#comment-783161)
-* KayCee on [President Joe Biden’s Schedule for Friday, November 8, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-8-2024/#comment-783149)
-* David Criss on [Democrats Normalize Transparent Lying](https://www.conservativedailynews.com/2024/11/democrats-normalize-transparent-lying/#comment-783148)
-* Beverly Sellers on [Why Did Biden And Kamala Both Call Trump A Racist And A Nazi, But Then…](https://www.conservativedailynews.com/2024/11/why-did-biden-and-kamala-both-call-trump-a-racist-and-a-nazi-but-then/#comment-783146)
+* [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783250)
+* [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783249)
+* KayCee on [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/#comment-783247)
+* KayCee on [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/#comment-783246)
+* Kaycee on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783245)
+* Stanley Warner on [Hey, Democrats — It’s Your Policies](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/#comment-783244)
+* Stanley Warner on [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/#comment-783243)
+* KayCee on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783242)
+* KayCee on [Electing Donald Trump is the Preface to a Bigger Story](https://www.conservativedailynews.com/2024/11/electing-donald-trump-is-the-preface-to-a-bigger-story/#comment-783240)
 
 [Close](#)
 
