@@ -37,7 +37,7 @@ Support Center
 Privacy Policy
 --------------
 
-Epubor Software is committed to protecting client's privacy. We will only collect your basic information for better CRM and after-sale service. We do not distribute or share your personal information with any individual or organization. Epubor will never sell your personal information in any situation.
+Wuhan JinDu Technology Co. ltd is committed to protecting client's privacy. We will only collect your basic information for better CRM and after-sale service. We do not distribute or share your personal information with any individual or organization. Epubor will never sell your personal information in any situation.
 
 ### Update: Epubor will be GDPR compliant by May 25th
 
