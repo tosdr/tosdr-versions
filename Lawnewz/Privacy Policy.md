@@ -244,21 +244,21 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Inset: Jacquelyn Powers (Facebook). Background: Powers being arrested in connection to her daughter's fentanyl overdose (KTVI).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/asdfasdfafdaf-432x243.jpg)](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
+1. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
+    
+    ### ['No reason for any further delay': Fed-up judge in Trump defamation case against ABC News, George Stephanopoulos refuses demand to push back trial date](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
+    
+2. [![Inset: One of the social media posts that Jordan Stroh made about Donald Trump supporters (Facebook/WXIN/Hancock County Deputy Prosecutor). Background: Republican presidential nominee former President Donald Trump speaks at an election night watch party, Wednesday, Nov. 6, 2024, in West Palm Beach, Fla. (AP Photo/Alex Brandon).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jordan-Stroh-Ouellette-and-trump--432x243.jpg)](https://lawandcrime.com/high-profile/if-you-voted-for-trump-you-disgust-me-deputy-prosecutor-fired-for-bashing-gop-voters-on-facebook/)
+    
+    ### ['If you voted for Trump ... you disgust me': Deputy prosecutor fired for bashing GOP voters on Facebook](https://lawandcrime.com/high-profile/if-you-voted-for-trump-you-disgust-me-deputy-prosecutor-fired-for-bashing-gop-voters-on-facebook/)
+    
+3. [![Tekquan Alexander mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out/)
+    
+    ### [Dad tortured his 4-year-old daughter into a 'vegetative state,' told girl's mother that she fainted during a 'time-out'](https://lawandcrime.com/crime/dad-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out/)
+    
+4. [![Inset: Jacquelyn Powers (Facebook). Background: Powers being arrested in connection to her daughter's fentanyl overdose (KTVI).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/asdfasdfafdaf-432x243.jpg)](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
     
     ### [Mom gave teen 'pill that she found in her drawer' to treat toothache, 10 hours later she was dead: Police](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
-    
-2. [![Patrick Byrne, Hunter Biden](https://am21.mediaite.com/lc/cnt/uploads/2024/10/Byrne-Biden-432x243.jpg)](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
-    
-    ### [Ex-Overstock CEO says Hunter Biden is basically just calling him 'a right-wing nutjob' in order to keep his Iran-themed defamation lawsuit afloat](https://lawandcrime.com/high-profile/ex-overstock-ceo-says-hunter-biden-is-basically-just-calling-him-a-right-wing-nutjob-in-order-to-keep-his-iran-themed-defamation-lawsuit-afloat/)
-    
-3. [![U.S. District Judge Algenon Marbley (Office of Diversity and Inclusion - The Ohio State University).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Judge-marbley-432x243.jpg)](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
-    
-    ### [Clinton-appointed judge pulls reverse retirement card on Trump, rescinds 'senior status' decision after his election win](https://lawandcrime.com/high-profile/clinton-appointed-judge-pulls-reverse-retirement-card-on-trump-rescinds-senior-status-decision-after-his-election-win/)
-    
-4. [![Inset: Shaelynn Renoblas (Sheriff's Department via WPTA). Background: Manchester University in Indiana (Google Maps).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/threats-432x243.jpg)](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
-    
-    ### ['Air this b---- out': College student allegedly sends threatening texts with gun emojis, then tells cops she has 'a dark sense of humor'](https://lawandcrime.com/crime/air-this-b-out-college-student-allegedly-sends-threatening-texts-with-gun-emojis-then-tells-cops-she-has-a-dark-sense-of-humor/)
     
 5. [![Haven Duncan, Jaqory Gill and Life Ford](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Laundromat-dryer-suspects-432x243.jpg)](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
     
