@@ -215,9 +215,6 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 *      [Ben Shapiro The Trump Doctrine](https://patriotpost.us/opinion/111964-the-trump-doctrine-2024-11-14)
 *      [Cal Thomas Trump’s Chance to Change Taxation](https://patriotpost.us/opinion/111963-trumps-chance-to-change-taxation-2024-11-14)
 *      [Allen West Things That Make You Go Hmm…](https://patriotpost.us/opinion/111962-things-that-make-you-go-hmm-dot-dot-dot-2024-11-14)
-*      [The Washington Stand Fame Fatale: How the Elite Celeb Culture Doomed Dems](https://patriotpost.us/opinion/111974-fame-fatale-how-the-elite-celeb-culture-doomed-dems-2024-11-14)
-*      [The Babylon Bee Biden Administration Declares Trump Cabinet Picks ‘Unqualified’](https://patriotpost.us/opinion/111959-biden-administration-declares-trump-cabinet-picks-unqualified-2024-11-14)
-*      [Guest Commentary Not Out of the Woods Yet](https://patriotpost.us/opinion/111985-not-out-of-the-woods-yet-2024-11-14)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
