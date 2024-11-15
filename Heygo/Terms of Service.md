@@ -390,6 +390,8 @@ Featured travel offers
     
     ### Exoticca [Ancient Ruins, Paros & Santorini\*](https://redirects.restless.co.uk/redirect?url=https%3A%2F%2Fwww.exoticca.com%2Fuk%2Ftours%2Feurope%2F15575-ancient-ruins-paros-santorini%3Futm_source%3Drestless%26utm_medium%3Dcpc%26utm_campaign%3D15575&item=traveldeal&item_id=4913e8b6-cdaf-480f-9652-3267022330d4&utm_source=mainsite&utm_campaign=travel_deals&utm_medium=search)
     
+    Acropolis of Athens - Meteora - Paros - Santorini
+    
     30% off | Greece | 10 days | Accommodation, Flights & Transfers Included
     
     Black Friday Sale: up to 70% off selected deals
@@ -541,6 +543,12 @@ Where to travel abroad by month...
 New in travel
 -------------
 
+[![12 of the best winter sun cruise destinations](https://media.restless.co.uk/uploads/2024/11/the-best-winter-sun-cruise-destinations-768x512.jpg)](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
+
+### [12 of the best winter sun cruise destinations](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/) 
+
+[Read More »](https://restless.co.uk/travel/the-best-winter-sun-cruise-destinations/)
+
 [![10 enriching UK breaks](https://media.restless.co.uk/uploads/2024/09/enriching-uk-breaks-e1726831157473-768x384.jpg)](https://restless.co.uk/travel/enriching-uk-breaks/)
 
 ### [10 enriching UK breaks](https://restless.co.uk/travel/enriching-uk-breaks/)
@@ -570,12 +578,6 @@ New in travel
 ### [10 sun-soaked cruise destinations for 2025](https://restless.co.uk/travel/sun-soaked-cruise-destinations/) 
 
 [Read More »](https://restless.co.uk/travel/sun-soaked-cruise-destinations/)
-
-[![Escorted Canadian tours – 5 incredible experiences for 2023](https://media.restless.co.uk/uploads/2023/01/escorted-canadian-tours-incredible-experiences-for-2023-1-768x512.jpg)](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
-
-### [Escorted Canadian tours – 5 incredible experiences for 2025](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
-
-[Read More »](https://restless.co.uk/travel/escorted-canadian-tours-incredible-experiences/)
 
 Popular travel guides
 ---------------------
