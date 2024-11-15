@@ -263,7 +263,6 @@ KEY OFFERINGS
 * [Press center](https://www.sheriffs.org/Contact-Us/Press-Center)
 * [Career center](http://nsacareers.sheriffs.org/)
 * [Ultimate guide](http://ultimateguideforsheriffs.com/)
-* [America's Sheriffs](https://www.sheriffs.org/nsa-membership/member-directory)
 
 Stay Connected
 
@@ -287,7 +286,6 @@ KEY OFFERINGS
 * [Press center](https://www.sheriffs.org/Contact-Us/Press-Center)
 * [Career center](http://nsacareers.sheriffs.org/)
 * [Ultimate guide](http://ultimateguideforsheriffs.com/)
-* [America's Sheriffs](https://www.sheriffs.org/nsa-membership/member-directory)
 
 * [Membership](https://www.sheriffs.org/Membership)
 * [Contact](https://www.sheriffs.org/Contact-Us)
