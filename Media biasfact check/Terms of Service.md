@@ -216,9 +216,9 @@ No related posts.
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Methodology](https://mediabiasfactcheck.com/methodology/)
 * [New Republic - Bias and Credibility](https://mediabiasfactcheck.com/new-republic/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
 
 #### Subscribe via Email
 
