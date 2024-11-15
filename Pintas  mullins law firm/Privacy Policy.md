@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How do bones break?](https://www.pintas.com/wp-content/uploads/2020/09/broken-bones-how-do-bones-break.jpg "How Do Bones Break?")](https://www.pintas.com/faq/broken-bones/ "How Do Bones Break?")
+[![Detecting mesothelioma in its early stages](https://www.pintas.com/wp-content/uploads/2020/05/mesothelioma-how-early-can-mesothelioma-be-detected.jpg "Detecting Mesothelioma in Its Early Stages")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/ "Detecting Mesothelioma in Its Early Stages")
 
-[#### How Do Bones Break?](https://www.pintas.com/faq/broken-bones/)
+[#### Detecting Mesothelioma in Its Early Stages](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/how-early-can-mesothelioma-be-detected/)
 
-[![Elderly risk in extreme assisted living temps](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-why-are-the-elderly-and-sick-vulnerable-to-extreme-heat-and-cold-ii-assisted-living-facilities-scaled.jpg "Elderly Risk in Extreme Assisted Living Temps")](https://www.pintas.com/faq/why-are-the-elderly-and-sick-vulnerable-to-extreme-heat-and-cold-ii-assisted-living-facilities/ "Elderly Risk in Extreme Assisted Living Temps")
+[![What is talcum powder used for?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-talc-powder-used-for-scaled.jpg "What Is Talcum Powder Used For?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/ "What Is Talcum Powder Used For?")
 
-[#### Elderly Risk in Extreme Assisted Living Temps](https://www.pintas.com/faq/why-are-the-elderly-and-sick-vulnerable-to-extreme-heat-and-cold-ii-assisted-living-facilities/)
+[#### What Is Talcum Powder Used For?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/)
 
-[![What is the talcum powder lawsuit?](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-talcum-powder-lawsuit.jpg "What Is the Talcum Powder Lawsuit?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/ "What Is the Talcum Powder Lawsuit?")
+[![Average lung cancer settlement from asbestos](https://www.pintas.com/wp-content/uploads/2020/01/lung-cancer-what-is-the-average-settlement-for-lung-cancer-caused-by-asbestos-exposure.jpg "Average Lung Cancer Settlement from Asbestos")](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement "Average Lung Cancer Settlement from Asbestos")
 
-[#### What Is the Talcum Powder Lawsuit?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/what-is-the-talcum-powder-lawsuit/)
+[#### Average Lung Cancer Settlement from Asbestos](https://www.pintas.com/practice-areas/lung-cancer/average-lung-cancer-settlement)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Name
 
 This field is for validation purposes and should be left unchanged.
 
