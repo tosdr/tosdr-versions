@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e2828c89-45bd-47e6-9349-9aca737bf006/20241115T040601/e2828c89-45bd-47e6-9349-9aca737bf006_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e2828c89-45bd-47e6-9349-9aca737bf006/20241115T040601/e2828c89-45bd-47e6-9349-9aca737bf006_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/andalusia-fire-station-groundbreaking/526-4a0e8e9f-f57f-476a-8146-468b9bf144f0)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
         
-        #### [Andalusia breaks ground on new fire station](https://www.wqad.com/article/news/local/public-safety/andalusia-fire-station-groundbreaking/526-4a0e8e9f-f57f-476a-8146-468b9bf144f0)
+        #### [Bettendorf announces opening date for new, permanent ice rink](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54) [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/1312eb8a-9a92-465e-9577-b8cca6431ce2/20241115T040411/1312eb8a-9a92-465e-9577-b8cca6431ce2_360x203.jpg)](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
+        #### [Opening date announced for The Landing Ice Rink in Bettendorf](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54) [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
         
-        #### [Davenport West High School has a new athletic wing](https://www.wqad.com/article/news/local/davenport-west-high-school-athletics-wing-expansion/526-22224458-caec-427d-81b5-5f3884a25d0b)
+        #### [Here is when Bettendorf's brand new ice rink is set to open](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/news/community/permanent-ice-rink-landing-bettendorf/526-06c1121c-fe88-42ba-bc7b-55867490e592)
+        
+        #### [Bettendorf set to open permanent ice rink this holiday season](https://www.wqad.com/article/news/community/permanent-ice-rink-landing-bettendorf/526-06c1121c-fe88-42ba-bc7b-55867490e592)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -58,7 +61,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b1c77e81-4c4f-48c9-8cfc-07b99590d946/20241115T131501/b1c77e81-4c4f-48c9-8cfc-07b99590d946_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1c77e81-4c4f-48c9-8cfc-07b99590d946/20241115T131501/b1c77e81-4c4f-48c9-8cfc-07b99590d946_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Dense fog this morning giving way to sunshine by afternoon](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Nice November Day... Temperatures remain mild this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
         
@@ -86,7 +89,7 @@ Navigation
 
 Davenport, IA »
 
-50°
+53°
 
 ![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
