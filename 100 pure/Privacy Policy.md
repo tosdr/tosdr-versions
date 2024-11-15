@@ -94,7 +94,7 @@ Blackberry
 
 Dark Chocolate
 
-ADD TO TOTE
+[NOTIFY ME](#-338769739800)
 
 CHOOSE Color
 
