@@ -168,9 +168,9 @@
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Inflammatory-Bowel-Disease.png)
         
         Inflammatory Bowel Disease](https://www.bezzyibd.com/?utm_source=healthline&utm_medium=nav-bar-connections)
-    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/04/Bezzy_COPD_Icon_Circle_280x280.png)
+    * [![](https://media.post.rvohealth.io/wp-content/uploads/2024/11/Bezzy-DEP-Icon-Circle.png)
         
-        COPD](https://www.bezzycopd.com/?utm_source=healthline&utm_medium=nav-bar-connections)
+        Depression](https://www.bezzydepression.com/?auvelity&utm_source=healthline&utm_medium=nav-bar-connections)
     * [![](https://media.post.rvohealth.io/wp-content/uploads/2022/01/Bezzy-Migraine.png)
         
         Migraine](https://www.bezzymigraine.com/?utm_source=healthline&utm_medium=nav-bar-connections)
@@ -189,6 +189,27 @@
     
 
 Subscribe
+
+[#### Nutrition](https://www.healthline.com/nutrition)
+
+* Meal Kits
+    
+    * [Overview](https://www.healthline.com/nutrition/meal-kits)
+    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
+    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
+    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
+    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
+    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+    
+* [Special Diets](https://www.healthline.com/nutrition/diets)
+* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
+* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
+* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
+* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
+* [Products](https://www.healthline.com/reviews/nutrition-products)
+* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
+* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
+* [Weight Management](https://www.healthline.com/nutrition/weight-management)
 
 Terms of Use
 ============
