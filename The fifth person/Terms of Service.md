@@ -210,6 +210,14 @@ Quick Guides
     February 18, 2020
     
 
+* [![Photo of JF](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    ![Photo of JF](https://secure.gravatar.com/avatar/c592392cfeef9c1ac901be3be32be46f?s=70&d=mm&r=g)](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
+    
+    [JF](https://fifthperson.com/vwra-the-all-world-etf/#comment-678081)
+    
+    Thanks for this article. I was trying to delve deeper into t...
+    
 * [![Photo of Darren Yeo](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     ![Photo of Darren Yeo](https://secure.gravatar.com/avatar/b60f9a3df7cf7d46e57ba880e0feb0cc?s=70&d=mm&r=g)](https://fifthperson.com/trump-us-economy-portfolio/#comment-677829)
@@ -281,14 +289,6 @@ Quick Guides
     [Anna Seow](https://fifthperson.com/malaysian-ringgit-strength-2024/#comment-676471)
     
     This article is insightful, from such a young man....
-    
-* [![Photo of Steve Davies](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    ![Photo of Steve Davies](https://secure.gravatar.com/avatar/2cbca18b674875151f00104abd0f7f75?s=70&d=mm&r=g)](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-676295)
-    
-    [Steve Davies](https://fifthperson.com/trusts-a-powerful-financial-planning-tool-for-any-net-worth/#comment-676295)
-    
-    I'm glad to hear you enjoyed our article and hope it provide...
     
 
 Advertisement
