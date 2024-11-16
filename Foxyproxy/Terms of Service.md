@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I remain very happy with your service. Thank you in advance for the next six months. Cheers!
+Thank you as always for the amazing service! You can rest assured of my business with you for life.
 
-Brian Meredith
+Ethan
