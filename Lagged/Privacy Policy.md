@@ -241,9 +241,9 @@ Games you might like
 
 [Toilet Race](https://lagged.com/en/g/toilet-race) ![Toilet Race Game](https://imgs2.dab3games.com/toilet-race-game-big.png)
 
-[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
-
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
+
+[Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
 
