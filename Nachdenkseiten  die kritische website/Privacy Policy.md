@@ -525,9 +525,9 @@ Weitere Informationen zu Umfang und Zweck der Datenverarbeitung durch INFOnline 
 
 ### [NachDenkSeiten im Gespräch](https://www.youtube.com/playlist?list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA)
 
-[![Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.nachdenkseiten.de/wp-content/uploads/2023/07/230705-Gespraech-Rashmawi-Mueller-Titelbild_s.jpg "Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt")](https://www.youtube.com/watch?v=FZnuNzX0NeU)
+[![Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.nachdenkseiten.de/wp-content/uploads/2020/11/Wolfgang-Kubicki-im-Gespraech-mit-Albrecht-Mueller-e1605795693982.png "Wolfgang Kubicki im Gespräch mit Albrecht Müller")](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
 
-* [Gespräch mit dem Palästinenser George Rashmawi zum aktuellen Konflikt](https://www.youtube.com/watch?v=FZnuNzX0NeU)
+* [Wolfgang Kubicki im Gespräch mit Albrecht Müller](https://www.youtube.com/watch?v=8pDOd0KZv7A&list=PLpNi0Wmi7L80YYabA3qOGKP8ZporDTlRA&index=6)
 * [Videoangebot der NachDenkSeiten](https://www.nachdenkseiten.de/?page_id=47509)
 
 ![Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.](https://www.nachdenkseiten.de/wp-content/uploads/2022/05/220510-glaube.jpg "Albrecht Müller: Glaube wenig. Hinterfrage alles. Denke selbst.")
