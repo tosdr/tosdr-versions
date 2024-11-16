@@ -143,9 +143,9 @@
             
             Customer Story
             
-            ##### Federal Agency Protected with LevelBlue DDoS Defense
+            ##### Simplifying Security and Rapid Response for Providers
             
-            [Learn more](https://cyber.levelblue.com/m/585ce384c5ca0b5a/original/CS-Federal-Agency-Protected-with-DDoS-Defense.pdf)
+            [Learn more](https://cyber.levelblue.com/m/2a62d94a4fb431a0/original/CS-Simplifying-Security-for-Healthcare-Providers.pdf)
             
             [View all Customer Stories](https://www.alienvault.com/resource-center#content_customer-stories)
             
