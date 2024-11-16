@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Takes Action Against Bogus Business Finance Scheme Seek Capital For Costing Small Business Owners Millions](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-takes-action-against-bogus-business-finance-scheme-seek-capital-costing-small-business-owners)
+    ### [Reports of Unwanted Telemarketing Calls Down More Than 50 Percent Since 2021](https://www.ftc.gov/news-events/news/press-releases/2024/11/reports-unwanted-telemarketing-calls-down-more-50-percent-2021)
     
     November 15, 2024
     
@@ -230,13 +230,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Nov14
+    Nov18
     
-    ### [Seventeenth Annual Microeconomics Conference](https://www.ftc.gov/news-events/events/2024/11/seventeenth-annual-microeconomics-conference)
+    ### [Commissioner Bedoya remarks at NYU Wagner](https://www.ftc.gov/news-events/events/2024/11/commissioner-bedoya-remarks-nyu-wagner)
     
-    Thursday, November 14, 2024 | 9:00AM - 5:00PM
-    
-    Friday, November 15, 2024 | 9:00AM - 5:00PM
+    Monday, November 18, 2024 | 5:30PM - 7:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
