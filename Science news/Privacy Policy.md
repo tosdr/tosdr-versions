@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")24 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 15, 2024
             
         * [Animals](https://www.sciencenews.org/topic/animals)
             
@@ -142,7 +142,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
             
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")24 hours ago
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 15, 2024
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
