@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/business-spiritualiteit-mooi/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/6-januari-2021-wat-gebeurde-er-werkelijk/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
@@ -207,6 +207,22 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 * [Last 8](#first)
 * [9 - 16](#second)
 * [17 - 24](#third)
+
+![GuidoJ.](https://secure.gravatar.com/avatar/379ae4ab61453c2ebafbbe75126acc17?s=50&d=identicon&r=g)
+
+##### **GuidoJ.** reacts on:
+
+##### De kwaadaardige Khazarische maffia/DeepState..!
+
+[Waarvan acte Mireille, dank voor het speurwerk!…](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/de-kwaadaardige-khazarische-maffia-deepstate/comment-page-1/#comment-626373)
+
+![Mireille](https://secure.gravatar.com/avatar/a25c86313ecbdfa1bf8d43b3fcced2d1?s=50&d=identicon&r=g)
+
+##### **Mireille** reacts on:
+
+##### De kwaadaardige Khazarische maffia/DeepState..!
+
+[Kan er een foutje zijn i.z, de datum van het interview 3 okt…](https://www.wanttoknow.nl/geschiedenis/geheime-genootschappen/de-kwaadaardige-khazarische-maffia-deepstate/comment-page-1/#comment-626372)
 
 ![Yanneke](https://secure.gravatar.com/avatar/ee047cf9db69d4f740df08be2ca90cc8?s=50&d=identicon&r=g)
 
@@ -447,22 +463,6 @@ Posted in [Meelezen, meeleven](https://www.wanttoknow.nl/dossiers/inspiratie/mee
 ##### Wat is er met ons bloed aan de hand?
 
 [Gelukkig is er voor ieder probleem een oplossing. EDTA verni…](https://www.wanttoknow.nl/gezondheid/corona-kwestie/wat-is-er-met-ons-bloed-aan-de-hand/comment-page-1/#comment-626341)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Jankende NOS-journalisten, ga in de spiegel kijken…!!
-
-[Afgelopen week (Dinsdag 15-10-2024) Was Bauke Geersing bij O…](https://www.wanttoknow.nl/overige/jankende-nos-journalisten-ga-in-de-spiegel-kijken/comment-page-1/#comment-626340)
-
-![arnold2](https://secure.gravatar.com/avatar/17aa337336868f331c67b43fb1eb9b45?s=50&d=identicon&r=g)
-
-##### **arnold2** reacts on:
-
-##### Europees ID: aangenomen; Tweede Kamer buitenspel..!!?
-
-[ook hier controle.controle en nog eens controle op digitaal…](https://www.wanttoknow.nl/politiek/europees-id-aangenomen-tweede-kamer-buitenspel/comment-page-1/#comment-626339)
 
 [![VaccinVrij banner](https://www.wanttoknow.nl/wp-content/uploads/stichting-vaccin-vrij-banner.jpg)](https://stichtingvaccinvrij.nl/)
 
