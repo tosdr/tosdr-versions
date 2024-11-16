@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Crown lengthening is crucial for addressing issues ![Crown lengthening is crucial for addressing issues including caries, fractures, and altered passive eruption, ultimately enhancing both function and esthetics in restorative dentistry. By carefully planning and modeling restorative contours, clinicians can ensure ideal gingival relationships and tooth display for each patient, leading to beautiful, effective outcomes. Link in bio.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCZXEZfvtKD/) 
+
 [Explore the dynamic role of occlusal guards in red ![Explore the dynamic role of occlusal guards in reducing muscle activity in the short term and safeguarding dental health. Link in bio.⁠
 ⁠
 ⁠
@@ -217,16 +224,6 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCPD5a1M3LB/) 
 
-[EARN 2 CEUs: Unraveling the Impact of Tooth Wear o ![EARN 2 CEUs: Unraveling the Impact of Tooth Wear on Oral Health⁠
-Explore the complexities of tooth wear and its profound effects on oral health, esthetics, and overall well-being.⁠
-By Bright Chang, DMD, MS⁠
-⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCMl9FZM5k-/) 
-
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
 E-Mail Newsletter
@@ -259,7 +256,7 @@ Consent\*
 
 Current Issue
 
-[![](https://decisionsindentistry.com/wp-content/uploads/2024/08/did-08-09-thumb.jpg)](https://decisionsindentistry.com/current-issue/?issue=aug-sep-2024)
+[![](https://decisionsindentistry.com/wp-content/uploads/2024/10/thumbnail-did-101124.jpg)](https://decisionsindentistry.com/current-issue/?issue=oct-nov-2024)
 
 * [Home](https://decisionsindentistry.com/)
 * [Issue Archive](https://decisionsindentistry.com/issue-archive/)
