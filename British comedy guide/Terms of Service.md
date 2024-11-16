@@ -176,6 +176,14 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Sorry, I Didn't Know. Chizzy Akudolu](https://cdn.comedy.co.uk/images/library/people/300x200/c/chizzy_akudolu_sidk.jpg "Sorry, I Didn't Know. Chizzy Akudolu")](https://www.comedy.co.uk/tv/sorry_i_didnt_know/interview/chizzy-akudolu/) TV
+
+[Chizzy Akudolu introduces Series 5 of 'Sorry, I Didn't Know'](https://www.comedy.co.uk/tv/sorry_i_didnt_know/interview/chizzy-akudolu/)
+
+[![Milo Edwards. Credit: Joshua Perot](https://cdn.comedy.co.uk/images/library/people/300x200/m/milo_edwards_2024.jpg "Milo Edwards. Credit: Joshua Perot")](https://www.comedy.co.uk/live/fgwg/milo-edwards/) Live
+
+[First Gig, Worst Gig: Milo Edwards](https://www.comedy.co.uk/live/fgwg/milo-edwards/)
+
 [![Lazarus & Dingwall. Image shows from L to R: Steve Lazarus (Stephen Frost), Mark Dingwall (Mark Arden). Copyright: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/l/lazarus_and_dingwall.jpg "Lazarus & Dingwall. Image shows from L to R: Steve Lazarus (Stephen Frost), Mark Dingwall (Mark Arden). Copyright: BBC")](https://www.comedy.co.uk/quiz/332/) Quiz
 
 [British Comedy Quiz #332](https://www.comedy.co.uk/quiz/332/)
@@ -183,14 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Paulina Lenoir. Credit: David Pickens](https://cdn.comedy.co.uk/images/library/people/300x200/p/paulina_lenoir_b.jpg "Paulina Lenoir. Credit: David Pickens")](https://www.comedy.co.uk/live/random8/paulina-lenoir/) Live
 
 [Random 8: Paulina Lenoir](https://www.comedy.co.uk/live/random8/paulina-lenoir/)
-
-[![Fern Brady. Credit: Raphaël Neal](https://cdn.comedy.co.uk/images/library/people/300x200/f/fern_brady_2021.jpg "Fern Brady. Credit: Raphaël Neal")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-59/) Live
-
-[Fern Brady, The Weirdos, Anirban Dasgupta, Andrew Doherty - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-59/)
-
-[![Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC](https://cdn.comedy.co.uk/images/library/comedies/300x200/a/are_you_being_served_staff.jpg "Are You Being Served?. Image shows left to right: Miss Shirley Brahms (Wendy Richard), Mr Dick Lucas (Trevor Bannister), Mr Wilberforce Humphries (John Inman), Captain Stephen Peacock (Frank Thornton), Mrs Betty Slocombe (Mollie Sugden), Mr Ernest Grainger (Arthur Brough). Credit: BBC")](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/) Features
-
-[Comedy Rewind: Dear Sexy Knickers - A love letter to Are You Being Served?](https://www.comedy.co.uk/features/comedy-rewind/are-you-being-served/)
 
 #### Subscribe to our newsletters
 
