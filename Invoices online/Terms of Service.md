@@ -196,63 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Kobus Venter
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=114994615)  
-Network Grey (Pty) Ltd
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=66136053)  
+Itroniq (Pty) Ltd
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=73031768)  
-Highlands Auto Engineering
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=158014617)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=130633307)  
-SR Travel Services
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=175303104)  
+APTV Telecoms CC
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=197767449)  
-SMART GUY PCS (PTY) LTD
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=190882225)  
+Printo
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=209143930)  
-Electro-Heat
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=87881117)  
+Henry's Home Renovations
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=13339324)  
-Blue Sky Solar Services
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=184424602)  
+Import Maaw
 
-![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=44829846)  
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=77918671)  
+kidoscabbie
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=186104463)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=71687015)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+
+![valued client UniTech Solutions Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8063&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=165427029)  
+UniTech Solutions Pty Ltd
+
+![valued client Skinz Printing & Branding ](https://www.invoicesonline.co.za/scripts/image.php?bid=6232&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=161050779)  
+Skinz Printing & Branding
+
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=15986612)  
+Fox Alarms & Security
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=199274643)  
+Multi CNC Solutions CC
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=142057769)  
+Mountain Lion Properties
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=2a631a96a92143b34505982a900fccfeb5ac2414cf25d8cfdc4170f7d28f0270&c=206340097)  
 Cooper Power South Africa (Pty) LTD
-
-![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=22008599)  
-Sonic Electrical Services PTY Ltd
-
-![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=108024979)  
-All Trucking Solutions
-
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=84711761)  
-TRACKFORCE (Pty) Ltd
-
-![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=100129680)  
-Digifax (Pty) Ltd trading as Digirent
-
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=187581950)  
-Peter Salvage Pty Ltd
-
-![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=197547605)  
-Goju-Ryu Pretoria East
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=147501307)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=167847142)  
-Camp 4 Africa (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
