@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=83379136)  
-ELLIE'S CLEANING CHICKS
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=159540551)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=129363213)  
-Website Café (PTY) LTD
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=187251817)  
+Wiselink Broadband Dundee
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=89986519)  
-Mountain Lion Properties
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=139318001)  
+Norton Medical & Consult - Namibia
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=99236374)  
-Super Sound Man (PTY) Ltd
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=124628129)  
+TurboFibre
 
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=32873097)  
-FX ACCOUNTING
+![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=92413829)  
+Westside Car Audio CC
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=5216460)  
-ARCHITEK PTY LTD
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=24525582)  
+Printo
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=132508168)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=164252680)  
+Repairs In Motion
 
-![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=152339446)  
-Redlum Group (Pty) Ltd
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=7061378)  
+IYD
 
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=57377110)  
-Adele Jordaan T/A Joyful Noise Music Room
+![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=95155104)  
+Druce Digital
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=156862423)  
-TIGERDSL
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=57979802)  
+SLOANE STAR MEAT MARKET
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=191788211)  
-Bchange Online CC
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=197248588)  
+Lion Software Develepment
 
-![valued client Imhoff Equestrian Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=7987&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=119812697)  
-Imhoff Equestrian Centre
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=112374191)  
+BD Maintenance
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=124653950)  
-#DiGi3 Marketing & Design
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=29042548)  
+Konsortium Operations (PTY) LTD
 
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=45255355)  
-Frameless Fanatix (Pty) Ltd.
+![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=180602933)  
+Echo Recording Studio cc
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=b4998c59e9945d493adddad8d075d164eaea00a9ef66d62b39371181654945cf&c=155934261)  
-TechnoDezi PTY(LTD)
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=78483043)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
