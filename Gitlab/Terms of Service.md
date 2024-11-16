@@ -1207,6 +1207,7 @@
                 * [ ]  [Production Engineering Foundations Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/foundations/)
                 * [ ]  [Production Engineering Ops Team](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/)
                     * [ ]  [EOC Onboarding Buddies](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/sre-oncall-onboarding-buddy/)
+                    * [ ]  [EOC Shadow and EOC Buddy Expectations](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/on-call-shadowing/)
                     * [ ]  [On-call handover](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/on-call-handover/)
                     * [ ]  [SRE Onboarding](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/ops/sre-onboarding/)
                 * [ ]  [Scalability Group](https://handbook.gitlab.com/handbook/engineering/infrastructure/team/scalability/)
