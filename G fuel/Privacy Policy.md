@@ -1,5 +1,5 @@
   
-Privacy policy – G FUEL                                                                                                   
+Privacy policy – G FUEL                                                                                                           
 
 [Skip to content](#MainContent)  
 
@@ -210,9 +210,9 @@ View more
 
 Pause slideshow Play slideshow
 
-[30% off Anime Aficionado CollectionShop Holiday Deals](https://gfuel.com/collections/anime)
-
 [Earn 2XP for every $1 spent this Holiday Season!Join the Rewards Program](https://gfuel.com/pages/rewards)
+
+[Get Early Access 🔥Download the Official G FUEL APP](https://gfuel.com/pages/mobile-app)
 
 ![](https://cdn.shopify.com/s/files/1/0223/3113/files/check-cart.svg?v=1689600224) ITEM ADDED TO YOUR CART! [View Cart](https://gfuel.com/cart)
 
@@ -593,7 +593,7 @@ DOWNLOAD THE APP
 
 EASY NAVIGATION - EXCLUSIVE DROPS - COOL ASF
 
- [![](//gfuel.com/cdn/shop/t/611/assets/app-store-badge.svg?v=123926581890561309811731694766)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/611/assets/google-play-badge.png?v=132395384020293405351731694766)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
+ [![](//gfuel.com/cdn/shop/t/613/assets/app-store-badge.svg?v=123926581890561309811731701985)](https://apps.apple.com/app/g-fuel/id1205219305 "Download on the App Store")[![](//gfuel.com/cdn/shop/t/613/assets/google-play-badge.png?v=132395384020293405351731701985)](https://play.google.com/store/apps/details?id=com.aeron.shopifycore.gfuel "Get it on Google Play")
 
 The statements contained in this website have not been evaluated by the Food and Drug Administration (FDA). No statements shall be construed as a claim or representation of a diagnosis, treatment, cure, or prevention of any disease. No product listed in this website is intended to diagnose, treat, cure, or prevent any disease. Products are not intended for those with a medical condition, pregnant or nursing.
 
