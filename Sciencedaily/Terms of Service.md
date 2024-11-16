@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Scientific Thought On Emotions in Animals](https://www.sciencedaily.com/releases/2024/11/241114161428.htm)
 * [Genetic 'Switch' Behind Parrot Color Diversity](https://www.sciencedaily.com/releases/2024/11/241115125034.htm)
 * [Sitting Too Long Can Harm Heart Health](https://www.sciencedaily.com/releases/2024/11/241115124729.htm)
 * [Heart Shape and Risk of Cardiovascular Disease](https://www.sciencedaily.com/releases/2024/11/241114125445.htm)
@@ -238,7 +239,6 @@ this hour
 * [4 Policies to Eliminate 90% of Plastic Waste](https://www.sciencedaily.com/releases/2024/11/241114161138.htm)
 * [Capturing 'Hot' CO2 from Industrial Exhaust](https://www.sciencedaily.com/releases/2024/11/241114161135.htm)
 * [Effects of Psychedelics: Neural Circuits](https://www.sciencedaily.com/releases/2024/11/241114161054.htm)
-* [12,000-Year-Old Stones: Wheel-Like Technology?](https://www.sciencedaily.com/releases/2024/11/241113160855.htm)
 
 Trending Topics
 ---------------
@@ -251,9 +251,9 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Lung Cancer](https://www.sciencedaily.com/news/health_medicine/lung_cancer/)
-
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
+
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
@@ -265,11 +265,11 @@ this week
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
-
 [Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
-[Genetics](https://www.sciencedaily.com/news/plants_animals/genetics/)
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
