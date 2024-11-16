@@ -225,9 +225,9 @@ Games you might like
 
 [TikTok Challenges 2025](https://lagged.com/en/g/tiktok-challenges-2025) ![TikTok Challenges 2025 Game](https://imgs2.dab3games.com/tiktok-202531.png)
 
-[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
-
 [Blob Opera](https://lagged.com/en/g/blob-opera) ![Blob Opera Game](https://imgs2.dab3games.com/blob-opera-game-ft2.png) top rated
+
+[Going Balls](https://lagged.com/en/g/going-balls19) ![Going Balls Game](https://imgs2.dab3games.com/going-ballz-game.png)
 
 [Ragdoll Playground](https://lagged.com/en/g/ragdoll-playground) ![Ragdoll Playground Game](https://imgs2.dab3games.com/ragdollbreak-ft1135.png)
 
@@ -245,9 +245,9 @@ Games you might like
 
 [Counter Craft 2 Zombies](https://lagged.com/en/g/counter-craft-2-zombies) ![Counter Craft 2 Zombies Game](https://imgs2.dab3games.com/counter-craft-2-zombies-game.png)
 
-[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
-
 [Choir](https://lagged.com/en/g/choir) ![Choir Game](https://imgs2.dab3games.com/choir-big.png)
+
+[Cube Frenzy](https://lagged.com/en/g/cube-frenzy) ![Cube Frenzy Game](https://imgs2.dab3games.com/cube-frenzy-game-ft.png)
 
 [Lemon Opera](https://lagged.com/en/g/lemon-opera) ![Lemon Opera Game](https://imgs2.dab3games.com/lemon-opera-ft.png)
 
