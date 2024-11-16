@@ -28,16 +28,16 @@ Packet Storm supports full disclosure on all items we add to the site. With our 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 252 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 59 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 236 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 56 files
 * [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
-* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 17 files
+* [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 16 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
 * [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
-* [Chokri Hammedi](https://packetstormsecurity.com/files/authors/16420) 3 files
 * [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 3 files
-* [Jann Horn](https://packetstormsecurity.com/files/authors/10455) 2 files
+* [Pierre Kim](https://packetstormsecurity.com/files/authors/11740) 2 files
+* [EQSTLab](https://packetstormsecurity.com/files/authors/17258) 2 files
 
 Recent News
 -----------
@@ -168,4 +168,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2190475749&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2190475749.1731747563.1731747563.1731747563.1%3B%2B__utmz%3D32867617.1731747563.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1371642936&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Privacy%20Statement%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Fprivacy.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1371642936.1731769771.1731769771.1731769771.1%3B%2B__utmz%3D32867617.1731769771.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
