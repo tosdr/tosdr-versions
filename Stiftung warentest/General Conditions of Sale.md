@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Wasser­dichte Hand­yhüllen im Test: Abtauchen mit dem Smartphone](https://www.test.de/wasserdichte-handyhuelle-test-6123197-0/ "Wasserdichte Handyhüllen im Test - Abtauchen mit dem Smartphone")
-* [Verpackungs­ärger: Barilla Penne Rigate Senza Glutine](https://www.test.de/Verpackungsaerger-Barilla-Penne-Rigate-Senza-Glutine-6112820-0/ "Verpackungsärger - Barilla Penne Rigate Senza Glutine")
-* [Gesetzliche Renten­versicherung: Neuer Kapital­stock soll die Rentenkasse entlasten](https://www.test.de/Gesetzliche-Rentenversicherung-Neues-Kapital-fuer-die-Rente-6104744-0/ "Gesetzliche Rentenversicherung - Neuer Kapitalstock soll die Rentenkasse entlasten")
-* [Digital-Analog-Wandler (Dacs): Besserer Klang für Laptops, Tablets und Handys](https://www.test.de/Digital-Analog-Wandler-Dacs-Besserer-Klang-fuer-Laptops-Tablets-und-Handys-6148294-0/ "Digital-Analog-Wandler (Dacs) - Besserer Klang für Laptops, Tablets und Handys")
-* [Starlink im Schnell­test: So gut klappt Internet via Satellit](https://www.test.de/Starlink-im-Schnelltest-So-gut-klappt-Internet-via-Satellit-6105629-0/ "Starlink im Schnelltest - So gut klappt Internet via Satellit")
-* [Verpackungs­ärger: Coraya Surimi Sticks](https://www.test.de/Verpackungsaerger-Coraya-Surimi-Sticks-6112809-0/ "Verpackungsärger - Coraya Surimi Sticks")
+* [Massage­pistolen im Test: Good Vibrations?](https://www.test.de/Massagepistolen-im-Test-5989060-0/ "Massagepistolen im Test - Good Vibrations?")
+* [Anla­geangebote: Vermittler muss Testat nicht prüfen](https://www.test.de/Anlageangebote-Vermittler-muss-Testat-nicht-pruefen-6135781-0/ "Anlageangebote - Vermittler muss Testat nicht prüfen")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Damen- und Herren-Jeans im Test: Auf die Mischung kommt es an](https://www.test.de/Damen-und-Herren-Jeans-im-Test-Auf-die-Mischung-kommt-es-an-6096908-0/ "Damen- und Herren-Jeans im Test - Auf die Mischung kommt es an")
 
 Service Stiftung Warentest
 
