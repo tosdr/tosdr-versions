@@ -87,8 +87,6 @@ By using our site, you consent to the collection and use of your information by 
 * [The Woke Comprachicos](https://review.capitalismmagazine.com/2024/10/the-woke-comprachicos/)
 * [Catching up With Leonard Peikoff](https://review.capitalismmagazine.com/2024/09/catching-up-with-leonard-peikoff/)
 
-[![](https://www.capitalismmagazine.com/wp-content/uploads/2024/09/peikkeep-peikoff-free-banner-1.jpg "peikkeep-peikoff-free-banner-1")](https://www.capitalismmagazine.com/2024/09/an-open-letter-from-dr-leonard-peikoff/)
-
 #### Recommended Reading
 
 [![](https://www.capitalismmagazine.com/wp-content/uploads/2023/12/what-america-is-e1702354246585.jpg "what-america-is")](https://amzn.to/3RDo8tm)
