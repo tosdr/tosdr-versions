@@ -47,6 +47,7 @@ Sections
     * [Agency Equity Action Plan](https://www.opm.gov/about-us/agency-equity-action-plan/)
     * [2023 Annual Performance Report](https://www.opm.gov/about-us/2023-annual-performance-report/)
     * [FY 2025 Congressional Budget Justification](https://www.opm.gov/about-us/fy-2025-congressional-budget-justification-and-annual-performance-plan/)
+    * [2024 Agency Financial Report](https://www.opm.gov/about-us/2024-agency-financial-report/)
     
 * Policy Toggle submenu
     
