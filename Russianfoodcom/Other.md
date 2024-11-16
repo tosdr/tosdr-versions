@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -170,6 +170,34 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Насытят, согреют и подарят удовольствие.) Время СУПОВ (69)](https://www.russianfood.com/reading/?post_id=22879) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/697/sm_696393.jpg)](https://www.russianfood.com/reading/?post_id=22879)
+
+Бограч с грибами и макаронами. Суп с куриной печенью и рисом. Кукурузный крем-суп. Суп-пюре из тыквы с яблоком. Гречневый суп с клёцками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22879)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22879#comments) | 16.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Кулинарная история с аппетитным сюжетом. Лучшие рецепты НА ВЫХОДНЫЕ №24-46](https://www.russianfood.com/reading/?post_id=22880) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/687/sm_686948.jpg)](https://www.russianfood.com/reading/?post_id=22880)
+
+Рыбные котлеты с беконом. Свиные рёбрышки с беконом в соке. Вареники с печенью и салом. Свинина в томатном соусе. Ржаная галета с картофелем и грибами. Куриные рулеты с ветчиной в тесте. Картошка-гармошка с сыром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22880)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22880#comments) | 16.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -353,34 +381,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [СП Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=486608) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174707#comments) | 14.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Японский закусочный суши-торт](https://www.russianfood.com/recipes/recipe.php?rid=174715) |     |
-
-[![Фото к рецепту: Японский закусочный суши-торт](//img1.russianfood.com/dycontent/images_upl/748/sm_747941.jpg "Фото к рецепту: Японский закусочный суши-торт")](https://www.russianfood.com/recipes/recipe.php?rid=174715)
-
-Суши-торт – нарядная закуска из риса с красной рыбой, креветками и авокадо. Этот рецепт не требует мастерства сворачивания роллов: просто и смело слоим узнаваемые продукты, даём закусочному торту пропитаться и подаём к праздничному столу. Аппетитный эксперимент получится!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174715)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [СП Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=486608) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174715#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Фаршированные кабачки с курицей и грибами](https://www.russianfood.com/recipes/recipe.php?rid=174814) |     |
-
-[![Фото к рецепту: Фаршированные кабачки с курицей и грибами](//img1.russianfood.com/dycontent/images_upl/752/sm_751426.jpg "Фото к рецепту: Фаршированные кабачки с курицей и грибами")](https://www.russianfood.com/recipes/recipe.php?rid=174814)
-
-Здесь сочные кабачки и сытная вкусная начинка из курицы, грибов и сыра. Фаршированные кабачки вкусные как в горячем, так и в холодном виде. А готовится такое блюдо просто и быстро!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174814)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [HomeRecipes](https://www.russianfood.com/blogs/?id=300916) | _![](/images/blank.gif)_6 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174814#comments) | 13.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -450,12 +450,10 @@
 
 Новые рецепты:
 
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-| [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750684.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174635) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750391.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [![](//img1.russianfood.com/dycontent/images_upl/748/alt1_747295.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [![](//img1.russianfood.com/dycontent/images_upl/743/alt1_742013.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174570) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750704.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750726.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174634) |
-| [Солянка с фасолью, колбасой и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=174635) | [Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636) | [Крученики из свинины с маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174702) | [Пирог с виноградом и цедрой грейпфрута](https://www.russianfood.com/recipes/recipe.php?rid=174516) | [Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) | [Суп с фасолью, ветчиной и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174573) | [Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634) |
-| [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744021.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174563) |
-| [Лазанья-рататуй](https://www.russianfood.com/recipes/recipe.php?rid=174563) |
+|     |
+| --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744542.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174570) |
+| [Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) |
 
 |     |     |     |
 | --- | --- | --- |
@@ -472,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(117)
+(115)
