@@ -22,8 +22,6 @@
     
     [Sensory Management](https://natus.com/sensory-management-team/)
     
-    [Our Natus Pledge](https://natus.com/about-us/natus-pledge/)
-    
     [Events](https://natus.com/events/)
     
 * [NEURO PRODUCTS](#)
@@ -218,8 +216,6 @@
 [Neuro Management](https://natus.com/neuro-management-team/)
 
 [Sensory Management](https://natus.com/sensory-management-team/)
-
-[Our Natus Pledge](https://natus.com/about-us/natus-pledge/)
 
 [Events](https://natus.com/events/)
 
