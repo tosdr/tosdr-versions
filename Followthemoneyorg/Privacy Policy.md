@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2014 Candidate Elections Overview](/assets/Images/teasers/full/Leg-by-Office-2014.png)](http://www.followthemoney.org/research/institute-reports/2014-candidate-elections-overview/)
+[![ Independent Spending by Opponents and Supporters of Gun Control, 2015 and 2016](/assets/Images/teasers/small/Gun-control.JPG)](https://www.followthemoney.org/research/blog/the-electoral-marksmanship-of-pro-and-anti-gun-control-spenders)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
