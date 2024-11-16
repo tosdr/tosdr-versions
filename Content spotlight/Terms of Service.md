@@ -94,6 +94,24 @@ Email: info@contentspotlight.org
 
 Phone: +91-9831405832
 
+![Top Yahoo SEO company by clutch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20759%201024'%3E%3C/svg%3E)
+
+![Top Yahoo SEO company by clutch](https://contentspotlight.org/wp-content/uploads/2024/11/top_clutch.co_yahoo_seo_company_2024_award-759x1024.png)
+
+Top Yahoo SEO company
+
+![Best performance reporting services company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20759%201024'%3E%3C/svg%3E)
+
+![Best performance reporting services company](https://contentspotlight.org/wp-content/uploads/2024/11/top_clutch.co_performance_reporting_services_company_2024_award-759x1024.png)
+
+Best performance reporting services company by clutch
+
+![Best SEO services award](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20328%20392'%3E%3C/svg%3E)
+
+![Best SEO services award](https://contentspotlight.org/wp-content/uploads/2024/11/Screenshot-2024-11-16-162637.png)
+
+Best SEO services award winner
+
 Important Links
 ---------------
 
@@ -101,10 +119,11 @@ Important Links
 * [DISCLOSURE](https://contentspotlight.org/disclosure/)
 * [TERMS OF USE](https://contentspotlight.org/terms-of-use/)
 
-Copyright © Content Spotlight 2024 All Rights Reserved.
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20877'%3E%3C/svg%3E)
 
-[Link Exchange](https://linked.mywebtraffic.co.uk/ "Link Exchange")  
-[Gd M9 Blog](https://gd-m9.blogspot.com/ "Gd M9 Blog")[Free SEO Backlinks](https://www.websquash.com/)[Get SEO Backlinks](https://www.websquash.com/)
+![](https://contentspotlight.org/wp-content/uploads/2024/11/global_award_fall_2024-1024x877.png)
+
+Copyright © Content Spotlight 2024 All Rights Reserved.
 
 error: Content is protected !!
 
