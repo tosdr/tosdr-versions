@@ -249,4 +249,18 @@ SEND
 
 Copyright 2023 © All rights Reserved.
 
+**Nocturnal Media UK** 
+
+[www.SickChirpse.com](https://www.sickchirpse.com/)
+
+**For all advertising enquires:** [\[email protected\]](https://www.sickchirpse.com/cdn-cgi/l/email-protection) / [\[email protected\]](https://www.sickchirpse.com/cdn-cgi/l/email-protection)
+
+Mashable is a global, multi-platform media and entertainment  
+company
+
+For  
+more queries and news contact us on this
+
+Email: [\[email protected\]](https://www.sickchirpse.com/cdn-cgi/l/email-protection)
+
 Scroll to Top
