@@ -30,16 +30,18 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
         
-        #### [Bettendorf announces opening date for new, permanent ice rink](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54) [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
+        #### [A basketball homecoming: Owen Freeman, Brock Harding hit the court again in Moline for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509) [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
         
-        #### [Opening date announced for The Landing Ice Rink in Bettendorf](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54) [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
+        #### [Former Moline Marooners Brock Harding, Owen Freeman return home for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509) [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
         
-        #### [Here is when Bettendorf's brand new ice rink is set to open](https://www.wqad.com/article/entertainment/places/new-ice-rink-bettendorf-opening-date-the-landing/526-8b0f6819-e332-4dd0-a584-7d26133aab54)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0/20241014T231548/98318deb-c3d9-45b9-8cc6-b9b792f4f1e0_360x203.jpg)](https://www.wqad.com/article/news/community/permanent-ice-rink-landing-bettendorf/526-06c1121c-fe88-42ba-bc7b-55867490e592)
+        #### [Former Moline Marooners return home for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509) [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
         
-        #### [Bettendorf set to open permanent ice rink this holiday season](https://www.wqad.com/article/news/community/permanent-ice-rink-landing-bettendorf/526-06c1121c-fe88-42ba-bc7b-55867490e592)
+        #### [Brock Harding, Owen Freeman return to hometown for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
+        
+        #### [Get your home ready for the winter this weekend before cooler temps arrive](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,13 +61,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b1c77e81-4c4f-48c9-8cfc-07b99590d946/20241115T131501/b1c77e81-4c4f-48c9-8cfc-07b99590d946_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1c77e81-4c4f-48c9-8cfc-07b99590d946/20241115T131501/b1c77e81-4c4f-48c9-8cfc-07b99590d946_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/a47f1c86-a01a-4728-9153-eb2cf35794b0/20241116T042933/a47f1c86-a01a-4728-9153-eb2cf35794b0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/a47f1c86-a01a-4728-9153-eb2cf35794b0/20241116T042933/a47f1c86-a01a-4728-9153-eb2cf35794b0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Nice November Day... Temperatures remain mild this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Temperatures remain mild this weekend](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_16x9.jpg) ![](https://media.tegna-media.com/assets/WCNC/images/f9e2438f-ff1b-42a2-806f-f396735d77d2/20241111T155819/f9e2438f-ff1b-42a2-806f-f396735d77d2_360x203.jpg)](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
         
-        #### [Driver dies after ignoring blockades, plummeting into North Carolina gorge](https://www.wqad.com/article/news/national/north-carolina-gorge-car-plunges/275-039d633e-9ac0-48a0-b633-d0b2016d5001)
+        #### [Get your home ready for the winter this weekend before cooler temps arrive](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -89,9 +91,9 @@ Navigation
 
 Davenport, IA »
 
-53°
+42°
 
-![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
