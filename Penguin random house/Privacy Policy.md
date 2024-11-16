@@ -22,11 +22,11 @@ Audio
 
 * * *
 
-* [![A Guide to Colson Whitehead Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/22134851/PRH_Site_1200x628_ColsonWhite.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
     
-    A Guide to Colson Whitehead Books
+    New Releases
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
 
 * * *
 
