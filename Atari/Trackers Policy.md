@@ -268,11 +268,11 @@ Apparel & Collectibles
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
 
-[![Atari Cross Body Bag](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
+[![](files/atari_merch_nov2024-206.jpg)
 
-Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)[![](files/unisex-heavy-blend-hoodie-black-front-6724d30b1d643copy.jpg)
+Shop All Tees](https://www.atari.com/collections/atari-tshirts)[![](files/atari_merch_nov2024-105_1.jpg)
 
-Shop All Hoodies](https://www.atari.com/collections/sweatshirts)
+Shop All Hats](https://www.atari.com/collections/hats)
 
 Apparel & Collectibles
 
@@ -318,13 +318,13 @@ COLLECTIONS
     
     [RollerCoaster Tycoon](https://www.atari.com/collections/rollercoaster-tycoon)
 
-[![Atari Cross Body Bag](files/all-over-print-utility-crossbody-bag-white-front-3-669ea057697f3copy.jpg)
+[![](files/atari_merch_nov2024-206.jpg)
 
-Atari Cross Body Bag](https://www.atari.com/products/camp-crossbody-bag)
+Shop All Tees](https://www.atari.com/collections/atari-tshirts)
 
-[![](files/unisex-heavy-blend-hoodie-black-front-6724d30b1d643copy.jpg)
+[![](files/atari_merch_nov2024-105_1.jpg)
 
-Shop All Hoodies](https://www.atari.com/collections/sweatshirts)
+Shop All Hats](https://www.atari.com/collections/hats)
 
 \*\*New!\*\*/collections/summer-camp-2024
 
@@ -336,7 +336,7 @@ New
 
 Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
 
-[![](files/classic-dad-hat-black-front-6724d1d04c296copy.jpg)
+[![](files/atari_merch_nov2024-241.jpg)
 
 Jaguar](https://www.atari.com/collections/jaguar)
 
@@ -358,7 +358,7 @@ Menu
 
 Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
 
-[![](files/classic-dad-hat-black-front-6724d1d04c296copy.jpg)
+[![](files/atari_merch_nov2024-241.jpg)
 
 Jaguar](https://www.atari.com/collections/jaguar)
 
