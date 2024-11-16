@@ -391,23 +391,24 @@ This Agreement was last modified on 4, December 2012.
 
 ### Featured Articles
 
+[![Read Palms](https://www.wikihow.com/images/thumb/0/00/Read-Palms-Step-9.jpg/-crop-126-120-126px-Read-Palms-Step-9.jpg)
+
+How to  
+Read Palms](https://www.wikihow.com/Read-Palms)
+
+[![Practice Self Care](https://www.wikihow.com/images/thumb/5/5f/Use-Your-Time-Wisely-Step-4-Version-2.jpg/-crop-126-120-126px-Use-Your-Time-Wisely-Step-4-Version-2.jpg)
+
+How to  
+Practice Self Care](https://www.wikihow.com/Practice-Self-Care)
+
+[![Remove Blackheads](https://www.wikihow.com/images/thumb/9/9c/Remove-Blackheads-Step-24-Version-5.jpg/-crop-126-120-126px-Remove-Blackheads-Step-24-Version-5.jpg)
+
+How to  
+Remove Blackheads](https://www.wikihow.com/Remove-Blackheads)
+
 [![Apply Perfume](https://www.wikihow.com/images/thumb/0/01/Apply-Perfume-Step-24-Version-2.jpg/-crop-126-120-126px-Apply-Perfume-Step-24-Version-2.jpg)
 
 How & Where to Apply Perfume (Plus, Common Mistakes to Avoid)](https://www.wikihow.com/Apply-Perfume)
-
-[![Save a Wet Cell Phone](https://www.wikihow.com/images/thumb/8/8b/Save-a-Wet-Cell-Phone-Step-5-Version-6.jpg/-crop-126-120-126px-Save-a-Wet-Cell-Phone-Step-5-Version-6.jpg)
-
-How to  
-Save a Wet Cell Phone](https://www.wikihow.com/Save-a-Wet-Cell-Phone)
-
-[![What Does It Mean when He Texts You Good Morning Everyday](https://www.wikihow.com/images/thumb/3/34/What-Does-It-Mean-when-He-Texts-You-Good-Morning-Everyday-Step-10.jpg/-crop-126-120-126px-What-Does-It-Mean-when-He-Texts-You-Good-Morning-Everyday-Step-10.jpg)
-
-What Does It Mean When He Texts You Good Morning Every Day?](https://www.wikihow.com/What-Does-It-Mean-when-He-Texts-You-Good-Morning-Everyday)
-
-[![Do a French Manicure](https://www.wikihow.com/images/thumb/e/ee/Do-a-French-Manicure-Step-12-Version-7.jpg/-crop-126-120-126px-Do-a-French-Manicure-Step-12-Version-7.jpg)
-
-How to  
-Do a French Manicure](https://www.wikihow.com/Do-a-French-Manicure)
 
   
 
@@ -450,4 +451,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-190
+231
