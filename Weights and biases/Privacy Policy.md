@@ -422,7 +422,7 @@ If you have questions about our use of your personal information, please email u
 
 * [Experiments](https://wandb.ai/site/experiment-tracking/)
 * [Sweeps](https://wandb.ai/site/sweeps/)
-* [Registry](https://wandb.ai/site/registry)
+* [Registry](https://wandb.ai/site/registry/)
 * [Automations](https://wandb.ai/site/automations/)
 * [Weave​](https://wandb.ai/site/weave/)
 * [Traces](https://wandb.ai/site/traces/)
@@ -433,7 +433,7 @@ If you have questions about our use of your personal information, please email u
 
 * [Experiments](https://wandb.ai/site/experiment-tracking/)
 * [Sweeps](https://wandb.ai/site/sweeps/)
-* [Registry](https://wandb.ai/site/registry)
+* [Registry](https://wandb.ai/site/registry/)
 * [Automations](https://wandb.ai/site/automations/)
 * [Weave​](https://wandb.ai/site/weave/)
 * [Traces](https://wandb.ai/site/traces/)
