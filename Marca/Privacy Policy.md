@@ -6,6 +6,7 @@
 * [Clasificación MotoGP](https://www.marca.com/motor/motogp/gp-valencia/2024/11/16/673850fbca4741664c8b4585.html)
 * [España](https://www.marca.com/futbol/seleccion/2024/11/16/centro-campo-igual-mundo-espana.html)
 * [Pelea Tyson Paul](https://www.marca.com/boxeo/2024/11/16/mike-tyson-jake-paul-protagonizan-espectaculo-bochornoso.html)
+* [Zurdo Ramírez](https://www.marca.com/mx/boxeo/2024/11/16/6738e8ad4c6c11659cf6ea24-directo.html)
 * [Horario sprint MotoGP](https://www.marca.com/motor/motogp/gp-valencia/2024/11/15/6737222b46163f894e8b45c2.html)
 * [Jake Paul](https://www.marca.com/boxeo/2024/11/16/jake-paul-asegura-perdono-vida-mike-tyson.html)
 * [Partidos Nations League hoy](https://www.marca.com/futbol/nations-league/2024/11/16/partidos-nations-league-hoy-16-noviembre-juega-horarios-ver.html)
