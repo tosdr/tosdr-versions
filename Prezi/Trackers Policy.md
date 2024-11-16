@@ -284,6 +284,10 @@ Languages
 
 Blog
 
+Nov. 15, 2024
+
+[Learn from famous public speakers: inspiration from top speakers](https://blog.prezi.com/famous-public-speakers/)
+
 Nov. 13, 2024
 
 [How to do bullet points right in your presentations](https://blog.prezi.com/how-to-do-bullet-points/)
@@ -291,10 +295,6 @@ Nov. 13, 2024
 Nov. 13, 2024
 
 [Find cool presentation backgrounds for your next presentation](https://blog.prezi.com/cool-presentation-backgrounds/)
-
-Oct. 25, 2024
-
-[The future of AI and work](https://blog.prezi.com/future-of-ai/)
 
 [Latest posts](https://blog.prezi.com/)
 
