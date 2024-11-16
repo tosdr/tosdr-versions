@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/mensen/romaamor-rome-in-liefde-matias-de-stefano/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/verplichte-vaccinaties/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
