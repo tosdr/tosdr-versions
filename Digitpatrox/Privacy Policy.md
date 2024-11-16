@@ -20,16 +20,16 @@ Saturday, November 16 2024
 
 Latest
 
-* [Proofpoint names Jerome Jullien as new EMEA channel chief](https://digitpatrox.com/proofpoint-names-jerome-jullien-as-new-emea-channel-chief/)
-* [For November, Patch Tuesday includes three Windows zero-day fixes](https://digitpatrox.com/for-november-patch-tuesday-includes-three-windows-zero-day-fixes/)
-* [The Official ChatGPT App Is Now Available on PC](https://digitpatrox.com/the-official-chatgpt-app-is-now-available-on-pc/)
-* [Can I get banned on Twitter/X for using a VPN?](https://digitpatrox.com/can-i-get-banned-on-twitter-x-for-using-a-vpn/)
-* [Mazda CX-50 Hybrid First Drive: Power Couple or Odd Couple?](https://digitpatrox.com/mazda-cx-50-hybrid-first-drive-power-couple-or-odd-couple/)
-* [Does Your Raspberry Pi 5 Need an NVMe Drive?](https://digitpatrox.com/does-your-raspberry-pi-5-need-an-nvme-drive/)
-* [Researchers claim Fortinet’s FortiJump patch was ‘incomplete’ and left users vulnerable](https://digitpatrox.com/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable/)
-* [10 Top Locations & Programs](https://digitpatrox.com/10-top-locations-programs/)
-* [Asus ZenWiFi BQ16 Pro review: Making the most out of Wi-Fi 7](https://digitpatrox.com/asus-zenwifi-bq16-pro-review-making-the-most-out-of-wi-fi-7/)
-* [Botnet exploits GeoVision zero-day to install Mirai malware](https://digitpatrox.com/botnet-exploits-geovision-zero-day-to-install-mirai-malware/)
+* [FTC reports 50% drop in unwanted call complaints since 2021](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
+* [WhatsApp now lets you save message drafts](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
+* [Today’s Wordle Answer and Hints (November 16, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
+* [Huawei MateBook 14 (2024) review](https://digitpatrox.com/huawei-matebook-14-2024-review/)
+* [Google’s Gemini app is now available on iPhones – Computerworld](https://digitpatrox.com/googles-gemini-app-is-now-available-on-iphones-computerworld/)
+* [My Favorite Products for Cleaning the Bathroom](https://digitpatrox.com/my-favorite-products-for-cleaning-the-bathroom/)
+* [Nuna TRVL LX Travel Stroller Review](https://digitpatrox.com/nuna-trvl-lx-travel-stroller-review/)
+* [What Should You Do If Windows Security Detects a Virus?](https://digitpatrox.com/what-should-you-do-if-windows-security-detects-a-virus/)
+* [OpenAI could be plotting a foray into the world of AI agents – here’s what we know so far](https://digitpatrox.com/openai-could-be-plotting-a-foray-into-the-world-of-ai-agents-heres-what-we-know-so-far/)
+* [Ubuntu Server Cheat Sheet](https://digitpatrox.com/ubuntu-server-cheat-sheet/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/greuPGTj7YGkGtpfwUb7wE-1200-80.jpg)](https://digitpatrox.com/proofpoint-names-jerome-jullien-as-new-emea-channel-chief/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/15/telemarketers-phone-call-center.jpg)](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
     
-    [Proofpoint names Jerome Jullien as new EMEA channel chief](https://digitpatrox.com/proofpoint-names-jerome-jullien-as-new-emea-channel-chief/)
+    [FTC reports 50% drop in unwanted call complaints since 2021](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
     
-    1 hour ago
+    11 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3607381-0-11437400-1731700130-clint-patterson-yGPxCYPS8H4-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/for-november-patch-tuesday-includes-three-windows-zero-day-fixes/)
+* [![](https://cdn.vox-cdn.com/thumbor/TTHtVMuyLgJ0BaAei235MWPocJE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg)](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
     
-    [For November, Patch Tuesday includes three Windows zero-day fixes](https://digitpatrox.com/for-november-patch-tuesday-includes-three-windows-zero-day-fixes/)
+    [WhatsApp now lets you save message drafts](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
     
-    1 hour ago
+    28 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCRKRTGQYY6D25MDX24BFHWC/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-official-chatgpt-app-is-now-available-on-pc/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
     
-    [The Official ChatGPT App Is Now Available on PC](https://digitpatrox.com/the-official-chatgpt-app-is-now-available-on-pc/)
+    [Today’s Wordle Answer and Hints (November 16, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
     
-    2 hours ago
+    48 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Can-I-get-banned-on-Twitter-X-for-using-a-VPN_.jpg)](https://digitpatrox.com/can-i-get-banned-on-twitter-x-for-using-a-vpn/)
+* [![](https://cdn.mos.cms.futurecdn.net/Dpzbiw226gmmQ46LsKJSvQ-1200-80.jpg)](https://digitpatrox.com/huawei-matebook-14-2024-review/)
     
-    [Can I get banned on Twitter/X for using a VPN?](https://digitpatrox.com/can-i-get-banned-on-twitter-x-for-using-a-vpn/)
-    
-    2 hours ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731602369/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-2025-Mazda-CX-50-Hybrid-f-driving-11-24)](https://digitpatrox.com/mazda-cx-50-hybrid-first-drive-power-couple-or-odd-couple/)
-    
-    [Mazda CX-50 Hybrid First Drive: Power Couple or Odd Couple?](https://digitpatrox.com/mazda-cx-50-hybrid-first-drive-power-couple-or-odd-couple/)
+    [Huawei MateBook 14 (2024) review](https://digitpatrox.com/huawei-matebook-14-2024-review/)
     
     2 hours ago
+    
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3607194-0-83139400-1731683258-Bildschirmfoto-2024-09-27-um-10.49.59.png?w=1024)](https://digitpatrox.com/googles-gemini-app-is-now-available-on-iphones-computerworld/)
+    
+    [Google’s Gemini app is now available on iPhones – Computerworld](https://digitpatrox.com/googles-gemini-app-is-now-available-on-iphones-computerworld/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [1 hour ago
+* [11 minutes ago
     
-    ### Proofpoint names Jerome Jullien as new EMEA channel chief](https://digitpatrox.com/proofpoint-names-jerome-jullien-as-new-emea-channel-chief/)
-* [1 hour ago
+    ### FTC reports 50% drop in unwanted call complaints since 2021](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
+* [28 minutes ago
     
-    ### For November, Patch Tuesday includes three Windows zero-day fixes](https://digitpatrox.com/for-november-patch-tuesday-includes-three-windows-zero-day-fixes/)
-* [2 hours ago
+    ### WhatsApp now lets you save message drafts](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
+* [48 minutes ago
     
-    ### The Official ChatGPT App Is Now Available on PC](https://digitpatrox.com/the-official-chatgpt-app-is-now-available-on-pc/)
+    ### Today’s Wordle Answer and Hints (November 16, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
 
 Most Popular Topics
 
-* [September 7, 2024
+* [2 weeks ago
     
-    ### Call Center Quality Monitoring: Real-Time vs Post-Call](https://digitpatrox.com/call-center-quality-monitoring-real-time-vs-post-call/)
-* [4 weeks ago
+    ### Saatva Black Friday sale 2024: The best early deals for up to $600 off](https://digitpatrox.com/saatva-black-friday-sale-2024-the-best-early-deals-for-up-to-600-off/)
+* [August 16, 2024
     
-    ### Microsoft expands autonomy of Copilot agents ahead of public preview](https://digitpatrox.com/microsoft-expands-autonomy-of-copilot-agents-ahead-of-public-preview/)
-* [September 14, 2024
+    ### Best iPad deals for August 2024](https://digitpatrox.com/best-ipad-deals-for-august-2024/)
+* [2 days ago
     
-    ### Lenovo ThinkPad T14s Gen 6 review](https://digitpatrox.com/lenovo-thinkpad-t14s-gen-6-review/)
+    ### AI PCs might be all the rage, but the channel isn’t fully sold](https://digitpatrox.com/ai-pcs-might-be-all-the-rage-but-the-channel-isnt-fully-sold/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Researchers claim Fortinet’s FortiJump patch was ‘incomplete’ and left users vulnerable](https://digitpatrox.com/researchers-claim-fortinets-fortijump-patch-was-incomplete-and-left-users-vulnerable/)
+    ### Nuna TRVL LX Travel Stroller Review](https://digitpatrox.com/nuna-trvl-lx-travel-stroller-review/)
 * [3 hours ago
     
-    ### 10 Top Locations & Programs](https://digitpatrox.com/10-top-locations-programs/)
-* [3 hours ago
+    ### What Should You Do If Windows Security Detects a Virus?](https://digitpatrox.com/what-should-you-do-if-windows-security-detects-a-virus/)
+* [4 hours ago
     
-    ### Asus ZenWiFi BQ16 Pro review: Making the most out of Wi-Fi 7](https://digitpatrox.com/asus-zenwifi-bq16-pro-review-making-the-most-out-of-wi-fi-7/)
+    ### OpenAI could be plotting a foray into the world of AI agents – here’s what we know so far](https://digitpatrox.com/openai-could-be-plotting-a-foray-into-the-world-of-ai-agents-heres-what-we-know-so-far/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 13, 2024
+    
+    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
+* [August 21, 2024
+    
+    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
