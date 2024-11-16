@@ -143,13 +143,13 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
 
-[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+[British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
-  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+  [![Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.")](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
-[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
 Editors' Picks
 --------------
@@ -176,19 +176,15 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+[British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+  [![Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.")](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
-  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
-
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
 Podcast
 -------
@@ -251,25 +247,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Taiwan's APEC representative invites Biden to visit island](https://www.japantimes.co.jp/news/2024/11/16/asia-pacific/politics/taiwan-apec-biden-invite/ "Taiwan's APEC representative invites Biden to visit island")
+[Japan issues warning over bad-faith buyers in small business M&As](https://www.japantimes.co.jp/business/2024/11/16/companies/ma-bad-faith-buyer-warning/ "Japan issues warning over bad-faith buyers in small business M&As")
 
-12 mins ago
+1 hours ago
 
-[U.S. Ambassador to Japan Rahm Emanuel weighs bid for DNC chair: report](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/rahm-emanuel-dnc-chair/ "U.S. Ambassador to Japan Rahm Emanuel weighs bid for DNC chair: report")
+[Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
 
-57 mins ago
+3 hours ago
 
-[China’s dream of ‘powerful currency’ runs Into Trump’s return](https://www.japantimes.co.jp/business/2024/11/16/economy/china-xi-yuan-currency/ "China’s dream of ‘powerful currency’ runs Into Trump’s return")
+[Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day](https://www.japantimes.co.jp/news/2024/11/16/japan/nihon-hidankyo-crowdfunding-goal/ "Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day")
 
-2 hours ago
+3 hours ago
 
-[Senators ask Pentagon and U.S. attorney general to probe Musk's alleged Russia calls](https://www.japantimes.co.jp/news/2024/11/16/world/elon-musk-russia-ties-probe/ "Senators ask Pentagon and U.S. attorney general to probe Musk's alleged Russia calls")
+[Tens of thousands flee as Super Typhoon Man-yi nears Philippines](https://www.japantimes.co.jp/news/2024/11/16/asia-pacific/super-typhoon-philippines/ "Tens of thousands flee as Super Typhoon Man-yi nears Philippines")
 
-2 hours ago
+4 hours ago
 
-[Trump names Karoline Leavitt as White House press secretary](https://www.japantimes.co.jp/news/2024/11/16/world/politics/trump-karoline-leavitt-press-secretary/ "Trump names Karoline Leavitt as White House press secretary")
+[Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
 
-2 hours ago
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
