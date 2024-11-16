@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Fast, Accurate & Easy to Use
+> ----------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Jannie Schutte - myFinance-Online.co.za
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=159540551)  
-RADIO TYGERBERG 104FM NPC
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=200218721)  
+Goju Ryu Karate Centre
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=187251817)  
-Wiselink Broadband Dundee
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=92653864)  
+Mountain Lion Properties
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=139318001)  
-Norton Medical & Consult - Namibia
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=172470068)  
+Qothiphango Mining
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=124628129)  
-TurboFibre
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=2347492)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Westside Car Audio CC](https://www.invoicesonline.co.za/scripts/image.php?bid=7028&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=92413829)  
-Westside Car Audio CC
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=103914460)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=24525582)  
-Printo
+![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=29848334)  
+kidoscabbie
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=164252680)  
-Repairs In Motion
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=37551280)  
+Kara Medical (Pty) Ltd
 
-![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=7061378)  
-IYD
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=14683813)  
+Highlands Auto Engineering
 
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=95155104)  
-Druce Digital
+![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=203092781)  
+Depot Diesel (Pty) Ltd
 
-![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=57979802)  
-SLOANE STAR MEAT MARKET
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=47455679)  
+Immediate Health (pty)ltd
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=197248588)  
-Lion Software Develepment
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=87384144)  
+Nogana Events and Decor
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=112374191)  
-BD Maintenance
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=56718210)  
+Peter Salvage Pty Ltd
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=29042548)  
-Konsortium Operations (PTY) LTD
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=168351352)  
+Stories (Pty) Ltd t/a Storietyd
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=180602933)  
-Echo Recording Studio cc
+![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=134984988)  
+TIGERDSL
 
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=40a240531d566bd79a9002ef313e6a0ef4ff68c96bc9c58f1ff5c23300aa36fe&c=78483043)  
-Laurinda Pretorius Spraak en Drama Ateljee
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=181696286)  
+Dr V Naik Consult
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
