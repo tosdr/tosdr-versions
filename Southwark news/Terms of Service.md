@@ -20,6 +20,31 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(David Martin / Waterloo station: concourse gallery development / CC BY-SA 2.0)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-16.14-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+    
+    ### [Waterloo station to host immersive ‘Snowman’ pop-up this weekend](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+    
+    [![Among the representatives were Oliver Dodd, Rupert Potts, Aaron Chapman-Dawe and Ashton
+    Ferdinand, cadets from Dulwich College.  Image courtesy of Dulwich College](https://southwarknews.co.uk/wp-content/uploads/2024/11/Dulwich-College_Remembrance-image_Cenotaph-2024-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-schoolchildren-parade-before-king-at-cenotaph-service/)
+    
+    ### [Dulwich schoolchildren parade before King at Cenotaph service](https://southwarknews.co.uk/area/dulwich/dulwich-schoolchildren-parade-before-king-at-cenotaph-service/)
+    
+    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
+    
+    ### [‘We are asking the wealthiest and businesses to increase funding for public services’, say Peckham MP](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
+    
+    [![Albion pub in Rotherhithe in 2020. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/Albion-pub-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+    
+    ### [Famous ‘courage’ sign from bulldozed pub could be a fixture on the former Anchor Brewery building by Tower Bridge](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+    
+    [![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    ### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
+    ### [Sadiq Khan wants more money from government to hit his current affordable housing target](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
     [![Shakil Dip has called for Southwark Council to install permanent security along the market](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3150-2-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
     
     ### [East Street Market traders say safety ‘a lottery’ and call for security guards amid rising crime in Walworth](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
@@ -31,31 +56,6 @@
     [![Photo taken in Gallery Road of the roundabout in Dulwich Village approached from the south](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photo-taken-in-Gallery-Road-of-the-roundabout-in-Dulwich-Village-aproached-from-the-south-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
     
     ### [Exclusive: Dulwich LTN clobbers drivers with up to £26 million in fines](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
-    
-    [![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-360x180.jpeg)](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
-    
-    ### [King Charles to spend 76th birthday in Deptford](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
-    
-    [![The section of Roman road discovered (Veolia)](https://southwarknews.co.uk/wp-content/uploads/2024/11/f_m3ejf0231-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
-    
-    ### [2,000-Year-Old Roman road unearthed beneath Old Kent Road](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
-    
-    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-360x180.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-    
-    ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-    
-    [![The last remaining gasholder in Rotherhithe will be dismantled. 
-    Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
-    
-    ### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
-    
-    [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-    
-    ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,31 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![(David Martin / Waterloo station: concourse gallery development / CC BY-SA 2.0)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-16.14-360x180.jpg)](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+    
+    ### [Waterloo station to host immersive ‘Snowman’ pop-up this weekend](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+    
+    [![Among the representatives were Oliver Dodd, Rupert Potts, Aaron Chapman-Dawe and Ashton
+    Ferdinand, cadets from Dulwich College.  Image courtesy of Dulwich College](https://southwarknews.co.uk/wp-content/uploads/2024/11/Dulwich-College_Remembrance-image_Cenotaph-2024-360x180.jpg)](https://southwarknews.co.uk/area/dulwich/dulwich-schoolchildren-parade-before-king-at-cenotaph-service/)
+    
+    ### [Dulwich schoolchildren parade before King at Cenotaph service](https://southwarknews.co.uk/area/dulwich/dulwich-schoolchildren-parade-before-king-at-cenotaph-service/)
+    
+    [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
+    
+    ### [‘We are asking the wealthiest and businesses to increase funding for public services’, say Peckham MP](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
+    
+    [![Albion pub in Rotherhithe in 2020. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/Albion-pub-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+    
+    ### [Famous ‘courage’ sign from bulldozed pub could be a fixture on the former Anchor Brewery building by Tower Bridge](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+    
+    [![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-360x180.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    ### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+    
+    [![London mayor Sadiq Khan. Credit: Noah Vickers/Local Democracy Reporting Service](https://southwarknews.co.uk/wp-content/uploads/2024/08/London-mayor-Sadiq-Khan-360x180.jpg)](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
+    ### [Sadiq Khan wants more money from government to hit his current affordable housing target](https://southwarknews.co.uk/area/london/sadiq-khan-wants-more-money-from-government-to-hit-his-current-affordable-housing-target/)
+    
     [![Shakil Dip has called for Southwark Council to install permanent security along the market](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3150-2-360x180.jpeg)](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
     
     ### [East Street Market traders say safety ‘a lottery’ and call for security guards amid rising crime in Walworth](https://southwarknews.co.uk/news/news-plus/east-street-market-traders-say-safety-a-lottery-and-call-for-security-guards-amid-rising-crime-in-walworth/)
@@ -117,31 +142,6 @@ View All Result
     [![Photo taken in Gallery Road of the roundabout in Dulwich Village approached from the south](https://southwarknews.co.uk/wp-content/uploads/2024/11/Photo-taken-in-Gallery-Road-of-the-roundabout-in-Dulwich-Village-aproached-from-the-south-360x180.jpg)](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
     
     ### [Exclusive: Dulwich LTN clobbers drivers with up to £26 million in fines](https://southwarknews.co.uk/news/news-plus/exclusive-dulwich-ltn-clobbers-drivers-with-up-to-26-million-in-fines/)
-    
-    [![King Charles (credit: Fergus Burnett)(fergusburnett.com)](https://southwarknews.co.uk/wp-content/uploads/2024/11/52369739475_d75c2247fe_o-e1731580430154-360x180.jpeg)](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
-    
-    ### [King Charles to spend 76th birthday in Deptford](https://southwarknews.co.uk/area/deptford/king-charles-to-spend-76th-birthday-in-deptford/)
-    
-    [![The section of Roman road discovered (Veolia)](https://southwarknews.co.uk/wp-content/uploads/2024/11/f_m3ejf0231-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
-    
-    ### [2,000-Year-Old Roman road unearthed beneath Old Kent Road](https://southwarknews.co.uk/area/walworth/2000-year-old-roman-road-unearthed-beneath-old-kent-road/)
-    
-    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-360x180.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-    
-    ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-    
-    [![The last remaining gasholder in Rotherhithe will be dismantled. 
-    Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
-    
-    ### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
-    
-    [![Roast Turkey, curry mayo, carrot and onion bhaji (sarnieparty)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-13-11-2024-at-10.35-360x180.jpg)](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    ### [London’s first Christmas Sandwich Festival is coming to Peckham this weekend](https://southwarknews.co.uk/area/peckham/londons-first-christmas-sandwich-festival-is-coming-to-peckham-this-weekend/)
-    
-    [![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-360x180.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-    
-    ### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -237,13 +237,31 @@ Terms of Use
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
-[![Neil Harris passes on instructions. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/Harris-Azeez-Stoke--120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+[![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
-### [‘I’ve been very careful what to say’ – Millwall boss on Stoke draw as Potters head coach reveals referee admission](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
-[9th November 2024](https://southwarknews.co.uk/sport/football/millwall/ive-been-very-careful-what-to-say-millwall-boss-on-stoke-draw-as-potters-head-coach-reveals-referee-admission/)
+[12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 ### Featured Articles
+
+[![(David Martin / Waterloo station: concourse gallery development / CC BY-SA 2.0)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-15-11-2024-at-16.14-120x86.jpg)](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+
+### [Waterloo station to host immersive ‘Snowman’ pop-up this weekend](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+
+[15th November 2024](https://southwarknews.co.uk/area/waterloo/waterloo-station-to-host-immersive-snowman-pop-up-this-weekend/)
+
+[![Albion pub in Rotherhithe in 2020. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/Albion-pub-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+
+### [Famous ‘courage’ sign from bulldozed pub could be a fixture on the former Anchor Brewery building by Tower Bridge](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+
+[15th November 2024](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
+
+[![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-120x86.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+
+### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
+
+[15th November 2024](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
 
 [![London Bridge Post Office (Google Maps)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-14-11-2024-at-13.21-e1731590557478-120x86.jpg)](https://southwarknews.co.uk/area/dulwich/london-bridge-and-east-dulwich-post-offices-could-be-at-risk-of-closure/)
 
@@ -262,25 +280,6 @@ Terms of Use
 ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
-[![The last remaining gasholder in Rotherhithe will be dismantled. 
-Image from Southwark Council planning documents](https://southwarknews.co.uk/wp-content/uploads/2024/11/The-last-remaining-gasholder-120x86.jpg)](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
-
-### [Over 150 new homes approved on former gasworks despite residents’ concerns about contaminated land](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/) 
-
-[13th November 2024](https://southwarknews.co.uk/area/rotherhithe/over-150-new-homes-approved-former-gasworks-despite-residents-concerns-about-contaminated-land/)
-
-[![Photo of an NHS drone flying over London. Image: NHS](https://southwarknews.co.uk/wp-content/uploads/2024/11/London04-120x86.jpeg)](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-
-### [Flying drones ‘saving lives’ across London in NHS first](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-
-[13th November 2024](https://southwarknews.co.uk/area/borough/flying-drones-saving-lives-across-london-in-nhs-first/)
-
-[![Curtis Green was shot dead after a party in Sydenham](https://southwarknews.co.uk/wp-content/uploads/2024/11/Curtis-Green-Victim-e1731490879974-120x86.png)](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-
-### [Man killed after South London party was father-to-be](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
-
-[13th November 2024](https://southwarknews.co.uk/area/sydenham/man-killed-after-south-london-party-was-father-to-be/)
 
 ### USEFUL PAGES
 
