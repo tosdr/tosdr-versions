@@ -38,7 +38,7 @@ Receive weekly email updates, promotions, and exclusive crypto content!
 
 Email(Required)
 
-Phone
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -144,7 +144,7 @@ Email(Required)
 
 SUBSCRIBE
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
