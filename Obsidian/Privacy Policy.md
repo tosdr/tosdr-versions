@@ -232,6 +232,6 @@ Version history
 
 Follow us
 
-[Twitter](https://x.com/obsdmd) [Mastodon](https://mas.to/@obsidian) [YouTube](https://www.youtube.com/@obsdmd) [GitHub](https://github.com/obsidianmd)
+[Discord](https://discord.com/invite/obsidianmd) [Twitter](https://x.com/obsdmd) [Bluesky](https://bsky.app/profile/obsidian.md) [Threads](https://www.threads.net/@obsdmd) [Mastodon](https://mas.to/@obsidian) [YouTube](https://www.youtube.com/@obsdmd) [GitHub](https://github.com/obsidianmd)
 
 © 2024 Obsidian
