@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'”
+“ The economy of human time is the next advantage of machinery in manufactures”
 
-[Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov)
+[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
 
 [](https://www.adafruit.com/about)
 
