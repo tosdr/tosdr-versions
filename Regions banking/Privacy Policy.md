@@ -349,19 +349,19 @@ Related Insights
 
 [See All Insights](https://www.regions.com/Insights/InsightsLibrary)
 
-* [4 Easy Steps to Financial Management](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/4-steps-to-take-charge-of-your-accounts)
-    
-    Article
-    
-* [Financial Fraud Prevention](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/how-lockit-can-help-lock-out-financial-fraud)
+* [How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
     
     Video
     
-* [What Is an Overdraft Fee & How to Avoid Them](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/understanding-overdraft-fees)
+* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
     
     Article
     
-* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
+* [Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
+    
+    Article
+    
+* [How to endorse a check: 6 important steps](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/how-to-endorse-a-check)
     
     Article
     
