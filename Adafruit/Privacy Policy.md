@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Everyone you will ever meet knows something you don't”
+“ The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'”
 
-[Bill Nye](https://en.wikipedia.org/wiki/Bill_Nye)
+[Isaac Asimov](http://en.wikipedia.org/wiki/Isaac_Asimov)
 
 [](https://www.adafruit.com/about)
 
