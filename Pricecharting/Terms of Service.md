@@ -244,8 +244,6 @@
     * [Grading Recommendations](https://www.pricecharting.com/page/grading-recommendations)
     * [Trends](https://www.pricecharting.com/compare)
 
-NEW: [Funko Pop Figures](https://www.pricecharting.com/category/funko-pops)
-
 Search  Prices Collection Market 
 
   
