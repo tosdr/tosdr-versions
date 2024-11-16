@@ -5,6 +5,8 @@
         
         *  [![My Chemical Romance Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) My Chemical Romance  
             MetLife Stadium](https://www.songkick.com/concerts/42271604-my-chemical-romance-at-metlife-stadium)
+        *  [![Zach Bryan Concert Tickets - 2024 Tour Dates](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Zach Bryan  
+            MetLife Stadium](https://www.songkick.com/concerts/42275668-zach-bryan-at-metlife-stadium)
         
         [](https://www.songkick.com/metro-areas/4690-us-jersey-city)See all Jersey City concerts ([Change location](https://www.songkick.com/session/filter_metro_area))  
           
