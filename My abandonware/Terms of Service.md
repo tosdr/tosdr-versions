@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
-* [Clock Tower](https://www.myabandonware.com/game/clock-tower-b7j)
-* [Sotsugyō](https://www.myabandonware.com/game/sotsugyo-egl)
-* [Space Invaders](https://www.myabandonware.com/game/space-invaders-8z2)
-* [Shanghai Pocket](https://www.myabandonware.com/game/shanghai-pocket-90e)
-* [Puyo Puyo 2](https://www.myabandonware.com/game/puyo-puyo-2-85m)
+* [Mario War](https://www.myabandonware.com/game/mario-war-tqm)
+* [MagiDuck](https://www.myabandonware.com/game/magiduck-tql)
+* [MadMan](https://www.myabandonware.com/game/madman-tqk)
+* [Machine Nation](https://www.myabandonware.com/game/machine-nation-tqj)
+* [Lurid Land](https://www.myabandonware.com/game/lurid-land-tqi)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [NFL Hall of Fame Football](https://www.myabandonware.com/game/nfl-hall-of-fame-football-pl5)
-* [War of the Worlds](https://www.myabandonware.com/game/war-of-the-worlds-saz)
-* [Yogurt Commercial](https://www.myabandonware.com/game/yogurt-commercial-3sn)
+* [The Adventures of Buckaroo Banzai: Across the Eighth Dimension!](https://www.myabandonware.com/game/the-adventures-of-buckaroo-banzai-across-the-eighth-dimension-n31)
+* [Thunder in Paradise Interactive](https://www.myabandonware.com/game/thunder-in-paradise-interactive-og4)
+* [The Colditz Story](https://www.myabandonware.com/game/the-colditz-story-khb)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
