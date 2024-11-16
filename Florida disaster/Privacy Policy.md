@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Friday, November 15, 2024**
+**Saturday, November 16, 2024**
 
-**...A Cold Front Near the I-4 Corridor Will Continue to Move Southward Through the Peninsula Today and Over the Straits of Florida Tonight...Isolated Showers Possible Along and Ahead of A Cold Front Today Into the Early Overnight Hours...Cool and Dry Conditions Across North Florida Spreading Southward Across the State Tonight AS High Pressure Builds In...Breezy Winds With Gusts Near 15-20 MPH Persist...Moderate to High Risk for Rip Currents Nearly Statewide...Minor to Moderate Coastal Flooding Near and At Times of High Tide Along the St. Johns River Basin, East and Southwest Coasts, and Keys Due to King Tides...Minor to Moderate Flooding Persist Along POrtions of the Withlacoochee and St. Johns Rivers...Tropical Storm Sara Will Continue to Slow Down As It Moves Westward Along the North Coast of Honduras Over the Next Day or So...**
+**...High Pressure Building In Will Give Way to A Quiet and Pleasant Day of Sunny and Dry Conditions Across the Sunshine State Today...Near Seasonable Temperatures Across Much of The State...Breezy Winds Persist Along the Peninsula and Keys...Moderate to High Risk for Rip Currents Along the Florida Panhandle and East Coast...Minor to Moderate Coastal Continues At and Near Times of High Tide Along the St. Johns River Basin, East Coast, Southwest Coast, and Keys Due to the King Tides Cycle...Minor to Moderate Flooding Continues Along Portions of the Withlacoochee and St. Johns Rivers...Tropical Storm Sara Is Nearly Stationary Near the Northern Honduras Coast...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
