@@ -42,7 +42,6 @@ Menu Close Back
     * [Shipping & Handling](https://privealliance.com/policies/shipping-policy)
     * [Contact Us](https://privealliance.com/pages/contact-us)
     
-* [Featured Brands](https://privealliance.com/collections/featured-brands/Trump+MAGA+Donald-Trump+USA)
 * [Account](https://privealliance.com/account/login)
 
 * [Twitter](https://twitter.com/prive_alliance)
