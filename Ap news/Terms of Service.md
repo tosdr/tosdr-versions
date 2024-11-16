@@ -82,6 +82,7 @@ Menu
         
         * [Election 2024](https://apnews.com/hub/election-2024)
         * [Results](https://apnews.com/projects/election-results-2024/)
+        * [Trump transition](https://apnews.com/hub/donald-trump)
         * [AP VoteCast](https://apnews.com/projects/election-results-2024/votecast/)
         * [AP Race Call Explainers](https://apnews.com/ap-race-call-explainers)
         * [Explaining 2024](https://apnews.com/hub/explaining-election-2024)
@@ -219,6 +220,7 @@ Submit Search
     
     * [Election 2024](https://apnews.com/hub/election-2024)
     * [Results](https://apnews.com/projects/election-results-2024/)
+    * [Trump transition](https://apnews.com/hub/donald-trump)
     * [AP VoteCast](https://apnews.com/projects/election-results-2024/votecast/)
     * [AP Race Call Explainers](https://apnews.com/ap-race-call-explainers)
     * [Explaining 2024](https://apnews.com/hub/explaining-election-2024)
@@ -226,7 +228,7 @@ Submit Search
     
     SECTIONS
     
-    [Election 2024](https://apnews.com/hub/election-2024) [Results](https://apnews.com/projects/election-results-2024/) [AP VoteCast](https://apnews.com/projects/election-results-2024/votecast/) [AP Race Call Explainers](https://apnews.com/ap-race-call-explainers) [Explaining 2024](https://apnews.com/hub/explaining-election-2024) [En Español](https://apnews.com/hub/elecciones-en-eeuu)
+    [Election 2024](https://apnews.com/hub/election-2024) [Results](https://apnews.com/projects/election-results-2024/) [Trump transition](https://apnews.com/hub/donald-trump) [AP VoteCast](https://apnews.com/projects/election-results-2024/votecast/) [AP Race Call Explainers](https://apnews.com/ap-race-call-explainers) [Explaining 2024](https://apnews.com/hub/explaining-election-2024) [En Español](https://apnews.com/hub/elecciones-en-eeuu)
     
 * [Sports](https://apnews.com/sports)
     
