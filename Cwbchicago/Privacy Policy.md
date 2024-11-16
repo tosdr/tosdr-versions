@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/04/atm-326x245.jpg)](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
+
+Albany Park
+
+### [Robber poses as security guard, repair tech to mug people at ATMs, police warn](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
+
+[November 13, 2024 12:53 PM](https://cwbchicago.com/2024/11)
+
+A man is posing as a security guard or service technician to rob people at ATMs on the North and Northwest Sides, according to Chicago police. He has struck at least six times since October 1, including three times this week.[](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jasmine-Ross-326x245.jpg)](https://cwbchicago.com/2024/11/6-years-for-woman-who-beat-robbed-man-after-luring-him-into-car-outside-downtown-nightclub.html "6 years for woman who beat, robbed man after luring him into car outside downtown nightclub")
+
+Gold Coast
+
+### [6 years for woman who beat, robbed man after luring him into car outside downtown nightclub](https://cwbchicago.com/2024/11/6-years-for-woman-who-beat-robbed-man-after-luring-him-into-car-outside-downtown-nightclub.html "6 years for woman who beat, robbed man after luring him into car outside downtown nightclub")
+
+[November 13, 2024 10:02 AM](https://cwbchicago.com/2024/11)
+
+A Milwaukee woman, part of a group that officials said drugged, robbed, and sometimes beat men they met at downtown Chicago nightclubs, has been sentenced to six years in prison for her crimes.[](https://cwbchicago.com/2024/11/6-years-for-woman-who-beat-robbed-man-after-luring-him-into-car-outside-downtown-nightclub.html "6 years for woman who beat, robbed man after luring him into car outside downtown nightclub")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Marcell-Hale-326x245.jpg)](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
 
 Hermosa
@@ -252,26 +272,6 @@ Hermosa
 [November 12, 2024 5:59 PM](https://cwbchicago.com/2024/11)
 
 A 19-year-old man is charged with committing eight armed robberies within an hour while he was on electronic monitoring for six other felonies, including four more robberies.[](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/John-Catanzara-Brandon-Johnson-326x245.jpg)](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
-
-Citywide
-
-### [Slain cop’s family wants mayor, governor to stay away from funeral, union chief says](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
-
-[November 12, 2024 12:55 PM](https://cwbchicago.com/2024/11)
-
-The family of slain Chicago Police Officer Enrique Martinez does not want Mayor Brandon Johnson or Gov. JB Pritzker to attend his funeral next Monday. That’s according to a video message posted by John Catanzara, president of the police union that represents Chicago’s front-line “blue shirt” cops.[](https://cwbchicago.com/2024/11/slain-cops-family-wants-mayor-governor-to-stay-away-from-funeral-union-chief-says.html "Slain cop’s family wants mayor, governor to stay away from funeral, union chief says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Land-Daley-Center-326x245.jpg)](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
-
-Loop
-
-### [Man charged with threatening to kill judge in Zoom court, voicemails](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
-
-[November 12, 2024 6:05 AM](https://cwbchicago.com/2024/11)
-
-A suburban man faces a host of felony charges for allegedly threatening a Cook County judge electronically and during open court.[](https://cwbchicago.com/2024/11/man-charged-with-threatening-to-kill-judge-in-zoom-court-voicemails.html "Man charged with threatening to kill judge in Zoom court, voicemails")
 
 Search
 
