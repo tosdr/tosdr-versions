@@ -66,11 +66,11 @@ Terms of Use
 
 PLEASE READ AND REVIEW THESE TERMS OF USE CAREFULLY BEFORE USING THIS WEBSITE.
 
-Date of Last Revision: February 11, 2023
+Date of Last Revision: November 16, 2024
 
 #### Who we are and how to contact us
 
-These Terms of Use apply to our websites, mobile applications, and related online and offline offerings (collectively, the “**Services**”). The Services include websites at fandom.com and wikia.org, and the respective subdomains, and the mobile apps provided under the Fandom brand. The Services also include the websites at futhead.com and muthead.com. The Services are operated by Fandom, Inc. (with its affiliates, “**Fandom**” or the “Company”). We are a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 130 Sutter Street, 4th Floor, San Francisco, CA 94104.
+These Terms of Use apply to our websites, mobile applications, and related online and offline offerings (collectively, the “**Services**”). The Services include websites at fandom.com and wikia.org, and the respective subdomains, and the mobile apps provided under the Fandom brand. The Services also include the websites at futhead.com and muthead.com. The Services are operated by Fandom, Inc. (with its affiliates, “**Fandom**” or the “Company”). We are a company registered in the State of Delaware, U.S.A. (corporate number C2935209), whose registered office is at 550 California Street, Suite 830 San Francisco, CA 94104.
 
 These Terms of Use tell you the rules for using our Services.
 
@@ -197,7 +197,7 @@ Fandom respects the intellectual property of others and follows the requirements
 
 Attn: Copyright Agent  
 Fandom, Inc.  
-130 Sutter Street, 4th Floor  
+550 California Street, Suite 830  
 San Francisco, CA 94104
 
 See our [DMCA Request form](https://fandom.zendesk.com/hc/en-us/requests/new?ticket_form_id=360000940393) (select “I have a copyright or trademark issue” as a category) for a guided form that will allow you to fill out the required elements of a DMCA takedown notice. You may also email the designated agent via copyright@fandom.com. Please include “Claim of copyright infringement” in the subject of your email. For clarity, only DMCA notices should go to the Copyright Agent.
@@ -253,8 +253,7 @@ The Terms of Use, together with the Terms of Sale and the Privacy Policy, is the
 #### Previous Terms of Use
 
 * [May 24, 2022](https://www.fandom.com/terms-of-use-previous-version-5-24-2022-2-11-2023)
-
-  
+* [February 11, 2023](https://www.fandom.com/terms-of-use-previous-version-02-11-2023-11-16-2024)
 
 [![Fandom logo](https://static.wikia.nocookie.net/ff185fe4-8356-4b6b-ad48-621b95a82a1d)](https://www.fandom.com/ "Fandom logo")
 -------------------------------------------------------------------------------------------------------------------------------
