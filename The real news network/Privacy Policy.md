@@ -14,10 +14,10 @@ Search for:  Search
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
 
-* [Facebook](https://www.facebook.com/therealnews)
-* [Twitter](https://twitter.com/therealnews)
-* [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Youtube](https://www.youtube.com/c/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
+* [Instagram](https://www.instagram.com/therealnewsnetwork/)
+* [Twitter](https://twitter.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
@@ -82,7 +82,7 @@ Trending Posts
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
-* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
+* ['I found \[my family\] in pieces. In pieces.': Gaza's orphans speak](https://therealnews.com/i-found-my-family-in-pieces-in-pieces-gazas-orphans-speak)
 
 Close
 
@@ -146,7 +146,7 @@ Trending Posts
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
 * ['Join a union': Boeing workers ratify contract with over 43% wage hike](https://therealnews.com/boeing-workers-ratify-contract-with-over-43-wage-hike)
-* [Who are the real Trump supporters? The answers might surprise you](https://therealnews.com/who-are-the-real-trump-supporters)
+* ['I found \[my family\] in pieces. In pieces.': Gaza's orphans speak](https://therealnews.com/i-found-my-family-in-pieces-in-pieces-gazas-orphans-speak)
 
 [Skip to content](#main)
 
@@ -155,10 +155,10 @@ Trending Posts
 * [Under the Shadow](https://therealnews.com/under-the-shadow)
 * [Killer Water](https://therealnews.com/killer-water-the-toxic-legacy-of-canadas-oil-sands-industry-for-indigenous-communities)
 
-* [Facebook](https://www.facebook.com/therealnews)
-* [Twitter](https://twitter.com/therealnews)
-* [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Youtube](https://www.youtube.com/c/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
+* [Instagram](https://www.instagram.com/therealnewsnetwork/)
+* [Twitter](https://twitter.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
@@ -292,10 +292,10 @@ Telephone number: 1(410) 800-4295
 
 [![The Real News Network](https://i0.wp.com/therealnews.com/wp-content/uploads/2022/08/lockup-duochrome-bright-1.png?fit=3000%2C595&ssl=1)](https://therealnews.com/)
 
-* [Facebook](https://www.facebook.com/therealnews)
-* [Twitter](https://twitter.com/therealnews)
-* [Instagram](https://www.instagram.com/therealnewsnetwork/)
 * [Youtube](https://www.youtube.com/c/therealnews)
+* [Facebook](https://www.facebook.com/therealnews)
+* [Instagram](https://www.instagram.com/therealnewsnetwork/)
+* [Twitter](https://twitter.com/therealnews)
 * [Mastodon](https://mastodon.social/@therealnews)
 * [Telegram](https://t.me/the_real_news_network)
 * [RSS Feed](https://therealnews.com/feed?partner-feed=the-real-news-network)
