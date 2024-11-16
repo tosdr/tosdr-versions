@@ -269,10 +269,6 @@ Retrieved from "[https://meta.miraheze.org/wiki/Privacy\_Policy?oldid=431984](ht
 
 * [Foundation policies](https://meta.miraheze.org/wiki/Category:Foundation_policies "Category:Foundation policies")
 
-Cookies help us deliver our services. By using our services, you agree to our use of cookies.
-
-[More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK
-
 * This page was last edited 17:12, 1 October 2024 by Miraheze Meta user [MacFan4000](https://meta.miraheze.org/wiki/User:MacFan4000 "User:MacFan4000").
 * Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.
 
