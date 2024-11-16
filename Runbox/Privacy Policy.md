@@ -136,7 +136,7 @@ In accordance with the recommendations from the DPA, Runbox Solutions has appoin
 
 ![](https://runbox.com/wp-content/uploads/data_protection_authority.png)The DPO also serves as liaison between Runbox Solutions and the DPA. Runbox Solutions’ DPO is authorized by the DPA, which allows Runbox Solutions to use the official Data Protection Officer logo.
 
-The DPO can be contacted at [dataprotectionofficer@nullrunbox.com](mailto:dataprotectionofficer@runbox.com). Please do not use this address for any other purpose, and instead use [these addresses](https://help.runbox.com/official-runbox-email-addresses/) for issues not relating directly to data privacy.
+The DPO can be contacted at [dataprotectionofficer@runbox.com](mailto:dataprotectionofficer@runbox.com). Please do not use this address for any other purpose, and instead use [these addresses](https://help.runbox.com/official-runbox-email-addresses/) for issues not relating directly to data privacy.
 
 What types of User Data is being Processed[](#what-types-of-user-data-is-being-processed)
 -----------------------------------------------------------------------------------------
