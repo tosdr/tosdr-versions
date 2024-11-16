@@ -234,13 +234,13 @@ Search
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
     
-    $500 Off Generator Duo](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F68945a4346ea4469947e8aeca804706c?width=343)
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F68945a4346ea4469947e8aeca804706c?width=343)
     
-    $200 Off Food & Fire](https://4patriots.com/product/food-fire-emergency-cooking-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
+    Survival Food Cooking Deal](https://4patriots.com/product/food-fire-emergency-cooking-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
     
-    $50 Off Freedom Fridge](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
+    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
     
-    $80 Off 95-Piece Car Kit](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
+    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
