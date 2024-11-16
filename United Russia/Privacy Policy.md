@@ -299,7 +299,7 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://cdn.er.ru/img/stubs/small/5.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
+[![«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
 
 [«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
 
