@@ -452,7 +452,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Six Days in Fallujah PC](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam "Six Days in Fallujah PC")**
     
-    Special Price $20.09 RRP $42.89
+    Special Price $19.79 RRP $42.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -464,7 +464,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
     
-    Special Price $28.59 RRP $42.89
+    Special Price $27.99 RRP $42.09
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -474,7 +474,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Sea Power: Naval Combat in the Missile Age PC](https://www.cdkeys.com/pc/sea-power-naval-combat-in-the-missile-age-pc-steam "Sea Power: Naval Combat in the Missile Age PC")**
     
-    Special Price $33.79 RRP $54.59
+    Special Price $33.09 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -484,7 +484,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[DRAGON QUEST III HD-2D Remake PC](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam "DRAGON QUEST III HD-2D Remake PC")**
     
-    Special Price $51.29 RRP $64.99
+    Special Price $50.39 RRP $63.69
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -494,7 +494,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Farming Simulator 25 - Year 1 Edition PC](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam "Farming Simulator 25 - Year 1 Edition PC")**
     
-    Special Price $56.49 RRP $88.39
+    Special Price $55.49 RRP $86.69
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -504,7 +504,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Farming Simulator 25 PC](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
-    Special Price $36.39 RRP $54.59
+    Special Price $35.69 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
@@ -514,7 +514,7 @@ To view games that are valid in your region ‘%1’, click here
     
     **[Manor Lords PC](https://www.cdkeys.com/pc/manor-lords-pc-steam "Manor Lords PC")**
     
-    Special Price $19.49 RRP $45.49
+    Special Price $19.09 RRP $44.59
     
     [Add to Wish List](# "Add to Wish List")
     
