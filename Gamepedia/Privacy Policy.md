@@ -64,7 +64,7 @@ Privacy Policy
 
 [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.fandom.com%2Fprivacy-policy "Facebook")[](https://twitter.com/share?url=https%3A%2F%2Fwww.fandom.com%2Fprivacy-policy "Twitter")[](http://www.reddit.com/submit?url=https%3A%2F%2Fwww.fandom.com%2Fprivacy-policy "Reddit")
 
-**Date of Last Revision: November 1, 2023**
+**Date of Last Revision: November 16, 2024**
 
 Fandom, Inc. (“**Fandom**” “**we**,” “**us**,” and “**our**”) provides a home to explore, contribute to, and celebrate the world of pop culture. Our Privacy Policy (“**Privacy Policy**”) is designed to help you understand how we collect, use, and share your personal information, and to assist you in exercising the privacy rights available to you.
 
@@ -86,7 +86,7 @@ Fandom, Inc. (“**Fandom**” “**we**,” “**us**,” and “**our**”) pr
 SCOPE
 -----
 
-Fandom, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), with a registered office at 130 Sutter Street, 4th Floor, San Francisco, CA 94104. We are the data controller of the personal information that we collect from you as described in this Privacy Policy.
+Fandom, Inc. is a company registered in the State of Delaware, U.S.A. (corporate number C2935209), with a registered office at 550 California Street, Suite 830 San Francisco, CA 94104. We are the data controller of the personal information that we collect from you as described in this Privacy Policy.
 
 This Privacy Policy applies to personal information processed by us in our business, including on our websites, mobile applications, and our related online and offline offerings (collectively, the “**Services**”). The Services include websites at fandom.com and wikia.org, and the respective subdomains thereof, and the mobile apps provided under the Fandom brand. The Services also include the websites at futhead.com, muthead.com and fanatical.com (and any related mobile applications).
 
@@ -432,7 +432,7 @@ If you have any questions about our privacy practices or this Privacy Policy, pl
 
 c/o Fandom, Inc.
 
-130 Sutter Street, 4th Floor
+550 California Street, Suite 830
 
 San Francisco, CA 94104
 
@@ -442,7 +442,7 @@ San Francisco, CA 94104
 
 If you have any complaints about our Services, please contact us at:
 
-**Address**: 130 Sutter Street, 4th Floor, San Francisco, CA 94104
+**Address**: 550 California Street, Suite 830 San Francisco, CA 94104
 
 **Email**: [support@fandom.com](mailto:support@fandom.com)
 
@@ -452,6 +452,7 @@ Last updated: July 1, 2023
 
 #### Previous Privacy Policy
 
+* [November 1, 2023](https://www.fandom.com/privacy-policy-previous-version-november-1-2023-november-16-2024)
 * [July 1, 2023](https://www.fandom.com/privacy-policy-previous-version-2-11-2023-6-30-2023)
 * [February 11, 2023](https://www.fandom.com/privacy-policy-previous-version-2-11-2023-6-30-2023)
 * [August 11, 2022](https://www.fandom.com/privacy-policy-previous-version-8-11-2022-2-11-2023)
