@@ -153,22 +153,25 @@
         US](https://www.parchment.com/privacy-policy/)
     * [![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
         
-        AU](https://www.parchment.com/en-au/)
+        AU](https://www.parchment.com/en-au/privacy-policy/)
     * [![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
         
-        CA](https://www.parchment.com/en-ca/)
+        CA](https://www.parchment.com/en-ca/privacy-policy/)
     * [![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
         
-        IE](https://www.parchment.com/en-ie/)
+        IE](https://www.parchment.com/en-ie/privacy-policy/)
+    * [![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+        
+        日本語](https://www.parchment.com/ja/)
     * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
         
-        NZ](https://www.parchment.com/en-nz/)
+        NZ](https://www.parchment.com/en-nz/privacy-policy/)
     * [![SEA flag](https://www.parchment.com/wp-content/uploads/flags/Flag_of_ASEAN.svg.png)
         
-        SEA](https://www.parchment.com/en-sea/)
+        SEA](https://www.parchment.com/en-sea/privacy-policy/)
     * [![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
         
-        UK](https://www.parchment.com/en-gb/)
+        UK](https://www.parchment.com/en-gb/privacy-policy/)
     
 
 Menu
@@ -740,27 +743,31 @@ Order & Status
     
 * ![AU flag](https://www.parchment.com/wp-content/uploads/flags/AU.png)
     
-    [AU](https://www.parchment.com/en-au/)
+    [AU](https://www.parchment.com/en-au/privacy-policy/)
     
 * ![CA flag](https://www.parchment.com/wp-content/uploads/flags/CA.png)
     
-    [CA](https://www.parchment.com/en-ca/)
+    [CA](https://www.parchment.com/en-ca/privacy-policy/)
     
 * ![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
     
-    [IE](https://www.parchment.com/en-ie/)
+    [IE](https://www.parchment.com/en-ie/privacy-policy/)
+    
+* ![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+    
+    [日本語](https://www.parchment.com/ja/)
     
 * ![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
     
-    [NZ](https://www.parchment.com/en-nz/)
+    [NZ](https://www.parchment.com/en-nz/privacy-policy/)
     
 * ![SEA flag](https://www.parchment.com/wp-content/uploads/flags/Flag_of_ASEAN.svg.png)
     
-    [SEA](https://www.parchment.com/en-sea/)
+    [SEA](https://www.parchment.com/en-sea/privacy-policy/)
     
 * ![UK flag](https://www.parchment.com/wp-content/uploads/flags/GB.png)
     
-    [UK](https://www.parchment.com/en-gb/)
+    [UK](https://www.parchment.com/en-gb/privacy-policy/)
     
 
 We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.  
@@ -910,3 +917,7 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 Save & Accept
 
 Powered by [![CookieYes Logo](https://www.parchment.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+
+     
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site. Switch to a production site key to [remove this banner](https://wpml.org/faq/how-to-remove-the-this-site-is-registered-on-wpml-org-as-a-development-site-notice/).
