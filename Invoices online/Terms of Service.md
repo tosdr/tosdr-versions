@@ -196,57 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Jannie Schutte - myFinance-Online.co.za
+Kobus Venter
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=200218721)  
-Goju Ryu Karate Centre
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=114994615)  
+Network Grey (Pty) Ltd
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=92653864)  
-Mountain Lion Properties
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=172470068)  
-Qothiphango Mining
-
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=2347492)  
-SMART GUY PCS (PTY) LTD
-
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=103914460)  
-Safe-Train Consulting (PTY) Ltd
-
-![valued client kidoscabbie](https://www.invoicesonline.co.za/scripts/image.php?bid=4488&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=29848334)  
-kidoscabbie
-
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=37551280)  
-Kara Medical (Pty) Ltd
-
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=14683813)  
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=73031768)  
 Highlands Auto Engineering
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=203092781)  
-Depot Diesel (Pty) Ltd
+![valued client SR Travel Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7537&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=130633307)  
+SR Travel Services
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=47455679)  
-Immediate Health (pty)ltd
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=197767449)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=87384144)  
-Nogana Events and Decor
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=209143930)  
+Electro-Heat
 
-![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=56718210)  
+![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=13339324)  
+Blue Sky Solar Services
+
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=44829846)  
+Cooper Power South Africa (Pty) LTD
+
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=22008599)  
+Sonic Electrical Services PTY Ltd
+
+![valued client All Trucking Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6370&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=108024979)  
+All Trucking Solutions
+
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=84711761)  
+TRACKFORCE (Pty) Ltd
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=100129680)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client Peter Salvage Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7407&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=187581950)  
 Peter Salvage Pty Ltd
 
-![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=168351352)  
-Stories (Pty) Ltd t/a Storietyd
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=197547605)  
+Goju-Ryu Pretoria East
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=134984988)  
-TIGERDSL
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=147501307)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=470238c1684cfb9c2440775c93291dde1e17919ffcdfc626f442403c840bf99b&c=181696286)  
-Dr V Naik Consult
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=167847142)  
+Camp 4 Africa (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
