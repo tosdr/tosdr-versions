@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/2500-block-west-touhy-Chicago-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-near-phillip-rogers-park-on-the-north-side.html "Man shot near Phillip Rogers Park on the North Side")
+
+West Rogers Park
+
+### [Man shot near Phillip Rogers Park on the North Side](https://cwbchicago.com/2024/11/man-shot-near-phillip-rogers-park-on-the-north-side.html "Man shot near Phillip Rogers Park on the North Side")
+
+[November 13, 2024 6:31 PM](https://cwbchicago.com/2024/11)
+
+A man was shot Wednesday afternoon near Phillip Rogers Park on the Far North Side.[](https://cwbchicago.com/2024/11/man-shot-near-phillip-rogers-park-on-the-north-side.html "Man shot near Phillip Rogers Park on the North Side")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Nicholas-Kaehler-326x245.jpg)](https://cwbchicago.com/2024/11/very-distinct-looking-individual-gets-12-years-for-carjacking-driver-in-lincoln-park.html "‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park")
+
+Lincoln Park
+
+### [‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park](https://cwbchicago.com/2024/11/very-distinct-looking-individual-gets-12-years-for-carjacking-driver-in-lincoln-park.html "‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park")
+
+[November 13, 2024 3:17 PM](https://cwbchicago.com/2024/11)
+
+“A very distinct-looking individual” has been handed a 12-year sentence for carjacking a man in Lincoln Park last year.[](https://cwbchicago.com/2024/11/very-distinct-looking-individual-gets-12-years-for-carjacking-driver-in-lincoln-park.html "‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/04/atm-326x245.jpg)](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
 
 Albany Park
@@ -252,26 +272,6 @@ Albany Park
 [November 13, 2024 12:53 PM](https://cwbchicago.com/2024/11)
 
 A man is posing as a security guard or service technician to rob people at ATMs on the North and Northwest Sides, according to Chicago police. He has struck at least six times since October 1, including three times this week.[](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Jasmine-Ross-326x245.jpg)](https://cwbchicago.com/2024/11/6-years-for-woman-who-beat-robbed-man-after-luring-him-into-car-outside-downtown-nightclub.html "6 years for woman who beat, robbed man after luring him into car outside downtown nightclub")
-
-Gold Coast
-
-### [6 years for woman who beat, robbed man after luring him into car outside downtown nightclub](https://cwbchicago.com/2024/11/6-years-for-woman-who-beat-robbed-man-after-luring-him-into-car-outside-downtown-nightclub.html "6 years for woman who beat, robbed man after luring him into car outside downtown nightclub")
-
-[November 13, 2024 10:02 AM](https://cwbchicago.com/2024/11)
-
-A Milwaukee woman, part of a group that officials said drugged, robbed, and sometimes beat men they met at downtown Chicago nightclubs, has been sentenced to six years in prison for her crimes.[](https://cwbchicago.com/2024/11/6-years-for-woman-who-beat-robbed-man-after-luring-him-into-car-outside-downtown-nightclub.html "6 years for woman who beat, robbed man after luring him into car outside downtown nightclub")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Marcell-Hale-326x245.jpg)](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
-
-Hermosa
-
-### [Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
-
-[November 12, 2024 5:59 PM](https://cwbchicago.com/2024/11)
-
-A 19-year-old man is charged with committing eight armed robberies within an hour while he was on electronic monitoring for six other felonies, including four more robberies.[](https://cwbchicago.com/2024/11/man-committed-8-armed-robberies-in-an-hour-while-wearing-an-ankle-monitor-for-4-other-armed-robberies-prosecutors.html "Man committed 8 armed robberies in an hour — while wearing an ankle monitor for 4 other armed robberies: prosecutors")
 
 Search
 
