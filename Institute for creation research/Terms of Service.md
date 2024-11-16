@@ -165,32 +165,6 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Editor's Column
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/HonoringPioneers.jpg)](https://www.icr.org/article/honoring-pioneers-of-creation)
-
-[Honoring Pioneers of Creation](https://www.icr.org/article/honoring-pioneers-of-creation/)
-
-It’s always fun to catch up with old friends. We recently asked some pioneers of the creation movement to share with us where they are in their...
-
-BY: [JAYME DURANT](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=215)
-
-[![](/i/articles/af/Main%20Stage%20-%201400x1050/mysterious_ways.jpg)](https://www.icr.org/article/god-mysterious-ways)
-
-[God's Mysterious Ways](https://www.icr.org/article/god-mysterious-ways/)
-
-Have you ever found yourself wondering what God was up to? When life took an unexpected turn, you may have gone through difficult circumstances. Or...
-
-BY: [JAYME DURANT](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=215)
-
-[![](/i/articles/af/great_expectations.jpg)](https://www.icr.org/article/great-expectations)
-
-[Great Expectations](https://www.icr.org/article/great-expectations/)
-
-In January, we often review our goals with great expectations for the year ahead. It helps to reflect on where we’ve been and how far we’ve...
-
-BY: [JAYME DURANT](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=215)
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
