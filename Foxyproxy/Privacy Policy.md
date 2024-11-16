@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great service, easy to use, fast installation and reliable. Will be using your service again.
+Very speedy response as always... Thanks for the great service/product.
 
-Randall Falkiner
+Tristan
