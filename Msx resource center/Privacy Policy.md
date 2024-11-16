@@ -150,9 +150,11 @@ Latest reactions
 
 Latest forum posts
 
+* [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
+* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=26 "MSXgl – A new C game library for MSX")
+* [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
 * [MSX1 what type fdd pcb it is?](https://www.msx.org/forum/msx-talk/hardware/msx1-what-type-fdd-pcb-it-is "MSX1 what type fdd pcb it is?")
-* [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function "VAR = CALL FUNCTION ?")
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
@@ -161,8 +163,6 @@ Latest forum posts
 * [Sony Hi-Brid](https://www.msx.org/forum/msx-talk/software-and-gaming/sony-hi-brid?page=1 "Sony Hi-Brid")
 * [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
 * [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
-* [Nikko made msx computer?](https://www.msx.org/forum/msx-talk/general-discussion/nikko-made-msx-computer?page=9 "Nikko made msx computer?")
-* [Kernel.tmp Mega-SCSI](https://www.msx.org/forum/msx-talk/software/kerneltmp-mega-scsi?page=1 "Kernel.tmp Mega-SCSI")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
