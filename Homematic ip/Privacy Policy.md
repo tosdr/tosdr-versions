@@ -323,6 +323,14 @@ Der neue Homematic IP Heizkörperthermostat – pure: der ideale Energiesparhelf
 
 [Nov.
 
+21-23
+
+Event
+
+BAUHAUS Rastatt: Faszination Smart-Home live erleben: im Roadshow-Truck in Ihrer Nähe.](https://homematic-ip.com/de/event/homematic-ip-roadshow-smart-home-live-erleben-2024-11-21-bauhaus-rastatt)
+
+[Nov.
+
 14-16
 
 Event
@@ -357,8 +365,6 @@ Pfadnavigation
 --------------
 
 1. [Home](https://homematic-ip.com/de)
-2. [Service](https://homematic-ip.com/de/service)
-3. Datenschutz (App)
 
 Datenschutzbestimmungen für die Homematic IP Smartphone App
 ===========================================================
