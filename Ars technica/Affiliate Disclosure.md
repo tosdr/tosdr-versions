@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
     
-4. 4. [Review: Amazon’s 2024 Kindle Paperwhite makes the best e-reader a little better](https://arstechnica.com/gadgets/2024/11/review-amazons-2024-kindle-paperwhite-makes-the-best-e-reader-a-little-better/)
+4. 4. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
     
-5. 5. [Six inane arguments about EVs and how to handle them at the dinner table](https://arstechnica.com/cars/2024/11/heres-how-to-survive-your-relatives-ignorant-anti-ev-rant-this-thanksgiving/)
+5. 5. [I played Half-Life 2 for the first time this year—here’s how it went](https://arstechnica.com/gaming/2024/11/i-played-half-life-2-for-the-first-time-this-year-heres-how-it-went/)
     
 
 Customize
