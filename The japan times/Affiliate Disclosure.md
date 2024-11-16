@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 16, 2024](https://www.japantimes.co.jp/archive/2024/11/16/ "archive page")
+[November 17, 2024](https://www.japantimes.co.jp/archive/2024/11/17/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,48 +131,42 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-  [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
-
-  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
 [British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
   [![Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.")](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
 
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
-  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Editors' Picks
 --------------
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan to ban employees from working for 14 consecutive days](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/13/433818.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "An expert committee convened by the health ministry has proposed introducing a limit on consecutive workdays.")](https://www.japantimes.co.jp/news/2024/11/13/japan/society/japan-limit-consecutive-workdays/ "Japan to ban employees from working for 14 consecutive days")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[China approaches record $1 trillion trade surplus to world’s ire](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
-  [![Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/12/433437.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Shipping containers are seen at the Port of Nanjing in eastern China's Jiangsu province on Oct. 17.")](https://www.japantimes.co.jp/business/2024/11/12/markets/china-trillion-trade-surplus/ "China approaches record $1 trillion trade surplus to world’s ire")
+By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
+
+  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -182,9 +176,17 @@ By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
-  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
+
+  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Podcast
 -------
@@ -205,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -247,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
+
+2 hours ago
+
 [Japan issues warning over bad-faith buyers in small business M&As](https://www.japantimes.co.jp/business/2024/11/16/companies/ma-bad-faith-buyer-warning/ "Japan issues warning over bad-faith buyers in small business M&As")
 
-1 hours ago
+8 hours ago
 
 [Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
 
-3 hours ago
+9 hours ago
 
 [Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day](https://www.japantimes.co.jp/news/2024/11/16/japan/nihon-hidankyo-crowdfunding-goal/ "Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day")
 
-3 hours ago
+9 hours ago
 
 [Tens of thousands flee as Super Typhoon Man-yi nears Philippines](https://www.japantimes.co.jp/news/2024/11/16/asia-pacific/super-typhoon-philippines/ "Tens of thousands flee as Super Typhoon Man-yi nears Philippines")
 
-4 hours ago
-
-[Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
-
-4 hours ago
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
