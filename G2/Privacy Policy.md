@@ -16,7 +16,7 @@
 G2 Privacy Policy
 =================
 
-_Last updated on July 26, 2024._
+_Last updated on November 15, 2024._
 
 This Privacy Policy describes our policies on the collection, use, and disclosure of information about you in connection with your use of our services, including those offered through the G2 website ([www.g2.com](http://www.g2.com/) and any subdomains) (“Site”) and communications (e.g., emails, phone calls, and texts) (collectively, “Service”). The terms “we”, “us”, “our” and “G2” refer to: (i) G2.com, Inc., a Delaware corporation with its headquarters in Chicago, Illinois. When you use the Service, you consent to our collection, use, and disclosure of information about you as described in this Privacy Policy, our [Terms of Use](https://www.g2.com/terms-of-use) and our [Community Guidelines](https://www.g2.com/static/community_guidelines).
 
@@ -75,27 +75,49 @@ We may use personal information as permitted by law, for the following business 
 
 * _To provide the Service and various functions of the Service._ When you create an account on the Site, we store and use the information you provide during that process. This may include your first and last name, email address, the company you work for, and any other information you may provide during the account creation process. We may, if you consent, publicly display your first name and last initial, as well as any other photo or content you supply as part of your account profile. We also store and use any preferences you provide to personalize your user experience, including the types of software services and products that you use. Any reviews or other content that you submit to the Site are intended for public display and are therefore viewable by the public, including but not limited to your first name and last initial, and photos associated with your account. You can limit the public nature of some of this information in your account settings.
     * _For this business purpose, we may use these categories of information:_ identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
+    * _We keep this information for_: account lifetime
+    * _Our legal basis is_: performance of a contract in provisioning you with an account; consent where you agree to make certain information publicly available.
 * _To fulfill any contact requests you make on the Site._ When you request additional information on a certain third-party service or product listed on the Site, we will use the information you provide to connect you with the provider of that service or product.
     * _For this business purpose, we may use these categories of information:_ identifiers, professional or employment information.
+    * _We keep this information for_: 60 days
+    * _Our legal basis is_: performance of a contract where you engage us to pass your contact information to a third party in whom you have expressed interest.
 
 * _To engage in research and analysis related to the Site._ We store and use information to identify and fix errors, understand how visitors use the Site, research and test different features, and analyze how visitors arrive at and use the Site.
     * _For this business purpose, we may use these categories of information:_ identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information, inferences, browser.
+    * _We keep this information for_: 1 year
+    * _Our legal basis is_: legitimate interest in understanding how users are engaging with our Site.
 * _To personalize your experience._ We store and use information provided by you, such as the software products and services you use or have used, or are researching on the Site, to personalize and make recommendations to you based on your provided information.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, browser.
+    * _We keep this information for_: account lifetime
+    * _Our legal basis is_: legitimate interest to provide you with a better G2 experience.
 * _To improve and understand usage of the Site._ We store and use information about your use of the Site, such as your search activity, pages viewed, and the date, time and duration of your visits, to understand and improve usage of the Site.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, professional or employment information.
+    * _We keep this information for_: 60 days
+    * _Our legal basis is_: legitimate interest to improve our Site and develop new products.
 * _To provide feedback to third party businesses that are listed on the Site._ We store and use information about you or provided by you to assist our business partners in understanding their potential customers or current users.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, audio and visual information, professional or employment information, inferences.
+    * _We keep this information for_: account lifetime
+    * _Our legal basis is_: legitimate interest to serve our paying customers.
 * _To enhance the security of the Service._ We store and use information to ensure the security of the Service. For example, we use the information collected by certain cookies to determine if you are logged in and to detect unauthorized access to your account.
     * _For this business purpose, we may use these categories of information_: identifiers, internet or other electronic network or device activity information, geolocation data.
+    * _We keep this information for_: 1 year
+    * _Our legal basis is_: legitimate interest to prevent fraud and other security incidents.
 * _To send you emails about G2's products and services._ We use your email address to send informational and marketing emails to you about new products and services, or updates to existing products or services. We may also contact you regarding feedback you provide us, or to learn more about your experience using the Site. Where appropriate, G2 will only do this with your consent.
     * _For this business purpose, we may use these categories of information_: identifiers, internet or other electronic network or device activity information, geolocation data.
-* _To serve you offsite advertisements, including targeted advertising._ We may serve advertisements for G2 products and services to you through our advertising partners, based on information you provide during your site visit. Where appropriate, G2 will only do this with your consent. To check your settings, please review your [cookie preferences](#).
+    * _We keep this information for_: account lifetime
+    * _Our legal basis is_: legitimate interest to share updates with you, or consent.
+* _To serve you offsite advertisements, including targeted advertising._ We may serve advertisements for G2 products and services to you through our advertising partners, based on information you provide during your site visit. Where appropriate, G2 will only do this with your consent. G2 does not consider that our use of targeted advertising is likely to result in decisions that produce legal or similarly significant effects concerning you, the consumer. To check your settings, please review your [cookie preferences](#).
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, professional or employment information, internet or other electronic network or device activity information, browser.
+    * _We keep this information for_: 6 months
+    * _Our legal basis is_: legitimate interest in serving you offsite advertisements that may be of interest to you.
 * _To comply with legal obligations._ We use and share your personal information as necessary to respond to subpoenas, court orders, or other legal process; we also may use and share your personal information to establish or exercise our legal rights, to defend against legal claims, or as otherwise required by law. We may use and share your personal information when we believe it is necessary to investigate, prevent, or take action regarding illegal or suspected illegal activities; to protect and defend the rights, property, or safety of G2, the Site visitors and registered users, our licensees, and others.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
+    * _We keep this information for_: 2 years after the expiration of appeals
+    * _Our legal basis is_: compliance with a legal obligation, where the legal obligation exists in the EU or UK; legitimate interest, where the legal obligation exists outside of the EU or UK.
 * _In connection with a corporate transaction._ We may use and share your personal information in connection with a corporate transaction, such as a divestiture, investment, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
     * _For this business purpose, we may use these categories of information_: identifiers, commercial information, internet or other electronic network or device activity information, geolocation data, audio and visual information, professional or employment information, inferences, sensitive personal information.
+    * _We keep this information for_: account lifetime
+    * _Our legal basis is_: legitimate interest in conducting a corporate transaction.
 
 #### How We Share Your Information with Others
 
@@ -164,25 +186,25 @@ Subject to certain limitations, the GDPR provides you the following privacy righ
 
 If you would like to submit a request to G2 to exercise your EU or UK privacy rights under the GDPR, you may do so either by submitting a request through our [privacy rights form](https://www.g2.com/privacy-request), or by emailing privacy \[at\] g2.com with your request.
 
-#### Legal Basis for Processing (EEA, Switzerland and United Kingdom only)
-
-Our legal basis for collecting and using your personal information will depend on the type of information and the context in which we collect it.
-
-However, we will normally collect personal information from you only in the following circumstances:
-
-* We have your express consent to do so;
-* We need the personal data to perform a contract with you; or
-* Processing is in our legitimate interests and is not overridden by your data protection interests or fundamental rights and freedoms.
-
-In some cases, we may also have a legal obligation to collect personal information from you to protect your vital interests or those of another person (for example, to prevent, investigate or identify possible wrongdoing in connection with the Site or to comply with legal obligations).
-
-If we ask you to provide personal information to comply with a legal requirement or to perform a contract with you, we will identify such basis for processing at the relevant time and let you know if the provision of your personal information is mandatory or not (as well as the possible consequences associated with not providing such information).
-
-If we collect and use your personal information in reliance on our legitimate interests (or those of any third party), this interest will typically be to operate the Site, communicate with you in relation to your account or the Site, to solicit information from you, including through surveys, to share aggregated information with providers of listed products or services and other licensees of our research and report offerings, to measure interest in and improve our offerings and Site, to engage in marketing activities, and to otherwise customize your experience with G2.
-
-If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us at privacy \[at\] g2.com.
-
 * * *
+
+US State Privacy Rights  
+Residents of the states of California, Virginia, Colorado, Connecticut, Utah, Texas & Oregon  are able to exercise the following rights, subject to certain limitations:
+
+  
+
+* The right to access your personal information, also known as the right to know, including in a portable and readily-usable format;
+* The right to delete your personal information;
+* The right to correct your personal information;
+* The right to opt out of sale or sharing of your personal data.  
+      
+    To exercise any of these rights, please visit our [privacy rights form](https://www.g2.com/privacy-request) or email privacy \[at\] g2.com with details of your request. Requests are typically completed within 45 days; if we require more time to complete your request, we will notify you of the need to extend. We will notify you if we decline your request for any reason. You can appeal this decision by contacting privacy \[at\] g2.com.  
+      
+    Residents of these states also have the right to opt out of the use of their data for targeted or cross-contextual behavioral advertising, and for profiling, which you may do by adjusting your [cookie preferences](#).  
+      
+    Please also see below for information specific to residents of certain states:  
+      
+    
 
 #### California Privacy Rights
 
@@ -222,47 +244,6 @@ Under Nevada law (SB 220), Nevada residents are permitted to opt-out of the sale
 
 * * *
 
-#### Virginia Privacy Rights
-
-If you are a resident of Virginia, this section provides information about your privacy rights under the Virginia Consumer Data Protection Act ("VCDPA").
-
-Subject to certain limitations, the VCDPA affords you the following rights:
-
-* To confirm whether we are processing your personal information, and to access that personal information;
-* To receive your personal information in a portable and readily usable format;
-* To correct inaccuracies in your personal information;
-* To delete your personal information;
-* To opt out of the processing of your personal information for targeted advertising, sale to third parties, or profiling where there is a legal or similarly significant effect on you.
-
-You may exercise the rights to access, correct, delete or opt out of sale by visiting our self-service [privacy rights form.](https://www.g2.com/privacy-request) To opt out of targeted advertising, please adjust your [cookie preferences](#). You can also email privacy \[at\] g2.com for assistance with exercising your rights.
-
-If G2 declines your request for any reason, we will notify you. You can appeal this decision by contacting privacy \[at\] g2.com.
-
-Please note that G2 does not collect your sensitive personal information as defined by VCDPA.
-
-* * *
-
-#### Colorado Privacy Rights
-
-If you are a resident of Colorado, this section provides information about your privacy rights under the Colorado Privacy Act ("CPA").
-
-Subject to certain limitations, the CPA affords you the following rights:
-
-* The right to opt out of targeted advertising, which you can do by adjusting your [cookie preferences](#);
-* The right of access to the personal information we hold about you;
-* The right to correction of any inaccurate data we hold about you;
-* The right to deletion of your personal information;
-* The right to opt out of the sale of your personal data; and
-* The right to data portability, that is to access your personal information in a commonly used electronic format.
-
-You may exercise these rights by visiting our self-service [privacy rights form](https://www.g2.com/privacy-request). You can also email privacy \[at\] g2.com for assistance with exercising your rights.
-
-If G2 declines your request for any reason, we will notify you. You can appeal this decision by contacting privacy \[at\] g2.com.
-
-Please note that G2 does not collect your sensitive personal information as defined by CPA.
-
-* * *
-
 #### Connecticut Privacy Rights
 
 If you are a resident of Connecticut, this section provides information about your privacy rights under the Connecticut Data Privacy Act ("CTDPA").
@@ -297,17 +278,17 @@ We will provide an individual opt-out or opt-in choice before we share your data
 
 G2.com, Inc., including G2 subsidiaries Advocately, Inc. and Siftery, LLC comply with the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce.  G2 has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF.  G2 has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework program Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern.  To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit the [Data Privacy Framework website](https://www.dataprivacyframework.gov/).
 
-In compliance with the EU-US Data Privacy Framework Principles, G2 commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles.  European Union, Swiss and United Kingdom individuals with DPF inquiries or complaints should first contact G2 at privacy \[at\] g2.com.
+In compliance with the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) principles, G2 commits to resolve complaints about your privacy and our collection or use of your personal information transferred to the United States pursuant to the DPF Principles.  European Union, Swiss and United Kingdom individuals with DPF inquiries or complaints should first contact G2 at privacy \[at\] g2.com.
 
-G2 has further committed to refer unresolved privacy complaints under the DPF Principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the [BBB website](https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers) for more information and to file a complaint. This service is provided free of charge to you.
+G2 has further committed to refer unresolved privacy complaints under the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) principles to an independent dispute resolution mechanism, Data Privacy Framework Services, operated by BBB National Programs. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit the [BBB website](https://bbbprograms.org/programs/all-programs/dpf-consumers/ProcessForConsumers) for more information and to file a complaint. This service is provided free of charge to you.
 
-If your  DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke [binding arbitration](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2) for some residual claims not resolved by other redress mechanisms. With respect to personal data received or transferred pursuant to the Data Privacy Framework.
+If your DPF complaint cannot be resolved through the above channels, under certain conditions, you may invoke [binding arbitration](https://www.dataprivacyframework.gov/s/article/G-Arbitration-Procedures-dpf?tabset-35584=2) for some residual claims not resolved by other redress mechanisms. With respect to personal data received or transferred pursuant to the Data Privacy Framework.
 
-With respect to personal data received or transferred pursuant to the Data Privacy Framework, the Federal Trade Commission has jurisdiction over G2’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+G2.com, Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC) respect to personal data received or transferred pursuant to the Data Privacy Framework, the Federal Trade Commission has jurisdiction over G2’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
 
-Pursuant to the Data Privacy Framework, G2 may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+Pursuant to the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) principles, G2 may be required to disclose personal information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-G2’s accountability for personal data that it receives in the United States under the Data Privacy Framework and subsequent onward transfers to a third party is described in the Data Privacy Framework Principles. In particular, G2 remains responsible and liable under the Data Privacy Framework Principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, except where G2 is not responsible for the events giving rise to the damage.
+G2’s accountability for personal data that it receives in the United States under the Data Privacy Framework and subsequent onward transfers to a third party is described in the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) principles. In particular, G2 remains responsible and liable under the EU-U.S. Data Privacy Framework program (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework program (Swiss-U.S. DPF) principles if third-party agents that it engages to process the personal data on its behalf do so in a manner inconsistent with the Principles, except where G2 is not responsible for the events giving rise to the damage.
 
 8\. Security
 ------------
