@@ -397,7 +397,7 @@ FR
         
         $25 for every $10,000](https://www.rakuten.ca/all-purposerealty.com)[Best Buy
         
-        1% Cash Back](https://www.rakuten.ca/best-buy)
+        up to 2% Cash Back](https://www.rakuten.ca/best-buy)
         
         Featured Shops & Deals
         
@@ -692,11 +692,7 @@ All rights reserved.
 
  ![](//static.rakuten.ca/static/img/footer_close.svg) ![](//static.rakuten.ca/static/img/footer_open.svg)
 
-[![Earn 2% Cash Back from Rakuten.ca with Under Armour Canada Coupons, Promo Codes](//static.rakuten.ca/img/campaign_entity/302082/en-stickyfooter-1170x60_ua-1.png "Under Armour Canada Coupons, Promo Codes")
-
-2% Cash Back
-
-Shop Now](https://www.rakuten.ca/ticket/campaign/sticky-footer-base-1/store/under-armour-canada?sourceName=stickyfooter1)
+[![](//static.rakuten.ca/img/campaign_entity/258100/en_stickyfooter-1170x60_new_stores.png)](https://www.rakuten.ca/new-stores)
 
 × ![Rakuten White Logo](//static.rakuten.ca/static/images/logo/logo_Rakuten_white.svg)
 
