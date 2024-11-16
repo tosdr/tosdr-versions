@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Hackers Wanted](/wp-content/thumbnails/6679-100x70.png?x53432)
+* [![The Cat Connection](/wp-content/thumbnails/6557-100x70.png?x53432)
     
-    Hackers Wanted
+    The Cat Connection
     
-    This film both follows the hacking adventures of famous hacker Adrian Lamo, and uses them as a microcosm for the macrocosm of struggles faced by emerging trends of thought – from the criminal to the p](https://documentaryheaven.com/hackers-wanted/ "Hackers Wanted")
-* [![Killer in the Woods](/wp-content/thumbnails/13159-100x70.png?x53432)
+    The secret life of the cat, examining the Jekyll and Hyde nature of the feline, which is a ruthless predator in the wild.Filmed in several countries, the programme explains what place the creature h](https://documentaryheaven.com/the-cat-connection/ "The Cat Connection")
+* [![Smell & Taste: The Human Senses](/wp-content/thumbnails/1885-100x70.jpg?x53432)
     
-    Killer in the Woods
+    Smell & Taste: The Human Senses
     
-    This is the story of one mans obsessive desire to control and even kill women, throughout his life John Taylor repeatedly found himself being drawn to woods, it was here that he would quietly watch an](https://documentaryheaven.com/killer-in-woods/ "Killer in the Woods")
-* [![Earth – The Climate Wars PT 3/3](/wp-content/thumbnails/243-100x70.png?x53432)
+    Nearly everyone has experienced a moment when a faint fragrance brings a memory of a long-lost moment in time crashing back to the forefront of their minds.Often we will have forgotten about the event](https://documentaryheaven.com/smell-taste-the-human-senses/ "Smell & Taste: The Human Senses")
+* [![Karachi: Pakistan’s Most Violent City](/wp-content/thumbnails/6604-100x70.jpg?x53432)
     
-    Earth – The Climate Wars PT 3/3
+    Karachi: Pakistan’s Most Violent City
     
-    PART THREE - New ChallengesHaving explained the science behind global warming, and addressed the arguments of the climate change sceptics earlier in the series, in this third and final part Dr Iain](https://documentaryheaven.com/earth-the-climate-wars-pt-33/ "Earth – The Climate Wars PT 3/3")
-* [![Floyd Mayweather](/wp-content/thumbnails/8332-100x70.jpeg?x53432)
+    "Sure, we hear about violence in Pakistan all the time, but in 2011, more than three times as many people were killed in Karachi than the number of people killed in American drone strikes in the triba](https://documentaryheaven.com/karachi-pakistans-most-violent-city/ "Karachi: Pakistan’s Most Violent City")
+* [![Henry VII: Winter King](/wp-content/thumbnails/8057-100x70.jpg?x53432)
     
-    Floyd Mayweather
+    Henry VII: Winter King
     
-    Floyd Mayweather Jr. is an American professional boxer currently residing in Las Vegas, Nevada. He is well known for never having been beaten as a professional and is described as a money making machi](https://documentaryheaven.com/floyd-mayweather/ "Floyd Mayweather")
-* [![Witness: Tornado Swarm 2011](/wp-content/thumbnails/12041-100x70.jpg?x53432)
+    Author Thomas Penn takes an extraordinary journey into the dark and chilling world of the first Tudor, Henry VII. From his victory over Richard III at the Battle of Bosworth, to his secret death and t](https://documentaryheaven.com/henry-vii-winter-king/ "Henry VII: Winter King")
+* [![Educating Black Boys](/wp-content/thumbnails/6953-100x70.jpg?x53432)
     
-    Witness: Tornado Swarm 2011
+    Educating Black Boys
     
-    In April of 2011 the United States experienced a month of extraordinary violent tornado's, it was the deadliest recorded in modern times. Stretching from Oklahoma to North Carolina over 600 tornados w](https://documentaryheaven.com/witness-tornado-swarm-2011/ "Witness: Tornado Swarm 2011")
+    Tony Harris takes a personal look at Baltimore’s inner city and an education system that has failed black Americans.Baltimore, Maryland has come to be known as ‘Charm City’ because of its harbor,](https://documentaryheaven.com/educating-black-boys/ "Educating Black Boys")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
