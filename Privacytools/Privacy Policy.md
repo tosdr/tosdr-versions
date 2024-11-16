@@ -214,16 +214,16 @@ Encryption is the technique of translating data from one form to another so that
 
 Privacy tools listed on this page are all open-source unless marked otherwise: [Criteria](https://www.privacytools.io/#criteria).
 
-Have your Data Deleted Today
-----------------------------
+Buy and Swap Cryptocurrency Anonymously
+---------------------------------------
 
-![](https://www.privacytools.io/img/apps/incogni-com.png)
+![](https://www.privacytools.io/img/apps/stealthex.png)
 
-##### [Incogni: Get your personal data deleted and off the market](https://www.privacytools.io/go/incogni.com)
+##### [StealthEX: Supports Privacy Cryptocurrencies](https://www.privacytools.io/go/stealthex.io)
 
-Easy Set up Fast Web
+No KYC required Bitcoin Monero
 
-Hundreds of companies are collecting, aggregating and trading your personal data without you knowing anything about it. **Incogni removes them for you.** Available for US, UK, Canada, Switzerland, and EU residents only. 30-day money-back guarantee. Cancel anytime. Read our [Incogni review](https://www.privacytools.io/incogni-review). **50% off for a limited time**: [Sign up now](https://www.privacytools.io/go/incogni.com).
+No registration or account needed. 450+ coins and tokens are available for quick and easy exchanges. Data privacy and security is a top priority for StealthEX, all swaps are non-custodial.
 
 * * *
 
