@@ -16,6 +16,7 @@
 * [Days Out](https://www.theautismpage.com/category/days-out/)
 * [Blog](https://www.theautismpage.com/blog/)
 * [Shop](https://www.theautismpage.com/the-autism-page-shop/)
+* [Christmas](https://www.theautismpage.com/category/christmas/)
 * [](https://twitter.com/theautismpage "Twitter")[](https://www.instagram.com/theautismpages/ "Instagram")[](https://www.pinterest.co.uk/7132e76dcee920ef06cffd82d81649/aboutasd/ "Pinterest")[](https://www.facebook.com/theautismpages/ "Facebook")[](mailto:Jade@theautismpage.com "Email")
 * 
 
