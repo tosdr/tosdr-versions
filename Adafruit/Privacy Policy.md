@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If I have seen further it is by standing on the shoulders of giants”
+“ Prepare for what is difficult when it is easy”
 
-[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
+[Lao Tzu](https://en.wikipedia.org/wiki/Laozi)
 
 [](https://www.adafruit.com/about)
 
