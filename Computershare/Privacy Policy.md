@@ -254,7 +254,7 @@ Computershare may change this Privacy Statement from time to time. Each time you
 
 Computershare Inc. (inclusive of its Computershare Fund Services division)  
 Computershare Trust Company, N.A.  
-Computershare Governance Services Inc.
+Computershare Entity Solutions
 
 _Effective January 17, 2020_  
 _Revised July 15, 2024_
