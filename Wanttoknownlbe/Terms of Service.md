@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/voeding-en-fysieke-degeneratie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/suiker-is-vergif/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
