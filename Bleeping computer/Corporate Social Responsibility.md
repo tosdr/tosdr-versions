@@ -36,18 +36,18 @@
         
         New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
     
+    * [![T-Mobile confirms it was hacked in recent wave of telecom breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        T-Mobile confirms it was hacked in recent wave of telecom breaches](https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
+    * [![GitHub projects targeted with malicious commits to frame researcher](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        GitHub projects targeted with malicious commits to frame researcher](https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
+    * [![Advance your cybersecurity knowledge for just $29.97 in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Advance your cybersecurity knowledge for just $29.97 in this course deal](https://www.bleepingcomputer.com/offer/deals/advance-your-cybersecurity-knowledge-for-just-2997-in-this-course-deal/)
     * [![NSO Group used another WhatsApp zero-day after being sued, court docs say](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         NSO Group used another WhatsApp zero-day after being sued, court docs say](https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/)
-    * [![Botnet exploits GeoVision zero-day to install Mirai malware](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Botnet exploits GeoVision zero-day to install Mirai malware](https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/)
-    * [![FTC reports 50% drop in unwanted call complaints since 2021](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        FTC reports 50% drop in unwanted call complaints since 2021](https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/)
-    * [![Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://www.bleepingcomputer.com/news/security/bitfinex-hacker-gets-5-years-in-prison-for-120-000-bitcoin-heist/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
