@@ -228,11 +228,11 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want the rest of the Farking story? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Come for the Total, stay for the Farking.
+More threads. More community. More Farking.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Scientists reveal that Cthulhu and his minions will rule the Earth when all humans have killed themselves](https://www.fark.com/goto/13464406) ( [metro.co.uk](https://www.fark.com/goto/13464406) ) » [(16 comments)](https://www.fark.com/comments/13464406/Scientists-reveal-that-Cthulhu-his-minions-will-rule-Earth-when-all-humans-have-killed-themselves) |
-| [Discussion](https://www.fark.com/discussion/) | [Video games, literature, shopping, and animation are all on the Fark Weird News Quiz, Nov 8-14 Egg roll edition](https://www.fark.com/goto/13464482) ( [fark.com](https://www.fark.com/goto/13464482) ) » [(7 comments)](https://www.fark.com/comments/13464482/Video-games-literature-shopping-animation-are-all-on-Fark-Weird-News-Quiz-Nov-8-14-Egg-roll-edition) |
-| [Sports](https://www.fark.com/sports/) | [Good news, everybody. If there's an interception during any NFL game on a Sunday, you'll get six free boneless wings with a $10 purchase the next day. Fark: But you have to go to Applebee's](https://www.fark.com/goto/13464464) ( [wtop.com](https://www.fark.com/goto/13464464) ) » [(5 comments)](https://www.fark.com/comments/13464464/Good-news-everybody-If-theres-an-interception-during-any-NFL-game-on-a-Sunday-youll-get-six-free-boneless-wings-with-a-$10-purchase-next-day-Fark-But-you-have-to-go-to-Applebees) |
-| [Business](https://www.fark.com/business/) | [Facebook will now use 'views' to measure how content is performing. Hope this headline gets a lot of views](https://www.fark.com/goto/13464334) ( [theverge.com](https://www.fark.com/goto/13464334) ) » [(3 comments)](https://www.fark.com/comments/13464334/Facebook-will-now-use-views-to-measure-how-content-is-performing-Hope-this-headline-gets-a-lot-of-views) |
-| [STEM](https://www.fark.com/stem/) | [Zombie fungus: villain on TV, hero in the lab](https://www.fark.com/goto/13464126) ( [metro.co.uk](https://www.fark.com/goto/13464126) ) » [(0 comments)](https://www.fark.com/comments/13464126/Zombie-fungus-villain-on-TV-hero-in-lab) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Glastonbury tickets sell out in 32 minutes](https://www.fark.com/goto/13464296) ( [nme.com](https://www.fark.com/goto/13464296) ) » [(3 comments)](https://www.fark.com/comments/13464296/Glastonbury-tickets-sell-out-in-32-minutes) |
-| [Fandom](https://www.fark.com/fandom/) | [111 incredible beach discoveries, including a sandcastle the waves respected for 20 whole minutes](https://www.fark.com/goto/13464124) ( [boredpanda.com](https://www.fark.com/goto/13464124) ) » [(3 comments)](https://www.fark.com/comments/13464124/-111-incredible-beach-discoveries-including-a-sandcastle-waves-respected-for-20-whole-minutes) |
-| [D'awww](https://www.fark.com/dawww/) | [Pool's closed. Cow inside shoulda told ya](https://www.fark.com/goto/13463988) ( [dailymail.co.uk](https://www.fark.com/goto/13463988) ) » [(6 comments)](https://www.fark.com/comments/13463988/Pools-closed-Cow-inside-shoulda-told-ya) |
-| [Food](https://www.fark.com/food/) | [How to fix your pie crust. This implies there could be flaws in a pie - which is pretty unpossible](https://www.fark.com/goto/13464132) ( [foodandwine.com](https://www.fark.com/goto/13464132) ) » [(8 comments)](https://www.fark.com/comments/13464132/How-to-fix-your-pie-crust-This-implies-there-could-be-flaws-in-a-pie-which-is-pretty-unpossible) |
-| [Politics](https://www.fark.com/politics/) | [Oklahoma's new class: How to mix the Bible, the Constitution, and a little Trump branding](https://www.fark.com/goto/13464454) ( [dailyboulder.com](https://www.fark.com/goto/13464454) ) » [(23 comments)](https://www.fark.com/comments/13464454/Oklahomas-new-class-How-to-mix-Bible-Constitution-a-little-Trump-branding) |
+| [Main](https://www.fark.com/) | [Photoshop this odd bathhouse statue](https://www.fark.com/goto/13460708) ( [dims.apnews.com](https://www.fark.com/goto/13460708) ) » [(14 comments)](https://www.fark.com/comments/13460708/Photoshop-this-odd-bathhouse-statue) |
+| [Discussion](https://www.fark.com/discussion/) | [Week 12 of college football gives us four Friday Night games. Wyoming-Colorado State starts things off at 8:00 PM ET on CBSSN, North Texas-UTSA also at 8:00 on ESPN2, UCLA-Washington at 9:00 PM on FOX, and finally Houston-Arizona at 10:15 PM on FS1](https://www.fark.com/goto/13463784) ( [espn.com](https://www.fark.com/goto/13463784) ) » [(3 comments)](https://www.fark.com/comments/13463784/Week-12-of-college-football-gives-us-four-Friday-Night-games-Wyoming-Colorado-State-starts-things-off-at-800-PM-ET-on-CBSSN-North-Texas-UTSA-also-at-800-on-ESPN2-UCLA-Washington-at-900-PM-on-FOX-finally-Houston-Arizona-at-1015-PM-on-FS1) |
+| [Sports](https://www.fark.com/sports/) | [Week 12 of college football gives us four Friday Night games. Wyoming-Colorado State starts things off at 8:00 PM ET on CBSSN, North Texas-UTSA also at 8:00 on ESPN2, UCLA-Washington at 9:00 PM on FOX, and finally Houston-Arizona at 10:15 PM on FS1](https://www.fark.com/goto/13463784) ( [espn.com](https://www.fark.com/goto/13463784) ) » [(3 comments)](https://www.fark.com/comments/13463784/Week-12-of-college-football-gives-us-four-Friday-Night-games-Wyoming-Colorado-State-starts-things-off-at-800-PM-ET-on-CBSSN-North-Texas-UTSA-also-at-800-on-ESPN2-UCLA-Washington-at-900-PM-on-FOX-finally-Houston-Arizona-at-1015-PM-on-FS1) |
+| [Business](https://www.fark.com/business/) | [Always remember that when filing your income tax, the money you embezzled is taxable in the year you embezzle it. See you in four and half years](https://www.fark.com/goto/13464484) ( [cbc.ca](https://www.fark.com/goto/13464484) ) » [(8 comments)](https://www.fark.com/comments/13464484/Always-remember-that-when-filing-your-income-tax-money-you-embezzled-is-taxable-in-year-you-embezzle-it-See-you-in-four-half-years) |
+| [STEM](https://www.fark.com/stem/) | [Microsoft Exchange update fixes security flaws, breaks other stuff, is pretty much 100% on-brand](https://www.fark.com/goto/13464048) ( [theregister.com](https://www.fark.com/goto/13464048) ) » [(4 comments)](https://www.fark.com/comments/13464048/Microsoft-Exchange-update-fixes-security-flaws-breaks-other-stuff-is-pretty-much-100-on-brand) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Glastonbury tickets sell out in 32 minutes](https://www.fark.com/goto/13464296) ( [nme.com](https://www.fark.com/goto/13464296) ) » [(12 comments)](https://www.fark.com/comments/13464296/Glastonbury-tickets-sell-out-in-32-minutes) |
+| [Fandom](https://www.fark.com/fandom/) | [Smuggler caught with hundreds of tarantulas and centipedes strapped to his body. Your seasonal skin-crawling nightmare fuel quota has been properly filled](https://www.fark.com/goto/13464098) ( [bbc.com](https://www.fark.com/goto/13464098) ) » [(14 comments)](https://www.fark.com/comments/13464098/Smuggler-caught-with-hundreds-of-tarantulas-centipedes-strapped-to-his-body-Your-seasonal-skin-crawling-nightmare-fuel-quota-has-been-properly-filled) |
+| [D'awww](https://www.fark.com/dawww/) | [The top ten "Far Side" comics that still resonate with cat lovers today](https://www.fark.com/goto/13463462) ( [screenrant.com](https://www.fark.com/goto/13463462) ) » [(14 comments)](https://www.fark.com/comments/13463462/The-top-ten-Far-Side-comics-that-still-resonate-with-cat-lovers-today) |
+| [Food](https://www.fark.com/food/) | [How to fix your pie crust. This implies there could be flaws in a pie - which is pretty unpossible](https://www.fark.com/goto/13464132) ( [foodandwine.com](https://www.fark.com/goto/13464132) ) » [(21 comments)](https://www.fark.com/comments/13464132/How-to-fix-your-pie-crust-This-implies-there-could-be-flaws-in-a-pie-which-is-pretty-unpossible) |
+| [Politics](https://www.fark.com/politics/) | [Best Korea to mass produce self-detonating explosive drones. So, RC missiles?](https://www.fark.com/goto/13464074) ( [cnn.com](https://www.fark.com/goto/13464074) ) » [(14 comments)](https://www.fark.com/comments/13464074/Best-Korea-to-mass-produce-self-detonating-explosive-drones-So-RC-missiles) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 15 2024 14:43:29  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 15 2024 20:42:50  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
