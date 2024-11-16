@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Heirs of Icarus | OoC | Closed (101)](https://forum.nationstates.net/viewtopic.php?t=558264&f=31&view=unread#unread ""Heirs of Icarus | OoC | Closed" (101 posts)")
-* [What rights specifically will Donald… (181)](https://forum.nationstates.net/viewtopic.php?t=558263&f=20&view=unread#unread ""What rights specifically will Donald Trump Take Away?" (181 posts)")
-* [\[DRAFT\] Regulating Astronautical Proc… (14)](https://forum.nationstates.net/viewtopic.php?t=557351&f=9&view=unread#unread ""[DRAFT] Regulating Astronautical Procedures" (14 posts)")
-* [What is the last movie you've seen? P… (6,419)](https://forum.nationstates.net/viewtopic.php?t=346244&f=19&view=unread#unread ""What is the last movie you've seen? Part 2" (6,419 posts)")
-* [What do you think of when you see the… (9,654)](https://forum.nationstates.net/viewtopic.php?t=527620&f=25&view=unread#unread ""What do you think of when you see the AN's flag? V" (9,654 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,871)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,871 posts)")
+* [The "the boggest place on earth" Ques… (8)](https://forum.nationstates.net/viewtopic.php?t=558345&f=23&view=unread#unread ""The "the boggest place on earth" Question y Answer" (8 posts)")
+* [Come up with a funny rip off name for… (519)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (519 posts)")
+* [What is your relationship with AU? II (3,201)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (3,201 posts)")
+* [Kytlerian domestic sports portal \[clo… (45)](https://forum.nationstates.net/viewtopic.php?t=543066&f=7&view=unread#unread ""Kytlerian domestic sports portal [closed]" (45 posts)")
 
 Advertisement
 
