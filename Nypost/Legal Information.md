@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Murdered nursing student Laken Riley's horrifying 911 call played in court — leaving her mom in a flood of tears](https://nypost.com/2024/11/15/us-news/murdered-nursing-student-laken-rileys-horrifying-911-call-played-in-court-leaving-her-mom-in-a-flood-of-tears/)
+[Trump to name campaign spokeswoman as White House press secretary](https://nypost.com/2024/11/15/us-news/trump-to-name-campaign-spokeswoman-karoline-leavitt-as-white-house-press-secretary/)
 
 Privacy Notice Highlights
 =========================
