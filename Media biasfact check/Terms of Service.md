@@ -67,11 +67,11 @@
 
 MBFC News
 
+* [November 16, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 10th – Nov 16th](https://mediabiasfactcheck.com/2024/11/16/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-10th-nov-16th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 10th – Nov 16th")
+* [November 16, 2024 | MBFC’s Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/16/mbfcs-daily-vetted-fact-checks-for-11-16-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)")
 * [November 15, 2024 | Media News Daily: Top Stories for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/media-news-daily-top-stories-for-11-15-2024/ "Media News Daily: Top Stories for 11/15/2024")
 * [November 15, 2024 | MBFC’s Daily Vetted Fact Checks for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/mbfcs-daily-vetted-fact-checks-for-11-15-2024/ "MBFC’s Daily Vetted Fact Checks for 11/15/2024")
 * [November 14, 2024 | Media News Daily: Top Stories for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/media-news-daily-top-stories-for-11-14-2024/ "Media News Daily: Top Stories for 11/14/2024")
-* [November 14, 2024 | MBFC’s Daily Vetted Fact Checks for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/mbfcs-daily-vetted-fact-checks-for-11-14-2024/ "MBFC’s Daily Vetted Fact Checks for 11/14/2024")
-* [November 13, 2024 | Media News Daily: Top Stories for 11/13/2024](https://mediabiasfactcheck.com/2024/11/13/media-news-daily-top-stories-for-11-12-2024-2/ "Media News Daily: Top Stories for 11/13/2024")
 
 Search for:  
 
@@ -145,6 +145,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Shape Magazine – Bias and Credibility](https://mediabiasfactcheck.com/shape-magazine-bias-and-credibility/)
+    
+    November 16, 2024
+    
+* [London World – Bias and Credibility](https://mediabiasfactcheck.com/london-world-bias/)
+    
+    November 16, 2024
+    
 * [San Francisco Standard – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-standard-bias-and-credibility/)
     
     November 15, 2024
@@ -169,17 +177,17 @@ No related posts.
     
     November 14, 2024
     
-* [Scoop – Bias and Credibility](https://mediabiasfactcheck.com/scoop-bias-and-credibility/)
-    
-    November 14, 2024
-    
-* [Annual Review of Organizational Psychology – Bias and Credibility](https://mediabiasfactcheck.com/annual-review-of-organizational-psychology-bias/)
-    
-    November 14, 2024
-    
 
 #### Recently Updated Pages
 
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 16, 2024
+    
+* [Shape Magazine – Bias and Credibility](https://mediabiasfactcheck.com/shape-magazine-bias-and-credibility/ "View Shape Magazine – Bias and Credibility") - November 16, 2024
+    
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 16, 2024
+    
+* [London World – Bias and Credibility](https://mediabiasfactcheck.com/london-world-bias/ "View London World – Bias and Credibility") - November 16, 2024
+    
 * [The National Pulse – Bias and Credibility](https://mediabiasfactcheck.com/the-national-pulse/ "View The National Pulse – Bias and Credibility") - November 15, 2024
     
 * [Fox Business – Bias and Credibility](https://mediabiasfactcheck.com/fox-business/ "View Fox Business – Bias and Credibility") - November 15, 2024
@@ -191,14 +199,6 @@ No related posts.
 * [Vice Media – Bias and Credibility](https://mediabiasfactcheck.com/vice-news/ "View Vice Media – Bias and Credibility") - November 15, 2024
     
 * [Euronews – Bias and Credibility](https://mediabiasfactcheck.com/euronews/ "View Euronews – Bias and Credibility") - November 15, 2024
-    
-* [TFPP Wire – Bias and Credibility](https://mediabiasfactcheck.com/tfpp-wire-bias/ "View TFPP Wire – Bias and Credibility") - November 15, 2024
-    
-* [Hoover Institution – Bias and Credibility](https://mediabiasfactcheck.com/hoover-institution/ "View Hoover Institution – Bias and Credibility") - November 15, 2024
-    
-* [Just Facts – Bias and Credibility](https://mediabiasfactcheck.com/just-facts/ "View Just Facts – Bias and Credibility") - November 15, 2024
-    
-* [270toWin – Bias and Credibility](https://mediabiasfactcheck.com/270towin-bias-and-credibility/ "View 270toWin – Bias and Credibility") - November 15, 2024
     
 
 #### Today’s Top Page Views
