@@ -56,10 +56,6 @@ Connexion
     * [Nos livres de cuisine avec](https://www.marmiton.org/recettes/les-livres-de-cuisine-marmiton-tp192022.html)
 
 * [Mieux manger](https://www.marmiton.org/mieux-cuisiner/mieux-manger-tp125264.html)
-* [![100% Fromages
-    ](https://assets.afcdn.com/recipe/20241016/154733_origin.png)
-    
-    100% Fromages](https://www.marmiton.org/focus-ingredient/cent-pour-cent-fromage-tp121946.html)
 * [![Noël gourmand
     ](https://assets.afcdn.com/recipe/20241104/155539_origin.png)
     
