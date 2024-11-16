@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_2.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,9 @@
 
 Сейчас читают
 
-* [Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636)
+* [Бутерброды с красной рыбой, яичной намазкой и лимоном](https://www.russianfood.com/recipes/recipe.php?rid=165306)
+* [Паштет из куриной печени с клюквенным желе](https://www.russianfood.com/recipes/recipe.php?rid=164029)
+* [Курица, запечённая с грибами и черносливом](https://www.russianfood.com/recipes/recipe.php?rid=169653)
 
 |     |
 | --- |
@@ -170,6 +172,20 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Аккуратная, ароматная, на вкус невероятная. Лучшая ВЫПЕЧКА №24-46](https://www.russianfood.com/reading/?post_id=22883) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723095.jpg)](https://www.russianfood.com/reading/?post_id=22883)
+
+Заливной пирог с грибами. Манник с яблоками. Слоёные корзинки с шоколадным фланом. Пицца с грибами и грушей. Клафути с брокколи и брюссельской капустой. Пирог с виноградом и цедрой. Лимонное печенье "Трещинки".
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22883)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22883#comments) | 16.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -267,7 +283,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174563#comments) | 14.11.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174563#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -367,20 +383,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22874#comments) | 14.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Печём ароматную вкуснотищу! Лучшие рецепты ПИРОГОВ (68)](https://www.russianfood.com/reading/?post_id=22873) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/697/sm_696784.jpg)](https://www.russianfood.com/reading/?post_id=22873)
-
-Тёртый пирог со сметанной начинкой. Закусочный пирог из лаваша с колбасой. Ленивые финские блины. Плетёнка с клюквой и сыром. Медовые маффины со сливами и маком.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22873)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22873#comments) | 14.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -470,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(303)
+(125)
