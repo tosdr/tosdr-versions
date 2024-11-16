@@ -79,27 +79,27 @@ Latest commented posts
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/73025/)
+[](https://yiff-party.com/yiff/shiranai-created-by-riska-artist/)
 
-[#73025](https://yiff-party.com/yiff/73025/)
+[shiranai created by riska (artist)](https://yiff-party.com/yiff/shiranai-created-by-riska-artist/)
 
 0 2 0
 
 November 16, 2024
 
-[](https://yiff-party.com/yiff/loona-instant-loss-2koma-and-etc-created-by-lezaki-thefatlizard/)
+[](https://yiff-party.com/yiff/loona-directed-by-owlfucker/)
 
-[loona (instant loss 2koma and etc) created by lezaki-thefatlizard](https://yiff-party.com/yiff/loona-instant-loss-2koma-and-etc-created-by-lezaki-thefatlizard/)
+[loona directed by owlfucker](https://yiff-party.com/yiff/loona-directed-by-owlfucker/)
 
-0 224 0
+0 149 0
 
 October 17, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-corsetlover69-12/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-niibun/)
 
-[directed by corsetlover69](https://yiff-party.com/yiff-ai-premium/directed-by-corsetlover69-12/)
+[nintendo and etc created by niibun](https://yiff-party.com/yiff/nintendo-and-etc-created-by-niibun/)
 
-0 47 0
+0 86 0
 
 October 17, 2024
 
