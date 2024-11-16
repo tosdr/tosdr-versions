@@ -28,7 +28,7 @@ Edited
 
 7 forks
 
-16 stars
+17 stars
 
 ### One platform to build and deploy the best data apps
 
