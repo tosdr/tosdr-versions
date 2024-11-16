@@ -117,61 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
 > 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Terri Winfield
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=188994938)  
-TechnoDezi PTY(LTD)
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=96183920)  
+Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=208879547)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=85031166)  
+VS Auto Spares and Repairs (Pty) LTD
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=204409584)  
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=191944373)  
+INVOICES/JOBCARDS ONLINE
+
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=171230561)  
 Lion Software Develepment
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=144919250)  
-TRACKFORCE (Pty) Ltd
+![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=43152756)  
+Durbanville Classifieds (Pty) Ltd
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=30666238)  
-Roekeloos Group
-
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=188415523)  
-AFS Electrical
-
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=101860613)  
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=131179262)  
 Bchange Online CC
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=74813096)  
-Firstweb Hosting & Design
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=6763876)  
+Well Hung Art
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=198591790)  
-IEMS (PTY) ltd
+![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=197101000)  
+MONSTER CONNECT (PTY) LTD
 
-![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=99614394)  
-Moulded Wax SA - The Candle Store
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=31761331)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=15331012)  
-Beyond Laser CNC Cutting Technology South Africa CC
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=49471063)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=172022917)  
-#DiGi3 Marketing & Design
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=31641900)  
+Oak Tree Immigration
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=109885484)  
-Sophia's Roses
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=26792637)  
+Leef in Afrikaans
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=60259780)  
-Baby Toddles Infant Care
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=144760614)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=83081317)  
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=203250443)  
 Myfinance-Online
+
+![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=85016416)  
+Abandoned Vehicle and Truck Solutions
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
