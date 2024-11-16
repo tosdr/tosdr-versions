@@ -158,72 +158,72 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [8 Takeaways From the First Week of UN Climate Talks](https://www.theepochtimes.com/world/8-takeaways-from-the-first-week-of-un-climate-talks-5760297)
+    
+    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![8 Takeaways From the First Week of UN Climate Talks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![8 Takeaways From the First Week of UN Climate Talks](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760342-YOB-205x123.jpg.webp)](https://www.theepochtimes.com/world/8-takeaways-from-the-first-week-of-un-climate-talks-5760297)
 * [Oklahoma Purchases More Than 500 Bibles for Classrooms](https://www.theepochtimes.com/us/oklahoma-purchases-more-than-500-bibles-for-classrooms-5760757)
     
-    NEW By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Oklahoma Purchases More Than 500 Bibles for Classrooms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Oklahoma Purchases More Than 500 Bibles for Classrooms](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676732-SCC-5_JF_07212023KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/oklahoma-purchases-more-than-500-bibles-for-classrooms-5760757)
 * [Hundreds of New UFO Sightings Reported to Pentagon](https://www.theepochtimes.com/science/hundreds-of-new-ufo-sightings-reported-to-pentagon-5760797)
     
-    NEW By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    7hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
     [![Hundreds of New UFO Sightings Reported to Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hundreds of New UFO Sightings Reported to Pentagon](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760807-UFO-205x123.jpg.webp)](https://www.theepochtimes.com/science/hundreds-of-new-ufo-sightings-reported-to-pentagon-5760797)
 * [Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://www.theepochtimes.com/us/federal-appeals-court-allows-most-louisiana-school-districts-to-follow-ten-commandments-poster-law-5760717)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://img.theepochtimes.com/assets/uploads/2024/06/23/id5673994-Ten-Commandments-AP24171685450881-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-allows-most-louisiana-school-districts-to-follow-ten-commandments-poster-law-5760717)
 * [Here’s Why Counting Ballots Takes Longer in California](https://www.theepochtimes.com/us/heres-why-counting-ballots-takes-longer-in-california-5760045)
     
-    2hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
+    8hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
     
     [![Here’s Why Counting Ballots Takes Longer in California](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Here’s Why Counting Ballots Takes Longer in California](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758321-Voters-California-3-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-why-counting-ballots-takes-longer-in-california-5760045)
 * [Medical Examiner Testifies in Daniel Penny Trial That Chokehold Caused Death](https://www.theepochtimes.com/us/medical-examiner-testifies-in-daniel-penny-trial-that-chokehold-caused-death-5760638)
     
-    4hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
+    10hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
     
     [![Medical Examiner Testifies in Daniel Penny Trial That Chokehold Caused Death](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Medical Examiner Testifies in Daniel Penny Trial That Chokehold Caused Death](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760750-Daniel-PennyKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/medical-examiner-testifies-in-daniel-penny-trial-that-chokehold-caused-death-5760638)
 * [Trump Names Karoline Leavitt as White House Press Secretary](https://www.theepochtimes.com/us/trump-names-karoline-leavitt-as-white-house-press-secretary-5760736)
     
-    4hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Trump Names Karoline Leavitt as White House Press Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Names Karoline Leavitt as White House Press Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760794-karoline-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-karoline-leavitt-as-white-house-press-secretary-5760736)
 * [Venezuelan Gang Operating in ‘Every Major City’ in Tennessee, State Officials Say](https://www.theepochtimes.com/us/venezuelan-gang-operating-in-every-major-city-in-tennessee-state-officials-say-5760623)
     
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    10hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
     [![Venezuelan Gang Operating in ‘Every Major City’ in Tennessee, State Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Venezuelan Gang Operating in ‘Every Major City’ in Tennessee, State Officials Say](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760748-Chattanooga-police-GettyImages-481809466-e1653867602806KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/venezuelan-gang-operating-in-every-major-city-in-tennessee-state-officials-say-5760623)
 * [Mastermind of Foiled 2019 Hong Kong Bomb Plot Is Jailed for Nearly 24 Years](https://www.theepochtimes.com/china/mastermind-of-foiled-2019-hong-kong-bomb-plot-is-jailed-for-nearly-24-years-5759731)
     
-    4hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    10hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
     [![Mastermind of Foiled 2019 Hong Kong Bomb Plot Is Jailed for Nearly 24 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Mastermind of Foiled 2019 Hong Kong Bomb Plot Is Jailed for Nearly 24 Years](https://img.theepochtimes.com/assets/uploads/2022/06/29/resist-tyranny-july-1-march-hong-kong-1200x800-205x123.jpg.webp)](https://www.theepochtimes.com/china/mastermind-of-foiled-2019-hong-kong-bomb-plot-is-jailed-for-nearly-24-years-5759731)
-* [The New York Times to Attack Shen Yun Performing Arts Again](https://www.theepochtimes.com/article/the-new-york-times-to-attack-shen-yun-performing-arts-again-5760672)
-    
-    4hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
-    
-    [![The New York Times to Attack Shen Yun Performing Arts Again](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![The New York Times to Attack Shen Yun Performing Arts Again](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760676-outside-205x123.jpg.webp)](https://www.theepochtimes.com/article/the-new-york-times-to-attack-shen-yun-performing-arts-again-5760672)
 * [Murder Trial Begins for Illegal Immigrant Accused of Killing Laken Riley](https://www.theepochtimes.com/us/judge-hears-opening-statements-on-illegal-immigrants-alleged-killing-of-georgia-nursing-student-5760462)
     
-    4hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
+    10hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
     
     [![Murder Trial Begins for Illegal Immigrant Accused of Killing Laken Riley](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
