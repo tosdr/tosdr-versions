@@ -8,6 +8,12 @@
 
 * [GAMES](https://player.me/gaming/)
     
+    * [PC Games](https://player.me/category/gaming/pc-games/)
+    * [Playstation](https://player.me/category/gaming/playstation/)
+    * [Xbox](https://player.me/category/gaming/xbox/)
+    * [Nintendo](https://player.me/category/gaming/nintendo/)
+    * [Mobile Games](https://player.me/category/gaming/mobile-games/)
+    
     ### Platforms:
     
     [PC Games](https://player.me/category/gaming/pc-games/)  
@@ -47,6 +53,12 @@
 * [NEWS](https://player.me/category/news/)
 
 * [GAMES](https://player.me/gaming/)
+    
+    * [PC Games](https://player.me/category/gaming/pc-games/)
+    * [Playstation](https://player.me/category/gaming/playstation/)
+    * [Xbox](https://player.me/category/gaming/xbox/)
+    * [Nintendo](https://player.me/category/gaming/nintendo/)
+    * [Mobile Games](https://player.me/category/gaming/mobile-games/)
     
     ### Platforms:
     
@@ -868,7 +880,7 @@ November 12, 2024
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 581,007 times, 262 visit(s) today
+Visited 581,071 times, 10 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
