@@ -268,13 +268,6 @@ Major Ireland snow update with one area pinpointed for 30cm within days
 [Major Ireland snow update with one area pinpointed for 30cm within days](https://www.derrynow.com/news/national-news/1656703/major-ireland-snow-update-with-one-area-pinpointed-for-30cm-within-days.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Friday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Friday")](https://www.derrynow.com/news/deaths/1656146/derry-death-notices-friday-november-15-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Friday, November 15, 2024](https://www.derrynow.com/news/deaths/1656146/derry-death-notices-friday-november-15-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack")](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -342,6 +335,15 @@ Craigbane face an Ulster Junior Championship semi-final against Drumhowan this w
 
 [“We've not won anything yet” - Craigbane manager Kevin Moore](https://www.derrynow.com/news/derry-sport/1655687/we-ve-not-won-anything-yet-craigbane-manager-kevin-moore.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry singer JOSIE with her debut single  ‘Run Little Girl’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
+
+Derry singer JOSIE with her debut single ‘Run Little Girl’
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+['It is never to late to follow your dreams' as Derry singer-songwriter releases debut single](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -525,6 +527,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
@@ -532,7 +541,7 @@ Advertise with Us
 [Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry singer JOSIE with her debut single  ‘Run Little Girl’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
+[![Derry singer JOSIE with her debut single  ‘Run Little Girl’](https://www.derrynow.com/resizer/165/93/true/2024_11_15/Josie-1731684520737.PNG--.PNG?1731684520788 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
 
 Derry singer JOSIE with her debut single ‘Run Little Girl’
 
@@ -567,15 +576,6 @@ Derry branch of the Salvation Army on Carlisle Road
 
 [The Salvation Army has begun their Family Appeal for Christmas](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/resizer/165/93/true/2024_04_04/Derry-courthouse.jpg--derry_courthouse-1712223605087.jpg--.jpg?1712223605116 "Derry man shot by police while brandishing two knives jailed")](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
