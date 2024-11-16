@@ -1,6 +1,6 @@
- [### ![](/images/promobar/cc-badge-white.svg) 100 Most Popular Courses for November
+ [### ![](/images/promobar/deal.svg) Black Friday 2024: 25+ Ways to Save on Online Learning
 
-View](https://www.classcentral.com/report/most-popular-november-2024/)
+View](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
 
 Close
 
@@ -416,36 +416,36 @@ Most common
 
 1. python
     
-2. c
+2. marketing
     
-3. cyber security
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Computer Networking
+1. [Communication Skills
     
-    1,728 courses](https://www.classcentral.com/subject/computer-networking)
-2. [Project Management
+    4,196 courses](https://www.classcentral.com/subject/communication-skills)
+2. [Data Analysis
     
-    4,160 courses](https://www.classcentral.com/subject/project-management)
-3. [Psychology
+    8,726 courses](https://www.classcentral.com/subject/data-analysis)
+3. [Graphic Design
     
-    2,670 courses](https://www.classcentral.com/subject/psychology)
+    4,324 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [Monitoring Volcanoes and Magma Movements
+1. [Chinese for Beginners
     
-    University of Iceland](https://www.classcentral.com/course/volcanoes-the-university-of-iceland-monitoring-vo-13227)
-2. [Arab-Islamic History: From Tribes to Empires
+    Peking University](https://www.classcentral.com/course/hy-2353)
+2. [Paleontology: Theropod Dinosaurs and the Origin of Birds
     
-    Tel Aviv University](https://www.classcentral.com/course/humanities-tel-aviv-university-arab-islamic-histo-9365)
-3. [ODS en la Agenda 2030 de las Naciones Unidas: Retos de los Objetivos de Desarrollo Sostenible
+    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
+3. [How to Succeed at: Interviews
     
-    Universitat Politècnica de València](https://www.classcentral.com/course/sustainable-development-universitat-politecnica-d-9740)
+    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
