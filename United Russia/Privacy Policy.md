@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![Джон Лафленд (Великобритания - профессор Оксфордского университета и Университета Парижа, директор НКО «Международный Форум за демократию»): Все мы здесь стремимся избежать однополярности мира](https://cdn.er.ru/media/news/November2024/KbHM7rI49hjNajAmiKCc-small.jpg)](https://er.ru/activity/news/dzhon-laflend-velikobritaniya-professor-oksfordskogo-universiteta-i-universiteta-parizha-direktor-nko-mezhdunarodnyj-forum-za-demokratiyu-vse-my-zdes-stremimsya-izbezhat-odnopolyarnosti-mira)
+[![«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://cdn.er.ru/media/news/November2024/IbB4bUsxfkIL6u4eA7n7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
 
-[Джон Лафленд (Великобритания - профессор Оксфордского университета и Университета Парижа, директор НКО «Международный Форум за демократию»): Все мы здесь стремимся избежать однополярности мира](https://er.ru/activity/news/dzhon-laflend-velikobritaniya-professor-oksfordskogo-universiteta-i-universiteta-parizha-direktor-nko-mezhdunarodnyj-forum-za-demokratiyu-vse-my-zdes-stremimsya-izbezhat-odnopolyarnosti-mira)
+[«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
 
-[#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872)
+[#Сербия](https://er.ru/activity/news?tags%5B0%5D=3058) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#БРИКС+](https://er.ru/activity/news?tags%5B0%5D=1095905) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
 
-Сегодня 12:55
+Сегодня 18:12
 
-[![Константин Косачёв: Россия подключает к диалогу все заинтересованные страны](https://cdn.er.ru/media/news/November2024/PjjQSyF0bBnv2Hddje9n-small.jpg)](https://er.ru/activity/news/konstantin-kosachyov-rossiya-podklyuchaet-k-dialogu-vse-zainteresovannye-strany)
+[![«Единая Россия», «Молодая Гвардия» и Всероссийская федерация самбо проведут в 2025 году в Москве массовую тренировку по самбо](https://cdn.er.ru/media/news/November2024/hwmXrzFXfsRnYsnGnX09-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-molodaya-gvardiya-i-vserossijskaya-federaciya-sambo-provedut-v-2025-godu-v-moskve-massovuyu-trenirovku-po-sambo)
 
-[Константин Косачёв: Россия подключает к диалогу все заинтересованные страны](https://er.ru/activity/news/konstantin-kosachyov-rossiya-podklyuchaet-k-dialogu-vse-zainteresovannye-strany)
+[«Единая Россия», «Молодая Гвардия» и Всероссийская федерация самбо проведут в 2025 году в Москве массовую тренировку по самбо](https://er.ru/activity/news/edinaya-rossiya-molodaya-gvardiya-i-vserossijskaya-federaciya-sambo-provedut-v-2025-godu-v-moskve-massovuyu-trenirovku-po-sambo)
 
-[#Косачев](https://er.ru/activity/news?tags%5B0%5D=595) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
+[#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#тренировка](https://er.ru/activity/news?tags%5B0%5D=2478)
 
-Сегодня 12:34
+Сегодня 17:58
 
-[![Александр фон Бисмарк (Германия - общественный деятель, основатель российско-германского проекта «Диалог Бисмарка»): Санкции в отношении России навредили Восточной Европе](https://cdn.er.ru/media/news/November2024/De4bRHVT38r8YZv55kxn-small.jpg)](https://er.ru/activity/news/aleksandr-fon-bismark-germaniya-obshestvennyj-deyatel-osnovatel-rossijsko-germanskogo-proekta-dialog-bismarka-sankcii-v-otnoshenii-rossii-navredili-vostochnoj-evrope)
+[![Владимир Якушев отметил практики партстроительства и реализации народной программы «Единой России» в Башкирии](https://cdn.er.ru/media/news/November2024/ETvdrCH4PdbiKkHCzEzS-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-otmetil-praktiki-partstroitelstva-i-realizacii-narodnoj-programmy-edinoj-rossii-v-bashkirii)
 
-[Александр фон Бисмарк (Германия - общественный деятель, основатель российско-германского проекта «Диалог Бисмарка»): Санкции в отношении России навредили Восточной Европе](https://er.ru/activity/news/aleksandr-fon-bismark-germaniya-obshestvennyj-deyatel-osnovatel-rossijsko-germanskogo-proekta-dialog-bismarka-sankcii-v-otnoshenii-rossii-navredili-vostochnoj-evrope)
+[Владимир Якушев отметил практики партстроительства и реализации народной программы «Единой России» в Башкирии](https://er.ru/activity/news/vladimir-yakushev-otmetil-praktiki-partstroitelstva-i-realizacii-narodnoj-programmy-edinoj-rossii-v-bashkirii)
 
-[#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#Германия](https://er.ru/activity/news?tags%5B0%5D=2024) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=140172) [#региональнаяконференция](https://er.ru/activity/news?tags%5B0%5D=109190) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 11:55
+Сегодня 17:41
 
-[![Андрей Климов: Симпозиум стран БРИКС и Европы в Сочи направлен на поиск путей взаимодействия по ряду направлений](https://cdn.er.ru/media/news/November2024/Rb2vltSoVx3r9cp33jt3-small.jpg)](https://er.ru/activity/news/andrej-klimov-simpozium-stran-briks-i-evropy-v-sochi-napravlen-na-poisk-putej-vzaimodejstviya-po-ryadu-napravlenij)
+[![Юрий Станкевич: Участники симпозиума стран БРИКС и Европы продемонстрировали осознанность в диалоге с Россией](https://cdn.er.ru/media/news/November2024/xuoGO9YDq5HUzDMzxuJo-small.JPG)](https://er.ru/activity/news/yurij-stankevich-uchastniki-simpoziuma-stran-briks-i-evropy-prodemonstrirovali-osoznannost-v-dialoge-s-rossiej)
 
-[Андрей Климов: Симпозиум стран БРИКС и Европы в Сочи направлен на поиск путей взаимодействия по ряду направлений](https://er.ru/activity/news/andrej-klimov-simpozium-stran-briks-i-evropy-v-sochi-napravlen-na-poisk-putej-vzaimodejstviya-po-ryadu-napravlenij)
+[Юрий Станкевич: Участники симпозиума стран БРИКС и Европы продемонстрировали осознанность в диалоге с Россией](https://er.ru/activity/news/yurij-stankevich-uchastniki-simpoziuma-stran-briks-i-evropy-prodemonstrirovali-osoznannost-v-dialoge-s-rossiej)
 
-[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#Евросоюз](https://er.ru/activity/news?tags%5B0%5D=29) [#Европарламент](https://er.ru/activity/news?tags%5B0%5D=1648)
+[#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#Европа](https://er.ru/activity/news?tags%5B0%5D=99)
 
-Сегодня 11:32
+Сегодня 17:30
 
-[![При поддержке «Единой России» в Москве определили победителей VII Большого Детского фестиваля](https://cdn.er.ru/media/news/November2024/ud3hN1OK4myIMDd3aBYL-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-moskve-opredelili-pobeditelej-vii-bolshogo-detskogo-festivalya)
+[![Владимир Якушев: «Единая Россия» отправила из Башкирии помощь в 10 воинских подразделений в зоне СВО](https://cdn.er.ru/media/news/November2024/VGDj7poTQ8fFh0cEiwkG-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-otpravila-iz-bashkirii-pomosh-v-10-voinskih-podrazdelenij-v-zone-svo)
 
-[При поддержке «Единой России» в Москве определили победителей VII Большого Детского фестиваля](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-moskve-opredelili-pobeditelej-vii-bolshogo-detskogo-festivalya)
+[Владимир Якушев: «Единая Россия» отправила из Башкирии помощь в 10 воинских подразделений в зоне СВО](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-otpravila-iz-bashkirii-pomosh-v-10-voinskih-podrazdelenij-v-zone-svo)
 
-[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Безруков](https://er.ru/activity/news?tags%5B0%5D=23287) [#театр](https://er.ru/activity/news?tags%5B0%5D=949) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#КультурамалойРодины](https://er.ru/activity/news?tags%5B0%5D=1091565) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#БольшойДетскийФестиваль](https://er.ru/activity/news?tags%5B0%5D=1093399)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гумконвой](https://er.ru/activity/news?tags%5B0%5D=96196) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 11:06
+Сегодня 17:04
 
-[![При содействии «Единой России» в Сочи открылся международный симпозиум «Роль государства, науки и общества в развитии социально-экономического сотрудничества между БРИКС+ и европейскими странами и организациями»](https://cdn.er.ru/media/news/November2024/iZShII2tSWBk5V1AF2pN-small.jpg)](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-sochi-otkrylsya-mezhdunarodnyj-simpozium-rol-gosudarstva-nauki-i-obshestva-v-razvitii-socialno-ekonomicheskogo-sotrudnichestva-mezhdu-briks-i-evropejskimi-stranami-i-organizaciyami)
+[![«Единая Россия» предлагает сделать самбо обязательным уроком физкультуры](https://cdn.er.ru/media/news/November2024/CnfE9DdWOhy730ct88le-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-predlagaet-sdelat-sambo-obyazatelnym-urokom-fizkultury)
 
-[При содействии «Единой России» в Сочи открылся международный симпозиум «Роль государства, науки и общества в развитии социально-экономического сотрудничества между БРИКС+ и европейскими странами и организациями»](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-sochi-otkrylsya-mezhdunarodnyj-simpozium-rol-gosudarstva-nauki-i-obshestva-v-razvitii-socialno-ekonomicheskogo-sotrudnichestva-mezhdu-briks-i-evropejskimi-stranami-i-organizaciyami)
+[«Единая Россия» предлагает сделать самбо обязательным уроком физкультуры](https://er.ru/activity/news/edinaya-rossiya-predlagaet-sdelat-sambo-obyazatelnym-urokom-fizkultury)
 
-[#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#БРИКС+](https://er.ru/activity/news?tags%5B0%5D=1095905) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Европа](https://er.ru/activity/news?tags%5B0%5D=99)
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=76970) [#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#форум](https://er.ru/activity/news?tags%5B0%5D=19)
 
-Сегодня 10:32
+Сегодня 16:13
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
