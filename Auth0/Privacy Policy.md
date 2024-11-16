@@ -93,7 +93,6 @@ United States
             * [Okta Integration Network](https://www.okta.com/okta-integration-network/ "Okta Integration Network")
             * [For Small Businesses (SMBs)](https://www.okta.com/small-business/ "For Small Businesses (SMBs)")
             * [Customer Success Stories](https://www.okta.com/customers/ "Customer Success Stories")
-            * [Okta Advantage](https://www.okta.com/okta-advantage/ "Okta Advantage")
             * [Secure Identity Commitment](https://www.okta.com/secure-identity-commitment/ "Secure Identity Commitment")
             * [Trust](https://trust.okta.com/?_ga=2.172244323.1131952190.1694551039-2108337227.1682701839&_gl=1%2Aww0l7q%2A_ga%2AMjEwODMzNzIyNy4xNjgyNzAxODM5%2A_ga_QKMSDV5369%2AMTY5NDU1MTAzOS4zOC4xLjE2OTQ1NTE3ODEuNjAuMC4w "Trust")
             
