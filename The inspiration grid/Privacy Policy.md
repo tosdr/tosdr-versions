@@ -193,6 +193,14 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 
 ### More articles
 
+![](https://inspgr.id/app/uploads/2024/11/top-eyewear-designs-feature.jpg)
+
+[Fashion & Beauty](https://theinspirationgrid.com/category/fashion-2/)[Industrial Design](https://theinspirationgrid.com/category/industrial-design/)
+
+[](https://theinspirationgrid.com/editorial/top-eyewear-designs-inspired-by-retro-trends/)
+
+### Top Eyewear Designs Inspired by Retro Trends
+
 ![](https://inspgr.id/app/uploads/2024/11/early-black-friday-2024.jpg)
 
 [Art](https://theinspirationgrid.com/category/art/)[Gaming](https://theinspirationgrid.com/category/gaming/)
@@ -216,14 +224,6 @@ Some of our posts may contain affiliate links to partner brands. We earn a small
 [](https://theinspirationgrid.com/editorial/ayaneo-3-revealed-featuring-ai-powered-performance-and-an-oled-display/)
 
 ### AYANEO 3 revealed, featuring AI-powered performance and an OLED display
-
-![](https://inspgr.id/app/uploads/2024/11/review-skull-and-co-gripcase-feature.jpg)
-
-[Gaming](https://theinspirationgrid.com/category/gaming/)[Product Design](https://theinspirationgrid.com/category/product-design/)
-
-[](https://theinspirationgrid.com/editorial/skull-co-rog-ally-x-gripcase-review-a-sleek-budget-friendly-case/)
-
-### Skull & Co ROG Ally X GripCase Review: A Sleek, Budget-Friendly Case
 
 #want
 -----
