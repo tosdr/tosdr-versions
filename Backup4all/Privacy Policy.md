@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to NetApp](https://www.backup4all.com/how-to-backup-your-data-to-netapp-kb.html)  
+* [How to back up data files from SwiftStack usi ...](https://www.backup4all.com/how-to-back-up-data-files-from-swiftstack-using-backup4all-kb.html)  
     
-* [FTP backup using proxy server](https://www.backup4all.com/ftp-backup-using-proxy-server-kb.html)  
+* [Backup demo](https://www.backup4all.com/backup-demo-kb.html)  
     
-* [How to backup your data to Dunkel](https://www.backup4all.com/how-to-backup-your-data-to-dunkel-kb.html)  
+* [How to back up data files from Tiscali using ...](https://www.backup4all.com/how-to-back-up-data-files-from-tiscali-using-backup4all-kb.html)  
     
-* [How to backup your data to Caringo Swarm](https://www.backup4all.com/how-to-backup-your-data-to-caringo-swarm-kb.html)  
+* [How to back up files from Google Cloud Storag ...](https://www.backup4all.com/how-to-back-up-files-from-google-cloud-storage-with-backup4all-kb.html)  
     
-* [How to schedule all jobs?](https://www.backup4all.com/how-to-schedule-all-groups-kb.html)  
+* [Backup strategy: scheduled daily differential ...](https://www.backup4all.com/backup-strategy-scheduled-daily-differential-backups-and-weekly-full-backups-kb.html)  
     
 
 Choose language:
