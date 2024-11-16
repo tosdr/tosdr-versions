@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Cat Connection](/wp-content/thumbnails/6557-100x70.png?x53432)
+* [![Rise and Fall of Silver Islet](/wp-content/thumbnails/11749-100x70.jpg?x53432)
     
-    The Cat Connection
+    Rise and Fall of Silver Islet
     
-    The secret life of the cat, examining the Jekyll and Hyde nature of the feline, which is a ruthless predator in the wild.Filmed in several countries, the programme explains what place the creature h](https://documentaryheaven.com/the-cat-connection/ "The Cat Connection")
-* [![Smell & Taste: The Human Senses](/wp-content/thumbnails/1885-100x70.jpg?x53432)
+    In 1868 Canada as a nation was one year old and for the most part a relatively untouched land dominated by a harsh and lonely wilderness, The North Shore of Lake Superior was one such area and in that](https://documentaryheaven.com/rise-fall-of-silver-islet/ "Rise and Fall of Silver Islet")
+* [![The Unspeakable Crime: Rape](/wp-content/thumbnails/9160-100x70.jpg?x53432)
     
-    Smell & Taste: The Human Senses
+    The Unspeakable Crime: Rape
     
-    Nearly everyone has experienced a moment when a faint fragrance brings a memory of a long-lost moment in time crashing back to the forefront of their minds.Often we will have forgotten about the event](https://documentaryheaven.com/smell-taste-the-human-senses/ "Smell & Taste: The Human Senses")
-* [![Karachi: Pakistan’s Most Violent City](/wp-content/thumbnails/6604-100x70.jpg?x53432)
+    Somebody gets raped every 6 minutes in Britain, with a shocking statistic such as this, this documentary by the BBC sets about exploring rape in a new way, unseen on television before this film examin](https://documentaryheaven.com/unspeakable-crime-rape/ "The Unspeakable Crime: Rape")
+* [![The Original 50 Cent](/wp-content/thumbnails/8393-100x70.jpg?x53432)
     
-    Karachi: Pakistan’s Most Violent City
+    The Original 50 Cent
     
-    "Sure, we hear about violence in Pakistan all the time, but in 2011, more than three times as many people were killed in Karachi than the number of people killed in American drone strikes in the triba](https://documentaryheaven.com/karachi-pakistans-most-violent-city/ "Karachi: Pakistan’s Most Violent City")
-* [![Henry VII: Winter King](/wp-content/thumbnails/8057-100x70.jpg?x53432)
+    This is the true life story of Kelvin "50 Cent" Martian the street legend who inspired the biggest name in rap, the original 50 Cent. The original 50 Cent was said to have terrorized the streets of Fo](https://documentaryheaven.com/original-50-cent/ "The Original 50 Cent")
+* [![WWII in HD EP5/10](/wp-content/thumbnails/4666-100x70.jpg?x53432)
     
-    Henry VII: Winter King
+    WWII in HD EP5/10
     
-    Author Thomas Penn takes an extraordinary journey into the dark and chilling world of the first Tudor, Henry VII. From his victory over Richard III at the Battle of Bosworth, to his secret death and t](https://documentaryheaven.com/henry-vii-winter-king/ "Henry VII: Winter King")
-* [![Educating Black Boys](/wp-content/thumbnails/6953-100x70.jpg?x53432)
+    Episode 5: Day of Days The Allies are bogged down in Normandy’s hedgerows in the aftermath of D-Day, while on Saipan, victory turns to horror.](https://documentaryheaven.com/wwii-in-hd-ep5/ "WWII in HD EP5/10")
+* [![The Joy of the Bee Gees](/wp-content/thumbnails/9827-100x70.jpg?x53432)
     
-    Educating Black Boys
+    The Joy of the Bee Gees
     
-    Tony Harris takes a personal look at Baltimore’s inner city and an education system that has failed black Americans.Baltimore, Maryland has come to be known as ‘Charm City’ because of its harbor,](https://documentaryheaven.com/educating-black-boys/ "Educating Black Boys")
+    The Bee Gees, their more than a flourish of stilettos, their not just teeth, tans and tight trousers. There is so much more to the Bee Gees than just Saturday Night Fever and office parties. Look](https://documentaryheaven.com/joy-of-bee-gees/ "The Joy of the Bee Gees")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
