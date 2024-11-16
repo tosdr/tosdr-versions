@@ -29,7 +29,7 @@ Get Directions
 
 [Back to Menu](#)
 
-[Furniture](https://www.thebrick.com/collections/furniture) [Living Room](https://www.thebrick.com/collections/furniture-living-room) [Bedroom](https://www.thebrick.com/collections/furniture-bedroom) [Dining Room](https://www.thebrick.com/collections/furniture-dining-room) [Entry & Mudroom](https://www.thebrick.com/collections/furniture-entry-mudroom) [Office](https://www.thebrick.com/collections/furniture-home-office) [Kids](https://www.thebrick.com/collections/furniture-kids) [Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Brands](#)
+[Furniture](https://www.thebrick.com/collections/furniture) [Living Room](https://www.thebrick.com/collections/furniture-living-room) [Bedroom](https://www.thebrick.com/collections/furniture-bedroom) [Dining Room](https://www.thebrick.com/collections/furniture-dining-room) [Entry & Mudroom](https://www.thebrick.com/collections/furniture-entry-mudroom) [Office](https://www.thebrick.com/collections/furniture-home-office) [Gaming](https://www.thebrick.com/collections/furniture-gaming) [Kids](https://www.thebrick.com/collections/furniture-kids) [Outdoor and Patio](https://www.thebrick.com/pages/seasonal-outdoor-furniture) [Brands](#)
 
 [Back to Furniture](#)
 
@@ -50,6 +50,10 @@ Get Directions
 [Back to Furniture](#)
 
 [Office](https://www.thebrick.com/collections/furniture-home-office) [Desks](https://www.thebrick.com/collections/furniture-home-office-desks) [Chairs](https://www.thebrick.com/collections/furniture-home-office-office-chairs) [Bookcases](https://www.thebrick.com/collections/furniture-home-office-bookcases-and-office-storage) [Cabinets](https://www.thebrick.com/collections/furniture-home-office-filing-cabinets) [Monitors](https://www.thebrick.com/collections/electronics-monitors)
+
+[Back to Furniture](#)
+
+[Gaming](https://www.thebrick.com/collections/furniture-gaming) [Gaming Desks](https://www.thebrick.com/collections/furniture-home-office-office-desks-gaming-desks) [Gaming Chairs](https://www.thebrick.com/collections/furniture-home-office-office-chairs-gaming-chairs)
 
 [Back to Furniture](#)
 
