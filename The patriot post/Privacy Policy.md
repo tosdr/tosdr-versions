@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -126,18 +126,14 @@ Last Updated: November 15, 2011.
 
 ### Top Opinion
 
+*      [The Washington Stand The 4 Stories You Missed This Week](https://patriotpost.us/opinion/112022-the-4-stories-you-missed-this-week-2024-11-16)
+*      [Jeff Jacoby The ‘Jew Hunt’ in Amsterdam Was No Anomaly](https://patriotpost.us/opinion/112027-the-jew-hunt-in-amsterdam-was-no-anomaly-2024-11-16)
 *      [Gary Bauer Smiles & Fires](https://patriotpost.us/opinion/112012-smiles-and-fires-2024-11-15)
 *      [David Harsanyi A Lesson for Democrats — Don’t Be Weird](https://patriotpost.us/opinion/112011-a-lesson-for-democrats-dont-be-weird-2024-11-15)
 *      [Michael Barone The Democratic Gerontocracy Forgets the Lessons of Its Youth and Maturity](https://patriotpost.us/opinion/112010-the-democratic-gerontocracy-forgets-the-lessons-of-its-youth-and-maturity-2024-11-15)
 *      [Victor Davis Hanson Restoring Deterrence Will Prevent Endless Wars](https://patriotpost.us/opinion/112008-restoring-deterrence-will-prevent-endless-wars-2024-11-15)
 *      [Erick Erickson Dear Democrats](https://patriotpost.us/opinion/112006-dear-democrats-2024-11-15)
 *      [Josh Hammer Donald Trump Is Set to Make MAGA America’s Defining Political Movement](https://patriotpost.us/opinion/112005-donald-trump-is-set-to-make-maga-americas-defining-political-movement-2024-11-15)
-*      [Tim Graham Brian Stelter Explores Media Cluelessness](https://patriotpost.us/opinion/112004-brian-stelter-explores-media-cluelessness-2024-11-15)
-*      [Michael Reagan Democracy Outvoted the Democrats](https://patriotpost.us/opinion/112002-democracy-outvoted-the-democrats-2024-11-15)
-*      [Mark Alexander Profiles of Valor: COL Michael Waltz](https://patriotpost.us/alexander/111984-profiles-of-valor-col-michael-waltz-2024-11-15)
-*      [The Washington Stand The Art of Getting It Wrong](https://patriotpost.us/opinion/112023-the-art-of-getting-it-wrong-2024-11-15)
-*      [The Babylon Bee DOGE Identifies 535 Government Workers Who Haven’t Done Any Work for Years](https://patriotpost.us/opinion/112000-doge-identifies-535-government-workers-who-havent-done-any-work-for-years-2024-11-15)
-*      [Guest Commentary Election Postmortem](https://patriotpost.us/opinion/112028-election-postmortem-2024-11-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -151,7 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-No MSM Churn No Clickbait Junk No Advertising
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
