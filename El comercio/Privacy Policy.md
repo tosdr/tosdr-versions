@@ -31,6 +31,39 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Cómo será la etapa 6 de la Vuelta al Ecuador?
+==============================================
+
+La Vuelta al Ecuador celebra su penúltima etapa y tendrá un recorrido con cuatro puertos de montaña de distinta categoría.
+--------------------------------------------------------------------------------------------------------------------------
+
+![El pelotón de ciclistas en la etapa 1 de la Vuelta al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/vueltaecuadoretap1.jpg)
+
+La **Vuelta al Ecuador** de ciclismo 2024 encara su recta final y celebrará la penúltima carrera de la competencia. Esta contará con 174 kilómetros de recorrido y estará caracterizada por una presencia predominante de subidas.
+
+Este sábado 16 de noviembre del 2024, a partir de las 10:00, los ciclistas partirán desde **Machachi** (Pichincha), donde finalizó la etapa cinco, hasta **Cotacachi** (Imbabura). La largada será desde la plaza central de la localidad de Mejía y la meta estará ubicada en la Laguna de Cuicocha.
+
+### Más noticias:
+
+* [Brayan Obando busca devolverle una Vuelta al Ecuador al país](https://www.elcomercio.com/deportes/brayan-obando-lider-vuelta-ecuador.html "Brayan Obando busca devolverle una Vuelta al Ecuador al país")
+* [Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024](https://www.elcomercio.com/deportes/ciclismo/robinson-chalapud-bicampeon-vuelta-al-ecuador-gana-primera-etapa.html "Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024")
+* [Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/juan-carlos-cordova-vuelta-ecuador-2024.html "Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador")
+
+Esta será la primera vez en toda la **Vuelta al Ecuador** en que los puertos de montaña superen a la cantidad de metas volantes. Aquello obedece al trazado que presentará la etapa, que iniciará a los 2 942 metros sobre el nivel del mar y finalizará a los 3 073.
+
+La carrera contará con tan solo dos metas, las cuales se llevarán a cabo en la primera mitad del trayecto. Tras ello, cuatro puertos de montaña les sucederán en alternancia y el **fin del recorrido** también será coronado con uno de ellos.
+
+Cuatro puertos de montaña y un recorrido para escaladores
+---------------------------------------------------------
+
+Los velocistas tendrán la posibilidad de mostrar sus mejores cualidades y disputar el jersey verde de las metas volantes durante el kilómetro **18 y el 70,7.** Una vez que aquello suceda, los **puertos de montaña** se tomarán la carrera.
+
+El primer puerto será a los 68 kilómetros y será de tercera categoría, sin embargo, este último aspecto irá en ascenso. A los 87,20 habrá un nuevo punto de montaña que será de segunda categoría. Finalmente, a los 121,14 habrá uno de primera categoría y a los 174 un ‘hors catégorie’ (HC).
+
+La categoría de cada puerto de montaña fija la cantidad de puntos que puede obtener cada ciclista, en dicha clasificación, a partir de la posición en la que pase por aquel lugar. En el caso del HC se otorgan puntos del primer al décimo ciclista y la cantidad es de 20,15,12,10,8,6,4,2 y 1.
+
+La primera categoría da 10, 8, 6, 4, 2 y un punto del primero al sexto. En la segunda, 5,3,2 y 1 y la tercera, dos y uno.
+
 La cortesía es indispensable en tiempos de apagones
 ===================================================
 
@@ -52,93 +85,6 @@ Quizá eso explique estas dos formas de ser durante esta crisis energética. Por
 Esta parte es más notoria en los vehículos que circulan por las ciudades. La **falta de consideración hacia los otros: el peatón, los otros conductores.** Por ejemplo, es cierto que es difícil manejar a oscuras, pero hay muchos que lo hacen con las luces intensas, lo que complica tanto a los que van delante como a los que vienen en sentido contrario.
 
 También ocurre que no se cede el paso para que alternadamente para que la circulación de los vehículos fluya y no nos convirtamos en un problema más entre los que ya vivimos los ecuatorianos. En ese sentido, la cortesía debe ser un valor a resaltar en tiempos de crisis.
-
-Chuletas de cerdo a la miel y ajo
-=================================
-
-Su capacidad para absorber sabores las hace ideales para marinar y acompañar con diferentes salsas. ¡Comparte esta receta con tus amigos!
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Esta receta fácil y deliciosa combina la jugosidad de la carne con el toque dulce y sabroso de la miel y el ajo, creando una explosión de sabor que encantará a todos.](https://www.elcomercio.com/wp-content/uploads/2024/11/1.jpg)
-
-Las **chuletas** de **cerdo** tienen una larga historia en la **cocina occidental**, siendo un alimento básico en muchas culturas. Su **popularidad** radica no solo en su sabor, sino también en su facilidad de preparación. Las **chuletas de cerdo** son un corte clásico en la **gastronomía** que se destaca por su versatilidad y sabor. Este **corte de carne** se puede **preparar de múltiples maneras,** desde a la parrilla hasta al horno, y se puede acompañar con una variedad de salsas que realzan su jugosidad y sabor. ¡Atrévete a probar algo nuevo en la cocina y disfruta de esta **receta llena de sabor**!
-
-Ingredientes
-------------
-
-4 chuletas de cerdo
-
-2 cucharadas de aceite de oliva
-
-4 dientes de ajo picados
-
-3 cucharadas de miel
-
-Sal y pimienta al gusto
-
-* * *
-
-> Una receta irresistible que destaca el sabor y la versatilidad de las chuletas de cerdo
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/3-1024x672.jpg)
-
-Las chuleta son ricas en proteínas y puede ser una opción más económica en comparación con otros tipos de carne.
-
-Preparación de las chuletas de cerdo a la miel y ajo
-----------------------------------------------------
-
-* **Sazonar** las chuletas con sal y pimienta por ambos lados.
-* **Calentar el aceite e**n una sartén grande, a fuego medio-alto.
-* **Colocar** las chuletas en la sartén caliente y cocinar durante 4-5 minutos por cada lado hasta que estén doradas.
-* **Reducir** el fuego a medio y añadir el ajo picado a la sartén. Cocinar por 1-2 minutos hasta que el ajo esté fragante.
-* **Agregar** la miel a la sartén y mezclar bien para cubrir las chuletas. Cocinar durante 2-3 minutos adicionales para caramelizar.
-* **Retirar** del fuego y dejar reposar un par de minutos antes de servir.
-
-¿Con qué puedes acompañar las chuletas de cerdo a la miel y ajo?
-----------------------------------------------------------------
-
-Puedes acompañarlas con guarniciones que equilibren su sabor dulce y salado.
-
-* Las **papas al horno** o un puré cremoso de papas son opciones clásicas que complementan bien el plato, aportando una textura suave que contrasta con la carne.
-* Las **verduras asadas,** como zanahorias, espárragos o calabacín, también son una excelente elección, ya que añaden frescura y un toque de color.
-* Para un toque extra de frescura, una **ensalada de hojas verdes con vinagreta** de limón resulta ideal, ya que equilibra la dulzura de la miel con un punto de acidez.
-* Además, puedes **añadir arroz o quinua** como acompañamientos ligeros y nutritivos, aportando un sabor terroso y una textura interesante.
-
-Salsas para acompañar a las chuletas de cerdo
----------------------------------------------
-
-* **Salsa Chimichurri,** esta salsa argentina, hecha a base de perejil, ajo, vinagre y aceite, aporta un sabor fresco y herbáceo que complementa perfectamente la carne a la parrilla.
-* **Salsa BBQ**, la salsa barbacoa es una opción popular, especialmente en preparaciones a la parrilla. Puedes optar por versiones comerciales o hacerla en casa con ingredientes como tomate, miel y especias.
-* **Salsa de Champiñones**, una salsa cremosa hecha con champiñones salteados, ideal para añadir un sabor terroso a las chuletas.[](https://www.recetasnestle.com.ec/escuela-sabor/coccion-tecnicasalsas-para-carne)
-* **Salsa** a **base de frutas**, como la manzana o la de mango, añaden un toque dulce que contrasta muy bien con la salinidad de la carne.
-* La s**alsa de naranja,** ya sea en forma de glaseado o como parte de una marinada, proporciona un sabor cítrico que realza las chuletas.
-* La piña también es excelente para salsas. Puedes hacer una **salsa agridulce** utilizando piña fresca, lo que añade un contraste delicioso.
-
-¡Prepárate para disfrutar en casa de esta irresistible receta fácil y llena de sabor!
-
-La cruda realidad revelada por los apagones
-===========================================
-
-Los apagones han revelado los efectos del cambio climático, la inacción del gobierno, la viveza criolla y salvajismo de algunos ciudadanos, pero sobre todo la resiliencia y ganas de trabajar de la mayoría de los ecuatorianos.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
-
-Desde septiembre de 2024 los ecuatorianos soportamos **cortes de energía eléctrica** que afectan duramente a nuestra vida y **productividad**. Se estima que, en Ecuador, por cada hora de apagón, **se pierde entre 12 y 20 millones de dólares**. Frente a esta dura realidad, múltiples han sido los análisis y propuestas de solución que se han planteado desde diferentes sectores; sin embargo, el problema y sus consecuencias parecen estar bastante **lejos de encontrar una solución definitiva**. En este artículo vamos a analizar algunos aspectos que los **apagones** han desvelado en varios sectores del Ecuador.
-
-En los últimos años, Ecuador, al igual que múltiples regiones del mundo, está experimentando una de las **peores sequías** en más de una mitad de siglo. Eso ha provocado una reducción muy significativa de los **embalses** de nuestras **hidroeléctricas**, afectando de manera crítica su capacidad de generación de energía eléctrica. A este problema hay que sumar nuestra escasa disponibilidad de generación eléctrica a partir de **fuentes no hídricas**. Los apagones han desvelado que **el cambio climático es real** y que puede afectar de manera muy profunda a nuestras vidas.  
-
-Ahora vamos al ejecutivo. Tenemos un Gobierno que lleva casi **un año en funciones** y que, desde antes de su posesión, conocía de la **grave** **crisis energética** que veníamos enfrentando. Recordemos que el año pasado, al final de la gestión de Guillermo Lasso, ya tuvimos **cortes de energía eléctrica**. La pregunta que surge es ¿Qué medidas implementó el gobierno de Noboa para atenuar esta crisis energética? Los hechos nos muestran que **hicieron poco**, o si hicieron mucho no **ha surtido efecto**: ¡hemos tenido hasta 14 horas de cortes de electricidad por día! Los apagones han desvelado que tenemos, por decirlo cortésmente, **un gobierno poco efectivo**.
-
-Por el **Ministerio de Energía y Minas**, desde la posesión de Daniel Noboa, han pasado 4 titulares, 2 de los cuales han sido ministros encargados. La magnitud del **problema energético** exigía una estrategia sólida desde el inicio de la gestión de Noboa, con un **comité especial** liderado por el Presidente para **enfrentar la crisis de forma proactiva**. Desafortunadamente, el gobierno actual, al igual que los últimos gobiernos, ha tenido principalmente una **actitud reactiva** frente a este grave problema, y la **empatía** que ha declarado tener no nos sirve para mucho. ¡Qué tal si la empatía del gobierno se traduce en que sus funcionarios padezcan de los cortes de electricidad! A lo mejor así esa empatía se traduce en **acciones**, que es lo que ahora demandamos todos los ecuatorianos. Los apagones han desvelado que el gobierno tiene **una empatía que no se traduce en acciones**.
-
-Por su parte, los **ciudadanos** hemos tenido que encontrar formas muy creativas para enfrentar los apagones: desde volver a épocas arcaicas donde se usaban **velas** hasta adquirir **sistemas de almacenamiento y generación de energía eléctrica**. Aparte de la crisis, los ciudadanos también hemos tenido que enfrentar fuertes **especulaciones** en los precios de estos productos a la vista y paciencia de las **autoridades de control**. Ojalá que las ganas de trabajar de los funcionarios de control no se hayan ido, al igual que ha pasado con la energía eléctrica. Para muestra basta un botón, **lámparas led con baterías**, que antes de la crisis energética costaban 5 dólares, se han llegado a vender por hasta 30 dólares. Los apagones han desvelado la **viveza criolla** de algunos ecuatorianos.
-
-Al final de los meses donde hemos tenido los cortes de energía, las **facturas** de los servicios de **internet y telefonía móvil** se mantienen igual que antes de la crisis energética. Esto ha ocurrido a pesar de que muchas compañías de telecomunicaciones **no han prestado un servicio completo y adecuado**. Adicionalmente, cuando los ciudadanos llaman para **reclamar por el mal servicio** o **cancelar sus suscripciones**, muchas compañías no responden, o si lo hacen, dilatan demasiado los cierres de contrato. Nuevamente, es muy poco lo que las autoridades de control han realizado. Ojalá la promesa de que las empresas de telefonía móvil darán **compensaciones** por el mal servicio prestado durante los apagones se haga realidad. Los apagones han desvelado que **el que pierde casi siempre es el cliente**.
-
-Salir a la calle a pie, en bicicleta, o en vehículo durante los apagones se ha convertido en toda una **experiencia extrema**. En las intersecciones donde **los semáforos no funcionan** por los cortes de energía, el que logra avanzar es el más avezado o el que tiene el vehículo más grande. En algunas intersecciones **agentes de tránsito** intentan poner cierto orden, pero la **prisa**, **poca paciencia** y sobre todo la **incivilidad** de algunos terminan venciendo. Los apagones han desvelado los **salvajes** y **desordenados** que pueden llegar a ser algunos compatriotas.
-
-Finalmente, los apagones también han mostrado que **la gran mayoría de los ecuatorianos queremos trabajar** y que por ello estamos dispuestos a hacer grandes esfuerzos. Ojalá estas ganas se vean respaldadas por **acciones concretas y efectivas** por parte de nuestras autoridades. Compatriotas, no desmayemos y **sigamos trabajando fuerte** para sacar a este país adelante. Después de todo, los apagones también han puesto en evidencia el **esfuerzo** y la **resiliencia** del ecuatoriano promedio, dispuesto a superar cualquier adversidad para seguir adelante.
 
 Acerca del XV encuentro empresarial Iberoamericano: Reflexiones y desafíos para una Iberoamérica sostenible y justa
 ===================================================================================================================
@@ -186,6 +132,30 @@ Invertir en confianza y estabilidad
 La **inversión** florece en un **ambiente de confianza y estabilidad jurídica**. Las empresas necesitan normas de **calidad y marcos regulatorios** sólidos. Esta estabilidad no solo atrae capital, sino que permite una planificación a largo plazo que impacta positivamente en el **desarrollo de las comunidades**.
 
 El XV Encuentro Empresarial Iberoamericano nos hizo acuerdo que la **unión y el compromiso** son los motores para construir una **Iberoamérica** más justa, **innovadora y sostenible**. Ahora, es momento de pasar de la reflexión a la acción, trabajando desde nuestras trincheras para generar cambios que beneficien a todos. Ojalá **Ecuador** entienda que estamos en un **marco global** y que debemos tener en nuestra agenda estos temas que son mandatorios para progresar.
+
+La cruda realidad revelada por los apagones
+===========================================
+
+Los apagones han revelado los efectos del cambio climático, la inacción del gobierno, la viveza criolla y salvajismo de algunos ciudadanos, pero sobre todo la resiliencia y ganas de trabajar de la mayoría de los ecuatorianos.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+Desde septiembre de 2024 los ecuatorianos soportamos **cortes de energía eléctrica** que afectan duramente a nuestra vida y **productividad**. Se estima que, en Ecuador, por cada hora de apagón, **se pierde entre 12 y 20 millones de dólares**. Frente a esta dura realidad, múltiples han sido los análisis y propuestas de solución que se han planteado desde diferentes sectores; sin embargo, el problema y sus consecuencias parecen estar bastante **lejos de encontrar una solución definitiva**. En este artículo vamos a analizar algunos aspectos que los **apagones** han desvelado en varios sectores del Ecuador.
+
+En los últimos años, Ecuador, al igual que múltiples regiones del mundo, está experimentando una de las **peores sequías** en más de una mitad de siglo. Eso ha provocado una reducción muy significativa de los **embalses** de nuestras **hidroeléctricas**, afectando de manera crítica su capacidad de generación de energía eléctrica. A este problema hay que sumar nuestra escasa disponibilidad de generación eléctrica a partir de **fuentes no hídricas**. Los apagones han desvelado que **el cambio climático es real** y que puede afectar de manera muy profunda a nuestras vidas.  
+
+Ahora vamos al ejecutivo. Tenemos un Gobierno que lleva casi **un año en funciones** y que, desde antes de su posesión, conocía de la **grave** **crisis energética** que veníamos enfrentando. Recordemos que el año pasado, al final de la gestión de Guillermo Lasso, ya tuvimos **cortes de energía eléctrica**. La pregunta que surge es ¿Qué medidas implementó el gobierno de Noboa para atenuar esta crisis energética? Los hechos nos muestran que **hicieron poco**, o si hicieron mucho no **ha surtido efecto**: ¡hemos tenido hasta 14 horas de cortes de electricidad por día! Los apagones han desvelado que tenemos, por decirlo cortésmente, **un gobierno poco efectivo**.
+
+Por el **Ministerio de Energía y Minas**, desde la posesión de Daniel Noboa, han pasado 4 titulares, 2 de los cuales han sido ministros encargados. La magnitud del **problema energético** exigía una estrategia sólida desde el inicio de la gestión de Noboa, con un **comité especial** liderado por el Presidente para **enfrentar la crisis de forma proactiva**. Desafortunadamente, el gobierno actual, al igual que los últimos gobiernos, ha tenido principalmente una **actitud reactiva** frente a este grave problema, y la **empatía** que ha declarado tener no nos sirve para mucho. ¡Qué tal si la empatía del gobierno se traduce en que sus funcionarios padezcan de los cortes de electricidad! A lo mejor así esa empatía se traduce en **acciones**, que es lo que ahora demandamos todos los ecuatorianos. Los apagones han desvelado que el gobierno tiene **una empatía que no se traduce en acciones**.
+
+Por su parte, los **ciudadanos** hemos tenido que encontrar formas muy creativas para enfrentar los apagones: desde volver a épocas arcaicas donde se usaban **velas** hasta adquirir **sistemas de almacenamiento y generación de energía eléctrica**. Aparte de la crisis, los ciudadanos también hemos tenido que enfrentar fuertes **especulaciones** en los precios de estos productos a la vista y paciencia de las **autoridades de control**. Ojalá que las ganas de trabajar de los funcionarios de control no se hayan ido, al igual que ha pasado con la energía eléctrica. Para muestra basta un botón, **lámparas led con baterías**, que antes de la crisis energética costaban 5 dólares, se han llegado a vender por hasta 30 dólares. Los apagones han desvelado la **viveza criolla** de algunos ecuatorianos.
+
+Al final de los meses donde hemos tenido los cortes de energía, las **facturas** de los servicios de **internet y telefonía móvil** se mantienen igual que antes de la crisis energética. Esto ha ocurrido a pesar de que muchas compañías de telecomunicaciones **no han prestado un servicio completo y adecuado**. Adicionalmente, cuando los ciudadanos llaman para **reclamar por el mal servicio** o **cancelar sus suscripciones**, muchas compañías no responden, o si lo hacen, dilatan demasiado los cierres de contrato. Nuevamente, es muy poco lo que las autoridades de control han realizado. Ojalá la promesa de que las empresas de telefonía móvil darán **compensaciones** por el mal servicio prestado durante los apagones se haga realidad. Los apagones han desvelado que **el que pierde casi siempre es el cliente**.
+
+Salir a la calle a pie, en bicicleta, o en vehículo durante los apagones se ha convertido en toda una **experiencia extrema**. En las intersecciones donde **los semáforos no funcionan** por los cortes de energía, el que logra avanzar es el más avezado o el que tiene el vehículo más grande. En algunas intersecciones **agentes de tránsito** intentan poner cierto orden, pero la **prisa**, **poca paciencia** y sobre todo la **incivilidad** de algunos terminan venciendo. Los apagones han desvelado los **salvajes** y **desordenados** que pueden llegar a ser algunos compatriotas.
+
+Finalmente, los apagones también han mostrado que **la gran mayoría de los ecuatorianos queremos trabajar** y que por ello estamos dispuestos a hacer grandes esfuerzos. Ojalá estas ganas se vean respaldadas por **acciones concretas y efectivas** por parte de nuestras autoridades. Compatriotas, no desmayemos y **sigamos trabajando fuerte** para sacar a este país adelante. Después de todo, los apagones también han puesto en evidencia el **esfuerzo** y la **resiliencia** del ecuatoriano promedio, dispuesto a superar cualquier adversidad para seguir adelante.
 
 Capítulo triste y sucio de la política
 ======================================
@@ -307,6 +277,69 @@ Presenciar actuaciones de asambleístas que plantean juicios políticos sin tene
 No se trata de defender a nadie, se trata de atacar la mediocridad. Si se tiene autoridades mediocres, como lo son gran parte de los asambleístas, los resultados serán mediocres. Una Asamblea debe ser causa de asombros positivos, debe ser motivo de arrancar aplausos, y de generar admiraciones, pero, esta asamblea y las inmediatamente pasadas, apabullaron nuestra capacidad de asombro con sus actos totalmente mediocres y negativos.   
 
 José M. Jalil Haas 
+
+Chuletas de cerdo a la miel y ajo
+=================================
+
+Su capacidad para absorber sabores las hace ideales para marinar y acompañar con diferentes salsas. ¡Comparte esta receta con tus amigos!
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Esta receta fácil y deliciosa combina la jugosidad de la carne con el toque dulce y sabroso de la miel y el ajo, creando una explosión de sabor que encantará a todos.](https://www.elcomercio.com/wp-content/uploads/2024/11/1.jpg)
+
+Las **chuletas** de **cerdo** tienen una larga historia en la **cocina occidental**, siendo un alimento básico en muchas culturas. Su **popularidad** radica no solo en su sabor, sino también en su facilidad de preparación. Las **chuletas de cerdo** son un corte clásico en la **gastronomía** que se destaca por su versatilidad y sabor. Este **corte de carne** se puede **preparar de múltiples maneras,** desde a la parrilla hasta al horno, y se puede acompañar con una variedad de salsas que realzan su jugosidad y sabor. ¡Atrévete a probar algo nuevo en la cocina y disfruta de esta **receta llena de sabor**!
+
+Ingredientes
+------------
+
+4 chuletas de cerdo
+
+2 cucharadas de aceite de oliva
+
+4 dientes de ajo picados
+
+3 cucharadas de miel
+
+Sal y pimienta al gusto
+
+* * *
+
+> Una receta irresistible que destaca el sabor y la versatilidad de las chuletas de cerdo
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/3-1024x672.jpg)
+
+Las chuleta son ricas en proteínas y puede ser una opción más económica en comparación con otros tipos de carne.
+
+Preparación de las chuletas de cerdo a la miel y ajo
+----------------------------------------------------
+
+* **Sazonar** las chuletas con sal y pimienta por ambos lados.
+* **Calentar el aceite e**n una sartén grande, a fuego medio-alto.
+* **Colocar** las chuletas en la sartén caliente y cocinar durante 4-5 minutos por cada lado hasta que estén doradas.
+* **Reducir** el fuego a medio y añadir el ajo picado a la sartén. Cocinar por 1-2 minutos hasta que el ajo esté fragante.
+* **Agregar** la miel a la sartén y mezclar bien para cubrir las chuletas. Cocinar durante 2-3 minutos adicionales para caramelizar.
+* **Retirar** del fuego y dejar reposar un par de minutos antes de servir.
+
+¿Con qué puedes acompañar las chuletas de cerdo a la miel y ajo?
+----------------------------------------------------------------
+
+Puedes acompañarlas con guarniciones que equilibren su sabor dulce y salado.
+
+* Las **papas al horno** o un puré cremoso de papas son opciones clásicas que complementan bien el plato, aportando una textura suave que contrasta con la carne.
+* Las **verduras asadas,** como zanahorias, espárragos o calabacín, también son una excelente elección, ya que añaden frescura y un toque de color.
+* Para un toque extra de frescura, una **ensalada de hojas verdes con vinagreta** de limón resulta ideal, ya que equilibra la dulzura de la miel con un punto de acidez.
+* Además, puedes **añadir arroz o quinua** como acompañamientos ligeros y nutritivos, aportando un sabor terroso y una textura interesante.
+
+Salsas para acompañar a las chuletas de cerdo
+---------------------------------------------
+
+* **Salsa Chimichurri,** esta salsa argentina, hecha a base de perejil, ajo, vinagre y aceite, aporta un sabor fresco y herbáceo que complementa perfectamente la carne a la parrilla.
+* **Salsa BBQ**, la salsa barbacoa es una opción popular, especialmente en preparaciones a la parrilla. Puedes optar por versiones comerciales o hacerla en casa con ingredientes como tomate, miel y especias.
+* **Salsa de Champiñones**, una salsa cremosa hecha con champiñones salteados, ideal para añadir un sabor terroso a las chuletas.[](https://www.recetasnestle.com.ec/escuela-sabor/coccion-tecnicasalsas-para-carne)
+* **Salsa** a **base de frutas**, como la manzana o la de mango, añaden un toque dulce que contrasta muy bien con la salinidad de la carne.
+* La s**alsa de naranja,** ya sea en forma de glaseado o como parte de una marinada, proporciona un sabor cítrico que realza las chuletas.
+* La piña también es excelente para salsas. Puedes hacer una **salsa agridulce** utilizando piña fresca, lo que añade un contraste delicioso.
+
+¡Prepárate para disfrutar en casa de esta irresistible receta fácil y llena de sabor!
 
 Vecinos de Quito frenan la construcción del intercambiador de la Occidental
 ===========================================================================
@@ -1002,43 +1035,3 @@ Luis Macías, jugador de Liga de Portoviejo.
 
 San viernes
 -----------
-
-Educadores comunitarios reciben pago del Gobierno
-=================================================
-
-Gobierno pagó deuda de más de una década, este 15 de noviembre, a educadores comunitarios.
-------------------------------------------------------------------------------------------
-
-![Foto referencial de educadores comunitarios.](https://www.elcomercio.com/wp-content/uploads/2024/11/EDUCADORES-COMUNITARIOS.jpg)
-
-**Educadores comunitarios** de Ecuador recibieron un pago por parte del **Gobierno**. La transacción se dio este viernes, 15 de noviembre de 2024.
-
-Los recursos se destinaron tras la coordinación de tres **instituciones públicas**. Estos se dieron luego de más de una década de deudas.
-
-### Más noticias
-
-* [Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca")
-* [Lavinia Valbonesi defiende a Daniel Noboa en redes sociales](https://www.elcomercio.com/actualidad/politica/lavinia-valvonesi-defiende-daniel-noboa.html "Lavinia Valbonesi defiende a Daniel Noboa en redes sociales")
-* [Ministerio de Educación abrió vacantes para profesionales en consejería estudiantil](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-vacantes-consejeros-profesionales.html "Ministerio de Educación abrió vacantes para profesionales en consejería estudiantil")
-
-> \[COMUNICADO\] El Gobierno tras un trabajo coordinado entre [@Educacion\_Ec](https://twitter.com/Educacion_Ec?ref_src=twsrc%5Etfw), [@FinanzasEc](https://twitter.com/FinanzasEc?ref_src=twsrc%5Etfw) y el [@IESSec](https://twitter.com/IESSec?ref_src=twsrc%5Etfw), pagó USD 33,2 millones a 6.400 educadores comunitarios, cumpliendo con un acto de justicia histórica, al saldar las deudas patronales pendientes por más de 16 años. Conoce más: 👇… [pic.twitter.com/5kG7uQyGSt](https://t.co/5kG7uQyGSt)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [November 15, 2024](https://twitter.com/Educacion_Ec/status/1857534318215561252?ref_src=twsrc%5Etfw)
-
-Pagos del Gobierno a educadores comunitarios
---------------------------------------------
-
-Los ministerios de **Educación, Economía y Finanzas**, así como el **Instituto Ecuatoriano de Seguridad Social (IESS)** fueron los encargados de las gestiones para el pago.
-
-El Gobierno pagó **33,2 millones de dólares**. Este rubro fue destinado a **6 400 educadores comunitarios** de Ecuador.
-
-Según información de los ministerios de **Educación y Finanzas**, con ese montó se saldó una deuda patronal que estaba retrasada por más de 16 años.
-
-Los **educadores** han dedicado sus jornadas de educación en las comunidades más vulnerables del país.
-
-¿Cuál es la labor de los educadores comunitarios?
--------------------------------------------------
-
-Los **educadores comunitarios** son profesionales que trabajan con poblaciones que se encuentran en estado de vulnerabilidad, especialmente, con niños y jóvenes.
-
-Los docentes son principalmente integrantes de la comunidad, aunque no en todos los casos. Los profesionales realizan talleres, **proyectos** y, además, identifican necesidades de la población.
