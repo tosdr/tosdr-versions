@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 * [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 * [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 * [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
+* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
+* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
+* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
 * [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
-* [Matratzen-Onlinekauf: Ärger mit Emma? Wir machen den Test](https://www.test.de/Emma-Matratzenlieferung-im-Test-6123769-0/ "Matratzen-Onlinekauf - Ärger mit Emma? Wir machen den Test")
-* [Co.net eG: Vorläufiges Insolvenz­verfahren und Razzia bei der Genossenschaft Co.net](https://www.test.de/Conet-eG-Vorlaeufiges-Insolvenzverfahren-aufgehoben-6051646-0/ "Co.net eG - Vorläufiges Insolvenzverfahren und Razzia bei der Genossenschaft Co.net")
-* [Gesetzliche Krankenkassen: Globuli könnten doch bleiben](https://www.test.de/Gesetzliche-Krankenkassen-Keine-Globuli-mehr-6092530-0/ "Gesetzliche Krankenkassen - Globuli könnten doch bleiben")
-* [Verpackungs­ärger: Eneloop von Panasonic](https://www.test.de/Verpackungsaerger-Eneloop-von-Panasonic-6073359-0/ "Verpackungsärger - Eneloop von Panasonic")
+* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
+* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
 
 Service Stiftung Warentest
 
