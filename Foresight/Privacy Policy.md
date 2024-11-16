@@ -112,7 +112,7 @@ Footer
 
 ### Latest
 
-[Blog](https://foresight.is/blog/) [Mastering Revenue Models](https://foresight.is/revenue-models-types/)
+[Blog](https://foresight.is/blog/) [Vibes and Excel](https://foresight.is/vibes/)
 
 ### Foresight
 
