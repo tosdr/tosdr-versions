@@ -1,4 +1,4 @@
-[![](/brand/nav-logo.svg)](https://wasteof.money/)
+ [![](/brand/nav-logo.svg) frosty](https://wasteof.money/)
 
 * [home](https://wasteof.money/)
 * [explore](https://wasteof.money/explore)
