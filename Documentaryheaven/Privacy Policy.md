@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Rise and Fall of Silver Islet](/wp-content/thumbnails/11749-100x70.jpg?x53432)
+* [![Japan’s Killer Quake](/wp-content/thumbnails/5675-100x70.jpg?x53432)
     
-    Rise and Fall of Silver Islet
+    Japan’s Killer Quake
     
-    In 1868 Canada as a nation was one year old and for the most part a relatively untouched land dominated by a harsh and lonely wilderness, The North Shore of Lake Superior was one such area and in that](https://documentaryheaven.com/rise-fall-of-silver-islet/ "Rise and Fall of Silver Islet")
-* [![The Unspeakable Crime: Rape](/wp-content/thumbnails/9160-100x70.jpg?x53432)
+    In its worst crisis since World War II, Japan faces disaster on an epic scale.A death toll likely in the tens of thousands, massive destruction of homes and businesses, shortages of water and power,](https://documentaryheaven.com/japans-killer-quake/ "Japan’s Killer Quake")
+* [![Life Running Out Of Control](/wp-content/thumbnails/2383-100x70.jpg?x53432)
     
-    The Unspeakable Crime: Rape
+    Life Running Out Of Control
     
-    Somebody gets raped every 6 minutes in Britain, with a shocking statistic such as this, this documentary by the BBC sets about exploring rape in a new way, unseen on television before this film examin](https://documentaryheaven.com/unspeakable-crime-rape/ "The Unspeakable Crime: Rape")
-* [![The Original 50 Cent](/wp-content/thumbnails/8393-100x70.jpg?x53432)
+    In the mid 1980s, scientists unlocked the genetic keys to manipulating our world. Suddenly everything seemed possible! There would be no more hunger or malnutrition; diseases would be vanquished and p](https://documentaryheaven.com/life-running-out-of-control/ "Life Running Out Of Control")
+* [![Dispatches: Beslan](/wp-content/thumbnails/1274-100x70.jpg?x53432)
     
-    The Original 50 Cent
+    Dispatches: Beslan
     
-    This is the true life story of Kelvin "50 Cent" Martian the street legend who inspired the biggest name in rap, the original 50 Cent. The original 50 Cent was said to have terrorized the streets of Fo](https://documentaryheaven.com/original-50-cent/ "The Original 50 Cent")
-* [![WWII in HD EP5/10](/wp-content/thumbnails/4666-100x70.jpg?x53432)
+    The school siege at Beslan was the bloodiest act of terrorism ever to take place on Russian soil. Yet beyond this horrible truth remain many unanswered questions. There is no agreement on who the terr](https://documentaryheaven.com/dispatches-beslan/ "Dispatches: Beslan")
+* [![Ohio Slave Girls: Their Story](/wp-content/thumbnails/9240-100x70.jpeg?x53432)
     
-    WWII in HD EP5/10
+    Ohio Slave Girls: Their Story
     
-    Episode 5: Day of Days The Allies are bogged down in Normandy’s hedgerows in the aftermath of D-Day, while on Saipan, victory turns to horror.](https://documentaryheaven.com/wwii-in-hd-ep5/ "WWII in HD EP5/10")
-* [![The Joy of the Bee Gees](/wp-content/thumbnails/9827-100x70.jpg?x53432)
+    This is the story that shocked the world, a dramatic escape after 11 years in captivity. How had a school bus driver managed to kidnap and enslave three local girls? How did they remain undiscovered w](https://documentaryheaven.com/ohio-slave-girls-story/ "Ohio Slave Girls: Their Story")
+* [![Palestine Is Still The Issue](/wp-content/thumbnails/720-100x70.png?x53432)
     
-    The Joy of the Bee Gees
+    Palestine Is Still The Issue
     
-    The Bee Gees, their more than a flourish of stilettos, their not just teeth, tans and tight trousers. There is so much more to the Bee Gees than just Saturday Night Fever and office parties. Look](https://documentaryheaven.com/joy-of-bee-gees/ "The Joy of the Bee Gees")
+    In 1977, the award-winning journalist and film-maker, John Pilger, made a documentary called Palestine Is Still The Issue. He told how almost a million Palestinians had been forced off their land in 1](https://documentaryheaven.com/palestine-is-still-the-issue/ "Palestine Is Still The Issue")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
