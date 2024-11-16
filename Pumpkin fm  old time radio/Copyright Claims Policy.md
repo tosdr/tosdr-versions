@@ -88,9 +88,9 @@ We reserve the right to modify the contents of this page and its policy for hand
 
 ### Get the Pumpkin FM App
 
-[![Pumpkin FM App on Google Play Store](https://pumpkinfm.com/wp-content/uploads/2017/07/GooglePlayApp300x100.jpg)](https://play.google.com/store/apps/details?id=com.wPumpkinFMOldTimeRadioNetwork_5266497&hl=en)
+[![Pumpkin FM App on Google Play Store](http://pumpkinfm.com/wp-content/uploads/2017/07/GooglePlayApp300x100.jpg)](https://play.google.com/store/apps/details?id=com.wPumpkinFMOldTimeRadioNetwork_5266497&hl=en)
 
-[![Pumpkin FM Radio App for Android](https://pumpkinfm.com/wp-content/uploads/2017/07/amazon-300x100.png)](https://www.amazon.co.uk/dp/B073T21LNG/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1499673909&sr=1-1&keywords=pumpkin+fm)
+[![Pumpkin FM Radio App for Android](http://pumpkinfm.com/wp-content/uploads/2017/07/amazon-300x100.png)](https://www.amazon.co.uk/dp/B073T21LNG/ref=sr_1_1?s=mobile-apps&ie=UTF8&qid=1499673909&sr=1-1&keywords=pumpkin+fm)
 
 ### Recent Posts
 
@@ -102,9 +102,9 @@ We reserve the right to modify the contents of this page and its policy for hand
 
 ### Partners
 
-[![liveradio-logo](https://pumpkinfm.com/wp-content/uploads/2018/07/liveradio-logo.png)](http://liveradio.ie/)[![Listen on Online Radio Box](//cdn.onlineradiobox.com/img/b/120x42.png)](http://onlineradiobox.com/ "Listen on Online Radio Box")
+[![liveradio-logo](http://pumpkinfm.com/wp-content/uploads/2018/07/liveradio-logo.png)](http://liveradio.ie/)[![Listen on Online Radio Box](//cdn.onlineradiobox.com/img/b/120x42.png)](http://onlineradiobox.com/ "Listen on Online Radio Box")
 
-[![](https://pumpkinfm.com/wp-content/uploads/2017/01/radionomy-1.jpg)](http://www.radionomy.com/en/search/index?query=pumpkin+fm)![](https://pumpkinfm.com/wp-content/uploads/2017/01/player_aacp.jpg)[![](https://pumpkinfm.com/wp-content/uploads/2017/01/streamfinder-icon.gif)](http://streamfinder.com/)[![](https://pumpkinfm.com/wp-content/uploads/2017/01/tunein.jpg)](http://tunein.com/search/?query=pumpkin+fm)[![](https://pumpkinfm.com/wp-content/uploads/2017/01/shoutcast.jpg)](http://shoutcast.com/)[![](https://pumpkinfm.com/wp-content/uploads/2016/12/internet-radio-badge.gif)](https://www.internet-radio.com/)
+[![](http://pumpkinfm.com/wp-content/uploads/2017/01/radionomy-1.jpg)](http://www.radionomy.com/en/search/index?query=pumpkin+fm)![](http://pumpkinfm.com/wp-content/uploads/2017/01/player_aacp.jpg)[![](http://pumpkinfm.com/wp-content/uploads/2017/01/streamfinder-icon.gif)](http://streamfinder.com/)[![](http://pumpkinfm.com/wp-content/uploads/2017/01/tunein.jpg)](http://tunein.com/search/?query=pumpkin+fm)[![](http://pumpkinfm.com/wp-content/uploads/2017/01/shoutcast.jpg)](http://shoutcast.com/)[![](http://pumpkinfm.com/wp-content/uploads/2016/12/internet-radio-badge.gif)](https://www.internet-radio.com/)
 
 [![Listen on myTuner radio!](https://static2.mytuner.mobi/static/widgets/mytuner-radio.png)![Listen of myTuner Radio!](https://static2.mytuner.mobi/static/widgets/mytuner-logo-90.png)](https://mytuner-radio.com/?utm_source=widget&utm_medium=button&utm_campaign=64x64 "Listen on myTuner radio!")[![RadioPlug.co.uk](https://radioplug.co.uk/LOGO.png)](https://www.radioplug.co.uk/)
 
