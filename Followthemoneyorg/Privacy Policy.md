@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Donations to Ballot Measure Committees, by Industry, 2016](/assets/Images/teasers/small/Ballot-measures-by-industry.JPG)](https://www.followthemoney.org/research/institute-reports/2016-ballot-measures-overview)
+[![Direct Contributions from the Koch Network to State and Federal Candidates, by Party Affiliation, 2010-2016](/assets/Images/teasers/small/Koch-by-party.JPG)](https://www.followthemoney.org/research/blog/a-koch-fueled-blue-wave-not-likely)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
