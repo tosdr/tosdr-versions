@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_360x203.jpg)](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c)
+    *  [![](https://media.king5.com/assets/KING/images/e6321c1f-8e35-4440-a4d6-d2d3ccf04043/e6321c1f-8e35-4440-a4d6-d2d3ccf04043_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e6321c1f-8e35-4440-a4d6-d2d3ccf04043/e6321c1f-8e35-4440-a4d6-d2d3ccf04043_360x203.jpg)](https://www.king5.com/article/news/local/seattle/seattle-bruce-harrell-executive-order-downtown-activation-team/281-07373eb7-724e-4370-aa8d-cf5da872ce3d)
         
-        #### [Aberdeen teen arrested after firing a gun around neighborhood and fleeing officers, police say](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c) [![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e03a24e9-8e0e-45f6-b00a-7d466fe6892c/20241115T184817/e03a24e9-8e0e-45f6-b00a-7d466fe6892c_360x203.jpg)](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c)
+        #### [Seattle mayor issues executive order creating downtown activation team](https://www.king5.com/article/news/local/seattle/seattle-bruce-harrell-executive-order-downtown-activation-team/281-07373eb7-724e-4370-aa8d-cf5da872ce3d)
         
-        #### [Teen fired gun in neighborhood and fled officers before arrest in Aberdeen, police say](https://www.king5.com/article/news/crime/aberdeen-teen-16-arrested-firing-gun-fleeing-officers/281-94a13d70-dbee-45ee-bb34-ad923d97b11c)
-    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+    *  [![](https://media.king5.com/assets/KING/images/a1c70024-1429-481d-ade3-09d743919fb1/20241116T013642/a1c70024-1429-481d-ade3-09d743919fb1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a1c70024-1429-481d-ade3-09d743919fb1/20241116T013642/a1c70024-1429-481d-ade3-09d743919fb1_360x203.jpg)](https://www.king5.com/article/news/community/skagit-county-man-helps-hurricane-helene-victims-aftermath-north-carolina/281-fe06e8c8-8966-4921-b529-d303597b0ce7)
         
-        #### [Winter Storm Watch in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        #### [Skagit County man helps Hurricane Helene victims](https://www.king5.com/article/news/community/skagit-county-man-helps-hurricane-helene-victims-aftermath-north-carolina/281-fe06e8c8-8966-4921-b529-d303597b0ce7)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -59,9 +58,9 @@ Navigation
     
     *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
-        #### [Winter Storm Watch in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
-    *  [![](https://media.king5.com/assets/KING/images/ce08f110-7497-427e-824d-da003a8ae389/20241115T131144/ce08f110-7497-427e-824d-da003a8ae389_16x9.jpg) ![](https://media.king5.com/assets/KING/images/ce08f110-7497-427e-824d-da003a8ae389/20241115T131144/ce08f110-7497-427e-824d-da003a8ae389_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/4771568c-d619-4484-9dbe-71905c82ac43/20241115T220111/4771568c-d619-4484-9dbe-71905c82ac43_16x9.jpg) ![](https://media.king5.com/assets/KING/images/4771568c-d619-4484-9dbe-71905c82ac43/20241115T220111/4771568c-d619-4484-9dbe-71905c82ac43_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -95,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-49°
+44°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
