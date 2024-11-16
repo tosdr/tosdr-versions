@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Fire damages HG Sply Co. restaurant in Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111524-sky-4-friday-1pm-kdfweme002_12_57_10_mpg_00.20.51.52.jpg?ve=1&tl=1)
+ [![Trump's cabinet picks and key appointments so far, and those still in the running](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/donald-trump-cabinet-picks.jpg?ve=1&tl=1)
 
- ![Fire damages HG Sply Co. restaurant in Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111524-sky-4-friday-1pm-kdfweme002_12_57_10_mpg_00.20.51.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fire-burning-fort-worth-restaurant)
+ ![Trump's cabinet picks and key appointments so far, and those still in the running](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/donald-trump-cabinet-picks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-cabinet-picks-those-still-in-running)
 
-### [Fire damages HG Sply Co. restaurant in Fort Worth](https://www.fox4news.com/news/fire-burning-fort-worth-restaurant)
+### [Trump's cabinet picks and key appointments so far, and those still in the running](https://www.fox4news.com/news/trumps-cabinet-picks-those-still-in-running)
 
- [![Last actions the Biden administration will take before Trump moves in](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/biden-and-trump.jpg?ve=1&tl=1)
+ [![Animal shelter asks for help after man surrenders nearly 1,000 mice](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/mouse.jpg?ve=1&tl=1)
 
- ![Last actions the Biden administration will take before Trump moves in](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/biden-and-trump.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/last-actions-biden-administration-trump)
+ ![Animal shelter asks for help after man surrenders nearly 1,000 mice](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/mouse.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/animal-shelter-asks-help-after-man-surrenders-nearly-1000-mice)
 
-### [Last actions the Biden administration will take before Trump moves in](https://www.fox4news.com/news/last-actions-biden-administration-trump)
+### [Animal shelter asks for help after man surrenders nearly 1,000 mice](https://www.fox4news.com/news/animal-shelter-asks-help-after-man-surrenders-nearly-1000-mice)
 
- [![Dallas police officer rehired following off-duty arrest](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/60358ba0-DPD20badge_1439831436204_110027_ver1.0_640_360.jpg?ve=1&tl=1)
+ [![Global Conference for Israel unites American-Zionists in Dallas amid global tensions](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-alex-global-conference-for-israel-530p_00.00.02.08.jpg?ve=1&tl=1)
 
- ![Dallas police officer rehired following off-duty arrest](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2019/08/32/18/592/333/60358ba0-DPD20badge_1439831436204_110027_ver1.0_640_360.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-police-officer-rehired-following-off-duty-arrest)
+ ![Global Conference for Israel unites American-Zionists in Dallas amid global tensions](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-alex-global-conference-for-israel-530p_00.00.02.08.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/global-conference-israel-unites-american-zionists-dallas-amid-global-tensions)
 
-### [Dallas police officer rehired following off-duty arrest](https://www.fox4news.com/news/dallas-police-officer-rehired-following-off-duty-arrest)
+### [Global Conference for Israel unites American-Zionists in Dallas amid global tensions](https://www.fox4news.com/news/global-conference-israel-unites-american-zionists-dallas-amid-global-tensions)
 
- [![Airbnb promotion will let users play gladiator in Rome's Colosseum](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2182908977-scaled.jpg?ve=1&tl=1)
+ [![LIVE UPDATES: Mike Tyson-Jake Paul fight, start time, undercard and more](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2184263100.jpg?ve=1&tl=1)
 
- ![Airbnb promotion will let users play gladiator in Rome's Colosseum](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2182908977-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/airbnb-colosseum-gladiator-experience)
+ ![LIVE UPDATES: Mike Tyson-Jake Paul fight, start time, undercard and more](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2184263100.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mike-tyson-jake-paul-fight-live-updates-start-time)
 
-### [Airbnb promotion will let users play gladiator in Rome's Colosseum](https://www.fox4news.com/news/airbnb-colosseum-gladiator-experience)
+### [LIVE UPDATES: Mike Tyson-Jake Paul fight, start time, undercard and more](https://www.fox4news.com/news/mike-tyson-jake-paul-fight-live-updates-start-time)
 
- [![Gifts tweens actually want](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/tweens-thumbnail.jpg?ve=1&tl=1)
+ [![Grand Prairie ISD superintendent's job in limbo after order blocking his firing expires](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-lori-gpisd-superintendent-4p_00.00.03.42.jpg?ve=1&tl=1)
 
- ![Gifts tweens actually want](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/tweens-thumbnail.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/2024-gift-guide-tweens)
+ ![Grand Prairie ISD superintendent's job in limbo after order blocking his firing expires](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-lori-gpisd-superintendent-4p_00.00.03.42.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grand-prairie-isd-udpate-november-15)
 
-### [Gifts tweens actually want](https://www.fox4news.com/news/2024-gift-guide-tweens)
+### [Grand Prairie ISD superintendent's job in limbo after order blocking his firing expires](https://www.fox4news.com/news/grand-prairie-isd-udpate-november-15)
 
 ###### [News](https://www.fox4news.com/news)
 
