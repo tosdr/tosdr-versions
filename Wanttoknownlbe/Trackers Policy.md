@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/boeken/hanneke-de-vries-leent-geld-door-ad-broere/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/waarom-het-zolang-duurt/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
