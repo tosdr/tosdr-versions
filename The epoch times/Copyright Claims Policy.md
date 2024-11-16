@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://www.theepochtimes.com/us/trump-to-unveil-his-economic-selections-next-week-senior-adviser-says-5760888)
+    
+    NEW By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    
+    [![Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667871-2.download-28KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-unveil-his-economic-selections-next-week-senior-adviser-says-5760888)
+* [USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://www.theepochtimes.com/us/usps-incurs-9-5-billion-loss-despite-raising-stamp-prices-5760924)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://img.theepochtimes.com/assets/uploads/2022/02/25/USPS_JF_01152021-205x123.jpg.webp)](https://www.theepochtimes.com/us/usps-incurs-9-5-billion-loss-despite-raising-stamp-prices-5760924)
+* [Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://www.theepochtimes.com/us/pentagon-fails-7th-audit-in-row-aims-for-clean-audit-in-2028-post-5760909)
+    
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://img.theepochtimes.com/assets/uploads/2024/11/id5757457-3.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/pentagon-fails-7th-audit-in-row-aims-for-clean-audit-in-2028-post-5760909)
+* [Xi Says China Is Ready to Work With Trump Administration](https://www.theepochtimes.com/china/biden-xi-head-to-final-meeting-as-trumps-return-looms-over-us-china-relations-5760894)
+    
+    2hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Xi Says China Is Ready to Work With Trump Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Xi Says China Is Ready to Work With Trump Administration](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760987-Biden-Peru-GettyImages-2184405124-205x123.jpg.webp)](https://www.theepochtimes.com/china/biden-xi-head-to-final-meeting-as-trumps-return-looms-over-us-china-relations-5760894)
+* [Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://www.theepochtimes.com/business/stocks-sell-off-at-end-of-week-on-profit-taking-ahead-of-nvidia-earnings-report-5760881)
+    
+    2hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    
+    [![Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760886-GettyImages-2183884068-205x123.jpg.webp)](https://www.theepochtimes.com/business/stocks-sell-off-at-end-of-week-on-profit-taking-ahead-of-nvidia-earnings-report-5760881)
+* [Judge Pauses The Onion’s Takeover of Infowars After Auction Complaints](https://www.theepochtimes.com/us/judge-pauses-the-onions-takeover-of-infowars-after-auction-complaints-5760870)
+    
+    3hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    
+    [![Judge Pauses The Onion’s Takeover of Infowars After Auction Complaints](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Judge Pauses The Onion’s Takeover of Infowars After Auction Complaints](https://img.theepochtimes.com/assets/uploads/2024/06/28/id5676949-AP24179548034986-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-pauses-the-onions-takeover-of-infowars-after-auction-complaints-5760870)
+* [Federal Reserve Governor Defends Central Bank Independence](https://www.theepochtimes.com/business/federal-reserve-governor-defends-central-bank-independence-5760849)
+    
+    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Federal Reserve Governor Defends Central Bank Independence](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Federal Reserve Governor Defends Central Bank Independence](https://img.theepochtimes.com/assets/uploads/2024/11/04/id5753803-11042024-DSC08032-Federal-Reserve-Bank-of-Philadelphia-205x123.jpg.webp)](https://www.theepochtimes.com/business/federal-reserve-governor-defends-central-bank-independence-5760849)
+* [Peppermint Power: How to Use the Herb for Tummy Trouble](https://www.theepochtimes.com/health/peppermint-power-how-to-use-the-herb-for-tummy-trouble-5759001)
+    
+    5hr By [Amy Denney](https://www.theepochtimes.com/author/amy-denney)
+    
+    [![Peppermint Power: How to Use the Herb for Tummy Trouble](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Peppermint Power: How to Use the Herb for Tummy Trouble](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759002-peppermint-205x123.jpg.webp)](https://www.theepochtimes.com/health/peppermint-power-how-to-use-the-herb-for-tummy-trouble-5759001)
 * [Oregon Detects Its First Human Case of Bird Flu](https://www.theepochtimes.com/us/oregon-detects-its-first-human-case-of-bird-flu-5760839)
     
-    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    8hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![Oregon Detects Its First Human Case of Bird Flu](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Oregon Detects Its First Human Case of Bird Flu](https://img.theepochtimes.com/assets/uploads/2024/07/13/id5685730-2024-07-13T011945Z_1_LYNXMPEK6C00U_RTROPTP_4_HEALTH-BIRDFLU-SURVEILLANCE-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregon-detects-its-first-human-case-of-bird-flu-5760839)
 * [From Labor Camp to Epoch Times CEO: Janice Trey’s Journey to ‘Give a Voice to the Voiceless’](https://www.theepochtimes.com/china/from-forced-child-labor-to-epoch-times-ceo-janice-treys-journey-to-give-a-voice-to-the-voiceless-5760762)
     
-    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    9hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
     
     [![From Labor Camp to Epoch Times CEO: Janice Trey’s Journey to ‘Give a Voice to the Voiceless’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![From Labor Camp to Epoch Times CEO: Janice Trey’s Journey to ‘Give a Voice to the Voiceless’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760781-IMG_2223-205x123.jpg.webp)](https://www.theepochtimes.com/china/from-forced-child-labor-to-epoch-times-ceo-janice-treys-journey-to-give-a-voice-to-the-voiceless-5760762)
-* [Here’s How Each State Fared as National Overdose Deaths Dropped Last Year](https://www.theepochtimes.com/us/heres-how-each-state-fared-as-national-overdose-deaths-dropped-last-year-5760380)
-    
-    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Here’s How Each State Fared as National Overdose Deaths Dropped Last Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Here’s How Each State Fared as National Overdose Deaths Dropped Last Year](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752850-GettyImages-1419936904-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-how-each-state-fared-as-national-overdose-deaths-dropped-last-year-5760380)
-* [Art of Truth, Compassion, and Tolerance Exhibition Graces Congressional Building in Washington](https://www.theepochtimes.com/us/art-of-truth-compassion-and-tolerance-exhibition-graces-congressional-building-in-washington-5760467)
-    
-    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
-    
-    [![Art of Truth, Compassion, and Tolerance Exhibition Graces Congressional Building in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Art of Truth, Compassion, and Tolerance Exhibition Graces Congressional Building in Washington](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759537-11132024-DSC09632-Zhen-Shan-Ren-art-Congress-205x123.jpg.webp)](https://www.theepochtimes.com/us/art-of-truth-compassion-and-tolerance-exhibition-graces-congressional-building-in-washington-5760467)
-* [Net-Zero Rollback: How Trump Might Achieve De-regulation Goals](https://www.theepochtimes.com/us/net-zero-rollback-how-trump-might-achieve-de-regulation-goals-5759027)
-    
-    6hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
-    
-    [![Net-Zero Rollback: How Trump Might Achieve De-regulation Goals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Net-Zero Rollback: How Trump Might Achieve De-regulation Goals](https://img.theepochtimes.com/assets/uploads/2017/01/23/GettyImages-632489930-205x123.jpg.webp)](https://www.theepochtimes.com/us/net-zero-rollback-how-trump-might-achieve-de-regulation-goals-5759027)
-* [How the Chinese Communist Party Aims to Transform Religions](https://www.theepochtimes.com/china/how-the-chinese-communist-party-aims-to-transform-religions-5758556)
-    
-    6hr By [Emmanuele Khouri](https://www.theepochtimes.com/author/emmanuele-khouri)
-    
-    [![How the Chinese Communist Party Aims to Transform Religions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![How the Chinese Communist Party Aims to Transform Religions](https://img.theepochtimes.com/assets/uploads/2023/04/08/id5180663-GettyImages-1229216151-205x123.jpg.webp)](https://www.theepochtimes.com/china/how-the-chinese-communist-party-aims-to-transform-religions-5758556)
-* [8 Takeaways From the First Week of UN Climate Talks](https://www.theepochtimes.com/world/8-takeaways-from-the-first-week-of-un-climate-talks-5760297)
-    
-    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
-    
-    [![8 Takeaways From the First Week of UN Climate Talks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![8 Takeaways From the First Week of UN Climate Talks](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760342-YOB-205x123.jpg.webp)](https://www.theepochtimes.com/world/8-takeaways-from-the-first-week-of-un-climate-talks-5760297)
-* [Oklahoma Purchases More Than 500 Bibles for Classrooms](https://www.theepochtimes.com/us/oklahoma-purchases-more-than-500-bibles-for-classrooms-5760757)
-    
-    12hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
-    
-    [![Oklahoma Purchases More Than 500 Bibles for Classrooms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Oklahoma Purchases More Than 500 Bibles for Classrooms](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676732-SCC-5_JF_07212023KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/oklahoma-purchases-more-than-500-bibles-for-classrooms-5760757)
-* [Hundreds of New UFO Sightings Reported to Pentagon](https://www.theepochtimes.com/science/hundreds-of-new-ufo-sightings-reported-to-pentagon-5760797)
-    
-    13hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
-    
-    [![Hundreds of New UFO Sightings Reported to Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Hundreds of New UFO Sightings Reported to Pentagon](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760807-UFO-205x123.jpg.webp)](https://www.theepochtimes.com/science/hundreds-of-new-ufo-sightings-reported-to-pentagon-5760797)
-* [Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://www.theepochtimes.com/us/federal-appeals-court-allows-most-louisiana-school-districts-to-follow-ten-commandments-poster-law-5760717)
-    
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://img.theepochtimes.com/assets/uploads/2024/06/23/id5673994-Ten-Commandments-AP24171685450881-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-allows-most-louisiana-school-districts-to-follow-ten-commandments-poster-law-5760717)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
