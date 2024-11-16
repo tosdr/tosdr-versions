@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Will my health insurance cover car accident injuries?](https://www.pintas.com/wp-content/uploads/2020/07/car-accidents-will-my-health-insurance-cover-car-accident-injuries.jpg "Will My Health Insurance Cover Car Accident Injuries?")](https://www.pintas.com/practice-areas/car-accident-lawyer/will-my-health-insurance-cover-car-accident-injuries/ "Will My Health Insurance Cover Car Accident Injuries?")
+[![Can you get ptsd from nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-get-ptsd-from-nursing-home-abuse-scaled.jpg "Can You Get PTSD From Nursing Home Abuse?")](https://www.pintas.com/faq/can-you-get-ptsd-from-nursing-home-abuse/ "Can You Get PTSD From Nursing Home Abuse?")
 
-[#### Will My Health Insurance Cover Car Accident Injuries?](https://www.pintas.com/practice-areas/car-accident-lawyer/will-my-health-insurance-cover-car-accident-injuries/)
+[#### Can You Get PTSD From Nursing Home Abuse?](https://www.pintas.com/faq/can-you-get-ptsd-from-nursing-home-abuse/)
 
-[![How to find the best attorney for elder abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-how-to-find-the-best-attorney-for-elder-abuse-lawyer-scaled.jpg "How to Find the Best Attorney for Elder Abuse?")](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/ "How to Find the Best Attorney for Elder Abuse?")
+[![Can mesothelioma go into remission?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-can-mesothelioma-go-into-remission.jpg "Can Mesothelioma Go Into Remission?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/ "Can Mesothelioma Go Into Remission?")
 
-[#### How to Find the Best Attorney for Elder Abuse?](https://www.pintas.com/faq/how-to-find-the-best-attorney-for-elder-abuse-lawyer/)
+[#### Can Mesothelioma Go Into Remission?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-mesothelioma-go-into-remission/)
 
-[![What else causes mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/07/mesothelioma-what-else-causes-mesothelioma.jpg "What Else Causes Mesothelioma?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/other-causes-of-mesothelioma "What Else Causes Mesothelioma?")
+[![How much is a mormon church sex abuse settlement worth?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "How Much Is a Mormon Church Sex Abuse Settlement Worth?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/ "How Much Is a Mormon Church Sex Abuse Settlement Worth?")
 
-[#### What Else Causes Mesothelioma?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/other-causes-of-mesothelioma)
+[#### How Much Is a Mormon Church Sex Abuse Settlement Worth?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
