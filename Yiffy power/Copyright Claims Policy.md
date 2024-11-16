@@ -79,27 +79,27 @@ Latest commented posts
 
 October 22, 2024
 
-[](https://yiff-party.com/yiff/shiranai-created-by-riska-artist/)
+[](https://yiff-party.com/yiff-ai-premium/sisu-directed-by-unknown-director-3/)
 
-[shiranai created by riska (artist)](https://yiff-party.com/yiff/shiranai-created-by-riska-artist/)
+[sisu directed by unknown director](https://yiff-party.com/yiff-ai-premium/sisu-directed-by-unknown-director-3/)
 
-0 2 0
+0 1 0
 
 November 16, 2024
 
-[](https://yiff-party.com/yiff/loona-directed-by-owlfucker/)
+[](https://yiff-party.com/yiff/microsoft-and-etc-created-by-blokfort/)
 
-[loona directed by owlfucker](https://yiff-party.com/yiff/loona-directed-by-owlfucker/)
+[microsoft and etc created by blokfort](https://yiff-party.com/yiff/microsoft-and-etc-created-by-blokfort/)
 
-0 149 0
+0 169 0
 
 October 17, 2024
 
-[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-niibun/)
+[](https://yiff-party.com/yiff/2024-pokemon-gigaleak-and-etc-created-by-foxvomitarts/)
 
-[nintendo and etc created by niibun](https://yiff-party.com/yiff/nintendo-and-etc-created-by-niibun/)
+[2024 pokemon gigaleak and etc created by foxvomitarts](https://yiff-party.com/yiff/2024-pokemon-gigaleak-and-etc-created-by-foxvomitarts/)
 
-0 86 0
+0 57 0
 
 October 17, 2024
 
