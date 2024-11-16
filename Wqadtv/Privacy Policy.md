@@ -32,13 +32,8 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
         
-        #### [A basketball homecoming: Owen Freeman, Brock Harding hit the court again in Moline for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509) [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
+        #### [Former Moline Marooners Brock Harding, Owen Freeman return home for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
         
-        #### [Former Moline Marooners Brock Harding, Owen Freeman return home for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509) [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
-        
-        #### [Former Moline Marooners return home for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509) [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
-        
-        #### [Brock Harding, Owen Freeman return to hometown for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
         
         #### [Get your home ready for the winter this weekend before cooler temps arrive](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
@@ -91,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-42°
+40°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
