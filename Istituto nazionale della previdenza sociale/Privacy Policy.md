@@ -348,7 +348,7 @@ it
             
             * [Esplora Trasformazione digitale e Innovazione tecnologica](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica.html)
             * [Servizi proattivi](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica/servizi-proattivi.html)
-            * [La nuova versione della libreria di componenti di Sirio, il design system dell’Istituto](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica/la-nuova-versione-della-libreria-di-componenti-di-sirio--il-desi.html)
+            * [Inps.design](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica/Inps-design.html)
             * [La digitalizzazione per mettere il cittadino al centro](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica/la-digitalizzazione-per-mettere-il-cittadino-al-centro.html)
             * [La rivoluzione del lavoro con Agile](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica/la-rivoluzione-del-lavoro-con-agile.html)
             
