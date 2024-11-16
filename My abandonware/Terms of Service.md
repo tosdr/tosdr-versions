@@ -77,7 +77,7 @@ Follow Us!
 
 [9,800](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
 
-[10](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") Follow
+[30](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") Follow
 
 Monthly Newsletter
 
@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
-* [Mario War](https://www.myabandonware.com/game/mario-war-tqm)
-* [MagiDuck](https://www.myabandonware.com/game/magiduck-tql)
-* [MadMan](https://www.myabandonware.com/game/madman-tqk)
-* [Machine Nation](https://www.myabandonware.com/game/machine-nation-tqj)
-* [Lurid Land](https://www.myabandonware.com/game/lurid-land-tqi)
+* [Race Mania](https://www.myabandonware.com/game/race-mania-tr1)
+* [Pyrosaurus](https://www.myabandonware.com/game/pyrosaurus-tr0)
+* [Mr. Clean](https://www.myabandonware.com/game/mr-clean-tqz)
+* [Planet X3](https://www.myabandonware.com/game/planet-x3-tqy)
+* [Pisqorx](https://www.myabandonware.com/game/pisqorx-tqx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
