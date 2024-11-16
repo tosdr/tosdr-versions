@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Fest­geld: Zins­expert zockt ab](https://www.test.de/Festgeld-Zinsexpert-zockt-ab-6165436-0/ "Festgeld - Zinsexpert zockt ab")
-* [Schnell­test Samsung Galaxy Z Fold5 und Flip5: Klappt’s bei Samsung?](https://www.test.de/Schnelltest-Samsung-Galaxy-Z-Fold5-und-Flip5-Klappts-bei-Samsung-6049521-0/ "Schnelltest Samsung Galaxy Z Fold5 und Flip5 - Klappt’s bei Samsung?")
-* [Energiepreise: Zuschuss für Heizöl und Pellets](https://www.test.de/Energiepreise-Zuschuss-fuer-Heizoel-und-Pellets-5999306-0/ "Energiepreise - Zuschuss für Heizöl und Pellets")
-* [Soziale Netz­werke: Phishing-Fallen mit vermissten Kindern](https://www.test.de/test-warnt-Phishing-Fallen-mit-vermissten-Kindern-6038575-0/ "Soziale Netzwerke - Phishing-Fallen mit vermissten Kindern")
-* [Verpackungs­ärger: Lorenz Crunchips Paprika, 150 Gramm](https://www.test.de/Verpackungsaerger-Lorenz-Crunchips-Paprika-150-Gramm-5944710-0/ "Verpackungsärger - Lorenz Crunchips Paprika, 150 Gramm")
-* [Check­liste Trauerfall: Was tun nach einem Todes­fall](https://www.test.de/Checkliste-Was-tun-im-Todesfall-5987995-0/ "Checkliste Trauerfall - Was tun nach einem Todesfall")
+* [Riester-Bank­sparpläne: Sparkasse lässt Kunden im Stich](https://www.test.de/Riester-Banksparplaene-Sparkasse-laesst-Kunden-im-Stich-5943759-0/ "Riester-Banksparpläne - Sparkasse lässt Kunden im Stich")
+* [Ärger beim Bahnfahren: Schön cool bleiben – unsere Tipps für Buchung und Entschädigung](https://www.test.de/Aerger-beim-Bahnfahren-Wie-Sie-das-Beste-draus-machen-4200668-0/ "Ärger beim Bahnfahren - Schön cool bleiben – unsere Tipps für Buchung und Entschädigung")
+* [Streuung bei der Geld­anlage: Sind Einzel­aktien besser als ETF?](https://www.test.de/Streuung-bei-der-Geldanlage-Sind-Einzelaktien-besser-als-ETF-6116220-0/ "Streuung bei der Geldanlage - Sind Einzelaktien besser als ETF?")
+* [Neben­wirkung von Medikamenten: Von harmlos bis lebens­gefähr­lich](https://www.test.de/Nebenwirkung-von-Medikamenten-Von-harmlos-bis-lebensgefaehrlich-5996584-0/ "Nebenwirkung von Medikamenten - Von harmlos bis lebensgefährlich")
+* [Vergleichs­maßstab für gemischte Depots: So über­prüfen Sie Ihren Anlage­erfolg](https://www.test.de/Vergleichsmassstab-fuer-gemischte-Depots-So-ueberpruefen-Sie-Ihren-Anlageerfolg-6070469-0/ "Vergleichsmaßstab für gemischte Depots - So überprüfen Sie Ihren Anlageerfolg")
+* [LTE-Router: Sicher­heits­lücken in drei Hotspots](https://www.test.de/Mobile-Hotspots-Sicherheitsluecken-in-drei-Hotspots-5991039-0/ "LTE-Router - Sicherheitslücken in drei Hotspots")
 
 Service Stiftung Warentest
 
