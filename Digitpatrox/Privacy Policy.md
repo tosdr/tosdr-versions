@@ -20,16 +20,16 @@ Saturday, November 16 2024
 
 Latest
 
-* [EU Fines Meta Nearly €800 Million over Facebook Marketplace](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
-* [Black Friday sales are slashing the prices of e-bikes and scooters — shop the best deals up to $500 off](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
-* [Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
-* [Half-Life 2 is getting a huge 20th anniversary update](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
-* [This Black Friday Deal Brings 44% off on Z-Edge’s 27″ Curved Gaming Monitor](https://digitpatrox.com/this-black-friday-deal-brings-44-off-on-z-edges-27-curved-gaming-monitor/)
-* [Mimecast promises “unparalleled support” with new Partner ONE MSP program](https://digitpatrox.com/mimecast-promises-unparalleled-support-with-new-partner-one-msp-program/)
-* [AI is dumber than you think](https://digitpatrox.com/ai-is-dumber-than-you-think/)
-* [How to Contact Amazon Customer Service and Talk to a Real Person](https://digitpatrox.com/how-to-contact-amazon-customer-service-and-talk-to-a-real-person/)
-* [Can You Get a Deal After You’ve Paid Full Price?](https://digitpatrox.com/can-you-get-a-deal-after-youve-paid-full-price/)
-* [Does Your Raspberry Pi Need an Active Cooler? How to Know It’s Too Hot](https://digitpatrox.com/does-your-raspberry-pi-need-an-active-cooler-how-to-know-its-too-hot/)
+* [You Can Get This Lenovo IdeaPad 5i for $580 Right Now](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
+* [Facebook not working with a VPN? Troubleshooting guide](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
+* [Windows 11 build 22635.4510 (KB5046716) brings more sharing options (preview)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
+* [Best Knife Sharpeners for Chef’s Knives](https://digitpatrox.com/best-knife-sharpeners-for-chefs-knives/)
+* [How to Use the OFFSET Function in Excel](https://digitpatrox.com/how-to-use-the-offset-function-in-excel/)
+* [Companies Should Invest More in Tech](https://digitpatrox.com/companies-should-invest-more-in-tech/)
+* [How to watch ‘Boybands Forever’ online from anywhere](https://digitpatrox.com/how-to-watch-boybands-forever-online-from-anywhere/)
+* [GitHub projects targeted with malicious commits to frame researcher](https://digitpatrox.com/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
+* [NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://digitpatrox.com/nfl-fans-worry-netflixs-bad-tyson-vs-paul-stream-means-it-cant-handle-football/)
+* [Arcane Season 2: Is Vander (Warwick) Really Dead?](https://digitpatrox.com/arcane-season-2-is-vander-warwick-really-dead/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241115-eu-fines-meta-facebook-marketplace.jpg)](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
+* [![](https://lifehacker.com/imagery/articles/01JAV92DJ2ZRPM5DGBHMS8PZWZ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
     
-    [EU Fines Meta Nearly €800 Million over Facebook Marketplace](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
+    [You Can Get This Lenovo IdeaPad 5i for $580 Right Now](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
     
-    12 seconds ago
+    6 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/4YEruceNdqH9nJe9okL87V-1200-80.jpg)](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Troubleshooting-guide_-Facebook-not-working-with-a-VPN.jpg)](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
     
-    [Black Friday sales are slashing the prices of e-bikes and scooters — shop the best deals up to $500 off](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
+    [Facebook not working with a VPN? Troubleshooting guide](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
     
-    4 minutes ago
+    13 minutes ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/11/15/Hacker_crypto_bitcoins.jpg)](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
+* [![](https://pureinfotech.com/wp-content/uploads/2024/11/kb5046716-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
     
-    [Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
+    [Windows 11 build 22635.4510 (KB5046716) brings more sharing options (preview)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
     
-    1 hour ago
+    15 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/qGiYO3k0vz2G_SREV1XI5PrQc1s=/0x0:1024x576/1200x628/filters:focal(512x288:513x289)/cdn.vox-cdn.com/uploads/chorus_asset/file/25735822/ss_18841cb9a8fc2cf67039317b601d10c4059b6fa8.jpg)](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1680721009/prod/content/dam/CRO-Images-2023/04April/Audience-Growth/CR-AG-Inlinehero-OTL-knife-sharpeners-0423)](https://digitpatrox.com/best-knife-sharpeners-for-chefs-knives/)
     
-    [Half-Life 2 is getting a huge 20th anniversary update](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
+    [Best Knife Sharpeners for Chef’s Knives](https://digitpatrox.com/best-knife-sharpeners-for-chefs-knives/)
     
-    2 hours ago
+    16 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/11/Z-Edge-Gaming-Monitor.jpg)](https://digitpatrox.com/this-black-friday-deal-brings-44-off-on-z-edges-27-curved-gaming-monitor/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/an-excel-spreadsheet-highlighting-the-offset-function-with-the-excel-logo-on-the-right.jpg)](https://digitpatrox.com/how-to-use-the-offset-function-in-excel/)
     
-    [This Black Friday Deal Brings 44% off on Z-Edge’s 27″ Curved Gaming Monitor](https://digitpatrox.com/this-black-friday-deal-brings-44-off-on-z-edges-27-curved-gaming-monitor/)
+    [How to Use the OFFSET Function in Excel](https://digitpatrox.com/how-to-use-the-offset-function-in-excel/)
     
-    2 hours ago
+    18 minutes ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [12 seconds ago
+* [6 minutes ago
     
-    ### EU Fines Meta Nearly €800 Million over Facebook Marketplace](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
-* [4 minutes ago
+    ### You Can Get This Lenovo IdeaPad 5i for $580 Right Now](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
+* [13 minutes ago
     
-    ### Black Friday sales are slashing the prices of e-bikes and scooters — shop the best deals up to $500 off](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
-* [1 hour ago
+    ### Facebook not working with a VPN? Troubleshooting guide](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
+* [15 minutes ago
     
-    ### Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
+    ### Windows 11 build 22635.4510 (KB5046716) brings more sharing options (preview)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [September 6, 2024
     
-    ### Best Blenders for Every Price Range](https://digitpatrox.com/best-blenders-for-every-price-range/)
-* [October 15, 2024
+    ### 7 Of The Most Unpopular Windows Features of All Time](https://digitpatrox.com/7-of-the-most-unpopular-windows-features-of-all-time/)
+* [4 weeks ago
     
-    ### Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
-* [September 28, 2024
+    ### Apple Pay Is Addicted to Awful Lending Services](https://digitpatrox.com/apple-pay-is-addicted-to-awful-lending-services/)
+* [September 30, 2024
     
-    ### My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
+    ### Maui, Hawaii health clinic notifies 124K people of data breach that compromised SSNs, payment and medical info](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
 
 Last Modified Topics
 
-* [4 hours ago
+* [1 hour ago
     
-    ### AI is dumber than you think](https://digitpatrox.com/ai-is-dumber-than-you-think/)
-* [4 hours ago
+    ### How to watch ‘Boybands Forever’ online from anywhere](https://digitpatrox.com/how-to-watch-boybands-forever-online-from-anywhere/)
+* [2 hours ago
     
-    ### How to Contact Amazon Customer Service and Talk to a Real Person](https://digitpatrox.com/how-to-contact-amazon-customer-service-and-talk-to-a-real-person/)
-* [4 hours ago
+    ### GitHub projects targeted with malicious commits to frame researcher](https://digitpatrox.com/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
+* [2 hours ago
     
-    ### Can You Get a Deal After You’ve Paid Full Price?](https://digitpatrox.com/can-you-get-a-deal-after-youve-paid-full-price/)
+    ### NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://digitpatrox.com/nfl-fans-worry-netflixs-bad-tyson-vs-paul-stream-means-it-cant-handle-football/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
