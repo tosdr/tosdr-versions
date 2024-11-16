@@ -8,17 +8,17 @@
 
  -26.35
 
-##### CRUDEOIL   5,765.00
+##### CRUDEOIL   5,660.00
 
- -31.00
+ -107.00
 
-##### GOLD   74,147.00
+##### GOLD   74,031.00
 
- -335.00
++ 85.00
 
-##### SILVER   88,788.00
+##### SILVER   88,505.00
 
- -409.00
++ 84.00
 
 ##### SENSEX   77,580.31
 
@@ -32,17 +32,17 @@
 
  -26.35
 
-##### CRUDEOIL   5,765.00
+##### CRUDEOIL   5,660.00
 
- -31.00
+ -107.00
 
-##### CRUDEOIL   5,765.00
+##### CRUDEOIL   5,660.00
 
- -31.00
+ -107.00
 
-##### GOLD   74,147.00
+##### GOLD   74,031.00
 
- -335.00
++ 85.00
 
 [![Businessline Logo](https://assetsbl.thehindubusinessline.com/theme/images/bl-online/logo.svg)](https://www.thehindubusinessline.com/)
 
@@ -708,9 +708,9 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 ##### Trending on businessline
 
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Stock Market Live](https://www.thehindubusinessline.com/markets/share-market-nifty-sensex-live-updates-11-november-2024/article68852303.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Maharashtra Assembly Election 2024](https://www.thehindubusinessline.com/news/maharashtra-assembly-elections-2024-live-updates/article68868322.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Swiggy Share Price Live](https://www.thehindubusinessline.com/markets/stock-markets/swiggy-stocks-share-price-today-swiggy-ipo-listing-live-13-nov-2024/article68859042.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Niva Bupa IPO Live](https://www.thehindubusinessline.com/markets/stock-markets/niva-bupa-health-insurance-ipo-gmp-today-live-updates-11-nov-2024/article68854423.ece)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) AP Budget 2024](https://www.thehindubusinessline.com/news/national/ap-assembly-budget-session-andhra-pradesh-budget-2024-live-updates/article68854585.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Asian Paints Share Price](https://www.thehindubusinessline.com/markets/stock-markets/asian-paints-stock-asian-paints-share-price-today-live-updates-11-nov-2024/article68854414.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) RBI Monetary Policy Live](https://www.thehindubusinessline.com/money-and-banking/rbi-monetary-policy-committee-mpc-meeting-october-2024-live-news-updates/article68732719.ece)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Ratan Tata Stocks Live](https://www.thehindubusinessline.com/markets/stock-markets/ratan-tata-group-stocks-tcs-tata-motors-tata-power-tata-steel-titan-tata-technologies-tata-communications-share-price-live-updates-11-oct-2024/article68739247.ece)
@@ -731,7 +731,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 
 ##### Trending on Group sites
 
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) India Vs New Zealand Live Score](https://sportstar.thehindu.com/cricket/ind-nz-live-score-day-3-1st-test-bangalore-weather-updates-india-vs-new-zealand-scorecard-highlights-streaming-info/article68767579.ece)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Putting Muslims in their place?](https://frontline.thehindu.com/the-nation/waqf-amendment-bill-impact-indian-muslims-reforms-consultative-process-othering-backwardness/article68849163.ece?utm_source=thg&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Explore Frontline Packages](https://frontline.thehindu.com/packages/?utm_source=bl&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Cricket News](https://sportstar.thehindu.com/cricket/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Paralympics 2024](https://sportstar.thehindu.com/olympics/paris-paralympics-2024/)
@@ -742,7 +742,7 @@ The Courts in Chennai in India shall have the exclusive jurisdiction to the excl
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Indian Premier League IPL 2024](https://sportstar.thehindu.com/cricket/ipl/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Euro 2024](https://sportstar.thehindu.com/newstag/euro-2024/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Election 2024](https://frontline.thehindu.com/election-2024/)
-*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Centre is diluting federalism](https://frontline.thehindu.com/current-issue/?utm_source=bl&utm_medium=footer&utm_campaign=internal)
+*  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) BJP is back to its favourite bogey](https://frontline.thehindu.com/columns/bjp-modi-aggresive-hindutva-language-jharkhand-assembly-election-2024-hemant-soren/article68841509.ece?utm_source=thg&utm_medium=footer&utm_campaign=internal)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Football News](https://sportstar.thehindu.com/football/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) Politics News](https://frontline.thehindu.com/politics/)
 *  [![arrow](https://assetsbl.thehindubusinessline.com/theme/images/BLRX/graph-arrow-icon.svg) The Nation News](https://frontline.thehindu.com/the-nation/)
