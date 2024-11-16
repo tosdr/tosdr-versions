@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Measuring Velocity With Math: Before Affordable Chronographs, There Was The Chronochart](https://www.thegunpage.com/measuring-velocity-with-math-before-affordable-chronographs-there-was-the-chronochart/10611917)
 * [TFB Review: Smith & Wesson M&P9 M2.0 Compact Carry Comp](https://www.thegunpage.com/tfb-review-smith-wesson-mp9-m2-0-compact-carry-comp/10611914)
 * [POTD: M16A4 In Rifle and Pistol Competition](https://www.thegunpage.com/potd-m16a4-in-rifle-and-pistol-competition/10611915)
 * [TFB Podcast Roundup 155: The November 15th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-155-the-november-15th-roundup/10611916)
@@ -190,7 +191,6 @@ Recent Posts
 * [Taurus Re-Introduce the Snub Nose Taurus 650](https://www.thegunpage.com/taurus-re-introduce-the-snub-nose-taurus-650/10611909)
 * [YouTuber Brandon Herrera for ATF Director? Mmmm, Probably Not; But Would be Funny](https://www.thegunpage.com/youtuber-brandon-herrera-for-atf-director-mmmm-probably-not-but-would-be-funny/10611903)
 * [FALCO Holsters Launches Hybrid Holsters Featuring New TalonGuard Syste](https://www.thegunpage.com/falco-holsters-launches-hybrid-holsters-featuring-new-talonguard-syste/10611899)
-* [NSSF Urges Trump to Disband White House Office of Gun Violence Prevention](https://www.thegunpage.com/nssf-urges-trump-to-disband-white-house-office-of-gun-violence-prevention/10611897)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
