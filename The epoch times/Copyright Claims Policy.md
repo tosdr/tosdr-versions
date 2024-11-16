@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Oregon Detects Its First Human Case of Bird Flu](https://www.theepochtimes.com/us/oregon-detects-its-first-human-case-of-bird-flu-5760839)
+    
+    2hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Oregon Detects Its First Human Case of Bird Flu](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Oregon Detects Its First Human Case of Bird Flu](https://img.theepochtimes.com/assets/uploads/2024/07/13/id5685730-2024-07-13T011945Z_1_LYNXMPEK6C00U_RTROPTP_4_HEALTH-BIRDFLU-SURVEILLANCE-205x123.jpg.webp)](https://www.theepochtimes.com/us/oregon-detects-its-first-human-case-of-bird-flu-5760839)
+* [From Labor Camp to Epoch Times CEO: Janice Trey’s Journey to ‘Give a Voice to the Voiceless’](https://www.theepochtimes.com/china/from-forced-child-labor-to-epoch-times-ceo-janice-treys-journey-to-give-a-voice-to-the-voiceless-5760762)
+    
+    2hr By [Eva Fu](https://www.theepochtimes.com/author/eva-fu)
+    
+    [![From Labor Camp to Epoch Times CEO: Janice Trey’s Journey to ‘Give a Voice to the Voiceless’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![From Labor Camp to Epoch Times CEO: Janice Trey’s Journey to ‘Give a Voice to the Voiceless’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760781-IMG_2223-205x123.jpg.webp)](https://www.theepochtimes.com/china/from-forced-child-labor-to-epoch-times-ceo-janice-treys-journey-to-give-a-voice-to-the-voiceless-5760762)
+* [Here’s How Each State Fared as National Overdose Deaths Dropped Last Year](https://www.theepochtimes.com/us/heres-how-each-state-fared-as-national-overdose-deaths-dropped-last-year-5760380)
+    
+    4hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
+    
+    [![Here’s How Each State Fared as National Overdose Deaths Dropped Last Year](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Here’s How Each State Fared as National Overdose Deaths Dropped Last Year](https://img.theepochtimes.com/assets/uploads/2024/11/02/id5752850-GettyImages-1419936904-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-how-each-state-fared-as-national-overdose-deaths-dropped-last-year-5760380)
+* [Art of Truth, Compassion, and Tolerance Exhibition Graces Congressional Building in Washington](https://www.theepochtimes.com/us/art-of-truth-compassion-and-tolerance-exhibition-graces-congressional-building-in-washington-5760467)
+    
+    5hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    
+    [![Art of Truth, Compassion, and Tolerance Exhibition Graces Congressional Building in Washington](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Art of Truth, Compassion, and Tolerance Exhibition Graces Congressional Building in Washington](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759537-11132024-DSC09632-Zhen-Shan-Ren-art-Congress-205x123.jpg.webp)](https://www.theepochtimes.com/us/art-of-truth-compassion-and-tolerance-exhibition-graces-congressional-building-in-washington-5760467)
+* [Net-Zero Rollback: How Trump Might Achieve De-regulation Goals](https://www.theepochtimes.com/us/net-zero-rollback-how-trump-might-achieve-de-regulation-goals-5759027)
+    
+    6hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    
+    [![Net-Zero Rollback: How Trump Might Achieve De-regulation Goals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Net-Zero Rollback: How Trump Might Achieve De-regulation Goals](https://img.theepochtimes.com/assets/uploads/2017/01/23/GettyImages-632489930-205x123.jpg.webp)](https://www.theepochtimes.com/us/net-zero-rollback-how-trump-might-achieve-de-regulation-goals-5759027)
+* [How the Chinese Communist Party Aims to Transform Religions](https://www.theepochtimes.com/china/how-the-chinese-communist-party-aims-to-transform-religions-5758556)
+    
+    6hr By [Emmanuele Khouri](https://www.theepochtimes.com/author/emmanuele-khouri)
+    
+    [![How the Chinese Communist Party Aims to Transform Religions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![How the Chinese Communist Party Aims to Transform Religions](https://img.theepochtimes.com/assets/uploads/2023/04/08/id5180663-GettyImages-1229216151-205x123.jpg.webp)](https://www.theepochtimes.com/china/how-the-chinese-communist-party-aims-to-transform-religions-5758556)
 * [8 Takeaways From the First Week of UN Climate Talks](https://www.theepochtimes.com/world/8-takeaways-from-the-first-week-of-un-climate-talks-5760297)
     
-    NEW By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    6hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
     
     [![8 Takeaways From the First Week of UN Climate Talks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![8 Takeaways From the First Week of UN Climate Talks](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760342-YOB-205x123.jpg.webp)](https://www.theepochtimes.com/world/8-takeaways-from-the-first-week-of-un-climate-talks-5760297)
 * [Oklahoma Purchases More Than 500 Bibles for Classrooms](https://www.theepochtimes.com/us/oklahoma-purchases-more-than-500-bibles-for-classrooms-5760757)
     
-    6hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
+    12hr By [Caden Pearson](https://www.theepochtimes.com/author/caden-pearson)
     
     [![Oklahoma Purchases More Than 500 Bibles for Classrooms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Oklahoma Purchases More Than 500 Bibles for Classrooms](https://img.theepochtimes.com/assets/uploads/2024/06/27/id5676732-SCC-5_JF_07212023KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/oklahoma-purchases-more-than-500-bibles-for-classrooms-5760757)
 * [Hundreds of New UFO Sightings Reported to Pentagon](https://www.theepochtimes.com/science/hundreds-of-new-ufo-sightings-reported-to-pentagon-5760797)
     
-    7hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
+    13hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
     
     [![Hundreds of New UFO Sightings Reported to Pentagon](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Hundreds of New UFO Sightings Reported to Pentagon](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760807-UFO-205x123.jpg.webp)](https://www.theepochtimes.com/science/hundreds-of-new-ufo-sightings-reported-to-pentagon-5760797)
 * [Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://www.theepochtimes.com/us/federal-appeals-court-allows-most-louisiana-school-districts-to-follow-ten-commandments-poster-law-5760717)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Federal Appeals Court Allows Most Louisiana School Districts to Follow Ten Commandments Poster Law](https://img.theepochtimes.com/assets/uploads/2024/06/23/id5673994-Ten-Commandments-AP24171685450881-205x123.jpg.webp)](https://www.theepochtimes.com/us/federal-appeals-court-allows-most-louisiana-school-districts-to-follow-ten-commandments-poster-law-5760717)
-* [Here’s Why Counting Ballots Takes Longer in California](https://www.theepochtimes.com/us/heres-why-counting-ballots-takes-longer-in-california-5760045)
-    
-    8hr By [Travis Gillmore](https://www.theepochtimes.com/author/travis-gillmore)
-    
-    [![Here’s Why Counting Ballots Takes Longer in California](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Here’s Why Counting Ballots Takes Longer in California](https://img.theepochtimes.com/assets/uploads/2024/11/12/id5758321-Voters-California-3-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/heres-why-counting-ballots-takes-longer-in-california-5760045)
-* [Medical Examiner Testifies in Daniel Penny Trial That Chokehold Caused Death](https://www.theepochtimes.com/us/medical-examiner-testifies-in-daniel-penny-trial-that-chokehold-caused-death-5760638)
-    
-    10hr By [Michael Washburn](https://www.theepochtimes.com/author/michael-washburn)
-    
-    [![Medical Examiner Testifies in Daniel Penny Trial That Chokehold Caused Death](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Medical Examiner Testifies in Daniel Penny Trial That Chokehold Caused Death](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760750-Daniel-PennyKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/medical-examiner-testifies-in-daniel-penny-trial-that-chokehold-caused-death-5760638)
-* [Trump Names Karoline Leavitt as White House Press Secretary](https://www.theepochtimes.com/us/trump-names-karoline-leavitt-as-white-house-press-secretary-5760736)
-    
-    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Trump Names Karoline Leavitt as White House Press Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Names Karoline Leavitt as White House Press Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760794-karoline-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-karoline-leavitt-as-white-house-press-secretary-5760736)
-* [Venezuelan Gang Operating in ‘Every Major City’ in Tennessee, State Officials Say](https://www.theepochtimes.com/us/venezuelan-gang-operating-in-every-major-city-in-tennessee-state-officials-say-5760623)
-    
-    10hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
-    
-    [![Venezuelan Gang Operating in ‘Every Major City’ in Tennessee, State Officials Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Venezuelan Gang Operating in ‘Every Major City’ in Tennessee, State Officials Say](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760748-Chattanooga-police-GettyImages-481809466-e1653867602806KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/venezuelan-gang-operating-in-every-major-city-in-tennessee-state-officials-say-5760623)
-* [Mastermind of Foiled 2019 Hong Kong Bomb Plot Is Jailed for Nearly 24 Years](https://www.theepochtimes.com/china/mastermind-of-foiled-2019-hong-kong-bomb-plot-is-jailed-for-nearly-24-years-5759731)
-    
-    10hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
-    
-    [![Mastermind of Foiled 2019 Hong Kong Bomb Plot Is Jailed for Nearly 24 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Mastermind of Foiled 2019 Hong Kong Bomb Plot Is Jailed for Nearly 24 Years](https://img.theepochtimes.com/assets/uploads/2022/06/29/resist-tyranny-july-1-march-hong-kong-1200x800-205x123.jpg.webp)](https://www.theepochtimes.com/china/mastermind-of-foiled-2019-hong-kong-bomb-plot-is-jailed-for-nearly-24-years-5759731)
-* [Murder Trial Begins for Illegal Immigrant Accused of Killing Laken Riley](https://www.theepochtimes.com/us/judge-hears-opening-statements-on-illegal-immigrants-alleged-killing-of-georgia-nursing-student-5760462)
-    
-    10hr By [Matt McGregor](https://www.theepochtimes.com/author/matt-mcgregor)
-    
-    [![Murder Trial Begins for Illegal Immigrant Accused of Killing Laken Riley](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Murder Trial Begins for Illegal Immigrant Accused of Killing Laken Riley](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760802-Jose-Ibarra-AP24320580728986-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-hears-opening-statements-on-illegal-immigrants-alleged-killing-of-georgia-nursing-student-5760462)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
