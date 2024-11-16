@@ -207,18 +207,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [The Washington Stand The 4 Stories You Missed This Week](https://patriotpost.us/opinion/112022-the-4-stories-you-missed-this-week-2024-11-16)
+*      [Jeff Jacoby The ‘Jew Hunt’ in Amsterdam Was No Anomaly](https://patriotpost.us/opinion/112027-the-jew-hunt-in-amsterdam-was-no-anomaly-2024-11-16)
 *      [Gary Bauer Smiles & Fires](https://patriotpost.us/opinion/112012-smiles-and-fires-2024-11-15)
 *      [David Harsanyi A Lesson for Democrats — Don’t Be Weird](https://patriotpost.us/opinion/112011-a-lesson-for-democrats-dont-be-weird-2024-11-15)
 *      [Michael Barone The Democratic Gerontocracy Forgets the Lessons of Its Youth and Maturity](https://patriotpost.us/opinion/112010-the-democratic-gerontocracy-forgets-the-lessons-of-its-youth-and-maturity-2024-11-15)
 *      [Victor Davis Hanson Restoring Deterrence Will Prevent Endless Wars](https://patriotpost.us/opinion/112008-restoring-deterrence-will-prevent-endless-wars-2024-11-15)
 *      [Erick Erickson Dear Democrats](https://patriotpost.us/opinion/112006-dear-democrats-2024-11-15)
 *      [Josh Hammer Donald Trump Is Set to Make MAGA America’s Defining Political Movement](https://patriotpost.us/opinion/112005-donald-trump-is-set-to-make-maga-americas-defining-political-movement-2024-11-15)
-*      [Tim Graham Brian Stelter Explores Media Cluelessness](https://patriotpost.us/opinion/112004-brian-stelter-explores-media-cluelessness-2024-11-15)
-*      [Michael Reagan Democracy Outvoted the Democrats](https://patriotpost.us/opinion/112002-democracy-outvoted-the-democrats-2024-11-15)
-*      [Mark Alexander Profiles of Valor: COL Michael Waltz](https://patriotpost.us/alexander/111984-profiles-of-valor-col-michael-waltz-2024-11-15)
-*      [The Washington Stand The Art of Getting It Wrong](https://patriotpost.us/opinion/112023-the-art-of-getting-it-wrong-2024-11-15)
-*      [The Babylon Bee DOGE Identifies 535 Government Workers Who Haven’t Done Any Work for Years](https://patriotpost.us/opinion/112000-doge-identifies-535-government-workers-who-havent-done-any-work-for-years-2024-11-15)
-*      [Guest Commentary Election Postmortem](https://patriotpost.us/opinion/112028-election-postmortem-2024-11-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -232,7 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
