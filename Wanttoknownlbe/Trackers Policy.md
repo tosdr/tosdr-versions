@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/radiohost-fox-ontslagen-na-democraten-aanbidden-moloch/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/rechtbank-coronapas-in-wallonie-onwettig/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
