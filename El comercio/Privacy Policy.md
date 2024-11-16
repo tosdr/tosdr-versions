@@ -31,958 +31,1075 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024
-==============================================================================================
+John Yeboah regresó a la titularidad con Ecuador, ¿cómo jugó?
+=============================================================
 
-El Team Banco de Guayaquil por segundo día consecutivo se quedó con la etapa de la Vuelta al Ecuador.
------------------------------------------------------------------------------------------------------
+Una de las solicitudes más insistentes de los hinchas de la Selección de Ecuador fue ver a John Yeboah como titular.
+--------------------------------------------------------------------------------------------------------------------
 
-![Robinson Chalapud, con el maillot rojo, ganó la quinta etapa de la Vuelta al Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T141344.664.jpg)
+![John Yeboah durante el partido entre Ecuador y Bolivia por las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T195309.699.jpg)
 
-Tras cinco días de competencia, la **Vuelta al Ecuador** retornó a la provincia de Pichincha, sin embargo, aún restan dos fases más por disputarse. El circuito, correspondiente a la **quinta etapa**, llegó hasta la ciudad de Machachi (Pichincha) tras partir desde Urbina (Chimborazo).
+**John** **Yeboah** tuvo su primera titularidad con la **Selección de Ecuador** bajo la dirección técnica de Sebastián Beccacece el jueves 14 de noviembre, en la goleada 4-0 contra Bolivia. El extremo del Venezia no desaprovechó la oportunidad y dejó una gran impresión.
 
-El inicio de la recta final del **torneo ciclístico contó con un recorrido de montaña** durante este viernes 15 de noviembre del 2024. Los participantes recorrieron un tramo de 153, 2 kilómetros de ruta.
-
-### Más noticias:
-
-* [Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/juan-carlos-cordova-vuelta-ecuador-2024.html "Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador")
-* [¿Cómo será la etapa 5 de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa-5-recorrido.html "¿Cómo será la etapa 5 de la Vuelta al Ecuador?")
-* [La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa4-ganador-general-riobamba.html "La etapa 4 de la Vuelta al Ecuador se corrió en circuito cerrado en Riobamba")
-
-El **recorrido contó con tres metas volantes**, que fueron alternados con los puertos de montaña. Estos últimos puntos se establecieron en dos lugares de la carrera y, a diferencia del resto de etapas previas, fueron de primera categoría, por lo que los seis primeros que pasasen por él y se llevarían 10, 8, 6, 4, 2 y un punto.
-
-Para la competencia, el **liderato de la tabla general llegó encabezado por Brayan Obando** del Team Movistar Best PC. A su vez, Juan Carlos Córdova lo hizo como líder de montaña, Esteban Villarreal de metas volantes y Joffre Imbaquingo como el juvenil (sub-23) más destacado.
-
-Un recorrido variable entre subidas y bajadas en la Vuelta al Ecuador
----------------------------------------------------------------------
-
-La **quinta etapa de la Vuelta a Ecuador** llegó con una alternancia entre pronunciadas bajadas y cuestas. El inicio se marcó por un pronunciado descenso para luego pasar hacia una subida que marcaría el primer puerto de montaña.
-
-Dentro de la meta volante inicial, Sebastián Pita, Leonidas Novoa y Esteban Villarreal fueron los primeros pasar aquel espacio. Tras ello, el último y **Cristian Pita se descolgaron hacia una fuga** que sacó una diferencia de minuto y medio.
-
-En el puerto de montaña, Javier Jamaica fue el primero en llegar en el kilómetro 54,4. Pese a ello, Pita volvió a sacar ventaja, aunque se redujo a un minuto con respecto a sus inmediatos perseguidores.
-
-La segunda meta volante fue encabezada por B**ryan Rosero.** Tras ello, los ciclistas se prepararon para la tercera y el próximo puerto de montaña, donde lo volvió a hacer Javier Jamaica.
-
-Para la llegada a Machachi, **Robinson Chalapud del Team Banco Guayaquil** llegó como líder de la etapa y el premio a la combatividad se lo llevó **Camilo Tobar del Team Saitel de México.**
-
-¿Cómo quedan las clasificaciones de la Vuelta al Ecuador?
----------------------------------------------------------
-
-Tras la etapa cinco de la **Vuelta al Ecuador**, Brayan Obando del Movistar Best PC Team continúa como líder. Asimismo, **Joffre Imbaquingo** se mantuvo como el mejor juvenil y Esteban Villarreal como el más destacado en las metas volantes.
-
-El único cambio significativo se presentó dentro de la clasificación de montaña. Javier Jamaica destronó a **Juan Carlos Córdova**, quien se había hecho con el jersey de puntos rojos desde la tercera etapa.
-
-Cuba y Argentina se enfrentaron en la Cumbre de Cuenca
-======================================================
-
-Eduardo Acevedo, de Argentina, y Roldofo Benítez, de Cuba, mantuvieron un tenso cruce de palabras.
---------------------------------------------------------------------------------------------------
-
-![La sesión plenaria de la Cumbre de Cuenca se cumplió este viernes 15 de noviembre de 2024. Foto: API](https://www.elcomercio.com/wp-content/uploads/2024/11/CUmbre-Cuenca-1.jpg)
-
-**Cuba y Argentina** cerraron la **Cumbre Iberoamericana de Cuenca** con un entredicho.
-
-El **embajador de Argentina en Ecuador,** **Eduardo Acevedo**, y el **coordinador Nacional de Cuba, Roldofo Benítez**, intercambiaron un tenso cruce de palabras en la sesión plenaria, que se realizó este viernes 15 de noviembre.
-
-**Acevedo** centró su discurso sobre la necesidad de que se restablezca l**a democracia en Cuba.**
-
-En la réplica, **Benítez** acusó a **Argentina** de intentar hacer **fracasar la Cumbre de Cuenca**. “Pretendieron acallar la voz firma de Iberoamérica en defensa de la igualdad de género. Trataron de imponer la anticientífica postura de que el **cambio climático** no existe”.
-
-Acusó que **Argentina** quiso borrar de los documentos de la **Cumbre** los derechos de las mujeres y los objetivos de desarrollo sostenible. “Hicieron todo lo posible para evitar que existan pronunciamientos en contra de los discursos de odio”.
-
-La posición de Argentina
-------------------------
-
-**Acevedo** desmintió las declaraciones del representante de **Cuba**. “Rechazamos con firmeza las declaraciones de Cuba sobre mi país, mi Gobierno y la política exterior soberana de la República Argentina”.
-
-**Acevedo** aclaró que la comunidad Iberoamericana se rige por el principio del consenso. “Argentina brindó ese consenso para 71 de los 72 párrafos del borrador de la **Declaración de Cuenca** y en 17 de los 24 comunicados especiales y estaba listo para adoptar todos ellos como documentos de la Cumbre Iberoamericana”.
-
-El **embajador argentino** dijo que lamentablemente **Cuba** no brindó el consenso el jueves 14 de noviembre, ni para los 17 comunicados.
-
-### Más noticias
-
-* [Tres Cumbres en Suramérica](https://www.elcomercio.com/opinion/tres-cumbres-suramerica-juan-pablo-lira-columnista.html "Tres Cumbres en Suramérica")
-* [Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca](https://www.elcomercio.com/actualidad/manifestantes-protestan-contra-la-cumbre-iberoamericana-en-cuenca.html "Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca")
-* [Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca")
-
-Un llamado por la democracia de la región
------------------------------------------
-
-**Nicolás Albertoni, vicecanciller Uruguay,** lamentó la **ausencia de los presidentes** en esta **Cumbre** porque hubiese sido importante decirle a la **Venezuela** que es imperioso que retome la **senda democrática**. Dijo que es un espacio para hablarse de frente.
-
-**Albertoni** dijo “que si el 10 de enero no hay un traspaso de poder al candidato opositor legítimamente electo, estaría terminando por consolidar una nueva dictadura en la región”.
-
-La **representante de Chile, Gloria de la Fuente,** también se refirió a la necesidad de que los países de la región respeten la democracia y los procesos electorales.
-
-Una cooperación entre Ecuador y España
---------------------------------------
-
-El **presidente de Ecuador, Daniel Noboa**, se reunió con el **rey de España, Felipe VI**. Su intención fue fortalecer los lazos bilaterales. Trataron temas como la **sostenibilidad, cooperación económica e inversiones.**
-
-**Ecuador y España** firmaron un acuerdo de cooperación. Los recursos se destinarán a **programas sociales prioritarios** en Ecuador.
-
-La **canciller ecuatoriana, Gabriel Sommerfeld,** informó que son 101 millones de euros. 
-
-La Copa Ecuador definirá a su nuevo campeón en Quito
-====================================================
-
-Independiente del Valle y El Nacional tienen un título de la Copa Ecuador.
---------------------------------------------------------------------------
-
-![Kendry Páez (d) y Charles Vélez en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_ecuador_1.jpg)
-
-¡Confirmado! La final de la Copa Ecuador 2024 se **jugará en el estadio Rodrigo Paz Delgado de Quito**, tal como la propia Federación Ecuatoriana de Fútbol (FEF) lo dio a conocer en las redes sociales de la competencia.
-
-“¡La final es en Quito! El estadio **Rodrigo Paz Delgado será la sede para definir al campeón** de la Copa Ecuador”, fue el texto con el que se hizo el anuncio oficial la modificación de la sede de este compromiso.
+En la pasada ventana de eliminatorias, el **alemán-ecuatoriano sumó menos de 15 minutos** entre los dos encuentros contra Paraguay y Uruguay.
 
 ### Más noticias:
 
-* [(Video) Ángel Mena llora en homenaje de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-llora-homenaje-despedida-seleccion-de-ecuador.html)
-* [Enner Valencia anotó su gol 43 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html)
-* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html)
+* [Gonzalo Plata, agradecido de volver a marcar con Ecuador](https://www.elcomercio.com/deportes/gonzalo-plata-agradecido-de-volver-a-marcar-seleccion-ecuador.html "Gonzalo Plata, agradecido de volver a marcar con Ecuador")
+* [Leonardo Campana desafectado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-angelo-preciado-eliminatorias.html "Leonardo Campana desafectado de la Selección de Ecuador")
+* [Enner Valencia anotó su gol 43 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 43 con la Selección de Ecuador")
 
-“(…) Este cambio responde al pedido de ambos finalistas y se toma en consideración la actual situación económica, social y energética que atraviesa el país”, fue parte de la justificación de la FEF para esta nueva decisión.
+Esto **generó críticas entre los aficionados**, quienes reclamaban más minutos para Yeboah, especialmente considerando que el equipo necesitaba explosividad y gambeta, características que él ha demostrado con creces, particularmente durante la era de Félix Sánchez Bas.
 
-Kendry Páez, Michael Hoyos, Keny Arroyo y Javier Gandolfi, por Independiente; y **Charles Vélez, Jorge Ordóñez, Alejandro Cabeza y Marcelo Zuleta** por El Nacional, aparecen en la imagen oficial de la presentación de la nueva sede.
+**John Yeboah: gambeta, desborde y explosión**
+----------------------------------------------
 
-En primera instancia la FEF **sorprendió con la elección de estadio Olímpico de Ibarra** como la sede de la final entre Independiente del Valle y El Nacional, dos equipos que tienen su localía en Quito.
+Desde la llegada de Beccacece, **Yeboah había sido utilizado como revulsivo** en los primeros cuatro partidos del argentino, acumulando solo 67 minutos en total. Sin embargo, contra Bolivia, el entrenador sorprendió alineándolo como titular, pese a que el extremo no ha tenido muchos minutos recientemente en la Serie A.
 
-Incluso, en un comunicado oficial colgado en el sitio web de la FEF, se mencionó que el escenario, con capacidad para 15 000 personas, “(…) **se encuentra en un proceso de remodelación**, con obras destinadas a mejorar la experiencia de los asistentes y garantizar el evento a la altura que trae la Copa Ecuador”.
+Yeboah **no desaprovechó la oportunidad y mostró lo mejor de su repertorio**: gambeta, velocidad y desequilibrio. Jugó 69 minutos antes de ser sustituido por Kendry Páez, acumulando más tiempo en este encuentro que en los cuatro anteriores combinados.
 
-La fecha elegida sigue siendo el miércoles 27 de noviembre, en un horario que aún no está decidido.
+En cuanto a estadísticas, Yeboah tuvo un desempeño destacado:
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/final_copa_ecuador_2-1024x683.jpg)
+* **Acertó el 95% de sus pases.**
+* Realizó un pase clave.
+* Registró un remate a puerta.
+* Completó el 50% de sus regates.
+* **Ganó 4 de 10 duelos.**
+* Realizó una entrada defensiva.
 
-Foto: API.
+Su actuación le valió una calificación de 7.1 puntos según el portal **SofaScore**.
 
-Nueva final para el Rodrigo Paz
--------------------------------
+Próximo partido de Ecuador
+--------------------------
 
-Para el Rodrigo Paz Delgado será la segunda final de la Copa Ecuador. La primera fue la **ida jugada el sábado 16 de noviembre de 2019**, con la presencia de algo más de 15 000 personas presentes.
+La próxima prueba para Ecuador será el martes 19 de noviembre, cuando visite Barranquilla para enfrentar a **Colombia** en la duodécima jornada de las eliminatorias sudamericanas.
 
-Liga de Quito ganó 2-0 a Delfín con goles del uruguayo Rodrigo Aguirre y del ecuatoriano Andrés Chicaiza, con lo que dieron el primer paso para conseguir el título unos días después en el Jocay de Manta.
+El compromiso está programado para las **18:00 (hora de Ecuador) en el Estadio Metropolitano Roberto Meléndez.**
 
-Adrián Gabbarini en el arco; Antonio Valencia, Franklin Guerra, Carlos Rodríguez y Luis Ayala en la defensa; **José Quintero, Edison Vega, Jefferson Orejuela, Anderson Julio y Chicaiza**, en el mediocampo; más Aguirre en el ataque, fue el equipo que mandó a la cancha Pablo Repetto.
+Con **16 puntos**, Ecuador ocupa la quinta posición en la tabla, dentro de los puestos de clasificación directa al Mundial 2026.
 
-Fabián Bustos respondió con Pedro Ortiz en el arco; Geovanny Nazareno, Luis Cangá, William Riveros y Pedro Pablo Perlaza en la defensa; **Juan Diego Rojas, Edison Caicedo, Bruno Piñatares, Robert Burbano** y Sergio López en el mediocampo; más Carlos Garcés en el ataque.
-
-La mística de la casa de LDU se afianza con las finales de la Copa Libertadores 2008; Recopa Sudamericana y **Copa Sudamericana 2009; Recopa Sudamericana 2010**; Copa Sudamericana 2011; y Recopa Sudamericana 2024.
-
-Se suman definiciones de torneos del campeonato nacional y ediciones de los sudamericanos sub-17 y sub-20.
-
-San viernes
------------
-
-Presidentes del mundo se citaron en cuatro cumbres en América Latina
-====================================================================
-
-La vigésima novena edición de la Cumbre Iberoamericana de Presidentes se realizó en Cuenca.
--------------------------------------------------------------------------------------------
-
-![El presidente de Ecuador, Daniel Noboa, recibe aplausos del rey Felipe VI este jueves, en Cuenca (Ecuador).](https://www.elcomercio.com/wp-content/uploads/2024/11/rey-felipe-noboa.jpg)
-
-En América Latina este 2024 se llevaron acabo y se realizarán cumbres en países como **Ecuador, Colombia, Perú y Brasil.**
-
-### Más noticias
-
-* [Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca](https://www.elcomercio.com/actualidad/manifestantes-protestan-contra-la-cumbre-iberoamericana-en-cuenca.html "Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca")
-* [Joe Biden arriba a Perú para participar por última vez en la cumbre Apec](https://www.elcomercio.com/actualidad/mundo/biden-lima-para-participar-ultima-vez-cumbre-apec-economia.html "Joe Biden arriba a Perú para participar por última vez en la cumbre Apec")
-* [Tres Cumbres en Suramérica](https://www.elcomercio.com/opinion/tres-cumbres-suramerica-juan-pablo-lira-columnista.html "Tres Cumbres en Suramérica")
-
-Cumbre Iberoamericana en Ecuador
---------------------------------
-
-La vigésima novena edición de la **Cumbre Iberoamericana de Presidentes** comenzó el jueves 14 de noviembre y concluyó este viernes 15 de noviembre de 2024 en la ciudad de **Cuenca,** en la provincia de Azuay; aunque con un récord histórico de jefes de Estado y Gobierno inasistentes.
-
-La Cumbre Iberoamericana es un espacio común donde los primeros mandatarios o sus representantes comparten **ideas políticas y de cooperación.** En estos encuentros, los funcionarios debaten, además, temas coyunturales de la agenda internacional.
-
-“Estamos viviendo momentos duros para Iberoamérica”, manifestó Noboa para dar inicio a la sesión plenaria de la Cumbre, marcada por la ausencia de los líderes, ya que sólo acudieron a Cuenca (Ecuador) cuatro de los veinticuatro jefes de Estado y de Gobierno convocados.
-
-Además de **Felipe VI y Daniel Noboa,** en el acto estuvieron presentes el **presidente de Portugal, Marcelo Rebelo de Sousa**, y el **jefe de Gobierno de Andorra, Xavier Espot**, los únicos otros líderes asistentes a la Cumbre Iberoamericana.
-
-APEC Perú 2024
---------------
-
-El APEC Perú 2024 es la sede de una serie de reuniones anuales del Foro de Cooperación Económica Asia-Pacífico (en inglés, Asia-Pacific Economic Cooperation, APEC) que se está llevando a cabo actualmente en el Perú. Es la tercera vez que este país es anfitrión, luego de haberlo sido en el 2008 y 2016.
-
-La **Semana de Líderes de las Economías de APEC** se realiza del 9 al 16 de noviembre en Lima, será el punto culminante del año de la **presidencia APEC Perú 2024**.​ La reunión de líderes económicos se celebra en el Centro de Convenciones, cuyo Centro de Prensa Internacional se ubicará en el Ministerio de Cultura.​ Aparte, se desarrollarán actividades en el Gran Teatro Nacional y otros lugares.
-
-El presidente de Estados Unidos, Joe Biden, aterrizó en Lima, este viernes 15 de noviembre de 2024, para participar en la **cumbre de líderes** del **Foro de Cooperación Económica Asia Pacífico** (APEC), donde se reunirá con su homólogo chino**, Xi Jinping,** y la peruana, **Dina Boluarte.**
-
-APEC Perú 2024 será la primera reunión de APEC para el **primer ministro de Singapur, Lawrence Wong,** quien asumió el cargo el 15 de mayo; e**l primer ministro tailandés, Paetongtarn Shinawatra,** que asumió el cargo el 16 de agosto; el **presidente indonesio, Prabowo Subianto,** que asumirá la presidencia el 20 de octubre; y el presidente vietnamita Tô Lâm, que asumió la presidencia el 22 de mayo de 2024, tras la dimisión de su predecesor Võ Văn Thưởng. En el caso de Vietnam, será la primera visita oficial de un máximo representante a Perú.
-
-COP16 Colombia
---------------
-
-La Conferencia de las Naciones Unidas sobre Biodiversidad (COP16) fue una **conferencia internacional que se llevó a cabo del 21 de octubre al 1 de noviembre de 2024 en la ciudad de Cali, Colombia.** El encuentro reunió a más de 190 países, del 21 de octubre al 1 de noviembre.
-
-COP16 significa Conferencia de las Partes, es el principal foro global para la discusión y negociación sobre el Convenio de las Naciones Unidas para la Diversidad Biológica. En este encuentro, representantes de todo el mundo trabajan para avanzar en la conservación y uso sostenible de la biodiversidad.
-
-El presidente de Colombia, [Gustavo Petro](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html"), indicó que la celebración de la **Cumbre de Naciones Unidas de Biodiversidad** en Cali generó en el país 122 000 millones de pesos colombianos **(unos 28 millones de dólares)** y se lograron acuerdos importantes al hacer **balance de la reunión**.
-
-Además, “se movilizaron más de **100 000 millones de dólares** para Colombia en términos de donaciones” y la cumbre tuvo **“la mayor participación de representantes”** en la zona oficial de negociación en una COP de Biodiversidad, con 25 000 personas.
-
-Cumbre del G-20 de Río de Janeiro
----------------------------------
-
-La **Cumbre del G-20 de Río de Janeiro** será una reunión de los jefes de gobierno del Grupo de los 20 que tendrá lugar en Río de Janeiro, Brasil el 18 y 19 de noviembre de 2024.
-
-La Cumbre del G20 representa la **conclusión del trabajo realizado por el país** que ostenta la presidencia rotatoria del grupo. Es el momento en que los **jefes de Estado** y de Gobierno aprueban los acuerdos negociados a lo largo del año y señalan las formas de hacer frente a los **desafíos globales.** 
-
-A pesar de su nombre, el G20 cuenta con 21 miembros. Son 19 países miembros: **Argentina, Australia, Brasil, Reino Unido, Canadá, China, Francia, Alemania, India, Indonesia, Italia, Japón, México, Rusia, Arabia Saudita, África del Sur, Corea del Sur, Turquía y Estados Unidos.**
-
-Juntos representan **85% del PIB global** y tres cuartas partes del comercio mundial. A estos se suman dos miembros más: la Unión Europea y la Unión Africana, admitida el año pasado.  
-  
-
-Cómo controlar la diabetes y mejorar la calidad de vida
-=======================================================
-
-Controlar la diabetes requiere hábitos saludables, ejercicio regular y apoyo emocional. La detección temprana y el manejo adecuado pueden marcar la diferencia.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Adoptar un estilo de vida saludable es esencial para controlar la diabetes y prevenir complicaciones graves.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diabetes-cuidados.jpg)
-
-Este **14 de noviembre, Día Mundial de la Diabetes**, fue un llamado a la conciencia sobre una enfermedad que afecta a millones de personas. Conocer sus síntomas, riesgos y cómo prevenir complicaciones puede transformar vidas. Adoptar hábitos saludables, mantener una actitud positiva y contar con apoyo social son claves para vivir plenamente con esta condición.
-
-**Aquí nueve sugerencias para controlar la diabetes y vivir mejor:**
-
-1. **Realiza chequeos médicos periódicos:**  
-    La diabetes tipo 2 es silenciosa y puede ser asintomática. Controlar la glucosa y otros parámetros regularmente ayuda a identificarla a tiempo.
-2. **Mantén una dieta equilibrada:**  
-    Opta por alimentos ricos en fibra, proteínas magras y vegetales. Evita los azúcares, grasas saturadas y procesados.
-3. **Modera el consumo de carbohidratos:**  
-    Reduce las porciones de arroz, pan y pastas. Prefiere versiones integrales y acompaña con vegetales para equilibrar.
-4. **Monitorea tus niveles de glucosa:**  
-    Si ya tienes diabetes, utiliza un glucómetro para medir la glucosa varias veces al día. Este control es clave para ajustes en la dieta y el tratamiento.
-5. **Realiza ejercicio regularmente:**  
-    Actividades como caminar, nadar o bailar durante 30 minutos al día ayudan a regular los niveles de glucosa y mejoran el estado de ánimo.
-6. **Hidrátate correctamente:**  
-    El agua es fundamental. Evita las bebidas azucaradas, incluso las etiquetadas como “light” o “sin azúcar”.
-7. **Utiliza la tecnología:**  
-    Considera dispositivos como sensores de glucosa para un monitoreo constante. Consulta con tu médico sobre opciones disponibles.
-8. **Busca apoyo psicológico:**  
-    La diabetes puede generar estrés y ansiedad. Hablar con un profesional o unirse a grupos de apoyo puede mejorar la calidad de vida.
-9. **Involucra a tu familia y amigos:**  
-    Crear un entorno de apoyo facilita mantener hábitos saludables y promueve un cambio de estilo de vida para todos.
-
-Escucha nuestro podcast para conocer más del tema
--------------------------------------------------
-
-En este episodio de **El Cuaderno de la Salud**, hablamos sobre el camino hacia una vida plena para quienes viven con diabetes. La **diabetóloga Alba González** comparte consejos prácticos sobre alimentación, ejercicio y el control necesario para mejorar la calidad de vida.
-
-Este artículo forma parte de ‘[El Cuaderno de la Salud](https://www.elcomercio.com/podcasts/cuaderno-de-la-salud.html)’ de EL COMERCIO. Si tienes consultas o sugerencias, llena el formulario a continuación. Mantente informado y cuida tu salud.
-
-Chinos bajan de peso en campamentos de adelgazamiento con disciplina extrema
-============================================================================
-
-En esos campamentos están prohibidas las salidas de lunes a sábado.
--------------------------------------------------------------------
-
-![Los campamentos para adelgazar son tendencia en China. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-15T124629.585.jpg)
-
-En una **moderna** sala de deportes en **Chengdu**, jóvenes chinos se alinean frente a cintas para **correr**, atentos a las instrucciones de sus entrenadores.
-
-Un **gran** cartel colocado al frente los motiva: “¡Adelgaza! ¡Sé hermoso! ¡Sé refinado!”.
-
-Ese tipo de campamentos de adelgazamiento son una tendencia creciente en **China**, donde las autoridades sanitarias alertan sobre la **obesidad** como un grave problema de salud pública.
-
-### **Más noticias:**
-
-* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
-* [La venta de animales de compañía se castiga con multas severas en Quito](https://www.elcomercio.com/narices-frias/venta-animales-compania-sancion-quito.html "https://www.elcomercio.com/narices-frias/venta-animales-compania-sancion-quito.html")
-* [¿Perros o gatos? Esta es la preferencia de mascotas en Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/perros-gatos-mascotas-ecuador-censo.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/perros-gatos-mascotas-ecuador-censo.html?source=Internal&ref=Single+Content+Link")
-
-**¿Cómo funcionan los campamentos de adelgazamiento?**
-------------------------------------------------------
-
-Los campamentos no están exentos de **controversia**. En 2023, la muerte de una influencer de 21 años durante un centro de adelgazamiento en el norte de China levantó una ola de críticas.
-
-A pesar de estos incidentes, el auge de estos centros sigue en aumento.
-
-La **disciplina** es estricta. En estos campamentos, las salidas están prohibidas entre lunes y sábado, salvo en “circunstancias especiales”.
-
-**China tiene cifras alarmantes de obesidad**
----------------------------------------------
-
-Según un informe de 2020 de la **Comisión Nacional de Salud** (NHC), más del 50% de la población china padece **sobrepeso** o incluso obesidad.
-
-La NHC subrayó que la obesidad en **ese país** es ahora el sexto factor principal de riesgo para la muerte y discapacidad, un fenómeno relacionado con el estrés laboral y el consumo elevado de alimentos ricos en grasas, azúcar y sal.
-
-La [**Organización Mundial de la Salud**](https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight "https://www.who.int/es/news-room/fact-sheets/detail/obesity-and-overweight") es claro al decir que: la obesidad puede provocar un aumento del riesgo de diabetes de tipo 2 y cardiopatías, puede afectar la salud ósea y la reproducción.
-
-También aumenta el riesgo de que aparezcan determinados tipos de cáncer. La obesidad influye en aspectos de la calidad de vida como el sueño o el movimiento.
-
-Las obras en la av. Mariana de Jesús finalizan luego de 107 días
-================================================================
-
-La rehabilitación de la av. Mariana de Jesús tomó más tiempo de lo previsto. Hoy, 15 de noviembre del 2024, finalizan los trabajos que comenzaron en agosto.
-------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Trabajadores de la Epmmop realizan los últimos trabajos en la avenida Mariana de Jesús.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-62.jpg)
-
-Los vecinos de la avenida **Mariana de Jesús** podrán sentir alivio: la **rehabilitación** de esta vía clave en el macrocentro de Quito, que sube hacia el **Occidente** de la ciudad, está por terminarse. Para la noche de este **15 de noviembre del 2024**, está prevista que la Empresa Pública Metropolitana de Movilidad y Obras Públicas (**Epmmop**) entregue la última fase de su intervención, en esta importante avenida de Quito.
-
-### Más noticias
-
-* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
-* [Tres parqueaderos de La Carolina suspenden servicio en Quito](https://www.elcomercio.com/actualidad/quito/tres-parqueaderos-carolina-suspension-rehabilitacion.html "Tres parqueaderos de La Carolina suspenden servicio en Quito")
-* [Por la romería a El Quinche, terminales de buses modifican los horarios](https://www.elcomercio.com/actualidad/quito/terminales-buses-horarios-quinche.html "Por la romería a El Quinche, terminales de buses modifican los horarios")
-
-Los 107 días de la rehabilitación
----------------------------------
-
-La obra se entrega luego de **107 días de trabajo.** La obra comenzó el 1 de agosto del 2024 y debió entregarse en **75 días,** según informó la Epmmop, el 19 de julio de este año. Sin embargo, la **obra demoró** un poco más de lo previsto
-
-Según **Jorge Campoverde**, gerente de **Estudios y de Fiscalización de la Epmmop**, hubo que tomar ciertas consideraciones. Al menos desde la calle Núñez de Valderrama hacia la avenida Mariscal Sucre, es una **zona hospitalaria y de centros médicos.**
-
-Por lo tanto, hubo que rehabilitar por partes. Un carril a la vez y en tramos más cortos de los calculados originalmente. “No se podía interrumpir totalmente el paso”, por las emergencias; “eso es algo que debimos ir solucionando en el camino”, dice Campoverde.
-
-Para la **Epmmop**, esta obra ayudaría a mejorar la calidad de vida de la población porque reduce los tiempos de circulación. Sin embargo, poco podían disfrutar de la rehabilitada vía en toda su magnitud, por la construcción del **intercambiador** en la avenida **Mariana de Jesús y Mariscal Sucre,** que debía comenzar este 15 de noviembre.
-
-Sin embargo, en la víspera se suspendió la obra luego de reuniones de personeros de la Epmmop con los vecinos de la zona, que mostraron su inquietud por “una necesidad no identificada previamente”[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-El costo de la rehabilitación
------------------------------
-
-El costo de esta rehabilitación, que comenzó en agosto, desde la avenida 10 de Agosto hasta la Mariscal Sucre (Occidental), es de **770 000 dólares**. Y este 15 de noviembre estaban terminando la última capa del asfalto en el tramo que faltaba, en sentido occidente-oriente.
-
-La Selección de Ecuador convocó 30 758 hinchas al Monumental
-============================================================
-
-El Monumental recibió por primera vez a la Selección de Ecuador en las eliminatorias al Mundial 2026.
------------------------------------------------------------------------------------------------------
-
-![Hinchas de la Selección de Ecuador en el estadio Monumental en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/monumental_capacidad_1.jpg)
-
-La **Selección de Ecuador** cerró su primer y único partido de las actuales eliminatorias sudamericanas al Mundial 2026 en el estadio Monumental de Guayaquil con una aplastante victoria de 4-0 ante Bolivia.
-
-El encuentro entre la **Selección de Ecuador y Bolivia** se celebró la noche del jueves 14 de noviembre de 2024, como parte de la undécima fecha de un proceso que otorgará dos cupos a la Copa del Mundo de 2026.
-
-### Más noticias:
-
-* [El Olímpico Atahualpa, una fecha más sin la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/olimpico-atahualpa-seleccion-ecuador-eliminatorias.html "El Olímpico Atahualpa, una fecha más sin la Selección de Ecuador")
-* [Liga de Quito y un ‘agradecimiento’ por Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-marco-angulo-mensaje.html "Liga de Quito y un ‘agradecimiento’ por Marco Angulo")
-* [Venezuela rescató un punto contra Brasil en las eliminatorias](https://www.elcomercio.com/deportes/futbol/venezuela-resultado-empate-brasil-eliminatorias.html "Venezuela rescató un punto contra Brasil en las eliminatorias")
-
-Enner Valencia abrió el marcador con un cobro desde el punto penal. Para el **atacante esmeraldeño es el gol 43 en 94 partidos con la Tri**, con lo que alarga su dominio como el máximo goleador histórico del combinado nacional.
-
-Gonzalo Plata anotó dos goles más**, uno por cada tiempo, para consolidar el 3-0** y empezar a asegurar la victoria y los tres puntos. El mediocampista del Flamengo fue elegido por unanimidad como la máxima figura del duelo.
-
-Alan Minda selló el 4-0, la Tri volvió al triunfo luego de dos empates consecutivos, **uno en Quito ante Paraguay y otro ante Uruguay en Montevideo** y se afianzó en el quinto lugar de la tabla de posiciones con 16 puntos.
-
-Uno de los temas que **generó debate en la previa fue la cantidad de público que iría al Monumental**, tomando el contexto en el que vive el país, sumido en una crisis por los cortes de luz que se llevan a cabo desde el 18 de septiembre.
-
-Además, hubo una **queja generalizada por el valor de las entradas** que oscilaban entre los 25 dólares para las generales, hasta los 110 para los palcos para el público en general.
-
-Los hinchas respondieron
-------------------------
-
-La Federación Ecuatoriana de Fútbol (FEF) reportó que 30 758 hinchas llegaron al estadio de Barcelona SC para ver a la Selección de Ecuador en su juego ante Bolivia.
-
-Según los registros de la Liga Pro, el **Monumental tiene una capacidad para 57 267 personas**, por lo que el aforo estuvo copado en un poco más del 50%, un promedio por debajo de la cantidad de espectadores que han asistido al Rodrigo Paz Delgado.
-
-Por ejemplo, según el sitio Transfermarkt, en el 2023 ante **Uruguay llegaron 35 613 espectadores**, frente a Colombia 38 702 y contra Chile 36 873.
-
-Sumando todos estos valores tenemos que el promedio de asistentes en Quito es de **37 062 hinchas por cada una de las presentaciones** de la Tri.
-
-Del 2024 no hay cifras oficiales de los duelos ante Perú y Paraguay, pero se debe recordar que ante los guaraníes la FEF recibió una sanción con el 15% menos del aforo del Rodrigo Paz, debido a los cánticos homofóbicos que se escucharon durante el encuentro ante la ‘bicolor’.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/monumental_capacidad_2-1024x683.jpg)
-
-Foto: API.
-
-San viernes
------------
-
-Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador
-==================================================================
-
-La clasificación de la montaña tiene a un debutante como líder en la Vuelta Ciclística al Ecuador 2024.
--------------------------------------------------------------------------------------------------------
-
-![Juan Carlos Córdova se destaca en la Vuelta al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/plantillas-manana-GIOVY-26.jpg)
-
-Tiene 23 años y es la primera **Vuelta al Ecuador** para él, viene de otra tradición y sufrió un malestar al inicio de la competencia, pero aquello no fue un impedimento para continuar. En su debut, **Juan Carlos Córdova**, del Team CYS Technology pisa fuerte y es una de las figuras del certamen.
-
-Al igual que en su carrera, en la Vuelta al Ecuador, Córdova ha tenido un ascenso progresivo y sostenido. Dentro del evento ciclístico, este se hizo con el jersey de puntos rojos al obtener el liderato de montaña.
-
-### Más noticias:
-
-* [¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?](https://www.elcomercio.com/deportes/equipos-ciclismo-vuelta-ecuador-2024.html "¿Cuántos equipos de ciclismo participarán en la Vuelta a Ecuador 2024?")
-* [¿Cómo será la etapa 5 de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa-5-recorrido.html "¿Cómo será la etapa 5 de la Vuelta al Ecuador?")
-* [Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador](https://www.elcomercio.com/deportes/joffre-imbaquingo-vuelta-ecuador-richard-carapaz.html "Joffre Imbaquingo, el ‘pupilo’ de Carapaz que ilusiona en la Vuelta al Ecuador")
-
-Para conseguir tal distinción, el ciclista debió superar a **Segundo Navarrete** del Team Giant Toscana. Este se había posicionado como el mejor de los escaladores en la primera etapa y se mantuvo en aquella posición hasta la segunda, donde no hubo puertos de montaña.
-
-El arribo a la cima de la clasificación de montaña para Córdova se llevó a cabo en la tercera etapa de la Vuelta a Ecuador, que abarcó el tramo **El Arenal – Alausí** y contó con dos puertos de montaña de tercera categoría. Tras ello, este mantuvo su jersey en la cuarta, que se llevó a cabo en Riobamba a circuito cerrado y tuvo tres puertos de similar equivalencia a los de la etapa previa.
-
-Juan Carlos Córdova, del ciclismo de montaña al ciclismo de ruta
-----------------------------------------------------------------
-
-Juan Carlos Córdova siempre estuvo vinculado al ciclismo, sin embargo, la modalidad de ruta no fue exclusiva. Antes de afianzarse a esta, Córdova se inició y desarrolló su carrera como ciclista de montaña.
-
-A los nueve años empezó a montarse en la **bicicleta** y, a partir de aquel momento, ya no hubo vuelta atrás. A sus 20 años hizo la transición hacia la modalidad de ruta con el **CYS Technology**, equipo al cual hoy representa.
-
-A partir de su incursión con el elenco **verdiazul,** este se adaptó a las nuevas condiciones ciclísticas y le llegó la oportunidad de hacer su primera aparición en una Vuelta al Ecuador en 2024. Su repercusión, no menor a la de grandes figuras y experimentados, se ha dado a pesar de impedimentos previos al certamen.
-
-El debut de Córdova en la Vuelta al Ecuador
+No te pierdas nuestro Especial de Halloween
 -------------------------------------------
 
-“Es algo emocionante, nunca había estado en un pelotón tan grande. Se viven varias sensaciones. Adentro es tensión y compañerismo. Estoy muy alegre, voy a seguir y ver si se puede estar presente en próximas vueltas”, señaló **Córdova** con respecto a su debut.
+Experto aclara si entrevista a Luisa González incurre en posibles sanciones
+===========================================================================
 
-Córdova, sin embargo, no llegó con comodidad a la Vuelta a Ecuador, pues debió enfrentarse a una enfermedad estomacal en prácticas y días previos a la competencia. A partir de ello, este se ha sorprendido por sus resultados debido al bajón de desempeño que aquello le pudo representar.
+Luisa González, candidata presidencial, fue entrevistada en la previa al partido de Ecuador y Bolivia. Su aparición causó controversia.
+---------------------------------------------------------------------------------------------------------------------------------------
 
-“Al final del bloque de entrenamiento me enfermé un poco. Estaba buscando meterme en un lugar de la tabla general, pero por la enfermedad bajamos el rendimiento y, ahora, busco el liderato de la montaña, que tampoco es fácil”, agregó.
+![La candidata presidencial, Luisa González, en entrevista con El Canal del Fútbol](https://www.elcomercio.com/wp-content/uploads/2024/11/canal-futbol-luisa-gonzalez.jpg)
 
-La meta a largo plazo, sin embargo, excede la **Vuelta al Ecuador** y Córdova espera dar el salto a un equipo World Tour o continental, pues el CYS Technology es nacional. Asimismo, cree en su talento y en el de la nueva ola de ciclistas como Joffre Imbaquingo, mejor sub-23 del torneo, y que a partir de sus rendimientos pueden ser aquellos que encabecen el recambio generacional de los referentes del ciclismo ecuatoriano.
-
-Huda es la voz de un rap sincero y punzante
-===========================================
-
-En sus temas, Huda explora una variedad de emociones, desde la rabia hasta la liberación.
------------------------------------------------------------------------------------------
-
-![La madrileña Huda es de origen magrebí. Foto: Archivo particular](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-15T121011.675.jpg)
-
-**Huda**, la rapera madrileña de 26 años, se consolida como una **figura** destacada en la escena musical **española**, fusionando influencias del **rap** y el **trap** con una narrativa personal que refleja sus raíces marroquíes.
-
-Huda -nacida en **Vallecas** y criada en Usera- comenzó su **carrera musical** en la adolescencia, enfrentándose a los prejuicios y desafíos que conlleva ser hija de inmigrantes en **España**. Esto último lo destaca el diario **El País**.
-
-### **Más noticias:**
-
-* [Un joven que creció en una gasolinera es el rostro del reguetón ‘bueno’](https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html "https://www.elcomercio.com/tendencias/entretenimiento/cantante-colombiano-gasolinera-kapo-uwaie.html")
-* [El ‘playlist’ del ecuatoriano es solo música urbana, según Spotify](https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html "https://www.elcomercio.com/tendencias/entretenimiento/ecuador-playlist-musica-urbana-spotify.html")
-* [Spotify endulza el oído de los ecuatorianos con esta música](https://www.elcomercio.com/afull/spotify-ecuador-karol-g-musica-regueton.html "https://www.elcomercio.com/afull/spotify-ecuador-karol-g-musica-regueton.html")
-
-**Huda es la voz de un rap sincero y punzante**
------------------------------------------------
-
-Su EP titulado **‘Gracias A Dios’** presenta un trabajo de cinco canciones que exploran una variedad de emociones, desde la rabia hasta la liberación.
-
-Ese proyecto destaca por su producción minimalista, donde **Huda** juega con ritmos clásicos y contemporáneos, logrando un sonido único.
-
-La artista utiliza sus letras para abordar temas de identidad y pertenencia, reflejando tanto su orgullo cultural como las dificultades que ha enfrentado.
-
-En sus versos, incorpora elementos de su vida cotidiana y referencias a su herencia, lo que le permite conectar con un público diverso.
-
-**Huda: una rapera comprometida con la crítica social**
--------------------------------------------------------
-
-Huda también es parte del colectivo **Free Sis Mafia**, que agrupa a varias mujeres raperas comprometidas con la crítica social y la perspectiva de género.
-
-> [View this post on Instagram](https://www.instagram.com/p/C7m6G8PKty_/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by HUDA (@hudalaamarti)](https://www.instagram.com/p/C7m6G8PKty_/?utm_source=ig_embed&utm_campaign=loading)
-
-Su música entretiene, pero también actúa como un vehículo para el empoderamiento femenino y la representación de las experiencias de las personas racializadas en España.
-
-Mike Tyson y Jake Paul calientan la pelea de Netflix
-====================================================
-
-Mike Tyson regresa a los cuadriláteros con 58 años para enfrentarse a Jake Paul, de 27 años. La pelea se verá esta noche por Netflix.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Mike Tyson (foto) peleará ante Jake Paul y el combate se verá por Netflix este 15 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/tyson-2.jpg)
-
-El combate entre **Mike Tyson** y **Jake Paul**, que tendrá lugar en el AT&T Stadium de Dallas, la noche de este viernes 15 de noviembre del 2024, ha desatado críticas, pero también gran morbo.
-
-Este enfrentamiento de boxeo, que contará con la participación de figuras polémicas como Paul, de 27 años, y Tyson, de 58, se transmitirá globalmente a través de la plataforma **Netflix**, consolidando su apuesta por los derechos deportivos.
-
-La diferencia de edad entre los **boxeadores** y las preocupaciones sobre la salud de **Tyson**, quien sufrió una úlcera reciente, han aumentado la controversia en torno al evento.
-
-### Más noticias:
-
-* [Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?](https://www.elcomercio.com/deportes/boxeo/mike-tyson-boxeo-salud-riesgo-jake-paul.html "Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?")
-* [Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-figura-ecuador-bolivia.html "Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia")
-* [La ecuatoriana Eidy Macías hace historia y está cerca de la UFC](https://www.elcomercio.com/deportes/artes-marciales/eidy-macias-ecuatoriana-ufc-historia-the-talent.html "La ecuatoriana Eidy Macías hace historia y está cerca de la UFC")
-
-Cachetada de Tyson
-------------------
-
-Jake Paul minimizó la cachetada recibida de Mike Tyson durante la ceremonia de pesaje, diciendo que no la sintió y burlándose de su oponente de 58 años.
-
-Sin embargo, el golpe con la mano abierta tomó desprevenido a Paul que no tuvo reacción mostrando que sus reflejos no son los mejores.
-
-¿A qué hora es la pelea?
-------------------------
-
-La pelea de boxeo marca un hito para **Netflix** en su incursión en los eventos deportivos en directo.
-
-Además, el evento contará con la pelea entre Amanda Serrano y Katie Taylor por los títulos mundiales de peso superligero, siendo un enfrentamiento de alto interés en el boxeo femenino.
-
-La transmisión empezará a las 20:00 de este 15 de noviembre del 2024 por **Netflix.**
-
-Mike Tyson
-----------
-
-Mike Tyson es un exboxeador estadounidense, considerado uno de los más grandes y controvertidos de la historia del boxeo.
-
-Nació el 30 de junio de 1966 en Brooklyn, Nueva York. A los 20 años, se convirtió en el campeón mundial más joven de peso pesado.
-
-Conocido por su poder de nocaut y agresividad en el ring, también tuvo una carrera marcada por escándalos fuera del cuadrilátero, incluyendo una condena por violación y problemas financieros.
-
-A pesar de sus controversias, Tyson sigue siendo una figura icónica del deporte. Por la pelea ante Paul se llevará unos 40 millones de dólares.
-
-Tiene un récord profesional de 50 triunfos y 6 derrotas.
-
-Antes de que Paul naciera, en 1997, **Tyson** ya había realizado 47 peleas profesionales.
-
-Mike Tyson y Jake Paul
-----------------------
-
-Jake Paul, el polémico youtuber convertido en boxeador profesional, ha sido tanto admirado como odiado por su estilo provocador y su físico que le permitió irrumpir en el mundo del boxeo.
-
-Tras ganar popularidad en redes sociales, sus controversias y rivalidades, especialmente con su hermano Logan, lo convirtieron en el “villano” perfecto para la industria del deporte.
-
-Con un récord de 10-1, Paul pasó de derrotar a **youtubers** y **exdeportistas** a enfrentarse a luchadores profesionales, destacándose por sus victorias contra figuras de la **UFC** como **Ben Askren**, **Tyron Woodley** y **Nate Díaz**. A ellos los derrotó en boxeo.
-
-Sin embargo, cayó ante **Tommy Fury** en el 2023.
-
-Su ascenso en el boxeo culmina esta noche en un combate histórico contra Mike Tyson, quien a sus 58 años regresa del retiro para enfrentar a **Paul.**
-
-Con 31 años de diferencia entre ambos, la pelea promete ser uno de los eventos más esperados del año.
-
-Jake ha logrado consolidarse como una estrella del boxeo, desafiando las expectativas y convirtiéndose en una de las figuras más relevantes en la actualidad, aunque no ha enfrentado todavía a los grandes nombres del deporte.
-
-Netflix
--------
-
-Este combate es parte de una estrategia más amplia de **Netflix** para diversificar su contenido en directo. Mientras que el streaming tradicionalmente evitaba los deportes en vivo, la plataforma ha comenzado a invertir en grandes eventos, como los partidos de la NFL que emitirá en **Navidad.**
-
-La competencia por los derechos deportivos entre plataformas digitales es cada vez más feroz, con **Amazon Prime Video** y **Apple TV** también invirtiendo fuertemente en el sector.
-
-Netflix, que comenzó con eventos más modestos, ahora busca captar un público masivo con apuestas deportivas de gran calibre. Este es solo el comienzo de una nueva era para el **streaming** en el ámbito deportivo.
-
-Gonzalo Plata: ‘la gente en Guayaquil ayuda y apoya’
-====================================================
-
-Gonzalo Plata marcó ocho goles con la Selección de Ecuador en 40 partidos oficiales.
-------------------------------------------------------------------------------------
-
-![Gonzalo Plata, jugador de la Selección de Ecuador en el estadio Monumental.](https://www.elcomercio.com/wp-content/uploads/2024/11/plata_monumental_1.jpg)
-
-Con Gonzalo Plata como figura, la **Selección de Ecuador** tuvo una brillante noche de eliminatorias sudamericanas en el estadio Monumental de Guayaquil, con una goleada 4-0 ante Bolivia en la fecha 11 rumbo al Mundial 2026.
-
-**Enner Valencia, de penal, Gonzalo Plata (2) y Alana Minda**, fueron los goleadores de la Selección de Ecuador en el Monumental, escenario que recibió por primera un partido del combinado nacional en las actuales eliminatorias.
-
-### Más noticias:
-
-* [Moisés Caicedo, el jefe del Chelsea de Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-jefe-del-chelsea-de-inglaterra.html "Moisés Caicedo, el jefe del Chelsea de Inglaterra")
-* [Liga de Portoviejo se reforzó con Dalo Bucaram para el ascenso](https://www.elcomercio.com/deportes/futbol/dalo-bucaram-liga-portoviejo-asecenso.html "Liga de Portoviejo se reforzó con Dalo Bucaram para el ascenso")
-* [Eliminatorias sudamericanas 2024. Así se juegan los partidos de la fecha 11](https://www.elcomercio.com/deportes/futbol/eliminatorias-sudamericanas-2024-partidos-fecha-11.html "Eliminatorias sudamericanas 2024. Así se juegan los partidos de la fecha 11")
-
-Plata fue uno de los protagonistas la noche del jueves 14 de noviembre de 2024, no solo por su actuación dentro del terreno de juego, sino por las **declaraciones que emitió, primero en Montevideo, y las ratificó en Guayaquil** sobre como es el comportamiento de los hinchas a la hora de alentarlos.
-
-“En Guayaquil los estadios se llenan mucho más, **la gente apoya mucho más, gritan más** y será una motivación jugar ahí”, declaró el martes 15 de octubre en el estadio Centenario, una vez que se concretó el 0-0 en el marcador.
-
-El jueves volvió a hablar del tema y se **ratificó en sus primeras declaraciones y destacó la conexión** que se generó con los hinchas que llegaron hasta la casa del Barcelona Sporting Club.
-
-“Muy bien (…) Es increíble como la gente ayuda, apoya. **Nos dan el impulso de seguir haciendo goles** y seguir hacia adelante”, mencionó el mediocampista del Flamengo de Brasil.
-
-Con ese resultado, **Ecuador se afianzó en el quinto lugar de la tabla de posiciones con 16 puntos** y un gol diferencia positivo de +6, con lo que cerrará el año y, a falta de siete jornada para cumplir el calendario, en zona de clasificación directa.
-
-> 🏟️🗣️ "JUGAR AQUÍ EN GUAYAQUIL ES INCREÍBLE POR COMO LA GENTE APOYA" 🙌  
->   
-> Gonzalo Plata, jugador de [#LaTrixECDF](https://twitter.com/hashtag/LaTrixECDF?src=hash&ref_src=twsrc%5Etfw), habló sobre la importante victoria frente a Bolivia y su buen momento individual.[#UIOxECDF](https://twitter.com/hashtag/UIOxECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/csyFjIwzjj](https://t.co/csyFjIwzjj) [pic.twitter.com/t1S6hOXAar](https://t.co/t1S6hOXAar)
-> 
-> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 15, 2024](https://twitter.com/ElCanalDFutbol/status/1857445957312577627?ref_src=twsrc%5Etfw)
-
-El Monumental seguirá invicto
------------------------------
-
-Otro aspecto que destaca es que el **invicto de 31 años del Monumental se mantendrá** y no corre peligro de ser vulnerado en el corto tiempo.
-
-La primera y única derrota fue el 5 de septiembre de 1993 en el proceso a Etsados Unidos 1994. Uruguay se llevó el **triunfo por 0-1 con un tanto de Rubén Sosa a los 10 minutos del primer tiempo**, ante la presencia de más de 55 000 hinchas.
-
-En los seis restantes juegos ganó cuatro (**4-1 vs. Perú; 1-0, 3-0 y 4-0 vs. Bolivia**); y empató dos (1-1 vs. Bolivia y 1-1 vs. Argentina).
-
-Gonzalo Plata y la Selección de Ecuador
----------------------------------------
-
-El 5 de septiembre de 2019, Gonzalo Plata debutó con la Selección de Ecuador **con tan solo 18 años, 10 meses y cinco días**. El argentino Jorge Célico fue el encargado de hacer debutar al habilidoso mediocampista.
-
-Han pasado algo más de cinco años desde aquella victoria 1-0 contra Perú en un amistosos jugador en el **Red Bull Arena en New York, Estados Unidos.** Eryc Castillo fue el autor del único tanto en esa jornada.
-
-Las eliminatorias y el Mundial Catar 2022, las Copa América Brasil 2021 y las nuevas eliminatorias para la Copa del Mundo 2026, más partidos amistosos, son los que suma Plata en su recorrido con la Tri.
-
-Sus números reflejan que en **40 encuentros, anotó ocho goles, dio cinco asistencias, recibió tres tarjetas amarillas**, fue expulsado una vez y acumula 2 363 minutos.
-
-Bolivia (3), Uruguay (1), **Colombia (1), Perú (1), Venezuela (1) y Guatemala (1)** han sido las selecciones a las que les marcó, tanto en eliminatorias, Copa América y amistosos.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/plata_monumental_2-1024x683.jpg)
-
-Foto: API.
-
-San viernes
------------
-
-Incendios forestales en Azuay continúan activos
-===============================================
-
-Bomberos, guardaparques, brigadistas y personal de las instituciones de socorro trabajan desde todos los frentes en el control del fuego
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![El Cuerpo de Bomberos Cuenca trabaja en el control del fuego desde varios puntos.](https://www.elcomercio.com/wp-content/uploads/2024/11/incendio-Azuay.jpg)
-
-El **Cuerpo de Bomberos de Cuenca** se mantiene en los territorios afectados por los **incendios forestales.** Sobre todo en el registrado en Chaucha y en Cruzpamba, en Azuay.
+La **Selección de Ecuador** se enfrentó a **Bolivia** la noche de este jueves 14 de noviembre de 2024, en el Estadio Monumental, en Guayaquil. En la previa, la televisora a cargo de la transmisión entrevistó a la candidata presidencial **Luisa González** (Revolución Ciudadana).
 
 ### Más noticias
 
-* [Incendio forestal en el Parque Nacional El Cajas continúa activo y avanza](https://www.elcomercio.com/actualidad/ecuador/incendio-forestal-parque-nacional-el-cajas-activo-molleturo.html "Incendio forestal en el Parque Nacional El Cajas continúa activo y avanza")
-* [Un incendio ocurrió por causa de una vela encendida, en Quito](https://www.elcomercio.com/actualidad/quito/incendio-se-registro-a-causa-de-vela-encendida-quito.html "Un incendio ocurrió por causa de una vela encendida, en Quito")
-* [Cortes de luz en Cuenca este viernes 15 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-cuenca-viernes-15-de-noviembre.html "Cortes de luz en Cuenca este viernes 15 de noviembre")
+* [FEF rechaza intervención de candidata presidencial en partido de Ecuador](https://www.elcomercio.com/deportes/futbol/fef-rechaza-intervencion-candidata-presidencial-partido-ecuador-luisa-gonzalez.html "FEF rechaza intervención de candidata presidencial en partido de Ecuador")
+* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html "La Selección de Ecuador brilla en Guayaquil y golea a Bolivia")
+* [La Selección de Ecuador se afianza en la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha11-eliminatorias-mundial.html "La Selección de Ecuador se afianza en la tabla de posiciones")
 
-Varios incendios se combaten en simultáneo
+Esta acción causó **controversia** en parte de la opinión pública y de la ciudadanía, quienes a través de redes sociales mostraron su rechazo a lo que consideraron como ” un acto de **proselitismo político**“.
+
+Una de las instituciones que mostró su malestar por la entrevista a González fue la Federación Ecuatoriana de Fútbol (**FEF**), organismo a cargo de la Selección.
+
+La FEF difundió un comunicado en el que mencionó su “**rechazo categórico** al uso de la transmisión de los partidos de nuestra selección para fines de **proselitismo político**“.
+
+Asimismo, el organismo indicó que tomará “**acciones para salvaguardar la neutralidad del fútbol** frente al ámbito político y garantizar el cumplimiento de la normativa que rige al deporte”.
+
+> 📍Comunicado oficial. [pic.twitter.com/feeJdiUGuk](https://t.co/feeJdiUGuk)
+> 
+> — FEF 🇪🇨 (@FEFecuador) [November 15, 2024](https://twitter.com/FEFecuador/status/1857234162832294029?ref_src=twsrc%5Etfw)
+
+El Canal del Fútbol se refirió a la entrevista
+----------------------------------------------
+
+El Canal del Fútbol, quien tenía los derechos de transmisión del partido entre Ecuador y Bolivia y entrevistó a Luisa González, compartió su postura sobre el tema.
+
+En dos comunicados la televisora dijo primero que “durante sus transmisiones acoge la promoción de diferentes instituciones y figuras públicas, sin tener una **posición política determinada**, dando apertura a las diferentes opiniones fuera del ámbito político”.
+
+Sin embargo, luego de unas horas, compartió un segundo documento oficial donde **ofreció disculpas** y aseguró que “nunca ha sido su intención crear polémica o realizar proselitismo político”.
+
+Por su parte, Luisa González **no se ha pronunciado tras la entrevista**. A través de su cuenta de X, la candidata por el correísmo se limitó a compartir mensajes de apoyo de sus seguidores.
+
+¿TCE puede sancionar a Luisa González por campaña anticipada?
+-------------------------------------------------------------
+
+Ante la inquietud de sí el **Tribunal Contencioso Electoral** (TCE) puede sancionar a Luisa González por una **posible campaña anticipada**, EL COMERCIO conversó con el politólogo y abogado **Arturo Moscoso**.
+
+El también Director de la Escuela de Ciencias Políticas y Relaciones Internacionales de la Universidad Internacional del Ecuador (UIDE) explicó que una posible sanción para la candidata depende de cómo el **Consejo Nacional Electoral** (CNE) evalúe el caso.
+
+“Todo depende de si la aparición se interpreta como **propaganda política** fuera del período permitido”, mencionó Mocoso.
+
+Para ello, “deberá analizarse la **naturaleza** de su aparición, y si en el espacio, promovió su candidatura de alguna forma o pidió votos”, detalló el abogado.
+
+Sanciones por campaña electoral anticipada
 ------------------------------------------
 
-Un **incendio forestal** se inició el sábado 9 de noviembre en el **sector de Cruzpamba**, en la vía Molleturo, a la altura del kilómetro 17. Este incendio compromete la vegetación de**l Parque Nacional El Cajas.**
+La primera vuelta de las **elecciones presidenciales** en Ecuador se realizará el **9 de febrero de 2025**. La campaña previa comenzará el **5 de enero**.
 
-El fuego en esta zona **ya cumple más de cinco días activo** y avanza consumiendo toda la vegetación.
+Antes de esa fecha, el artículo 208 del **Código de la Democracia** menciona que, desde la convocatoria a elecciones hasta el inicio de la campaña electoral, las organizaciones políticas podrán realizar actividades para difundir su ideología, programas de gobierno y planes de trabajo.
 
-Otro incendio forestal se registra en el **sector de San José de Raranga,** donde el acceso es también complicado y el fuego se extiende debido a las ráfagas de viento. Personal y maquinaria de la Prefectura del Azuay se mantiene activo en el lugar.
+Esto, siempre y cuando, no implique la **contratación** en prensa, radio, televisión, medios digitales y vallas publicitarias. 
 
-El **puesto de mando unificado** se instaló este viernes desde las 07:00 para coordinar las acciones de combate contra el fuego. Bomberos Cuenca, Secretaría de Gestión de Riesgos y la Prefectura del Azuay distribuyen los recursos disponibles.
+El TCE sanciona las infracciones electorales con el artículo 278 de la normativa mencionada, con multas desde los 11 Salarios Básicos Unificados (SBU), **5 060 dólares**, hasta los 20 SBU, que representan **9 020 dólares**.
 
-Además, guardaparques de Etapa EP trabajan en la sofocación del fuego **desde Mamamag** para evitar que las llamas ingresen por otro frente al **Parque Nacional El Cajas.**
+También menciona que, de ser el caso, se pueden **suspender o destituir** de los derechos de partici­pación política desde los seis meses hasta los dos años.
 
-> Ahora, cerramos actividades en el sector de Cruzpamba. El día de mañana se retoman las labores en el control del incendio forestal. 🔥🌱 [pic.twitter.com/L41Cr5IWQd](https://t.co/L41Cr5IWQd)
-> 
-> — Bomberos Cuenca (@Bomberos\_Cuenca) [November 15, 2024](https://twitter.com/Bomberos_Cuenca/status/1857212853733740710?ref_src=twsrc%5Etfw)
+La campaña anticipada es una **infracción electoral** considerada como **grave** que deberá pasar algunos filtros para validar si se incumplió algún artículo dentro del Código de la Democracia.
 
-El fuego se combate también desde el aire
------------------------------------------
+Paul Pogba y la Juventus terminaron su relación laboral
+=======================================================
 
-En el área trabaja el **Cuerpo de Bomberos de Cuenca**, junto a brigadistas, guardaparques y voluntarios. Sin embargo, piden a la comunidad no ingresar a la zona afectada por sí sola, ya que no es un área segura.
+Paul Pogba ganó nueve títulos en sus dos etapas con la Juventus de Italia.
+--------------------------------------------------------------------------
 
-Para el combate de este incendio **se lucha de forma manual,** ya que es imposible el acceso de vehículos hasta la zona afectada. De igual manera, se realiza un monitoreo con la ayuda de drones.
+![Paul Pogba como jugador de la Juventus en agosto de 2023.](https://www.elcomercio.com/wp-content/uploads/2024/11/pogba_1.jpg)
 
-Tres helicópteros de las Fuerzas Armadas y de la Fuerza Aérea apoyan las labores de control del fuego desde el aire en los incendios de Chaucha y Cruzpamba con ‘bambi bucket’.
+La **Juventus y el centrocampista francés Paul Pogba** acordaron la rescisión del contrato del jugador, que será libre desde el próximo 30 de noviembre de 2024.
 
-Los helicópteros han realizado aproximadamente **30 descargas de agua** sobre los [focos activos](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)") en el **Parque Nacional El Cajas.**
+“Juventus y Paul Pogba anuncian que **han acordado mutuamente rescindir el contrato de rendimiento** deportivo a partir del 30 de noviembre de 2024. La ‘Juve’ desea a Paul todo lo mejor para su futuro profesional”, comunicó el club este viernes 15 de noviembre.
 
-> Incendios forestales | Al momento, helicópteros de [@FFAAECUADOR](https://twitter.com/FFAAECUADOR?ref_src=twsrc%5Etfw) y [@FuerzaAereaEc](https://twitter.com/FuerzaAereaEc?ref_src=twsrc%5Etfw) han realizado aprox. 30 descargas 🚁🔥 sobre focos activos, en el P.N. Cajas.  
->   
-> El trabajo también es en terreno con brigadistas de distintas instituciones. [pic.twitter.com/W0a4FKG5if](https://t.co/W0a4FKG5if)
-> 
-> — Bomberos Cuenca (@Bomberos\_Cuenca) [November 15, 2024](https://twitter.com/Bomberos_Cuenca/status/1857462883396849818?ref_src=twsrc%5Etfw)
+### Más noticias:
 
-Grupos sociales protestan en Ecuador este 15 de noviembre
-=========================================================
+* [Gonzalo Plata: ‘la gente en Guayaquil ayuda y apoya’](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-monumental-eliminatorias-mundial.html "Gonzalo Plata: ‘la gente en Guayaquil ayuda y apoya’")
+* [Mike Tyson y Jake Paul calientan la pelea de Netflix](https://www.elcomercio.com/deportes/boxeo/mike-tyson-jake-paul-pelea-netflix-cachetada.html "Mike Tyson y Jake Paul calientan la pelea de Netflix")
+* [Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/juan-carlos-cordova-vuelta-ecuador-2024.html "Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador")
 
-Movilizaciones en varios puntos de Ecuador se convocaron para este viernes.
----------------------------------------------------------------------------
+También el jugador, con un mensaje en redes sociales, hizo oficial su marcha en el mismo instante.
 
-![Integrantes de la UNE acudieron a la Plataforma Gubernamental en el norte de Quito, este 15 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/une-principal.jpg)
+“Hay momentos en los que las cosas no salen como queremos, pero una cosa es cierta: **el vínculo que tengo con vosotros, queridos aficionados**, seguirá siendo inolvidable. Me habéis dado mucho, más de lo que puedo expresar con palabras, y siempre llevaré conmigo todo el cariño que me disteis. Estaréis siempre en mi corazón. Mucha suerte, Juventus”, publicó en Instagram.
 
-**Organizaciones sociales** realizaron la convocatoria para movilizaciones en Ecuador. Las marchas se prevén para este viernes, 15 de noviembre de 2024. Algunas protestas se dieron desde la mañana[.](https://es.wikipedia.org/wiki/Ecuador)
+¿Cuál es el futuro de Pogba?
+----------------------------
 
-**Quito** es uno de los puntos centrales para las concentraciones de las agrupaciones que impulsan consignas en rechazo a políticas del gobierno de **Daniel Noboa**.
+Pogba, de 31 años, **podrá volver a jugar a partir de marzo en cualquier equipo**, al que llegará como agente libre después de que el Tribunal de Arbitraje Deportivo (TAD) redujera la sanción por dopaje que le fue impuesta en septiembre de 2023 de 4 años a 18 meses.
 
-### Más noticias
+El ‘Pulpo’ aseguró que su deseo era el de volver a jugar con la ‘Juve’ a partir de marzo, cuando terminará su sanción, **pero el club siempre dejó entrever que su intención era la de rescindir** el contrato del jugador.
 
-* [Conaie anuncia movilizaciones para el viernes 15 de noviembre](https://www.elcomercio.com/actualidad/ecuador/conaie-anuncia-movilizaciones-para-viernes-15-de-noviembre.html "Conaie anuncia movilizaciones para el viernes 15 de noviembre")
-* [Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca](https://www.elcomercio.com/actualidad/manifestantes-protestan-contra-la-cumbre-iberoamericana-en-cuenca.html "Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca")
-* [FUT y otras organizaciones sociales anuncian movilización nacional](https://www.elcomercio.com/actualidad/ecuador/fut-sindicatos-movilizacion-nacional-noviembre.html "FUT y otras organizaciones sociales anuncian movilización nacional")
+Pogba podrá entrenarse a partir de enero y jugar a partir de marzo. La MLS estadounidense y el Inter de Miami asoman como las opciones más probables de destino para el internacional francés.
 
-Movilizaciones nacionales en Ecuador
-------------------------------------
+Títulos de Pogba
+----------------
 
-**Nelson Erazo**, presidente del **Frente Popular**, detalló que el llamado se realizó desde el **Frente Unitario de Trabajadores**, Frente Popular, trabajadores y afiliados del Seguro Social Campesino.
+### Juventus
 
-También está previsto que se sumen **estudiantes universitarios**, secundarios, trabajadores autónomos, colectivos de mujeres, jubilados, ambientalistas, ecologistas y se suman también el movimiento indígena.
+Serie A: 4
 
-Según Erazo, las movilizaciones, especialmente, contra los **cortes de luz**, inseguridad, salud, educación y despidos de trabajadores.
+Copa de Italia: 2
 
-Aún no se habla de un **paro nacional**. Al menos no hasta este 15 de noviembre.
+Supercopa de Italia: 3
 
-Puntos previstos para las movilizaciones
-----------------------------------------
+### Manchester United
 
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/centro-1024x683.jpg)
+Copa de la Liga: 1
 
-En calles del Centro de Quito se colocaron vallas de seguridad. Hay restricciones. Foto: Diego Pallero/El Comercio
+Europa League: 1
 
-En el caso de Quito, para las 15:00, se prevé una concentración en las inmediaciones de la **Universidad Central** y a las 16:00, el encuentro será en la Caja del **Instituto Ecuatoriano de Seguridad Social (IESS)**, en la av. 10 de Agosto.
+### Selección de Francia
 
-La marcha avanzará hasta el **Centro Histórico de Quito**, al menos, así lo anunciaron desde las organizaciones sociales.
+Como Mundial sub-20: 1
 
-Ya desde la mañana de este viernes, en la zona patrimonial de la capital se colocaron vallas. La Agencia Metropolitana de Tránsito (AMT) informó sobre las restricciones en el perímetro del Centro Histórico y recomendó tomar rutas alternas, como las avenidas Pichincha y Mariscal Sucre.
+Copa Mundial absoluta: 1
 
-> 🚨 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
->   
-> 👀 Por disposición de [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw) permanecerá 🚧 cerrado el perímetro del Centro Histórico.  
->   
-> ✅ Pedimos a la ciudadanía tomar rutas alternas.  
-> 🛣️ Av. Mariscal Sucre  
-> 🛣️ Av. Pichincha  
->   
-> 👆🏼 Con precaución y atención en las vías  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/7TINY6xfKB](https://t.co/7TINY6xfKB)
-> 
-> — AMTQuito (@AMT\_Quito) [November 15, 2024](https://twitter.com/AMT_Quito/status/1857436158851956871?ref_src=twsrc%5Etfw)
+Liga de Naciones: 1
 
-A la par, **Nelson Erazo** indicó que habrá movilizaciones en Guayaquil, Cuenca, Portoviejo, Ibarra, Tulcán, Latacunga, Riobamba, Ambato, Azogues, Santo Domingo, Babahoyo, Machala y Lago Agrio.
+San viernes
+-----------
 
-Protestas la mañana de este 15 de noviembre
--------------------------------------------
+Gonzalo Plata, agradecido de volver a marcar con Ecuador
+========================================================
 
-Por otro lado, la mañana de este 15 de noviembre, representantes de la Unión Nacional de Educadores (UNE) y estudiantes se concentraron en la **Plataforma Gubernamental** del norte de Quito.
+La Selección de Ecuador goleó a Bolivia, y una de las figuras del partido fue Gonzalo Plata.
+--------------------------------------------------------------------------------------------
 
-El propósito fue exigir el presupuesto para la educación, pago de docentes del Ministerio de Inclusión Económica y Social (Mies) y de la deuda del Estado al **IESS**.
+![Gonzalo Plata celebrando uno de sus dos goles con Ecuador en la victoria contra Bolivia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T182331.528.jpg)
 
-Del mismo modo, en la provincia de Cotopaxi, una multitud recorrió la ciudad de Latacunga, con consignas contra las políticas de **Daniel Noboa**. Se sumó el pedido contra la minería en áreas verdes.
+**Gonzalo** **Plata** vivió una noche mágica con la **Selección de Ecuador.** El extremo deslumbró con su actuación y anotó un doblete en la goleada 4-0 ante Bolivia, por las eliminatorias sudamericanas.
 
-La actriz Eva Longoria tomó una decisión tras la elección de Donald Trump 
-==========================================================================
+El jugador del Flamengo poco a poco está **retomando el nivel** que mostró en las eliminatorias al Mundial de Catar 2022, y que le permitió ganarse el cariño de los aficionados.
 
-La decisión de Eva Longoria refleja un profundo descontento político.
----------------------------------------------------------------------
+### Más noticias:
 
-![Eva Longoria elige nuevos destinos para una vida tranquila. Foto: Instagram @evalongoria.](https://www.elcomercio.com/wp-content/uploads/2024/11/Eva-Longoria-Estados-Unidos.jpg)
+* [Gonzalo Plata: ‘la gente en Guayaquil ayuda y apoya’](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-monumental-eliminatorias-mundial.html "Gonzalo Plata: ‘la gente en Guayaquil ayuda y apoya’")
+* [Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-figura-ecuador-bolivia.html "Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia")
+* [Leonardo Campana desafectado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-angelo-preciado-eliminatorias.html "Leonardo Campana desafectado de la Selección de Ecuador")
 
-**Eva Longoria**, reconocida **actriz y activista**, ha tomado la drástica decisión de **abandonar Estados Unidos**. En una reciente entrevista con **Marie Claire**, Longoria **expresó su descontento con el rumbo político del país** tras la reelección de **Donald Trump**. Según la actriz, el ambiente actual en EE.UU. se ha vuelto “aterrador” y “distópico” para muchos ciudadanos, según informa [El País](https://elpais.com/us/2024-11-14/eva-longoria-no-vivira-en-el-estados-unidos-de-donald-trump-si-cumple-sus-promesas-va-a-ser-un-lugar-aterrador.html "https://elpais.com/us/2024-11-14/eva-longoria-no-vivira-en-el-estados-unidos-de-donald-trump-si-cumple-sus-promesas-va-a-ser-un-lugar-aterrador.html").  
+Bajo la dirección de **Sebastián** **Beccacece**, Plata ha vuelto a ganarse un puesto en la ‘Tri’ y ha demostrado en sus últimos partidos que está listo para adueñarse nuevamente de la titularidad.
 
-### Más noticias
-
-* [Megan Fox y su ascenso, caída y resurgimiento en Hollywood](https://www.elcomercio.com/afull/megan-fox-cine-biografia-transformers.html "https://www.elcomercio.com/afull/megan-fox-cine-biografia-transformers.html") 
-* [José Andrés, Eva Longoria y Sofía Vergara se unen al futuro Museo Latino](https://www.elcomercio.com/tendencias/entretenimiento/eva-longoria-sofia-vergara-museo-latino.html "https://www.elcomercio.com/tendencias/entretenimiento/eva-longoria-sofia-vergara-museo-latino.html")
-
-**Un nuevo hogar en el extranjero para Eva Longoria** 
-------------------------------------------------------
-
-Longoria ha optado por **residir principalmente en España y México**, donde vive junto a su esposo, **Pepe Bastón**, y su hijo, Santiago. **La actriz ha estado pasando largas temporadas fuera de EE.UU.,** y ahora ha decidido que **esta será su nueva normalidad**. A principios de 2023, **adquirió una mansión en Marbella**, un popular destino turístico en la **costa española**, conocido por su clima cálido y estilo de vida relajado, siguiendo con El País.  
-
-La actriz mencionó que su vida en Los Ángeles estaba marcada por el trabajo constante y la presión de la industria del entretenimiento. En contraste, **su tiempo en España le permite disfrutar de una vida más tranquila y plena**. “Asocio España con vacaciones; aquí no tengo horarios”, comentó Longoria, al reflejar su deseo de desconectarse del ritmo frenético de Hollywood, según cita El País.  
-
-**Motivos detrás de la mudanza** 
----------------------------------
-
-El **descontento de Longoria** no solo se basa en su experiencia personal, sino también en su **preocupación por el futuro del país bajo la administración de Trump**. En sus declaraciones, expresó **ansiedad por aquellos que no tienen la opción de dejar EE.UU.**, al afirmar que muchos estadounidenses se sienten atrapados en u**n sistema que ya no les representa**, de acuerdo con [Infobae](https://www.infobae.com/entretenimiento/2024/11/14/eva-longoria-huira-de-estados-unidos-con-su-familia-se-convertira-en-un-lugar-aterrador/ "https://www.infobae.com/entretenimiento/2024/11/14/eva-longoria-huira-de-estados-unidos-con-su-familia-se-convertira-en-un-lugar-aterrador/").  
-
-**La actriz ha sido una voz activa en la política estadounidense**, al apoyar a candidatos demócratas como **Kamala Harris**. Sin embargo, el reciente **resultado electoral** le dejó un sabor amargo. “Lo chocante no es que haya ganado Trump; es que un criminal convicto pueda ostentar el más alto cargo”, declaró Longoria durante la entrevista, citada por El País.  
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DB9ReIRy-zp/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Eva Longoria Baston (@evalongoria)](https://www.instagram.com/p/DB9ReIRy-zp/?utm_source=ig_embed&utm_campaign=loading)
-
-**Impacto en su carrera** 
---------------------------
-
-Aunque Longoria ha pasado **gran parte de su vida adulta en Los Ángeles**, ha notado un cambio significativo en el ambiente laboral y social de la ciudad. **La falta de vivienda asequible y los altos impuesto**s fueron factores que contribuyeron a su decisión de mudarse.  
-
-**Su trabajo ahora se centra más en proyectos fuera de Hollywood**, principalmente en España y América Latina. Longoria ha encontrado oportunidades creativas que resuenan más con sus valores personales y profesionales, según cita Infobae.  
-
-Por la romería a El Quinche, terminales de buses modifican los horarios
-=======================================================================
-
-Este fin de semana se llevará a cabo la romería a la Virgen de El Quinche. El transporte público debió modificar los horarios por la peregrinación masiva.
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![El transporte público que llega hacia El Quinche debió modificar los horarios para este fin de semana,](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-46-2.jpg)
-
-El fin de semana del **15 al 17 de noviembre del 2024**, en Quito se vivirá una de las mayores manifestaciones de la **religiosidad popular**. Son miles de personas que **peregrinan** hacia el **Santuario de la Virgen de El Quinche,** regido por los padres oblatos. Ante ello, los **terminales de buses** que se dirigen hacia los valles orientales de Quito han modificado sus horarios de atención.
-
-### Más noticias
-
-* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
-* [Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático](https://www.elcomercio.com/actualidad/mundo/trump-llega-a-la-casa-blanca-dispuesto-a-demoler-la-lucha-contra-el-cambio-climatico.html "Trump llega a la Casa Blanca dispuesto a demoler la lucha contra el cambio climático")
-* [Tres parqueaderos de La Carolina suspenden servicio en Quito](https://www.elcomercio.com/actualidad/quito/tres-parqueaderos-carolina-suspension-rehabilitacion.html "Tres parqueaderos de La Carolina suspenden servicio en Quito")
-
-Terminales modifican horarios
------------------------------
-
-Las **terminales** microrregionales de la avenida **Río Coca** y la de la **Ofelia** modificaron los horarios para ajustarse a la peregrinación de los devotos a la **Virgen de El Quinche**.
-
-Las cooperativas que hacen los recorridos hacia el oriente por el valle de **Tumbaco** solamente tendrán **salidas desde Quito entre las 05:00 y las 17:00**. Así lo informó la Empresa Pública Metropolitana de Obras Públicas y Movilidad, **Epmmop**.
-
-“Pasado este horario, no habrá transporte disponible debido a los cierres viales”, dice la Epmmop en un comunicado.
-
-La terminal con más afluencia
------------------------------
-
-La terminal de la avenida **Río Coca y la calle De los Laureles** es la que mayor afluencia de pasajeros tiene hacia el santuario de la Virgen. Por ello, es a la que más atención prestan durante la romería a El Quinche, pues salen de allí buses de **siete operadoras**.
-
-En cambio, desde la **Ofelia**, en la avenida Diego Vásquez y C11, solamente sale **una** hacia El Quinche[.](https://es.wikipedia.org/wiki/El_Quinche_(parroquia) "https://es.wikipedia.org/wiki/El_Quinche_(parroquia)")
-
-Ante ello, las autoridades han permitido que los buses que salgan de **El Quinche** puedan llegar a la terminal de **Quitumbe**, aunque el horario será entre las **04:00 y las 06:00.**
-
-‘Dalia y el Libro Rojo’, primer filme de animación producido en Ecuador
-=======================================================================
-
-Llegó a las salas de los grandes cines de Ecuador el 7 de noviembre de 2024
----------------------------------------------------------------------------
-
-![La animación de 'Dalia y el libro rojo' combina técnicas de 'stop motion', 2D y 3D.](https://www.elcomercio.com/wp-content/uploads/2024/11/DALIA-El-Comercio.jpg)
-
-La película ‘**Dalia y el Libro Rojo**‘ es una historia que relata el viaje de una niña que enfrenta el desafío de completar el libro inacabado de su padre. La cinta es el primer **filme de animación** que se produce en **Ecuador**.
-
-El **[estudio ecuatoriano Matte CG](https://www.matte.cg/ "https://www.matte.cg/")**, pionero en este sector con más de diecinueve años de trayectoria, representó al país en esta gran producción escrita y dirigida por **[David Bisbano](https://www.instagram.com/davidbisbano/?hl=es "https://www.instagram.com/davidbisbano/?hl=es")**, en la que también estuvieron presentes equipos de Argentina, Perú, Colombia, Brasil y España.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBEnfu9ReXd/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por David Bisbano (@davidbisbano)](https://www.instagram.com/reel/DBEnfu9ReXd/?utm_source=ig_embed&utm_campaign=loading)
-
-### Más noticias
-
-* **[La Era del Hielo regresa a la pantalla grande](https://www.elcomercio.com/tendencias/era-hielo-seis-disney.html "https://www.elcomercio.com/tendencias/era-hielo-seis-disney.html")**
-* **[Netflix estrena documental sobre los niños perdidos en la selva colombiana durante 40 días](https://www.elcomercio.com/tendencias/documental-ninos-perdidos-selva-colombiana.html "https://www.elcomercio.com/tendencias/documental-ninos-perdidos-selva-colombiana.html")**
-
-En el largometraje se narra la historia de Dalia, una niña de 12 años hija de un famoso escritor recientemente fallecido, que hereda el legado de finalizar su libro. Para ello, debe convertirse en parte de la historia y enfrentarse cara a cara con los personajes que fueron creados por su padre.
-
-**Andrés Aguilar, director de Matte CG** y uno de los productores del filme, explicó a EFE que la película fue creada, en un inicio, como un proyecto que incentivase la lectura, pero también tiene un fuerte componente de alentar la confianza en uno mismo.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/DALIA-El-Comercio-2-1024x683.jpg)
-
-“En cualquier cosa que un niño haga tiene que darse cuenta que su camino es su propio camino, es único”, indicó Aguilar.
-
-De su lado, **Juan Fernando Terán, también director general de Matte CG** y productor de la película, expresó que “es un sueño hecho realidad poder llevar el estandarte de ser la primera película (animada) que se ha producido acá en el Ecuador”.
-
-La animación combina técnicas de ‘stop motion’, 2D y 3D, creando un universo visualmente atractivo, donde se entremezcla realidad y fantasía, que ha sido motivo de orgullo para los animadores ecuatorianos. “La calidad visual es muy alta, y eso ha llamado la atención tanto en Ecuador como en otros países de Latinoamérica”, comentó Terán.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/DALIA-El-Comercio-1-1024x683.jpg)
-
-No es la primera incursión del estudio en el mundo audiovisual, donde ya ha realizado proyectos como el cortometraje ‘Afterwork’ o la serie animada ‘Hit Monkey’ de Hulu. Sin embargo, debido a su envergadura, ya que cuenta con unos 1.500 planos, este largometraje representó un ambicioso paso para el estudio.
-
-Aún no hay cifras claras sobre la acogida del público tras menos de una semana en cartelera y ahí encuentran uno de los principales retos: llegar a la población que, sin apego a su animación, elija ese filme para entretenerse en competición con las demás películas.
-
-“Lo más importante para nosotros en este punto es que la gente se anime a ir a verla”, expresó Terán.
-
-**“Punta de lanza” de la animación en Ecuador**
------------------------------------------------
-
-El cine de animación en Ecuador, todavía pequeño y en crecimiento, está logrando hitos importantes con producciones como ‘Dalia y el Libro Rojo’, que dejan la puerta abierta a posibles nuevos proyectos y caminos en el sector.
-
-En este sentido, destaca el valor de esta obra para la industria nacional, pues Terán explicó a EFE que Ecuador es muy pequeño en términos audiovisuales por su población, consumo y producción, por lo que realizar este tipo de cine “es una apuesta fuerte”, según lo calificó.
-
-También subrayó la importancia de que tanto los inversionistas como el público vean al país como un destino con potencial audiovisual y señaló que, actualmente, después de un proceso de internacionalización, sobre el 70 % u 80 % de los proyectos que realizan desde el estudio son para afuera.
-
-“Es un esfuerzo demostrar que en Ecuador se puede hacer contenido de calidad. Esta película es la cúspide de ese sueño, que algo que también es nuestro pueda llegar a cines”, añadió.
-
-**Proyectos de fantasía**
--------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/DALIA-El-Comercio-3-1024x683.jpg)
-
-Por su parte, Aguilar aludió a la necesidad de realizar proyectos de fantasía, un género no tan explorado en el país, que cuenten historias con las que el público se sienta reflejado.
-
-“El cine en Latinoamérica responde, en muchos casos, a temáticas sociales, pero hay un desequilibrio cuando no existe el otro cine (de entretenimiento), que es el que hace que la gente vaya a las salas a comer canguil (‘popcorn’ o palomitas)”, explicó.
-
-Tras un largo recorrido que ha sentado fundamentos y bases en el país, esperan servir de ejemplo y abrir camino para otros, como una suerte de “punta de lanza de la animación en Ecuador”, según definió Aguilar al estudio. “Esa es nuestra misión, inspirar y compartir el conocimiento con los que se dejen”, finalizó.
-
-Noboa afirmó ‘Estamos viviendo momentos duros para Iberoamérica’
-================================================================
-
-Por primera vez en la historia de estas cumbres, no participa ningún presidente de América Latina excepto el anfitrión.
------------------------------------------------------------------------------------------------------------------------
-
-![El presidente de Ecuador, Daniel Noboa, pronuncia un discurso este jueves, a la inauguración de la XXIX Cumbre Iberoamericana de Jefes de Estado y de Gobierno, en Cuenca (Ecuador).](https://www.elcomercio.com/wp-content/uploads/2024/11/daniel-noboa-cumbre.jpg)
-
-El presidente de Ecuador, [Daniel Noboa](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html"), inauguró este viernes, 15 de noviembre de 2024, la sesión plenaria de la **XXIX Cumbre Iberoamericana de jefes de Estado y de Gobierno** con prácticamente el mismo discurso que expresó en el **acto oficial de apertura del encuentro**. En la intervención señaló que Iberoamérica vive momentos duros.
-
-### Más noticias
-
-* [Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca](https://www.elcomercio.com/actualidad/manifestantes-protestan-contra-la-cumbre-iberoamericana-en-cuenca.html "Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca")
-* [Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador](https://www.elcomercio.com/actualidad/javier-milei-no-asistira-a-la-cumbre-iberoamericana-en-ecuador-2.html "Javier Milei no asistirá a la Cumbre Iberoamericana en Ecuador")
-* [Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos](https://www.elcomercio.com/actualidad/mundo/arranca-reunion-cancilleres-cumbre-presidentes-latinoamericanos.html "Arranca reunión de cancilleres de una Cumbre sin presidentes latinoamericanos")
-
-“Estamos viviendo **momentos duros para Iberoamérica**”, manifestó Noboa para dar inicio a la sesión plenaria de la Cumbre, marcada por la **ausencia de los líderes**, ya que sólo acudieron a Cuenca (Ecuador) cuatro de los veinticuatro jefes de Estado y de Gobierno convocados.
-
-Por primera vez en la historia de estas cumbres, que se celebran desde 1991, no participa ningún **presidente de América Latina** excepto el anfitrión. Es un **hecho sin precedentes,** están vacías las sillas de tres países (**México, Nicaragua y Venezuela**), que tiene rotas las relaciones con Ecuador.
-
-“Más que (momentos) duros… diría que son complejos, y como jefes de Estado tenemos la responsabilidad de sacar adelante una **región afectada por el crimen transnacional**, cambio climático, sequías, y también por el abandono”, señaló Noboa.
-
-Asistieron 1200 empresarios
----------------------------
-
-El **mandatario ecuatoriano** destacó la asistencia récord de **1 200 empresarios** en el XV Encuentro Empresarial Iberoamericano, un evento paralelo al encuentro político organizado por el Consejo Empresarial Iberoamericano (CEIB).
-
-“Es esencial el apoyo de la empresa privada”, remarcó Noboa, para quien esta cumbre debe “ofrecer **soluciones innovadoras y creativas** para crear nuevas oportunidades”.
-
-En ese sentido, mencionó especialmente “áreas críticas como el crimen organizado transnacional, el cambio climático, la inclusión laboral de los jóvenes, la **protección del medioambiente** el acceso a la educación y el fortalecimiento de la conectividad”.
-
-“Una de nuestras mayores prioridades es e**l apoyo a la juventud mediante la generación de apoyo** y la formación profesional, esto nos permitirá abrir caminos hacia un crecimiento económico equitativo”, señaló el gobernante ecuatoriano.
-
-“Este objetivo solo será posible alcanzar con el **compromiso del sector empresarial,** como se evidenció en el **XV Encuentro Empresarial Iberoamericano**, que concluyó esta tarde con el ‘Compromiso por la empleabilidad’, finalizó Noboa, un empresario que en 2023 se convirtió en el presidente más joven de Latinoamérica.  
-
-La Luna de Castor llega como la última superluna del año 
-=========================================================
-
-La Luna de Castor. Un fenómeno que no te puedes perder.
--------------------------------------------------------
-
-![La Luna de Castor marca preparación invernal y tradición. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Luna-de-Castor.jpg)
-
-El 15 de noviembre de 2024, **el cielo ecuatoriano se llenará de magia** con la aparición de la **Luna de Castor**. Este fenómeno astronómico **se produce cuando la luna llena coincide con su perigeo**, el punto más cercano a la Tierra en su órbita. En esta ocasión, **la Luna brillará un 30% más y se verá un 10% más grande** que en otras fases lunares normales, según [NasaNet](https://www.lanasa.net/universo/observacion-astronomica/ya-esta-aqui-la-ultima-superluna-del-ano-la-luna-del-castor "https://www.lanasa.net/universo/observacion-astronomica/ya-esta-aqui-la-ultima-superluna-del-ano-la-luna-del-castor"). 
-
-### Más noticias
-
-* [Noviembre es un mes cargado de fenómenos astronómicos. ¿Cuáles se verán en Ecuador?](https://www.elcomercio.com/tendencias/ciencia/fenomenos-astronomicos-ecuador-noviembre.html "https://www.elcomercio.com/tendencias/ciencia/fenomenos-astronomicos-ecuador-noviembre.html")
-* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html")
-
-**Origen del nombre ‘Luna de Castor’** 
----------------------------------------
-
-El nombre **Luna de Castor** proviene del **folclore nativo estadounidense**. Se relaciona con el **momento en que los castores construyen sus presas y se preparan para el invierno**. Durante noviembre, estos roedores trabajan arduamente para asegurarse un refugio seguro antes de que los ríos se congelen, a decir de [Los 40](https://los40.com/2024/11/15/luna-de-castor-2024-cuando-y-como-ver-la-luna-llena-de-noviembre-la-ultima-superluna-del-ano/ "https://los40.com/2024/11/15/luna-de-castor-2024-cuando-y-como-ver-la-luna-llena-de-noviembre-la-ultima-superluna-del-ano/"). 
-
-Además, históricamente, **este mes era propicio para cazar castores** debido a sus pieles gruesas, lo que añade un **contexto cultural** a este fenómeno lunar. 
-
-**¿Cuándo y cómo observarla?** 
--------------------------------
-
-La **Luna de Castor** alcanzará su **máxima iluminación a las 22:29** horas (aproximadamente) del **15 de noviembre**. Sin embargo, será posible observarla en su **fase casi completa hasta el 16 de noviembre**. Para disfrutar plenamente del espectáculo lunar, **es recomendable encontrar un lugar elevado y alejado de la contaminación lumínica**, de acuerdo con [El Mundo](https://www.elmundo.es/como/2024/11/14/67361f3fe4d4d87b0b8b45c1.html "https://www.elmundo.es/como/2024/11/14/67361f3fe4d4d87b0b8b45c1.html").  
-
-Con unos **simples prismáticos**, los observadores podrán apreciar detalles fascinantes en la superficie lunar. 
-
-**Un espectáculo astronómico** 
--------------------------------
-
-La superluna es un **evento astronómico que ocurre varias veces al año**. Sin embargo, **cada superluna tiene su propia singularidad**. La Luna de Castor se destaca no solo por su brillo y tamaño, sino también por su **conexión con las tradiciones culturales**. En otras culturas, **esta luna también recibe diferentes nombres**; por ejemplo, en el hemisferio sur se le conoce como la **Luna de Maíz o Luna de Leche**, siguiendo con Los 40.  
-
-**Importancia ecológica** 
---------------------------
-
-Los castores no solo son **importantes en la cultura popular**, sino también en el ecosistema. Su **actividad constructora ayuda a crear hábitats para diversas especies** y a mantener el equilibrio hídrico en su entorno. Científicos han estudiado el **impacto positivo que tienen los castores en los ecosistemas** mediante satélites que monitorean los cambios en las áreas donde estos animales habitan, según [Independent](https://www.independentespanol.com/estilo/espacio/cuando-es-luna-llena-castor-noviembre-2024-b2647457.html "https://www.independentespanol.com/estilo/espacio/cuando-es-luna-llena-castor-noviembre-2024-b2647457.html").  
-
-Cortes de luz en Cuenca este viernes 15 de noviembre
-====================================================
-
-Debido a la realización de la Cumbre Iberoamericana, el Centro Histórico de Cuenca no sufrirá cortes de luz entre el 14 y 15 de noviembre.
-------------------------------------------------------------------------------------------------------------------------------------------
-
-![La empresa Centrosur da mantenimiento a las luminarias.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-Cuenca-viernes-15.jpg)
-
-El **Ministerio de Energía y Minas** publicó la programación de **cortes de luz** para todo Ecuador del viernes 15 de noviembre al domingo 17 de noviembre de 2024.
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil este viernes 15 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-viernes-15-de-noviembre.html "Cortes de luz en Guayaquil este viernes 15 de noviembre")
-* [Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-mantienen-12-horas-hasta-domingo-17-de-noviembre-ecuador.html "Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador")
-* [Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca](https://www.elcomercio.com/actualidad/manifestantes-protestan-contra-la-cumbre-iberoamericana-en-cuenca.html "Manifestantes protestan contra la Cumbre Iberoamericana en Cuenca")
-
-Se mantienen los cortes de 12 horas
------------------------------------
-
-Debido a las condicione**s hidrológicas y climáticas** en las zonas de las hidroeléctricas persisten, el Ministerio de Energía informó que se mantiene la suspensión del servicio eléctrico.
-
-Esta suspensión de electricidad **contempla hasta 12 horas** en los sectores residenciales e industriales.
-
-La Cartera de Estado informó **los cronogramas** que se aplicarán durante el viernes y el fin de semana próximos en Ecuador.
-
-Las nueve empresas **distribuidoras de energía eléctrica** presentaron los horarios para cada una de las unidades de negocio que manejan para que se pueda planificar con tiempo.
-
-Debido a la realización de l**a XXIX Cumbre Iberoamericana de Jefes de Estado y de Gobierno**, el Centro Histórico de Cuenca no sufrirá cortes de luz entre el 14 y 15 de noviembre de 2024.
-
-Cronograma de cortes de luz para viernes 15 de noviembre
+Gonzalo Plata, contento de anotar nuevamente con Ecuador
 --------------------------------------------------------
 
-Estos son los cronogramas dispuestos por la distribuidora Centrosur para el viernes 15 de noviembre
+Aunque su último gol con **Ecuador** había sido en marzo de este año en un amistoso, su última anotación en un torneo oficial o eliminatoria había sido en junio de 2021. El 14 de noviembre, después de más de tres años, **Plata volvió a marcar**, y qué mejor manera de hacerlo que en su ciudad natal, Guayaquil, con una victoria importante en las eliminatorias.
 
-Dependencia hídrica
--------------------
+Tras el encuentro, Plata agradeció a los aficionados por su apoyo y dedicó sus goles a la hinchada. “Yo quería volver a anotar con mi selección y festejarlo en casa, con ustedes. **Seguimos trabajando por el sueño de todos**“, expresó el talentoso extremo en sus redes sociales.
 
-La sequía está haciendo mella en lo**s ríos de Cuenca,** donde el pedregal y los cauces secos han reemplazado el caudal de agua de otros tiempos.
+> Ya quería volver a anotar con mi selección 🇪🇨 y festejarlo en casa, con ustedes.  
+>   
+> Seguimos trabajando por el sueño de todos 💪🏽 [pic.twitter.com/X0u4HFfkta](https://t.co/X0u4HFfkta)
+> 
+> — Gonzalo Plata (@Gonzalo\_Plata20) [November 15, 2024](https://twitter.com/Gonzalo_Plata20/status/1857477897579078078?ref_src=twsrc%5Etfw)
 
-Este es el caso del **complejo hidroeléctrico del río Paute,** en el sur del país, que cuenta con tres centrales de generación con una producción conjunta de más de [1 700 megavatios](https://es.wikipedia.org/wiki/Cuenca_(Ecuador) "https://es.wikipedia.org/wiki/Cuenca_(Ecuador)").
+La figura ante Bolivia
+----------------------
 
-Al igual que Cuenca, otras zonas del país donde operan las centrales hidroeléctricas están sufriendo el embate de la sequía.
+Por tercer partido consecutivo, **Gonzalo Plata arrancó como titular** bajo las órdenes de Sebastián Beccacece. El extremo se mostró desequilibrante y fue un dolor de cabeza para la defensa boliviana.
+
+Plata **formó una gran dupla con Enner Valencia**, con quien se entendió a la perfección, lo que facilitó sus dos goles en la victoria por 4-0.
+
+El primer tanto llegó en el primer tiempo, con un **sutil toque** por encima del portero tras un excelente pase de Valencia. El segundo gol llegó en el complemento, nuevamente con asistencia de ‘Chivo’, pero esta vez Plata sacó un **potente remate** desde el sector izquierdo del área.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Liga de Portoviejo, un rival experimentado para el Deportivo Quito
+==================================================================
+
+Liga de Portoviejo jugó por última vez en la Serie B en el 2021, mientas que el Quito en 2016.
+----------------------------------------------------------------------------------------------
+
+![Jugadores de Liga de Portoviejo en el estadio Reales Tamarindos en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/capira_1.jpg)
+
+Liga de Portoviejo es uno de los **ocho equipos que siguen en el Torneo de Ascenso Nacional** y es uno de los principales candidatos para obtener uno de los dos cupos disponibles para la Liga Pro Serie B 2025.
+
+El rival de **Liga de Portoviejo será Deportivo Quito**, otro de los favoritos que espera cortar una racha negativa de ocho años de militar en la Segunda Categoría y en el amateurismo de la provincia de Pichincha.
+
+### Más noticias:
+
+* [La Selección de Ecuador se afianza en la tabla de posiciones](https://www.elcomercio.com/deportes/futbol/tabla-posiciones-fecha11-eliminatorias-mundial.html "La Selección de Ecuador se afianza en la tabla de posiciones")
+* [Ecuador se consolida como la mejor defensa de América](https://www.elcomercio.com/deportes/futbol/ecuador-consolida-como-la-mejor-defensa-de-america.html "Ecuador se consolida como la mejor defensa de América")
+* [Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-figura-ecuador-bolivia.html "Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia")
+
+El juego de ida de los cuartos de final entre Deportivo Quito y Liga de Portoviejo **está programada para el domingo 17 de noviembre**, desde las 12:00, en el estadio Gonzalo Pozo Ripalda, enclavado en el sur de la capital ecuatoriana.
+
+A diferencia de la ‘AKD’, la U manabita militó en la Serie B en el 2021 y perdió la categoría junto a Atlético Porteño de Guayaquil, anteriormente conocido como los Duros del Balón.
+
+Ese año los portovejenses cosecharon 37 puntos. En las **36 jornadas ganaron nueve juegos, empataron 10 y perdieron 17**. Anotaron 42 goles y recibieron 52 para un gol diferencia negativo de -10.
+
+El argentino Franco Olego y el ecuatoriano Gustavo Asprilla, con 13 y ocho goles cada uno, fueron los goleadores y los más destacados de una pobre campaña.
+
+La última vez del Quito en la B fue en el 2016. La **estadística oficial registra que terminó en la tabla con tan solo dos puntos**, pese a haber ganado nueve juegos, empatar nueve y perder 41. Marcó 41 goles y recibió 88 para un gol diferencia negativo de -47.
+
+El descenso de los capitalinos no solo se concretó en la cancha, sino que también se lo hizo en lo administrativo, con la merma de puntos como la principal causa para la pérdida de categoría.
+
+Entre las **sanciones impuestas por la FIFA y la FEF se le endosó 34 puntos en contra**, con lo que descenso a la Segunda Categoría de Pichincha se concretó, luego de 50 años.
+
+![Cristhian Cuero, jugador de Liga de Portoviejo en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/capira_3-1024x683.jpg)
+
+Cristhian Cuero, jugador de Liga de Portoviejo en el 2024.
+
+Los experimentados de Portoviejo
+--------------------------------
+
+La dirección técnica de Liga de Portoviejo está a cargo del paraguayo Raúl Duarte, que también tuvo dos etapas con el Deportivo Quito en la Segunda Categoría de Pichincha.
+
+En su plantilla existe una mezcla de juventud y experiencia que se complementa como una de las más sólidas del Ascenso Nacional y que en el Reales Tamarindos se ha vuelto prácticamente invencible.
+
+En el arco destaca el nombre de Manuel Mendoza. En el 2009 fue uno de los seleccionados por Julio César Rosero **para representar al país en el campeonato sudamericano sub-20 en Venezuela**, junto a nombres como Jefferson Montero y Fidel Martínez, mundialistas en Brasil 2014.
+
+Ese mismo 2009 defendió el arco de Liga de Portoviejo en la Serie A, pero ese mismo año descendieron antes de poder volver en el 2020.
+
+Las buenas actuaciones de **Mendoza le abrieron las puertas de Liga de Quito**. Ahí nunca se consolidó y regresó a Portoviejo. También tuvo un paso por Técnico Universitario de Ambato.
+
+Hugo Vélez y Luis ‘Cocacho’ Macías también formaron parte del plantel manabita en aquel 2009, pero sus carreras tomaron rumbos diferentes y se edificaron de distintas maneras en el fútbol nacional.
+
+Vélez, actualmente con 38 años, jugó en **Universidad Católica, El Nacional, Liga de Quito y Mushuc Runa**, mientras que Macías tuvo un fugaz paso por Barcelona SC y después de ello etapas intermitentes en River Ecuador, Aucas, Deportivo Quevedo, Colón y varios retornos a Liga de Portoviejo.
+
+Antes de volver en el 2024 no estaba activo profesionalmente desde el 2018, por lo que fue una **sorpresa para propios y extraños que se vista de corto**, pese a tener 39 años y una vida totalmente alejada del fútbol.
+
+Pablo Cifuente, Marcos Cangá, Jimmy Gómez, César Espíndola, Jorge Luis Cuesta y Cristhian Cuero son los **otros jugadores con experiencia en la Serie A** que intentan dar un nuevo paso, pero para abrir la puerta de la B.
+
+![Luis Macías, jugador de Liga de Portoviejo.](https://www.elcomercio.com/wp-content/uploads/2024/11/capira_2-1024x683.jpg)
+
+Luis Macías, jugador de Liga de Portoviejo.
+
+San viernes
+-----------
+
+Educadores comunitarios reciben pago del Gobierno
+=================================================
+
+Gobierno pagó deuda de más de una década, este 15 de noviembre, a educadores comunitarios.
+------------------------------------------------------------------------------------------
+
+![Foto referencial de educadores comunitarios.](https://www.elcomercio.com/wp-content/uploads/2024/11/EDUCADORES-COMUNITARIOS.jpg)
+
+**Educadores comunitarios** de Ecuador recibieron un pago por parte del **Gobierno**. La transacción se dio este viernes, 15 de noviembre de 2024.
+
+Los recursos se destinaron tras la coordinación de tres **instituciones públicas**. Estos se dieron luego de más de una década de deudas.
+
+### Más noticias
+
+* [Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca")
+* [Lavinia Valbonesi defiende a Daniel Noboa en redes sociales](https://www.elcomercio.com/actualidad/politica/lavinia-valvonesi-defiende-daniel-noboa.html "Lavinia Valbonesi defiende a Daniel Noboa en redes sociales")
+* [Ministerio de Educación abrió vacantes para profesionales en consejería estudiantil](https://www.elcomercio.com/actualidad/ecuador/ministerio-educacion-vacantes-consejeros-profesionales.html "Ministerio de Educación abrió vacantes para profesionales en consejería estudiantil")
+
+> \[COMUNICADO\] El Gobierno tras un trabajo coordinado entre [@Educacion\_Ec](https://twitter.com/Educacion_Ec?ref_src=twsrc%5Etfw), [@FinanzasEc](https://twitter.com/FinanzasEc?ref_src=twsrc%5Etfw) y el [@IESSec](https://twitter.com/IESSec?ref_src=twsrc%5Etfw), pagó USD 33,2 millones a 6.400 educadores comunitarios, cumpliendo con un acto de justicia histórica, al saldar las deudas patronales pendientes por más de 16 años. Conoce más: 👇… [pic.twitter.com/5kG7uQyGSt](https://t.co/5kG7uQyGSt)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [November 15, 2024](https://twitter.com/Educacion_Ec/status/1857534318215561252?ref_src=twsrc%5Etfw)
+
+Pagos del Gobierno a educadores comunitarios
+--------------------------------------------
+
+Los ministerios de **Educación, Economía y Finanzas**, así como el **Instituto Ecuatoriano de Seguridad Social (IESS)** fueron los encargados de las gestiones para el pago.
+
+El Gobierno pagó **33,2 millones de dólares**. Este rubro fue destinado a **6 400 educadores comunitarios** de Ecuador.
+
+Según información de los ministerios de **Educación y Finanzas**, con ese montó se saldó una deuda patronal que estaba retrasada por más de 16 años.
+
+Los **educadores** han dedicado sus jornadas de educación en las comunidades más vulnerables del país.
+
+¿Cuál es la labor de los educadores comunitarios?
+-------------------------------------------------
+
+Los **educadores comunitarios** son profesionales que trabajan con poblaciones que se encuentran en estado de vulnerabilidad, especialmente, con niños y jóvenes.
+
+Los docentes son principalmente integrantes de la comunidad, aunque no en todos los casos. Los profesionales realizan talleres, **proyectos** y, además, identifican necesidades de la población.
+
+Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair
+===========================================================
+
+El Inamhi prevé que las lluvias en Coca Codo Sinclair se extiendan hasta el domingo 17 de noviembre,
+----------------------------------------------------------------------------------------------------
+
+![Las lluvias benefician la productividad de Coca Codo Sinclair, sin embargo, la central no tiene embalses de almacenamiento](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-coca-codo-sinclair.jpg)
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló las condiciones del clima que tendrá la **Amazonía** entre este viernes 15 y domingo 17 de noviembre.
+
+### Más noticias
+
+* [Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro](https://www.elcomercio.com/actualidad/ecuador/inamhi-condiciones-clima-hidroelectricas-austro.html "Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro")
+* [Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/fuertes-lluvias-coca-codo-sinclair.html "Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair")
+* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
+
+La entidad confirmó que en el norte y centro de la región Oriental se esperan **lluvias leves y moderadas**; en algunas zonas puntuales, se prevén lluvias con **tormentas**.
+
+Para la tarde y noche de este viernes, por ejemplo, **Napo y Pastaza** son las provincias de la Amazonía donde mayores precipitaciones habrá[.](https://www.celec.gob.ec/cocacodo/informacion-tecnica/central-hidroelectrica-coca-codo-sinclair/ "https://www.celec.gob.ec/cocacodo/informacion-tecnica/central-hidroelectrica-coca-codo-sinclair/")
+
+Pronóstico del clima en la Amazonía de Ecuador
+----------------------------------------------
+
+Estas son las condiciones del clima pronosticadas por el Inamhi para este **viernes** por provincias:
+
+* **Sucumbíos:** cielos nublados en la tarde y lluvias leves en la noche; temperatura entre 20° C y 30° C.
+* **Napo:** lluvias moderadas en la tarde y noche; temperatura entre 21° C y 28° C.
+* **Orellana:** lluvias aisladas tarde y leves en la noche; temperatura entre 20° C y 30° C.
+* **Pastaza:** lluvias con **tormentas** en la tarde y lluvias aisladas en la noche: temperatura entre 18° C y 27° C.
+* **Morona Santiago:** cielos nublados en la tarde y lluvias aisladas en la noche; temperatura entre 17° C y 28° C.
+* **Zamora Chinchipe**: cielos nublados; temperatura entre 18° C y 31° C.
+
+> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del tiempo en varias localidades del Ecuador, se prevé precipitaciones en la región Amazónica⛈. Mientras que, al sur del país se prevé temperaturas diurna altas y condiciones favorables para la propagación de incendios forestales 🥵 [pic.twitter.com/8Z85laOb07](https://t.co/8Z85laOb07)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 15, 2024](https://twitter.com/inamhi_ec/status/1857256102104047687?ref_src=twsrc%5Etfw)
+
+Lluvias en las cercanías a Coca Codo Sinclair
+---------------------------------------------
+
+Las lluvias previstas en Napo y Sucumbíos favorecerán este fin de semana las condiciones de la central más grande del país, **Coca Codo Sinclair**.
+
+La hidroeléctrica se ubica entre los cantones **El Chaco y Gonzalo Pizarro**.
+
+Estas precipitaciones se sumarán a las registradas en la zona durante la madrugada del jueves 14 y viernes 15 de noviembre.
+
+El último reporte de precipitaciones en la Amazonía del Inamhi, del jueves 14 de noviembre detalló que **Gonzalo Pizarro** fue el cantón que tuvo más lluvias, con **78,4 milímetros** por día.
+
+Los otros cantones fueron:
+
+* Jumandy, en Napo (71,3 mm)
+* Coca, en Orellana (37,2 mm)
+* Puyo, en Pastaza (37,2 mm)
+* Nuevo Rocafuerte, en Orellana (31,6 mm)
+* Nueva Loja, en Sucumbíos (22,6 mm)
+
+Un milímetro de precipitación equivale a un **litro de agua** por cada metro cuadrado.
+
+Zona austral no tendrá lluvias considerables
+--------------------------------------------
+
+Hasta el domingo 17 de noviembre, la entidad alertó precipitaciones de niveles **medio, alto y muy alto** en la **Amazonía**.
+
+Sin embargo, no enfrentará una misma realidad el sur de la Sierra, donde se encuentran otras centrales grandes e importantes de Ecuador: **Mazar, Paute – Molino y Sopladora**.
+
+En la región austral existe una alerta meteorológica que registra **altas temperaturas** en la mañana, con condiciones favorables para el inicio y propagación de **incendios forestales**.
+
+La **falta de nubes** y por ende de lluvias en **Cañar, Azuay y Loja** se debe a la masa seca que atraviesa la atmósfera desde el Océano Pacífico, que causa altas radiaciones y cielos despejados, explicó el Inamhi.
+
+Verónica Abad tuvo una respuesta sobre su pedido de medidas cautelares
+======================================================================
+
+Jueza niega medidas cautelares a la Verónica Abad; audiencia por acción de protección será el 27 de noviembre.
+--------------------------------------------------------------------------------------------------------------
+
+![Verónica Abad en una comparecencia en la Asamblea Nacional el pasado 13 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-26-1.jpg)
+
+La jueza **Nubia Vera Cedeño**, de la **Unidad de Familia en Quito**, resolvió negar el pedido de medidas cautelares solicitado por la vicepresidenta **Verónica Abad**.
+
+### Más noticias
+
+* [Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hijo-veronica-abad-autor-supuesto-trafico-influencias.html "Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito")
+* [Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad](https://www.elcomercio.com/actualidad/politica/impulsan-juicio-politico-contra-ministra-de-trabajo-por-suspension-veronica-abad.html "Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad")
+* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
+
+La resolución argumenta que no se comprobó la existencia de una **amenaza inminente** y grave que pudiera violar **derechos constitucionales**, requisito indispensable para aceptar este tipo de peticiones.
+
+En su decisión, la jueza señaló que la **solicitud presentada no cumplía con los parámetros establecidos** en la **Ley de Garantías Jurisdiccionales y Control Constitucional**. Además, convocó a una audiencia para tratar el fondo del recurso planteado, que se realizará el próximo **27 de noviembre a las 09:00** en la **Unidad Judicial ubicada al norte de Quito**.
+
+> La jueza de la Unidad de la Familia de Quito, Nubia Vera Cedeño, negó el pedido de medidas cautelares que hizo la vicepresidenta de la República, Verónica Abad Rojas, y fijó para el 27 de noviembre del 2024, la audiencia para tratar la acción de protección con la que busca evitar…
+> 
+> — Milenium Tvi (@mileniumtvi) [November 15, 2024](https://twitter.com/mileniumtvi/status/1857550915793825977?ref_src=twsrc%5Etfw)
+
+Contexto del caso y sanción impuesta
+------------------------------------
+
+La acción de protección ingresada por **Verónica Abad** busca detener la sanción impuesta por el Ministerio de Trabajo, que la suspende de sus funciones como Vicepresidenta por cinco meses sin remuneración.
+
+La sanción responde a un sumario administrativo iniciado en septiembre, luego de que Abad no cumpliera con el **traslado a Ankara (Turquía)** antes del 1 de septiembre, según lo dispuesto por un viceministro de la Cancillería.
+
+**Verónica Abad viajó a Turquía el 9 de septiembre**, justificando el retraso en entrevistas posteriores. Su traslado fue ordenado por el presidente **Daniel Noboa**, mediante decreto ejecutivo, debido a los conflictos armados en **Medio Oriente**. Este cambio de destino respondía a sus funciones como embajadora de Ecuador en Israel.
+
+Acciones futuras de la Vicepresidenta
+-------------------------------------
+
+Verónica Abad anunció que **regresará al país** en los próximos días, ya que la sanción le impide ejercer sus funciones durante el período de suspensión.
+
+Sin embargo, espera que su acción de protección o la intervención de la **Corte Constitucional (CC)** pueda revertir la medida adoptada.
+
+La Vicepresidenta también presentó una **acción ante la CC** para obtener una interpretación constitucional sobre las atribuciones del presidente de la República en relación con el **ejercicio del cargo de Vicepresidencia**.
+
+Shany Nadan es una estrella multifacética que trasciende fronteras
+==================================================================
+
+Shany Nadan, actriz ecuatoriana, brilla como Manuela Sáenz en Netflix. También impulsa proyectos audiovisuales, moda y talleres de actuación.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Shany Nadan, actriz ecuatoriana, reconocida por su papel en Bolívar de Netflix, inspira con su versatilidad en la actuación, moda y producción.](https://www.elcomercio.com/wp-content/uploads/2024/11/Shany-Nadan-actriz.jpg)
+
+La actriz ecuatoriana **Shany Nadan** es imparable. Reconocida por su papel de **Manuela Sáenz** en la serie [‘Bolívar de Netflix’](https://www.netflix.com/ec/title/80220422), deslumbra con su talento y versatilidad artística.
+
+Más noticias:
+-------------
+
+* [Antonela Roccuzzo sorprende como portada de una icónica revista de moda](https://www.elcomercio.com/deportes/antonela-roccuzzo-sorprende-como-portada-iconica-revista-moda.html "Antonela Roccuzzo sorprende como portada de una icónica revista de moda")
+* [La guapa esposa de John Krasinski, el hombre más sexy del mundo, también es actriz](https://www.elcomercio.com/afull/john-krasinski-sexy-people.html "La guapa esposa de John Krasinski, el hombre más sexy del mundo, también es actriz")
+* [Más diseñadores internacionales se suman al ‘Quito Fashion Week’](https://www.elcomercio.com/tendencias/cintia-mosquera-zunilda-gutierrez-quito-fashion-week.html "Más diseñadores internacionales se suman al ‘Quito Fashion Week’")
+
+Después de consolidarse como actriz en Colombia y Ecuador, **Shany** se mueve entre la actuación, el diseño e, incluso, la producción.
+
+En 2024, desde Guayaquil, colidera a la **productora audiovisual Umami**, mientras explora nuevas facetas creativas como diseñadora a través de su marca de carteras Tinta Melón, elaboradas con materiales locales.
+
+Moda, cine y activismo
+----------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Shamy-683x1024.jpg)
+
+De melena castaña, ojos marrones y sonrisa generosa, Shany desprende naturalidad y elegancia. Sus más de mil publicaciones en Instagram, la muestran auténtica y cercana.
+
+Todo eso más, sus momentos cotidianos y reflexivos enamoran a los más de 200 000 seguidores que tiene en esa plataforma. Una de sus publicaciones destacadas alienta la inclusión de personas con síndrome de Down en el mundo artístico, lo que muestra el compromiso humano y solidario de la actriz.
+
+Nadan fue elegida imagen de **Herencia Latina**, una campaña de alta joyería que apoya la industria del cine y a artistas emergentes.
+
+Formación, enseñanza y teatro
+-----------------------------
+
+Shany no actúa en solitario, también enseña. Como tallerista y profesora de actuación, promueve cursos de marca personal y estrategias de comunicación.
+
+Acostumbrada a papeles más serios, brilló en el desafío de hacer comedia en la obra de teatro ‘Te quiero muñeca’
+
+Un futuro prometedor
+--------------------
+
+Pronto podría regresar al cine con un papel en una coproducción ecuatoriana, italiana y colombiana en un proyecto que ya ha captado la atención de la región.
+
+Se trata de la historia del cacao ecuatoriano y es producida por **Daniela Creamer**, creadora del festival de cine y artes visuales **Guayafest**.
+
+En el proyecto trabajará junto a un elenco internacional que incluye a los actores Ornella Muti y Carlos Torres (**‘La reina del flow 1 y 2’**).
+
+Shany Nadan es una artista que lleva en alto el talento ecuatoriano. Su versatilidad y compromiso con las artes la consolidan como un referente creativo dentro y fuera del país.
+
+(Video) Cristiano Ronaldo anotó un golazo de chilena con Portugal
+=================================================================
+
+Cristiano Ronaldo sigue firme en su objetivo de llegar a los 1000 goles. El portugues logró su anotación 910.
+-------------------------------------------------------------------------------------------------------------
+
+![Cristiano Ronaldo celebrando su gol de chilena con Portugal.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T174556.009.jpg)
+
+**Portugal** no tuvo piedad y goleó 5-1 a Polonia este viernes 15 de noviembre, por la Uefa **Nations League**. El conjunto luso avanzó a los cuartos de final como líder del Grupo A1. La gran figura fue el capitán **Cristiano Ronaldo**, quien deleitó a los espectadores con dos golazos.
+
+Una Polonia sin **Robert Lewandowsk**i partía en teoría como un rival accesible para **Portugal**, pero la pasividad se apoderó de los jugadores del español Roberto Martínez, carentes de creatividad en la primera mitad.
+
+### Más noticias:
+
+* [(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay](https://www.elcomercio.com/deportes/futbol/lionel-messi-recibio-un-botellazo-y-se-enfurecio-en-paraguay.html "(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay")
+* [Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-gol-908-champions-asia.html "Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia")
+* [Cristiano Ronaldo sumó un nuevo fracaso con el Al Nassr](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-sumo-nuevo-fracaso-con-al-nassr-arabia.html "Cristiano Ronaldo sumó un nuevo fracaso con el Al Nassr")
+
+Ante la atonía portuguesa, **Polonia** empezó a poner a prueba al guardameta Diogo Costa, primero con un cabezazo de Bereszynski y después con un disparo de Zalewski.
+
+Y el mayor sobresalto en Do Dragão (Oporto) llegó con un disparo de Krzysztof Piatek, que pasó a escasos milímetros del poste.
+
+En el lado opuesto, un enfadado Cristiano Ronaldo renunciaba a su posición de ataque para ayudar en la construcción ofensiva, pero **solo la velocidad de Rafael Leão permitió desequilibrar**, aunque sin llevar peligro a la meta polaca.
+
+Portugal necesitaba una inyección de energía, así que Martínez recurrió a **Vitinha**, cuya presencia en el centro del campo cambió por completo el juego de Portugal.
+
+Y en el minuto 59, el combinado portugués inauguró el marcador con un gol de Leão. El extremo recibió el balón en su propio campo, se lanzó hacia la portería y dio un pase en profundidad a Nuno Mendes, que luego le devolvió el balón para que el jugador del **AC Milan** hiciese de cabeza el primero.
+
+Cristiano Ronaldo, figura y gol de chilena incluido
+---------------------------------------------------
+
+Portugal siguió presionando y, en el minuto 72, una jugada de ataque conducida por Pedro Neto acabó con **Cristiano Ronaldo** en el punto de penalti, desde donde hizo el 2-0.
+
+> ¡UN ESPECIALISTA EN LA MATERIA! CRISTIANO RONALDO NO FALLÓ Y PUSO EL 2-0 VS. POLONIA.  
+>   
+> 📺 La UEFA [#NationsLeague](https://twitter.com/hashtag/NationsLeague?src=hash&ref_src=twsrc%5Etfw), por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/LqcevyHM7i](https://t.co/LqcevyHM7i)
+> 
+> — SportsCenter (@SC\_ESPN) [November 15, 2024](https://twitter.com/SC_ESPN/status/1857534393918582865?ref_src=twsrc%5Etfw)
+
+Con un pie en los cuartos de la Liga de Naciones, la selección portuguesa no bajó la intensidad y en el minuto 80 Bruno Fernandes marcó el tercero con un potente disparo y en el 83 Neto logró el cuarto a pase de **Cristiano**.
+
+Pero lo mejor estaba por llegar, cuando poco antes del pitido final, Vitinha encontró a Cristiano Ronaldo, que con una **chilena hizo la ‘manita’.**
+
+> ¡¡¡GOLAZO TOTAL DE CRISTIANO RONALDO DE CHILENA PARA EL 5-0 VS. POLONIA!!!  
+>   
+> 📺 La UEFA [#NationsLeague](https://twitter.com/hashtag/NationsLeague?src=hash&ref_src=twsrc%5Etfw), por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/Yy0zkhVZYC](https://t.co/Yy0zkhVZYC)
+> 
+> — SportsCenter (@SC\_ESPN) [November 15, 2024](https://twitter.com/SC_ESPN/status/1857538020569739742?ref_src=twsrc%5Etfw)
+
+El único impedimento para que la segunda parte de **Portugal** fuese perfecta fueron los errores defensivos en el único gol de Polonia, anotado por Marczuk.
+
+El combinado dirigido por Roberto Martínez pasa así a cuartos de final y asegura el liderato del Grupo A1.
+
+El próximo lunes jugará su último partido de la fase de grupos como visitante ante Croacia.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Colombia prohibió el matrimonio infantil
+========================================
+
+Colombia ocupa el puesto 20 a escala mundial en uniones de niñas y adolescentes antes de los 15 años.
+-----------------------------------------------------------------------------------------------------
+
+![Vista de la silueta de una niña, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/nina-colombia-efe.jpg)
+
+El **Senado colombiano** aprobó el miércoles 15 de noviembre de 2024, en último debate un proyecto que **elimina el matrimonio infantil** y las **uniones tempranas**, con lo que se convertirá en ley una vez sea sancionado por el presidente [Gustavo Petro](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html").
+
+### Más noticias
+
+* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
+* [Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días](https://www.elcomercio.com/actualidad/negocios/venta-de-electricidad-de-colombia-a-ecuador-podria-concretarse-en-pocos-dias.html "Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días")
+* [¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?](https://www.elcomercio.com/tendencias/ambiente/como-inciden-los-eventos-climaticos-en-la-sequia-de-ecuador-y-las-inundaciones-en-colombia.html "¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?")
+
+A la iniciativa, que se presentó por novena vez ante el Legislativo y que lleva por título ‘**Son niñas, no esposas**‘. Le resta la conciliación con el texto aprobado en la **Cámara de Representantes** antes de pasar a la sanción presidencial.
+
+Defensa de derechos de las menores de edad
+------------------------------------------
+
+El proyecto de ley, que sienta un precedente en la **defensa de los derechos de las menores de edad** y las mujeres del país, que por años fueron víctimas de esta forma de violencia, fue presentado por las representantes a la **Cámara Alexandra Vásquez** y **Jennifer Pedraza,** con ponencia positiva de la senadora Clara López.
+
+La iniciativa aprobada **“elimina del Código Civil el permiso de que niños y niñas mayores de 14 años se puedan casar con el consentimiento de los padres”**, señaló Vásquez, de la coalición oficialista Pacto Histórico.
+
+Enfoque preventivo
+------------------
+
+La congresista destacó además que “tiene un **enfoque preventivo y pedagógico** con la creación del programa nacional de atención integral a proyectos de vida para niños, niñas y adolescentes” mediante el establecimiento de **“políticas públicas** pensando en sus proyectos de vida”.
+
+Son niñas no esposas
+--------------------
+
+“Celebro el apoyo del Senado al proyecto **‘Son niñas, no esposas’,** esta ley es crucial para proteger los derechos de niñas y adolescentes, garantizar su bienestar y promover su pleno desarrollo”, concluyó Vásquez.
+
+Lista negra
+-----------
+
+Por su parte, la senadora López, también del **Pacto Histórico,** agradeció a la plenaria del Senado “una discusión tan rica, que hayamos terminado con una aprobación por aclamación”.
+
+“Colombia sale de la vergonzosa lista de países que **permiten el matrimonio infantil**. Aprobada la **prohibición del matrimonio infantil** y las uniones tempranas”, celebró en la red social X la representante Jennifer Pedraza, del partido Dignidad y Compromiso.
+
+El país ocupa el puesto 20 a escala mundial en **uniones de niñas y adolescentes** antes de los 15 años, según un informe de Unicef de 2022.
+
+Igualmente está en el lugar 11 a nivel mundial en **uniones de niñas y adolescentes** antes de los 18 años, de acuerdo con el citado informe de Unicef, titulado ‘Análisis de **situación de los matrimonios infantiles** y las uniones tempranas en Colombia’.
+
+Realidad de las niñas indígenas
+-------------------------------
+
+El caso de las niñas indígenas es el más preocupante porque alrededor de un tercio de ellas son casadas **antes de cumplir la mayoría de edad** con hombres que duplican o triplican su edad. Esto deriva en graves consecuencias, como la **violencia sexual, embarazos tempranos y deserción escolar.**
+
+En la actualidad, a pesar de que Colombia firmó y ratificó **instrumentos jurídicos internacionales** que prohíben el matrimonio infantil, como la **Convención Interamericana para Prevenir, Sancionar y Erradicar** la Violencia contra la Mujer, el Código Civil permite que adolescentes desde los 14 años se puedan casar si sus padres o **tutores legales lo consienten.** 
+
+Llegaron los borradores de WhatsApp, nueva función útil 
+========================================================
+
+WhatsApp lanza la función de borradores para gestionar mensajes pendientes.
+---------------------------------------------------------------------------
+
+![Guarda mensajes no enviados con la función borrador de WhatsApp. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-borradores.jpg)
+
+**WhatsApp ha introducido una nueva función** que promete cambiar la manera en que los usuarios **gestionan sus conversaciones**. La llegada de los **borradores** permite a los usuarios **guardar mensajes no enviados**, lo que facilita la organización y el seguimiento de las respuestas pendientes. Esta característica, muy esperada por muchos, se alinea con las necesidades actuales de **comunicación rápida y efectiva** en la plataforma de mensajería más popular del mundo. 
+
+### Más noticias
+
+* [WhatsApp y Google permitirán la verificación de imágenes falsas en las conversaciones](https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html "https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html")
+* [La lupa escondida de WhatsApp trae novedades relacionadas con la seguridad](https://www.elcomercio.com/tecnologia/whatsapp-lupa-enlaces-seguridad.html "https://www.elcomercio.com/tecnologia/whatsapp-lupa-enlaces-seguridad.html") 
+
+**¿Qué son los borradores en WhatsApp?** 
+-----------------------------------------
+
+La **función de borradores en WhatsApp** permite a los usuarios **guardar mensajes que no han sido enviados**. Cuando un usuario comienza a redactar un mensaje y **decide no enviarlo, este se guarda automáticamente como un borrador**. Los mensajes guardados aparecerán en la **parte superior de la lista de chats**, marcados con una **etiqueta verde que indica “Borrador”**. Esto asegura que los usuarios **no olviden responder a mensajes importantes o completar conversaciones iniciadas**. 
+
+**Cómo funciona la nueva actualización** 
+-----------------------------------------
+
+Al **escribir un mensaje en un chat individual o grupal**, si el usuario no lo envía, **WhatsApp lo guardará automáticamente**. Esto significa que cada vez que el usuario regrese a la aplicación, **podrá ver todos sus mensajes pendientes en un lugar destacado**. Esta funcionalidad es especialmente útil para aquellos que **suelen redactar respuestas largas** o que necesitan tiempo para pensar en su respuesta antes de enviarla, de acuerdo con [La Vanguardia](https://www.lavanguardia.com/andro4all/whatsapp/los-borradores-llegan-a-whatsapp-ya-puedes-usar-la-nueva-funcion-para-no-olvidarte-de-responder-mensajes "https://www.lavanguardia.com/andro4all/whatsapp/los-borradores-llegan-a-whatsapp-ya-puedes-usar-la-nueva-funcion-para-no-olvidarte-de-responder-mensajes").  
+
+**Beneficios de utilizar borradores** 
+--------------------------------------
+
+**Organización:** Los borradores **permiten a los usuarios mantener sus conversaciones organizadas**. Pueden ver rápidamente qué mensajes necesitan ser enviados. 
+
+**Eficiencia:** Facilita la **redacción de mensajes largos en varias sesiones**. Los usuarios pueden volver y añadir más contenido al borrador **sin perder lo que ya han escrito**. 
+
+**Recordatorios visuales:** La etiqueta “Borrador” sirve como un **recordatorio visual** para no olvidar responder a ciertos mensajes importantes. 
+
+**Comparativa con otras aplicaciones** 
+---------------------------------------
+
+La llegada de esta función coloca a WhatsApp en una **posición competitiva frente a otras aplicaciones de mensajería como Telegram**, que ya ofrecía esta opción anteriormente. Aunque **WhatsApp ha sido criticado por copiar funciones de su competencia**, la implementación efectiva de los borradores puede mejorar significativamente la experiencia del usuario en su plataforma, siguiendo con La Vanguardia.  
+
+**Cómo acceder a los borradores** 
+----------------------------------
+
+Para **utilizar esta nueva función**, los usuarios deben asegurarse de **tener la última versión de WhatsApp instalada en su dispositivo**. Una vez actualizada, podrán **comenzar a escribir mensajes y ver cómo se guardan automáticamente como borradores** si deciden no enviarlos. Esta actualización está disponible para todos los usuarios y **no requiere configuraciones complicadas.** 
+
+Leonardo Campana desafectado de la Selección de Ecuador
+=======================================================
+
+La Selección de Ecuador contará con Moisés Caicedo para enfrentar a Colombia en Barranquilla.
+---------------------------------------------------------------------------------------------
+
+![Leonardo Campana, jugador de la Selección de Ecuador en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/11/campana_adios_1.jpg)
+
+La Selección de Ecuador se quedó oficialmente sin dos de sus 26 convocados **para enfrentar a Colombia el martes 19 de noviembre de 2024**, desde las 18:00, en el marco de la duodécima fecha de las eliminatorias sudamericanas al Mundial 2026.
+
+El partido entre la **Selección de Ecuador y la de Colombia** se jugará en el estadio Metropolitano de Barranquilla. Está proyectado un clima de 32°C y una humedad que llegará al 78%, por lo que se espera una jornada bastante calurosa.
+
+### Más noticias:
+
+* [Enner Valencia anotó su gol 43 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 43 con la Selección de Ecuador")
+* [Policía captura a presunto distribuidor de Magis TV en Ecuador](https://www.elcomercio.com/actualidad/ecuador/policia-distribuidor-magis-ecuador-detencion.html "Policía captura a presunto distribuidor de Magis TV en Ecuador")
+* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html "La Selección de Ecuador brilla en Guayaquil y golea a Bolivia")
+
+Ecuador se presenta a este compromiso con 16 puntos y un gol diferencia positivo de +6. Con este puntaje **se mantiene firme en la quinta posición en la tabla de posiciones** y abonó sus chances de clasificar directamente a la siguiente Copa del Mundo.
+
+Colombia es la segunda mejor selección de la Conmebol con 19 puntos, solo superada por la **campeona del mundo y bicampeona de la Copa América**, Argentina, que tiene 22 y sigue a paso firme su trayecto a defender la corona mundial.
+
+Los colombianos aún deben jugar su partido pendiente de la jornada 11. Visitarán a Uruguay en el **Centenario de Montevideo con la posibilidad cierta de alcanzar en puntaje a los argentinos**, pero no le servirá para ser primer por los nueve goles del gol diferencia.
+
+Campana y Preciado no jugará contra Colombia
+--------------------------------------------
+
+La tarde de este viernes 15 de noviembre, la Tri publicó un comunicado oficial en sus redes sociales.
+
+“La Federación Ecuatoriana de Fútbol (FEF) informa que los jugadores **Angelo Preciado y Leonardo Campana han quedado desafectados** de la convocatoria”, con los que Sebastián Beccacece se queda sin dos de sus 26 convocados.
+
+Preciado sufre de “un trastorno interno de rodilla que requiere intervención quirúrgica”, se detalló.
+
+Sobre Campana, apuntaron que “**presenta una lesión fibrilar por lo que regresará al Inter Miam**i”.
+
+Ángel Mena también quedó al margen de la lista de viaja a Barranquilla, pero no por una lesión o suspensión, sino por haber jugado ante Bolivia los últimos minutos como jugador de la Selección de Ecuador.
+
+La buena noticia es que **Moisés Caicedo está a disposición de Baccacece**. El mediocampista del Chelsea no fue tomado en cuenta para jugar ante ‘La Verde’, porque estaba suspendido por acumulación de tarjetas amarillas.
+
+No se dio a conocer si se convocará a otos jugadores para reemplazarlos.
+
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/campana_adios_2-1024x683.jpg)
+
+Foto: API.
+
+San viernes
+-----------
+
+Celeste Caeiro falleció, la mujer que dio nombre a la revolución en Portugal
+============================================================================
+
+La muerte de Caeiro se produce cuando este año se cumplió, el 25 de abril, el 50 aniversario de la Revolución de los Claveles.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Celeste Caeiro en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/celeste-captura.jpg)
+
+[Celeste Caeiro](https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html "https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html"), la mujer que con sus claveles dio nombre a la **revolución en Portugal**, falleció este viernes a los 91 años, confirmó su nieta Carol en sus redes sociales.
+
+### Más noticias
+
+* [Presidentes del mundo se citaron en cuatro cumbres en América Latina](https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html "Presidentes del mundo se citaron en cuatro cumbres en América Latina")
+* [Mueren 3 bomberos en el combate contra incendios en Portugal y son ya 7 los fallecidos](https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html "https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html")
+* [Portugal lanzará una moneda en honor a Cristiano Ronaldo](https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html "https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html") 
+
+La muerte de Caeiro se produce cuando este año se cumplió, el 25 de abril, el **50 aniversario de la Revolución de los Claveles,** que puso fin a la dictadura.
+
+De madre española, esta mujer trabajaba en el **ropero de un restaurante** en el centro de Lisboa, el Sifire, cuando se produjo el levantamiento.
+
+Como ella misma explicó en una entrevista en 2014, los dueños del restaurante querían hacer una fiesta aquel 25 de abril de 1974 para celebrar el **primer aniversario del establecimiento** y compraron flores.
+
+Ese día cuando llegó al trabajo, se encontró con la **puerta cerrada** y el gerente les dijo a ella y al resto de empleados que no iban a abrir porque se estaba produciendo una revolución y que **se llevaran las flores** para que no se echasen a perder.
+
+Contra el consejo de sus jefes, Caeiro decidió **no irse directamente a casa** y enterarse de qué ocurría, no sin antes tomar bajo el brazo varios **claveles rojos y blancos.**
+
+Se fue en metro hasta la **plaza del Rossio de Lisboa**, justo al inicio del Largo do Carmo, donde los tanques de los sublevados aguardaban **nuevas órdenes** en una **tensa espera** desde la madrugada.
+
+“Miré para ellos y le dije a un soldado: **¿Qué es esto, qué están haciendo aquí?** ‘Vamos para el Cuartel del Carmo, donde está Marcello Caetano, el presidente (heredero del régimen de Salazar)”, le respondieron, según la narración que Caeiro hizo.
+
+Eran cerca de las 09:00 y el soldado, que ya llevaba unas horas de guardia, pidió a la mujer un cigarrillo. Como ella no fumaba, pero se sentía mal por no poder ayudar al militar, **le ofreció uno de los claveles** que llevaba consigo.
+
+**“Cogí un clavel, el primero fue rojo, y él lo aceptó.** Como soy así tan pequeñita y él estaba encima del tanque, tuvo que estirar el brazo, agarró el clavel y lo colocó en su fusil”, contó ella misma.
+
+Inmediatamente, el resto de soldados imitaron a su compañero y pidieron a la mujer uno de esos **claveles, rojos y blancos**, que llevaba bajo el brazo, hasta repartirlos todos.
+
+Ella, militante del **Partido Comunista**, no se esperaba que con ese simple gesto iba a pasar a los libros de Historia. Y es que horas más tarde de ese episodio, **varias floristas** se afanaban en que a nadie le faltase un clavel, contribuyendo a convertirlos en un **icono de libertad**.
+
+Su acto dio nombre a una revolución que se recuerda por la **ausencia de derramamiento de sangre**. 
+
+III Festival La Zarigüeya rinde tributo a la sopa, el plato nuestro de cada día
+===============================================================================
+
+Este sábado 16 de noviembre, desde las 12:00, en el Patio del Arupo (Veracruz y América), se realiza el III festival de sopas, que dos jóvenes llevan adelante.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La sopa es el plato que más nos remite a la familia, a la buena memoria y al compartir en familia.](https://www.elcomercio.com/wp-content/uploads/2024/11/zarigueya.jpg)
+
+En algún lugar debería estar escrito que la **sopa** no es solamente patrimonio nacional, sino también un **producto de vitalísima necesidad** en los **almuerzos** de todos los ecuatorianos. Por eso, quizá nada mejor que encontrarse que hay un **festival** que rinde **tributo a la sopa**, en **Quito**. Y eso ofrece **La Zarigüeya** este sábado 16 de noviembre del 2024.
+
+### Más noticias
+
+* [Cafetería Modelo, 74 años de tradición en la gastronomía de Quito](https://www.elcomercio.com/tendencias/gastronomia/cafeteria-modelo-74-anos-tradicion-gastronomia-quito.html "Cafetería Modelo, 74 años de tradición en la gastronomía de Quito")
+* [CATS, la buena comida de un restaurante clásico de Quito](https://www.elcomercio.com/videos/sabores-video/cats-restaurante-buena-comida-buen-ambiente.html "CATS, la buena comida de un restaurante clásico de Quito")
+* [Hoy celebramos la pasta, un alimento cargado de historia y tradición culinaria](https://www.elcomercio.com/tendencias/gastronomia/dia-mundial-pasta-alimento-historia.html "Hoy celebramos la pasta, un alimento cargado de historia y tradición culinaria ")
+
+La sopa, el plato nuestro de cada día
+-------------------------------------
+
+Hay una **relación especial** de los ecuatorianos con la **sopa**. No importa si hace frío o calor, siempre es necesario tener una **sopa** o un **caldo**. Además, **no hay almuerzo si no hay sopa.**
+
+Sin embargo, cada vez **se hace menos sopa en las casas** de los ecuatorianos. Es que no hay tiempo, al menos en las ciudades grandes. Si toda la familia trabaja y no se tiene a nadie que esté a cargo de las labores domésticas, es poco probable que la sopa sigua siendo **el plato nuestro de cada día.**
+
+Aunque la sopa es sencilla de hacer, también es **celosa**. Demanda tiempo. Y quizá en estos tiempos de vorágine y en que todos deben trabajar, no hay tiempo. Por eso, los ‘**almorzaderos**‘ son tan importantes en Quito, porque nos ofrecen la sopa.
+
+El segundo bien puede ser un ‘Chimborazo de arroz’ con una lámina de carne con alguna ensalada. Pero lo importante siempre será la sopa.
+
+El festival de La Zarigüeya
+---------------------------
+
+**Camila Rodríguez** y **Emilia Echeverría** son dos jóvenes que se lanzaron a hacer un festival de sopas. Fue algo hecho a puro pulmón y **sin auspicios de empresa o institución**. Fue, más bien, algo que brotó de una reunión entre las dos familias.
+
+En la casa de Emilia habían hecho para el almuerzo, un **caldo de patas.** Sin embargo, Emilia es de aquellas que piden el caldo de patas sin patas, porque el sabor del caldo es bueno, pero la textura gelatinosa de la pata no le agrada. Así que ese mismo día, ella hizo un **aguado de pollo**.
+
+Cuando llegó **Camila** con su familia, les ofrecieron las dos opciones. Entonces, **la conversación giró en torno a las sopas. Y de inmediato, saltó la idea de organizar un festival.**
+
+El origen del nombre
+--------------------
+
+Llama la atención que el festival se llame **La Zarigüeya**. Según Rodríguez, hay dos razones para llamarlo así.
+
+La primera es **dejar que la gente les compare con ratas** y que las ame porque son ecológicamente importantes. La segunda es porque la zarigüeya, en la **mitología mexicana,** es importante porque **robó el fuego de los dioses** para dárselo a los humanos, por lo que **quemó su cola[.](https://es.wikipedia.org/wiki/Didelphis "https://es.wikipedia.org/wiki/Didelphis")**
+
+Son 11 tipos de sopa
+--------------------
+
+Entre **Camila** y **Emilia** preparan las sopas. Las **madres** o las tías **ayudan** con una o dos. Las demás las preparan solamente ellas. Y, jóvenes con un compromiso ambiental. Así que los productos tienen mayormente un origen conocido, conocen las manos que las cosecharon o elaboraron.
+
+**Este sábado 16 de noviembre del 2024** se realizará la III edición del Festival de sopas La Zarigüeya. Las dos primera fueron una sensación. Las sopas se acabaron antes del tiempo previsto y había aún una larga fila esperando.
+
+Son 11 tipos de sopas las que estarán disponibles en esta edición, entre ellas, el caldo de patas, de bolas de maíz, de cebolla, ají de carne, de morocho, entre otras.
+
+**El festival comienza a las 12:00** y **termina a las 16:00** (o hasta agotar stock). El encuentro será en el **Patio del Arupo, en la calle Veracruz y avda. América.**
+
+Cómo ver Netflix sin conexión a Internet (‘offline’) 
+=====================================================
+
+Es muy fácil ver Netflix sin conexión a Internet y disfrutar de tus series y películas favoritas en cualquier lugar.
+--------------------------------------------------------------------------------------------------------------------
+
+![Se puede disfrutar del contenido de Netflix sin conexión con descargas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Netflix-sin-conexion.jpg)
+
+Cuando el **acceso a Internet** no está garantizado, **Netflix** pone a disposición una función que permite **disfrutar de su contenido favorito sin conexión**. A continuación, se detallan los pasos necesarios para **descargar y ver contenido de Netflix sin necesidad de estar conectado a la red**. 
+
+### Más noticias
+
+* [¿Qué tan fiel es la película de ‘Pedro Páramo’ en Netflix al libro de Juan Rulfo?](https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html "https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html")
+* [La batalla final de ‘Cobra Kai’ se desata esta semana en Netflix](https://www.elcomercio.com/tendencias/trending/cobra-kai-netflix-serie-estreno.html "https://www.elcomercio.com/tendencias/trending/cobra-kai-netflix-serie-estreno.html") 
+
+**Requisitos para descargar contenido de Netflix** 
+---------------------------------------------------
+
+Para utilizar **Netflix en modo ‘offline’**, es necesario cumplir con ciertos requisitos, según la [información oficial del servicio de ‘streaming’](https://help.netflix.com/es/node/54816 "https://help.netflix.com/es/node/54816"): 
+
+* **Dispositivos compatibles**: La función de descarga está disponible en teléfonos y tabletas con **Android, iPhones, iPads, computadoras con Windows 10/11 y tablets Amazon Fire**. 
+
+* **Aplicación actualizada**: Contar con la última versión de la aplicación de Netflix instalada en el dispositivo. Esto asegura el acceso a todas las funciones disponibles. 
+
+**Cómo descargar series y películas** 
+--------------------------------------
+
+**Paso 1: Acceder a la aplicación** 
+
+Abrir la aplicación de **Netflix** en el dispositivo. Si no está instalada, debe descargarse desde la tienda correspondiente (**Google Play Store o App Store**). 
+
+**Paso 2: Buscar contenido descargable** 
+
+Buscar el título que se desea descargar. **No todos los títulos están disponibles** para descarga. Para comprobarlo, es necesario localizar el **ícono de descarga** (una flecha hacia abajo) debajo del título. También se puede filtrar el contenido seleccionando “Disponibles para descargar” en el menú. 
+
+**Paso 3: Iniciar la descarga** 
+
+* Para descargar una película o serie: tocar el ícono de descarga junto al título. 
+
+* En el caso de las series, seleccionar el episodio que se desea descargar y luego tocar el ícono correspondiente. 
+
+**Paso 4: Verificar el progreso** 
+
+El progreso de la descarga puede revisarse en la **sección “Mis descargas”**. Al completarse, se recibe una notificación en el dispositivo. 
+
+**Cómo ver Netflix sin conexión** 
+----------------------------------
+
+Una vez descargados los títulos deseados, se pueden seguir estos pasos para visualizarlos sin conexión: 
+
+**Opción 1: Desde “Mis descargas”** 
+
+Acceder a la sección **“Mis descargas” en la aplicación**. Allí se encuentra todo el contenido descargado. Seleccionar el título que se desea ver y tocar “Reproducir” para disfrutarlo. 
+
+**Opción 2: Usar “Modo avión”** 
+
+**Activar el “Modo avión”** en el dispositivo antes de abrir Netflix para evitar interrupciones por notificaciones o conexiones indeseadas. Esto permite acceder al contenido descargado sin conexión. 
+
+**Limitaciones y consideraciones** 
+-----------------------------------
+
+Al **usar la función ‘offline’ de Netflix**, se deben tener en cuenta ciertas limitaciones, según [MovPilot](https://movpilot.com/es/blog/watch-netflix-offline/ "https://movpilot.com/es/blog/watch-netflix-offline/"): 
+
+* **Caducidad del contenido**: Las descargas tienen un período de validez que varía entre 48 horas y 30 días desde la primera visualización. Si no se reproduce el título dentro del tiempo establecido, será necesario volver a descargarlo. 
+
+* **Número máximo de descargas**: Se permite un **máximo de 100 descargas** activas por dispositivo, aplicable a todos los dispositivos incluidos en el plan de Netflix. 
+
+**Ver Netflix en TV sin Internet** 
+-----------------------------------
+
+Para disfrutar de las series y películas descargadas en una pantalla más grande, se pueden utilizar las siguientes opciones, a decir de [Lowi](https://www.lowi.es/blog/como-ver-netflix-sin-internet-en-tv/ "https://www.lowi.es/blog/como-ver-netflix-sin-internet-en-tv/"): 
+
+* **Conexión por cable HDMI**: Conectar un portátil o dispositivo móvil a la televisión mediante un **cable HDMI**. Es importante haber descargado previamente el contenido en el dispositivo. 
+
+* **Smart TV**: Verificar si la **Smart TV** permite la instalación directa de la aplicación de Netflix. Esto posibilita la descarga de episodios desde la televisión para verlos sin conexión. 
+
+* **Dispositivos de ‘streaming’**: Utilizar dispositivos como **Chromecast o Fire Stick** para transmitir contenido desde el dispositivo móvil a la televisión. Es indispensable que los títulos estén descargados previamente en el dispositivo móvil. 
+
+Marchas se desarrollan en Quito este 15 de noviembre
+====================================================
+
+Movilizaciones en Quito se realizan la tarde de este viernes.
+-------------------------------------------------------------
+
+![Este viernes, 15 de noviembre, se desarrolla marcha en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/marcha-2.jpg)
+
+La tarde de este viernes, 15 de noviembre de 2024, **Quito** es el escenario de marchas de organizaciones sociales.
+
+**Cortes de luz**, inseguridad, educación y empleo están entre los temas que motivan a los participantes de las movilizaciones.
+
+### Más noticias
+
+* [FUT y otras organizaciones sociales anuncian movilización nacional](https://www.elcomercio.com/actualidad/ecuador/fut-sindicatos-movilizacion-nacional-noviembre.html "FUT y otras organizaciones sociales anuncian movilización nacional")
+* [Grupos sociales protestan en Ecuador este 15 de noviembre](https://www.elcomercio.com/actualidad/politica/grupos-sociales-anuncian-movilizaciones-ecuador-15-de-noviembre.html "Grupos sociales protestan en Ecuador este 15 de noviembre")
+* [Organizaciones sociales marcharon en Quito por la crisis energética](https://www.elcomercio.com/actualidad/ecuador/organizaciones-sociales-marchan-en-quito-por-la-crisis-energetica.html "Organizaciones sociales marcharon en Quito por la crisis energética")
+
+Marchas en Quito desde dos puntos
+---------------------------------
+
+Las inmediaciones de la **Universidad Central** fueron el punto de encuentro para la marcha de estudiantes. La convocatoria se desarrolló desde las 15:00.
+
+Los manifestantes avanzaron por la av. Pérez Guerrero, con dirección a la Caja del **Instituto Ecuatoriano de Seguridad Social (IESS)**, en la av. 10 de Agosto.
+
+El segundo punto fue el sitio de la convocatoria de organizaciones como el **Frente Unitario de Trabajadores (FUT)**, Frente Popular, entre otras. En este caso, el llamado fue para las 16:00.
+
+Desde la Caja del **IESS**, estaba previsto que la marcha avance hacia el **Centro Histórico de Quito**, donde desde la mañana ya se colocaron vallas de seguridad y se restringió el acceso a la Plaza Grande.
+
+Alrededor de las 17:10, personas que avanzaron hacia el Centro de Quito intentaron retirar vallas colocadas a la altura de las calles **Chile y Guayaquil**.
+
+Los motivos
+-----------
+
+Nelson Erazo, presidente del Frente Popular, informó que la convocatoria a la **Caja del Seguro** se realizó desde el FUT, Frente Popular, trabajadores y afiliados del **Seguro Social Campesino**.
+
+El directivo, además, indicó que hay una convocatoria definida para el 21 de noviembre de 2024. Según dijo, no se trata de un **paro nacional**, sino de movilizaciones que se desarrollarán a escala nacional.
+
+Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro
+==================================================================================
+
+El Inamhi detalló cómo estará el clima entre este viernes 15 y el domingo 17 de noviembre en las cercanías a las hidroeléctricas australes.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Central hidroeléctrica Paute - Molino, ubicada entre Cañar y Azuay](https://www.elcomercio.com/wp-content/uploads/2024/11/central-paute-lluvias.jpg)
+
+El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) informó las condiciones del clima para el **Austro**, este viernes 15 de noviembre de 2024.
+
+### Más noticias
+
+* [Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios](https://www.elcomercio.com/actualidad/ecuador/alcalde-de-cuenca-declara-emergencia-como-un-grito-desesperado-ante-incendios.html "Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios")
+* [Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/fuertes-lluvias-coca-codo-sinclair.html "Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair")
+* [Alcalde de Cuenca planteó alzar diques de las lagunas de El Cajas para las sequías](https://www.elcomercio.com/actualidad/politica/alcalde-cuenca-plantea-alzar-diques-lagunas-cajas.html "Alcalde de Cuenca planteó alzar diques de las lagunas de El Cajas para las sequías")
+
+Según detalló la entidad, en la Sierra Sur, sector donde se ubica algunas de las **centrales hidroeléctricas** más importantes del Ecuador, entre ellas: **Mazar, Paute – Molino y Sopladora**, no se tiene prevista la presencia de precipitaciones considerables.
+
+La **crisis energética** que enfrenta Ecuador depende en gran parte de la caída de lluvias en las zonas donde se ubican las **centrales hidroeléctricas**. De mantenerse estas condiciones climáticas, los cortes de luz extendidos de 12 horas continuarán en el país[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
+
+Altas temperaturas favorecen la propagación de incendios forestales
+-------------------------------------------------------------------
+
+En la Advertencia 60 del Inamhi se observa **poca nubosidad** en las provincias de **Cañar, Azuay y Loja**, lo que favorece la propagación de **incendios forestales**.
+
+> INAMHI // Pronóstico para la zona sur del país: [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw), [#Cañar](https://twitter.com/hashtag/Ca%C3%B1ar?src=hash&ref_src=twsrc%5Etfw), [#Azuay](https://twitter.com/hashtag/Azuay?src=hash&ref_src=twsrc%5Etfw), [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw), [#ZamoraChinchipe](https://twitter.com/hashtag/ZamoraChinchipe?src=hash&ref_src=twsrc%5Etfw), correspondiente al viernes 15 y la madrugada de sábado 16 de noviembre 2024. Toma precauciones. [pic.twitter.com/LR27w86X79](https://t.co/LR27w86X79)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 15, 2024](https://twitter.com/inamhi_ec/status/1857455901201863141?ref_src=twsrc%5Etfw)
+
+Justamente, en esta región se registran al menos **10 emergencias** de este tipo que, en algunos casos, no han podido ser controladas desde el sábado 9 de noviembre.
+
+Los **voraces incendios forestales** en el Austro llevó a que el alcalde de Cuenca, **Cristian Zamora**, declarara la emergencia.
+
+Previsiones del clima para la Sierra Sur
+----------------------------------------
+
+El Inamhi alertó de **altas temperaturas diurnas** en el Austro lo que dificultaría la presencia de **precipitaciones** en este sector.
+
+Entre el viernes 15 y la madrugada del sábado 16 de noviembre, las **previsiones del clima** para el sur de la región **Interandina** son:
+
+* **Cañar:** temperatura mínima de 9° C y máxima de 18° C
+* **Azuay:** temperatura mínima de 5° C y máxima de 25° C
+* **Loja:** temperatura mínima de 7° C y máxima de 25° C
+
+> [#MonitoreoSatelital](https://twitter.com/hashtag/MonitoreoSatelital?src=hash&ref_src=twsrc%5Etfw) 🛰️l Viernes, 15 de noviembre (12h30): Se observa poca nubosidad en la región Interandina en especial al sur de la región, condiciones favorables para la propagación de incendios forestales🔥🌡🥵  
+> ⚠️Advertencia N°60 por aumento de temperatura [pic.twitter.com/xNEXnncUjb](https://t.co/xNEXnncUjb)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 15, 2024](https://twitter.com/inamhi_ec/status/1857505860374679724?ref_src=twsrc%5Etfw)
+
+En la predicción del clima difundida hasta las 18:00 del domingo 17 de noviembre tampoco se esperan precipitaciones de niveles **medio, alto y muy alto** en el Austro, pero sí en la **Amazonía**.
+
+Las provincias donde se prevé que lloverá con fuerza este fin de semana son: **Sucumbíos, Orellana, Napo, Pastaza y Morona Santiago**.
+
+Sin embargo, en Imbabura, Pichincha, Cotopaxi, Tungurahua, Bolívar, Cañar y Azuay, en la Sierra, las precipitaciones esperadas no serán de consideración.
+
+EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp
+============================================================
+
+La mejor manera de no perderte los partidos de la Selección de Ecuador, incluso sin luz, es con EL COMERCIO
+-----------------------------------------------------------------------------------------------------------
+
+![Jugadores de la Selección de Ecuador en un partido de las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T160909.152.jpg)
+
+La **Selección de Ecuador** logró un triunfo clave para mantener viva la esperanza de clasificar a su quinto Mundial. Su próximo reto será enfrentar a Colombia, y si no puedes seguir el partido debido a interrupciones eléctricas, **EL COMERCIO** tiene la solución para ti.
+
+Con una **propuesta única** para disfrutar los encuentros de la ‘Tri’ con la misma intensidad, **EL COMERCIO** te acerca a la acción a través de su página web y su canal exclusivo en WhatsApp.
+
+Más noticias:
+-------------
+
+* [La Selección de Ecuador convocó 30 758 hinchas al Monumental](https://www.elcomercio.com/deportes/futbol/estadio-monumental-asistencia-bolivia-eliminatorias.html "La Selección de Ecuador convocó 30 758 hinchas al Monumental")
+* [El emotivo video para despedir a Ángel Mena de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-video-despedida-ecuador.html "El emotivo video para despedir a Ángel Mena de la Selección de Ecuador")
+* [Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-figura-ecuador-bolivia.html "Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia")
+
+¿Cómo seguir el partido de Ecuador sin luz?
+-------------------------------------------
+
+Si deseas mantenerte al tanto de los partidos y recibir actualizaciones en tiempo real de la **Selección** **de** **Ecuador**, solo necesitas suscribirte a nuestro canal de noticias en **WhatsApp** haciendo [clic aquí](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a).
+
+Allí encontrarás:
+
+* Información en vivo de los partidos.
+* Material gráfico y de video.
+* Informes sonoros directamente desde el Estadio Rodrigo Paz Delgado.
+
+Además, puedes seguir nuestras redes sociales oficiales en Facebook, Twitter e [Instagram](https://www.instagram.com/benditofutbol/?hl=es "https://www.instagram.com/benditofutbol/?hl=es") para no perderte detalles de la cobertura, con transmisiones en vivo y publicaciones constantes.
+
+La Selección de Ecuador, más cerca del Mundial
+----------------------------------------------
+
+Ecuador disputará su duodécimo partido de las eliminatorias rumbo a 2026 ante Colombia. En este duelo, **Sebastián Beccacece**, en su sexto encuentro al mando de la ‘Tri’, buscará su tercera victoria frente a una de las selecciones más fuertes del continente.
+
+El entrenador argentino **mantiene un saldo positivo** desde su llegada a la Selección, con cinco partidos disputados: dos victorias, dos empates y solo una derrota (1-0 en su visita a Brasil).
+
+Además, su equipo ha anotado cinco goles y recibido solo uno, consolidando a la Selección de Ecuador como la **mejor defensa de las eliminatorias sudamericanas**.
+
+La ‘Tri’ llega al encuentro ocupando la quinta posición, con 16 puntos en 11 partidos (5 victorias, 4 empates y 2 derrotas). Es importante recordar que, al inicio del torneo, Ecuador comenzó con una sanción de tres puntos menos debido al caso Byron Castillo.
+
+Detalles del partido
+--------------------
+
+**Partido:** Colombia vs. Ecuador
+
+**Fecha:** Martes 19 de noviembre de 2024
+
+**Hora:** 18:00 (hora de Ecuador)
+
+**Estadio:** Metropolitano Roberto Meléndez
+
+No te pierdas ni un instante de la emoción. **EL COMERCIO** te conecta con la pasión de la ‘Tri’.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Los Latin Grammy fueron testigos de un reencuentro histórico entre dos ‘enemigos’
+=================================================================================
+
+Los Latin Grammy desataron emociones en la edición 25.
+------------------------------------------------------
+
+![La India emocionó al público con su interpretación. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-15T155941.181.jpg)
+
+La gala de los **Latin Grammy 2024** -celebrada el 14 de noviembre en **Miami**– se convirtió en un escenario de reencuentro histórico entre dos grandes de la música.
+
+### **Más noticias:**
+
+* [Premios Latin Grammy 2024: cuándo y dónde ver la edición 25 desde Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html "https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html")
+* [Latin Grammy 2024: esta es la lista completa de los ganadores](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-ganadores-2024-premios.html "https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-ganadores-2024-premios.html")
+* [Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-carlos-vives-persona-ano-2024.html "https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-carlos-vives-persona-ano-2024.html")
+
+**Los felices ganadores de los Latin Grammy**
+---------------------------------------------
+
+La antesala de los **Latin Grammy 2024** dejó una huella memorable con las victorias de Edgar Barrera y Nathy Peluso, quienes se llevaron tres premios cada uno.
+
+La premiere, que entregó la mayoría de los galardones antes de la esperada gala televisada, reconoció a los artistas en diversas categorías.
+
+Barrera fue el primero en subir al escenario para recibir su primer galardón como Compositor del Año, un reconocimiento que también obtuvo en 2023.
+
+El mexicano, además, se coronó como **Productor del Año** y ganó el premio a **Mejor Canción Regional Mexicana** por su colaboración con Keytin en la composición de El amor de su vida de Grupo Frontera y Grupo Firme.
+
+Nathy Peluso también se mostró visiblemente emocionada al recibir tres gramófonos dorados: Mejor Video Largo por ‘Grasa’, Mejor Canción Alternativa por El día que perdí mi juventud y Mejor Canción de Rap/Hip Hop por Aprender a amar.
+
+**Juan Luis Guerra brilló en los Latin Grammy**
+-----------------------------------------------
+
+El intérprete dominicano Juan Luis Guerra se llevó el jueves el premio **Álbum del año**, máximo reconocimiento de los **Latin Grammy,** por su producción ‘Radio Güira’.
+
+El trabajo discográfico, estrenado a finales de 2023, también recibió el gramófono en la categoría Mejor álbum de merengue/bachata.
+
+> [View this post on Instagram](https://www.instagram.com/p/DCYeC6eudsU/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCYeC6eudsU/?utm_source=ig_embed&utm_campaign=loading)
+
+Con el sencillo Mambo 23, Juan Luis Guerra ganó, además, en las categorías Grabación del año y Mejor canción tropical.
+
+Karol G triunfó en la categoría Mejor álbum de música urbana. Jorge Drexler se destacó en Mejor canción cantautor y Mejor canción del año.
+
+Carín León se impuso en Mejor álbum de música mexicana contemporánea, mientras que Fonseca brilló en Mejor álbum tropical contemporáneo.
+
+**Los Latin Grammy fueron testigos de un reencuentro histórico**
+----------------------------------------------------------------
+
+**Marc Anthony** y **La India** se reencontraron luego de 29 años para interpretar juntos su emblemática canción Vivir lo nuestro.
+
+Este momento marcó el cierre de un homenaje especial a la salsa, donde también participaron leyendas como Rubén Blades y Tito Nieves.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DBrVlHcSlr_/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Marc Anthony (@marcanthony)](https://www.instagram.com/reel/DBrVlHcSlr_/?utm_source=ig_embed&utm_campaign=loading)
+
+Vivir lo nuestro, lanzada en 1994, se consolidó como un clásico de la música latina. Sin embargo, la relación entre Anthony y La India se deterioró rápidamente tras la colaboración, debido a declaraciones polémicas y diferencias personales.
+
+En una entrevista en 2014, Marc Anthony se refirió a La India de manera despectiva, lo que provocó su distanciamiento. La India, por su parte, expresó en 2017 que la fama había cambiado a Anthony, describiéndolo como “soberbio” y distante, según el portal Infobae.
+
+El reencuentro en los Latin Grammy fue inesperado y emotivo. La India compartió en redes sociales su agradecimiento por la oportunidad de cantar nuevamente con Anthony, describiendo el momento como “histórico” para ambos artistas y sus seguidores.
