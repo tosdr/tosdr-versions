@@ -42,6 +42,8 @@ Other legal information
 * [Privacy Policy](https://ifastnet.com/privacy.php)
 * [Payment Methods & Information](https://ifastnet.com/payment-methods.php)
 
+Powered by [WHMCompleteSolution](https://www.whmcs.com/)
+
 Get Your Website Online Today!
 ------------------------------
 
