@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
     
-* [HDD enclosures Backup4all is compatible with](https://www.backup4all.com/which-one-touch-backup-hdd-enclosures-is-backup4all-compatible-with-kb.html)  
+* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
     
-* [How to back up data files from Hitachi using ...](https://www.backup4all.com/how-to-back-up-data-files-from-hitachi-using-backup4all-kb.html)  
+* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
     
-* [How to backup your data to Verizon](https://www.backup4all.com/how-to-backup-your-data-to-verizon-kb.html)  
+* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
     
-* [FTP backup using passive mode](https://www.backup4all.com/ftp-backup-using-passive-mode-kb.html)  
+* [How to restore a backup using 7-Zip](https://www.backup4all.com/how-to-restore-a-backup-using-7-zip-kb.html)  
     
 
 Choose language:
