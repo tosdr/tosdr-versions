@@ -336,7 +336,7 @@ New
 
 Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
 
-[![](files/atari_merch_nov2024-241.jpg)
+[![](files/atari_merch_nov2024-350_1.jpg)
 
 Jaguar](https://www.atari.com/collections/jaguar)
 
@@ -358,7 +358,7 @@ Menu
 
 Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
 
-[![](files/atari_merch_nov2024-241.jpg)
+[![](files/atari_merch_nov2024-350_1.jpg)
 
 Jaguar](https://www.atari.com/collections/jaguar)
 
@@ -472,8 +472,6 @@ Add to cart
  2XL
 
  3XL
-
-NEW
 
 ##### Oversized Fuji Hoodie
 
