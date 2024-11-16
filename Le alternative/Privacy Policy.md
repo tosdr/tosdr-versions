@@ -99,9 +99,9 @@ Noi di **https://lealternative.net** riteniamo che la privacy dei nostri visitat
 
 ### File di Registrazione (Log Files)
 
-Come molti altri siti web, il nostro utilizza file di log. Questi file registrano semplicemente i visitatori del sito – di solito una procedura standard delle aziende di Hosting e dei servizi di analisi degli Hosting.
+Come molti altri siti web, il nostro utilizza file di log. Questi file registrano semplicemente i visitatori del sito – di solito una procedura standard delle aziende di hosting e dei servizi di analisi degli hosting.
 
-Le informazioni contenute nei file di registro comprendono indirizzi di protocollo Internet (IP), il tipo di Browser, Internet Service Provider (ISP), informazioni come data e ora, pagine referral, pagine d’uscita ed entrata o il numero di clic.
+Le informazioni contenute nei file di registro comprendono indirizzi di protocollo Internet (IP), il tipo di browser, Internet Service Provider (ISP), informazioni come data e ora, pagine referral, pagine d’uscita ed entrata o il numero di clic.
 
 Queste informazioni vengono utilizzate per analizzare le tendenze, amministrare il sito, monitorare il movimento degli utenti sul sito e raccogliere informazioni demografiche. Gli indirizzi IP e le altre informazioni non sono collegate a informazioni personali che possono essere identificate, dunque **tutti i dati sono raccolti in forma assolutamente anonima**.
 
@@ -116,7 +116,7 @@ La informiamo del fatto che i dati che conferirà volontariamente tramite l’em
 
 Qualora ne voleste l’eliminazione totale potete contattarci attraverso uno dei nostri numerosi canali, oppure semplicemente scrivendo una email ad info@lealternative.net. Tutti i vostri eventuali dati saranno prontamente cancellati.
 
-### **Servizi di piattaforma e Hosting**
+### **Servizi di piattaforma e hosting**
 
 Questi servizi hanno lo scopo di ospitare e far funzionare componenti chiave di questo sito, rendendo possibile l’erogazione di questo sito da un’unica piattaforma. Queste piattaforme forniscono al Titolare un’ampia gamma di strumenti quali, ad esempio, strumenti analitici, per la gestione della registrazione degli utenti, per la gestione dei commenti e del database, per il commercio elettronico, per l’elaborazione dei pagamenti etc. L’uso di tali strumenti comporta la raccolta e il trattamento di Dati Personali.  
 Alcuni di questi servizi funzionano attraverso server dislocati geograficamente in luoghi differenti, rendendo difficile la determinazione del luogo esatto in cui vengono conservati i Dati Personali.
@@ -145,7 +145,7 @@ I dati verranno trattati con le seguenti modalità:
 ### Statistiche
 
 **Koko Analytics**  
-Per le statistiche viene utilizzato Koko Analytics, un servizio totalmente privacy-friendly che non raccoglie nessun dato personale, non richiede Cookie e e non utilizza nessun servizio esterno. Per maggiori informazioni il loro sito ufficiale: **[kokoanalytics.com](https://www.kokoanalytics.com/)**.
+Per le statistiche viene utilizzato Koko Analytics, un servizio totalmente privacy-friendly che non raccoglie nessun dato personale, non richiede cookie e e non utilizza nessun servizio esterno. Per maggiori informazioni il loro sito ufficiale: **[kokoanalytics.com](https://www.kokoanalytics.com/)**.
 
 ### Natura obbligatoria
 
