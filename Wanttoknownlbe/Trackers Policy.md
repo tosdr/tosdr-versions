@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/co2-blijkt-en-blijft-n-zegen-voor-wereldwijde-flora/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/radiohost-fox-ontslagen-na-democraten-aanbidden-moloch/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
