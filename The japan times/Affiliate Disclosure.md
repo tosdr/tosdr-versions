@@ -249,25 +249,19 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
+
+1 hours ago
+
 [Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
-
-2 hours ago
-
-[Japan issues warning over bad-faith buyers in small business M&As](https://www.japantimes.co.jp/business/2024/11/16/companies/ma-bad-faith-buyer-warning/ "Japan issues warning over bad-faith buyers in small business M&As")
 
 8 hours ago
 
+[Japan issues warning over bad-faith buyers in small business M&As](https://www.japantimes.co.jp/business/2024/11/16/companies/ma-bad-faith-buyer-warning/ "Japan issues warning over bad-faith buyers in small business M&As")
+
 [Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
 
-9 hours ago
-
 [Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day](https://www.japantimes.co.jp/news/2024/11/16/japan/nihon-hidankyo-crowdfunding-goal/ "Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day")
-
-9 hours ago
-
-[Tens of thousands flee as Super Typhoon Man-yi nears Philippines](https://www.japantimes.co.jp/news/2024/11/16/asia-pacific/super-typhoon-philippines/ "Tens of thousands flee as Super Typhoon Man-yi nears Philippines")
-
-10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
