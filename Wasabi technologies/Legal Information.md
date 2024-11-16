@@ -26,7 +26,7 @@ Wasabi Privacy Policy
   
   
 
-[Company](https://wasabi.com/legal/privacy-policy?_gl=1*pndm7v*_ga*MTMwNDY3NTk4MC4xNzMxNzA5Njk4*_ga_8KLPMPWFPV*MTczMTcwOTY5OC4xLjAuMTczMTcwOTY5OC42MC4wLjA.#)
+[Company](https://wasabi.com/legal/privacy-policy#)
 
 * [About Wasabi](https://wasabi.com/company)
     
