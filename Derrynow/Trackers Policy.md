@@ -259,15 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry man shot by police while brandishing two knives jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man shot by police while brandishing two knives jailed")](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
-
-Derry Crown Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Emergency services currently at scene of road traffic collision outside Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
 
 The Legavallon Road outside Dungiven is currently closed
@@ -284,36 +275,6 @@ The Legavallon Road outside Dungiven is currently closed
 [Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry singer JOSIE with her debut single  ‘Run Little Girl’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
-
-Derry singer JOSIE with her debut single ‘Run Little Girl’
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-['It is never to late to follow your dreams' as Derry singer-songwriter releases debut single](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man who died in hospital ‘would be alive if he had been treated appropriately’](https://www.derrynow.com/news/northern-ireland/1657079/man-who-died-in-hospital-would-be-alive-if-he-had-been-treated-appropriately.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's North West Regional College to hold charity 5K fun walk/run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's North West Regional College to hold charity 5K fun walk/run")](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
-
-NWRC staff Danny McFeely, Leta McCusker, Nicholas Mullan and Eimear McDevitt get ready for the 2024 Glow Run.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry's North West Regional College to hold charity 5K fun walk/run](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -321,14 +282,12 @@ NWRC staff Danny McFeely, Leta McCusker, Nicholas Mullan and Eimear McDevitt get
 [IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry branch of the Salvation Army on Carlisle Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry branch of the Salvation Army on Carlisle Road")](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
+[![Man wanted in Republic for assault on woman arrested by police in Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man wanted in Republic for assault on woman arrested by police in Belfast")](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
 
-Derry branch of the Salvation Army on Carlisle Road
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[The Salvation Army has begun their Family Appeal for Christmas](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Man wanted in Republic for assault on woman arrested by police in Belfast](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![St Vincent de Paul launch annual appeal to support families at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Vincent de Paul launch annual appeal to support families at Christmas")](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
 
@@ -338,6 +297,38 @@ This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley
 
 [St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Girls star helps to launch Salvation Army Christmas family appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
+
+Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcalfe. Included at back are Major Jacqui Wright, Eilidh Wood and Annie Cook.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run")](https://www.derrynow.com/news/derry-sport/1655686/derry-greyhounds-sweet-sweet-success-for-la-calabaza-in-derby-run.html)
+
+Brandywell on Monday: Race 4. The Len Mc Kinney & Track Lotto Brandywell Derby 525 Final was won by LA CALABAZA in 28.96. Pictured with winning trainer Michael Corr.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run](https://www.derrynow.com/news/derry-sport/1655686/derry-greyhounds-sweet-sweet-success-for-la-calabaza-in-derby-run.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Police officers injured during protest as Hillary Clinton visited Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police officers injured during protest as Hillary Clinton visited Belfast")](https://www.derrynow.com/news/northern-ireland/1656774/police-officers-injured-during-protest-as-hillary-clinton-visited-belfast.html)
+
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Police officers injured during protest as Hillary Clinton visited Belfast](https://www.derrynow.com/news/northern-ireland/1656774/police-officers-injured-during-protest-as-hillary-clinton-visited-belfast.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -519,6 +510,15 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Girls star helps to launch Salvation Army Christmas family appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
+
+Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcalfe. Included at back are Major Jacqui Wright, Eilidh Wood and Annie Cook.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
@@ -526,7 +526,7 @@ Advertise with Us
 [Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Emergency services currently at scene of road traffic collision outside Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
+[![Emergency services currently at scene of road traffic collision outside Dungiven](https://www.derrynow.com/resizer/165/93/true/GN4_DAT_9547548.jpg--.jpg "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
 
 The Legavallon Road outside Dungiven is currently closed
 
@@ -557,15 +557,6 @@ This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley
 
 [Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry singer JOSIE with her debut single  ‘Run Little Girl’](https://www.derrynow.com/resizer/165/93/true/2024_11_15/Josie-1731684520737.PNG--.PNG?1731684520788 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
-
-Derry singer JOSIE with her debut single ‘Run Little Girl’
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-['It is never to late to follow your dreams' as Derry singer-songwriter releases debut single](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
