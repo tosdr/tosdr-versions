@@ -6,7 +6,7 @@
     
     ###### 3D Printers
     
-    [Craftbot PLUS PRO](https://eu.craftbot.com/collections/craftbot-plus-pro) [Craftbot FLOW](https://eu.craftbot.com/collections/flow) [Craftbot FLOW XL](https://eu.craftbot.com/collections/flow-xl) [Craftbot FLOW IDEX](https://eu.craftbot.com/collections/flow-idex) [Craftbot FLOW IDEX XL](https://eu.craftbot.com/collections/flow-idex-xl) [Craftbot FLOW Wide XL](https://eu.craftbot.com/collections/craftbot-flow-wide-xl-3d-printer) [Filaments](https://eu.craftbot.com/collections/filament) [Spare parts](https://eu.craftbot.com/collections/spare-parts) [Craftware Pro Premium](https://eu.craftbot.com/collections/craftware-pro)
+    [Craftbot PLUS PRO](https://us.craftbot.com/collections/craftbot-plus-pro) [Craftbot FLOW](https://us.craftbot.com/collections/flow) [Craftbot FLOW XL](https://us.craftbot.com/collections/flow-xl) [Craftbot FLOW IDEX](https://us.craftbot.com/collections/flow-idex) [Craftbot FLOW IDEX XL](https://us.craftbot.com/collections/flow-idex-xl) [Craftbot FLOW Wide XL](https://us.craftbot.com/collections/craftbot-flow-wide-xl-3d-printer) [Filaments](https://us.craftbot.com/collections/filament) [Spare parts](https://us.craftbot.com/collections/spare-parts) [Craftware Pro Premium](https://us.craftbot.com/collections/craftware-pro)
     
 * [3D printers](#)
     
@@ -334,7 +334,7 @@ Website: http://www.naih.hu
     * [FLOW XL](https://craftbot.com/products/craftbot-flow-xl)
     * [FLOW IDEX](https://craftbot.com/products/craftbot-flow-idex)
     * [FLOW IDEX XL](https://craftbot.com/products/craftbot-flow-idex-xl)
-* [SHOP](https://eu.craftbot.com/)
+* [SHOP](https://us.craftbot.com/)
 
 * [software](https://craftbot.com/craftware)
 * [firmware](https://craftbot.com/firmware)
