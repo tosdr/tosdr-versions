@@ -205,25 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Burgin'](https://www.somethingawful.com/news/burgin/1/)
-* [The Madden GIF Generator! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/madden-gif-generator/1/)
-* [Life's Battle](https://www.somethingawful.com/game-reviews/lifes-battle/1/)
-* [Four Helpful Protesting Tips from a White Person](https://www.somethingawful.com/news/protesting-while-white/)
-* [Something Awful Endorses a Candidate](https://www.somethingawful.com/news/chris-dodd-endorsement/1/)
+* [Feeders 2](https://www.somethingawful.com/movie-reviews/movie-review-feeders/1/)
+* [Attack of the Killer Tomatoes](https://www.somethingawful.com/rom-pit/attack-killer-tomatoes/)
+* [Synonymous Movies](https://www.somethingawful.com/photoshop-phriday/synonymous-movies/1/)
+* [I Hate You Page 07](https://www.somethingawful.com/cliff-yablonski/i-hate-you-07/)
+* [I Hate You Page 11](https://www.somethingawful.com/cliff-yablonski/i-hate-you-11/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What should I have for dinner?](http://forums.somethingawful.com/showthread.php?threadid=4075439 "What should I have for dinner?")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Mike Tyson vs. Jacke Paul](http://forums.somethingawful.com/showthread.php?threadid=4075441 "Mike Tyson vs. Jacke Paul")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What should I have for dinner?](http://forums.somethingawful.com/showthread.php?threadid=4075439 "What should I have for dinner?")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Stupid shit that you cant stop yourself from doing](http://forums.somethingawful.com/showthread.php?threadid=4075418 "Stupid shit that you cant stop yourself from doing")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
 
 ### Random Articles
 
-* [Footsie Y2K](https://www.somethingawful.com/awful-links/awful-link-1055/)
-* [Thank you for choosing Jack in the Orbachs can I take your Law & Order](https://www.somethingawful.com/daily-dirt/thank-you-for-3/)
-* [Predator](https://www.somethingawful.com/rom-pit/predator/)
-* [Timeline of 2011 NFL Lockout](https://www.somethingawful.com/news/nfl-lockout-timeline/)
-* [It's Alive!](https://www.somethingawful.com/news/its-alive/)
+* [Know Your Dragon Age: Inquisition Skills](https://www.somethingawful.com/news/dragon-inquisition-skills/)
+* [Grrl Monthly Pop Quiz!](https://www.somethingawful.com/news/grrl-monthly-quiz/)
+* [THE NEWS MAGAZINE OF THE COMPUTER SCREEN, VOL. 5](https://www.somethingawful.com/news/sareel-service5/1/)
+* [I Hate You Page 183](https://www.somethingawful.com/cliff-yablonski/i-hate-you-183/)
+* [American Pie Presents The Book of Love](https://www.somethingawful.com/current-movie-reviews/rip-eugene-levy/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
