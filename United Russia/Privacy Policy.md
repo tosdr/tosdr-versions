@@ -305,7 +305,15 @@
 
 [#Сербия](https://er.ru/activity/news?tags%5B0%5D=3058) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#БРИКС+](https://er.ru/activity/news?tags%5B0%5D=1095905) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
 
-Сегодня 18:12
+16.11.24
+
+[![Владимир Якушев посетил Республику Башкортостан](https://cdn.er.ru/media/news/November2024/8PDcX0qpbLGlxhSgB6BK-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-posetil-respubliku-bashkortostan)
+
+[Владимир Якушев посетил Республику Башкортостан](https://er.ru/activity/news/vladimir-yakushev-posetil-respubliku-bashkortostan)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=76970) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#гумконвой](https://er.ru/activity/news?tags%5B0%5D=96196) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#рабочаяпоездка](https://er.ru/activity/news?tags%5B0%5D=129494)
+
+16.11.24
 
 [![«Единая Россия», «Молодая Гвардия» и Всероссийская федерация самбо проведут в 2025 году в Москве массовую тренировку по самбо](https://cdn.er.ru/media/news/November2024/hwmXrzFXfsRnYsnGnX09-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-molodaya-gvardiya-i-vserossijskaya-federaciya-sambo-provedut-v-2025-godu-v-moskve-massovuyu-trenirovku-po-sambo)
 
@@ -313,7 +321,7 @@
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#тренировка](https://er.ru/activity/news?tags%5B0%5D=2478)
 
-Сегодня 17:58
+16.11.24
 
 [![Владимир Якушев отметил практики партстроительства и реализации народной программы «Единой России» в Башкирии](https://cdn.er.ru/media/news/November2024/ETvdrCH4PdbiKkHCzEzS-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-otmetil-praktiki-partstroitelstva-i-realizacii-narodnoj-programmy-edinoj-rossii-v-bashkirii)
 
@@ -321,7 +329,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=140172) [#региональнаяконференция](https://er.ru/activity/news?tags%5B0%5D=109190) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
-Сегодня 17:41
+16.11.24
 
 [![Юрий Станкевич: Участники симпозиума стран БРИКС и Европы продемонстрировали осознанность в диалоге с Россией](https://cdn.er.ru/media/news/November2024/xuoGO9YDq5HUzDMzxuJo-small.JPG)](https://er.ru/activity/news/yurij-stankevich-uchastniki-simpoziuma-stran-briks-i-evropy-prodemonstrirovali-osoznannost-v-dialoge-s-rossiej)
 
@@ -329,7 +337,7 @@
 
 [#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#Европа](https://er.ru/activity/news?tags%5B0%5D=99)
 
-Сегодня 17:30
+16.11.24
 
 [![Владимир Якушев: «Единая Россия» отправила из Башкирии помощь в 10 воинских подразделений в зоне СВО](https://cdn.er.ru/media/news/November2024/VGDj7poTQ8fFh0cEiwkG-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-otpravila-iz-bashkirii-pomosh-v-10-voinskih-podrazdelenij-v-zone-svo)
 
@@ -337,15 +345,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гумконвой](https://er.ru/activity/news?tags%5B0%5D=96196) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 17:04
-
-[![«Единая Россия» предлагает сделать самбо обязательным уроком физкультуры](https://cdn.er.ru/media/news/November2024/CnfE9DdWOhy730ct88le-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-predlagaet-sdelat-sambo-obyazatelnym-urokom-fizkultury)
-
-[«Единая Россия» предлагает сделать самбо обязательным уроком физкультуры](https://er.ru/activity/news/edinaya-rossiya-predlagaet-sdelat-sambo-obyazatelnym-urokom-fizkultury)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=76970) [#Турчак](https://er.ru/activity/news?tags%5B0%5D=4167) [#Кравцов](https://er.ru/activity/news?tags%5B0%5D=38915) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#ZаСамбо](https://er.ru/activity/news?tags%5B0%5D=1093088) [#форум](https://er.ru/activity/news?tags%5B0%5D=19)
-
-Сегодня 16:13
+16.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
