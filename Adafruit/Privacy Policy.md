@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ The economy of human time is the next advantage of machinery in manufactures”
+“ If I have seen further it is by standing on the shoulders of giants”
 
-[Charles Babbage](http://en.wikipedia.org/wiki/Charles_Babbage)
+[Isaac Newton](http://en.wikipedia.org/wiki/Isaac_Newton)
 
 [](https://www.adafruit.com/about)
 
