@@ -240,10 +240,24 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Spin up a new instance of Virtual Private Server with your preferred operating system in minutes!
+### DNSSEC
 
   
-[Deploy Instance](https://www.dynu.com/en-US/ControlPanel/AddVPS)  
+
+#### Our redundant DNS solution is fully supported with DNSSEC
+
+  
+
+  
+
+[Learn more about DNSSEC](https://www.dynu.com/Resources/DNS-Records/DNSSEC)  
+  
+
+  
+
+[Enable DNSSEC for your domain](https://www.dynu.com/ControlPanel/DDNS)  
+  
+
   
 
 ### News
