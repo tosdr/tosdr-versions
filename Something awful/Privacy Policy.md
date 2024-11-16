@@ -205,27 +205,26 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
-* [Cultural Calamities](https://www.somethingawful.com/great-goon-database/great-goon-culture/1/)
-* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
-* [Ron Paulitics](https://www.somethingawful.com/great-goon-database/great-goon-politics/1/)
-* [Dofus - The game with the name](https://www.somethingawful.com/mmo-roulette/dofus/1/)
+* [What Is The Meaning Of This Face?](https://www.somethingawful.com/news/batman-catwoman-face/)
+* [Video Game Heroes Gone Bad](https://www.somethingawful.com/photoshop-phriday/video-game-heroes/1/)
+* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
+* [Tower Wars: Episode One](https://www.somethingawful.com/photoshop-phriday/star-wars-911/1/)
+* [Beautiful Faces of Lovemaking](https://www.somethingawful.com/horrors-of-porn/beautiful-faces-lovemaking/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Stupid shit that you cant stop yourself from doing](http://forums.somethingawful.com/showthread.php?threadid=4075418 "Stupid shit that you cant stop yourself from doing")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Mike Tyson vs. Jacke Paul](http://forums.somethingawful.com/showthread.php?threadid=4075441 "Mike Tyson vs. Jacke Paul")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What should I have for dinner?](http://forums.somethingawful.com/showthread.php?threadid=4075439 "What should I have for dinner?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Mike Tyson vs. Jacke Paul](http://forums.somethingawful.com/showthread.php?threadid=4075441 "Mike Tyson vs. Jacke Paul")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
 
 ### Random Articles
 
-* [Hot Summer Releases](https://www.somethingawful.com/your-band-sucks/hot-summer-releases/)
-* [Dildo Me This...](https://www.somethingawful.com/comedy-goldmine/dildo-picard-starwars/1/)
-* [Princess Selina Desire, the KattGoddess of Love](https://www.somethingawful.com/awful-links/awful-link-2535/)
-* [Something Awful](https://www.somethingawful.com/awful-links/awful-link-951/)
-* [Dinosaurs!](https://www.somethingawful.com/photoshop-phriday/dinosaurs-return/1/)
+* [Memos from Bear Cave](https://www.somethingawful.com/news/bear-cave-soup/)
+* [Ghosts!](https://www.somethingawful.com/comedy-goldmine/ghosts/1/)
+* [Slurmania](https://www.somethingawful.com/weekend-web/slurmania/)
+* [Rick and Sidney](https://www.somethingawful.com/awful-links/awful-link-3449/)
+* [Pregnancy Products!](https://www.somethingawful.com/awful-things-sale/pregnancy-products/)
 
 [Random!](https://www.somethingawful.com/random/)
 
