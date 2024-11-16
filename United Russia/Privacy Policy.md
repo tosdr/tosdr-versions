@@ -299,53 +299,53 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://cdn.er.ru/img/stubs/small/2.jpg)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
+[![Джон Лафленд (Великобритания - профессор Оксфордского университета и Университета Парижа, директор НКО «Международный Форум за демократию»): Все мы здесь стремимся избежать однополярности мира](https://cdn.er.ru/media/news/November2024/KbHM7rI49hjNajAmiKCc-small.jpg)](https://er.ru/activity/news/dzhon-laflend-velikobritaniya-professor-oksfordskogo-universiteta-i-universiteta-parizha-direktor-nko-mezhdunarodnyj-forum-za-demokratiyu-vse-my-zdes-stremimsya-izbezhat-odnopolyarnosti-mira)
 
-[«Единая Россия» доставила гуманитарную помощь в освобождённые Кураховку и Горняк (ДНР)](https://er.ru/activity/news/edinaya-rossiya-dostavila-gumanitarnuyu-pomosh-v-osvobozhdyonnye-kurahovku-i-gornyak-dnr)
+[Джон Лафленд (Великобритания - профессор Оксфордского университета и Университета Парижа, директор НКО «Международный Форум за демократию»): Все мы здесь стремимся избежать однополярности мира](https://er.ru/activity/news/dzhon-laflend-velikobritaniya-professor-oksfordskogo-universiteta-i-universiteta-parizha-direktor-nko-mezhdunarodnyj-forum-za-demokratiyu-vse-my-zdes-stremimsya-izbezhat-odnopolyarnosti-mira)
 
-[#гумпомощь](https://er.ru/activity/news?tags%5B0%5D=8562) [#ЕРпомогает](https://er.ru/activity/news?tags%5B0%5D=146978) [#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+[#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#Климов](https://er.ru/activity/news?tags%5B0%5D=1872)
 
-15.11.24
+Сегодня 12:55
 
-[![«Единая Россия» дала старт международной акции «Люди Артека»-2025](https://cdn.er.ru/media/news/November2024/V0gidMiU7mp2Qh5r9HIc-small.png)](https://er.ru/activity/news/edinaya-rossiya-dala-start-mezhdunarodnoj-akcii-lyudi-arteka-2025)
+[![Константин Косачёв: Россия подключает к диалогу все заинтересованные страны](https://cdn.er.ru/media/news/November2024/PjjQSyF0bBnv2Hddje9n-small.jpg)](https://er.ru/activity/news/konstantin-kosachyov-rossiya-podklyuchaet-k-dialogu-vse-zainteresovannye-strany)
 
-[«Единая Россия» дала старт международной акции «Люди Артека»-2025](https://er.ru/activity/news/edinaya-rossiya-dala-start-mezhdunarodnoj-akcii-lyudi-arteka-2025)
+[Константин Косачёв: Россия подключает к диалогу все заинтересованные страны](https://er.ru/activity/news/konstantin-kosachyov-rossiya-podklyuchaet-k-dialogu-vse-zainteresovannye-strany)
 
-[#Грызлов](https://er.ru/activity/news?tags%5B0%5D=68) [#Романов](https://er.ru/activity/news?tags%5B0%5D=8320) [#партпроект](https://er.ru/activity/news?tags%5B0%5D=632) [#МирВозможностей](https://er.ru/activity/news?tags%5B0%5D=1092793) [#Беларусь](https://er.ru/activity/news?tags%5B0%5D=5381) [#акция](https://er.ru/activity/news?tags%5B0%5D=122836) [#ЛюдиАртека](https://er.ru/activity/news?tags%5B0%5D=1094253) [#школьники](https://er.ru/activity/news?tags%5B0%5D=127834)
+[#Косачев](https://er.ru/activity/news?tags%5B0%5D=595) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#межпартийноесотрудничество](https://er.ru/activity/news?tags%5B0%5D=125133)
 
-15.11.24
+Сегодня 12:34
 
-[![Антон Демидов: Более 5 тысяч активистов «Молодой Гвардии» прошли через волонтёрскую и гуманитарную миссии на освобождённых территориях](https://cdn.er.ru/media/news/November2024/lry73Dc5FFR6176RUpBm-small.jpg)](https://er.ru/activity/news/anton-demidov-bolee-5-tysyach-aktivistov-molodoj-gvardii-proshli-cherez-volontyorskuyu-i-gumanitarnuyu-missii-na-osvobozhdyonnyh-territoriyah)
+[![Александр фон Бисмарк (Германия - общественный деятель, основатель российско-германского проекта «Диалог Бисмарка»): Санкции в отношении России навредили Восточной Европе](https://cdn.er.ru/media/news/November2024/De4bRHVT38r8YZv55kxn-small.jpg)](https://er.ru/activity/news/aleksandr-fon-bismark-germaniya-obshestvennyj-deyatel-osnovatel-rossijsko-germanskogo-proekta-dialog-bismarka-sankcii-v-otnoshenii-rossii-navredili-vostochnoj-evrope)
 
-[Антон Демидов: Более 5 тысяч активистов «Молодой Гвардии» прошли через волонтёрскую и гуманитарную миссии на освобождённых территориях](https://er.ru/activity/news/anton-demidov-bolee-5-tysyach-aktivistov-molodoj-gvardii-proshli-cherez-volontyorskuyu-i-gumanitarnuyu-missii-na-osvobozhdyonnyh-territoriyah)
+[Александр фон Бисмарк (Германия - общественный деятель, основатель российско-германского проекта «Диалог Бисмарка»): Санкции в отношении России навредили Восточной Европе](https://er.ru/activity/news/aleksandr-fon-bismark-germaniya-obshestvennyj-deyatel-osnovatel-rossijsko-germanskogo-proekta-dialog-bismarka-sankcii-v-otnoshenii-rossii-navredili-vostochnoj-evrope)
 
-[#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872)
+[#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#Сочи](https://er.ru/activity/news?tags%5B0%5D=549) [#Германия](https://er.ru/activity/news?tags%5B0%5D=2024) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522)
 
-15.11.24
+Сегодня 11:55
 
-[![Денис Пушилин: Работа МГЕР в Донбассе войдёт в летопись организации](https://cdn.er.ru/media/news/November2024/6geqrZMmvDWB8PlRUVcf-small.jpg)](https://er.ru/activity/news/denis-pushilin-rabota-mger-v-donbasse-vojdyot-v-letopis-organizacii)
+[![Андрей Климов: Симпозиум стран БРИКС и Европы в Сочи направлен на поиск путей взаимодействия по ряду направлений](https://cdn.er.ru/media/news/November2024/Rb2vltSoVx3r9cp33jt3-small.jpg)](https://er.ru/activity/news/andrej-klimov-simpozium-stran-briks-i-evropy-v-sochi-napravlen-na-poisk-putej-vzaimodejstviya-po-ryadu-napravlenij)
 
-[Денис Пушилин: Работа МГЕР в Донбассе войдёт в летопись организации](https://er.ru/activity/news/denis-pushilin-rabota-mger-v-donbasse-vojdyot-v-letopis-organizacii)
+[Андрей Климов: Симпозиум стран БРИКС и Европы в Сочи направлен на поиск путей взаимодействия по ряду направлений](https://er.ru/activity/news/andrej-klimov-simpozium-stran-briks-i-evropy-v-sochi-napravlen-na-poisk-putej-vzaimodejstviya-po-ryadu-napravlenij)
 
-[#Донецкая Народная Республика](https://er.ru/activity/news?tags%5B0%5D=60937) [#Пушилин](https://er.ru/activity/news?tags%5B0%5D=1092774) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#волонтерство](https://er.ru/activity/news?tags%5B0%5D=19443)
+[#Климов](https://er.ru/activity/news?tags%5B0%5D=1872) [#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#Евросоюз](https://er.ru/activity/news?tags%5B0%5D=29) [#Европарламент](https://er.ru/activity/news?tags%5B0%5D=1648)
 
-15.11.24
+Сегодня 11:32
 
-[![Владимир Якушев поддержал предложение МГЕР провести форум рабочей молодёжи](https://cdn.er.ru/media/news/November2024/O9ZFm6Z1tzLTYb8zmrya-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-provesti-forum-rabochej-molodyozhi)
+[![При поддержке «Единой России» в Москве определили победителей VII Большого Детского фестиваля](https://cdn.er.ru/media/news/November2024/ud3hN1OK4myIMDd3aBYL-small.jpg)](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-moskve-opredelili-pobeditelej-vii-bolshogo-detskogo-festivalya)
 
-[Владимир Якушев поддержал предложение МГЕР провести форум рабочей молодёжи](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-provesti-forum-rabochej-molodyozhi)
+[При поддержке «Единой России» в Москве определили победителей VII Большого Детского фестиваля](https://er.ru/activity/news/pri-podderzhke-edinoj-rossii-v-moskve-opredelili-pobeditelej-vii-bolshogo-detskogo-festivalya)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#форум](https://er.ru/activity/news?tags%5B0%5D=19) [#МолодаяГвардия](https://er.ru/activity/news?tags%5B0%5D=106617) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
+[#Казакова](https://er.ru/activity/news?tags%5B0%5D=30356) [#Безруков](https://er.ru/activity/news?tags%5B0%5D=23287) [#театр](https://er.ru/activity/news?tags%5B0%5D=949) [#фестиваль](https://er.ru/activity/news?tags%5B0%5D=1671) [#КультурамалойРодины](https://er.ru/activity/news?tags%5B0%5D=1091565) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#БольшойДетскийФестиваль](https://er.ru/activity/news?tags%5B0%5D=1093399)
 
-15.11.24
+Сегодня 11:06
 
-[![Владимир Якушев поддержал предложение МГЕР по созданию Дома молодёжи в ЛНР](https://cdn.er.ru/media/news/November2024/1S7VRmeuxPsNJE9DkcEp-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-po-sozdaniyu-doma-molodyozhi-v-lnr)
+[![При содействии «Единой России» в Сочи открылся международный симпозиум «Роль государства, науки и общества в развитии социально-экономического сотрудничества между БРИКС+ и европейскими странами и организациями»](https://cdn.er.ru/media/news/November2024/iZShII2tSWBk5V1AF2pN-small.jpg)](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-sochi-otkrylsya-mezhdunarodnyj-simpozium-rol-gosudarstva-nauki-i-obshestva-v-razvitii-socialno-ekonomicheskogo-sotrudnichestva-mezhdu-briks-i-evropejskimi-stranami-i-organizaciyami)
 
-[Владимир Якушев поддержал предложение МГЕР по созданию Дома молодёжи в ЛНР](https://er.ru/activity/news/vladimir-yakushev-podderzhal-predlozhenie-mger-po-sozdaniyu-doma-molodyozhi-v-lnr)
+[При содействии «Единой России» в Сочи открылся международный симпозиум «Роль государства, науки и общества в развитии социально-экономического сотрудничества между БРИКС+ и европейскими странами и организациями»](https://er.ru/activity/news/pri-sodejstvii-edinoj-rossii-v-sochi-otkrylsya-mezhdunarodnyj-simpozium-rol-gosudarstva-nauki-i-obshestva-v-razvitii-socialno-ekonomicheskogo-sotrudnichestva-mezhdu-briks-i-evropejskimi-stranami-i-organizaciyami)
 
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#МолодаяГвардияЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1094676) [#Луганская Народная Республика](https://er.ru/activity/news?tags%5B0%5D=126130) [#молодежь](https://er.ru/activity/news?tags%5B0%5D=48)
+[#Краснодарский край](https://er.ru/activity/news?tags%5B0%5D=1282) [#БРИКС+](https://er.ru/activity/news?tags%5B0%5D=1095905) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#Европа](https://er.ru/activity/news?tags%5B0%5D=99)
 
-15.11.24
+Сегодня 10:32
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
