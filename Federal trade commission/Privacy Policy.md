@@ -18,13 +18,8 @@ Federal government websites often end in .gov or .mil. Before sharing sensitive 
 **The site is secure.**  
 The **https://** ensures that you are connecting to the official website and that any information you provide is encrypted and transmitted securely.
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
@@ -78,7 +73,7 @@ Main Menu Mega
     Take action
     -----------
     
-    * [Report an antitrust violation](https://www.ftc.gov/enforcement/report-antitrust-violation "Report An Antitrust Violation")
+    * [Submit Merger/Antitrust Comment](https://www.ftc.gov/enforcement/submit-merger-antitrust-comment "Comment on a Proposed Merger or File an Antitrust Complaint")
     * [File adjudicative documents](https://www.ftc.gov/about-ftc/bureaus-offices/office-secretary/document-filing)
     * [Find banned debt collectors](https://www.ftc.gov/legal-library/browse/cases-proceedings/banned-debt-collectors)
     * [View competition guidance](https://www.ftc.gov/business-guidance/competition-business-guidance)
@@ -226,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Reports of Unwanted Telemarketing Calls Down More Than 50 Percent Since 2021](https://www.ftc.gov/news-events/news/press-releases/2024/11/reports-unwanted-telemarketing-calls-down-more-50-percent-2021)
+    ### [FTC Takes Action Against Bogus Business Finance Scheme Seek Capital For Costing Small Business Owners Millions](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-takes-action-against-bogus-business-finance-scheme-seek-capital-costing-small-business-owners)
     
     November 15, 2024
     
@@ -330,13 +325,8 @@ Main Menu Mega
     Looking for legal documents or records? Search the [Legal Library](https://www.ftc.gov/legal-library) instead.
     
 
-Translation Menu
-----------------
-
-* [Español](https://www.ftc.gov/es)
-
-Secondary Menu
---------------
+* [English](https://www.ftc.gov/)
+* [español](https://www.ftc.gov/es/ftc-en-espa%C3%B1ol)
 
 * [Report Fraud](https://reportfraud.ftc.gov/)
 * [Get Consumer Alerts](https://public.govdelivery.com/accounts/USFTCCONSUMER/subscriber/new?topic_id=USFTCCONSUMER_8)
