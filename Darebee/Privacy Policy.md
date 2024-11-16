@@ -5,7 +5,7 @@
 * [collections](https://www.darebee.com/collections.html)
 * [community](https://www.community.darebee.com/)
 * [my bookmarks](https://www.darebee.com/bookmarks.html)
-* [support](https://www.darebee.com/support.html)
+* [donate](https://www.darebee.com/support.html)
 
 [![DAREBEE](/../images/darebee.png "DAREBEE")](https://www.darebee.com/)
 
@@ -16,7 +16,7 @@
 * [collections](https://www.darebee.com/collections.html)
 * [community](https://www.community.darebee.com/)
 * [my bookmarks](https://www.darebee.com/bookmarks.html)
-* [support](https://www.darebee.com/support.html)
+* [donate](https://www.darebee.com/support.html)
 
 Privacy Policy
 ==============
@@ -52,7 +52,7 @@ You can do the following at any time by contacting us via the email address or p
 
 Funding Level
 
-38%
+26%
 
 [What Does This Mean?](https://www.darebee.com/funding.html)
 
@@ -94,6 +94,8 @@ New to DAREBEE? Start here:
 * [![Facebook](/../images/socials/facebook.png)](https://www.facebook.com/darebees)
 * [![youtube](/../images/socials/youtube.png)](https://www.youtube.com/c/Darebees/videos)
 * [![pinterest](/../images/socials/pinterest.png)](https://www.pinterest.com/darebees)
+* [![threads @darebeecom](/../images/socials/threads.png)](https://www.threads.net/@darebeecom)
+* [![BlueSky @darebee](/../images/socials/sky.png)](https://bsky.app/profile/darebee.bsky.social)
 
 * [mobile apps](https://www.darebee.com/apps.html)
 * [local workshops](https://www.darebee.com/local.html)
