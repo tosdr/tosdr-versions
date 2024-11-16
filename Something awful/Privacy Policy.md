@@ -205,27 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Feeders 2](https://www.somethingawful.com/movie-reviews/movie-review-feeders/1/)
-* [Attack of the Killer Tomatoes](https://www.somethingawful.com/rom-pit/attack-killer-tomatoes/)
-* [Synonymous Movies](https://www.somethingawful.com/photoshop-phriday/synonymous-movies/1/)
-* [I Hate You Page 07](https://www.somethingawful.com/cliff-yablonski/i-hate-you-07/)
-* [I Hate You Page 11](https://www.somethingawful.com/cliff-yablonski/i-hate-you-11/)
+* [Beast Forum](https://www.somethingawful.com/weekend-web/beastforum/1/)
+* [Cultural Calamities](https://www.somethingawful.com/great-goon-database/great-goon-culture/1/)
+* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
+* [Ron Paulitics](https://www.somethingawful.com/great-goon-database/great-goon-politics/1/)
+* [Dofus - The game with the name](https://www.somethingawful.com/mmo-roulette/dofus/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Stupid shit that you cant stop yourself from doing](http://forums.somethingawful.com/showthread.php?threadid=4075418 "Stupid shit that you cant stop yourself from doing")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Mike Tyson vs. Jacke Paul](http://forums.somethingawful.com/showthread.php?threadid=4075441 "Mike Tyson vs. Jacke Paul")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What should I have for dinner?](http://forums.somethingawful.com/showthread.php?threadid=4075439 "What should I have for dinner?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Stupid shit that you cant stop yourself from doing](http://forums.somethingawful.com/showthread.php?threadid=4075418 "Stupid shit that you cant stop yourself from doing")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
 
 ### Random Articles
 
-* [Know Your Dragon Age: Inquisition Skills](https://www.somethingawful.com/news/dragon-inquisition-skills/)
-* [Grrl Monthly Pop Quiz!](https://www.somethingawful.com/news/grrl-monthly-quiz/)
-* [THE NEWS MAGAZINE OF THE COMPUTER SCREEN, VOL. 5](https://www.somethingawful.com/news/sareel-service5/1/)
-* [I Hate You Page 183](https://www.somethingawful.com/cliff-yablonski/i-hate-you-183/)
-* [American Pie Presents The Book of Love](https://www.somethingawful.com/current-movie-reviews/rip-eugene-levy/1/)
+* [Hot Summer Releases](https://www.somethingawful.com/your-band-sucks/hot-summer-releases/)
+* [Dildo Me This...](https://www.somethingawful.com/comedy-goldmine/dildo-picard-starwars/1/)
+* [Princess Selina Desire, the KattGoddess of Love](https://www.somethingawful.com/awful-links/awful-link-2535/)
+* [Something Awful](https://www.somethingawful.com/awful-links/awful-link-951/)
+* [Dinosaurs!](https://www.somethingawful.com/photoshop-phriday/dinosaurs-return/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
