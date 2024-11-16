@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-15 Nov 2024
+16 Nov 2024
 
 * [Home
     
@@ -300,14 +300,12 @@ Derry Crown Court
 [Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Young Derry author’s debut novel sounds warning about THC dangers](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Young Derry author’s debut novel sounds warning about THC dangers")](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
+[![Who are the guests on tonight's Late Late Show on RTÉ One?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Late Late Show on RTÉ One?")](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
 
-Conghaile McLaughlin with a copy of his book, 'The Joys of Humanity'.
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Young Derry author’s debut novel sounds warning about THC dangers](https://www.derrynow.com/news/local-news/1655606/young-derry-authors-debut-novel-sounds-warning-about-thc-dangers.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Who are the guests on tonight's Late Late Show on RTÉ One?](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
 
@@ -327,13 +325,6 @@ Patrick McEleney is no longer a Derry City player.
 [Another Derry City departure as Patrick McEleney joins Ballymena United](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Who are the guests on tonight's Late Late Show on RTÉ One?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Late Late Show on RTÉ One?")](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Who are the guests on tonight's Late Late Show on RTÉ One?](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Ruaidhrí Higgins steps down as Derry City manager by mutual consent](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ruaidhrí Higgins steps down as Derry City manager by mutual consent")](https://www.derrynow.com/news/sport/1656467/ruaidhri-higgins-steps-down-as-derry-city-manager-by-mutual-consent.html)
 
 Former Derry City manager Ruaidhrí Higgins. Picture by David Fitzgerald
@@ -342,6 +333,15 @@ Former Derry City manager Ruaidhrí Higgins. Picture by David Fitzgerald
 
 [Ruaidhrí Higgins steps down as Derry City manager by mutual consent](https://www.derrynow.com/news/sport/1656467/ruaidhri-higgins-steps-down-as-derry-city-manager-by-mutual-consent.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![“We've not won anything yet” - Craigbane manager Kevin Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "“We've not won anything yet” - Craigbane manager Kevin Moore")](https://www.derrynow.com/news/derry-sport/1655687/we-ve-not-won-anything-yet-craigbane-manager-kevin-moore.html)
+
+Craigbane face an Ulster Junior Championship semi-final against Drumhowan this weekend.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[“We've not won anything yet” - Craigbane manager Kevin Moore](https://www.derrynow.com/news/derry-sport/1655687/we-ve-not-won-anything-yet-craigbane-manager-kevin-moore.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
