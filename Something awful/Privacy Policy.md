@@ -205,24 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Nuge Board, Panty Hog and Quizilla](https://www.somethingawful.com/weekend-web/nuge-board-panty/1/)
-* [Classic Art III](https://www.somethingawful.com/photoshop-phriday/classic-art-iii/1/)
-* [Christmas in Middle Earth](https://www.somethingawful.com/comedy-goldmine/christmas-middle-earth/1/)
-* [Definitive Movies](https://www.somethingawful.com/photoshop-phriday/definitive-movies/1/)
-* [Paintings of Light II](https://www.somethingawful.com/photoshop-phriday/paintings-light-ii/1/)
+* [Burgin'](https://www.somethingawful.com/news/burgin/1/)
+* [The Madden GIF Generator! (Part 1 of 2)](https://www.somethingawful.com/comedy-goldmine/madden-gif-generator/1/)
+* [Life's Battle](https://www.somethingawful.com/game-reviews/lifes-battle/1/)
+* [Four Helpful Protesting Tips from a White Person](https://www.somethingawful.com/news/protesting-while-white/)
+* [Something Awful Endorses a Candidate](https://www.somethingawful.com/news/chris-dodd-endorsement/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Tips for handling politicals during the holidays](http://forums.somethingawful.com/showthread.php?threadid=4075400 "Tips for handling politicals during the holidays")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What should I have for dinner?](http://forums.somethingawful.com/showthread.php?threadid=4075439 "What should I have for dinner?")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Mike Tyson vs. Jacke Paul](http://forums.somethingawful.com/showthread.php?threadid=4075441 "Mike Tyson vs. Jacke Paul")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/help.png) [Stupid shit that you cant stop yourself from doing](http://forums.somethingawful.com/showthread.php?threadid=4075418 "Stupid shit that you cant stop yourself from doing")
 
 ### Random Articles
 
-* [Afterlife Telegrams](https://www.somethingawful.com/awful-links/awful-link-1262/)
-* [Rowdy Roddy Piper Goes Massively Multiplayer](https://www.somethingawful.com/news/rowdy-roddy-piper/)
-* [Party Egg!](https://www.somethingawful.com/comedy-goldmine/party-egg/)
-* [Conan](https://www.somethingawful.com/rom-pit/conan/)
-* [Pixilated History](https://www.somethingawful.com/photoshop-phriday/pixilated-history/1/)
+* [Footsie Y2K](https://www.somethingawful.com/awful-links/awful-link-1055/)
+* [Thank you for choosing Jack in the Orbachs can I take your Law & Order](https://www.somethingawful.com/daily-dirt/thank-you-for-3/)
+* [Predator](https://www.somethingawful.com/rom-pit/predator/)
+* [Timeline of 2011 NFL Lockout](https://www.somethingawful.com/news/nfl-lockout-timeline/)
+* [It's Alive!](https://www.somethingawful.com/news/its-alive/)
 
 [Random!](https://www.somethingawful.com/random/)
 
