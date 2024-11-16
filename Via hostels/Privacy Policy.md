@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_6737cb446da90)
+* [fun from day one!](#tab_6738204157ba0)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6737cb446da90)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_6738204157ba0)
     
-* [fomo no more!](#tab_6737cb446da9f)
+* [fomo no more!](#tab_6738204157bb5)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6737cb446da9f)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_6738204157bb5)
     
-* [we’ve got you covered, dude](#tab_6737cb446daab)
+* [we’ve got you covered, dude](#tab_6738204157bc3)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6737cb446daab)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_6738204157bc3)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -117,6 +117,8 @@ follow us on social
 
 [](https://www.instagram.com/viaamsterdam/)
 
+[Did you know that you can borrow a bunch of games ![Did you know that you can borrow a bunch of games for free when you're staying with us?🎲🎯 We have a big selection for you and your travel buddies to connect over, just ask at the bar when the competition urge kicks in!😅🙌](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCZXGQqM63B/) 
+
 [We’re simply huge Via fans!!🤭🤞🏼 #viaam ![We’re simply huge Via fans!!🤭🤞🏼
 #viaamsterdam #hospitality #service #trend](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCWslNutoOW/) 
 
@@ -150,8 +152,6 @@ Join us at Via for a week full of boos and brews🍻🧙‍♀️
 
 [Good friends, great shots, and even better times! ![Good friends, great shots, and even better times! 🎱✨ Who’s ready for a round of pool?🤩
 #HostelVibes #GameOn #viaamsterdam #hostellife #poolparty](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DBorQ3qOFG5/) 
-
-[Saturday's made for beer pong, friends, and live m ![Saturday's made for beer pong, friends, and live music. Game on!🤩🙏🍻](https://www.viahostels.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DBlx-s-NvMk/) 
 
 current & upcoming events
 -------------------------
