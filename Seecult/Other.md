@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/sas-stojanovic-i-ana-vilenica/turoristicka-agencija/ta10.jpg?itok=8f5XydCc)](http://seecult.org/galerija/galerija-umetnika/sasa-stojanovic-i-ana-vilenica/turoristicka-agencija)
+[![Zoran Popović, Installation of Axioms, SKC, Belgrade 1972](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-instalacije/instalations/installation-axioms-1972.jpg?itok=3zO4hM1S)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-instalacijeinstalations)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/jug-jugoistok.jpg?itok=M8Imc_hf)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dino-dvornik.jpg?itok=WTiKmlqV)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +444,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Glas promena koji podstiče kritičko razmišljanje](http://seecult.org/vest/glas-promena-koji-podstice-kriticko-razmisljanje)
 * [Ples, otpor, (ne)rad](http://seecult.org/vest/ples-otpor-nerad)
 * [Mladi i digitalno doba](http://seecult.org/vest/mladi-i-digitalno-doba)
 * [12\. Vizualizator – Re-kreacija vida](http://seecult.org/vest/12-vizualizator-re-kreacija-vida)
@@ -453,18 +454,17 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Jubilarni, 10. Festival nezavisnog američkog filma](http://seecult.org/vest/jubilarni-10-festival-nezavisnog-americkog-filma)
 * [Minut ćutanja za 14 žrtava](http://seecult.org/vest/minut-cutanja-za-14-zrtava)
 * [Nihad Nino Pušija - U potrazi za Eldoradom](http://seecult.org/vest/nihad-nino-pusija-u-potrazi-za-eldoradom)
-* [Mladi autori i velikani na 30. FAF-u](http://seecult.org/vest/mladi-autori-i-velikani-na-30-faf-u)
 
 * [Konkursi](#tab1_1)
 
+* [Konkurs za dodelu nagrade Zadužbine Đoke Vlajkovića](http://seecult.org/konkurs/konkurs-za-dodelu-nagrade-zaduzbine-doke-vlajkovica)
 * [Konkurs za filmove za 72. Martovski festival](http://seecult.org/konkurs/konkurs-za-filmove-za-72-martovski-festival)
 * [Konkurs za izlaganje na prodajnoj izložbi Pod mojom suknjom](http://seecult.org/konkurs/konkurs-za-izlaganje-na-prodajnoj-izlozbi-pod-mojom-suknjom)
 * [Konkurs Galerije SKC Kragujevac za 2025.](http://seecult.org/konkurs/konkurs-galerije-skc-kragujevac-za-2025)
 * [Konkurs za izlaganje u Galeriji Kuće legata u 2025.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-kuce-legata-u-2025)
+* [Konkurs Memorijalne galerije Dušan Starčević za 2025.](http://seecult.org/konkurs/konkurs-memorijalne-galerije-dusan-starcevic-za-2025)
 * [Konkurs za predstavnika Srbije na 19. Bijenalu arhitekture u Veneciji 2025.](http://seecult.org/konkurs/konkurs-za-predstavnika-srbije-na-19-bijenalu-arhitekture-u-veneciji-2025)
 * [Konkurs za izlaganje u Galeriji SULUV u 2025. godini.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-suluv-u-2025-godini)
-* [Кonkurs za izlaganje u Centru za kulturu Nebojša Glogovac](http://seecult.org/konkurs/konkurs-za-izlaganje-u-centru-za-kulturu-nebojsa-glogovac)
-* [Konkurs za mlade umetnike - Nismo umetnici](http://seecult.org/konkurs/konkurs-za-mlade-umetnike-nismo-umetnici)
 
 * [Kritika](#tab2_1)
 
