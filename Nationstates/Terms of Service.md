@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Global Socialist Coalition (OOC, Signup) (218)](https://forum.nationstates.net/viewtopic.php?t=544035&f=5&view=unread#unread ""Global Socialist Coalition (OOC, Signup)" (218 posts)")
-* [The guns of TET fell silent (12,293)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""The guns of TET fell silent" (12,293 posts)")
-* [Would You Rather Chill with AU or AAU? (267)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (267 posts)")
-* [Consumer Protection for High-Risk Pro… (6)](https://forum.nationstates.net/viewtopic.php?t=558371&f=9&view=unread#unread ""Consumer Protection for High-Risk Products" (6 posts)")
-* [Come up with a funny rip off name for… (531)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (531 posts)")
+* [Why are Israel-Palestine discussions… (28)](https://forum.nationstates.net/viewtopic.php?t=558379&f=20&view=unread#unread ""Why are Israel-Palestine discussions NEVER neutral or civil?" (28 posts)")
+* [The guns of TET fell silent (12,384)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""The guns of TET fell silent" (12,384 posts)")
+* [Guess Who BN Is! (7,155)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (7,155 posts)")
+* [\[R\] Flaming (1)](https://forum.nationstates.net/viewtopic.php?t=558423&f=16&view=unread#unread ""[R] Flaming" (1 post)")
+* [Guess AN's Gender (4,512)](https://forum.nationstates.net/viewtopic.php?t=543783&f=25&view=unread#unread ""Guess AN's Gender" (4,512 posts)")
 
 Advertisement
 
