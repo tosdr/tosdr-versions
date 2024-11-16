@@ -228,11 +228,12 @@ It's Not News, It's Fark
 
 [Report](https://www.fark.com/farkback/)
 
-If you like these links, you'll love
+Want more stories with less ads? Try
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Farking, less working
+It's what the cool kids are doing.  
+It also helps us pay the bills.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +333,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [Day 997 of WW3: A night with the drone squad targeting Russian forces in micro battles. In a dugout near the front in Donetsk, the Guardian joins Ukrainian police officers turned pilots during a shift. It's your Saturday Ukraine war thread](https://www.fark.com/goto/13464978) ( [theguardian.com](https://www.fark.com/goto/13464978) ) » [(33 comments)](https://www.fark.com/comments/13464978/Day-997-of-WW3-A-night-with-drone-squad-targeting-Russian-forces-in-micro-battles-In-a-dugout-near-front-in-Donetsk-Guardian-joins-Ukrainian-police-officers-turned-pilots-during-a-shift-Its-your-Saturday-Ukraine-war-thread) |
-| [Discussion](https://www.fark.com/discussion/) | [This could have easily been titled "Ode to Farkers"](https://www.fark.com/goto/13464896) ( [tellthebeees.substack.com](https://www.fark.com/goto/13464896) ) » [(4 comments)](https://www.fark.com/comments/13464896/This-could-have-easily-been-titled-Ode-to-Farkers) |
-| [Sports](https://www.fark.com/sports/) | [Welp..that was depressing...old age comes for us all, even Iron Mike Tyson... In other news, it was an epic fail on Netflix's part to have absolutely abysmal streaming quality during all of the fights](https://www.fark.com/goto/13464938) ( [dailymail.co.uk](https://www.fark.com/goto/13464938) ) » [(38 comments)](https://www.fark.com/comments/13464938/Welpthat-was-depressingold-age-comes-for-us-all-even-Iron-Mike-Tyson-In-other-news-it-was-an-epic-fail-on-Netflixs-part-to-have-absolutely-abysmal-streaming-quality-during-all-of-fights) |
-| [Business](https://www.fark.com/business/) | [Private equity may soon acquire one of the few remaining decent news outlets](https://www.fark.com/goto/13465000) ( [nypost.com](https://www.fark.com/goto/13465000) ) » [(10 comments)](https://www.fark.com/comments/13465000/Private-equity-may-soon-acquire-one-of-few-remaining-decent-news-outlets) |
-| [STEM](https://www.fark.com/stem/) | [Scientists take semen onto vomit comet and you can try to finish that sentence yourself before you read TFA](https://www.fark.com/goto/13464986) ( [iflscience.com](https://www.fark.com/goto/13464986) ) » [(3 comments)](https://www.fark.com/comments/13464986/Scientists-take-semen-onto-vomit-comet-you-can-try-to-finish-that-sentence-yourself-before-you-read-TFA) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Twenty years ago today, we all learned that it was never going to be lupus](https://www.fark.com/goto/13465002) ( [theguardian.com](https://www.fark.com/goto/13465002) ) » [(10 comments)](https://www.fark.com/comments/13465002/Twenty-years-ago-today-we-all-learned-that-it-was-never-going-to-be-lupus) |
-| [Fandom](https://www.fark.com/fandom/) | [Disney issues Order 66 on the New Jedi Order](https://www.fark.com/goto/13464770) ( [variety.com](https://www.fark.com/goto/13464770) ) » [(11 comments)](https://www.fark.com/comments/13464770/Disney-issues-Order-66-on-New-Jedi-Order) |
-| [D'awww](https://www.fark.com/dawww/) | [A nonprofit owner is putting her own spin on the trap, neuter, return routine for stray cats by changing the "R" for "Return" to an "A" for "Adopt." Welcome to Caturday](https://www.fark.com/goto/13463412) ( [butlereagle.com](https://www.fark.com/goto/13463412) ) » [(304 comments)](https://www.fark.com/comments/13463412/A-nonprofit-owner-is-putting-her-own-spin-on-trap-neuter-return-routine-for-stray-cats-by-changing-R-for-Return-to-an-A-for-Adopt-Welcome-to-Caturday) |
-| [Food](https://www.fark.com/food/) | [Did they also shiatpost in hieroglyphics?](https://www.fark.com/goto/13464684) ( [phys.org](https://www.fark.com/goto/13464684) ) » [(42 comments)](https://www.fark.com/comments/13464684/Did-they-also-shiatpost-in-hieroglyphics) |
-| [Politics](https://www.fark.com/politics/) | [Hahahahahaha. NO](https://www.fark.com/goto/13464980) ( [msn.com](https://www.fark.com/goto/13464980) ) » [(5 comments)](https://www.fark.com/comments/13464980/Hahahahahaha-NO) |
+| [Main](https://www.fark.com/) | [Video games, literature, shopping, and animation are all on the Fark Weird News Quiz, Nov 8-14 Egg roll edition](https://www.fark.com/goto/13464482) ( [fark.com](https://www.fark.com/goto/13464482) ) » [(11 comments)](https://www.fark.com/comments/13464482/Video-games-literature-shopping-animation-are-all-on-Fark-Weird-News-Quiz-Nov-8-14-Egg-roll-edition) |
+| [Discussion](https://www.fark.com/discussion/) | [Video games, literature, shopping, and animation are all on the Fark Weird News Quiz, Nov 8-14 Egg roll edition](https://www.fark.com/goto/13464482) ( [fark.com](https://www.fark.com/goto/13464482) ) » [(11 comments)](https://www.fark.com/comments/13464482/Video-games-literature-shopping-animation-are-all-on-Fark-Weird-News-Quiz-Nov-8-14-Egg-roll-edition) |
+| [Sports](https://www.fark.com/sports/) | [A dozen games are on for Saturday hockey, commencing at 1:00 PM ET with the Blues and Bruins on NHL Network. Who will have the big moments on this day?](https://www.fark.com/goto/13464926) ( [espn.com](https://www.fark.com/goto/13464926) ) » [(5 comments)](https://www.fark.com/comments/13464926/A-dozen-games-are-on-for-Saturday-hockey-commencing-at-100-PM-ET-with-Blues-Bruins-on-NHL-Network-Who-will-have-big-moments-on-this-day) |
+| [Business](https://www.fark.com/business/) | [McDonald's to spend $100 million to recover from E coli outbreak. The money will be spent on marketing and improved food safety. Wait, I'm being told the money will just be spent on marketing](https://www.fark.com/goto/13465084) ( [cnbc.com](https://www.fark.com/goto/13465084) ) » [(11 comments)](https://www.fark.com/comments/13465084/McDonalds-to-spend-$100-million-to-recover-from-E-coli-outbreak-The-money-will-be-spent-on-marketing-improved-food-safety-Wait-Im-being-told-money-will-just-be-spent-on-marketing) |
+| [STEM](https://www.fark.com/stem/) | [Scotland's biggest underwater discovery other than Nessie](https://www.fark.com/goto/13465066) ( [ecoticias.com](https://www.fark.com/goto/13465066) ) » [(19 comments)](https://www.fark.com/comments/13465066/Scotlands-biggest-underwater-discovery-other-than-Nessie) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Which is sexier, a human sized actual Spongebob Squarepants \[see picture\] but he can't talk, or purely audio ASMR by the voice actor in Spongebob's voice?](https://www.fark.com/goto/13465132) ( [msn.com](https://www.fark.com/goto/13465132) ) » [(7 comments)](https://www.fark.com/comments/13465132/Which-is-sexier-a-human-sized-actual-Spongebob-Squarepants-see-picture-but-he-cant-talk-purely-audio-ASMR-by-voice-actor-in-Spongebobs-voice) |
+| [Fandom](https://www.fark.com/fandom/) | ["Is Star Wars now a saga without a plan?" Uh, it ALWAYS WAS](https://www.fark.com/goto/13464996) ( [theguardian.com](https://www.fark.com/goto/13464996) ) » [(44 comments)](https://www.fark.com/comments/13464996/Is-Star-Wars-now-a-saga-without-a-plan-Uh-it-ALWAYS-WAS) |
+| [D'awww](https://www.fark.com/dawww/) | [A nonprofit owner is putting her own spin on the trap, neuter, return routine for stray cats by changing the "R" for "Return" to an "A" for "Adopt." Welcome to Caturday](https://www.fark.com/goto/13463412) ( [butlereagle.com](https://www.fark.com/goto/13463412) ) » [(382 comments)](https://www.fark.com/comments/13463412/A-nonprofit-owner-is-putting-her-own-spin-on-trap-neuter-return-routine-for-stray-cats-by-changing-R-for-Return-to-an-A-for-Adopt-Welcome-to-Caturday) |
+| [Food](https://www.fark.com/food/) | [Now how will my children get their recommended dietary allowance (RDA) of lead and high sodium?](https://www.fark.com/goto/13465094) ( [theguardian.com](https://www.fark.com/goto/13465094) ) » [(6 comments)](https://www.fark.com/comments/13465094/Now-how-will-my-children-get-their-recommended-dietary-allowance-RDA-of-lead-high-sodium) |
+| [Politics](https://www.fark.com/politics/) | [Mexican Protestors create a border wall](https://www.fark.com/goto/13465142) ( [freightwaves.com](https://www.fark.com/goto/13465142) ) » [(9 comments)](https://www.fark.com/comments/13465142/Mexican-Protestors-create-a-border-wall) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +352,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 16 2024 08:43:35  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 16 2024 14:43:11  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
