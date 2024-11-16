@@ -31,6 +31,695 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La cortesía es indispensable en tiempos de apagones
+===================================================
+
+La cortesía al conducir, como evitar luces intensas y ceder el paso, es crucial para una movilidad segura y fluida, especialmente en tiempos de crisis.
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La cortesía al conducir, como ceder el paso o evitar luces intensas, es clave para una circulación fluida y respetuosa, especialmente en tiempos de crisis.](https://www.elcomercio.com/wp-content/uploads/2024/11/Peatones-cuidado.jpeg)
+
+Sin duda, los cortes de luz han afectado el ánimo de las personas. En las casas, en las calles, se nota que hay una alteración. Y no es algo casual ni gratuito. En realidad, la luz, sea natural o artificial, ha sido la gran compañera de la civilización. La oscuridad, en cambio, es el gran enemigo.
+
+En las conversaciones que se mantienen, muchos hablan del miedo que les da caminar por las calles por las noches en medio de los apagones. Y eso nos remite a un sentimiento atávico. Para eso debemos remitirnos a los **seres humanos primitivos**.
+
+El descubrimiento del fuego fue algo fundamental, no solamente porque sirvió para cocinar el alimento y ayudó a la evolución de la especie. Hay algo más profundo, más espiritual.
+
+> Hay que imaginarse cómo era la vida antes de que supieran que el fuego también los iluminaba por la noche. Seguramente eran horas de horror hasta que volviera la luz del sol. Por eso, el sol y la luna fueron los primeros dioses, porque permitían vivir con algo de conocimiento.
+
+Quizá eso explique estas dos formas de ser durante esta crisis energética. Por una parte, la solidaridad entre los vecinos, que se han organizado para cuidarse, para ayudarse en momentos extremos. Pero también han repercutido negativamente y el individualismo aflora.
+
+Esta parte es más notoria en los vehículos que circulan por las ciudades. La **falta de consideración hacia los otros: el peatón, los otros conductores.** Por ejemplo, es cierto que es difícil manejar a oscuras, pero hay muchos que lo hacen con las luces intensas, lo que complica tanto a los que van delante como a los que vienen en sentido contrario.
+
+También ocurre que no se cede el paso para que alternadamente para que la circulación de los vehículos fluya y no nos convirtamos en un problema más entre los que ya vivimos los ecuatorianos. En ese sentido, la cortesía debe ser un valor a resaltar en tiempos de crisis.
+
+Chuletas de cerdo a la miel y ajo
+=================================
+
+Su capacidad para absorber sabores las hace ideales para marinar y acompañar con diferentes salsas. ¡Comparte esta receta con tus amigos!
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Esta receta fácil y deliciosa combina la jugosidad de la carne con el toque dulce y sabroso de la miel y el ajo, creando una explosión de sabor que encantará a todos.](https://www.elcomercio.com/wp-content/uploads/2024/11/1.jpg)
+
+Las **chuletas** de **cerdo** tienen una larga historia en la **cocina occidental**, siendo un alimento básico en muchas culturas. Su **popularidad** radica no solo en su sabor, sino también en su facilidad de preparación. Las **chuletas de cerdo** son un corte clásico en la **gastronomía** que se destaca por su versatilidad y sabor. Este **corte de carne** se puede **preparar de múltiples maneras,** desde a la parrilla hasta al horno, y se puede acompañar con una variedad de salsas que realzan su jugosidad y sabor. ¡Atrévete a probar algo nuevo en la cocina y disfruta de esta **receta llena de sabor**!
+
+Ingredientes
+------------
+
+4 chuletas de cerdo
+
+2 cucharadas de aceite de oliva
+
+4 dientes de ajo picados
+
+3 cucharadas de miel
+
+Sal y pimienta al gusto
+
+* * *
+
+> Una receta irresistible que destaca el sabor y la versatilidad de las chuletas de cerdo
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/3-1024x672.jpg)
+
+Las chuleta son ricas en proteínas y puede ser una opción más económica en comparación con otros tipos de carne.
+
+Preparación de las chuletas de cerdo a la miel y ajo
+----------------------------------------------------
+
+* **Sazonar** las chuletas con sal y pimienta por ambos lados.
+* **Calentar el aceite e**n una sartén grande, a fuego medio-alto.
+* **Colocar** las chuletas en la sartén caliente y cocinar durante 4-5 minutos por cada lado hasta que estén doradas.
+* **Reducir** el fuego a medio y añadir el ajo picado a la sartén. Cocinar por 1-2 minutos hasta que el ajo esté fragante.
+* **Agregar** la miel a la sartén y mezclar bien para cubrir las chuletas. Cocinar durante 2-3 minutos adicionales para caramelizar.
+* **Retirar** del fuego y dejar reposar un par de minutos antes de servir.
+
+¿Con qué puedes acompañar las chuletas de cerdo a la miel y ajo?
+----------------------------------------------------------------
+
+Puedes acompañarlas con guarniciones que equilibren su sabor dulce y salado.
+
+* Las **papas al horno** o un puré cremoso de papas son opciones clásicas que complementan bien el plato, aportando una textura suave que contrasta con la carne.
+* Las **verduras asadas,** como zanahorias, espárragos o calabacín, también son una excelente elección, ya que añaden frescura y un toque de color.
+* Para un toque extra de frescura, una **ensalada de hojas verdes con vinagreta** de limón resulta ideal, ya que equilibra la dulzura de la miel con un punto de acidez.
+* Además, puedes **añadir arroz o quinua** como acompañamientos ligeros y nutritivos, aportando un sabor terroso y una textura interesante.
+
+Salsas para acompañar a las chuletas de cerdo
+---------------------------------------------
+
+* **Salsa Chimichurri,** esta salsa argentina, hecha a base de perejil, ajo, vinagre y aceite, aporta un sabor fresco y herbáceo que complementa perfectamente la carne a la parrilla.
+* **Salsa BBQ**, la salsa barbacoa es una opción popular, especialmente en preparaciones a la parrilla. Puedes optar por versiones comerciales o hacerla en casa con ingredientes como tomate, miel y especias.
+* **Salsa de Champiñones**, una salsa cremosa hecha con champiñones salteados, ideal para añadir un sabor terroso a las chuletas.[](https://www.recetasnestle.com.ec/escuela-sabor/coccion-tecnicasalsas-para-carne)
+* **Salsa** a **base de frutas**, como la manzana o la de mango, añaden un toque dulce que contrasta muy bien con la salinidad de la carne.
+* La s**alsa de naranja,** ya sea en forma de glaseado o como parte de una marinada, proporciona un sabor cítrico que realza las chuletas.
+* La piña también es excelente para salsas. Puedes hacer una **salsa agridulce** utilizando piña fresca, lo que añade un contraste delicioso.
+
+¡Prepárate para disfrutar en casa de esta irresistible receta fácil y llena de sabor!
+
+La cruda realidad revelada por los apagones
+===========================================
+
+Los apagones han revelado los efectos del cambio climático, la inacción del gobierno, la viveza criolla y salvajismo de algunos ciudadanos, pero sobre todo la resiliencia y ganas de trabajar de la mayoría de los ecuatorianos.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Marco E. Benalcázar, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-E.-Benalcazar.jpg)
+
+Desde septiembre de 2024 los ecuatorianos soportamos **cortes de energía eléctrica** que afectan duramente a nuestra vida y **productividad**. Se estima que, en Ecuador, por cada hora de apagón, **se pierde entre 12 y 20 millones de dólares**. Frente a esta dura realidad, múltiples han sido los análisis y propuestas de solución que se han planteado desde diferentes sectores; sin embargo, el problema y sus consecuencias parecen estar bastante **lejos de encontrar una solución definitiva**. En este artículo vamos a analizar algunos aspectos que los **apagones** han desvelado en varios sectores del Ecuador.
+
+En los últimos años, Ecuador, al igual que múltiples regiones del mundo, está experimentando una de las **peores sequías** en más de una mitad de siglo. Eso ha provocado una reducción muy significativa de los **embalses** de nuestras **hidroeléctricas**, afectando de manera crítica su capacidad de generación de energía eléctrica. A este problema hay que sumar nuestra escasa disponibilidad de generación eléctrica a partir de **fuentes no hídricas**. Los apagones han desvelado que **el cambio climático es real** y que puede afectar de manera muy profunda a nuestras vidas.  
+
+Ahora vamos al ejecutivo. Tenemos un Gobierno que lleva casi **un año en funciones** y que, desde antes de su posesión, conocía de la **grave** **crisis energética** que veníamos enfrentando. Recordemos que el año pasado, al final de la gestión de Guillermo Lasso, ya tuvimos **cortes de energía eléctrica**. La pregunta que surge es ¿Qué medidas implementó el gobierno de Noboa para atenuar esta crisis energética? Los hechos nos muestran que **hicieron poco**, o si hicieron mucho no **ha surtido efecto**: ¡hemos tenido hasta 14 horas de cortes de electricidad por día! Los apagones han desvelado que tenemos, por decirlo cortésmente, **un gobierno poco efectivo**.
+
+Por el **Ministerio de Energía y Minas**, desde la posesión de Daniel Noboa, han pasado 4 titulares, 2 de los cuales han sido ministros encargados. La magnitud del **problema energético** exigía una estrategia sólida desde el inicio de la gestión de Noboa, con un **comité especial** liderado por el Presidente para **enfrentar la crisis de forma proactiva**. Desafortunadamente, el gobierno actual, al igual que los últimos gobiernos, ha tenido principalmente una **actitud reactiva** frente a este grave problema, y la **empatía** que ha declarado tener no nos sirve para mucho. ¡Qué tal si la empatía del gobierno se traduce en que sus funcionarios padezcan de los cortes de electricidad! A lo mejor así esa empatía se traduce en **acciones**, que es lo que ahora demandamos todos los ecuatorianos. Los apagones han desvelado que el gobierno tiene **una empatía que no se traduce en acciones**.
+
+Por su parte, los **ciudadanos** hemos tenido que encontrar formas muy creativas para enfrentar los apagones: desde volver a épocas arcaicas donde se usaban **velas** hasta adquirir **sistemas de almacenamiento y generación de energía eléctrica**. Aparte de la crisis, los ciudadanos también hemos tenido que enfrentar fuertes **especulaciones** en los precios de estos productos a la vista y paciencia de las **autoridades de control**. Ojalá que las ganas de trabajar de los funcionarios de control no se hayan ido, al igual que ha pasado con la energía eléctrica. Para muestra basta un botón, **lámparas led con baterías**, que antes de la crisis energética costaban 5 dólares, se han llegado a vender por hasta 30 dólares. Los apagones han desvelado la **viveza criolla** de algunos ecuatorianos.
+
+Al final de los meses donde hemos tenido los cortes de energía, las **facturas** de los servicios de **internet y telefonía móvil** se mantienen igual que antes de la crisis energética. Esto ha ocurrido a pesar de que muchas compañías de telecomunicaciones **no han prestado un servicio completo y adecuado**. Adicionalmente, cuando los ciudadanos llaman para **reclamar por el mal servicio** o **cancelar sus suscripciones**, muchas compañías no responden, o si lo hacen, dilatan demasiado los cierres de contrato. Nuevamente, es muy poco lo que las autoridades de control han realizado. Ojalá la promesa de que las empresas de telefonía móvil darán **compensaciones** por el mal servicio prestado durante los apagones se haga realidad. Los apagones han desvelado que **el que pierde casi siempre es el cliente**.
+
+Salir a la calle a pie, en bicicleta, o en vehículo durante los apagones se ha convertido en toda una **experiencia extrema**. En las intersecciones donde **los semáforos no funcionan** por los cortes de energía, el que logra avanzar es el más avezado o el que tiene el vehículo más grande. En algunas intersecciones **agentes de tránsito** intentan poner cierto orden, pero la **prisa**, **poca paciencia** y sobre todo la **incivilidad** de algunos terminan venciendo. Los apagones han desvelado los **salvajes** y **desordenados** que pueden llegar a ser algunos compatriotas.
+
+Finalmente, los apagones también han mostrado que **la gran mayoría de los ecuatorianos queremos trabajar** y que por ello estamos dispuestos a hacer grandes esfuerzos. Ojalá estas ganas se vean respaldadas por **acciones concretas y efectivas** por parte de nuestras autoridades. Compatriotas, no desmayemos y **sigamos trabajando fuerte** para sacar a este país adelante. Después de todo, los apagones también han puesto en evidencia el **esfuerzo** y la **resiliencia** del ecuatoriano promedio, dispuesto a superar cualquier adversidad para seguir adelante.
+
+Acerca del XV encuentro empresarial Iberoamericano: Reflexiones y desafíos para una Iberoamérica sostenible y justa
+===================================================================================================================
+
+La inversión florece en un ambiente de confianza y estabilidad jurídica.
+------------------------------------------------------------------------
+
+![Ernesto Kruger, columnista de EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Ernesto-Kruger.jpg)
+
+En el XV **Encuentro Empresarial Iberoamericano en Cuenca**, se ha dejado claro que los **desafíos actuales** exigen una **visión crítica** y transformadora. Reflexionemos juntos sobre los **puntos cruciales** que se discutieron y la responsabilidad que tenemos los **empresarios** en su implementación.
+
+Formación y empleabilidad para la juventud: El compromiso con el futuro
+-----------------------------------------------------------------------
+
+La **formación de la juventud** es fundamental para asegurar una **empleabilidad** genuina. No se trata solo de capacitar, sino de entender que la **educación dual** – que combina teoría y práctica – es el camino más efectivo para preparar a los **jóvenes** para el **mercado laboral** real. Como empresarios, debemos involucrarnos, **ofrecer oportunidades**, y abrir las puertas de nuestras empresas para que los jóvenes puedan experimentar y aprender.
+
+La digitalización y la ética en la inteligencia artificial
+----------------------------------------------------------
+
+La **digitalización** y el **uso de la Inteligencia Artificial** (IA) son herramientas poderosas, pero también demandan un **marco ético claro.** La IA puede dotarnos de “superpoderes”, pero su uso debe estar enmarcado en un respeto absoluto por los **principios éticos**. La ética de la IA no es opcional; es la piedra angular para construir un **entorno digital** que respete los **derechos** y la privacidad de las personas. El reto está en no solo usar la **tecnología**, sino también en crear una **cultura digital, ética y responsable**.
+
+Crecimiento sin inclusión: Un riesgo para todos
+-----------------------------------------------
+
+Crecer sin incluir es una fórmula que en algún punto se desgasta y quiebra. Si las empresas no incluyen a todas las personas en su **crecimiento**, no solo creamos **desigualdad**, sino que también debilitamos la estructura misma de la **sociedad** en la que operamos. El **crecimiento** debe ser inclusivo y debe abrir **caminos** para que todos, especialmente los menos favorecidos, tengan un lugar en esta **prosperidad compartida.**
+
+La sostenibilidad como eje de nuevas oportunidades
+--------------------------------------------------
+
+La **sostenibilidad** no es solo una meta, sino un **catalizador** de **negocios innovadores**. Hoy en día, muchas empresas están alineando su estrategia con **modelos sostenibles**. La **sostenibilidad** es una fuente de **oportunidades** para los jóvenes y de **innovación** para los **emprendedores**. Tenemos el potencial de **transformar sectores** enteros si enfocamos nuestra **creatividad** y recursos en crear **modelos sostenibles**.
+
+Agua y energía: Elementos fundamentales para la sostenibilidad
+--------------------------------------------------------------
+
+La **crisis del agua** y la **energía** exige una acción **proactiva**. Las **tecnologías** como los desalinizadores de agua de mar y la **conversión** de **residuos en bioenergía** nos muestran el camino. Implementar sistemas de **energía solar**, optimizar la distribución de **energía** en líneas de baja y media tensión, y aprovechar los **residuos agroindustriales**, como el bagazo de caña, son algunos de los ejemplos que podríamos aplicar en nuestra región.
+
+La importancia de los empresarios: Escuchar y aportar al bien común
+-------------------------------------------------------------------
+
+No pretendemos “mandar”, pero sí queremos que se nos escuche. La relación entre lo **público** y lo **privado** debe estar basada en el respeto mutuo. Nos oponemos al **populismo** porque sabemos que la **inversión**, para ser **estable y efectiva**, necesita reglas claras, **seguridad jurídica** y organismos de Estado **sólidos** y **confiables**. Solo así, lograremos que los **proyectos empresariales** contribuyan genuinamente al desarrollo de nuestros países.
+
+Invertir en confianza y estabilidad
+-----------------------------------
+
+La **inversión** florece en un **ambiente de confianza y estabilidad jurídica**. Las empresas necesitan normas de **calidad y marcos regulatorios** sólidos. Esta estabilidad no solo atrae capital, sino que permite una planificación a largo plazo que impacta positivamente en el **desarrollo de las comunidades**.
+
+El XV Encuentro Empresarial Iberoamericano nos hizo acuerdo que la **unión y el compromiso** son los motores para construir una **Iberoamérica** más justa, **innovadora y sostenible**. Ahora, es momento de pasar de la reflexión a la acción, trabajando desde nuestras trincheras para generar cambios que beneficien a todos. Ojalá **Ecuador** entienda que estamos en un **marco global** y que debemos tener en nuestra agenda estos temas que son mandatorios para progresar.
+
+Capítulo triste y sucio de la política
+======================================
+
+La corrupción y abusos de poder que debilitan la democracia en Ecuador.
+-----------------------------------------------------------------------
+
+![Lolo Echeverría, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Lolo-Echeverria-1.jpg)
+
+Los **políticos** son despreciados en casi todos los **países democráticos**, a pesar de que son las mismas **sociedades** las que fabrican esos especímenes cuando toleran toda clase de fechorías. El país ha sido escandalizado esta semana con **tres noticias** que delatan la **audacia** de los **políticos** y la cobardía de las **élites** y los **ciudadanos**.
+
+Los chats de Villavicencio descubrieron lo que ya se sabía: que la **política** y cierto **periodismo** se mueven en un **ambiente sórdido**, infestado de intereses, **chantajes**, **pasiones** y **traiciones**. Es igualmente ingenuo dar todo por cierto como dar todo por falso. No se trata de descubrir la verdad, sino de hacer agua lodo para ocultar a los **malvados**.
+
+Es triste y sucia la **destitución** de la **Vicepresidente** de la **República** mediante **ridícula sanción** que le priva de sus **atribuciones** y **remuneraciones** por el tiempo que queda de **campaña electoral**. Dos ministras que parecen **inteligentes** y correctas se han sometido a los caprichos de un mal jefe para conservar el cargo. ¿Basta vender el temor a supuestos peligros para burlar la **Constitución**?
+
+También es triste y oscura la **descalificación** de un **candidato** en el **Tribunal** de lo **Contencioso** **Electoral**. **Jueces** mediocres que imponen fallos diferentes para los mismos **delitos** empañan la **transparencia** del **proceso electoral** y ponen en peligro la **continuidad democrática** en Ecuador.
+
+Es inevitable el recuerdo de Ortega y Maduro, uno puso en la **cárcel** a sus **competidores**, el otro hizo descalificar a sus contrincantes para **ganar las elecciones**. Se multiplican los **mandatarios** que siguen ese ejemplo al ver que no tiene **consecuencias**. La fórmula es imponer **caprichos personales** y hacer pasar por actos de **gobierno**.
+
+La única explicación para tolerar los abusos es el miedo al retorno de los **condenados**. Socapar el **autoritarismo** es la peor cobardía porque destruye las **instituciones** y conduce a una **democracia falsa** que sobrepasa todos los límites, dejando solo como fachada un **Parlamento** inútil y una **justicia servicial**.
+
+Estudio identifica 11 estrategias para reducir homicidios en Latinoamérica ¿Funcionan o no?
+===========================================================================================
+
+El continente americano posee la mayor tasa de homicidios por cada 100 mil habitantes del planeta:15, muy por encima del promedio global, que es de 5,8. Este problema se concentra en América Latina y el Caribe. Mientras la tasa de homicidios en América del Norte es de 6,3, en Latinoamérica y el Caribe es de \[…\]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![El continente americano posee la mayor tasa de homicidios por cada 100 mil habitantes del planeta. Foto: Pexels](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-53-1.jpg)
+
+El continente americano posee la mayor tasa de homicidios por cada 100 mil habitantes del planeta:15, muy por encima del promedio global, que es de 5,8. Este problema se concentra en América Latina y el Caribe. Mientras la tasa de homicidios en América del Norte es de 6,3, en Latinoamérica y el Caribe es de 19,9, en 2023, según la Oficina de las NN.UU. contra la Droga y el Delito (Unodc).
+
+Más allá de la incidencia, la violencia letal tiene características similares en la región, como una alta utilización de armas de fuego, de víctimas jóvenes y de sexo masculino. Con este contexto, el estudio: **¿Qué funciona para reducir homicidios en América Latina y el Caribe? Una revisión sistemática de las evaluaciones de impacto**, identificó y analizó 11 estrategias para abordar esta problemática.
+
+Los investigadores del Laboratorio de la Violencia, de la [U. del Estado de Río de Janeiro (Brasil)](https://www.uerj.br/ "https://www.uerj.br/") ofrecen un enfoque crítico y basado en evidencia sobre lo que funciona en la prevención y reducción de homicidios.
+
+Más temas
+---------
+
+* [El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador](https://www.elcomercio.com/actualidad/seguridad/uso-legitimo-fuerza-policia-intensifico-2024-ecuador.html "El uso legítimo de la fuerza policial se intensificó este 2024 en Ecuador")
+* [Manta fortalece su seguridad con apoyo de la ciudadanía](https://www.elcomercio.com/actualidad/ecuador/manta-fortalece-seguridad-apoyo-ciudadania.html "Manta fortalece su seguridad con apoyo de la ciudadanía")
+
+El estudio resulta interesante para Ecuador tomando en cuenta el nivel de violencia que afronta. Entre enero y septiembre de este 2024, el país registra 4 845 homicidios intencionales, según el Ministerio del Interior. Esto significa que la tasa de homicidios es de 28,6 por cada 100 mil habitantes, superior a la media regional. Al comparar con igual periodo del 2023 hay una caída de 1 030 muertes violentas.
+
+Si se analizan las cifras de las provincias ecuatorianas con mayor criminalidad, la situación es más preocupante. Guayas lidera la estadística por número de homicidios: 2 227, en los nueve meses de análisis; 550 muertes menos que lo registrado en 2023. Tomando en cuenta que su población es de 4,39 millones de habitantes, hay 50,7 crímenes por cada 100 mil personas.
+
+Manabí, con 1,6 millones de habitantes, es la segunda provincia con más homicidios intencionales: 617. Esto significa una media de 38,7 muertes por 100 mil personas. En el caso de Los Ríos se agrava más, pues en esta localidad no llegan al millón de personas. Entre enero y septiembre se registran 591 víctimas. Su tasa escala a 66,4.
+
+Frente a esto resalta la urgencia de implementar estrategias efectivas y adaptadas a la realidad ecuatoriana. Los homicidios, según el informe, se deben evitar con políticas basadas en evidencia científica, es decir, con programas formulados a partir de información disponible sobre lo que funciona y lo que no, reduciendo la influencia de sesgos ideológicos, intereses corporativos y opiniones subjetivas.
+
+Metodología del estudio
+-----------------------
+
+La revisión sistemática analizó 65 evaluaciones de programas de reducción de homicidios, provenientes principalmente de Brasil, Colombia y México. Se establecieron tres criterios para incluir las evaluaciones: la medición del impacto en la tasa de homicidios, la consideración de programas específicos. También se incluyó el uso de diseños experimentales o cuasiexperimentales. El objetivo es que aseguraran rigor y validez interna. Las evaluaciones abarcaron 39 programas clasificados en 23 tipos de intervención, agrupados en **11 estrategias**. Varias de estas medidas que se detallan a continuación se aplican en Ecuador. Pero la reducción de muertes violentas aún no es significativa.
+
+Las estrategias que funcionan
+-----------------------------
+
+* **Control de armas de fuego:** La limitación al porte de armas arrojaron resultados positivos para clasificarlo como un tipo de intervención que, aparentemente, funciona, de acuerdo con seis evaluaciones realizadas.
+* **Control del consumo o venta de alcohol:** Restricciones en la venta de alcohol para reducir la violencia asociada al consumo. Los estudios realizados en Sao Paulo mostraron una reducción de los homicidios asociada a la restricción a la venta de alcohol. Aunque no siempre en todos los municipios. En Cali y Bogotá (Colombia), los horarios más restrictivos presentaban una caída más intensa de la violencia letal en comparación con los más laxos.
+* **Intervenciones policiales.** El patrullaje policial en áreas de alta incidencia de homicidios funciona, según cinco evaluaciones realizadas.
+
+Estrategias promisorias
+-----------------------
+
+* **Control de armas de fuego.** La limitación a la posesión de armas fue calificado como promisor. Gran parte de las evaluaciones se realizaron en el estado de Sao Paulo, Brasil.
+* **Intervenciones policiales.** Las estrategias generales de patrullaje policial; mejora en la investigación de homicidios y en los sistemas de información criminales son estrategias promisorias.
+* **Prevención de la violencia de género:** Contar con leyes contra la violencia de género o el feminicidio tiene resultados positivos. Un ejemplo de esto es la denominada Ley Maria da Penha, que se enfoca en la violencia doméstica y familiar contra la mujer.
+* **Justicia criminal.** Se evaluó un programa focalizado en Pelotas, Brasil, el cual amenazaba a los jefes de grupos criminales encarcelados con restricciones de beneficios carcelarios o transferencias penitenciarias, como medida de presión, si sucedían homicidios atribuidos a miembros de estos grupos fuera de la prisión. La evaluación encontró que tal programa redujo los homicidios en la ciudad, aunque existe la posibilidad de que parte de esta reducción se deba a regresión a la media, pues la medida fue tomada después de un pico de homicidios.
+* **Integración de la prevención social y policial.** Se analizaron cinco programas que llevaron a cabo prevención social o situacional en conjunto con intervenciones policiales, ambas focalizadas en pequeños territorios con altos niveles de homicidios. Las evaluaciones muestran algunos impactos en la reducción de homicidios o menos caída de la tendencia.
+
+Estrategias sin resultados concluyentes
+---------------------------------------
+
+* **Prevención de la violencia de género:** Tras el análisis de casos brasileños se concluyó que la creación de comisarías reducía homicidios, pero tras la entrada en vigor de la ley. La otra se vio resultados solo con relación a mujeres más jóvenes y urbanas, pero no con el resto.
+* **Prevención situacional.** Se evaluaron iniciativas municipales de Medellín (Colombia), Caracas (Venezuela) y Belo Horizonte (Brasil), que contemplan la recuperación de espacios urbanos. Los resultados fueron contradictorios, por lo que no se llegó a una conclusión sobre si funciona o no.
+* **Justicia criminal.** El proceso penal acusatorio, el encarcelamiento y endurecimiento penitenciario más otras intervenciones no tienen resultados concluyentes.
+* **Municipalización de la seguridad pública.** Se evaluaron tres estrategias: la creación de guardias municipales, de secretarías municipales de seguridad y de canales de denuncia anónima. En el primera caso se encontró que mientras más tiempo tienen estos guardias en un municipio pequeño se acaba teniendo menor tasa de homicidios. Pero no se logró llegar a nada concluyente. Sobre las secretarías municipales hace falta más evidencia sobre las medidas que toman tras su creación. De igual manera ocurre con los canales de denuncia.
+
+Estas estrategias no funcionan
+------------------------------
+
+* **Control de armas de fuego.** Iniciativas para bajar el volumen de armas de fuego mediante un incentivo pecuniario o de otra naturaleza para quienes se deshagan no funcionan. Dos evaluaciones se realizaron al Programa Nacional de Entrega de Armas en Argentina y otros dos análisis en Río de Janeiro y Paraná (Brasil). Esto fue clasificado sin impacto, al menos en el corto plazo.
+* **Prevención social.** Se analizaron programas que abordan las causas estructurales de la violencia, como la pobreza y la exclusión social. Se evaluaron las estrategias: Colectivos en Cali; los programas nacionales de prevención del delito de México (Pronapred) y Pronasci, de Brasil. En ninguno se constató efectos de reducción de homicidios y algunos registraron el escenario contrario: la implantación de los programas estaba asociada a un aumento de la violencia letal.
+
+Estrategias calificadas como contraproducentes
+----------------------------------------------
+
+* **Militarización de la seguridad pública.** La integración de militares en patrullajes y control del delito. El Plan Fortaleza, en Cali, que desplegó a militares en locales de alta incidencia. La evaluación mostró más homicidios en áreas contiguas a las que los uniformados estuvieron presentes. En México, en cambio, se reveló un aumento de 10 homicidios por 100 mil habitantes, en donde actuaron militares.
+* La eliminación o incapacitación de líderes o cabecillas para la desarticulación de organizaciones criminales. Esto se realizó en México, durante el gobierno de Felipe Calderón. Se identificaron dos evaluaciones del descabezamiento de grupos criminales. Ambas revelaron aumentos de los homicidios luego de la muerte o prisión de los jefes de grupos criminales, tanto en los estados en los que sucedían esas muertes o prisiones, sobre todo, en el estado de origen de esos líderes. Esto estaría relacionado a la lucha por el poder resultante de la neutralización de los jefes.
+
+Se requieren más evaluaciones
+-----------------------------
+
+El estudio concluye que, aunque algunos programas han mostrado resultados prometedores, la evidencia sobre su efectividad es aún limitada y varía según el contexto. Se destaca la necesidad de realizar más evaluaciones rigurosas y de adaptar las estrategias a las realidades locales. En particular, se subraya que un enfoque integral que combine diversas estrategias es más efectivo para abordar la violencia homicida.
+
+La lucha contra los homicidios en América Latina y, específicamente, en Ecuador requiere un enfoque multifacético y basado en evidencia. Las 11 estrategias identificadas ofrecen un marco para formular políticas más eficaces y ajustadas a la experiencia local, con el fin de reducir la violencia y mejorar la seguridad en la región.
+
+Cartas a Quito / 16 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este sábado 16 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Cuando la mediocridad apabulla la capacidad de asombro 
+-------------------------------------------------------
+
+ La capacidad de asombro de las personas consiste, generalmente, en sorprenderse por cosas nuevas y aprender de ello.   Los actos de otras personas sorprenden cuando, o son relevantes y positivos, o cuando son mediocres y negativos. Aquellos relevantes y positivos, nos motivan a aprender, los mediocres y negativos a rechazarlos.   
+
+La política ecuatoriana ha sufrido un deterioro estrepitoso en cuanto a la calidad de sus actores, pero el mayor cúmulo de la degradación se ha concentrado en la Asamblea Nacional. En esta institución, podemos decir, sin lugar a equivocarnos, que hay muy pocas excepciones con respecto a la calidad de mediocres.   
+
+Cuando actúan los mediocres, nos condenan a la triste realidad de presenciar actos, actitudes rechazables y, a escuchar barbaridad tras barbaridad. Muchos de ellos ni siquiera manejan el idioma adecuadamente, y pretenden escribir leyes, como los casos de “resolvido” o “descubrido”, por no mencionar un expresidente del Consejo de la Judicatura, hoy preso por varios casos de corrupción, que también dijo “rompido”.   
+
+Las sorpresas se producen tanto por actos admirables como por actos despreciables, en los admirables, se puede aprender, en los despreciables debemos aprender lo que no hay que hacer.   La fuente mayor de sorpresas, en la actualidad, es nada más y nada menos que la Asamblea Nacional. Lamento decir, que son en su mayoría despreciables. No es posible que se escoja, por parte de los partidos o sus líderes, como candidatos a la Asamblea a personas tan mediocres como la mayoría de miembros de esa institución.   
+
+Presenciar actuaciones de asambleístas que plantean juicios políticos sin tener los sustentos necesarios para culminar con la sanción al enjuiciado, habla muchos de la capacidad de razonamiento de esos asambleístas, ergo, su mediocridad. Otros asambleístas que sin empacho alguno, vociferando en mítines políticos, acusan de ladrones a mandatarios, actuales y pasados, sin concretar ni mostrar prueba alguna, y luego salen a decir que no le tienen miedo a los enjuiciamientos por calumnia, son otra de las barbaridades que nos toca presenciar.   
+
+No se trata de defender a nadie, se trata de atacar la mediocridad. Si se tiene autoridades mediocres, como lo son gran parte de los asambleístas, los resultados serán mediocres. Una Asamblea debe ser causa de asombros positivos, debe ser motivo de arrancar aplausos, y de generar admiraciones, pero, esta asamblea y las inmediatamente pasadas, apabullaron nuestra capacidad de asombro con sus actos totalmente mediocres y negativos.   
+
+José M. Jalil Haas 
+
+Vecinos de Quito frenan la construcción del intercambiador de la Occidental
+===========================================================================
+
+Los habitantes de San Vicente de Las Casas, sobre la Mariscal Sucre, fueron determinantes para posponer la construcción del intercambiador.
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Aquí debía construirse un intercambiador, que demoraría 270 días en terminarse. Ahora, deberá ser modificada.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-48-2.jpg)
+
+Faltaba solo un día para comenzar la construcción del intercambiador de la avenida Mariscal Sucre y avenida Mariana de Jesús. La obra debía iniciarse el viernes 15 de noviembre del 2024. Sin embargo, un día antes, la Empresa Pública Metropolitana de Movilidad y Obras Públicas (Epmmop) anunció que se suspendía temporalmente. Finalmente, fueron los vecinos de los barrios cercanos quienes frenaron el inicio de la construcción del intercambiador.
+
+### Más noticias
+
+* [Manifestantes y policías se enfrentaron durante marchas en Quito](https://www.elcomercio.com/actualidad/quito/manifestantes-policia-marcha-quito.html "Manifestantes y policías se enfrentaron durante marchas en Quito")
+* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+
+La posición de los vecinos fue fundamental
+------------------------------------------
+
+La Epmmop mantuvo algunas reuniones con los vecinos. En estas, alertaron sobre un problema que bien podría considerarse de diseño. La elaboración del paso deprimido que permitiría conectarse desde la Mariscal Sucre, en sentido norte, con la Mariana de Jesús, resultaba más bien un problema para los barrios sobre la Occidental.
+
+Tal como están las cosas, los vecinos de San Vicente de Las Casas o los estudiantes de la UTE, pues allí queda el campus, tienen una salida hacia la Occidental. Esto les permite tomar casi de inmediato la Occidental hacia el Norte o hacia el oriente por la Mariana de Jesús.
+
+El nuevo intercambiador de la Occidental, cuya construcción fue pospuesta, adelantaba el paso deprimido a la salida de San Vicente de Las Casas. Si quería tomar hacia el norte, debía seguir hacia el sur hasta la altura del Teleférico, para dar la vuelta y retomar la Occidental.
+
+Otra alternativa de desfogue era la calle Padre Damián, que es adoquinada, estrecha y, además, doble vía. Luego hay que tomar la Obispo Díaz de La Madrid, cruzar la avenida Mariscal Sucre (Occidental), seguir seis cuadras más hacia el oriente, tomar a la izquierda por la calle Juan Acevedo, para terminar en la Occidental y Mariana de Jesús.
+
+Lo que hasta el momento apenas les demoraba unos tres o cinco minutos, con este desvío demorarían entre 10 y 15 minutos, y aún más en las horas pico. Eso era algo que no querían aceptar. La posición de los vecinos fue fundamental para parar la obra.
+
+La Epmmop trabajará en una alternativa
+--------------------------------------
+
+Jorge Campoverde, gerente de Estudios y Fiscalización de la Epmmop contó a EL COMERCIO que valora la participación de la comunidad en la toma de decisiones. Y también que el paso deprimido hacia la Mariana de Jesús podría ser incompleta[.](https://es.wikipedia.org/wiki/Barrios_de_Quito "https://es.wikipedia.org/wiki/Barrios_de_Quito")
+
+Sin embargo, también dice que la obra es fundamental para Quito y que incluso la posición de los vecinos es la muestra de que hay aceptación por la obra, pero que debe ser mejorada.
+
+Para ello, ahora deben trazar una nueva hoja de ruta para replantear. Pero, al haberse suspendido la construcción apenas un día antes de la fecha planificado como el inicio, aún es temprano saber de tiempos y alternativas efectivas que hagan de este intercambiador útil para los que circulan por la avenida Mariscal Sucre y la Mariana de Jesús.
+
+Cortes de luz en Quito para este sábado 16 de noviembre
+=======================================================
+
+La Empresa Eléctrica Quito (EEQ) detalló el cronograma de cortes de luz por sectores para este sábado.
+------------------------------------------------------------------------------------------------------
+
+![Quito tendrá apagones de 12 horas este sábado](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-quito-apagones.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) detalló los horarios de **cortes de luz** que tendrá la ciudad este sábado 16 de noviembre de 2024.
+
+### Más noticias
+
+* [Colombia ya podrá vender energía a Ecuador](https://www.elcomercio.com/actualidad/ecuador/colombia-resolucion-energia-ecuador.html "Colombia ya podrá vender energía a Ecuador")
+* [Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/lluvias-napo-sucumbios-coca-codo.html "Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair")
+* [Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador](https://www.elcomercio.com/opinion/editorial/cuatro-puntos-crisis-electricidad-ecuador.html "Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador")
+
+Cortes de luz durarán 12 horas
+------------------------------
+
+Los apagones programados serán de **12 horas** para los sectores residenciales, al igual que en el resto de ciudades de Ecuador[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
+
+La suspensión del servicio eléctrico se realizará en **dos franjas horarias** de seis horas cada una, en la mañana-tarde y en la tarde-noche.
+
+Mientras que en los sectores industriales los apagones tendrán dos horarios, de **12:00 a 24:00** y de **17:00 a 24:00**.
+
+Esta situación corresponde, en gran parte, a la falta de lluvias considerables en la zona austral, donde se ubican tres de las centrales hidroeléctricas más importantes del país: **Paute, Mazar y Sopladora**.
+
+Nuevos cortes de luz en Quito para este sábado
+----------------------------------------------
+
+Conoce los horarios de cortes de luz para las **zonas residenciales** de Quito:
+
+### De 00:00 a 06:00 y de 12:00 a 18:00
+
+* Miraflores
+* Río Coca
+* Conocoto
+* Tumbaco
+* Cumbayá
+
+### De 00:00 a 06:00 y de 13:00 a 19:00
+
+* Luluncoto
+* Chilibulo
+* La Floresta
+* Cristianía
+* Eplicachima
+
+### De 07:00 a 13:00 y de 18:00 a 24:00
+
+* La Carolina
+* Nueva Cumbayá
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### De 07:00 a 13:00 y de 18:00 a 24:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Gualo
+* Inga Bajo
+
+### De 09:00 a 15:00 y de 18:00 a 24:00
+
+* Granda Centeno
+* Andalucía
+* Cotocollao
+
+### De 06:00 a 12:00 y de 16:00 a 22:00
+
+* Iñaquito
+* Sangolquí
+
+### De 04:00 a 10:00 y de 14:00 a 20:00
+
+* Barrionuevo
+* Santa Rosa
+* El Quinche
+
+### De 09:00 a 15:00 y de 18:00 a 24:00
+
+* Olímpico
+* San Antonio
+* Alangasí
+* Eugenio Espejo
+
+### De 09:00 a 15:00 y de 18:00 a 24:00
+
+* El Bosque
+* San Rafael
+* Pomasqui
+
+### De 02:00 a 08:00 y de 12:00 a 18:00
+
+* San Roque
+* Río Coca
+* Cotocollao
+* Conocoto
+* Santa Rosa
+* Inga Bajo
+
+### De 08:00 a 14:00 y de 18:00 a 24:00
+
+* Olímpico
+* Escuela Sucre
+* La Marín
+* Diez Vieja
+* San Pablo
+* Iñaquito
+* Tababela
+* Diez Nueva
+* Los Bancos
+* Pomasqui
+
+### De 06:00 a 12:00 y de 15:00 a 21:00
+
+* Miraflores
+* Granda Centeno
+* Andalucía
+* Cristianía
+* Cotocollao
+* Eplicachima
+* Conocoto
+* Carolina
+* San Rafael
+* Eugenio Espejo
+* Batán Alto
+
+Brayan Obando busca devolverle una Vuelta al Ecuador al país
+============================================================
+
+Brayan Obando del Team Movistar Best PC puede ser el primer ciclista nacional que gane la Vuelta al Ecuador después de dos años.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Brayan Obando del Team Movistar Best PC con el jersey amarillo al líder de la clasificación general.](https://www.elcomercio.com/wp-content/uploads/2024/11/1731726315205.jpg)
+
+La **Vuelta al Ecuador 2024** se encuentra en su recta final y una figura se perfila para ser el ganador del certamen ciclístico. Brayan Obando del **Team Movistar Best PC** se encuentra en la cima de la tabla general y puede ser el primer ecuatoriano en ganar el certamen tras dos años.
+
+Obando se puso el jersey amarillo de líder de la competencia desde el fin de la tercera etapa del evento ciclístico. La distinción y el máximo puesto dentro de la tabla general le llegó en el trayecto entre El Arenal y Alausí.
+
+### Más noticias:
+
+* [Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024](https://www.elcomercio.com/deportes/ciclismo/robinson-chalapud-bicampeon-vuelta-al-ecuador-gana-primera-etapa.html "Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024")
+* [Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/juan-carlos-cordova-vuelta-ecuador-2024.html "Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador")
+* [¿Cómo será la etapa 5 de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa-5-recorrido.html "¿Cómo será la etapa 5 de la Vuelta al Ecuador?")
+
+A partir de su obtención del **primer lugar del certamen**, este no lo ha soltado y lo mantuvo durante la etapa cuatro, en un circuito en Riobamba, y la quinta entre Urbina (Chimborazo) y Machachi (Pichincha). Al evento le restan dos fases en las cuales tiene el reto de mantener la posición[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador)
+
+A pesar de su liderato, la diferencia que guarda con sus perseguidores es estrecha, sin embargo, su equipo ha tenido una destacada actuación. Dentro de los **cinco primeros** de la clasificación, dos ciclistas más del Movistar Best PC lo acompañan.
+
+¿Cómo se encuentra Brayan Obando en la tabla de posiciones?
+-----------------------------------------------------------
+
+**Brayan Obando** acumula un tiempo de 16:52:07 horas en las cinco primeras etapas de la Vuelta al Ecuador. Como su escolta se encuentra el español Óscar Sevilla, quien suma la misma cantidad temporal de rodaje.
+
+Pese a que Obando se encuentra empatado con **Sevilla** en tal criterio, el componente diferenciador es la sumatoria de los lugares en los que estos han cruzado la meta durante la competencia. De tal forma, los resultados en aquel criterio son superiores para el ecuatoriano.
+
+En el tercer y cuarto lugar se encuentran **Richard Huera y Bayron Guamá**, sus compañeros de equipo. Con el primero, la distancia es de cuatro segundos y con el siguiente, de once segundos. Finalmente, **Nicolás Paredes** del Hino One La Red Suzuki de Guatemala es quien ocupa la quinta posición a 16 segundos.
+
+¿Un nuevo triunfo para un ciclista ecuatoriano?
+-----------------------------------------------
+
+El vigente campeón de la Vuelta al Ecuador es el colombiano **Robinson Chalapud**, quien corre para el Team Banco Guayaquil. Este no solo hizo con la competencia durante el 2023, sino que también consiguió el título en 2022.
+
+Antes de Chalapud, **Wilson Haro** -quien también está presente en la actual competencia- finalizó como ganador en 2021.
+
+**Óscar Sevilla**, quien también busca la Vuelta al Ecuador y es segundo en la clasificación, tiene la chance de hacerse con el certamen por segunda vez. El experimentado ciclista ganó el campeonato en el 2018.
+
+Djorkaeff Reasco, jugador de Barcelona SC, contrajo matrimonio
+==============================================================
+
+El mundialista de Catar 2022, Djorkaeff Reasco, celebra un gran momento personal en su vida.
+--------------------------------------------------------------------------------------------
+
+![Djorkaeff Reasco junto con su esposa Kerly Garlet Moreira.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T213020.331.jpg)
+
+**Djorkaeff** **Reasco**, delantero de Barcelona Sporting Club, compartió este viernes 15 de noviembre en sus redes sociales la noticia de su **matrimonio** con su novia de varios años, Kerly Garlet Moreira.
+
+En las imágenes, el jugador del ‘Ídolo’ aparece junto a su pareja en el Registro Civil y luego en una **ceremonia** **íntima**, acompañados de amigos y familiares.
+
+### Más noticias:
+
+* [Barcelona SC ganó con una aplastante goleada a Cumbayá](https://www.elcomercio.com/deportes/futbol/barcelona-gano-goleada-cumbaya.html "Barcelona SC ganó con una aplastante goleada a Cumbayá")
+* [Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo](https://www.elcomercio.com/deportes/futbol/chelsea-ecuador-celebran-cumpleanos-de-moises-caicedo.html "Chelsea y Ecuador celebran el cumpleaños de Moisés Caicedo")
+* [Uruguay venció a Colombia con gol de un ex Liga de Quito](https://www.elcomercio.com/deportes/uruguay-vencio-colombia-eliminatorias-liga-de-quito.html "Uruguay venció a Colombia con gol de un ex Liga de Quito")
+
+La pareja se había comprometido tiempo atrás, el 11 de diciembre de 2022, durante un paseo en globo aerostático en la mitad del mundo, y **casi dos años después, finalmente se dieron el “sí” en el altar.**
+
+Este 2024, Reasco también compartió en septiembre que **sería papá primerizo**, publicando una galería de imágenes junto a su ahora esposa, Kerly Garlet Moreira.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCadNMlvrds/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Kerly Galeth Moreira (@krgalethm)](https://www.instagram.com/p/DCadNMlvrds/?utm_source=ig_embed&utm_campaign=loading)
+
+La carrera de Djorkaeff Reasco
+------------------------------
+
+Djorkaeff Reasco es hijo de Néicer Reasco, exjugador histórico de **Liga de Quito**. Fue en este club donde Djorkaeff se formó y debutó profesionalmente.
+
+Su carrera comenzó en 2011, cuando a los 12 años se unió a las formativas de la ‘U’, y en 2016, con 17 años, debutó con el primer equipo. **Jugó en Liga de Quito hasta 2019,** pero ante la falta de oportunidades, fue cedido a Dorados de Sinaloa en la segunda división de México, donde anotó un gol en 14 partidos.
+
+Regresó al club capitalino en 2021, con 22 años, y vivió su mejor temporada, **anotando 8 goles en 24 partidos**. En total, jugó 38 encuentros con la camiseta del ‘Rey de Copas’ y marcó 10 goles, además de ganar tres títulos.
+
+Su siguiente parada fue en **Argentina**, jugando con **Newell’s Old Boys**, donde disputó 46 partidos y anotó 4 goles. Luego pasó por Instituto, donde jugó solo 3 encuentros.
+
+En 2024, Reasco regresó a Ecuador, pero no a Liga de Quito, sino a **Barcelona SC**, donde hasta el momento ha jugado 18 partidos y anotado un gol.
+
+También fue parte de la selección ecuatoriana, disputando 5 partidos y formando parte de la lista de **Gustavo Alfaro para el Mundial de Catar 2022**, donde jugó un encuentro.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+Colombia ya podrá vender energía a Ecuador
+==========================================
+
+El Gobierno de Colombia aprobó una resolución con la cual las exportaciones de energía a Ecuador se retoman.
+------------------------------------------------------------------------------------------------------------
+
+![Ecuador y Colombia retoman la compra y venta de energía eléctrica](https://www.elcomercio.com/wp-content/uploads/2024/11/energia-colombia-ecuador.jpg)
+
+El Ministerio de Minas y Energía de **Colombia** aprobó la resolución para retomar la **venta de energía eléctrica** a **Ecuador**. La medida fue suscrita este viernes 15 de noviembre de 2024.
+
+### Más noticias
+
+* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
+* [¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?](https://www.elcomercio.com/tendencias/ambiente/como-inciden-los-eventos-climaticos-en-la-sequia-de-ecuador-y-las-inundaciones-en-colombia.html "¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?")
+* [Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/lluvias-napo-sucumbios-coca-codo.html "Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair")
+
+Según detalla el documento oficial, las **exportaciones** de energía eléctrica a Ecuador se realizarán a partir de las siguientes **alternativas de generación**:
+
+* Plantas térmicas que operen con combustibles líquidos
+* Plantas térmicas despachadas centralmente
+* De cualquier planta del Sistema Interconectado Nacional (SIN)
+
+“Siempre que la alternativa elegida, no se requiera en el despacho económico para **cubrir la demanda** total doméstica o nacional”, aclara la documento[.](https://www.minenergia.gov.co/es/ "https://www.minenergia.gov.co/es/")
+
+Colombía retoma exportación de energía a Ecuador
+------------------------------------------------
+
+**Alejandro Castañeda**, presidente de la Asociación de Empresas Generadoras de Energía en Colombia, señaló que el gremio de generadoras privadas **no tuvo objeciones** y expresó su apoyo a la iniciativa gubernamental.
+
+La negociación energética entre ambos países se suspendió el 30 de septiembre de 2024, cuando el Gobierno colombiano finalizó temporalmente la venta por la sequía y el bajo nivel de sus embalses que enfrentaba.
+
+La reactivación de venta de la energía ahora es posible gracias a las **fuertes lluvias** registradas los últimos días en Colombia.
+
+Actualmente, el país vecino reporta lluvias **por encima del promedio** y esto ha permitido una recuperación rápida de sus embalses. Los excedentes se encuentran entre **1 000 a 1 500 MW diarios**, dijo Castañeda, durante una entrevista con Radio Quito.
+
+Fenómeno de La Niña
+-------------------
+
+Según cifras del Ministerio de Minas y Energía de Colombia, el país del norte registra un nivel de agua en los embalses de **61,64 %**, 6,28 puntos por debajo de la meta de finalización del periodo de invierno 2023-2024.
+
+Esta mejora se debe a las precipitaciones que cayeron en el territorio desde el 8 de noviembre, lo que mejoró los caudales, frente a una tendencia desfavorable que marcaba a inicios de junio de 2023.
+
+Colombia espera incrementar estas cifras durante los próximos meses con el fenómeno de **La Niña**.
+
+Colombia cuenta con una capacidad instalada de **20 500 megavatios** (MW). De los cuales el 69% proviene de **hidroeléctricas**, el 29% de **generación térmica** y el 2% de energía solar.
+
+La cartera de Estado podrá modificar la alternativa de generación a utilizar de considerar que el **SIN** requiere protección.
+
+Asimismo, el Ministerio tendrá la decisión de **suspender o reactivar** la exportación de energía a Ecuador.
+
+Uruguay venció a Colombia con gol de un ex Liga de Quito
+========================================================
+
+Uruguay, a pura garra, consiguió un triunfo importantísimo ante una de las mejores selecciones del continente.
+--------------------------------------------------------------------------------------------------------------
+
+![Rodrigo Aguirre marcó uno de los goles de Uruguay ante Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T203354.740.jpg)
+
+La **Selección de Uruguay** derrotó 3-2 a Colombia este viernes 15 de noviembre de 2024, en la undécima jornada de las eliminatorias sudamericanas. Uno de los goles lo marcó Rodrigo Aguirre, quien hace algunos años jugó en **Liga de Quito**.
+
+Con esta derrota, los cafeteros perdieron la oportunidad de igualar en puntos al líder de las eliminatorias, **Argentina**, y además cedieron su puesto de escolta a la ‘Celeste’.
+
+### Más noticias:
+
+* [Venezuela rescató un punto contra Brasil en las eliminatorias](https://www.elcomercio.com/deportes/futbol/venezuela-resultado-empate-brasil-eliminatorias.html "Venezuela rescató un punto contra Brasil en las eliminatorias")
+* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html "La Selección de Ecuador brilla en Guayaquil y golea a Bolivia")
+* [(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay](https://www.elcomercio.com/deportes/futbol/lionel-messi-recibio-un-botellazo-y-se-enfurecio-en-paraguay.html "(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay")
+
+**Uruguay se encuentra ahora en la segunda posición** con 19 puntos, igualado con Colombia, pero con mejor diferencia de goles. En la próxima fecha, los charrúas visitarán a Brasil, mientras que los **cafeteros recibirán a Ecuador.**
+
+Juanfer Quintero sacó la varita
+-------------------------------
+
+**Colombia** se mostró bien plantado desde el inicio y generó la primera oportunidad clara del partido. A los 11 minutos, **Jhon Durán**, delantero sensación del Aston Villa, conectó de cabeza, pero su remate salió apenas desviado del arco.
+
+La **primera gran ocasión de Uruguay llegó a los 25 minutos** con una destacada acción individual de Maxi Araujo. El extremo del Sporting de Portugal ingresó al área tras una gambeta, pero su disparo fue directo al cuerpo del guardameta Camilo Vargas.
+
+A la media hora, Colombia rompió el cero. **Juan Fernando Quintero,** quien se ganó un lugar en el once inicial en lugar de James Rodríguez, no defraudó. El volante ofensivo marcó un **golazo de tiro libre** con un potente remate desde el sector izquierdo, sorprendiendo a todos al disparar directamente al arco en lugar de centrar. Sergio Rochet no pudo evitar el 1-0 para los cafeteros.
+
+> 🤔🇨🇴 ¿GOLAZO O ERROR DE ARQUERO? ❌🧤  
+>   
+> 📌 Tras una falta fuera del área, Juan Fernando Quintero derribó el arco defendido por Sergio Rochet[#Uruguay](https://twitter.com/hashtag/Uruguay?src=hash&ref_src=twsrc%5Etfw) 0⃣-1⃣ [#Colombia](https://twitter.com/hashtag/Colombia?src=hash&ref_src=twsrc%5Etfw) [#EliminatoriasxECDF](https://twitter.com/hashtag/EliminatoriasxECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/QwY1XDwZy0](https://t.co/QwY1XDwZy0) [pic.twitter.com/F8wRSoAokA](https://t.co/F8wRSoAokA)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 16, 2024](https://twitter.com/ElCanalDFutbol/status/1857583336903839882?ref_src=twsrc%5Etfw)
+
+Tras la anotación, Uruguay perdió el orden, y **Colombia estuvo cerca de ampliar la ventaja** antes del descanso. Un potente disparo de media distancia de Richard Ríos fue detenido por Rochet, y en el rebote, con el arquero ya vencido, Jhon Durán no logró concretar.
+
+Uruguay intentó reaccionar antes del entretiempo. **Darwin Núñez** tuvo una oportunidad desde un tiro libre, pero Camilo Vargas se lució con una gran atajada para mantener la ventaja cafetera.
+
+Uruguay remontó el partido
+--------------------------
+
+En el complemento, **Uruguay mostró otra cara.** Con mayor intensidad y dinamismo, los dirigidos por Marcelo Bielsa buscaron generar peligro por las bandas, intentando romper la sólida defensa colombiana y revertir el marcador adverso.
+
+La insistencia de la ‘Celeste’ por las bandas finalmente dio sus frutos, y llegó el tan ansiado gol del empate.
+
+> 😱🇺🇾 ¡EMPATE CHARRÚA CON TOQUE CAFETERO! 🔥⚽️  
+>   
+> 📌 Tras un centro de Marcelo Saracchi, Davinson Sánchez mandó el balón al fondo de su propia puerta[#Uruguay](https://twitter.com/hashtag/Uruguay?src=hash&ref_src=twsrc%5Etfw) 1⃣-1⃣ [#Colombia](https://twitter.com/hashtag/Colombia?src=hash&ref_src=twsrc%5Etfw) [#EliminatoriasxECDF](https://twitter.com/hashtag/EliminatoriasxECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/QwY1XDwZy0](https://t.co/QwY1XDwZy0) [pic.twitter.com/xTAzRugv7U](https://t.co/xTAzRugv7U)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 16, 2024](https://twitter.com/ElCanalDFutbol/status/1857594756403974557?ref_src=twsrc%5Etfw)
+
+A los 56 minutos, Marcelo Saracchi intentó un centro al área, pero **Davinson Sánchez**, al intentar rechazar, **terminó enviando el balón al fondo de su propia portería**.
+
+La anotación fue un impulso para Uruguay, que tomó el control del partido. Tras una gran jugada colectiva, **Rodrigo Aguirre, exjugador de Liga de Quito**, marcó el gol de la remontada con un potente remate cruzado. El delantero, de 30 años, lo hizo en su debut con la selección.
+
+> 🤩🇺🇾 ¡NUNCA ES TARDE PARA CUMPLIR SUEÑOS! 🪄⚽️  
+>   
+> 📌 Tras una gran jugada colectiva, Rodrigo Aguirre (ex delantero de Liga de Quito) marcó un verdadero golazo[#Uruguay](https://twitter.com/hashtag/Uruguay?src=hash&ref_src=twsrc%5Etfw) 2⃣-1⃣ [#Colombia](https://twitter.com/hashtag/Colombia?src=hash&ref_src=twsrc%5Etfw) [#EliminatoriasxECDF](https://twitter.com/hashtag/EliminatoriasxECDF?src=hash&ref_src=twsrc%5Etfw) 📲 [https://t.co/QwY1XDwZy0](https://t.co/QwY1XDwZy0) [pic.twitter.com/vUzmgh0mn4](https://t.co/vUzmgh0mn4)
+> 
+> — ®El Canal del Fútbol 🇪🇨⚽ (@ElCanalDFutbol) [November 16, 2024](https://twitter.com/ElCanalDFutbol/status/1857596408871673860?ref_src=twsrc%5Etfw)
+
+En el tramo final del partido, Néstor Lorenzo, DT de Colombia, envió al campo a **James Rodríguez** en busca del empate. Sin embargo, la garra charrúa prevaleció, y los locales se quedaron con la victoria.
+
+Justo en el último minuto del partido, Colombia igualó el compromiso con anotación de Andrés Gómez, pero la alegría no duro mucho, porque en la siguiente jugada Uruguay retomó la ventaja con gol de Manuel Ugarte.
+
+No te pierdas nuestro especial de Halloween
+-------------------------------------------
+
+Manifestantes y policías se enfrentaron durante marchas en Quito
+================================================================
+
+Trabajadores, estudiantes y otras organizaciones sociales se movilizaron por las calles de Quito, la tarde de este viernes.
+---------------------------------------------------------------------------------------------------------------------------
+
+![Un manifestante enfrentando a un grupo de Policías durante las marchas de este viernes](https://www.elcomercio.com/wp-content/uploads/2024/11/quito-marcha-centro.jpg)
+
+**Organizaciones sociales** y sindicatos marcharon en las calles de **Quito** la tarde de este viernes 15 de noviembre de 2024. La movilización fue convocada para rechazar algunas de las medidas del **Gobierno**.
+
+### Más noticias
+
+* [Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios](https://www.elcomercio.com/actualidad/ecuador/alcalde-de-cuenca-declara-emergencia-como-un-grito-desesperado-ante-incendios.html "Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios")
+* [Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca")
+* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
+
+La marcha liderada por **estudiantes** y el Frente Unitario de Trabajadores (**FUT**) reunió a centenas de manifestantes, quienes exigieron con **pancartas y consignas** soluciones para la crisis energética, inseguridad y falta de empleo.
+
+La movilización se concentró en **dos puntos** del centro norte de la ciudad: a las 15:00, en los exteriores de la **Universidad Central** del Ecuador; y una hora después, en la Caja del Instituto Ecuatoriano de Seguridad Social (**IESS**), a la altura el parque El Ejido.
+
+El trayecto transcurrió con relativa normalidad hasta llegar a las calles **Chile y Guayaquil**, en el Centro Histórico.
+
+En este punto, pasadas las 17:00, un grupo que incluía a estudiantes, trabajadores, sindicalistas y comerciantes trató de derribar las vallas que rodeaban a la **Plaza Grande**.
+
+La situación se complicó a las 18:00, cuando los manifestantes elevaron el ambiente de la protesta con la **quema de llamas** y un nuevo intento de superar las barricadas coladas cerca a la **Plaza de Santo Domingo**.
+
+En las calles Bolívar y Guayaquil, la Policía respondió al **lanzamiento de piedras** con escudos, motocicletas y artefactos disuasivos, lo que llevó a un **enfrentamiento** entre los uniformados y los ciudadanos.
+
+El ECU 911 informó que las **personas aglomeradas** en la Plaza de Santo Domingo **se retiraron** y que las autoridades habilitaron las vías de alrededor pasadas las 19:30[.](https://en.wikipedia.org/wiki/Frente_Unitario_de_los_Trabajadores "https://en.wikipedia.org/wiki/Frente_Unitario_de_los_Trabajadores")
+
+Hasta el cierre de esta nota, la Policía Nacional ni ninguna organización social han confirmado si la movilización dejó **personas afectadas o detenidos**.
+
+Manifestaciones en Cuenca se cancelaron
+---------------------------------------
+
+El FUT, y otras organizaciones sindicales, tenían previsto movilizarse también en **Cuenca** este 15 de noviembre, con motivo de los 102 años de la **masacre** a trabajadores en Guayaquil y de la **Cumbre Iberoamericana** de presidentes que se realizó entre este jueves y viernes.
+
+Finalmente, los manifestantes desistieron y se congregaron, un reducido grupo de ellos, en la Plaza San Blas de la ciudad austral.
+
+Para el jueves 21 de noviembre se tiene prevista una **marcha nacional** de distintos sectores, entre ellos, **organizaciones indígenas**.
+
 John Yeboah regresó a la titularidad con Ecuador, ¿cómo jugó?
 =============================================================
 
@@ -353,753 +1042,3 @@ Los **educadores** han dedicado sus jornadas de educación en las comunidades m�
 Los **educadores comunitarios** son profesionales que trabajan con poblaciones que se encuentran en estado de vulnerabilidad, especialmente, con niños y jóvenes.
 
 Los docentes son principalmente integrantes de la comunidad, aunque no en todos los casos. Los profesionales realizan talleres, **proyectos** y, además, identifican necesidades de la población.
-
-Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair
-===========================================================
-
-El Inamhi prevé que las lluvias en Coca Codo Sinclair se extiendan hasta el domingo 17 de noviembre,
-----------------------------------------------------------------------------------------------------
-
-![Las lluvias benefician la productividad de Coca Codo Sinclair, sin embargo, la central no tiene embalses de almacenamiento](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvias-coca-codo-sinclair.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) detalló las condiciones del clima que tendrá la **Amazonía** entre este viernes 15 y domingo 17 de noviembre.
-
-### Más noticias
-
-* [Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro](https://www.elcomercio.com/actualidad/ecuador/inamhi-condiciones-clima-hidroelectricas-austro.html "Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro")
-* [Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/fuertes-lluvias-coca-codo-sinclair.html "Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair")
-* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
-
-La entidad confirmó que en el norte y centro de la región Oriental se esperan **lluvias leves y moderadas**; en algunas zonas puntuales, se prevén lluvias con **tormentas**.
-
-Para la tarde y noche de este viernes, por ejemplo, **Napo y Pastaza** son las provincias de la Amazonía donde mayores precipitaciones habrá[.](https://www.celec.gob.ec/cocacodo/informacion-tecnica/central-hidroelectrica-coca-codo-sinclair/ "https://www.celec.gob.ec/cocacodo/informacion-tecnica/central-hidroelectrica-coca-codo-sinclair/")
-
-Pronóstico del clima en la Amazonía de Ecuador
-----------------------------------------------
-
-Estas son las condiciones del clima pronosticadas por el Inamhi para este **viernes** por provincias:
-
-* **Sucumbíos:** cielos nublados en la tarde y lluvias leves en la noche; temperatura entre 20° C y 30° C.
-* **Napo:** lluvias moderadas en la tarde y noche; temperatura entre 21° C y 28° C.
-* **Orellana:** lluvias aisladas tarde y leves en la noche; temperatura entre 20° C y 30° C.
-* **Pastaza:** lluvias con **tormentas** en la tarde y lluvias aisladas en la noche: temperatura entre 18° C y 27° C.
-* **Morona Santiago:** cielos nublados en la tarde y lluvias aisladas en la noche; temperatura entre 17° C y 28° C.
-* **Zamora Chinchipe**: cielos nublados; temperatura entre 18° C y 31° C.
-
-> [#PronosticoNacionalEc](https://twitter.com/hashtag/PronosticoNacionalEc?src=hash&ref_src=twsrc%5Etfw) l Pronóstico del tiempo en varias localidades del Ecuador, se prevé precipitaciones en la región Amazónica⛈. Mientras que, al sur del país se prevé temperaturas diurna altas y condiciones favorables para la propagación de incendios forestales 🥵 [pic.twitter.com/8Z85laOb07](https://t.co/8Z85laOb07)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 15, 2024](https://twitter.com/inamhi_ec/status/1857256102104047687?ref_src=twsrc%5Etfw)
-
-Lluvias en las cercanías a Coca Codo Sinclair
----------------------------------------------
-
-Las lluvias previstas en Napo y Sucumbíos favorecerán este fin de semana las condiciones de la central más grande del país, **Coca Codo Sinclair**.
-
-La hidroeléctrica se ubica entre los cantones **El Chaco y Gonzalo Pizarro**.
-
-Estas precipitaciones se sumarán a las registradas en la zona durante la madrugada del jueves 14 y viernes 15 de noviembre.
-
-El último reporte de precipitaciones en la Amazonía del Inamhi, del jueves 14 de noviembre detalló que **Gonzalo Pizarro** fue el cantón que tuvo más lluvias, con **78,4 milímetros** por día.
-
-Los otros cantones fueron:
-
-* Jumandy, en Napo (71,3 mm)
-* Coca, en Orellana (37,2 mm)
-* Puyo, en Pastaza (37,2 mm)
-* Nuevo Rocafuerte, en Orellana (31,6 mm)
-* Nueva Loja, en Sucumbíos (22,6 mm)
-
-Un milímetro de precipitación equivale a un **litro de agua** por cada metro cuadrado.
-
-Zona austral no tendrá lluvias considerables
---------------------------------------------
-
-Hasta el domingo 17 de noviembre, la entidad alertó precipitaciones de niveles **medio, alto y muy alto** en la **Amazonía**.
-
-Sin embargo, no enfrentará una misma realidad el sur de la Sierra, donde se encuentran otras centrales grandes e importantes de Ecuador: **Mazar, Paute – Molino y Sopladora**.
-
-En la región austral existe una alerta meteorológica que registra **altas temperaturas** en la mañana, con condiciones favorables para el inicio y propagación de **incendios forestales**.
-
-La **falta de nubes** y por ende de lluvias en **Cañar, Azuay y Loja** se debe a la masa seca que atraviesa la atmósfera desde el Océano Pacífico, que causa altas radiaciones y cielos despejados, explicó el Inamhi.
-
-Verónica Abad tuvo una respuesta sobre su pedido de medidas cautelares
-======================================================================
-
-Jueza niega medidas cautelares a la Verónica Abad; audiencia por acción de protección será el 27 de noviembre.
---------------------------------------------------------------------------------------------------------------
-
-![Verónica Abad en una comparecencia en la Asamblea Nacional el pasado 13 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-26-1.jpg)
-
-La jueza **Nubia Vera Cedeño**, de la **Unidad de Familia en Quito**, resolvió negar el pedido de medidas cautelares solicitado por la vicepresidenta **Verónica Abad**.
-
-### Más noticias
-
-* [Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hijo-veronica-abad-autor-supuesto-trafico-influencias.html "Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito")
-* [Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad](https://www.elcomercio.com/actualidad/politica/impulsan-juicio-politico-contra-ministra-de-trabajo-por-suspension-veronica-abad.html "Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad")
-* [Asamblea aprobó una resolución sobre sanción a Verónica Abad](https://www.elcomercio.com/actualidad/politica/asamblea-conoce-pedido-veronica-abad.html "Asamblea aprobó una resolución sobre sanción a Verónica Abad")
-
-La resolución argumenta que no se comprobó la existencia de una **amenaza inminente** y grave que pudiera violar **derechos constitucionales**, requisito indispensable para aceptar este tipo de peticiones.
-
-En su decisión, la jueza señaló que la **solicitud presentada no cumplía con los parámetros establecidos** en la **Ley de Garantías Jurisdiccionales y Control Constitucional**. Además, convocó a una audiencia para tratar el fondo del recurso planteado, que se realizará el próximo **27 de noviembre a las 09:00** en la **Unidad Judicial ubicada al norte de Quito**.
-
-> La jueza de la Unidad de la Familia de Quito, Nubia Vera Cedeño, negó el pedido de medidas cautelares que hizo la vicepresidenta de la República, Verónica Abad Rojas, y fijó para el 27 de noviembre del 2024, la audiencia para tratar la acción de protección con la que busca evitar…
-> 
-> — Milenium Tvi (@mileniumtvi) [November 15, 2024](https://twitter.com/mileniumtvi/status/1857550915793825977?ref_src=twsrc%5Etfw)
-
-Contexto del caso y sanción impuesta
-------------------------------------
-
-La acción de protección ingresada por **Verónica Abad** busca detener la sanción impuesta por el Ministerio de Trabajo, que la suspende de sus funciones como Vicepresidenta por cinco meses sin remuneración.
-
-La sanción responde a un sumario administrativo iniciado en septiembre, luego de que Abad no cumpliera con el **traslado a Ankara (Turquía)** antes del 1 de septiembre, según lo dispuesto por un viceministro de la Cancillería.
-
-**Verónica Abad viajó a Turquía el 9 de septiembre**, justificando el retraso en entrevistas posteriores. Su traslado fue ordenado por el presidente **Daniel Noboa**, mediante decreto ejecutivo, debido a los conflictos armados en **Medio Oriente**. Este cambio de destino respondía a sus funciones como embajadora de Ecuador en Israel.
-
-Acciones futuras de la Vicepresidenta
--------------------------------------
-
-Verónica Abad anunció que **regresará al país** en los próximos días, ya que la sanción le impide ejercer sus funciones durante el período de suspensión.
-
-Sin embargo, espera que su acción de protección o la intervención de la **Corte Constitucional (CC)** pueda revertir la medida adoptada.
-
-La Vicepresidenta también presentó una **acción ante la CC** para obtener una interpretación constitucional sobre las atribuciones del presidente de la República en relación con el **ejercicio del cargo de Vicepresidencia**.
-
-Shany Nadan es una estrella multifacética que trasciende fronteras
-==================================================================
-
-Shany Nadan, actriz ecuatoriana, brilla como Manuela Sáenz en Netflix. También impulsa proyectos audiovisuales, moda y talleres de actuación.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![Shany Nadan, actriz ecuatoriana, reconocida por su papel en Bolívar de Netflix, inspira con su versatilidad en la actuación, moda y producción.](https://www.elcomercio.com/wp-content/uploads/2024/11/Shany-Nadan-actriz.jpg)
-
-La actriz ecuatoriana **Shany Nadan** es imparable. Reconocida por su papel de **Manuela Sáenz** en la serie [‘Bolívar de Netflix’](https://www.netflix.com/ec/title/80220422), deslumbra con su talento y versatilidad artística.
-
-Más noticias:
--------------
-
-* [Antonela Roccuzzo sorprende como portada de una icónica revista de moda](https://www.elcomercio.com/deportes/antonela-roccuzzo-sorprende-como-portada-iconica-revista-moda.html "Antonela Roccuzzo sorprende como portada de una icónica revista de moda")
-* [La guapa esposa de John Krasinski, el hombre más sexy del mundo, también es actriz](https://www.elcomercio.com/afull/john-krasinski-sexy-people.html "La guapa esposa de John Krasinski, el hombre más sexy del mundo, también es actriz")
-* [Más diseñadores internacionales se suman al ‘Quito Fashion Week’](https://www.elcomercio.com/tendencias/cintia-mosquera-zunilda-gutierrez-quito-fashion-week.html "Más diseñadores internacionales se suman al ‘Quito Fashion Week’")
-
-Después de consolidarse como actriz en Colombia y Ecuador, **Shany** se mueve entre la actuación, el diseño e, incluso, la producción.
-
-En 2024, desde Guayaquil, colidera a la **productora audiovisual Umami**, mientras explora nuevas facetas creativas como diseñadora a través de su marca de carteras Tinta Melón, elaboradas con materiales locales.
-
-Moda, cine y activismo
-----------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Shamy-683x1024.jpg)
-
-De melena castaña, ojos marrones y sonrisa generosa, Shany desprende naturalidad y elegancia. Sus más de mil publicaciones en Instagram, la muestran auténtica y cercana.
-
-Todo eso más, sus momentos cotidianos y reflexivos enamoran a los más de 200 000 seguidores que tiene en esa plataforma. Una de sus publicaciones destacadas alienta la inclusión de personas con síndrome de Down en el mundo artístico, lo que muestra el compromiso humano y solidario de la actriz.
-
-Nadan fue elegida imagen de **Herencia Latina**, una campaña de alta joyería que apoya la industria del cine y a artistas emergentes.
-
-Formación, enseñanza y teatro
------------------------------
-
-Shany no actúa en solitario, también enseña. Como tallerista y profesora de actuación, promueve cursos de marca personal y estrategias de comunicación.
-
-Acostumbrada a papeles más serios, brilló en el desafío de hacer comedia en la obra de teatro ‘Te quiero muñeca’
-
-Un futuro prometedor
---------------------
-
-Pronto podría regresar al cine con un papel en una coproducción ecuatoriana, italiana y colombiana en un proyecto que ya ha captado la atención de la región.
-
-Se trata de la historia del cacao ecuatoriano y es producida por **Daniela Creamer**, creadora del festival de cine y artes visuales **Guayafest**.
-
-En el proyecto trabajará junto a un elenco internacional que incluye a los actores Ornella Muti y Carlos Torres (**‘La reina del flow 1 y 2’**).
-
-Shany Nadan es una artista que lleva en alto el talento ecuatoriano. Su versatilidad y compromiso con las artes la consolidan como un referente creativo dentro y fuera del país.
-
-(Video) Cristiano Ronaldo anotó un golazo de chilena con Portugal
-=================================================================
-
-Cristiano Ronaldo sigue firme en su objetivo de llegar a los 1000 goles. El portugues logró su anotación 910.
--------------------------------------------------------------------------------------------------------------
-
-![Cristiano Ronaldo celebrando su gol de chilena con Portugal.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T174556.009.jpg)
-
-**Portugal** no tuvo piedad y goleó 5-1 a Polonia este viernes 15 de noviembre, por la Uefa **Nations League**. El conjunto luso avanzó a los cuartos de final como líder del Grupo A1. La gran figura fue el capitán **Cristiano Ronaldo**, quien deleitó a los espectadores con dos golazos.
-
-Una Polonia sin **Robert Lewandowsk**i partía en teoría como un rival accesible para **Portugal**, pero la pasividad se apoderó de los jugadores del español Roberto Martínez, carentes de creatividad en la primera mitad.
-
-### Más noticias:
-
-* [(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay](https://www.elcomercio.com/deportes/futbol/lionel-messi-recibio-un-botellazo-y-se-enfurecio-en-paraguay.html "(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay")
-* [Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-gol-908-champions-asia.html "Cristiano Ronaldo marcó su gol 908 jugando la Champions de Asia")
-* [Cristiano Ronaldo sumó un nuevo fracaso con el Al Nassr](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-sumo-nuevo-fracaso-con-al-nassr-arabia.html "Cristiano Ronaldo sumó un nuevo fracaso con el Al Nassr")
-
-Ante la atonía portuguesa, **Polonia** empezó a poner a prueba al guardameta Diogo Costa, primero con un cabezazo de Bereszynski y después con un disparo de Zalewski.
-
-Y el mayor sobresalto en Do Dragão (Oporto) llegó con un disparo de Krzysztof Piatek, que pasó a escasos milímetros del poste.
-
-En el lado opuesto, un enfadado Cristiano Ronaldo renunciaba a su posición de ataque para ayudar en la construcción ofensiva, pero **solo la velocidad de Rafael Leão permitió desequilibrar**, aunque sin llevar peligro a la meta polaca.
-
-Portugal necesitaba una inyección de energía, así que Martínez recurrió a **Vitinha**, cuya presencia en el centro del campo cambió por completo el juego de Portugal.
-
-Y en el minuto 59, el combinado portugués inauguró el marcador con un gol de Leão. El extremo recibió el balón en su propio campo, se lanzó hacia la portería y dio un pase en profundidad a Nuno Mendes, que luego le devolvió el balón para que el jugador del **AC Milan** hiciese de cabeza el primero.
-
-Cristiano Ronaldo, figura y gol de chilena incluido
----------------------------------------------------
-
-Portugal siguió presionando y, en el minuto 72, una jugada de ataque conducida por Pedro Neto acabó con **Cristiano Ronaldo** en el punto de penalti, desde donde hizo el 2-0.
-
-> ¡UN ESPECIALISTA EN LA MATERIA! CRISTIANO RONALDO NO FALLÓ Y PUSO EL 2-0 VS. POLONIA.  
->   
-> 📺 La UEFA [#NationsLeague](https://twitter.com/hashtag/NationsLeague?src=hash&ref_src=twsrc%5Etfw), por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/LqcevyHM7i](https://t.co/LqcevyHM7i)
-> 
-> — SportsCenter (@SC\_ESPN) [November 15, 2024](https://twitter.com/SC_ESPN/status/1857534393918582865?ref_src=twsrc%5Etfw)
-
-Con un pie en los cuartos de la Liga de Naciones, la selección portuguesa no bajó la intensidad y en el minuto 80 Bruno Fernandes marcó el tercero con un potente disparo y en el 83 Neto logró el cuarto a pase de **Cristiano**.
-
-Pero lo mejor estaba por llegar, cuando poco antes del pitido final, Vitinha encontró a Cristiano Ronaldo, que con una **chilena hizo la ‘manita’.**
-
-> ¡¡¡GOLAZO TOTAL DE CRISTIANO RONALDO DE CHILENA PARA EL 5-0 VS. POLONIA!!!  
->   
-> 📺 La UEFA [#NationsLeague](https://twitter.com/hashtag/NationsLeague?src=hash&ref_src=twsrc%5Etfw), por [#DisneyPlus](https://twitter.com/hashtag/DisneyPlus?src=hash&ref_src=twsrc%5Etfw) Premium [pic.twitter.com/Yy0zkhVZYC](https://t.co/Yy0zkhVZYC)
-> 
-> — SportsCenter (@SC\_ESPN) [November 15, 2024](https://twitter.com/SC_ESPN/status/1857538020569739742?ref_src=twsrc%5Etfw)
-
-El único impedimento para que la segunda parte de **Portugal** fuese perfecta fueron los errores defensivos en el único gol de Polonia, anotado por Marczuk.
-
-El combinado dirigido por Roberto Martínez pasa así a cuartos de final y asegura el liderato del Grupo A1.
-
-El próximo lunes jugará su último partido de la fase de grupos como visitante ante Croacia.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Colombia prohibió el matrimonio infantil
-========================================
-
-Colombia ocupa el puesto 20 a escala mundial en uniones de niñas y adolescentes antes de los 15 años.
------------------------------------------------------------------------------------------------------
-
-![Vista de la silueta de una niña, en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/nina-colombia-efe.jpg)
-
-El **Senado colombiano** aprobó el miércoles 15 de noviembre de 2024, en último debate un proyecto que **elimina el matrimonio infantil** y las **uniones tempranas**, con lo que se convertirá en ley una vez sea sancionado por el presidente [Gustavo Petro](https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html "https://www.elcomercio.com/actualidad/mundo/gustavo-petro-golpe-estado-cne-colombia.html").
-
-### Más noticias
-
-* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
-* [Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días](https://www.elcomercio.com/actualidad/negocios/venta-de-electricidad-de-colombia-a-ecuador-podria-concretarse-en-pocos-dias.html "Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días")
-* [¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?](https://www.elcomercio.com/tendencias/ambiente/como-inciden-los-eventos-climaticos-en-la-sequia-de-ecuador-y-las-inundaciones-en-colombia.html "¿Cómo inciden los eventos climáticos en la sequía de Ecuador y las lluvias en Colombia y Perú?")
-
-A la iniciativa, que se presentó por novena vez ante el Legislativo y que lleva por título ‘**Son niñas, no esposas**‘. Le resta la conciliación con el texto aprobado en la **Cámara de Representantes** antes de pasar a la sanción presidencial.
-
-Defensa de derechos de las menores de edad
-------------------------------------------
-
-El proyecto de ley, que sienta un precedente en la **defensa de los derechos de las menores de edad** y las mujeres del país, que por años fueron víctimas de esta forma de violencia, fue presentado por las representantes a la **Cámara Alexandra Vásquez** y **Jennifer Pedraza,** con ponencia positiva de la senadora Clara López.
-
-La iniciativa aprobada **“elimina del Código Civil el permiso de que niños y niñas mayores de 14 años se puedan casar con el consentimiento de los padres”**, señaló Vásquez, de la coalición oficialista Pacto Histórico.
-
-Enfoque preventivo
-------------------
-
-La congresista destacó además que “tiene un **enfoque preventivo y pedagógico** con la creación del programa nacional de atención integral a proyectos de vida para niños, niñas y adolescentes” mediante el establecimiento de **“políticas públicas** pensando en sus proyectos de vida”.
-
-Son niñas no esposas
---------------------
-
-“Celebro el apoyo del Senado al proyecto **‘Son niñas, no esposas’,** esta ley es crucial para proteger los derechos de niñas y adolescentes, garantizar su bienestar y promover su pleno desarrollo”, concluyó Vásquez.
-
-Lista negra
------------
-
-Por su parte, la senadora López, también del **Pacto Histórico,** agradeció a la plenaria del Senado “una discusión tan rica, que hayamos terminado con una aprobación por aclamación”.
-
-“Colombia sale de la vergonzosa lista de países que **permiten el matrimonio infantil**. Aprobada la **prohibición del matrimonio infantil** y las uniones tempranas”, celebró en la red social X la representante Jennifer Pedraza, del partido Dignidad y Compromiso.
-
-El país ocupa el puesto 20 a escala mundial en **uniones de niñas y adolescentes** antes de los 15 años, según un informe de Unicef de 2022.
-
-Igualmente está en el lugar 11 a nivel mundial en **uniones de niñas y adolescentes** antes de los 18 años, de acuerdo con el citado informe de Unicef, titulado ‘Análisis de **situación de los matrimonios infantiles** y las uniones tempranas en Colombia’.
-
-Realidad de las niñas indígenas
--------------------------------
-
-El caso de las niñas indígenas es el más preocupante porque alrededor de un tercio de ellas son casadas **antes de cumplir la mayoría de edad** con hombres que duplican o triplican su edad. Esto deriva en graves consecuencias, como la **violencia sexual, embarazos tempranos y deserción escolar.**
-
-En la actualidad, a pesar de que Colombia firmó y ratificó **instrumentos jurídicos internacionales** que prohíben el matrimonio infantil, como la **Convención Interamericana para Prevenir, Sancionar y Erradicar** la Violencia contra la Mujer, el Código Civil permite que adolescentes desde los 14 años se puedan casar si sus padres o **tutores legales lo consienten.** 
-
-Llegaron los borradores de WhatsApp, nueva función útil 
-========================================================
-
-WhatsApp lanza la función de borradores para gestionar mensajes pendientes.
----------------------------------------------------------------------------
-
-![Guarda mensajes no enviados con la función borrador de WhatsApp. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-borradores.jpg)
-
-**WhatsApp ha introducido una nueva función** que promete cambiar la manera en que los usuarios **gestionan sus conversaciones**. La llegada de los **borradores** permite a los usuarios **guardar mensajes no enviados**, lo que facilita la organización y el seguimiento de las respuestas pendientes. Esta característica, muy esperada por muchos, se alinea con las necesidades actuales de **comunicación rápida y efectiva** en la plataforma de mensajería más popular del mundo. 
-
-### Más noticias
-
-* [WhatsApp y Google permitirán la verificación de imágenes falsas en las conversaciones](https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html "https://www.elcomercio.com/tecnologia/whatsapp-google-imagenes-desinformacion-deepfakes.html")
-* [La lupa escondida de WhatsApp trae novedades relacionadas con la seguridad](https://www.elcomercio.com/tecnologia/whatsapp-lupa-enlaces-seguridad.html "https://www.elcomercio.com/tecnologia/whatsapp-lupa-enlaces-seguridad.html") 
-
-**¿Qué son los borradores en WhatsApp?** 
------------------------------------------
-
-La **función de borradores en WhatsApp** permite a los usuarios **guardar mensajes que no han sido enviados**. Cuando un usuario comienza a redactar un mensaje y **decide no enviarlo, este se guarda automáticamente como un borrador**. Los mensajes guardados aparecerán en la **parte superior de la lista de chats**, marcados con una **etiqueta verde que indica “Borrador”**. Esto asegura que los usuarios **no olviden responder a mensajes importantes o completar conversaciones iniciadas**. 
-
-**Cómo funciona la nueva actualización** 
------------------------------------------
-
-Al **escribir un mensaje en un chat individual o grupal**, si el usuario no lo envía, **WhatsApp lo guardará automáticamente**. Esto significa que cada vez que el usuario regrese a la aplicación, **podrá ver todos sus mensajes pendientes en un lugar destacado**. Esta funcionalidad es especialmente útil para aquellos que **suelen redactar respuestas largas** o que necesitan tiempo para pensar en su respuesta antes de enviarla, de acuerdo con [La Vanguardia](https://www.lavanguardia.com/andro4all/whatsapp/los-borradores-llegan-a-whatsapp-ya-puedes-usar-la-nueva-funcion-para-no-olvidarte-de-responder-mensajes "https://www.lavanguardia.com/andro4all/whatsapp/los-borradores-llegan-a-whatsapp-ya-puedes-usar-la-nueva-funcion-para-no-olvidarte-de-responder-mensajes").  
-
-**Beneficios de utilizar borradores** 
---------------------------------------
-
-**Organización:** Los borradores **permiten a los usuarios mantener sus conversaciones organizadas**. Pueden ver rápidamente qué mensajes necesitan ser enviados. 
-
-**Eficiencia:** Facilita la **redacción de mensajes largos en varias sesiones**. Los usuarios pueden volver y añadir más contenido al borrador **sin perder lo que ya han escrito**. 
-
-**Recordatorios visuales:** La etiqueta “Borrador” sirve como un **recordatorio visual** para no olvidar responder a ciertos mensajes importantes. 
-
-**Comparativa con otras aplicaciones** 
----------------------------------------
-
-La llegada de esta función coloca a WhatsApp en una **posición competitiva frente a otras aplicaciones de mensajería como Telegram**, que ya ofrecía esta opción anteriormente. Aunque **WhatsApp ha sido criticado por copiar funciones de su competencia**, la implementación efectiva de los borradores puede mejorar significativamente la experiencia del usuario en su plataforma, siguiendo con La Vanguardia.  
-
-**Cómo acceder a los borradores** 
-----------------------------------
-
-Para **utilizar esta nueva función**, los usuarios deben asegurarse de **tener la última versión de WhatsApp instalada en su dispositivo**. Una vez actualizada, podrán **comenzar a escribir mensajes y ver cómo se guardan automáticamente como borradores** si deciden no enviarlos. Esta actualización está disponible para todos los usuarios y **no requiere configuraciones complicadas.** 
-
-Leonardo Campana desafectado de la Selección de Ecuador
-=======================================================
-
-La Selección de Ecuador contará con Moisés Caicedo para enfrentar a Colombia en Barranquilla.
----------------------------------------------------------------------------------------------
-
-![Leonardo Campana, jugador de la Selección de Ecuador en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/11/campana_adios_1.jpg)
-
-La Selección de Ecuador se quedó oficialmente sin dos de sus 26 convocados **para enfrentar a Colombia el martes 19 de noviembre de 2024**, desde las 18:00, en el marco de la duodécima fecha de las eliminatorias sudamericanas al Mundial 2026.
-
-El partido entre la **Selección de Ecuador y la de Colombia** se jugará en el estadio Metropolitano de Barranquilla. Está proyectado un clima de 32°C y una humedad que llegará al 78%, por lo que se espera una jornada bastante calurosa.
-
-### Más noticias:
-
-* [Enner Valencia anotó su gol 43 con la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/enner-valencia-gol43-ecuador-eliminatorias.html "Enner Valencia anotó su gol 43 con la Selección de Ecuador")
-* [Policía captura a presunto distribuidor de Magis TV en Ecuador](https://www.elcomercio.com/actualidad/ecuador/policia-distribuidor-magis-ecuador-detencion.html "Policía captura a presunto distribuidor de Magis TV en Ecuador")
-* [La Selección de Ecuador brilla en Guayaquil y golea a Bolivia](https://www.elcomercio.com/deportes/futbol/ecuador-bolivia-partido-eliminatorias-guayaquil-resultado.html "La Selección de Ecuador brilla en Guayaquil y golea a Bolivia")
-
-Ecuador se presenta a este compromiso con 16 puntos y un gol diferencia positivo de +6. Con este puntaje **se mantiene firme en la quinta posición en la tabla de posiciones** y abonó sus chances de clasificar directamente a la siguiente Copa del Mundo.
-
-Colombia es la segunda mejor selección de la Conmebol con 19 puntos, solo superada por la **campeona del mundo y bicampeona de la Copa América**, Argentina, que tiene 22 y sigue a paso firme su trayecto a defender la corona mundial.
-
-Los colombianos aún deben jugar su partido pendiente de la jornada 11. Visitarán a Uruguay en el **Centenario de Montevideo con la posibilidad cierta de alcanzar en puntaje a los argentinos**, pero no le servirá para ser primer por los nueve goles del gol diferencia.
-
-Campana y Preciado no jugará contra Colombia
---------------------------------------------
-
-La tarde de este viernes 15 de noviembre, la Tri publicó un comunicado oficial en sus redes sociales.
-
-“La Federación Ecuatoriana de Fútbol (FEF) informa que los jugadores **Angelo Preciado y Leonardo Campana han quedado desafectados** de la convocatoria”, con los que Sebastián Beccacece se queda sin dos de sus 26 convocados.
-
-Preciado sufre de “un trastorno interno de rodilla que requiere intervención quirúrgica”, se detalló.
-
-Sobre Campana, apuntaron que “**presenta una lesión fibrilar por lo que regresará al Inter Miam**i”.
-
-Ángel Mena también quedó al margen de la lista de viaja a Barranquilla, pero no por una lesión o suspensión, sino por haber jugado ante Bolivia los últimos minutos como jugador de la Selección de Ecuador.
-
-La buena noticia es que **Moisés Caicedo está a disposición de Baccacece**. El mediocampista del Chelsea no fue tomado en cuenta para jugar ante ‘La Verde’, porque estaba suspendido por acumulación de tarjetas amarillas.
-
-No se dio a conocer si se convocará a otos jugadores para reemplazarlos.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/campana_adios_2-1024x683.jpg)
-
-Foto: API.
-
-San viernes
------------
-
-Celeste Caeiro falleció, la mujer que dio nombre a la revolución en Portugal
-============================================================================
-
-La muerte de Caeiro se produce cuando este año se cumplió, el 25 de abril, el 50 aniversario de la Revolución de los Claveles.
-------------------------------------------------------------------------------------------------------------------------------
-
-![Celeste Caeiro en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/celeste-captura.jpg)
-
-[Celeste Caeiro](https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html "https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html"), la mujer que con sus claveles dio nombre a la **revolución en Portugal**, falleció este viernes a los 91 años, confirmó su nieta Carol en sus redes sociales.
-
-### Más noticias
-
-* [Presidentes del mundo se citaron en cuatro cumbres en América Latina](https://www.elcomercio.com/actualidad/mundo/cumbres-realizaron-daran-america-latina-2024.html "Presidentes del mundo se citaron en cuatro cumbres en América Latina")
-* [Mueren 3 bomberos en el combate contra incendios en Portugal y son ya 7 los fallecidos](https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html "https://www.elcomercio.com/actualidad/mundo/mueren-3-bomberos-en-el-combate-contra-incendios-en-portugal-y-son-ya-7-los-fallecidos.html")
-* [Portugal lanzará una moneda en honor a Cristiano Ronaldo](https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html "https://www.elcomercio.com/afull/cristiano-ronaldo-moneda-portugal.html") 
-
-La muerte de Caeiro se produce cuando este año se cumplió, el 25 de abril, el **50 aniversario de la Revolución de los Claveles,** que puso fin a la dictadura.
-
-De madre española, esta mujer trabajaba en el **ropero de un restaurante** en el centro de Lisboa, el Sifire, cuando se produjo el levantamiento.
-
-Como ella misma explicó en una entrevista en 2014, los dueños del restaurante querían hacer una fiesta aquel 25 de abril de 1974 para celebrar el **primer aniversario del establecimiento** y compraron flores.
-
-Ese día cuando llegó al trabajo, se encontró con la **puerta cerrada** y el gerente les dijo a ella y al resto de empleados que no iban a abrir porque se estaba produciendo una revolución y que **se llevaran las flores** para que no se echasen a perder.
-
-Contra el consejo de sus jefes, Caeiro decidió **no irse directamente a casa** y enterarse de qué ocurría, no sin antes tomar bajo el brazo varios **claveles rojos y blancos.**
-
-Se fue en metro hasta la **plaza del Rossio de Lisboa**, justo al inicio del Largo do Carmo, donde los tanques de los sublevados aguardaban **nuevas órdenes** en una **tensa espera** desde la madrugada.
-
-“Miré para ellos y le dije a un soldado: **¿Qué es esto, qué están haciendo aquí?** ‘Vamos para el Cuartel del Carmo, donde está Marcello Caetano, el presidente (heredero del régimen de Salazar)”, le respondieron, según la narración que Caeiro hizo.
-
-Eran cerca de las 09:00 y el soldado, que ya llevaba unas horas de guardia, pidió a la mujer un cigarrillo. Como ella no fumaba, pero se sentía mal por no poder ayudar al militar, **le ofreció uno de los claveles** que llevaba consigo.
-
-**“Cogí un clavel, el primero fue rojo, y él lo aceptó.** Como soy así tan pequeñita y él estaba encima del tanque, tuvo que estirar el brazo, agarró el clavel y lo colocó en su fusil”, contó ella misma.
-
-Inmediatamente, el resto de soldados imitaron a su compañero y pidieron a la mujer uno de esos **claveles, rojos y blancos**, que llevaba bajo el brazo, hasta repartirlos todos.
-
-Ella, militante del **Partido Comunista**, no se esperaba que con ese simple gesto iba a pasar a los libros de Historia. Y es que horas más tarde de ese episodio, **varias floristas** se afanaban en que a nadie le faltase un clavel, contribuyendo a convertirlos en un **icono de libertad**.
-
-Su acto dio nombre a una revolución que se recuerda por la **ausencia de derramamiento de sangre**. 
-
-III Festival La Zarigüeya rinde tributo a la sopa, el plato nuestro de cada día
-===============================================================================
-
-Este sábado 16 de noviembre, desde las 12:00, en el Patio del Arupo (Veracruz y América), se realiza el III festival de sopas, que dos jóvenes llevan adelante.
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La sopa es el plato que más nos remite a la familia, a la buena memoria y al compartir en familia.](https://www.elcomercio.com/wp-content/uploads/2024/11/zarigueya.jpg)
-
-En algún lugar debería estar escrito que la **sopa** no es solamente patrimonio nacional, sino también un **producto de vitalísima necesidad** en los **almuerzos** de todos los ecuatorianos. Por eso, quizá nada mejor que encontrarse que hay un **festival** que rinde **tributo a la sopa**, en **Quito**. Y eso ofrece **La Zarigüeya** este sábado 16 de noviembre del 2024.
-
-### Más noticias
-
-* [Cafetería Modelo, 74 años de tradición en la gastronomía de Quito](https://www.elcomercio.com/tendencias/gastronomia/cafeteria-modelo-74-anos-tradicion-gastronomia-quito.html "Cafetería Modelo, 74 años de tradición en la gastronomía de Quito")
-* [CATS, la buena comida de un restaurante clásico de Quito](https://www.elcomercio.com/videos/sabores-video/cats-restaurante-buena-comida-buen-ambiente.html "CATS, la buena comida de un restaurante clásico de Quito")
-* [Hoy celebramos la pasta, un alimento cargado de historia y tradición culinaria](https://www.elcomercio.com/tendencias/gastronomia/dia-mundial-pasta-alimento-historia.html "Hoy celebramos la pasta, un alimento cargado de historia y tradición culinaria ")
-
-La sopa, el plato nuestro de cada día
--------------------------------------
-
-Hay una **relación especial** de los ecuatorianos con la **sopa**. No importa si hace frío o calor, siempre es necesario tener una **sopa** o un **caldo**. Además, **no hay almuerzo si no hay sopa.**
-
-Sin embargo, cada vez **se hace menos sopa en las casas** de los ecuatorianos. Es que no hay tiempo, al menos en las ciudades grandes. Si toda la familia trabaja y no se tiene a nadie que esté a cargo de las labores domésticas, es poco probable que la sopa sigua siendo **el plato nuestro de cada día.**
-
-Aunque la sopa es sencilla de hacer, también es **celosa**. Demanda tiempo. Y quizá en estos tiempos de vorágine y en que todos deben trabajar, no hay tiempo. Por eso, los ‘**almorzaderos**‘ son tan importantes en Quito, porque nos ofrecen la sopa.
-
-El segundo bien puede ser un ‘Chimborazo de arroz’ con una lámina de carne con alguna ensalada. Pero lo importante siempre será la sopa.
-
-El festival de La Zarigüeya
----------------------------
-
-**Camila Rodríguez** y **Emilia Echeverría** son dos jóvenes que se lanzaron a hacer un festival de sopas. Fue algo hecho a puro pulmón y **sin auspicios de empresa o institución**. Fue, más bien, algo que brotó de una reunión entre las dos familias.
-
-En la casa de Emilia habían hecho para el almuerzo, un **caldo de patas.** Sin embargo, Emilia es de aquellas que piden el caldo de patas sin patas, porque el sabor del caldo es bueno, pero la textura gelatinosa de la pata no le agrada. Así que ese mismo día, ella hizo un **aguado de pollo**.
-
-Cuando llegó **Camila** con su familia, les ofrecieron las dos opciones. Entonces, **la conversación giró en torno a las sopas. Y de inmediato, saltó la idea de organizar un festival.**
-
-El origen del nombre
---------------------
-
-Llama la atención que el festival se llame **La Zarigüeya**. Según Rodríguez, hay dos razones para llamarlo así.
-
-La primera es **dejar que la gente les compare con ratas** y que las ame porque son ecológicamente importantes. La segunda es porque la zarigüeya, en la **mitología mexicana,** es importante porque **robó el fuego de los dioses** para dárselo a los humanos, por lo que **quemó su cola[.](https://es.wikipedia.org/wiki/Didelphis "https://es.wikipedia.org/wiki/Didelphis")**
-
-Son 11 tipos de sopa
---------------------
-
-Entre **Camila** y **Emilia** preparan las sopas. Las **madres** o las tías **ayudan** con una o dos. Las demás las preparan solamente ellas. Y, jóvenes con un compromiso ambiental. Así que los productos tienen mayormente un origen conocido, conocen las manos que las cosecharon o elaboraron.
-
-**Este sábado 16 de noviembre del 2024** se realizará la III edición del Festival de sopas La Zarigüeya. Las dos primera fueron una sensación. Las sopas se acabaron antes del tiempo previsto y había aún una larga fila esperando.
-
-Son 11 tipos de sopas las que estarán disponibles en esta edición, entre ellas, el caldo de patas, de bolas de maíz, de cebolla, ají de carne, de morocho, entre otras.
-
-**El festival comienza a las 12:00** y **termina a las 16:00** (o hasta agotar stock). El encuentro será en el **Patio del Arupo, en la calle Veracruz y avda. América.**
-
-Cómo ver Netflix sin conexión a Internet (‘offline’) 
-=====================================================
-
-Es muy fácil ver Netflix sin conexión a Internet y disfrutar de tus series y películas favoritas en cualquier lugar.
---------------------------------------------------------------------------------------------------------------------
-
-![Se puede disfrutar del contenido de Netflix sin conexión con descargas. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Netflix-sin-conexion.jpg)
-
-Cuando el **acceso a Internet** no está garantizado, **Netflix** pone a disposición una función que permite **disfrutar de su contenido favorito sin conexión**. A continuación, se detallan los pasos necesarios para **descargar y ver contenido de Netflix sin necesidad de estar conectado a la red**. 
-
-### Más noticias
-
-* [¿Qué tan fiel es la película de ‘Pedro Páramo’ en Netflix al libro de Juan Rulfo?](https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html "https://www.elcomercio.com/tendencias/pedro-paramo-netflix.html")
-* [La batalla final de ‘Cobra Kai’ se desata esta semana en Netflix](https://www.elcomercio.com/tendencias/trending/cobra-kai-netflix-serie-estreno.html "https://www.elcomercio.com/tendencias/trending/cobra-kai-netflix-serie-estreno.html") 
-
-**Requisitos para descargar contenido de Netflix** 
----------------------------------------------------
-
-Para utilizar **Netflix en modo ‘offline’**, es necesario cumplir con ciertos requisitos, según la [información oficial del servicio de ‘streaming’](https://help.netflix.com/es/node/54816 "https://help.netflix.com/es/node/54816"): 
-
-* **Dispositivos compatibles**: La función de descarga está disponible en teléfonos y tabletas con **Android, iPhones, iPads, computadoras con Windows 10/11 y tablets Amazon Fire**. 
-
-* **Aplicación actualizada**: Contar con la última versión de la aplicación de Netflix instalada en el dispositivo. Esto asegura el acceso a todas las funciones disponibles. 
-
-**Cómo descargar series y películas** 
---------------------------------------
-
-**Paso 1: Acceder a la aplicación** 
-
-Abrir la aplicación de **Netflix** en el dispositivo. Si no está instalada, debe descargarse desde la tienda correspondiente (**Google Play Store o App Store**). 
-
-**Paso 2: Buscar contenido descargable** 
-
-Buscar el título que se desea descargar. **No todos los títulos están disponibles** para descarga. Para comprobarlo, es necesario localizar el **ícono de descarga** (una flecha hacia abajo) debajo del título. También se puede filtrar el contenido seleccionando “Disponibles para descargar” en el menú. 
-
-**Paso 3: Iniciar la descarga** 
-
-* Para descargar una película o serie: tocar el ícono de descarga junto al título. 
-
-* En el caso de las series, seleccionar el episodio que se desea descargar y luego tocar el ícono correspondiente. 
-
-**Paso 4: Verificar el progreso** 
-
-El progreso de la descarga puede revisarse en la **sección “Mis descargas”**. Al completarse, se recibe una notificación en el dispositivo. 
-
-**Cómo ver Netflix sin conexión** 
-----------------------------------
-
-Una vez descargados los títulos deseados, se pueden seguir estos pasos para visualizarlos sin conexión: 
-
-**Opción 1: Desde “Mis descargas”** 
-
-Acceder a la sección **“Mis descargas” en la aplicación**. Allí se encuentra todo el contenido descargado. Seleccionar el título que se desea ver y tocar “Reproducir” para disfrutarlo. 
-
-**Opción 2: Usar “Modo avión”** 
-
-**Activar el “Modo avión”** en el dispositivo antes de abrir Netflix para evitar interrupciones por notificaciones o conexiones indeseadas. Esto permite acceder al contenido descargado sin conexión. 
-
-**Limitaciones y consideraciones** 
------------------------------------
-
-Al **usar la función ‘offline’ de Netflix**, se deben tener en cuenta ciertas limitaciones, según [MovPilot](https://movpilot.com/es/blog/watch-netflix-offline/ "https://movpilot.com/es/blog/watch-netflix-offline/"): 
-
-* **Caducidad del contenido**: Las descargas tienen un período de validez que varía entre 48 horas y 30 días desde la primera visualización. Si no se reproduce el título dentro del tiempo establecido, será necesario volver a descargarlo. 
-
-* **Número máximo de descargas**: Se permite un **máximo de 100 descargas** activas por dispositivo, aplicable a todos los dispositivos incluidos en el plan de Netflix. 
-
-**Ver Netflix en TV sin Internet** 
------------------------------------
-
-Para disfrutar de las series y películas descargadas en una pantalla más grande, se pueden utilizar las siguientes opciones, a decir de [Lowi](https://www.lowi.es/blog/como-ver-netflix-sin-internet-en-tv/ "https://www.lowi.es/blog/como-ver-netflix-sin-internet-en-tv/"): 
-
-* **Conexión por cable HDMI**: Conectar un portátil o dispositivo móvil a la televisión mediante un **cable HDMI**. Es importante haber descargado previamente el contenido en el dispositivo. 
-
-* **Smart TV**: Verificar si la **Smart TV** permite la instalación directa de la aplicación de Netflix. Esto posibilita la descarga de episodios desde la televisión para verlos sin conexión. 
-
-* **Dispositivos de ‘streaming’**: Utilizar dispositivos como **Chromecast o Fire Stick** para transmitir contenido desde el dispositivo móvil a la televisión. Es indispensable que los títulos estén descargados previamente en el dispositivo móvil. 
-
-Marchas se desarrollan en Quito este 15 de noviembre
-====================================================
-
-Movilizaciones en Quito se realizan la tarde de este viernes.
--------------------------------------------------------------
-
-![Este viernes, 15 de noviembre, se desarrolla marcha en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/marcha-2.jpg)
-
-La tarde de este viernes, 15 de noviembre de 2024, **Quito** es el escenario de marchas de organizaciones sociales.
-
-**Cortes de luz**, inseguridad, educación y empleo están entre los temas que motivan a los participantes de las movilizaciones.
-
-### Más noticias
-
-* [FUT y otras organizaciones sociales anuncian movilización nacional](https://www.elcomercio.com/actualidad/ecuador/fut-sindicatos-movilizacion-nacional-noviembre.html "FUT y otras organizaciones sociales anuncian movilización nacional")
-* [Grupos sociales protestan en Ecuador este 15 de noviembre](https://www.elcomercio.com/actualidad/politica/grupos-sociales-anuncian-movilizaciones-ecuador-15-de-noviembre.html "Grupos sociales protestan en Ecuador este 15 de noviembre")
-* [Organizaciones sociales marcharon en Quito por la crisis energética](https://www.elcomercio.com/actualidad/ecuador/organizaciones-sociales-marchan-en-quito-por-la-crisis-energetica.html "Organizaciones sociales marcharon en Quito por la crisis energética")
-
-Marchas en Quito desde dos puntos
----------------------------------
-
-Las inmediaciones de la **Universidad Central** fueron el punto de encuentro para la marcha de estudiantes. La convocatoria se desarrolló desde las 15:00.
-
-Los manifestantes avanzaron por la av. Pérez Guerrero, con dirección a la Caja del **Instituto Ecuatoriano de Seguridad Social (IESS)**, en la av. 10 de Agosto.
-
-El segundo punto fue el sitio de la convocatoria de organizaciones como el **Frente Unitario de Trabajadores (FUT)**, Frente Popular, entre otras. En este caso, el llamado fue para las 16:00.
-
-Desde la Caja del **IESS**, estaba previsto que la marcha avance hacia el **Centro Histórico de Quito**, donde desde la mañana ya se colocaron vallas de seguridad y se restringió el acceso a la Plaza Grande.
-
-Alrededor de las 17:10, personas que avanzaron hacia el Centro de Quito intentaron retirar vallas colocadas a la altura de las calles **Chile y Guayaquil**.
-
-Los motivos
------------
-
-Nelson Erazo, presidente del Frente Popular, informó que la convocatoria a la **Caja del Seguro** se realizó desde el FUT, Frente Popular, trabajadores y afiliados del **Seguro Social Campesino**.
-
-El directivo, además, indicó que hay una convocatoria definida para el 21 de noviembre de 2024. Según dijo, no se trata de un **paro nacional**, sino de movilizaciones que se desarrollarán a escala nacional.
-
-Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro
-==================================================================================
-
-El Inamhi detalló cómo estará el clima entre este viernes 15 y el domingo 17 de noviembre en las cercanías a las hidroeléctricas australes.
--------------------------------------------------------------------------------------------------------------------------------------------
-
-![Central hidroeléctrica Paute - Molino, ubicada entre Cañar y Azuay](https://www.elcomercio.com/wp-content/uploads/2024/11/central-paute-lluvias.jpg)
-
-El Instituto Nacional de Meteorología e Hidrología (**Inamhi**) informó las condiciones del clima para el **Austro**, este viernes 15 de noviembre de 2024.
-
-### Más noticias
-
-* [Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios](https://www.elcomercio.com/actualidad/ecuador/alcalde-de-cuenca-declara-emergencia-como-un-grito-desesperado-ante-incendios.html "Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios")
-* [Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/fuertes-lluvias-coca-codo-sinclair.html "Fuertes lluvias cayeron en las cercanías a Coca Codo Sinclair")
-* [Alcalde de Cuenca planteó alzar diques de las lagunas de El Cajas para las sequías](https://www.elcomercio.com/actualidad/politica/alcalde-cuenca-plantea-alzar-diques-lagunas-cajas.html "Alcalde de Cuenca planteó alzar diques de las lagunas de El Cajas para las sequías")
-
-Según detalló la entidad, en la Sierra Sur, sector donde se ubica algunas de las **centrales hidroeléctricas** más importantes del Ecuador, entre ellas: **Mazar, Paute – Molino y Sopladora**, no se tiene prevista la presencia de precipitaciones considerables.
-
-La **crisis energética** que enfrenta Ecuador depende en gran parte de la caída de lluvias en las zonas donde se ubican las **centrales hidroeléctricas**. De mantenerse estas condiciones climáticas, los cortes de luz extendidos de 12 horas continuarán en el país[.](https://www.inamhi.gob.ec/ "https://www.inamhi.gob.ec/")
-
-Altas temperaturas favorecen la propagación de incendios forestales
--------------------------------------------------------------------
-
-En la Advertencia 60 del Inamhi se observa **poca nubosidad** en las provincias de **Cañar, Azuay y Loja**, lo que favorece la propagación de **incendios forestales**.
-
-> INAMHI // Pronóstico para la zona sur del país: [#ElOro](https://twitter.com/hashtag/ElOro?src=hash&ref_src=twsrc%5Etfw), [#Cañar](https://twitter.com/hashtag/Ca%C3%B1ar?src=hash&ref_src=twsrc%5Etfw), [#Azuay](https://twitter.com/hashtag/Azuay?src=hash&ref_src=twsrc%5Etfw), [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw), [#ZamoraChinchipe](https://twitter.com/hashtag/ZamoraChinchipe?src=hash&ref_src=twsrc%5Etfw), correspondiente al viernes 15 y la madrugada de sábado 16 de noviembre 2024. Toma precauciones. [pic.twitter.com/LR27w86X79](https://t.co/LR27w86X79)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 15, 2024](https://twitter.com/inamhi_ec/status/1857455901201863141?ref_src=twsrc%5Etfw)
-
-Justamente, en esta región se registran al menos **10 emergencias** de este tipo que, en algunos casos, no han podido ser controladas desde el sábado 9 de noviembre.
-
-Los **voraces incendios forestales** en el Austro llevó a que el alcalde de Cuenca, **Cristian Zamora**, declarara la emergencia.
-
-Previsiones del clima para la Sierra Sur
-----------------------------------------
-
-El Inamhi alertó de **altas temperaturas diurnas** en el Austro lo que dificultaría la presencia de **precipitaciones** en este sector.
-
-Entre el viernes 15 y la madrugada del sábado 16 de noviembre, las **previsiones del clima** para el sur de la región **Interandina** son:
-
-* **Cañar:** temperatura mínima de 9° C y máxima de 18° C
-* **Azuay:** temperatura mínima de 5° C y máxima de 25° C
-* **Loja:** temperatura mínima de 7° C y máxima de 25° C
-
-> [#MonitoreoSatelital](https://twitter.com/hashtag/MonitoreoSatelital?src=hash&ref_src=twsrc%5Etfw) 🛰️l Viernes, 15 de noviembre (12h30): Se observa poca nubosidad en la región Interandina en especial al sur de la región, condiciones favorables para la propagación de incendios forestales🔥🌡🥵  
-> ⚠️Advertencia N°60 por aumento de temperatura [pic.twitter.com/xNEXnncUjb](https://t.co/xNEXnncUjb)
-> 
-> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 15, 2024](https://twitter.com/inamhi_ec/status/1857505860374679724?ref_src=twsrc%5Etfw)
-
-En la predicción del clima difundida hasta las 18:00 del domingo 17 de noviembre tampoco se esperan precipitaciones de niveles **medio, alto y muy alto** en el Austro, pero sí en la **Amazonía**.
-
-Las provincias donde se prevé que lloverá con fuerza este fin de semana son: **Sucumbíos, Orellana, Napo, Pastaza y Morona Santiago**.
-
-Sin embargo, en Imbabura, Pichincha, Cotopaxi, Tungurahua, Bolívar, Cañar y Azuay, en la Sierra, las precipitaciones esperadas no serán de consideración.
-
-EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp
-============================================================
-
-La mejor manera de no perderte los partidos de la Selección de Ecuador, incluso sin luz, es con EL COMERCIO
------------------------------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador en un partido de las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T160909.152.jpg)
-
-La **Selección de Ecuador** logró un triunfo clave para mantener viva la esperanza de clasificar a su quinto Mundial. Su próximo reto será enfrentar a Colombia, y si no puedes seguir el partido debido a interrupciones eléctricas, **EL COMERCIO** tiene la solución para ti.
-
-Con una **propuesta única** para disfrutar los encuentros de la ‘Tri’ con la misma intensidad, **EL COMERCIO** te acerca a la acción a través de su página web y su canal exclusivo en WhatsApp.
-
-Más noticias:
--------------
-
-* [La Selección de Ecuador convocó 30 758 hinchas al Monumental](https://www.elcomercio.com/deportes/futbol/estadio-monumental-asistencia-bolivia-eliminatorias.html "La Selección de Ecuador convocó 30 758 hinchas al Monumental")
-* [El emotivo video para despedir a Ángel Mena de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-video-despedida-ecuador.html "El emotivo video para despedir a Ángel Mena de la Selección de Ecuador")
-* [Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia](https://www.elcomercio.com/deportes/futbol/gonzalo-plata-figura-ecuador-bolivia.html "Gonzalo Plata fue la figura de la Selección de Ecuador ante Bolivia")
-
-¿Cómo seguir el partido de Ecuador sin luz?
--------------------------------------------
-
-Si deseas mantenerte al tanto de los partidos y recibir actualizaciones en tiempo real de la **Selección** **de** **Ecuador**, solo necesitas suscribirte a nuestro canal de noticias en **WhatsApp** haciendo [clic aquí](https://www.whatsapp.com/channel/0029VaRu8WFJ3jutKNlE4e3a).
-
-Allí encontrarás:
-
-* Información en vivo de los partidos.
-* Material gráfico y de video.
-* Informes sonoros directamente desde el Estadio Rodrigo Paz Delgado.
-
-Además, puedes seguir nuestras redes sociales oficiales en Facebook, Twitter e [Instagram](https://www.instagram.com/benditofutbol/?hl=es "https://www.instagram.com/benditofutbol/?hl=es") para no perderte detalles de la cobertura, con transmisiones en vivo y publicaciones constantes.
-
-La Selección de Ecuador, más cerca del Mundial
-----------------------------------------------
-
-Ecuador disputará su duodécimo partido de las eliminatorias rumbo a 2026 ante Colombia. En este duelo, **Sebastián Beccacece**, en su sexto encuentro al mando de la ‘Tri’, buscará su tercera victoria frente a una de las selecciones más fuertes del continente.
-
-El entrenador argentino **mantiene un saldo positivo** desde su llegada a la Selección, con cinco partidos disputados: dos victorias, dos empates y solo una derrota (1-0 en su visita a Brasil).
-
-Además, su equipo ha anotado cinco goles y recibido solo uno, consolidando a la Selección de Ecuador como la **mejor defensa de las eliminatorias sudamericanas**.
-
-La ‘Tri’ llega al encuentro ocupando la quinta posición, con 16 puntos en 11 partidos (5 victorias, 4 empates y 2 derrotas). Es importante recordar que, al inicio del torneo, Ecuador comenzó con una sanción de tres puntos menos debido al caso Byron Castillo.
-
-Detalles del partido
---------------------
-
-**Partido:** Colombia vs. Ecuador
-
-**Fecha:** Martes 19 de noviembre de 2024
-
-**Hora:** 18:00 (hora de Ecuador)
-
-**Estadio:** Metropolitano Roberto Meléndez
-
-No te pierdas ni un instante de la emoción. **EL COMERCIO** te conecta con la pasión de la ‘Tri’.
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Los Latin Grammy fueron testigos de un reencuentro histórico entre dos ‘enemigos’
-=================================================================================
-
-Los Latin Grammy desataron emociones en la edición 25.
-------------------------------------------------------
-
-![La India emocionó al público con su interpretación. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-15T155941.181.jpg)
-
-La gala de los **Latin Grammy 2024** -celebrada el 14 de noviembre en **Miami**– se convirtió en un escenario de reencuentro histórico entre dos grandes de la música.
-
-### **Más noticias:**
-
-* [Premios Latin Grammy 2024: cuándo y dónde ver la edición 25 desde Ecuador](https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html "https://www.elcomercio.com/tendencias/entretenimiento/premios-latin-grammy-ceremonia-ecuador-2025-nominados.html")
-* [Latin Grammy 2024: esta es la lista completa de los ganadores](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-ganadores-2024-premios.html "https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-ganadores-2024-premios.html")
-* [Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón](https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-carlos-vives-persona-ano-2024.html "https://www.elcomercio.com/tendencias/entretenimiento/latin-grammy-carlos-vives-persona-ano-2024.html")
-
-**Los felices ganadores de los Latin Grammy**
----------------------------------------------
-
-La antesala de los **Latin Grammy 2024** dejó una huella memorable con las victorias de Edgar Barrera y Nathy Peluso, quienes se llevaron tres premios cada uno.
-
-La premiere, que entregó la mayoría de los galardones antes de la esperada gala televisada, reconoció a los artistas en diversas categorías.
-
-Barrera fue el primero en subir al escenario para recibir su primer galardón como Compositor del Año, un reconocimiento que también obtuvo en 2023.
-
-El mexicano, además, se coronó como **Productor del Año** y ganó el premio a **Mejor Canción Regional Mexicana** por su colaboración con Keytin en la composición de El amor de su vida de Grupo Frontera y Grupo Firme.
-
-Nathy Peluso también se mostró visiblemente emocionada al recibir tres gramófonos dorados: Mejor Video Largo por ‘Grasa’, Mejor Canción Alternativa por El día que perdí mi juventud y Mejor Canción de Rap/Hip Hop por Aprender a amar.
-
-**Juan Luis Guerra brilló en los Latin Grammy**
------------------------------------------------
-
-El intérprete dominicano Juan Luis Guerra se llevó el jueves el premio **Álbum del año**, máximo reconocimiento de los **Latin Grammy,** por su producción ‘Radio Güira’.
-
-El trabajo discográfico, estrenado a finales de 2023, también recibió el gramófono en la categoría Mejor álbum de merengue/bachata.
-
-> [View this post on Instagram](https://www.instagram.com/p/DCYeC6eudsU/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCYeC6eudsU/?utm_source=ig_embed&utm_campaign=loading)
-
-Con el sencillo Mambo 23, Juan Luis Guerra ganó, además, en las categorías Grabación del año y Mejor canción tropical.
-
-Karol G triunfó en la categoría Mejor álbum de música urbana. Jorge Drexler se destacó en Mejor canción cantautor y Mejor canción del año.
-
-Carín León se impuso en Mejor álbum de música mexicana contemporánea, mientras que Fonseca brilló en Mejor álbum tropical contemporáneo.
-
-**Los Latin Grammy fueron testigos de un reencuentro histórico**
-----------------------------------------------------------------
-
-**Marc Anthony** y **La India** se reencontraron luego de 29 años para interpretar juntos su emblemática canción Vivir lo nuestro.
-
-Este momento marcó el cierre de un homenaje especial a la salsa, donde también participaron leyendas como Rubén Blades y Tito Nieves.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DBrVlHcSlr_/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Marc Anthony (@marcanthony)](https://www.instagram.com/reel/DBrVlHcSlr_/?utm_source=ig_embed&utm_campaign=loading)
-
-Vivir lo nuestro, lanzada en 1994, se consolidó como un clásico de la música latina. Sin embargo, la relación entre Anthony y La India se deterioró rápidamente tras la colaboración, debido a declaraciones polémicas y diferencias personales.
-
-En una entrevista en 2014, Marc Anthony se refirió a La India de manera despectiva, lo que provocó su distanciamiento. La India, por su parte, expresó en 2017 que la fama había cambiado a Anthony, describiéndolo como “soberbio” y distante, según el portal Infobae.
-
-El reencuentro en los Latin Grammy fue inesperado y emotivo. La India compartió en redes sociales su agradecimiento por la oportunidad de cantar nuevamente con Anthony, describiendo el momento como “histórico” para ambos artistas y sus seguidores.
