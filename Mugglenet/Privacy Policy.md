@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There were seven male white owls that played Hedwig.
+Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
 
 ### Potter History
 
-April 18, 2006 – Harry Potter and the Goblet of Fire grosses $20 million in IMAX.
+December 5, 2009 – The first trailer for Harry Potter and the Deathly Hallows – Part 1 is released online.
 
 ### Potter Quote
 
-“Kicked out of Hogwarts for endangering human life with a beast. Yet one of your teachers argued strongly against your expulsion. I wonder, what makes Albus Dumbledore so fond of you, Mr. Scamander?”
+“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
 
 [](#)
 
