@@ -316,15 +316,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Harry Potter and the Deathly Hallows was released on July 21, 2007, and sold 11 million copies on the first day of its release, becoming the fastest selling book of all time.
+Harry Potter’s middle name is James, Hermione Granger’s is Jean, Ginny Weasley’s is Molly – after her mother – and poor old Ron Weasley’s is Bilius.
 
 ### Potter History
 
-November 27, 2005 – Tolga Safer, David Heyman, Miranda Richardson, Daniel Radcliffe, Jamie Waylett, Katie Leung, Tiana Benjamin, and Mike Newell are interviewed at the Harry Potter and the Goblet of Fire NYC red carpet.
+July 16, 2005 – Harry Potter and the Half-Blood Prince book is released internationally in English to the delight of Harry Potter fans everywhere.
 
 ### Potter Quote
 
-“You are a braver man by far than Igor Karkaroff. You know, I sometimes think we sort too soon. . . .”
+“Are you insane? Of course I want to leave the Dursleys! Have you got a house? When can I move in?”
 
 [](#)
 
