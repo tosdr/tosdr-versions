@@ -480,6 +480,20 @@ Crystalline sea salt scrub buffs away dry, rough skin while blanketing skin in r
 
 SELECT
 
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211BWBBVB_Vanilla_Bean_Whipped_Body_Butter_Primary_3.jpg?em-origin=cdn.shopify.com)](#product-6657754529870)
+
+Beauty Deal - Vanilla Bean Whipped Body Butter
+
+SELECT Buy for $15
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211BWBBVB_Vanilla_Bean_Whipped_Body_Butter_Primary_3.jpg?em-origin=cdn.shopify.com)
+
+Beauty Deal - Vanilla Bean Whipped Body Butter
+
+Thick and decadent body butter deeply moisturizes and softens using creamy cocoa, shea, and avocado butters, with added hydration from aloe and rose hydrosol. Note: This current batch has a strong cocoa aroma due to the cocoa butter. See our Product Details for further information.
+
+SELECT
+
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BWBBC_Whipped_Body_Butter_Coconut_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927907651662)
 
 Beauty Deal - Coconut Whipped Body Butter
@@ -578,6 +592,34 @@ Gently exfoliating powder cleanser detoxifies with dandelion and neem, unclogs a
 
 SELECT
 
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/FG1FCCM_PRIMARY_4ab2d236-1ec1-48d1-a991-673784af4d03.png?em-origin=cdn.shopify.com)](#product-6927909584974)
+
+Beauty Deal - Virgin Coconut Moisturizing Milk Foam
+
+SELECT Buy for $10
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/FG1FCCM_PRIMARY_4ab2d236-1ec1-48d1-a991-673784af4d03.png?em-origin=cdn.shopify.com)
+
+Beauty Deal - Virgin Coconut Moisturizing Milk Foam
+
+Moisturizing. With Soothing Calendula, Rose Hydrosol and Chamomile Azulene, this cleanser washes away makeup, sunblock and other impurities while leaving your complexion supple and glowing.
+
+SELECT
+
+[![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FVCM_Vitamin_C_Mask_1600x_ce852a56-d50e-48cc-8f35-81a907fc5b1a.webp?em-origin=cdn.shopify.com)](#product-6927907946574)
+
+Beauty Deal - Vitamin C Mask
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/files/1FVCM_Vitamin_C_Mask_1600x_ce852a56-d50e-48cc-8f35-81a907fc5b1a.webp?em-origin=cdn.shopify.com)
+
+Beauty Deal - Vitamin C Mask
+
+A skin brightening face mask made with vitamin C to promote collagen and elastin production, enhance glow, and soften skin.
+
+SELECT
+
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1FCBMM_Cocoa_Butter_Moisture_Mask_Primary.jpg?em-origin=cdn.shopify.com)](#product-6927907520590)
 
 Beauty Deal - Cocoa Butter Moisture Mask
@@ -634,6 +676,20 @@ This creamy, long-lasting eyeliner pencil glides easily onto lids to line and de
 
 SELECT
 
+[![](https://www.100percentpure.com/s/files/1/0648/1955/products/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572.png?em-origin=cdn.shopify.com)](#product-6927911125070)
+
+Beauty Deal - Watermelon Cucumber Water Locking Mist
+
+SELECT Buy for $5
+
+![](https://www.100percentpure.com/s/files/1/0648/1955/products/FG1FWCAM_Primary_b2cb2958-7b5a-4180-ad59-8064fec31572.png?em-origin=cdn.shopify.com)
+
+Beauty Deal - Watermelon Cucumber Water Locking Mist
+
+Intense Hydration. Ultra hydrating water mist naturally reinvigorates dehydrated skin cells and reduces signs of aging by locking in cactus juice, watermelon hydrosol, and hyaluronic acid.
+
+SELECT
+
 [![](https://www.100percentpure.com/s/files/1/0648/1955/files/1HCBCCO_Coconut_Hand_Buttercream_Primary_1600x_8528722a-7695-43cc-90ac-58427e145eda.webp?em-origin=cdn.shopify.com)](#product-7491737911374)
 
 Beauty Deal - Coconut Hand Buttercream
@@ -659,48 +715,6 @@ SELECT Buy for $5
 Beauty Deal - Cor-All or Nothing Nail Polish
 
 Vegan, cruelty-free nail polish made without the 20 common toxins found in conventional formulas.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPEL_Beauty_Deal_2022-Elderberry_Nail_Polish_Primary_b1815aad-fddb-44ed-8f3d-191b41ee781e.jpg?em-origin=cdn.shopify.com)](#product-6840074534990)
-
-Beauty Deal - Elderberry Nail Polish
-
-SELECT Buy for $5
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPEL_Beauty_Deal_2022-Elderberry_Nail_Polish_Primary_b1815aad-fddb-44ed-8f3d-191b41ee781e.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Elderberry Nail Polish
-
-Vegan, cruelty-free nail polish made without the 20 common toxins found in conventional formulas.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPIALR_Beauty_Deal_2022-I_27m_A_Little_Rusty_Nail_Polish_Primary_ec44c5fd-956c-4222-be7f-2e28c48a203b.jpg?em-origin=cdn.shopify.com)](#product-6840074600526)
-
-Beauty Deal - I'm A Little Rusty Nail Polish
-
-SELECT Buy for $5
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1NPIALR_Beauty_Deal_2022-I_27m_A_Little_Rusty_Nail_Polish_Primary_ec44c5fd-956c-4222-be7f-2e28c48a203b.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - I'm A Little Rusty Nail Polish
-
-Vegan, cruelty-free nail polish made without the 20 common toxins found in conventional formulas.
-
-SELECT
-
-[![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211NPBASE_Horsetail_Base_Coat_Polish_Primary.jpg?em-origin=cdn.shopify.com)](#product-6667765973070)
-
-Beauty Deal - Horsetail Base Coat Polish
-
-SELECT Buy for $5
-
-![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD211NPBASE_Horsetail_Base_Coat_Polish_Primary.jpg?em-origin=cdn.shopify.com)
-
-Beauty Deal - Horsetail Base Coat Polish
-
-Our base coat is made without the 10 common nail polish toxins, strengthens nails with horsetail plant, and promotes growth while protecting your natural nails.
 
 SELECT
 
