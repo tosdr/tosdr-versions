@@ -86,7 +86,7 @@ Navigation
 
 Bryan, TX »
 
-61°
+55°
 
 ![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
