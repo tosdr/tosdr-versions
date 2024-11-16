@@ -64,19 +64,19 @@ Suggested Searches
 
 ### Featured
 
-[![An artist’s concept that depicts a large, broad, white airliner with five propellers on each wing and twin tails with three air intakes between them. The concept aircraft is shown flying above the clouds in a blue sky.](https://www.nasa.gov/wp-content/uploads/2024/11/electra-nasa-aaces-concept-image.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+
+7 min read
+
+### Six Ways Supercomputing Advances Our Understanding of the Universe
+
+article9 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
-### NASA Funds New Studies Looking at Future of Sustainable Aircraft
+### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article3 days ago](https://www.nasa.gov/directorates/armd/nasa-funds-new-studies-looking-at-future-of-sustainable-aircraft/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
-
-4 min read
-
-### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
-
-article4 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -241,25 +241,25 @@ Back
 
 ### Featured
 
-[![Peculiar Pale Pebbles](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/mars2020/2024/perseverance-rover-updates/Mars_Perseverance_NRF_1311_0783336942_145ECM_N0611928NCAM02311_01_195J.png)
-
-3 min read
-
-### Peculiar Pale Pebbles
-
-article 3 days ago](https://science.nasa.gov/blog/peculiar-pale-pebbles/)[![Uranus](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia18182-uranus-globe.jpg?w=1024)
-
-4 min read
-
-### Mining Old Data From NASA’s Voyager 2 Solves Several Uranus Mysteries
-
-article 4 days ago](https://www.nasa.gov/missions/voyager-program/voyager-2/mining-old-data-from-nasas-voyager-2-solves-several-uranus-mysteries/)[![Hubble Captures a Galaxy with Many Lights](https://science.nasa.gov/wp-content/uploads/2024/11/hubble-ngc1672-withsn-potw2445c.jpg)
+[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
-### Hubble Captures a Galaxy with Many Lights
+### Hubble Takes a Look at Tangled Galaxies
 
-article 1 week ago](https://science.nasa.gov/missions/hubble/hubble-captures-a-galaxy-with-many-lights/)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+
+5 min read
+
+### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
+
+article 1 day ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![This release features an illustration of the galaxy in which black hole LID-568 resides. A smaller illustration of black hole itself, in an outlined box, is superimposed on top of the galaxy image toward our upper right. Two lines extend from a single point in the middle of the galaxy and terminate on corners of the outlined box containing the black hole illustration. The placement of the lines and outlined box indicate that the superimposed black hole image is an enlargement of a tiny place in the center of the galaxy.](https://www.nasa.gov/wp-content/uploads/2024/11/lid568-crunched.jpg?w=1024)
+
+4 min read
+
+### Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
+
+article 2 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/)
 
 ### Highlights
 
@@ -275,7 +275,7 @@ article 2 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-
 
 ### Station Science Top News: Nov. 8, 2024
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
 
 3 min read
 
@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
-article 3 hours ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 10 hours ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
@@ -335,13 +335,13 @@ article 2 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+article 9 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
@@ -357,41 +357,41 @@ article 1 day ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-af
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Title slide for OSDR Chats with Rob Reynolds interview](https://www.nasa.gov/wp-content/uploads/2024/11/osdr-chats-title-slide-dr-robert-reynolds.jpg?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Title slide for OSDR Chats with Rob Reynolds interview](https://www.nasa.gov/wp-content/uploads/2024/11/osdr-chats-title-slide-dr-robert-reynolds.jpg?w=1024)
 
 2 min read
 
 ### OSDR Chats with Dr Robert Reynolds
 
-article 4 hours ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+article 11 hours ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 8 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)
+article 15 hours ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+
+1 min read
+
+### Dynamic Spin Rig Publications
+
+article 5 hours ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
 
 1 min read
 
 ### SPEED Publications
 
-article 13 hours ago](https://www.nasa.gov/speed-publications/)[![A room full of various testing equipment, including gauges, cables, and machinery, with a rectangular motor drive stand in the center.](https://www.nasa.gov/wp-content/uploads/2024/11/areal-24-1.jpg?w=1024)
-
-2 min read
-
-### AREAL
-
-article 23 hours ago](https://www.nasa.gov/areal/)
+article 20 hours ago](https://www.nasa.gov/speed-publications/)
 
 ### Highlights
 
@@ -401,13 +401,13 @@ article 23 hours ago](https://www.nasa.gov/areal/)
 
 ### NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
 
-article 57 mins ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+article 8 hours ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 2 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Psyche spacecraft is depicted receiving a laser signal from the Deep Space Optical Communications](https://www.nasa.gov/wp-content/uploads/2024/11/1-dsoc-uplink.webp?w=1024)
+article 9 hours ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Psyche spacecraft is depicted receiving a laser signal from the Deep Space Optical Communications](https://www.nasa.gov/wp-content/uploads/2024/11/1-dsoc-uplink.webp?w=1024)
 
 4 min read
 
@@ -439,19 +439,25 @@ article 1 week ago](https://science.nasa.gov/planetary-science/programs/radioiso
 
 ### Featured
 
-[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+[![NASA’s Psyche spacecraft is depicted receiving a laser signal from the Deep Space Optical Communications](https://www.nasa.gov/wp-content/uploads/2024/11/1-dsoc-uplink.webp?w=1024)
+
+4 min read
+
+### Precision Pointing Goes the Distance on NASA Experiment
+
+article 1 day ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![The NASA flag is seen flying at half-staff on NASA's Day of Remembrance, Thursday, Feb. 7, 2019, at NASA Headquarters in Washington.](https://www.nasa.gov/wp-content/uploads/2022/12/32076592507-b9aa350caf-k.jpg?w=977)
 
 3 min read
 
-### NASA Shares Space Food Insight with Commercial Food Industry
+### NASA Seeks Options for Future Headquarters Building
 
-article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-shares-space-food-insight-with-commercial-food-industry/)[![Anna L. Fisher operates the Remote Manipulator System from Discovery’s aft flight deck](https://www.nasa.gov/wp-content/uploads/2024/11/sts-51a-20-fisher-operating-rms-51a-31-067.jpg?w=381)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/)[![The crew of Apollo 12](https://www.nasa.gov/wp-content/uploads/2024/11/apollo-12-1-crew-photo-s69-38992.jpg?w=1024)
 
-12 min read
+23 min read
 
-### 40 Years Ago: STS-51A – “The Ace Repo Company”
+### 55 Years Ago: Apollo 12 Makes a Pinpoint Landing on the Moon
 
-article 1 week ago](https://www.nasa.gov/history/40-years-ago-sts-51a-the-ace-repo-company/)
+article 1 day ago](https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/)
 
 ### Highlights
 
