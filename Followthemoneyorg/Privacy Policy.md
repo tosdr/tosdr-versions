@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Independent Spending by Opponents and Supporters of Gun Control, 2015 and 2016](/assets/Images/teasers/small/Gun-control.JPG)](https://www.followthemoney.org/research/blog/the-electoral-marksmanship-of-pro-and-anti-gun-control-spenders)
+[![Donations to Ballot Measure Committees, by Industry, 2016](/assets/Images/teasers/small/Ballot-measures-by-industry.JPG)](https://www.followthemoney.org/research/institute-reports/2016-ballot-measures-overview)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
