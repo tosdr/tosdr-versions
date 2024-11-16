@@ -147,9 +147,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
-[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
-  [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
 Editors' Picks
 --------------
@@ -184,11 +184,11 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
-[Japan’s key political issue rests on an enduring economic myth](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
 By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
 
-  [![Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434139.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Democratic Party for the People chief Yuichiro Tamaki wants to the tax-free annual income ceiling raised to ¥1.78 million ($11,410).")](https://www.japantimes.co.jp/business/2024/11/14/economy/dpp-103-million/ "Japan’s key political issue rests on an enduring economic myth")
+  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
 Podcast
 -------
@@ -209,9 +209,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,19 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Man found guilty of stealing ¥10.4 million tea bowl from Tokyo exhibition](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/tea-bowl-theft-guilty-verdict/ "Man found guilty of stealing ¥10.4 million tea bowl from Tokyo exhibition")
+[Taiwan's APEC representative invites Biden to visit island](https://www.japantimes.co.jp/news/2024/11/16/asia-pacific/politics/taiwan-apec-biden-invite/ "Taiwan's APEC representative invites Biden to visit island")
 
-11 hours ago
+12 mins ago
 
-[Ferrari sells for ¥171 million at Japanese tax sale](https://www.japantimes.co.jp/business/2024/11/15/ferrari-auction-tax-agency/ "Ferrari sells for ¥171 million at Japanese tax sale")
+[U.S. Ambassador to Japan Rahm Emanuel weighs bid for DNC chair: report](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/rahm-emanuel-dnc-chair/ "U.S. Ambassador to Japan Rahm Emanuel weighs bid for DNC chair: report")
 
-11 hours ago
+57 mins ago
 
-[Share of graduating Japanese university students with job offers falls](https://www.japantimes.co.jp/news/2024/11/15/japan/society/uni-students-job-offers-down/ "Share of graduating Japanese university students with job offers falls")
+[China’s dream of ‘powerful currency’ runs Into Trump’s return](https://www.japantimes.co.jp/business/2024/11/16/economy/china-xi-yuan-currency/ "China’s dream of ‘powerful currency’ runs Into Trump’s return")
 
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+2 hours ago
 
-[British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
+[Senators ask Pentagon and U.S. attorney general to probe Musk's alleged Russia calls](https://www.japantimes.co.jp/news/2024/11/16/world/elon-musk-russia-ties-probe/ "Senators ask Pentagon and U.S. attorney general to probe Musk's alleged Russia calls")
+
+2 hours ago
+
+[Trump names Karoline Leavitt as White House press secretary](https://www.japantimes.co.jp/news/2024/11/16/world/politics/trump-karoline-leavitt-press-secretary/ "Trump names Karoline Leavitt as White House press secretary")
+
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
