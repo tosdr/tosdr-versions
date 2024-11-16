@@ -435,10 +435,9 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
-Thank you!
+"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
 
-**Teacher, Australia**
+**College Lecturer**
 
 ### Curriculum...
 
