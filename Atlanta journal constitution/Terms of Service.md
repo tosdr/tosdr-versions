@@ -1,6 +1,6 @@
 error: no ad slot id exists: undefined
 
-[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1813)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1813)](https://www.ajc.com/)
+[![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1818)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1818)](https://www.ajc.com/)
 
 Log In
 
@@ -23,7 +23,7 @@ Log In
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
-![Search icon](/pf/resources/icons/search-burger.svg?d=1813)
+![Search icon](/pf/resources/icons/search-burger.svg?d=1818)
 
 * Quick Links
     
@@ -146,7 +146,7 @@ Log In
     * [Videos](https://www.ajc.com/news/video/)
     
 
-[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1813)](https://www.ajc.com/)
+[![ajc logo in background](/pf/resources/logos/AJC/logo-white.svg?d=1818)](https://www.ajc.com/)
 
 * [About](https://www.ajc.com/about-AJC/)
     * [Help Center](https://ajc.zendesk.com/hc/en-us)
