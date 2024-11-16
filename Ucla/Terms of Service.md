@@ -25,7 +25,6 @@ Skip to Navigation Skip to Navigation Skip to Search Skip to Search [Skip to Mai
         * Recognition
         * [Awards & Honors](https://www.ucla.edu/about/awards-and-honors/)
         * [Athletic Championships & Medals](https://www.ucla.edu/about/athletics-championships-and-medals)
-        * [Notable Alumni](https://optimism.ucla.edu/profiles/)
         
         *  [![Jann's Steps](/img/nav-cta-about-janns.png) UCLA Ranked No. 1 Public University](https://www.ucla.edu/about/rankings)
             
