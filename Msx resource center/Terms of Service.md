@@ -153,7 +153,9 @@ Latest reactions
 
 Latest forum posts
 
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function?page=1 "VAR = CALL FUNCTION ?")
+* [Disk menu's](https://www.msx.org/forum/msx-talk/software-and-gaming/disk-menus?page=5 "Disk menu's")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=26 "MSXgl – A new C game library for MSX")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
 * [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
@@ -164,8 +166,6 @@ Latest forum posts
 * [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [Sony Hi-Brid](https://www.msx.org/forum/msx-talk/software-and-gaming/sony-hi-brid?page=1 "Sony Hi-Brid")
-* [SX-E FPGA MSX](https://www.msx.org/forum/msx-talk/hardware/sx-e-fpga-msx?page=2 "SX-E FPGA MSX")
-* [Pal system in the US](https://www.msx.org/forum/msx-talk/general-discussion/pal-system-in-the-us?page=1 "Pal system in the US")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
