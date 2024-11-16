@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Air Force buying more drone wingmen to develop operational tactics](https://www.defensenews.com/air/2024/11/15/air-force-buying-more-drone-wingmen-to-develop-operational-tactics/)  
+    11/15/24 03:01pm  
+    
+    The Air Force is buying more drone wingmen, known as collaborative combat aircraft, to experiment with and figure out tactics for using them in operations. Both Anduril's Fury, shown here at the Air and Space Forces Association's conference in September, and General Atomics' Gambit are in the running to be CCAs. (Stephen Losey/Defense News)
+    
 * [China unveils J-35A and other new fighters at Zhuhai Airshow](https://www.defensenews.com/global/asia-pacific/2024/11/13/china-unveils-j-35a-and-other-new-fighters-at-zhuhai-airshow/)  
     11/13/24 06:51am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/06/24 05:00pm  
     
     Air Force Global Strike Command launches an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base.
-    
-* [US approves sale of four E-7 early-warning planes to South Korea](https://www.defensenews.com/air/2024/11/05/us-approves-sale-of-four-e-7-early-warning-planes-to-south-korea/)  
-    11/05/24 10:54am  
-    
-    Four Boeing E-7 Wedgetail aircraft could be sold to South Korea, according to a U.S. State Department notice. (Boeing Australia)
     
 
 Recent parts by keyword  
