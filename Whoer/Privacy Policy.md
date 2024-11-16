@@ -7,8 +7,6 @@
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_main)
 * Services
     * [Proxy](https://asocks.com/?c=WHup&utm_source=WHOER_partner&utm_medium=cpl&utm_campaign=Asocks_header&utm_term=WHup&utm_content=btn&roistat_referrer=WHOER&roistat=WHOER_partner_Asocks_header_btn)
-    * [Virtual cards](https://e.pn/?ref=kdnO2Ehs)
-    * [DDoS Protection](https://ddos-guard.net/?utm_source=whoer-en&utm_medium=menu-button&utm_campaign=whoer_menu-button_en)
     * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=header_services)
     * [Speed test](https://whoer.net/speedtest)
     * [Ping](https://whoer.net/ping)
@@ -199,8 +197,6 @@ Services
 * [AML check](https://whoaml.is/?utm_source=whoer&utm_campaign=footer)
 * [Free VPN](https://whoer.net/vpn/trial)
 * [Proxy](https://asocks.com/?c=WHdw&utm_source=WHOER_partner&utm_medium=cpl&utm_campaign=Asocks_header&utm_term=WHdw&utm_content=btn&roistat_referrer=WHOER&roistat=WHOER_partner_Asocks_header_btn)
-* [Virtual cards](https://e.pn/?ref=xBEcMTPz)
-* [DDoS Protection](https://ddos-guard.net/?utm_source=whoer-en&utm_medium=menu-button&utm_campaign=whoer_menu-button_en)
 * [Speed test](https://whoer.net/speedtest)
 * [Ping](https://whoer.net/ping)
 * [Whois](https://whoer.net/checkwhois)
