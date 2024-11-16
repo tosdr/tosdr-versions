@@ -150,10 +150,12 @@ Latest reactions
 
 Latest forum posts
 
+* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=27 "MSXgl – A new C game library for MSX")
+* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
+* [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k?page=1 "9958 FPGA drop-in clone is here: TN-VDP 20K.")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function?page=1 "VAR = CALL FUNCTION ?")
 * [Disk menu's](https://www.msx.org/forum/msx-talk/software-and-gaming/disk-menus?page=5 "Disk menu's")
-* [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=26 "MSXgl – A new C game library for MSX")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
 * [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
@@ -161,8 +163,6 @@ Latest forum posts
 * [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
 * [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
 * [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
-* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [Sony Hi-Brid](https://www.msx.org/forum/msx-talk/software-and-gaming/sony-hi-brid?page=1 "Sony Hi-Brid")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
