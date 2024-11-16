@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
-        
-        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
-        
     *  [![](https://media.king5.com/assets/KING/images/2dec7c7f-2e69-4da6-9b93-43866b48f233/20241116T064658/2dec7c7f-2e69-4da6-9b93-43866b48f233_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2dec7c7f-2e69-4da6-9b93-43866b48f233/20241116T064658/2dec7c7f-2e69-4da6-9b93-43866b48f233_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
+        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-39°
+44°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
