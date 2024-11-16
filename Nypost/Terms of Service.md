@@ -76,10 +76,6 @@ Search
 
 Search
 
-#### Breaking News
-
-[Trump to name campaign spokeswoman as White House press secretary](https://nypost.com/2024/11/15/us-news/trump-to-name-campaign-spokeswoman-karoline-leavitt-as-white-house-press-secretary/)
-
 Terms Of Use
 ============
 
