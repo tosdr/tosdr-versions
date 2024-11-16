@@ -246,20 +246,6 @@ MuggleNet Archive Select Month November 2024  (12) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Fri, Nov 15
-
-Fantastic Beasts and Where to Find Them - Movie 1 (London premiere)
-
-Recurs yearly
-
-2016
-
-Harry Potter and the Chamber of Secrets movie
-
-Recurs yearly
-
-2002
-
 #### Sat, Nov 16
 
 Fantastic Beasts: Crimes of Grindelwald - Movie 2
@@ -306,6 +292,36 @@ Recurs yearly
 
 Rosier
 
+#### Fri, Nov 22
+
+Hagrid leads Harry to dragon enclosure
+
+Recurs yearly
+
+1994
+
+Jamie Campbell Bower's birthday
+
+Recurs yearly
+
+Young Gellert Grindelwald
+
+Mads Mikkelsen's birthday
+
+Recurs yearly
+
+Gellert Grindelwald – FB
+
+Silvanus Kettleburn's birthday
+
+Recurs yearly
+
+Sirius's head appears in the Gryffindor common room fire
+
+Recurs yearly
+
+1994
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -316,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Harry Potter’s middle name is James, Hermione Granger’s is Jean, Ginny Weasley’s is Molly – after her mother – and poor old Ron Weasley’s is Bilius.
+The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
 
 ### Potter History
 
-July 16, 2005 – Harry Potter and the Half-Blood Prince book is released internationally in English to the delight of Harry Potter fans everywhere.
+September 17, 2007 – Warner Bros. confirms the Harry Potter and the Order of the Phoenix DVD is set to be released in the United Kingdom on November 12.
 
 ### Potter Quote
 
-“Are you insane? Of course I want to leave the Dursleys! Have you got a house? When can I move in?”
+“Books! And cleverness! There are more important things — friendship and bravery and — oh Harry — be careful!”
 
 [](#)
 
