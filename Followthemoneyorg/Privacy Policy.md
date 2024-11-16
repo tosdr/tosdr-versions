@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Direct Contributions from the Koch Network to State and Federal Candidates, by Party Affiliation, 2010-2016](/assets/Images/teasers/small/Koch-by-party.JPG)](https://www.followthemoney.org/research/blog/a-koch-fueled-blue-wave-not-likely)
+[![Hassan Banks on Little](/assets/Images/teasers/full/NH-Banking-2014.png)](http://www.followthemoney.org/research/blog/maggie-hassan-banks-on-jerry-little/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
