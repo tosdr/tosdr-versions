@@ -229,6 +229,7 @@ this hour
 
 * * *
 
+* [Egyptians Drank Hallucinogenic Cocktails](https://www.sciencedaily.com/releases/2024/11/241115124633.htm)
 * [Scientific Thought On Emotions in Animals](https://www.sciencedaily.com/releases/2024/11/241114161428.htm)
 * [Genetic 'Switch' Behind Parrot Color Diversity](https://www.sciencedaily.com/releases/2024/11/241115125034.htm)
 * [Sitting Too Long Can Harm Heart Health](https://www.sciencedaily.com/releases/2024/11/241115124729.htm)
@@ -238,7 +239,6 @@ this hour
 * [Backyard Birds Learn from New Neighbors](https://www.sciencedaily.com/releases/2024/11/241114161140.htm)
 * [4 Policies to Eliminate 90% of Plastic Waste](https://www.sciencedaily.com/releases/2024/11/241114161138.htm)
 * [Capturing 'Hot' CO2 from Industrial Exhaust](https://www.sciencedaily.com/releases/2024/11/241114161135.htm)
-* [Effects of Psychedelics: Neural Circuits](https://www.sciencedaily.com/releases/2024/11/241114161054.htm)
 
 Trending Topics
 ---------------
