@@ -181,16 +181,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [SilencerCo SCO-15 Ambi Receiver Set: Review](https://www.thegunpage.com/silencerco-sco-15-ambi-receiver-set-review/10611910)
+* [Maxim Defense Unveils A New QD Suppressor And Flash Hider System](https://www.thegunpage.com/maxim-defense-unveils-a-new-qd-suppressor-and-flash-hider-system/10611908)
+* [Making Training Affordable: The Strikeman Laser Firearm Training System](https://www.thegunpage.com/making-training-affordable-the-strikeman-laser-firearm-training-system/10611906)
+* [Taurus Re-Introduce the Snub Nose Taurus 650](https://www.thegunpage.com/taurus-re-introduce-the-snub-nose-taurus-650/10611909)
 * [YouTuber Brandon Herrera for ATF Director? Mmmm, Probably Not; But Would be Funny](https://www.thegunpage.com/youtuber-brandon-herrera-for-atf-director-mmmm-probably-not-but-would-be-funny/10611903)
 * [FALCO Holsters Launches Hybrid Holsters Featuring New TalonGuard Syste](https://www.thegunpage.com/falco-holsters-launches-hybrid-holsters-featuring-new-talonguard-syste/10611899)
 * [NSSF Urges Trump to Disband White House Office of Gun Violence Prevention](https://www.thegunpage.com/nssf-urges-trump-to-disband-white-house-office-of-gun-violence-prevention/10611897)
 * [NEW H&K MR556 A4: Is this Civilian HK 416 Worth $3929?](https://www.thegunpage.com/new-hk-mr556-a4-is-this-civilian-hk-416-worth-3929/10611900)
 * [Despite Election Loss, Gun-Ban Groups Vow To Continue Fight Against Your 2A Rights](https://www.thegunpage.com/despite-election-loss-gun-ban-groups-vow-to-continue-fight-against-your-2a-rights/10611894)
 * [Maximus White: Youngest Ever Steel Master](https://www.thegunpage.com/maximus-white-youngest-ever-steel-master/10611893)
-* [TFB Review: Original SIG Sauer MCX vs Spear LT](https://www.thegunpage.com/tfb-review-original-sig-sauer-mcx-vs-spear-lt/10611890)
-* [POTD: 3E EOS PARS Thermal Sight on Heckler & Koch MR223](https://www.thegunpage.com/potd-3e-eos-pars-thermal-sight-on-heckler-koch-mr223/10611891)
-* [Concealed Carry Corner: How to Train for Carrying](https://www.thegunpage.com/concealed-carry-corner-how-to-train-for-carrying/10611892)
-* [HIT THE MARK, NOT YOUR WALLET: Strikeman’s Black Friday Deal is the Perfect Gift for Every Shooter](https://www.thegunpage.com/hit-the-mark-not-your-wallet-strikemans-black-friday-deal-is-the-perfect-gift-for-every-shooter/10611887)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
