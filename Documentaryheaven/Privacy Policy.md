@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Japan’s Killer Quake](/wp-content/thumbnails/5675-100x70.jpg?x53432)
+* [![Humans, Gods and Technology](/wp-content/thumbnails/13924-100x70.jpg?x53432)
     
-    Japan’s Killer Quake
+    Humans, Gods and Technology
     
-    In its worst crisis since World War II, Japan faces disaster on an epic scale.A death toll likely in the tens of thousands, massive destruction of homes and businesses, shortages of water and power,](https://documentaryheaven.com/japans-killer-quake/ "Japan’s Killer Quake")
-* [![Life Running Out Of Control](/wp-content/thumbnails/2383-100x70.jpg?x53432)
+    Humans are present with many with many many others from their species wandering around on this planet, as naked apes we once tamed fire and after that every form of new technology determined our devel](https://documentaryheaven.com/humans-gods-technology/ "Humans, Gods and Technology")
+* [![The Electricity War](/wp-content/thumbnails/4853-100x70.jpeg?x53432)
     
-    Life Running Out Of Control
+    The Electricity War
     
-    In the mid 1980s, scientists unlocked the genetic keys to manipulating our world. Suddenly everything seemed possible! There would be no more hunger or malnutrition; diseases would be vanquished and p](https://documentaryheaven.com/life-running-out-of-control/ "Life Running Out Of Control")
-* [![Dispatches: Beslan](/wp-content/thumbnails/1274-100x70.jpg?x53432)
+    In the War of Currents era in the late 1880s, George Westinghouse and Thomas Edison became adversaries due to Edison’s promotion of direct current (DC) for electric power distribution over alternating](https://documentaryheaven.com/the-electricity-war/ "The Electricity War")
+* [![What Ever Happened to Hip Hop?](/wp-content/thumbnails/7004-100x70.jpg?x53432)
     
-    Dispatches: Beslan
+    What Ever Happened to Hip Hop?
     
-    The school siege at Beslan was the bloodiest act of terrorism ever to take place on Russian soil. Yet beyond this horrible truth remain many unanswered questions. There is no agreement on who the terr](https://documentaryheaven.com/dispatches-beslan/ "Dispatches: Beslan")
-* [![Ohio Slave Girls: Their Story](/wp-content/thumbnails/9240-100x70.jpeg?x53432)
+    It began with the beat of the drum. With the beat, came a voice for those without one. From this voice, came a movement. Overcoming the odds, the originators of hip hop took their music from block par](https://documentaryheaven.com/what-ever-happened-to-hip-hop/ "What Ever Happened to Hip Hop?")
+* [![Dispatches: Undercover Mosque](/wp-content/thumbnails/792-100x70.png?x53432)
     
-    Ohio Slave Girls: Their Story
+    Dispatches: Undercover Mosque
     
-    This is the story that shocked the world, a dramatic escape after 11 years in captivity. How had a school bus driver managed to kidnap and enslave three local girls? How did they remain undiscovered w](https://documentaryheaven.com/ohio-slave-girls-story/ "Ohio Slave Girls: Their Story")
-* [![Palestine Is Still The Issue](/wp-content/thumbnails/720-100x70.png?x53432)
+    An undercover investigation into mosques in the UK which are run by organisations whose public faces are presented as moderate but whose preachers condemn democracy and praise the Taliban for killing](https://documentaryheaven.com/dispatches-undercover-mosque/ "Dispatches: Undercover Mosque")
+* [![The Japanese Love Industry](/wp-content/thumbnails/8123-100x70.jpg?x53432)
     
-    Palestine Is Still The Issue
+    The Japanese Love Industry
     
-    In 1977, the award-winning journalist and film-maker, John Pilger, made a documentary called Palestine Is Still The Issue. He told how almost a million Palestinians had been forced off their land in 1](https://documentaryheaven.com/palestine-is-still-the-issue/ "Palestine Is Still The Issue")
+    Japan is a country that is dying, literally. Japan has more people over the age of 65 and the smallest number of people under the age of 15 in the world. It has the fastest negative population growth](https://documentaryheaven.com/japanese-love-industry/ "The Japanese Love Industry")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
