@@ -117,59 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> Wish I started ages ago!
+> ------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> I just want to compliment you and your team for an amazing back office software.
 > 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I have been struggling with a proper invoicing solution for six months now (to make time each month)
+> 
+> I just wish I started using Invoices Online ages ago.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Terri Winfield
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=124801645)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=188994938)  
+TechnoDezi PTY(LTD)
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=106577991)  
-Sophia's Roses
-
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=50037662)  
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=208879547)  
 Kinetic Power Solutions (Pty) Ltd.
 
-![valued client Meyer Towing & Recovery ](https://www.invoicesonline.co.za/scripts/image.php?bid=7983&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=144413249)  
-Meyer Towing & Recovery
+![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=204409584)  
+Lion Software Develepment
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=47382849)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=144919250)  
+TRACKFORCE (Pty) Ltd
 
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=69563412)  
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=30666238)  
+Roekeloos Group
+
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=188415523)  
+AFS Electrical
+
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=101860613)  
+Bchange Online CC
+
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=74813096)  
+Firstweb Hosting & Design
+
+![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=198591790)  
+IEMS (PTY) ltd
+
+![valued client Moulded Wax SA - The Candle Store](https://www.invoicesonline.co.za/scripts/image.php?bid=8218&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=99614394)  
+Moulded Wax SA - The Candle Store
+
+![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=15331012)  
 Beyond Laser CNC Cutting Technology South Africa CC
 
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=37996738)  
-Lily Fern & Co
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=172022917)  
+#DiGi3 Marketing & Design
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=36191388)  
-Roamfree Boerdery (PTY) LTD
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=109885484)  
+Sophia's Roses
 
-![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=144908806)  
-Karino Merinos ( PTY ) LTD
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=60259780)  
+Baby Toddles Infant Care
 
-![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=128194074)  
-Hydroworld T/A Milliqua
-
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=177743731)  
-Imvubu General Trading
-
-![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=177636090)  
-Blue Bulls Rugby Coaches Association
-
-![valued client WIP Digital Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=1603&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=11901733)  
-WIP Digital Solutions
-
-![valued client Van Der Merwe Olieverspreiders](https://www.invoicesonline.co.za/scripts/image.php?bid=8554&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=59300671)  
-Van Der Merwe Olieverspreiders
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=833a793e435cdc3436f2031d42bcc0dfccbc724d358df3f3a9aa909087eab452&c=131078722)  
-Kainos (Pty) Ltd
+![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=47d4de5487897e144c898ab073c392ad241a8111e7e69e9b4661be7f0b540c70&c=83081317)  
+Myfinance-Online
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
