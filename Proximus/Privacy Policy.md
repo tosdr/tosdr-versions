@@ -144,7 +144,7 @@ Conditions générales
 
 [Conditions générales applicables à tous les services](#)
 
-[Conditions générales pour consommateurs et petites entreprises(PDF, 257Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-10-25-12-09-57~cache.pdf)
+[Conditions générales pour consommateurs et petites entreprises(PDF, 257Kb)](https://www.proximus.be/dam/jcr:9891e8ea-2901-4979-b411-b991ef793734/cdn/sites/iportal/documents/pdfs/common/from20191101/Conditions-g-n-rales-pour-les-consommateurs-et-les-petites-entreprises---FR~2024-11-14-06-10-36~cache.pdf)
 
 [Téléphonie fixe](#)
 
@@ -344,7 +344,7 @@ En raison de la difficulté d’identifier avec certitude les clients impactés 
 * Les interruptions de service mobile (abonnements) sont compensées automatiquement si le client a notifié la panne et pour autant que plusieurs clients soient impactés par la même panne ;
 * Les interruptions de service mobile (cartes prépayées) ne sont compensées sur demande expresse du client qui fournit en même temps l’adresse de son domicile et pour autant que plusieurs clients soient impactés par la même panne.
 
-Les clients pourront notifier les pannes et introduire les demandes de compensation légales au plus tard 5 jours suivant le jour de la fin de la panne et selon les moyens que Proximus mettra à disposition cet effet.
+Les clients pourront notifier les pannes et introduire les demandes de compensation légales au plus tard 30 jours suivant le jour de la fin de la panne et selon les moyens que Proximus mettra à disposition cet effet.
 
 _**Quel est le montant de la compensation et sous quelle forme sera-t-elle octroyée ?**_
 
