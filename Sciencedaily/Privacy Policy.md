@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 15, 2024**
+**November 16, 2024**
 
 * * *
 
@@ -230,9 +230,9 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
-
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+
+[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
