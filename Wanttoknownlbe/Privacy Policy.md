@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/het-1111-fenomeen-de-visie-van-nico-appelman/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/business-spiritualiteit-mooi/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
