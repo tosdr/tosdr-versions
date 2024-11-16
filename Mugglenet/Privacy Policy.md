@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-The Hogwarts school motto, Draco Dormiens Nunquam Titillandus, means “Never Tickle a Sleeping Dragon.”
+There were seven male white owls that played Hedwig.
 
 ### Potter History
 
-September 17, 2007 – Warner Bros. confirms the Harry Potter and the Order of the Phoenix DVD is set to be released in the United Kingdom on November 12.
+April 18, 2006 – Harry Potter and the Goblet of Fire grosses $20 million in IMAX.
 
 ### Potter Quote
 
-“Books! And cleverness! There are more important things — friendship and bravery and — oh Harry — be careful!”
+“Kicked out of Hogwarts for endangering human life with a beast. Yet one of your teachers argued strongly against your expulsion. I wonder, what makes Albus Dumbledore so fond of you, Mr. Scamander?”
 
 [](#)
 
