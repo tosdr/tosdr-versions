@@ -352,6 +352,18 @@ Community News
 
 [![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
+![](https://b108297.smushcdn.com/108297/wp-content/uploads/2022/02/Burnham_Awarded-768x384.jpeg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/award-winner-alora-deveau-denali-station-chiefs-citation-award/)
+
+### [Award winner – Alora DeVeau, Denali Station (Chief’s Citation Award)](https://www.starbase118.net/2024/award-winner-alora-deveau-denali-station-chiefs-citation-award/)
+
+skhuss November 15, 2024
+
+Join us for another in a series of interviews with winners of awards from our 2024 Awards Ceremony. Our goal is to give you insight
+
+[Read More »](https://www.starbase118.net/2024/award-winner-alora-deveau-denali-station-chiefs-citation-award/)
+
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
 ![](https://b108297.smushcdn.com/108297/wp-content/uploads/2015/02/starbase12-768x540.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/starbase-118-ops-celebrates-frontier-day-and-welcomes-new-commanding-officer/)
 
 ### [StarBase 118 Ops Celebrates Frontier Day and Welcomes New Commanding Officer](https://www.starbase118.net/2024/starbase-118-ops-celebrates-frontier-day-and-welcomes-new-commanding-officer/)
@@ -373,18 +385,6 @@ Salkath November 11, 2024
 Join us for another in a series of interviews with winners of awards from our 2401 Awards Ceremony. Our goal is to give you insight
 
 [Read More »](https://www.starbase118.net/2024/award-winner-kirsty-lee-carpenter-uss-ronin-shaxs-star-security-tactical/)
-
-[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-
-![](https://b108297.smushcdn.com/108297/wp-content/uploads/2023/03/Lunaclass-768x399.jpg?lossy=0&strip=1&webp=1)](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
-
-### [Prime Directive Crisis Emerges During USS Artemis Search and Rescue Mission in Borderlands](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
-
-Federation News Service November 10, 2024
-
-BORDERLANDS, CELEDI NEBULA – A routine mission to locate the missing civilian freighter Tritorian has transformed into a high-stakes situation for the USS Artemis-A (NCC-81287)
-
-[Read More »](https://www.starbase118.net/2024/prime-directive-crisis-emerges-during-uss-artemis-search-and-rescue-mission-in-borderlands/)
 
 Ready to get started?
 ---------------------
