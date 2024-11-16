@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023-24 Israel-Iran proxy conflict (1,871)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,871 posts)")
-* [The "the boggest place on earth" Ques… (8)](https://forum.nationstates.net/viewtopic.php?t=558345&f=23&view=unread#unread ""The "the boggest place on earth" Question y Answer" (8 posts)")
-* [Come up with a funny rip off name for… (519)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (519 posts)")
-* [What is your relationship with AU? II (3,201)](https://forum.nationstates.net/viewtopic.php?t=553319&f=25&view=unread#unread ""What is your relationship with AU?  II" (3,201 posts)")
-* [Kytlerian domestic sports portal \[clo… (45)](https://forum.nationstates.net/viewtopic.php?t=543066&f=7&view=unread#unread ""Kytlerian domestic sports portal [closed]" (45 posts)")
+* [Does Your Nation Support? (8,432)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,432 posts)")
+* [What is the most terrifying thing abo… (477)](https://forum.nationstates.net/viewtopic.php?t=553705&f=25&view=unread#unread ""What is the most terrifying thing about AN" (477 posts)")
+* [Razenland Domestic Football News. (4)](https://forum.nationstates.net/viewtopic.php?t=557826&f=7&view=unread#unread ""Razenland Domestic Football News." (4 posts)")
+* [The great trial of F7ville \[IC\] (104)](https://forum.nationstates.net/viewtopic.php?t=557963&f=25&view=unread#unread ""The great trial of F7ville [IC]" (104 posts)")
+* [Agree or Disagree III (12,071)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,071 posts)")
 
 Advertisement
 
