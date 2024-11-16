@@ -85,11 +85,11 @@ Top VPNs
 
 #### Recent Posts
 
-* [20 Best Putlocker Alternatives (That REALLY Work) in 2024](https://www.firesticktricks.com/putlocker-alternatives.html)
-* [Best 123Movies Alternatives for Movies & Shows](https://www.firesticktricks.com/123movies-alternatives.html)
-* [Best StreamEast Alternatives for Sports Streaming](https://www.firesticktricks.com/streameast-alternatives.html)
-* [20 Best FMovies Alternatives for Free Movies & Shows](https://www.firesticktricks.com/fmovies-alternatives.html)
-* [How to Install Black and White Movies Kodi Addon](https://www.firesticktricks.com/black-and-white-movies-kodi-addon.html)
+* [How to Watch Katie Taylor vs. Amanda Serrano on FireStick](https://www.firesticktricks.com/watch-katie-taylor-vs-amanda-serrano-on-firestick.html)
+* [How to Log Out of Netflix on FireStick Quickly](https://www.firesticktricks.com/log-out-of-netflix-on-firestick.html)
+* [How to Get Subtitles on Kodi with OpenSubtitles (2024)](https://www.firesticktricks.com/kodi-subtitles.html)
+* [How to Watch UFC 309 on Kodi (Best UFC Addons in 2024)](https://www.firesticktricks.com/watch-ufc-kodi-addons.html)
+* [How to Watch UFC 309 on FireStick for Free (Jones vs. Miocic)](https://www.firesticktricks.com/watch-ufc-on-firestick.html)
 
 [![Fire Stick Tricks](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%2059'%3E%3C/svg%3E)
 
