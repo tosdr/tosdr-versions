@@ -8,7 +8,7 @@
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-       [![Buy SD Bullion Cross and Flag Gold Bars](https://sdbullion.com/media/wysiwyg/sticky_header/sdbullion-flag-and-cross-gold-bars-585x75psd_1_1_.jpg)    ![Buy SD Bullion Cross and Flag Gold Bars](https://sdbullion.com/media/wysiwyg/sticky_header/sdbullion-flag-and-cross-gold-bars-585x75psd_1_1_.jpg)](https://sdbullion.com/cross-flag-gold-bars)
+     [![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)   ![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)](https://sdbullion.com/modern-collectible-coins/celebrity-mint)
 
 Search  Search
 
