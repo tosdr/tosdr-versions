@@ -41,47 +41,71 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
+*  [![Oprah Winfrey speaking into a mic while sitting on stage](https://www.women.com/img/gallery/the-best-oprahs-book-club-picks-of-the-2020s/intro-1731348923.jpg)](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
     
-    [Beauty](https://www.women.com/category/beauty/)
+    [Living](https://www.women.com/category/living/)
     
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
     
-    [Lindsay Lohan's Hair Transformation Throughout The Years](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-    =============================================================================================================================================
+    [The Best Oprah's Book Club Picks Of The 2020s](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+    ================================================================================================================
     
-    Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
+    If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
+    By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
     
-* *  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+* *  [![Willow Smith sitting at a fashion event posing](https://www.women.com/img/gallery/5-bisexual-celebs-who-remind-us-theres-no-timeline-for-coming-out/intro-1731342732.jpg)](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
         
         [Politics](https://www.women.com/category/politics/)
         
         [Politics](https://www.women.com/category/politics/) By Amanda Chatel
         
-        ### [5 Celebs Who Clapped Back At Demands They Label Their Sexuality](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+        ### [5 Bisexual Celebs Who Remind Us There's No Timeline For Coming Out](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
         
-        No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
+        If you're trying to find the right time to share your bisexuality, know that there is no right time. It's all about when it feels right for you.
         
-        By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+        By Amanda Chatel [Read More](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
         
-    *  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+    *  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
         
-        [Politics](https://www.women.com/category/politics/)
+        [Beauty](https://www.women.com/category/beauty/)
         
-        [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
         
-        ### [6 Celebrities Who Had Abortions & Later Had Children By Choice](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+        ### [Lindsay Lohan's Hair Transformation Throughout The Years](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
         
-        Abortion is a controversial topic in post Roe America, and pro choice celebrities haven't been afraid to speak out about their experiences.
+        Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
         
-        By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+        By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
         
 
 More Stories
 ------------
 
+*  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [5 Celebs Who Clapped Back At Demands They Label Their Sexuality](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+    
+    No one should have to explain their sexuality, and these celebs have demonstrated the importance of clapping back at invasive speculation.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
+    
+*  [![Halsey in red polka dot dress and dark pixie cut posing](https://www.women.com/img/gallery/6-celebrities-who-had-abortions-later-had-children-by-choice/intro-1730998152.jpg)](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Emily Hutchinson
+    
+    ### [6 Celebrities Who Had Abortions & Later Had Children By Choice](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+    
+    Abortion is a controversial topic in post Roe America, and pro choice celebrities haven't been afraid to speak out about their experiences.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1707791/celebrities-had-abortions-late-had-children-by-choice/)
+    
 *  [![Woman with arm tattoos smiling and spraying perfume, with hair and body wrapped in a towel](https://www.women.com/img/gallery/5-perfume-mistakes-youre-probably-making/intro-1730993601.jpg)](https://www.women.com/1707678/perfume-mistakes/)
     
     [Exclusives](https://www.women.com/category/exclusives/)
@@ -381,30 +405,6 @@ More Stories
     Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
     
     By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-    
-*  [![Kylie Jenner at a WSJ Magazine event](https://www.women.com/img/gallery/kylie-jenners-best-nail-looks-of-all-time/intro-1730120154.jpg)](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Madison Emily Whisenand
-    
-    ### [Kylie Jenner's Best Nail Looks Of All Time](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    
-    Kylie Jenner may be most famous for her lip looks, but the socialite is also the queen of great manicures. Here are some of her best nail looks to date.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1698818/kylie-jenner-best-nail-looks/)
-    
-*  [![Ivanka Trump posing with red lips and heavy makeup](https://www.women.com/img/gallery/ivanka-trump-is-gorgeous-going-makeup-free/intro-1730079527.jpg)](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Ivanka Trump Is Gorgeous Going Makeup Free](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
-    
-    Ivanka Trump is known for her chic makeup, but Donald Trump's daughter has also treated us to makeup-free snaps in the past (and she always looks gorgeous!)
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1698684/ivanka-trump-gorgeous-makeup-free/)
     
 
 Back
