@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. python
+1. excel
     
 2. marketing
     
-3. finance
+3. computer science
     
 
 Popular subjects
 ----------------
 
-1. [Communication Skills
+1. [Computer Science
     
-    4,196 courses](https://www.classcentral.com/subject/communication-skills)
-2. [Data Analysis
+    43,030 courses](https://www.classcentral.com/subject/cs)
+2. [Computer Networking
     
-    8,726 courses](https://www.classcentral.com/subject/data-analysis)
-3. [Graphic Design
+    1,740 courses](https://www.classcentral.com/subject/computer-networking)
+3. [Project Management
     
-    4,324 courses](https://www.classcentral.com/subject/graphic-design)
+    4,206 courses](https://www.classcentral.com/subject/project-management)
 
 Popular courses
 ---------------
 
-1. [Chinese for Beginners
+1. [Marketing Innovative Products and Services
     
-    Peking University](https://www.classcentral.com/course/hy-2353)
-2. [Paleontology: Theropod Dinosaurs and the Origin of Birds
+    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
+2. [Psychology of Personal Growth
     
-    University of Alberta](https://www.classcentral.com/course/theropods-birds-5236)
-3. [How to Succeed at: Interviews
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
+3. [Understanding Multiple Sclerosis (MS)
     
-    The University of Sheffield](https://www.classcentral.com/course/interviews-2253)
+    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
