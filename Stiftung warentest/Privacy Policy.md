@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Zinsen: Zwei Prozent bei Trade Republic](https://www.test.de/Zinsen-Zwei-Prozent-bei-Trade-Republic-5959785-0/ "Zinsen - Zwei Prozent bei Trade Republic")
-* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Auto­reisen mit Kindern: Pausen perfekt planen](https://www.test.de/Autoreisen-mit-Kindern-Pausen-perfekt-planen-6160469-0/ "Autoreisen mit Kindern - Pausen perfekt planen")
-* [Tipps zur Rabatt­schlacht: Black Friday: Ruhe bewahren und clever shoppen](https://www.test.de/Tipps-zur-Rabattschlacht-Black-Friday-Ruhe-bewahren-und-clever-shoppen-6067833-0/ "Tipps zur Rabattschlacht - Black Friday: Ruhe bewahren und clever shoppen")
-* [Bank­karte Maestro: Wie geht es weiter mit der Girocard?](https://www.test.de/Bankkarte-Maestro-Wie-geht-es-weiter-mit-der-Girocard-5999318-0/ "Bankkarte Maestro - Wie geht es weiter mit der Girocard?")
+* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
+* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
+* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
+* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
+* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
+* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
 
 Service Stiftung Warentest
 
