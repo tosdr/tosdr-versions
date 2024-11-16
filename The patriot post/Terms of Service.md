@@ -1,6 +1,6 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Fellow Patriot:** The voluntary financial generosity of supporters like _you_ keeps our hard-hitting analysis coming. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us) today. Thank you for your support! —Nate Jackson, Managing Editor
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_0&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,7 +195,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/111986-historic-2024-11-15)
+     [](https://patriotpost.us/memes/112029-feeling-better-already-2024-11-16)
 
 * [More Memes >](https://patriotpost.us/memes)
 
@@ -207,14 +207,14 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Top Opinion
 
+*      [Matthew Continetti Meet the New Boss](https://patriotpost.us/opinion/112020-meet-the-new-boss-2024-11-16)
+*      [Imprimis Populist Conservatism and Constitutional Order](https://patriotpost.us/opinion/112021-populist-conservatism-and-constitutional-order-2024-11-16)
 *      [The Washington Stand The 4 Stories You Missed This Week](https://patriotpost.us/opinion/112022-the-4-stories-you-missed-this-week-2024-11-16)
 *      [Jeff Jacoby The ‘Jew Hunt’ in Amsterdam Was No Anomaly](https://patriotpost.us/opinion/112027-the-jew-hunt-in-amsterdam-was-no-anomaly-2024-11-16)
 *      [Gary Bauer Smiles & Fires](https://patriotpost.us/opinion/112012-smiles-and-fires-2024-11-15)
 *      [David Harsanyi A Lesson for Democrats — Don’t Be Weird](https://patriotpost.us/opinion/112011-a-lesson-for-democrats-dont-be-weird-2024-11-15)
 *      [Michael Barone The Democratic Gerontocracy Forgets the Lessons of Its Youth and Maturity](https://patriotpost.us/opinion/112010-the-democratic-gerontocracy-forgets-the-lessons-of-its-youth-and-maturity-2024-11-15)
 *      [Victor Davis Hanson Restoring Deterrence Will Prevent Endless Wars](https://patriotpost.us/opinion/112008-restoring-deterrence-will-prevent-endless-wars-2024-11-15)
-*      [Erick Erickson Dear Democrats](https://patriotpost.us/opinion/112006-dear-democrats-2024-11-15)
-*      [Josh Hammer Donald Trump Is Set to Make MAGA America’s Defining Political Movement](https://patriotpost.us/opinion/112005-donald-trump-is-set-to-make-maga-americas-defining-political-movement-2024-11-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,7 +228,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
