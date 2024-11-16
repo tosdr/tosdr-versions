@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
+    * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
     * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
-    * [Champions Trophy](https://www.news18.com/cricket/icc-champions-trophy-row-pakistan-provokes-india-cricket-board-announces-trophy-tour-in-pok-9121059.html)
-    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
-    * [Canada](https://www.news18.com/world/in-canada-khalistanis-ask-canadians-to-go-back-to-england-europe-watch-9120165.html)
     * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-regrets-inviting-abhishek-bachchan-on-kaun-banega-crorepati-16-galti-kardi-inko-9120997.html)
-    * [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
+    * [Ashneer Grover](https://www.news18.com/movies/salman-khan-bashes-ashneer-grover-calls-out-his-doglapan-in-bigg-boss-18-yeh-jo-attitude-hai-9122149.html)
+    * [Bigg Boss 18](https://www.news18.com/entertainment/television/bigg-boss-18-rajat-dalal-nominates-these-two-contestants-in-a-new-twist-9121896.html)
+    * [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
+    * [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-gives-high-five-to-maasi-says-love-you-video-goes-viral-9122011.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Maheep Kapoor](https://www.news18.com/movies/maheep-kapoor-was-dead-drunk-when-she-first-met-sanjay-kapoor-sridevi-had-a-one-night-stand-9120981.html)
+* [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
 * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
-* [Champions Trophy](https://www.news18.com/cricket/icc-champions-trophy-row-pakistan-provokes-india-cricket-board-announces-trophy-tour-in-pok-9121059.html)
-* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-singh-sidhu-breaks-silence-on-leaving-kapil-sharma-show-there-were-political-9120820.html)
-* [Canada](https://www.news18.com/world/in-canada-khalistanis-ask-canadians-to-go-back-to-england-europe-watch-9120165.html)
 * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-regrets-inviting-abhishek-bachchan-on-kaun-banega-crorepati-16-galti-kardi-inko-9120997.html)
-* [Rupali Ganguly](https://www.news18.com/movies/rupali-gangulys-stepdaughter-esha-verma-breaks-silence-on-rs-50-cr-defamation-case-were-protected-9120157.html)
+* [Ashneer Grover](https://www.news18.com/movies/salman-khan-bashes-ashneer-grover-calls-out-his-doglapan-in-bigg-boss-18-yeh-jo-attitude-hai-9122149.html)
+* [Bigg Boss 18](https://www.news18.com/entertainment/television/bigg-boss-18-rajat-dalal-nominates-these-two-contestants-in-a-new-twist-9121896.html)
+* [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
+* [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-gives-high-five-to-maasi-says-love-you-video-goes-viral-9122011.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
