@@ -78,6 +78,22 @@ Search for:
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
 
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-buttigieg-220x180.jpg)](https://americanwirenews.com/dems-say-trump-cabinet-picks-are-unqualified-but-do-they-remember-bidens-appointees/)
+
+[Dems say Trump Cabinet picks are unqualified, but do they remember Biden’s appointees?](https://americanwirenews.com/dems-say-trump-cabinet-picks-are-unqualified-but-do-they-remember-bidens-appointees/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnn-smear-2-220x180.jpg)](https://americanwirenews.com/court-says-cnn-parent-company-must-hand-over-financial-docs-if-subpoenaed/)
+
+[Court says CNN parent company MUST hand over financial docs if subpoenaed](https://americanwirenews.com/court-says-cnn-parent-company-must-hand-over-financial-docs-if-subpoenaed/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-nancyfetterman-1200-x-628-220x180.jpg)](https://americanwirenews.com/fetterman-suggests-that-octogenarian-pelosi-needs-to-go-make-way-for-someone-younger/)
+
+[Fetterman suggests that octogenarian Pelosi needs to go, make way for someone younger](https://americanwirenews.com/fetterman-suggests-that-octogenarian-pelosi-needs-to-go-make-way-for-someone-younger/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-dncnancy-1200-x-628-220x180.jpg)](https://americanwirenews.com/dems-turn-on-pelosi-in-aftermath-of-biden-debacle-she-needs-to-take-a-seat/)
+
+[Dems turn on Pelosi in aftermath of Biden debacle: ‘She needs to take a seat’](https://americanwirenews.com/dems-turn-on-pelosi-in-aftermath-of-biden-debacle-she-needs-to-take-a-seat/)
+
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-laken-riley-murderer--220x180.png)](https://americanwirenews.com/laken-riley-911-call-released-as-murder-trial-begins-spurs-furious-calls-for-death-penalty/)
 
 [Laken Riley 911 call released as murder trial begins, spurs furious calls for ‘death penalty’](https://americanwirenews.com/laken-riley-911-call-released-as-murder-trial-begins-spurs-furious-calls-for-death-penalty/)
@@ -157,22 +173,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-alina-habba-220x180.png)](https://americanwirenews.com/alina-habba-addresses-press-secretary-speculation-as-names-of-potential-contenders-rips-through-x/)
 
 [Alina Habba addresses Press Secretary speculation as names of potential contenders rip through X](https://americanwirenews.com/alina-habba-addresses-press-secretary-speculation-as-names-of-potential-contenders-rips-through-x/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ezra-klein-220x180.jpg)](https://americanwirenews.com/nyt-columnist-tells-leftists-blaming-fox-news-for-loss-to-shut-the-fk-up-in-reality-filled-rant/)
-
-[NYT columnist tells leftists blaming ‘Fox News’ for loss to ‘shut the f\*\*k up’ in reality-filled rant](https://americanwirenews.com/nyt-columnist-tells-leftists-blaming-fox-news-for-loss-to-shut-the-fk-up-in-reality-filled-rant/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-fema-220x180.jpg)](https://americanwirenews.com/desantis-endorses-florida-taking-legal-action-against-fema-over-discrimination/)
-
-[Florida takes swift legal action against FEMA over discrimination](https://americanwirenews.com/desantis-endorses-florida-taking-legal-action-against-fema-over-discrimination/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-mccarthy-220x180.jpg)](https://americanwirenews.com/mccarthy-adamant-gaetz-wont-be-confirmed-federalists-sean-davis-floats-interesting-twist-if-hes-right/)
-
-[McCarthy adamant Gaetz won’t be confirmed, Federalist’s Sean Davis floats ‘interesting’ twist if he’s right](https://americanwirenews.com/mccarthy-adamant-gaetz-wont-be-confirmed-federalists-sean-davis-floats-interesting-twist-if-hes-right/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-woman-tearing-up-order-220x180.jpg)](https://americanwirenews.com/woman-jailed-for-keeping-salon-open-during-covid-just-won-a-seat-in-texas-house/)
-
-[Woman jailed for keeping salon open during Covid just won a seat in Texas House](https://americanwirenews.com/woman-jailed-for-keeping-salon-open-during-covid-just-won-a-seat-in-texas-house/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
