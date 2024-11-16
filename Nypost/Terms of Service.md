@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Lame-duck Biden humiliated with back-corner spot in APEC family photo as China's Xi get place of honor in front row](https://nypost.com/2024/11/16/us-news/biden-humiliated-with-back-corner-spot-in-apec-family-photo-as-chinas-xi-get-place-of-honor-in-front/)
+
 Terms Of Use
 ============
 
