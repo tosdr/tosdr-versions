@@ -57,15 +57,15 @@ Smart, Fearless Journalism
 membership ticker
 -----------------
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR62%7CPAHPR62/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPR63%7CPAHPR63/)
 
-Do you give a damn about the future of this country?
+Are there any guardrails left?
 
-The guardrails protecting democracy may have buckled, but they are not broken. Autocratic forces are ascendant in America—yes, it _can_ happen here, and did—but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against Trump’s unrestrained exercise of power**. Our nonprofit newsroom is built for what’s ahead. No oligarchs or billionaires can tell us what to publish. **Depend on it, and please stand with us**.
+Autocratic forces are ascendant in America, but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against the unrestrained exercise of power**. At a time when billionaire owners of corporate media are making accommodations to power, our nonprofit newsroom cannot be bought, bent, or broken. **Depend on it, and please stand with us**.
 
-The guardrails protecting democracy may have buckled, but they are not broken. Autocratic forces are ascendant in America, but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against Trump’s unrestrained exercise of power**. Our nonprofit newsroom is built for what’s ahead. No oligarchs or billionaires can tell us what to publish. **Please stand with us**.
+Autocratic forces are ascendant in America, but the story isn’t fully written. **Truth-telling independent media is one remaining bulwark against the unrestrained exercise of power**. At a time when billionaire owners of corporate media are making accommodations to power, our nonprofit newsroom cannot be bought or broken. **Please stand with us**.
 
-[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRX%7CPAHPMRX/)
+[Donate Now](https://secure.motherjones.com/flex/mj/key/7LIGHTS/src/7AHPMRY%7CPAHPMRY/)
 
 Privacy Policy
 ==============
