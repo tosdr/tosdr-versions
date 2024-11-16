@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![brouillard](https://www.watson.ch/fr/_watsui/static/img/weather/w-56.svg)\-1°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![assez ensoleillé](https://www.watson.ch/fr/_watsui/static/img/weather/w-55.svg)3°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,6 +54,8 @@
 
 Thèmes du moment
 
+* [Netflix](https://www.watson.ch/fr/netflix/)
+* [Interview](https://www.watson.ch/fr/interview/)
 * [Technologie](https://www.watson.ch/fr/technologie/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Twitter](https://www.watson.ch/fr/twitter/)
@@ -61,18 +63,16 @@ Thèmes du moment
 * [France](https://www.watson.ch/fr/france/)
 * [Israël](https://www.watson.ch/fr/israel/)
 * [Liban](https://www.watson.ch/fr/liban/)
+* [Histoire](https://www.watson.ch/fr/histoire/)
 * [nourriture](https://www.watson.ch/fr/nourriture/)
 * [Politique](https://www.watson.ch/fr/politique/)
 * [Conseil fédéral](https://www.watson.ch/fr/conseil-federal/)
-* [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
-* [Espagne](https://www.watson.ch/fr/espagne/)
 * [Russie](https://www.watson.ch/fr/russie/)
 * [Gaza](https://www.watson.ch/fr/gaza/)
 * [boxe](https://www.watson.ch/fr/boxe/)
 * [Musique](https://www.watson.ch/fr/musique/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Elon Musk](https://www.watson.ch/fr/elon-musk/)
-* [Nati](https://www.watson.ch/fr/nati/)
 * [Football](https://www.watson.ch/fr/football/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
