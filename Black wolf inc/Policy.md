@@ -26,7 +26,7 @@
         * [Devices](https://blackwolfnation.com/collections/devices)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
-        * [WUSH 1.0 Ear Cleaner](https://blackwolfnation.com/products/wush)
+        * [WUSH BUY ONE GIFT ONE 50% OFF!](https://blackwolfnation.com/products/wush-2-pack)
         * [WUSH 2.0 PRO Ear Cleaner](https://blackwolfnation.com/products/wush-2-0-pro-ear-cleaner)
     * [Body Wash](https://blackwolfnation.com/collections/black-wolf-body-wash)
         * Back
@@ -92,7 +92,7 @@
     * [Devices](https://blackwolfnation.com/collections/devices)
         * [Sonic Scrubber](https://blackwolfnation.com/products/sonic-scrubber)
         * [Sonic Scalp](https://blackwolfnation.com/products/sonic-scalp)
-        * [WUSH 1.0 Ear Cleaner](https://blackwolfnation.com/products/wush)
+        * [WUSH BUY ONE GIFT ONE 50% OFF!](https://blackwolfnation.com/products/wush-2-pack)
         * [WUSH 2.0 PRO Ear Cleaner](https://blackwolfnation.com/products/wush-2-0-pro-ear-cleaner)
     * [Body Wash](https://blackwolfnation.com/collections/black-wolf-body-wash)
         * [Hydrating Body Wash](https://blackwolfnation.com/products/hydrating-body-wash)
