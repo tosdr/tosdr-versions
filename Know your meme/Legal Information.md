@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/657/doge-elon-musk-editorial.jpg "From Dogecoin To The Department Of Government Efficiency: Elon Musk's History With The 'Doge' Meme")
+* [![There Are Hidden Messages in "Meaningful" Quotes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/672/cover3.jpg "Happy Anniversary To Sbeve")
     
-    From Dogecoin To The Department Of Government Efficiency: Elon Musk's History With The 'Doge' Meme](https://knowyourmeme.com/editorials/insights/from-dogecoin-to-the-department-of-government-efficiency-elon-musks-history-with-the-doge-meme)
+    Happy Anniversary To Sbeve](https://knowyourmeme.com/memes/she-believed-sbeve)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/656/awoooog.jpg "Where Did The 'Awooga' Copypasta Come From? Memes That Go 'Hummina Hummina Bazooing' Explained")
+* [![Though It Comes From, Well, You Know, The First Page Of 'Emergence' Is Also A 'Wink Wink' Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/671/Metamorphosis_1st_page_thumbnail.png "Though It Comes From, Well, You Know, The First Page Of 'Emergence' Is Also A 'Wink Wink' Redraw Meme")
     
-    Where Did The 'Awooga' Copypasta Come From? Memes That Go 'Hummina Hummina Bazooing' Explained](https://knowyourmeme.com/editorials/guides/where-did-the-awooga-copypasta-come-from-memes-that-go-hummina-hummina-bazooing-explained)
+    Though It Comes From, Well, You Know, The First Page Of 'Emergence' Is Also A 'Wink Wink' Redraw Meme](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/655/HUZZ-BRUZZ-EXPLAINER.jpg "What Do 'Huzz,' 'Bruzz' And 'Gruzz' Mean? The 'Uzz' Slang Words On TikTok And Their Meanings Explained")
+* [![Minecraft Steve Has Been Messing With People In A Recent IRL Edit Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/670/cover3.jpg "Minecraft Steve Has Been Messing With People In A Recent IRL Edit Trend")
     
-    What Do 'Huzz,' 'Bruzz' And 'Gruzz' Mean? The 'Uzz' Slang Words On TikTok And Their Meanings Explained](https://knowyourmeme.com/editorials/guides/what-do-huzz-bruzz-and-gruzz-mean-the-uzz-slang-words-on-tiktok-and-their-meanings-explained)
+    Minecraft Steve Has Been Messing With People In A Recent IRL Edit Trend](https://knowyourmeme.com/memes/minecraft-steve-trolling-people)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/653/cover7.jpg "The Weekly Meme Roundup: DOGE Doubt, Gary Barlow's Big Boy, I Understand It Now and More")
+* [![Alleged TikTok Feud Between Lizzo And Lana Del Rey Sparks Memes And Online Discussion](https://i.kym-cdn.com/featured_items/icons/wide/000/026/669/Lana_and_lizzo_feud_cover.jpg "Alleged TikTok Feud Between Lizzo And Lana Del Rey Sparks Memes And Online Discussion")
     
-    The Weekly Meme Roundup: DOGE Doubt, Gary Barlow's Big Boy, I Understand It Now and More](https://knowyourmeme.com/editorials/meme-review/the-weekly-meme-roundup-doge-doubt-gary-barlows-big-boy-i-understand-it-now-and-more)
+    Alleged TikTok Feud Between Lizzo And Lana Del Rey Sparks Memes And Online Discussion](https://knowyourmeme.com/memes/events/lizzo-and-lana-del-rey-tiktok-feud)
     
-* [![](https://i.kym-cdn.com/featured_items/icons/wide/000/026/654/csd2.jpg "Who Is 'Chip Shop Diva?' TikTok's Viral 'Mini Haddock Meal' Girl Explained")
+* [![The 'Chip Shop Diva' Is Taking Over TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/668/csd.jpg "The 'Chip Shop Diva' Is Taking Over TikTok")
     
-    Who Is 'Chip Shop Diva?' TikTok's Viral 'Mini Haddock Meal' Girl Explained](https://knowyourmeme.com/editorials/guides/who-is-chip-shop-diva-tiktoks-viral-mini-haddock-meal-girl-explained)
+    The 'Chip Shop Diva' Is Taking Over TikTok](https://knowyourmeme.com/memes/people/chip-shop-diva-chip-shop-girl)
     
 
 ##### Also Trending:
 
-[Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak")
+[Jake Paul vs. Mike Tyson](https://knowyourmeme.com/memes/events/jake-paul-vs-mike-tyson "Jake Paul vs. Mike Tyson") [Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [Emergence First Page / Saki Yoshida Redraws](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws "Emergence First Page / Saki Yoshida Redraws") [Mike Tyson's A\*\*](https://knowyourmeme.com/memes/mike-tysons-ass "Mike Tyson's A**") [Warcraft III: Reforged](https://knowyourmeme.com/memes/subcultures/warcraft-iii-reforged "Warcraft III: Reforged") [Fundamental Paper Education](https://knowyourmeme.com/memes/subcultures/fundamental-paper-education "Fundamental Paper Education")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Word Up! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
