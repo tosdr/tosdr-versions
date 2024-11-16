@@ -20,16 +20,16 @@ Saturday, November 16 2024
 
 Latest
 
-* [FTC reports 50% drop in unwanted call complaints since 2021](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
-* [WhatsApp now lets you save message drafts](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
-* [Today’s Wordle Answer and Hints (November 16, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
-* [Huawei MateBook 14 (2024) review](https://digitpatrox.com/huawei-matebook-14-2024-review/)
-* [Google’s Gemini app is now available on iPhones – Computerworld](https://digitpatrox.com/googles-gemini-app-is-now-available-on-iphones-computerworld/)
-* [My Favorite Products for Cleaning the Bathroom](https://digitpatrox.com/my-favorite-products-for-cleaning-the-bathroom/)
-* [Nuna TRVL LX Travel Stroller Review](https://digitpatrox.com/nuna-trvl-lx-travel-stroller-review/)
-* [What Should You Do If Windows Security Detects a Virus?](https://digitpatrox.com/what-should-you-do-if-windows-security-detects-a-virus/)
-* [OpenAI could be plotting a foray into the world of AI agents – here’s what we know so far](https://digitpatrox.com/openai-could-be-plotting-a-foray-into-the-world-of-ai-agents-heres-what-we-know-so-far/)
-* [Ubuntu Server Cheat Sheet](https://digitpatrox.com/ubuntu-server-cheat-sheet/)
+* [EU Fines Meta Nearly €800 Million over Facebook Marketplace](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
+* [Black Friday sales are slashing the prices of e-bikes and scooters — shop the best deals up to $500 off](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
+* [Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
+* [Half-Life 2 is getting a huge 20th anniversary update](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
+* [This Black Friday Deal Brings 44% off on Z-Edge’s 27″ Curved Gaming Monitor](https://digitpatrox.com/this-black-friday-deal-brings-44-off-on-z-edges-27-curved-gaming-monitor/)
+* [Mimecast promises “unparalleled support” with new Partner ONE MSP program](https://digitpatrox.com/mimecast-promises-unparalleled-support-with-new-partner-one-msp-program/)
+* [AI is dumber than you think](https://digitpatrox.com/ai-is-dumber-than-you-think/)
+* [How to Contact Amazon Customer Service and Talk to a Real Person](https://digitpatrox.com/how-to-contact-amazon-customer-service-and-talk-to-a-real-person/)
+* [Can You Get a Deal After You’ve Paid Full Price?](https://digitpatrox.com/can-you-get-a-deal-after-youve-paid-full-price/)
+* [Does Your Raspberry Pi Need an Active Cooler? How to Know It’s Too Hot](https://digitpatrox.com/does-your-raspberry-pi-need-an-active-cooler-how-to-know-its-too-hot/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/15/telemarketers-phone-call-center.jpg)](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241115-eu-fines-meta-facebook-marketplace.jpg)](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
     
-    [FTC reports 50% drop in unwanted call complaints since 2021](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
+    [EU Fines Meta Nearly €800 Million over Facebook Marketplace](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
     
-    11 minutes ago
+    12 seconds ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/TTHtVMuyLgJ0BaAei235MWPocJE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24062761/STK110_whats_app_Kradtke_02.jpg)](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
+* [![](https://cdn.mos.cms.futurecdn.net/4YEruceNdqH9nJe9okL87V-1200-80.jpg)](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
     
-    [WhatsApp now lets you save message drafts](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
+    [Black Friday sales are slashing the prices of e-bikes and scooters — shop the best deals up to $500 off](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
     
-    28 minutes ago
+    4 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
+* [![](https://www.bleepstatic.com/content/hl-images/2023/11/15/Hacker_crypto_bitcoins.jpg)](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
     
-    [Today’s Wordle Answer and Hints (November 16, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
+    [Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
     
-    48 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/Dpzbiw226gmmQ46LsKJSvQ-1200-80.jpg)](https://digitpatrox.com/huawei-matebook-14-2024-review/)
+* [![](https://cdn.vox-cdn.com/thumbor/qGiYO3k0vz2G_SREV1XI5PrQc1s=/0x0:1024x576/1200x628/filters:focal(512x288:513x289)/cdn.vox-cdn.com/uploads/chorus_asset/file/25735822/ss_18841cb9a8fc2cf67039317b601d10c4059b6fa8.jpg)](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
     
-    [Huawei MateBook 14 (2024) review](https://digitpatrox.com/huawei-matebook-14-2024-review/)
+    [Half-Life 2 is getting a huge 20th anniversary update](https://digitpatrox.com/half-life-2-is-getting-a-huge-20th-anniversary-update/)
     
     2 hours ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3607194-0-83139400-1731683258-Bildschirmfoto-2024-09-27-um-10.49.59.png?w=1024)](https://digitpatrox.com/googles-gemini-app-is-now-available-on-iphones-computerworld/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Z-Edge-Gaming-Monitor.jpg)](https://digitpatrox.com/this-black-friday-deal-brings-44-off-on-z-edges-27-curved-gaming-monitor/)
     
-    [Google’s Gemini app is now available on iPhones – Computerworld](https://digitpatrox.com/googles-gemini-app-is-now-available-on-iphones-computerworld/)
+    [This Black Friday Deal Brings 44% off on Z-Edge’s 27″ Curved Gaming Monitor](https://digitpatrox.com/this-black-friday-deal-brings-44-off-on-z-edges-27-curved-gaming-monitor/)
     
-    3 hours ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [11 minutes ago
+* [12 seconds ago
     
-    ### FTC reports 50% drop in unwanted call complaints since 2021](https://digitpatrox.com/ftc-reports-50-drop-in-unwanted-call-complaints-since-2021/)
-* [28 minutes ago
+    ### EU Fines Meta Nearly €800 Million over Facebook Marketplace](https://digitpatrox.com/eu-fines-meta-nearly-e800-million-over-facebook-marketplace/)
+* [4 minutes ago
     
-    ### WhatsApp now lets you save message drafts](https://digitpatrox.com/whatsapp-now-lets-you-save-message-drafts/)
-* [48 minutes ago
+    ### Black Friday sales are slashing the prices of e-bikes and scooters — shop the best deals up to $500 off](https://digitpatrox.com/black-friday-sales-are-slashing-the-prices-of-e-bikes-and-scooters-shop-the-best-deals-up-to-500-off/)
+* [1 hour ago
     
-    ### Today’s Wordle Answer and Hints (November 16, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-16-2024/)
+    ### Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://digitpatrox.com/bitfinex-hacker-gets-5-years-in-prison-for-120000-bitcoin-heist/)
 
 Most Popular Topics
 
-* [2 weeks ago
+* [August 13, 2024
     
-    ### Saatva Black Friday sale 2024: The best early deals for up to $600 off](https://digitpatrox.com/saatva-black-friday-sale-2024-the-best-early-deals-for-up-to-600-off/)
-* [August 16, 2024
+    ### Best Blenders for Every Price Range](https://digitpatrox.com/best-blenders-for-every-price-range/)
+* [October 15, 2024
     
-    ### Best iPad deals for August 2024](https://digitpatrox.com/best-ipad-deals-for-august-2024/)
-* [2 days ago
+    ### Knull Will Have a Bigger Role than You Think, Confirms Venom 3 Director](https://digitpatrox.com/knull-will-have-a-bigger-role-than-you-think-confirms-venom-3-director/)
+* [September 28, 2024
     
-    ### AI PCs might be all the rage, but the channel isn’t fully sold](https://digitpatrox.com/ai-pcs-might-be-all-the-rage-but-the-channel-isnt-fully-sold/)
+    ### My Favorite Amazon Deal of the Day: Fitbit Google Ace LTE](https://digitpatrox.com/my-favorite-amazon-deal-of-the-day-fitbit-google-ace-lte/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Nuna TRVL LX Travel Stroller Review](https://digitpatrox.com/nuna-trvl-lx-travel-stroller-review/)
-* [3 hours ago
-    
-    ### What Should You Do If Windows Security Detects a Virus?](https://digitpatrox.com/what-should-you-do-if-windows-security-detects-a-virus/)
 * [4 hours ago
     
-    ### OpenAI could be plotting a foray into the world of AI agents – here’s what we know so far](https://digitpatrox.com/openai-could-be-plotting-a-foray-into-the-world-of-ai-agents-heres-what-we-know-so-far/)
+    ### AI is dumber than you think](https://digitpatrox.com/ai-is-dumber-than-you-think/)
+* [4 hours ago
+    
+    ### How to Contact Amazon Customer Service and Talk to a Real Person](https://digitpatrox.com/how-to-contact-amazon-customer-service-and-talk-to-a-real-person/)
+* [4 hours ago
+    
+    ### Can You Get a Deal After You’ve Paid Full Price?](https://digitpatrox.com/can-you-get-a-deal-after-youve-paid-full-price/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 13, 2024
-    
-    ### Best New-Car Deals – Consumer Reports](https://digitpatrox.com/best-new-car-deals-consumer-reports/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
