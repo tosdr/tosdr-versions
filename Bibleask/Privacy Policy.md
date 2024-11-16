@@ -6,6 +6,8 @@
 
 ![BibleAsk-Logo](https://bibleask.org/wp-content/uploads/logo-mobile.png)](https://bibleask.org/)
 
+Search
+
 [**DONATE**](https://donate.bibleask.org/) [♥](https://donate.bibleask.org/)
 
 Menu
