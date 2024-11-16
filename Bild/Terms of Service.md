@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson
+
+Box-Legende gegen Internet-Star: Jake Paul besiegt Mike Tyson](https://www.bild.de/sport/mehr-sport/mike-tyson-gegen-jake-paul-den-box-kampf-jetzt-im-live-ticker-6737b46825f5c12fe9b11750)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
