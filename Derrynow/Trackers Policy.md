@@ -259,31 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Major Ireland snow update with one area pinpointed for 30cm within days](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Major Ireland snow update with one area pinpointed for 30cm within days")](https://www.derrynow.com/news/national-news/1656703/major-ireland-snow-update-with-one-area-pinpointed-for-30cm-within-days.html)
-
-Major Ireland snow update with one area pinpointed for 30cm within days
-
-[National News](https://www.derrynow.com/section/997/cookie-policy)
-
-[Major Ireland snow update with one area pinpointed for 30cm within days](https://www.derrynow.com/news/national-news/1656703/major-ireland-snow-update-with-one-area-pinpointed-for-30cm-within-days.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Suspended sentence for Derry woman (25) for ‘extremely dangerous’ glass attack")](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry woman (25) sentenced for ‘extremely dangerous’ glass attack on another woman](https://www.derrynow.com/news/local-news/1656669/derry-woman-25-sentenced-for-extremely-dangerous-glass-attack-on-another-woman.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago")](https://www.derrynow.com/news/local-news/1656656/derry-man-extradited-from-us-jailed-for-historical-sex-abuse-of-his-niece-over-40-years-ago.html)
-
-Derry Court
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry man extradited from US jailed for historical sex abuse of his niece over 40 years ago](https://www.derrynow.com/news/local-news/1656656/derry-man-extradited-from-us-jailed-for-historical-sex-abuse-of-his-niece-over-40-years-ago.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Derry man shot by police while brandishing two knives jailed](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man shot by police while brandishing two knives jailed")](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
 
 Derry Crown Court
@@ -293,48 +268,21 @@ Derry Crown Court
 [Derry man shot by police while brandishing two knives jailed](https://www.derrynow.com/news/local-news/1656713/derry-man-shot-by-police-while-brandishing-two-knives-jailed.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Who are the guests on tonight's Late Late Show on RTÉ One?](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Who are the guests on tonight's Late Late Show on RTÉ One?")](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
+[![Emergency services currently at scene of road traffic collision outside Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+The Legavallon Road outside Dungiven is currently closed
 
-[Who are the guests on tonight's Late Late Show on RTÉ One?](https://www.derrynow.com/news/national-news/1656625/who-are-the-guests-on-tonight-s-late-late-show-on-rte-one.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Local News](https://www.derrynow.com/section/975/news)
 
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
+[Emergency services currently at scene of road traffic collision outside Dungiven](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ruaidhri Higgins enjoyed some memorable times at Derry City.
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Ruaidhri Higgins - 'It has been an honour to manage this football club'](https://www.derrynow.com/news/derry-sport/1656489/ruaidhri-higgins-it-has-been-an-honour-to-manage-this-football-club.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry City](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City")](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
-
-Patrick McEleney is no longer a Derry City player.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Another Derry City departure as Patrick McEleney joins Ballymena United](https://www.derrynow.com/news/derry-sport/1656481/another-derry-city-departure-as-patrick-mceleney-joins-ballymena-united.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ruaidhrí Higgins steps down as Derry City manager by mutual consent](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ruaidhrí Higgins steps down as Derry City manager by mutual consent")](https://www.derrynow.com/news/sport/1656467/ruaidhri-higgins-steps-down-as-derry-city-manager-by-mutual-consent.html)
-
-Former Derry City manager Ruaidhrí Higgins. Picture by David Fitzgerald
-
-[Sport](https://www.derrynow.com/section/976/sport)
-
-[Ruaidhrí Higgins steps down as Derry City manager by mutual consent](https://www.derrynow.com/news/sport/1656467/ruaidhri-higgins-steps-down-as-derry-city-manager-by-mutual-consent.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![“We've not won anything yet” - Craigbane manager Kevin Moore](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "“We've not won anything yet” - Craigbane manager Kevin Moore")](https://www.derrynow.com/news/derry-sport/1655687/we-ve-not-won-anything-yet-craigbane-manager-kevin-moore.html)
-
-Craigbane face an Ulster Junior Championship semi-final against Drumhowan this weekend.
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[“We've not won anything yet” - Craigbane manager Kevin Moore](https://www.derrynow.com/news/derry-sport/1655687/we-ve-not-won-anything-yet-craigbane-manager-kevin-moore.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry singer JOSIE with her debut single  ‘Run Little Girl’](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry singer JOSIE with her debut single  ‘Run Little Girl’")](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
 
@@ -345,11 +293,64 @@ Derry singer JOSIE with her debut single ‘Run Little Girl’
 ['It is never to late to follow your dreams' as Derry singer-songwriter releases debut single](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
+
+[Man who died in hospital ‘would be alive if he had been treated appropriately’](https://www.derrynow.com/news/northern-ireland/1657079/man-who-died-in-hospital-would-be-alive-if-he-had-been-treated-appropriately.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry's North West Regional College to hold charity 5K fun walk/run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry's North West Regional College to hold charity 5K fun walk/run")](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
+
+NWRC staff Danny McFeely, Leta McCusker, Nicholas Mullan and Eimear McDevitt get ready for the 2024 Glow Run.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry's North West Regional College to hold charity 5K fun walk/run](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry branch of the Salvation Army on Carlisle Road](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry branch of the Salvation Army on Carlisle Road")](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
+
+Derry branch of the Salvation Army on Carlisle Road
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[The Salvation Army has begun their Family Appeal for Christmas](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![St Vincent de Paul launch annual appeal to support families at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Vincent de Paul launch annual appeal to support families at Christmas")](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+
+This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley and Kaiden.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Students in Derry wowed by environmentally-themed Water Warriors event")](https://www.derrynow.com/story-telling/pictures---videos/1655932/in-pictures-students-in-derry-wowed-by-environmentally-themed-water-warriors-event.html)
 
@@ -417,15 +418,6 @@ IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry
 
 [IN PICTURES: Derry City fans paint Dublin 'Red and White'](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall")](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
-
-IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry City fans cheer on team in FAI Cup Final at the Guildhall](https://www.derrynow.com/story-telling/pictures---videos/1652672/in-pictures-derry-city-fans-cheer-on-team-in-fai-cup-final-at-the-guildhall.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -527,14 +519,39 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
+[![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Emergency services currently at scene of road traffic collision outside Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
+
+The Legavallon Road outside Dungiven is currently closed
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Emergency services currently at scene of road traffic collision outside Dungiven](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/resizer/165/93/true/2024_11_12/SVP_AnnualAppeal1-1731424800341.JPG--.JPG?1731424807354 "St Vincent de Paul launch annual appeal to support families at Christmas")](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+
+This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley and Kaiden.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
 [Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
+[![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IMG-20241115-WA0005-1731684980170.jpg--.jpg?1731684982505 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
 
 [Derry News](https://www.derrynow.com/section/999/derry-news)
 
@@ -549,33 +566,6 @@ Derry singer JOSIE with her debut single ‘Run Little Girl’
 
 ['It is never to late to follow your dreams' as Derry singer-songwriter releases debut single](https://www.derrynow.com/news/derry-news/1656927/it-is-never-to-late-to-follow-your-dreams-as-derry-singer-songwriter-releases-debut-single.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry's North West Regional College to hold charity 5K fun walk/run](https://www.derrynow.com/resizer/165/93/true/2024_11_15/PRESS_Glow_run_picture_%281%29-1731683774839.jpg--.jpg?1731683775510 "Derry's North West Regional College to hold charity 5K fun walk/run")](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
-
-NWRC staff Danny McFeely, Leta McCusker, Nicholas Mullan and Eimear McDevitt get ready for the 2024 Glow Run.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Derry's North West Regional College to hold charity 5K fun walk/run](https://www.derrynow.com/news/local-news/1656919/derry-s-north-west-regional-college-to-hold-charity-5k-fun-walk-run.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Elf Run/Walk at Coleraine in aid of the RAF Benevolent Fund](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IMG_5137_%283%29-1731683139738.JPG--.JPG?1731683139769 "Elf Run/Walk at Coleraine in aid of the RAF Benevolent Fund")](https://www.derrynow.com/news/county-derry-post/1656917/ben-elephant-invites-elves-to-run-for-santa-in-coleraine.html)
-
-Elf Run/Walk at Coleraine in aid of the RAF Benevolent Fund.
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Ben Elephant invites Elves to Run for Santa in Coleraine](https://www.derrynow.com/news/county-derry-post/1656917/ben-elephant-invites-elves-to-run-for-santa-in-coleraine.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry branch of the Salvation Army on Carlisle Road](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IMG-20241115-WA0001-1731675271887.jpg--.jpg?1731675272592 "Derry branch of the Salvation Army on Carlisle Road")](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
-
-Derry branch of the Salvation Army on Carlisle Road
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[The Salvation Army has begun their Family Appeal for Christmas](https://www.derrynow.com/news/derry-news/1656720/the-salvation-army-has-begun-their-family-appeal-for-christmas.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
