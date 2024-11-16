@@ -353,3 +353,11 @@ Connect with us
 [](https://www.facebook.com/jlcpcb)[](https://twitter.com/jlcpcb)[](https://www.instagram.com/jlcpcb)[](https://www.youtube.com/JLCPCB)[](https://www.linkedin.com/company/jlcpcb)[](https://www.reddit.com/r/JLCPCBLab/)
 
 © 2024 JLCPCB.COM All Rights Reserved. [Privacy Policy](https://jlcpcb.com/help/article/Privacy-Policy) [Terms & Conditions](https://jlcpcb.com/help/article/30-Terms-%26-Conditions)
+
+![](/ssr/img/logo.b76ee65.png)
+
+JLCPCB
+
+![](data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTUgMTJIMTkiIHN0cm9rZT0iIzIyMjIyMiIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz4KPC9zdmc+Cg==)
+
+ ![](/ssr/img/wave.e24f6e4.gif) Welcome back, may I help you?
