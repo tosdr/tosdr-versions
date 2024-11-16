@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Does Your Nation Support? (8,432)](https://forum.nationstates.net/viewtopic.php?t=524926&f=25&view=unread#unread ""Does Your Nation Support?" (8,432 posts)")
-* [What is the most terrifying thing abo… (477)](https://forum.nationstates.net/viewtopic.php?t=553705&f=25&view=unread#unread ""What is the most terrifying thing about AN" (477 posts)")
-* [Razenland Domestic Football News. (4)](https://forum.nationstates.net/viewtopic.php?t=557826&f=7&view=unread#unread ""Razenland Domestic Football News." (4 posts)")
-* [The great trial of F7ville \[IC\] (104)](https://forum.nationstates.net/viewtopic.php?t=557963&f=25&view=unread#unread ""The great trial of F7ville [IC]" (104 posts)")
-* [Agree or Disagree III (12,071)](https://forum.nationstates.net/viewtopic.php?t=516044&f=25&view=unread#unread ""Agree or Disagree III" (12,071 posts)")
+* [Global Socialist Coalition (OOC, Signup) (218)](https://forum.nationstates.net/viewtopic.php?t=544035&f=5&view=unread#unread ""Global Socialist Coalition (OOC, Signup)" (218 posts)")
+* [The guns of TET fell silent (12,293)](https://forum.nationstates.net/viewtopic.php?t=548040&f=20&view=unread#unread ""The guns of TET fell silent" (12,293 posts)")
+* [Would You Rather Chill with AU or AAU? (267)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (267 posts)")
+* [Consumer Protection for High-Risk Pro… (6)](https://forum.nationstates.net/viewtopic.php?t=558371&f=9&view=unread#unread ""Consumer Protection for High-Risk Products" (6 posts)")
+* [Come up with a funny rip off name for… (531)](https://forum.nationstates.net/viewtopic.php?t=555981&f=25&view=unread#unread ""Come up with a funny rip off name for the company AN chooses" (531 posts)")
 
 Advertisement
 
