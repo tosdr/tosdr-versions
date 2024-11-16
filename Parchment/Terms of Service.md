@@ -160,6 +160,9 @@
     * [![IE flag](https://www.parchment.com/wp-content/uploads/flags/ie.png)
         
         IE](https://www.parchment.com/en-ie/)
+    * [![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+        
+        日本語](https://www.parchment.com/ja/)
     * [![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
         
         NZ](https://www.parchment.com/en-nz/)
@@ -536,6 +539,10 @@ Order & Status
     
     [IE](https://www.parchment.com/en-ie/)
     
+* ![日本語 flag](https://www.parchment.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ja.svg)
+    
+    [日本語](https://www.parchment.com/ja/)
+    
 * ![NZ flag](https://www.parchment.com/wp-content/uploads/flags/nz.png)
     
     [NZ](https://www.parchment.com/en-nz/)
@@ -696,3 +703,7 @@ Other uncategorized cookies are those that are being analyzed and have not been 
 Save & Accept
 
 Powered by [![CookieYes Logo](https://www.parchment.com/wp-content/plugins/webtoffee-gdpr-cookie-consent/public/images/logo-cookieyes.svg)](https://www.cookieyes.com/)
+
+     
+
+This site is registered on [wpml.org](https://wpml.org/) as a development site. Switch to a production site key to [remove this banner](https://wpml.org/faq/how-to-remove-the-this-site-is-registered-on-wpml-org-as-a-development-site-notice/).
