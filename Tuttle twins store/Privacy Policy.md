@@ -379,9 +379,9 @@ USD $ | United States
 * [TikTok](https://www.tiktok.com/@angelstudiosinc)
 * [YouTube](https://www.youtube.com/channel/UCQIjTyWmLEdsfqMQay0yGMA)
 
-[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Weekly Deals](https://shop.angel.com/pages/weekly-sale-special)
+[![Angel Studios Gift Factory](//shop.angel.com/cdn/shop/files/Angel_Studios_logo-white_1.png?v=1725550543&width=600)](https://tuttletwins.store/)[Member Sign In](https://auth.angelstudios.com/authorize?client_id=shopify_multipass&redirect_uri=https://shop.angel.com/account&response_type=code)
 
-[Weekly Deals](https://shop.angel.com/pages/weekly-sale-special)
+[Member Sign In](https://auth.angelstudios.com/authorize?client_id=shopify_multipass&redirect_uri=https://shop.angel.com/account&response_type=code)
 
 * Shop Shows
     
