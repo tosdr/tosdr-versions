@@ -885,30 +885,6 @@ henri cadieux Monteregie Metro 05/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
-
-Laura Feijo Austin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Terrell and Mason were awesome!
-
-philip jims Austin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Patrick and Gio did a great job today
-
-sarah thelen Naples 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
 Steven and Daren were great. Prompt, quick, and friendly. Thanks guys!
 
 J Johnston Madison 09/11/2024
@@ -973,9 +949,25 @@ Tim Leber Seattle 09/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-TC and Nick are great!!!
+Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
 
-Sergio Perez Austin 08/11/2024
+Laura Feijo Austin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Terrell and Mason were awesome!
+
+philip jims Austin 09/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Patrick and Gio did a great job today
+
+sarah thelen Naples 09/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -1024,6 +1016,14 @@ Christa Duffy Naples 08/11/2024
 Tia and Kegan were great at getting us situated and moved to another storage unit.
 
 Neil Raisanen Naples 08/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Tia and Kegan were great at helping us clean some clutter from the office. Thank you 1800gotjunk
+
+Brandon Mace Naples 08/11/2024
 
 ### 
 
