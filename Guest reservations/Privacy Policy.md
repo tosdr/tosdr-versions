@@ -1,13 +1,13 @@
-[![Guest Reservations - Logo](/assets/bb50d1fe/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
+[![Guest Reservations - Logo](/assets/12c8db29/images/logo/logo-bell-dark.svg "Guest Reservations - Logo")  
 An independent travel network](https://www.guestreservations.com/ "Guest Reservations")
 
 [Groups (9+ Rooms)](https://groups.guestreservations.com/Group-Rate/ "Groups (9+ Rooms)") [Travel Guides](https://www.guestreservations.com/about/news "Travel Guides") [My Booking](https://www.guestreservations.com/about/mybooking "My Booking")
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (888) 784-0532](tel:8887840532)
 
-[![Call now](/assets/bb50d1fe/images/phone-yellow.svg "Call now")Call now (855) 470-1527](tel:8554701527)
+[![Call now](/assets/12c8db29/images/phone-yellow.svg "Call now")Call now (855) 470-1527](tel:8554701527)
 
 Privacy Policy
 ==============
@@ -46,21 +46,27 @@ Analytics/Measurement: We also use third-party analytics cookies to gain insight
 
 Remarketing Pixel Tags: We may disclose website usage information with third-party advertising companies for the purpose of managing and targeting advertisements. For these purposes, we and our third-party advertising companies may place or recognize a cookie on your computer or device. We will then use the information that is collected to serve you relevant advertisements when you are visiting other sites on the internet. These advertisements may be targeted to specific searches you conducted on Guest Reservations during earlier browsing sessions.
 
-To opt-out of third-party cookies, please utilize the appropriate option(s) below:
+Notice of Right to Opt-Out of Sale/Sharing: To opt-out of data “selling” or data “sharing” if applicable to you, which may include certain third-party marketing and other types of non-essential cookies, please utilize our simple [opt out form](https://www.guestreservations.com/about/privacy/donotsell) for **Your Privacy Choices** here: [https://www.guestreservations.com/about/privacy/donotsell](https://www.guestreservations.com/about/privacy/donotsell)
 
-To opt-out of ad targeting cookies set by Google and Doubleclick on our Site, click here: [https://www.google.com/settings/u/0/ads?hl=en](https://www.google.com/settings/u/0/ads?hl=en).
+You may also use an opt-out preference signal like the Global Privacy Control (“GPC”) to opt out of the “selling” or “sharing” of your personal information through tools such as marketing cookies. If you have any questions about our privacy practices, please contact us at [\[email protected\]](https://www.guestreservations.com/cdn-cgi/l/email-protection). If you have any questions about third-party privacy practices, please see their respective privacy policies and the links below.
 
-In order to control the collection of data for analytical purposes by Google Analytics, click here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+For Google and Doubleclick, click here: [https://www.google.com/settings/u/0/ads?hl=en](https://www.google.com/settings/u/0/ads?hl=en).
+
+For Google Analytics, click here: [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 
 For other questions about Google’s privacy practices, you can also click here: [https://business.safety.google/privacy/](https://business.safety.google/privacy/).
 
-To opt out of Microsoft personalized advertising, click here: [https://account.microsoft.com/privacy/ad-settings](https://account.microsoft.com/privacy/ad-settings)
+For Microsoft/Bing, click here: [https://account.microsoft.com/privacy/ad-settings](https://account.microsoft.com/privacy/ad-settings)
 
-To disable the display of advertisements served by Criteo, click here: [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/).
+For Criteo, click here: [https://www.criteo.com/privacy/](https://www.criteo.com/privacy/).
 
-To opt out of Clicktripz advertisements served on our Site, click here: [https://www.clicktripz.com/privacy/opt\_out.php](https://www.clicktripz.com/privacy/opt_out.php)
+For Clicktripz, click here: [https://www.clicktripz.com/privacy/opt\_out.php](https://www.clicktripz.com/privacy/opt_out.php)
 
-To generally (i.e., not just for this Site) opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's (DAA) Self-Regulatory Principles for Online Behavioral Advertising visit the opt-out pages on the NAI website and DAA website or click here: [https://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/). If you are located in the European Union, please click here: [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/) to opt out.
+For Meta/Facebook, click here: [https://www.facebook.com/privacy/policy/](https://www.facebook.com/privacy/policy/).
+
+For Mapbox, click here: [https://www.mapbox.com/legal/privacy](https://www.mapbox.com/legal/privacy).
+
+In addition, to generally (i.e., not just for this Site) opt-out of receiving personalized ads from third party advertisers and ad networks who are members of the Network Advertising Initiative (NAI) or who follow the Digital Advertising Alliance's (DAA) Self-Regulatory Principles for Online Behavioral Advertising visit the opt-out pages on the NAI website and DAA website or click here: [https://preferences-mgr.truste.com/](https://preferences-mgr.truste.com/). If you are located in the European Union, please click here: [https://www.youronlinechoices.eu/](https://www.youronlinechoices.eu/).
 
 Please keep in mind that without cookies you may not have access to certain features on the Site. Removing all cookies from your computer could also affect your subsequent visits to certain websites, including this Site, by requiring that, for example, you enter your information each time you return to that website.
 
@@ -132,9 +138,9 @@ Guest Reservations controls the processing of personal information and data on t
 * The right to amend: You have the right to correct or update personal information we have about you that is inaccurate or incomplete.
 * The right to delete: You have the right to delete personal information that we have collected about you (subject to certain exceptions).
 * The right to limit: You have the right to limit how we process certain kinds of data about you, for example, any sensitive data.
-* The right to opt-out: You have the right to opt-out of certain data practices. For example, you can unsubscribe from our marketing communications (please note that we may still send non-marketing messages, and that consent to receiving marketing communications is not mandatory to use the Services). You have the right to opt out of the “sale” or “sharing” of your personal information to the extent applicable. You can also opt out of the use of automated decision-making technology if applicable.
+* The right to opt-out: You have the right to opt-out of certain data practices. For example, you can unsubscribe from our marketing communications (please note that we may still send non-marketing messages, and that consent to receiving marketing communications is not mandatory to use the Services). You have the right to opt out of the “sale” or “sharing” of your personal information to the extent applicable, in particular by using the Your Privacy Choices form linked above. You can also opt out of the use of automated decision-making technology if applicable, in particular by using the Your Privacy Choices form linked above.
 * The right to non-discrimination: We will not discriminate against you for exercising your rights.
-* State Specific Laws: Several states have enacted privacy laws that may apply to you, including if you are a resident of Delaware ,Texas, Virginia, Connecticut, Colorado, Utah, Iowa, Indiana, Tennessee, Oregon, Montana, Florida, New Jersey, New Hampshire, and California. For example, the California Consumer Privacy Act (“CCPA”) governs certain California-related conduct. Under California's “Shine the Light” law, California residents may also request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. Further, if you are a California resident under the age of 18, California Business & Professions Code Section 22581 permits you to request and obtain removal of content you have publicly posted. Please note that such a request does not ensure complete or comprehensive removal of public content.
+* State Specific Laws: Several states have enacted privacy laws that may apply to you, including if you are a resident of Delaware ,Texas, Virginia, Connecticut, Colorado, Utah, Iowa, Indiana, Tennessee, Oregon, Montana, Florida, New Jersey, New Hampshire, and California. For example, the California Consumer Privacy Act (“CCPA”) governs certain California-related conduct under which you have the right to, among other things, request the categories and/or specific pieces of personal information collected by us, the categories of sources for that personal information, the purposes for which we use that information, the categories of third parties to whom we disclose the information, and the categories of information that we sell or disclose to third parties, free of charge up to twice per year; and for more information about these practices, please see the categories above. Under California's “Shine the Light” law, California residents may also request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. Further, if you are a California resident under the age of 18, California Business & Professions Code Section 22581 permits you to request and obtain removal of content you have publicly posted. Please note that such a request does not ensure complete or comprehensive removal of public content.
 * International Laws: Depending on where you reside, you may have additional rights. For example, generally, residents of the European Economic Area (“EEA”) have the right to access information we hold about you and to ask that your information be corrected, updated, or erased, and the right to object to, or request that we restrict, certain processing of your information. Our legal basis for collecting and using your personal data is your consent, performance of a contract, or where the collection and use is in our legitimate interests and not overridden by your data protection interests or fundamental rights. You may withdraw your consent to our collection and use of your personal data. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your information used in reliance on lawful processing grounds other than consent.
 * Other Laws: If certain other privacy laws apply to you that afford you with additional rights, please contact us to make a request.
 
@@ -156,11 +162,11 @@ We may amend this Privacy Policy at any time by posting the amended terms on the
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact Customer Service through our [contact page](https://www.guestreservations.com/about/contact "Contact Us") or by calling (866) 238-4218. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please visit our [contact page](https://www.guestreservations.com/about/contact "Contact Us").
 
-This Privacy Policy was updated June 5, 2024.
+This Privacy Policy was updated November 15, 2024.
 
- ![Guest Reservations - Logo](/assets/5efe07dc/images/logo-dark-tm.svg "Guest Reservations - Logo") An independent travel network
+ ![Guest Reservations - Logo](/assets/e059699d/images/logo-dark-tm.svg "Guest Reservations - Logo") An independent travel network
 
- [![Guest Reservations on Facebook](/assets/5efe07dc/images/social-networks/facebook.svg "Guest Reservations on Facebook")](https://www.facebook.com/guestreservations "Guest Reservations on Facebook")[![Guest Reservations on Twitter](/assets/5efe07dc/images/social-networks/twitter.svg "Guest Reservations on Twitter")](https://twitter.com/guest_res "Guest Reservations on Twitter")[![Guest Reservations on Instagram](/assets/5efe07dc/images/social-networks/instagram.svg "Guest Reservations on Instagram")](https://www.instagram.com/guestreservations/ "Guest Reservations on Instagram")[![Guest Reservations on Pinterest](/assets/5efe07dc/images/social-networks/pinterest.svg "Guest Reservations on Pinterest")](https://www.pinterest.com/guestreservations/ "Guest Reservations on Pinterest")[![Guest Reservations on YouTube](/assets/5efe07dc/images/social-networks/you-tube.svg "Guest Reservations on YouTube")](https://www.youtube.com/@GuestReservations "Guest Reservations on YouTube")
+ [![Guest Reservations on Facebook](/assets/e059699d/images/social-networks/facebook.svg "Guest Reservations on Facebook")](https://www.facebook.com/guestreservations "Guest Reservations on Facebook")[![Guest Reservations on Twitter](/assets/e059699d/images/social-networks/twitter.svg "Guest Reservations on Twitter")](https://twitter.com/guest_res "Guest Reservations on Twitter")[![Guest Reservations on Instagram](/assets/e059699d/images/social-networks/instagram.svg "Guest Reservations on Instagram")](https://www.instagram.com/guestreservations/ "Guest Reservations on Instagram")[![Guest Reservations on Pinterest](/assets/e059699d/images/social-networks/pinterest.svg "Guest Reservations on Pinterest")](https://www.pinterest.com/guestreservations/ "Guest Reservations on Pinterest")[![Guest Reservations on YouTube](/assets/e059699d/images/social-networks/you-tube.svg "Guest Reservations on YouTube")](https://www.youtube.com/@GuestReservations "Guest Reservations on YouTube")
 
 ##### Learn more
 
