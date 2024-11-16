@@ -241,41 +241,11 @@ Past Week
 
 ### Most Read Articles
 
-[![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+[](https://www.quantamagazine.org/terms-conditions/)
 
-[#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
+[#### Terms & Conditions](https://www.quantamagazine.org/terms-conditions/)
 
-_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/Persuasive-LLMs_crNash-Weerasekera-Thumbnail.webp)](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
-
-[#### Debate May Help AI Models Converge on Truth](https://www.quantamagazine.org/debate-may-help-ai-models-converge-on-truth-20241108/)
-
-_By_ [Stephen Ornes](https://www.quantamagazine.org/authors/stephen-ornes)
-
-[![Animation in which tornadoes twirl amid a crystalline lattice.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Supersolids-crIbrahimRayintakath_RuiBrazThumbnail.webp)](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-
-[#### Physicists Spot Quantum Tornadoes Twirling in a ‘Supersolid’](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-
-_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
-
-[![An illustration of concentric rings of a radiating wave in space, with chopsticks that appear poised to pluck a particle out of the wave.](https://www.quantamagazine.org/wp-content/uploads/2024/10/Detecting-Gravitons_crSenor-Salme-Thumbnail.webp)](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
-
-[#### It Might Be Possible to Detect Gravitons After All](https://www.quantamagazine.org/it-might-be-possible-to-detect-gravitons-after-all-20241030/)
-
-_By_ [Charlie Wood](https://www.quantamagazine.org/authors/charlie-wood)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2024/10/RamanujanQuest-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-[#### Math Is Still Catching Up to the Mysterious Genius of Srinivasa Ramanujan](https://www.quantamagazine.org/srinivasa-ramanujan-was-a-genius-math-is-still-catching-up-20241021/)
-
-_By_ [Jordana Cepelewicz](https://www.quantamagazine.org/authors/jordana-cepelewicz)
-
-[![](https://www.quantamagazine.org/wp-content/uploads/2019/08/Sinuolinea_Thumb.jpg)](https://www.quantamagazine.org/can-new-species-evolve-from-cancers-maybe-heres-how-20190819/)
-
-[#### Can New Species Evolve From Cancers? Maybe. Here’s How.](https://www.quantamagazine.org/can-new-species-evolve-from-cancers-maybe-heres-how-20190819/)
-
-_By_ [Christie Wilcox](https://www.quantamagazine.org/authors/christiewilcox)
+_By_ [Quanta Magazine](https://www.quantamagazine.org/authors/quanta)
 
 The Quanta Newsletter
 
