@@ -5,21 +5,21 @@ mh-nexus.de
 
 [Skip to content](#start_here)
 
- Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=e8d456cf81a930fc736d022e343b8301 "Advanced search") 
+ Search [Advanced search](https://forum.mh-nexus.de/search.php?sid=ffa1955a7f79b16aee40c89e9280e7ae "Advanced search") 
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=e8d456cf81a930fc736d022e343b8301)
-    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=e8d456cf81a930fc736d022e343b8301)
+    * [Unanswered topics](https://forum.mh-nexus.de/search.php?search_id=unanswered&sid=ffa1955a7f79b16aee40c89e9280e7ae)
+    * [Active topics](https://forum.mh-nexus.de/search.php?search_id=active_topics&sid=ffa1955a7f79b16aee40c89e9280e7ae)
     
-    * [Search](https://forum.mh-nexus.de/search.php?sid=e8d456cf81a930fc736d022e343b8301)
+    * [Search](https://forum.mh-nexus.de/search.php?sid=ffa1955a7f79b16aee40c89e9280e7ae)
     
-* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=e8d456cf81a930fc736d022e343b8301 "Frequently Asked Questions")
-* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=e8d456cf81a930fc736d022e343b8301 "Login")
-* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=e8d456cf81a930fc736d022e343b8301)
+* [FAQ](https://forum.mh-nexus.de/app.php/help/faq?sid=ffa1955a7f79b16aee40c89e9280e7ae "Frequently Asked Questions")
+* [Login](https://forum.mh-nexus.de/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dprivacy&sid=ffa1955a7f79b16aee40c89e9280e7ae "Login")
+* [Register](https://forum.mh-nexus.de/ucp.php?mode=register&sid=ffa1955a7f79b16aee40c89e9280e7ae)
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=e8d456cf81a930fc736d022e343b8301)
-* [Search](https://forum.mh-nexus.de/search.php?sid=e8d456cf81a930fc736d022e343b8301 "View the advanced search options")
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=ffa1955a7f79b16aee40c89e9280e7ae)
+* [Search](https://forum.mh-nexus.de/search.php?sid=ffa1955a7f79b16aee40c89e9280e7ae "View the advanced search options")
 
 mh-nexus.de - Privacy policy
 ----------------------------
@@ -34,13 +34,13 @@ Your account will at a bare minimum contain a uniquely identifiable name (herein
   
 Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “mh-nexus.de”, so please guard it carefully and under no circumstance will anyone affiliated with “mh-nexus.de”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=e8d456cf81a930fc736d022e343b8301)
+* [mh-nexus.de](http://mh-nexus.de/) [Board index](https://forum.mh-nexus.de/index.php?sid=ffa1955a7f79b16aee40c89e9280e7ae)
 * All times are UTC+01:00
-* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=e8d456cf81a930fc736d022e343b8301)
+* [Delete cookies](https://forum.mh-nexus.de/ucp.php?mode=delete_cookies&sid=ffa1955a7f79b16aee40c89e9280e7ae)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=e8d456cf81a930fc736d022e343b8301 "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=e8d456cf81a930fc736d022e343b8301 "Terms")
+[Privacy](https://forum.mh-nexus.de/ucp.php?mode=privacy&sid=ffa1955a7f79b16aee40c89e9280e7ae "Privacy") | [Terms](https://forum.mh-nexus.de/ucp.php?mode=terms&sid=ffa1955a7f79b16aee40c89e9280e7ae "Terms")
 
 [](#)
 
