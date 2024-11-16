@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-44°
+46°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
