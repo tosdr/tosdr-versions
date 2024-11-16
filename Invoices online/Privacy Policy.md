@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Quick and efficient support
-> ---------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
-> 
-> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
+Anri van der Linde
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=96183920)  
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=41674733)  
+Sportspro Group (Pty) Ltd
+
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=169098130)  
+PROGRAPHIX PTY LTD
+
+![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=53415251)  
+NWET Pty LTD
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=102382909)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=85031166)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=19281826)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=191944373)  
-INVOICES/JOBCARDS ONLINE
+![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=99615471)  
+FRAMED BY ANTON (Pty) Ltd.
 
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=171230561)  
-Lion Software Develepment
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=4635536)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=43152756)  
-Durbanville Classifieds (Pty) Ltd
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=197556887)  
+Repairs In Motion
 
-![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=131179262)  
-Bchange Online CC
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=10694175)  
+Immediate Health (pty)ltd
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=6763876)  
-Well Hung Art
+![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=59739187)  
+Alliance Energy
 
-![valued client MONSTER CONNECT (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6772&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=197101000)  
-MONSTER CONNECT (PTY) LTD
+![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=181835053)  
+IAS Logistics (Pty) Ltd T/A MULTITRANSIT
 
-![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=31761331)  
-Kinetic Power Solutions (Pty) Ltd.
+![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=92275424)  
+Chiron Medical Solutions
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=49471063)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=136970283)  
+Shades of Summer Investments 184cc t/a Junker Construction
 
-![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=31641900)  
-Oak Tree Immigration
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=201049958)  
+Multi CNC Solutions CC
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=26792637)  
-Leef in Afrikaans
-
-![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=144760614)  
-Laurinda Pretorius Spraak en Drama Ateljee
-
-![valued client Myfinance-Online](https://www.invoicesonline.co.za/scripts/image.php?bid=7&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=203250443)  
-Myfinance-Online
-
-![valued client Abandoned Vehicle and Truck Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=8300&file=logo_300_100&type=&fe=7fa1094f8ad0f2edfbbbc5119175e147be7a56ca9ccd2f648f7fb80ee6763cbd&c=85016416)  
-Abandoned Vehicle and Truck Solutions
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=60471526)  
+Forgotten Goods (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
