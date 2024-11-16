@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Southwest Airlines flight hit by gunfire at Dallas Love Field](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111624-sh-dpd-shooting-herb-kelleher-way-love-fiel_00.01.07.00.jpg?ve=1&tl=1)
+ [![Netflix responds to streaming issues during Tyson-Paul fight](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2185061368-scaled.jpg?ve=1&tl=1)
 
- ![Southwest Airlines flight hit by gunfire at Dallas Love Field](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111624-sh-dpd-shooting-herb-kelleher-way-love-fiel_00.01.07.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-airlines-plane-shot-dallas-love-field)
+ ![Netflix responds to streaming issues during Tyson-Paul fight](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185061368-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/netflix-responds-buffering-issues-tyson-paul-fight)
 
-### [Southwest Airlines flight hit by gunfire at Dallas Love Field](https://www.fox4news.com/news/southwest-airlines-plane-shot-dallas-love-field)
+### [Netflix responds to streaming issues during Tyson-Paul fight](https://www.fox4news.com/news/netflix-responds-buffering-issues-tyson-paul-fight)
 
- [![Jake Paul outlasts Mike Tyson in Netflix fight](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2184335658.jpg?ve=1&tl=1)
+ [![Credit card debt surges to another record high, New York Fed data shows](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/credit-card-consumers.jpg?ve=1&tl=1)
 
- ![Jake Paul outlasts Mike Tyson in Netflix fight](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2184335658.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/jake-paul-mike-tyson-fight-who-won)
+ ![Credit card debt surges to another record high, New York Fed data shows](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/credit-card-consumers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/credit-card-debt-surges-record-high)
 
-### [Jake Paul outlasts Mike Tyson in Netflix fight](https://www.fox4news.com/sports/jake-paul-mike-tyson-fight-who-won)
+### [Credit card debt surges to another record high, New York Fed data shows](https://www.fox4news.com/news/credit-card-debt-surges-record-high)
 
- [![Mike Tyson-Jake Paul fight, undercard results and more](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2184335528.jpg?ve=1&tl=1)
+ [![Irving police officer killed in off-duty motorcycle accident](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/irving-officer-jerome-scholz.jpg?ve=1&tl=1)
 
- ![Mike Tyson-Jake Paul fight, undercard results and more](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2184335528.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/mike-tyson-jake-paul-fight-live-updates-start-time)
+ ![Irving police officer killed in off-duty motorcycle accident](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/irving-officer-jerome-scholz.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-police-officer-killed-jerome-scholz)
 
-### [Mike Tyson-Jake Paul fight, undercard results and more](https://www.fox4news.com/news/mike-tyson-jake-paul-fight-live-updates-start-time)
+### [Irving police officer killed in off-duty motorcycle accident](https://www.fox4news.com/news/irving-police-officer-killed-jerome-scholz)
 
- [![Netflix outage reported by users during Mike Tyson and Jake Paul fight](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/netflix-image.jpg?ve=1&tl=1)
+ [![Pentagon says there's ‘no verifiable evidence’ of extraterrestrial technology, beings or activity](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/ufo2.jpg?ve=1&tl=1)
 
- ![Netflix outage reported by users during Mike Tyson and Jake Paul fight](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/netflix-image.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/netflix-outage-mike-tyson-jake-paul-fight)
+ ![Pentagon says there's ‘no verifiable evidence’ of extraterrestrial technology, beings or activity](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/ufo2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)
 
-### [Netflix outage reported by users during Mike Tyson and Jake Paul fight](https://www.fox4news.com/news/netflix-outage-mike-tyson-jake-paul-fight)
+### [Pentagon says there's ‘no verifiable evidence’ of extraterrestrial technology, beings or activity](https://www.fox4news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)
 
- [![Pete Hegseth was flagged by fellow service member as possible 'Insider Threat,' AP reports](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1134283813.jpg?ve=1&tl=1)
+ [![DART train kills pedestrian walking between tracks in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/dart-logo.jpg?ve=1&tl=1)
 
- ![Pete Hegseth was flagged by fellow service member as possible 'Insider Threat,' AP reports](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1134283813.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pete-hegseth-insider-threat-defense-nomination)
+ ![DART train kills pedestrian walking between tracks in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/dart-logo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dart-train-kills-pedestrian-walking-between-tracks-dallas)
 
-### [Pete Hegseth was flagged by fellow service member as possible 'Insider Threat,' AP reports](https://www.fox4news.com/news/pete-hegseth-insider-threat-defense-nomination)
+### [Pedestrian walking between tracks killed by DART train](https://www.fox4news.com/news/dart-train-kills-pedestrian-walking-between-tracks-dallas)
 
 ###### [News](https://www.fox4news.com/news)
 
