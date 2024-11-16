@@ -99,25 +99,25 @@ We welcome feedback from our viewers and readers. If readers/viewers have a conc
 Top of Today
 ------------
 
-1. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
+1. [![Conner Brackin mugshot](https://am22.mediaite.com/lc/cnt/uploads/2024/11/connor-brackin-mugshot-432x243.jpg)](https://lawandcrime.com/crime/theyre-all-dead-man-arrives-home-to-find-his-7-dogs-shot-dead-allegedly-by-a-police-deputy/)
+    
+    ### ['They're all dead': Man arrives home to find his 7 dogs shot dead — allegedly by a police deputy](https://lawandcrime.com/crime/theyre-all-dead-man-arrives-home-to-find-his-7-dogs-shot-dead-allegedly-by-a-police-deputy/)
+    
+2. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
     
     ### ['No reason for any further delay': Fed-up judge in Trump defamation case against ABC News, George Stephanopoulos refuses demand to push back trial date](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
     
-2. [![Inset: One of the social media posts that Jordan Stroh made about Donald Trump supporters (Facebook/WXIN/Hancock County Deputy Prosecutor). Background: Republican presidential nominee former President Donald Trump speaks at an election night watch party, Wednesday, Nov. 6, 2024, in West Palm Beach, Fla. (AP Photo/Alex Brandon).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jordan-Stroh-Ouellette-and-trump--432x243.jpg)](https://lawandcrime.com/high-profile/if-you-voted-for-trump-you-disgust-me-deputy-prosecutor-fired-for-bashing-gop-voters-on-facebook/)
+3. [![Ashley Bertino mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/ashley-bertino-mugshot-432x243.jpg)](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
     
-    ### ['If you voted for Trump ... you disgust me': Deputy prosecutor fired for bashing GOP voters on Facebook](https://lawandcrime.com/high-profile/if-you-voted-for-trump-you-disgust-me-deputy-prosecutor-fired-for-bashing-gop-voters-on-facebook/)
+    ### [Mother of 12-year-old who died from untreated diabetes said daughter 'was being dramatic': Witnesses](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
     
-3. [![Tekquan Alexander mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/tekquan-alexander-mugshot-432x243.jpg)](https://lawandcrime.com/crime/dad-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out/)
+4. [![Inset, left to right: Yusef Salaam, Antron McCray, Korey Wise, Kevin Richardson, Raymond Santana (CBS Sunday Morning). Background: Donald Trump speaks at the annual Road to Majority conference in Washington, DC, June 22, 2024. (Allison Bailey/NurPhoto via AP)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/sdfadsf-432x243.jpg)](https://lawandcrime.com/lawsuit/question-the-courts-impartiality-trump-seeks-immediate-recusal-of-judge-in-central-park-five-defamation-case/)
     
-    ### [Dad tortured his 4-year-old daughter into a 'vegetative state,' told girl's mother that she fainted during a 'time-out'](https://lawandcrime.com/crime/dad-tortured-his-4-year-old-daughter-into-a-vegetative-state-told-girls-mother-that-she-fainted-during-a-time-out/)
+    ### [Trump gets judge recused in Central Park Five defamation case after questioning the court's 'impartiality'](https://lawandcrime.com/lawsuit/question-the-courts-impartiality-trump-seeks-immediate-recusal-of-judge-in-central-park-five-defamation-case/)
     
-4. [![Inset: Jacquelyn Powers (Facebook). Background: Powers being arrested in connection to her daughter's fentanyl overdose (KTVI).](https://am23.mediaite.com/lc/cnt/uploads/2024/11/asdfasdfafdaf-432x243.jpg)](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
+5. [![Zachary Young](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
     
-    ### [Mom gave teen 'pill that she found in her drawer' to treat toothache, 10 hours later she was dead: Police](https://lawandcrime.com/crime/mom-gave-teen-pill-that-she-found-in-her-drawer-to-treat-toothache-10-hours-later-she-was-dead-police/)
-    
-5. [![Haven Duncan, Jaqory Gill and Life Ford](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Laundromat-dryer-suspects-432x243.jpg)](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
-    
-    ### [Trio stuffed 6-year-old in dryer spin cycle because he was crying about losing bag of chips: Cops](https://lawandcrime.com/crime/trio-stuffed-6-year-old-in-dryer-spin-cycle-because-he-was-crying-about-losing-bag-of-chips-cops/)
+    ### ['Issue the subpoena right away': Judge tells CNN's parent company to turn over extensive financial documents in Navy veteran's defamation case against the network](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
     
 
 [](http://eepurl.com/c89Jdb)
