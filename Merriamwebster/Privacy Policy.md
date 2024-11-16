@@ -388,9 +388,9 @@ If you have questions about Merriam-Webster or its products, visit our [Contact 
 
 #### [Word of the Day](https://www.merriam-webster.com/word-of-the-day)
 
-#### [cachet](https://www.merriam-webster.com/word-of-the-day)
+#### [steadfast](https://www.merriam-webster.com/word-of-the-day)
 
-[![Listen to the pronunciation of cachet](/dist-cross-dungarees/2024-11-14--21-53-23-c9dnz/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of cachet")
+[![Listen to the pronunciation of steadfast](/dist-cross-dungarees/2024-11-14--21-53-23-c9dnz/images/svg/audio.svg)](javascript:void(0) "Listen to the pronunciation of steadfast")
 
 [See Definitions and Examples](https://www.merriam-webster.com/word-of-the-day) »
 
