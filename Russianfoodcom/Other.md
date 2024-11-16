@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_9.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,7 +148,7 @@
 
 Сейчас читают
 
-* [Свиные рёбрышки, запечённые в томатном соусе с вином](https://www.russianfood.com/recipes/recipe.php?rid=164873)
+* [Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636)
 
 |     |
 | --- |
@@ -173,6 +173,20 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Идеальное блюдо, чтобы согреться. СОЛЯНКА по-необычному (2)](https://www.russianfood.com/reading/?post_id=22881) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/519/sm_518019.jpg)](https://www.russianfood.com/reading/?post_id=22881)
+
+Сборная солянка с курицей, колбасой и каперсами. Солянка с грибами и картошкой. Солянка со свининой, копчёной колбасой, капустой и стручковой фасолью. Солянка сборная мясная с крупами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22881)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22881#comments) | 16.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Насытят, согреют и подарят удовольствие.) Время СУПОВ (69)](https://www.russianfood.com/reading/?post_id=22879) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/697/sm_696393.jpg)](https://www.russianfood.com/reading/?post_id=22879)
@@ -183,7 +197,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22879#comments) | 16.11.24 |     |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22879#comments) | 16.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -197,7 +211,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22880#comments) | 16.11.24 |     |
+|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22880#comments) | 16.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -267,7 +281,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174570#comments) | 14.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174570#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -323,7 +337,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174573#comments) | 14.11.24 |     |
+|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174573#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -366,20 +380,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22873#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Налистники (блинчики) с печенью трески, обжаренные в кляре](https://www.russianfood.com/recipes/recipe.php?rid=174707) |     |
-
-[![Фото к рецепту: Налистники (блинчики) с печенью трески, обжаренные в кляре](//img1.russianfood.com/dycontent/images_upl/748/sm_747746.jpg "Фото к рецепту: Налистники (блинчики) с печенью трески, обжаренные в кляре")](https://www.russianfood.com/recipes/recipe.php?rid=174707)
-
-Налистники – тонкие, эластичные блинчики с начинкой. Нежная печень трески с яйцами и свежей зеленью как нельзя лучше подходит для фарширования нейтральных по вкусу блинчиков. Обжаренные в яичном кляре налистники с печенью трески – потрясающая закуска, которая аппетитно удивляет. Готовим в будни и к праздникам!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174707)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [СП Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=486608) | _![](/images/blank.gif)_5 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174707#comments) | 14.11.24 |     |
 
 |     |
 | --- |
@@ -470,4 +470,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(115)
+(303)
