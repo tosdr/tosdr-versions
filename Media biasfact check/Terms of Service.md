@@ -145,6 +145,14 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
+* [Stand to Reason – Bias and Credibility](https://mediabiasfactcheck.com/stand-to-reason-bias-and-credibility/)
+    
+    November 16, 2024
+    
+* [Steve Quayle (stevequayle.com) – Bias and Credibility](https://mediabiasfactcheck.com/steve-quayle-stevequayle-com-bias-and-credibility/)
+    
+    November 16, 2024
+    
 * [Shape Magazine – Bias and Credibility](https://mediabiasfactcheck.com/shape-magazine-bias-and-credibility/)
     
     November 16, 2024
@@ -169,17 +177,17 @@ No related posts.
     
     November 15, 2024
     
-* [RMG Research – Bias and Credibility](https://mediabiasfactcheck.com/rmg-research-bias-and-credibility/)
-    
-    November 15, 2024
-    
-* [Scottish Daily Express – Bias and Credibility](https://mediabiasfactcheck.com/scottish-daily-express-bias/)
-    
-    November 14, 2024
-    
 
 #### Recently Updated Pages
 
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 16, 2024
+    
+* [Stand to Reason – Bias and Credibility](https://mediabiasfactcheck.com/stand-to-reason-bias-and-credibility/ "View Stand to Reason – Bias and Credibility") - November 16, 2024
+    
+* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - November 16, 2024
+    
+* [Steve Quayle (stevequayle.com) – Bias and Credibility](https://mediabiasfactcheck.com/steve-quayle-stevequayle-com-bias-and-credibility/ "View Steve Quayle (stevequayle.com) – Bias and Credibility") - November 16, 2024
+    
 * [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 16, 2024
     
 * [Shape Magazine – Bias and Credibility](https://mediabiasfactcheck.com/shape-magazine-bias-and-credibility/ "View Shape Magazine – Bias and Credibility") - November 16, 2024
@@ -192,14 +200,6 @@ No related posts.
     
 * [Fox Business – Bias and Credibility](https://mediabiasfactcheck.com/fox-business/ "View Fox Business – Bias and Credibility") - November 15, 2024
     
-* [Real America’s Voice – Bias and Credibility](https://mediabiasfactcheck.com/real-americas-voice/ "View Real America’s Voice – Bias and Credibility") - November 15, 2024
-    
-* [Popular Mechanics – Bias and Credibility](https://mediabiasfactcheck.com/popular-mechanics/ "View Popular Mechanics – Bias and Credibility") - November 15, 2024
-    
-* [Vice Media – Bias and Credibility](https://mediabiasfactcheck.com/vice-news/ "View Vice Media – Bias and Credibility") - November 15, 2024
-    
-* [Euronews – Bias and Credibility](https://mediabiasfactcheck.com/euronews/ "View Euronews – Bias and Credibility") - November 15, 2024
-    
 
 #### Today’s Top Page Views
 
@@ -209,10 +209,10 @@ No related posts.
 * [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
 * [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [MBFC's Daily Vetted Fact Checks for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/mbfcs-daily-vetted-fact-checks-for-11-15-2024/)
 * [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
-* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [MBFC's Daily Vetted Fact Checks for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/mbfcs-daily-vetted-fact-checks-for-11-15-2024/)
 * [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
 
 #### Subscribe via Email
 
