@@ -26,7 +26,6 @@
     
     Consumer
     
-    * [City Guide](https://foursquare.com/city-guide-sunset/)
     * [Swarm App](https://swarmapp.com/)
     
     Business Listings
