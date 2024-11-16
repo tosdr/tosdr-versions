@@ -103,8 +103,6 @@ Search site  Go
 * [Careers Search](https://scripps.wd5.myworkdayjobs.com/Scripps_Careers)
     
 
-[Amid active shooter scare, customers evacuated Clewiston Walmart with hands up](https://www.fox4now.com/news/local-news/hendry-county/breaking-shooting-at-clewiston-walmart)
-
 Privacy Policy
 ==============
 
