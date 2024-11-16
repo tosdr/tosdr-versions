@@ -353,15 +353,15 @@ Related Insights
     
     Video
     
+* [What Is an Overdraft Fee & How to Avoid Them](https://www.regions.com/insights/personal/personal-finances/managing-credit-and-debt/understanding-overdraft-fees)
+    
+    Article
+    
 * [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
     
     Article
     
 * [Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
-    
-    Article
-    
-* [How to endorse a check: 6 important steps](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/how-to-endorse-a-check)
     
     Article
     
