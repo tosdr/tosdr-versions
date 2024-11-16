@@ -31,19 +31,19 @@ nothing clones like a Fly
 
 * [Quick links](#)
     
-    * [Unanswered topics](https://flyclone.com/search.php?search_id=unanswered&sid=0e9c5c185f7445723e8543f7ab096f7e)
-    * [Active topics](https://flyclone.com/search.php?search_id=active_topics&sid=0e9c5c185f7445723e8543f7ab096f7e)
+    * [Unanswered topics](https://flyclone.com/search.php?search_id=unanswered&sid=18c98bd3beb4d8ab00c420a2f3ec4503)
+    * [Active topics](https://flyclone.com/search.php?search_id=active_topics&sid=18c98bd3beb4d8ab00c420a2f3ec4503)
     
-    * [Search](https://flyclone.com/search.php?sid=0e9c5c185f7445723e8543f7ab096f7e)
+    * [Search](https://flyclone.com/search.php?sid=18c98bd3beb4d8ab00c420a2f3ec4503)
     
 * [FAQ](https://flyclone.com/viewtopic.php??f=6&t=186 "Frequently Asked Questions")
-* [Login](https://flyclone.com/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=0e9c5c185f7445723e8543f7ab096f7e "Login")
-* [Register](https://flyclone.com/ucp.php?mode=register&sid=0e9c5c185f7445723e8543f7ab096f7e)
+* [Login](https://flyclone.com/ucp.php?mode=login&redirect=ucp.php%3Fmode%3Dterms&sid=18c98bd3beb4d8ab00c420a2f3ec4503 "Login")
+* [Register](https://flyclone.com/ucp.php?mode=register&sid=18c98bd3beb4d8ab00c420a2f3ec4503)
 
-* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=0e9c5c185f7445723e8543f7ab096f7e)
-*  Search [Advanced search](https://flyclone.com/search.php?sid=0e9c5c185f7445723e8543f7ab096f7e "Advanced search")
+* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=18c98bd3beb4d8ab00c420a2f3ec4503)
+*  Search [Advanced search](https://flyclone.com/search.php?sid=18c98bd3beb4d8ab00c420a2f3ec4503 "Advanced search")
     
-* [Search](https://flyclone.com/search.php?sid=0e9c5c185f7445723e8543f7ab096f7e "View the advanced search options")
+* [Search](https://flyclone.com/search.php?sid=18c98bd3beb4d8ab00c420a2f3ec4503 "View the advanced search options")
 
 the Fly Clone Project - Terms of use
 ------------------------------------
@@ -58,16 +58,16 @@ Our forums are powered by phpBB (hereinafter “they”, “them”, “their”
   
 You agree not to post any abusive, obscene, vulgar, slanderous, hateful, threatening, sexually-orientated or any other material that may violate any laws be it of your country, the country where “the Fly Clone Project” is hosted or International Law. Doing so may lead to you being immediately and permanently banned, with notification of your Internet Service Provider if deemed required by us. The IP address of all posts are recorded to aid in enforcing these conditions. You agree that “the Fly Clone Project” have the right to remove, edit, move or close any topic at any time should we see fit. As a user you agree to any information you have entered to being stored in a database. While this information will not be disclosed to any third party without your consent, neither “the Fly Clone Project” nor phpBB shall be held responsible for any hacking attempt that may lead to the data being compromised.
 
-* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=0e9c5c185f7445723e8543f7ab096f7e)
+* [○](https://flyclone.com/) [Home](https://flyclone.com/index.php?sid=18c98bd3beb4d8ab00c420a2f3ec4503)
 * All times are UTC-05:00
-* [Delete cookies](https://flyclone.com/ucp.php?mode=delete_cookies&sid=0e9c5c185f7445723e8543f7ab096f7e)
+* [Delete cookies](https://flyclone.com/ucp.php?mode=delete_cookies&sid=18c98bd3beb4d8ab00c420a2f3ec4503)
 
 Powered by [phpBB](https://www.phpbb.com/)® Forum Software © phpBB Limited
 
-[Privacy](https://flyclone.com/ucp.php?mode=privacy&sid=0e9c5c185f7445723e8543f7ab096f7e "Privacy") | [Terms](https://flyclone.com/ucp.php?mode=terms&sid=0e9c5c185f7445723e8543f7ab096f7e "Terms")
+[Privacy](https://flyclone.com/ucp.php?mode=privacy&sid=18c98bd3beb4d8ab00c420a2f3ec4503 "Privacy") | [Terms](https://flyclone.com/ucp.php?mode=terms&sid=18c98bd3beb4d8ab00c420a2f3ec4503 "Terms")
 
 [](#)
 
 [](#)
 
-![](/app.php/cron/cron.task.text_reparser.poll_option?sid=0e9c5c185f7445723e8543f7ab096f7e)
+![](/app.php/cron/cron.task.text_reparser.poll_option?sid=18c98bd3beb4d8ab00c420a2f3ec4503)
