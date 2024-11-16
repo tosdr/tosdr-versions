@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_345324422_menu)
+ [Compartilhar](#elShareItem_2084462299_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1483156632_menu)
+ [Compartilhar](#elShareItem_1553353978_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,6 +365,56 @@ Mais opções...
 
 * ### Últimos tópicos
     
+    * [![Minato4009](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256156.thumb.png.be8cd64d986faad9a7f2e303409a0435.png)](https://www.clubedohardware.com.br/profile/1256156-minato4009/ "Ir ao perfil de Minato4009")
+        
+        0
+        
+        [Recomendações de placa-mãe para Ryzen 5600gt e radeon rx 6600](https://www.clubedohardware.com.br/forums/topic/1702506-recomenda%C3%A7%C3%B5es-de-placa-m%C3%A3e-para-ryzen-5600gt-e-radeon-rx-6600/?do=getNewComment "Recomendações de placa-mãe para Ryzen 5600gt e radeon rx 6600")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Minato4009](https://www.clubedohardware.com.br/profile/1256156-minato4009/ "Ir ao perfil de Minato4009")  
+        agora
+        
+    * [![Gean.krum](https://www.clubedohardware.com.br/uploads/members/monthly_2023_08/imported-photo-1226478.thumb.png.49b1391697894c51c0dc1aa6663d105d.png)](https://www.clubedohardware.com.br/profile/1226478-geankrum/ "Ir ao perfil de Gean.krum")
+        
+        0
+        
+        [Qual seria o melhor upgrade para este PC ?](https://www.clubedohardware.com.br/forums/topic/1702505-qual-seria-o-melhor-upgrade-para-este-pc/?do=getNewComment "Qual seria o melhor upgrade para este PC ?")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Gean.krum](https://www.clubedohardware.com.br/profile/1226478-geankrum/ "Ir ao perfil de Gean.krum")  
+        4 minutos atrás
+        
+    * [![Pedro15henrique](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256155.thumb.jpeg.1e5a20b8efebc01854647e123bc8a8d1.jpeg)](https://www.clubedohardware.com.br/profile/1256155-pedro15henrique/ "Ir ao perfil de Pedro15henrique")
+        
+        0
+        
+        [Baterias em series e carregamento](https://www.clubedohardware.com.br/forums/topic/1702502-baterias-em-series-e-carregamento/?do=getNewComment "Baterias em series e carregamento")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Pedro15henrique](https://www.clubedohardware.com.br/profile/1256155-pedro15henrique/ "Ir ao perfil de Pedro15henrique")  
+        20 minutos atrás
+        
+    * [![PauloC](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256152.thumb.png.8bd52fc8752fde926247124f756d9848.png)](https://www.clubedohardware.com.br/profile/1256152-pauloc/ "Ir ao perfil de PauloC")
+        
+        1
+        
+        [Não consigo conectar a uma rede após restaurar para formato de fábrica](https://www.clubedohardware.com.br/forums/topic/1702499-n%C3%A3o-consigo-conectar-a-uma-rede-ap%C3%B3s-restaurar-para-formato-de-f%C3%A1brica/?do=getNewComment "Não consigo conectar a uma rede após restaurar para formato de fábrica")
+        
+        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
+        Por [PauloC](https://www.clubedohardware.com.br/profile/1256152-pauloc/ "Ir ao perfil de PauloC")  
+        3 horas atrás
+        
+    * [![Zayco](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1198664.thumb.jpeg.6d1c97c2bd442e5616a79362f50943ae.jpeg)](https://www.clubedohardware.com.br/profile/1198664-zayco/ "Ir ao perfil de Zayco")
+        
+        2
+        
+        [Overclock de memória RAM 2400Mhz: posso subir mais do que 3200Mhz?](https://www.clubedohardware.com.br/forums/topic/1702498-overclock-de-mem%C3%B3ria-ram-2400mhz-posso-subir-mais-do-que-3200mhz/?do=getNewComment "Overclock de memória RAM 2400Mhz: posso subir mais do que 3200Mhz?")
+        
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Zayco](https://www.clubedohardware.com.br/profile/1198664-zayco/ "Ir ao perfil de Zayco")  
+        4 horas atrás
+        
     * [![yrneH](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/655653565_MusashiMiyamoto.thumb.jpeg.0af35be8aa0b8c899e56b97139044681.jpeg)](https://www.clubedohardware.com.br/profile/1206473-yrneh/ "Ir ao perfil de yrneH")
         
         3
@@ -373,17 +423,17 @@ Mais opções...
         
         [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
         Por [yrneH](https://www.clubedohardware.com.br/profile/1206473-yrneh/ "Ir ao perfil de yrneH")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Felipe Reis FranzaO](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1131942.thumb.png.3ab566d4234e1a44031d23fb1ec35672.png)](https://www.clubedohardware.com.br/profile/1131942-felipe-reis-franzao/ "Ir ao perfil de Felipe Reis FranzaO")
         
-        0
+        2
         
-        [Opiniões sobre configuração de pc](https://www.clubedohardware.com.br/forums/topic/1702496-opini%C3%B5es-sobre-configura%C3%A7%C3%A3o-de-pc/?do=getNewComment "Opiniões sobre configuração de pc")
+        [PC: MSI Pro B650M-P, Ryzen 5 7600, 32GB e Radeon RX 6750XT, é bom?](https://www.clubedohardware.com.br/forums/topic/1702496-pc-msi-pro-b650m-p-ryzen-5-7600-32gb-e-radeon-rx-6750xt-%C3%A9-bom/?do=getNewComment "PC: MSI Pro B650M-P, Ryzen 5 7600, 32GB e Radeon RX 6750XT, é bom?")
         
         [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
         Por [Felipe Reis FranzaO](https://www.clubedohardware.com.br/profile/1131942-felipe-reis-franzao/ "Ir ao perfil de Felipe Reis FranzaO")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Matheus32sXe](https://www.clubedohardware.com.br/uploads/members/monthly_2017_12/mancha.thumb.png.f4e31a8fb789cb3b1ca09d69a7cc8cbb.png)](https://www.clubedohardware.com.br/profile/584217-matheus32sxe/ "Ir ao perfil de Matheus32sXe")
         
@@ -393,17 +443,17 @@ Mais opções...
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Matheus32sXe](https://www.clubedohardware.com.br/profile/584217-matheus32sxe/ "Ir ao perfil de Matheus32sXe")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Rob_](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b762%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1222579-rob_/ "Ir ao perfil de Rob_")
         
-        1
+        2
         
         [PC não dá Vídeo na minha residência](https://www.clubedohardware.com.br/forums/topic/1702494-pc-n%C3%A3o-d%C3%A1-v%C3%ADdeo-na-minha-resid%C3%AAncia/?do=getNewComment "PC não dá Vídeo na minha residência")
         
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
         Por [Rob\_](https://www.clubedohardware.com.br/profile/1222579-rob_/ "Ir ao perfil de Rob_")  
-        2 horas atrás
+        8 horas atrás
         
     * [![Mateus Martins Viana](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256090.thumb.png.61897120d909ce61a0930ce39845f743.png)](https://www.clubedohardware.com.br/profile/1256090-mateus-martins-viana/ "Ir ao perfil de Mateus Martins Viana")
         
@@ -413,57 +463,7 @@ Mais opções...
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Mateus Martins Viana](https://www.clubedohardware.com.br/profile/1256090-mateus-martins-viana/ "Ir ao perfil de Mateus Martins Viana")  
-        2 horas atrás
-        
-    * [![RenanJunio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255246.thumb.jpeg.390dc82a99cd7b820dece0d732eb3394.jpeg)](https://www.clubedohardware.com.br/profile/1255246-renanjunio/ "Ir ao perfil de RenanJunio")
-        
-        1
-        
-        [I5-11400f com uma 4060ti e 32ram o que subir](https://www.clubedohardware.com.br/forums/topic/1702492-i5-11400f-com-uma-4060ti-e-32ram-o-que-subir/?do=getNewComment "I5-11400f com uma 4060ti e 32ram o que subir")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [RenanJunio](https://www.clubedohardware.com.br/profile/1255246-renanjunio/ "Ir ao perfil de RenanJunio")  
-        3 horas atrás
-        
-    * [![shori](https://www.clubedohardware.com.br/uploads/members/monthly_2021_08/imported-photo-1165308.thumb.jpeg.d2fff81952443fb2affde5c25ed80ccb.jpeg)](https://www.clubedohardware.com.br/profile/1165308-shori/ "Ir ao perfil de shori")
-        
-        6
-        
-        [Qual a melhor opção de placa de vídeo até 799 R$?](https://www.clubedohardware.com.br/forums/topic/1702491-qual-a-melhor-op%C3%A7%C3%A3o-de-placa-de-v%C3%ADdeo-at%C3%A9-799-r/?do=getNewComment "Qual a melhor opção de placa de vídeo até 799 R$?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [shori](https://www.clubedohardware.com.br/profile/1165308-shori/ "Ir ao perfil de shori")  
-        5 horas atrás
-        
-    * [![User23192025](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255243.thumb.jpeg.c501556a8e712e37fda4fbe0d7882d55.jpeg)](https://www.clubedohardware.com.br/profile/1255243-user23192025/ "Ir ao perfil de User23192025")
-        
-        1
-        
-        [Esse PC é suficiente por R$4.600?](https://www.clubedohardware.com.br/forums/topic/1702490-esse-pc-%C3%A9-suficiente-por-r4600/?do=getNewComment "Esse PC é suficiente por R$4.600?")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [User23192025](https://www.clubedohardware.com.br/profile/1255243-user23192025/ "Ir ao perfil de User23192025")  
-        5 horas atrás
-        
-    * [![Maydson Murilo](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/memePRAVENDer.thumb.jpg.5fd99963f089c6a7c2e4b596af554119.jpg)](https://www.clubedohardware.com.br/profile/1256145-maydson-murilo/ "Ir ao perfil de Maydson Murilo")
-        
-        19
-        
-        [Recomendação de fonte para Ryzen 5 5600G e RTX 2060 Super até R$ 700,00](https://www.clubedohardware.com.br/forums/topic/1702489-recomenda%C3%A7%C3%A3o-de-fonte-para-ryzen-5-5600g-e-rtx-2060-super-at%C3%A9-r-70000/?do=getNewComment "Recomendação de fonte para Ryzen 5 5600G e RTX 2060 Super até R$ 700,00")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Maydson Murilo](https://www.clubedohardware.com.br/profile/1256145-maydson-murilo/ "Ir ao perfil de Maydson Murilo")  
-        6 horas atrás
-        
-    * [![João pf](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256147.thumb.jpeg.80dd58a577e202b17e34b21db1640fcb.jpeg)](https://www.clubedohardware.com.br/profile/1256147-jo%C3%A3o-pf/ "Ir ao perfil de João pf")
-        
-        2
-        
-        [Upgrade com orçamento baixo](https://www.clubedohardware.com.br/forums/topic/1702488-upgrade-com-or%C3%A7amento-baixo/?do=getNewComment "Upgrade com orçamento baixo")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [João pf](https://www.clubedohardware.com.br/profile/1256147-jo%C3%A3o-pf/ "Ir ao perfil de João pf")  
-        6 horas atrás
+        8 horas atrás
         
     
 
