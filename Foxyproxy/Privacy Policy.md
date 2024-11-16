@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is always most pleasing :D
+I've been working abroad, and having foxy proxy has been a lifesaver! Whilst I could never get live tv to work, it was great to have iPlayer and other TV sources available to take away the foreign blues! Fantastic service, I've recommended it to loads of people as I really rate it! I've moved back to the UK now so not needed at the moment, but I'll definitely use it again next time I'm overseas!
 
-G. A. Murdoch
+Andrew Bellamy
