@@ -139,24 +139,23 @@ Save settings
 
 ### Featured Articles
 
+[![Maturity Test](https://www.wikihow.com/images/thumb/e/e4/Maturity-quiz.png/-crop-126-120-126px-Maturity-quiz.png)
+
+Am I Mature Quiz](https://www.wikihow.com/Maturity-Test)
+
+[![Get Six Pack Abs Fast](https://www.wikihow.com/images/thumb/4/4f/Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg/-crop-126-120-126px-Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg)
+
+How to  
+Get Six Pack Abs Fast](https://www.wikihow.com/Get-Six-Pack-Abs-Fast)
+
+[![Be Humble](https://www.wikihow.com/images/thumb/2/2e/Be-Humble-Step-23.jpg/-crop-126-120-126px-Be-Humble-Step-23.jpg)
+
+23 Best Practices to Become More Humble](https://www.wikihow.com/Be-Humble)
+
 [![Read Palms](https://www.wikihow.com/images/thumb/0/00/Read-Palms-Step-9.jpg/-crop-126-120-126px-Read-Palms-Step-9.jpg)
 
 How to  
 Read Palms](https://www.wikihow.com/Read-Palms)
-
-[![Practice Self Care](https://www.wikihow.com/images/thumb/5/5f/Use-Your-Time-Wisely-Step-4-Version-2.jpg/-crop-126-120-126px-Use-Your-Time-Wisely-Step-4-Version-2.jpg)
-
-How to  
-Practice Self Care](https://www.wikihow.com/Practice-Self-Care)
-
-[![Remove Blackheads](https://www.wikihow.com/images/thumb/9/9c/Remove-Blackheads-Step-24-Version-5.jpg/-crop-126-120-126px-Remove-Blackheads-Step-24-Version-5.jpg)
-
-How to  
-Remove Blackheads](https://www.wikihow.com/Remove-Blackheads)
-
-[![Apply Perfume](https://www.wikihow.com/images/thumb/0/01/Apply-Perfume-Step-24-Version-2.jpg/-crop-126-120-126px-Apply-Perfume-Step-24-Version-2.jpg)
-
-How & Where to Apply Perfume (Plus, Common Mistakes to Avoid)](https://www.wikihow.com/Apply-Perfume)
 
   
 
@@ -199,4 +198,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-171
+130
