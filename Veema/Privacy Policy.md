@@ -248,20 +248,19 @@ N8 7RF
 
 ### Latest Tweets
 
+[November 17, 2024](https://twitter.com/xpateducator/status/1858066903367069770)
+
+[](https://twitter.com/xpateducator/status/1858066903367069770)
+
+[☝️Dylan Wiliam said that Cognitive Load Theory is ‘the single most important thing for](https://twitter.com/xpateducator/status/1858066903367069770) [...](#)teachers to know’. This poster summarises some key ideas from CLT and offers 6 strategies to optimise instruction and maximise learning.  
+  
+👊 REPOST and grab a free HQ copy here:…
+
 [October 28, 2024](https://twitter.com/costa_veemaedu/status/1850886398460510699)
 
 [](https://twitter.com/costa_veemaedu/status/1850886398460510699)
 
 [What a fab start to my half-term break. TY to everyone who continues to support my work, @VeemaEdu,](https://twitter.com/costa_veemaedu/status/1850886398460510699)[...](#) my leadership journey and of course the team at @routledgebooks. The book is full of practical ideas, research, & my own stories from schools I work with. More to follow soon…
-
-[October 28, 2024](https://twitter.com/societyofheads/status/1850859625433764301)
-
-[](https://twitter.com/societyofheads/status/1850859625433764301)
-
-[🙌We are busy planning our next gathering for Junior School Leaders #SoHJuniorSchoolLeadersConf](https://twitter.com/societyofheads/status/1850859625433764301) [...](#)🎉  
-  
-All of our Junior School Leaders will be welcome at this exciting event full of networking, professional development and collegiality. Book here today! 👀🖱️  
-https://www.thesocietyofheads.org.uk/booking
 
 © Copyright 2022 by Veema Limited. Company Registration No. 07799937. All Rights Reserved.
 
