@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![Martin Shaw and Michael Hill-Smith. ](https://static.ffx.io/images/$zoom_0.1576%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_110/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/bde23db96e56833a86b3d4fca3ccfd34e0e1ad50)](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
+[![ ](https://static.ffx.io/images/$zoom_0.2626%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ccf5d90756e464558d033c361eb47fa3b71aaea7)](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
 
-### [Tolpuddle’s new tasting room is another great reason to visit Tasmania](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
+### [It’s entirely possible you deserve, even need, one of these](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
 
-* Max Allen
+* 56 mins ago
+* Eugenie Kelly
 
-* ### [10 top luxury cruises to sail away on in 2025](https://www.afr.com/life-and-luxury/travel/10-top-luxury-cruises-to-sail-away-on-in-2025-20241025-p5klgj)
+* ### [Ben Quilty to sell part of his personal collection for superannuation](https://www.afr.com/life-and-luxury/arts-and-culture/ben-quilty-to-sell-part-of-his-personal-collection-for-superannuation-20241031-p5kmvc)
     
-* ### [If it’s gourmet adventures you’re after, it’s time to visit Slovenia](https://www.afr.com/life-and-luxury/food-and-wine/if-it-s-gourmet-adventures-you-re-after-it-s-time-to-visit-slovenia-20240712-p5jtax)
+* ### [Tolpuddle’s new tasting room is another great reason to visit Tasmania](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
     
 
 [Rich List](https://www.afr.com/rich-list)
