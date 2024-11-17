@@ -81,8 +81,8 @@ Trending Posts
 * [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
+* [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 Close
 
@@ -145,8 +145,8 @@ Trending Posts
 * [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
 * [Gaza, voter turnout, abortion rights, and more: Surveying the post-election damage](https://therealnews.com/gaza-voter-turnout-abortion-rights-and-more-surveying-the-post-election-damage)
+* [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Black, conservative, and unapologetic: A deep dive with the Black women fighting to get Trump reelected](https://therealnews.com/black-conservative-and-unapologetic-a-deep-dive-with-the-black-women-fighting-to-get-trump-reelected)
-* [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
 
 [Skip to content](#main)
 
