@@ -621,6 +621,12 @@ Rated 4.8 out of 5 stars
 
 14 Reviews
 
+5.0
+
+Rated 5.0 out of 5 stars
+
+1 Review
+
 4.3
 
 Rated 4.3 out of 5 stars
