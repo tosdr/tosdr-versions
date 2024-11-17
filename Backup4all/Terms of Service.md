@@ -139,15 +139,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup Outlook emails and settings](https://www.backup4all.com/backup-outlook-emails-and-settings-kb.html)  
+* [How to erase a CD/DVD/Blu-ray with Backup4all](https://www.backup4all.com/how-to-erase-a-cd-dvd-blu-ray-with-backup4all-kb.html)  
     
-* [How to back up data files from Dunkel using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-dunkel-using-backup4all-kb.html)  
+* [FTP backup](https://www.backup4all.com/ftp-backup-kb.html)  
     
-* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
+* [How to back up data files from LeoNovus using ...](https://www.backup4all.com/how-to-back-up-data-files-from-leonovus-using-backup4all-kb.html)  
     
-* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
+* [Installing - FAQ](https://www.backup4all.com/installing-faq-kb.html)  
     
-* [How to restore a backup using 7-Zip](https://www.backup4all.com/how-to-restore-a-backup-using-7-zip-kb.html)  
+* [How to restore a backup from Amazon S3](https://www.backup4all.com/how-to-restore-a-backup-from-amazon-s3-kb.html)  
     
 
 Choose language:
