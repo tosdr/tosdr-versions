@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. c
+1. marketing
     
-2. sql
+2. law
     
-3. French
+3. finance
     
 
 Popular subjects
 ----------------
 
-1. [Python
+1. [Graphic Design
+    
+    4,340 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Python
     
     9,913 courses](https://www.classcentral.com/subject/python)
-2. [Artificial Intelligence
+3. [Digital Marketing
     
-    13,758 courses](https://www.classcentral.com/subject/ai)
-3. [Cybersecurity
-    
-    16,761 courses](https://www.classcentral.com/subject/cybersecurity)
+    6,256 courses](https://www.classcentral.com/subject/digital-marketing)
 
 Popular courses
 ---------------
 
-1. [JavaScript Algorithms and Data Structures
+1. [English for Career Development
     
-    freeCodeCamp](https://www.classcentral.com/course/freecodecamp-javascript-algorithms-and-data-struc-34060)
-2. [Mountains 101
+    University of Pennsylvania](https://www.classcentral.com/course/careerdevelopment-6011)
+2. [Inglés empresarial: ventas, gestión y liderazgo
     
-    University of Alberta](https://www.classcentral.com/course/mountains-101-7455)
-3. [Quantum Mechanics for Everyone
+    Universidad Anáhuac](https://www.classcentral.com/course/english-universidades-anahuac-ingles-empresarial--19171)
+3. [Crisis Resource Management
     
-    Georgetown University](https://www.classcentral.com/course/quantum-physics-mechanics-georgetown-university-q-8284)
+    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
