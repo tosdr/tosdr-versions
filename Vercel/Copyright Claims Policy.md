@@ -270,4 +270,6 @@ Social
 
 [](https://vercel.com/home)
 
+[Loading status...](https://vercel-status.com/)
+
 Select a display theme:system lightdark
