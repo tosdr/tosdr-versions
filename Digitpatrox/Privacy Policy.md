@@ -20,16 +20,16 @@ Sunday, November 17 2024
 
 Latest
 
+* [The Best Tools to Check Online Price History](https://digitpatrox.com/the-best-tools-to-check-online-price-history/)
+* [How to Get the Used EV Tax Credit](https://digitpatrox.com/how-to-get-the-used-ev-tax-credit/)
+* [5 Ways to Create a Local User Account on Windows 11](https://digitpatrox.com/5-ways-to-create-a-local-user-account-on-windows-11/)
+* [How to watch Italy vs France live stream 2024 free online](https://digitpatrox.com/how-to-watch-italy-vs-france-live-stream-2024-free-online/)
+* [T-Mobile confirms it was hacked in recent wave of telecom breaches](https://digitpatrox.com/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
+* [Netflix served the Tyson vs. Paul fight to 60 million households](https://digitpatrox.com/netflix-served-the-tyson-vs-paul-fight-to-60-million-households/)
+* [NYT Connections Today: Hints and Answers for November 17, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-17-2024/)
 * [Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
 * [Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
 * [Car Battery Charger FAQ – Consumer Reports](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
-* [How to Securely Delete Sensitive Files on Windows 11](https://digitpatrox.com/how-to-securely-delete-sensitive-files-on-windows-11/)
-* [Fedora vs Ubuntu: Are You Considering a New Distro?](https://digitpatrox.com/fedora-vs-ubuntu-are-you-considering-a-new-distro/)
-* [How to watch England vs Ireland live stream free, Nations League](https://digitpatrox.com/how-to-watch-england-vs-ireland-live-stream-free-nations-league/)
-* [Fake AI video generators infect Windows, macOS with infostealers](https://digitpatrox.com/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
-* [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://digitpatrox.com/narwals-freo-x-ultra-the-best-mopping-robot-available-is-on-sale-for-a-new-low-price/)
-* [Today’s Wordle Answer and Hints (November 17, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-17-2024/)
-* [Getting started with Google Password Manager – Computerworld](https://digitpatrox.com/getting-started-with-google-password-manager-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3604307-0-69899900-1731567931-android-floating-note-app.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
+* [![](https://lifehacker.com/imagery/articles/01HF2GY1EGKVBM56BVJC4RJMWT/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-tools-to-check-online-price-history/)
     
-    [Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
+    [The Best Tools to Check Online Price History](https://digitpatrox.com/the-best-tools-to-check-online-price-history/)
     
-    21 minutes ago
+    50 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01J06V6G5TPEC77MJVHY9XX9Q2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1698159439/prod/content/dam/CRO-Images-2023/10October/Cars/CR-Cars-InlineHero-2020-Toyota-Prius-Prime-f-driving-10-23)](https://digitpatrox.com/how-to-get-the-used-ev-tax-credit/)
     
-    [Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
+    [How to Get the Used EV Tax Credit](https://digitpatrox.com/how-to-get-the-used-ev-tax-credit/)
     
-    49 minutes ago
+    60 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1607093642/prod/content/dam/CRO-Images-2020/Cars/12Dec/CR-Cars-InlineHero-Smart-Charger-LR-12-20)](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/02/windows-11-1.jpg)](https://digitpatrox.com/5-ways-to-create-a-local-user-account-on-windows-11/)
     
-    [Car Battery Charger FAQ – Consumer Reports](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
-    
-    59 minutes ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_258326060.jpg)](https://digitpatrox.com/how-to-securely-delete-sensitive-files-on-windows-11/)
-    
-    [How to Securely Delete Sensitive Files on Windows 11](https://digitpatrox.com/how-to-securely-delete-sensitive-files-on-windows-11/)
+    [5 Ways to Create a Local User Account on Windows 11](https://digitpatrox.com/5-ways-to-create-a-local-user-account-on-windows-11/)
     
     1 hour ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241115-fedora-vs-ubuntu.jpg)](https://digitpatrox.com/fedora-vs-ubuntu-are-you-considering-a-new-distro/)
+* [![](https://cdn.mos.cms.futurecdn.net/zs9t5JtQWCF3TbbtYXQS2N-1200-80.png)](https://digitpatrox.com/how-to-watch-italy-vs-france-live-stream-2024-free-online/)
     
-    [Fedora vs Ubuntu: Are You Considering a New Distro?](https://digitpatrox.com/fedora-vs-ubuntu-are-you-considering-a-new-distro/)
+    [How to watch Italy vs France live stream 2024 free online](https://digitpatrox.com/how-to-watch-italy-vs-france-live-stream-2024-free-online/)
     
     2 hours ago
+    
+* [![](https://www.bleepstatic.com/content/hl-images/2021/08/23/tmobile-header-glitch.jpg)](https://digitpatrox.com/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
+    
+    [T-Mobile confirms it was hacked in recent wave of telecom breaches](https://digitpatrox.com/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,39 +208,39 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [21 minutes ago
+* [50 minutes ago
     
-    ### Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
-* [49 minutes ago
+    ### The Best Tools to Check Online Price History](https://digitpatrox.com/the-best-tools-to-check-online-price-history/)
+* [60 minutes ago
     
-    ### Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
-* [59 minutes ago
+    ### How to Get the Used EV Tax Credit](https://digitpatrox.com/how-to-get-the-used-ev-tax-credit/)
+* [1 hour ago
     
-    ### Car Battery Charger FAQ – Consumer Reports](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
+    ### 5 Ways to Create a Local User Account on Windows 11](https://digitpatrox.com/5-ways-to-create-a-local-user-account-on-windows-11/)
 
 Most Popular Topics
 
-* [August 20, 2024
+* [October 1, 2024
     
-    ### How to watch Democratic National Convention 2024 online for free — Kamala Harris, Barack Obama, Hilary Clinton](https://digitpatrox.com/how-to-watch-democratic-national-convention-2024-online-for-free-kamala-harris-barack-obama-hilary-clinton/)
-* [September 14, 2024
+    ### How to edit a PDF in Google Docs](https://digitpatrox.com/how-to-edit-a-pdf-in-google-docs/)
+* [September 22, 2024
     
-    ### Canva talked up its new AI features, then hiked prices by over 300% – but the company says the increase is worth it](https://digitpatrox.com/canva-talked-up-its-new-ai-features-then-hiked-prices-by-over-300-but-the-company-says-the-increase-is-worth-it/)
-* [3 weeks ago
+    ### Best Range Hoods of 2024](https://digitpatrox.com/best-range-hoods-of-2024/)
+* [4 weeks ago
     
-    ### Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
+    ### NIS2 is now in force around the EU – can business keep up with new compliance obligations?](https://digitpatrox.com/nis2-is-now-in-force-around-the-eu-can-business-keep-up-with-new-compliance-obligations/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Fake AI video generators infect Windows, macOS with infostealers](https://digitpatrox.com/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
-* [3 hours ago
-    
-    ### Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://digitpatrox.com/narwals-freo-x-ultra-the-best-mopping-robot-available-is-on-sale-for-a-new-low-price/)
 * [4 hours ago
     
-    ### Today’s Wordle Answer and Hints (November 17, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-17-2024/)
+    ### NYT Connections Today: Hints and Answers for November 17, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-17-2024/)
+* [5 hours ago
+    
+    ### Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
+* [6 hours ago
+    
+    ### Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
 
 Most Viewed Topics
 
@@ -249,7 +249,7 @@ Most Viewed Topics
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
