@@ -221,7 +221,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Agency Financial Report for Fiscal Year 2024](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-issues-agency-financial-report-fiscal-year-2024)
+    ### [FTC Takes Action Against Bogus Business Finance Scheme Seek Capital For Costing Small Business Owners Millions](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-takes-action-against-bogus-business-finance-scheme-seek-capital-costing-small-business-owners)
     
     November 15, 2024
     
