@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-geboorte-van-venus/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/waren-de-oudsten-van-onze-tijd-bijeen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
