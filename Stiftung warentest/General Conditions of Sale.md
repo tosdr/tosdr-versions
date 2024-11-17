@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gut essen mit der Stiftung Warentest: Schnelle Fisch­suppe](https://www.test.de/Gut-essen-mit-der-Stiftung-Warentest-Schnelle-Fischsuppe-5980959-0/ "Gut essen mit der Stiftung Warentest - Schnelle Fischsuppe")
-* [Grauer Kapitalmarkt: Erfolg gegen UDI GmbH und Gründer](https://www.test.de/Grauer-Kapitalmarkt-Erfolg-gegen-UDI-GmbH-und-Gruender-6082879-0/ "Grauer Kapitalmarkt - Erfolg gegen UDI GmbH und Gründer")
-* [Produktwarnung Saugroboter: Akkus von Eufy können über­hitzen](https://www.test.de/Produktwarnung-Saugroboter-Akkus-von-Eufy-koennen-ueberhitzen-6076882-0/ "Produktwarnung Saugroboter - Akkus von Eufy können überhitzen")
-* [Schnell­test E-Ink-Monitore: Lesen wie auf Papier](https://www.test.de/Schnelltest-E-Ink-Monitore-Lesen-wie-auf-Papier-6000137-0/ "Schnelltest E-Ink-Monitore - Lesen wie auf Papier")
-* [Geld­anlage mit ETF: Viel zu wissen hilft nicht unbe­dingt viel](https://www.test.de/Geldanlage-mit-ETF-Viel-zu-wissen-hilft-nicht-unbedingt-viel-6083347-0/ "Geldanlage mit ETF - Viel zu wissen hilft nicht unbedingt viel")
-* [Kiefer­ortho­pädie bei Kindern: Wann die Behand­lung starten sollte](https://www.test.de/Kieferorthopaedie-bei-Kindern-Wann-die-Behandlung-starten-sollte-1783943-0/ "Kieferorthopädie bei Kindern - Wann die Behandlung starten sollte")
+* [Hauts­cree­ning-Apps im Test: Haut­krebs per App erkennen](https://www.test.de/Hautscreening-Apps-im-Test-5944602-0/ "Hautscreening-Apps im Test - Hautkrebs per App erkennen")
+* [Bondora: Privatkredite mit Risiken](https://www.test.de/Bondora-Privatkredite-mit-Risiken-6061826-0/ "Bondora - Privatkredite mit Risiken")
+* [Aktiv Natron von Heitmann pure: Eine Mogel­packung weniger](https://www.test.de/Verpackungsaerger-Aktiv-Natron-von-Heitmann-6066179-0/ "Aktiv Natron von Heitmann pure - Eine Mogelpackung weniger")
+* [Haferdrink-Pulver im Schnell­test: Hafermilch zum Anrühren − bringts das?](https://www.test.de/Haferdrink-Pulver-im-Test-6128130-0/ "Haferdrink-Pulver im Schnelltest - Hafermilch zum Anrühren − bringts das?")
+* [Online-Broker: Anzeige gegen NXS Fund](https://www.test.de/Online-Broker-NXS-Fund-angezeigt-6084720-0/ "Online-Broker - Anzeige gegen NXS Fund")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
 Service Stiftung Warentest
 
