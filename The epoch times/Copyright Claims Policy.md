@@ -160,74 +160,74 @@ TOP NEWS
 
 * [RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
     
-    NEW By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    7hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
     [![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761089-RFK-banning-foods-3-205x123.jpg)](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
+    ![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761089-RFK-banning-foods-3-205x123.jpg.webp)](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
+* [Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
+    
+    11hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    
+    [![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761099-Will-Scharf-GettyImages-2169800355-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
 * [Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://www.theepochtimes.com/article/day-in-photos-leaders-conclude-apec-prison-releases-protesters-and-man-in-blue-5760944)
     
-    5hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760995-AP24321650067754-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-leaders-conclude-apec-prison-releases-protesters-and-man-in-blue-5760944)
 * [Trump Selects Chris Wright to Lead Department of Energy](https://www.theepochtimes.com/us/trump-selects-chris-wright-to-lead-department-of-energy-5761006)
     
-    5hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
+    11hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
     
     [![Trump Selects Chris Wright to Lead Department of Energy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Selects Chris Wright to Lead Department of Energy](https://img.theepochtimes.com/assets/uploads/2024/06/15/id5669421-11132023-DSC05567-Department-of-Energy-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-chris-wright-to-lead-department-of-energy-5761006)
+    ![Trump Selects Chris Wright to Lead Department of Energy](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761097-Chris-Wright--205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-chris-wright-to-lead-department-of-energy-5761006)
 * [Meet Adam Smith, the Green Beret Behind North Carolina’s ‘Redneck Air Force’](https://www.theepochtimes.com/article/meet-adam-smith-the-green-beret-behind-north-carolinas-redneck-air-force-5758552)
     
-    6hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    12hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
     [![Meet Adam Smith, the Green Beret Behind North Carolina’s ‘Redneck Air Force’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Meet Adam Smith, the Green Beret Behind North Carolina’s ‘Redneck Air Force’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760911-DSC00596-205x123.jpg.webp)](https://www.theepochtimes.com/article/meet-adam-smith-the-green-beret-behind-north-carolinas-redneck-air-force-5758552)
 * [Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://www.theepochtimes.com/us/trump-to-unveil-his-economic-selections-next-week-senior-adviser-says-5760888)
     
-    7hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
+    12hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
     
     [![Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667871-2.download-28KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-unveil-his-economic-selections-next-week-senior-adviser-says-5760888)
 * [USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://www.theepochtimes.com/us/usps-incurs-9-5-billion-loss-despite-raising-stamp-prices-5760924)
     
-    7hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://img.theepochtimes.com/assets/uploads/2022/02/25/USPS_JF_01152021-205x123.jpg.webp)](https://www.theepochtimes.com/us/usps-incurs-9-5-billion-loss-despite-raising-stamp-prices-5760924)
 * [Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://www.theepochtimes.com/us/pentagon-fails-7th-audit-in-row-aims-for-clean-audit-in-2028-post-5760909)
     
-    7hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
     [![Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://img.theepochtimes.com/assets/uploads/2024/11/id5757457-3.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/pentagon-fails-7th-audit-in-row-aims-for-clean-audit-in-2028-post-5760909)
 * [In Their Final Meeting, Xi Tells Biden China Is ‘Ready to Work’ With Trump Administration](https://www.theepochtimes.com/china/biden-xi-head-to-final-meeting-as-trumps-return-looms-over-us-china-relations-5760894)
     
-    7hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    13hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![In Their Final Meeting, Xi Tells Biden China Is ‘Ready to Work’ With Trump Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![In Their Final Meeting, Xi Tells Biden China Is ‘Ready to Work’ With Trump Administration](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5761035-Biden-meets-xi-GettyImages-2184466362-205x123.jpg.webp)](https://www.theepochtimes.com/china/biden-xi-head-to-final-meeting-as-trumps-return-looms-over-us-china-relations-5760894)
 * [Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://www.theepochtimes.com/business/stocks-sell-off-at-end-of-week-on-profit-taking-ahead-of-nvidia-earnings-report-5760881)
     
-    8hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
+    14hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
     
     [![Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760886-GettyImages-2183884068-205x123.jpg.webp)](https://www.theepochtimes.com/business/stocks-sell-off-at-end-of-week-on-profit-taking-ahead-of-nvidia-earnings-report-5760881)
-* [Judge Pauses The Onion’s Takeover of Infowars After Auction Complaints](https://www.theepochtimes.com/us/judge-pauses-the-onions-takeover-of-infowars-after-auction-complaints-5760870)
-    
-    9hr By [Rudy Blalock](https://www.theepochtimes.com/author/rudy-blalock)
-    
-    [![Judge Pauses The Onion’s Takeover of Infowars After Auction Complaints](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Judge Pauses The Onion’s Takeover of Infowars After Auction Complaints](https://img.theepochtimes.com/assets/uploads/2024/06/28/id5676949-AP24179548034986-205x123.jpg.webp)](https://www.theepochtimes.com/us/judge-pauses-the-onions-takeover-of-infowars-after-auction-complaints-5760870)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
