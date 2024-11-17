@@ -332,15 +332,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Aunt Marge’s “lift-off” effect in “Harry Potter and the Prisoner of Azkaban” was achieved using a combination of inflatable body parts, prosthetic makeup, air tubes, and wire harness.
+Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
 
 ### Potter History
 
-December 5, 2009 – The first trailer for Harry Potter and the Deathly Hallows – Part 1 is released online.
+October 6, 2011 – The opening date for Warner Bros. Studio Tour London – The Making of Harry Potter is announced for March 31, 2012.
 
 ### Potter Quote
 
-“Hello, Harry Potter. My name is Tom Riddle. How did you come by my diary?”
+“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
 
 [](#)
 
