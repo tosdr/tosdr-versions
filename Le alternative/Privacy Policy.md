@@ -4,7 +4,9 @@
 
 [Le Alternative](https://www.lealternative.net/)
 
-Menu Chiudi
+[🔎](https://www.lealternative.net/?s=)
+
+[MENU](https://www.lealternative.net/menu/)
 
 * [MENU](#)Apri menu
     * [CHI SIAMO](https://www.lealternative.net/chi-siamo/)
@@ -84,12 +86,6 @@ Menu Chiudi
 
 Privacy Policy completa
 =======================
-
-Se non hai JavaScript attivato questa funzione non ti andrà, copia e incolla manualmente l'URL di questo articolo per condividerlo o usa la funziona di condivisione del tuo browser!
-
-[Condividi](javascript:shareURL())
-
-[🩵 donazioni](https://www.lealternative.net/donazioni/)
 
 **Informativa ai sensi dell’art. 13 del Codice della Privacy**
 
@@ -177,9 +173,7 @@ Questa politica sulla privacy si applica solo alle nostre attività online ed è
 
 Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accetti i suoi termini. Se desideri ulteriori informazioni o hai domande sulla nostra politica sulla privacy non esitare a contattarci.
 
-[Condividi](javascript:shareURL())
-
-[🩵 donazioni](https://www.lealternative.net/donazioni/)
+[💙 donazioni](https://www.lealternative.net/donazioni/)
 
 * [Mastodon](https://mastodon.uno/@lealternative)
 * [Telegram](https://t.me/lealternative)
