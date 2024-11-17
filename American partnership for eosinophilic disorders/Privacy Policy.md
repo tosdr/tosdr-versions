@@ -31,7 +31,7 @@
 
 [![shop](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2034%2034'%3E%3C/svg%3E "shop")
 
-![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://salsa4.salsalabs.com/o/51119/t/17919/shop/shop.jsp?storefront_KEY=91)
+![shop](https://apfed.org/wp-content/uploads/2015/03/shop.png "shop")](https://apfed.org/store/)
 
 * [Home](https://apfed.org/)
 * [About EAD](https://apfed.org/about-ead/)
