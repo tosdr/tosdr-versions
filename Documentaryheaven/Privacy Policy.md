@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![The Thinking Atheist](/wp-content/thumbnails/6002-100x70.jpg?x53432)
+* [![Hunting Magnotta](/wp-content/thumbnails/8704-100x70.jpg?x53432)
     
-    The Thinking Atheist
+    Hunting Magnotta
     
-    "Using satire, research and some common sense, we explore common-sense questions about God.A former Christian of 30 years, I ultimately found that religion, faith and scripture lacked any true ans](https://documentaryheaven.com/the-thinking-atheist/ "The Thinking Atheist")
-* [![I Am Street Fighter](/wp-content/thumbnails/8089-100x70.jpg?x53432)
+    A few years ago hardly anybody had ever heard of a man called Luka Magnotta but in 2010 this individual began posting videos of himself killing cats in various sadistic ways, from feeding a kitten to](https://documentaryheaven.com/hunting-magnotta/ "Hunting Magnotta")
+* [![Into The Unknown](/wp-content/thumbnails/14784-100x70.jpeg?x53432)
     
-    I Am Street Fighter
+    Into The Unknown
     
-    I Am Street Fighter, a documentary previously included in the $150 Street Fighter 25th Anniversary Collector's Set, has now been released for free by Capcom. This 72-minute documentary, created by the](https://documentaryheaven.com/street-fighter/ "I Am Street Fighter")
-* [![Kendall Francois](/wp-content/thumbnails/7500-100x70.png?x53432)
+    Into the Unknown gives us some first hand insight as to the effort that went into building NASA’s James Webb Space Telescope. A telescope which is simply revolutionary, measuring in at being 100 times](https://documentaryheaven.com/into-the-unknown/ "Into The Unknown")
+* [![Hawkwind: Do Not Panic](/wp-content/thumbnails/6676-100x70.jpg?x53432)
     
-    Kendall Francois
+    Hawkwind: Do Not Panic
     
-    Kendall Francois is a serial killer from Poughkeepsie, New York, convicted of killing eight women, from 1996 to 1998. He is currently serving life in prison for his](https://documentaryheaven.com/kendall-francois/ "Kendall Francois")
-* [![Natural World: Buddha Bees and the Giant Hornet Queen](/wp-content/thumbnails/5400-100x70.jpeg?x53432)
+    The inside story of Hawkwind, one of Britain’s wildest acid rock bands. Emerging from the Ladbroke Grove underground at the end of the 60s, the band trailed radicalism and counter-culture in their wak](https://documentaryheaven.com/hawkwind-do-not-panic/ "Hawkwind: Do Not Panic")
+* [![AIDS Inc.](/wp-content/thumbnails/577-100x70.png?x53432)
     
-    Natural World: Buddha Bees and the Giant Hornet Queen
+    AIDS Inc.
     
-    The Giant Japanese Hornet is the fiercest looking insect on earth, and one of the deadliest. This film follows the remarkable life of one giant hornet queen, as she emerges from hibernation and starts](https://documentaryheaven.com/natural-world-buddha-bees-and-the-giant-hornet-queen/ "Natural World: Buddha Bees and the Giant Hornet Queen")
-* [![Malcolm in the Middle: A Stroke of Genius](/wp-content/thumbnails/14408-100x70.jpg?x53432)
+    AIDS, Inc. is a film about the multi-billion dollar AIDS industry, and how it profits from continuing fears and misconceptions about the disease. While AIDS grabs the headlines and raises billions of](https://documentaryheaven.com/aids-inc/ "AIDS Inc.")
+* [![Princes of the Yen](/wp-content/thumbnails/9514-100x70.jpg?x53432)
     
-    Malcolm in the Middle: A Stroke of Genius
+    Princes of the Yen
     
-    In this Biography special we see the cast and crew of the hit television series "Malcolm in the Middle" get together in order to discuss the show and how it came to be. Through a number of exclusive i](https://documentaryheaven.com/malcolm-middle-stroke-genius/ "Malcolm in the Middle: A Stroke of Genius")
+    Princes of Yen is a film based off of a book by Professor Richard Werner who was a researcher that visited the Bank of Japan during the 90's crash which saw the market fall by about 80% and house pric](https://documentaryheaven.com/princes-of-yen/ "Princes of the Yen")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
