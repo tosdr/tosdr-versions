@@ -8,7 +8,7 @@
 
   [![SD Bullion Free Shipping](https://sdbullion.com/media/wysiwyg/sitewide/free-shipping-over-199-300x55-min.jpg)](https://sdbullion.com/sd-bullion-shipping-policies)
 
-     [![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)   ![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)](https://sdbullion.com/modern-collectible-coins/celebrity-mint)
+       [![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)    ![Buy Mike Tyson and Jake Paul Autograph Coins](https://sdbullion.com/media/wysiwyg/strip/mike-tyson-585x75_1_.jpg)](https://sdbullion.com/modern-collectible-coins/celebrity-mint)
 
 Search  Search
 
@@ -1841,7 +1841,7 @@ Search  Search
         [Reviews](https://sdbullion.com/reviews)
         
 
- ![SD Bullion - The Lowest Price. Period.](/media/theme/mobile_logo/default/SD-Bullion-Logo-Coin-200x200_1.png)
+  ![SD Bullion - The Lowest Price. Period.](/media/theme/mobile_logo/default/SD-Bullion-Logo-Coin-200x200_1.png)
 
 x
 
