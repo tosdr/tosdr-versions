@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Ancient Greek Philosophy ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/philosophy-and-thinking/25-facts-about-ancient-greek-philosophy/)
+[![19 Facts About Christian Animation ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/19-facts-about-christian-animation/)
 
-Philosophy & Thinking
+Religion
 
-16 Nov 2024
+17 Nov 2024
 
-[25 Facts About Ancient Greek Philosophy](https://facts.net/philosophy-and-thinking/25-facts-about-ancient-greek-philosophy/)
+[19 Facts About Christian Animation](https://facts.net/history/religion/19-facts-about-christian-animation/)
 
-[![40 Facts About Lead Telluride ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/chemistry/40-facts-about-lead-telluride/)
+[![25 Facts About Chilean Primera Divisin ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/lifestyle/sports/25-facts-about-chilean-primera-division/)
 
-Chemistry
+Sports
 
-16 Nov 2024
+17 Nov 2024
 
-[40 Facts About Lead Telluride](https://facts.net/science/chemistry/40-facts-about-lead-telluride/)
+[25 Facts About Chilean Primera Divisin](https://facts.net/lifestyle/sports/25-facts-about-chilean-primera-division/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
