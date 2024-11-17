@@ -246,18 +246,6 @@ MuggleNet Archive Select Month November 2024  (12) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Sat, Nov 16
-
-Fantastic Beasts: Crimes of Grindelwald - Movie 2
-
-Recurs yearly
-
-Harry Potter and the Philosopher's/Sorcerer's Stone movie
-
-Recurs yearly
-
-2001
-
 #### Mon, Nov 18
 
 Fantastic Beasts and Where to Find Them - Movie 1
@@ -332,15 +320,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Culpeper’s Herbal, a book written in London in 1652 that categorizes herbs and their medical uses, served as inspiration for herbology.
+Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
 
 ### Potter History
 
-October 6, 2011 – The opening date for Warner Bros. Studio Tour London – The Making of Harry Potter is announced for March 31, 2012.
+July 8, 2000 – Harry Potter and the Goblet of Fire is released in the United States and United Kingdom simultaneously. It was the first Harry Potter book to be released in both countries on the same day.
 
 ### Potter Quote
 
-“You actually are joking, Perce. . . . I don’t think I’ve heard you joke since you were —”
+“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
 
 [](#)
 
