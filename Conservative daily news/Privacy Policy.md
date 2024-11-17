@@ -1,4 +1,4 @@
-Saturday, November 16 2024
+Sunday, November 17 2024
 
 Breaking News
 
@@ -6,7 +6,7 @@ Breaking News
 * [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/)
 * [Huge Swaths Of America Face Blackout Risks If Winter Is Bitter, Grid Watchdog Warns](https://www.conservativedailynews.com/2024/11/huge-swaths-of-america-face-blackout-risks-if-winter-is-bitter-grid-watchdog-warns/)
 * [RFK To The Rescue — It’s Time To Make America Healthy](https://www.conservativedailynews.com/2024/11/rfk-to-the-rescue-its-time-to-make-america-healthy/)
-* [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice |](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+* [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
 * [There’s A Way To Fix America’s Broken Budget Process](https://www.conservativedailynews.com/2024/11/theres-a-way-to-fix-americas-broken-budget-process/)
 * [President Joe Biden’s Schedule for Saturday, November 16, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-16-2024/)
 * [Trump Announces His Pick For White House Press Secretary](https://www.conservativedailynews.com/2024/11/trump-announces-his-pick-for-white-house-press-secretary/)
@@ -117,7 +117,7 @@ Orange = One-Time Donations
 
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
     
-    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice |](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
     
     November 16, 2024
     
@@ -162,7 +162,7 @@ Recent Posts
     
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
     
-    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice |](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
     
     November 16, 2024
     
@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [From Irons To Optics In USPSA Competition](https://www.thegunpage.com/from-irons-to-optics-in-uspsa-competition/10611934)
 * [Canto Arms Releases the DL-44 Hero .22 Blaster](https://www.thegunpage.com/canto-arms-releases-the-dl-44-hero-22-blaster/10611931)
 * [Take Your Training Anywhere with the Strikeman Marksman Kit](https://www.thegunpage.com/take-your-training-anywhere-with-the-strikeman-marksman-kit/10611928)
 * [Idaho Elk Hunter Survives Grizzly Encounter](https://www.thegunpage.com/idaho-elk-hunter-survives-grizzly-encounter/10611918)
@@ -189,7 +190,6 @@ Recent Posts
 * [POTD: M16A4 In Rifle and Pistol Competition](https://www.thegunpage.com/potd-m16a4-in-rifle-and-pistol-competition/10611915)
 * [TFB Podcast Roundup 155: The November 15th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-155-the-november-15th-roundup/10611916)
 * [SilencerCo SCO-15 Ambi Receiver Set: Review](https://www.thegunpage.com/silencerco-sco-15-ambi-receiver-set-review/10611910)
-* [Maxim Defense Unveils A New QD Suppressor And Flash Hider System](https://www.thegunpage.com/maxim-defense-unveils-a-new-qd-suppressor-and-flash-hider-system/10611908)
 * [Making Training Affordable: The Strikeman Laser Firearm Training System](https://www.thegunpage.com/making-training-affordable-the-strikeman-laser-firearm-training-system/10611906)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
@@ -232,6 +232,7 @@ Contact Us
 
 Recent Comments
 
+* Ted Thomas on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783266)
 * Stanley Warner on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783259)
 * Stanley Warner on [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/#comment-783258)
 * [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783250)
@@ -240,7 +241,6 @@ Recent Comments
 * Kaycee on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783245)
 * Stanley Warner on [Hey, Democrats — It’s Your Policies](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/#comment-783244)
 * Stanley Warner on [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/#comment-783243)
-* KayCee on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783242)
 
 [Close](#)
 
