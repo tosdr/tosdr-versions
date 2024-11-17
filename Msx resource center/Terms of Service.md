@@ -153,19 +153,19 @@ Latest reactions
 
 Latest forum posts
 
+* [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
+* [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o "RTC batteries actually working? :O")
+* [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
+* [Hidden MSX hardware](https://www.msx.org/forum/msx-talk/hardware/hidden-msx-hardware?page=13 "Hidden MSX hardware")
+* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [I need a guide or manual for Sorcerian...](https://www.msx.org/forum/msx-talk/software/i-need-a-guide-or-manual-for-sorcerian "I need a guide or manual for Sorcerian...")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=27 "MSXgl – A new C game library for MSX")
-* [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
 * [Pretty weird item form Telemática Argentina TVD-256](https://www.msx.org/forum/msx-talk/hardware/pretty-weird-item-form-telematica-argentina-tvd-256 "Pretty weird item form Telemática Argentina TVD-256")
 * [msx .music. dsk](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-music-dsk "msx .music. dsk")
 * [Attack of the Petscii Robots - V9990](https://www.msx.org/forum/msx-talk/development/attack-of-the-petscii-robots-v9990?page=5 "Attack of the Petscii Robots - V9990")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
-* [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
 * [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k?page=1 "9958 FPGA drop-in clone is here: TN-VDP 20K.")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function?page=1 "VAR = CALL FUNCTION ?")
-* [Disk menu's](https://www.msx.org/forum/msx-talk/software-and-gaming/disk-menus?page=5 "Disk menu's")
-* [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
-* [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
