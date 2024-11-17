@@ -2,7 +2,7 @@
 
 top of page
 
-[![LOVER copy.png](https://static.wixstatic.com/media/e45d8c_286038b6414540a1aea5372048619b94~mv2.png/v1/fill/w_134,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LOVER%20copy.png)](https://www.lover.io/)
+[![LOVER copy.png](https://static.wixstatic.com/media/e45d8c_286038b6414540a1aea5372048619b94~mv2.png/v1/fill/w_134,h_27,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/LOVER%20copy.png)](https://www.lover.io/)
 
 [Reviews](https://www.lover.io/reviews)
 
@@ -14,53 +14,53 @@ Learn
 
 [Download](https://loverapp.onelink.me/ItN8/916f7a9b)
 
-[![Mask Group (1).png](https://static.wixstatic.com/media/f3a6b5_40f67f1c1c774c54862b1c35464f6812~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Mask%20Group%20(1).png)](https://www.lover.io/dr-blair)
+[![Mask Group (1).png](https://static.wixstatic.com/media/f3a6b5_40f67f1c1c774c54862b1c35464f6812~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Mask%20Group%20(1).png)](https://www.lover.io/dr-blair)
 
 Dr. Britney Blair
 
 Clinical Psychologist
 
-[![valesia ho.jpeg](https://static.wixstatic.com/media/f3a6b5_6022de68150e48e19c030878b3751493~mv2.jpeg/v1/fill/w_108,h_108,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/valesia%20ho.jpeg)](https://www.lover.io/dr-ho)
+[![valesia ho.jpeg](https://static.wixstatic.com/media/f3a6b5_6022de68150e48e19c030878b3751493~mv2.jpeg/v1/fill/w_108,h_108,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/valesia%20ho.jpeg)](https://www.lover.io/dr-ho)
 
 [Dr. Valesia Ho](https://www.lover.io/dr-ho)
 
 Clinical Psychologist
 
-[![Mask Group (4).png](https://static.wixstatic.com/media/f3a6b5_01772513bd324ce28aacc50e94d51478~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Mask%20Group%20(4).png)](https://www.lover.io/dr-canning)
+[![Mask Group (4).png](https://static.wixstatic.com/media/f3a6b5_01772513bd324ce28aacc50e94d51478~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Mask%20Group%20(4).png)](https://www.lover.io/dr-canning)
 
 [Dr. Ty Canning](https://www.lover.io/dr-canning)
 
 Clinical Psychologist
 
-[![Mask Group (3).png](https://static.wixstatic.com/media/f3a6b5_ab46e6662e6048869f772c7d225a9ff8~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Mask%20Group%20(3).png)](https://www.lover.io/dr-spurgeon)
+[![Mask Group (3).png](https://static.wixstatic.com/media/f3a6b5_ab46e6662e6048869f772c7d225a9ff8~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Mask%20Group%20(3).png)](https://www.lover.io/dr-spurgeon)
 
 [Dr. Ellen Spurgeon](https://www.lover.io/dr-spurgeon)
 
 Clinical Psychologist
 
-[![Mask Group (2).png](https://static.wixstatic.com/media/f3a6b5_5bc21a85715541c7ace3c3641c8aa3e1~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Mask%20Group%20(2).png)](https://www.lover.io/dr-flynn)
+[![Mask Group (2).png](https://static.wixstatic.com/media/f3a6b5_5bc21a85715541c7ace3c3641c8aa3e1~mv2.png/v1/fill/w_108,h_108,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Mask%20Group%20(2).png)](https://www.lover.io/dr-flynn)
 
 [Dr. Margaret Flynn](https://www.lover.io/dr-flynn)
 
 Clinical Psychologist
 
-[![GHME 1_edited.png](https://static.wixstatic.com/media/e6088c_fd43b143f9684972a875da3b38df2e72~mv2.png/v1/crop/x_420,y_84,w_2161,h_2166/fill/w_103,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/GHME%201_edited.png)](https://www.lover.io/improving-erections)
+[![GHME 1_edited.png](https://static.wixstatic.com/media/e6088c_fd43b143f9684972a875da3b38df2e72~mv2.png/v1/crop/x_420,y_84,w_2161,h_2166/fill/w_103,h_103,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/GHME%201_edited.png)](https://www.lover.io/improving-erections)
 
 [Improving Erections](https://www.lover.io/improving-erections)
 
-[![f3a6b5_6d6c18d6ab414789ae3d4d3ab320015b~mv2.jpeg](https://static.wixstatic.com/media/e6088c_ba97b5ca0cd4423fa29ebb20a90b9f34~mv2.jpeg/v1/crop/x_0,y_952,w_3808,h_3808/fill/w_105,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f3a6b5_6d6c18d6ab414789ae3d4d3ab320015b~mv2.jpeg)](https://www.lover.io/easier-orgasms)
+[![f3a6b5_6d6c18d6ab414789ae3d4d3ab320015b~mv2.jpeg](https://static.wixstatic.com/media/e6088c_ba97b5ca0cd4423fa29ebb20a90b9f34~mv2.jpeg/v1/crop/x_0,y_952,w_3808,h_3808/fill/w_105,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f3a6b5_6d6c18d6ab414789ae3d4d3ab320015b~mv2.jpeg)](https://www.lover.io/easier-orgasms)
 
 [Easier Orgasms](https://www.lover.io/easier-orgasms)
 
-[![f3a6b5_e6e20010399b4b55a9238fe49cf80649~mv2.jpg](https://static.wixstatic.com/media/e6088c_4c9ead58fada493d9fc92c42dcba854d~mv2.jpg/v1/crop/x_0,y_165,w_750,h_750/fill/w_103,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f3a6b5_e6e20010399b4b55a9238fe49cf80649~mv2.jpg)](https://www.lover.io/ejaculation-issues)
+[![f3a6b5_e6e20010399b4b55a9238fe49cf80649~mv2.jpg](https://static.wixstatic.com/media/e6088c_4c9ead58fada493d9fc92c42dcba854d~mv2.jpg/v1/crop/x_0,y_165,w_750,h_750/fill/w_103,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f3a6b5_e6e20010399b4b55a9238fe49cf80649~mv2.jpg)](https://www.lover.io/ejaculation-issues)
 
 [Ejaculation Issues](https://www.lover.io/ejaculation-issues)
 
-[![f3a6b5_2e7206d1b7364222836eefcef4e947b2~mv2.jpeg](https://static.wixstatic.com/media/e6088c_a0ba48e4e41d44c2a0d4fb9f0e4d7a53~mv2.jpeg/v1/crop/x_0,y_120,w_4103,h_4116/fill/w_105,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/f3a6b5_2e7206d1b7364222836eefcef4e947b2~mv2.jpeg)](https://www.lover.io/low-sex-drive)
+[![f3a6b5_2e7206d1b7364222836eefcef4e947b2~mv2.jpeg](https://static.wixstatic.com/media/e6088c_a0ba48e4e41d44c2a0d4fb9f0e4d7a53~mv2.jpeg/v1/crop/x_0,y_120,w_4103,h_4116/fill/w_105,h_103,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/f3a6b5_2e7206d1b7364222836eefcef4e947b2~mv2.jpeg)](https://www.lover.io/low-sex-drive)
 
 [Low Desire and Libido](https://www.lover.io/low-sex-drive)
 
-[![Lover_logo_black.png](https://static.wixstatic.com/media/f3a6b5_ee685c6052ed467bb116745aa8008cf3~mv2.png/v1/fill/w_134,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Lover_logo_black.png)](https://www.lover.io/)
+[![Lover_logo_black.png](https://static.wixstatic.com/media/f3a6b5_ee685c6052ed467bb116745aa8008cf3~mv2.png/v1/fill/w_134,h_28,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Lover_logo_black.png)](https://www.lover.io/)
 
 [Reviews](https://www.lover.io/)
 
@@ -633,8 +633,8 @@ Contact Us
 
 [Privacy Poli](https://www.lover.io/privacy-policy)[cy](https://www.lover.io/privacy-policy)  | [Terms & Conditions](https://www.lover.io/terms-and-conditions)
 
-[![appstore.png](https://static.wixstatic.com/media/ddfc31_be573787160c495eb5d87e2020e032e1~mv2.png/v1/fill/w_144,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/appstore.png)](https://loverapp.onelink.me/ItN8/916f7a9b)
+[![appstore.png](https://static.wixstatic.com/media/ddfc31_be573787160c495eb5d87e2020e032e1~mv2.png/v1/fill/w_144,h_48,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/appstore.png)](https://loverapp.onelink.me/ItN8/916f7a9b)
 
-[![google-play-badge.png](https://static.wixstatic.com/media/f3a6b5_edd755684fb2424db91b66ea5790f66f~mv2.png/v1/fill/w_183,h_71,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/google-play-badge.png)](https://play.google.com/store/apps/details?id=io.lover.lover&hl=en&gl=US)
+[![google-play-badge.png](https://static.wixstatic.com/media/f3a6b5_edd755684fb2424db91b66ea5790f66f~mv2.png/v1/fill/w_183,h_71,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/google-play-badge.png)](https://play.google.com/store/apps/details?id=io.lover.lover&hl=en&gl=US)
 
 bottom of page
