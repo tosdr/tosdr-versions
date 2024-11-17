@@ -4,7 +4,9 @@ _menu_
 
 [![](https://static2.penana.com/img/logo_new.svg)
 
-**Penana**](https://www.penana.com/home.php)
+**Penana**
+
+US](https://www.penana.com/home.php)
 
 _search_
 
@@ -322,10 +324,10 @@ Later
 
 ##### Interface Language:
 
- English 中文
+英文 中文
 
 ##### Story Language:
 
- English Chinese (中文)  Indonesian (Bahasa Indonesia)  Malay (Bahasa Melayu)  Tagalog  Vietnamese (tiếng Việt)  German (Deutsch)  Spanish (Español)  French (Français)  Italian (Italiano) Other 
+ English Chinese (中文)  Indonesian (Bahasa Indonesia)  Malay (Bahasa Melayu)  Tagalog  Vietnamese (tiếng Việt)  German (Deutsch)  Spanish (Español)  French (Français)  Italian (Italiano)  Other
 
 Update
