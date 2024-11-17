@@ -34,11 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [2023-24 Israel-Iran proxy conflict (1,892)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,892 posts)")
-* [Ukrainian War VII: Everything has a p… (9,479)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (9,479 posts)")
-* [Would you hang AN Flag outside your w… (703)](https://forum.nationstates.net/viewtopic.php?t=555216&f=25&view=unread#unread ""Would you hang AN Flag outside your window?" (703 posts)")
-* [Official Apology to the NationStates… (15)](https://forum.nationstates.net/viewtopic.php?t=558443&f=12&view=unread#unread ""Official Apology to the NationStates Community" (15 posts)")
-* [Your favorite part of AN’s forum sig XI (4,809)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (4,809 posts)")
+* [The Most Useful Talent to Have (18)](https://forum.nationstates.net/viewtopic.php?t=558450&f=20&view=unread#unread ""The Most Useful Talent to Have" (18 posts)")
+* [Yes, the U.S. left does need its own… (87)](https://forum.nationstates.net/viewtopic.php?t=558206&f=20&view=unread#unread ""Yes, the U.S. left does need its own party" (87 posts)")
+* [Tiami's Endless Tacos (183)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (183 posts)")
+* [Hazahm-Arzelent Military Drills (IC|C… (19)](https://forum.nationstates.net/viewtopic.php?t=558231&f=5&view=unread#unread ""Hazahm-Arzelent Military Drills (IC|Closed)" (19 posts)")
 
 Advertisement
 
