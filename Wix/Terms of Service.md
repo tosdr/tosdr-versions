@@ -213,7 +213,7 @@ By visiting our website or using our application and/or services, you are enteri
 
 bottom of page
 
-                                               
+                                        
 
 [](https://www.wix.com/ "Wix.com")
 
