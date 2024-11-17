@@ -182,6 +182,13 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[The American Dental Hygienists’ Association (ADH ![The American Dental Hygienists’ Association (ADHA) has introduced interim policies on scaling procedures and airway health screenings, pushing for advanced education and expanded roles for dental hygienists. These policies, set for official adoption in 2025, are sparking conversations about scope of practice and training requirements in the profession.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCcATKstQVO/) 
+
 [Crown lengthening is crucial for addressing issues ![Crown lengthening is crucial for addressing issues including caries, fractures, and altered passive eruption, ultimately enhancing both function and esthetics in restorative dentistry. By carefully planning and modeling restorative contours, clinicians can ensure ideal gingival relationships and tooth display for each patient, leading to beautiful, effective outcomes. Link in bio.⁠
 ⁠
 ⁠
@@ -216,13 +223,6 @@ This Privacy Statement was last revised on and is effective as of September 1, 2
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCRormqsb-B/) 
-
-[University of Nebraska dental hygiene students gai ![University of Nebraska dental hygiene students gain hands-on experience treating patients with complex needs in an operating room setting with the hopes of improving the next generation of clinicians’ ability to effectively care for patients with special healthcare needs. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCPD5a1M3LB/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
