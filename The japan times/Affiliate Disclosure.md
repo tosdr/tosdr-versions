@@ -147,6 +147,10 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
 Editors' Picks
 --------------
 
@@ -178,6 +182,12 @@ By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana
 
   [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
 Podcast
 -------
 
@@ -197,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_magazine_39_06_01-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol39/39-06?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=3 "mission sustainability vol.12 : Kose Corp.Kose takes pride in creating beauty in the world")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -239,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Monk from Japan works to lead people in India to Buddhism](https://www.japantimes.co.jp/news/2024/11/17/japan/monk-india-buddhism/ "Monk from Japan works to lead people in India to Buddhism")
-
-1 mins ago
-
-[Japanese organ builder 'honored' to restore voice of Notre Dame](https://www.japantimes.co.jp/news/2024/11/17/japan/notre-dame-organ-builder/ "Japanese organ builder 'honored' to restore voice of Notre Dame")
-
-1 mins ago
-
-[Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
 49 mins ago
 
-[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
-1 hours ago
+2 hours ago
 
-[Ishiba and Yoon unite on 'strong concerns' over North Korean troops in Russia](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/yoon-ishiba-north-korea/ "Ishiba and Yoon unite on 'strong concerns' over North Korean troops in Russia")
+[Elite GSDF troops to regularly deploy for drills in Australia](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/japan-us-australia-defense/ "Elite GSDF troops to regularly deploy for drills in Australia")
 
-1 hours ago
+2 hours ago
+
+[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
+
+3 hours ago
+
+[Ishiba and Xi hold first in-person talks amid Japan-China tensions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
