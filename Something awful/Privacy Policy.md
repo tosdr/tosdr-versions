@@ -205,10 +205,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Star Wars D20 Original Adventure: The Empire's Bogus Merch (Part 2 of 2)](https://www.somethingawful.com/dungeons-and-dragons/star-wars-yadda/1/)
-* [Star Wars D20 Original Adventure: The Empire's Bogus Merch (Part 1 of 2)](https://www.somethingawful.com/dungeons-and-dragons/star-wars-hutt/1/)
-* [Rifts: Core Book](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-rifts/1/)
-* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
+* [Retro SWAT 2](https://www.somethingawful.com/fashion-swat/retro-swat-2/1/)
+* [HOTQA and Dmt123](https://www.somethingawful.com/weekend-web/hotqa-and-dmt123/1/)
+* [Halloween SWAT](https://www.somethingawful.com/fashion-swat/halloween-swat/1/)
+* [Comic Book Chaos II (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/comic-book-chaos-4/1/)
+* [A.P. Brown is the Guarantor of Absolute Satisfaction](https://www.somethingawful.com/news/brown-animals-married/1/)
 
 ### Popular Threads
 
@@ -217,11 +218,11 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### Random Articles
 
-* [I'm a VERY angry mouse](https://www.somethingawful.com/comedy-goldmine/very-angry-mouse/1/)
-* [The Advanced Beginner's Guide to Farming](https://www.somethingawful.com/news/advanced-beginners-guide/)
-* [You Make Me Sick](https://www.somethingawful.com/news/you-make-me/)
-* [Offensive Cereals](https://www.somethingawful.com/photoshop-phriday/offensive-cereals/)
-* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
+* [Danny DeVito is on the move!](https://www.somethingawful.com/photoshop-phriday/danny-devito-crawl/1/)
+* [John Madden's A Brief History of Time](https://www.somethingawful.com/news/john-maddens-brief/)
+* [Lawless; The Possession; V/H/S; Cosmopolis](https://www.somethingawful.com/current-movie-reviews/lawless-possession/1/)
+* [Are You Fucking Sirius?](https://www.somethingawful.com/news/you-fucking-sirius/)
+* [Darknest and I Hate My Miserable Life](https://www.somethingawful.com/weekend-web/darknest-miserable-life/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
