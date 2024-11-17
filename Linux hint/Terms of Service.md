@@ -4,8 +4,6 @@
 
 * [Home](https://linuxhint.com/)
 * [YouTube](https://www.youtube.com/c/linuxhint/videos)
-* [Twitter](https://twitter.com/linuxhintdotcom)
-* [Subscribe](https://linuxhint.cc/)
 * [](javascript:void(0))
     * 
 
