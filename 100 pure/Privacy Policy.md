@@ -1020,22 +1020,6 @@ Default Title - $38
 
 ADD TO TOTE
 
-[![Featured](https://www.100percentpure.com/cdn/shop/files/2023-earth-day-award_5f820e94-8db7-4f53-92e2-88fc33703b6d.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
-
-[![lavender-niacinamide--pore-minimizer-tonique](https://www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_239x254.png?v=1696450154)](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
-
-![ FG1FLNPMT_Primary](//www.100percentpure.com/cdn/shop/files/FG1FLNPMT_PRIMARY_220x.png?v=1696450154)
-
-### [Lavender Niacinamide Pore Minimizer Tonique](https://www.100percentpure.com/products/lavender-niacinamide-pore-minimizer-tonique)
-
-78 reviews (78)
-
-$19.00
-
-Default Title - $19
-
-ADD TO TOTE
-
 [![Featured](https://www.100percentpure.com/cdn/shop/files/2019-cert-clean-beauty-awards_f8ee0482-640f-4d06-9684-b33f8c6cf113.png?crop=center&height=85&v=1697822127&width=85)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
 [![long-last-liquid-eye-liner](https://www.100percentpure.com/cdn/shop/files/1CELLBT_Long_Last_Liquid_Eye_Liner_Black_Tea_Primary_239x254.jpg?v=1695867746)](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
@@ -1044,7 +1028,7 @@ ADD TO TOTE
 
 ### [Long Last Liquid Eye Liner](https://www.100percentpure.com/products/long-last-liquid-eye-liner)
 
-1572 reviews (1572)
+1574 reviews (1574)
 
 $30.00 $30.00
 
