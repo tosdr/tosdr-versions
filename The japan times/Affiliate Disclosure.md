@@ -207,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,25 +249,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Hyogo governor re-elected following ouster by assembly over harassment](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-re-elected/ "Hyogo governor re-elected following ouster by assembly over harassment")
+
+2 hours ago
+
 [Ukraine supercharges mine-clearing push to revive war-torn farms](https://www.japantimes.co.jp/news/2024/11/17/world/ukraine-supercharges-mine-clearing/ "Ukraine supercharges mine-clearing push to revive war-torn farms")
 
-4 hours ago
+10 hours ago
 
 [Russia pounds Ukraine's power grid in 'massive' air strike](https://www.japantimes.co.jp/news/2024/11/17/world/ukraines-power-grid/ "Russia pounds Ukraine's power grid in 'massive' air strike")
 
-5 hours ago
+11 hours ago
 
 [Super Typhoon Man-yi batters Philippines' most populous island](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/man-yi-slams-philippines-most-populous-island/ "Super Typhoon Man-yi batters Philippines' most populous island")
 
-5 hours ago
+11 hours ago
 
 [Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
-
-6 hours ago
-
-[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
-
-8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
