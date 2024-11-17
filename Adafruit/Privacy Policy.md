@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ In considering any new subject, there is frequently a tendency, first, to overrate what we find to be already interesting or remarkable; and, secondly, by a sort of natural reaction, to undervalue the true state of the case, when we do discover that our notions have surpassed those that were really tenable”
+“ Life's most persistent and urgent question is, What are you doing for others?”
 
-[Ada Lovelace](http://en.wikipedia.org/wiki/Ada_Lovelace)
+[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.)
 
 [](https://www.adafruit.com/about)
 
