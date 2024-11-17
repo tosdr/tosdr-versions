@@ -89,9 +89,9 @@ Most Read
     
 2. 2. [Silo S2 expands its dystopian world](https://arstechnica.com/culture/2024/11/silo-s2-expands-its-dystopian-world/)
     
-3. 3. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
+3. 3. [These are the lasting things that Half-Life 2 gave us, besides headcrabs and crowbars](https://arstechnica.com/gaming/2024/11/these-are-the-lasting-things-that-half-life-2-gave-us-besides-headcrabs-and-crowbars/)
     
-4. 4. [These are the lasting things that Half-Life 2 gave us, besides headcrabs and crowbars](https://arstechnica.com/gaming/2024/11/these-are-the-lasting-things-that-half-life-2-gave-us-besides-headcrabs-and-crowbars/)
+4. 4. [FTC to launch investigation into Microsoft’s cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
     
 5. 5. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
     
