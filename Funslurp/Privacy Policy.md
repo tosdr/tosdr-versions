@@ -1,249 +1,249 @@
 #### Shop
 
-* [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-    [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+    [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
     
-    * [For Men](https://www.funslurp.com/gag-gifts-for-men?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [For Women](https://www.funslurp.com/gag-gifts-for-women?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Political](https://www.funslurp.com/political-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Prank Products](https://www.funslurp.com/funny-pranks?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [For Golfers](https://www.funslurp.com/funny-golf-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Office](https://www.funslurp.com/fun-office-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Over The Hill](https://www.funslurp.com/over-hill-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Retirement](https://www.funslurp.com/gag-gifts-retirement?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Bachelorette](https://www.funslurp.com/bachelorette?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [For Men](https://www.funslurp.com/gag-gifts-for-men?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [For Women](https://www.funslurp.com/gag-gifts-for-women?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Political](https://www.funslurp.com/political-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Prank Products](https://www.funslurp.com/funny-pranks?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [For Golfers](https://www.funslurp.com/funny-golf-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Office](https://www.funslurp.com/fun-office-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Over The Hill](https://www.funslurp.com/over-hill-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Retirement](https://www.funslurp.com/gag-gifts-retirement?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Bachelorette](https://www.funslurp.com/bachelorette?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-* [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-    [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+    [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
     
-    * [Unique for Her](https://www.funslurp.com/unique-gifts-for-her?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Cool Gifts for Him](https://www.funslurp.com/cool-gifts-for-him?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Kitchen Fun](https://www.funslurp.com/fun-kitchen-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Fun BBQ Products](https://www.funslurp.com/unique-bbq-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Bacon Lovers Gifts](https://www.funslurp.com/bacon-lovers-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [For Your Kids](https://www.funslurp.com/unique-gifts-for-kids?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Unique Band Aids](https://www.funslurp.com/unique-band-aids?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Fun Ice Trays](https://www.funslurp.com/unique-ice-trays?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Unique Pickle Items](https://www.funslurp.com/funny-pickle-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Cupcake Products](https://www.funslurp.com/cupcake-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Aprons](https://www.funslurp.com/aprons?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [For Your Keys](https://www.funslurp.com/key-caps-keychains?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Unique for Her](https://www.funslurp.com/unique-gifts-for-her?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Cool Gifts for Him](https://www.funslurp.com/cool-gifts-for-him?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Kitchen Fun](https://www.funslurp.com/fun-kitchen-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Fun BBQ Products](https://www.funslurp.com/unique-bbq-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Bacon Lovers Gifts](https://www.funslurp.com/bacon-lovers-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [For Your Kids](https://www.funslurp.com/unique-gifts-for-kids?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Unique Band Aids](https://www.funslurp.com/unique-band-aids?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Fun Ice Trays](https://www.funslurp.com/unique-ice-trays?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Unique Pickle Items](https://www.funslurp.com/funny-pickle-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Cupcake Products](https://www.funslurp.com/cupcake-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Aprons](https://www.funslurp.com/aprons?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [For Your Keys](https://www.funslurp.com/key-caps-keychains?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-* [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-    [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+    [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
     
-    * [Wine](https://www.funslurp.com/wine?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Beer](https://www.funslurp.com/beer-lovers-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Bar / Cocktails](https://www.funslurp.com/bar-cocktails?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Wine](https://www.funslurp.com/wine?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Beer](https://www.funslurp.com/beer-lovers-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Bar / Cocktails](https://www.funslurp.com/bar-cocktails?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-* [Fun Socks](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [Fun Socks](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5)
     
-    [Fun Socks](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+    [Fun Socks](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
     
-    * [Socks for Women](https://www.funslurp.com/socks-for-women?zenid=5kpnrfbnfbua90sos8fva621h4)
-    * [Fun Socks for Men](https://www.funslurp.com/fun-socks-for-men?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Socks for Women](https://www.funslurp.com/socks-for-women?zenid=rs0msb9rm7b693s0e25195jhf5)
+    * [Fun Socks for Men](https://www.funslurp.com/fun-socks-for-men?zenid=rs0msb9rm7b693s0e25195jhf5)
     
 
-* [New](https://www.funslurp.com/new-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Sale](https://www.funslurp.com/weekly-specials?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [All](https://www.funslurp.com/index.php?main_page=products_all&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [About](https://www.funslurp.com/index.php?main_page=about_funslurp&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Contact](https://www.funslurp.com/index.php?main_page=contact_us&zenid=5kpnrfbnfbua90sos8fva621h4)
+* [New](https://www.funslurp.com/new-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Sale](https://www.funslurp.com/weekly-specials?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [All](https://www.funslurp.com/index.php?main_page=products_all&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [About](https://www.funslurp.com/index.php?main_page=about_funslurp&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Contact](https://www.funslurp.com/index.php?main_page=contact_us&zenid=rs0msb9rm7b693s0e25195jhf5)
 
 #### More
 
-* [1-800-261-4438](https://www.funslurp.com/contact-us?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [My wishlist](https://www.funslurp.com/index.php?main_page=wishlist&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [My account](https://www.funslurp.com/my-account?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [1-800-261-4438](https://www.funslurp.com/contact-us?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [My wishlist](https://www.funslurp.com/index.php?main_page=wishlist&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [My account](https://www.funslurp.com/my-account?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[](https://www.funslurp.com/advanced-search?zenid=5kpnrfbnfbua90sos8fva621h4)[](https://www.funslurp.com/shopping-cart?zenid=5kpnrfbnfbua90sos8fva621h4)[](https://www.funslurp.com/site-map?zenid=5kpnrfbnfbua90sos8fva621h4)
+[](https://www.funslurp.com/advanced-search?zenid=rs0msb9rm7b693s0e25195jhf5)[](https://www.funslurp.com/shopping-cart?zenid=rs0msb9rm7b693s0e25195jhf5)[](https://www.funslurp.com/site-map?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 [![Tableau](includes/templates/funslurp/images/logo.png " Tableau ")](https://www.funslurp.com/)  
 
 $4.99 shipping on any size order
 
 * [Shop](#)
-    * [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-        [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+        [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
         
-        * [For Men](https://www.funslurp.com/gag-gifts-for-men?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [For Women](https://www.funslurp.com/gag-gifts-for-women?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Political](https://www.funslurp.com/political-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Prank Products](https://www.funslurp.com/funny-pranks?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [For Golfers](https://www.funslurp.com/funny-golf-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Office](https://www.funslurp.com/fun-office-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Over The Hill](https://www.funslurp.com/over-hill-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Retirement](https://www.funslurp.com/gag-gifts-retirement?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Bachelorette](https://www.funslurp.com/bachelorette?zenid=5kpnrfbnfbua90sos8fva621h4)
+        * [For Men](https://www.funslurp.com/gag-gifts-for-men?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [For Women](https://www.funslurp.com/gag-gifts-for-women?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Political](https://www.funslurp.com/political-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Prank Products](https://www.funslurp.com/funny-pranks?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [For Golfers](https://www.funslurp.com/funny-golf-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Office](https://www.funslurp.com/fun-office-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Over The Hill](https://www.funslurp.com/over-hill-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Retirement](https://www.funslurp.com/gag-gifts-retirement?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Bachelorette](https://www.funslurp.com/bachelorette?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-    * [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-        [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+        [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
         
-        * [Unique for Her](https://www.funslurp.com/unique-gifts-for-her?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Cool Gifts for Him](https://www.funslurp.com/cool-gifts-for-him?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Kitchen Fun](https://www.funslurp.com/fun-kitchen-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Fun BBQ Products](https://www.funslurp.com/unique-bbq-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Bacon Lovers Gifts](https://www.funslurp.com/bacon-lovers-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [For Your Kids](https://www.funslurp.com/unique-gifts-for-kids?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Unique Band Aids](https://www.funslurp.com/unique-band-aids?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Fun Ice Trays](https://www.funslurp.com/unique-ice-trays?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Unique Pickle Items](https://www.funslurp.com/funny-pickle-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Cupcake Products](https://www.funslurp.com/cupcake-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Aprons](https://www.funslurp.com/aprons?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [For Your Keys](https://www.funslurp.com/key-caps-keychains?zenid=5kpnrfbnfbua90sos8fva621h4)
+        * [Unique for Her](https://www.funslurp.com/unique-gifts-for-her?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Cool Gifts for Him](https://www.funslurp.com/cool-gifts-for-him?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Kitchen Fun](https://www.funslurp.com/fun-kitchen-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Fun BBQ Products](https://www.funslurp.com/unique-bbq-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Bacon Lovers Gifts](https://www.funslurp.com/bacon-lovers-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [For Your Kids](https://www.funslurp.com/unique-gifts-for-kids?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Unique Band Aids](https://www.funslurp.com/unique-band-aids?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Fun Ice Trays](https://www.funslurp.com/unique-ice-trays?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Unique Pickle Items](https://www.funslurp.com/funny-pickle-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Cupcake Products](https://www.funslurp.com/cupcake-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Aprons](https://www.funslurp.com/aprons?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [For Your Keys](https://www.funslurp.com/key-caps-keychains?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-    * [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-        [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+        [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
         
-        * [Wine](https://www.funslurp.com/wine?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Beer](https://www.funslurp.com/beer-lovers-gifts?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Bar / Cocktails](https://www.funslurp.com/bar-cocktails?zenid=5kpnrfbnfbua90sos8fva621h4)
+        * [Wine](https://www.funslurp.com/wine?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Beer](https://www.funslurp.com/beer-lovers-gifts?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Bar / Cocktails](https://www.funslurp.com/bar-cocktails?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-    * [Fun Socks](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4)
+    * [Fun Socks](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-        [Fun Socks](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4) [See all](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4) [Back](#)
+        [Fun Socks](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5) [See all](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5) [Back](#)
         
-        * [Socks for Women](https://www.funslurp.com/socks-for-women?zenid=5kpnrfbnfbua90sos8fva621h4)
-        * [Fun Socks for Men](https://www.funslurp.com/fun-socks-for-men?zenid=5kpnrfbnfbua90sos8fva621h4)
+        * [Socks for Women](https://www.funslurp.com/socks-for-women?zenid=rs0msb9rm7b693s0e25195jhf5)
+        * [Fun Socks for Men](https://www.funslurp.com/fun-socks-for-men?zenid=rs0msb9rm7b693s0e25195jhf5)
         
-* [New](https://www.funslurp.com/new-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Sale](https://www.funslurp.com/weekly-specials?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [All](https://www.funslurp.com/index.php?main_page=products_all&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [About](https://www.funslurp.com/index.php?main_page=about_funslurp&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Contact](https://www.funslurp.com/index.php?main_page=contact_us&zenid=5kpnrfbnfbua90sos8fva621h4)
+* [New](https://www.funslurp.com/new-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Sale](https://www.funslurp.com/weekly-specials?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [All](https://www.funslurp.com/index.php?main_page=products_all&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [About](https://www.funslurp.com/index.php?main_page=about_funslurp&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Contact](https://www.funslurp.com/index.php?main_page=contact_us&zenid=rs0msb9rm7b693s0e25195jhf5)
 
-* [1-800-261-4438](https://www.funslurp.com/contact-us?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [My wishlist](https://www.funslurp.com/index.php?main_page=wishlist&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [My account](https://www.funslurp.com/my-account?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [1-800-261-4438](https://www.funslurp.com/contact-us?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [My wishlist](https://www.funslurp.com/index.php?main_page=wishlist&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [My account](https://www.funslurp.com/my-account?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[0](https://www.funslurp.com/shopping-cart?zenid=5kpnrfbnfbua90sos8fva621h4)
+[0](https://www.funslurp.com/shopping-cart?zenid=rs0msb9rm7b693s0e25195jhf5)
 
  Search
 
 ### Category
 
-* [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Gag Gifts")
-    * [For Men](https://www.funslurp.com/gag-gifts-for-men?zenid=5kpnrfbnfbua90sos8fva621h4 "For Men")
-    * [For Women](https://www.funslurp.com/gag-gifts-for-women?zenid=5kpnrfbnfbua90sos8fva621h4 "For Women")
-    * [Political](https://www.funslurp.com/political-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Political")
-    * [Prank Products](https://www.funslurp.com/funny-pranks?zenid=5kpnrfbnfbua90sos8fva621h4 "Prank Products")
-    * [For Golfers](https://www.funslurp.com/funny-golf-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "For Golfers")
-    * [Office](https://www.funslurp.com/fun-office-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Office")
-    * [Over The Hill](https://www.funslurp.com/over-hill-gag-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Over The Hill")
-    * [Retirement](https://www.funslurp.com/gag-gifts-retirement?zenid=5kpnrfbnfbua90sos8fva621h4 "Retirement")
-    * [Bachelorette](https://www.funslurp.com/bachelorette?zenid=5kpnrfbnfbua90sos8fva621h4 "Bachelorette")
-* [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Unique Gifts / Products")
-    * [Unique for Her](https://www.funslurp.com/unique-gifts-for-her?zenid=5kpnrfbnfbua90sos8fva621h4 "Unique for Her")
-    * [Cool Gifts for Him](https://www.funslurp.com/cool-gifts-for-him?zenid=5kpnrfbnfbua90sos8fva621h4 "Cool Gifts for Him")
-    * [Kitchen Fun](https://www.funslurp.com/fun-kitchen-products?zenid=5kpnrfbnfbua90sos8fva621h4 "Kitchen Fun")
-    * [Fun BBQ Products](https://www.funslurp.com/unique-bbq-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Fun BBQ Products")
-    * [Bacon Lovers Gifts](https://www.funslurp.com/bacon-lovers-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Bacon Lovers Gifts")
-    * [For Your Kids](https://www.funslurp.com/unique-gifts-for-kids?zenid=5kpnrfbnfbua90sos8fva621h4 "For Your Kids")
-    * [Unique Band Aids](https://www.funslurp.com/unique-band-aids?zenid=5kpnrfbnfbua90sos8fva621h4 "Unique Band Aids")
-    * [Fun Ice Trays](https://www.funslurp.com/unique-ice-trays?zenid=5kpnrfbnfbua90sos8fva621h4 "Fun Ice Trays")
-    * [Unique Pickle Items](https://www.funslurp.com/funny-pickle-products?zenid=5kpnrfbnfbua90sos8fva621h4 "Unique Pickle Items")
-    * [Cupcake Products](https://www.funslurp.com/cupcake-products?zenid=5kpnrfbnfbua90sos8fva621h4 "Cupcake Products")
-    * [Aprons](https://www.funslurp.com/aprons?zenid=5kpnrfbnfbua90sos8fva621h4 "Aprons")
-    * [For Your Keys](https://www.funslurp.com/key-caps-keychains?zenid=5kpnrfbnfbua90sos8fva621h4 "For Your Keys")
-* [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=5kpnrfbnfbua90sos8fva621h4 "Wine / Beer / Bar")
-    * [Wine](https://www.funslurp.com/wine?zenid=5kpnrfbnfbua90sos8fva621h4 "Wine")
-    * [Beer](https://www.funslurp.com/beer-lovers-gifts?zenid=5kpnrfbnfbua90sos8fva621h4 "Beer")
-    * [Bar / Cocktails](https://www.funslurp.com/bar-cocktails?zenid=5kpnrfbnfbua90sos8fva621h4 "Bar / Cocktails")
-* [Fun Socks](https://www.funslurp.com/fun-socks?zenid=5kpnrfbnfbua90sos8fva621h4 "Fun Socks")
-    * [Socks for Women](https://www.funslurp.com/socks-for-women?zenid=5kpnrfbnfbua90sos8fva621h4 "Socks for Women")
-    * [Fun Socks for Men](https://www.funslurp.com/fun-socks-for-men?zenid=5kpnrfbnfbua90sos8fva621h4 "Fun Socks for Men")
+* [Gag Gifts](https://www.funslurp.com/gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Gag Gifts")
+    * [For Men](https://www.funslurp.com/gag-gifts-for-men?zenid=rs0msb9rm7b693s0e25195jhf5 "For Men")
+    * [For Women](https://www.funslurp.com/gag-gifts-for-women?zenid=rs0msb9rm7b693s0e25195jhf5 "For Women")
+    * [Political](https://www.funslurp.com/political-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Political")
+    * [Prank Products](https://www.funslurp.com/funny-pranks?zenid=rs0msb9rm7b693s0e25195jhf5 "Prank Products")
+    * [For Golfers](https://www.funslurp.com/funny-golf-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "For Golfers")
+    * [Office](https://www.funslurp.com/fun-office-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Office")
+    * [Over The Hill](https://www.funslurp.com/over-hill-gag-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Over The Hill")
+    * [Retirement](https://www.funslurp.com/gag-gifts-retirement?zenid=rs0msb9rm7b693s0e25195jhf5 "Retirement")
+    * [Bachelorette](https://www.funslurp.com/bachelorette?zenid=rs0msb9rm7b693s0e25195jhf5 "Bachelorette")
+* [Unique Gifts / Products](https://www.funslurp.com/unique-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Unique Gifts / Products")
+    * [Unique for Her](https://www.funslurp.com/unique-gifts-for-her?zenid=rs0msb9rm7b693s0e25195jhf5 "Unique for Her")
+    * [Cool Gifts for Him](https://www.funslurp.com/cool-gifts-for-him?zenid=rs0msb9rm7b693s0e25195jhf5 "Cool Gifts for Him")
+    * [Kitchen Fun](https://www.funslurp.com/fun-kitchen-products?zenid=rs0msb9rm7b693s0e25195jhf5 "Kitchen Fun")
+    * [Fun BBQ Products](https://www.funslurp.com/unique-bbq-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Fun BBQ Products")
+    * [Bacon Lovers Gifts](https://www.funslurp.com/bacon-lovers-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Bacon Lovers Gifts")
+    * [For Your Kids](https://www.funslurp.com/unique-gifts-for-kids?zenid=rs0msb9rm7b693s0e25195jhf5 "For Your Kids")
+    * [Unique Band Aids](https://www.funslurp.com/unique-band-aids?zenid=rs0msb9rm7b693s0e25195jhf5 "Unique Band Aids")
+    * [Fun Ice Trays](https://www.funslurp.com/unique-ice-trays?zenid=rs0msb9rm7b693s0e25195jhf5 "Fun Ice Trays")
+    * [Unique Pickle Items](https://www.funslurp.com/funny-pickle-products?zenid=rs0msb9rm7b693s0e25195jhf5 "Unique Pickle Items")
+    * [Cupcake Products](https://www.funslurp.com/cupcake-products?zenid=rs0msb9rm7b693s0e25195jhf5 "Cupcake Products")
+    * [Aprons](https://www.funslurp.com/aprons?zenid=rs0msb9rm7b693s0e25195jhf5 "Aprons")
+    * [For Your Keys](https://www.funslurp.com/key-caps-keychains?zenid=rs0msb9rm7b693s0e25195jhf5 "For Your Keys")
+* [Wine / Beer / Bar](https://www.funslurp.com/wine-beer-bar?zenid=rs0msb9rm7b693s0e25195jhf5 "Wine / Beer / Bar")
+    * [Wine](https://www.funslurp.com/wine?zenid=rs0msb9rm7b693s0e25195jhf5 "Wine")
+    * [Beer](https://www.funslurp.com/beer-lovers-gifts?zenid=rs0msb9rm7b693s0e25195jhf5 "Beer")
+    * [Bar / Cocktails](https://www.funslurp.com/bar-cocktails?zenid=rs0msb9rm7b693s0e25195jhf5 "Bar / Cocktails")
+* [Fun Socks](https://www.funslurp.com/fun-socks?zenid=rs0msb9rm7b693s0e25195jhf5 "Fun Socks")
+    * [Socks for Women](https://www.funslurp.com/socks-for-women?zenid=rs0msb9rm7b693s0e25195jhf5 "Socks for Women")
+    * [Fun Socks for Men](https://www.funslurp.com/fun-socks-for-men?zenid=rs0msb9rm7b693s0e25195jhf5 "Fun Socks for Men")
 
-* [All Products](https://www.funslurp.com/all-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [New](https://www.funslurp.com/new-products?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Sale](https://www.funslurp.com/weekly-specials?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [All Products](https://www.funslurp.com/all-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [New](https://www.funslurp.com/new-products?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Sale](https://www.funslurp.com/weekly-specials?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 ### Most Popular
 
-[![Peter Heater](includes/templates/funslurp/images/blank.gif " Peter Heater ")](https://www.funslurp.com/peter-heater?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![Peter Heater](includes/templates/funslurp/images/blank.gif " Peter Heater ")](https://www.funslurp.com/peter-heater?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[Peter Heater](https://www.funslurp.com/peter-heater?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Peter Heater](https://www.funslurp.com/peter-heater?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $7.50
 
 (0)
 
-[Add to cart](https://www.funslurp.com/peter-heater?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/peter-heater?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![The Willy Warmer](includes/templates/funslurp/images/blank.gif " The Willy Warmer ")](https://www.funslurp.com/willy-warmer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![The Willy Warmer](includes/templates/funslurp/images/blank.gif " The Willy Warmer ")](https://www.funslurp.com/willy-warmer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[The Willy Warmer](https://www.funslurp.com/willy-warmer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[The Willy Warmer](https://www.funslurp.com/willy-warmer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $8.95
 
 (0)
 
-[Add to cart](https://www.funslurp.com/willy-warmer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/willy-warmer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![Dill-Dough Stress Relief Putty](includes/templates/funslurp/images/blank.gif " Dill-Dough Stress Relief Putty ")](https://www.funslurp.com/dill-dough-stress-relief-putty?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![Dill-Dough Stress Relief Putty](includes/templates/funslurp/images/blank.gif " Dill-Dough Stress Relief Putty ")](https://www.funslurp.com/dill-dough-stress-relief-putty?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[Dill-Dough Stress Relief Putty](https://www.funslurp.com/dill-dough-stress-relief-putty?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Dill-Dough Stress Relief Putty](https://www.funslurp.com/dill-dough-stress-relief-putty?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $11.95
 
 (0)
 
-[Add to cart](https://www.funslurp.com/dill-dough-stress-relief-putty?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/dill-dough-stress-relief-putty?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![WTF Was That Hand Sanitizer](includes/templates/funslurp/images/blank.gif " WTF Was That Hand Sanitizer ")](https://www.funslurp.com/wtf-was-that-hand-sanitizer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![WTF Was That Hand Sanitizer](includes/templates/funslurp/images/blank.gif " WTF Was That Hand Sanitizer ")](https://www.funslurp.com/wtf-was-that-hand-sanitizer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[WTF Was That Hand Sanitizer](https://www.funslurp.com/wtf-was-that-hand-sanitizer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[WTF Was That Hand Sanitizer](https://www.funslurp.com/wtf-was-that-hand-sanitizer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $7.99
 
 (0)
 
-[Add to cart](https://www.funslurp.com/wtf-was-that-hand-sanitizer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/wtf-was-that-hand-sanitizer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![The Jimmy Jacket](includes/templates/funslurp/images/blank.gif " The Jimmy Jacket ")](https://www.funslurp.com/jimmy-jacket?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![The Jimmy Jacket](includes/templates/funslurp/images/blank.gif " The Jimmy Jacket ")](https://www.funslurp.com/jimmy-jacket?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[The Jimmy Jacket](https://www.funslurp.com/jimmy-jacket?zenid=5kpnrfbnfbua90sos8fva621h4)
+[The Jimmy Jacket](https://www.funslurp.com/jimmy-jacket?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $9.95
 
 (0)
 
-[Add to cart](https://www.funslurp.com/jimmy-jacket?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/jimmy-jacket?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![Shart Wipes](includes/templates/funslurp/images/blank.gif " Shart Wipes ")](https://www.funslurp.com/shart-wipes?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![Shart Wipes](includes/templates/funslurp/images/blank.gif " Shart Wipes ")](https://www.funslurp.com/shart-wipes?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[Shart Wipes](https://www.funslurp.com/shart-wipes?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Shart Wipes](https://www.funslurp.com/shart-wipes?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $7.95
 
 (0)
 
-[Add to cart](https://www.funslurp.com/shart-wipes?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/shart-wipes?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![You Smell Like Shit Hand Sanitizer](includes/templates/funslurp/images/blank.gif " You Smell Like Shit Hand Sanitizer ")](https://www.funslurp.com/you-smell-like-shit-hand-sanitizer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![You Smell Like Shit Hand Sanitizer](includes/templates/funslurp/images/blank.gif " You Smell Like Shit Hand Sanitizer ")](https://www.funslurp.com/you-smell-like-shit-hand-sanitizer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[You Smell Like Shit Hand Sanitizer](https://www.funslurp.com/you-smell-like-shit-hand-sanitizer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[You Smell Like Shit Hand Sanitizer](https://www.funslurp.com/you-smell-like-shit-hand-sanitizer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $7.99
 
 (0)
 
-[Add to cart](https://www.funslurp.com/you-smell-like-shit-hand-sanitizer?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/you-smell-like-shit-hand-sanitizer?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[![Trump Mints](includes/templates/funslurp/images/blank.gif " Trump Mints ")](https://www.funslurp.com/trump-mints?zenid=5kpnrfbnfbua90sos8fva621h4)
+[![Trump Mints](includes/templates/funslurp/images/blank.gif " Trump Mints ")](https://www.funslurp.com/trump-mints?zenid=rs0msb9rm7b693s0e25195jhf5)
 
-[Trump Mints](https://www.funslurp.com/trump-mints?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Trump Mints](https://www.funslurp.com/trump-mints?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 $4.99
 
 (0)
 
-[Add to cart](https://www.funslurp.com/trump-mints?zenid=5kpnrfbnfbua90sos8fva621h4)
+[Add to cart](https://www.funslurp.com/trump-mints?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 ### Juicy News
 
@@ -319,14 +319,14 @@ Subscribe
 
 ##### Company
 
-* [About](https://www.funslurp.com/index.php?main_page=about_funslurp&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Contact](https://www.funslurp.com/index.php?main_page=contact_us&zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Affiliates](https://www.funslurp.com/affiliate-program?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [About](https://www.funslurp.com/index.php?main_page=about_funslurp&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Contact](https://www.funslurp.com/index.php?main_page=contact_us&zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Affiliates](https://www.funslurp.com/affiliate-program?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 ##### Policies
 
-* [Shipping](https://www.funslurp.com/shipping-returns?zenid=5kpnrfbnfbua90sos8fva621h4)
-* [Privacy](https://www.funslurp.com/privacy-policy?zenid=5kpnrfbnfbua90sos8fva621h4)
+* [Shipping](https://www.funslurp.com/shipping-returns?zenid=rs0msb9rm7b693s0e25195jhf5)
+* [Privacy](https://www.funslurp.com/privacy-policy?zenid=rs0msb9rm7b693s0e25195jhf5)
 
 ##### Contact
 
