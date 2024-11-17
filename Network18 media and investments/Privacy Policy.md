@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Sun, Nov 17, 2024
+Mon, Nov 18, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -130,10 +130,10 @@ English
 * Top Trends
     * [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
     * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-    * [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
+    * [Delhi Pollution](https://www.news18.com/india/grap-stage-4-curbs-in-delhi-ncr-from-monday-amid-severe-air-pollution-9123545.html)
     * [Health Insurance](https://www.news18.com/business/ayushman-card-online-apply-for-above-70-years-old-9122329.html)
-    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-sidhu-to-replace-archana-puran-singh-in-kapil-sharmas-show-season-3-he-says-will-return-if-9123034.html)
-    * [Nayanthara](https://www.news18.com/movies/sorry-dhanush-nayanthara-apologises-in-viral-video-after-he-hated-her-work-in-naanum-rowdy-dhaan-9123053.html)
+    * [Vijay Sethupathi](https://www.news18.com/movies/vijay-sethupathi-shares-new-post-amid-nayanthara-dhanush-row-over-naanum-rowdy-dhaan-check-it-out-9123218.html)
+    * [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
     * [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -172,10 +172,10 @@ In Trends:
 
 * [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
 * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-* [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
+* [Delhi Pollution](https://www.news18.com/india/grap-stage-4-curbs-in-delhi-ncr-from-monday-amid-severe-air-pollution-9123545.html)
 * [Health Insurance](https://www.news18.com/business/ayushman-card-online-apply-for-above-70-years-old-9122329.html)
-* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-sidhu-to-replace-archana-puran-singh-in-kapil-sharmas-show-season-3-he-says-will-return-if-9123034.html)
-* [Nayanthara](https://www.news18.com/movies/sorry-dhanush-nayanthara-apologises-in-viral-video-after-he-hated-her-work-in-naanum-rowdy-dhaan-9123053.html)
+* [Vijay Sethupathi](https://www.news18.com/movies/vijay-sethupathi-shares-new-post-amid-nayanthara-dhanush-row-over-naanum-rowdy-dhaan-check-it-out-9123218.html)
+* [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
 * [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
 
 * Follow Us
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 17, 2024
+Nov 18, 2024
 
 [View All](https://www.news18.com/short-news/)
 
