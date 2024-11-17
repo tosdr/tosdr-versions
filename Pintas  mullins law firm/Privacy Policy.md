@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![New mexico lung cancer lawyer](https://www.pintas.com/wp-content/uploads/2020/11/lung-cancer-lawyer-new-mexico-scaled.jpg "New Mexico Lung Cancer Lawyer")](https://www.pintas.com/lung-cancer-lawyer/new-mexico/ "New Mexico Lung Cancer Lawyer")
+[![Does mesothelioma affect both lungs?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-does-mesothelioma-affect-both-lungs.jpg "Does Mesothelioma Affect Both Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/ "Does Mesothelioma Affect Both Lungs?")
 
-[#### New Mexico Lung Cancer Lawyer](https://www.pintas.com/lung-cancer-lawyer/new-mexico/)
+[#### Does Mesothelioma Affect Both Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/)
 
-[![What is considered a fall in a nursing home?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-what-is-considered-a-fall-in-a-nursing-home-scaled.jpg "What Is Considered a Fall in a Nursing Home?")](https://www.pintas.com/faq/what-is-considered-a-fall-in-a-nursing-home/ "What Is Considered a Fall in a Nursing Home?")
+[![Can asbestos cause lung nodules?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-asbestos-cause-lung-nodules-scaled.jpg "Can Asbestos Cause Lung Nodules?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/ "Can Asbestos Cause Lung Nodules?")
 
-[#### What Is Considered a Fall in a Nursing Home?](https://www.pintas.com/faq/what-is-considered-a-fall-in-a-nursing-home/)
+[#### Can Asbestos Cause Lung Nodules?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/)
 
-[![Detecting physical abuse in dementia patients](https://www.pintas.com/wp-content/uploads/2021/03/practice-areas-personal-injury-assisted-living-accident-lawyer-what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities-300x200.jpg "Detecting Physical Abuse in Dementia Patients")](https://www.pintas.com/faq/what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities/ "Detecting Physical Abuse in Dementia Patients")
+[![Can chemo cure ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-chemo-cure-ovarian-cancer.jpg "Can Chemo Cure Ovarian Cancer?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-chemo-cure-ovarian-cancer/ "Can Chemo Cure Ovarian Cancer?")
 
-[#### Detecting Physical Abuse in Dementia Patients](https://www.pintas.com/faq/what-are-some-signs-of-physical-abuse-of-seniors-with-dementia-at-memory-care-facilities/)
+[#### Can Chemo Cure Ovarian Cancer?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-chemo-cure-ovarian-cancer/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
