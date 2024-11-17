@@ -320,15 +320,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
+Fred and George Weasley were born on April Fools’ Day.
 
 ### Potter History
 
-July 8, 2000 – Harry Potter and the Goblet of Fire is released in the United States and United Kingdom simultaneously. It was the first Harry Potter book to be released in both countries on the same day.
+November 18, 2005 – Harry Potter and the Goblet of Fire film is released in the United States and United Kingdom, receiving positive reviews from critics and fans alike.
 
 ### Potter Quote
 
-“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
+“Honestly, if you were any slower, you’d be going backward.”
 
 [](#)
 
