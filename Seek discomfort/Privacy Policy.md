@@ -5,6 +5,7 @@
 * [SHOP](https://www.seekdiscomfort.com/collections/all)
 * [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
 * [SALE](https://www.seekdiscomfort.com/collections/sale2)
+* [MAP](https://www.seekdiscomfort.com/pages/secret-map)
 
 [![Seek Discomfort](//www.seekdiscomfort.com/cdn/shop/files/new_logo_2.png?v=1718293649&width=420)](https://www.seekdiscomfort.com/ "Seek Discomfort")
 
@@ -29,6 +30,7 @@ GO TO EUROPEAN SITE
     
 * [COLLECTIONS](https://www.seekdiscomfort.com/pages/collection-list)
 * [SALE](https://www.seekdiscomfort.com/collections/sale2)
+* [MAP](https://www.seekdiscomfort.com/pages/secret-map)
 * [GO TO EUROPEAN SITE](https://eu.seekdiscomfort.com/ "GO TO EUROPEAN SITE")
 
 [](#)
