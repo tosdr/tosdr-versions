@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://www.theepochtimes.com/health/leukemia-symptoms-causes-treatments-and-natural-approaches-5756032)
+    
+    NEW By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    
+    [![Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759946-Leukemia-205x123.jpg.webp)](https://www.theepochtimes.com/health/leukemia-symptoms-causes-treatments-and-natural-approaches-5756032)
+* [New Monkey Pox Strain Detected in US for First Time](https://www.theepochtimes.com/us/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
+    
+    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    
+    [![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761175-GettyImages-476571820-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
+* [8 Killed, 17 Injured in Mass Stabbing Attack in China](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
+    
+    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    
+    [![8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761108-stabbing-205x123.jpg.webp)](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
+* [Musk Nudges Trump to Select Lutnick for Treasury, Putting Cabinet Selection Into Spotlight](https://www.theepochtimes.com/us/musk-nudges-trump-to-select-lutnick-for-treasury-putting-cabinet-selection-into-spotlight-5760950)
+    
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    
+    [![Musk Nudges Trump to Select Lutnick for Treasury, Putting Cabinet Selection Into Spotlight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Musk Nudges Trump to Select Lutnick for Treasury, Putting Cabinet Selection Into Spotlight](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761176-Howard-Lutnick-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-nudges-trump-to-select-lutnick-for-treasury-putting-cabinet-selection-into-spotlight-5760950)
+* [Election Ballots Shed New Light on Cursive Writing Debate](https://www.theepochtimes.com/us/election-ballots-shed-new-light-on-cursive-writing-debate-5758502)
+    
+    4hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![Election Ballots Shed New Light on Cursive Writing Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Election Ballots Shed New Light on Cursive Writing Debate](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761157-GettyImages-186497316-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/election-ballots-shed-new-light-on-cursive-writing-debate-5758502)
+* [Chinese Woman Imprisoned Again After Losing 3 Family Members to CCP’s War Against Faith](https://www.theepochtimes.com/falun-gong/chinese-woman-imprisoned-again-after-losing-3-family-members-to-ccps-war-against-faith-5758837)
+    
+    5hr By [Sophia Lam](https://www.theepochtimes.com/author/sophia-lam)
+    
+    [![Chinese Woman Imprisoned Again After Losing 3 Family Members to CCP’s War Against Faith](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Chinese Woman Imprisoned Again After Losing 3 Family Members to CCP’s War Against Faith](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690768-end-205x123.jpg.webp)](https://www.theepochtimes.com/falun-gong/chinese-woman-imprisoned-again-after-losing-3-family-members-to-ccps-war-against-faith-5758837)
+* [Japanese Forces Join US Marine Rotations in Australia’s Top End in Response to Beijing’s Aggression](https://www.theepochtimes.com/world/japanese-forces-join-us-marine-rotations-in-australias-top-end-in-response-to-beijings-aggression-5761095)
+    
+    9hr By [Lily Kelly](https://www.theepochtimes.com/author/lily-kelly-clark)
+    
+    [![Japanese Forces Join US Marine Rotations in Australia’s Top End in Response to Beijing’s Aggression](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Japanese Forces Join US Marine Rotations in Australia’s Top End in Response to Beijing’s Aggression](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761158-GettyImages-1245468332-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/japanese-forces-join-us-marine-rotations-in-australias-top-end-in-response-to-beijings-aggression-5761095)
 * [RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
     
-    7hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
+    13hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
     
     [![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761089-RFK-banning-foods-3-205x123.jpg.webp)](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
 * [Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
     
-    11hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
+    17hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
     
     [![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761099-Will-Scharf-GettyImages-2169800355-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
+    ![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761160-Will-Scharf-GettyImages-2169800355-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
 * [Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://www.theepochtimes.com/article/day-in-photos-leaders-conclude-apec-prison-releases-protesters-and-man-in-blue-5760944)
     
-    11hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    17hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760995-AP24321650067754-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-leaders-conclude-apec-prison-releases-protesters-and-man-in-blue-5760944)
-* [Trump Selects Chris Wright to Lead Department of Energy](https://www.theepochtimes.com/us/trump-selects-chris-wright-to-lead-department-of-energy-5761006)
-    
-    11hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan) and [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester)
-    
-    [![Trump Selects Chris Wright to Lead Department of Energy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Selects Chris Wright to Lead Department of Energy](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761097-Chris-Wright--205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-chris-wright-to-lead-department-of-energy-5761006)
-* [Meet Adam Smith, the Green Beret Behind North Carolina’s ‘Redneck Air Force’](https://www.theepochtimes.com/article/meet-adam-smith-the-green-beret-behind-north-carolinas-redneck-air-force-5758552)
-    
-    12hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
-    
-    [![Meet Adam Smith, the Green Beret Behind North Carolina’s ‘Redneck Air Force’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Meet Adam Smith, the Green Beret Behind North Carolina’s ‘Redneck Air Force’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760911-DSC00596-205x123.jpg.webp)](https://www.theepochtimes.com/article/meet-adam-smith-the-green-beret-behind-north-carolinas-redneck-air-force-5758552)
-* [Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://www.theepochtimes.com/us/trump-to-unveil-his-economic-selections-next-week-senior-adviser-says-5760888)
-    
-    12hr By [Bill Pan](https://www.theepochtimes.com/author/gq-pan)
-    
-    [![Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump to Unveil His Economic Selections Next Week, Senior Adviser Says](https://img.theepochtimes.com/assets/uploads/2024/06/12/id5667871-2.download-28KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-to-unveil-his-economic-selections-next-week-senior-adviser-says-5760888)
-* [USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://www.theepochtimes.com/us/usps-incurs-9-5-billion-loss-despite-raising-stamp-prices-5760924)
-    
-    13hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![USPS Incurs $9.5 Billion Loss Despite Raising Stamp Prices](https://img.theepochtimes.com/assets/uploads/2022/02/25/USPS_JF_01152021-205x123.jpg.webp)](https://www.theepochtimes.com/us/usps-incurs-9-5-billion-loss-despite-raising-stamp-prices-5760924)
-* [Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://www.theepochtimes.com/us/pentagon-fails-7th-audit-in-row-aims-for-clean-audit-in-2028-post-5760909)
-    
-    13hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pentagon Fails 7th Audit in Row, Aims for Clean Audit in 2028](https://img.theepochtimes.com/assets/uploads/2024/11/id5757457-3.download-205x123.jpg.webp)](https://www.theepochtimes.com/us/pentagon-fails-7th-audit-in-row-aims-for-clean-audit-in-2028-post-5760909)
-* [In Their Final Meeting, Xi Tells Biden China Is ‘Ready to Work’ With Trump Administration](https://www.theepochtimes.com/china/biden-xi-head-to-final-meeting-as-trumps-return-looms-over-us-china-relations-5760894)
-    
-    13hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan) and [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![In Their Final Meeting, Xi Tells Biden China Is ‘Ready to Work’ With Trump Administration](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![In Their Final Meeting, Xi Tells Biden China Is ‘Ready to Work’ With Trump Administration](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5761035-Biden-meets-xi-GettyImages-2184466362-205x123.jpg.webp)](https://www.theepochtimes.com/china/biden-xi-head-to-final-meeting-as-trumps-return-looms-over-us-china-relations-5760894)
-* [Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://www.theepochtimes.com/business/stocks-sell-off-at-end-of-week-on-profit-taking-ahead-of-nvidia-earnings-report-5760881)
-    
-    14hr By [Panos Mourdoukoutas](https://www.theepochtimes.com/author/panos-mourdoukoutas)
-    
-    [![Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Stocks Sell Off at End of Week on Profit-Taking Ahead of Nvidia Earnings Report](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760886-GettyImages-2183884068-205x123.jpg.webp)](https://www.theepochtimes.com/business/stocks-sell-off-at-end-of-week-on-profit-taking-ahead-of-nvidia-earnings-report-5760881)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
