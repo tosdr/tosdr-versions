@@ -1,8 +1,6 @@
 Call Us For A Free Estimate: [(323) 655-2411](tel:3236552411)
 
-[![Aero Shade logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201197%20428'%3E%3C/svg%3E)
-
-![Aero Shade logo](https://aeroshadeco.com/wp-content/uploads/2024/05/AeroShadeNewLogo-Teal.svg)](https://aeroshadeco.com/)
+[![Aero Shade logo](https://aeroshadeco.com/wp-content/uploads/2024/05/AeroShadeNewLogo-Teal.svg)](https://aeroshadeco.com/)
 
 * [Shades](https://aeroshadeco.com/shades/)
     * [Roller Shades](https://aeroshadeco.com/roller-shades/)
