@@ -66,7 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Hassan Banks on Little](/assets/Images/teasers/full/NH-Banking-2014.png)](http://www.followthemoney.org/research/blog/maggie-hassan-banks-on-jerry-little/)
+[![DualAdvantage](/assets/logos/DuelAdvantage.png)](http://www.followthemoney.org/research/institute-research/the-role-of-money-and-incumbency-in-2007-2008-state-elections)
+
+Check out the power of a dual advantage.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
