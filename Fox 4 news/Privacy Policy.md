@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Two 18-year-olds killed in Old East Dallas shooting](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/v-dallas-lafayette-st-double-homicide-9p_00.00.08.02.jpg?ve=1&tl=1)
+ [![Biden OKs long-range missiles for Ukraine's war against Russia, sources tell AP](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2184052797-scaled.jpg?ve=1&tl=1)
 
- ![Two 18-year-olds killed in Old East Dallas shooting](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/v-dallas-lafayette-st-double-homicide-9p_00.00.08.02.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-shooting-jacob-luna-christopher-jackson)
+ ![Biden OKs long-range missiles for Ukraine's war against Russia, sources tell AP](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2184052797-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-long-range-missiles-ukraine-russia)
 
-### [Two 18-year-olds killed in Old East Dallas shooting](https://www.fox4news.com/news/dallas-shooting-jacob-luna-christopher-jackson)
+### [Biden OKs long-range missiles for Ukraine's war against Russia, sources tell AP](https://www.fox4news.com/news/biden-long-range-missiles-ukraine-russia)
 
- [![Ewers’ two touchdowns, Texas’ defense lead No. 3 Longhorns past Arkansas 20-10](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2184463797.jpg?ve=1&tl=1)
+ [![Police investigate fatal shooting in North Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
 
- ![Ewers’ two touchdowns, Texas’ defense lead No. 3 Longhorns past Arkansas 20-10](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2184463797.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/ewers-two-touchdowns-texas-defense-lead-no-3-longhorns-past-arkansas-20-10)
+ ![Police investigate fatal shooting in North Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-investigate-fatal-shooting-north-fort-worth)
 
-### [Ewers’ two touchdowns, Texas’ defense lead No. 3 Longhorns past Arkansas 20-10](https://www.fox4news.com/sports/ewers-two-touchdowns-texas-defense-lead-no-3-longhorns-past-arkansas-20-10)
+### [Police investigate fatal shooting in North Fort Worth](https://www.fox4news.com/news/police-investigate-fatal-shooting-north-fort-worth)
 
- [![Aspiring Allen firefighter working to make dream come true after suffering heart attack](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-allen-fire-recruit-cardiac-arrest-9p_kdfw_00.02.06.38.jpg?ve=1&tl=1)
+ [![Oklahoma schools chief wants to make students watch announcement of new religious department](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-56769424-scaled.jpg?ve=1&tl=1)
 
- ![Aspiring Allen firefighter working to make dream come true after suffering heart attack](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-allen-fire-recruit-cardiac-arrest-9p_kdfw_00.02.06.38.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/allen-firefighter-jakob-perez-heart-attack)
+ ![Oklahoma schools chief wants to make students watch announcement of new religious department](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-56769424-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-ryan-walters-religious-department)
 
-### [Aspiring Allen firefighter working to make dream come true after suffering heart attack](https://www.fox4news.com/news/allen-firefighter-jakob-perez-heart-attack)
+### [Oklahoma schools chief wants to make students watch announcement of new religious department](https://www.fox4news.com/news/oklahoma-ryan-walters-religious-department)
 
- [![No. 14 SMU moves closer to ACC title game by beating Boston College 38-28 for 7th win in a row](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185163204.jpg?ve=1&tl=1)
+ [![How much you need to make to afford a single-family home in most US cities](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/for-sale-1.jpg?ve=1&tl=1)
 
- ![No. 14 SMU moves closer to ACC title game by beating Boston College 38-28 for 7th win in a row](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185163204.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/no-14-smu-moves-closer-acc-title-game-beating-boston-college-38-28-7th-win-row)
+ ![How much you need to make to afford a single-family home in most US cities](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/for-sale-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-much-you-need-make-to-buy-home-2024)
 
-### [No. 14 SMU moves closer to ACC title game by beating Boston College 38-28 for 7th win in a row](https://www.fox4news.com/sports/no-14-smu-moves-closer-acc-title-game-beating-boston-college-38-28-7th-win-row)
+### [How much you need to make to afford a single-family home in most US cities](https://www.fox4news.com/news/how-much-you-need-make-to-buy-home-2024)
 
- [![Watch: Teen rams officer with stolen car in high-speed chase](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/carram.jpg?ve=1&tl=1)
+ [![‘The Voice’ winner Sundance Head recovers at home after being accidentally shot on his Texas ranch](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-630105920.jpg?ve=1&tl=1)
 
- ![Watch: Teen rams officer with stolen car in high-speed chase](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/carram.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/watch-teen-rams-officer-stolen-car-high-speed-chase)
+ ![‘The Voice’ winner Sundance Head recovers at home after being accidentally shot on his Texas ranch](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-630105920.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/the-voice-winner-sundance-head-recovers-home-after-being-accidentally-shot-his-texas-ranch)
 
-### [Watch: Teen rams officer with stolen car in high-speed chase](https://www.fox4news.com/news/watch-teen-rams-officer-stolen-car-high-speed-chase)
+### [‘The Voice’ winner Sundance Head recovers at home after being accidentally shot on his Texas ranch](https://www.fox4news.com/news/the-voice-winner-sundance-head-recovers-home-after-being-accidentally-shot-his-texas-ranch)
 
 ###### [News](https://www.fox4news.com/news)
 
