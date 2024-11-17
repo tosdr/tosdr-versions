@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/boeren-burgers-en-buitenlui/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/stel-je-de-hemel-weleens-voor/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
