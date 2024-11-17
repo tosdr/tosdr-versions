@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Fridaloka](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256214.thumb.jpeg.ca23c2d37028d4c5e2b6af0afb21a781.jpeg)](https://www.clubedohardware.com.br/profile/1256214-fridaloka/ "Ir ao perfil de Fridaloka")
-        
-        0
-        
-        ["Teclado" tecla caps lock deixando letras minuscula](https://www.clubedohardware.com.br/forums/topic/1702572-teclado-tecla-caps-lock-deixando-letras-minuscula/?do=getNewComment ""Teclado"  tecla caps lock deixando letras minuscula")
-        
-        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
-        Por [Fridaloka](https://www.clubedohardware.com.br/profile/1256214-fridaloka/ "Ir ao perfil de Fridaloka")  
-        44 minutos atrás
-        
-    * [![RM30](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/317328653_Snoopy5kb.thumb.png.1c6696b8fd313f7633fd81cb656be988.png)](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")
-        
-        0
-        
-        [Windows 10 fica lento com o tempo](https://www.clubedohardware.com.br/forums/topic/1702571-windows-10-fica-lento-com-o-tempo/?do=getNewComment "Windows 10 fica lento com o tempo")
-        
-        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
-        Por [RM30](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")  
-        1 hora atrás
-        
-    * [![th7z](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256207.thumb.png.cd7682809eea6f87e88b1b060779d1be.png)](https://www.clubedohardware.com.br/profile/1256207-th7z/ "Ir ao perfil de th7z")
+    * [![Gustavo Casanova](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247790.thumb.jpeg.12718cc6944abfb74df4a2d58fbe548a.jpeg)](https://www.clubedohardware.com.br/profile/1247790-gustavo-casanova/ "Ir ao perfil de Gustavo Casanova")
         
         1
         
-        [Tela chuvisca ao iniciar Windows.](https://www.clubedohardware.com.br/forums/topic/1702570-tela-chuvisca-ao-iniciar-windows/?do=getNewComment "Tela chuvisca ao iniciar Windows.")
+        [Qual processador se adequaria melhor a uma RX 7800xt?](https://www.clubedohardware.com.br/forums/topic/1702598-qual-processador-se-adequaria-melhor-a-uma-rx-7800xt/?do=getNewComment "Qual processador se adequaria melhor a uma RX 7800xt?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Gustavo Casanova](https://www.clubedohardware.com.br/profile/1247790-gustavo-casanova/ "Ir ao perfil de Gustavo Casanova")  
+        18 minutos atrás
+        
+    * [![Mengineer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/inter.thumb.jpg.14ab9347fec0eee301c8699d353a18ad.jpg)](https://www.clubedohardware.com.br/profile/1254776-mengineer/ "Ir ao perfil de Mengineer")
+        
+        0
+        
+        [21h2 - suporte até 2031?](https://www.clubedohardware.com.br/forums/topic/1702597-21h2-suporte-at%C3%A9-2031/?do=getNewComment "21h2 - suporte até 2031?")
+        
+        [Windows Server](https://www.clubedohardware.com.br/forums/forum/51-windows-server/ "Windows Server")  
+        Por [Mengineer](https://www.clubedohardware.com.br/profile/1254776-mengineer/ "Ir ao perfil de Mengineer")  
+        22 minutos atrás
+        
+    * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
+        
+        0
+        
+        [Podem apagar meu último tópico?](https://www.clubedohardware.com.br/forums/topic/1702596-podem-apagar-meu-%C3%BAltimo-t%C3%B3pico/?do=getNewComment "Podem apagar meu último tópico?")
+        
+        [Sugestões para o Clube do Hardware](https://www.clubedohardware.com.br/forums/forum/26-sugest%C3%B5es-para-o-clube-do-hardware/ "Sugestões para o Clube do Hardware")  
+        Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
+        23 minutos atrás
+        
+    * [![Unit7vLW](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c4b1%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EU%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256225-unit7vlw/ "Ir ao perfil de Unit7vLW")
+        
+        0
+        
+        [definição e imagem ruins em monitor VGA](https://www.clubedohardware.com.br/forums/topic/1702595-defini%C3%A7%C3%A3o-e-imagem-ruins-em-monitor-vga/?do=getNewComment "definição e imagem ruins em monitor VGA")
         
         [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
-        Por [th7z](https://www.clubedohardware.com.br/profile/1256207-th7z/ "Ir ao perfil de th7z")  
-        6 horas atrás
+        Por [Unit7vLW](https://www.clubedohardware.com.br/profile/1256225-unit7vlw/ "Ir ao perfil de Unit7vLW")  
+        47 minutos atrás
         
-    * [![Leandro Max](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256206.thumb.jpeg.35e3577e45eea2ad04093e280a26eabd.jpeg)](https://www.clubedohardware.com.br/profile/1256206-leandro-max/ "Ir ao perfil de Leandro Max")
-        
-        2
-        
-        [Fonte para Ryzen 5 5600 e Radeon RX 7600: MSI MAG A650BN ou Gamdias 750W?](https://www.clubedohardware.com.br/forums/topic/1702569-fonte-para-ryzen-5-5600-e-radeon-rx-7600-msi-mag-a650bn-ou-gamdias-750w/?do=getNewComment "Fonte para Ryzen 5 5600 e Radeon RX 7600: MSI MAG A650BN ou Gamdias 750W?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Leandro Max](https://www.clubedohardware.com.br/profile/1256206-leandro-max/ "Ir ao perfil de Leandro Max")  
-        7 horas atrás
-        
-    * [![Voryo](https://lh3.googleusercontent.com/-d4ck3sTlNSY/AAAAAAAAAAI/AAAAAAAAAFY/vSiRKF5X-Dk/photo.jpg)](https://www.clubedohardware.com.br/profile/922541-voryo/ "Ir ao perfil de Voryo")
-        
-        0
-        
-        [Notebook não liga após atualização do Windows](https://www.clubedohardware.com.br/forums/topic/1702568-notebook-n%C3%A3o-liga-ap%C3%B3s-atualiza%C3%A7%C3%A3o-do-windows/?do=getNewComment "Notebook não liga após atualização do Windows")
-        
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Voryo](https://www.clubedohardware.com.br/profile/922541-voryo/ "Ir ao perfil de Voryo")  
-        8 horas atrás
-        
-    * [![Danil0](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1178519.thumb.jpeg.e35d597a47493afc1c0fd38437048795.jpeg)](https://www.clubedohardware.com.br/profile/1178519-danil0/ "Ir ao perfil de Danil0")
+    * [![Pedro Vinicius G. C.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1216602.thumb.jpeg.2aa997f60bcaa440943a88d2d781afe7.jpeg)](https://www.clubedohardware.com.br/profile/1216602-pedro-vinicius-g-c/ "Ir ao perfil de Pedro Vinicius G. C.")
         
         1
         
-        [Gigabyte Aorus Waterforce X240 vale a pena para Ryzen 9 5900X?](https://www.clubedohardware.com.br/forums/topic/1702567-gigabyte-aorus-waterforce-x240-vale-a-pena-para-ryzen-9-5900x/?do=getNewComment "Gigabyte Aorus Waterforce X240 vale a pena para Ryzen 9 5900X?")
+        [Qual pasta térmica comprar para meus clientes?](https://www.clubedohardware.com.br/forums/topic/1702593-qual-pasta-t%C3%A9rmica-comprar-para-meus-clientes/?do=getNewComment "Qual pasta térmica comprar para meus clientes?")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Danil0](https://www.clubedohardware.com.br/profile/1178519-danil0/ "Ir ao perfil de Danil0")  
-        9 horas atrás
+        Por [Pedro Vinicius G. C.](https://www.clubedohardware.com.br/profile/1216602-pedro-vinicius-g-c/ "Ir ao perfil de Pedro Vinicius G. C.")  
+        1 hora atrás
         
-    * [![marcosph1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/e43728371658626020b1f2f327447787.thumb.jpg.908bac3458d47714d96d5f5966e4a6b7.jpg)](https://www.clubedohardware.com.br/profile/1249751-marcosph1/ "Ir ao perfil de marcosph1")
-        
-        1
-        
-        [O gabinete Mancer Hexer é uma boa opção e comporta meu hardware?](https://www.clubedohardware.com.br/forums/topic/1702566-o-gabinete-mancer-hexer-%C3%A9-uma-boa-op%C3%A7%C3%A3o-e-comporta-meu-hardware/?do=getNewComment "O gabinete Mancer Hexer é uma boa opção e comporta meu hardware?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [marcosph1](https://www.clubedohardware.com.br/profile/1249751-marcosph1/ "Ir ao perfil de marcosph1")  
-        10 horas atrás
-        
-    * [![Joaozinho_11](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256200.thumb.jpeg.8980d1255bcac5b94e03fba002efca00.jpeg)](https://www.clubedohardware.com.br/profile/1256200-joaozinho_11/ "Ir ao perfil de Joaozinho_11")
-        
-        1
-        
-        [Computador apresentando lentidão o que pode ser?](https://www.clubedohardware.com.br/forums/topic/1702565-computador-apresentando-lentid%C3%A3o-o-que-pode-ser/?do=getNewComment "Computador apresentando lentidão o que pode ser?")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Joaozinho\_11](https://www.clubedohardware.com.br/profile/1256200-joaozinho_11/ "Ir ao perfil de Joaozinho_11")  
-        10 horas atrás
-        
-    * [![Zalgo](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/6cc96b4da52fb8d960ae74cc7f5face1.thumb.jpg.b274a5392b7d93c7ab9be42615dd7e87.jpg)](https://www.clubedohardware.com.br/profile/1235395-zalgo/ "Ir ao perfil de Zalgo")
-        
-        4
-        
-        [Sugestão para placa-mãe AM4 para Ryzen 5 5600G](https://www.clubedohardware.com.br/forums/topic/1702564-sugest%C3%A3o-para-placa-m%C3%A3e-am4-para-ryzen-5-5600g/?do=getNewComment "Sugestão para placa-mãe AM4 para Ryzen 5 5600G")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Zalgo](https://www.clubedohardware.com.br/profile/1235395-zalgo/ "Ir ao perfil de Zalgo")  
-        10 horas atrás
-        
-    * [![Arthur Guillermo](https://www.clubedohardware.com.br/uploads/members/monthly_2023_04/urso.thumb.jpg.d047fed37b67b9aa76dff93decf5fc26.jpg)](https://www.clubedohardware.com.br/profile/985081-arthur-guillermo/ "Ir ao perfil de Arthur Guillermo")
+    * [![Spartan_br](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c462a0%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ESB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1245764-spartan_br/ "Ir ao perfil de Spartan_br")
         
         0
         
-        C# [Tem como obter local real e não o /temp ?](https://www.clubedohardware.com.br/forums/topic/1702563-tem-como-obter-local-real-e-n%C3%A3o-o-temp/?do=getNewComment "Tem como obter local real e não o /temp ?")
+        [Pc novo até 5000.](https://www.clubedohardware.com.br/forums/topic/1702592-pc-novo-at%C3%A9-5000/?do=getNewComment "Pc novo até 5000.")
         
-        [C/C#/C++](https://www.clubedohardware.com.br/forums/forum/177-ccc/ "C/C#/C++")  
-        Por [Arthur Guillermo](https://www.clubedohardware.com.br/profile/985081-arthur-guillermo/ "Ir ao perfil de Arthur Guillermo")  
-        11 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Spartan\_br](https://www.clubedohardware.com.br/profile/1245764-spartan_br/ "Ir ao perfil de Spartan_br")  
+        1 hora atrás
+        
+    * [![VictorAzevd](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256226.thumb.png.063c62edd424b0ec70ca41bd3f645212.png)](https://www.clubedohardware.com.br/profile/1256226-victorazevd/ "Ir ao perfil de VictorAzevd")
+        
+        3
+        
+        [Recomendação de placa-mãe LGA 1700 para i5-12400F e Radeon RX 6600](https://www.clubedohardware.com.br/forums/topic/1702589-recomenda%C3%A7%C3%A3o-de-placa-m%C3%A3e-lga-1700-para-i5-12400f-e-radeon-rx-6600/?do=getNewComment "Recomendação de placa-mãe LGA 1700 para i5-12400F e Radeon RX 6600")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [VictorAzevd](https://www.clubedohardware.com.br/profile/1256226-victorazevd/ "Ir ao perfil de VictorAzevd")  
+        2 horas atrás
+        
+    * [![Bruxon](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1073285.thumb.png.90801a8c131cc511e3e801df56df07de.png)](https://www.clubedohardware.com.br/profile/1073285-bruxon/ "Ir ao perfil de Bruxon")
+        
+        3
+        
+        [AMD Ryzen 5 8500G por R$700,00 vale a pena? Dicas de placa-mãe](https://www.clubedohardware.com.br/forums/topic/1702588-amd-ryzen-5-8500g-por-r70000-vale-a-pena-dicas-de-placa-m%C3%A3e/?do=getNewComment "AMD Ryzen 5 8500G por R$700,00 vale a pena? Dicas de placa-mãe")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Bruxon](https://www.clubedohardware.com.br/profile/1073285-bruxon/ "Ir ao perfil de Bruxon")  
+        2 horas atrás
+        
+    * [![yxnsos](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2383c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EY%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256224-yxnsos/ "Ir ao perfil de yxnsos")
+        
+        0
+        
+        [PC desligando após entrar na tela de descanso](https://www.clubedohardware.com.br/forums/topic/1702587-pc-desligando-ap%C3%B3s-entrar-na-tela-de-descanso/?do=getNewComment "PC desligando após entrar na tela de descanso")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [yxnsos](https://www.clubedohardware.com.br/profile/1256224-yxnsos/ "Ir ao perfil de yxnsos")  
+        2 horas atrás
+        
+    * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
+        
+        0
+        
+        [MSI g41m-s01 suporta memórias ram com chip de um lado só?](https://www.clubedohardware.com.br/forums/topic/1702586-msi-g41m-s01-suporta-mem%C3%B3rias-ram-com-chip-de-um-lado-s%C3%B3/?do=getNewComment "MSI g41m-s01 suporta memórias ram com chip de um lado só?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
+        3 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
