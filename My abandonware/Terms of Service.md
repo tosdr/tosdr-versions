@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Karateka Mania](https://www.myabandonware.com/game/karateka-mania-szw)
+* [Virtual City HD](https://www.myabandonware.com/game/virtual-city-hd-t4e)
+* [Virtual City](https://www.myabandonware.com/game/virtual-city-t4d)
 * [Tower of Fortune](https://www.myabandonware.com/game/tower-of-fortune-tsk)
 * [Torreoscura](https://www.myabandonware.com/game/torreoscura-tsj)
-* [Toledo Atomchess with CGA graphics](https://www.myabandonware.com/game/toledo-atomchess-with-cga-graphics-tsi)
-* [Thunder Strike](https://www.myabandonware.com/game/thunder-strike-tsh)
-* [The Search for Freedom](https://www.myabandonware.com/game/the-search-for-freedom-tsg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
