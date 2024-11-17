@@ -259,6 +259,13 @@ Advertise with Us
 
 Most Popular
 
+[![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Emergency services currently at scene of road traffic collision outside Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
 
 The Legavallon Road outside Dungiven is currently closed
@@ -267,20 +274,6 @@ The Legavallon Road outside Dungiven is currently closed
 
 [Emergency services currently at scene of road traffic collision outside Dungiven](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Man wanted in Republic for assault on woman arrested by police in Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man wanted in Republic for assault on woman arrested by police in Belfast")](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
 
@@ -306,6 +299,13 @@ This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley
 
 [St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
 
@@ -503,6 +503,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Girls star helps to launch Salvation Army Christmas family appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 
 Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcalfe. Included at back are Major Jacqui Wright, Eilidh Wood and Annie Cook.
@@ -512,7 +519,7 @@ Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcal
 [Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
+[![Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/resizer/165/93/true/2024_11_14/Western_Trust_Human_Milk_Bank-1731601412648.jpg--.jpg?1731601412670 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
@@ -543,13 +550,6 @@ This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley
 
 [Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IMG-20241115-WA0005-1731684980170.jpg--.jpg?1731684982505 "Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign")](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Demand of reversal of change to Winter Fuel Allowance as Trade Unions unite in this campaign](https://www.derrynow.com/news/derry-news/1656947/demand-of-reversal-of-change-to-winter-fuel-allowance-as-trade-unions-unite-in-this-campaign.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
