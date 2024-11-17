@@ -87,13 +87,13 @@ Most Read
     
     1. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
-2. 2. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
+2. 2. [Silo S2 expands its dystopian world](https://arstechnica.com/culture/2024/11/silo-s2-expands-its-dystopian-world/)
     
-3. 3. [Silo S2 expands its dystopian world](https://arstechnica.com/culture/2024/11/silo-s2-expands-its-dystopian-world/)
+3. 3. [Are standing desks good for you? The answer is getting clearer.](https://arstechnica.com/health/2024/11/a-standing-desk-wont-improve-your-heart-health-but-it-wont-hurt-it-either/)
     
-4. 4. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
+4. 4. [These are the lasting things that Half-Life 2 gave us, besides headcrabs and crowbars](https://arstechnica.com/gaming/2024/11/these-are-the-lasting-things-that-half-life-2-gave-us-besides-headcrabs-and-crowbars/)
     
-5. 5. [As ABL Space departs launch, the 1-ton rocket wars have a clear winner](https://arstechnica.com/space/2024/11/citing-decreasing-launch-opportunities-abl-space-will-pivot-to-missile-defense/)
+5. 5. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
     
 
 Customize
