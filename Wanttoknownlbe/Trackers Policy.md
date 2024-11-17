@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/waarom-het-zolang-duurt/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/de-grootste-financiele-fraude-in-de-geschiedenis/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
