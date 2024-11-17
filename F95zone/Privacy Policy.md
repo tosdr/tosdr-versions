@@ -176,19 +176,19 @@ F95zone is an adult community where you can find tons of great adult games and c
 
 Threads
 
-216,611
+216,650
 
 Messages
 
-14,309,495
+14,311,469
 
 Members
 
-7,994,426
+7,995,717
 
 Latest member
 
-[Lifixs](https://f95zone.to/members/lifixs.8258590/)
+[Atlas Creyente](https://f95zone.to/members/atlas-creyente.8259923/)
 
 [](https://f95zone.to/)
 
@@ -205,7 +205,7 @@ This site provides links to other sites/services, and does not store any files
 * [](#top "Top")
 * [RSS](https://f95zone.to/forums/-/index.rss "RSS")
 
-Served by: \[NUMA||US\]-\[S1|12.2/11.1/10.51\] \[1933a5b2cba\] (79b5991b)
+Served by: \[NUMA||US\]-\[S1|13.53/12.7/12.28\] \[1933ba7ad95\] (21d6cca4)
 
 * [](https://twitter.com/f95zoneofficial "Twitter")
 
