@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_808711784_menu)
+ [Compartilhar](#elShareItem_1450888480_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1636299410_menu)
+ [Compartilhar](#elShareItem_69155873_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,25 +365,45 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![th7z](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256207.thumb.png.cd7682809eea6f87e88b1b060779d1be.png)](https://www.clubedohardware.com.br/profile/1256207-th7z/ "Ir ao perfil de th7z")
+    * [![Fridaloka](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256214.thumb.jpeg.ca23c2d37028d4c5e2b6af0afb21a781.jpeg)](https://www.clubedohardware.com.br/profile/1256214-fridaloka/ "Ir ao perfil de Fridaloka")
         
         0
+        
+        ["Teclado" tecla caps lock deixando letras minuscula](https://www.clubedohardware.com.br/forums/topic/1702572-teclado-tecla-caps-lock-deixando-letras-minuscula/?do=getNewComment ""Teclado"  tecla caps lock deixando letras minuscula")
+        
+        [Teclados, mouses e controles para jogos](https://www.clubedohardware.com.br/forums/forum/62-teclados-mouses-e-controles-para-jogos/ "Teclados, mouses e controles para jogos")  
+        Por [Fridaloka](https://www.clubedohardware.com.br/profile/1256214-fridaloka/ "Ir ao perfil de Fridaloka")  
+        44 minutos atrás
+        
+    * [![RM30](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/317328653_Snoopy5kb.thumb.png.1c6696b8fd313f7633fd81cb656be988.png)](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")
+        
+        0
+        
+        [Windows 10 fica lento com o tempo](https://www.clubedohardware.com.br/forums/topic/1702571-windows-10-fica-lento-com-o-tempo/?do=getNewComment "Windows 10 fica lento com o tempo")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [RM30](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")  
+        1 hora atrás
+        
+    * [![th7z](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256207.thumb.png.cd7682809eea6f87e88b1b060779d1be.png)](https://www.clubedohardware.com.br/profile/1256207-th7z/ "Ir ao perfil de th7z")
+        
+        1
         
         [Tela chuvisca ao iniciar Windows.](https://www.clubedohardware.com.br/forums/topic/1702570-tela-chuvisca-ao-iniciar-windows/?do=getNewComment "Tela chuvisca ao iniciar Windows.")
         
         [Outros problemas de hardware](https://www.clubedohardware.com.br/forums/forum/125-outros-problemas-de-hardware/ "Outros problemas de hardware")  
         Por [th7z](https://www.clubedohardware.com.br/profile/1256207-th7z/ "Ir ao perfil de th7z")  
-        18 minutos atrás
+        6 horas atrás
         
     * [![Leandro Max](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256206.thumb.jpeg.35e3577e45eea2ad04093e280a26eabd.jpeg)](https://www.clubedohardware.com.br/profile/1256206-leandro-max/ "Ir ao perfil de Leandro Max")
         
-        0
+        2
         
-        [MSI Mag A650bn ou Gamdias 750w?](https://www.clubedohardware.com.br/forums/topic/1702569-msi-mag-a650bn-ou-gamdias-750w/?do=getNewComment "MSI Mag A650bn ou Gamdias 750w?")
+        [Fonte para Ryzen 5 5600 e Radeon RX 7600: MSI MAG A650BN ou Gamdias 750W?](https://www.clubedohardware.com.br/forums/topic/1702569-fonte-para-ryzen-5-5600-e-radeon-rx-7600-msi-mag-a650bn-ou-gamdias-750w/?do=getNewComment "Fonte para Ryzen 5 5600 e Radeon RX 7600: MSI MAG A650BN ou Gamdias 750W?")
         
         [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
         Por [Leandro Max](https://www.clubedohardware.com.br/profile/1256206-leandro-max/ "Ir ao perfil de Leandro Max")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Voryo](https://lh3.googleusercontent.com/-d4ck3sTlNSY/AAAAAAAAAAI/AAAAAAAAAFY/vSiRKF5X-Dk/photo.jpg)](https://www.clubedohardware.com.br/profile/922541-voryo/ "Ir ao perfil de Voryo")
         
@@ -393,27 +413,27 @@ Mais opções...
         
         [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
         Por [Voryo](https://www.clubedohardware.com.br/profile/922541-voryo/ "Ir ao perfil de Voryo")  
-        2 horas atrás
+        8 horas atrás
         
     * [![Danil0](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1178519.thumb.jpeg.e35d597a47493afc1c0fd38437048795.jpeg)](https://www.clubedohardware.com.br/profile/1178519-danil0/ "Ir ao perfil de Danil0")
         
-        0
+        1
         
         [Gigabyte Aorus Waterforce X240 vale a pena para Ryzen 9 5900X?](https://www.clubedohardware.com.br/forums/topic/1702567-gigabyte-aorus-waterforce-x240-vale-a-pena-para-ryzen-9-5900x/?do=getNewComment "Gigabyte Aorus Waterforce X240 vale a pena para Ryzen 9 5900X?")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
         Por [Danil0](https://www.clubedohardware.com.br/profile/1178519-danil0/ "Ir ao perfil de Danil0")  
-        3 horas atrás
+        9 horas atrás
         
     * [![marcosph1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/e43728371658626020b1f2f327447787.thumb.jpg.908bac3458d47714d96d5f5966e4a6b7.jpg)](https://www.clubedohardware.com.br/profile/1249751-marcosph1/ "Ir ao perfil de marcosph1")
         
-        0
+        1
         
         [O gabinete Mancer Hexer é uma boa opção e comporta meu hardware?](https://www.clubedohardware.com.br/forums/topic/1702566-o-gabinete-mancer-hexer-%C3%A9-uma-boa-op%C3%A7%C3%A3o-e-comporta-meu-hardware/?do=getNewComment "O gabinete Mancer Hexer é uma boa opção e comporta meu hardware?")
         
         [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
         Por [marcosph1](https://www.clubedohardware.com.br/profile/1249751-marcosph1/ "Ir ao perfil de marcosph1")  
-        4 horas atrás
+        10 horas atrás
         
     * [![Joaozinho_11](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256200.thumb.jpeg.8980d1255bcac5b94e03fba002efca00.jpeg)](https://www.clubedohardware.com.br/profile/1256200-joaozinho_11/ "Ir ao perfil de Joaozinho_11")
         
@@ -423,7 +443,7 @@ Mais opções...
         
         [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
         Por [Joaozinho\_11](https://www.clubedohardware.com.br/profile/1256200-joaozinho_11/ "Ir ao perfil de Joaozinho_11")  
-        4 horas atrás
+        10 horas atrás
         
     * [![Zalgo](https://www.clubedohardware.com.br/uploads/members/monthly_2023_12/6cc96b4da52fb8d960ae74cc7f5face1.thumb.jpg.b274a5392b7d93c7ab9be42615dd7e87.jpg)](https://www.clubedohardware.com.br/profile/1235395-zalgo/ "Ir ao perfil de Zalgo")
         
@@ -433,7 +453,7 @@ Mais opções...
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Zalgo](https://www.clubedohardware.com.br/profile/1235395-zalgo/ "Ir ao perfil de Zalgo")  
-        4 horas atrás
+        10 horas atrás
         
     * [![Arthur Guillermo](https://www.clubedohardware.com.br/uploads/members/monthly_2023_04/urso.thumb.jpg.d047fed37b67b9aa76dff93decf5fc26.jpg)](https://www.clubedohardware.com.br/profile/985081-arthur-guillermo/ "Ir ao perfil de Arthur Guillermo")
         
@@ -443,27 +463,7 @@ Mais opções...
         
         [C/C#/C++](https://www.clubedohardware.com.br/forums/forum/177-ccc/ "C/C#/C++")  
         Por [Arthur Guillermo](https://www.clubedohardware.com.br/profile/985081-arthur-guillermo/ "Ir ao perfil de Arthur Guillermo")  
-        5 horas atrás
-        
-    * [![nextboy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/a0c71107032b89503dbba924354f060a.thumb.jpg.8ba450d07a6b6028f4a11d437ba37400.jpg)](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")
-        
-        10
-        
-        [O que vale mais a pena? RTX 3060, RTX 4060, RX 6650 XT ou RX 7600?](https://www.clubedohardware.com.br/forums/topic/1702562-o-que-vale-mais-a-pena-rtx-3060-rtx-4060-rx-6650-xt-ou-rx-7600/?do=getNewComment "O que vale mais a pena? RTX 3060, RTX 4060, RX 6650 XT ou RX 7600?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [nextboy](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")  
-        6 horas atrás
-        
-    * [![Eva Kyqi](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256190-eva-kyqi/ "Ir ao perfil de Eva Kyqi")
-        
-        0
-        
-        [Processador ou placa-mãe morrendo?](https://www.clubedohardware.com.br/forums/topic/1702561-processador-ou-placa-m%C3%A3e-morrendo/?do=getNewComment "Processador ou placa-mãe morrendo?")
-        
-        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
-        Por [Eva Kyqi](https://www.clubedohardware.com.br/profile/1256190-eva-kyqi/ "Ir ao perfil de Eva Kyqi")  
-        6 horas atrás
+        11 horas atrás
         
     
 
