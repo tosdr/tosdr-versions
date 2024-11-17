@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_5.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -169,6 +169,48 @@
 
 |     |     |
 | --- | --- |
+| Для прессы<br><br>[Новые вкусные идеи. РИС по-необычному (32)](https://www.russianfood.com/reading/?post_id=22889) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/634/sm_633715.jpg)](https://www.russianfood.com/reading/?post_id=22889)
+
+Рис с сосисками и зелёным горошком. Рисовая запеканка с печенью и яблоком. Рис со свиными ребрышками. Рис с фрикадельками и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22889)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22889#comments) | 17.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[По-осеннему уютные. Лучшие СЛАДОСТИ №24-46](https://www.russianfood.com/reading/?post_id=22888) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/744/sm_743546.jpg)](https://www.russianfood.com/reading/?post_id=22888)
+
+Песочный пирог с яблоками и заварным кремом. Крамбл с грушей и орехами. Бисквитный пирог с клюквой. Творожный пирог с грушами. Рулет из запечённого блина с творогом. Слойки с яблоками и тыквой. Мягкое печенье с яблоками.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22888)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22888#comments) | 17.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[5 причин приготовить новый салат. Время САЛАТОВ (151)](https://www.russianfood.com/reading/?post_id=22887) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723838.jpg)](https://www.russianfood.com/reading/?post_id=22887)
+
+Салат с тунцом, овощами и маслинами. Салат с курицей и помело. Салат с помидорами, авокадо и сельдереем. Салат с беконом и грибами. Салат с грибами, сыром и морковью.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22887)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22887#comments) | 17.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Аккуратная, ароматная, на вкус невероятная. Лучшая ВЫПЕЧКА №24-46](https://www.russianfood.com/reading/?post_id=22883) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/724/sm_723095.jpg)](https://www.russianfood.com/reading/?post_id=22883)
@@ -263,7 +305,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174636#comments) | 14.11.24 |     |
+|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174636#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -277,7 +319,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174563#comments) | 14.11.24 |     |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174563#comments) | 14.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -334,48 +376,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174634#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп с фасолью, ветчиной и сельдереем](https://www.russianfood.com/recipes/recipe.php?rid=174573) |     |
-
-[![Фото к рецепту: Суп с фасолью, ветчиной и сельдереем](//img1.russianfood.com/dycontent/images_upl/751/sm_750704.jpg "Фото к рецепту: Суп с фасолью, ветчиной и сельдереем")](https://www.russianfood.com/recipes/recipe.php?rid=174573)
-
-Фасоль для этого супа используется консервированная - она уже готова к употреблению, что сокращает время, проведенное на кухне. Ветчина делает вкус супа более насыщенным, а сельдерей и чеснок придают особый аромат. В итоге получается сытное и вкусное блюдо для быстрого обеда.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174573)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174573#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Солянка с фасолью, колбасой и ветчиной](https://www.russianfood.com/recipes/recipe.php?rid=174635) |     |
-
-[![Фото к рецепту: Солянка с фасолью, колбасой и ветчиной](//img1.russianfood.com/dycontent/images_upl/751/sm_750684.jpg "Фото к рецепту: Солянка с фасолью, колбасой и ветчиной")](https://www.russianfood.com/recipes/recipe.php?rid=174635)
-
-Солянка с фасолью, колбасой и ветчиной. Густой, наваристый и очень ароматный суп будет готов всего за полчаса.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174635)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174635#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Несложно, понятно и вкусно. Лучшие рецепты для начинающих №24-46](https://www.russianfood.com/reading/?post_id=22874) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/750/sm_749965.jpg)](https://www.russianfood.com/reading/?post_id=22874)
-
-Мясные рулетики с ананасами и яблоками. Отбивные из куриного филе в сырном кляре. Картофель с луком и сметанно-чесночным соусом. Куриное филе с грибами и ананасами. Рис с мясом, грибами и яйцами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22874)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты для начинающих](https://www.russianfood.com/blogs/?id=338566) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22874#comments) | 14.11.24 |     |
 
 |     |
 | --- |
@@ -458,3 +458,5 @@
 [![Рейтинг@Mail.ru](//top-fwz1.mail.ru/counter?id=1447532;t=452;l=1)](http://top.mail.ru/jump?from=1447532)       
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
+
+(163)
