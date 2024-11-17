@@ -320,15 +320,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Fred and George Weasley were born on April Fools’ Day.
+There are ten different species of dragons in the magical world of Harry Potter.
 
 ### Potter History
 
-November 18, 2005 – Harry Potter and the Goblet of Fire film is released in the United States and United Kingdom, receiving positive reviews from critics and fans alike.
+March 7, 2006 – The Harry Potter and the Goblet of Fire DVD is released in the United States and Canada.
 
 ### Potter Quote
 
-“Honestly, if you were any slower, you’d be going backward.”
+“But you’re Muggles! We must have a drink! What’s that you’ve got there? Oh, you’re changing Muggle money. Molly, look!”
 
 [](#)
 
