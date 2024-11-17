@@ -110,23 +110,23 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 * No article
 
-[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280b.jpg)](https://accesstra.de/0050f1000ymk)
+[![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
 
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder-00-150x150.jpg)
-    
-    "TACTICAL ASSAULT COMMANDER F14 FINAL FANTASY XIV EDITION"](https://saiganak.com/product/tactical-assault-commander-f14-finalfantasy-xiv-edition-preorder/)
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/02/redbull-purple-edition-standard-products-00-150x150.jpg)
-    
-    "Red Bull Purple Edition" is now a standard product! Now available outside of vending machines!](https://saiganak.com/product/redbull-purple-edition-standard-products/)
 * [![【Showdown Edition】Review ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/neogeo-arcade-stick-pro-use-impression-00-1-150x150.jpg "【Showdown Edition】Review ")
     
     【Showdown Edition】Review "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-use-impression/ "【Showdown Edition】Review ")
-* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/redbull-white-edition-00-150x150.jpg)
+* [![Coca-Cola energy drinks are here! How is the taste?](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/cocacola-energy-0-150x150.jpg "Coca-Cola energy drinks are here! How is the taste?")
     
-    "RedBull THE WHITE EDITION Fresh Breeze" limited term appeared!](https://saiganak.com/review/redbull-te-white-edition-fresh-breeze/)
-* [![Chainsaw Man × ZONe！Collaboration New ](https://i0.wp.com/saiganak.com/wp-content/uploads/2022/09/chainsaw-man-collabo-zone-blood-release-00-150x150.jpg "Chainsaw Man × ZONe！Collaboration New ")
+    Coca-Cola energy drinks are here! How is the taste?](https://saiganak.com/review/cocacola-energy-review/ "Coca-Cola energy drinks are here! How is the taste?")
+* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
     
-    Chainsaw Man × ZONe！Collaboration New "ZONe BLOOD" On Sale!](https://saiganak.com/product/chainsawman-collabo-zone-blood-release/ "Chainsaw Man × ZONe！Collaboration New ")
+    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
+* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+    
+    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
+* [![SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/12/snk-okinawa-charity-tshirt-00-150x150.jpg "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
+    
+    SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://saiganak.com/product/snk-okinawa-charity-tshirt/ "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
 
 [](#top)
 
