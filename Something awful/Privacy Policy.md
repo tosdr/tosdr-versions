@@ -205,26 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [What Is The Meaning Of This Face?](https://www.somethingawful.com/news/batman-catwoman-face/)
-* [Video Game Heroes Gone Bad](https://www.somethingawful.com/photoshop-phriday/video-game-heroes/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Tower Wars: Episode One](https://www.somethingawful.com/photoshop-phriday/star-wars-911/1/)
-* [Beautiful Faces of Lovemaking](https://www.somethingawful.com/horrors-of-porn/beautiful-faces-lovemaking/1/)
+* [Warhammer 40,000 Core Rules (5th Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-warhammer-40k/1/)
+* [The Art of Werewolf: The Apocalypse (1990s)](https://www.somethingawful.com/dungeons-and-dragons/werewolf-bad-art/1/)
+* [Movie Title Mix-Up!](https://www.somethingawful.com/photoshop-phriday/movie-title-mixup/1/)
+* [Failed Children's Toys](https://www.somethingawful.com/news/failed-childrens-toys/)
+* [Rifts: Core Book](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-rifts/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [What should I have for dinner?](http://forums.somethingawful.com/showthread.php?threadid=4075439 "What should I have for dinner?")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-slayer.gif) [Mike Tyson vs. Jacke Paul](http://forums.somethingawful.com/showthread.php?threadid=4075441 "Mike Tyson vs. Jacke Paul")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
 * ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Do you try to choose an appropriate "post icon" for your threads?](http://forums.somethingawful.com/showthread.php?threadid=4075485 "Do you try to choose an appropriate  "post icon" for your threads?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
 
 ### Random Articles
 
-* [Memos from Bear Cave](https://www.somethingawful.com/news/bear-cave-soup/)
-* [Ghosts!](https://www.somethingawful.com/comedy-goldmine/ghosts/1/)
-* [Slurmania](https://www.somethingawful.com/weekend-web/slurmania/)
-* [Rick and Sidney](https://www.somethingawful.com/awful-links/awful-link-3449/)
-* [Pregnancy Products!](https://www.somethingawful.com/awful-things-sale/pregnancy-products/)
+* [Gilligan's Island](https://www.somethingawful.com/rom-pit/gilligans-island/)
+* [Ghosts of Jan's Courtyard](https://www.somethingawful.com/awful-links/awful-link-1121/)
+* [Galgameth](https://www.somethingawful.com/movie-reviews/galgameth/1/)
+* [OHHHHHH YYEEEEEAH! The Macho Man Warned You About Hulk Hogan](https://www.somethingawful.com/news/hulk-hogan-racist/)
+* [Welcome to Mcdonalds. May I take your order?](https://www.somethingawful.com/news/welcome-mcdonalds-may/)
 
 [Random!](https://www.somethingawful.com/random/)
 
