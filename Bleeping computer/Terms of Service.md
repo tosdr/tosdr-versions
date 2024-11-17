@@ -23,18 +23,18 @@
     * [Featured](#nfeatured)
     * [Latest](#nlatest)
     
-    * [![Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 89 flaws](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![Microsoft pulls Exchange security updates over mail delivery issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 89 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-89-flaws/)
-    * [![Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft pulls Exchange security updates over mail delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-exchange-security-updates-over-mail-delivery-issues/)
+    * [![GitHub projects targeted with malicious commits to frame researcher](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Microsoft fixes bugs causing Windows Server 2025 blue screens, install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bugs-causing-windows-server-2025-blue-screens-install-issues/)
-    * [![New ShrinkLocker ransomware decryptor recovers BitLocker password](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        GitHub projects targeted with malicious commits to frame researcher](https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
+    * [![T-Mobile confirms it was hacked in recent wave of telecom breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New ShrinkLocker ransomware decryptor recovers BitLocker password](https://www.bleepingcomputer.com/news/security/new-shrinklocker-ransomware-decryptor-recovers-bitlocker-password/)
-    * [![New Google Pixel AI feature analyzes phone conversations for scams](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        T-Mobile confirms it was hacked in recent wave of telecom breaches](https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
+    * [![NSO Group used another WhatsApp zero-day after being sued, court docs say](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        New Google Pixel AI feature analyzes phone conversations for scams](https://www.bleepingcomputer.com/news/google/new-google-pixel-ai-feature-analyzes-phone-conversations-for-scams/)
+        NSO Group used another WhatsApp zero-day after being sued, court docs say](https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/)
     
     * [![Fake AI video generators infect Windows, macOS with infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
@@ -355,12 +355,12 @@ Popular Stories
 * [![Data theft data breach hacker cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     New Glove infostealer malware bypasses Chrome’s cookie encryption](https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/)
-* [![Data Leak](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Leaked info of 122 million linked to B2B data aggregator breach](https://www.bleepingcomputer.com/news/security/leaked-info-of-122-million-linked-to-b2b-data-aggregator-breach/)
-* [![Windows](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    CISA warns of more Palo Alto Networks bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
+* [![Payment Cards](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Microsoft patches Windows zero-day exploited in attacks on Ukraine](https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-exploited-in-attacks-on-ukraine/)
+    Fraud network uses 4,700 fake shopping sites to steal credit cards](https://www.bleepingcomputer.com/news/security/fraud-network-uses-4-700-fake-shopping-sites-to-steal-credit-cards/)
 
 ##### Follow us:
 
