@@ -95,7 +95,7 @@ Menu
     
     *  [![](/files/live/sites/algolia-assets/files/nav/description_FILL1_wght400_GRAD0_opsz48_1_1.svg) Algolia Blog](https://www.algolia.com/blog)
     *  [![](/files/live/sites/algolia-assets/files/nav/folder_open_FILL1_wght400_GRAD0_opsz48_1_1.svg) Resource Center](https://resources.algolia.com/)
-    *  [![](/files/live/sites/algolia-assets/files/nav/contacts_FILL1_wght400_GRAD0_opsz48_1_1.svg) Customer Stories](https://www.algolia.com/customer-landing-page/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/contacts_FILL1_wght400_GRAD0_opsz48_1_1.svg) Customer Stories](https://www.algolia.com/customers)
     
     ###### LEARN
     
