@@ -137,69 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![SlowCheetah](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1611112-1709747394.png)](https://lyricstranslate.com/en/translator/slowcheetah "SlowCheetah")
-
-New translation
-
-[Linkin Park - Stained](https://lyricstranslate.com/en/linkin-park-stained-french)
-
-English → French
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
+[![Voldimeris](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1243895-1697899330.jpg)](https://lyricstranslate.com/en/translator/voldimeris "Voldimeris")
 
 New song
 
-[Hugues Aufray - San Miguel](https://lyricstranslate.com/en/hugues-aufray-san-miguel-lyrics)
+[Дуняша Style - Эх, чун](https://lyricstranslate.com/en/dunyasha-style-eh-chun-lyrics)
 
-French
+Chuvash
 
-[![sandalia](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1607618-1707125848.jpg)](https://lyricstranslate.com/en/translator/sandalia "sandalia")
+[![beetleboy](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1595903-1730109763.jpg)](https://lyricstranslate.com/en/translator/beetleboy "beetleboy")
+
+New vote
+
+[Kaum Kummervoll](https://lyricstranslate.com/en/midland-barely-blue-german)
+
+5
+
+[![Pietro Lignola](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361061-1568016170.jpg)](https://lyricstranslate.com/en/translator/pietro-lignola "Pietro Lignola")
 
 New translation
 
-[Léo Ferré - À vendre](https://lyricstranslate.com/en/leo-ferre-vendre-italian)
+[Carlos Gardel - Muñeca Brava](https://lyricstranslate.com/en/carlos-gardel-muneca-brava-neapolitan)
 
-French → Italian
+Spanish → Neapolitan
 
-[![김태태](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1339838-1496064240.jpg)](https://lyricstranslate.com/en/translator/%EA%B9%80%ED%83%9C%ED%83%9C "김태태")
+[![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
-New translation
+New song
 
-[Amirchik - Кандай](https://lyricstranslate.com/en/amirchik-kanday-russian)
-
-Kyrgyz → Russian
-
-[![Salve a Selva](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1198192-1665650219.png)](https://lyricstranslate.com/en/translator/salve-selva "Salve a Selva")
-
-New request
-
-[Hugues Aufray - Dou Wakadou](https://lyricstranslate.com/en/request/dou-wakadou)
-
-French → English
-
-[![Sherly Sherly](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1523263-1702619033.png)](https://lyricstranslate.com/en/translator/sherly-sherly "Sherly Sherly")
-
-New transcription request
-
-[Marta Knight - Blood On The Way](https://lyricstranslate.com/en/marta-knight-blood-way)
+[Frank Sinatra - Sunny](https://lyricstranslate.com/en/frank-sinatra-sunny-lyrics)
 
 English
 
-[![Frog](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1271442-1631025238.jpg)](https://lyricstranslate.com/en/translator/frog "Frog")
+[![蟻食](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1552355-1706257042.jpg)](https://lyricstranslate.com/en/translator/%E8%9F%BB%E9%A3%9F "蟻食")
+
+New annotation
+
+mój  [more](https://lyricstranslate.com/en/node/4867225)
+
+[![Mohamed Zaki](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1550128-1717144476.jpg)](https://lyricstranslate.com/en/translator/mohamed-zaki "Mohamed Zaki")
 
 New translation
 
-[Aiko (CZ) - Naivní](https://lyricstranslate.com/en/aiko-cz-naivni-english)
+[Arabic Children's Songs - آرام سام سام (Aram Sam Sam)](https://lyricstranslate.com/en/arabic-childrens-so-aram-sam-sam-aram-sam-sa-transliteration)
 
-Czech → English
+Arabic (Maghrebi) → Transliteration
 
-[![Noelia Corso](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637124-1731666854.png)](https://lyricstranslate.com/en/translator/noelia-corso "Noelia Corso")
+[![Niepopularny](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637335-1731849982.jpg)](https://lyricstranslate.com/en/translator/niepopularny "Niepopularny")
 
 New translation
 
-[Nirvana - Oh, me](https://lyricstranslate.com/en/nirvana-oh-me-spanish)
+[Gilles Servat - Dir Ha Tan](https://lyricstranslate.com/en/gilles-servat-dir-ha-tan-polish)
 
-English → Spanish
+Breton → Polish
+
+[![Maxi1310](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614539-1712640209.png)](https://lyricstranslate.com/en/translator/maxi1310 "Maxi1310")
+
+New translation
+
+[Arctic Monkeys - Riot Van](https://lyricstranslate.com/en/arctic-monkeys-riot-van-german)
+
+English → German
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
