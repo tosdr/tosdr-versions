@@ -109,63 +109,67 @@ Site activity
 
 [![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
-New comment
-
-A pleasure is mine.. Hebrew songs are like friends  [more](https://lyricstranslate.com/en/comment/1176228#comment-1176228)
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
-
-Transcription request fulfilled
-
-[Quelques minutes de publicité](https://lyricstranslate.com/en/marlene-jobert-quelques-minutes-de-publi-lyrics)
-
-French
-
-[![Elian E.](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/elian-e "Elian E.")
-
 New song
 
-[Marlène Jobert - Quelques minutes de publicité](https://lyricstranslate.com/en/marlene-jobert-quelques-minutes-de-publi-lyrics)
+[Patricia Kelly - Goodbye](https://lyricstranslate.com/en/patricia-kelly-goodbye-lyrics)
 
-French
+English
 
 [![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
 
-New translation
+New song
 
-[Damien Jurado - Sheets](https://lyricstranslate.com/en/damien-jurado-sheets-japanese)
+[Patricia Kelly - We're Gonna Be Okay](https://lyricstranslate.com/en/patricia-kelly-were-gonna-be-okay-lyrics)
 
-English → Japanese
+English
 
-[![Mgielka](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1493621-1616014740.jpg)](https://lyricstranslate.com/en/translator/mgielka "Mgielka")
+[![UnaDripper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1541537-1706219329.jpg)](https://lyricstranslate.com/en/translator/unadripper "UnaDripper")
 
 New song
 
-[Vincent Gross - Du träumst nur](https://lyricstranslate.com/en/vincent-gross-du-traumst-nur-lyrics)
+[who28 - Dia](https://lyricstranslate.com/en/who28-dia-lyrics)
 
-German
+English
 
-[![Servant Captain](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1636343-1731031301.png)](https://lyricstranslate.com/en/translator/servant-captain "Servant Captain")
-
-New comment
-
-Thankkkk youuuuu veryyyy muchhhh for thisssss!   [more](https://lyricstranslate.com/en/comment/1176226#comment-1176226)
-
-[![birkışakşamı](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1626001-1731410912.jpg)](https://lyricstranslate.com/en/translator/birk%C4%B1%C5%9Fak%C5%9Fam%C4%B1 "birkışakşamı")
-
-New request
-
-[ATEEZ - Ice On My Teeth](https://lyricstranslate.com/en/request/ice-my-teeth)
-
-English → Turkish
-
-[![Mladen Racic](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1584085-1690521459.jpg)](https://lyricstranslate.com/en/translator/mladen-racic "Mladen Racic")
+[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
 
 New translation
 
-[The Human League - Louise](https://lyricstranslate.com/en/human-league-louise-serbian)
+[Younghearted - Sun numero](https://lyricstranslate.com/en/younghearted-sun-numero-french)
 
-English → Serbian
+Finnish → French
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Patricia Kelly - Your Grace](https://lyricstranslate.com/en/patricia-kelly-your-grace-lyrics)
+
+English
+
+[![cph1776](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cph1776 "cph1776")
+
+New translation
+
+[Charlotte Perrelli - Tusen och en natt](https://lyricstranslate.com/en/charlotte-perrelli-tusen-och-en-natt-italian)
+
+Swedish → Italian
+
+[![UnaDripper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1541537-1706219329.jpg)](https://lyricstranslate.com/en/translator/unadripper "UnaDripper")
+
+New translation
+
+[who28 - wait4me (Wait 4 Me)](https://lyricstranslate.com/en/who28-wait-4-me-english)
+
+English → English
+
+[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+
+New song
+
+[Patricia Kelly - Don't Lose Hope](https://lyricstranslate.com/en/patricia-kelly-dont-lose-hope-lyrics)
+
+English
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
