@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to restore a backup to Google Cloud Stora ...](https://www.backup4all.com/how-to-restore-a-backup-to-google-cloud-storage-kb.html)  
+* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
     
-* [How to back up data files from Walrus using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-walrus-using-backup4all-kb.html)  
+* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
     
-* [How to back up data without using zip compres ...](https://www.backup4all.com/how-to-back-up-data-without-using-zip-compression-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [How to activate Backup4all manually](https://www.backup4all.com/how-to-activate-backup4all-manually-kb.html)  
+* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
     
-* [How to back up data files from Scality using ...](https://www.backup4all.com/how-to-back-up-data-files-from-scality-using-backup4all-kb.html)  
+* [How to create a new task using Windows Task S ...](https://www.backup4all.com/how-to-create-a-new-task-using-windows-task-scheduler-kb.html)  
     
 
 Choose language:
