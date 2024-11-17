@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Earliest Evidence of Humans Using Fire](https://www.sciencedaily.com/releases/2024/11/241116195644.htm)
 * [Egyptians Drank Hallucinogenic Cocktails](https://www.sciencedaily.com/releases/2024/11/241115124633.htm)
 * [Scientific Thought On Emotions in Animals](https://www.sciencedaily.com/releases/2024/11/241114161428.htm)
 * [Genetic 'Switch' Behind Parrot Color Diversity](https://www.sciencedaily.com/releases/2024/11/241115125034.htm)
@@ -217,7 +218,6 @@ this hour
 * [AI Headphones Create a 'Sound Bubble'](https://www.sciencedaily.com/releases/2024/11/241114161302.htm)
 * [Backyard Birds Learn from New Neighbors](https://www.sciencedaily.com/releases/2024/11/241114161140.htm)
 * [4 Policies to Eliminate 90% of Plastic Waste](https://www.sciencedaily.com/releases/2024/11/241114161138.htm)
-* [Capturing 'Hot' CO2 from Industrial Exhaust](https://www.sciencedaily.com/releases/2024/11/241114161135.htm)
 
 Trending Topics
 ---------------
@@ -228,11 +228,11 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
+
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
 [Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
-
-[Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
