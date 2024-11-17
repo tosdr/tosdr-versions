@@ -1,6 +1,6 @@
 top of page
 
-[![Size Healthy Fitness Gym Logo in Jacksonville NC](https://static.wixstatic.com/media/4bb8d0_904c589e1e484160afb5ec23ec389dfa~mv2.png/v1/fill/w_177,h_121,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/size%2520healthy%25204-03.png)](https://www.sizehealthyfitness.com/)
+[![Size Healthy Fitness Gym Logo in Jacksonville NC](https://static.wixstatic.com/media/4bb8d0_904c589e1e484160afb5ec23ec389dfa~mv2.png/v1/fill/w_177,h_121,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/size%2520healthy%25204-03.png)](https://www.sizehealthyfitness.com/)
 
 * About Us
     
