@@ -30,14 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5682ae55-7fbf-4758-a677-35df681ff0b8/20241116T040925/5682ae55-7fbf-4758-a677-35df681ff0b8_360x203.jpg)](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
         
-        #### [Former Moline Marooners Brock Harding, Owen Freeman return home for Iowa vs. Washington game](https://www.wqad.com/article/news/community/iowa-hawkeyes-washington-state-moline-quad-cities-homecoming-owen-freeman-brock-harding/526-223740aa-c795-4bb7-8687-7cc91c126509)
+        #### [17-year-old killed in Johnson County crash, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
+        #### [Teenager killed in crash near Coralville, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
+    *  [![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_360x203.jpg)](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
         
-        #### [Get your home ready for the winter this weekend before cooler temps arrive](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
+        #### [70-year-old woman hit, killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64) [![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_360x203.jpg)](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
         
+        #### [Woman killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -56,9 +58,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b1bf7abc-3330-4cbc-89ab-92d063e91eeb/20241116T132101/b1bf7abc-3330-4cbc-89ab-92d063e91eeb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1bf7abc-3330-4cbc-89ab-92d063e91eeb/20241116T132101/b1bf7abc-3330-4cbc-89ab-92d063e91eeb_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e/20241117T130727/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e/20241117T130727/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Slight shower chances on Sunday, and widespread rain is on track for Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A few showers by Sunday afternoon; Widespread soaking rain with thunder likely Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
         
@@ -86,9 +88,9 @@ Navigation
 
 Davenport, IA »
 
-49°
+54°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
