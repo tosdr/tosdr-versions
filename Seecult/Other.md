@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd/ana-mrdjetko-ii-mastera.jpg?itok=UQr5yQVG)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20122013)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/marko-ubovic/marko-ubovic.jpg?itok=fiWbNiOQ)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/marko-ubovic)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara/trese-lupa-udara-038.?itok=f8vFE_js)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/trese-lupa-udara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/progresivne-nade-4/nina-simonovic.jpg?itok=XPsnrI0W)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/progresivne-nade-4)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,6 +444,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Dani srpskog filma u Helsinkiju](http://seecult.org/vest/dani-srpskog-filma-u-helsinkiju)
 * [Glas promena koji podstiče kritičko razmišljanje](http://seecult.org/vest/glas-promena-koji-podstice-kriticko-razmisljanje)
 * [Ples, otpor, (ne)rad](http://seecult.org/vest/ples-otpor-nerad)
 * [Mladi i digitalno doba](http://seecult.org/vest/mladi-i-digitalno-doba)
@@ -453,18 +454,17 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Eksperimentisanje tradicijom](http://seecult.org/vest/eksperimentisanje-tradicijom)
 * [Jubilarni, 10. Festival nezavisnog američkog filma](http://seecult.org/vest/jubilarni-10-festival-nezavisnog-americkog-filma)
 * [Minut ćutanja za 14 žrtava](http://seecult.org/vest/minut-cutanja-za-14-zrtava)
-* [Nihad Nino Pušija - U potrazi za Eldoradom](http://seecult.org/vest/nihad-nino-pusija-u-potrazi-za-eldoradom)
 
 * [Konkursi](#tab1_1)
 
+* [Produžen rok za konkurs Press Photo Srbija 2024.](http://seecult.org/konkurs/produzen-rok-za-konkurs-press-photo-srbija-2024)
 * [Konkurs za dodelu nagrade Zadužbine Đoke Vlajkovića](http://seecult.org/konkurs/konkurs-za-dodelu-nagrade-zaduzbine-doke-vlajkovica)
 * [Konkurs za filmove za 72. Martovski festival](http://seecult.org/konkurs/konkurs-za-filmove-za-72-martovski-festival)
 * [Konkurs za izlaganje na prodajnoj izložbi Pod mojom suknjom](http://seecult.org/konkurs/konkurs-za-izlaganje-na-prodajnoj-izlozbi-pod-mojom-suknjom)
 * [Konkurs Galerije SKC Kragujevac za 2025.](http://seecult.org/konkurs/konkurs-galerije-skc-kragujevac-za-2025)
+* [Konkurs Press Photo Srbija 2024.](http://seecult.org/konkurs/konkurs-press-photo-srbija-2024)
 * [Konkurs za izlaganje u Galeriji Kuće legata u 2025.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-kuce-legata-u-2025)
 * [Konkurs Memorijalne galerije Dušan Starčević za 2025.](http://seecult.org/konkurs/konkurs-memorijalne-galerije-dusan-starcevic-za-2025)
-* [Konkurs za predstavnika Srbije na 19. Bijenalu arhitekture u Veneciji 2025.](http://seecult.org/konkurs/konkurs-za-predstavnika-srbije-na-19-bijenalu-arhitekture-u-veneciji-2025)
-* [Konkurs za izlaganje u Galeriji SULUV u 2025. godini.](http://seecult.org/konkurs/konkurs-za-izlaganje-u-galeriji-suluv-u-2025-godini)
 
 * [Kritika](#tab2_1)
 
