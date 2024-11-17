@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![How much is a mormon church sex abuse settlement worth?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "How Much Is a Mormon Church Sex Abuse Settlement Worth?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/ "How Much Is a Mormon Church Sex Abuse Settlement Worth?")
+[![What are the symptoms of stage 4 lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-symptoms-of-stage-4-lung-cancer.jpg "What Are the Symptoms of Stage 4 Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/ "What Are the Symptoms of Stage 4 Lung Cancer?")
 
-[#### How Much Is a Mormon Church Sex Abuse Settlement Worth?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/)
+[#### What Are the Symptoms of Stage 4 Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/what-are-the-symptoms-of-stage-4-lung-cancer/)
 
-[![How quickly does lung cancer develop?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-quickly-does-lung-cancer-develop.jpg "How Quickly Does Lung Cancer Develop?")](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/ "How Quickly Does Lung Cancer Develop?")
+[![Is mesothelioma a type of lung cancer?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-is-mesothelioma-a-type-of-lung-cancer.jpg "Is Mesothelioma a Type of Lung Cancer?")](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/ "Is Mesothelioma a Type of Lung Cancer?")
 
-[#### How Quickly Does Lung Cancer Develop?](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/)
+[#### Is Mesothelioma a Type of Lung Cancer?](https://www.pintas.com/lung-cancer/is-mesothelioma-a-type-of-lung-cancer/)
 
-[![Why were johnson & johnson’s baby products banned?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-were-johnsons-baby-products-banned.jpg "Why Were Johnson & Johnson’s Baby Products Banned?")](https://www.pintas.com/talcum-powder/why-were-johnson-and-johnsons-baby-products-banned/ "Why Were Johnson & Johnson’s Baby Products Banned?")
+[![Can lung cancer be seen on a ct scan?](https://www.pintas.com/wp-content/uploads/2020/11/failure-to-diagnose-lung-cancer-can-lung-cancer-be-seen-on-a-ct-scan.jpg "Can Lung Cancer Be Seen on a CT Scan?")](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/ "Can Lung Cancer Be Seen on a CT Scan?")
 
-[#### Why Were Johnson & Johnson’s Baby Products Banned?](https://www.pintas.com/talcum-powder/why-were-johnson-and-johnsons-baby-products-banned/)
+[#### Can Lung Cancer Be Seen on a CT Scan?](https://www.pintas.com/practice-areas/lung-cancer/can-lung-cancer-be-seen-on-a-ct-scan/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Phone
 
 This field is for validation purposes and should be left unchanged.
 
