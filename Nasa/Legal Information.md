@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-
 
 ### Dynamic Spin Rig Publications
 
-article 22 hours ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+article 23 hours ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
