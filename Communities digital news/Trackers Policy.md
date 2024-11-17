@@ -26,9 +26,9 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-matthews-1200x630.jpg)](https://americanwirenews.com/fmr-trump-spox-says-hes-drunk-on-power-over-nominations-not-some-4d-game-of-chess/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-milley-afghan-withdrawal-1200x630.jpg)](https://americanwirenews.com/trump-transition-team-eyeing-possible-court-martials-of-us-military-officers-involved-in-afghan-exit-report/)
 
-[Fmr. Trump spox says he’s ‘drunk on power’ over nominations: ‘Not some 4D game of chess’](https://americanwirenews.com/fmr-trump-spox-says-hes-drunk-on-power-over-nominations-not-some-4d-game-of-chess/)
+[Trump transition team eyeing possible courts-martial of US military officers involved in Afghan exit: report](https://americanwirenews.com/trump-transition-team-eyeing-possible-court-martials-of-us-military-officers-involved-in-afghan-exit-report/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-uofr-1200-x-628-1200x630.jpg)](https://americanwirenews.com/university-reacts-to-wanted-posters-of-jewish-faculty-disturbing-divisive-and-intimidating/)
 
@@ -58,9 +58,11 @@ Search for:
 
 [Medical examiner insists chokehold would have killed Neely even if he was on drugs](https://americanwirenews.com/medical-examiner-insists-chokehold-would-have-killed-neely-even-if-he-was-on-drugs/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-michael-moore-2-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-trumpufcbelt-1200-x-628-1200x630.jpg)
 
-### Michael Moore lashes out at voters over Trump win: ‘We are not a good people’](https://americanwirenews.com/michael-moore-lashes-out-at-voters-over-trump-win-we-are-not-a-good-people/)
+Getty Images
+
+### Trump met with thunderous ovation in triumphant return to MSG for UFC fight night](https://americanwirenews.com/trump-met-with-thunderous-ovation-in-triumphant-return-to-msg-for-ufc-fight-night/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -77,6 +79,10 @@ Search for:
 ### [Biden regime imposes new tax on the way out the door](https://americanwirenews.com/biden-regime-imposes-new-tax-on-the-way-out-the-door/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-cnnstelter-1200-x-628-220x180.jpg)](https://americanwirenews.com/dispatch-from-clown-world-cnns-brian-stelter-has-thoughts-on-restoring-media-trust/)
+
+[Dispatch from Clown World: CNN’s Brian Stelter has thoughts on restoring media trust](https://americanwirenews.com/dispatch-from-clown-world-cnns-brian-stelter-has-thoughts-on-restoring-media-trust/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-elon-musk-5-220x180.jpg)](https://americanwirenews.com/big-advertisers-return-to-x-in-blow-to-the-censorship-regime/)
 
@@ -169,10 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-angry-democrat-220x180.jpg)](https://americanwirenews.com/dem-rep-doesnt-appreciate-mtgs-timely-clapping-as-he-tries-to-rebuke-rfk-jr/)
 
 [Dem Rep doesn’t appreciate MTG’s timely clapping as he tries to rebuke RFK Jr.](https://americanwirenews.com/dem-rep-doesnt-appreciate-mtgs-timely-clapping-as-he-tries-to-rebuke-rfk-jr/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-rfk-220x180.jpg)](https://americanwirenews.com/fearmongering-measles-and-polio-democrat-confuses-everyone-with-reaction-to-rfk-jr-nomination/)
-
-[Fearmongering ‘Measles and Polio’ Democrat confuses everyone with reaction to RFK Jr. nomination](https://americanwirenews.com/fearmongering-measles-and-polio-democrat-confuses-everyone-with-reaction-to-rfk-jr-nomination/)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
