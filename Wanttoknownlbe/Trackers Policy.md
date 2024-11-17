@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/media/de-grootste-financiele-fraude-in-de-geschiedenis/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/standing-rock-sioux-stam-behaalt-overwinning/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
