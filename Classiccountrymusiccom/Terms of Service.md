@@ -96,9 +96,9 @@ Main Menu
 
  [](https://classiccountrymusic.com/genre/traditional) [See All](https://classiccountrymusic.com/genre/traditional)
 
+* [Dolly Parton’s Older Brother, David Parton,...](https://classiccountrymusic.com/dolly-partons-older-brother-david-parton-has-died-at-82/)
 * [Brooks & Dunn Enlist Megan Moroney...](https://classiccountrymusic.com/brooks-dunn-enlist-megan-moroney-for-aint-nothing-bout-you-remake/)
 * [New George Jones Album “The Lost...](https://classiccountrymusic.com/new-george-jones-album-the-lost-nashville-sessions-available-now/)
-* [All-Star Collaborators Join Brooks & Dunn...](https://classiccountrymusic.com/all-star-collaborators-join-brooks-dunn-on-their-new-album-reboot-ii/)
 
 ![bluegrass](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
