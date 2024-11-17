@@ -93,7 +93,7 @@ Most Read
     
 4. 4. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
     
-5. 5. [I played Half-Life 2 for the first time this year—here’s how it went](https://arstechnica.com/gaming/2024/11/i-played-half-life-2-for-the-first-time-this-year-heres-how-it-went/)
+5. 5. [After working with a dual-screen portable monitor for a month, I’m a believer](https://arstechnica.com/gadgets/2024/11/after-working-with-a-dual-screen-portable-monitor-for-a-month-im-a-believer/)
     
 
 Customize
