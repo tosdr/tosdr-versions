@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Netflix responds to streaming issues during Tyson-Paul fight](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2185061368-scaled.jpg?ve=1&tl=1)
+ [![Fort Worth apartment partially collapses during fire](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111524-fw-randol-mill-apt-fire-kdfweme001_22_48_57_00.00.14.52.jpg?ve=1&tl=1)
 
- ![Netflix responds to streaming issues during Tyson-Paul fight](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185061368-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/netflix-responds-buffering-issues-tyson-paul-fight)
+ ![Fort Worth apartment partially collapses during fire](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111524-fw-randol-mill-apt-fire-kdfweme001_22_48_57_00.00.14.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-apartment-partially-collapses-during-fire)
 
-### [Netflix responds to streaming issues during Tyson-Paul fight](https://www.fox4news.com/news/netflix-responds-buffering-issues-tyson-paul-fight)
+### [Fort Worth apartment partially collapses during fire](https://www.fox4news.com/news/fort-worth-apartment-partially-collapses-during-fire)
 
- [![Credit card debt surges to another record high, New York Fed data shows](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/credit-card-consumers.jpg?ve=1&tl=1)
+ [![Adam 'Pacman' Jones arrested after Tyson-Paul fight in Arlington](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/adam-jones-booking-photo.jpg?ve=1&tl=1)
 
- ![Credit card debt surges to another record high, New York Fed data shows](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/credit-card-consumers.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/credit-card-debt-surges-record-high)
+ ![Adam 'Pacman' Jones arrested after Tyson-Paul fight in Arlington](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/adam-jones-booking-photo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pacman-jones-arrested-tyson-paul-fight-arlington)
 
-### [Credit card debt surges to another record high, New York Fed data shows](https://www.fox4news.com/news/credit-card-debt-surges-record-high)
+### [Adam 'Pacman' Jones arrested after Tyson-Paul fight in Arlington](https://www.fox4news.com/news/pacman-jones-arrested-tyson-paul-fight-arlington)
 
- [![Irving police officer killed in off-duty motorcycle accident](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/irving-officer-jerome-scholz.jpg?ve=1&tl=1)
+ [![Accused drunk driver threw beer cans out of truck, tried to run from deadly Arlington crash](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/thomas-kelly-mug.jpg?ve=1&tl=1)
 
- ![Irving police officer killed in off-duty motorcycle accident](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/irving-officer-jerome-scholz.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-police-officer-killed-jerome-scholz)
+ ![Accused drunk driver threw beer cans out of truck, tried to run from deadly Arlington crash](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/thomas-kelly-mug.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/accused-drunk-driver-threw-beer-cans-out-truck-tried-run-from-deadly-arlington-crash)
 
-### [Irving police officer killed in off-duty motorcycle accident](https://www.fox4news.com/news/irving-police-officer-killed-jerome-scholz)
+### [Accused drunk driver threw beer cans out of truck, tried to run from deadly Arlington crash](https://www.fox4news.com/news/accused-drunk-driver-threw-beer-cans-out-truck-tried-run-from-deadly-arlington-crash)
 
- [![Pentagon says there's ‘no verifiable evidence’ of extraterrestrial technology, beings or activity](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/ufo2.jpg?ve=1&tl=1)
+ [![Trump's cabinet picks and key appointments so far, and those still in the running](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/donald-trump-cabinet-picks.jpg?ve=1&tl=1)
 
- ![Pentagon says there's ‘no verifiable evidence’ of extraterrestrial technology, beings or activity](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/ufo2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)
+ ![Trump's cabinet picks and key appointments so far, and those still in the running](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/donald-trump-cabinet-picks.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-cabinet-picks-those-still-in-running)
 
-### [Pentagon says there's ‘no verifiable evidence’ of extraterrestrial technology, beings or activity](https://www.fox4news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity)
+### [Trump's cabinet picks and key appointments so far, and those still in the running](https://www.fox4news.com/news/trumps-cabinet-picks-those-still-in-running)
 
- [![DART train kills pedestrian walking between tracks in Dallas](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/dart-logo.jpg?ve=1&tl=1)
+ [![Betty White to be honored with USPS 2025 forever stamp](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/bettywhite.jpg?ve=1&tl=1)
 
- ![DART train kills pedestrian walking between tracks in Dallas](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/dart-logo.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dart-train-kills-pedestrian-walking-between-tracks-dallas)
+ ![Betty White to be honored with USPS 2025 forever stamp](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/bettywhite.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/betty-white-stamp)
 
-### [Pedestrian walking between tracks killed by DART train](https://www.fox4news.com/news/dart-train-kills-pedestrian-walking-between-tracks-dallas)
+### [Betty White to be honored with USPS 2025 forever stamp](https://www.fox4news.com/news/betty-white-stamp)
 
 ###### [News](https://www.fox4news.com/news)
 
