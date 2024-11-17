@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![USNA Class of ‘76](https://cdn.returningveterans.org/images/honor/76crestcolor.jpg)  
+![John J. Cimral](https://cdn.returningveterans.org/images/honor/MAJ_John_Cimral.GIF)  
 
-**In Honor of USNA Class of ‘76**  
-United States Navy  
-Submitted by Gary Greensfield](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of John J. Cimral**  
+United States Army  
+Submitted by Ted Cimral](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/16/24 - 7:29:37  
+Printed 11/17/24 - 1:16:21  
 © 2024 Returning Veterans Project
