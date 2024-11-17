@@ -45,7 +45,7 @@ Go
 
 [![The Back Room Tech logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
 
-![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png)](https://thebackroomtech.com/ "The Back Room Tech")
+![The Back Room Tech logo](https://s11921.pcdn.co/wp-content/themes/tbrt/images/header-logo.png.webp)](https://thebackroomtech.com/ "The Back Room Tech")
 
 Privacy Policy
 ==============
@@ -103,31 +103,31 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2040'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
+    ![](https://s11921.pcdn.co/wp-content/uploads/linux-admin-80x40.jpeg.webp)](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")[Top 10 Command-Line Tools Every Linux Administrator Should Know](https://thebackroomtech.com/2023/02/15/top-10-command-line-tools-every-linux-administrator-should-know/ "Top 10 Command-Line Tools Every Linux Administrator Should Know")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2048'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.optimal.jpeg)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
+    ![](https://s11921.pcdn.co/wp-content/uploads/cmdlets-80x48.jpeg.webp)](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")[Cmdlets 101: What They Are and How to Use Them in PowerShell](https://thebackroomtech.com/2023/02/14/cmdlets-101-what-they-are-and-how-to-use-them-in-powershell/ "Cmdlets 101: What They Are and How to Use Them in PowerShell")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
+    ![](https://s11921.pcdn.co/wp-content/uploads/windows-server-2019-78x52.jpeg.webp)](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")[How to Install FTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/22/how-to-install-ftp-server-on-windows-server-2019/ "How to Install FTP Server on Windows Server 2019")
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2045'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.optimal.jpg)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
+    ![](https://s11921.pcdn.co/wp-content/uploads/flatpak-80x45.jpg.webp)](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")[How to Install and Run Flatpak Applications](https://thebackroomtech.com/2021/03/19/how-to-install-and-run-flatpak-applications/ "How to Install and Run Flatpak Applications")
 
 #### Random Posts
 
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2067%2052'%3E%3C/svg%3E)
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/112607-e1506710630187-67x52.jpg.optimal.jpg)](https://thebackroomtech.com/2008/01/31/howto-use-the-windows-debugging-tools-to-analyze-a-crash-dump-bsod/ "Howto: Use the Windows Debugging Tools to analyze a crash dump (BSOD)")[Howto: Use the Windows Debugging Tools to analyze a crash dump (BSOD)](https://thebackroomtech.com/2008/01/31/howto-use-the-windows-debugging-tools-to-analyze-a-crash-dump-bsod/ "Howto: Use the Windows Debugging Tools to analyze a crash dump (BSOD)")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2069%2052'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/malware-script-1-80x52.jpeg.webp)](https://thebackroomtech.com/2019/04/22/using-microsoft-anti-malware-script-interface/ "How to Use the Microsoft Anti-Malware Script Interface")[How to Use the Microsoft Anti-Malware Script Interface](https://thebackroomtech.com/2019/04/22/using-microsoft-anti-malware-script-interface/ "How to Use the Microsoft Anti-Malware Script Interface")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2078%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/ntp-server-69x52.jpeg.optimal.jpeg)](https://thebackroomtech.com/2021/03/10/how-to-install-ntp-server-on-windows-server-2019/ "How to Install NTP Server on Windows Server 2019")[How to Install NTP Server on Windows Server 2019](https://thebackroomtech.com/2021/03/10/how-to-install-ntp-server-on-windows-server-2019/ "How to Install NTP Server on Windows Server 2019")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2023'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/3-system-information-78x52.png.webp)](https://thebackroomtech.com/2018/07/24/convert-physical-server-to-hyper-v-using-virtual-machine-converter/ "Convert Physical Server to Hyper-V using Virtual Machine Converter")[Convert Physical Server to Hyper-V using Virtual Machine Converter](https://thebackroomtech.com/2018/07/24/convert-physical-server-to-hyper-v-using-virtual-machine-converter/ "Convert Physical Server to Hyper-V using Virtual Machine Converter")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2030'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/dell-poweredge-80x23.png)](https://thebackroomtech.com/2008/03/13/a-dell-poweredge-server-windows-2003-x64-and-the-battle-over-sas-raid-drivers/ "A Dell PowerEdge Server, Windows 2003 x64, and the Battle Over SAS RAID Drivers")[A Dell PowerEdge Server, Windows 2003 x64, and the Battle Over SAS RAID Drivers](https://thebackroomtech.com/2008/03/13/a-dell-poweredge-server-windows-2003-x64-and-the-battle-over-sas-raid-drivers/ "A Dell PowerEdge Server, Windows 2003 x64, and the Battle Over SAS RAID Drivers")
-* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2034'%3E%3C/svg%3E)
+    ![](https://s11921.pcdn.co/wp-content/uploads/suse-linux-80x30.png.webp)](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")[Howto: Mount a Windows share on SLES linux using cifs](https://thebackroomtech.com/2009/02/19/howto-mount-a-windows-share-on-sles-linux-using-cifs/ "Howto: Mount a Windows share on SLES linux using cifs")
+* [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2080%2052'%3E%3C/svg%3E)
     
-    ![](https://s11921.pcdn.co/wp-content/uploads/connected-to-server-1-80x34.png)](https://thebackroomtech.com/2017/09/28/upload-vmware-workstation-vm-esxi-server/ "How to Upload VMware Workstation VM to ESXi Server")[How to Upload VMware Workstation VM to ESXi Server](https://thebackroomtech.com/2017/09/28/upload-vmware-workstation-vm-esxi-server/ "How to Upload VMware Workstation VM to ESXi Server")
+    ![](https://s11921.pcdn.co/wp-content/uploads/active-directory-1-80x52.jpeg.webp)](https://thebackroomtech.com/2019/03/18/fix-active-directory-1818-error-during-dcpromo/ "Fix Active Directory 1818 Error during DCPromo")[Fix Active Directory 1818 Error during DCPromo](https://thebackroomtech.com/2019/03/18/fix-active-directory-1818-error-during-dcpromo/ "Fix Active Directory 1818 Error during DCPromo")
 
 #### Our Publishing Family
 
