@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12478 Hostels in 2597 cities.
+We have 12462 Hostels in 2594 cities.
 
 Where do you want to go?
 
@@ -1985,7 +1985,7 @@ stefa.ninchen
 
 LondonHostels
 
-from US$11.71
+from US$11.68
 
 [](https://www.hostelworld.com/st/hostels/europe/spain/barcelona/ "Barcelona Hostels")
 
@@ -2001,7 +2001,7 @@ from US$10.65
 
 AmsterdamHostels
 
-from US$13.84
+from US$13.85
 
 [](https://www.hostelworld.com/st/hostels/asia/thailand/bangkok/ "Bangkok Hostels")
 
@@ -2009,7 +2009,7 @@ thewolf0ftravel
 
 BangkokHostels
 
-from US$3.65
+from US$3.66
 
 [](https://www.hostelworld.com/st/hostels/europe/france/paris/ "Paris Hostels")
 
@@ -2031,13 +2031,13 @@ from US$8.52
 
 MadridHostels
 
-from US$14.90
+from US$14.92
 
 [](https://www.hostelworld.com/st/hostels/europe/germany/berlin/ "Berlin Hostels")
 
 BerlinHostels
 
-from US$11.71
+from US$11.72
 
 ### Top Hostels
 
@@ -2047,9 +2047,9 @@ from US$11.71
 
 Paris
 
-7.7
+7.6
 
-From US$21.16](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
+From US$22.35](https://www.hostelworld.com/st/hostels/p/72963/st-christopher-s-inn-gare-du-nord/ "St Christopher's Inn Gare du Nord")[![St Christopher's Barcelona](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Barcelona")
 
 **St Christopher's Barcelona**
 
@@ -2065,7 +2065,7 @@ Amsterdam
 
 8.6
 
-From US$19.17](https://www.hostelworld.com/st/hostels/p/93919/clinknoord/ "ClinkNOORD")[![Wombat's City Hostel London](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel London")
+From US$19.18](https://www.hostelworld.com/st/hostels/p/93919/clinknoord/ "ClinkNOORD")[![Wombat's City Hostel London](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel London")
 
 **Wombat's City Hostel London**
 
@@ -2073,7 +2073,7 @@ London
 
 9.3
 
-From US$29.63](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![Anda Venice](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Anda Venice")
+From US$29.56](https://www.hostelworld.com/st/hostels/p/88047/wombat-s-city-hostel-london/ "Wombat's City Hostel London")[![Anda Venice](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Anda Venice")
 
 **Anda Venice**
 
@@ -2081,15 +2081,15 @@ Venice
 
 9.3
 
-From US$18.71](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
+From US$18.72](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
 
 **Wombat's City Hostel Vienna Naschmarkt**
 
 Vienna
 
-9.0
+8.9
 
-From US$21.22](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![St Christopher's Inn Canal](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Inn Canal")
+From US$21.23](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-hostel-vienna-naschmarkt/ "Wombat's City Hostel Vienna Naschmarkt")[![St Christopher's Inn Canal](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's Inn Canal")
 
 **St Christopher's Inn Canal**
 
@@ -2097,7 +2097,7 @@ Paris
 
 8.1
 
-From US$19.98](https://www.hostelworld.com/st/hostels/p/19865/st-christopher-s-inn-canal/ "St Christopher's Inn Canal")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
+From US$22.35](https://www.hostelworld.com/st/hostels/p/19865/st-christopher-s-inn-canal/ "St Christopher's Inn Canal")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
 
 **St Christopher's at The Winston**
 
