@@ -7,7 +7,7 @@
 * [Bảng xếp hạng](http://www.scamcallfighters.com/bang-xep-hang/ "Bảng xếp hạng")
 * [Tin tức](http://www.scamcallfighters.com/tin-tuc/ "Tin tức")
 
-[Cược Ngay](https://bet668607.com/) [Cược 6686](https://bet668607.com/)
+[Cược Ngay](https://bet668607.com/registered) [Cược 6686](https://bet668607.com/registered)
 
 ![logo](/themes/colatv/assets/image/svg/icon-menu-mb.svg)
 
@@ -17,12 +17,12 @@ Saoke TV - Link trực tiếp bóng đá sao ke không QC, full HD
 #### Link trực tiếp xem  
 bóng đá 1
 
-[xem ngay](https://bet668607.com/)
+[xem ngay](https://bet668607.com/registered)
 
 #### Link trực tiếp xem  
 bóng đá 2
 
-[xem ngay](https://bet668607.com/)
+[xem ngay](https://bet668607.com/registered)
 
 #### Giới thiệu
 
