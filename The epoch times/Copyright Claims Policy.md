@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
+    
+    NEW By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    
+    [![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760820-GettyImages-2181420414-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
+* [Russia Cuts Off Gas Supply to Austria](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/uploads/2022/09/27/gazprom-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
+* [Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://www.theepochtimes.com/us/jay-bhattacharya-emerges-as-top-contender-for-nih-chief-5761243)
+    
+    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    
+    [![Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://img.theepochtimes.com/assets/uploads/2021/11/15/Jay-Bhattachary-205x123.jpg.webp)](https://www.theepochtimes.com/us/jay-bhattacharya-emerges-as-top-contender-for-nih-chief-5761243)
+* [NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://www.theepochtimes.com/us/nyc-officials-call-on-whoopi-goldberg-to-apologize-after-she-said-bakery-denied-order-for-political-reasons-5761253)
+    
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761299-1.download-11KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-officials-call-on-whoopi-goldberg-to-apologize-after-she-said-bakery-denied-order-for-political-reasons-5761253)
+* [Biden Visits Amazon in Brazil to Champion His Climate Agenda](https://www.theepochtimes.com/us/biden-visits-amazon-in-brazil-to-champion-his-climate-agenda-5761237)
+    
+    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    
+    [![Biden Visits Amazon in Brazil to Champion His Climate Agenda](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Biden Visits Amazon in Brazil to Champion His Climate Agenda](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761332-Biden-visits-Amazon-GettyImages-2184635301-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-visits-amazon-in-brazil-to-champion-his-climate-agenda-5761237)
+* [Trump Selection Pete Hegseth Denies Allegations of Assault, Tattoo Claims](https://www.theepochtimes.com/us/trump-selection-pete-hegseth-defends-against-allegations-of-assault-tattoo-claims-5761235)
+    
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Trump Selection Pete Hegseth Denies Allegations of Assault, Tattoo Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Selection Pete Hegseth Denies Allegations of Assault, Tattoo Claims](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761328-GettyImages-1237488142-e1731871980624-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selection-pete-hegseth-defends-against-allegations-of-assault-tattoo-claims-5761235)
+* [With Election Decided, School Choice Advocates See Opportunities Ahead](https://www.theepochtimes.com/us/with-election-decided-school-choice-advocates-see-opportunities-ahead-5756764)
+    
+    4hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
+    
+    [![With Election Decided, School Choice Advocates See Opportunities Ahead](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![With Election Decided, School Choice Advocates See Opportunities Ahead](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761334-washington-state-school-closure-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/with-election-decided-school-choice-advocates-see-opportunities-ahead-5756764)
 * [Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://www.theepochtimes.com/health/leukemia-symptoms-causes-treatments-and-natural-approaches-5756032)
     
-    NEW By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
+    7hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
     
     [![Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759946-Leukemia-205x123.jpg.webp)](https://www.theepochtimes.com/health/leukemia-symptoms-causes-treatments-and-natural-approaches-5756032)
-* [New Monkey Pox Strain Detected in US for First Time](https://www.theepochtimes.com/us/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
+* [New Monkey Pox Strain Detected in US for First Time](https://www.theepochtimes.com/health/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
     
-    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
     [![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761175-GettyImages-476571820-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
-* [8 Killed, 17 Injured in Mass Stabbing Attack in China](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
+    ![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/uploads/2024/11/id5760988-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/health/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
+* [At Least 8 Killed, 17 Injured in Mass Stabbing Attack in China](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
     
-    2hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
-    [![8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![At Least 8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761108-stabbing-205x123.jpg.webp)](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
-* [Musk Nudges Trump to Select Lutnick for Treasury, Putting Cabinet Selection Into Spotlight](https://www.theepochtimes.com/us/musk-nudges-trump-to-select-lutnick-for-treasury-putting-cabinet-selection-into-spotlight-5760950)
-    
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
-    
-    [![Musk Nudges Trump to Select Lutnick for Treasury, Putting Cabinet Selection Into Spotlight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Musk Nudges Trump to Select Lutnick for Treasury, Putting Cabinet Selection Into Spotlight](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761176-Howard-Lutnick-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/musk-nudges-trump-to-select-lutnick-for-treasury-putting-cabinet-selection-into-spotlight-5760950)
-* [Election Ballots Shed New Light on Cursive Writing Debate](https://www.theepochtimes.com/us/election-ballots-shed-new-light-on-cursive-writing-debate-5758502)
-    
-    4hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
-    
-    [![Election Ballots Shed New Light on Cursive Writing Debate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Election Ballots Shed New Light on Cursive Writing Debate](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761157-GettyImages-186497316-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/election-ballots-shed-new-light-on-cursive-writing-debate-5758502)
-* [Chinese Woman Imprisoned Again After Losing 3 Family Members to CCP’s War Against Faith](https://www.theepochtimes.com/falun-gong/chinese-woman-imprisoned-again-after-losing-3-family-members-to-ccps-war-against-faith-5758837)
-    
-    5hr By [Sophia Lam](https://www.theepochtimes.com/author/sophia-lam)
-    
-    [![Chinese Woman Imprisoned Again After Losing 3 Family Members to CCP’s War Against Faith](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Chinese Woman Imprisoned Again After Losing 3 Family Members to CCP’s War Against Faith](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690768-end-205x123.jpg.webp)](https://www.theepochtimes.com/falun-gong/chinese-woman-imprisoned-again-after-losing-3-family-members-to-ccps-war-against-faith-5758837)
-* [Japanese Forces Join US Marine Rotations in Australia’s Top End in Response to Beijing’s Aggression](https://www.theepochtimes.com/world/japanese-forces-join-us-marine-rotations-in-australias-top-end-in-response-to-beijings-aggression-5761095)
-    
-    9hr By [Lily Kelly](https://www.theepochtimes.com/author/lily-kelly-clark)
-    
-    [![Japanese Forces Join US Marine Rotations in Australia’s Top End in Response to Beijing’s Aggression](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Japanese Forces Join US Marine Rotations in Australia’s Top End in Response to Beijing’s Aggression](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761158-GettyImages-1245468332-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/japanese-forces-join-us-marine-rotations-in-australias-top-end-in-response-to-beijings-aggression-5761095)
-* [RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
-    
-    13hr By [Marina Zhang](https://www.theepochtimes.com/author/marina-zhang)
-    
-    [![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![RFK Jr Has Taken Aim At These Additives, What Could He Do As HHS Secretary?](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761089-RFK-banning-foods-3-205x123.jpg.webp)](https://www.theepochtimes.com/health/rfk-jr-has-taken-aim-at-these-additives-what-could-he-do-as-hhs-secretary-5761036)
-* [Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
-    
-    17hr By [Ryan Morgan](https://www.theepochtimes.com/author/ryan-morgan)
-    
-    [![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Selects Personal Attorney Will Scharf for White House Staff Secretary Job](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761160-Will-Scharf-GettyImages-2169800355-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-personal-attorney-will-scharf-for-white-house-staff-secretary-job-5761031)
-* [Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://www.theepochtimes.com/article/day-in-photos-leaders-conclude-apec-prison-releases-protesters-and-man-in-blue-5760944)
-    
-    17hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Leaders Conclude APEC, Prison Releases Protesters, and ‘Man in Blue’](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760995-AP24321650067754-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-leaders-conclude-apec-prison-releases-protesters-and-man-in-blue-5760944)
+    ![At Least 8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761108-stabbing-205x123.jpg.webp)](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
