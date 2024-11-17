@@ -208,25 +208,25 @@ Menü
 
 [BreakingNews
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite
 
-Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt](https://www.bild.de/politik/inland/mit-96-5-prozent-habeck-zum-kanzler-kandidaten-gewaehlt-6739e713d256370bfb037a36)
+Angriffe tief im Inneren Russlands: Biden erlaubt Ukraine Einsatz von Waffen mit großer Reichweite](https://www.bild.de/politik/ausland-und-internationales/ukraine-darf-tief-im-inneren-russlands-angreifen-erlaubnis-von-us-praesident-biden-673a327f4df82f515063b520)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
