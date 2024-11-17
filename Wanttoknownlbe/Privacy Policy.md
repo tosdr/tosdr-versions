@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/seks-leugens-en-medicijnen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/gastcolumns/de-geboorte-van-venus/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
