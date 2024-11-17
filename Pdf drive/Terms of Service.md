@@ -1,4 +1,4 @@
-OFLINE: 195.201.87.181 OFLINE: 195.201.87.181 OFLINE: 195.201.87.181    PDF Drive Terms of Service                   
+OFLINE: 95.216.69.87 OFLINE: 95.216.69.87 OFLINE: 95.216.69.87    PDF Drive Terms of Service                   
 
 [![](/assets/img/logo-1.png)](https://www.pdfdrive.com/)
 
