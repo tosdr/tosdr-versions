@@ -28,11 +28,11 @@
         *  [![Kanye West Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Kanye West](https://www.songkick.com/artists/552177-kanye-west)
         *  [![Ed Sheeran Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ed Sheeran](https://www.songkick.com/artists/2083334-ed-sheeran)
         
+        *  [![FAVE Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) FAVE](https://www.songkick.com/artists/10356849-fave)
         *  [![tomcbumpz Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) tomcbumpz](https://www.songkick.com/artists/10355099-tomcbumpz)
         *  [![DESTIN CONRAD Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) DESTIN CONRAD](https://www.songkick.com/artists/10354889-destin-conrad)
         *  [![xikers Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) xikers](https://www.songkick.com/artists/10354596-xikers)
         *  [![Ariis Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Ariis](https://www.songkick.com/artists/10354133-ariis)
-        *  [![Geordie Greep Concert Tickets - 2024 Tour Dates.](//assets.sk-static.com/images/default_images/thumb/default-artist.png) Geordie Greep](https://www.songkick.com/artists/10341381-geordie-greep)
         
         Get your tour dates seen by one billion fans: [Sign up as an artist](https://tourbox.songkick.com/?utm_medium=referral&utm_source=songkick.com&utm_campaign=visitor)
         
