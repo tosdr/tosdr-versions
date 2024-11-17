@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
-* [Shaw's Nightmare II](https://www.myabandonware.com/game/shaw-s-nightmare-ii-tr6)
-* [Scavenger](https://www.myabandonware.com/game/scavenger-tr5)
-* [Runen](https://www.myabandonware.com/game/runen-tr4)
-* [Rock, Paper, Scissors, Lizard, Spock](https://www.myabandonware.com/game/rock-paper-scissors-lizard-spock-tr3)
-* [Rock 'n' Spin](https://www.myabandonware.com/game/rock-n-spin-tr2)
+* [Tower of Fortune](https://www.myabandonware.com/game/tower-of-fortune-tsk)
+* [Torreoscura](https://www.myabandonware.com/game/torreoscura-tsj)
+* [Toledo Atomchess with CGA graphics](https://www.myabandonware.com/game/toledo-atomchess-with-cga-graphics-tsi)
+* [Thunder Strike](https://www.myabandonware.com/game/thunder-strike-tsh)
+* [The Search for Freedom](https://www.myabandonware.com/game/the-search-for-freedom-tsg)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
