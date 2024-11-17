@@ -106,11 +106,11 @@ Converstations with people building the Next Generation Internet](https://podcas
 
 ### Events
 
+[2025-02-01 - Let's meet at FOSDEM 2025](https://nlnet.nl/events/20250201/FOSDEM/index.html)
+
 [2024-11-28 - Webinar: Ask Us For Help: Practical Support for NGI Beneficiaries](https://nlnet.nl/events/20241128/index.html)
 
 [2024-05-02 - Tech talk with bunnie on IRIS: an open hardware project to verify chips](https://nlnet.nl/events/20240502/index.html)
-
-[2024-04-11 - Webinar: Open source CPU and SoC design : The flow, the challenges and a perspective](https://nlnet.nl/events/20240411/index.html)
 
 * [Upcoming webinars & recordings](https://nlnet.nl/webinars)
 * [Event archive](https://nlnet.nl/events)
