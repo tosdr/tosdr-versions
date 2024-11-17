@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Lame-duck Biden humiliated with back-corner spot in APEC family photo as China's Xi get place of honor in front row](https://nypost.com/2024/11/16/us-news/biden-humiliated-with-back-corner-spot-in-apec-family-photo-as-chinas-xi-get-place-of-honor-in-front/)
+[Trump greeted with thunderous applause in triumphant return to MSG for UFC 309 with Elon Musk and Mike Johnson in tow](https://nypost.com/2024/11/16/us-news/trump-greeted-with-thunderous-applause-in-trumphant-return-to-msg-for-ufc-309-with-elon-musk-and-mike-johnson-in-tow/)
 
 Terms Of Use
 ============
