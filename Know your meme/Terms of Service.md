@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Jake Paul vs. Mike Tyson](https://knowyourmeme.com/memes/events/jake-paul-vs-mike-tyson "Jake Paul vs. Mike Tyson") [Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [Emergence First Page / Saki Yoshida Redraws](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws "Emergence First Page / Saki Yoshida Redraws") [Mike Tyson's A\*\*](https://knowyourmeme.com/memes/mike-tysons-ass "Mike Tyson's A**") [Warcraft III: Reforged](https://knowyourmeme.com/memes/subcultures/warcraft-iii-reforged "Warcraft III: Reforged") [Fundamental Paper Education](https://knowyourmeme.com/memes/subcultures/fundamental-paper-education "Fundamental Paper Education")
+[Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [Minecraft Steve Trolling People](https://knowyourmeme.com/memes/minecraft-steve-trolling-people "Minecraft Steve Trolling People")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### 'lo! You must login or signup first!
 
 |     |     |
 | --- | --- |
