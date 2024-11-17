@@ -244,25 +244,25 @@ New York, NY 10001
 Top of Today
 ------------
 
-1. [![Conner Brackin mugshot](https://am22.mediaite.com/lc/cnt/uploads/2024/11/connor-brackin-mugshot-432x243.jpg)](https://lawandcrime.com/crime/theyre-all-dead-man-arrives-home-to-find-his-7-dogs-shot-dead-allegedly-by-a-police-deputy/)
+1. [![Ashley Bertino mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/ashley-bertino-mugshot-432x243.jpg)](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
     
-    ### ['They're all dead': Man arrives home to find his 7 dogs shot dead — allegedly by a police deputy](https://lawandcrime.com/crime/theyre-all-dead-man-arrives-home-to-find-his-7-dogs-shot-dead-allegedly-by-a-police-deputy/)
+    ### [Mother of 12-year-old who died from untreated diabetes said daughter 'was being dramatic': Witnesses](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
     
 2. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
     
     ### ['No reason for any further delay': Fed-up judge in Trump defamation case against ABC News, George Stephanopoulos refuses demand to push back trial date](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
     
-3. [![Ashley Bertino mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/ashley-bertino-mugshot-432x243.jpg)](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
-    
-    ### [Mother of 12-year-old who died from untreated diabetes said daughter 'was being dramatic': Witnesses](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
-    
-4. [![Inset, left to right: Yusef Salaam, Antron McCray, Korey Wise, Kevin Richardson, Raymond Santana (CBS Sunday Morning). Background: Donald Trump speaks at the annual Road to Majority conference in Washington, DC, June 22, 2024. (Allison Bailey/NurPhoto via AP)](https://am23.mediaite.com/lc/cnt/uploads/2024/11/sdfadsf-432x243.jpg)](https://lawandcrime.com/lawsuit/question-the-courts-impartiality-trump-seeks-immediate-recusal-of-judge-in-central-park-five-defamation-case/)
-    
-    ### [Trump gets judge recused in Central Park Five defamation case after questioning the court's 'impartiality'](https://lawandcrime.com/lawsuit/question-the-courts-impartiality-trump-seeks-immediate-recusal-of-judge-in-central-park-five-defamation-case/)
-    
-5. [![Zachary Young](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
+3. [![Zachary Young](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
     
     ### ['Issue the subpoena right away': Judge tells CNN's parent company to turn over extensive financial documents in Navy veteran's defamation case against the network](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
+    
+4. [![Donald Trump and Tanya Chutkin and Abigail Jo Shry](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Donald-Trump-and-Tanya-Chutkin-and--432x243.jpg)](https://lawandcrime.com/crime/you-are-in-our-sights-woman-who-threatened-to-kill-trump-jan-6-judge-wont-be-sitting-on-her-couch-daily-watching-the-news-for-a-while/)
+    
+    ### ['You are in our sights': Woman who threatened to kill Trump Jan. 6 judge won't be sitting 'on her couch daily watching the news' for a while](https://lawandcrime.com/crime/you-are-in-our-sights-woman-who-threatened-to-kill-trump-jan-6-judge-wont-be-sitting-on-her-couch-daily-watching-the-news-for-a-while/)
+    
+5. [![Jillian Ludwig, Shaquille Taylor](https://am22.mediaite.com/lc/cnt/uploads/2023/11/Jillian-Ludwig-Shaquille-Taylor--432x243.jpg)](https://lawandcrime.com/lawsuit/family-of-jogging-teen-killed-by-man-who-was-walking-free-after-being-deemed-incompetent-for-trial-files-50-million-lawsuit/)
+    
+    ### [Family of jogging teen killed by man who was walking free after being deemed incompetent for trial files $50 million lawsuit](https://lawandcrime.com/lawsuit/family-of-jogging-teen-killed-by-man-who-was-walking-free-after-being-deemed-incompetent-for-trial-files-50-million-lawsuit/)
     
 
 [](http://eepurl.com/c89Jdb)
