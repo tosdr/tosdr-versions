@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d0d6e00a-43d7-48b2-b884-9a0678234db0/20241117T005458/d0d6e00a-43d7-48b2-b884-9a0678234db0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0d6e00a-43d7-48b2-b884-9a0678234db0/20241117T005458/d0d6e00a-43d7-48b2-b884-9a0678234db0_360x203.jpg)](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
+        
+        #### [Apartment fire in Bellevue displaces at least 15 units](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
+        
     *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
         #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
-        
-    *  [![](https://media.king5.com/assets/KING/images/5a372cea-678e-4f53-9b1d-3acb9ae7c0ea/20241116T065925/5a372cea-678e-4f53-9b1d-3acb9ae7c0ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/5a372cea-678e-4f53-9b1d-3acb9ae7c0ea/20241116T065925/5a372cea-678e-4f53-9b1d-3acb9ae7c0ea_360x203.jpg)](https://www.king5.com/article/news/local/seattle/south-seattle-armed-robberies/281-f06e7653-334a-4eec-bcea-b20df7b32102)
-        
-        #### [No suspects in custody after string of armed robberies in south Seattle](https://www.king5.com/article/news/local/seattle/south-seattle-armed-robberies/281-f06e7653-334a-4eec-bcea-b20df7b32102)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 44°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
