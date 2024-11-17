@@ -91,7 +91,7 @@ Search Close header menu
          I agree to the [Privacy Policy](https://www.c40.org/privacy-policy/) and [Terms & Conditions](https://www.c40.org/terms-of-use/) of C40 Cities Climate Leadership Group, Inc.
         
     
-            
+             
     
     * [Visit our twitter page](https://x.com/c40cities)
     * [Visit our linkedin page](https://www.linkedin.com/company/c40-cities-climate-leadership-group)
