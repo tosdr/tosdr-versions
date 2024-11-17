@@ -231,6 +231,13 @@ Footer
 
 © Casihelper 2024
 
+* [HOME](https://casihelper.com/)
+* [RECIPE TODAY](https://casihelper.com/recipe-today/)
+* [Breakfast](https://casihelper.com/breakfast/)
+* [Quick Recipes](https://casihelper.com/quick-recipes/)
+* [About Us](https://casihelper.com/about-us/)
+* [Contact](https://casihelper.com/contact/)
+
 Close
 
 [![counter free hit unique web](//sstatic1.histats.com/0.gif?4892115&101)](https://casihelper.com/)
