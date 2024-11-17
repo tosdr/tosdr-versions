@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Amarion-Pope-326x245.jpg)](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
+
+West Garfield Park
+
+### [Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
+
+[November 15, 2024 8:48 AM](https://cwbchicago.com/2024/11)
+
+Prosecutors have charged a man with carjacking a driver at gunpoint while on adult parole, juvenile parole, and pretrial release for a felony.[](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
+
+[![](https://cwbchicago.com/wp-content/uploads/2021/10/Gary-Coleman-and-Cermak-Green-Line-326x245.jpeg)](https://cwbchicago.com/2024/11/man-gets-10-years-for-pushing-66-year-old-tourist-onto-l-tracks.html "Man gets 10 years for pushing 66-year-old tourist onto L tracks")
+
+CTA
+
+### [Man gets 10 years for pushing 66-year-old tourist onto L tracks](https://cwbchicago.com/2024/11/man-gets-10-years-for-pushing-66-year-old-tourist-onto-l-tracks.html "Man gets 10 years for pushing 66-year-old tourist onto L tracks")
+
+[November 14, 2024 5:54 PM](https://cwbchicago.com/2024/11)
+
+One day after getting out of jail for knocking a woman unconscious in the Loop last year, Gary Coleman pushed a tourist off the Cermak-McCormick Place Green Line platform, leaving her badly injured. Coleman on Thursday received a ten-year sentence for the CTA attack.[](https://cwbchicago.com/2024/11/man-gets-10-years-for-pushing-66-year-old-tourist-onto-l-tracks.html "Man gets 10 years for pushing 66-year-old tourist onto L tracks")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Fair-copa-326x245.jpg)](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
 
 Citywide
@@ -252,26 +272,6 @@ Citywide
 [November 14, 2024 4:46 PM](https://cwbchicago.com/2024/11)
 
 Cook County judge on Thursday found a Chicago cop accused of improperly seizing and inventorying firearms while on patrol not guilty of all charges. It’s the latest blow for prosecutors who have struggled to win criminal convictions against Chicago cops.[](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Dashion-Jones-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
-
-CTA
-
-### [Anonymous tipster identifies Red Line robber for police](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
-
-[November 14, 2024 10:11 AM](https://cwbchicago.com/2024/11)
-
-An anonymous tipster who saw a Chicago police bulletin about a recent robbery at the Addison Red Line station helped cops identify the assailant, officials say.[](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Northwestern-Shuttle-326x245.jpg)](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
-
-Rogers Park
-
-### [Northwestern shuttle bus struck by bullet on North Side, school says](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
-
-[November 14, 2024 6:43 AM](https://cwbchicago.com/2024/11)
-
-A Northwestern University intercampus shuttle bus was apparently struck by a bullet, leaving its driver injured last Friday evening, according to new information from the school’s police department.[](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
 
 Search
 
