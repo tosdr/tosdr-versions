@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-worked perfectly i have purchased more
+The service worked as advertised.
 
-Austen Knight
+John Hollan
