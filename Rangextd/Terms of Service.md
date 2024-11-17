@@ -5,8 +5,9 @@
 * [Go to content (c)](#content)
 * [Go to footer (f)](#shopify-section-footer)
 
-* **Free exchange** of products within 30 days
-* **Premium brand products** for an affordable price
+🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale!
+
+🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale!
 
 * [Customer service](https://www.rangextd.com/pages/about-us)
 
