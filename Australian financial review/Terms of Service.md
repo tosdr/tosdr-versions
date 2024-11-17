@@ -335,15 +335,16 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![The awarding of performance rights to Greg Goodman received a large protest vote.](https://static.ffx.io/images/$zoom_0.3927%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_549%2C$y_71/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1ebe35d50134f85c68ec38e06c3d79fde2bd9d78)](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
+[![Dom Pym has founded more than 22 companies, but you probably only know him as the guy who built neobank Up.](https://static.ffx.io/images/$zoom_0.3575%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1094%2C$y_98/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/50e4825db2803a341d414f22bd2ec865a7e90441)](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
 
-### [Goodman suffers first strike against pay despite 75pc return](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
+### [Why this founder is investing $70m in start-ups](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
 
-* Larry Schlesinger and Campbell Kwan
+* 55 mins ago
+* Yolanda Redrup
 
-* ### [Rich Lister strikes three with $170 million Adelaide mall deal](https://www.afr.com/property/commercial/rich-lister-strikes-three-with-170-million-adelaide-mall-deal-20241113-p5kq81)
+* ### [Goodman suffers first strike against pay despite 75pc return](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
     
-* ### [Inside a decade-long rollercoaster ride with Afterpay’s Nick Molnar](https://www.afr.com/companies/financial-services/inside-a-decade-long-rollercoaster-ride-with-afterpay-s-nick-molnar-20241105-p5ko0c)
+* ### [Rich Lister strikes three with $170 million Adelaide mall deal](https://www.afr.com/property/commercial/rich-lister-strikes-three-with-170-million-adelaide-mall-deal-20241113-p5kq81)
     
 
 [The Australian Financial Review](https://www.afr.com/)
