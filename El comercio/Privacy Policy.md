@@ -31,6 +31,282 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Dos empresas textiles de Otavalo generan energía limpia con paneles solares
+===========================================================================
+
+Con sus plantas fotovoltáicas cubren parte de su necesidad de energía y reducen su huella de carbono.
+-----------------------------------------------------------------------------------------------------
+
+![Indutexma cuenta con 1440 paneles solares, que le permite cubrir el 35% de su requerimiento de energía eléctrica. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-50-1.jpg)
+
+La crisis energética que afecta a Ecuador, impulsada por el estiaje, no sorprendió a dos empresas textiles de Otavalo-Imbabura, al norte del país. 
+
+Más noticias
+------------
+
+* [El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar](https://www.elcomercio.com/videos/el-colegio-aleman-de-quito-logra-la-suficiencia-energetica-con-proyecto-solar.html "El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar")
+* [Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ajustense-cinturones-vienen-sacudones.html "Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’")
+
+Motivadas por el compromiso de ser menos contaminantes, estas empresas comenzaron a explorar opciones para generar su propia energía mediante paneles solares. 
+
+Se trata de Empresas Pinto, que confecciona prendas de vestir e Indutexma, que produce telas. 
+
+Se trata de Empresas Pinto, dedicada a la confección de prendas, e Indutexma, que produce telas. Ambas compañías identificaron el alto nivel de radiación solar en la región como una oportunidad para implementar plantas fotovoltaicas.
+
+Energía solar, una solución efectiva en Otavalo
+-----------------------------------------------
+
+Empresas Pinto instaló 558 paneles solares de origen chino en el techo de su fábrica, Con esto cubre el 50% de su consumo mensual de energía. Desde 2021, la empresa se conectó a Emelnorte mediante un medidor bidireccional, permitiendo un autoconsumo de hasta 300 kWh mensuales.
+
+Por otro lado, Indutexma, con un consumo energético más alto (dos megas), adquirió 1 440 paneles solares de China. Con esto genera 750 kWh, lo que cubre una media de 35% de sus necesidades mensuales. Ambas empresas se benefician de la energía solar, incluso durante la prolongada sequía que enfrenta el país.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-51-1-1024x683.jpg)
+
+Empresas Pinto tiene 558 paneles solares, con los que cubren el 50% de su consumo energético mensual.
+
+**¿Cómo afrontan los cortes de hasta 14 horas?** 
+-------------------------------------------------
+
+Ambas empresas operan 24 horas al día, de lunes a viernes. Los fines de semana sus horarios suelen variar. Octubre pasado y este noviembre son meses de alta demanda por la temporada navideña. Pero enfrentan cortes de energía de hasta 14 horas diarias. 
+
+Pinto produce 18 toneladas de tela al mes para confeccionar 80 mil prendas, puntualiza Esteban La Fuente, jefe de planta. Para garantizar la continuidad de su producción cuentan con tres generadores de 288, 150 y 120 kva, que operan a diésel. 
+
+Andrea Nieto, coordinadora del taller de Confección de Pinto, asegura que su personal sigue trabajando con normalidad. El color blanco, rojo y verde de las telas resalta en esta área. 
+
+Indutexma, que fabrica 180 toneladas de tela al mes para distribución nacional y un 10% se exporta a Colombia, tampoco para. Su gerente Patricio Moreno, cuenta que contaban solo con un generador de 450 kvW, pero en abril de 2024 decidió comprar dos más. 
+
+Conscientes de la llegada del estiaje obtuvieron uno de 388 y otro de 350 kvW.  “Si bien no tenemos el 100%, nos defendemos bastante bien. Seguimos trabajando las 24 horas. No todas las máquinas que tenemos pueden producir al mismo tiempo”. 
+
+**Producción de energía solar en otras localidades**
+----------------------------------------------------
+
+Actualmente, Indutexma es la empresa que más energía limpia produce seguida de Empresas Pinto, en Otavalo. No hay más compañías con este tipo de iniciativas. 
+
+En Pedro Moncayo (Pichincha), la empresa Supasta Mama Berni, que elabora lasaña y tallarines, cubre su demanda de energía en un 39%, según los registros de Emelnorte.  
+
+En menor medida, Hoja Verde y Josarflor, de Cayambe apenas generan 5% y 3%, respectivamente.
+
+Por otro lado, el Ministerio del Ambiente entregó [licencias ambientales](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html") para la ejecución de proyectos fotovoltáicos que generarán 399,85 megavatios (MW), en Imbabura.
+
+La central Imbabura Solar tendrá una potencia de 120 MW y operará en Ibarra; la central Ambi Solar, estará entre Antonio Ante e Ibarra con otros 60 MW de potencia. En Urcuquí, una zona de alta radiación solar, contará con dos proyectos: Intiyana y Urcuquí Solar. Entre ambas generarán 120 MW. 
+
+Adicionalmente, están las [plantas Salinas y Tren Salinas](https://www.gransolar.ec/es/projects.html#:~:text=Proyectos&text=Gran%20Solar%20es%20el%20promotor,5.1%20kWh/m2/d%C3%ADa.) de potencia nominal de salida de 2 MW y 999 KW, respectivamente. Estas plantas están a 5 km de la vía Salinas-Urcuquí.  
+
+**Impacto ambiental y ahorro con energía solar**   
+---------------------------------------------------
+
+Patricio Moreno explica que invirtió 600 mil dólares en armar su planta fotovoltaica, que incluye dos inversores alemanes que convierten la energía solar en alterna para consumo. El retorno de esta inversión se ve en la planilla mensual, que en su caso alcanzaba los 40 mil dólares. En los dos últimos años ha tenido una disminución del 35%. Por otra parte, ha dejado de emitir al ambiente 223 toneladas de Co2 al año. 
+
+Pinto también ve reducida su factura de ocho mil dólares mensuales al 50%. Su inversión fue de 352 mil dólares. Su aporte al mejoramiento del medio ambiente, desde el 2021 ha sido de 247 toneladas de Co2, que equivale a 24 mil árboles.  
+
+**Proyección a futuro: autosustentabilidad energética**
+-------------------------------------------------------
+
+De acuerdo con un estudio de sombras que se realizó en Indutexma, todavía cuentan con espacio para colocar más paneles solares y llegar a ser autosustentables en un 50%, durante este 2025. 
+
+Para cubrir el otro 50% están planificando ampliar el número de paneles en una propiedad cercana (a 4 km) a la planta principal. 
+
+Pinto apunta a ser autosustentable en un 100% el próximo año. De esta manera continuará reduciendo su huella de carbono. Hay que destacar que esta empresa comenzó en 1913 generando energía para Otavalo. Hoy junto con Indutexma son una muestra de innovación en medio de la crisis energética nacional del Ecuador. 
+
+**Otros proyectos ambientales y tecnológicos** 
+-----------------------------------------------
+
+Además, de la energía solar ambas compañías trabajan en proyectos de mejoramiento de su tecnología para reducir el consumo de agua por kilogramo de tela. La industria textil, de manera general, es altamente contaminante y demanda mucha agua. 
+
+Frente a esto,  las dos cuentan con vertientes de agua subterráneas y, por ley tienen plantas de tratamiento de agua. Además, su producción se realiza con GLP en vez de búnker o diesel, que es menos contaminante. 
+
+Indutexma también desarrolla un proyecto de la mano de una empresa italiana para tintura de prendas con productos naturales. Tras ocho meses de trabajo en laboratorio ya cuentan con una gama de colores pasteles con buena solidez a la luz y al agua. Los tintes son extraídos del eucalipto, nueces, col morada, achiote, cebolla, cúrcuma y chilca. Tienen previsto industrializar el proceso este 2025 y, con esto ser menos mucho menos invasivos y más naturales en el proceso de producción.  
+
+A esta iniciativa se suma la emisión de bonos de carbono, la estampación en tela que es menor contaminante y han sacado certificaciones como el de carbono neutral o para algodón orgánico. 
+
+Cartas a Quito / 17 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este domingo 17 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Seis hábitos que demuestran que una persona es inteligente 
+-----------------------------------------------------------
+
+Varios estudios en algunas universidades de Estados Unidos y en otros países y algunos estudiosos de la psicología humana han logrado determinar que podría considerarse una mayor inteligencia en ciertas personas, si se observa que cumplen con las siguientes condiciones: 
+
+1.Disfrutan estar solos.-  Las personas con un alto cociente intelectual disfrutan pasar tiempo solos. Además, también podrían sentirse incómodos en las aglomeraciones. Esto se advierte en los investigadores que pasan sumidos en sus estudios por tantas horas, alejados de las multitudes y a veces sin comer adecuadamente y peor aún dormir las horas necesarias. 
+
+2\. Les gusta hablar solos.- Esto podría estimular la memoria y mejorar la concentración. Quizás se creería cómo que tienen alguna propensión a la locura, pero no es así, los hombres geniales muchas veces descubrieron y lograron avances científicos, a veces durante el sueño, en horas de vigilia o quizás mientras caminaban solos. Se han caracterizado en ciertos casos por no haber tenido, una esposa o esposo según el caso e hijos, por ejemplo. 
+
+3\. Se critican con frecuencia.- Las personas incompetentes no reconocen su propia incompetencia y las personas inteligentes tienden a subestimar sus capacidades. Podría decirse que mientras más inteligentes, se han caracterizado por ser más humildes, sencillos y simples, sin advertir que están adornados de cualidades excepcionales. 
+
+4\. Suelen ser desodernados.- Se encuentra que el desorden puede promover el pensamiento creativo y estimular nuevas ideas, pero siempre también les gustará estar en un entorno limpio, lo que lleva a esas personas a hacer cosas buenas como no cometer delitos, no tirar basura y mostrar más generosidad. Es notorio en las personas sabias que se han caracterizado por ese desorden de lo material, como libros, apuntes o cosas a su alrededor, pero en cambio caracterizados por un absoluto orden en sus cerebros, al plantear sus teorías o los resultados de sus investigaciones. 
+
+5\. Disfrutan los retos.- A las personas con alta inteligencia les gusta aprender cosas nuevas y compartir ideas. Precisamente su característica será difundir sus estudios, sus escritos, todo aquello que ha producido su quehacer intelectual. 
+
+6\. suelen trasnochar.- Los adultos que son naturalmente más activos por la noche tienden a obtener mejores resultados en las pruebas cognitivas que aquellos que son personas mañaneras. Es característico en los estudiosos que muchas veces producen más en sus noches de vigilia, cuando encuentran más tranquilidad y posibilidades de concentración, sin el ruido del día por el tráfico, las personas y en general el ambiente de movimiento. 
+
+En que ubicación podríamos pensar que la generalidad de las personas se consideraría. Vale la pena reflexionar y pensar si se podría encajar en estos atributos o si solo son accesibles esos grandes genios que ha producido la humanidad. 
+
+Hernán Patricio Orcés 
+
+Turismo al Salón du Chocolat
+============================
+
+El futuro del chocolate ecuatoriano en Europa se vislumbra prometedor con estrategias centradas en el apoyo gubernamental a grandes y pequeños productores.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
+
+El “**Salon du Chocolat de París**”, celebrado del 30 de octubre al 3 de noviembre de 2024, ha sido una **plataforma crucial** para que **marcas ecuatorianas** de **chocolate** destaquen en el escenario internacional. Este evento anual, que atrae a más de 90.000 visitantes, ha permitido a marcas como Kamm, Leyenda, Mindo y Yumbos presentar sus excelentes productos en el stand “Casa Ecuador”. Además, otro estand auspiciado por el CONGOPE donde vi la marca Aromaz de Zamora Chinchipe
+
+El año anterior, con la sola asistencia del **Consejo Provincial de Pichincha**, la presencia de Ecuador en el Salón de París fue fuerte, notoria, la prefecta Pavón dio una conferencia en un escenario donde pocos tienen ese **privilegio**. Eso mereció una **declaratoria de capitalidad.** Este año **Perú** se llevó el **protagonismo** como cuna del cacao.
+
+Sin embargo, la **energía y el compromiso de empresarios ecuatorianos** como Mauro Quispe son insuperables. Luego de haberlo visto en e**l Festival del Chocolate de Gaia en Portugal y en París**, volví a ver a Mauro con micrófono en mano, animando el Chocomad en Málaga. Difícil encontrar un ecuatoriano que trabaje con tanta **energía** por realzar el nombre de **Ecuador** desde hace varios años y que tenga los contactos en Europa como para organizar un evento en España, con el auspicio de entidades de ese país. Su marca de **chocolate** “leyenda” trabaja con cacaos de **comunidades** de **Esmeraldas** y sus botellas de espumante de cacao tienen gran acogida despertando **curiosidad** y **admiración**.
+
+Por su parte, la marca Kamm liderada por Michel Cammoun se distingue por sus innovaciones. Kamm no contiene azúcar, gluten ni leche, usa cacao de la **comunidad** Chachi. Sus **procesos** de **cristalización** de **frutas y extractos** ofrecen una experiencia sensorial única. Michel Cammoun está revolucionando la **industria del chocolate** con **sostenibilidad**, **responsabilidad social**, apoyo a las **comunidades indígenas**, promoviendo métodos de **cultivos tradicionales**.
+
+Independientemente de la volatibilidad de los **precios**, el **cacao ecuatoriano** tienen excelente reputación y siempre habrá **demanda** de nuestra materia prima; pero con un **incremento** anual del 4% de consumo de **chocolate en Europa**, es el momento para que **Ecuador** este presente en todos sus **eventos internacionales** con marcas premium que abran **mercados** a **chocolates** de alta gama, en una Europa inundada de **chocolates** sucedáneos y con **consumidores** que están demandando **chocolates** de verdad, de calidad, con trazabilidad, comercio justo y que brinden nuevas **experiencias**, **sabores** y **texturas**.
+
+El **futuro** del **chocolate ecuatoriano** en **Europa** se vislumbra prometedor con **estrategias** centradas en el **apoyo gubernamental** a grandes y pequeños **productores** de variedades por **pisos climáticos,** regiones y subregiones, lo que nos da más de 500 variedades de cacaos con historias que contar.
+
+Sacando del camino
+==================
+
+Decisiones políticas que benefician al oficialismo y amenazan la democracia en Ecuador.
+---------------------------------------------------------------------------------------
+
+![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
+
+Dos relevantes **hechos políticos** se han dado en estos días, en los cuales, el común denominador ha sido, ser favorables a los intereses del **oficialismo**, por lo menos en la perspectiva inmediatista.
+
+**Uno.- Una vicepresidenta incómoda:** La acción **administrativa** dada a fin de **sancionar** a la **vicepresidenta de la república**, por una falta grave, consistente en ausentarse injustificadamente tres días de sus funciones de embajadora, resulta que, el real efecto de la desproporcionada – en función del tiempo – sanción (suspensión de 150 días) sería evitar que **Verónica Abad** sea quien reemplace al presidente Noboa el momento en el que este deba ausentarse para realizar **campaña**, utilizando para el **efecto un infortunado** y muy cuestionado mecanismo a fin de sacarla del **camino**.
+
+Resulta inverosímil, un contrasentido mayúsculo y evidentemente forzado, que una funcionaria administrativa – lo escribo con respeto – común y sin mayor rango, que ni siquiera forma parte de la **entidad nominadora**,  quizás utilizada, mediante **resolución administrativa**, se permita y tenga el brutal alcance – con el aval del propio **Ministerio del Trabajo** en sintonía estratégica con Carondelet –  en dejar fuera de la cancha a nada más y nada menos que a una persona que ocupa la vicepresidenta de la república, indistintamente si es V. Abad o no, elegida por **elección popular**, persona de evidente y n**otoria alta jerarquía**, saltándose la **constitución** y las disposiciones de la **Corte Interamericana de Derechos Humanos**, jugando y calculando la sanción con los **tiempos políticos** a efectos de que calce con los **intereses propios del ejecutivo**; y, como si fuera poco, la grave falta, que sería en función de su cargo y responsabilidades como Embajadora, evidentemente no son como Vicepresidenta, es decir, en el peor escenario la ya por sí discutible y forzada  sanción (que según la ley no podría superar 30 días), debió enfocarse en sus **funciones** como **representante diplomática**, pero nunca como vicepresidenta, es decir como mandataria de los **electores**, ya que sin perjuicio de atribuirse la **resolución** una competencia que corresponde a la **Asamblea**, no deja de ser una intromisión que atenta contra  quienes votaron por el **peculiar binomio** en su oportunidad. Lo dado, en la práctica,  independientemente del **juego semántico** utilizado en la resolución administrativa y, pese a que,  la Ministra del Trabajo  ha indicado que no se trata de una inhabilitación ni destitución, al final del día, lo dado en la práctica es una **maniobra** que pretende – inconstitucionalmente –  tumbar a la **vicepresidenta**. Debe quedar claro que, cualquier acto administrativo contrario a la constitución, es nulo; y, adicionalmente, una autoridad administrativa no puede destituir o inhabilitar a un **funcionario público** elegido por **elección popular**, lo cual, como queda indicado, habría ocurrido, pese a la utilización en la **resolución administrativa** de la conveniente palabra “suspensión”.
+
+Lo dado, más allá de las simpatías o antipatías que pueda generar Abad, constituye un grave atentado a la **institucionalidad**, a la **democracia**, al orden constituido y por ende al mínimo sentido de respeto a la **Constitución**, que es lo que busca reflexionar y defender esta columna.
+
+**Dos.- El otro dolor de cabeza:** Topic, hasta hace poco **candidato** a la **presidencia**, cuestionado por cierto, quien venía presentando un **crecimiento** en las **preferencias electorales**, evidentemente constituía  la **amenaza** más latente a las aspiraciones de Noboa. Mediante también, una discutible resolución del TCE, fue sacado del camino, con base en un “supuesto” y no sobre una certeza plena de **infracción electoral**, lo cual llama la atención; con mayor motivo, si Topic en las últimas y recientes **elecciones presidenciales**, en las que ganó Noboa, fue **candidato** también, sin ningún tipo de impedimento.
+
+**Tres.- Conclusiones:**  Parecería que: **a.-** Las luces de la **racionalidad jurídica**, en el tema de Abad particularmente, se han apagado totalmente en Carondelet; y, como si fuera poco, un problema personal entre ambos **mandatarios**, por la falta de sensatez de estos, ha derivado en un **problema nacional** con **alcance internacional**, cuyos primeros coletazos quizás se sintieron en la **Cumbre Iberoamericana de Cuenca. b.-** Hasta que dicha resolución no sea revocada o declarada **inconstitucional**, se habría marcado un peligroso y **antidemocrático** antecedente, en el sentido de que, para deshacerse de un vicepresidente y, consecuentemente y por qué no de un presidente, bastaría para el efecto, un **sumario administrativo**. **c.-** La resolución del TCE, favorable a los **intereses de reelección del ejecutivo**, despierta y deja más dudas que certezas…
+
+La pregunta que salta sobre la **mesa de la opinión pública** es, lo dado, corresponde ¿al nuevo país o las **malas prácticas** del viejo país?
+
+Energía con generadores domésticos puede costar hasta 8 veces más
+=================================================================
+
+Los cortes de luz en Ecuador, que ya suman 56 días, impulsaron el uso de generadores domésticos.
+------------------------------------------------------------------------------------------------
+
+![El uso de generadores eléctricos se generaliza en medio de la crisis eléctrica en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/generadores-1511.jpg)
+
+Los **cortes de luz** en Ecuador continúan. El **Ministerio de Energía y Minas** programó racionamientos eléctricos de 12 horas al día hasta el domingo 17 de noviembre de 2024. Esta semana se cumplen 56 días de continuos y prolongados **apagones** en todo el país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
+* [Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días](https://www.elcomercio.com/actualidad/negocios/venta-de-electricidad-de-colombia-a-ecuador-podria-concretarse-en-pocos-dias.html "Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días")
+* [Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-mantienen-12-horas-hasta-domingo-17-de-noviembre-ecuador.html "Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador")
+
+Con los **cortes de luz**, los generadores domésticos a gasolina son alternativas comunes, aunque pueden ser útiles en emergencias, no son una **solución económica** ni sostenible a largo plazo.
+
+Costo de la energía con generador doméstico
+-------------------------------------------
+
+Por ejemplo, un generador doméstico de 900 W, con un tanque de 4,2 litros, puede abastecer una vivienda promedio por unas 4 horas. Esto incluye el funcionamiento de unos 10 focos, una computadora y un router.
+
+Usando gasolina extra, cuyo precio actual es de **2,67** dólares por **galón**, el equipo puede producir energía durante 3,7 horas por galón de combustible. El costo estimado de generación es de **72 centavos de dólar por hora**, lo que equivale a **80 centavos de dólar por kilovatio hora**, explicó **Juan Barroso**, ingeniero eléctrico.
+
+Este valor es significativamente superior al costo promedio de la **electricidad en Ecuador**, que ronda los **10 centavos de dólar** por kilovatio hora, en promedio.
+
+Además del costo operativo, los usuarios deben considerar la inversión inicial, que varía entre **600 y 1 000** dólares, dependiendo del modelo y la marca. A esto se suman los gastos de mantenimiento, repuestos y consumo de aceite, necesarios para garantizar el correcto funcionamiento del equipo.
+
+Si la necesidad de energía es mayor, los costos también se incrementarán. Por ejemplo, los comercios pequeños con refrigeradores requieren una mayor potencia, alrededor de 2 500 vatios (2,5 kW) a 6 000 vatios (6 kW) señaló **Geovanny Núñez**, especialista eléctrico.
+
+Consumo de gasolina
+-------------------
+
+El consumo de la gasolina se ha incrementado desde que se iniciaron los **cortes de luz** programados en Ecuador, el 23 de septiembre pasado. Según **Ivo Rosero**, presidente de la Cámara de Distribuidores de Derivados de Petróleo (Camddepe), señaló que el consumo de **gasolina extra** se ha incrementado en 100 galones diarios en las principales ciudades del país.
+
+Si bien estos generadores son ideales para **cortes de electricidad** de corta duración, no son una solución viable para suplir la **demanda eléctrica a largo plazo** debido a su costo elevado y su impacto ambiental. Las emisiones de carbono y el ruido son otros factores a tener en cuenta.
+
+En los contextos de emergencia, los generadores domésticos pueden ser una herramienta útil, pero su uso debe ser planificado y analizado antes de realizar la inversión.
+
+También hay generadores a diésel
+--------------------------------
+
+Los generadores más grandes, conocidos como industriales, son ideales para grandes edificaciones. Por ejemplo, un modelo de 130 kW puede abastecer un edificio de 10 pisos, consumiendo **6,25 galones de diésel por hora**.
+
+Los retirados del Team Esparza hacen ‘trabajo invisible’ en la Vuelta a Ecuador
+===============================================================================
+
+Los ciclistas del Esparza Training que se retiraron realizan labores auxiliares para sus compañeros que siguen en la Vuelta al Ecuador.
+---------------------------------------------------------------------------------------------------------------------------------------
+
+![Integrantes del Team Esparza de México que se retiraron de la carrera al momento de apoyar a sus compañeros.](https://www.elcomercio.com/wp-content/uploads/2024/11/1731802946913-scaled.jpg)
+
+En la sexta etapa de la **Vuelta al Ecuador** de ciclismo y en su recta final, solo quedan dos ciclistas del **Team Esparza Training de México** en competencia, sin embargo, eso no significa que los miembros del equipo que se retiraron no continúen en sus labores. Su apoyo es fundamental desde fuera del evento.
+
+El conjunto azteca inició el certamen con cinco ciclistas, de acuerdo al ‘start list’ oficial de la competencia, de los cuales tres abandonaron. A partir de su salida, **Enrique Ruiz** (México), **Gerardo Reyes** (México) y **Andrés Calle** (Colombia), junto a otro miembro de la escuadra, acompañan desde afuera a sus compañeros.
+
+### Más noticias:
+
+* [Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/bayron-guama-vuelta-ecuador-movistar.html "Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador")
+* [Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder](https://www.elcomercio.com/deportes/ciclismo/richard-huera-ganador-etapa6-vuelta.html "Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder")
+* [Brayan Obando busca devolverle una Vuelta al Ecuador al país](https://www.elcomercio.com/deportes/brayan-obando-lider-vuelta-ecuador.html "Brayan Obando busca devolverle una Vuelta al Ecuador al país")
+
+Entre los ciclistas que se mantiene en carrera se encuentran **Yimi Durán y Kyvan Astua**. Ambos reciben apoyo desde lo logístico de parte de aquellos que ya no están en la Vuelta a partir de las indicaciones del equipo[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
+
+Los **cuatro deportistas** se juntan en las mañanas y se reúnen con el director y los demás miembros para establecer sus funciones. Tras ello, estos se trasladan junto al equipo o en la caravana para cumplir con sus labores.
+
+¿Cómo es el trabajo de los ciclistas retirados del Esparza en la Vuelta al Ecuador?
+-----------------------------------------------------------------------------------
+
+Ruiz relata que no pudo continuar por **problemas mecánicos** y especifica cuáles son las funciones que se les otorga tras ello. El objetivo es claro y deben hacer lo posible para atender a sus compañeros y sumarse a la estrategia de carrera -previa, presente y posterior- para que funcione.
+
+“**Intentamos ayudarlos en todo lo que se pueda… con las bicis, en la alimentación. Darles lo mejor acá, dentro de las carreras y en las situaciones que se pueden presentar.** En el tema de cuando lleguen, tenerles un hidratante o algo para que puedan descansar y no preocuparse de nada más que correr al siguiente día”, relata el ciclista mexicano.
+
+Ruiz señala que **Gerardo Reyes** es el más abnegado y quien más se destaca en tales labores de apoyo. Para él, el factor de la altura es el mayor con el que deben lidiar sus compañeros y cuenta que, en su caso, estuvo involucrado en una caída en la primera etapa y llegó fuera de tiempo, por lo que no siguió.
+
+Reyes cuenta que entre las actividades que deben llevar a cabo también se encuentran funciones de abastecimiento, **preparación de sus compañeros** o facilitar materiales de trabajo. Asimismo, señala que si hay pasión dentro de su actividad, las circunstancias son parte de la carrera y se debe cooperar.
+
+Creativos por sus compañeros
+----------------------------
+
+En el penúltimo día de carrera, los cuatro del **Esparza** decidieron tomar una estrategia distinta para apoyar a sus compañeros. Dado que el vehículo en el que se desplazaban en la carrera demoraba arribar a la meta, estos decidieron arribar en uno que llegaría con antelación para poder recibir a sus colegas a tiempo.
+
+De cara a la etapa final de la competencia, los dos del Esparza Training que se mantienen en competencia ocupan lugares intermedios y últimos de la tabla. **Yimi Durán** está en el puesto 33 y **Kyvan Astua** en el 63.
+
+Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz
+=========================================================================================
+
+Ecuador y Colombia tienen un acuerdo para venta de energía y así solventar cortes de luz en el país.
+----------------------------------------------------------------------------------------------------
+
+![Imagen referencial. Ecuador espera la energía de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-16-at-8.49.00-PM.jpeg)
+
+La noche de este sábado 16 de noviembre de 2024, la **Cancillería** informó que los gobiernos de **Ecuador** y **Colombia** llegaron a un acuerdo para la entrega de energía, con lo que se puede solventar parte de los cortes de luz en el país[.](https://es.wikipedia.org/wiki/Ecuador)
+
+### Más noticias
+
+* [Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre")
+* [Cortes de luz en Guayaquil para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Guayaquil para viernes, sábado y domingo 17 de noviembre")
+
+Ecuador y Colombia llegan a un acuerdo para solventar cortes de luz
+-------------------------------------------------------------------
+
+“En virtud de las excelentes **relaciones bilaterales**, Colombia proveerá de energía eléctrica al Ecuador en apoyo a la actual crisis energética. Esto refleja el trabajo en equipo de **ambos países**”, publicó la Cancillería, en sus redes sociales. Aunque no detalló desde cuándo se reanudará la compra de electricidad al país vecino.
+
+Esta información se da una vez que el **Gobierno de Colombia** publicó oficialmente la resolución que permite las exportaciones de electricidad hacia el Ecuador, el viernes 15 de noviembre.  
+Así, la compra de electricidad a Colombia se retomará luego de suspenderla el 30 de septiembre pasado, debido a una severa sequía que afecta la región.
+
+Exportación de energía a Ecuador
+--------------------------------
+
+Según la resolución, el gobierno colombiano **reactivará** la **exportación** de energía a **Ecuador** bajo un esquema de intercambio diario de excedentes. Es decir, la electricidad que sobra a **Colombia** la puede vender a Ecuador, explicó Alejandro Castañeda, presidente de la Asociación de Empresas Generadoras de Energía en Colombia.
+
+Colombia puede vender hasta 450 o 500 MW al día, que es lo que soporta la **red de conexión** entre los dos países.
+
+Ecuador soporta una grave crisis energética, que ha obligado a programar **cortes de luz** de desde el pasado 23 de septiembre del 2024. Hasta este 17 de noviembre hay **racionamientos** programados de hasta 12 horas diarias en todo el país.
+
 Los cortes de luz serán así este domingo 17 de noviembre en Quito
 =================================================================
 
@@ -796,404 +1072,3 @@ Las elecciones presidenciales de Ecuador de 2025 están programadas para el **9 
 Se espera que participen **16 binomios presidenciales**, aunque el número final podría variar debido a impugnaciones. Si ningún candidato obtiene más del **40% de los votos válidos** con una diferencia superior a 10 puntos porcentuales, se realizará una segunda vuelta el 13 de abril de 2025. La posesión del **nuevo presidente** está programada para el 24 de mayo de 2025.
 
 El Consejo Nacional Electoral (CNE) ha establecido un **calendario detallado** que incluye hitos importantes como la entrega del registro electoral y la capacitación de los miembros de las juntas receptoras del voto. Este **proceso electoral** es crucial, ya que se llevará a cabo en un contexto de desafíos económicos y sociales en el país.
-
-Asamblea rechazó sumario administrativo a Verónica Abad, ¿qué impacto tiene?
-============================================================================
-
-La Asamblea rechaza la sanción contra Verónica Abad y cuestiona a la ministra Núñez y solicita acción de la Corte Constitucional.
----------------------------------------------------------------------------------------------------------------------------------
-
-![Pleno de la Asamblea el pasado 13 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-25-1.jpg)
-
-Con 86 votos a favor y 27 en contra, el **Pleno de la Asamblea Nacional** rechazó la resolución del sumario administrativo el pasado 13 de noviembre de 2024 contra la vicepresidenta de la República, **Verónica Abad**, y cuestionó las acciones de la ministra de Trabajo, **Ivonne Núñez**.
-
-### Más noticias
-
-* [Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito](https://www.elcomercio.com/actualidad/seguridad/fiscalia-hijo-veronica-abad-autor-supuesto-trafico-influencias.html "Fiscalía señala a hijo de Verónica Abad como autor de supuesto delito")
-* [Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad](https://www.elcomercio.com/actualidad/politica/impulsan-juicio-politico-contra-ministra-de-trabajo-por-suspension-veronica-abad.html "Impulsan juicio político contra Ministra de Trabajo por suspensión a Verónica Abad")
-* [Ministerio de Gobierno rechaza aprobación de resolución a favor de Verónica Abad](https://www.elcomercio.com/actualidad/politica/ministerio-de-gobierno-pronunciamiento-aprobacion-resolucion-veronica-abad-asamblea.html "Ministerio de Gobierno rechaza aprobación de resolución a favor de Verónica Abad")
-
-Además, el **Legislativo autorizó a la presidenta de la Asamblea** para presentar una acción de interpretación ante la **Corte Constitucional** y solicitó la comparecencia de la ministra de Trabajo en el Pleno.
-
-> El Pleno de la Asamblea Nacional condenó la resolución del sumario administrativo en contra de [@veroniabad](https://twitter.com/veroniabad?ref_src=twsrc%5Etfw) [#PronunciamientoLegislativo](https://twitter.com/hashtag/PronunciamientoLegislativo?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/6E9IFkvgUY](https://t.co/6E9IFkvgUY)
-> 
-> — Asamblea Nacional (@AsambleaEcuador) [November 13, 2024](https://twitter.com/AsambleaEcuador/status/1856841368015949956?ref_src=twsrc%5Etfw)
-
-Posible juicio político a la Ministra de Trabajo
-------------------------------------------------
-
-La decisión del Pleno legislativo podría tener **repercusiones en el ámbito político**, especialmente para la ministra **Ivonne Núñez**.
-
-Según el abogado constitucionalista **Edison Guarango**, esta medida abre la puerta a un **posible juicio político en su contra**. “Lo que hace la Asamblea es tomar esto como insumo para iniciar un **juicio político para la ministra del Trabajo**“, explicó Guarango.
-
-Añadió que ya se están siguiendo investigaciones contra Núñez, lo que podría derivar en sanciones adicionales.
-
-Asambleístas impulsan juicio político contra Núñez
---------------------------------------------------
-
-La Ministra aseguró que el juicio político que preparan en su contra, y que a decir por la legisladora Jahiren Noriega, ya cuenta con 44 firmas, no corresponde “porque esta figura legal atañe responsabilidades directas”.
-
-“Los juicios políticos son de responsabilidad directa y no indirectas (…), respondiendo a causales que constan en la Constitución”, dijo, en alusión a la suspensión de Abad.
-
-Sobre si se presentará a la Asamblea, de proceder el juicio político, contesto: “depende la causa que le imputen a la Ministra del Trabajo, en una decisión que no la ha adoptado“, enfatizó.
-
-Las asambleístas que forman parte de esta petición son:
-
-* **Jahiren Noriega**, Revolución Ciudadana
-* **Carla Cruz**, Partido Social Cristiano
-* **Mariana Yumbay**, Pachakutik
-* **Cristina Chávez**, independiente
-
-Limitadas acciones en beneficio de Verónica Abad
-------------------------------------------------
-
-En cuanto a la vicepresidenta **Verónica Abad**, Guarango aclaró que las opciones de la Asamblea para intervenir en su caso son **limitadas**.
-
-“Tomar una **acción directamente con Verónica Abad es difícil**, aquí los únicos que podrían intervenir son los **órganos de justicia**“, detalló. La vicepresidenta tiene actualmente en curso una **acción de protección**, pero desde el **ámbito legislativo**, cualquier medida adicional parece improbable, según el experto.
-
-> 🚨Una mayoría del Legislativo tomó una decisión sobre el pedido de la Vicepresidenta suspendida👇[https://t.co/NcBv4kQMEp](https://t.co/NcBv4kQMEp)[#VerónicaAbad](https://twitter.com/hashtag/Ver%C3%B3nicaAbad?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/Tvs9dj0LIK](https://t.co/Tvs9dj0LIK)
-> 
-> — El Comercio (@elcomerciocom) [November 14, 2024](https://twitter.com/elcomerciocom/status/1856849994625466595?ref_src=twsrc%5Etfw)
-
-La **Asamblea Nacional** también alertó a los organismos de control para que inicien los procesos de **investigación correspondientes**.
-
-Sin embargo, Guarango señala que, dada la naturaleza de las decisiones ya tomadas, cualquier **acción legislativa directa podría quedar limitada**.
-
-“Estas comparecencias son más políticas, porque a la final estas decisiones ya fueron tomadas”, mencionó.
-
-La intervención de la Asamblea, aunque significativa, probablemente no cambiará el **curso del sumario administrativo contra Abad**, aunque sí podría tener un impacto considerable en el futuro de la ministra de Trabajo.
-
-Ministerio de Gobierno critica postura de la Asamblea
------------------------------------------------------
-
-En respuesta a la resolución del Pleno, el **Ministerio de Gobierno** emitió un comunicado el 13 de noviembre en el que rechazó las decisiones de la **Asamblea Nacional** y defiende la legitimidad del gobierno del presidente **Daniel Noboa**.
-
-> A los ecuatorianos: [pic.twitter.com/UEus21W8Ji](https://t.co/UEus21W8Ji)
-> 
-> — Ministerio de Gobierno Ecuador (@MinGobiernoEc) [November 14, 2024](https://twitter.com/MinGobiernoEc/status/1856904724378767481?ref_src=twsrc%5Etfw)
-
-Según el comunicado, “los **principios democráticos** rigen para todos” y los jóvenes en liderazgo, como Noboa, han demostrado una ética clara en el **ejercicio de sus funciones**.
-
-Sin embargo, el Ministerio acusa a ciertos sectores de recurrir a “viejas formas de hacer política” y aplicar las normas de forma “selectiva”, en función de **intereses políticos y electorales**.
-
-Reclutamiento; estos son los requisitos
-=======================================
-
-El proceso de reclutamiento 2024 de la Policía Nacional estará abierto del 18 al 29 de noviembre.
--------------------------------------------------------------------------------------------------
-
-![La Policía Nacional inicia su proceso de reclutamiento 2024. Foto: Ministerio de Gobierno.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz--2.jpg)
-
-  
-La **Policía Nacional de Ecuador** iniciará el proceso de reclutamiento 2024 el próximo lunes, 18 de noviembre, **con el objetivo de capacitar a 2 900 aspirantes** a técnicos operativos en sus escuelas de formación. El proceso estará abierto hasta el 29 de noviembre y se realizará exclusivamente en línea, de forma gratuita.
-
-### Más noticias
-
-* [Científicos vigilan población de iguanas rosadas en el volcán Wolf de las Islas Galápagos](https://www.elcomercio.com/actualidad/ecuador/cientificos-vigilan-poblacion-de-iguanas-rosadas-en-el-volcan-wolf-de-las-islas-galapagos-2.html)
-* [Cortes de luz en Guayaquil para este sábado 16 de noviembre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-guayaquil-para-este-sabado-16-de-noviembre.html)
-* [Estudio identifica 11 estrategias para reducir homicidios en Latinoamérica ¿Funcionan o no?](https://www.elcomercio.com/actualidad/seguridad/estudio-identifica-11-estrategias-para-reducir-homicidios-en-latinoamerica-funcionan-o-no.html)
-
-  
-¿Quiénes pueden postular?
-----------------------------
-
-El **reclutamiento** está dirigido a hombres y mujeres **ecuatorianos** que cumplan con los siguientes requisitos:
-
-Bachilleres: entre 18 y 22 años, 11 meses y 30 días.
-
-Profesionales: máximo 24 años, 11 meses y 30 días.
-
-Estatura mínima: Hombres: 1.68 metros. Mujeres: 1.57 metros.
-
-No poseer tatuajes ni expansores visibles.
-
-No tener antecedentes penales ni procesos judiciales.
-
-Adicionalmente, los postulantes deben presentar su **título de bachiller o de tercer nivel**, registrado en el Ministerio de Educación o la Senescyt.
-
-  
-Inscripciones
-----------------
-
-Las inscripciones se realizarán a través del portal oficial [reclutamiento.policia.gob.ec](https://reclutamiento.policia.gob.ec/index). Allí debe seguir un cronograma **basado en el último dígito de la cédula**.
-
-Los interesados deberán crear una cuenta en la plataforma y completar el formulario de inscripción, asegurando la precisión de los datos ingresados.
-
-  
-Proceso de selección
------------------------
-
-El reclutamiento incluye varias etapas, como:
-
-Verificación de **requisitos** y documentos.
-
-Evaluaciones académicas, **psicológicas, físicas y médicas**.
-
-Registro biométrico.
-
-La **Policía Nacional** garantiza un proceso transparente y meritocrático, respaldado por certificaciones en gestión de calidad y antisoborno.
-
-  
-Compromiso con la ciudadanía
--------------------------------
-
-Para evitar irregularidades, se habilitó **la línea 1800 DELITO**, donde la ciudadanía puede denunciar posibles fraudes o **sobornos relacionados con el reclutamiento**.
-
-Este proceso representa una **oportunidad** para quienes desean formar parte de la Policía Nacional, contribuir a la seguridad del país y desarrollar una carrera profesional dentro de la institución.
-
-Científicos vigilan población de iguanas rosadas en el volcán Wolf de las Islas Galápagos
-=========================================================================================
-
-Finalmente, los científicos que monitorean a la población de iguanas rosadas de Galápagos tienen resultados de su estudio
--------------------------------------------------------------------------------------------------------------------------
-
-![La iguana rosada de Galápagos fascina a los científicos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-40.jpg)
-
-Científicos del **Parque Nacional Galápagos** (PNG) y de la organización Galápagos Conservancy anunciaron algunas conclusiones de un programa de vigilancia de la población de **iguanas rosadas** del volcán Wolf, en la Isla Isabela, la más grande y occidental de este archipiélago ecuatoriano[.](https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos "https://es.wikipedia.org/wiki/Islas_Gal%C3%A1pagos")
-
-### Más noticias
-
-* [Registran una especie marina inusual cerca de Galápagos ¿Cuál es la razón?](https://www.elcomercio.com/actualidad/ecuador/registran-especie-marina-inusual-cerca-galapagos.html "Registran una especie marina inusual cerca de Galápagos ¿Cuál es la razón?")
-* [Dos especies ‘amenazadas’ de Galápagos con bajas en su reproducción](https://www.elcomercio.com/actualidad/ecuador/dos-especies-galapagos-cifras-bajas-reproduccion.html "Dos especies ‘amenazadas’ de Galápagos con bajas en su reproducción")
-
-Las iguanas de Galápagos
-------------------------
-
-La Dirección del PNG, en un informe publicado este 16 de noviembre de 2024, detalló algunos aspectos del programa de “**monitoreo integral**” de la población de iguanas rosadas (Conolophus marthae), que busca conocer sobre la ecología de este reptil incluido en la lista de peligro de extinción de la Unión Internacional para la Conservación de la Naturaleza (UICN).
-
-El estudio de la población de las iguanas rosadas, únicas en el mundo, forman parte de un **Plan de Conservación 2022-2027** y cuyas actividades de vigilancia se efectúan mediante expediciones trimestrales a las áreas remotas donde habitan las especies.
-
-Los ejemplares de iguanas rosadas
----------------------------------
-
-En la última expedición, los científicos han identificado ocho **iguanas rosadas**, entre ellas cinco hembras, dos machos y un indeterminado (juvenil), de una población que se estima en **300 individuos**.
-
-“Aunque los adultos observados se encontraban en buen estado, la **ausencia de juveniles** y neonatos es un indicador de atención para el fortalecimiento de las acciones de **conservación**, específicamente en el control de especies introducidas invasoras en el hábitat de la iguana rosada”, añadió la fuente.
-
-La expedición también vigiló “otras especies clave” y se han registrado “**55 iguanas amarillas**, incluidos neonatos, así como individuos de tortugas gigantes (Chelonoidis becki), cuyos patrones de actividad y estado físico fueron examinados para comprender mejor su dinámica poblacional y desafíos que enfrentan”.
-
-Los resultados del estudio “permitirán **ajustar las acciones**, a fin de garantizar el reclutamiento de nuevos individuos de iguana rosada”, añadió el PNG en su informe.
-
-Alcances del estudio
---------------------
-
-La expedición también ha permitido a los científicos revisar los **sensores** de temperatura instalados en el volcán Wolf, una información considerada determinante para identificar las mejores áreas para la anidación de los **reptiles**.
-
-También se ha revisado una red de “**cámaras trampa**” instaladas en el lugar para “describir las interacciones entre las especies y temporadas de mayor **actividad** en las diferentes zonas del volcán”.
-
-Asimismo, los **pluviómetros** instalados en la zona, cuyo objetivo es obtener información que permita emprender acciones para “recuperar la población de **iguanas rosadas** y minimizar las presiones externas que por ahora existen en su hábitat como las especies invasoras”.
-
-Galápagos, un laboratorio natural
----------------------------------
-
-Las Galápagos, situadas a unos mil kilómetros al oeste de las costas continentales de **Ecuador**, son consideradas un laboratorio natural que llevó al científico inglés **Charles Darwin a** desarrollar su teoría sobre la evolución y selección natural de las especies.
-
-En el ecosistema de la **Reserva Marina de Galápagos** se han reportado más de 2.900 especies existentes, de las cuales el 25 por ciento son endémicas. También, hay 24 especies de mamíferos marinos como ballenas, delfines y lobos marinos de las cuales dos son **endémicos**.
-
-**_EFE_**
-
-Empresas impulsan los emprendimientos en México
-===============================================
-
-El 51,2 % de los líderes de mipymes considera a las empresas como su principal sustento económico.
---------------------------------------------------------------------------------------------------
-
-![El presidente del Centro de Competitividad de México (CCMX), José Antonio Pérez Anton habla durante una rueda de prensa en el Instituto Politécnico Nacional (IPN).](https://www.elcomercio.com/wp-content/uploads/2024/11/centro-competitividad.jpg)
-
-**Líderes empresariales** presentaron la **sexta edición de la iniciativa ‘Creo MX’** para apoyar a las micro, pequeñas y medianas empresas (mipymes), que representan más del **99 % de los establecimientos** en [México](https://www.elcomercio.com/empresariales/desfile-calaveras-2024-tradicion-cultura-guanajuato.html "https://www.elcomercio.com/empresariales/desfile-calaveras-2024-tradicion-cultura-guanajuato.html").
-
-### Más noticias
-
-* [El Viñedo San Miguel ofrece una experiencia enológica única en México](https://www.elcomercio.com/empresariales/vinedo-san-miguel-mexico-leica-xiaomi.html "El Viñedo San Miguel ofrece una experiencia enológica única en México")
-* [Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump](https://www.elcomercio.com/actualidad/mundo/claudia-sheinbaum-reafirma-confianza-buena-relacion-donald-trump.html "Claudia Sheinbaum reafirma confianza en buena relación con Donald Trump")
-* [Empresarios de EE.UU. anuncian inversiones a Claudia Sheinbaum](https://www.elcomercio.com/actualidad/mundo/empresarios-ee-uu-anuncian-inversiones-claudia-sheinbaum.html "Empresarios de EE.UU. anuncian inversiones a Claudia Sheinbaum")
-
-El presidente del **Centro de Competitividad de México (CCMX)**, José Antonio Pérez Anton, destacó que durante los 6 años en marcha del proyecto brindó “apoyo tangible” a más de **15 000 emprendedores**.
-
-550 emprendimientos en todo el país
------------------------------------
-
-En su sexta edición este año, la iniciativa congregó a **550 emprendimientos en todo el país**, con prioridad a los de Acapulco, en el estado sureño de Guerrero, puntualizó.
-
-El director general del CCMX, Juan Carlos Ostolaza, señaló que en México hay más de **6,3 millones de establecimientos**, de los cuales más del 99 % son MiPyMEs.
-
-“Son **micro, pequeñas y medianas empresas,** que sustentan el 70 % del empleo del país, son la columna vertebral de nuestra economía”, apuntó Ostolaza.
-
-Además, Ostolaza destacó que “las empresas juegan un papel clave como fuente de ingresos para los emprendedores”.
-
-Señaló que el **51,2 % de los líderes de mipymes** considera a las empresas como su principal sustento económico. Para el **25,4 % representa una segunda fuente de ingresos** que complementa su estabilidad financiera, de acuerdo con la radiografía del emprendimiento en México 2024.
-
-“Esto resalta su relevancia en la generación de empleo, bienestar y oportunidades para millones de personas en nuestro país”, dijo.
-
-Ostolaza advirtió de que el 75 % de los emprendimientos no sobreviven a los dos primeros años de operación por falta de capacitación, y cerca del 60 % operan en la informalidad.
-
-“El **financiamiento a las pymes en México** está por debajo del promedio en América Latina, ya que tan solo **29 % de las empresas formales con 100 trabajadores** o menos cuentan con algún financiamiento bancario, mientras que el promedio para la región es de 45 %”, indicó.
-
-Por ello, en ‘Creo MX’ enfocó sus acciones en nueve ejes estratégicos, desde la capacitación, la incorporación de tecnología y el acompañamiento para lograr la internacionalización de su empresa, agregó.
-
-Señaló además que desde el CCMX concretaron más de **18 000 citas de negocio entre mipymes** y grandes empresas, lo que resultó en más de **500 millones de pesos** (casi 25 millones de dólares) en ventas para los emprendimientos.
-
-Asimismo, Pérez Anton resaltó la colaboración conseguida con gobiernos estatales, instituciones educativas y organizaciones de apoyo al emprendimiento, con un total de 80 socios.
-
-“Creo MX se convirtió en un espacio donde convergen **sueños, ideas, talento, esfuerzo** y, sobre todo, donde se une una comunidad de aliados que comparten la misma misión de apoyar e impulsar a las y los emprendedores de México para crear más empresas y generar empleos”, celebró.
-
-La iniciativa **‘Creo MX’,** del CCMX, el Consejo Coordinador Empresarial (CEE) y el Consejo Mexicano de Negocios (CMN) se presentó en el I**nstituto Politécnico Nacional (IPN)** en la capital mexicana. 
-
-Loja y Azuay enfrentan 25 incendios forestales este sábado 16 de noviembre
-==========================================================================
-
-Los incendios forestales en Loja continúan afectando la región.
----------------------------------------------------------------
-
-![La sequía intensifica los incendios forestales en Loja. Foto: Gobernación de Loja.](https://www.elcomercio.com/wp-content/uploads/2024/11/91ed3cb5-0c3e-4e35-969f-e34908d3a241.jpg)
-
-La **provincia de Loja** está siendo severamente **afectada por incendios forestales**, particularmente en San Pedro de Vilcabamba, donde las llamas, activas desde hace cuatro días, han consumido más de 1 600 hectáreas de cultivos y pastizales. Este evento **amenaza al Parque Nacional Podocarpus**, un área protegida de gran importancia ecológica.
-
-### Más noticias
-
-* [Vecinos de Quito frenan la construcción del intercambiador de la Occidental](https://www.elcomercio.com/actualidad/quito/vecinos-quito-frenan-intercambiador-occidental.html)
-* [Colombia ya podrá vender energía a Ecuador](https://www.elcomercio.com/actualidad/ecuador/colombia-resolucion-energia-ecuador.html)
-* [Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/lluvias-napo-sucumbios-coca-codo.html)
-
-El puesto de mando, activado por la **Gobernación de Loja**, coordina las labores de mitigación junto a **comuneros, bomberos, militares y guardaparques**. Sin embargo, los esfuerzos son insuficientes ante la magnitud del incendio, y los residentes esperan la llegada de un **helicóptero con sistema bambi-bucket** para apoyar desde el aire. Hasta el mediodía del viernes 15 de noviembre, este recurso no había sido asignado.
-
-> [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw)  
->   
-> Desde Puesto de Mando Unificado coordinamos acciones de respuesta para labores de mitigación del Incendio en San Pedro de Vilcabamba.  
->   
-> Un total de 3660 hectáreas se contabiliza a través de FIRMS de la [@NASA](https://twitter.com/NASA?ref_src=twsrc%5Etfw). [pic.twitter.com/63dSgwWRvt](https://t.co/63dSgwWRvt)
-> 
-> — Riesgos Ecuador (@Riesgos\_Ec) [November 16, 2024](https://twitter.com/Riesgos_Ec/status/1857819662018289965?ref_src=twsrc%5Etfw)
-
-  
-Impacto ambiental y social
------------------------------
-
-En redes sociales, los **habitantes de Vilcabamba han mostrado imágenes del impacto ambiental** del incendio: animales calcinados y extensas áreas de vegetación reducidas a cenizas.
-
-Alexandra Jara, gobernadora de Loja, informó que se realiza un **monitoreo constante de la situación** y se han convocado a ministros de Estado para reforzar las acciones en la zona.
-
-La **prolongada sequía que afecta al país** ha sido el principal detonante de este y otros incendios. Según datos de la Secretaría de Gestión de Riesgos (SNGR), hasta octubre de 2024 se han registrado cerca de 3 500 incendios forestales, con más de 40 000 hectáreas destruidas en todo Ecuador.
-
-> 📌 Acciones claves:  
-> ✔️ En horas de la mañana, se espera el apoyo aéreo para mitigar el fuego.  
-> ✔️ Ministros de Estado han sido convocados para evaluar la situación y reforzar las medidas gubernamentales. [pic.twitter.com/ijtiIFnyCe](https://t.co/ijtiIFnyCe)
-> 
-> — Gobernación de Loja (@GoberLoja) [November 16, 2024](https://twitter.com/GoberLoja/status/1857792554516808016?ref_src=twsrc%5Etfw)
-
-  
-Otros incendios en Loja y el país
-------------------------------------
-
-Además del incendio en Vilcabamba, la provincia de Loja reporta **ocho focos activos más**. En otras provincias como Azuay también se registran eventos similares.
-
-Las autoridades continúan trabajando para **sofocar las llamas**, mientras los habitantes de Loja y otras zonas afectadas enfrentan los estragos de esta **crisis ambiental**.
-
-> 📢 | COMUNICADO INTERINSTITUCIONAL [pic.twitter.com/dqXAIhhDCq](https://t.co/dqXAIhhDCq)
-> 
-> — Gobernación de Loja (@GoberLoja) [November 16, 2024](https://twitter.com/GoberLoja/status/1857751940815356371?ref_src=twsrc%5Etfw)
-
-Mientras tanto, el Gobierno **agradeció a Perú** la colaboración y la asistencia brindadas para combatir el fuego en territorio ecuatoriano.
-
-> Comunicado oficial [pic.twitter.com/BqdVru5udC](https://t.co/BqdVru5udC)
-> 
-> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [November 16, 2024](https://twitter.com/CancilleriaEc/status/1857835822482882656?ref_src=twsrc%5Etfw)
-
-Liga de Quito pierde tres puntos por una sanción
-================================================
-
-Liga de Quito e Independiente del Valle son los candidatos a ganar la segunda etapa de la Liga Pro.
----------------------------------------------------------------------------------------------------
-
-![Fernando Cornejo, jugador de Liga de Quito en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/sancion_liga_1.jpg)
-
-Mientras todas las miradas están puestas en la Selección de Ecuador y sus partidos de la doble fecha de las eliminatorias al Mundial 2026, el **mundo de Liga de Quito recibió una inesperada** y contundente noticia.
-
-La mañana de este sábado 16 de noviembre de 2024 se conoció que la Comisión Disciplinaria de la **Federación Ecuatoriana de Fútbol (FEF) decidió sancionar a Liga de Quito** con la merma de tres puntos por no cumplir con sus obligaciones pendientes.
-
-### Más noticias:
-
-* [EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/partidos-seleccion-ecuador-en-vivo-whatsapp-eliminatorias.html "EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp")
-* [Leonardo Campana desafectado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-angelo-preciado-eliminatorias.html "Leonardo Campana desafectado de la Selección de Ecuador")
-* [(Video) Cristiano Ronaldo anotó un golazo de chilena con Portugal](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-anoto-un-golazo-de-chilena-con-portugal.html "(Video) Cristiano Ronaldo anotó un golazo de chilena con Portugal")
-
-A falta de dos fechas, **Liga es el puntero de la tabla de posiciones de la segunda etapa** de la Liga Pro con 29 puntos y un gol diferencia positivo de +8. Su escolta es Independiente del Valle, primer finalista, que tiene 26 y +12.
-
-Antes que la Liga Pro se detenga por los partidos de la Tri, LDU le ganó 2-1 a IDV en el Rodrigo Paz Delgado con tantos del **paraguayo Álex Arce y el chileno Fernando Cornejo**, con lo que le sacó una ventaja de tres puntos y sacó el ticket como el principal candidato pata ganar la etapa.
-
-Sin embargo, lo ganada en el terreno de juego lo acaban de perder por no cumplir con los **acuerdos de pago a los que llegó con uno de sus acreedores**, por lo que la etapa se mantiene abierta y se definirá hasta la última fecha.
-
-En la fecha 14, **LDU visitará a Universidad Católica en el estadio Olímpico Atahualpa** e Independiente del Valle recibe en su cancha a Macará.
-
-En la última jornada Liga recibirá al Deportivo Cuenca en el Rodrigo Paz Delgado, mientras que **IDV viajará a Machala para enfrentarse a Orense** en el 9 de Mayo.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/sancion_liga_2-1024x683.jpg)
-
-Foto: API.
-
-¿Qué dice la sanción de Liga?
------------------------------
-
-La Comisión Disciplinaria de la FEF decidió sancionar a los universitarios “con la pérdida de tres puntos que hubiera obtenido o llegare a obtener, **que les serán restados para determinar su ubicación en la correspondiente tabla de posiciones**, de la respectiva etapa; además, no podrá negociar jugadores ni adquiriendo ni cediendo, sanción aplicable a todas las categorías”, reza la parte medular de la decisión tomada el 15 de noviembre.
-
-Los albos infringieron los artículos 150 y 151 del Código Disciplinario de la FEF por no “**cancelar o depositar en la Tesorería de la Federación Ecuatoriana de Fútbol** los valores adeudados, en dinero, en efectivo o cheque certificado, lo cual será demostrado con los recibos auténticos de pago ante la Comisión Disciplinaria o a su vez presentar convenio suscrito con el acreedor”.
-
-El **referido pago se debió realizar hasta las 18:00 del jueves 14 de noviembre**, porque el viernes 15 la categoría sub-15 tuvo su partido ante la Universidad Católica.
-
-Las deudas correspondiente son con Renato Ibarra por un valor de 35 499 dólares y Franklin Guerra por 85 000 dólares, por varias cuotas vencidas.
-
-“Por medio del presente lamentamos informar que nuestro club ha sido sancionado por la Federación Ecuatoriana de Fútbol. **Esta resolución será apelada debido a que el pago se realizó dentro del plazo correspondiente**“, dijo Liga en un comunicado difundido en sus redes sociales.
-
-Segunda etapa – fecha 13
-------------------------
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Copia-de-MAQUETA-POSICIONES-BF-PERSONAJE-10-819x1024.jpg)
-
-San viernes
------------
-
-La Selección de Ecuador entrenó en Guayaquil y prepara maletas
-==============================================================
-
-La última vez que la Selección de Ecuador visitó a Colombia empató 0-0 en Barranquilla.
----------------------------------------------------------------------------------------
-
-![Jugadores de la Selección de Ecuador en un entrenamiento en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_entrenamiento_1.jpg)
-
-La Selección de Ecuador **entrenó en el estadio George Capwell de Guayaquil** y se prepara para viajar a Barranquilla para enfrentar a Colombia en la duodécima fecha de las eliminatorias al Mundial 2026.
-
-El encuentro entre las Selección de Ecuador y Colombia se desarrollará en el e**stadio Metropolitano el martes 19 de noviembre de 2024**, desde las 18:00, con una temperatura que oscilará los 32°C.
-
-### Más noticias:
-
-* [El emotivo video para despedir a Ángel Mena de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-video-despedida-ecuador.html "El emotivo video para despedir a Ángel Mena de la Selección de Ecuador")
-* [(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay](https://www.elcomercio.com/deportes/futbol/lionel-messi-recibio-un-botellazo-y-se-enfurecio-en-paraguay.html "(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay")
-* [Deportivo Quito anuncia intentos de fraude con entradas para partido con Liga (P)](https://www.elcomercio.com/deportes/futbol/deportivo-quito-liga-portoviejo-entradas-fraude.html "Deportivo Quito anuncia intentos de fraude con entradas para partido con Liga (P)")
-
-Colombia descendió al tercer puesto en la tabla de posiciones **luego de perder agónicamente 3-2 en su visita a Uruguay** en el estadio Centenario de Montevideo. En 11 jornadas acumula 19 puntos y un gol diferencia positivo de +8.
-
-La campaña de los ‘cafeteros’ se resume en cinco victorias, cuatro empates, incluido el 0-0 en el Rodrigo Paz Delgado en 2023, y dos derrotas, **por lo que sumar ante Ecuador se vuelve fundamental** para seguir en la parte alta.
-
-Ecuador le ganó 4-0 a Bolivia en el Monumental de Guayaquil y se afianzó en la **quinta plaza con 16 puntos y un gol diferencia positivo de +6**. Pase lo que pase en la ‘Arenosa’ se mantendrá en zona directa de clasificación.
-
-En caso de que la Tri pierda contra Colombia y Paraguay sume en su visita a Bolivia en El Alto, **lo máximo que sucederá es que descienda a la sexta casilla**. Con estas probabilidades aún conserva uno de los boletos directos para la Copa del Mundo de Canadá, Estados Unidos y México.
-
-La Selección de Ecuador tiene lesionados
-----------------------------------------
-
-En la previa a su viaje a Barranquilla, la Federación Ecuatoriana de Fútbol (FEF) confirmó las lesiones del defensor **Angelo Preciado y del delantero Leonardo Campana**, por lo que quedaron desafectados de la concentración.
-
-La lesión de Preciado requerirá una intervención quirúrgica, y la de Campana un tratamiento para que el proceso de recuperación sea óptimo. Ambos deportistas deberán reportarse con sus respectivos equipos.
-
-Otra de las ausencias será la de **Ángel Mena, pero no tiene nada que ver con una lesión** o con una sanción, sino que responde a que el guayaquileño jugó su último encuentro como seleccionado nacional ante Bolivia y dio un paso al costado.
-
-El ‘Ángel del gol’ tiene 36 años y **cerró su ciclo con 62 juegos y ocho goles**, uno de ellos para la victoria 1-0 ante Chile en el Rodrigo Paz Delgado en el actual proceso, con lo que su etapa llegó a su final en el estadio Monumental de Barcelona SC.
-
-La buena noticia para Sebastián Beccacece es el retorno de Moisés Caicedo. **El mediocampista del Chelsea se perdió el partido ante ‘La Verde’** por acumulación de dos tarjetas amarillas, por lo que tuvo que mirar el compromiso desde las grandas.
-
-La última visita de Ecuador a **Barranquilla se selló con un sufrido empate 0-0**. Ese punto fue clave para encaminar la clasificación a la Copa del Mundo Catar 2022.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_entrenamiento_2-1024x683.jpg)
-
-San viernes
------------
