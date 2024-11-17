@@ -1,11 +1,11 @@
 [](#sidr-main)
 
-[![](https://linuxhint.com/wp-content/uploads/2019/11/Logo-final.png)](https://linuxhint.com/)
+[![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
+
+![](https://linuxhint.com/wp-content/uploads/2019/11/Logo-final.png)](https://linuxhint.com/)
 
 * [Home](https://linuxhint.com/)
 * [YouTube](https://www.youtube.com/c/linuxhint/videos)
-* [Twitter](https://twitter.com/linuxhintdotcom)
-* [Subscribe](https://linuxhint.cc/)
 * [](javascript:void(0))
     * 
 
@@ -132,11 +132,15 @@ We are a participant in the Amazon Services LLC Associates Program, an affiliate
 
 We are a participant in Google Analytics Program in order to understand user behavior on our site. These are standard offerings from Google for publishers. Please see Google’s [policy on Privacy](https://www.google.com/policies/privacy/partners/).
 
+### 19\. Affiliate Links
+
+We participate in affiliate marketing programs. This means we may post customized links, provided by retailers, to track referrals to their websites, and we may earn an advertising fee from any purchases made through these links. This program uses cookies to track visits for the purposes of assigning commission on these sales.
+
 For questions or inquiries please contact us:  
 **  
 Linux Hint LLC  
-1309 S Mary Ave, Suite 210  
-Sunnyvale, CA 94087  
+1210 Kelly Park Cir  
+Morgan Hill, CA 95037  
 [\[email protected\]](https://linuxhint.com/cdn-cgi/l/email-protection)**
 
 **Linux Hint LLC, [\[email protected\]](https://linuxhint.com/cdn-cgi/l/email-protection)  
