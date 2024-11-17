@@ -285,11 +285,29 @@ Past Week
 
 ### Most Read Articles
 
-[](https://www.quantamagazine.org/privacy-policy/)
+[![An illustration of a man using a telescope to look at a constellation in the shape of a mathematical curve.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Elliptic-Curve-Record_crDaniel-Garcia-Thumbnail.webp)](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 
-[#### Privacy Policy](https://www.quantamagazine.org/privacy-policy/)
+[#### New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
 
-_By_ [Quanta Magazine](https://www.quantamagazine.org/authors/quanta)
+_By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
+
+[![](https://www.quantamagazine.org/wp-content/uploads/2024/11/PublicKeyCryptoExplainer-crKristinaArmitage-Thumbnail.webp)](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+
+[#### How Public Key Cryptography Really Works, Using Only Simple Math](https://www.quantamagazine.org/how-public-key-cryptography-really-works-20241115/)
+
+_By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
+
+[![A meteorite floating in space](https://www.quantamagazine.org/wp-content/uploads/2024/11/TheComet_crChristianStangl-Thumbnail.webp)](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
+
+[#### The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
+
+_By_ [Elise Cutts](https://www.quantamagazine.org/authors/elise-cutts)
+
+[![Animation in which tornadoes twirl amid a crystalline lattice.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Supersolids-crIbrahimRayintakath_RuiBrazThumbnail.webp)](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+
+[#### Physicists Spot Quantum Tornadoes Twirling in a ‘Supersolid’](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
+
+_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
 
 The Quanta Newsletter
 
