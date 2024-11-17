@@ -14,27 +14,27 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
-* [![How To Read More in 2024](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/26151938/ReadMore_1200x628_600x314-nav.jpg)
-    
-    How To Read More in 2024
-    
-    Learn More >](https://www.penguinrandomhouse.com/articles/how-to-read-more/)
-
-* * *
-
 * [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
     Audiobooks for Kids
     
     Learn More >](https://www.penguinrandomhouse.com/the-read-down/audiobooks-for-kids/)
+
+* * *
+
+* [![Children’s & YA Books That Celebrate Native American Heritage](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/11/04160201/Diversity-Nov-Native-American-Heritage-Month-HL-1500x500-v3.jpg)
+    
+    Children’s & YA Books That Celebrate Native American Heritage
+    
+    Learn More >](https://www.readbrightly.com/native-american-history-experience-kids-teens/)
+
+* * *
+
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
+    
+    Browse All Our Lists, Essays, and Interviews
+    
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * <
     
