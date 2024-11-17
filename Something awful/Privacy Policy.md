@@ -205,25 +205,23 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Warhammer 40,000 Core Rules (5th Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-warhammer-40k/1/)
-* [The Art of Werewolf: The Apocalypse (1990s)](https://www.somethingawful.com/dungeons-and-dragons/werewolf-bad-art/1/)
-* [Movie Title Mix-Up!](https://www.somethingawful.com/photoshop-phriday/movie-title-mixup/1/)
-* [Failed Children's Toys](https://www.somethingawful.com/news/failed-childrens-toys/)
+* [Star Wars D20 Original Adventure: The Empire's Bogus Merch (Part 2 of 2)](https://www.somethingawful.com/dungeons-and-dragons/star-wars-yadda/1/)
+* [Star Wars D20 Original Adventure: The Empire's Bogus Merch (Part 1 of 2)](https://www.somethingawful.com/dungeons-and-dragons/star-wars-hutt/1/)
 * [Rifts: Core Book](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-rifts/1/)
+* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [Goya Adobo and Sazon thread (Lawreys okay too)](http://forums.somethingawful.com/showthread.php?threadid=4075454 "Goya Adobo and Sazon thread (Lawreys okay too)")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Do you try to choose an appropriate "post icon" for your threads?](http://forums.somethingawful.com/showthread.php?threadid=4075485 "Do you try to choose an appropriate  "post icon" for your threads?")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/photoshop.png) [Discount hieroglyphs for a collapsing society](http://forums.somethingawful.com/showthread.php?threadid=4075453 "Discount hieroglyphs for a collapsing society")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [let's post double dactyls (long op) (effortpost) (all skill levels welcome)](http://forums.somethingawful.com/showthread.php?threadid=4075500 "let's post double dactyls (long op) (effortpost) (all skill levels welcome)")
 
 ### Random Articles
 
-* [Gilligan's Island](https://www.somethingawful.com/rom-pit/gilligans-island/)
-* [Ghosts of Jan's Courtyard](https://www.somethingawful.com/awful-links/awful-link-1121/)
-* [Galgameth](https://www.somethingawful.com/movie-reviews/galgameth/1/)
-* [OHHHHHH YYEEEEEAH! The Macho Man Warned You About Hulk Hogan](https://www.somethingawful.com/news/hulk-hogan-racist/)
-* [Welcome to Mcdonalds. May I take your order?](https://www.somethingawful.com/news/welcome-mcdonalds-may/)
+* [I'm a VERY angry mouse](https://www.somethingawful.com/comedy-goldmine/very-angry-mouse/1/)
+* [The Advanced Beginner's Guide to Farming](https://www.somethingawful.com/news/advanced-beginners-guide/)
+* [You Make Me Sick](https://www.somethingawful.com/news/you-make-me/)
+* [Offensive Cereals](https://www.somethingawful.com/photoshop-phriday/offensive-cereals/)
+* [Dungeons & Dragons: Deities & Demigods (Cthulhu Edition)](https://www.somethingawful.com/dungeons-and-dragons/wtf-deities-demigods/1/)
 
 [Random!](https://www.somethingawful.com/random/)
 
