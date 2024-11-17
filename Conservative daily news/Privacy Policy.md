@@ -2,14 +2,14 @@ Saturday, November 16 2024
 
 Breaking News
 
+* [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/)
+* [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/)
+* [Huge Swaths Of America Face Blackout Risks If Winter Is Bitter, Grid Watchdog Warns](https://www.conservativedailynews.com/2024/11/huge-swaths-of-america-face-blackout-risks-if-winter-is-bitter-grid-watchdog-warns/)
+* [RFK To The Rescue — It’s Time To Make America Healthy](https://www.conservativedailynews.com/2024/11/rfk-to-the-rescue-its-time-to-make-america-healthy/)
+* [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice |](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+* [There’s A Way To Fix America’s Broken Budget Process](https://www.conservativedailynews.com/2024/11/theres-a-way-to-fix-americas-broken-budget-process/)
+* [President Joe Biden’s Schedule for Saturday, November 16, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-saturday-november-16-2024/)
 * [Trump Announces His Pick For White House Press Secretary](https://www.conservativedailynews.com/2024/11/trump-announces-his-pick-for-white-house-press-secretary/)
-* [Forget The Senate, Let The View Handle Confirmations](https://www.conservativedailynews.com/2024/11/forget-the-senate-let-the-view-handle-confirmations/)
-* [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/)
-* [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/)
-* [President Joe Biden’s Schedule for Friday, November 15, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-15-2024/)
-* [Special Counsel Jack Smith Moves To Freeze Trump’s Florida Case Proceedings](https://www.conservativedailynews.com/2024/11/special-counsel-jack-smith-moves-to-freeze-trumps-florida-case-proceedings/)
-* [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
-* [After $1 Billion Failed To Stop Trump, Lib Donors Balk At Funding ‘Resistance’](https://www.conservativedailynews.com/2024/11/after-1-billion-failed-to-stop-trump-lib-donors-balk-at-funding-resistance/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -115,72 +115,75 @@ Created using the Donation Thermometer plugin https://wordpress.org/plugins/dona
 Red = Recurring Donations  
 Orange = One-Time Donations
 
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+    
+    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice |](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
+    
+    November 16, 2024
+    
 * [![](https://www.conservativedailynews.com/wp-content/uploads/2018/11/Pete-Hegseth-Fox-News-Modern-Warrior-veterans-day-special.jpg)](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
     
     [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/)
     
     November 14, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Chuck-Schumer-and-Nancy-Pelosi.jpg)](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
-    
-    [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/)
-    
-    November 12, 2024
-    
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Donald-Trump-Karoline-Leavitt-220x150.jpg)](https://www.conservativedailynews.com/2024/11/trump-announces-his-pick-for-white-house-press-secretary/)
+* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/)
     
-    [Trump Announces His Pick For White House Press Secretary](https://www.conservativedailynews.com/2024/11/trump-announces-his-pick-for-white-house-press-secretary/)
+    [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5778-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/forget-the-senate-let-the-view-handle-confirmations/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5780-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/)
     
-    [Forget The Senate, Let The View Handle Confirmations](https://www.conservativedailynews.com/2024/11/forget-the-senate-let-the-view-handle-confirmations/)
+    [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/01/1200px-NATO_OTAN_landscape_logo.svg.png)](https://www.conservativedailynews.com/2024/11/nato-forces-mobilized-as-russian-jets-cross-lines-in-baltic-sea/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/12/Winter-Storm.jpg)](https://www.conservativedailynews.com/2024/11/huge-swaths-of-america-face-blackout-risks-if-winter-is-bitter-grid-watchdog-warns/)
     
-    [NATO Forces Mobilized As Russian Jets Cross Lines In Baltic Sea](https://www.conservativedailynews.com/2024/11/nato-forces-mobilized-as-russian-jets-cross-lines-in-baltic-sea/)
+    [Huge Swaths Of America Face Blackout Risks If Winter Is Bitter, Grid Watchdog Warns](https://www.conservativedailynews.com/2024/11/huge-swaths-of-america-face-blackout-risks-if-winter-is-bitter-grid-watchdog-warns/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/gv111524dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/begging-your-pardon/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/RfkjrOCT2017-220x150.jpg)](https://www.conservativedailynews.com/2024/11/rfk-to-the-rescue-its-time-to-make-america-healthy/)
     
-    [Begging Your Pardon](https://www.conservativedailynews.com/2024/11/begging-your-pardon/)
+    [RFK To The Rescue — It’s Time To Make America Healthy](https://www.conservativedailynews.com/2024/11/rfk-to-the-rescue-its-time-to-make-america-healthy/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Harsanyi-featw-220x150.webp)](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/gv081723dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/general-motors-cuts-1000-jobs-amid-push-to-sell-unprofitable-evs/)
     
-    [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/)
+    [General Motors Cuts 1,000 Jobs Amid Push To Sell Unprofitable EVs](https://www.conservativedailynews.com/2024/11/general-motors-cuts-1000-jobs-amid-push-to-sell-unprofitable-evs/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![angry-white-liberals](https://www.conservativedailynews.com/wp-content/uploads/2016/11/Angry-White-Liberals.jpg)](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/04/trump-with-finger-pointing.jpg)](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
     
-    [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/)
+    [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice |](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![Donald Trump department of government efficiency DOGE Elon Musk Vivek Ramaswamy](https://www.conservativedailynews.com/wp-content/uploads/2024/11/02-doge-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2019/02/Capitol-hill.jpg)](https://www.conservativedailynews.com/2024/11/theres-a-way-to-fix-americas-broken-budget-process/)
     
-    [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/)
+    [There’s A Way To Fix America’s Broken Budget Process](https://www.conservativedailynews.com/2024/11/theres-a-way-to-fix-americas-broken-budget-process/)
     
-    November 15, 2024
+    November 16, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/05/Crazy-Joe-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-15-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/nancy/)
     
-    [President Joe Biden’s Schedule for Friday, November 15, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-friday-november-15-2024/)
+    [Nancy](https://www.conservativedailynews.com/2024/11/nancy/)
     
-    November 15, 2024
+    November 16, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Canto Arms Releases the DL-44 Hero .22 Blaster](https://www.thegunpage.com/canto-arms-releases-the-dl-44-hero-22-blaster/10611931)
+* [Take Your Training Anywhere with the Strikeman Marksman Kit](https://www.thegunpage.com/take-your-training-anywhere-with-the-strikeman-marksman-kit/10611928)
+* [Idaho Elk Hunter Survives Grizzly Encounter](https://www.thegunpage.com/idaho-elk-hunter-survives-grizzly-encounter/10611918)
 * [Measuring Velocity With Math: Before Affordable Chronographs, There Was The Chronochart](https://www.thegunpage.com/measuring-velocity-with-math-before-affordable-chronographs-there-was-the-chronochart/10611917)
 * [TFB Review: Smith & Wesson M&P9 M2.0 Compact Carry Comp](https://www.thegunpage.com/tfb-review-smith-wesson-mp9-m2-0-compact-carry-comp/10611914)
 * [POTD: M16A4 In Rifle and Pistol Competition](https://www.thegunpage.com/potd-m16a4-in-rifle-and-pistol-competition/10611915)
@@ -188,9 +191,6 @@ Recent Posts
 * [SilencerCo SCO-15 Ambi Receiver Set: Review](https://www.thegunpage.com/silencerco-sco-15-ambi-receiver-set-review/10611910)
 * [Maxim Defense Unveils A New QD Suppressor And Flash Hider System](https://www.thegunpage.com/maxim-defense-unveils-a-new-qd-suppressor-and-flash-hider-system/10611908)
 * [Making Training Affordable: The Strikeman Laser Firearm Training System](https://www.thegunpage.com/making-training-affordable-the-strikeman-laser-firearm-training-system/10611906)
-* [Taurus Re-Introduce the Snub Nose Taurus 650](https://www.thegunpage.com/taurus-re-introduce-the-snub-nose-taurus-650/10611909)
-* [YouTuber Brandon Herrera for ATF Director? Mmmm, Probably Not; But Would be Funny](https://www.thegunpage.com/youtuber-brandon-herrera-for-atf-director-mmmm-probably-not-but-would-be-funny/10611903)
-* [FALCO Holsters Launches Hybrid Holsters Featuring New TalonGuard Syste](https://www.thegunpage.com/falco-holsters-launches-hybrid-holsters-featuring-new-talonguard-syste/10611899)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,8 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783259)
+* Stanley Warner on [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/#comment-783258)
 * [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783250)
 * [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783249)
 * KayCee on [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/#comment-783246)
@@ -239,8 +241,6 @@ Recent Comments
 * Stanley Warner on [Hey, Democrats — It’s Your Policies](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/#comment-783244)
 * Stanley Warner on [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/#comment-783243)
 * KayCee on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783242)
-* KayCee on [Electing Donald Trump is the Preface to a Bigger Story](https://www.conservativedailynews.com/2024/11/electing-donald-trump-is-the-preface-to-a-bigger-story/#comment-783240)
-* KayCee on [Teamsters President Says Pelosi, Schumer Should ‘Step Aside’ Like Biden](https://www.conservativedailynews.com/2024/11/teamsters-president-says-pelosi-schumer-should-step-aside-like-biden/#comment-783236)
 
 [Close](#)
 
