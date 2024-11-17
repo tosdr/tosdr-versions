@@ -58,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/b1bf7abc-3330-4cbc-89ab-92d063e91eeb/20241116T132101/b1bf7abc-3330-4cbc-89ab-92d063e91eeb_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b1bf7abc-3330-4cbc-89ab-92d063e91eeb/20241116T132101/b1bf7abc-3330-4cbc-89ab-92d063e91eeb_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Windy and mild start to the weekend. Rain is still on track for early next week.](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Slight shower chances on Sunday, and widespread rain is on track for Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
         
@@ -88,7 +88,7 @@ Davenport, IA »
 
 46°
 
-![Fair](/assets/shared-images/weather-icons/mostly-sunny-day_210x210.png)
+![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
