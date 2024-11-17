@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d0d6e00a-43d7-48b2-b884-9a0678234db0/20241117T005458/d0d6e00a-43d7-48b2-b884-9a0678234db0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d0d6e00a-43d7-48b2-b884-9a0678234db0/20241117T005458/d0d6e00a-43d7-48b2-b884-9a0678234db0_360x203.jpg)](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
+    *  [![](https://media.king5.com/assets/KING/images/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd/20241117T060823/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd/20241117T060823/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd_360x203.jpg)](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
         
         #### [Apartment fire in Bellevue displaces at least 15 units](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
         
-    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+    *  [![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_360x203.jpg)](https://www.king5.com/article/news/local/teen-passenger-critical-condition-after-car-drives-into-lake-washington/281-a30e4ca9-9b48-46d5-a59b-f5b64f2eb56d)
         
-        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        #### [Teen passenger in critical condition after car drives into Lake Washington](https://www.king5.com/article/news/local/teen-passenger-critical-condition-after-car-drives-into-lake-washington/281-a30e4ca9-9b48-46d5-a59b-f5b64f2eb56d)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/2dec7c7f-2e69-4da6-9b93-43866b48f233/20241116T064658/2dec7c7f-2e69-4da6-9b93-43866b48f233_16x9.jpg) ![](https://media.king5.com/assets/KING/images/2dec7c7f-2e69-4da6-9b93-43866b48f233/20241116T064658/2dec7c7f-2e69-4da6-9b93-43866b48f233_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/7a21e008-478a-47bf-a0ad-80c18fb79765/20241117T061923/7a21e008-478a-47bf-a0ad-80c18fb79765_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a21e008-478a-47bf-a0ad-80c18fb79765/20241117T061923/7a21e008-478a-47bf-a0ad-80c18fb79765_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,7 +94,7 @@ Navigation
 
 Seattle, WA »
 
-44°
+48°
 
 ![Fog](/assets/shared-images/weather-icons/fog-night_210x210.png)
 
