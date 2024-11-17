@@ -8,7 +8,7 @@ Updated automatically every 5 minutes
 
 Community Guidelines
 
-These Community Guidelines are designed to ensure that everyone understands what the Soundtrap community is all about. Don't forget that your use of Soundtrap is also subject to our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731797247619481&usg=AOvVaw2KzDt3MhFZMreMEfzR4ct4) including the User Guidelines contained therein.
+These Community Guidelines are designed to ensure that everyone understands what the Soundtrap community is all about. Don't forget that your use of Soundtrap is also subject to our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731818971645100&usg=AOvVaw0a4OL2d7eXfGbGi-gyblwC) including the User Guidelines contained therein.
 
 We expect you to follow these Community Guidelines and behave accordingly. Users who fail to abide by these Community Guidelines will, depending on severity, be warned or blocked from using the application and from communicating with their users.
 
@@ -16,11 +16,11 @@ Do:
 
 Respect others
 
-Soundtrappers are a diverse group with a lot of different opinions and views. That's great, but it means that everybody needs to be tolerant and respect people whose ideas are different from their own. Of course, if you feel that someone is expressing views or opinions that are offensive, defamatory, abusive, or otherwise contrary to our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731797247620589&usg=AOvVaw283vznIawuZSdcse-0gYzS), you can let us know by [sending an email](mailto:support@soundtrap.com).
+Soundtrappers are a diverse group with a lot of different opinions and views. That's great, but it means that everybody needs to be tolerant and respect people whose ideas are different from their own. Of course, if you feel that someone is expressing views or opinions that are offensive, defamatory, abusive, or otherwise contrary to our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731818971646001&usg=AOvVaw19RiaqMM0xhVf3YV3GIqjL), you can let us know by [sending an email](mailto:support@soundtrap.com).
 
 Create, upload and share
 
-Soundtrap enables you to express yourself through your sounds, and lets you share those sounds across the web. So, be creative, be expressive and let the world know how awesome you are. But remember – only share sounds that you have created yourself and have permission to share. If you are unsure whether you can upload something, check out our [Copyright Information Pages](https://www.google.com/url?q=https://www.soundtrap.com/copyright/&sa=D&source=editors&ust=1731797247621293&usg=AOvVaw182yrcDC5X6t7nDjza10fA).
+Soundtrap enables you to express yourself through your sounds, and lets you share those sounds across the web. So, be creative, be expressive and let the world know how awesome you are. But remember – only share sounds that you have created yourself and have permission to share. If you are unsure whether you can upload something, check out our [Copyright Information Pages](https://www.google.com/url?q=https://www.soundtrap.com/copyright/&sa=D&source=editors&ust=1731818971646725&usg=AOvVaw0iBdPUVmb7uthGt1azkW4w).
 
 Criticize, but do it constructively
 
@@ -30,7 +30,7 @@ Don't:
 
 Upload things that aren't yours to upload
 
-Uploading and sharing means you must always be 100 percent certain that you are the creator of what you're uploading, or have permission from all relevant rights holders. Anyone who repeatedly uploads other people’s content risks having their account suspended or terminated. If you need more information about copyright, check out our [Copyright Information pages](https://www.google.com/url?q=https://www.soundtrap.com/copyright/&sa=D&source=editors&ust=1731797247622041&usg=AOvVaw2MPxgu6CJU94DE0-ELkuy1).
+Uploading and sharing means you must always be 100 percent certain that you are the creator of what you're uploading, or have permission from all relevant rights holders. Anyone who repeatedly uploads other people’s content risks having their account suspended or terminated. If you need more information about copyright, check out our [Copyright Information pages](https://www.google.com/url?q=https://www.soundtrap.com/copyright/&sa=D&source=editors&ust=1731818971647561&usg=AOvVaw2Jv2ZHO9HqdFVE0dpekshg).
 
 Use someone else’s name
 
@@ -58,13 +58,13 @@ Tell us about it
 
 If you feel that someone is infringing your copyright, you can tell us about it [here](mailto:takedown@soundtrap.com).
 
-If you want to report any other breaches of these Guidelines or our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731797247623805&usg=AOvVaw00FcdQB_OsRza-sXMKKka-) – including offensive or defamatory comments, trade mark infringement, impersonation, stalking, harassment, breach of privacy or spamming - you can report this to us by [sending an email.](mailto:support@soundtrap.com)
+If you want to report any other breaches of these Guidelines or our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731818971649609&usg=AOvVaw2Dd6ZDIULleHdjjmTgs8xe) – including offensive or defamatory comments, trade mark infringement, impersonation, stalking, harassment, breach of privacy or spamming - you can report this to us by [sending an email.](mailto:support@soundtrap.com)
 
 Remember, we want Soundtrap to be a community where everyone feels comfortable and respected - it’s up to all of us to make sure this happens.
 
 To sum it up
 
-Be nice, respect the law and think before you post. We will remove any content that violates these Guidelines and/or our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731797247624472&usg=AOvVaw3RCMjOv6Vn8EwOJnlcLjq1). These Guidelines have been written to ensure that everyone within the community has a good experience on our site. Soundtrap should be a place of respect between people and a place for responsible content posting. We hope you agree and understand. If you do, don't or have any other questions or comments please [let us know](mailto:support@soundtrap.com).
+Be nice, respect the law and think before you post. We will remove any content that violates these Guidelines and/or our [Terms of Use](https://www.google.com/url?q=https://www.soundtrap.com/legal/terms/default&sa=D&source=editors&ust=1731818971650400&usg=AOvVaw3U8zfGvFTLtTqEZ9Ozuwb4). These Guidelines have been written to ensure that everyone within the community has a good experience on our site. Soundtrap should be a place of respect between people and a place for responsible content posting. We hope you agree and understand. If you do, don't or have any other questions or comments please [let us know](mailto:support@soundtrap.com).
 
 We may change these Community Guidelines from time to time, so please be sure to check back here every so often for any updates.
 
