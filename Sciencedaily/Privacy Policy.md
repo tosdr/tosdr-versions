@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 16, 2024**
+**November 17, 2024**
 
 * * *
 
@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Abrupt Drop in Global Freshwater Levels](https://www.sciencedaily.com/releases/2024/11/241116195719.htm)
 * [Earliest Evidence of Humans Using Fire](https://www.sciencedaily.com/releases/2024/11/241116195644.htm)
 * [Egyptians Drank Hallucinogenic Cocktails](https://www.sciencedaily.com/releases/2024/11/241115124633.htm)
 * [Scientific Thought On Emotions in Animals](https://www.sciencedaily.com/releases/2024/11/241114161428.htm)
@@ -217,7 +218,6 @@ this hour
 * [Living Microbes in Earth's Driest Desert](https://www.sciencedaily.com/releases/2024/11/241114125607.htm)
 * [AI Headphones Create a 'Sound Bubble'](https://www.sciencedaily.com/releases/2024/11/241114161302.htm)
 * [Backyard Birds Learn from New Neighbors](https://www.sciencedaily.com/releases/2024/11/241114161140.htm)
-* [4 Policies to Eliminate 90% of Plastic Waste](https://www.sciencedaily.com/releases/2024/11/241114161138.htm)
 
 Trending Topics
 ---------------
