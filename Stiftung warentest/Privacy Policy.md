@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 * [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
-* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 * [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
-* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 * [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
-* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
-* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
-* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [Rohstoff-ETF: Investieren in Öl, Kupfer, Gold und Co](https://www.test.de/Rohstoff-ETF-Investieren-in-Oel-Kupfer-Gold-und-Co-5966111-0/ "Rohstoff-ETF - Investieren in Öl, Kupfer, Gold und Co")
+* [Pantoffel-Portfolio ergänzen: Anlegen mit Kick – zehn Beimischungen im Test](https://www.test.de/Pantoffel-Portfolio-ergaenzen-Anlegen-mit-Kick-zehn-Beimischungen-im-Test-6111636-0/ "Pantoffel-Portfolio ergänzen - Anlegen mit Kick – zehn Beimischungen im Test")
+* [Zweites Leben für Textilien: Ballast abwerfen mit Bedacht](https://www.test.de/gebrauchte-kleidung-verkaufen-5954033-0/ "Zweites Leben für Textilien - Ballast abwerfen mit Bedacht")
 * [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
-* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
-* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
+* [Fake-Portal: Vorsicht vor der Seite „zins­vergleich“](https://www.test.de/Fake-Portal-Vorsicht-vor-der-Seite-zinsvergleich-6063646-0/ "Fake-Portal - Vorsicht vor der Seite „zinsvergleich“")
+* [Verpackungs­ärger: Poppadom Linsenchips](https://www.test.de/Verpackungsaerger-Poppadom-Linsenchips-6095390-0/ "Verpackungsärger - Poppadom Linsenchips")
 
 Service Stiftung Warentest
 
