@@ -8,13 +8,13 @@ Celebrating 25 Years of Voice! 🎉
     
     ReadSpeaker Online [**ReadSpeaker webReader**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-webreader/) [**ReadSpeaker docReader**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-docreader/) [**ReadSpeaker TextAid**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-textaid/)
     
-    ReadSpeaker Learning [**Education**](https://www.readspeaker.com/education/) [**Assessments**](https://www.readspeaker.com/education/assessments/) [**Text to Speech for K12**](https://www.readspeaker.com/education/k12/) [**Higher Education**](https://www.readspeaker.com/education/higher-education/) [**Corporate Learning**](https://www.readspeaker.com/education/corporate/) [**Learning Management Systems**](https://www.readspeaker.com/education/learning-management-systems/)
+    ReadSpeaker Learning [**Education**](https://www.readspeaker.com/sectors/education/) [**Assessments**](https://www.readspeaker.com/sectors/education/assessments/) [**Text to Speech for K12**](https://www.readspeaker.com/sectors/education/k12/) [**Higher Education**](https://www.readspeaker.com/sectors/education/higher-education/) [**Corporate Learning**](https://www.readspeaker.com/sectors/workplace-training/) [**Learning Management Systems**](https://www.readspeaker.com/sectors/education/learning-management-systems/)
     
     ReadSpeaker Enterprise [**AI Voice Generator**](https://www.readspeaker.com/solutions/ai-voice-generator/) [**Custom Text-To-Speech (TTS) Voices**](https://www.readspeaker.com/custom-text-to-speech-tts-voices/) [**Voice Cloning Software**](https://www.readspeaker.com/voice-cloning-software/) [**Text-To-Speech (TTS) Voices**](https://www.readspeaker.com/text-to-speech-tts-voices/) [**ReadSpeaker speechCloud API**](https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/) [**ReadSpeaker speechEngine SAPI**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sapi/) [**ReadSpeaker speechServer**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechserver/) [**ReadSpeaker speechServer MRCP**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechserver-mrcp/) [**ReadSpeaker speechEngine SDK**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sdk/) [**ReadSpeaker speechEngine SDK Embedded**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sdk-embedded/)
     
 * [Applications](#)
     
-    [**Accessibility**](https://www.readspeaker.com/applications/accessibility/) [**Automotive Applications**](https://www.readspeaker.com/applications/automotive/) [**Conversational AI**](https://www.readspeaker.com/applications/conversational-ai/) [**Education**](https://www.readspeaker.com/education/) [**Entertainment**](https://www.readspeaker.com/applications/entertainment/) [**Experiential Marketing**](https://www.readspeaker.com/applications/experiential-marketing/)
+    [**Accessibility**](https://www.readspeaker.com/applications/accessibility/) [**Automotive Applications**](https://www.readspeaker.com/applications/automotive/) [**Conversational AI**](https://www.readspeaker.com/applications/conversational-ai/) [**Education**](https://www.readspeaker.com/sectors/education/) [**Entertainment**](https://www.readspeaker.com/applications/entertainment/) [**Experiential Marketing**](https://www.readspeaker.com/applications/experiential-marketing/)
     
     [**Fintech**](https://www.readspeaker.com/applications/fintech/) [**Gaming**](https://www.readspeaker.com/applications/gaming/) [**Government**](https://www.readspeaker.com/applications/government/) [**Guidance & Navigation**](https://www.readspeaker.com/applications/guidance-navigation/) [**Healthcare**](https://www.readspeaker.com/applications/healthcare/) [**Media**](https://www.readspeaker.com/applications/media/)
     
@@ -22,7 +22,7 @@ Celebrating 25 Years of Voice! 🎉
     
 * [Resources](#)
     
-    [**Resources**](https://www.readspeaker.com/resources/) [**TTS Languages and Voices**](https://www.readspeaker.com/languages-voices/) [**Learning Library**](https://www.readspeaker.com/education/library/) [**TTS Talks and Webinars**](https://www.readspeaker.com/webinars/)
+    [**Resources**](https://www.readspeaker.com/resources/) [**TTS Languages and Voices**](https://www.readspeaker.com/languages-voices/) [**Learning Library**](https://www.readspeaker.com/sectors/education/library/) [**TTS Talks and Webinars**](https://www.readspeaker.com/webinars/)
     
     [**About ReadSpeaker**](https://www.readspeaker.com/about/) [**Careers**](https://www.readspeaker.com/careers/) [**Support**](https://www.readspeaker.com/support/)
     
@@ -50,12 +50,12 @@ Bring Your Text to Life With Our Voice Solutions
         * [ReadSpeaker docReader](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-docreader/)
         * [ReadSpeaker TextAid](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-textaid/)
     * [ReadSpeaker Learning](#)
-        * [Education](https://www.readspeaker.com/education/)
-        * [Assessments](https://www.readspeaker.com/education/assessments/)
-        * [Text to Speech for K12](https://www.readspeaker.com/education/k12/)
-        * [Higher Education](https://www.readspeaker.com/education/higher-education/)
-        * [Corporate Learning](https://www.readspeaker.com/education/corporate/)
-        * [Learning Management Systems](https://www.readspeaker.com/education/learning-management-systems/)
+        * [Education](https://www.readspeaker.com/sectors/education/)
+        * [Assessments](https://www.readspeaker.com/sectors/education/assessments/)
+        * [Text to Speech for K12](https://www.readspeaker.com/sectors/education/k12/)
+        * [Higher Education](https://www.readspeaker.com/sectors/education/higher-education/)
+        * [Corporate Learning](https://www.readspeaker.com/sectors/workplace-training/)
+        * [Learning Management Systems](https://www.readspeaker.com/sectors/education/learning-management-systems/)
     * [Readspeaker Enterprise](#)
         * [Custom Text-To-Speech (TTS) Voices](https://www.readspeaker.com/custom-text-to-speech-tts-voices/)
         * [Voice Cloning Software](https://www.readspeaker.com/voice-cloning-software/)
@@ -72,7 +72,7 @@ Bring Your Text to Life With Our Voice Solutions
     * [Accessibility](https://www.readspeaker.com/applications/accessibility/)
     * [Automotive Applications](https://www.readspeaker.com/applications/automotive/)
     * [Conversational AI](https://www.readspeaker.com/applications/conversational-ai/)
-    * [Education](https://www.readspeaker.com/education/)
+    * [Education](https://www.readspeaker.com/sectors/education/)
     * [Entertainment](https://www.readspeaker.com/applications/entertainment/)
     * [Experiential Marketing](https://www.readspeaker.com/applications/experiential-marketing/)
     * [Fintech](https://www.readspeaker.com/applications/fintech/)
@@ -80,7 +80,7 @@ Bring Your Text to Life With Our Voice Solutions
     * [Government](https://www.readspeaker.com/applications/government/)
     * [Guidance & Navigation](https://www.readspeaker.com/applications/guidance-navigation/)
     * [Healthcare](https://www.readspeaker.com/applications/healthcare/)
-    * [Publishing](https://www.readspeaker.com/education/publishing/)
+    * [Publishing](https://www.readspeaker.com/sectors/education/publishing/)
     * [Smart Home Devices](https://www.readspeaker.com/applications/smart-home-devices/)
     * [Transportation](https://www.readspeaker.com/applications/transportation/)
     * [Virtual Assistant Persona](https://www.readspeaker.com/applications/virtual-assistant-persona/)
@@ -92,7 +92,7 @@ Bring Your Text to Life With Our Voice Solutions
     * [TTS Languages and Voices](https://www.readspeaker.com/languages-voices/)
     * [Careers](https://www.readspeaker.com/careers/)
     * [The Top 10 Benefits of Text to Speech for Businesses](https://www.readspeaker.com/blog/benefits-of-text-to-speech/)
-    * [Learning Library](https://www.readspeaker.com/education/library/)
+    * [Learning Library](https://www.readspeaker.com/sectors/education/library/)
     * [Support](https://www.readspeaker.com/support/)
     * [e-Learning Voices: Text to Speech or Voice Actors?](https://www.readspeaker.com/blog/elearning-voice/)
     * [TTS Talks & Webinars](https://www.readspeaker.com/webinars/)
@@ -170,15 +170,15 @@ Solutions
 
 * [Solutions](#)
     
-    ReadSpeaker Online [**ReadSpeaker webReader**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-webreader/) [**ReadSpeaker docReader**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-docreader/) [**ReadSpeaker TextAid**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-textaid/) ReadSpeaker Learning [**Education**](https://www.readspeaker.com/education/) [**Assessments**](https://www.readspeaker.com/education/assessments/) [**Text to Speech for K12**](https://www.readspeaker.com/education/k12/) [**Higher Education**](https://www.readspeaker.com/education/higher-education/) [**Corporate Learning**](https://www.readspeaker.com/education/corporate/) [**Learning Management Systems**](https://www.readspeaker.com/education/learning-management-systems/) ReadSpeaker Enterprise [**AI Voice Generator**](https://www.readspeaker.com/solutions/ai-voice-generator/) [**Custom Text-To-Speech (TTS) Voices**](https://www.readspeaker.com/custom-text-to-speech-tts-voices/) [**Voice Cloning Software**](https://www.readspeaker.com/voice-cloning-software/) [**Text-To-Speech (TTS) Voices**](https://www.readspeaker.com/text-to-speech-tts-voices/) [**ReadSpeaker speechCloud API**](https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/) [**ReadSpeaker speechEngine SAPI**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sapi/) [**ReadSpeaker speechServer**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechserver/) [**ReadSpeaker speechServer MRCP**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechserver-mrcp/) [**ReadSpeaker speechEngine SDK**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sdk/) [**ReadSpeaker speechEngine SDK Embedded**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sdk-embedded/)
+    ReadSpeaker Online [**ReadSpeaker webReader**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-webreader/) [**ReadSpeaker docReader**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-docreader/) [**ReadSpeaker TextAid**](https://www.readspeaker.com/solutions/text-to-speech-online/readspeaker-textaid/) ReadSpeaker Learning [**Education**](https://www.readspeaker.com/sectors/education/) [**Assessments**](https://www.readspeaker.com/sectors/education/assessments/) [**Text to Speech for K12**](https://www.readspeaker.com/sectors/education/k12/) [**Higher Education**](https://www.readspeaker.com/sectors/education/higher-education/) [**Corporate Learning**](https://www.readspeaker.com/sectors/workplace-training/) [**Learning Management Systems**](https://www.readspeaker.com/sectors/education/learning-management-systems/) ReadSpeaker Enterprise [**AI Voice Generator**](https://www.readspeaker.com/solutions/ai-voice-generator/) [**Custom Text-To-Speech (TTS) Voices**](https://www.readspeaker.com/custom-text-to-speech-tts-voices/) [**Voice Cloning Software**](https://www.readspeaker.com/voice-cloning-software/) [**Text-To-Speech (TTS) Voices**](https://www.readspeaker.com/text-to-speech-tts-voices/) [**ReadSpeaker speechCloud API**](https://www.readspeaker.com/solutions/speech-production/readspeaker-speechcloud-api/) [**ReadSpeaker speechEngine SAPI**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sapi/) [**ReadSpeaker speechServer**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechserver/) [**ReadSpeaker speechServer MRCP**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechserver-mrcp/) [**ReadSpeaker speechEngine SDK**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sdk/) [**ReadSpeaker speechEngine SDK Embedded**](https://www.readspeaker.com/solutions/text-to-speech-software/readspeaker-speechengine-sdk-embedded/)
     
 * [Applications](#)
     
-    [**Accessibility**](https://www.readspeaker.com/applications/accessibility/) [**Automotive Applications**](https://www.readspeaker.com/applications/automotive/) [**Conversational AI**](https://www.readspeaker.com/applications/conversational-ai/) [**Education**](https://www.readspeaker.com/education/) [**Entertainment**](https://www.readspeaker.com/applications/entertainment/) [**Experiential Marketing**](https://www.readspeaker.com/applications/experiential-marketing/) [**Fintech**](https://www.readspeaker.com/applications/fintech/) [**Gaming**](https://www.readspeaker.com/applications/gaming/) [**Government**](https://www.readspeaker.com/applications/government/) [**Guidance & Navigation**](https://www.readspeaker.com/applications/guidance-navigation/) [**Healthcare**](https://www.readspeaker.com/applications/healthcare/) [**Media**](https://www.readspeaker.com/applications/media/) [**Publishing**](https://www.readspeaker.com/applications/publishing/) [**Smart Home Devices**](https://www.readspeaker.com/applications/smart-home-devices/) [**Transportation**](https://www.readspeaker.com/applications/transportation/) [**Virtual Assistant Persona**](https://www.readspeaker.com/applications/virtual-assistant-persona/) [**Voice Commerce**](https://www.readspeaker.com/applications/voice-commerce/)
+    [**Accessibility**](https://www.readspeaker.com/applications/accessibility/) [**Automotive Applications**](https://www.readspeaker.com/applications/automotive/) [**Conversational AI**](https://www.readspeaker.com/applications/conversational-ai/) [**Education**](https://www.readspeaker.com/sectors/education/) [**Entertainment**](https://www.readspeaker.com/applications/entertainment/) [**Experiential Marketing**](https://www.readspeaker.com/applications/experiential-marketing/) [**Fintech**](https://www.readspeaker.com/applications/fintech/) [**Gaming**](https://www.readspeaker.com/applications/gaming/) [**Government**](https://www.readspeaker.com/applications/government/) [**Guidance & Navigation**](https://www.readspeaker.com/applications/guidance-navigation/) [**Healthcare**](https://www.readspeaker.com/applications/healthcare/) [**Media**](https://www.readspeaker.com/applications/media/) [**Publishing**](https://www.readspeaker.com/applications/publishing/) [**Smart Home Devices**](https://www.readspeaker.com/applications/smart-home-devices/) [**Transportation**](https://www.readspeaker.com/applications/transportation/) [**Virtual Assistant Persona**](https://www.readspeaker.com/applications/virtual-assistant-persona/) [**Voice Commerce**](https://www.readspeaker.com/applications/voice-commerce/)
     
 * [Resources](#)
     
-    [**Resources**](https://www.readspeaker.com/resources/) [**TTS Languages and Voices**](https://www.readspeaker.com/languages-voices/) [**Learning Library**](https://www.readspeaker.com/education/library/) [**TTS Talks and Webinars**](https://www.readspeaker.com/webinars/) [**About ReadSpeaker**](https://www.readspeaker.com/about/) [**Careers**](https://www.readspeaker.com/careers/) [**Support**](https://www.readspeaker.com/support/) [**Blog**](https://www.readspeaker.com/blog/) [**The Top 10 Benefits of Text to Speech for Businesses**](https://www.readspeaker.com/blog/benefits-of-text-to-speech/) [**e-Learning Voices: Text to Speech or Voice Actors?**](https://www.readspeaker.com/blog/elearning-voice/)
+    [**Resources**](https://www.readspeaker.com/resources/) [**TTS Languages and Voices**](https://www.readspeaker.com/languages-voices/) [**Learning Library**](https://www.readspeaker.com/sectors/education/library/) [**TTS Talks and Webinars**](https://www.readspeaker.com/webinars/) [**About ReadSpeaker**](https://www.readspeaker.com/about/) [**Careers**](https://www.readspeaker.com/careers/) [**Support**](https://www.readspeaker.com/support/) [**Blog**](https://www.readspeaker.com/blog/) [**The Top 10 Benefits of Text to Speech for Businesses**](https://www.readspeaker.com/blog/benefits-of-text-to-speech/) [**e-Learning Voices: Text to Speech or Voice Actors?**](https://www.readspeaker.com/blog/elearning-voice/)
     
 * [Demos](https://www.readspeaker.com/demo/)
 * [Pricing](https://www.readspeaker.com/pricing/)
@@ -306,6 +306,12 @@ Luc
 Dutch (Belgium)  
 Male
 
+![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/be.svg)![Veerle](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/veerle.png)
+
+Veerle  
+Dutch (Belgium)  
+Female
+
 ![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![nl](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/nl.svg)![Alex](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alex.png)
 
 Alex  
@@ -324,12 +330,6 @@ Guus
 Dutch  
 Male
 
-![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![nl](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/be.svg)![Veerle](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/veerle.png)
-
-Veerle  
-Dutch (Belgium)  
-Female
-
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![AWARE](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/aware.png)
 
 AWARE  
@@ -342,22 +342,10 @@ Lizzy
 English (US)  
 Female
 
-![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Alice](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alice.png)
-
-Alice  
-English (UK)  
-Female
-
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Molly](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/molly.png)
 
 Molly  
 English (US)  
-Female
-
-![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Gemma](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gemma.png)
-
-Gemma  
-English (UK)  
 Female
 
 ![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Roy](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/roy.png)
@@ -366,23 +354,47 @@ Roy
 English (US)  
 Male
 
+![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Jack](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jack.png)
+
+Jack  
+English (AU)  
+Male
+
+![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Alice](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/alice.png)
+
+Alice  
+English (UK)  
+Female
+
+![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/gb.svg)![Gemma](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gemma.png)
+
+Gemma  
+English (UK)  
+Female
+
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Kayla](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/kayla.png)
 
 Kayla  
 English (US)  
 Female
 
+![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Mark](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mark.png)
+
+Mark  
+English (US)  
+Male
+
+![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Samuel](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/samuel.png)
+
+Samuel  
+English (US)  
+Male
+
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Sophie](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/sophie.png)
 
 Sophie  
 English (US)  
 Female
-
-![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Jack](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/jack.png)
-
-Jack  
-English (AU)  
-Male
 
 ![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/au.svg)![Mason](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mason.png)
 
@@ -480,21 +492,9 @@ Kate
 English (US)  
 Female
 
-![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Mark](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/mark.png)
-
-Mark  
-English (US)  
-Male
-
 ![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Paul](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/paul.png)
 
 Paul  
-English (US)  
-Male
-
-![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![en](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/us.svg)![Samuel](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/samuel.png)
-
-Samuel  
 English (US)  
 Male
 
@@ -507,6 +507,12 @@ Female
 ![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Benoit](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/benoit.png)
 
 Benoit  
+French  
+Male
+
+![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![fr](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/fr.svg)![Hugo](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hugo.png)
+
+Hugo  
 French  
 Male
 
@@ -610,6 +616,12 @@ Female
 
 Bayu  
 Indonesian  
+Male
+
+![male](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/male.svg)![it](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Fabio](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/fabio.png)
+
+Fabio  
+Italian  
 Male
 
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![it](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/it.svg)![Gaia](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/gaia.png)
@@ -768,6 +780,12 @@ Yuuka
 Japanese  
 Female
 
+![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Harin](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/harin.png)
+
+Harin  
+Korean  
+Female
+
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Hyeryun](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/hyeryun.png)
 
 Hyeryun  
@@ -783,12 +801,6 @@ Male
 ![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Dayoung](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/dayoung.png)
 
 Dayoung  
-Korean  
-Female
-
-![female](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_genders/female.svg)![ko](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_flags/1x1/kr.svg)![Harin](https://www.readspeaker.com/wp-content/themes/hoyaspeech/lib/_utils/../__data/voices_faces/resized/harin.png)
-
-Harin  
 Korean  
 Female
 
