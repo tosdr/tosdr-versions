@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A Certain Darkness Is Needed to See the Stars”
+“ Take the tools in hand and carve your own best life”
 
-[Osho](https://en.wikipedia.org/wiki/Rajneesh)
+[Douglas Lurton](https://archive.org/details/makemostofyourli00lurtrich)
 
 [](https://www.adafruit.com/about)
 
