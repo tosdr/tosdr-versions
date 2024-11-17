@@ -75,10 +75,10 @@ The store will not work correctly in the case when cookies are disabled.
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
     * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
-    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
+    * [Kinky Couple Collection](https://www.womanizer.com/eu/kinky-couple-collection)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
