@@ -16,6 +16,16 @@ FOX SCORES
 
 * Cricket
     
+* [Men's T20I
+    
+    18/11 19:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | AUS | –   |
+    | PAK | –   |
+    
+    Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250803)
 * [Women's BBL
     
     BRI won by 6 wkts
@@ -66,36 +76,6 @@ FOX SCORES
     Race Centre](https://www.foxsports.com.au/motorsport/supercars/race-centre?meetingid=746)
 * Basketball
     
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | NO  | 99  |
-    | LAL | 104 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010221/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | BOS | 126 |
-    | TOR | 123 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010219/box-score)
-* [NBA
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | DAL | 110 |
-    | SA  | 93  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010220/box-score)
 * [NBA
     
     Full Time
@@ -206,16 +186,6 @@ FOX SCORES
     | UTA | –   |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010229)
-* [WNBL
-    
-    Full Time
-    
-    |     |     |
-    | --- | --- |
-    | SOU | 98  |
-    | CAN | 77  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/wnbl/match-centre/WNBL2024-25030005/play-by-play)
 * [NBL
     
     Full Time
@@ -238,16 +208,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nbl/match-centre/NBL2024-25090005/play-by-play)
 * AFL
     
-* [AFL Women's
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | ADE | 7.7.49 |
-    | FRE | 1.6.12 |
-    
-    Match Centre](https://www.foxsports.com.au/afl/aflw/match-centre/AFLW20241201)
 * [AFL Women's
     
     Complete
@@ -282,82 +242,82 @@ FOX SCORES
     
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | NO  | –   |
-    | CLE | –   |
+    | NO  | 14  |
+    | CLE | 6   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251102)
 * [NFL
     
-    18/11 5:00 AEST
+    Half Time
     
     |     |     |
     | --- | --- |
-    | PIT | –   |
-    | BAL | –   |
+    | PIT | 9   |
+    | BAL | 7   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251103)
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | MIA | –   |
-    | LV  | –   |
+    | MIA | 17  |
+    | LV  | 6   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251116)
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | CHI | –   |
-    | GB  | –   |
+    | CHI | 13  |
+    | GB  | 14  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251113)
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | DET | –   |
-    | JAX | –   |
+    | DET | 35  |
+    | JAX | 6   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251114)
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | NE  | –   |
-    | LAR | –   |
+    | NE  | 10  |
+    | LAR | 21  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251101)
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | TEN | –   |
-    | MIN | –   |
+    | TEN | 3   |
+    | MIN | 16  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251115)
 * [NFL
     
-    18/11 5:00 AEST
+    3rd Qtr
     
     |     |     |
     | --- | --- |
-    | NYJ | –   |
-    | IND | –   |
+    | NYJ | 14  |
+    | IND | 16  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251108)
 * [NFL
@@ -390,16 +350,26 @@ FOX SCORES
     | KC  | –   |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251106)
+* [NFL
+    
+    18/11 12:20 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAC | –   |
+    | CIN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251107)
 * Rugby
     
 * [Men's Test
     
-    18/11 3:10 AEST
+    Complete
     
     |     |     |
     | --- | --- |
-    | WAL | –   |
-    | AUS | –   |
+    | WAL | 20  |
+    | AUS | 52  |
     
     Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241406)
 * Football
