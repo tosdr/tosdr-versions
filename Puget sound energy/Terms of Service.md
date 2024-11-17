@@ -15,8 +15,8 @@
             * [Pay station map](https://www.pse.com/en/pay-stations-map)
         * * [My bill](#)
             * [View and pay my bill](https://www.pse.com/account-and-billing/my-bill)
-            * Explain my bill
-            * Why is my bill high
+            * [Explain my bill](https://www.pse.com/en/account-and-billing/my-bill/howtoreadyourbill)
+            * [Why is my bill high](https://www.pse.com/en/account-and-billing/my-bill/why-is-my-bill-high)
             * [Payment history](https://www.pse.com/en/account-and-billing/my-accounts/bill-history/payment-history)
             * [Bill inserts and promotions](https://www.pse.com/en/account-and-billing/monthly-promotions)
             * [Go paperless](https://www.pse.com/account-and-billing/go-paperless)
@@ -30,7 +30,7 @@
             * [My account](https://www.pse.com/en/my-account)
             * [Start stop or move](https://www.pse.com/start-stop-move/start-stop-move)
             * [Preferences](https://www.pse.com/my-account/contact-information)
-            * My documents
+            * [My documents](https://www.pse.com/en/account-and-billing/documenthistory)
         * * [Rates](#)
             * [Tariffs, Rates, & Filings](https://www.pse.com/en/pages/rates)
             * [News and notices](https://www.pse.com/en/pages/rates/news-and-filings)
@@ -184,7 +184,7 @@
     * Account & Billing
         * * [My bill](#)
             * [View and pay my bill](https://www.pse.com/en/account-and-billing/pay-my-bill)
-            * Explain my bill
+            * [Explain my bill](https://www.pse.com/en/account-and-billing/my-bill/howtoreadyourbill)
             * [Help](https://www.pse.com/en/Customer-Service/help-center)
             * [Monthly promotions](https://www.pse.com/en/account-and-billing/monthly-promotions)
             * [Analyze my usage](https://www.pse.com/en/account-and-billing/my-usage/view-my-usage)
@@ -359,12 +359,6 @@
 *    [![EN](/-/media/Project/PSE/Portal/Icons/Language_icon.png?rev=6227f24f84234f0583eab7768827d362&modified=20220704095934&h=26&w=22&la=en&hash=951D374340D6D9C905ED9854E64AAF39) ![EN](/-/media/Project/PSE/Portal/Icons/Language_icon_fill.png?rev=04d9d5ac09b243b8930bcae27bc28178&modified=20221013170138&h=27&w=23&la=en&hash=F9F88C61EA0DFBFD42365B5FDA83DED0) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon.png?rev=6893de0879434b1dbe13f2ca17990c66&modified=20220714074900&h=27&w=22&la=en&hash=99D70EAEF69ADAA4010E9F3BE9725496) ![EN](/-/media/Project/PSE/Portal/Icons/Language_mobile_icon_fill.png?rev=1ea89ae8f7d54ad08d582eb69df53d40&modified=20221013170150&h=27&w=23&la=en&hash=144CDA651D943198CB42F9B6F8002978)](#)
     
 
-[PSE Customer Alert Nov 16, 10:00 PM](#collapseOne)  
-
-We are aware that some customers may be experiencing issues logging into their account.  
-  
-We are working on a resolution and apologize for the inconvenience.
-
 Terms & Conditions
 ------------------
 
@@ -513,7 +507,7 @@ CancelOK
 
 * [Contact us](https://www.pse.com/en/contactpse "Contact Us")
 * [My account](https://www.pse.com/en/my-account "My Account")
-* Start, stop or move
+* [Start, stop or move](https://www.pse.com/en/start-stop-move/start-stop-move "Start, Stop or Move")
 * [Power outages](https://www.pse.com/en/outage "Power outages")
 * [Construction](https://www.pse.com/en/construction-services "Construction services")
 * [Savings and rebates](https://www.pse.com/en/rebates "Savings and Rebates")
