@@ -1168,7 +1168,7 @@ ADD TO TOTE
 
 ### [Fruit Pigmented® Ultra Lengthening Mascara](https://www.100percentpure.com/products/fruit-pigmented-ultra-lengthening-mascara)
 
-5297 reviews (5297)
+5298 reviews (5298)
 
 $28.00 $28.00
 
