@@ -1298,7 +1298,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[Buy a $100 Gift Card and Get a $25 Gift Card for FREE! \*Must add to cart\* USE CODE: GIVEMORE](https://www.100percentpure.com/products/online-giftcards?variant=39924484800590 "https://www.100percentpure.com/products/online-giftcards?variant=39924484800590")
+[FREE SHIPPING FOR ALL US ORDERS!](https://www.100percentpure.com/products/online-giftcards?variant=39924484800590 "https://www.100percentpure.com/collections/shop-all")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
