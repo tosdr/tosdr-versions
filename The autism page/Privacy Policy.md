@@ -11,7 +11,6 @@
 * [Recently Diagnosed?](https://www.theautismpage.com/recently-diagnosed/)
 * [PECS](https://www.theautismpage.com/pecs/)
 * [Sensory](https://www.theautismpage.com/sensory-homepage/)
-* [Free Autism Resources](https://www.theautismpage.com/resources/)
 * [Reviews](https://www.theautismpage.com/category/product-reviews/)
 * [Days Out](https://www.theautismpage.com/category/days-out/)
 * [Blog](https://www.theautismpage.com/blog/)
@@ -149,9 +148,9 @@ Number of items in basket: 0
 
 ### Search
 
-![](https://www.theautismpage.com/wp-content/uploads/2024/05/Jade-2.jpg)
+![](https://www.theautismpage.com/wp-content/uploads/2024/11/Jade-1-800x1200.jpg)
 
-Hi my name is Jade and I am a married mum of two boys (8 & 10). We are UK based in the West Country between Bristol and Bath. Stick around while I share information and resources related to autism that have been helpful to us since my eldest was diagnosed at age 2. Hopefully you will find something that can help you.
+Hi my name is Jade and I am a married mum of two boys (9 & 11). We are UK based in the West Country between Bristol and Bath. Stick around while I share information and resources related to autism that have been helpful to us since my eldest was diagnosed at age 2. Hopefully you will find something that can help you.
 
 ### Popular Posts:
 
