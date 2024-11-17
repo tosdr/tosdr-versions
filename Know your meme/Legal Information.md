@@ -97,30 +97,30 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 * [Meme Insider](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
 
-* [![There Are Hidden Messages in "Meaningful" Quotes](https://i.kym-cdn.com/featured_items/icons/wide/000/026/672/cover3.jpg "Happy Anniversary To Sbeve")
+* [![Relaxed Liberals Strike Back At Edgelords With The Opposite Version Of The Ironic 'Relax, Liberal' Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/689/cover13.jpg "Relaxed Liberals Strike Back At Edgelords With The Opposite Version Of The Ironic 'Relax, Liberal' Meme")
     
-    Happy Anniversary To Sbeve](https://knowyourmeme.com/memes/she-believed-sbeve)
+    Relaxed Liberals Strike Back At Edgelords With The Opposite Version Of The Ironic 'Relax, Liberal' Meme](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor)
     
-* [![Though It Comes From, Well, You Know, The First Page Of 'Emergence' Is Also A 'Wink Wink' Redraw Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/671/Metamorphosis_1st_page_thumbnail.png "Though It Comes From, Well, You Know, The First Page Of 'Emergence' Is Also A 'Wink Wink' Redraw Meme")
+* [![No, This is Patrick](https://i.kym-cdn.com/featured_items/icons/wide/000/026/688/tumblr_kumgingKDj1qzhteao1_500.jpg "24 Years Ago, 'No This Is Patrick' Blessed Our TV Screens For The First Time")
     
-    Though It Comes From, Well, You Know, The First Page Of 'Emergence' Is Also A 'Wink Wink' Redraw Meme](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws)
+    24 Years Ago, 'No This Is Patrick' Blessed Our TV Screens For The First Time](https://knowyourmeme.com/memes/no-this-is-patrick)
     
-* [![Minecraft Steve Has Been Messing With People In A Recent IRL Edit Trend](https://i.kym-cdn.com/featured_items/icons/wide/000/026/670/cover3.jpg "Minecraft Steve Has Been Messing With People In A Recent IRL Edit Trend")
+* [![You're a wizard Harry. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/687/You're_a_wizard_Harry!_0-23_screenshot.png "The 'You're a Wizard, Harry' Meme Is 23 Years Old Today")
     
-    Minecraft Steve Has Been Messing With People In A Recent IRL Edit Trend](https://knowyourmeme.com/memes/minecraft-steve-trolling-people)
+    The 'You're a Wizard, Harry' Meme Is 23 Years Old Today](https://knowyourmeme.com/memes/youre-a-wizard-harry)
     
-* [![Alleged TikTok Feud Between Lizzo And Lana Del Rey Sparks Memes And Online Discussion](https://i.kym-cdn.com/featured_items/icons/wide/000/026/669/Lana_and_lizzo_feud_cover.jpg "Alleged TikTok Feud Between Lizzo And Lana Del Rey Sparks Memes And Online Discussion")
+* [!["👉😎👉 Zoop!" Comments Take Over Reddit](https://i.kym-cdn.com/featured_items/icons/wide/000/026/686/zooop.jpg "Happy Anniversary To 'Zoop'")
     
-    Alleged TikTok Feud Between Lizzo And Lana Del Rey Sparks Memes And Online Discussion](https://knowyourmeme.com/memes/events/lizzo-and-lana-del-rey-tiktok-feud)
+    Happy Anniversary To 'Zoop'](https://knowyourmeme.com/memes/%F0%9F%91%89%F0%9F%98%8E%F0%9F%91%89-zoop)
     
-* [![The 'Chip Shop Diva' Is Taking Over TikTok](https://i.kym-cdn.com/featured_items/icons/wide/000/026/668/csd.jpg "The 'Chip Shop Diva' Is Taking Over TikTok")
+* [!['Khia Asylum' Is The Newest 'Stan Twitter' Slang Going Viral Mocking 'Flopped' Singers](https://i.kym-cdn.com/featured_items/icons/wide/000/026/685/khia_asylum_cover.jpg "'Khia Asylum' Is The Newest 'Stan Twitter' Slang Going Viral Mocking 'Flopped' Singers")
     
-    The 'Chip Shop Diva' Is Taking Over TikTok](https://knowyourmeme.com/memes/people/chip-shop-diva-chip-shop-girl)
+    'Khia Asylum' Is The Newest 'Stan Twitter' Slang Going Viral Mocking 'Flopped' Singers](https://knowyourmeme.com/memes/khia-asylum)
     
 
 ##### Also Trending:
 
-[Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
+[Calm Down Edgelord, It's Called Wholesome Humor](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor "Calm Down Edgelord, It's Called Wholesome Humor") [Jake Paul vs. Mike Tyson Rigged Fight Conspiracy Theory](https://knowyourmeme.com/memes/jake-paul-vs-mike-tyson-rigged-fight-conspiracy-theory "Jake Paul vs. Mike Tyson Rigged Fight Conspiracy Theory") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Sprunki](https://knowyourmeme.com/memes/subcultures/sprunki "Sprunki") [Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [The Trump Dance](https://knowyourmeme.com/memes/the-trump-dance "The Trump Dance") [Emergence First Page / Saki Yoshida Redraws](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws "Emergence First Page / Saki Yoshida Redraws")
 
 Copyright Infringement Notice
 =============================
@@ -186,7 +186,7 @@ Please be advised that we may terminate the accounts of repeat copyright infring
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Greetings! You must login or signup first!
+### Hey! You must login or signup first!
 
 |     |     |
 | --- | --- |
