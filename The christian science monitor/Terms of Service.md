@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Senegal votes as leaders work to cement majority, push reforms](https://www.csmonitor.com/World/Africa/2024/1117/Senegal-votes-as-leaders-work-to-cement-majority-push-reforms "Senegal votes as leaders work to cement majority, push reforms")
+
 [### When Hezbollah rockets are incoming, and you can’t reach the shelter](https://www.csmonitor.com/World/Middle-East/2024/1115/hezbollah-rockets-terrorize-northern-israel-towns "When Hezbollah rockets are incoming, and you can’t reach the shelter")
 
 [### Trump prepares for ‘economic warfare’ with China](https://www.csmonitor.com/World/2024/1115/trump-tariffs-china-us-trade-war-deficit "Trump prepares for ‘economic warfare’ with China")
-
-[### ‘Elderly’ or ‘older’? Advocates and a dictionary address language on aging.](https://www.csmonitor.com/USA/Society/2024/1115/aging-vocabulary-gerontological-society-oed "‘Elderly’ or ‘older’? Advocates and a dictionary address language on aging.")
 
 * * *
 
