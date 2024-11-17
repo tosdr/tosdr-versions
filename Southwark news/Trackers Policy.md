@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-360x180.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+    
+    ### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+    
     [![East Street Market reopened on Tuesday, November 12](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3153-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
     
     ### [Comment: East Street Market is pulling together after tragic attack](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
@@ -52,10 +56,6 @@
     [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
     
     ### [‘We are asking the wealthiest and businesses to increase funding for public services’, say Peckham MP](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
-    
-    [![Albion pub in Rotherhithe in 2020. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/Albion-pub-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
-    
-    ### [Famous ‘courage’ sign from bulldozed pub could be a fixture on the former Anchor Brewery building by Tower Bridge](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-360x180.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+    
+    ### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+    
     [![East Street Market reopened on Tuesday, November 12](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3153-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
     
     ### [Comment: East Street Market is pulling together after tragic attack](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
@@ -138,10 +142,6 @@ View All Result
     [![Miatta Fahnbulleh](https://southwarknews.co.uk/wp-content/uploads/2024/01/Miatta-Fahnbulleh-e1704998877172-360x180.jpeg)](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
     
     ### [‘We are asking the wealthiest and businesses to increase funding for public services’, say Peckham MP](https://southwarknews.co.uk/area/peckham/we-are-asking-the-wealthiest-and-businesses-to-increase-funding-for-public-services-say-peckham-mp/)
-    
-    [![Albion pub in Rotherhithe in 2020. Photo from Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/Albion-pub-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
-    
-    ### [Famous ‘courage’ sign from bulldozed pub could be a fixture on the former Anchor Brewery building by Tower Bridge](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -203,18 +203,6 @@ This site uses cookies – small text files that are placed on your machine to h
 
 ### Popular Articles
 
-[![The pub has been derelict since 2012.](https://southwarknews.co.uk/wp-content/uploads/2024/10/IMG_3009-6-120x86.jpeg)](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-
-### [Dulwich’s Grove Tavern: a symbol of neglect in a neighbourhood obsessed with perfection](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-
-[8th November 2024](https://southwarknews.co.uk/area/dulwich/dulwichs-grove-tavern-a-symbol-of-neglect-in-a-neighbourhood-obsessed-with-perfection/)
-
-[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
 [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
@@ -233,6 +221,18 @@ This site uses cookies – small text files that are placed on your machine to h
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
+[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
+
+[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
 [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
@@ -240,6 +240,12 @@ This site uses cookies – small text files that are placed on your machine to h
 [12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 ### Featured Articles
+
+[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
 [![East Street Market reopened on Tuesday, November 12](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3153-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
 
@@ -270,12 +276,6 @@ This site uses cookies – small text files that are placed on your machine to h
 ### [Famous ‘courage’ sign from bulldozed pub could be a fixture on the former Anchor Brewery building by Tower Bridge](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
 
 [15th November 2024](https://southwarknews.co.uk/area/rotherhithe/famous-courage-sign-from-bulldozed-pub-could-be-a-fixture-on-the-former-anchor-brewery-building-by-tower-bridge/)
-
-[![Members of the GMB union stage a protest in Wandsworth in London, Britain 12 November 2024. Facundo Arrizabalaga/MyLondon](https://southwarknews.co.uk/wp-content/uploads/2024/11/GMB-Union-members-striking-outside-Wandsworth-town-hall-120x86.jpg)](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
-
-### [Parking wardens in three South London boroughs are out on strike over pay until Sunday](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
-
-[15th November 2024](https://southwarknews.co.uk/area/south-london/parking-wardens-in-three-south-london-boroughs-are-out-on-strike-over-pay-until-sunday/)
 
 ### USEFUL PAGES
 
