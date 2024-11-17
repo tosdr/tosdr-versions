@@ -632,7 +632,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 13 people voted yesNo, this review was not helpful 1 person voted no
+    Yes, this review was helpful 14 people voted yesNo, this review was not helpful 1 person voted no
     
 * **Thom H.**
     
@@ -658,7 +658,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 9 people voted yesNo, this review was not helpful 2 people voted no
+    Yes, this review was helpful 10 people voted yesNo, this review was not helpful 2 people voted no
     
 * **D E C.**
     
@@ -684,7 +684,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 11 people voted yesNo, this review was not helpful 1 person voted no
+    Yes, this review was helpful 12 people voted yesNo, this review was not helpful 1 person voted no
     
     **JH** 
     
@@ -731,7 +731,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 26 people voted yesNo, this review was not helpful 18 people voted no
+    Yes, this review was helpful 27 people voted yesNo, this review was not helpful 18 people voted no
     
 * **Dale E. W.**
     
@@ -761,7 +761,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 45 people voted yesNo, this review was not helpful 8 people voted no
+    Yes, this review was helpful 46 people voted yesNo, this review was not helpful 8 people voted no
     
     **JH** 
     
