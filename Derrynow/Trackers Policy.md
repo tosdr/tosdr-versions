@@ -259,28 +259,21 @@ Advertise with Us
 
 Most Popular
 
-[![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
+[![PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards")](https://www.derrynow.com/news/national-news/1657816/pictures-glitz-glam-and-gaa-as-players-turn-out-for-ladies-football-all-star-awards.html)
 
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards
 
-[IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[National News](https://www.derrynow.com/section/997/cookie-policy)
 
-[![Emergency services currently at scene of road traffic collision outside Dungiven](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Emergency services currently at scene of road traffic collision outside Dungiven")](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
+[PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards](https://www.derrynow.com/news/national-news/1657816/pictures-glitz-glam-and-gaa-as-players-turn-out-for-ladies-football-all-star-awards.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Legavallon Road outside Dungiven is currently closed
+[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Emergency services currently at scene of road traffic collision outside Dungiven](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Man wanted in Republic for assault on woman arrested by police in Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man wanted in Republic for assault on woman arrested by police in Belfast")](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Man wanted in Republic for assault on woman arrested by police in Belfast](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Girls star helps to launch Salvation Army Christmas family appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 
@@ -291,37 +284,30 @@ Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcal
 [Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![St Vincent de Paul launch annual appeal to support families at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Vincent de Paul launch annual appeal to support families at Christmas")](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+[![Ireland v England - TV channel, team news and betting odds for Nations League tie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ireland v England - TV channel, team news and betting odds for Nations League tie")](https://www.derrynow.com/news/soccer/1657887/ireland-v-england-tv-channel-team-news-and-betting-odds-for-nations-league-tie.html)
 
-This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley and Kaiden.
+Ireland v England - TV channel, team news and betting odds for Nations League tie
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Soccer](https://www.derrynow.com/section/997/cookie-policy)
 
-[St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Ireland v England - TV channel, team news and betting odds for Nations League tie](https://www.derrynow.com/news/soccer/1657887/ireland-v-england-tv-channel-team-news-and-betting-odds-for-nations-league-tie.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
+[![NSPCC NI announces 'Letter from Santa' campaign this festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NSPCC NI announces 'Letter from Santa' campaign this festive season")](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run")](https://www.derrynow.com/news/derry-sport/1655686/derry-greyhounds-sweet-sweet-success-for-la-calabaza-in-derby-run.html)
+[![MacD on Music: The Marra Is A New Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Marra Is A New Day")](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
 
-Brandywell on Monday: Race 4. The Len Mc Kinney & Track Lotto Brandywell Derby 525 Final was won by LA CALABAZA in 28.96. Pictured with winning trainer Michael Corr.
+The Marra
 
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+[What's On](https://www.derrynow.com/section/1058/what-s-on)
 
-[Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run](https://www.derrynow.com/news/derry-sport/1655686/derry-greyhounds-sweet-sweet-success-for-la-calabaza-in-derby-run.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[MacD on Music: The Marra Is A New Day](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
+----------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -503,6 +489,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![NSPCC NI announces 'Letter from Santa' campaign this festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NSPCC NI announces 'Letter from Santa' campaign this festive season")](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
@@ -510,7 +503,7 @@ Advertise with Us
 [Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Girls star helps to launch Salvation Army Christmas family appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
+[![Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/resizer/165/93/true/2024_11_15/%28front%29_Rebekah_Sharpe%2C_Ian_McElhinney%2C_Ava_Metcalfe_%28back%29_Major_Jacqui_Wright%2C_Eilidh_Wood_and_Annie_Cook%5B1%5D-1731673763633.jpg--.jpg?1731673764785 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 
 Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcalfe. Included at back are Major Jacqui Wright, Eilidh Wood and Annie Cook.
 
@@ -543,13 +536,6 @@ This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley
 
 [St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices -Saturday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%285%29-1695307343689.jpg--.jpg?1695307343746 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
