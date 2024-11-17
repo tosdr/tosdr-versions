@@ -8,10 +8,6 @@ Close
 
                                                         [SKIP TO MAIN CONTENT](#skipToMain)
 
- **Due to scheduled maintenance, Mobile and Online banking, After Hours Phone Center and ATMs (limited) will NOT be available Sunday, November 17 from 3am to 7am PST.** 
-
-Close Alert
-
 We use cookies on our site to provide the optimum user experience. By using this website, you agree to the use of cookies on this site. [Read our privacy policy.](https://www.lafcu.org/privacypolicies)
 
 Close Alert
