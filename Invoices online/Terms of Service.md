@@ -196,61 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Wish I started ages ago!
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I just want to compliment you and your team for an amazing back office software.
-> 
-> I have been struggling with a proper invoicing solution for six months now (to make time each month)
-> 
-> I just wish I started using Invoices Online ages ago.
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Terri Winfield
+Kobus Venter
 
-![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=74457101)  
-Lizzy Pop PTY(Ltd)
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=157810855)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=30580508)  
-Kainos (Pty) Ltd
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=202051353)  
+VerdanTech Pty Ltd
 
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=99951344)  
-IEMS (PTY) ltd
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=153357683)  
+Bloem Rugby Academy PTY (Ltd)
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=213976020)  
-OXYAIDER (PTY) LTD
+![valued client National Elite Security Services (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6096&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=184121913)  
+National Elite Security Services (PTY) LTD
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=212099822)  
-ARCHITEK PTY LTD
+![valued client FlipDesign - Renovation Contracting Firm](https://www.invoicesonline.co.za/scripts/image.php?bid=8663&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=213006337)  
+FlipDesign - Renovation Contracting Firm
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=148371677)  
-MR Compressors& Industrial Supplies
+![valued client SA Security Brokerz (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5188&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=150327319)  
+SA Security Brokerz (Pty) Ltd
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=71999135)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=88906384)  
+LEO DEVELOPMENT GROUP
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=8180759)  
-Chiron Medical Solutions
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=152245987)  
+SMART GUY PCS (PTY) LTD
 
-![valued client Wiselink Broadband Vryheid](https://www.invoicesonline.co.za/scripts/image.php?bid=6023&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=41626066)  
-Wiselink Broadband Vryheid
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=100028472)  
+Well Hung Art
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=54947791)  
-BD Maintenance
+![valued client Cooper Power South Africa (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2012&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=209139225)  
+Cooper Power South Africa (Pty) LTD
 
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=34948680)  
-Sarabi
+![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=92275215)  
+Forgotten Goods (Pty) Ltd
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=129781691)  
-CGHK Enterprises (PTY) LTD
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=86663250)  
+AMS Ambu Medical Supplies
 
-![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=113382704)  
-APTV Telecoms CC
+![valued client VIV'S TRUCKS (Pty) Ltd. (117)](https://www.invoicesonline.co.za/scripts/image.php?bid=6320&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=155413704)  
+VIV'S TRUCKS (Pty) Ltd. (117)
 
-![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=165949064)  
-NGB HOLDINGS PTY LTD
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=17818629)  
+West Coast Horse Trails
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=2229bbc22224df2a3937bd9aed3720978fdb743af187286cdeeb19002c19e71a&c=92553616)  
-CBR Verwe/Paints
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=5dd7754dc96e5339215a257d3099f7af0426d84aa827b1d4f5817258247580f6&c=144358609)  
+Website Café (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
