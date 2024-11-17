@@ -214,45 +214,45 @@ Welcome to our Newest Members!
 
 Testimonials
 
-> Through our information platforms, people can be more creative and enrich their lives through deeper communications with their friends and family. We view Linux and adjacent open source software as key elements for our business. ByteDance’s participation in the OIN community shows our consistent commitment to shared innovation. We will continue to support it with patent non-aggression in core Linux and other important OSS technologies.  
+> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
 
-Lynn WuChief IP CounselByteDance
+Keith BergeltCEOOpen Invention Network
 
-> As a leader in the development of intelligent automobiles, Daimler is committed to offering the highest-quality products across our portfolio. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in Linux.  
+> Open source technology, especially Linux, drives innovation in areas that are critical to the customers that we serve, including technologies such as servers, storage, cloud, converged applications, big data and IoT. By joining Open Invention Network, we are demonstrating our continued commitment to open source technology, and supporting it with patent non-aggression in Linux.  
 
-Ralf LambertiDirector Intellectual Property - Trends & InnovationDaimler
+Norihiro SuzukiVice President and Executive Officer - CTOHitachi
 
-> At Bareos GmbH & Co. KG, we believe in the power of open source to drive innovation and progress. Joining the Open Invention Network aligns with our commitment to create a collaborative and secure environment for the open-source community. We look forward to contributing to and benefiting from this global network of like-minded organizations.
+> The Electric Vehicle Charging Industry is booming and has benefited greatly from the freedom to use open source software such as Linux in our systems. The Open Charge Alliance stands for open collaboration, open standards and is a strong supporter of OIN. We can’t have patent aggression slowing down innovation and market growth in this exciting new industry.  
 
-Stephan DührManaging Director, Bareos GmbH & Co. KG
+Lonneke DriessenDirectorOpen Charge Alliance
 
-> Over its history, the automotive industry has undergone periods of significant innovation. We are now undergoing a fundamental shift in the way automotive platforms are used by consumers and businesses. Automotive Grade Linux and other OSS projects are helping the industry rapidly transform. By protecting them from patent risk, OIN has enabled automotive manufacturers to effectively integrate new kinds of software-based technologies into cars.  
+> We strive to be the top short video social platform and community for all users to record and share their lives. Linux and open source are critical elements in technologies we develop and integrate into our platform. By joining the Open Invention Network, we are demonstrating our continued commitment to innovation, and supporting it with patent non-aggression in core Linux and adjacent open source software.  
 
-Yosuke IidaGeneral Manager - Intellectual Property DivisionToyota
+Hongyi JiaGeneral CounselKuaishou Group
 
-> Our stated mission is “Enabling Leading-Edge Technologies” and continuously improving ourselves so that we can offer products and services that satisfy our customers worldwide and contribute to the development of our society through the development of the most advanced technologies. In order to further promote this effort, we believe that the utilization of open source software will be essential. Open source platforms enable the rapid deployment of advanced computing and testing solutions. W… [Read more](https://www.openinventionnetwork.com/testimonial/advantest/ "Complete testimonial by Koichi Tsukui")
+> With the Industrial Internet of Things (IIOT) reshaping what is possible in industrial settings — improving productivity, enhancing operational efficiency and increasing customer choice — we view Linux and other open source projects as key enablers in the IIOT. The success of the IIOT is predicated on the ability to connect and manage widely distributed sensors and devices across numerous vertical industries and compute the data effectively on an industrial scale.  
 
-Koichi TsukuiChief Technology Officer, Advantest
+Peter KohlschmidtCTOMoxa
 
-> As a licensee, we’ll have access to OIN resources in case we’re threatened by operating entities with patents.  
+> Although TAIYO YUDEN does not directly incorporate open source software in our products, our customers do, and it is important for us to support open source initiatives that are critical to the continued success of our clients.  
 
-Harvey AndersonVP & General CounselMozilla
+Shigetoshi AkinoGeneral Manager, Intellectual Property DivisionTAIYO YUDEN
 
-> _At Amazon, we are constantly looking for ways to innovate on behalf of our customers by investing in systems and technologies that allow us to better serve and understand them. Linux and Open Source are essential to many of our customers and a key driver of innovation across Amazon. We are proud to support a broad range of Open Source projects, foundations, and partners, and we are committed to the long-term success and sustainability of open source as a whole. By joining OIN, we are continuing … [Read more](https://www.openinventionnetwork.com/testimonial/amazon/ "Complete testimonial by Nithya Ruff")_
+> Google has been a proud member of OIN since joining the community in 2007. Linux and adjacent open source software power the cloud-based services of today and tomorrow. Throughout, OIN has been there to ensure that open source remains safe for users, consumers, and developers alike to consume and upon which to build.
 
-Nithya RuffDirector, Amazon Open Source Program Office
+Chris DiBonaDirector of Open SourceGoogle
+
+> The Mercari Group’s systems are supported by a variety of open source software. As a beneficiary of the enormous contributions made by the open source software community, we believe making a contribution to innovation in the world by publishing technology accumulated through the development and operation of our services, such as Mercari and Merpay, as open source is the right choice. Hence, the Mercari Group endorses the activities of OIN which protects innovations with open source from patent… [Read more](https://openinventionnetwork.com/testimonial/mercari/ "Complete testimonial by Mercari")
+
+Mercari
 
 > The OpenChain Project is part of a broad global community engaging with all aspects of intellectual property around open source.  
 
 Shane CoughlanProgram ManagerOpenChain Project
 
-> At Shopify, we’ve built our platform on Ruby on Rails. We view open source software as a key foundation for our business. By joining the Open Invention Network, we have committed to patent non-aggression in core Linux and adjacent open source software. We believe that this commitment will promote innovation and help enable entrepreneurs and developers to build on open source foundations without focusing on the threat of litigation. We strongly encourage all forward-looking ecommerce platforms,… [Read more](https://www.openinventionnetwork.com/testimonial/shopify/ "Complete testimonial by Robert Guay")
+> Hyundai Kia Motors are both committed to offering the highest-quality, intelligent vehicle platforms that leverage Linux and open source technologies. By joining the Open Invention Network, we will use the opportunity to further develop its infotainment platform. Moreover, we will help to ensure the ongoing development of open solutions that stimulate growth in the automotive industry.  
 
-Robert GuaySenior Counsel, Intellectual PropertyShopify
-
-> Linux Defenders is dedicated to protecting the Linux and the broader open-source community from poor-quality patents, through prior art activities and patent claim scope reduction.  
-
-Keith BergeltCEOOpen Invention Network
+Eon Youl ShinDirector of Intellectual Property Development GroupHyundai Motor Company
 
 [![Open Invention Network](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201373%20172'%3E%3C/svg%3E)
 
@@ -268,7 +268,7 @@ Your Name\*
 
 Email\*
 
-Name
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
