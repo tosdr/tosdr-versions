@@ -120,7 +120,7 @@ Cookies help us deliver our services. By using our services, you agree to our us
 * [Donate to Miraheze](https://meta.miraheze.org/wiki/Special:MyLanguage/Donate)
 * [Mobile view](https://meta.miraheze.org/wiki/Meta:General_disclaimer?mobileaction=toggle_view_mobile)
 
-* [![Hosted by Miraheze](https://static.miraheze.org/commonswiki/f/ff/Powered_by_Miraheze.svg)](https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze_Meta)[![Powered by MediaWiki](/1.42/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Hosted by Miraheze](https://static.wikitide.net/commonswiki/f/ff/Powered_by_Miraheze.svg)](https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze_Meta)[![Powered by MediaWiki](/1.42/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
 * [![Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://meta.miraheze.org/1.42/resources/assets/licenses/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 * Toggle limited content width
