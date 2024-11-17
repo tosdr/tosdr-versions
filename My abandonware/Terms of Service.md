@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
-* [Final Fantasy II](https://www.myabandonware.com/game/final-fantasy-ii-b6e)
-* [The Final Fantasy Legend](https://www.myabandonware.com/game/the-final-fantasy-legend-960)
-* [Dragon Ball 3: Gokūden](https://www.myabandonware.com/game/dragon-ball-3-gokuden-9rw)
-* [Romancing SaGa](https://www.myabandonware.com/game/romancing-saga-axq)
-* [Race Mania](https://www.myabandonware.com/game/race-mania-tr1)
+* [Shaw's Nightmare II](https://www.myabandonware.com/game/shaw-s-nightmare-ii-tr6)
+* [Scavenger](https://www.myabandonware.com/game/scavenger-tr5)
+* [Runen](https://www.myabandonware.com/game/runen-tr4)
+* [Rock, Paper, Scissors, Lizard, Spock](https://www.myabandonware.com/game/rock-paper-scissors-lizard-spock-tr3)
+* [Rock 'n' Spin](https://www.myabandonware.com/game/rock-n-spin-tr2)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [The Adventures of Buckaroo Banzai: Across the Eighth Dimension!](https://www.myabandonware.com/game/the-adventures-of-buckaroo-banzai-across-the-eighth-dimension-n31)
-* [Thunder in Paradise Interactive](https://www.myabandonware.com/game/thunder-in-paradise-interactive-og4)
-* [The Colditz Story](https://www.myabandonware.com/game/the-colditz-story-khb)
+* [Classix 1](https://www.myabandonware.com/game/classix-1-kma)
+* [Sega Saturn de Hakken!!: Tamagotchi Park](https://www.myabandonware.com/game/sega-saturn-de-hakken-tamagotchi-park-p4s)
+* [Speed Freak](https://www.myabandonware.com/game/speed-freak-sd4)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
