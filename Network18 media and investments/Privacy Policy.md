@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
     * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-    * [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
-    * [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-regrets-inviting-abhishek-bachchan-on-kaun-banega-crorepati-16-galti-kardi-inko-9120997.html)
-    * [Ashneer Grover](https://www.news18.com/movies/salman-khan-bashes-ashneer-grover-calls-out-his-doglapan-in-bigg-boss-18-yeh-jo-attitude-hai-9122149.html)
-    * [Bigg Boss 18](https://www.news18.com/entertainment/television/bigg-boss-18-rajat-dalal-nominates-these-two-contestants-in-a-new-twist-9121896.html)
+    * [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
+    * [Health Insurance](https://www.news18.com/business/ayushman-card-online-apply-for-above-70-years-old-9122329.html)
+    * [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-sidhu-to-replace-archana-puran-singh-in-kapil-sharmas-show-season-3-he-says-will-return-if-9123034.html)
+    * [Nayanthara](https://www.news18.com/movies/sorry-dhanush-nayanthara-apologises-in-viral-video-after-he-hated-her-work-in-naanum-rowdy-dhaan-9123053.html)
     * [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
-    * [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-gives-high-five-to-maasi-says-love-you-video-goes-viral-9122011.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
+* [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
 * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-* [Safest Banks](https://www.news18.com/business/banking-finance/rbi-has-declared-these-3-banks-as-the-safest-in-india-9119134.html)
-* [Amitabh Bachchan](https://www.news18.com/movies/amitabh-bachchan-regrets-inviting-abhishek-bachchan-on-kaun-banega-crorepati-16-galti-kardi-inko-9120997.html)
-* [Ashneer Grover](https://www.news18.com/movies/salman-khan-bashes-ashneer-grover-calls-out-his-doglapan-in-bigg-boss-18-yeh-jo-attitude-hai-9122149.html)
-* [Bigg Boss 18](https://www.news18.com/entertainment/television/bigg-boss-18-rajat-dalal-nominates-these-two-contestants-in-a-new-twist-9121896.html)
+* [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
+* [Health Insurance](https://www.news18.com/business/ayushman-card-online-apply-for-above-70-years-old-9122329.html)
+* [Navjot Singh Sidhu](https://www.news18.com/movies/navjot-sidhu-to-replace-archana-puran-singh-in-kapil-sharmas-show-season-3-he-says-will-return-if-9123034.html)
+* [Nayanthara](https://www.news18.com/movies/sorry-dhanush-nayanthara-apologises-in-viral-video-after-he-hated-her-work-in-naanum-rowdy-dhaan-9123053.html)
 * [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
-* [Priyanka Chopra](https://www.news18.com/movies/priyanka-chopras-daughter-malti-gives-high-five-to-maasi-says-love-you-video-goes-viral-9122011.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
