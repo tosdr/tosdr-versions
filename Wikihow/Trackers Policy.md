@@ -139,23 +139,22 @@ Save settings
 
 ### Featured Articles
 
+[![How Long Does the No Contact Rule Take to Work](https://www.wikihow.com/images/thumb/c/c3/How-Long-Does-the-No-Contact-Rule-Take-to-Work-Step-12.jpg/-crop-126-120-126px-How-Long-Does-the-No-Contact-Rule-Take-to-Work-Step-12.jpg)
+
+How Long Does the No Contact Rule Take to Work?](https://www.wikihow.com/How-Long-Does-the-No-Contact-Rule-Take-to-Work)
+
+[![Are You Happy](https://www.wikihow.com/images/thumb/2/29/Be-a-Hipster-Girl-Step-12-Version-2.jpg/-crop-126-120-126px-Be-a-Hipster-Girl-Step-12-Version-2.jpg)
+
+How Happy Am I Quiz](https://www.wikihow.com/Are-You-Happy)
+
+[![Live off the Grid](https://www.wikihow.com/images/thumb/1/1e/Live-off-the-Grid-Step-15-Version-3.jpg/-crop-126-120-126px-Live-off-the-Grid-Step-15-Version-3.jpg)
+
+How to  
+Live off the Grid](https://www.wikihow.com/Live-off-the-Grid)
+
 [![Maturity Test](https://www.wikihow.com/images/thumb/e/e4/Maturity-quiz.png/-crop-126-120-126px-Maturity-quiz.png)
 
 Am I Mature Quiz](https://www.wikihow.com/Maturity-Test)
-
-[![Get Six Pack Abs Fast](https://www.wikihow.com/images/thumb/4/4f/Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg/-crop-126-120-126px-Get-Six-Pack-Abs-Fast-Step-16-Version-2.jpg)
-
-How to  
-Get Six Pack Abs Fast](https://www.wikihow.com/Get-Six-Pack-Abs-Fast)
-
-[![Be Humble](https://www.wikihow.com/images/thumb/2/2e/Be-Humble-Step-23.jpg/-crop-126-120-126px-Be-Humble-Step-23.jpg)
-
-23 Best Practices to Become More Humble](https://www.wikihow.com/Be-Humble)
-
-[![Read Palms](https://www.wikihow.com/images/thumb/0/00/Read-Palms-Step-9.jpg/-crop-126-120-126px-Read-Palms-Step-9.jpg)
-
-How to  
-Read Palms](https://www.wikihow.com/Read-Palms)
 
   
 
@@ -198,4 +197,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-130
+154
