@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-16 Nov 2024
+17 Nov 2024
 
 * [Home
     
@@ -268,13 +268,6 @@ The Legavallon Road outside Dungiven is currently closed
 [Emergency services currently at scene of road traffic collision outside Dungiven](https://www.derrynow.com/news/local-news/1657381/emergency-services-currently-at-scene-of-road-traffic-collision-outside-dungiven.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
 
 [Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
@@ -282,21 +275,19 @@ The Legavallon Road outside Dungiven is currently closed
 [IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![Derry Death Notices -Saturday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices -Saturday")](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Saturday, November 16, 2024](https://www.derrynow.com/news/deaths/1656853/derry-death-notices-saturday-november-16-2024.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Man wanted in Republic for assault on woman arrested by police in Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Man wanted in Republic for assault on woman arrested by police in Belfast")](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
 
 [Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
 
 [Man wanted in Republic for assault on woman arrested by police in Belfast](https://www.derrynow.com/news/northern-ireland/1657458/man-wanted-in-republic-for-assault-on-woman-arrested-by-police-in-belfast.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![St Vincent de Paul launch annual appeal to support families at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Vincent de Paul launch annual appeal to support families at Christmas")](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
-
-This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley and Kaiden.
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Derry Girls star helps to launch Salvation Army Christmas family appeal](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 
@@ -306,6 +297,15 @@ Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcal
 
 [Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![St Vincent de Paul launch annual appeal to support families at Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "St Vincent de Paul launch annual appeal to support families at Christmas")](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+
+This year’s St Vincent de Paul Annual Appeal is launched by Amelija, Kimberley and Kaiden.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[St Vincent de Paul launch annual appeal to support families at Christmas](https://www.derrynow.com/news/local-news/1653926/st-vincent-de-paul-launch-annual-appeal-to-support-families-at-christmas.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Western Trust makes appeal for lifesaving donor breast milk](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
 
@@ -322,13 +322,6 @@ Brandywell on Monday: Race 4. The Len Mc Kinney & Track Lotto Brandywell Derby 5
 
 [Derry Greyhounds: Sweet, sweet success for La Calabaza in Derby run](https://www.derrynow.com/news/derry-sport/1655686/derry-greyhounds-sweet-sweet-success-for-la-calabaza-in-derby-run.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Police officers injured during protest as Hillary Clinton visited Belfast](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police officers injured during protest as Hillary Clinton visited Belfast")](https://www.derrynow.com/news/northern-ireland/1656774/police-officers-injured-during-protest-as-hillary-clinton-visited-belfast.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police officers injured during protest as Hillary Clinton visited Belfast](https://www.derrynow.com/news/northern-ireland/1656774/police-officers-injured-during-protest-as-hillary-clinton-visited-belfast.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
