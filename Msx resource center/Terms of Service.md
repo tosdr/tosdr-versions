@@ -13,7 +13,7 @@
     * [ARCHIVE](https://www.msx.org/archive)
 * [FORUM](https://www.msx.org/forum)
     * [MSX TALK](https://www.msx.org/forum/msx-talk)
-    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espa-ol)
+    * [DEBATES EN ESPAÑOL](https://www.msx.org/forum/debates-en-espagnol)
     * [MULTILINGUAL FORUMS](https://www.msx.org/forum/multilingual-forums-1)
 * [WIKI](http://www.msx.org/wiki/)
     * [INDEX](http://www.msx.org/wiki/)
@@ -153,9 +153,12 @@ Latest reactions
 
 Latest forum posts
 
+* [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
+* [msx .music. dsk](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-music-dsk "msx .music. dsk")
+* [Attack of the Petscii Robots - V9990](https://www.msx.org/forum/msx-talk/development/attack-of-the-petscii-robots-v9990?page=5 "Attack of the Petscii Robots - V9990")
+* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=27 "MSXgl – A new C game library for MSX")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
-* [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
 * [9958 FPGA drop-in clone is here: TN-VDP 20K.](https://www.msx.org/forum/msx-talk/hardware/9958-fpga-drop-in-clone-is-here-tn-vdp-20k?page=1 "9958 FPGA drop-in clone is here: TN-VDP 20K.")
 * [VAR = CALL FUNCTION ?](https://www.msx.org/forum/msx-talk/development/var-call-function?page=1 "VAR = CALL FUNCTION ?")
 * [Disk menu's](https://www.msx.org/forum/msx-talk/software-and-gaming/disk-menus?page=5 "Disk menu's")
@@ -163,9 +166,6 @@ Latest forum posts
 * [MSX Scans project v3](https://www.msx.org/forum/msx-talk/general-discussion/msx-scans-project-v3?page=2 "MSX Scans project v3")
 * [List of undumped MSX software (PLEASE HELP!)](https://www.msx.org/forum/msx-talk/software/list-undumped-msx-software-please-help?page=64 "List of undumped MSX software (PLEASE HELP!)")
 * [MSX1 what type fdd pcb it is?](https://www.msx.org/forum/msx-talk/hardware/msx1-what-type-fdd-pcb-it-is "MSX1 what type fdd pcb it is?")
-* [Wiki editing discussion](https://www.msx.org/forum/msx-talk/msx-resource-center/wiki-editing-discussion?page=224 "Wiki editing discussion")
-* [Penguin Adventure Remake - pre Alpha](https://www.msx.org/forum/msx-talk/general-discussion/penguin-adventure-remake-pre-alpha?page=1 "Penguin Adventure Remake - pre Alpha")
-* [multiple value variable](https://www.msx.org/forum/msx-talk/development/multiple-value-variable "multiple value variable")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
