@@ -95,6 +95,70 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
+More Creation Science Update
+
+[![](/i/Main%20Stage%20-%201400x1050/findingorder_1400x1050.jpg)](https://www.icr.org/article/order-in-disorder)
+
+[Non-Repeatable Repeatability: Finding Order in Disorder](https://www.icr.org/article/order-in-disorder/)
+
+Covering a flat surface with some pattern of geometric shapes with no overlaps or gaps is called tiling. Tiling shows up in many places, from the tiles...
+
+BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+
+[![](/i/Main%20Stage%20-%201400x1050/beetle-eating-leaf-1400x1050)](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen)
+
+[CET Model in Plants Is Clearly Seen](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen/)
+
+Plant scientists have known for decades that plants aren’t just static entities. The half-million or more species of plants in the world display...
+
+BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+
+[![](/i/Main%20Stage%20-%201400x1050/grandcanyoncoconino-1400x1050)](https://www.icr.org/article/evidence-flood-grand-canyon-coconino)
+
+[New Evidence of Flood in Grand Canyon](https://www.icr.org/article/evidence-flood-grand-canyon-coconino/)
+
+The Coconino Sandstone, famously exposed near the top of Grand Canyon’s splendid sedimentary layers, remains a controversial rock. Two counterclaims...
+
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+
+Shop Related Products
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+
+Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
+
+$12.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
+
+The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+
+Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+
+$7.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+
+Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+
+$4.99
+
+$9.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+
+The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+
+$16.99
+
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
