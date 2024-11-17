@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-I pray your business grows and it sure will as yours is number one in the market IMHO.
+worked perfectly i have purchased more
 
-Mr. Olu
+Austen Knight
