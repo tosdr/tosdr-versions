@@ -247,7 +247,7 @@ Back
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
@@ -275,7 +275,7 @@ article 3 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-
 
 ### Station Science Top News: Nov. 8, 2024
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)[![NASA astronaut and Expedition 71 Flight Engineer Tracy C. Dyson is pictured in the galley aboard the International Space Station's Unity module showing off food packets from JAXA (Japan Aerospace Exploration Agency).](https://www.nasa.gov/wp-content/uploads/2024/07/iss071e297201.jpg?w=1024)
 
 3 min read
 
@@ -341,7 +341,7 @@ article 1 day ago](https://www.nasa.gov/general/six-ways-supercomputing-advances
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
@@ -369,7 +369,7 @@ article 1 day ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![H
 
 ### Hubble Takes a Look at Tangled Galaxies
 
-article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)
+article 2 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)
 
 ### Highlights
 
@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-
 
 ### Dynamic Spin Rig Publications
 
-article 23 hours ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
