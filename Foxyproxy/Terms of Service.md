@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Keep up the great work!
+I'm actually quite impressed with the product \[GeoShift\].
 
-Jonathan Powell
+Dustin Personius
