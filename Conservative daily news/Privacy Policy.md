@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Why Matt Gaetz Scares Democrats More Than Trump](https://www.thegunpage.com/why-matt-gaetz-scares-democrats-more-than-trump/10611936)
 * [From Irons To Optics In USPSA Competition](https://www.thegunpage.com/from-irons-to-optics-in-uspsa-competition/10611934)
 * [Canto Arms Releases the DL-44 Hero .22 Blaster](https://www.thegunpage.com/canto-arms-releases-the-dl-44-hero-22-blaster/10611931)
 * [Take Your Training Anywhere with the Strikeman Marksman Kit](https://www.thegunpage.com/take-your-training-anywhere-with-the-strikeman-marksman-kit/10611928)
@@ -190,7 +191,6 @@ Recent Posts
 * [POTD: M16A4 In Rifle and Pistol Competition](https://www.thegunpage.com/potd-m16a4-in-rifle-and-pistol-competition/10611915)
 * [TFB Podcast Roundup 155: The November 15th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-155-the-november-15th-roundup/10611916)
 * [SilencerCo SCO-15 Ambi Receiver Set: Review](https://www.thegunpage.com/silencerco-sco-15-ambi-receiver-set-review/10611910)
-* [Making Training Affordable: The Strikeman Laser Firearm Training System](https://www.thegunpage.com/making-training-affordable-the-strikeman-laser-firearm-training-system/10611906)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,15 +232,15 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/#comment-783269)
+* Stanley Warner on [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/#comment-783268)
+* Stanley Warner on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783267)
 * Ted Thomas on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783266)
 * Stanley Warner on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783259)
 * Stanley Warner on [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/#comment-783258)
 * [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783250)
 * [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783249)
 * KayCee on [The Trump Doctrine](https://www.conservativedailynews.com/2024/11/the-trump-doctrine/#comment-783246)
-* Kaycee on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783245)
-* Stanley Warner on [Hey, Democrats — It’s Your Policies](https://www.conservativedailynews.com/2024/11/hey-democrats-its-your-policies/#comment-783244)
-* Stanley Warner on [Trump’s Sec Def Pick Will Give Pentagon Its First Real Wake Up Call In Decades](https://www.conservativedailynews.com/2024/11/trumps-sec-def-pick-will-give-pentagon-its-first-real-wake-up-call-in-decades/#comment-783243)
 
 [Close](#)
 
