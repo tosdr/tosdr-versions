@@ -2,7 +2,7 @@
 
 Privacy Policy – Omax Health - Omax Health                  
 
-               
+              
 
 FREE U.S. SHIPPING ON ALL ORDERS
 
