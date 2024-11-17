@@ -731,7 +731,7 @@ Sort Most RecentOldestMost HelpfulPhotos & VideosHighest RatingLowest RatingLeas
     
     Was this helpful?
     
-    Yes, this review was helpful 27 people voted yesNo, this review was not helpful 18 people voted no
+    Yes, this review was helpful 28 people voted yesNo, this review was not helpful 18 people voted no
     
 * **Dale E. W.**
     
