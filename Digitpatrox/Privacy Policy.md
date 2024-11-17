@@ -20,16 +20,16 @@ Sunday, November 17 2024
 
 Latest
 
+* [Phishing emails increasingly use SVG attachments to evade detection](https://digitpatrox.com/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
+* [A  study found that X’s algorithm now loves two things: Republicans and Elon Musk](https://digitpatrox.com/a-study-found-that-xs-algorithm-now-loves-two-things-republicans-and-elon-musk/)
+* [Arcane Season 2: What is Mel’s Connection with Black Rose?](https://digitpatrox.com/arcane-season-2-what-is-mels-connection-with-black-rose/)
+* [The Best Way to Air Fry Veggies](https://digitpatrox.com/the-best-way-to-air-fry-veggies/)
+* [Best Dog Nail Clippers and Grinders](https://digitpatrox.com/best-dog-nail-clippers-and-grinders/)
+* [7 Ways a Smart Doorbell Can Improve Home Security](https://digitpatrox.com/7-ways-a-smart-doorbell-can-improve-home-security/)
+* [5 best shows like ‘Lioness’ to watch right now](https://digitpatrox.com/5-best-shows-like-lioness-to-watch-right-now/)
 * [Microsoft just killed the Windows 10 Beta Channel for good](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-for-good/)
 * [Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://digitpatrox.com/gabe-newell-says-half-life-2-episode-3-didnt-happen-because-he-was-stumped/)
 * [NYT Strands Today: Hints, Answers & Spangram for November 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-17/)
-* [How can compressed hours benefit tech companies?](https://digitpatrox.com/how-can-compressed-hours-benefit-tech-companies/)
-* [X May Use Your Data for AI Training, Even If You Opt Out](https://digitpatrox.com/x-may-use-your-data-for-ai-training-even-if-you-opt-out/)
-* [How to Lease an EV or PHEV With a $7,500 Tax Credit](https://digitpatrox.com/how-to-lease-an-ev-or-phev-with-a-7500-tax-credit/)
-* [Today’s NYT Connections Hints and Answer for November 17 (#525)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-17-525/)
-* [This is the one mistake you’re probably making with bleach, according to a cleaning expert](https://digitpatrox.com/this-is-the-one-mistake-youre-probably-making-with-bleach-according-to-a-cleaning-expert/)
-* [Palo Alto Networks warns of critical RCE zero-day exploited in attacks](https://digitpatrox.com/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/)
-* [The FTC says spam call complaints are way down since 2021](https://digitpatrox.com/the-ftc-says-spam-call-complaints-are-way-down-since-2021/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/05/02/Windows.jpg)](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-for-good/)
+* [![](https://www.bleepstatic.com/content/hl-images/2021/04/16/malware-phishing-header.jpg)](https://digitpatrox.com/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
     
-    [Microsoft just killed the Windows 10 Beta Channel for good](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-for-good/)
+    [Phishing emails increasingly use SVG attachments to evade detection](https://digitpatrox.com/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
     
-    7 minutes ago
+    56 seconds ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/GGZbrmyQHB6TmRVrVhwc1s7hA9U=/0x0:1452x1021/1200x628/filters:focal(726x511:727x512)/cdn.vox-cdn.com/uploads/chorus_asset/file/25736844/Screenshot_2024_11_16_at_11.47.41_AM.png)](https://digitpatrox.com/gabe-newell-says-half-life-2-episode-3-didnt-happen-because-he-was-stumped/)
+* [![](https://cdn.vox-cdn.com/thumbor/qX6_MdWPzA482PtFM33EDVitufE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23906823/VRG_Illo_STK022_K_Radtke_Musk_Smiles.jpg)](https://digitpatrox.com/a-study-found-that-xs-algorithm-now-loves-two-things-republicans-and-elon-musk/)
     
-    [Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://digitpatrox.com/gabe-newell-says-half-life-2-episode-3-didnt-happen-because-he-was-stumped/)
+    [A  study found that X’s algorithm now loves two things: Republicans and Elon Musk](https://digitpatrox.com/a-study-found-that-xs-algorithm-now-loves-two-things-republicans-and-elon-musk/)
     
-    24 minutes ago
+    18 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/07/strands-today-hints-and-answers.jpg?w=1252&quality=75)](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-17/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/LeBlanc-impersonating-Mel.jpg)](https://digitpatrox.com/arcane-season-2-what-is-mels-connection-with-black-rose/)
     
-    [NYT Strands Today: Hints, Answers & Spangram for November 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-17/)
+    [Arcane Season 2: What is Mel’s Connection with Black Rose?](https://digitpatrox.com/arcane-season-2-what-is-mels-connection-with-black-rose/)
     
-    44 minutes ago
+    38 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/jvBKEuc8wBF4FCeonUbXvE-1200-80.jpg)](https://digitpatrox.com/how-can-compressed-hours-benefit-tech-companies/)
+* [![](https://lifehacker.com/imagery/articles/01JCRNV8ZJ0N8C0GSJVS0YSFVK/hero-image.fill.size_1200x675.jpg)](https://digitpatrox.com/the-best-way-to-air-fry-veggies/)
     
-    [How can compressed hours benefit tech companies?](https://digitpatrox.com/how-can-compressed-hours-benefit-tech-companies/)
+    [The Best Way to Air Fry Veggies](https://digitpatrox.com/the-best-way-to-air-fry-veggies/)
     
-    2 hours ago
+    3 hours ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCRR7N3R2DWZ956M0DS695J2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/x-may-use-your-data-for-ai-training-even-if-you-opt-out/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731615919/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Dog-Nail-Clippers-11-24)](https://digitpatrox.com/best-dog-nail-clippers-and-grinders/)
     
-    [X May Use Your Data for AI Training, Even If You Opt Out](https://digitpatrox.com/x-may-use-your-data-for-ai-training-even-if-you-opt-out/)
+    [Best Dog Nail Clippers and Grinders](https://digitpatrox.com/best-dog-nail-clippers-and-grinders/)
     
     3 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [7 minutes ago
+* [56 seconds ago
     
-    ### Microsoft just killed the Windows 10 Beta Channel for good](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-for-good/)
-* [24 minutes ago
+    ### Phishing emails increasingly use SVG attachments to evade detection](https://digitpatrox.com/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
+* [18 minutes ago
     
-    ### Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://digitpatrox.com/gabe-newell-says-half-life-2-episode-3-didnt-happen-because-he-was-stumped/)
-* [44 minutes ago
+    ### A  study found that X’s algorithm now loves two things: Republicans and Elon Musk](https://digitpatrox.com/a-study-found-that-xs-algorithm-now-loves-two-things-republicans-and-elon-musk/)
+* [38 minutes ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for November 17](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-november-17/)
+    ### Arcane Season 2: What is Mel’s Connection with Black Rose?](https://digitpatrox.com/arcane-season-2-what-is-mels-connection-with-black-rose/)
 
 Most Popular Topics
 
-* [September 7, 2024
+* [September 30, 2024
     
-    ### Can the Galaxy Watch Actually Measure Stress? (How?)](https://digitpatrox.com/can-the-galaxy-watch-actually-measure-stress-how/)
-* [August 13, 2024
+    ### Top 6 Mobile Payment Methods To Consider for Your Business](https://digitpatrox.com/top-6-mobile-payment-methods-to-consider-for-your-business/)
+* [August 17, 2024
     
-    ### Signs Your Rent Is About to Go Up](https://digitpatrox.com/signs-your-rent-is-about-to-go-up/)
-* [September 25, 2024
+    ### Instagram is testing vertical profile grids — and knows that might mess up layouts](https://digitpatrox.com/instagram-is-testing-vertical-profile-grids-and-knows-that-might-mess-up-layouts/)
+* [October 9, 2024
     
-    ### Microsoft Reports on Progress of Revamping Security Efforts](https://digitpatrox.com/microsoft-reports-on-progress-of-revamping-security-efforts/)
+    ### UK still lags behind other countries in 5G connectivity](https://digitpatrox.com/uk-still-lags-behind-other-countries-in-5g-connectivity/)
 
 Last Modified Topics
 
-* [3 hours ago
-    
-    ### Today’s NYT Connections Hints and Answer for November 17 (#525)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-17-525/)
 * [4 hours ago
     
-    ### This is the one mistake you’re probably making with bleach, according to a cleaning expert](https://digitpatrox.com/this-is-the-one-mistake-youre-probably-making-with-bleach-according-to-a-cleaning-expert/)
+    ### 5 best shows like ‘Lioness’ to watch right now](https://digitpatrox.com/5-best-shows-like-lioness-to-watch-right-now/)
 * [5 hours ago
     
-    ### Palo Alto Networks warns of critical RCE zero-day exploited in attacks](https://digitpatrox.com/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/)
+    ### Microsoft just killed the Windows 10 Beta Channel for good](https://digitpatrox.com/microsoft-just-killed-the-windows-10-beta-channel-for-good/)
+* [5 hours ago
+    
+    ### Gabe Newell says Half-Life 2: Episode 3 didn’t happen because he was ‘stumped’](https://digitpatrox.com/gabe-newell-says-half-life-2-episode-3-didnt-happen-because-he-was-stumped/)
 
 Most Viewed Topics
 
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
