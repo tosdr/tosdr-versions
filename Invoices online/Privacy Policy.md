@@ -117,57 +117,58 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Saving time, saving money
-> -------------------------
+> Quick and efficient support
+> ---------------------------
 > 
-> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
+> Thanks its perfect.  Thanks for your prompt response and help.  Much appreciated.
+> 
+> Gheez, you are really going out your way to help! Thanks.  Yes that is exactly what is needed, I fully understand the law as per below and agree. Thanks so much.
 
-Cornel Erasmus - TELA Loss Adjusters & Assessors
+Rudi Franz - Vaxolog (Pty) Ltd t/a Streamline Distributors
 
-![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=82665881)  
-Sophia's Roses
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=201278407)  
+Baby Toddles Infant Care
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=88687079)  
-Enhle Oarabile Kea
+![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=140999653)  
 
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=13307639)  
-MONSTER SECURITY SERVICES
+![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=39962858)  
+PROGRAPHIX PTY LTD
 
-![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=5233215)  
-#DiGi3 Marketing & Design
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=144614062)  
+The Gourmet Artisans Ltd.
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=2279011)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=75233915)  
+Camp 4 Africa (Pty) Ltd
 
-![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=119225281)  
-TechnoDezi PTY(LTD)
+![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=150869651)  
+Three Moons Emporium
 
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=169752049)  
-Fox Alarms & Security
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=193314449)  
+Kainos (Pty) Ltd
 
-![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=138637088)  
-Creative Characters
+![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=169201875)  
+Import Maaw
 
-![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=111349954)  
-LEONARD
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=168215106)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=47538312)  
-MOSELA GROUP Pty(ltd)
+![valued client Lizzy Pop PTY(Ltd) ](https://www.invoicesonline.co.za/scripts/image.php?bid=7597&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=25769643)  
+Lizzy Pop PTY(Ltd)
 
-![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=13604492)  
-CGHK Enterprises (PTY) LTD
+![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=113876689)  
+Firstweb Hosting & Design
 
-![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=3357412)  
-Kara Medical (Pty) Ltd
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=2741297)  
+Multi CNC Solutions CC
 
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=9115695)  
-ARCHITEK PTY LTD
+![valued client Kinetic Power Solutions (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8094&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=56176456)  
+Kinetic Power Solutions (Pty) Ltd.
 
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=84110838)  
-CBR Verwe/Paints
+![valued client M's Frozen Delights](https://www.invoicesonline.co.za/scripts/image.php?bid=7776&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=38697375)  
+M's Frozen Delights
 
-![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=56810545)  
-Well Hung Art
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=f2bd3b1d6bf000889ab35ac0dde4cfbacd06f41d9d1d1ab39e64ab81dbc91f56&c=102578662)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
