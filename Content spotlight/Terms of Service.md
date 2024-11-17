@@ -88,17 +88,11 @@ Approved by [Sur.ly](https://sur.ly/)
 
 ![Top SEO companies on Design Rush](https://contentspotlight.org/wp-content/uploads/2024/02/SEO-Singular.png)](https://www.designrush.com/)
 
-Address: 563 Jessore Road, Kolkata - 700074, West Bengal, India
+![Best SEO services award](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20328%20392'%3E%3C/svg%3E)
 
-Email: info@contentspotlight.org
+![Best SEO services award](https://contentspotlight.org/wp-content/uploads/2024/11/Screenshot-2024-11-16-162637.png)
 
-Phone: +91-9831405832
-
-![Top Yahoo SEO company by clutch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20759%201024'%3E%3C/svg%3E)
-
-![Top Yahoo SEO company by clutch](https://contentspotlight.org/wp-content/uploads/2024/11/top_clutch.co_yahoo_seo_company_2024_award-759x1024.png)
-
-Top Yahoo SEO company
+Best SEO services award winner by TrueFirms
 
 ![Best performance reporting services company](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20759%201024'%3E%3C/svg%3E)
 
@@ -106,11 +100,21 @@ Top Yahoo SEO company
 
 Best performance reporting services company by clutch
 
-![Best SEO services award](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20328%20392'%3E%3C/svg%3E)
+![Top Yahoo SEO company by clutch](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20759%201024'%3E%3C/svg%3E)
 
-![Best SEO services award](https://contentspotlight.org/wp-content/uploads/2024/11/Screenshot-2024-11-16-162637.png)
+![Top Yahoo SEO company by clutch](https://contentspotlight.org/wp-content/uploads/2024/11/top_clutch.co_yahoo_seo_company_2024_award-759x1024.png)
 
-Best SEO services award winner
+Top Yahoo SEO company
+
+![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20877'%3E%3C/svg%3E)
+
+![](https://contentspotlight.org/wp-content/uploads/2024/11/global_award_fall_2024-1024x877.png)
+
+Address: 563 Jessore Road, Kolkata - 700074, West Bengal, India
+
+Email: info@contentspotlight.org
+
+Phone: +91-9831405832
 
 Important Links
 ---------------
