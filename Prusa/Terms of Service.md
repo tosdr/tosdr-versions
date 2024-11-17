@@ -1,5 +1,3 @@
-Check out our [**CLEARANCE SALE** on select filaments](https://www.prusa3d.com/category/clearance-sale/)!
-
 Shipping to
 
 ![United States flag](/cdn-cgi/image/width=45,format=auto,quality=85/content/images/country/1792.png)United States
