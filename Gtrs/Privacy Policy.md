@@ -22,9 +22,11 @@
         * [SwimStars Gold](https://gtrs-online.de/sportangebot/schwimmtrainings/swimstars-gold/)
         * [Technik optimieren / Erwachsene](https://gtrs-online.de/sportangebot/schwimmtrainings/technik-optimieren/)
     * [Öffentliche Badezeit](https://gtrs-online.de/sportangebot/oeffentliche-badezeit/)
-* [Veranstaltungen](https://gtrs-online.de/veranstaltungen/)
+* [Informationen](https://gtrs-online.de/veranstaltungen/)
 * [Rückblick](https://gtrs-online.de/ruckblick/)
 * [Service & Info](https://gtrs-online.de/service-info/)
+    * [KURABU (Mitgliederportal)](https://gtrs-online.kurabu.com/)
+    * [Mitglied werden](https://gtrs-online.kurabu.com/de/join)
     * [Downloads](https://gtrs-online.de/service-info/downloads/)
 * [Kontakt](https://gtrs-online.de/kontakt/)
     * [Vorstand](https://gtrs-online.de/kontakt/vorstand/)
@@ -35,23 +37,23 @@ AKTUELLE **NACHRICHTEN**
 
 Hier findest du die aktuellen Nachrichten und kommende Veranstaltungen
 
+[![KURABU-Plattform für alle Mitglieder](https://gtrs-online.de/wp-content/uploads/2022/01/Spendenschwimmen-045-640x424.jpg "KURABU-Plattform für alle Mitglieder")](https://gtrs-online.de/2024/11/kurabu-plattform-fuer-alle-mitglieder/)
+
+##### [KURABU-Plattform für alle Mitglieder](https://gtrs-online.de/2024/11/kurabu-plattform-fuer-alle-mitglieder/)
+
+Ab sofort nutzen wir die Plattform Kurabu für alle Mitglieder-Angelegenheiten (An- /Abmeldung, Absagen von Trainings, Infos,…) gtrs-online.kurabu.com
+
+[![Schwimmbad Öffnung 2024](https://gtrs-online.de/wp-content/uploads/2022/01/back-640x480.jpg "Schwimmbad Öffnung 2024")](https://gtrs-online.de/2024/11/schwimmbad-oeffnung-2024/)
+
+##### [Schwimmbad Öffnung 2024](https://gtrs-online.de/2024/11/schwimmbad-oeffnung-2024/)
+
+Liebe Mitglieder, Wir freuen uns riesig euch mitteilen zu können, dass endlich das Schwimmbad wieder öffnen kann. Ab Dienstag den 12. November und Donnerstag den 14. November starten unsere Trainings wieder. Krankmeldungen, Wechsel und Fragen können ab jetzt hier über Kurabu geklärt werden. Liebe Grüße und bis bald im Schwimmbad Eure Trainer
+
 [![Helau & Alaaf in Schatthausen – Kinderfasching ein voller Erfolg!](https://gtrs-online.de/wp-content/uploads/2024/02/IMG_2830-640x480.jpeg "Helau & Alaaf in Schatthausen – Kinderfasching ein voller Erfolg!")](https://gtrs-online.de/2024/02/helau-alaaf-in-schatthausen-kinderfasching-ein-voller-erfolg/)
 
 ##### [Helau & Alaaf in Schatthausen – Kinderfasching ein voller Erfolg!](https://gtrs-online.de/2024/02/helau-alaaf-in-schatthausen-kinderfasching-ein-voller-erfolg/)
 
 Am Faschingsdienstag, den 13. Februar 2024, war es wieder soweit:  Die Mehrzweckhalle in Schatthausen wurde von insgesamt ca. 300 Besuchern von ganz klein bis ganz groß in eine bunte Faschingswelt verwandelt. Neben vielen tollen Kostümen die es zu bestaunen gab durften auch die Spieleklassiker wie der Zeitungstanz, eine Polonaise durch die Halle, Schokokusswettessen und Eierlauf...
-
-[![Kinderfasching 2024](https://gtrs-online.de/wp-content/uploads/2024/02/WhatsApp-Image-2024-01-15-at-08.43.44-640x870.jpeg "Kinderfasching 2024")](https://gtrs-online.de/2024/02/kinderfasching-2024/)
-
-##### [Kinderfasching 2024](https://gtrs-online.de/2024/02/kinderfasching-2024/)
-
-Auch 2024 findet wieder unser beliebter Kinderfasching statt! Los gehts am Faschingsdienstag (13.02.24) um 14:30 Uhr Der Eintritt liegt bei nur 1€ Kaffee und Kuchen, sowie Crepes sorgen für euer leibliches Wohl.
-
-[![Osterspektakel pausiert 2024](https://gtrs-online.de/wp-content/uploads/2024/02/Osterspektakel-2023-A3-Plakat-Kopie_page-0001-640x905.jpg "Osterspektakel pausiert 2024")](https://gtrs-online.de/2024/02/osterspektakel-pausiert-2024/)
-
-##### [Osterspektakel pausiert 2024](https://gtrs-online.de/2024/02/osterspektakel-pausiert-2024/)
-
-Hallo liebe Mitglieder, aufgrund verschiedener interner Umstände wird es im Jahr 2024 leider kein Osterspektakel geben. Wir bedauern diese Entscheidung treffen zu müssen und freuen uns auf nächstes Jahr! Euer GTRS-Team
 
 VERGANGENE **VERANSTALTUNGEN**
 ------------------------------
@@ -148,7 +150,7 @@ Unser Verein bietet Kindern und Jugendlichen die Möglichkeit sich sportlich zu 
 
 ![https://gtrs-online.de/wp-content/uploads/2022/01/Spendenschwimmen-078.jpg](https://gtrs-online.de/wp-content/uploads/2022/01/Spendenschwimmen-078.jpg "Spendenschwimmen 078")
 
-![](https://www.swimstars.de/wp-content/uploads/2016/02/swimstars_das_neue_deutsche_schwimmlernprogramm_263x349.png)
+![https://gtrs-online.de/wp-content/uploads/2022/01/SwimStars_Rot_0213.png](https://gtrs-online.de/wp-content/uploads/2022/01/SwimStars_Rot_0213.png "SwimStars_Rot_0213")
 
 UNSER LERNPROGRAMMSWIM**STARS**
 -------------------------------
