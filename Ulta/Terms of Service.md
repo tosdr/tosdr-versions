@@ -156,13 +156,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=makeup)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/rem-beauty-x-wicked-ozdust-eyeshadow-palette-pimprod2047555?sku=2630051)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/ambient-lighting-edit-unlocked-pimprod2046626?sku=2629660)
         
-        r.e.m. beauty
+        HOURGLASS
         
-        New & exclusive! OZDUST Eyeshadow Palette
+        Ambient Lighting Edit Unlocked
         
-        [Shop now](https://www.ulta.com/p/rem-beauty-x-wicked-ozdust-eyeshadow-palette-pimprod2047555?sku=2630051)
+        [Shop now](https://www.ulta.com/p/ambient-lighting-edit-unlocked-pimprod2046626?sku=2629660)
         
     * Skin Care
         
@@ -396,13 +396,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=hair)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/acidic-bonding-concentrate-holiday-kit-pimprod2048032?sku=2627384)
         
-        Hair Goals
+        Redken
         
-        Get holiday-ready hair
+        New & exclusive! Acidic Bonding Concentrate Holiday Kit
         
-        [Shop now](https://www.ulta.com/discover/hair/best-hair-products-to-hold-style-curls)
+        [Shop now](https://www.ulta.com/p/acidic-bonding-concentrate-holiday-kit-pimprod2048032?sku=2627384)
         
     * Fragrance
         
@@ -563,13 +563,13 @@ Free standard shipping on any $35 purchase
         * [Black-Owned & Founded](https://www.ulta.com/featured/blackownedbrands?category=body-care)
             
         
-        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/cheirosa-71-body-cream-pimprod2048867?sku=2632568)
+        [![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=)](https://www.ulta.com/p/avo-good-time-bath-body-duo-pimprod2048372?sku=2631577)
         
-        Sol de Janeiro
+        LUSH
         
-        New & exclusive! Cheirosa 71 Body Cream
+        New & online only! Avo Good Time Bath And Body Duo
         
-        [Shop now](https://www.ulta.com/p/cheirosa-71-body-cream-pimprod2048867?sku=2632568)
+        [Shop now](https://www.ulta.com/p/avo-good-time-bath-body-duo-pimprod2048372?sku=2631577)
         
     * Tools & Brushes
         
