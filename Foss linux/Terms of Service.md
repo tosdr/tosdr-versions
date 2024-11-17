@@ -122,7 +122,7 @@ Whether you’re a beginner or an experienced user, FOSS Linux has something for
 * [Beginner's Guide (182)](https://www.fosslinux.com/category/beginners-guide)
 * [Terminal Tuts (168)](https://www.fosslinux.com/category/terminal-tuts)
 * [Featured (125)](https://www.fosslinux.com/category/featured)
-* [Server (99)](https://www.fosslinux.com/category/server)
+* [Server (100)](https://www.fosslinux.com/category/server)
 * [Linux Mint (98)](https://www.fosslinux.com/category/linux-mint)
 * [Fedora (93)](https://www.fosslinux.com/category/fedora)
 
