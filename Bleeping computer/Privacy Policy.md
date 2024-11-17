@@ -36,18 +36,18 @@
         
         NSO Group used another WhatsApp zero-day after being sued, court docs say](https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/)
     
+    * [![Phishing emails increasingly use SVG attachments to evade detection](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Phishing emails increasingly use SVG attachments to evade detection](https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
+    * [![Security plugin flaw in millions of WordPress sites gives admin access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Security plugin flaw in millions of WordPress sites gives admin access](https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
+    * [![Get $89 off Microsoft Office 2024 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Get $89 off Microsoft Office 2024 in this deal](https://www.bleepingcomputer.com/offer/deals/get-89-off-microsoft-office-2024-in-this-deal/)
     * [![Fake AI video generators infect Windows, macOS with infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Fake AI video generators infect Windows, macOS with infostealers](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
-    * [![T-Mobile confirms it was hacked in recent wave of telecom breaches](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        T-Mobile confirms it was hacked in recent wave of telecom breaches](https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
-    * [![GitHub projects targeted with malicious commits to frame researcher](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        GitHub projects targeted with malicious commits to frame researcher](https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
-    * [![Advance your cybersecurity knowledge for just $29.97 in this course deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Advance your cybersecurity knowledge for just $29.97 in this course deal](https://www.bleepingcomputer.com/offer/deals/advance-your-cybersecurity-knowledge-for-just-2997-in-this-course-deal/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
