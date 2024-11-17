@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/facebook-faces-charges/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/halo-de-orwelliaanse-fitness-armband/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
