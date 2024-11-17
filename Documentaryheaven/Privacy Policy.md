@@ -108,21 +108,16 @@ Advertisement
 
 ###### Highest Rated This Month
 
-* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
-    
-    The new world order – Illuminati, Freemasons and other secret societies
-    
-    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
-* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
-    
-    Why The Industrial Revolution Happened Here
-    
-    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![Objectified](/wp-content/thumbnails/2483-100x70.jpg?x53432)
     
     Objectified
     
     Objectified is a feature-length documentary about our complex relationship with manufactured objects and, by extension, the people who design them. It’s a look at the creativity at work behind everyth...](https://documentaryheaven.com/objectified/ "Objectified")
+* [![The new world order – Illuminati, Freemasons and other secret societies](/wp-content/thumbnails/116-100x70.png?x53432)
+    
+    The new world order – Illuminati, Freemasons and other secret societies
+    
+    Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
 * [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
     The Fog of War
@@ -133,34 +128,39 @@ Advertisement
     The Hasidic Drug Dealer
     
     Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
+* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
+    
+    Louis Theroux: Drinking To Oblivion
+    
+    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Humans, Gods and Technology](/wp-content/thumbnails/13924-100x70.jpg?x53432)
+* [![Big, Bigger, Biggest Space Station](/wp-content/thumbnails/4074-100x70.jpg?x53432)
     
-    Humans, Gods and Technology
+    Big, Bigger, Biggest Space Station
     
-    Humans are present with many with many many others from their species wandering around on this planet, as naked apes we once tamed fire and after that every form of new technology determined our devel](https://documentaryheaven.com/humans-gods-technology/ "Humans, Gods and Technology")
-* [![The Electricity War](/wp-content/thumbnails/4853-100x70.jpeg?x53432)
+    In Big, Bigger, Biggest: Space Station, Explore the world’s biggest space station.The International Space Station orbits 350 kilometres above our heads, hurtling around the Earth at almost 30,000](https://documentaryheaven.com/big-bigger-biggest-space-station/ "Big, Bigger, Biggest Space Station")
+* [![Sonny Liston: The Mysterious Life And Death Of A Champion](/wp-content/thumbnails/13446-100x70.jpg?x53432)
     
-    The Electricity War
+    Sonny Liston: The Mysterious Life And Death Of A Champion
     
-    In the War of Currents era in the late 1880s, George Westinghouse and Thomas Edison became adversaries due to Edison’s promotion of direct current (DC) for electric power distribution over alternating](https://documentaryheaven.com/the-electricity-war/ "The Electricity War")
-* [![What Ever Happened to Hip Hop?](/wp-content/thumbnails/7004-100x70.jpg?x53432)
+    Sonny Liston can be described as a tragic figure, someone who reached for the sky above from the mud below but couldn't really handle it once he got there. Having literally been run out of three citie](https://documentaryheaven.com/sonny-liston-mysterious-life-death-of-champion/ "Sonny Liston: The Mysterious Life And Death Of A Champion")
+* [![Bloomberg Game Changers: Mark Zuckerberg](/wp-content/thumbnails/4347-100x70.jpg?x53432)
     
-    What Ever Happened to Hip Hop?
+    Bloomberg Game Changers: Mark Zuckerberg
     
-    It began with the beat of the drum. With the beat, came a voice for those without one. From this voice, came a movement. Overcoming the odds, the originators of hip hop took their music from block par](https://documentaryheaven.com/what-ever-happened-to-hip-hop/ "What Ever Happened to Hip Hop?")
-* [![Dispatches: Undercover Mosque](/wp-content/thumbnails/792-100x70.png?x53432)
+    Bloomberg Game Changers" follows the career of Mark Zuckerberg, founder and chief executive officer of Facebook Inc. and one of the world's youngest billionaires. This program features interviews wi](https://documentaryheaven.com/bloomberg-game-changers-mark-zuckerberg-2/ "Bloomberg Game Changers: Mark Zuckerberg")
+* [![Interview with a Poltergeist](/wp-content/thumbnails/8167-100x70.png?x53432)
     
-    Dispatches: Undercover Mosque
+    Interview with a Poltergeist
     
-    An undercover investigation into mosques in the UK which are run by organisations whose public faces are presented as moderate but whose preachers condemn democracy and praise the Taliban for killing](https://documentaryheaven.com/dispatches-undercover-mosque/ "Dispatches: Undercover Mosque")
-* [![The Japanese Love Industry](/wp-content/thumbnails/8123-100x70.jpg?x53432)
+    The Enfield Poltergeist was a period of apparent poltergeist activity which occurred in the village of Brimsdown, in the borough of Enfield, England. The activity began when single parent, Peggy Hodgs](https://documentaryheaven.com/interview-with-poltergeist/ "Interview with a Poltergeist")
+* [![American Pimp](/wp-content/thumbnails/6432-100x70.jpg?x53432)
     
-    The Japanese Love Industry
+    American Pimp
     
-    Japan is a country that is dying, literally. Japan has more people over the age of 65 and the smallest number of people under the age of 15 in the world. It has the fastest negative population growth](https://documentaryheaven.com/japanese-love-industry/ "The Japanese Love Industry")
+    Street pimps, all of them African-American, discuss their lives and work: getting started, being flamboyant, pimping in various U.S. cities, bringing a woman into their group, taking a woman from ano](https://documentaryheaven.com/american-pimp/ "American Pimp")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
