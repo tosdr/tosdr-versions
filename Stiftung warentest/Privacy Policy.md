@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Steuererklärung für Studierende: Schon im Studium Steuern sparen](https://www.test.de/Steuererklaerung-fuer-Studierende-4168988-0/ "Steuererklärung für Studierende - Schon im Studium Steuern sparen")
-* [Riskante Gewinn­beteiligungen: Dubiose Deals auf Amazon](https://www.test.de/Riskante-Gewinnbeteiligungen-Dubiose-Deals-auf-Amazon-6081940-0/ "Riskante Gewinnbeteiligungen - Dubiose Deals auf Amazon")
-* [Einkommens­steuer: Alles rausholen bei der Steuererklärung 2022](https://www.test.de/Steuererklaerung-fuer-2022-5965510-0/ "Einkommenssteuer - Alles rausholen bei der Steuererklärung 2022")
-* [E-Auto laden: Gratis Strom tanken? Nur noch selten](https://www.test.de/E-Auto-laden-Gratis-Strom-tanken-Nur-noch-selten-5970181-0/ "E-Auto laden - Gratis Strom tanken? Nur noch selten")
-* [Lebens­erwartung in Deutsch­land: Krankheiten werden zu spät behandelt](https://www.test.de/Lebenserwartung-in-Deutschland-Krankheiten-werden-zu-spaet-behandelt-6123053-0/ "Lebenserwartung in Deutschland - Krankheiten werden zu spät behandelt")
-* [Waystone Investments: Angebote von Post­bank und Qonto nicht echt](https://www.test.de/Waystone-Investments-Angebote-von-Postbank-und-Qonto-nicht-echt-6157734-0/ "Waystone Investments - Angebote von Postbank und Qonto nicht echt")
+* [Anleger­schutz: Betrug mit Kryptowährungen](https://www.test.de/Anlegerschutz-Betrug-mit-Kryptowaehrungen-5954720-0/ "Anlegerschutz - Betrug mit Kryptowährungen")
+* [Klima­versprechen auf Lebens­mitteln im Test: Klima-Claimern auf der Spur](https://www.test.de/Klimaversprechen-auf-Lebensmitteln-im-Test-Klima-Claimern-auf-der-Spur-6084383-0/ "Klimaversprechen auf Lebensmitteln im Test - Klima-Claimern auf der Spur")
+* [Steueridentifikations­nummer: So bekommen Sie eine Steuer-ID heraus](https://www.test.de/Steuer-ID-beantragen-6122749-0/ "Steueridentifikationsnummer - So bekommen Sie eine Steuer-ID heraus")
+* [ETF-Tabelle: Diese ETF können Sie zur Beimischung nutzen](https://www.test.de/ETF-Tabelle-Diese-ETF-koennen-Sie-zur-Beimischung-nutzen-6112119-0/ "ETF-Tabelle - Diese ETF können Sie zur Beimischung nutzen")
+* [Investieren in Deutsch­land: Mit Dax-ETF auf Rekord­jagd](https://www.test.de/Investieren-in-Deutschland-Mit-Dax-ETF-auf-Rekordjagd-6162463-0/ "Investieren in Deutschland - Mit Dax-ETF auf Rekordjagd")
+* [Veggie-Schnitzel im Test: Knusp­rig wie der Klassiker](https://www.test.de/Veggie-Schnitzel-im-Test-Knusprig-wie-der-Klassiker-5980971-0/ "Veggie-Schnitzel im Test - Knusprig wie der Klassiker")
 
 Service Stiftung Warentest
 
