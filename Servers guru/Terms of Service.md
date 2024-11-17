@@ -121,6 +121,7 @@ Terms & Conditions
             
             These prohibited activities include, but are not limited to, mining, farming, plotting in particular, but also the operation of nodes, storage of blockchain data and trading in cryptocurrency.
             
+        2. We strictly prohibit the hosting of any platform involved in the sale, promotion, or distribution of drugs or medicines of any kind. This includes but is not limited to illegal substances, prescription medications, over-the-counter drugs, and cannabis, regardless of its legality in certain jurisdictions. Platforms that facilitate or enable such transactions, whether directly or indirectly, are not allowed on our services.
 
 5. **SERVERS.GURU’S BILLING POLICY**
     
@@ -179,9 +180,7 @@ Terms & Conditions
             * Provide detailed information regarding all channels utilized to promote Servers.Guru upon request.
             * Abstain from using affiliate materials in unsolicited communications or through illegal channels.
             * Refrain from engaging in, or deriving profit from, any fraudulent traffic activities.
-            * Refrain from using your own affiliate link to process your own orders.  
-                  
-                
+            * Refrain from using your own affiliate link to process your own orders.
         3. Definition of a Valid Customer  
             
             A “Valid Customer” is defined as:
@@ -192,9 +191,7 @@ Terms & Conditions
             * A customer who has employed a legitimate payment method for their account.
             * An individual who has accepted all Terms of Service without breaching our policies.
             * A customer whose service has remained active beyond the initial 30-day maturation period.
-            * A customer who meets any additional criteria specified within these Terms.  
-                  
-                
+            * A customer who meets any additional criteria specified within these Terms.
         4. Advertising Standards
             
             Affiliates are required to comply with the following advertising standards:
@@ -202,9 +199,7 @@ Terms & Conditions
             * Do not utilize Servers.Guru’s intellectual property without explicit prior permission.
             * Promotional materials referencing Servers.Guru must not imply or promote vouchers, coupons, cash-back offers, discount codes, or any similar financial incentives within their metadata, title, or URL. Terms such as “discount,” “coupon,” “offer,” “promo,” and similar expressions may be subject to rejection at our discretion. Pages primarily aimed at exploiting such financial terms for traffic rather than providing genuine value will not be accepted.
             * The use of automatic activation mechanisms on coupon sites, where a ‘Show Code’ prompt triggers the affiliate link, is strictly prohibited. Affiliates must ensure that activations are a result of deliberate user actions.
-            * Generating sales through deceptive practices, including but not limited to masking, cookie stuffing, cloaking, or the use of iframes to bypass genuine affiliate link interactions, is expressly forbidden.  
-                  
-                
+            * Generating sales through deceptive practices, including but not limited to masking, cookie stuffing, cloaking, or the use of iframes to bypass genuine affiliate link interactions, is expressly forbidden.
         5. Tracking and Commissions
             
             Servers.Guru employs cookies for affiliate tracking via our order processing system located at servers.guru. Cookies are initiated when a visitor clicks on an affiliate link, leading them to the designated page through our affiliate program URL. In the event of technical difficulties or disruptions, we do not assume liability for any losses that may occur due to cookies not being set properly. Claims regarding commissions will be evaluated on an individual basis.  
@@ -216,22 +211,16 @@ Terms & Conditions
             * Servers.Guru offers a 10% recurring commission on all products sold through the affiliate program.
             * Commissions will also be earned on service renewals as part of our recurring program structure.
             * Payouts will be processed via PayPal or as account credit within Servers.Guru.
-            * Servers.Guru retains the right to withhold or deny commissions that do not adhere to these Terms.  
-                  
-                
+            * Servers.Guru retains the right to withhold or deny commissions that do not adhere to these Terms.
         7. Legal Responsibilities and Ownership
             * Servers.Guru asserts ownership of the customer relationship from the initial point of contact.
             * Affiliates must respect the intellectual property rights of Servers.Guru and comply with all relevant legal obligations.
             * Affiliates are solely responsible for the content and legal compliance of their respective websites.
-            * This Agreement does not establish a joint venture, agency, franchise, sales representative, or employment relationship between the parties. Affiliates are not authorized to make offers or representations on behalf of Servers.Guru and must refrain from making statements that contradict these Terms.  
-                  
-                
+            * This Agreement does not establish a joint venture, agency, franchise, sales representative, or employment relationship between the parties. Affiliates are not authorized to make offers or representations on behalf of Servers.Guru and must refrain from making statements that contradict these Terms.
         8. Duration and Termination of Agreement
             * This Agreement may be terminated by either party upon providing written notice via email to \[email protected\].
             * Upon termination, Affiliates must promptly remove all materials related to Servers.Guru.
-            * Servers.Guru reserves the right to modify these Terms at its discretion, with any changes taking effect upon posting.  
-                  
-                
+            * Servers.Guru reserves the right to modify these Terms at its discretion, with any changes taking effect upon posting.
         9. Paid Search Policy
             
             Servers.Guru permits the use of paid advertising (excluding branded terms) to generate traffic to pages containing Servers.Guru affiliate links. Affiliates must adhere to the following guidelines when engaging in paid search campaigns on platforms such as Google, Bing, DuckDuckGo, Twitter/X, Facebook, Instagram, etc.
