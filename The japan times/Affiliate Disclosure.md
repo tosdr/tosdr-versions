@@ -147,10 +147,6 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
 
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
 Editors' Picks
 --------------
 
@@ -181,12 +177,6 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
 
   [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Podcast
 -------
@@ -249,19 +239,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
+[Monk from Japan works to lead people in India to Buddhism](https://www.japantimes.co.jp/news/2024/11/17/japan/monk-india-buddhism/ "Monk from Japan works to lead people in India to Buddhism")
+
+1 mins ago
+
+[Japanese organ builder 'honored' to restore voice of Notre Dame](https://www.japantimes.co.jp/news/2024/11/17/japan/notre-dame-organ-builder/ "Japanese organ builder 'honored' to restore voice of Notre Dame")
+
+1 mins ago
+
+[Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
+
+49 mins ago
+
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
 1 hours ago
 
-[Top Japan diplomat makes surprise visit to Ukraine](https://www.japantimes.co.jp/news/2024/11/16/japan/politics/iwaya-ukraine-visit/ "Top Japan diplomat makes surprise visit to Ukraine")
+[Ishiba and Yoon unite on 'strong concerns' over North Korean troops in Russia](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/yoon-ishiba-north-korea/ "Ishiba and Yoon unite on 'strong concerns' over North Korean troops in Russia")
 
-8 hours ago
-
-[Japan issues warning over bad-faith buyers in small business M&As](https://www.japantimes.co.jp/business/2024/11/16/companies/ma-bad-faith-buyer-warning/ "Japan issues warning over bad-faith buyers in small business M&As")
-
-[Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
-
-[Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day](https://www.japantimes.co.jp/news/2024/11/16/japan/nihon-hidankyo-crowdfunding-goal/ "Nihon Hidankyo's crowdfunding campaign achieves initial goal on first day")
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
