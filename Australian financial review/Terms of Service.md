@@ -339,7 +339,6 @@ Advertise
 
 ### [Why this founder is investing $70m in start-ups](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
 
-* 55 mins ago
 * Yolanda Redrup
 
 * ### [Goodman suffers first strike against pay despite 75pc return](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
