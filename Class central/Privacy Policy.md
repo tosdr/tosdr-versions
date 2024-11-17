@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. marketing
+1. psychology
     
-2. computer science
+2. finance
     
-3. French
+3. flutter
     
 
 Popular subjects
 ----------------
 
-1. [Computer Science
+1. [Graphic Design
     
-    43,030 courses](https://www.classcentral.com/subject/cs)
-2. [Computer Networking
+    4,340 courses](https://www.classcentral.com/subject/graphic-design)
+2. [Digital Marketing
     
-    1,740 courses](https://www.classcentral.com/subject/computer-networking)
-3. [Project Management
+    6,256 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Cybersecurity
     
-    4,206 courses](https://www.classcentral.com/subject/project-management)
+    16,761 courses](https://www.classcentral.com/subject/cybersecurity)
 
 Popular courses
 ---------------
 
-1. [Marketing Innovative Products and Services
+1. [Multilingual Practices: Tackling Challenges and Creating Opportunities
     
-    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
-2. [Psychology of Personal Growth
+    University of Groningen](https://www.classcentral.com/course/multilingual-practices-8096)
+2. [Web Security Fundamentals
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/personal-development-the-hong-kong-university-of--8857)
-3. [Understanding Multiple Sclerosis (MS)
+    KU Leuven University](https://www.classcentral.com/course/computer-security-ku-leuven-web-security-fundamen-8726)
+3. [Learning How to Learn: Powerful mental tools to help you master tough subjects
     
-    University of Tasmania](https://www.classcentral.com/course/independent-understanding-multiple-sclerosis-ms-13338)
+    Deep Teaching Solutions](https://www.classcentral.com/course/learning-how-to-learn-2161)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
