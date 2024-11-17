@@ -344,6 +344,28 @@ Privacy & Security
 * [Social Media Community Guidelines](https://www.regions.com/about-regions/privacy-security/social-media-community-guidelines)
 * [Vulnerability Disclosure Program](https://www.regions.com/about-regions/privacy-security/vulnerability-disclosure-program)
 
+Related Insights
+----------------
+
+[See All Insights](https://www.regions.com/Insights/InsightsLibrary)
+
+* [How to get more out of your bank’s app](https://www.regions.com/insights/personal/personal-finances/creating-a-financial-plan/maximize-your-mobile-phone-phone-for-smart-financial-planning)
+    
+    Video
+    
+* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
+    
+    Article
+    
+* [Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
+    
+    Article
+    
+* [How to endorse a check: 6 important steps](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/how-to-endorse-a-check)
+    
+    Article
+    
+
 You are here:
 -------------
 
