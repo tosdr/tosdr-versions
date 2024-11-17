@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for your quick and efficient work, really do appreciated.
+Thank you very much! You do indeed have very nice customer support
 
-Donny
+Andrew Platonov
