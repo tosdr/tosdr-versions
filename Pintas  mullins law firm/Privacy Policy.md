@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Can a chest x-ray show mesothelioma?](https://www.pintas.com/wp-content/uploads/2020/06/mesothelioma-can-a-chest-xray-show-mesothelioma.jpg "Can a Chest X-ray Show Mesothelioma?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/ "Can a Chest X-ray Show Mesothelioma?")
+[![How much is a mormon church sex abuse settlement worth?](https://www.pintas.com/wp-content/uploads/2023/04/general-law-image-300x169.jpg "How Much Is a Mormon Church Sex Abuse Settlement Worth?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/ "How Much Is a Mormon Church Sex Abuse Settlement Worth?")
 
-[#### Can a Chest X-ray Show Mesothelioma?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/can-a-chest-xray-show-mesothelioma/)
+[#### How Much Is a Mormon Church Sex Abuse Settlement Worth?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/how-much-is-a-mormon-church-sexual-abuse-settlement-worth/)
 
-[![Is mesothelioma a slow growing cancer?](https://www.pintas.com/wp-content/uploads/2020/07/is-mesothelioma-a-slow-growing-cancer-scaled.jpg "Is Mesothelioma a Slow Growing Cancer?")](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/ "Is Mesothelioma a Slow Growing Cancer?")
+[![How quickly does lung cancer develop?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-how-quickly-does-lung-cancer-develop.jpg "How Quickly Does Lung Cancer Develop?")](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/ "How Quickly Does Lung Cancer Develop?")
 
-[#### Is Mesothelioma a Slow Growing Cancer?](https://www.pintas.com/lung-cancer/mesothelioma-lawyer/is-mesothelioma-a-slow-growing-cancer/)
+[#### How Quickly Does Lung Cancer Develop?](https://www.pintas.com/lung-cancer/how-quickly-does-lung-cancer-develop/)
 
-[![Who can report nursing home abuse?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-who-can-report-nursing-home-abuse-lawyer-scaled.jpg "Who Can Report Nursing Home Abuse?")](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/ "Who Can Report Nursing Home Abuse?")
+[![Why were johnson & johnson’s baby products banned?](https://www.pintas.com/wp-content/uploads/2020/07/talcum-powder-why-were-johnsons-baby-products-banned.jpg "Why Were Johnson & Johnson’s Baby Products Banned?")](https://www.pintas.com/talcum-powder/why-were-johnson-and-johnsons-baby-products-banned/ "Why Were Johnson & Johnson’s Baby Products Banned?")
 
-[#### Who Can Report Nursing Home Abuse?](https://www.pintas.com/faq/who-can-report-nursing-home-abuse-lawyer/)
+[#### Why Were Johnson & Johnson’s Baby Products Banned?](https://www.pintas.com/talcum-powder/why-were-johnson-and-johnsons-baby-products-banned/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
