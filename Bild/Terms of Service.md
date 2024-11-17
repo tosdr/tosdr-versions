@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+
+Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an](https://www.bild.de/politik/massiver-luftangriff-russisches-militaer-attackiert-ukraine-673990fb25f5c12fe9b1218f)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
