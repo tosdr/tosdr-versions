@@ -81,7 +81,7 @@ Support ▼
 [Support Fur Affinity: Honoring Dragoneer's Legacy. https://gofund.me/0a0b27ba](https://gofund.me/0a0b27ba)
 
 **News:**  
-[Nov 13th, 2024 - Update on Mod Applications and Advertisi...](https://www.furaffinity.net/journal/11001429)
+[Nov 17th, 2024 - Addressing the Greg in the Room](https://www.furaffinity.net/journal/11004644)
 
 [![](/themes/beta/img/banners/logo/fa-banner-fall.jpg)](https://www.furaffinity.net/)
 
@@ -228,13 +228,13 @@ If you disagree with the decision of a Moderator, you may appeal his decision by
 
 ![](/themes/beta/img/banners/fa_logo.png?v2)
 
-53536 **Users online** — 2306 **guests**, 11244 **registered** and 39986 **other**
+58218 **Users online** — 2922 **guests**, 16290 **registered** and 39006 **other**
 
 Limit bot activity to periods with less than 10k registered users online.  
   
 **© 2005-2024 Frost Dragon Art LLC**
 
-Server Time: Nov 17, 2024 05:51 AM
+Server Time: Nov 17, 2024 11:55 AM
 
 This website uses cookies to enhance your browsing experience. [Learn More](https://www.furaffinity.net/privacy)
 
