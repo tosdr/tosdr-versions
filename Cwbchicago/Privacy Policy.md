@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/2500-block-west-touhy-Chicago-326x245.jpg)](https://cwbchicago.com/2024/11/man-shot-near-phillip-rogers-park-on-the-north-side.html "Man shot near Phillip Rogers Park on the North Side")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Dashion-Jones-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
 
-West Rogers Park
+CTA
 
-### [Man shot near Phillip Rogers Park on the North Side](https://cwbchicago.com/2024/11/man-shot-near-phillip-rogers-park-on-the-north-side.html "Man shot near Phillip Rogers Park on the North Side")
+### [Anonymous tipster identifies Red Line robber for police](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
 
-[November 13, 2024 6:31 PM](https://cwbchicago.com/2024/11)
+[November 14, 2024 10:11 AM](https://cwbchicago.com/2024/11)
 
-A man was shot Wednesday afternoon near Phillip Rogers Park on the Far North Side.[](https://cwbchicago.com/2024/11/man-shot-near-phillip-rogers-park-on-the-north-side.html "Man shot near Phillip Rogers Park on the North Side")
+An anonymous tipster who saw a Chicago police bulletin about a recent robbery at the Addison Red Line station helped cops identify the assailant, officials say.[](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Nicholas-Kaehler-326x245.jpg)](https://cwbchicago.com/2024/11/very-distinct-looking-individual-gets-12-years-for-carjacking-driver-in-lincoln-park.html "‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Northwestern-Shuttle-326x245.jpg)](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
 
-Lincoln Park
+Rogers Park
 
-### [‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park](https://cwbchicago.com/2024/11/very-distinct-looking-individual-gets-12-years-for-carjacking-driver-in-lincoln-park.html "‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park")
+### [Northwestern shuttle bus struck by bullet on North Side, school says](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
 
-[November 13, 2024 3:17 PM](https://cwbchicago.com/2024/11)
+[November 14, 2024 6:43 AM](https://cwbchicago.com/2024/11)
 
-“A very distinct-looking individual” has been handed a 12-year sentence for carjacking a man in Lincoln Park last year.[](https://cwbchicago.com/2024/11/very-distinct-looking-individual-gets-12-years-for-carjacking-driver-in-lincoln-park.html "‘Very distinct looking individual’ gets 12 years for carjacking driver in Lincoln park")
+A Northwestern University intercampus shuttle bus was apparently struck by a bullet, leaving its driver injured last Friday evening, according to new information from the school’s police department.[](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/04/atm-326x245.jpg)](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/24-cwp-056a-326x245.jpg)](https://cwbchicago.com/2024/11/maserati-driving-robbery-crew-is-targeting-victims-from-the-loop-to-the-south-side-police-warn.html "Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn")
 
-Albany Park
+Gage Park
 
-### [Robber poses as security guard, repair tech to mug people at ATMs, police warn](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
+### [Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn](https://cwbchicago.com/2024/11/maserati-driving-robbery-crew-is-targeting-victims-from-the-loop-to-the-south-side-police-warn.html "Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn")
 
-[November 13, 2024 12:53 PM](https://cwbchicago.com/2024/11)
+[November 14, 2024 6:21 AM](https://cwbchicago.com/2024/11)
 
-A man is posing as a security guard or service technician to rob people at ATMs on the North and Northwest Sides, according to Chicago police. He has struck at least six times since October 1, including three times this week.[](https://cwbchicago.com/2024/11/robber-poses-as-security-guard-repair-tech-to-mug-people-at-atms-police-warn.html "Robber poses as security guard, repair tech to mug people at ATMs, police warn")
+group of men traveling in stolen Maseratis and armed with rifles and pistols is responsible for two waves of robberies over the past month that have targeted victims from the Loop to the University of Chicago to the South Side, according to Chicago police.[](https://cwbchicago.com/2024/11/maserati-driving-robbery-crew-is-targeting-victims-from-the-loop-to-the-south-side-police-warn.html "Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn")
 
 Search
 
