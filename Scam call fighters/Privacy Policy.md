@@ -347,7 +347,7 @@ Giới thiệu trang phunucodon.me - Saoke. Saoke TV - Trang web xem bóng đá 
 
 ![protect](/themes/colatv/assets/image/CN_cola.png)
 
-Trang web saoketvxa.cc đang chờ đăng ký giấy phép hoạt động.
+Trang web saoketvxb.cc đang chờ đăng ký giấy phép hoạt động.
 
 Điện thoại: [09789234820](tel:09789234820)
 
@@ -359,7 +359,7 @@ Tele @SEO\_DKTeam
 
 [RSS](http://www.scamcallfighters.com/feed/) [Giới thiệu](http://www.scamcallfighters.com/gioi-thieu.html "Giới thiệu") [Liên hệ](http://www.scamcallfighters.com/lien-he.html "Liên hệ") [Điều khoản](http://www.scamcallfighters.com/dieu-khoan-html "Điều khoản")
 
-Copyright 2023 by [saoketvxa.cc](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
+Copyright 2023 by [saoketvxb.cc](http://www.scamcallfighters.com/ana-cooljapan.com) . All rights reserved.
 
 x
 
