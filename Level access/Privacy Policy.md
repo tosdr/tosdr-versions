@@ -1,8 +1,10 @@
 [Skip To main content](#maincontent)
 
+Webinar
+
   ![Arrow Down](data:image/svg+xml;nitro-empty-id=MTMwOjEzOQ==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) ![Arrow Up](data:image/svg+xml;nitro-empty-id=MTMxOjE1Ng==-1;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTQgOCIgd2lkdGg9IjE0IiBoZWlnaHQ9IjgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PC9zdmc+) Toggle alert
 
-Dive into data on the accessibility landscape in Level Access’s next webinar.
+| The State of Digital Accessibility: Analysis, Insights, and Action Items for 2025.
 
 [Register today](https://www.levelaccess.com/resources/webinar-the-state-of-digital-accessibility-analysis-insights-and-action-items-for-2025/)
 
