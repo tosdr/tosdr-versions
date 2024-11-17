@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_1842234308_menu)
+ [Compartilhar](#elShareItem_1464025907_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_2008577218_menu)
+ [Compartilhar](#elShareItem_1478751535_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Mullexs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256178.thumb.jpeg.c205e366657b384b7f5cc3a6f841d88e.jpeg)](https://www.clubedohardware.com.br/profile/1256178-mullexs/ "Ir ao perfil de Mullexs")
+    * [![nextboy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/a0c71107032b89503dbba924354f060a.thumb.jpg.8ba450d07a6b6028f4a11d437ba37400.jpg)](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")
         
         1
         
-        [Fonte matou minha gpu?](https://www.clubedohardware.com.br/forums/topic/1702536-fonte-matou-minha-gpu/?do=getNewComment "Fonte matou minha gpu?")
+        [O que vale mais a pena? RTX 3060, RTX 4060, RX 6650 XT ou RX 7600?](https://www.clubedohardware.com.br/forums/topic/1702562-o-que-vale-mais-a-pena-rtx-3060-rtx-4060-rx-6650-xt-ou-rx-7600/?do=getNewComment "O que vale mais a pena? RTX 3060, RTX 4060, RX 6650 XT ou RX 7600?")
         
         [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Mullexs](https://www.clubedohardware.com.br/profile/1256178-mullexs/ "Ir ao perfil de Mullexs")  
-        18 minutos atrás
+        Por [nextboy](https://www.clubedohardware.com.br/profile/1255716-nextboy/ "Ir ao perfil de nextboy")  
+        31 minutos atrás
         
-    * [![indeXnet](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1107277.thumb.jpeg.9a2eb147d6b9233403d946e7b2134d6d.jpeg)](https://www.clubedohardware.com.br/profile/1107277-indexnet/ "Ir ao perfil de indeXnet")
-        
-        0
-        
-        [Sobre o gabinete DT3 HyperFlow.](https://www.clubedohardware.com.br/forums/topic/1702534-sobre-o-gabinete-dt3-hyperflow/?do=getNewComment "Sobre o gabinete DT3 HyperFlow.")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [indeXnet](https://www.clubedohardware.com.br/profile/1107277-indexnet/ "Ir ao perfil de indeXnet")  
-        28 minutos atrás
-        
-    * [![PKnupp](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255228.thumb.jpeg.178c0ea60183465ea67472eb9a2ce548.jpeg)](https://www.clubedohardware.com.br/profile/1255228-pknupp/ "Ir ao perfil de PKnupp")
-        
-        4
-        
-        [A gabinete pode ficar no chão?](https://www.clubedohardware.com.br/forums/topic/1702532-a-gabinete-pode-ficar-no-ch%C3%A3o/?do=getNewComment "A gabinete pode ficar no chão?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [PKnupp](https://www.clubedohardware.com.br/profile/1255228-pknupp/ "Ir ao perfil de PKnupp")  
-        40 minutos atrás
-        
-    * [![Voidz_-](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/9bd3dd2da7926e154db75851650537e4ade2d7a3_hq.thumb.jpg.4e8b1aa4916e0027224fff0adcd81169.jpg)](https://www.clubedohardware.com.br/profile/1116624-voidz_/ "Ir ao perfil de Voidz_-")
+    * [![Eva Kyqi](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23b262c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EEK%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256190-eva-kyqi/ "Ir ao perfil de Eva Kyqi")
         
         0
         
-        [Consigo abrir portas em um roteador secundário usado como ponto de acesso?](https://www.clubedohardware.com.br/forums/topic/1702531-consigo-abrir-portas-em-um-roteador-secund%C3%A1rio-usado-como-ponto-de-acesso/?do=getNewComment "Consigo abrir portas em um roteador secundário usado como ponto de acesso?")
+        [Processador ou placa-mãe morrendo?](https://www.clubedohardware.com.br/forums/topic/1702561-processador-ou-placa-m%C3%A3e-morrendo/?do=getNewComment "Processador ou placa-mãe morrendo?")
         
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Voidz\_-](https://www.clubedohardware.com.br/profile/1116624-voidz_/ "Ir ao perfil de Voidz_-")  
-        42 minutos atrás
+        [Problemas de desempenho](https://www.clubedohardware.com.br/forums/forum/256-problemas-de-desempenho/ "Problemas de desempenho")  
+        Por [Eva Kyqi](https://www.clubedohardware.com.br/profile/1256190-eva-kyqi/ "Ir ao perfil de Eva Kyqi")  
+        37 minutos atrás
         
-    * [![lucasxpg202](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256174.thumb.jpeg.bb9379b5c059f3eb43e5f444b552f3e4.jpeg)](https://www.clubedohardware.com.br/profile/1256174-lucasxpg202/ "Ir ao perfil de lucasxpg202")
+    * [![yudxs](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256193.thumb.png.1f4d779a799845a9b958f4a41005381f.png)](https://www.clubedohardware.com.br/profile/1256193-yudxs/ "Ir ao perfil de yudxs")
         
         2
         
-        [Qual Processador escolher? AMD Ryzen 5 5500 ou 5600](https://www.clubedohardware.com.br/forums/topic/1702530-qual-processador-escolher-amd-ryzen-5-5500-ou-5600/?do=getNewComment "Qual Processador escolher? AMD Ryzen 5 5500 ou 5600")
+        [Intel Core i5 3570 ou Intel xeon 1245?](https://www.clubedohardware.com.br/forums/topic/1702560-intel-core-i5-3570-ou-intel-xeon-1245/?do=getNewComment "Intel Core i5 3570 ou Intel xeon 1245?")
         
         [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [lucasxpg202](https://www.clubedohardware.com.br/profile/1256174-lucasxpg202/ "Ir ao perfil de lucasxpg202")  
-        43 minutos atrás
+        Por [yudxs](https://www.clubedohardware.com.br/profile/1256193-yudxs/ "Ir ao perfil de yudxs")  
+        53 minutos atrás
         
-    * [![Nickson Cairo](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%2362c462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ENC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1016955-nickson-cairo/ "Ir ao perfil de Nickson Cairo")
+    * [![KarloSierra](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/c3tw8gbtwen61.thumb.jpg.9b936ebcd849cc1d910b55da6ff7cc03.jpg)](https://www.clubedohardware.com.br/profile/772873-karlosierra/ "Ir ao perfil de KarloSierra")
         
         0
         
-        [Upgrade de fonte para RX 6750XT ou não é necessário?](https://www.clubedohardware.com.br/forums/topic/1702529-upgrade-de-fonte-para-rx-6750xt-ou-n%C3%A3o-%C3%A9-necess%C3%A1rio/?do=getNewComment "Upgrade de fonte para RX 6750XT ou não é necessário?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Nickson Cairo](https://www.clubedohardware.com.br/profile/1016955-nickson-cairo/ "Ir ao perfil de Nickson Cairo")  
-        43 minutos atrás
-        
-    * [![PatrickMatos](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/37674775_10209580687514421_9039484854617505792_n.thumb.jpg.14a0dd6671b77a13a96ffec76984d61c.thumb.jpg.53af8fb26c8baffd024713759cad489b.jpg)](https://www.clubedohardware.com.br/profile/887414-patrickmatos/ "Ir ao perfil de PatrickMatos")
-        
-        1
-        
-        [Qual SSD escolher: Adata Legend 710, WD Green SN350 ou Kingston NV2?](https://www.clubedohardware.com.br/forums/topic/1702528-qual-ssd-escolher-adata-legend-710-wd-green-sn350-ou-kingston-nv2/?do=getNewComment "Qual SSD escolher: Adata Legend 710, WD Green SN350 ou Kingston NV2?")
+        [Meu HD corrompeu sozinho, o que pode ser?](https://www.clubedohardware.com.br/forums/topic/1702559-meu-hd-corrompeu-sozinho-o-que-pode-ser/?do=getNewComment "Meu HD corrompeu sozinho, o que pode ser?")
         
         [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [PatrickMatos](https://www.clubedohardware.com.br/profile/887414-patrickmatos/ "Ir ao perfil de PatrickMatos")  
-        46 minutos atrás
+        Por [KarloSierra](https://www.clubedohardware.com.br/profile/772873-karlosierra/ "Ir ao perfil de KarloSierra")  
+        53 minutos atrás
         
-    * [![Alan Rianx](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256172.thumb.png.4dda65da8e2f247f8c5690aea3b65755.png)](https://www.clubedohardware.com.br/profile/1256172-alan-rianx/ "Ir ao perfil de Alan Rianx")
-        
-        0
-        
-        [RGB dos fans não liga mais após colocar o PC em suspensão](https://www.clubedohardware.com.br/forums/topic/1702527-rgb-dos-fans-n%C3%A3o-liga-mais-ap%C3%B3s-colocar-o-pc-em-suspens%C3%A3o/?do=getNewComment "RGB dos fans não liga mais após colocar o PC em suspensão")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Alan Rianx](https://www.clubedohardware.com.br/profile/1256172-alan-rianx/ "Ir ao perfil de Alan Rianx")  
-        1 hora atrás
-        
-    * [![LeozGon](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256170.thumb.png.592e7eaaf281209f682bacb061004282.png)](https://www.clubedohardware.com.br/profile/1256170-leozgon/ "Ir ao perfil de LeozGon")
-        
-        3
-        
-        [Posso usar a fonte Gigabyte P550B temporariamente com uma GeForce RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1702526-posso-usar-a-fonte-gigabyte-p550b-temporariamente-com-uma-geforce-rtx-4060/?do=getNewComment "Posso usar a fonte Gigabyte P550B temporariamente com uma GeForce RTX 4060?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [LeozGon](https://www.clubedohardware.com.br/profile/1256170-leozgon/ "Ir ao perfil de LeozGon")  
-        1 hora atrás
-        
-    * [![Kevinfrc](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254716.thumb.jpeg.1855a18f2f7baff26827f63833ed1502.jpeg)](https://www.clubedohardware.com.br/profile/1254716-kevinfrc/ "Ir ao perfil de Kevinfrc")
+    * [![VHG](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a762c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256192-vhg/ "Ir ao perfil de VHG")
         
         1
         
-        [Qual melhor processador para Radeon RX 580? AMD Ryzen 5 2600X ou 5500?](https://www.clubedohardware.com.br/forums/topic/1702525-qual-melhor-processador-para-radeon-rx-580-amd-ryzen-5-2600x-ou-5500/?do=getNewComment "Qual melhor processador para Radeon RX 580? AMD Ryzen 5 2600X ou 5500?")
+        [Computador liga, fica em uma tela preta e so liga realmente quando reiniciado.](https://www.clubedohardware.com.br/forums/topic/1702558-computador-liga-fica-em-uma-tela-preta-e-so-liga-realmente-quando-reiniciado/?do=getNewComment "Computador liga, fica em uma tela preta e so liga realmente quando reiniciado.")
         
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Kevinfrc](https://www.clubedohardware.com.br/profile/1254716-kevinfrc/ "Ir ao perfil de Kevinfrc")  
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [VHG](https://www.clubedohardware.com.br/profile/1256192-vhg/ "Ir ao perfil de VHG")  
         1 hora atrás
+        
+    * [![lucasxpg202](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256174.thumb.jpeg.bb9379b5c059f3eb43e5f444b552f3e4.jpeg)](https://www.clubedohardware.com.br/profile/1256174-lucasxpg202/ "Ir ao perfil de lucasxpg202")
+        
+        1
+        
+        [Onde fica o 12v e o 5v?](https://www.clubedohardware.com.br/forums/topic/1702557-onde-fica-o-12v-e-o-5v/?do=getNewComment "Onde fica o 12v e o 5v?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [lucasxpg202](https://www.clubedohardware.com.br/profile/1256174-lucasxpg202/ "Ir ao perfil de lucasxpg202")  
+        1 hora atrás
+        
+    * [![Kalvin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1194750.thumb.jpeg.2de90198aa85127f7b31e44433b5cb87.jpeg)](https://www.clubedohardware.com.br/profile/1194750-kalvin/ "Ir ao perfil de Kalvin")
+        
+        2
+        
+        [pc desligando em jogos](https://www.clubedohardware.com.br/forums/topic/1702556-pc-desligando-em-jogos/?do=getNewComment "pc desligando em  jogos")
+        
+        [Computador reiniciando](https://www.clubedohardware.com.br/forums/forum/121-computador-reiniciando/ "Computador reiniciando")  
+        Por [Kalvin](https://www.clubedohardware.com.br/profile/1194750-kalvin/ "Ir ao perfil de Kalvin")  
+        1 hora atrás
+        
+    * [![FaelWillian](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256189.thumb.jpeg.96522a062a691185e9c766aace366e66.jpeg)](https://www.clubedohardware.com.br/profile/1256189-faelwillian/ "Ir ao perfil de FaelWillian")
+        
+        1
+        
+        [RTX 3080ti consumo não passa de 225W](https://www.clubedohardware.com.br/forums/topic/1702555-rtx-3080ti-consumo-n%C3%A3o-passa-de-225w/?do=getNewComment "RTX 3080ti consumo não passa de 225W")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [FaelWillian](https://www.clubedohardware.com.br/profile/1256189-faelwillian/ "Ir ao perfil de FaelWillian")  
+        2 horas atrás
+        
+    * [![Gabriel Santana Moraes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1225749.thumb.jpeg.da5b203a70533811fb6b47b76f010f7f.jpeg)](https://www.clubedohardware.com.br/profile/1225749-gabriel-santana-moraes/ "Ir ao perfil de Gabriel Santana Moraes")
+        
+        1
+        
+        [Gabinete Rise Mode Wave Black suporta GeForce RTX 4060Ti de três fans?](https://www.clubedohardware.com.br/forums/topic/1702554-gabinete-rise-mode-wave-black-suporta-geforce-rtx-4060ti-de-tr%C3%AAs-fans/?do=getNewComment "Gabinete Rise Mode Wave Black suporta GeForce RTX 4060Ti de três fans?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Gabriel Santana Moraes](https://www.clubedohardware.com.br/profile/1225749-gabriel-santana-moraes/ "Ir ao perfil de Gabriel Santana Moraes")  
+        2 horas atrás
+        
+    * [![Cynesio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256187.thumb.png.6d949b23b618bdf4e072098dd308f43e.png)](https://www.clubedohardware.com.br/profile/1256187-cynesio/ "Ir ao perfil de Cynesio")
+        
+        1
+        
+        [Barra de pesquisa do windows não funciona (abre, trava e fecha)](https://www.clubedohardware.com.br/forums/topic/1702553-barra-de-pesquisa-do-windows-n%C3%A3o-funciona-abre-trava-e-fecha/?do=getNewComment "Barra de pesquisa do windows não funciona (abre, trava e fecha)")
+        
+        [Windows 10](https://www.clubedohardware.com.br/forums/forum/249-windows-10/ "Windows 10")  
+        Por [Cynesio](https://www.clubedohardware.com.br/profile/1256187-cynesio/ "Ir ao perfil de Cynesio")  
+        2 horas atrás
         
     
 
