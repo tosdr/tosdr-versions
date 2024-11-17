@@ -32,14 +32,12 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
         
-        #### [17-year-old killed in Johnson County crash, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03) [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
+        #### [17-year-old killed in Johnson County crash, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
         
-        #### [Teenager killed in crash near Coralville, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
     *  [![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_360x203.jpg)](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
         
-        #### [70-year-old woman hit, killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64) [![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_360x203.jpg)](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
+        #### [70-year-old woman hit, killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
         
-        #### [Woman killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
     
 * [Weather](https://www.wqad.com/weather)
     
@@ -88,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-54°
+51°
 
-![Showers in the Vicinity](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
+![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
