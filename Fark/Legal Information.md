@@ -232,9 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+All the submissions, none of the calories.
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [If you waited too long to lick Betty White's backside until it was all sticky and gooey, today's your lucky day](https://www.fark.com/goto/13465524) ( [wfaa.com](https://www.fark.com/goto/13465524) ) » [(8 comments)](https://www.fark.com/comments/13465524/If-you-waited-too-long-to-lick-Betty-Whites-backside-until-it-was-all-sticky-gooey-todays-your-lucky-day) |
-| [Discussion](https://www.fark.com/discussion/) | [Woman is LITERALLY allergic to exercising. One gym session can mean death](https://www.fark.com/goto/13465494) ( [ibtimes.co.uk](https://www.fark.com/goto/13465494) ) » [(1 comment)](https://www.fark.com/comments/13465494/Woman-is-LITERALLY-allergic-to-exercising-One-gym-session-can-mean-death) |
-| [Sports](https://www.fark.com/sports/) | [Rockies 3B/OF Kris Bryant joins the "Gone in 60 Seconds" reboot](https://www.fark.com/goto/13465564) ( [9news.com](https://www.fark.com/goto/13465564) ) » [(3 comments)](https://www.fark.com/comments/13465564/Rockies-3BOF-Kris-Bryant-joins-Gone-in-60-Seconds-reboot) |
-| [Business](https://www.fark.com/business/) | ["Stock market thrust unable to be sustained:" yep, that's Trump for 'ya](https://www.fark.com/goto/13465328) ( [cnbc.com](https://www.fark.com/goto/13465328) ) » [(3 comments)](https://www.fark.com/comments/13465328/Stock-market-thrust-unable-to-be-sustained-yep-thats-Trump-for-ya) |
-| [STEM](https://www.fark.com/stem/) | [Firehose 3D converts the BlueSky feed into a three-dimensional dungeon crawl in the style of old Windows screensavers. Whoa](https://www.fark.com/goto/13465640) ( [firehose3d.theo.io](https://www.fark.com/goto/13465640) ) » [(2 comments)](https://www.fark.com/comments/13465640/Firehose-3D-converts-BlueSky-feed-into-a-three-dimensional-dungeon-crawl-in-style-of-old-Windows-screensavers-Whoa) |
-| [Entertainment](https://www.fark.com/entertainment/) | [BOOM! HEAD SHOT](https://www.fark.com/goto/13465256) ( [thedailybeast.com](https://www.fark.com/goto/13465256) ) » [(3 comments)](https://www.fark.com/comments/13465256/BOOM!-HEAD-SHOT) |
-| [Fandom](https://www.fark.com/fandom/) | [What if the real Call of Duty was all the people we didn't kill along the way?](https://www.fark.com/goto/13465598) ( [ign.com](https://www.fark.com/goto/13465598) ) » [(1 comment)](https://www.fark.com/comments/13465598/What-if-real-Call-of-Duty-was-all-people-we-didnt-kill-along-way) |
-| [D'awww](https://www.fark.com/dawww/) | [What weasel would steal shoes from a child?](https://www.fark.com/goto/13465216) ( [mainichi.jp](https://www.fark.com/goto/13465216) ) » [(49 comments)](https://www.fark.com/comments/13465216/What-weasel-would-steal-shoes-from-a-child) |
-| [Food](https://www.fark.com/food/) | [To the left, a list of 12 jarred marinara sauces ranked worst to best. To the right, a bunch of people that only eat homemade marinara made with their own self grown herbs and vegetables](https://www.fark.com/goto/13465604) ( [msn.com](https://www.fark.com/goto/13465604) ) » [(14 comments)](https://www.fark.com/comments/13465604/To-left-a-list-of-12-jarred-marinara-sauces-ranked-worst-to-best-To-right-a-bunch-of-people-that-only-eat-homemade-marinara-made-with-their-own-self-grown-herbs-vegetables) |
-| [Politics](https://www.fark.com/politics/) | [Forget it, Jake -- it's Ohio](https://www.fark.com/goto/13465624) ( [abcnews.go.com](https://www.fark.com/goto/13465624) ) » [(14 comments)](https://www.fark.com/comments/13465624/Forget-it-Jake-its-Ohio) |
+| [Main](https://www.fark.com/) | [Good news, everybody. If you've been thinking about visiting Woodbridge, VA, but have been waiting for something really special to come along, they just got their very first parking garage](https://www.fark.com/goto/13465758) ( [potomaclocal.com](https://www.fark.com/goto/13465758) ) » [(23 comments)](https://www.fark.com/comments/13465758/Good-news-everybody-If-youve-been-thinking-about-visiting-Woodbridge-VA-but-have-been-waiting-for-something-really-special-to-come-along-they-just-got-their-very-first-parking-garage) |
+| [Discussion](https://www.fark.com/discussion/) | [Surprise I'm spinning jazz today. And a few tracks that jazz purists would look upon with scorn. Featured artists include Jocelyn Gould, Randy Bachman, Gregory Porter, Amanda Tosoff, Freddie Hubbard, Ron Carter & more; Fuse 'n Flow, 1:00PM ET](https://www.fark.com/goto/13465902) ( [bigeradio.com](https://www.fark.com/goto/13465902) ) » [(14 comments)](https://www.fark.com/comments/13465902/Surprise-Im-spinning-jazz-today-And-a-few-tracks-that-jazz-purists-would-look-upon-with-scorn-Featured-artists-include-Jocelyn-Gould-Randy-Bachman-Gregory-Porter-Amanda-Tosoff-Freddie-Hubbard-Ron-Carter-more-Fuse-n-Flow-100PM-ET) |
+| [Sports](https://www.fark.com/sports/) | [Can the Steelers stop the Ravens? Can the Packers tame the Bears? Can the Falcons fly a mile high versus the Broncos? Can the Bills hand the Chiefs their first loss? Week 11 of the NFL season begins at 1:00 PM ET on CBS and FOX](https://www.fark.com/goto/13465424) ( [espn.com](https://www.fark.com/goto/13465424) ) » [(483 comments)](https://www.fark.com/comments/13465424/Can-Steelers-stop-Ravens-Can-Packers-tame-Bears-Can-Falcons-fly-a-mile-high-versus-Broncos-Can-Bills-hand-Chiefs-their-first-loss-Week-11-of-NFL-season-begins-at-100-PM-ET-on-CBS-FOX) |
+| [Business](https://www.fark.com/business/) | [Hippie pot farmers get free lessons in Agricultural Business](https://www.fark.com/goto/13465848) ( [sfgate.com](https://www.fark.com/goto/13465848) ) » [(3 comments)](https://www.fark.com/comments/13465848/Hippie-pot-farmers-get-free-lessons-in-Agricultural-Business) |
+| [STEM](https://www.fark.com/stem/) | [Living in a world where everyone is addicted to tech devices is the real zombie apocalypse](https://www.fark.com/goto/13465620) ( [theguardian.com](https://www.fark.com/goto/13465620) ) » [(11 comments)](https://www.fark.com/comments/13465620/Living-in-a-world-where-everyone-is-addicted-to-tech-devices-is-real-zombie-apocalypse) |
+| [Entertainment](https://www.fark.com/entertainment/) | [Just drink the farking Merlot already](https://www.fark.com/goto/13465794) ( [hollywoodreporter.com](https://www.fark.com/goto/13465794) ) » [(13 comments)](https://www.fark.com/comments/13465794/Just-drink-farking-Merlot-already) |
+| [Fandom](https://www.fark.com/fandom/) | [What if the real Call of Duty was all the people we didn't kill along the way?](https://www.fark.com/goto/13465598) ( [ign.com](https://www.fark.com/goto/13465598) ) » [(11 comments)](https://www.fark.com/comments/13465598/What-if-real-Call-of-Duty-was-all-people-we-didnt-kill-along-way) |
+| [D'awww](https://www.fark.com/dawww/) | [Besides inventing the trouser belt, Kazakhstan is also known for its flamingo concerts](https://www.fark.com/goto/13465694) ( [uk.news.yahoo.com](https://www.fark.com/goto/13465694) ) » [(15 comments)](https://www.fark.com/comments/13465694/Besides-inventing-trouser-belt-Kazakhstan-is-also-known-for-its-flamingo-concerts) |
+| [Food](https://www.fark.com/food/) | [Just drink the farking Merlot already](https://www.fark.com/goto/13465794) ( [hollywoodreporter.com](https://www.fark.com/goto/13465794) ) » [(13 comments)](https://www.fark.com/comments/13465794/Just-drink-farking-Merlot-already) |
+| [Politics](https://www.fark.com/politics/) | [My hat it has three corners, and three years will be my sentence](https://www.fark.com/goto/13465816) ( [lawandcrime.com](https://www.fark.com/goto/13465816) ) » [(8 comments)](https://www.fark.com/comments/13465816/My-hat-it-has-three-corners-three-years-will-be-my-sentence) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 17 2024 07:42:51  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 17 2024 14:42:36  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
