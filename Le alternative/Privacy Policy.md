@@ -1,4 +1,4 @@
-[Salta al contenuto](#content) 
+[Salta al contenuto](#content)
 
 [![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png)](https://www.lealternative.net/)
 
