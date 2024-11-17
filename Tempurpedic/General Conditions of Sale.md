@@ -282,7 +282,7 @@ Tuesday - Friday: 9am - 9pm EST
 
 Saturday: 9am - 7pm EST
 
-Sunday: 9am - 7pm EST
+Sunday: 9am - 6pm EST
 
 ![](/static/c2433949/img/icons/badge-headset.ef059a1ce05c.png)
 
