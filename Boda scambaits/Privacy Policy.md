@@ -119,11 +119,11 @@ Posts
 Comments
 --------
 
+* Amir on [Synergy Finance LLC](https://bodascambaits.net/2023/05/16/synergy-finance-llc/#comment-67)
 * Dog on [Synergy Finance LLC](https://bodascambaits.net/2023/05/16/synergy-finance-llc/#comment-66)
 * [A Comparison of Jamaican vs. Indian Scammers - Boda Scambaits](https://bodascambaits.net/2024/03/22/a-comparison-of-jamaican-vs-indian-scammers/) on [Inside the World of PCH Lottery Scams: How Jamaican Scammers Operate](https://bodascambaits.net/2024/03/15/inside-the-world-of-pch-lottery-scams-how-jamaican-scammers-operate/#comment-65)
 * Sashank on [NanoBaiter](https://bodascambaits.net/2022/04/26/nanobaiter/#comment-57)
 * [Boda Scambaits](https://bodascambaits.net/) on [Unmasking the Ultimate Troll: A Scambaiting Extraordinaire](https://bodascambaits.net/2023/09/01/unmasking-the-ultimate-troll-a-scambaiting-extraordinaire/#comment-54)
-* BentoBrocke on [Unmasking the Ultimate Troll: A Scambaiting Extraordinaire](https://bodascambaits.net/2023/09/01/unmasking-the-ultimate-troll-a-scambaiting-extraordinaire/#comment-53)
 
 * [Privacy Policy](https://bodascambaits.net/privacy/)
 * [Terms Of Service](https://bodascambaits.net/terms-of-service/)
