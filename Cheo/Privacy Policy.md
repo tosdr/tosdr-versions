@@ -108,7 +108,7 @@ Search
 Privacy and confidentiality
 ===========================
 
-![Mother and child smiling at camera](/en/rotatingimages/defaultInterior/Banner-12.jpg)
+![A child with a cochlear implant, holding a teddy bear](/en/rotatingimages/defaultInterior/Banner-19.jpeg)
 
 [Regular](# "Default text size") [Large](# "Increase to Large text size") [X-Large](# "Increase to X-Large text size")
 
