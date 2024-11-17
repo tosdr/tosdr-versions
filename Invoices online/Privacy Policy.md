@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Anri van der Linde
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=41674733)  
-Sportspro Group (Pty) Ltd
+![valued client Sophia's Roses](https://www.invoicesonline.co.za/scripts/image.php?bid=5227&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=82665881)  
+Sophia's Roses
 
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=169098130)  
-PROGRAPHIX PTY LTD
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=88687079)  
+Enhle Oarabile Kea
 
-![valued client NWET Pty LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=5929&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=53415251)  
-NWET Pty LTD
+![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=13307639)  
+MONSTER SECURITY SERVICES
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=102382909)  
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=5233215)  
+#DiGi3 Marketing & Design
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=2279011)  
 Brand's Fountains Deco and Events Coordinatoin
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=19281826)  
-Camp 4 Africa (Pty) Ltd
+![valued client TechnoDezi PTY(LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=2471&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=119225281)  
+TechnoDezi PTY(LTD)
 
-![valued client FRAMED BY ANTON (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=2146&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=99615471)  
-FRAMED BY ANTON (Pty) Ltd.
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=169752049)  
+Fox Alarms & Security
 
-![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=4635536)  
-De light Investments(Pty)Ltd trading as Serene Memorials
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=138637088)  
+Creative Characters
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=197556887)  
-Repairs In Motion
+![valued client LEONARD](https://www.invoicesonline.co.za/scripts/image.php?bid=4785&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=111349954)  
+LEONARD
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=10694175)  
-Immediate Health (pty)ltd
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=47538312)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Alliance Energy](https://www.invoicesonline.co.za/scripts/image.php?bid=2000&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=59739187)  
-Alliance Energy
+![valued client CGHK Enterprises (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8288&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=13604492)  
+CGHK Enterprises (PTY) LTD
 
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=181835053)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=3357412)  
+Kara Medical (Pty) Ltd
 
-![valued client Chiron Medical Solutions](https://www.invoicesonline.co.za/scripts/image.php?bid=6720&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=92275424)  
-Chiron Medical Solutions
+![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=9115695)  
+ARCHITEK PTY LTD
 
-![valued client Shades of Summer Investments 184cc t/a Junker Construction](https://www.invoicesonline.co.za/scripts/image.php?bid=7053&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=136970283)  
-Shades of Summer Investments 184cc t/a Junker Construction
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=84110838)  
+CBR Verwe/Paints
 
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=201049958)  
-Multi CNC Solutions CC
-
-![valued client Forgotten Goods (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8623&file=logo_300_100&type=&fe=5fcea67349fd6881029200084bd0ccaec91177f19153f9b0806d930d8a16fdfb&c=60471526)  
-Forgotten Goods (Pty) Ltd
+![valued client Well Hung Art](https://www.invoicesonline.co.za/scripts/image.php?bid=7236&file=logo_300_100&type=&fe=8b2d38397ad2e102aa9a0f6e2f7b0d28439033cbc73a8e5a53b5de868a4e24c0&c=56810545)  
+Well Hung Art
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
