@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Oprah Winfrey speaking into a mic while sitting on stage](https://www.women.com/img/gallery/the-best-oprahs-book-club-picks-of-the-2020s/intro-1731348923.jpg)](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+*  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
     
     [Living](https://www.women.com/category/living/)
     
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
     
-    [The Best Oprah's Book Club Picks Of The 2020s](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-    ================================================================================================================
+    [Anna Kendrick Is Refreshingly Candid About Her Decision To Remain Childless By Choice](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+    =============================================================================================================================================================================================
     
-    If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
+    Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
     
-    By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+    By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
     
-* *  [![Willow Smith sitting at a fashion event posing](https://www.women.com/img/gallery/5-bisexual-celebs-who-remind-us-theres-no-timeline-for-coming-out/intro-1731342732.jpg)](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
+* *  [![Oprah Winfrey speaking into a mic while sitting on stage](https://www.women.com/img/gallery/the-best-oprahs-book-club-picks-of-the-2020s/intro-1731348923.jpg)](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+        
+        ### [The Best Oprah's Book Club Picks Of The 2020s](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+        
+        If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
+        
+        By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+        
+    *  [![Willow Smith sitting at a fashion event posing](https://www.women.com/img/gallery/5-bisexual-celebs-who-remind-us-theres-no-timeline-for-coming-out/intro-1731342732.jpg)](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
         
         [Politics](https://www.women.com/category/politics/)
         
@@ -66,22 +78,46 @@
         
         By Amanda Chatel [Read More](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
         
-    *  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-        
-        [Beauty](https://www.women.com/category/beauty/)
-        
-        [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-        
-        ### [Lindsay Lohan's Hair Transformation Throughout The Years](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-        
-        Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
-        
 
 More Stories
 ------------
 
+*  [![Jennifer Lopez on the red carpet](https://www.women.com/img/gallery/5-jennifer-lopez-looks-that-show-off-her-killer-legs/intro-1730828602.jpg)](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [5 Jennifer Lopez Looks That Show Off Her Killer Legs](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
+    
+    Jennifer Lopez is known for her sexy red carpet looks, including many that show off her killer legs. Her mini dresses display the results of regular workouts.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
+    
+*  [![Martha Stewart on the red carpet](https://www.women.com/img/gallery/martha-stewarts-style-has-completely-transformed-through-the-years/intro-1731513617.jpg)](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
+    
+    [Fashion](https://www.women.com/category/fashion/)
+    
+    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
+    
+    ### [Martha Stewart's Style Has Completely Transformed Through The Years](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
+    
+    From her early years as a model to posting Instagram thirst traps as a grandmother, Martha Stewart has embraced every fashion trend over her long career.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
+    
+*  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
+    
+    [Beauty](https://www.women.com/category/beauty/)
+    
+    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
+    
+    ### [Lindsay Lohan's Hair Transformation Throughout The Years](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
+    
+    Though Lindsay Lohan is famous for her gorgeous red mane, she's changed up her tresses more than you might remember over the decades.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
+    
 *  [![Demi Lovato with short hair and bold eye makeup looking fierce](https://www.women.com/img/gallery/5-celebs-who-clapped-back-at-demands-they-label-their-sexuality/intro-1731006397.jpg)](https://www.women.com/1708048/celebs-clapped-back-demands-they-label-sexuality/)
     
     [Politics](https://www.women.com/category/politics/)
@@ -369,42 +405,6 @@ More Stories
     There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
     
     By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
-    
-*  [![Brittany Mahomes posing](https://www.women.com/img/gallery/brittany-mahomes-makeup-mistakes-that-totally-ruined-her-look/intro-1730138140.jpg)](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
-    
-    [Beauty](https://www.women.com/category/beauty/)
-    
-    [Beauty](https://www.women.com/category/beauty/) By Emily Hutchinson
-    
-    ### [Brittany Mahomes Makeup Mistakes That Totally Ruined Her Look](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
-    
-    Brittany Mahomes is a makeup girl. But unfortunately, there were a few times when experimenting with makeup totally ruined her look.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1699294/brittany-mahomes-makeup-mistakes-totally-ruined-look/)
-    
-*  [![Marley Marotta and Alexander Mendeluk on Shark Tank](https://www.women.com/img/gallery/heres-what-went-down-with-spirithoods-after-shark-tank/intro-1730131233.jpg)](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Emily Hutchinson
-    
-    ### [Here's What Went Down With SpiritHoods After Shark Tank](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
-    
-    Fuzzy, faux fur hat company SpiritHoods was trending everywhere in the 2010s. Today, despite an unsuccessful appearance on Shark Tank, it's still going strong.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1699179/what-went-down-spirithoods-after-shark-tank/)
-    
-*  [![Nicole Kidman wearing sunglasses](https://www.women.com/img/gallery/outdated-trends-nicole-kidman-has-been-caught-wearing/intro-1730128490.jpg)](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-    
-    [Fashion](https://www.women.com/category/fashion/)
-    
-    [Fashion](https://www.women.com/category/fashion/) By Bernadette Roe
-    
-    ### [Outdated Trends Nicole Kidman Has Been Caught Wearing](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
-    
-    Nicole Kidman loves pushing boundaries when it comes to fashion, even if it puts her at greater risk of making a blunder.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1699000/outdated-trends-nicole-kidman-caught-wearing/)
     
 
 Back
