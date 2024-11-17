@@ -4,7 +4,7 @@ Hortenzia, Gergő
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "köd")
 
-0°4°
+2°9°
 
 Menü
 
