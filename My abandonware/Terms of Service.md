@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Final Fantasy II](https://www.myabandonware.com/game/final-fantasy-ii-b6e)
 * [The Final Fantasy Legend](https://www.myabandonware.com/game/the-final-fantasy-legend-960)
 * [Dragon Ball 3: Gokūden](https://www.myabandonware.com/game/dragon-ball-3-gokuden-9rw)
 * [Romancing SaGa](https://www.myabandonware.com/game/romancing-saga-axq)
 * [Race Mania](https://www.myabandonware.com/game/race-mania-tr1)
-* [Pyrosaurus](https://www.myabandonware.com/game/pyrosaurus-tr0)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
