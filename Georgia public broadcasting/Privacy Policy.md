@@ -275,13 +275,6 @@ Don't Miss:
 
   [![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-bright.svg) ![GPB donate icon](/themes/custom/ga_forest/assets/images/icons/donate/donate--blue-sky.svg)Donate](https://www.gpb.org/give-now "Donate to Georgia Public Broadcasting")
 
-![](/themes/custom/ga_forest/assets/images/icons/alerts/alert-live.svg)
-
-GHSA Cheerleading State Championships Day 2 Session 2 - Class 6A and COED at 3 p.m.
------------------------------------------------------------------------------------
-
-[WATCH LIVE!](https://www.gpb.org/events/sports/2024/11/16/2024-2025-ghsa-cheerleading-state-championships-day-2-6a-coed)
-
 Messages
 --------
 
