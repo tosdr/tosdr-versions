@@ -95,68 +95,6 @@ If you have any questions about our privacy policy, please [contact us](mailto:w
 
 Return to our [subscription form](https://www.icr.org/subscriptions).
 
-More Days of Praise
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/14123)
-
-[The First Love](https://www.icr.org/article/14123/)
-
-“Father, I will that they also, whom thou hast given me, be with me where I am; that they may behold my glory, which thou hast given me:...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/power-love-sound-mind)
-
-[Power, Love, and a Sound Mind](https://www.icr.org/article/power-love-sound-mind/)
-
-“For God hath not given us a spirit of fear; but of power, and of love, and of a sound mind.” (2 Timothy 1:7) This little verse is...
-
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
-
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/he-shall-speak-peace)
-
-[He Shall Speak Peace](https://www.icr.org/article/he-shall-speak-peace/)
-
-“And I will cut off the chariot from Ephraim, and the horse from Jerusalem, and the battle bow shall be cut off: and he shall speak peace unto...
-
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
-
-Shop Related Products
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10475517/file.jpg)
-
-The Modern Creation Trilogy](https://store.icr.org/dr-henry-morris-the-modern-creation-trilogy.html)
-
-$29.99
-
-$34.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474057/file.jpg)
-
-Days to Remember](https://store.icr.org/dr-henry-morris-days-to-remember.html)
-
-$9.99
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10476476/file.jpg)
-
-The Revelation Record](https://store.icr.org/dr-henry-morris-the-revelation-record.html)
-
-$24.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10472152/file.jpg)
-
-Biblical Creationism](https://store.icr.org/dr-henry-morris-biblical-creationism.html)
-
-$14.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10474599/file.jpg)
-
-The Biblical Basis for Modern Science](https://store.icr.org/dr-henry-morris-the-biblical-basis-for-modern-scie.html)
-
-$19.99
-
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
 [About  Us](https://www.icr.org/discover)[News](https://www.icr.org/news)[Publications](https://www.icr.org/icr-magazines)[Media](https://www.icr.org/video)[Events](https://www.icr.org/events)[Give](https://www.icr.org/donate)[Store](https://store.icr.org/)[Education](http://www.icr.edu/)
