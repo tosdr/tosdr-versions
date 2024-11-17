@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 17, 2024](https://www.japantimes.co.jp/archive/2024/11/17/ "archive page")
+[November 18, 2024](https://www.japantimes.co.jp/archive/2024/11/18/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,34 +131,28 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
-
-  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
-
 [Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
   [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
-[British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-  [![Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.")](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
-
-[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
-
-  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
 [American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
   [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
+[Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+
+  [![Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/16/434431.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+
+[Ishiba and Xi hold first in-person talks amid Japan-China tensions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+
+  [![Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434532.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+
 Editors' Picks
 --------------
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
-
-  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
 [BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
 
@@ -170,23 +164,29 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[British national arrested for over ¥13 million cash swap swindle](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
+[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-  [![Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434394.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tokyo Metropolitan Police have seized fake gold grains and notepads passed off as cash that were used to swindle a company executive in Tokyo's Chiyoda Ward in October 2023.")](https://www.japantimes.co.jp/news/2024/11/15/japan/crime-legal/gold-swap-arrest/ "British national arrested for over ¥13 million cash swap swindle")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Princess Yuriko, sister-in-law of Emperor Showa, dies at 101](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
-
-By [Yukana Inoue](https://www.japantimes.co.jp/author/4619/yukana-inoue/ "Yukana Inoue")  
-
-  [![Princess Yuriko in May 2023](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434198.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Princess Yuriko in May 2023")](https://www.japantimes.co.jp/news/2024/11/15/japan/princess-yuriko-obituary/ "Princess Yuriko, sister-in-law of Emperor Showa, dies at 101")
+  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
 [American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
   [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+
+  [![Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/16/434431.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Ishiba and Xi hold first in-person talks amid Japan-China tensions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434532.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
 
 Podcast
 -------
@@ -207,9 +207,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,25 +249,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Ukraine supercharges mine-clearing push to revive war-torn farms](https://www.japantimes.co.jp/news/2024/11/17/world/ukraine-supercharges-mine-clearing/ "Ukraine supercharges mine-clearing push to revive war-torn farms")
+
+4 hours ago
+
+[Russia pounds Ukraine's power grid in 'massive' air strike](https://www.japantimes.co.jp/news/2024/11/17/world/ukraines-power-grid/ "Russia pounds Ukraine's power grid in 'massive' air strike")
+
+5 hours ago
+
+[Super Typhoon Man-yi batters Philippines' most populous island](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/man-yi-slams-philippines-most-populous-island/ "Super Typhoon Man-yi batters Philippines' most populous island")
+
+5 hours ago
+
 [Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
-49 mins ago
+6 hours ago
 
 [Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
-2 hours ago
-
-[Elite GSDF troops to regularly deploy for drills in Australia](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/japan-us-australia-defense/ "Elite GSDF troops to regularly deploy for drills in Australia")
-
-2 hours ago
-
-[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
-
-3 hours ago
-
-[Ishiba and Xi hold first in-person talks amid Japan-China tensions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
-
-4 hours ago
+8 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
