@@ -424,11 +424,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-2009/2010/tamara-cvetic-n2.jpg?itok=cEwige0Z)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/godisnja-izlozba-studenata-flu-beograd-20092010)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija/cacak-002.jpg?itok=QJNBNVpf)](http://seecult.org/galerija/galerija-umetnika/ana-krstic/srecna-nova-demokratija)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/massive-atack/img-6960.jpg?itok=s7bhXsen)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/massive-atack)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/kulturna-politika-i-internet/okugli-sto.jpg?itok=DMQKYkYx)](http://seecult.org/galerija/foto-galerija/foto-arhiva/kulturna-politika-i-internet)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
