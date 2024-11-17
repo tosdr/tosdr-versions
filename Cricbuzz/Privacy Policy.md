@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[ENG vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/95191/eng-vs-wi-4th-t20i-england-tour-of-west-indies-2024 "England v West Indies, 4th T20I - WI Won")[MLSW vs BRHW - Preview](https://www.cricbuzz.com/live-cricket-scores/101395/mlsw-vs-brhw-30th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Brisbane Heat Women, 30th Match - Preview")[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/108753/sl-vs-nz-2nd-odi-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd ODI - Preview")[SYTW vs SYSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101400/sytw-vs-sysw-31st-match-womens-big-bash-league-2024 "Sydney Thunder Women v Sydney Sixers Women, 31st Match - Preview")[AUS vs PAK - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92048/aus-vs-pak-2nd-t20i-pakistan-tour-of-australia-2024 "Australia v Pakistan, 2nd T20I - AUS Won")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/108753/sl-vs-nz-2nd-odi-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 2nd ODI - Preview")[SYTW vs SYSW - Live](https://www.cricbuzz.com/live-cricket-scores/101400/sytw-vs-sysw-31st-match-womens-big-bash-league-2024 "Sydney Thunder Women v Sydney Sixers Women, 31st Match - Live")[ENG vs WI - WI Won](https://www.cricbuzz.com/live-cricket-scores/95191/eng-vs-wi-4th-t20i-england-tour-of-west-indies-2024 "England v West Indies, 4th T20I - WI Won")[MLSW vs BRHW - BRHW Won](https://www.cricbuzz.com/live-cricket-scores/101395/mlsw-vs-brhw-30th-match-womens-big-bash-league-2024 "Melbourne Stars Women v Brisbane Heat Women, 30th Match - BRHW Won")[WI vs ENG - Preview](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - Preview")
 
 AllLive NowToday
 
@@ -76,7 +76,7 @@ AllLive NowToday
     
     2nd T20I
     
-* [Australia vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/92057/aus-vs-pak-3rd-t20i-australia-v-pakistan "Australia v Pakistan, 3rd T20I - Upcoming")
+* [Australia vs Pakistan](https://www.cricbuzz.com/live-cricket-scores/92057/aus-vs-pak-3rd-t20i-australia-v-pakistan "Australia v Pakistan, 3rd T20I - Preview")
     
     3rd T20I
     
@@ -92,17 +92,19 @@ AllLive NowToday
     
     2-day Warm-up match
     
+* ICC Mens T20 World Cup Asia Qualifier B 2024
+    
+    [Qatar vs Thailand](https://www.cricbuzz.com/live-cricket-scores/108945/qat-vs-thai-1st-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Qatar v Thailand, 1st Match - Upcoming")
+    
+    1st Match
+    
 * Indonesia v Myanmar, 2024
     
-    [Myanmar vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/109232/mmr-vs-idn-3rd-t20i-indonesia-v-myanmar-2024 "Myanmar v Indonesia, 3rd T20I - IDN Won")
-    
-    3rd T20I
-    
-* [Myanmar vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/109236/mmr-vs-idn-4th-t20i-indonesia-v-myanmar-2024 "Myanmar v Indonesia, 4th T20I - IDN Won")
+    [Myanmar vs Indonesia](https://www.cricbuzz.com/live-cricket-scores/109236/mmr-vs-idn-4th-t20i-indonesia-v-myanmar-2024 "Myanmar v Indonesia, 4th T20I - IDN Won")
     
     4th T20I
     
-* [Indonesia vs Myanmar](https://www.cricbuzz.com/live-cricket-scores/109239/idn-vs-mmr-5th-t20i-indonesia-v-myanmar-2024 "Indonesia v Myanmar, 5th T20I - Preview")
+* [Indonesia vs Myanmar](https://www.cricbuzz.com/live-cricket-scores/109239/idn-vs-mmr-5th-t20i-indonesia-v-myanmar-2024 "Indonesia v Myanmar, 5th T20I - IDN Won")
     
     5th T20I
     
@@ -127,18 +129,6 @@ AllLive NowToday
 * [Assam vs Chhattisgarh](https://www.cricbuzz.com/live-cricket-scores/97770/asm-vs-cg-elite-group-d-ranji-trophy "Assam v Chhattisgarh, Elite Group D - Match drawn")
     
     Elite Group D
-    
-* [Bihar vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97761/bih-vs-pun-elite-group-c-ranji-trophy "Bihar v Punjab, Elite Group C - PUN Won")
-    
-    Elite Group C
-    
-* [Bengal vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97752/ben-vs-mp-elite-group-c-ranji-trophy "Bengal v Madhya Pradesh, Elite Group C - BEN Won")
-    
-    Elite Group C
-    
-* [Tripura vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/97700/tri-vs-jk-elite-group-a-ranji-trophy "Tripura v Jammu and Kashmir, Elite Group A - JK Won")
-    
-    Elite Group A
     
 * [Meghalaya vs Baroda](https://www.cricbuzz.com/live-cricket-scores/97693/mgly-vs-brd-elite-group-a-ranji-trophy "Meghalaya v Baroda, Elite Group A - BRD Won")
     
@@ -176,13 +166,25 @@ AllLive NowToday
     
     Elite Group B
     
+* [Services vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97709/ser-vs-mum-elite-group-a-ranji-trophy "Services v Mumbai, Elite Group A - MUM Won")
+    
+    Elite Group A
+    
 * [Kerala vs Haryana](https://www.cricbuzz.com/live-cricket-scores/97765/ker-vs-har-elite-group-c-ranji-trophy "Kerala v Haryana, Elite Group C - Match drawn")
     
     Elite Group C
     
-* [Services vs Mumbai](https://www.cricbuzz.com/live-cricket-scores/97709/ser-vs-mum-elite-group-a-ranji-trophy "Services v Mumbai, Elite Group A - MUM Won")
+* [Bihar vs Punjab](https://www.cricbuzz.com/live-cricket-scores/97761/bih-vs-pun-elite-group-c-ranji-trophy "Bihar v Punjab, Elite Group C - PUN Won")
+    
+    Elite Group C
+    
+* [Tripura vs Jammu and Kashmir](https://www.cricbuzz.com/live-cricket-scores/97700/tri-vs-jk-elite-group-a-ranji-trophy "Tripura v Jammu and Kashmir, Elite Group A - JK Won")
     
     Elite Group A
+    
+* [Bengal vs Madhya Pradesh](https://www.cricbuzz.com/live-cricket-scores/97752/ben-vs-mp-elite-group-c-ranji-trophy "Bengal v Madhya Pradesh, Elite Group C - BEN Won")
+    
+    Elite Group C
     
 * Ranji Trophy Plate
     
@@ -232,7 +234,7 @@ AllLive NowToday
     
 * Pakistan A v Sri Lanka A, 2024
     
-    [Pakistan A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/109253/paka-vs-sla-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Pakistan A v Sri Lanka A, 2nd Unofficial Test - Upcoming")
+    [Pakistan A vs Sri Lanka A](https://www.cricbuzz.com/live-cricket-scores/109253/paka-vs-sla-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Pakistan A v Sri Lanka A, 2nd Unofficial Test - Preview")
     
     2nd Unofficial Test
     
@@ -290,13 +292,17 @@ AllLive NowToday
     
     29th Match
     
-* [Melbourne Stars Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/101395/mlsw-vs-brhw-30th-match-wbbl-2024 "Melbourne Stars Women v Brisbane Heat Women, 30th Match - Preview")
+* [Melbourne Stars Women vs Brisbane Heat Women](https://www.cricbuzz.com/live-cricket-scores/101395/mlsw-vs-brhw-30th-match-wbbl-2024 "Melbourne Stars Women v Brisbane Heat Women, 30th Match - BRHW Won")
     
     30th Match
     
-* [Sydney Thunder Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101400/sytw-vs-sysw-31st-match-wbbl-2024 "Sydney Thunder Women v Sydney Sixers Women, 31st Match - Preview")
+* [Sydney Thunder Women vs Sydney Sixers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101400/sytw-vs-sysw-31st-match-wbbl-2024 "Sydney Thunder Women v Sydney Sixers Women, 31st Match - Live")
     
     31st Match
+    
+* [Adelaide Strikers Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-wbbl-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - Upcoming")
+    
+    32nd Match
     
 * Costa Rica Women tour of Mexico 2024
     
@@ -619,41 +625,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132449/injured-healy-out-of-wbbl-2024-doubtful-for-india-odis "Injured Healy out of WBBL 2024, doubtful for India ODIs")
+
+[Injured Healy out of WBBL 2024, doubtful for India ODIs](https://www.cricbuzz.com/cricket-news/132449/injured-healy-out-of-wbbl-2024-doubtful-for-india-odis "Injured Healy out of WBBL 2024, doubtful for India ODIs")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132448/lewis-hope-star-in-consolation-win "Lewis, Hope star in consolation win")
+
+[Lewis, Hope star in consolation win](https://www.cricbuzz.com/cricket-news/132448/lewis-hope-star-in-consolation-win "Lewis, Hope star in consolation win")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132447/detached-from-the-past-confident-nasum-charts-comeback-route-with-clarity "Detached from the past, confident Nasum charts comeback route with clarity")
 
 [Detached from the past, confident Nasum charts comeback route with clarity](https://www.cricbuzz.com/cricket-news/132447/detached-from-the-past-confident-nasum-charts-comeback-route-with-clarity "Detached from the past, confident Nasum charts comeback route with clarity")
 
-8h ago
+14h ago
 
   [](https://www.cricbuzz.com/cricket-news/132446/gill-thumb-fracture-injury-perth-test-india-v-australia-border-gavaskar-trophy "Gill set to miss Perth Test after injuring his thumb")
 
 [Gill set to miss Perth Test after injuring his thumb](https://www.cricbuzz.com/cricket-news/132446/gill-thumb-fracture-injury-perth-test-india-v-australia-border-gavaskar-trophy "Gill set to miss Perth Test after injuring his thumb")
 
-11h ago
+17h ago
 
   [](https://www.cricbuzz.com/cricket-news/132445/ranji-trophy-shami-picks-three-in-bengals-thrilling-win "Ranji Trophy: Shami picks three in Bengal's thrilling win ")
 
 [Ranji Trophy: Shami picks three in Bengal's thrilling win](https://www.cricbuzz.com/cricket-news/132445/ranji-trophy-shami-picks-three-in-bengals-thrilling-win "Ranji Trophy: Shami picks three in Bengal's thrilling win ")
 
-12h ago
+18h ago
 
   [](https://www.cricbuzz.com/cricket-news/132444/spencer-johnson-5-fer-helps-australia-clinch-thriller-vs-pakistan "Johnson 5-fer helps Australia clinch thriller")
 
 [Johnson 5-fer helps Australia clinch thriller](https://www.cricbuzz.com/cricket-news/132444/spencer-johnson-5-fer-helps-australia-clinch-thriller-vs-pakistan "Johnson 5-fer helps Australia clinch thriller")
 
-12h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132443/icc-diverts-trophy-tour-from-pok-areas-stopover-in-india-set-for-january "ICC diverts Trophy tour from POK areas, stopover in India set for January")
-
-[ICC diverts Trophy tour from POK areas, stopover in India set for January](https://www.cricbuzz.com/cricket-news/132443/icc-diverts-trophy-tour-from-pok-areas-stopover-in-india-set-for-january "ICC diverts Trophy tour from POK areas, stopover in India set for January")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132442/penna-mcgrath-help-strikers-snap-5-match-losing-streak "Penna, McGrath help Strikers snap 5-match losing streak")
-
-[Penna, McGrath help Strikers snap 5-match losing streak](https://www.cricbuzz.com/cricket-news/132442/penna-mcgrath-help-strikers-snap-5-match-losing-streak "Penna, McGrath help Strikers snap 5-match losing streak")
-
-16h ago
+18h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
