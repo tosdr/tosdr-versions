@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/economie/en-zo-word-je-de-rijkste-persoon-op-aarde/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/arend-zeevat/boeren-burgers-en-buitenlui/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
@@ -170,9 +170,9 @@ by [GuidoJ.](https://www.wanttoknow.nl/author/guido/) Posted on [10 juni 2024](h
 
 Posted in [Boeken](https://www.wanttoknow.nl/dossiers/boeken/) Tagged [Corona](https://www.wanttoknow.nl/trefwoorden/corona/), [Duurzaam](https://www.wanttoknow.nl/trefwoorden/duurzaam/), [Farmacie](https://www.wanttoknow.nl/trefwoorden/farmacie/), [Gezondheid](https://www.wanttoknow.nl/trefwoorden/gezondheid/), [Machtselite](https://www.wanttoknow.nl/trefwoorden/machtselite/), [Media](https://www.wanttoknow.nl/trefwoorden/media/), [Vaccinaties](https://www.wanttoknow.nl/trefwoorden/vaccinaties/), [wereldorde](https://www.wanttoknow.nl/trefwoorden/wereldorde/), [Wetenschap](https://www.wanttoknow.nl/trefwoorden/wetenschap/) [Laat een reactie achter](https://www.wanttoknow.nl/boeken/einde-aan-de-omgekeerde-wereld-van-geneeskunde/#respond)
 
-![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/light-camera-fiction-fictie.jpg?fit=500%2C404&ssl=1)
+![](https://i0.wp.com/www.wanttoknow.nl/wp-content/uploads/vergeven-glaudemans-quote.jpg?fit=411%2C242&ssl=1)
 
-### Goed luisteren, volgende keer..!?
+### Even moment van inkeer..?
 
 #### Meelezen, meeleven
 
