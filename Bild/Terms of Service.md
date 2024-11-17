@@ -208,25 +208,25 @@ Menü
 
 [BreakingNews
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt
 
-Polen versetzt Luftabwehr in Alarmbereitschaft: Russland greift Ukraine massiv mit Raketen an](https://www.bild.de/politik/massiver-luftangriff-russisches-militaer-attackiert-ukraine-673990fb25f5c12fe9b1218f)
+Mit 96,5 Prozent: Habeck zum Kanzler-Kandidaten gewählt](https://www.bild.de/politik/inland/mit-96-5-prozent-habeck-zum-kanzler-kandidaten-gewaehlt-6739e713d256370bfb037a36)
 
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
