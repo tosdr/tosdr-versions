@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Fair-copa-326x245.jpg)](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
+
+Citywide
+
+### [Cop found not guilty of improperly seizing, inventorying guns while on patrol](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
+
+[November 14, 2024 4:46 PM](https://cwbchicago.com/2024/11)
+
+Cook County judge on Thursday found a Chicago cop accused of improperly seizing and inventorying firearms while on patrol not guilty of all charges. It’s the latest blow for prosecutors who have struggled to win criminal convictions against Chicago cops.[](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Dashion-Jones-and-suspect-326x245.jpg)](https://cwbchicago.com/2024/11/anonymous-tipster-identifies-red-line-robber-for-police.html "Anonymous tipster identifies Red Line robber for police")
 
 CTA
@@ -262,16 +272,6 @@ Rogers Park
 [November 14, 2024 6:43 AM](https://cwbchicago.com/2024/11)
 
 A Northwestern University intercampus shuttle bus was apparently struck by a bullet, leaving its driver injured last Friday evening, according to new information from the school’s police department.[](https://cwbchicago.com/2024/11/northwestern-shuttle-bus-struck-by-bullet-on-north-side-school-says.html "Northwestern shuttle bus struck by bullet on North Side, school says")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/24-cwp-056a-326x245.jpg)](https://cwbchicago.com/2024/11/maserati-driving-robbery-crew-is-targeting-victims-from-the-loop-to-the-south-side-police-warn.html "Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn")
-
-Gage Park
-
-### [Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn](https://cwbchicago.com/2024/11/maserati-driving-robbery-crew-is-targeting-victims-from-the-loop-to-the-south-side-police-warn.html "Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn")
-
-[November 14, 2024 6:21 AM](https://cwbchicago.com/2024/11)
-
-group of men traveling in stolen Maseratis and armed with rifles and pistols is responsible for two waves of robberies over the past month that have targeted victims from the Loop to the University of Chicago to the South Side, according to Chicago police.[](https://cwbchicago.com/2024/11/maserati-driving-robbery-crew-is-targeting-victims-from-the-loop-to-the-south-side-police-warn.html "Maserati-driving robbery crew is targeting victims from the Loop to the South Side, police warn")
 
 Search
 
