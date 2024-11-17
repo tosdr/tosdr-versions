@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/suiker-is-vergif/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/het-jaar-2020-alvast-numerologisch-bekeken/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
