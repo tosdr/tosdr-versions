@@ -18,7 +18,7 @@ The objective of this Policy is to provide you, as a user of Soundtrap’s servi
 1\. What are cookies?
 ---------------------
 
-Cookies are files which are downloaded to your device, for example, when you visit a website. They are useful because they allow us and our partners to recognise a user's device and support the continuity of your experience. You can find more information about cookies at: [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org/&sa=D&source=editors&ust=1731861746441901&usg=AOvVaw053CWFI8OmZLhuZliXneoB) or [www.youronlinechoices.eu](https://www.google.com/url?q=https://www.youronlinechoices.eu/&sa=D&source=editors&ust=1731861746442293&usg=AOvVaw3D4EuH0wipnM50OoUdbceu).
+Cookies are files which are downloaded to your device, for example, when you visit a website. They are useful because they allow us and our partners to recognise a user's device and support the continuity of your experience. You can find more information about cookies at: [www.allaboutcookies.org](https://www.google.com/url?q=http://www.allaboutcookies.org/&sa=D&source=editors&ust=1731883493074429&usg=AOvVaw3bn-35BfhRz00iLswbLqpS) or [www.youronlinechoices.eu](https://www.google.com/url?q=https://www.youronlinechoices.eu/&sa=D&source=editors&ust=1731883493074666&usg=AOvVaw3baxe_Zy4xbN-Zgp0R6JO6).
 
 2\. How do we use cookies?
 --------------------------
@@ -65,7 +65,7 @@ When we make material changes to this Policy, we'll provide you with prominent n
 6\. How to contact us
 ---------------------
 
-Thank you for reading our Cookie Policy. If you want to find out more about how Soundtrap uses your personal data, please see our [Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_world&sa=D&source=editors&ust=1731861746448223&usg=AOvVaw0_0JuykPAGBHcIBJFJW5hU). If you have any questions about this Cookie Policy or our Privacy Policy, please contact our Data Protection Officer by emailing
+Thank you for reading our Cookie Policy. If you want to find out more about how Soundtrap uses your personal data, please see our [Privacy Policy](https://www.google.com/url?q=https://www.soundtrap.com/legal/privacy_world&sa=D&source=editors&ust=1731883493079038&usg=AOvVaw3DkAfoNZZL1EMkcZPAPTsa). If you have any questions about this Cookie Policy or our Privacy Policy, please contact our Data Protection Officer by emailing
 
 privacy@soundtrap.com or writing to us at the following address:
 
