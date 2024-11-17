@@ -1,6 +1,6 @@
 [Skip to content](#content)
 
-[![](https://noblogs.ai-cdn.net/wp-content/uploads/2022/04/cropped-noblogs-logo-red-1.png)](https://noblogs.org/)
+[![](https://noblogs.org/wp-content/uploads/2022/04/cropped-noblogs-logo-red-1.png)](https://noblogs.org/)
 
 [](https://noblogs.org/)
 
@@ -23,7 +23,7 @@ Close Menu
 * [Help](https://www.autistici.org/get_help)
     
 
-[![](https://noblogs.ai-cdn.net/wp-content/uploads/2022/04/cropped-noblogs-logo-red-1.png)](https://noblogs.org/)
+[![](https://noblogs.org/wp-content/uploads/2022/04/cropped-noblogs-logo-red-1.png)](https://noblogs.org/)
 
 [](https://noblogs.org/)
 ========================
