@@ -205,24 +205,28 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Retro SWAT 2](https://www.somethingawful.com/fashion-swat/retro-swat-2/1/)
-* [HOTQA and Dmt123](https://www.somethingawful.com/weekend-web/hotqa-and-dmt123/1/)
-* [Halloween SWAT](https://www.somethingawful.com/fashion-swat/halloween-swat/1/)
-* [Comic Book Chaos II (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/comic-book-chaos-4/1/)
-* [A.P. Brown is the Guarantor of Absolute Satisfaction](https://www.somethingawful.com/news/brown-animals-married/1/)
+* [Anagrammed Movies 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/anagrammed-movies-part-2/1/)
+* [Amazing Astronaut Adventures](https://www.somethingawful.com/photoshop-phriday/amazing-astronaut-adventures/1/)
+* [Star Wars D20 Original Adventure: The Empire's Bogus Merch (Part 1 of 2)](https://www.somethingawful.com/dungeons-and-dragons/star-wars-hutt/1/)
+* [What Happened On The Final Prairie Home Companion, I Assume](https://www.somethingawful.com/news/prairie-home-finale/)
+* [NEW New Adventures for Curious George!](https://www.somethingawful.com/comedy-goldmine/new-curious-george/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [So can I make French toast with egg nog instead of going through the work](http://forums.somethingawful.com/showthread.php?threadid=4075520 "So can I make French toast with egg nog instead of going through the work")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Do you try to choose an appropriate "post icon" for your threads?](http://forums.somethingawful.com/showthread.php?threadid=4075485 "Do you try to choose an appropriate  "post icon" for your threads?")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [Making a thread on the something awful forums from my phone](http://forums.somethingawful.com/showthread.php?threadid=4075514 "Making a thread on the something awful forums from my phone")
+* ![](https://fi.somethingawful.com/forums/posticons/balls.gif) [you can post threats with awful app now](http://forums.somethingawful.com/showthread.php?threadid=4075522 "you can post threats with awful app now")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [let's post double dactyls (long op) (effortpost) (all skill levels welcome)](http://forums.somethingawful.com/showthread.php?threadid=4075500 "let's post double dactyls (long op) (effortpost) (all skill levels welcome)")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [The International United States Appreciation Thread](http://forums.somethingawful.com/showthread.php?threadid=4075517 "The International United States Appreciation Thread")
 
 ### Random Articles
 
-* [Danny DeVito is on the move!](https://www.somethingawful.com/photoshop-phriday/danny-devito-crawl/1/)
-* [John Madden's A Brief History of Time](https://www.somethingawful.com/news/john-maddens-brief/)
-* [Lawless; The Possession; V/H/S; Cosmopolis](https://www.somethingawful.com/current-movie-reviews/lawless-possession/1/)
-* [Are You Fucking Sirius?](https://www.somethingawful.com/news/you-fucking-sirius/)
-* [Darknest and I Hate My Miserable Life](https://www.somethingawful.com/weekend-web/darknest-miserable-life/1/)
+* [Ultimate Grudge Match: The Takers vs. The Makers](https://www.somethingawful.com/news/makers-romney-ryan/)
+* [Sly Bald Guys, A Haunting, and the Inflatable Furry Hub](https://www.somethingawful.com/weekend-web/bald-haunted-furries/1/)
+* [State Og Update: 01.31.04](https://www.somethingawful.com/state-og/state-og-update-57/)
+* [State Og Update: 08.21.04](https://www.somethingawful.com/state-og/state-og-update-81/)
+* [NASA New Horizons Pluto Mission Explores the Limits of the Word "Exciting"](https://www.somethingawful.com/news/nasa-pluto-boring/)
 
 [Random!](https://www.somethingawful.com/random/)
 
