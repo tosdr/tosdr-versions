@@ -31,6 +31,87 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Cómo será la etapa final de la Vuelta al Ecuador?
+==================================================
+
+La Vuelta al Ecuador 2024 llega a su etapa final, que llegará hasta la Mitad del Mundo, y se definen los ganadores del certamen de ciclismo.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Ciclistas de la Vuelta al Ecuador en la etapa seis de la edición 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-16-at-10.54.06-AM-scaled.jpeg)
+
+La **Vuelta al Ecuador** de ciclismo 2024 llega a su fin y espera por dirimir un ganador en cada una de las categorías. En su séptimo día, la competencia retornará a Quito y cerrará el recorrido global de 1087, 90 kilómetros.
+
+Este domingo 17 de noviembre del 2024 a partir de las 10:00 se llevará a cabo el último recorrido de la edición con un trayecto de **159,48 kilómetros**. Este se llevará a cabo entre Atuntaqui (Imbabura) y Quito (Pichincha), donde los ciclistas llegarán hacia la Mitad del Mundo.
+
+### Más noticias:
+
+* [Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder](https://www.elcomercio.com/deportes/ciclismo/richard-huera-ganador-etapa6-vuelta.html "Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder")
+* [¿Cómo será la etapa 6 de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/ciclismo/como-sera-la-etapa-6-de-la-vuelta-al-ecuador.html "¿Cómo será la etapa 6 de la Vuelta al Ecuador?")
+* [Brayan Obando busca devolverle una Vuelta al Ecuador al país](https://www.elcomercio.com/deportes/brayan-obando-lider-vuelta-ecuador.html "Brayan Obando busca devolverle una Vuelta al Ecuador al país")
+
+Dentro del recorrido, los ciclistas se encontrarán con un recorrido variable entre subidas y bajadas. A partir de ello, **las metas volantes y los puertos de montaña** establecidos tendrán alternancia durante el trazado.
+
+Las metas volantes tendrán sus puntos en los kilómetros **63,87; 74,3 y 118,5**. En el caso de los puertos de montaña, que serán tres de primera categoría, estos quedarán fijados en los kilómetros 35,62; 86,28 y 149, 9 de la competencia.
+
+Una Vuelta al Ecuador con ganadores casi definidos
+--------------------------------------------------
+
+La **sexta etapa**, penúltima del evento, fue determinante para el posicionamiento de los corredores dentro de la competencia ciclística. Aquella fue una etapa de montaña que contó con cuatro puertos, uno de segunda categoría, dos de primera y un HC.
+
+La exigencia de la etapa coadyuvó para que se marquen diferencias entre los participantes, tanto de la etapa como de la tabla general de la **Vuelta al Ecuador**. De tal manera, los líderes quedaron bien perfilados de cara a su última participación.
+
+El gran favorito para la última etapa y para llevarse el trofeo ciclístico es **Richard Huera** del Team Movistar Best PC. Este se hizo con el liderato de la tabla general y cuenta con más de un minuto de ventaja sobre **Óscar Sevilla** del Team Medellín, su inmediato perseguidor[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador)
+
+En el caso de las demás clasificaciones, **Joffre Imbaquingo** tiene comodidad como líder del equipo sub-23, así como **Esteban Villarreal** en las metas volantes. Dentro de la de montaña, Juan Carlos Córdova es el líder y recuperó el jersey de puntos rojos.
+
+La lluvia de meteoros Leónidas regalarán un espectáculo celestial inolvidable 
+==============================================================================
+
+La lluvia de meteoros Leónidas promete un espectáculo celestial del 17 al 18 de noviembre.
+------------------------------------------------------------------------------------------
+
+![Las Leónidas iluminan el cielo con meteoros veloces. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvia-de-meteoros-leonidas.jpg)
+
+La **lluvia de meteoros Leónidas** es un fenómeno astronómico interesante para los aficionados. Este evento ocurre anualmente entre el 6 y el 30 de noviembre, **cuando la Tierra atraviesa el rastro de partículas dejadas por el cometa 55P/Tempel-Tuttle**, descubierto en 1865. Este año, **el pico de actividad se espera durante la noche del 17 al 18 de noviembre**, lo que ofrecerá a los observadores la **oportunidad de ver entre 10 y 20 meteoros por hora bajo condiciones ideales**, según [National Geographic](https://www.ngenespanol.com/el-espacio/leonidas-2024-como-ver-el-momento-cumbre-de-la-proxima-lluvia-de-estrellas/ "https://www.ngenespanol.com/el-espacio/leonidas-2024-como-ver-el-momento-cumbre-de-la-proxima-lluvia-de-estrellas/"). 
+
+### Más noticias
+
+* [La Luna de Castor llega como la última superluna del año](https://www.elcomercio.com/tendencias/ciencia/luna-castor-fenomeno-astronomico.html "https://www.elcomercio.com/tendencias/ciencia/luna-castor-fenomeno-astronomico.html")
+* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html")
+
+**Origen de la lluvia de meteoros Leónidas** 
+---------------------------------------------
+
+**Las Leónidas son conocidas por su velocidad**. Los meteoros viajan a aproximadamente **71 kilómetros por segundo**, lo que los convierte en **uno de los grupos más rápidos**. Cuando estos fragmentos **entran en contacto con la atmósfera terrestre**, se calientan y **producen destellos luminosos**, conocidos como “estrellas fugaces” o meteoros. **El nombre “Leónidas” proviene de la constelación de Leo**, desde donde parecen originarse, siguiendo con la misma fuente.  
+
+A lo largo de la historia, **las Leónidas han sido famosas no solo por su belleza, sino también por las “tormentas de meteoros”** que han ocurrido en años pasados. Por ejemplo, **en 1833, se registraron hasta 100 000 meteoros por hora**, un evento que dejó una huella significativa en la historia astronómica, según [Cronista](https://www.cronista.com/espana/actualidad-es/lluvia-de-estrellas-leonidas-2024-cuando-como-y-a-que-hora-ver-el-ultimo-evento-astronomico-del-ano/ "https://www.cronista.com/espana/actualidad-es/lluvia-de-estrellas-leonidas-2024-cuando-como-y-a-que-hora-ver-el-ultimo-evento-astronomico-del-ano/"). 
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCW8sR4v_xN/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Observatorio Astronómico de Quito (@oaq\_ecuador)](https://www.instagram.com/p/DCW8sR4v_xN/?utm_source=ig_embed&utm_campaign=loading)
+
+**Cómo observar las Leónidas** 
+-------------------------------
+
+Para disfrutar al máximo de la **lluvia de meteoros Leónidas**, es fundamental elegir el lugar adecuado. Se recomienda: 
+
+* Buscar un lugar alejado de la contaminación lumínica. 
+
+* Elegir un área con buena visibilidad del horizonte. 
+
+* Llevar prismáticos o una cámara con ajustes manuales para capturar el fenómeno. 
+
+El mejor momento para observar es **durante las primeras horas antes del amanecer**, cuando el radiante está más alto en el cielo 
+
+Sin embargo, este año se presenta un desafío adicional: la luna llena, conocida como **Luna de Castor**, estará **casi completamente iluminada** durante el pico de las Leónidas. Esto podría dificultar la visibilidad de los meteoros más débiles, según [CNN](https://cnnespanol.cnn.com/2024/11/14/ultima-superluna-del-ano-alcanzara-punto-maximo-con-lluvia-meteoros-leonidas-trax "https://cnnespanol.cnn.com/2024/11/14/ultima-superluna-del-ano-alcanzara-punto-maximo-con-lluvia-meteoros-leonidas-trax").  
+
+**Recomendaciones para los observadores** 
+------------------------------------------
+
+**Los expertos sugieren observar hacia el este** y esperar a **que la luna esté fuera del campo visual** para maximizar las posibilidades de ver meteoros. La Sociedad Americana de Meteoros indica que **mirar hacia el centro del cielo** puede ser beneficioso, ya que muchos meteoros aparecerán en esa área, siguiendo con CNN. 
+
+Además, **se aconseja ser paciente y observar lo más tarde posible**, ya que es probable que se vean más Leónidas antes del amanecer que cerca de la medianoche. 
+
 Dos empresas textiles de Otavalo generan energía limpia con paneles solares
 ===========================================================================
 
@@ -119,35 +200,6 @@ Indutexma también desarrolla un proyecto de la mano de una empresa italiana par
 
 A esta iniciativa se suma la emisión de bonos de carbono, la estampación en tela que es menor contaminante y han sacado certificaciones como el de carbono neutral o para algodón orgánico. 
 
-Cartas a Quito / 17 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este domingo 17 de noviembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Seis hábitos que demuestran que una persona es inteligente 
------------------------------------------------------------
-
-Varios estudios en algunas universidades de Estados Unidos y en otros países y algunos estudiosos de la psicología humana han logrado determinar que podría considerarse una mayor inteligencia en ciertas personas, si se observa que cumplen con las siguientes condiciones: 
-
-1.Disfrutan estar solos.-  Las personas con un alto cociente intelectual disfrutan pasar tiempo solos. Además, también podrían sentirse incómodos en las aglomeraciones. Esto se advierte en los investigadores que pasan sumidos en sus estudios por tantas horas, alejados de las multitudes y a veces sin comer adecuadamente y peor aún dormir las horas necesarias. 
-
-2\. Les gusta hablar solos.- Esto podría estimular la memoria y mejorar la concentración. Quizás se creería cómo que tienen alguna propensión a la locura, pero no es así, los hombres geniales muchas veces descubrieron y lograron avances científicos, a veces durante el sueño, en horas de vigilia o quizás mientras caminaban solos. Se han caracterizado en ciertos casos por no haber tenido, una esposa o esposo según el caso e hijos, por ejemplo. 
-
-3\. Se critican con frecuencia.- Las personas incompetentes no reconocen su propia incompetencia y las personas inteligentes tienden a subestimar sus capacidades. Podría decirse que mientras más inteligentes, se han caracterizado por ser más humildes, sencillos y simples, sin advertir que están adornados de cualidades excepcionales. 
-
-4\. Suelen ser desodernados.- Se encuentra que el desorden puede promover el pensamiento creativo y estimular nuevas ideas, pero siempre también les gustará estar en un entorno limpio, lo que lleva a esas personas a hacer cosas buenas como no cometer delitos, no tirar basura y mostrar más generosidad. Es notorio en las personas sabias que se han caracterizado por ese desorden de lo material, como libros, apuntes o cosas a su alrededor, pero en cambio caracterizados por un absoluto orden en sus cerebros, al plantear sus teorías o los resultados de sus investigaciones. 
-
-5\. Disfrutan los retos.- A las personas con alta inteligencia les gusta aprender cosas nuevas y compartir ideas. Precisamente su característica será difundir sus estudios, sus escritos, todo aquello que ha producido su quehacer intelectual. 
-
-6\. suelen trasnochar.- Los adultos que son naturalmente más activos por la noche tienden a obtener mejores resultados en las pruebas cognitivas que aquellos que son personas mañaneras. Es característico en los estudiosos que muchas veces producen más en sus noches de vigilia, cuando encuentran más tranquilidad y posibilidades de concentración, sin el ruido del día por el tráfico, las personas y en general el ambiente de movimiento. 
-
-En que ubicación podríamos pensar que la generalidad de las personas se consideraría. Vale la pena reflexionar y pensar si se podría encajar en estos atributos o si solo son accesibles esos grandes genios que ha producido la humanidad. 
-
-Hernán Patricio Orcés 
-
 Turismo al Salón du Chocolat
 ============================
 
@@ -189,6 +241,35 @@ Lo dado, más allá de las simpatías o antipatías que pueda generar Abad, cons
 **Tres.- Conclusiones:**  Parecería que: **a.-** Las luces de la **racionalidad jurídica**, en el tema de Abad particularmente, se han apagado totalmente en Carondelet; y, como si fuera poco, un problema personal entre ambos **mandatarios**, por la falta de sensatez de estos, ha derivado en un **problema nacional** con **alcance internacional**, cuyos primeros coletazos quizás se sintieron en la **Cumbre Iberoamericana de Cuenca. b.-** Hasta que dicha resolución no sea revocada o declarada **inconstitucional**, se habría marcado un peligroso y **antidemocrático** antecedente, en el sentido de que, para deshacerse de un vicepresidente y, consecuentemente y por qué no de un presidente, bastaría para el efecto, un **sumario administrativo**. **c.-** La resolución del TCE, favorable a los **intereses de reelección del ejecutivo**, despierta y deja más dudas que certezas…
 
 La pregunta que salta sobre la **mesa de la opinión pública** es, lo dado, corresponde ¿al nuevo país o las **malas prácticas** del viejo país?
+
+Cartas a Quito / 17 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este domingo 17 de noviembre de 2024
+--------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Seis hábitos que demuestran que una persona es inteligente 
+-----------------------------------------------------------
+
+Varios estudios en algunas universidades de Estados Unidos y en otros países y algunos estudiosos de la psicología humana han logrado determinar que podría considerarse una mayor inteligencia en ciertas personas, si se observa que cumplen con las siguientes condiciones: 
+
+1.Disfrutan estar solos.-  Las personas con un alto cociente intelectual disfrutan pasar tiempo solos. Además, también podrían sentirse incómodos en las aglomeraciones. Esto se advierte en los investigadores que pasan sumidos en sus estudios por tantas horas, alejados de las multitudes y a veces sin comer adecuadamente y peor aún dormir las horas necesarias. 
+
+2\. Les gusta hablar solos.- Esto podría estimular la memoria y mejorar la concentración. Quizás se creería cómo que tienen alguna propensión a la locura, pero no es así, los hombres geniales muchas veces descubrieron y lograron avances científicos, a veces durante el sueño, en horas de vigilia o quizás mientras caminaban solos. Se han caracterizado en ciertos casos por no haber tenido, una esposa o esposo según el caso e hijos, por ejemplo. 
+
+3\. Se critican con frecuencia.- Las personas incompetentes no reconocen su propia incompetencia y las personas inteligentes tienden a subestimar sus capacidades. Podría decirse que mientras más inteligentes, se han caracterizado por ser más humildes, sencillos y simples, sin advertir que están adornados de cualidades excepcionales. 
+
+4\. Suelen ser desodernados.- Se encuentra que el desorden puede promover el pensamiento creativo y estimular nuevas ideas, pero siempre también les gustará estar en un entorno limpio, lo que lleva a esas personas a hacer cosas buenas como no cometer delitos, no tirar basura y mostrar más generosidad. Es notorio en las personas sabias que se han caracterizado por ese desorden de lo material, como libros, apuntes o cosas a su alrededor, pero en cambio caracterizados por un absoluto orden en sus cerebros, al plantear sus teorías o los resultados de sus investigaciones. 
+
+5\. Disfrutan los retos.- A las personas con alta inteligencia les gusta aprender cosas nuevas y compartir ideas. Precisamente su característica será difundir sus estudios, sus escritos, todo aquello que ha producido su quehacer intelectual. 
+
+6\. suelen trasnochar.- Los adultos que son naturalmente más activos por la noche tienden a obtener mejores resultados en las pruebas cognitivas que aquellos que son personas mañaneras. Es característico en los estudiosos que muchas veces producen más en sus noches de vigilia, cuando encuentran más tranquilidad y posibilidades de concentración, sin el ruido del día por el tráfico, las personas y en general el ambiente de movimiento. 
+
+En que ubicación podríamos pensar que la generalidad de las personas se consideraría. Vale la pena reflexionar y pensar si se podría encajar en estos atributos o si solo son accesibles esos grandes genios que ha producido la humanidad. 
+
+Hernán Patricio Orcés 
 
 Energía con generadores domésticos puede costar hasta 8 veces más
 =================================================================
@@ -923,48 +1004,6 @@ Para consultar el s**itio exacto, debe ingresar al sistema del organismo elector
 
 En el resultado de la búsqueda se indica el recinto, la dirección, el número de junta receptora del voto, parroquia, circunscripción y zona.
 
-Consumir agua en exceso puede ser peligroso para la salud, advierten expertos
-=============================================================================
-
-Un estudio alerta sobre los riesgos en la salud por exceso de agua. Estudios también señalan efectos adversos de refrescos dietéticos.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Tomar agua es bueno en la salud, pero no en exceso. ¿Qué dice la ciencia?](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-38.jpg)
-
-Tomar **agua** es uno de los consejos más repetidos en las redes para llevar una **vida saludable**. Pero, ¿qué pasa si se la consume en **exceso**? ¿Hay riesgos para la **salud** si no se toman precauciones?[](https://es.wikipedia.org/wiki/Agua "https://es.wikipedia.org/wiki/Agua")
-
-### Más noticias
-
-* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
-* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
-
-El balance entre agua y salud
------------------------------
-
-Un reciente video del **gastroenterólogo** Dr. Saurabh Sethi, especialista de la **Universidad de Harvard**, se ha hecho viral al advertir sobre los riesgos de consumir agua en exceso. Según el experto, esta práctica puede causar hiponatremia, un trastorno potencialmente mortal que afecta el equilibrio de sodio en el organismo.
-
-El Dr. Sethi explicó que esta condición ocurre cuando se **bebe una gran cantidad de agua** en poco tiempo, especialmente tras ejercicios intensos.
-
-“El exceso de agua diluye las sales esenciales del cuerpo, lo que puede generar **graves consecuencias**“, advirtió. Para evitar riesgos, el médico sugiere moderar la ingesta e incorporar **electrolitos** al agua si se realiza actividad física.
-
-> [@doctorsethimd](https://www.tiktok.com/@doctorsethimd?refer=embed "@doctorsethimd") Never Drink Too Much Water ❌ Doctor Sethi [#water](https://www.tiktok.com/tag/water?refer=embed "water") [#medical](https://www.tiktok.com/tag/medical?refer=embed "medical") [♬ original sound – Doctor Sethi ⚡️](https://www.tiktok.com/music/original-sound-7420090428559199006?refer=embed "♬ original sound - Doctor Sethi ⚡️")
-
-**Riesgos adicionales: los refrescos dietéticos**
--------------------------------------------------
-
-El gastroenterólogo también aprovechó para recordar los peligros de los **refrescos dietéticos**. Estudios recientes sugieren que estas bebidas podrían estar vinculadas con problemas cardíacos, accidentes cerebrovasculares y daño renal.
-
-Sethi destacó que el **fósforo presente en estas bebidas** podría alterar la función renal con el tiempo.
-
-**Recomendaciones para una hidratación saludable**
---------------------------------------------------
-
-La prestigiosa clínica Mayo Clinic respalda las afirmaciones de Sethi y proporciona pautas sobre la ingesta adecuada de líquidos: 3.7 litros diarios para hombres y 2.7 litros para mujeres, considerando todos los líquidos de la dieta.
-
-No obstante, advierte que ciertos grupos, como **atletas** o personas con condiciones médicas específicas, deben prestar atención a su consumo para evitar complicaciones como la **hiponatremia**.
-
-El equilibrio en la hidratación, más que la cantidad, es la clave para mantener una **buena salud**.
-
 ¿Cómo saber si soy Miembro de la Junta Receptora del Voto en las elecciones 2025?
 =================================================================================
 
@@ -1036,39 +1075,3 @@ El incumplimiento de esta obligación podría derivar en **sanciones administrat
 > — El Comercio (@elcomerciocom) [November 13, 2024](https://twitter.com/elcomerciocom/status/1856678738009661582?ref_src=twsrc%5Etfw)
 
 Con la **selección y capacitación de los miembros de mesa**, el CNE avanza en los preparativos para las **elecciones de 2025**.
-
-Se abre el camino para un debate entre candidatos a la vicepresidencia 2025
-===========================================================================
-
-El Consejo Nacional Electoral no organizó el debate vicepresidencial. Una universidad propone un evento que promoverá el voto informado y fortalecerá la democracia.
---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los candidatos a la vicepresidencia posiblemente tendrán un debate.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-43.jpg)
-
-La Universidad Internacional del Ecuador (UIDE) anunció que liderará la organización de un **debate** entre los candidatos a la **vicepresidencia**, programado para la segunda vuelta de las elecciones generales de 2025. Este evento busca brindar a la ciudadanía herramientas para un voto informado y consciente[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025")
-
-* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
-* [Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025](https://www.elcomercio.com/actualidad/politica/elecciones-2025-miembros-junta-receptora-voto.html "Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025")
-
-Un debate para los candidatos a la vicepresidencia
---------------------------------------------------
-
-La consejera del Consejo Nacional Electoral (CNE), Elena Nájera, propuso originalmente que el CNE organice un **debate** entre los aspirantes a la **vicepresidencia**. La propuesta tuvo el respaldo de nueve de los dieciséis candidatos, entre ellos representantes del corréismo, SUMA y CREO. Sin embargo, el organismo electoral decidió **no priorizar este acto**, lo que motivó a Nájera a buscar apoyo en el ámbito académico.
-
-En respuesta, la UIDE, mediante su decano de la Facultad de Jurisprudencia, Jorge Baeza, anunció este sábado 16 de noviembre de 2024, su disposición para **organizar el debate**. La institución destacó su compromiso con el fortalecimiento de la democracia y la creación de espacios de diálogo plural.
-
-El debate se plantea que realice una semana antes del debate presidencial oficial, con el objetivo de complementar el cronograma electoral. El debate entre los candidatos **presidenciales** está previsto que se realice el **19 de enero de 2025**.
-
-Sede del debate
----------------
-
-La UIDE pedirá que se le deje utilizar el auditorio Matilde Hidalgo de Procel, del CNE, y establecer alianzas con medios de comunicación para garantizar una amplia difusión. Según Baeza, el debate permitirá a los ecuatorianos conocer las propuestas, trayectorias y planes de los aspirantes, promoviendo un proceso electoral más transparente y participativo.
-
-Calendario electoral
---------------------
-
-Las elecciones presidenciales de Ecuador de 2025 están programadas para el **9 de febrero de 2025**, donde se elegirán al presidente y vicepresidente para el período 2025-2029. Simultáneamente, se llevarán a cabo **elecciones legislativas** para seleccionar a 151 asambleístas y representantes al Parlamento Andino. La **campaña electoral comenzará el 5 de enero** de 2025 y finalizará el 6 de febrero de 2025.
-
-Se espera que participen **16 binomios presidenciales**, aunque el número final podría variar debido a impugnaciones. Si ningún candidato obtiene más del **40% de los votos válidos** con una diferencia superior a 10 puntos porcentuales, se realizará una segunda vuelta el 13 de abril de 2025. La posesión del **nuevo presidente** está programada para el 24 de mayo de 2025.
-
-El Consejo Nacional Electoral (CNE) ha establecido un **calendario detallado** que incluye hitos importantes como la entrega del registro electoral y la capacitación de los miembros de las juntas receptoras del voto. Este **proceso electoral** es crucial, ya que se llevará a cabo en un contexto de desafíos económicos y sociales en el país.
