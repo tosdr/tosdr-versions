@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/leven-na-leven-na-leven-na-de-dood/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/5-000-chinese-elite-troepen-tegen-isis/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
