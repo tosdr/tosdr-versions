@@ -261,7 +261,7 @@ Sign Up!
 
  
 
-Last Name 
+Name 
 
 #### Contact Us
 
