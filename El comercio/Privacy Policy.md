@@ -31,6 +31,664 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Los cortes de luz serán así este domingo 17 de noviembre en Quito
+=================================================================
+
+Los cortes de luz programados empezaron el 23 de septiembre de 2024, debido a las críticas condiciones hidrológicas y climáticas del Ecuador.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz-quito-17112.jpg)
+
+El **Ministerio de Energía y Minas** informó que los **cortes de luz** en Quito serán de hasta 12 horas este domingo 17 de noviembre de 2024. Está previsto que la próxima semana se modifiquen los horarios de racionamientos eléctricos[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+### Más noticias
+
+* [Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador](https://www.elcomercio.com/opinion/editorial/cuatro-puntos-crisis-electricidad-ecuador.html "Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador")
+* [Colombia ya podrá vender energía a Ecuador](https://www.elcomercio.com/actualidad/ecuador/colombia-resolucion-energia-ecuador.html "Colombia ya podrá vender energía a Ecuador")
+* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
+
+Horarios de cortes de luz en Quito
+----------------------------------
+
+La Empresa Eléctrica Quito (EEQ) publicó los horarios de cortes de luz en la ciudad. Estos horarios contemplan hasta 12 horas de suspensión del servicio en la zona residencial. Y se mantienen casi iguales a los establecidos en los días anteriores. Los cronogramas contemplan también los racionamientos para el sector industrial.
+
+Nuevos cortes de luz en Quito para este domingo:
+
+De 00:00 a 06:00 y de 12:00 a 18:00
+-----------------------------------
+
+Miraflores  
+Río Coca  
+Conocoto  
+Tumbaco  
+Cumbayá
+
+De 00:00 a 06:00 y de 13:00 a 19:00
+-----------------------------------
+
+Luluncoto  
+Chilibulo  
+La Floresta  
+Cristianía  
+Eplicachima
+
+De 03:00 a 09:00 y de 15:00 a 21:00
+-----------------------------------
+
+La Carolina  
+Nueva Cumbayá  
+Tababela  
+Los Bancos  
+Pérez Guerrero  
+El Obraje (Machachi)
+
+De 08:00 a 14:00 y de 18:00 a 24:00
+-----------------------------------
+
+Chimbacalle  
+Belisario Quevedo  
+Gualo  
+Inga Bajo
+
+De 07:00 a 13:00 y de 18:00 a 24:00
+-----------------------------------
+
+Granda Centeno  
+Andalucía  
+Cotocollao
+
+De 04:00 a 10:00 y de 14:00 a 20:00
+-----------------------------------
+
+Iñaquito  
+Sangolquí
+
+De 05:00 a 11:00 y de 15:00 a 21:00
+-----------------------------------
+
+Barrionuevo  
+Santa Rosa  
+El Quinche
+
+De 06:00 a 12:00 y de 18:00 a 24:00
+-----------------------------------
+
+Olímpico  
+San Antonio  
+Alangasí  
+Eugenio Espejo
+
+Revise aquí los horarios de cortes para cada sector:
+----------------------------------------------------
+
+Los cortes de luz programados empezaron el **23 de septiembre de 2024**, debido a las críticas condiciones hidrológicas y climáticas en las zonas en las que se encuentran las principales hidroeléctricas del país.
+
+Jelena Noura Hadid y otros nombres ocultos de los famosos que debes conocer
+===========================================================================
+
+¿Prefieres sus nombres reales o los nombres artísticos de estas celebridades?
+-----------------------------------------------------------------------------
+
+![Gigi Hadid es una reconocida top model, cuyo verdadero nombre es Jelena Noura Hadid.](https://www.elcomercio.com/wp-content/uploads/2024/11/gigi-El-Comercio.jpg)
+
+El mundo del espectáculo está lleno de **nombres** que resuenan en nuestras mentes, pero ¿sabías que muchos de estos **famosos** no utilizan sus nombres reales?
+
+Desde actores hasta músicos, muchos optan por cambiar su nombre para adaptarse mejor a su carrera.
+
+### Más noticias
+
+* **[Reguetoneros ‘confiesan’ sus nombres reales](https://www.elcomercio.com/tendencias/cantantes-reggaeton-nombres-reales-musica.html "https://www.elcomercio.com/tendencias/cantantes-reggaeton-nombres-reales-musica.html")**
+* **[Lo que le faltó al Victoria’s Secret Fashion Show 2024](https://www.elcomercio.com/tendencias/victorias-secret-2024-angeles.html "https://www.elcomercio.com/tendencias/victorias-secret-2024-angeles.html")**
+
+Aquí te presentamos algunos de los casos más curiosos de celebridades que, por diversas razones, prefieren sus nombres artísticos.
+
+**Michael Keaton y su regreso al nombre original**
+--------------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/C-Dub0ZytZs/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Michael Keaton (@michaelkeatondouglas)](https://www.instagram.com/p/C-Dub0ZytZs/?utm_source=ig_embed&utm_campaign=loading)
+
+Michael Keaton, conocido por sus papeles icónicos como Batman y Beetlejuice, ha decidido regresar a su nombre de nacimiento: Michael Douglas.
+
+A pesar de su exitosa carrera, el actor se vio obligado a cambiar su nombre artístico debido a la coincidencia con otros famosos, como el actor de _Wall Street_ Michael Douglas.
+
+Sin embargo, Keaton planea usar una versión combinada: Michael Keaton Douglas, en su próxima película _Knox Goes Away_ .
+
+**Emma Stone, de Emily a Emma**
+-------------------------------
+
+La actriz de _Birdman_ y _La La Land_ , Emma Stone, también optó por un cambio en su nombre. Su nombre de nacimiento es Emily, y aunque comenzó su carrera con este nombre, decidió usar Emma para tener una presencia más distintiva en Hollywood.
+
+Emma ha explicado que varios de sus colegas también usan nombres diferentes al de su nacimiento.
+
+**Katy Perry y su nombre artístico**
+------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCU7zamxzYg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por KATY PERRY (@katyperry)](https://www.instagram.com/p/DCU7zamxzYg/?utm_source=ig_embed&utm_campaign=loading)
+
+La famosa cantante Katy Perry, nacida Katheryn Elizabeth Hudson, adoptó su nombre artístico inspirado en el apellido de soltera de su madre.
+
+Aunque Katy comenzó su carrera musical con su nombre real, pronto se dio cuenta de que Katy Perry resonaría más con su audiencia y ayudaría a su carrera en el pop.
+
+**Shania Twain, un nombre con historia**
+----------------------------------------
+
+La cantante canadiense Shania Twain, nacida Eilleen Regina Edwards, decidió cambiar su nombre para evitar que su nombre sonara como el de su abuela. Shania, que conoció a una persona con ese nombre, lo eligió porque le parecía más adecuado para su carrera.
+
+Fue este cambio el que la catapultó al estrellato como una de las artistas más influyentes del country y pop.
+
+**Gigi Hadid y su apodo escolar**
+---------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBM8H3tSWy8/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Gigi Hadid (@gigihadid)](https://www.instagram.com/reel/DBM8H3tSWy8/?utm_source=ig_embed&utm_campaign=loading)
+
+La supermodelo de Victoria’s Secret Gigi Hadid, cuyo nombre real es Jelena Noura Hadid, obtuvo su nombre artístico en la escuela primaria.
+
+Su maestra la confundía con una niña llamada Helena, pero como su madre la llamaba “Gigi”, ella decidió que ese sería su nombre artístico y desde entonces se quedó con él.
+
+Cada uno de estos nombres tiene una historia detrás, ya sea para diferenciarse en una industria llena de estrellas o para adoptar una identidad más accesible para el público. A veces, un nombre puede ser una clave para el éxito.
+
+**Post Malone, un apellido de origen familiar**
+-----------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DBzqhW0MYpE/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por @postmalone](https://www.instagram.com/reel/DBzqhW0MYpE/?utm_source=ig_embed&utm_campaign=loading)
+
+Austin Richard Post, más conocido por su nombre artístico _Post Malone_ , adoptó su nombre en honor a un exjugador de baloncesto, _Post Malone_ . Este apodo lo comenzó a usar cuando tenía solo 14 años y lo convirtió en su sello de identidad artística.
+
+**Cardi B y su cambio inspirado en la familia**
+-----------------------------------------------
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DBwLpnfOJRg/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Cardi B All Access (@cardiallaccess)](https://www.instagram.com/p/DBwLpnfOJRg/?utm_source=ig_embed&utm_campaign=loading)
+
+La cantante Cardi B, nacida como Belcalis Almanzar, adoptó su nombre artístico a partir del apodo Bacardí, que le daba su familia, inspirada en la marca de ron. Luego, lo acortó a Cardi B, un nombre que resonó rápidamente con sus fans y que la acompañó hasta el estrellato.
+
+**Meghan Markle, de Rachel a Meghan**
+-------------------------------------
+
+Antes de convertirse en la Duquesa de Sussex, Meghan Markle fue conocida brevemente como Rachel Markle, el nombre que usaba para su personaje en la serie _Suits_ . Aunque mantenía su nombre real en su vida personal, fue conocida por su nombre de nacimiento en el ámbito profesional hasta que cambió de rumbo.
+
+La calidad del aire es dañina en Cuenca y Loja por incendios forestales
+=======================================================================
+
+Los incendios en Loja y Azuay han complicado las actividades diarias de los ciudadanos.
+---------------------------------------------------------------------------------------
+
+![La calidad del aire en las provincias de Loja y Azuay fue catalogada de dañina.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-46.jpg)
+
+La calidad del aire es “dañina” en las ciudades de Cuenca y Loja, en el sur de Ecuador, por los incendios forestales que se han desatado en la región y que han generado grandes humaredas, según informaron este sábado 16 de noviembre de 2024 las autoridades locales[.](https://es.wikipedia.org/wiki/Loja_(Ecuador) "https://es.wikipedia.org/wiki/Loja_(Ecuador)")
+
+### Más noticias
+
+* [Loja y Azuay enfrentan 25 incendios forestales este sábado 16 de noviembre](https://www.elcomercio.com/actualidad/loja-enfrenta-incendios-forestales-este-sabado-16-de-noviembre.html "https://www.elcomercio.com/actualidad/loja-enfrenta-incendios-forestales-este-sabado-16-de-noviembre.html")
+* [Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/lluvias-napo-sucumbios-coca-codo.html "https://www.elcomercio.com/actualidad/ecuador/lluvias-napo-sucumbios-coca-codo.html")
+
+Los incendios en Loja y Azuay
+-----------------------------
+
+El **Municipio de Cuenca** declaró este sábado que la **calidad del aire** es considerada “**dañina**” en esa ciudad y recomendó a sus habitantes evitar la exposición al aire libre, especialmente a personas con alguna sensibilidad a la polución, los niños y los adultos mayores.
+
+El Municipio, en mensajes a través de las redes sociales, informó de que el aire en Cuenca la mañana de este sábado, cubierto por un manto espeso de humo, registraba un índice de **221 partículas** menores a 2,5 micras (PM 2,5), que horas más tarde bajó a 152, cuando se considera como “buena” de 0 a 50.
+
+La municipalidad aconsejó a los pobladores usar **mascarillas**, gafas de protección y evitar practicar deportes en exteriores.
+
+Emergencia en Cuenca
+--------------------
+
+Ante la emergencia por los incendios forestales en el **Parque Nacional Cajas,** el Comité de Operaciones de Emergencia (COE) Cantonal dispuso las siguientes resoluciones:
+
+* **1\.** Ratificación de **emergencia** declarada por el Municipio de Cuenca.
+* **2\.** Se solicitó al COE Nacional mantener los **tres helicópteros asignados en la zona** y gestionar el envío de más aeronaves.
+* **3\.** Capacitación y colaboración de **brigadistas**.
+* **4\.** El **aeropuerto de Cuenca** se mantiene operativo.
+* **5\.** Se activan los **Comités Parroquiales de Emergencia** en Chaucha, Molleturo, Baños, Sayausí y Cumbe.
+* **6.** **Patrullaje preventivo** de la Guardia Ciudadana, CTE, Policía Nacional y Fuerzas Armadas.
+* **7\.** Las **donaciones** de la ciudadanía deben canalizarse exclusivamente a través de **ETAPA** y Bomberos. Se solicita alimentos no perecibles y herramientas, no dinero en efectivo.
+* **8\.** Restricción de acceso al **Parque Nacional Cajas.**
+* **9.** Solo se permitirá el uso de **drones** por parte de organismos de respuesta, previa coordinación con el Cuerpo de Bomberos.
+* **10\.** Quedan **suspendidos los eventos públicos** para garantizar que las vías permanezcan expeditas y permitan una operación ágil durante la emergencia.
+
+Contaminación en Cuenca
+-----------------------
+
+Un fuerte **incendio**, que las autoridades sospechan que fue provocado por acción humana, ha consumido cientos de hectáreas de pajonales en la zona del **Parque Nacional El Cajas.**
+
+La situación de la **contaminación** del aire en Cuenca se dio al día siguiente de que concluyera en esa ciudad la Cumbre Iberoamericana, que congregó a 19 delegaciones internacionales, incluido el Rey Felipe VI de España.
+
+Loja tiene polución del aire
+----------------------------
+
+También en **Loja**, la capital de la provincia del mismo nombre y fronteriza con Perú, la Universidad Nacional de esa ciudad (UNL) informó de que la **calidad del aire la mañana de este sábado era “dañina** a la salud”, con un índice de entre 151 y 200 PM 2,5, producto de un gran incendio forestal en San Pedro de Vilcabamba, en la zona del Parque Nacional Podocarpus.
+
+De su lado, la Secretaría Nacional de Gestión de Riesgos (SNGR) indicó que continúan las acciones de respuesta frente a los incendios forestales en la zona sur andina del país, y precisó que el flagelo en San Pedro de Vilcabamba ha afectado unas 3.660 hectáreas
+
+Vuelos de helicópteros
+----------------------
+
+En la zona de los incendios forestales, varios helicópteros efectúan constantes descargas de agua para intentar aplacar las llamas y en apoyo a los bomberos que combaten el fuego desde tierra.
+
+La Prefectura de la provincia de Azuay, cuya capital es Cuenca, informó de que los gobiernos de Italia y Perú se han comprometido a apoyar las labores contra los incendios.
+
+Incendios forestales
+--------------------
+
+Ecuador, afectado por una severa sequía que se ha extendido desde mediados de año, ha soportado en este año una oleada de incendios forestales, muchos de los cuales podrían haber sido provocados deliberadamente por la mano del hombre, según han advertido las autoridades.
+
+El pasado 30 de septiembre, la Secretaría Nacional de Gestión de Riesgos informó de que desde comienzos de año hasta el día 27 de ese mes se habían registrado 3.496 incendios forestales en 22 de las 24 provincias del país, lo que había afectado unas 40.000 hectáreas de vegetación y generado pérdidas económicas a miles de familias.
+
+**_Con información de EFE_**
+
+Barcelona Sporting Club aplastó a El Nacional en amistoso
+=========================================================
+
+Barcelona Sporting Club recibió un trofeo de parte de la empresa organizadora del amistoso.
+-------------------------------------------------------------------------------------------
+
+![Djorkaeff Reasco celebra el único gol marcado con Barcelona SC en la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/copa_nacho_2.jpg)
+
+Aprovechando la pausa que la Liga Pro por las eliminatorias sudamericanas al Mundial 2026, **Barcelona Sporting Club y El Nacional** jugaron un partido amistoso la tarde de este sábado 16 de noviembre de 2024.
+
+El encuentro entre Barcelona SC y El Nacional se desarrolló en el **estadio Etho Vega de Santo Domingo de los Tsáchilas**, escenario que lució totalmente lleno con algo más de 10 000 hinchas, principalmente del equipo guayaquileño.
+
+### Más noticias:
+
+* [Djorkaeff Reasco, jugador de Barcelona SC, contrajo matrimonio](https://www.elcomercio.com/deportes/futbol/djorkaeff-reasco-jugador-de-barcelona-sc-contrajo-matrimonio.html "Djorkaeff Reasco, jugador de Barcelona SC, contrajo matrimonio")
+* [John Yeboah regresó a la titularidad con Ecuador, ¿cómo jugó?](https://www.elcomercio.com/deportes/futbol/john-yeboah-regreso-a-la-titularidad-con-ecuador.html "John Yeboah regresó a la titularidad con Ecuador, ¿cómo jugó?")
+* [Liga de Portoviejo, un rival experimentado para el Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-jugadores-experimentados-ascenso.html "Liga de Portoviejo, un rival experimentado para el Deportivo Quito")
+
+Barcelona desde que está dirigido por Segundo Alejandro Castillo se ha convertido en una máquina de anotar goles. El 6-0 ante los ‘militares’ así lo confirma y pone a sus seguidores a la expectativa de lo que puede suceder en el final de la Liga Pro.
+
+BSC aprovechó este encuentro para mantener el ritmo de competencia pensando en lo que se será el **cierre de la segunda etapa de la Liga Pro**. Ahí pelea por los primeros lugares y en la acumulada por ganar un cupo directo a la fase de grupos de la Copa Libertadores 2025.
+
+El Nacional tiene la mente puesta en lo que será la final de la Copa Ecuador ante Independiente del Valle del **miércoles 27 de noviembre en el estadio Rodrigo Paz Delgado,** propiedad de Liga de Quito.
+
+Los miles de hinchas vivieron una verdadera fiesta y salieron satisfecho por ver el funcionamiento de sus jugadores que son una versión totalmente opuesta a la que mostraron con el argentino Ariel Holan, cesado del cargo por una serie de malos resultados.
+
+![Foto: Instagram Barcelona SC.](https://www.elcomercio.com/wp-content/uploads/2024/11/copa_nacho_1-1024x683.jpg)
+
+Foto: Instagram Barcelona SC.
+
+Los goles de Barcelona SC
+-------------------------
+
+Los amarillos tuvieron varios jugadores con un alto rendimiento, pero el que más destacó fue el delantero Djorkaeff Reasco. **El formado en LDU anotó** el 1-0, el 3-0 y el 5-0, uno en el primer tiempo y dos en el segundo, con lo que cerró una semana en la que contrajo matrimonio.
+
+Adonis Preciado aprovecho un lanzamiento penal, cometido a él mismo, para **poner el momentáneo 2-0 en el marcador**, ante la incredulidad del portero David Cabezas, capitán y referente de los ‘Puros criollos’.
+
+El argentino **Braian Oyola demostró que está recuperando su mejor versión** y anotó el 4-0 con un remate cruzado con su pierna izquierda.
+
+El 6-0 fue obra de **Andrés Viteri, joven jugador de 18 años** que anotó su primer gol con el equipo profesional.
+
+Los canarios se llevaron el trofeo que entregó la empresa dueña de los derechos de televisión de la Liga Pro.
+
+Alineación de Barcelona SC:
+---------------------------
+
+Víctor Mendoza; Bryan Carabalí, Álex Rangel, Yosimar Nazareno y Dylan Luque; **Dixon Arroyo, Fernando Gaibor, Jandry Gómez** y Adonis Preciado; Braian Oyola y Djorkaeff Reasco.
+
+DT: Segundo Alejandro Castillo
+
+Alineación de El Nacional:
+--------------------------
+
+David Cabezas; Daniel Patiño, Moisés Corozo, José Flor y Mario Pineida; Luis Arce, Charles Vélez, Jorge Ordóñez y **Fidel Martínez; Gabriel Cortez y Alejandro Cabeza**.
+
+DT: Marcelo Zuleta
+
+San viernes
+-----------
+
+Solca retoma de atención a pacientes del IESS en Cuenca
+=======================================================
+
+El IESS salda deuda de 2016 con Solca de Cuenca y anuncia la reactivación de atención oncológica para afiliados.
+----------------------------------------------------------------------------------------------------------------
+
+![El IESS y Solca firmarán para un acuerdo para garantizar los pagos a tiempo.](https://www.elcomercio.com/wp-content/uploads/2024/11/solca.jpg)
+
+El Instituto Ecuatoriano de Seguridad Social (**IESS**) informó que cumplió con el acuerdo de pagos de la deuda que mantenía desde 2016 con la Sociedad de Lucha Contra el Cáncer del Ecuador (**Solca**), núcleo **Cuenca**. Esto permitirá que los pacientes oncológicos del Seguro Social vuelvan a ser atendidos en esa casa de salud[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios de la nueva ley](https://www.elcomercio.com/actualidad/ecuador/cuidados-paliativos-ecuador-ley-beneficios-realidad.html "Esta es la realidad de los cuidados paliativos en Ecuador y los beneficios que se buscan con la aprobación de una ley")
+* [Día Internacional de la Lucha contra el Cáncer de Mama llega con historias alentadoras](https://www.elcomercio.com/actualidad/dia-internacional-lucha-contra-cancer-mama-historias.html "Día Internacional de la Lucha contra el Cáncer de Mama llega con historias alentadoras")
+* [Donación de órganos se aborda en feria en Quito, ¿cómo es el proceso en Ecuador?](https://www.elcomercio.com/actualidad/ecuador/donacion-organos-feria-quito-proceso-ecuador.html "Donación de órganos se aborda en feria en Quito, ¿cómo es el proceso en Ecuador?")
+
+La deuda ascendía a cerca de 6 millones de dólares y ya ha sido pagada prácticamente en su totalidad, señaló **Raúl Alvarado**, director de **Solca Cuenca**, en declaraciones para el Diario El Mercurio. Un nuevo desembolso, de cerca de un millón de dólares, se realizará en diciembre de este año.
+
+“Con esos antecedentes, acordamos recibir nuevamente a los pacientes del Seguro Social. Esta recepción de los pacientes que transfiere el IESS para Solca podrá hacerse desde la próxima semana”, agregó Alvarado.
+
+Está previsto que la atención de los pacientes con cáncer en Solca Cuenca se retome el **lunes 25 de noviembre de 2024**. La atención de los pacientes oncológicos del IESS se había suspendido desde octubre de 2022, en esta casa de salud.
+
+Asimismo, Alvarado señaló que se firmará un **acuerdo con el IESS** para que el retraso en los pagos no se vuelvan a repetir y así garantizar la atención a los pacientes derivados del Seguro Social.
+
+Por su parte, el presidente del Consejo Directivo del IESS, **Eduardo Peña**, destacó la importancia de honrar las obligaciones pendientes con los prestadores externos. “Trabajamos en conjunto en beneficio de los afiliados, pensionistas y asegurados de la seguridad social”, señaló a través de un comunicado.
+
+> [#IESSteInforma](https://twitter.com/hashtag/IESSteInforma?src=hash&ref_src=twsrc%5Etfw)📢 | Cumplimos con los compromisos de pago con [@SolcaCuenca](https://twitter.com/SolcaCuenca?ref_src=twsrc%5Etfw) para reanudar la atención de pacientes del [@IESSec](https://twitter.com/IESSec?ref_src=twsrc%5Etfw) ⬇️ [pic.twitter.com/EYS8qi1zoC](https://t.co/EYS8qi1zoC)
+> 
+> — IESS (@IESSec) [November 13, 2024](https://twitter.com/IESSec/status/1856830138501018102?ref_src=twsrc%5Etfw)
+
+Sebastián Beccacece planteará un Ecuador intenso ante Colombia
+==============================================================
+
+Sebastián Beccacece dirigirá sus sexto partido como entrenador de la Selección de Ecuador.
+------------------------------------------------------------------------------------------
+
+![El entrenador de Ecuador, Sebastián Beccacece, celebra un gol ante Bolivia este jueves, durante un partido de las eliminatorias sudamericanas al Mundial de Fútbol 2026, en el estadio Monumental, en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/becca_dt_1.jpg)
+
+El seleccionador de Ecuador, el argentino Sebastián Beccacece, aseveró este sábado 16 de noviembre de 2024, que sus **jugadores saldrán el próximo martes 19 “a competir de igual a igual”** en el partido ante Colombia, de la duodécima fecha de las eliminatorias del Mundial 2026.
+
+“Será un lindo desafío, una linda oportunidad, **pero haciéndolo con mucha entereza y estando muy bien preparados** para el momento en que nos toque sufrir, pero también tener la convicción de que vamos a competir de igual a igual”, dijo el técnico en una rueda de prensa.
+
+### Más noticias:
+
+* [Paul Pogba y la Juventus terminaron su relación laboral](https://www.elcomercio.com/deportes/futbol/paul-pogba-juventus-italia-francia.html "Paul Pogba y la Juventus terminaron su relación laboral")
+* [Mike Tyson explicó la razón de morder sin parar su guante](https://www.elcomercio.com/deportes/boxeo/mike-tyson-muerde-guamtes-paul.html "Mike Tyson explicó la razón de morder sin parar su guante")
+* [Uruguay venció a Colombia con gol de un ex Liga de Quito](https://www.elcomercio.com/deportes/uruguay-vencio-colombia-eliminatorias-liga-de-quito.html "Uruguay venció a Colombia con gol de un ex Liga de Quito")
+
+Beccacece reconoció que Colombia tiene un poder en ataque muy bien marcado, con delanteros de mucho riesgo, con laterales que se proyectan bien, centrales fuertes y técnicos, con muy buen juego aéreo, con un medio campo donde, por historia, cuenta con muy buenos jugadores.
+
+“Con todo ese condimento, también confío plenamente en la pasión y la **intensidad de funcionamiento que hoy puede llegar a tener a Ecuador** en esa búsqueda para empezar a posicionarse en lugares de privilegio que ocupan Argentina, Brasil y Colombia”, expresó.
+
+El protagonismo se puede alcanzar solo con trabajo y la “**buena conexión con los jugadores, que para mí es lo más lindo**. Siendo muy intenso y exigente, pero también muy cercano, por lo que tenemos ese equilibrio entre la disciplina y la libertad”, apostilló.
+
+Beccacece tiene un deseo adelantado
+-----------------------------------
+
+Beccacece aseguró que también hay un camino de acercamiento entre los jugadores con los fanáticos en una “conexión muy linda”. “**Y percibo la madurez que van alcanzando los jugadores** a pesar de que la mayoría son muy jóvenes, pero que van marcando un proceso”, agregó.
+
+Insistió en que ante Colombia “se espera competir y afrontar el desafío complejo y adverso, por la jerarquía del rival que está en un gran momento. Por todo eso, **es un poco ambicioso nuestro plan**, pero es una linda oportunidad y una linda prueba para Ecuador”.
+
+Beccacece dijo que está convencido de que habrá mucha tensión en el partido, por lo que “habrá que estar muy alerta, estar muy finos y precisos, para lo que habrá que prepararse para ser muy constantes y continuos, con un gran estado de alerta, porque este desafío no es para cualquiera”.
+
+“**Sería muy hermoso terminar el año con una victoria en Colombia**. Son desafíos para Ecuador. ¿Por qué no llevar al partido todo lo que cada jugador ha aprendido a lo largo de su historia, en procura de sacar un gran resultado?”, se preguntó.
+
+Aceptó que Colombia, al jugar en su casa, sentirá “el fervor del colombiano”, pero recalcó en su creencia de que los ecuatorianos “están férreamente unidos”. “Creo que estamos en el camino correcto, confiando en nuestro trabajo”, apuntó.
+
+Ecuador, **que ocupa el quinto puesto de la tabla de posiciones con 16 puntos**, recuperará para el partido contra Colombia al centrocampista Moisés Caicedo, pero serán bajas Ángelo Preciado y Leonardo Campana, por lesiones.
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/becca_dt_2-1024x683.jpg)
+
+San viernes
+-----------
+
+Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder
+===========================================================================
+
+La Vuelta al Ecuador abandonó Pichincha y llegó a la provincia de Imbabura.
+---------------------------------------------------------------------------
+
+![Podio de la sexta etapa de la Vuelta Ciclística al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/vuelta_huera_2.jpg)
+
+La **Vuelta al Ecuador** está a punto de dirimir a un ciclista campeón dentro de la edición 2024. En su penúltima etapa, la carrera se desarrolló en su mayoría en un terreno de ascenso y trajo consigo una intensa batalla entre los escaladores.
+
+La sexta fase de la competencia ciclística **se desarrolló entre Machachi (Pichincha) y Cotacachi (Imbabura)**. El punto de partida fue el parque central de la localidad de Mejía y la llegada fue en la Laguna de Cuicocha.
+
+###  Más noticias:
+
+* [(Video) Cristiano Ronaldo anotó un golazo de chilena con Portugal](https://www.elcomercio.com/deportes/futbol/cristiano-ronaldo-anoto-un-golazo-de-chilena-con-portugal.html "(Video) Cristiano Ronaldo anotó un golazo de chilena con Portugal")
+* [Liga de Portoviejo, un rival experimentado para el Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-jugadores-experimentados-ascenso.html "Liga de Portoviejo, un rival experimentado para el Deportivo Quito")
+* [Gonzalo Plata, agradecido de volver a marcar con Ecuador](https://www.elcomercio.com/deportes/gonzalo-plata-agradecido-de-volver-a-marcar-seleccion-ecuador.html "Gonzalo Plata, agradecido de volver a marcar con Ecuador")
+
+En total, el recorrido **conectó un tramo de 174 kilómetros entre la largada y el arribo**. Asimismo, presentó un cambio dentro del trayecto debido a la procesión de la Virgen del Quinche que se lleva a cabo en Pichincha.
+
+El cambio en la ruta motivó a que **también se realicen cambios en la categoría que se estableció** para ciertos puertos de montaña. A raíz de la desviación, los dos primeros puntos establecidos -de cuatro en total- ascendieron a su categoría inmediatamente superior.
+
+A diferencia de las fases previas, la sexta contó con el doble de puertos de montaña con relación a metas volantes. De estás últimas solo se fijaron dos y fueron establecidas en la primera mitad de la carrera, antes de que lleguen los espacios de escalada.
+
+De cara a la etapa, **Brayan Obando llegó como líder en la tabla general** y Esteban Villarreal lo hizo como el mejor de las metas volantes. La chapa de mejor juvenil la llevaba Joffre Imbaquingo y la de mejor escalador, Javier Jamaica.
+
+Una férrea disputa por el liderato de montaña y ‘pinchazo’ de los líderes
+-------------------------------------------------------------------------
+
+Las primeras metas volantes se establecieron para los kilómetros 18 y 70,7 de la trayectoria. Allí, la **primera fue liderada por Cristian Pita del Team Banco Guayaquil**; en la segunda, sin embargo, Jhonatan Pasquel del Orígenes Coffee le ganó la pulsada.
+
+El primer puerto de montaña, que en un inicio era de primera categoría, ascendió a segunda. En él, los tres primeros fueron Brayan Sánchez del Team Medellín, el mencionado Pasquel, y Juan Carlos Córdova del CYS Technology, quien obtuvo el jersey de puntos rojos en la tercera etapa y lo perdió en la quinta.
+
+En consecuencia con la elevación previa de categoría, el siguiente puerto de montaña pasó de segunda a primera.
+
+Allí Córdova encabezó el pasó y, transitoriamente se volvió a poner como líder de montaña. A él le siguió **Javier Jamaica del Team Medellín** -quien partió como el máximo escalador al inicio de la etapa- y Bryan Rosero del Cinecable COAC San Gabriel.
+
+Brayan Obando y Joffre Imbaquingo presentaron inconvenientes a la altura del segundo puerto. Pese a ello, el líder de la tabla general y de la juvenil consiguieron igualarse con el pelotón general.
+
+Para el tercer puerto de montaña, que se mantuvo en primera categoría, **Córdova encabezó la carrera y dejó a Jamaica rezagado**. Los escoltas del ecuatoriano fueron Pasquel y Segundo Navarrete del Giant Toscana.
+
+El último puerto de montaña, que **finalizó con la meta de la carrera fue encabezado por Richard Huera** del Movistar Team. A él le siguió Córdova, que quedó fijo en el punto máximo de la montaña.
+
+¿Cómo queda la tabla general de la Vuelta al Ecuador?
+-----------------------------------------------------
+
+Brayan Obando cedió su liderato a su compañero Huera, **quien al inicio de la etapa se encontraba en el tercer puesto**. A su vez, Córdova recuperó el jersey de puntos rojos.
+
+Esteban Villarreal se mantuvo como líder de las metas volantes.
+
+San viernes
+-----------
+
+Al menos siete muertos y 30 heridos en choque en Ventanas
+=========================================================
+
+Un choque dejó siete muertos en la carretera que Ventanas con Quevedo, en Los Ríos.
+-----------------------------------------------------------------------------------
+
+![Un siniestro de tránsito dejó siete heridos en Los Ríos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-44.jpg)
+
+Al menos **siete personas murieron** y otras 30 resultaron heridas en un choque registrado en la provincia costera de Los Ríos, en el sureste de Ecuador, cuando un autobús de pasajeros se volcó en la carretera entre las ciudades de Quevedo y Ventanas[.](https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito "https://es.wikipedia.org/wiki/Accidente_de_tr%C3%A1nsito")
+
+### Más noticias
+
+* [Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito](https://www.elcomercio.com/deportes/futbol/marco-angulo-futbolistas-fallecidos-siniestros.html "Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito")
+* [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html "Que la prevención de los siniestros de tránsito no se detenga en Quito")
+
+Choque en Ventanas deja víctimas fatales
+----------------------------------------
+
+El Servicio Integrado de Seguridad ECU-911 informó de que el accidente se registró en el sector conocido como **El Lechugal**, cuando un autobús perdió pista y se **volcó**, dejando a personas heridas y atrapadas, según una llamada inicial de alerta generada la madrugada de este sábado 16 de noviembre de 2024.
+
+El ECU-911 coordinó la respuesta con unidades del **Ministerio de Salud Pública,** los cuerpos de bomberos de la zona y la Policía, entidades que se han trasladado al lugar con **ambulancias** y equipos de rescate.
+
+Los agentes de tránsito confirmaron en el sitio que el accidente del autobús había dejado **siete personas fallecidas** y 30 heridas, entre las que se encontraban varios menores de edad y adultos.
+
+La situación de los siniestros de tránsito en Ecuador
+-----------------------------------------------------
+
+En 2024, Ecuador enfrenta una grave crisis de siniestros de tránsito, con **848 muertes registradas** hasta mayo, lo que representa un incremento alarmante en comparación con años anteriores.
+
+En 2023, el país reportó **2,373 fallecidos** por accidentes de tráfico, lo que indica un aumento del 7,76% respecto a 2022. La Agencia Nacional de Tránsito (ANT) destaca que el **40% de las muertes** son motociclistas, siendo esta la cifra más alta entre los tipos de vehículos involucrados en siniestros.
+
+Durante el primer trimestre de 2024, se registraron **4,868 siniestros,** aunque esto representa una disminución del 2.46% en comparación con el mismo periodo del año anterior.
+
+Las causas más comunes de accidentes incluyen **imprudencia del conductor** (39.30%), exceso de velocidad (28.4%) y violaciones a las señales de **tránsito**.
+
+Las provincias más afectadas son **Guayas y Pichincha**, donde se concentra el mayor número de víctimas. A pesar de que el 77.33% de los motociclistas afirman usar casco correctamente, un 15.31% no lo hace, lo que contribuye a la alta tasa de mortalidad en este grupo.
+
+_**Con información de EFE**_
+
+Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14
+=================================================================
+
+Barcelona Sporting Club es tercero en la tabla de posiciones de la segunda etapa de la Liga Pro.
+------------------------------------------------------------------------------------------------
+
+![Eduard Bello, jugador venezolano de Barcelona Sporting Club.](https://www.elcomercio.com/wp-content/uploads/2024/11/unificado_bsc_1.jpg)
+
+Barcelona Sporting Club será uno de los **protagonistas de la fecha 14 de la segunda etapa de la Liga Pro**, que promete ser una de las más emocionantes y disputadas de la temporada 2024.
+
+La fecha tomó más importancia una vez que la Comisión Disciplinaria de la **Federación Ecuatoriana de Fútbol (FEF)**, decidió sancionar a Liga de Quito con la merma de tres puntos por no cumplir con acuerdos de pago con dos de sus exjugadores.
+
+### Más noticias:
+
+* [(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay](https://www.elcomercio.com/deportes/futbol/lionel-messi-recibio-un-botellazo-y-se-enfurecio-en-paraguay.html "(Video) Lionel Messi recibió un botellazo y se enfureció en Paraguay")
+* [Deportivo Quito anuncia intentos de fraude con entradas para partido con Liga (P)](https://www.elcomercio.com/deportes/futbol/deportivo-quito-liga-portoviejo-entradas-fraude.html "Deportivo Quito anuncia intentos de fraude con entradas para partido con Liga (P)")
+* [EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/partidos-seleccion-ecuador-en-vivo-whatsapp-eliminatorias.html "EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp")
+
+La sanción en contra de Liga de Quito se hizo pública la mañana de este sábado 16 de noviembre, **aunque los universitarios anunciaron en un comunicado oficial que apelarán** la sanción de la FEF, por lo que no dieron por hecho que perderán los puntos.
+
+Ahora la tabla de posiciones tiene a **Independiente del Valle y Liga** en primer y segundo lugar, respectivamente, con 26 puntos y un gol diferencia positivo de +12 para cada escuadra, a falta de tan solo dos fechas para cerrar el calendario.
+
+Barcelona SC marcha en tercer lugar con 23 puntos y un gol diferencia positivo de +9. Su campaña se **resume en siete victorias, dos empates y cuatro derrotas**, por lo que matemáticamente aún tiene opciones de pelear por el primer lugar.
+
+En un panorama parecido se encuentran **Universidad Católica y Orense, que también tiene 23 puntos** y  
+sus chances para disputar el primer lugar se reactivaron con el error administrativo de LDU.
+
+Cambios en la fecha 14
+----------------------
+
+El jueves 14 de noviembre la Liga Pro anunció una serie de cambios a los horarios de la fecha 14.
+
+El partido de **Aucas y Delfín ya no se jugará el sábado 23**, sino que fue trasladado para el domingo 24, mientras que el Técnico Universitario vs. Barcelona SC abandonó el domingo y fue movido al sábado.
+
+Todos los partidos de la jornada de sábado arrancarán a las 15:30 y está en juego esclarecer el panorama de los equipos del descenso, en donde se encuentran involucrados **Libertad de Loja, Imbabura y Cumbayá**.
+
+Pese a que el balón rodará a la misma hora en los cuatro estadios, la Liga Pro hizo la aclaración que el juego del Bellavista no está catalogado dentro de los horarios unificados.
+
+Para el domingo se mantiene en **horario unificado los duelos que involucran a IDV y LDU**, los dos líderes de esta segunda etapa.
+
+![Jugadores de Cumbayá en el estadio Monumental en la Liga Pro.](https://www.elcomercio.com/wp-content/uploads/2024/11/unificado_bsc_2-1024x683.jpg)
+
+Jugadores de Cumbayá en el estadio Monumental en la Liga Pro.
+
+Segunda etapa – fecha 14
+------------------------
+
+### Sábado 23/11
+
+**15:30 Deportivo Cuenca vs. Libertad  
+**Estadio: Alejandro Serrano Aguilar
+
+**15:30 Emelec vs. Imbabura  
+**Estadio: George Capwell
+
+**15:30 Cumbayá vs. Orense  
+**Estadio: Olímpico Atahualpa
+
+**15:30 Técnico Universitario vs. Barcelona SC  
+**Estadio: Bellavista
+
+### Domingo 24/11
+
+**10:30 Mushuc Runa vs. El Nacional  
+**Estadio: La Cocha
+
+**13:00 Aucas vs. Delfín  
+**Estadio: Gonzalo Pozo Ripalda
+
+**15:30 Universidad Católica vs. Liga de Quito  
+**Estadio: Olímpico Atahualpa
+
+**15:30 Independiente del Valle vs. Macará  
+**Estadio: IDV
+
+San viernes
+-----------
+
+Fechas clave en el calendario electoral para los comicios de 2025
+=================================================================
+
+Elecciones 2025, primera vuelta el 9 de febrero; campaña, debates y simulacros marcan el camino a las urnas.
+------------------------------------------------------------------------------------------------------------
+
+![Jornada de votación en el referéndum y consulta popular 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-27-1.jpg)
+
+El periodo electoral para las **elecciones generales de 2025** inició el **9 de febrero de 2024**, marcando el comienzo de las actividades organizativas. En esta fase, el **Consejo Nacional Electoral (CNE)** aprobó el **calendario electoral**, incluidas las directrices operativas y presupuestarias esenciales para garantizar la transparencia y efectividad del proceso.
+
+### Más noticias
+
+* [Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025](https://www.elcomercio.com/actualidad/politica/elecciones-2025-miembros-junta-receptora-voto.html "Esto se sabe de los miembros de la Junta Receptora del Voto de las elecciones 2025")
+* [Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?](https://www.elcomercio.com/actualidad/elecciones-2025-violencia-politica-normativas.html "Elecciones 2025 ponen bajo la lupa la violencia política, ¿hay normativas?")
+* [Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?](https://www.elcomercio.com/elecciones/ecuador-nuevo-canton-elecciones-2025.html "Ecuador tendrá nuevo cantón, ¿qué pasa con las elecciones 2025?")
+
+Posteriormente, en **junio de 2024**, se publicó el registro electoral definitivo, tras un proceso de actualización y verificación de datos. Durante este periodo, las **organizaciones políticas también presentaron sus observaciones al registro**, mientras que la ciudadanía tuvo oportunidad de realizar reclamos administrativos sobre su inclusión en el padrón.
+
+Otro hito relevante fue la convocatoria oficial a elecciones, realizada el **11 de septiembre de 2024**. Esto habilitó formalmente el inicio de la inscripción de candidaturas, un paso clave para definir las opciones en las urnas.
+
+Elecciones generales 2025, fecha y desarrollo
+---------------------------------------------
+
+La primera vuelta de las elecciones generales se llevará a cabo el domingo, **9 de febrero de 2025**. En esta jornada, los ecuatorianos elegirán **Presidente y Vicepresidente de la República**, **miembros de la Asamblea Nacional y representantes al Parlamento Andino**.
+
+De no obtenerse un resultado definitivo en la **elección presidencial**, se prevé una segunda vuelta el 13 de abril de 2025.
+
+Previo a la votación, se planificaron **simulacros técnicos y pruebas del sistema electoral** en enero de 2025, además del debate presidencial el **19 de ese mes**. La campaña electoral finalizará el **6 de febrero de 2025**, seguido por un periodo de **silencio electoral** para garantizar un ambiente reflexivo antes del sufragio.
+
+> 📽️🗳️ | Este 14, 15 y 16 de noviembre, desarrollamos el taller de Formación Electoral dirigido a funcionarios de las 24 Delegaciones Provinciales, quienes capacitarán a los [#MJRV](https://twitter.com/hashtag/MJRV?src=hash&ref_src=twsrc%5Etfw)👥 para las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).🇪🇨  
+>   
+> No te pierdas los detalles. ⬇️ [pic.twitter.com/OQXYRzIWV9](https://t.co/OQXYRzIWV9)
+> 
+> — cnegobec (@cnegobec) [November 15, 2024](https://twitter.com/cnegobec/status/1857512588743159835?ref_src=twsrc%5Etfw)
+
+La votación para grupos específicos, como personas privadas de libertad y el programa **Voto en Casa**, se realizará los días **6 y 7 de febrero de 2025**, respectivamente. Estas iniciativas refuerzan la inclusión y el **acceso equitativo al voto**.
+
+Lo que sigue después del 9 de febrero
+-------------------------------------
+
+Tras la primera vuelta, el CNE desarrollará el escrutinio de los votos en sesiones públicas que se extenderán hasta el **19 de febrero de 2025**. Durante este tiempo, se recibirán y resolverán posibles objeciones e impugnaciones relacionadas con los resultados numéricos.
+
+En caso de una segunda vuelta, el proceso se repetirá en **abril de 2025**. Posteriormente, la proclamación de resultados oficiales para todas las dignidades se realizará entre **abril y mayo**. Las nuevas autoridades asumirán sus cargos e**l 24 de mayo de 2025**, fecha en la que también será posesionado el binomio presidencial electo.
+
+¿Dónde votar en las elecciones 2025?
+------------------------------------
+
+Para saber el lugar de votación solo se requiere el **número de cédula** y la fecha de nacimiento. No es necesario acudir a las **delegaciones del CNE**.
+
+Los ciudadanos, a la par, pueden realizar el cambio de domicilio electoral, a través de página del CNE y en las delegaciones provinciales de la institución. Se requiere la **cédula y el registro de un comprobante de servicio básico**.
+
+Para las personas que se encuentran en el exterior, el trámite se realiza en los **consulados de Ecuador**. Se debe tener a la mano la cédula de identidad, **pasaporte o ID consular**.
+
+Para consultar el s**itio exacto, debe ingresar al sistema del organismo electoral en un [link específico](https://lugarvotacion.cne.gob.ec/ "https://lugarvotacion.cne.gob.ec/")**. A la par, está disponible la **CNE App, tanto para IOS o Android**.
+
+En el resultado de la búsqueda se indica el recinto, la dirección, el número de junta receptora del voto, parroquia, circunscripción y zona.
+
+Consumir agua en exceso puede ser peligroso para la salud, advierten expertos
+=============================================================================
+
+Un estudio alerta sobre los riesgos en la salud por exceso de agua. Estudios también señalan efectos adversos de refrescos dietéticos.
+--------------------------------------------------------------------------------------------------------------------------------------
+
+![Tomar agua es bueno en la salud, pero no en exceso. ¿Qué dice la ciencia?](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-38.jpg)
+
+Tomar **agua** es uno de los consejos más repetidos en las redes para llevar una **vida saludable**. Pero, ¿qué pasa si se la consume en **exceso**? ¿Hay riesgos para la **salud** si no se toman precauciones?[](https://es.wikipedia.org/wiki/Agua "https://es.wikipedia.org/wiki/Agua")
+
+### Más noticias
+
+* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+
+El balance entre agua y salud
+-----------------------------
+
+Un reciente video del **gastroenterólogo** Dr. Saurabh Sethi, especialista de la **Universidad de Harvard**, se ha hecho viral al advertir sobre los riesgos de consumir agua en exceso. Según el experto, esta práctica puede causar hiponatremia, un trastorno potencialmente mortal que afecta el equilibrio de sodio en el organismo.
+
+El Dr. Sethi explicó que esta condición ocurre cuando se **bebe una gran cantidad de agua** en poco tiempo, especialmente tras ejercicios intensos.
+
+“El exceso de agua diluye las sales esenciales del cuerpo, lo que puede generar **graves consecuencias**“, advirtió. Para evitar riesgos, el médico sugiere moderar la ingesta e incorporar **electrolitos** al agua si se realiza actividad física.
+
+> [@doctorsethimd](https://www.tiktok.com/@doctorsethimd?refer=embed "@doctorsethimd") Never Drink Too Much Water ❌ Doctor Sethi [#water](https://www.tiktok.com/tag/water?refer=embed "water") [#medical](https://www.tiktok.com/tag/medical?refer=embed "medical") [♬ original sound – Doctor Sethi ⚡️](https://www.tiktok.com/music/original-sound-7420090428559199006?refer=embed "♬ original sound - Doctor Sethi ⚡️")
+
+**Riesgos adicionales: los refrescos dietéticos**
+-------------------------------------------------
+
+El gastroenterólogo también aprovechó para recordar los peligros de los **refrescos dietéticos**. Estudios recientes sugieren que estas bebidas podrían estar vinculadas con problemas cardíacos, accidentes cerebrovasculares y daño renal.
+
+Sethi destacó que el **fósforo presente en estas bebidas** podría alterar la función renal con el tiempo.
+
+**Recomendaciones para una hidratación saludable**
+--------------------------------------------------
+
+La prestigiosa clínica Mayo Clinic respalda las afirmaciones de Sethi y proporciona pautas sobre la ingesta adecuada de líquidos: 3.7 litros diarios para hombres y 2.7 litros para mujeres, considerando todos los líquidos de la dieta.
+
+No obstante, advierte que ciertos grupos, como **atletas** o personas con condiciones médicas específicas, deben prestar atención a su consumo para evitar complicaciones como la **hiponatremia**.
+
+El equilibrio en la hidratación, más que la cantidad, es la clave para mantener una **buena salud**.
+
 ¿Cómo saber si soy Miembro de la Junta Receptora del Voto en las elecciones 2025?
 =================================================================================
 
@@ -102,48 +760,6 @@ El incumplimiento de esta obligación podría derivar en **sanciones administrat
 > — El Comercio (@elcomerciocom) [November 13, 2024](https://twitter.com/elcomerciocom/status/1856678738009661582?ref_src=twsrc%5Etfw)
 
 Con la **selección y capacitación de los miembros de mesa**, el CNE avanza en los preparativos para las **elecciones de 2025**.
-
-Consumir agua en exceso puede ser peligroso para la salud, advierten expertos
-=============================================================================
-
-Un estudio alerta sobre los riesgos en la salud por exceso de agua. Estudios también señalan efectos adversos de refrescos dietéticos.
---------------------------------------------------------------------------------------------------------------------------------------
-
-![Tomar agua es bueno en la salud, pero no en exceso. ¿Qué dice la ciencia?](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-38.jpg)
-
-Tomar **agua** es uno de los consejos más repetidos en las redes para llevar una **vida saludable**. Pero, ¿qué pasa si se la consume en **exceso**? ¿Hay riesgos para la **salud** si no se toman precauciones?[](https://es.wikipedia.org/wiki/Agua "https://es.wikipedia.org/wiki/Agua")
-
-### Más noticias
-
-* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
-* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
-
-El balance entre agua y salud
------------------------------
-
-Un reciente video del **gastroenterólogo** Dr. Saurabh Sethi, especialista de la **Universidad de Harvard**, se ha hecho viral al advertir sobre los riesgos de consumir agua en exceso. Según el experto, esta práctica puede causar hiponatremia, un trastorno potencialmente mortal que afecta el equilibrio de sodio en el organismo.
-
-El Dr. Sethi explicó que esta condición ocurre cuando se **bebe una gran cantidad de agua** en poco tiempo, especialmente tras ejercicios intensos.
-
-“El exceso de agua diluye las sales esenciales del cuerpo, lo que puede generar **graves consecuencias**“, advirtió. Para evitar riesgos, el médico sugiere moderar la ingesta e incorporar **electrolitos** al agua si se realiza actividad física.
-
-> [@doctorsethimd](https://www.tiktok.com/@doctorsethimd?refer=embed "@doctorsethimd") Never Drink Too Much Water ❌ Doctor Sethi [#water](https://www.tiktok.com/tag/water?refer=embed "water") [#medical](https://www.tiktok.com/tag/medical?refer=embed "medical") [♬ original sound – Doctor Sethi ⚡️](https://www.tiktok.com/music/original-sound-7420090428559199006?refer=embed "♬ original sound - Doctor Sethi ⚡️")
-
-**Riesgos adicionales: los refrescos dietéticos**
--------------------------------------------------
-
-El gastroenterólogo también aprovechó para recordar los peligros de los **refrescos dietéticos**. Estudios recientes sugieren que estas bebidas podrían estar vinculadas con problemas cardíacos, accidentes cerebrovasculares y daño renal.
-
-Sethi destacó que el **fósforo presente en estas bebidas** podría alterar la función renal con el tiempo.
-
-**Recomendaciones para una hidratación saludable**
---------------------------------------------------
-
-La prestigiosa clínica Mayo Clinic respalda las afirmaciones de Sethi y proporciona pautas sobre la ingesta adecuada de líquidos: 3.7 litros diarios para hombres y 2.7 litros para mujeres, considerando todos los líquidos de la dieta.
-
-No obstante, advierte que ciertos grupos, como **atletas** o personas con condiciones médicas específicas, deben prestar atención a su consumo para evitar complicaciones como la **hiponatremia**.
-
-El equilibrio en la hidratación, más que la cantidad, es la clave para mantener una **buena salud**.
 
 Se abre el camino para un debate entre candidatos a la vicepresidencia 2025
 ===========================================================================
@@ -423,8 +1039,8 @@ Asimismo, Pérez Anton resaltó la colaboración conseguida con gobiernos estata
 
 La iniciativa **‘Creo MX’,** del CCMX, el Consejo Coordinador Empresarial (CEE) y el Consejo Mexicano de Negocios (CMN) se presentó en el I**nstituto Politécnico Nacional (IPN)** en la capital mexicana. 
 
-Loja enfrenta incendios forestales este sábado 16 de noviembre
-==============================================================
+Loja y Azuay enfrentan 25 incendios forestales este sábado 16 de noviembre
+==========================================================================
 
 Los incendios forestales en Loja continúan afectando la región.
 ---------------------------------------------------------------
@@ -476,6 +1092,12 @@ Las autoridades continúan trabajando para **sofocar las llamas**, mientras los 
 > 📢 | COMUNICADO INTERINSTITUCIONAL [pic.twitter.com/dqXAIhhDCq](https://t.co/dqXAIhhDCq)
 > 
 > — Gobernación de Loja (@GoberLoja) [November 16, 2024](https://twitter.com/GoberLoja/status/1857751940815356371?ref_src=twsrc%5Etfw)
+
+Mientras tanto, el Gobierno **agradeció a Perú** la colaboración y la asistencia brindadas para combatir el fuego en territorio ecuatoriano.
+
+> Comunicado oficial [pic.twitter.com/BqdVru5udC](https://t.co/BqdVru5udC)
+> 
+> — Cancillería del Ecuador 🇪🇨 (@CancilleriaEc) [November 16, 2024](https://twitter.com/CancilleriaEc/status/1857835822482882656?ref_src=twsrc%5Etfw)
 
 Liga de Quito pierde tres puntos por una sanción
 ================================================
@@ -575,441 +1197,3 @@ La última visita de Ecuador a **Barranquilla se selló con un sufrido empate 0-
 
 San viernes
 -----------
-
-Cortes de luz en Cuenca para este sábado 16 de noviembre
-========================================================
-
-La crisis energética por la sequía impacta a Cuenca con cortes de luz programados.
-----------------------------------------------------------------------------------
-
-![Cuenca enfrenta cortes de luz de hasta 12 horas debido a la sequía que afecta la generación hidroeléctrica. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz--1.jpg)
-
-  
-Cuenca se enfrenta este sábado 16 de noviembre de 2024 a **cortes de luz de hasta 12 horas**, según el cronograma publicado por el Ministerio de Energía y Minas. Esta medida, que también afecta a otras ciudades del país, responde a la **crisis energética** ocasionada por la sequía en las zonas de **generación hidroeléctrica.**
-
-### Más noticias
-
-* [Cortes de luz en Guayaquil para este sábado 16 de noviembre](https://www.elcomercio.com/actualidad/cortes-de-luz-en-guayaquil-para-este-sabado-16-de-noviembre.html)
-* [Vecinos de Quito frenan la construcción del intercambiador de la Occidental](https://www.elcomercio.com/actualidad/quito/vecinos-quito-frenan-intercambiador-occidental.html)
-* [Colombia ya podrá vender energía a Ecuador](https://www.elcomercio.com/actualidad/ecuador/colombia-resolucion-energia-ecuador.html)
-
-  
-El **complejo hidroeléctrico** del río Paute, ubicado en el sur del país, ha visto reducir su capacidad de producción debido a la **falta de caudal**. Este sistema, que abastece gran parte del consumo **eléctrico nacional**, opera con tres centrales generadoras, ahora limitada por las **condiciones climáticas adversas**.
-
-  
-Cortes de luz para este sábado 16 de noviembre
--------------------------------------------------
-
-La empresa distribuidora **Centrosur** informó los horarios específicos de **cortes de luz para Cuenca** este sábado. Las interrupciones afectarán tanto a zonas residenciales como industriales, dividiéndose en bloques de tres o cuatro horas. Este esquema busca garantizar la distribución equitativa de la **electricidad durante el día**.
-
-El Ministerio de Energía destacó que las nueve **empresas distribuidoras de energía eléctrica** del país trabajan en la planificación de los horarios para minimizar los impactos en las actividades diarias de los ciudadanos.
-
-  
-Para conocer los horarios detallados de los **cortes de luz en Cuenca**, se recomienda revisar los cronogramas publicados por Centrosur en sus canales oficiales.
-
-[Cortes AZUAY-CAÑAR-MORONA SANTIAGO – Sábado 16](https://www.elcomercio.com/wp-content/uploads/2024/11/Cortes-AZUAY-CANAR-MORONA-SANTIAGO-Sabado-16.pdf)[Descarga](https://www.elcomercio.com/wp-content/uploads/2024/11/Cortes-AZUAY-CANAR-MORONA-SANTIAGO-Sabado-16.pdf)
-
-  
-Dependencia hídrica y su efecto en la ciudad
------------------------------------------------
-
-  
-Cuenca, conocida por sus ríos y su infraestructura, **sufre las consecuencias de la sequía**. En muchos sectores, los cauces de agua han dado paso a **paisajes áridos** que reflejan la gravedad de l**a crisis climática**. Este fenómeno ha afectado no solo a la generación eléctrica, sino también a las actividades cotidianas y el **consumo de agua potable**.
-
-Madre de Jake Paul amenazó a Mike Tyson por abofetear a su hijo
-===============================================================
-
-Jake Paul no tuvo dificultades para vencer a Myke Tyson, una leyenda viviente del boxeo.
-----------------------------------------------------------------------------------------
-
-![Jake Paul (i) se enfrentó a Myke Tyson en el AT&T Stadium en la ciudad de Arlington, Arizona.](https://www.elcomercio.com/wp-content/uploads/2024/11/amenaza_1.jpg)
-
-Pam Stepnick, madre del influencer Jake Paul, le lanzó una advertencia a Mike Tyson, leyenda de los pesos pesados, **por abofetear a su hijo antes del combate que Paul y Tyson** sostuvieron el viernes 15 de noviembre de 2024 en el AT&T Stadium de Arlington, Texas.
-
-“Voy a matar a Mike Tyson por ti. Maldito pequeño cab…”, dijo una furiosa Stepnick mientras se aferraba a los brazos de su hijo, luego del incidente.
-
-### Más noticias:
-
-* [Mike Tyson explicó la razón de morder sin parar su guante](https://www.elcomercio.com/deportes/boxeo/mike-tyson-muerde-guamtes-paul.html "Mike Tyson explicó la razón de morder sin parar su guante")
-* [Mike Tyson y Jake Paul calientan la pelea de Netflix](https://www.elcomercio.com/deportes/boxeo/mike-tyson-jake-paul-pelea-netflix-cachetada.html "Mike Tyson y Jake Paul calientan la pelea de Netflix")
-* [Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson](https://www.elcomercio.com/tendencias/trending/netflix-transmisiones-vivo-paul-tyson.html "Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson ")
-
-‘Iron’ Tyson le dio una **bofetada a Paul durante la ceremonia de pesaje previa** al combate en el que se medirá el ex campeón de los pesados de 58 años al popular creador de contenido en las redes sociales.
-
-La imagen de Pam abrazando a su hijo de 27 años se hizo viral luego de ser compartida a través del Instagram de Jake Paul.
-
-“**Tú golpeas más fuerte que él**“, le contestó Paul a su progenitora para darle ánimo ante su frustración.
-
-El combate fue ganado por Paul. Las tarjetas de los jueces lo favorecieron por 79-73, 79-73 y 80-72.
-
-Paul se burló de Tyson
-----------------------
-
-El youtubero Jake Paul afirmó que la cachetada recibida por Mike Tyson durante la ceremonia de pesaje no la sintió, **y en tono de burla minimizó la capacidad de ‘Iron’**, con quien se enfrentará el viernes en una pelea de exhibición.
-
-“Ni sentí el golpe. **El tipo está enojado y ahora esto se volvió un asunto personal**“, dijo Paul con aparente enojo tras el mediático incidente.
-
-La agresión de Mike Tyson al rival 31 años más joven encendió el ambiente de un pleito que tuvo a uno de los más grandes púgiles de la historia, **retirado hace casi 20 años como profesional**, y el irreverente hombre de las redes, con 10 triunfos, siete antes del límite, y una derrota.
-
-El combate desató críticas, **pero estuvo rodeado de expectativas por el morbo de ver regresar a Tyson** ante un joven provocador, también practicante de artes marciales mixtas.
-
-En el pesaje, Paul advirtió que noqueará a Tyson, algo que finalmente no sucedió, y este respondió estar tranquilo porque su rival, de 27 años, estaba metido en problemas.
-
-El combate se hizo esperar
---------------------------
-
-El combate recibió una amplia promoción desde hace varios meses y fue transmitido a través de Netflix, **plataforma de video bajo demanda con más de 280 millones** de suscriptores a nivel mundial que el año pasado generó casi 34 000 millones de dólares en ingresos.
-
-La contienda tuvo un retraso de cinco meses debido a un problema de salud que presentó el legendario monarca de los pesos pesados durante un vuelo.
-
-Tyson, considerado uno de los mejores en la historia del boxeo, tuvo su último combate profesional en 2005 y tiene una marca de 50 triunfos, 44 de ellos por la vía rápida, y seis derrotas.
-
-Paul, de 27 años**, que tiene un registro de 10-1 con siete nocauts**, inició su carrera en el pugilismo en el 2018, luego de explotar su popularidad en las redes sociales.
-
-Como boxeador enfrentó a rivales como Michael Perry, Andre August, Anderson Silva, entre otros.
-
-San viernes
------------
-
-Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador
-============================================================
-
-Bayron Guamá disputa la Vuelta al Ecuador 2024 como líder de su equipo el Movistar Best PC y cuenta una alta resposabilidad.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Bayron Guamá con la camiseta al ciclista combativo en la Vuelta al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/1731729490797-1.jpg)
-
-En 2004, cuando aún era un ciclista juvenil, Bayron Guamá se coronaba campeón de su primera Vuelta a Ecuador. 20 años después, el deportista ha ganado cuatro ediciones del torneo, se mantiene en la competencia como líder de equipo y aún se ilusiona con el quinto título.
-
-A sus 39 años, Guamá es la cabeza del Movistar Best PC, equipo que corre la Vuelta al Ecuador solamente con ciclistas ecuatorianos. Ya como una **leyenda** de la competencia, este tiene entre sus principales motivaciones a su familia, a quien agradece y ha tenido un papel vital en su carrera.
-
-### Más noticias:
-
-* [Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024](https://www.elcomercio.com/deportes/ciclismo/robinson-chalapud-bicampeon-vuelta-al-ecuador-gana-primera-etapa.html "Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024")
-* [Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/juan-carlos-cordova-vuelta-ecuador-2024.html "Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador")
-* [¿Cómo será la etapa 5 de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/vuelta-ecuador-etapa-5-recorrido.html "¿Cómo será la etapa 5 de la Vuelta al Ecuador?")
-
-“La motivación es la familia. Creo que es por quien seguimos pedaleando, disfrutando del ciclismo. Estoy sie**mpre agradecido con mi esposa y mis dos hijos: Danielita y Matías, que son un pilar fundamental para mí.** Creo que por ellos hago lo posible por siempre dar lo mejor en cada competencia y en especial en esta vuelta”, le relata a EL COMERCIO mientras se desempeña en el certamen ciclístico[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador)
-
-Aunque el deseo y la aspiración es acrecentar su legado y terminar en lo más alto con una **nueva estrella**, sabe que el equipo está primero. A su vez, cuenta con mayores responsabilidades por su rol en la escuadra y en el fin común.
-
-La responsabilidad de Bayron Guamá como líder de equipo
--------------------------------------------------------
-
-Guamá sabe de la importancia de su posición dentro del Movistar Best PC y lo que aquello conlleva. Debe **guiar a sus compañeros** tanto a nivel de carrera como fuera de ella, sobre todo los más jóvenes y si a su equipo le va bien, también es ganancia.
-
-“Ga**nar con cualquiera de ellos sería muy importante para mí**“, sostiene y manifiesta que mientras el elenco se mantenga en pelea, se intentará todo desde los seis corredores que lo conforma. A su vez, cuenta que dentro del grupo existen tres con posibilidades para ganar y sumarán esfuerzos en función de quién más posibilidades tenga.
-
-“Somos tres compañeros de equipo que estamos la posibilidad de ganar entre todos los corredores de la vuelta. Vamos a trabajar en conjunto y aportar al que mejor esté”, agrega **Bayron Guamá**.
-
-Bayron Guamá y las chances de Brayan Obando en la Vuelta a Ecuador
-------------------------------------------------------------------
-
-Dentro de la **Vuelta a Ecuador 2024**, a la que le restan dos etapas para su finalización, Brayan Obando también del Movistar Team es quien lidera la clasificación general. El objetivo está en impulsarlo y potenciar su rendimiento en el cierre de la carrera.
-
-A partir de ello, Guamá buscará también finalizar en puestos estelares. A su vez, tampoco descarta las posibilidades de **lanzarse al ataque** y buscar la Vuelta si es que se da el caso y hay un contexto favorable.
-
-Cortes de luz en Guayaquil para este sábado 16 de noviembre
-===========================================================
-
-Guayaquil enfrenta cortes de luz de hasta 12 horas diarias debido a la crisis energética causada por condiciones climáticas.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Cortes de luz en Guayaquil generan quejas por horarios y altos costos de planillas. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-.jpg)
-
-  
-La **crisis energética** continúa afectando a los ecuatorianos con cortes de luz programados de hasta **12 horas diarias**. El Ministerio de Energía y Minas estableció el cronograma de **cortes de luz** para este fin de semana. Las medidas responden a las **condiciones hidrológicas** adversas que afectan las operaciones en las principales **hidroeléctricas del país**.
-
-### Más noticias
-
-* [Cortes de luz en Quito para este sábado 16 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-sabado-16-de-noviembre.html)
-* [Colombia ya podrá vender energía a Ecuador](https://www.elcomercio.com/actualidad/ecuador/colombia-resolucion-energia-ecuador.html)
-* [Lluvias en Napo y Sucumbíos benefician a Coca Codo Sinclair](https://www.elcomercio.com/actualidad/ecuador/lluvias-napo-sucumbios-coca-codo.html)
-
-  
-Quejas por los cronogramas y los costos
-------------------------------------------
-
-Los guayaquileños han expresado su **inconformidad** ante la falta de cumplimiento de los horarios en algunos sectores y el impacto que tienen estas interrupciones en su vida diaria. Además, muchos usuarios reportan que las **facturas eléctricas** muestran valores más altos que en meses anteriores, a pesar de un menor consumo debido a los cortes.
-
-Esta situación genera incertidumbre, especialmente para los negocios locales que dependen del **suministro eléctrico** para mantener sus operaciones. Las quejas también se han extendido a las redes sociales, donde ciudadanos han pedido mayor claridad en la **comunicación de las empresas distribuidoras** de energía.
-
-  
-Horarios y programación para este sábado
--------------------------------------------
-
-Los **cortes de luz** programados en **Guayaquil** este fin de semana afectarán tanto a zonas residenciales como industriales. **CNEL**, la empresa responsable de la distribución eléctrica en la ciudad, informó que las interrupciones seguirán distribuidas en franjas **de tres o cuatro horas**. Los horarios permiten a los ciudadanos planificar sus actividades con antelación.
-
-Para conocer los cronogramas específicos de los barrios y sectores afectados, se debe consultar directamente los canales oficiales de las empresas distribuidoras o el portal del **Ministerio de Energía y Minas.**
-
-[CNEL GUAYAQUIL 15 AL 17 NOV](https://www.elcomercio.com/wp-content/uploads/2024/11/CNEL-GUAYAQUIL-15-AL-17-NOV.pdf)[Descarga](https://www.elcomercio.com/wp-content/uploads/2024/11/CNEL-GUAYAQUIL-15-AL-17-NOV.pdf)
-
-El Día Internacional del Patrimonio Mundial es un tributo a nuestra historia y cultura
-======================================================================================
-
-Cada 16 de noviembre, el mundo celebra el Día Internacional del Patrimonio Mundial, una fecha que conmemora la importancia de preservar los sitios, monumentos y tradiciones que forman parte de nuestro patrimonio cultural y natural. Esta jornada, instituida por la UNESCO en 1972, busca sensibilizar sobre la necesidad de proteger y valorar los legados históricos \[…\]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![A partir del 6 de diciembre de 1985, la ciudad de Petra está inscrita en la Lista de Patrimonio Mundial de la UNESCO.](https://www.elcomercio.com/wp-content/uploads/2024/11/petra-El-Comercio.jpg)
-
-Cada 16 de noviembre, el mundo celebra el **Día Internacional del Patrimonio Mundial,** una fecha que conmemora la importancia de preservar los sitios, monumentos y tradiciones que forman parte de nuestro patrimonio cultural y natural.
-
-Esta jornada, instituida por la **[UNESCO](https://www.unesco.org/es "https://www.unesco.org/es")** en 1972, busca sensibilizar sobre la necesidad de proteger y valorar los legados históricos y culturales que nos conectan con el pasado y nos dan identidad.
-
-### Más noticias
-
-* **[Día Mundial de la Diabetes, conciencia y prevención a nivel global](https://www.elcomercio.com/tendencias/salud/dia-mundial-diabetes-efemeride-salud.html "https://www.elcomercio.com/tendencias/salud/dia-mundial-diabetes-efemeride-salud.html")** 
-* **[Celebremos el Día del Pasillo Ecuatoriano con estos grandes artistas](https://www.elcomercio.com/tendencias/musica/dia-pasillo-ecuatoriano-musica-efemeride.html "https://www.elcomercio.com/tendencias/musica/dia-pasillo-ecuatoriano-musica-efemeride.html")** 
-
-El Día Internacional del Patrimonio Mundial destaca los más de 1 100 sitios que han sido incluidos en la lista de Patrimonio Mundial, entre los que se encuentran maravillas naturales, como el [Gran Cañón](https://es.wikipedia.org/wiki/Gran_Ca%C3%B1%C3%B3n "https://es.wikipedia.org/wiki/Gran_Ca%C3%B1%C3%B3n") en Estados Unidos, y monumentos históricos, como la **[ciudad de Petra](https://es.wikipedia.org/wiki/Petra "https://es.wikipedia.org/wiki/Petra")** en Jordania.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/gran-canon-El-Comercio-1024x683.jpg)
-
-El Gran Cañón en Estados Unidos fue declarado Patrimonio de la Humanidad en 1979 por la Unesco.
-
-Estos lugares no solo representan la riqueza de las civilizaciones pasadas, sino que también son fuentes de conocimiento para las generaciones futuras.
-
-En muchos países, este día se celebra con actividades educativas, visitas guiadas, exposiciones y conciertos, con el fin de acercar a la ciudadanía a la historia y el valor de estos lugares.
-
-La **[ONU](https://www.un.org/es/ "https://www.un.org/es/")** hace un llamado a la cooperación internacional para garantizar la conservación de estos sitios y sensibilizar sobre su impacto positivo en las comunidades locales, promoviendo el turismo sostenible y la economía.
-
-**El** **Patrimonio vivo**
---------------------------
-
-El Patrimonio Mundial no solo abarca monumentos y sitios arqueológicos, sino también bienes inmateriales, como la música tradicional, las danzas y las lenguas. En Ecuador, por ejemplo, la [m**úsica de marimba y bailes tradicionales**](https://www.elcomercio.com/tendencias/marimba-esmeraldas-historia-unesco-patrimonioinmaterial.html "https://www.elcomercio.com/tendencias/marimba-esmeraldas-historia-unesco-patrimonioinmaterial.html") que llegan desde Esmeraldas, reflejan el alma afroecuatoriana y su historia, por lo que son parte del patrimonio intagible nacional.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/marimba-El-Comercio-1024x683.jpg)
-
-En 2015, la marimba y las géneros musicales tanto religiosos fueron elegidos como [Patrimonio Cultural Inmaterial de la Unesco](https://es.wikipedia.org/wiki/Patrimonio_cultural). Foto: Archivo/ EL COMERCIO
-
-Este enfoque integral invita a reflexionar sobre la diversidad cultural y la importancia de preservar tanto lo tangible como lo intangible. En esta fecha, se invita a todos a reconocer y valorar el patrimonio mundial como un recurso compartido que trasciende fronteras y generaciones, recordando que su conservación es responsabilidad de todos.
-
-Mike Tyson explicó la razón de morder sin parar su guante
-=========================================================
-
-Mike Tyson se volvió a subir a un ring de boxeo luego de 19 años. La última vez fue en 2005.
---------------------------------------------------------------------------------------------
-
-![Mike Tyson (i) en el combate con Jake Paul en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/tyson_3.jpg)
-
-Jake Paul, ‘influencer’ de las redes sociales, superó la noche del viernes 15 de noviembre de 2024 por **decisión unánime a Mike Tyson**, considerado uno de los mejores boxeadores de la historia, en el AT&T Stadium en Arlington, Texas.
-
-La pelea, que tuvo un carácter de oficial, **aunque no sancionada por ninguna de las organizaciones** del boxeo alrededor del mundo, fue pactada a ocho asaltos de dos minutos cada uno.
-
-### Más noticias:
-
-* [Mike Tyson y Jake Paul calientan la pelea de Netflix](https://www.elcomercio.com/deportes/boxeo/mike-tyson-jake-paul-pelea-netflix-cachetada.html "Mike Tyson y Jake Paul calientan la pelea de Netflix")
-* [Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson](https://www.elcomercio.com/tendencias/trending/netflix-transmisiones-vivo-paul-tyson.html "Netflix va con todo en las transmisiones en vivo y apuesta por la pelea Paul vs. Tyson ")
-* [Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?](https://www.elcomercio.com/deportes/boxeo/mike-tyson-boxeo-salud-riesgo-jake-paul.html "Mike Tyson regresa al boxeo a los 58 años. ¿Un riesgo para su salud?")
-
-Las tarjetas de los jueces favorecieron a Paul por 79-73, 79-73 y 80-72.
-
-Tyson, de 58 años, acusó desde el inicio de la contienda el paso de los años, a pesar de que se quitó un derechazo de su oponente con movimiento de cintura.
-
-Paul, 27 años, **aprovechó su velocidad en el segundo asalto para entrar y salir** con el jab para mantenerse lejano de los otrora demoledores golpes del excampeón de los completos.
-
-En la tercera vuelta se agravó la lentitud de ‘Iron’ Mike, Jake lo conectó con un par de izquierdas que le sacudieron la cabeza.
-
-El cuarto round exhibió a la leyenda de los pesados, con la guardia amarrada ante el ‘influencer’ que pareció consentirlo para no lastimarlo.
-
-El veterano nacido en **Fort Greene, Nueva York mantuvo su actitud en el seis y siete**. Guardia arriba, sin energía para contender.
-
-Paul no apretó. Marcó una y otra vez con el jab, a un promedio de cinco por uno de su rival que jadeaba de manera notable entre cada episodio.
-
-En el octavo y **último asalto fue más de lo mismo**, con ambos boxeadores paseando sobre el ring. Jake Paul aterrizó 97 golpes contra 18 de Tyson a lo largo de la contienda.
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/tyson_2-1024x683.jpg)
-
-Foto: EFE.
-
-Tyson regresó tras 19 años de retiro
-------------------------------------
-
-‘Iron’ **Mike se retiró del boxeo profesional en el 2005** con marca de 50 triunfos, 44 de ellos por la vía rápida y seis derrotas.
-
-En la carrera como pugilista de Paul, que arrancó en el 2018, **tiene 10 triunfos, siete por nocaut**, y una derrota.
-
-La bolsa para Tyson por esta pelea fue de 20 millones de dólares, Paul ingresó 40 millones.
-
-El combate recibió una amplia promoción y fue transmitido a través de Netflix, **plataforma de video bajo demanda con más de 280 millones** de suscriptores a nivel mundial que el año pasado generó casi 34.000 millones de dólares en ingresos. 
-
-![Foto: EFE.](https://www.elcomercio.com/wp-content/uploads/2024/11/tyson_1-1024x683.jpg)
-
-Foto: EFE.
-
-¿Por qué Tyson muerde su guante?
---------------------------------
-
-Uno de las **peculiaridades que dejó esta pelea fue la forma como Mike Tyson** mordía uno de sus guantes de forma permanente, lo que hizo recordar cuando mordió la oreja a Evander Holyfield el 28 de junio de 1997, lo que provocó su descalificación del combate.
-
-La escena se registró en el tercer asalto. Tyson tuvo tiempo para quitase el protector bucal y **morder a su oponente y arrancarle ocho centímetros** de cartílago. Una vez que el juez se percató de los sucedido, dio por terminada la pelea.
-
-Consultado por las razones de morder el guante en reiteradas ocasiones mientras enfrentaba a Paul, respondió, con una sonrisa en su rostro, que tiene “**la costumbre de morderme los guantes” y “una fijación con las mordeduras**“, cerrando este episodio de una de las peleas más mediáticas del siglo XXI.
-
-San viernes
------------
-
-¿Cómo será la etapa 6 de la Vuelta al Ecuador?
-==============================================
-
-La Vuelta al Ecuador celebra su penúltima etapa y tendrá un recorrido con cuatro puertos de montaña de distinta categoría.
---------------------------------------------------------------------------------------------------------------------------
-
-![El pelotón de ciclistas en la etapa 1 de la Vuelta al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/vueltaecuadoretap1.jpg)
-
-La **Vuelta al Ecuador** de ciclismo 2024 encara su recta final y celebrará la penúltima carrera de la competencia. Esta contará con 174 kilómetros de recorrido y estará caracterizada por una presencia predominante de subidas.
-
-Este sábado 16 de noviembre del 2024, a partir de las 10:00, los ciclistas partirán desde **Machachi** (Pichincha), donde finalizó la etapa cinco, hasta **Cotacachi** (Imbabura). La largada será desde la plaza central de la localidad de Mejía y la meta estará ubicada en la Laguna de Cuicocha.
-
-### Más noticias:
-
-* [Brayan Obando busca devolverle una Vuelta al Ecuador al país](https://www.elcomercio.com/deportes/brayan-obando-lider-vuelta-ecuador.html "Brayan Obando busca devolverle una Vuelta al Ecuador al país")
-* [Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024](https://www.elcomercio.com/deportes/ciclismo/robinson-chalapud-bicampeon-vuelta-al-ecuador-gana-primera-etapa.html "Robinson Chalapud, bicampeón de la Vuelta al Ecuador, gana su primera etapa en la edición 2024")
-* [Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador](https://www.elcomercio.com/deportes/ciclismo/juan-carlos-cordova-vuelta-ecuador-2024.html "Juan Carlos Córdova, el debutante estrella de la Vuelta al Ecuador")
-
-Esta será la primera vez en toda la **Vuelta al Ecuador** en que los puertos de montaña superen a la cantidad de metas volantes. Aquello obedece al trazado que presentará la etapa, que iniciará a los 2 942 metros sobre el nivel del mar y finalizará a los 3 073.
-
-La carrera contará con tan solo dos metas, las cuales se llevarán a cabo en la primera mitad del trayecto. Tras ello, cuatro puertos de montaña les sucederán en alternancia y el **fin del recorrido** también será coronado con uno de ellos.
-
-Cuatro puertos de montaña y un recorrido para escaladores
----------------------------------------------------------
-
-Los velocistas tendrán la posibilidad de mostrar sus mejores cualidades y disputar el jersey verde de las metas volantes durante el kilómetro **18 y el 70,7.** Una vez que aquello suceda, los **puertos de montaña** se tomarán la carrera.
-
-El primer puerto será a los 68 kilómetros y será de tercera categoría, sin embargo, este último aspecto irá en ascenso. A los 87,20 habrá un nuevo punto de montaña que será de segunda categoría. Finalmente, a los 121,14 habrá uno de primera categoría y a los 174 un ‘hors catégorie’ (HC).
-
-La categoría de cada puerto de montaña fija la cantidad de puntos que puede obtener cada ciclista, en dicha clasificación, a partir de la posición en la que pase por aquel lugar. En el caso del HC se otorgan puntos del primer al décimo ciclista y la cantidad es de 20,15,12,10,8,6,4,2 y 1.
-
-La primera categoría da 10, 8, 6, 4, 2 y un punto del primero al sexto. En la segunda, 5,3,2 y 1 y la tercera, dos y uno.
-
-La cortesía es indispensable en tiempos de apagones
-===================================================
-
-La cortesía al conducir, como evitar luces intensas y ceder el paso, es crucial para una movilidad segura y fluida, especialmente en tiempos de crisis.
--------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La cortesía al conducir, como ceder el paso o evitar luces intensas, es clave para una circulación fluida y respetuosa, especialmente en tiempos de crisis.](https://www.elcomercio.com/wp-content/uploads/2024/11/Peatones-cuidado.jpeg)
-
-Sin duda, los cortes de luz han afectado el ánimo de las personas. En las casas, en las calles, se nota que hay una alteración. Y no es algo casual ni gratuito. En realidad, la luz, sea natural o artificial, ha sido la gran compañera de la civilización. La oscuridad, en cambio, es el gran enemigo.
-
-En las conversaciones que se mantienen, muchos hablan del miedo que les da caminar por las calles por las noches en medio de los apagones. Y eso nos remite a un sentimiento atávico. Para eso debemos remitirnos a los **seres humanos primitivos**.
-
-El descubrimiento del fuego fue algo fundamental, no solamente porque sirvió para cocinar el alimento y ayudó a la evolución de la especie. Hay algo más profundo, más espiritual.
-
-> Hay que imaginarse cómo era la vida antes de que supieran que el fuego también los iluminaba por la noche. Seguramente eran horas de horror hasta que volviera la luz del sol. Por eso, el sol y la luna fueron los primeros dioses, porque permitían vivir con algo de conocimiento.
-
-Quizá eso explique estas dos formas de ser durante esta crisis energética. Por una parte, la solidaridad entre los vecinos, que se han organizado para cuidarse, para ayudarse en momentos extremos. Pero también han repercutido negativamente y el individualismo aflora.
-
-Esta parte es más notoria en los vehículos que circulan por las ciudades. La **falta de consideración hacia los otros: el peatón, los otros conductores.** Por ejemplo, es cierto que es difícil manejar a oscuras, pero hay muchos que lo hacen con las luces intensas, lo que complica tanto a los que van delante como a los que vienen en sentido contrario.
-
-También ocurre que no se cede el paso para que alternadamente para que la circulación de los vehículos fluya y no nos convirtamos en un problema más entre los que ya vivimos los ecuatorianos. En ese sentido, la cortesía debe ser un valor a resaltar en tiempos de crisis.
-
-Chuletas de cerdo a la miel y ajo
-=================================
-
-Su capacidad para absorber sabores las hace ideales para marinar y acompañar con diferentes salsas. ¡Comparte esta receta con tus amigos!
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Esta receta fácil y deliciosa combina la jugosidad de la carne con el toque dulce y sabroso de la miel y el ajo, creando una explosión de sabor que encantará a todos.](https://www.elcomercio.com/wp-content/uploads/2024/11/1.jpg)
-
-Las **chuletas** de **cerdo** tienen una larga historia en la **cocina occidental**, siendo un alimento básico en muchas culturas. Su **popularidad** radica no solo en su sabor, sino también en su facilidad de preparación. Las **chuletas de cerdo** son un corte clásico en la **gastronomía** que se destaca por su versatilidad y sabor. Este **corte de carne** se puede **preparar de múltiples maneras,** desde a la parrilla hasta al horno, y se puede acompañar con una variedad de salsas que realzan su jugosidad y sabor. ¡Atrévete a probar algo nuevo en la cocina y disfruta de esta **receta llena de sabor**!
-
-Ingredientes
-------------
-
-4 chuletas de cerdo
-
-2 cucharadas de aceite de oliva
-
-4 dientes de ajo picados
-
-3 cucharadas de miel
-
-Sal y pimienta al gusto
-
-* * *
-
-> Una receta irresistible que destaca el sabor y la versatilidad de las chuletas de cerdo
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/3-1024x672.jpg)
-
-Las chuleta son ricas en proteínas y puede ser una opción más económica en comparación con otros tipos de carne.
-
-Preparación de las chuletas de cerdo a la miel y ajo
-----------------------------------------------------
-
-* **Sazonar** las chuletas con sal y pimienta por ambos lados.
-* **Calentar el aceite e**n una sartén grande, a fuego medio-alto.
-* **Colocar** las chuletas en la sartén caliente y cocinar durante 4-5 minutos por cada lado hasta que estén doradas.
-* **Reducir** el fuego a medio y añadir el ajo picado a la sartén. Cocinar por 1-2 minutos hasta que el ajo esté fragante.
-* **Agregar** la miel a la sartén y mezclar bien para cubrir las chuletas. Cocinar durante 2-3 minutos adicionales para caramelizar.
-* **Retirar** del fuego y dejar reposar un par de minutos antes de servir.
-
-¿Con qué puedes acompañar las chuletas de cerdo a la miel y ajo?
-----------------------------------------------------------------
-
-Puedes acompañarlas con guarniciones que equilibren su sabor dulce y salado.
-
-* Las **papas al horno** o un puré cremoso de papas son opciones clásicas que complementan bien el plato, aportando una textura suave que contrasta con la carne.
-* Las **verduras asadas,** como zanahorias, espárragos o calabacín, también son una excelente elección, ya que añaden frescura y un toque de color.
-* Para un toque extra de frescura, una **ensalada de hojas verdes con vinagreta** de limón resulta ideal, ya que equilibra la dulzura de la miel con un punto de acidez.
-* Además, puedes **añadir arroz o quinua** como acompañamientos ligeros y nutritivos, aportando un sabor terroso y una textura interesante.
-
-Salsas para acompañar a las chuletas de cerdo
----------------------------------------------
-
-* **Salsa Chimichurri,** esta salsa argentina, hecha a base de perejil, ajo, vinagre y aceite, aporta un sabor fresco y herbáceo que complementa perfectamente la carne a la parrilla.
-* **Salsa BBQ**, la salsa barbacoa es una opción popular, especialmente en preparaciones a la parrilla. Puedes optar por versiones comerciales o hacerla en casa con ingredientes como tomate, miel y especias.
-* **Salsa de Champiñones**, una salsa cremosa hecha con champiñones salteados, ideal para añadir un sabor terroso a las chuletas.[](https://www.recetasnestle.com.ec/escuela-sabor/coccion-tecnicasalsas-para-carne)
-* **Salsa** a **base de frutas**, como la manzana o la de mango, añaden un toque dulce que contrasta muy bien con la salinidad de la carne.
-* La s**alsa de naranja,** ya sea en forma de glaseado o como parte de una marinada, proporciona un sabor cítrico que realza las chuletas.
-* La piña también es excelente para salsas. Puedes hacer una **salsa agridulce** utilizando piña fresca, lo que añade un contraste delicioso.
-
-¡Prepárate para disfrutar en casa de esta irresistible receta fácil y llena de sabor!
-
-Acerca del XV encuentro empresarial Iberoamericano: Reflexiones y desafíos para una Iberoamérica sostenible y justa
-===================================================================================================================
-
-La inversión florece en un ambiente de confianza y estabilidad jurídica.
-------------------------------------------------------------------------
-
-![Ernesto Kruger, columnista de EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/05/Ernesto-Kruger.jpg)
-
-En el XV **Encuentro Empresarial Iberoamericano en Cuenca**, se ha dejado claro que los **desafíos actuales** exigen una **visión crítica** y transformadora. Reflexionemos juntos sobre los **puntos cruciales** que se discutieron y la responsabilidad que tenemos los **empresarios** en su implementación.
-
-Formación y empleabilidad para la juventud: El compromiso con el futuro
------------------------------------------------------------------------
-
-La **formación de la juventud** es fundamental para asegurar una **empleabilidad** genuina. No se trata solo de capacitar, sino de entender que la **educación dual** – que combina teoría y práctica – es el camino más efectivo para preparar a los **jóvenes** para el **mercado laboral** real. Como empresarios, debemos involucrarnos, **ofrecer oportunidades**, y abrir las puertas de nuestras empresas para que los jóvenes puedan experimentar y aprender.
-
-La digitalización y la ética en la inteligencia artificial
-----------------------------------------------------------
-
-La **digitalización** y el **uso de la Inteligencia Artificial** (IA) son herramientas poderosas, pero también demandan un **marco ético claro.** La IA puede dotarnos de “superpoderes”, pero su uso debe estar enmarcado en un respeto absoluto por los **principios éticos**. La ética de la IA no es opcional; es la piedra angular para construir un **entorno digital** que respete los **derechos** y la privacidad de las personas. El reto está en no solo usar la **tecnología**, sino también en crear una **cultura digital, ética y responsable**.
-
-Crecimiento sin inclusión: Un riesgo para todos
------------------------------------------------
-
-Crecer sin incluir es una fórmula que en algún punto se desgasta y quiebra. Si las empresas no incluyen a todas las personas en su **crecimiento**, no solo creamos **desigualdad**, sino que también debilitamos la estructura misma de la **sociedad** en la que operamos. El **crecimiento** debe ser inclusivo y debe abrir **caminos** para que todos, especialmente los menos favorecidos, tengan un lugar en esta **prosperidad compartida.**
-
-La sostenibilidad como eje de nuevas oportunidades
---------------------------------------------------
-
-La **sostenibilidad** no es solo una meta, sino un **catalizador** de **negocios innovadores**. Hoy en día, muchas empresas están alineando su estrategia con **modelos sostenibles**. La **sostenibilidad** es una fuente de **oportunidades** para los jóvenes y de **innovación** para los **emprendedores**. Tenemos el potencial de **transformar sectores** enteros si enfocamos nuestra **creatividad** y recursos en crear **modelos sostenibles**.
-
-Agua y energía: Elementos fundamentales para la sostenibilidad
---------------------------------------------------------------
-
-La **crisis del agua** y la **energía** exige una acción **proactiva**. Las **tecnologías** como los desalinizadores de agua de mar y la **conversión** de **residuos en bioenergía** nos muestran el camino. Implementar sistemas de **energía solar**, optimizar la distribución de **energía** en líneas de baja y media tensión, y aprovechar los **residuos agroindustriales**, como el bagazo de caña, son algunos de los ejemplos que podríamos aplicar en nuestra región.
-
-La importancia de los empresarios: Escuchar y aportar al bien común
--------------------------------------------------------------------
-
-No pretendemos “mandar”, pero sí queremos que se nos escuche. La relación entre lo **público** y lo **privado** debe estar basada en el respeto mutuo. Nos oponemos al **populismo** porque sabemos que la **inversión**, para ser **estable y efectiva**, necesita reglas claras, **seguridad jurídica** y organismos de Estado **sólidos** y **confiables**. Solo así, lograremos que los **proyectos empresariales** contribuyan genuinamente al desarrollo de nuestros países.
-
-Invertir en confianza y estabilidad
------------------------------------
-
-La **inversión** florece en un **ambiente de confianza y estabilidad jurídica**. Las empresas necesitan normas de **calidad y marcos regulatorios** sólidos. Esta estabilidad no solo atrae capital, sino que permite una planificación a largo plazo que impacta positivamente en el **desarrollo de las comunidades**.
-
-El XV Encuentro Empresarial Iberoamericano nos hizo acuerdo que la **unión y el compromiso** son los motores para construir una **Iberoamérica** más justa, **innovadora y sostenible**. Ahora, es momento de pasar de la reflexión a la acción, trabajando desde nuestras trincheras para generar cambios que beneficien a todos. Ojalá **Ecuador** entienda que estamos en un **marco global** y que debemos tener en nuestra agenda estos temas que son mandatorios para progresar.
