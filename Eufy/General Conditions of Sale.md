@@ -760,6 +760,16 @@ Products (RoboVac/HomeVac/Vacuum Cleaner) that are out of warranty are also elig
 
   
 
+  
+
+****How to return an item at eufy.com**?**
+
+To initiate a return, you will need to submit a return request. Please have your order number and the email address used for the purchase ready. You can start your return [here](https://passport.eufy.com/search-orders).
+
+If you have an eufy account, you can manage returns directly through your order history. Guests who do not have an order number can register for an account using the email address associated with the purchase. This allows you to access your order history and manage returns.
+
+  
+
 **Warranty Applicable Exclusively to Breast Pump Products**
 
 **Warranty：**
