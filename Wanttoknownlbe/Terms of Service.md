@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-jaar-2020-alvast-numerologisch-bekeken/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/economie/en-zo-word-je-de-rijkste-persoon-op-aarde/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
