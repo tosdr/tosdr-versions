@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Saturday, November 16 2024
+Sunday, November 17 2024
 
 Latest
 
-* [You Can Get This Lenovo IdeaPad 5i for $580 Right Now](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
-* [Facebook not working with a VPN? Troubleshooting guide](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
-* [Windows 11 build 22635.4510 (KB5046716) brings more sharing options (preview)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
-* [Best Knife Sharpeners for Chef’s Knives](https://digitpatrox.com/best-knife-sharpeners-for-chefs-knives/)
-* [How to Use the OFFSET Function in Excel](https://digitpatrox.com/how-to-use-the-offset-function-in-excel/)
-* [Companies Should Invest More in Tech](https://digitpatrox.com/companies-should-invest-more-in-tech/)
-* [How to watch ‘Boybands Forever’ online from anywhere](https://digitpatrox.com/how-to-watch-boybands-forever-online-from-anywhere/)
-* [GitHub projects targeted with malicious commits to frame researcher](https://digitpatrox.com/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
-* [NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://digitpatrox.com/nfl-fans-worry-netflixs-bad-tyson-vs-paul-stream-means-it-cant-handle-football/)
-* [Arcane Season 2: Is Vander (Warwick) Really Dead?](https://digitpatrox.com/arcane-season-2-is-vander-warwick-really-dead/)
+* [Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
+* [Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
+* [Car Battery Charger FAQ – Consumer Reports](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
+* [How to Securely Delete Sensitive Files on Windows 11](https://digitpatrox.com/how-to-securely-delete-sensitive-files-on-windows-11/)
+* [Fedora vs Ubuntu: Are You Considering a New Distro?](https://digitpatrox.com/fedora-vs-ubuntu-are-you-considering-a-new-distro/)
+* [How to watch England vs Ireland live stream free, Nations League](https://digitpatrox.com/how-to-watch-england-vs-ireland-live-stream-free-nations-league/)
+* [Fake AI video generators infect Windows, macOS with infostealers](https://digitpatrox.com/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
+* [Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://digitpatrox.com/narwals-freo-x-ultra-the-best-mopping-robot-available-is-on-sale-for-a-new-low-price/)
+* [Today’s Wordle Answer and Hints (November 17, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-17-2024/)
+* [Getting started with Google Password Manager – Computerworld](https://digitpatrox.com/getting-started-with-google-password-manager-computerworld/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://lifehacker.com/imagery/articles/01JAV92DJ2ZRPM5DGBHMS8PZWZ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3604307-0-69899900-1731567931-android-floating-note-app.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
     
-    [You Can Get This Lenovo IdeaPad 5i for $580 Right Now](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
+    [Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
     
-    6 minutes ago
+    21 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Troubleshooting-guide_-Facebook-not-working-with-a-VPN.jpg)](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
+* [![](https://lifehacker.com/imagery/articles/01J06V6G5TPEC77MJVHY9XX9Q2/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
     
-    [Facebook not working with a VPN? Troubleshooting guide](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
+    [Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
     
-    13 minutes ago
+    49 minutes ago
     
-* [![](https://pureinfotech.com/wp-content/uploads/2024/11/kb5046716-windows-11-hero-mauro-huculak.webp)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1607093642/prod/content/dam/CRO-Images-2020/Cars/12Dec/CR-Cars-InlineHero-Smart-Charger-LR-12-20)](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
     
-    [Windows 11 build 22635.4510 (KB5046716) brings more sharing options (preview)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
+    [Car Battery Charger FAQ – Consumer Reports](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
     
-    15 minutes ago
+    59 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1680721009/prod/content/dam/CRO-Images-2023/04April/Audience-Growth/CR-AG-Inlinehero-OTL-knife-sharpeners-0423)](https://digitpatrox.com/best-knife-sharpeners-for-chefs-knives/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/shutterstock_258326060.jpg)](https://digitpatrox.com/how-to-securely-delete-sensitive-files-on-windows-11/)
     
-    [Best Knife Sharpeners for Chef’s Knives](https://digitpatrox.com/best-knife-sharpeners-for-chefs-knives/)
+    [How to Securely Delete Sensitive Files on Windows 11](https://digitpatrox.com/how-to-securely-delete-sensitive-files-on-windows-11/)
     
-    16 minutes ago
+    1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/11/an-excel-spreadsheet-highlighting-the-offset-function-with-the-excel-logo-on-the-right.jpg)](https://digitpatrox.com/how-to-use-the-offset-function-in-excel/)
+* [![](https://assets.techrepublic.com/uploads/2024/11/tr_20241115-fedora-vs-ubuntu.jpg)](https://digitpatrox.com/fedora-vs-ubuntu-are-you-considering-a-new-distro/)
     
-    [How to Use the OFFSET Function in Excel](https://digitpatrox.com/how-to-use-the-offset-function-in-excel/)
+    [Fedora vs Ubuntu: Are You Considering a New Distro?](https://digitpatrox.com/fedora-vs-ubuntu-are-you-considering-a-new-distro/)
     
-    18 minutes ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [6 minutes ago
+* [21 minutes ago
     
-    ### You Can Get This Lenovo IdeaPad 5i for $580 Right Now](https://digitpatrox.com/you-can-get-this-lenovo-ideapad-5i-for-580-right-now/)
-* [13 minutes ago
+    ### Meet the floating Android note app of the future – Computerworld](https://digitpatrox.com/meet-the-floating-android-note-app-of-the-future-computerworld/)
+* [49 minutes ago
     
-    ### Facebook not working with a VPN? Troubleshooting guide](https://digitpatrox.com/facebook-not-working-with-a-vpn-troubleshooting-guide/)
-* [15 minutes ago
+    ### Use ‘Bridgy Fed’ to Connect Mastodon and Bluesky](https://digitpatrox.com/use-bridgy-fed-to-connect-mastodon-and-bluesky/)
+* [59 minutes ago
     
-    ### Windows 11 build 22635.4510 (KB5046716) brings more sharing options (preview)](https://digitpatrox.com/windows-11-build-22635-4510-kb5046716-brings-more-sharing-options-preview/)
+    ### Car Battery Charger FAQ – Consumer Reports](https://digitpatrox.com/car-battery-charger-faq-consumer-reports/)
 
 Most Popular Topics
 
-* [September 6, 2024
+* [August 20, 2024
     
-    ### 7 Of The Most Unpopular Windows Features of All Time](https://digitpatrox.com/7-of-the-most-unpopular-windows-features-of-all-time/)
-* [4 weeks ago
+    ### How to watch Democratic National Convention 2024 online for free — Kamala Harris, Barack Obama, Hilary Clinton](https://digitpatrox.com/how-to-watch-democratic-national-convention-2024-online-for-free-kamala-harris-barack-obama-hilary-clinton/)
+* [September 14, 2024
     
-    ### Apple Pay Is Addicted to Awful Lending Services](https://digitpatrox.com/apple-pay-is-addicted-to-awful-lending-services/)
-* [September 30, 2024
+    ### Canva talked up its new AI features, then hiked prices by over 300% – but the company says the increase is worth it](https://digitpatrox.com/canva-talked-up-its-new-ai-features-then-hiked-prices-by-over-300-but-the-company-says-the-increase-is-worth-it/)
+* [3 weeks ago
     
-    ### Maui, Hawaii health clinic notifies 124K people of data breach that compromised SSNs, payment and medical info](https://digitpatrox.com/maui-hawaii-health-clinic-notifies-124k-people-of-data-breach-that-compromised-ssns-payment-and-medical-info/)
+    ### Does Instagram Notify Someone If You Screenshot a Story?](https://digitpatrox.com/does-instagram-notify-someone-if-you-screenshot-a-story/)
 
 Last Modified Topics
 
-* [1 hour ago
+* [3 hours ago
     
-    ### How to watch ‘Boybands Forever’ online from anywhere](https://digitpatrox.com/how-to-watch-boybands-forever-online-from-anywhere/)
-* [2 hours ago
+    ### Fake AI video generators infect Windows, macOS with infostealers](https://digitpatrox.com/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
+* [3 hours ago
     
-    ### GitHub projects targeted with malicious commits to frame researcher](https://digitpatrox.com/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
-* [2 hours ago
+    ### Narwal’s Freo X Ultra, the best mopping robot available, is on sale for a new low price](https://digitpatrox.com/narwals-freo-x-ultra-the-best-mopping-robot-available-is-on-sale-for-a-new-low-price/)
+* [4 hours ago
     
-    ### NFL fans worry Netflix’s bad Tyson vs. Paul stream means it can’t handle football](https://digitpatrox.com/nfl-fans-worry-netflixs-bad-tyson-vs-paul-stream-means-it-cant-handle-football/)
+    ### Today’s Wordle Answer and Hints (November 17, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-17-2024/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
