@@ -202,5 +202,3 @@ Questo sito [utilizza](https://www.infomaniak.com/it/ecologia) solo energia verd
 • Questo sito utilizza solo cookie tecnici e non fa alcuna profilazione. Per questo non dovete firmare strani patti con il diavolo per visitarci.  
 • Tutti gli articoli di Le Alternative sono senza affiliazioni, senza _codici referral_ e da nessuna parte troverete della pubblicità. Per mantenere una totale autonomia abbiamo deciso di accettare solamente donazioni così da non avere alcun tipo di pregiudizio nella stesura degli articoli.  
 • Il font utilizzato è [Sylexiad Serif](https://www.sylexiad.com/download-typefaces/sylexiad-serif/index.html), un font ad alta leggibilità sviluppato da **Robert Hillier**[.](https://poliversity.it/@skariko)
-
-Modalità scura:
