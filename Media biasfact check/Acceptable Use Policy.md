@@ -37,13 +37,7 @@
     * [Changes/Corrections](https://mediabiasfactcheck.com/changes-corrections/)
 * [News](https://mediabiasfactcheck.com/news/)
     * [Factual News](https://mediabiasfactcheck.com/factual-news/)
-    * [2024 Election](https://mediabiasfactcheck.com/election-center-2024/)
-        * [Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
-        * [Election Simluation Results](https://mediabiasfactcheck.com/electoral-college-simulation-data/)
-        * [Presidential Media Endorsements](https://mediabiasfactcheck.com/presidential-media-endorsements/)
-        * [Election Spending - PACS/SuperPACS](https://mediabiasfactcheck.com/election-spending-pacs-and-superpacs/)
-        * [Pollster Ratings](https://mediabiasfactcheck.com/pollsters-bias-and-credibility/)
-        * [Election News](https://mediabiasfactcheck.com/election-center-2024/)
+    * [Political News](https://mediabiasfactcheck.com/election-center-2024/)
 * [Search](https://mediabiasfactcheck.com/search/)
     * [All Search Options](https://mediabiasfactcheck.com/search/)
     * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
@@ -51,16 +45,16 @@
     * [Country Profiles](https://mediabiasfactcheck.com/country-profiles/)
     * [World Leaders – Facts and Bias](https://mediabiasfactcheck.com/world-leaders-facts-and-bias/)
 * [Politician/Journalists](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
-    * [Presidential Election 2024 Candidates Bias Ratings](https://mediabiasfactcheck.com/presidential-election-2024-candidates-bias-ratings/)
     * [United States Governors Bias Ratings](https://mediabiasfactcheck.com/united-states-governors-bias-ratings/)
     * [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/)
+    * [Presidential Election 2024 Candidates Bias Ratings](https://mediabiasfactcheck.com/presidential-election-2024-candidates-bias-ratings/)
 * [Educators](https://mediabiasfactcheck.com/educational-class-materials-by-media-bias-fact-check/)
     * [Educator Resources](https://mediabiasfactcheck.com/educational-class-materials-by-media-bias-fact-check/)
     * [Educational Media Sources](https://mediabiasfactcheck.com/educational-media-sources/)
 * [Maps](https://mediabiasfactcheck.com/interactive-maps-and-charts-by-mbfc/)
-    * [MBFC's 2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
     * [Interactive Political Orientation Map of the World](https://mediabiasfactcheck.com/interactive-political-orientation-map-of-the-world/)
     * [Interactive Country Freedom Map of the World](https://mediabiasfactcheck.com/interactive-country-freedom-map-of-the-world/)
+    * [MBFC's 2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)
 * [MORE](https://mediabiasfactcheck.com/re-evaluated-sources/)
     * [Extensions](https://mediabiasfactcheck.com/appsextensions/)
     * [Re-Evaluated Sources](https://mediabiasfactcheck.com/re-evaluated-sources/)
@@ -73,11 +67,11 @@
 
 MBFC News
 
-* [November 1, 2024 | Media News Daily: Top Stories for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/media-news-daily-top-stories-for-11-01-2024/ "Media News Daily: Top Stories for 11/01/2024")
-* [November 1, 2024 | MBFC’s Daily Vetted Fact Checks for 11/01/2024](https://mediabiasfactcheck.com/2024/11/01/mbfcs-daily-vetted-fact-checks-for-11-01-2024/ "MBFC’s Daily Vetted Fact Checks for 11/01/2024")
-* [October 31, 2024 | Media News Daily: Top Stories for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/media-news-daily-top-stories-for-10-31-2024/ "Media News Daily: Top Stories for 10/31/2024")
-* [October 31, 2024 | MBFC’s Daily Vetted Fact Checks for 10/31/2024](https://mediabiasfactcheck.com/2024/10/31/mbfcs-daily-vetted-fact-checks-for-10-31-2024/ "MBFC’s Daily Vetted Fact Checks for 10/31/2024")
-* [October 30, 2024 | Media News Daily: Top Stories for 10/30/2024](https://mediabiasfactcheck.com/2024/10/30/media-news-daily-top-stories-for-10-30-2024/ "Media News Daily: Top Stories for 10/30/2024")
+* [November 17, 2024 | Media News Daily: Top Stories for 11/17/2024](https://mediabiasfactcheck.com/2024/11/17/media-news-daily-top-stories-for-11-17-2024/ "Media News Daily: Top Stories for 11/17/2024")
+* [November 17, 2024 | MBFC’s Daily Vetted Fact Checks for 11/17/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/17/mbfcs-daily-vetted-fact-checks-for-11-17-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/17/2024 (Weekend Edition)")
+* [November 16, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 10th – Nov 16th](https://mediabiasfactcheck.com/2024/11/16/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-10th-nov-16th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 10th – Nov 16th")
+* [November 16, 2024 | MBFC’s Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/16/mbfcs-daily-vetted-fact-checks-for-11-16-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)")
+* [November 15, 2024 | Media News Daily: Top Stories for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/media-news-daily-top-stories-for-11-15-2024/ "Media News Daily: Top Stories for 11/15/2024")
 
 Search for:  
 
@@ -92,8 +86,6 @@ Fair Use Policy and Legal Disclaimer
 This site contains copyrighted material the use of which has not always been specifically authorized by the copyright owner. In accord with our mission, we are making such material available to advance understanding of media bias and factual reporting. We believe this constitutes a ‘fair use’ of any such copyrighted material as provided in Section 107 of the US Copyright Law. In accordance with Title 17 U.S.C. Section 107, the material on this site is distributed  to those who have expressed a prior interest in receiving the included information for research and educational purposes. For further information on fair use, go to: [https://www.copyright.gov/fair-use/more-info.html](https://www.copyright.gov/fair-use/more-info.html)
 
 If you wish to use copyrighted material from this site for purposes of your own that go beyond fair use, you must obtain permission from the copyright owner.
-
-Last Updated on October 18, 2018 by Media Bias Fact Check
 
 * * *
 
@@ -131,80 +123,80 @@ Last Updated on October 18, 2018 by Media Bias Fact Check
 **[Ad-Free Sign up](https://mediabiasfactcheck.com/membership-account/membership-levels/)  
 [Support MBFC – Donations](https://mediabiasfactcheck.com/support-media-bias-fact-check/)  
 [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)  
-**[Election Center 2024 (New)](https://mediabiasfactcheck.com/election-center-2024/)  
+**[Fact-Based Political News](https://mediabiasfactcheck.com/election-center-2024/)  
 [2024 Electoral College Map](https://mediabiasfactcheck.com/electoral-college-map-2024-biden-vs-trump/)  
 **
 
 #### Recently Added Sources or Pages
 
-* [Asheville Watchdog – Bias and Credibility](https://mediabiasfactcheck.com/asheville-watchdog-bias-and-credibility/)
+* [Tallahassee Reports – Bias and Credibility](https://mediabiasfactcheck.com/tallahassee-reports-bias-and-credibility/)
     
-    November 1, 2024
+    November 17, 2024
     
-* [The Rio Times – Bias and Credibility](https://mediabiasfactcheck.com/the-rio-times-bias-and-credibility/)
+* [Straight – Bias and Credibility](https://mediabiasfactcheck.com/straight-bias-and-credibility/)
     
-    November 1, 2024
+    November 17, 2024
     
-* [North Chester Today – Bias and Credibility](https://mediabiasfactcheck.com/north-chester-today-bias-and-credibility/)
+* [St. George News – Bias and Credibility](https://mediabiasfactcheck.com/st-george-news-bias-and-credibility/)
     
-    November 1, 2024
+    November 17, 2024
     
-* [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/)
+* [Shepherd Express – Bias and Crediblity](https://mediabiasfactcheck.com/shepherd-express-bias-and-crediblity/)
     
-    October 31, 2024
+    November 17, 2024
     
-* [Juneau Empire – Bias and Credibility](https://mediabiasfactcheck.com/juneau-empire-bias/)
+* [Salamanca Press – Bias and Credibility](https://mediabiasfactcheck.com/salamanca-press-bias/)
     
-    October 31, 2024
+    November 17, 2024
     
-* [The Information – Bias and Credibility](https://mediabiasfactcheck.com/the-information-bias-and-credibility/)
+* [Bega District News – Bias and Credibility](https://mediabiasfactcheck.com/bega-district-news-bias-and-credibility/)
     
-    October 31, 2024
+    November 17, 2024
     
-* [Frontiers in Human Neuroscience – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-human-neuroscience-bias-and-credibility/)
+* [Stand to Reason – Bias and Credibility](https://mediabiasfactcheck.com/stand-to-reason-bias-and-credibility/)
     
-    October 31, 2024
+    November 16, 2024
     
-* [Finger Lakes Times – Bias and Credibility](https://mediabiasfactcheck.com/finger-lakes-times-bias/)
+* [Steve Quayle (stevequayle.com) – Bias and Credibility](https://mediabiasfactcheck.com/steve-quayle-stevequayle-com-bias-and-credibility/)
     
-    October 31, 2024
+    November 16, 2024
     
 
 #### Recently Updated Pages
 
-* [Electoral College Simulation Data](https://mediabiasfactcheck.com/electoral-college-simulation-data/ "View Electoral College Simulation Data") - November 1, 2024
+* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 17, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 1, 2024
+* [Tallahassee Reports – Bias and Credibility](https://mediabiasfactcheck.com/tallahassee-reports-bias-and-credibility/ "View Tallahassee Reports – Bias and Credibility") - November 17, 2024
     
-* [Asheville Watchdog – Bias and Credibility](https://mediabiasfactcheck.com/asheville-watchdog-bias-and-credibility/ "View Asheville Watchdog – Bias and Credibility") - November 1, 2024
+* [Straight – Bias and Credibility](https://mediabiasfactcheck.com/straight-bias-and-credibility/ "View Straight – Bias and Credibility") - November 17, 2024
     
-* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 1, 2024
+* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 17, 2024
     
-* [The Rio Times – Bias and Credibility](https://mediabiasfactcheck.com/the-rio-times-bias-and-credibility/ "View The Rio Times – Bias and Credibility") - November 1, 2024
+* [Right-Center Bias](https://mediabiasfactcheck.com/right-center/ "View Right-Center Bias") - November 17, 2024
     
-* [Questionable Sources](https://mediabiasfactcheck.com/fake-news/ "View Questionable Sources") - November 1, 2024
+* [St. George News – Bias and Credibility](https://mediabiasfactcheck.com/st-george-news-bias-and-credibility/ "View St. George News – Bias and Credibility") - November 17, 2024
     
-* [North Chester Today – Bias and Credibility](https://mediabiasfactcheck.com/north-chester-today-bias-and-credibility/ "View North Chester Today – Bias and Credibility") - November 1, 2024
+* [Shepherd Express – Bias and Crediblity](https://mediabiasfactcheck.com/shepherd-express-bias-and-crediblity/ "View Shepherd Express – Bias and Crediblity") - November 17, 2024
     
-* [Journalist Bias](https://mediabiasfactcheck.com/journalist-bias/ "View Journalist Bias") - October 31, 2024
+* [Left Bias](https://mediabiasfactcheck.com/left/ "View Left Bias") - November 17, 2024
     
-* [Brian Williams Bias Rating](https://mediabiasfactcheck.com/brian-williams-bias-rating/ "View Brian Williams Bias Rating") - October 31, 2024
+* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 17, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - October 31, 2024
+* [Salamanca Press – Bias and Credibility](https://mediabiasfactcheck.com/salamanca-press-bias/ "View Salamanca Press – Bias and Credibility") - November 17, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [AtlasIntel Polling - Bias and Credibility](https://mediabiasfactcheck.com/atlasintel-polling-bias-and-credibility/)
-* [Echelon Insights - Bias and Credibility](https://mediabiasfactcheck.com/echelon-insights-bias-and-credibility/)
-* [Marist Poll - Bias and Credibility](https://mediabiasfactcheck.com/marist-poll-bias-and-credibility/)
-* [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Newsweek - Bias and Credibility](https://mediabiasfactcheck.com/newsweek/)
-* [The Economist - Bias and Credibility](https://mediabiasfactcheck.com/the-economist/)
-* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
 * [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
+* [Least Biased](https://mediabiasfactcheck.com/center/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
+* [Double Down News (DDN) - Bias and Credibility](https://mediabiasfactcheck.com/double-down-news-ddn-bias/)
 
 #### Subscribe via Email
 
