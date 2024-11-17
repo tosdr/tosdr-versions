@@ -1,5 +1,3 @@
-[Breaking: No. 12 Georgia Bulldogs take care of business vs. Tennessee](https://www.ajc.com/sports/georgia-bulldogs/no-12-georgia-bulldogs-take-care-of-business-vs-tennessee/IO3FNJ2AO5HJ3JQX43Q6XIK53I/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1818)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1818)](https://www.ajc.com/)
 
 Log In
