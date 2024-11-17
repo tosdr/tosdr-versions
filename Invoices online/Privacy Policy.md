@@ -117,63 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Kobus Venter
+Henry Venter
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=191404731)  
-Immediate Health (pty)ltd
+![valued client Hydroworld T/A Milliqua](https://www.invoicesonline.co.za/scripts/image.php?bid=3671&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=123164163)  
+Hydroworld T/A Milliqua
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=18676341)  
-MSPCloud (Pty) Ltd
+![valued client Laurinda Pretorius Spraak en Drama Ateljee](https://www.invoicesonline.co.za/scripts/image.php?bid=7561&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=67895878)  
+Laurinda Pretorius Spraak en Drama Ateljee
 
-![valued client Cape Adventure Zone](https://www.invoicesonline.co.za/scripts/image.php?bid=2185&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=28260633)  
-Cape Adventure Zone
+![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=184544563)  
+Sarabi
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=24424195)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=122678708)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Depot Diesel (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6813&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=195082146)  
-Depot Diesel (Pty) Ltd
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=135443534)  
+SAUL ATHOL ACRES RENTAL
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=115156156)  
-MOSELA GROUP Pty(ltd)
+![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=92607571)  
+SMART GUY PCS (PTY) LTD
 
-![valued client African Roots](https://www.invoicesonline.co.za/scripts/image.php?bid=1000&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=183388010)  
-African Roots
+![valued client NGB HOLDINGS PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=6918&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=46919703)  
+NGB HOLDINGS PTY LTD
 
-![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=83225809)  
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=64992898)  
+Salvage Genie
+
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=110517838)  
+Waterfinatics Swim School
+
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=97877472)  
 OrgChart Hosting Pty Ltd
 
-![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=168177193)  
-Cpower Projects t/a Pro Pure Water
+![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=34761570)  
+Dombieterfontein (PTY) LTD
 
-![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=89466641)  
-Vplay Grafix
+![valued client Redlum Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8254&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=98167938)  
+Redlum Group (Pty) Ltd
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=101978406)  
-webb it services
+![valued client Sportspro Group (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8223&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=185040019)  
+Sportspro Group (Pty) Ltd
 
-![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=78905586)  
-INDUSTRIAL DRUM SERVICES (PTY)LTD
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=76634395)  
+Tantra Sound and Lightz
 
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=181289958)  
-FLIPS AUTO ELECTRICAL
-
-![valued client IEMS (PTY) ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7805&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=116317788)  
-IEMS (PTY) ltd
-
-![valued client Iurus Inc ](https://www.invoicesonline.co.za/scripts/image.php?bid=6286&file=logo_300_100&type=&fe=fbc056e87e5918ac444b569d4dbada9f016f4fbf68ee34780b861076778c9663&c=80596387)  
-Iurus Inc
+![valued client Goju-Ryu Pretoria East](https://www.invoicesonline.co.za/scripts/image.php?bid=8346&file=logo_300_100&type=&fe=812dfb444e211a6588ee169771160d977d335dab45aa8bfb6bad172d2d39a776&c=120325780)  
+Goju-Ryu Pretoria East
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
