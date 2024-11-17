@@ -116,8 +116,7 @@ triangle borderless
     arrow left Back
     
     * [Deals](https://www.lorex.com/pages/promotions)
-    * [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    * [Big Savings on Security](https://www.lorex.com/pages/promotions)
+    * [Black Friday Price Guarantee](https://www.lorex.com/pages/promotions)
     * [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     * [Not-for-profit Support Program](https://www.lorex.com/pages/nonprofit)
     * [Lorex Upgrade Program](https://www.lorex.com/pages/upgrade)
@@ -546,9 +545,7 @@ Your cart is empty
 * [Lorex Cloud Storage](https://www.lorex.com/pages/lorex-cloud-subscriptions?utm_source=main_menu&utm_campaign=cloud_storage)
 * [Deals arrow bottom](https://www.lorex.com/pages/promotions)
     
-    [Deals of the Day](https://www.lorex.com/pages/promotions#dotd)
-    
-    [Big Savings on Security](https://www.lorex.com/pages/promotions)
+    [Black Friday Price Guarantee](https://www.lorex.com/pages/promotions)
     
     [Lorex Clearance Outlet](https://www.lorex.com/pages/outlet)
     
@@ -595,7 +592,7 @@ Your cart is empty
 
   
 
-Get **FREE** shipping on orders over $100
+**Black Friday Price Guarantee** | **FREE Standard Shipping** | **Extended Return Period**
 
  
 
