@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Hunting Magnotta](/wp-content/thumbnails/8704-100x70.jpg?x53432)
+* [![Rooney: The Man Behind the Goals](/wp-content/thumbnails/10136-100x70.jpg?x53432)
     
-    Hunting Magnotta
+    Rooney: The Man Behind the Goals
     
-    A few years ago hardly anybody had ever heard of a man called Luka Magnotta but in 2010 this individual began posting videos of himself killing cats in various sadistic ways, from feeding a kitten to](https://documentaryheaven.com/hunting-magnotta/ "Hunting Magnotta")
-* [![Into The Unknown](/wp-content/thumbnails/14784-100x70.jpeg?x53432)
+    Ever since he was 16 years old he has lived his life in the public eye, yet no one outside of his family and close friends really knows him. Sir Bobby Charlton scored the last of his 49 goals for Engl](https://documentaryheaven.com/rooney-man-behind-goals/ "Rooney: The Man Behind the Goals")
+* [![Life At Any Price](/wp-content/thumbnails/7969-100x70.jpg?x53432)
     
-    Into The Unknown
+    Life At Any Price
     
-    Into the Unknown gives us some first hand insight as to the effort that went into building NASA’s James Webb Space Telescope. A telescope which is simply revolutionary, measuring in at being 100 times](https://documentaryheaven.com/into-the-unknown/ "Into The Unknown")
-* [![Hawkwind: Do Not Panic](/wp-content/thumbnails/6676-100x70.jpg?x53432)
+    Two-thirds of the world’s women live in countries where abortion can be obtained for a variety of social, economic or personal reasons. In other nations it is allowed only in cases of rape, foetal abn](https://documentaryheaven.com/life-at-any-price/ "Life At Any Price")
+* [![The Jersey Shore of England](/wp-content/thumbnails/13407-100x70.jpg?x53432)
     
-    Hawkwind: Do Not Panic
+    The Jersey Shore of England
     
-    The inside story of Hawkwind, one of Britain’s wildest acid rock bands. Emerging from the Ladbroke Grove underground at the end of the 60s, the band trailed radicalism and counter-culture in their wak](https://documentaryheaven.com/hawkwind-do-not-panic/ "Hawkwind: Do Not Panic")
-* [![AIDS Inc.](/wp-content/thumbnails/577-100x70.png?x53432)
+    These days Liverpool is considered to be Britain's capital city of beauty. On average, there are six times more gyms, training salons and "cosmetic surgeons" than anywhere else in the country.User](https://documentaryheaven.com/jersey-shore-of-england/ "The Jersey Shore of England")
+* [![Nicki Minaj: My Time Again](/wp-content/thumbnails/9526-100x70.jpg?x53432)
     
-    AIDS Inc.
+    Nicki Minaj: My Time Again
     
-    AIDS, Inc. is a film about the multi-billion dollar AIDS industry, and how it profits from continuing fears and misconceptions about the disease. While AIDS grabs the headlines and raises billions of](https://documentaryheaven.com/aids-inc/ "AIDS Inc.")
-* [![Princes of the Yen](/wp-content/thumbnails/9514-100x70.jpg?x53432)
+    This 40 minute MTV special is all about Nicki Minaj, and gives you an insight into her everyday life, from the effort that goes into filming her music videos and preforming live, to the rehearsals in](https://documentaryheaven.com/nicki-minaj-time/ "Nicki Minaj: My Time Again")
+* [![Robert, The Lost Years](/wp-content/thumbnails/6561-100x70.jpg?x53432)
     
-    Princes of the Yen
+    Robert, The Lost Years
     
-    Princes of Yen is a film based off of a book by Professor Richard Werner who was a researcher that visited the Bank of Japan during the 90's crash which saw the market fall by about 80% and house pric](https://documentaryheaven.com/princes-of-yen/ "Princes of the Yen")
+    Journey of One tells peoples stories using the photofilm format, giving a fascinating and intimate glimpse into individual lives.](https://documentaryheaven.com/robert-the-lost-years/ "Robert, The Lost Years")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
