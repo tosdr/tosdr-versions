@@ -185,7 +185,7 @@
 TERMS OF USE
 ============
 
-Welcome to [www.scientology.org](https://www.scientology.org/). The Church of Scientology International (“CSI”) and/or its affiliated international organizations provide website features to you subject to the following terms and our [Privacy Policy](https://www.scientology.org/privacy-notice.html). If you visit this website, you accept these conditions. Please read them carefully.
+Welcome to www.scientology.org. The Church of Scientology International (“CSI”) and/or its affiliated international organizations provide website features to you subject to the following terms and our [Privacy Policy](https://www.scientology.org/privacy-notice.html). If you visit this website, you accept these conditions. Please read them carefully.
 
 **1\. SCOPE AND ADDRESSEES**
 ----------------------------
