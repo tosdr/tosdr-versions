@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd/20241117T060823/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd_16x9.jpg) ![](https://media.king5.com/assets/KING/images/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd/20241117T060823/f81cf3dd-6bbe-48ad-b608-7f8e6de5f3dd_360x203.jpg)](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
+    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-despidos-boeing-inundaciones-severas-centroamrica/281-f77d4939-c481-46f4-a3ee-14a7fda94fa3)
         
-        #### [Apartment fire in Bellevue displaces at least 15 units](https://www.king5.com/article/news/local/apartment-fire-bellevue-displaces-several-units/281-b68ef697-d9aa-463b-afda-29e9d670b42f)
+        #### [Cinco Cosas: Despidos de Boeing, inundaciones severas en Centroamérica](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-despidos-boeing-inundaciones-severas-centroamrica/281-f77d4939-c481-46f4-a3ee-14a7fda94fa3)
         
-    *  [![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_360x203.jpg)](https://www.king5.com/article/news/local/teen-passenger-critical-condition-after-car-drives-into-lake-washington/281-a30e4ca9-9b48-46d5-a59b-f5b64f2eb56d)
+    *  [![](https://media.king5.com/assets/KING/images/84426968-f159-4d05-b942-d3d6ac16062c/20241117T174434/84426968-f159-4d05-b942-d3d6ac16062c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/84426968-f159-4d05-b942-d3d6ac16062c/20241117T174434/84426968-f159-4d05-b942-d3d6ac16062c_360x203.jpg)](https://www.king5.com/article/news/local/mi-centro-tacoma-bilingual-events-support-healthy-family-dialogue/281-4d5f0436-da59-4fa8-9ef3-6168cb7bef3b)
         
-        #### [Teen passenger in critical condition after car drives into Lake Washington](https://www.king5.com/article/news/local/teen-passenger-critical-condition-after-car-drives-into-lake-washington/281-a30e4ca9-9b48-46d5-a59b-f5b64f2eb56d)
+        #### [Mi Centro of Tacoma offers bilingual events to support healthy family dialogue](https://www.king5.com/article/news/local/mi-centro-tacoma-bilingual-events-support-healthy-family-dialogue/281-4d5f0436-da59-4fa8-9ef3-6168cb7bef3b)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,7 +56,7 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/7a21e008-478a-47bf-a0ad-80c18fb79765/20241117T061923/7a21e008-478a-47bf-a0ad-80c18fb79765_16x9.jpg) ![](https://media.king5.com/assets/KING/images/7a21e008-478a-47bf-a0ad-80c18fb79765/20241117T061923/7a21e008-478a-47bf-a0ad-80c18fb79765_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-50°
+48°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Light Rain](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
