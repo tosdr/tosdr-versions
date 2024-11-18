@@ -1,4 +1,4 @@
-Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+[Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
 
@@ -20,7 +20,7 @@ Get 15%, 20% or 30% discount on our plans just for black friday, chat now and st
 
 Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
 
-![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
+![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)](https://sucuri.net/live-chat/)
 
 [![Sucuri](https://sucuri.net/wp-content/uploads/elementor/thumbs/Sucuri-Logo-qio221wlg9vvaaewra0jqjt8rf04jyn1vtdestgfmi.png "Sucuri Logo")](https://sucuri.net/)
 
