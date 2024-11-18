@@ -556,73 +556,87 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Six Days in Fallujah PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-06-20t101856.525.jpg)   No 1. \-53%](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam)
+1.    [![Hearts of Iron IV: Götterdämmerung Expansion PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hearts_of_iron_iv_gtng.png)   No 1. \-47%
     
-    **[Six Days in Fallujah PC](https://www.cdkeys.com/pc/six-days-in-fallujah-pc-steam "Six Days in Fallujah PC")**
+    DLC](https://www.cdkeys.com/pc/hearts-of-iron-iv-gotterdammerung-expansion-pc-dlc-steam)
     
-    Special Price $19.79 RRP $42.09
+    **[Hearts of Iron IV: Götterdämmerung Expansion PC - DLC](https://www.cdkeys.com/pc/hearts-of-iron-iv-gotterdammerung-expansion-pc-dlc-steam "Hearts of Iron IV: Götterdämmerung Expansion PC - DLC")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-2.    [![The Sims 4 Life and Death PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/sims_4_life_and_death.jpg)   No 2. \-33%
-    
-    DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app)
-    
-    **[The Sims 4 Life and Death PC - DLC](https://www.cdkeys.com/pc/the-sims-4-life-and-death-pc-dlc-ea-app "The Sims 4 Life and Death PC - DLC")**
-    
-    Special Price $27.99 RRP $42.09
+    Special Price $20.99 RRP $39.79
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-3.    [![Sea Power: Naval Combat in the Missile Age PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/e/sea_power_naval_combat_in_the_missile_age.png)   No 3. \-38%](https://www.cdkeys.com/pc/sea-power-naval-combat-in-the-missile-age-pc-steam)
+2.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 2. \-22%
     
-    **[Sea Power: Naval Combat in the Missile Age PC](https://www.cdkeys.com/pc/sea-power-naval-combat-in-the-missile-age-pc-steam "Sea Power: Naval Combat in the Missile Age PC")**
+    Pre-order](https://www.cdkeys.com/pc/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
-    Special Price $33.09 RRP $53.49
+    **[S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://www.cdkeys.com/pc/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam "S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)")**
     
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![DRAGON QUEST III HD-2D Remake PC](https://cdn.cdkeys.com/245x340/media/catalog/product/d/r/dragon_quest_iii_hd-2d_remake.png)   No 4. \-21%](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam)
-    
-    **[DRAGON QUEST III HD-2D Remake PC](https://www.cdkeys.com/pc/dragon-quest-iii-hd-2d-remake-pc-steam "DRAGON QUEST III HD-2D Remake PC")**
-    
-    Special Price $50.39 RRP $63.69
+    Special Price $49.69 RRP $63.69
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-5.    [![Farming Simulator 25 - Year 1 Edition PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25_-_year_1_edition.jpg)   No 5. \-36%](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam)
+3.    [![Marvel's Spider-Man: Miles Morales PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fadad.jpg)   No 3. \-59%](https://www.cdkeys.com/pc/marvel-s-spider-man-miles-morales-pc-steam)
     
-    **[Farming Simulator 25 - Year 1 Edition PC](https://www.cdkeys.com/pc/farming-simulator-25-year-1-season-pass-pc-steam "Farming Simulator 25 - Year 1 Edition PC")**
+    **[Marvel's Spider-Man: Miles Morales PC](https://www.cdkeys.com/pc/marvel-s-spider-man-miles-morales-pc-steam "Marvel's Spider-Man: Miles Morales PC")**
     
-    Special Price $55.49 RRP $86.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-31%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
-    
-    **[Farming Simulator 25 PC](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
-    
-    Special Price $36.99 RRP $53.49
+    Special Price $20.99 RRP $50.99
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-7.    [![Manor Lords PC](https://cdn.cdkeys.com/245x340/media/catalog/product/m/a/manor_lords_pc.jpg)   No 7. \-57%](https://www.cdkeys.com/pc/manor-lords-pc-steam)
+4.    [![Marvel's Spider-Man Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/g/sgvsvsfv.jpg)   No 4. \-58%](https://www.cdkeys.com/pc/marvel-s-spider-man-remastered-pc-steam)
     
-    **[Manor Lords PC](https://www.cdkeys.com/pc/manor-lords-pc-steam "Manor Lords PC")**
+    **[Marvel's Spider-Man Remastered PC](https://www.cdkeys.com/pc/marvel-s-spider-man-remastered-pc-steam "Marvel's Spider-Man Remastered PC")**
     
-    Special Price $19.09 RRP $44.59
+    Special Price $26.49 RRP $63.69
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 5. \-62%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
+    
+    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
+    
+    Special Price $26.79 RRP $70.09
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+6.    [![Frostpunk 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_1.jpg)   No 6. \-47%](https://www.cdkeys.com/pc/frostpunk-2-pc-steam)
+    
+    **[Frostpunk 2 PC](https://www.cdkeys.com/pc/frostpunk-2-pc-steam "Frostpunk 2 PC")**
+    
+    Special Price $25.49 RRP $48.39
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+7.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 7. \-57%
+    
+    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
+    
+    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
+    
+    Special Price $22.89 RRP $53.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+8.    [![Crusader Kings III PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_52__1.jpg)   No 8. \-80%](https://www.cdkeys.com/pc/crusader-kings-iii-3-pc-steam)
+    
+    **[Crusader Kings III PC](https://www.cdkeys.com/pc/crusader-kings-iii-3-pc-steam "Crusader Kings III PC")**
+    
+    Special Price $10.79 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
