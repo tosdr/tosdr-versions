@@ -4,7 +4,7 @@
 
 [Le Alternative](https://www.lealternative.net/)
 
-[🔎](https://www.lealternative.net/?s=)
+[🔎](https://www.lealternative.net/cerca-nel-sito/)
 
 [MENU](https://www.lealternative.net/menu/)
 
@@ -78,7 +78,7 @@
     * [DIFFICOLTÀ ◉◉◉○](https://www.lealternative.net/difficolta-3/)
     * [DIFFICOLTÀ ◉◉◉◉](https://www.lealternative.net/difficolta-4/)
 * [À LA CARTE](https://lista.lealternative.net/)
-* [🔎](https://www.lealternative.net/?s=)
+* [🔎](https://www.lealternative.net/cerca-nel-sito/)
 
 [Menù e ricerca per No JavaScript](https://www.lealternative.net/menu/)
 
