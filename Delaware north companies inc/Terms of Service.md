@@ -65,9 +65,7 @@ IMPORTANT: READ THESE TERMS OF USE AND OUR PRIVACY POLICY BEFORE USING THE [HTTP
     
 11. This agreement is only assignable by Company.
 
-[![Delaware North home.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20142%2048'%3E%3C/svg%3E)
-
-![Delaware North home.](https://www.delawarenorth.com/wp-content/uploads/2023/02/Group-71.svg)](https://www.delawarenorth.com/)
+[![Delaware North home.](https://www.delawarenorth.com/wp-content/uploads/2023/02/Group-71.svg)](https://www.delawarenorth.com/)
 
 250 Delaware Avenue  
 Buffalo, New York 14202 USA
@@ -100,9 +98,7 @@ Legal
 * [CORPORATE STRUCTURE](https://www.delawarenorth.com/corporate-structure/)
 * [COOKIE PREFERENCES](#)
 
-[![Delaware North home.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20142%2048'%3E%3C/svg%3E)
-
-![Delaware North home.](https://www.delawarenorth.com/wp-content/uploads/2023/02/Group-71.svg)](https://www.delawarenorth.com/)
+[![Delaware North home.](https://www.delawarenorth.com/wp-content/uploads/2023/02/Group-71.svg)](https://www.delawarenorth.com/)
 
 250 Delaware Avenue  
 Buffalo, New York 14202 USA
