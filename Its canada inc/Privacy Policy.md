@@ -269,7 +269,7 @@ Privacy Officer, privacy@its-can.com
 * [Blog](https://its-can.com/blog/)
 * [FAQ](https://its-can.com/faq/)
 
-  
+   
 
  I agree to the Privacy Policy and give my permission to process my personal data for the purposes specified in the Privacy Policy.
 
