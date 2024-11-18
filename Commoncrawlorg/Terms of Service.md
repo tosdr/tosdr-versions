@@ -14,7 +14,7 @@
     
 * About
     
-    [Team](https://commoncrawl.org/team)[Mission](https://commoncrawl.org/mission)[Impact](https://commoncrawl.org/impact)[Privacy Policy](https://commoncrawl.org/privacy-policy)[Terms of Use](https://commoncrawl.org/terms-of-use)
+    [Team](https://commoncrawl.org/team)[Jobs](https://commoncrawl.org/jobs)[Mission](https://commoncrawl.org/mission)[Impact](https://commoncrawl.org/impact)[Privacy Policy](https://commoncrawl.org/privacy-policy)[Terms of Use](https://commoncrawl.org/terms-of-use)
     
 * Search
     
@@ -301,6 +301,8 @@ About
 -----
 
 ### [Team](https://commoncrawl.org/team)
+
+### [Jobs](https://commoncrawl.org/jobs)
 
 ### [Mission](https://commoncrawl.org/mission)
 
