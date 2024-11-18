@@ -206,6 +206,28 @@ Menü
     ===
     
 
+[BreakingNews
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt
+
+Viele Verletzte: Reisebus im Spreewald umgekippt](https://www.bild.de/news/viele-verletzte-reisebus-im-spreewald-umgekippt-673b88064df82f515063c283)
+
 ![](https://bild.met.vgwort.de/na/vgzm.2150080-5d2dc01ff1d2cd00016421a8)
 
  AGB: Nutzungsbedingungen für die digitalen Angebote von BILD
