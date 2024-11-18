@@ -151,7 +151,7 @@ Main navigation
     
     #### Collabs
     
-    [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel) [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
+    [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel)
     
     #### Conscious Beauty
     
@@ -335,8 +335,6 @@ Main navigation
     #### Collabs 
     
     [Morphe X Ariel](https://www.morphe.com/pages/morphe-x-ariel)
-    
-    [Morphe X Meredith](https://www.morphe.com/collections/morphe-x-meredith-duxbury)
     
     #### Conscious Beauty 
     
