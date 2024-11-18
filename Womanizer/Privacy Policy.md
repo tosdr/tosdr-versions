@@ -54,31 +54,31 @@ The store will not work correctly in the case when cookies are disabled.
     
 * [Black Friday Sale](https://www.womanizer.com/eu/sale)
     
-    * [Premium](https://www.womanizer.com/eu/premium)
     * [Next](https://www.womanizer.com/eu/next)
     * [Premium 2](https://www.womanizer.com/eu/premium-2)
+    * [Premium](https://www.womanizer.com/eu/premium)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
-    * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
-    * [DUO](https://www.womanizer.com/eu/duo)
     * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [NEW
         
         Blend](https://www.womanizer.com/eu/blend)
-    * [Pro / W500](https://www.womanizer.com/eu/w500)
-    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
     * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
-    * [Silver Delights Collection](https://www.womanizer.com/eu/silver-delights-collection)
-    * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
-    * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
+    * [Climax Collection](https://www.womanizer.com/eu/climax-collection)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
+    * [DUO](https://www.womanizer.com/eu/duo)
+    * [Pro / W500](https://www.womanizer.com/eu/w500)
+    * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
+    * [Kinky Couple Collection](https://www.womanizer.com/eu/kinky-couple-collection)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
