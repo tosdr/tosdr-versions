@@ -1,6 +1,6 @@
-**Publisher's Note:** One of the most significant things you can do to promote Liberty is to [support our mission](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us). Please [make your gift to the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us) today. Thank you! —Mark Alexander, Publisher
+**Part of our core mission?** Exposing the Left's blatant hypocrisy. Help us continue the fight and [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us) now.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_1&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_5&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
@@ -195,26 +195,26 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112061-isaiah-30-15-2024-11-17)
+     [](https://patriotpost.us/memes/112085-certify-it-2024-11-18)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34519)
+     [](https://patriotpost.us/cartoons/34527)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Gary Bauer Avoiding Past Mistakes](https://patriotpost.us/opinion/112066-avoiding-past-mistakes-2024-11-18)
+*      [Rich Lowry No, the Left Can’t Create a New Joe Rogan](https://patriotpost.us/opinion/112064-no-the-left-cant-create-a-new-joe-rogan-2024-11-18)
+*      [Jeff Jacoby The Missionary in the Parking Lot](https://patriotpost.us/opinion/112063-the-missionary-in-the-parking-lot-2024-11-18)
+*      [The Washington Stand Recess Games](https://patriotpost.us/opinion/112065-recess-games-2024-11-18)
+*      [The Babylon Bee What’s Next? Here Are 10 Great Career Options for Kamala to Consider](https://patriotpost.us/opinion/112067-whats-next-here-are-10-great-career-options-for-kamala-to-consider-2024-11-18)
 *      [Matthew Continetti Meet the New Boss](https://patriotpost.us/opinion/112020-meet-the-new-boss-2024-11-16)
 *      [Imprimis Populist Conservatism and Constitutional Order](https://patriotpost.us/opinion/112021-populist-conservatism-and-constitutional-order-2024-11-16)
 *      [The Washington Stand The 4 Stories You Missed This Week](https://patriotpost.us/opinion/112022-the-4-stories-you-missed-this-week-2024-11-16)
-*      [Jeff Jacoby The ‘Jew Hunt’ in Amsterdam Was No Anomaly](https://patriotpost.us/opinion/112027-the-jew-hunt-in-amsterdam-was-no-anomaly-2024-11-16)
-*      [Gary Bauer Smiles & Fires](https://patriotpost.us/opinion/112012-smiles-and-fires-2024-11-15)
-*      [David Harsanyi A Lesson for Democrats — Don’t Be Weird](https://patriotpost.us/opinion/112011-a-lesson-for-democrats-dont-be-weird-2024-11-15)
-*      [Michael Barone The Democratic Gerontocracy Forgets the Lessons of Its Youth and Maturity](https://patriotpost.us/opinion/112010-the-democratic-gerontocracy-forgets-the-lessons-of-its-youth-and-maturity-2024-11-15)
-*      [Victor Davis Hanson Restoring Deterrence Will Prevent Endless Wars](https://patriotpost.us/opinion/112008-restoring-deterrence-will-prevent-endless-wars-2024-11-15)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +228,15 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[Wear Your Patriotism on Your Sleeve
+
+ 
+
+Shop Now](https://patriotpostshop.com/)
 
 ### The Foundation
 
-“The steady character of our countrymen is a rock to which we may safely moor; and notwithstanding the efforts of the papers to disseminate early discontents, I expect that a just, dispassionate and steady conduct, will at length rally to a proper system the great body of our country. Unequivocal in principle, reasonable in manner, we shall be able I hope to do a great deal of good to the cause of freedom & harmony.” —Thomas Jefferson (1801)
+“The fabric of American empire ought to rest on the solid basis of THE CONSENT OF THE PEOPLE. The streams of national power ought to flow from that pure, original fountain of all legitimate authority.” —Alexander Hamilton (1787)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
