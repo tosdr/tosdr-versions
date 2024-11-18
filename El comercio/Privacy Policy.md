@@ -31,6 +31,359 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Cortes de luz se reducen desde este 18 de noviembre en Quito
+============================================================
+
+El Ministerio de Energía y Minas anunció los nuevos horarios de cortes de luz para la tercera semana de noviembre de 2024.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz continúan este 18 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-171124.jpg)
+
+El **Ministerio de Energía y Minas** anunció los nuevos **horarios de cortes de luz** para el inicio de la tercera semana de noviembre de 2024. Según el **cronograma los racionamientos** se reducen desde este 18 de noviembre en **Quito**.
+
+### Más noticias
+
+* [Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil](https://www.elcomercio.com/actualidad/ecuador/cambios-inesperados-horarios-cortes-luz-quito-guayaquil.html "Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil")
+* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz")
+* [Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz](https://www.elcomercio.com/actualidad/ecuador-colombia-acuerdo-venta-energia-solventar-cortes-de-luz.html "Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz")
+
+Horarios de los cortes de luz en Quito
+--------------------------------------
+
+La Empresa Eléctrica Quito publicó los **horarios de cortes de luz** para el 18 y 19 de noviembre del 2024. Estos horarios contemplan racionamientos de hasta ocho horas diarias de suspensión del servicio en la zona residencial. En el sector industrial los cortes también continúan.
+
+De 00:00 a 04:00 y de 12:00 a 16:00
+-----------------------------------
+
+* Miraflores
+* El Bosque
+* Andalucía
+* Conocoto
+* Cumbayá
+* Eugenio Espejo
+
+De 08:00 a 12:00 y de 20:00 a 24:00
+-----------------------------------
+
+* Luluncoto
+* La Floresta
+* Nueva Cumbayá
+* Eplicachima
+
+Desde 02:00 a 06:00 y de 19:00 a 23:00
+--------------------------------------
+
+* La Carolina
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+De 08:00 a 12:00 y de 20:00 a 24:00
+-----------------------------------
+
+* Chimbacalle
+* Belisario Quevedo
+* Iñaquito
+* Inga Bajo
+
+De 07:00 a 11:00 y de 20:00 a 24:00
+-----------------------------------
+
+* Chilibulo
+* Granda Centeno
+* Río Coca
+
+Desde 04:00 a 08:00 y de 16:00 a 20:00
+--------------------------------------
+
+* Gualo
+* Sangolquí
+
+De 02:00 a 06:00 y de 14:00 a 18:00
+-----------------------------------
+
+* Barrionuevo
+* Santa Rosa
+* El Quinche
+
+Desde 10:00 a 14:00 y de 20:00 a 24:00
+--------------------------------------
+
+* Olímpico
+* Cristianía
+* San Antonio
+* Alangasí
+
+Revise aquí los horarios de cortes para cada sector:
+----------------------------------------------------
+
+Los cortes de luz programados empezaron el 23 de septiembre de 2024, debido a las críticas condiciones hidrológicas y climáticas en las zonas en las que se encuentran las principales hidroeléctricas del país y han llegado hasta 14 horas diarias. Esta semana se reducirán los cortes debido a una mejora en los caudales de los ríos de la zona oriental del país y a la entrega de energía desde **Colombia**.
+
+Pedro Pascal es fan del pan, los elefantes y ¿qué más?
+======================================================
+
+Además, se toma fotos siempre de la misma forma y no tiene pareja por un particular razón.
+------------------------------------------------------------------------------------------
+
+![Pedro Pascal es un actor chileno que triunfa en Hollywood.](https://www.elcomercio.com/wp-content/uploads/2024/11/pascal-El-Comercio.jpg)
+
+**Pedro Pascal** es el general romano **Marcus Acacius**, en ‘**[Gladiador 2](https://youtu.be/HCjuv9STNps?si=VVfSx2QhmEF6wZTu "https://youtu.be/HCjuv9STNps?si=VVfSx2QhmEF6wZTu")**‘ (2024). También ha sido **Joel Miller** en la serie ‘**[The last of us’](https://www.imdb.com/title/tt3581920/ "https://www.imdb.com/title/tt3581920/")** y una decena de personajes más.
+
+También es una de las estrellas más queridas de Hollywood y un **fanático del pan y los elefante**s. Confesó que su desayuno favorito es la marraqueta con aguacate y aceite de oliva.
+
+Los elefantes también son de su agrado, al punto que su película favorita de Disney es ‘**[Dumbo](https://www.imdb.com/title/tt3861390/ "https://www.imdb.com/title/tt3861390/")**‘. ¿Qué más es Pedro Pascal? A continuación, te lo contamos.
+
+### Más noticias
+
+* **[Batman, Beetlejuice y las otras caras de Michael Keaton](https://www.elcomercio.com/afull/batman-beetlejuice-michael-keaton-cumpleanos-septiembre.html "https://www.elcomercio.com/afull/batman-beetlejuice-michael-keaton-cumpleanos-septiembre.html")**
+* **[¿Cómo celebró P. Diddy su cumpleaños en la cárcel?](https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html "https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html")**
+
+Su carrera ha alcanzado alturas insospechadas, protagonizando éxitos como ‘The Mandalorian’, donde hace de canguro intergaláctico de Baby Yoda, o la serie ‘The Last of Us’, que ha conquistado al público.
+
+Detrás de este personaje carismático y multifacético, que lleva en alto su lado latino en cada paso, se encuentra **José Pedro Balmaceda Pascal**, un chileno que nunca ha dejado de sentir orgullo por sus raíces.
+
+**Su historia de exilio y conexión con Chile**
+----------------------------------------------
+
+Nacido en **Santiago de Chile,** Pedro, sus hermanos y sus papás debieron abandonar el país durante la dictadura militar. Cuando era un niño, sus padres se refugiaron primero en Dinamarca y luego se establecieron en Estados Unidos, donde Pascal se formó como actor. Un hecho que lo marcó fue el suicidio de su madre.
+
+Aunque creció en una mezcla de culturas y pasó gran parte de su vida en Norteamérica, el actor no ha dejado de sentir una conexión especial con su país natal. “Chile es mi hogar”, ha declarado en entrevistas. Para Pascal, ser chileno es parte fundamental de su identidad y reconoce que, a pesar de haber crecido en distintos lugares, Chile ha dejado una huella profunda en su vida.
+
+**La hermana trans de Pedro Pascal**
+------------------------------------
+
+Un aspecto que reafirma la conexión de Pascal con Chile es el orgullo que siente por su familia, especialmente por su hermana Lux, una mujer trans que hizo público su cambio de género en 2021.
+
+En un gesto conmovedor y de apoyo incondicional, Pedro compartió una foto en [Instagram](https://www.instagram.com/pascalispunk/ "https://www.instagram.com/pascalispunk/") con el mensaje en español: “Mi hermana, mi corazón, nuestra Lux”, mostrando su amor y respaldo.
+
+Su visible apoyo a Lux y la cercanía con su familia chilena lo muestran no solo como una estrella de Hollywood, sino como una persona profundamente conectada a sus raíces y valores.
+
+**Pedro Pascal y Bad Bunny**
+----------------------------
+
+Pedro Pascal es un tipo _cool_. Durante una incursión en **Saturday Night Live** lo demostró.
+
+No dudó en reírse de los estereotipos latinos en Estados Unidos y encarnó, junto a Bad Bunny, una caricatura de señora latina. En un _sketch_ lleno de humor, ambos se vistieron de señoras latinas, representando a esas figuras matriarcales que son tan reconocibles en la cultura latina.
+
+En otro momento, en cambio, Pascal dejó salir su _flow_ al lanzarse a un buen perreo en el set. Para el actor, este tipo de intervenciones es una oportunidad de reírse de los estereotipos.
+
+**La misma pose en cada foto**
+------------------------------
+
+Durante una alfombra roja, el actor le reveló a su coestrella Bella Ramsey, que su típica forma de posar en las fotos con la mano sobre el pecho o sobre su estómago es un truco que emplea para lidiar con su ansiedad.
+
+‘**Chao pescao**‘
+-----------------
+
+Pedro no se ha olvidado del lenguaje que lo conecta con Chile. Tras expresar su apoyo a la congresista estadounidense Alexandria Ocasio-Cortez, un usuario de Twitter lo criticó llamándolo “comunista”, a lo que él respondió con un chilenismo clásico: “chao pescao”.
+
+Este gesto, celebrado por sus seguidores chilenos, muestra cómo el actor sigue conectado con su identidad y con su idioma, algo que lo mantiene cercano a sus seguidores latinos.
+
+**La pelea que perdió, pero le dio la victoria**
+------------------------------------------------
+
+Por algo es de los actores que triunfa en Hollywood. Para su icónico papel de Oberyn Martell en la serie ‘Juego de Tronos’, justo el que le dio el salto a la fama, entrenó con un maestro Wushu para la famosa pelea contra la Montaña. Aunque el resultado en la serie no fue favorable para él, la escena sigue siendo una de las más espectaculares de la serie.
+
+**De nadador a actor**
+----------------------
+
+Cuando era adolescente, Pascal pensaba en convertirse en nadador profesional. Incluso participó en competiciones a los 11 años. Sin embargo, su vida dio un giro cuando se unió al taller de teatro, donde descubrió su verdadera pasión por la actuación.
+
+**Le gusta la ciencia ficción**
+-------------------------------
+
+A pesar de no haber trabajado aún en un proyecto de ciencia ficción, Pedro Pascal es un gran aficionado al género. ‘[Alien](https://www.imdb.com/title/tt0078748/ "https://www.imdb.com/title/tt0078748/")‘ es una de sus películas favoritas y Galáctica, Estrella de Combate ocupa un lugar especial en su lista de series.
+
+¿Por qué no le conocemos ninguna pareja?
+----------------------------------------
+
+El actor reveló en entrevistas que le tiene mucho miedo al dolor y que a ello se debe que generalmente evite tener relaciones de pareja.
+
+Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil
+=============================================================================================
+
+Los horarios de cortes eléctricos en Quito variaron inesperadamente este fin de semana. Hubo falta de información oficial sobre los ajustes.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los cortes de luz se redujeron inesperadamente este 17 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/luz-cortes-1711.jpg)
+
+Este domingo, 17 de noviembre de 2024, hubo cambios inesperados en los **horarios de cortes de luz** en Quito y Guayaquil. Los ciudadanos reportaron modificaciones significativas en los horarios durante el fin de semana, acompañados de una ausencia de **comunicación oficial** sobre el cronograma para los próximos días.
+
+### Más noticias
+
+* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz")
+* [Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz](https://www.elcomercio.com/actualidad/ecuador-colombia-acuerdo-venta-energia-solventar-cortes-de-luz.html "Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz")
+* [Los cortes de luz serán así este domingo 17 de noviembre en Quito](https://www.elcomercio.com/actualidad/los-cortes-de-luz-seran-asi-este-domingo-17-de-noviembre-en-quito.html "Los cortes de luz serán así este domingo 17 de noviembre en Quito")
+
+Hasta las 18:00 del domingo, el **Ministerio de Energía** no emitió información sobre ajustes en los cortes programados ni sobre el **nuevo cronograma** para la tercera semana de noviembre.
+
+Desde la tarde del sábado 16, **usuarios en redes sociales** indicaron que los cortes se redujeron entre dos y seis horas, aunque los cambios no fueron uniformes en toda la ciudad.
+
+En la **zona de La Carolina**, al norte de **Quito**, el corte previsto para las 15:00 del domingo no se ejecutó hasta pasadas las 18:00. Aunque los residentes se alegraron por la continuidad del servicio, la falta de claridad les generó intranquilidad.
+
+> [#EEQinforma](https://twitter.com/hashtag/EEQinforma?src=hash&ref_src=twsrc%5Etfw) | Recordamos que la programación de cortes está sujeta a la variabilidad en la oferta de generación que se controla en tiempo real.  
+>   
+> Los cambios en los horarios de servicio eléctrico puede variar dentro de los programados si las condiciones hidrológicas son… [pic.twitter.com/tflLE8wUJb](https://t.co/tflLE8wUJb)
+> 
+> — Empresa Eléctrica Quito (@ElectricaQuito) [November 17, 2024](https://twitter.com/ElectricaQuito/status/1858171337358836076?ref_src=twsrc%5Etfw)
+
+“¿Significa que nos cortarán la luz más tarde?”, preguntó un usuario en la red social X, cuestionando a la Empresa Eléctrica Quito (EEQ).
+
+La EEQ respondió que el cronograma establecido sigue vigente, pero que los horarios están sujetos a la “variabilidad o mejora de la oferta de generación en tiempo real”, sin proporcionar mayores detalles sobre los cambios.
+
+“Recordamos que la programación de cortes está sujeta a la **variabilidad en la oferta** de generación que se **controla en tiempo real.** Los cambios en los horarios de servicio eléctrico puede variar dentro de los programados si las condiciones hidrológicas son favorables”.
+
+Cambios en los horarios en otras ciudades
+-----------------------------------------
+
+La situación fue similar en otras ciudades del país. En algunos sectores de Guayaquil, los cortes comenzaron con una hora de retraso, aunque se restablecieron en los horarios inicialmente previstos. Los ciudadanos esperan una actualización oficial del cronograma.
+
+Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre
+===================================================================================
+
+Las fuertes lluvias generan acumulación de agua y riesgo en vías. El clima afectará especialmente a la Sierra y Amazonía.
+-------------------------------------------------------------------------------------------------------------------------
+
+![El Inamhi advierte de lluvias de intensidad en la zona norte y de la Sierra y de la Amazonía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-49.jpg)
+
+La Secretaría de Gestión de Riesgos emitió una **advertencia meteorológica** ante la posibilidad de acumulación de agua y deslaves en zonas del centro y norte del país, por lluvias, en la semana del 18 al 22 de noviembre de 2024. Las lluvias intensas afectarán las vías y podrían generar desbordamientos, especialmente en la Sierra y Amazonía[.](https://es.wikipedia.org/wiki/Regiones_geogr%C3%A1ficas_del_Ecuador "https://es.wikipedia.org/wiki/Regiones_geogr%C3%A1ficas_del_Ecuador")
+
+Más noticias
+------------
+
+* [Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro](https://www.elcomercio.com/actualidad/ecuador/inamhi-condiciones-clima-hidroelectricas-austro.html "Inamhi alertó condiciones del clima en las zonas de las hidroeléctricas del Austro")
+* [Inamhi prevé altos niveles de lluvias en cinco provincias](https://www.elcomercio.com/actualidad/ecuador/inamhi-niveles-altos-lluvias-provincias.html "Inamhi prevé altos niveles de lluvias en cinco provincias")
+
+Las lluvias se intensifican en la semana del 18 al 22 de noviembre
+------------------------------------------------------------------
+
+Las lluvias en Ecuador se intensificarán en las **próximas horas**, según el reciente reporte de la Secretaría de Gestión de Riesgos (SGR). La Advertencia Meteorológica N° 63 señala que las precipitaciones impactarán de forma severa en áreas de la Región Interandina y Amazonía, lo que provocará acumulación de agua en viviendas, negocios y caminos.
+
+Las autoridades recomiendan precaución ante **posibles desbordamientos** de ríos en áreas con mayor saturación de humedad, particularmente en las estribaciones de la cordillera oriental, donde la intensidad de las lluvias será más alta.
+
+Tomar precauciones
+------------------
+
+En estas regiones, los conductores deberán tomar precauciones ante la presencia de agua estancada en las vías, la posible aparición de bancos de niebla y el **riesgo de deslaves**. Las lluvias previstas responden a la influencia de masas de aire húmedo provenientes de la Amazonía, las cuales, al interactuar con **vientos convergentes** y el calentamiento diurno, crean condiciones climáticas en las que se intensifica la actividad de lluvias y tormentas en las **zonas afectadas**.
+
+> [#AdvertenciaMeteorológica](https://twitter.com/hashtag/AdvertenciaMeteorol%C3%B3gica?src=hash&ref_src=twsrc%5Etfw) #63 l Entre el 18 y 22 de noviembre se prevén precipitaciones de variable intensidad con tormentas en estribación de cordillera de la Amazonía, norte de la Sierra y zonas puntuales del centro y sur de la región 🌦️🌧️⛈️  
+> Mayor detalle en boletín.⚠️ 👇 [pic.twitter.com/bIILdKYLa9](https://t.co/bIILdKYLa9)
+> 
+> — INAMHI Ecuador 🇪🇨 (@inamhi\_ec) [November 17, 2024](https://twitter.com/inamhi_ec/status/1858201296563507300?ref_src=twsrc%5Etfw)
+
+La SGR ha emitido recomendaciones específicas para evitar **accidentes y daños mayores**. La entidad aconseja evitar refugiarse bajo árboles durante las tormentas, así como no manipular herramientas u objetos metálicos que puedan atraer rayos en caso de **tormenta eléctrica**.
+
+Revisar las actualizaciones
+---------------------------
+
+Además, la SGR reitera la importancia de estar **atentos a los pronósticos** y a las actualizaciones meteorológicas oficiales, pues estas podrían ampliarse para incluir a mayor número de localidades en riesgo. En caso de desbordamientos, la entidad ha dispuesto **puntos de evacuación** y albergues en comunidades vulnerables, particularmente en áreas cercanas a ríos y quebradas de alta actividad pluvial.
+
+Las autoridades continuarán monitoreando el **desarrollo de las lluvias** en las próximas horas y mantendrán informada a la ciudadanía sobre cualquier cambio en la situación meteorológica. La advertencia también incluye la posibilidad de cierres **temporales** de vías en las zonas más afectadas, en caso de que las condiciones pongan en riesgo la **seguridad** de los transeúntes y automovilistas.
+
+Richard Huera ganó la Vuelta al Ecuador 2024
+============================================
+
+La Vuelta Ciclística al Ecuador 2024 se cerró en la Mitad del Mundo, extremo norte de Quito.
+--------------------------------------------------------------------------------------------
+
+![Richard Huera, campeón de la Vuelta Ciclística al Ecuador 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/huera_campeon_1.jpg)
+
+La Vuelta al Ecuador de ciclismo 2024 llegó a su fin con la séptima etapa del evento. **El ecuatoriano Richard Huera del Movistar Best PC** mantuvo el primer puesto, conseguido en la etapa previa, y se coronó campeón del certamen.
+
+Para la carrera final de la competencia, 66 corredores partieron desde la **línea de largada que se llevó a cabo en Atuntaqui (Imbabura)**. Desde aquel punto se estableció un recorrido de 159, 48 kilómetros de ruta hasta Quito (Pichincha) donde en la Mitad del Mundo se celebraría la llegada.
+
+### Más noticias:
+
+* [Los retirados del Team Esparza hacen ‘trabajo invisible’ en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/ciclismo/esparza-training-vuelta-ecuador.html "Los retirados del Team Esparza hacen ‘trabajo invisible’ en la Vuelta a Ecuador")
+* [Mike Tyson explicó la razón de morder sin parar su guante](https://www.elcomercio.com/deportes/boxeo/mike-tyson-muerde-guamtes-paul.html "Mike Tyson explicó la razón de morder sin parar su guante")
+* [La Selección de Ecuador entrenó en Guayaquil y prepara maletas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-entrenamiento-colombia-mundial.html "La Selección de Ecuador entrenó en Guayaquil y prepara maletas")
+
+El trazado contó con tres puertos de montaña de primera categoría que se alternaron con la misma cantidad de metas volantes. Los primeros se **establecieron en en los kilómetros 35,62; 86’28 y 149,9**; mientras que las segundas en los kilómetros 63,87; 74,3 y 118,5.
+
+De cara a la etapa, Huera llegaba con el jersey amarillo de líder por primera vez durante toda la Vuelta, sin embargo, era favorito por el margen de diferencia que había sacado. **David Villarreal del CYS Technology, líder de metas volantes**, también era el virtual ganador de dicha clasificación al igual que Joffre Imbaquingo del Gian Toscana en la de mejor ciclista juvenil.
+
+El premio de montaña, que fue el que más cambió de manos durante el certamen, era el que mantenía dudas y expectativa. En un **inicio le perteneció a Segundo Navarrete del Giant Toscana**, luego paso a manos de Juan Carlos Córdova del CYS Technology, quien lo cedió a Javier Jamaica del Team Medellín y lo recuperó en la penúltima etapa.
+
+Escaladores y velocistas se movieron entre sí en la última etapa de la Vuelta al Ecuador
+----------------------------------------------------------------------------------------
+
+El primer puerto de montaña de la etapa fue coronado por Robingson Oyola del Team Medellín. Le siguieron David Villarreal y Bryan Rosero.
+
+Tras su irrupción en la escalada, **Rosero consiguió mantenerse unos momentos más en los sitiales altos** de la carrera. La primera meta volante también se la llevó él.
+
+Antes de la segunda meta se estableció la primera fuga del día con los ya mencionados ciclistas. A estos se le sumaron Javier Jamaica, Juan Carlos Córdova y Segundo Navarrete. Cuando se cruzó aquel espacio, Villarreal volvió a lucirse y pasó primero.
+
+Rumbo al siguiente puerto de montaña, la fuga se acortó aún más y puso a **Jamaica, Córdova, Navarrete y Rosero a 50 segundos** del pelotón principal. A raíz de aquel punto, la puja se mantuvo frente a la tercera meta volante y el tercer puerto.
+
+Los ganadores de la Vuelta al Ecuador 2024
+------------------------------------------
+
+El primero que pasó la meta en la última etapa de la Vuelta a Ecuador fue Córdova, que tuvo un debut soñado en la Vuelta al Ecuador y cerró el certamen.
+
+En la tabla general, **Richard Huera del Movistar Team celebró** y se hizo con el título de la Vuelta a Ecuador.
+
+Villarreal levantó los brazos con el premio de metas volantes e Imbaquingo con el de mejor juvenil.
+
+La clasificación de montaña la cerró el mismo **Juan Carlos Córdova**. Este logró superar el desafío y se hizo con el jersey de puntos rojos.
+
+San viernes
+-----------
+
+Animes y mangas de Akira Toriyama después de ‘Dragon Ball’
+==========================================================
+
+Akira Toriyama continuó creando mangas luego de haber lanzado la historia de Goku.
+----------------------------------------------------------------------------------
+
+![Goku es el protagonista del anime más exitoso de Akira Toriyama. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/El-Comercio-11.jpg)
+
+**Akira Toriyama** es considerado uno de los mejores mangakas de la historia. Con su anime ‘Dragon Ball’ marcó la vida de muchos jóvenes.
+
+Más noticias
+
+* [Dragon Ball Daima evoca a Dragon Ball GT](https://www.elcomercio.com/afull/dragonball-daima-dragonball-gt.html "https://www.elcomercio.com/afull/dragonball-daima-dragonball-gt.html")
+* [¿Por qué Gokú tiene ese peinado y otras curiosidades de Dragon Ball?](https://www.elcomercio.com/tendencias/goku-dragon-ball-curiosidades-akira-toriyama.html "https://www.elcomercio.com/tendencias/goku-dragon-ball-curiosidades-akira-toriyama.html")
+
+Dragon Ball y Akira Toriyama
+----------------------------
+
+Tras haber ilustrado el manga que lo catapultó a la fama mundial, Akira siguió creando nuevas historias y mangas. Aunque Akira Toriyama falleció el 1 de marzo de 2024, su legado perdurará por mucho tiempo.
+
+Por este motivo, hemos realizado una lista de los animes y mangas que realizó Akira después de ‘Dragon Ball’.
+
+Animes y mangas de Akira Toriyama
+---------------------------------
+
+**Mamejirou-kun (1988)**
+
+Akira creó este manga que retrata la historia de un chico que sueña con ser delincuente, pero siempre termina haciendo el bien. Por ejemplo, el protagonista intenta robar a una persona por venganza y termina interceptando a un criminal.
+
+**Go! Go! Ackman (1993)**
+-------------------------
+
+La historia gira en torno a un niño demonio llamado Ackman que despierta después de 50 años. Su misión es matar a las personas para darle las almas al Señor Oscuro. Este manga humorístico corto consta de 11 capítulos de cinco o seis páginas cada uno. Tuvo una adaptación de un cortometraje de 15 minutos, pero no está disponible en streaming para América Latina.
+
+**Cowa! (1997)**
+----------------
+
+Este manga marcó el regreso de Akira a la ilustración tras acabar de trabajar en ‘Dragon Ball’ y disfrutar de sus merecidas vacaciones. La historia presenta un personaje mitad vampiro mitad hombre koala, quien tiene buen corazón, pero se transforma en un ser temible cuando ve una cruz por más de tres segundos. La única forma de regresar a su estado normal es que vea un objeto redondo.
+
+**Kajika (1998)**
+-----------------
+
+Este manga gira en torno a Kajika, un joven huérfano del clan Kawa que de pequeño se dedicaba a hacer travesuras. En medio de una de sus travesuras, Kajika mata a un zorro, el cual regresa en forma de espíritu para maldecirlo. Como penitencia, el protagonista tiene que salvar a mil seres vivos para ser perdonado.
+
+**Jiya (2009)**
+---------------
+
+Este manga narra la historia de Jiya, un oficial de la Patrulla Galáctica que investiga a Vampa, quien supuestamente aterra a la Tierra con un ejército de pulgas gigantes. Este ejército ataca solamente a jóvenes y mujeres hermosas. A su llegada a la Tierra, Jiya se da cuenta de que el planeta es muy distinto a lo que le contaron.
+
+Videojuegos de Akira Toriyama
+-----------------------------
+
+Aunque Akira Toriyama es reconocido por sus mangas y animes, el artista también incursionó en el mundo de los videojuegos. Su interés por explorar diferentes campos lo llevó a crear los personajes de Chrono Trigger, un videojuego de rol que se hizo popular en 1995. Este videojuego, pensado originalmente para SNES, tuvo tanto éxito que en 1999 fue adaptado para PlayStation.
+
 John Pólit se declaró culpable en EE.UU., pero en Ecuador fue absuelto
 ======================================================================
 
@@ -764,114 +1117,6 @@ Sin embargo, este año se presenta un desafío adicional: la luna llena, conoci
 
 Además, **se aconseja ser paciente y observar lo más tarde posible**, ya que es probable que se vean más Leónidas antes del amanecer que cerca de la medianoche. 
 
-Dos empresas textiles de Otavalo generan energía limpia con paneles solares
-===========================================================================
-
-Con sus plantas fotovoltáicas cubren parte de su necesidad de energía y reducen su huella de carbono.
------------------------------------------------------------------------------------------------------
-
-![Indutexma cuenta con 1440 paneles solares, que le permite cubrir el 35% de su requerimiento de energía eléctrica. Foto: Diego Pallero](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-50-1.jpg)
-
-La crisis energética que afecta a Ecuador, impulsada por el estiaje, no sorprendió a dos empresas textiles de Otavalo-Imbabura, al norte del país. 
-
-Más noticias
-------------
-
-* [El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar](https://www.elcomercio.com/videos/el-colegio-aleman-de-quito-logra-la-suficiencia-energetica-con-proyecto-solar.html "El Colegio Alemán de Quito logra la suficiencia energética con proyecto solar")
-* [Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’](https://www.elcomercio.com/actualidad/negocios/ministra-energia-ajustense-cinturones-vienen-sacudones.html "Ministra de Energía: ‘Ajústense los cinturones, se vienen sacudones’")
-
-Motivadas por el compromiso de ser menos contaminantes, estas empresas comenzaron a explorar opciones para generar su propia energía mediante paneles solares. 
-
-Se trata de Empresas Pinto, que confecciona prendas de vestir e Indutexma, que produce telas. 
-
-Se trata de Empresas Pinto, dedicada a la confección de prendas, e Indutexma, que produce telas. Ambas compañías identificaron el alto nivel de radiación solar en la región como una oportunidad para implementar plantas fotovoltaicas.
-
-Energía solar, una solución efectiva en Otavalo
------------------------------------------------
-
-Empresas Pinto instaló 558 paneles solares de origen chino en el techo de su fábrica, Con esto cubre el 50% de su consumo mensual de energía. Desde 2021, la empresa se conectó a Emelnorte mediante un medidor bidireccional, permitiendo un autoconsumo de hasta 300 kWh mensuales.
-
-Por otro lado, Indutexma, con un consumo energético más alto (dos megas), adquirió 1 440 paneles solares de China. Con esto genera 750 kWh, lo que cubre una media de 35% de sus necesidades mensuales. Ambas empresas se benefician de la energía solar, incluso durante la prolongada sequía que enfrenta el país.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-51-1-1024x683.jpg)
-
-Empresas Pinto tiene 558 paneles solares, con los que cubren el 50% de su consumo energético mensual.
-
-**¿Cómo afrontan los cortes de hasta 14 horas?** 
--------------------------------------------------
-
-Ambas empresas operan 24 horas al día, de lunes a viernes. Los fines de semana sus horarios suelen variar. Octubre pasado y este noviembre son meses de alta demanda por la temporada navideña. Pero enfrentan cortes de energía de hasta 14 horas diarias. 
-
-Pinto produce 18 toneladas de tela al mes para confeccionar 80 mil prendas, puntualiza Esteban La Fuente, jefe de planta. Para garantizar la continuidad de su producción cuentan con tres generadores de 288, 150 y 120 kva, que operan a diésel. 
-
-Andrea Nieto, coordinadora del taller de Confección de Pinto, asegura que su personal sigue trabajando con normalidad. El color blanco, rojo y verde de las telas resalta en esta área. 
-
-Indutexma, que fabrica 180 toneladas de tela al mes para distribución nacional y un 10% se exporta a Colombia, tampoco para. Su gerente Patricio Moreno, cuenta que contaban solo con un generador de 450 kvW, pero en abril de 2024 decidió comprar dos más. 
-
-Conscientes de la llegada del estiaje obtuvieron uno de 388 y otro de 350 kvW.  “Si bien no tenemos el 100%, nos defendemos bastante bien. Seguimos trabajando las 24 horas. No todas las máquinas que tenemos pueden producir al mismo tiempo”. 
-
-**Producción de energía solar en otras localidades**
-----------------------------------------------------
-
-Actualmente, Indutexma es la empresa que más energía limpia produce seguida de Empresas Pinto, en Otavalo. No hay más compañías con este tipo de iniciativas. 
-
-En Pedro Moncayo (Pichincha), la empresa Supasta Mama Berni, que elabora lasaña y tallarines, cubre su demanda de energía en un 39%, según los registros de Emelnorte.  
-
-En menor medida, Hoja Verde y Josarflor, de Cayambe apenas generan 5% y 3%, respectivamente.
-
-Por otro lado, el Ministerio del Ambiente entregó [licencias ambientales](https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html "https://www.elcomercio.com/actualidad/negocios/gobierno-entrega-licencias-ambientales-para-proyectos-de-energia-renovable.html") para la ejecución de proyectos fotovoltáicos que generarán 399,85 megavatios (MW), en Imbabura.
-
-La central Imbabura Solar tendrá una potencia de 120 MW y operará en Ibarra; la central Ambi Solar, estará entre Antonio Ante e Ibarra con otros 60 MW de potencia. En Urcuquí, una zona de alta radiación solar, contará con dos proyectos: Intiyana y Urcuquí Solar. Entre ambas generarán 120 MW. 
-
-Adicionalmente, están las [plantas Salinas y Tren Salinas](https://www.gransolar.ec/es/projects.html#:~:text=Proyectos&text=Gran%20Solar%20es%20el%20promotor,5.1%20kWh/m2/d%C3%ADa.) de potencia nominal de salida de 2 MW y 999 KW, respectivamente. Estas plantas están a 5 km de la vía Salinas-Urcuquí.  
-
-**Impacto ambiental y ahorro con energía solar**   
----------------------------------------------------
-
-Patricio Moreno explica que invirtió 600 mil dólares en armar su planta fotovoltaica, que incluye dos inversores alemanes que convierten la energía solar en alterna para consumo. El retorno de esta inversión se ve en la planilla mensual, que en su caso alcanzaba los 40 mil dólares. En los dos últimos años ha tenido una disminución del 35%. Por otra parte, ha dejado de emitir al ambiente 223 toneladas de Co2 al año. 
-
-Pinto también ve reducida su factura de ocho mil dólares mensuales al 50%. Su inversión fue de 352 mil dólares. Su aporte al mejoramiento del medio ambiente, desde el 2021 ha sido de 247 toneladas de Co2, que equivale a 24 mil árboles.  
-
-**Proyección a futuro: autosustentabilidad energética**
--------------------------------------------------------
-
-De acuerdo con un estudio de sombras que se realizó en Indutexma, todavía cuentan con espacio para colocar más paneles solares y llegar a ser autosustentables en un 50%, durante este 2025. 
-
-Para cubrir el otro 50% están planificando ampliar el número de paneles en una propiedad cercana (a 4 km) a la planta principal. 
-
-Pinto apunta a ser autosustentable en un 100% el próximo año. De esta manera continuará reduciendo su huella de carbono. Hay que destacar que esta empresa comenzó en 1913 generando energía para Otavalo. Hoy junto con Indutexma son una muestra de innovación en medio de la crisis energética nacional del Ecuador. 
-
-**Otros proyectos ambientales y tecnológicos** 
------------------------------------------------
-
-Además, de la energía solar ambas compañías trabajan en proyectos de mejoramiento de su tecnología para reducir el consumo de agua por kilogramo de tela. La industria textil, de manera general, es altamente contaminante y demanda mucha agua. 
-
-Frente a esto,  las dos cuentan con vertientes de agua subterráneas y, por ley tienen plantas de tratamiento de agua. Además, su producción se realiza con GLP en vez de búnker o diesel, que es menos contaminante. 
-
-Indutexma también desarrolla un proyecto de la mano de una empresa italiana para tintura de prendas con productos naturales. Tras ocho meses de trabajo en laboratorio ya cuentan con una gama de colores pasteles con buena solidez a la luz y al agua. Los tintes son extraídos del eucalipto, nueces, col morada, achiote, cebolla, cúrcuma y chilca. Tienen previsto industrializar el proceso este 2025 y, con esto ser menos mucho menos invasivos y más naturales en el proceso de producción.  
-
-A esta iniciativa se suma la emisión de bonos de carbono, la estampación en tela que es menor contaminante y han sacado certificaciones como el de carbono neutral o para algodón orgánico. 
-
-Turismo al Salón du Chocolat
-============================
-
-El futuro del chocolate ecuatoriano en Europa se vislumbra prometedor con estrategias centradas en el apoyo gubernamental a grandes y pequeños productores.
------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Guido Calderón, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Guido-Calderon-1.jpg)
-
-El “**Salon du Chocolat de París**”, celebrado del 30 de octubre al 3 de noviembre de 2024, ha sido una **plataforma crucial** para que **marcas ecuatorianas** de **chocolate** destaquen en el escenario internacional. Este evento anual, que atrae a más de 90.000 visitantes, ha permitido a marcas como Kamm, Leyenda, Mindo y Yumbos presentar sus excelentes productos en el stand “Casa Ecuador”. Además, otro estand auspiciado por el CONGOPE donde vi la marca Aromaz de Zamora Chinchipe
-
-El año anterior, con la sola asistencia del **Consejo Provincial de Pichincha**, la presencia de Ecuador en el Salón de París fue fuerte, notoria, la prefecta Pavón dio una conferencia en un escenario donde pocos tienen ese **privilegio**. Eso mereció una **declaratoria de capitalidad.** Este año **Perú** se llevó el **protagonismo** como cuna del cacao.
-
-Sin embargo, la **energía y el compromiso de empresarios ecuatorianos** como Mauro Quispe son insuperables. Luego de haberlo visto en e**l Festival del Chocolate de Gaia en Portugal y en París**, volví a ver a Mauro con micrófono en mano, animando el Chocomad en Málaga. Difícil encontrar un ecuatoriano que trabaje con tanta **energía** por realzar el nombre de **Ecuador** desde hace varios años y que tenga los contactos en Europa como para organizar un evento en España, con el auspicio de entidades de ese país. Su marca de **chocolate** “leyenda” trabaja con cacaos de **comunidades** de **Esmeraldas** y sus botellas de espumante de cacao tienen gran acogida despertando **curiosidad** y **admiración**.
-
-Por su parte, la marca Kamm liderada por Michel Cammoun se distingue por sus innovaciones. Kamm no contiene azúcar, gluten ni leche, usa cacao de la **comunidad** Chachi. Sus **procesos** de **cristalización** de **frutas y extractos** ofrecen una experiencia sensorial única. Michel Cammoun está revolucionando la **industria del chocolate** con **sostenibilidad**, **responsabilidad social**, apoyo a las **comunidades indígenas**, promoviendo métodos de **cultivos tradicionales**.
-
-Independientemente de la volatibilidad de los **precios**, el **cacao ecuatoriano** tienen excelente reputación y siempre habrá **demanda** de nuestra materia prima; pero con un **incremento** anual del 4% de consumo de **chocolate en Europa**, es el momento para que **Ecuador** este presente en todos sus **eventos internacionales** con marcas premium que abran **mercados** a **chocolates** de alta gama, en una Europa inundada de **chocolates** sucedáneos y con **consumidores** que están demandando **chocolates** de verdad, de calidad, con trazabilidad, comercio justo y que brinden nuevas **experiencias**, **sabores** y **texturas**.
-
-El **futuro** del **chocolate ecuatoriano** en **Europa** se vislumbra prometedor con **estrategias** centradas en el **apoyo gubernamental** a grandes y pequeños **productores** de variedades por **pisos climáticos,** regiones y subregiones, lo que nos da más de 500 variedades de cacaos con historias que contar.
-
 Sacando del camino
 ==================
 
@@ -893,149 +1138,3 @@ Lo dado, más allá de las simpatías o antipatías que pueda generar Abad, cons
 **Tres.- Conclusiones:**  Parecería que: **a.-** Las luces de la **racionalidad jurídica**, en el tema de Abad particularmente, se han apagado totalmente en Carondelet; y, como si fuera poco, un problema personal entre ambos **mandatarios**, por la falta de sensatez de estos, ha derivado en un **problema nacional** con **alcance internacional**, cuyos primeros coletazos quizás se sintieron en la **Cumbre Iberoamericana de Cuenca. b.-** Hasta que dicha resolución no sea revocada o declarada **inconstitucional**, se habría marcado un peligroso y **antidemocrático** antecedente, en el sentido de que, para deshacerse de un vicepresidente y, consecuentemente y por qué no de un presidente, bastaría para el efecto, un **sumario administrativo**. **c.-** La resolución del TCE, favorable a los **intereses de reelección del ejecutivo**, despierta y deja más dudas que certezas…
 
 La pregunta que salta sobre la **mesa de la opinión pública** es, lo dado, corresponde ¿al nuevo país o las **malas prácticas** del viejo país?
-
-Cartas a Quito / 17 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este domingo 17 de noviembre de 2024
---------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Seis hábitos que demuestran que una persona es inteligente 
------------------------------------------------------------
-
-Varios estudios en algunas universidades de Estados Unidos y en otros países y algunos estudiosos de la psicología humana han logrado determinar que podría considerarse una mayor inteligencia en ciertas personas, si se observa que cumplen con las siguientes condiciones: 
-
-1.Disfrutan estar solos.-  Las personas con un alto cociente intelectual disfrutan pasar tiempo solos. Además, también podrían sentirse incómodos en las aglomeraciones. Esto se advierte en los investigadores que pasan sumidos en sus estudios por tantas horas, alejados de las multitudes y a veces sin comer adecuadamente y peor aún dormir las horas necesarias. 
-
-2\. Les gusta hablar solos.- Esto podría estimular la memoria y mejorar la concentración. Quizás se creería cómo que tienen alguna propensión a la locura, pero no es así, los hombres geniales muchas veces descubrieron y lograron avances científicos, a veces durante el sueño, en horas de vigilia o quizás mientras caminaban solos. Se han caracterizado en ciertos casos por no haber tenido, una esposa o esposo según el caso e hijos, por ejemplo. 
-
-3\. Se critican con frecuencia.- Las personas incompetentes no reconocen su propia incompetencia y las personas inteligentes tienden a subestimar sus capacidades. Podría decirse que mientras más inteligentes, se han caracterizado por ser más humildes, sencillos y simples, sin advertir que están adornados de cualidades excepcionales. 
-
-4\. Suelen ser desodernados.- Se encuentra que el desorden puede promover el pensamiento creativo y estimular nuevas ideas, pero siempre también les gustará estar en un entorno limpio, lo que lleva a esas personas a hacer cosas buenas como no cometer delitos, no tirar basura y mostrar más generosidad. Es notorio en las personas sabias que se han caracterizado por ese desorden de lo material, como libros, apuntes o cosas a su alrededor, pero en cambio caracterizados por un absoluto orden en sus cerebros, al plantear sus teorías o los resultados de sus investigaciones. 
-
-5\. Disfrutan los retos.- A las personas con alta inteligencia les gusta aprender cosas nuevas y compartir ideas. Precisamente su característica será difundir sus estudios, sus escritos, todo aquello que ha producido su quehacer intelectual. 
-
-6\. suelen trasnochar.- Los adultos que son naturalmente más activos por la noche tienden a obtener mejores resultados en las pruebas cognitivas que aquellos que son personas mañaneras. Es característico en los estudiosos que muchas veces producen más en sus noches de vigilia, cuando encuentran más tranquilidad y posibilidades de concentración, sin el ruido del día por el tráfico, las personas y en general el ambiente de movimiento. 
-
-En que ubicación podríamos pensar que la generalidad de las personas se consideraría. Vale la pena reflexionar y pensar si se podría encajar en estos atributos o si solo son accesibles esos grandes genios que ha producido la humanidad. 
-
-Hernán Patricio Orcés 
-
-Energía con generadores domésticos puede costar hasta 8 veces más
-=================================================================
-
-Los cortes de luz en Ecuador, que ya suman 56 días, impulsaron el uso de generadores domésticos.
-------------------------------------------------------------------------------------------------
-
-![El uso de generadores eléctricos se generaliza en medio de la crisis eléctrica en Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/generadores-1511.jpg)
-
-Los **cortes de luz** en Ecuador continúan. El **Ministerio de Energía y Minas** programó racionamientos eléctricos de 12 horas al día hasta el domingo 17 de noviembre de 2024. Esta semana se cumplen 56 días de continuos y prolongados **apagones** en todo el país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [¿Cuánto cuesta la energía que se puede comprar a Colombia?](https://www.elcomercio.com/actualidad/negocios/cuanto-cuesta-energia-puede-comprar-colombia.html "¿Cuánto cuesta la energía que se puede comprar a Colombia?")
-* [Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días](https://www.elcomercio.com/actualidad/negocios/venta-de-electricidad-de-colombia-a-ecuador-podria-concretarse-en-pocos-dias.html "Venta de electricidad de Colombia a Ecuador podría concretarse en pocos días")
-* [Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-mantienen-12-horas-hasta-domingo-17-de-noviembre-ecuador.html "Cortes de luz se mantienen en 12 horas hasta el domingo 17 de noviembre en Ecuador")
-
-Con los **cortes de luz**, los generadores domésticos a gasolina son alternativas comunes, aunque pueden ser útiles en emergencias, no son una **solución económica** ni sostenible a largo plazo.
-
-Costo de la energía con generador doméstico
--------------------------------------------
-
-Por ejemplo, un generador doméstico de 900 W, con un tanque de 4,2 litros, puede abastecer una vivienda promedio por unas 4 horas. Esto incluye el funcionamiento de unos 10 focos, una computadora y un router.
-
-Usando gasolina extra, cuyo precio actual es de **2,67** dólares por **galón**, el equipo puede producir energía durante 3,7 horas por galón de combustible. El costo estimado de generación es de **72 centavos de dólar por hora**, lo que equivale a **80 centavos de dólar por kilovatio hora**, explicó **Juan Barroso**, ingeniero eléctrico.
-
-Este valor es significativamente superior al costo promedio de la **electricidad en Ecuador**, que ronda los **10 centavos de dólar** por kilovatio hora, en promedio.
-
-Además del costo operativo, los usuarios deben considerar la inversión inicial, que varía entre **600 y 1 000** dólares, dependiendo del modelo y la marca. A esto se suman los gastos de mantenimiento, repuestos y consumo de aceite, necesarios para garantizar el correcto funcionamiento del equipo.
-
-Si la necesidad de energía es mayor, los costos también se incrementarán. Por ejemplo, los comercios pequeños con refrigeradores requieren una mayor potencia, alrededor de 2 500 vatios (2,5 kW) a 6 000 vatios (6 kW) señaló **Geovanny Núñez**, especialista eléctrico.
-
-Consumo de gasolina
--------------------
-
-El consumo de la gasolina se ha incrementado desde que se iniciaron los **cortes de luz** programados en Ecuador, el 23 de septiembre pasado. Según **Ivo Rosero**, presidente de la Cámara de Distribuidores de Derivados de Petróleo (Camddepe), señaló que el consumo de **gasolina extra** se ha incrementado en 100 galones diarios en las principales ciudades del país.
-
-Si bien estos generadores son ideales para **cortes de electricidad** de corta duración, no son una solución viable para suplir la **demanda eléctrica a largo plazo** debido a su costo elevado y su impacto ambiental. Las emisiones de carbono y el ruido son otros factores a tener en cuenta.
-
-En los contextos de emergencia, los generadores domésticos pueden ser una herramienta útil, pero su uso debe ser planificado y analizado antes de realizar la inversión.
-
-También hay generadores a diésel
---------------------------------
-
-Los generadores más grandes, conocidos como industriales, son ideales para grandes edificaciones. Por ejemplo, un modelo de 130 kW puede abastecer un edificio de 10 pisos, consumiendo **6,25 galones de diésel por hora**.
-
-Los retirados del Team Esparza hacen ‘trabajo invisible’ en la Vuelta a Ecuador
-===============================================================================
-
-Los ciclistas del Esparza Training que se retiraron realizan labores auxiliares para sus compañeros que siguen en la Vuelta al Ecuador.
----------------------------------------------------------------------------------------------------------------------------------------
-
-![Integrantes del Team Esparza de México que se retiraron de la carrera al momento de apoyar a sus compañeros.](https://www.elcomercio.com/wp-content/uploads/2024/11/1731802946913-scaled.jpg)
-
-En la sexta etapa de la **Vuelta al Ecuador** de ciclismo y en su recta final, solo quedan dos ciclistas del **Team Esparza Training de México** en competencia, sin embargo, eso no significa que los miembros del equipo que se retiraron no continúen en sus labores. Su apoyo es fundamental desde fuera del evento.
-
-El conjunto azteca inició el certamen con cinco ciclistas, de acuerdo al ‘start list’ oficial de la competencia, de los cuales tres abandonaron. A partir de su salida, **Enrique Ruiz** (México), **Gerardo Reyes** (México) y **Andrés Calle** (Colombia), junto a otro miembro de la escuadra, acompañan desde afuera a sus compañeros.
-
-### Más noticias:
-
-* [Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador](https://www.elcomercio.com/deportes/bayron-guama-vuelta-ecuador-movistar.html "Bayron Guamá sueña y ve por su equipo en la Vuelta a Ecuador")
-* [Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder](https://www.elcomercio.com/deportes/ciclismo/richard-huera-ganador-etapa6-vuelta.html "Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder")
-* [Brayan Obando busca devolverle una Vuelta al Ecuador al país](https://www.elcomercio.com/deportes/brayan-obando-lider-vuelta-ecuador.html "Brayan Obando busca devolverle una Vuelta al Ecuador al país")
-
-Entre los ciclistas que se mantiene en carrera se encuentran **Yimi Durán y Kyvan Astua**. Ambos reciben apoyo desde lo logístico de parte de aquellos que ya no están en la Vuelta a partir de las indicaciones del equipo[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador "https://es.wikipedia.org/wiki/Vuelta_al_Ecuador")
-
-Los **cuatro deportistas** se juntan en las mañanas y se reúnen con el director y los demás miembros para establecer sus funciones. Tras ello, estos se trasladan junto al equipo o en la caravana para cumplir con sus labores.
-
-¿Cómo es el trabajo de los ciclistas retirados del Esparza en la Vuelta al Ecuador?
------------------------------------------------------------------------------------
-
-Ruiz relata que no pudo continuar por **problemas mecánicos** y especifica cuáles son las funciones que se les otorga tras ello. El objetivo es claro y deben hacer lo posible para atender a sus compañeros y sumarse a la estrategia de carrera -previa, presente y posterior- para que funcione.
-
-“**Intentamos ayudarlos en todo lo que se pueda… con las bicis, en la alimentación. Darles lo mejor acá, dentro de las carreras y en las situaciones que se pueden presentar.** En el tema de cuando lleguen, tenerles un hidratante o algo para que puedan descansar y no preocuparse de nada más que correr al siguiente día”, relata el ciclista mexicano.
-
-Ruiz señala que **Gerardo Reyes** es el más abnegado y quien más se destaca en tales labores de apoyo. Para él, el factor de la altura es el mayor con el que deben lidiar sus compañeros y cuenta que, en su caso, estuvo involucrado en una caída en la primera etapa y llegó fuera de tiempo, por lo que no siguió.
-
-Reyes cuenta que entre las actividades que deben llevar a cabo también se encuentran funciones de abastecimiento, **preparación de sus compañeros** o facilitar materiales de trabajo. Asimismo, señala que si hay pasión dentro de su actividad, las circunstancias son parte de la carrera y se debe cooperar.
-
-Creativos por sus compañeros
-----------------------------
-
-En el penúltimo día de carrera, los cuatro del **Esparza** decidieron tomar una estrategia distinta para apoyar a sus compañeros. Dado que el vehículo en el que se desplazaban en la carrera demoraba arribar a la meta, estos decidieron arribar en uno que llegaría con antelación para poder recibir a sus colegas a tiempo.
-
-De cara a la etapa final de la competencia, los dos del Esparza Training que se mantienen en competencia ocupan lugares intermedios y últimos de la tabla. **Yimi Durán** está en el puesto 33 y **Kyvan Astua** en el 63.
-
-Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz
-=========================================================================================
-
-Ecuador y Colombia tienen un acuerdo para venta de energía y así solventar cortes de luz en el país.
-----------------------------------------------------------------------------------------------------
-
-![Imagen referencial. Ecuador espera la energía de Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-16-at-8.49.00-PM.jpeg)
-
-La noche de este sábado 16 de noviembre de 2024, la **Cancillería** informó que los gobiernos de **Ecuador** y **Colombia** llegaron a un acuerdo para la entrega de energía, con lo que se puede solventar parte de los cortes de luz en el país[.](https://es.wikipedia.org/wiki/Ecuador)
-
-### Más noticias
-
-* [Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-quito-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Quito para viernes, sábado y domingo 17 de noviembre")
-* [Cortes de luz en Guayaquil para viernes, sábado y domingo 17 de noviembre](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-guayaquil-viernes-sabado-y-domingo-17-de-noviembre.html "Cortes de luz en Guayaquil para viernes, sábado y domingo 17 de noviembre")
-
-Ecuador y Colombia llegan a un acuerdo para solventar cortes de luz
--------------------------------------------------------------------
-
-“En virtud de las excelentes **relaciones bilaterales**, Colombia proveerá de energía eléctrica al Ecuador en apoyo a la actual crisis energética. Esto refleja el trabajo en equipo de **ambos países**”, publicó la Cancillería, en sus redes sociales. Aunque no detalló desde cuándo se reanudará la compra de electricidad al país vecino.
-
-Esta información se da una vez que el **Gobierno de Colombia** publicó oficialmente la resolución que permite las exportaciones de electricidad hacia el Ecuador, el viernes 15 de noviembre.  
-Así, la compra de electricidad a Colombia se retomará luego de suspenderla el 30 de septiembre pasado, debido a una severa sequía que afecta la región.
-
-Exportación de energía a Ecuador
---------------------------------
-
-Según la resolución, el gobierno colombiano **reactivará** la **exportación** de energía a **Ecuador** bajo un esquema de intercambio diario de excedentes. Es decir, la electricidad que sobra a **Colombia** la puede vender a Ecuador, explicó Alejandro Castañeda, presidente de la Asociación de Empresas Generadoras de Energía en Colombia.
-
-Colombia puede vender hasta 450 o 500 MW al día, que es lo que soporta la **red de conexión** entre los dos países.
-
-Ecuador soporta una grave crisis energética, que ha obligado a programar **cortes de luz** de desde el pasado 23 de septiembre del 2024. Hasta este 17 de noviembre hay **racionamientos** programados de hasta 12 horas diarias en todo el país.
