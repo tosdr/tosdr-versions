@@ -15,7 +15,6 @@ Search Product type
 All
 
 * All
-* Access Control
 * Audio Jammers & Noise Generators
 * Bathroom Safety
 * Baton Flashlights
@@ -543,21 +542,13 @@ Menu
             
             LED Security Lights](https://www.thehomesecuritysuperstore.com/collections/led-security-lights)
         
-    * [![Security Signs & Stickers](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SecuritySigns_250x250_2a9c3f5d-e8c8-48a2-bcbf-fe414bbdce4e.jpg?v=1615413624&width=60)
-        
-        Security Signs & Stickers](https://www.thehomesecuritysuperstore.com/collections/security-signs-stickers)
-        
     * [![Home Security Gadgets](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HomeSecurityGadgetsA1.jpg?v=1615413660&width=60)
         
         Home Security Gadgets](https://www.thehomesecuritysuperstore.com/collections/home-security-gadgets)
         
-    * [![Identity Theft Protection](//www.thehomesecuritysuperstore.com/cdn/shop/collections/18136_xl_83b9a0e2-1d36-4617-bca7-f3a8a2545c01.jpg?v=1622142291&width=60)
+    * [![Hide a Key](//www.thehomesecuritysuperstore.com/cdn/shop/collections/KeyHiders_250x250_03ab3a11-c0a3-419c-a18c-99fc2c293fc9.jpg?v=1729714605&width=60)
         
-        Identity Theft Protection](https://www.thehomesecuritysuperstore.com/collections/identity-theft-protection)
-        
-    * [![Key Hiders](//www.thehomesecuritysuperstore.com/cdn/shop/collections/KeyHiders_250x250_03ab3a11-c0a3-419c-a18c-99fc2c293fc9.jpg?v=1729714605&width=60)
-        
-        Key Hiders](https://www.thehomesecuritysuperstore.com/collections/key-hiders)
+        Hide a Key](https://www.thehomesecuritysuperstore.com/collections/hide-a-key)
         
     * [![Access Control](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Access_Control23016_xl.jpg?v=1690492905&width=60)
         
@@ -588,21 +579,13 @@ Menu
         
         [Security Lights](https://www.thehomesecuritysuperstore.com/collections/security-lights)
         
-    * ![Security Signs & Stickers](//www.thehomesecuritysuperstore.com/cdn/shop/collections/SecuritySigns_250x250_2a9c3f5d-e8c8-48a2-bcbf-fe414bbdce4e.jpg?v=1615413624&width=60)
-        
-        [Security Signs & Stickers](https://www.thehomesecuritysuperstore.com/collections/security-signs-stickers)
-        
     * ![Home Security Gadgets](//www.thehomesecuritysuperstore.com/cdn/shop/collections/HomeSecurityGadgetsA1.jpg?v=1615413660&width=60)
         
         [Home Security Gadgets](https://www.thehomesecuritysuperstore.com/collections/home-security-gadgets)
         
-    * ![Identity Theft Protection](//www.thehomesecuritysuperstore.com/cdn/shop/collections/18136_xl_83b9a0e2-1d36-4617-bca7-f3a8a2545c01.jpg?v=1622142291&width=60)
+    * ![Hide a Key](//www.thehomesecuritysuperstore.com/cdn/shop/collections/KeyHiders_250x250_03ab3a11-c0a3-419c-a18c-99fc2c293fc9.jpg?v=1729714605&width=60)
         
-        [Identity Theft Protection](https://www.thehomesecuritysuperstore.com/collections/identity-theft-protection)
-        
-    * ![Key Hiders](//www.thehomesecuritysuperstore.com/cdn/shop/collections/KeyHiders_250x250_03ab3a11-c0a3-419c-a18c-99fc2c293fc9.jpg?v=1729714605&width=60)
-        
-        [Key Hiders](https://www.thehomesecuritysuperstore.com/collections/key-hiders)
+        [Hide a Key](https://www.thehomesecuritysuperstore.com/collections/hide-a-key)
         
     * ![Access Control](//www.thehomesecuritysuperstore.com/cdn/shop/collections/Access_Control23016_xl.jpg?v=1690492905&width=60)
         
@@ -749,13 +732,6 @@ Menu
         
         CCTV Security Camera System](https://www.thehomesecuritysuperstore.com/collections/cctv-camera-systems)
         
-        * [![1-Camera Systems](//www.thehomesecuritysuperstore.com/cdn/shop/collections/1CamSystem_500x500_875328b4-5b75-4ee9-84ac-2f2c8ec44a0b.jpg?v=1719863995&width=300)
-            
-            1-Camera Systems](https://www.thehomesecuritysuperstore.com/collections/1-camera-systems)
-        * [![2-Camera Systems](//www.thehomesecuritysuperstore.com/cdn/shop/collections/2CamSystem_500x500_9c80366c-f2a1-415e-95cc-c17a00b0562c.jpg?v=1563420488&width=300)
-            
-            2-Camera Systems](https://www.thehomesecuritysuperstore.com/collections/2-camera-systems)
-        
     * [![Fake Security Cameras](//www.thehomesecuritysuperstore.com/cdn/shop/collections/FakeCams_250x250_076e478d-ac9e-4297-b90b-734a970d1d9a.jpg?v=1648590446&width=60)
         
         Fake Security Cameras](https://www.thehomesecuritysuperstore.com/collections/fake-security-cameras)
@@ -832,13 +808,6 @@ Menu
     * [![Body Cams](//www.thehomesecuritysuperstore.com/cdn/shop/collections/PoliceBodyCameras03.jpg?crop=center&height=300&v=1719864399&width=300)
         
         Body Cams](https://www.thehomesecuritysuperstore.com/collections/body-cams)
-    
-    * [![1-Camera Systems](//www.thehomesecuritysuperstore.com/cdn/shop/collections/1CamSystem_500x500_875328b4-5b75-4ee9-84ac-2f2c8ec44a0b.jpg?crop=center&height=300&v=1719863995&width=300)
-        
-        1-Camera Systems](https://www.thehomesecuritysuperstore.com/collections/1-camera-systems)
-    * [![2-Camera Systems](//www.thehomesecuritysuperstore.com/cdn/shop/collections/2CamSystem_500x500_9c80366c-f2a1-415e-95cc-c17a00b0562c.jpg?crop=center&height=300&v=1563420488&width=300)
-        
-        2-Camera Systems](https://www.thehomesecuritysuperstore.com/collections/2-camera-systems)
     
 * [Spy](https://www.thehomesecuritysuperstore.com/collections/spy)
     
