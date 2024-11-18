@@ -38,17 +38,21 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/T20I2024-250803)
 * [Sheffield Shield
     
+    VIC won by 8 wkts
+    
     |     |     |
     | --- | --- |
-    | VIC | 373 & 0 /6 |
+    | VIC | 373 & 2 /122 |
     | WA  | 167 & 325 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250111)
 * [Sheffield Shield
     
+    Match Drawn
+    
     |     |     |
     | --- | --- |
-    | QLD | 291 & 2 /63 |
+    | QLD | 291 & 5 /225 |
     | TAS | 461 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/SHEF2024-250112)
@@ -78,36 +82,6 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011047/box-score)
 * [NBA
     
-    3rd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | OKC | 83  |
-    | DAL | 92  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011049/box-score)
-* [NBA
-    
-    3 Qtr Time
-    
-    |     |     |
-    | --- | --- |
-    | CHI | 78  |
-    | HOU | 108 |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010228/box-score)
-* [NBA
-    
-    3rd Qtr
-    
-    |     |     |
-    | --- | --- |
-    | NY  | 84  |
-    | BKN | 73  |
-    
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011048/box-score)
-* [NBA
-    
     Full Time
     
     |     |     |
@@ -135,7 +109,7 @@ FOX SCORES
     | MEM | 105 |
     | DEN | 90  |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010227)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010227/box-score)
 * [NBA
     
     Full Time
@@ -145,7 +119,7 @@ FOX SCORES
     | CLE | 128 |
     | CHA | 114 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010224)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010224/box-score)
 * [NBA
     
     Full Time
@@ -158,14 +132,44 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010225/box-score)
 * [NBA
     
-    18/11 13:00 AEST
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAC | –   |
-    | UTA | –   |
+    | CHI | 107 |
+    | HOU | 143 |
     
-    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010229)
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010228/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | NY  | 114 |
+    | BKN | 104 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011048/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | OKC | 119 |
+    | DAL | 121 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25011049/box-score)
+* [NBA
+    
+    Full Time
+    
+    |     |     |
+    | --- | --- |
+    | LAC | 116 |
+    | UTA | 105 |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010229/box-score)
 * AFL
     
 * [AFL Women's
@@ -302,26 +306,16 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251106)
 * [NFL
     
-    1st Qtr
+    Full Time
     
     |     |     |
     | --- | --- |
-    | LAC | 0   |
-    | CIN | 3   |
+    | LAC | 34  |
+    | CIN | 27  |
     
     Match Centre](https://www.foxsports.com.au/gridiron/nfl/match-centre/NFL2024-251107)
 * Rugby
     
-* [Men's Test
-    
-    Complete
-    
-    |     |     |
-    | --- | --- |
-    | ITA | 20  |
-    | GEO | 17  |
-    
-    Match Centre](https://www.foxsports.com.au/rugby/internationals/match-centre/IRB20241405)
 * [Men's Test
     
     Complete
@@ -1063,7 +1057,7 @@ FOX SCORES
 
 [Fox sports](https://www.foxsports.com.au/)
 
-[Scores](https://www.foxsports.com.au/score-centre/live-now)
+[Scores](https://www.foxsports.com.au/score-centre)
 
 * [Video](https://www.foxsports.com.au/video)
 * [UFC 309](https://www.foxsports.com.au/ufc)
