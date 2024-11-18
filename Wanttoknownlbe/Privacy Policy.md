@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/verkiezingen/doen-petitie-tekenen-tegen-de-walvisjacht/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/onwetendheid-geen-vrijwaring-van-verantwoordelijkheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
