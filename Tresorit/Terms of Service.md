@@ -1,3 +1,5 @@
+Cyber sale is here! Save big, store safely, share confidently. [Explore discounts](https://tresorit.com/cyber-sale?utm_source=website&utm_medium=ribbon&utm_campaign=cybersale)
+
 ![](data:image/svg+xml;charset=utf-8,%3Csvg height='24' width='24' xmlns='http://www.w3.org/2000/svg' version='1.1'%3E%3C/svg%3E)[Request a demo](https://tresorit.com/request-a-demo)[Log In](https://web.tresorit.com/?from-website)
 
 * [Why Tresorit?](https://tresorit.com/why-tresorit)
