@@ -5,6 +5,7 @@
     * Learn
         * [Features](https://www.grammarly.com/features)
         * [Product Demo](https://demo.grammarly.com/)
+        * [AI at Grammarly](https://www.grammarly.com/ai)
         * [Trust & Security](https://www.grammarly.com/trust)
     * Download
         * [Desktop](https://www.grammarly.com/desktop)
@@ -58,6 +59,7 @@
     * Learn
         * [Features](https://www.grammarly.com/features)
         * [Product Demo](https://demo.grammarly.com/)
+        * [AI at Grammarly](https://www.grammarly.com/ai)
         * [Trust & Security](https://www.grammarly.com/trust)
     * Download
         * [Desktop](https://www.grammarly.com/desktop)
@@ -373,6 +375,7 @@ Learn More
 * [Grammarly for Teams & Businesses](https://www.grammarly.com/business)
 * [Grammarly Enterprise](https://www.grammarly.com/business/enterprise)
 * [Grammarly for Education](https://www.grammarly.com/edu)
+* [AI at Grammarly](https://www.grammarly.com/ai)
 * [Generative AI](https://www.grammarly.com/ai-writing-assistant)
 * [Blog](https://www.grammarly.com/blog/)
 * [Tech Blog](https://www.grammarly.com/blog/engineering/)
