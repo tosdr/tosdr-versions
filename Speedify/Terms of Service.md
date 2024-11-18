@@ -128,9 +128,9 @@ Speedify is the only app that combines all of your Internet connections to keep 
 
 #### Popular Posts
 
-* [How to Watch UFC Pay-Per-View Online for Free](https://speedify.com/blog/how-to/watch-ufc-online-free-ppv/)
 * [\[SOLVED\] Mobile Hotspot Connected but No Internet](https://speedify.com/blog/fix-slow-internet/mobile-hotspot-connected-but-no-internet-fix/)
 * [iPad Keeps Disconnecting from Wi-Fi? Here's the Easy Fix!](https://speedify.com/blog/fix-internet-disconnecting/ipad-keeps-disconnecting-from-wifi-fix/)
+* [How to Watch UFC Pay-Per-View Online for Free](https://speedify.com/blog/how-to/watch-ufc-online-free-ppv/)
 
 ### Bonding Apps
 
