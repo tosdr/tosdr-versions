@@ -16,6 +16,7 @@
     * [Lead generationAmp up ROI with lead gen forms.](https://wistia.com/product/lead-generation)
     * [SEOGet more eyeballs on your videos.](https://wistia.com/product/video-seo)
     * [EngagementEncourage interaction with your content.](https://wistia.com/product/interactive-video)
+    * [Wistia APIBuild custom video experiences for your site.](https://wistia.com/product/platform)
     
     Video creation
     
