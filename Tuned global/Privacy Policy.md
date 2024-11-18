@@ -139,7 +139,7 @@
     
     #### Our blog where we share our views about trends in music and streaming tech
     
-    [](https://blog.tunedglobal.com/music-as-transformative-power-in-healthcare?hsLang=en)
+    [![](https://www.tunedglobal.com/hubfs/Wallifornia%20-%20Blog%20header%20image%20Music%20as%20transformative%20power%20in%20Healthcare.png)](https://blog.tunedglobal.com/music-as-transformative-power-in-healthcare?hsLang=en)
     
     [The Transformative Power of Music Therapy in Health & Wellness](https://blog.tunedglobal.com/music-as-transformative-power-in-healthcare?hsLang=en)
     
