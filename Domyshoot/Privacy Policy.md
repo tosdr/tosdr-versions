@@ -223,7 +223,7 @@ f. We may only disclose personal information as described in this Privacy Policy
 
 **Other Disclosure of Personal Information**
 
-a. We will disclose personal information (i) to comply with any court order, law, or legal process, including to respond to any government or regulatory request, (ii) to enforce or apply our [**Terms of Use**](https://www.dresma.com/terms-of-use) or [**Terms of Service**](https://www.dresma.com/terms-of-service) and other agreements, including for billing and collection purposes, (iii) if we believe it is necessary or appropriate to protect the rights, property, or safety of Dresma, our customers or others, and/or (iv) if it is necessary or appropriate to protect the rights, property, or safety of Dresma, our customers, or others, and this includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
+a. We will disclose personal information (i) to comply with any court order, law, or legal process, including to respond to any government or regulatory request, (ii) to enforce or apply our [**Terms of Use**](https://www.dresma.com/terms-of-use) or **Terms of Service** and other agreements, including for billing and collection purposes, (iii) if we believe it is necessary or appropriate to protect the rights, property, or safety of Dresma, our customers or others, and/or (iv) if it is necessary or appropriate to protect the rights, property, or safety of Dresma, our customers, or others, and this includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
 
 **Third Party Disclosure**
 
@@ -361,7 +361,7 @@ Dresma reserves the right, at its sole discretion, to change or modify this Priv
 
 **15\. LIST OF THIRD-PARTY SERVICE PROVIDERS**
 
-Dresma uses the following third-party service providers for the provision of services as detailed under the [**Terms of Use**](https://www.dresma.com/terms-of-use/) or [**Terms of Service**](https://www.dresma.com/terms-of-service), as applicable
+Dresma uses the following third-party service providers for the provision of services as detailed under the [**Terms of Use**](https://www.dresma.com/terms-of-use/) or **Terms of Service**, as applicable
 
 Name of Third-Party Service ProviderContact InformationAmazon Web Services Inc. (North Virginia, US)Website: [**https://aws.amazon.com/premiumsupport/knowledge-center/aws-phone-support/**](https://aws.amazon.com/premiumsupport/knowledge-center/aws-phone-support/)
 
@@ -415,7 +415,7 @@ Email: privacy@dresma.com
 
 Address: Dresma, 19925 Stevens Creek Blvd. Suite 100, Cupertino, CA 95014
 
-PLEASE NOTE: IF YOU USE OUR WEBSITE, APP, OR PLATFORM, YOU HAVE AGREED TO AND ACCEPTED THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS SET FORTH IN OUR [**TERMS OF USE**](https://www.dresma.com/terms-of-use/) OR OUR [**TERMS OF SERVICE**](https://www.dresma.com/terms-of-service), AS APPLICABLE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR OUR [**TERMS OF USE**](https://www.dresma.com/terms-of-use/), PLEASE DO NOT USE OUR WEBSITE, APP, OR PLATFORM.
+PLEASE NOTE: IF YOU USE OUR WEBSITE, APP, OR PLATFORM, YOU HAVE AGREED TO AND ACCEPTED THE PRACTICES DESCRIBED IN THIS PRIVACY POLICY AND THE TERMS AND CONDITIONS SET FORTH IN OUR [**TERMS OF USE**](https://www.dresma.com/terms-of-use/) OR OUR **TERMS OF SERVICE**, AS APPLICABLE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY OR OUR [**TERMS OF USE**](https://www.dresma.com/terms-of-use/), PLEASE DO NOT USE OUR WEBSITE, APP, OR PLATFORM.
 
 ‍
 
