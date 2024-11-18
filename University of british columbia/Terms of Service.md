@@ -113,7 +113,7 @@ We acknowledge that UBC’s two main campuses are situated within the ancestral 
 
 **Vancouver Campus**
 
-2329 West Mall
+6200 University Blvd
 
 Vancouver, BC Canada V6T 1Z4
 
