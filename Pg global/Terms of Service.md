@@ -13,7 +13,7 @@ TABLE OF CONTENTS
 
 [Geographic Scope of Site and Product Claims](#geographicScope)[Electronic Communications](#elcCommunication)[Contents of the Site – Disclaimer](#contentDisclaimer)[Operation of the Site – Disclaimer](#operationDisclaimer)[Limitation of Liability](#limitation)[Indemnification](#indemnification)[Applicable Law and Disputes](#laws)
 
-[No Waiver](#waiver)[Copyrights and Trademarks](#copyrights)[Downloaded Software](#software)[Mobile](#mobile)[Notices and Procedures for Making Claims of Copyright Infringement](#notice)[Contact Us](#contact)[Severability](#severability)
+[No Waiver](#waiver)[Copyrights and Trademarks](#copyrights)[Downloaded Software](#software)[Mobile](#mobile)[Notices And Procedures For Making Claims Of Copyright Infringement](#notice)[Contact Us](#contact)[Severability](#severability)
 
 **PLEASE READ THE FOLLOWING TERMS CAREFULLY BEFORE USING P&G SITES**
 
