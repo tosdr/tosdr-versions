@@ -2,10 +2,6 @@
 
 [![Foursquare](https://location.foursquare.com/wp-content/uploads/sites/2/2022/06/header-logo.svg)](https://location.foursquare.com/)
 
-[Search](#)
-
-[Speak to Sales](https://location.foursquare.com/contact-us/)
-
 * [Products](https://location.foursquare.com/products/)
     
     Products
@@ -141,8 +137,6 @@
     [Get Started](https://location.foursquare.com/log-in/)
     
 * [Pricing](https://location.foursquare.com/pricing/)
-
-[Search](#)
 
 [Speak to Sales](https://location.foursquare.com/contact-us/)
 
