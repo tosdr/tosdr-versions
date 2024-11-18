@@ -141,17 +141,17 @@ Combined Federal Campaign National Designation Code 10560. A proud member of [C
 [Pricing Transparency](https://www.stjude.org/legal/standard-charges.html)
 --------------------------------------------------------------------------
 
-[Colorado Opt-Out Rights](https://www.stjude.org/legal/colorado-privacy-act.html)
----------------------------------------------------------------------------------
-
-[Colorado Privacy Rights Request Form](https://www.stjude.org/legal/colorado-privacy.html)
-------------------------------------------------------------------------------------------
-
 [Washington Health Privacy Rights Request Form](https://www.stjude.org/legal/washington-privacy-act.html)
 ---------------------------------------------------------------------------------------------------------
 
 [Nevada Health Privacy Rights Request Form](https://www.stjude.org/legal/nevada-privacy-act.html)
 -------------------------------------------------------------------------------------------------
+
+[Your Opt-Out Rights](https://www.stjude.org/legal/your-opt-out-rights.html)
+----------------------------------------------------------------------------
+
+[Privacy Rights Request Form](https://www.stjude.org/legal/consumer-privacy-rights-request.html)
+------------------------------------------------------------------------------------------------
 
 ### Español
 
@@ -162,10 +162,12 @@ Combined Federal Campaign National Designation Code 10560. A proud member of [C
 * [Aviso de Privacidad en EE.UU.](https://www.stjude.org/es/legal/declaracion-de-confidencialidad.html)
 * [Políticas para crear enlaces](https://www.stjude.org/es/legal/politicas-para-crear-enlaces.html)
 * [Aviso de no discriminación](https://www.stjude.org/es/legal/aviso-de-no-discriminacion.html)
-* [Derechos de exclusión voluntaria de Colorado](https://www.stjude.org/es/legal/ley-de-privacidad-de-colorado.html)
-* [Formulario de solicitud de derechos de privacidad de Colorado](https://www.stjude.org/es/legal/privacidad-de-colorado.html)
+* [Sus derechos de exclusión voluntaria](https://www.stjude.org/es/legal/sus-derechos-exclusion-voluntaria.html)
+* [REDIRECT Formulario de solicitud de derechos de privacidad de Colorado](https://www.stjude.org/es/legal/solicitud-derechos-privacidad-consumidor.html)
 * [Formulario de Solicitud de Derechos de Privacidad de Salud de Washington](https://www.stjude.org/es/legal/formulario-de-solicitud-de-privacidad-de-salud-de-washington.html)
 * [Formulario de Solicitud de Derechos de Privacidad de Salud de Nevada](https://www.stjude.org/es/legal/formulario-de-solicitud-de-privacidad-de-salud-de-nevada.html)
+* [Sus derechos de exclusión voluntaria](https://www.stjude.org/es/legal/sus-derechos-exclusion-voluntaria.html)
+* [Derechos de privacidad del consumidor de EE. UU.](https://www.stjude.org/es/legal/solicitud-derechos-privacidad-consumidor.html)
 
 * Related Links
 * [Canadian Internet privacy policy](https://www.stjude.org/legal/canadian-internet-privacy-policy.html)
@@ -206,10 +208,10 @@ Combined Federal Campaign National Designation Code 10560. A proud member of [C
 * [St. Jude U.S. Privacy Policy Statement](https://www.stjude.org/legal/st-jude-privacy-policy-statement.html)
 * [Medical Records Release](https://www.stjude.org/legal/medical-records-release.html)
 * [Pricing Transparency](https://www.stjude.org/legal/standard-charges.html)
-* [Colorado Opt-Out Rights](https://www.stjude.org/legal/colorado-privacy-act.html)
-* [Colorado Privacy Rights Request Form](https://www.stjude.org/legal/colorado-privacy.html)
 * [Washington Health Privacy Rights Request Form](https://www.stjude.org/legal/washington-privacy-act.html)
 * [Nevada Health Privacy Rights Request Form](https://www.stjude.org/legal/nevada-privacy-act.html)
+* [Your Opt-Out Rights](https://www.stjude.org/legal/your-opt-out-rights.html)
+* [Privacy Rights Request Form](https://www.stjude.org/legal/consumer-privacy-rights-request.html)
 
 [Related LinksClose](#)
 
@@ -278,7 +280,7 @@ Thank you for signing up to receive updates from St. Jude. You may manage your s
 * [Notice of Non-Discrimination](https://www.stjude.org/legal/notice-of-non-discrimination.html "Notice of Non-Discrimination")
 * [Pricing Transparency](https://www.stjude.org/legal/standard-charges.html "Pricing Transparency")
 * [Site Map](https://www.stjude.org/sitemap.html "Site Map")
-* [Colorado Opt-Out Rights](https://www.stjude.org/legal/colorado-privacy-act.html "Colorado Opt-Out Rights")
+* [Your Opt-Out Rights](https://www.stjude.org/legal/your-opt-out-rights.html "Your Opt-Out Rights")
 * [Washington Health Privacy Notice](https://www.stjude.org/legal/u-s-privacy-policy-statement/washington-health-privacy-notice.html "Washington Health Privacy Notice")
 
 If you speak another language, assistance services, free of charge, are available to you. Call 1-866-278-5833 (TTY: 1-901-595-1040)
