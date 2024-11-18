@@ -205,30 +205,29 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Wake Up Your Dog!](https://www.somethingawful.com/comedy-goldmine/wake-up-dogs/1/)
-* [More Unpopular Urban Dictionary Entries](https://www.somethingawful.com/news/urban-dictionary-2/1/)
-* [Retro SWAT 2](https://www.somethingawful.com/fashion-swat/retro-swat-2/1/)
-* [Diary of an AIDS Clown](https://www.somethingawful.com/news/birthday-clown-medicine/)
-* [The Lowest Rung On the Hollywood Ladder, Part 2](https://www.somethingawful.com/comedy-goldmine/lowest-rung-on-2/1/)
+* [Awful Vision: "Teh" Russian Muscle!](https://www.somethingawful.com/awfulvision/teh-sheik-balloon/1/)
+* [Hats for Birds!](https://www.somethingawful.com/comedy-goldmine/birds-wearing-hats/1/)
+* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
+* [Alternative Movie Endings](https://www.somethingawful.com/comedy-goldmine/alternative-movie-endings/1/)
+* [Tori Amos](https://www.somethingawful.com/garbage-day/tori-amos-abnormally/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh god, Kevin Smith is making another movie](http://forums.somethingawful.com/showthread.php?threadid=4075559 "Oh god, Kevin Smith is making another movie")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [We should officially make the Ampersand a part of the alphabet](http://forums.somethingawful.com/showthread.php?threadid=4075543 "We should officially make the Ampersand a part of the alphabet")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [The International United States Appreciation Thread](http://forums.somethingawful.com/showthread.php?threadid=4075517 "The International United States Appreciation Thread")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-archery.gif) [you afraid of skeleton?](http://forums.somethingawful.com/showthread.php?threadid=4075549 "you afraid of skeleton?")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [Temporary Fun Time!](http://forums.somethingawful.com/showthread.php?threadid=4075536 "Temporary Fun Time!")
-* ![](https://fi.somethingawful.com/forums/posticons/balls.gif) [you can post threats with awful app now](http://forums.somethingawful.com/showthread.php?threadid=4075522 "you can post threats with awful app now")
-* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [So can I make French toast with egg nog instead of going through the work](http://forums.somethingawful.com/showthread.php?threadid=4075520 "So can I make French toast with egg nog instead of going through the work")
+* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Let's Make Our Own GBS Adam Sandler Movie](http://forums.somethingawful.com/showthread.php?threadid=4075573 "Let's Make Our Own GBS Adam Sandler Movie")
 * ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [By god I am posting a thread on the awful app](http://forums.somethingawful.com/showthread.php?threadid=4075550 "By god I am posting a thread on the awful app")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [Temporary Fun Time!](http://forums.somethingawful.com/showthread.php?threadid=4075536 "Temporary Fun Time!")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh good, Kevin Smith is making another movie](http://forums.somethingawful.com/showthread.php?threadid=4075559 "Oh good, Kevin Smith is making another movie")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-archery.gif) [you afraid of skeleton?](http://forums.somethingawful.com/showthread.php?threadid=4075549 "you afraid of skeleton?")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you like clam chowder?](http://forums.somethingawful.com/showthread.php?threadid=4075540 "Do you like clam chowder?")
 
 ### Random Articles
 
-* [Awesome Free Cursors (Thanks, The Worst Unicorn!)](https://www.somethingawful.com/awful-links/awesome-free-cursors/)
-* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
-* [Backyard Love](https://www.somethingawful.com/feature-articles/backyard-love-2/1/)
-* [Another day, another lawsuit... The Dollpalace!](https://www.somethingawful.com/news/another-day-another/)
-* [An Official Statement from the Desk of Senator Blackridge](https://www.somethingawful.com/news/an-official-statement/)
+* [Goin' Ape!](https://www.somethingawful.com/awful-movie-database/goin-ape/)
+* [A Visit from The Ghost of Two Days After Christmas](https://www.somethingawful.com/news/ghost-december-27/)
+* [The ENTERPRISE MISSION](https://www.somethingawful.com/awful-links/awful-link-1950/)
+* [Something Awful vs. THE ULTIMATE WARRIOR](https://www.somethingawful.com/legal-threats/legal-threat-ultimate/1/)
+* [Ian's Shoelace Site](https://www.somethingawful.com/awful-links/awful-link-4309/)
 
 [Random!](https://www.somethingawful.com/random/)
 
