@@ -20,16 +20,16 @@ Monday, November 18 2024
 
 Latest
 
-* [AI is finally delivering bang for its buck, according to Microsoft](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
-* [Early Black Friday Deals on Garmin Smartwatches](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
-* [Best Office Chairs – Consumer Reports](https://digitpatrox.com/best-office-chairs-consumer-reports/)
-* [5 Problems on Your Computer That Might be Caused by Malware](https://digitpatrox.com/5-problems-on-your-computer-that-might-be-caused-by-malware/)
-* [Organizations failing to use tech to reach sustainability goals](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
-* [Got a PS5 Pro? Here are the settings you’ll want to change on your TV](https://digitpatrox.com/got-a-ps5-pro-here-are-the-settings-youll-want-to-change-on-your-tv/)
-* [Trump names Brendan Carr as his FCC leader](https://digitpatrox.com/trump-names-brendan-carr-as-his-fcc-leader/)
-* [Today’s Wordle Answer and Hints (November 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-18-2024/)
-* [AdGuard VPN Has a Great Early Black Friday Sale](https://digitpatrox.com/adguard-vpn-has-a-great-early-black-friday-sale/)
-* [Best Black Friday Car Deals for 2024](https://digitpatrox.com/best-black-friday-car-deals-for-2024/)
+* [What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
+* [With SearchGPT, could OpenAI rewrite online search rules — and invite plagiarism? – Computerworld](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
+* [How to Swap Your Google Voice and Regular Phone Number (and Why You Should)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
+* [New ransomware gang claims cyber attack on Bartow County School System and others](https://digitpatrox.com/new-ransomware-gang-claims-cyber-attack-on-bartow-county-school-system-and-others/)
+* [Therabody SleepMask Review – Consumer Reports](https://digitpatrox.com/therabody-sleepmask-review-consumer-reports/)
+* [An Efficient Car Charger for iPhones](https://digitpatrox.com/an-efficient-car-charger-for-iphones/)
+* [MSI Cubi NUC 1M review:](https://digitpatrox.com/msi-cubi-nuc-1m-review/)
+* [Dyson V11 Advanced review: the perfect middle-of-the-road Dyson cordless vacuum](https://digitpatrox.com/dyson-v11-advanced-review-the-perfect-middle-of-the-road-dyson-cordless-vacuum/)
+* [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://digitpatrox.com/apples-lightning-to-3-5mm-headphone-adapter-may-be-going-away/)
+* [Dragon Age The Veilguard Review: A Misguided Sequel](https://digitpatrox.com/dragon-age-the-veilguard-review-a-misguided-sequel/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/BLomQ4aQk2epAVZd5xrp8S-1200-80.jpg)](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
+* [![](https://cdn.mos.cms.futurecdn.net/akyhSdLDh2wY27hWNQmB3h-1200-80.jpg)](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
     
-    [AI is finally delivering bang for its buck, according to Microsoft](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
+    [What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
     
-    5 minutes ago
+    18 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCRBTXGN0S5N6JS9MDZBW7WB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3606726-0-97942800-1731927848-shutterstock_2496669443.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
     
-    [Early Black Friday Deals on Garmin Smartwatches](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
+    [With SearchGPT, could OpenAI rewrite online search rules — and invite plagiarism? – Computerworld](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
     
-    53 minutes ago
+    38 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729289313/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Best-Offce-Chairs-1024)](https://digitpatrox.com/best-office-chairs-consumer-reports/)
+* [![](https://lifehacker.com/imagery/articles/01JCREWGDWTV8PDKDCF5M7X5FR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
     
-    [Best Office Chairs – Consumer Reports](https://digitpatrox.com/best-office-chairs-consumer-reports/)
-    
-    1 hour ago
-    
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-laptop-with-windows-11-a-malware-icon-above-the-keyboard-and-warning-signs-around-it.jpg)](https://digitpatrox.com/5-problems-on-your-computer-that-might-be-caused-by-malware/)
-    
-    [5 Problems on Your Computer That Might be Caused by Malware](https://digitpatrox.com/5-problems-on-your-computer-that-might-be-caused-by-malware/)
+    [How to Swap Your Google Voice and Regular Phone Number (and Why You Should)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
     
     1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/Fu6Qch2c2nfLiqiNFGpZU9-1200-80.jpg)](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/New-ransomware-gang-claims-cyber-attack-on-Bartow-County-School-System-and-others.jpg)](https://digitpatrox.com/new-ransomware-gang-claims-cyber-attack-on-bartow-county-school-system-and-others/)
     
-    [Organizations failing to use tech to reach sustainability goals](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
+    [New ransomware gang claims cyber attack on Bartow County School System and others](https://digitpatrox.com/new-ransomware-gang-claims-cyber-attack-on-bartow-county-school-system-and-others/)
     
-    2 hours ago
+    1 hour ago
+    
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731435038/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Therabody-SleepMask-11-24)](https://digitpatrox.com/therabody-sleepmask-review-consumer-reports/)
+    
+    [Therabody SleepMask Review – Consumer Reports](https://digitpatrox.com/therabody-sleepmask-review-consumer-reports/)
+    
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [5 minutes ago
+* [18 minutes ago
     
-    ### AI is finally delivering bang for its buck, according to Microsoft](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
-* [53 minutes ago
+    ### What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
+* [38 minutes ago
     
-    ### Early Black Friday Deals on Garmin Smartwatches](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
+    ### With SearchGPT, could OpenAI rewrite online search rules — and invite plagiarism? – Computerworld](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
 * [1 hour ago
     
-    ### Best Office Chairs – Consumer Reports](https://digitpatrox.com/best-office-chairs-consumer-reports/)
+    ### How to Swap Your Google Voice and Regular Phone Number (and Why You Should)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
 
 Most Popular Topics
 
-* [September 7, 2024
+* [3 weeks ago
     
-    ### Nanoleaf’s Sense Plus Smart Switch is finally here](https://digitpatrox.com/nanoleafs-sense-plus-smart-switch-is-finally-here/)
-* [August 31, 2024
+    ### LottieFiles hit in npm supply chain attack targeting users’ crypto](https://digitpatrox.com/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/)
+* [August 18, 2024
     
-    ### Windows 11 builds 22635.4145 and 27695 drop in the Beta and Canary Channels with new features](https://digitpatrox.com/windows-11-builds-22635-4145-and-27695-drop-in-the-beta-and-canary-channels-with-new-features/)
-* [August 21, 2024
+    ### The Best Niche Streaming Services For Every Kind of Viewer](https://digitpatrox.com/the-best-niche-streaming-services-for-every-kind-of-viewer/)
+* [September 28, 2024
     
-    ### Monopoly Go Tycoon Academy: All Rewards and Milestones (August 20-23)](https://digitpatrox.com/monopoly-go-tycoon-academy-all-rewards-and-milestones-august-20-23/)
+    ### Welcome to Meta’s future, where everyone wears cameras](https://digitpatrox.com/welcome-to-metas-future-where-everyone-wears-cameras/)
 
 Last Modified Topics
 
-* [3 hours ago
+* [2 hours ago
     
-    ### Trump names Brendan Carr as his FCC leader](https://digitpatrox.com/trump-names-brendan-carr-as-his-fcc-leader/)
+    ### MSI Cubi NUC 1M review:](https://digitpatrox.com/msi-cubi-nuc-1m-review/)
+* [2 hours ago
+    
+    ### Dyson V11 Advanced review: the perfect middle-of-the-road Dyson cordless vacuum](https://digitpatrox.com/dyson-v11-advanced-review-the-perfect-middle-of-the-road-dyson-cordless-vacuum/)
 * [4 hours ago
     
-    ### Today’s Wordle Answer and Hints (November 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-18-2024/)
-* [6 hours ago
-    
-    ### AdGuard VPN Has a Great Early Black Friday Sale](https://digitpatrox.com/adguard-vpn-has-a-great-early-black-friday-sale/)
+    ### Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://digitpatrox.com/apples-lightning-to-3-5mm-headphone-adapter-may-be-going-away/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+* [August 12, 2024
+    
+    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
 * [August 11, 2024
     
     ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
-* [August 12, 2024
-    
-    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 21, 2024
-    
-    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
