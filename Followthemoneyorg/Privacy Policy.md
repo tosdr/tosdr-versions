@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
+[![2013 and 2014: Monetary Competitiveness in State Legislative Races](/assets/Uploads/Comp-vs-Incumb.png)](https://www.followthemoney.org/research/institute-reports/2013-and-2014-monetary-competitiveness-in-state-legislative-races/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
