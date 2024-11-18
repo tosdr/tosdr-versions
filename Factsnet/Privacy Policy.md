@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![18 Facts About Christian Pilgrimage ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/18-facts-about-christian-pilgrimage/)
+[![25 Facts About Nagygite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/25-facts-about-nagyagite/)
 
-Religion
+Earth Sciences
 
-17 Nov 2024
+18 Nov 2024
 
-[18 Facts About Christian Pilgrimage](https://facts.net/history/religion/18-facts-about-christian-pilgrimage/)
+[25 Facts About Nagygite](https://facts.net/earth-and-life-science/earth-sciences/25-facts-about-nagyagite/)
 
-[![19 Facts About Christian Animation ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%2284%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/history/religion/19-facts-about-christian-animation/)
+[![25 Facts About EuropiumIII Oxide ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/25-facts-about-europiumiii-oxide/)
 
-Religion
+Science
 
-17 Nov 2024
+18 Nov 2024
 
-[19 Facts About Christian Animation](https://facts.net/history/religion/19-facts-about-christian-animation/)
+[25 Facts About EuropiumIII Oxide](https://facts.net/science/25-facts-about-europiumiii-oxide/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
