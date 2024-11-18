@@ -9,8 +9,6 @@
 
 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale! 🔥 Cyber Monday Mega Sale! 🔥 Black Friday Mega Sale!
 
-* [Customer service](https://www.rangextd.com/pages/about-us)
-
 [![Savvy Smart and Deals Ltd](//savvysmartdeals.com/cdn/shop/files/savvy-logo_c16395f5-b834-4fcb-b105-3682b0b32199.png?v=1727427635&width=140)](https://www.rangextd.com/)
 
 [View catalog](https://www.rangextd.com/) [Search](#search)
@@ -40,6 +38,8 @@ Search results
 *  [![Auto Care & Tools](//savvysmartdeals.com/cdn/shop/collections/1-mb.jpg?crop=center&height=60&v=1728032127&width=60)Auto Care & Tools](https://www.rangextd.com/collections/auto-care-tools) _(5)_
 *  [![Savvy Techs](//savvysmartdeals.com/cdn/shop/collections/OIG2.Y4nMQUz_PXYmvNghDCQv.jpg?crop=center&height=60&v=1728031546&width=60)Top Savvy Techs](https://www.rangextd.com/collections/top-notch-techs) _(6)_
 *  [![Trending Now](//savvysmartdeals.com/cdn/shop/collections/OIG4.n.ENILTqNjmnlFCZsrcJ.jpg?crop=center&height=60&v=1730341005&width=60)Trending Now](https://www.rangextd.com/collections/trending-now) _(7)_
+
+* [Customer service](https://www.rangextd.com/pages/about-us)
 
  ![](//savvysmartdeals.com/cdn/shop/files/image_4_e44d9c7d-b185-4b52-be4d-7859438a8d56.png?crop=center&height=530&v=1730340191&width=700)![](//savvysmartdeals.com/cdn/shop/files/BF_Banner_13ffa942-792d-49a3-b800-225ac057bdfc.png?crop=center&height=1108&v=1730340117&width=700)
 
