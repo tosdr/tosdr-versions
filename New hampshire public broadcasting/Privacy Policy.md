@@ -191,8 +191,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**The Mirror and the Light: The Critics are Raving** | Wolf Hall](https://video.nhpbs.org/video/wolf-hall-the-mirror-and-the-light-the-critics-are-raving-qcejec?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Brenda Lee: Rockin' Around** | American Masters](https://video.nhpbs.org/video/brenda-lee-rockin-around-wxcuaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Kori Schake** | Firing Line](https://video.nhpbs.org/video/kori-schake-nna319?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**Raney Aronson John Chancellor Reel** | FRONTLINE](https://video.nhpbs.org/video/raney-aronson-john-chancellor-reel-u2g3nd?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [**After the Election: Now What?** | The State We're In](https://video.nhpbs.org/video/after-the-election-now-what-9akzus?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**: From Ordinary to Extraordinary (Teaser)** | Christa](https://video.nhpbs.org/video/christa-from-ordinary-to-extraordinary-teaser-lyf33w?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [| The Precipice](https://video.nhpbs.org/video/the-precipice-tpPPlw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
