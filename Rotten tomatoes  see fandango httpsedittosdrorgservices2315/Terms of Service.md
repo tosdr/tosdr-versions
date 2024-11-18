@@ -18,6 +18,7 @@ Offers
 
 Go to previous offer
 
+*  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Buy a ticket to Mufasa: The Lion King** Chance to win a vacation!
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **SPECIAL EARLY SCREENING** See Wicked in theaters early as a Prime Member
 *  ![offer icon](https://images.fandango.com/cms/assets/c5928c80-ca9f-11ed-9577-b524031771c2--gift-icon-svg.svg) **Set sail with Moana's Ticket 2 Adventure** Get 2 tickets to Moana 2 & more!
 *  ![offer icon](https://images.fandango.com/cms/assets/95b0efd0-c6e7-11ee-a14e-3f3f55d13640--ticket-icon.svg) **Rise to victory with The Champion's Collection** Get an Exclusive Gladiator II Movie Pack
@@ -60,6 +61,22 @@ Offers
 
 [SEE ALL OFFERS](https://www.fandango.com/offers)
 
+* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
+    
+    ### Introducing Fandango FanClub!
+    
+    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
+    
+    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
+    
+* [Chance to win a vacation! image link ![Chance to win a vacation!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/dc250740-a39a-11ef-a588-3b078e6b3d8a--fan-homepageofferunit-292x118.png)](https://www.fandangomovietickets.com/%20fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer) 
+    
+    ### Chance to win a vacation!
+    
+    Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
+    
+    [BUY TICKETS](https://www.fandangomovietickets.com/%20fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_Footer)
+    
 * [SPECIAL EARLY SCREENING image link ![SPECIAL EARLY SCREENING](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/c7c8cc70-9335-11ef-8321-2b978811c524--fan-offerunit-wicked-292x118.png)](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer) 
     
     ### SPECIAL EARLY SCREENING
@@ -67,14 +84,6 @@ Offers
     See Wicked in theaters early as a Prime Member Exclusive
     
     [BUY NOW](https://activaterewards.com/wickedprimescreening?cmp=TARS~FANDANGO~WickedAmazonScreening_Footer)
-    
-* [Set sail with the Moana 2 Ticket 2 Adventure image link ![Set sail with the Moana 2 Ticket 2 Adventure](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/b03cd7c0-9332-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-moanaticket2adventurebundle-292x118.jpg)](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer) 
-    
-    ### Set sail with the Moana 2 Ticket 2 Adventure
-    
-    Get two tickets to Moana 2, an exclusive limited release Disney pin set, and more for $54.99!
-    
-    [BUY NOW](https://www.fandangomovietickets.com/moana2ticket2adventure?cmp=TARS~FANDANGO~Moana2ticket2adventure_Footer)
     
 * [Ascend to victory with The Champion's Collection image link ![Ascend to victory with The Champion's Collection](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/117eeb80-9e1f-11ef-a588-3b078e6b3d8a--fan-globalofferunit-homepage-gladiator2bundle-292x118.png)](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer) 
     
@@ -84,19 +93,11 @@ Offers
     
     [LEARN MORE](https://www.fandangomovietickets.com/gladiator2championscollection?cmp=TARS~FANDANGO~Gladiator2TheChampionsCollection_Footer)
     
-* [Introducing Fandango FanClub! image link ![Introducing Fandango FanClub!](https://images.fandango.com/render/interlace/quality-65/resize-300/images.fandango.com/cms/assets/6be1ccb0-9333-11ef-ab6e-6bc4e16d49df--fanclub-p1-launch-tars-292x118-v3a.png)](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer) 
-    
-    ### Introducing Fandango FanClub!
-    
-    FanClub provides exclusive benefits that help you save money every time you go to the movies with monthly credits, fee-free tickets, and unique perks.
-    
-    [JOIN NOW](http://www.fandango.com/fanclub?cmp=TARS~FANDANGO~_Footer)
-    
 
 New & Coming soon
 -----------------
 
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234523/FND_poster_Wicked-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234523/WKD_Adv1Sheet12_1080x1350_3.jpg)
     
     Wicked (2024)](https://www.fandango.com/wicked-2024-234523/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/236836/Heretic-Payoff-Dated.jpg)
@@ -108,7 +109,7 @@ New & Coming soon
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234514/VNM3_OnLine_2000x3000_TSR_02_sm.jpg)
     
     Venom: The Last Dance (2024)](https://www.fandango.com/venom-the-last-dance-2024-234514/movie-overview)
-* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/FND_poster_Gladiator2-Presale.jpg)
+* [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/234519/G2_DOM_Online_Payoff_1-Sheet_06_FIN12.jpg)
     
     Gladiator II (2024)](https://www.fandango.com/gladiator-ii-2024-234519/movie-overview)
 * [![](https://images.fandango.com/ImageRenderer/200/0/redesign/static/img/default_poster.png/0/images/masterrepository/Fandango/235102/FND_poster_Moana2-Presale.jpg)
@@ -188,6 +189,16 @@ New & Coming soon
 [Advertise With Us](https://together.nbcuni.com/advertise/?utm_source=fandango&utm_medium=referral&utm_campaign=property_ad_pages)
 
 © 2024 Fandango | [A Division of NBCUniversal](https://www.nbcuniversal.com/)
+
+### Special Offer
+
+Close
+
+![Buy a ticket to Mufasa: The Lion King](https://images.fandango.com/cms/assets/678979e0-a3ac-11ef-8321-2b978811c524--fan-globalnavbar-mufasa-343x362.png)
+
+#### Buy a ticket to Mufasa: The Lion King for a chance to win a vacation to the Walt Disney World® Resort!
+
+Full official rules here: https://nbcuni.sharepoint.com/:w:/s/MarketingHub/Ef8WWBof2rJFrYGy6uqtjpsBVySk2cYBXvC366Y29mRHQg?e=t5p0E2 Abbreviated: NO PURCHASE OR APP NECESSARY. Open to legal residents of the 50 United States and D.C., 18 years of age and older. Void where prohibited. Ends December 29, 2024. For Official Rules/Odds/Free Entry visit https://www.fandangomovietickets.com/ fandangoscrownofthepridesweepstakes.com. Sponsor: Fandango Media, LLC, 12180 Millennium Dr., Ste. 200, Playa Vista, CA, 90094 [LEARN MORE](https://www.fandangomovietickets.com/%20fandangoscrownofthepridesweepstakes?cmp=TARS~FANDANGO~MufasaSweeps_promomodule)
 
 ### SPECIAL OFFER
 
