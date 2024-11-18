@@ -475,22 +475,23 @@ This privacy policy was last modified on April 24, 2024.
 
 ### Featured Articles
 
+[![Play Chess](https://www.wikihow.com/images/thumb/0/06/Play-Chess-Step-28-Version-5.jpg/-crop-126-120-126px-Play-Chess-Step-28-Version-5.jpg)
+
+How to  
+Play Chess](https://www.wikihow.com/Play-Chess)
+
+[![Mew](https://www.wikihow.com/images/thumb/2/21/Mew-Step-9.jpg/-crop-126-120-126px-Mew-Step-9.jpg)
+
+What Is Mewing and How Do You Do It?](https://www.wikihow.com/Mew)
+
+[![Detach from Someone](https://www.wikihow.com/images/thumb/4/40/Detach-from-Someone-Step-13-Version-2.jpg/-crop-126-120-126px-Detach-from-Someone-Step-13-Version-2.jpg)
+
+How to  
+Detach from Someone](https://www.wikihow.com/Detach-from-Someone)
+
 [![How Long Does the No Contact Rule Take to Work](https://www.wikihow.com/images/thumb/c/c3/How-Long-Does-the-No-Contact-Rule-Take-to-Work-Step-12.jpg/-crop-126-120-126px-How-Long-Does-the-No-Contact-Rule-Take-to-Work-Step-12.jpg)
 
 How Long Does the No Contact Rule Take to Work?](https://www.wikihow.com/How-Long-Does-the-No-Contact-Rule-Take-to-Work)
-
-[![Are You Happy](https://www.wikihow.com/images/thumb/2/29/Be-a-Hipster-Girl-Step-12-Version-2.jpg/-crop-126-120-126px-Be-a-Hipster-Girl-Step-12-Version-2.jpg)
-
-How Happy Am I Quiz](https://www.wikihow.com/Are-You-Happy)
-
-[![Live off the Grid](https://www.wikihow.com/images/thumb/1/1e/Live-off-the-Grid-Step-15-Version-3.jpg/-crop-126-120-126px-Live-off-the-Grid-Step-15-Version-3.jpg)
-
-How to  
-Live off the Grid](https://www.wikihow.com/Live-off-the-Grid)
-
-[![Maturity Test](https://www.wikihow.com/images/thumb/e/e4/Maturity-quiz.png/-crop-126-120-126px-Maturity-quiz.png)
-
-Am I Mature Quiz](https://www.wikihow.com/Maturity-Test)
 
   
 
@@ -533,4 +534,4 @@ Follow Us
 
 ![](https://sb.scorecardresearch.com/p?c1=2&c2=8003466&cv=3.9.1&cj=1)
 
-216
+192
