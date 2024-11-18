@@ -205,28 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Anagrammed Movies 2 (Part 2 of 2)](https://www.somethingawful.com/photoshop-phriday/anagrammed-movies-part-2/1/)
-* [Amazing Astronaut Adventures](https://www.somethingawful.com/photoshop-phriday/amazing-astronaut-adventures/1/)
-* [Star Wars D20 Original Adventure: The Empire's Bogus Merch (Part 1 of 2)](https://www.somethingawful.com/dungeons-and-dragons/star-wars-hutt/1/)
-* [What Happened On The Final Prairie Home Companion, I Assume](https://www.somethingawful.com/news/prairie-home-finale/)
-* [NEW New Adventures for Curious George!](https://www.somethingawful.com/comedy-goldmine/new-curious-george/1/)
+* [Points of View](https://www.somethingawful.com/news/points-of-view/)
+* [Defeat Boredom The Ace W. High Way!](https://www.somethingawful.com/news/defeat-boredom-ace/)
+* [Something Awful's Unintentional War Against Bitcoins](https://www.somethingawful.com/news/attack-of-bitcoins/1/)
+* [People Who Should Get Off The Internet](https://www.somethingawful.com/news/people-who-should/)
+* [Magazine Mayhem 2 (Part One)](https://www.somethingawful.com/photoshop-phriday/magazine-mayhem-part/1/)
 
 ### Popular Threads
 
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [The International United States Appreciation Thread](http://forums.somethingawful.com/showthread.php?threadid=4075517 "The International United States Appreciation Thread")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [We should officially make the Ampersand a part of the alphabet](http://forums.somethingawful.com/showthread.php?threadid=4075543 "We should officially make the Ampersand a part of the alphabet")
 * ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [So can I make French toast with egg nog instead of going through the work](http://forums.somethingawful.com/showthread.php?threadid=4075520 "So can I make French toast with egg nog instead of going through the work")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/serious.png) [Do you try to choose an appropriate "post icon" for your threads?](http://forums.somethingawful.com/showthread.php?threadid=4075485 "Do you try to choose an appropriate  "post icon" for your threads?")
 * ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [Making a thread on the something awful forums from my phone](http://forums.somethingawful.com/showthread.php?threadid=4075514 "Making a thread on the something awful forums from my phone")
 * ![](https://fi.somethingawful.com/forums/posticons/balls.gif) [you can post threats with awful app now](http://forums.somethingawful.com/showthread.php?threadid=4075522 "you can post threats with awful app now")
+* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you like clam chowder?](http://forums.somethingawful.com/showthread.php?threadid=4075540 "Do you like clam chowder?")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [Temporary Fun Time!](http://forums.somethingawful.com/showthread.php?threadid=4075536 "Temporary Fun Time!")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [let's post double dactyls (long op) (effortpost) (all skill levels welcome)](http://forums.somethingawful.com/showthread.php?threadid=4075500 "let's post double dactyls (long op) (effortpost) (all skill levels welcome)")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [The International United States Appreciation Thread](http://forums.somethingawful.com/showthread.php?threadid=4075517 "The International United States Appreciation Thread")
 
 ### Random Articles
 
-* [Ultimate Grudge Match: The Takers vs. The Makers](https://www.somethingawful.com/news/makers-romney-ryan/)
-* [Sly Bald Guys, A Haunting, and the Inflatable Furry Hub](https://www.somethingawful.com/weekend-web/bald-haunted-furries/1/)
-* [State Og Update: 01.31.04](https://www.somethingawful.com/state-og/state-og-update-57/)
-* [State Og Update: 08.21.04](https://www.somethingawful.com/state-og/state-og-update-81/)
-* [NASA New Horizons Pluto Mission Explores the Limits of the Word "Exciting"](https://www.somethingawful.com/news/nasa-pluto-boring/)
+* [Fantasy Football](https://www.somethingawful.com/news/fantasy-football/)
+* [Mass Effect: Andromeda's Missing Paragon/Renegade Choices](https://www.somethingawful.com/news/mass-andromeda-paragon/)
+* [Plot Points for Under the Dome Seasons 3 Through 10](https://www.somethingawful.com/news/under-dome-plot/)
+* [Amazon Dash Buttons!](https://www.somethingawful.com/photoshop-phriday/amazon-dash-capitalism/)
+* [Pombreden's Pomeranians (Thanks, Todd!)](https://www.somethingawful.com/awful-links/pombredens-pomeranians/)
 
 [Random!](https://www.somethingawful.com/random/)
 
