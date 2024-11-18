@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Hi, thanks for this great add-on. I'm a chinese, so foxyproxy means much for me.
+FoxyProxy is worth every cent.
 
-Zero
+Thomas Loweg
