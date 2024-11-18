@@ -1,6 +1,6 @@
 5.39.5
 
-1731941416523
+1731963019867
 
                                              
 
@@ -12,7 +12,7 @@ en
 
 3.16.0
 
-1731940226217
+1731963387290
 
      Next Terms & Conditions | T&C's | Next Official Site                                  
 
@@ -22,7 +22,7 @@ en
 
 cutaway22
 
-1731940917086
+1731961625546
 
 You need to enable JavaScript to run this app.
 
@@ -786,22 +786,6 @@ The Rituals Free Gift will be automatically added to bag when you buy any 2 sele
 To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
 
 The Rituals Gift will be automatically added once 2 qualifying Rituals products have been added to the bag on either the Product or Shopping Bag pages.
-
-The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
-
-This offer is not available to staff.
-
-Offer applies while stocks last.
-
-### BOSS Promotion
-
-The BOSS Free Gift will be automatically added to bag when you buy any selected BOSS products. The BOSS Gift contains:
-
-* BOSS Bottled Eau de Toilette 5ml
-
-To get the saving, you must order the qualifying items within the same order at the same time. If you later return one of the items, you will no longer be entitled to the discount. This offer applies to selected indicated items when purchased at full price.
-
-The BOSS Gift will be automatically added once 2 qualifying BOSS products have been added to the bag on either the Product or Shopping Bag pages.
 
 The promotion can only be used by the account holder, and you must be logged in to your account to view and shop the promotion.
 
@@ -2946,6 +2930,8 @@ This item has been added/removed from a user's Favourites List.
   
 Not already logged in? [Sign Out](https://www.next.co.uk/secure/account/MyAccount/AccountSummary/ForgetMe)
 
+ 
+
 Confirm Country Change
 
 Are you sure you want to navigate away from this site?
@@ -2977,7 +2963,7 @@ You need to enable JavaScript to run this app.
 
 3.16.0
 
-1731940456004
+1731961896887
 
 ### Our Social Networks
 
