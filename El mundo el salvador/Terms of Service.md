@@ -3,7 +3,7 @@
 Terminos y condiciones - Diario El Mundo
 ========================================
 
-Domingo 17 De Noviembre Del 2024
+Lunes 18 De Noviembre Del 2024
 
 [![logo](https://static.elmundo.sv/kdg-content/featured/logos/diario_el_mundo_hd_black.svg)](https://diario.elmundo.sv/ "Diario El Mundo")
 
