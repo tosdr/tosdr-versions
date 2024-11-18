@@ -8,77 +8,10 @@
 
 [MENU](https://www.lealternative.net/menu/)
 
-* [MENU](#)Apri menu
-    * [CHI SIAMO](https://www.lealternative.net/chi-siamo/)
-    * [PROGETTI ETICI](https://www.lealternative.net/progetti-etici/)
-    * [COME SEGUIRCI](https://www.lealternative.net/come-seguirci/)
-    * [DIZIONARIO](https://www.lealternative.net/dizionario-nerd-italiano/)
-    * [PRIVACY POLICY](https://www.lealternative.net/privacy-policy/)
-    * [DISCLAIMER](https://www.lealternative.net/disclaimer/)
-    * [TEST](https://privacytest.lealternative.net/)
-    * [DONAZIONI](https://www.lealternative.net/donazioni/)
-    * [❄️](https://www.lealternative.net/snowflake/)
-* [CATEGORIE](#)Apri menu
-    * [LE ALTERNATIVE](https://www.lealternative.net/category/le-alternative/)
-        * [• ALTERNATIVE A GOOGLE](https://www.lealternative.net/category/le-alternative/alternative-a-google/)
-        * [• OLTRE GOOGLE](https://www.lealternative.net/category/le-alternative/oltre-google/)
-        * [• PILLOLE](https://www.lealternative.net/category/le-alternative/pillole/)
-    * [NOTIZIE](https://www.lealternative.net/category/news/)
-        * [• CASSANDRA CROSSING](https://www.lealternative.net/category/news/cassandra-crossing/)
-            * [• ARCHIVISMI](https://www.lealternative.net/category/news/cassandra-crossing/archivismi/)
-        * [FEDIVERSO](https://www.lealternative.net/category/fediverso/)
-        * [• CURIOSITÀ](https://www.lealternative.net/category/news/curiosita/)
-        * [• ESEMPI PRATICI](https://lealternative.net/tag/esempi-pratici/)
-    * [RECENSIONI](https://www.lealternative.net/category/recensioni/)
-        * [• BROWSER](https://www.lealternative.net/category/recensioni/browser-recensioni/)
-        * [• MESSAGGISTICA](https://www.lealternative.net/category/recensioni/messaggistica/)
-        * [• CLOUD STORAGE](https://www.lealternative.net/category/recensioni/cloud-storage/)
-        * [• CONTATTI & CALENDARIO](https://www.lealternative.net/category/recensioni/contatti-calendario/)
-        * [• MOTORI DI RICERCA](https://www.lealternative.net/category/recensioni/motori-di-ricerca/)
-        * [PASSWORD MANAGER](https://www.lealternative.net/category/recensioni/password-manager/)
-        * [• SISTEMI OPERATIVI](https://www.lealternative.net/category/recensioni/sistemi-operativi/)
-    * [SOFTWARE](https://www.lealternative.net/category/foss/software/)
-        * [• BROWSER](https://www.lealternative.net/category/foss/software/browser/)
-        * [• CULTURA E CAZZEGGIO](https://www.lealternative.net/category/foss/software/cultura-e-cazzeggio/)
-        * [• PRIVACY SUI SOCIAL](https://www.lealternative.net/category/foss/software/privacy-sui-social/)
-        * [• SALUTE E SPORT](https://www.lealternative.net/category/foss/software/salute-e-sport/)
-        * [• SICUREZZA](https://www.lealternative.net/category/foss/software/sicurezza/)
-        * [• STRUMENTI AVANZATI](https://www.lealternative.net/category/foss/software/strumenti-avanzati/)
-        * [• UTILIZZO QUOTIDIANO](https://www.lealternative.net/category/foss/software/utilizzo-quotidiano/)
-        * [• VIAGGI E MAPPE](https://www.lealternative.net/category/foss/software/viaggi-e-mappe/)
-    * [GIOCHI](https://www.lealternative.net/category/foss/giochi/)
-        * [• SMARTPHONE](https://www.lealternative.net/category/foss/giochi/smartphone/)
-        * [• DESKTOP](https://www.lealternative.net/category/foss/giochi/desktop/)
-* [GUIDE
-    
-    Benvenuti nella sezione delle guide. Qui dentro potete trovare le guide per l’utilizzo di programmi e non solo come ad esempio l’utilissima guida per Tor scritta da DebianMan. Una sezione dedicata a chi vuole approfondire l’argomento privacy con qualche chicca tecnica!](https://www.lealternative.net/category/guide/)
-* [VIDEO](#)Apri menu
-    * [sul SITO](https://www.lealternative.net/category/news/video/)
-    * [su PEERTUBE](https://peertube.uno/accounts/lealternativenet/video-channels)
-    * [su YOUTUBE](https://www.youtube.com/@lealternative)
-* [COMUNITÀ](#)Apri menu
-    * [FORUM](https://lealternative.forum/)
-    * [FEDDIT (alternativa a Reddit)](https://feddit.it/c/lealternative)
-    * [MATRIX (alternativa a Discord)](https://matrix.to/#/#lealternative-spazio:matrix.org)
-        * [GRUPPO LINUX](https://matrix.to/#/#lealternative-linux:matrix.org)
-        * [GRUPPO ANDROID](https://matrix.to/#/#lealternative-android:matrix.org)
-        * [GRUPPO OT](https://matrix.to/#/#lealternative-ot:matrix.org)
-    * [XMPP](https://www.lealternative.net/come-seguirci#xmpp)
-    * [SIGNAL](https://fedd.it/signal)
-    * [SIMPLEX CHAT](https://fedd.it/simplex)
-    * [TELEGRAM](#)
-        * [GRUPPO TELEGRAM](https://t.me/LeAlternativeGruppoUfficiale)
-        * [CHAT TELEGRAM](https://t.me/LeAlternativeChat)
-        * [CANALE TELEGRAM](https://t.me/lealternative)
-        * [FRESH (NOTIZIE)](https://t.me/LeAlternativeFresh)
-    * [WHATSAPP](https://whatsapp.com/channel/0029VaDwOJX89inqY9gDap1L)
-* [DIFFICOLTÀ](#)Apri menu
-    * [DIFFICOLTÀ ◉○○○](https://www.lealternative.net/difficolta-1/)
-    * [DIFFICOLTÀ ◉◉○○](https://www.lealternative.net/difficolta-2/)
-    * [DIFFICOLTÀ ◉◉◉○](https://www.lealternative.net/difficolta-3/)
-    * [DIFFICOLTÀ ◉◉◉◉](https://www.lealternative.net/difficolta-4/)
-* [À LA CARTE](https://lista.lealternative.net/)
+* [MENU](https://www.lealternative.net/menu)
+* [CHI SIAMO](https://www.lealternative.net/chi-siamo/)
 * [🔎](https://www.lealternative.net/cerca-nel-sito/)
+* [❄️](https://www.lealternative.net/snowflake/)
 
 [Menù e ricerca per No JavaScript](https://www.lealternative.net/menu/)
 
@@ -196,9 +129,8 @@ Usando il nostro sito web, acconsenti alla nostra politica sulla privacy e accet
 [![Le Alternative](https://www.lealternative.net/wp-content/uploads/2021/11/logowhite-orange-new-conbordino.png)](https://www.lealternative.net/)
 
 [Trasparenza](https://www.lealternative.net/donazioni/#trasparenza) | [Contatti](https://www.lealternative.net/chi-siamo/#contatti) | [Disclaimer](https://www.lealternative.net/disclaimer/) | [Privacy](https://www.lealternative.net/privacy-policy/) | [CC BY-SA 4.0](https://www.lealternative.net/disclaimer/#licenza)  
-[Stato dei nostri servizi grazie a UptimeRobot ![](/wp-content/uploads/loghi/uptimerobot-logo-01-safe-bff1bd066d46.webp)](https://stats.uptimerobot.com/ACzo47d1gZ)   
+[Stato dei nostri servizi grazie a UptimeRobot ![Logo di UptimeRobot](/wp-content/uploads/loghi/uptimerobot-logo-01-safe-bff1bd066d46.webp)](https://stats.uptimerobot.com/ACzo47d1gZ)   
 Questo sito [utilizza](https://www.infomaniak.com/it/ecologia) solo energia verde 💚
 
 • Questo sito utilizza solo cookie tecnici e non fa alcuna profilazione. Per questo non dovete firmare strani patti con il diavolo per visitarci.  
-• Tutti gli articoli di Le Alternative sono senza affiliazioni, senza _codici referral_ e da nessuna parte troverete della pubblicità. Per mantenere una totale autonomia abbiamo deciso di accettare solamente donazioni così da non avere alcun tipo di pregiudizio nella stesura degli articoli.  
-• Il font utilizzato è [Sylexiad Serif](https://www.sylexiad.com/download-typefaces/sylexiad-serif/index.html), un font ad alta leggibilità sviluppato da **Robert Hillier**[.](https://poliversity.it/@skariko)
+• Tutti gli articoli di Le Alternative sono senza affiliazioni, senza _codici referral_ e da nessuna parte troverete della pubblicità. Per mantenere una totale autonomia abbiamo deciso di accettare solamente donazioni così da non avere alcun tipo di pregiudizio nella stesura degli articoli.
