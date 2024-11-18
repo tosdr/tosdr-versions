@@ -209,7 +209,7 @@ Get in touch with us
 
 [](https://www.linkedin.com/company/truyo)[](https://www.facebook.com/truyofb?mibextid=kFxxJD)[](https://twitter.com/truyohq)
 
-[Subscribe to Newsletter](https://share.hsforms.com/1Ug9gvmwyQJesXojIjSWTBw2plvj)
+[Subscribe to Newsletter](https://share.hsforms.com/180Oym57yRFKBciKLIQQOlg2plvj)
 
 ![](/wp-content/uploads/2024/09/IAPP-Gold-Member.png) ![](/wp-content/uploads/2024/09/21972-312_SOC_NonCPA.png) ![](/wp-content/uploads/2024/09/CSA-Solution-Provider.png) ![](/wp-content/uploads/2024/09/StateRAMP.png) ![](/wp-content/uploads/2024/09/GovAI.png)
 
