@@ -8,7 +8,7 @@ Solutions
 
 **Industry**
 
-[Financial Services](https://flourish.studio/solutions/financial-services) [Professional Services](https://flourish.studio/solutions/professional-services) [Newsrooms](https://flourish.studio/solutions/newsrooms) [Marketing](https://flourish.studio/solutions/marketing) [Nonprofits](https://flourish.studio/solutions/not-for-profit) [Government](https://flourish.studio/solutions/government)
+[Financial Services](https://flourish.studio/solutions/financial-services) [Professional Services](https://flourish.studio/solutions/professional-services) [Newsrooms](https://flourish.studio/solutions/newsrooms) [Marketing](https://flourish.studio/solutions/marketing) [Nonprofits](https://flourish.studio/solutions/not-for-profit) [Government](https://flourish.studio/solutions/government) [Education](https://flourish.studio/solutions/education)
 
 **Use cases**
 
@@ -306,6 +306,7 @@ Our local representative in the EEA is European Data Protection Office (EDPO) wi
 * [Marketing](https://flourish.studio/solutions/marketing)
 * [Nonprofits](https://flourish.studio/solutions/not-for-profit)
 * [Government](https://flourish.studio/solutions/government)
+* [Education](https://flourish.studio/solutions/education)
 
 #### Resources
 
