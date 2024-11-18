@@ -117,57 +117,59 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=194877356)  
-Wiselink Broadband Dundee
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=173520838)  
+BD Maintenance
 
-![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=62584297)  
-Super Sound Man (PTY) Ltd
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=6896393)  
+MONSTER SECURITY GUARDING
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=73754350)  
-Frequency Fanatics (Pty) Ltd
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=87876847)  
-Fox Alarms & Security CC
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=9439827)  
-The Gourmet Artisans Ltd.
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=204372817)  
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=139928852)  
 West Coast Horse Trails
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=147134911)  
-TurboFibre
+![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=100698541)  
+Immediate Health (pty)ltd
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=186275711)  
-Vplay Letsheng Mall
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=65025879)  
+Imvubu General Trading
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=161960291)  
-MR Compressors& Industrial Supplies
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=205663704)  
+Mtunzini Group
 
-![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=52257302)  
-Moremi Kitchens Rustenburg
-
-![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=158562393)  
-Frameless Fanatix (Pty) Ltd.
-
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=186820800)  
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=68759081)  
 MOSELA GROUP Pty(ltd)
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=205658728)  
-Tracknetics
+![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=204598356)  
+Repairs In Motion
 
-![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=178214320)  
-Desygn
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=201254628)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
 
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=60503937)  
-Waterfinatics Swim School
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=123482921)  
+Printo
+
+![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=190300334)  
+Kainos (Pty) Ltd
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=15557449)  
+United Paintball Federation
+
+![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=179595526)  
+SAUL ATHOL ACRES RENTAL
+
+![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=142850107)  
+Roekeloos Group
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=171257970)  
+Goju Ryu Karate Centre
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
