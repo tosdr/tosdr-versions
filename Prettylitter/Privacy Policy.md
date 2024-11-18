@@ -302,9 +302,9 @@ Europe
 
 Austria
 
-[Deutsch](https://www.prettylitter.com/de-at)
+[Deutsch](https://aut.mars.com/)
 
-[Deutsch](https://www.prettylitter.com/de-at)
+[Deutsch](https://aut.mars.com/)
 
 Belgium
 
