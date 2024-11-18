@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:37pm |
-| Famous FriendsChris Young And Kane Brown<br><br>4:34pm |
-| What My World Spins AroundJordan Davis<br><br>4:31pm |
-| Wind Up Missing YouTucker Wetmore<br><br>4:28pm |
-| May We AllFlorida Georgia Line Ft Tim Mcgraw<br><br>4:25pm |
+| I Never LieZach Top<br><br>10:39pm |
+| Thank GodKane Brown Ft Katelyn Brown<br><br>10:36pm |
+| Mud On The TiresBrad Paisley<br><br>10:33pm |
+| Love SomebodyMorgan Wallen<br><br>10:29pm |
+| Save MeJelly Roll Ft Lainey Wilson<br><br>10:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,21 +358,21 @@ State
 Featured Brands
 ---------------
 
-[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
-
-Country • Western
-
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
