@@ -253,23 +253,15 @@ Latest News
 
 [Microsoft opens AI and robotics research base in Tokyo](https://www.japantimes.co.jp/business/2024/11/18/tech/microsoft-ai-robotics-tokyo/ "Microsoft opens AI and robotics research base in Tokyo")
 
-4 hours ago
+10 hours ago
 
 [Yamanashi officially scraps Fuji railway plan as it looks to Chinese tram](https://www.japantimes.co.jp/news/2024/11/18/japan/fuji-chinese-tram-announcement/ "Yamanashi officially scraps Fuji railway plan as it looks to Chinese tram")
 
-6 hours ago
-
 [How Bluesky, alternative to X and Facebook, is handling explosive growth](https://www.japantimes.co.jp/business/2024/11/18/tech/bluesky-growth-twitter-x/ "How Bluesky, alternative to X and Facebook, is handling explosive growth")
-
-6 hours ago
 
 [Japan to test anti-drone laser system next year](https://www.japantimes.co.jp/news/2024/11/18/japan/japan-antidrone-laser-system/ "Japan to test anti-drone laser system next year")
 
-6 hours ago
-
 [Indefinite prison term sought for murder of 'Don Juan of Kishu'](https://www.japantimes.co.jp/news/2024/11/18/japan/crime-legal/don-juan-indefinite-prison-request/ "Indefinite prison term sought for murder of 'Don Juan of Kishu'")
-
-7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
