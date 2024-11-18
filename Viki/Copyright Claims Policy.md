@@ -13,52 +13,52 @@
 * [](https://www.viki.com/sign-in)
 * 
 
-Politique relative aux droits d’auteur
---------------------------------------
+Copyright Policy
+----------------
 
-Dernière mise à jour: 16 septembre 2020
+Last updated: 16 September 2020
 
-Viki, Inc. propose une plateforme interactive qui vous permet d’accéder aux émissions télévisées, aux films et autres contenus (collectivement, le «**Contenu**»), d’interagir avec d’autres utilisateurs et de faire partie d’une communauté en ligne où vous pouvez publier des commentaires et des évaluations et apporter des sous-titres pour le Contenu («**Rakuten Viki**», «**Nous**», «**Nos**» et/ou «**Notre**»).
+Viki, Inc. provides you with an interactive platform that allows you to access television shows, movies and other content (collectively, “**Content**”), interact with other users and be part of an online community where you may review, comment andprovide subtitles for the Content (“**Rakuten Viki**”, “**We**”, “**Our**” and/or “**Us**”).
 
-La présente Politique relative aux droits d’auteur décrit comment Nous répondons aux avis clairs qui dénoncent une violation du droit d’auteur relative au contenu ou aux liens vers le contenu mis à disposition par Viki.com, les applications de marque Rakuten Viki, Soompi.com, les applications de marque Soompi, et d’autres sites, applications, communications et services liés à Rakuten Viki (collectivement, les «**Services**») de manière entièrement conforme à la loi Digital Millennium Copyright Act (la «**Loi DMCA**»).
+This Copyright Policy describes how We respond to clear notices of claimed copyright infringement relating to material or links to material made available through Viki.com, Rakuten Viki branded applications, Soompi.com, Soompi branded applications, and other Rakuten Viki related sites, applications, communications and services (collectively, “**Services**”) that fully comply with the Digital Millennium Copyright Act (“**DMCA**”).
 
-Veuillez noter qu’en vertu de la Section 512(f) 17 U.S.C., toute personne qui fait en connaissance de cause une fausse déclaration substantielle quant au fait que le contenu est en infraction, ou que le contenu a été retiré ou désactivé par erreur ou mauvaise identification, engage sa responsabilité.
+Please note that under 17 U.S.C. Section 512(f), any person who knowingly materially misrepresents that material is infringing, or that material was removed or disabled by mistake or misidentification, may be subject to liability.
 
-1. **COMMENT SOUMETTRE UN AVIS DE DROITS D’AUTEUR DMCA?**
+1. **HOW TO SUBMIT A DMCA COPYRIGHT NOTICE?**
     
-    Si vous êtes un propriétaire de droits d’auteur ou son mandataire, et que vous estimez que du contenu mis à disposition sur nos Services porte atteinte à vos droits d’auteur, vous (le «**Demandeur**») pouvez soumettre un Avis DMCA de droit d’auteur par écrit (un e-mail est accepté) au responsable du droit d’auteur de Viki avec toutes les informations suivantes:
+    If you are a copyright owner or agent thereof, and you believe that any material made available on our Services infringes your copyright, then you (“**Claimant**”) may submit a written DMCA Copyright Notice (email is accepted) to Viki’s Designated Copyright Agent with all the following information:
     
-    1. L’identification du travail protégé par des droits d’auteur qui ont été violés ou, si plusieurs œuvres protégées par des droits d’auteur sont couvertes par une seule notification, une liste représentative de ces œuvres (par ex. une copie ou un lien vers l’œuvre originale);
-    2. L’identification des ressources prétendument en violation ou faisant l’objet d’une activité de violation, qui doivent être retirées ou dont l’accès doit être désactivé, et des informations raisonnablement suffisantes pour Nous permettre de localiser les ressources sur nos Services (par ex. un lien vers les ressources en violation);
-    3. Une déclaration dans laquelle:
-        1. vous estimez de bonne foi que l’utilisation des ressources de la façon faisant l’objet de la plainte n’est pas autorisée par le propriétaire du droit d’auteur, son agent ou la loi; et
-        2. vous attestez que les informations contenues dans l’avis sont exactes, et sous peine de parjure, que vous êtes autorisé à agir au nom du propriétaire du droit d’auteur auquel il a prétendument été porté atteinte;
-    4. vous donnez des informations raisonnablement suffisantes pour Nous permettre de vous contacter, par exemple une adresse, un numéro de téléphone, et le cas échéant, une adresse électronique; et
-    5. vous fournissez une signature physique ou électronique d’une personne autorisée à agir au nom du propriétaire du droit d’auteur qui détient un droit exclusif prétendument violé (il suffit de taper votre nom légal complet).
-2. **COMMENT POUVONS-NOUS RÉPONDRE À L’AVIS DE DROITS D’AUTEUR DMCA?**
+    1. Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works are covered by a single notification, a representative list of such works (e.g. a copy of or link to the original work);
+    2. Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Us to locate the material on Our Services (e.g. a link to the infringing material);
+    3. A statement that:
+        1. you have a good faith belief that use of the copyrighted work in the manner complained of is not authorized by the copyright owner, its agent, or the law; and
+        2. the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed;
+    4. Information reasonably sufficient to permit Us to contact you, such as an address, telephone number, and email address (if available); and
+    5. A physical or electronic signature of the person authorized to act on behalf of the copyright owner of an exclusive right that is allegedly infringed (typing your full legal name is sufficient).
+2. **HOW WE MAY RESPOND TO DMCA COPYRIGHT NOTICE?**
     
-    Nous pouvons supprimer ou désactiver l’accès à tout contenu en infraction. Si nous décidons de supprimer ou de désactiver l’accès au contenu en réponse à un Avis de droit d’auteur DMCA, nous nous efforcerons de contacter la personne qui a publié ou mis à disposition le contenu en question (l’«**Auteur présumé de la contrefaçon**»). Nous pouvons, à Notre discrétion, transmettre une copie de l’Avis de droit d’auteur DMCA à l’Auteur présumé de la contrefaçon.
+    We may remove or disable access to any infringing material. If We decide to remove or disable access to material in response to a DMCA Copyright Notice, We will make efforts to contact the person who has posted or made available the material at issue (“**Alleged Infringer**”). We may, at Our discretion, share a copy of the DMCA Copyright Notice to the Alleged Infringer.
     
-3. **COMMENT SOUMETTRE UN CONTRE-AVIS DMCA?**
+3. **HOW TO SUBMIT A DMCA COUNTER NOTICE?**
     
-    Si vous pensez que votre contenu a été retiré ou que l’accès y a été restreint à la suite d’une erreur ou d’une mauvaise identification, vous pouvez soumettre un contre-avis DMCA au responsable désigné de Viki pour les droits d’auteur en fournissant toutes les informations suivantes:
+    If you believe your material was removed or to which access was restricted as a result of mistake or misidentification, you may submit a DMCA Counter Notice to Viki’s Designated Copyright Agent with all the following information:
     
-    1. Identification du contenu et de son emplacement avant leur retrait ou leur mise hors service;
-    2. Une déclaration dans laquelle:
-        1. vous attestez sous serment que vous considérez de bonne foi que le contenu a été retiré ou désactivé par erreur ou par mauvaise identification; et
-        2. vous consentez à la compétence du tribunal fédéral de district pour l’adresse fournie et, si vous résidez en dehors des États-Unis, vous consentez à la compétence de tout district judiciaire dans lequel Rakuten Viki se trouve, et vous accepterez la signification de la procédure de la personne qui a émis l’Avis de violation DMCA initiale.
-    3. Votre nom légal complet, votre adresse physique, votre adresse électronique (le cas échéant), votre numéro de téléphone et votre signature physique ou électronique (il suffit de taper votre nom légal complet).
-4. **QUE SE PASSE-T-IL APRÈS AVOIR TRANSMIS UN CONTRE-AVIS DMCA?**
+    1. Identification of the material and its location before removal or being disabled;
+    2. A statement that:
+        1. You swear, under penalty of perjury that you have a good faith belief that the material was removed or disabled by mistake or misidentification; and
+        2. You consent to the jurisdiction of the Federal District court for the address provided or, if your address is outside of the United States, you consent to the jurisdiction of any juridical district in which Rakuten Viki is located, and that you will accept service of process from the person who filed the original DMCA Copyright Notice; and
+    3. Your full legal name, physical address, email address (if available), telephone number, and physical or electronic signature (typing your full legal name is sufficient).
+4. **WHAT HAPPENS AFTER YOU SUBMIT A DMCA COUNTER NOTICE?**
     
-    Nous pouvons, à Notre discrétion, transmettre une copie du contre-avis DMCA au Demandeur. Nous pouvons rétablir ou réactiver l’accès au contenu en question si nous ne recevons pas de notification du Demandeur selon laquelle une action a été déposée pour obtenir une ordonnance du tribunal afin d’empêcher toute autre infraction, dans les 10 jours ouvrables après que Nous ayons communiqué le contre-avis DMCA au Demandeur.
+    We may, at Our discretion, share a copy of the DMCA Counter Notice with the Claimant. We may restore or cease disabling access to the material at issue if we do not receive notice from the Claimant that an action has been filed seeking a court order to prevent further infringement, within 10 business days after We shared the DMCA Counter Notice with the Claimant.
     
-5. **POLITIQUE RELATIVE AUX RÉCIDIVES**
+5. **REPEAT INFRINGER POLICY**
     
-    Notre politique consiste à résilier, dans les circonstances appropriées, les comptes des utilisateurs qui commettent des infractions à répétition ou qui commettent une seule infraction si les circonstances le justifient. Cela ne limite pas Notre capacité à solliciter tout autre recours que Nous pourrions avoir pour traiter une infraction présumée ou avérée.
+    Our policy is to terminate in the appropriate circumstances, the accounts of users who are repeat infringers or who infringe on a single occasion if the circumstances warrant. This does not limit Our ability to pursue other remedies We may have to address suspected or actual infringement.
     
-6. **NOTRE RESPONSABLE DES DROITS D’AUTEUR DÉSIGNÉ**
+6. **OUR DESIGNATED COPYRIGHT AGENT**
     
-    Vous pouvez contacter Notre responsable des droits d’auteur désigné en envoyant un e-mail à [dmca@viki.com](mailto:dmca@viki.com) ou par courrier à l’adresse suivante:
+    You can contact Our Designated Copyright Agent by sending an email to [dmca@viki.com](mailto:dmca@viki.com) or by mail to the following address:
     
     **Viki, Inc**  
     Attention: Designated Copyright Agent/ Legal Department  
