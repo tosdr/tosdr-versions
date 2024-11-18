@@ -184,7 +184,7 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**News Wrap: Biden allows Ukraine to fire missiles into Russia** | PBS News Hour](https://video.nhpbs.org/video/news-wrap-1731878449?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**November 17, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/november-17-2024-pbs-news-weekend-full-episode-1731876836?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2025 Chevrolet Equinox & 2025 Toyota Camry** | MotorWeek](https://video.nhpbs.org/video/2025-chevrolet-equinox-2025-toyota-camry-fki59f?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview Watermelon Vibes** | The Key Ingredient](https://video.nhpbs.org/video/preview-watermelon-vibes-o1nbhg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Vienna Blood](https://video.nhpbs.org/video/preview-kuzpc3?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
