@@ -123,10 +123,6 @@ Important Links
 * [DISCLOSURE](https://contentspotlight.org/disclosure/)
 * [TERMS OF USE](https://contentspotlight.org/terms-of-use/)
 
-![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%20877'%3E%3C/svg%3E)
-
-![](https://contentspotlight.org/wp-content/uploads/2024/11/global_award_fall_2024-1024x877.png)
-
 Copyright © Content Spotlight 2024 All Rights Reserved.
 
 error: Content is protected !!
