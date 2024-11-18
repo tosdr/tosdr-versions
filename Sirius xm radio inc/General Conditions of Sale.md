@@ -174,18 +174,9 @@ Page content follows
         * [Shop All Parts](https://shop.siriusxm.com/all-parts/)
         
     
-* [Radio Support](#)
-    
-    * ![Installation Help](https://sxm.ips.photos/sxm-java/images/categories/20_ONE_SIZE_IMAGE_02_3585_-462083504.png) [Installation Help](https://shop.siriusxm.com/installation/)
-    * ![Product Support](https://sxm.ips.photos/sxm-java/images/categories/21_ONE_SIZE_IMAGE_02_3586_-1150298678.png) [Product Support](https://shop.siriusxm.com/support/)
-    * ![Troubleshooting](https://sxm.ips.photos/sxm-java/images/categories/22_ONE_SIZE_IMAGE_02_3589_1133571091.png) [Troubleshooting](https://shop.siriusxm.com/installation/)
-    * ![Replacement Parts](https://sxm.ips.photos/sxm-java/images/categories/23_ONE_SIZE_IMAGE_02_3590_-1279369687.png) [Replacement Parts](https://shop.siriusxm.com/all-parts/)
-    * ![Accessories](https://sxm.ips.photos/sxm-java/images/categories/24_ONE_SIZE_IMAGE_02_3593_-792170361.png) [Accessories](https://shop.siriusxm.com/accessories-and-parts/shop-by-accessory/shop-all-accessories/)
-    * ![User Guides](https://sxm.ips.photos/sxm-java/images/categories/203_ONE_SIZE_IMAGE_02_3594_-1653719574.png) [User Guides](https://shop.siriusxm.com/Radio-Support/User-Guide/)
-    
 * [My Orders](#)
 
-* [Need Help? Call 1-855-856-3679](tel:18558563679)
+* Need Help? Call 1-855-856-3679
 * [My Orders](#)
 * |
 * [My Cart](#)
