@@ -190,14 +190,21 @@
 
 Subscribe
 
-[#### Fitness](https://www.healthline.com/fitness)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* [Exercise](https://www.healthline.com/fitness/exercise)
-* [Cardio](https://www.healthline.com/fitness/cardio)
-* [Products](https://www.healthline.com/fitness/products)
-* [Strength Training](https://www.healthline.com/fitness/strength-training)
-* [Yoga](https://www.healthline.com/fitness/yoga)
-* [Holistic Fitness](https://www.healthline.com/fitness/holistic-fitness)
+* Stages
+    
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
+    
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Privacy Policy
 ==============
