@@ -4,7 +4,7 @@ Jenő
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNgYAAAAAMAASsJTYQAAAAASUVORK5CYII= "erősen felhős")
 
-0°9°
+2°6°
 
 Menü
 
