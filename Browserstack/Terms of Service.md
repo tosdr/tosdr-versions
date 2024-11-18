@@ -162,31 +162,47 @@ Test WCAG compliance](https://www.browserstack.com/app-accessibility-testing "Ap
 
 Empower teams with
 
-[BrowserStack for Enterprise →](https://www.browserstack.com/enterprise?ref=header-web-testing "BrowserStack for Enterprise")
+[BrowserStack for Enterprise ->](https://www.browserstack.com/enterprise?ref=header-web-testing "BrowserStack for Enterprise ->")
 
 Explore
 
-[BrowserStack Code Quality →](https://www.browserstack.com/codequality?ref=header-web-testing "BrowserStack Code Quality")
+[BrowserStack Code Quality ->](https://www.browserstack.com/codequality?ref=header-web-testing "BrowserStack Code Quality ->")
 
 Empower teams with
 
-[BrowserStack for Enterprise →](https://www.browserstack.com/enterprise?ref=header-app-testing "BrowserStack for Enterprise")
+[BrowserStack for Enterprise ->](https://www.browserstack.com/enterprise?ref=header-app-testing "BrowserStack for Enterprise ->")
 
 Explore
 
-[BrowserStack Code Quality →](https://www.browserstack.com/codequality?ref=header-app-testing "BrowserStack Code Quality")
+[BrowserStack Code Quality ->](https://www.browserstack.com/codequality?ref=header-app-testing "BrowserStack Code Quality ->")
 
 Solutions
 
 Use Cases
 
-[Web Testing](https://www.browserstack.com/web-testing-solutions "Web Testing")
+[Test Your Websites
 
-[App Testing](https://www.browserstack.com/app-testing-solutions "App Testing")
+Deliver bug-free web experiences](https://www.browserstack.com/web-testing-solutions "Test Your Websites")
 
-[Scale Test Automation](https://www.browserstack.com/scale-automation-solutions "Scale Test Automation")
+[Test Your Apps
 
-[Real Device Testing](https://www.browserstack.com/real-device-cloud-page "Real Device Testing")
+Deliver bug-free app experiences](https://www.browserstack.com/app-testing-solutions "Test Your Apps")
+
+[Scale Test Automation
+
+Stable builds & faster releases](https://www.browserstack.com/scale-automation-solutions "Scale Test Automation")
+
+[Test on Real Devices
+
+20,000+ real iOS & Android devices](https://www.browserstack.com/real-device-cloud-page "Test on Real Devices")
+
+Tab Content Footer
+
+Have a doubt?
+
+Talk to Us ->
+
+Have a doubt?
 
 Developers
 
