@@ -334,7 +334,7 @@ These services are not intended for use by children, especially those under 16. 
 
 **16\. How this Privacy Policy May Change** This policy may be amended or updated from time to time at our discretion. Any updates will be effective at the time of publication, unless specified otherwise. Your continued use of our services after the publication of a policy update constitutes your consent to the changes. We will notify you prior to making policy updates that materially change the way we treat your personal data, and will not use your data in a materially different manner without your consent.
 
-[spiceworks.](https://www.spiceworks.com/?ref_source=spiceworks)
+[spiceworks.](https://www.spiceworks.com/)
 
 * [About](https://www.spiceworks.com/about/)
 * [Contact](https://www.spiceworks.com/contact/)
