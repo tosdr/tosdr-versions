@@ -277,15 +277,19 @@ Footer
 
 * [Instagram](https://www.instagram.com/zap.map/?hl=en)
 * [Facebook](https://www.facebook.com/Zap-Map-301390526692372/)
-* [Twitter](https://twitter.com/zap_map)
+* [X (Twitter)](https://x.com/zap_map)
 * [Linkedin](https://www.linkedin.com/company/zap-map)
+* [TikTok](https://www.tiktok.com/@zap.map)
+* [YouTube](https://www.youtube.com/@ZapmapUK)
 
 **© Zapmap 2020-2024**. All rights reserved. Zapmap Limited is incorporated in England and Wales (company number: 05960749).
 
 * [Instagram](https://www.instagram.com/zap.map/?hl=en)
 * [Facebook](https://www.facebook.com/Zap-Map-301390526692372/)
-* [Twitter](https://twitter.com/zap_map)
+* [X (Twitter)](https://x.com/zap_map)
 * [Linkedin](https://www.linkedin.com/company/zap-map)
+* [TikTok](https://www.tiktok.com/@zap.map)
+* [YouTube](https://www.youtube.com/@ZapmapUK)
 
 [Download the app](https://www.zap-map.com/download-app)
 
