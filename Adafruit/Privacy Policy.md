@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Science, my lad, is made up of mistakes, but they are mistakes which it is useful to make, because they lead little by little to the truth”
+“ Every person is born with a creative mind. Everyone has the ability”
 
-[Jules Verne](http://en.wikipedia.org/wiki/Journey_to_the_Center_of_the_Earth)
+[Mary Beatrice Davidson Kenner](https://en.wikipedia.org/wiki/Mary_Kenner)
 
 [](https://www.adafruit.com/about)
 
