@@ -41,7 +41,7 @@ Download our free app!
 [![Storyline Online](https://www.storylineonline.net/wp-content/uploads/2020/09/logo02.png)](https://sagaftra.foundation/) © 2024 SAG-AFTRA Foundation. All rights reserved.
 
 * [![](https://storylineonline.net/wp-content/uploads/2023/08/3-Facebook.png)](https://www.facebook.com/StorylineOnline)
-* [![](https://storylineonline.net/wp-content/uploads/2023/08/4-TwitterX.png)](https://twitter.com/StorylineOnline)
+* [![](https://storylineonline.net/wp-content/uploads/2023/08/4-TwitterX.png)](https://www.x.com/StorylineOnline)
 * [![](https://storylineonline.net/wp-content/uploads/2023/08/1-YouTube.png)](https://www.youtube.com/StorylineOnline)
 * [![](https://storylineonline.net/wp-content/uploads/2023/08/2-Instagram-1.png)](https://www.instagram.com/storylineonline/)
 
@@ -52,12 +52,10 @@ Stay Informed Sign up for our email updates
 
  Subscribe
 
-Follow Us:
-
-* [](https://www.facebook.com/StorylineOnline)
-* [](https://x.com/StorylineOnline)
-* [](https://www.youtube.com/StorylineOnline)
-* [![](https://storylineonline.net/wp-content/uploads/2023/08/2-Instagram-1.png)](https://www.instagram.com/storylineonline/)
+* [![](https://storylineonline.net/wp-content/uploads/2024/11/SubscribeBoxSM-facebook.png)](https://www.facebook.com/storylineonline)
+* [![](https://storylineonline.net/wp-content/uploads/2024/11/SubscribeBoxSM-x.png)](https://www.x.com/storylineonline)
+* [![](https://storylineonline.net/wp-content/uploads/2024/11/SubscribeBoxSM-youtube.png)](https://www.youtube.com/storylineonline)
+* [![](https://storylineonline.net/wp-content/uploads/2024/11/SubscribeBox-instagram.png)](https://www.instagram.com/storylineonline/)
 
 [DONATE](https://storylineonline.net/donate)
 
