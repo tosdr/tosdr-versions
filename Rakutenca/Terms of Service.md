@@ -531,7 +531,7 @@ FR
         
         up to 6% Cash Back](https://www.rakuten.ca/flight-centre)[Holiday Inn
         
-        4% Cash Back](https://www.rakuten.ca/holiday-inn)
+        2% Cash Back](https://www.rakuten.ca/holiday-inn)
         
         Featured Shops & Deals
         
