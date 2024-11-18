@@ -31,6 +31,106 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+17 incendios forestales están activos en Ecuador este lunes 18 de noviembre
+===========================================================================
+
+Más de 10 200 hectáreas de cobertura vegetal han sido destruidas por el fuego en las provincias de Azuay y Loja.
+----------------------------------------------------------------------------------------------------------------
+
+![Ocho helicópteros trabajan en el combate aéreo del fuego, en Azuay y Loja.](https://www.elcomercio.com/wp-content/uploads/2024/11/incendios.jpg)
+
+La **Secretaría de Gestión de Riesgos** (SNGR) informó este lunes 18 de noviembre de 2024 la situación actual de los incendios forestales que afectan sobre todo la zona de Azuay y Loja.
+
+### Más noticias
+
+* [Así funciona el Pico y placa este lunes 18 de noviembre](https://www.elcomercio.com/actualidad/quito/asi-funciona-el-pico-y-placa-este-lunes-18-de-noviembre.html "Así funciona el Pico y placa este lunes 18 de noviembre")
+* [Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios](https://www.elcomercio.com/actualidad/ecuador/alcalde-de-cuenca-declara-emergencia-como-un-grito-desesperado-ante-incendios.html "Alcalde de Cuenca declara emergencia como ‘un grito desesperado’ ante incendios")
+* [Incendios forestales en Loja y Azuay movilizan recursos nacionales e internacionales](https://www.elcomercio.com/actualidad/incendios-forestales-en-loja-y-azuay-movilizan-recursos-nacionales-e-internacionales.html "Incendios forestales en Loja y Azuay movilizan recursos nacionales e internacionales")
+
+Gestión de recursos
+-------------------
+
+La SNGR informó que existen **17 incendios forestales activos** y cinco controlados a escala nacional, para los que se gestiona recursos de apoyo al trabajo de los bomberos.
+
+La mayoría de los incendios se ubican en las **provincias de Azuay y Loja,** en donde ya se activaron dos Brigadas de Refuerzo de Incendios Forestales (BRIF) de Quito.
+
+Además, mediante la **gestión de la Cancillería**, se coordina el apoyo aéreo del Gobierno del Perú y de la Embajada de Italia.
+
+En este momento, **ocho helicópteros trabajan** de manera simultánea en el control del fuego. Cuatro de ellos trabajan en Azuay y 4, en Loja. De ellos, tres helicópteros pertenecen a la FAE; uno, al Ejército, dos al Gobierno de Perú, uno de Aeropolicial y uno de una empresa privada gracias a la gestión de la embajada italiana.
+
+Todas estas naves aéreas están equipadas con ‘bambi bucket’ y han realizado **240 descargas de agua**, lo que equivale a 142 700 litros, en Azuay.
+
+Así mismo, se realizaron **26 descargas en Loja**, que equivalen a 59 100 litros de agua.
+
+Zonas afectadas
+---------------
+
+En Azuay, los cantones de Cuenca, Sígsig, Nabón y Santa Isabel han sido severamente afectados con la pérdida de **1 705,69 hectáreas de cobertura vegetal** desde el 1 de noviembre.
+
+En Loja, los incendios en San Pedro de Vilcabamba, Chuquirbamba y Landapo han consumido más de  
+**8 500 hectáreas** e impactan 10 cantones y 29 parroquias.
+
+La ministra Inés Manzano, presidenta del COE, **confirmó la declaratoria de emergencia** nacional por incendios forestales, déficit hídrico y sequía, debido a la magnitud e [impacto de los eventos](https://es.wikipedia.org/wiki/Provincia_de_Azuay "https://es.wikipedia.org/wiki/Provincia_de_Azuay").
+
+> Los helicópteros de [@FFAAECUADOR](https://twitter.com/FFAAECUADOR?ref_src=twsrc%5Etfw) [@FuerzaAereaEc](https://twitter.com/FuerzaAereaEc?ref_src=twsrc%5Etfw) y [@PoliciaEcuador](https://twitter.com/PoliciaEcuador?ref_src=twsrc%5Etfw) realizaron 74 descargas de 38.000 litros de agua en los incendios forestales en [#Cuenca](https://twitter.com/hashtag/Cuenca?src=hash&ref_src=twsrc%5Etfw) en este octavo día.  
+>   
+> Con estas acciones y el trabajo terrestre se ha logrado controlar los incendios en Baños y El Cajas. [pic.twitter.com/HEzxpJbJhl](https://t.co/HEzxpJbJhl)
+> 
+> — Riesgos Ecuador (@Riesgos\_Ec) [November 18, 2024](https://twitter.com/Riesgos_Ec/status/1858346041172541688?ref_src=twsrc%5Etfw)
+
+Así funciona el Pico y placa este lunes 18 de noviembre
+=======================================================
+
+Revisa los límites del Pico y placa y evita ser sancionado con multas. Recuerda que los estacionamientos de borde son gratuitos.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![El Pico y placa se realiza en Quito para controlar el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/pico-pq.jpg)
+
+El **Pico y placa continúa vigente en Quito** para autos y motos; esta medida se implementa para mejorar el flujo vehicular en las horas de mayor tránsito.
+
+Además, se debe recordar que **durante los feriados y los fines de semana** la medida no aplica.
+
+### Más noticias
+
+* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
+* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
+* [Cortes de agua en Quito se inician en 95 barrios por 12 horas](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-se-inician-en-95-barrios-prevencion.html "Cortes de agua en Quito se inician en 95 barrios por 12 horas")
+
+Así como hay excepciones, **los vehículos que pertenecen a adultos mayores**, personas con discapacidad, vehículos eléctricos y los oficiales pueden circular con normalidad a cualquier hora.
+
+La restricción depende del **último dígito de la placa del vehículo**. Este lunes no circulan las placas terminadas en 1 y 2.
+
+Horarios del Pico y placa
+-------------------------
+
+En la mañana la medida se aplica de **06:00 a 09:30 y en la tarde, de 16:00 a 20:00.**
+
+Las autoridades locales hacen un llamado a la **colaboración ciudadana** y al respeto de estas normativas, en aras de garantizar una mejor movilidad urbana.
+
+Multas por infringir la medida
+------------------------------
+
+La multa por incumplirla es del 15% del **Salario Básico Unificado**, es decir, 69 dólares la primera vez.
+
+Si la incumples una segunda vez, la sanción será del **25%, es decir, 115 dólares.**
+
+Y si infringes una tercera vez, **la multa asciende al 50%** de un salario básico, es decir, 230 dólares.
+
+Límites en Quito para Pico y placa
+----------------------------------
+
+Esta medida se aplica en el **Distrito Metropolitano.** En el norte la restricción está presente en la avenida de Los Narcisos y teniendo como puntos de referencia la **Escuela Superior de la Policía** y Puente Villorita.
+
+Desde los puntos anteriores esta medida se extiende hasta la avenida **Morán Valverde**. Es decir, todas las vías entre Los Narcisos y Morán Valverde tiene restricción de lunes a viernes.
+
+El otro límite vehicular es la **avenida Simón Bolívar**, donde se acaba la restricción vehicular y sus puntos de referencia son Intercambiador de La Granados e Intercambiador de Carapungo.
+
+Al oeste, la [av. Mariscal Sucre](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito") hasta la intersección de la av. **Manuel Córdova Galarza** (redondel El Condado).
+
+> ⚠️ ¡No caigas en multas! Conoce por dónde puedes circular en [#Quito](https://twitter.com/hashtag/Quito?src=hash&ref_src=twsrc%5Etfw) [https://t.co/VAySmVN9kd](https://t.co/VAySmVN9kd) [pic.twitter.com/Gyso7gkL1O](https://t.co/Gyso7gkL1O)
+> 
+> — El Comercio (@elcomerciocom) [June 9, 2024](https://twitter.com/elcomerciocom/status/1799837694727434657?ref_src=twsrc%5Etfw)
+
 La importancia del plan de seguridad para elecciones
 ====================================================
 
@@ -57,6 +157,27 @@ Las elecciones no son solo un ejercicio democrático; son un **acto de esperanza
 
 La coordinación entre instituciones y la firmeza en la implementación del plan serán claves. Más allá de las medidas anunciadas, es esencial que estas sean comunicadas de forma **transparente** a la población, para que esta sepa que su seguridad está garantizada. Al final, la meta no es solo un proceso electoral exitoso, sino también el fortalecimiento de una democracia que pueda mirar hacia el **futuro** con confianza.
 
+Cartas a Quito / 18 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este lunes 18 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Pagamos servicios no recibidos 
+-------------------------------
+
+La falta de energía eléctrica afecta a todos y todos debemos asumirla; sin embargo, no se conoce lo que las autoridades de regulación y control realizan para evitar que sus efectos directos sean traslados exclusivamente a millones de consumidores finales que pagamos por internet, telefonía móvil, rastreo satelital, monitoreo de seguridad, entre otros, sin recibirlos como fueron contratadas. Tampoco se evidencian las acciones que las operadoras y otros proveedores de estos servicios han realizado para entregarlos en las condiciones contratadas, aunque para cumplir sus obligaciones deban realizar inversiones y gastos no previstas en sus planes y, por tanto, disminuir sus utilidades. La ética y la responsabilidad social corporativa exige que las empresas afronten imprevistos como parte de los riesgos provenientes de la naturaleza, como el provocado por la prolongada sequía. 
+
+Personalmente, me he comunicado en muchas ocasiones después de esperar decenas de minutos, para solicitar solución a la mala calidad o la falta de recepción de los servicios antes descritos sin lograr que los problemas se solucionen, puesto que la falta de comunicación generalizada continúa y afecta todas las actividades. 
+
+Las autoridades de regulación y control deben analizar estos problemas con los proveedores de los servicios para lograr las mejores y más oportunas soluciones. También deben diseñar nuevos procesos de supervisión ajustados a la dura crisis de energía eléctrica, para garantizar la calidad de los servicios que pagamos millones de usuarios sin recibirlos. 
+
+Un país sin conectividad, sin energía eléctrica y sin el cumplimiento de las obligaciones de cada uno de los actores, está destinado al fracaso, por lo que es indispensable que todos asumamos nuestras responsabilidades para identificar las causas de los problemas y trabajar en las soluciones. 
+
+Mario Andrade Trujillo 
+
 Crisis, patria, caos
 ====================
 
@@ -78,27 +199,6 @@ Se anuncia la **disminución** de la **dotación** de **agua** a los **hogares**
 ¡No!  No debemos hacerlo y por eso llama poderosamente la atención que **organizaciones sindicalistas**, que ni siquiera han permitido una **reestructuración** adecuada del moribundo IESS, ni la **modernización** de las **leyes laborales** y otras de **beneficio** social, unifiquen sus **afanes conspirativos** con los de los **asambleístas irresponsables** y los de los indígenas que destruyeron e incendiaron a Quito, nuestra hermosa capital, e irrogaron una **multimillonaria pérdida económica**, por los destrozos que causó la turba inconsciente, en brutales estallidos, que sirvieron de pretexto para que **grupos paramilitares**, **camuflados** y **armados**, siembren terror entre los **capitalinos**, que no permitirán que, los ahora candidatos, vuelvan a lastimar la **dignidad ciudadana** con sus **salvajes desafueros**. Deben recordar los **dirigentes sindicales** y los **legisladores** que ellos se opusieron a la **participación** de **capitales privados** en la implementación de nuevas **fuentes de energía** “para defender la **soberanía energética**”. Qué gran paradoja: En el Perú, en Colombia y en Chile, la **contribución privada**, a las **áreas energéticas**, es tan grande que ha evitado un **desabastecimiento** como el que tan severamente nos afecta y, sin embargo, esos países hermanos no han perdido la **soberanía energética**. Urge la **reforma constitucional** que termine con esa **prohibición** que tanto **perjuicio** ocasiona a la **nación**.
 
 Si los **dirigentes políticos**–**indígenas**–**sindicalistas** creen que con sus “marchas” **llenarán embalses** y darán fin a la **sequía** y al **estiaje**, están equivocados, pues el único logro que alcanzarán, con estas protestas y con sus absurdas e inconscientes **exigencias**, será sumir en un caos mayor a la **población**, agravar la crisis y confrontar al **sentimiento patrio** y a la **responsabilidad** que tenemos, como ecuatorianos, de luchar y trabajar por un país mejor, **digno y valiente**, que enfrenta las **adversidades** y rechaza a los irresponsables que ven en la desgracia la **oportunidad** de engañar a la **colectividad**.
-
-Cartas a Quito / 18 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este lunes 18 de noviembre de 2024
-------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Pagamos servicios no recibidos 
--------------------------------
-
-La falta de energía eléctrica afecta a todos y todos debemos asumirla; sin embargo, no se conoce lo que las autoridades de regulación y control realizan para evitar que sus efectos directos sean traslados exclusivamente a millones de consumidores finales que pagamos por internet, telefonía móvil, rastreo satelital, monitoreo de seguridad, entre otros, sin recibirlos como fueron contratadas. Tampoco se evidencian las acciones que las operadoras y otros proveedores de estos servicios han realizado para entregarlos en las condiciones contratadas, aunque para cumplir sus obligaciones deban realizar inversiones y gastos no previstas en sus planes y, por tanto, disminuir sus utilidades. La ética y la responsabilidad social corporativa exige que las empresas afronten imprevistos como parte de los riesgos provenientes de la naturaleza, como el provocado por la prolongada sequía. 
-
-Personalmente, me he comunicado en muchas ocasiones después de esperar decenas de minutos, para solicitar solución a la mala calidad o la falta de recepción de los servicios antes descritos sin lograr que los problemas se solucionen, puesto que la falta de comunicación generalizada continúa y afecta todas las actividades. 
-
-Las autoridades de regulación y control deben analizar estos problemas con los proveedores de los servicios para lograr las mejores y más oportunas soluciones. También deben diseñar nuevos procesos de supervisión ajustados a la dura crisis de energía eléctrica, para garantizar la calidad de los servicios que pagamos millones de usuarios sin recibirlos. 
-
-Un país sin conectividad, sin energía eléctrica y sin el cumplimiento de las obligaciones de cada uno de los actores, está destinado al fracaso, por lo que es indispensable que todos asumamos nuestras responsabilidades para identificar las causas de los problemas y trabajar en las soluciones. 
-
-Mario Andrade Trujillo 
 
 En Quito hay solidaridad durante los cortes de luz
 ==================================================
@@ -965,131 +1065,3 @@ Actualmente, los cortes de electricidad en Ecuador son de doce horas diarias par
 La crisis energética de Ecuador se ha visto también **agravada** por la falta de **inversiones** en los últimos años en un sector controlado íntegramente por empresas públicas, lo que ha abierto el debate en el país de realizar reformas para facilitar la llegada de **inversión** **privada**.
 
 **_EFE_**
-
-Incendios forestales en Loja y Azuay movilizan recursos nacionales e internacionales
-====================================================================================
-
-Incendios forestales en Loja y Azuay movilizan helicópteros y brigadistas para proteger a la población y ecosistemas.
----------------------------------------------------------------------------------------------------------------------
-
-![La cooperación internacional se une para enfrentar los incendios forestales en Loja. Foto: Fuerza Aérea Ecuatoriana](https://www.elcomercio.com/wp-content/uploads/2024/11/FAP.jpg)
-
-  
-Los incendios forestales en las provincias de Loja y Azuay **mantienen en alerta a las autoridades y a la ciudadanía**. La magnitud de las llamas, **sumada a las condiciones climáticas adversas** y a denuncias de incendios provocados, ha llevado a una intensa movilización de recursos y equipos para contener la emergencia.
-
-Más noticias
-------------
-
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html)
-* [Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz](https://www.elcomercio.com/actualidad/ecuador-colombia-acuerdo-venta-energia-solventar-cortes-de-luz.html)
-* [La calidad del aire es dañina en Cuenca y Loja por incendios forestales](https://www.elcomercio.com/actualidad/ecuador/calidad-aire-danina-cuenca-loja-incendios-forestales.html)
-
-  
-Alcalde de Loja habla de incendios provocados
-------------------------------------------------
-
-El alcalde de Loja, Franco Quezada, dijo a Ecuavisa que al menos dos incendios fueron **provocados de forma deliberada**. Según detalló en la entrevista, se encontraron canecas de combustible en las zonas afectadas. “Esto no es de cualquier persona, lo hizo alguien premeditadamente”, declaró, mostrando su preocupación por el daño causado.
-
-Mientras una de las emergencias fue controlada por **los bomberos**, las brigadas enfrentan serios problemas de abastecimiento de agua. El Alcalde solicitó **apoyo a la ciudadanía con donaciones** y mantener la ayuda para las familias afectadas.
-
-  
-Apoyo aéreo y coordinación estratégica
------------------------------------------
-
-  
-La Secretaría Nacional de Gestión de Riesgos (SNGR) informó que, según lo dispuesto por el COE Nacional el 15 de noviembre, **se ha priorizado el uso de recursos aéreos en la lucha contra los incendios.** En Azuay, operan un helicóptero del Ejército Ecuatoriano, uno de la Fuerza Aérea y otro de la Policía Nacional.
-
-  
-En Loja, **se cuenta con el apoyo adicional de dos helicópteros de la Fuerza Aérea del Perú, un helicóptero de la Fuerza Aérea Ecuatoriana** y otro de la empresa privada Aeromaster. Estos esfuerzos, liderados por el Grupo de Trabajo 3 de la SNGR, se coordinan junto a las Fuerzas Armadas, Policía Nacional y Cancillería para **proteger tanto a la población como a los recursos naturales**.
-
-> A LA CIUDADANÍA [pic.twitter.com/I5sHD4U5La](https://t.co/I5sHD4U5La)
-> 
-> — Riesgos Ecuador (@Riesgos\_Ec) [November 17, 2024](https://twitter.com/Riesgos_Ec/status/1858008727103635917?ref_src=twsrc%5Etfw)
-
-  
-Afectaciones en ecosistemas protegidos
------------------------------------------
-
-El Ministerio del Ambiente, Agua y Transición Ecológica señaló que los incendios en las parroquias de Malacatos, San Pedro de Vilcabamba y Vilcabamba, en Loja, han afectado aproximadamente **3 783 hectáreas.** De este total, 88 hectáreas corresponden a bosque primario en el P**arque Nacional Podocarpus**.
-
-Desde el 11 de noviembre, brigadistas especializados y guardaparques trabajan para c**ontener el avance del fuego**. Las acciones se desarrollan en conjunto con las instituciones del Comité de Operaciones de Emergencia Provincial.
-
-> 📍El Ministerio del Ambiente, Agua y Transición Ecológica informa: ⤵️ [pic.twitter.com/eJKQgROM1T](https://t.co/eJKQgROM1T)
-> 
-> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [November 17, 2024](https://twitter.com/Ambiente_Ec/status/1857989072062443880?ref_src=twsrc%5Etfw)
-
-  
-Atención médica y apoyo ciudadano
-------------------------------------
-
-  
-En Cuenca, brigadas de **bomberos de Quito** se han sumado a los trabajos para **extinguir el fuego**.
-
-El Ministerio de Salud Pública informó que equipos de atención integral brindaron asistencia médica a 247 personas afectadas por el humo en sectores como Chirimancay, en el Parque Nacional El Cajas.
-
-  
-La situación exige un **esfuerzo conjunto de autoridades, bomberos y ciudadanos**. La Secretaría Nacional de Gestión de Riesgos y el Ministerio del Ambiente pidieron a la población e**vitar prácticas que puedan causar nuevos incendios** y colaborar con las donaciones necesarias para combatir esta emergencia.
-
-¿Cuándo juega la Selección de Ecuador vs. Colombia?
-===================================================
-
-La Selección de Ecuador sumó cinco puntos jugador de visitante en las actuales eliminatorias.
----------------------------------------------------------------------------------------------
-
-![Carlos Gruezo (d) marca a James Rodríguez en las eliminatorias al Mundial 2026.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_horario_1.jpg)
-
-El último partido de la **Selección de Ecuador en el 2024 será ante Colombia.** El estadio Metropolitano de Barranquilla espera por este juego que corresponde a la fecha 12 de las eliminatorias sudamericanas al Mundial 2026.
-
-La Selección de Ecuador sigue con su preparación en Guayaquil. Esta ciudad se convirtió en el centro de operaciones de **Sebastián Beccacece para afrontar esta doble fecha lejos de la altura de Quito**, su base habitual.
-
-### Más noticias:
-
-* [Uruguay venció a Colombia con gol de un exLiga de Quito](https://www.elcomercio.com/deportes/uruguay-vencio-colombia-eliminatorias-liga-de-quito.html "Uruguay venció a Colombia con gol de un ex Liga de Quito")
-* [Djorkaeff Reasco, jugador de Barcelona SC, contrajo matrimonio](https://www.elcomercio.com/deportes/futbol/djorkaeff-reasco-jugador-de-barcelona-sc-contrajo-matrimonio.html "Djorkaeff Reasco, jugador de Barcelona SC, contrajo matrimonio")
-* [Mike Tyson explicó la razón de morder sin parar su guante](https://www.elcomercio.com/deportes/boxeo/mike-tyson-muerde-guamtes-paul.html "Mike Tyson explicó la razón de morder sin parar su guante")
-
-Ecuador se mantiene en la quinta posición con 16 puntos y +6 de gol diferencia en las 11 jornadas de eliminatorias, mientras que **Colombia es tercera con 19 y un gol diferencia de +6.**
-
-En casa, los ‘cafeteros’ le ganaron a Venezuela (1-0), a Brasil (2-1), a Argentina (2-1), a Chile (4-0) y empataron con Uruguay (2-2); es decir, alcanzaron 13 de los 15 puntos en juego. Anotaron 12 tantos y recibieron seis.
-
-Fuera de casa, **la Tri perdió contra Argentina (0-1) y Brasil (0-1)**; empató con Venezuela (0-0) y Uruguay (0-0); y derrotó a Bolivia (1-2). De los 15 puntos en disputa, alcanzó cinco. Anotó dos goles y recibió tres.
-
-Uno de los puntos fuertes de los ecuatorianos es su bloque defensivo. En 11 fechas recibió tan solo cuatro goles. Estos números la convierten en la mejor defensa de toda la Conmebol.
-
-Los colombianos tienen 15 goles marcados y confían en el poderío de Jhon Durán (Aston Villa), Luis Díaz (Liverpool), **Juan Fernando Quintero (Racing Club), James Rodríguez (Rayo Vallecano)**, Rafael Santos Borré (Inter de Porto Alegre) y Jhon Arias (Fluminense).
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/ecuador_horario_2-1024x683.jpg)
-
-Foto: API.
-
-La última vez en Colombia fue con empate
-----------------------------------------
-
-**Ecuador** empató 0-0 frente a **Colombia,** en el caluroso estadio Metropolitano de Barranquilla, el jueves 14 de octubre del 2021.
-
-Fue la segunda vez en la historia, del actual formato de las eliminatorias, que la Tri sumó un punto en tierra cafetera y la primera en la mencionada ciudad.
-
-El VAR fue protagonista. A los **74 minutos el peruano Diego Haro decretó penal en favor de Ecuador** por una falta de Gustavo Cuéllar sobre Gonzalo Plata. El árbitro fue llamado al monitor y cambió su decisión inicial por posición adelantada.
-
-El momento de mayor tensión se vivió a los 99 minutos a pocos segundos de finalizar el tiempo reglamentario.
-
-Yerry Mina anotó el 1-0 para los colombianos. El festejó fue estruendoso, tanto en el terreno de juego como en las gradas. Sin embargo, **tras varios minutos de revisión,** se anuló el tanto por una mano del goleador del encuentro.
-
-El martes 19 de noviembre de 2024, desde las 18:00, rodará otra vez el balón en el Metropolitano.
-
-Alineación de Ecuador:
-----------------------
-
-Alexander Domínguez; Ángelo Preciado (Xavier Arreaga), Félix Torres, Piero Hincapié, Pervis Estupiñán; Carlos Gruezo, Moisés Caicedo, Alan Franco (Diego Palacios) y Ángel Mena (Ayrton Preciado); Enner Valencia (Gonzalo Plata) y Michael Estrada.
-
-DT: Gustavo Alfaro
-
-Alineación de Colombia:
------------------------
-
-David Ospina; Juan Guillermo Cuadrado, Yerry Mina, Carlos Cuesta, Johan Mojica; Wilmar Barrios, Matheus Uribe (Gustavo Cuéllar), Juan Fernando Quintero (Daniel Muñoz), Luis Fernando Díaz; Duván Zapata (Roger Martínez) y Rafael Santos Borré (Falcao García).
-
-DT: Reinaldo Rueda
-
-San viernes
------------
