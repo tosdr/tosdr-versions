@@ -225,6 +225,30 @@ out of 5 based on
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
+> Nov 17, 2024
+
+> Mel made this very easy.
+
+> From our initial enquiry to booking the trip, Mel responded very quickly and provided several options allowing us to choose the right package for us. Looking forward to experiencing it now.
+
+Mr Andrew Tatlock
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 16, 2024
+
+> Planning has been made quick and easy…
+
+> Planning has been made quick and easy with Shann! We can’t wait to get to Africa!
+
+customer
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
 > Nov 15, 2024
 
 > Great service and knowledge
@@ -246,6 +270,8 @@ Julian
 Gordon Myers
 
 ,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -316,34 +342,6 @@ jeffrey gougeon
 ,
 
 KR
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 12, 2024
-
-> Dolan won the sale
-
-> Dolan was very helpful in explaining the experience and how to optimise the time there
-
-Jacomi
-
-,
-
-AU
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 11, 2024
-
-> Top notch !
-
-> What amazing service . Shann was very helpful especially given the time zone differences she worked all weekend on a very tight timeline
-
-peter price
-
-,
-
-AU
 
 VIP service
 
