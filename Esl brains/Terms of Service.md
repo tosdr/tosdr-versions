@@ -306,16 +306,14 @@ The place for ready-to-use ESL lesson plans for teaching online and offline.
 
 ### New Lessons
 
-* [Hobbies: more than just free time](https://eslbrains.com/hobbies-more-than-just-free-time/ "Hobbies: more than just free time")
-* [An unusual place to live](https://eslbrains.com/an-unusual-place-to-live/ "An unusual place to live")
-* [What’s the weather like?](https://eslbrains.com/whats-the-weather-like/ "What’s the weather like?")
-* [The undersigned hereby agrees to…](https://eslbrains.com/the-undersigned-hereby-agrees-to/ "The undersigned hereby agrees to…")
+* [Geopolitical landscape](https://eslbrains.com/geopolitical-landscape/ "Geopolitical landscape")
+* [What’s your name? (first lesson for A1 students)](https://eslbrains.com/whats-your-name-first-lesson-for-a1-students/ "What’s your name? (first lesson for A1 students)")
+* [Life-saving technology](https://eslbrains.com/life-saving-technology/ "Life-saving technology")
+* [Challenging historical narratives](https://eslbrains.com/challenging-historical-narratives/ "Challenging historical narratives")
 
 © ESL Brains 2024
 
 [](https://www.instagram.com/esl_brains)[](https://www.linkedin.com/company/esl-brains/)
-
-![](https://www.facebook.com/tr?id=185525776077626&ev=PageView&noscript=1&cd%5Bpage_title%5D=Terms+and+Conditions&cd%5Bpost_type%5D=page&cd%5Bpost_id%5D=7643&cd%5Bplugin%5D=PixelYourSite&cd%5Buser_role%5D=guest&cd%5Bevent_url%5D=eslbrains.com%2Fterms-and-conditions%2F)
 
                           
 
