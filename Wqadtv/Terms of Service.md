@@ -30,13 +30,14 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_360x203.jpg)](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
+    *  [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e)
         
-        #### [70-year-old woman hit, killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
+        #### [1 person injured in Davenport house fire Saturday afternoon](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e) [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e)
         
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
+        #### [1 person injured in Davenport house fire Saturday](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4aad6469-e0c4-4cf2-b31d-95733b846b7e/20241118T120915/4aad6469-e0c4-4cf2-b31d-95733b846b7e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4aad6469-e0c4-4cf2-b31d-95733b846b7e/20241118T120915/4aad6469-e0c4-4cf2-b31d-95733b846b7e_360x203.jpg)](https://www.wqad.com/article/news/local/prairie-moon-farms-knoxville-thanksgiving-christmas-crossover-knoxville-christmas-market/526-3807bed5-9598-4a87-a26a-c13ab0d1cdec)
         
-        #### [17-year-old killed in Johnson County crash, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
+        #### [A Thanksgiving-Christmas Crossover: Knoxville Christmas Market](https://www.wqad.com/article/news/local/prairie-moon-farms-knoxville-thanksgiving-christmas-crossover-knoxville-christmas-market/526-3807bed5-9598-4a87-a26a-c13ab0d1cdec)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +57,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d082a8d0-85a0-4ca1-b926-8aa8fb14a518/20241117T235746/d082a8d0-85a0-4ca1-b926-8aa8fb14a518_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d082a8d0-85a0-4ca1-b926-8aa8fb14a518/20241117T235746/d082a8d0-85a0-4ca1-b926-8aa8fb14a518_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9/20241118T131423/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9/20241118T131423/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A good soaking rain with some thunder likely on Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Rain and thunder likely as winds increase Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
@@ -86,9 +87,9 @@ Navigation
 
 Davenport, IA »
 
-50°
+54°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
