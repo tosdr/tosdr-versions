@@ -123,44 +123,44 @@ Advertisement
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![The Creative Brain How Insight Works](/wp-content/thumbnails/7660-100x70.png?x53432)
+    
+    The Creative Brain How Insight Works
+    
+    It is a feeling we all know, the moment when a light goes on in your head. In a sudden flash of inspiration, a new idea is born. Today, scientists are using some unusual techniques to try to work out ...](https://documentaryheaven.com/creative-brain-how-insight-works/ "The Creative Brain How Insight Works")
 * [![The Hasidic Drug Dealer](/wp-content/thumbnails/16688-100x70.jpg?x53432)
     
     The Hasidic Drug Dealer
     
     Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
-* [![Louis Theroux: Drinking To Oblivion](/wp-content/thumbnails/16353-100x70.jpg?x53432)
-    
-    Louis Theroux: Drinking To Oblivion
-    
-    Drinking To Oblivion sees Louis Theroux set about spending some time in the world of extreme drinkers, getting to know people who consume alcohol not just to excess but to the point of total oblivio...](https://documentaryheaven.com/louis-theroux-drinking-to-oblivion/ "Louis Theroux: Drinking To Oblivion")
 
 ###### Throwback Documentaries
 
-* [![Rooney: The Man Behind the Goals](/wp-content/thumbnails/10136-100x70.jpg?x53432)
+* [![Journey to the Edge of the Universe](/wp-content/thumbnails/3296-100x70.jpg?x53432)
     
-    Rooney: The Man Behind the Goals
+    Journey to the Edge of the Universe
     
-    Ever since he was 16 years old he has lived his life in the public eye, yet no one outside of his family and close friends really knows him. Sir Bobby Charlton scored the last of his 49 goals for Engl](https://documentaryheaven.com/rooney-man-behind-goals/ "Rooney: The Man Behind the Goals")
-* [![Life At Any Price](/wp-content/thumbnails/7969-100x70.jpg?x53432)
+    National Geographic presents the first accurate non-stop voyage from Earth to the edge of the Universe using a single, unbroken shot through the use of spectacular CGI (Computer-Generated Imagery) tec](https://documentaryheaven.com/journey-to-the-edge-of-the-universe/ "Journey to the Edge of the Universe")
+* [![Encounters at the End of the World](/wp-content/thumbnails/903-100x70.jpg?x53432)
     
-    Life At Any Price
+    Encounters at the End of the World
     
-    Two-thirds of the world’s women live in countries where abortion can be obtained for a variety of social, economic or personal reasons. In other nations it is allowed only in cases of rape, foetal abn](https://documentaryheaven.com/life-at-any-price/ "Life At Any Price")
-* [![The Jersey Shore of England](/wp-content/thumbnails/13407-100x70.jpg?x53432)
+    Werner Herzog is a master filmmaker. Stretching back decades, genres, languages, styles and scope, he continues to be a pioneering creative force. Encounters at the End of the World is the newest remi](https://documentaryheaven.com/encounters-at-the-end-of-the-world/ "Encounters at the End of the World")
+* [![Meeting ISIL](/wp-content/thumbnails/9781-100x70.jpg?x53432)
     
-    The Jersey Shore of England
+    Meeting ISIL
     
-    These days Liverpool is considered to be Britain's capital city of beauty. On average, there are six times more gyms, training salons and "cosmetic surgeons" than anywhere else in the country.User](https://documentaryheaven.com/jersey-shore-of-england/ "The Jersey Shore of England")
-* [![Nicki Minaj: My Time Again](/wp-content/thumbnails/9526-100x70.jpg?x53432)
+    Press TV goes deep into "liberated territory" were there is no Syria army and no way out. They must accept the presence of armed guards because kidnappings and looting is the law around here, this is](https://documentaryheaven.com/meeting-isil/ "Meeting ISIL")
+* [![The True Story of Black Hawk Down](/wp-content/thumbnails/695-100x70.png?x53432)
     
-    Nicki Minaj: My Time Again
+    The True Story of Black Hawk Down
     
-    This 40 minute MTV special is all about Nicki Minaj, and gives you an insight into her everyday life, from the effort that goes into filming her music videos and preforming live, to the rehearsals in](https://documentaryheaven.com/nicki-minaj-time/ "Nicki Minaj: My Time Again")
-* [![Robert, The Lost Years](/wp-content/thumbnails/6561-100x70.jpg?x53432)
+    Real footage is shown to prove that the film Black Hawk Down (2001) was very true to the real events that occurred in Mogadishu in 1993. Actual militia and US rangers are interviewed to tell us the di](https://documentaryheaven.com/the-true-story-of-black-hawk-down/ "The True Story of Black Hawk Down")
+* [![The Truth According To Wikipedia](/wp-content/thumbnails/1571-100x70.jpg?x53432)
     
-    Robert, The Lost Years
+    The Truth According To Wikipedia
     
-    Journey of One tells peoples stories using the photofilm format, giving a fascinating and intimate glimpse into individual lives.](https://documentaryheaven.com/robert-the-lost-years/ "Robert, The Lost Years")
+    Google or Wikipedia? Those of us who search online - and who doesn't? - are getting referred more and more to Wikipedia. For the past two years, this free online "encyclopedia of the people" has been](https://documentaryheaven.com/the-truth-according-to-wikipedia/ "The Truth According To Wikipedia")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
