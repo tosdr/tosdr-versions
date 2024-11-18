@@ -91,9 +91,9 @@ Most Read
     
 3. 3. [These are the lasting things that Half-Life 2 gave us, besides headcrabs and crowbars](https://arstechnica.com/gaming/2024/11/these-are-the-lasting-things-that-half-life-2-gave-us-besides-headcrabs-and-crowbars/)
     
-4. 4. [FTC to launch investigation into Microsoft’s cloud business](https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/)
+4. 4. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
     
-5. 5. [A lot of people are mistaking Elon Musk’s Starlink satellites for UAPs](https://arstechnica.com/space/2024/11/a-lot-of-people-are-mistaking-elon-musks-starlink-satellites-for-uaps/)
+5. 5. [Review: Amazon’s 2024 Kindle Paperwhite makes the best e-reader a little better](https://arstechnica.com/gadgets/2024/11/review-amazons-2024-kindle-paperwhite-makes-the-best-e-reader-a-little-better/)
     
 
 Customize
