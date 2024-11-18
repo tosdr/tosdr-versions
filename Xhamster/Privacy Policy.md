@@ -28,7 +28,7 @@ Sign in with Google](https://xhamster.com/login-google?source=base)
 
 [Videos](https://xhamster.com/)
 
-[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22d%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%7D&xhStatsUid=673b6f2bb55df6.18949738384&xhSessionToken=c01e33c1a91dd7b5beecf96cb99f8f083568f750&xhSessionStartedAt=1731948331)
+[Live Sex](https://xhamsterlive.com/?userId=aad1b133c9c4764c297d099d98d58aef&utm_source=xhamster&memberId=&utm_medium=widgets&sourceId=widgets&platform=desktop&landing=WidgetXH&domain=xhamsterlive&orientation=straight&pageType=otherPages&logged=0&retargeted=0&adblocked=0&widgetName=mainMenu-LiveSex&widgetElement=tab&isUserLogged=0&isUserRetargeted=0&p1=cold&exp=%7B%223002%22%3A%7B%22g%22%3A%22d%22%2C%22v%22%3A6%7D%2C%223003%22%3A%7B%22g%22%3A%22a%22%2C%22v%22%3A3%7D%2C%223004%22%3A%7B%22g%22%3A%22b%22%2C%22v%22%3A3%7D%7D&xhStatsUid=673bc44cd87338.39549701d37&xhSessionToken=222118244171d8e85028415c522869dd05c8b591&xhSessionStartedAt=1731970124)
 
 [Categories](https://xhamster.com/categories)
 
@@ -54,7 +54,7 @@ Premium Videos](https://faphouse.com/?utm_source=xhamster&utm_medium=button&utm_
 
 * [Upload](https://xhamster.com/creator-signup?source=uploadHeader)
 
-[Looking for REAL GIRLS? ❤️‍🔥 1-on-1 sex chat on Flirtify video roulette JOIN FOR FREE](https://xhamsterflirt.com/?utm_source=xhamster&utm_medium=all-pages)
+[2 DAYS OF FAPHOUSE FOR ONLY 0.99 ⭐ Experience the premium quality TRY NOW](https://faphouse.com/?utm_source=xhamster-headline&utm_campaign=trial-2024&utm_medium=desktop-headline)
 
 Privacy Policy
 ==============
