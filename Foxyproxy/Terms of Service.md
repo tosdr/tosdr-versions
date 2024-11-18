@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Living in Tanzania and France means that your proxy service has been a fantastic addition to our TV viewing year - keep it up! I have never experienced any instability in your proxy servers, whether accessing from TZ or France, so I have purchased a year long proxy again.
+Dear FoxyProxy team, Very solid no-nonsense service. Have subscribed again! Good to see the price had not gone up, this is the right price point.
 
-Jo Anderson
+Luite van Zelst
