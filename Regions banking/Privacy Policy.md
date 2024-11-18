@@ -361,7 +361,7 @@ Related Insights
     
     Article
     
-* [How to endorse a check: 6 important steps](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/how-to-endorse-a-check)
+* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
     
     Article
     
@@ -448,3 +448,5 @@ You’re leaving Regions.com to visit an external website or app.
 Regions provides links to other websites or apps for your convenience and does not control the content, services or products provided on the linked website or app, whose Privacy and security policies or procedures may differ. Consult the policies or disclosures on their website.
 
 [Continue](#) Cancel
+
+ [![](-/media/Images/Icon/icon-calendar/icon-calendar.svg) Make an Appointment (Opens in a new window)](https://timetrade.com/app/regions/workflows/REGPHONE/schedule/?campaignId=website&view=embed "make-an-appointment")
