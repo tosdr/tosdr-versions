@@ -34,10 +34,10 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [The Most Useful Talent to Have (18)](https://forum.nationstates.net/viewtopic.php?t=558450&f=20&view=unread#unread ""The Most Useful Talent to Have" (18 posts)")
-* [Yes, the U.S. left does need its own… (87)](https://forum.nationstates.net/viewtopic.php?t=558206&f=20&view=unread#unread ""Yes, the U.S. left does need its own party" (87 posts)")
-* [Tiami's Endless Tacos (183)](https://forum.nationstates.net/viewtopic.php?t=558437&f=20&view=unread#unread ""Tiami's Endless Tacos" (183 posts)")
-* [Hazahm-Arzelent Military Drills (IC|C… (19)](https://forum.nationstates.net/viewtopic.php?t=558231&f=5&view=unread#unread ""Hazahm-Arzelent Military Drills (IC|Closed)" (19 posts)")
+* [Let's help each other write fiction (3)](https://forum.nationstates.net/viewtopic.php?t=557273&f=19&view=unread#unread ""Let's help each other write fiction" (3 posts)")
+* [Copa Rushmori XLVII - Everything Thread (64)](https://forum.nationstates.net/viewtopic.php?t=557787&f=7&view=unread#unread ""Copa Rushmori XLVII - Everything Thread" (64 posts)")
+* [Your favorite part of AN’s forum sig XI (4,849)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (4,849 posts)")
+* [Elfilin Q&A (18)](https://forum.nationstates.net/viewtopic.php?t=558343&f=23&view=unread#unread ""Elfilin Q&A" (18 posts)")
 
 Advertisement
 
