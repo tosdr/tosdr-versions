@@ -89,7 +89,7 @@ This Notice applies to your use of our websites, games, apps, and products. Diff
 
 The sections below set out the different types of information we may collect, how we may collect and use information, as well as your rights. If you do not want us to collect or use your information as explained in this Notice, you should not use any of the Playtika Services. For information about how to contact us and exercise your rights, please see the Contact Us section below.
 
-This Privacy Notice was last updated in October 2024. This Notice applies to all of the games listed in the “Playtika Games” section and does not apply to games owned and operated by Wooga GmbH or JustPlay.LOL.Ltd, please find the Wooga Privacy Notice [here](https://www.wooga.com/legal/en-privacy-policy), and the JustPlay Privacy Notice [here](https://www.justplay.lol/privacy-notice/en). Please note that this Privacy Notice does not apply to Candidates applying for jobs at Playtika. Please find the Candidate Privacy Notice [here](https://www.playtika.com/candidate-privacy-notice/). 
+This Privacy Notice was last updated in October 2024. This Notice applies to all of the games listed in the “Playtika Games” section and does not apply to games owned and operated by Wooga GmbH or JustPlay.LOL.Ltd, please find the Wooga Privacy Notice [here](https://www.wooga.com/legal/en-privacy-policy), and the JustPlay Privacy Notice [here](https://www.playtika.com/privacy-notice-jp). Please note that this Privacy Notice does not apply to Candidates applying for jobs at Playtika. Please find the Candidate Privacy Notice [here](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### OUR GAMES
 
@@ -617,7 +617,7 @@ Esta Declaración se aplica a tu uso de nuestros sitios web, juegos, aplicacione
 
 Las secciones siguientes detallan los diferentes tipos de información que podemos recopilar, cómo podemos recopilar y usar la información, y tus derechos. Si no deseas que recopilemos o usemos tu información según lo detallado en esta Declaración, no deberás utilizar ninguno de los Servicios de Playtika. Para obtener información sobre cómo ponerte en contacto con nosotros y ejercer tus derechos, consulta la sección [Contacto](#CONTACTO) a continuación.
 
-Esta Declaración de privacidad se actualizó por última vez en octubre de 2024 (October 2024). Esta Declaración se aplica a todos los juegos enumerados en la sección «Juegos de Playtika» y no se aplica a otros juegos propiedad y operados por Wooga GmbH o JustPlay.LOL.Ltd. Consulta la Declaración de confidencialidad de Wooga [aquí](https://www.wooga.com/legal/en-privacy-policy), la Declaración de confidencialidad de JustPlay [aquí](https://www.justplay.lol/privacy-notice/en). Ten en cuenta que esta Declaración de confidencialidad no se aplica a los candidatos que soliciten puestos de trabajo en Playtika. Encontrarás la Declaración de privacidad para los candidatos [aquí](https://www.playtika.com/candidate-privacy-notice/). 
+Esta Declaración de privacidad se actualizó por última vez en octubre de 2024 (October 2024). Esta Declaración se aplica a todos los juegos enumerados en la sección «Juegos de Playtika» y no se aplica a otros juegos propiedad y operados por Wooga GmbH o JustPlay.LOL.Ltd. Consulta la Declaración de confidencialidad de Wooga [aquí](https://www.wooga.com/legal/en-privacy-policy), la Declaración de confidencialidad de JustPlay [aquí](https://www.playtika.com/privacy-notice-jp). Ten en cuenta que esta Declaración de confidencialidad no se aplica a los candidatos que soliciten puestos de trabajo en Playtika. Encontrarás la Declaración de privacidad para los candidatos [aquí](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### Nuestros juegos
 
@@ -1064,7 +1064,7 @@ Diese Erklärung gilt für Ihre Nutzung unserer Websites, Spiele, Apps und Produ
 
 In den folgenden Abschnitten werden die verschiedenen Arten von Informationen, die wir erfassen können, die Art und Weise, wie wir personenbezogene Daten erfassen und verwenden können, sowie Ihre Rechte erläutert. Wenn Sie nicht möchten, dass wir Ihre personenbezogenen Daten in der in dieser Erklärung beschriebenen Weise erfassen oder verwenden, sollten Sie die Dienste von Playtika nicht nutzen. Informationen darüber, wie Sie sich mit uns in Verbindung setzen und Ihre Rechte ausüben können, finden Sie im nachstehenden Abschnitt „Kontakt“.
 
-Diese Datenschutzerklärung wurde zuletzt am Oktober 2024 (October 2024) aktualisiert. Diese Datenschutzerklärung gilt für alle Spiele, die im Bereich „Playtika Games“ aufgelistet sind. Sie gilt nicht für Spiele, die folgenden Unternehmen gehören und von diesen betrieben werden: Wooga GmbH oder JustPlay.LOL.Ltd. Sie finden die Datenschutzerklärung von Wooga [hier](https://www.wooga.com/legal/en-privacy-policy) und von JustPlay [hier](https://www.justplay.lol/privacy-notice/en). Bitte beachten Sie, dass diese Datenschutzerklärung nicht für Personen gilt, die sich um eine Arbeitsstelle bei Playtika bewerben. Die Datenschutzerklärung für Bewerber finden Sie [hier](https://www.playtika.com/candidate-privacy-notice/). 
+Diese Datenschutzerklärung wurde zuletzt am Oktober 2024 (October 2024) aktualisiert. Diese Datenschutzerklärung gilt für alle Spiele, die im Bereich „Playtika Games“ aufgelistet sind. Sie gilt nicht für Spiele, die folgenden Unternehmen gehören und von diesen betrieben werden: Wooga GmbH oder JustPlay.LOL.Ltd. Sie finden die Datenschutzerklärung von Wooga [hier](https://www.wooga.com/legal/en-privacy-policy) und von JustPlay [hier](https://www.playtika.com/privacy-notice-jp). Bitte beachten Sie, dass diese Datenschutzerklärung nicht für Personen gilt, die sich um eine Arbeitsstelle bei Playtika bewerben. Die Datenschutzerklärung für Bewerber finden Sie [hier](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### UNSERE SPIELE
 
@@ -1592,7 +1592,7 @@ TABLE OF CONTENTS
 
 В следующих разделах описаны различные типы информации, которую может собирать наша компания, способы сбора и использования данных, а также ваши права. Если вы не хотите, чтобы наша компания собирала или использовала вашу информацию в соответствии с настоящим Уведомлением, вам следует воздержаться от использования любых услуг Playtika. Для получения информации о том, как связаться с нами и реализовать свои права, обратитесь к разделу «Контакты» ниже.
 
-Дата последнего обновления Уведомления о конфиденциальности — октябрь 2024 г. (October 2024). Настоящее Уведомление распространяется на все игры, перечисленные в разделе «Игры Playtika», и не относится к играм, принадлежащим и управляемым компаниями Wooga GmbH или JustPlay.LOL.Ltd Уведомление о конфиденциальности Wooga можно найти [здесь](https://www.wooga.com/legal/en-privacy-policy), , Уведомление о конфиденциальности JustPlay — [здесь](https://www.justplay.lol/privacy-notice/en). Обратите внимание, что настоящее Уведомление о конфиденциальности не распространяется на кандидатов, подающих заявки на трудоустройство в Playtika. Пожалуйста, ознакомьтесь с Уведомлением о конфиденциальности для кандидатов [здесь](https://www.playtika.com/candidate-privacy-notice/). 
+Дата последнего обновления Уведомления о конфиденциальности — октябрь 2024 г. (October 2024). Настоящее Уведомление распространяется на все игры, перечисленные в разделе «Игры Playtika», и не относится к играм, принадлежащим и управляемым компаниями Wooga GmbH или JustPlay.LOL.Ltd Уведомление о конфиденциальности Wooga можно найти [здесь](https://www.wooga.com/legal/en-privacy-policy), , Уведомление о конфиденциальности JustPlay — [здесь](https://www.playtika.com/privacy-notice-jp). Обратите внимание, что настоящее Уведомление о конфиденциальности не распространяется на кандидатов, подающих заявки на трудоустройство в Playtika. Пожалуйста, ознакомьтесь с Уведомлением о конфиденциальности для кандидатов [здесь](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### НАШИ ИГРЫ
 
@@ -2122,7 +2122,7 @@ Le présent Avis s’applique à votre utilisation de nos sites Internet, jeux, 
 
 Les sections ci-dessous décrivent les différents types d’informations que nous pouvons recueillir, la façon dont nous pouvons recueillir et utiliser lesdites informations, ainsi que vos droits. Si vous ne souhaitez pas que nous recueillions ou utilisions vos informations tel qu’expliqué dans le présent Avis, vous ne devez pas utiliser les Services Playtika. Pour obtenir plus d’informations sur la façon de nous contacter et d’exercer vos droits, veuillez consulter la section « Nous contacter » ci-dessous.
 
-Le présent Avis de confidentialité a été mis à jour pour la dernière fois en  2024 (October, 2024). Le présent Avis s’applique à tous les jeux énumérés dans la section « Jeux Playtika » (Playtika Games) et ne s’applique pas aux jeux appartenant à et exploités par Wooga GmbH ou JustPlay.LOL.Ltd, veuillez trouver l’avis de confidentialité de Wooga [ici](https://www.wooga.com/legal/en-privacy-policy) (the Wooga Privacy Notice here), l’avis de confidentialité de JustPlay [ici](https://www.justplay.lol/privacy-notice/en) (the JustPlay Privacy Notice here). Veuillez noter que le présent Avis de confidentialité ne s’applique pas aux candidats qui postulent à des emplois chez Playtika. Veuillez trouver l’Avis de confidentialité destiné aux candidats [ici](https://www.playtika.com/candidate-privacy-notice/) (Candidate Privacy Notice here). 
+Le présent Avis de confidentialité a été mis à jour pour la dernière fois en  2024 (October, 2024). Le présent Avis s’applique à tous les jeux énumérés dans la section « Jeux Playtika » (Playtika Games) et ne s’applique pas aux jeux appartenant à et exploités par Wooga GmbH ou JustPlay.LOL.Ltd, veuillez trouver l’avis de confidentialité de Wooga [ici](https://www.wooga.com/legal/en-privacy-policy) (the Wooga Privacy Notice here), l’avis de confidentialité de JustPlay [ici](https://www.playtika.com/privacy-notice-jp) (the JustPlay Privacy Notice here). Veuillez noter que le présent Avis de confidentialité ne s’applique pas aux candidats qui postulent à des emplois chez Playtika. Veuillez trouver l’Avis de confidentialité destiné aux candidats [ici](https://www.playtika.com/candidate-privacy-notice/) (Candidate Privacy Notice here). 
 
 #### NOS JEUX
 
@@ -2620,7 +2620,7 @@ La presente Informativa si applica all’utilizzo dei nostri siti Web, giochi, a
 
 Le sezioni seguenti illustrano i diversi tipi di informazioni che possiamo raccogliere, le modalità di raccolta e utilizzo delle informazioni, nonché i diritti dell’utente. Qualora l’utente non desideri che vengano raccolte o utilizzate le proprie informazioni come descritto nella presente Informativa, non deve utilizzare nessuno dei Servizi di Playtika. Per informazioni su come contattarci ed esercitare i propri diritti, consultare la sezione Contatti riportata più avanti.
 
-L’ultimo aggiornamento della presente Informativa sulla privacy risale a ottobre 2024 (October 2024). La presente Informativa si applica a tutti i giochi elencati nella sezione “I giochi di Playtika” e non si applica ad altri giochi di proprietà e gestiti da Playtika, Wooga GmbH o JustPlay.LOL.Ltd. È possibile consultare l’Informativa sulla privacy di Wooga [qui](https://www.wooga.com/legal/en-privacy-policy), l’Informativa sulla privacy di JustPlay [qui](https://www.justplay.lol/privacy-notice/en). La presente Informativa sulla privacy non si applica ai candidati che presentano candidature per un lavoro presso Playtika. È possibile consultare l’Informativa sulla privacy dei candidati [qui](https://www.playtika.com/candidate-privacy-notice/). 
+L’ultimo aggiornamento della presente Informativa sulla privacy risale a ottobre 2024 (October 2024). La presente Informativa si applica a tutti i giochi elencati nella sezione “I giochi di Playtika” e non si applica ad altri giochi di proprietà e gestiti da Playtika, Wooga GmbH o JustPlay.LOL.Ltd. È possibile consultare l’Informativa sulla privacy di Wooga [qui](https://www.wooga.com/legal/en-privacy-policy), l’Informativa sulla privacy di JustPlay [qui](https://www.playtika.com/privacy-notice-jp). La presente Informativa sulla privacy non si applica ai candidati che presentano candidature per un lavoro presso Playtika. È possibile consultare l’Informativa sulla privacy dei candidati [qui](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### I NOSTRI GIOCHI
 
@@ -3678,7 +3678,7 @@ Niniejsza polityka prywatności ma zastosowanie do korzystania z naszych stron i
 
 Poniższe sekcje określają różne rodzaje informacji, które możemy gromadzić, sposób, w jaki możemy gromadzić i wykorzystywać informacje, a także prawa użytkownika. Jeśli nie wyrażasz zgody na gromadzenie lub wykorzystywanie przez nas Twoich danych w sposób opisany w niniejszej Polityce prywatności, zrezygnuj z korzystania z Usług firmy Playtika. Informacje o tym, jak skontaktować się z nami i skorzystać ze swoich praw, można znaleźć w sekcji „Kontakt z nami" poniżej.
 
-Niniejsza Informacja o polityce prywatności została ostatnio zaktualizowana w październiku 2024 roku (October 2024). Ta Polityka prywatności ma zastosowanie do wszystkich gier wymienionych w sekcji „Gry Playtika” i nie ma zastosowania do gier będących własnością i obsługiwanych przez Wooga GmbH lub JustPlay.LOL.Ltd. Politykę prywatności Wooga można znaleźć [tutaj](https://www.wooga.com/legal/en-privacy-policy), Politykę prywatności JustPlay można znaleźć [tutaj](https://www.justplay.lol/privacy-notice/en). Uwaga: niniejsza Polityka prywatności nie ma zastosowania do Kandydatów ubiegających się o pracę w firmie Playtika. Informację o polityce prywatności dla Kandydatów można znaleźć [tutaj](https://www.playtika.com/candidate-privacy-notice/). 
+Niniejsza Informacja o polityce prywatności została ostatnio zaktualizowana w październiku 2024 roku (October 2024). Ta Polityka prywatności ma zastosowanie do wszystkich gier wymienionych w sekcji „Gry Playtika” i nie ma zastosowania do gier będących własnością i obsługiwanych przez Wooga GmbH lub JustPlay.LOL.Ltd. Politykę prywatności Wooga można znaleźć [tutaj](https://www.wooga.com/legal/en-privacy-policy), Politykę prywatności JustPlay można znaleźć [tutaj](https://www.playtika.com/privacy-notice-jp). Uwaga: niniejsza Polityka prywatności nie ma zastosowania do Kandydatów ubiegających się o pracę w firmie Playtika. Informację o polityce prywatności dla Kandydatów można znaleźć [tutaj](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### NASZE GRY
 
@@ -4084,7 +4084,7 @@ TABLE OF CONTENTS
 
 以下各章節列出了我們可能蒐集的不同類型資訊、我們如何蒐集與使用資訊，以及您的權利。如果您不希望我們蒐集或使用您的資訊，如本聲明所述，則不應使用任何 Playtika 服務。如需有關如何與我們聯絡並行使權利的資訊，請參閱下方「聯絡我們」。
 
-本隱私權聲明最後更新日期為 2024 年 10 月 (October 2024)。本聲明適用於「Playtika 遊戲」部分列出的所有遊戲，但不適用於 Wooga GmbH、JustPlay.LOL.Ltd 或 所擁有及營運的遊戲，請在[此處](https://www.wooga.com/legal/en-privacy-policy)查看 Wooga 隱私權聲明、[此處](https://www.justplay.lol/privacy-notice/en)查看 JustPlay 隱私權聲。請注意，本隱私權聲明不適用於申請 Playtika 工作的應徵者。請在[此處](https://www.playtika.com/candidate-privacy-notice/)找到應徵者隱私權聲明。 
+本隱私權聲明最後更新日期為 2024 年 10 月 (October 2024)。本聲明適用於「Playtika 遊戲」部分列出的所有遊戲，但不適用於 Wooga GmbH、JustPlay.LOL.Ltd 或 所擁有及營運的遊戲，請在[此處](https://www.wooga.com/legal/en-privacy-policy)查看 Wooga 隱私權聲明、[此處](https://www.playtika.com/privacy-notice-jp)查看 JustPlay 隱私權聲。請注意，本隱私權聲明不適用於申請 Playtika 工作的應徵者。請在[此處](https://www.playtika.com/candidate-privacy-notice/)找到應徵者隱私權聲明。 
 
 #### 我們的遊戲
 
@@ -4593,7 +4593,7 @@ TABLE OF CONTENTS
 
 नीचे दिए गए सेक्शन में विभिन्न प्रकार की जानकारी दी गई है, जिन्हें हम एकत्र कर सकते हैं, हम जानकारी कैसे एकत्र कर सकते हैं और उसका उपयोग कैसे कर सकते हैं, तथा आपके अधिकार भी बताए गए हैं। यदि आप चाहें कि आपकी जानकारी एकत्रित न की जाए या उसका उपयोग इस नोटिस में बताए अनुसार न किया जाए, तो आपको Playtika की किसी भी सेवा का उपयोग नहीं करना चाहिए। हमसे संपर्क करने और अपने अधिकारों का प्रयोग करने के बारे में जानकारी के लिए कृपया नीचे दिए गए ‘हमसे संपर्क करें’ सेक्शन देखें।
 
-यह गोपनीयता नोटिस अंतिम बार अक्टूबर/नवंबर, 2024 (October 2024) को अपडेट की गई थी। यह नोटिस "Playtika गेम्स" सेक्शन में सूचीबद्ध सभी गेम्स पर लागू होता है और Wooga GmbH, JustPlay.LOL.Ltd के स्वामित्व वाले और संचालित खेलों पर लागू नहीं होता है, कृपया Wooga गोपनीयता नोटिस [यहाँ](https://www.wooga.com/legal/en-privacy-policy), JustPlay गोपनीयता नोटिस [यहाँ](https://www.justplay.lol/privacy-notice/en) देखी जा सकती है। कृपया ध्यान दें कि यह गोपनीयता नोटिस Playtika में नौकरियों के लिए आवेदन करने वाले उम्मीदवारों पर लागू नहीं होती है। उम्मीदवारों की गोपनीयता नोटिस [यहाँ](https://www.playtika.com/candidate-privacy-notice/) देखें। 
+यह गोपनीयता नोटिस अंतिम बार अक्टूबर/नवंबर, 2024 (October 2024) को अपडेट की गई थी। यह नोटिस "Playtika गेम्स" सेक्शन में सूचीबद्ध सभी गेम्स पर लागू होता है और Wooga GmbH, JustPlay.LOL.Ltd के स्वामित्व वाले और संचालित खेलों पर लागू नहीं होता है, कृपया Wooga गोपनीयता नोटिस [यहाँ](https://www.wooga.com/legal/en-privacy-policy), JustPlay गोपनीयता नोटिस [यहाँ](https://www.playtika.com/privacy-notice-jp) देखी जा सकती है। कृपया ध्यान दें कि यह गोपनीयता नोटिस Playtika में नौकरियों के लिए आवेदन करने वाले उम्मीदवारों पर लागू नहीं होती है। उम्मीदवारों की गोपनीयता नोटिस [यहाँ](https://www.playtika.com/candidate-privacy-notice/) देखें। 
 
 #### हमारे गेम्स
 
@@ -5105,7 +5105,7 @@ TABLE OF CONTENTS
 
 تحدد الأقسام التالية أنواع المعلومات المختلفة التي يجوز لنا جمعها، وكيفية جمع المعلومات واستخدامها، بالإضافة إلى الحقوق التي تتمتع بها. إذا كنت لا ترغب في أن نقوم بجمع معلوماتك أو استخدامها كما هو موضح في هذا الإشعار، فلن تستخدم أي من خدمات Playtika. للحصول على معلومات حول كيفية الاتصال بنا والحصول على حقوقك، يرجى الاطلاع على قسم الاتصال بنا فيما يلي.
 
-تم تحديث إشعار الخصوصية هذا آخر مرة في أكتوبر2024 (October 2024). ينطبق هذا الإشعار على جميع الألعاب المدرجة في قسم "ألعاب Playtika" ولا ينطبق على الألعاب المملوكة والمدارة بواسطة Wooga GmbH أو JustPlay.LOL.Ltd، يرجى العثور على إشعار خصوصية Wooga [هنا](https://www.wooga.com/legal/en-privacy-policy) وإشعار خصوصية JustPlay [هنا](https://www.justplay.lol/privacy-notice/en). يرجى العلم بأن إشعار الخصوصية هذا لا ينطبق على المرشحين الذين يتقدمون بطلبات للحصول على وظائف في Playtika. يرجى الاطلاع على إشعار خصوصية المرشح [هنا](https://www.playtika.com/candidate-privacy-notice/). 
+تم تحديث إشعار الخصوصية هذا آخر مرة في أكتوبر2024 (October 2024). ينطبق هذا الإشعار على جميع الألعاب المدرجة في قسم "ألعاب Playtika" ولا ينطبق على الألعاب المملوكة والمدارة بواسطة Wooga GmbH أو JustPlay.LOL.Ltd، يرجى العثور على إشعار خصوصية Wooga [هنا](https://www.wooga.com/legal/en-privacy-policy) وإشعار خصوصية JustPlay [هنا](https://www.playtika.com/privacy-notice-jp). يرجى العلم بأن إشعار الخصوصية هذا لا ينطبق على المرشحين الذين يتقدمون بطلبات للحصول على وظائف في Playtika. يرجى الاطلاع على إشعار خصوصية المرشح [هنا](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### ألعابنا
 
@@ -5612,7 +5612,7 @@ TABLE OF CONTENTS
 
 בסעיפים שלפניכם מפורטים סוגי המידע שנאסוף, האופן שבו נאסוף אותו ונשתמש בו והזכויות השמורות לכם בקשר למידע שלכם. אם אינכם מעוניינים ומסכימים שנאסוף או נשתמש במידע שלכם כמוסבר בהודעה זו, עליכם לא להשתמש באף אחד מן השירותים של פלייטיקה. לקבלת מידע בדבר דרכי התקשרות עמנו ומימוש הזכויות שלכם, אנא עיינו בפרק שכותרתו "יצירת קשר" להלן.
 
-הודעת פרטיות זו עודכנה לאחרונה בחודש אוקטובר 2024. (October 2024) הודעה זו חלה על כל המשחקים המופיעים ברשימת "המשחקים של פלייטיקה" והיא אינה חלה על משחקים המצויים בבעלותן של Wooga GmbH, JustPlay.Lol.Ltd  והמופעלים על-ידן. באפשרותכם לעיין בהודעת הפרטיות של Wooga  [בקישור זה](https://www.wooga.com/legal/en-privacy-policy) ובהודעת הפרטיות של JustPlay.Lol Ltd  [בקישור זה.](https://www.justplay.lol/privacy-notice/en) לתשומת לבכם: הודעת פרטיות זו אינה חלה על מועמדים למשרות בפלייטיקה. הודעת הפרטיות למועמדים זמינה [בקישור זה](https://www.playtika.com/candidate-privacy-notice/). 
+הודעת פרטיות זו עודכנה לאחרונה בחודש אוקטובר 2024. (October 2024) הודעה זו חלה על כל המשחקים המופיעים ברשימת "המשחקים של פלייטיקה" והיא אינה חלה על משחקים המצויים בבעלותן של Wooga GmbH, JustPlay.Lol.Ltd  והמופעלים על-ידן. באפשרותכם לעיין בהודעת הפרטיות של Wooga  [בקישור זה](https://www.wooga.com/legal/en-privacy-policy) ובהודעת הפרטיות של JustPlay.Lol Ltd  [בקישור זה.](https://www.playtika.com/privacy-notice-jp) לתשומת לבכם: הודעת פרטיות זו אינה חלה על מועמדים למשרות בפלייטיקה. הודעת הפרטיות למועמדים זמינה [בקישור זה](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### המשחקים שלנו
 
@@ -6097,7 +6097,7 @@ Deze Verklaring is van toepassing op uw gebruik van onze websites, games, apps e
 
 In de onderstaande gedeelten worden de verschillende soorten informatie uiteengezet die wij mogelijk verzamelen en hoe wij die informatie verzamelen en gebruiken, evenals uw rechten. Als u niet wilt dat wij uw informatie verzamelen of gebruiken zoals in deze Verklaring wordt uitgelegd, wordt u aanbevolen geen gebruik te maken van de Diensten van Playtika. Voor meer informatie over hoe u contact met ons kunt opnemen en hoe u uw rechten kunt uitoefenen, raadpleegt u het gedeelte Contact opnemen hieronder.
 
-Deze Privacyverklaring is voor het laatst bijgewerkt op oktober, 2024 (October 2024). Deze verklaring is van toepassing op alle games die worden vermeld in het gedeelte 'Playtika Games' en is niet van toepassing op games die eigendom zijn van en worden beheerd door Wooga GmbH, JustPlay.LOL.Ltd. Raadpleeg [hier](https://www.wooga.com/legal/en-privacy-policy) de Privacyverklaring van Wooga en [JustPlay](https://www.justplay.lol/privacy-notice/en). Houd er rekening mee dat deze Privacyverklaring niet van toepassing is op kandidaten die solliciteren naar een baan bij Playtika. [Hier](https://www.playtika.com/candidate-privacy-notice/) vindt u de Privacyverklaring voor kandidaten. 
+Deze Privacyverklaring is voor het laatst bijgewerkt op oktober, 2024 (October 2024). Deze verklaring is van toepassing op alle games die worden vermeld in het gedeelte 'Playtika Games' en is niet van toepassing op games die eigendom zijn van en worden beheerd door Wooga GmbH, JustPlay.LOL.Ltd. Raadpleeg [hier](https://www.wooga.com/legal/en-privacy-policy) de Privacyverklaring van Wooga en [JustPlay](https://www.playtika.com/privacy-notice-jp). Houd er rekening mee dat deze Privacyverklaring niet van toepassing is op kandidaten die solliciteren naar een baan bij Playtika. [Hier](https://www.playtika.com/candidate-privacy-notice/) vindt u de Privacyverklaring voor kandidaten. 
 
 #### ONZE GAMES
 
@@ -6627,7 +6627,7 @@ TABLE OF CONTENTS
 
 아래 섹션에서는 당사가 수집할 수 있는 다양한 유형의 정보, 당사가 정보를 수집하고 사용하는 방법 및 여러분의 권리에 대해 설명합니다. 본 고지에 설명된 대로 당사가 여러분의 정보를 수집하거나 사용하는 것을 원하지 않는 경우, 여러분은 Playtika 서비스를 이용하지 않아야 합니다. 문의 및 권리 행사 방법에 대한 자세한 내용은 아래 문의처 섹션을 참조하세요.
 
-본 개인정보 처리방침은 2024년 10월 월(October 2024)에 마지막으로 업데이트되었습니다. 본 고지사항은 "Playtika Games" 섹션에 나열된 모든 게임에 적용되며 Wooga GmbH 또는JustPlay.LOL.Ltd가 소유 및 운영하는 게임에는 적용되지 않습니다. Wooga 개인정보 처리방침은 [여기](https://www.wooga.com/legal/en-privacy-policy)에서, JustPlay 개인정보 처리방침은 [여기](https://www.justplay.lol/privacy-notice/en)에서 에서 확인하실 수 있습니다. 본 개인정보 처리방침은 Playtika에 입사 지원한 지원자에게는 적용되지 않는다는 점에 유의하시기를 바랍니다. 지원자 개인정보 처리방침은 [여기](https://www.playtika.com/candidate-privacy-notice/)에서 확인하시기를 바랍니다. 
+본 개인정보 처리방침은 2024년 10월 월(October 2024)에 마지막으로 업데이트되었습니다. 본 고지사항은 "Playtika Games" 섹션에 나열된 모든 게임에 적용되며 Wooga GmbH 또는JustPlay.LOL.Ltd가 소유 및 운영하는 게임에는 적용되지 않습니다. Wooga 개인정보 처리방침은 [여기](https://www.wooga.com/legal/en-privacy-policy)에서, JustPlay 개인정보 처리방침은 [여기](https://www.playtika.com/privacy-notice-jp)에서 에서 확인하실 수 있습니다. 본 개인정보 처리방침은 Playtika에 입사 지원한 지원자에게는 적용되지 않는다는 점에 유의하시기를 바랍니다. 지원자 개인정보 처리방침은 [여기](https://www.playtika.com/candidate-privacy-notice/)에서 확인하시기를 바랍니다. 
 
 #### 당사 게임
 
@@ -7255,7 +7255,7 @@ TABLE OF CONTENTS
 
 以下の項では、収集する可能性のある情報の種類、その収集方法、使用方法、およびお客様の権利について説明しています。本通知に記載された方法で情報の収集や使用を望まれない場合は、Playtikaのサービスを利用しないでください。お問い合わせ方法やお客様の権利を行使するための詳細については、以下の「お問い合わせ」の項をご覧ください。
 
-本プライバシー通知は2024年10月(October 2024)に最終更新されました。通知は、「Playtikaのゲーム」の項に記載されているすべてのゲームに適用されますが、Wooga GmbH またはJustPlay.LOL.Ltd、が所有および運営するゲームには適用されません。Woogaのプライバシー通知は[こちら](https://www.wooga.com/legal/en-privacy-policy)、JustPlayのプライバシー通知は[こちら](https://www.justplay.lol/privacy-notice/en)、をご覧ください。 本プライバシー通知は、Playtikaへの求人応募者には適用されませんのでご注意ください。応募者のプライバシー通知は[こちら](https://www.playtika.com/candidate-privacy-notice/)をご覧ください。 
+本プライバシー通知は2024年10月(October 2024)に最終更新されました。通知は、「Playtikaのゲーム」の項に記載されているすべてのゲームに適用されますが、Wooga GmbH またはJustPlay.LOL.Ltd、が所有および運営するゲームには適用されません。Woogaのプライバシー通知は[こちら](https://www.wooga.com/legal/en-privacy-policy)、JustPlayのプライバシー通知は[こちら](https://www.playtika.com/privacy-notice-jp)、をご覧ください。 本プライバシー通知は、Playtikaへの求人応募者には適用されませんのでご注意ください。応募者のプライバシー通知は[こちら](https://www.playtika.com/candidate-privacy-notice/)をご覧ください。 
 
 #### 当社のゲーム
 
@@ -7783,7 +7783,7 @@ Notis ini terpakai untuk penggunaan laman web, permainan, aplikasi dan produk ka
 
 Bahagian di bawah ini menjelaskan mengenai jenis-jenis maklumat berlainan yang kami mungkin kumpulkan, bagaimana kami mungkin mengumpul dan menggunakan maklumat, serta hak-hak anda. Jika anda tidak mahu kami mengumpul atau menggunakan maklumat anda seperti yang diterangkan dalam Notis ini, anda tidak seharusnya menggunakan mana-mana Perkhidmatan Playtika. Untuk maklumat tentang cara untuk menghubungi kami dan melaksanakan hak-hak anda, sila rujuk bahagian Hubungi Kami di bawah.
 
-Notis Privasi ini kali terakhir dikemas kini pada Oktober 2024 (October 2024). Notis ini terpakai untuk semua permainan yang tersenarai dalam bahagian “Permainan Playtika” dan tidak terpakai untuk permainan yang dimiliki dan dikendalikan oleh Wooga GmbH atau JustPlay.LOL Ltd, sila dapatkan Notis Privasi Wooga [di sini](https://www.wooga.com/legal/en-privacy-policy), Notis Privasi JustPlay [di sini](https://www.justplay.lol/privacy-notice/en) dan. Sila ambil perhatian bahawa Notis Privasi ini tidak terpakai kepada Calon yang memohon pekerjaan di Playtika. Sila dapatkan Notis Privasi Calon [di sini](https://www.playtika.com/candidate-privacy-notice/). 
+Notis Privasi ini kali terakhir dikemas kini pada Oktober 2024 (October 2024). Notis ini terpakai untuk semua permainan yang tersenarai dalam bahagian “Permainan Playtika” dan tidak terpakai untuk permainan yang dimiliki dan dikendalikan oleh Wooga GmbH atau JustPlay.LOL Ltd, sila dapatkan Notis Privasi Wooga [di sini](https://www.wooga.com/legal/en-privacy-policy), Notis Privasi JustPlay [di sini](https://www.playtika.com/privacy-notice-jp) dan. Sila ambil perhatian bahawa Notis Privasi ini tidak terpakai kepada Calon yang memohon pekerjaan di Playtika. Sila dapatkan Notis Privasi Calon [di sini](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### PERMAINAN KAMI
 
@@ -8311,7 +8311,7 @@ Denne erklæringen gjelder din bruk av våre nettsider, spill, apper og produkte
 
 Avsnittene nedenfor beskriver de forskjellige typene opplysninger vi kan samle inn, hvordan vi kan samle inn og bruke opplysninger, samt dine rettigheter. Hvis du ikke vil at vi skal samle inn eller bruke opplysningene dine som forklart i denne erklæringen, bør du ikke bruke noen av Playtika-tjenestene. For informasjon om hvordan du kontakter oss og utøver dine rettigheter, se avsnittet Kontakt oss nedenfor.
 
-Denne personvernerklæringen ble sist oppdatert oktober 2024 (October 2024). Denne erklæringen gjelder for alle spillene oppført i «Playtika-spill»-delen, og gjelder ikke spill eid og drevet av Wooga GmbH eller JustPlay.LOL.Ltd, du finner personvernerklæringen for Wooga [her](https://www.wooga.com/legal/en-privacy-policy), personvernerklæringen for JustPlay [her](https://www.justplay.lol/privacy-notice/en). Merk at denne personvernerklæringen ikke gjelder for kandidater som søker på jobb hos Playtika. Finn personvernerklæringen for kandidater [her](https://www.playtika.com/candidate-privacy-notice/). 
+Denne personvernerklæringen ble sist oppdatert oktober 2024 (October 2024). Denne erklæringen gjelder for alle spillene oppført i «Playtika-spill»-delen, og gjelder ikke spill eid og drevet av Wooga GmbH eller JustPlay.LOL.Ltd, du finner personvernerklæringen for Wooga [her](https://www.wooga.com/legal/en-privacy-policy), personvernerklæringen for JustPlay [her](https://www.playtika.com/privacy-notice-jp). Merk at denne personvernerklæringen ikke gjelder for kandidater som søker på jobb hos Playtika. Finn personvernerklæringen for kandidater [her](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### VÅRE SPILL
 
@@ -8839,7 +8839,7 @@ Esta Notificação se aplica ao seu uso dos nossos sites, jogos, aplicativos e p
 
 As seções abaixo definem os diferentes tipos de informações que podemos coletar, como podemos coletar e usar informações, bem como os seus direitos. Se você não quiser que coletemos ou usemos suas informações conforme explicado nesta Notificação,, você não deve usar nenhum dos Serviços da Playtika. Para informações sobre como entrar em contato conosco e exercer os seus direitos, consulte a seção Entre em Contato Conosco abaixo.
 
-Esta Notificação de Privacidade foi atualizada pela última vez em outubro de 2024 (October 2024). Esta Notificação se aplica a todos os jogos enumerados na seção “Jogos da Playtika” e não se aplica a outros jogos de propriedade e operados pela Playtika, Wooga GmbH e JustPlay.LOL.Ltd. Consulte a Notificação de Privacidade da Wooga [aqui](https://www.wooga.com/legal/en-privacy-policy), a Notificação de Privacidade da Playtika [aqui](https://www.justplay.lol/privacy-notice/en). Observe que esta Notificação de Privacidade não se aplica a Candidatos que se candidatem a empregos na Playtika. Veja a Notificação de Privacidade para Candidatos [aqui](https://www.playtika.com/candidate-privacy-notice/). 
+Esta Notificação de Privacidade foi atualizada pela última vez em outubro de 2024 (October 2024). Esta Notificação se aplica a todos os jogos enumerados na seção “Jogos da Playtika” e não se aplica a outros jogos de propriedade e operados pela Playtika, Wooga GmbH e JustPlay.LOL.Ltd. Consulte a Notificação de Privacidade da Wooga [aqui](https://www.wooga.com/legal/en-privacy-policy), a Notificação de Privacidade da Playtika [aqui](https://www.playtika.com/privacy-notice-jp). Observe que esta Notificação de Privacidade não se aplica a Candidatos que se candidatem a empregos na Playtika. Veja a Notificação de Privacidade para Candidatos [aqui](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### NOSSOS JOGOS
 
@@ -9369,7 +9369,7 @@ Prezenta Declarație se aplică utilizării de către dvs. a site-urilor web, jo
 
 Secțiunile de mai jos prezintă diferitele tipuri de informații pe care este posibil să le colectăm, modul în care este posibil să colectăm și să utilizăm informațiile, precum și drepturile dvs. Dacă nu doriți să colectăm sau să utilizăm informațiile dvs. așa cum am explicat în prezenta Declarație, nu ar trebui să utilizați Serviciile Playtika. Pentru informații privind modul în care ne puteți contacta și vă puteți exercita drepturile, consultați secțiunea Contactați-ne de mai jos.
 
-Prezenta Declarație de confidențialitate a fost actualizată ultima dată în octombrie 2024 (October 2024). Prezenta Declarație se aplică tuturor jocurilor afișate în secțiunea „Jocuri Playtika” și nu se aplică jocurilor deținute și operate de Wooga GmbH sau JustPlay.LOL.Ltd, puteți găsi Declarația de confidențialitate Wooga [aici](https://www.wooga.com/legal/en-privacy-policy), Declarația de confidențialitate JustPlay [aici](https://www.justplay.lol/privacy-notice/en). Rețineți că prezenta Declarație de confidențialitate nu se aplică acelor Candidați care candidează pentru un loc de muncă la Playtika. Puteți găsi Declarația de confidențialitate cu privire la Candidați [aici](https://www.playtika.com/candidate-privacy-notice/). 
+Prezenta Declarație de confidențialitate a fost actualizată ultima dată în octombrie 2024 (October 2024). Prezenta Declarație se aplică tuturor jocurilor afișate în secțiunea „Jocuri Playtika” și nu se aplică jocurilor deținute și operate de Wooga GmbH sau JustPlay.LOL.Ltd, puteți găsi Declarația de confidențialitate Wooga [aici](https://www.wooga.com/legal/en-privacy-policy), Declarația de confidențialitate JustPlay [aici](https://www.playtika.com/privacy-notice-jp). Rețineți că prezenta Declarație de confidențialitate nu se aplică acelor Candidați care candidează pentru un loc de muncă la Playtika. Puteți găsi Declarația de confidențialitate cu privire la Candidați [aici](https://www.playtika.com/candidate-privacy-notice/). 
 
 #### JOCURILE NOASTRE
 
@@ -9897,7 +9897,7 @@ Policyn gäller för din användning av våra webbplatser, spel, appar och produ
 
 I avsnitten nedan anger vi de typer av information som vi kan hämta in, hur vi hämtar in den, hur vi använder den samt dina rättigheter. Om du inte vill att vi samlar in eller använder din information enligt beskrivningarna i policyn, bör du inte använda några av Playtika-tjänsterna. Se avsnittet Kontakta oss nedan för våra kontaktuppgifter och information om hur du tillvaratar dina rättigheter.
 
-Integritetspolicyn uppdaterades senast oktober 2024 (October 2024). Denna policy gäller för alla spel i avsnittet ”Playtikas spel”. Den gäller inte för Wooga GmbH eller JustPlay.LOL.Ltd. Du hittar integritetspolicyn för Wooga [här](https://www.wooga.com/legal/en-privacy-policy), integritetspolicyn för JustPlay [här](https://www.justplay.lol/privacy-notice/en) och integritetspolicyn. Observera att denna integritetspolicy inte gäller för kandidater som ansöker om jobb hos Playtika. Du hittar integritetspolicyn för jobbkandidater [här](https://www.playtika.com/candidate-privacy-notice/).
+Integritetspolicyn uppdaterades senast oktober 2024 (October 2024). Denna policy gäller för alla spel i avsnittet ”Playtikas spel”. Den gäller inte för Wooga GmbH eller JustPlay.LOL.Ltd. Du hittar integritetspolicyn för Wooga [här](https://www.wooga.com/legal/en-privacy-policy), integritetspolicyn för JustPlay [här](https://www.playtika.com/privacy-notice-jp) och integritetspolicyn. Observera att denna integritetspolicy inte gäller för kandidater som ansöker om jobb hos Playtika. Du hittar integritetspolicyn för jobbkandidater [här](https://www.playtika.com/candidate-privacy-notice/).
 
 #### VÅRA SPEL
 
@@ -10427,7 +10427,7 @@ TABLE OF CONTENTS
 
 ส่วนต่างๆ ต่อไปนี้จะอธิบายถึงประเภทของข้อมูลที่เราอาจรวบรวม วิธีที่เราอาจรวบรวมและใช้ข้อมูล รวมถึงสิทธิ์ของคุณ หากคุณไม่ต้องการให้เรารวบรวมหรือใช้ ข้อมูลของคุณตามที่อธิบายไว้ในประกาศฉบับนี้ คุณไม่ควรใช้บริการใดๆ ของ Playtika หากต้องการข้อมูลเกี่ยวกับวิธีติดต่อเราและใช้สิทธิของคุณ โปรดดูที่ส่วน "ติดต่อเรา" ด้านล่าง
 
-ประกาศว่าด้วยความเป็นส่วนตัวฉบับนี้ได้รับการปรับปรุงครั้งล่าสุดในเดือนตุลาคม 2024 (October 2024) ประกาศฉบับนี้ใช้กับ เกมทั้งหมดที่ระบุไว้ในส่วน "Playtika Games" และไม่ใช้กับเกมที่เป็นเจ้าของและดำเนินการโดย Wooga Gmbh หรือ JustPlay.LOL.Ltd คุณสามารถดูประกาศว่าด้วยความเป็นส่วนตัวของ Wooga Gmbh ได้[ที่นี่](https://www.wooga.com/legal/en-privacy-policy) ประกาศว่าด้วยความเป็นส่วนตัวของ JustPlay [ที่นี่](https://www.justplay.lol/privacy-notice/en) โปรดทราบว่าประกาศว่าด้วยความเป็นส่วนตัวฉบับนี้ไม่ใช้กับผู้สมัครที่สมัครงานที่ Playtika กรุณาตรวจสอบประกาศว่าด้วยความเป็นส่วนตัวของผู้สมัคร[ที่นี่](https://www.playtika.com/candidate-privacy-notice/) 
+ประกาศว่าด้วยความเป็นส่วนตัวฉบับนี้ได้รับการปรับปรุงครั้งล่าสุดในเดือนตุลาคม 2024 (October 2024) ประกาศฉบับนี้ใช้กับ เกมทั้งหมดที่ระบุไว้ในส่วน "Playtika Games" และไม่ใช้กับเกมที่เป็นเจ้าของและดำเนินการโดย Wooga Gmbh หรือ JustPlay.LOL.Ltd คุณสามารถดูประกาศว่าด้วยความเป็นส่วนตัวของ Wooga Gmbh ได้[ที่นี่](https://www.wooga.com/legal/en-privacy-policy) ประกาศว่าด้วยความเป็นส่วนตัวของ JustPlay [ที่นี่](https://www.playtika.com/privacy-notice-jp) โปรดทราบว่าประกาศว่าด้วยความเป็นส่วนตัวฉบับนี้ไม่ใช้กับผู้สมัครที่สมัครงานที่ Playtika กรุณาตรวจสอบประกาศว่าด้วยความเป็นส่วนตัวของผู้สมัคร[ที่นี่](https://www.playtika.com/candidate-privacy-notice/) 
 
 #### เกมของเรา
 
@@ -10955,7 +10955,7 @@ Bu Politika, web sitelerimizi, oyunlarımızı, uygulamalarımızı ve ürünler
 
 Aşağıdaki bölümler, toplayabileceğimiz farklı bilgi türlerini, bilgiyi toplama ve kullanma şeklimizi ve ayrıca haklarınızı belirtir. Bu Politika’da açıklandığı gibi bilgilerinizi toplamamızı veya kullanmamızı istemiyorsanız, herhangi bir Playtika Hizmeti’ni kullanmamalısınız. Bizimle iletişim kurma ve haklarınızı kullanma konularında bilgi için, aşağıdaki Bize Ulaşın bölümüne bakın.
 
-Bu Gizlilik Politikası en son, Ekim 2024 (October 2024) tarihinde güncellenmiştir. Bu Politika “Playtika Oyunları” bölümünde listelenen tüm oyunlar için geçerlidir ve Wooga GmbH veya JustPlay.LOL.Ltd,’nin sahip olduğu ya da işlettiği diğer oyunlar bu politikanın uygulama alanı dışındadır.  Wooga Gizlilik Politikası’na [buradan](https://www.wooga.com/legal/en-privacy-policy) , JustPlay Gizlilik Politikası’na [buradan](https://www.justplay.lol/privacy-notice/en). Bu Gizlilik Politikası, Playtika’ya iş başvurusunda bulunan Adaylar için geçerli değildir. Aday Gizlilik Politikası’na [buradan](https://www.playtika.com/candidate-privacy-notice/) ulaşabilirsiniz. 
+Bu Gizlilik Politikası en son, Ekim 2024 (October 2024) tarihinde güncellenmiştir. Bu Politika “Playtika Oyunları” bölümünde listelenen tüm oyunlar için geçerlidir ve Wooga GmbH veya JustPlay.LOL.Ltd,’nin sahip olduğu ya da işlettiği diğer oyunlar bu politikanın uygulama alanı dışındadır.  Wooga Gizlilik Politikası’na [buradan](https://www.wooga.com/legal/en-privacy-policy) , JustPlay Gizlilik Politikası’na [buradan](https://www.playtika.com/privacy-notice-jp). Bu Gizlilik Politikası, Playtika’ya iş başvurusunda bulunan Adaylar için geçerli değildir. Aday Gizlilik Politikası’na [buradan](https://www.playtika.com/candidate-privacy-notice/) ulaşabilirsiniz. 
 
 #### OYUNLARIMIZ
 
@@ -11483,7 +11483,7 @@ TABLE OF CONTENTS
 
 以下的内容包括，我们所收集的不同类型的信息、如何收集和使用信息以及您的权利。如您不希望我们按照本《声明》收集或使用您的个人信息，请不要使用 Playtika 服务。有关如何联系我们和行使您的权利的信息，请参阅下文“联系我们”。
 
-本《隐私声明》最后更新于2024年10月（October 2024）。本《声明》适用于下文“Playtika 游戏”中列出的所有游戏，但不适用于Wooga GmbH 或JustPlay.LOL.Ltd拥有和运营的游戏。请在[此处](https://www.wooga.com/legal/en-privacy-policy)查阅Wooga的隐私声明，在[此处](https://www.justplay.lol/privacy-notice/en)查阅 JustPlay的隐私声明。请注意，本《隐私声明》不适用于应聘 Playtika 职位的应聘者。请在[此处](https://www.playtika.com/candidate-privacy-notice/)查阅应聘者隐私声明。 
+本《隐私声明》最后更新于2024年10月（October 2024）。本《声明》适用于下文“Playtika 游戏”中列出的所有游戏，但不适用于Wooga GmbH 或JustPlay.LOL.Ltd拥有和运营的游戏。请在[此处](https://www.wooga.com/legal/en-privacy-policy)查阅Wooga的隐私声明，在[此处](https://www.playtika.com/privacy-notice-jp)查阅 JustPlay的隐私声明。请注意，本《隐私声明》不适用于应聘 Playtika 职位的应聘者。请在[此处](https://www.playtika.com/candidate-privacy-notice/)查阅应聘者隐私声明。 
 
 #### 我们的游戏
 
