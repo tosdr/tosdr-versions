@@ -316,7 +316,6 @@ The Citizenry
 * [Artisan Partners](https://www.the-citizenry.com/pages/artisan-index)
 * [Press](https://www.the-citizenry.com/pages/press)
 * [Careers](https://www.the-citizenry.com/pages/careers)
-* [Ambassador Program](https://thecitizenry.grin.live/)
 * [The Citizenry: Resale](https://www.the-citizenry.com/pages/resale)
 * [Corporate Sales & Gifting](https://www.the-citizenry.com/pages/corporate-sales-gifting)
 * [Trade Program](https://www.the-citizenry.com/pages/trade-program-1)
