@@ -97,6 +97,7 @@ Specific details on Cookies[](#specific-details-on-cookies)
 | Website | yt-remote-session-app | Targeting/Marketing | Stores the user’s video player preferences using embedded You Tube video | Persistent | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | yt-remote-session-name | Targeting/Marketing | Stores the user’s video player preferences using embedded You Tube video | Persistent | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Website | ajs\_user\_id | Analytics/Performance | Generates a userID to identify reoccurring website visitors | Persistent | Yes | [https://segment.com/legal/privacy/](https://segment.com/legal/privacy/) |
+| Website | fs\_uid | Strictly Necessary | Used to provide job board functionality and manage job applications through Ashby ATS | 6 months | Yes | [https://www.ashbyhq.com/privacy](https://www.ashbyhq.com/privacy) |
 | Website | \_ga | Targeting/Marketing | Google Analytics | 14 months | Yes | [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en) |
 | Product, Website | muxData | Strictly Necessary | Mux | 1 year | No  | [https://mux.com/privacy/](https://mux.com/privacy/) |
 | Website | gitpod-marketing-website-visited | Analytics/Performance | Recognises if a user visited [https://gitpod.io](https://gitpod.io/) | 1 year | No  |     |
