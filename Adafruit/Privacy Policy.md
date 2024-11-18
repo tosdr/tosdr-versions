@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Life's most persistent and urgent question is, What are you doing for others?”
+“ Eternal vigilance is not only the price of liberty; eternal vigilance is the price of human decency”
 
-[Martin Luther King, Jr.](http://en.wikipedia.org/wiki/Martin_Luther_King,_Jr.)
+[Aldous Huxley](http://www.thisdayinquotes.com/2011/01/eternal-vigilance-is-price-of-liberty.html)
 
 [](https://www.adafruit.com/about)
 
