@@ -14,11 +14,7 @@ Accept
 
 [Skip to content](#main)
 
-Menu
-
- [![WestJet](/content/dam/westjet/images/graphics/logos/maple-leaf_rgb.svg/jcr:content/renditions/original/jcr:content) ![WestJet](/content/dam/westjet/images/graphics/logos/westjet_rgb.svg/jcr:content/renditions/original/jcr:content)](https://www.westjet.com/en-ca "Navigate to the homepage")
-
-Search
+ [![WestJet](/content/dam/westjet/images/graphics/logos/maple-leaf_rev.svg/jcr:content/renditions/original/jcr:content) ![WestJet](/content/dam/westjet/images/graphics/logos/westjet_rev.svg/jcr:content/renditions/original/jcr:content)](https://www.westjet.com/en-ca "Navigate to the homepage")
 
 0
 
@@ -45,11 +41,9 @@ Check back later
     * [Best of Travel](https://www.westjet.com/en-ca/best-of-travel)
 * [Vacations](https://www.westjet.com/en-ca/vacations)
 * Offers
-    
     * [Sales, deals and offers](https://www.westjet.com/en-ca/deals)
     * [Vacation Package offers](https://www.westjet.com/en-ca/vacations/offers)
     * [WestJet Rewards offers](https://www.westjet.com/en-ca/rewards/offers)
-    
 * Manage trips
     * [Manage flights](https://www.westjet.com/en-ca/manage)
     * [Manage vacation packages](https://www.westjet.com/en-ca/manage/vacations)
@@ -84,8 +78,6 @@ Check back later
     * [Frequently asked questions](https://www.westjet.com/en-ca/help)
     * [Travel Advisories](https://www.westjet.com/en-ca/get-travel-ready/advisories)
     * [Contact us](https://www.westjet.com/en-ca/contact)
-* Search
-    
 
 1. [Back to Home
     
@@ -498,6 +490,76 @@ Legal, restrictions and terms and conditions
 
 1 Including but not limited to WestJet Encore Ltd., WestJet Vacations Inc., WestJet Loyalty Holding LP and WestJet Loyalty LP.
 
+Download the app today Get your own copy of the WestJet app, and enhance your next travel experience.
+
+[![Download on the App Store](/content/dam/westjet/images/branded/app/apple-app-download-en.svg)](https://apps.apple.com/ca/app/westjet/id858846387)
+
+[![Download on Google Play](/content/dam/westjet/images/branded/app/android-app-download-en.svg)](https://play.google.com/store/apps/details?id=com.westjet&referrer=utm_campaign=App%20Product%20Page&trackingcode=WSAPP&utm_source=Hero%20CTA&utm_medium=Internal)
+
+Booking Options
+---------------
+
+* [Hold the fare](https://www.westjet.com/en-ca/flights/payment/hold-fare)
+* [Book with a companion voucher](https://www.westjet.com/en-ca/flights?=iscompanionvouchertrue)
+* [Book with WestJet Dollars](https://www.westjet.com/en-ca/flights?=iswestjetdollarstrue)
+* [Fares, taxes and fees](https://www.westjet.com/en-ca/flights/fares)
+* [Car Rental](https://autos.westjet.com/)﻿
+* [Destinations](https://www.westjet.com/en-ca/destinations)
+* [Featured vacation packages](https://www.westjet.com/en-ca/vacations/featured)
+* [Groups and conventions](https://www.westjet.com/en-ca/flights/groups)
+* [Direct Flights](https://www.westjet.com/en-ca/flights/direct-flights)﻿
+
+Before you go
+-------------
+
+* [Baggage allowance](https://www.westjet.com/en-ca/baggage)
+* [Seat selection](https://www.westjet.com/en-ca/manage/seats)
+* [Children and family](https://www.westjet.com/en-ca/children)
+* [Pets](https://www.westjet.com/en-ca/pets)
+* [Travel documents](https://www.westjet.com/en-ca/get-travel-ready/id-requirements)
+* [Travel insurance](https://www.westjet.com/en-ca/extras/travel-insurance)
+* [Get travel ready](https://www.westjet.com/en-ca/get-travel-ready)
+* [Lounges](https://www.westjet.com/en-ca/airport/lounges)
+* [Special needs](https://www.westjet.com/en-ca/special-needs)
+
+In the air
+----------
+
+* [Food and beverage](https://www.westjet.com/en-ca/inflight/food-and-beverages)
+* [Entertainment](https://www.westjet.com/en-ca/inflight/entertainment)
+* [Our aircraft](https://www.westjet.com/en-ca/aircraft)
+* [Inflight experience](https://www.westjet.com/en-ca/inflight)
+
+Help
+----
+
+* [Lost luggage](https://www.westjet.com/en-ca/baggage/lost-delayed-damaged)
+* [Great jobs](https://www.westjet.com/en-ca/careers)
+* [FAQs](https://www.westjet.com/en-ca/help)
+* [Travel Agents](https://www.westjettravelagents.com/)﻿
+* [Flight interruptions and passenger rights](https://www.westjet.com/en-ca/interruptions)
+* [About us](https://www.westjet.com/en-ca/who-we-are)
+
+Legal
+=====
+
+* [Privacy Policy](https://www.westjet.com/en-ca/legal/privacy-policy)
+* [Legal](https://www.westjet.com/en-ca/legal/)
+
+English
+
+[](https://www.westjet.com/en-ag/legal/privacy-policy.html)[](https://www.westjet.com/en-aw/legal/privacy-policy.html)[](https://www.westjet.com/en-bb/legal/privacy-policy.html)[](https://www.westjet.com/en-bm/legal/privacy-policy.html)[](https://www.westjet.com/en-bq.html)[](https://www.westjet.com/en-bs/legal/privacy-policy.html)[](https://www.westjet.com/en-bz/legal/privacy-policy.html)[](https://www.westjet.com/en-ca/legal/privacy-policy.html)[](https://www.westjet.com/fr-ca/legal/politique-confidentialite.html)[](https://www.westjet.com/en-cr/legal/privacy-policy.html)[](https://www.westjet.com/en-cu/legal/privacy-policy.html)[](https://www.westjet.com/en-cw/legal/privacy-policy.html)[](https://www.westjet.com/en-do/legal/privacy-policy.html)[](https://www.westjet.com/en-es/legal/privacy-policy.html)[](https://www.westjet.com/es-es.html)[](https://www.westjet.com/en-fr/legal/privacy-policy.html)[](https://www.westjet.com/fr-fr/legal/politique-confidentialite.html)[](https://www.westjet.com/en-gb/legal/privacy-policy.html)[](https://www.westjet.com/en-gd/legal/privacy-policy.html)[](https://www.westjet.com/en-ie/legal/privacy-policy.html)[](https://www.westjet.com/en-is/legal/privacy-policy.html)[](https://www.westjet.com/en-it/legal/privacy-policy.html)[](https://www.westjet.com/en-jm/legal/privacy-policy.html)[](https://www.westjet.com/en-jp/legal/privacy-policy.html)[](https://www.westjet.com/en-kr/legal/privacy-policy.html)[](https://www.westjet.com/en-ky/legal/privacy-policy.html)[](https://www.westjet.com/en-lc/legal/privacy-policy.html)[](https://www.westjet.com/en-mx/legal/privacy-policy.html)[](https://www.westjet.com/es-mx.html)[](https://www.westjet.com/en-pr/legal/privacy-policy.html)[](https://www.westjet.com/en-sx/legal/privacy-policy.html)[](https://www.westjet.com/en-tc/legal/privacy-policy.html)[](https://www.westjet.com/en-tt/legal/privacy-policy.html)[](https://www.westjet.com/en-us/legal/privacy-policy.html)[](https://www.westjet.com/es-us.html)
+
+Antigua Aruba Barbados Bermuda Bonaire Bahamas Belize Canada Costa Rica Cuba Curacao Dominican Republic Spain France United Kingdom Grenada Ireland Iceland Italy Jamaica Japan South Korea Cayman Islands St. Lucia Mexico Puerto Rico St. Martin Turks and Caicos Trinidad and Tobago United States
+
+English Français
+
+We'll redirect you to the home page of the country/region site you choose.
+
+[Update](#)
+
+[Contact us](https://www.westjet.com/en-ca/contact)
+
 Legal, restrictions and terms and conditions
 
 Close
@@ -520,118 +582,11 @@ Flight prices: terms and conditions
 * Flights may not operate on certain days.
 * All fares shown are one-way.
 
-English
-
-[](https://www.westjet.com/en-ag/legal/privacy-policy.html)[](https://www.westjet.com/en-aw/legal/privacy-policy.html)[](https://www.westjet.com/en-bb/legal/privacy-policy.html)[](https://www.westjet.com/en-bm/legal/privacy-policy.html)[](https://www.westjet.com/en-bq.html)[](https://www.westjet.com/en-bs/legal/privacy-policy.html)[](https://www.westjet.com/en-bz/legal/privacy-policy.html)[](https://www.westjet.com/en-ca/legal/privacy-policy.html)[](https://www.westjet.com/fr-ca/legal/politique-confidentialite.html)[](https://www.westjet.com/en-cr/legal/privacy-policy.html)[](https://www.westjet.com/en-cu/legal/privacy-policy.html)[](https://www.westjet.com/en-cw/legal/privacy-policy.html)[](https://www.westjet.com/en-do/legal/privacy-policy.html)[](https://www.westjet.com/en-es/legal/privacy-policy.html)[](https://www.westjet.com/es-es.html)[](https://www.westjet.com/en-fr/legal/privacy-policy.html)[](https://www.westjet.com/fr-fr/legal/politique-confidentialite.html)[](https://www.westjet.com/en-gb/legal/privacy-policy.html)[](https://www.westjet.com/en-gd/legal/privacy-policy.html)[](https://www.westjet.com/en-ie/legal/privacy-policy.html)[](https://www.westjet.com/en-is/legal/privacy-policy.html)[](https://www.westjet.com/en-it/legal/privacy-policy.html)[](https://www.westjet.com/en-jm/legal/privacy-policy.html)[](https://www.westjet.com/en-jp/legal/privacy-policy.html)[](https://www.westjet.com/en-kr/legal/privacy-policy.html)[](https://www.westjet.com/en-ky/legal/privacy-policy.html)[](https://www.westjet.com/en-lc/legal/privacy-policy.html)[](https://www.westjet.com/en-mx/legal/privacy-policy.html)[](https://www.westjet.com/es-mx.html)[](https://www.westjet.com/en-pr/legal/privacy-policy.html)[](https://www.westjet.com/en-sx/legal/privacy-policy.html)[](https://www.westjet.com/en-tc/legal/privacy-policy.html)[](https://www.westjet.com/en-tt/legal/privacy-policy.html)[](https://www.westjet.com/en-us/legal/privacy-policy.html)[](https://www.westjet.com/es-us.html)
-
-Antigua Aruba Barbados Bermuda Bonaire Bahamas Belize Canada Costa Rica Cuba Curacao Dominican Republic Spain France United Kingdom Grenada Ireland Iceland Italy Jamaica Japan South Korea Cayman Islands St. Lucia Mexico Puerto Rico St. Martin Turks and Caicos Trinidad and Tobago United States
-
-English Français
-
-We'll redirect you to the home page of the country/region site you choose.
-
-[Update](#)
-
-[Contact us](https://www.westjet.com/en-ca/contact)
-
 * [](https://twitter.com/westjet)
 * [](http://instagram.com/westjet)
 * [](https://www.facebook.com/westjet/)
 * [](https://www.linkedin.com/company/westjet)
 * [](http://youtube.com/westjet)
 * [](https://www.tiktok.com/@MS4wLjABAAAAe40vZfb-6oN0KdsGwMKtVl7qyE7KVBiL0cWU0x6PXI83JgsuloTNosZNmklLovEj)
-
-Booking Options
----------------
-
-* [Business travel](https://www.westjet.com/en-ca/flights/business)
-* [Groups and conventions](https://www.westjet.com/en-ca/flights/groups)
-* [Direct flights](https://www.westjet.com/en-ca/book-trip/direct-flights/index)
-* [Hold the fare](https://www.westjet.com/en-ca/flights/payment/hold-fare)
-* [Book with a companion voucher](https://www.westjet.com/en-ca/help/how-to-book-companion-voucher)
-* [Book with WestJet dollars](https://www.westjet.com/en-ca/flights?iswestjetdollars=true)
-* [Fares, taxes and fees](https://www.westjet.com/en-ca/flights/fares)
-* [Car rental](https://autos.westjet.com/en/?clientID=443464#/searchcars)﻿
-* [Destinations](https://www.westjet.com/en-ca/destinations)
-
-Before you go
--------------
-
-* [Baggage allowance](https://www.westjet.com/en-ca/baggage)
-* [Seat selection](https://www.westjet.com/en-ca/manage/seats)
-* [Children and family](https://www.westjet.com/en-ca/children)
-* [Pets](https://www.westjet.com/en-ca/pets)
-* [Travelling with health concerns](https://www.westjet.com/en-ca/health)
-* [Special needs](https://www.westjet.com/en-ca/special-needs)
-* [Travel documents](https://www.westjet.com/en-ca/prepare/id-requirements)
-* [Travel insurance](https://www.westjet.com/en-ca/extras/travel-insurance)
-* [Download/update the app](https://www.westjet.com/en-ca/manage/mobile-app)
-* [Get travel ready](https://www.westjet.com/en-ca/get-travel-ready)
-
-At the airport
---------------
-
-* [Lounges](https://www.westjet.com/en-ca/airport/lounges)
-* [Priority services](https://www.westjet.com/en-ca/airport/priority-services)
-* [Priority security](https://www.westjet.com/en-ca/airport/security-screening)
-* [Parking](https://www.westjet.com/en-ca/airport/parking-deals)
-
-In the air
-----------
-
-* [Food and beverage](https://www.westjet.com/en-ca/inflight/food-and-beverages)
-* [Entertainment](https://www.westjet.com/en-ca/inflight/entertainment)
-* [Our aircraft](https://www.westjet.com/en-ca/aircraft)
-* [Cabins](https://www.westjet.com/en-ca/inflight)
-
-At your destination
--------------------
-
-* [Lost and found](https://www.chargerback.com/reportlostitemcbembed.asp?customerid=16885&languagecode=en-US)﻿
-* [Lost luggage](https://www.westjet.com/en-ca/baggage/lost-delayed-damaged)
-
-![WestJet Safety Above All](/content/dam/westjet/images/branded/campaigns/safety/Safety-above-all-Shield-2x.png) [Get travel ready](https://www.westjet.com/en-ca/get-travel-ready)
-
-![Icon of the WestJet app](/content/dam/westjet/images/graphics/logos/180710-sidekick-appicon.png) [WestJet App](https://www.westjet.com/en-ca/about-us/mobile-app/index)
-
-About WestJet
--------------
-
-* [About us](https://www.westjet.com/en-ca/who-we-are)
-* [History](https://www.westjet.com/en-ca/who-we-are/history)
-* [Sponsorship](https://www.westjet.com/en-ca/contact/requests/sponsorship)
-* [Community Investment](https://www.westjet.com/en-ca/who-we-are/cares)
-* [Gift cards](https://www.westjet.com/en-ca/extras/gift-card)
-* [Great careers](https://www.westjet.com/en-ca/careers)
-* [Our airline partners](https://www.westjet.com/en-ca/who-we-are/airline-partners)
-* [WestJet RBC® credit cards](https://www.westjet.com/en-ca/rewards/credit-cards)
-* [FAQs](https://www.westjet.com/en-ca/help)
-* [Media and news](https://www.westjet.com/en-ca/news)
-
-Westjet vacations
------------------
-
-* [Featured vacation packages](https://www.westjet.com/en-ca/vacations/featured)
-* [Family vacation packages](https://www.westjet.com/en-ca/vacations/family-vacation-packages)
-* [Why WestJet Vacations?](https://www.westjet.com/en-ca/contact-us/faqs/vacations)
-* [Travelling from Quebec?](https://vacanceswestjetquebec.com/en?utm_source=referral&utm_medium=web&utm_campaign=westjetreferral&utm_content=footer)
-
-Services
---------
-
-* [WestJet Biz](https://westjetbiz.westjet.com/login.html)
-* [WestJet Cargo](https://www.westjet.com/en-ca/cargo)
-* [Travel agents](https://www.westjettravelagents.com/)﻿
-* [Accessibility](https://www.westjet.com/en-ca/special-needs)
-
-Legal
------
-
-* [Tariffs and conditions of carriage](https://www.westjet.com/en-ca/legal/tariffs)
-* [Privacy policy](https://www.westjet.com/en-ca/legal/privacy-policy)
-* [Flight interruptions and passenger rights](https://www.westjet.com/en-ca/interruptions)
-* [US flight and service disruptions](https://www.westjet.com/en-ca/interruptions/us-service-plan)
-* [Modern slavery statement](https://www.westjet.com/content/dam/westjet/documents/en/WestJet-modern-slavery-report-31052024.pdf)
-* [Legal](https://www.westjet.com/en-ca/legal)
 
 © WestJet. All rights reserved. {external-icon} Indicates external site which may or may not meet accessibility guidelines and/or be translated.
