@@ -44,35 +44,35 @@ If you are interested in turning on your browser’s privacy and Do Not Track se
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐️ EARN $500 INSTANTLY 5W](https://pastebin.com/3pp3pa4X)
+* [⭐️ EARN $500 INSTANTLY 5W](https://pastebin.com/CG4rkiQh)
     
     JavaScript | 4 sec ago | 0.18 KB
     
-* [Amazon Gift cards LEAKED](https://pastebin.com/KDJ9EJuf)
+* [⭐ get any gift card for RD](https://pastebin.com/k7Ym9L7K)
     
-    JavaScript | 8 sec ago | 0.09 KB
+    JavaScript | 6 sec ago | 0.18 KB
     
-* [⭐ giftcards for free](https://pastebin.com/NWsHJw3s)
+* [⭐ Binance Account hack L3](https://pastebin.com/VyYVAxCF)
     
-    JavaScript | 10 sec ago | 0.05 KB
+    JavaScript | 7 sec ago | 0.18 KB
     
-* [⭐️ EARN $500 INSTANTLY⭐ I3](https://pastebin.com/nHffEdcB)
+* [⭐ FREE giftcards method⭐ JL](https://pastebin.com/ZU6wF2fv)
     
-    JavaScript | 10 sec ago | 0.18 KB
+    JavaScript | 11 sec ago | 0.18 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/AS1nSbNb)
+* [⭐ get any gift card for FREE](https://pastebin.com/mSvG4i52)
     
-    JavaScript | 12 sec ago | 0.05 KB
+    JavaScript | 16 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/VEXMJ0tw)
+* [⭐ giftcards for free](https://pastebin.com/cjU0W67i)
     
-    JavaScript | 15 sec ago | 0.05 KB
+    JavaScript | 18 sec ago | 0.05 KB
     
-* [⭐ FREE giftcards method JM](https://pastebin.com/3N5kUeKj)
+* [⭐ FREE giftcards method](https://pastebin.com/bQYN1VF2)
     
-    JavaScript | 19 sec ago | 0.18 KB
+    JavaScript | 19 sec ago | 0.05 KB
     
-* [⭐ FREE giftcards method⭐ RK](https://pastebin.com/1DzZj9GB)
+* [⭐ FREE giftcards method JM](https://pastebin.com/pf2QfL2c)
     
     JavaScript | 20 sec ago | 0.18 KB
     
