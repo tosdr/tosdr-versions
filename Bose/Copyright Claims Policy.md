@@ -22,16 +22,16 @@ Back
     
     Back
     
-    [![](https://assets.bosecreative.com/m/5dce4046dc495b97/webimage-SF_NavFlyout_Holiday_Bonus-Card_Mobile.png)
+    [![](https://assets.bosecreative.com/m/33e5229206617c17/webimage-SF_NAV-Flyout_Holiday_Gifting1_Cross-Cat_Mobile.png)
     
-    ### Shop more. Get more.](https://www.bose.com/c/holiday-sale "Shop")
+    ### Early Black Friday Deals](https://www.bose.com/c/holiday-sale "Shop")
     
      
     
-    Shop more. Get more.
-    --------------------
+    Early Black Friday Deals
+    ------------------------
     
-    My Bose Members, get a Holiday Bonus Card for future orders with every purchase above $100.
+    Don’t wait! Own the gift game with up to 40% off bestsellers.
     
     [Shop](https://www.bose.com/c/holiday-sale "Shop")
     
@@ -190,11 +190,11 @@ Back
 * [Contact Us](https://support.bose.com/s/get-help-landing-page?language=en_US)
 * [Where Is My Order?](https://www.bose.com/orders)
 
-[![](https://assets.bosecreative.com/m/5dce4046dc495b97/webimage-SF_NavFlyout_Holiday_Bonus-Card_Mobile.png)
+[![](https://assets.bosecreative.com/m/33e5229206617c17/webimage-SF_NAV-Flyout_Holiday_Gifting1_Cross-Cat_Mobile.png)
 
-### Shop more. Get more.](https://www.bose.com/c/holiday-sale "Shop")
+### Early Black Friday Deals](https://www.bose.com/c/holiday-sale "Shop")
 
-[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dw49e547e9/images/logo.svg)](https://www.bose.com/home "Bose Home")
+[![Bose](/on/demandware.static/Sites-Bose_US-Site/-/default/dwaf0ae0f9/images/logo.svg)](https://www.bose.com/home "Bose Home")
 
 [](https://www.bose.com/login?oauthProvider=Azure-AD-B2C "Sign In/Join my Bose")[](https://www.bose.com/wishlist "Wish list")
 
