@@ -810,6 +810,7 @@ Guides
 * [VWO Partners](https://vwo.com/partners/)
 * [Affiliate Program](https://vwo.com/partners/affiliate/)
 * [Contact Us](https://vwo.com/contact-us/)
+* [Newsroom](https://vwo.com/news/)
 
 [![vwo gdpr ready badge](https://static.wingify.com/gcp/wp-content/themes/vwo/images/new-website/gdpr-compliant.svg)](https://vwo.com/compliance/gdpr/)
 
