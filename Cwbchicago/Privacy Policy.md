@@ -243,6 +243,26 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Garland-andrew-326x245.jpeg)](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
+
+Loop
+
+### [Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
+
+[November 15, 2024 5:43 PM](https://cwbchicago.com/2024/11)
+
+The man who robbed a Loop bank on Thursday afternoon unwittingly grabbed a GPS tracker when he snatched money from a teller’s drawer, an error that would lead to his arrest less than an hour later.[](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Williamomo-Peray-326x245.jpg)](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
+
+Lincoln Square
+
+### [18 years for robbing 7 businesses while on parole for robbing 6 businesses](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
+
+[November 15, 2024 11:12 AM](https://cwbchicago.com/2024/11)
+
+A man has been given an 18-year sentence for robbing seven North Side businesses last year while he was on parole for an 18-year sentence he received for six robberies in 2014.[](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Amarion-Pope-326x245.jpg)](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
 
 West Garfield Park
@@ -252,26 +272,6 @@ West Garfield Park
 [November 15, 2024 8:48 AM](https://cwbchicago.com/2024/11)
 
 Prosecutors have charged a man with carjacking a driver at gunpoint while on adult parole, juvenile parole, and pretrial release for a felony.[](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
-
-[![](https://cwbchicago.com/wp-content/uploads/2021/10/Gary-Coleman-and-Cermak-Green-Line-326x245.jpeg)](https://cwbchicago.com/2024/11/man-gets-10-years-for-pushing-66-year-old-tourist-onto-l-tracks.html "Man gets 10 years for pushing 66-year-old tourist onto L tracks")
-
-CTA
-
-### [Man gets 10 years for pushing 66-year-old tourist onto L tracks](https://cwbchicago.com/2024/11/man-gets-10-years-for-pushing-66-year-old-tourist-onto-l-tracks.html "Man gets 10 years for pushing 66-year-old tourist onto L tracks")
-
-[November 14, 2024 5:54 PM](https://cwbchicago.com/2024/11)
-
-One day after getting out of jail for knocking a woman unconscious in the Loop last year, Gary Coleman pushed a tourist off the Cermak-McCormick Place Green Line platform, leaving her badly injured. Coleman on Thursday received a ten-year sentence for the CTA attack.[](https://cwbchicago.com/2024/11/man-gets-10-years-for-pushing-66-year-old-tourist-onto-l-tracks.html "Man gets 10 years for pushing 66-year-old tourist onto L tracks")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Daniel-Fair-copa-326x245.jpg)](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
-
-Citywide
-
-### [Cop found not guilty of improperly seizing, inventorying guns while on patrol](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
-
-[November 14, 2024 4:46 PM](https://cwbchicago.com/2024/11)
-
-Cook County judge on Thursday found a Chicago cop accused of improperly seizing and inventorying firearms while on patrol not guilty of all charges. It’s the latest blow for prosecutors who have struggled to win criminal convictions against Chicago cops.[](https://cwbchicago.com/2024/11/cop-found-not-guilty-of-improperly-seizing-inventorying-guns-while-on-patrol.html "Cop found not guilty of improperly seizing, inventorying guns while on patrol")
 
 Search
 
