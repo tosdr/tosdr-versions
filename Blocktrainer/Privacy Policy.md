@@ -593,7 +593,7 @@ Kopieren
 
 [](#)
 
-[![21energy – ASICs, Heater & mehr!](/fileadmin/_processed_/a/3/csm_Frame_21_fb754bb5fd.png)](https://ref.blocktrainer.de/21energy/ws/anbieter)
+[![BitBox Swiss](/fileadmin/_processed_/2/a/csm_blocktrainervertikal_7f33fe5e4a.jpg)](https://ref.blocktrainer.de/bitbox/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
