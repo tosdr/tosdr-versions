@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Integrity
+
+### A vote that straddles Sri Lanka’s divides](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1118/A-vote-that-straddles-Sri-Lanka-s-divides "A vote that straddles Sri Lanka’s divides")
+
 [Joy
 
 ### A graceful renewal of Notre-Dame Cathedral](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1115/A-graceful-renewal-of-Notre-Dame-Cathedral "A graceful renewal of Notre-Dame Cathedral")
@@ -99,10 +103,6 @@ Recent Stories
 [Safety
 
 ### When Hezbollah rockets are incoming, and you can’t reach the shelter](https://www.csmonitor.com/World/Middle-East/2024/1115/hezbollah-rockets-terrorize-northern-israel-towns "When Hezbollah rockets are incoming, and you can’t reach the shelter")
-
-[Resilience
-
-### Women in construction find solidarity as ‘sisters in the brotherhood’](https://www.csmonitor.com/USA/Society/2024/1115/women-construction-trade-unions-gender-pay-gap "Women in construction find solidarity as ‘sisters in the brotherhood’")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Senegal votes as leaders work to cement majority, push reforms](https://www.csmonitor.com/World/Africa/2024/1117/Senegal-votes-as-leaders-work-to-cement-majority-push-reforms "Senegal votes as leaders work to cement majority, push reforms")
+[### Trump takes office in January. Here’s how Biden is spending his final days as president.](https://www.csmonitor.com/USA/2024/1118/biden-trump-clean-energy-student-loan-ukraine-judges "Trump takes office in January. Here’s how Biden is spending his final days as president.")
 
-[### When Hezbollah rockets are incoming, and you can’t reach the shelter](https://www.csmonitor.com/World/Middle-East/2024/1115/hezbollah-rockets-terrorize-northern-israel-towns "When Hezbollah rockets are incoming, and you can’t reach the shelter")
+[### Ukraine has been waiting to strike deep into Russia. Is Biden’s approval too late?](https://www.csmonitor.com/World/Europe/2024/1118/Russia-Ukraine-War-Trump-Putin-Biden-Missiles "Ukraine has been waiting to strike deep into Russia. Is Biden’s approval too late?")
 
-[### Trump prepares for ‘economic warfare’ with China](https://www.csmonitor.com/World/2024/1115/trump-tariffs-china-us-trade-war-deficit "Trump prepares for ‘economic warfare’ with China")
+[### Spirit Airlines files for bankruptcy as it struggles to recover from pandemic losses](https://www.csmonitor.com/USA/2024/1118/Spirit-Airlines-bankrupt-debt-COVID-19-pandemic "Spirit Airlines files for bankruptcy as it struggles to recover from pandemic losses")
 
 * * *
 
