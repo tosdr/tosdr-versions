@@ -253,23 +253,23 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Yen weakens after Ueda’s caution on BOJ rate hike hints](https://www.japantimes.co.jp/business/2024/11/18/economy/boj-ueda-speech-rate-hike/ "Yen weakens after Ueda’s caution on BOJ rate hike hints")
+[Japan to test anti-drone laser system next year](https://www.japantimes.co.jp/news/2024/11/18/japan/japan-antidrone-laser-system/ "Japan to test anti-drone laser system next year")
 
-14 mins ago
+10 mins ago
 
-[Japanese companies increasingly targeted in foreign M&A bids](https://www.japantimes.co.jp/business/2024/11/18/economy/foreign-companies-acquisition-japan/ "Japanese companies increasingly targeted in foreign M&A bids")
+[Indefinite prison term sought for murder of 'Don Juan of Kishu'](https://www.japantimes.co.jp/news/2024/11/18/japan/crime-legal/don-juan-indefinite-prison-request/ "Indefinite prison term sought for murder of 'Don Juan of Kishu'")
 
-17 mins ago
+1 hours ago
 
-[Saudi Arabia executes more than 100 foreigners in 2024](https://www.japantimes.co.jp/news/2024/11/18/world/crime-legal/saudi-executes-100-foreigners-2024/ "Saudi Arabia executes more than 100 foreigners in 2024")
+[Ministry ramps up support for prisoners with mental disabilities in Japan](https://www.japantimes.co.jp/news/2024/11/18/japan/crime-legal/support-prisoners-mental-disabilities/ "Ministry ramps up support for prisoners with mental disabilities in Japan")
 
-38 mins ago
+1 hours ago
 
-[Japan's machinery orders see unexpected fall in September](https://www.japantimes.co.jp/business/2024/11/18/economy/september-machinery-orders-fall/ "Japan's machinery orders see unexpected fall in September")
+[Four candidates vie for leadership of Nippon Ishin no Kai](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/nippon-ishin-leadership-race/ "Four candidates vie for leadership of Nippon Ishin no Kai")
 
-59 mins ago
+1 hours ago
 
-[In his home prefecture of Fukushima, actor Toshiyuki Nishida lives on](https://www.japantimes.co.jp/news/2024/11/18/japan/society/toshiyuki-nishida-fukushima/ "In his home prefecture of Fukushima, actor Toshiyuki Nishida lives on")
+[F-35A deployment at Misawa base to start in spring 2026](https://www.japantimes.co.jp/news/2024/11/18/japan/f35-a-fighter-jet-deployment-misawa-base/ "F-35A deployment at Misawa base to start in spring 2026")
 
 1 hours ago
 
