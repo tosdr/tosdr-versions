@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [But taxes (3)](https://forum.nationstates.net/viewtopic.php?t=558472&f=9&view=unread#unread ""But taxes" (3 posts)")
-* [2023-24 Israel-Iran proxy conflict (1,922)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,922 posts)")
-* [The LGBT+ Thread: Rainbow Connections (3,269)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (3,269 posts)")
-* [Based on the flag, what language(s) d… (11,957)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,957 posts)")
-* [Stereotypes of AN? (68)](https://forum.nationstates.net/viewtopic.php?t=558227&f=25&view=unread#unread ""Stereotypes of AN?" (68 posts)")
+* [Would You Rather Chill with AU or AAU? (320)](https://forum.nationstates.net/viewtopic.php?t=556519&f=25&view=unread#unread ""Would You Rather Chill with AU or AAU?" (320 posts)")
+* [NS Parliament Chamber \[IC\] (103)](https://forum.nationstates.net/viewtopic.php?t=556391&f=31&view=unread#unread ""NS Parliament Chamber [IC]" (103 posts)")
+* [Commend or Condemn AN II (2,188)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,188 posts)")
+* [Guess Who BN Is! (7,309)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (7,309 posts)")
+* [American Politics: Turnabout Trump (5,211)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (5,211 posts)")
 
 Advertisement
 
