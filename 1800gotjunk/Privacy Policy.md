@@ -613,6 +613,14 @@ Zaki Aslam Calgary 06/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
+
+Karen Hanson Calgary 05/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Fast friendly arrived on time Could not have asked for A better experience
 
 Ralph Gubler Calgary 05/11/2024
@@ -632,14 +640,6 @@ Ilse Calgary 05/11/2024
 The guys were very polite, and super efficient. I will totally use them again! Great job. And thank you.
 
 Diana Ruff Calgary 05/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
-
-Karen Hanson Calgary 05/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -885,145 +885,145 @@ henri cadieux Monteregie Metro 05/04/2023
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Steven and Daren were great. Prompt, quick, and friendly. Thanks guys!
+Ronnie & Marcel
 
-J Johnston Madison 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Chris and Will all star crew, here for 10min and out!
-
-Ricky Lovett Wisconsin 09/11/2024
+Lisa Jenness Seattle 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-They were awesome!!! Super helpful and efficient! Friendly guys!
+Great guys, bo and Jon were awesome!
 
-Meagan J Madison 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kd and drew were very polite, fast and efficient very pleased with the job they did and would hire again thank you for your service
-
-Rochelle Wisconsin 09/11/2024
+Donald Sarvis Seattle 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Zack K. and Lucus were great. They took care of everything we needed!
+Great customer service from Bobby and Louis! Fast and friendly.
 
-Bob Saffin Cincinnati 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Derek and Deronta did a fabulous job clearing our items from my father’s house. They were done inside of 30 minutes.
-
-Shawn Newkirk Seattle 09/11/2024
+Kati Harrell Austin 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Keith and Caleb were awesome!
+We had an awesome experience with the team that visited us today to remove our old furniture. Thank you!
 
-Ben Hardin Wisconsin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Darontay and Derrick J. did an amazing job. Showed up right on time and cleared out everything that I wanted gone.
-
-Tim Leber Seattle 09/11/2024
+Melissa Straw Madison 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Don and Isaiah were amazing! They helped me so much and offered to go above and beyond.
+Ben and AJ thank you! Great customer service!
 
-Laura Feijo Austin 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Terrell and Mason were awesome!
-
-philip jims Austin 09/11/2024
+April McElroy Austin 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Patrick and Gio did a great job today
+Very professional! They explained everything patiently. They were very personable.
 
-sarah thelen Naples 09/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Tia and Kegan were great at getting us situated and moved to another storage unit.
-
-Neil Raisanen Naples 08/11/2024
+No\_BiGGy LA Metro 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Tia and Kegan were great at helping us clean some clutter from the office. Thank you 1800gotjunk
+Darren and Noah are great! Super nice and easy to work with :)
 
-Brandon Mace Naples 08/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Antonio & Chris were courtious quick and awesome. Thank you
-
-Amie Sommer Cincinnati 08/11/2024
+Beth Baker Madison 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Ronnie & Marci did an awesome job. They called me ahead time and set a time to show up. Once onsite, they were quick and super courteous!
+Samuel and Keith were absolute all stars hauling all my junk away. Will definitely be using this service again!
 
-Christi Flynn Seattle 08/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Ronny and Marcy
-
-Abhishek Ray Seattle 08/11/2024
+Becca Cihlar Wisconsin 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-JASON AND DANIEL
+Max and will did a super great job
 
-Lucien Cox LA Metro 08/11/2024
+Jacob Nielsen Wisconsin 16/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-TC and Nick are great!!!
+Bo and Jon perfect service
 
-Sergio Perez Austin 08/11/2024
+Bruce Mumm Seattle 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Don and Deon were amazing! Unfortunately out of budget but customer service was excellent!
+
+Empire Beauty Austin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+They were awesome. John, Sam and Brayan
+
+Kris Saudek Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great service from Dom and David. Arrived on time and with great communication!!!!
+
+Chad McCall Austin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great job by Samuel and Will!
+
+Erica Zacher Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+I needed a couch removed. John and Brian were quick, efficient, and polite. The price was reasonable. Thank you!
+
+Julian Lacera Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Kevin and Dave were awesome definitely recommend them! Super easy and professional
+
+Jason Kim Seattle 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+This crew is great as usual
+
+John Brigham Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Easy pickup and great working with Bo and John!
+
+Corey Cope Seattle 15/11/2024
 
 ### 
 
