@@ -11,7 +11,7 @@ français / FRENCH
 
 AUSTRALIA
 
-Last updated March 24, 2023 – Version 3.7
+Last updated November 5, 2024 – Version 3.9
 
 PLEASE READ THESE TERMS OF USE CAREFULLY. THIS IS A LEGALLY BINDING AGREEMENT. YOU MAY ACCEPT THESE TERMS BY:
 
@@ -23,7 +23,7 @@ These terms of use (the “Terms of Use” or “Agreement”) govern your acces
 
 Subsplash reserves the right to change or modify any of the terms and conditions contained in these Terms of Use, the Terms of Service, or any policy or guideline, at any time and in its sole discretion.  Any changes or modification will be effective immediately upon posting of the revisions on the Subsplash’s websites or Services. Your continued use of the Services following the posting of its changes or modifications will constitute your acceptance of such changes or modifications. Therefore, you should frequently review these Terms of Use and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Services.  If you do not agree to the amended terms, you must stop using the Services.  You warrant and attest that you are at least thirteen (13) years of age, and, if you are below the legal age to form a binding contract within your jurisdiction, have permission from your parent or guardian to use our Services.
 
-All other questions or comments about the Services should be directed to legal@subsplash.com.
+All other questions or comments about the Services should be directed to support@subsplash.com.
 
 ### 1\. PRIVACY POLICY AND FEEDBACK
 
@@ -141,7 +141,7 @@ Copyright Agent
 
 Address: 5473 Blair Rd Ste 100, PMB 41141, Dallas, Texas 75231
 
-Email: legal@subsplash.com
+Email: copyrightagent@subsplash.com
 
 ### 10\. TRADEMARKS
 
