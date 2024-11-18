@@ -50,7 +50,7 @@ Country selection[to cart](https://breastfeedingsupply.com/)
 
 [Manual](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/manual) [Harmony™ manual breast pump](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/manual/harmony-manual-breast-pump "Harmony™ manual breast pump") [Silicone breast milk collector](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/manual/silicone-breast-milk-collector "Silicone breast milk collector")
 
-[Symphony - No 1 Hospital Pump](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets) [Symphony PLUS® breast pump](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-plus-breast-pump "Symphony PLUS® breast pump") [PersonalFit™ PLUS breast shield](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/personalfit-plus-breast-shield "PersonalFit™ PLUS breast shield") [Symphony® breast milk initiation kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-milk-initiation-kit "Symphony® breast milk initiation kit") [Symphony® breast milk initiation kit with silicone tubing](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-milk-initiation-kit-with-silicone-tubing "Symphony® breast milk initiation kit with silicone tubing") [Symphony Single Pumping Kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-single-pumping-kit "Symphony Single Pumping Kit") [Pediatric Breast Pump Kit with Harmony](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/pediatric-breast-pump-kit-with-harmony "Pediatric Breast Pump Kit with Harmony") [Symphony / Harmony® Breast Milk Initiation Kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-harmony-breast-milk-initiation-kit "Symphony / Harmony® Breast Milk Initiation Kit") [Symphony® Breast Pump Kit with Colostrum Protector](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-pump-kit-with-colostrum-protector "Symphony® Breast Pump Kit with Colostrum Protector ") [Breast Pump Kit with Harmony & 80mL Container](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/breast-pump-kit-with-harmony-and-80ml-container "Breast Pump Kit with Harmony & 80mL Container")
+[Symphony - No 1 Hospital Pump](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets) [Symphony PLUS® breast pump](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-plus-breast-pump "Symphony PLUS® breast pump") [PersonalFit™ PLUS breast shield](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/personalfit-plus-breast-shield "PersonalFit™ PLUS breast shield") [Symphony® breast milk initiation kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-milk-initiation-kit "Symphony® breast milk initiation kit") [Symphony® breast milk initiation kit with silicone tubing](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-milk-initiation-kit-with-silicone-tubing "Symphony® breast milk initiation kit with silicone tubing") [Symphony Single Pumping Kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-single-pumping-kit "Symphony Single Pumping Kit") [Pediatric Breast Pump Kit with Harmony](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/pediatric-breast-pump-kit-with-harmony "Pediatric Breast Pump Kit with Harmony") [Symphony / Harmony® Breast Milk Initiation Kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-harmony-breast-milk-initiation-kit "Symphony / Harmony® Breast Milk Initiation Kit") [Symphony® Breast Pump Kit with Colostrum Protector](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-pump-kit-with-colostrum-protector "Symphony® Breast Pump Kit with Colostrum Protector ") [Breast Pump Kit with Harmony & 80mL Container](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/breast-pump-kit-with-harmony-80ml-container "Breast Pump Kit with Harmony & 80mL Container")
 
 [Connectors](https://www.medela.us/en-us/breastfeeding-pumping/products/extra-pump-parts/connectors) [PersonalFit Flex™ connector](https://www.medela.us/en-us/breastfeeding-pumping/products/extra-pump-parts/connectors/personalfit-flex-connector "PersonalFit Flex™ connector")
 
@@ -130,7 +130,7 @@ Close menu
             * [Pediatric Breast Pump Kit with Harmony](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/pediatric-breast-pump-kit-with-harmony "Pediatric Breast Pump Kit with Harmony")
             * [Symphony / Harmony® Breast Milk Initiation Kit](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-harmony-breast-milk-initiation-kit "Symphony / Harmony® Breast Milk Initiation Kit")
             * [Symphony® Breast Pump Kit with Colostrum Protector](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/symphony-breast-pump-kit-with-colostrum-protector "Symphony® Breast Pump Kit with Colostrum Protector ")
-            * [Breast Pump Kit with Harmony & 80mL Container](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/breast-pump-kit-with-harmony-and-80ml-container "Breast Pump Kit with Harmony & 80mL Container")
+            * [Breast Pump Kit with Harmony & 80mL Container](https://www.medela.us/en-us/breastfeeding-pumping/products/pumps/symphony-and-sets/breast-pump-kit-with-harmony-80ml-container "Breast Pump Kit with Harmony & 80mL Container")
     * [Extra Pump Parts](https://www.medela.us/en-us/breastfeeding-pumping/products/extra-pump-parts)
         * [Extra Pump Parts](https://www.medela.us/en-us/breastfeeding-pumping/products/extra-pump-parts)
         * [Connectors](https://www.medela.us/en-us/breastfeeding-pumping/products/extra-pump-parts/connectors)
@@ -288,7 +288,7 @@ THE SCIENCE OF CARE
 
 #### Through advancing research, observing natural behaviour and listening to our customers, we turn science into care, nurturing health for generations.
 
-![](/000-homepage/4732/image-thumb__4732__cta-image/medela-product-range.f1fad95b.png)
+![Wide image showing Medela Swing Maxi, Medela Purelan, Medela Contact Nipple Shields, Medela Collection Containers, Medela Hands-free collection cups, Medela Freestyle Hands-free pump, Medela Breast Massage Oil, Medela Symphony Pump](/000-homepage/4732/image-thumb__4732__cta-image/medela-product-range.f1fad95b.png)
 
 [View our products](https://www.medela.us/en-us/breastfeeding-pumping/products)
 
@@ -313,7 +313,7 @@ Breastfeeding Challenges
 
 [Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/sore-nipples)
 
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2118/image-thumb__2118__card/ev2_4_breast_engorgement.7c5fa706.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
+[![A mother is at home breastfeeding her baby.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2118/image-thumb__2118__card/ev2_4_breast_engorgement.7c5fa706.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
 
 Breastfeeding Challenges
 
@@ -339,7 +339,7 @@ Breastfeeding Challenges
 
 [Read more](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/sore-nipples)
 
-[![](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2118/image-thumb__2118__card/ev2_4_breast_engorgement.7c5fa706.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
+[![A mother is at home breastfeeding her baby.](/medela-com/breastfeeding-consumer/pictures/general/breastfeeding-journey/articles/2118/image-thumb__2118__card/ev2_4_breast_engorgement.7c5fa706.jpg)](https://www.medela.us/en-us/breastfeeding-pumping/articles/breastfeeding-challenges/what-is-breast-engorgement)
 
 Breastfeeding Challenges
 
