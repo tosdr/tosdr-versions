@@ -200,6 +200,8 @@ Ratenschutz-Versicherung\*\*
 
 100 Tage Zahlpause\*\*
 
+Kreditkarte/Debitkarte
+
 Vorkasse
 
 Über uns
