@@ -210,6 +210,8 @@ Thank you!
 
 [Become an Ambassador](https://defenders.org/take-action/biodiversity-ambassadors)
 
+[Hold Congress Accountable](https://defenders.org/take-action/conservation-report-card)
+
 [Get Email Alerts](https://support.defenders.org/page/18723/subscribe/1?ea.tracking.id=web_menu_get-alerts)
 
 [Support](https://defenders.org/support-our-work)[](#)
