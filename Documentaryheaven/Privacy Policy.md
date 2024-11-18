@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Going Clear: Scientology and the Prison of Belief](/wp-content/thumbnails/10162-100x70.jpg?x53432)
+* [![Renegade Jewish Settlers](/wp-content/thumbnails/6641-100x70.jpg?x53432)
     
-    Going Clear: Scientology and the Prison of Belief
+    Renegade Jewish Settlers
     
-    Directed by Alex Gibney, Going Clear is a feature documentary that caused quite a stir when it was released earlier this year (2015). It instantly received widespread praise from movie critics an](https://documentaryheaven.com/going-clear-scientology-prison-of-belief/ "Going Clear: Scientology and the Prison of Belief")
-* [![Death Grip: Inside Pro Wrestling](/wp-content/thumbnails/8280-100x70.png?x53432)
+    Israeli settlers have been slowly nibbling away at Palestine’s West Bank territory for four decades. 300,000 setllers now occupy outposts that range in size from plywood shacks to full-blown suburban](https://documentaryheaven.com/renegade-jewish-settlers/ "Renegade Jewish Settlers")
+* [![Guns Are Cool](/wp-content/thumbnails/1198-100x70.jpg?x53432)
     
-    Death Grip: Inside Pro Wrestling
+    Guns Are Cool
     
-    The dark side, beyond the wrestling ring. A shocking murder suicide, pro wrestlers dying young and allegations of drug abuse. In the fall of 2005 following the year he wore the championship belt, prof](https://documentaryheaven.com/death-grip-inside-pro-wrestling/ "Death Grip: Inside Pro Wrestling")
-* [![The Gabby Petito Story: An American Tragedy](/wp-content/thumbnails/16620-100x70.jpg?x53432)
+    Guns Are Cool explores the issue that guns are seen as cool, fashionable and desirable by many young people today and until we change that perception, we're not going to solve the problem of rising gu](https://documentaryheaven.com/guns-are-cool/ "Guns Are Cool")
+* [![Domme: Documenting the Life of One Dominatrix](/wp-content/thumbnails/6825-100x70.jpg?x53432)
     
-    The Gabby Petito Story: An American Tragedy
+    Domme: Documenting the Life of One Dominatrix
     
-    The Gabby Petito Story is one that has shocked a nation, it's a story that is filled with twists and turns at every junction along the way. Two young people set out on a trip of a lifetime but only o](https://documentaryheaven.com/gabby-petito-story-american-tragedy/ "The Gabby Petito Story: An American Tragedy")
-* [![For The Bible Tells Me So](/wp-content/thumbnails/7010-100x70.jpg?x53432)
+    'Domme' is a documentary exploring the world of fetishes, BDSM & Mistresses; it follows full time professional mistress, Mistress Kent, with an insight into her life fulfilling both roles as Domin](https://documentaryheaven.com/domme-life-of-one-dominatrix/ "Domme: Documenting the Life of One Dominatrix")
+* [![Destiny in Space](/wp-content/thumbnails/6273-100x70.jpg?x53432)
     
-    For The Bible Tells Me So
+    Destiny in Space
     
-    For the Bible Tells Me So is a 2007 American documentary film directed by Daniel G. Karslake about homosexuality and its perceived conflict with religion, as well as various interpretations of what th](https://documentaryheaven.com/for-the-bible-tells-me-so/ "For The Bible Tells Me So")
-* [![E is for Ecstasy](/wp-content/thumbnails/8727-100x70.jpg?x53432)
+    This eye-opening IMAX program is filmed from a satellite in outer space. From there, the viewer can see the space shuttle as it orbits the earth, and accompany the astronauts as they embark on the dan](https://documentaryheaven.com/destiny-in-space/ "Destiny in Space")
+* [![I Know I’m Not Alone](/wp-content/thumbnails/2436-100x70.jpg?x53432)
     
-    E is for Ecstasy
+    I Know I’m Not Alone
     
-    Back in 1992 the BBC aired this documentary that follows a small group of british youths who regularly take ecstasy and are involved in the rave scene of the time. This film asks these individuals to](https://documentaryheaven.com/e-is-for-ecstasy/ "E is for Ecstasy")
+    This film came out of the director’s frustration with watching the nightly news and hearing generals, politicians and pundits, explaining the political and economic cost of the war in the Middle East,](https://documentaryheaven.com/i-know-i%e2%80%99m-not-alone/ "I Know I’m Not Alone")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
