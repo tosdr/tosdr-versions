@@ -81,7 +81,7 @@ Javascript is required to view this site.
 | --- |
 |     |
 | [FAQ](https://www.pirate101.com/free_game/faq) |
-| [Quick Start Guide](https://edgecast.pirate101.com/file/free/Pirate/Images/P101-Quickstart.jpg?v=8) |
+| [Quick Start Guide](https://akamai.pirate101.com/file/free/Pirate/Images/P101-Quickstart.jpg?v=8) |
 | [Player's Guide](https://www.pirate101.com/free_game/players_guide) |
 | [System Reqs](https://www.pirate101.com/free_game/system_requirements) |
 | [Discord Chat](https://discord.gg/pirate101) |
@@ -680,7 +680,7 @@ To send us an access and deletion request, or for questions, or further informat
 
 Version: 2023-06-02
 
-[](https://www.pirate101.com/autologin/free_game?jsessionid=%2FM%2Fl90%2FnDf3BV7JGxW8NcIJ6u6htWVa1kZgPVtKfMe7PCKP8lCKB0fScldzbpix6P25HIQNHqW%2BmPa5GIOs%2BZYUHY9gKGXmIVOqz2AQb2BtWow7eRstEmrVAbrYAe6Op)
+[](https://www.pirate101.com/autologin/free_game?jsessionid=CWdb3hx5DNsGobzMj4%2BylYQsbV%2Fu1aEEqqykULEHltVoTmVTKCWeCm7UnSCQ7142rN0ETQi2XKk3IakOGa7xA5tuUzYXImrDIdWy3bkUgA7WX9VjZIo1xvdU9GZCGfCn)
 
 * [Free Online Games](https://www.wizard101.com/)
     * [Free to Play Wizard101](https://www.wizard101.com/)
@@ -700,12 +700,12 @@ Version: 2023-06-02
     * [Famous Pirates](https://www.pirate101.com/free_game/learn/famous_pirates)
     * [Pirate Quotes](https://www.pirate101.com/free_game/learn/pirate_quotes)
 
-[![Pirate101 is rated E 10 and up](https://edgecast.pirate101.com/image/free/Pirate/Images/esrb-footer.png?v=2)](https://www.pirate101.com/free_game/esrb_rating) [![Pirate101 was rated Best Hybrid Strategy Game by RTS Guru](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/best-hybrid-strategy.png?v=2)](https://www.pirate101.com/free_game/awards) [![Our online pirate game for kids, Pirate101 was voted MMORPG Player’s Choice Game of the Year](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/game-of-the-year.png?v=2)](https://www.pirate101.com/free_game/awards)  
+[![Pirate101 is rated E 10 and up](https://akamai.pirate101.com/image/free/Pirate/Images/esrb-footer.png?v=2)](https://www.pirate101.com/free_game/esrb_rating) [![Pirate101 was rated Best Hybrid Strategy Game by RTS Guru](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/best-hybrid-strategy.png?v=2)](https://www.pirate101.com/free_game/awards) [![Our online pirate game for kids, Pirate101 was voted MMORPG Player’s Choice Game of the Year](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/game-of-the-year.png?v=2)](https://www.pirate101.com/free_game/awards)  
 
-[![null](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/discord-p.gif?v=1)](https://discord.gg/pirate101) [![Twitter](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/twitter.png?v=2)](http://twitter.com/pirate101) [![Facebook](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/facebook-p.jpg?v=2)](http://www.facebook.com/pirate101game) [![Youtube](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/youtube-p.jpg?v=2)](http://www.youtube.com/kingsisle) [![null](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/tiktok-p.gif?v=1)](http://www.tiktok.com/@pirate101)  
+[![null](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/discord-p.gif?v=1)](https://discord.gg/pirate101) [![Twitter](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/twitter.png?v=2)](http://twitter.com/pirate101) [![Facebook](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/facebook-p.jpg?v=2)](http://www.facebook.com/pirate101game) [![Youtube](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/youtube-p.jpg?v=2)](http://www.youtube.com/kingsisle) [![null](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/tiktok-p.gif?v=1)](http://www.tiktok.com/@pirate101)  
 © 2024 KingsIsle Entertainment, Inc. All Rights Reserved  
 [Contact Us](https://www.pirate101.com/free_game/contact_us) | [Code of Conduct](https://www.pirate101.com/forum/messageboard/codeOfConduct/free_game) | [Terms of Use](https://www.pirate101.com/free_game/terms_of_use) | [Privacy Policy](https://www.pirate101.com/free_game/privacy-policy) | [Legal](https://www.pirate101.com/free_game/legal) | [Cookies Settings](#)
 
 * * *
 
-[![Wizard101 Free Online Game](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/wizard101.png?v=2)](https://www.wizard101.com/) [![KingsIsle Entertainment](https://edgecast.pirate101.com/image/free/Pirate/Images/Icons/kingsisle.png?v=2)](http://www.kingsisle.com/) Other great family friendly free online games by KingsIsle
+[![Wizard101 Free Online Game](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/wizard101.png?v=2)](https://www.wizard101.com/) [![KingsIsle Entertainment](https://akamai.pirate101.com/image/free/Pirate/Images/Icons/kingsisle.png?v=2)](http://www.kingsisle.com/) Other great family friendly free online games by KingsIsle
