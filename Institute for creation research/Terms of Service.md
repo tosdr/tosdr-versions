@@ -165,69 +165,63 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Creation Science Update
+More Days of Praise
 
-[![](/i/Main%20Stage%20-%201400x1050/findingorder_1400x1050.jpg)](https://www.icr.org/article/order-in-disorder)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/grace-god-creation)
 
-[Non-Repeatable Repeatability: Finding Order in Disorder](https://www.icr.org/article/order-in-disorder/)
+[The Grace of God in Creation](https://www.icr.org/article/grace-god-creation/)
 
-Covering a flat surface with some pattern of geometric shapes with no overlaps or gaps is called tiling. Tiling shows up in many places, from the tiles...
+“He left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food...
 
-BY: [JONATHAN K. CORRADO, PH.D., P. E.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=251)
+BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
 
-[![](/i/Main%20Stage%20-%201400x1050/beetle-eating-leaf-1400x1050)](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/doing-righteousness)
 
-[CET Model in Plants Is Clearly Seen](https://www.icr.org/article/CET-model-in-plants-is-clearly-seen/)
+[Doing Righteousness](https://www.icr.org/article/doing-righteousness/)
 
-Plant scientists have known for decades that plants aren’t just static entities. The half-million or more species of plants in the world display...
+“Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.” (1 John 3:7) Every genuine...
 
-BY: [FRANK SHERWIN, D.SC. (HON.)](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=32)
+BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
 
-[![](/i/Main%20Stage%20-%201400x1050/grandcanyoncoconino-1400x1050)](https://www.icr.org/article/evidence-flood-grand-canyon-coconino)
+[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sanctified-through-word)
 
-[New Evidence of Flood in Grand Canyon](https://www.icr.org/article/evidence-flood-grand-canyon-coconino/)
+[Sanctified Through the Word](https://www.icr.org/article/sanctified-through-word/)
 
-The Coconino Sandstone, famously exposed near the top of Grand Canyon’s splendid sedimentary layers, remains a controversial rock. Two counterclaims...
+“Sanctify them through thy truth: thy word is truth.” (John 17:17) This powerful Scripture is actually part of Christ’s...
 
-BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
+BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/57800317/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
 
-Scientific Evidences for Creation 2](https://store.icr.org/scientific-evidences-for-creation.html)
-
-$12.99
-
-[![](https://cdn.shoplightspeed.com/shops/601440/files/8285455/file.jpg)
-
-The Mighty, Wonderful Oceans](https://store.icr.org/the-mighty-wonderful-oceans.html)
-
-$7.99
+The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
 
 $9.99
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/9373127/file.jpg)
+$19.99
 
-Scientific Evidences for Creation](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-creation.html)
+[](https://store.icr.org/.html)
 
-$7.99
+$
 
-$9.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/13216497/file.jpg)
+The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
 
-Scientific Evidences for Creation - Download](https://store.icr.org/mr-frank-sherwin-scientific-evidences-for-11389225.html)
+$19.99
 
-$4.99
+[![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
 
-$9.99
+The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/3050408/file.jpg)
+$14.99
 
-The New Ocean Book](https://store.icr.org/mr-frank-sherwin-the-new-ocean-book.html)
+$19.99
 
-$16.99
+[](https://store.icr.org/.html)
+
+$
 
 [![Institute for Creation Research](/i/icr-logo-final-h-rev3-100.png)](https://www.icr.org/)[![ICR Discovery Center for Science and Earth History](/i/DC_Logo_Footer_2.png)](http://discoverycenter.icr.org/)
 
