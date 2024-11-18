@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/atlantis-herrijst/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/haarp-weersbeinvloeding-tornados/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
