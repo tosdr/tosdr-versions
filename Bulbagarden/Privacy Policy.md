@@ -412,9 +412,13 @@ Navigation menu
 * [Bulbagarden home page](https://www.bulbagarden.net/)
 * [Bulbagarden Archives](https://archives.bulbagarden.net/wiki/Main_Page "Depository for media used by Bulbagarden's wikis")
 * [Bulbagarden Forums](https://bulbagarden.net/forums/)
-* [Bulbagarden Discord server](https://discord.gg/bulbagarden)
-* [Twitch](https://www.twitch.tv/bulbagarden)
-* [YouTube](https://www.youtube.com/user/Bulbagarden)
+* [Bulbagarden Discord](https://discord.gg/bulbagarden)
+* [Bulbagarden Twitch](https://www.twitch.tv/bulbagarden)
+* [Bulbagarden YouTube](https://www.youtube.com/user/Bulbagarden)
+
+### Social media
+
+* [Bluesky](https://bsky.app/profile/bulbagarden.net)
 * [Facebook](https://www.facebook.com/Bulbagarden)
 * [Mastodon](https://mastodon.social/@bulbagarden)
 * [Twitter](https://twitter.com/Bulbagarden)
