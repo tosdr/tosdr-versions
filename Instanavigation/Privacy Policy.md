@@ -2,34 +2,34 @@
 
 [![logo](/assets-st/img/svg/logo.svg)](https://storynavigation.com/)
 
-* [View stories](https://storynavigation.com/view-instagram-stories)
-* [Blog](https://storynavigation.com/blog)
-* [Features](https://storynavigation.com/features)
-* [About us](https://storynavigation.com/about-project)
-* [Contacts](https://storynavigation.com/contact-us)
+* [View stories](https://storynavigation.com/watch-stories)
+* [Blog](https://storynavigation.com/our-blog)
+* [Features](https://storynavigation.com/project-features)
+* [About us](https://storynavigation.com/about-our-project)
+* [Contacts](https://storynavigation.com/contacts)
 
 ![search logo](/assets-st/img/svg/search.svg)
 
 en
 
-* [de](http://storynavigation.com/de/privacy-policy)
-* [en](http://storynavigation.com/privacy-policy)
-* [fr](http://storynavigation.com/fr/privacy-policy)
-* [it](http://storynavigation.com/it/privacy-policy)
-* [ru](http://storynavigation.com/ru/privacy-policy)
+* [de](http://storynavigation.com/de/project-privacy-policy)
+* [en](http://storynavigation.com/project-privacy-policy)
+* [fr](http://storynavigation.com/fr/project-privacy-policy)
+* [it](http://storynavigation.com/it/project-privacy-policy)
+* [ru](http://storynavigation.com/ru/project-privacy-policy)
 
-* [View stories](https://storynavigation.com/view-instagram-stories)
-* [Blog](https://storynavigation.com/blog)
-* [Features](https://storynavigation.com/features)
-* [About us](https://storynavigation.com/about-project)
-* [Contacts](https://storynavigation.com/contact-us)
+* [View stories](https://storynavigation.com/watch-stories)
+* [Blog](https://storynavigation.com/our-blog)
+* [Features](https://storynavigation.com/project-features)
+* [About us](https://storynavigation.com/about-our-project)
+* [Contacts](https://storynavigation.com/contacts)
 
 * [en](#)
-* [de](http://storynavigation.com/de/privacy-policy)
-* [en](http://storynavigation.com/privacy-policy)
-* [fr](http://storynavigation.com/fr/privacy-policy)
-* [it](http://storynavigation.com/it/privacy-policy)
-* [ru](http://storynavigation.com/ru/privacy-policy)
+* [de](http://storynavigation.com/de/project-privacy-policy)
+* [en](http://storynavigation.com/project-privacy-policy)
+* [fr](http://storynavigation.com/fr/project-privacy-policy)
+* [it](http://storynavigation.com/it/project-privacy-policy)
+* [ru](http://storynavigation.com/ru/project-privacy-policy)
 
 **PRIVACY POLICY**
 
@@ -572,14 +572,14 @@ StoryNavigation [\[email protected\]](https://instanavigation.com/cdn-cgi/l/ema
 
 You have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a [data subject access request](https://app.termly.io/notify/c16da6f2-3c86-430d-acb4-9fcf59d5d66f).
 
-* [View stories](https://storynavigation.com/view-instagram-stories)
-* [Blog](https://storynavigation.com/blog)
-* [Features](https://storynavigation.com/features)
-* [About us](https://storynavigation.com/about-project)
-* [Contacts](https://storynavigation.com/contact-us)
+* [View stories](https://storynavigation.com/watch-stories)
+* [Blog](https://storynavigation.com/our-blog)
+* [Features](https://storynavigation.com/project-features)
+* [About us](https://storynavigation.com/about-our-project)
+* [Contacts](https://storynavigation.com/contacts)
 
 [![footer logo](/assets-st/img/svg/logo-big.svg)](https://storynavigation.com/)
 
 StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
-© 2024 StoryNavigation [Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
+© 2024 StoryNavigation [Terms & Conditions](https://storynavigation.com/project-terms-of-use) [Privacy policy](https://storynavigation.com/project-privacy-policy)
