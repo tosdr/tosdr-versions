@@ -10,11 +10,11 @@ where the imageboards live
 * [![](images/menu_top_boorus.png)Top Boorus](https://booru.org/top "List of most popular boorus")
 * [![](images/menu_faq.png)FAQ](https://booru.org/faq)
 
-  ![ageofsigmart](http://ageofsigmart.booru.org/favicon.ico)  Booru of the day: |**[ageofsigmart](http://ageofsigmart.booru.org/)**|
+  ![34hentai](http://34hentai.booru.org/favicon.ico)  Booru of the day: |**[34hentai](http://34hentai.booru.org/)**|
 
-* SFW
-* 903 ![images](images/booru_totalimages.gif)
-* 1 ![members](images/booru_totalusers.gif)
+* NSFW
+* 274 ![images](images/booru_totalimages.gif)
+* 502 ![members](images/booru_totalusers.gif)
 
 * [![](images/menu_login.gif)Log into your Booru](https://booru.org/login)
 
