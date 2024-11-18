@@ -2,6 +2,24 @@
 
 YOUR NATURAL DIAMOND JEWELER
 
+[![](/themes/default/frontend/oct-2023/assets/bf-top-banner-img.svg)
+
+Black Friday Ends In
+
+00
+
+:
+
+00
+
+:
+
+00
+
+:
+
+00](https://www.icebox.com/black-friday)
+
 [![Icebox ](/assets/public-2020/img/logos/bfcf00d9a70b7f8b520fb5a2a42187be.png)](https://www.icebox.com/)
 
 [Our Locations](https://www.icebox.com/locations)[](javascript:void(0);)
@@ -12,7 +30,7 @@ YOUR NATURAL DIAMOND JEWELER
 
  Search
 
-[MEN'S](https://www.icebox.com/all?gender[]=Male) [WOMEN'S](https://www.icebox.com/all?gender[]=Female) [Gold Chains](https://www.icebox.com/results/gold-chains) [Engagement](https://www.icebox.com/results/rings?sub[]=Engagement%20Rings) [Travel Cases](https://www.icebox.com/results/travel-cases) [WATCHES](https://www.icebox.com/results/watch-market) [Custom](https://www.icebox.com/results/custom) [MADE TO ORDER](https://www.icebox.com/made-to-order)
+[MEN'S](https://www.icebox.com/all?gender[]=Male) [WOMEN'S](https://www.icebox.com/all?gender[]=Female) [Gold Chains](https://www.icebox.com/results/gold-chains) [Engagement](https://www.icebox.com/results/rings?sub[]=Engagement%20Rings) [Travel Cases](https://www.icebox.com/results/travel-cases) [WATCHES](https://www.icebox.com/results/watch-market) [Custom](https://www.icebox.com/results/custom) [BLACK FRIDAY](https://www.icebox.com/black-friday) [MADE TO ORDER](https://www.icebox.com/made-to-order)
 
 [Pendants](https://www.icebox.com/results/pendants) [Gold Chains](https://www.icebox.com/results/gold-chains) [Earrings](https://www.icebox.com/results/earrings) [Necklaces](https://www.icebox.com/results/necklaces) [Rings](https://www.icebox.com/results/rings) [Bracelets](https://www.icebox.com/results/bracelets) [Watches](https://www.icebox.com/results/watches) [Accessories](https://www.icebox.com/results/accessories) [Custom](https://www.icebox.com/results/custom) [Travel Cases](https://www.icebox.com/results/travel-cases)
 
