@@ -16,7 +16,9 @@ Trending now](https://www.crazygames.com/hot)[![Updated icon](https://images.cra
 
 Updated](https://www.crazygames.com/updated)[![Originals icon](https://images.crazygames.com/icon/Originals.svg)
 
-Originals](https://www.crazygames.com/originals)
+Originals](https://www.crazygames.com/originals)[![Multiplayer icon](https://images.crazygames.com/icon/Multiplayer.svg)
+
+Multiplayer](https://www.crazygames.com/multiplayer)
 
 * * *
 
