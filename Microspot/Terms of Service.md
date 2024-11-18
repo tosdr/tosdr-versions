@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/6258.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/8255.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -94,7 +94,7 @@ Visitez l'une de nos quelques environ
 
 [![DYSON V15s Detect Submarine](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F860x484-I24-0747-CM3-HH-Beauty-KW46-4717.jpg%3Fcontext%3DbWFzdGVyfGNtc3wzMDc5N3xpbWFnZS9qcGVnfGFHSmxMMmhrT0M4NE5qQjRORGcwWDBreU5GOHdOelEzWDBOTk0xOUlTRjlDWldGMWRIbGZTMWMwTmkwME56RTNMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQzg0TmpCNE5EZzBYMGt5TkY4d056UTNYME5OTTE5SVNGOUNaV0YxZEhsZlMxYzBOaTAwTnpFM0xtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfGU1ZTM2MjEyOTU1ODQ5YWU2ZTA5ZDJmNjEwYmViNmQyYjgyZmNhMDQxMGM3NWY2NWM1MWZlNTRiMGI5MDNiNzE&w=2360&q=75)
 
-699.95au lieu de 949.95DYSON V15s Detect Submarine](https://www.microspot.ch/fr/product/dyson-v15s-detect-submarine-660-w-0013936532)
+699.95DYSON V15s Detect Submarine](https://www.microspot.ch/fr/product/dyson-v15s-detect-submarine-660-w-0013936532)
 
 Autres actions ici
 
@@ -139,11 +139,9 @@ Bouger
 
 Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitness)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
-
 [![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F7450-41-OHC-5000-7000-Serie-Banner-1180x350-V04-CR-FR.jpg%3Fcontext%3DbWFzdGVyfGNtc3wxMzQzODF8aW1hZ2UvanBlZ3xhRFprTDJnd05DODNORFV3TFRReFgwOUlRMTgxTURBd0xUY3dNREF0VTJWeWFXVmZRbUZ1Ym1WeVh6RXhPREI0TXpVd1gxWXdORjlEVWkxR1VpNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXZOelExTUMwME1WOVBTRU5mTlRBd01DMDNNREF3TFZObGNtbGxYMEpoYm01bGNsOHhNVGd3ZURNMU1GOVdNRFJmUTFJdFJsSXVhbkJuVTNSaFoyVmtiM0IwYVcxcGVtVmt8MWE1OTBkMTY0MjNlYzk4OTA1NzQ2NjBjYTZkMDM1NDM0M2YwODYyMmYxMGNiYTc5MzUzY2M2ODQ0NDY4MmVlZg&w=2360&q=75)](https://www.microspot.ch/fr/cms/actions-philips)
 
-[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0590-Nachhaltigkeit-Banner2.jpg%3Fcontext%3DbWFzdGVyfGNtc3wyNDIyNTd8aW1hZ2UvanBlZ3xhRFE1TDJnM1ppOHhNVGd3ZURNMU1GOUpNalJmTURVNU1GOU9ZV05vYUdGc2RHbG5hMlZwZEY5Q1lXNXVaWEl5TG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4eE1UZ3dlRE0xTUY5Sk1qUmZNRFU1TUY5T1lXTm9hR0ZzZEdsbmEyVnBkRjlDWVc1dVpYSXlMbXB3WjFOMFlXZGxaRzl3ZEdsdGFYcGxaQXwxMGNhY2I3MDdiMjAxM2FmZDJmNDBlZDA4MGVlMDIyMmM2ODFhZDBjYjdlY2I4YjdjY2Q4MmJiODZiMWJhNWRj&w=2360&q=75)](https://www.microspot.ch/fr/cms/entreprise/durabilit%C3%A9)
+[![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F1180x350-I24-0743-CM1-DAB11.jpg%3Fcontext%3DbWFzdGVyfGNtc3w4NDAwM3xpbWFnZS9qcGVnfGFETmpMMmhoTUM4eE1UZ3dlRE0xTUY5Sk1qUmZNRGMwTTE5RFRURmZSRUZDTVRFdWFuQm5VM1JoWjJWa2IzQjBhVzFwZW1Wa0x6RXhPREI0TXpVd1gwa3lORjh3TnpRelgwTk5NVjlFUVVJeE1TNXFjR2RUZEdGblpXUnZjSFJwYldsNlpXUXxmN2RmZjg1ODI4Yzc5MTQzODNlMmRiOWM0YTM2MzRmMWFjN2I0NTU4MGI2MmNmMTRkMjhlYzZjYWU4YjUwMmIw&w=2360&q=75)![](/_next/image?url=https%3A%2F%2Fwww.interdiscount.ch%2Fmedias%2F828x350-I24-0743-CM1-DAB5.jpg%3Fcontext%3DbWFzdGVyfGNtc3w3NzQ5NHxpbWFnZS9qcGVnfGFEbGxMMmd4TlM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1qaDRNelV3WDBreU5GOHdOelF6WDBOTk1WOUVRVUkxTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkF8OGRkODQwY2JkMjU2NThiYWQ2Mzg2NzM0YTViODE0NmQ5ODNjM2Y4NTM5MjA2MWJhNDhjZDA2NmM1OTViMWIyNQ&w=2360&q=75)](https://www.microspot.ch/fr/cms/dab)
 
 Testé pour vous
 ---------------
@@ -221,17 +219,17 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
-[Frais de port gratuits pour livraison
+[Garantie Plus
 
-à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
-[Retrait gratuit
+[Frais de port gratuits pour livraison
 
-dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
+à domicile dès CHF 49.-](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
 
 interdiscount.ch
 
