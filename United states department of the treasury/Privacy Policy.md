@@ -575,6 +575,10 @@ MENU MENU
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
+    November 18, 2024
+    
+    [Treasury Targets Organization with Ties to Violent Actors in the West Bank](https://home.treasury.gov/news/press-releases/jy2715)
+    
     November 14, 2024
     
     [Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States](https://home.treasury.gov/news/press-releases/jy2714)
@@ -582,10 +586,6 @@ MENU MENU
     November 14, 2024
     
     [Treasury Targets Syrian Conglomerate Funding Qods Force and Houthis](https://home.treasury.gov/news/press-releases/jy2712)
-    
-    November 12, 2024
-    
-    [Treasury Sanctions Sudanese Commander Involved in Human Rights Abuses in West Darfur](https://home.treasury.gov/news/press-releases/jy2710)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
