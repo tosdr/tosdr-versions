@@ -307,7 +307,7 @@ CLOSE
     
 * ![](https://api.trustedform.com/ns.gif)
     
-* Comments
+* Email
     
     This field is for validation purposes and should be left unchanged.
     
