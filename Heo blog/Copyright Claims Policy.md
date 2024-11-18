@@ -374,9 +374,11 @@ P
 
 [随机生成中..](https://blog.zhheo.com/link/)[随机生成中..](https://blog.zhheo.com/link/)[随机生成中..](https://blog.zhheo.com/link/)[随机生成中..](https://blog.zhheo.com/link/)
 
-©2019 - 2024 By [张洪Heo](https://zhheo.com/)
+©2019 - 2024 By [![avatar](https://p.zhheo.com/8DSTSS20990281646044689944.PNG!cover_mini)张洪Heo](https://zhheo.com/)
 
-[订阅](https://blog.zhheo.com/rss/)[主题](https://blog.zhheo.com/update/)[京ICP备19051325号-2](https://beian.miit.gov.cn/#/Integrated/index)[](https://blog.zhheo.com/cc/ "cc协议")
+[![](https://p.zhheo.com/VPiMHH24891181731917988329.png!cover)京公网安备11011402054421号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11011402054421)[京ICP备19051325号-2](https://beian.miit.gov.cn/#/Integrated/index)
+
+[订阅](https://blog.zhheo.com/rss/)[主题](https://blog.zhheo.com/update/)[](https://blog.zhheo.com/cc/ "cc协议")
 
 协议提醒助手
 
