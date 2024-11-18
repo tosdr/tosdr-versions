@@ -199,7 +199,7 @@ This Subscription Agreement is entered into by and between AgileBits Inc. dba 1P
 
 **(ix) Price Quote** means the price quote included in the Order Form, and excludes applicable taxes.
 
-**(x) Product Specific** **Terms** means additional terms and conditions specific to a 1Password Service available at [https://1Password.com/legal-center/PSTs](https://1password.com/legal-center/PSTs).
+**(x) Product Specific** **Terms** means additional terms and conditions specific to a 1Password Service available at [https://1Password.com/legal-center](https://1password.com/legal-center).
 
 **(xi) Services** means subscription services that 1Password provides, including all related or underlying technology, code, know-how, logos, and templates, anything delivered as part of support or other services, and any updates, modifications or derivative works of any of the foregoing.
 
