@@ -813,7 +813,6 @@ Newsletters from the future
 
   
 
-* Amazon
 * American Express
 * Apple Pay
 * Diners Club
