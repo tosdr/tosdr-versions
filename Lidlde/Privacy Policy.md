@@ -234,21 +234,15 @@ Zum Betrachten des PDF-Dokumentes benötigst du den kostenlosen [Adobe Acrobat R
 Datenschutz
 ===========
 
-Datenschutz auf www.lidl.de
----------------------------
-
 (Version 13; Stand 25.10.2024)
 ------------------------------
 
-Datenschutzbestimmungen für den Lidl Online-Shop, das Lidl-Filialgeschäft und Geschäftspartner
-----------------------------------------------------------------------------------------------
-
-Wir freuen uns, dass Sie sich für den Datenschutz bei den Lidl-Gesellschaften interessieren. Bei Lidl möchten wir, dass Sie sich wohl und sicher fühlen und unsere Umsetzung des Datenschutzes als kundenorientiertes Qualitätsmerkmal sehen.
-
-Die folgenden Datenschutzhinweise informieren Sie über Art und Umfang der Verarbeitung Ihrer personenbezogenen Daten im Rahmen der Nutzung des Lidl Online-Shops, der Lidl-Filialen und in der Beziehung zu Geschäftspartnern. Personenbezogene Daten sind Informationen, die Ihrer Person direkt oder mittelbar zuzuordnen sind bzw. zugeordnet werden können. Als gesetzliche Grundlage für den Datenschutz dient insbesondere die Datenschutz-Grundverordnung (DSGVO).
-
 Datenschutzhinweise für den Lidl Onlineshop und die Lidl App
 ------------------------------------------------------------
+
+  
+
+---
 
 1\. Kontaktdaten des Verantwortlichen sowie des Datenschutzbeauftragten
 
@@ -256,9 +250,7 @@ Sofern im Folgenden nicht anders benannt, sind die Lidl Digital Deutschland GmbH
 
   
 
-Die Datenschutzbeauftragten der Lidl Digital und der Lidl Stiftung sind jeweils unter der oben genannten Postanschriften oder unter [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) erreichbar.
-
-  
+Der Datenschutzbeauftragte der Lidl Stiftung ist unter der oben genannten Postanschrift oder unter [datenschutz@lidl-shop.de](mailto:datenschutz@lidl-shop.de) erreichbar.
 
   
 
@@ -272,7 +264,7 @@ Unter Umständen kann es erforderlich sein, dass wir Ihre personenbezogenen Date
 
   
 
-Einigen Drittländern hat die EU-Kommission durch einen Angemessenheitsbeschluss ein der DSGVO vergleichbares Datenschutzniveau bescheinigt. Eine Übersicht der Drittländer mit Angemessenheitsbeschluss finden Sie [hier](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en?prefLang=de#documents). Bei Dienstleistern mit Hauptsitz in den USA gilt dies nur, wenn diese nach dem EU-US Data Privacy Framework zertifiziert sind.
+Einigen Drittländern hat die EU-Kommission durch einen Angemessenheitsbeschluss ein der DSGVO vergleichbares Datenschutzniveau bescheinigt. Eine Übersicht der **Drittländer mit Angemessenheitsbeschluss** finden Sie [hier](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en?prefLang=de#documents). Bei Dienstleistern mit Hauptsitz in den USA gilt dies nur, wenn diese nach dem EU-US Data Privacy Framework zertifiziert sind.
 
   
 
@@ -281,8 +273,6 @@ Wenn kein Angemessenheitsbeschluss vorliegt, sichern wir die Übermittlung durch
   
 
 Sofern im Folgenden nicht anders dargestellt, erfolgt der Drittlandtransfer entweder auf Basis eines Angemessenheitsbeschlusses oder einer der oben aufgezählten Maßnahmen. Sie können sich bei Fragen dazu an unsere Datenschutzbeauftragten wenden.
-
-  
 
 4\. Aufruf unserer Dienste
 
