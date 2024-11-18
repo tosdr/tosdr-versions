@@ -329,7 +329,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Fußbereich
 
@@ -1241,7 +1241,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -1593,7 +1593,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -1928,7 +1928,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -2221,7 +2221,7 @@ Meistgelesene Tests & Themen
 
 * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
 * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
 * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
 * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
 * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -2230,7 +2230,7 @@ Meistgelesene Tests & Themen
 
 * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
 * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
 * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
 * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
 * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
-* [Pflanzlichter im Test: Pflanzen­lampen bringen grüne Setzlinge](https://www.test.de/Pflanzlichter-im-Test-Pflanzenlampen-bringen-gruene-Setzlinge-6068779-0/ "Pflanzlichter im Test - Pflanzenlampen bringen grüne Setzlinge")
-* [Fitness-Apps im Test: Die richtige App fürs Training](https://www.test.de/Fitness-Apps-im-Test-6010207-0/ "Fitness-Apps im Test - Die richtige App fürs Training")
-* [Verpackungs­ärger: Kærgården von Arla](https://www.test.de/Verpackungsaerger-Krgrden-von-Arla-6055804-0/ "Verpackungsärger - Kærgården von Arla")
-* [Gebrauchte Kamin­öfen: Problem-Öfen aus zweiter Hand](https://www.test.de/Gebrauchte-Kaminoefen-Problem-Oefen-aus-zweiter-Hand-6140573-0/ "Gebrauchte Kaminöfen - Problem-Öfen aus zweiter Hand")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
+* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
+* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
+* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
+* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
+* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
+* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
 
 Service Stiftung Warentest
 
