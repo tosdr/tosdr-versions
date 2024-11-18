@@ -33,7 +33,21 @@ Parents and School Administrators >
                 * [Incidental Billing & Prepay Accounts](https://factsmgt.com/products/financial-management/incidental-billing-prepay-accounts/)
                 * [Giving](https://factsmgt.com/products/financial-management/giving/)
                 * [Payment Integration Partners](https://factsmgt.com/products/financial-management/payment-integration-partners/)
-        * * ![Smiling person holding a tablet device](https://factsmgt.com/wp-content/uploads/Header-Featured-Circle.png)
+        * * Industries
+                ----------
+                
+                * [K-12 Schools](https://factsmgt.com/markets/k-12-schools/)
+                    
+                    Whole-school solutions that meet your unique needs
+                    
+                * [Businesses](https://factsmgt.com/corporate-learning-solutions/)
+                    
+                    A growth-oriented, customized development program
+                    
+                * [Faith Communities](https://factsmgt.com/markets/faith-community-software/)
+                    
+                    Online faith formation and member engagement
+                    
                 
                 Elevating Education
                 -------------------
