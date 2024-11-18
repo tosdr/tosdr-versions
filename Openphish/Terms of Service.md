@@ -4,7 +4,6 @@
 4. [Resources](#)
     * [OpenPhish API](https://github.com/openphish/pyopdb)
     * [Recent Updates](https://www.openphish.com/whatsnew.html)
-    * [Global Phishing Activity](https://www.openphish.com/phishing_activity.html)
 
 Terms of Use
 ============
