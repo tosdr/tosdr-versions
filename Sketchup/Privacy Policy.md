@@ -315,20 +315,17 @@ You can find supplemental product specific terms in the [Sefaira Terms of Servi
 
 Processing...
 
-Please Wait.
-============
+###### Please Wait.
 
 We are migrating your Account information.
 
-Attention
-=========
+###### Attention
 
 We tried to combine the products in your guest cart with your saved cart, but we encountered an issue while merging them. When choosing a subscription, please select either monthly or yearly as they cannot be combined. Kindly review your cart before proceeding to checkout.
 
 Continue
 
-Cart Updated
-============
+###### Cart Updated
 
 undefined  
   
@@ -337,13 +334,11 @@ undefined
 
 OK
 
-Attention
-=========
+###### Attention
 
 OK
 
-Cart Updated
-============
+###### Cart Updated
 
 The items in your cart have been updated for two reasons. Firstly, the prices now match the currency linked to your account address. Secondly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.  
   
@@ -352,8 +347,7 @@ undefined
 
 OK
 
-Cart Updated
-============
+###### Cart Updated
 
 The items in your cart have been updated for two reasons. Firstly, you've added too many of one item to your cart. Secondly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding.  
   
@@ -362,8 +356,7 @@ undefined
 
 OK
 
-Cart Updated
-============
+###### Cart Updated
 
 The items in your cart have been updated for three reasons. Firstly, the prices now match the currency linked to your account address. Secondly, you've added too many of one item to your cart. Thirdly, some items have been removed because they are not available for purchase in your region. Please review your cart before proceeding  
   
@@ -372,22 +365,19 @@ undefined
 
 OK
 
-Cart Updated
-============
+###### Cart Updated
 
 Your currency has been changed to match the currency associated with your account address.
 
 Continue
 
-Cart Updated
-============
+###### Cart Updated
 
 Your cart has been updated for two reasons. First, the prices now reflect the currency associated with your account address. Second, you've added too many of one item to your cart. Please review your cart before proceeding.
 
 Continue
 
-Cart Updated
-============
+###### Cart Updated
 
 While combining the products in your guest cart with your saved cart, at least one item in your cart has exceeded the maximum allowable quantity. Please review and correct your cart before proceeding to checkout.
 
