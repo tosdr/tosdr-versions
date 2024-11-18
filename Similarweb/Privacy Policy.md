@@ -370,18 +370,54 @@ This Privacy Policy may be amended from time to time. We recommend checking back
 
 If you have any questions or comments regarding this Privacy Policy or wish to exercise your privacy rights, please feel free to contact us by email at [legal@similarweb.com](mailto:legal@similarweb.com) or dpo@similarweb.com.
 
- 
+[![Similarweb](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
 
-[](https://www.similarweb.com/)
+![Similarweb](https://www.similarweb.com/corp/wp-content/uploads/2024/11/sw_logo.svg)](https://www.similarweb.com/en/)
 
 Follow us on:
 
-* [](https://www.facebook.com/Similarweb "Facebook")
-* [](https://x.com/Similarweb "Twitter")
-* [](https://www.linkedin.com/company/similarweb "LinkedIn")
-* [](https://www.youtube.com/channel/UCVCI01HR6iB4AA4ChW08cvQ "YouTube")
-* [](https://www.instagram.com/similarwebinsights/ "Instagram")
-* [](https://mp.weixin.qq.com/s/dP9RRhIGCvDpdFh8hCKuww "Wechat")
+* [![facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![facebook](https://www.similarweb.com/corp/wp-content/uploads/2024/11/facebook-active-1.svg)
+    
+    ![facebook](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![facebook](https://www.similarweb.com/corp/wp-content/uploads/2024/11/facebook-1.svg)](https://www.facebook.com/Similarweb)
+* [![twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![twitter](https://www.similarweb.com/corp/wp-content/uploads/2024/11/twitter-active.svg)
+    
+    ![twitter](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![twitter](https://www.similarweb.com/corp/wp-content/uploads/2024/11/twitter.svg)](https://x.com/Similarweb)
+* [![linkedin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![linkedin](https://www.similarweb.com/corp/wp-content/uploads/2024/11/linkedin-active.svg)
+    
+    ![linkedin](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![linkedin](https://www.similarweb.com/corp/wp-content/uploads/2024/11/linkedin.svg)](https://www.linkedin.com/company/similarweb)
+* [![youtube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![youtube](https://www.similarweb.com/corp/wp-content/uploads/2024/11/youtube-active.svg)
+    
+    ![youtube](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![youtube](https://www.similarweb.com/corp/wp-content/uploads/2024/11/youtube.svg)](https://www.youtube.com/channel/UCVCI01HR6iB4AA4ChW08cvQ)
+* [![instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![instagram](https://www.similarweb.com/corp/wp-content/uploads/2024/11/instagram-active.svg)
+    
+    ![instagram](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![instagram](https://www.similarweb.com/corp/wp-content/uploads/2024/11/instagram.svg)](https://www.instagram.com/similarwebinsights/)
+* [![wechat](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![wechat](https://www.similarweb.com/corp/wp-content/uploads/2024/11/wechat-active.svg)
+    
+    ![wechat](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201024%201024'%3E%3C/svg%3E)
+    
+    ![wechat](https://www.similarweb.com/corp/wp-content/uploads/2024/11/wechat.svg)](https://mp.weixin.qq.com/s/dP9RRhIGCvDpdFh8hCKuww)
 
 [6 E 32nd St, New York, NY 10016, 8 Floor](https://maps.app.goo.gl/bRdHcBbdvVRWnW1z6)
 
@@ -432,10 +468,10 @@ Follow us on:
 * About us
     
     * [Company](https://www.similarweb.com/corp/about/)
-    * [Partners](https://www.similarweb.com/corp/partner-with-similarweb/)
+    * [Partners](https://www.similarweb.com/corp/referral-partner-program/)
     * [Customers](https://www.similarweb.com/corp/clients/)
     * [Leadership](https://www.similarweb.com/corp/leadership/)
-    * [Acquisitions](https://www.similarweb.com/corp/about/acquisitions/)
+    * [Acquisitions](https://www.similarweb.com/corp/about/acquisitions)
     * [Careers](https://www.similarweb.com/corp/careers/)
     * [Press](https://ir.similarweb.com/news/press-releases)
     * [Engineering](https://medium.com/similarweb-engineering)
@@ -444,12 +480,11 @@ Follow us on:
     * [Media Data Access](https://www.similarweb.com/corp/about/press-data/)
     
 
-Our OfficesSee all Similarweb offices
+Our Offices See all Similarweb offices
 
 * Givatayim, Israel
     
-    [Derech Yitzhak Rabin 33,  
-    Givatayim, 5348303, Israel](https://goo.gl/maps/fCrvmzJo54qjBnrU9)
+    [Derech Yitzhak Rabin 33, Givatayim, 5348303, Israel](https://goo.gl/maps/fCrvmzJo54qjBnrU9)
     
     [Open map](https://goo.gl/maps/fCrvmzJo54qjBnrU9)
     
@@ -467,9 +502,7 @@ Our OfficesSee all Similarweb offices
     
 * Sao Paulo, Brazil
     
-    [Rua Jaceru, 225 - Vila Gertrudes,  
-    São Paulo, Brazil,  
-    04705-000](https://goo.gl/maps/Ln37ZizNgyku2vgJA)
+    [Rua Jaceru, 225 - Vila Gertrudes, São Paulo, Brazil, 04705-000](https://goo.gl/maps/Ln37ZizNgyku2vgJA)
     
     [Open map](https://goo.gl/maps/Ln37ZizNgyku2vgJA)
     
@@ -491,18 +524,17 @@ Our OfficesSee all Similarweb offices
     
     [Open map](https://maps.app.goo.gl/XzsKwHsnhdeoShGU9)
     
-* Zürich, Switzerland
+* Paris, France
     
-    [Rötelstrasse 848057 Zürich, Switzerland](https://maps.app.goo.gl/fnvQbADi5c4B7hUFA)
+    [33 rue Lafayette, 75009 Paris](https://goo.gl/maps/eywGe8yBUpG2)
     
-    [Open map](https://maps.app.goo.gl/fnvQbADi5c4B7hUFA)
+    [Open map](https://goo.gl/maps/eywGe8yBUpG2)
     
 * Munich, Germany
     
-    [SimilarWeb, Office 01-111, C/O WeWork, Neuturmstrasse 5, BY, 80331  
-    Munich](https://www.google.com/maps/place/WeWork+-+Altstadt-Lehel+-+Private+B%C3%BCrofl%C3%A4chen+und+Coworking/@48.1381045,11.5809333,15z/data=!4m6!3m5!1s0x479e756d836d0329:0x57c2b4f7a0fe9290!8m2!3d48.1381045!4d11.5809333!16s%2Fg%2F11f62wjwgn)
+    [SimilarWeb, Office 01-111, C/O WeWork, Neuturmstrasse 5, BY, 80331 Munich](https://www.google.com/maps/place/WeWork+-+Altstadt-Lehel+-+Private+Broflchen+und+Coworking/@48.1381045,11.5809333,15z/data=!4m6!3m5!1s0x479e756d836d0329:0x57c2b4f7a0fe9290!8m2!3d48.1381045!4d11.5809333!16sg11f62wjwgn)
     
-    [Open map](https://www.google.com/maps/place/WeWork+-+Altstadt-Lehel+-+Private+B%C3%BCrofl%C3%A4chen+und+Coworking/@48.1381045,11.5809333,15z/data=!4m6!3m5!1s0x479e756d836d0329:0x57c2b4f7a0fe9290!8m2!3d48.1381045!4d11.5809333!16s%2Fg%2F11f62wjwgn)
+    [Open map](https://www.google.com/maps/place/WeWork+-+Altstadt-Lehel+-+Private+Broflchen+und+Coworking/@48.1381045,11.5809333,15z/data=!4m6!3m5!1s0x479e756d836d0329:0x57c2b4f7a0fe9290!8m2!3d48.1381045!4d11.5809333!16sg11f62wjwgn)
     
 * Tokyo, JP
     
@@ -524,18 +556,6 @@ Our OfficesSee all Similarweb offices
     
 
 English
-
-* [German](https://www.similarweb.com/de/)
-* [English](https://www.similarweb.com/)
-* [Spanish](https://www.similarweb.com/es/)
-* [French](https://www.similarweb.com/fr/)
-* [Italian](https://www.similarweb.com/it/)
-* [Japanese](https://www.similarweb.com/ja/)
-* [Portuguese](https://www.similarweb.com/pt/)
-* [Turkish](https://www.similarweb.com/tr/)
-* [Simplified Chinese](https://www.similarweb.com/zh/)
-* [Traditional Chinese](https://www.similarweb.com/zh-tw/)
-* [Russian](https://www.similarweb.com/ru/)
 
 * [Categories](https://www.similarweb.com/category/)
 * [Countries](https://www.similarweb.com/country/)
