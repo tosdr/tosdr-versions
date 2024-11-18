@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_1.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
+* [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759)
+* [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758)
+* [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756)
 * [Блинчики с начинкой из лихии](https://www.russianfood.com/recipes/recipe.php?rid=107)
-* [Приправа для мант](https://www.russianfood.com/recipes/recipe.php?rid=653)
 * [Манты, сваренные в воде](https://www.russianfood.com/recipes/recipe.php?rid=656)
 * [Манты, сваренные в плове](https://www.russianfood.com/recipes/recipe.php?rid=657)
 * [Манты с картофелем](https://www.russianfood.com/recipes/recipe.php?rid=658)
 * [Манты из нерубленного мяса](https://www.russianfood.com/recipes/recipe.php?rid=659)
 * [Манты по-андижански](https://www.russianfood.com/recipes/recipe.php?rid=661)
 * [Пельмени](https://www.russianfood.com/recipes/recipe.php?rid=664)
-* [Пельмени из сушеных помидоров](https://www.russianfood.com/recipes/recipe.php?rid=665)
-* [Тесто для лагмана](https://www.russianfood.com/recipes/recipe.php?rid=674)
 
 |     |
 | --- |
@@ -192,7 +192,7 @@
 
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22889#comments) | 17.11.24 |     |
+|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22889#comments) | 17.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(98)
+(138)
