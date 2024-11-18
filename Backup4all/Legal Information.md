@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
+* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
     
-* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
+* [How to install and use backup plugins](https://www.backup4all.com/how-to-download-install-and-use-backup-plugins-kb.html)  
     
-* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
+* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
     
-* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
+* [Google hasn't verified this app error](https://www.backup4all.com/google-hasn-t-verified-this-app-error-kb.html)  
     
-* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
+* [How to back up data files from Caringo using ...](https://www.backup4all.com/how-to-back-up-data-files-from-caringo-using-backup4all-kb.html)  
     
 
 Choose language:
