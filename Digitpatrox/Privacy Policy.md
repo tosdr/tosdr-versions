@@ -20,16 +20,16 @@ Monday, November 18 2024
 
 Latest
 
-* [What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
-* [With SearchGPT, could OpenAI rewrite online search rules — and invite plagiarism? – Computerworld](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
-* [How to Swap Your Google Voice and Regular Phone Number (and Why You Should)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
-* [New ransomware gang claims cyber attack on Bartow County School System and others](https://digitpatrox.com/new-ransomware-gang-claims-cyber-attack-on-bartow-county-school-system-and-others/)
-* [Therabody SleepMask Review – Consumer Reports](https://digitpatrox.com/therabody-sleepmask-review-consumer-reports/)
-* [An Efficient Car Charger for iPhones](https://digitpatrox.com/an-efficient-car-charger-for-iphones/)
-* [MSI Cubi NUC 1M review:](https://digitpatrox.com/msi-cubi-nuc-1m-review/)
-* [Dyson V11 Advanced review: the perfect middle-of-the-road Dyson cordless vacuum](https://digitpatrox.com/dyson-v11-advanced-review-the-perfect-middle-of-the-road-dyson-cordless-vacuum/)
-* [Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://digitpatrox.com/apples-lightning-to-3-5mm-headphone-adapter-may-be-going-away/)
-* [Dragon Age The Veilguard Review: A Misguided Sequel](https://digitpatrox.com/dragon-age-the-veilguard-review-a-misguided-sequel/)
+* [Critical RCE bug in VMware vCenter Server now exploited in attacks](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
+* [The best sleep trackers and sleep tech for 2024](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
+* [Today’s Wordle Answer and Hints (November 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
+* [Can you use a VPN to get Twitter Blue/X Premium?](https://digitpatrox.com/can-you-use-a-vpn-to-get-twitter-blue-x-premium/)
+* [FOI requests show the vast majority of UK data center applications are approved](https://digitpatrox.com/foi-requests-show-the-vast-majority-of-uk-data-center-applications-are-approved/)
+* [Yes, There Is a TweetDeck for Bluesky](https://digitpatrox.com/yes-there-is-a-tweetdeck-for-bluesky/)
+* [Great Plains Regional Medical Center notifies 133K people of data breach that compromised SSNs and medical info](https://digitpatrox.com/great-plains-regional-medical-center-notifies-133k-people-of-data-breach-that-compromised-ssns-and-medical-info/)
+* [How to use Tiny11 ISO to install Windows 11](https://digitpatrox.com/how-to-use-tiny11-iso-to-install-windows-11/)
+* [Best Over-the-Counter Hearing Aids for You](https://digitpatrox.com/best-over-the-counter-hearing-aids-for-you/)
+* [Intel Isn’t Adding 3D V-Cache to Its Consumer CPUs Anytime Soon](https://digitpatrox.com/intel-isnt-adding-3d-v-cache-to-its-consumer-cpus-anytime-soon/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/akyhSdLDh2wY27hWNQmB3h-1200-80.jpg)](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
+* [![](https://www.bleepstatic.com/content/hl-images/2024/11/18/VMware.jpg)](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
     
-    [What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
+    [Critical RCE bug in VMware vCenter Server now exploited in attacks](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
     
-    18 minutes ago
+    3 minutes ago
     
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3606726-0-97942800-1731927848-shutterstock_2496669443.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
+* [![](https://cdn.vox-cdn.com/thumbor/MTpD8-VeiGljwXX2GIMjBaSOd-k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23918681/VRG_Illo_226097_K_Radtke_sleep_buying_guide.jpg)](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
     
-    [With SearchGPT, could OpenAI rewrite online search rules — and invite plagiarism? – Computerworld](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
+    [The best sleep trackers and sleep tech for 2024](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
     
-    38 minutes ago
+    20 minutes ago
     
-* [![](https://lifehacker.com/imagery/articles/01JCREWGDWTV8PDKDCF5M7X5FR/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
+* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
     
-    [How to Swap Your Google Voice and Regular Phone Number (and Why You Should)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
+    [Today’s Wordle Answer and Hints (November 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
     
-    1 hour ago
+    35 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/New-ransomware-gang-claims-cyber-attack-on-Bartow-County-School-System-and-others.jpg)](https://digitpatrox.com/new-ransomware-gang-claims-cyber-attack-on-bartow-county-school-system-and-others/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Can-you-use-a-VPN-to-get-Twitter-Blue-X-Premium_.jpg)](https://digitpatrox.com/can-you-use-a-vpn-to-get-twitter-blue-x-premium/)
     
-    [New ransomware gang claims cyber attack on Bartow County School System and others](https://digitpatrox.com/new-ransomware-gang-claims-cyber-attack-on-bartow-county-school-system-and-others/)
+    [Can you use a VPN to get Twitter Blue/X Premium?](https://digitpatrox.com/can-you-use-a-vpn-to-get-twitter-blue-x-premium/)
     
-    1 hour ago
+    2 hours ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731435038/prod/content/dam/CRO-Images-2024/Rapid-Response/CR-RR-InlineHero-Therabody-SleepMask-11-24)](https://digitpatrox.com/therabody-sleepmask-review-consumer-reports/)
+* [![](https://cdn.mos.cms.futurecdn.net/gvZ5pRwHumEBEES28aLvkE-1200-80.jpg)](https://digitpatrox.com/foi-requests-show-the-vast-majority-of-uk-data-center-applications-are-approved/)
     
-    [Therabody SleepMask Review – Consumer Reports](https://digitpatrox.com/therabody-sleepmask-review-consumer-reports/)
+    [FOI requests show the vast majority of UK data center applications are approved](https://digitpatrox.com/foi-requests-show-the-vast-majority-of-uk-data-center-applications-are-approved/)
     
-    1 hour ago
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,45 +208,45 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [18 minutes ago
+* [3 minutes ago
     
-    ### What has happened to the Right to Repair?](https://digitpatrox.com/what-has-happened-to-the-right-to-repair/)
-* [38 minutes ago
+    ### Critical RCE bug in VMware vCenter Server now exploited in attacks](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
+* [20 minutes ago
     
-    ### With SearchGPT, could OpenAI rewrite online search rules — and invite plagiarism? – Computerworld](https://digitpatrox.com/with-searchgpt-could-openai-rewrite-online-search-rules-and-invite-plagiarism-computerworld/)
-* [1 hour ago
+    ### The best sleep trackers and sleep tech for 2024](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
+* [35 minutes ago
     
-    ### How to Swap Your Google Voice and Regular Phone Number (and Why You Should)](https://digitpatrox.com/how-to-swap-your-google-voice-and-regular-phone-number-and-why-you-should/)
+    ### Today’s Wordle Answer and Hints (November 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
 
 Most Popular Topics
 
-* [3 weeks ago
+* [September 6, 2024
     
-    ### LottieFiles hit in npm supply chain attack targeting users’ crypto](https://digitpatrox.com/lottiefiles-hit-in-npm-supply-chain-attack-targeting-users-crypto/)
-* [August 18, 2024
+    ### UK Regulator Deems Microsoft and Inflection AI’s Partnership a Merger, But Clears It Of Competition Concerns](https://digitpatrox.com/uk-regulator-deems-microsoft-and-inflection-ais-partnership-a-merger-but-clears-it-of-competition-concerns/)
+* [October 2, 2024
     
-    ### The Best Niche Streaming Services For Every Kind of Viewer](https://digitpatrox.com/the-best-niche-streaming-services-for-every-kind-of-viewer/)
-* [September 28, 2024
+    ### The future of data center sustainability? New architectures could slash energy consumption, lower carbon emissions, and drive cost savings](https://digitpatrox.com/the-future-of-data-center-sustainability-new-architectures-could-slash-energy-consumption-lower-carbon-emissions-and-drive-cost-savings/)
+* [4 weeks ago
     
-    ### Welcome to Meta’s future, where everyone wears cameras](https://digitpatrox.com/welcome-to-metas-future-where-everyone-wears-cameras/)
+    ### How to Capture Your Screen in Linux with OBS Studio](https://digitpatrox.com/how-to-capture-your-screen-in-linux-with-obs-studio/)
 
 Last Modified Topics
 
-* [2 hours ago
+* [3 hours ago
     
-    ### MSI Cubi NUC 1M review:](https://digitpatrox.com/msi-cubi-nuc-1m-review/)
-* [2 hours ago
+    ### Great Plains Regional Medical Center notifies 133K people of data breach that compromised SSNs and medical info](https://digitpatrox.com/great-plains-regional-medical-center-notifies-133k-people-of-data-breach-that-compromised-ssns-and-medical-info/)
+* [3 hours ago
     
-    ### Dyson V11 Advanced review: the perfect middle-of-the-road Dyson cordless vacuum](https://digitpatrox.com/dyson-v11-advanced-review-the-perfect-middle-of-the-road-dyson-cordless-vacuum/)
-* [4 hours ago
+    ### How to use Tiny11 ISO to install Windows 11](https://digitpatrox.com/how-to-use-tiny11-iso-to-install-windows-11/)
+* [3 hours ago
     
-    ### Apple’s Lightning-to-3.5mm headphone adapter may be going away](https://digitpatrox.com/apples-lightning-to-3-5mm-headphone-adapter-may-be-going-away/)
+    ### Best Over-the-Counter Hearing Aids for You](https://digitpatrox.com/best-over-the-counter-hearing-aids-for-you/)
 
 Most Viewed Topics
 
-* [August 13, 2024
+* [August 21, 2024
     
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
+    ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
 * [August 12, 2024
     
     ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
