@@ -132,17 +132,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+
+[Own Accelerate
+
+Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
+
 [Compliance
 
 How to Demonstrate DORA Compliance For SaaS Systems](https://www.ownbackup.com/blog/how-to-demonstrate-dora-compliance-for-saas-systems)
-
-[Data Management
-
-How Manufacturers Can Move to The Cloud with Confidence](https://www.ownbackup.com/blog/how-manufacturers-can-move-to-the-cloud-with-confidence)
-
-[Report
-
-Are You Prepared for Data Loss?: 2021 SaaS Data Protection Report](https://www.ownbackup.com/blog/2021-state-of-saas-data-protection)
 
 Company
 
@@ -360,17 +360,17 @@ All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
 
+[Salesforce
+
+Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
+
+[Own Accelerate
+
+Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
+
 [Compliance
 
 How to Demonstrate DORA Compliance For SaaS Systems](https://www.ownbackup.com/blog/how-to-demonstrate-dora-compliance-for-saas-systems)
-
-[Data Management
-
-How Manufacturers Can Move to The Cloud with Confidence](https://www.ownbackup.com/blog/how-manufacturers-can-move-to-the-cloud-with-confidence)
-
-[Report
-
-Are You Prepared for Data Loss?: 2021 SaaS Data Protection Report](https://www.ownbackup.com/blog/2021-state-of-saas-data-protection)
 
 Company
 
