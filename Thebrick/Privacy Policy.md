@@ -4,7 +4,7 @@
 
 [Furniture](https://www.thebrick.com/collections/furniture) [Mattresses](https://www.thebrick.com/collections/mattresses) [Home Decor](https://www.thebrick.com/collections/home-decor) [Appliances](https://www.thebrick.com/collections/appliances) [Electronics](https://www.thebrick.com/collections/electronics) [Small Spaces](https://www.thebrick.com/collections/small-space-furniture)
 
-[My Account](#) [Save](https://www.thebrick.com/pages/deals) [Inspiration](#) [Services](#)
+[My Account](#) [Save](https://www.thebrick.com/pages/deals) [Look Book](#) [Services](#)
 
 * [Français](https://www.brickenligne.com/pages/privacy-policy)
 
@@ -197,8 +197,8 @@ Get Directions
 
 [Back to Menu](#)
 
-* Inspiration
-[My Brick Home](https://www.thebrick.com/blogs/my-brick-home/2024-summer) [Get the Look](https://www.thebrick.com/pages/get-the-look) [Be Inspired Blog](https://www.thebrick.com/blogs/inspiration)
+* Look Book
+[My Brick Home](https://www.thebrick.com/blogs/my-brick-home/2024-summer) [Holiday Decor](https://www.thebrick.com/collections/holiday-decor) [Get the Look](https://www.thebrick.com/pages/get-the-look) [Blog](https://www.thebrick.com/blogs/inspiration)
 
 [Back to Menu](#)
 
@@ -243,7 +243,7 @@ Seller Name
 
 [Small Spaces](#)
 
-[Inspiration](#)
+[Look Book](#)
 
 [Save](#)
 
