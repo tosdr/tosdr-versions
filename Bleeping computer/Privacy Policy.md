@@ -36,18 +36,18 @@
         
         NSO Group used another WhatsApp zero-day after being sued, court docs say](https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/)
     
+    * [![This $25 course deal teaches how the pros use Adobe Creative Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This $25 course deal teaches how the pros use Adobe Creative Cloud](https://www.bleepingcomputer.com/offer/deals/this-25-course-deal-teaches-how-the-pros-use-adobe-creative-cloud/)
+    * [![Microsoft 365 Admin portal abused to send sextortion emails](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Microsoft 365 Admin portal abused to send sextortion emails](https://www.bleepingcomputer.com/news/security/microsoft-365-admin-portal-abused-to-send-sextortion-emails/)
     * [![Phishing emails increasingly use SVG attachments to evade detection](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Phishing emails increasingly use SVG attachments to evade detection](https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
     * [![Security plugin flaw in millions of WordPress sites gives admin access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Security plugin flaw in millions of WordPress sites gives admin access](https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
-    * [![Get $89 off Microsoft Office 2024 in this deal](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Get $89 off Microsoft Office 2024 in this deal](https://www.bleepingcomputer.com/offer/deals/get-89-off-microsoft-office-2024-in-this-deal/)
-    * [![Fake AI video generators infect Windows, macOS with infostealers](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Fake AI video generators infect Windows, macOS with infostealers](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
@@ -442,9 +442,9 @@ Popular Stories
 * [![Malware Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Phishing emails increasingly use SVG attachments to evade detection](https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
-* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![WordPress](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    Palo Alto Networks warns of critical RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/)
+    Security plugin flaw in millions of WordPress sites gives admin access](https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
 * [![AI Hacker Robot Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Fake AI video generators infect Windows, macOS with infostealers](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
