@@ -33,7 +33,7 @@
     * [À propos de la taxe](javascript:;)
 * Paiement et promotion
     
-    * [Coupons et allocations](javascript:;)
+    * [LH\_MENU\_T\_DISCOUNTS\_POINTS\_REDUCTION\_COUPONS\_ALLOWANCES\_FAQ](javascript:;)
     * [Méthodes de payement](javascript:;)
     * [Paiement à la livraison](javascript:;)
     * [Problèmes de paiement](javascript:;)
