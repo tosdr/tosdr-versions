@@ -11,6 +11,7 @@
 [Menu ![mobile menuicon](/wp-content/uploads/2022/02/menu_icon.svg)![mobile menuicon](/wp-content/uploads/2022/02/menu_icon_dark.svg)](#sidewidgetarea) 
 
 * [Funding Opportunities](https://www.theihs.org/funding-opportunities/)
+    * [IHS Funding FAQ](https://www.theihs.org/fundingfaq/)
 * [Events & Programs](https://www.theihs.org/academic-programs/)
     * [Overview](https://www.theihs.org/academic-programs/)
     * [Discussion-Based Events](https://www.theihs.org/academic-programs/discuss-and-collaborate/)
@@ -35,6 +36,7 @@
 ###### Navigation
 
 * [Funding Opportunities](https://www.theihs.org/funding-opportunities/)
+    * [IHS Funding FAQ](https://www.theihs.org/fundingfaq/)
 * [Events & Programs](https://www.theihs.org/academic-programs/)
     * [Overview](https://www.theihs.org/academic-programs/)
     * [Discussion-Based Events](https://www.theihs.org/academic-programs/discuss-and-collaborate/)
