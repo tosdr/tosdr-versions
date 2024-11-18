@@ -38,12 +38,14 @@ Check out
     * [SHOP ALL (3 FOR 2)](https://puresportcbd.com/en-us/collections/all)
     * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
     * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
+    * [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes)
     * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
     * [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms)
     * [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
     * [GIFTING](https://puresportcbd.com/en-us/collections/running-gifts)
     * [GOALS](https://puresportcbd.com/en-us#)
         * [PERFORMANCE](https://puresportcbd.com/en-us/collections/performance-supplements)
+        * [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes)
         * [SLEEP](https://puresportcbd.com/en-us/collections/sleep)
         * [RECOVERY](https://puresportcbd.com/en-us/collections/recovery)
         * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
@@ -63,7 +65,7 @@ Check out
     
     [![](//puresport.co/cdn/shop/files/4.jpg?v=1731926268&width=1920)
     
-    FREE RUNNING CLUP CAP
+    FREE RUNNING CLUB CAP
     
     On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
@@ -144,12 +146,14 @@ Check out
         * [SHOP ALL (3 FOR 2)](https://puresportcbd.com/en-us/collections/all)
         * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
         * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
+        * [ELECTROLYTES](https://puresportcbd.com/en-us/collections/electrolytes)
         * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
         * [FUNCTIONAL MUSHROOMS](https://puresportcbd.com/en-us/collections/functional-mushrooms)
         * [BUNDLES](https://puresportcbd.com/en-us/collections/bundles)
         * [GIFTING](https://puresportcbd.com/en-us/collections/running-gifts)
         * [GOALS](https://puresportcbd.com/en-us#)
             * [PERFORMANCE](https://puresportcbd.com/en-us/collections/performance-supplements)
+            * [HYDRATION](https://puresportcbd.com/en-us/collections/electrolytes)
             * [SLEEP](https://puresportcbd.com/en-us/collections/sleep)
             * [RECOVERY](https://puresportcbd.com/en-us/collections/recovery)
             * [HORMONE BALANCE](https://puresportcbd.com/en-us/collections/hormone-support)
@@ -170,7 +174,7 @@ Check out
     
     [![](//puresport.co/cdn/shop/files/4.jpg?v=1731926268&width=1920)
     
-    FREE RUNNING CLUP CAP
+    FREE RUNNING CLUB CAP
     
     On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
@@ -234,7 +238,7 @@ Check out
 
 [![](//puresport.co/cdn/shop/files/4.jpg?v=1731926268&width=1920)
 
-FREE RUNNING CLUP CAP
+FREE RUNNING CLUB CAP
 
 On all orders over £75](https://puresportcbd.com/en-us/collections/all)
 
