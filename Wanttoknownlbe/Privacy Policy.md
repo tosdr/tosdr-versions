@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/5-000-chinese-elite-troepen-tegen-isis/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/verkiezingen/doen-petitie-tekenen-tegen-de-walvisjacht/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
