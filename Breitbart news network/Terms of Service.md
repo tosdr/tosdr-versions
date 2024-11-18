@@ -56,10 +56,10 @@
 
 * [Breitbart Fight Club](https://web.breitbart.com/fight-club)
 * [Trump Picks Team](https://www.breitbart.com/tag/2024-presidential-election/)
-* [PA Recount](https://www.breitbart.com/tag/pennsylvania/)
+* [WWIII Watch](https://www.breitbart.com/tag/ukraine/)
 * [Media Meltdown](https://www.breitbart.com/the-media/)
 * [Hollywood Hate](https://www.breitbart.com/entertainment/)
-* [Amsterdam Pogroms](https://www.breitbart.com/tag/amsterdam/)
+* [Israel vs Terror](https://www.breitbart.com/tag/israel/)
 
 Terms of Use
 ============
