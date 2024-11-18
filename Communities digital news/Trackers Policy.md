@@ -26,41 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sebelius-1200-x-628-1200x630.jpg)](https://americanwirenews.com/nutty-ex-obama-official-claims-rfk-jr-nomination-will-end-up-killing-people/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-redfield-1200x630.jpg)](https://americanwirenews.com/ex-cdc-boss-makes-shocking-claim-were-covid-may-have-come-from-and-its-not-china/)
 
-[Nutty ex-Obama official claims RFK Jr. nomination will ‘end up killing people’](https://americanwirenews.com/nutty-ex-obama-official-claims-rfk-jr-nomination-will-end-up-killing-people/)
+[Ex-CDC boss makes shocking claim were COVID may have come from, and it’s not China](https://americanwirenews.com/ex-cdc-boss-makes-shocking-claim-were-covid-may-have-come-from-and-its-not-china/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-wilson-1200x630.jpg)](https://americanwirenews.com/rick-wilson-linked-to-dem-op-driving-military-grade-intel-gathering-on-top-trump-allies-like-elon-musk/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-deborak-birx-1200x630.png)](https://americanwirenews.com/dr-birx-surfaces-says-shes-excited-about-rfk-jr-confirmation-hearings/)
 
-[Rick Wilson linked to Dem op driving ‘military grade intel gathering’ on top Trump allies – like Elon Musk](https://americanwirenews.com/rick-wilson-linked-to-dem-op-driving-military-grade-intel-gathering-on-top-trump-allies-like-elon-musk/)
+[Dr. Birx surfaces, says she’s ‘excited’ about RFK Jr. confirmation hearings](https://americanwirenews.com/dr-birx-surfaces-says-shes-excited-about-rfk-jr-confirmation-hearings/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-djt_kamhead-split-1200-x-628-1-1-1200x630.jpg)](https://americanwirenews.com/top-pollster-announces-retirement-after-misfiring-so-badly-on-massively-hyped-iowa-poll/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/twitter-trump-1200x630.png)](https://americanwirenews.com/rfk-jr-being-served-mcdonalds-aboard-trump-force-one-a-target-rich-meme-environment/)
 
-[Top pollster announces retirement after misfiring so badly on massively hyped Iowa poll](https://americanwirenews.com/top-pollster-announces-retirement-after-misfiring-so-badly-on-massively-hyped-iowa-poll/)
+[RFK Jr. being served McDonald’s aboard Trump Force One a target-rich meme environment](https://americanwirenews.com/rfk-jr-being-served-mcdonalds-aboard-trump-force-one-a-target-rich-meme-environment/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gingrich-1200x630.jpg)](https://americanwirenews.com/gingrich-cheers-trumps-amazing-team-including-hegseth-says-pentagon-needs-complete-overhaul/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kashpatel1-1200-x-628-1200x630.jpg)](https://americanwirenews.com/leftists-are-very-very-worried-that-kash-patel-could-be-next-fbi-director/)
 
-[Gingrich cheers Trump’s ‘amazing team,’ including Hegseth, says Pentagon needs ‘complete overhaul’](https://americanwirenews.com/gingrich-cheers-trumps-amazing-team-including-hegseth-says-pentagon-needs-complete-overhaul/)
+[Leftists are very, very worried that Kash Patel could be next FBI director](https://americanwirenews.com/leftists-are-very-very-worried-that-kash-patel-could-be-next-fbi-director/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sadsunny-1200-x-628-1200x630.jpg)](https://americanwirenews.com/race-obsessed-cohost-of-the-view-deletes-account-on-x-whines-about-the-demise-of-black-twitter/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-joe-mushroom-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/slugga-the-regime-plays-the-wwiii-card/)
 
-[Race-obsessed cohost of ‘The View’ deletes account on X, whines about the demise of ‘Black Twitter’](https://americanwirenews.com/race-obsessed-cohost-of-the-view-deletes-account-on-x-whines-about-the-demise-of-black-twitter/)
+[Slugga: The outgoing regime plays the WWIII card](https://americanwirenews.com/slugga-the-regime-plays-the-wwiii-card/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-pentagon-1200x630.jpg)](https://americanwirenews.com/latest-pentagon-audit-dashes-criticism-of-qualified-nominees-to-lead-dod/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-shatner-maher-1200x630.jpg)](https://americanwirenews.com/wiliam-shatner-puzzled-why-kamala-lost-with-great-economy-goes-a-round-with-bill-maher/)
 
-[Latest Pentagon audit dashes criticism of ‘qualified’ nominees to lead DOD](https://americanwirenews.com/latest-pentagon-audit-dashes-criticism-of-qualified-nominees-to-lead-dod/)
+[Wiliam Shatner, puzzled why Kamala lost with great economy, goes a round with Bill Maher](https://americanwirenews.com/wiliam-shatner-puzzled-why-kamala-lost-with-great-economy-goes-a-round-with-bill-maher/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mike-johnson-1200x630.png)](https://americanwirenews.com/i-think-maga-mike-may-make-a-return-in-the-119th-congress-and-im-here-for-it/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-kennedy-cereal-1200x630.jpg)](https://americanwirenews.com/nyts-fact-check-of-rfk-jr-s-claims-about-popular-breakfast-cereal-stuns-social-media/)
 
-[‘I think MAGA Mike may make a return in the 119th Congress and I’m here for it’](https://americanwirenews.com/i-think-maga-mike-may-make-a-return-in-the-119th-congress-and-im-here-for-it/)
+[NYT’s fact-check of RFK Jr.’s claims about popular breakfast cereal stuns social media](https://americanwirenews.com/nyts-fact-check-of-rfk-jr-s-claims-about-popular-breakfast-cereal-stuns-social-media/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-maher-2-1200x630.jpg)](https://americanwirenews.com/bill-maher-bob-casey-trying-to-steal-senate-seat-in-pa-and-no-one-gives-a-fck/)
 
 [Bill Maher: Bob Casey trying to steal Senate seat in PA and ‘no one gives a f\*ck’](https://americanwirenews.com/bill-maher-bob-casey-trying-to-steal-senate-seat-in-pa-and-no-one-gives-a-fck/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hegseth-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-jakeschiff-1200-x-628-1200x630.jpg)
 
-### ‘Not for long’: Pete Hegseth sounds off on gender-neutral wokeness in the US military](https://americanwirenews.com/not-for-long-pete-hegseth-offers-his-take-on-gender-neutral-wokeness-in-the-us-military/)
+### Serial liar Adam Schiff tells CNN’s Tapper that Trump will sic the military on him](https://americanwirenews.com/serial-liar-adam-schiff-tells-cnns-tapper-that-trump-will-sic-the-military-on-him/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
