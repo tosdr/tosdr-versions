@@ -81,9 +81,9 @@ If you're a fan of Creamy Banana Custard Dessert , fruit-based desserts, this Cr
 
 October 18, 2024 / [admin](https://casihelper.com/author/admin/)
 
-  [![No-Bake Colorful Fruit Cake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20819%201024'%3E%3C/svg%3E)
+ [![No-Bake Colorful Fruit Cake](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20819%201024'%3E%3C/svg%3E)
 
- ![No-Bake Colorful Fruit Cake](https://casihelper.com/wp-content/uploads/2024/10/No-Bake-Colorful-Fruit-Cake-819x1024.png)](https://casihelper.com/no-bake-colorful-fruit-cake-a-comprehensive-guide/)
+![No-Bake Colorful Fruit Cake](https://casihelper.com/wp-content/uploads/2024/10/No-Bake-Colorful-Fruit-Cake-819x1024.png)](https://casihelper.com/no-bake-colorful-fruit-cake-a-comprehensive-guide/)
 
 #### [No-Bake Colorful Fruit Cake: A Comprehensive Guide](https://casihelper.com/no-bake-colorful-fruit-cake-a-comprehensive-guide/)
 
