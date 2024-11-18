@@ -1,4 +1,4 @@
-Shop the [Veterans Day Sale](https://www.arlo.com/en-us/veterans-day-sale "Veterans Day Sale") and get up to 50% off best-sellers!
+[Build your own bundle](https://www.arlo.com/en-us/build-your-system-main.html "Bundle Builder") and save up to 25% on best-sellers!
 
 [](# "Menu")
 
@@ -41,9 +41,7 @@ free yard sign!](https://www.arlo.com/en-us/security-bundles "starter kits")
 
 ### Cameras
 
-[SALE
-
-![Essential XL](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw72e2a538/Products/HiRes%20Images/Essential%202/2023/essential-xl-v2-right.png?sw=840&sh=723&sm=fit)
+[![Essential XL](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw72e2a538/Products/HiRes%20Images/Essential%202/2023/essential-xl-v2-right.png?sw=840&sh=723&sm=fit)
 
 Essential XL
 
@@ -59,9 +57,7 @@ Wireless Security Camera
 
 From $179.99](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html)
 
-[SALE
-
-![Essential Outdoor](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw0a248069/Products/HiRes%20Images/Essential%202/2023/essential-v2-right.png?sw=840&sh=723&sm=fit)
+[![Essential Outdoor](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw0a248069/Products/HiRes%20Images/Essential%202/2023/essential-v2-right.png?sw=840&sh=723&sm=fit)
 
 Essential
 
@@ -77,9 +73,7 @@ Wireless Security Camera
 
 From $299.99](https://www.arlo.com/en-us/cameras/ultra/arlo-ultra-2.html)
 
-[SALE
-
-![Arlo Essential Indoor Wired Security Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw3941e9a3/Products/HiRes%20Images/Essential%202/2023/essential-indoor-v2-right.png?sw=840&sh=723&sm=fit)
+[![Arlo Essential Indoor Wired Security Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw3941e9a3/Products/HiRes%20Images/Essential%202/2023/essential-indoor-v2-right.png?sw=840&sh=723&sm=fit)
 
 Essential Indoor
 
@@ -174,9 +168,7 @@ Build a security bundle
 
 [### Cameras](https://www.arlo.com/en-us/cameras "null")
 
-[SALE
-
-![Essential XL](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw72e2a538/Products/HiRes%20Images/Essential%202/2023/essential-xl-v2-right.png?sw=840&sh=723&sm=fit "Essential XL")
+[![Essential XL](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw72e2a538/Products/HiRes%20Images/Essential%202/2023/essential-xl-v2-right.png?sw=840&sh=723&sm=fit "Essential XL")
 
 Essential XL
 
@@ -192,9 +184,7 @@ Wireless Security Camera
 
 From $179.99](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html)
 
-[SALE
-
-![Essential Outdoor](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw0a248069/Products/HiRes%20Images/Essential%202/2023/essential-v2-right.png?sw=840&sh=723&sm=fit "Essential Outdoor")
+[![Essential Outdoor](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw0a248069/Products/HiRes%20Images/Essential%202/2023/essential-v2-right.png?sw=840&sh=723&sm=fit "Essential Outdoor")
 
 Essential
 
@@ -210,9 +200,7 @@ Wireless Security Camera
 
 From $299.99](https://www.arlo.com/en-us/cameras/ultra/arlo-ultra-2.html)
 
-[SALE
-
-![Arlo Essential Indoor Wired Security Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw3941e9a3/Products/HiRes%20Images/Essential%202/2023/essential-indoor-v2-right.png?sw=840&sh=723&sm=fit "Arlo Essential Indoor Wired Security Camera")
+[![Arlo Essential Indoor Wired Security Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw3941e9a3/Products/HiRes%20Images/Essential%202/2023/essential-indoor-v2-right.png?sw=840&sh=723&sm=fit "Arlo Essential Indoor Wired Security Camera")
 
 Essential Indoor
 
@@ -324,9 +312,7 @@ Security Plans
         
         ### Cameras
         
-        * [SALE
-            
-            ![Essential XL](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw72e2a538/Products/HiRes%20Images/Essential%202/2023/essential-xl-v2-right.png?sw=840&sh=723&sm=fit "Essential XL")
+        * [![Essential XL](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw72e2a538/Products/HiRes%20Images/Essential%202/2023/essential-xl-v2-right.png?sw=840&sh=723&sm=fit "Essential XL")
             
             Essential XL
             
@@ -342,9 +328,7 @@ Security Plans
             
             From $179.99](https://www.arlo.com/en-us/cameras/pro/arlo-pro-5.html)
             
-        * [SALE
-            
-            ![Essential Outdoor](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw0a248069/Products/HiRes%20Images/Essential%202/2023/essential-v2-right.png?sw=840&sh=723&sm=fit "Essential Outdoor")
+        * [![Essential Outdoor](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw0a248069/Products/HiRes%20Images/Essential%202/2023/essential-v2-right.png?sw=840&sh=723&sm=fit "Essential Outdoor")
             
             Essential
             
@@ -360,9 +344,7 @@ Security Plans
             
             From $299.99](https://www.arlo.com/en-us/cameras/ultra/arlo-ultra-2.html)
             
-        * [SALE
-            
-            ![Arlo Essential Indoor Wired Security Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw3941e9a3/Products/HiRes%20Images/Essential%202/2023/essential-indoor-v2-right.png?sw=840&sh=723&sm=fit "Arlo Essential Indoor Wired Security Camera")
+        * [![Arlo Essential Indoor Wired Security Camera](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw3941e9a3/Products/HiRes%20Images/Essential%202/2023/essential-indoor-v2-right.png?sw=840&sh=723&sm=fit "Arlo Essential Indoor Wired Security Camera")
             
             Essential Indoor
             
