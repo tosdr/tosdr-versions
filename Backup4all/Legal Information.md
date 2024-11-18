@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup videos with Backup4all](https://www.backup4all.com/backup-videos-with-backup4all-kb.html)  
+* [Backup software](https://www.backup4all.com/backup-software-kb.html)  
     
-* [How to use the command line application](https://www.backup4all.com/how-to-use-the-command-line-application-kb.html)  
+* [How to create a new backup job](https://www.backup4all.com/how-to-create-a-new-backup-job-kb.html)  
     
-* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
+* [How to schedule a backup job or backup tag wi ...](https://www.backup4all.com/how-to-schedule-a-backup-job-or-backup-tag-without-using-backup4ll-kb.html)  
     
-* [Using Backup4all - FAQ 5](https://www.backup4all.com/using-backup4all-faq-5-kb.html)  
+* [How to schedule multiple backup jobs at once](https://www.backup4all.com/how-to-schedule-multiple-backup-jobs-at-once-kb.html)  
     
-* [How to create a new task using Windows Task S ...](https://www.backup4all.com/how-to-create-a-new-task-using-windows-task-scheduler-kb.html)  
+* [How to deactivate Backup4all](https://www.backup4all.com/how-to-deactivate-backup4all-kb.html)  
     
 
 Choose language:
