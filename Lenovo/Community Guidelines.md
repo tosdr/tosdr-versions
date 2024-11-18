@@ -165,107 +165,9 @@ Hamburger Menu
     
     [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
     
-    **Order Support:**
-    
-    [Order Lookup >](https://www.lenovo.com/us/en/trackmyorder)
-    
-    [Visit Order Support Page >](https://www.lenovo.com/us/en/contact/order-support/)
-    
-    [**Technical Support >**](https://support.lenovo.com/us/en)
-    
-
-* [Lenovo Pro Business Store
-    
-    **Lenovo Pro** Business Store
-    
-    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
-    
-    Lenovo Pro Business Store
-    
-    [**Log In / Sign Up**](https://www.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage "Log In / Sign Up")
-    
-    [**Learn More**](https://www.lenovo.com/us/en/business/benefits/ "Learn More")
-    
-    [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
-    
       
     
-* Accessibility
-    
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)
-    
-    Accessibility
-    
-* Contact Us
-    
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{contactNumber}}
-    
-    Contact Us
-    
-    **Sales:**
-    
-    Home:
-    
-    [{{SalesNumber}}](tel:{{SalesNumber}})
-    
-    Business:
-    
-    [{{SmallBusinessNumber}}](tel:{{SmallBusinessNumber}})
-    
-    [Chat Now >](https://www.lenovo.com/us/en/contact/sales-support/)
-    
-    [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
-    
-    **Order Support:**
-    
-    [Order Lookup >](https://www.lenovo.com/us/en/trackmyorder)
-    
-    [Visit Order Support Page >](https://www.lenovo.com/us/en/contact/order-support/)
-    
-    [**Technical Support >**](https://support.lenovo.com/us/en)
-    
-
-* [Lenovo Pro Business Store
-    
-    **Lenovo Pro** Business Store
-    
-    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
-    
-    Lenovo Pro Business Store
-    
-    [**Log In / Sign Up**](https://www.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage "Log In / Sign Up")
-    
-    [**Learn More**](https://www.lenovo.com/us/en/business/benefits/ "Learn More")
-    
-    [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
-    
-      
-    
-* Accessibility
-    
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)
-    
-    Accessibility
-    
-* Contact Us
-    
-    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{contactNumber}}
-    
-    Contact Us
-    
-    **Sales:**
-    
-    Home:
-    
-    [{{SalesNumber}}](tel:{{SalesNumber}})
-    
-    Business:
-    
-    [{{SmallBusinessNumber}}](tel:{{SmallBusinessNumber}})
-    
-    [Chat Now >](https://www.lenovo.com/us/en/contact/sales-support/)
-    
-    [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
+    [Holiday Hours >](https://www.lenovo.com/us/en/contact/sales-support/)
     
     **Order Support:**
     
@@ -318,6 +220,10 @@ Hamburger Menu
     
     [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
     
+      
+    
+    [Holiday Hours >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
     **Order Support:**
     
     [Order Lookup >](https://www.lenovo.com/us/en/trackmyorder)
@@ -369,6 +275,10 @@ Hamburger Menu
     
     [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
     
+      
+    
+    [Holiday Hours >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
     **Order Support:**
     
     [Order Lookup >](https://www.lenovo.com/us/en/trackmyorder)
@@ -419,6 +329,120 @@ Hamburger Menu
     [Chat Now >](https://www.lenovo.com/us/en/contact/sales-support/)
     
     [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+      
+    
+    [Holiday Hours >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+    **Order Support:**
+    
+    [Order Lookup >](https://www.lenovo.com/us/en/trackmyorder)
+    
+    [Visit Order Support Page >](https://www.lenovo.com/us/en/contact/order-support/)
+    
+    [**Technical Support >**](https://support.lenovo.com/us/en)
+    
+
+* [Lenovo Pro Business Store
+    
+    **Lenovo Pro** Business Store
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
+    
+    Lenovo Pro Business Store
+    
+    [**Log In / Sign Up**](https://www.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage "Log In / Sign Up")
+    
+    [**Learn More**](https://www.lenovo.com/us/en/business/benefits/ "Learn More")
+    
+    [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
+    
+      
+    
+* Accessibility
+    
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)
+    
+    Accessibility
+    
+* Contact Us
+    
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{contactNumber}}
+    
+    Contact Us
+    
+    **Sales:**
+    
+    Home:
+    
+    [{{SalesNumber}}](tel:{{SalesNumber}})
+    
+    Business:
+    
+    [{{SmallBusinessNumber}}](tel:{{SmallBusinessNumber}})
+    
+    [Chat Now >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+    [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+      
+    
+    [Holiday Hours >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+    **Order Support:**
+    
+    [Order Lookup >](https://www.lenovo.com/us/en/trackmyorder)
+    
+    [Visit Order Support Page >](https://www.lenovo.com/us/en/contact/order-support/)
+    
+    [**Technical Support >**](https://support.lenovo.com/us/en)
+    
+
+* [Lenovo Pro Business Store
+    
+    **Lenovo Pro** Business Store
+    
+    arrow-top Created with Sketch.](https://www.lenovo.com/us/en/business/benefits/)
+    
+    Lenovo Pro Business Store
+    
+    [**Log In / Sign Up**](https://www.lenovo.com/us/lenovopro/en/smbaccount/gatekeeper/showpage "Log In / Sign Up")
+    
+    [**Learn More**](https://www.lenovo.com/us/en/business/benefits/ "Learn More")
+    
+    [**Community**](https://smbcommunity.lenovo.com/us/ "Community")
+    
+      
+    
+* Accessibility
+    
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif)
+    
+    Accessibility
+    
+* Contact Us
+    
+    ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) ![](https://p1-ofp.static.pub/fes/cms/2022/04/24/9acl3tplp3k9x0wntpftwilmf04bdr060873.gif) {{contactNumber}}
+    
+    Contact Us
+    
+    **Sales:**
+    
+    Home:
+    
+    [{{SalesNumber}}](tel:{{SalesNumber}})
+    
+    Business:
+    
+    [{{SmallBusinessNumber}}](tel:{{SmallBusinessNumber}})
+    
+    [Chat Now >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+    [Visit Sales Support Page >](https://www.lenovo.com/us/en/contact/sales-support/)
+    
+      
+    
+    [Holiday Hours >](https://www.lenovo.com/us/en/contact/sales-support/)
     
     **Order Support:**
     
