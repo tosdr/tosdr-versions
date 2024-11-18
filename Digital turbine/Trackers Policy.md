@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=2666130&fmt=gif) 
+![](https://px.ads.linkedin.com/collect/?pid=2666130&fmt=gif)  
 
 [Learn More About the Alternative App Future](https://www.digitalturbine.com/alternative-future)
 
@@ -155,15 +155,14 @@ On behalf of the website operator, Google will use this information for the purp
 Appendix A: Tracking Technologies Table
 =======================================
 
-### _**Strictly Essential Cookies**_
+#### Strictly Essential Cookies
 
 These cookies are strictly essential for enabling your movement around the Website and supporting the Website’s security features.
 
 This category of cookies cannot be disabled.
 
-|     |     |     |     |
+| Name | Provider | Purpose | Expiry |
 | --- | --- | --- | --- |
-| **Name** | **Provider** | **Purpose** | **Expiry** |
 | visitor\_id<accountid> | SalesForce | Automation visitor ID; no personally identifiable information, used for enabling population of assets for B2B inquiries; ensure that if a B2B inquiry is made, the best geographically located resource assists with the inquiry. | Persistent |
 | visitor\_id<accountid>-hash | SalesForce | The visitor hash cookie contains the account ID and stores a unique hash. This cookie is a security measure to make sure that a malicious user can’t fake a visitor from Pardot and access corresponding prospect information. | Persistent |
 | pardot | SalesForce | A session cookie named pardot is set in your browser while you’re logged in to Pardot as a user or when a visitor accesses a form, landing page, or page with Pardot tracking code. The cookie denotes an active session and isn’t used for tracking. | Persistent |
@@ -180,33 +179,32 @@ This category of cookies cannot be disabled.
 
 ### The legal basis is Art. 6 (1) p. 1 lit. a GDPR – see above.
 
-### _Marketing Cookies_
+#### Marketing Cookies
 
 Marketing cookies collect personal information such as your name, which pages you visit on this Website, your history arriving at this Website, your purchases from us, and so on. Collected information is used to evaluate and improve the effectiveness of our marketing campaigns.
 
 This category of cookie may be safely disabled.
 
-|     |     |     |     |
+| Name | Provider | Purpose | Expiry |
 | --- | --- | --- | --- |
-| **Name** | **Provider** | **Purpose** | **Expiry** |
-| \_\_Secure-3PAPISID | Google | Used by for targeting purposes to build a profile of the website visitor’s interests in order to show relevant & personalised Google advertising | Persistent |
-| \_\_Secure-3PSID | Google | Used by for targeting purposes to build a profile of the website visitor’s interests in order to show relevant & personalised Google advertising | Persistent |
-| \_\_Secure-3PSIDCC | Google | Used by for targeting purposes to build a profile of the website visitor’s interests in order to show relevant & personalised Google advertising | Persistent |
-| \_fbp | Facebook | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers | Persistent |
-| ANID | Google | Google uses this cookies to make advertising more engaging to users and more valuable to publishers and advertisers | Persistent |
-| APISID | Google | Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
-| HSID | Google | Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Session |
-| NID | Google | This cookies is used to collect website statistics and track conversion rates and Google ad personalisation | Persistent |
-| SAPISID | Google | Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
-| SID | Google | Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
-| SIDCC | Google | Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Session |
-| SSID | Google | Download certain Google Tools and save certain preferences, for example the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
-| \_\_widgetsettings | twitter | This cookie is set by Twitter – The cookie allows the visitor to share content from the website onto their Twitter profile. | Persistent |
+| \_\_Secure-3PAPISID | Google | Used for targeting purposes to build a profile of the website visitor’s interests in order to show relevant & personalized Google advertising | Persistent |
+| \_\_Secure-3PSID | Google | Used for targeting purposes to build a profile of the website visitor’s interests in order to show relevant & personalized Google advertising | Persistent |
+| \_\_Secure-3PSIDCC | Google | Used for targeting purposes to build a profile of the website visitor’s interests in order to show relevant & personalized Google advertising | Persistent |
+| \_fbp | Facebook | Used by Facebook to deliver a series of advertisement products such as real-time bidding from third-party advertisers | Persistent |
+| ANID | Google | Google uses this cookie to make advertising more engaging to users and more valuable to publishers and advertisers | Persistent |
+| APISID | Google | Downloads certain Google Tools and saves certain preferences, for example, the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
+| HSID | Google | Downloads certain Google Tools and saves certain preferences, for example, the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Session |
+| NID | Google | This cookie is used to collect website statistics and track conversion rates and Google ad personalization. | Persistent |
+| SAPISID | Google | Downloads certain Google Tools and saves certain preferences, for example, the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
+| SID | Google | Downloads certain Google Tools and saves certain preferences, for example, the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
+| SIDCC | Google | Downloads certain Google Tools and saves certain preferences, for example, the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Session |
+| SSID | Google | Downloads certain Google Tools and saves certain preferences, for example, the number of search results per page or activation of the SafeSearch Filter. Adjusts the ads that appear in Google Search. | Persistent |
+| \_\_widgetsettings | Twitter | This cookie is set by Twitter – The cookie allows the visitor to share content from the website onto their Twitter profile. | Persistent |
 | ads\_ga-audiences | Google | Used by Google AdWords to re-engage visitors that are likely to convert to customers based on the visitor’s online behaviour across websites. | Persistent |
 | bcookie | LinkedIn |     | Session |
 | bscookie | LinkedIn | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | Persistent |
-| fr  | FaceBook | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | Persistent |
-| i/jot | twitter | Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. | Persistent |
+| fr  | Facebook | Used by Facebook to deliver a series of advertisement products such as real time bidding from third party advertisers. | Persistent |
+| i/jot | Twitter | Sets a unique ID for the visitor, that allows third party advertisers to target the visitor with relevant advertisement. This pairing service is provided by third party advertisement hubs, which facilitates real-time bidding for advertisers. | Persistent |
 | lidc | LinkedIn | Used by the social networking service, LinkedIn, for tracking the use of embedded services. | Persistent |
 | pagead/1p-user-list/# | Google | Tracks if the user has shown interest in specific products or events across multiple websites and detects how the user navigates between sites. This is used for measurement of advertisement efforts and facilitates payment of referral-fees between websites. | Persistent |
 | pagead/landing | Google | Collects data on visitor behaviour from multiple websites, in order to present more relevant advertisement – This also allows the website to limit the number of times that they are shown the same advertisement. | Persistent |
@@ -235,42 +233,40 @@ This category of cookie may be safely disabled.
 | CONSENT | Google | Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website. | Persistent |
 | outbrain\_cid\_fetch | Outbrain | Collects data on the user’s navigation and behavior on the website. This is used to compile statistical reports and heatmaps for the website owner. | Persistent |
 
-### Product/Service Enhancement Cookies
+#### Product/Service Enhancement Cookies
 
 Collecting and analyzing data, including personal data, to understand how you use our products and services so we can improve them; we may set cookies or other trackers for this purpose.
 
 This category of cookie may be safely disabled.
 
-|     |     |     |     |
+| Name | Provider | Purpose | Expiry |
 | --- | --- | --- | --- |
-| **Name** | **Provider** | **Purpose** | **Expiry** |
-| 1P\_JAR | Google | These cookies are set via embedded youtube-videos. They register anonymous statistical data on for example how many times the video is displayed and what settings are used for playback. | Persistent |
-| yt-remote-cast-installed | youtube | Stores the user’s video player preferences using embedded YouTube video | Session |
-| yt-remote-fast-check-period | Google | Stores the user’s video player preferences using embedded YouTube video | Session |
-| yt-remote-session-name | Youtube | Stores the user’s video player preferences using embedded YouTube video | Session |
-| local\_storage\_support\_test | twitter | The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures. | Persistent |
-| yt-remote-connected-devices | youtube | Stores the user’s video player preferences using embedded YouTube video | Persistent |
-| yt-remote-session-app | Youtube | Stores the user’s video player preferences using embedded YouTube video | Session |
+| 1P\_JAR | Google | These cookies are set via embedded YouTube videos. They register anonymous statistical data, such as how many times the video is displayed and the playback settings used. | Persistent |
+| yt-remote-cast-installed | YouTube | Stores the user’s video player preferences using embedded YouTube video. | Session |
+| yt-remote-fast-check-period | Google | Stores the user’s video player preferences using embedded YouTube video. | Session |
+| yt-remote-session-name | YouTube | Stores the user’s video player preferences using embedded YouTube video. | Session |
+| local\_storage\_support\_test | Twitter | The cookie is used in context with the local-storage function in the browser. This function allows the website to load faster by pre-loading certain procedures. | Persistent |
+| yt-remote-connected-devices | YouTube | Stores the user’s video player preferences using embedded YouTube video. | Persistent |
+| yt-remote-session-app | YouTube | Stores the user’s video player preferences using embedded YouTube video. | Session |
 | wglang | WordPress |     | Persistent |
 
-### _Business Enhancing Research & Analytics Cookies_
+#### Business Enhancing Research & Analytics Cookies
 
 General business-driving analytics, including activities such as lookalike modeling and website analytics; we may set cookies or other trackers for this purpose.
 
 This category of cookie may be safely disabled.
 
-|     |     |     |     |
+| Name | Provider | Purpose | Expiry |
 | --- | --- | --- | --- |
-| **Name** | **Provider** | **Purpose** | **Expiry** |
 | \_ga | Google Analytics | ID used to identify users | Persistent |
 | \_gat | Google Analytics | Used by Google Analytics to throttle request rate | Persistent |
-| BE\_CLA3 | Brightedge | Enables data aggregation, analysis and report creation to assess marketing effectiveness and for website performance | Persistent |
+| BE\_CLA3 | Brightedge | Enables data aggregation, analysis, and report creation to assess marketing effectiveness and website performance | Persistent |
 | \_gid | Google Analytics | ID used to identify users for 24 hours after last activity | Persistent |
-| AnalyticsSyncHistory | LinkedIn | Used in connection with data-synchronization with third-party analysis service. | Persistent |
-| brightedge3.php | brighhtedge |     | Session |
-| collect | google | Used to send data to Google Analytics about the visitor’s device and behavior. Tracks the visitor across devices and marketing channels. | Session |
+| AnalyticsSyncHistory | LinkedIn | Used in connection with data synchronization with third-party analysis services | Persistent |
+| brightedge3.php | Brightedge |     | Session |
+| collect | Google | Used to send data to Google Analytics about the visitor’s device and behavior. Tracks the visitor across devices and marketing channels. | Session |
 | pa  | Pingdom | Registers the website’s speed and performance. This function can be used in context with statistics and load-balancing. | Persistent |
-| VISITOR\_INFO1\_LIVE | Youtube | Tries to estimate the users’ bandwidth on pages with integrated YouTube videos. | Persistent |
+| VISITOR\_INFO1\_LIVE | YouTube | Tries to estimate the users’ bandwidth on pages with integrated YouTube videos. | Persistent |
 
 [![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661917c5a7cc10c6a4630e9f_logo-digital-turbine.svg)![](https://cdn.prod.website-files.com/6618e372884cbd97db033ea4/661d1550ed5858b5b592dd33_DT%20footer%20mobile%20logo.svg)](https://www.digitalturbine.com/)
 
