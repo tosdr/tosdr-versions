@@ -608,11 +608,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-33%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
+6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-31%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
     
     **[Farming Simulator 25 PC](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
-    Special Price $35.69 RRP $53.49
+    Special Price $36.99 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
