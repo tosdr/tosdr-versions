@@ -55,7 +55,7 @@ Stay Informed Sign up for our email updates
 Follow Us:
 
 * [](https://www.facebook.com/StorylineOnline)
-* [](https://twitter.com/StorylineOnline)
+* [](https://x.com/StorylineOnline)
 * [](https://www.youtube.com/StorylineOnline)
 * [![](https://storylineonline.net/wp-content/uploads/2023/08/2-Instagram-1.png)](https://www.instagram.com/storylineonline/)
 
