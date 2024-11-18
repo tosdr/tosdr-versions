@@ -1,24 +1,24 @@
-[Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+[Get 15%, 20% or 30% on your first year, discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
 
-Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+Get 15%, 20% or 30% on your first year, discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
 
-Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+Get 15%, 20% or 30% on your first year, discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
 
-Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+Get 15%, 20% or 30% on your first year, discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
 
-Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+Get 15%, 20% or 30% on your first year, discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)
 
-Get 15%, 20% or 30% discount on our plans just for black friday, chat now and stay safe
+Get 15%, 20% or 30% on your first year, discount on our plans just for black friday, chat now and stay safe
 
 ![Offer](https://sucuri.net/wp-content/uploads/2024/11/Offer.svg)](https://sucuri.net/live-chat/)
 
@@ -162,12 +162,3 @@ Let’s Connect
 [](#top "Going Top")
 
 [back to top](#top "Going Top")
-
-X
-
-Sucuri Cookie Policy  
-[See our policy>>](https://sucuri.net/cookies)
-
-Our website uses cookies, which help us to improve our site and enables us to deliver the best possible service and customer experience.
-
-Accept Decline Manage Options
