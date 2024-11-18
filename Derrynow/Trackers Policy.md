@@ -268,13 +268,6 @@ PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star A
 [PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards](https://www.derrynow.com/news/national-news/1657816/pictures-glitz-glam-and-gaa-as-players-turn-out-for-ladies-football-all-star-awards.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Ireland v England - TV channel, team news and betting odds for Nations League tie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ireland v England - TV channel, team news and betting odds for Nations League tie")](https://www.derrynow.com/news/soccer/1657887/ireland-v-england-tv-channel-team-news-and-betting-odds-for-nations-league-tie.html)
 
 Ireland v England - TV channel, team news and betting odds for Nations League tie
@@ -284,13 +277,6 @@ Ireland v England - TV channel, team news and betting odds for Nations League ti
 [Ireland v England - TV channel, team news and betting odds for Nations League tie](https://www.derrynow.com/news/soccer/1657887/ireland-v-england-tv-channel-team-news-and-betting-odds-for-nations-league-tie.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![NSPCC NI announces 'Letter from Santa' campaign this festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NSPCC NI announces 'Letter from Santa' campaign this festive season")](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Translink’s Stuff a Bus initiative providing vital support locally this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink’s Stuff a Bus initiative providing vital support locally this Christmas")](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
 
 Translink staff Bridgeen, Marty, Helen, Kyle and Lisa.
@@ -299,6 +285,13 @@ Translink staff Bridgeen, Marty, Helen, Kyle and Lisa.
 
 [Translink’s Stuff a Bus initiative providing vital support locally this Christmas](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![NSPCC NI announces 'Letter from Santa' campaign this festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NSPCC NI announces 'Letter from Santa' campaign this festive season")](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![MacD on Music: The Marra Is A New Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Marra Is A New Day")](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
 
@@ -315,6 +308,13 @@ The Marra
 
 [Police investigate loyalist link to arson attack in Newtownards](https://www.derrynow.com/news/northern-ireland/1658018/police-investigate-loyalist-link-to-arson-attack-in-newtownards.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -496,6 +496,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Translink’s Stuff a Bus initiative providing vital support locally this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink’s Stuff a Bus initiative providing vital support locally this Christmas")](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
 
 Translink staff Bridgeen, Marty, Helen, Kyle and Lisa.
@@ -505,7 +512,7 @@ Translink staff Bridgeen, Marty, Helen, Kyle and Lisa.
 [Translink’s Stuff a Bus initiative providing vital support locally this Christmas](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![MacD on Music: The Marra Is A New Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Marra Is A New Day")](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
+[![MacD on Music: The Marra Is A New Day](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IDNM_18-11-24_music_column-1731683858769_1731683878.jpg--.jpg?1731683878375 "MacD on Music: The Marra Is A New Day")](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
 
 The Marra
 
@@ -536,13 +543,6 @@ Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcal
 
 [Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/resizer/165/93/true/2024_11_14/Western_Trust_Human_Milk_Bank-1731601412648.jpg--.jpg?1731601412670 "Western Trust makes appeal for lifesaving donor breast milk")](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Western Trust makes appeal for lifesaving donor breast milk](https://www.derrynow.com/news/local-news/1656054/western-trust-makes-appeal-for-lifesaving-donor-breast-milk.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
