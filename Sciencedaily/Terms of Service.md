@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 17, 2024**
+**November 18, 2024**
 
 * * *
 
@@ -253,23 +253,23 @@ this week
 
 [Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
 
-[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Biochemistry](https://www.sciencedaily.com/news/matter_energy/biochemistry/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
+
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
 [Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
 [Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
-
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
   
 
