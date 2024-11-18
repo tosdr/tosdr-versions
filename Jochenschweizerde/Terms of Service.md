@@ -41,6 +41,7 @@ Benutzerkonto
         * [Außergewöhnlich übernachten](https://www.jochen-schweizer.de/reisen/aussergewoehnliche-hotels/l/o6sv4)
         * [Wellnessurlaub](https://www.jochen-schweizer.de/reisen/wellness-reisen/l/6vq79)
         * [Romantikurlaub](https://www.jochen-schweizer.de/reisen/romantikurlaub/l/id6cv)
+        * [Hausboot mieten](https://www.jochen-schweizer.de/reisen/hausboot-erlebnisse/l/v5hmo)
     * [Motorpower](https://www.jochen-schweizer.de/motorpower/l/p6jmw)
         * [Alles in Motorpower](https://www.jochen-schweizer.de/motorpower/l/p6jmw)
         * [Quad fahren](https://www.jochen-schweizer.de/motorpower/quad-fahren/l/5sodr)
@@ -148,6 +149,7 @@ Benutzerkonto
     * [Außergewöhnlich übernachten](https://www.jochen-schweizer.de/reisen/aussergewoehnliche-hotels/l/o6sv4)
     * [Wellnessurlaub](https://www.jochen-schweizer.de/reisen/wellness-reisen/l/6vq79)
     * [Romantikurlaub](https://www.jochen-schweizer.de/reisen/romantikurlaub/l/id6cv)
+    * [Hausboot mieten](https://www.jochen-schweizer.de/reisen/hausboot-erlebnisse/l/v5hmo)
     
 * Geschenke für
     
@@ -226,10 +228,12 @@ Benutzerkonto
     * [Firmenveranstaltungen](https://b2b.jochen-schweizer.de/firmenevents/)
     
 * [Neuheiten](https://www.jochen-schweizer.de/neuheiten/l/n5smg)
-* [Weihnachten](https://www.jochen-schweizer.de/geschenke/weihnachtsgeschenke/l/8piw6)
+* [Black Week](https://www.jochen-schweizer.de/landingpage/blackweek/l/7fo8g)
 
 1. [Home](https://www.jochen-schweizer.de/)/
 2. Nutzungsbedingungen
+
+[![](https://main.static.jsmd-group.com/assets/new_default_upload_bucket/SNB_desktop_250x120_Black%20Week24.jpg)](https://www.jochen-schweizer.de/landingpage/blackweek/l/7fo8g)
 
 * [Alle Erlebnisse](https://www.jochen-schweizer.de/alle-erlebnisse/l/79ifa)
 * [Fliegen & Fallen](https://www.jochen-schweizer.de/fliegen-fallen/l/p3if5)
