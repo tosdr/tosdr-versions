@@ -485,12 +485,13 @@ Chicago’s Famous Tavern-Style Thin Crust Pizza
 More
 ----
 
-* [Sponsorship & Donation](https://www.homeruninnpizza.com/fundraising-sponsorship-request/)
 * [Fundraising](https://www.homeruninnpizza.com/fundraising/)
+* [Sponsorship & Donation](https://www.homeruninnpizza.com/fundraising-sponsorship-request/)
+* [School Hot Lunch](https://www.homeruninnpizza.com/catering/hot-lunch/)
+* [Dock Sale](https://docksale.raiselysite.com/)
 * [Baking Instructions](https://www.homeruninnpizza.com/frozen-pizza/baking-instructions/)
 * [Grilling Instructions](https://www.homeruninnpizza.com/frozen-pizza/grilling-instructions/)
 * [Promotions](https://www.homeruninnpizza.com/promotions/)
-* [School Hot Lunch](https://www.homeruninnpizza.com/catering/hot-lunch/)
 
 About Us
 --------
