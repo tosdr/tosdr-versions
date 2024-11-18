@@ -320,15 +320,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-There are ten different species of dragons in the magical world of Harry Potter.
+Peeves was never a living person. He is not a ghost but an indestructible spirit of chaos, who can unscrew chandeliers, throw walking sticks, and generally cause mayhem.
 
 ### Potter History
 
-March 7, 2006 – The Harry Potter and the Goblet of Fire DVD is released in the United States and Canada.
+January 6, 2006 – Harry Potter and the Half-Blood Prince is announced as the best-selling book of 2005 with sales tallying $7.02m – astonishing seeing as the book was released in July, halfway through the year.
 
 ### Potter Quote
 
-“But you’re Muggles! We must have a drink! What’s that you’ve got there? Oh, you’re changing Muggle money. Molly, look!”
+“Curiosity is not a sin. But we should exercise caution with our curiosity.”
 
 [](#)
 
