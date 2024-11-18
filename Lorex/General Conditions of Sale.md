@@ -907,7 +907,7 @@ Lorex products are designed for consumer and business use only and not for US fe
 
 **© 2024 Lorex Corporation**
 
-Amazon American Express Apple Pay Diners Club Discover Google Pay JCB Maestro Mastercard PayPal Shop Pay Union Pay Venmo Visa
+American Express Apple Pay Diners Club Discover Google Pay JCB Maestro Mastercard PayPal Shop Pay Union Pay Venmo Visa
 
 ×
 
