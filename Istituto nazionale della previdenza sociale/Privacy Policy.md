@@ -1935,6 +1935,7 @@ Torna su
 * [Patto con l'utenza](https://www.inps.it/it/it/patto-con-l-utenza.html)
 * [Rss](https://www.inps.it/it/it/rss.html)
 * [Moduli](https://www.inps.it/it/it/moduli.html)
+* [Inps.design](https://www.inps.it/it/it/inps-comunica/inps--inclusione-e-innovazione/trasformazione-digitale-e-innovazione-tecnologica/Inps-design.html)
 
 [Sedi e Contatti](https://www.inps.it/it/it/sedi-e-contatti.html "Sedi e Contatti")
 
