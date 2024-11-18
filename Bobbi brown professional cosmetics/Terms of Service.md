@@ -2,7 +2,7 @@
 
 Previous
 
-[Get a free bestsellers set on $85+ ($55 value). Use code: bests at checkout.](https://www.bobbibrowncosmetics.com/offers-landing-page)
+[Play our scratch-off game to win an exclusive beauty offer. Play now.](https://www.bobbibrowncosmetics.com/holiday-scratch-off-game)
 
 [Join our mailing list and get 15% off your first order.](https://www.bobbibrowncosmetics.com/account/signin.tmpl)
 
@@ -285,6 +285,8 @@ HOLIDAY GIFT GUIDE
 Special offers
 
 [See Today's Offer](https://www.bobbibrowncosmetics.com/offers-landing-page "See Today's Offer")
+
+[Scratch Off To Win](https://www.bobbibrowncosmetics.com/holiday-scratch-off-game "Scratch Off To Win")
 
 [Up to 30% off Last Chance](https://www.bobbibrowncosmetics.com/products/16111/Makeup/last-call "Up to 30% off Last Chance")
 
