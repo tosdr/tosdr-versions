@@ -88,7 +88,7 @@
 
 #### Search site
 
-Search ... 
+Search 
 
 ×
 
