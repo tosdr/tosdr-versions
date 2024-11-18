@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_16x9.jpg) ![](https://media.king5.com/assets/KING/images/a181af51-2fff-4840-b7e7-3ff8ec84a8f4/20240505T184202/a181af51-2fff-4840-b7e7-3ff8ec84a8f4_360x203.jpg)](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-despidos-boeing-inundaciones-severas-centroamrica/281-f77d4939-c481-46f4-a3ee-14a7fda94fa3)
+    *  [![](https://media.king5.com/assets/KING/images/b9c2a652-9887-41ed-ad69-2feb339305d3/20241118T013310/b9c2a652-9887-41ed-ad69-2feb339305d3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b9c2a652-9887-41ed-ad69-2feb339305d3/20241118T013310/b9c2a652-9887-41ed-ad69-2feb339305d3_360x203.jpg)](https://www.king5.com/article/news/crime/bellevue-police-search-driver-involved-hit-and-run-71-year-old-woman-injured/281-0c41830c-2ab8-4315-8b7f-12d1646fe343)
         
-        #### [Cinco Cosas: Despidos de Boeing, inundaciones severas en Centroamérica](https://www.king5.com/article/news/local/en-espanol/cinco-cosas-despidos-boeing-inundaciones-severas-centroamrica/281-f77d4939-c481-46f4-a3ee-14a7fda94fa3)
+        #### [Hit-and-run driver accused of crashing into elderly woman in Bellevue has not been caught, police say](https://www.king5.com/article/news/crime/bellevue-police-search-driver-involved-hit-and-run-71-year-old-woman-injured/281-0c41830c-2ab8-4315-8b7f-12d1646fe343)
         
-    *  [![](https://media.king5.com/assets/KING/images/84426968-f159-4d05-b942-d3d6ac16062c/20241117T174434/84426968-f159-4d05-b942-d3d6ac16062c_16x9.jpg) ![](https://media.king5.com/assets/KING/images/84426968-f159-4d05-b942-d3d6ac16062c/20241117T174434/84426968-f159-4d05-b942-d3d6ac16062c_360x203.jpg)](https://www.king5.com/article/news/local/mi-centro-tacoma-bilingual-events-support-healthy-family-dialogue/281-4d5f0436-da59-4fa8-9ef3-6168cb7bef3b)
+    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
-        #### [Mi Centro of Tacoma offers bilingual events to support healthy family dialogue](https://www.king5.com/article/news/local/mi-centro-tacoma-bilingual-events-support-healthy-family-dialogue/281-4d5f0436-da59-4fa8-9ef3-6168cb7bef3b)
+        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
         #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
+    *  [![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-48°
+45°
 
-![Light Rain](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
