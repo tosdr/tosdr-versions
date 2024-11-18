@@ -1,18 +1,18 @@
 [Skip to main content](#main-content)
 
-Buy 1 Get 1 FREE Sitewide! DETAILS
+Save 50% Sitewide! DETAILS
 
-BUY 1 GET 1 FREE SITEWIDE
+CYBER MONDAY TRAINING RUN
 
 Close the Modal
 
-#### Mix & match or double up — add 2 products to cart and 1 will be free!
+#### Save 50% Sitewide!
 
 [SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
 
-Offer valid 11/16/2024 8AM ET - 11/17/2024 6AM ET.
+Offer valid 11/18/2024 8AM ET - 11/19/2024 6AM ET.
 
-To receive Buy 1 Get 1 Free discount, must add two (2) full-price products to cart. Discount automatically applied on lowest priced item. Exclusions apply.\* Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 FREE GIFT WITH PURCHASE
 
