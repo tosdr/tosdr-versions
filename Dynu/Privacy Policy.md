@@ -240,11 +240,19 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-#### Would cloud based computing and networking resources help your business? Check out more details about cloud computing!
+### Why migrate to us?
+
+#### We guarantee our commitment to quality
 
   
-[What is cloud computing?](https://www.dynu.com/What-Is-Cloud-Computing)  
-  
+
+#### Performance
+
+#### Support
+
+#### Security
+
+#### Uptime
 
 ### News
 
