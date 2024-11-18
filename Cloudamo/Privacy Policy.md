@@ -1,10 +1,33 @@
-×
+Loading...
 
- 
+ [![Cloudamo](/templates/coowhm-plus/img/logo.png) Cloudamo](https://cloudamo.com/index.php)
 
-* \[email protected\]
+_My Services_* [HomeNew](https://cloudamo.com/index.php)
+* Store
+    * [Browse All](https://cloudamo.com/cart.php)
+    * [Nextcloud](https://cloudamo.com/cart.php?gid=1)
+    * [ownCloud](https://cloudamo.com/cart.php?gid=9)
+    * [Product Addons](https://cloudamo.com/knowledgebase/12/cart.php?gid=addons)
+* [Affiliates](https://cloudamo.com/affiliates.php)
+_Support_* Support
+    * [Tickets](https://cloudamo.com/supporttickets.php)
+    * [Open Ticket](https://cloudamo.com/submitticket.php)
+* Announcements New
+    * [Announcements](https://cloudamo.com/announcements.php)
+    * [Terms of Service](https://cloudamo.com/knowledgebase/44/Terms-and-conditions.html)
+* [Knowledgebase](https://cloudamo.com/knowledgebase.php)
 
-* [English](#)
+[](javascript:) [![Cloudamo](/templates/coowhm-plus/img/logo.png) Cloudamo](https://cloudamo.com/index.php)
+
+* 
+*  
+    
+
+* [![English](/templates/coowhm-plus/img/flags/english.svg)](#)
+    
+    ###### Choose language
+    
+    English
     
     * [العربية](https://cloudamo.com/knowledgebase?language=arabic)
     * [Azerbaijani](https://cloudamo.com/knowledgebase?language=azerbaijani)
@@ -33,43 +56,32 @@
     * [Türkçe](https://cloudamo.com/knowledgebase?language=turkish)
     * [Українська](https://cloudamo.com/knowledgebase?language=ukranian)
     
-* [News](https://cloudamo.com/announcements)
-* [About us](https://cloudamo.com/about-us.php)
-* [Contact Us](https://cloudamo.com/contact.php)
-* [Login](https://cloudamo.com/clientarea.php)
-* [Register](https://cloudamo.com/register.php)
-* [View Cart](https://cloudamo.com/cart.php?a=view)
-
-    [![Cloudamo](/templates/templates-nuhost/img/header/logo.png)  ![Cloudamo](/templates/templates-nuhost/img/header/logo-b.png)  We are celebrating 5 years  
-as number 1 Nextcloud hosting provider](https://cloudamo.com/index.php)
-
-* [![](/templates/templates-nuhost/img/svgs/avatar.svg)](#)
+* [](https://cloudamo.com/knowledgebase/12/cart.php?a=view)
+* [](#)
     
-    Remember Me
+    ###### Notifications
     
-    [Forgot Password?](https://cloudamo.com/knowledgebase/12/pwreset.php) [Register](https://cloudamo.com/register.php)
+    0
     
-    Login
+    You have no notifications at this time.
     
-
-* [Hosting](#)
-    * [Browse All](https://cloudamo.com/cart.php)
-* [Domains](#)
-    * [My Domains](https://cloudamo.com/clientarea.php?action=domains)
-    * [Domain Search](https://cloudamo.com/cart.php?a=add&domain=register)
-* [Support](#)
-    * [Tickets](https://cloudamo.com/supporttickets.php)
-    * [Open Ticket](https://cloudamo.com/submitticket.php)
-* [Knowledgebase](https://cloudamo.com/knowledgebase.php)
-* [![](/templates/templates-nuhost/img/svgs/search.svg)](# "search")
+    [Show All](https://cloudamo.com/knowledgebase/12/clientarea.php)
+    
+* [](javascript:)
+    
+    ###### Log in to Control Panel
+    
+     Remember Me
+    
+    [Forgot Password?](https://cloudamo.com/pwreset.php) or [Register](https://cloudamo.com/register.php)
+    
 
 Knowledgebase
 =============
 
-1. [Portal Home](https://cloudamo.com/)
-2. Knowledgebase
+Knowledgebase
 
-###   Categories
+### Categories
 
 [8
 
@@ -83,86 +95,77 @@ Nextcloud](https://cloudamo.com/knowledgebase/1/Nextcloud)
 
 Cloudamo (8) Legal & Terms (3) Nextcloud (29)
 
+### Tag Cloud
+
+[ns](https://cloudamo.com/knowledgebase/tag/ns) [nameservers](https://cloudamo.com/knowledgebase/tag/nameservers) [cloudamo](https://cloudamo.com/knowledgebase/tag/cloudamo) [name servers](https://cloudamo.com/knowledgebase/tag/name-servers) [update](https://cloudamo.com/knowledgebase/tag/update) [occ](https://cloudamo.com/knowledgebase/tag/occ) [upgrade](https://cloudamo.com/knowledgebase/tag/upgrade) [updater](https://cloudamo.com/knowledgebase/tag/updater) [terminal](https://cloudamo.com/knowledgebase/tag/terminal) [ssh](https://cloudamo.com/knowledgebase/tag/ssh) [error](https://cloudamo.com/knowledgebase/tag/error) [problem](https://cloudamo.com/knowledgebase/tag/problem) [cpanel](https://cloudamo.com/knowledgebase/tag/cpanel) [ssl](https://cloudamo.com/knowledgebase/tag/ssl) [secure](https://cloudamo.com/knowledgebase/tag/secure) [security](https://cloudamo.com/knowledgebase/tag/security) [enable](https://cloudamo.com/knowledgebase/tag/enable) [gdpr](https://cloudamo.com/knowledgebase/tag/gdpr) [compliant](https://cloudamo.com/knowledgebase/tag/compliant) [nextcloud](https://cloudamo.com/knowledgebase/tag/nextcloud)
+
+### Support
+
+[My Support Tickets](https://cloudamo.com/supporttickets.php) [Announcements](https://cloudamo.com/announcements) [Knowledgebase](https://cloudamo.com/knowledgebase) [Open Ticket](https://cloudamo.com/submitticket.php)
+
+1. [Portal Home](https://cloudamo.com/)
+2. Knowledgebase
+
  
 
 Categories
 ----------
 
-[Cloudamo (8)](https://cloudamo.com/knowledgebase/3/Cloudamo)
+[Cloudamo 8 Articles](https://cloudamo.com/knowledgebase/3/Cloudamo)
 
-[Legal & Terms (3)](https://cloudamo.com/knowledgebase/2/Legal-and-Terms)
+[Legal & Terms 3 Articles](https://cloudamo.com/knowledgebase/2/Legal-and-Terms)
 
-[Nextcloud (29)](https://cloudamo.com/knowledgebase/1/Nextcloud)
+[Nextcloud 29 Articles](https://cloudamo.com/knowledgebase/1/Nextcloud)
 
-Most Popular Articles
----------------------
+##### Secure your website with automated daily backups stored offsite with built-in redundancy.
 
- [What Nextcloud version is used on Cloudamo?](https://cloudamo.com/knowledgebase/1/What-Nextcloud-version-is-used-on-Cloudamo.html)
+Protect your website against data loss and attacks with daily automated backups and one-click automatic restore.
 
-Cloudamo will always use latest stable version from Nextcloud. You can see current version here:...
+![](/templates/coowhm-plus/img/banners/codeguard.png) Automatic Daily Backups
 
- [How to use Nextcloud gallery app?](https://cloudamo.com/knowledgebase/24/How-to-use-Nextcloud-gallery-app.html)
+[Read More](https://cloudamo.com/knowledgebase/12/cart.php)
 
-The Pictures app has been rewritten and improved, and is now called the Gallery app. It supports...
+##### Our SSL certificates are from some of the most trusted brands in Online Security.
 
- [How to access your files using the Nextcloud Web interface?](https://cloudamo.com/knowledgebase/23/How-to-access-your-files-using-the-Nextcloud-Web-interface.html)
+The fastest and most affordable way to activate SSL protection for your website, issuance is quick and often fully automated.
 
-You can access your Nextcloud files with the Nextcloud Web interface and create, preview, edit,...
+![](/templates/coowhm-plus/img/banners/symantec.png) Issued in 2-3 Days
 
- [Can I use my own domain ?](https://cloudamo.com/knowledgebase/3/Can-I-use-my-own-domain-.html)
+[Read More](https://cloudamo.com/knowledgebase/12/cart.php)
 
-You can use your own domain/subdomain at any time with all packages. You can either order one, or...
+##### Create a stunning website faster than ever with Weebly
 
- [Web browser requirements for Nextcloud?](https://cloudamo.com/knowledgebase/20/Web-browser-requirements-for-Nextcloud.html)
+Add Weebly's drag and drop website builder to your hosting to allow you to create an awesome looking website, store or blog.
 
-For the best experience with the Nextcloud web interface, we recommend that you use the latest...
+![](/templates/coowhm-plus/img/banners/weebly.png) Powerful Website Builder
 
-###   Tag Cloud
+[Read More](https://cloudamo.com/knowledgebase/12/cart.php)
 
-[ns](https://cloudamo.com/knowledgebase/tag/ns) [nameservers](https://cloudamo.com/knowledgebase/tag/nameservers) [cloudamo](https://cloudamo.com/knowledgebase/tag/cloudamo) [name servers](https://cloudamo.com/knowledgebase/tag/name-servers) [update](https://cloudamo.com/knowledgebase/tag/update) [occ](https://cloudamo.com/knowledgebase/tag/occ) [upgrade](https://cloudamo.com/knowledgebase/tag/upgrade) [updater](https://cloudamo.com/knowledgebase/tag/updater) [terminal](https://cloudamo.com/knowledgebase/tag/terminal) [ssh](https://cloudamo.com/knowledgebase/tag/ssh) [error](https://cloudamo.com/knowledgebase/tag/error) [problem](https://cloudamo.com/knowledgebase/tag/problem) [cpanel](https://cloudamo.com/knowledgebase/tag/cpanel) [ssl](https://cloudamo.com/knowledgebase/tag/ssl) [secure](https://cloudamo.com/knowledgebase/tag/secure) [security](https://cloudamo.com/knowledgebase/tag/security) [enable](https://cloudamo.com/knowledgebase/tag/enable) [gdpr](https://cloudamo.com/knowledgebase/tag/gdpr) [compliant](https://cloudamo.com/knowledgebase/tag/compliant) [nextcloud](https://cloudamo.com/knowledgebase/tag/nextcloud)
+##### Automatically find malware and protect your online reputation
 
-###   Support
+SiteLock provides a range of features designed to protect both your website and your business’ reputation.
 
-  [My Support Tickets](https://cloudamo.com/supporttickets.php)   [Announcements](https://cloudamo.com/announcements)   [Knowledgebase](https://cloudamo.com/knowledgebase)   [Open Ticket](https://cloudamo.com/submitticket.php)
+![](/templates/coowhm-plus/img/banners/sitelock.png) Malware Protection
 
- [![](/templates/templates-nuhost/img/header/logo.png)](#)\[email protected\] Innere M. 5/5. Etage,  
-4051 Basel, Switzerland.
+[Read More](https://cloudamo.com/knowledgebase/12/cart.php)
 
-##### Legal & Terms
+###### this is footer
 
-* [Terms and conditions](https://cloudamo.com/knowledgebase/44/Terms-and-conditions.html)
-* [Privacy Policy](https://cloudamo.com/knowledgebase/43/Privacy-Policy.html)
-* [Acceptable Use Policy](https://cloudamo.com/knowledgebase/42/Acceptable-Use-Policy.html)
-* [Contact](https://cloudamo.com/contact.php)
+Copyright © 2024 Cloudamo.
 
-##### Quick Links
-
-* [Knowledgebase](https://cloudamo.com/knowledgebase.php)
-* [Support Center](https://cloudamo.com/contact.php)
-* [News](https://cloudamo.com/announcements.php)
-* [About us](https://cloudamo.com/about-us.php)
-
-##### Stay In Touch
-
-[](#)[](#)
-
-Cloudamo, secure, private home for your data ...
-
-[](#)
-
-Copyright © 2024 Cloudamo. All Rights Reserved.
+[Store](https://cloudamo.com/cart.php) [Register](https://cloudamo.com/register.php) [Contact Us](https://cloudamo.com/contact.php)
 
 ![](/assets/img/overlay-spinner.svg)  
 
 × Close
+
+#### title
 
 Loading...
 
 Loading...
 
 Close Submit
-
-×
 
 #### Generate Password
 
