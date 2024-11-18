@@ -269,6 +269,10 @@ Retrieved from "[https://meta.miraheze.org/wiki/Privacy\_Policy?oldid=431984](ht
 
 * [Foundation policies](https://meta.miraheze.org/wiki/Category:Foundation_policies "Category:Foundation policies")
 
+Cookies help us deliver our services. By using our services, you agree to our use of cookies.
+
+[More information](https://meta.miraheze.org/wiki/Special:MyLanguage/Privacy_Policy#2._Cookies)OK
+
 * This page was last edited 17:12, 1 October 2024 by Miraheze Meta user [MacFan4000](https://meta.miraheze.org/wiki/User:MacFan4000 "User:MacFan4000").
 * Content is available under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) unless otherwise noted.
 
@@ -279,7 +283,7 @@ Retrieved from "[https://meta.miraheze.org/wiki/Privacy\_Policy?oldid=431984](ht
 * [Donate to Miraheze](https://meta.miraheze.org/wiki/Special:MyLanguage/Donate)
 * [Mobile view](https://meta.miraheze.org/wiki/Privacy_Policy?mobileaction=toggle_view_mobile)
 
-* [![Hosted by Miraheze](https://static.miraheze.org/commonswiki/f/ff/Powered_by_Miraheze.svg)](https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze_Meta)[![Powered by MediaWiki](/1.42/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
+* [![Hosted by Miraheze](https://static.wikitide.net/commonswiki/f/ff/Powered_by_Miraheze.svg)](https://meta.miraheze.org/wiki/Special:MyLanguage/Miraheze_Meta)[![Powered by MediaWiki](/1.42/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
 * [![Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://meta.miraheze.org/1.42/resources/assets/licenses/cc-by-sa.png)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 * Toggle limited content width
