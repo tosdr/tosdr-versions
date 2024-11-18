@@ -134,8 +134,8 @@ Join the **I_A_** newsletter for regular updates on our latest news stories.
 Just in
 
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
+* [U.S. Election not about economic anxiety, it’s about religious identity anxiety](https://independentaustralia.net/article-display/us-election-not-about-economic-anxiety-its-about-religious-identity-anxiety,19182 "Permanent Link : U.S. Election not about economic anxiety, it’s about religious identity anxiety")
 * [IA is fighting for its life and its survival depends on YOU!](https://independentaustralia.net/article-display/ia-is-fighting-for-its-life-and-its-survival-depends-on-you,19172 "Permanent Link : IA is fighting for its life and its survival depends on YOU!")
-* [Trump, Dutton and calling a fascist a Fascist](https://independentaustralia.net/article-display/trump-dutton-and-calling-a-fascist-a-fascist,19175 "Permanent Link : Trump, Dutton and calling a fascist a Fascist")
 * [Trump taps into new media and rise in youth conservatism](https://independentaustralia.net/article-display/trump-taps-into-new-media-and-rise-in-youth-conservatism,19181 "Permanent Link : Trump taps into new media and rise in youth conservatism")
 * [Peter Dutton’s Liberals copy Trump’s playbook of falsehoods and fraud](https://independentaustralia.net/article-display/peter-duttons-liberals-copy-trumps-playbook-of-falsehoods-and-fraud,19180 "Permanent Link : Peter Dutton’s Liberals copy Trump’s playbook of falsehoods and fraud")
 * [There's no substitute for experience — tell that to online lifers](https://independentaustralia.net/article-display/theres-no-substitute-for-experience-tell-that-to-online-lifers,19179 "Permanent Link : There's no substitute for experience — tell that to online lifers")
