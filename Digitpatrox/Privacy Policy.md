@@ -20,16 +20,16 @@ Monday, November 18 2024
 
 Latest
 
+* [AI is finally delivering bang for its buck, according to Microsoft](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
+* [Early Black Friday Deals on Garmin Smartwatches](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
+* [Best Office Chairs – Consumer Reports](https://digitpatrox.com/best-office-chairs-consumer-reports/)
+* [5 Problems on Your Computer That Might be Caused by Malware](https://digitpatrox.com/5-problems-on-your-computer-that-might-be-caused-by-malware/)
+* [Organizations failing to use tech to reach sustainability goals](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
+* [Got a PS5 Pro? Here are the settings you’ll want to change on your TV](https://digitpatrox.com/got-a-ps5-pro-here-are-the-settings-youll-want-to-change-on-your-tv/)
+* [Trump names Brendan Carr as his FCC leader](https://digitpatrox.com/trump-names-brendan-carr-as-his-fcc-leader/)
+* [Today’s Wordle Answer and Hints (November 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-18-2024/)
+* [AdGuard VPN Has a Great Early Black Friday Sale](https://digitpatrox.com/adguard-vpn-has-a-great-early-black-friday-sale/)
 * [Best Black Friday Car Deals for 2024](https://digitpatrox.com/best-black-friday-car-deals-for-2024/)
-* [How to Moderate Your Own Feed on Bluesky](https://digitpatrox.com/how-to-moderate-your-own-feed-on-bluesky/)
-* [NYT Strands today — hints, spangram and answers for game #260 (Monday, November 18 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-260-monday-november-18-2024/)
-* [Security plugin flaw in millions of WordPress sites gives admin access](https://digitpatrox.com/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
-* [An Ohio man guilty of Bitcoin laundering must forfeit over $400 million in assets](https://digitpatrox.com/an-ohio-man-guilty-of-bitcoin-laundering-must-forfeit-over-400-million-in-assets/)
-* [NYT Connections Today: Hints and Answers for November 18, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-november-18-2024/)
-* [Best VPNs for Nevada in 2024](https://digitpatrox.com/best-vpns-for-nevada-in-2024/)
-* [The Biggest Signs Your Car Is About to Need Major Repairs](https://digitpatrox.com/the-biggest-signs-your-car-is-about-to-need-major-repairs/)
-* [How to Jump-Start a Car With a Dead Battery](https://digitpatrox.com/how-to-jump-start-a-car-with-a-dead-battery/)
-* [How This Legal Decision Could Make Old Games Harder to Play](https://digitpatrox.com/how-this-legal-decision-could-make-old-games-harder-to-play/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,33 +171,33 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1730493961/prod/content/dam/CRO-Images-2024/Cars/CR-Cars-InlineHero-Best-Black-Friday-Car-Deals-for-2024-1124)](https://digitpatrox.com/best-black-friday-car-deals-for-2024/)
+* [![](https://cdn.mos.cms.futurecdn.net/BLomQ4aQk2epAVZd5xrp8S-1200-80.jpg)](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
     
-    [Best Black Friday Car Deals for 2024](https://digitpatrox.com/best-black-friday-car-deals-for-2024/)
+    [AI is finally delivering bang for its buck, according to Microsoft](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
     
-    8 minutes ago
+    5 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/bluesky-logo-2.jpg)](https://digitpatrox.com/how-to-moderate-your-own-feed-on-bluesky/)
+* [![](https://lifehacker.com/imagery/articles/01JCRBTXGN0S5N6JS9MDZBW7WB/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
     
-    [How to Moderate Your Own Feed on Bluesky](https://digitpatrox.com/how-to-moderate-your-own-feed-on-bluesky/)
+    [Early Black Friday Deals on Garmin Smartwatches](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
     
-    10 minutes ago
+    53 minutes ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/TPjnbnuxSnR2Hxho3tzVYJ-1200-80.jpg)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-260-monday-november-18-2024/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1729289313/prod/content/dam/CRO-Images-2024/Electronics/CR-Electronics-InlineHero-Best-Offce-Chairs-1024)](https://digitpatrox.com/best-office-chairs-consumer-reports/)
     
-    [NYT Strands today — hints, spangram and answers for game #260 (Monday, November 18 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-260-monday-november-18-2024/)
+    [Best Office Chairs – Consumer Reports](https://digitpatrox.com/best-office-chairs-consumer-reports/)
     
-    56 minutes ago
+    1 hour ago
     
-* [![](https://www.bleepstatic.com/content/hl-images/2023/12/07/back.jpg)](https://digitpatrox.com/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/10/a-laptop-with-windows-11-a-malware-icon-above-the-keyboard-and-warning-signs-around-it.jpg)](https://digitpatrox.com/5-problems-on-your-computer-that-might-be-caused-by-malware/)
     
-    [Security plugin flaw in millions of WordPress sites gives admin access](https://digitpatrox.com/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
+    [5 Problems on Your Computer That Might be Caused by Malware](https://digitpatrox.com/5-problems-on-your-computer-that-might-be-caused-by-malware/)
     
-    2 hours ago
+    1 hour ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/PbA87bIwD6q8J3sxWMWsMkDAslU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25535403/STK004_FBI_CVIRGINIA_A.jpg)](https://digitpatrox.com/an-ohio-man-guilty-of-bitcoin-laundering-must-forfeit-over-400-million-in-assets/)
+* [![](https://cdn.mos.cms.futurecdn.net/Fu6Qch2c2nfLiqiNFGpZU9-1200-80.jpg)](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
     
-    [An Ohio man guilty of Bitcoin laundering must forfeit over $400 million in assets](https://digitpatrox.com/an-ohio-man-guilty-of-bitcoin-laundering-must-forfeit-over-400-million-in-assets/)
+    [Organizations failing to use tech to reach sustainability goals](https://digitpatrox.com/organizations-failing-to-use-tech-to-reach-sustainability-goals/)
     
     2 hours ago
     
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [8 minutes ago
+* [5 minutes ago
     
-    ### Best Black Friday Car Deals for 2024](https://digitpatrox.com/best-black-friday-car-deals-for-2024/)
-* [10 minutes ago
+    ### AI is finally delivering bang for its buck, according to Microsoft](https://digitpatrox.com/ai-is-finally-delivering-bang-for-its-buck-according-to-microsoft/)
+* [53 minutes ago
     
-    ### How to Moderate Your Own Feed on Bluesky](https://digitpatrox.com/how-to-moderate-your-own-feed-on-bluesky/)
-* [56 minutes ago
+    ### Early Black Friday Deals on Garmin Smartwatches](https://digitpatrox.com/early-black-friday-deals-on-garmin-smartwatches/)
+* [1 hour ago
     
-    ### NYT Strands today — hints, spangram and answers for game #260 (Monday, November 18 2024)](https://digitpatrox.com/nyt-strands-today-hints-spangram-and-answers-for-game-260-monday-november-18-2024/)
+    ### Best Office Chairs – Consumer Reports](https://digitpatrox.com/best-office-chairs-consumer-reports/)
 
 Most Popular Topics
 
-* [August 13, 2024
+* [September 7, 2024
     
-    ### Microsoft is killing the Windows Paint 3D app after 8 years](https://digitpatrox.com/microsoft-is-killing-the-windows-paint-3d-app-after-8-years/)
-* [September 19, 2024
+    ### Nanoleaf’s Sense Plus Smart Switch is finally here](https://digitpatrox.com/nanoleafs-sense-plus-smart-switch-is-finally-here/)
+* [August 31, 2024
     
-    ### Built-in AI will boost interest in VR and AR – Computerworld](https://digitpatrox.com/built-in-ai-will-boost-interest-in-vr-and-ar-computerworld/)
-* [September 11, 2024
+    ### Windows 11 builds 22635.4145 and 27695 drop in the Beta and Canary Channels with new features](https://digitpatrox.com/windows-11-builds-22635-4145-and-27695-drop-in-the-beta-and-canary-channels-with-new-features/)
+* [August 21, 2024
     
-    ### Hunters ransomware gang says it hacked ICBC London, stole 5M+ files](https://digitpatrox.com/hunters-ransomware-gang-says-it-hacked-icbc-london-stole-5m-files/)
+    ### Monopoly Go Tycoon Academy: All Rewards and Milestones (August 20-23)](https://digitpatrox.com/monopoly-go-tycoon-academy-all-rewards-and-milestones-august-20-23/)
 
 Last Modified Topics
 
+* [3 hours ago
+    
+    ### Trump names Brendan Carr as his FCC leader](https://digitpatrox.com/trump-names-brendan-carr-as-his-fcc-leader/)
 * [4 hours ago
     
-    ### Best VPNs for Nevada in 2024](https://digitpatrox.com/best-vpns-for-nevada-in-2024/)
-* [5 hours ago
+    ### Today’s Wordle Answer and Hints (November 18, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-18-2024/)
+* [6 hours ago
     
-    ### The Biggest Signs Your Car Is About to Need Major Repairs](https://digitpatrox.com/the-biggest-signs-your-car-is-about-to-need-major-repairs/)
-* [5 hours ago
-    
-    ### How to Jump-Start a Car With a Dead Battery](https://digitpatrox.com/how-to-jump-start-a-car-with-a-dead-battery/)
+    ### AdGuard VPN Has a Great Early Black Friday Sale](https://digitpatrox.com/adguard-vpn-has-a-great-early-black-friday-sale/)
 
 Most Viewed Topics
 
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
-* [August 13, 2024
-    
-    ### How to manage a road trip move](https://digitpatrox.com/how-to-manage-a-road-trip-move/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
