@@ -9,7 +9,11 @@
 
 ![Imagem do usuário ](/assets/pt-br/logoBannerLogin.webp)
 
-Login/Cadastro[Configurações](https://www.pelando.com.br/configuracoes)[Fale com o Pelando](https://www.pelando.com.br/atendimento)[Blog](https://www.pelando.com.br/blog)[Black Friday 2024](https://www.pelando.com.br/black-friday)Temas[Deixe seu feedback!](https://pelando-site.ideas.userback.io/p/9RjeK84h82)[Lojas](https://www.pelando.com.br/cupons-de-descontos)
+Login/Cadastro
+
+[Saldo de cashback: **R$ 0,00**](https://www.pelando.com.br/meu-cashback)
+
+[Cashback](https://www.pelando.com.br/meu-cashback)[Configurações](https://www.pelando.com.br/configuracoes)[Fale com o Pelando](https://www.pelando.com.br/atendimento)[Blog](https://www.pelando.com.br/blog)[Black Friday 2024](https://www.pelando.com.br/black-friday)Temas[Deixe seu feedback!](https://pelando-site.ideas.userback.io/p/9RjeK84h82)[Lojas](https://www.pelando.com.br/cupons-de-descontos)
 
 [Central de Ajuda](https://ajuda.pelando.com.br/)[Termos de serviço](https://www.pelando.com.br/sobre/termos-de-uso)[Código de Conduta](https://www.pelando.com.br/sobre/codigo-de-conduta)[Privacidade](https://www.pelando.com.br/sobre/politica-de-privacidade)
 
