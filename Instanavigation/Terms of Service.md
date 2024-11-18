@@ -2,34 +2,34 @@
 
 [![logo](/assets-st/img/svg/logo.svg)](https://storynavigation.com/)
 
-* [View stories](https://storynavigation.com/view-instagram-stories)
-* [Blog](https://storynavigation.com/blog)
-* [Features](https://storynavigation.com/features)
-* [About us](https://storynavigation.com/about-project)
-* [Contacts](https://storynavigation.com/contact-us)
+* [View stories](https://storynavigation.com/watch-stories)
+* [Blog](https://storynavigation.com/our-blog)
+* [Features](https://storynavigation.com/project-features)
+* [About us](https://storynavigation.com/about-our-project)
+* [Contacts](https://storynavigation.com/contacts)
 
 ![search logo](/assets-st/img/svg/search.svg)
 
 en
 
-* [de](http://storynavigation.com/de/terms-of-use)
-* [en](http://storynavigation.com/terms-of-use)
-* [fr](http://storynavigation.com/fr/terms-of-use)
-* [it](http://storynavigation.com/it/terms-of-use)
-* [ru](http://storynavigation.com/ru/terms-of-use)
+* [de](http://storynavigation.com/de/project-terms-of-use)
+* [en](http://storynavigation.com/project-terms-of-use)
+* [fr](http://storynavigation.com/fr/project-terms-of-use)
+* [it](http://storynavigation.com/it/project-terms-of-use)
+* [ru](http://storynavigation.com/ru/project-terms-of-use)
 
-* [View stories](https://storynavigation.com/view-instagram-stories)
-* [Blog](https://storynavigation.com/blog)
-* [Features](https://storynavigation.com/features)
-* [About us](https://storynavigation.com/about-project)
-* [Contacts](https://storynavigation.com/contact-us)
+* [View stories](https://storynavigation.com/watch-stories)
+* [Blog](https://storynavigation.com/our-blog)
+* [Features](https://storynavigation.com/project-features)
+* [About us](https://storynavigation.com/about-our-project)
+* [Contacts](https://storynavigation.com/contacts)
 
 * [en](#)
-* [de](http://storynavigation.com/de/terms-of-use)
-* [en](http://storynavigation.com/terms-of-use)
-* [fr](http://storynavigation.com/fr/terms-of-use)
-* [it](http://storynavigation.com/it/terms-of-use)
-* [ru](http://storynavigation.com/ru/terms-of-use)
+* [de](http://storynavigation.com/de/project-terms-of-use)
+* [en](http://storynavigation.com/project-terms-of-use)
+* [fr](http://storynavigation.com/fr/project-terms-of-use)
+* [it](http://storynavigation.com/it/project-terms-of-use)
+* [ru](http://storynavigation.com/ru/project-terms-of-use)
 
 **TERMS OF USE**
 
@@ -344,7 +344,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Services for v
 
   
 
-We care about data privacy and security. Please review our Privacy Policy: **[https://storynavigation.com/privacy-policy](https://storynavigation.com/privacy-policy)**. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Services as quickly as is reasonably practical.
+We care about data privacy and security. Please review our Privacy Policy: **[https://storynavigation.com/project-privacy-policy](https://storynavigation.com/project-privacy-policy)**. By using the Services, you agree to be bound by our Privacy Policy, which is incorporated into these Legal Terms. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Services as quickly as is reasonably practical.
 
   
 
@@ -494,14 +494,14 @@ In order to resolve a complaint regarding the Services or to receive further inf
 
 ****[\[email protected\]](https://instanavigation.com/cdn-cgi/l/email-protection)****
 
-* [View stories](https://storynavigation.com/view-instagram-stories)
-* [Blog](https://storynavigation.com/blog)
-* [Features](https://storynavigation.com/features)
-* [About us](https://storynavigation.com/about-project)
-* [Contacts](https://storynavigation.com/contact-us)
+* [View stories](https://storynavigation.com/watch-stories)
+* [Blog](https://storynavigation.com/our-blog)
+* [Features](https://storynavigation.com/project-features)
+* [About us](https://storynavigation.com/about-our-project)
+* [Contacts](https://storynavigation.com/contacts)
 
 [![footer logo](/assets-st/img/svg/logo-big.svg)](https://storynavigation.com/)
 
 StoryNavigation.com is not connected with Instagram. All content belongs to the content authors. Download is available for informational purposes only.
 
-© 2024 StoryNavigation [Terms & Conditions](https://storynavigation.com/terms-of-use) [Privacy policy](https://storynavigation.com/privacy-policy)
+© 2024 StoryNavigation [Terms & Conditions](https://storynavigation.com/project-terms-of-use) [Privacy policy](https://storynavigation.com/project-privacy-policy)
