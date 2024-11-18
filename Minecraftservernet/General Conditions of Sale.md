@@ -29,17 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![kchscraft](plugins/MineCraft/icons/25x25xkchscraft_1658311151.png.pagespeed.ic.fnqNIplg0a.png)
+[![Payaman_SMP](plugins/MineCraft/icons/25x25xPayaman_SMP_1729955508.png.pagespeed.ic.aCHQSaveMt.jpg)
 
-KCHS Craft](https://minecraft-server.net/details/kchscraft/ "KCHS Craft")[![Gladius](plugins/MineCraft/icons/25x25xGladius_1687724866.png.pagespeed.ic.sE5XXSLjhm.png)
+Payaman SMP](https://minecraft-server.net/details/Payaman_SMP/ "Payaman SMP") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![Cobalt](plugins/MineCraft/icons/25x25xCobalt_1730840649.png.pagespeed.ic.MW8BNEQizg.png)
 
-Gladius SMP SEMI ANARCHY NO CRYSTAL PVP](https://minecraft-server.net/details/Gladius/ "Gladius SMP SEMI ANARCHY NO CRYSTAL PVP")[![axn](plugins/MineCraft/icons/25x25xaxn_1729107605.png.pagespeed.ic.WJSivFsGJ1.jpg)
+isoVerse | 1.21 Survival Skyblock Creative Parkour \[Java & Bedrock\]](https://minecraft-server.net/details/Cobalt/ "isoVerse | 1.21 Survival Skyblock Creative Parkour [Java & Bedrock]")[![rsmv](plugins/MineCraft/icons/25x25xrsmv_1703034436.png.pagespeed.ic.1lwcBJKLKB.png)
 
-Anarchy Network](https://minecraft-server.net/details/axn/ "Anarchy Network")[![SkyblockAnarchy](plugins/MineCraft/icons/25x25xSkyblockAnarchy_1680402377.png.pagespeed.ic.VilkXiVJ71.jpg)
+RSMV.net](https://minecraft-server.net/details/rsmv/ "RSMV.net")[![TAoMC](plugins/MineCraft/icons/25x25xTAoMC_1731181702.png.pagespeed.ic.0xBbYwjfPL.jpg)
 
-Skyblock Anarchy](https://minecraft-server.net/details/SkyblockAnarchy/ "Skyblock Anarchy")[![HardcoreAnarchy](plugins/MineCraft/icons/25x25xHardcoreAnarchy_1723313227.png.pagespeed.ic.BxBvHn1f9s.png)
-
-Hardcore Anarchy](https://minecraft-server.net/details/HardcoreAnarchy/ "Hardcore Anarchy")
+The Art of Minecraft - Crossplay](https://minecraft-server.net/details/TAoMC/ "The Art of Minecraft - Crossplay")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -116,4 +114,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.07255 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06475 - Created by [Debaucus](https://debauc.us/)
