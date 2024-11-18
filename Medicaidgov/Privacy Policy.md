@@ -353,6 +353,7 @@ MainMenu
     [View all in About Us](https://www.medicaid.gov/about-us/index.html)
     
     * [Get Help with Medicaid & CHIP](https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip/index.html)
+    * [Get Help With Eligibility](https://www.medicaid.gov/eligibility/index.html)
     * [Contact Us](https://www.medicaid.gov/about-us/contact-us/index.html)
     * [Program History](https://www.medicaid.gov/about-us/program-history/index.html)
     * [Leadership](https://www.medicaid.gov/about-us/leadership/index.html)
@@ -697,6 +698,7 @@ MainMenu Desktop
     [View all in About Us](https://www.medicaid.gov/about-us/index.html)
     
     * [Get Help with Medicaid & CHIP](https://www.medicaid.gov/about-us/where-can-people-get-help-medicaid-chip/index.html)
+    * [Get Help With Eligibility](https://www.medicaid.gov/eligibility/index.html)
     * [Contact Us](https://www.medicaid.gov/about-us/contact-us/index.html)
     * [Program History](https://www.medicaid.gov/about-us/program-history/index.html)
     * [Leadership](https://www.medicaid.gov/about-us/leadership/index.html)
