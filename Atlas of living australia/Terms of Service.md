@@ -35,7 +35,7 @@
     * [Discover citizen science projects](https://biocollect.ala.org.au/acsa "Discover citizen science projects")
 * [Resources](# "Resources")
     * [Brochures and reports](https://www.ala.org.au/publications/ "Brochures and reports")
-    * [ALA-cited publications](https://www.ala.org.au/ala-cited-publications/ "ALA-cited publications")
+    * [ALA-cited publications](https://www.ala.org.au/?page_id=44387 "ALA-cited publications")
     * [ALA logo and identity](https://www.ala.org.au/ala-logo-and-identity/ "ALA logo and identity")
     * [Biosecurity Hub](https://www.ala.org.au/biosecurity "Biosecurity Hub")
     * [Data Mobilisation Program](https://www.ala.org.au/abdmp/ "Data Mobilisation Program")
@@ -280,7 +280,7 @@ Visualise and analyse relationships between species, location and environment.
 
 * [Resources](# "Resources")
     * [Brochures and reports](https://www.ala.org.au/publications/ "Brochures and reports")
-    * [ALA-cited publications](https://www.ala.org.au/ala-cited-publications/ "ALA-cited publications")
+    * [ALA-cited publications](https://www.ala.org.au/?page_id=44387 "ALA-cited publications")
     * [ALA logo and identity](https://www.ala.org.au/ala-logo-and-identity/ "ALA logo and identity")
     * [Biosecurity Hub](https://www.ala.org.au/biosecurity "Biosecurity Hub")
     * [Data Mobilisation Program](https://www.ala.org.au/abdmp/ "Data Mobilisation Program")
