@@ -1,4 +1,4 @@
-[![Own logo](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.avif)](https://www.ownbackup.com/)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158d15ff011d016b5fc_Own-Logo-Horz-Black-RGB.png)](https://www.ownbackup.com/)
 
 Thank you! Your submission has been received!
 
@@ -124,13 +124,13 @@ eBooks](https://www.ownbackup.com/resources/ebook)[![ ](https://cdn.prod.website
 
 Data Sheets](https://www.ownbackup.com/resources/data-sheets)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
-
-Own+](https://ownplus.owndata.com/plus)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
-
 All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
+
+[Company News
+
+It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
 [Salesforce
 
@@ -139,10 +139,6 @@ Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin
 [Own Accelerate
 
 Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
-
-[Compliance
-
-How to Demonstrate DORA Compliance For SaaS Systems](https://www.ownbackup.com/blog/how-to-demonstrate-dora-compliance-for-saas-systems)
 
 Company
 
@@ -226,7 +222,7 @@ Hyderabad, Telangana 500081
 
 [](https://www.ownbackup.com/search)[Support](https://support.owndata.com/s/)[Get a Demo](https://www.ownbackup.com/request-demo)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d3993aeb60ee547f18c083_4c%20Black.avif)](https://www.ownbackup.com/)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158da1e42078beaf1c6_Own-Logo-Horz-White-RGB.png)![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/67322158d15ff011d016b5fc_Own-Logo-Horz-Black-RGB.png)](https://www.ownbackup.com/)
 
 Thank you! Your submission has been received!
 
@@ -352,13 +348,13 @@ eBooks](https://www.ownbackup.com/resources/ebook)[![ ](https://cdn.prod.website
 
 Data Sheets](https://www.ownbackup.com/resources/data-sheets)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
 
-![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d387dce73db7f113fe888b_svgexport-14.svg)
-
-Own+](https://ownplus.owndata.com/plus)[![ ](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/65d77b4815ef2c7e6531b425_Arrow%204.png)
-
 All Resources](https://www.ownbackup.com/resources)
 
 On The Blog
+
+[Company News
+
+It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
 [Salesforce
 
@@ -367,10 +363,6 @@ Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin
 [Own Accelerate
 
 Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
-
-[Compliance
-
-How to Demonstrate DORA Compliance For SaaS Systems](https://www.ownbackup.com/blog/how-to-demonstrate-dora-compliance-for-saas-systems)
 
 Company
 
@@ -808,7 +800,7 @@ Share your details and we’ll contact you shortly to schedule a custom 25-minut
 
 ![](https://cdn.prod.website-files.com/placeholder.svg)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
 
 [Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
 
@@ -826,7 +818,7 @@ Cloud Solutions
 
 Resources
 
-[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
+[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[All Resources](https://www.ownbackup.com/resources)
 
 **Company**
 
@@ -843,7 +835,7 @@ and Notice at Collection](https://www.ownbackup.com/job-applicant-privacy-policy
 California Residents](https://www.owndata.com/privacy-policy#Notice-California)[Do Not Sell or Share My  
 Personal Information](#)
 
-© 2024 Own Company. All rights reserved.
+© 2024 Own from Salesforce. All rights reserved.
 
 [why own](https://www.ownbackup.com/why-own)
 
@@ -869,7 +861,7 @@ Products
 
 Resources
 
-[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Podcasts](https://www.ownbackup.com/podcast)[Own+](https://ownplus.owndata.com/plus)[All Resources](https://www.ownbackup.com/resources)
+[Blog](https://www.ownbackup.com/blog)[Events](https://www.ownbackup.com/events)[On-Demand](https://www.ownbackup.com/resources/on-demand)[eBooks](https://www.ownbackup.com/resources/ebook)[Data Sheets](https://www.ownbackup.com/resources/data-sheets)[Podcasts](https://www.ownbackup.com/podcast)[All Resources](https://www.ownbackup.com/resources)
 
 ![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/650b45e9adccdb558c34f609_Rectangle%201210.svg)
 
@@ -897,11 +889,11 @@ Legal
 
 [![linkedin](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/64d39d804ec083617d226fbe_linken.svg)](https://www.linkedin.com/company/owndata/)[![YouTube](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/651654964df69a09d4296c75_youtube.svg)](https://youtube.com/@Own.Company)
 
-[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/6515bbf6ac76562dab935caf_4c%20White.svg)](https://www.ownbackup.com/)
+[![](https://cdn.prod.website-files.com/64d387dce73db7f113fe821b/673221582d07245ba1772054_Own-Logo-Vert-White-RGB%20(1).png)](https://www.ownbackup.com/)
 
 [Office: 646.503.5100](tel:6465035100)[info@owndata.com](mailto:info@owndata.com)[Contact Us](https://www.ownbackup.com/contact-us)
 
-© 2024 Own Company. All rights reserved.
+© 2024 Own from Salesforce. All rights reserved.
 
 Cookie Consent
 
