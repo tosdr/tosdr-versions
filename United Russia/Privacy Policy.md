@@ -305,7 +305,7 @@
 
 [#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Алиханов](https://er.ru/activity/news?tags%5B0%5D=103216) [#Минпромторг](https://er.ru/activity/news?tags%5B0%5D=3505) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#суверенитет](https://er.ru/activity/news?tags%5B0%5D=9840) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-Сегодня 14:51
+18.11.24
 
 [![«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://cdn.er.ru/media/news/November2024/IbB4bUsxfkIL6u4eA7n7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
 
