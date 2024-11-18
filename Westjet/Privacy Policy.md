@@ -2,12 +2,6 @@ The browser you are using is not supported. Please see our [supported browsers](
 
 Close
 
-_We are currently experiencing high call volumes. Please only call if you are travelling within the next 72 hours_
-
-Close
-
-Please visit our [Self-serve](https://www.westjet.com/en-ca/contact/on-hold-self-serve) page for available options
-
 By using the WestJet website, you agree to the website [terms of use](https://www.westjet.com/content/westjet/ca/en/legal/terms-use.html), the [privacy statement](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy.html), and the [use of cookies](https://www.westjet.com/content/westjet/ca/en/legal/privacy-policy.html#cookies).  
 
 Accept
