@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Ashneer Grover](https://www.news18.com/movies/salman-khan-schools-ashneer-grover-asks-him-to-be-careful-mujhe-aapka-naam-bhi-nahi-pata-tha-9123670.html)
-    * [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
-    * [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
+    * [Dilip Joshi](https://www.news18.com/movies/taarak-mehta-ka-ooltah-chashmah-dilip-joshi-asit-modi-fight-jethalal-to-leave-show-9124043.html)
+    * [Rakesh Roshan](https://www.news18.com/movies/rakesh-roshan-ajay-devgn-krrish-3-karan-arjun-exit-hrithik-roshan-vivek-oberoi-exclusive-9123611.html)
     * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-    * [Vijay Sethupathi](https://www.news18.com/movies/vijay-sethupathi-shares-new-post-amid-nayanthara-dhanush-row-over-naanum-rowdy-dhaan-check-it-out-9123218.html)
+    * [Ukraine Conflict](https://www.news18.com/explainers/why-ukraine-attack-against-russia-with-us-missiles-could-lead-to-world-war-3-explained-9124024.html)
     * [Akshay Kumar](https://www.news18.com/movies/akshay-kumar-explains-his-decision-to-let-go-of-canadian-citizenship-main-chup-chaap-nikal-gaya-9122931.html)
     * [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+    * [Ayatollah Ali Khamenei](https://www.news18.com/world/iran-supreme-leader-ayatollah-ali-khamenei-in-coma-but-his-office-shares-pic-meeting-envoy-9123678.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Ashneer Grover](https://www.news18.com/movies/salman-khan-schools-ashneer-grover-asks-him-to-be-careful-mujhe-aapka-naam-bhi-nahi-pata-tha-9123670.html)
-* [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
-* [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
+* [Dilip Joshi](https://www.news18.com/movies/taarak-mehta-ka-ooltah-chashmah-dilip-joshi-asit-modi-fight-jethalal-to-leave-show-9124043.html)
+* [Rakesh Roshan](https://www.news18.com/movies/rakesh-roshan-ajay-devgn-krrish-3-karan-arjun-exit-hrithik-roshan-vivek-oberoi-exclusive-9123611.html)
 * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-* [Vijay Sethupathi](https://www.news18.com/movies/vijay-sethupathi-shares-new-post-amid-nayanthara-dhanush-row-over-naanum-rowdy-dhaan-check-it-out-9123218.html)
+* [Ukraine Conflict](https://www.news18.com/explainers/why-ukraine-attack-against-russia-with-us-missiles-could-lead-to-world-war-3-explained-9124024.html)
 * [Akshay Kumar](https://www.news18.com/movies/akshay-kumar-explains-his-decision-to-let-go-of-canadian-citizenship-main-chup-chaap-nikal-gaya-9122931.html)
 * [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
+* [Ayatollah Ali Khamenei](https://www.news18.com/world/iran-supreme-leader-ayatollah-ali-khamenei-in-coma-but-his-office-shares-pic-meeting-envoy-9123678.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
