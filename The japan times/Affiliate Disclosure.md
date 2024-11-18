@@ -139,17 +139,17 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
 
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+[Mount Fuji eyes China-made tram to transport hikers, source says](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
 
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+  [![Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.")](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
 
-[Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
 
-  [![Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/16/434431.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+  [![U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434547.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.")](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
 
-[Ishiba and Xi hold first in-person talks amid Japan-China tensions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
-  [![Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434532.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
 Editors' Picks
 --------------
@@ -170,23 +170,27 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+[Mount Fuji eyes China-made tram to transport hikers, source says](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
 
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
+By [Mariko Katsumura](https://www.japantimes.co.jp/author/4316/mariko-katsumura/ "Mariko Katsumura")  
+
+  [![Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.")](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
+
+[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
+
+[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
+
+By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
+
+  [![U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434547.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.")](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan defense chief says no decision yet on relocating U.S. military's command](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
-  [![Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/16/434431.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Defense Minister Gen Nakatani speaks during a news conference at the Defense Ministry in Tokyo on Friday.")](https://www.japantimes.co.jp/news/2024/11/16/japan/us-forces-japan-relocation/ "Japan defense chief says no decision yet on relocating U.S. military's command")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
 
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Ishiba and Xi hold first in-person talks amid Japan-China tensions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434532.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba with Chinese leader Xi Jinping on Friday during their meeting on the sidelines of the Asia-Pacific Economic Cooperation summit in Lima")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/china-japan-xi-ishiba-meeting/ "Ishiba and Xi hold first in-person talks amid Japan-China tensions")
+  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
 
 Podcast
 -------
@@ -207,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -249,23 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Hyogo governor re-elected following ouster by assembly over harassment](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-re-elected/ "Hyogo governor re-elected following ouster by assembly over harassment")
+[Yen weakens after Ueda’s caution on BOJ rate hike hints](https://www.japantimes.co.jp/business/2024/11/18/economy/boj-ueda-speech-rate-hike/ "Yen weakens after Ueda’s caution on BOJ rate hike hints")
 
-2 hours ago
+14 mins ago
 
-[Ukraine supercharges mine-clearing push to revive war-torn farms](https://www.japantimes.co.jp/news/2024/11/17/world/ukraine-supercharges-mine-clearing/ "Ukraine supercharges mine-clearing push to revive war-torn farms")
+[Japanese companies increasingly targeted in foreign M&A bids](https://www.japantimes.co.jp/business/2024/11/18/economy/foreign-companies-acquisition-japan/ "Japanese companies increasingly targeted in foreign M&A bids")
 
-10 hours ago
+17 mins ago
 
-[Russia pounds Ukraine's power grid in 'massive' air strike](https://www.japantimes.co.jp/news/2024/11/17/world/ukraines-power-grid/ "Russia pounds Ukraine's power grid in 'massive' air strike")
+[Saudi Arabia executes more than 100 foreigners in 2024](https://www.japantimes.co.jp/news/2024/11/18/world/crime-legal/saudi-executes-100-foreigners-2024/ "Saudi Arabia executes more than 100 foreigners in 2024")
 
-11 hours ago
+38 mins ago
 
-[Super Typhoon Man-yi batters Philippines' most populous island](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/man-yi-slams-philippines-most-populous-island/ "Super Typhoon Man-yi batters Philippines' most populous island")
+[Japan's machinery orders see unexpected fall in September](https://www.japantimes.co.jp/business/2024/11/18/economy/september-machinery-orders-fall/ "Japan's machinery orders see unexpected fall in September")
 
-11 hours ago
+59 mins ago
 
-[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+[In his home prefecture of Fukushima, actor Toshiyuki Nishida lives on](https://www.japantimes.co.jp/news/2024/11/18/japan/society/toshiyuki-nishida-fukushima/ "In his home prefecture of Fukushima, actor Toshiyuki Nishida lives on")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
