@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Sunday, November 17, 2024**
+**Monday, November 18, 2024**
 
-**...High Pressure to Bring Pleasant Conditions Across the Sunshine State...Few Sprinkles of Rain Possible Near Space and Treasure Coast...Breezy Winds to Develop Across South Florida and Keys Late in Afternoon...Mostly Dry Conditions Statewide...Patchy Fog Possible Overnight or Early Monday Morning Throughout North Florida...High Risk for Rip Currents Continues Along All East Coast Beaches; Moderate Risk for Several Panhandle Beaches...King Tides Bringing Instances of Minor to Moderate Coastal Flooding Along East Coast, South Florida and Keys...Tropical Storm Sara to Make Landfall in Belize Today...**
+**...High Pressure to Bring Pleasant Conditions Across the Sunshine State...Brief Isolated Showers Possible Along Panhandle This Afternoon...Breezy Wind Gusts to Develop Along Western Panhandle and South Florida...Temperatures Still Above Normal For This Time of Year...Mostly Dry Conditions to Continue Overnight Nearly Statewide...Increasing Moisture Ahead of Approaching Cold Front to Bring Scattered Showers Overnight or Early Tuesday Morning Along Western Panhandle...High Risk for Rip Currents Returns to Panhandle; Moderate Risk for East Coast...King Tides Linger Along East Coast and Keys Creating instances of Minor Coastal Flooding; Onshore Winds and Elevated Surf to Bring Minor Coastal Flooding for Far Western Panhandle...Minor to Moderate Riverine Flooding Continues for Withlacoochee and St. Johns...Sara Has Degenerated Into Remnants and an Upper-Level Disturbance...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
