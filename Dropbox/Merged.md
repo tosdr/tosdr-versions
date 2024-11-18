@@ -13,9 +13,9 @@
     * [![Backup logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/Backup-logo-nav.svg?id=88a257c5-602b-48c0-bf49-e65aa2df21dd)
         
         BackupAutomatically back up your devices](https://www.dropbox.com/backup)
-    * [![Capture logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/Capture-logo-nav.svg?id=c6fb8e66-f6a0-4286-a8e2-5039067bd74b)
+    * [![Reclaim.ai logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/reclaim-dbx-waffle-32x32.svg?id=48ed6a4b-91be-43f0-a91e-0868a4380db7)
         
-        CaptureCreate screen recordings and video messages](https://www.dropbox.com/capture?_tk=nav)
+        Reclaim.aiSchedule habits, tasks, and meetings with AI](https://www.reclaim.ai/?utm_medium=referral&utm_source=dbx-header-referral&utm_campaign=dbx-header&utm_term=dbx-header)
     
     * [![Dash logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/dash-logo-nav.svg?id=0eaff5fa-ffc5-41dd-bba1-4f05c5e32205)
         
@@ -83,9 +83,9 @@
     * [![Backup logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/Backup-logo-nav.svg?id=88a257c5-602b-48c0-bf49-e65aa2df21dd)
         
         BackupAutomatically back up your devices](https://www.dropbox.com/backup)
-    * [![Capture logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/Capture-logo-nav.svg?id=c6fb8e66-f6a0-4286-a8e2-5039067bd74b)
+    * [![Reclaim.ai logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/reclaim-dbx-waffle-32x32.svg?id=48ed6a4b-91be-43f0-a91e-0868a4380db7)
         
-        CaptureCreate screen recordings and video messages](https://www.dropbox.com/capture?_tk=nav)
+        Reclaim.aiSchedule habits, tasks, and meetings with AI](https://www.reclaim.ai/?utm_medium=referral&utm_source=dbx-header-referral&utm_campaign=dbx-header&utm_term=dbx-header)
     
     * [![Dash logo](https://fjord.dropboxstatic.com/warp/conversion/dropbox/warp/icons/dash-logo-nav.svg?id=0eaff5fa-ffc5-41dd-bba1-4f05c5e32205)
         
