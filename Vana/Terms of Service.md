@@ -449,7 +449,7 @@ Decentralized network for user owned data
 
 Short for “Nirvana”, in reference to liberating and setting data free.
 
-[](https://x.com/withvana)[](https://github.com/vana-com)[](https://discord.com/invite/Wv2vtBazMR)
+[](https://x.com/withvana)[](https://github.com/vana-com)[](https://discord.gg/withvana)
 
 Ecosystem
 
