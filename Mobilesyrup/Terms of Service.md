@@ -16,6 +16,12 @@
 
 * [SyrupArcade](https://mobilesyrup.com/categories/gaming/)
     
+    [](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+    
+    Nov 17, 2024 | 11:01 AM EST
+    
+    ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+    
     [](https://mobilesyrup.com/2024/11/15/xbox-black-friday-2024-sale-canada/)
     
     Nov 15, 2024 | 5:16 PM EST
@@ -46,13 +52,13 @@
     
     ### [Grand Theft Auto CEO says AI won’t make developing games cheaper](https://mobilesyrup.com/2024/11/13/gta-ceo-say-ai-wont-make-games-cheaper/)
     
-    [](https://mobilesyrup.com/2024/11/12/white-steam-deck-oled-november-18/)
-    
-    Nov 12, 2024 | 5:00 PM EST
-    
-    ### [White Steam Deck OLED coming out on November 18th](https://mobilesyrup.com/2024/11/12/white-steam-deck-oled-november-18/)
-    
     * [Gaming](https://mobilesyrup.com/categories/gaming/)
+        
+        [](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+        
+        Nov 17, 2024 | 11:01 AM EST
+        
+        ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
         
         [](https://mobilesyrup.com/2024/11/15/xbox-black-friday-2024-sale-canada/)
         
@@ -84,14 +90,14 @@
         
         ### [Grand Theft Auto CEO says AI won’t make developing games cheaper](https://mobilesyrup.com/2024/11/13/gta-ceo-say-ai-wont-make-games-cheaper/)
         
-        [](https://mobilesyrup.com/2024/11/12/white-steam-deck-oled-november-18/)
-        
-        Nov 12, 2024 | 5:00 PM EST
-        
-        ### [White Steam Deck OLED coming out on November 18th](https://mobilesyrup.com/2024/11/12/white-steam-deck-oled-november-18/)
-        
     
 * [News](https://mobilesyrup.com/categories/news/)
+    
+    [](https://mobilesyrup.com/2024/11/18/telus-new-plans-cheaper-90-200gb-canada-us-mexico/)
+    
+    Nov 18, 2024 | 10:20 AM EST
+    
+    ### [Telus changes plans, rolls out cheaper $90/200GB Can/U.S./Mex option](https://mobilesyrup.com/2024/11/18/telus-new-plans-cheaper-90-200gb-canada-us-mexico/)
     
     [](https://mobilesyrup.com/2024/11/15/xbox-black-friday-2024-sale-canada/)
     
@@ -123,13 +129,13 @@
     
     ### [Fido Black Friday 2024 deals include discount Pixels, $44/60GB plan](https://mobilesyrup.com/2024/11/15/fido-black-friday-2024/)
     
-    [](https://mobilesyrup.com/2024/11/15/rogers-black-friday-2024/)
-    
-    Nov 15, 2024 | 12:37 PM EST
-    
-    ### [Rogers Black Friday 2024 sale now live, save on Pixel 9](https://mobilesyrup.com/2024/11/15/rogers-black-friday-2024/)
-    
     * [Carriers](https://mobilesyrup.com/categories/news/news-carriers/)
+        
+        [](https://mobilesyrup.com/2024/11/18/telus-new-plans-cheaper-90-200gb-canada-us-mexico/)
+        
+        Nov 18, 2024 | 10:20 AM EST
+        
+        ### [Telus changes plans, rolls out cheaper $90/200GB Can/U.S./Mex option](https://mobilesyrup.com/2024/11/18/telus-new-plans-cheaper-90-200gb-canada-us-mexico/)
         
         [](https://mobilesyrup.com/2024/11/15/chatr-black-friday-deal-29-25gb/)
         
@@ -160,12 +166,6 @@
         Nov 15, 2024 | 11:26 AM EST
         
         ### [Telus tempts Koodo customers ahead of Black Friday with $60/150GB, $65/200GB offers](https://mobilesyrup.com/2024/11/15/telus-koodo-migration-plans-60-150gb-65-200gb/)
-        
-        [](https://mobilesyrup.com/2024/11/14/telus-public-24-60gb-migration-plan/)
-        
-        Nov 14, 2024 | 5:28 PM EST
-        
-        ### [Telus offering some Public customers $24/60GB 5G migration plan](https://mobilesyrup.com/2024/11/14/telus-public-24-60gb-migration-plan/)
         
     * [Smartphones](https://mobilesyrup.com/categories/news/news-smartphones/)
         
@@ -512,6 +512,24 @@
     
 * [Reviews](https://mobilesyrup.com/categories/reviews/)
     
+    [](https://mobilesyrup.com/2024/11/17/gm-super-cruise-test-review/)
+    
+    Nov 17, 2024 | 2:52 PM EST
+    
+    ### [](https://mobilesyrup.com/2024/11/17/gm-super-cruise-test-review/)
+    
+    [](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+    
+    Nov 17, 2024 | 11:01 AM EST
+    
+    ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+    
+    [](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
+    
+    Nov 16, 2024 | 2:27 PM EST
+    
+    ### [Dragon Quest III HD-2D Remake is the perfect blast from the past](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
+    
     [](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
     
     Nov 10, 2024 | 2:07 PM EST
@@ -529,24 +547,6 @@
     Nov 7, 2024 | 9:00 AM EST
     
     ### [MacBook Pro M4 Review: Speed demon](https://mobilesyrup.com/2024/11/07/macbook-pro-m4-review-speed-demon/)
-    
-    [](https://mobilesyrup.com/2024/11/07/m4-mac-mini-review-great-things-come-in-small-packages/)
-    
-    Nov 7, 2024 | 9:00 AM EST
-    
-    ### [M4 Mac mini Review: Great things come in small packages](https://mobilesyrup.com/2024/11/07/m4-mac-mini-review-great-things-come-in-small-packages/)
-    
-    [](https://mobilesyrup.com/2024/11/06/the-iphone-16-feels-unapologetically-plastic-with-the-beats-case/)
-    
-    Nov 6, 2024 | 12:22 PM EST
-    
-    ### [The iPhone 16 feels “unapologetically plastic” with the Beats case](https://mobilesyrup.com/2024/11/06/the-iphone-16-feels-unapologetically-plastic-with-the-beats-case/)
-    
-    [](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
-    
-    Nov 4, 2024 | 7:00 AM EST
-    
-    ### [Mario & Luigi: Brothership is one of the most charming games I’ve played in ages](https://mobilesyrup.com/2024/11/04/mario-and-luigi-brothership-nintendo-switch-review/)
     
     * [Smartphones](https://mobilesyrup.com/categories/reviews/reviews-smartphones/)
         
@@ -664,6 +664,12 @@
         
     * [Automotive](https://mobilesyrup.com/categories/reviews/reviews-automotive/)
         
+        [](https://mobilesyrup.com/2024/11/17/gm-super-cruise-test-review/)
+        
+        Nov 17, 2024 | 2:52 PM EST
+        
+        ### [](https://mobilesyrup.com/2024/11/17/gm-super-cruise-test-review/)
+        
         [](https://mobilesyrup.com/2024/09/08/2025-volvo-ex90-test-drive/)
         
         Sep 8, 2024 | 11:03 AM EDT
@@ -693,12 +699,6 @@
         Nov 21, 2023 | 7:01 AM EST
         
         ### [2025 Volvo EX30 Test Drive: Smooth ride centred on a screen](https://mobilesyrup.com/2023/11/21/2025-volvo-ex30-test-drive-smooth-ride-centred-on-a-screen/)
-        
-        [](https://mobilesyrup.com/2023/05/29/hyundai-ioniq-5-ev-20000km-review/)
-        
-        May 29, 2023 | 3:20 PM EDT
-        
-        ### [After 20,000km with Hyundai’s Ioniq 5, here’s what you need to know before you buy](https://mobilesyrup.com/2023/05/29/hyundai-ioniq-5-ev-20000km-review/)
         
     * [Accessories](https://mobilesyrup.com/categories/reviews/reviews-accessories/)
         
@@ -740,6 +740,18 @@
         
     * [Gaming](https://mobilesyrup.com/categories/reviews/reviews-gaming/)
         
+        [](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+        
+        Nov 17, 2024 | 11:01 AM EST
+        
+        ### [Awaken – Astral Blade is a fun Metroidvania, but no Hollow Knight](https://mobilesyrup.com/2024/11/17/awaken-astral-blade-review/)
+        
+        [](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
+        
+        Nov 16, 2024 | 2:27 PM EST
+        
+        ### [Dragon Quest III HD-2D Remake is the perfect blast from the past](https://mobilesyrup.com/2024/11/16/dragon-quest-iii-hd-2d-remake-review/)
+        
         [](https://mobilesyrup.com/2024/11/10/xbox-series-x-all-digital-review-a-small-discount-same-xbox/)
         
         Nov 10, 2024 | 2:07 PM EST
@@ -763,18 +775,6 @@
         Oct 21, 2024 | 10:00 AM EDT
         
         ### [Blumhouse’s Fear the Spotlight is the perfect indie horror experience](https://mobilesyrup.com/2024/10/21/fear-the-spotlight-blumhouse-games-cozy-game-pals-ps5-review/)
-        
-        [](https://mobilesyrup.com/2024/10/21/sonic-x-shadow-generations-review/)
-        
-        Oct 21, 2024 | 9:00 AM EDT
-        
-        ### [Sonic X Shadow Generations delivers the series’ most emotional story since Sonic Adventure 2](https://mobilesyrup.com/2024/10/21/sonic-x-shadow-generations-review/)
-        
-        [](https://mobilesyrup.com/2024/10/15/super-mario-party-jamboree-nintendo-switch-review/)
-        
-        Oct 15, 2024 | 9:00 AM EDT
-        
-        ### [Super Mario Party Jamboree is some of the most fun I’ve had all year](https://mobilesyrup.com/2024/10/15/super-mario-party-jamboree-nintendo-switch-review/)
         
     * [Apps & Software](https://mobilesyrup.com/categories/reviews/reviews-apps-software/)
         
