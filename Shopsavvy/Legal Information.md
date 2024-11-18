@@ -393,4 +393,4 @@ Subscribe
 
 [Twitter](https://twitter.com/shopsavvy)[Instagram](https://instagram.com/shopsavvy)[Facebook](https://facebook.com/shopsavvy)
 
-© 2024 Monolith Technologies, Inc. All rights reserved.
+© 2024 Monolith Technologies, Inc. All rights reserved..
