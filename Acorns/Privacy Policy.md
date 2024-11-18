@@ -10,11 +10,11 @@ Investment account](https://www.acorns.com/invest)[![Later](https://sqy7rm.media
 
 Later
 
-Retirement](https://www.acorns.com/later)[![Early](https://sqy7rm.media.zestyio.com/Early-icon-24x24.svg)
+Retirement](https://www.acorns.com/later)[![Early Invest](https://sqy7rm.media.zestyio.com/Early-icon-24x24.svg)
 
-Early
+Early Invest
 
-Invest for kids](https://www.acorns.com/early)[![Sustainable](https://sqy7rm.media.zestyio.com/Sustainable-Icon-24x24.svg)
+Invest for kids](https://www.acorns.com/early-invest/)[![Sustainable](https://sqy7rm.media.zestyio.com/Sustainable-Icon-24x24.svg)
 
 Sustainable
 
@@ -24,7 +24,7 @@ Bits of Bitcoin
 
 Bitcoin ETF](https://www.acorns.com/bitcoin-etf/)
 
-[Banking](https://www.acorns.com/mighty-oak-card/)[Earning](https://www.acorns.com/earn)[Learning](https://www.acorns.com/learn/)[Pricing](https://www.acorns.com/pricing)
+[Banking](https://www.acorns.com/mighty-oak-card/)[Earning](https://www.acorns.com/earn)[Learning](https://www.acorns.com/learn/)[Kids](https://www.acorns.com/early/)[Pricing](https://www.acorns.com/pricing)
 
 [Log in](https://app.acorns.com/)[Get started](https://app.adjust.com/s1mjg4g_4oq5ari?fallback=https://signup.acorns.com/signup/)
 
@@ -36,15 +36,15 @@ Investing ![Downward arrow](https://sqy7rm.media.zestyio.com/Downward-Carat.svg)
 
 Investment account](https://www.acorns.com/invest)[Later
 
-Retirement](https://www.acorns.com/later)[Early
+Retirement](https://www.acorns.com/later)[Early Invest
 
-Invest for kids](https://www.acorns.com/early)[Sustainable
+Invest for kids](https://www.acorns.com/early-invest/)[Sustainable
 
 Sustainable ESG portfolios](https://www.acorns.com/esg-investing)[Bits of Bitcoin
 
 Bitcoin ETF](https://www.acorns.com/bitcoin-etf/)
 
-[Banking](https://www.acorns.com/mighty-oak-card/) [Earning](https://www.acorns.com/earn) [Learning](https://www.acorns.com/learn/) [Pricing](https://www.acorns.com/pricing)
+[Banking](https://www.acorns.com/mighty-oak-card/) [Earning](https://www.acorns.com/earn) [Learning](https://www.acorns.com/learn/) [Kids](https://www.acorns.com/early/) [Pricing](https://www.acorns.com/pricing)
 
 * * *
 
@@ -75,7 +75,7 @@ The Fine Print of Acorns
 * [Cricket Terms and Conditions](https://www.acorns.com/cricket-terms-and-conditions/)
 * [Privacy Policy
     ==============](https://www.acorns.com/privacy/)
-* [Gohenry Terms and Conditions](https://www.acorns.com/gohenry-terms-and-conditions/)
+* [Acorns Early Terms and Conditions](https://www.acorns.com/acorns-early-terms-and-conditions/)
 * [Important Disclosures](https://www.acorns.com/disclosures/)
 * [Referral Agreement](https://www.acorns.com/referral-agreement/)
 * [Business Continuity Plan](https://www.acorns.com/business-continuity-plan/)
@@ -463,7 +463,7 @@ Certain Nevada consumers may opt out of the sale of “personally identifiable i
 
 ###### Products
 
-[**Invest** for your future](https://www.acorns.com/invest/) [**Later** starts today](https://www.acorns.com/later/) [**Earn** extra money](https://www.acorns.com/earn/) [**Early** investors](https://www.acorns.com/early) [**Bank** smarter](https://www.acorns.com/mighty-oak-card/)
+[**Invest** for your future](https://www.acorns.com/invest/) [**Later** starts today](https://www.acorns.com/later/) [**Earn** extra money](https://www.acorns.com/earn/) [**Early** investors](https://www.acorns.com/early-invest/) [**Bank** smarter](https://www.acorns.com/mighty-oak-card/)
 
 ###### Who we are
 
@@ -513,13 +513,13 @@ Certain Nevada consumers may opt out of the sale of “personally identifiable i
   
 For informational purposes only. This is solely intended to provide notification of an available product or service. This is not a recommendation to buy, sell, hold, or roll over any asset, adopt an investment strategy, or use a particular account type. This information does not consider the specific investment objectives, tax and financial conditions or particular needs of any specific person. Investors should discuss their specific situation with their financial professional.
 
-13\. **Early**, an UTMA/UGMA investment account managed by an adult custodian until the minor beneficiary comes of age, at which point they assume control of the account. Money in a custodial account is the property of the minor. Customers in the Gold Subscription Plan are automatically eligible for a 1% "Early Match" promotion on deposits by the Customer of up to $7,000 a year per Early Account. All funds must be held in the applicable Acorns Early Account for at least four years of the Early Match deposit date or until the beneficiary reaches the applicable Age of Transfer, whichever is earlier. The Early Match will be subject to recapture by Acorns if funds are withdrawn from the Early Account during the four year period, up to the amount for which a 1% Early Match was received. The Early Match will also be subject to recapture if a customer downgrades to a Subscription Plan with a lower monthly fee within this period.
+13\. **Acorns Early Invest,** an UTMA/UGMA investment account managed by an adult custodian until the minor beneficiary comes of age, at which point they assume control of the account. Money in a custodial account is the property of the minor.  Customers in the Gold Subscription Plan are automatically eligible for a 1% "Early Match" promotion on deposits by the Customer of up to $7,000 a year per Early Account. All funds must be held in the applicable Acorns Early Account for at least four years of the Early Match deposit date or until the beneficiary reaches the applicable Age of Transfer, whichever is earlier. The Early Match will be subject to recapture by Acorns if funds are withdrawn from the Early Account during the four year period, up to the amount for which a 1% Early Match was received. The Early Match will also be subject to recapture if a customer downgrades to a Subscription Plan with a lower monthly fee within this period.
 
 14\. **Custom Portfolios** are non-discretionary investment advisory accounts, managed by the customer. Custom Portfolios are not available as a stand alone account and clients must have an Acorns Invest account. Custom portfolios are not instant trading. Clients wanting more control over order placement and execution may need to consider alternative investment platforms before adding a Custom portfolio account.
 
 15\. The **Acorns Gold GoHenry Benefit** is available only to Acorns subscribers who subscribe to the Acorns Gold Plan and is for the monthly GoHenry Child or Family Plan Membership Fee, subject to these Waiver Terms. You will remain responsible for any other fees that you owe under the GoHenry Cardholder Terms and Conditions that are not included in the monthly GoHenry Child or Family Plan Membership Fee, as applicable.
 
-16\. Kids aged 6-18. **GoHenry Inc.** **The GoHenry Card is issued by Community Federal Savings Bank, member FDIC**, pursuant to license by Mastercard International. Cardholder Terms and limits apply. 
+16\. © GoHenry Inc. ("Acorns Early") All rights reserved. Acorns Early is not a bank. The Acorns Early card is issued by Community Federal Savings Bank, member FDIC, pursuant to license by Mastercard International. Our office is located at Acorns Early, 5300 California Avenue, Irvine, CA 92617. Cardholder Terms and limits apply.
 
 17. **It is not possible to invest directly in an index.** Past performance is no guarantee of future results.  
 
