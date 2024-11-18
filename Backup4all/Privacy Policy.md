@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to backup your data to CenturyLink](https://www.backup4all.com/how-to-backup-your-data-to-centurylink-kb.html)  
+* [How to create a full backup](https://www.backup4all.com/how-to-create-a-full-backup-kb.html)  
     
-* [Backup strategy: run first backup locally the ...](https://www.backup4all.com/how-to-run-the-first-large-backup-locally-then-continue-the-kb.html)  
+* [How to restore a backup from Azure](https://www.backup4all.com/how-to-restore-a-backup-from-azure-kb.html)  
     
-* [Backup to Iomega REV drives](https://www.backup4all.com/backup-to-iomega-rev-drives-kb.html)  
+* [How to generate a self signed certificate](https://www.backup4all.com/how-to-generate-a-self-signed-certificate-kb.html)  
     
-* [How to backup on two external drives using th ...](https://www.backup4all.com/how-to-backup-on-two-external-drives-using-the-daily-rotation-scheme-kb.html)  
+* [How to create a mirror with zip backup](https://www.backup4all.com/how-to-create-a-mirror-with-zip-backup-kb.html)  
     
-* [How do I use the history](https://www.backup4all.com/how-do-i-use-the-history-kb.html)  
+* [Using the Backup4all sidebar gadget](https://www.backup4all.com/using-the-backup4all-sidebar-gadget-kb.html)  
     
 
 Choose language:
