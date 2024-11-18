@@ -348,7 +348,7 @@ We accept Bank Card
 
 ![](/assets/lightning-6bca492e548a884a214cfaa7b65fe2efa89a5f3201d6dd4fa6a2113b28ce31c3.png)
 
-Withdraw via [Lightning](https://a-ads.com/blog/effortlessly-withdraw-bitcoin-from-a-ads-using-lightning-network/)
+Deposit and withdraw via [Lightning](https://a-ads.com/lightning/)
 
  [![earth](/assets/earth-icon-98d06ad93ed623e1ef541a44f38b3232444ff8f935ca56f500e41146b8f3c453.svg)English](javascript:void(0))
 
