@@ -176,8 +176,6 @@ COMPANY
 * [Collections](https://bossmonsta.com/collections "Collections")
 * [Bundles](https://bossmonsta.com/collections/bundles "Bundles")
 
-Amazon
-
 American Express
 
 Apple Pay
