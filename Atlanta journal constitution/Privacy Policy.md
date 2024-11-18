@@ -14,7 +14,6 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [Weekend Things to Do](https://www.ajc.com/things-to-do/things-to-do-in-atlanta-this-weekend-nov-15-17/ZW5WDEO5NVDTXDZXELR7BGMRSQ/)
 * [Georgia Election Results](https://www.ajc.com/politics/election-results/)
 * [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
