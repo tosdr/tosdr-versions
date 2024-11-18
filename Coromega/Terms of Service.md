@@ -34,7 +34,11 @@ Your cart is empty
 
 [Start shopping](https://coromega.com/collections/all)
 
-Enjoy Free Shipping Over $45
+✨ Black Friday is Here! Take 20% Off Everything ✨
+
+Code: Friday20
+
+Announce [something](#) here
 
 [![Coromega](//coromega.com/cdn/shop/files/2._Coromega_Omega-3Core_-970x300_Slctd_sachet_copy.psd_550x.png?v=1690833114)](https://coromega.com/ "Coromega")
 
