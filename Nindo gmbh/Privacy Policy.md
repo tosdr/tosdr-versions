@@ -1,3 +1,5 @@
+Nach einem Datenbankupgrade sind unsere Systeme langsamer als üblich. Wir arbeiten mit Hochdruck daran, die Systeme wieder in den Normalzustand zu versetzen & bitten um Geduld.
+
 [](https://nindo.de/)
 
 * Features
