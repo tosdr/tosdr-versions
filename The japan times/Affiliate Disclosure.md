@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 18, 2024](https://www.japantimes.co.jp/archive/2024/11/18/ "archive page")
+[November 19, 2024](https://www.japantimes.co.jp/archive/2024/11/19/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
-  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+
+[Hyogo governor reelected following ouster by assembly over harassment](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
+
+  [![Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434601.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
 
 [Mount Fuji eyes China-made tram to transport hikers, source says](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
 
   [![Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.")](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
 
-[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
-  [![U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434547.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.")](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
-
-[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
-
-  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Editors' Picks
 --------------
@@ -164,9 +164,17 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[U.S. intelligence head nominee made possibly hostile remarks on Japan](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
-  [![Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434409.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Tulsi Gabbard, U.S. President-elect Donald Trump's pick for director of national intelligence, has questioned on X whether the remilitarization of Japan is truly a good idea.")](https://www.japantimes.co.jp/news/2024/11/15/japan/gabbard-japan-hostile-remark/ "U.S. intelligence head nominee made possibly hostile remarks on Japan")
+  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Hyogo governor reelected following ouster by assembly over harassment](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
+
+By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
+
+  [![Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434601.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -176,21 +184,11 @@ By [Mariko Katsumura](https://www.japantimes.co.jp/author/4316/mariko-katsumura/
 
   [![Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.")](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
 
-[ASIA PACIFIC](https://www.japantimes.co.jp/news/asia-pacific/ "ASIA PACIFIC")
-
-[Trump's shadow looms as Xi and Biden hold final meeting](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
-
-By [Jesse Johnson](https://www.japantimes.co.jp/author/141/jesse-johnson/ "Jesse Johnson")  
-
-  [![U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434547.JPG?v=3.1&w=400&q=100&f=jpg&t=1.51 "U.S. President Joe Biden meets with Chinese leader Xi Jinping on the sidelines of the Asia-Pacific Economic Cooperation forum in Lima on Saturday.")](https://www.japantimes.co.jp/news/2024/11/17/asia-pacific/politics/xi-biden-us-china-final-meeting/ "Trump's shadow looms as Xi and Biden hold final meeting")
-
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Ishiba delays meeting with Trump, citing legal restrictions](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
-By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
-
-  [![Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434480.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Prime Minister Shigeru Ishiba waves upon arrival for the Asia-Pacific Economic Cooperation forum, in Callao, Peru, on Friday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/politics/ishiba-trump-no-meeting/ "Ishiba delays meeting with Trump, citing legal restrictions")
+  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Podcast
 -------
@@ -253,25 +251,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
+[Microsoft opens AI and robotics research base in Tokyo](https://www.japantimes.co.jp/business/2024/11/18/tech/microsoft-ai-robotics-tokyo/ "Microsoft opens AI and robotics research base in Tokyo")
+
+4 hours ago
+
+[Yamanashi officially scraps Fuji railway plan as it looks to Chinese tram](https://www.japantimes.co.jp/news/2024/11/18/japan/fuji-chinese-tram-announcement/ "Yamanashi officially scraps Fuji railway plan as it looks to Chinese tram")
+
+6 hours ago
+
+[How Bluesky, alternative to X and Facebook, is handling explosive growth](https://www.japantimes.co.jp/business/2024/11/18/tech/bluesky-growth-twitter-x/ "How Bluesky, alternative to X and Facebook, is handling explosive growth")
+
+6 hours ago
+
 [Japan to test anti-drone laser system next year](https://www.japantimes.co.jp/news/2024/11/18/japan/japan-antidrone-laser-system/ "Japan to test anti-drone laser system next year")
 
-10 mins ago
+6 hours ago
 
 [Indefinite prison term sought for murder of 'Don Juan of Kishu'](https://www.japantimes.co.jp/news/2024/11/18/japan/crime-legal/don-juan-indefinite-prison-request/ "Indefinite prison term sought for murder of 'Don Juan of Kishu'")
 
-1 hours ago
-
-[Ministry ramps up support for prisoners with mental disabilities in Japan](https://www.japantimes.co.jp/news/2024/11/18/japan/crime-legal/support-prisoners-mental-disabilities/ "Ministry ramps up support for prisoners with mental disabilities in Japan")
-
-1 hours ago
-
-[Four candidates vie for leadership of Nippon Ishin no Kai](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/nippon-ishin-leadership-race/ "Four candidates vie for leadership of Nippon Ishin no Kai")
-
-1 hours ago
-
-[F-35A deployment at Misawa base to start in spring 2026](https://www.japantimes.co.jp/news/2024/11/18/japan/f35-a-fighter-jet-deployment-misawa-base/ "F-35A deployment at Misawa base to start in spring 2026")
-
-1 hours ago
+7 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
