@@ -296,6 +296,22 @@ Region (Language)
 
 MyNETGEAR® Account
 
+Welcome back
+
+Access your NETGEAR
+
+[](https://store.netgear.com/orderhistory)
+
+ [![myorders](/media/myorders_tcm148-78926.png) My Orders](https://store.netgear.com/orderhistory)
+
+[](https://store.netgear.com/orderhistory) [![manageprofile](/media/manageprofile_tcm148-78927.png) Manage Profile](https://accounts.netgear.com/account?redirectUrl=https://www.netgear.com/about/ad-cookie-policy/) [![mysupport](/media/mysupport_tcm148-78924.png) My Support](https://my.netgear.com/cases.aspx) [![trackorder](/media/trackorder_tcm148-78928.png) Track Order](https://store.netgear.com/orderhistory) [![trackorder](/media/trackorder_tcm148-78928.png) Returns](https://store.netgear.com/returns)
+
+[Log Out](https://store.netgear.com/loginlogout?returnUrl=https%3A%2F%2Fwww.netgear.com%2Fabout%2Fad-cookie-policy%2F)
+
+ [![account_white](/media/account_white_tcm148-119355.png) ![account_dark](/media/account_dark_tcm148-119354.png)](#)
+
+MyNETGEAR® Account
+
 Sign up and enjoy these benefits!
 
 [✓ My Orders](https://store.netgear.com/loginshow?returnUrl=https%3A%2F%2Fstore.netgear.com%2Forderhistory)[✓ Manage Profile](https://store.netgear.com/loginshow?returnUrl=https%3A%2F%2Faccounts.netgear.com%2Faccount%3FredirectUrl%3Dhttps://www.netgear.com/about/ad-cookie-policy/)[✓ My Support](https://my.netgear.com/cases.aspx)[✓ Track Order](https://store.netgear.com/trackorder)[✓ Returns](https://store.netgear.com/returns)[Create Account](https://accounts.netgear.com/signup/?redirectUrl=https:%2F%2Fstore.netgear.com%2Floginshow%3FreturnUrl%3Dhttps%3A%2F%2Fwww.netgear.com%2Fabout%2Fad-cookie-policy%2F)
@@ -320,7 +336,7 @@ Checkout
 
 Previous Next
 
-![Icon-Close](/system/v4.17/assets/images/Icon-Close.png)
+![Icon-Close](/system/v4.18/assets/images/Icon-Close.png)
 
 * [HOME SOLUTIONS](#t21827-k98153)
 * [BUSINESS SOLUTIONS](#t21827-k102990)
@@ -583,6 +599,14 @@ Region (Language)
  [United States (English)](https://www.netgear.com/)
 
  ![search_dark](/media/search_dark_tcm148-119361.png)![account_dark](/media/account_dark_tcm148-119354.png) [![cart_dark](/media/cart_dark_tcm148-119356.png)](https://store.netgear.com/cart?lang=en_US)
+
+MyNETGEAR® Account
+
+Welcome back
+
+ [![myorders](/media/myorders_tcm148-78926.png) My Orders](https://store.netgear.com/orderhistory) [![manageprofile](/media/manageprofile_tcm148-78927.png) Manage Profile](https://accounts.netgear.com/account?redirectUrl=https://www.netgear.com/about/ad-cookie-policy/) [![mysupport](/media/mysupport_tcm148-78924.png) My Support](https://my.netgear.com/cases.aspx) [![trackorder](/media/trackorder_tcm148-78928.png) Track Order](https://store.netgear.com/orderhistory) [![trackorder](/media/trackorder_tcm148-78928.png) Returns](https://store.netgear.com/returns)
+
+[Log Out](https://store.netgear.com/loginlogout?returnUrl=https%3A%2F%2Fwww.netgear.com%2Fabout%2Fad-cookie-policy%2F)
 
 MyNETGEAR® Account
 
