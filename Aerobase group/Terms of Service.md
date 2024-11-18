@@ -150,10 +150,15 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Second Trump presidency could mean harder line with defense industry](https://www.defensenews.com/air/2024/11/18/second-trump-presidency-could-mean-harder-line-with-defense-industry/)  
+    11/18/24 11:12am  
+    
+    A second Trump administration could mean the Pentagon taking a harder line with defense contractors, especially in the capital-intensive field of aerospace. (Staff Sgt. William Downs/Air Force)
+    
 * [Air Force buying more drone wingmen to develop operational tactics](https://www.defensenews.com/air/2024/11/15/air-force-buying-more-drone-wingmen-to-develop-operational-tactics/)  
     11/15/24 03:01pm  
     
-    The Air Force is buying more drone wingmen, known as collaborative combat aircraft, to experiment with and figure out tactics for using them in operations. Both Anduril's Fury, shown here at the Air and Space Forces Association's conference in September, and General Atomics' Gambit are in the running to be CCAs. (Stephen Losey/Defense News)
+    Anduril's Fury collaborative combat aircraft, shown here at the Air and Space Forces Association's conference in September. (Stephen Losey/Defense News)
     
 * [China unveils J-35A and other new fighters at Zhuhai Airshow](https://www.defensenews.com/global/asia-pacific/2024/11/13/china-unveils-j-35a-and-other-new-fighters-at-zhuhai-airshow/)  
     11/13/24 06:51am  
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/08/24 02:15pm  
     
     The Air Force worries it will be unable to afford a next-generation refueling tanker, as the service struggles with how to pay for a bow wave of modernizations. (Alexis Morris/U.S. Air Force)
-    
-* [Watch the US Air Force carry out dramatic nighttime Minuteman III test](https://www.defensenews.com/air/2024/11/06/watch-the-us-air-force-carry-out-dramatic-nighttime-minuteman-iii-test/)  
-    11/06/24 05:00pm  
-    
-    Air Force Global Strike Command launches an unarmed Minuteman III intercontinental ballistic missile from Vandenberg Space Force Base.
     
 
 Recent parts by keyword  
