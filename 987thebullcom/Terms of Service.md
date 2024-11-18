@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>4:36am |
-| BonesRussell Dickerson<br><br>4:33am |
-| Breaking Up Was Easy In The 90'SSam Hunt<br><br>4:30am |
-| Beautiful As YouThomas Rhett<br><br>4:27am |
-| I Am Not OkayJelly Roll<br><br>4:24am |
+| Ridin' RoadsDustin Lynch<br><br>9:20am |
+| Take Your TimeSam Hunt<br><br>9:16am |
+| Truck BedHardy<br><br>9:13am |
+| I Never LieZach Top<br><br>9:10am |
+| I Am Not OkayJelly Roll<br><br>9:06am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,17 +358,17 @@ State
 Featured Brands
 ---------------
 
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Top 40 • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
+Top 40 • Pacific NW
 
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
+
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
+
+Sports • Midwest
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
