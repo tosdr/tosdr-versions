@@ -522,7 +522,7 @@ Back to top
         
     * [For prospective teachers](https://www.tes.com/institute/courses/become-a-teacher)
         
-    * [For schools](https://www.tes.com/en-gb/for-schools/training)
+    * [For schools](https://www.tes.com/institute/support-for-schools)
         
     * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
         
