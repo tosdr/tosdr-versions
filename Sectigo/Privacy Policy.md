@@ -94,7 +94,7 @@ Purpose-built digital certificate management for small businesses
 
 CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
 
-[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [45-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
+[50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [47-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
 
 Prepare for 45-day TLS certificates!
 
@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
 * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
 * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
 * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
 * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
-* [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -210,7 +210,7 @@ Login
     * CA agnostic certificate lifecycle management platform for the modern enterprise. Secure your human and machine identities at scale.
         
     * [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations)
-    * [45-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
+    * [47-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
     
 * Partners
     
@@ -242,11 +242,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [47-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/47-day-tls-shorter-certificate-lifespans-everywhere)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
     * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
     * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
     * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
     * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
-    * [Root Causes 434: Did Researchers Break AES Using Quantum Annealing?](https://www.sectigo.com/resource-library/root-causes-434-did-researchers-break-aes-using-quantum-annealing)
     
 * Company
     
