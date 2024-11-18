@@ -1196,7 +1196,7 @@ Stand: 19.03.2024
 
 Sprache
 
-Deutsch Français English
+Deutsch English
 
 * [](https://www.facebook.com/7Mind-309506115884031)
 * [](https://www.instagram.com/7mind_meditation_de)
