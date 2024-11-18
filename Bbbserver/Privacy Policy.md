@@ -1,4 +1,4 @@
-[![bbbserver.de Logo](/fileadmin/user_upload/bbb-server/NEU_bbbserver_logo.svg "bbbserver.de Logo")![bbbserver.de Logo](/fileadmin/user_upload/bbb-server/NEU_bbbserver_logo.svg "bbbserver.de Logo")](https://bbbserver.de/)
+[![bbbserver Logo](/fileadmin/user_upload/bbb-server/NEU_bbbserver_logo.svg "bbbserver Logo")![bbbserver Logo](/fileadmin/user_upload/bbb-server/NEU_bbbserver_logo.svg "bbbserver Logo")](https://bbbserver.de/)
 
 * * [](https://bbbserver.de/datenschutz "de")
         * [](https://bbbserver.com/data-privacy "gb")
