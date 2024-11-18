@@ -140,7 +140,7 @@ Giveaways
 
 [Support](https://www.hrkgame.com/en/support/)
 
-[](https://www.hrkgame.com/en/games/product/microsoft-office-2024-professional-plus)
+[](https://www.hrkgame.com/en/games/products/?search=SILENT+HILL+2)
 
 Terms of Service
 ----------------
