@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Every person is born with a creative mind. Everyone has the ability”
+“ A hacker to me is someone creative who does wonderful things”
 
-[Mary Beatrice Davidson Kenner](https://en.wikipedia.org/wiki/Mary_Kenner)
+[Tim Berners-Lee](https://twitter.com/wef/statuses/294738623641812992)
 
 [](https://www.adafruit.com/about)
 
