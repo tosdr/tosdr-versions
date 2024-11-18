@@ -210,11 +210,11 @@ Recently Played
 
 |     |
 | --- |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>10:38am |
-| Whiskey On YouNate Smith<br><br>10:35am |
-| Meant To BeBebe Rexha Ft Florida Georgia Line<br><br>10:32am |
-| Wagon WheelDarius Rucker<br><br>10:28am |
-| Lies, Lies, LiesMorgan Wallen<br><br>10:25am |
+| You Look Like You Love MeElla Langley Ft Riley Green<br><br>4:37pm |
+| Famous FriendsChris Young And Kane Brown<br><br>4:34pm |
+| What My World Spins AroundJordan Davis<br><br>4:31pm |
+| Wind Up Missing YouTucker Wetmore<br><br>4:28pm |
+| May We AllFlorida Georgia Line Ft Tim Mcgraw<br><br>4:25pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,6 +358,10 @@ State
 Featured Brands
 ---------------
 
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
+
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
@@ -369,10 +373,6 @@ Top 40 • Pacific NW
 [![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
 
 News Talk • Eastern
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
 
 [](https://www.alphamediausa.com/)
 
