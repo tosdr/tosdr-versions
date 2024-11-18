@@ -41,42 +41,42 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+*  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
     
     [Living](https://www.women.com/category/living/)
     
-    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    [Living](https://www.women.com/category/living/) By Amanda Chatel
     
-    [Anna Kendrick Is Refreshingly Candid About Her Decision To Remain Childless By Choice](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-    =============================================================================================================================================================================================
+    [Try Emma Watson's Viral Daily Journaling Practice For A Simple, Effective Mindfulness Habit](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+    ============================================================================================================================================================================================================
     
-    Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
+    If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
     
-    By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+    By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
     
-* *  [![Oprah Winfrey speaking into a mic while sitting on stage](https://www.women.com/img/gallery/the-best-oprahs-book-club-picks-of-the-2020s/intro-1731348923.jpg)](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-        
-        ### [The Best Oprah's Book Club Picks Of The 2020s](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-        
-        If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
-        
-        By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
-        
-    *  [![Willow Smith sitting at a fashion event posing](https://www.women.com/img/gallery/5-bisexual-celebs-who-remind-us-theres-no-timeline-for-coming-out/intro-1731342732.jpg)](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
+* *  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
         
         [Politics](https://www.women.com/category/politics/)
         
-        [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+        [Politics](https://www.women.com/category/politics/) By Madison Emily Whisenand
         
-        ### [5 Bisexual Celebs Who Remind Us There's No Timeline For Coming Out](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
+        ### [The People's Librarian: Dolly Parton Is Bringing Books Back To The People (Thank Goodness)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
         
-        If you're trying to find the right time to share your bisexuality, know that there is no right time. It's all about when it feels right for you.
+        Dolly's Parton Imagination Library is just as relevant as it was in 1995. She may be childfree, but she's truly become the people's librarian.
         
-        By Amanda Chatel [Read More](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
+        By Madison Emily Whisenand [Read More](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
+        
+    *  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Emily Hutchinson
+        
+        ### [Anna Kendrick Is Refreshingly Candid About Her Decision To Remain Childless By Choice](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+        
+        Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
+        
+        By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
         
 
 More Stories
@@ -105,6 +105,30 @@ More Stories
     From her early years as a model to posting Instagram thirst traps as a grandmother, Martha Stewart has embraced every fashion trend over her long career.
     
     By Emily Hutchinson [Read More](https://www.women.com/1712343/martha-stewart-style-transformed-through-years/)
+    
+*  [![Oprah Winfrey speaking into a mic while sitting on stage](https://www.women.com/img/gallery/the-best-oprahs-book-club-picks-of-the-2020s/intro-1731348923.jpg)](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
+    
+    ### [The Best Oprah's Book Club Picks Of The 2020s](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+    
+    If you're looking to read more books this year, keeping up with a book club is a great place to start. And joining Oprah's book club is even better.
+    
+    By Madison Emily Whisenand [Read More](https://www.women.com/1710300/best-oprah-book-club-picks-2020s/)
+    
+*  [![Willow Smith sitting at a fashion event posing](https://www.women.com/img/gallery/5-bisexual-celebs-who-remind-us-theres-no-timeline-for-coming-out/intro-1731342732.jpg)](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
+    
+    [Politics](https://www.women.com/category/politics/)
+    
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
+    
+    ### [5 Bisexual Celebs Who Remind Us There's No Timeline For Coming Out](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
+    
+    If you're trying to find the right time to share your bisexuality, know that there is no right time. It's all about when it feels right for you.
+    
+    By Amanda Chatel [Read More](https://www.women.com/1710102/celebs-who-came-out-bisexual-later-life/)
     
 *  [![Lindsay Lohan with blonde hair and grey jacket posing](https://www.women.com/img/gallery/lindsay-lohans-hair-transformation-throughout-the-years/intro-1731086336.jpg)](https://www.women.com/1708825/lindsay-lohan-hair-transformation-throughout-years/)
     
@@ -381,30 +405,6 @@ More Stories
     For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
     
     By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
-    
-*  [![Ariana Grande on the red carpet](https://www.women.com/img/gallery/ariana-grande-songs-that-beautifully-explore-grief-and-loss/intro-1730293079.jpg)](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-    
-    [Wellness](https://www.women.com/category/wellness/)
-    
-    [Wellness](https://www.women.com/category/wellness/) By Emily Hutchinson
-    
-    ### [Ariana Grande Songs That Beautifully Explore Grief And Loss](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-    
-    Ariana Grande knows exactly what it means to channel pain through music. We're revisiting the singer's most healing tracks of all time.
-    
-    By Emily Hutchinson [Read More](https://www.women.com/1700941/ariana-grande-songs-explore-grief-loss/)
-    
-*  [![Oprah Winfrey smiling](https://www.women.com/img/gallery/why-oprah-is-unapologetically-childless-by-choice/intro-1730134315.jpg)](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Madison Emily Whisenand
-    
-    ### [Why Oprah Is Unapologetically Childless By Choice](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
-    
-    There are plenty of celebrities who prove you can be unapologetically child free, with Hollywood icon Oprah Winfrey leading the charge.
-    
-    By Madison Emily Whisenand [Read More](https://www.women.com/1699176/why-oprah-unapologetically-childless-by-choice/)
     
 
 Back
