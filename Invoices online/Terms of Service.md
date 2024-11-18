@@ -196,57 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Instantaneous, Nicely Designed, Graphical Invoices
-> --------------------------------------------------
+> One of the best decisions I've made for my business
+> ---------------------------------------------------
 > 
-> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
+> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
 
-Henry Venter
+Anri van der Linde
 
-![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=170201429)  
-KTEN PARTS
+![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=201099960)  
+AFS Electrical
 
-![valued client SMART GUY PCS (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8162&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=79430609)  
-SMART GUY PCS (PTY) LTD
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=23309231)  
+Roamfree Boerdery (PTY) LTD
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=140497027)  
+![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=45525293)  
+Bloem Rugby Academy PTY (Ltd)
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=120166374)  
+MSPCloud (Pty) Ltd
+
+![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=92791769)  
+VerdanTech Pty Ltd
+
+![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=76896461)  
+On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+
+![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=130176292)  
+Cooper Power
+
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=3786029)  
+Highlands Auto Engineering
+
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=45777138)  
+Tiny Cuddles Photography
+
+![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=28489438)  
+Multi CNC Solutions CC
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=126145258)  
+VIV'S TRUCKS (Pty) Ltd. (29/31/33)
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=156047824)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=69520230)  
+Know Informatics
+
+![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=156985754)  
+NEW BEGINNINGS DESIGNS
+
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=106994687)  
 West Coast Horse Trails
-
-![valued client IAS Logistics (Pty) Ltd T/A MULTITRANSIT ](https://www.invoicesonline.co.za/scripts/image.php?bid=7064&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=167737047)  
-IAS Logistics (Pty) Ltd T/A MULTITRANSIT
-
-![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=179733540)  
-Qothiphango Mining
-
-![valued client PROGRAPHIX PTY LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8509&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=38663721)  
-PROGRAPHIX PTY LTD
-
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=53190892)  
-webb it services
-
-![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=164060909)  
-Itroniq (Pty) Ltd
-
-![valued client Prosper Park](https://www.invoicesonline.co.za/scripts/image.php?bid=8286&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=52599082)  
-Prosper Park
-
-![valued client Durbanville Classifieds (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8122&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=43528466)  
-Durbanville Classifieds (Pty) Ltd
-
-![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=101616121)  
-Dr V Naik Consult
-
-![valued client FLIPS AUTO ELECTRICAL ](https://www.invoicesonline.co.za/scripts/image.php?bid=8725&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=86504882)  
-FLIPS AUTO ELECTRICAL
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=94279685)  
-Henry's Home Renovations
-
-![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=153291367)  
-Gemini-IT Group
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=5e3c3c821bc1155ce6ab41bbafa08fb492042e4bbab40611b954f689180d3d88&c=137305235)  
-MONSTER SECURITY GUARDING
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
