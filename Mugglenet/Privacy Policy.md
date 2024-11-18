@@ -310,6 +310,14 @@ Recurs yearly
 
 1994
 
+#### Sun, Nov 24
+
+First task of the Triwizard Tournament
+
+Recurs yearly
+
+1994
+
 MuggleNet podcasts are sponsored in part by [Secretlab](https://secretlab.co/harrypotter?rfsn=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc&utm_source=refersion&utm_medium=affiliate&utm_campaign=8013987.9df8fbc).
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
@@ -320,15 +328,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Peeves was never a living person. He is not a ghost but an indestructible spirit of chaos, who can unscrew chandeliers, throw walking sticks, and generally cause mayhem.
+Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
 
 ### Potter History
 
-January 6, 2006 – Harry Potter and the Half-Blood Prince is announced as the best-selling book of 2005 with sales tallying $7.02m – astonishing seeing as the book was released in July, halfway through the year.
+July 31, 2008 – It is announced that The Tales of Beedle the Bard, originally only to be read by the owners of the seven handwritten copies, would be published worldwide on December 4, with all proceeds being given to charity.
 
 ### Potter Quote
 
-“Curiosity is not a sin. But we should exercise caution with our curiosity.”
+“I wonder how you expect to gain an idea of my usual teaching methods if you continue to interrupt me? You see, I do not generally permit people to talk when I am talking.”
 
 [](#)
 
