@@ -89,6 +89,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
     * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
+            ### [Keeping weight off may be stymied by fat cells’ ‘memory’ of obesity](https://www.sciencenews.org/article/weight-loss-obesity-fat-memory-cells)
+            
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")5 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
             ### [50 years ago, U.S. drinking water sparked health and safety concerns](https://www.sciencenews.org/article/drinking-water-carcinogens-update)
             
             By [Karen Kwon](https://www.sciencenews.org/author/karen-kwon "Posts by Karen Kwon")November 15, 2024
@@ -98,12 +104,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [22 pesticides show links to prostate cancer](https://www.sciencenews.org/article/pesticides-link-prostate-cancer)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 14, 2024
-            
-        * [Psychology](https://www.sciencenews.org/topic/psychology)
-            
-            ### [Researchers seek, and find, a magical illusion for the ears](https://www.sciencenews.org/article/magic-sound-auditory-visual-illusion)
-            
-            By [Sushmita Pathak](https://www.sciencenews.org/author/sushmita-pathak "Posts by Sushmita Pathak")November 13, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -118,7 +118,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Some people don’t have a mind’s eye. Scientists want to know why](https://www.sciencenews.org/article/minds-eye-brain-aphantasia-imagination)
             
-            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")7 hours ago
             
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
