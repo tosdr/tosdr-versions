@@ -501,7 +501,7 @@ Our failure to insist upon or enforce strict performance of any provision of the
 
 We welcome your questions and comments regarding these Terms of Use and anything else on this Site. Please email us at [dl-cyberweb@att.com](mailto:dl-cyberweb@att.com?subject=WEBSITE%20TERMS%20OF%20USE%20-%20Date%20%2F%20Version%3A%2007%20May%202018)
 
-[LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
+[LevelBlue logo LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
 
 From the Blog
 
