@@ -110,11 +110,11 @@ Category [Terms](https://www.freakden.com/blog/terms/)
 
 #### Newest Posts
 
+* [Rate it.. feels small now](https://www.freakden.com/pin/rate-it-feels-small-now/)
 * [Rate 10/10](https://www.freakden.com/pin/rate-10-10/)
 * [Soft and hard. 1-10](https://www.freakden.com/pin/soft-and-hard-1-10-2/)
 * [Clipped](https://www.freakden.com/pin/clipped-2/)
 * [Nub](https://www.freakden.com/pin/nub/)
-* [Klinefelter Syndrome 47XXY mature man patient](https://www.freakden.com/pin/klinefelter-syndrome-47xxy-mature-man-patient/)
 * [Me in all my Glory](https://www.freakden.com/pin/me-in-all-my-glory-2/)
 * [7.5](https://www.freakden.com/pin/7-5/)
 * [My pathetic tiny Limp dick husband](https://www.freakden.com/pin/my-pathetic-tiny-limp-dick-husband/)
