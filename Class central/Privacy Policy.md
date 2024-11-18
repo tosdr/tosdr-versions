@@ -414,38 +414,38 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. psychology
+1. python
     
-2. project management
+2. sql
     
-3. web development
+3. machine learning
     
 
 Popular subjects
 ----------------
 
-1. [Graphic Design
+1. [Data Analysis
     
-    4,340 courses](https://www.classcentral.com/subject/graphic-design)
-2. [Python
+    8,797 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Digital Marketing
     
-    9,913 courses](https://www.classcentral.com/subject/python)
-3. [Digital Marketing
+    6,263 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Graphic Design
     
-    6,256 courses](https://www.classcentral.com/subject/digital-marketing)
+    4,342 courses](https://www.classcentral.com/subject/graphic-design)
 
 Popular courses
 ---------------
 
-1. [English for Career Development
+1. [Marketing Innovative Products and Services
     
-    University of Pennsylvania](https://www.classcentral.com/course/careerdevelopment-6011)
-2. [Inglés empresarial: ventas, gestión y liderazgo
+    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
+2. [Matrix Algebra for Engineers
     
-    Universidad Anáhuac](https://www.classcentral.com/course/english-universidades-anahuac-ingles-empresarial--19171)
-3. [Crisis Resource Management
+    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/matrix-algebra-engineers-11986)
+3. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
     
-    Columbia University](https://www.classcentral.com/course/crisis-resource-management-columbia-university-cr-21613)
+    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
