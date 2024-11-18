@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Calm Down Edgelord, It's Called Wholesome Humor](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor "Calm Down Edgelord, It's Called Wholesome Humor") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
+[4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Calm Down Edgelord, It's Called Wholesome Humor](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor "Calm Down Edgelord, It's Called Wholesome Humor") [Jake Paul vs. Mike Tyson Rigged Fight Conspiracy Theory](https://knowyourmeme.com/memes/jake-paul-vs-mike-tyson-rigged-fight-conspiracy-theory "Jake Paul vs. Mike Tyson Rigged Fight Conspiracy Theory")
 
 Privacy Policy
 ==============
@@ -316,7 +316,7 @@ Please be sure to include your information in any correspondence to us so that w
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Namaste! You must login or signup first!
+### Howdy! You must login or signup first!
 
 |     |     |
 | --- | --- |
