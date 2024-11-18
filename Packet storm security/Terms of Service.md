@@ -53,12 +53,12 @@ Any claim relating to Packet Storm Security's web site shall be governed by the 
 Top Authors In Last 30 Days
 ---------------------------
 
-* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 235 files
-* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 50 files
-* [Debian](https://packetstormsecurity.com/files/authors/2821) 19 files
+* [Red Hat](https://packetstormsecurity.com/files/authors/4676) 242 files
+* [Ubuntu](https://packetstormsecurity.com/files/authors/3695) 52 files
+* [Debian](https://packetstormsecurity.com/files/authors/2821) 22 files
 * [LiquidWorm](https://packetstormsecurity.com/files/authors/5960) 15 files
 * [Apple](https://packetstormsecurity.com/files/authors/2397) 9 files
-* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 5 files
+* [Gentoo](https://packetstormsecurity.com/files/authors/3417) 8 files
 * [Google Security Research](https://packetstormsecurity.com/files/authors/11596) 3 files
 * [Alter Prime](https://packetstormsecurity.com/files/authors/17574) 3 files
 * [Pierre Kim](https://packetstormsecurity.com/files/authors/11740) 2 files
@@ -69,6 +69,30 @@ Recent News
 
 [![News RSS Feed](https://packetstatic.com/img1514015884/bt_rss.gif)](https://rss.packetstormsecurity.com/news/)  
 
+[Discontinued GeoVision Products Targeted In Botnet Attacks](https://packetstormsecurity.com/news/view/36609/Discontinued-GeoVision-Products-Targeted-In-Botnet-Attacks.html)
+
+Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:59:14 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [botnet](https://packetstormsecurity.com/news/tags/botnet), [flaw](https://packetstormsecurity.com/news/tags/flaw), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36609/) | [View](https://www.securityweek.com/discontinued-geovision-products-targeted-in-botnet-attacks-via-zero-day/)
+
+[Ransomware Attack On Oklahoma Medical Center Impacts 133,000](https://packetstormsecurity.com/news/view/36608/Ransomware-Attack-On-Oklahoma-Medical-Center-Impacts-133-000.html)
+
+Posted [Nov 18, 2024](https://packetstormsecurity.com/news/date/2024-11-18/ "14:59:12 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [cybercrime](https://packetstormsecurity.com/news/tags/cybercrime), [cryptography](https://packetstormsecurity.com/news/tags/cryptography)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36608/) | [View](https://www.securityweek.com/ransomware-attack-on-oklahoma-medical-center-impacts-133000/)
+
+[Webscout Is Worth Checking Out](https://packetstormsecurity.com/news/view/36603/Webscout-Is-Worth-Checking-Out.html)
+
+Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:09:54 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [malware](https://packetstormsecurity.com/news/tags/malware), [dns](https://packetstormsecurity.com/news/tags/dns)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36603/) | [View](https://webscout.io/)
+
 [Microsoft Power Pages Misconfigurations Exposing Sensitive Data](https://packetstormsecurity.com/news/view/36602/Microsoft-Power-Pages-Misconfigurations-Exposing-Sensitive-Data.html)
 
 Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:50 UTC")
@@ -76,6 +100,30 @@ Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [privacy](https://packetstormsecurity.com/news/tags/privacy), [microsoft](https://packetstormsecurity.com/news/tags/microsoft), [data loss](https://packetstormsecurity.com/news/tags/data_loss)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36602/) | [View](https://www.theregister.com/2024/11/15/microsoft_power_pages_misconfigurations/)
+
+[Palo Alto Networks Confirms New Firewall Zero-Day Exploitation](https://packetstormsecurity.com/news/view/36601/Palo-Alto-Networks-Confirms-New-Firewall-Zero-Day-Exploitation.html)
+
+Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:46 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36601/) | [View](https://www.securityweek.com/palo-alto-networks-confirms-new-firewall-zero-day-exploitation/)
+
+[Fortinet Patches VPN Flaw That Provided Privilege Escalation](https://packetstormsecurity.com/news/view/36600/Fortinet-Patches-VPN-Flaw-That-Provided-Privilege-Escalation.html)
+
+Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:36 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36600/) | [View](https://www.theregister.com/2024/11/14/fortinet_vpn_authentication_bypass_bug/)
+
+[Known Brand, Gov Domains Hijacked Via Sitting Ducks Attacks](https://packetstormsecurity.com/news/view/36599/Known-Brand-Gov-Domains-Hijacked-Via-Sitting-Ducks-Attacks.html)
+
+Posted [Nov 15, 2024](https://packetstormsecurity.com/news/date/2024-11-15/ "13:04:24 UTC")
+
+tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [government](https://packetstormsecurity.com/news/tags/government), [dns](https://packetstormsecurity.com/news/tags/dns)
+
+[Favorite](https://packetstormsecurity.com/news/favorite/36599/) | [View](https://www.securityweek.com/known-brand-government-domains-hijacked-via-sitting-ducks-attacks/)
 
 [Man Gets 5 Years For Laundering Crypto From Bitfinex Hack](https://packetstormsecurity.com/news/view/36598/Man-Gets-5-Years-For-Laundering-Crypto-From-Bitfinex-Hack.html)
 
@@ -100,54 +148,6 @@ Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:
 tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [phone](https://packetstormsecurity.com/news/tags/phone), [china](https://packetstormsecurity.com/news/tags/china), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [cyberwar](https://packetstormsecurity.com/news/tags/cyberwar), [spyware](https://packetstormsecurity.com/news/tags/spyware), [backdoor](https://packetstormsecurity.com/news/tags/backdoor)
 
 [Favorite](https://packetstormsecurity.com/news/favorite/36596/) | [View](https://www.securityweek.com/cisa-fbi-confirm-china-hacked-telecoms-providers-for-spying/)
-
-[Two Men Charged For Hacking US Tax Preparation Firms](https://packetstormsecurity.com/news/view/36595/Two-Men-Charged-For-Hacking-US-Tax-Preparation-Firms.html)
-
-Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:08:39 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [privacy](https://packetstormsecurity.com/news/tags/privacy), [usa](https://packetstormsecurity.com/news/tags/usa), [fraud](https://packetstormsecurity.com/news/tags/fraud), [identity theft](https://packetstormsecurity.com/news/tags/identity_theft)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36595/) | [View](https://www.securityweek.com/two-men-charged-for-hacking-us-tax-preparation-firms/)
-
-[Iranian Threat Group Targets Aerospace Workers With Fake Job Lures](https://packetstormsecurity.com/news/view/36594/Iranian-Threat-Group-Targets-Aerospace-Workers-With-Fake-Job-Lures.html)
-
-Posted [Nov 14, 2024](https://packetstormsecurity.com/news/date/2024-11-14/ "16:08:34 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [fraud](https://packetstormsecurity.com/news/tags/fraud), [phish](https://packetstormsecurity.com/news/tags/phish), [iran](https://packetstormsecurity.com/news/tags/iran)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36594/) | [View](https://www.scworld.com/news/iranian-threat-group-targets-aerospace-workers-with-fake-job-lures)
-
-[Air National Guardsman Gets 15 Years For Leaking Docs On Discord](https://packetstormsecurity.com/news/view/36593/Air-National-Guardsman-Gets-15-Years-For-Leaking-Docs-On-Discord.html)
-
-Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:35 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [government](https://packetstormsecurity.com/news/tags/government), [usa](https://packetstormsecurity.com/news/tags/usa), [data loss](https://packetstormsecurity.com/news/tags/data_loss), [military](https://packetstormsecurity.com/news/tags/military)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36593/) | [View](https://www.theregister.com/2024/11/13/teixeira_prison_discord/)
-
-[Citrix, Cisco, Fortinet Zero-Days Among 2023's Most Exploited Vulnerabilities](https://packetstormsecurity.com/news/view/36592/Citrix-Cisco-Fortinet-Zero-Days-Among-2023s-Most-Exploited-Vulnerabilities.html)
-
-Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:31 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [hacker](https://packetstormsecurity.com/news/tags/hacker), [flaw](https://packetstormsecurity.com/news/tags/flaw), [cisco](https://packetstormsecurity.com/news/tags/cisco), [zero day](https://packetstormsecurity.com/news/tags/zero_day)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36592/) | [View](https://www.securityweek.com/citrix-cisco-fortinet-zero-days-among-2023s-most-exploited-vulnerabilities/)
-
-[Ivanti Patches 50 Vulnerabilities Across Several Products](https://packetstormsecurity.com/news/view/36591/Ivanti-Patches-50-Vulnerabilities-Across-Several-Products.html)
-
-Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:29 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36591/) | [View](https://www.securityweek.com/ivanti-patches-50-vulnerabilities-across-several-products/)
-
-[Intel And AMD Have Released Many Advisories](https://packetstormsecurity.com/news/view/36590/Intel-And-AMD-Have-Released-Many-Advisories.html)
-
-Posted [Nov 13, 2024](https://packetstormsecurity.com/news/date/2024-11-13/ "16:36:09 UTC")
-
-tags | [headline](https://packetstormsecurity.com/news/tags/headline), [flaw](https://packetstormsecurity.com/news/tags/flaw), [patch](https://packetstormsecurity.com/news/tags/patch), [intel](https://packetstormsecurity.com/news/tags/intel)
-
-[Favorite](https://packetstormsecurity.com/news/favorite/36590/) | [View](https://www.securityweek.com/chipmaker-patch-tuesday-intel-publishes-44-and-amd-publishes-8-new-advisories/)
 
 [View More News →](https://packetstormsecurity.com/news/)
 
@@ -193,4 +193,4 @@ Hosting By
 
 ![close](https://packetstatic.com/img1514015884/o_close.png)
 
-![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=1264705550&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.1264705550.1731942362.1731942362.1731942362.1%3B%2B__utmz%3D32867617.1731942362.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
+![](https://ssl.google-analytics.com/__utm.gif?utmwv=1.3&utmn=2305285396&utmcs=ISO-8859-1&utmsr=31337x31337&utmsc=32-bit&utmul=en-us&utmje=0&utmfl=-&utmcn=1&utmdt=Terms%20of%20Service%u2248%20Packet%20Storm&utmhn=packetstormsecurity.com&utmr=-&utmp=%2Flegal%2Ftos.html&utmac=UA-18885198-1&utmcc=__utma%3D32867617.2305285396.1731964161.1731964161.1731964161.1%3B%2B__utmz%3D32867617.1731964161.1.1.utmccn%3D(direct)%7Cutmcsr%3D(direct)%7Cutmcmd%3D(none))
