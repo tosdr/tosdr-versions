@@ -6,7 +6,7 @@
 
 [Companies](https://www.ycombinator.com/companies)
 
-[Startup Directory](https://www.ycombinator.com/companies)[Top Companies](https://www.ycombinator.com/topcompanies/revenue)[Founder Directory](https://www.ycombinator.com/companies/founders)[Launch YC](https://www.ycombinator.com/launches)
+[Startup Directory](https://www.ycombinator.com/companies)[Founder Directory](https://www.ycombinator.com/companies/founders)[Launch YC](https://www.ycombinator.com/launches)
 
 [Startup Jobs](https://www.ycombinator.com/jobs)
 
@@ -24,7 +24,7 @@
 
 Open main menu
 
-Apply for **F2024** batch.[Apply](https://www.ycombinator.com/apply "Apply for F2024 batch.")
+Apply for **W2025** batch.[Apply](https://www.ycombinator.com/apply "Apply for W2025 batch.")
 
 Legal
 =====
