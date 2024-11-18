@@ -22,7 +22,7 @@ For individuals](https://www.euractiv.com/euractiv-plus)
 [**Euractiv Pro**  
 For policy professionals](https://www.euractiv.com/euractiv-pro)
 
-[Ukraine](https://www.euractiv.com/topics/ukraine0/)[The Capitals](https://www.euractiv.com/sections/the-capitals/)[VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/sections/enlargement/) | [Newsletters](https://www.euractiv.com/account)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Intelligence](https://intelligence.euractiv.com/)
+[Ukraine](https://www.euractiv.com/topics/ukraine0/)[The Capitals](https://www.euractiv.com/sections/the-capitals/)[VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/) | [Newsletters](https://www.euractiv.com/account)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Intelligence](https://intelligence.euractiv.com/)
 
 ![Logo](https://www.euractiv.com/wp-content/themes/euractiv-2024/logo.png)  [×](javascript:void(0))
 
@@ -36,7 +36,7 @@ For corporations](https://www.euractiv.com/euractiv-pro)
 
 Login My account
 
-[Ukraine](https://www.euractiv.com/topics/ukraine0/) [The Capitals](https://www.euractiv.com/sections/the-capitals/) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/sections/enlargement/)
+[Ukraine](https://www.euractiv.com/topics/ukraine0/) [The Capitals](https://www.euractiv.com/sections/the-capitals/) [VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/) [Defence](https://www.euractiv.com/topics/defence/) [Enlargement](https://www.euractiv.com/topics/enlargement0/)
 
 [Global Europe](https://www.euractiv.com/sections/global-europe) [Economy](https://www.euractiv.com/sections/economy-jobs) [Politics](https://www.euractiv.com/sections/politics) [Agrifood](https://www.euractiv.com/sections/agriculture-food) [Health](https://www.euractiv.com/sections/health-consumers) [Tech](https://www.euractiv.com/sections/tech) [Energy, Environment & Transport](https://www.euractiv.com/sections/eet)
 
