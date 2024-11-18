@@ -204,6 +204,7 @@ Sign up
 
 Copyright © 2024 Soapbox.
 
+* Amazon
 * American Express
 * Apple Pay
 * Diners Club
