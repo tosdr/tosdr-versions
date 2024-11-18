@@ -26,7 +26,11 @@ DMCA
 Copyright Infringement Notification
 ===================================
 
-If you believe that content available on or through the LifeStreet Corporation or LifeStreet International website (‘Website’) infringes one or more of your copyrights, please immediately notify LifeStreet’s Copyright Agent by mail (‘Notification’) providing the information described below. A copy of your Notification will be sent to the person responsible for the material addressed in the Notification. Please be advised that under Section 512(f) of the Digital Millennium Copyright Act you may be held liable for damages if you make material misrepresentations in a Notification. All Notifications must include the following:
+If you believe that content available on or through the LifeStreet Corporation or LifeStreet International website (‘Website’) infringes one or more of your copyrights, please immediately notify LifeStreet’s Copyright Agent by mail (‘Notification’) providing the information described below. A copy of your Notification will be sent to the person responsible for the material addressed in the Notification.
+
+Please be advised that under Section 512(f) of the Digital Millennium Copyright Act you may be held liable for damages if you make material misrepresentations in a Notification.
+
+All Notifications must include the following:
 
 * A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
 * Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site.
