@@ -89,9 +89,10 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [eZeeWallet](https://www.fairgoplus.com/ezeewallet-payment "eZeeWallet")
 
-[CashtoCode](https://www.fairgoplus.com/cashtocode "bitcoin")
+[Jet bank transfer](https://www.fairgoplus.com/jet-transfer "Jet")
 
-[Verify your account](https://www.fairgoplus.com/account-verification "account-verification")
+[Verify your account](https://www.fairgoplus.com/cashtocode "CashtoCode>CashtoCode</a></p>
+<p><a href=")
 
 ![exclamation mark](/images/website2024/07_footericon4_45x45.webp)
 
