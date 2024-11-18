@@ -370,6 +370,12 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
 
+X
+
+Cyber threats are evolving—Arkose Labs is evolving faster. Learn about our latest releases.
+
+[Click Here](https://www.arkoselabs.com/blog/a-look-at-our-latest-feature-updates)
+
                                                
 
-https://www.google.com/
+www.google.com
