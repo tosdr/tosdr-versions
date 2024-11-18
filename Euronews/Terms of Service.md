@@ -16,55 +16,55 @@
     Trending
     
     * [COP29](https://www.euronews.com/tag/cop29)
-    * [Spain](https://www.euronews.com/tag/spain)
-    * [Climate crisis](https://www.euronews.com/tag/climate-crisis)
-    * [EU Policy](https://www.euronews.com/tag/eu-policy)
-    * [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-    * [Floods](https://www.euronews.com/tag/flood)
+    * [War in Ukraine](https://www.euronews.com/tag/war-in-ukraine)
+    * [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
+    * [Ukraine](https://www.euronews.com/tag/ukraine)
+    * [Donald Trump](https://www.euronews.com/tag/donald-trump)
+    * [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
     
     * * *
     
     Latest stories
     
-    [![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")
+    [![EU still needs work to meet the 2030 antimicrobial resistance targets.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "EU still needs work to meet the 2030 antimicrobial resistance targets.")
     
-    ![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](https://static.euronews.com/articles/stories/08/85/42/24/368x207_cmsv2_0f020c8f-57f2-5a21-bcc9-689d25f8bfd0-8854224.jpg "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+    ![EU still needs work to meet the 2030 antimicrobial resistance targets.](https://static.euronews.com/articles/stories/08/85/78/22/368x207_cmsv2_b4ca1b8d-db7b-5223-9397-a22e47022ab7-8857822.jpg "EU still needs work to meet the 2030 antimicrobial resistance targets.")](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
+    
+    Now playing Next
+    
+    [Health news](https://www.euronews.com/health/health-news)
+    
+    ### [EU isn’t cutting antibiotic use fast enough, health agency says](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
+    
+    [![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")
+    
+    ![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](https://static.euronews.com/articles/stories/08/85/80/28/368x207_cmsv2_77b54dce-bd5c-5967-85db-d3c2449a0471-8858028.jpg "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+    
+    Now playing Next
+    
+    [Food and Drink](https://www.euronews.com/culture/food-and-drink)
+    
+    ### [World Cheese Awards: Portugal triumphs as Brexit torpedoes UK chances](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+    
+    [![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")
+    
+    ![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](https://static.euronews.com/articles/stories/08/85/73/54/368x207_cmsv2_34fdad62-2a3c-5ac8-8cb0-3cc1838739e0-8857354.jpg "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
     
     Now playing Next
     
     [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
     
-    ### [Dutch state secretary to quit over racist remarks after riots](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+    ### [1,000 days of war: Kyiv square filled with flags for Ukraine's fallen](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
     
-    [![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")
+    [![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")
     
-    ![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](https://static.euronews.com/articles/stories/08/85/41/92/368x207_cmsv2_92762386-5fad-5126-ba28-b3a39a7b128c-8854192.jpg "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
-    
-    Now playing Next
-    
-    [Culture news](https://www.euronews.com/culture/culture-news)
-    
-    ### [Linkin Park – ‘From Zero’: Trumphant comeback or rebooted fumble?](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
-    
-    [![A design showing a technology infrastructure concept.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A design showing a technology infrastructure concept.")
-    
-    ![A design showing a technology infrastructure concept.](https://static.euronews.com/articles/stories/08/85/41/14/368x207_cmsv2_483e2fab-72fe-5cc9-bc18-1c8ef8a4123a-8854114.jpg "A design showing a technology infrastructure concept.")](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
-    
-    Now playing Next
-    
-    [Tech News](https://www.euronews.com/next/tech-news)
-    
-    ### [US government releases guidelines for AI in critical infrastructure](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
-    
-    [![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")
-    
-    ![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](https://static.euronews.com/articles/stories/08/85/36/94/368x207_cmsv2_6158ec52-50de-537e-a1fd-d6575521f7b8-8853694.jpg "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
+    ![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](https://static.euronews.com/articles/stories/08/85/76/02/368x207_cmsv2_3e49e1c6-9659-5de1-a644-e24bd55c17e6-8857602.jpg "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
     
     Now playing Next
     
     [World News](https://www.euronews.com/programs/world)
     
-    ### [Heavy Israeli airstrikes hit southern suburbs of Beirut](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
+    ### [Euroviews. Trump’s re-election will test Europe’s treatment of minorities](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
     
 * [Europe](https://www.euronews.com/my-europe)
     
@@ -317,8 +317,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
@@ -364,61 +362,61 @@ Close menu sidebar
 Trending
 
 * [COP29](https://www.euronews.com/tag/cop29)
-* [Spain](https://www.euronews.com/tag/spain)
-* [Climate crisis](https://www.euronews.com/tag/climate-crisis)
-* [EU Policy](https://www.euronews.com/tag/eu-policy)
-* [United Kingdom](https://www.euronews.com/tag/united-kingdom)
-* [Floods](https://www.euronews.com/tag/flood)
+* [War in Ukraine](https://www.euronews.com/tag/war-in-ukraine)
+* [Russia's invasion of Ukraine](https://www.euronews.com/tag/russia-ukraine-invasion)
+* [Ukraine](https://www.euronews.com/tag/ukraine)
+* [Donald Trump](https://www.euronews.com/tag/donald-trump)
+* [Vladimir Putin](https://www.euronews.com/tag/vladimir-putin)
 
 * * *
 
 Latest stories
 
-[![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")
+[![EU still needs work to meet the 2030 antimicrobial resistance targets.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "EU still needs work to meet the 2030 antimicrobial resistance targets.")
 
-![Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l](https://static.euronews.com/articles/stories/08/85/42/24/368x207_cmsv2_0f020c8f-57f2-5a21-bcc9-689d25f8bfd0-8854224.jpg "Nora Achahbar is a member of NSC, which is one of the four parties forming the Dutch government, l")](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+![EU still needs work to meet the 2030 antimicrobial resistance targets.](https://static.euronews.com/articles/stories/08/85/78/22/368x207_cmsv2_b4ca1b8d-db7b-5223-9397-a22e47022ab7-8857822.jpg "EU still needs work to meet the 2030 antimicrobial resistance targets.")](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
+
+Now playing Next
+
+[Health news](https://www.euronews.com/health/health-news)
+
+### [EU isn’t cutting antibiotic use fast enough, health agency says](https://www.euronews.com/health/2024/11/18/eu-isnt-cutting-antibiotic-use-fast-enough-health-agency-says)
+
+* * *
+
+[![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")
+
+![Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ](https://static.euronews.com/articles/stories/08/85/80/28/368x207_cmsv2_77b54dce-bd5c-5967-85db-d3c2449a0471-8858028.jpg "Portugal wins World Cheese Awards as UK misses out due to post-Brexit customs ")](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+
+Now playing Next
+
+[Food and Drink](https://www.euronews.com/culture/food-and-drink)
+
+### [World Cheese Awards: Portugal triumphs as Brexit torpedoes UK chances](https://www.euronews.com/culture/2024/11/18/portugal-wins-world-cheese-awards-as-uk-misses-out-due-to-post-brexit-customs)
+
+* * *
+
+[![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")
+
+![People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.](https://static.euronews.com/articles/stories/08/85/73/54/368x207_cmsv2_34fdad62-2a3c-5ac8-8cb0-3cc1838739e0-8857354.jpg "People place Ukrainian flags in memory of civilians killed during the war at Independence Square in central Kyiv, Ukraine, Saturday, Oct. 1, 2022.")](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
 
 Now playing Next
 
 [Europe News](https://www.euronews.com/my-europe/europe-news/europe-news)
 
-### [Dutch state secretary to quit over racist remarks after riots](https://www.euronews.com/my-europe/2024/11/15/dutch-state-secretary-to-quit-over-racist-remarks-after-amsterdam-riots)
+### [1,000 days of war: Kyiv square filled with flags for Ukraine's fallen](https://www.euronews.com/my-europe/2024/11/18/1000-days-of-war-sea-of-flags-honour-ukraines-fallen-in-kyiv)
 
 * * *
 
-[![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")
+[![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")
 
-![Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ](https://static.euronews.com/articles/stories/08/85/41/92/368x207_cmsv2_92762386-5fad-5126-ba28-b3a39a7b128c-8854192.jpg "Linkin Park’s ‘From Zero’: Euronews Culture’s Verdict ")](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
-
-Now playing Next
-
-[Culture news](https://www.euronews.com/culture/culture-news)
-
-### [Linkin Park – ‘From Zero’: Trumphant comeback or rebooted fumble?](https://www.euronews.com/culture/2024/11/15/linkin-parks-from-zero-euronews-cultures-verdict)
-
-* * *
-
-[![A design showing a technology infrastructure concept.](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "A design showing a technology infrastructure concept.")
-
-![A design showing a technology infrastructure concept.](https://static.euronews.com/articles/stories/08/85/41/14/368x207_cmsv2_483e2fab-72fe-5cc9-bc18-1c8ef8a4123a-8854114.jpg "A design showing a technology infrastructure concept.")](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
-
-Now playing Next
-
-[Tech News](https://www.euronews.com/next/tech-news)
-
-### [US government releases guidelines for AI in critical infrastructure](https://www.euronews.com/next/2024/11/15/ai-in-critical-infrastructure-us-government-releases-new-guidelines-for-its-use)
-
-* * *
-
-[![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2016%209'%3E%3C/svg%3E "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")
-
-![Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ](https://static.euronews.com/articles/stories/08/85/36/94/368x207_cmsv2_6158ec52-50de-537e-a1fd-d6575521f7b8-8853694.jpg "Smoke and flames erupt from a building hit in an Israeli airstrike in Tayouneh, Beirut, Lebanon, Friday, Nov. 15, 2024. ")](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
+![President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024](https://static.euronews.com/articles/stories/08/85/76/02/368x207_cmsv2_3e49e1c6-9659-5de1-a644-e24bd55c17e6-8857602.jpg "President-elect Donald Trump smiles during an America First Policy Institute gala at his Mar-a-Lago estate, November 2024")](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
 
 Now playing Next
 
 [World News](https://www.euronews.com/programs/world)
 
-### [Heavy Israeli airstrikes hit southern suburbs of Beirut](https://www.euronews.com/2024/11/15/heavy-israeli-airstrikes-hit-southern-suburbs-of-beirut)
+### [Euroviews. Trump’s re-election will test Europe’s treatment of minorities](https://www.euronews.com/2024/11/18/trumps-re-election-will-test-europes-democratic-integrity-and-its-treatment-of-minorities)
 
 [Europe](https://www.euronews.com/my-europe)
 
@@ -673,8 +671,6 @@ More
 
 Special coverage
 
-* [Climate](https://www.euronews.com/special/climate)
-* [Depth of Field](https://www.euronews.com/special/depth-of-field)
 * [The New Uzbekistan](https://www.euronews.com/special/a-new-uzbekistan)
 * [Azerbaijan Diary](https://www.euronews.com/special/azerbaijan-diary)
 * [Discover Algeria](https://www.euronews.com/special/discover-algeria)
