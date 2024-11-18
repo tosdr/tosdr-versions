@@ -409,7 +409,7 @@ Last Modified on - 20 January 2023
 * [](https://www.flickr.com/photos/afrinic/)
 * [](https://afrinic.net/news/feed?format=feed&type=rss)
 
-Date and time in Mauritius - 2024/11/16
+Date and time in Mauritius - 2024/11/18
 
 [Service Status](http://status.afrinic.net/ "AFRINIC Online Services Status") | [Changelog](https://afrinic.net/changelog) |  [](https://afrinic.net/support?lang=en)[Disclaimer](https://afrinic.net/website-use-terms?lang=en-GB) |  [Privacy](https://afrinic.net/privacy)
 
