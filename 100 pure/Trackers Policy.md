@@ -1298,7 +1298,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[🎉 Annual Beauty Deal Sale is LIVE! Prices start at just $5 with up to 70% OFF. Shop now before it's gone!](https://www.100percentpure.com/collections/beauty-deals "https://www.100percentpure.com/collections/beauty-deals")
+[🎉 Annual Beauty Deals Sale is LIVE! Prices start at just $5 with up to 70% OFF. Shop now before it's gone!](https://www.100percentpure.com/collections/beauty-deals "https://www.100percentpure.com/collections/beauty-deals")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
@@ -1310,6 +1310,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     
     #### [FEATURED](https://www.100percentpure.com/)
     
+    * [Beauty Deals](https://www.100percentpure.com/collections/beauty-deals)
     * [New](https://www.100percentpure.com/collections/new)
     * [Best Sellers](https://www.100percentpure.com/collections/best-sellers)
     * [Award Winners](https://www.100percentpure.com/collections/award)
@@ -1395,6 +1396,7 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     
 
 * [FEATURED](#)
+* [Beauty Deals](https://www.100percentpure.com/collections/beauty-deals)
 * [New](https://www.100percentpure.com/collections/new)
 * [Best Sellers](https://www.100percentpure.com/collections/best-sellers)
 * [Award Winners](https://www.100percentpure.com/collections/award)
@@ -1448,6 +1450,8 @@ icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-
     * [Enlarged Pores](https://www.100percentpure.com/collections/natural-pore-treatment)
 
 * [FEATURED](#)
+    
+* [Beauty Deals](https://www.100percentpure.com/collections/beauty-deals)
     
 * [New](https://www.100percentpure.com/collections/new)
     
