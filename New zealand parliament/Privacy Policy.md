@@ -2,7 +2,7 @@
 
 [New Zealand Parliament Pāremata Aotearoa](https://www.parliament.nz/en/)
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/47HansS_20050608_00001024/peters-winston-principles-of-the-treaty-of-waitangi-deletion/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
 
 Search
 
@@ -12,7 +12,7 @@ Search
 
  Search
 
-Language [English](#) [Māori](https://www.parliament.nz/mi/pb/hansard-debates/rhr/document/47HansS_20050608_00001024/peters-winston-principles-of-the-treaty-of-waitangi-deletion/)
+Language [English](#) [Māori](https://www.parliament.nz/mi/site-search/)
 
 * [Home](https://www.parliament.nz/en/ "Home")
 * [Parliamentary Business](https://www.parliament.nz/en/pb/)
