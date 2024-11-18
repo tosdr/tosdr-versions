@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/trick-or-treat-notation-halloween-worksheet/)
+ [](https://schoolsmusicmarket.com/product/garageband-reference-guide/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/find-the-missing-note/)
+ [](https://schoolsmusicmarket.com/product/music-flashcards-ideas-worksheet/)
 
 ###### Browse By Year/Grade
 
