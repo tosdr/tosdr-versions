@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![Oldest Mummies in the World](/wp-content/thumbnails/13830-100x70.png?x53432)
+* [![Going Clear: Scientology and the Prison of Belief](/wp-content/thumbnails/10162-100x70.jpg?x53432)
     
-    Oldest Mummies in the World
+    Going Clear: Scientology and the Prison of Belief
     
-    The Atacama Desert in northern Chile is the driest place on Earth. It stretches from the foothills of the Andes, a hundred miles westward to the edge of the Pacific Ocean. There are few signs of life](https://documentaryheaven.com/oldest-mummies-world/ "Oldest Mummies in the World")
-* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
+    Directed by Alex Gibney, Going Clear is a feature documentary that caused quite a stir when it was released earlier this year (2015). It instantly received widespread praise from movie critics an](https://documentaryheaven.com/going-clear-scientology-prison-of-belief/ "Going Clear: Scientology and the Prison of Belief")
+* [![Death Grip: Inside Pro Wrestling](/wp-content/thumbnails/8280-100x70.png?x53432)
     
-    Panorama: The Battle For Bomb Alley
+    Death Grip: Inside Pro Wrestling
     
-    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
-* [![The Story of Science: Can We Have Unlimited Power?](/wp-content/thumbnails/3676)
+    The dark side, beyond the wrestling ring. A shocking murder suicide, pro wrestlers dying young and allegations of drug abuse. In the fall of 2005 following the year he wore the championship belt, prof](https://documentaryheaven.com/death-grip-inside-pro-wrestling/ "Death Grip: Inside Pro Wrestling")
+* [![The Gabby Petito Story: An American Tragedy](/wp-content/thumbnails/16620-100x70.jpg?x53432)
     
-    The Story of Science: Can We Have Unlimited Power?
+    The Gabby Petito Story: An American Tragedy
     
-    We are the most power-hungry generation that has ever lived. This film tells the story of how that power has been harnessed – from wind, steam and from inside the atom. In the early years the drive fo](https://documentaryheaven.com/the-story-of-science-can-we-have-unlimited-power/ "The Story of Science: Can We Have Unlimited Power?")
-* [![Amateur Armstrongs](/wp-content/thumbnails/7333-100x70.jpg?x53432)
+    The Gabby Petito Story is one that has shocked a nation, it's a story that is filled with twists and turns at every junction along the way. Two young people set out on a trip of a lifetime but only o](https://documentaryheaven.com/gabby-petito-story-american-tragedy/ "The Gabby Petito Story: An American Tragedy")
+* [![For The Bible Tells Me So](/wp-content/thumbnails/7010-100x70.jpg?x53432)
     
-    Amateur Armstrongs
+    For The Bible Tells Me So
     
-    The Lance Armstrong scandal has blown the lid on the world of sports doping. However, a larger problem is at risk of slipping by unnoticed: widespread use of performance enhancing drugs by members of](https://documentaryheaven.com/amateur-armstrongs/ "Amateur Armstrongs")
-* [![Seven Wonders of the Microbe World (combined)](/wp-content/thumbnails/6259-100x70.jpg?x53432)
+    For the Bible Tells Me So is a 2007 American documentary film directed by Daniel G. Karslake about homosexuality and its perceived conflict with religion, as well as various interpretations of what th](https://documentaryheaven.com/for-the-bible-tells-me-so/ "For The Bible Tells Me So")
+* [![E is for Ecstasy](/wp-content/thumbnails/8727-100x70.jpg?x53432)
     
-    Seven Wonders of the Microbe World (combined)
+    E is for Ecstasy
     
-    From black death to cholera, microbes have been resonsible for some of the worlds most devastating diseases. But at the same time this tiny single cell organisms have aided our survival on earth helpi](https://documentaryheaven.com/seven-wonders-of-the-microbe-world-combined/ "Seven Wonders of the Microbe World (combined)")
+    Back in 1992 the BBC aired this documentary that follows a small group of british youths who regularly take ecstasy and are involved in the rave scene of the time. This film asks these individuals to](https://documentaryheaven.com/e-is-for-ecstasy/ "E is for Ecstasy")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
