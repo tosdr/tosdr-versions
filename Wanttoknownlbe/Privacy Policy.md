@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/onwetendheid-geen-vrijwaring-van-verantwoordelijkheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/prof-peter-gotschke-spreekt-tweede-kamer-toe/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
