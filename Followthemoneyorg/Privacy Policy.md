@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![2013 and 2014: Money and Incumbency in State Legislative Races](/assets/Images/teasers/full/SuccessForContested2001-14.png)](http://www.followthemoney.org/research/institute-reports/2013-and-2014-money-and-incumbency-in-state-legislative-races/)
+[![Bail Bond Industry Political Spending, By Type, 2009-2017](/assets/Images/teasers/small/bail-bond.JPG)](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
