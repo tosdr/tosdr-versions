@@ -2,7 +2,7 @@
 
         [Skip to content](#MainContent)
 
-**Take 25% Off 800+ Games, Puzzles, and Activities with Code "SAVE25"**
+**Free Standard Shipping When You Spend $50+**
 
 [![AreYouGame.com](//areyougame.com/cdn/shop/files/AYG_Logo_Flatlg_900x.png?v=1614326358)](https://areyougame.com/)
 
@@ -154,7 +154,7 @@ Search
 * [GIFT FINDER](https://areyougame.com/pages/gift-finder)
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
-* [SALE](https://areyougame.com/collections/select-games-puzzles-and-activities)
+* [SALE](https://areyougame.com/collections/warehouse-clearance)
 
 * [](https://www.facebook.com/AreYouGameCom)
 * [](https://www.youtube.com/channel/UCVXt37urmmPzWfGODMUp7Pw)
@@ -322,7 +322,7 @@ Search
     * [Shopping for something special? Let us help!](https://areyougame.com/pages/gift-finder)
     
 * [MURDER MYSTERY](https://areyougame.com/collections/murder-mystery-party%E2%84%A2-collection)
-* [SALE](https://areyougame.com/collections/select-games-puzzles-and-activities)
+* [SALE](https://areyougame.com/collections/warehouse-clearance)
 * [More links](#)
     
 
