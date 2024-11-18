@@ -1,17 +1,39 @@
+[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
+
+Get started
+
+[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
+
+Get started
+
+[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
+
+Get started
+
+[Documents](https://www.tricount.com/documents)
+
 Terms of Use
 ============
 
-[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
+[Documents](https://www.tricount.com/documents)
 
-Get started
+Terms of Use
+============
 
-[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
+[Documents](https://www.tricount.com/documents)
 
-Get started
+Terms of Use
+============
 
-[![](https://framerusercontent.com/images/yfHppRSMMm5Ph44mPfACixMWP3s.svg)](https://www.tricount.com/)
+[![download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://www.tricount.com/en/undefined "Download File")
 
-Get started
+[![download icon](https://framerusercontent.com/images/IhRKGJnrrD5OZRNrtVSnPrsU10.svg)Open PDF](https://www.tricount.com/en/undefined "Download File")
+
+Title
+
+Title
+
+Title
 
 1\. Introduction
 ----------------
@@ -341,27 +363,21 @@ Download Tricount now
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/discover)
-
-![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
+Get started
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/discover)
-
-![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
+Get started
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/discover)
-
-![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
+Get started
 
 [![](https://framerusercontent.com/images/v4CSbfDepbDAqq6mjcaszZKhhkk.svg)](https://www.tricount.com/)
 
@@ -440,3 +456,5 @@ Cookie Settings
 [Terms & Conditions](https://www.tricount.com/en/terms-conditions)
 
 [![Download on the App Store](https://framerusercontent.com/images/4LWGDWPhgKJYFTPcidoyXZ3PKI.svg)](https://itunes.apple.com/app/tricount/id349866256?utm_source=website&utm_medium=home&utm_content=lang%3Aen)[![Get it on Googel Play](https://framerusercontent.com/images/VMY6AWEI33j6YQF2CWdxAsglmXw.svg)](https://play.google.com/store/apps/details?id=com.tribab.tricount.android&utm_source=website&utm_medium=home&utm_content=lang%3Aen)
+
+![](https://framerusercontent.com/images/pWN3YdYWMkLpNYY0OkHbNh5vTI.svg)
