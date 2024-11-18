@@ -282,6 +282,16 @@ Contact us
 
 [help@mysteriumvpn.com](mailto:help@mysteriumvpn.com)
 
-© Copyright 2022 UAB "MN Technologijos"
+Newsletter
+
+Get the latest tips, updates and exclusive VPN deals.
+
+Check this box if you agree to receive infrequent emails & promotions from the Mysterium VPN team
+
+Thank you! Your submission has been received!
+
+Oops! Something went wrong while submitting the form.
+
+© Copyright 2024 UAB "MN Technologijos"
 
 [![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534644f7330d591a501_mysterium-twitter-x.svg)](https://twitter.com/Mysteriumvpn)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534a478bf4894b5607e_mysterium-instagram.svg)](https://www.instagram.com/mysteriumvpn/)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b09534b56cddfddfbc3634_mysterium-facebook.svg)](https://www.facebook.com/vpnmysterium)[![](https://cdn.prod.website-files.com/659fa592476e081fbd5a3312/65b0953479e4b7fd0bb9bc69_mysterium-mail.svg)](mailto:help@mysteriumvpn.com)
