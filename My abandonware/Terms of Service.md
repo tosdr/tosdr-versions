@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Action Mogura](https://www.myabandonware.com/game/action-mogura-t4i)
+* [Mogura 2](https://www.myabandonware.com/game/mogura-2-szv)
 * [Karateka Mania](https://www.myabandonware.com/game/karateka-mania-szw)
 * [Virtual City HD](https://www.myabandonware.com/game/virtual-city-hd-t4e)
 * [Virtual City](https://www.myabandonware.com/game/virtual-city-t4d)
-* [Tower of Fortune](https://www.myabandonware.com/game/tower-of-fortune-tsk)
-* [Torreoscura](https://www.myabandonware.com/game/torreoscura-tsj)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
