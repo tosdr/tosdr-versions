@@ -7,7 +7,7 @@
 | --- | --- |
 |     | [Рецепты](https://www.russianfood.com/recipes/) [Статьи](https://www.russianfood.com/reading/clauses/) [Наша Кухня](https://www.russianfood.com/blogs/) [Супер Поиск](https://www.russianfood.com/search/) [Рассылки](https://www.russianfood.com/subscribe/) |
 
-[![](//img1.russianfood.com/images/recipes/recipe_add_btn_4.gif)](https://www.russianfood.com/recipes/recipeadd.php)
+[![](//img1.russianfood.com/images/recipes/recipe_add_btn_10.gif)](https://www.russianfood.com/recipes/recipeadd.php)
 
 [Добавить  
 рецепт](https://www.russianfood.com/recipes/recipeadd.php)
@@ -148,16 +148,16 @@
 
 Сейчас читают
 
-* [Чуррос с йогуртово-чесночным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174759)
-* [Чуррос с сырным соусом](https://www.russianfood.com/recipes/recipe.php?rid=174758)
-* [Курник из слоёного теста](https://www.russianfood.com/recipes/recipe.php?rid=174756)
+* [Котлеты из куриных сердечек](https://www.russianfood.com/recipes/recipe.php?rid=173383)
+* [Слоёный рулет с савоярди, джемом, яблоками, орехами и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173220)
+* [Киш из рубленого теста, с курицей, грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173321)
 * [Блинчики с начинкой из лихии](https://www.russianfood.com/recipes/recipe.php?rid=107)
 * [Манты, сваренные в воде](https://www.russianfood.com/recipes/recipe.php?rid=656)
 * [Манты, сваренные в плове](https://www.russianfood.com/recipes/recipe.php?rid=657)
 * [Манты с картофелем](https://www.russianfood.com/recipes/recipe.php?rid=658)
 * [Манты из нерубленного мяса](https://www.russianfood.com/recipes/recipe.php?rid=659)
 * [Манты по-андижански](https://www.russianfood.com/recipes/recipe.php?rid=661)
-* [Пельмени](https://www.russianfood.com/recipes/recipe.php?rid=664)
+* [Лапша густая](https://www.russianfood.com/recipes/recipe.php?rid=849)
 
 |     |
 | --- |
@@ -179,6 +179,48 @@
 исключить ингредиенты (все): 
 
 Найти рецепты Другие варианты поиска Свернуть
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Яркая палитра вкусов. Лучшие САЛАТЫ №24-47](https://www.russianfood.com/reading/?post_id=22894) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/745/sm_744271.jpg)](https://www.russianfood.com/reading/?post_id=22894)
+
+Слоёный салат с красной рыбой, помидорами и сыром. Салат с печенью, виноградом и апельсином. Салат из морской капусты с яблоком. Салат со шпротами и рисом. Салат с курицей, сельдереем и виноградом. Греческий салат с карамелизированным луком. Картофельный салат с селёдкой и грибами.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22894)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22894#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Капусты разные – вкусы прекрасные.) Время КАПУСТЫ (21)](https://www.russianfood.com/reading/?post_id=22893) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739799.jpg)](https://www.russianfood.com/reading/?post_id=22893)
+
+Тушеная капуста с грибами. Курица, запечённая с капустой. Суп с пекинской капустой и копчёным мясом. Запеканка с брокколи и фасолью. Котлеты из цветной капусты с сыром.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22893)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22893#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Для прессы<br><br>[Аппетитно-быстрые истории. Лучшие рецепты БЫСТРЕЕ! №24-47](https://www.russianfood.com/reading/?post_id=22892) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/703/sm_702836.jpg)](https://www.russianfood.com/reading/?post_id=22892)
+
+Фунчоза с кальмарами и морковью по-корейски. Курица с пекинской капустой. Цветная капуста с горошком и перцем. Сырный суп с овощами и кукурузой. Слойки с сухофруктами и сгущёнкой.
+
+[Читать дальше...](https://www.russianfood.com/reading/?post_id=22892)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22892#comments) | 18.11.24 |     |
 
 |     |     |
 | --- | --- |
@@ -348,48 +390,6 @@
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174570#comments) | 14.11.24 |     |
 
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Крученики из свинины с маринованными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174702) |     |
-
-[![Фото к рецепту: Крученики из свинины с маринованными огурцами](//img1.russianfood.com/dycontent/images_upl/748/sm_747295.jpg "Фото к рецепту: Крученики из свинины с маринованными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=174702)
-
-Крученики (рулетики) из свинины – классика домашней кухни. По этому рецепту в тонкую свиную отбивную, сдобренную горчицей, заворачивается маленький огурчик. Томление мясных рулетиков на овощной подушке из лука и моркови доведёт блюдо до аппетитной готовности.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174702)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [СП Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=486608) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174702#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Сытный обед – хорошая идея.) Лучшие СУПЫ №24-46](https://www.russianfood.com/reading/?post_id=22875) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/751/sm_750684.jpg)](https://www.russianfood.com/reading/?post_id=22875)
-
-Солянка с фасолью. Суп из индейки с вермишелью. Суп с фасолью, ветчиной и сельдереем. Томатный суп с мясным фаршем и грибами. Горчичный суп с беконом и сливками. Тыквенный суп-пюре с жареным фаршем. Щи из квашеной капусты с куриной печенью.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22875)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие супы](https://www.russianfood.com/blogs/?id=325357) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22875#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Суп из индейки с вермишелью и овощами](https://www.russianfood.com/recipes/recipe.php?rid=174634) |     |
-
-[![Фото к рецепту: Суп из индейки с вермишелью и овощами](//img1.russianfood.com/dycontent/images_upl/751/sm_750726.jpg "Фото к рецепту: Суп из индейки с вермишелью и овощами")](https://www.russianfood.com/recipes/recipe.php?rid=174634)
-
-Лёгкий суп из индейки с брокколи, овощами и вермишелью.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174634)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174634#comments) | 14.11.24 |     |
-
 |     |
 | --- |
 | ← Предыдущая \| [Следующая →](https://www.russianfood.com/?page=2) |
@@ -472,4 +472,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(138)
+(135)
