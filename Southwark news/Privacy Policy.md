@@ -347,6 +347,12 @@ Website
 
 ### Popular Articles
 
+[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
+[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
+
 [![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
 
 ### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
@@ -358,12 +364,6 @@ Website
 ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
-[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
 [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
