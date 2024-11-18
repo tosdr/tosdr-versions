@@ -9,7 +9,7 @@ Telefonica.com
 [](https://www.telefonica.com/es/accionistas-inversores/la-accion/)
 
 * [ES](https://www.telefonica.com/es/aviso-legal/)
-* [EN](https://www.telefonica.com/en/legal-advise/)
+* [EN](https://www.telefonica.com/en/legal-notice/)
 
 * [Inicio](https://www.telefonica.com/es/)
 * [Nosotros](https://www.telefonica.com/es/nosotros/)
@@ -158,7 +158,7 @@ Telefonica.com
 [Contacto](https://www.telefonica.com/es/contacto/)
 
 * [ES](https://www.telefonica.com/es/aviso-legal/)
-* [EN](https://www.telefonica.com/en/legal-advise/)
+* [EN](https://www.telefonica.com/en/legal-notice/)
 
 * [facebook](https://www.facebook.com/telefonica)
 * [linkedin](https://www.linkedin.com/company/telef%C3%B3nica)
