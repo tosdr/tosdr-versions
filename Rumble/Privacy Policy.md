@@ -202,125 +202,119 @@ Go Ad-Free
 
 ### Featured Channels Featured
 
-[Steven Crowder
+[Redacted News
 
-56.4K](https://rumble.com/v5qkxew--trumps-america-how-everything-is-changing-for-the-better.html "Steven Crowder")
+17.5K](https://rumble.com/v5qot1z-breaking-trump-to-declare-national-emergency-declaration-deploy-military-to.html "Redacted News")
 
-[Bannons War Room
+[Candace Show Podcast
 
-25.8K](https://rumble.com/v3by09g-warroom-live.html "Bannons War Room")
-
-[Badlands Media
-
-5.51K](https://rumble.com/v5qggk2-badlands-daily-monday-november-18-2024.html "Badlands Media")
+10K](https://rumble.com/v5qp3dn-beyonces-mommy-attacks-me-on-instagram-candace-ep-105.html "Candace Show Podcast")
 
 [NEWSMAX
 
-5.32K](https://rumble.com/v5ql4ww-the-gerry-callahan-show-live-monday-november-18-2024-newsmax-podcasts.html "NEWSMAX")
+4.41K](https://rumble.com/v3szvdl-newsmax2-live-on-rumble.html "NEWSMAX")
 
-[Matt Kohrs
+[Kimberly Guilfoyle
 
-1.5K](https://rumble.com/v5qg1k2-the-mk-show-nov.-18th.html "Matt Kohrs")
-
-[usefulidiots
-
-246](https://rumble.com/v5qalye-useful-idiots-monday-mourning-with-aaron-mat-and-katie-halper.html "usefulidiots")
-
-[Major League Fishing
-
-210](https://rumble.com/v5pa3y8-live-general-tire-team-series-summit-cup-day-2.html "Major League Fishing")
-
-[The Kirk Minihane Show
-
-168](https://rumble.com/v5qkc1b-kms-live-november-13-2024-ft.-blind-mike-and-kane.html "The Kirk Minihane Show")
+2.13K](https://rumble.com/v5qobww-breaking-news-on-latest-cabinet-picks-media-spins-in-circles.html "Kimberly Guilfoyle")
 
 [barstoolsports
 
-162](https://rumble.com/v5qkc1b-kms-live-november-13-2024-ft.-blind-mike-and-kane.html "barstoolsports")
+27](https://rumble.com/v5qnfyh-team-wsd-vs-team-chaps-simulator-golf-league-match-4-presented-by-fireball.html "barstoolsports")
 
-[Mike Crispi
+[VIVA TV
 
-130](https://rumble.com/v5qf0nq-mike-crispi-unafraid-11-18-24.html "Mike Crispi")
+26](https://rumble.com/v5qnfyh-team-wsd-vs-team-chaps-simulator-golf-league-match-4-presented-by-fireball.html "VIVA TV")
 
-[Rico Bosco](https://rumble.com/c/ricobosco "Rico Bosco")
+[Major League Fishing
 
-[Steve-O's Wild Ride! Podcast](https://rumble.com/c/WildRide "Steve-O's Wild Ride! Podcast")
+20](https://rumble.com/v5pa3y8-live-general-tire-team-series-summit-cup-day-2.html "Major League Fishing")
 
-[VIVA TV](https://rumble.com/c/VivaTV "VIVA TV")
+[Due Dissidence](https://rumble.com/c/DueDissidence "Due Dissidence")
 
-[Dani Jackel](https://rumble.com/c/DaniJackel "Dani Jackel")
+[OutdoorChannelTV](https://rumble.com/c/OutdoorChannelTV "OutdoorChannelTV")
 
-[Mark Titus Show](https://rumble.com/c/marktitusshow "Mark Titus Show")
+[Barstool Yak](https://rumble.com/c/BarstoolYak "Barstool Yak")
 
-[World Poker Tour](https://rumble.com/c/WorldPokerTour "World Poker Tour")
+[Steven Crowder](https://rumble.com/c/StevenCrowder "Steven Crowder")
 
-[KFC Radio](https://rumble.com/c/KFCRadio "KFC Radio")
+[OUT OF ORDER](https://rumble.com/c/OutofOrderrr "OUT OF ORDER")
 
-[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
+[Fore Play Golf](https://rumble.com/c/ForeplayGolf "Fore Play Golf")
 
-[Answer The Internet](https://rumble.com/c/AnswerTheInternet "Answer The Internet")
+[Bannons War Room](https://rumble.com/c/BannonsWarRoom "Bannons War Room")
 
-[The Dozen Trivia](https://rumble.com/c/TheDozenTrivia "The Dozen Trivia")
+[vivafrei](https://rumble.com/user/vivafrei "vivafrei")
 
-[Sports Wars](https://rumble.com/c/SportsWars "Sports Wars")
+[The Rich Dad Channel](https://rumble.com/c/TheRichDadChannel "The Rich Dad Channel")
 
-[Donald J. Trump](https://rumble.com/c/DonaldTrump "Donald J. Trump")
+[My Mom's Basement with Robbie Fox](https://rumble.com/c/MyMomsBasementWithRobbieFox "My Mom's Basement with Robbie Fox")
 
-[The Chris Cuomo Project](https://rumble.com/c/chriscuomo "The Chris Cuomo Project")
+[The Osbournes](https://rumble.com/c/TheOsbournesPodcast "The Osbournes")
 
-[Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)](https://rumble.com/c/DrFinance "Dr. Anthony M. Criniti IV (aka “Dr. Finance®”)")
+[Stephen Gardner](https://rumble.com/c/StephenGardner "Stephen Gardner")
 
-[Mets Podcast - We Gotta Believe](https://rumble.com/c/wegottabelievemetspodcast "Mets Podcast - We Gotta Believe")
+[Alexis Wilkins](https://rumble.com/c/alexiswilkins "Alexis Wilkins")
 
-[Kim Iversen](https://rumble.com/c/KimIversen "Kim Iversen")
-
-[Rough N' Rowdy](https://rumble.com/c/RoughNRowdy "Rough N' Rowdy")
-
-[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
-
-[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
-
-[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
-
-[Russell Brand](https://rumble.com/c/russellbrand "Russell Brand")
-
-[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
+[NELK](https://rumble.com/c/NELK "NELK")
 
 [Dana Beers](https://rumble.com/c/danabeers "Dana Beers")
 
+[SLS - Street League Skateboarding](https://rumble.com/c/sls "SLS - Street League Skateboarding")
+
 [New York Post](https://rumble.com/c/NYPost "New York Post")
 
-[Graham Allen](https://rumble.com/c/GrahamAllenOfficial "Graham Allen")
+[Peter Santenello](https://rumble.com/c/PeterSantenello "Peter Santenello")
 
-[Barstool Outdoors](https://rumble.com/c/BarstoolOutdoors "Barstool Outdoors")
+[Ghosts and Grit With Jack Osbourne Podcast](https://rumble.com/c/JackOsbourne "Ghosts and Grit With Jack Osbourne Podcast")
 
-[Mostly Sports With Mark Titus and Brandon Walker](https://rumble.com/c/MostlySportsTitusandWalker "Mostly Sports With Mark Titus and Brandon Walker")
+[UnHerd](https://rumble.com/c/UnHerd "UnHerd")
 
-[The Casey Adams Show](https://rumble.com/c/CaseyAdamsShow "The Casey Adams Show")
+[Wake Up Mintzy](https://rumble.com/c/Barstoolmintzyofficial "Wake Up Mintzy")
 
-[DeVory Darkins](https://rumble.com/c/DeVoryDarkins "DeVory Darkins")
+[Pardon My Take](https://rumble.com/c/PardonMyTake "Pardon My Take")
 
-[Unnecessary Roughness](https://rumble.com/c/UnnecessaryRoughness "Unnecessary Roughness")
+[Mountain Rug Cleaning](https://rumble.com/c/MountainRugCleaning "Mountain Rug Cleaning")
 
-[Michael Franzese](https://rumble.com/c/MichaelFranzese "Michael Franzese")
+[Please End This](https://rumble.com/c/pleaseendthis "Please End This")
 
-[Twisted History](https://rumble.com/c/TwistedHistory "Twisted History")
+[Price of Reason](https://rumble.com/c/PriceOfReason "Price of Reason")
 
-[BarstoolX](https://rumble.com/c/BarstoolX "BarstoolX")
+[Barstool Radio Clips](https://rumble.com/c/BarstoolRadioClips "Barstool Radio Clips")
 
-[BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry](https://rumble.com/c/BFFsDavePortnoyJoshRichardsAndBriChickenfry "BFFs: Dave Portnoy, Josh Richards & Bri Chickenfry")
+[Stool Streams](https://rumble.com/c/stoolstreams "Stool Streams")
 
-[Barry Cunningham](https://rumble.com/c/BarryCunningham "Barry Cunningham")
+[The Why Files](https://rumble.com/c/TheWhyFiles "The Why Files")
 
-[Jack Mac](https://rumble.com/c/JackMacBarstool "Jack Mac")
+[Rasmussen Reports](https://rumble.com/c/RasmussenReports "Rasmussen Reports")
 
-[The StoneZONE with Roger Stone](https://rumble.com/c/RogerStone "The StoneZONE with Roger Stone")
+[Dr. John Campbell](https://rumble.com/c/DrJohnCampbell "Dr. John Campbell")
 
-[The Jimmy Dore Show](https://rumble.com/c/TheJimmyDoreShow "The Jimmy Dore Show")
+[Bussin' With The Boys](https://rumble.com/c/BussinWithTheBoys "Bussin' With The Boys")
 
-[Amateur Hour](https://rumble.com/c/amateurhourgolf "Amateur Hour")
+[Drew Hernandez](https://rumble.com/c/DrewHernandez "Drew Hernandez")
+
+[Chicks in the Office](https://rumble.com/c/ChicksInTheOffice "Chicks in the Office")
+
+[Matt Kohrs](https://rumble.com/c/MattKohrs "Matt Kohrs")
+
+[Roseanne Barr](https://rumble.com/c/roseannebarr "Roseanne Barr")
+
+[Only Stans](https://rumble.com/c/OnlyStansshow "Only Stans")
+
+[UFC - Ultimate Fighting Championship](https://rumble.com/c/UFC "UFC - Ultimate Fighting Championship")
 
 [Geeks + Gamers](https://rumble.com/c/GeeksandGamers "Geeks + Gamers")
+
+[The Pat Bev Podcast with Rone](https://rumble.com/c/ThePatBevPodcastWithRone "The Pat Bev Podcast with Rone")
+
+[Off Leash, with Erik Prince](https://rumble.com/c/offleash "Off Leash, with Erik Prince")
+
+[John Burk](https://rumble.com/c/JohnBurk "John Burk")
+
+[Matt Kim](https://rumble.com/c/FreeMattKim "Matt Kim")
+
+[Chef Donny](https://rumble.com/c/DonnyEnriquez "Chef Donny")
 
 ### Theme
 
