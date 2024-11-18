@@ -307,29 +307,31 @@ Advertise
 [BOSS Financial Review](https://www.afr.com/boss)
 -------------------------------------------------
 
-[![Grant Wilckens presides over G’Day Group, a holiday parks company that owns $2 billion of property and is the largest provider of regional accommodation in the country.](https://static.ffx.io/images/$zoom_0.2718%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_223/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c89fc6fcdc8133d229d456196c8a4d6118b58af5)](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
+[![The rising cost-of-living burden has left more Australian unhappy.](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/560b4d9bc3d8e0a640f8eb4f98cdd11314971896)](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
 
-### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
+### [Happiness and social cohesion hit record lows for Australians](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
 
-* Sally Patten
+* 54 mins ago
+* Patrick Durkin
 
-* ### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
+* ### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
     
-* ### [If you want the top job, say so: Coles CEO](https://www.afr.com/work-and-careers/workplace/if-you-want-the-top-job-say-so-coles-ceo-20241104-p5knu2)
+* ### [Why the Swisse CEO fasts for 19 hours a day](https://www.afr.com/work-and-careers/leaders/why-the-swisse-ceo-fasts-for-19-hours-a-day-20241008-p5kgoj)
     
 
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.2626%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_89/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/ccf5d90756e464558d033c361eb47fa3b71aaea7)](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
+[![ ](https://static.ffx.io/images/$zoom_0.4415%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9b404dac441af9817207266f82a5ee9f88e3a904)](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
 
-### [It’s entirely possible you deserve, even need, one of these](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
+### [Meet the mother of all cargo bikes](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
 
-* Eugenie Kelly
+* 54 mins ago
+* John Davidson
 
-* ### [Ben Quilty to sell part of his personal collection for superannuation](https://www.afr.com/life-and-luxury/arts-and-culture/ben-quilty-to-sell-part-of-his-personal-collection-for-superannuation-20241031-p5kmvc)
+* ### [Dispatches from a midlife crisis summer camp](https://www.afr.com/life-and-luxury/health-and-wellness/dispatches-from-a-midlife-crisis-summer-camp-20241016-p5kira)
     
-* ### [Tolpuddle’s new tasting room is another great reason to visit Tasmania](https://www.afr.com/life-and-luxury/food-and-wine/tolpuddle-s-new-tasting-room-is-another-great-reason-to-visit-tasmania-20241106-p5kog6)
+* ### [It’s entirely possible you deserve, even need, one of these](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
     
 
 [Rich List](https://www.afr.com/rich-list)
