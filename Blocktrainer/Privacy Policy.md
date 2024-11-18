@@ -593,7 +593,7 @@ Kopieren
 
 [](#)
 
-[![Seedor](/fileadmin/_processed_/7/c/csm_Seedor_Banner_390x615__3__c26fe41035.jpg)](https://ref.blocktrainer.de/seedor/ws)
+[![21energy – ASICs, Heater & mehr!](/fileadmin/_processed_/a/3/csm_Frame_21_fb754bb5fd.png)](https://ref.blocktrainer.de/21energy/ws/anbieter)
 
 **Privatsphäre-Einstellungen**
 
