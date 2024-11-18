@@ -4,6 +4,7 @@
 
 * [Home](https://www.royalballetschool.org.uk/)
 * [Shop](https://www.royalballetschool.org.uk/shop/landing-page/) Menu Toggle
+    * [Gift cards](https://www.royalballetschool.org.uk/product/gift-card/)
     * [All items](https://www.royalballetschool.org.uk/shop/landing-page/)
     * [Clothing](https://www.royalballetschool.org.uk/product-category/clothing/)
     * [Dancewear](https://www.royalballetschool.org.uk/product-category/dancewear/)
@@ -71,6 +72,7 @@ Search for:
 
 * [Home](https://www.royalballetschool.org.uk/)
 * [Shop](https://www.royalballetschool.org.uk/shop/landing-page/) Menu Toggle
+    * [Gift cards](https://www.royalballetschool.org.uk/product/gift-card/)
     * [All items](https://www.royalballetschool.org.uk/shop/landing-page/)
     * [Clothing](https://www.royalballetschool.org.uk/product-category/clothing/)
     * [Dancewear](https://www.royalballetschool.org.uk/product-category/dancewear/)
@@ -119,6 +121,7 @@ Search for:
 
 * [Home](https://www.royalballetschool.org.uk/)
 * [Shop](https://www.royalballetschool.org.uk/shop/landing-page/) Menu Toggle
+    * [Gift cards](https://www.royalballetschool.org.uk/product/gift-card/)
     * [All items](https://www.royalballetschool.org.uk/shop/landing-page/)
     * [Clothing](https://www.royalballetschool.org.uk/product-category/clothing/)
     * [Dancewear](https://www.royalballetschool.org.uk/product-category/dancewear/)
