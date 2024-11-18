@@ -1,3 +1,10 @@
+Join the 2%
+===========
+
+If just **2 percent** of users donated to Blender, we could support more developers to work on tools and make it the best 3d software, free for everyone, forever!
+
+Donate to Blender
+
 [](https://www.blender.org/ "Go to blender.org")Toggle navigation
 
 * [Features](https://www.blender.org/features/)
