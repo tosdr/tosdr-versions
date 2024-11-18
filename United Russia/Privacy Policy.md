@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» провела в регионах спортивные мероприятия ко Всероссийскому дню самбо](https://cdn.er.ru/media/news/November2024/mx4JJHnM0mqqUuHijXSS-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provela-v-regionah-sportivnye-meropriyatiya-ko-vserossijskomu-dnyu-sambo)
+
+[«Единая Россия» провела в регионах спортивные мероприятия ко Всероссийскому дню самбо](https://er.ru/activity/news/edinaya-rossiya-provela-v-regionah-sportivnye-meropriyatiya-ko-vserossijskomu-dnyu-sambo)
+
+[#Республика Дагестан](https://er.ru/activity/news?tags%5B0%5D=37346) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Кемеровская область-Кузбасс](https://er.ru/activity/news?tags%5B0%5D=137879) [#Аннаев](https://er.ru/activity/news?tags%5B0%5D=90094) [#Всероссийский день самбо](https://er.ru/activity/news?tags%5B0%5D=124836)
+
+Сегодня 10:25
+
 [![«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://cdn.er.ru/media/news/November2024/IbB4bUsxfkIL6u4eA7n7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
 
 [«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
@@ -336,14 +344,6 @@
 [Юрий Станкевич: Участники симпозиума стран БРИКС и Европы продемонстрировали осознанность в диалоге с Россией](https://er.ru/activity/news/yurij-stankevich-uchastniki-simpoziuma-stran-briks-i-evropy-prodemonstrirovali-osoznannost-v-dialoge-s-rossiej)
 
 [#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#Европа](https://er.ru/activity/news?tags%5B0%5D=99)
-
-16.11.24
-
-[![Владимир Якушев: «Единая Россия» отправила из Башкирии помощь в 10 воинских подразделений в зоне СВО](https://cdn.er.ru/media/news/November2024/VGDj7poTQ8fFh0cEiwkG-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-otpravila-iz-bashkirii-pomosh-v-10-voinskih-podrazdelenij-v-zone-svo)
-
-[Владимир Якушев: «Единая Россия» отправила из Башкирии помощь в 10 воинских подразделений в зоне СВО](https://er.ru/activity/news/vladimir-yakushev-edinaya-rossiya-otpravila-iz-bashkirii-pomosh-v-10-voinskih-podrazdelenij-v-zone-svo)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#гумконвой](https://er.ru/activity/news?tags%5B0%5D=96196) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
 16.11.24
 
