@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Average payouts for mesothelioma talcum suits](https://www.pintas.com/wp-content/uploads/2020/03/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-the-average-settlement-for-mesothelioma-and-ovarian-cancer-talcum-powder-lawsuits.jpg "Average Payouts for Mesothelioma Talcum Suits")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/average-talcum-powder-settlement "Average Payouts for Mesothelioma Talcum Suits")
+[![What are the standards for disaster preparedness for nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-the-standards-for-disaster-preparedness-in-nursing-homes.jpg "What Are the Standards for Disaster Preparedness for Nursing Homes?")](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/ "What Are the Standards for Disaster Preparedness for Nursing Homes?")
 
-[#### Average Payouts for Mesothelioma Talcum Suits](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/average-talcum-powder-settlement)
+[#### What Are the Standards for Disaster Preparedness for Nursing Homes?](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/)
 
-[![Can a chest x-ray show asbestos?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-can-a-chest-xray-show-asbestos.jpg "Can a Chest X-ray Show Asbestos?")](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/ "Can a Chest X-ray Show Asbestos?")
+[![What are the signs of end stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-signs-of-end-stage-lung-cancer.jpg "What Are the Signs of End Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer "What Are the Signs of End Stage Lung Cancer?")
 
-[#### Can a Chest X-ray Show Asbestos?](https://www.pintas.com/practice-areas/lung-cancer/can-a-chest-xray-show-asbestos/)
+[#### What Are the Signs of End Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer)
 
-[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
+[![How do i know if a dog bite is infected?](https://www.pintas.com/wp-content/uploads/2023/06/dog-bite-hero-300x211.jpg "How Do I Know if a Dog Bite Is Infected?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected "How Do I Know if a Dog Bite Is Infected?")
 
-[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
+[#### How Do I Know if a Dog Bite Is Infected?](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
