@@ -183,7 +183,7 @@
 
 [Über die Duden-Sprachberatung](https://www.duden.de/ueber_duden/sprachberatung)
 
-[Duden-Mentor Premium & Premium-Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium-Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium-Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium-Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium-Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/)
+[Duden-Mentor Premium & Premium Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/) [Duden-Mentor Premium & Premium Plus 50 % günstiger – nur bis 29.11.2024](https://angebot.mentor.duden.de/premium_angebot_black_friday_2024_11/)
 
 Allgemeine Geschäftsbedingungen
 ===============================
