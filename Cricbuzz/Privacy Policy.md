@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[NZ vs SL - SL Won](https://www.cricbuzz.com/live-cricket-scores/108753/nz-vs-sl-2nd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 2nd ODI - SL Won")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")[TAS vs QL - Match drawn](https://www.cricbuzz.com/live-cricket-scores/102907/tas-vs-ql-12th-match-sheffield-shield-2024-25 "Tasmania v Queensland, 12th Match - Match drawn")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/108761/sl-vs-nz-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 3rd ODI - Preview")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[ADSW vs PRSW - Preview](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - Preview")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
 
 AllLive NowToday
 
@@ -100,13 +100,13 @@ AllLive NowToday
     
     3rd Match
     
-* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Upcoming")
-    
-    4th Match
-    
 * [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - Upcoming")
     
     5th Match
+    
+* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Upcoming")
+    
+    4th Match
     
 * [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Upcoming")
     
@@ -122,12 +122,6 @@ AllLive NowToday
     
     6th T20I
     
-* Netherlands tour of Oman, 2024
-    
-    [Netherlands vs Oman](https://www.cricbuzz.com/live-cricket-scores/108914/ned-vs-oman-3rd-t20i-netherlands-tour-of-oman-2024 "Netherlands v Oman, 3rd T20I - NED Won")
-    
-    3rd T20I
-    
 * DOMESTIC
     
     CSA Four-Day Series Division One 2024-25
@@ -140,19 +134,9 @@ AllLive NowToday
     
     8th Match
     
-* [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Upcoming")
+* [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Preview")
     
     10th Match
-    
-* ICC CWC Challenge League B, 2024-26
-    
-    [Uganda vs Bahrain](https://www.cricbuzz.com/live-cricket-scores/108243/uga-vs-bhr-15th-match-icc-cwc-challenge-league-b-2024-26 "Uganda v Bahrain, 15th Match - UGA Won")
-    
-    15th Match
-    
-* [Singapore vs Italy](https://www.cricbuzz.com/live-cricket-scores/108235/sin-vs-ita-14th-match-icc-cwc-challenge-league-b-2024-26 "Singapore v Italy, 14th Match - ITA Won")
-    
-    14th Match
     
 * Pakistan A v Sri Lanka A, 2024
     
@@ -186,17 +170,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107465/otg-vs-wel-6th-match-plunket-shield "Otago v Wellington, 6th Match - Preview")
+    [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Preview")
+    
+    4th Match
+    
+* [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107465/otg-vs-wel-6th-match-plunket-shield "Otago v Wellington, 6th Match - Preview")
     
     6th Match
     
 * [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Preview")
     
     5th Match
-    
-* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Preview")
-    
-    4th Match
     
 * WOMEN
     
@@ -539,41 +523,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132463/bangladesh-recall-sharmin-akter-supta-jahanara-alam-for-ireland-odis "Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs")
+
+[Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs](https://www.cricbuzz.com/cricket-news/132463/bangladesh-recall-sharmin-akter-supta-jahanara-alam-for-ireland-odis "Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs")
+
+3h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025 "RCB sign Omkar Salvi as men's bowling coach for IPL 2025")
+
+[RCB sign Omkar Salvi as men's bowling coach for IPL 2025](https://www.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025 "RCB sign Omkar Salvi as men's bowling coach for IPL 2025")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132461/theres-so-much-for-me-to-learn-off-ashwin-lyon "There's so much for me to learn off Ashwin - Lyon")
 
 [There's so much for me to learn off Ashwin - Lyon](https://www.cricbuzz.com/cricket-news/132461/theres-so-much-for-me-to-learn-off-ashwin-lyon "There's so much for me to learn off Ashwin - Lyon")
 
-1m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132460/fit-again-tanzim-sakib-cleared-for-competitive-cricket "Fit-again Tanzim Sakib cleared for competitive cricket")
 
 [Fit-again Tanzim Sakib cleared for competitive cricket](https://www.cricbuzz.com/cricket-news/132460/fit-again-tanzim-sakib-cleared-for-competitive-cricket "Fit-again Tanzim Sakib cleared for competitive cricket")
 
-37m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132459/zimbabwe-name-three-uncapped-players-for-pakistan-odis "Zimbabwe name three uncapped players for Pakistan ODIs")
 
 [Zimbabwe name three uncapped players for Pakistan ODIs](https://www.cricbuzz.com/cricket-news/132459/zimbabwe-name-three-uncapped-players-for-pakistan-odis "Zimbabwe name three uncapped players for Pakistan ODIs")
 
-1h ago
+7h ago
 
   [](https://www.cricbuzz.com/cricket-news/132458/aaron-hardie-adam-zampa-and-marcus-stoinis-set-up-clinical-win-australia-vs-pakistan "Hardie, Zampa and Stoinis set up clinical win")
 
 [Hardie, Zampa and Stoinis set up clinical win](https://www.cricbuzz.com/cricket-news/132458/aaron-hardie-adam-zampa-and-marcus-stoinis-set-up-clinical-win-australia-vs-pakistan "Hardie, Zampa and Stoinis set up clinical win")
 
-1h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132457/aaqib-javed-appointed-pakistans-interim-white-ball-coach "Aaqib Javed appointed Pakistan's interim white-ball coach")
-
-[Aaqib Javed appointed Pakistan's interim white-ball coach](https://www.cricbuzz.com/cricket-news/132457/aaqib-javed-appointed-pakistans-interim-white-ball-coach "Aaqib Javed appointed Pakistan's interim white-ball coach")
-
-2h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132456/doug-bracewell-serves-one-month-ban-after-testing-positive-for-cocaine-use "Bracewell serves one-month ban after testing positive for cocaine use")
-
-[Bracewell serves one-month ban after testing positive for cocaine use](https://www.cricbuzz.com/cricket-news/132456/doug-bracewell-serves-one-month-ban-after-testing-positive-for-cocaine-use "Bracewell serves one-month ban after testing positive for cocaine use")
-
-5h ago
+7h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
