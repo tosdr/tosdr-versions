@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Is there sexual abuse involving mormon missionaries?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Is There Sexual Abuse Involving Mormon Missionaries?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-there-sexual-abuse-in-mormon-missionaries2/ "Is There Sexual Abuse Involving Mormon Missionaries?")
+[![What is talcum powder used for?](https://www.pintas.com/wp-content/uploads/2020/07/johnson-and-johnson-talcum-powder-lawsuit-lawyer-what-is-talc-powder-used-for-scaled.jpg "What Is Talcum Powder Used For?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/ "What Is Talcum Powder Used For?")
 
-[#### Is There Sexual Abuse Involving Mormon Missionaries?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-there-sexual-abuse-in-mormon-missionaries2/)
+[#### What Is Talcum Powder Used For?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/what-is-talc-powder-used-for/)
 
-[![How do i know if a dog bite is infected?](https://www.pintas.com/wp-content/uploads/2023/06/dog-bite-hero-300x211.jpg "How Do I Know if a Dog Bite Is Infected?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected "How Do I Know if a Dog Bite Is Infected?")
+[![Is there a statute of limitations for talcum powder lawsuits?](https://www.pintas.com/wp-content/uploads/2020/06/talcum-powder-is-there-a-statute-of-limitations-for-talcum-powder-lawsuits.jpg "Is There a Statute of Limitations for Talcum Powder Lawsuits?")](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/statute-of-limitations "Is There a Statute of Limitations for Talcum Powder Lawsuits?")
 
-[#### How Do I Know if a Dog Bite Is Infected?](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected)
+[#### Is There a Statute of Limitations for Talcum Powder Lawsuits?](https://www.pintas.com/lawsuit/johnson-and-johnson-talcum-powder/statute-of-limitations)
 
-[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
+[![How often are seniors in nursing homes under-monitored?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-how-often-are-seniors-in-nursing-homes-under-monitored.jpg "How Often Are Seniors in Nursing Homes Under-Monitored?")](https://www.pintas.com/faq/how-often-are-seniors-in-nursing-homes-under-monitored/ "How Often Are Seniors in Nursing Homes Under-Monitored?")
 
-[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
+[#### How Often Are Seniors in Nursing Homes Under-Monitored?](https://www.pintas.com/faq/how-often-are-seniors-in-nursing-homes-under-monitored/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Comments
+Email
 
 This field is for validation purposes and should be left unchanged.
 
