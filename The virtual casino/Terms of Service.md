@@ -267,6 +267,19 @@ SLOT TOURNAMENT TERMS & CONDITIONS
 ADDITIONAL TERMS APPLICABLE TO SLOT TOURNAMENT
 ----------------------------------------------
 
+### Weekend Wins Tournament
+
+* Tournament runs from midnight on Friday to 23:59 pm EST on Sunday.
+* Registration begins at 17:00 on Thursday and closes at 23:59 pm EST on Sunday.
+* Players may begin their tournament play at any time between the tournament start and finish time, but once a player begins to play, their play cannot be paused.
+* Players may buy into the tournament an unlimited number of times once the tournament has begun.
+* Entry is $50 and grants 7 minutes of play on the specified game.
+* Players may add on 3 times per buy in which grants a further 5 minutes of play for $20.
+* Players may re-buy 3 times per buy in which grants a further 7 minutes of play for $30.
+* Consult the leaderboard for the distribution of prizes.
+* Tournament winnings come with a 40x playthrough requirement on Slots and Keno (60x on table games) and a 1x max cashout limit.
+* Unless otherwise stated, standard terms apply.
+
 ### Free Roll Tournaments:
 
 * Free Roll Tournaments are Tournaments which do not require that players pay a registration fee.
