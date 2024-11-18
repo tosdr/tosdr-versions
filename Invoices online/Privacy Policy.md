@@ -124,50 +124,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Anri van der Linde
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=91069400)  
-United Paintball Federation
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=194877356)  
+Wiselink Broadband Dundee
 
-![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=111223378)  
-OXYAIDER (PTY) LTD
+![valued client Super Sound Man (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7403&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=62584297)  
+Super Sound Man (PTY) Ltd
 
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=32546720)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
+![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=73754350)  
+Frequency Fanatics (Pty) Ltd
 
-![valued client webb it services](https://www.invoicesonline.co.za/scripts/image.php?bid=7007&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=192669321)  
-webb it services
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=87876847)  
+Fox Alarms & Security CC
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=203756847)  
-FJW Security Cc
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=9439827)  
+The Gourmet Artisans Ltd.
 
-![valued client Moving Made Easy (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8622&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=23584514)  
-Moving Made Easy (PTY) Ltd
+![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=204372817)  
+West Coast Horse Trails
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=27021566)  
-Henry's Home Renovations
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=147134911)  
+TurboFibre
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=114305734)  
-Xpress Designs
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=186275711)  
+Vplay Letsheng Mall
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=41902322)  
-Konsortium Operations (PTY) LTD
+![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=161960291)  
+MR Compressors& Industrial Supplies
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=23139151)  
-RADIO TYGERBERG 104FM NPC
+![valued client Moremi Kitchens Rustenburg ](https://www.invoicesonline.co.za/scripts/image.php?bid=6362&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=52257302)  
+Moremi Kitchens Rustenburg
 
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=122564948)  
-Import Maaw
+![valued client Frameless Fanatix (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=6498&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=158562393)  
+Frameless Fanatix (Pty) Ltd.
 
-![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=11332487)  
-BEE SURE CONSULTING (PTY) LTD
+![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=186820800)  
+MOSELA GROUP Pty(ltd)
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=155420182)  
-Kaylas Creations
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=205658728)  
+Tracknetics
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=169268955)  
-Roamfree Boerdery (PTY) LTD
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=178214320)  
+Desygn
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=73e2130a24fccf814869cbf3062332b59fae0789f9d4dd34a7cc8fe81e2d855d&c=61541590)  
-Mtunzini Group
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=a10e61cedc548d955010cd77e9ac602a2d9ac846a2556242c05f208721463803&c=60503937)  
+Waterfinatics Swim School
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
