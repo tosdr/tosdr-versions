@@ -14,14 +14,6 @@ Recommendations
 
 Audio
 
-* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
-    
-    Books Bans Are on the Rise in America
-    
-    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
-
-* * *
-
 * [![Audiobooks for Kids](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/07/18161743/audiobooks-for-kids-readdown-1200x628-1.jpg)
     
     Audiobooks for Kids
@@ -30,11 +22,19 @@ Audio
 
 * * *
 
-* [![A Guide to Colson Whitehead Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/22134851/PRH_Site_1200x628_ColsonWhite.jpg)
+* [![New Releases](https://assets.penguinrandomhouse.com/wp-content/uploads/2022/10/10135341/PRH_Site_1200x628_NOV2024.jpg)
     
-    A Guide to Colson Whitehead Books
+    New Releases
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+    Learn More >](https://www.penguinrandomhouse.com/the-read-down/new-book-releases-november/)
+
+* * *
+
+* [![Books Bans Are on the Rise in America](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171820/Let-Kids-Read_600x314-nav.jpg)
+    
+    Books Bans Are on the Rise in America
+    
+    Learn More >](https://www.penguinrandomhouse.com/banned-books/)
 
 * <
     
