@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-FoxyProxy is worth every cent.
+Excellent service, have taken out Annual subscription
 
-Thomas Loweg
+Liz Kene
