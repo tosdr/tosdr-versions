@@ -8,9 +8,13 @@ Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
+[Store login](https://store.toogoodtogo.com/login "Store login")
+
 Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
+
+[Store login](https://store.toogoodtogo.com/login "Store login")
 
 Download the App
 
@@ -20,9 +24,13 @@ Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
 
+[Store login](https://store.toogoodtogo.com/login "Store login")
+
 Download the App
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
+
+[Store login](https://store.toogoodtogo.com/login "Store login")
 
 Download the App
 
@@ -103,6 +111,8 @@ Get inspired to do good with the latest news, information, tips & tricks, recipe
 United States (English)
 
 [Business sign-up](https://store.toogoodtogo.com/onboarding "Business sign-up")
+
+[Store login](https://store.toogoodtogo.com/login "Store login")
 
 Privacy Policy
 ==============
