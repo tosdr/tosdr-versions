@@ -411,11 +411,11 @@ _A equipe do POSTGRAIN lhe deseja uma excelente navegação!_
 
 ### Última do blog
 
-[![](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-A-Apple-pode-lancar-uma-loja-de-aplicatovos-para-jogos-1-580x290.jpg)](https://postgrain.com/?post_type=post&p=12721)
+[![Script de vendas para Instagram - A imagem que ilustra o tema tem o fundo vermelho e aparece uma pessoa branca, segurando um celular e tocando na tela.](https://postgrain.com/wp-content/uploads/2024/11/THUMB-BLOG-Script-de-vendas-para-Instagram-Quais-as-vantagens-580x290.jpg)](https://postgrain.com/?post_type=post&p=12728)
 
-[A Apple pode lançar uma loja de aplicativos para jogos](https://postgrain.com/?post_type=post&p=12721)
+[Script de vendas para Instagram: Quais as vantagens?](https://postgrain.com/?post_type=post&p=12728)
 
-[Leia mais](https://postgrain.com/?post_type=post&p=12721)
+[Leia mais](https://postgrain.com/?post_type=post&p=12728)
 
 Ilustração de um dos personagens do Postgrain
 
