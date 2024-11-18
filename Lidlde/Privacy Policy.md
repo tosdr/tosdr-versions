@@ -1370,7 +1370,7 @@ Unsere Webseite und die Lidl App enthalten Links zu anderen Webseiten und Apps, 
 
   
 
-Wenn wir Sie auf eine dieser Webseiten/ Apps weiterleiten, verarbeiten wir Ihre personenbezogenen Daten, um Ihrer (technischen) Aufforderung zum Besuch der jeweiligen Anwendung oder Webseite nachzukommen (Artikel 6 Absatz 1 b) DSGVO), sowie basierend auf dem berechtigten
+Wenn wir Sie auf eine dieser Webseiten/ Apps weiterleiten, verarbeiten wir Ihre personenbezogenen Daten, um Ihrer (technischen) Aufforderung zum Besuch der jeweiligen Anwendung oder Webseite nachzukommen (Artikel 6 Absatz 1 b) DSGVO), sowie basierend auf dem berechtigten Interesse des Betreibers an der Durchführung von Werbung (Artikel 6 Absatz 1 f) DSGVO).
 
 16\. Zugriff auf Funktionen und Sensoren Ihres mobilen Endgeräts
 
