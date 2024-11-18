@@ -24,7 +24,7 @@ Community
 
 [Home](https://coomer.party/) [Creators](https://coomer.party/artists) [Posts](https://coomer.party/posts) [Import](https://coomer.party/importer) [Register](https://coomer.party/account/register?location=/dmca) [Login](https://coomer.party/account/login?location=/dmca)
 
-[**Patreon importer is back online! Tell your friends ✅**](https://kemono.su/importer)
+[The Offical Matrix Groupchat is online! >>CLICK HERE<<](https://coomer.su/matrix)
 
 #### DMCA Notice
 
