@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/het-verschijnsel-meervoudige-chaotische-knooppunten/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/media/januari-11-goldman-sachs-koopt-aandelen-fb/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
