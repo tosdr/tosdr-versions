@@ -12,6 +12,8 @@ Open main menu
 
 [Log in](https://app.addy.io/login)
 
+Black Friday Offer! Get **40% off** your first year with code BLACKFRIDAY24
+
 Terms Of Service
 ================
 
