@@ -107,69 +107,61 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
 
-New song
+New comment
 
-[Patricia Kelly - Goodbye](https://lyricstranslate.com/en/patricia-kelly-goodbye-lyrics)
+Erm... I don't get why you removed the first ...  [more](https://lyricstranslate.com/en/comment/1177046#comment-1177046)
 
-English
+[![Don Juan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1110108-1727386627.png)](https://lyricstranslate.com/en/translator/don-juan "Don Juan")
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+New comment
 
-New song
+You mean remove them? We could, but we've been ...  [more](https://lyricstranslate.com/en/comment/1177045#comment-1177045)
 
-[Patricia Kelly - We're Gonna Be Okay](https://lyricstranslate.com/en/patricia-kelly-were-gonna-be-okay-lyrics)
+[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1726335605.png)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
 
-English
+New comment
 
-[![UnaDripper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1541537-1706219329.jpg)](https://lyricstranslate.com/en/translator/unadripper "UnaDripper")
+Thank you  [more](https://lyricstranslate.com/en/comment/1177044#comment-1177044)
 
-New song
+[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1726335605.png)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
 
-[who28 - Dia](https://lyricstranslate.com/en/who28-dia-lyrics)
+New comment
 
-English
+Thanks this worked!  [more](https://lyricstranslate.com/en/comment/1177043#comment-1177043)
 
-[![Laplage](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1112497-1596264636.jpg)](https://lyricstranslate.com/en/translator/laplage "Laplage")
-
-New translation
-
-[Younghearted - Sun numero](https://lyricstranslate.com/en/younghearted-sun-numero-french)
-
-Finnish → French
-
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
-
-New song
-
-[Patricia Kelly - Your Grace](https://lyricstranslate.com/en/patricia-kelly-your-grace-lyrics)
-
-English
-
-[![cph1776](https://lyricstranslate.com/files/styles/micro/public/avatar-default-u.png)](https://lyricstranslate.com/en/translator/cph1776 "cph1776")
+[![Skribbl](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1496502-1708497653.jpg)](https://lyricstranslate.com/en/translator/skribbl "Skribbl")
 
 New translation
 
-[Charlotte Perrelli - Tusen och en natt](https://lyricstranslate.com/en/charlotte-perrelli-tusen-och-en-natt-italian)
+[Hichki (OST) - फिर क्या है ग़म (Phir Kya Hai Gham)](https://lyricstranslate.com/en/hichki-ost-phir-kya-hai-gham-transliteration)
 
-Swedish → Italian
+Hindi → Transliteration
 
-[![UnaDripper](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1541537-1706219329.jpg)](https://lyricstranslate.com/en/translator/unadripper "UnaDripper")
+[![Dubbing Times](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1610561-1726335605.png)](https://lyricstranslate.com/en/translator/kacey-barry "Dubbing Times")
 
-New translation
+New transcription request
 
-[who28 - wait4me (Wait 4 Me)](https://lyricstranslate.com/en/who28-wait-4-me-english)
+[Rudolph The Red-nosed Reindeer: The Movie (ost) - What About His Nose? (Catalan)](https://lyricstranslate.com/en/rudolph-red-nosed-reindeer-movie-ost-what-about-his-nose-catalan)
 
-English → English
+Catalan
 
-[![robinofsherwood17021981](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1199762-1607435630.jpg)](https://lyricstranslate.com/en/translator/robinofsherwood17021981 "robinofsherwood17021981")
+[![Aruna Sichone](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637447-1731936149.png)](https://lyricstranslate.com/en/translator/aruna-sichone "Aruna Sichone")
+
+New request
+
+[Michael Jackson - Heal the World](https://lyricstranslate.com/en/request/heal-world-10)
+
+English → Swahili
+
+[![osiris71](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1421017-1557781113.jpg)](https://lyricstranslate.com/en/translator/osiris71 "osiris71")
 
 New song
 
-[Patricia Kelly - Don't Lose Hope](https://lyricstranslate.com/en/patricia-kelly-dont-lose-hope-lyrics)
+[Françoise Hardy - Tu es un peu à moi](https://lyricstranslate.com/en/francoise-hardy-tu-es-un-peu-moi-lyrics)
 
-English
+French
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
@@ -183,7 +175,7 @@ English
 
 Interface language
 
-DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
+DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربيةفارسی日本語
 
 Theme
 
