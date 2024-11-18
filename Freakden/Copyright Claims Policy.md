@@ -108,8 +108,9 @@ Category [Terms](https://www.freakden.com/blog/terms/)
 
 #### Newest Posts
 
+* [Klinefelter Syndrome 47XXY mature man patient](https://www.freakden.com/pin/klinefelter-syndrome-47xxy-mature-man-patient/)
+* [Me in all my Glory](https://www.freakden.com/pin/me-in-all-my-glory-2/)
 * [My pathetic tiny Limp dick husband](https://www.freakden.com/pin/my-pathetic-tiny-limp-dick-husband/)
-* [Humiliating Exposure](https://www.freakden.com/pin/humiliating-exposure/)
 * [:)](https://www.freakden.com/pin/810451/)
 * [:)](https://www.freakden.com/pin/810449/)
 * [TS Gianna](https://www.freakden.com/pin/ts-gianna/)
@@ -117,7 +118,6 @@ Category [Terms](https://www.freakden.com/blog/terms/)
 * [Exposure is forever](https://www.freakden.com/pin/exposure-is-forever/)
 * [Being further exposed to the world as Madison](https://www.freakden.com/pin/being-further-exposed-to-the-world-as-madison/)
 * [Panties](https://www.freakden.com/pin/panties-19/)
-* [Shanghai Dominatrix’s Confession: I am turned on by submissive and shy guys.](https://www.freakden.com/pin/shanghai-dominatrixs-confession-i-am-turned-on-by-submissive-and-shy-guys/)
 
 ×
 
