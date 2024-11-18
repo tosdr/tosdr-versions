@@ -299,13 +299,13 @@
 
 [Все новости](https://er.ru/activity/news)
 
-[![«Единая Россия» провела в регионах спортивные мероприятия ко Всероссийскому дню самбо](https://cdn.er.ru/media/news/November2024/mx4JJHnM0mqqUuHijXSS-small.JPG)](https://er.ru/activity/news/edinaya-rossiya-provela-v-regionah-sportivnye-meropriyatiya-ko-vserossijskomu-dnyu-sambo)
+[![«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://cdn.er.ru/media/news/November2024/43wb9FLmyrb24cl91tbv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
 
-[«Единая Россия» провела в регионах спортивные мероприятия ко Всероссийскому дню самбо](https://er.ru/activity/news/edinaya-rossiya-provela-v-regionah-sportivnye-meropriyatiya-ko-vserossijskomu-dnyu-sambo)
+[«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
 
-[#Республика Дагестан](https://er.ru/activity/news?tags%5B0%5D=37346) [#Московская область](https://er.ru/activity/news?tags%5B0%5D=765) [#Москва](https://er.ru/activity/news?tags%5B0%5D=255) [#Кемеровская область-Кузбасс](https://er.ru/activity/news?tags%5B0%5D=137879) [#Аннаев](https://er.ru/activity/news?tags%5B0%5D=90094) [#Всероссийский день самбо](https://er.ru/activity/news?tags%5B0%5D=124836)
+[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Алиханов](https://er.ru/activity/news?tags%5B0%5D=103216) [#Минпромторг](https://er.ru/activity/news?tags%5B0%5D=3505) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#суверенитет](https://er.ru/activity/news?tags%5B0%5D=9840) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
 
-Сегодня 10:25
+Сегодня 14:51
 
 [![«Единая Россия» подписала меморандум о взаимопонимании с Социалистической партией Сербии](https://cdn.er.ru/media/news/November2024/IbB4bUsxfkIL6u4eA7n7-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podpisala-memorandum-o-vzaimoponimanii-s-socialisticheskoj-partiej-serbii)
 
