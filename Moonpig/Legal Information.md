@@ -1,6 +1,6 @@
 [Skip to content](#mainContent)
 
-[![](https://images.ctfassets.net/3m6f3dx67i1j/XR5KLYmJCVB7KM2LBrUDd/7540fec39526a13c517423cecc97dcf4/space-pig.png?w=100&h=100&fm=png&fit=fill)](https://www.moonpig.com/uk/ "Go to Moonpig home")
+[![](https://images.ctfassets.net/3m6f3dx67i1j/2v6PUypoz1pVHUiPBl8yR/a615d9d7f53827b57d2745d108cf7705/400x400-Moonpig-HP-Logo-Santa-Pig.jpg?w=100&h=100&fm=png&fit=fill)](https://www.moonpig.com/uk/ "Go to Moonpig home")
 
 Search
 
