@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Atos delivers secure, low-latency enterprise-grade AI with Atos Sovereign AI Platform](https://atos.net/en/2024/news_2024_11_18/atos-delivers-secure-low-latency-enterprise-grade-ai-with-atos-sovereign-ai-platform)
         * [Eviden leads the charge in high-performance computing with new AI-ready scale-out networking offering](https://atos.net/en/2024/press-release_2024_11_14/eviden-leads-the-charge-in-high-performance-computing-with-new-ai-ready-scale-out-networking-offering)
         * [Market Update](https://atos.net/en/2024/press-release_2024_11_08/market-update-6)
-        * [Eviden Launches Evidian Orbion: A Next-Generation, comprehensive Cloud-Based Identity and Access Management Solution](https://atos.net/en/2024/news_2024_11_05/eviden-launches-evidian-orbion-a-next-generation-comprehensive-cloud-based-identity-and-access-management-solution)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        Nov 14, 2024
+        Nov 18, 2024
         
-        ### Eviden leads the charge in high-performance computing with new AI-ready scale-out networking offering
+        ### Atos delivers secure, low-latency enterprise-grade AI with Atos Sovereign AI Platform
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
