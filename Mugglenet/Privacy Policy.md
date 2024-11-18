@@ -328,15 +328,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
+Magic makes electronics go haywire, so Muggle devices don’t work at or near Hogwarts.
 
 ### Potter History
 
-January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
+December 11, 2008 – The first stop for Harry Potter: The Exhibition is announced as Chicago, Illinois, opening on April 30, 2009.
 
 ### Potter Quote
 
-“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
+“Sir, I wondered what you know about . . . about Horcruxes?”
 
 [](#)
 
