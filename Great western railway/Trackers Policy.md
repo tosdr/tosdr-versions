@@ -1,14 +1,10 @@
 [Skip to main content](#main-content)
 
-**Sunday 17 November 2024**: Disruption to services this Sunday 17 November.
-
-[Find out more](https://www.gwr.com/sunday-disruption)
-
 Accessibility tools
 
 [My Account](https://myaccount.gwr.com/MyAccount/SignIn)
 
-Travel updatesGood service
+(1) Travel updatesDisruption
 
 [](https://www.gwr.com/ "GWR Homepage")[Buy tickets](https://www.gwr.com/tickets#)
 
