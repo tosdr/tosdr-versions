@@ -127,7 +127,7 @@ For more information, please read our [Privacy PolicyOpens a new window](https:/
 
 We hope that this policy helps you understand our use of cookies. If you have any further queries, please contact us at [privacy@ziffdavis.com](mailto:privacy@ziffdavis.com "Opens a new window") **and be sure to include _Cookie Policy_ in the subject line**.
 
-[spiceworks.](https://www.spiceworks.com/?ref_source=spiceworks)
+[spiceworks.](https://www.spiceworks.com/)
 
 * [About](https://www.spiceworks.com/about/)
 * [Contact](https://www.spiceworks.com/contact/)
