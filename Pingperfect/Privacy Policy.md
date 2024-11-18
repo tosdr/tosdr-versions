@@ -8,44 +8,150 @@
 
 [![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
 
-* [HOME](https://pingperfect.com/)
-* [BLOG](https://blog.pingperfect.com/)
-* [RENT A GAME SERVER](#)
-    * [CHOOSE A GAME...](https://new.pingperfect.com/game)
-    * [LOCATIONS](https://new.pingperfect.com/locations)
-    * [HARDWARE](https://new.pingperfect.com/hardware)
-* [DEDICATED](#)
-    * [DEDICATED SERVERS](https://new.pingperfect.com/dedicated-servers)
-
+* [Home](https://pingperfect.com/)
+* [Blog](https://blog.pingperfect.com/)
+* [Rent a game server](#)
+    * [| Choose a game...](https://pingperfect.com/game)
+    * * * *
+        
+    * [| Location](https://pingperfect.com/locations)
+    * * * *
+        
+    * [| Hardware](https://pingperfect.com/hardware)
+* [Dedicated Servers](#)
+    * [| Dedicated Servers](https://pingperfect.com/dedicated-servers)
 * [VPS](https://pingperfect.com/vps)
-    * [Windows Normal VPS](https://pingperfect.com/index.php/store/windows-normal-vps)
-    * [Linux Normal VPS](https://pingperfect.com/index.php/store/linux-normal-vps)
-    * [Windows Extreme VPS](https://pingperfect.com/index.php/store/windows-extreme-vps)
-    * [Linux Extreme VPS](https://pingperfect.com/index.php/store/linux-extreme-vps)
-* [VOICE](#)
-    * [VOICE SERVERS](https://new.pingperfect.com/voice)
-* [WEB](#)
-    * [WEB HOSTING](https://new.pingperfect.com/web_hosting)
-    * [DOMAINS](https://pingperfect.com/cart.php?a=add&domain=register)
-* [PANELS](#)
-    * [GAME PANEL](https://gamepanel.pingperfect.com/)
-    * [BILLING AREA](https://pingperfect.com/clientarea.php)
-* [SUPPORT](#)
-    * [CONTACT](https://new.pingperfect.com/contact-us)
-    * [KNOWLEDGEBASE](https://pingperfect.com/index.php/knowledgebase)
-    * [SUPPORT LEVELS](https://new.pingperfect.com/support_levels)
-    * [FAQ](https://new.pingperfect.com/faqs)
-* [ABOUT](#)
-    * [ABOUT US](https://new.pingperfect.com/aboutus)
-    * [CAREERS](https://new.pingperfect.com/careers)
-    * [PARTNERS](#)
-        * [GAME DEVELOPERS](https://new.pingperfect.com/game_developers)
-        * [AFFILIATES](https://new.pingperfect.com/affil)
-    * [TERMS](https://new.pingperfect.com/terms_conditions)
-    * [PRIVACY](https://new.pingperfect.com/privacy)
-* [ACCOUNT](#)
-    * [LOGIN](https://pingperfect.com/clientarea.php)
-    * [REGISTER](https://pingperfect.com/register.php)
+    
+    * [| Windows Normal VPS](https://pingperfect.com/index.php/store/windows-normal-vps)
+    * [| Linux Normal VPS](https://pingperfect.com/index.php/store/linux-normal-vps)
+    * [| Windows Extreme VPS](https://pingperfect.com/index.php/store/windows-extreme-vps)
+    * [| Linux Extreme VPS](https://pingperfect.com/index.php/store/linux-extreme-vps)
+    
+* [Voice](#)
+    * [| Voice Servers](https://pingperfect.com/voice)
+* [Web](#)
+    * [| Web Hosting](https://pingperfect.com/web_hosting)
+    * [| Domains](https://pingperfect.com/cart.php?a=add&domain=register)
+* [Panels](#)
+    * [| Game Panel](https://gamepanel.pingperfect.com/)
+    * [| Billing Area](https://pingperfect.com/clientarea.php)
+* [Support](#)
+    * [| Contact](https://pingperfect.com/contact-us)
+    * [| Knowledgebase](https://pingperfect.com/index.php/knowledgebase)
+    * [| Support Levels](https://pingperfect.com/support_levels)
+    * [| FAQ](https://pingperfect.com/faqs)
+* [About](#)
+    * [| About Us](https://pingperfect.com/aboutus)
+    * [| Careers](https://pingperfect.com/careers)
+    * [| Game Developers](https://pingperfect.com/game_developers)
+    * [| Affiliates](https://pingperfect.com/affil)
+    * [| Terms and Conditions](https://pingperfect.com/terms_conditions)
+    * [| Privacy Policy](https://pingperfect.com/privacy)
+* [Account](#)
+    * [| Login](https://pingperfect.com/clientarea.php)
+    * [| Register](https://pingperfect.com/register.php)
+
+[![Pingperfect Logo](https://pingperfect.com/img/Logo.webp)](https://pingperfect.com/)
+
+* [Home](https://pingperfect.com/)[](https://pingperfect.com/)
+    ------------------------------------------------------------
+    
+    [Blog](https://blog.pingperfect.com/)[](https://blog.pingperfect.com/)
+    ----------------------------------------------------------------------
+    
+    Game Servers
+    ------------
+    
+    * [| Games](https://pingperfect.com/game)
+    * * * *
+        
+    * [| Location](https://pingperfect.com/locations)
+    * * * *
+        
+    * [| Hardware](https://pingperfect.com/hardware)
+    
+    Dedicated
+    ---------
+    
+    * [| Dedicated Servers](https://pingperfect.com/dedicated-servers)
+    
+    VPS - Virtual Private Servers
+    -----------------------------
+    
+    * [| Windows Normal VPS](https://pingperfect.com/index.php/store/windows-normal-vps)
+    * * * *
+        
+    * [| Linux Normal VPS](https://pingperfect.com/index.php/store/linux-normal-vps)
+    * * * *
+        
+    * [| Windows Extreme VPS](https://pingperfect.com/index.php/store/windows-extreme-vps)
+    * * * *
+        
+    * [| Linux Extreme VPS](https://pingperfect.com/index.php/store/linux-extreme-vps)
+    
+    Voice Servers
+    -------------
+    
+    * [| Voice Servers](https://pingperfect.com/voice)
+    
+    Web Hosting
+    -----------
+    
+    * [| Web Hosting](https://pingperfect.com/web_hosting)
+    * * * *
+        
+    * [| Domains](https://pingperfect.com/cart.php?a=add&domain=register)
+    
+    Panels
+    ------
+    
+    * [| Game Panel](https://gamepanel.pingperfect.com/)
+    * * * *
+        
+    * [| Billing Area](https://pingperfect.com/clientarea.php)
+    
+    Support
+    -------
+    
+    * [| Contact](https://pingperfect.com/contact-us)
+    * * * *
+        
+    * [| Knowledgebase](https://pingperfect.com/index.php/knowledgebase)
+    * * * *
+        
+    * [| Support Levels](https://pingperfect.com/support_levels)
+    * * * *
+        
+    * [| FAQ](https://pingperfect.com/faqs)
+    
+    About
+    -----
+    
+    * [| About Us](https://pingperfect.com/aboutus)
+    * * * *
+        
+    * [| Careers](https://pingperfect.com/careers)
+    * * * *
+        
+    * [| Game Developers](https://pingperfect.com/game_developers)
+    * * * *
+        
+    * [| Affiliates](https://pingperfect.com/affil)
+    * * * *
+        
+    * [| Terms and Conditions](https://pingperfect.com/terms_conditions)
+    * * * *
+        
+    * [| Privacy Policy](https://pingperfect.com/privacy)
+    
+    Account
+    -------
+    
+    * [| Login](https://pingperfect.com/clientarea.php)
+    * * * *
+        
+    * [| Register](https://pingperfect.com/register.php)
+    
 
 PingPerfect.com | 404                         
 
