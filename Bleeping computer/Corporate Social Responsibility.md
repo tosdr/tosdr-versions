@@ -36,18 +36,18 @@
         
         NSO Group used another WhatsApp zero-day after being sued, court docs say](https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/)
     
+    * [![Critical RCE bug in VMware vCenter Server now exploited in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
+    * [![Fake Bitwarden ads on Facebook push info-stealing Chrome extension](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Fake Bitwarden ads on Facebook push info-stealing Chrome extension](https://www.bleepingcomputer.com/news/security/fake-bitwarden-ads-on-facebook-push-info-stealing-chrome-extension/)
     * [![This $25 course deal teaches how the pros use Adobe Creative Cloud](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         This $25 course deal teaches how the pros use Adobe Creative Cloud](https://www.bleepingcomputer.com/offer/deals/this-25-course-deal-teaches-how-the-pros-use-adobe-creative-cloud/)
     * [![Microsoft 365 Admin portal abused to send sextortion emails](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Microsoft 365 Admin portal abused to send sextortion emails](https://www.bleepingcomputer.com/news/security/microsoft-365-admin-portal-abused-to-send-sextortion-emails/)
-    * [![Phishing emails increasingly use SVG attachments to evade detection](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Phishing emails increasingly use SVG attachments to evade detection](https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
-    * [![Security plugin flaw in millions of WordPress sites gives admin access](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Security plugin flaw in millions of WordPress sites gives admin access](https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
