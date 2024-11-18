@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+    *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
-        #### [Winter Storm Warning expires Monday; mountain snow begins to taper off](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        #### [Bomb cyclone will lead to damaging winds in western Washington Tuesday](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
-    *  [![](https://media.king5.com/assets/KING/images/dbdaf407-bfa1-4d43-8148-04f59a2dc84b/20241117T173342/dbdaf407-bfa1-4d43-8148-04f59a2dc84b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbdaf407-bfa1-4d43-8148-04f59a2dc84b/20241117T173342/dbdaf407-bfa1-4d43-8148-04f59a2dc84b_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-investigating-homicide-university-district/281-901f7fb0-b0f6-48e8-8814-07e74aaac58a)
+    *  [![](https://media.king5.com/assets/KING/images/e4e4b003-804e-4588-9202-04498f81f265/20241118T181336/e4e4b003-804e-4588-9202-04498f81f265_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e4e4b003-804e-4588-9202-04498f81f265/20241118T181336/e4e4b003-804e-4588-9202-04498f81f265_360x203.jpg)](https://www.king5.com/article/news/crime/woman-shot-robbery-seattle-chinatown-international-district/281-bd344794-a714-4614-acc4-c9f444d3d098)
         
-        #### [Seattle police investigating deadly shooting in University District](https://www.king5.com/article/news/crime/seattle-police-investigating-homicide-university-district/281-901f7fb0-b0f6-48e8-8814-07e74aaac58a)
+        #### [Woman shot during robbery in Seattle's Chinatown International District](https://www.king5.com/article/news/crime/woman-shot-robbery-seattle-chinatown-international-district/281-bd344794-a714-4614-acc4-c9f444d3d098)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
-        
-        #### [Winter Storm Warning expires Monday; mountain snow begins to taper off](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
-        
     *  [![](https://media.king5.com/assets/KING/images/fd565adc-af9b-40a7-85b3-15952d5093ef/20241118T125200/fd565adc-af9b-40a7-85b3-15952d5093ef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fd565adc-af9b-40a7-85b3-15952d5093ef/20241118T125200/fd565adc-af9b-40a7-85b3-15952d5093ef_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+    *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+        
+        #### [Bomb cyclone will lead to damaging winds in western Washington Tuesday](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -96,7 +96,7 @@ Seattle, WA »
 
 43°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
