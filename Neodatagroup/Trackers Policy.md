@@ -21,7 +21,7 @@ Conosci di più sulla nostra azienda e i nostri valori](https://www.neodatagroup
 
 #### Sicurezza Dati e GDPR
 
-Tutto ciò che c'è da sapere in materia di privacy](https://www.neodatagroup.com/gdpr-marketing-automation)[![Blendee Blendee | M.O.S. Marketing Operating System| I nostri clienti](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/647db52232a6285c035d7029_clienti.svg)
+Tutto ciò che c'è da sapere in materia di privacy](https://www.neodatagroup.com/gdpr-marketing-automation)[![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/647db52232a6285c035d7029_clienti.svg)
 
 #### I nostri Clienti
 
@@ -541,6 +541,8 @@ Questo ci permette di offrire una soluzione unica per quanto concerne la interop
 
 ![Blendee | Adobe](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d57dcbde1d143d52c2041_adobe.jpg)
 
+![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/673aff70baac86e250520094_670e720f1b9df286f679dea4_brevo.png)
+
 ![Blendee | BigCommerce](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d58d296e93ed8617f632a_big-commerce.png)
 
 ![Blendee | ContactLab](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d58dcf88aae1c048152e3_contact-lab.png)
@@ -579,8 +581,6 @@ Questo ci permette di offrire una soluzione unica per quanto concerne la interop
 
 ![Blendee | SalesForce](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d59ba6d73c18c0e9371d4_sales-force.png)
 
-![Blendee | SendingBlue](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d59c496e93ed86180908a_sendingblue%2B.png)
-
 ![Blendee | Shopify](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d59cb91393be9e872a0eb_shopify.png)
 
 ![Blendee | Storeden](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d59d33940230d0badb777_storeden.png)
@@ -613,7 +613,7 @@ Abbiamo il piacere di lavorare con importanti aziende che affianchiamo con entus
 
 ![Blendee | CafèNoir](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d718658749e3e30d66316_cafenoir.png)
 
-![Blendee | Cairos Media](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d718e1c92b85a2ed4455f_caurorcs-media.png)
+![](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d718e1c92b85a2ed4455f_caurorcs-media.png)
 
 ![Blendee | Editoriale Domus](https://cdn.prod.website-files.com/5e9dcaea14ba52eb79416f6a/649d7196d0614a7d426e5103_editoriale-domus.png)
 
