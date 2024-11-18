@@ -196,58 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Shaun Gartshore
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=71503430)  
-Electro-Heat
+![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=57366069)  
+TRACKFORCE (Pty) Ltd
 
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=124574857)  
-OptaServ
-
-![valued client Druce Digital](https://www.invoicesonline.co.za/scripts/image.php?bid=7901&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=167718345)  
-Druce Digital
-
-![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=52049292)  
-Tantra Sound and Lightz
-
-![valued client     ](https://www.invoicesonline.co.za/scripts/image.php?bid=8650&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=102794623)  
-
-![valued client Lily Fern & Co](https://www.invoicesonline.co.za/scripts/image.php?bid=7678&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=200507434)  
-Lily Fern & Co
-
-![valued client Sarabi ](https://www.invoicesonline.co.za/scripts/image.php?bid=5430&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=13621210)  
-Sarabi
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=53231028)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client FX ACCOUNTING](https://www.invoicesonline.co.za/scripts/image.php?bid=6924&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=108565977)  
-FX ACCOUNTING
-
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=125590361)  
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=111339184)  
 The Gourmet Artisans Ltd.
 
-![valued client Dombieterfontein (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2351&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=81772231)  
-Dombieterfontein (PTY) LTD
+![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=36735979)  
+Xpress Designs
 
-![valued client Firstweb Hosting & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=578&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=81187931)  
-Firstweb Hosting & Design
+![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=56041112)  
+AMS Ambu Medical Supplies
 
-![valued client Cooper Logistics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1974&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=16749951)  
-Cooper Logistics (Pty) Ltd
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=197865750)  
+Wiselink Broadband Dundee
 
-![valued client Testpro Laboratory (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5981&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=129007156)  
-Testpro Laboratory (Pty) Ltd
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=190291381)  
+TurboFibre
 
-![valued client ELLIE'S CLEANING CHICKS](https://www.invoicesonline.co.za/scripts/image.php?bid=6490&file=logo_300_100&type=&fe=f3b16abf6cf1089ae4ce94be46096a6159cdc42c33cbda548ccda5fda1dc243f&c=180624716)  
-ELLIE'S CLEANING CHICKS
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=146904321)  
+Kaylas Creations
+
+![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=109733397)  
+Electro-Heat
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=214265821)  
+Vplay Letsheng Mall
+
+![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=68147579)  
+Enhle Oarabile Kea
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=93231515)  
+Konsortium Operations (PTY) LTD
+
+![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=104279384)  
+Nilbet T/A Waterman
+
+![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=101291162)  
+Brand's Fountains Deco and Events Coordinatoin
+
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=155531574)  
+Mountain Lion Properties
+
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=134654990)  
+FJW Security Cc
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
