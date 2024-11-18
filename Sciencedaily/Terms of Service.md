@@ -251,25 +251,25 @@ this week
 
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Heart Disease](https://www.sciencedaily.com/news/health_medicine/heart_disease/)
+[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
 
-[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
+[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Organic Chemistry](https://www.sciencedaily.com/news/matter_energy/organic_chemistry/)
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
 [Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
   
 
