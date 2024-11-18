@@ -736,7 +736,7 @@ SELECT
 
 ### [Coffee Bean Caffeine Brightening Eye Cream](https://www.100percentpure.com/products/coffee-bean-caffeine-brightening-eye-cream)
 
-4620 reviews (4620)
+4624 reviews (4624)
 
 $16.00 $29.00
 
@@ -1298,7 +1298,7 @@ or 4 interest-free payments of **$0.00** with ![Klarna Logo](https://www.100perc
 
  
 
-[FREE SHIPPING FOR ALL US ORDERS!](https://www.100percentpure.com/products/online-giftcards?variant=39924484800590 "https://www.100percentpure.com/collections/shop-all")
+[🎉 Annual Beauty Deal Sale is LIVE! Prices start at just $5 with up to 70% OFF. Shop now before it's gone!](https://www.100percentpure.com/collections/beauty-deals "https://www.100percentpure.com/collections/beauty-deals")
 
 icon-account icon-account icon-arrow-right icon-arrow-down icon-arrow-next icon-arrow-prev icon-slideshow-next icon-slideshow-previous icon-comment icon-heart icon-cart icon-bag icon-close icon-glasses icon-menu icon-minus icon-play icon-plus social-seach social-facebook social-fancy social-instagram social-pinterest social-rss social-twitter
 
