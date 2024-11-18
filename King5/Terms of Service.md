@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
+        #### [Winter Storm Warning expires Monday; mountain snow begins to taper off](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
     *  [![](https://media.king5.com/assets/KING/images/dbdaf407-bfa1-4d43-8148-04f59a2dc84b/20241117T173342/dbdaf407-bfa1-4d43-8148-04f59a2dc84b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbdaf407-bfa1-4d43-8148-04f59a2dc84b/20241117T173342/dbdaf407-bfa1-4d43-8148-04f59a2dc84b_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-investigating-homicide-university-district/281-901f7fb0-b0f6-48e8-8814-07e74aaac58a)
         
         #### [Seattle police investigating deadly shooting in University District](https://www.king5.com/article/news/crime/seattle-police-investigating-homicide-university-district/281-901f7fb0-b0f6-48e8-8814-07e74aaac58a)
-        
-    *  [![](https://media.king5.com/assets/KING/images/bd0fcb77-6053-40d8-830e-d77687b91d1e/20241118T055649/bd0fcb77-6053-40d8-830e-d77687b91d1e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd0fcb77-6053-40d8-830e-d77687b91d1e/20241118T055649/bd0fcb77-6053-40d8-830e-d77687b91d1e_360x203.jpg)](https://www.king5.com/article/news/local/new-snow-brings-hope-snoqualmie-enthusiasts-la-nina/281-30207e2c-a79e-489e-90c6-5901c8824f83)
-        
-        #### [New snow brings new hope to Snoqualmie enthusiasts for a fruitful La Niña](https://www.king5.com/article/news/local/new-snow-brings-hope-snoqualmie-enthusiasts-la-nina/281-30207e2c-a79e-489e-90c6-5901c8824f83)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/e324f40f-37b3-4361-8e0a-5011bca53d6b/20241118T061927/e324f40f-37b3-4361-8e0a-5011bca53d6b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e324f40f-37b3-4361-8e0a-5011bca53d6b/20241118T061927/e324f40f-37b3-4361-8e0a-5011bca53d6b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
     *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
-        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        #### [Winter Storm Warning expires Monday; mountain snow begins to taper off](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        
+    *  [![](https://media.king5.com/assets/KING/images/fd565adc-af9b-40a7-85b3-15952d5093ef/20241118T125200/fd565adc-af9b-40a7-85b3-15952d5093ef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fd565adc-af9b-40a7-85b3-15952d5093ef/20241118T125200/fd565adc-af9b-40a7-85b3-15952d5093ef_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
