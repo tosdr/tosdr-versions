@@ -1,6 +1,6 @@
-###### OUR LATEST 11-11 KVM VPS DEALS - NOW LIVE!
+###### LIMITED TIME BLACK FRIDAY DEALS - TAKE A PEEK!
 
-[REVEAL DEALS >](https://www.racknerd.com/11-11/)
+[REVEAL DEALS >](https://www.racknerd.com/BlackFriday/)
 
 DISCOUNT
 
