@@ -205,30 +205,30 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Fun with Virgin Atlantic Billboards](https://www.somethingawful.com/photoshop-phriday/fun-with-virgin/1/)
-* [Sit-Down Comedians!](https://www.somethingawful.com/comedy-goldmine/sitting-comics/)
-* [Rifts: Core Book](https://www.somethingawful.com/dungeons-and-dragons/wtf-dnd-rifts/1/)
-* [The New Hamburglar is Kinda Creepy!](https://www.somethingawful.com/photoshop-phriday/new-creepy-hamburglar/)
-* [Gems of Parential Wisdom!](https://www.somethingawful.com/comedy-goldmine/gems-parential-wisdom/1/)
+* [Wake Up Your Dog!](https://www.somethingawful.com/comedy-goldmine/wake-up-dogs/1/)
+* [More Unpopular Urban Dictionary Entries](https://www.somethingawful.com/news/urban-dictionary-2/1/)
+* [Retro SWAT 2](https://www.somethingawful.com/fashion-swat/retro-swat-2/1/)
+* [Diary of an AIDS Clown](https://www.somethingawful.com/news/birthday-clown-medicine/)
+* [The Lowest Rung On the Hollywood Ladder, Part 2](https://www.somethingawful.com/comedy-goldmine/lowest-rung-on-2/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-archery.gif) [you afraid of skeleton?](http://forums.somethingawful.com/showthread.php?threadid=4075549 "you afraid of skeleton?")
-* ![](https://fi.somethingawful.com/forums/posticons/balls.gif) [you can post threats with awful app now](http://forums.somethingawful.com/showthread.php?threadid=4075522 "you can post threats with awful app now")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-piss.gif) [Making a thread on the something awful forums from my phone](http://forums.somethingawful.com/showthread.php?threadid=4075514 "Making a thread on the something awful forums from my phone")
-* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [By god I am posting a thread on the awful app](http://forums.somethingawful.com/showthread.php?threadid=4075550 "By god I am posting a thread on the awful app")
-* ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you like clam chowder?](http://forums.somethingawful.com/showthread.php?threadid=4075540 "Do you like clam chowder?")
-* ![](https://fi.somethingawful.com/images/shitpost.gif) [The International United States Appreciation Thread](http://forums.somethingawful.com/showthread.php?threadid=4075517 "The International United States Appreciation Thread")
+* ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh god, Kevin Smith is making another movie](http://forums.somethingawful.com/showthread.php?threadid=4075559 "Oh god, Kevin Smith is making another movie")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/request.png) [We should officially make the Ampersand a part of the alphabet](http://forums.somethingawful.com/showthread.php?threadid=4075543 "We should officially make the Ampersand a part of the alphabet")
+* ![](https://fi.somethingawful.com/images/shitpost.gif) [The International United States Appreciation Thread](http://forums.somethingawful.com/showthread.php?threadid=4075517 "The International United States Appreciation Thread")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-archery.gif) [you afraid of skeleton?](http://forums.somethingawful.com/showthread.php?threadid=4075549 "you afraid of skeleton?")
 * ![](https://fi.somethingawful.com/forums/posticons/fyad-zounds.gif) [Temporary Fun Time!](http://forums.somethingawful.com/showthread.php?threadid=4075536 "Temporary Fun Time!")
+* ![](https://fi.somethingawful.com/forums/posticons/balls.gif) [you can post threats with awful app now](http://forums.somethingawful.com/showthread.php?threadid=4075522 "you can post threats with awful app now")
+* ![](https://fi.somethingawful.com/forums/posticons/tinypastry.gif) [So can I make French toast with egg nog instead of going through the work](http://forums.somethingawful.com/showthread.php?threadid=4075520 "So can I make French toast with egg nog instead of going through the work")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [By god I am posting a thread on the awful app](http://forums.somethingawful.com/showthread.php?threadid=4075550 "By god I am posting a thread on the awful app")
 
 ### Random Articles
 
-* [Photoshop Life](https://www.somethingawful.com/comedy-goldmine/photoshop-life/1/)
-* [Kidz Newz: Mommy Newz](https://www.somethingawful.com/news/kidz-newz-mommy/1/)
-* [Celebrity Apes](https://www.somethingawful.com/awful-links/celebrity-apes/)
-* [EXCLUSIVE SCOOP: WILLOW PALINS OTHER FACEBOOK BLOWOUT](https://www.somethingawful.com/levi-johnston/facebook-willow-palin/)
-* [The Intense and Strange Cover Art of TORG](https://www.somethingawful.com/dungeons-and-dragons/torg-cover-art/1/)
+* [Awesome Free Cursors (Thanks, The Worst Unicorn!)](https://www.somethingawful.com/awful-links/awesome-free-cursors/)
+* [We're Bringing Sexy Back](https://www.somethingawful.com/great-goon-database/great-goon-sexy/1/)
+* [Backyard Love](https://www.somethingawful.com/feature-articles/backyard-love-2/1/)
+* [Another day, another lawsuit... The Dollpalace!](https://www.somethingawful.com/news/another-day-another/)
+* [An Official Statement from the Desk of Senator Blackridge](https://www.somethingawful.com/news/an-official-statement/)
 
 [Random!](https://www.somethingawful.com/random/)
 
