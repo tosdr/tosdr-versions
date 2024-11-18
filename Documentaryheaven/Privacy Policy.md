@@ -118,6 +118,11 @@ Advertisement
     The new world order – Illuminati, Freemasons and other secret societies
     
     Secret societies have been trying to influence politics ever since. With new methods of communication they are now globally connected and more powerful then ever before. The names of those secret soci...](https://documentaryheaven.com/the-new-world-order-illuminati-freemasons-and-other-secret-societies/ "The new world order – Illuminati, Freemasons and other secret societies")
+* [![Why The Industrial Revolution Happened Here](/wp-content/thumbnails/8018-100x70.jpeg?x53432)
+    
+    Why The Industrial Revolution Happened Here
+    
+    Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
 * [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
     The Fog of War
@@ -128,39 +133,34 @@ Advertisement
     The Creative Brain How Insight Works
     
     It is a feeling we all know, the moment when a light goes on in your head. In a sudden flash of inspiration, a new idea is born. Today, scientists are using some unusual techniques to try to work out ...](https://documentaryheaven.com/creative-brain-how-insight-works/ "The Creative Brain How Insight Works")
-* [![The Hasidic Drug Dealer](/wp-content/thumbnails/16688-100x70.jpg?x53432)
-    
-    The Hasidic Drug Dealer
-    
-    Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
 
 ###### Throwback Documentaries
 
-* [![Journey to the Edge of the Universe](/wp-content/thumbnails/3296-100x70.jpg?x53432)
+* [![Oldest Mummies in the World](/wp-content/thumbnails/13830-100x70.png?x53432)
     
-    Journey to the Edge of the Universe
+    Oldest Mummies in the World
     
-    National Geographic presents the first accurate non-stop voyage from Earth to the edge of the Universe using a single, unbroken shot through the use of spectacular CGI (Computer-Generated Imagery) tec](https://documentaryheaven.com/journey-to-the-edge-of-the-universe/ "Journey to the Edge of the Universe")
-* [![Encounters at the End of the World](/wp-content/thumbnails/903-100x70.jpg?x53432)
+    The Atacama Desert in northern Chile is the driest place on Earth. It stretches from the foothills of the Andes, a hundred miles westward to the edge of the Pacific Ocean. There are few signs of life](https://documentaryheaven.com/oldest-mummies-world/ "Oldest Mummies in the World")
+* [![Panorama: The Battle For Bomb Alley](/wp-content/thumbnails/5068-100x70.jpg?x53432)
     
-    Encounters at the End of the World
+    Panorama: The Battle For Bomb Alley
     
-    Werner Herzog is a master filmmaker. Stretching back decades, genres, languages, styles and scope, he continues to be a pioneering creative force. Encounters at the End of the World is the newest remi](https://documentaryheaven.com/encounters-at-the-end-of-the-world/ "Encounters at the End of the World")
-* [![Meeting ISIL](/wp-content/thumbnails/9781-100x70.jpg?x53432)
+    For four years, thousands of British servicemen fought with the Taliban for the district of Sangin – the most violent part of Afghanistan. The fighting cost 106 British lives, including Staff-Sergeant](https://documentaryheaven.com/panorama-the-battle-for-bomb-alley/ "Panorama: The Battle For Bomb Alley")
+* [![The Story of Science: Can We Have Unlimited Power?](/wp-content/thumbnails/3676)
     
-    Meeting ISIL
+    The Story of Science: Can We Have Unlimited Power?
     
-    Press TV goes deep into "liberated territory" were there is no Syria army and no way out. They must accept the presence of armed guards because kidnappings and looting is the law around here, this is](https://documentaryheaven.com/meeting-isil/ "Meeting ISIL")
-* [![The True Story of Black Hawk Down](/wp-content/thumbnails/695-100x70.png?x53432)
+    We are the most power-hungry generation that has ever lived. This film tells the story of how that power has been harnessed – from wind, steam and from inside the atom. In the early years the drive fo](https://documentaryheaven.com/the-story-of-science-can-we-have-unlimited-power/ "The Story of Science: Can We Have Unlimited Power?")
+* [![Amateur Armstrongs](/wp-content/thumbnails/7333-100x70.jpg?x53432)
     
-    The True Story of Black Hawk Down
+    Amateur Armstrongs
     
-    Real footage is shown to prove that the film Black Hawk Down (2001) was very true to the real events that occurred in Mogadishu in 1993. Actual militia and US rangers are interviewed to tell us the di](https://documentaryheaven.com/the-true-story-of-black-hawk-down/ "The True Story of Black Hawk Down")
-* [![The Truth According To Wikipedia](/wp-content/thumbnails/1571-100x70.jpg?x53432)
+    The Lance Armstrong scandal has blown the lid on the world of sports doping. However, a larger problem is at risk of slipping by unnoticed: widespread use of performance enhancing drugs by members of](https://documentaryheaven.com/amateur-armstrongs/ "Amateur Armstrongs")
+* [![Seven Wonders of the Microbe World (combined)](/wp-content/thumbnails/6259-100x70.jpg?x53432)
     
-    The Truth According To Wikipedia
+    Seven Wonders of the Microbe World (combined)
     
-    Google or Wikipedia? Those of us who search online - and who doesn't? - are getting referred more and more to Wikipedia. For the past two years, this free online "encyclopedia of the people" has been](https://documentaryheaven.com/the-truth-according-to-wikipedia/ "The Truth According To Wikipedia")
+    From black death to cholera, microbes have been resonsible for some of the worlds most devastating diseases. But at the same time this tiny single cell organisms have aided our survival on earth helpi](https://documentaryheaven.com/seven-wonders-of-the-microbe-world-combined/ "Seven Wonders of the Microbe World (combined)")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
