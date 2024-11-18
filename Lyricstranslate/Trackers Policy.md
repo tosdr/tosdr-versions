@@ -137,67 +137,67 @@ Russia is waging a disgraceful war on Ukraine.     Stand With Ukraine!
 
 Site activity
 
-[![Voldimeris](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1243895-1697899330.jpg)](https://lyricstranslate.com/en/translator/voldimeris "Voldimeris")
+[![florazina](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1420537-1730447693.jpg)](https://lyricstranslate.com/en/translator/florazina "florazina")
+
+New collection
+
+[Songs under 2 minutes (6)](https://lyricstranslate.com/en/collection/songs-under-2-minutes-6)
+
+[![kuragehime](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1546486-1729630495.jpg)](https://lyricstranslate.com/en/translator/kuragehime "kuragehime")
 
 New song
 
-[Дуняша Style - Эх, чун](https://lyricstranslate.com/en/dunyasha-style-eh-chun-lyrics)
+[TAKAMICHI from BIRTH - 君を想ふ](https://lyricstranslate.com/en/takamichi-birth-kimi-wo-omofu-lyrics)
 
-Chuvash
+Japanese
 
-[![beetleboy](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1595903-1730109763.jpg)](https://lyricstranslate.com/en/translator/beetleboy "beetleboy")
-
-New vote
-
-[Kaum Kummervoll](https://lyricstranslate.com/en/midland-barely-blue-german)
-
-5
-
-[![Pietro Lignola](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1361061-1568016170.jpg)](https://lyricstranslate.com/en/translator/pietro-lignola "Pietro Lignola")
+[![Smokey Meydan](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1238986-1604835153.png)](https://lyricstranslate.com/en/translator/smokey-meydan "Smokey Meydan")
 
 New translation
 
-[Carlos Gardel - Muñeca Brava](https://lyricstranslate.com/en/carlos-gardel-muneca-brava-neapolitan)
+[Sylvie Vartan - Le Locomotion](https://lyricstranslate.com/en/sylvie-vartan-le-locomotion-english)
 
-Spanish → Neapolitan
+French → English
+
+[![JeBo](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1625119-1722251655.jpg)](https://lyricstranslate.com/en/translator/jebo "JeBo")
+
+New explanation of idiom
+
+[van voren af aan beginnen...](https://lyricstranslate.com/en/van-voren-af-aan-beginnen)
+
+French → Dutch
 
 [![Silverblue](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1418394-1706209641.jpg)](https://lyricstranslate.com/en/translator/silverblue "Silverblue")
 
 New song
 
-[Frank Sinatra - Sunny](https://lyricstranslate.com/en/frank-sinatra-sunny-lyrics)
+[Grupo Luz Divina - Guerras y pleitos](https://lyricstranslate.com/en/grupo-luz-divina-guerras-y-pleitos-lyrics)
 
-English
+Spanish
 
-[![蟻食](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1552355-1706257042.jpg)](https://lyricstranslate.com/en/translator/%E8%9F%BB%E9%A3%9F "蟻食")
-
-New annotation
-
-mój  [more](https://lyricstranslate.com/en/node/4867225)
-
-[![Mohamed Zaki](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1550128-1717144476.jpg)](https://lyricstranslate.com/en/translator/mohamed-zaki "Mohamed Zaki")
+[![Bikavis](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1627403-1729094100.jpg)](https://lyricstranslate.com/en/translator/Bikavis "Bikavis")
 
 New translation
 
-[Arabic Children's Songs - آرام سام سام (Aram Sam Sam)](https://lyricstranslate.com/en/arabic-childrens-so-aram-sam-sam-aram-sam-sa-transliteration)
+[Kenshi Yonezu - Azalea](https://lyricstranslate.com/en/kenshi-yonezu-azalea-english)
 
-Arabic (Maghrebi) → Transliteration
+Japanese → English
 
-[![Niepopularny](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637335-1731849982.jpg)](https://lyricstranslate.com/en/translator/niepopularny "Niepopularny")
+[![DBMD99](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1619930-1731949544.png)](https://lyricstranslate.com/en/translator/dbmd99 "DBMD99")
+
+New song
+
+[LADYBABY - ダルマカルマ](https://lyricstranslate.com/en/ladybaby-dharma-karma-lyrics)
+
+Japanese
+
+[![Ahmed Elembaby](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1637428-1731927037.jpg)](https://lyricstranslate.com/en/translator/ahmed-elembaby "Ahmed Elembaby")
 
 New translation
 
-[Gilles Servat - Dir Ha Tan](https://lyricstranslate.com/en/gilles-servat-dir-ha-tan-polish)
+[Mr.Kitty - 0% Angel](https://lyricstranslate.com/en/mrkitty-0-angel-arabic)
 
-Breton → Polish
-
-[![Maxi1310](https://lyricstranslate.com/files/styles/micro/public/pictures/picture-1614539-1712640209.png)](https://lyricstranslate.com/en/translator/maxi1310 "Maxi1310")
-
-New translation
-
-[Arctic Monkeys - Riot Van](https://lyricstranslate.com/en/arctic-monkeys-riot-van-german)
-
-English → German
+English → Arabic
 
 [LyricsTranslate.com](https://lyricstranslate.com/) – the world's largest repository of lyrics translations
 
@@ -211,7 +211,7 @@ English → German
 
 Interface language
 
-DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربية日本語
+DeutschEnglishEspañolFrançaisHungarianItalianoNederlandsPolskiRomânăSvenskaTürkçeΕλληνικάБългарскиРусскийСрпскиУкраїнськаالعربيةفارسی日本語
 
 Theme
 
