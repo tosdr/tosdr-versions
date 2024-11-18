@@ -60,13 +60,15 @@ Nearly invisible, Enhance Select hearing aids are Bluetooth-enabled, and offer 3
 
 ### Convenient follow-up care
 
-With our **Premium Package**, connect with our Audiology Team whenever you need via our easy-to-use app.
+With our **Premium Package**, connect with our Audiology Team whenever you need via our easy-to-use app.\*
 
 ### Incredible value
 
 Everything you need for better hearing — all for as low as $995 per pair. Financing also available.
 
 ![](/_next/static/media/accept.8f2fb6cf.svg)FSA and HSA cards accepted
+
+\*Requires compatible device. Check compatibility
 
 ![](/_next/static/media/100days.4504f5dd.svg)
 
@@ -138,16 +140,18 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
 
 * #### Advanced hearing aids
     
-    High-quality devices with natural sound and Bluetooth streaming. \*Direct stereo streaming is available for Apple devices across all our current Enhance Select models and previous models. Most Androids support direct streaming for our current Enhance Select models, while some Androids require an accessory. Learn moreClose
+    High-quality devices with natural sound and Bluetooth streaming.\*
     
 * #### Easy-to-use mobile app
     
-    Control and customize your hearing aid settings, stream music, and take calls.
+    Control your own hearing aid settings with our mobile app.\*
     
 * #### Dedicated Audiology Team
     
     With our **Premium Package**, get a 3-year comprehensive virtual care plan with our Audiology Team (aka no office visits).
     
+
+\*Requires compatible device. Check compatibility
 
 * Latest
     
@@ -159,7 +163,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     $1,795 - $1,995
     
-    or as low as $58/mo per pair[\*](#financing-disclosure)
+    or as low as $58/mo per pair [\*\*](#financing-disclosure)
     
     [](https://www.listenlively.com/product/enhanceselect500)
 * ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es300-home-bundle.e9cd8a33.png)
@@ -170,7 +174,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     $1,495 - $1,695
     
-    or as low as $49/mo per pair[\*](#financing-disclosure)
+    or as low as $49/mo per pair [\*\*](#financing-disclosure)
     
     [](https://www.listenlively.com/product/enhanceselect300)
 * ![](/cdn-cgi/image/width=640,quality=80,format=auto/_next/static/media/es50r-home-bundle.23118445.png)
@@ -181,7 +185,7 @@ With our **Premium Package**, our Audiology Team works with you remotely to impr
     
     $995 - $1,195
     
-    or as low as $33/mo per pair[\*](#financing-disclosure)
+    or as low as $33/mo per pair [\*\*](#financing-disclosure)
     
     [](https://www.listenlively.com/product/enhanceselect50r)
 
@@ -262,7 +266,7 @@ Reach out to our team for help understanding if Enhance Select is right for you.
 
 [Start your 100-day trial](https://www.listenlively.com/survey)
 
-\*Minimum purchase of $50.00 is required. Availability of terms may vary based on purchase price, product, and state of residence. Down payment may be required. Subject to approval of credit application. Rates range from 0.00% to 34.99% APR, resulting in, for example, 36 monthly payments of $38.19 at 21.99% APR, per $1,000.00 borrowed. APRs will vary depending on credit qualifications, loan amount, and term.  Bread Pay™ loans are made by Comenity Capital Bank, a Bread Financial™ company.
+\*\*Minimum purchase of $50.00 is required. Availability of terms may vary based on purchase price, product, and state of residence. Down payment may be required. Subject to approval of credit application. Rates range from 0.00% to 34.99% APR, resulting in, for example, 36 monthly payments of $38.19 at 21.99% APR, per $1,000.00 borrowed. APRs will vary depending on credit qualifications, loan amount, and term. Bread Pay™ loans are made by Comenity Capital Bank, a Bread Financial™ company.
 
 [Jabra EnhanceTM](https://www.listenlively.com/)
 
