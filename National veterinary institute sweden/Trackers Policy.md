@@ -1280,7 +1280,6 @@ Gå direkt till :
     * [Arbeta hos oss](https://www.sva.se/om-oss/arbeta-hos-oss/)[](#)
         * [Lediga jobb](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/)[](#)
             * [Laboratorieingenjör, BMA eller Mikrobiolog](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-bma-eller-mikrobiolog/)
-            * [Registrator](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/registrator/)
             * [Laboratorieingenjör alternativt BMA sökes till molekylär diagnostik](https://www.sva.se/om-oss/arbeta-hos-oss/lediga-jobb/laboratorieingenjor-alternativt-bma-sokes-till-molekylar-diagnostik/)
         * [SVA som arbetsplats](https://www.sva.se/om-oss/arbeta-hos-oss/sva-som-arbetsplats/)
         * [Möt våra medarbetare](https://www.sva.se/om-oss/arbeta-hos-oss/mot-vara-medarbetare/)[](#)
