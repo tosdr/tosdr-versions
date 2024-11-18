@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes_album_cover.jpg "Neil Innes")](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/) Features
+
+[Comedy Chronicles: Do I have to spell it out? Neil Innes own right](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/)
+
 [![Natalie Palamides](https://cdn.comedy.co.uk/images/library/people/300x200/n/natalie_palamides_weer.jpg "Natalie Palamides")](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-60/) Live
 
 [Natalie Palamides, Tom Lawrinson, Josephine Lacey, Andrew White - Mark Muldoon's Comedy Diary](https://www.comedy.co.uk/live/features/mark-muldoon-comedy-diary-60/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Sorry, I Didn't Know. Chizzy Akudolu](https://cdn.comedy.co.uk/images/library/people/300x200/c/chizzy_akudolu_sidk.jpg "Sorry, I Didn't Know. Chizzy Akudolu")](https://www.comedy.co.uk/tv/sorry_i_didnt_know/interview/chizzy-akudolu/) TV
 
 [Chizzy Akudolu introduces Series 5 of 'Sorry, I Didn't Know'](https://www.comedy.co.uk/tv/sorry_i_didnt_know/interview/chizzy-akudolu/)
-
-[![Milo Edwards. Credit: Joshua Perot](https://cdn.comedy.co.uk/images/library/people/300x200/m/milo_edwards_2024.jpg "Milo Edwards. Credit: Joshua Perot")](https://www.comedy.co.uk/live/fgwg/milo-edwards/) Live
-
-[First Gig, Worst Gig: Milo Edwards](https://www.comedy.co.uk/live/fgwg/milo-edwards/)
 
 #### Subscribe to our newsletters
 
