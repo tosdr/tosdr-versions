@@ -30,11 +30,11 @@ Audio
 
 * * *
 
-* [![A Guide to Colson Whitehead Books](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/10/22134851/PRH_Site_1200x628_ColsonWhite.jpg)
+* [![Browse All Our Lists, Essays, and Interviews](https://assets.penguinrandomhouse.com/wp-content/uploads/2024/02/05171902/content-archive-Homepage_600x314-nav.jpg)
     
-    A Guide to Colson Whitehead Books
+    Browse All Our Lists, Essays, and Interviews
     
-    Read More >](https://www.penguinrandomhouse.com/the-read-down/colson-whitehead-books/)
+    See What We’re Reading >](https://www.penguinrandomhouse.com/content-archive/)
 
 * <
     
