@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/prof-peter-gotschke-spreekt-tweede-kamer-toe/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/het-e-60-miljoen-cadeautje-voor-edith-schippers/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
