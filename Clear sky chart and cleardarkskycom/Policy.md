@@ -7,15 +7,11 @@ Yaaawwn....
 Terms of Use
 ------------
 
-By using pages on this web site you agree to be a fine human being, to respect all sentient life and to not sue me for any reason. So there. I do the best I can for users and sponsors but no contract is formed when you use my website or sponsor.
+By using pages on this web site you agree to be a fine human being, to respect all sentient life and to not sue me or anyone maintaining the site for any reason. So there. I do the best I can for users and sponsors but no contract is formed when you use my website or sponsor ny part of it.
 
 After all, it's just a weather forecast. In particular I make no statements about the safety of any site for which I provide a weather forecast. (Most of them I've never been to.) Not all clear sky chart locations are public or even physical observings sites. Check with the land owner, local astronomy clubs, or even local law enforcement for physical and safety concerns before attempting to visit sites listed cleardarksky.com.
 
 Clear Sky Charts and all the data on clear dark sky are free to use for everyone through web browsers. But authors of mobile device apps must write [me](mail:danko@pobox.com) for permission before using my data.
-
-If you miss an observing event, or the 2024 solar eclipse because of an error on cleardarksky.com in weather forecasting or eclipse times or locations, your redress is limited to my apology. Eclipse watchers should check their eclipse times with the [United States Naval Observatory](https://www.usno.navy.mil/USNO).
-
-Watch the [2024 Solar Eclipse](https://science.nasa.gov/eclipses/future-eclipses/eclipse-2024/) at your own risk. ClearDarkSky.com does not provide complete eclipse saftey information. [Nasa's eye safety](https://www.nasa.gov/content/eye-safety-during-a-total-solar-eclipse) page is a start. You may suffer partial or complete blindness if you watch the eclipse improperly. It may be hours until symptoms appear. Again, by using www.cleardarksky.com website, you agree not to sue me.
 
 I get to change the terms of use, or any policy without telling anyone first.
 
@@ -27,11 +23,11 @@ If you sponsor the clear sky charts, I will hold you in highest esteem and thank
 
 ### Linking and Hotlinking
 
-Websites which do not charge admission may link any page at cleardarksky.com. (Websites which do charge admission can do what they like if they first buy me a 100 acre plot under a mag 7.4 sky.)
+Websites which do not charge admission may link any page at cleardarksky.com. (Websites which do charge admission can do what they like if they first buy me an acceptable 100 acre plot under a mag 7.4 sky.)
 
 Websites which don't charge admission, and also don't make revenue from advertising, may display chart images, or preview images, provided each image links my legend page for that chart. Use the sample html that I have provided at the bottom of each chart's legend page. (Again, tedious rules like these may be discarded in exchange for sufficent largesse.)
 
-Do not copy text, source-html or scripts from any page unless you get written permission from [me](mailto:danko@pobox.com). (Mostly because it just wont work off off my webhost.)
+Do not copy text, source-html or scripts from any page unless you get written permission from [me](mailto:danko@pobox.com). (Mostly because it just will not work off my webhost.)
 
 Copyright
 ---------
@@ -74,26 +70,28 @@ But I've asked google to count page usage with Google Analytics which may set th
 
 You can set your browser to reject google's cookies, if you like. I consider your usage of cleardarksky.com as acceptance of such cookies otherwise.
 
-**Chart Site Locations and "Location Privacy"**
+**Chart Site Locations and "Location Confidentiality"**
 
 Links to satellite predictions,the "Sun & Moon Data" page and some other pages may reveal the site's latitude and longitude. Also The road map link on each clear sky chart page shows the chart site's location.
 
-Chart requesters of observatories who do not want their site made quite so public, for security reasons, may ask me for location privacy. I will then do my best to make sure their latitude and longitude does not appear on cleardarksky.com. I also wont show distances to private charts as any less than 24km (15mi). I will turn off the road map, satellite prediction and other nifty, but potentially location-revealing, links on the chart's legend page. I will also turn off the "on click" navigation features of the light pollution and forecast maps linked to the chart's legend page.
+Chart requesters of observatories who do not want their site made quite so public, for security reasons, may ask me for location confidentiality. I will then do my best to make sure their latitude and longitude does not appear on cleardarksky.com. I also won't show distances to private charts as any less than 24km (15mi). I will turn off the road map, satellite prediction and other nifty, but potentially location-revealing, links on the chart's legend page. I will also turn off the "on click" navigation features of the light pollution and forecast maps linked to the chart's legend page.
+
+A better option might be to pick the middle of a nearby park or lake. If it's within 10km, the forecast will be the same, your location isn't revealed and you don't lose any features.
 
 **Access logs**
 
-My webhosters record users' ip addresses and the urls of the web pages they've looked at. They're called "server logs". These logs are usually deleted after a month. They are not made public and are only readable to me and my webhosters. But only I ever look at them; and then only to identify mis-behaving search engines that are loading down my web hosters. Nobody keeps track of who is looking at what.
+My webhosters record users' ip addresses and the urls of the web pages they've looked at. They're called "server logs". These logs are usually deleted after a month. They are not made public and are only readable to me and my webhosters. But only I or other maintainers ever look at them; and then only to identify mis-behaving search engines that are loading down my web hosters. Nobody keeps track of who is looking at what.
 
 **Confidential Information**
 
-There is no confidential information on cleardarksky.com. There are no userids or passwords. Nothing is for sale and there is no shopping cart. If you see anything that looks confidential, for example the latitude and longitude of a clear sky chart site that should not have been shown, email me and I will remove it.
+There is no confidential information on the cleardarksky.com website. There are no userids or passwords. Nothing is for sale and there is no shopping cart. If you see anything that looks confidential, for example the latitude and longitude of a clear sky chart site that should not have been shown, email me and I will remove it.
 
 Sponsorships and Taxes
 ----------------------
 
 Under Canadian tax rules, I am not a charitable organization and so cannot offer charitable tax receipts.
 
-(begin tax rant) Actually, I pay Canadian income tax on all sponsorships even if sponsors think they are giving me gifts. All payments include HST/GST from sponsorships from Canadians. Sponsorships from people outside of Canada, and are not GST registered, are "zero-rated" for GST. (If you don't know what that means, I envy you.) I consider all sponsorships to be all-taxes included so sponsors need not worry about it. (end tax rant).
+(begin tax rant) Actually, I pay Canadian income tax on all sponsorships even if sponsors think they are giving me gifts. All payments also include HST/GST from sponsorships from Canadians. Sponsorships from people outside of Canada, and are not GST registered, are "zero-rated" for GST. (If you don't know what that means, I envy you.) I consider all sponsorships to be all-taxes included so sponsors need not worry about it. (end tax rant).
 
 Advertising
 -----------
