@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“Dave is the most professional therapist I have ever worked with. He provides well informed advice, and was able to help me through a very difficult relationship crisis other therapists weren't able to help with. What I learned is that specialization is important. Through his Gottman and other methods, he navigated respecting my background from a different culture and was sensitive in his consults which he helped me through a marriage crisis, trauma, depression and kept me focused on healing. I highly recommend his professional help. I wouldn't be where I am today without him.”_
+_“Working with Dave has been just what we needed. He doesn’t sugarcoat things, and that honesty helped us really see our issues and understand each other better. With his guidance, we’ve finally been able to work through some of our long-standing struggles and actually make progress. We couldn’t have done it without his support.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
