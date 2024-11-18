@@ -168,7 +168,7 @@
             * [F5 NGINX Instance Manager](https://www.f5.com/content/f5-com/en_us/products/nginx/instance-manager)
             * [F5 NGINX App Protect](https://www.f5.com/content/f5-com/en_us/products/nginx/nginx-app-protect)
             * [NGINXaaS for Azure](https://www.f5.com/content/f5-com/en_us/products/nginx/f5-nginxaas-for-azure)
-            * [AI Gateway](https://www.f5.com/content/f5-com/en_us/products/f5-ai-gateway)
+            * [AI Gateway](https://www.f5.com/content/f5-com/en_us/products/ai-gateway)
         
     * [F5 BIG-IP](#)
         
