@@ -123,7 +123,7 @@ Phone: [1-814-865-4700](tel:18148654700)
 * [](https://www.instagram.com/pennstate "Follow us on Instagram")
 * [](https://www.facebook.com/pennstate "Follow us on Facebook")
 * [](https://www.linkedin.com/school/penn-state-university "Follow us on LinkedIn")
-* [](https://www.youtube.com/channel/@pennstate "Follow us on Youtube")
+* [](https://www.youtube.com/@pennstate "Follow us on Youtube")
 * [](https://www.tiktok.com/@pennstate "Follow us on TikTok")
 
 * [Hotline](https://universityethics.psu.edu/hotline)
