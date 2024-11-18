@@ -117,59 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Shaun Gartshore
+Henry Venter
 
-![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=173520838)  
-BD Maintenance
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=200958482)  
+VIV'S TRUCKS (Pty) Ltd. (651)
 
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=6896393)  
-MONSTER SECURITY GUARDING
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=123276201)  
+LEO DEVELOPMENT GROUP
 
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=139928852)  
-West Coast Horse Trails
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=73041791)  
+Baby Toddles Infant Care
 
-![valued client Immediate Health (pty)ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7445&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=100698541)  
-Immediate Health (pty)ltd
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=97098386)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=65025879)  
-Imvubu General Trading
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=68145265)  
+FJW Security Cc
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=205663704)  
-Mtunzini Group
+![valued client Cooper Power Cape Town (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2035&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=83837571)  
+Cooper Power Cape Town (Pty) Ltd
 
-![valued client MOSELA GROUP Pty(ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=7624&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=68759081)  
-MOSELA GROUP Pty(ltd)
+![valued client SLOANE STAR MEAT MARKET](https://www.invoicesonline.co.za/scripts/image.php?bid=1748&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=176840762)  
+SLOANE STAR MEAT MARKET
 
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=204598356)  
-Repairs In Motion
+![valued client #DiGi3 Marketing & Design](https://www.invoicesonline.co.za/scripts/image.php?bid=3234&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=176592124)  
+#DiGi3 Marketing & Design
 
-![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=201254628)  
-GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=48302491)  
+OPTIMUS ELECTRICAL PTY (LTD)
 
-![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=123482921)  
+![valued client Karino Merinos ( PTY ) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2349&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=146294761)  
+Karino Merinos ( PTY ) LTD
+
+![valued client Printo](https://www.invoicesonline.co.za/scripts/image.php?bid=7618&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=121613457)  
 Printo
 
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=190300334)  
-Kainos (Pty) Ltd
+![valued client IYD](https://www.invoicesonline.co.za/scripts/image.php?bid=7541&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=131862842)  
+IYD
 
-![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=15557449)  
-United Paintball Federation
+![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=186168555)  
+Fox Alarms & Security CC
 
-![valued client SAUL ATHOL ACRES RENTAL](https://www.invoicesonline.co.za/scripts/image.php?bid=8430&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=179595526)  
-SAUL ATHOL ACRES RENTAL
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=118618454)  
+Digifax (Pty) Ltd trading as Digirent
 
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=142850107)  
-Roekeloos Group
-
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=1ef1a963e033d1763a892fba2ac89cd68cad284b087379b82122f3204615b25b&c=171257970)  
-Goju Ryu Karate Centre
+![valued client Vplay Grafix](https://www.invoicesonline.co.za/scripts/image.php?bid=7578&file=logo_300_100&type=&fe=4918c2c6f30a799645c040c043277541d2f0be4b97bd8d9f3f55cf0526c4a4d5&c=6687474)  
+Vplay Grafix
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
