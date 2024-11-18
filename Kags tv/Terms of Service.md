@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/WFAA/images/d79d4271-be22-43af-8ec6-48467d0c2cfd/20241118T044007/d79d4271-be22-43af-8ec6-48467d0c2cfd_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/d79d4271-be22-43af-8ec6-48467d0c2cfd/20241118T044007/d79d4271-be22-43af-8ec6-48467d0c2cfd_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-a-m-u/texas-am-25th-anniversary-aggie-bonfire-collapse-that-killed-12/287-eb861270-77b5-40bf-96b3-1f247a80b114)
+        
+        #### [25 years later | Texas A&M commemorates anniversary of campus bonfire collapse that killed 12](https://www.kagstv.com/article/news/local/texas-a-m-u/texas-am-25th-anniversary-aggie-bonfire-collapse-that-killed-12/287-eb861270-77b5-40bf-96b3-1f247a80b114)
+        
     *  [![](https://media.kagstv.com/assets/WFAA/images/f2e5c967-628e-4b9d-b3a2-323acc51eb84/20241117T021712/f2e5c967-628e-4b9d-b3a2-323acc51eb84_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/f2e5c967-628e-4b9d-b3a2-323acc51eb84/20241117T021712/f2e5c967-628e-4b9d-b3a2-323acc51eb84_360x203.jpg)](https://www.kagstv.com/article/news/politics/inside-politics/texas-politics/texas-agriculture-commissioner-us-mexico-water-treaty-farmers/287-17531468-2a2a-410c-b12e-980ba0413083)
         
         #### [Texas Agriculture Commissioner says amended US-Mexico water treaty will help bone-dry Texas](https://www.kagstv.com/article/news/politics/inside-politics/texas-politics/texas-agriculture-commissioner-us-mexico-water-treaty-farmers/287-17531468-2a2a-410c-b12e-980ba0413083)
-        
-    *  [![](https://media.kagstv.com/assets/KCEN/images/b3aab810-9afc-4ff5-9be6-08202899dbd5/20241113T161403/b3aab810-9afc-4ff5-9be6-08202899dbd5_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/b3aab810-9afc-4ff5-9be6-08202899dbd5/20241113T161403/b3aab810-9afc-4ff5-9be6-08202899dbd5_360x203.jpg)](https://www.kagstv.com/article/news/crime/missing-person-remains-found-in-buffalo-tx-lead-to-arrest-of-man-in-laredo-tx/500-e79b5471-7150-4a57-ab83-d157c010d7e8)
-        
-        #### [Remains of missing person found in Buffalo lead to arrest of man suspected of murder in Laredo](https://www.kagstv.com/article/news/crime/missing-person-remains-found-in-buffalo-tx-lead-to-arrest-of-man-in-laredo-tx/500-e79b5471-7150-4a57-ab83-d157c010d7e8)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -56,7 +56,7 @@ Navigation
         
     *  [![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_16x9.jpg) ![](https://media.kagstv.com/assets/KAGS/images/d2cb5f50-f3d1-4622-9151-7ee826d66b71/20240503T234534/d2cb5f50-f3d1-4622-9151-7ee826d66b71_360x203.jpg)](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
-        #### [WEATHER IMPACT ALERT | Storms move in Sunday into early Monday morning | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
+        #### [WEATHER IMPACT ALERT | Storms moving through this morning; clearing after noon | Central Texas Forecast](https://www.kagstv.com/article/weather/forecast/temperatures-and-humidity-on-the-rise-this-week-central-texas-forecast/500-96a0bc18-ec9e-4aa3-952a-f1193e49e9ad)
         
     
 * [Sports](https://www.kagstv.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-72°
+74°
 
-![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
