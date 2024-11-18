@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Bail Bond Industry Political Spending, By Type, 2009-2017](/assets/Images/teasers/small/bail-bond.JPG)](https://www.followthemoney.org/research/institute-reports/bail-bond-businesses-buck-for-bookings)
+[![ Amount Given by Supporters and Opponents of 2013 & 2014 Ballot Measures](/assets/Images/teasers/full/2013-14-Amts-to-Passed-Failed-BMs.png)](https://www.followthemoney.org/research/institute-reports/ballot-measures-2013-and-2014/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
