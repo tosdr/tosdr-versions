@@ -44,6 +44,7 @@ Main navigation
         * [Living Legacy](https://www.tbn.org/legacy/livinglegacy "Set up a Living Legacy for TBN by giving estate, annuity and more!")
         * [TBN Ambassadors](https://www.tbn.org/ambassador "Join us in taking the love of Jesus to every nation and people.")
         * [Ways To Give](https://www.tbn.org/give "Ways to Give to TBN")
+        * [Double Your Donation](https://www.tbn.org/double "See if your company will Match your Gift to TBN!")
         * [Request Info](https://www.tbn.org/giving/request-info "Request Info on Legacy Giving to TBN")
         * [All Offers](https://www.tbn.org/offers "Check out the list of TBN Resource Offers!")
         * [Donate Now](https://www.tbn.org/give/donate)
