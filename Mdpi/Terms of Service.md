@@ -162,7 +162,7 @@ Legal Information
     * [Ordering and Purchasing of Services from MDPI](#Ordering_and_Purchasing_of_Services_from_MDPI)
     * [Manuscript and Copyright Issues](#_Manuscript_and_Copyright_Issues_)
     * [Patent Issues](#Patent_Issues)
-    * [Publication of E-Mail Addresses](#Publication_of_EMail_Addresses)
+    * [Publication of e-mail addresses](#Publication_of_email_addresses)
     * [Prices, Terms of Payment](#Prices_Terms_of_Payment)
     * [Contract Document](#Contract_Document_)
     * [Limitation of Liability](#Limitation_of_Liability)
@@ -250,11 +250,11 @@ The requirements for registering with the Website are that the Customer is of fu
 
 3.3
 
-The Customer asks for contracting publication and editorial services with MDPI the moment she/he/they submits an original scientific article (“Article”) for evaluation through peer-review and possible publication by MDPI.
+The Customer asks for contracting publication and editorial services with MDPI the moment she/he/they submit(s) an original scientific article (“Article”) for evaluation through peer-review and possible publication by MDPI.
 
 3.4
 
-The Customer agrees to support open access publishing, which allows unlimited access to his/her published paper. In addition, the Customer agrees to the [**article processing charge**](https://www.mdpi.com/about/apc) ("APC") and is bound to pay the APC after acceptance of the paper for publication.
+The Customer agrees to support open access publishing, which allows unlimited access to his/her published paper. In addition, the Customer agrees to the [**article processing charge**](https://www.mdpi.com/about/apc) (“APC”) and is bound to pay the APC after acceptance of the paper for publication.
 
 3.5
 
@@ -266,7 +266,25 @@ When purchasing services from MDPI, the Customer has the following cancellation 
 
 3.7
 
-When offering services to the Customer, MDPI has the following cancellation right: MDPI may turn down or reject the Article anytime without specifying any reason and thus cancel the conclusion of the contract. After the cancellation through MDPI, both parties are freed from any previous commitments of these Terms and Conditions. The customer shall be fully refunded if any service fees were already paid before the cancellation of the contract, with the exception of English editing charges.
+MDPI has the following cancellation rights: MDPI reserves the right to turn down or reject an Article without specifying any reasons. This applies until the conclusion of the contract.  
+  
+After the contract has been concluded, MDPI has a right of termination for convenience during 30 days after the conclusion of the contract.  
+  
+MDPI can terminate the contract at any time without notice for good cause. Such good cause can be in particular:  
+  
+\- if there is suspicion of plagiarism, according to which the Article has been plagiarized in whole or in part;  
+  
+\- if there is a suspicion that the Customer has misrepresented, falsified or manipulated data or research results;  
+  
+\- if MDPI expects reputational risks as a result of the collaboration/contractual relationship;  
+  
+\- if the Article raises or could raise legal problems, e.g. through defamation;  
+  
+\- if MDPI is of the opinion that the Article contains scientific or technical errors or no longer corresponds to the scientific state of the art (i.e. is out of date);  
+  
+\- if there is a suspicion that the stated authors have not contributed or if essential authors have not been named.
+
+In the event of termination for convenience, MDPI shall reimburse the Customer for all service fees that the Customer may have already paid to MDPI in connection with the conclusion of the contract. This does not apply to services already rendered for English editing.
 
 3.8
 
@@ -275,6 +293,12 @@ In case a Customer pays more than invoiced by MDPI, any bank or transaction char
 3.9
 
 Once an article is published, MDPI will refund authors in exceptional circumstances only and a decision will be made on a case-by-case basis.
+
+3.10
+
+Once an Article is published, it is likely to be archived and referenced in a number of archives and repositories. The Article will in principle remain published permanently and cannot be removed from a Journal and/or the Website, subject to the following provision: MDPI reserves the right to remove at any time and in MDPI's sole discretion any Article(s) or any other content from a Journal and/or the Website, in particular, but not limited to, if in MDPI's sole perspective, an Article or any other content violates (i) applicable law, (ii) these Terms and Conditions or (iii) would give MDPI a right for termination for good cause as described under Clause 3.7.
+
+Such removal does not entitle the Customer to reimbursement of any APCs.
 
 § 4
 
@@ -302,7 +326,7 @@ By submission of your manuscript you have to ensure that all patent applications
 
 § 6
 
-**Publication of E-Mail Addresses**
+**Publication of e-mail addresses**
 
 6.1
 
@@ -350,13 +374,13 @@ IN NO EVENT SHALL MDPI, OR THEIR RESPECTIVE LICENSEES, EMPLOYEES, AGENTS, SUPPLI
   
 In particular, MDPI is not liable if published articles infringe third-party rights (§ 4.1). Nor can any claims be asserted against MDPI if the Customer has not informed its co-authors of the publication of their e-mail addresses and has breached its obligation to obtain consent to such publication (§ 6.1-6.3).  
   
-Nothing in these Terms and Conditions shall limit or exclude, or be interpreted as intending to limit or exclude, liability for gross negligence (as defined under Swiss law) or for deliberate wrongdoing, or for any other matter for which, under any applicable law, liability cannot be limited or excluded.
+Nothing in these Terms and conditions shall limit or exclude, or be interpreted as intending to limit or exclude, liability for gross negligence (as defined under Swiss law) or for deliberate wrongdoing, or for any other matter for which, under any applicable law, liability cannot be limited or excluded.
 
 § 10
 
 **Force Majeure**
 
-In no event MDPI is liable for any failure or delay in the performance of its obligation due to circumstances beyond its control (e.g., war, fire, explosion, pandemic, etc.).
+In no event MDPI is liable for any failure or delay in the performance of its obligation due to circumstances beyond its control (e.g. war, fire, explosion, pandemic etc.).
 
 § 11
 
@@ -387,10 +411,10 @@ MDPI reserves the right to change these Terms and Conditions at any time by post
 Business Terms and Conditions MDPI
 ==================================
 
-[Standard Terms and Conditions of Business of MDPI AG (pdf)](https://res.mdpi.com/data/business-terms-and-conditions-22-november-2023.pdf)  
+[Standard Terms and Conditions of Business of MDPI AG (pdf)](https://res.mdpi.com/data/business-terms-and-conditions-05-november-2024.pdf)  
   
 
-These Terms and Conditions were last updated on 16 July 2024.
+These Terms and Conditions were last updated on 18 November 2024.
 
 ### Further Information
 
