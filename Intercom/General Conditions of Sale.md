@@ -48,9 +48,9 @@ blankblankblankblankblank
     
     Featured
     
-    [![](data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAAAQAwCdASoYAAwAPzmGuVQvKSWjMAgB4CcJYgCdMoAEagAA/sTv6+09naBfkloh2PIYLzB5IZv+QAAA)![The Intercom Customer Service Trends Report 2024](https://images.ctfassets.net/xny2w179f4ki/6YkffnaBVtfA4kWlwZaVjP/a509120ca840f7664bc761f741f4691e/CSTrends-2024.webp?&q=90)
+    [![](data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAABwAQCdASoQAAgACoB8JagCdAFAAAD+7jtG156OVi+6qCQAAAA=)![The New Economics of Customer Service guide](https://images.ctfassets.net/xny2w179f4ki/2eRVgWj4kZRJYxprDhb3ue/56e062bc3476b93d4a48757972ada235/Web_Resources_Navigation_Image.png?&q=90)
     
-    The Intercom Customer Service Trends Report 2024Gripping insights from top companies…](https://www.intercom.com/campaign/customer-service-trends-2024)[![](data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAwCdASoYAAwAPzmEuVOvKKWisAgB4CcJaQDE2BQbvBVO2sPgAP7TiBTJH6JtQztWD8OSVsaY4AAA)![How AI is transforming customer service tech stacks](https://images.ctfassets.net/xny2w179f4ki/2bnAm34T5p0GoHlWEDwzLK/5fdac80d66ea81978772d37aaa2a74ea/Ticket-hero.webp?&q=90)
+    The New Economics of Customer Service guideLearn how AI breaks the linear CS growth model...](https://www.intercom.com/campaign/new-economics-of-customer-service)[![](data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAwCdASoYAAwAPzmEuVOvKKWisAgB4CcJaQDE2BQbvBVO2sPgAP7TiBTJH6JtQztWD8OSVsaY4AAA)![How AI is transforming customer service tech stacks](https://images.ctfassets.net/xny2w179f4ki/2bnAm34T5p0GoHlWEDwzLK/5fdac80d66ea81978772d37aaa2a74ea/Ticket-hero.webp?&q=90)
     
     How AI is transforming customer service tech stacksTake your tech stack into a new age…](https://www.intercom.com/blog/videos/customer-service-tech-stack-platform-ai/)
     
