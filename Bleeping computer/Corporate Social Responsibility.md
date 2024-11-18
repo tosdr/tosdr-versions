@@ -306,15 +306,15 @@ If you have any questions or concerns regarding these policies, please free to 
 
 Popular Stories
 
-* [![Data theft data breach hacker cyberattack](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+* [![Malware Phishing](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
-    New Glove infostealer malware bypasses Chrome’s cookie encryption](https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/)
-* [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-    
-    CISA warns of more Palo Alto Networks bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
+    Phishing emails increasingly use SVG attachments to evade detection](https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
 * [![Palo Alto Networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
     
     Palo Alto Networks warns of critical RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/)
+* [![AI Hacker Robot Artificial Intelligence](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    
+    Fake AI video generators infect Windows, macOS with infostealers](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
 
 ##### Follow us:
 
