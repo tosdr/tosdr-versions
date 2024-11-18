@@ -1,126 +1,27 @@
-[](https://knowyourmeme.com/ "Know Your Meme")
+DMCA | Know Your Meme                                                           
 
-[Advanced Search Protips](https://knowyourmeme.com/editorials/kym-database-search-operators)
+|     |     |
+| --- | --- |
+| [![Know Your Meme](/assets/kym-logo.png)](https://knowyourmeme.com/) | [Meme Encyclopedia](https://knowyourmeme.com/memes)<br><br>* [All](https://knowyourmeme.com/memes)<br>* [Cultures](https://knowyourmeme.com/categories/culture)<br>* [Events](https://knowyourmeme.com/categories/event)<br>* [People](https://knowyourmeme.com/categories/person)<br>* [Sites](https://knowyourmeme.com/categories/site)<br>* [Subcultures](https://knowyourmeme.com/categories/subculture)<br>* [Videos](https://knowyourmeme.com/videos)<br>* [Submit →](https://knowyourmeme.com/memes/new?guidelines=1)<br><br>[Images](https://knowyourmeme.com/photos)<br><br>* [Trending](https://knowyourmeme.com/photos/trending)<br>* [Most Commented](https://knowyourmeme.com/photos/sort/comments)<br>* [Most Favorited](https://knowyourmeme.com/photos/sort/favorites)<br>* [High Score](https://knowyourmeme.com/photos/sort/score)<br>* [Low Score](https://knowyourmeme.com/photos/sort/low-score)<br>* [Most Viewed](https://knowyourmeme.com/photos/sort/views)<br>* [All](https://knowyourmeme.com/photos)<br>* * * *<br>    <br>* [Templates](https://knowyourmeme.com/photos/templates)<br>* * * *<br>    <br>* [Upload an Image](https://knowyourmeme.com/photos/new)<br><br>Articles<br><br>* [News](https://knowyourmeme.com/news)<br>* [Explainers](https://knowyourmeme.com/newsfeed/explainers)<br>* [Collections](https://knowyourmeme.com/editorials/collections)<br>* [Interviews](https://knowyourmeme.com/editorials/interviews)<br>* [Meme Insider Magazine](https://memeinsider.com/)<br><br>More<br><br>* [Discord](https://discord.com/invite/hxZaGpg)<br>* [Newsletter](https://knowyourmeme.com/newsletter)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Meme Store](https://thememestore.com/)<br>* [Login](https://knowyourmeme.com/login)<br><br>[Abstract user icon](https://knowyourmeme.com/login) |
+|     |     |
 
-* [About](https://knowyourmeme.com/about)
-* [**Rules**](https://knowyourmeme.com/editorials/rules-and-guidelines/)
-* [Chat](https://knowyourmeme.com/chat)
-* [Random](https://knowyourmeme.com/random)
-* [Activity](https://knowyourmeme.com/activity)
-
-Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmeme.com/signup) now!
-
-* [Home](https://knowyourmeme.com/)
 * [Memes](https://knowyourmeme.com/memes)
-    * [Confirmed](https://knowyourmeme.com/memes)
-    * [Submissions](https://knowyourmeme.com/memes/submissions)
-    * [Researching](https://knowyourmeme.com/memes/researching)
-    * [Newsworthy](https://knowyourmeme.com/memes/newsworthy)
-    * [Popular](https://knowyourmeme.com/memes/popular)
-    * [Deadpool](https://knowyourmeme.com/memes/deadpool)
-    * [All](https://knowyourmeme.com/memes/all)
-    * * * *
-        
-    * [Submit an Entry](https://knowyourmeme.com/memes/new?guidelines=1)
-* [Meme Store](https://thememestore.com/)
+* [Categories](https://knowyourmeme.com/categories)
 * [Trending](https://trending.knowyourmeme.com/trending)
 * [News](https://knowyourmeme.com/news)
 * [Images](https://knowyourmeme.com/photos)
-    * [Trending](https://knowyourmeme.com/photos/trending)
-    * [Most Commented](https://knowyourmeme.com/photos/most-commented)
-    * [Most Favorited](https://knowyourmeme.com/photos/most-favorited)
-    * [Most Liked](https://knowyourmeme.com/photos/most-liked)
-    * [Least Liked](https://knowyourmeme.com/photos/least-liked)
-    * [Most Viewed](https://knowyourmeme.com/photos/most-viewed)
-    * [All](https://knowyourmeme.com/photos)
-    * * * *
-        
-    * [Templates](https://knowyourmeme.com/photos/templates)
-    * * * *
-        
-    * [Upload an Image](https://knowyourmeme.com/photos/new)
+* [Trending Images](https://knowyourmeme.com/photos/trending)
 * [Videos](https://knowyourmeme.com/videos)
-    * [Trending](https://knowyourmeme.com/videos/trending)
-    * [Most Commented](https://knowyourmeme.com/videos/most-commented)
-    * [Most Favorited](https://knowyourmeme.com/videos/most-favorited)
-    * [Most Liked](https://knowyourmeme.com/videos/most-liked)
-    * [Most Viewed](https://knowyourmeme.com/videos/most-viewed)
-    * [All](https://knowyourmeme.com/videos)
-    * * * *
-        
-    * [Upload a Video](https://knowyourmeme.com/videos/new)
-* [Forums](https://knowyourmeme.com/forums)
-    * [Discussion](https://knowyourmeme.com/forums/section/discussion)
-    *    [General](https://knowyourmeme.com/forums/general)
-    *    [Meme Research](https://knowyourmeme.com/forums/meme-research)
-    *    [Serious Debate](https://knowyourmeme.com/forums/serious-debate)
-    *    [Q & A](https://knowyourmeme.com/forums/q-a)
-    * * * *
-        
-    * [Media](https://knowyourmeme.com/forums/section/media)
-    *    [Video Games](https://knowyourmeme.com/forums/video-games)
-    *    [Moving Images](https://knowyourmeme.com/forums/moving-images)
-    *    [Books & Comics](https://knowyourmeme.com/forums/books-comics)
-    *    [Music](https://knowyourmeme.com/forums/music)
-    *    [Websites](https://knowyourmeme.com/forums/websites)
-    * * * *
-        
-    * [Fun!](https://knowyourmeme.com/forums/section/fun)
-    *    [Creative](https://knowyourmeme.com/forums/creative)
-    *    [Forum Games](https://knowyourmeme.com/forums/forum-games)
-    *    [Just For Fun](https://knowyourmeme.com/forums/just-for-fun)
-    *    [Riff-Raff](https://knowyourmeme.com/forums/riff-raff)
-    *    [Memeory Lane](https://knowyourmeme.com/forums/memeory-lane)
-    * * * *
-        
-    * [Maintenance](https://knowyourmeme.com/forums/section/maintenance)
-    *    [Report Problems](https://knowyourmeme.com/forums/report-problems)
-    *    [Announcements](https://knowyourmeme.com/forums/announcements)
-    *    [Suggest Ideas](https://knowyourmeme.com/forums/suggest-ideas)
-    * * * *
-        
-    * [All](https://knowyourmeme.com/forums/all)
+* [Trending Videos](https://knowyourmeme.com/videos/trending)
 * [Editorials](https://knowyourmeme.com/editorials)
-    * [Interviews](https://knowyourmeme.com/editorials/interviews)
-    * [In the Media](https://knowyourmeme.com/editorials/in-the-media)
-    * [White Papers](https://knowyourmeme.com/editorials/white-papers)
-    * [Episode Notes](https://knowyourmeme.com/editorials/episode-notes)
-    * [Behind the Scenes](https://knowyourmeme.com/editorials/behind-the-scenes)
-    * [Meme Review](https://knowyourmeme.com/editorials/meme-review)
-    * [Collections](https://knowyourmeme.com/editorials/collections)
-    * [Poll](https://knowyourmeme.com/editorials/poll)
-    * [Guides](https://knowyourmeme.com/editorials/guides)
-    * [Meme Insider](https://knowyourmeme.com/editorials/meme-insider)
-    * [Insights](https://knowyourmeme.com/editorials/insights)
-    * [All](https://knowyourmeme.com/editorials)
-* [Episodes](https://knowyourmeme.com/episodes)
-* [Meme Insider](https://memeinsider.com/)
+* [Meme Insider Magazine](https://memeinsider.com/)
 * [Newsletter](https://knowyourmeme.com/newsletter)
+* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
+* [Meme Store](https://thememestore.com/)
+* [Old site](https://knowyourmeme.com/old_site)
+* [Login](https://knowyourmeme.com/login)
 
-* [![Relaxed Liberals Strike Back At Edgelords With The Opposite Version Of The Ironic 'Relax, Liberal' Meme](https://i.kym-cdn.com/featured_items/icons/wide/000/026/689/cover13.jpg "Relaxed Liberals Strike Back At Edgelords With The Opposite Version Of The Ironic 'Relax, Liberal' Meme")
-    
-    Relaxed Liberals Strike Back At Edgelords With The Opposite Version Of The Ironic 'Relax, Liberal' Meme](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor)
-    
-* [![No, This is Patrick](https://i.kym-cdn.com/featured_items/icons/wide/000/026/688/tumblr_kumgingKDj1qzhteao1_500.jpg "24 Years Ago, 'No This Is Patrick' Blessed Our TV Screens For The First Time")
-    
-    24 Years Ago, 'No This Is Patrick' Blessed Our TV Screens For The First Time](https://knowyourmeme.com/memes/no-this-is-patrick)
-    
-* [![You're a wizard Harry. ](https://i.kym-cdn.com/featured_items/icons/wide/000/026/687/You're_a_wizard_Harry!_0-23_screenshot.png "The 'You're a Wizard, Harry' Meme Is 23 Years Old Today")
-    
-    The 'You're a Wizard, Harry' Meme Is 23 Years Old Today](https://knowyourmeme.com/memes/youre-a-wizard-harry)
-    
-* [!["👉😎👉 Zoop!" Comments Take Over Reddit](https://i.kym-cdn.com/featured_items/icons/wide/000/026/686/zooop.jpg "Happy Anniversary To 'Zoop'")
-    
-    Happy Anniversary To 'Zoop'](https://knowyourmeme.com/memes/%F0%9F%91%89%F0%9F%98%8E%F0%9F%91%89-zoop)
-    
-* [!['Khia Asylum' Is The Newest 'Stan Twitter' Slang Going Viral Mocking 'Flopped' Singers](https://i.kym-cdn.com/featured_items/icons/wide/000/026/685/khia_asylum_cover.jpg "'Khia Asylum' Is The Newest 'Stan Twitter' Slang Going Viral Mocking 'Flopped' Singers")
-    
-    'Khia Asylum' Is The Newest 'Stan Twitter' Slang Going Viral Mocking 'Flopped' Singers](https://knowyourmeme.com/memes/khia-asylum)
-    
-
-##### Also Trending:
-
-[Calm Down Edgelord, It's Called Wholesome Humor](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor "Calm Down Edgelord, It's Called Wholesome Humor") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T")
+Know Your Meme is the property of Literally Media ©2024 Literally Media. All Rights Reserved.
 
 Copyright Infringement Notice
 =============================
@@ -179,15 +80,27 @@ Please note that under Section 512(f) of the Copyright Act, any person who knowi
 
 Please be advised that we may terminate the accounts of repeat copyright infringers.
 
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| ##### About KYM<br><br>* [Our Story](https://knowyourmeme.com/about)<br>* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)<br>* [Policies and Guidelines](https://knowyourmeme.com/guidelines)<br>* [Credits](https://knowyourmeme.com/credits)<br>* [Contact](https://knowyourmeme.com/contact) | ##### Meme DB<br><br>* [Memes](https://knowyourmeme.com/memes)<br>* [Episodes](https://knowyourmeme.com/episodes)<br>* [Editorials](https://knowyourmeme.com/editorials)<br>* [Images](https://knowyourmeme.com/photos)<br>* [Videos](https://knowyourmeme.com/videos) | ##### KYM News<br><br>* [Newsfeed](https://knowyourmeme.com/news)<br>* [Staff](https://knowyourmeme.com/news/staff)<br>* [Contact](https://knowyourmeme.com/news/contact) | ##### Extras!<br><br>* [Chat](https://knowyourmeme.com/chat)<br>* [Forums](https://knowyourmeme.com/forums)<br>* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)<br>* [RSS Feeds](https://knowyourmeme.com/subscribe) | ##### KYM Social<br><br>* [Facebook](https://www.facebook.com/knowyourmeme)<br>* [Pinterest](https://www.pinterest.com/knowyourmeme/)<br>* [Twitter](https://twitter.com/knowyourmeme)<br>* [YouTube](https://www.youtube.com/user/KnowYourMeme) |
+##### About
 
-**Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
-© 2007-2024 [Literally Media Ltd.](https://literally.media/)
+* [Our Story](https://knowyourmeme.com/about)
+* [Site Rules](https://knowyourmeme.com/editorials/rules-and-guidelines/)
+* [Policies and Guidelines](https://knowyourmeme.com/guidelines)
+* [Credits](https://knowyourmeme.com/credits)
+* [Contact](https://knowyourmeme.com/contact)
 
-### Hey! You must login or signup first!
+##### Meme DB
 
-|     |     |
-| --- | --- |
-| ###### Already a memeber?<br><br>[Login Now!](https://knowyourmeme.com/login) | ###### Don't have an account?<br><br>[Sign up Now!](https://knowyourmeme.com/signup) |
+* [Memes](https://knowyourmeme.com/memes)
+* [Episodes](https://knowyourmeme.com/episodes)
+
+##### News
+
+* [Staff](https://knowyourmeme.com/news/staff)
+* [Contact](https://knowyourmeme.com/news/contact)
+
+##### Extras!
+
+* [Style Guide](https://knowyourmeme.com/editorials/the-style-guide)
+* [RSS Feeds](https://knowyourmeme.com/subscribe)
+
+ [![TikTok](/assets/redesign/tiktok.png)](https://tiktok.com/@knowyourmeme)[![YouTube](/assets/redesign/youtube.png)](https://www.youtube.com/channel/UCbrPqq29C9Q_TQP7OFFRzcw)[![Facebook](/assets/redesign/facebook.png)](https://facebook.com/knowyourmeme)[![Twitter](/assets/redesign/twitterx.png)](https://twitter.com/knowyourmeme)[![Discord](/assets/redesign/discord.png)](https://discord.com/invite/hxZaGpg)[![Snapchat](/assets/redesign/snapchat.png)](https://www.snapchat.com/p/41102048-8d2d-4288-b54e-c9e89b1afa44/1534121873233920)[![Instagram](/assets/redesign/instagram.png)](https://instagram.com/knowyourmeme)
