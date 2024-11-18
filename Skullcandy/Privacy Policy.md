@@ -15,7 +15,7 @@ View our privacy policy here:  [https://www.skullcandy.com/policies/privacy-pol
 | --- | --- |
 | Was this article helpful? |     |
 | [](https://info.skullcandy.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.skullcandy.com%2Fhc%2Fen-us%2Farticles%2F360010896613-Privacy-Policy "Yes")<br><br>✔   Yes | [](https://info.skullcandy.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.skullcandy.com%2Fhc%2Fen-us%2Farticles%2F360010896613-Privacy-Policy "No")<br><br>✖   No |
-| 0 out of 3 found this helpful |     |
+| 0 out of 4 found this helpful |     |
 
 ### © 2024, Skullcandy
 
