@@ -5,7 +5,7 @@ Terms of use
 
 [MyAbandonware](https://www.myabandonware.com/)
 
-More than 32300 old games to download for free!
+More than 32400 old games to download for free!
 
  
 
@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
-* [Action Mogura](https://www.myabandonware.com/game/action-mogura-t4i)
-* [Mogura 2](https://www.myabandonware.com/game/mogura-2-szv)
-* [Karateka Mania](https://www.myabandonware.com/game/karateka-mania-szw)
-* [Virtual City HD](https://www.myabandonware.com/game/virtual-city-hd-t4e)
-* [Virtual City](https://www.myabandonware.com/game/virtual-city-t4d)
+* [xyWords](https://www.myabandonware.com/game/xywords-tsp)
+* [Voodoo Lunch](https://www.myabandonware.com/game/voodoo-lunch-tso)
+* [Virtua School](https://www.myabandonware.com/game/virtua-school-tsn)
+* [Viking Siege](https://www.myabandonware.com/game/viking-siege-tsm)
+* [Tristam Island](https://www.myabandonware.com/game/tristam-island-tsl)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Classix 1](https://www.myabandonware.com/game/classix-1-kma)
-* [Sega Saturn de Hakken!!: Tamagotchi Park](https://www.myabandonware.com/game/sega-saturn-de-hakken-tamagotchi-park-p4s)
-* [Speed Freak](https://www.myabandonware.com/game/speed-freak-sd4)
+* [Chess Advantage](https://www.myabandonware.com/game/chess-advantage-mmh)
+* [Aber Hallo!](https://www.myabandonware.com/game/aber-hallo-rbk)
+* [Pinbo](https://www.myabandonware.com/game/pinbo-rrw)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
