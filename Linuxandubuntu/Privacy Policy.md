@@ -1,9 +1,9 @@
 [Skip to content](#main-content)
 
-[![LinuxAndUbuntu](http://linuxandubuntu.com/content/images/2024/05/lau-small.webp)](http://linuxandubuntu.com/)
+[![LinuxAndUbuntu](https://www.linuxandubuntu.com/content/images/2024/05/lau-small.webp)](https://www.linuxandubuntu.com/)
 
-* [Home](http://linuxandubuntu.com/)
-* [Contact Us](http://linuxandubuntu.com/contact-us/)
+* [Home](https://www.linuxandubuntu.com/)
+* [Contact Us](https://www.linuxandubuntu.com/contact-us/)
 
 * Search
 * [Log in](#/portal/signin)
@@ -209,8 +209,8 @@ Featured Posts
 
 18 Jul 2024](https://www.linuxandubuntu.com/home/chatgpt-alternatives-free-open-source-ai-models/)
 
-[Authors →](http://linuxandubuntu.com/authors/)
------------------------------------------------
+[Authors →](https://www.linuxandubuntu.com/authors/)
+----------------------------------------------------
 
 [### sohail](https://www.linuxandubuntu.com/author/sohail/)
 
