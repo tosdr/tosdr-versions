@@ -307,11 +307,17 @@ article 5 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-internatio
 
 ### Highlights
 
-[![F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+[![Gediz Vallis channel](https://www.nasa.gov/wp-content/uploads/2024/11/e1-pia26471-curiosity-3000pixels.jpg?w=1024)
+
+5 min read
+
+### NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
+
+article 1 hour ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
 
 2 min read
 
-### F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
+### Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
 article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
 
@@ -319,13 +325,7 @@ article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-202
 
 ### Moonquakes
 
-article 5 days ago](https://science.nasa.gov/moon/moonquakes/)[![Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2013/05/sci0040b-1.jpg)
-
-1 min read
-
-### Amendment 51: F.13 Lunar Terrain Vehicle Instruments Program Correction.
-
-article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-51-f-13-lunar-terrain-vehicle-instruments-program-correction/)
+article 5 days ago](https://science.nasa.gov/moon/moonquakes/)
 
 ### Featured
 
@@ -351,29 +351,35 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Highlights
 
-[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+[![Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/1714/188_Saturn_E2_80_99s_North_Polar_Hurricane.jpeg)
+
+1 min read
+
+### Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.
+
+article 17 mins ago](https://science.nasa.gov/researchers/solicitations/roses-2024/table-1-of-roses-24-and-the-roses-2024-summary-of-solicitation-updated-to-include-link-to-grants-policy-guidance-on-proposal-requirements/)[![Orbital Science on Hosted Platforms (ancillary meeting at AGU)](https://assets.science.nasa.gov/dynamicimage/assets/science/cds/science-enabling-technology/events/Fanciful-Host.png)
+
+1 min read
+
+### Orbital Science on Hosted Platforms (ancillary meeting at AGU)
+
+article 29 mins ago](https://science.nasa.gov/technology/orbital-science-on-hosted-platforms-ancillary-meeting-at-agu/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Title slide for OSDR Chats with Rob Reynolds interview](https://www.nasa.gov/wp-content/uploads/2024/11/osdr-chats-title-slide-dr-robert-reynolds.jpg?w=1024)
-
-2 min read
-
-### OSDR Chats with Dr Robert Reynolds
-
-article 3 days ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
-
-2 min read
-
-### Hubble Takes a Look at Tangled Galaxies
-
-article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look-at-tangled-galaxies/)
+article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
 
 ### Highlights
 
-[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+
+2 min read
+
+### NASA Electric Aircraft Testbed (NEAT)
+
+article 4 hours ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
 
 1 min read
 
@@ -385,17 +391,17 @@ article 3 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](htt
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
-
-1 min read
-
-### SPEED Publications
-
-article 3 days ago](https://www.nasa.gov/speed-publications/)
+article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
 
 ### Highlights
 
-[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
+[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
+
+4 min read
+
+### NASA Program Aids Pediatric Patients Facing Medical Treatments
+
+article 3 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-program-aids-pediatric-patients-facing-medical-treatments/)[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
 
 2 min read
 
@@ -407,13 +413,7 @@ article 3 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-li
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Psyche spacecraft is depicted receiving a laser signal from the Deep Space Optical Communications](https://www.nasa.gov/wp-content/uploads/2024/11/1-dsoc-uplink.webp?w=1024)
-
-4 min read
-
-### Precision Pointing Goes the Distance on NASA Experiment
-
-article 4 days ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)
+article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
 
 ### Featured
 
