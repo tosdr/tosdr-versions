@@ -382,7 +382,7 @@ weiter
 
 Suchen
 
-![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v122221851.svg)
+![test.de print logo](https://cdn.test.de/static/images/modules/header/test-de-print-logo;v122486550.svg)
 
 1. [Startweiter](https://www.test.de/)
 2. Daten­schutz­erklärung
@@ -815,12 +815,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
 
 Fußbereich
 
@@ -3849,12 +3849,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
 
 Weitere spannende Themen
 
@@ -3869,12 +3869,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
 
 Neueste Tests
 
@@ -3887,12 +3887,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Verpackungs­ärger: Ovomaltine Extra Schoko](https://www.test.de/Verpackungsaerger-Ovomaltine-Extra-Schoko-6013649-0/ "Verpackungsärger - Ovomaltine Extra Schoko")
-* [Auto­kinder­sitz Peg Perego Viaggio Twist + Base Twist: Dieser Sitz ist lebens­gefähr­lich](https://www.test.de/Autokindersitz-Peg-Perego-Viaggio-Twist-Base-Twist-Dieser-Sitz-ist-lebensgefaehrlich-6109336-0/ "Autokindersitz Peg Perego Viaggio Twist + Base Twist - Dieser Sitz ist lebensgefährlich")
-* [Verpackungs­ärger: Invisible Serum super UV, Garnier Ambre Solaire](https://www.test.de/Verpackungsaerger-Invisible-Serum-super-UV-Garnier-Ambre-Solaire-6038426-0/ "Verpackungsärger - Invisible Serum super UV, Garnier Ambre Solaire")
-* [Verpackungs­ärger: Kurkuma von Sonnentor](https://www.test.de/Verpackungsaerger-Kurkuma-von-Sonnentor-6055814-0/ "Verpackungsärger - Kurkuma von Sonnentor")
-* [Cartoons von Tom](https://www.test.de/Cartoon-von-Tom-6088149-0/ "Cartoons von Tom")
-* [Gendergerechtig­keit in der Geld­anlage: Frauen im Fokus von Fonds](https://www.test.de/Gendergerechtigkeit-in-der-Geldanlage-Frauen-im-Fokus-von-Fonds-6103505-0/ "Gendergerechtigkeit in der Geldanlage - Frauen im Fokus von Fonds")
+* [Alters­vorsorge: Finanz­aufsicht kritisiert Lebens­versicherer](https://www.test.de/Altersvorsorge-Finanzaufsicht-kritisiert-Lebensversicherer-6148845-0/ "Altersvorsorge - Finanzaufsicht kritisiert Lebensversicherer")
+* [test warnt: Kostenfalle bei Hotel­buchungen](https://www.test.de/test-warnt-Kostenfalle-bei-Hotelbuchungen-5992234-0/ "test warnt - Kostenfalle bei Hotelbuchungen")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Metas Abo-Modelle im Test: Bezahlen für Instagram und Facebook – lohnt sich das?](https://www.test.de/Metas-Abo-Modelle-im-Test-Bezahlen-fuer-Instagram-und-Facebook-Lohnt-sich-das-6066926-0/ "Metas Abo-Modelle im Test - Bezahlen für Instagram und Facebook – lohnt sich das?")
+* [Ohrs­töpsel im Test: Ruhe, bitte! Das sind die besten Ohr­stöpsel](https://www.test.de/Ohrstoepsel-im-Test-1348911-0/ "Ohrstöpsel im Test - Ruhe, bitte! Das sind die besten Ohrstöpsel")
+* [Krypto-Steuern: Diese Regeln gelten für Bitcoin und Co](https://www.test.de/Kryptowaehrungen-Steuern-5951822-0/ "Krypto-Steuern - Diese Regeln gelten für Bitcoin und Co")
 
 Service Stiftung Warentest
 
