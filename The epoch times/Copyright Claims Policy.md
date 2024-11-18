@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [House Speaker Leaves Door Open to Recess Appointments for Trump’s Cabinet Picks](https://www.theepochtimes.com/us/house-speaker-leaves-door-open-to-recess-appointments-for-trumps-cabinet-picks-5761605)
+    
+    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![House Speaker Leaves Door Open to Recess Appointments for Trump’s Cabinet Picks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![House Speaker Leaves Door Open to Recess Appointments for Trump’s Cabinet Picks](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759805-11122024-DSC08942-speaker-mike-johnson-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-speaker-leaves-door-open-to-recess-appointments-for-trumps-cabinet-picks-5761605)
+* [Pakistan’s Top Islamic Cleric Declares VPNs ‘Haram’](https://www.theepochtimes.com/world/pakistans-top-islamic-cleric-declares-vpns-haram-5761510)
+    
+    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    
+    [![Pakistan’s Top Islamic Cleric Declares VPNs ‘Haram’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Pakistan’s Top Islamic Cleric Declares VPNs ‘Haram’](https://img.theepochtimes.com/assets/uploads/2024/08/30/id5715694-Pakistan-internet-205x123.jpg.webp)](https://www.theepochtimes.com/world/pakistans-top-islamic-cleric-declares-vpns-haram-5761510)
+* [Trump Confirms He’s Prepared to Declare National Emergency to Initiate Mass Deportations](https://www.theepochtimes.com/us/trump-confirms-he-will-declare-national-emergency-to-initiate-mass-deportations-5761571)
+    
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Trump Confirms He’s Prepared to Declare National Emergency to Initiate Mass Deportations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Confirms He’s Prepared to Declare National Emergency to Initiate Mass Deportations](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755032-Donald-Trump-1_JF_09132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-confirms-he-will-declare-national-emergency-to-initiate-mass-deportations-5761571)
+* [Senate Leader-Elect Urges ICC to Drop Israel Arrest Warrants or Face Sanctions](https://www.theepochtimes.com/us/senate-leader-elect-urges-icc-to-drop-israel-arrest-warrants-or-face-sanctions-5761478)
+    
+    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    
+    [![Senate Leader-Elect Urges ICC to Drop Israel Arrest Warrants or Face Sanctions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Senate Leader-Elect Urges ICC to Drop Israel Arrest Warrants or Face Sanctions](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761576-11132024-DSC09479-John-Thune-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-leader-elect-urges-icc-to-drop-israel-arrest-warrants-or-face-sanctions-5761478)
 * [Shen Yun Responds to New York Times Article ‘Riddled With Inaccuracies’](https://www.theepochtimes.com/us/shen-yun-responds-to-new-york-times-article-riddled-with-inaccuracies-5761468)
     
-    3hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    10hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
     
     [![Shen Yun Responds to New York Times Article ‘Riddled With Inaccuracies’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Shen Yun Responds to New York Times Article ‘Riddled With Inaccuracies’](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760655-shenyun1-205x123.jpg.webp)](https://www.theepochtimes.com/us/shen-yun-responds-to-new-york-times-article-riddled-with-inaccuracies-5761468)
 * [Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://www.theepochtimes.com/world/biden-allows-ukraine-to-strike-long-range-us-missiles-inside-russia-5761464)
     
-    4hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    10hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
     [![Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://img.theepochtimes.com/assets/uploads/2017/08/20/GettyImages-824113280-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-allows-ukraine-to-strike-long-range-us-missiles-inside-russia-5761464)
+    ![Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761575-GettyImages-824113280-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-allows-ukraine-to-strike-long-range-us-missiles-inside-russia-5761464)
 * [Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://www.theepochtimes.com/us/trump-appoints-fcc-commissioner-brendan-carr-as-agency-chair-5761419)
     
-    9hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    15hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
     [![Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://img.theepochtimes.com/assets/uploads/2024/03/21/id5611758-EpochImages-2943775627-xl-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-appoints-fcc-commissioner-brendan-carr-as-agency-chair-5761419)
 * [Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
     
-    10hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    16hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761398-Diabetes-205x123.jpg.webp)](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
+    ![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761578-Diabetes-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
 * [Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://www.theepochtimes.com/article/day-in-photos-a-winter-skate-sausage-walk-and-miss-universe-5761316)
     
-    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    16hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761388-GettyImages-2184635149-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-winter-skate-sausage-walk-and-miss-universe-5761316)
 * [Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
     
-    11hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    17hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761393-Vivek-Ramaswamy-GettyImages-2177654712-205x123.jpg.webp)](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
-* [US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
-    
-    12hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
-    
-    [![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761352-GettyImages-2181420414-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
-* [Russia Cuts Off Gas Supply to Austria](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
-    
-    12hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761336-gazprom-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
-* [Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://www.theepochtimes.com/us/jay-bhattacharya-emerges-as-top-contender-for-nih-chief-5761243)
-    
-    13hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
-    
-    [![Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://img.theepochtimes.com/assets/uploads/2021/11/15/Jay-Bhattachary-205x123.jpg.webp)](https://www.theepochtimes.com/us/jay-bhattacharya-emerges-as-top-contender-for-nih-chief-5761243)
-* [NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://www.theepochtimes.com/us/nyc-officials-call-on-whoopi-goldberg-to-apologize-after-she-said-bakery-denied-order-for-political-reasons-5761253)
-    
-    13hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761299-1.download-11KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-officials-call-on-whoopi-goldberg-to-apologize-after-she-said-bakery-denied-order-for-political-reasons-5761253)
+    ![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761579-Vivek-Ramaswamy-GettyImages-2177654712-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
