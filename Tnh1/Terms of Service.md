@@ -16,6 +16,7 @@
 
      [![Instagram TNH1](/static/socialmedia/instagram_v1.svg)](https://www.instagram.com/tnh1oficial/ "Instagram TNH1") [![Facebook TNH1](/static/socialmedia/facebook_v1.svg)](https://www.facebook.com/portaltnh1/ "Facebook TNH1") [![X TNH1](/static/socialmedia/twitter_x_v1.svg)](https://x.com/PortalTNH1/ "X TNH1") [![Youtube TNH1](/static/socialmedia/youtube_v1.svg)](https://www.youtube.com/TVPaju%C3%A7ara "Youtube TNH1")[![Linkedin TNH1](/static/socialmedia/linkedin_v2.svg)](https://www.linkedin.com/company/tnh1.com.br/ "Linkedin TNH1")
 
+* [Últimas](https://www.tnh1.com.br/noticias/ultimas/)
 * [Alagoas](https://www.tnh1.com.br/noticias/editoria/alagoas)
 * [Astrologia](https://www.tnh1.com.br/noticias/editoria/astrologia)
 * [Bem Estar](https://www.tnh1.com.br/noticias/editoria/bem-estar)
@@ -41,7 +42,6 @@
 * [Saúde](https://www.tnh1.com.br/noticias/editoria/saude)
 * [Tecnologia](https://www.tnh1.com.br/noticias/editoria/tecnologia)
 * [Turismo](https://www.tnh1.com.br/noticias/editoria/turismo)
-* [Últimas](https://www.tnh1.com.br/noticias/ultimas/)
 * [Vídeos](https://www.tnh1.com.br/noticias/editoria/videos)
 * [Viver +](https://www.tnh1.com.br/noticias/editoria/viver)
 
