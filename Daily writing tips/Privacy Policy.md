@@ -119,6 +119,7 @@ Categories
 * [Writing Competitions](https://www.dailywritingtips.com/category/competitions/)
 * [Writing Essays](https://www.dailywritingtips.com/category/writing-essays/)
 * [Writing Quizzes](https://www.dailywritingtips.com/category/writing-quizzes/)
+* [Writing Research Paper](https://www.dailywritingtips.com/category/writing-research-paper/)
 * [Writing Tools](https://www.dailywritingtips.com/category/writing-tools/)
 
 * [Home](https://www.dailywritingtips.com/)
