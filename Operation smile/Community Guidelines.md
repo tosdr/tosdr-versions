@@ -2,7 +2,7 @@
 
 ![exclamation point icon](/wp-content/themes/operationsmile/assets/images/exclamation-icon.svg)
 
-Discover how AI is shaping the future of cleft care. [Watch the Film by BBC StoryWorks](https://www.operationsmile.org/story/using-ai-to-help-create-new-smiles-and-rebuild-lives/)
+Have you taken our cleft quiz yet? [Test Your Knowledge](https://www.operationsmile.org/story/test-your-knowledge/)
 
  [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)[Donate](https://www.operationsmile.org/code-conduct?form=FUNZKBCNZQY)
 
@@ -68,7 +68,7 @@ Discover how AI is shaping the future of cleft care. [Watch the Film by BBC Stor
 
 ![exclamation point icon](/wp-content/themes/operationsmile/assets/images/exclamation-icon.svg)
 
-Discover how AI is shaping the future of cleft care. [Watch the Film by BBC StoryWorks](https://www.operationsmile.org/story/using-ai-to-help-create-new-smiles-and-rebuild-lives/)
+Have you taken our cleft quiz yet? [Test Your Knowledge](https://www.operationsmile.org/story/test-your-knowledge/)
 
 [![Operation Smile](/wp-content/themes/operationsmile/assets/images/operation-smile-logo-2023.svg)](https://www.operationsmile.org/)
 
@@ -376,7 +376,7 @@ Virginia Beach, VA 23453
 
 Email\*
 
-Phone
+Email
 
 This field is for validation purposes and should be left unchanged.
 
