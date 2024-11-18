@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/halo-de-orwelliaanse-fitness-armband/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/meelezen/t-verontrustende-vitamine-b12-tekort-enzo/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
