@@ -120,7 +120,7 @@ Welcome! [Login](https://knowyourmeme.com/login) or [signup](https://knowyourmem
 
 ##### Also Trending:
 
-[Calm Down Edgelord, It's Called Wholesome Humor](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor "Calm Down Edgelord, It's Called Wholesome Humor") [Jake Paul vs. Mike Tyson Rigged Fight Conspiracy Theory](https://knowyourmeme.com/memes/jake-paul-vs-mike-tyson-rigged-fight-conspiracy-theory "Jake Paul vs. Mike Tyson Rigged Fight Conspiracy Theory") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Sprunki](https://knowyourmeme.com/memes/subcultures/sprunki "Sprunki") [Dragon Age Veilguard Sales Leak](https://knowyourmeme.com/memes/events/dragon-age-the-veilguard-sales-numbers-leak "Dragon Age Veilguard Sales Leak") [The Trump Dance](https://knowyourmeme.com/memes/the-trump-dance "The Trump Dance") [Emergence First Page / Saki Yoshida Redraws](https://knowyourmeme.com/memes/emergence-first-page-saki-yoshida-redraws "Emergence First Page / Saki Yoshida Redraws")
+[Calm Down Edgelord, It's Called Wholesome Humor](https://knowyourmeme.com/memes/calm-down-edgelord-its-called-wholesome-humor "Calm Down Edgelord, It's Called Wholesome Humor") [4B Movement / 6B4T](https://knowyourmeme.com/memes/cultures/4b-movement-6b4t "4B Movement / 6B4T") [Today I Will Vote for a Third Party](https://knowyourmeme.com/memes/hmm-today-i-will-vote-for-a-third-party "Today I Will Vote for a Third Party")
 
 Terms of Service and Use
 ========================
@@ -261,7 +261,7 @@ If you have any questions or concerns about these Terms of Service or the Websit
 **Legal Information:** [Know Your Meme ®](https://knowyourmeme.com/) is a trademark of [Literally Media Ltd.](https://literally.media/) By using this site, you are agreeing by the site's [terms of use](https://knowyourmeme.com/terms-of-service) and [privacy policy](https://knowyourmeme.com/privacy) and [DMCA policy](https://knowyourmeme.com/dmca).  
 © 2007-2024 [Literally Media Ltd.](https://literally.media/)
 
-### Yo! You must login or signup first!
+### Hello! You must login or signup first!
 
 |     |     |
 | --- | --- |
