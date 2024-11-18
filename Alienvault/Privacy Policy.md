@@ -395,7 +395,7 @@ If you wish to view a current list of all Data Processors, click here: [https://
 
 [Get price](https://www.alienvault.com/pricing/request-quote?utm_internal=sb_quote) [Free trial](https://www.alienvault.com/products/usm-anywhere/free-trial?utm_internal=sb_freetrial_modal)
 
-[LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
+[LevelBlue logo LevelBlue logo](https://www.alienvault.com/ "LevelBlue logo")
 
 From the Blog
 
