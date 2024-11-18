@@ -34,10 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Let's help each other write fiction (3)](https://forum.nationstates.net/viewtopic.php?t=557273&f=19&view=unread#unread ""Let's help each other write fiction" (3 posts)")
-* [Copa Rushmori XLVII - Everything Thread (64)](https://forum.nationstates.net/viewtopic.php?t=557787&f=7&view=unread#unread ""Copa Rushmori XLVII - Everything Thread" (64 posts)")
-* [Your favorite part of AN’s forum sig XI (4,849)](https://forum.nationstates.net/viewtopic.php?t=555083&f=25&view=unread#unread ""Your favorite part of AN’s forum sig XI" (4,849 posts)")
-* [Elfilin Q&A (18)](https://forum.nationstates.net/viewtopic.php?t=558343&f=23&view=unread#unread ""Elfilin Q&A" (18 posts)")
+* [But taxes (3)](https://forum.nationstates.net/viewtopic.php?t=558472&f=9&view=unread#unread ""But taxes" (3 posts)")
+* [2023-24 Israel-Iran proxy conflict (1,922)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (1,922 posts)")
+* [The LGBT+ Thread: Rainbow Connections (3,269)](https://forum.nationstates.net/viewtopic.php?t=538581&f=20&view=unread#unread ""The LGBT+ Thread: Rainbow Connections" (3,269 posts)")
+* [Based on the flag, what language(s) d… (11,957)](https://forum.nationstates.net/viewtopic.php?t=474154&f=25&view=unread#unread ""Based on the flag, what language(s) does the AN speak?" (11,957 posts)")
+* [Stereotypes of AN? (68)](https://forum.nationstates.net/viewtopic.php?t=558227&f=25&view=unread#unread ""Stereotypes of AN?" (68 posts)")
 
 Advertisement
 
