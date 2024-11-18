@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/stel-je-de-hemel-weleens-voor/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/universum/moongate-regeringszwendel-van-universeel-formaat/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
