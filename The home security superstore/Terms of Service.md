@@ -1,12 +1,12 @@
 [Skip to content](#main-content)
 
-[15% Off SELF DEFENSE PRODUCTS I Code: SD15](https://www.thehomesecuritysuperstore.com/collections/self-defense?utm_source=website&utm_medium=banner&utm_campaign=15%25+Off+SELF+DEFENSE+WEAPONS)
+[Buy 1 Get 1 Free Keychain Weapons I Click Here!](https://www.thehomesecuritysuperstore.com/collections/bogo-free-keychain-weapons?utm_source=website&utm_medium=banner&utm_campaign=Buy+1+Get+1+Free+Keychain+Weapons)
 
-TODAY'S OFFER: :: | 15% Off SELF DEFENSE PRODUCTS I Code: SD15
+TODAY'S OFFER: :: | Buy 1 Get 1 Free Keychain Weapons I Click Here!
 
 TODAY'S OFFER: : :
 
- 15% Off SELF DEFENSE PRODUCTS I Code: SD15
+ Buy 1 Get 1 Free Keychain Weapons I Click Here!
 
 [![The Home Security Superstore](//www.thehomesecuritysuperstore.com/cdn/shop/files/thss-main-logo-jpg.jpg?v=1729157895&width=300)](https://www.thehomesecuritysuperstore.com/)
 
