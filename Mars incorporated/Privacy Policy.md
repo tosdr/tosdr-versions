@@ -302,9 +302,9 @@ Europe
 
 Austria
 
-[Deutsch](https://www.mars.com/de-at)
+[Deutsch](https://aut.mars.com/)
 
-[Deutsch](https://www.mars.com/de-at)
+[Deutsch](https://aut.mars.com/)
 
 Belgium
 
