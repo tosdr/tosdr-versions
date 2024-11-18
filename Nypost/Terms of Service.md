@@ -76,6 +76,10 @@ Search
 
 Search
 
+#### Breaking News
+
+[Trump slams pollster whose ‘totally fake poll’ showed Harris winning Iowa, calls for probe](https://nypost.com/2024/11/18/us-news/trump-slams-pollster-j-ann-selzer-whose-totally-fake-poll-showed-harris-winning-iowa-calls-for-probe/)
+
 Terms Of Use
 ============
 
