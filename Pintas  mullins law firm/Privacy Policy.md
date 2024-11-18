@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Email
+Name
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![Does mesothelioma affect both lungs?](https://www.pintas.com/wp-content/uploads/2020/05/lung-cancer-does-mesothelioma-affect-both-lungs.jpg "Does Mesothelioma Affect Both Lungs?")](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/ "Does Mesothelioma Affect Both Lungs?")
+[![Is there sexual abuse involving mormon missionaries?](https://www.pintas.com/wp-content/uploads/2023/04/general-mormom-3-300x225.jpg "Is There Sexual Abuse Involving Mormon Missionaries?")](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-there-sexual-abuse-in-mormon-missionaries2/ "Is There Sexual Abuse Involving Mormon Missionaries?")
 
-[#### Does Mesothelioma Affect Both Lungs?](https://www.pintas.com/practice-areas/lung-cancer/mesothelioma/does-mesothelioma-affect-both-lungs/)
+[#### Is There Sexual Abuse Involving Mormon Missionaries?](https://www.pintas.com/lawsuit/mormon-church-sex-abuse/is-there-sexual-abuse-in-mormon-missionaries2/)
 
-[![Can asbestos cause lung nodules?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-asbestos-cause-lung-nodules-scaled.jpg "Can Asbestos Cause Lung Nodules?")](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/ "Can Asbestos Cause Lung Nodules?")
+[![How do i know if a dog bite is infected?](https://www.pintas.com/wp-content/uploads/2023/06/dog-bite-hero-300x211.jpg "How Do I Know if a Dog Bite Is Infected?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected "How Do I Know if a Dog Bite Is Infected?")
 
-[#### Can Asbestos Cause Lung Nodules?](https://www.pintas.com/practice-areas/lung-cancer/can-asbestos-cause-lung-nodules/)
+[#### How Do I Know if a Dog Bite Is Infected?](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected)
 
-[![Can chemo cure ovarian cancer?](https://www.pintas.com/wp-content/uploads/2020/04/johnson-and-johnson-talcum-powder-lawsuit-lawyer-can-chemo-cure-ovarian-cancer.jpg "Can Chemo Cure Ovarian Cancer?")](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-chemo-cure-ovarian-cancer/ "Can Chemo Cure Ovarian Cancer?")
+[![Can you sue a nursing home for wrongful death?](https://www.pintas.com/wp-content/uploads/2020/09/nursing-home-abuse-lawyer-can-you-sue-a-nursing-home-for-wrongful-death-scaled.jpg "Can You Sue a Nursing Home for Wrongful Death?")](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/ "Can You Sue a Nursing Home for Wrongful Death?")
 
-[#### Can Chemo Cure Ovarian Cancer?](https://www.pintas.com/johnson-and-johnson-talcum-powder-lawsuit-lawyer/can-chemo-cure-ovarian-cancer/)
+[#### Can You Sue a Nursing Home for Wrongful Death?](https://www.pintas.com/faq/can-you-sue-a-nursing-home-for-wrongful-death/)
 
 ### Injured?  
 Tell Us What Happened.
@@ -308,7 +308,7 @@ message
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Phone
+Comments
 
 This field is for validation purposes and should be left unchanged.
 
