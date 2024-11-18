@@ -329,7 +329,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Fußbereich
 
@@ -1020,7 +1020,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -1372,7 +1372,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -1707,7 +1707,7 @@ Suchen
             
             * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
             * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+            * [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
             * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
             * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
             * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -2000,7 +2000,7 @@ Meistgelesene Tests & Themen
 
 * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
 * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
 * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
 * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
 * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -2009,7 +2009,7 @@ Meistgelesene Tests & Themen
 
 * [Rente mit 63](https://www.test.de/Rente-mit-63-5197662-0/)
 * [Anlagestrategie Pantoffel-Portfolio](https://www.test.de/Anlagestrategie-Pantoffelportfolio-Einzahlphase-5179990-0/)
-* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-5082072-0/)
+* [Rente mit Schwerbehinderung](https://www.test.de/Rente-fuer-Schwerbehinderte-Ohne-Abschlag-frueher-in-Rente-gehen-5082072-0/)
 * [Betriebliche Alters­vorsorge](https://www.test.de/betriebliche-altersvorsorge-5158846-0/)
 * [Fondsgebundene Rentenversicherung](https://www.test.de/Fondsgebundene-Rentenversicherung-Vergleich-1563811-0/)
 * [Vermögenswirksame Leistungen](https://www.test.de/Vermoegenswirksame-Leistungen-Vergleich-5056653-0/)
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Gewusst wie: Akti­vieren einer eSim](https://www.test.de/Gewusst-wie-Aktivieren-einer-eSim-6062316-0/ "Gewusst wie - Aktivieren einer eSim")
-* [Risiken bei Aktien und Fonds: Wie Sie Ihr Depot vor Kurs­stürzen schützen](https://www.test.de/Risiken-bei-Aktien-und-Fonds-Wie-Sie-Ihr-Depot-vor-Kursstuerzen-schuetzen-6148164-0/ "Risiken bei Aktien und Fonds - Wie Sie Ihr Depot vor Kursstürzen schützen")
-* [Berufs­unfähigkeits­schutz im Schnell­test: Alte Leipziger bietet Tarif mit „Psyche-Klausel“](https://www.test.de/Berufsunfaehigkeitsschutz-im-Schnelltest-Alte-Leipziger-bietet-Tarif-mit-Psyche-Klausel-6157894-0/ "Berufsunfähigkeitsschutz im Schnelltest - Alte Leipziger bietet Tarif mit „Psyche-Klausel“")
-* [Ergo­meter im Test: Heimtrainer mit deutlichen Schwächen](https://www.test.de/Ergometer-im-Test-Heimtrainer-mit-deutlichen-Schwaechen-6045811-0/ "Ergometer im Test - Heimtrainer mit deutlichen Schwächen")
-* [Psycho­therapie für Kinder und Jugend­liche: Hilfe für die junge Psyche](https://www.test.de/Psychotherapie-fuer-Kinder-und-Jugendliche-6131397-0/ "Psychotherapie für Kinder und Jugendliche - Hilfe für die junge Psyche")
-* [Geld­anlage mit Fonds und ETF: Kurs­raketen? Uninteres­sant!](https://www.test.de/Geldanlage-mit-Fonds-und-ETF-Kursraketen-Uninteressant-6120154-0/ "Geldanlage mit Fonds und ETF - Kursraketen? Uninteressant!")
+* [Dubioses Fest­geld: Bel-Finanz fehlt Zulassung](https://www.test.de/Dubioses-Festgeld-Bel-Finanz-ohne-Zulassung-6045716-0/ "Dubioses Festgeld - Bel-Finanz fehlt Zulassung")
+* [Jugend testet 2024: Ausgezeichnete Talente](https://www.test.de/Jugend-testet-2024-Ausgezeichnete-Talente-6125303-0/ "Jugend testet 2024 - Ausgezeichnete Talente")
+* [Quellen und weiterführende Literatur: Hilfe bei Depressionen](https://www.test.de/Quellen-und-weiterfuehrende-Literatur-Hilfe-bei-Depressionen-6038469-0/ "Quellen und weiterführende Literatur - Hilfe bei Depressionen")
+* [Verpackungs­ärger: Augen­creme von Sebamed](https://www.test.de/Verpackungsaerger-Augencreme-von-Sebamed-6024655-0/ "Verpackungsärger - Augencreme von Sebamed")
+* [Hundeshampoos im Test: Welche für alle Felle empfehlens­wert sind](https://www.test.de/Hundeshampoos-im-Test-5987755-0/ "Hundeshampoos im Test - Welche für alle Felle empfehlenswert sind")
+* [Invasive Art: Lieber keinen Kirschlor­beer pflanzen](https://www.test.de/Invasive-Art-Lieber-keinen-Kirschlorbeer-pflanzen-6133142-0/ "Invasive Art - Lieber keinen Kirschlorbeer pflanzen")
 
 Service Stiftung Warentest
 
