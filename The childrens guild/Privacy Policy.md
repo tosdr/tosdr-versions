@@ -1,5 +1,5 @@
 ![](https://www.facebook.com/tr?id=327134051074273&ev=PageView
-&noscript=1)   ![](https://data.adxcel-ec2.com/pixel/?ad_log=referer&action=registration&pixid=71414e4a-8007-4789-9003-b8cb0b985871)        Privacy Policy - The Children's Guild                                                           
+&noscript=1)   ![](https://data.adxcel-ec2.com/pixel/?ad_log=referer&action=registration&pixid=71414e4a-8007-4789-9003-b8cb0b985871)        Privacy Policy - The Children's Guild                                                          
 
 ![fbpx](https://www.facebook.com/tr?id=252935605784506&ev=PageView&noscript=1)
 
