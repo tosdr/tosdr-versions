@@ -51,7 +51,7 @@ If you have any questions about our Website, please contact us at dataprotection
 | --- | --- |
 | Was this article helpful? |     |
 | [](https://info.skullcandy.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.skullcandy.com%2Fhc%2Fen-us%2Farticles%2F360010896673-Terms-of-Use "Yes")<br><br>✔   Yes | [](https://info.skullcandy.com/hc/en-us/signin?return_to=https%3A%2F%2Fsupport.skullcandy.com%2Fhc%2Fen-us%2Farticles%2F360010896673-Terms-of-Use "No")<br><br>✖   No |
-| 3 out of 8 found this helpful |     |
+| 3 out of 9 found this helpful |     |
 
 ### © 2024, Skullcandy
 
