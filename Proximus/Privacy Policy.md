@@ -658,7 +658,7 @@ Les prix des produits et services Proximus peuvent être consultés sur les page
 
 [Tarifs des communications](#)
 
-* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-43~cache.pdf)
+* [_​_Autres réseaux fixes nationaux(PDF, 99Kb)](https://www.proximus.be/dam/jcr:f9bba4cc-816d-45c1-b835-6caf3de02e39/cdn/sites/iportal/documents/pdfs/res/other_fixed_networks_fr~2022-03-21-13-22-44~cache.pdf)
 * [_​_Appels & SMS surtaxés(PDF, 60Kb)](https://www.proximus.be/dam/jcr:bb48b14f-c918-4f6a-afd6-e0002b653f34/cdn/sites/iportal/documents/pdfs/common/num-ros-payants-et-sms-payants~2023-07-27-08-03-45~cache.pdf)
 
 #### A. Privé
@@ -793,7 +793,7 @@ Voir plus Voir moins
 
 ##### 1\. Abonnements
 
-* [(Business) Flex packs et Mobile en Business Flex packs(PDF, 58 KB)](https://www.proximus.be/dam/jcr:f28c9226-bde0-4b79-be95-7a1beba83e00/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Flex_fr.pdf)
+* [(Business) Flex packs et Mobile en Business Flex packs(PDF, 59 KB)](https://www.proximus.be/dam/jcr:f28c9226-bde0-4b79-be95-7a1beba83e00/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Flex_fr.pdf)
 * [Beats packs (Belfius)(PDF, 51 KB)](https://www.proximus.be/dam/jcr:3b0245c2-3326-460f-aaf1-faa5cffbc0d6/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Belfius_fr.pdf)
 * [Epic Combo packs(PDF, 46 KB)](https://www.proximus.be/dam/jcr:b48713cb-ff9e-4dd2-ac4c-962a4632aa63/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_Epic_fr.pdf)
 * [Autres packs (Particuliers et Business)(PDF, 70 KB)](https://www.proximus.be/dam/jcr:182ab9ed-aac8-4998-b4c9-5db4e7ff90b2/cdn/sites/iportal/documents/pdfs/common/price-announcement-01012025/temp_pack_fr.pdf)
