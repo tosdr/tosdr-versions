@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)       ≡ Privacy Policy 》 Her Beauty                                                                 
+![](https://www.facebook.com/tr?id=939959689678239&ev=PageView&noscript=1)       ≡ Privacy Policy 》 Her Beauty                                                                
 
 [![Site stats](//www.shinystat.com/cgi-bin/shinystat.cgi?USER=SS-44258713-3958a)](https://www.shinystat.com/)
 
@@ -111,11 +111,11 @@ If you have any questions or suggestions regarding this privacy policy, please f
 
 Advertisements
 
+[The Surprising Reason for Your Eye Bags—and How to Fix It  ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/0cover.jpg)](https://herbeauty.co/beauty/the-surprising-reason-for-your-eye-bags-and-how-to-fix-it/)  
+
 [10 Moments That Made Us Stop Rooting For Our Favorite TV Characters ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/3-1.webp)](https://herbeauty.co/entertainment/10-moments-that-made-us-stop-rooting-for-our-favorite-tv-characters/) 
 
 [Kat Dennings’ Tragic Journey Through Hollywood ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/Kat-Dennings-Tragic-Journey-Through-Hollywood-1.jpeg)](https://herbeauty.co/entertainment/kat-dennings-tragic-journey-through-hollywood/) 
-
-[Shania Twain Stuns Fans With Shockingly Youthful New Photo ![](https://img-cdn.herbeauty.co/wp-content/uploads/2024/11/1-e1730821528907.webp)](https://herbeauty.co/entertainment/shania-twain-stuns-fans-with-shockingly-youthful-new-photo/) 
 
 Advertisements
 
