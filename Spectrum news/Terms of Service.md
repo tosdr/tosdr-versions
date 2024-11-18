@@ -31,9 +31,9 @@ Open search form Close menu Close search form Menu Open menu Close menu Close me
 * [Newsletters and alerts](https://www.thetransmitter.org/newsletters-alerts/)
 * [Events](https://www.thetransmitter.org/events/)
 * [RSS](https://www.thetransmitter.org/feed/)
-* [Terms and Conditions](https://www.thetransmitter.org/terms-and-conditions/)
+* [Terms and Conditions (Simons Foundation)](https://www.simonsfoundation.org/terms-and-conditions/)
 * [Editorial Policies](https://www.thetransmitter.org/editorial-policies/)
-* [Privacy Policy](https://www.thetransmitter.org/privacy-policy/)
+* [Privacy Policy (Simons Foundation)](https://www.simonsfoundation.org/privacy-policy-online-publications/)
 * [Contact Us](https://www.thetransmitter.org/contact-us/)
 
 Follow The transmitter:
@@ -208,9 +208,9 @@ Have you recently published new research in neuroscience?
 * [Events](https://www.thetransmitter.org/events/)
 * [Announcements](https://www.thetransmitter.org/announcements/)
 * [RSS](https://www.thetransmitter.org/feed/)
-* [Terms and Conditions](https://www.thetransmitter.org/terms-and-conditions/)
+* [Terms and Conditions (Simons Foundation)](https://www.simonsfoundation.org/terms-and-conditions/)
 * [Editorial Policies](https://www.thetransmitter.org/editorial-policies/)
-* [Privacy Policy](https://www.thetransmitter.org/privacy-policy/)
+* [Privacy Policy (Simons Foundation)](https://www.simonsfoundation.org/privacy-policy-online-publications/)
 * [Accessibility](https://www.thetransmitter.org/accessibility-statement/)
 * [Contact Us](https://www.thetransmitter.org/contact-us/)
 
