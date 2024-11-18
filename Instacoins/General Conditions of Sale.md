@@ -18,11 +18,12 @@ Delivery Policy
 ### Instacoins / Delivery Policy
 
   
+ 
 
 Bitcoin is generally sent within approximately 15 minutes from the moment you make a withdrawal. However, this can sometimes take longer, depending on network congestion.
 
   
-You can track the progress of your transaction by clicking on the Wallet Address in **My Account or Transaction History**, or by visiting [www.blockchain.com/btc/address/](http://www.blockchain.com/btc/address/) _your wallet address_
+  You can track the progress of your transaction by clicking on the Wallet Address in **My Account or Transaction History**, or by visiting [www.blockchain.com/btc/address/](http://www.blockchain.com/btc/address/) _your wallet address_
 
 [![Logo](/_next/image?url=%2Fassets%2F99f2c27b-4521-4b5e-90b2-d01d5b5d14a7&w=640&q=75)](https://www.instacoins.com/)
 
