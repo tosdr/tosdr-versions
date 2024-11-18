@@ -88,7 +88,7 @@ Spam in any form will not be accepted.
 
 Supreme caution has been taken to make sure that there are no copyright infringements in terms of the multimedia content and the subject matter that is posted on our site. If you find anything that could be considered a violation of the copyright norms, please [contact us](https://www.online-tech-tips.com/about/) immediately.
 
-We use a third party to provide monetization technologies for our site. You can review their privacy and cookie policy [here](https://snigel.com/privacy-policy/).
+We use a third party to provide monetization technologies for our site. You can review their privacy and cookie policy [here](https://snigel.com/privacy-policy).
 
 [News](https://www.online-tech-tips.com/category/news/)
 -------------------------------------------------------
