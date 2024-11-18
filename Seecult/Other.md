@@ -346,11 +346,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-roboaction-10/ljublj.jpg?itok=ip27NRJ2)](http://seecult.org/galerija/galerija-umetnika/dragan-ilic/dragan-ilic-roboaction-10)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f15.jpg?itok=kMqNLQ4O)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/prezentacija-kuce-rende-magacin-u-km-29607/rende-prez6.jpg?itok=g0FLMuSb)](http://seecult.org/galerija/foto-galerija/foto-arhiva/prezentacija-kuce-rende-magacin-u-km-29607)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/masimo.jpg?itok=MYItJqwW)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -366,6 +366,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Volja sinovljeva - vestern, samurajski i guslarski film](http://seecult.org/vest/volja-sinovljeva-vestern-samurajski-i-guslarski-film)
+* [Preminuo Dejan Despić](http://seecult.org/vest/preminuo-dejan-despic)
 * [Stare i nove reči](http://seecult.org/vest/stare-i-nove-reci)
 * [Izvanredan doprinos informatici](http://seecult.org/vest/izvanredan-doprinos-informatici)
 * [Dani srpskog filma u Helsinkiju](http://seecult.org/vest/dani-srpskog-filma-u-helsinkiju)
@@ -374,8 +376,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Ples, otpor, (ne)rad](http://seecult.org/vest/ples-otpor-nerad)
 * [Mladi i digitalno doba](http://seecult.org/vest/mladi-i-digitalno-doba)
 * [12\. Vizualizator – Re-kreacija vida](http://seecult.org/vest/12-vizualizator-re-kreacija-vida)
-* [Mala scena JDP-a – Studio Ćirilov](http://seecult.org/vest/mala-scena-jdp-studio-cirilov)
-* [Protest i apel dramskih umetnika](http://seecult.org/vest/protest-i-apel-dramskih-umetnika)
 
 * [Konkursi](#tab1_1)
 
