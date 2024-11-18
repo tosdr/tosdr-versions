@@ -792,4 +792,4 @@ USD $
 
 © 2024 [POWERUP®](https://www.poweruptoys.com/). [Designed by Out of the Sandbox](https://outofthesandbox.com/ "Turbo Shopify Theme by Out of the Sandbox"). [Ecommerce Software by Shopify](https://www.shopify.com/?utm_campaign=poweredby&utm_medium=shopify&utm_source=onlinestore)
 
-Amazon American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
+American Express Apple Pay Diners Club Discover Meta Pay Google Pay Mastercard PayPal Shop Pay Venmo Visa
