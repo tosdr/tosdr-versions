@@ -136,35 +136,35 @@ For specific information about Mediavine Partners, the data each collects and th
 
 ##### Recent Posts
 
-[](https://ygorganization.com/whereishal-con/ "Halloween Returns with “Nekroz” Support [TW02]")
+[](https://ygorganization.com/cdp_speedroid2k24/ "CDP: Speedroid Clear Wing 2024, post-SUDA")
 
-#### [Halloween Returns with “Nekroz” Support \[TW02\]](https://ygorganization.com/whereishal-con/)
+#### [CDP: Speedroid Clear Wing 2024, post-SUDA](https://ygorganization.com/cdp_speedroid2k24/)
 
-November 7, 2024
+November 18, 2024
 
-[](https://ygorganization.com/gradyfears/ "Harness The Darkside of “Roadstar”! [RD/KP19]")
+[](https://ygorganization.com/endymionbattlemode/ "And The Next V Jump Promo Is… [VJMP]")
 
-#### [Harness The Darkside of “Roadstar”! \[RD/KP19\]](https://ygorganization.com/gradyfears/)
+#### [And The Next V Jump Promo Is… \[VJMP\]](https://ygorganization.com/endymionbattlemode/)
 
-November 7, 2024
+November 18, 2024
 
-[](https://ygorganization.com/jump-festa-2025-merchandise/ "Jump Festa 2025 Merchandise")
+[](https://ygorganization.com/reference-art-salamandeus-of-scorching-cards/ "[Reference Art] Salamandeus of Scorching Cards")
 
-#### [Jump Festa 2025 Merchandise](https://ygorganization.com/jump-festa-2025-merchandise/)
+#### [\[Reference Art\] Salamandeus of Scorching Cards](https://ygorganization.com/reference-art-salamandeus-of-scorching-cards/)
 
-November 7, 2024
+November 18, 2024
 
-[](https://ygorganization.com/master-duel-november-7th-update/ "[Master Duel] November 7th Update")
+[](https://ygorganization.com/master-duel-ex-zero-festival-new-accessory/ "[Master Duel] Ex-Zero Festival & New Accessory")
 
-#### [\[Master Duel\] November 7th Update](https://ygorganization.com/master-duel-november-7th-update/)
+#### [\[Master Duel\] Ex-Zero Festival & New Accessory](https://ygorganization.com/master-duel-ex-zero-festival-new-accessory/)
 
-November 7, 2024
+November 18, 2024
 
-[](https://ygorganization.com/herewefindthewildcarnovorusinitsnaturalhabitat/ "[VJMP] Rekindle Dinosaurs with Burial Bicorn Carnovorus")
+[](https://ygorganization.com/bughemianrhapsody/ "Fall Into An Endless Dream With “Delirium”! [RD/TB02]")
 
-#### [\[VJMP\] Rekindle Dinosaurs with Burial Bicorn Carnovorus](https://ygorganization.com/herewefindthewildcarnovorusinitsnaturalhabitat/)
+#### [Fall Into An Endless Dream With “Delirium”! \[RD/TB02\]](https://ygorganization.com/bughemianrhapsody/)
 
-November 6, 2024
+November 17, 2024
 
 [Facebook](https://www.facebook.com/ygorganization) [X (Twitter)](https://twitter.com/ygorganization) [YouTube](https://www.youtube.com/@TheOrganization) [Discord](https://discord.gg/theorganization) [RSS](https://ygorganization.com/feed/)
 
