@@ -1,16 +1,12 @@
 [Skip to main content](#main)
 
-[![Nextcloud Enterprise](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
-
-![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png)](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
+[![Nextcloud Enterprise](https://nextcloud.com/c/uploads/2024/07/Nextcloud_Enterprise.png)](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
 
 [Nextcloud **Enterprise Day Paris**](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
 
 [Register now](https://nextcloud.com/enterprise-day-2024-france/ "Enterprise Day 2024 France")
 
-[![Nextcloud logo](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E)
-
-![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
+[![Nextcloud logo](https://nextcloud.com/c/uploads/2023/02/logo_nextcloud_white.svg)](https://nextcloud.com/ "Nextcloud")
 
 * [Products](# "Products")
     * [![Nextcloud Hub](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E)
@@ -1094,8 +1090,6 @@ Search:
     ![RSS Feed](https://nextcloud.com/c/uploads/2023/01/RSS-feed-icon-white.svg)](https://nextcloud.com/feed/ "RSS Feed")
 
 © 2021 - 2024 Nextcloud GmbH
-
-![Nextcloud](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2071%2050'%3E%3C/svg%3E "Nextcloud")
 
 ![Nextcloud](https://nextcloud.com/wp-content/uploads/2022/10/nextcloud-logo-blue-transparent.svg "Nextcloud")
 
