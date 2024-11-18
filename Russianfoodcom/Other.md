@@ -148,6 +148,9 @@
 
 Сейчас читают
 
+* [Рис с грибами, зелёным горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174173)
+* [Скумбрия, запечённая с помидорами и сладким перцем](https://www.russianfood.com/recipes/recipe.php?rid=174077)
+* [Салат с краснокочанной капустой, тыквой, яблоком и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174582)
 * [Котлеты из куриных сердечек](https://www.russianfood.com/recipes/recipe.php?rid=173383)
 * [Слоёный рулет с савоярди, джемом, яблоками, орехами и изюмом](https://www.russianfood.com/recipes/recipe.php?rid=173220)
 * [Киш из рубленого теста, с курицей, грибами и помидорами](https://www.russianfood.com/recipes/recipe.php?rid=173321)
@@ -155,9 +158,6 @@
 * [Манты, сваренные в воде](https://www.russianfood.com/recipes/recipe.php?rid=656)
 * [Манты, сваренные в плове](https://www.russianfood.com/recipes/recipe.php?rid=657)
 * [Манты с картофелем](https://www.russianfood.com/recipes/recipe.php?rid=658)
-* [Манты из нерубленного мяса](https://www.russianfood.com/recipes/recipe.php?rid=659)
-* [Манты по-андижански](https://www.russianfood.com/recipes/recipe.php?rid=661)
-* [Лапша густая](https://www.russianfood.com/recipes/recipe.php?rid=849)
 
 |     |
 | --- |
@@ -182,6 +182,202 @@
 
 |     |     |
 | --- | --- |
+| Рецепты<br><br>[Кукурузная каша с курагой, на сливках](https://www.russianfood.com/recipes/recipe.php?rid=173390) |     |
+
+[![Фото к рецепту: Кукурузная каша с курагой, на сливках](//img1.russianfood.com/dycontent/images_upl/737/sm_736194.jpg "Фото к рецепту: Кукурузная каша с курагой, на сливках")](https://www.russianfood.com/recipes/recipe.php?rid=173390)
+
+Утренняя каша – классика домашней кухни, особенно для детского меню. Эта нежная каша готовится из кукурузной крупы с яркими кусочками кураги, сливками и сливочным маслом. Такая каша станет отличным началом дня и наполнит энергией.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173390)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вкусное утро](https://www.russianfood.com/blogs/?id=421132) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173390#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты › [Курица - любовь моя](https://www.russianfood.com/themes/?theme_id=9)<br><br>[Куриные окорочка в медово-лимонном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174167) |     |
+
+[![Фото к рецепту: Куриные окорочка в медово-лимонном соусе](//img1.russianfood.com/dycontent/images_upl/745/sm_744618.jpg "Фото к рецепту: Куриные окорочка в медово-лимонном соусе")](https://www.russianfood.com/recipes/recipe.php?rid=174167)
+
+Вкусные и сочные куриные окорочка. Розмарин, тимьян и яркий соус на основе мёда, лимонного сока и горчицы придают жареному куриному мясу неимоверный вкус. Чеснок и острый перец добавят аромат и пикантную нотку.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174167)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174167#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Рис с грибами, зелёным горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174173) |     |
+
+[![Фото к рецепту: Рис с грибами, зелёным горошком и беконом](//img1.russianfood.com/dycontent/images_upl/738/sm_737940.jpg "Фото к рецепту: Рис с грибами, зелёным горошком и беконом")](https://www.russianfood.com/recipes/recipe.php?rid=174173)
+
+Ароматный бекон, упругие шампиньоны, сочные помидоры и зелёный горошек обжариваются, а затем соединяются с отварным рисом. Приготовление нехлопотное, а блюдо получается ярким, сытным, с приятным ароматом копчёностей.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174173)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174173#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174112) |     |
+
+[![Фото к рецепту: Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)](//img1.russianfood.com/dycontent/images_upl/739/sm_738448.jpg "Фото к рецепту: Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=174112)
+
+Шампиньоны, обжаренные с помидорами и сладким перцем, выкладываются на отбитые кусочки мяса. Затем всё посыпается натёртым сыром. Благодаря запеканию под "шапочкой" мясо получается очень сочным и питательным, да и в целом блюдо выглядит очень празднично.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174112)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174112#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Скумбрия, запечённая с помидорами и сладким перцем](https://www.russianfood.com/recipes/recipe.php?rid=174077) |     |
+
+[![Фото к рецепту: Скумбрия, запечённая с помидорами и сладким перцем](//img1.russianfood.com/dycontent/images_upl/739/sm_738248.jpg "Фото к рецепту: Скумбрия, запечённая с помидорами и сладким перцем")](https://www.russianfood.com/recipes/recipe.php?rid=174077)
+
+Гармоничное соединение нежной скумбрии, сочных помидоров и ароматного болгарского перца. Рыба запекается на подушке из лука и в лодочке из фольги, что придаёт дополнительную сочность.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174077)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вечерний обЪед](https://www.russianfood.com/blogs/?id=421112) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174077#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с краснокочанной капустой, тыквой, яблоком и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174582) |     |
+
+[![Фото к рецепту: Салат с краснокочанной капустой, тыквой, яблоком и виноградом](//img1.russianfood.com/dycontent/images_upl/751/sm_750664.jpg "Фото к рецепту: Салат с краснокочанной капустой, тыквой, яблоком и виноградом")](https://www.russianfood.com/recipes/recipe.php?rid=174582)
+
+Яркий, полезный и вкусный салат с краснокочанной капустой, тыквой, яблоком и виноградом. Капуста с луком сперва маринуются с уксусом и сахаром, а затем смешивается с яблоком и виноградом. В конце добавляется запечённая тыква. Заправляется салат смесью оливкового масла и мёда.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174582)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Салатово](https://www.russianfood.com/blogs/?id=421336) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174582#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388) |     |
+
+[![Фото к рецепту: Омлет на сметане, с грибами, луком и карри](//img1.russianfood.com/dycontent/images_upl/737/sm_736258.jpg "Фото к рецепту: Омлет на сметане, с грибами, луком и карри")](https://www.russianfood.com/recipes/recipe.php?rid=173388)
+
+Нежный и вкусный омлет с пряным ароматом. Вместо молока используется сметана, а помимо соли перца добавляется карри. На готовый омлет выкладывается начинка из обжаренных шампиньонов с зелёным луком и укропом, которая делает завтрак ещё питательнее и интереснее.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173388)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Вкусное утро](https://www.russianfood.com/blogs/?id=421132) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173388#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Ленивый плов с говядиной (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173384) |     |
+
+[![Фото к рецепту: Ленивый плов с говядиной (в рукаве)](//img1.russianfood.com/dycontent/images_upl/736/sm_735481.jpg "Фото к рецепту: Ленивый плов с говядиной (в рукаве)")](https://www.russianfood.com/recipes/recipe.php?rid=173384)
+
+Ленивый плов с говядиной готовится просто и легко, что делает этот рецепт идеальным даже для новичков в кулинарии. Мясо и овощи нарезаются, смешиваются с рисом и пряностями, выкладываются в рукав для запекания и отправляются в духовку. Ароматно, вкусно и сытно.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173384)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173384#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Трубочки из лаваша со скумбрией, помидорами и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173386) |     |
+
+[![Фото к рецепту: Трубочки из лаваша со скумбрией, помидорами и сыром (в духовке)](//img1.russianfood.com/dycontent/images_upl/737/sm_736303.jpg "Фото к рецепту: Трубочки из лаваша со скумбрией, помидорами и сыром (в духовке)")](https://www.russianfood.com/recipes/recipe.php?rid=173386)
+
+Из лаваша формируются трубочки с начинкой из скумбрии, помидоров, сыра и сметанно-горчичного соуса с зеленью , которые заливаются яично-сметанной смесью с сыром и запекаются. Получается что-то похожее на разборный пирог из лаваша.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173386)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173386#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с копчёной колбасой, овощами, кукурузой и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=174820) |     |
+
+[![Фото к рецепту: Салат с копчёной колбасой, овощами, кукурузой и сухариками](//img1.russianfood.com/dycontent/images_upl/753/sm_752744.jpg "Фото к рецепту: Салат с копчёной колбасой, овощами, кукурузой и сухариками")](https://www.russianfood.com/recipes/recipe.php?rid=174820)
+
+Для этого простого, но сытного салата нужно только нарезать колбасу, сладкий перец и огурцы, а затем смешать с кукурузой и сухариками. Заправляется салат майонезом. Отличный вариант, если нежданно нагрянули гости.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174820)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174820#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Грибная запеканка с луком](https://www.russianfood.com/recipes/recipe.php?rid=173382) |     |
+
+[![Фото к рецепту: Грибная запеканка с луком](//img1.russianfood.com/dycontent/images_upl/736/sm_735502.jpg "Фото к рецепту: Грибная запеканка с луком")](https://www.russianfood.com/recipes/recipe.php?rid=173382)
+
+Грибы предварительно обжариваются с луком и соединяются с желтково-сметанной смесью. В конце вмешиваются взбитые белки с панировочными сухарями. Перед запеканием масса посыпается кунжутом. Получается вкусная и сытная запеканка с румяной корочкой сверху и нежная внутри.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=173382)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=173382#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Салат с копчёной колбасой, кукурузой, горошком и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174819) |     |
+
+[![Фото к рецепту: Салат с копчёной колбасой, кукурузой, горошком и солёными огурцами](//img1.russianfood.com/dycontent/images_upl/753/sm_752725.jpg "Фото к рецепту: Салат с копчёной колбасой, кукурузой, горошком и солёными огурцами")](https://www.russianfood.com/recipes/recipe.php?rid=174819)
+
+Сытный вкусный салат, часть ингредиентов которого схожи с оливье. Помимо отварного картофеля, копчёной колбасы, солёного огурца и консервированного горошка добавим кукурузу, твёрдый сыр и красный лук. Приготовить нужно только картофель, а остальные продукты достаточно только нарезать соломкой либо высыпать из консервной банки.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174819)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [ZNAIKA](https://www.russianfood.com/blogs/?id=12414) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174819#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Рецепты<br><br>[Тефтели, тушенные в апельсиновом соусе с имбирём и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=172997) |     |
+
+[![Фото к рецепту: Тефтели, тушенные в апельсиновом соусе с имбирём и чесноком](//img1.russianfood.com/dycontent/images_upl/738/sm_737440.jpg "Фото к рецепту: Тефтели, тушенные в апельсиновом соусе с имбирём и чесноком")](https://www.russianfood.com/recipes/recipe.php?rid=172997)
+
+В фарш для тефтелей добавляются чеснок и зелень, что делает их очень ароматными. Тушатся тефтели в соусе на основе апельсинового сока и соевого соуса с цедрой, чесноком, имбирём и мёдом. Это простое и доступное решение, чтобы по-новому раскрыть вкус привычного блюда.
+
+[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=172997)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=172997#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
+| Благотворительность › [Благотворительность](https://www.russianfood.com/themes/?theme_id=23)<br><br>[Мы верим, что вместе с вами поможем Марианне жить полноценной жизнью и развиваться!](https://www.russianfood.com/reading/?post_id=22896) |     |
+
+[![](//img1.russianfood.com/dycontent/images_upl/753/sm_752880.jpg)](https://www.russianfood.com/reading/?post_id=22896)
+
+Для того, чтобы Марианна могла и дальше проходить жизненно необходимую ей реабилитацию в медицинских центрах, а также находиться вне дома без опасности для здоровья, девочке необходим портативный отсасыватель (аспиратор), который будет использоваться на ежедневной основе.
+
+[Читать дальше](https://www.russianfood.com/reading/?post_id=22896)  
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+|     | [Благотворительность](https://www.russianfood.com/blogs/?id=276205) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22896#comments) | 18.11.24 |     |
+
+|     |     |
+| --- | --- |
 | Для прессы<br><br>[Яркая палитра вкусов. Лучшие САЛАТЫ №24-47](https://www.russianfood.com/reading/?post_id=22894) |     |
 
 [![](//img1.russianfood.com/dycontent/images_upl/745/sm_744271.jpg)](https://www.russianfood.com/reading/?post_id=22894)
@@ -193,202 +389,6 @@
 |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- |
 |     | [Лучшие салаты](https://www.russianfood.com/blogs/?id=325071) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22894#comments) | 18.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Капусты разные – вкусы прекрасные.) Время КАПУСТЫ (21)](https://www.russianfood.com/reading/?post_id=22893) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/740/sm_739799.jpg)](https://www.russianfood.com/reading/?post_id=22893)
-
-Тушеная капуста с грибами. Курица, запечённая с капустой. Суп с пекинской капустой и копчёным мясом. Запеканка с брокколи и фасолью. Котлеты из цветной капусты с сыром.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22893)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22893#comments) | 18.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Аппетитно-быстрые истории. Лучшие рецепты БЫСТРЕЕ! №24-47](https://www.russianfood.com/reading/?post_id=22892) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/703/sm_702836.jpg)](https://www.russianfood.com/reading/?post_id=22892)
-
-Фунчоза с кальмарами и морковью по-корейски. Курица с пекинской капустой. Цветная капуста с горошком и перцем. Сырный суп с овощами и кукурузой. Слойки с сухофруктами и сгущёнкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22892)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты БЫСТРЕЕ!](https://www.russianfood.com/blogs/?id=338614) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22892#comments) | 18.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Новые вкусные идеи. РИС по-необычному (32)](https://www.russianfood.com/reading/?post_id=22889) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/634/sm_633715.jpg)](https://www.russianfood.com/reading/?post_id=22889)
-
-Рис с сосисками и зелёным горошком. Рисовая запеканка с печенью и яблоком. Рис со свиными ребрышками. Рис с фрикадельками и грибами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22889)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_2 _![](/images/blank.gif)_0 |     | [1](https://www.russianfood.com/reading/?post_id=22889#comments) | 17.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[По-осеннему уютные. Лучшие СЛАДОСТИ №24-46](https://www.russianfood.com/reading/?post_id=22888) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/744/sm_743546.jpg)](https://www.russianfood.com/reading/?post_id=22888)
-
-Песочный пирог с яблоками и заварным кремом. Крамбл с грушей и орехами. Бисквитный пирог с клюквой. Творожный пирог с грушами. Рулет из запечённого блина с творогом. Слойки с яблоками и тыквой. Мягкое печенье с яблоками.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22888)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие сладости](https://www.russianfood.com/blogs/?id=327533) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22888#comments) | 17.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[5 причин приготовить новый салат. Время САЛАТОВ (151)](https://www.russianfood.com/reading/?post_id=22887) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723838.jpg)](https://www.russianfood.com/reading/?post_id=22887)
-
-Салат с тунцом, овощами и маслинами. Салат с курицей и помело. Салат с помидорами, авокадо и сельдереем. Салат с беконом и грибами. Салат с грибами, сыром и морковью.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22887)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22887#comments) | 17.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Аккуратная, ароматная, на вкус невероятная. Лучшая ВЫПЕЧКА №24-46](https://www.russianfood.com/reading/?post_id=22883) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/724/sm_723095.jpg)](https://www.russianfood.com/reading/?post_id=22883)
-
-Заливной пирог с грибами. Манник с яблоками. Слоёные корзинки с шоколадным фланом. Пицца с грибами и грушей. Клафути с брокколи и брюссельской капустой. Пирог с виноградом и цедрой. Лимонное печенье "Трещинки".
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22883)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшая выпечка](https://www.russianfood.com/blogs/?id=327534) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22883#comments) | 16.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Идеальное блюдо, чтобы согреться. СОЛЯНКА по-необычному (2)](https://www.russianfood.com/reading/?post_id=22881) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/519/sm_518019.jpg)](https://www.russianfood.com/reading/?post_id=22881)
-
-Сборная солянка с курицей, колбасой и каперсами. Солянка с грибами и картошкой. Солянка со свининой, копчёной колбасой, капустой и стручковой фасолью. Солянка сборная мясная с крупами.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22881)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Обычное по-необычному](https://www.russianfood.com/blogs/?id=325689) | _![](/images/blank.gif)_0 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22881#comments) | 16.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Насытят, согреют и подарят удовольствие.) Время СУПОВ (69)](https://www.russianfood.com/reading/?post_id=22879) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/697/sm_696393.jpg)](https://www.russianfood.com/reading/?post_id=22879)
-
-Бограч с грибами и макаронами. Суп с куриной печенью и рисом. Кукурузный крем-суп. Суп-пюре из тыквы с яблоком. Гречневый суп с клёцками.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22879)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22879#comments) | 16.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Кулинарная история с аппетитным сюжетом. Лучшие рецепты НА ВЫХОДНЫЕ №24-46](https://www.russianfood.com/reading/?post_id=22880) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/687/sm_686948.jpg)](https://www.russianfood.com/reading/?post_id=22880)
-
-Рыбные котлеты с беконом. Свиные рёбрышки с беконом в соке. Вареники с печенью и салом. Свинина в томатном соусе. Ржаная галета с картофелем и грибами. Куриные рулеты с ветчиной в тесте. Картошка-гармошка с сыром.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22880)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на выходные](https://www.russianfood.com/blogs/?id=325002) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22880#comments) | 16.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Новый взгляд на новогоднее меню. Лучшие рецепты на Новый год (87)](https://www.russianfood.com/reading/?post_id=22877) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/718/sm_717776.jpg)](https://www.russianfood.com/reading/?post_id=22877)
-
-Кобб-салат с тунцом. Настойка на цитрусах. Жюльен с креветками и грибами. Голубцы под соусом бешамель. Десерт с персиками и сгущенкой.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22877)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты на Новый год](https://www.russianfood.com/blogs/?id=338420) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22877#comments) | 15.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Для прессы<br><br>[Насладимся вкусной рыбкой! Лучшие рецепты из РЫБЫ (27)](https://www.russianfood.com/reading/?post_id=22878) |     |
-
-[![](//img1.russianfood.com/dycontent/images_upl/697/sm_696814.jpg)](https://www.russianfood.com/reading/?post_id=22878)
-
-Рыба с яблоком и брынзой. Рыбные котлеты с квашеной капустой. Пирог с копчёной скумбрией и рисом. Чечевичный суп-пюре с рыбой. Рыба с грибами в сливочном соусе.
-
-[Читать дальше...](https://www.russianfood.com/reading/?post_id=22878)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Лучшие рецепты ВОВРЕМЯ](https://www.russianfood.com/blogs/?id=394496) | _![](/images/blank.gif)_1 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/reading/?post_id=22878#comments) | 15.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Крамбл с грушей, миндалём и фисташками](https://www.russianfood.com/recipes/recipe.php?rid=174636) |     |
-
-[![Фото к рецепту: Крамбл с грушей, миндалём и фисташками](//img1.russianfood.com/dycontent/images_upl/751/sm_750391.jpg "Фото к рецепту: Крамбл с грушей, миндалём и фисташками")](https://www.russianfood.com/recipes/recipe.php?rid=174636)
-
-Крамбл с грушей, миндалём и фисташками - простое лакомство, с приготовлением которого справится даже начинающий кулинар. Кусочки груши сперва тушатся с добавлением мускатного ореха и корицы, что придаёт десерту аппетитный аромат. Поверх груш распределяются два вида измельчённых орехов и песочная крошка. Верхний слой получается хрустящим, а под ним скрываются нежные груши.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174636)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [ДЕСЕРТация](https://www.russianfood.com/blogs/?id=421376) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174636#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Лазанья-рататуй](https://www.russianfood.com/recipes/recipe.php?rid=174563) |     |
-
-[![Фото к рецепту: Лазанья-рататуй](//img1.russianfood.com/dycontent/images_upl/745/sm_744021.jpg "Фото к рецепту: Лазанья-рататуй")](https://www.russianfood.com/recipes/recipe.php?rid=174563)
-
-Лазанья-рататуй – аппетитный повод попробовать сразу два блюда. На отваренные листы лазаньи выкладываются не мясной фарш и белый соус бешамель, а овощное ассорти, которое напоминает по составу рататуй. Небанально, не очень сложно и крайне вкусно!
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174563)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Воскресное блюдоедство](https://www.russianfood.com/blogs/?id=421071) | _![](/images/blank.gif)_3 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174563#comments) | 14.11.24 |     |
-
-|     |     |
-| --- | --- |
-| Рецепты<br><br>[Томатный суп с рыбными фрикадельками](https://www.russianfood.com/recipes/recipe.php?rid=174570) |     |
-
-[![Фото к рецепту: Томатный суп с рыбными фрикадельками](//img1.russianfood.com/dycontent/images_upl/745/sm_744542.jpg "Фото к рецепту: Томатный суп с рыбными фрикадельками")](https://www.russianfood.com/recipes/recipe.php?rid=174570)
-
-Рыбное филе измельчается в фарш с луком, чесноком и зеленью и смешивается с яйцом и специями. Из такого фарша с помощью чайных ложек формируются фрикадельки, которые добавляются в томатный суп с картофелем и сладким перцем в конце варки. Суп получается достаточно сытным, ароматным и вкусным.
-
-[Подробнее...](https://www.russianfood.com/recipes/recipe.php?rid=174570)  
-
-|     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- |
-|     | [Безсупажизнинет](https://www.russianfood.com/blogs/?id=422075) | _![](/images/blank.gif)_4 _![](/images/blank.gif)_0 |     | [0](https://www.russianfood.com/recipes/recipe.php?rid=174570#comments) | 14.11.24 |     |
 
 |     |
 | --- |
@@ -457,6 +457,15 @@
 |     |     |
 | [Подписаться письмом](mailto:home.cookery.prostierecepti-sub@subscribe.ru?subj=subscribe) |     |
 
+Новые рецепты:
+
+|     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- |
+| [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752744.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174820) | [![](//img1.russianfood.com/dycontent/images_upl/753/alt1_752725.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174819) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735502.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173382) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736258.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173388) | [![](//img1.russianfood.com/dycontent/images_upl/745/alt1_744618.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174167) | [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737940.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174173) | [![](//img1.russianfood.com/dycontent/images_upl/736/alt1_735481.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173384) |
+| [Салат с копчёной колбасой, овощами, кукурузой и сухариками](https://www.russianfood.com/recipes/recipe.php?rid=174820) | [Салат с копчёной колбасой, кукурузой, горошком и солёными огурцами](https://www.russianfood.com/recipes/recipe.php?rid=174819) | [Грибная запеканка с луком](https://www.russianfood.com/recipes/recipe.php?rid=173382) | [Омлет на сметане, с грибами, луком и карри](https://www.russianfood.com/recipes/recipe.php?rid=173388) | [Куриные окорочка в медово-лимонном соусе](https://www.russianfood.com/recipes/recipe.php?rid=174167) | [Рис с грибами, зелёным горошком и беконом](https://www.russianfood.com/recipes/recipe.php?rid=174173) | [Ленивый плов с говядиной (в рукаве)](https://www.russianfood.com/recipes/recipe.php?rid=173384) |
+| [![](//img1.russianfood.com/dycontent/images_upl/738/alt1_737440.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=172997) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738248.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174077) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736303.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173386) | [![](//img1.russianfood.com/dycontent/images_upl/737/alt1_736194.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=173390) | [![](//img1.russianfood.com/dycontent/images_upl/751/alt1_750664.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174582) | [![](//img1.russianfood.com/dycontent/images_upl/739/alt1_738448.jpg)](https://www.russianfood.com/recipes/recipe.php?rid=174112) |
+| [Тефтели, тушенные в апельсиновом соусе с имбирём и чесноком](https://www.russianfood.com/recipes/recipe.php?rid=172997) | [Скумбрия, запечённая с помидорами и сладким перцем](https://www.russianfood.com/recipes/recipe.php?rid=174077) | [Трубочки из лаваша со скумбрией, помидорами и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=173386) | [Кукурузная каша с курагой, на сливках](https://www.russianfood.com/recipes/recipe.php?rid=173390) | [Салат с краснокочанной капустой, тыквой, яблоком и виноградом](https://www.russianfood.com/recipes/recipe.php?rid=174582) | [Отбивные из свинины с грибами, сладким перцем и сыром (в духовке)](https://www.russianfood.com/recipes/recipe.php?rid=174112) |
+
 |     |     |     |
 | --- | --- | --- |
 | ![](//img1.russianfood.com/images/common/bottom_line1.jpg) | ![](//img1.russianfood.com/images/common/bottom_line2.jpg) |     |
@@ -472,4 +481,4 @@
 
 Этот сайт использует файлы cookie, чтобы предоставить вам наилучший сервис. Оставаясь на сайте, вы соглашаетесь с [политикой сайта по обработке персональных данных](https://www.russianfood.com/blogs/?post_id=13800).СОГЛАСЕН
 
-(135)
+(115)
