@@ -18,6 +18,8 @@
     * [Milk & Cream](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
+        * [Eggnog](https://www.smithbrothersfarms.com/egg-nog)
+            
         * [Whole Milk](https://www.smithbrothersfarms.com/whole)
             
         * [2% Milk](https://www.smithbrothersfarms.com/2-reduced-fat)
@@ -42,6 +44,8 @@
     * [Yogurt](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
+        * [Kefir](https://www.smithbrothersfarms.com/kefir)
+            
         * [Greek Yogurt](https://www.smithbrothersfarms.com/greek)
             
         * [Traditional Yogurt](https://www.smithbrothersfarms.com/traditional)
@@ -190,13 +194,15 @@ Hi
         
     * [New! (79)](https://www.smithbrothersfarms.com/featured-products)
         
-    * [On Sale (57)](https://www.smithbrothersfarms.com/on-special)
+    * [On Sale (58)](https://www.smithbrothersfarms.com/on-special)
         
     * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
+        * [Eggnog (2)](https://www.smithbrothersfarms.com/egg-nog)
+            
         * [Whole Milk (5)](https://www.smithbrothersfarms.com/whole)
             
         * [2% Milk (5)](https://www.smithbrothersfarms.com/2-reduced-fat)
@@ -209,7 +215,7 @@ Hi
             
         * [Lactose Free Milk (2)](https://www.smithbrothersfarms.com/lactose-free-3)
             
-        * [Plant-Based Milk (12)](https://www.smithbrothersfarms.com/non-dairy-3)
+        * [Plant-Based Milk (15)](https://www.smithbrothersfarms.com/non-dairy-3)
             
         * [Half & Half, Creamers (17)](https://www.smithbrothersfarms.com/flavored-creamers)
             
@@ -221,6 +227,8 @@ Hi
     * [Yogurt (74)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
+        * [Kefir (2)](https://www.smithbrothersfarms.com/kefir)
+            
         * [Greek Yogurt (51)](https://www.smithbrothersfarms.com/greek)
             
         * [Traditional Yogurt (21)](https://www.smithbrothersfarms.com/traditional)
@@ -299,13 +307,13 @@ Hi
     * [Meals & Sides (80)](https://www.smithbrothersfarms.com/prepared-foods)
         
         * BACK
-        * [Frozen Meals (32)](https://www.smithbrothersfarms.com/entrees)
+        * [Frozen Meals (25)](https://www.smithbrothersfarms.com/entrees)
             
-        * [Sides & Appetizers (26)](https://www.smithbrothersfarms.com/sides-and-apps)
+        * [Sides & Appetizers (25)](https://www.smithbrothersfarms.com/sides-and-apps)
             
         * [Dips & Spreads (4)](https://www.smithbrothersfarms.com/dips-and-spreads-3)
             
-        * [Pizza & Pasta (12)](https://www.smithbrothersfarms.com/pasta)
+        * [Pizza & Pasta (20)](https://www.smithbrothersfarms.com/pasta)
             
         * [Sauces (6)](https://www.smithbrothersfarms.com/sauces-and-soups)
             
