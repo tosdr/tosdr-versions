@@ -76,7 +76,7 @@ article2 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances
 
 ### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
+article4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)[![What’s Up: November 2024 Skywatching Tips from NASA](https://science.nasa.gov/wp-content/uploads/2024/05/milkyway-desrt-tree-credit-preston-dyches-1.jpg)
 
 5 min read
 
@@ -259,7 +259,7 @@ article 3 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
 
-article 4 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/)
+article 5 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 4 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early
 
 ### Wearable Tech for Space Station Research
 
-article 4 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-tech-for-space-station-research/)[![An astronaut works with a glovebox experiment aboard the International Space Station. She stands in front of the enclosed equipment, reaching her hands into glove ports to manipulate materials inside the chamber.](https://www.nasa.gov/wp-content/uploads/2024/11/iss050e054455.jpg?w=1024)
 
 2 min read
 
@@ -291,7 +291,7 @@ article 1 week ago](https://www.nasa.gov/humans-in-space/commercial-space/leo-ec
 
 ### NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
-article 2 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 3 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
@@ -303,7 +303,7 @@ article 3 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 4 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
+article 5 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
 
 ### Highlights
 
@@ -347,7 +347,7 @@ article 3 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look
 
 ### NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way
 
-article 3 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)
+article 4 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-aftermath-of-galaxys-scrape-with-milky-way/)
 
 ### Highlights
 
@@ -363,7 +363,7 @@ article 2 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advance
 
 ### OSDR Chats with Dr Robert Reynolds
 
-article 2 days ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+article 3 days ago](https://www.nasa.gov/osdr-chats-with-dr-robert-reynolds/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
@@ -429,13 +429,13 @@ article 1 week ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-
 
 ### Student-Built Capsules Endure Heat of Re-entry for NASA Science
 
-article 1 week ago](https://www.nasa.gov/learning-resources/student-built-capsules/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
+article 2 weeks ago](https://www.nasa.gov/learning-resources/student-built-capsules/)[![Power to Explore STEM Writing Challenge](https://science.nasa.gov/wp-content/uploads/2024/08/l1006013-dl.jpg)
 
 2 min read
 
 ### Power to Explore STEM Writing Challenge
 
-article 1 week ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
+article 2 weeks ago](https://science.nasa.gov/planetary-science/programs/radioisotope-power-systems/power-to-explore-stem-writing-challenge/)
 
 ### Featured
 
@@ -451,7 +451,7 @@ article 3 days ago](https://www.nasa.gov/directorates/stmd/precision-pointing-go
 
 ### NASA Seeks Options for Future Headquarters Building
 
-article 3 days ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/)[![The crew of Apollo 12](https://www.nasa.gov/wp-content/uploads/2024/11/apollo-12-1-crew-photo-s69-38992.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/)[![The crew of Apollo 12](https://www.nasa.gov/wp-content/uploads/2024/11/apollo-12-1-crew-photo-s69-38992.jpg?w=1024)
 
 23 min read
 
