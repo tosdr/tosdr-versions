@@ -328,15 +328,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Nicholas Flamel was a real person who made it his life’s work to try to create a Philosopher’s Stone after learning about alchemy.
+Quidditch started in the 11th century at a place called Queerditch Marsh, which is not marked on Muggle maps because wizards have made the place unplottable. Originally, it was quite a crude game played on broomsticks with just the Quaffle.
 
 ### Potter History
 
-July 31, 2008 – It is announced that The Tales of Beedle the Bard, originally only to be read by the owners of the seven handwritten copies, would be published worldwide on December 4, with all proceeds being given to charity.
+January 17, 2005 – Rumors surfaced of a Harry Potter-themed restaurant, but they were quickly denied.
 
 ### Potter Quote
 
-“I wonder how you expect to gain an idea of my usual teaching methods if you continue to interrupt me? You see, I do not generally permit people to talk when I am talking.”
+“I’m three years older than you were when you fought You-Know– Who over the Sorcerer’s Stone and it’s because of me Malfoy’s stuck back in Umbridge’s office with giant flying bogeys attacking him!”
 
 [](#)
 
