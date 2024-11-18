@@ -149,6 +149,9 @@
     * [Product Release Notes
         
         LATEST FEATURES](https://docs.rapid7.com/release-notes/)
+    * [Interactive Product Tours
+        
+        TAKE TOUR](https://www.rapid7.com/product-tours/)
     
 * [Company](https://www.rapid7.com/about/company/)
     
@@ -358,6 +361,9 @@
     * [Product Release Notes
         
         LATEST FEATURES](https://docs.rapid7.com/release-notes/)
+    * [Interactive Product Tours
+        
+        TAKE TOUR](https://www.rapid7.com/product-tours/)
     
 * [Company](https://www.rapid7.com/about/company/)
     
