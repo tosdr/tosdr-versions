@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://www.theepochtimes.com/us/trump-appoints-fcc-commissioner-brendan-carr-as-agency-chair-5761419)
+    
+    3hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    
+    [![Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://img.theepochtimes.com/assets/uploads/2024/03/21/id5611758-EpochImages-2943775627-xl-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-appoints-fcc-commissioner-brendan-carr-as-agency-chair-5761419)
+* [Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
+    
+    4hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761398-Diabetes-205x123.jpg.webp)](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
+* [Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://www.theepochtimes.com/article/day-in-photos-a-winter-skate-sausage-walk-and-miss-universe-5761316)
+    
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    
+    [![Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761388-GettyImages-2184635149-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-winter-skate-sausage-walk-and-miss-universe-5761316)
+* [Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
+    
+    5hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    
+    [![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761393-Vivek-Ramaswamy-GettyImages-2177654712-205x123.jpg.webp)](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
 * [US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
     
-    NEW By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    6hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
     
     [![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760820-GettyImages-2181420414-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
+    ![US Urges Caution With Chinese Investments as CCP Opens Megaport in Peru](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761352-GettyImages-2181420414-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-urges-caution-with-chinese-investments-as-ccp-opens-megaport-in-peru-5760815)
 * [Russia Cuts Off Gas Supply to Austria](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    6hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
     [![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/uploads/2022/09/27/gazprom-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
+    ![Russia Cuts Off Gas Supply to Austria](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761336-gazprom-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/russia-cuts-off-gas-supply-to-austria-5761254)
 * [Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://www.theepochtimes.com/us/jay-bhattacharya-emerges-as-top-contender-for-nih-chief-5761243)
     
-    NEW By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    7hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
     [![Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Jay Bhattacharya Emerges as Top Contender for NIH Chief](https://img.theepochtimes.com/assets/uploads/2021/11/15/Jay-Bhattachary-205x123.jpg.webp)](https://www.theepochtimes.com/us/jay-bhattacharya-emerges-as-top-contender-for-nih-chief-5761243)
 * [NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://www.theepochtimes.com/us/nyc-officials-call-on-whoopi-goldberg-to-apologize-after-she-said-bakery-denied-order-for-political-reasons-5761253)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![NYC Officials Call on Whoopi Goldberg to Apologize After She Said Bakery Denied Order for Political Reasons](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761299-1.download-11KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/nyc-officials-call-on-whoopi-goldberg-to-apologize-after-she-said-bakery-denied-order-for-political-reasons-5761253)
 * [Biden Visits Amazon in Brazil to Champion His Climate Agenda](https://www.theepochtimes.com/us/biden-visits-amazon-in-brazil-to-champion-his-climate-agenda-5761237)
     
-    2hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    8hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Biden Visits Amazon in Brazil to Champion His Climate Agenda](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Visits Amazon in Brazil to Champion His Climate Agenda](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761332-Biden-visits-Amazon-GettyImages-2184635301-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-visits-amazon-in-brazil-to-champion-his-climate-agenda-5761237)
 * [Trump Selection Pete Hegseth Denies Allegations of Assault, Tattoo Claims](https://www.theepochtimes.com/us/trump-selection-pete-hegseth-defends-against-allegations-of-assault-tattoo-claims-5761235)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    9hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![Trump Selection Pete Hegseth Denies Allegations of Assault, Tattoo Claims](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Selection Pete Hegseth Denies Allegations of Assault, Tattoo Claims](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761328-GettyImages-1237488142-e1731871980624-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selection-pete-hegseth-defends-against-allegations-of-assault-tattoo-claims-5761235)
-* [With Election Decided, School Choice Advocates See Opportunities Ahead](https://www.theepochtimes.com/us/with-election-decided-school-choice-advocates-see-opportunities-ahead-5756764)
-    
-    4hr By [Aaron Gifford](https://www.theepochtimes.com/author/aaron-gifford)
-    
-    [![With Election Decided, School Choice Advocates See Opportunities Ahead](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![With Election Decided, School Choice Advocates See Opportunities Ahead](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761334-washington-state-school-closure-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/with-election-decided-school-choice-advocates-see-opportunities-ahead-5756764)
-* [Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://www.theepochtimes.com/health/leukemia-symptoms-causes-treatments-and-natural-approaches-5756032)
-    
-    7hr By [Mercura Wang](https://www.theepochtimes.com/author/mercura-wang)
-    
-    [![Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Leukemia: The Most Prevalent Cancer in Children, With 11 Main Symptoms](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759946-Leukemia-205x123.jpg.webp)](https://www.theepochtimes.com/health/leukemia-symptoms-causes-treatments-and-natural-approaches-5756032)
-* [New Monkey Pox Strain Detected in US for First Time](https://www.theepochtimes.com/health/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
-    
-    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
-    
-    [![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![New Monkey Pox Strain Detected in US for First Time](https://img.theepochtimes.com/assets/uploads/2024/11/id5760988-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/health/new-monkey-pox-strain-detected-in-us-for-first-time-5761103)
-* [At Least 8 Killed, 17 Injured in Mass Stabbing Attack in China](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
-    
-    8hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
-    
-    [![At Least 8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![At Least 8 Killed, 17 Injured in Mass Stabbing Attack in China](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761108-stabbing-205x123.jpg.webp)](https://www.theepochtimes.com/china/8-killed-17-injured-in-mass-stabbing-attack-in-china-5761106)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
