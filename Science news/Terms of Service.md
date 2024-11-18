@@ -114,7 +114,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+            
+            ### [Some people don’t have a mind’s eye. Scientists want to know why](https://www.sciencenews.org/article/minds-eye-brain-aphantasia-imagination)
+            
+            By [Laura Sanders](https://www.sciencenews.org/author/laura-sanders "Posts by Laura Sanders")2 hours ago
+            
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
             
@@ -125,12 +131,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [Stray DNA is all around us. It could revolutionize conservation](https://www.sciencenews.org/article/edna-environmental-conservation)
             
             By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 14, 2024
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [A twisted protein sheds light on chronic wasting disease in deer](https://www.sciencenews.org/article/chronic-wasting-disease-deer-prion)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 12, 2024
             
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
