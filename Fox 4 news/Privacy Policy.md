@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Biden OKs long-range missiles for Ukraine's war against Russia, sources tell AP](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2184052797-scaled.jpg?ve=1&tl=1)
+ [![Trump's cabinet: Who he's picked so far and which positions remain open](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183887435-scaled.jpg?ve=1&tl=1)
 
- ![Biden OKs long-range missiles for Ukraine's war against Russia, sources tell AP](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2184052797-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/biden-long-range-missiles-ukraine-russia)
+ ![Trump's cabinet: Who he's picked so far and which positions remain open](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183887435-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-appointments-so-far-november-17-2024)
 
-### [Biden OKs long-range missiles for Ukraine's war against Russia, sources tell AP](https://www.fox4news.com/news/biden-long-range-missiles-ukraine-russia)
+### [Trump's cabinet: Who he's picked so far and which positions remain open](https://www.fox4news.com/news/trump-cabinet-appointments-so-far-november-17-2024)
 
- [![Police investigate fatal shooting in North Fort Worth](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1)
+ [![The Dallas Wings win the WNBA draft lottery, earning the No. 1 pick next year](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185030521.jpg?ve=1&tl=1)
 
- ![Police investigate fatal shooting in North Fort Worth](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/Fort-Worth-Police-generic-Fort-Worth-PD-FWPD-logo.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/police-investigate-fatal-shooting-north-fort-worth)
+ ![The Dallas Wings win the WNBA draft lottery, earning the No. 1 pick next year](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185030521.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/dallas-wings-win-wnba-draft-lottery-earning-no-1-pick-next-year)
 
-### [Police investigate fatal shooting in North Fort Worth](https://www.fox4news.com/news/police-investigate-fatal-shooting-north-fort-worth)
+### [The Dallas Wings win the WNBA draft lottery, earning the No. 1 pick next year](https://www.fox4news.com/sports/dallas-wings-win-wnba-draft-lottery-earning-no-1-pick-next-year)
 
- [![Oklahoma schools chief wants to make students watch announcement of new religious department](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-56769424-scaled.jpg?ve=1&tl=1)
+ [![Southwest Airlines plane shot: Family on board describes experience](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111624-sh-dpd-shooting-herb-kelleher-way-love-fiel_00.06.04.04.jpg?ve=1&tl=1)
 
- ![Oklahoma schools chief wants to make students watch announcement of new religious department](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-56769424-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/oklahoma-ryan-walters-religious-department)
+ ![Southwest Airlines plane shot: Family on board describes experience](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111624-sh-dpd-shooting-herb-kelleher-way-love-fiel_00.06.04.04.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/southwest-airlines-plane-shot-dallas-love-field-family)
 
-### [Oklahoma schools chief wants to make students watch announcement of new religious department](https://www.fox4news.com/news/oklahoma-ryan-walters-religious-department)
+### [Dallas family describes being on Southwest Airlines plane struck by gunfire](https://www.fox4news.com/news/southwest-airlines-plane-shot-dallas-love-field-family)
 
- [![How much you need to make to afford a single-family home in most US cities](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/for-sale-1.jpg?ve=1&tl=1)
+ [![Why Texas Latinos voted for Donald Trump | Texas: The Issue Is](https://images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/11/32/18/gettyimages-2167172436-1.jpg?ve=1&tl=1)
 
- ![How much you need to make to afford a single-family home in most US cities](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/for-sale-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/how-much-you-need-make-to-buy-home-2024)
+ ![Why Texas Latinos voted for Donald Trump | Texas: The Issue Is](https://images.foxtv.com/images.foxtv.com/static.fox26houston.com/www.fox26houston.com/content/uploads/2024/11/32/18/592/333/gettyimages-2167172436-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/why-texas-latinos-voted-donald-trump-texas-issue-is)
 
-### [How much you need to make to afford a single-family home in most US cities](https://www.fox4news.com/news/how-much-you-need-make-to-buy-home-2024)
+### [Why Texas Latinos voted for Donald Trump | Texas: The Issue Is](https://www.fox4news.com/news/why-texas-latinos-voted-donald-trump-texas-issue-is)
 
- [![‘The Voice’ winner Sundance Head recovers at home after being accidentally shot on his Texas ranch](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-630105920.jpg?ve=1&tl=1)
+ [![Dallas weather: Storms expected Sunday night, Monday morning](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gclnusswsaanj0w.jpg?ve=1&tl=1)
 
- ![‘The Voice’ winner Sundance Head recovers at home after being accidentally shot on his Texas ranch](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-630105920.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/the-voice-winner-sundance-head-recovers-home-after-being-accidentally-shot-his-texas-ranch)
+ ![Dallas weather: Storms expected Sunday night, Monday morning](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gclnusswsaanj0w.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/weather/dallas-weather-storms-sunday-monday-nov-17)
 
-### [‘The Voice’ winner Sundance Head recovers at home after being accidentally shot on his Texas ranch](https://www.fox4news.com/news/the-voice-winner-sundance-head-recovers-home-after-being-accidentally-shot-his-texas-ranch)
+### [Dallas weather: Storms expected Sunday night, Monday morning](https://www.fox4news.com/weather/dallas-weather-storms-sunday-monday-nov-17)
 
 ###### [News](https://www.fox4news.com/news)
 
