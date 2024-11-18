@@ -688,3 +688,13 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 * [Terms of Use](https://www.arkoselabs.com/legal/terms-of-use/ "Terms of Use")
 * [Privacy Policy](https://www.arkoselabs.com/legal/privacy-policy/ "Privacy Policy")
 * [Cookies](javascript:void(0); "Cookies")
+
+X
+
+Cyber threats are evolving—Arkose Labs is evolving faster. Learn about our latest releases.
+
+[Click Here](https://www.arkoselabs.com/blog/a-look-at-our-latest-feature-updates)
+
+                                               
+
+www.google.com
