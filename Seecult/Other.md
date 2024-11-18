@@ -257,96 +257,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzo...](https://www.mg-lj.si/si/razstave/3931/ozvezdja-mnogoterih-zelja-ob-vzhodnem-obzorju)
     
-    [10:00 10. Trienale sodobne umetnosti - U3, LJ](javascript:void(0);)
-    
-    **22.06.2024 | 10:00**
-    
-    Moderna galerija, Cankarjeva 15, Ljubljana
-    
-    **10\. TRIENALE SODOBNE UMETNOSTI - U3: PROTI TOKU ČASA** (21.6.-17.11.2024.)
-    
-    **Nika Autor**
-    
-    **Jaka Babnik**
-    
-    **Nataša Berk**
-    
-    **Viktor Bernik**
-    
-    **Maxime Berthou &  Mark Požlep**
-    
-    **Martin Bricelj Baraga**
-    
-    **Jasmina Cibic**
-    
-    **Ana Čavić**
-    
-    **Lana Čmajčanin**
-    
-    **DNLM**
-    
-    **Aleksandra Domanović**
-    
-    **name:**
-    
-    **Vadim Fishkin**
-    
-    **Jošt Franko**
-    
-    **Tomaž Furlan**
-    
-    **Ištvan Išt Huzjan**
-    
-    **Sanela Jahić**
-    
-    **Staš Kleindienst**
-    
-    **Andrea Knezović**
-    
-    **Polonca Lovšin**
-    
-    **The Nonument Group**
-    
-    **Gala Alica**
-    
-    **Marjetica Potrč**
-    
-    **Tobias Putrih**
-    
-    **Tjaša Rener**
-    
-    **Peter Rauch**
-    
-    **Maruša Sagadin**
-    
-    **Duba Sambolec**
-    
-    **Luka Savić**
-    
-    **Maja Smrekar**
-    
-    **Robertina Šebjanič**
-    
-    **Andrej Škufca**
-    
-    **Igor Štromajer**
-    
-    **Apolonija Šušteršič**
-    
-    **Ulay**
-    
-    **Tao G. Vrhovec Sambolec**
-    
-    **Matej Andraž Vogrinčič**
-    
-    **Nana Wolke**
-    
-    **Neja Zorzut**
-    
-    Kustos: **Tevž Logar**
-    
-    [https://www.mg-lj.si/si](https://www.mg-lj.si/si)
-    
     [10:00 Magičnost drevnog - Venija Vučinić Turinski, BG](javascript:void(0);)
     
     **06.09.2024 | 10:00**
@@ -421,14 +331,26 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/marko-ubovic/marko-ubovic.jpg?itok=fiWbNiOQ)](http://seecult.org/galerija/galerija-umetnika/galerija-talenata/perspektive-art-klinike/marko-ubovic)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/sateni/zelena.jpg?itok=-sk835Vs)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/sateni)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/progresivne-nade-4/nina-simonovic.jpg?itok=XPsnrI0W)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/progresivne-nade-4)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/51-oktobarski-salon/erik-krikortz/emotional-cities02.jpg?itok=1HltlvQW)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/51-oktobarski-salon/erik-krikortz)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -444,16 +366,16 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Stare i nove reči](http://seecult.org/vest/stare-i-nove-reci)
+* [Izvanredan doprinos informatici](http://seecult.org/vest/izvanredan-doprinos-informatici)
 * [Dani srpskog filma u Helsinkiju](http://seecult.org/vest/dani-srpskog-filma-u-helsinkiju)
+* [Poboljšati status slobodnih umetnika](http://seecult.org/vest/poboljsati-status-slobodnih-umetnika)
 * [Glas promena koji podstiče kritičko razmišljanje](http://seecult.org/vest/glas-promena-koji-podstice-kriticko-razmisljanje)
 * [Ples, otpor, (ne)rad](http://seecult.org/vest/ples-otpor-nerad)
 * [Mladi i digitalno doba](http://seecult.org/vest/mladi-i-digitalno-doba)
 * [12\. Vizualizator – Re-kreacija vida](http://seecult.org/vest/12-vizualizator-re-kreacija-vida)
 * [Mala scena JDP-a – Studio Ćirilov](http://seecult.org/vest/mala-scena-jdp-studio-cirilov)
 * [Protest i apel dramskih umetnika](http://seecult.org/vest/protest-i-apel-dramskih-umetnika)
-* [Eksperimentisanje tradicijom](http://seecult.org/vest/eksperimentisanje-tradicijom)
-* [Jubilarni, 10. Festival nezavisnog američkog filma](http://seecult.org/vest/jubilarni-10-festival-nezavisnog-americkog-filma)
-* [Minut ćutanja za 14 žrtava](http://seecult.org/vest/minut-cutanja-za-14-zrtava)
 
 * [Konkursi](#tab1_1)
 
