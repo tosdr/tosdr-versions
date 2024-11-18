@@ -2,14 +2,14 @@ Monday, November 18 2024
 
 Breaking News
 
+* [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
+* [Now an Excellent Time to Add 4 more Justices of the Supreme Court](https://www.conservativedailynews.com/2024/11/now-an-excellent-time-to-add-4-more-justices-of-the-supreme-court/)
+* [Trump Confirms He Will Declare National Emergency, Use Military Assets For Mass Deportation](https://www.conservativedailynews.com/2024/11/trump-confirms-he-will-declare-national-emergency-use-military-assets-for-mass-deportation/)
+* [Baseless Assaults Will Fill The Airwaves Until Nominations Complete](https://www.conservativedailynews.com/2024/11/baseless-assaults-will-fill-the-airwaves-until-nominations-complete/)
+* [Medal of Honor Monday: Army Sgt. 1st Class Sammy Lee Davis](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-sgt-1st-class-sammy-lee-davis/)
+* [President Joe Biden’s Schedule for Monday, November 18, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-18-2024/)
 * [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/)
 * [Trump Gets Hero’s Welcome At NYC UFC Event |](https://www.conservativedailynews.com/2024/11/trump-gets-heros-welcome-at-nyc-ufc-event/)
-* [President Biden Delivers a Statement to the Press During Amazon Visit – 11/17/24](https://www.conservativedailynews.com/2024/11/president-biden-delivers-a-statement-to-the-press-during-amazon-visit-11-17-24/)
-* [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/)
-* [Democrats and their Media Poodles Officially Certify their Independence from Reality](https://www.conservativedailynews.com/2024/11/democrats-and-their-media-poodles-officially-certify-their-independence-from-reality/)
-* [President Joe Biden’s Schedule for Sunday, November 17, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-sunday-november-17-2024/)
-* [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/)
-* [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/)
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -130,67 +130,67 @@ Orange = One-Time Donations
 
 Recent Posts
 
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/01/Marjorie-Taylor-Greene-and-Matt-Gaetz-220x150.jfif)](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/04/crazy-donkey-democrat-left-huh-shock-1-220x150.png)](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
     
-    [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/)
+    [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![Donald Trump Joe Rogan UFC Fight 11-16-24](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Doanld-Trump-Joe-Rogan-UFC-Fight-11-16-24-220x150.png)](https://www.conservativedailynews.com/2024/11/trump-gets-heros-welcome-at-nyc-ufc-event/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2023/08/shock-ashamed-questioning-embarrassed-judgemental-1-220x150.jpg)](https://www.conservativedailynews.com/2024/11/now-an-excellent-time-to-add-4-more-justices-of-the-supreme-court/)
     
-    [Trump Gets Hero’s Welcome At NYC UFC Event |](https://www.conservativedailynews.com/2024/11/trump-gets-heros-welcome-at-nyc-ufc-event/)
+    [Now an Excellent Time to Add 4 more Justices of the Supreme Court](https://www.conservativedailynews.com/2024/11/now-an-excellent-time-to-add-4-more-justices-of-the-supreme-court/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2022/03/JOe-Biden-speech-14-220x150.png)](https://www.conservativedailynews.com/2024/11/president-biden-delivers-a-statement-to-the-press-during-amazon-visit-11-17-24/)
+* [![Joe Biden warmonger](https://www.conservativedailynews.com/wp-content/uploads/2023/01/stg012923dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/biden-caves-allows-ukraine-to-use-us-missiles-for-long-range-strikes-inside-russia/)
     
-    [President Biden Delivers a Statement to the Press During Amazon Visit – 11/17/24](https://www.conservativedailynews.com/2024/11/president-biden-delivers-a-statement-to-the-press-during-amazon-visit-11-17-24/)
+    [Biden Caves, Allows Ukraine To Use US Missiles For Long-Range Strikes Inside Russia](https://www.conservativedailynews.com/2024/11/biden-caves-allows-ukraine-to-use-us-missiles-for-long-range-strikes-inside-russia/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/Elon-Musk-Donald-Trump-220x150.jpg)](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2018/04/Border-partol-and-U.S.-military-on-border.jpg)](https://www.conservativedailynews.com/2024/11/trump-confirms-he-will-declare-national-emergency-use-military-assets-for-mass-deportation/)
     
-    [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/)
+    [Trump Confirms He Will Declare National Emergency, Use Military Assets For Mass Deportation](https://www.conservativedailynews.com/2024/11/trump-confirms-he-will-declare-national-emergency-use-military-assets-for-mass-deportation/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![Kamala Harris media bias 2024 election](https://www.conservativedailynews.com/wp-content/uploads/2024/08/stg081624dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/democrats-and-their-media-poodles-officially-certify-their-independence-from-reality/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/IMG_5781-220x150.jpeg)](https://www.conservativedailynews.com/2024/11/baseless-assaults-will-fill-the-airwaves-until-nominations-complete/)
     
-    [Democrats and their Media Poodles Officially Certify their Independence from Reality](https://www.conservativedailynews.com/2024/11/democrats-and-their-media-poodles-officially-certify-their-independence-from-reality/)
+    [Baseless Assaults Will Fill The Airwaves Until Nominations Complete](https://www.conservativedailynews.com/2024/11/baseless-assaults-will-fill-the-airwaves-until-nominations-complete/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-mn-tribreak-an-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/home-coming/)
+* [![Matt Gaetz department of Justice corruption](https://www.conservativedailynews.com/wp-content/uploads/2024/11/03-gaetz-doj-dt-1080-220x150.jpg)](https://www.conservativedailynews.com/2024/11/shovel-ready-job/)
     
-    [Home Coming](https://www.conservativedailynews.com/2024/11/home-coming/)
+    [Shovel Ready Job](https://www.conservativedailynews.com/2024/11/shovel-ready-job/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/06/Joe-Biden-air-force-one-220x150.jpg)](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-sunday-november-17-2024/)
+* [![](https://www.conservativedailynews.com/wp-content/uploads/2024/11/241113-A-D0439-0062M-220x150.jpg)](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-sgt-1st-class-sammy-lee-davis/)
     
-    [President Joe Biden’s Schedule for Sunday, November 17, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-sunday-november-17-2024/)
+    [Medal of Honor Monday: Army Sgt. 1st Class Sammy Lee Davis](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-sgt-1st-class-sammy-lee-davis/)
     
-    November 17, 2024
+    November 18, 2024
     
-* [![Kamala Harris division Trump is Hitler](https://www.conservativedailynews.com/wp-content/uploads/2024/10/stg102724dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/)
+* [![Bob Casey stole election](https://www.conservativedailynews.com/wp-content/uploads/2024/11/stg111824dAPR-220x150.jpg)](https://www.conservativedailynews.com/2024/11/stop-theif/)
     
-    [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/)
+    [Stop! Theif!](https://www.conservativedailynews.com/2024/11/stop-theif/)
     
-    November 16, 2024
+    November 18, 2024
     
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Michigan Using Gun-Free Zones To Subvert The Right To Carry](https://www.thegunpage.com/michigan-using-gun-free-zones-to-subvert-the-right-to-carry/10611954)
+* [Memphis City Leaders Just Keep Pushing Their Anti-Gun Schemes](https://www.thegunpage.com/memphis-city-leaders-just-keep-pushing-their-anti-gun-schemes/10611950)
+* [TFB Weekly Web Deals 114: Deals for November 18th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-114-deals-for-november-18th-2024/10611949)
+* [Pennsylvania District Attorney Suing To Allow Medical Marijuana Users Firearms Access](https://www.thegunpage.com/pennsylvania-district-attorney-suing-to-allow-medical-marijuana-users-firearms-access/10611948)
+* [Team Savage’s Matt Alwine Wins Production Division Title At 2024 PRS Finale](https://www.thegunpage.com/team-savages-matt-alwine-wins-production-division-title-at-2024-prs-finale/10611952)
+* [New Pistol Records Set At 2024 CMP Western Games](https://www.thegunpage.com/new-pistol-records-set-at-2024-cmp-western-games/10611953)
 * [Achieve Next-Level Training with the Strikeman X SIRT Dry-Fire Laser Training Pistol](https://www.thegunpage.com/achieve-next-level-training-with-the-strikeman-x-sirt-dry-fire-laser-training-pistol/10611940)
 * [Why Matt Gaetz Scares Democrats More Than Trump](https://www.thegunpage.com/why-matt-gaetz-scares-democrats-more-than-trump/10611936)
 * [From Irons To Optics In USPSA Competition](https://www.thegunpage.com/from-irons-to-optics-in-uspsa-competition/10611934)
 * [Canto Arms Releases the DL-44 Hero .22 Blaster](https://www.thegunpage.com/canto-arms-releases-the-dl-44-hero-22-blaster/10611931)
-* [Take Your Training Anywhere with the Strikeman Marksman Kit](https://www.thegunpage.com/take-your-training-anywhere-with-the-strikeman-marksman-kit/10611928)
-* [Idaho Elk Hunter Survives Grizzly Encounter](https://www.thegunpage.com/idaho-elk-hunter-survives-grizzly-encounter/10611918)
-* [Measuring Velocity With Math: Before Affordable Chronographs, There Was The Chronochart](https://www.thegunpage.com/measuring-velocity-with-math-before-affordable-chronographs-there-was-the-chronochart/10611917)
-* [TFB Review: Smith & Wesson M&P9 M2.0 Compact Carry Comp](https://www.thegunpage.com/tfb-review-smith-wesson-mp9-m2-0-compact-carry-comp/10611914)
-* [POTD: M16A4 In Rifle and Pistol Competition](https://www.thegunpage.com/potd-m16a4-in-rifle-and-pistol-competition/10611915)
-* [TFB Podcast Roundup 155: The November 15th Roundup](https://www.thegunpage.com/tfb-podcast-roundup-155-the-november-15th-roundup/10611916)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -232,6 +232,8 @@ Contact Us
 
 Recent Comments
 
+* Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
+* Stanley Warner on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783285)
 * Beverly Sellers on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783274)
 * Stanley Warner on [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/#comment-783269)
 * Stanley Warner on [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/#comment-783268)
@@ -239,8 +241,6 @@ Recent Comments
 * Ted Thomas on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783266)
 * Stanley Warner on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783259)
 * Stanley Warner on [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/#comment-783258)
-* [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783250)
-* [cotobuzz](http://www.cotobuzz.com/) on [Fair Weather Patriots are not Patriots. More like All Weather Perfidious](https://www.conservativedailynews.com/2024/11/fair-weather-patriots-are-not-patriots-more-like-all-weather-perfidious/#comment-783249)
 
 [Close](#)
 
