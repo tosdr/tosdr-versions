@@ -184,7 +184,8 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 
 ###### LATEST VIDEO
 
-* [**November 17, 2024 - PBS News Weekend full episode** | PBS News Hour](https://video.nhpbs.org/video/november-17-2024-pbs-news-weekend-full-episode-1731876836?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**The Animals of Marlow** | The Marlow Murder Club](https://video.nhpbs.org/video/the-animals-of-marlow-kuxm90?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
+* [**Why American evangelicals are staunch supporters of Israel** | PBS News Hour](https://video.nhpbs.org/video/evangelicals-and-israel-1731877978?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**2025 Chevrolet Equinox & 2025 Toyota Camry** | MotorWeek](https://video.nhpbs.org/video/2025-chevrolet-equinox-2025-toyota-camry-fki59f?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview Watermelon Vibes** | The Key Ingredient](https://video.nhpbs.org/video/preview-watermelon-vibes-o1nbhg?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Preview** | Vienna Blood](https://video.nhpbs.org/video/preview-kuzpc3?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
@@ -192,7 +193,6 @@ NHPBS inspires one million Granite Staters each month with engaging and trusted 
 * [**Brenda Lee: Rockin' Around** | American Masters](https://video.nhpbs.org/video/brenda-lee-rockin-around-wxcuaz?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**Kori Schake** | Firing Line](https://video.nhpbs.org/video/kori-schake-nna319?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 * [**: From Ordinary to Extraordinary (Teaser)** | Christa](https://video.nhpbs.org/video/christa-from-ordinary-to-extraordinary-teaser-lyf33w?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
-* [| The Precipice](https://video.nhpbs.org/video/the-precipice-tpPPlw?utm_source=nhpbs-footer-video&utm_medium=nhpbs-footer&utm_campaign=nhpbs-footer)
 
 **FCC Public File Info**: [WENH](https://publicfiles.fcc.gov/tv-profile/wenh-tv) | [WLED](https://publicfiles.fcc.gov/tv-profile/wled-tv) | [WEKW](https://publicfiles.fcc.gov/tv-profile/wekw-tv) | [EEO Public File Report](https://publicfiles.fcc.gov/tv-profile/wenh-tv/equal-employment-opportunity-records/additional-documents/eeo-public-file-reports/5d0f4964-7b9d-41c3-c658-a55a34730f8a/) | For assistance, please email [themailbox@nhpbs.org](mailto:themailbox@nhpbs.org)
 
