@@ -577,15 +577,15 @@ MENU MENU
     
     November 18, 2024
     
+    [Treasury International Capital Data for September](https://home.treasury.gov/news/press-releases/jy2717)
+    
+    November 18, 2024
+    
+    [Treasury Issues Final Regulations to Sharpen and Enhance CFIUS Procedures and Enforcement Authorities to Protect National Security](https://home.treasury.gov/news/press-releases/jy2716)
+    
+    November 18, 2024
+    
     [Treasury Targets Organization with Ties to Violent Actors in the West Bank](https://home.treasury.gov/news/press-releases/jy2715)
-    
-    November 14, 2024
-    
-    [Treasury Releases Report on Macroeconomic and Foreign Exchange Policies of Major Trading Partners of the United States](https://home.treasury.gov/news/press-releases/jy2714)
-    
-    November 14, 2024
-    
-    [Treasury Targets Syrian Conglomerate Funding Qods Force and Houthis](https://home.treasury.gov/news/press-releases/jy2712)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
