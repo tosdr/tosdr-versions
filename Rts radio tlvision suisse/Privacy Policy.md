@@ -161,9 +161,9 @@ MENU
 * [Accueil](https://www.rts.ch/entreprise/)
 * [ ]  Qui nous sommes
     
-    [Entreprise](https://www.rts.ch/entreprise/a-propos/)
+    [L'entreprise](https://www.rts.ch/entreprise/a-propos/)
     
-    [Offre](https://www.rts.ch/entreprise/l-offre-rts/)
+    [Notre offre](https://www.rts.ch/entreprise/l-offre-rts/)
     
 * [Coulisses](https://www.rts.ch/entreprise/coulisses-rts/)
 * [Nous rejoindre](https://jobs.rts.ch/fr/emplois-carriere/)
@@ -173,9 +173,9 @@ MENU
     
      Qui nous sommes
     
-    [Entreprise](https://www.rts.ch/entreprise/a-propos/)
+    [L'entreprise](https://www.rts.ch/entreprise/a-propos/)
     
-    [Offre](https://www.rts.ch/entreprise/l-offre-rts/)
+    [Notre offre](https://www.rts.ch/entreprise/l-offre-rts/)
     
     [Coulisses](https://www.rts.ch/entreprise/coulisses-rts/)
     
