@@ -41,7 +41,7 @@ Header - Shapes Theme
     
 * Merch
     
-    * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/DSC_1113_1.jpg?v=1730739040&width=700)
+    * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/CardFront.png?v=1731949431&width=700)
         
         2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
     * [![GREY T-SHIRT WITH BLUE FONT](//www.unspeakable.com/cdn/shop/files/DSC_1088.jpg?v=1729534063&width=700)
