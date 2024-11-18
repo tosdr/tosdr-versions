@@ -40,7 +40,7 @@ Parents and School Administrators >
                     
                     Whole-school solutions that meet your unique needs
                     
-                * [Businesses](https://factsmgt.com/corporate-learning-solutions/)
+                * [Businesses](https://factsmgt.com/markets/corporate-learning-solutions/)
                     
                     A growth-oriented, customized development program
                     
@@ -54,9 +54,9 @@ Parents and School Administrators >
                 
                 [Contact Sales](https://factsmgt.com/contact-sales/)
                 
-* Markets
+* Industries
     * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
-    * [Business Learning Solutions](https://factsmgt.com/corporate-learning-solutions/)
+    * [Business Learning Solutions](https://factsmgt.com/markets/corporate-learning-solutions/)
     * [Faith Community Solutions](https://factsmgt.com/markets/faith-community-software/)
 * Resources
     * [Insights](https://factsmgt.com/insights/)
@@ -171,7 +171,7 @@ BY USING THIS WEBSITE, YOU: (A) ASSUME ALL RISKS OF LOSSES OR DAMAGES RESULTING 
 
 * Markets
 * [K-12 School Software and Services](https://factsmgt.com/markets/k-12-schools/)
-* [Business Learning Solutions](https://factsmgt.com/corporate-learning-solutions/)
+* [Business Learning Solutions](https://factsmgt.com/markets/corporate-learning-solutions/)
 * [Faith Community Software](https://factsmgt.com/markets/faith-community-software/)
 
 * Resources
