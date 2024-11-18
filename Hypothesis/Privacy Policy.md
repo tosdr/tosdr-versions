@@ -8,7 +8,7 @@
     * [Everyone![people icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161335/Group-121-12.svg)](https://web.hypothes.is/everyone/)
     * [Business![briefcase icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161036/Nav-Careers.svg)](https://web.hypothes.is/business/)
     * [Research![magnifying glass icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161341/Group-1211-2.svg)](https://web.hypothes.is/research/ "Annotation for researchers")
-    * [Pricing Page![comment bubble icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161038/Nav-Press.svg)](https://web.hypothes.is/pricing-4/)
+    * [Pricing![comment bubble icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161038/Nav-Press.svg)](https://web.hypothes.is/pricing-page/)
 * [About Us](https://web.hypothes.is/about/ "Learn more about Hypothesis")
     * [Overview![book icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161029/Nav-Overview.svg)](https://web.hypothes.is/about/ "Learn more about Hypothesis")
     * [Team![people icon](https://d242fdlp0qlcia.cloudfront.net/uploads/2023/06/28161039/Nav-Team.svg)](https://web.hypothes.is/team/ "Meet the Hypothesis team")
