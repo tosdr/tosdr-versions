@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![Bento Junior Pexe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256260.thumb.jpeg.dcecbc92a425d7d021b0e0c0195f56bb.jpeg)](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")
+    * [![Isopor7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256267.thumb.jpeg.8514b0c119b6df01b7f848661ddbe5f8.jpeg)](https://www.clubedohardware.com.br/profile/1256267-isopor7/ "Ir ao perfil de Isopor7")
         
         0
+        
+        [Tenho um fone Qcy HT05](https://www.clubedohardware.com.br/forums/topic/1702645-tenho-um-fone-qcy-ht05/?do=getNewComment "Tenho um fone Qcy HT05")
+        
+        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
+        Por [Isopor7](https://www.clubedohardware.com.br/profile/1256267-isopor7/ "Ir ao perfil de Isopor7")  
+        6 minutos atrás
+        
+    * [![CristianCDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247041.thumb.jpeg.d087c51a2322ac7f4e0e8a325ce3d158.jpeg)](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")
+        
+        0
+        
+        [HyperX Cloud III wireless vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702644-hyperx-cloud-iii-wireless-vale-a-pena/?do=getNewComment "HyperX Cloud III wireless vale a pena?")
+        
+        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
+        Por [CristianCDS](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")  
+        42 minutos atrás
+        
+    * [![Lucas Danzer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256265.thumb.png.5ea556222700beeba120ded168c50424.png)](https://www.clubedohardware.com.br/profile/1256265-lucas-danzer/ "Ir ao perfil de Lucas Danzer")
+        
+        1
+        
+        [Usei o comando do CMD na memória RAM e agora não dá mais tela](https://www.clubedohardware.com.br/forums/topic/1702643-usei-o-comando-do-cmd-na-mem%C3%B3ria-ram-e-agora-n%C3%A3o-d%C3%A1-mais-tela/?do=getNewComment "Usei o comando do CMD na memória RAM e agora não dá mais tela")
+        
+        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
+        Por [Lucas Danzer](https://www.clubedohardware.com.br/profile/1256265-lucas-danzer/ "Ir ao perfil de Lucas Danzer")  
+        59 minutos atrás
+        
+    * [![BuX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626cc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/375397-bux/ "Ir ao perfil de BuX")
+        
+        1
+        
+        [Mini system Philips FWM 396 com baixa visibilidade no display](https://www.clubedohardware.com.br/forums/topic/1702641-mini-system-philips-fwm-396-com-baixa-visibilidade-no-display/?do=getNewComment "Mini system Philips FWM 396 com baixa visibilidade no display")
+        
+        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
+        Por [BuX](https://www.clubedohardware.com.br/profile/375397-bux/ "Ir ao perfil de BuX")  
+        1 hora atrás
+        
+    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
+        
+        1
+        
+        [Fonte de 400W até R$ 250,00 para Core i7-4790K e GeForce GTX 1660 Super](https://www.clubedohardware.com.br/forums/topic/1702640-fonte-de-400w-at%C3%A9-r-25000-para-core-i7-4790k-e-geforce-gtx-1660-super/?do=getNewComment "Fonte de 400W até R$ 250,00 para Core i7-4790K e GeForce GTX 1660 Super")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
+        2 horas atrás
+        
+    * [![Adriano82](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256262.thumb.jpeg.ab34c87ececc425ef7c2ce59ee80acf0.jpeg)](https://www.clubedohardware.com.br/profile/1256262-adriano82/ "Ir ao perfil de Adriano82")
+        
+        1
+        
+        [Como utilizar a placa de áudio Philco KP686 como amplificador?](https://www.clubedohardware.com.br/forums/topic/1702638-como-utilizar-a-placa-de-%C3%A1udio-philco-kp686-como-amplificador/?do=getNewComment "Como utilizar a placa de áudio Philco KP686 como amplificador?")
+        
+        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
+        Por [Adriano82](https://www.clubedohardware.com.br/profile/1256262-adriano82/ "Ir ao perfil de Adriano82")  
+        4 horas atrás
+        
+    * [![guilherme noan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256261.thumb.png.29fbeba72396dc3e72af925f996a5b75.png)](https://www.clubedohardware.com.br/profile/1256261-guilherme-noan/ "Ir ao perfil de guilherme noan")
+        
+        4
+        
+        [Indicações de Water Cooler de 240mm para Ryzen 7 5700X3D de até R$700,00](https://www.clubedohardware.com.br/forums/topic/1702637-indica%C3%A7%C3%B5es-de-water-cooler-de-240mm-para-ryzen-7-5700x3d-de-at%C3%A9-r70000/?do=getNewComment "Indicações de Water Cooler de 240mm para Ryzen 7 5700X3D de até R$700,00")
+        
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [guilherme noan](https://www.clubedohardware.com.br/profile/1256261-guilherme-noan/ "Ir ao perfil de guilherme noan")  
+        4 horas atrás
+        
+    * [![Bento Junior Pexe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256260.thumb.jpeg.dcecbc92a425d7d021b0e0c0195f56bb.jpeg)](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")
+        
+        1
         
         [qual memória RAM para o kit ASUS Z790-BTF DDR5 e I9 12900k](https://www.clubedohardware.com.br/forums/topic/1702636-qual-mem%C3%B3ria-ram-para-o-kit-asus-z790-btf-ddr5-e-i9-12900k/?do=getNewComment "qual memória RAM para o kit  ASUS Z790-BTF DDR5 e I9 12900k")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
         Por [Bento Junior Pexe](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")  
-        37 minutos atrás
+        6 horas atrás
         
     * [![Victoraguiar81](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256258.thumb.png.32ca93dea4f051a75e4884838224127d.png)](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")
         
-        0
+        1
         
         [Notebook reiniciando sempre na desfragmentação do HD](https://www.clubedohardware.com.br/forums/topic/1702635-notebook-reiniciando-sempre-na-desfragmenta%C3%A7%C3%A3o-do-hd/?do=getNewComment "Notebook reiniciando sempre na desfragmentação do HD")
         
         [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
         Por [Victoraguiar81](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")  
-        1 hora atrás
+        7 horas atrás
         
     * [![Nexstep](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/05f2c41c5e044ef8d8f2ba5c9140dbd1.thumb.jpg.33b2db8449f71b37677d4b12384b27e0.jpg)](https://www.clubedohardware.com.br/profile/717315-nexstep/ "Ir ao perfil de Nexstep")
         
-        0
+        2
         
-        [QuadChannel vale a pena ?](https://www.clubedohardware.com.br/forums/topic/1702634-quadchannel-vale-a-pena/?do=getNewComment "QuadChannel vale a pena ?")
+        [Usar QuadChannel vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702634-usar-quadchannel-vale-a-pena/?do=getNewComment "Usar QuadChannel vale a pena?")
         
         [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
         Por [Nexstep](https://www.clubedohardware.com.br/profile/717315-nexstep/ "Ir ao perfil de Nexstep")  
-        2 horas atrás
-        
-    * [![Bellini](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23aa62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256204-bellini/ "Ir ao perfil de Bellini")
-        
-        0
-        
-        [Pino torto na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1702633-pino-torto-na-placa-m%C3%A3e/?do=getNewComment "Pino torto na placa-mãe")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Bellini](https://www.clubedohardware.com.br/profile/1256204-bellini/ "Ir ao perfil de Bellini")  
-        2 horas atrás
-        
-    * [![Carlos Reis.](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a862c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ECR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256255-carlos-reis/ "Ir ao perfil de Carlos Reis.")
-        
-        1
-        
-        [Gabinete Montech X3 MESH](https://www.clubedohardware.com.br/forums/topic/1702632-gabinete-montech-x3-mesh/?do=getNewComment "Gabinete Montech X3 MESH")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Carlos Reis.](https://www.clubedohardware.com.br/profile/1256255-carlos-reis/ "Ir ao perfil de Carlos Reis.")  
-        3 horas atrás
-        
-    * [![Anarcus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256253.thumb.png.cc5c715103e677c240e994a35dfc7c44.png)](https://www.clubedohardware.com.br/profile/1256253-anarcus/ "Ir ao perfil de Anarcus")
-        
-        1
-        
-        [Indicação de Gabinete até R$600,00?](https://www.clubedohardware.com.br/forums/topic/1702631-indica%C3%A7%C3%A3o-de-gabinete-at%C3%A9-r60000/?do=getNewComment "Indicação de Gabinete até R$600,00?")
-        
-        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
-        Por [Anarcus](https://www.clubedohardware.com.br/profile/1256253-anarcus/ "Ir ao perfil de Anarcus")  
-        4 horas atrás
-        
-    * [![Ramiro Tonoli](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256252.thumb.png.7e3ab717c1f4efbbae899a70a44b199d.png)](https://www.clubedohardware.com.br/profile/1256252-ramiro-tonoli/ "Ir ao perfil de Ramiro Tonoli")
-        
-        0
-        
-        [memória Ram defeito ou não](https://www.clubedohardware.com.br/forums/topic/1702630-mem%C3%B3ria-ram-defeito-ou-n%C3%A3o/?do=getNewComment "memória Ram defeito ou não")
-        
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Ramiro Tonoli](https://www.clubedohardware.com.br/profile/1256252-ramiro-tonoli/ "Ir ao perfil de Ramiro Tonoli")  
-        4 horas atrás
-        
-    * [![Leob1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1246114.thumb.png.297a8173aaec954f1bfbdc25aa48bb5d.png)](https://www.clubedohardware.com.br/profile/1246114-leob1/ "Ir ao perfil de Leob1")
-        
-        0
-        
-        [Qual 4060 ti comprar?](https://www.clubedohardware.com.br/forums/topic/1702629-qual-4060-ti-comprar/?do=getNewComment "Qual 4060 ti comprar?")
-        
-        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
-        Por [Leob1](https://www.clubedohardware.com.br/profile/1246114-leob1/ "Ir ao perfil de Leob1")  
-        4 horas atrás
-        
-    * [![Kaio154](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256250.thumb.png.8e166254141f724bd2dfc95c52ec1061.png)](https://www.clubedohardware.com.br/profile/1256250-kaio154/ "Ir ao perfil de Kaio154")
-        
-        1
-        
-        [Qual cooler devo escolher](https://www.clubedohardware.com.br/forums/topic/1702628-qual-cooler-devo-escolher/?do=getNewComment "Qual cooler devo escolher")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [Kaio154](https://www.clubedohardware.com.br/profile/1256250-kaio154/ "Ir ao perfil de Kaio154")  
-        5 horas atrás
-        
-    * [![Endmmans](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/imported-photo-1058066.thumb.png.abb5d2dc799c8d7a2d0c8328a6d432f2.png)](https://www.clubedohardware.com.br/profile/1058066-endmmans/ "Ir ao perfil de Endmmans")
-        
-        1
-        
-        [É possível usar o Ryzen 7 9700X com memórias a 6000Mhz em uma B650M Aorus Elite?](https://www.clubedohardware.com.br/forums/topic/1702627-%C3%A9-poss%C3%ADvel-usar-o-ryzen-7-9700x-com-mem%C3%B3rias-a-6000mhz-em-uma-b650m-aorus-elite/?do=getNewComment "É possível usar o Ryzen 7 9700X com memórias a 6000Mhz em uma B650M Aorus Elite?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Endmmans](https://www.clubedohardware.com.br/profile/1058066-endmmans/ "Ir ao perfil de Endmmans")  
-        5 horas atrás
+        8 horas atrás
         
     
 
@@ -390,10 +390,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&noscript=1)
