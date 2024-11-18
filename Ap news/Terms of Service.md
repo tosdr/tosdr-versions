@@ -582,7 +582,7 @@ The Services may permit you to access content as services belonging to third par
 **About AP Buyline**  
   
 **What is AP Buyline?**  
-AP Buyline ([Personal Finance](https://apnews.com/buyline-personal-finance/), [Shopping](https://apnews.com/hub/shopping)) is an initiative designed to simplify complex consumer-made decisions by providing its audience with reliable evaluations and straightforward insights. AP Buyline’s aim is to craft every piece of content to be impartial, accurate and comprehensive. AP Buyline content is created by Taboola.com Ltd. in accordance with AP’s editorial and content guidelines and under the supervision of AP Staff. The AP Buyline web site is hosted and maintained by Taboola and co-managed by AP and Taboola.  
+AP Buyline ([Personal Finance](https://apnews.com/buyline-personal-finance/), [Shopping](https://apnews.com/buyline-shopping/)) is an initiative designed to simplify complex consumer-made decisions by providing its audience with reliable evaluations and straightforward insights. AP Buyline’s aim is to craft every piece of content to be impartial, accurate and comprehensive. AP Buyline content is created by Taboola.com Ltd. in accordance with AP’s editorial and content guidelines and under the supervision of AP Staff. The AP Buyline web site is hosted and maintained by Taboola and co-managed by AP and Taboola.  
   
 **The AP Buyline mission:**  
   
