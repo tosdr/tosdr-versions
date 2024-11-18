@@ -26,7 +26,7 @@ Wasabi Service Level Agreement
   
   
 
-[Company](https://wasabi.com/legal/sla#)
+[Company](https://wasabi.com/legal/sla?gad_source=1&gbraid=0AAAAADLl6T4yg19bk-1K_0A6ksDn2uqzO&gclid=EAIaIQobChMIpYXQzqTmiQMVdSfUAR11rDb6EAAYASAAEgIwtvD_BwE&hsa_acc=5541186137&hsa_ad=372562792519&hsa_cam=908863812&hsa_grp=44794144989&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_src=g&hsa_tgt=dsa-348214204025&hsa_ver=3&utm_campaign=Primary%20-%20DSA%20-%20USA&utm_medium=ppc&utm_source=adwords&utm_term=#)
 
 * [About Wasabi](https://wasabi.com/company)
     
