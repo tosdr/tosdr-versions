@@ -20,7 +20,9 @@ Update
 
 Check out
 
-Free UK Shipping with orders over £50
+[Shop 3 FOR 2 on all Supplements](https://puresportcbd.com/en-us/collections)
+
+[Free Running Club Cap with orders over £75](https://puresportcbd.com/en-us/collections)
 
 [Rated average 4.9 stars (6005 reviews)](https://puresportcbd.com/en-us/pages/reviews)
 
@@ -33,7 +35,7 @@ Free UK Shipping with orders over £50
     * [SUPPLEMENTS](https://puresportcbd.com/en-us#)
     * Enhance performance, improve endurance and reduce pain.
         
-    * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
+    * [SHOP ALL (3 FOR 2)](https://puresportcbd.com/en-us/collections/all)
     * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
     * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
     * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
@@ -59,12 +61,13 @@ Free UK Shipping with orders over £50
     * [COLLECTIONS](https://puresportcbd.com/en-us#)
         * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
+    [![](//puresport.co/cdn/shop/files/4.jpg?v=1731926268&width=1920)
     
-    VITAMIN D3 + K2
+    FREE RUNNING CLUP CAP
     
-    Stay on track as Winter rolls in.](https://puresportcbd.com/en-us/collections/all)
+    On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
+* [3 FOR 2](https://puresportcbd.com/en-us/collections/all)
 * Our story
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
@@ -138,7 +141,7 @@ Free UK Shipping with orders over £50
         
         Enhance performance, improve endurance and reduce pain.
         
-        * [SHOP ALL](https://puresportcbd.com/en-us/collections/all)
+        * [SHOP ALL (3 FOR 2)](https://puresportcbd.com/en-us/collections/all)
         * [BESTSELLERS](https://puresportcbd.com/en-us/collections/bestsellers)
         * [FREEZE ROLL AND BALM](https://puresportcbd.com/en-us/collections/cbd-balm-freeze-roll-on)
         * [NOOTROPICS AND ADAPTOGENS](https://puresportcbd.com/en-us/collections/nootropics)
@@ -165,12 +168,13 @@ Free UK Shipping with orders over £50
         * [COLLECTIONS](https://puresportcbd.com/en-us#)
             * [PERFORMANCE WEAR](https://puresportcbd.com/en-us/collections/performance-wear)
     
-    [![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
+    [![](//puresport.co/cdn/shop/files/4.jpg?v=1731926268&width=1920)
     
-    VITAMIN D3 + K2
+    FREE RUNNING CLUP CAP
     
-    Stay on track as Winter rolls in.](https://puresportcbd.com/en-us/collections/all)
+    On all orders over £75](https://puresportcbd.com/en-us/collections/all)
     
+* [3 FOR 2](https://puresportcbd.com/en-us/collections/all)
 * [Our story](#)
     
     * [OUR STORY](https://puresportcbd.com/en-us#)
@@ -228,11 +232,11 @@ Free UK Shipping with orders over £50
     An unfiltered insight into the brand, people and community.](https://puresportcbd.com/en-us/blogs/puresport-project)
     
 
-[![](//puresport.co/cdn/shop/files/Photo_12-09-2024_09_45_37_2.jpg?v=1730744563&width=1920)
+[![](//puresport.co/cdn/shop/files/4.jpg?v=1731926268&width=1920)
 
-VITAMIN D3 + K2
+FREE RUNNING CLUP CAP
 
-Stay on track as Winter rolls in.](https://puresportcbd.com/en-us/collections/all)
+On all orders over £75](https://puresportcbd.com/en-us/collections/all)
 
 PRIVACY POLICY
 ==============
