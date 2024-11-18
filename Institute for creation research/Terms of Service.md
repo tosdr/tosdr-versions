@@ -165,57 +165,59 @@ A Note to Our Readers:
 
 For stewardship purposes, we will not be able to write, edit, or proofread science papers and projects, assist with homework assignments, evaluate personal theories and hypotheses, or review books and other resources. We also will not accept unsolicited manuscripts, nor are we able to provide unsolicited endorsements of books, products, or ministries.
 
-More Days of Praise
+More Creation Q&A
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/grace-god-creation)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/howtoanswerattacks.jpg)](https://www.icr.org/article/how-can-i-answer-attacks-on-the-bible)
 
-[The Grace of God in Creation](https://www.icr.org/article/grace-god-creation/)
+[How Can I Answer Attacks on the Bible?](https://www.icr.org/article/how-can-i-answer-attacks-on-the-bible/)
 
-“He left not himself without witness, in that he did good, and gave us rain from heaven, and fruitful seasons, filling our hearts with food...
+Some contend that science proves the Bible wrong. They may ask how the Bible’s supposedly good God could allow so much pain and evil in the world....
 
-BY: [HENRY M. MORRIS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=23)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/doing-righteousness)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/is_yec_crazy.jpg)](https://www.icr.org/article/is-young-earth-creation-crazy)
 
-[Doing Righteousness](https://www.icr.org/article/doing-righteousness/)
+[Is Young Earth Creation Crazy?](https://www.icr.org/article/is-young-earth-creation-crazy/)
 
-“Little children, let no man deceive you: he that doeth righteousness is righteous, even as he is righteous.” (1 John 3:7) Every genuine...
+A creation-believing friend of mine attended a dinner with various scientists. One of them who favored intelligent design said that any scientist who...
 
-BY: [HENRY M. MORRIS III, D.MIN.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=34)
+BY: [BRIAN THOMAS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=201)
 
-[![](/i/articles/dop/DOP_Logo_328_116.jpg)](https://www.icr.org/article/sanctified-through-word)
+[![](/i/articles/af/Main%20Stage%20-%201400x1050/are_evolution_and_adaptation_same.jpg)](https://www.icr.org/article/are-evolution-and-adaptation-the-same)
 
-[Sanctified Through the Word](https://www.icr.org/article/sanctified-through-word/)
+[Are Evolution and Adaptation the Same?](https://www.icr.org/article/are-evolution-and-adaptation-the-same/)
 
-“Sanctify them through thy truth: thy word is truth.” (John 17:17) This powerful Scripture is actually part of Christ’s...
+Due to the bombardment of evolutionary propaganda, most people think the terms evolution and adaptation basically represent the same thing. But nothing...
 
 BY: [JEFFREY P. TOMKINS, PH.D.](https://www.icr.org/home?search=AdvancedSearch&f_keyword_all=&f_context_all=any&f_context_exact=any&f_context_any=any&f_context_without=any&f_search_type=articles&section=0&f_constraint=both&=Search&module=home&action=submitsearch&f_authorID=207)
 
 Shop Related Products
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/10027370/file.jpg)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/15818899/file.jpg)
 
-The Global Flood - eBook](https://store.icr.org/dr-john-morris-the-global-flood-ebook.html)
+The Fossil Record - eBook](https://store.icr.org/the-fossil-record-ebook.html)
 
 $9.99
 
 $19.99
 
-[](https://store.icr.org/.html)
+[![](https://cdn.shoplightspeed.com/shops/601440/files/54360544/file.jpg)
 
-$
+Foundations in Worship](https://store.icr.org/foundations-in-worship.html)
 
-[![](https://cdn.shoplightspeed.com/shops/601440/files/32803/file.jpg)
-
-The Young Earth](https://store.icr.org/dr-john-morris-the-young-earth.html)
-
-$19.99
+$29.99
 
 [![](https://cdn.shoplightspeed.com/shops/601440/files/10027359/file.jpg)
 
 The Global Flood](https://store.icr.org/dr-john-morris-the-global-flood.html)
 
 $14.99
+
+$19.99
+
+[![](https://cdn.shoplightspeed.com/shops/601440/files/5202651/file.jpg)
+
+The Fossil Record](https://store.icr.org/dr-john-morris-the-fossil-record.html)
 
 $19.99
 
