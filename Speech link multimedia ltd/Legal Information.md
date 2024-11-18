@@ -17,7 +17,7 @@
     
     [Find out more](https://speechandlanguage.link/slcn-in-school/)
     
-    [* Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Developmental Language Disorder (DLD)](https://speechandlanguage.link/slcn-in-school/developmental-language-disorder/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
+    [* Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)[* Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)[* Training](https://speechandlanguage.link/slcn-in-school/training/)[* Developmental Language Disorder (DLD)](https://speechandlanguage.link/slcn-in-school/dld-developmental-language-disorder/)[* Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
     
 * [Our Packages](https://speechandlanguage.link/whole-school-approach/)
     
@@ -102,96 +102,127 @@
     * [Contact Us](https://speechandlanguage.link/about-us/contact-us/)
 * [In the News](https://speechandlanguage.link/speech-language-link-in-the-news/)
 
-Improving speech and language outcomes
-======================================
+Developmental Language Disorder (DLD)
+=====================================
 
-[Learn more about Speech & Language Link](https://speechandlanguage.info/whole-school-approach/)
+* [Home](https://speechandlanguage.link/)
+* [Speech and Language in School](https://speechandlanguage.link/slcn-in-school/)
+* Developmental Language Disorder (DLD)
 
-![](https://speechandlanguage.link/wp-content/uploads/2021/12/InTheNews_partnership_FeaturedImage-600x419.jpg)
+Introduction
+------------
 
-Speech & Language Link
-----------------------
+Developmental Language Disorder (DLD) is a diagnosis given by speech and language therapists, to a certain subset of individuals who have significant difficulties with  the acquisition and use of language skills, that persist throughout their lives. Characterized by difficulties in understanding and producing language, DLD can significantly impact a child’s academic performance, social interactions as well as employment opportunities in adulthood . This essay will explore how DLD manifests in school environments, drawing on research and expert insights to illuminate the challenges faced by affected children, the implications for educators, and effective interventions.
 
-We help schools to support children with speech, language and communication needs (SLCN). We do this by providing evidence based interventions, standardised screening assessments and training in the use of these tools. Everything we offer is designed by our speech and language therapy team and backed up by our specialist help desk.  
-We work with individual schools, MATs, Local Authorities and NHS Speech and Language Therapy teams
+Understanding Developmental Language Disorder
+---------------------------------------------
 
-**![](/wp-content/uploads/2024/04/Teddy-with-help-sign-3.jpg)We are conducting research to enhance our school entry language screener. If your school would like to help you can get Infant Language Link free for a whole year!**
+DLD is a relatively new term for a condition we have known about for a long time.  Previously known as specific language impairment, difficulties are not associated with other conditions, such as hearing loss or learning difficulties (Bishop et al., 2016). Children with DLD may experience challenges in various aspects of language, for example, vocabulary, grammar, narrative skills, and pragmatic language use. According to the American Speech-Language-Hearing Association (ASHA), DLD affects about 7% of children, making it a significant issue in educational contexts (ASHA, 2020).
 
-[Find out how to take part](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/)
+Core Characteristics of DLD
+---------------------------
 
-[](https://speechandlanguage.info/whole-school-approach/)
+Children with DLD can display a range of symptoms, which may include but are not limited to:
 
-### [Behaviour or language?](https://speechandlanguage.info/whole-school-approach/)
+1.  **Difficulties with learning and understanding vocabulary**: Children may struggle to learn new words and may use a limited vocabulary compared to their peers.
+2. **Grammatical Difficulties**: They may have trouble with sentence structure and verb tense, leading to less complex or incorrectly formed sentences.
+3. **Narrative Skills**: Difficulties in organizing thoughts and events can affect storytelling abilities.
+4. **Pragmatic Language Issues**: Challenges in understanding social cues and using language appropriately in various contexts may arise.
 
-Find out with the Language Link standardised assessments.
+These characteristics can manifest in various ways in the school environment.
 
-   
+DLD in the Classroom
+--------------------
 
-[Read more](https://speechandlanguage.info/whole-school-approach/)
+### Academic Challenges
 
-[](https://speechandlanguage.info/whole-school-approach/the-link-cpd/)
+Children with DLD often encounter significant academic difficulties, particularly in language-based subjects like reading and writing.
 
-### [Accredited Training](https://speechandlanguage.info/whole-school-approach/the-link-cpd/)
+**Reading Comprehension**: Many children with DLD struggle with understanding what they read. Their difficulties in processing language can impede their ability to grasp the main ideas or details of a text. Research indicates that these challenges can lead to lower performance on reading assessments compared to their typically developing peers
 
-Our speech and language courses will give your staff the skills they need to improve outcomes for children with SLCN.
+**Writing Skills**: Writing is another area where children with DLD may struggle. They might have difficulties with spelling, grammar, and organizing their ideas coherently. Studies have shown that students with DLD often produce shorter, less complex writing samples and have difficulty with narrative structure (Tucci and Choi 2023)
 
-[Read more](https://speechandlanguage.info/whole-school-approach/the-link-cpd/)
+### Social Interactions
 
-[](https://speechandlanguage.info/whole-school-approach/secondary-language-link/)
+Social language skills, often referred to as pragmatic language, are crucial for successful interactions with peers and teachers. Children with DLD may find it challenging to engage in conversations, understand jokes or idiomatic expressions, and pick up on social cues This can lead to:
 
-### [Secondary Language Link](https://speechandlanguage.info/whole-school-approach/secondary-language-link/)
+* **Social Isolation**: Children with DLD may be perceived as shy or withdrawn, leading to difficulties in forming friendships. They may struggle to initiate or maintain conversations, which can result in feelings of loneliness
+* **Bullying**: The social difficulties associated with DLD can make children vulnerable to bullying. Peers may misunderstand their communicative attempts, leading to exclusion or ridicule.
 
-...because language development doesn’t stop at 11 years old.
+### Classroom Behaviour
 
-   
+Teachers may observe specific behavioural manifestations in students with DLD. These children might:
 
-[Read more](https://speechandlanguage.info/whole-school-approach/secondary-language-link/)
+* **Avoid Participation**: Due to their language difficulties, they may be hesitant to participate in class discussions or activities that require verbal communication.
+* **Frustration and Anxiety**: The challenges associated with DLD can lead to increased frustration and anxiety, particularly during language-intensive tasks. This emotional distress can further hinder their academic performance and willingness to engage in classroom activities.
 
-### New Podcasts Coming Soon
+### Implications for Educators
 
-Our new "Talk Aways: The Teacher Talk Podcast" is launching soon. Featuring our therapists Juliet and Alison, they're all about using day to day classroom activities to support language development. Be the first to hear about new episodes and get priority access as a member of The Link Community.
+Educators play a crucial role in identifying and supporting students with DLD. Understanding the manifestations of DLD in the classroom is vital for creating an inclusive learning environment.
 
-[Join The Link Community today](https://speechandlanguage.info/the-link-community/)
+Early Identification and Intervention
+-------------------------------------
 
-[](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
+Early identification is critical for effective intervention, this means intervention as soon as language needs are recognised at whatever age. Teachers should be provided with information to recognize potential indicators  of DLD, such as language milestones not being met, difficulties following spoken language in the classroom, and challenges with peer interactions.
 
-### [Free speech and language day](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
+### Adaptive Classroom Strategies
 
-Join us for our next online speech and language event to listen to engaging expert speakers. Recent presenters have included former communication champion, Jean Gross, and broadcaster Michael Rosen. The Link Live is free for [Link Community](https://speechandlanguage.info/the-link-community/)  members.
+Implementing **adaptive classroom strategies** can help support the diverse needs of students with DLD. This might include:
 
-![corner image](https://speechandlanguage.link/wp-content/uploads/2023/11/TLM11_P18_Image4_TeacherLaptop.png) [Find out more](https://speechandlanguage.info/free-speech-and-language-resources/the-link-live/)
+* **Visual Supports**: Using visual aids, such as graphic organizers and pictures, can enhance understanding and retention of information
+* **Structured Language Activities**: Incorporating structured language activities that focus on vocabulary and sentence construction can help students practice their language skills in a supportive environment
+* **Collaborative Learning**: Encouraging collaborative learning experiences can provide students with opportunities to practice their social language skills in a less pressured setting
+* **Mention others in our packages**.
 
-[](https://speechandlanguage.info/research-opportunities-for-schools/)
+### Social-Emotional Support
 
-### [Exciting research opportunity](https://speechandlanguage.info/research-opportunities-for-schools/)
+Recognizing the social and emotional challenges faced by students with DLD is essential. Educators can foster a supportive classroom environment by:
 
-We are currently undertaking a [nationwide research project](https://speechandlanguage.info/working-with-you/research-opportunities-for-schools/infant-language-link-study/) to standardise a measure of language on school entry. If your school or setting would like to take part we would love to work with you. **(You can get Infant Language Link free for a year!)**
+* **Encouraging Peer Interaction**: Structuring activities that promote peer interaction can help children with DLD build social skills and friendships
+* **Providing Emotional Support**: Creating a classroom culture that values diversity and encourages empathy can help mitigate the social isolation often experienced by students with DLD.
 
-![corner image](https://speechandlanguage.link/wp-content/uploads/2024/05/Bens-party-500.png) [Find out more](https://speechandlanguage.info/research-opportunities-for-schools/)
+Case Studies: DLD in Action
+---------------------------
 
-### FREE RESOURCES - The Link Community
+### Case Study 1: David
 
-Everyone loves a freebie! Check out The Link Community and its range of free speech and language resources. From our Ultimate guide to SLCN and our classroom activities to our Parent Portal and our SLCN Audit Tool ,there is something for everyone involved in supporting speech and language in school.
+David, a 9-year-old boy with DLD, struggles with vocabulary acquisition and often uses simple sentences when talking. When reading, he has difficulty understanding story plots and answering comprehension questions. His teacher, recognizing these challenges, supports him by pre-teaching vocabulary, providing strategies for him to use, implementing visual supports that break down the story and the questions and gives David extra time to complete assignments. Over time, David shows improvement in his ability to express his thoughts and engage in discussions.
 
-[Explore our free Link Community membership](https://speechandlanguage.info/the-link-community/)
+### Case Study 2: Zena
 
-### Support for families
+Zena, a 10-year-old girl, has significant difficulties in social situations. She often misinterprets jokes and has trouble maintaining conversations with her peers. Zena approaches the teacher about what she finds difficult and her desire to make friends.  They have an open and friendly conversation about what support Zena would like.  Following Zena’s suggestion, her teacher facilitates small group activities that encourage communication and continues having weekly friendly chats to review the provision . With support, Zena begins to develop more confidence in her social skills and forms friendships with classmates.
 
-Join Juliet and Alison as they tackle some of the questions parents ask most frequently in our lightning podcasts.
+Conclusion
+----------
 
-[Listen to the podcast](https://speechandlanguage.info/resources/perch/pdf/parent-portal/podcast/)
+Developmental Language Disorder presents unique challenges in school settings, impacting academic performance, social interactions, and emotional well-being. Understanding DLD and knowing when to refer to therapists to consider diagnosis  is crucial for educators to provide effective support. Through early identification, adaptive classroom strategies , and social-emotional support and additional provision as needed schools can create an inclusive environment that fosters the success of all students, including those with DLD. As awareness and understanding of DLD continue to grow, it is essential to prioritize effective interventions and support systems to help these children thrive in educational settings.
 
-### Meet the team
+References
+----------
 
-Our friendly team will be out and about this month. Come and say hello and find out about all our latest developments.
+* American Speech-Language-Hearing Association (ASHA). (2020). Developmental Language Disorder.
+* Bishop, D. V. M., Snowling, M. J., Thompson, P. A., & Greenhalgh, T. (2016). CATALISE: A multi-national and multidisciplinary Delphi consensus study of a definition of developmental language disorder. _PLOS One_, 11(7), e0158751.
+* Catts, H. W., Fey, M. E., Tomblin, J. B., & Zhang, X. (2002). A longitudinal investigation of reading outcomes in children with language impairments. _Journal of Speech, Language, and Hearing Research_, 45(6), 1142-1157.
+* Dockrell, J. E., et al. (2010). The relationship between language and literacy in children with language impairments. _International Journal of Language & Communication Disorders_, 45(3), 308-320.
+* Graham, S., & Harris, K. R. (2005). Improving the writing of students with learning difficulties: The role of self-regulation. _Learning Disability Quarterly_, 28(3), 219-228.
+* McGregor, K. K., et al. (2013). The social implications of language disorders in childhood. _Journal of Communication Disorders_, 46(3), 218-230.
+* Manchester Language Study (accessed 12-10-2024) http://research.bmh.manchester.ac.uk/ldd/research/ManchesterLanguageStudy/
+* Norbury, C. F. (2014). The relationship between language and social communication. _Language, Speech, and Hearing Services in Schools_, 45(4), 335-343.
+* Schmitt, N., & Mckay, P. (2017). Vocabulary in language teaching. Cambridge University Press.
+* Sussman, L., et al. (2020). The role of social interaction in the development of language skills in children with DLD. _Child Development Perspectives_, 14(4), 216-222.
+* Tucci, A. & Choi, E. (2023) [Developmental Language Disorder and Writing: A Scoping Review From Childhood to Adulthood](https://pubs.asha.org/doi/full/10.1044/2023_JSLHR-22-00583)
 
-[See our latest events](https://speechandlanguage.info/about-us/events/)
+#### SLCN in School
 
-### Co-production
+[Identification](https://speechandlanguage.link/slcn-in-school/using-a-language-screener/)
 
-Read about our recent collaborative work with Medway LEA as part of their Children and Family Hubs.
+[Intervention](https://speechandlanguage.link/slcn-in-school/intervention/)
 
-[Find out more](https://speechandlanguage.info/working-with-you/commissioners/4290-2/)
+[Training](https://speechandlanguage.link/slcn-in-school/training/)
+
+[Developmental Language Disorder](https://speechandlanguage.link/slcn-in-school/dld-developmental-language-disorder/)
+
+[Specialist Advice](https://speechandlanguage.link/slcn-in-school/support/)
 
 * [(+44) 333 577 0784](tel:(+44)%20333%20577%200784)
 * [helpdesk@speechlink.co.uk](mailto:helpdesk@speechlink.co.uk)
