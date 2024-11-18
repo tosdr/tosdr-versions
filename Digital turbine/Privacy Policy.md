@@ -1,4 +1,4 @@
-![](https://px.ads.linkedin.com/collect/?pid=2666130&fmt=gif) 
+![](https://px.ads.linkedin.com/collect/?pid=2666130&fmt=gif)  
 
 [Learn More About the Alternative App Future](https://www.digitalturbine.com/alternative-future)
 
