@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA](https://www.msx.org/news/challenges/en/msxdev24-13-maidens-extreme-fist-bun-ga-rua "MSXdev24 #13 Maiden's Extreme Fist - BUN-GA-RUA")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
@@ -149,15 +150,14 @@ Latest reactions
 * [SETRIS II](https://www.msx.org/news/en/setris-ii "SETRIS II")
 * [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 * [Christmas Quiz 2024](https://www.msx.org/news/en/christmas-quiz-2024 "Christmas Quiz 2024")
-* [Alley Cat for MSX2 available for sale soon](https://www.msx.org/news/en/alley-cat-for-msx-2-is-close-to-be-released "Alley Cat for MSX2 available for sale soon")
 
 Latest forum posts
 
+* [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o "RTC batteries actually working? :O")
+* [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
 * [MSX music arrangements on the net](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-arrangements-on-the-net?page=11 "MSX music arrangements on the net")
 * [DSKPRO Full 17.0](https://www.msx.org/forum/msx-talk/software/dskpro-full-170?page=1 "DSKPRO Full 17.0")
 * [WonderTANG! Who wants to juice up your MSX?](https://www.msx.org/forum/msx-talk/hardware/wondertang-who-wants-to-juice-up-your-msx?page=76 "WonderTANG! Who wants to juice up your MSX?")
-* [Some facts about Konami 32kb game cartridges](https://www.msx.org/forum/msx-talk/hardware/some-facts-about-konami-32kb-game-cartridges "Some facts about Konami 32kb game cartridges")
-* [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o "RTC batteries actually working? :O")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [Hidden MSX hardware](https://www.msx.org/forum/msx-talk/hardware/hidden-msx-hardware?page=13 "Hidden MSX hardware")
 * [Vhd interface for victor hc90/95](https://www.msx.org/forum/msx-talk/hardware/vhd-interface-for-victor-hc9095?page=27 "Vhd interface for victor hc90/95")
