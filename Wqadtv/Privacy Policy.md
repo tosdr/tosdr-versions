@@ -30,14 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e)
+    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-woman-police-car-fire/526-04b07e65-98ee-44f6-bf7c-861e92252c8f)
         
-        #### [1 person injured in Davenport house fire Saturday afternoon](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e) [![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_16x9.jpg) ![](https://media.tegna-media.com/assets/WGRZ/images/ef76eeaf-008c-493b-9605-386260bc87d6/20240922T135945/ef76eeaf-008c-493b-9605-386260bc87d6_360x203.jpg)](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e)
+        #### [Davenport woman accused of trying to set police car on fire](https://www.wqad.com/article/news/crime/davenport-woman-police-car-fire/526-04b07e65-98ee-44f6-bf7c-861e92252c8f)
         
-        #### [1 person injured in Davenport house fire Saturday](https://www.wqad.com/article/news/local/public-safety/davenport-fire-residence-afternoon/526-a86ce4cf-66ae-44bf-aa75-02fad0936e0e)
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/4aad6469-e0c4-4cf2-b31d-95733b846b7e/20241118T120915/4aad6469-e0c4-4cf2-b31d-95733b846b7e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4aad6469-e0c4-4cf2-b31d-95733b846b7e/20241118T120915/4aad6469-e0c4-4cf2-b31d-95733b846b7e_360x203.jpg)](https://www.wqad.com/article/news/local/prairie-moon-farms-knoxville-thanksgiving-christmas-crossover-knoxville-christmas-market/526-3807bed5-9598-4a87-a26a-c13ab0d1cdec)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
         
-        #### [A Thanksgiving-Christmas Crossover: Knoxville Christmas Market](https://www.wqad.com/article/news/local/prairie-moon-farms-knoxville-thanksgiving-christmas-crossover-knoxville-christmas-market/526-3807bed5-9598-4a87-a26a-c13ab0d1cdec)
+        #### [Enter to win a new snowblower this winter from WQAD and Petersen Plumbing](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -59,7 +58,7 @@ Navigation
     
     *  [![](https://media.tegna-media.com/assets/WQAD/images/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9/20241118T131423/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9/20241118T131423/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Rain and thunder likely as winds increase Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [More rain to come, could be heavy in spots tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
@@ -87,20 +86,19 @@ Navigation
 
 Davenport, IA »
 
-54°
+61°
 
-![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
 [Weather](https://www.wqad.com/weather/alerts) [Closings](https://www.wqad.com/closings)
 
+* [Enter to Win a Snowblower!](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
 * [Download News 8+](https://www.wqad.com/article/about-us/wqad-plus-news-8-streaming-app-24-7-news-channel-roku-amazon-fire-stick-tv/526-8541371e-0493-4bcb-943b-4f265cfa63ce)
 * [News 8+ Stream Schedule](https://www.wqad.com/article/about-us/wqad-plus-news-8-streaming-app-24-7-news-channel-roku-amazon-fire-stick-tv/526-8541371e-0493-4bcb-943b-4f265cfa63ce)
-* [Ask Andrew](https://www.wqad.com/article/weather/ask-andrew/ask-andrew/526-62a556b9-8c63-4d25-9bb1-d4f62ce24546)
 * [As Seen On TV](https://www.wqad.com/as-seen-on-tv)
 * [Meet the Team](https://www.wqad.com/meet-the-team)
-* [The Current](https://www.wqad.com/the-current)
 * [Contact Us](https://www.wqad.com/contact-us)
 * [Radars](https://www.wqad.com/radar)
 * [Sports](https://www.wqad.com/sports)
@@ -108,6 +106,7 @@ Davenport, IA »](https://www.wqad.com/weather)
 * [Contests](https://www.wqad.com/contests)
 * [Advertise With Us](https://www.wqad.com/advertise)
 * [Gas Prices](https://www.wqad.com/gas-prices-quad-cities)
+* [The Current](https://www.wqad.com/the-current)
 * [Pay It Forward](https://www.wqad.com/pay-it-forward)
 * [Deals](https://wqad.incentrev.com/quad-cities/deals)
 * [BREWED](https://brewedtv.com/?fbclid=iwar3yeapwv7srkrpo8dqullunfb38getsxa_dvov_rgwuywbu3pfxaonc9g0)
@@ -117,6 +116,7 @@ Davenport, IA »](https://www.wqad.com/weather)
 * [The Score](https://www.wqad.com/hss)
 * [Beyond the Badge](https://www.wqad.com/article/features/beyond-the-badge-2024-nominate-an-officer-making-a-difference-on-and-off-the-clock/526-c5485ec8-4b62-4f33-a99b-22d079e2f3c1)
 * [The Davenport Collapse 1 Year Later](https://www.wqad.com/davenport-building-collapse)
+* [Ask Andrew](https://www.wqad.com/article/weather/ask-andrew/ask-andrew/526-62a556b9-8c63-4d25-9bb1-d4f62ce24546)
 
 Breaking News
 
