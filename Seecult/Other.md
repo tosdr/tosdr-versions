@@ -346,11 +346,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/vlastimir-volcano-mikic/sateni/zelena.jpg?itok=-sk835Vs)](http://seecult.org/galerija/galerija-umetnika/vlastimir-volcano-mikic/sateni)
+[![ALL YOU NEED IS SOMEONE LIKE ME....](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/nina-i-miodrag-stankovic/all-you-need-someone-me/7a.jpg?itok=rX1x2esa "ALL YOU NEED IS SOMEONE LIKE ME....")](http://seecult.org/galerija/galerija-umetnika/nina-i-miodrag-stankovic/all-you-need-someone-me)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/izlozbe-exhibitions/51-oktobarski-salon/erik-krikortz/emotional-cities02.jpg?itok=1HltlvQW)](http://seecult.org/galerija/foto-galerija/izlo%C5%BEbe-exhibitions/51-oktobarski-salon/erik-krikortz)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5135.jpg?itok=TkRGEGWj)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
