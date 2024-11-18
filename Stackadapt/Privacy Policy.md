@@ -1434,6 +1434,8 @@ Tell us how you are looking to work with us.
 
 Tell us how you are looking to work with us.
 
+\*Please disable any ad blockers to successfully submit this form.
+
 I agree to receiving communications about StackAdapt products and services. I understand that the information I provided will be used in accordance with the [Website Privacy Policy](https://www.stackadapt.com/legal-document-centre/website-and-platform-user-privacy-policy), and that I may opt out at any time.
 
 Please agree in order for us to process your request.
