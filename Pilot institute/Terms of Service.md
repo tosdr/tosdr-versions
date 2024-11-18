@@ -164,13 +164,13 @@ In no case shall Pilot Institute, our directors, officers, employees, affiliates
 SECTION 14 – AFFILIATES
 -----------------------
 
-In addition to the agreement below, affiliates are also subject to any terms and conditions that our learning management system (Teachable) has and the welcome letter that we send to affiliates.  
+In addition to the agreement below, affiliates are also subject to any terms and conditions that our learning management system (Teachable) has and any welcome letter that we send to affiliates.  
  
 
-Pilot Institute has an affiliate program that allows people to earn a commission on sales. Pilot Institute has the sole right to choose who can be an affiliate and can revoke anyone’s access to the affiliate program at any time and for any reason.  
+Pilot Institute has an affiliate program that allows people to earn a commission on sales. Pilot Institute has the sole right to choose who can be an affiliate and can revoke anyone’s access to the affiliate program at any time and for any reason. Pilot Institute will not be liable for damages of any kind in the event that we revoke access to our affiliate program from you.  
  
 
-Affiliates do not earn commissions on free courses nor on free or paid enrollments into our community. Cookies are set for a minimum of 7 days. If a user uses a different browser, device, or clears cookies sales may not be credited to affiliates. Only sales where the affiliate cookie is present during checkout will result in commission. Additionally, we might generate a custom coupon code for some affiliates. However, your affiliate code still must be present at checkout for you to receive a commission on those sales. Pilot Institute does not assign sales based on coupon code usage alone at this time. Linking directly to the learn.pilotinstitute.com checkout page with your affiliate code in the URL is the least error-prone way to ensure your affiliate code is present at checkout.
+Affiliates do not earn commissions on free courses nor on free or paid enrollments into our community. Cookies are set for 7 days. If a user uses a different browser, device, or clears cookies sales may not be credited to affiliates. Only sales where the affiliate cookie is present during checkout will result in commission. Additionally, we might generate a custom coupon code for some affiliates. However, your affiliate code still must be present at checkout for you to receive a commission on those sales. Pilot Institute does not assign sales based on coupon code usage alone at this time. Linking directly to a page on pilotinstitute.com with your affiliate code in the URL is the preferred way to create a tracking link. We do not recommend linking directly to checkout pages at this time.
 
 By becoming an affiliate you agree not to use spam or other methods that could undermine the Pilot Institute brand in the eyes of potential customers. You also agree that you will only advertise affiliate links to our website if you have permission from the receiver to send them.  
  
@@ -178,10 +178,10 @@ By becoming an affiliate you agree not to use spam or other methods that could u
 If a customer asks for a refund and Pilot Institute provides it, this will reduce the earnings of an affiliate. Affiliates only earn commissions on non-refunded transactions. Additionally, Pilot Institute will not pay for fraudulent transactions or in cases where the affiliate used spam or other unauthorized promotional techniques.  
  
 
-Affiliates may not run paid ads (Google, Bing, Facebook, TikTok, LinkedIn etc) without the express written permission of Pilot Institute. Affiliates may also not add coupon codes or affiliate links to coupon websites. Affiliates are responsible for adhering to any laws that may pertain to their efforts.  
+Affiliates may not run paid ads (Google, Bing, Facebook, TikTok, LinkedIn etc) without the express written permission of Pilot Institute. Affiliates may also not add coupon codes or affiliate links to coupon websites. Affiliates are responsible for adhering to any laws that may pertain to their efforts. Affiliates may also not send links to email or SMS lists without Pilot Institute’s permission. Only organic social (e.g. YouTube Videos and posts to your profile on social media sites that are not boosted) and organic search engine traffic are allowed by default. Any other sources of traffic that are sent without approval may result in being banned from our program and no commission being paid.  
  
 
-Pilot Institute strives to keep our website and classes available. However, service interruptions are inevitable. Pilot Institute offers no guarantees that our website will be available and we will not pay any compensation or damages of any kind that may result from any outages or from withdrawing our affiliate relationship from you.  
+Pilot Institute strives to keep our website and classes available. However, service interruptions are inevitable. Pilot Institute offers no guarantees that our website will be available and we will not pay any compensation or damages of any kind that may result from any outages or from withdrawing our affiliate relationship from you. Technical errors, system glitches, or tracking failures may occasionally affect the accurate recording of affiliate sales, commissions, clicks, or referrals. While Pilot Institute implements reasonable tracking systems, we cannot guarantee error-free tracking of affiliate activities.  
  
 
 Pilot Institute may provide you with access to our logos, advertising material, course materials, and more when you become an affiliate. Pilot Institute owns these assets exclusively and in their entirety. Once the affiliate agreement is terminated, affiliates must immediately cease their use of these assets and trademarks/copyrighted materials owned by Pilot Institute when requested.  
