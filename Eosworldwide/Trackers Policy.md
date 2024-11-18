@@ -7,7 +7,6 @@
 * [Master Terms of Use](https://www.eosworldwide.com/terms-conditions/)
 * [Privacy Policy](https://www.eosworldwide.com/privacy-policy/)
 * [California Applicant Privacy Notice](https://www.eosworldwide.com/privacy-policy/california)
-* [Cookie Policy](https://www.eosworldwide.com/cookie-policy/)
 * [Your Privacy Choices](#)
 
 #### Last Updated: December 27, 2023
@@ -292,7 +291,7 @@ Search
 
 Change Location
 
-                                                       [Skip to content](#content)
+                                                  [Skip to content](#content)
 
 ![](https://px.ads.linkedin.com/collect/?pid=2799050&fmt=gif)
 
