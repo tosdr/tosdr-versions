@@ -2,7 +2,7 @@
 
 [Etusivu](https://yle.fi/)
 
-[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Pentulive](https://yle.fi/t/18-332106/fi)[Urheilustudio](https://yle.fi/a/74-20124823)
+[Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)[Merikaapeli](https://yle.fi/a/74-20125395)[Pentulive](https://yle.fi/t/18-332106/fi)
 
 [Hae](https://haku.yle.fi/)
 
@@ -14,9 +14,8 @@ Valikko
 Pinnalla nyt
 
 * [Venäjän hyökkäys](https://yle.fi/t/18-334977/fi)
+* [Merikaapeli](https://yle.fi/a/74-20125395)
 * [Pentulive](https://yle.fi/t/18-332106/fi)
-* [Urheilustudio](https://yle.fi/a/74-20124823)
-* [Yhdysvaltain presidentinvaalit](https://yle.fi/t/18-345335/fi)
 
 * [Etusivu](https://yle.fi/)
 * [Uutisia lyhyesti](https://yle.fi/uutiset)
