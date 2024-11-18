@@ -226,9 +226,9 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Issues Agency Financial Report for Fiscal Year 2024](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-issues-agency-financial-report-fiscal-year-2024)
+    ### [Federal Court Orders Harris Jewelry to Restore its Website and Claims Portal for Servicemembers to Request Refunds](https://www.ftc.gov/news-events/news/press-releases/2024/11/federal-court-orders-harris-jewelry-restore-its-website-claims-portal-servicemembers-request-refunds)
     
-    November 15, 2024
+    November 18, 2024
     
     [View News and Events](https://www.ftc.gov/news-events)
     
