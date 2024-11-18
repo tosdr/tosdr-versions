@@ -117,7 +117,7 @@ It is our policy in appropriate circumstances to disable and/or terminate the ac
     * [Copyright Policy](https://billgo.com/copyright-policy)
     * [Terms and Conditions](https://billgo.com/terms-and-conditions)
 
-[](https://www.facebook.com/BillGOPayments)[](https://twitter.com/BillGOPayments)[](https://www.linkedin.com/company/billgopayments)
+[](https://twitter.com/BillGOPayments)[](https://www.linkedin.com/company/billgopayments)
 
 © 2024 BillGO, Inc. All rights reserved.
 
