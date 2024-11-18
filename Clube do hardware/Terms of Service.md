@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_144908287_menu)
+ [Compartilhar](#elShareItem_1571835999_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -147,8 +147,8 @@ Posts recomendados
     
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
-* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.983 posts")
-* 13.065
+* * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.985 posts")
+* 13.068
 * 16/01/2002
 *  Offline
 
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1184875500_menu)
+ [Compartilhar](#elShareItem_1235190304_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Isopor7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256267.thumb.jpeg.8514b0c119b6df01b7f848661ddbe5f8.jpeg)](https://www.clubedohardware.com.br/profile/1256267-isopor7/ "Ir ao perfil de Isopor7")
+    * [![CaioLCamargo](https://www.clubedohardware.com.br/uploads/members/monthly_2021_02/imported-photo-1143855.thumb.jpeg.89f82aab5f0fdb1f5c905890d3ef1995.jpeg)](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")
+        
+        1
+        
+        [Como alterar a tensão da GPU?](https://www.clubedohardware.com.br/forums/topic/1702695-como-alterar-a-tens%C3%A3o-da-gpu/?do=getNewComment "Como alterar a tensão da GPU?")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [CaioLCamargo](https://www.clubedohardware.com.br/profile/1143855-caiolcamargo/ "Ir ao perfil de CaioLCamargo")  
+        22 minutos atrás
+        
+    * [![Diego Gabriel Noronha](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256282.thumb.jpeg.0b3171fe2852e174623511467f0a4345.jpeg)](https://www.clubedohardware.com.br/profile/1256282-diego-gabriel-noronha/ "Ir ao perfil de Diego Gabriel Noronha")
         
         0
         
-        [Tenho um fone Qcy HT05](https://www.clubedohardware.com.br/forums/topic/1702645-tenho-um-fone-qcy-ht05/?do=getNewComment "Tenho um fone Qcy HT05")
+        [Tela azul em jogos mais pesados](https://www.clubedohardware.com.br/forums/topic/1702694-tela-azul-em-jogos-mais-pesados/?do=getNewComment "Tela azul em jogos mais pesados")
         
-        [Eletrônica](https://www.clubedohardware.com.br/forums/forum/30-eletr%C3%B4nica/ "Eletrônica")  
-        Por [Isopor7](https://www.clubedohardware.com.br/profile/1256267-isopor7/ "Ir ao perfil de Isopor7")  
-        6 minutos atrás
+        [Telas azuis](https://www.clubedohardware.com.br/forums/forum/124-telas-azuis/ "Telas azuis")  
+        Por [Diego Gabriel Noronha](https://www.clubedohardware.com.br/profile/1256282-diego-gabriel-noronha/ "Ir ao perfil de Diego Gabriel Noronha")  
+        36 minutos atrás
         
-    * [![CristianCDS](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1247041.thumb.jpeg.d087c51a2322ac7f4e0e8a325ce3d158.jpeg)](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")
-        
-        0
-        
-        [HyperX Cloud III wireless vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702644-hyperx-cloud-iii-wireless-vale-a-pena/?do=getNewComment "HyperX Cloud III wireless vale a pena?")
-        
-        [Caixas de som, fones, microfones e headsets](https://www.clubedohardware.com.br/forums/forum/144-caixas-de-som-fones-microfones-e-headsets/ "Caixas de som, fones, microfones e headsets")  
-        Por [CristianCDS](https://www.clubedohardware.com.br/profile/1247041-cristiancds/ "Ir ao perfil de CristianCDS")  
-        42 minutos atrás
-        
-    * [![Lucas Danzer](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256265.thumb.png.5ea556222700beeba120ded168c50424.png)](https://www.clubedohardware.com.br/profile/1256265-lucas-danzer/ "Ir ao perfil de Lucas Danzer")
+    * [![NicollasOlvv21](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256280.thumb.png.db99662114507c8b359a7d247f2db99f.png)](https://www.clubedohardware.com.br/profile/1256280-nicollasolvv21/ "Ir ao perfil de NicollasOlvv21")
         
         1
         
-        [Usei o comando do CMD na memória RAM e agora não dá mais tela](https://www.clubedohardware.com.br/forums/topic/1702643-usei-o-comando-do-cmd-na-mem%C3%B3ria-ram-e-agora-n%C3%A3o-d%C3%A1-mais-tela/?do=getNewComment "Usei o comando do CMD na memória RAM e agora não dá mais tela")
+        [Rx580 2048SP (Rise Mode) não dá vídeo corretamente.](https://www.clubedohardware.com.br/forums/topic/1702690-rx580-2048sp-rise-mode-n%C3%A3o-d%C3%A1-v%C3%ADdeo-corretamente/?do=getNewComment "Rx580 2048SP (Rise Mode) não dá vídeo corretamente.")
         
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Lucas Danzer](https://www.clubedohardware.com.br/profile/1256265-lucas-danzer/ "Ir ao perfil de Lucas Danzer")  
-        59 minutos atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [NicollasOlvv21](https://www.clubedohardware.com.br/profile/1256280-nicollasolvv21/ "Ir ao perfil de NicollasOlvv21")  
+        58 minutos atrás
         
-    * [![BuX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23626cc4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/375397-bux/ "Ir ao perfil de BuX")
-        
-        1
-        
-        [Mini system Philips FWM 396 com baixa visibilidade no display](https://www.clubedohardware.com.br/forums/topic/1702641-mini-system-philips-fwm-396-com-baixa-visibilidade-no-display/?do=getNewComment "Mini system Philips FWM 396 com baixa visibilidade no display")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [BuX](https://www.clubedohardware.com.br/profile/375397-bux/ "Ir ao perfil de BuX")  
-        1 hora atrás
-        
-    * [![Gabriel Henrique9858](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1251449.thumb.png.a173d8dd84fce4abaed32e8639b26391.png)](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")
-        
-        1
-        
-        [Fonte de 400W até R$ 250,00 para Core i7-4790K e GeForce GTX 1660 Super](https://www.clubedohardware.com.br/forums/topic/1702640-fonte-de-400w-at%C3%A9-r-25000-para-core-i7-4790k-e-geforce-gtx-1660-super/?do=getNewComment "Fonte de 400W até R$ 250,00 para Core i7-4790K e GeForce GTX 1660 Super")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Gabriel Henrique9858](https://www.clubedohardware.com.br/profile/1251449-gabriel-henrique9858/ "Ir ao perfil de Gabriel Henrique9858")  
-        2 horas atrás
-        
-    * [![Adriano82](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256262.thumb.jpeg.ab34c87ececc425ef7c2ce59ee80acf0.jpeg)](https://www.clubedohardware.com.br/profile/1256262-adriano82/ "Ir ao perfil de Adriano82")
-        
-        1
-        
-        [Como utilizar a placa de áudio Philco KP686 como amplificador?](https://www.clubedohardware.com.br/forums/topic/1702638-como-utilizar-a-placa-de-%C3%A1udio-philco-kp686-como-amplificador/?do=getNewComment "Como utilizar a placa de áudio Philco KP686 como amplificador?")
-        
-        [Equipamentos de som e home theaters](https://www.clubedohardware.com.br/forums/forum/52-equipamentos-de-som-e-home-theaters/ "Equipamentos de som e home theaters")  
-        Por [Adriano82](https://www.clubedohardware.com.br/profile/1256262-adriano82/ "Ir ao perfil de Adriano82")  
-        4 horas atrás
-        
-    * [![guilherme noan](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256261.thumb.png.29fbeba72396dc3e72af925f996a5b75.png)](https://www.clubedohardware.com.br/profile/1256261-guilherme-noan/ "Ir ao perfil de guilherme noan")
+    * [![inlovwy](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1254179.thumb.jpeg.73edd1884a894d33261c30a6a38332a5.jpeg)](https://www.clubedohardware.com.br/profile/1254179-inlovwy/ "Ir ao perfil de inlovwy")
         
         4
         
-        [Indicações de Water Cooler de 240mm para Ryzen 7 5700X3D de até R$700,00](https://www.clubedohardware.com.br/forums/topic/1702637-indica%C3%A7%C3%B5es-de-water-cooler-de-240mm-para-ryzen-7-5700x3d-de-at%C3%A9-r70000/?do=getNewComment "Indicações de Water Cooler de 240mm para Ryzen 7 5700X3D de até R$700,00")
+        [Fonte Dmix AF-500 suporta Radeon RX 6650XT ou GeForce RTX 4060?](https://www.clubedohardware.com.br/forums/topic/1702689-fonte-dmix-af-500-suporta-radeon-rx-6650xt-ou-geforce-rtx-4060/?do=getNewComment "Fonte Dmix AF-500 suporta Radeon RX 6650XT ou GeForce RTX 4060?")
         
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [guilherme noan](https://www.clubedohardware.com.br/profile/1256261-guilherme-noan/ "Ir ao perfil de guilherme noan")  
-        4 horas atrás
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [inlovwy](https://www.clubedohardware.com.br/profile/1254179-inlovwy/ "Ir ao perfil de inlovwy")  
+        58 minutos atrás
         
-    * [![Bento Junior Pexe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256260.thumb.jpeg.dcecbc92a425d7d021b0e0c0195f56bb.jpeg)](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")
+    * [![felzeed](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/imported-photo-1244769.thumb.jpeg.aa622e84ddde4a68ff956f25bce45a75.jpeg)](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")
         
         0
         
-        [qual memória RAM para o kit ASUS Z790-BTF DDR5 e I9 12900k](https://www.clubedohardware.com.br/forums/topic/1702636-qual-mem%C3%B3ria-ram-para-o-kit-asus-z790-btf-ddr5-e-i9-12900k/?do=getNewComment "qual memória RAM para o kit  ASUS Z790-BTF DDR5 e I9 12900k")
+        [Recomendações de configuraçãopara Pc Mini ITX](https://www.clubedohardware.com.br/forums/topic/1702688-recomenda%C3%A7%C3%B5es-de-configura%C3%A7%C3%A3opara-pc-mini-itx/?do=getNewComment "Recomendações de configuraçãopara Pc Mini ITX")
         
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [Bento Junior Pexe](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")  
-        6 horas atrás
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [felzeed](https://www.clubedohardware.com.br/profile/1244769-felzeed/ "Ir ao perfil de felzeed")  
+        1 hora atrás
         
-    * [![Victoraguiar81](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256258.thumb.png.32ca93dea4f051a75e4884838224127d.png)](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")
+    * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
         
         1
         
-        [Notebook reiniciando sempre na desfragmentação do HD](https://www.clubedohardware.com.br/forums/topic/1702635-notebook-reiniciando-sempre-na-desfragmenta%C3%A7%C3%A3o-do-hd/?do=getNewComment "Notebook reiniciando sempre na desfragmentação do HD")
+        [Qual o melhor tipo de ventilação pro gabinete cx-2d67?](https://www.clubedohardware.com.br/forums/topic/1702687-qual-o-melhor-tipo-de-ventila%C3%A7%C3%A3o-pro-gabinete-cx-2d67/?do=getNewComment "Qual o melhor tipo de ventilação pro gabinete cx-2d67?")
         
-        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
-        Por [Victoraguiar81](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")  
-        7 horas atrás
+        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
+        Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
+        1 hora atrás
         
-    * [![Nexstep](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/05f2c41c5e044ef8d8f2ba5c9140dbd1.thumb.jpg.33b2db8449f71b37677d4b12384b27e0.jpg)](https://www.clubedohardware.com.br/profile/717315-nexstep/ "Ir ao perfil de Nexstep")
+    * [![Calebones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/images.thumb.jpeg.da6b67170519c99dde2cde93516cb35f.jpeg)](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")
+        
+        1
+        
+        [MSI G41M-S01 suporta memórias ram Single Rank?](https://www.clubedohardware.com.br/forums/topic/1702685-msi-g41m-s01-suporta-mem%C3%B3rias-ram-single-rank/?do=getNewComment "MSI G41M-S01 suporta memórias ram Single Rank?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Calebones](https://www.clubedohardware.com.br/profile/1248986-calebones/ "Ir ao perfil de Calebones")  
+        1 hora atrás
+        
+    * [![LucasMüller](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%238ec462%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256181-lucasm%C3%BCller/ "Ir ao perfil de LucasMüller")
+        
+        3
+        
+        [OC Ram 2400Mhz para 3000Mhz](https://www.clubedohardware.com.br/forums/topic/1702683-oc-ram-2400mhz-para-3000mhz/?do=getNewComment "OC Ram 2400Mhz para 3000Mhz")
+        
+        [Overclock](https://www.clubedohardware.com.br/forums/forum/11-overclock/ "Overclock")  
+        Por [LucasMüller](https://www.clubedohardware.com.br/profile/1256181-lucasm%C3%BCller/ "Ir ao perfil de LucasMüller")  
+        1 hora atrás
+        
+    * [![RM30](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/317328653_Snoopy5kb.thumb.png.1c6696b8fd313f7633fd81cb656be988.png)](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")
+        
+        4
+        
+        [Tem algum jeito rápido e fácil de desabilitar o Windows Defender no Windows 11?](https://www.clubedohardware.com.br/forums/topic/1702682-tem-algum-jeito-r%C3%A1pido-e-f%C3%A1cil-de-desabilitar-o-windows-defender-no-windows-11/?do=getNewComment "Tem algum jeito rápido e fácil de desabilitar o Windows Defender no Windows 11?")
+        
+        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
+        Por [RM30](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")  
+        1 hora atrás
+        
+    * [![Affonsin](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1142209.thumb.jpeg.00ba0846f8875385096733e482ae6716.jpeg)](https://www.clubedohardware.com.br/profile/1142209-affonsin/ "Ir ao perfil de Affonsin")
         
         2
         
-        [Usar QuadChannel vale a pena?](https://www.clubedohardware.com.br/forums/topic/1702634-usar-quadchannel-vale-a-pena/?do=getNewComment "Usar QuadChannel vale a pena?")
+        [Qual pegar ? RTX 4060 ou RTX 4060 ti](https://www.clubedohardware.com.br/forums/topic/1702681-qual-pegar-rtx-4060-ou-rtx-4060-ti/?do=getNewComment "Qual pegar ? RTX 4060 ou RTX 4060 ti")
         
-        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
-        Por [Nexstep](https://www.clubedohardware.com.br/profile/717315-nexstep/ "Ir ao perfil de Nexstep")  
-        8 horas atrás
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Affonsin](https://www.clubedohardware.com.br/profile/1142209-affonsin/ "Ir ao perfil de Affonsin")  
+        1 hora atrás
         
     
 
