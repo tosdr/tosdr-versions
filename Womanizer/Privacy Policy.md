@@ -60,17 +60,18 @@ The store will not work correctly in the case when cookies are disabled.
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/couples-advent-calendar)
+    * [Pro40](https://www.womanizer.com/eu/pro-40)
     * [NEW
         
         24 Days of Pleasure](https://www.womanizer.com/eu/24-days-of-pleasure-premium-advent-calendar)
-    * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [DUO](https://www.womanizer.com/eu/duo)
+    * [DUO 2](https://www.womanizer.com/eu/duo2)
     * [NEW
         
         Blend](https://www.womanizer.com/eu/blend)
-    * [Pro40](https://www.womanizer.com/eu/pro-40)
-    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [Pro / W500](https://www.womanizer.com/eu/w500)
+    * [Dream Team Set](https://www.womanizer.com/eu/dream-team-set)
+    * [Liberty 2](https://www.womanizer.com/eu/liberty-2)
     * [OG](https://www.womanizer.com/eu/womanizer-og)
     * [Golden Moments Collection 2](https://www.womanizer.com/eu/golden-moments-collection-2)
     * [Pleasure Pair Set](https://www.womanizer.com/eu/pleasure-pair)
@@ -78,7 +79,6 @@ The store will not work correctly in the case when cookies are disabled.
     * [Booster Bundle](https://www.womanizer.com/eu/booster-bundle)
     * [PREMIUM eco](https://www.womanizer.com/eu/eco)
     * [Desire Blooms Gift Set](https://www.womanizer.com/eu/desire-blooms-gift-set-4-piece)
-    * [Kinky Couple Collection](https://www.womanizer.com/eu/kinky-couple-collection)
     * [All Sale Items](https://www.womanizer.com/eu/sale)
     
     [All Sale Items](https://www.womanizer.com/eu/sale)
