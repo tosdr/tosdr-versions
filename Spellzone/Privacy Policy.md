@@ -303,9 +303,10 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
 [Children and Young Peoples’ Privacy Policy](https://www.spellzone.com/pages/policies/child-friendly-privacy-policy.cfm)
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+"Spellzone fits in beautifully with our Scope and Sequence of Phonological Awareness and Spelling. It also aligns perfectly with the four areas of spelling knowledge and uses the Brain, Ears, Eyes approach to learning spelling."  
+Thank you!
 
-**Adult student, USA**
+**Teacher, Australia**
 
 ### Curriculum...
 
