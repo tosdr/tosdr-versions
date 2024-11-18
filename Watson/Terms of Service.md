@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![faible pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-16.svg)7°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![larges éclaircies](https://www.watson.ch/fr/_watsui/static/img/weather/w-3.svg)6°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,12 +54,7 @@
 
 Thèmes du moment
 
-* [Violence](https://www.watson.ch/fr/violence/)
-* [Commentaire](https://www.watson.ch/fr/commentaire/)
-* [Bitcoin](https://www.watson.ch/fr/bitcoin/)
-* [voiture](https://www.watson.ch/fr/voiture/)
-* [Cryptomonnaie](https://www.watson.ch/fr/cryptomonnaie/)
-* [moto](https://www.watson.ch/fr/moto/)
+* [Promotion](https://www.watson.ch/fr/promotion/)
 * [Technologie](https://www.watson.ch/fr/technologie/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Réseaux sociaux](https://www.watson.ch/fr/reseaux-sociaux/)
@@ -71,9 +66,14 @@ Thèmes du moment
 * [Femmes](https://www.watson.ch/fr/femmes/)
 * [ukraine](https://www.watson.ch/fr/ukraine/)
 * [drone](https://www.watson.ch/fr/drone/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Climat](https://www.watson.ch/fr/climat/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
+* [Commentaire](https://www.watson.ch/fr/commentaire/)
+* [Bitcoin](https://www.watson.ch/fr/bitcoin/)
+* [voiture](https://www.watson.ch/fr/voiture/)
+* [Cryptomonnaie](https://www.watson.ch/fr/cryptomonnaie/)
+* [moto](https://www.watson.ch/fr/moto/)
+* [Football](https://www.watson.ch/fr/football/)
+* [Violence](https://www.watson.ch/fr/violence/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
