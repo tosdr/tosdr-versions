@@ -6,7 +6,7 @@ Toggle menu
     
     [AI image generatorCreate images from words in real time](https://www.freepikcompany.com/ai/image-generator)
     
-    [AI video generatorSoonCreate stunning videos from text or images](https://www.freepikcompany.com/ai/video-generator)
+    [AI video generatornewCreate stunning videos from text or images](https://www.freepikcompany.com/ai/video-generator)
     
     [DesignerbetaEdit templates from your browser](https://www.freepik.com/designer)
     
@@ -214,8 +214,9 @@ Menu
 * [Freepik Company Intellectual Property Policy](https://www.freepikcompany.com/legal/copyright)
 * [Support](https://support.freepik.com/hc/en-us)
 * [Become a contributor](https://contributor.freepik.com/)
-* [Contributor support](https://support.freepik.com/hc/en-us/articles/212799769-FAQs-for-contributors)
+* [Contributor support](https://support.freepik.com/s/contributor?language=en_US)
 * [Acceptable Use Policy](https://www.freepikcompany.com/legal/acceptable-use-policy)
+* [Terms and Conditions for Creator's Community](https://www.freepikcompany.com/legal/creators-community-terms)
 
 Privacy Policy
 ==============
