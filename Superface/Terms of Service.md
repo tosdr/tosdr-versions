@@ -1,6 +1,6 @@
-[Gartner recognized Superface as a representative vendor of agentic AI
+[Gartner recognized Superface as a representative vendor of Agentic AI:
 
-\- Top Strategic Technology Trends for 2025](https://www.gartner.com/en/articles/intelligent-agent-in-ai)
+Top Strategic Technology Trends for 2025](https://www.gartner.com/en/articles/intelligent-agent-in-ai)
 
 [![Superface logo](/static_web/_next/image?url=%2Fimages%2Flogos%2Fsuperface%2Fsf-logotype-black.svg&w=384&q=75)](https://superface.ai/)
 
