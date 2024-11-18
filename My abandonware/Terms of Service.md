@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Furry 2](https://www.myabandonware.com/game/furry-2-t4m)
+* [Refuse. Home, Sweep Home!](https://www.myabandonware.com/game/refuse-home-sweep-home-twx)
+* [The Adventures of Tintin: The Game](https://www.myabandonware.com/game/the-adventures-of-tintin-the-game-twv)
 * [xyWords](https://www.myabandonware.com/game/xywords-tsp)
 * [Voodoo Lunch](https://www.myabandonware.com/game/voodoo-lunch-tso)
-* [Virtua School](https://www.myabandonware.com/game/virtua-school-tsn)
-* [Viking Siege](https://www.myabandonware.com/game/viking-siege-tsm)
-* [Tristam Island](https://www.myabandonware.com/game/tristam-island-tsl)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
