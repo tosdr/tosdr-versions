@@ -94,11 +94,11 @@ Learn more about our enterprise solution and get a demo from our sales team.](ht
 
 **Read our latest content**
 
-![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/6736564b1e343256976fdfee_clearco-covers-holiday-marketing-costs-submit-receipts-bills.png)
+![](https://cdn.prod.website-files.com/65fde10e62e6a7603e92222e/673b522b257e86137bb9e548_clearco-expanded-receipt-funding-includes-more-vendors.png)
 
-###### Clearco Covers Holiday Marketing Costs: Submit Your Vendor Receipts and Bills
+###### Clearco Has Expanded Receipt Funding to Include More Vendors
 
-[Read now >](https://clear.co/blog/clearco-covers-holiday-marketing-costs-submit-receipts-bills)
+[Read now >](https://clear.co/blog/clearco-expanded-receipt-funding-includes-more-vendors)
 
 [Sign In](http://my.clearbanc.com/login)[Get Funding](http://my.clearbanc.com/signup)
 
