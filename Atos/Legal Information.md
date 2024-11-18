@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Eviden enables quantum emulation in high-performance computing through dedicated software](https://atos.net/en/2024/news_2024_11_18/eviden-enables-quantum-emulation-in-high-performance-computing-through-dedicated-software)
+        * [La CANUT choisit le groupement Onepoint, Atos et Eviden pour accompagner les acteurs publics dans le déploiement de l’IA](https://atos.net/en/2024/press-release_2024_11_18/la-canut-choisit-le-groupement-onepoint-atos-et-eviden-pour-accompagner-les-acteurs-publics-dans-le-deploiement-de-lia)
         * [Atos delivers secure, low-latency enterprise-grade AI with Atos Sovereign AI Platform](https://atos.net/en/2024/news_2024_11_18/atos-delivers-secure-low-latency-enterprise-grade-ai-with-atos-sovereign-ai-platform)
-        * [Eviden leads the charge in high-performance computing with new AI-ready scale-out networking offering](https://atos.net/en/2024/press-release_2024_11_14/eviden-leads-the-charge-in-high-performance-computing-with-new-ai-ready-scale-out-networking-offering)
-        * [Market Update](https://atos.net/en/2024/press-release_2024_11_08/market-update-6)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         Nov 18, 2024
         
-        ### Atos delivers secure, low-latency enterprise-grade AI with Atos Sovereign AI Platform
+        ### Eviden enables quantum emulation in high-performance computing through dedicated software
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
@@ -204,6 +204,7 @@ Atos homepage](https://atos.net/en/)
         
         * [Atos Group at Microsoft Ignite 2024](https://atos.net/en/events/microsoft-ignite-2024)
         * [AWS re:Invent 2024](https://atos.net/en/events/aws-reivent-2024)
+        * [Innovation in Disability Inclusion event 2024](https://atos.net/en/events/innovation-in-disability-inclusion-event-2024)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
