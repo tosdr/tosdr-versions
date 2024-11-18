@@ -1,5 +1,3 @@
-[Skip to main content](#main-content)
-
 * [Search](https://www.linode.com/search/)
 * [Partners](https://www.linode.com/partners/)
 * [Docs](https://www.linode.com/docs/)
@@ -10,15 +8,15 @@
 
 English
 
-* [Español](https://www.linode.com/es/legal/ "Language switcher : Spanish")
-* [日本語](https://www.linode.com/ja/legal/ "Language switcher : Japanese")
-* [Deutsch](https://www.linode.com/de/legal/ "Language switcher : German")
-* [Português](https://www.linode.com/pt/legal/ "Language switcher : Portuguese")
-* [한국어](https://www.linode.com/ko/legal/ "Language switcher : Korean")
-* [Français](https://www.linode.com/fr/legal/ "Language switcher : French")
-* [Italiano](https://www.linode.com/it/legal/ "Language switcher : Italian")
-* [中文 (简体)](https://www.linode.com/zh/legal/ "Language switcher : Simplified Chinese")
-* [Português Brasileiro](https://www.linode.com/pt-br/legal/ "Language switcher : Brazilian Portuguese")
+* [Español](https://www.linode.com/es/ "Language switcher : Spanish")
+* [日本語](https://www.linode.com/ja/ "Language switcher : Japanese")
+* [Deutsch](https://www.linode.com/de/ "Language switcher : German")
+* [Português](https://www.linode.com/pt/ "Language switcher : Portuguese")
+* [한국어](https://www.linode.com/ko/ "Language switcher : Korean")
+* [Français](https://www.linode.com/fr/ "Language switcher : French")
+* [Italiano](https://www.linode.com/it/ "Language switcher : Italian")
+* [中文 (简体)](https://www.linode.com/zh/ "Language switcher : Simplified Chinese")
+* [Português Brasileiro](https://www.linode.com/pt-br/ "Language switcher : Brazilian Portuguese")
 
  [![Akamai Logo](https://assets.linode.com/p2/akamai-logo.svg)](https://www.akamai.com/)[![Akamai Connected Cloud](https://assets.linode.com/p2/akamai-connected-cloud.svg)](https://www.linode.com/)
 
@@ -124,6 +122,17 @@ Search
 * [Log In](https://login.linode.com/login)
 * [Sign Up](https://login.linode.com/signup)
 
+###### Featured
+
+[![Hero Forge Craft of Code Header](https://www.linode.com/wp-content/uploads/2023/02/hero-forge-craft-of-code-632x279.jpg)
+
+Hero Forge
+
+Secure, Accessible GPU Instances  
+Unleash Millions of Adventurers
+
+Read Story](https://www.linode.com/content/hero-forge/)
+
 * [Lower Costs](https://www.linode.com/reduce-cloud-costs/)
 * [Lower Latency](https://www.linode.com/low-latency-applications/)
 * [Cloud Portability](https://www.linode.com/cloud-portability/)
@@ -132,6 +141,17 @@ Search
 * [Our Platform](https://www.linode.com/global-infrastructure/)
 * [Support Experience](https://www.linode.com/support-experience/)
 * [Customer Stories](https://www.linode.com/series/craft-of-code/)
+
+###### Featured
+
+ [![Free Services from Linode](https://www.linode.com/wp-content/uploads/2021/10/benefits-bg-632x316.png) ![Free Bundled Services](https://www.linode.com/wp-content/uploads/2021/10/benefits-front-416x410.png)
+
+**Free Bundled Services**
+
+Discover our no-cost security, networking,  
+maintenance, and monitoring solutions.
+
+Learn More](https://www.linode.com/free-bundled-services/)
 
 [View All Products](https://www.linode.com/products/)
 
@@ -179,6 +199,16 @@ Search
 * [Monitoring](https://www.linode.com/products/monitoring/)
 * [Users & Permissions](https://www.linode.com/products/users-permissions/)
 
+###### Featured
+
+[![Portability in the Cloud: Best Practices for Building SaaS-Based Applications](https://www.linode.com/wp-content/uploads/2023/06/MRK-4404-Portability-i632x217-px.jpg)
+
+Portability in the Cloud
+
+Best Practices for Building SaaS-Based Applications
+
+Get Your Copy](https://www.linode.com/content/cloud-portability-saas-applications-ebook/)
+
 ###### Industries
 
 * [Digital Agencies](https://www.linode.com/digital-agencies-industry-solutions/)
@@ -189,11 +219,32 @@ Search
 * [Media](https://www.linode.com/video-streaming-solutions/)
 * [SaaS](https://www.linode.com/saas-industry-solutions/)
 
+###### Featured
+
+[![Cloud Pricing Calculator](https://www.linode.com/wp-content/uploads/2020/02/Cloud_Pricing_MockUp2-416x376.png)
+
+Cloud Computing Calculator
+
+Estimate your cloud costs. Price and configure cloud features to match your needs.
+
+Launch Calculator](https://www.linode.com/cloud-computing-calculator/)
+
 ###### Pricing
 
 * [Pricing List](https://www.linode.com/pricing/)
 * [Cloud Estimator](https://www.linode.com/estimator/)
 * [Cloud Computing Calculator](https://www.linode.com/cloud-computing-calculator/)
+
+###### Free eBook
+
+[![IAC eBook](https://www.linode.com/wp-content/uploads/2022/04/IaCeBook-CommunityPg-632x217.jpg)
+
+Try IAC by Justin Mitchel
+
+A step-by-step IAC guide for Terraform,  
+Ansible, Puppet, Chef, and Salt
+
+Download](https://www.linode.com/content/try-infrastructure-as-code-ebook-series/)
 
 ###### Community
 
@@ -217,80 +268,97 @@ Search
 Legal & Compliance Center
 =========================
 
-Our convenient one-stop shop for all things legal, compliance, and trust.
-
 Terms of Service
+----------------
+
+Master Services Agreement
 
 
---------------------
+-----------------------------
 
-[### Master Services Agreement](https://www.linode.com/legal-msa/ "Master Services Agreement")
+[View now](https://www.linode.com/legal-msa/)
 
-[### Data Processing Addendum](https://www.akamai.com/site/en/documents/akamai/akamai-data-protection-addendum.pdf "Data Processing Addendum")
+Data Processing Addendum
 
-[### Acceptable Use Policy](https://www.linode.com/legal-aup/ "Acceptable Use Policy")
 
-[### Cookie Policy](https://www.linode.com/legal-cookies "Cookie Policy")
+----------------------------
 
-[### Privacy Policy](https://www.linode.com/legal-privacy/ "Privacy Policy")
+[View now](https://www.akamai.com/site/en/documents/akamai/akamai-data-protection-addendum.pdf)
 
-#### 
+Acceptable Use Policy
 
-Submit a Trust & Safety Request
 
-[![](https://www.linode.com/wp-content/uploads/2019/12/legalabuse@2x-570x632.png)
+-------------------------
 
-#### Report Abuse](https://www.linode.com/legal-abuse "Report Abuse")
+[View now](https://www.linode.com/legal-aup/)
 
-[![](https://www.linode.com/wp-content/uploads/2019/12/legalrequests@2x-570x632.png)
+Cookie Policy
 
-#### Data & Privacy Requests](https://www.linode.com/legal-dpr "Data & Privacy Requests")
 
-[![](https://www.linode.com/wp-content/uploads/2019/12/legallaw@2x-571x632.png)
+-----------------
 
-#### Law Enforcement & Regulatory Agencies](https://www.linode.com/legal-lera "Law Enforcement & Regulatory Agencies")
+[View now](https://www.linode.com/legal-cookies)
+
+Privacy Policy
+
+
+------------------
+
+[View now](https://www.linode.com/legal-privacy/)
+
+Submit a Trust & Safety Request  
+
+----------------------------------
+
+Report Abuse
+
+
+----------------
+
+[View now](https://www.linode.com/legal-abuse/)
+
+Data & Privacy Requests
+
+
+---------------------------
+
+[View now](https://www.linode.com/legal-dpr)
+
+Law Enforcement & Regulatory Agencies
+
+
+-----------------------------------------
+
+[View now](https://www.linode.com/legal-lera/)
 
 ### Program Policies
 
-[Early Adopter & Testing Policy](https://www.linode.com/legal-eatp)
-
-[Reseller Policy](https://www.linode.com/legal-reseller/)
-
-[Social Change Grant Program Policy](https://www.linode.com/legal-social-change/)
-
-[User Outreach and Promotions Program](https://www.linode.com/promotional-policy)
+* [Early Adopter & Testing Policy](https://www.linode.com/legal-eatp)
+* [Reseller Policy](https://www.linode.com/legal-reseller/)
+* [Social Change Grant Program Policy](https://www.linode.com/legal-social-change/)
+* [User Outreach and Promotions Program](https://www.linode.com/promotional-policy)
 
 ### Provider Terms
 
-[Master Provider Agreement](https://www.linode.com/legal-mpa)
-
-[Provider Data Processing Addendum](https://www.linode.com/legal-provider-dpa)
-
-[Marketplace Policy](https://www.linode.com/legal-marketplace/)
-
-[Contributor Policy](https://www.linode.com/legal-contributor/)
+* [Master Provider Agreement](https://www.linode.com/legal-mpa)
+* [Provider Data Processing Addendum](https://www.linode.com/legal-provider-dpa)
+* [Marketplace Policy](https://www.linode.com/legal-marketplace/)
+* [Contributor Policy](https://www.linode.com/legal-contributor/)
 
 ### Additional Documentation
 
-[Compute Service Level Addenda](https://www.linode.com/legal-sla-compute/)
-
-[Non-Compute Service Level Addenda](https://www.linode.com/legal-sla-non-compute/)
-
-[EU Model Contract](https://www.linode.com/eu-model/)
-
-[Security Overview](https://www.linode.com/legal-security)
-
-[Compliance Overview](https://www.linode.com/legal-compliance/)
-
-[Responsible Disclosure Policy](https://www.linode.com/responsible-disclosure-policy/)
+* [Compute Service Level Addenda](https://www.linode.com/legal-sla-compute/)
+* [Non-Compute Service Level Addenda](https://www.linode.com/legal-sla-non-compute/)
+* [EU Model Contract](https://www.linode.com/eu-model/)
+* [Security Overview](https://www.linode.com/legal-security)
+* [Compliance Overview](https://www.linode.com/legal-compliance/)
+* [Responsible Disclosure Policy](https://www.linode.com/responsible-disclosure-policy/)
 
 ### Notices
 
-[Privacy Shield Notice](https://www.akamai.com/legal/privacy-shield-policy-statement)
-
-[Process Notice](https://www.linode.com/legal-process-notice/)
-
-[EU Digital Services Act (DSA)](https://www.linode.com/eu-digital-services-act/)
+* [Privacy Shield Notice](https://www.akamai.com/legal/privacy-shield-policy-statement)
+* [Process Notice](https://www.linode.com/legal-process-notice/)
+* [EU Digital Services Act (DSA)](https://www.linode.com/eu-digital-services-act/)
 
 [![Akamai Logo](https://assets.linode.com/p2/akamai-logo.svg)](https://www.linode.com/)
 
@@ -398,7 +466,3 @@ All rights reserved.
 * [YouTube](https://www.linode.com/youtube)
 * [LinkedIn](https://www.linkedin.com/company/linode/)
 * [GitHub](https://github.com/linode/)
-
-#### Sign up for the “In the Node” Newsletter
-
-[Sign Up Now](https://www.linode.com/newsletter/)
