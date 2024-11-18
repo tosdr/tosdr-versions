@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Caitlin-Tracey-326x245.jpg)](https://cwbchicago.com/2024/11/family-wins-court-fight-for-remains-of-woman-found-dead-in-south-loop-condo-stairwell.html "Family wins court fight for remains of woman found dead in South Loop condo stairwell")
+
+South Loop
+
+### [Family wins court fight for remains of woman found dead in South Loop condo stairwell](https://cwbchicago.com/2024/11/family-wins-court-fight-for-remains-of-woman-found-dead-in-south-loop-condo-stairwell.html "Family wins court fight for remains of woman found dead in South Loop condo stairwell")
+
+[November 15, 2024 6:15 PM](https://cwbchicago.com/2024/11)
+
+A Cook County judge on Friday cleared the way for family members to claim the body of a woman who was found dead in the stairwell of a South Loop condo building on October 27.[](https://cwbchicago.com/2024/11/family-wins-court-fight-for-remains-of-woman-found-dead-in-south-loop-condo-stairwell.html "Family wins court fight for remains of woman found dead in South Loop condo stairwell")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/Garland-andrew-326x245.jpeg)](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
 
 Loop
@@ -262,16 +272,6 @@ Lincoln Square
 [November 15, 2024 11:12 AM](https://cwbchicago.com/2024/11)
 
 A man has been given an 18-year sentence for robbing seven North Side businesses last year while he was on parole for an 18-year sentence he received for six robberies in 2014.[](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Amarion-Pope-326x245.jpg)](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
-
-West Garfield Park
-
-### [Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
-
-[November 15, 2024 8:48 AM](https://cwbchicago.com/2024/11)
-
-Prosecutors have charged a man with carjacking a driver at gunpoint while on adult parole, juvenile parole, and pretrial release for a felony.[](https://cwbchicago.com/2024/11/man-carjacked-driver-while-on-juvenile-parole-adult-parole-and-pretrial-release-prosecutors.html "Man carjacked driver while on juvenile parole, adult parole, and pretrial release: prosecutors")
 
 Search
 
