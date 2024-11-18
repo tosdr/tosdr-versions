@@ -31,6 +31,258 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+La importancia del plan de seguridad para elecciones
+====================================================
+
+La Policía Nacional anunció que tiene un plan para resguardar las elecciones presidenciales de 2025.
+----------------------------------------------------------------------------------------------------
+
+![Imagen generada con inteligencia artificial, con el prompt: un candidato hace campaña con dos guardaespaldas.](https://www.elcomercio.com/wp-content/uploads/2024/11/Untitled-design-50.jpg)
+
+La seguridad es un pilar fundamental para el desarrollo de **elecciones** libres y transparentes. En Ecuador, con la mira puesta en los comicios generales del 9 de febrero de 2025, el Consejo Nacional Electoral (CNE) y la **Policía Nacional** han puesto en marcha un **Plan Operativo Electoral** que busca garantizar no solo la seguridad de los candidatos, sino también la **tranquilidad** de la ciudadanía[.](https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025 "https://es.wikipedia.org/wiki/Elecciones_presidenciales_de_Ecuador_de_2025")
+
+La historia reciente nos recuerda que las campañas políticas pueden convertirse en **escenarios de riesgo**. Por una parte, se recuerda con escalofrío el magnicidio contra **Fernando Villavicencio**, ocurrido el 9 de agosto de 2023, y ahora que se tiene presente la denuncia de un **candidato** sobre amenazas recibidas. Así, esta realidad merece la urgencia de medidas de protección efectivas.
+
+> El operativo también debe reflejar una visión preventiva que trasciende la protección física de los candidatos. La seguridad en los comicios abarca desde el resguardo de los recintos electorales hasta la prevención de actos de violencia que puedan surgir
+
+En este contexto, el plan anunciado por la **Policía Nacional** no es solo una estrategia operativa, sino una declaración de **compromiso con la democracia**. Proteger a los 15 candidatos presidenciales no es una tarea menor; implica un esfuerzo coordinado para anticipar riesgos y neutralizar **amenazas** que podrían empañar el proceso electoral.
+
+Por otra parte, el trabajo conjunto entre el CNE y la Policía refuerza un mensaje crucial: la democracia no se sostiene solo con votos, sino también con **garantías de seguridad**. En un entorno político caracterizado por la diversidad de opciones —15 candidaturas en firme y una más en proceso de definición—, la competencia electoral debe desarrollarse en igualdad de condiciones. No es aceptable que el miedo o la intimidación condicionen la participación de los **aspirantes** o de los ciudadanos en el proceso electoral.
+
+El [operativo](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html") también debe reflejar una visión preventiva que trasciende la protección física de los candidatos. La seguridad en los comicios abarca desde el r**esguardo de los recintos electorales** hasta la prevención de actos de violencia que puedan surgir en un momento tan decisivo para el país. La ciudadanía debe sentirse respaldada para ejercer su derecho al voto en un **ambiente de paz** y confianza. Este es un reto que requiere la integración de esfuerzos logísticos, humanos y tecnológicos.
+
+En este sentido, el inicio de la campaña electoral, previsto para el 5 de enero de 2025, será una prueba para las instituciones involucradas. Es aquí donde se verá si el **Plan Operativo** logra traducirse en acciones concretas que consoliden un entorno seguro y respetuoso. La seguridad, no obstante, no puede ser una carga exclusiva de la Policía o del CNE; debe ser un **compromiso** de toda la sociedad.
+
+Las elecciones no son solo un ejercicio democrático; son un **acto de esperanza**. La ciudadanía deposita en ellas su confianza en un futuro mejor. Por ello, es fundamental que este proceso no se vea empañado por **actos de violencia o incertidumbre**. El reto está sobre la mesa: que el 9 de febrero sea recordado como una jornada de civismo y participación, no de miedo e **inseguridad**.
+
+La coordinación entre instituciones y la firmeza en la implementación del plan serán claves. Más allá de las medidas anunciadas, es esencial que estas sean comunicadas de forma **transparente** a la población, para que esta sepa que su seguridad está garantizada. Al final, la meta no es solo un proceso electoral exitoso, sino también el fortalecimiento de una democracia que pueda mirar hacia el **futuro** con confianza.
+
+Crisis, patria, caos
+====================
+
+Crisis ambiental y energética, empeorada por falta de previsión y conflictos sociales.
+--------------------------------------------------------------------------------------
+
+![Reinaldo Páez Z., columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Reinaldo-Paez-Z.jpg)
+
+**Fenómenos apocalípticos** se presentan a diario en todas las **latitudes del planeta**: huracanes, tornados, tormentas, incendios, inundaciones, estiajes de los otrora gigantes y torrentosos ejes fluviales, formación de **enormes islas de desechos plásticos** en mares y lagos; peces, tortugas, animales y aves marinas que mueren atragantados por ingerir fundas y objetos de ese **material** que, transformado en una **basura indestructible,** altera la **ecología**. Por otra parte, los gases producidos por los **combustibles fósiles** y los emitidos por **fábricas e industrias**, han formado barreras infranqueables a la salida a la atmósfera del **calor solar** que se refleja después de **calentar la tierra** y han originado el **fenómeno invernadero**, que se suma a la interminable **deforestación** de **bosques** y selvas, con el consiguiente **decrecimiento** de la **evaporación** a través de las hojas y ramas de los **vegetales**, que ocasiona en una **disminución** de las **lluvias** y de los **caudales** de los **ríos**, cuya fuerza hidráulica es aprovechada en la **generación** de **energía eléctrica**, en las **plantas hidroeléctricas**.
+
+Muchos **ambientalistas, biólogos y científicos** han advertido, desde mucho tiempo atrás, que la **humanidad**, con su codicia ilimitada, estaba rompiendo el **equilibrio** y las **condiciones ecológicas** de nuestro planeta y, pese a la realización de **múltiples reuniones mundiales** orientadas a evitar esas irremediables consecuencias, no se ha llegado a **resultados esperanzadores**.
+
+En nuestro país la **sequía** y el **estiaje** no tienen parangón en la **historia** y como, por **antonomasia**, siempre se pensó que los **caudales** y las **caídas** de los ríos de la sierra y del oriente, se mantendrían constantes a lo largo del tiempo, se dio preeminencia a la **construcción** de múltiples **plantas hidroeléctricas** sin prever, como lo hicieron países vecinos, la futura presencia de **sequías** y desarrollar otras **fuentes de generación** **eléctrica**, como la **eólica**, la **fotovoltaica** o la **térmica**. Además, las últimas **plantas hidroeléctricas** construidas, han sido observadas por presentar **defectos de construcción** y por haber servido para el aprovechamiento doloso de **presupuestos inflados** y de coimas millonarias.
+
+Los lechos secos de los ríos son la **expresión** evidente del origen de los **apagones**, que angustian a todos los habitantes del **territorio nacional**. Las soluciones de las **crisis**, con medidas desesperadas, no son inmediatas y en su búsqueda, a veces, se comenten errores.
+
+Se anuncia la **disminución** de la **dotación** de **agua** a los **hogares**, como consecuencia del mismo fenómeno. La **municipalidad** ha emitido esta advertencia. Somos víctimas de una **tragedia mundial,** ¿debemos culpar al gobierno y al municipio por estas circunstancias inmanejables?
+
+¡No!  No debemos hacerlo y por eso llama poderosamente la atención que **organizaciones sindicalistas**, que ni siquiera han permitido una **reestructuración** adecuada del moribundo IESS, ni la **modernización** de las **leyes laborales** y otras de **beneficio** social, unifiquen sus **afanes conspirativos** con los de los **asambleístas irresponsables** y los de los indígenas que destruyeron e incendiaron a Quito, nuestra hermosa capital, e irrogaron una **multimillonaria pérdida económica**, por los destrozos que causó la turba inconsciente, en brutales estallidos, que sirvieron de pretexto para que **grupos paramilitares**, **camuflados** y **armados**, siembren terror entre los **capitalinos**, que no permitirán que, los ahora candidatos, vuelvan a lastimar la **dignidad ciudadana** con sus **salvajes desafueros**. Deben recordar los **dirigentes sindicales** y los **legisladores** que ellos se opusieron a la **participación** de **capitales privados** en la implementación de nuevas **fuentes de energía** “para defender la **soberanía energética**”. Qué gran paradoja: En el Perú, en Colombia y en Chile, la **contribución privada**, a las **áreas energéticas**, es tan grande que ha evitado un **desabastecimiento** como el que tan severamente nos afecta y, sin embargo, esos países hermanos no han perdido la **soberanía energética**. Urge la **reforma constitucional** que termine con esa **prohibición** que tanto **perjuicio** ocasiona a la **nación**.
+
+Si los **dirigentes políticos**–**indígenas**–**sindicalistas** creen que con sus “marchas” **llenarán embalses** y darán fin a la **sequía** y al **estiaje**, están equivocados, pues el único logro que alcanzarán, con estas protestas y con sus absurdas e inconscientes **exigencias**, será sumir en un caos mayor a la **población**, agravar la crisis y confrontar al **sentimiento patrio** y a la **responsabilidad** que tenemos, como ecuatorianos, de luchar y trabajar por un país mejor, **digno y valiente**, que enfrenta las **adversidades** y rechaza a los irresponsables que ven en la desgracia la **oportunidad** de engañar a la **colectividad**.
+
+Cartas a Quito / 18 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este lunes 18 de noviembre de 2024
+------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Pagamos servicios no recibidos 
+-------------------------------
+
+La falta de energía eléctrica afecta a todos y todos debemos asumirla; sin embargo, no se conoce lo que las autoridades de regulación y control realizan para evitar que sus efectos directos sean traslados exclusivamente a millones de consumidores finales que pagamos por internet, telefonía móvil, rastreo satelital, monitoreo de seguridad, entre otros, sin recibirlos como fueron contratadas. Tampoco se evidencian las acciones que las operadoras y otros proveedores de estos servicios han realizado para entregarlos en las condiciones contratadas, aunque para cumplir sus obligaciones deban realizar inversiones y gastos no previstas en sus planes y, por tanto, disminuir sus utilidades. La ética y la responsabilidad social corporativa exige que las empresas afronten imprevistos como parte de los riesgos provenientes de la naturaleza, como el provocado por la prolongada sequía. 
+
+Personalmente, me he comunicado en muchas ocasiones después de esperar decenas de minutos, para solicitar solución a la mala calidad o la falta de recepción de los servicios antes descritos sin lograr que los problemas se solucionen, puesto que la falta de comunicación generalizada continúa y afecta todas las actividades. 
+
+Las autoridades de regulación y control deben analizar estos problemas con los proveedores de los servicios para lograr las mejores y más oportunas soluciones. También deben diseñar nuevos procesos de supervisión ajustados a la dura crisis de energía eléctrica, para garantizar la calidad de los servicios que pagamos millones de usuarios sin recibirlos. 
+
+Un país sin conectividad, sin energía eléctrica y sin el cumplimiento de las obligaciones de cada uno de los actores, está destinado al fracaso, por lo que es indispensable que todos asumamos nuestras responsabilidades para identificar las causas de los problemas y trabajar en las soluciones. 
+
+Mario Andrade Trujillo 
+
+En Quito hay solidaridad durante los cortes de luz
+==================================================
+
+La solidaridad brilla en Quito durante los cortes de luz, donde las personas se apoyan unas a otras para avanzar con sus proyectos y enfrentar la adversidad juntos.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial. Las personas buscan la forma de continuar con sus actividades a pesar de los cortes de luz.](https://www.elcomercio.com/wp-content/uploads/2024/11/Quito-sin-luz-.jpg)
+
+Los **cortes de luz** en **Ecuador** afectan a miles de familias desde el 23 de septiembre de 2024. Estas interrupciones, que en algunos casos duran hasta 14 horas diarias, ocurren por la **falta de lluvia** en **Ecuador**, lo que reduce la capacidad de **generación hidroeléctrica[.](https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,apag%C3%B3n%20(voltaje%20y%20tiempo). "https://es.wikipedia.org/wiki/Apag%C3%B3n_el%C3%A9ctrico#:~:text=Un%20apag%C3%B3n%20el%C3%A9ctrico%20o%20corte,apag%C3%B3n%20(voltaje%20y%20tiempo).")**
+
+### Más noticias
+
+* [Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito](https://www.elcomercio.com/actualidad/quito/agua-quito-embalse-lluvia-tanques.html "Embalse Salve Faccha posee niveles bajos de agua, pero sí abastece a Quito")
+* [Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito](https://www.elcomercio.com/actualidad/quito/ministerio-ambiente-anuncios-pabel-munoz-agua-quito.html "Ministerio de Ambiente se refirió a los anuncios de Pabel Muñoz sobre el agua para Quito")
+* [Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador](https://www.elcomercio.com/opinion/editorial/cuatro-puntos-crisis-electricidad-ecuador.html "Cuatro puntos que se pueden tomar en cuenta sobre los cortes de luz en Ecuador")
+
+En **Quito**, los horarios de racionamiento varían entre la mañana, tarde y noche. Esta situación complica las **actividades** **laborales**, **educativas** y **domésticas**. Ante este panorama, muchas personas buscan formas de adaptarse y surgen historias de solidaridad.
+
+Un matemático en construcción durante los cortes de luz
+-------------------------------------------------------
+
+**Marlon Guevara**, un joven de 23 años que estudia Matemáticas a distancia, vive en el barrio **Zabala**, en **Calderón**, norte de Quito.
+
+Los cortes de luz en su hogar, de 10:00 a 15:00 y de 19:00 a 24:00 durante la última semana, lo obligan a buscar alternativas para avanzar en su **tesis** y **tareas universitarias.** Por esta razón, acude a la casa de su vecino **Carlos Sánchez**, quien conecta un UPS al módem de su hogar y le permite a Guevara estudiar desde las 19:30.
+
+Carlos, quien trabaja en una carpintería y vive solo, le brinda su apoyo incondicional. “Es mi única opción para no atrasarme”, comenta **Marlon**, quien también maneja un taxi informal entre las 10:00 y las 16:00 para cubrir sus gastos.
+
+A los 20 años dejó la casa de sus padres en Ibarra en busca de **independencia** y ahora enfrenta este desafío con la misma determinación que lo llevó a perseguir su licenciatura.
+
+Estudio y maternidad en tiempos de cortes de luz
+------------------------------------------------
+
+**Fernanda Marroquín**, de 27 años, cursa el segundo semestre de **Comunicación** a distancia mientras cría a sus dos hijos, de 7 y 2 años. En su casa, ubicada también en el norte de Quito, los apagones complican su rutina, especialmente en esta temporada de entrega de proyectos finales.
+
+Para continuar con sus estudios, Fernanda solicita la **ayuda de Consuelo Valencia**, una vecina que le abre las puertas de su hogar para que sus hijos realicen sus deberes escolares.
+
+Gracias a Consuelo y su hija Cristina, **Fernanda** utiliza una computadora para avanzar en sus trabajos universitarios. “No sé qué haría sin su ayuda”, afirma, mientras equilibra sus responsabilidades académicas y familiares.
+
+Solidaridad desde Solanda
+-------------------------
+
+En el sur de **Quito**, **Marcelo Pazmiño** toma la iniciativa frente a los constantes cortes de luz en su barrio. **Compró** una batería con un transformador para mantener activo el módem de su casa y decidió abrir su hogar para que sus vecinos usen su conexión a Internet y avancen en sus actividades.
+
+“Los niños necesitan cumplir con sus **deberes**, y sus padres con sus trabajos. Aquí no hay otra opción”, explica **Marcelo**.
+
+La falta de lluvias convierte a los ríos en piedras, según describe. Su casa ahora funciona como un espacio comunitario donde familiares y amigos enfrentan esta crisis energética con su apoyo.
+
+Un espacio para la niñez en La Legarda
+--------------------------------------
+
+En el barrio **La Legarda**, noroccidente de **Quito**, **Rafael Vega** habilita la casa **comunal** para que los niños jueguen en la cancha de baloncesto durante los cortes de luz.
+
+Cerca de 10 niños llegan todas las tardes a este espacio y aprovechan las horas sin **electricidad** para compartir y divertirse al aire libre.
+
+Vega destaca que lo positivo de los **apagones** es que los niños ahora salen a jugar en lugar de permanecer en casa frente a una pantalla.
+
+Las puertas de la casa comunal se abren a las 16:00, cuando él **regresa al barrio** después de su jornada laboral en como sonidista.
+
+Aunque no dispone de los medios para abastecer de energía a la casa comunal, **Rafael** asegura que este pequeño gesto es su manera de contribuir al bienestar de los niños del sector. “Es lo único que puedo hacer por ellos en esta situación”, afirma con humildad.
+
+Antonio García fue descartado como reemplazo de Jan Topic para la candidatura presidencial
+==========================================================================================
+
+Jan Topic aun no tiene reemplazo para su candidatura a la Presidencia de la República.
+--------------------------------------------------------------------------------------
+
+![Jan Topic, empresario Guayaquileño.](https://www.elcomercio.com/wp-content/uploads/2024/11/Jan-Topic.jpg)
+
+A pesar de que se había anunciado que había sido designado el reemplazo de Jan Topic para la candidatura presidencial por el partido Suma, esa entidad política dio atrás con el proceso la noche de este domingo 17 de noviembre de 2024[.](https://es.wikipedia.org/wiki/Jan_Topi%C4%87 "https://es.wikipedia.org/wiki/Jan_Topi%C4%87")
+
+Más noticias
+------------
+
+* [Contencioso Electoral dictamina que Topic no puede ser candidato](https://www.elcomercio.com/actualidad/politica/tce-niega-candidatura-topic.html "Contencioso Electoral dictamina que Topic no puede ser candidato")
+* [Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic](https://www.elcomercio.com/actualidad/politica/suma-receptara-carpetas-candidatos-presidencia-jan-topic.html "Suma receptará carpetas de candidatos a la Presidencia en vez de Jan Topic")
+
+Por la tarde se había anunciado que el **abogado Antonio García** **reemplazaría** en la candidatura a Jan Topic. Sin embargo, se conoció por fuentes cercanas a Suma, que es posible que García tuviera **problemas** para **solventar la candidatura** y esta podría haber sido no admitida por el Consejo Nacional Electoral (CNE).
+
+**Topic** tuvo que dejar a un lado su aspiración presidencial, ya que fue **descalificado** el pasado 10 de noviembre por el Tribunal Contencioso Electoral (TCE), que aceptó una impugnación por mantener contratos con instituciones del Estado.
+
+Topic además anunció que presentará este **lunes 18 una acción de protección** ante la Corte Constitucional, para participar en la elección.
+
+SUMA tenía hasta este lunes para presentar a un **candidato que reemplace** a Topic, luego que el Consejo Nacional Electoral (CNE), que organiza los comicios generales de febrero próximo, aceptó la decisión del TCE.
+
+**García** es un abogado y consultor político de 43 años de edad, que terció en un **proceso** organizado por Suma para buscar al sustituto de Topic en la papeleta electoral de su movimiento. **Guillermo Celi,** director de Suma, indicó que este lunes iba a inscribir a García ante el CNE.
+
+Proceso contra Topic
+--------------------
+
+El Tribunal Contencioso Electoral aceptó hace una semana las **impugnaciones** contra la candidatura de Topic, al considerar que el empresario y especialista en seguridad tenía un presunto conflicto de intereses por mantener contratos con instituciones del Estado.
+
+SUMA había inscrito la candidatura de Topic, en binomio o tándem con **Michelle Calvache**, que postula a la Vicepresidencia para los comicios generales de febrero próximo.
+
+Hay 15 candidaturas en carrera
+------------------------------
+
+El Consejo Nacional Electoral tiene al momento **15 candidaturas** en firme con miras a los comicios del próximo año, en los que también se renovará la **Asamblea Nacional.**
+
+Entre los candidatos presidenciales figura el actual mandatario, el empresario **Daniel Noboa**, que intenta la reelección.
+
+**_Con información de EFE_**
+
+Así serán los cortes de luz en Guayaquil este 18 de noviembre de 2024
+=====================================================================
+
+Los cortes de luz programados en Guayaquil desde este 18 de noviembre afectarán tanto a zonas residenciales como industriales.
+------------------------------------------------------------------------------------------------------------------------------
+
+![Así serán los cortes de luz este 18 de noviembre de 2024, en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-1811.jpg)
+
+La crisis energética continúa en el país. El Ministerio de Energía y Minas estableció el cronograma de **cortes de luz** para la tercera semana de noviembre. Según el horario oficial, los racionamientos eléctricos serán de hasta ocho horas diarias desde este 18 de noviembre de 2024.
+
+### Más noticias
+
+* [Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil](https://www.elcomercio.com/actualidad/ecuador/cambios-inesperados-horarios-cortes-luz-quito-guayaquil.html "Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil")
+* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz")
+* [Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz](https://www.elcomercio.com/actualidad/ecuador-colombia-acuerdo-venta-energia-solventar-cortes-de-luz.html "Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz")
+
+Horarios y programación para este lunes en Guayaquil
+----------------------------------------------------
+
+Los cortes de luz **programados en Guayaquil** desde este 18 de noviembre al jueves 21 de noviembre afectarán tanto a zonas residenciales como industriales.
+
+La Corporación Nacional de Electricidad (CNEL), la empresa responsable de la distribución eléctrica en la ciudad, informó que las interrupciones serán en dos períodos de cuatro horas cada uno.
+
+Mire aquí los horarios de los cortes para cada sector
+-----------------------------------------------------
+
+Asimismo, para conocer los cronogramas específicos del resto de empresas distribuidoras de electricidad del país. Puede consultar directamente los canales oficiales de las entidades o en el [portal del Ministerio de Energía y Minas](https://www.recursosyenergia.gob.ec/programacionracionamientos-deenergiapor-distribuidora2/).
+
+> 🚨 IMPORTANTE  
+>   
+> Consulta los horarios y sectores de las 11 Unidades de Negocio de [#CNELEP](https://twitter.com/hashtag/CNELEP?src=hash&ref_src=twsrc%5Etfw) que tendrán interrupción del servicio eléctrico del 18 al 21 de noviembre de 2024.  
+>   
+> Horarios por Unidades de Negocio aquí:  
+>   
+> Bolívar: [https://t.co/50xmjI6tzn](https://t.co/50xmjI6tzn)  
+> El Oro: [https://t.co/A9G2hFaWZx](https://t.co/A9G2hFaWZx)… [pic.twitter.com/tBuCTw5CZ3](https://t.co/tBuCTw5CZ3)
+> 
+> — CNEL EP (@CNEL\_EP) [November 18, 2024](https://twitter.com/CNEL_EP/status/1858326302689779858?ref_src=twsrc%5Etfw)
+
+Quejas por incumplimiento de los horarios
+-----------------------------------------
+
+Por su parte, decenas de guayaquileños reportaron incumplimiento de los horarios durante el fin de semana del 16 y 17 de noviembre. Estos cambios inesperados de los cronogramas generan incertidumbre entre los ciudadanos, quienes piden mayor claridad en la comunicación de las empresas distribuidoras de energía.
+
+Inés Manzano dice que Colombia empezó a entregar energía a Ecuador
+==================================================================
+
+La ministra de Energía encargada, Inés Manzano, anunció nuevas medidas para enfrentar la crisis energética que vive el Ecuador
+------------------------------------------------------------------------------------------------------------------------------
+
+![Inés Manzano, ministra de Energía, encargada.](https://www.elcomercio.com/wp-content/uploads/2024/11/Ines-Manzano-ok.jpg)
+
+La ministra de Energía encargada, **Inés Manzano**, anunció nuevas acciones realizadas por el Gobierno de **Daniel Noboa,** para enfrentar la **crisis energética** que vive el **Ecuador**. Entre los anuncios destacó la reducción de los **cortes de luz** a ocho horas diarias en todo el país desde el 18 de noviembre de 2024 y la compra de energía a **Colombia**.
+
+### Más noticias
+
+* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz")
+* [Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz](https://www.elcomercio.com/actualidad/ecuador-colombia-acuerdo-venta-energia-solventar-cortes-de-luz.html "Ecuador y Colombia llegan a un acuerdo para venta de energía para solventar cortes de luz")
+* [Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil](https://www.elcomercio.com/actualidad/ecuador/cambios-inesperados-horarios-cortes-luz-quito-guayaquil.html "Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil")
+
+La ministra señaló que el suministro de energía **desde Colombia** empezó desde este domingo 17 de noviembre. Lo cual se reflejó en una reducción en los tiempos de cortes de luz en todo el Ecuador.
+
+“Desde hoy Colombia inició con el despacho de energía eléctrica hacia nuestro país, en promedio se ha transferido 420 MW. Para mañana esperemos una entrega de 440 MW. Ambos países elaboramos las regulaciones para las transacciones comerciales”, dijo.
+
+La compra de energía desde **Colombia** se concretó tras la aprobación de una resolución en el país vecino, que permitió retomar las exportaciones de electricidad a Ecuador. Estas se habían suspendido desde el 30 de septiembre pasado.
+
+Además, señaló que las condiciones hídricas de los afluentes de la zona oriental se incrementaron y se vio una mejora en la generación de la central hidroeléctrica **Coca Codo Sinclair**, ubicada entre las provincias de Napo y Sucumbíos.
+
+“Desde el lunes hasta el jueves se presentará una reducción en los horarios de racionamiento. Los cortes serán de hasta 8 horas. Esta noticia se debe a las previsiones que existen en cuanto al aumento de precipitaciones en la zona de la central **Coca Codo Sinclair**”, dijo.
+
+Además, señaló que se espera que desde diciembre los **cortes de luz** se reduzcan, siempre y cuando las condiciones climáticas sean favorables. “A nivel regional tenemos problemas por el cambio del clima”, afirmó Manzano.
+
+Entre las acciones destacadas, la ministra mencionó la decisión de iniciar en diciembre la entrega de 68 MW provenientes de la central Alluriquín, parte del proyecto Toachi Pilatón. Asimismo, informó que se inspeccionaron en Estados Unidos 23 turbinas duales, que llegarán al país a inicios de diciembre.
+
+Nuevas inversiones y regulaciones fortalecen el sector eléctrico
+----------------------------------------------------------------
+
+Manzano señaló que el Gobierno ha recuperado 600 MW de capacidad en **termoeléctricas** nacionales y que continúan evaluando opciones para robustecer el sistema eléctrico. Además, el viernes pasado se firmaron contratos de **compra y renta de energía** que se incorporarán progresivamente hasta 2025, aseguró.
+
+Asimismo, la ministra destacó la reciente aprobación de la ley para el mejoramiento energético, que amplía el límite de generación de energía privada de 10 MW a 100 MW. También, aseguró que se avanza en la ejecución del proyecto **geotérmico Chachimbiro**, en **Imbabura**, clave para diversificar la matriz energética del Ecuador.
+
 Cortes de luz se reducen desde este 18 de noviembre en Quito
 ============================================================
 
@@ -39,7 +291,7 @@ El Ministerio de Energía y Minas anunció los nuevos horarios de cortes de luz 
 
 ![Los cortes de luz continúan este 18 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz-171124.jpg)
 
-El **Ministerio de Energía y Minas** anunció los nuevos **horarios de cortes de luz** para el inicio de la tercera semana de noviembre de 2024. Según el **cronograma los racionamientos** se reducen desde este 18 de noviembre en **Quito**.
+El **Ministerio de Energía y Minas** anunció los nuevos **horarios de cortes de luz** para la tercera semana de noviembre de 2024. Según el **cronograma, los racionamientos** se reducen desde este 18 de noviembre en **Quito**.
 
 ### Más noticias
 
@@ -50,7 +302,7 @@ El **Ministerio de Energía y Minas** anunció los nuevos **horarios de cortes d
 Horarios de los cortes de luz en Quito
 --------------------------------------
 
-La Empresa Eléctrica Quito publicó los **horarios de cortes de luz** para el 18 y 19 de noviembre del 2024. Estos horarios contemplan racionamientos de hasta ocho horas diarias de suspensión del servicio en la zona residencial. En el sector industrial los cortes también continúan.
+La Empresa Eléctrica Quito publicó los **horarios de cortes de luz** desde el 18 al 21 de noviembre del 2024. Estos horarios contemplan racionamientos de hasta ocho horas diarias de suspensión del servicio en la zona residencial. En el sector industrial los cortes también continúan.
 
 De 00:00 a 04:00 y de 12:00 a 16:00
 -----------------------------------
@@ -67,8 +319,8 @@ De 08:00 a 12:00 y de 20:00 a 24:00
 
 * Luluncoto
 * La Floresta
-* Nueva Cumbayá
 * Eplicachima
+* Nueva Cumbayá
 
 Desde 02:00 a 06:00 y de 19:00 a 23:00
 --------------------------------------
@@ -841,300 +1093,3 @@ DT: Reinaldo Rueda
 
 San viernes
 -----------
-
-¿A qué hora se va la luz en Guayaquil este 17 de noviembre?
-===========================================================
-
-Guayaquil enfrenta cortes de luz programados de hasta 12 horas este domingo 17 de noviembre.
---------------------------------------------------------------------------------------------
-
-![Los cortes de luz en Guayaquil generan quejas por horarios incumplidos y facturas más altas. Foto: Freepik](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-de-luz--3.jpg)
-
-  
-**Guayaquil** enfrenta una **nueva jornada de cortes de luz** programados este domingo 17 de noviembre, como parte de las **medidas implementadas por la crisis energética** que afecta al país. Las interrupciones, que pueden extenderse hasta 12 horas diarias, son consecuencia de las **condiciones hidrológicas adversas** que han reducido la capacidad operativa de las principales hidroeléctricas de **Ecuador**.
-
-### Más noticias
-
-* [Los cortes de luz serán así este domingo 17 de noviembre en Quito](https://www.elcomercio.com/actualidad/los-cortes-de-luz-seran-asi-este-domingo-17-de-noviembre-en-quito.html)
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html)
-* [Dos empresas textiles de Otavalo generan energía limpia con paneles solares](https://www.elcomercio.com/actualidad/negocios/dos-empresas-textiles-de-otavalo-generan-energia-limpia-con-paneles-solares.html)
-
-  
-Horarios de los cortes de luz
---------------------------------
-
-  
-La Corporación Nacional de Electricidad (CNEL) confirmó que los **cortes programados** continuarán este domingo, tanto a zonas residenciales como industriales de Guayaquil. Las interrupciones se distribuyen en franjas de tres a cuatro horas, con el objetivo de permitir a los ciudadanos **organizar sus actividades**. Para conocer los detalles específicos, se recomienda consultar los canales oficiales de CNEL o el portal del Ministerio de Energía y Minas.
-
-  
-Quejas por la falta de claridad y el impacto económico
----------------------------------------------------------
-
-La falta de cumplimiento de los cronogramas en algunos sectores ha generado **malestar entre los guayaquileños.** Usuarios reportan inconsistencias en los horarios y **facturas eléctricas** con valores superiores a meses anteriores, a pesar del menor consumo provocado por las interrupciones.
-
-Las críticas también se han extendido a redes sociales, donde los **ciudadanos exigen mayor transparencia** en la comunicación de las empresas eléctricas. Esta incertidumbre afecta especialmente a los negocios locales, que dependen del **suministro eléctrico** para operar. Comerciantes aseguran que los cortes han dificultado sus actividades diarias, agravando la situación económica.
-
-  
-Medidas frente a la crisis energética
-----------------------------------------
-
-El **Ministerio de Energía y Minas** insiste en que las medidas son necesarias para mitigar los efectos de la crisis energética actual. Las **condiciones climáticas** han reducido la generación de **energía en las hidroeléctricas**, lo que obliga al Gobierno a implementar restricciones en todo el país.
-
-Guayaquil, como una de las ciudades más grandes y activas del país, enfrenta **retos significativos para adaptarse a esta situación.** Los ciudadanos y las autoridades buscan soluciones conjuntas para reducir el **impacto de los cortes en la vida diaria** y la economía local.
-
-Si deseas más información sobre el cronograma y las zonas afectadas, consulta las plataformas oficiales de CNEL.
-
-[CNEL GUAYAQUIL 15 AL 17 NOV](https://www.elcomercio.com/wp-content/uploads/2024/11/CNEL-GUAYAQUIL-15-AL-17-NOV-1.pdf)[Descarga](https://www.elcomercio.com/wp-content/uploads/2024/11/CNEL-GUAYAQUIL-15-AL-17-NOV-1.pdf)
-
-La Selección de Ecuador buscará su segunda victoria en Colombia
-===============================================================
-
-En las eliminatorias sudamericanas, Ecuador solo ha logrado una victoria en territorio colombiano.
---------------------------------------------------------------------------------------------------
-
-![Luis Díaz (izq.) y Piero Hincapié en el último partido entre Ecuador y Colombia pro eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-15T171342.586.jpg)
-
-La **Selección de Ecuador** visitará a **Colombia** este martes 19 de noviembre en una nueva fecha de las eliminatorias sudamericanas. Será su enfrentamiento número 22 en el proceso de clasificación al Mundial, y el undécimo en territorio colombiano.
-
-El conjunto dirigido por **Sebastián** **Beccacece** llega con un fuerte envión anímico, luego de lograr su segunda victoria en el ciclo con una goleada ante Bolivia, que le dio confianza para afrontar este nuevo reto.
-
-### Más noticias:
-
-* [Leonardo Campana desafectado de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/leonardo-campana-angelo-preciado-eliminatorias.html "Leonardo Campana desafectado de la Selección de Ecuador")
-* [EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp](https://www.elcomercio.com/deportes/futbol/partidos-seleccion-ecuador-en-vivo-whatsapp-eliminatorias.html "EL COMERCIO te acerca a la Selección de Ecuador por WhatsApp")
-* [El emotivo video para despedir a Ángel Mena de la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/angel-mena-video-despedida-ecuador.html "El emotivo video para despedir a Ángel Mena de la Selección de Ecuador")
-
-El entrenador a**rgentino mantiene un saldo positivo desde su llegada a la selección**, con cinco partidos disputados: dos victorias, dos empates y solo una derrota (1-0 en su visita a Brasil). Además, su equipo ha anotado cinco goles y recibido solo uno, consolidando a la Selección de Ecuador como la mejor defensa de las eliminatorias sudamericanas.
-
-Ecuador solo ha ganado una vez en Colombia
-------------------------------------------
-
-**Ecuador** y **Colombia** se han enfrentado un total de 21 veces en las eliminatorias sudamericanas, con los cafeteros manteniendo un saldo favorable como locales.
-
-En 10 encuentros disputados en Colombia, los anfitriones lograron seis victorias, tres empates y **solo una derrota**. Además, han marcado 13 goles, mientras que Ecuador ha anotado solo tres.
-
-La única vez que la Selección de Ecuador ganó en suelo colombiano fue en su primer enfrentamiento por eliminatorias, el **20 de julio de 1965,** durante el proceso clasificatorio al Mundial de Inglaterra 1966. En aquella histórica victoria, **Washington Muñoz** fue el autor del gol que dio a Ecuador el triunfo por 0-1.
-
-Como dato adicional, en la última visita de Ecuador a Colombia en las eliminatorias para el Mundial de Qatar 2022, la ‘Tri’, entonces dirigida por el argentino **Gustavo Alfaro, logró un empate sin goles**.
-
-Colombia vs. Ecuador
---------------------
-
-Ecuador se enfrentará contra Colombia este martes **19 de noviembre en Barranquilla**, en la duodécima jornada de las eliminatorias. El partido comenzará a las 18:00 (hora Ecuador).
-
-No te pierdas nuestro Especial de Halloween
--------------------------------------------
-
-Las sanciones que apresuraron el descenso del Deportivo Quito en 2016
-=====================================================================
-
-El Deportivo Quito juega en la Segunda Categoría de Pichincha desde el 2017.
-----------------------------------------------------------------------------
-
-![En el 2015, la última temporada de Deportivo Quito en Serie A en un cotejo ante Liga de Quito en el estadio Atahualpa.](https://www.elcomercio.com/wp-content/uploads/2022/03/3180350.jpg)
-
-La sanción impuesta por la **Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF)** a Liga de Quito por no cumplir con dos de sus acreedores, trae a la memoria lo que en su momento vivió el Deportivo Quito.
-
-El sábado 16 de noviembre de 2024, la Comisión Disciplinaria **decidió restarle tres puntos a Liga de Quito** por no cumplir con los acuerdos de pago con Franklin Guerra y Renato Ibarra, campeones nacionales en el 2018 y 2023, respectivamente.
-
-### Más noticias:
-
-* [Liga de Quito pierde tres puntos por una sanción](https://www.elcomercio.com/deportes/futbol/liga-quito-sancion-fef-puntos.html "Liga de Quito pierde tres puntos por una sanción")
-* [Paul Pogba y la Juventus terminaron su relación laboral](https://www.elcomercio.com/deportes/futbol/paul-pogba-juventus-italia-francia.html "Paul Pogba y la Juventus terminaron su relación laboral")
-* [John Yeboah regresó a la titularidad con Ecuador, ¿cómo jugó?](https://www.elcomercio.com/deportes/futbol/john-yeboah-regreso-a-la-titularidad-con-ecuador.html "John Yeboah regresó a la titularidad con Ecuador, ¿cómo jugó?")
-
-Liga anunció que esta decisión será apelada para no perder los puntos que ganó en la cancha. Lo cierto y real es que al momento comparte el primer lugar de la segunda etapa con Independiente del Valle con 26 puntos.
-
-Hace nueve años el que **padeció las sanciones de la FEF y la FIFA fue el Deportivo Quito** en su paso por la Serie B, con lo que se concretó su descenso a la Segunda Categoría de Pichincha luego de 50 años de no estar en ella.
-
-El Quito aún lucha por regresar a los primeros planos del fútbol nacional. Este domingo 17 jugará el partido de ida de los **cuartos de final del Torneo de Ascenso ante Liga de Portoviejo**, otros de los equipos históricos que pugnan por uno de los dos cupos disponibles de la B.
-
-Las sanciones del Deportivo Quito
----------------------------------
-
-El 21 de junio, **Álex de la Torre, presidente de la Comisión Disciplinaria de la FEF**, confirmó la reducción de seis puntos al Deportivo Quito, por orden de la FIFA.
-
-El motivo fue la deuda con el **jugador argentino Gonzalo Rovira**, que militó en el club en el 2011. El monto ascendía a 120 000 dólares.
-
-Esos no eran los primeros punto perdidos. Por no presentar roles de pago de abril y **no presentarse ante Espoli,** le significó perder cuatro puntos más.
-
-El 2 de agosto la FEF cumplió la orden de la FIFA para restarle seis puntos por la **deuda con el exjugador Martín Andrizzi**, quien vistió de azul y grana entre el 2008 y 2009.
-
-Ese mismo día ordenó descontar otros seis puntos, porque no presentaron los roles de pago de abril y mayo, aunque después esos puntos fueron devueltos.
-
-Las sanciones enumeradas son solo algunas que desencadenaron el descenso la noche del viernes 9 de septiembre.
-
-Las constantes **deudas hicieron que no esté habilitado para jugar en la fecha 31 ante el Gualaceo**, por lo que al ser la segunda ocasión que incurría en esta falta, perdió la categoría.
-
-En la tabla de posiciones la ‘AKD’ quedó registrado con dos puntos, pese a que en las 44 fechas ganó nueve partidos, empató nueve y perdió 26. **Anotó 41 goles y recibió 88** para tener un gol diferencia negativo de -47.
-
-Pero lo peor aún no se concretaba. El 5 de diciembre de 2018 por el incumplimiento en el pago de 45 000 dólares con Andrizzi, provocó que la FIFA solicite a la FEF el descenso al fútbol amateur de Pichincha.
-
-San viernes
------------
-
-El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza
-======================================================================================
-
-Quito tiene un visor donde se detallan los perfiles de las víctimas y los tipos siniestros que ocurren en el año.
------------------------------------------------------------------------------------------------------------------
-
-![Los expertos señalan varias razones por las que hay muertos por siniestros de tránsito en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/motociclista-.jpg)
-
-Hoy, domingo 17 de noviembre, se conmemora el **Día Mundial de las Víctimas por Siniestros de Tránsito**, una fecha para reflexionar sobre el número de fallecimientos registrados en las vías por esta causa[.](https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_en_Recuerdo_de_las_V%C3%ADctimas_de_Accidentes_de_Tr%C3%A1fico "https://es.wikipedia.org/wiki/D%C3%ADa_Mundial_en_Recuerdo_de_las_V%C3%ADctimas_de_Accidentes_de_Tr%C3%A1fico")
-
-### Más noticias
-
-* [Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito](https://www.elcomercio.com/deportes/futbol/marco-angulo-futbolistas-fallecidos-siniestros.html "Marco Angulo y otros futbolistas fallecidos en siniestros de tránsito")
-* [Que la prevención de los siniestros de tránsito no se detenga en Quito](https://www.elcomercio.com/opinion/editorial/prevencion-siniestros-transito-quito-accidentes.html "Que la prevención de los siniestros de tránsito no se detenga en Quito")
-* [Quito tiene opciones para reducir los siniestros de tránsito](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-choques-muertes.html "Quito tiene opciones para reducir los siniestros de tránsito")
-
-En **Quito** los siniestros de tránsito ocurren todos los días, según los expertos, y este es el perfil de ciudadano que más muere por este motivo.
-
-Motociclistas: las principales víctimas en Quito
-------------------------------------------------
-
-En **Quito**, los datos de **Data Vial** muestran que los motociclistas encabezan las estadísticas de fallecimientos por **siniestros de tránsito.** Esta situación responde a diversas causas, según los expertos.
-
-| Datos de enero a octubre de 2024 | Cantidad de eventos |
-| --- | --- |
-| Fallecidos | 213 |
-| Lesionados | 1 817 |
-| Siniestros | 3 057 |
-
-Entre enero y octubre de 2024, el Municipio de Quito reportó cifras alarmantes. Especialistas de Bloomberg, durante una charla con **EL COMERCIO**.
-
-Aunque el **peatón** constituye el actor vial más vulnerable y requiere mayor protección, las estadísticas de Quito lo ubican como la segunda víctima mortal más frecuente. Los motociclistas ocupan el primer lugar.
-
-| Tipo de actor vial | Hombre (%) | Mujer (%) | No identificados (%) |
-| --- | --- | --- | --- |
-| Ocupante motocicleta | 35% | 4%  | 38% |
-| Peatón | 20% | 9%  | 29% |
-| Ocupante vehículo 4 ruedas | 15% | 4%  | 19% |
-| Otros | 8%  | 3%  | 11% |
-| Bus | 3%  | 0%  | 3%  |
-
-Víctimas mortales por siniestros de tránsito en Quito.
-
-Factores detrás de la siniestralidad
-------------------------------------
-
-Andrés Castillo, experto en **movilidad**, atribuye esta problemática a la falta de **cultura vial** en la capital y al incremento del uso de **motocicletas**. “Muchas personas optan por este medio de transporte para generar ingresos a través del delivery”, señala.
-
-**Bloomberg** confirma esta tendencia, ya que la mayoría de **motociclistas** **fallecidos** pertenecen al rango de edad de 20 a 39 años, población económicamente activa.
-
-Además, la falta de experiencia y la impericia en la conducción contribuyen significativamente al problema. Desde 2022, los datos reflejan una continuidad en este patrón.
-
-Los especialistas identifican el **autovolcamiento** como el tipo de **siniestro** más frecuente entre los **motociclistas**, causado principalmente por el **exceso de velocidad**, asociado con la **inexperiencia** y la falta de pericia al manejar.
-
-**Castillo** también señala la insuficiente aplicación de las leyes de tránsito en **Quito** como un factor agravante.
-
-Impacto de los cortes de luz en los controles
----------------------------------------------
-
-En **Quito**, la interrupción de los **controles de velocidad** comenzó en septiembre debido a los cortes de luz.
-
-Esto obligó a la Agencia Metropolitana de Tránsito (AMT) a reasignar a su personal para gestionar el tráfico en intersecciones semafóricas afectadas.
-
-¿Cómo será la etapa final de la Vuelta al Ecuador?
-==================================================
-
-La Vuelta al Ecuador 2024 llega a su etapa final, que llegará hasta la Mitad del Mundo, y se definen los ganadores del certamen de ciclismo.
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![Ciclistas de la Vuelta al Ecuador en la etapa seis de la edición 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/WhatsApp-Image-2024-11-16-at-10.54.06-AM-scaled.jpeg)
-
-La **Vuelta al Ecuador** de ciclismo 2024 llega a su fin y espera por dirimir un ganador en cada una de las categorías. En su séptimo día, la competencia retornará a Quito y cerrará el recorrido global de 1087, 90 kilómetros.
-
-Este domingo 17 de noviembre del 2024 a partir de las 10:00 se llevará a cabo el último recorrido de la edición con un trayecto de **159,48 kilómetros**. Este se llevará a cabo entre Atuntaqui (Imbabura) y Quito (Pichincha), donde los ciclistas llegarán hacia la Mitad del Mundo.
-
-### Más noticias:
-
-* [Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder](https://www.elcomercio.com/deportes/ciclismo/richard-huera-ganador-etapa6-vuelta.html "Richard Huera ganó la penúltima etapa de la Vuelta al Ecuador y es el líder")
-* [¿Cómo será la etapa 6 de la Vuelta al Ecuador?](https://www.elcomercio.com/deportes/ciclismo/como-sera-la-etapa-6-de-la-vuelta-al-ecuador.html "¿Cómo será la etapa 6 de la Vuelta al Ecuador?")
-* [Brayan Obando busca devolverle una Vuelta al Ecuador al país](https://www.elcomercio.com/deportes/brayan-obando-lider-vuelta-ecuador.html "Brayan Obando busca devolverle una Vuelta al Ecuador al país")
-
-Dentro del recorrido, los ciclistas se encontrarán con un recorrido variable entre subidas y bajadas. A partir de ello, **las metas volantes y los puertos de montaña** establecidos tendrán alternancia durante el trazado.
-
-Las metas volantes tendrán sus puntos en los kilómetros **63,87; 74,3 y 118,5**. En el caso de los puertos de montaña, que serán tres de primera categoría, estos quedarán fijados en los kilómetros 35,62; 86,28 y 149, 9 de la competencia.
-
-Una Vuelta al Ecuador con ganadores casi definidos
---------------------------------------------------
-
-La **sexta etapa**, penúltima del evento, fue determinante para el posicionamiento de los corredores dentro de la competencia ciclística. Aquella fue una etapa de montaña que contó con cuatro puertos, uno de segunda categoría, dos de primera y un HC.
-
-La exigencia de la etapa coadyuvó para que se marquen diferencias entre los participantes, tanto de la etapa como de la tabla general de la **Vuelta al Ecuador**. De tal manera, los líderes quedaron bien perfilados de cara a su última participación.
-
-El gran favorito para la última etapa y para llevarse el trofeo ciclístico es **Richard Huera** del Team Movistar Best PC. Este se hizo con el liderato de la tabla general y cuenta con más de un minuto de ventaja sobre **Óscar Sevilla** del Team Medellín, su inmediato perseguidor[.](https://es.wikipedia.org/wiki/Vuelta_al_Ecuador)
-
-En el caso de las demás clasificaciones, **Joffre Imbaquingo** tiene comodidad como líder del equipo sub-23, así como **Esteban Villarreal** en las metas volantes. Dentro de la de montaña, Juan Carlos Córdova es el líder y recuperó el jersey de puntos rojos.
-
-La lluvia de meteoros Leónidas regalarán un espectáculo celestial inolvidable 
-==============================================================================
-
-La lluvia de meteoros Leónidas promete un espectáculo celestial del 17 al 18 de noviembre.
-------------------------------------------------------------------------------------------
-
-![Las Leónidas iluminan el cielo con meteoros veloces. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/lluvia-de-meteoros-leonidas.jpg)
-
-La **lluvia de meteoros Leónidas** es un fenómeno astronómico interesante para los aficionados. Este evento ocurre anualmente entre el 6 y el 30 de noviembre, **cuando la Tierra atraviesa el rastro de partículas dejadas por el cometa 55P/Tempel-Tuttle**, descubierto en 1865. Este año, **el pico de actividad se espera durante la noche del 17 al 18 de noviembre**, lo que ofrecerá a los observadores la **oportunidad de ver entre 10 y 20 meteoros por hora bajo condiciones ideales**, según [National Geographic](https://www.ngenespanol.com/el-espacio/leonidas-2024-como-ver-el-momento-cumbre-de-la-proxima-lluvia-de-estrellas/ "https://www.ngenespanol.com/el-espacio/leonidas-2024-como-ver-el-momento-cumbre-de-la-proxima-lluvia-de-estrellas/"). 
-
-### Más noticias
-
-* [La Luna de Castor llega como la última superluna del año](https://www.elcomercio.com/tendencias/ciencia/luna-castor-fenomeno-astronomico.html "https://www.elcomercio.com/tendencias/ciencia/luna-castor-fenomeno-astronomico.html")
-* [Calendario de los eventos astronómicos más importantes de este 2024](https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html "https://www.elcomercio.com/tendencias/ciencia/astronomia-calendario-planetas-ecuador.html")
-
-**Origen de la lluvia de meteoros Leónidas** 
----------------------------------------------
-
-**Las Leónidas son conocidas por su velocidad**. Los meteoros viajan a aproximadamente **71 kilómetros por segundo**, lo que los convierte en **uno de los grupos más rápidos**. Cuando estos fragmentos **entran en contacto con la atmósfera terrestre**, se calientan y **producen destellos luminosos**, conocidos como “estrellas fugaces” o meteoros. **El nombre “Leónidas” proviene de la constelación de Leo**, desde donde parecen originarse, siguiendo con la misma fuente.  
-
-A lo largo de la historia, **las Leónidas han sido famosas no solo por su belleza, sino también por las “tormentas de meteoros”** que han ocurrido en años pasados. Por ejemplo, **en 1833, se registraron hasta 100 000 meteoros por hora**, un evento que dejó una huella significativa en la historia astronómica, según [Cronista](https://www.cronista.com/espana/actualidad-es/lluvia-de-estrellas-leonidas-2024-cuando-como-y-a-que-hora-ver-el-ultimo-evento-astronomico-del-ano/ "https://www.cronista.com/espana/actualidad-es/lluvia-de-estrellas-leonidas-2024-cuando-como-y-a-que-hora-ver-el-ultimo-evento-astronomico-del-ano/"). 
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCW8sR4v_xN/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida de Observatorio Astronómico de Quito (@oaq\_ecuador)](https://www.instagram.com/p/DCW8sR4v_xN/?utm_source=ig_embed&utm_campaign=loading)
-
-**Cómo observar las Leónidas** 
--------------------------------
-
-Para disfrutar al máximo de la **lluvia de meteoros Leónidas**, es fundamental elegir el lugar adecuado. Se recomienda: 
-
-* Buscar un lugar alejado de la contaminación lumínica. 
-
-* Elegir un área con buena visibilidad del horizonte. 
-
-* Llevar prismáticos o una cámara con ajustes manuales para capturar el fenómeno. 
-
-El mejor momento para observar es **durante las primeras horas antes del amanecer**, cuando el radiante está más alto en el cielo 
-
-Sin embargo, este año se presenta un desafío adicional: la luna llena, conocida como **Luna de Castor**, estará **casi completamente iluminada** durante el pico de las Leónidas. Esto podría dificultar la visibilidad de los meteoros más débiles, según [CNN](https://cnnespanol.cnn.com/2024/11/14/ultima-superluna-del-ano-alcanzara-punto-maximo-con-lluvia-meteoros-leonidas-trax "https://cnnespanol.cnn.com/2024/11/14/ultima-superluna-del-ano-alcanzara-punto-maximo-con-lluvia-meteoros-leonidas-trax").  
-
-**Recomendaciones para los observadores** 
-------------------------------------------
-
-**Los expertos sugieren observar hacia el este** y esperar a **que la luna esté fuera del campo visual** para maximizar las posibilidades de ver meteoros. La Sociedad Americana de Meteoros indica que **mirar hacia el centro del cielo** puede ser beneficioso, ya que muchos meteoros aparecerán en esa área, siguiendo con CNN. 
-
-Además, **se aconseja ser paciente y observar lo más tarde posible**, ya que es probable que se vean más Leónidas antes del amanecer que cerca de la medianoche. 
-
-Sacando del camino
-==================
-
-Decisiones políticas que benefician al oficialismo y amenazan la democracia en Ecuador.
----------------------------------------------------------------------------------------
-
-![Gerardo Villacreces Carbo, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Gerardo-Villacreces-Carbo.jpg)
-
-Dos relevantes **hechos políticos** se han dado en estos días, en los cuales, el común denominador ha sido, ser favorables a los intereses del **oficialismo**, por lo menos en la perspectiva inmediatista.
-
-**Uno.- Una vicepresidenta incómoda:** La acción **administrativa** dada a fin de **sancionar** a la **vicepresidenta de la república**, por una falta grave, consistente en ausentarse injustificadamente tres días de sus funciones de embajadora, resulta que, el real efecto de la desproporcionada – en función del tiempo – sanción (suspensión de 150 días) sería evitar que **Verónica Abad** sea quien reemplace al presidente Noboa el momento en el que este deba ausentarse para realizar **campaña**, utilizando para el **efecto un infortunado** y muy cuestionado mecanismo a fin de sacarla del **camino**.
-
-Resulta inverosímil, un contrasentido mayúsculo y evidentemente forzado, que una funcionaria administrativa – lo escribo con respeto – común y sin mayor rango, que ni siquiera forma parte de la **entidad nominadora**,  quizás utilizada, mediante **resolución administrativa**, se permita y tenga el brutal alcance – con el aval del propio **Ministerio del Trabajo** en sintonía estratégica con Carondelet –  en dejar fuera de la cancha a nada más y nada menos que a una persona que ocupa la vicepresidenta de la república, indistintamente si es V. Abad o no, elegida por **elección popular**, persona de evidente y n**otoria alta jerarquía**, saltándose la **constitución** y las disposiciones de la **Corte Interamericana de Derechos Humanos**, jugando y calculando la sanción con los **tiempos políticos** a efectos de que calce con los **intereses propios del ejecutivo**; y, como si fuera poco, la grave falta, que sería en función de su cargo y responsabilidades como Embajadora, evidentemente no son como Vicepresidenta, es decir, en el peor escenario la ya por sí discutible y forzada  sanción (que según la ley no podría superar 30 días), debió enfocarse en sus **funciones** como **representante diplomática**, pero nunca como vicepresidenta, es decir como mandataria de los **electores**, ya que sin perjuicio de atribuirse la **resolución** una competencia que corresponde a la **Asamblea**, no deja de ser una intromisión que atenta contra  quienes votaron por el **peculiar binomio** en su oportunidad. Lo dado, en la práctica,  independientemente del **juego semántico** utilizado en la resolución administrativa y, pese a que,  la Ministra del Trabajo  ha indicado que no se trata de una inhabilitación ni destitución, al final del día, lo dado en la práctica es una **maniobra** que pretende – inconstitucionalmente –  tumbar a la **vicepresidenta**. Debe quedar claro que, cualquier acto administrativo contrario a la constitución, es nulo; y, adicionalmente, una autoridad administrativa no puede destituir o inhabilitar a un **funcionario público** elegido por **elección popular**, lo cual, como queda indicado, habría ocurrido, pese a la utilización en la **resolución administrativa** de la conveniente palabra “suspensión”.
-
-Lo dado, más allá de las simpatías o antipatías que pueda generar Abad, constituye un grave atentado a la **institucionalidad**, a la **democracia**, al orden constituido y por ende al mínimo sentido de respeto a la **Constitución**, que es lo que busca reflexionar y defender esta columna.
-
-**Dos.- El otro dolor de cabeza:** Topic, hasta hace poco **candidato** a la **presidencia**, cuestionado por cierto, quien venía presentando un **crecimiento** en las **preferencias electorales**, evidentemente constituía  la **amenaza** más latente a las aspiraciones de Noboa. Mediante también, una discutible resolución del TCE, fue sacado del camino, con base en un “supuesto” y no sobre una certeza plena de **infracción electoral**, lo cual llama la atención; con mayor motivo, si Topic en las últimas y recientes **elecciones presidenciales**, en las que ganó Noboa, fue **candidato** también, sin ningún tipo de impedimento.
-
-**Tres.- Conclusiones:**  Parecería que: **a.-** Las luces de la **racionalidad jurídica**, en el tema de Abad particularmente, se han apagado totalmente en Carondelet; y, como si fuera poco, un problema personal entre ambos **mandatarios**, por la falta de sensatez de estos, ha derivado en un **problema nacional** con **alcance internacional**, cuyos primeros coletazos quizás se sintieron en la **Cumbre Iberoamericana de Cuenca. b.-** Hasta que dicha resolución no sea revocada o declarada **inconstitucional**, se habría marcado un peligroso y **antidemocrático** antecedente, en el sentido de que, para deshacerse de un vicepresidente y, consecuentemente y por qué no de un presidente, bastaría para el efecto, un **sumario administrativo**. **c.-** La resolución del TCE, favorable a los **intereses de reelección del ejecutivo**, despierta y deja más dudas que certezas…
-
-La pregunta que salta sobre la **mesa de la opinión pública** es, lo dado, corresponde ¿al nuevo país o las **malas prácticas** del viejo país?
