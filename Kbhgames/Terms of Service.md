@@ -101,7 +101,7 @@ The user may not engage in antisocial, disruptive, or destructive acts, includin
 
 **Contact**
 
-For more on how to contact us using the [contact page](https://kbhgames.com/game/contact).
+For more on how to contact us using the [contact page](https://kbhgames.com/contact).
 
 **Other Sites and Social Media**
 
