@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/b9c2a652-9887-41ed-ad69-2feb339305d3/20241118T013310/b9c2a652-9887-41ed-ad69-2feb339305d3_16x9.jpg) ![](https://media.king5.com/assets/KING/images/b9c2a652-9887-41ed-ad69-2feb339305d3/20241118T013310/b9c2a652-9887-41ed-ad69-2feb339305d3_360x203.jpg)](https://www.king5.com/article/news/crime/bellevue-police-search-driver-involved-hit-and-run-71-year-old-woman-injured/281-0c41830c-2ab8-4315-8b7f-12d1646fe343)
+    *  [![](https://media.king5.com/assets/KING/images/dbdaf407-bfa1-4d43-8148-04f59a2dc84b/20241117T173342/dbdaf407-bfa1-4d43-8148-04f59a2dc84b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/dbdaf407-bfa1-4d43-8148-04f59a2dc84b/20241117T173342/dbdaf407-bfa1-4d43-8148-04f59a2dc84b_360x203.jpg)](https://www.king5.com/article/news/crime/seattle-police-investigating-homicide-university-district/281-901f7fb0-b0f6-48e8-8814-07e74aaac58a)
         
-        #### [Hit-and-run driver accused of crashing into elderly woman in Bellevue has not been caught, police say](https://www.king5.com/article/news/crime/bellevue-police-search-driver-involved-hit-and-run-71-year-old-woman-injured/281-0c41830c-2ab8-4315-8b7f-12d1646fe343)
+        #### [Seattle police investigating deadly shooting in University District](https://www.king5.com/article/news/crime/seattle-police-investigating-homicide-university-district/281-901f7fb0-b0f6-48e8-8814-07e74aaac58a)
         
-    *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+    *  [![](https://media.king5.com/assets/KING/images/bd0fcb77-6053-40d8-830e-d77687b91d1e/20241118T055649/bd0fcb77-6053-40d8-830e-d77687b91d1e_16x9.jpg) ![](https://media.king5.com/assets/KING/images/bd0fcb77-6053-40d8-830e-d77687b91d1e/20241118T055649/bd0fcb77-6053-40d8-830e-d77687b91d1e_360x203.jpg)](https://www.king5.com/article/news/local/new-snow-brings-hope-snoqualmie-enthusiasts-la-nina/281-30207e2c-a79e-489e-90c6-5901c8824f83)
         
-        #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
+        #### [New snow brings new hope to Snoqualmie enthusiasts for a fruitful La Niña](https://www.king5.com/article/news/local/new-snow-brings-hope-snoqualmie-enthusiasts-la-nina/281-30207e2c-a79e-489e-90c6-5901c8824f83)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/e324f40f-37b3-4361-8e0a-5011bca53d6b/20241118T061927/e324f40f-37b3-4361-8e0a-5011bca53d6b_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e324f40f-37b3-4361-8e0a-5011bca53d6b/20241118T061927/e324f40f-37b3-4361-8e0a-5011bca53d6b_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
+        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        
     *  [![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5/fbd3b70c-082a-4cbc-9df5-3d726f4d7ac5_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
         
         #### [Winter Storm Warning in effect this weekend; widespread, steady rain and gusty wind for lowlands](https://www.king5.com/article/weather/weather-blog/winter-storm-watch-north-cascades-western-slopes/281-fdd926dc-808f-4766-bf1a-f35670ef2b91)
-        
-    *  [![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_16x9.jpg) ![](https://media.king5.com/assets/KING/images/528375fe-aba5-49e8-bfea-204586c50af1/20241117T160107/528375fe-aba5-49e8-bfea-204586c50af1_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
-        
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-45°
+43°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
