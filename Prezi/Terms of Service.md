@@ -299,6 +299,10 @@ Languages
 
 Blog
 
+Nov. 18, 2024
+
+[AI prompt examples for creating impactful AI presentations](https://blog.prezi.com/ai-prompt-examples/)
+
 Nov. 15, 2024
 
 [Learn from famous public speakers: inspiration from top speakers](https://blog.prezi.com/famous-public-speakers/)
@@ -306,10 +310,6 @@ Nov. 15, 2024
 Nov. 13, 2024
 
 [How to do bullet points right in your presentations](https://blog.prezi.com/how-to-do-bullet-points/)
-
-Nov. 13, 2024
-
-[Find cool presentation backgrounds for your next presentation](https://blog.prezi.com/cool-presentation-backgrounds/)
 
 [Latest posts](https://blog.prezi.com/)
 
