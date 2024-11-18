@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
-        
-        #### [17-year-old killed in Johnson County crash, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
-        
     *  [![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_16x9.jpg) ![](https://media.tegna-media.com/assets/WTOL/images/d397b0e4-2886-4f4a-a631-472b24a67bd5/d397b0e4-2886-4f4a-a631-472b24a67bd5_360x203.jpg)](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
         
         #### [70-year-old woman hit, killed while crossing the street in Fort Madison](https://www.wqad.com/article/news/local/fort-madison-crash-fort-colony-restaurant-woman-killed/526-27a4c241-e163-40e1-be26-2c12c16cde64)
+        
+    *  [![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_16x9.jpg) ![](https://media.tegna-media.com/assets/WNEP/images/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7/e27bece4-94c2-4e4c-a4d7-27ef33a54ed7_360x203.jpg)](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
+        
+        #### [17-year-old killed in Johnson County crash, ISP report says](https://www.wqad.com/article/news/local/crash-johnson-county-iowa-coralville-teenager-killed/526-190faf3c-9f43-4d1c-b087-7226597ddb03)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e/20241117T130727/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e/20241117T130727/e4ad98d4-47d3-4b0a-97f5-5106813cbd4e_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/d082a8d0-85a0-4ca1-b926-8aa8fb14a518/20241117T235746/d082a8d0-85a0-4ca1-b926-8aa8fb14a518_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d082a8d0-85a0-4ca1-b926-8aa8fb14a518/20241117T235746/d082a8d0-85a0-4ca1-b926-8aa8fb14a518_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [A few showers by Sunday afternoon; Widespread soaking rain with thunder likely Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [A good soaking rain with some thunder likely on Monday](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/e3a61b1b-91d1-48cd-a977-b40b4ba15e48/20241116T004901/e3a61b1b-91d1-48cd-a977-b40b4ba15e48_360x203.jpg)](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
+    *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
-        #### [Get your home ready for the winter this weekend before cooler temps arrive](https://www.wqad.com/article/news/local/home-winter-maintenance-cooler-temperatures-on-horizon/526-8158a0b6-fdea-42b0-ab87-c7a6cad79589)
+        #### [Tropical Storm Sara weakens to tropical depression after making landfall in Belize](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-51°
+46°
 
-![Rain Shower](/assets/shared-images/weather-icons/drizzle-day_210x210.png)
+![Partly Cloudy](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
