@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Ashneer Grover](https://www.news18.com/movies/salman-khan-schools-ashneer-grover-asks-him-to-be-careful-mujhe-aapka-naam-bhi-nahi-pata-tha-9123670.html)
+    * [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
     * [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
     * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-    * [Delhi Pollution](https://www.news18.com/india/grap-stage-4-curbs-in-delhi-ncr-from-monday-amid-severe-air-pollution-9123545.html)
-    * [Health Insurance](https://www.news18.com/business/ayushman-card-online-apply-for-above-70-years-old-9122329.html)
     * [Vijay Sethupathi](https://www.news18.com/movies/vijay-sethupathi-shares-new-post-amid-nayanthara-dhanush-row-over-naanum-rowdy-dhaan-check-it-out-9123218.html)
-    * [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
-    * [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
+    * [Akshay Kumar](https://www.news18.com/movies/akshay-kumar-explains-his-decision-to-let-go-of-canadian-citizenship-main-chup-chaap-nikal-gaya-9122931.html)
+    * [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
+* [Ashneer Grover](https://www.news18.com/movies/salman-khan-schools-ashneer-grover-asks-him-to-be-careful-mujhe-aapka-naam-bhi-nahi-pata-tha-9123670.html)
+* [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
 * [Shruti Haasan](https://www.news18.com/movies/shruti-haasan-reacts-to-nayantharas-open-letter-to-dhanush-aishwarya-rajesh-supports-lady-superstar-9123024.html)
 * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-* [Delhi Pollution](https://www.news18.com/india/grap-stage-4-curbs-in-delhi-ncr-from-monday-amid-severe-air-pollution-9123545.html)
-* [Health Insurance](https://www.news18.com/business/ayushman-card-online-apply-for-above-70-years-old-9122329.html)
 * [Vijay Sethupathi](https://www.news18.com/movies/vijay-sethupathi-shares-new-post-amid-nayanthara-dhanush-row-over-naanum-rowdy-dhaan-check-it-out-9123218.html)
-* [Ananth Mahadevan](https://www.news18.com/movies/ananth-mahadevan-says-he-didnt-like-rajkummar-rao-shraddhas-film-stree-2-asks-kya-sochke-ye-film-likhi-9122800.html)
-* [Mumbai Penthouse](https://www.news18.com/india/rs-120-crore-mumbai-penthouse-owner-rejects-bollywood-buyers-says-its-not-about-money-9121911.html)
+* [Akshay Kumar](https://www.news18.com/movies/akshay-kumar-explains-his-decision-to-let-go-of-canadian-citizenship-main-chup-chaap-nikal-gaya-9122931.html)
+* [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
