@@ -29,15 +29,15 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![TerminaMC](plugins/MineCraft/icons/25x25xTerminaMC_1731896578.png.pagespeed.ic.L5Ygs_RV_u.jpg)
+[Vortex MC](https://minecraft-server.net/details/Vortex_MCCCC/ "Vortex MC")[![RoyaleMC-Community](plugins/MineCraft/icons/25x25xRoyaleMC-Community_1722369794.png.pagespeed.ic.cQomDBgmrH.png)
 
-Termina - Towny World (Raiding) (SMP) \[Crossplay\]](https://minecraft-server.net/details/TerminaMC/ "Termina - Towny World (Raiding) (SMP) [Crossplay]")[![NovaAnarchy](plugins/MineCraft/icons/25x25xNovaAnarchy_1731249997.png.pagespeed.ic.8gG4GL2OZk.png)
+RoyaleMC \[#1 Slimefun\] (Java+Bedrock)](https://minecraft-server.net/details/RoyaleMC-Community/ "RoyaleMC [#1 Slimefun] (Java+Bedrock)")[![TAoMC](plugins/MineCraft/icons/25x25xTAoMC_1731181702.png.pagespeed.ic.0xBbYwjfPL.jpg)
 
-Nova Anarchy](https://minecraft-server.net/details/NovaAnarchy/ "Nova Anarchy")[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
+The Art of Minecraft - Crossplay](https://minecraft-server.net/details/TAoMC/ "The Art of Minecraft - Crossplay")[![creativefun](plugins/MineCraft/icons/25x25xcreativefun_1602168002.png.pagespeed.ic.xhW37hCj2R.jpg)
 
-1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief") [Venture Earth MC](https://minecraft-server.net/details/Venture_Earth_MC/ "Venture Earth MC")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
+CreativeFun](https://minecraft-server.net/details/creativefun/ "CreativeFun")[![MinecraftianosReales](plugins/MineCraft/icons/25x25xMinecraftianosReales_1731909623.png.pagespeed.ic.FY71Yvql5G.png)
 
-(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")
+MinecraftersReales](https://minecraft-server.net/details/MinecraftianosReales/ "MinecraftersReales")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Privacy Policy
@@ -140,4 +140,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06064 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06931 - Created by [Debaucus](https://debauc.us/)
