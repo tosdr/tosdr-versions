@@ -225,27 +225,14 @@ Download Tricount now
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/discover)
-
-![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
+Get started
 
 Download Tricount now
 ---------------------
 
 Experience the easiest way to track group expenses, 100% free!
 
-[Get started](https://www.tricount.com/discover)
-
-![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
-
-Download Tricount now
----------------------
-
-Experience the easiest way to track group expenses, 100% free!
-
-[Get started](https://www.tricount.com/discover)
-
-![](https://framerusercontent.com/images/FkRW3PrpNediFI8vi1Mxg4e4iF8.png)
+Get started
 
 ![](https://framerusercontent.com/images/pWN3YdYWMkLpNYY0OkHbNh5vTI.svg)
 
