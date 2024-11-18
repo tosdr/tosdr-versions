@@ -399,7 +399,7 @@ Language:EnglishDeutsch日本語FrançaisEspañol (España)Español (México)Ita
 
 [Business Principles](https://businessprinciples.condenast.com/)
 
-[UK Implementation Statement](https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Implementation_Statement_Conde_Nast_5_April_2023_f1c9847758.pdf)
+[UK Implementation Statement](https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Implementation_Statement_Conde_Nast_1fea6ae0af.pdf)
 
 [UK Editorial Complaints Privacy](https://www.condenast.com/privacy-pages/uk/complaints/policy)
 
