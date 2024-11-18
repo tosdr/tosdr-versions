@@ -5,7 +5,7 @@ It all starts with a conversation](https://www.openweb.com/)
 
 * Publishers
     * [Community](https://www.openweb.com/community/)
-    * [Moderation](https://www.openweb.com/community/moderation/)
+    * [Moderation](https://www.openweb.com/openwebos/moderation/)
     * [Monetization](https://www.openweb.com/monetization/)
 * Advertisers
     * [OpenWeb for Advertisers](https://www.openweb.com/advertisers/)
@@ -19,10 +19,8 @@ It all starts with a conversation](https://www.openweb.com/)
     * [Developers](https://openwebdoc.readme.io/)
     * [Release Notes](https://updates.openweb.com/)
 * About
-    * [Our Mission](https://www.openweb.com/our-mission/)
-    * [Our Vision](https://www.openweb.com/our-vision/)
+    * [Who We Are](https://www.openweb.com/who-we-are-and-mission/)
     * [Core Values](https://www.openweb.com/values/)
-    * [Who We Are](https://www.openweb.com/who-we-are/)
     * [Product Digest](https://www.openweb.com/product-digest/)
     * [Media Coverage](https://www.openweb.com/media-coverage/)
     * [Careers](https://www.openweb.com/careers/)
