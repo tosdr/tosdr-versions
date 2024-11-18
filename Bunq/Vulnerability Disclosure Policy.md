@@ -393,7 +393,7 @@ Help
 
 Cookie Settings
 
-[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
 ![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
 
@@ -471,7 +471,7 @@ Help
 
 Cookie Settings
 
-[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
 
 ![](https://framerusercontent.com/images/Tjb3L7naijsE5eqhFslwQ8MN60.svg)
 
@@ -549,4 +549,4 @@ Help
 
 Cookie Settings
 
-[![Download on Apple App Store](https://framerusercontent.com/images/mJUUJsz9CT3sNecEPf6XCeMlxw.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/ReS3fnAa1p7oUGDH2GLu3qHy1g.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
+[![Download on Apple App Store](https://framerusercontent.com/images/16iZ9RaOqAMJw4sgyqt3QIcvM.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)[![Get on Google Play store](https://framerusercontent.com/images/qIj7uEWbWJDIzyIzOcST9z8Q4.svg)](https://app.adjust.com/dqvbt6?engagement_type=fallback_click&fallback=https%3A%2F%2Fweb.bunq.com%2Fsignup&redirect_macos=https%3A%2F%2Fweb.bunq.com%2Fsignup%3Ftracker_token%3Ddqvbt6)
