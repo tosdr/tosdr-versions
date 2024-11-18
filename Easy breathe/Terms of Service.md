@@ -332,7 +332,6 @@ Copyright © 2024 [Easy Breathe](https://www.easybreathe.com/).
 
 Payment methods accepted
 
-* Amazon
 * American Express
 * Apple Pay
 * Diners Club
