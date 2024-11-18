@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [House Speaker Leaves Door Open to Recess Appointments for Trump’s Cabinet Picks](https://www.theepochtimes.com/us/house-speaker-leaves-door-open-to-recess-appointments-for-trumps-cabinet-picks-5761605)
+* [In Chicago, Illegal Immigration Crisis Stokes Pushback From Locals](https://www.theepochtimes.com/article/in-chicago-illegal-immigration-crisis-stokes-pushback-from-locals-5761715)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Steven Kovac](https://www.theepochtimes.com/author/steven-kovac)
     
-    [![House Speaker Leaves Door Open to Recess Appointments for Trump’s Cabinet Picks](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![In Chicago, Illegal Immigration Crisis Stokes Pushback From Locals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![House Speaker Leaves Door Open to Recess Appointments for Trump’s Cabinet Picks](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759805-11122024-DSC08942-speaker-mike-johnson-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/house-speaker-leaves-door-open-to-recess-appointments-for-trumps-cabinet-picks-5761605)
-* [Pakistan’s Top Islamic Cleric Declares VPNs ‘Haram’](https://www.theepochtimes.com/world/pakistans-top-islamic-cleric-declares-vpns-haram-5761510)
+    ![In Chicago, Illegal Immigration Crisis Stokes Pushback From Locals](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761817-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-chicago-illegal-immigration-crisis-stokes-pushback-from-locals-5761715)
+* [IRS Announces Lower Interest Rates for 1st Quarter of 2025](https://www.theepochtimes.com/us/irs-announces-lower-interest-rates-for-1st-quarter-of-2025-post-5761734)
     
-    NEW By [Guy Birchall](https://www.theepochtimes.com/author/guy-birchall)
+    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Pakistan’s Top Islamic Cleric Declares VPNs ‘Haram’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![IRS Announces Lower Interest Rates for 1st Quarter of 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Pakistan’s Top Islamic Cleric Declares VPNs ‘Haram’](https://img.theepochtimes.com/assets/uploads/2024/08/30/id5715694-Pakistan-internet-205x123.jpg.webp)](https://www.theepochtimes.com/world/pakistans-top-islamic-cleric-declares-vpns-haram-5761510)
-* [Trump Confirms He’s Prepared to Declare National Emergency to Initiate Mass Deportations](https://www.theepochtimes.com/us/trump-confirms-he-will-declare-national-emergency-to-initiate-mass-deportations-5761571)
+    ![IRS Announces Lower Interest Rates for 1st Quarter of 2025](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761922-08122024-DSC06641-IRS-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/irs-announces-lower-interest-rates-for-1st-quarter-of-2025-post-5761734)
+* [Big Jump in Homebuilder Sales Expectations on Hopes of New Regulatory Relief: NAHB](https://www.theepochtimes.com/us/big-jump-in-homebuilder-sales-expectations-on-hopes-of-new-regulatory-relief-nahb-5761706)
     
-    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Trump Confirms He’s Prepared to Declare National Emergency to Initiate Mass Deportations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Big Jump in Homebuilder Sales Expectations on Hopes of New Regulatory Relief: NAHB](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Confirms He’s Prepared to Declare National Emergency to Initiate Mass Deportations](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755032-Donald-Trump-1_JF_09132024-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-confirms-he-will-declare-national-emergency-to-initiate-mass-deportations-5761571)
-* [Senate Leader-Elect Urges ICC to Drop Israel Arrest Warrants or Face Sanctions](https://www.theepochtimes.com/us/senate-leader-elect-urges-icc-to-drop-israel-arrest-warrants-or-face-sanctions-5761478)
+    ![Big Jump in Homebuilder Sales Expectations on Hopes of New Regulatory Relief: NAHB](https://img.theepochtimes.com/assets/uploads/2024/04/30/id5640657-AP24101728242371-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/big-jump-in-homebuilder-sales-expectations-on-hopes-of-new-regulatory-relief-nahb-5761706)
+* [5 Things to Know About Chris Wright, Trump’s Energy Nominee](https://www.theepochtimes.com/us/5-things-to-know-about-chris-wright-trumps-energy-nominee-5761408)
     
-    6hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
     
-    [![Senate Leader-Elect Urges ICC to Drop Israel Arrest Warrants or Face Sanctions](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5 Things to Know About Chris Wright, Trump’s Energy Nominee](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Senate Leader-Elect Urges ICC to Drop Israel Arrest Warrants or Face Sanctions](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761576-11132024-DSC09479-John-Thune-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/senate-leader-elect-urges-icc-to-drop-israel-arrest-warrants-or-face-sanctions-5761478)
-* [Shen Yun Responds to New York Times Article ‘Riddled With Inaccuracies’](https://www.theepochtimes.com/us/shen-yun-responds-to-new-york-times-article-riddled-with-inaccuracies-5761468)
+    ![5 Things to Know About Chris Wright, Trump’s Energy Nominee](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761156-Chris-Wright-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-things-to-know-about-chris-wright-trumps-energy-nominee-5761408)
+* [DeSantis Says Decision on Rubio Senate Replacement Will Likely Be Made at Start of January](https://www.theepochtimes.com/us/desantis-says-decision-on-rubio-senate-replacement-will-likely-be-made-at-start-of-january-5761674)
     
-    10hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Shen Yun Responds to New York Times Article ‘Riddled With Inaccuracies’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![DeSantis Says Decision on Rubio Senate Replacement Will Likely Be Made at Start of January](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Shen Yun Responds to New York Times Article ‘Riddled With Inaccuracies’](https://img.theepochtimes.com/assets/uploads/2024/11/15/id5760655-shenyun1-205x123.jpg.webp)](https://www.theepochtimes.com/us/shen-yun-responds-to-new-york-times-article-riddled-with-inaccuracies-5761468)
-* [Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://www.theepochtimes.com/world/biden-allows-ukraine-to-strike-long-range-us-missiles-inside-russia-5761464)
+    ![DeSantis Says Decision on Rubio Senate Replacement Will Likely Be Made at Start of January](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761871-DeSantis-GettyImages-2023487429-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-says-decision-on-rubio-senate-replacement-will-likely-be-made-at-start-of-january-5761674)
+* [US Existing Home Sales Sees Largest Monthly Gain in Nearly 3 Years](https://www.theepochtimes.com/real-estate/us-existing-home-sales-sees-largest-monthly-gain-in-nearly-3-years-5761593)
     
-    10hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Existing Home Sales Sees Largest Monthly Gain in Nearly 3 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Allows Ukraine to Use US Long-Range Missiles in Russia’s Kursk: Reports](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761575-GettyImages-824113280-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/biden-allows-ukraine-to-strike-long-range-us-missiles-inside-russia-5761464)
-* [Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://www.theepochtimes.com/us/trump-appoints-fcc-commissioner-brendan-carr-as-agency-chair-5761419)
+    ![US Existing Home Sales Sees Largest Monthly Gain in Nearly 3 Years](https://img.theepochtimes.com/assets/uploads/2024/06/04/id5662475-1-GettyImages-1243437601-ed-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-existing-home-sales-sees-largest-monthly-gain-in-nearly-3-years-5761593)
+* [Biden Asks Congress to Approve $100 Billion Supplemental for Disaster Relief](https://www.theepochtimes.com/us/biden-urges-congress-to-approve-100-billion-supplemental-for-disaster-relief-5761720)
     
-    15hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Asks Congress to Approve $100 Billion Supplemental for Disaster Relief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Appoints FCC Commissioner Brendan Carr as Agency Chair](https://img.theepochtimes.com/assets/uploads/2024/03/21/id5611758-EpochImages-2943775627-xl-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-appoints-fcc-commissioner-brendan-carr-as-agency-chair-5761419)
-* [Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
+    ![Biden Asks Congress to Approve $100 Billion Supplemental for Disaster Relief](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761870-11072024-DSC08532-Joe-Biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-congress-to-approve-100-billion-supplemental-for-disaster-relief-5761720)
+* [IDF Says It Killed Hezbollah Spokesperson in Beirut Airstrike](https://www.theepochtimes.com/world/idf-says-it-killed-hezbollah-spokesperson-in-beirut-airstrike-5761422)
     
-    16hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    4hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
-    [![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![IDF Says It Killed Hezbollah Spokesperson in Beirut Airstrike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Diabetes Cases Quadruple Over 30 Years; WHO Urges Lifestyle Changes](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761578-Diabetes-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/health/diabetes-cases-quadruple-over-30-years-who-urges-lifestyle-changes-5761263)
-* [Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://www.theepochtimes.com/article/day-in-photos-a-winter-skate-sausage-walk-and-miss-universe-5761316)
+    ![IDF Says It Killed Hezbollah Spokesperson in Beirut Airstrike](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759310-GettyImages-2183866152-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/idf-says-it-killed-hezbollah-spokesperson-in-beirut-airstrike-5761422)
+* [How the US Will Confront the CCP Under Trump’s Second Term](https://www.theepochtimes.com/article/under-trump-2-0-us-is-expected-to-deepen-its-confrontation-of-the-ccp-threat-5760615)
     
-    16hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    4hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
     
-    [![Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![How the US Will Confront the CCP Under Trump’s Second Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Day in Photos: Visit to Amazon, Breathtaking Emblem, and Miss Universe](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761388-GettyImages-2184635149-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-a-winter-skate-sausage-walk-and-miss-universe-5761316)
-* [Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
+    ![How the US Will Confront the CCP Under Trump’s Second Term](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761405-outside3-205x123.jpg.webp)](https://www.theepochtimes.com/article/under-trump-2-0-us-is-expected-to-deepen-its-confrontation-of-the-ccp-threat-5760615)
+* [5 Things to Know About the G20 Summit as World Leaders Gather in Rio de Janeiro](https://www.theepochtimes.com/world/5-things-to-know-about-the-g20-summit-as-world-leaders-gather-in-rio-de-janeiro-5761537)
     
-    17hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Emmanuele Khouri](https://www.theepochtimes.com/author/emmanuele-khouri) and [Marcos Schotgues](https://www.theepochtimes.com/author/marcos-schotgues)
     
-    [![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![5 Things to Know About the G20 Summit as World Leaders Gather in Rio de Janeiro](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ramaswamy Says Some Government Agencies Will Be ‘Deleted Outright’](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761579-Vivek-Ramaswamy-GettyImages-2177654712-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/ramaswamy-says-some-government-agencies-will-be-deleted-outright-5761326)
+    ![5 Things to Know About the G20 Summit as World Leaders Gather in Rio de Janeiro](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761760-G20-Rio2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/5-things-to-know-about-the-g20-summit-as-world-leaders-gather-in-rio-de-janeiro-5761537)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
