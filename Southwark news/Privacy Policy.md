@@ -20,6 +20,22 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--360x180.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+    
+    ### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+    
+    [![Deptford Creek. Image: Creekside Education Trust](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-1-360x180.jpg)](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
+    
+    ### [Deptford Creek gets £9,000 funding boost](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
+    
+    [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+    
+    ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+    
+    [![Elly Baker AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elly-Baker-360x180.jpg)](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
+    
+    ### [Debate on whether asylum seekers living on as little as £8.86 a week should get help with transport costs](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
+    
     [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
     
     ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
@@ -40,22 +56,6 @@
     [![Jackie Power](https://southwarknews.co.uk/wp-content/uploads/2022/01/MG_4571-copy-e1606322639364.jpg)](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
     
     ### [Planning and preparing for next season’s planting is the perfect activity to lift those winter blues](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
-    
-    [![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-360x180.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-    
-    ### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-    
-    [![East Street Market reopened on Tuesday, November 12](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3153-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-    
-    ### [Comment: East Street Market is pulling together after tragic attack](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-    
-    [![Winnie, 100, loves her weekly friday meals at Link Age Southwark.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-12-at-14.21.58-e1731689735900-360x180.png)](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-    
-    ### [100-year-old Peckham woman urges support for local charity tackling loneliness](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-    
-    [![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-360x180.jpg)](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
-    
-    ### [Strawberries and wholegrains on the menu for nursery school children thanks to free healthy breakfast scheme](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +106,22 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--360x180.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+    
+    ### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+    
+    [![Deptford Creek. Image: Creekside Education Trust](https://southwarknews.co.uk/wp-content/uploads/2024/11/image001-1-360x180.jpg)](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
+    
+    ### [Deptford Creek gets £9,000 funding boost](https://southwarknews.co.uk/area/deptford/deptford-creek-gets-9000-funding-boost/)
+    
+    [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+    
+    ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+    
+    [![Elly Baker AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elly-Baker-360x180.jpg)](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
+    
+    ### [Debate on whether asylum seekers living on as little as £8.86 a week should get help with transport costs](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
+    
     [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
     
     ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
@@ -126,22 +142,6 @@ View All Result
     [![Jackie Power](https://southwarknews.co.uk/wp-content/uploads/2022/01/MG_4571-copy-e1606322639364.jpg)](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
     
     ### [Planning and preparing for next season’s planting is the perfect activity to lift those winter blues](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
-    
-    [![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-360x180.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-    
-    ### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-    
-    [![East Street Market reopened on Tuesday, November 12](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3153-360x180.jpeg)](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-    
-    ### [Comment: East Street Market is pulling together after tragic attack](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-    
-    [![Winnie, 100, loves her weekly friday meals at Link Age Southwark.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-12-at-14.21.58-e1731689735900-360x180.png)](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-    
-    ### [100-year-old Peckham woman urges support for local charity tackling loneliness](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-    
-    [![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-360x180.jpg)](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
-    
-    ### [Strawberries and wholegrains on the menu for nursery school children thanks to free healthy breakfast scheme](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -353,13 +353,7 @@ Website
 
 [16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
-[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 ### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
@@ -371,19 +365,37 @@ Website
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
-[![East Street Market, photo taken in February 2024](https://southwarknews.co.uk/wp-content/uploads/2024/11/East-Streek-market-has-been-trading-since-the-late-19th-century-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-### [East Street Market stabbing: One person dead and two injured](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
-[10th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-stabbing-one-person-dead-and-two-injured/)
-
 [![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 ### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
 [12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
 
+[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+
+### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+
+[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+
+[![Romain Esse during Millwall's game against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/R-Esse-02727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
+
+### [Three Millwall players given international call-ups](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
+
+[12th November 2024](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
+
 ### Featured Articles
+
+[![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--120x86.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+
+### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+
+[18th November 2024](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
+
+[![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-120x86.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+
+### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
+
+[18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
 [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
 
@@ -408,18 +420,6 @@ Website
 ### [Comment: East Street Market is pulling together after tragic attack](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
 
 [16th November 2024](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-
-[![Winnie, 100, loves her weekly friday meals at Link Age Southwark.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Screenshot-2024-11-12-at-14.21.58-e1731689735900-120x86.png)](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-
-### [100-year-old Peckham woman urges support for local charity tackling loneliness](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-
-[16th November 2024](https://southwarknews.co.uk/area/southwark/100-year-old-peckham-woman-urges-support-for-local-charity-tackling-loneliness/)
-
-[![photo: Southwark Council](https://southwarknews.co.uk/wp-content/uploads/2024/11/image004-120x86.jpg)](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
-
-### [Strawberries and wholegrains on the menu for nursery school children thanks to free healthy breakfast scheme](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
-
-[16th November 2024](https://southwarknews.co.uk/news/community/strawberries-and-wholegrains-on-the-menu-for-nursery-school-children-thanks-to-free-healthy-breakfast-scheme/)
 
 ### USEFUL PAGES
 
