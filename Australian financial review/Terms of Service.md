@@ -325,7 +325,6 @@ Advertise
 
 ### [It’s entirely possible you deserve, even need, one of these](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
 
-* 56 mins ago
 * Eugenie Kelly
 
 * ### [Ben Quilty to sell part of his personal collection for superannuation](https://www.afr.com/life-and-luxury/arts-and-culture/ben-quilty-to-sell-part-of-his-personal-collection-for-superannuation-20241031-p5kmvc)
@@ -336,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Dom Pym has founded more than 22 companies, but you probably only know him as the guy who built neobank Up.](https://static.ffx.io/images/$zoom_0.3575%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1094%2C$y_98/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/50e4825db2803a341d414f22bd2ec865a7e90441)](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
+[![Laurence Escalante built Virtual Gaming Worlds into a multibillion-dollar business. ](https://static.ffx.io/images/$zoom_0.3151%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_95%2C$y_120/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1991178d80a757a1cc5836acaf37a7a27662aef9)](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
 
-### [Why this founder is investing $70m in start-ups](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
+### [Laurence Escalante’s VGW bulks up exec ranks as casinos bristle](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
 
-* Yolanda Redrup
+* Primrose Riordan and Zoe Samios
 
-* ### [Goodman suffers first strike against pay despite 75pc return](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
+* ### [Why this founder is investing $70m in start-ups](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
     
-* ### [Rich Lister strikes three with $170 million Adelaide mall deal](https://www.afr.com/property/commercial/rich-lister-strikes-three-with-170-million-adelaide-mall-deal-20241113-p5kq81)
+* ### [Goodman suffers first strike against pay despite 75pc return](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
     
 
 [The Australian Financial Review](https://www.afr.com/)
