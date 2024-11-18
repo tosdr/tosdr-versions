@@ -25,6 +25,8 @@
     
     ###### [Our reach](https://qoria.com/our-reach)
     
+    ###### [Global Insights](https://qoria.com/global-insights-2024)
+    
 * [Our solutions](https://qoria.com/solutions)
 * [Trust Center](https://qoria.com/trust)
 * [Ethical practices](https://qoria.com/ethical-practices)
