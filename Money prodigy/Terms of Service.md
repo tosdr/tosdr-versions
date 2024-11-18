@@ -296,6 +296,14 @@ I firmly believe that you (yes, YOU) are qualified to teach your child and stude
 
 Search for:  
 
+### Follow Along
+
+* [](https://www.facebook.com/moneyprodigy/ "Facebook")
+* [](https://www.pinterest.com/moneyprodigy/ "Pinterest")
+* [](https://www.instagram.com/moneyprodigyeducation/ "Instagram")
+* [](https://www.etsy.com/shop/MoneyProdigyShop "Etsy")
+* [](https://www.linkedin.com/in/amandalgrossman/ "LinkedIn")
+
 ### Categories
 
 * [Allowance for Kids](https://www.moneyprodigy.com/category/allowance-for-kids/)
