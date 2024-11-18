@@ -308,6 +308,14 @@ Europe's leading entertainment brand
 
  
 
+* [![slide-We Are Era acquires Social Match](/.galleries/images/WAE_Social-Match-16-9.png?__scale=undefined&description=)
+    
+    We Are Era acquires Social Match
+    
+    18.11.2024
+    
+    We Are Era is strengthening its position in the German-speaking region by acquiring Social Match, a digital agency specialising in influencer and community marketing.](https://www.rtlgroup.com/en/media/overview/press-releases-and-news/We-Are-Era-acquires-Social-Match/)
+    
 * [![slide-Quarterly statement: January to September 2024](/.galleries/images/Q3-2024_Title-EN_16-9.png?__scale=undefined&description=)
     
     Quarterly statement: January to September 2024
