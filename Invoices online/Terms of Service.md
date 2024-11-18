@@ -203,50 +203,50 @@ More than 1,000 businesses operate more efficiently with us.
 
 Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client TRACKFORCE (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=1722&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=57366069)  
-TRACKFORCE (Pty) Ltd
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=111021096)  
+Gemini-IT Group
 
-![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=111339184)  
-The Gourmet Artisans Ltd.
+![valued client MONSTER SECURITY SERVICES (NORTHAM)](https://www.invoicesonline.co.za/scripts/image.php?bid=5626&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=136969129)  
+MONSTER SECURITY SERVICES (NORTHAM)
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=36735979)  
-Xpress Designs
+![valued client BD Maintenance](https://www.invoicesonline.co.za/scripts/image.php?bid=4541&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=19300379)  
+BD Maintenance
 
-![valued client AMS Ambu Medical Supplies ](https://www.invoicesonline.co.za/scripts/image.php?bid=4689&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=56041112)  
-AMS Ambu Medical Supplies
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=183456202)  
+Leef in Afrikaans
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=197865750)  
-Wiselink Broadband Dundee
+![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=52849953)  
+MONSTER SECURITY GUARDING
 
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=190291381)  
-TurboFibre
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=205360453)  
+Tracknetics
 
-![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=146904321)  
-Kaylas Creations
+![valued client INVOICES/JOBCARDS ONLINE](https://www.invoicesonline.co.za/scripts/image.php?bid=6974&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=169247707)  
+INVOICES/JOBCARDS ONLINE
 
-![valued client Electro-Heat](https://www.invoicesonline.co.za/scripts/image.php?bid=8547&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=109733397)  
-Electro-Heat
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=23475096)  
+Creative Characters
 
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=214265821)  
-Vplay Letsheng Mall
+![valued client OrgChart Hosting Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=658&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=132575337)  
+OrgChart Hosting Pty Ltd
 
-![valued client Enhle Oarabile Kea](https://www.invoicesonline.co.za/scripts/image.php?bid=7451&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=68147579)  
-Enhle Oarabile Kea
+![valued client Dr V Naik Consult](https://www.invoicesonline.co.za/scripts/image.php?bid=4810&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=155203236)  
+Dr V Naik Consult
 
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=93231515)  
-Konsortium Operations (PTY) LTD
+![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=177482375)  
+Adele Jordaan T/A Joyful Noise Music Room
 
-![valued client Nilbet T/A Waterman](https://www.invoicesonline.co.za/scripts/image.php?bid=4407&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=104279384)  
-Nilbet T/A Waterman
+![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=191929735)  
+CBR Verwe/Paints
 
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=101291162)  
-Brand's Fountains Deco and Events Coordinatoin
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=200832926)  
+RADIO TYGERBERG 104FM NPC
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=155531574)  
-Mountain Lion Properties
+![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=139164918)  
+LEO DEVELOPMENT GROUP
 
-![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=b52055335313ba668dcff09f7136cf8bbd56de7f7c3daf04513c8a159ca86cd8&c=134654990)  
-FJW Security Cc
+![valued client Environment Friendly Toilets (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=2934&file=logo_300_100&type=&fe=b09cd87564babb3f8b9087c7b9b0ab8242711df7296768c5d6b4b55303bcd462&c=89285736)  
+Environment Friendly Toilets (Pty) Ltd
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
