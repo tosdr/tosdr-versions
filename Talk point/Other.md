@@ -2,9 +2,9 @@
 
 [](https://www.twitch.tv/talkpointgmbh)
 
-Wir sind LIVE 📽️ ab 11 Uhr - einschalten lohnt sich! #preisvergleich
+Wir sind LIVE 💙 ab 11 Uhr - einschalten lohnt sich! #preisvergleich #twitch
 
-Wir sind LIVE 📽️ ab 11 Uhr - einschalten lohnt sich! #preisvergleich
+Wir sind LIVE 💙 ab 11 Uhr - einschalten lohnt sich! #preisvergleich #twitch
 
 Menü
 
