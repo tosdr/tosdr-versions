@@ -14,6 +14,10 @@
 * [English](#)
 * [Help](https://wiki.librarything.com/index.php/HelpThing:Privacy)
 
+[Come participate in SantaThing, our yearly gift-giving tradition!](https://www.librarything.com/santathing.php)
+
+Dismiss
+
 Privacy and TOS
 
 [About LibraryThing](https://www.librarything.com/about)[Privacy and TOS](https://www.librarything.com/privacy)[Press Information](https://www.librarything.com/press)[Who We Are](https://www.librarything.com/whoweare.php)[Contact Us](https://www.librarything.com/contact)
