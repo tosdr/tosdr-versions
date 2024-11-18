@@ -217,14 +217,12 @@ Go to site
 
 Button to minimize modal
 
-#### Get 10% off!
+#### Interested in  
+Black Friday Deals?
 
-Join our newsletter and get first access  
-to new products and surprise treats.  
+Join our newsletter and get first access to the best deals of the year.
 
-\*Special offers, Spot, and Point finders excluded
-
-     GET THE DISCOUNT
+     I’M IN!
 
 **Thank you for subscribing!**
 
