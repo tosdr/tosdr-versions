@@ -259,23 +259,46 @@ Advertise with Us
 
 Most Popular
 
-[![PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards")](https://www.derrynow.com/news/national-news/1657816/pictures-glitz-glam-and-gaa-as-players-turn-out-for-ladies-football-all-star-awards.html)
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
 
-PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards
+[Deaths](https://www.derrynow.com/section/977/deaths)
 
-[National News](https://www.derrynow.com/section/997/cookie-policy)
+[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
 
-[PICTURES: Glitz, glam and GAA as players turn out for Ladies Football All-Star Awards](https://www.derrynow.com/news/national-news/1657816/pictures-glitz-glam-and-gaa-as-players-turn-out-for-ladies-football-all-star-awards.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Larne boss Lynch possible contender to replace Higgins](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Larne boss Lynch possible contender to replace Higgins")](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
 
-[![Ireland v England - TV channel, team news and betting odds for Nations League tie](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Ireland v England - TV channel, team news and betting odds for Nations League tie")](https://www.derrynow.com/news/soccer/1657887/ireland-v-england-tv-channel-team-news-and-betting-odds-for-nations-league-tie.html)
+Larne boss Tiernan Lynch could be in line to replace Ruaidhri Higgins. (Photo: Ben McShane/Sportsfile)
 
-Ireland v England - TV channel, team news and betting odds for Nations League tie
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
 
-[Soccer](https://www.derrynow.com/section/997/cookie-policy)
+[Larne boss Lynch possible contender to replace Higgins](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[Ireland v England - TV channel, team news and betting odds for Nations League tie](https://www.derrynow.com/news/soccer/1657887/ireland-v-england-tv-channel-team-news-and-betting-odds-for-nations-league-tie.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Derry man who ‘flouted his bail conditions’ remanded in custody](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry man who ‘flouted his bail conditions’ remanded in custody")](https://www.derrynow.com/news/local-news/1658448/derry-man-who-flouted-his-bail-conditions-remanded-in-custody.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Derry man who ‘flouted his bail conditions’ remanded in custody](https://www.derrynow.com/news/local-news/1658448/derry-man-who-flouted-his-bail-conditions-remanded-in-custody.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![PSNI investigating theft of Ifor Williams Tri-axle trailer from Campsie Industrial Estate](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "PSNI investigating theft of Ifor Williams Tri-axle trailer from Campsie Industrial Estate")](https://www.derrynow.com/news/local-news/1658282/psni-investigating-theft-of-ifor-williams-tri-axle-trailer-from-campsie-industrial-estate.html)
+
+An Ifor Williams Tri-axle trailer.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[PSNI investigating theft of Ifor Williams Tri-axle trailer from Campsie Industrial Estate](https://www.derrynow.com/news/local-news/1658282/psni-investigating-theft-of-ifor-williams-tri-axle-trailer-from-campsie-industrial-estate.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)")](https://www.derrynow.com/news/derry-sport/1658358/the-republic-of-ireland-s-newest-international-and-his-connection-to-derry.html)
+
+Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[The Republic of Ireland's newest international and his connection to Derry](https://www.derrynow.com/news/derry-sport/1658358/the-republic-of-ireland-s-newest-international-and-his-connection-to-derry.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Translink’s Stuff a Bus initiative providing vital support locally this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink’s Stuff a Bus initiative providing vital support locally this Christmas")](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
 
@@ -286,41 +309,57 @@ Translink staff Bridgeen, Marty, Helen, Kyle and Lisa.
 [Translink’s Stuff a Bus initiative providing vital support locally this Christmas](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![NSPCC NI announces 'Letter from Santa' campaign this festive season](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "NSPCC NI announces 'Letter from Santa' campaign this festive season")](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![MacD on Music: The Marra Is A New Day](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "MacD on Music: The Marra Is A New Day")](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
-
-The Marra
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: The Marra Is A New Day](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
-----------------------------------------------------------------------------------------------------------------------------------
-
-[![Police investigate loyalist link to arson attack in Newtownards](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Police investigate loyalist link to arson attack in Newtownards")](https://www.derrynow.com/news/northern-ireland/1658018/police-investigate-loyalist-link-to-arson-attack-in-newtownards.html)
-
-[Northern Ireland](https://www.derrynow.com/section/997/cookie-policy)
-
-[Police investigate loyalist link to arson attack in Newtownards](https://www.derrynow.com/news/northern-ireland/1658018/police-investigate-loyalist-link-to-arson-attack-in-newtownards.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+[![Derry Memoriam - Cathy Crossan (née Wilson) - 9th Anniversary](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Memoriam - Cathy Crossan (née Wilson) - 9th Anniversary")](https://www.derrynow.com/news/deaths/1658356/derry-memoriam-cathy-crossan-nee-wilson-9th-anniversary.html)
 
 [Deaths](https://www.derrynow.com/section/977/deaths)
 
-[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry Memoriam - Cathy Crawford (née Wilson) - 9th Anniversary](https://www.derrynow.com/news/deaths/1658356/derry-memoriam-cathy-crossan-nee-wilson-9th-anniversary.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Warning to Derry residents about council service delays due to weather](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Warning to Derry residents about council service delays due to weather")](https://www.derrynow.com/news/derry-news/1658444/warning-to-derry-residents-about-council-service-delays-due-to-weather.html)
+
+[Derry News](https://www.derrynow.com/section/999/derry-news)
+
+[Warning to Derry residents about council service delays due to weather](https://www.derrynow.com/news/derry-news/1658444/warning-to-derry-residents-about-council-service-delays-due-to-weather.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Craigbane book final place in dramatic fashion](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Craigbane book final place in dramatic fashion")](https://www.derrynow.com/news/derry-sport/1658443/craigbane-book-final-place-in-dramatic-fashion.html)
+
+That winning feeling... Craigbane players celebrate after winning the penalty shootout.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Craigbane book final place in dramatic fashion](https://www.derrynow.com/news/derry-sport/1658443/craigbane-book-final-place-in-dramatic-fashion.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Higgins family hits back with staunch defence of former Derry City manager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Higgins family hits back with staunch defence of former Derry City manager")](https://www.derrynow.com/news/derry-sport/1658403/higgins-family-hits-back-with-staunch-defence-of-former-derry-city-manager.html)
+
+Higgins led Derry City to two FAI Cup finals in three years. (Photo: Ben McShane/Sportsfile)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Higgins family hits back with staunch defence of former Derry City manager](https://www.derrynow.com/news/derry-sport/1658403/higgins-family-hits-back-with-staunch-defence-of-former-derry-city-manager.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
 Advertise with Us
 
 Multimedia
+
+[![IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'")](https://www.derrynow.com/story-telling/pictures---videos/1657936/in-pictures-richmond-centre-welcomes-arrival-of-santa-and-cast-of-aladdin.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'](https://www.derrynow.com/story-telling/pictures---videos/1657936/in-pictures-richmond-centre-welcomes-arrival-of-santa-and-cast-of-aladdin.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Annual Oglach Tony Gough snooker competition in Shantallow House")](https://www.derrynow.com/story-telling/pictures---videos/1655692/in-pictures-annual-oglach-tony-gough-snooker-competition-in-shantallow-house.html)
 
@@ -381,20 +420,6 @@ IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry
 
 [IN PICTURES: Paddy Hillyard launches new book at Museum of Free Derry](https://www.derrynow.com/story-telling/pictures---videos/1652697/in-pictures-paddy-hillyard-launches-new-book-at-museum-of-free-derry.html)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Cumann na mBunscol Doire City Primary 6 Blitz](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Cumann na mBunscol Doire City Primary 6 Blitz")](https://www.derrynow.com/story-telling/pictures---videos/1652695/in-pictures-cumann-na-mbunscol-doire-city-primary-6-blitz.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Cumann na mBunscol Doire City Primary 6 Blitz](https://www.derrynow.com/story-telling/pictures---videos/1652695/in-pictures-cumann-na-mbunscol-doire-city-primary-6-blitz.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![IN PICTURES: Derry City fans paint Dublin 'Red and White'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry City fans paint Dublin 'Red and White'")](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry City fans paint Dublin 'Red and White'](https://www.derrynow.com/story-telling/pictures---videos/1652694/in-pictures-derry-city-fans-paint-dublin-red-and-white.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -496,53 +521,55 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+[![Derry City one of the most expensive places for home insurance, report finds.](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry City one of the most expensive places for home insurance, report finds.")](https://www.derrynow.com/news/home/1658432/derry-city-one-of-the-most-expensive-places-for-home-insurance-report-finds.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Managing Director of ComapreNI.com, Ian Wilson.
 
-[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
 
-[![Translink’s Stuff a Bus initiative providing vital support locally this Christmas](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Translink’s Stuff a Bus initiative providing vital support locally this Christmas")](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
+[Derry City one of the most expensive places for home insurance, report finds.](https://www.derrynow.com/news/home/1658432/derry-city-one-of-the-most-expensive-places-for-home-insurance-report-finds.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Translink staff Bridgeen, Marty, Helen, Kyle and Lisa.
+[![Magherafelt High School & Aware NI](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Magherafelt High School & Aware NI")](https://www.derrynow.com/news/county-derry-post/1658436/magherafelt-schools-honoured-at-aware-ni-s-investors-in-mental-health-awards.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+Magherafelt High School & Aware NI
 
-[Translink’s Stuff a Bus initiative providing vital support locally this Christmas](https://www.derrynow.com/news/local-news/1656709/translinks-stuff-a-bus-initiative-providing-vital-support-locally-this-christmas.html)
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![MacD on Music: The Marra Is A New Day](https://www.derrynow.com/resizer/165/93/true/2024_11_15/IDNM_18-11-24_music_column-1731683858769_1731683878.jpg--.jpg?1731683878375 "MacD on Music: The Marra Is A New Day")](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
+[Magherafelt schools honoured at Aware NI's Investors in Mental Health Awards](https://www.derrynow.com/news/county-derry-post/1658436/magherafelt-schools-honoured-at-aware-ni-s-investors-in-mental-health-awards.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-The Marra
-
-[What's On](https://www.derrynow.com/section/1058/what-s-on)
-
-[MacD on Music: The Marra Is A New Day](https://www.derrynow.com/news/what-s-on/1656918/macd-on-music-the-marra-is-a-new-day.html)
-----------------------------------------------------------------------------------------------------------------------------------
-
-[![NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/resizer/165/93/true/2024_11_13/LFS_Image_1-1731500416333.jpg--.jpg?1731500416779 "NSPCC NI announces 'Letter from Santa' campaign this festive season")](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
+[![Derry man who ‘flouted his bail conditions’ remanded in custody](https://www.derrynow.com/resizer/165/93/true/1580370016067.JPG--.JPG?1580370017604 "Derry man who ‘flouted his bail conditions’ remanded in custody")](https://www.derrynow.com/news/local-news/1658448/derry-man-who-flouted-his-bail-conditions-remanded-in-custody.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
-[NSPCC NI announces 'Letter from Santa' campaign this festive season](https://www.derrynow.com/news/local-news/1654667/nspcc-ni-announces-letter-from-santa-campaign-this-festive-season.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Derry man who ‘flouted his bail conditions’ remanded in custody](https://www.derrynow.com/news/local-news/1658448/derry-man-who-flouted-his-bail-conditions-remanded-in-custody.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Sunday](https://www.derrynow.com/resizer/165/93/true/2023_09_21/Derry_Deaths_%2811%29-1695307374487.jpg--.jpg?1695307374613 "Derry Death Notices - Sunday")](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
+[![Donation of 'Comfort Bears' by riendly Friday Crafters & Garden Club Ballykelly](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Comfort_Bears_NIFS_and_Jean-1731926271203_1731926583.jpg--.jpg?1731926583170 "Donation of 'Comfort Bears' by riendly Friday Crafters & Garden Club Ballykelly")](https://www.derrynow.com/news/county-derry-post/1658366/ballykelly-community-group-using-crafting-to-connect-with-each-other-and-the-community.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Donation of 'Comfort Bears' by riendly Friday Crafters & Garden Club Ballykelly
 
-[Derry Death Notices - Sunday, November 17, 2024](https://www.derrynow.com/news/deaths/1656854/derry-death-notices-sunday-november-17-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
 
-[![Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/resizer/165/93/true/2024_11_15/%28front%29_Rebekah_Sharpe%2C_Ian_McElhinney%2C_Ava_Metcalfe_%28back%29_Major_Jacqui_Wright%2C_Eilidh_Wood_and_Annie_Cook%5B1%5D-1731673763633.jpg--.jpg?1731673764785 "Derry Girls star helps to launch Salvation Army Christmas family appeal")](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
+[Ballykelly community group using crafting to connect with each other and the community](https://www.derrynow.com/news/county-derry-post/1658366/ballykelly-community-group-using-crafting-to-connect-with-each-other-and-the-community.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Front, from left, Rebekah Sharpe, Derry Girls star Ian McElhinney and Ava Metcalfe. Included at back are Major Jacqui Wright, Eilidh Wood and Annie Cook.
+[![Warning to Derry residents about council service delays due to weather](https://www.derrynow.com/resizer/165/93/true/1514453348343.jpg--.jpg?1514453348000 "Warning to Derry residents about council service delays due to weather")](https://www.derrynow.com/news/derry-news/1658444/warning-to-derry-residents-about-council-service-delays-due-to-weather.html)
 
-[Local News](https://www.derrynow.com/section/975/news)
+[Derry News](https://www.derrynow.com/section/999/derry-news)
 
-[Derry Girls star helps to launch Salvation Army Christmas family appeal](https://www.derrynow.com/news/local-news/1656708/derry-girls-star-helps-to-launch-salvation-army-christmas-family-appeal.html)
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Warning to Derry residents about council service delays due to weather](https://www.derrynow.com/news/derry-news/1658444/warning-to-derry-residents-about-council-service-delays-due-to-weather.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Craigbane book final place in dramatic fashion](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Craigbane_V_Drumhowan0012_30170369-1731930084373.jpg--.jpg?1731930094997 "Craigbane book final place in dramatic fashion")](https://www.derrynow.com/news/derry-sport/1658443/craigbane-book-final-place-in-dramatic-fashion.html)
+
+That winning feeling... Craigbane players celebrate after winning the penalty shootout.
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Craigbane book final place in dramatic fashion](https://www.derrynow.com/news/derry-sport/1658443/craigbane-book-final-place-in-dramatic-fashion.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
