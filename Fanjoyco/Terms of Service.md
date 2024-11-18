@@ -316,7 +316,6 @@ United States | USD $
 
 Payment methods
 
-* Amazon
 * American Express
 * Diners Club
 * Discover
