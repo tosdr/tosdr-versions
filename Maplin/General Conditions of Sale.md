@@ -806,13 +806,61 @@ Browse
 * Black Friday
     
     * [Black Friday](https://www.maplin.co.uk/pages/black-friday)
-    * [Black Friday Sale](https://www.maplin.co.uk/pages/black-friday)
-    * [New Products](https://www.maplin.co.uk/collections/new-products)
-    * [Latest Offers](https://www.maplin.co.uk/collections/offers)
-    * [Clearance](https://www.maplin.co.uk/collections/clearance)
-    * [Gift Cards](https://www.maplin.co.uk/products/maplin-e-gift-card)
-    * [Gift Guides](https://www.maplin.co.uk/pages/gift-guide)
-    * [Vouchers & Discount Codes](https://www.maplin.co.uk/pages/discount-codes)
+    * Fujifilm Deals
+        
+        * [Fujifilm Deals](https://www.maplin.co.uk/collections/fujifilm-deals)
+        * [£120 off X-S20 Camera](https://www.maplin.co.uk/products/fujifilm-x-s20-mirrorless-digital-camera-black)
+        * [Up to £15 off Instant Cameras](https://www.maplin.co.uk/collections/fujifilm-instant-camera-deals)
+        * [Up to £90 off PAL Cameras](https://www.maplin.co.uk/collections/fujifilm-pal-camera-deals)
+        * [Up to £90 off Photo Printers](https://www.maplin.co.uk/collections/fujifilm-printer-deals)
+        
+    * Photography & Imaging Deals
+        
+        * [Photography & Imaging Deals](https://www.maplin.co.uk/collections/imaging-deals)
+        * [15% off Kodak Film Cameras](https://www.maplin.co.uk/collections/kodak-film-camera-deals)
+        * [25% off Praktica Binoculars](https://www.maplin.co.uk/collections/praktica-binoculars-deals)
+        * [Up to 20% off Praktica Cameras](https://www.maplin.co.uk/collections/praktica-camera-deals)
+        * [Up to £30 off Road Angel](https://www.maplin.co.uk/collections/road-angel-deals)
+        
+    * Stage & Audio Deals
+        
+        * [Stage & Audio Deals](https://www.maplin.co.uk/collections/audio-deals)
+        * [Up to £35 off Easy Karaoke](https://www.maplin.co.uk/collections/easy-karaoke-deals)
+        * [£30 off iDance Sound System](https://www.maplin.co.uk/products/idance-megabox-2000-400w-portable-bluetooth-speaker-system)
+        * [Up to £20 off Kam Stage Lighting](https://www.maplin.co.uk/collections/kam-stage-lighting-deals)
+        * [20% off Microphones](https://www.maplin.co.uk/collections/maono-microphone-deals)
+        * [20% off Maplin Headphones & Speakers](https://www.maplin.co.uk/collections/maplin-dudao)
+        
+    * Home & Office Deals
+        
+        * [Home & Office Deals](https://www.maplin.co.uk/collections/office-furniture-deals)
+        * [Up to 30% off Brackets & Mounts](https://www.maplin.co.uk/collections/brackets-mounts-deals)
+        * [Up to 30% off Desks](https://www.maplin.co.uk/collections/desk-deals)
+        * [Up to 20% off Chairs](https://www.maplin.co.uk/collections/chair-deals)
+        * [25% off ProSound Headsets](https://www.maplin.co.uk/collections/prosound-headset-deals)
+        * [Up to £30 off Cherry Keyboards & Mice](https://www.maplin.co.uk/collections/cherry-keyboards-mice-deals)
+        * [Up to £12 off Targus Accessories](https://www.maplin.co.uk/collections/targus-deals)
+        * [15% off Mirrorstone Heating](https://www.maplin.co.uk/collections/mirrorstone-deals)
+        * [Up to 15% off Tool Boxes](https://www.maplin.co.uk/collections/tool-box-deals)
+        
+    * Everyday Deals
+        
+        * [Everyday Deals](https://www.maplin.co.uk/pages/black-friday)
+        * [25% off Maplin Batteries](https://www.maplin.co.uk/collections/maplin-batteries-deals)
+        * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+        * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
+        * [Up to 50% off Security Tech](https://www.maplin.co.uk/collections/security-deals)
+        
+    * Other Deals
+        
+        * [Other Deals](https://www.maplin.co.uk/collections/deals)
+        * [New Products](https://www.maplin.co.uk/collections/new-products)
+        * [Latest Offers](https://www.maplin.co.uk/collections/offers)
+        * [Clearance](https://www.maplin.co.uk/collections/clearance)
+        * [Gift Cards](https://www.maplin.co.uk/products/maplin-e-gift-card)
+        * [Gift Guides](https://www.maplin.co.uk/pages/gift-guide)
+        * [Vouchers & Discount Codes](https://www.maplin.co.uk/pages/discount-codes)
+        
     
 
 * [👋 We're the electronics specialist](https://www.maplin.co.uk/pages/about-us)
@@ -1590,13 +1638,56 @@ Browse
     
 * [Black Friday](https://www.maplin.co.uk/pages/black-friday)
     
-    * [Black Friday Sale](https://www.maplin.co.uk/pages/black-friday)
+    [Fujifilm Deals](https://www.maplin.co.uk/collections/fujifilm-deals)
+    
+    * [£120 off X-S20 Camera](https://www.maplin.co.uk/products/fujifilm-x-s20-mirrorless-digital-camera-black)
+    * [Up to £15 off Instant Cameras](https://www.maplin.co.uk/collections/fujifilm-instant-camera-deals)
+    * [Up to £90 off PAL Cameras](https://www.maplin.co.uk/collections/fujifilm-pal-camera-deals)
+    * [Up to £90 off Photo Printers](https://www.maplin.co.uk/collections/fujifilm-printer-deals)
+    
+    [Photography & Imaging Deals](https://www.maplin.co.uk/collections/imaging-deals)
+    
+    * [15% off Kodak Film Cameras](https://www.maplin.co.uk/collections/kodak-film-camera-deals)
+    * [25% off Praktica Binoculars](https://www.maplin.co.uk/collections/praktica-binoculars-deals)
+    * [Up to 20% off Praktica Cameras](https://www.maplin.co.uk/collections/praktica-camera-deals)
+    * [Up to £30 off Road Angel](https://www.maplin.co.uk/collections/road-angel-deals)
+    
+    [Stage & Audio Deals](https://www.maplin.co.uk/collections/audio-deals)
+    
+    * [Up to £35 off Easy Karaoke](https://www.maplin.co.uk/collections/easy-karaoke-deals)
+    * [£30 off iDance Sound System](https://www.maplin.co.uk/products/idance-megabox-2000-400w-portable-bluetooth-speaker-system)
+    * [Up to £20 off Kam Stage Lighting](https://www.maplin.co.uk/collections/kam-stage-lighting-deals)
+    * [20% off Microphones](https://www.maplin.co.uk/collections/maono-microphone-deals)
+    * [20% off Maplin Headphones & Speakers](https://www.maplin.co.uk/collections/maplin-dudao)
+    
+    [Home & Office Deals](https://www.maplin.co.uk/collections/office-furniture-deals)
+    
+    * [Up to 30% off Brackets & Mounts](https://www.maplin.co.uk/collections/brackets-mounts-deals)
+    * [Up to 30% off Desks](https://www.maplin.co.uk/collections/desk-deals)
+    * [Up to 20% off Chairs](https://www.maplin.co.uk/collections/chair-deals)
+    * [25% off ProSound Headsets](https://www.maplin.co.uk/collections/prosound-headset-deals)
+    * [Up to £30 off Cherry Keyboards & Mice](https://www.maplin.co.uk/collections/cherry-keyboards-mice-deals)
+    * [Up to £12 off Targus Accessories](https://www.maplin.co.uk/collections/targus-deals)
+    * [15% off Mirrorstone Heating](https://www.maplin.co.uk/collections/mirrorstone-deals)
+    * [Up to 15% off Tool Boxes](https://www.maplin.co.uk/collections/tool-box-deals)
+    
+    [Everyday Deals](https://www.maplin.co.uk/pages/black-friday)
+    
+    * [25% off Maplin Batteries](https://www.maplin.co.uk/collections/maplin-batteries-deals)
+    * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
+    * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
+    * [Up to 50% off Security Tech](https://www.maplin.co.uk/collections/security-deals)
+    
+    [Other Deals](https://www.maplin.co.uk/collections/deals)
+    
     * [New Products](https://www.maplin.co.uk/collections/new-products)
     * [Latest Offers](https://www.maplin.co.uk/collections/offers)
     * [Clearance](https://www.maplin.co.uk/collections/clearance)
     * [Gift Cards](https://www.maplin.co.uk/products/maplin-e-gift-card)
     * [Gift Guides](https://www.maplin.co.uk/pages/gift-guide)
     * [Vouchers & Discount Codes](https://www.maplin.co.uk/pages/discount-codes)
+    
+    [![BF24 SQ BANNER.webp__PID:50d7242c-dc93-49bf-81d7-dddd473292dc](//www.maplin.co.uk/cdn/shop/files/BF24_SQ_BANNER_1200x.webp?v=1728641164)](https://www.maplin.co.uk/pages/black-friday)
     
 
 [![](//www.maplin.co.uk/cdn/shop/files/mobile-icon-batteries.jpg?v=1719851873)
