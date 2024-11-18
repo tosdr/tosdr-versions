@@ -188,7 +188,7 @@ Newsletter Signup
 ![John G. Todd](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
 **In Memory of John G. Todd**  
-Submitted by Lois Carlock](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+United States Army](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -229,5 +229,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/17/24 - 1:25:07  
+Printed 11/17/24 - 7:21:47  
 © 2024 Returning Veterans Project
