@@ -64,7 +64,7 @@ Terms of Use
 
 * [DJI Website Terms of Use](#other)
 * [Trademark](#copyrights)
-* [DJI Product Terms of Use](#products-terms)
+* [](#products-terms)
 * [DJI Software Terms of Use](#products-tab-pilot)
 
 DJI Website Terms of Use
