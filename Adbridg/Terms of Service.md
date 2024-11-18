@@ -1,6 +1,6 @@
 top of page
 
-[![AdBridg_logo](https://static.wixstatic.com/media/b723fc_0a7cbdf6f63f45d3a62cd17b9430556e~mv2.png/v1/fill/w_246,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/AdBridg_IDworkingart1_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png)](https://www.adbridg.com/)
+[![AdBridg_logo](https://static.wixstatic.com/media/b723fc_0a7cbdf6f63f45d3a62cd17b9430556e~mv2.png/v1/fill/w_246,h_50,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AdBridg_IDworkingart1_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.png)](https://www.adbridg.com/)
 
 * Publisher Solutions
     
@@ -255,7 +255,7 @@ If you have any questions regarding these Terms, please send an email to [contac
 
 ​
 
-![AdBridgLogos-WhiteAsset-6_4x-Transparent.png](https://static.wixstatic.com/media/a1ca69_48178aa0cb6047d8a3b78c19eb5f80a2~mv2.png/v1/fill/w_68,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/AdBridgLogos-WhiteAsset-6_4x-Transparent.png)
+![AdBridgLogos-WhiteAsset-6_4x-Transparent.png](https://static.wixstatic.com/media/a1ca69_48178aa0cb6047d8a3b78c19eb5f80a2~mv2.png/v1/fill/w_68,h_8,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/AdBridgLogos-WhiteAsset-6_4x-Transparent.png)
 
 ###### Streamline your Tech
 
