@@ -134,105 +134,105 @@ Política de privacidade
 
 * ### Últimos tópicos
     
-    * [![gui_rodrigues](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256248.thumb.png.dc2e04ab5db2eb7ffb4db12c26a09858.png)](https://www.clubedohardware.com.br/profile/1256248-gui_rodrigues/ "Ir ao perfil de gui_rodrigues")
+    * [![Bento Junior Pexe](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256260.thumb.jpeg.dcecbc92a425d7d021b0e0c0195f56bb.jpeg)](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")
         
         0
         
-        [B650M-E WIFI LED DRAM AMARELO ACESO E SEM Vídeo](https://www.clubedohardware.com.br/forums/topic/1702626-b650m-e-wifi-led-dram-amarelo-aceso-e-sem-v%C3%ADdeo/?do=getNewComment "B650M-E WIFI LED DRAM AMARELO ACESO E SEM Vídeo")
+        [qual memória RAM para o kit ASUS Z790-BTF DDR5 e I9 12900k](https://www.clubedohardware.com.br/forums/topic/1702636-qual-mem%C3%B3ria-ram-para-o-kit-asus-z790-btf-ddr5-e-i9-12900k/?do=getNewComment "qual memória RAM para o kit  ASUS Z790-BTF DDR5 e I9 12900k")
         
         [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [gui\_rodrigues](https://www.clubedohardware.com.br/profile/1256248-gui_rodrigues/ "Ir ao perfil de gui_rodrigues")  
-        agora
+        Por [Bento Junior Pexe](https://www.clubedohardware.com.br/profile/1256260-bento-junior-pexe/ "Ir ao perfil de Bento Junior Pexe")  
+        37 minutos atrás
         
-    * [![diogomamedio](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256247.thumb.jpeg.c5f2ee4be360e14ce62d5517cafdc3ca.jpeg)](https://www.clubedohardware.com.br/profile/1256247-diogomamedio/ "Ir ao perfil de diogomamedio")
-        
-        0
-        
-        [SSD bom mostra apenas 0GB durante a formatação do WIndows 10](https://www.clubedohardware.com.br/forums/topic/1702625-ssd-bom-mostra-apenas-0gb-durante-a-formata%C3%A7%C3%A3o-do-windows-10/?do=getNewComment "SSD bom mostra apenas 0GB durante a formatação do WIndows 10")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [diogomamedio](https://www.clubedohardware.com.br/profile/1256247-diogomamedio/ "Ir ao perfil de diogomamedio")  
-        16 minutos atrás
-        
-    * [![lifakopa](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4b162%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EL%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256246-lifakopa/ "Ir ao perfil de lifakopa")
+    * [![Victoraguiar81](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256258.thumb.png.32ca93dea4f051a75e4884838224127d.png)](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")
         
         0
         
-        [Gerador De Robux Grátis (2024)](https://www.clubedohardware.com.br/forums/topic/1702624-gerador-de-robux-gr%C3%A1tis-2024/?do=getNewComment "Gerador De Robux Grátis (2024)")
+        [Notebook reiniciando sempre na desfragmentação do HD](https://www.clubedohardware.com.br/forums/topic/1702635-notebook-reiniciando-sempre-na-desfragmenta%C3%A7%C3%A3o-do-hd/?do=getNewComment "Notebook reiniciando sempre na desfragmentação do HD")
         
-        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
-        Por [lifakopa](https://www.clubedohardware.com.br/profile/1256246-lifakopa/ "Ir ao perfil de lifakopa")  
-        38 minutos atrás
-        
-    * [![Gopher](https://www.clubedohardware.com.br/uploads/members/profile/photo-340004.gif)](https://www.clubedohardware.com.br/profile/340004-gopher/ "Ir ao perfil de Gopher")
-        
-        0
-        
-        [Rede com dual NAT e conflitos - solução?](https://www.clubedohardware.com.br/forums/topic/1702623-rede-com-dual-nat-e-conflitos-solu%C3%A7%C3%A3o/?do=getNewComment "Rede com dual NAT e conflitos - solução?")
-        
-        [Redes e Internet](https://www.clubedohardware.com.br/forums/forum/171-redes-e-internet/ "Redes e Internet")  
-        Por [Gopher](https://www.clubedohardware.com.br/profile/340004-gopher/ "Ir ao perfil de Gopher")  
-        43 minutos atrás
-        
-    * [![Rael Duarte](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256242.thumb.jpeg.f20dbcd069da564bf2537e06000f3c66.jpeg)](https://www.clubedohardware.com.br/profile/1256242-rael-duarte/ "Ir ao perfil de Rael Duarte")
-        
-        0
-        
-        [10 anos sem um PC... saindo da caverna!](https://www.clubedohardware.com.br/forums/topic/1702622-10-anos-sem-um-pc-saindo-da-caverna/?do=getNewComment "10 anos sem um PC... saindo da caverna!")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [Rael Duarte](https://www.clubedohardware.com.br/profile/1256242-rael-duarte/ "Ir ao perfil de Rael Duarte")  
-        49 minutos atrás
-        
-    * [![O Lipee](https://www.clubedohardware.com.br/uploads/members/monthly_2020_10/imported-photo-1042517.thumb.jpeg.a5ed3849fb958cffb4008062c1851b7a.jpeg)](https://www.clubedohardware.com.br/profile/1042517-o-lipee/ "Ir ao perfil de O Lipee")
-        
-        0
-        
-        [Ryzen 5 1600 aguenta memória RAM 3200MHz ?](https://www.clubedohardware.com.br/forums/topic/1702621-ryzen-5-1600-aguenta-mem%C3%B3ria-ram-3200mhz/?do=getNewComment "Ryzen 5 1600 aguenta memória RAM 3200MHz ?")
-        
-        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
-        Por [O Lipee](https://www.clubedohardware.com.br/profile/1042517-o-lipee/ "Ir ao perfil de O Lipee")  
-        54 minutos atrás
-        
-    * [![Rockz](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%237562c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ER%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1221558-rockz/ "Ir ao perfil de Rockz")
-        
-        10
-        
-        [Fonte SF-G850M esta na posição correta?](https://www.clubedohardware.com.br/forums/topic/1702620-fonte-sf-g850m-esta-na-posi%C3%A7%C3%A3o-correta/?do=getNewComment "Fonte SF-G850M esta na posição correta?")
-        
-        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
-        Por [Rockz](https://www.clubedohardware.com.br/profile/1221558-rockz/ "Ir ao perfil de Rockz")  
+        [Notebooks](https://www.clubedohardware.com.br/forums/forum/156-notebooks/ "Notebooks")  
+        Por [Victoraguiar81](https://www.clubedohardware.com.br/profile/1256258-victoraguiar81/ "Ir ao perfil de Victoraguiar81")  
         1 hora atrás
         
-    * [![Ginke](https://www.clubedohardware.com.br/uploads/members/monthly_2023_07/Patrick.thumb.jpg.5da8e0eee9a5b06ba9cbf3d005840276.jpg)](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")
-        
-        5
-        
-        [Meu PC não desliga depois de jogar Spider-Man Remastered](https://www.clubedohardware.com.br/forums/topic/1702619-meu-pc-n%C3%A3o-desliga-depois-de-jogar-spider-man-remastered/?do=getNewComment "Meu PC não desliga depois de jogar Spider-Man Remastered")
-        
-        [Jogos](https://www.clubedohardware.com.br/forums/forum/104-jogos/ "Jogos")  
-        Por [Ginke](https://www.clubedohardware.com.br/profile/1201669-ginke/ "Ir ao perfil de Ginke")  
-        1 hora atrás
-        
-    * [![Marcos A77](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4626c%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EMA%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")
+    * [![Nexstep](https://www.clubedohardware.com.br/uploads/members/monthly_2024_02/05f2c41c5e044ef8d8f2ba5c9140dbd1.thumb.jpg.33b2db8449f71b37677d4b12384b27e0.jpg)](https://www.clubedohardware.com.br/profile/717315-nexstep/ "Ir ao perfil de Nexstep")
         
         0
         
-        [memory cards ps2 queimando](https://www.clubedohardware.com.br/forums/topic/1702618-memory-cards-ps2-queimando/?do=getNewComment "memory cards ps2 queimando")
+        [QuadChannel vale a pena ?](https://www.clubedohardware.com.br/forums/topic/1702634-quadchannel-vale-a-pena/?do=getNewComment "QuadChannel vale a pena ?")
         
-        [Consoles (videogames)](https://www.clubedohardware.com.br/forums/forum/84-consoles-videogames/ "Consoles (videogames)")  
-        Por [Marcos A77](https://www.clubedohardware.com.br/profile/1251573-marcos-a77/ "Ir ao perfil de Marcos A77")  
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Nexstep](https://www.clubedohardware.com.br/profile/717315-nexstep/ "Ir ao perfil de Nexstep")  
         2 horas atrás
         
-    * [![rapharm](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256238.thumb.jpeg.4c4539ff0196decf52a48b266bb6c0f8.jpeg)](https://www.clubedohardware.com.br/profile/1256238-rapharm/ "Ir ao perfil de rapharm")
+    * [![Bellini](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23aa62c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EB%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256204-bellini/ "Ir ao perfil de Bellini")
         
-        6
+        0
         
-        [Temperatura alta demais 82° preciso de uma opinião de fora.](https://www.clubedohardware.com.br/forums/topic/1702616-temperatura-alta-demais-82%C2%B0-preciso-de-uma-opini%C3%A3o-de-fora/?do=getNewComment "Temperatura alta demais 82° preciso de uma opinião de fora.")
+        [Pino torto na placa-mãe](https://www.clubedohardware.com.br/forums/topic/1702633-pino-torto-na-placa-m%C3%A3e/?do=getNewComment "Pino torto na placa-mãe")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [Bellini](https://www.clubedohardware.com.br/profile/1256204-bellini/ "Ir ao perfil de Bellini")  
+        2 horas atrás
+        
+    * [![Carlos Reis.](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23a862c4%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ECR%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256255-carlos-reis/ "Ir ao perfil de Carlos Reis.")
+        
+        1
+        
+        [Gabinete Montech X3 MESH](https://www.clubedohardware.com.br/forums/topic/1702632-gabinete-montech-x3-mesh/?do=getNewComment "Gabinete Montech X3 MESH")
+        
+        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
+        Por [Carlos Reis.](https://www.clubedohardware.com.br/profile/1256255-carlos-reis/ "Ir ao perfil de Carlos Reis.")  
+        3 horas atrás
+        
+    * [![Anarcus](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256253.thumb.png.cc5c715103e677c240e994a35dfc7c44.png)](https://www.clubedohardware.com.br/profile/1256253-anarcus/ "Ir ao perfil de Anarcus")
+        
+        1
+        
+        [Indicação de Gabinete até R$600,00?](https://www.clubedohardware.com.br/forums/topic/1702631-indica%C3%A7%C3%A3o-de-gabinete-at%C3%A9-r60000/?do=getNewComment "Indicação de Gabinete até R$600,00?")
+        
+        [Gabinetes e casemod](https://www.clubedohardware.com.br/forums/forum/81-gabinetes-e-casemod/ "Gabinetes e casemod")  
+        Por [Anarcus](https://www.clubedohardware.com.br/profile/1256253-anarcus/ "Ir ao perfil de Anarcus")  
+        4 horas atrás
+        
+    * [![Ramiro Tonoli](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256252.thumb.png.7e3ab717c1f4efbbae899a70a44b199d.png)](https://www.clubedohardware.com.br/profile/1256252-ramiro-tonoli/ "Ir ao perfil de Ramiro Tonoli")
+        
+        0
+        
+        [memória Ram defeito ou não](https://www.clubedohardware.com.br/forums/topic/1702630-mem%C3%B3ria-ram-defeito-ou-n%C3%A3o/?do=getNewComment "memória Ram defeito ou não")
+        
+        [Memórias (RAM)](https://www.clubedohardware.com.br/forums/forum/29-mem%C3%B3rias-ram/ "Memórias (RAM)")  
+        Por [Ramiro Tonoli](https://www.clubedohardware.com.br/profile/1256252-ramiro-tonoli/ "Ir ao perfil de Ramiro Tonoli")  
+        4 horas atrás
+        
+    * [![Leob1](https://www.clubedohardware.com.br/uploads/members/monthly_2024_05/imported-photo-1246114.thumb.png.297a8173aaec954f1bfbdc25aa48bb5d.png)](https://www.clubedohardware.com.br/profile/1246114-leob1/ "Ir ao perfil de Leob1")
+        
+        0
+        
+        [Qual 4060 ti comprar?](https://www.clubedohardware.com.br/forums/topic/1702629-qual-4060-ti-comprar/?do=getNewComment "Qual 4060 ti comprar?")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Leob1](https://www.clubedohardware.com.br/profile/1246114-leob1/ "Ir ao perfil de Leob1")  
+        4 horas atrás
+        
+    * [![Kaio154](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256250.thumb.png.8e166254141f724bd2dfc95c52ec1061.png)](https://www.clubedohardware.com.br/profile/1256250-kaio154/ "Ir ao perfil de Kaio154")
+        
+        1
+        
+        [Qual cooler devo escolher](https://www.clubedohardware.com.br/forums/topic/1702628-qual-cooler-devo-escolher/?do=getNewComment "Qual cooler devo escolher")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [rapharm](https://www.clubedohardware.com.br/profile/1256238-rapharm/ "Ir ao perfil de rapharm")  
-        2 horas atrás
+        Por [Kaio154](https://www.clubedohardware.com.br/profile/1256250-kaio154/ "Ir ao perfil de Kaio154")  
+        5 horas atrás
+        
+    * [![Endmmans](https://www.clubedohardware.com.br/uploads/members/monthly_2022_09/imported-photo-1058066.thumb.png.abb5d2dc799c8d7a2d0c8328a6d432f2.png)](https://www.clubedohardware.com.br/profile/1058066-endmmans/ "Ir ao perfil de Endmmans")
+        
+        1
+        
+        [É possível usar o Ryzen 7 9700X com memórias a 6000Mhz em uma B650M Aorus Elite?](https://www.clubedohardware.com.br/forums/topic/1702627-%C3%A9-poss%C3%ADvel-usar-o-ryzen-7-9700x-com-mem%C3%B3rias-a-6000mhz-em-uma-b650m-aorus-elite/?do=getNewComment "É possível usar o Ryzen 7 9700X com memórias a 6000Mhz em uma B650M Aorus Elite?")
+        
+        [Processadores](https://www.clubedohardware.com.br/forums/forum/43-processadores/ "Processadores")  
+        Por [Endmmans](https://www.clubedohardware.com.br/profile/1058066-endmmans/ "Ir ao perfil de Endmmans")  
+        5 horas atrás
         
     
 
