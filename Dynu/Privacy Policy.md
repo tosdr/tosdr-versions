@@ -240,9 +240,11 @@ Questions, comments and requests regarding this Privacy Policy are welcomed and 
   
 Please check back frequently to see any updates or changes to our privacy policy.
 
-Share this page
+#### Would cloud based computing and networking resources help your business? Check out more details about cloud computing!
 
-[Join the community >](https://www.dynu.com/Support)
+  
+[What is cloud computing?](https://www.dynu.com/What-Is-Cloud-Computing)  
+  
 
 ### News
 
