@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/art-jason-sims-feature.jpg)
+
+[](https://theinspirationgrid.com/perceptual-art-mesmerizing-installations-by-jason-sims/)
+
+### Perceptual Art: Mesmerizing Installations by Jason Sims
+
+![](https://inspgr.id/app/uploads/2024/11/illustration-valentin-tkach-feature.jpg)
+
+[](https://theinspirationgrid.com/editorial-illustrations-by-valentin-tkach/)
+
+### Editorial Illustrations by Valentin Tkach
+
 ![](https://inspgr.id/app/uploads/2024/11/art-max-sheika-feature.jpg)
 
 [](https://theinspirationgrid.com/drim-a-fascinating-sculpture-by-max-sheika/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/musa-restaurant-branding-by-tiare-payano/)
 
 ### Musa Restaurant Branding by Tiare Payano
-
-![](https://inspgr.id/app/uploads/2024/11/art-niark1-feature.jpg)
-
-[](https://theinspirationgrid.com/multifaceted-digital-collages-by-niark1/)
-
-### Multifaceted Digital Collages by Niark1
-
-![](https://inspgr.id/app/uploads/2024/11/art-labrooy-2024-feature.jpg)
-
-[](https://theinspirationgrid.com/me-myself-and-i-sculptural-self-portraits-by-chris-labrooy/)
-
-### Me, Myself and I: Sculptural Self-Portraits by Chris Labrooy
 
 Awesome products for creatives
 ------------------------------
