@@ -8,7 +8,7 @@
 
    
 
- [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1253) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1253)](https://www.ncfe.org.uk/)
+ [![NCFE](/_res/dist/img/logos/VerticalLogo.svg?v=1289) ![NCFE](/_res/dist/img/logos/LogoN.svg?v=1289)](https://www.ncfe.org.uk/)
 
 * [Qualifications](https://www.ncfe.org.uk/qualifications/)
     
@@ -17,7 +17,7 @@
     * [Delivery support](https://www.ncfe.org.uk/qualifications/delivery-support/)
     * [Preparing for quality assurance](https://www.ncfe.org.uk/qualifications/preparing-for-eqa/)
     * [Assessment support](https://www.ncfe.org.uk/qualifications/centre-assessment-support/)
-    * [Timely delivery of VTQ results](https://www.ncfe.org.uk/qualifications/results/)
+    * [Timely delivery of VTQ results](https://www.ncfe.org.uk/qualifications/timely-delivery-of-results/)
     * [Customer and learner support](https://www.ncfe.org.uk/customer-and-learner-support/)
     * [Mandatory policies and fees](https://www.ncfe.org.uk/qualifications/mandatory-policies-fees/)
     * [Qualifications coming soon](https://www.ncfe.org.uk/qualifications/coming-soon/)
@@ -242,7 +242,7 @@
     * [Higher Technical Qualifications](https://www.ncfe.org.uk/technical-education/progression-to-higher-education/)
     * [Post-16 reforms](https://www.ncfe.org.uk/post-16-reform/)
     * [T Level updates](https://www.ncfe.org.uk/technical-education/t-levels/provider-hub/latest-updates/)
-    * [Timely delivery of VTQ results](https://www.ncfe.org.uk/qualifications/results/)
+    * [Timely delivery of VTQ results](https://www.ncfe.org.uk/qualifications/timely-delivery-of-results/)
     
 * [Apprenticeships](https://www.ncfe.org.uk/apprenticeships/)
     
