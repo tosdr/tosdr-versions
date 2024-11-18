@@ -595,7 +595,7 @@ For example:
 We encourage you to read the privacy statements of services visited through the Services or web sites visited after leaving the Services to learn about how your information is treated by others.  
   
 
-**_AP Buyline._** AP Buyline ([Personal Finance](https://apnews.com/buyline-personal-finance/), [Shopping](https://apnews.com/hub/shopping)) is an initiative designed to simplify complex consumer-made decisions by providing its audience with reliable evaluations and straightforward insights. The AP Buyline web site is hosted by Taboola.com Ltd., and [Taboola’s Privacy Policy](https://www.taboola.com/policies/privacy-policy) (available [here](https://www.taboola.com/policies/privacy-policy)) applies to your use of AP Buyline.  
+**_AP Buyline._** AP Buyline ([Personal Finance](https://apnews.com/buyline-personal-finance/), [Shopping](https://apnews.com/buyline-shopping/)) is an initiative designed to simplify complex consumer-made decisions by providing its audience with reliable evaluations and straightforward insights. The AP Buyline web site is hosted by Taboola.com Ltd., and [Taboola’s Privacy Policy](https://www.taboola.com/policies/privacy-policy) (available [here](https://www.taboola.com/policies/privacy-policy)) applies to your use of AP Buyline.  
   
 **_Co-Sponsored Content._** The Services may contain certain co-sponsored content, and you may be requested to provide additional Personal Information to the co-sponsor of such content. The information practices of any third-party co-sponsors are governed by their own privacy policies and are not covered by this Privacy Policy.  
   
