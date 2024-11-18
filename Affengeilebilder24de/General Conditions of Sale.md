@@ -77,11 +77,12 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Catill](https://affengeilebilder24.de/blogs/kuenstler/catill)
     * [Christian Amelung](https://affengeilebilder24.de/blogs/kuenstler/christian-amelung)
     * [Daniel Decker](https://affengeilebilder24.de/blogs/kuenstler/daniel-decker)
+    * [daveschloffiart](https://affengeilebilder24.de/blogs/kuenstler/daveschloffiart)
     * [David Drake](https://affengeilebilder24.de/blogs/kuenstler/david-drake)
-    * [Eleanor Art](https://affengeilebilder24.de/blogs/kuenstler/eleanor-art)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
+    * [Eleanor Art](https://affengeilebilder24.de/blogs/kuenstler/eleanor-art)
     * [Frank Amoruso](https://affengeilebilder24.de/blogs/kuenstler/frank-amoruso)
     * [Frank Daske](https://affengeilebilder24.de/blogs/kuenstler/frank-daske)
     * [Henrivaux](https://affengeilebilder24.de/blogs/kuenstler/henrivaux)
@@ -90,10 +91,10 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Iconica](https://affengeilebilder24.de/blogs/kuenstler/iconica)
     * [Jessica Loiterton](https://affengeilebilder24.de/blogs/kuenstler/jessica-loiterton)
     * [Juliano de Araujo](https://affengeilebilder24.de/blogs/kuenstler/juliano-de-araujo)
-    * [Kiss Pink](https://affengeilebilder24.de/blogs/kuenstler/kiss-pink)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
+    * [Kiss Pink](https://affengeilebilder24.de/blogs/kuenstler/kiss-pink)
     * [Lukas Avalon](https://affengeilebilder24.de/blogs/kuenstler/lukas-avalon)
     * [Markus Mikolai](https://affengeilebilder24.de/blogs/kuenstler/markus-mikolai)
     * [Matteo Bianchi](https://affengeilebilder24.de/blogs/kuenstler/matteo-bianchi)
@@ -102,10 +103,10 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Nenad Jovic](https://affengeilebilder24.de/blogs/kuenstler/nenad-jovic)
     * [Nilo](https://affengeilebilder24.de/blogs/kuenstler/nilo)
     * [Patrice Murciano](https://affengeilebilder24.de/blogs/kuenstler/patrice-murciano)
-    * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
     
     [⠀](https://affengeilebilder24.de/blogs/kuenstler)
     
+    * [Philipp Pilz](https://affengeilebilder24.de/blogs/kuenstler/philipp-pilz)
     * [Rosa Piazza](https://affengeilebilder24.de/blogs/kuenstler/rosa-piazza)
     * [RS Artist](https://affengeilebilder24.de/blogs/kuenstler/rs-artist)
     * [Sean Flores](https://affengeilebilder24.de/blogs/kuenstler/sean-flores)
@@ -116,11 +117,11 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Zenzdesign](https://affengeilebilder24.de/blogs/kuenstler/zenzdesign)
     * [★ Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_ICONICA_720x.jpg?v=1724146699)
+    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_daveschloffiart_720x.jpg?v=1731564064)
     
     NEW ARTIST
     
-    ICONICA](https://affengeilebilder24.de/blogs/kuenstler/iconica)
+    daveschloffiart](https://affengeilebilder24.de/blogs/kuenstler/daveschloffiart)
     
 * [Produkte](https://affengeilebilder24.de/collections/all)
     
@@ -217,6 +218,7 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Catill](https://affengeilebilder24.de/blogs/kuenstler/catill)
     * [Christian Amelung](https://affengeilebilder24.de/blogs/kuenstler/christian-amelung)
     * [Daniel Decker](https://affengeilebilder24.de/blogs/kuenstler/daniel-decker)
+    * [daveschloffiart](https://affengeilebilder24.de/blogs/kuenstler/daveschloffiart)
     * [David Drake](https://affengeilebilder24.de/blogs/kuenstler/david-drake)
     * [Eleanor Art](https://affengeilebilder24.de/blogs/kuenstler/eleanor-art)
     * [Frank Amoruso](https://affengeilebilder24.de/blogs/kuenstler/frank-amoruso)
@@ -247,11 +249,11 @@ Newsletter[](https://affengeilebilder24.de/customer_authentication/redirect?loca
     * [Zuppini](https://affengeilebilder24.de/blogs/kuenstler/zuppini)
     * [Künstler werden](https://affengeilebilder24.de/pages/kunstler-werden-bei-affengeilebilder)
     
-    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_ICONICA_810x.jpg?v=1724146699)
+    [![](//affengeilebilder24.de/cdn/shop/files/Profilfoto_daveschloffiart_810x.jpg?v=1731564064)
     
     NEW ARTIST
     
-    ICONICA](https://affengeilebilder24.de/blogs/kuenstler/iconica)
+    daveschloffiart](https://affengeilebilder24.de/blogs/kuenstler/daveschloffiart)
     
 * Produkte
     
@@ -345,6 +347,7 @@ English Deutsch
 * [Catill](https://affengeilebilder24.de/blogs/kuenstler/catill)
 * [Christian Amelung](https://affengeilebilder24.de/blogs/kuenstler/christian-amelung)
 * [Daniel Decker](https://affengeilebilder24.de/blogs/kuenstler/daniel-decker)
+* [daveschloffiart](https://affengeilebilder24.de/blogs/kuenstler/daveschloffiart)
 * [David Drake](https://affengeilebilder24.de/blogs/kuenstler/david-drake)
 * [Eleanor Art](https://affengeilebilder24.de/blogs/kuenstler/eleanor-art)
 * [Frank Amoruso](https://affengeilebilder24.de/blogs/kuenstler/frank-amoruso)
