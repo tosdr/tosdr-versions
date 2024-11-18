@@ -20,7 +20,6 @@ Utility navigation
     * [Child and Adolescent](https://www.eatingrecoverycenter.com/families-overview#child-adolescent)
 * [Alumni](https://www.eatingrecoverycenter.com/alumni-overview)
     * [Resources](https://www.eatingrecoverycenter.com/resources?audience=3771)
-    * [Events](https://www.eatingrecoverycenter.com/alumni/events)
     * [Recovery Ambassadors](https://www.eatingrecoverycenter.com/alumni-overview#ambassadors)
     * [Love Your Tree](https://www.eatingrecoverycenter.com/love-your-tree)
     * [Stories of Hope](https://www.eatingrecoverycenter.com/alumni/success-stories)
@@ -32,7 +31,6 @@ Utility navigation
     * [Information Gateway](https://www.eatingrecoverycenter.com/professionals/resources/information-gateway)
     * [Love Your Tree](https://www.eatingrecoverycenter.com/love-your-tree)
     * [Resources](https://www.eatingrecoverycenter.com/resources?audience=3766)
-    * [Events](https://www.eatingrecoverycenter.com/professionals/events)
     * [Connect With Us](https://www.eatingrecoverycenter.com/professionals/connect)
 * [Medical Staff](https://www.eatingrecoverycenter.com/medical-staff)
 * [Careers](https://www.eatingrecoverycenter.com/careers)
@@ -151,10 +149,6 @@ Main navigation
         * Events
             * [View All Events](https://www.eatingrecoverycenter.com/events)
             * [On-Demand Events](https://www.eatingrecoverycenter.com/on-demand-events)
-            * [Community Events](https://www.eatingrecoverycenter.com/community/events)
-            * [Family Events](https://www.eatingrecoverycenter.com/families/events)
-            * [Alumni Events](https://www.eatingrecoverycenter.com/alumni/events)
-            * [CE & CME Courses](https://www.eatingrecoverycenter.com/professionals/events)
             * [2024 Eating Recovery and Pathlight Conferences](https://www.eatingrecoverycenter.com/events/erc-pathlight-conference)
             * [Virtual Family & Friends Education Series](https://www.eatingrecoverycenter.com/erc-virtual-family-friends-education-series)
     * col 2
@@ -304,10 +298,6 @@ Main navigation
         * Events
             * [View All Events](https://www.eatingrecoverycenter.com/events)
             * [On-Demand Events](https://www.eatingrecoverycenter.com/on-demand-events)
-            * [Community Events](https://www.eatingrecoverycenter.com/community/events)
-            * [Family Events](https://www.eatingrecoverycenter.com/families/events)
-            * [Alumni Events](https://www.eatingrecoverycenter.com/alumni/events)
-            * [CE & CME Courses](https://www.eatingrecoverycenter.com/professionals/events)
             * [2024 Eating Recovery and Pathlight Conferences](https://www.eatingrecoverycenter.com/events/erc-pathlight-conference)
             * [Virtual Family & Friends Education Series](https://www.eatingrecoverycenter.com/erc-virtual-family-friends-education-series)
     * col 2
@@ -555,10 +545,6 @@ Footer (ERC)
     * [Podcasts](https://www.eatingrecoverycenter.com/mental-note-podcast)
     * [All Resources](https://www.eatingrecoverycenter.com/resources)
 * Events
-    * [Community Events](https://www.eatingrecoverycenter.com/community/events)
-    * [Family Events](https://www.eatingrecoverycenter.com/families/events)
-    * [Alumni Events](https://www.eatingrecoverycenter.com/alumni/events)
-    * [Professional Events](https://www.eatingrecoverycenter.com/professionals/events)
 * About
     * [History & Mission](https://www.eatingrecoverycenter.com/history-mission)
     * [Executive Leadership](https://www.eatingrecoverycenter.com/corporate-leadership)
