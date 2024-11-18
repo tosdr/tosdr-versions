@@ -175,6 +175,9 @@ Get it FREE 🚀](https://www.rebuyengine.com/tools/tactics-deck?website_utm_pag
     * [New Releases
         
         Stay updated with the latest product news and subscribe for update alerts](https://www.rebuyengine.com/product/new)
+    * [Get Started
+        
+        Video tutorials to get you up and running quickly](https://www.rebuyengine.com/get-started)
     
     #### Featured Content
     
