@@ -106,10 +106,10 @@ _Last update: October 2010_
 * [St. Jude U.S. Privacy Policy Statement](https://www.stjude.org/legal/st-jude-privacy-policy-statement.html)
 * [Medical Records Release](https://www.stjude.org/legal/medical-records-release.html)
 * [Pricing Transparency](https://www.stjude.org/legal/standard-charges.html)
-* [Colorado Opt-Out Rights](https://www.stjude.org/legal/colorado-privacy-act.html)
-* [Colorado Privacy Rights Request Form](https://www.stjude.org/legal/colorado-privacy.html)
 * [Washington Health Privacy Rights Request Form](https://www.stjude.org/legal/washington-privacy-act.html)
 * [Nevada Health Privacy Rights Request Form](https://www.stjude.org/legal/nevada-privacy-act.html)
+* [Your Opt-Out Rights](https://www.stjude.org/legal/your-opt-out-rights.html)
+* [Privacy Rights Request Form](https://www.stjude.org/legal/consumer-privacy-rights-request.html)
 
 [Related LinksClose](#)
 
@@ -178,7 +178,7 @@ Thank you for signing up to receive updates from St. Jude. You may manage your s
 * [Notice of Non-Discrimination](https://www.stjude.org/legal/notice-of-non-discrimination.html "Notice of Non-Discrimination")
 * [Pricing Transparency](https://www.stjude.org/legal/standard-charges.html "Pricing Transparency")
 * [Site Map](https://www.stjude.org/sitemap.html "Site Map")
-* [Colorado Opt-Out Rights](https://www.stjude.org/legal/colorado-privacy-act.html "Colorado Opt-Out Rights")
+* [Your Opt-Out Rights](https://www.stjude.org/legal/your-opt-out-rights.html "Your Opt-Out Rights")
 * [Washington Health Privacy Notice](https://www.stjude.org/legal/u-s-privacy-policy-statement/washington-health-privacy-notice.html "Washington Health Privacy Notice")
 
 If you speak another language, assistance services, free of charge, are available to you. Call 1-866-278-5833 (TTY: 1-901-595-1040)
