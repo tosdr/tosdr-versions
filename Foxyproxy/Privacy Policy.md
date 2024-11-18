@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Excellent service, have taken out Annual subscription
+Thanks again for your help. You guys are awesome.
 
-Liz Kene
+Joe Wilkinson
