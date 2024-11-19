@@ -391,11 +391,11 @@ How top brands drive growth with SurveyMonkey.
 
 [Sign up free](https://www.surveymonkey.com/sign-up/?ut_ctatext=Sign+up+free&ut_source=legal&ut_source2=terms-of-use&ut_source3=desktop-header-cta)
 
-![Логотип SurveyMonkey](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__badge.png)
+![SurveyMonkey Logosu](https://prod.smassets.net/assets/website/2.288.0/images/legal_sidebar__badge.png)
 
-* [Обзор](https://www.surveymonkey.com/mp/legal/)
+* [Genel Görünüm](https://www.surveymonkey.com/mp/legal/)
     
-* [Условия использования](https://www.surveymonkey.com/mp/legal/terms-of-use/)
+* [Kullanım Koşulları](https://www.surveymonkey.com/mp/legal/terms-of-use/)
     
     [1\. Fees and Payments](#fees-and-payments)
     
@@ -433,32 +433,32 @@ How top brands drive growth with SurveyMonkey.
     
     [18\. Terms for SurveyMonkey Contribute](#terms-for-surveymonkey-contribute)
     
-* [Генеральное соглашение об услугах](https://www.surveymonkey.com/mp/legal/gsa/)
+* [Ana Hizmet Sözleşmesi](https://www.surveymonkey.com/mp/legal/gsa/)
     
-* [Условия для отдельных услуг](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
+* [Hizmete Özel Koşullar](https://www.surveymonkey.com/mp/legal/which-terms-apply/)
     
-* [Основы конфиденциальности](https://www.surveymonkey.com/mp/legal/privacy-basics/)
+* [Gizliliğe ilişkin temel noktalar](https://www.surveymonkey.com/mp/legal/privacy-basics/)
     
-* [Уведомление о конфиденциальности](https://www.surveymonkey.com/mp/legal/privacy/)
+* [Gizlilik Bildirimi](https://www.surveymonkey.com/mp/legal/privacy/)
     
-* [Cookie](https://www.surveymonkey.com/mp/legal/cookies/)
+* [Çerezler](https://www.surveymonkey.com/mp/legal/cookies/)
     
-* [Использование cookie на страницах опросов](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
+* [Anket Sayfalarında Kullanılan Çerezler](https://www.surveymonkey.com/mp/legal/survey-page-cookies/)
     
-* [Политика допустимого использования](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
+* [Kabul Edilebilir Kullanım İlkesi](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/)
     
-* [Безопасность](https://www.surveymonkey.com/mp/legal/security/)
+* [Güvenlik](https://www.surveymonkey.com/mp/legal/security/)
     
-* [Общее](https://www.surveymonkey.com/mp/legal/general/)
+* [Genel](https://www.surveymonkey.com/mp/legal/general/)
     
 
 ### 
 
-А Вы знаете?
+Biliyor muydunuz?
 
-63 % людей, прежде чем пользоваться продуктами или услугами компании, стараются больше узнать о ее политике конфиденциальности и безопасности.
+İnsanların %63'ü, bir şirketin ürünlerini veya hizmetlerini kullanmaya başlamadan önce o şirketin gizlilik ve güvenlik geçmişini dikkate alır.
 
-![Юридическая статистика на боковой панели](https://prod.smassets.net/assets/website/2.287.0/images/legal_sidebar__stats-image.png)
+![Kenar çubuğundaki hukuki istatistik görseli](https://prod.smassets.net/assets/website/2.288.0/images/legal_sidebar__stats-image.png)
 
 Print this Page
 
