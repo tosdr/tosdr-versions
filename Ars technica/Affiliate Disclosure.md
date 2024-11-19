@@ -87,13 +87,13 @@ Most Read
     
     1. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
-2. 2. [Silo S2 expands its dystopian world](https://arstechnica.com/culture/2024/11/silo-s2-expands-its-dystopian-world/)
+2. 2. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
     
-3. 3. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
+3. 3. [School failed to report AI nudes of kids for months. Now parents are suing.](https://arstechnica.com/tech-policy/2024/11/school-failed-to-report-ai-nudes-of-kids-for-months-now-parents-are-suing/)
     
 4. 4. [SpaceX president predicts rapid increase in Starship launch rate](https://arstechnica.com/space/2024/11/spacex-president-predicts-rapid-increase-in-starship-launch-rate/)
     
-5. 5. [These are the lasting things that Half-Life 2 gave us, besides headcrabs and crowbars](https://arstechnica.com/gaming/2024/11/these-are-the-lasting-things-that-half-life-2-gave-us-besides-headcrabs-and-crowbars/)
+5. 5. [Trump’s FCC chair is Brendan Carr, who wants to regulate everyone except ISPs](https://arstechnica.com/tech-policy/2024/11/trumps-fcc-chair-is-brendan-carr-who-wants-to-regulate-everyone-except-isps/)
     
 
 Customize
