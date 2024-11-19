@@ -232,7 +232,7 @@ Recent Issues
 * [Privacy](https://www.psychologytoday.com/us/docs/privacy-policy)
 * [Terms](https://www.psychologytoday.com/us/docs/terms-and-conditions)
 * [Accessibility](https://www.psychologytoday.com/us/docs/accessibility)
-* [Do Not Sell Or Share My Personal Information](javascript:Cookiebot.renew();)
+* [Do Not Sell Or Share My Personal Information](javascript:revisitCkyConsent();)
 
  [![United States](https://cdn2.psychologytoday.com/assets/flags/flag-lg-us.svg) United States](https://www.psychologytoday.com/intl/counsellors?domain=content&cc=us&cl=en)
 
