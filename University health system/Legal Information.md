@@ -25,11 +25,9 @@
         
          Search by name, specialty, or location Search
         
-        * [View Pediatric Doctors](https://www.universityhealthsystem.com/pediatrics/providers?personalized=true)
     * * [View advanced search options](https://www.universityhealthsystem.com/providers)
         * [View all doctors](https://www.universityhealthsystem.com/providers)
     
-    * [View Pediatric Doctors](https://www.universityhealthsystem.com/pediatrics/providers?personalized=true)
     * [View all doctors](https://www.universityhealthsystem.com/providers)
     
 
