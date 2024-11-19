@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [Netanyahu Says ‘It’s Not a Secret’ That Israel Hit a Key Iranian Nuclear Component](https://www.theepochtimes.com/world/netanyahu-says-its-not-a-secret-that-israel-hit-a-key-iranian-nuclear-component-5762160)
+* [FDIC Chair to Step Down, Clearing the Way for Change Under Trump](https://www.theepochtimes.com/business/fdic-chair-to-step-down-clearing-the-way-for-change-under-trump-5762032)
     
-    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
     
-    [![Netanyahu Says ‘It’s Not a Secret’ That Israel Hit a Key Iranian Nuclear Component](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FDIC Chair to Step Down, Clearing the Way for Change Under Trump](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Netanyahu Says ‘It’s Not a Secret’ That Israel Hit a Key Iranian Nuclear Component](https://img.theepochtimes.com/assets/uploads/2023/11/09/id5526380-GettyImages-152881699-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-says-its-not-a-secret-that-israel-hit-a-key-iranian-nuclear-component-5762160)
-* [Major US Health Network Files for Bankruptcy](https://www.theepochtimes.com/business/major-us-health-network-files-for-bankruptcy-5762231)
+    ![FDIC Chair to Step Down, Clearing the Way for Change Under Trump](https://img.theepochtimes.com/assets/uploads/2024/05/21/id5654124-Martin-Gruenberg-OP-205x123.jpg.webp)](https://www.theepochtimes.com/business/fdic-chair-to-step-down-clearing-the-way-for-change-under-trump-5762032)
+* [Trump Selects Dr. Oz to Run Centers for Medicare and Medicaid Services](https://www.theepochtimes.com/us/trump-names-dr-oz-to-lead-centers-for-medicare-and-medicaid-services-5762527)
     
-    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    NEW By [Jackson Richman](https://www.theepochtimes.com/author/jackson-richman)
     
-    [![Major US Health Network Files for Bankruptcy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Selects Dr. Oz to Run Centers for Medicare and Medicaid Services](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Major US Health Network Files for Bankruptcy](https://img.theepochtimes.com/assets/uploads/2024/07/04/id5680286-Bankruptcy-Court-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-us-health-network-files-for-bankruptcy-5762231)
-* [US Military Suicides Continued to Increase in 2023: Pentagon Report](https://www.theepochtimes.com/us/us-military-suicides-continued-to-increase-in-2023-pentagon-report-5760258)
+    ![Trump Selects Dr. Oz to Run Centers for Medicare and Medicaid Services](https://img.theepochtimes.com/assets/uploads/2022/10/26/Dr-Oz-GettyImages-1243945965-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-names-dr-oz-to-lead-centers-for-medicare-and-medicaid-services-5762527)
+* [Hidden in Plain Sight: How Everyday Items Fill Our Bodies With Microplastics](https://www.theepochtimes.com/health/hidden-in-plain-sight-how-everyday-items-fill-our-bodies-with-microplastics-5759666)
     
-    2hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    1hr By [Rachel Ann T. Melegrito](https://www.theepochtimes.com/author/rachel-ann-t-melegrito)
     
-    [![US Military Suicides Continued to Increase in 2023: Pentagon Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Hidden in Plain Sight: How Everyday Items Fill Our Bodies With Microplastics](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Military Suicides Continued to Increase in 2023: Pentagon Report](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758042-Vets-Day-6_JF_11112024-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-military-suicides-continued-to-increase-in-2023-pentagon-report-5760258)
-* [Ukraine Has Fired First US-Made ATACMS Missiles Inside Russia, Says Kremlin](https://www.theepochtimes.com/world/ukraine-has-fired-first-us-made-atacms-missiles-inside-russia-says-kremlin-5762239)
+    ![Hidden in Plain Sight: How Everyday Items Fill Our Bodies With Microplastics](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762458-shutterstock_1145466350_microplastic_plastic_nanoplastic_clothes_recycled_plastic-205x123.jpg.webp)](https://www.theepochtimes.com/health/hidden-in-plain-sight-how-everyday-items-fill-our-bodies-with-microplastics-5759666)
+* [Some Americans Say They Skipped Meals to Afford Housing Payment: Report](https://www.theepochtimes.com/us/some-americans-skipped-meals-to-afford-housing-payment-report-5762416)
     
-    2hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    1hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Ukraine Has Fired First US-Made ATACMS Missiles Inside Russia, Says Kremlin](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Some Americans Say They Skipped Meals to Afford Housing Payment: Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Ukraine Has Fired First US-Made ATACMS Missiles Inside Russia, Says Kremlin](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761575-GettyImages-824113280-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraine-has-fired-first-us-made-atacms-missiles-inside-russia-says-kremlin-5762239)
-* [Second Baltic Sea Cable Cut, Germany Suspects Sabotage](https://www.theepochtimes.com/world/second-baltic-sea-cable-cut-germany-suspects-sabotage-5762155)
+    ![Some Americans Say They Skipped Meals to Afford Housing Payment: Report](https://img.theepochtimes.com/assets/uploads/2024/04/07/id5623737-New-York-home-for-sale-GettyImages-1310155972-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/some-americans-skipped-meals-to-afford-housing-payment-report-5762416)
+* [CDC Issues Health Alert After More Aggressive Mpox Strain Found in US for 1st Time](https://www.theepochtimes.com/health/cdc-issues-health-alert-after-more-aggressive-mpox-strain-found-in-us-for-1st-time-5762412)
     
-    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![Second Baltic Sea Cable Cut, Germany Suspects Sabotage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![CDC Issues Health Alert After More Aggressive Mpox Strain Found in US for 1st Time](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Second Baltic Sea Cable Cut, Germany Suspects Sabotage](https://img.theepochtimes.com/assets/uploads/2024/05/09/id5647131-Boris-Pistorius-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/second-baltic-sea-cable-cut-germany-suspects-sabotage-5762155)
-* [After First-Term Reversal, Trump’s Election Revives Prospect of Syria Pullout](https://www.theepochtimes.com/world/after-first-term-reversal-trumps-election-revives-prospect-of-syria-pullout-5760520)
+    ![CDC Issues Health Alert After More Aggressive Mpox Strain Found in US for 1st Time](https://img.theepochtimes.com/assets/uploads/2024/11/id5760988-1.download-11-205x123.jpg.webp)](https://www.theepochtimes.com/health/cdc-issues-health-alert-after-more-aggressive-mpox-strain-found-in-us-for-1st-time-5762412)
+* [1 in 5 Americans Get Political News From Social Media Influencers: Pew Research](https://www.theepochtimes.com/us/1-in-5-americans-get-political-news-from-social-media-influencers-pew-research-5762331)
     
-    4hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![After First-Term Reversal, Trump’s Election Revives Prospect of Syria Pullout](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![1 in 5 Americans Get Political News From Social Media Influencers: Pew Research](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![After First-Term Reversal, Trump’s Election Revives Prospect of Syria Pullout](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732258-Syria-US-troops-GettyImages-1320354779-205x123.jpg.webp)](https://www.theepochtimes.com/world/after-first-term-reversal-trumps-election-revives-prospect-of-syria-pullout-5760520)
-* [Putin Signs New Doctrine Lowering Threshold for Russia Using Nuclear Weapons](https://www.theepochtimes.com/world/putin-signs-new-doctrine-lowering-threshold-for-russia-using-nuclear-weapons-5762150)
+    ![1 in 5 Americans Get Political News From Social Media Influencers: Pew Research](https://img.theepochtimes.com/assets/uploads/2024/09/10/id5721604-GettyImages-2081068958.jpg-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/1-in-5-americans-get-political-news-from-social-media-influencers-pew-research-5762331)
+* [Congress Indicates Bipartisan Support for Biden’s $100 Billion Disaster Relief Package](https://www.theepochtimes.com/us/congress-indicates-bipartisan-support-for-bidens-100-billion-disaster-relief-package-5762345)
     
-    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    2hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![Putin Signs New Doctrine Lowering Threshold for Russia Using Nuclear Weapons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Congress Indicates Bipartisan Support for Biden’s $100 Billion Disaster Relief Package](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Putin Signs New Doctrine Lowering Threshold for Russia Using Nuclear Weapons](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756562-1.download-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-signs-new-doctrine-lowering-threshold-for-russia-using-nuclear-weapons-5762150)
-* [State Laws Addressing Illegal Immigration in Limbo After Trump’s Reelection](https://www.theepochtimes.com/us/state-laws-addressing-illegal-immigration-in-limbo-after-trumps-reelection-5761778)
+    ![Congress Indicates Bipartisan Support for Biden’s $100 Billion Disaster Relief Package](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762551-11192024-DSC09797-House-Republicans-Mike-Johnson-Emmer-Scalise-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/congress-indicates-bipartisan-support-for-bidens-100-billion-disaster-relief-package-5762345)
+* [Homeland Security Deports 109 Chinese Illegal Immigrants on Charter Flight](https://www.theepochtimes.com/china/homeland-security-deports-109-chinese-illegal-immigrants-on-charter-flight-5762329)
     
-    5hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![State Laws Addressing Illegal Immigration in Limbo After Trump’s Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Homeland Security Deports 109 Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![State Laws Addressing Illegal Immigration in Limbo After Trump’s Reelection](https://img.theepochtimes.com/assets/uploads/2023/12/15/id5547853-GettyImages-1834230231_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/state-laws-addressing-illegal-immigration-in-limbo-after-trumps-reelection-5761778)
-* [The Challenges and Pathways for Trump to Reduce Federal Workers](https://www.theepochtimes.com/us/the-challenges-and-pathways-for-trump-to-remove-federal-workers-in-efficiency-drive-5761080)
+    ![Homeland Security Deports 109 Chinese Illegal Immigrants on Charter Flight](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762556-08122024-DSC00239-DHS-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/homeland-security-deports-109-chinese-illegal-immigrants-on-charter-flight-5762329)
+* [FEMA Chief: ‘No Evidence’ Senior Officials Ordered Discrimination Against Trump Supporters](https://www.theepochtimes.com/us/fema-chief-no-evidence-senior-officials-ordered-discrimination-against-trump-supporters-5762419)
     
-    5hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    2hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
     
-    [![The Challenges and Pathways for Trump to Reduce Federal Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![FEMA Chief: ‘No Evidence’ Senior Officials Ordered Discrimination Against Trump Supporters](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![The Challenges and Pathways for Trump to Reduce Federal Workers](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762225-GettyImages-2176986714-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/the-challenges-and-pathways-for-trump-to-remove-federal-workers-in-efficiency-drive-5761080)
-* [45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
+    ![FEMA Chief: ‘No Evidence’ Senior Officials Ordered Discrimination Against Trump Supporters](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762377-11192024-DSC09904-Deanne-Criswell-205x123.jpg.webp)](https://www.theepochtimes.com/us/fema-chief-no-evidence-senior-officials-ordered-discrimination-against-trump-supporters-5762419)
+* [Trump Selects Howard Lutnick as Commerce Secretary](https://www.theepochtimes.com/us/trump-selects-howard-lutnick-as-commerce-secretary-5762343)
     
-    13hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    2hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Selects Howard Lutnick as Commerce Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762223-HK-court-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
+    ![Trump Selects Howard Lutnick as Commerce Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762559-Howard-Lutnick-GettyImages-2171390481-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-howard-lutnick-as-commerce-secretary-5762343)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
