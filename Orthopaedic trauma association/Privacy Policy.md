@@ -66,6 +66,7 @@ Main navigation - header
         * [Health and Policy Advocacy](https://ota.org/careers-practice/practice/health-and-policy-advocacy)
         * [Disaster Management and Emergency Preparedness](https://ota.org/careers-practice/practice/disaster-management-and-emergency-preparedness)
     * [Connect](https://ota.org/careers-practice/connect)
+        * [OTA Playbook for Career Satisfaction/Combating Moral Injury and Burnout](https://ota.org/careers-practice/connect/ota-playbook-career-satisfactioncombating-moral-injury-and-burnout)
         * [Physician Wellness PSA](https://ota.org/careers-practice/connect/physician-wellness-psa)
         * [Moral Injury and Well-Being](https://ota.org/careers-practice/connect/moral-injury-and-well-being)
     * [Awards & Scholarships](https://ota.org/careers-practice/awards-scholarships)
