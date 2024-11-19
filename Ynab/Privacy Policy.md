@@ -1,4 +1,4 @@
-![](https://cdn.prod.website-files.com/67243c508406e5699a52fb1e/67243c518406e5699a52fbef_Tree%20Logo%20Blurple%20(2).svg)![](https://cdn.prod.website-files.com/67243c508406e5699a52fb1e/67243c518406e5699a52fbf0_flag%20(2).png)
+![YNAB tree logo](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/673caa3c748704384b0a3eea_Tree%20Logo%20Blurple%20(2).svg)![Australian flag](https://cdn.prod.website-files.com/640f69143ec11b21d42015c6/673caa3c748704384b0a3eec_flag%20(2).png)
 
 It looks like you're located in Australia.  
 We have an Australian version of our website.  
