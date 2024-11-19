@@ -16,20 +16,20 @@
 * [Switch skin](# "Switch skin")
 * [Search for](#)
 
-Monday, November 18 2024
+Tuesday, November 19 2024
 
 Latest
 
-* [Critical RCE bug in VMware vCenter Server now exploited in attacks](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
-* [The best sleep trackers and sleep tech for 2024](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
-* [Today’s Wordle Answer and Hints (November 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
-* [Can you use a VPN to get Twitter Blue/X Premium?](https://digitpatrox.com/can-you-use-a-vpn-to-get-twitter-blue-x-premium/)
-* [FOI requests show the vast majority of UK data center applications are approved](https://digitpatrox.com/foi-requests-show-the-vast-majority-of-uk-data-center-applications-are-approved/)
-* [Yes, There Is a TweetDeck for Bluesky](https://digitpatrox.com/yes-there-is-a-tweetdeck-for-bluesky/)
-* [Great Plains Regional Medical Center notifies 133K people of data breach that compromised SSNs and medical info](https://digitpatrox.com/great-plains-regional-medical-center-notifies-133k-people-of-data-breach-that-compromised-ssns-and-medical-info/)
-* [How to use Tiny11 ISO to install Windows 11](https://digitpatrox.com/how-to-use-tiny11-iso-to-install-windows-11/)
-* [Best Over-the-Counter Hearing Aids for You](https://digitpatrox.com/best-over-the-counter-hearing-aids-for-you/)
-* [Intel Isn’t Adding 3D V-Cache to Its Consumer CPUs Anytime Soon](https://digitpatrox.com/intel-isnt-adding-3d-v-cache-to-its-consumer-cpus-anytime-soon/)
+* [Brave on iOS adds new “Shred” button to wipe site-specific data](https://digitpatrox.com/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/)
+* [Best MacBook deals for November 2024](https://digitpatrox.com/best-macbook-deals-for-november-2024/)
+* [Get a Refurbished Apple Watch Ultra at Half the Launch Price During Black Friday](https://digitpatrox.com/get-a-refurbished-apple-watch-ultra-at-half-the-launch-price-during-black-friday/)
+* [How to watch Indian TV channels in the USA with a VPN](https://digitpatrox.com/how-to-watch-indian-tv-channels-in-the-usa-with-a-vpn/)
+* [The Pros and Cons of Apple Pay Later, Apple’s Buy Now, Pay Later Service](https://digitpatrox.com/the-pros-and-cons-of-apple-pay-later-apples-buy-now-pay-later-service/)
+* [Is TikTok Safe? Here’s what you need to know](https://digitpatrox.com/is-tiktok-safe-heres-what-you-need-to-know/)
+* [How to install Windows 11 without bloatware apps](https://digitpatrox.com/how-to-install-windows-11-without-bloatware-apps/)
+* [Best Steak Knives of 2024](https://digitpatrox.com/best-steak-knives-of-2024/)
+* [iCloud Backups Will Stop Working On Old iPhone Models](https://digitpatrox.com/icloud-backups-will-stop-working-on-old-iphone-models/)
+* [The answer to data center sustainability? Industry rallies around light-based networking systems](https://digitpatrox.com/the-answer-to-data-center-sustainability-industry-rallies-around-light-based-networking-systems/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://www.bleepstatic.com/content/hl-images/2024/11/18/VMware.jpg)](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
+* [![](https://www.bleepstatic.com/content/hl-images/2022/06/22/Brave.jpg)](https://digitpatrox.com/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/)
     
-    [Critical RCE bug in VMware vCenter Server now exploited in attacks](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
+    [Brave on iOS adds new “Shred” button to wipe site-specific data](https://digitpatrox.com/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/)
     
-    3 minutes ago
+    2 minutes ago
     
-* [![](https://cdn.vox-cdn.com/thumbor/MTpD8-VeiGljwXX2GIMjBaSOd-k=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23918681/VRG_Illo_226097_K_Radtke_sleep_buying_guide.jpg)](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
+* [![](https://cdn.vox-cdn.com/thumbor/qRf20L_QLWIQXuKENURNrDXHptk=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25718395/247372_MacBook_Pro_M4_ADiBenedetto_0034.jpg)](https://digitpatrox.com/best-macbook-deals-for-november-2024/)
     
-    [The best sleep trackers and sleep tech for 2024](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
+    [Best MacBook deals for November 2024](https://digitpatrox.com/best-macbook-deals-for-november-2024/)
     
-    20 minutes ago
+    19 minutes ago
     
-* [![](https://beebom.com/wp-content/uploads/2024/06/Todays-Wordle-Answer.jpg?w=1250&quality=75)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
+* [![](https://beebom.com/wp-content/uploads/2024/11/Apple-Watch-Ultra-black-friday-deal.jpg)](https://digitpatrox.com/get-a-refurbished-apple-watch-ultra-at-half-the-launch-price-during-black-friday/)
     
-    [Today’s Wordle Answer and Hints (November 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
+    [Get a Refurbished Apple Watch Ultra at Half the Launch Price During Black Friday](https://digitpatrox.com/get-a-refurbished-apple-watch-ultra-at-half-the-launch-price-during-black-friday/)
     
-    35 minutes ago
+    34 minutes ago
     
-* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Can-you-use-a-VPN-to-get-Twitter-Blue-X-Premium_.jpg)](https://digitpatrox.com/can-you-use-a-vpn-to-get-twitter-blue-x-premium/)
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/How-to-watch-Indian-TV-channels-in-the-USA.jpg)](https://digitpatrox.com/how-to-watch-indian-tv-channels-in-the-usa-with-a-vpn/)
     
-    [Can you use a VPN to get Twitter Blue/X Premium?](https://digitpatrox.com/can-you-use-a-vpn-to-get-twitter-blue-x-premium/)
-    
-    2 hours ago
-    
-* [![](https://cdn.mos.cms.futurecdn.net/gvZ5pRwHumEBEES28aLvkE-1200-80.jpg)](https://digitpatrox.com/foi-requests-show-the-vast-majority-of-uk-data-center-applications-are-approved/)
-    
-    [FOI requests show the vast majority of UK data center applications are approved](https://digitpatrox.com/foi-requests-show-the-vast-majority-of-uk-data-center-applications-are-approved/)
+    [How to watch Indian TV channels in the USA with a VPN](https://digitpatrox.com/how-to-watch-indian-tv-channels-in-the-usa-with-a-vpn/)
     
     2 hours ago
+    
+* [![](https://lifehacker.com/imagery/articles/01HF2H1A3B8G90G4086BFREJDZ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/the-pros-and-cons-of-apple-pay-later-apples-buy-now-pay-later-service/)
+    
+    [The Pros and Cons of Apple Pay Later, Apple’s Buy Now, Pay Later Service](https://digitpatrox.com/the-pros-and-cons-of-apple-pay-later-apples-buy-now-pay-later-service/)
+    
+    3 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,51 +208,51 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [3 minutes ago
+* [2 minutes ago
     
-    ### Critical RCE bug in VMware vCenter Server now exploited in attacks](https://digitpatrox.com/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
-* [20 minutes ago
+    ### Brave on iOS adds new “Shred” button to wipe site-specific data](https://digitpatrox.com/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/)
+* [19 minutes ago
     
-    ### The best sleep trackers and sleep tech for 2024](https://digitpatrox.com/the-best-sleep-trackers-and-sleep-tech-for-2024/)
-* [35 minutes ago
+    ### Best MacBook deals for November 2024](https://digitpatrox.com/best-macbook-deals-for-november-2024/)
+* [34 minutes ago
     
-    ### Today’s Wordle Answer and Hints (November 19, 2024)](https://digitpatrox.com/todays-wordle-answer-and-hints-november-19-2024/)
+    ### Get a Refurbished Apple Watch Ultra at Half the Launch Price During Black Friday](https://digitpatrox.com/get-a-refurbished-apple-watch-ultra-at-half-the-launch-price-during-black-friday/)
 
 Most Popular Topics
 
-* [September 6, 2024
+* [August 13, 2024
     
-    ### UK Regulator Deems Microsoft and Inflection AI’s Partnership a Merger, But Clears It Of Competition Concerns](https://digitpatrox.com/uk-regulator-deems-microsoft-and-inflection-ais-partnership-a-merger-but-clears-it-of-competition-concerns/)
-* [October 2, 2024
+    ### NYT Connections Today: Hints and Answers for August 13, 2024](https://digitpatrox.com/nyt-connections-today-hints-and-answers-for-august-13-2024/)
+* [3 weeks ago
     
-    ### The future of data center sustainability? New architectures could slash energy consumption, lower carbon emissions, and drive cost savings](https://digitpatrox.com/the-future-of-data-center-sustainability-new-architectures-could-slash-energy-consumption-lower-carbon-emissions-and-drive-cost-savings/)
+    ### The world’s smallest, powerful AI PC? It’s a Mac mini – Computerworld](https://digitpatrox.com/the-worlds-smallest-powerful-ai-pc-its-a-mac-mini-computerworld/)
 * [4 weeks ago
     
-    ### How to Capture Your Screen in Linux with OBS Studio](https://digitpatrox.com/how-to-capture-your-screen-in-linux-with-obs-studio/)
+    ### Runway just changed filmmaking forever — Act-1 lets you control AI characters](https://digitpatrox.com/runway-just-changed-filmmaking-forever-act-1-lets-you-control-ai-characters/)
 
 Last Modified Topics
 
 * [3 hours ago
     
-    ### Great Plains Regional Medical Center notifies 133K people of data breach that compromised SSNs and medical info](https://digitpatrox.com/great-plains-regional-medical-center-notifies-133k-people-of-data-breach-that-compromised-ssns-and-medical-info/)
+    ### How to install Windows 11 without bloatware apps](https://digitpatrox.com/how-to-install-windows-11-without-bloatware-apps/)
 * [3 hours ago
     
-    ### How to use Tiny11 ISO to install Windows 11](https://digitpatrox.com/how-to-use-tiny11-iso-to-install-windows-11/)
+    ### Best Steak Knives of 2024](https://digitpatrox.com/best-steak-knives-of-2024/)
 * [3 hours ago
     
-    ### Best Over-the-Counter Hearing Aids for You](https://digitpatrox.com/best-over-the-counter-hearing-aids-for-you/)
+    ### iCloud Backups Will Stop Working On Old iPhone Models](https://digitpatrox.com/icloud-backups-will-stop-working-on-old-iphone-models/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
+* [August 12, 2024
+    
+    ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
-* [August 12, 2024
-    
-    ### Texas Board of Physical Therapy Examiners breached, SSNs and other info compromised](https://digitpatrox.com/texas-board-of-physical-therapy-examiners-breached-ssns-and-other-info-compromised/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 
 © Copyright 2018 - 2024, All Rights Reserved
 
