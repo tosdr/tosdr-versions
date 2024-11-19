@@ -849,7 +849,7 @@ Browse
         * [25% off Maplin Batteries](https://www.maplin.co.uk/collections/maplin-batteries-deals)
         * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
         * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
-        * [Up to 50% off Security Tech](https://www.maplin.co.uk/collections/security-deals)
+        * [Up to £50 off Security Tech](https://www.maplin.co.uk/collections/security-deals)
         
     * Other Deals
         
@@ -1676,7 +1676,7 @@ Browse
     * [25% off Maplin Batteries](https://www.maplin.co.uk/collections/maplin-batteries-deals)
     * [Extra 5% off Maplin Tech Kits](https://www.maplin.co.uk/collections/tech-kits)
     * [15% off Kids' Ride On Toys](https://www.maplin.co.uk/collections/kids-ride-on-toys-deals)
-    * [Up to 50% off Security Tech](https://www.maplin.co.uk/collections/security-deals)
+    * [Up to £50 off Security Tech](https://www.maplin.co.uk/collections/security-deals)
     
     [Other Deals](https://www.maplin.co.uk/collections/deals)
     
