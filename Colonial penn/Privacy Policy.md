@@ -40,9 +40,9 @@
     * [Service](#) ![downArrow](/o/cptheme/images/BlackDown.svg)
         
         * [Manage my Policy![right arrow](/o/cptheme/images/Black.svg)](https://colonialpenn.com/service-support/manage-policy)
-        * [File a Claim](https://www.mycolonialpenn.com/customerservice/claims-faqs/)
-        * [Make a Payment](https://www.mycolonialpenn.com/customerservice/pay-your-bill/)
-        * [Update Beneficiary](https://www.mycolonialpenn.com/customerservice/download-forms/)
+        * [File a Claim](https://my.colonialpenn.com/FAQs)
+        * [Make a Payment](https://my.colonialpenn.com/Payment-Center)
+        * [Update Beneficiary](https://my.colonialpenn.com/Get-a-Form)
         * [Support](#) [Contact Us![right arrow](/o/cptheme/images/Black.svg)](https://colonialpenn.com/service-support/contact-us)
             
     * [Support](#) ![downArrow](/o/cptheme/images/BlackDown.svg)
@@ -52,11 +52,11 @@
         
         * Keep track of your policies through your personalized account.
             
-            [Log in](https://www.mycolonialpenn.com/)
+            [Log in](https://my.colonialpenn.com/)
             
             Don’t have an account yet?
             
-            [Register now](https://www.mycolonialpenn.com/register)
+            [Register now](https://ecsso.mycno.com/cpl/public/register)
             
     * Sales
         
@@ -136,9 +136,9 @@ Monday - Friday:
 
 8:30 AM - 5:30 PM ET
 
-[File a claim](https://www.mycolonialpenn.com/customerservice/claims-faqs/)
+[File a claim](https://my.colonialpenn.com/FAQs)
 
-[Make a Payment](https://www.mycolonialpenn.com/customerservice/pay-your-bill/)
+[Make a Payment](https://my.colonialpenn.com/Payment-Center)
 
 Life Insurance
 
