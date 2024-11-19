@@ -176,6 +176,10 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 
 ### See also
 
+[![Chris Cantrill](https://cdn.comedy.co.uk/images/library/people/300x200/c/chris_cantrill_easily_swayed_b.jpg "Chris Cantrill")](https://www.comedy.co.uk/live/random8/chris-cantrill/) Live
+
+[Random 8: Chris Cantrill](https://www.comedy.co.uk/live/random8/chris-cantrill/)
+
 [![Neil Innes](https://cdn.comedy.co.uk/images/library/people/300x200/n/neil_innes_album_cover.jpg "Neil Innes")](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/) Features
 
 [Comedy Chronicles: Do I have to spell it out? Neil Innes own right](https://www.comedy.co.uk/features/comedy_chronicles/neil-innes/)
@@ -187,10 +191,6 @@ See also: [BCG's privacy policy](https://www.comedy.co.uk/info/privacy/)
 [![Image shows left to right: Adam Drake, Kath Hughes, Edward Easton, Tarot. Credit: Matt Stronge](https://cdn.comedy.co.uk/images/library/misc/300x200/t/tarot_2024.jpg "Image shows left to right: Adam Drake, Kath Hughes, Edward Easton, Tarot. Credit: Matt Stronge")](https://www.comedy.co.uk/live/features/tarot-doing-sketch-in-your-30s/) Live
 
 [Tarot present: The beginner's guide to doing sketch in your 30s](https://www.comedy.co.uk/live/features/tarot-doing-sketch-in-your-30s/)
-
-[![Sorry, I Didn't Know. Chizzy Akudolu](https://cdn.comedy.co.uk/images/library/people/300x200/c/chizzy_akudolu_sidk.jpg "Sorry, I Didn't Know. Chizzy Akudolu")](https://www.comedy.co.uk/tv/sorry_i_didnt_know/interview/chizzy-akudolu/) TV
-
-[Chizzy Akudolu introduces Series 5 of 'Sorry, I Didn't Know'](https://www.comedy.co.uk/tv/sorry_i_didnt_know/interview/chizzy-akudolu/)
 
 #### Subscribe to our newsletters
 
