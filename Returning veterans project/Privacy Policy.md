@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Steven Edmondson](https://cdn.returningveterans.org/images/honor/Pamela_Blatter.jpg)  
+![Theresa Kelsay](https://cdn.returningveterans.org/images/honor/6_T_Kelsay_Navy.png)  
 
-**In Memory of Steven Edmondson**  
-United States Army  
-Submitted by Pamela Blatter](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Theresa Kelsay**  
+United States Navy  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/18/24 - 7:21:10  
+Printed 11/19/24 - 1:20:29  
 © 2024 Returning Veterans Project
