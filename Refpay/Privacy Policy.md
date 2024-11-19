@@ -146,9 +146,9 @@ Email: [support@arbitersports.com](mailto:support@arbitersports.com)
 
 Telephone: 800-311-4060
 
-Effective Date March 4, 2021
+Effective Date March 4, 2024
 
-Copyright © 2021 ArbiterSports, LLC. All rights reserved.
+Copyright © 2024 ArbiterSports, LLC. All rights reserved.
 
 [Arbiter Sports](https://www.arbitersports.com/)
 
