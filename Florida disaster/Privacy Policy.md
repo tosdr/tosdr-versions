@@ -23,7 +23,7 @@ Search
     * [Executive Director's Office](https://www.floridadisaster.org/dem/Executive-directors-office/)
         * [Meet The Executive Director](https://www.floridadisaster.org/dem/Executive-directors-office/FDEMdirector/)
         * [Media](https://www.floridadisaster.org/dem/Executive-directors-office/media/)
-        * [Inspector General](https://www.floridadisaster.org/dem/Executive-directors-office/inspector-general/)
+        * [Office of the Inspector General](https://www.floridadisaster.org/dem/Executive-directors-office/inspector-general/)
         * [Legal](https://www.floridadisaster.org/dem/Executive-directors-office/legal/)
             * [Emergency Orders](https://www.floridadisaster.org/dem/Executive-directors-office/legal/emergency-orders/)
             * [Open Government](https://www.floridadisaster.org/dem/Executive-directors-office/legal/open-government/)
@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Monday, November 18, 2024**
+**Tuesday, November 19, 2024**
 
-**...High Pressure to Bring Pleasant Conditions Across the Sunshine State...Brief Isolated Showers Possible Along Panhandle This Afternoon...Breezy Wind Gusts to Develop Along Western Panhandle and South Florida...Temperatures Still Above Normal For This Time of Year...Mostly Dry Conditions to Continue Overnight Nearly Statewide...Increasing Moisture Ahead of Approaching Cold Front to Bring Scattered Showers Overnight or Early Tuesday Morning Along Western Panhandle...High Risk for Rip Currents Returns to Panhandle; Moderate Risk for East Coast...King Tides Linger Along East Coast and Keys Creating instances of Minor Coastal Flooding; Onshore Winds and Elevated Surf to Bring Minor Coastal Flooding for Far Western Panhandle...Minor to Moderate Riverine Flooding Continues for Withlacoochee and St. Johns...Sara Has Degenerated Into Remnants and an Upper-Level Disturbance...**
+**...Active Weather Returns Across the Florida Panhandle and Big Bend...Scattered Showers and Thunderstorms to Move Eastward With Associated Cold Front...Isolated Strong to Severe Thunderstorms Possible Along Western Panhandle; Lightning, Damaging Wind Gusts, Isolated Tornado or Two and Heavy Rainfall...Localized Flash Flooding Possible Across Panhandle With Intense Rainfall Rates...Breezy Conditions Outside of Thunderstorm Activity...Rainfall Spreading Eastward into Nature Coast and Northern Penisula Overnight...Breezy Onshore Winds and Elevated Surf to Create Instances of Minor Coastal Flooding Along Panhandle and Big Bend; Lingering Instances of Coastal Flooding Along St. Johns River and Keys...Minor to Moderate Riverine Flooding for St. Johns and Withlacoochee Rivers Continue...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
