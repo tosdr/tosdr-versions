@@ -247,11 +247,11 @@ Main navigation
             
         * Featured stories
             
-            * [Burberry](https://www.usertesting.com/resources/customers/deezer-usertesting)
+            * [Burberry](https://www.usertesting.com/resources/customers/burberry)
                 
-            * [Costa Coffee](https://www.usertesting.com/resources/customers/subway)
+            * [Costa Coffee](https://www.usertesting.com/resources/customers/costa-coffee-usertesting)
                 
-            * [Panera Bread](https://www.usertesting.com/resources/customers/amazon-seller-central)
+            * [Panera Bread](https://www.usertesting.com/resources/customers/panera-bread-usertesting)
                 
             
         * For Our Customers
