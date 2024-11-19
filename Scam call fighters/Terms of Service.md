@@ -374,34 +374,18 @@ x
 
 ![](/themes/colatv/assets/image/svg/icon-scroll-top.svg)    
 
-#### A PHP Error was encountered
+[![live](https://megalive.vip/live/assets/image/Live.png)
 
-Severity: Warning
+  
+TRỰC TIẾP](#)[![hot](https://megalive.vip/live/assets/image/Hot.png)
 
-Message: file\_get\_contents(https://colatvapi.com/video/stickytool/?theme=colatv): failed to open stream: HTTP request failed! HTTP/1.1 522
+  
+TRẬN HOT](#)[![today](https://megalive.vip/live/assets/image/Today.png)
 
-Filename: views/themes.php
+  
+HÔM NAY](#)[![tormorrow](https://megalive.vip/live/assets/image/tormorrow.png)
 
-Line Number: 176
+  
+NGÀY MAI](#)
 
-Backtrace:
-
-File: /var/www/html/frontend/themes/colatv/views/themes.php  
-Line: 176  
-Function: file\_get\_contents
-
-File: /var/www/html/frontend/themes/colatv/controllers/Main\_controller.php  
-Line: 28  
-Function: view
-
-File: /var/www/html/frontend/themes/colatv/controllers/Home.php  
-Line: 46  
-Function: assignv2
-
-File: /var/www/html/frontend/sources/index.php  
-Line: 300  
-Function: require\_once
-
-File: /var/www/html/frontend/index.php  
-Line: 276  
-Function: require\_once
+❰ quay lại
