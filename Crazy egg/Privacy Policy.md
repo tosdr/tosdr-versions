@@ -47,8 +47,7 @@
     * [Terms of Use](https://www.crazyegg.com/terms)
     * [Privacy](https://www.crazyegg.com/privacy)
     
-* Contact  
-    Sales
+* Contact Sales
 * [Sign Up](https://www.crazyegg.com/signup)
 * [Log In](https://auth.app.crazyegg.com/login) 
 
