@@ -8,7 +8,7 @@ Téléchargez l'application OUIGO ! 
 
 [![Accueil](themes/custom/ouigo/logo.svg)](https://www.ouigo.com/ "Accueil")
 
-  [![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x.png) ![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x_1.png) Mes réservations Mes réservations](https://ventes.ouigo.com/fr-FR/after-sale/connection)
+  [![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x.png) ![MY RESERVATIONS](https://cdn-fr.ouigo.com/edito-p-v3-assets/file/atom-assets-icon-48-px-48-ticket%403x_1.png) Mes voyages Mes voyages](https://ventes.ouigo.com/fr-FR/after-sale/connection)
 
 [ME CONNECTER ME CONNECTER](https://ventes.ouigo.com/fr-FR/login-compte-client-ouigo)
 
