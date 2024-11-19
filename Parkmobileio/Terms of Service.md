@@ -262,7 +262,7 @@ Terms of Use
 
 Choose Your Language
 
-[![](https://parkmobile.io/wp-content/uploads/2023/06/footer-logo.svg)](https://parkmobile.io/)
+[![Commutifi](https://parkmobile.io/wp-content/uploads/2023/06/footer-logo.svg)](https://parkmobile.io/)
 
 * [](https://www.facebook.com/parkmobile)
 * [](http://twitter.com/parkmobile)
