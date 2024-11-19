@@ -96,9 +96,9 @@ Choose Your Destination: Algeria Antigua & Barbuda Argentina Australia Austria B
 * [Real Estate Listings](https://www.expatexchange.com/realestate "Real Estate International")
 * [More Resources](https://www.expatexchange.com/expatresources "More Resources")
 
-[![William Russell](https://www.expatexchange.com/banner/william-russell-728.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=47443-DESKTOP-leader-leaderad-vrs-A-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-ldr2.jpg)](https://www.expatexchange.com/partnerdirect/182/83538-DESKTOP-leader-leaderad-vrs-B-Global-leader)
 
-[![William Russell](https://www.expatexchange.com/banner/william-russell-300.jpg)](https://refer.william-russell.com/l/ExpatExchang?utm_source=c97b6b9f-d9df-eb11-bacb-000d3abeeeb5&utm_medium=affiliate&utm_term=introducer-expat-exchange&utm_campaign=5e6a0875-d9df-eb11-bacb-000d3abeeeb5&utm_content=47443-MOBILE-leader-leaderad-vrs-A-Global-leader)
+[![SJB Global](https://www.expatexchange.com/banner/SJB-GlobalSJB-Global-Financial-Planning-for-Expats-mpu-2.jpg)](https://www.expatexchange.com/partnerdirect/182/83538-MOBILE-leader-leaderad-vrs-B-Global-leader)
 
 Privacy Policy
 ==============
@@ -439,17 +439,17 @@ Based on the applicable laws of your country, you may have the right to request 
 
 This privacy policy was created using Termly's [Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/).
 
-[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/34825-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[![Cigna Global Health](https://www.expatexchange.com/images/living_in_london_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=23997-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-[GeoBlue](https://www.expatexchange.com/partnerdirect/76/34825-DESKTOP-cbar-vrs-B-hicontent-Global-62)
+[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=23997-DESKTOP-cbar-vrs-B-hicontent-Global-62)
 
-Top-quality coverage for people who live, work, study and travel internationally.  
-[Get Quote](https://www.expatexchange.com/partnerdirect/76/34825-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Get a quote in 2 minutes from our partner, Cigna Global Health.  
+[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=23997-DESKTOP-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
-[![GeoBlue](https://www.expatexchange.com/images/GeoBlueCouple200-200.jpg)](https://www.expatexchange.com/partnerdirect/76/34825-MOBILE-cbar-vrs-B-hicontent-Global-62)[GeoBlue](https://www.expatexchange.com/partnerdirect/76/34825-MOBILE-cbar-vrs-B-hicontent-Global-62)
+[![Cigna Global Health](https://www.expatexchange.com/images/living_in_london_fb.jpg)](https://cignaglobal.7eer.net/em76Z?sharedid=23997-MOBILE-cbar-vrs-B-hicontent-Global-62)[Cigna Global Health](https://cignaglobal.7eer.net/em76Z?sharedid=23997-MOBILE-cbar-vrs-B-hicontent-Global-62)
 
-Top-quality coverage for people who live, work, study and travel internationally.  
-[Get Quote](https://www.expatexchange.com/partnerdirect/76/34825-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
+Get a quote in 2 minutes from our partner, Cigna Global Health.  
+[Get Quote](https://cignaglobal.7eer.net/em76Z?sharedid=23997-MOBILE-cbar-vrs-B-hicontent-Global-62 "Get Quote")
 
 How do I use Expat Exchange?  
 You'll gain access to the best information and features when you [join our site](https://www.expatexchange.com/jointhecommunity "Join Expat Exchange") (it's free). Then, choose your destination and you'll find many of these features for your country:  
