@@ -196,57 +196,59 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> One of the best decisions I've made for my business
-> ---------------------------------------------------
+> Enjoying Invoices Online
+> ------------------------
 > 
-> I've been searching for a reliable, easy-to-use, online invoicing system for my small business. After investigating various options, I came across InvoicesOnline and was pleasantly surprised to learn that it is a South African product. I decided to give it a try which turned out to be one of the best decisions I made for my business! It is user-friendly, reliable and saves me tons of time, time that I can now focus on growing my business. Their technical support is always just a phonecall or email away and I have piece of mind knowing that my accounting docs are safe and available when I need them.
+> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
+> 
+> I have upgraded to the Gold account in order to support you guys!
 
-Anri van der Linde
+Shaun Gartshore
 
-![valued client AFS Electrical](https://www.invoicesonline.co.za/scripts/image.php?bid=3660&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=201099960)  
-AFS Electrical
+![valued client Imvubu General Trading](https://www.invoicesonline.co.za/scripts/image.php?bid=299&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=196165341)  
+Imvubu General Trading
 
-![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=23309231)  
-Roamfree Boerdery (PTY) LTD
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=121953155)  
+Website Café (PTY) LTD
 
-![valued client Bloem Rugby Academy PTY (Ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=6451&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=45525293)  
-Bloem Rugby Academy PTY (Ltd)
+![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=110222454)  
+Fox Alarms & Security
 
-![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=120166374)  
+![valued client Itroniq (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8072&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=180823454)  
+Itroniq (Pty) Ltd
+
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=104048744)  
+Wiselink Broadband Pty Ltd
+
+![valued client Oak Tree Immigration](https://www.invoicesonline.co.za/scripts/image.php?bid=6695&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=98729971)  
+Oak Tree Immigration
+
+![valued client United Paintball Federation](https://www.invoicesonline.co.za/scripts/image.php?bid=7016&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=109062075)  
+United Paintball Federation
+
+![valued client Oukraal Merino's](https://www.invoicesonline.co.za/scripts/image.php?bid=3971&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=45106500)  
+Oukraal Merino's
+
+![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=176555648)  
+Camp 4 Africa (Pty) Ltd
+
+![valued client MSPCloud (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4645&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=139794544)  
 MSPCloud (Pty) Ltd
 
-![valued client VerdanTech Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5389&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=92791769)  
-VerdanTech Pty Ltd
+![valued client Salvage Genie](https://www.invoicesonline.co.za/scripts/image.php?bid=5867&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=37702064)  
+Salvage Genie
 
-![valued client On The Spot Marketing (Pty) Ltd t/a 24hrprinting](https://www.invoicesonline.co.za/scripts/image.php?bid=7555&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=76896461)  
-On The Spot Marketing (Pty) Ltd t/a 24hrprinting
+![valued client Blue Bulls Rugby Coaches Association](https://www.invoicesonline.co.za/scripts/image.php?bid=8461&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=152173668)  
+Blue Bulls Rugby Coaches Association
 
-![valued client Cooper Power](https://www.invoicesonline.co.za/scripts/image.php?bid=8689&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=130176292)  
-Cooper Power
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=105866215)  
+BEE SURE CONSULTING (PTY) LTD
 
-![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=3786029)  
-Highlands Auto Engineering
+![valued client FJW Security Cc](https://www.invoicesonline.co.za/scripts/image.php?bid=1343&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=70409107)  
+FJW Security Cc
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=45777138)  
-Tiny Cuddles Photography
-
-![valued client Multi CNC Solutions CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4422&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=28489438)  
-Multi CNC Solutions CC
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (29/31/33)](https://www.invoicesonline.co.za/scripts/image.php?bid=7265&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=126145258)  
-VIV'S TRUCKS (Pty) Ltd. (29/31/33)
-
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=156047824)  
-VIV'S TRUCKS (Pty) Ltd. (651)
-
-![valued client Know Informatics](https://www.invoicesonline.co.za/scripts/image.php?bid=6598&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=69520230)  
-Know Informatics
-
-![valued client NEW BEGINNINGS DESIGNS](https://www.invoicesonline.co.za/scripts/image.php?bid=8177&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=156985754)  
-NEW BEGINNINGS DESIGNS
-
-![valued client West Coast Horse Trails](https://www.invoicesonline.co.za/scripts/image.php?bid=7984&file=logo_300_100&type=&fe=e046d6be200b4a469d5203224ad5a62f41a4dee96747e3fe7b87f800068a5361&c=106994687)  
-West Coast Horse Trails
+![valued client Creative Characters](https://www.invoicesonline.co.za/scripts/image.php?bid=6877&file=logo_300_100&type=&fe=15a94c65d41a9d4498d412bcbd895550e74fc48b6ed0b85f4fd4b263a1301335&c=158443199)  
+Creative Characters
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
