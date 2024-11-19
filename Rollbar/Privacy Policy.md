@@ -347,7 +347,7 @@ Feature Reference
 * [Usage](https://docs.rollbar.com/docs/usage)
 * [More Integrations](https://docs.rollbar.com/docs/other-integrations)
     * [DevCycle](https://docs.rollbar.com/docs/devcycle)
-    * [GrowthBook](https://docs.rollbar.com/docs/devcycle-copy)
+    * [GrowthBook](https://docs.rollbar.com/docs/growthbook)
     * [Bird Eats Bug](https://docs.rollbar.com/docs/bird-eats-bug)
     * [DataGrail](https://docs.rollbar.com/docs/datagrail)
     * [Fivetran](https://fivetran.com/docs/applications/rollbar)
