@@ -18,7 +18,7 @@
     
 * [Our Impact](https://www.internetsociety.org/our-impact/)
     
-    * [Action Plan 2024](https://www.internetsociety.org/action-plan/2024/)
+    * [2025 Action Plan](https://www.internetsociety.org/action-plan/2025/)
     
 * [Get Involved](https://www.internetsociety.org/get-involved/)
     
@@ -124,7 +124,7 @@ Corporate links navigation
 * [Privacy Notice](https://www.internetsociety.org/privacy-policy/)  |  
 * [Terms of Use](https://www.internetsociety.org/terms-of-use/)  |  
 * [Legal](https://www.internetsociety.org/legal/)  |  
-* [Financials](https://www.internetsociety.org/about-internet-society/organization-reports/#financial-reports)  |  
+* [Annual Reports and Financials](https://www.internetsociety.org/about-internet-society/organization-reports/)  |  
 * [Contact Us](https://www.internetsociety.org/contact-us/)  |  
 * [Careers](https://www.internetsociety.org/careers/)  |  
 * [Follow Us](https://www.internetsociety.org/follow-us/)  |  
