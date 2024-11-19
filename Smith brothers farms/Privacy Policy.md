@@ -198,8 +198,6 @@ Hi
         
     * [Thanksgiving Essentials (28)](https://www.smithbrothersfarms.com/thanksgiving-essentials)
         
-    * [Holiday Essentials (6)](https://www.smithbrothersfarms.com/holiday-goodies)
-        
     * [Milk & Cream (55)](https://www.smithbrothersfarms.com/milk-cream)
         
         * BACK
@@ -226,14 +224,14 @@ Hi
         * [Whipping Cream (5)](https://www.smithbrothersfarms.com/whipping-cream)
             
         
-    * [Yogurt (73)](https://www.smithbrothersfarms.com/yogurt)
+    * [Yogurt (72)](https://www.smithbrothersfarms.com/yogurt)
         
         * BACK
         * [Kefir (2)](https://www.smithbrothersfarms.com/kefir)
             
         * [Greek Yogurt (51)](https://www.smithbrothersfarms.com/greek)
             
-        * [Traditional Yogurt (20)](https://www.smithbrothersfarms.com/traditional)
+        * [Traditional Yogurt (19)](https://www.smithbrothersfarms.com/traditional)
             
         
     * [Eggs & Butter (10)](https://www.smithbrothersfarms.com/eggs-butter)
