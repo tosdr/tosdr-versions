@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://cdn.er.ru/media/news/November2024/0DISVQeKP05wNK5lFLVV-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
+
+[«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
+
+[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#поддержкасемеймобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093582)
+
+Сегодня 09:30
+
 [![«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://cdn.er.ru/media/news/November2024/43wb9FLmyrb24cl91tbv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
 
 [«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
@@ -336,14 +344,6 @@
 [Владимир Якушев отметил практики партстроительства и реализации народной программы «Единой России» в Башкирии](https://er.ru/activity/news/vladimir-yakushev-otmetil-praktiki-partstroitelstva-i-realizacii-narodnoj-programmy-edinoj-rossii-v-bashkirii)
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=140172) [#региональнаяконференция](https://er.ru/activity/news?tags%5B0%5D=109190) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
-
-16.11.24
-
-[![Юрий Станкевич: Участники симпозиума стран БРИКС и Европы продемонстрировали осознанность в диалоге с Россией](https://cdn.er.ru/media/news/November2024/xuoGO9YDq5HUzDMzxuJo-small.JPG)](https://er.ru/activity/news/yurij-stankevich-uchastniki-simpoziuma-stran-briks-i-evropy-prodemonstrirovali-osoznannost-v-dialoge-s-rossiej)
-
-[Юрий Станкевич: Участники симпозиума стран БРИКС и Европы продемонстрировали осознанность в диалоге с Россией](https://er.ru/activity/news/yurij-stankevich-uchastniki-simpoziuma-stran-briks-i-evropy-prodemonstrirovali-osoznannost-v-dialoge-s-rossiej)
-
-[#Станкевич](https://er.ru/activity/news?tags%5B0%5D=30771) [#БРИКС](https://er.ru/activity/news?tags%5B0%5D=6866) [#международныеотношения](https://er.ru/activity/news?tags%5B0%5D=130522) [#сотрудничество](https://er.ru/activity/news?tags%5B0%5D=265) [#симпозиум](https://er.ru/activity/news?tags%5B0%5D=18350) [#Европа](https://er.ru/activity/news?tags%5B0%5D=99)
 
 16.11.24
 
