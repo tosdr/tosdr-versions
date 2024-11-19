@@ -2,9 +2,9 @@
 
 [](https://www.twitch.tv/talkpointgmbh)
 
-Wir sind LIVE 💙 ab 11 Uhr - einschalten lohnt sich! #preisvergleich #twitch
+Aufgrund eines Feiertags ist unsere Hotline heute leider nicht erreichbar.
 
-Wir sind LIVE 💙 ab 11 Uhr - einschalten lohnt sich! #preisvergleich #twitch
+Aufgrund eines Feiertags ist unsere Hotline heute leider nicht erreichbar.
 
 Menü
 
@@ -670,7 +670,7 @@ Kontakt
 
 **Servicehotline:**
 
-Sie haben Fragen? Rufen Sie uns an!
+Du hast Fragen? Ruf uns an!
 
 **+49 (0) 3423 70 998 100**
 
