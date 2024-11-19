@@ -58,6 +58,8 @@
 Privacy Policy
 ==============
 
+This Privacy Policy will be updated on January 16, 2025. Please review the upcoming changes [here](https://stripe.com/privacy/preview).
+
 #### Last updated: January 16, 2024
 
 This Privacy Policy includes important information about your personal data and we encourage you to read it carefully.
