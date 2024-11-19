@@ -10,11 +10,11 @@
     
 * [Enterprise](https://www.smartcat.com/enterprise/)
 * [Pricing](https://www.smartcat.com/pricing/)
-* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_6252139&lang=en)
-* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_6252139&lang=en)
+* [Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&tmp=true&land=us_6264492&lang=en)
+* [Sign in](https://smartcat.com/sign-in?tmp=true&land=us_6264492&lang=en)
 * [en](#)
 
-[en](#)[Sign in](https://smartcat.com/sign-in?land=us_6252139&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_6252139&lang=en)
+[en](#)[Sign in](https://smartcat.com/sign-in?land=us_6264492&lang=en)[Get Started Free](https://smartcat.com/sign-up?main_nav=get-started-free&land=us_6264492&lang=en)
 
 Smartcat legal
 
@@ -83,7 +83,7 @@ For the purposes of this Agreement, the “Customer” means a User of the Platf
 
 1.5 **Customer Materials**  - Content uploaded by the Customer to the Platform. Any content uploaded by the Customer to the Platform is herein referred to as the “Customer Materials”.
 
-1.6 **Platform Terms of Service.** The Customer’s use of the Platform in connection with receipt of the Services shall be governed by this Agreement as well as the TOS. This Agreement and the Annexes will prevail to the extent of any inconsistency with the TOS.
+1.6 **Platform Terms of Service.** The Customer’s use of the Platform in connection with receipt of the Services shall be governed by this Agreement as well as the TOS. This Agreement and the Order Forms will prevail to the extent of any inconsistency with the TOS.
 
 1.8. **Subcontractors** - freelancers registered on the Platform to perform the Translation Services under this Agreement and available on Smartcat marketplace bound by confidentiality obligations. 
 
@@ -137,7 +137,7 @@ For the purposes of this Agreement, the “Customer” means a User of the Platf
 
 3.1.1 Payment for the Subscription Services can be made via the Platform or based on the invoice.
 
-3.1.2 Regardless of payment frequency for the Subscription Services specified in the Annexes, the Customer will be required to pay for the full Service Period specified in the Annexes.
+3.1.2 Regardless of payment frequency for the Subscription Services specified in the Order Forms, the Customer will be required to pay for the full Service Period specified in the Order Forms.
 
 3.1.3 Customer agrees to pay the fees for the Translation Services as set forth in one or more Service Tasks. Payment for the Translation Services shall be carried out as in one of the following ways:
 
