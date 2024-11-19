@@ -116,6 +116,10 @@ Email: info@contentspotlight.org
 
 Phone: +91-9831405832
 
+Type your email… 
+
+        Subscribe
+
 Important Links
 ---------------
 
