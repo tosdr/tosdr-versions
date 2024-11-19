@@ -126,7 +126,7 @@ If you have any questions about this Agreement, please contact us at the address
 Address
 -------
 
-Isomorphic Labs Limited, is a company organised under the laws of England and Wales (13223825), with registered office at 100 New Bridge Street, London, EC4V 6JA.
+Isomorphic Labs Limited, is a company organised under the laws of England and Wales (13223825), with registered office at 280 Bishopsgate, London, EC2M 4RB, United Kingdom.
 
 0
 
