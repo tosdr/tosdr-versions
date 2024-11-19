@@ -10,14 +10,23 @@ Menu
 
 ![](/_next/static/media/PropertyPalLogo.b096cb16.svg)](https://content.propertypal.com/)
 
-PropertyPal & Propertynews Announce Merger
-------------------------------------------
+Stamp Duty Change Announced
+---------------------------
 
-[### PropertyPal & Propertynews Announce Merger
+[### Stamp Duty Change Announced
 
-PropertyPal and Propertynews merge to enhance home search and agent advertising in Northern Ireland, combining expertise and driving innovation.
+In the latest Budget, Chancellor Rachel Reeves revealed an increase in Stamp Duty for second home buyers.
 
-Read more](https://content.propertypal.com/news-and-analysis/propertypal-updates/propertypal-and-propertynews-announce-merger)
+Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)
+
+Monthly Market Snapshot: October 2024
+-------------------------------------
+
+[### Monthly Market Snapshot: October 2024
+
+Introducing the October 2024 edition of our Monthly Market Snapshot, where we examine the latest trends and developments in the NI housing market.
+
+Read more](https://content.propertypal.com/news-and-analysis/market-reports/monthly-market-snapshot-october-2024)
 
 Hotel Sector Strong Despite Budget Uncertainty
 ----------------------------------------------
@@ -37,29 +46,24 @@ In the latest Budget, Chancellor Rachel Reeves revealed an increase in Stamp Dut
 
 Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)
 
-PropertyPal & Propertynews Announce Merger
-------------------------------------------
+Monthly Market Snapshot: October 2024
+-------------------------------------
 
-[### PropertyPal & Propertynews Announce Merger
+[### Monthly Market Snapshot: October 2024
 
-PropertyPal and Propertynews merge to enhance home search and agent advertising in Northern Ireland, combining expertise and driving innovation.
+Introducing the October 2024 edition of our Monthly Market Snapshot, where we examine the latest trends and developments in the NI housing market.
 
-Read more](https://content.propertypal.com/news-and-analysis/propertypal-updates/propertypal-and-propertynews-announce-merger)
-
-Hotel Sector Strong Despite Budget Uncertainty
-----------------------------------------------
-
-[### Hotel Sector Strong Despite Budget Uncertainty
-
-CBRE NI reports strong hotel sector growth in Q3, with RevPAR up 8% despite market challenges.
-
-Read more](https://content.propertypal.com/news-and-analysis/industry-news/hotel-sector-strong-despite-budget-uncertainty)
+Read more](https://content.propertypal.com/news-and-analysis/market-reports/monthly-market-snapshot-october-2024)
 
 Trending
 
 Trending
 
-[### Hotel Sector Strong Despite Budget Uncertainty
+[### Monthly Market Snapshot: October 2024
+
+Introducing the October 2024 edition of our Monthly Market Snapshot, where we examine the latest trends and developments in the NI housing market.
+
+Read more](https://content.propertypal.com/news-and-analysis/market-reports/monthly-market-snapshot-october-2024)[### Hotel Sector Strong Despite Budget Uncertainty
 
 CBRE NI reports strong hotel sector growth in Q3, with RevPAR up 8% despite market challenges.
 
@@ -67,11 +71,7 @@ Read more](https://content.propertypal.com/news-and-analysis/industry-news/hotel
 
 In the latest Budget, Chancellor Rachel Reeves revealed an increase in Stamp Duty for second home buyers.
 
-Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)[### PropertyPal & Propertynews Announce Merger
-
-PropertyPal and Propertynews merge to enhance home search and agent advertising in Northern Ireland, combining expertise and driving innovation.
-
-Read more](https://content.propertypal.com/news-and-analysis/propertypal-updates/propertypal-and-propertynews-announce-merger)
+Read more](https://content.propertypal.com/news-and-analysis/industry-news/stamp-duty-change-announced)
 
 Industry News
 -------------
@@ -109,6 +109,12 @@ Market Reports
 
 [View more](https://content.propertypal.com/news-and-analysis/market-reports)
 
+[### Monthly Market Snapshot: October 2024
+
+Introducing the October 2024 edition of our Monthly Market Snapshot, where we examine the latest trends and developments in the NI housing market.
+
+Read more](https://content.propertypal.com/news-and-analysis/market-reports/monthly-market-snapshot-october-2024)
+
 [### NI Housing Market Update: Q3 2024
 
 Introducing the Q3 2024 edition of our NI Housing Market Snapshot, where we examine the latest trends and developments in the NI housing market.
@@ -138,12 +144,6 @@ Read more](https://content.propertypal.com/news-and-analysis/market-reports/prop
 Introducing the April 2024 edition of our Monthly Market Snapshot, where we examine the latest trends and developments in the Northern Ireland housing market. This report offers a thorough analysis of
 
 Read more](https://content.propertypal.com/news-and-analysis/market-reports/property-pal-monthly-market-snapshot-april-2024)
-
-[### NI Housing Market Update: Q4 2023
-
-Introducing the Q4 2023 edition of our Northern Ireland Housing Market Update.
-
-Read more](https://content.propertypal.com/news-and-analysis/market-reports/northern-ireland-housing-market-update-q4-2023)
 
 [View more](https://content.propertypal.com/news-and-analysis/market-reports)
 
