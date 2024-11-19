@@ -37,7 +37,7 @@ Travaux parlementaires
 
 ![](/dyn/assets/images/icons/icon_travaux.png)
 
-[Séance publique](https://www.assemblee-nationale.fr/dyn/seance-publique) [Commissions et autres organes](https://www.assemblee-nationale.fr/dyn/commissions-et-autres-organes) [Europe et International](https://www.assemblee-nationale.fr/dyn/europe-et-international) [Contrôle et évaluation](https://www.assemblee-nationale.fr/dyn/17/travaux-de-controle) [Congrès](https://www2.assemblee-nationale.fr/le-congres-du-parlement) [Pétitions](https://www.assemblee-nationale.fr/dyn/petitions)
+[Séance publique](https://www.assemblee-nationale.fr/dyn/seance-publique) [Commissions et autres organes](https://www.assemblee-nationale.fr/dyn/commissions-et-autres-organes) [Europe et International](https://www.assemblee-nationale.fr/dyn/europe-et-international) [Contrôle et évaluation](https://www.assemblee-nationale.fr/dyn/17/travaux-de-controle) [Congrès](https://www.assemblee-nationale.fr/dyn/congres) [Pétitions](https://www.assemblee-nationale.fr/dyn/petitions)
 
 [Documents parlementaires](https://www.assemblee-nationale.fr/dyn/documents-parlementaires)
 
@@ -255,7 +255,7 @@ Vos députés
 
 Travaux parlementaires
 
-[Séance publique](https://www.assemblee-nationale.fr/dyn/seance-publique) [Commissions et autres organes](https://www.assemblee-nationale.fr/dyn/commissions-et-autres-organes) [Europe et International](https://www.assemblee-nationale.fr/dyn/europe-et-international) [Congrès](https://www2.assemblee-nationale.fr/le-congres-du-parlement) [Pétitions](https://www.assemblee-nationale.fr/petitions)
+[Séance publique](https://www.assemblee-nationale.fr/dyn/seance-publique) [Commissions et autres organes](https://www.assemblee-nationale.fr/dyn/commissions-et-autres-organes) [Europe et International](https://www.assemblee-nationale.fr/dyn/europe-et-international) [Congrès](https://www.assemblee-nationale.fr/dyn/congres) [Pétitions](https://www.assemblee-nationale.fr/petitions)
 
 [Documents parlementaires](https://www.assemblee-nationale.fr/dyn/documents-parlementaires)
 
