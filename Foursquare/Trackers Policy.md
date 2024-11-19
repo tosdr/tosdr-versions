@@ -12,13 +12,18 @@
     * [Attribution](https://location.foursquare.com/products/attribution/)
     * [Proximity](https://location.foursquare.com/products/proximity/)
     
-    APIs
+    APIs/SDKs
     
     * [Places API](https://location.foursquare.com/products/places-api/)
-    
-    SDKs
-    
     * [Movement SDK](https://location.foursquare.com/products/movement-sdk/)
+    
+    Open Source
+    
+    * [FSQ OS Places](https://opensource.foursquare.com/os-places/)
+    
+    * [Kepler.gl](https://kepler.gl/)
+    
+    * [Deck.gl](https://deck.gl/)
     
     Consumer
     
