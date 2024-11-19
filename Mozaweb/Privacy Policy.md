@@ -55,7 +55,7 @@ Search
     
     or
     
-    [**Create new account**](https://www.mozaweb.com/en/user.php?cmd=register)
+    [**Create new account**](https://www.mozaweb.com/signup)
     
 * [EUR
     
@@ -121,7 +121,7 @@ Search
     
     or
     
-    [**Create new account**](https://www.mozaweb.com/en/user.php?cmd=register)
+    [**Create new account**](https://www.mozaweb.com/signup)
     
 * [EUR
     
