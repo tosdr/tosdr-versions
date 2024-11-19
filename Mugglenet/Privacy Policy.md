@@ -308,15 +308,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-“Harry Potter and the Philosopher’s Stone” was first published on June 26, 1997, by Bloomsbury. There were only 500 hardback copies printed for the initial print run.
+Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
 
 ### Potter History
 
-January 10, 2005 – Franz Ferdinand reconsidered contributing a song to Goblet of Fire.
+July 8, 2000 – Harry Potter and the Goblet of Fire is released in the United States and United Kingdom simultaneously. It was the first Harry Potter book to be released in both countries on the same day.
 
 ### Potter Quote
 
-“Have a biscuit, Potter.”
+“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
 
 [](#)
 
