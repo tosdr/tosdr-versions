@@ -446,7 +446,6 @@
     
     * Alarm System
     * Smart Track
-    * Pet
     * Smart Box
     
     * [HomeBase S380 (HomeBase 3)](https://us.eufy.com/products/t80301d1?ref=navimenu_2_6_1_1_img)
@@ -464,14 +463,9 @@
     
     [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_2_5_copy)
     
-    * [eufy Pet Camera Pro N140](https://us.eufy.com/products/t72031a1?ref=navimenu_2_6_3_1_img)
-    * [Pet Water Fountain](https://us.eufy.com/products/t7320121?ref=navimenu_2_6_3_2_img)
+    * [SmartDrop, Smart Delivery Box](https://us.eufy.com/products/t8790?ref=navimenu_2_6_3_1_img)
     
-    [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_3_3_copy)
-    
-    * [SmartDrop, Smart Delivery Box](https://us.eufy.com/products/t8790?ref=navimenu_2_6_4_1_img)
-    
-    [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_4_2_copy)
+    [See More](https://us.eufy.com/collections/security-accessory?ref=navimenu_2_6_3_2_copy)
     
 * Baby
     
