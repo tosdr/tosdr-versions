@@ -162,9 +162,9 @@ Information Commissioner's Office (ICO) Reg. No. ZA004886
 
   
 
-"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
+"Fantastic - the most relevant material/resource ever seen for both dyslexia and teaching spelling rules."
 
-**Adult student, USA**
+**College Lecturer**
 
 ### Curriculum...
 
