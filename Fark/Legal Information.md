@@ -232,9 +232,7 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-Total access  
-Total knowledge  
-Total Fark
+More Fark for your buck
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -334,16 +332,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The ultimate crossover event sure to please everybody: a Jesus themed sex party](https://www.fark.com/goto/13466864) ( [vice.com](https://www.fark.com/goto/13466864) ) » [(26 comments)](https://www.fark.com/comments/13466864/The-ultimate-crossover-event-sure-to-please-everybody-a-Jesus-themed-sex-party) |
-| [Discussion](https://www.fark.com/discussion/) | ["My husband has lost his sex drive. Is he banging someone else?" (possible nsfw content on page)](https://www.fark.com/goto/13466856) ( [thesun.co.uk](https://www.fark.com/goto/13466856) ) » [(4 comments)](https://www.fark.com/comments/13466856/My-husband-has-lost-his-sex-drive-Is-he-banging-someone-else-possible-nsfw-content-on-page) |
-| [Sports](https://www.fark.com/sports/) | [This will be the worst MNF game so far](https://www.fark.com/goto/13467090) ( [si.com](https://www.fark.com/goto/13467090) ) » [(5 comments)](https://www.fark.com/comments/13467090/This-will-be-worst-MNF-game-so-far) |
-| [Business](https://www.fark.com/business/) | [WSJ says Musk and Trump's impulsive plans will just wreck the economy. Counter point: but then everything will be super cheap and we can buy up everything](https://www.fark.com/goto/13466912) ( [alternet.org](https://www.fark.com/goto/13466912) ) » [(8 comments)](https://www.fark.com/comments/13466912/WSJ-says-Musk-Trumps-impulsive-plans-will-just-wreck-economy-Counter-point-but-then-everything-will-be-super-cheap-we-can-buy-up-everything) |
-| [STEM](https://www.fark.com/stem/) | [Mollusk of Mystery discovered in Monterey Bay, Mike Myers nowhere in sight](https://www.fark.com/goto/13466818) ( [eastbaytimes.com](https://www.fark.com/goto/13466818) ) » [(3 comments)](https://www.fark.com/comments/13466818/Mollusk-of-Mystery-discovered-in-Monterey-Bay-Mike-Myers-nowhere-in-sight) |
-| [Entertainment](https://www.fark.com/entertainment/) | [You can only be The Sexiest Man Alive for one year. So, 40 years, 40 men](https://www.fark.com/goto/13466786) ( [abcnews.go.com](https://www.fark.com/goto/13466786) ) » [(6 comments)](https://www.fark.com/comments/13466786/You-can-only-be-The-Sexiest-Man-Alive-for-one-year-So-40-years-40-men) |
-| [Fandom](https://www.fark.com/fandom/) | [James Stephanie Sterling has been taking the piss out of the games industry for ten years now](https://www.fark.com/goto/13467006) ( [youtube.com](https://www.fark.com/goto/13467006) ) » [(0 comments)](https://www.fark.com/comments/13467006/James-Stephanie-Sterling-has-been-taking-piss-out-of-games-industry-for-ten-years-now) |
-| [D'awww](https://www.fark.com/dawww/) | [Save the squirrels; they're worth it](https://www.fark.com/goto/13466832) ( [dailymail.co.uk](https://www.fark.com/goto/13466832) ) » [(0 comments)](https://www.fark.com/comments/13466832/Save-squirrels-theyre-worth-it) |
-| [Food](https://www.fark.com/food/) | [Trump's tariffs on wine will kill all the restaurants. Only McDonalds will remain](https://www.fark.com/goto/13466924) ( [qz.com](https://www.fark.com/goto/13466924) ) » [(11 comments)](https://www.fark.com/comments/13466924/Trumps-tariffs-on-wine-will-kill-all-restaurants-Only-McDonalds-will-remain) |
-| [Politics](https://www.fark.com/politics/) | [Matt Gaetz: I never thought that Joel Leppard (an attorney representing multiple women making accusations of sexual misconduct against him) would eat MY face](https://www.fark.com/goto/13466946) ( [mediaite.com](https://www.fark.com/goto/13466946) ) » [(59 comments)](https://www.fark.com/comments/13466946/Matt-Gaetz-I-never-thought-that-Joel-Leppard-an-attorney-representing-multiple-women-making-accusations-of-sexual-misconduct-against-him-would-eat-MY-face) |
+| [Main](https://www.fark.com/) | [Which is more awkward here: a man allegedly masturbating in front a neighbor's camera or the alleged confrontation afterwards?](https://www.fark.com/goto/13466792) ( [northcentralpa.com](https://www.fark.com/goto/13466792) ) » [(8 comments)](https://www.fark.com/comments/13466792/Which-is-more-awkward-here-a-man-allegedly-masturbating-in-front-a-neighbors-camera-the-alleged-confrontation-afterwards) |
+| [Discussion](https://www.fark.com/discussion/) | [The most important debate about Thanksgiving - should the game be on while you eat?](https://www.fark.com/goto/13466820) ( [huffpost.com](https://www.fark.com/goto/13466820) ) » [(17 comments)](https://www.fark.com/comments/13466820/The-most-important-debate-about-Thanksgiving-should-game-be-on-while-you-eat) |
+| [Sports](https://www.fark.com/sports/) | ["Wait, coach, I'm a Safety, sssssoooo.......when the WR catches the ball, I'm supposed to tackle him? How did I now know this?" Welcome to Cleveland Browns football](https://www.fark.com/goto/13466802) ( [brownsnation.com](https://www.fark.com/goto/13466802) ) » [(1 comment)](https://www.fark.com/comments/13466802/Wait-coach-Im-a-Safety-sssssoooowhen-WR-catches-ball-Im-supposed-to-tackle-him-How-did-I-now-know-this-Welcome-to-Cleveland-Browns-football) |
+| [Business](https://www.fark.com/business/) | [Gig workers already have few protections, and Uber and Lyft have been "unintentionally" sharing more than.rides](https://www.fark.com/goto/13466794) ( [techxplore.com](https://www.fark.com/goto/13466794) ) » [(1 comment)](https://www.fark.com/comments/13466794/Gig-workers-already-have-few-protections-Uber-Lyft-have-been-unintentionally-sharing-more-thanrides) |
+| [STEM](https://www.fark.com/stem/) | [Mollusk of Mystery discovered in Monterey Bay, Mike Myers nowhere in sight](https://www.fark.com/goto/13466818) ( [eastbaytimes.com](https://www.fark.com/goto/13466818) ) » [(9 comments)](https://www.fark.com/comments/13466818/Mollusk-of-Mystery-discovered-in-Monterey-Bay-Mike-Myers-nowhere-in-sight) |
+| [Entertainment](https://www.fark.com/entertainment/) | [When I was in college, Scream 3 totally lacked the joie de vivre and gestalt of the previous chapters. In my own personal opinion. To me. Bro](https://www.fark.com/goto/13466588) ( [theringer.com](https://www.fark.com/goto/13466588) ) » [(10 comments)](https://www.fark.com/comments/13466588/When-I-was-in-college-Scream-3-totally-lacked-joie-de-vivre-gestalt-of-previous-chapters-In-my-own-personal-opinion-To-me-Bro) |
+| [Fandom](https://www.fark.com/fandom/) | [Thirty years after he was killed off in Generations, Shatner returns to the captain's chair](https://www.fark.com/goto/13467088) ( [trekmovie.com](https://www.fark.com/goto/13467088) ) » [(16 comments)](https://www.fark.com/comments/13467088/Thirty-years-after-he-was-killed-off-in-Generations-Shatner-returns-to-captains-chair) |
+| [D'awww](https://www.fark.com/dawww/) | [Save the squirrels; they're worth it](https://www.fark.com/goto/13466832) ( [dailymail.co.uk](https://www.fark.com/goto/13466832) ) » [(1 comment)](https://www.fark.com/comments/13466832/Save-squirrels-theyre-worth-it) |
+| [Food](https://www.fark.com/food/) | [In case you needed a tutorial on peeling boiled eggs](https://www.fark.com/goto/13466958) ( [thetakeout.com](https://www.fark.com/goto/13466958) ) » [(14 comments)](https://www.fark.com/comments/13466958/In-case-you-needed-a-tutorial-on-peeling-boiled-eggs) |
+| [Politics](https://www.fark.com/politics/) | [Matt Gaetz only made it to ten drug-fueled orgies](https://www.fark.com/goto/13466780) ( [thedailybeast.com](https://www.fark.com/goto/13466780) ) » [(20 comments)](https://www.fark.com/comments/13466780/Matt-Gaetz-only-made-it-to-ten-drug-fueled-orgies) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -353,7 +351,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 18 2024 19:43:18  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 19 2024 01:43:28  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
