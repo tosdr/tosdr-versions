@@ -667,21 +667,29 @@ Abbiamo il piacere di lavorare con importanti aziende che affianchiamo con entus
 
 Alcuni Articoli che Potrebbero Interessarti
 
-[### Nasce Blendee: il primo Marketing Operating System Europeo creato dall’integrazione di Neodata Group e Adabra
+[![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
 
-L’operazione va a creare una piattaforma unica in Italia, player di riferimento nel mercato domestico e con ambizioni internazionale Milano, 30 giugno 2023 – Dall’integrazione di competenze di Neodata Group e Adabra nasce Blendee, una Customer Data Platform (CDP) di nuova concezione, che racchiude al suo interno 3 tecnologie esistenti (Adabra, Adagio ed Exaudi), leader rispettivamente nei settori di Customer Data Platform, Ad Server e Audience Platform (DMP).](https://www.neodatagroup.com/blog/nasce-blendee-il-primo-marketing-operating-system-europeo-creato-dallintegrazione-di-neodata-group-e-adabra)[Continua ➝](https://www.neodatagroup.com/blog/nasce-blendee-il-primo-marketing-operating-system-europeo-creato-dallintegrazione-di-neodata-group-e-adabra)
+### Heading
 
-[### Customer Data Platform e Data Management Platform: diverse ma complementari
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.](#)
 
-CRM, CDP, DMP e molto altro ancora: il mercato delle marketing technology è in continuo fermento. Di fronte a consumatori post-moderni, sempre più informati, consapevoli, iperconnessi, ma anche disincantati e sfuggenti, i brand non possono prescindere da una loro conoscenza approfondita e dalla capacità di presidiare ogni fase del loro customer journey.](https://www.neodatagroup.com/blog/customer-data-platform-e-data-management-platform-diverse-ma-complementari)[Continua ➝](https://www.neodatagroup.com/blog/customer-data-platform-e-data-management-platform-diverse-ma-complementari)
+[![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
 
-[### Personalità dei clienti e segmentazione: conoscere il lato più umano della propria audience
+### Heading
 
-“Customer is the king”: recitava un celebre mantra, oggi più che mai attuale e veritiero. Nell’era del marketing customer centrico e della iper-personalizzazione della customer experience, l’empatia nei confronti del cliente diventa essenziale per affrontare e vincere le nuove sfide. Ma come entrare in empatia con i propri utenti, prima, e con i propri clienti poi?](https://www.neodatagroup.com/blog/personalita-dei-clienti-e-segmentazione-conoscere-il-lato-piu-umano-della-propria-audience)[Continua ➝](https://www.neodatagroup.com/blog/personalita-dei-clienti-e-segmentazione-conoscere-il-lato-piu-umano-della-propria-audience)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.](#)
 
-[### Customer Data Platform: i dati che creano valore
+[![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
 
-Una visione a 360°dei propri utenti e clienti è per marketer e strategist non più solo un traguardo ambito, ma una necessità imprescindibile se si desidera investire sulla personalizzazione della customer experience. È infatti qui che si cela la chiave di volta per portare al successo il proprio business di fronte ad un consumatore sempre più esigente, informato, capace di muoversi con fluidità tra mondo off-line e realtà digitale.](https://www.neodatagroup.com/blog/customer-data-platform-i-dati-che-creano-valore)[Continua ➝](https://www.neodatagroup.com/blog/customer-data-platform-i-dati-che-creano-valore)
+### Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.](#)
+
+[![](https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg)
+
+### Heading
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique.](#)
 
 Seguici
 
