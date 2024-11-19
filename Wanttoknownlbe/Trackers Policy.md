@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/mh-17-dossier-hier-vind-je-alle-artikelen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/duitse-media-merkel-stop-met-corona-idiotie/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
