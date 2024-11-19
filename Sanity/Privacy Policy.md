@@ -1,13 +1,13 @@
-Product announcement
+Winter release
 
-Live by default
-===============
+This release should be pretty boring
+====================================
 
-Ensure fresh content is served to all users—even at massive scale—without specialized infrastructure or dedicated engineering teams
+Yet somehow it isn’t. Your free-form content maps itself. Visual editing without the mess. Complex content releases made easy.
 
-[Watch keynote](https://www.sanity.io/live#8dcd448bfd2d?ref=takeover)
+[Explore the new features](https://www.sanity.io/release?ref=takeover)
 
-![Simeon presenting at Next.js conf 2024](https://cdn.sanity.io/images/3do82whm/next/948ac81ac6d5cdb083b3c5568325d4fa5c6723f0-4096x2732.jpg?rect=104,503,3751,1615&w=3840&q=75&fit=clip&auto=format)
+![](https://cdn.sanity.io/images/3do82whm/next/ee4f40635f7dca5925f899be52d3cf1254fd552a-1920x1080.png?w=3840&q=75&fit=clip&auto=format)
 
 [Unlock seamless workflows and faster delivery with our latest releases - Join the deep dive](https://www.sanity.io/events/developer-deep-dive-launch?ref=banner)
 
