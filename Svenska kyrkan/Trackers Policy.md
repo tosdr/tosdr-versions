@@ -42,12 +42,12 @@ Sök Meny
         
 * [Konfirmation](https://www.svenskakyrkan.se/konfirmation)
     
+    * [Hitta konfirmation](https://www.svenskakyrkan.se/konfirmation/hitta-konfirmation)
+        
     * [Konfirmeras på andra språk](https://www.svenskakyrkan.se/konfirmeras-pa-finska-samiska-eller-teckensprak)
         
         * [Konfirmation för dig som är teckenspråkig](https://www.svenskakyrkan.se/konfirmation/teckensprak)
             
-    * [Hitta konfirmation](https://www.svenskakyrkan.se/konfirmation/hitta-konfirmation)
-        
     * [Konfirmeras som vuxen](https://www.svenskakyrkan.se/konfirmation/konfirmeras-som-vuxen)
         
     * [Vanliga frågor om konfirmation](https://www.svenskakyrkan.se/konfirmation/vanliga-fragor-och-svar)
@@ -184,7 +184,7 @@ Sök Meny
             
             * [Kontaktpersoner för arbetet mot sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp/motsexuellaovergreppmotsexuellaovergreppkontaktpersoner)
                 
-            * [Organisationer som arbetar mot sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp/andra-organisationer)
+            * [Organisationer som arbetar mot sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp/motsexuellaovergreppandra-organisationer)
                 
         * [Våld i nära relationer](https://www.svenskakyrkan.se/fa-hjalp/vald-i-nara-relationer)
             
@@ -1351,6 +1351,8 @@ Kakor
 
 Vi använder kakor (cookies) på webbplatsen svenskakyrkan.se. Vissa av våra kakor är nödvändiga för att webbplatsen ska fungera. De går inte att välja bort. Andra kakor kan du själv välja om vi ska använda eller inte. Oavsett dina inställningar är du anonym för oss.
 
+Ändra inställningar för kakor
+
 Webbplatsen förvaltas av Svenska kyrkan på nationell nivå. Det innebär att det är kyrkostyrelsen som är personuppgiftsansvarig för webbplatsens hantering av kakor.  
 [Läs mer om Svenska kyrkans hantering av personuppgifter.](https://www.svenskakyrkan.se/om-oss/personuppgifter)
 
@@ -1424,7 +1426,7 @@ Post- och telestyrelsen har tagit fram information om reglerna för både webbpl
 
 Tillbaka till toppen Tillbaka till innehållet
 
-Uppdaterad: 13 november 2024
+Uppdaterad: 19 november 2024
 
 Synpunkter eller frågor på sidans innehåll?
 -------------------------------------------
