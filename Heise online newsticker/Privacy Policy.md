@@ -26,7 +26,7 @@ Online-Magazine
 * [heise+](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")
 * [Telepolis](https://www.heise.de/tp/ "Telepolis")
 * [heise Autos](https://www.heise.de/autos/ "heise Autos – News, Tests, Technik, Service rund ums Auto")
-* [TechStage](https://www.techstage.de/ "TechStage – News, Tests & Praxis zu Smartphones und Tablets mit Android, iOS, Windows Phone & Co.")
+* [bestenlisten](https://www.heise.de/bestenlisten "bestenlisten by TechStage")
 * [tipps+tricks](https://www.heise.de/tipps-tricks/ "tipps+tricks")
 
 Services
@@ -106,7 +106,7 @@ Online-Magazine
 * [heise+](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")
 * [Telepolis](https://www.heise.de/tp/ "Telepolis")
 * [heise Autos](https://www.heise.de/autos/ "heise Autos – News, Tests, Technik, Service rund ums Auto")
-* [TechStage](https://www.techstage.de/ "TechStage – News, Tests & Praxis zu Smartphones und Tablets mit Android, iOS, Windows Phone & Co.")
+* [bestenlisten](https://www.heise.de/bestenlisten "bestenlisten by TechStage")
 * [tipps+tricks](https://www.heise.de/tipps-tricks/ "tipps+tricks")
 
 Services
@@ -790,7 +790,7 @@ Online-Magazine
 * [heise+](https://www.heise.de/plus/ "heise+ - Immer mehr Wissen.")
 * [Telepolis](https://www.heise.de/tp/ "Telepolis")
 * [heise Autos](https://www.heise.de/autos/ "heise Autos – News, Tests, Technik, Service rund ums Auto")
-* [TechStage](https://www.techstage.de/ "TechStage – News, Tests & Praxis zu Smartphones und Tablets mit Android, iOS, Windows Phone & Co.")
+* [bestenlisten](https://www.heise.de/bestenlisten "bestenlisten by TechStage")
 * [tipps+tricks](https://www.heise.de/tipps-tricks/ "tipps+tricks")
 
 Services
