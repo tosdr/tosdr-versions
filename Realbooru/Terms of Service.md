@@ -21,7 +21,7 @@
 
 ###### [Orangeshell](https://realbooru.com/index.php?page=account&s=profile&uname=Orangeshell)
 
-10/30/21 12:20PM
+10/30/21 05:20PM
 
 ###### Official TOS Thread (updated 1/17/24)
 
@@ -76,7 +76,7 @@ In addition, you may not use the Site to upload any of the following:
 
 ###### [Orangeshell](https://realbooru.com/index.php?page=account&s=profile&uname=Orangeshell)
 
-10/30/21 12:36PM
+10/30/21 05:36PM
 
 ###### Additional notes:
 
@@ -110,7 +110,7 @@ Here\_we\_go85
 
 ###### [lordhater#1\_](https://realbooru.com/index.php?page=account&s=profile&uname=lordhater%231_)
 
-07/12/22 11:44AM
+07/12/22 04:44PM
 
 ###### Sourcing Guidelines
 
@@ -162,7 +162,7 @@ If a user is uploading their own content, they should be expected to tag them as
 
 ###### [Orangeshell](https://realbooru.com/index.php?page=account&s=profile&uname=Orangeshell)
 
-06/23/23 02:45PM
+06/23/23 07:45PM
 
 Videos up to **3 minutes** in length are allowed, but any longer and they will be deleted or never approved to begin with.
 
