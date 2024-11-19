@@ -198,7 +198,7 @@ Get Directions
 [Back to Menu](#)
 
 * Look Book
-[My Brick Home](https://www.thebrick.com/blogs/my-brick-home/2024-summer) [Holiday Decor](https://www.thebrick.com/collections/holiday-decor) [Get the Look](https://www.thebrick.com/pages/get-the-look) [Blog](https://www.thebrick.com/blogs/inspiration)
+[Holiday Is Home](https://www.thebrick.com/blogs/my-brick-home/2024-holiday) [Holiday Decor](https://www.thebrick.com/collections/holiday-decor) [Get the Look](https://www.thebrick.com/pages/get-the-look) [Blog](https://www.thebrick.com/blogs/inspiration)
 
 [Back to Menu](#)
 
