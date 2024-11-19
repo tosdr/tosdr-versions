@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)8°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![faible pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-16.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,16 +54,12 @@
 
 Thèmes du moment
 
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
-* [France](https://www.watson.ch/fr/france/)
-* [Poutine](https://www.watson.ch/fr/poutine/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
-* [Chiens](https://www.watson.ch/fr/chiens/)
 * [Espionnage](https://www.watson.ch/fr/espionnage/)
+* [Environnement](https://www.watson.ch/fr/environnement/)
 * [Santé](https://www.watson.ch/fr/sante/)
+* [Musique](https://www.watson.ch/fr/musique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
+* [Football](https://www.watson.ch/fr/football/)
 * [Mode](https://www.watson.ch/fr/mode/)
 * [Valais](https://www.watson.ch/fr/valais/)
 * [Russie](https://www.watson.ch/fr/russie/)
@@ -72,8 +68,12 @@ Thèmes du moment
 * [Nati](https://www.watson.ch/fr/nati/)
 * [Médecine](https://www.watson.ch/fr/medecine/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Musique](https://www.watson.ch/fr/musique/)
-* [Football](https://www.watson.ch/fr/football/)
+* [Chiens](https://www.watson.ch/fr/chiens/)
+* [Animaux](https://www.watson.ch/fr/animaux/)
+* [France](https://www.watson.ch/fr/france/)
+* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
+* [Poutine](https://www.watson.ch/fr/poutine/)
+* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
