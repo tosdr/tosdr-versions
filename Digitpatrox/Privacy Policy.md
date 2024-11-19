@@ -20,16 +20,16 @@ Tuesday, November 19 2024
 
 Latest
 
-* [Severed subsea internet cables raise network security questions](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
-* [Unemployment is near historic lows – why’s it so hard to get an IT job?](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
-* [Apple Might Be Ditching the Lightning Headphone Jack Adapter, but You Don’t Have To](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
-* [Organic Carrots Linked to E. Coli Outbreak | Grimmway Farms](https://digitpatrox.com/organic-carrots-linked-to-e-coli-outbreak-grimmway-farms/)
-* [Why Having a Book-Shaped Phone Means I Read More Books](https://digitpatrox.com/why-having-a-book-shaped-phone-means-i-read-more-books/)
-* [Majority of firms using generative AI experience related security incidents – even as it empowers security teams](https://digitpatrox.com/majority-of-firms-using-generative-ai-experience-related-security-incidents-even-as-it-empowers-security-teams/)
-* [How To Improve Contact Center CX Without Buying New Tech](https://digitpatrox.com/how-to-improve-contact-center-cx-without-buying-new-tech/)
-* [Should you buy a mattress in a closeout Black Friday sale? I’m a deals writer, here’s my take](https://digitpatrox.com/should-you-buy-a-mattress-in-a-closeout-black-friday-sale-im-a-deals-writer-heres-my-take/)
-* [US space tech giant Maxar discloses employee data breach](https://digitpatrox.com/us-space-tech-giant-maxar-discloses-employee-data-breach/)
-* [Tesla’s first 500kW V4 Superchargers are coming next year](https://digitpatrox.com/teslas-first-500kw-v4-superchargers-are-coming-next-year/)
+* [Google slams reported forced Chrome sell-off, says “radical” move would harm businesses](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
+* [Foxconn takes another big step toward AI iPhone manufacturing – Computerworld](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
+* [Use Google Maps to Find Out If a Holiday Gift Is in Stock](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
+* [Ransomware gang claims cyberattack that shut down a Pennsylvania school district](https://digitpatrox.com/ransomware-gang-claims-cyberattack-that-shut-down-a-pennsylvania-school-district/)
+* [How to move WSL distros to a different drive on Windows 11, 10](https://digitpatrox.com/how-to-move-wsl-distros-to-a-different-drive-on-windows-11-10/)
+* [2025 Kia K4 First Drive Review](https://digitpatrox.com/2025-kia-k4-first-drive-review/)
+* [6 Foldable Phone Misconceptions Busted](https://digitpatrox.com/6-foldable-phone-misconceptions-busted/)
+* [El Capitan powers up, becomes fastest supercomputer in the world](https://digitpatrox.com/el-capitan-powers-up-becomes-fastest-supercomputer-in-the-world/)
+* [Basic & Advanced Use Cases](https://digitpatrox.com/basic-advanced-use-cases/)
+* [Studio Chill vs Legend Hybrid mattress: which Leesa bed is best?](https://digitpatrox.com/studio-chill-vs-legend-hybrid-mattress-which-leesa-bed-is-best/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://cdn.mos.cms.futurecdn.net/pUY7cH9aCgzpE8ijRSzuqW-1200-80.jpg)](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
+* [![](https://cdn.mos.cms.futurecdn.net/KWnuenMsdyFzLapjnaFXAU-1200-80.jpg)](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
     
-    [Severed subsea internet cables raise network security questions](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
-    
-    4 minutes ago
-    
-* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3607427-0-62351800-1732014219-shutterstock_797089132.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
-    
-    [Unemployment is near historic lows – why’s it so hard to get an IT job?](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
-    
-    24 minutes ago
-    
-* [![](https://lifehacker.com/imagery/articles/01JD0ABZK5K2ZBSEHEKSGV57HQ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
-    
-    [Apple Might Be Ditching the Lightning Headphone Jack Adapter, but You Don’t Have To](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
-    
-    52 minutes ago
-    
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731958282/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-Carrots-linked-to-E-coli-outbreak--1124)](https://digitpatrox.com/organic-carrots-linked-to-e-coli-outbreak-grimmway-farms/)
-    
-    [Organic Carrots Linked to E. Coli Outbreak | Grimmway Farms](https://digitpatrox.com/organic-carrots-linked-to-e-coli-outbreak-grimmway-farms/)
+    [Google slams reported forced Chrome sell-off, says “radical” move would harm businesses](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
     
     1 hour ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/a-book-on-a-galaxy-z-fold-5.jpg)](https://digitpatrox.com/why-having-a-book-shaped-phone-means-i-read-more-books/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3608918-0-09075800-1732037286-ahmed-asaker-hU4xA9ItPDk-unsplash.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
     
-    [Why Having a Book-Shaped Phone Means I Read More Books](https://digitpatrox.com/why-having-a-book-shaped-phone-means-i-read-more-books/)
+    [Foxconn takes another big step toward AI iPhone manufacturing – Computerworld](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
     
     1 hour ago
+    
+* [![](https://lifehacker.com/imagery/articles/01JD194CK02N9V72NWP0Y5ZTWJ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
+    
+    [Use Google Maps to Find Out If a Holiday Gift Is in Stock](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
+    
+    2 hours ago
+    
+* [![](https://cdn.comparitech.com/wp-content/uploads/2024/11/Ransomware-attack-forces-PA-school-district-to-cancel-classes.jpg)](https://digitpatrox.com/ransomware-gang-claims-cyberattack-that-shut-down-a-pennsylvania-school-district/)
+    
+    [Ransomware gang claims cyberattack that shut down a Pennsylvania school district](https://digitpatrox.com/ransomware-gang-claims-cyberattack-that-shut-down-a-pennsylvania-school-district/)
+    
+    2 hours ago
+    
+* [![](https://pureinfotech.com/wp-content/uploads/2024/11/wsl-move-distro-new-drive-hero-mauro-huculak.webp)](https://digitpatrox.com/how-to-move-wsl-distros-to-a-different-drive-on-windows-11-10/)
+    
+    [How to move WSL distros to a different drive on Windows 11, 10](https://digitpatrox.com/how-to-move-wsl-distros-to-a-different-drive-on-windows-11-10/)
+    
+    2 hours ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [4 minutes ago
+* [1 hour ago
     
-    ### Severed subsea internet cables raise network security questions](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
-* [24 minutes ago
+    ### Google slams reported forced Chrome sell-off, says “radical” move would harm businesses](https://digitpatrox.com/google-slams-reported-forced-chrome-sell-off-says-radical-move-would-harm-businesses/)
+* [1 hour ago
     
-    ### Unemployment is near historic lows – why’s it so hard to get an IT job?](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
-* [52 minutes ago
+    ### Foxconn takes another big step toward AI iPhone manufacturing – Computerworld](https://digitpatrox.com/foxconn-takes-another-big-step-toward-ai-iphone-manufacturing-computerworld/)
+* [2 hours ago
     
-    ### Apple Might Be Ditching the Lightning Headphone Jack Adapter, but You Don’t Have To](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
+    ### Use Google Maps to Find Out If a Holiday Gift Is in Stock](https://digitpatrox.com/use-google-maps-to-find-out-if-a-holiday-gift-is-in-stock/)
 
 Most Popular Topics
 
-* [August 13, 2024
-    
-    ### Windows 11 receives August 2024 update (KB5041585)](https://digitpatrox.com/windows-11-receives-august-2024-update-kb5041585/)
 * [2 weeks ago
     
-    ### What Is MUBI, and Is a Subscription Worth the Money?](https://digitpatrox.com/what-is-mubi-and-is-a-subscription-worth-the-money/)
-* [September 6, 2024
+    ### Today’s NYT Connections Hints and Answer for November 4 (#512)](https://digitpatrox.com/todays-nyt-connections-hints-and-answer-for-november-4-512/)
+* [3 weeks ago
     
-    ### NYT Strands Today: Hints, Answers & Spangram for September 7](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-7/)
+    ### The Pixel 9 Pro Is Great (If You Ignore the AI)](https://digitpatrox.com/the-pixel-9-pro-is-great-if-you-ignore-the-ai/)
+* [2 weeks ago
+    
+    ### AI-Assisted Attacks Top Cyber Threat For Third Consecutive Quarter, Gartner Finds](https://digitpatrox.com/ai-assisted-attacks-top-cyber-threat-for-third-consecutive-quarter-gartner-finds/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### How To Improve Contact Center CX Without Buying New Tech](https://digitpatrox.com/how-to-improve-contact-center-cx-without-buying-new-tech/)
-* [2 hours ago
-    
-    ### Should you buy a mattress in a closeout Black Friday sale? I’m a deals writer, here’s my take](https://digitpatrox.com/should-you-buy-a-mattress-in-a-closeout-black-friday-sale-im-a-deals-writer-heres-my-take/)
+    ### 6 Foldable Phone Misconceptions Busted](https://digitpatrox.com/6-foldable-phone-misconceptions-busted/)
 * [3 hours ago
     
-    ### US space tech giant Maxar discloses employee data breach](https://digitpatrox.com/us-space-tech-giant-maxar-discloses-employee-data-breach/)
+    ### El Capitan powers up, becomes fastest supercomputer in the world](https://digitpatrox.com/el-capitan-powers-up-becomes-fastest-supercomputer-in-the-world/)
+* [3 hours ago
+    
+    ### Basic & Advanced Use Cases](https://digitpatrox.com/basic-advanced-use-cases/)
 
 Most Viewed Topics
 
+* [August 13, 2024
+    
+    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
-* [August 11, 2024
-    
-    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
