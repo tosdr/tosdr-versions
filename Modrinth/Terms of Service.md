@@ -278,7 +278,7 @@ All other feedback, comments, requests for technical support and other communica
 
 Modrinth is [open source](https://github.com/modrinth).
 
-prod@[1aa2299](https://github.com/modrinth/code/tree/1aa2299b558fc9eaba74615e8453cfe7da8510d9)
+prod@[8cd77ad](https://github.com/modrinth/code/tree/8cd77ad1d82476a34689fd63b957721d884ca5bd)
 
 © Rinth, Inc.
 
