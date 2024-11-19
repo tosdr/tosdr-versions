@@ -6,7 +6,6 @@ Legal
 * [Code of Business Ethics](https://links.imagerelay.com/cdn/3404/ql/6548e40358aa4c95869a0b2ba870c480/SUSE-COBE.pdf)
 * [Compliance Charter](https://www.suse.com/company/legal/compliance-charter/)
 * [Cookie Usage Policy](https://www.suse.com/company/legal/cookies-policy/)
-* [Open Azure Day Sweepstakes](https://www.suse.com/company/legal/open-azure-day/)
 * [Supplier code of business ethics](https://links.imagerelay.com/cdn/3404/ql/f7dcfb9e2e5949ba93a61ce08c09713d/SUSE_Supplier_COBE.pdf)
 * [SUSE Open Source Policy](https://links.imagerelay.com/cdn/3404/ql/e5e6d8a7430d47cbb2cad7267d93153b/suse_open_source_policy.pdf)
 * [SUSE Product Export List](https://www.suse.com/company/legal/eccn/)
