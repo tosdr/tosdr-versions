@@ -414,11 +414,11 @@ Two years after its first major layoff round, Coursera announces another, impact
 Most common
 -----------
 
-1. data science
+1. digital marketing
     
-2. machine learning
+2. hacking
     
-3. html
+3. finance
     
 
 Popular subjects
@@ -426,26 +426,26 @@ Popular subjects
 
 1. [Data Analysis
     
-    8,797 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Digital Marketing
+    8,807 courses](https://www.classcentral.com/subject/data-analysis)
+2. [Cybersecurity
     
-    6,263 courses](https://www.classcentral.com/subject/digital-marketing)
-3. [Graphic Design
+    16,781 courses](https://www.classcentral.com/subject/cybersecurity)
+3. [Computer Science
     
-    4,342 courses](https://www.classcentral.com/subject/graphic-design)
+    43,314 courses](https://www.classcentral.com/subject/cs)
 
 Popular courses
 ---------------
 
-1. [Marketing Innovative Products and Services
+1. [Nutrition, Exercise and Sports
     
-    University System of Maryland](https://www.classcentral.com/course/marketing-the-university-of-maryland-college-park-19176)
-2. [Matrix Algebra for Engineers
+    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-14381)
+2. [Justice
     
-    The Hong Kong University of Science and Technology](https://www.classcentral.com/course/matrix-algebra-engineers-11986)
-3. [Learn Like a Pro: Science-Based Tools to Become Better at Anything
+    Harvard University](https://www.classcentral.com/course/justice-harvard-university-justice-610)
+3. [Greening the Economy: Sustainable Cities
     
-    edX](https://www.classcentral.com/course/how-to-learn-barbara-oakley-olav-schewe-learn-lik-40292)
+    Lund University](https://www.classcentral.com/course/gte-sustainable-cities-4851)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
