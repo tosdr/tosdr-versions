@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.king5.com/assets/KING/images/d63308a4-d15c-40ab-be20-b482ea1a1dae/20241119T020124/d63308a4-d15c-40ab-be20-b482ea1a1dae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d63308a4-d15c-40ab-be20-b482ea1a1dae/20241119T020124/d63308a4-d15c-40ab-be20-b482ea1a1dae_360x203.jpg)](https://www.king5.com/article/news/local/beloved-stanwood-dog-rescue-in-need/281-69c8bc83-33f4-448f-ac23-28d00828257a)
+        
+        #### [Beloved Stanwood dog rescue in need of rescuing](https://www.king5.com/article/news/local/beloved-stanwood-dog-rescue-in-need/281-69c8bc83-33f4-448f-ac23-28d00828257a)
+        
     *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
         #### [Bomb cyclone will lead to damaging winds in western Washington Tuesday](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
-        
-    *  [![](https://media.king5.com/assets/KING/images/e4e4b003-804e-4588-9202-04498f81f265/20241118T181336/e4e4b003-804e-4588-9202-04498f81f265_16x9.jpg) ![](https://media.king5.com/assets/KING/images/e4e4b003-804e-4588-9202-04498f81f265/20241118T181336/e4e4b003-804e-4588-9202-04498f81f265_360x203.jpg)](https://www.king5.com/article/news/crime/woman-shot-robbery-seattle-chinatown-international-district/281-bd344794-a714-4614-acc4-c9f444d3d098)
-        
-        #### [Woman shot during robbery in Seattle's Chinatown International District](https://www.king5.com/article/news/crime/woman-shot-robbery-seattle-chinatown-international-district/281-bd344794-a714-4614-acc4-c9f444d3d098)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+    *  [![](https://media.king5.com/assets/KING/images/1e7b359c-5afd-4a05-aa3a-50ab608792ea/20241119T011203/1e7b359c-5afd-4a05-aa3a-50ab608792ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1e7b359c-5afd-4a05-aa3a-50ab608792ea/20241119T011203/1e7b359c-5afd-4a05-aa3a-50ab608792ea_360x203.jpg)](https://www.king5.com/article/weather/snoqualmie-pass-significant-snowfall-november/281-65b21837-6ee3-428e-83be-4389df24d27f)
         
-        #### [Bomb cyclone will lead to damaging winds in western Washington Tuesday](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+        #### [Snoqualmie Pass sees first significant snowfall as potential above-average season looms](https://www.king5.com/article/weather/snoqualmie-pass-significant-snowfall-november/281-65b21837-6ee3-428e-83be-4389df24d27f)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-43°
+42°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-day_210x210.png)
+![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
