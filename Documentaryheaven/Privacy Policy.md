@@ -136,31 +136,31 @@ Advertisement
 
 ###### Throwback Documentaries
 
-* [![FluorideGate: An American Tragedy](/wp-content/thumbnails/6880-100x70.png?x53432)
+* [![The Mystery of Van Gogh’s Ear](/wp-content/thumbnails/12566-100x70.jpg?x53432)
     
-    FluorideGate: An American Tragedy
+    The Mystery of Van Gogh’s Ear
     
-    FLUORIDEGATE the movie is a new documentary film that reveals the tragedy of how the United States government, industry, and trade associations protect and promote a policy known to cause harm to our](https://documentaryheaven.com/fluoridegate-an-american-tragedy/ "FluorideGate: An American Tragedy")
-* [![The Defectors](/wp-content/thumbnails/9493-100x70.jpg?x53432)
+    In 1888, in Provence, France, an event occurred that was so bizarre it would enter modern legend. In the red light district on the edge of town a foreigner arrived at the door of a brothel, he was bar](https://documentaryheaven.com/mystery-of-van-goghs-ear/ "The Mystery of Van Gogh’s Ear")
+* [![MythBusters: NASA Moon Landing](/wp-content/thumbnails/1109-100x70.jpg?x53432)
     
-    The Defectors
+    MythBusters: NASA Moon Landing
     
-    In this Sky News special reporter Mark Stone meets up with several North Korean defectors in order to give them a chance to be heard and tell their story of how life once was for them living in the No](https://documentaryheaven.com/defectors/ "The Defectors")
-* [![Rent A Rasta](/wp-content/thumbnails/1668-100x70.jpg?x53432)
+    Ever since man went to the moon-and still today as America plans to go back (via DIY, NASA or the next president) -there have been those who said we never actually made it there in the first place. In](https://documentaryheaven.com/mythbusters-nasa-moon-landing/ "MythBusters: NASA Moon Landing")
+* [![Cryonics: Death in the Deep Freeze](/wp-content/thumbnails/2786-100x70.jpg?x53432)
     
-    Rent A Rasta
+    Cryonics: Death in the Deep Freeze
     
-    When white women flock to Jamaica for a little fun in the sun, the R&R they’re often looking for is not “Rest and Relaxation” but to “Rent a Rasta” according to director J. Michael Seyfert. His ey](https://documentaryheaven.com/rent-a-rasta/ "Rent A Rasta")
-* [![Hillsborough: How They Buried the Truth](/wp-content/thumbnails/7551-100x70.jpg?x53432)
+    The first ever footage of a person being cryonically frozen is to be broadcast in a Channel Five documentary that will follow a woman who is terminally ill with cancer before and after her death.“We](https://documentaryheaven.com/cryonics-death-in-the-deep-freeze/ "Cryonics: Death in the Deep Freeze")
+* [![Half Ton Man](/wp-content/thumbnails/1453-100x70.jpg?x53432)
     
-    Hillsborough: How They Buried the Truth
+    Half Ton Man
     
-    The 1989 Hillsborough disaster was an incident that occurred during the FA Cup semi-final match between Liverpool and Nottingham Forest football clubs on 15 Apr](https://documentaryheaven.com/hillsborough-how-they-buried-truth/ "Hillsborough: How They Buried the Truth")
-* [![Big, Bigger, Biggest Space Station](/wp-content/thumbnails/4074-100x70.jpg?x53432)
+    Weighing the same as five baby elephants and a shade less than a Mini Cooper, Patrick Deuel is one of the heaviest men ever and a medical miracle. His heart and other organs should have collapsed long](https://documentaryheaven.com/half-ton-man/ "Half Ton Man")
+* [![WikiSecrets: Julian Assange, Bradley Manning, and WikiLeaks](/wp-content/thumbnails/13037-100x70.jpg?x53432)
     
-    Big, Bigger, Biggest Space Station
+    WikiSecrets: Julian Assange, Bradley Manning, and WikiLeaks
     
-    In Big, Bigger, Biggest: Space Station, Explore the world’s biggest space station.The International Space Station orbits 350 kilometres above our heads, hurtling around the Earth at almost 30,000](https://documentaryheaven.com/big-bigger-biggest-space-station/ "Big, Bigger, Biggest Space Station")
+    Bradley Manning was responsible for leaking more than half a million classified documents via the webisite WikiLeaks back in 2010. Manning was an Army intelligence analyst and in this film which was o](https://documentaryheaven.com/wikisecrets/ "WikiSecrets: Julian Assange, Bradley Manning, and WikiLeaks")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
