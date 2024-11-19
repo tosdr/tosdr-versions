@@ -125,18 +125,18 @@
     
 * Company
     
+    *  ![icon](https://www.parchment.com/wp-content/uploads/2023/01/resources1.svg) Resources
+        * [All Resources](https://www.parchment.com/resources/)
+        * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
+        * [Podcast](https://www.parchment.com/resources/podcast/)
+        * [Training](https://www.parchment.com/resources/training/)
+        ![icon](https://www.parchment.com/wp-content/uploads/2023/01/resources1.svg)
     *  [![parchment-network-002-icon](https://www.parchment.com/wp-content/uploads/2023/07/parchment-network-002-icon-40x40.png) About Us](https://www.parchment.com/company/about-us/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about2.svg) Leadership](https://www.instructure.com/about/leadership)
     *  [![icon-admit-yield](https://www.parchment.com/wp-content/uploads/2024/03/icon-admit-yield.svg) Advisory Board](https://www.parchment.com/company/advisory-board/)
     *  [![icon](https://www.parchment.com/wp-content/uploads/2023/01/about3.svg) Partners](https://www.parchment.com/company/partners/)
     *  [![about4 - icon](https://www.parchment.com/wp-content/uploads/2024/08/about4.svg) Careers](https://www.parchment.com/company/careers/)
     *  [![press icon](https://www.parchment.com/wp-content/uploads/2023/01/about5.svg) Press](https://www.parchment.com/resources/press/)
-    *  ![library-icon](https://www.parchment.com/wp-content/uploads/2023/07/library-icon-40x40.png) Resources
-        * [All Resources](https://www.parchment.com/resources/)
-        * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
-        * [Podcast](https://www.parchment.com/resources/podcast/)
-        * [Training](https://www.parchment.com/resources/training/)
-        ![library-icon](https://www.parchment.com/wp-content/uploads/2023/07/library-icon-40x40.png)
     
 * [Book a Demo](https://www.parchment.com/book-a-demo/)
 * Order & Status
@@ -714,17 +714,17 @@ Pricing
 
 Company
 
+* [ ]  Resources
+    * [All Resources](https://www.parchment.com/resources/)
+    * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
+    * [Podcast](https://www.parchment.com/resources/podcast/)
+    * [Training](https://www.parchment.com/resources/training/)
 * [About Us](https://www.parchment.com/company/about-us/)
 * [Leadership](https://www.instructure.com/about/leadership)
 * [Advisory Board](https://www.parchment.com/company/advisory-board/)
 * [Partners](https://www.parchment.com/company/partners/)
 * [Careers](https://www.parchment.com/company/careers/)
 * [Press](https://www.parchment.com/resources/press/)
-* [ ]  Resources
-    * [All Resources](https://www.parchment.com/resources/)
-    * [Events & Webinars](https://www.parchment.com/resources/events-webinars/)
-    * [Podcast](https://www.parchment.com/resources/podcast/)
-    * [Training](https://www.parchment.com/resources/training/)
 [Book a Demo](https://www.parchment.com/book-a-demo/) [Order & Status](https://www.parchment.com/students/order-status/)
 
 Order & Status
