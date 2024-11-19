@@ -1,6 +1,14 @@
-[Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+Shop Now
 
-[Get 20% Off on Orders $99+](https://www.art.com/gallery/id--b31321/best-sellers-posters.htm)
+20% Off on Orders $99+ Ends in..
+
+3DAYS7HRS16MINS
+
+20% Off on Orders $99+ Ends in..
+
+3DAYS7HRS16MINS
+
+Shop Now
 
 [](https://www.art.com/ "Art.com")
 
