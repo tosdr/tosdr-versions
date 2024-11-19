@@ -31,6 +31,357 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+¿Qué estamos haciendo con la naturaleza en Ecuador?
+===================================================
+
+En Azuay se presentaron denuncias en contra de los supuestos autores de los incendios en el Parque Nacional Cajas.
+------------------------------------------------------------------------------------------------------------------
+
+![Con helicópteros, bomberos y voluntarios se intenta apagar el fuego en el Parque Nacional Cajas y sus inmediaciones. Cortesía: Bomberos Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/11/cajas.jpg)
+
+Incendios forestales como el que afecta al **Parque Nacional Cajas** y sus inmediaciones en **Azuay** podrían ser provocados. Las autoridades locales presentaron **denuncias** en contra de los supuestos autores. Incluyen **pruebas y testimonios.**
+
+Solo pensar que fueron ocasionados, nos debe llevar a una **profunda reflexión**. ¿Cómo están los valores, conciencia… de la sociedad en Ecuador?
+
+> ¿Es posible que hayamos llegado a un punto en el que los intereses puntuales, económicos, políticos o de cualquier índole superen el bien común?
+
+El **Parque Nacional Cajas** tiene 28 544 hectáreas y se caracteriza por su geografía montañosa, lagunas y un ecosistema único que alberga una gran variedad de flora y fauna.
+
+La importancia del Cajas radica no solo en su valor ecológico, sino también en su papel como fuente de recursos hídricos. Las más de **200 lagunas** del parque son esenciales para el abastecimiento de agua potable y riego en Cuenca.
+
+Ecuador está pendiente de lo que ocurre con la sequía en Cuenca, que ya lleva 129 días. Es la más prolongada de los últimos 51 años. Desde 1973 se empezaron a llevar registros.
+
+Precisamente, el Parque Nacional Cajas es el **principal humedal** desde donde nacen los ríos cuencanos como el **Tomebamba**, que son vitales para el **embalse de Mazar.**
+
+Esta reserva es administrada, manejada, regulada y controlada por la empresa municipal Etapa desde el 2000. La intención es mantener intactos sus recursos naturales, pero ahora el impacto será muy grave.
+
+De forma preliminar, se estima que son más de 1 000 hectáreas consumidas por el fuego y hay impactantes imágenes de animales quemados y flora perdida.
+
+Los daños en otras provincias como **Loja** también son incalculables para la flora, fauna y la salud de las personas. Los habitantes de **Cuenca y Loja** respiraron a**ire entre poco saludable y peligroso**. Muy pocos usaron mascarillas porque aún no hay un nivel de conciencia de los efectos que se producen.
+
+Las **autoridades locales y las judiciales** tienen un **reto muy importante**. De ratificarse que estos incendios fueron provocados, los **jueces deben hacer cumplir la ley** y estar a la altura de los bomberos y voluntarios que se esfuerzan por apagar el fuego. 
+
+La construcción de los saberes
+==============================
+
+La transposición didáctica explica la evolución de los conceptos, desde los saberes expertos hasta los saberes escolares.
+-------------------------------------------------------------------------------------------------------------------------
+
+![La construcción de saberes -desde las teorías y métodos que las sustentan- implica una serie de procesos rigurosos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2-3.jpg)
+
+**La construcción de los saberes es un tema intocado en los sistemas educativos.** La razón estriba en que los profesores, en su mayoría, aceptamos los temas que aprueban los ministerios de Educación -sin beneficio de inventario-, en las mallas curriculares, que más tarde son desarrolladas por las empresas editoriales con especialistas en las cuatro macroáreas: **Lenguaje, Matemática, Ciencias Naturales y Estudios Sociales.**
+
+¿Cómo se construyen los saberes?
+--------------------------------
+
+**Es una pregunta a veces incómoda** porque la formación de los docentes está instalada en conocimientos descritos y explicados en manuales, guías o textos oficiales. **En pocas ocasiones se presentan discrepancias o propuestas argumentadas, desde el punto de vista científico**, para contribuir a la mejora de un texto escolar, salvo casos excepcionales cuando se identifican fallas de contenido. **Lo anterior parece obvio, porque los temas son públicos; por lo tanto, obligatorios y gratuitos.**
+
+La realidad es diferente: **los saberes son dinámicos, y no están escritos en piedras.** Los conocimientos científicos cambian no solo de un año escolar a otro -como se piensa-, sino de un mes a otro, de una semana u otra. **Los casos son evidentes en todas las ciencias, y no solo en la biología, como se cree.**
+
+**La construcción de saberes** -desde las teorías y métodos que las sustentan- **implica una serie de procesos rigurosos, que una disciplina ha intentado descifrar: la transposición didáctica.**
+
+Del conocimiento experto al saber enseñado
+------------------------------------------
+
+Una apreciación preliminar: todas las **“materias” o “asignaturas”** que se enseñan en los sistemas educativos formales y no formales, responden a modelos disciplinares que se inspiran en las **ciencias duras** -Matemática, Física, Química, Biología y Tecnología, fundamentalmente-, y en las **ciencias blandas o sociales** -Psicología, Sociología, Economía, Pedagogía, entre otras-.
+
+Existe un mapa de asignaturas -parecido a la **Tabla Periódica de los Elementos**\-, que sirvió en una época, pero que ahora es obsoleto. **Edgar Morin**, científico francés, fue el encargado de demoler la vigente sistematización de las ciencias en disciplinas, mediante **la teoría y método de la complejidad**; sin embargo, **el paradigma disciplinar subsiste porque agrada a los profesores y didactistas.**
+
+**¿Qué formula la transposición didáctica?** Intenta pasar o transferir, de manera coherente, el conocimiento experto -de filósofos, científicos, investigadores- a los estudiantes y, en primer lugar, a los docentes o enseñantes.
+
+En otros términos: **adapta los saberes científicos (difíciles y complicados, basados en fórmulas, axiomas y algoritmos) a las necesidades de aprendizaje de los estudiantes, según los grupos etarios.** Para ello utiliza la didáctica, entendida como la ciencia y el arte de enseñanza, creadas por **Juan Amos Comenio**, checo (1592), teólogo, filósofo y educador, quien lideró la revolución de la pedagogía y la didáctica como ciencias autónomas.
+
+Creadores
+---------
+
+**Yves Chevallard, didacta de las matemáticas,** propuso en 1975 la **teoría de la transposición didáctica** reconocida y aplicada en las numerosas disciplinas escolares, aunque algunos atribuyen la paternidad del concepto de transposición didáctica a **Michel Verret**, quien, en una tesis doctoral, planteó que **“la didáctica es la transmisión de aquellos que saben a aquellos que no saben, de los que han aprendido a aquellos que aprenden”.**
+
+Chevallard sostiene que “**el estudio de la transposición didáctica implica una “vigilancia epistemológica”,** esto es, examinar la distancia, vista por la deformación que existe entre el objeto de saber **(del saber erudito)** y el objeto de enseñanza **(del saber a enseñar).**
+
+Saberes transmitidos
+--------------------
+
+**Convertir una teoría en un objetivo de enseñanza es el punto focal de la transposición didáctica**, hoy asistida con una herramienta valiosa como es la **“Taxonomía de Bloom Digital”**, tratada en otro ensayo.
+
+En el presente caso, **la transmisión de los saberes no culmina con el aprendizaje memorístico -a veces sin entender-, sino en el desarrollo de competencias –**la comprensión es importante- para el logro del **aprendizaje autónomo y crítico, inscritos en otras habilidades como la investigación, de la mano de la observación, la experimentación y la aplicación del método científico.**
+
+En síntesis, dicen sus creadores, **es urgente evitar “la transmisión burocrática de los saberes, a través de un proceso de transformación -no mecánico- de los saberes sabios en saberes aprendidos”.**
+
+**¿Una política pública sobre la transposición didáctica?**
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-6-1024x683.jpg)
+
+Antonioni, la voracidad del vacío
+=================================
+
+Un cine de personajes alienados y solitarios que refleja la incomunicación y decadencia social.
+-----------------------------------------------------------------------------------------------
+
+![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
+
+En 1986, Michelangelo Antonioni (Italia, 1912-2007), uno de los grandes **directores del cine de oro** italiano y mundial, sufrió un accidente cerebrovascular que diezmó su porte gallardo y brioso, celebrado como el de uno de los más apuestos galanes de **cine** de su tiempo. La llanura de Ferrara donde nació formó su **sensibilidad creadora**. Horizonte sin finales. Niebla y presagio. Luz que dibuja y borra; altera, quebranta y reaviva; devasta y devora. Soledad originaria, desnuda, inviolada.
+
+La niebla cerrada y la luz deslucida de su primer documental, _Gente de Po_ (1947), devinieron recursos constantes de su **filmografía**. Los dos consumen a los **personajes** y entumecen el tiempo. Lejanía. Apartamiento de lo que nos rodea. Nuestros sentimientos –creía el **cineasta**– nacen, viven y mueren enfermos. Todas las **narraciones** de sus **filmes** se disipan como aventados por una ráfaga de la nada; sin embargo, dejan en el **espectador** señales imborrables. Es el **prodigio** del **cine arte**: asombro, extrañeza, desconcierto.
+
+Antonioni, el poeta del desarraigo
+----------------------------------
+
+El **ser humano** exiliado de él mismo, de los demás y de sus circunstancias, merodea el cine de Antonioni; personajes, los suyos, que se desvanecen como por encantamiento. Más que distanciamiento, ellos rezuman **denegación**, tedio, hartura de vivir, a veces, incluso, de lo soñado. Arquitecto de un universo propio, no solo se aparta de sus **protagonistas**, sino que los rehúsa. El **ser humano** como un rasgo en su escenario. Especie de **caligrafía** china. Va y viene, va y viene: ¿simples **marionetas** menguadas por la alienación y la incomunicación?
+
+**Aristócrata** sin escudo nobiliario, la vida de **Antonioni** fue la de un explorador de los recintos de nuestras interioridades. Desde su derrame cerebral, no podía hablar ni movilizarse, pero violentaba su mano izquierda para escribir. **Artista** de cultura universal, fue reconocido por su **escritura**, como crítico y autor de sus guiones. En 1995 reapareció con el filme _Más allá de las_ _nubes_. Relato de un amor que jamás existió. No obstante, un aire menudo sobrevuela para enseñarnos la nimiedad del **amor humano** ante la grandeza de quienes creen en el amor a un ser superior, somos “una cerilla en medio de una alcoba incendiada de sol”.
+
+En _El eclipse_ (1962) Mónica Viti encarna la soledad. El **legendario** actor Alain Delon es un mero **interlocutor** de ella, suerte de caja de resonancia. El filme es una **apología** de la **soledad** existencial. En la última escena asciende la música de Prokófiev y el poder secreto de su ritmo acerado. Los diálogos se silencian. Solo quedan Roma y sus calles desamparadas, árboles fantasmales y trazos de rostros a la deriva. Huida hacia la nada. Los contornos se difuminan y el tiempo se embalsama.
+
+El **tríptico** sobre la burguesía italiana, _La aventura_ (1960), _La noche_ (1961) y _El eclipse_ (1962), semeja un mural pintado en tres paneles sobre la **decadencia** y ruina de la burguesía de su país de origen y de toda Europa. Ensayo refinado de las posibilidades lingüísticas del cine como reproductor de revoluciones **sociopolíticas**. Cine de vuelos históricos sobre una **clase social** corroída por la vileza y el vacío.
+
+Julio Pollino Tamayo, crítico de cine, dice, sin ambages de _Blow-Up_: “Considero a _Blow-Up_ la única película indispensable de la historia del cine”. Se trata, sin duda, de un **filme excepcional**. Con base a un relato de Julio Cortázar, a quien el maestro lo muestra en un cameo (intervención fugaz), casi nada toma de este. Londres. **Artistas** del movimiento pop. **Aventura** de un fotógrafo que desvela un asesinato valiéndose de sus fotografías, pero que no le sirven para probar el delito. Abstracción pura. Esencia de la exclusión del ser de sí mismo. Orfandad, desamparo, desarraigo del ser. Transgresión. Ruptura. Misterio y magia. Soledad y vacío como nuestra única sustancia. Esta película de Antonioni es, acaso, la que más ha influido en **directores** y **cineastas**.
+
+No fue su última cinta, pero el **histórico cortometraje** _La mirada_ debió serlo. Él llega a una iglesia. Su sombra arrebatada por el camino lo precede como en un ceremonial. El maestro llevaba casi veinte años sin caminar. Pero él es capaz de retar su **debilidad** y transformar lo ilusorio o fantástico en realidad. Sí, es él. Lento y acaso solemne por algo que dejó para que discurrieran los demás, se acerca al sitio donde se está restaurando el _Moisés_ de Miguel Ángel, mucho tiempo alojado en las **tinieblas** de alguna bodega. _Moisés_ redivivo, Antonioni caminando. El milagro. Los cuerpos. Mármol y carne. El **cine**. El silencio. Juntos, en el vacío que sienten los dos. Antonioni sigue, ¿hacia dónde? ¿Hacia la luz que llene su vacío?
+
+Cartas a Quito / 19 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 19 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Hablemos de intergeneracionalidad
+---------------------------------
+
+Pronunciarlo es casi un trabalenguas, pero aproximarse a esta cuestión desde un ángulo jocoso o trivial, no supone a mi entender acierto. Su calado va mucho más allá y se codea con otros grandes retos de nuestra civilización en el momento en el que se encuentra, tales como la sostenibilidad. Sin embargo, no apreciamos su dimensión y mucho menos su repercusión, aunque como tantas otras cuestiones, su abordaje llegará pronto y no será un acto de voluntad sino de necesidad.
+
+Vivimos en la sociedad del desperdicio, y lo afirma esta viajera empedernida que ha recorrido muchos lugares del planeta en el que todo se aprovecha y recicla varias veces, dado que cuando se carece de hasta lo imprescindible, cualquier posesión/propiedad se considera un tesoro.
+
+Pero nuestra inconsciencia derrochadora es tal que no la limitamos a recursos naturales y materiales, sino que la extendemos a ámbitos del conocimiento, la experiencia, la creatividad, la genialidad. En una sociedad en la que perseguimos inclusión, léase movilidad, diversidad… establecemos acérrima discriminación en función de las edades. Sentenciamos “que si los jóvenes no saben, que si los viejos no entienden. “Topicazos”, que a menudo esconden nuestros propios egoísmos e inseguridades. Los factores económicos, en empresas y corporaciones, también nutren este despilfarro.
+
+Pero hemos de caer en la cuenta de que todo cambia y lo hace muy rápido. Y con una esperanza de vida alargada como los rayos de sol en un atardecer, los llamados viejos de antes son los madurit@s de hoy y probablemente serán jóvenes en un mañana.
+
+No caemos en la cuenta, de que el secreto de la supervivencia de nuestra especie es la adaptación, y que estamos programados para ello. Por tanto, las descalificaciones generales por cuestión de edad, basándonos en prejuicios, modas, miedos o intereses; vacuo valor tiene. Máxime, cuando si damos una oportunidad al individuo o individua, este nos demuestra que nos encontramos equivocados.
+
+Me reitero en que una sociedad inteligente, es aquella que aprovecha y valoriza todos sus recursos, naturales, materiales y humanos, y en esta gran cuestión de edadismo, se necesita un gran pacto. La involucración de todos los agentes, porque requiere de un cambio de mentalidad y eso no se logra de la noche a la mañana, con fuegos artificiales cuya pólvora se difumina en momentos.
+
+Integremos en nuestra agenda este nuevo reto y abandonemos ese camino fácil que nos lleva a una nueva fragmentación. Extraigamos el haber de cada ser humano para situarlo en el lugar que corresponde y que no es otro, que el que más le enriquece y como sociedad más nos aporta.
+
+No desechemos nada, no desterremos a nadie.
+
+Cristina Maruri
+
+Chófer de bus amenazó con un machete a otro conductor en Quito
+==============================================================
+
+La AMT y la cooperativa de transporte del bus involucrado se pronunciaron sobre el incidente ocurrido en el norte de Quito.
+---------------------------------------------------------------------------------------------------------------------------
+
+![El chófer del bus increpó al ciudadano con un machete](https://www.elcomercio.com/wp-content/uploads/2024/11/cochapamba-bus-machete-quito.jpg)
+
+Un altercado entre **dos conductores** que tuvo lugar en una calle del **norte de Quito** se viralizó en redes sociales. La actitud **violenta** de uno de ellos, quien a**menazó con un machete** a un ciudadano, trajo varias consecuencias.
+
+### Más noticias
+
+* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
+* [La actitud al volante es vital para el tránsito de Quito en los apagones](https://www.elcomercio.com/actualidad/quito/actitud-volante-transito-apagones-quito.html "La actitud al volante es vital para el tránsito de Quito en los apagones")
+* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
+
+Un hombre manejaba un vehículo liviano por una doble vía del barrio **Cochapamba** cuando se encontró con un **bus de transporte** urbano que subía de frente.
+
+Otros carros parqueados a los costados no permitían que ambos vehículos pasaran. Ante la negativa de ambos conductores de ceder el paso y retroceder, el chofer de la unidad **increpó al ciudadano** en varias ocasiones con un machete.
+
+En las imágenes se observa como una pequeña, que se encontraba en el vehículo liviano, comenzó a llorar, **atemorizada** por el incómodo momento.
+
+El video grabado por el conductor amenazado se difundió en **redes sociales** a las pocas horas de lo sucedido, la tarde del domingo 17 de noviembre de 2024.
+
+El violento hecho **causó molestia en la ciudadanía**, quienes solicitaban que la Agencia Metropolitana de Tránsito actuara[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
+
+AMT se pronunció tras el incidente
+----------------------------------
+
+Ante ello, la entidad a cargo de la movilidad en Quito difundió un comunicado en la que advirtió **la apertura de un proceso** para el conductor y la cooperativa.
+
+La AMT rechazó “todo tipo de violencia por parte de conductores de vehículos motorizados”y aseguró que remitirá un informe a la **Secretaría de Movilidad** para que se realice el respectivo proceso.
+
+Esto, “con la finalidad de establecer precedentes y prevenir otros actos similares”.
+
+Asimismo, la entidad se comprometió a **capacitar** a los demás conductores de la cooperativa de transporte involucrada.
+
+> 📢 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Ante el video que circula en redes sociales, la AMT rechaza 🚫 todo tipo de violencia en las vías.  
+> ✅ Hemos remitido el caso a la Secretaría de Movilidad.  
+>   
+> 🚍 ¡Conduce con respeto y empatía por un tránsito seguro para todos! 🚦  
+> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oStbTAmcsa](https://t.co/oStbTAmcsa)
+> 
+> — AMTQuito (@AMT\_Quito) [November 18, 2024](https://twitter.com/AMT_Quito/status/1858623850092601819?ref_src=twsrc%5Etfw)
+
+Conductor del bus habló de lo sucedido
+--------------------------------------
+
+Sobre el incidente también pronunció el chofer de la unidad 80, que brinda servicio en la ruta **Cochapamba – El Labrado**, en el Sistema Integrado Trolebús.
+
+El hombre identificado como **Jorge M.**, de 70 años, justificó su mal accionar en la molestia que le causó que el otro conductor no le cediera el paso.
+
+“Yo bajé a decirle al señor que por favor me dé paso, yo tengo un tiempo límite para subir y bajar por esta ruta, cómo me cerró el vidrio y no me dejaba pasar, **me indigné**“, comentó a los medios de comunicación.
+
+Sobre el porqué llevaba un **arma blanca** consigo, el conductor dijo: “Yo llevo el machete por seguridad, yo salgo a las 04:00 de mi casa y me toca llevarlo para cuidarme”.
+
+En sus declaraciones, el ciudadano **reconoció su error**: “Yo cometí un error, estoy consciente de eso, pero yo pienso que debía darme prioridad él a mí porque yo subía por la calle”, mencionó el conductor.
+
+Chófer fue separado de la cooperativa
+-------------------------------------
+
+Por su parte, el gerente de la cooperativa Catar, **Edwin Viveros**, ofreció disculpas a la ciudadanía por lo sucedido y aseguró que tras el hecho, **el chofer fue separado de forma indefinida** de la empresa de transporte público.
+
+“Estamos buscando los videos completos, sabemos que otros vecinos fueron testigos de lo que pasó, al parecer el incidente duró más de ocho minutos”, dijo Viveros.
+
+Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?
+==========================================================================================
+
+Los cortes de luz en Ecuador bajaron a 8 horas diarias gracias a la compra de energía de Colombia y mejores condiciones hídricas. La crisis eléctrica sigue impactando al país.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![La compra de energía desde Colombia se reanudó desde el 17 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/electricidad-2.jpg)
+
+Los **cortes de luz** se redujeron de 12 a ocho horas diarias desde este 18 de noviembre de 2024 en todo el Ecuador. La reducción de los **racionamientos eléctricos** responde a la **compra de energía a Colombia** y a la **mejora de las condiciones hídricas** de los afluentes de la zona oriental del país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
+* [Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia")
+* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
+
+La ministra de Energía, **Inés Manzano**, confirmó que la transferencia de energía desde Colombia se reanudó el domingo 17 de noviembre, con un promedio de entrega de 420 megavatios (MW) diarios. Para este lunes 18, se proyectó un incremento a 440 MW. Ambos países trabajaron en ajustes regulatorios para viabilizar esta transacción comercial**.**
+
+¿Por qué podemos importar energía desde Colombia?
+-------------------------------------------------
+
+**Ecuador y Colombia** están conectados a través de un sistema de interconexión eléctrica. Esto les permite intercambiar energía según las necesidades y capacidades de cada país, señaló **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha. . Esta red tiene una capacidad de transmisión de hasta 450 MW.
+
+Además, el 15 de noviembre de 2024, Colombia aprobó una resolución que permitió retomar las exportaciones hacia Ecuador, después de haberlas suspendido el 30 de septiembre. La venta de energía se interrumpió debido a la grave crisis hidrológica que atraviesa la región.
+
+Esto llevó a Colombia a preservar el agua de sus **embalses hidráulicos** y recurrir a la generación de energía térmica para abastecer su mercado interno. Sin embargo, durante la segunda semana de noviembre, los embalses colombianos recuperaron más del 60% de su capacidad, lo que permitió reanudar las exportaciones hacia Ecuador.
+
+Un modelo basado en excedentes
+------------------------------
+
+La compra de energía a **Colombia actual** no es un **acuerdo a largo plazo**, sino una relación de compra diaria, sujeta al nivel de los embalses y la disponibilidad de excedentes, explicó la ministra Manzano.
+
+Esto incluye energía generada a partir de combustibles líquidos (diésel y fueloil), térmica, generada con gas natural o carbón e incluso provenientes de fuentes **hidráulicas**, en ese orden de prioridad. Es decir, la energía que venden a Ecuador proviene primero de combustibles líquidos, que es la más costosa.
+
+Precio de la energía importada
+------------------------------
+
+El precio del kilovatio hora (kWh) varía según la fuente de generación.
+
+* La energía producida con diésel o fuel oil oscila entre 35 y 45 centavos de dólar, es la que estamos pagando en este momento.
+* La generada con gas natural o carbón se sitúa entre 15 y 30 centavos de dólar.
+* La energía hídrica, la más económica, está por debajo de los 15 centavos de dólar por kWh.
+
+Crisis hídrica impacta centrales hidroeléctricas clave del Ecuador
+------------------------------------------------------------------
+
+Recordemos que **Ecuador** atraviesa una grave **crisis eléctrica** desde hace casi dos meses. El déficit energético de 1 080 MW, acompañado de una de las peores sequías de los últimos 60 años, ha obligado a las autoridades a programar continuos y prolongados **cortes de luz** y a buscar energía en el país vecino.
+
+La falta de agua afecta la **generación hidroeléctrica** del Ecuador. Por ejemplo, el Complejo Hidroeléctrico Paute, en el Austro del país, no puede operar al 100% por falta del recurso hídrico.
+
+Este Complejo Hidroeléctrico está integrado por las centrales **Mazar, Paute-Molino y Sopladora**, que juntas alcanzan una potencia instalada de 1 700 MW.
+
+Sin embargo, el 18 de noviembre solo operaron **Paute-Molino**, con tres de sus 11 turbinas, y **Sopladora**, con una de sus cuatro unidades. Ambas centrales reanudaron operaciones a partir de las 13:00 de este lunes, tras estar inactivas los días 16 y 17 de noviembre. Por su parte, **Mazar** sigue fuera de operación desde el 15 de noviembre.
+
+El **embalse Mazar**, que alimenta estas tres centrales, está en un nivel crítico, señaló, **Acuña**. La cota del reservorio se ubicó en 2 110,99 metros sobre el nivel del mar (m.s.n.m), cuando el nivel mínimo recomendado para operar sin riesgo es de 2 115.
+
+Es decir, le falta completar una altura de más de 4 metros con agua. Este reservorio tiene una extensión de 31 kilómetros.
+
+Condición de Coca Codo Sinclair
+-------------------------------
+
+Por su parte, la central **Coca Codo Sinclair**, ubicada entre las provincias de **Napo y Sucumbíos**, en la Amazonía del Ecuador, operó a un promedio del 20% de su capacidad la segunda semana de noviembre. Sin embargo, el Ministerio de Energía reportó un incremento de generación, debido a la mejora de los caudales entre el 16 y 17 de noviembre. Esto, junto a la energía proveniente de Colombia, contribuyó a la reducción de horas de cortes de luz desde este 18 de noviembre.
+
+Para el presidente del Colegio de Ingenieros Eléctricos de Pichincha, el **acuerdo de compra de energía de Colombia** alivia **temporalmente la crisis en Ecuado**r. Sin embargo, señaló la importancia de **preservar los embalses nacionales** y realizar mantenimientos en las **centrales térmicas** para garantizar un sistema eléctrico estable en el futuro cercano.
+
+Clases se modifican en Azuay y Loja por fuertes incendios forestales
+====================================================================
+
+El Ministerio de Educación cambió la modalidad de clases en escuelas y colegios de Azuay y Loja por los voraces incendios forestales.
+-------------------------------------------------------------------------------------------------------------------------------------
+
+![Las clases en tres cantones del sur de Ecuador cambiaron su modalidad](https://www.elcomercio.com/wp-content/uploads/2024/11/incendios-forestales-clases.jpg)
+
+El **Ministerio de Educación** informó las **escuelas y colegios** de tres cantones del sur de Ecuador cambiarán la modalidad de sus **clases** a **no presenciales**. La decisión obedece a la emergencia por **incendios forestales** que se registra en **Azuay y Loja**.
+
+### Más noticias
+
+* [Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-incendios-creados-manabi.html "Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí")
+* [Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía](https://www.elcomercio.com/actualidad/ecuador/ecuador-declara-emergencia-nacional-por-incendios-deficit-hidrico-y-sequia.html "Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía")
+* [Loja y Azuay suman miles de hectáreas quemadas](https://www.elcomercio.com/actualidad/ecuador/loja-azuay-suman-miles-hectareas-quemadas.html "Loja y Azuay suman miles de hectáreas quemadas")
+
+Al menos 3 700 hectáreas destruidas en los incendios forestales
+---------------------------------------------------------------
+
+Según el último informe del Ministerio del Ambiente, Agua y Transición Ecológica (Maate), compartido la tarde de este lunes 18 de noviembre de 2024, los incendios forestales avanzan en estas dos provincias.
+
+Los trabajos en las parroquias de **San Pedro de Vilcabamba, Malacatos y Vilcabamba** continúan. La afectación en estos lugares asciende a las **3 709 hectáreas**,
+
+En el **Parque Nacional Podocarpus**, provincia de Loja, 136 efectivos de varias instituciones continúan con los trabajos de control de las **llamas**.
+
+Los fuertes incendios forestales registrados en Azuay y Loja, que comenzaron a extenderse el sábado 9 de noviembre, llevaron a que las autoridades declaren la **emergencia** en la zona por **60 días**.
+
+Clases no presenciales en Azuay y Loja
+--------------------------------------
+
+Ante esta emergencia, el Ministerio de Educación emitió un comunicado este lunes 18 de noviembre. En el documento se informó que los **estudiantes** de algunas unidades educativas de Azuay y Loja recibirán sus clases bajo la **modalidad no presencial**.
+
+La cartera de Estado aplicará esta medida hasta el **miércoles 20 de noviembre** en todas las instituciones del cantón **Loja** y en 13 de **Cuenca y Nabón**, hasta el martes 19 de noviembre.
+
+Sin embargo, las autoridades **no detallaron** en el documento cuáles son las escuelas y colegios en Azuay en las que la modalidad se ajusta.
+
+Hasta este lunes 18 de noviembre, una decisión ministerial similar incluía a **21 unidades educativas**. Estas fueron:
+
+### Cuenca:
+
+* Unidad Educativa Alonso González.
+* Escuela de Educación Básica Ecuador Amazónicos.
+* Unidad Educativa Cornelio Hidalgo.
+
+### Nabón:
+
+* Escuela de Educación Básica Los Andes.
+* Escuela de Educación Básica Río Amazonas.
+* Unidad Educativa Víctor León Vivar
+
+### Loja:
+
+* Centro de Educación Inicial Antonio Peña Celi.
+* Centro Educativo Comunitario Intercultural Bilingüe José Vicente Andrade.
+* ⁠Colegio PCEI Vilcabamba.
+* ⁠Colegio Vilcabamba.
+* ⁠Escuela Dolores Palacio Bravo.
+* ⁠Escuela Dra. Piedad Burneo Ojeda.
+* ⁠Escuela Francisco Javier Salazar.
+* ⁠Escuela Gonzalo Abad Grijalva.
+* ⁠Escuela Juan Montalvo.
+* ⁠Escuela Julián de Rúa Pizarro.
+* ⁠Escuela Manuel Riofrío Mora.
+* ⁠Escuela Particular La Calandria.
+* ⁠Escuela 13 de Abril.
+* ⁠Escuela Rosa Cevallos de Ludeña.
+* ⁠Unidad Educativa San Pedro de Vilcabamba.
+
+Otras medidas ante los incendios forestales
+-------------------------------------------
+
+Asimismo, las autoridades postergaron el **desfile estudiantil** que se iba a realizar en conmemoración de los 204 años de Independencia de Loja, el 17 de noviembre, como medida preventiva,
+
+Además, se evalúan las **infraestructuras** de los centros escolares aledaños a los incendios para identificar posibles afectaciones por la emergencia.
+
+El Ministerio de Educación instó a los estudiantes, padres de familia, docentes y trabajadores que cuiden su salud utilizando **mascarillas** y evitando realizar actividades al aire libre.
+
+> \[COMUNICADO\] Ante la emergencia por los incendios forestales, informamos a la comunidad educativa lo siguiente:  
+>   
+> 🏫 Clases en modalidad no presencial en todas las instituciones educativas en el cantón Loja el 19 y 20 de noviembre.  
+>   
+> 🏫 13 instituciones de los cantones Cuenca y… [pic.twitter.com/0edZrMWCit](https://t.co/0edZrMWCit)
+> 
+> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [November 18, 2024](https://twitter.com/Educacion_Ec/status/1858653612794147315?ref_src=twsrc%5Etfw)
+
 Cristian Ramírez revela por qué volvió a la Selección de Ecuador
 ================================================================
 
@@ -818,370 +1169,3 @@ Cerca de donde vive murió el día del **temporal Pepe Magraner**, un hombre de 
 Los mayores de 70 años fueron los que más sufrieron el primer envite del temporal, con al menos 104 fallecidos del total, y ahora siguen siendo **uno de los colectivos más vulnerables** porque sus dolencias se han complicado.
 
 Durante los primeros días, muchos se quedaron sin luz y **tuvieron problemas** para conseguir agua potable, **comida variada y medicinas,** cosa que ya se está traduciendo en complicaciones de salud para las personas con patologías de base.
-
-Liga de Portoviejo confirmó horario para recibir al Deportivo Quito
-===================================================================
-
-Liga de Portoviejo le puso precio a las entradas para recibir al Deportivo Quito en el Ascenso Nacional.
---------------------------------------------------------------------------------------------------------
-
-![César Espíndola (1) y Jhojan Riascos, jugadores de Liga de Portoviejo.](https://www.elcomercio.com/wp-content/uploads/2024/11/portoviejo_revancha_1.jpg)
-
-Las escuadras de **Liga de Portoviejo y el Deportivo Quito** jugarán el partido más esperado de la revancha de los cuartos de final del Torneo de Ascenso Nacional.
-
-En la ida, **Liga de Portoviejo le ganó 0-1 al Deportivo Quito** con un tanto de Jackson Landazury en un repleto estadio Gonzalo Pozo Ripalda, que por unos pocos segundos quedó en silencio por esta anotación de los visitantes.
-
-### Más noticias:
-
-* [Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-amenaza-con-dar-la-sorpresa-a-colombia-en-eliminatorias.html "Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias")
-* [Independiente del Valle solicita que se anule la sanción a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-solicita-que-se-anule-la-sancion-liga-de-quito.html "Independiente del Valle solicita que se anule la sanción a Liga de Quito")
-* [Liga de Quito asegura que sanción de la FEF no procede](https://www.elcomercio.com/deportes/futbol/isaac-alvarez-sancion-fef-guerra.html "Liga de Quito asegura que sanción de la FEF no es procedente")
-
-Los dirigentes de los manabitas esperan que el **Reales Tamarindos esté al tope de su capacidad** y pusieron a la venta los boletos con precios populares. Las generales tendrán un valor de cuatro dólares, las más baratas de todas las que están a disposición de la hinchada.
-
-La preferencia costará 5 dólares, la tribuna 8, el palco norte y sur 10 (5 para los niños) y el palco vip 15 (7.50 para los niños).
-
-En el Gonzalo Pozo Ripalda más de 15 000 hinchas de la ‘AKD’ coparon todas las localidades puestas a sus disposición, **mientras que un puñados de seguidores de la ‘Capira’** se hicieron presentes en un sector de la general norte.
-
-La campaña de los dos equipos
------------------------------
-
-Los manabitas están invictos jugando en casa. En los treintaidosavos de final derrotaron 2-1 a Estrella Roja de Azuay, **en los dieciseisavos vencieron 1-0 a Daquilema FC de Cotopaxi**, y en los octavos de final 2-0 a Naranja Mekánica de Guayas.
-
-El Quito fuera de casa le ganó 1-2 a Santa Elena SC en Guayaquil, **empató 0-0 con Catera Orense en Machala**, y volvió a empatar 1-1 contra Toreros FC en Guayaquil.
-
-El ganador de esta llave jugará contra el **22 de Julio (Esmeraldas) vs. Aviced (Azuay)**. La ida se disputó en el Folke Anderson y terminó empatado 0-0. La revancha será en el Alejandro Serrano Aguilar.
-
-Los otros semifinalistas se conocerán de los cruces entre Atlético Vinotinto (Pichincha) vs. La Paz (Manabí), y Cuenca Jrs. (Azuay) vs. La Unión (Cotopaxi).
-
-Cuartos de final – vuelta
--------------------------
-
-### Viernes 22/11
-
-**12:00 Aviced vs. 22 de Julio  
-**Ida: 0-0  
-Estadio: Alejandro Serrano Aguilar  
-Ciudad: Cuenca
-
-Sábado 23/11
-------------
-
-**11:30 Atlético Vinotinto vs. La Paz  
-**Ida: 1-0  
-Estadio: Olímpico Atahualpa  
-Ciudad: Quito
-
-Domingo 24/11
--------------
-
-**11:00 Cuenca Jrs. vs. La Unión  
-**Ida: 0-1  
-Estadio: Alejandro Serrano Aguilar  
-Ciudad: Cuenca
-
-**15:00 Liga de Portoviejo vs. Deportivo Quito  
-**Ida: 1-0  
-Estadio: Reales Tamarindos  
-Ciudad: Portoviejo
-
-San viernes
------------
-
-¿Cuándo juega Ecuador vs. Colombia por eliminatorias?
-=====================================================
-
-Las eliminatorias sudamericanas cierran su actividad de 2024, y Ecuador buscará sumar en un difícil compromiso ante Colombia.
------------------------------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo en un partido entre Ecuador y Colombia en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-18T163852.854.jpg)
-
-La **Selección de Ecuador** disputará su último partido del año frente a Colombia, correspondiente a la duodécima jornada de las eliminatorias sudamericanas rumbo al Mundial de Estados Unidos, México y Canadá 2026.
-
-El equipo tricolor llega con el ánimo en alto tras golear 4-0 a Bolivia en el Estadio Monumental, en lo que fue el segundo triunfo bajo la dirección técnica de **Sebastián** **Beccacece**.
-
-### Más noticias:
-
-* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
-* [Colombia enfrenta una dura sanción para el partido contra Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-enfrenta-una-dura-sancion-para-el-partido-contra-ecuador.html "Colombia enfrenta una dura sanción para el partido contra Ecuador")
-* [Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-patron-ecuador-regresa-colombia.html "Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia")
-
-Actualmente, **Ecuador** ocupa la **quinta posición en la tabla, con 16 puntos** en 11 partidos, lo que lo coloca en puestos de clasificación directa. Por su parte, Colombia es tercera con 19 puntos. Cabe recordar que Ecuador inició las eliminatorias con tres puntos menos debido a una sanción impuesta por el caso Byron Castillo en el proceso anterior.
-
-¿Cuándo y dónde se jugará el partido?
--------------------------------------
-
-El duelo entre Ecuador y Colombia, válido por la duodécima jornada, se disputará este **martes 19 de noviembre** en el Estadio Metropolitano Roberto Meléndez de Barranquilla, Colombia.  
-El encuentro está programado para las **18:00 (hora de Ecuador)**.
-
-Este será el segundo compromiso del día, luego del Bolivia vs. Paraguay (15:00). Los siguientes encuentros serán: **Argentina vs. Perú** y Chile vs. Venezuela (19:00), y cerrará la jornada Brasil vs. Uruguay (19:45).
-
-Historial de Ecuador en suelo colombiano
-----------------------------------------
-
-Ecuador y Colombia se han e**nfrentado 21 veces** en eliminatorias, con un balance desfavorable para los tricolores como visitantes.
-
-En los 10 partidos disputados en territorio colombiano, la selección local ha logrado seis victorias, tres empates y solo una derrota. Colombia ha marcado 13 goles en estos enfrentamientos, mientras que Ecuador solo ha anotado en tres ocasiones.
-
-La única victoria de Ecuador en suelo colombiano fue el **20 de julio de 1965**, cuando **Washington Muñoz** marcó el gol del triunfo por 0-1. Aquel partido correspondía a las eliminatorias para el Mundial de Inglaterra 1966, y desde entonces, los tricolores no han vuelto a ganar en territorio cafetero.
-
-### Ficha del partido
-
-**Colombia** vs. Ecuador
-
-**Fecha**: Martes 19 de noviembre.
-
-**Hora**: 18:00.
-
-**Estadio**: Metropolitano Roberto Meléndez.
-
-No te pierdas nuestro especial de Halloween
--------------------------------------------
-
-Adiós a Bela Karolyi, el polémico entrenador de Nadia Comaneci
-==============================================================
-
-Bela Karolyi saltó a la fama internacional como el artífice de los éxitos de la gimnasta rumana Nadia Comaneci.
----------------------------------------------------------------------------------------------------------------
-
-![Nadia Comaneci fue una de las deportistas más aclamadas en el mundo. Bela Karolyi fue un entrenador importante para ella.](https://www.elcomercio.com/wp-content/uploads/2024/11/nadiacomaneci.jpg)
-
-El mundo de la **gimnasia artística** está de luto tras el fallecimiento de **Bela Karolyi**, uno de los entrenadores más influyentes y controversiales de la historia del deporte, a los 82 años. Fue guía de **Nadia Comaneci**.
-
-Nacido en Cluj-Napoca, Rumanía, **Karolyi** saltó a la fama internacional como el artífice de los éxitos de la gimnasta rumana **Nadia Comaneci,** quien, bajo su tutela, hizo historia en los Juegos Olímpicos de Montreal 1976 al obtener el primer ‘**10 perfecto**‘ en la historia de la gimnasia olímpica.
-
-### Más noticias:
-
-* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
-* [Colombia enfrenta una dura sanción para el partido contra Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-enfrenta-una-dura-sancion-para-el-partido-contra-ecuador.html "Colombia enfrenta una dura sanción para el partido contra Ecuador")
-* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
-
-Bela Karolyi dejó huella
-------------------------
-
-**Karolyi** también dejó una huella imborrable en la gimnasia estadounidense, al entrenar a **Mary Lou Retton**, quien ganó el oro en los **Juegos Olímpicos de Los Ángeles 1984**, convirtiéndose en la primera mujer estadounidense en obtener el título en el concurso general.
-
-Sin embargo, su legado no estuvo exento de **polémica** debido a sus estrictos y a menudo cuestionados métodos de entrenamiento.
-
-Famoso por su disciplina rigurosa y su enfoque implacable, Karolyi fue criticado por su trato duro hacia las gimnastas, a quienes obligaba a entrenar incansablemente, incluso cuando estaban lesionadas.
-
-Un ejemplo de ello fue el caso de Kerri Strug en los Juegos Olímpicos de **Atlanta 1996**, cuando, a pesar de una lesión en el tobillo, **Karolyi** la hizo saltar para asegurar la medalla de oro para Estados Unidos.
-
-Tras abandonar Rumanía en 1981**, Karolyi** y su esposa Marta se establecieron en Texas, donde abrieron un centro de alto rendimiento y entrenaron a numerosas gimnastas de élite.
-
-A lo largo de su carrera, formó a varias campeonas olímpicas y mundiales como **Nadia Comaneci**, pero su nombre también quedó marcado por las denuncias de maltrato físico y emocional a las gimnastas, las cuales resurgieron en los últimos años, en un contexto marcado por el escándalo de abusos sexuales del doctor Larry Nassar.
-
-A pesar de las controversias, **Karolyi** dejó un legado perdurable que transformó la gimnasia estadounidense y global.
-
-Nadia Comaneci
---------------
-
-**Nadia Comaneci**, gimnasta rumana, hizo historia en los Juegos Olímpicos de Montreal 1976 al obtener el primer 10 perfecto en la historia de la gimnasia artística.
-
-Con solo 14 años, su logro la convirtió en una estrella mundial. Comaneci ganó múltiples medallas olímpicas y es considerada una leyenda del deporte.
-
-> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCc1ex3pJWU/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [Una publicación compartida por Nadia Comaneci (@comaneci10)](https://www.instagram.com/p/DCc1ex3pJWU/?utm_source=ig_embed&utm_campaign=loading)
-
-La lluvia vuelve a Quito, luego de varias mañanas nubladas
-==========================================================
-
-Esta semana volverán las lluvias a Quito. La semana pasada, la nubosidad llegaba desde la Amazonía, pero se disipaba por las tardes.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Quito, en estos días amanecía nublado, pero no llovía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-67.jpg)
-
-En los últimos días, **Quito amanecía nublado y frío.** Parecía que las **lluvias** eran inevitables, pero por la tarde, **se despejaba el cielo** y volvían los calores. Se debe a un comportamiento según los niveles de la atmósfera. Sin embargo, este **lunes 18 de noviembre del 2024,** volvieron las lluvias en algunas partes de la ciudad.
-
-### Más noticias
-
-* [Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-desbordamientos-clima-semana-18-22-noviembre.html "Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre")
-* [Quito tendrá el desfile de los mercados por sus fiestas](https://www.elcomercio.com/actualidad/quito/quito-tendra-desfile-mercados-fiestas.html "Quito tendrá el desfile de los mercados por sus fiestas")
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
-
-Desde temprano, el **Instituto Nacional de Meteorología e Hidrología (Inamhi)** registró lluvias con tormentas en **Machachi**, y que poco a poco fueron dirigiéndose al sur de Quito. Ya por la tarde, vecinos del **Valle de los Chillos** dieron cuenta de precipitaciones en su zona. En el norte, caía una llovizna.
-
-“Justamente desde el día de ayer, ya presenciamos condiciones favorables para las lluvias en horas de la mañana, porque en la **Amazonía** ha llovido estos días. La humedad penetraba en la parte norte de la Sierra”, dice C**ristina Valdiviezo**, del departamento de pronósticos del Inamhi[.](https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador) "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador)")
-
-Quito, con mañanas nubladas y sin lluvias
------------------------------------------
-
-En los últimos días, **los amaneceres en Quito fueron fríos y nublados**. Luego, volvía el calor y el **tiempo seco.** Era el efecto de la humedad que llegaba desde el norte de la Amazonía.
-
-Este fenómeno se da, según cuenta Valdiviezo, porque tenemos condiciones favorables **en un nivel de la atmósfera** para que se den precipitaciones, pero, **en un nivel más alto de la atmósfera**, tenemos **otras condiciones** y que provoca que estas lluvias se corten y “que no se produzca un desarrollo vertical, que las nubes no crezcan”.
-
-Los niveles de la atmósfera
----------------------------
-
-Los técnicos del **Inamhi** analizan los diferentes **niveles de la atmósfera.** El nivel en que se encuentra Quito, es de hasta **700 hectopascales**, la medida de la presión atmosférica, que equivale a los **3 000 metros sobre el nivel del mar (msnm).**
-
-**“En este nivel existen condiciones favorables** para que se den precipitaciones, hay humedad y hay convergencia de viento, que se unen y ascienden a los niveles superiores”, dice Valdiviezo.
-
-El **segundo nivel** está a **500 hectopascales**, lo que vendría a ser de **5 000 msnm**. En ese nivel, los **vientos no convergen y no permiten que la nube siga creciendo.**
-
-Un **tercer nivel,** que ya está mucho más alto, es de **250 hectopascales.** La altura equivaldría a **10 000 msnm.** “En ese nivel tampoco tenemos condiciones favorables para la lluvia, porque **no hay convergencia de vientos e incluso no tenemos humedad”.**
-
-Eso explica por qué, la lluvia no se había producido en Quito, incluso a pesar de la temperatura que, por el frío, parecía favorable para las precipitaciones en la capital en los días pasados.
-
-  
-
-  
-
-El Senado, la última barrera de Trump en la formación de su controvertido Gobierno
-==================================================================================
-
-La Cámara Alta supervisa el nombramiento de los miembros del Ejecutivo, de los jueces federales y del Tribunal Supremo.
------------------------------------------------------------------------------------------------------------------------
-
-![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-noviembre-1.jpg)
-
-El controvertido Gobierno que está perfilando el **presidente electo** de Estados Unidos, [Donald Trump,](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html") está sometido no solo al **escrutinio público,** sino también al del Senado, cámara de la que depende la **autorización de los nombramientos** y que podría frenar los **planes del político republicano.**
-
-### Más noticias
-
-* [Matt Gaetz fue nominado a fiscal general de Donald Trump](https://www.elcomercio.com/actualidad/mundo/matt-gaetz-nominado-fiscal-general-donald-trump.html "Matt Gaetz fue nominado a fiscal general de Donald Trump")
-* [Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/kristi-noem-sera-secretaria-seguridad-nacional.html "Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos")
-* [Donald Trump avanza en el diseño de su Gabinete](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "Donald Trump avanza en el diseño de su Gabinete")
-
-En manos de ese hemiciclo está dar el visto bueno como secretario de **Sanidad al antivacunas Robert F. Kennedy Jr.**, como fiscal **general a Matt Gaetz,** investigado en el pasado por abuso de una menor, o como **secretario de Defensa a Pete Hegseth**, que pagó a una mujer para silenciar su acusación de asalto sexual, entre otros puestos en el punto de mira.
-
-¿Qué cargos dependen de la autorización del Senado?
----------------------------------------------------
-
-La **Cámara Alta** supervisa el nombramiento de los **miembros del Ejecutivo**, de los jueces federales y del Tribunal Supremo, de los embajadores y **altos cargos diplomáticos** y de los directores de agencias federales destacadas, como la **CIA o el FBI.**
-
-No tiene en su mano en cambio **validar otros funcionarios clave**, como el vicepresidente, los asesores de la Casa Blanca o el jefe de gabinete del mandatario en la Casa Blanca.
-
-El proceso requiere que el nominado presente una **declaración financiera y testifique** ante un comité del Senado. Una vez concluida esta etapa, el **comité vota sobre la nominación**, y, si es aprobada, el candidato pasa a ser sometido a la votación final en el pleno del Senado.
-
-¿Cuántos votos se necesitan?
-----------------------------
-
-La mayoría simple, 51 de los 100 senadores. Tras las elecciones del pasado 5 de noviembre y a partir del 3 de enero, el **Partido Republicano controlará 53 escaños,** pero en las filas conservadoras hay voces que se han levantado ya en contra de algunos de los nombramientos más polémicos.
-
-Si se produjera un **empate con 50 votos a favor y 50 en contra,** el voto decisivo lo tendría el presidente del Senado, un puesto que ocupará el actual senador de Ohio, J.D. Vance.
-
-¿Se puede evitar el voto del Senado?
-------------------------------------
-
-Trump, que asumirá el poder el 20 de enero, podría acogerse a los **Nombramientos en Receso**, una cláusula establecida en el artículo II de la **Constitución que estipula que el presidente** tiene el poder de llenar todas las vacantes durante un periodo sin sesiones en el Senado.
-
-Serían nombramientos temporales, hasta la siguiente sesión, pero en la **práctica esa designación** podría estar en vigor dos años y el presidente puede nominar en receso a una misma persona de forma sucesiva, según el Servicio de Investigación del Congreso.
-
-El magnate neoyorquino dejó caer que podría acogerse a esa medida y el futuro líder de la mayoría conservadora en el Senado, John Thune, comentó que es una posibilidad que está sobre la mesa, aunque confía en que la colaboración con los demócratas evite llegar a ese punto.
-
-**Ni el Senado ni la Cámara de Representantes** pueden entrar en receso durante más de tres días sin el consentimiento de la otra cámara, pero los republicanos tendrán el control de ambas a partir de enero. En caso de no haber acuerdo entre las cámaras, el **presidente puede también aplazarlas** hasta el tiempo que considere apropiado.
-
-¿Hubo nombramientos en receso en el pasado?
--------------------------------------------
-
-Los exmandatarios republicanos **Ronald Reagan** (1981-1989), **George H. W. Bush** (1989-1993) y **George W. Bush** (2001-2009) y los demócratas **Bill Clinton** (1993-2001) y Barack Obama (2009-2017) utilizaron nombramientos en receso, aunque para puestos de perfil bajo.
-
-Esa práctica, sin embargo, no estuvo exenta de controversias. En junio de 2014, el Tribunal Supremo consideró que Obama excedió su **autoridad constitucional** con este tipo de designaciones y determinó que el Senado debe estar en receso al menos diez días para que puedan realizarse.
-
-¿Hay antecedentes de rechazos?
-------------------------------
-
-En los últimos **100 años el Senado** solo se puso a tres nominaciones, todas ellas impulsadas por presidentes republicanos: **Charles Warren como fiscal general** en 1925, Lewis Strauss como secretario de Comercio en 1959 y **John Tower como secretario de Defensa en 1989**.
-
-El **Servicio de Investigación del Congreso** recuerda que en la práctica las nominaciones rara vez son rechazadas en el pleno del Senado, porque los **candidatos más controvertidos** no suelen llegar hasta ese momento decisivo. 
-
-La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia
-=====================================================================
-
-La Selección de Ecuador trabaja a puerta cerrada en Guayaquil y viajará a Colombia para su próximo partido de eliminatorias.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Pervis Estupiñán, Enner Valencia y Piero Hincapié en un partido de eliminatorias de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T160936.279.jpg)
-
-La **Selección de Ecuador** trabaja a puerta cerrada para planear el duelo del próximo martes 19 de noviembre de 2024 ante **Colombia**. Aquello en la duodécima fecha de las eliminatorias sudamericanas al Mundial 2026.
-
-Aún con el sabor de la goleada 4-0 del pasado jueves ante Bolivia, en Guayaquil, el equipo de **Sebastián Beccacece** ha preferido aislarse de las cámaras para forjar el juego en su visita a la selección cafetera.
-
-### Más noticias:
-
-* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
-* [Las fortalezas de la Selección de Ecuador con Beccacece](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html "Las fortalezas de la Selección de Ecuador con Beccacece")
-* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
-
-La **Selección de Ecuador** se entrena en la cálida ciudad costera de Guayaquil para intentar recrear el ambiente de la urbe barranquillera. No contará con el delantero **Leonardo Campana** ni el lateral Angelo Preciado, así como con Ángel Mena, quien se retiró de la selección nacional en el duelo con Bolivia.
-
-Y es que la Tri no está para distraerse en llegar al Mundial y se mantiene en el quinto puesto de la tabla. Pese a que partió la eliminatoria con menos tres puntos por una sanción internacional, esta parece haberse olvidado por el caso del jugador **Byron Castillo.**
-
-La Selección de Ecuador apuesta por la posesión
------------------------------------------------
-
-La afición está contenta con el trabajo de **Sebastián Beccacece** que ha logrado solidificar su defensa y conjugar el orden y precisión al momento de intentar avanzar en ofensiva.
-
-Ese trabajo posesivo y desgastante sobre el rival, que se vio muy claro en el partido ante **Bolivia**. Así dejó la sensación de que el equipo podría llegar a ser contundente en el ataque, algo que la afición y la prensa local reclamaban.
-
-Tras dejar a punto el equipo, Beccacece y sus dirigidos esperan partir a Barranquilla este 18 de noviembre. El DT prevé “**jugar de igual a igual**” contra una de las selecciones a las que más respeta y resalta por su buen nivel[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-El técnico sabe que los cafeteros se fortalecen en el estadio ‘Metropolitano’, por eso ha pedido a sus **dirigidos** estar preparados al momento de sufrir los embates de un equipo contundente. El cuadro colombiano, además, cuenta con una alta dosis de efectividad en los **tiros libres y de esquina**.
-
-La Tri de Sebastián Beccacece mejora su ofensiva
-------------------------------------------------
-
-El partido del martes 19 de noviembre del 2024 en Barranquilla se medirá el poder ofensivo y colectivo de **Colombia** ante el eficaz sistema defensivo y solidario de **Ecuador**. Este también estará marcador por la habilidad y potencia física.
-
-Para la afición ecuatoriana, el nivel que ha alcanzado Ecuador en los últimos cinco partidos de las eliminatorias, de la mano del argentino **Beccacece**, podría incomodar al equipo cafetero. La percepción se sustenta en la mejoría ofensiva que ha experimentado la Tri. Esta cuenta con repetidos cambios de frente aprovechados por sus veloces atacantes comandados por el goleador **Enner Valencia**.
-
-Y es que la experiencia de **Valencia**, a veces criticado por los hinchas, combina su poder para encarar y la inventiva desarrollada para asistir a sus compañeros.
-
-Cualquiera sea el resultado del próximo martes, por la **duodécima fecha** que cerrará las eliminatorias por este año, Ecuador ha insistido en que seguirá con la idea de juego que ha imprimido Beccacece, de cara al año 2025, decisivo para el afán de clasificarse al **Mundial**
-
-Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí
-=================================================================================
-
-Daniel Noboa estuvo en Manabí y entregó recursos. Habló de los incendios forestales.
-------------------------------------------------------------------------------------
-
-![El presidente Daniel Noboa estuvo en Manabí, este 18 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Daniel-Noboa-Manabi.jpg)
-
-El presidente **Daniel Noboa** estuvo en Manabí. En la provincia, entregó recursos para proyectos de agua potable y habló de los incendios forestales que amenazan a **Ecuador**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)[](https://es.wikipedia.org/wiki/Daniel_Noboa)
-
-El Mandatario entregó un monto de **1,84 millones de dólares**. Lo hizo en un evento en Bahía de Caráquez.
-
-### Más noticias
-
-* [Daniel Noboa define recuperación del feriado del 31 de octubre](https://www.elcomercio.com/actualidad/politica/daniel-noboa-define-recuperacion-feriado-31-octubre.html "Daniel Noboa define recuperación del feriado del 31 de octubre")
-* [Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca")
-* [17 incendios forestales están activos en Ecuador este lunes 18 de noviembre](https://www.elcomercio.com/actualidad/ecuador/17-incendios-forestales-estan-activos-en-ecuador-este-lunes-18-de-noviembre.html "17 incendios forestales están activos en Ecuador este lunes 18 de noviembre")
-
-> ¡49 GAD de todo el país recibieron 20 millones de dólares! 🇪🇨👏  
->   
-> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) anunció esta entrega de recursos destinados a 56 proyectos de agua potable, saneamiento, riego y vialidad.  
->   
-> Como parte de esto, a través del [@BDEcuadorBP](https://twitter.com/BDEcuadorBP?ref_src=twsrc%5Etfw) y [@FinanzasEc](https://twitter.com/FinanzasEc?ref_src=twsrc%5Etfw), el Gobierno… [pic.twitter.com/FFjWdqNScE](https://t.co/FFjWdqNScE)
-> 
-> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 18, 2024](https://twitter.com/Presidencia_Ec/status/1858584410838258067?ref_src=twsrc%5Etfw)
-
-Daniel Noboa y los incendios en Ecuador
----------------------------------------
-
-El Presidente de Ecuador, este 18 de noviembre de 2024, aseguró que **“ciertos grupos con fines políticos intentan ver arder a nuestro país. Vemos terrorismo ambiental, vemos incendios forestales creados por otros”**. Agregó que se ha evidenciado incendios forestales creados.
-
-Hasta la mañana de este 18 de noviembre, **17 incendios forestales** se encontraban activos en Ecuador, sobre todo, en **Cuenca y Loja**.
-
-Según **Daniel Noboa**, su Gobierno va a resistir y superar todas las adversidades. En ese marco, el Presidente informó de la transferencia por parte del **Banco de Desarrollo del Ecuador (BDE)**.
-
-Los rubros para intervenciones
-------------------------------
-
-El monto de **1,84 millones de dólares** fue para cinco gobiernos autónomos descentralizados: el provincial de Manabí y los municipios de **Chone, 24 de Mayo, El Carmen y Sucre**.
-
-Las autoridades locales recibieron los recursos para financiar proyectos, como de **agua potable**, saneamiento, vialidad, riego y gestión de residuos sólidos.
-
-Los recursos son parte de un total de 20 millones destinados a **49 gobiernos autónomos** de Ecuador.
-
-Según **Daniel Noboa**, con la transferencia no solo se pagan cuentas pendientes de años anteriores, sino que se generan empleos y se activa la economía de los cantones beneficiados.
-
-Durante la visita a Manabí, el Presidente formalizó de 11 juntas de riego y drenaje para las parroquias Junín, Rocafuerte, Tosagua, Jaramijó y Montecristi. Son **536 socios y 3 800 hectáreas productivas**.
-
-El Presidente, los recursos y la política
------------------------------------------
-
-El gerente general del BDE, **Carlos Rivera**, informó que la entidad, a través de 11 proyectos, ha destinado 6,5 millones para el desarrollo de Manabí. Agregó que incrementaron más de 40 millones de la capacidad de endeudamiento de esta provincia con el banco.
-
-El **Presidente** apuntó que los montos se destinan no porque haya más recursos, sino porque tenemos algo que “ellos no tenían: honestidad y el compromiso de hacer las cosas y hacerlas bien”. De todas formas, **Daniel Noboa** llamó a la unidad.
