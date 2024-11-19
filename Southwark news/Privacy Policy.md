@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+    
+    ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+    
     [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-360x180.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
     
     ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
@@ -51,10 +55,6 @@
     [![Elly Baker AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elly-Baker-360x180.jpg)](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
     
     ### [Debate on whether asylum seekers living on as little as £8.86 a week should get help with transport costs](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
-    
-    [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-    
-    ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+    
+    ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+    
     [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-360x180.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
     
     ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
@@ -136,10 +140,6 @@ View All Result
     [![Elly Baker AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elly-Baker-360x180.jpg)](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
     
     ### [Debate on whether asylum seekers living on as little as £8.86 a week should get help with transport costs](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
-    
-    [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-    
-    ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -383,6 +383,12 @@ Website
 
 ### Featured Articles
 
+[![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-120x86.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+
+### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+
+[19th November 2024](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
+
 [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-120x86.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
 
 ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
@@ -412,12 +418,6 @@ Website
 ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
 
 [18th November 2024](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-
-[![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-120x86.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-
-### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-
-[17th November 2024](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
 
 ### USEFUL PAGES
 
