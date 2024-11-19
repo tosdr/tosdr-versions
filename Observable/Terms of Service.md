@@ -48,6 +48,7 @@ Platform
 * [Observable Framework](https://observablehq.com/platform/framework)
 * [Observable Cloud](https://observablehq.com/platform/cloud)
 * [Observable Notebooks](https://observablehq.com/platform/notebooks)
+* [Embedded analytics](https://observablehq.com/solutions/embedded-analytics)
 * [Pricing](https://observablehq.com/pricing)
 
 Docs
@@ -85,6 +86,7 @@ Platform
 * [Observable Framework](https://observablehq.com/platform/framework)
 * [Observable Cloud](https://observablehq.com/platform/cloud)
 * [Observable Notebooks](https://observablehq.com/platform/notebooks)
+* [Embedded analytics](https://observablehq.com/solutions/embedded-analytics)
 * [Pricing](https://observablehq.com/pricing)
 
 Docs
