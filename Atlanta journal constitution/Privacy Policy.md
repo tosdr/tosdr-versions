@@ -14,8 +14,8 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
-* [UATL](https://www.ajc.com/uatl/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
+* [UATL](https://www.ajc.com/uatl/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
 * [Falcons](https://www.ajc.com/sports/atlanta-falcons/)
 
