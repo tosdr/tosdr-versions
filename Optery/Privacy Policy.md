@@ -342,16 +342,17 @@ Removals Reports that utilize OpenAI are optional and must be “opted into” b
 | Amplitude | Product Analytics | USA | [https://amplitude.com/amplitude-security-and-privacy](https://amplitude.com/amplitude-security-and-privacy) |
 | Crisp | Customer Support | USA | [https://docs.crisp.chat/guides/others/security-practices/](https://docs.crisp.chat/guides/others/security-practices/) |
 | Customer.io | Email Marketing, Notifications | USA | [https://customer.io/legal/security/](https://customer.io/legal/security/) |
-| Google Ads | Marketing | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
+| Google Ads | Digital Advertising, Marketing | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Google Marketing Platform | Analytics, Marketing, Tag Management | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
 | Google Workspace | Internal Communications, Customer Support | USA | [https://policies.google.com/privacy](https://policies.google.com/privacy) |
-| Hubspot | Customer Relationship Management | USA | [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy) |
-| Linkedin | Marketing | USA | [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
+| Hubspot | Optery for Business (B2B) Customer Relationship Management | USA | [https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy) |
+| Linkedin | Digital Advertising, Marketing | USA | [https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy) |
 | Mailgun | Customer Analytics | USA | [https://www.mailgun.com/legal/privacy-policy/](https://www.mailgun.com/legal/privacy-policy/) |
-| Meta | Marketing | USA | [https://www.facebook.com/help/109378269482053/](https://www.facebook.com/help/109378269482053/) |
-| OpenAI | Optery Removals Reports | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/)<br><br>and how to opt in Optery Removals Reports:<br><br>[https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/](https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/) |
-| Profitwell | Revenue Management | USA | [https://security.paddle.com/](https://security.paddle.com/) |
-| Reddit | Marketing | USA | [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy) |
+| Meta | Digital Advertising, Marketing | USA | [https://www.facebook.com/help/109378269482053/](https://www.facebook.com/help/109378269482053/) |
+| OpenAI | Optery Removals Reports | USA | [https://openai.com/security-and-privacy/](https://openai.com/security-and-privacy/)<br><br>and how to opt in for Removals Reports:<br><br>[https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/](https://help.optery.com/en/article/how-does-ai-processing-work-for-generating-removals-reports-and-how-to-opt-in-1yxq75z/) |
+| Otter.ai | Optery for Business (B2B) Meetings Assistant | USA | [https://otter.ai/privacy-policy](https://otter.ai/privacy-policy) |
+| Profitwell | Revenue Analysis and Management | USA | [https://security.paddle.com/](https://security.paddle.com/) |
+| Reddit | Digital Advertising, Marketing | USA | [https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy) |
 | Slack | Internal Communications, Customer Support | USA | [https://slack.com/trust/privacy/privacy-policy](https://slack.com/trust/privacy/privacy-policy) |
 | Stripe | Payment Processing | USA | [https://stripe.com/us/privacy](https://stripe.com/us/privacy) |
 
