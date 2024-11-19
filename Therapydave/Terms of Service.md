@@ -146,7 +146,7 @@ If you have any questions or concerns about this Agreement, please contact us at
 
 _Last updated: November 14, 2024_
 
-_“At first, I thought I was working through the feelings around my failing marriage and subsequent divorce. Then I realized that I was struggling to actually process the feelings and grief I had been carrying. Now, I’m feeling a sense of empowerment and freedom like I’ve never had before.”_
+_“A lot of times I didn’t let myself be happy. After working with Dave, I’ve learned to change my focus. I’m not lying to myself anymore, I’m just allowing myself to just let it happen.”_
 
 [Get Started Now](https://therapydave.com/therapist-appointments/)
 
