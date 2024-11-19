@@ -190,26 +190,21 @@
 
 Subscribe
 
-[#### Nutrition](https://www.healthline.com/nutrition)
+[#### Parenthood](https://www.healthline.com/parenthood)
 
-* Meal Kits
+* Stages
     
-    * [Overview](https://www.healthline.com/nutrition/meal-kits)
-    * [Diets](https://www.healthline.com/nutrition/meal-kits/diets)
-    * [Meal Kits](https://www.healthline.com/nutrition/meal-kits/meal-kit-reviews)
-    * [Prepared Meals](https://www.healthline.com/nutrition/meal-kits/prepared-meal-reviews)
-    * [Comparisons](https://www.healthline.com/nutrition/meal-kits/comparisons)
-    * [Grocery Delivery](https://www.healthline.com/nutrition/meal-kits/grocery-delivery)
+    * [Becoming a Parent](https://www.healthline.com/parenthood/becoming-a-parent)
+    * [Pregnancy](https://www.healthline.com/parenthood/pregnancy)
+    * [Postpartum](https://www.healthline.com/parenthood/postpartum)
+    * [Baby](https://www.healthline.com/parenthood/baby)
+    * [Toddler](https://www.healthline.com/parenthood/toddler)
     
-* [Special Diets](https://www.healthline.com/nutrition/diets)
-* [Healthy Eating](https://www.healthline.com/nutrition/food-and-nutrients)
-* [Food Freedom](https://www.healthline.com/nutrition/food-freedom)
-* [Conditions](https://www.healthline.com/nutrition/nutrition-for-conditions)
-* [Feel Good Food](https://www.healthline.com/nutrition/feel-good-food)
-* [Products](https://www.healthline.com/reviews/nutrition-products)
-* [Vitamins & Supplements](https://www.healthline.com/nutrition/vitamins-and-supplements)
-* [Sustainability](https://www.healthline.com/program/the-sustainable-table)
-* [Weight Management](https://www.healthline.com/nutrition/weight-management)
+* [Fertility](https://www.healthline.com/parenthood/fertility)
+* [Health & Wellness](https://www.healthline.com/parenthood/health-wellness)
+* [Conditions & Concerns](https://www.healthline.com/parenthood/conditions-concerns)
+* [Relationships](https://www.healthline.com/parenthood/relationships)
+* [Products](https://www.healthline.com/parenthood/products-gear)
 
 Ad & Sponsorship Policy
 =======================
