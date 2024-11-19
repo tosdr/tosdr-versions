@@ -1,7 +1,125 @@
 [](https://www.sumup.com/en-us/)
 
+* Products
+    
+    Products
+    --------
+    
+    From payment acceptance solutions to financial tools, discover our range of products and services.
+    
+    ### RUN YOUR BUSINESS
+    
+    * [SumUp POS](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
+    * [POS Lite](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
+    * [Compare POS](https://www.sumup.com/en-us/pos/compare/)
+    
+    ### TAKE PAYMENTS
+    
+    * [Self-service Kiosk](https://www.sumup.com/en-us/pos/sumup-pos/kiosk/)
+    * [Card Readers](https://www.sumup.com/en-us/card-reader-comparison/)
+    * [Invoices](https://www.sumup.com/en-us/invoices/)
+    
+    ### ENGAGE CUSTOMERS
+    
+    * [SumUp Connect](https://www.sumup.com/en-us/loyalty-program/)
+    * [Gift Cards](https://www.sumup.com/en-us/gift-cards/)
+    
+    ### MANAGE FINANCES
+    
+    * [Business Checking](https://www.sumup.com/en-us/banking/)
+    
+* [Pricing](https://www.sumup.com/en-us/credit-card-processing-fees/)
+* Resources
+    
+    Resources
+    ---------
+    
+    Tips and guides to help you grow your business. Discover all the things that SumUp can do for you.
+    
+    ### Business Guide
+    
+    * [Business Guide ↗](https://www.sumup.com/en-us/business-guide/)
+    * [POS News & Highlights](https://www.sumup.com/en-us/business-guide/news/)
+    * [Small Business Guide](https://www.sumup.com/en-us/business-guide/stories/)
+    * [For Your Business](https://www.sumup.com/en-us/business-guide/learn/)
+    
+    ### About Us
+    
+    * [Mission](https://www.sumup.com/en-us/about/)
+    * [Contact Us](https://www.sumup.com/en-us/contact-us/)
+    
+
+* [Shop](https://store.sumup.com/en-us/product-selection/)
+* [Help](https://www.sumup.com/en-us/contact-us/)
+* [Log in](https://me.sumup.com/en-gb/login/)
 * [EN](https://www.sumup.com/en-us/privacy/)
-* [ES](https://www.sumup.com/es-us/privacy/)
+    
+    * [ES](https://www.sumup.com/es-us/privacy/)
+    
+
+[Shop](https://store.sumup.com/en-us/product-selection/)Open menu
+
+* Products
+    
+    From payment acceptance solutions to financial tools, discover our range of products and services.
+    
+    RUN YOUR BUSINESS
+    
+    * [SumUp POS](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
+    * [POS Lite](https://www.sumup.com/en-us/pos/sumup-pos/overview/)
+    * [Compare POS](https://www.sumup.com/en-us/pos/compare/)
+    
+    * * *
+    
+    TAKE PAYMENTS
+    
+    * [Self-service Kiosk](https://www.sumup.com/en-us/pos/sumup-pos/kiosk/)
+    * [Card Readers](https://www.sumup.com/en-us/card-reader-comparison/)
+    * [Invoices](https://www.sumup.com/en-us/invoices/)
+    
+    * * *
+    
+    ENGAGE CUSTOMERS
+    
+    * [SumUp Connect](https://www.sumup.com/en-us/loyalty-program/)
+    * [Gift Cards](https://www.sumup.com/en-us/gift-cards/)
+    
+    * * *
+    
+    MANAGE FINANCES
+    
+    * [Business Checking](https://www.sumup.com/en-us/banking/)
+    
+    * * *
+    
+* [Pricing](https://www.sumup.com/en-us/credit-card-processing-fees/)
+* Resources
+    
+    Tips and guides to help you grow your business. Discover all the things that SumUp can do for you.
+    
+    Business Guide
+    
+    * [Business Guide ↗](https://www.sumup.com/en-us/business-guide/)
+    * [POS News & Highlights](https://www.sumup.com/en-us/business-guide/news/)
+    * [Small Business Guide](https://www.sumup.com/en-us/business-guide/stories/)
+    * [For Your Business](https://www.sumup.com/en-us/business-guide/learn/)
+    
+    * * *
+    
+    About Us
+    
+    * [Mission](https://www.sumup.com/en-us/about/)
+    * [Contact Us](https://www.sumup.com/en-us/contact-us/)
+    
+    * * *
+    
+* [Help](https://www.sumup.com/en-us/contact-us/)
+* [EN](https://www.sumup.com/en-us/privacy/)[ES](https://www.sumup.com/es-us/privacy/)
+    
+
+* * *
+
+[Log in](https://me.sumup.com/en-gb/login/)
 
 Privacy Policy
 ==============
