@@ -380,6 +380,7 @@ Connect With Us
 Payment methods
 
 * Afterpay
+* Amazon
 * American Express
 * Diners Club
 * Discover
