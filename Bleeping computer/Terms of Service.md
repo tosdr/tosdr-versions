@@ -36,18 +36,18 @@
         
         Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
     
-    * [![This Costco Membership comes with a $45 Digital Costco Shop Card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+    * [![D-Link urges users to retire VPN routers impacted by unfixed RCE flaw](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        This Costco Membership comes with a $45 Digital Costco Shop Card](https://www.bleepingcomputer.com/offer/deals/this-costco-membership-comes-with-a-45-digital-costco-shop-card/)
-    * [![Spotify abused to promote pirated software and game cheats](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        D-Link urges users to retire VPN routers impacted by unfixed RCE flaw](https://www.bleepingcomputer.com/news/security/d-link-urges-users-to-retire-vpn-routers-impacted-by-unfixed-rce-flaw/)
+    * [![Microsoft now testing hotpatch on Windows 11 24H2 and Windows 365](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Spotify abused to promote pirated software and game cheats](https://www.bleepingcomputer.com/news/security/spotify-abused-to-promote-pirated-software-and-game-cheats/)
-    * [![Brave on iOS adds new ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Microsoft now testing hotpatch on Windows 11 24H2 and Windows 365](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-hotpatch-on-windows-11-24h2-and-windows-365/)
+    * [![Helldown ransomware exploits Zyxel VPN flaw to breach networks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Brave on iOS adds new "Shred" button to wipe site-specific data](https://www.bleepingcomputer.com/news/security/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/)
-    * [![Chinese hackers exploit Fortinet VPN zero-day to steal credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        Helldown ransomware exploits Zyxel VPN flaw to breach networks](https://www.bleepingcomputer.com/news/security/helldown-ransomware-exploits-zyxel-vpn-flaw-to-breach-networks/)
+    * [![Botnet fueling residential proxies disrupted in cybercrime crackdown](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
-        Chinese hackers exploit Fortinet VPN zero-day to steal credentials](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-fortinet-vpn-zero-day-to-steal-credentials/)
+        Botnet fueling residential proxies disrupted in cybercrime crackdown](https://www.bleepingcomputer.com/news/security/ngioweb-botnet-fueling-residential-proxies-disrupted-in-cybercrime-crackdown/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
