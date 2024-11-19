@@ -107,20 +107,20 @@ Top downloads
 
 Latest releases
 
+* [Matta Blatta](https://www.myabandonware.com/game/matta-blatta-abu)
 * [The Sasquatch](https://www.myabandonware.com/game/the-sasquatch-t5o)
 * [Snowman's Land](https://www.myabandonware.com/game/snowman-s-land-t5l)
 * [Highway Pursuit](https://www.myabandonware.com/game/highway-pursuit-t5e)
 * [Seven Years War 2](https://www.myabandonware.com/game/seven-years-war-2-t4k)
-* [The House of the Dead III](https://www.myabandonware.com/game/the-house-of-the-dead-iii-beh)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
 
 Screenshots needed
 
-* [Chess Advantage](https://www.myabandonware.com/game/chess-advantage-mmh)
-* [Aber Hallo!](https://www.myabandonware.com/game/aber-hallo-rbk)
-* [Pinbo](https://www.myabandonware.com/game/pinbo-rrw)
+* [Knights of Valour: The Seven Spirits](https://www.myabandonware.com/game/knights-of-valour-the-seven-spirits-spn)
+* [Nontan to Issho: Nohara de Asobo](https://www.myabandonware.com/game/nontan-to-issho-nohara-de-asobo-ovi)
+* [Harpoon II: BattleSet 3 - Cold War](https://www.myabandonware.com/game/harpoon-ii-battleset-3-cold-war-duy)
 
 Read our [screenshot tutorial](https://www.myabandonware.com/screenshots/)
 
