@@ -72,6 +72,8 @@ Send
 
 [Trainer Login](https://smartypaws.dogbizpro.com/login.aspx)
 
+[![Smarty Paws Canine Coaching, LLC BBB Business Review](https://seal-southernnevada.bbb.org/seals/blue-seal-293-61-whitetxt-bbb-69846.png)](https://www.bbb.org/us/nv/las-vegas/profile/pet-training/smarty-paws-canine-coaching-llc-1086-69846/#sealclick)
+
 [](https://www.facebook.com/SmartyPawsK9Coaching "Facebook")
 
 Facebook
