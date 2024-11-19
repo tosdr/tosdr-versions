@@ -106,7 +106,7 @@ Please enter your email address below
 
 [**< Back to login**](#)
 
-[Welcome](https://www.offertoro.com/docs/welcome) [Create an app placement](https://www.offertoro.com/docs/create_app) [Integrate your app placement](https://www.offertoro.com/docs/integration) [App Promos](https://www.offertoro.com/docs/promos) [Offer Promos](https://www.offertoro.com/docs/offer_promos) [Postback notifications](https://www.offertoro.com/docs/postback) [Offer notification service](https://www.offertoro.com/docs/offer_notification) [URL parameters (Sub IDs)](https://www.offertoro.com/docs/url_parameters) [User privacy system](https://www.offertoro.com/docs/privacy_system) [API](https://www.offertoro.com/docs/api) [Android SDK](https://www.offertoro.com/docs/android_sdk) [iOS SDK](https://www.offertoro.com/docs/ios_sdk)
+[Welcome](https://www.offertoro.com/docs/welcome) [Create an app placement](https://www.offertoro.com/docs/create_app) [Integrate your app placement](https://www.offertoro.com/docs/integration) [App Promos](https://www.offertoro.com/docs/promos) [Offer Promos](https://www.offertoro.com/docs/offer_promos) [Postback notifications](https://www.offertoro.com/docs/postback) [Offer notification service](https://www.offertoro.com/docs/offer_notification) [URL parameters (Sub IDs)](https://www.offertoro.com/docs/url_parameters) [User privacy system](https://www.offertoro.com/docs/privacy_system) [API](https://www.offertoro.com/docs/our-api) [Android SDK](https://www.offertoro.com/docs/android_sdk) [iOS SDK](https://www.offertoro.com/docs/ios_sdk)
 
 📱 **Terms and Conditions**
 ---------------------------
