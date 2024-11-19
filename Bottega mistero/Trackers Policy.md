@@ -18,7 +18,7 @@ Alza il velo della realtà per portare alla luce curiosità, misteri, eventi gro
 * [Shop](https://www.bottegamistero.com/shop/)
 * [Donazioni](https://www.bottegamistero.com/donazioni/)
 
-[](https://www.bottegamistero.com/lultima-fotografia-di-charlie-noonan-mistero-risolto/ "Mostra un articolo casuale")
+[](https://www.bottegamistero.com/bedtime-parte-ii-conseguenze/ "Mostra un articolo casuale")
 
 [](https://www.bottegamistero.com/privacy-policy/ "Privacy policy")
 
