@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/corona-kwestie/duitse-media-merkel-stop-met-corona-idiotie/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/politiek/oorlog/ex-president-george-bush-jr-gearresteerd/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
