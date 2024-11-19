@@ -12,7 +12,7 @@ Buy (US$ 93.33)
 
 [Your account](# "Your account")
 
-[0](# "Your cart")
+[1](# "Your cart")
 
 #### Shopping Cart
 
@@ -301,15 +301,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [How to use "Backup on demand"](https://www.backup4all.com/how-to-use-backup-on-demand-feature-in-backup4all-kb.html)  
+* [How to schedule all jobs?](https://www.backup4all.com/how-to-schedule-all-groups-kb.html)  
     
-* [How to run a daily incremental and weekly ful ...](https://www.backup4all.com/how-to-run-a-daily-incremental-and-weekly-full-backups-kb.html)  
+* [How to back up data files from Revera using B ...](https://www.backup4all.com/how-to-back-up-data-files-from-revera-using-backup4all-kb.html)  
     
-* [How to use the Scheduler](https://www.backup4all.com/how-to-use-the-scheduler-kb.html)  
+* [Packet writing software](https://www.backup4all.com/packet-writing-software-kb.html)  
     
-* [Why some of the source files are not backed u ...](https://www.backup4all.com/why-some-of-the-source-files-are-not-backed-up-kb.html)  
+* [How to backup your data to HiDrive](https://www.backup4all.com/how-to-backup-your-data-to-hidrive-kb.html)  
     
-* [General - FAQ](https://www.backup4all.com/general-faq-kb.html)  
+* [How to encrypt the files in Backup4all](https://www.backup4all.com/how-to-encrypt-the-files-in-backup4all-kb.html)  
     
 
 Choose language:
