@@ -45,7 +45,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
     * [All Features](https://fliphtml5.com/features/)
     
-     [![discover-features-of-fliphtml5-online-flipbook-maker](/images/header/discover-features-of-fliphtml5-online-flipbook-maker.png)](https://fliphtml5.com/features/)
+     [![discover features of fliphtml5 online flipbook maker](/images/header/discover-features-of-fliphtml5-online-flipbook-maker.png)](https://fliphtml5.com/features/)
     
 * [Explore](https://fliphtml5.com/exploring/)
     
@@ -74,7 +74,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
     [All Categories](https://fliphtml5.com/exploring/)
     
-     ![1_convert_pdf_into_flipbooks_fliphtml5](/images/header/explore-digital-publications-with-fliphtml5.png)
+     ![1 convert pdf into flipbooks fliphtml5](/images/header/explore-digital-publications-with-fliphtml5.png)
     
 * [Templates](https://fliphtml5.com/templates/)
     
@@ -98,7 +98,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Newspaper](https://fliphtml5.com/templates/newspaper/)
     [All Templates](https://fliphtml5.com/templates/)
     
-     [![free-online-template-customize-fliphtml5](/images/header/free-online-template-customize-fliphtml5.png)](https://fliphtml5.com/templates/)
+     [![free online template customize fliphtml5](/images/header/free-online-template-customize-fliphtml5.png)](https://fliphtml5.com/templates/)
     
 * [Solutions](https://fliphtml5.com/learning-center/solutions/)
     
@@ -143,7 +143,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Cookbook](https://fliphtml5.com/learning-center/create/digital-cookbook/)
     * [All Articles](https://fliphtml5.com/learning-center/create/)
     
-     [![Digital-Publishing-Solution-for-All-Industries-fliphtml5](/images/header/Digital-Publishing-Solution-for-All-Industries-fliphtml5.png)](https://fliphtml5.com/learning-center/create/)
+     [![Digital Publishing Solution for All Industries fliphtml5](/images/header/Digital-Publishing-Solution-for-All-Industries-fliphtml5.png)](https://fliphtml5.com/learning-center/create/)
     
 * [Support](https://help.fliphtml5.com/)
     
