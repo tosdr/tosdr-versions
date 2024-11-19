@@ -337,6 +337,8 @@ Connect with us[](https://www.facebook.com/ZEE5/ "facebook")[](https://www.insta
 * [Help Center](https://helpcenter.zee5.com/portal/en/home)
 * [Privacy Policy](https://www.zee5.com/privacypolicy)
 * [Terms of Use](https://www.zee5.com/termsofuse)
+* [Preferences](https://www.zee5.com/consent-manager)
+* [Do not Sell or Share my Personal Information](https://www.zee5.com/consent-manager)
 
 [Popular TV Shows](https://www.zee5.com/tv-shows)
 
