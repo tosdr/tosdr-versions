@@ -1236,6 +1236,6 @@ Please select a Country / Region
 
 Compare  ()
 
-_x_
+removeAll _x_
 
 Call
