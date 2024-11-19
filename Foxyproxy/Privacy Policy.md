@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Great Service and quality speed
+I have renewed my subscription and its working fine thank you. Im very pleased with your service.
 
-Mayank Kumar
+Kelvin Logan
