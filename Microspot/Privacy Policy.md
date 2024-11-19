@@ -62,7 +62,7 @@ Vous avez désactivé JavaScript dans votre navigateur. Veuillez activer JavaScr
 Recherche de succursale
 -----------------------
 
-![Direction de la succursale](/medien/id/marketing/filialleiter/7840.jpg)
+![Direction de la succursale](/medien/id/marketing/filialleiter/7160.jpg)
 
 Nous vous conseillons volontiers.
 
@@ -146,23 +146,23 @@ Se lever. Bouger. Faire de l’exercice.](https://www.microspot.ch/fr/cms/fitnes
 Testé pour vous
 ---------------
 
-[![80x80_I24_Icons_013_Blog22.png](/medias/80x80-I24-Icons-013-Blog22.png?context=bWFzdGVyfGNtc3w0OTI2fGltYWdlL3BuZ3xhRFptTDJobE5pODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU1pNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qSXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8Mjg5YjdjZTYxNzkwMWNiZTgzODA1MmZiZGU1MjExZDhkYjYwYzM5ZWZkNDc3N2U4N2IyZjJlMzgwNzRmNjllMw)
-
-JBL
-
-PartyBox 320](https://www.microspot.ch/fr/cms/blog/conseils/jbl-by-harman-partybox-stage-320)
-
 [![80x80_I24_Icons_013_Blog25.png](/medias/80x80-I24-Icons-013-Blog25.png?context=bWFzdGVyfGNtc3w1MDIxfGltYWdlL3BuZ3xhRFZpTDJnNE55ODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeU5TNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1qVXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8YjQ0NWIwNmI3MGMwYzQ1MzMyMDYxZTc5ZTc5NzRmZTA5NDQwY2FiM2NlMGU1NWFmNGZmYmFlNzMyYzQ4ZDBjNA)
 
 SAMSUNG
 
 Galaxy Z Flip6](https://www.microspot.ch/fr/cms/blog/conseils/samsung-galaxy-z-flip6)
 
-[![80x80_I24_Icons_013_Blog16.png](/medias/80x80-I24-Icons-013-Blog16.png?context=bWFzdGVyfGNtc3w2MTYzfGltYWdlL3BuZ3xhRFpqTDJnelpDODRNSGc0TUY5Sk1qUmZTV052Ym5OZk1ERXpYMEpzYjJjeE5pNXdibWRUZEdGblpXUnZjSFJwYldsNlpXUXZPREI0T0RCZlNUSTBYMGxqYjI1elh6QXhNMTlDYkc5bk1UWXVjRzVuVTNSaFoyVmtiM0IwYVcxcGVtVmt8NWZkYWNjMmUzYzc0NmI1ZDFmOTljNTU5M2M3Njk5YThiNzZlY2ZlNTU3MzIzZTVlODEwYTJjYzE0MmM4NWIzYg)
+[![80x80_I24_SoMe_Blog_Kenwood.jpg](/medias/80x80-I24-SoMe-Blog-Kenwood.jpg?context=bWFzdGVyfGNtc3w1MTQ3fGltYWdlL2pwZWd8YUdRMEwyZ3pNeTg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDB0bGJuZHZiMlF1YW5CblUzUmhaMlZrYjNCMGFXMXBlbVZrTHpnd2VEZ3dYMGt5TkY5VGIwMWxYMEpzYjJkZlMyVnVkMjl2WkM1cWNHZFRkR0ZuWldSdmNIUnBiV2w2WldRfGRiOWMyOWExYjE5ZWRmZTFmOGVjZWVhYWJkNTU5MWFjMTBjMzY4N2RiYjE4Yzg5ZDExZjFmM2JmYjM0ODBiNzQ)
 
-NINJA
+KENWOOD
 
-Multi Cooker Foodi](https://www.microspot.ch/fr/cms/blog/conseils/ninja-multicuiseur-foodi)
+Cooking Chef XL](https://www.microspot.ch/fr/cms/blog/conseils/kenwood-cooking-chef-xl)
+
+[![80x80_I24_SoMe_Blog_Philips_One_Blade.jpg](/medias/80x80-I24-SoMe-Blog-Philips-One-Blade.jpg?context=bWFzdGVyfGNtc3wzMjgxfGltYWdlL2pwZWd8YUdRekwyZzVPUzg0TUhnNE1GOUpNalJmVTI5TlpWOUNiRzluWDFCb2FXeHBjSE5mVDI1bFgwSnNZV1JsTG1wd1oxTjBZV2RsWkc5d2RHbHRhWHBsWkM4NE1IZzRNRjlKTWpSZlUyOU5aVjlDYkc5blgxQm9hV3hwY0hOZlQyNWxYMEpzWVdSbExtcHdaMU4wWVdkbFpHOXdkR2x0YVhwbFpBfDU4ZjMwZWVjODQ1MTgxMzFkYzY1NjFhNjI5NDg1NGI1ZTcwMDMwZWUxNGY1YzIxMjY4ZGY4MjJkM2YxYjE0ZjA)
+
+PHILIPS
+
+OneBlade Pro 360 Face + Body](https://www.microspot.ch/fr/cms/blog/conseils/philips-oneblade-pro-360)
 
 Test: Garmin Fenix 8
 --------------------
@@ -219,6 +219,10 @@ Inscrivez-vous à notre newsletter et soyez parmi les premiers à être informé
 Achetez comme vous aimez
 ------------------------
 
+[Garantie Plus
+
+prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
+
 [Retrait gratuit
 
 dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
@@ -226,10 +230,6 @@ dans tous les magasins](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_C
 [Commandé aujourd'hui avant 20h
 
 livré le lendemain](https://helpcenter.interdiscount.ch/s/?c__cun=Delivery_Collection&c__cl=Lieferung%20%26%20Abholung&language=fr)
-
-[Garantie Plus
-
-prolongation de 24 mois de la garantie du fabricant](https://www.microspot.ch/fr/cms/service/garantie-plus)
 
 interdiscount.ch
 
