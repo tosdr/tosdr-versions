@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/17fde576-bbe0-44f3-a12a-2a934ac03320/20241119T050535/17fde576-bbe0-44f3-a12a-2a934ac03320_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/17fde576-bbe0-44f3-a12a-2a934ac03320/20241119T050535/17fde576-bbe0-44f3-a12a-2a934ac03320_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/094e22e6-581c-4f15-9e32-b2742eae4cf0/20241119T131619/094e22e6-581c-4f15-9e32-b2742eae4cf0_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/094e22e6-581c-4f15-9e32-b2742eae4cf0/20241119T131619/094e22e6-581c-4f15-9e32-b2742eae4cf0_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [Wind Advisory until 3am](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Weather Impact Alert: Gusty snow showers to reduce visibility Wednesday afternoon, and evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
@@ -88,7 +88,7 @@ Davenport, IA »
 
 57°
 
-![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Partly Cloudy/Wind](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
