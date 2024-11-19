@@ -166,7 +166,7 @@ Help us do this work by making a donation.
 * [Threads](https://www.threads.net/@ourworldindata)
 * [Facebook](https://facebook.com/ourworldindata)
 * [LinkedIn](https://www.linkedin.com/company/ourworldindata)
-* [Bluesky](https://bsky.app/profile/ourworldindata.bsky.social)
+* [Bluesky](https://bsky.app/profile/ourworldindata.org)
 * [GitHub](https://github.com/owid)
 * [Research & Writing RSS Feed](https://ourworldindata.org/atom.xml)
 * [Daily Data Insights RSS Feed](https://ourworldindata.org/atom-data-insights.xml)
