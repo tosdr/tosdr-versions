@@ -180,7 +180,7 @@ Follow us
 
 \*These statements have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure, or prevent any disease.
 
-^BF2024 offer cannot be combined with other offers or applied to past purchases; offer excludes Holiday Kits and select bundle products. For new subscription sign-ups, additional 30% savings applies only to your first shipment; after your first order, regular subscription savings will apply. Offer ends 12/1/24 at 11:59pm PST.
+^BF2024 offer cannot be combined with other offers or applied to past purchases; offer excludes Holiday Kits and select bundle products. For new subscription sign-ups, additional 30% savings applies only to your first shipment; after your first order, regular subscription savings will apply. Offer ends 12/1/24 at 11:59pm PST. Holiday Kit discounts cannot be combined with other offers or applied to past purchases. 
 
 SeroVital is protected by U.S. Patent Numbers 8,551,542; 8,715,752; 8,722,114; 8,734,864; 8,747,921; 8,747,922; 8,765,195; 8,808,763; 8,808,764; 8,815,311; 9,066,953; 9,198,889; 9,238,023; 9,339,490; and Canadian Patent Number: 2840809.  
 The Smart Release compound in SeroVital Advanced is protected by U.S. Patent Number 9,114,091.
