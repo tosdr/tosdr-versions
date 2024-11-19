@@ -142,15 +142,15 @@ We develop software that matters since 1999. These are our products: Backup4all/
 * [Forum](https://forum.backup4all.com/)
 * [Blog](https://blog.backup4all.com/)
 
-* [Backup images with Backup4all](https://www.backup4all.com/backup-images-with-backup4all-kb.html)  
+* [How to install Backup4all from Microsoft Stor ...](https://www.backup4all.com/how-to-install-backup4all-from-microsoft-store-kb.html)  
     
-* [How to install and use backup plugins](https://www.backup4all.com/how-to-download-install-and-use-backup-plugins-kb.html)  
+* [How to manage backup tags](https://www.backup4all.com/how-to-manage-backup-groups-kb.html)  
     
-* [How to use and configure the Startup feature ...](https://www.backup4all.com/how-to-use-and-configure-the-startup-feature-in-backup4all-kb.html)  
+* [How to restore a backup from Google Cloud Sto ...](https://www.backup4all.com/how-to-restore-a-backup-from-google-cloud-storage-kb.html)  
     
-* [Google hasn't verified this app error](https://www.backup4all.com/google-hasn-t-verified-this-app-error-kb.html)  
+* [Backup MS SQL Server data](https://www.backup4all.com/backup-ms-sql-server-data-kb.html)  
     
-* [How to back up data files from Caringo using ...](https://www.backup4all.com/how-to-back-up-data-files-from-caringo-using-backup4all-kb.html)  
+* [How to configure email sending](https://www.backup4all.com/how-to-use-email-settings-kb.html)  
     
 
 Choose language:
