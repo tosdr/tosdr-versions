@@ -435,9 +435,9 @@ Registered office: Club Chambers, Museum Street, York, YO1 7DN United Kingdom
 Information Commissioner's Office (ICO) Reg. No. ZA004886  
 14/06/23
 
-"This is a fantastic opportunity for our students!  I'm sure Spellzone will be invaluable in helping them to improve their spellings and therefore improve the quality of their writing in all subject areas!"
+"I love your course..... you explain so much that I didn't know, forgot, or wasn't taught."
 
-**Teacher, High School, UK**
+**Adult student, USA**
 
 ### Curriculum...
 
