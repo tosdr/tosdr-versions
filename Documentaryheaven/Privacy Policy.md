@@ -123,44 +123,44 @@ Advertisement
     Why The Industrial Revolution Happened Here
     
     Professor Jeremy Black examines one of the most extraordinary periods in British history: the Industrial Revolution. He explains the unique economic, social and political conditions that by the 19th c...](https://documentaryheaven.com/why-industrial-revolution-happened-here/ "Why The Industrial Revolution Happened Here")
-* [![The Creative Brain How Insight Works](/wp-content/thumbnails/7660-100x70.png?x53432)
-    
-    The Creative Brain How Insight Works
-    
-    It is a feeling we all know, the moment when a light goes on in your head. In a sudden flash of inspiration, a new idea is born. Today, scientists are using some unusual techniques to try to work out ...](https://documentaryheaven.com/creative-brain-how-insight-works/ "The Creative Brain How Insight Works")
 * [![The Fog of War](/wp-content/thumbnails/19-100x70.png?x53432)
     
     The Fog of War
     
     Winner of the Academy Award for Best DocumentaryIt is the story of America as seen through the eyes of the former Secretary of Defense, Robert S. McNamara. One of the most controversial and influe...](https://documentaryheaven.com/the-fog-of-war/ "The Fog of War")
+* [![The Hasidic Drug Dealer](/wp-content/thumbnails/16688-100x70.jpg?x53432)
+    
+    The Hasidic Drug Dealer
+    
+    Samuel Leibowitz is a member of an ultraorthodox Jewish sect and has been in prison for the last 9 years for drug trafficking. Released from prison he plans to return to his community in North London...](https://documentaryheaven.com/hasidic-drug-dealer/ "The Hasidic Drug Dealer")
 
 ###### Throwback Documentaries
 
-* [![Who Killed Martin Luther King](/wp-content/thumbnails/6412-100x70.jpg?x53432)
+* [![WiFi Fraud?](/wp-content/thumbnails/809-100x70.png?x53432)
     
-    Who Killed Martin Luther King
+    WiFi Fraud?
     
-    Memphis. April 4 1968. One shot and the voice of America s most enduring symbol of non-violent struggle is silenced.A stunned nation is left to wonder why and how. Now for the first time on DVD Who](https://documentaryheaven.com/who-killed-martin-luther-king/ "Who Killed Martin Luther King")
-* [![We Ride: The Story of Snowboarding](/wp-content/thumbnails/7621-100x70.jpg?x53432)
+    Panorama examines concerns about WiFi Technology.](https://documentaryheaven.com/wifi-fraud/ "WiFi Fraud?")
+* [![Africa’s Moonshine Epidemic](/wp-content/thumbnails/6794-100x70.jpg?x53432)
     
-    We Ride: The Story of Snowboarding
+    Africa’s Moonshine Epidemic
     
-    A compelling, dramatic and stylish cinematic journey into snowboarding’s unique history and the wider cultural forces that shaped it.Half a century ago, in his garage in the suburbs of Muskegon, M](https://documentaryheaven.com/we-ride-story-of-snowboarding/ "We Ride: The Story of Snowboarding")
-* [![Dying To Be Apart](/wp-content/thumbnails/16260-100x70.jpg?x53432)
+    Ugandans are the hardest drinking Africans in the motherland, both in terms of per capita consumption and the hooch they choose to chug. Waregi, or "war gin," is what they call the local moonshine, an](https://documentaryheaven.com/africas-moonshine-epidemic/ "Africa’s Moonshine Epidemic")
+* [![The Day Hitler Died](/wp-content/thumbnails/11935-100x70.jpg?x53432)
     
-    Dying To Be Apart
+    The Day Hitler Died
     
-    In July 2003, twin sisters Ladan and Laleh Bijani underwent a dangerous and controversial 50-hour operation to separate their conjoined heads. Nearly 30 years of being joined together was long enough](https://documentaryheaven.com/dying-to-be-apart/ "Dying To Be Apart")
-* [![Escaping North Korea](/wp-content/thumbnails/4974-100x70.jpg?x53432)
+    As the Russian and Allied forces began to surround Berlin in 1945, Adolf Hitler took refuge in a bunker located below the crumbling city. He had plunged the world into total war with the dream of foun](https://documentaryheaven.com/day-hitler-died/ "The Day Hitler Died")
+* [![Hookers At The Point](/wp-content/thumbnails/7641-100x70.jpg?x53432)
     
-    Escaping North Korea
+    Hookers At The Point
     
-    The dramatic stories of North Koreans who are risking everything, including torture and execution, to escape the repression and hunger of their homeland and reach safety in the South.The border be](https://documentaryheaven.com/escaping-north-korea/ "Escaping North Korea")
-* [![Gone](/wp-content/thumbnails/6939-100x70.jpg?x53432)
+    Hookers at the Point was one of the most candid and revealing documentaries ever made about street prostitution. Now, filmmaker Brent Owens continues his look at the die-hard lives of Bronx hookers, r](https://documentaryheaven.com/hookers-point/ "Hookers At The Point")
+* [![The Revolution That Shook The World](/wp-content/thumbnails/8692-100x70.jpg?x53432)
     
-    Gone
+    The Revolution That Shook The World
     
-    The story of David "Gone" Brault, a 23-year-old college student who lives at the abandoned Damen Silos in Chicago by choice, hoping to teach people how to live in the post-apocalypse.](https://documentaryheaven.com/gone/ "Gone")
+    As Russia and the West square up to each other over Ukraine, Paul Kenyon presents this special report from inside the flashpoint military bases of Crimea as they are surrounded by Russian troops. He g](https://documentaryheaven.com/revolution-that-shook-world/ "The Revolution That Shook The World")
 
 Copyright © 2024 [DocumentaryHeaven](https://documentaryheaven.com/ "DocumentaryHeaven")
 
