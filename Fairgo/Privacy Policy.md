@@ -45,6 +45,8 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Koala's Diary](https://www.fairgoplus.com/koaladiary "koala's diary")
 
+[Refer and Earn](https://www.fairgoplus.com/refer-and-earn "refer-and-earn")
+
 [Fair Go Blog](https://www.fairgoplus.com/blog-articles "fair go blog")
 
 [Casino Reviews](https://www.fairgoplus.com/reviews "reviews")
@@ -91,8 +93,9 @@ Feel free to contact Fair Go [customer support team](https://www.fairgoplus.com
 
 [Jet bank transfer](https://www.fairgoplus.com/jet-transfer "Jet")
 
-[Verify your account](https://www.fairgoplus.com/cashtocode "CashtoCode>CashtoCode</a></p>
-<p><a href=")
+[CashtoCode](https://www.fairgoplus.com/cashtocode "cashtocode")
+
+[Verify your account](https://www.fairgoplus.com/account-verification "verify"")
 
 ![exclamation mark](/images/website2024/07_footericon4_45x45.webp)
 
