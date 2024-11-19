@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Mark Stimpson](https://cdn.returningveterans.org/images/honor/Mark_Stimpson.JPG)  
+![Harold Teeters](https://cdn.returningveterans.org/images/honor/23_H_Teeters_N.jpg)  
 
-**In Honor of Mark Stimpson**  
-United States Army  
-Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Harold Teeters**  
+United States Navy  
+Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/19/24 - 7:29:05  
+Printed 11/19/24 - 1:29:42  
 © 2024 Returning Veterans Project
