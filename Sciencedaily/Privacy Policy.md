@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
 * [Optogenetics: Treating Epilepsy Seizures](https://www.sciencedaily.com/releases/2024/11/241115124741.htm)
 * [Advancing the Search for Life On Mars](https://www.sciencedaily.com/releases/2024/11/241118125317.htm)
 * [Precambrian Worm: Big Evolutionary Discovery](https://www.sciencedaily.com/releases/2024/11/241118125212.htm)
@@ -217,7 +218,6 @@ this hour
 * [Big Benefits to Online Gaming](https://www.sciencedaily.com/releases/2024/11/241118125037.htm)
 * [Abrupt Drop in Global Freshwater Levels](https://www.sciencedaily.com/releases/2024/11/241116195719.htm)
 * [Earliest Evidence of Humans Using Fire](https://www.sciencedaily.com/releases/2024/11/241116195644.htm)
-* [Egyptians Drank Hallucinogenic Cocktails](https://www.sciencedaily.com/releases/2024/11/241115124633.htm)
 
 Trending Topics
 ---------------
@@ -230,7 +230,7 @@ this week
 
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Stress](https://www.sciencedaily.com/news/mind_brain/stress/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
 [Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
 
@@ -238,17 +238,17 @@ this week
 
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
-
 [Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
+[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+
 [Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
 
-[Food](https://www.sciencedaily.com/news/plants_animals/food/)
-
-[Behavioral Science](https://www.sciencedaily.com/news/plants_animals/behavior/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
   
 
