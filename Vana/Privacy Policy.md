@@ -258,7 +258,7 @@ Resume Data Dao
 
 Earn from your LinkedIn data
 
-[Resume Data Dao](https://www.ldatadao.org/home)[](#)
+[Resume Data Dao](https://www.dlplabs.io/)[](#)
 
 ![](https://cdn.prod.website-files.com/668425fc09d19b311c51332f/66843af865c27278b08e6af7_Block%20Explorer.png)
 
