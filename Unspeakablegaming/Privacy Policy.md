@@ -41,6 +41,9 @@ Header - Shapes Theme
     
 * Merch
     
+    * [![RED ICON T-SHIRT](//www.unspeakable.com/cdn/shop/files/DSC_1138.jpg?v=1732025904&width=700)
+        
+        RED ICON T-SHIRT](https://www.unspeakable.com/products/red-icon-t-shirt)
     * [![2024 HOLIDAY CARD](//www.unspeakable.com/cdn/shop/files/CardFront.png?v=1731949431&width=700)
         
         2024 HOLIDAY CARD](https://www.unspeakable.com/products/2024-holiday-card)
@@ -56,9 +59,6 @@ Header - Shapes Theme
     * [![GUUBER DECO CUBE](//www.unspeakable.com/cdn/shop/files/DSC_1069.jpg?v=1729006371&width=700)
         
         GUUBER DECO CUBE](https://www.unspeakable.com/products/guuber-deco-cube)
-    * [![10 COLOR PEN](//www.unspeakable.com/cdn/shop/files/DSC_1056.jpg?v=1729004312&width=700)
-        
-        10 COLOR PEN](https://www.unspeakable.com/products/10-color-pen-1)
     
     [View All](https://www.unspeakable.com/collections/merch)
     
