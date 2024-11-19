@@ -1413,6 +1413,15 @@ VWO använder kakor för att spåra användarbeteende och prestandan av de olika
 
 All data som samlas in genom VWO lagras på servrar inom Europa, i enlighet med gällande dataskyddsregler (GDPR). Informationen är anonymiserad och kan inte kopplas till enskilda användare. Kopplingen till VWO kräver kakor i kategorin analyskakor, som du själv kan stänga av under inställningar. 
 
+Användning av ClickID
+---------------------
+
+På Act Svenska kyrkans webbplats används så kallade ClickID-parametrar för att spåra och mäta effekten av annonser på Google. Dessa parametrar hjälper oss att förstå hur du som besökare interagerar med vår webbplats efter att ha klickat på någon av våra annonser.
+
+**GCLID (Google Click Identifier)**: När du klickar på en annons som visas via Google Ads, läggs en unik GCLID-parameter till i länken du följer till vår webbplats. Denna information används för att mäta hur våra annonser presterar och ger oss insikter om vilka kampanjer som leder till besök och interaktioner på vår webbplats.
+
+Dessa spårningsmekanismer samlar inte in personlig information utan används för att förbättra vår annonsering och förstå hur våra kampanjer fungerar. Informationen vi får är anonym och hjälper oss att säkerställa att vi når ut till rätt personer med vårt budskap. Kopplingen till ClickID kräver kakor i kategorin Marknadsföring och sociala medier som du själv kan stänga av under inställningar.
+
 Lagen om elektronisk kommunikation
 ----------------------------------
 
