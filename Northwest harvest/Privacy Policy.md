@@ -1,6 +1,6 @@
 [Skip to content](#main-content)
 
-[![Northwest Harvest](https://www.northwestharvest.org/wp-content/themes/northwest-harvest/dist/images/nwh-logo.png)](https://www.northwestharvest.org/)
+[![Northwest Harvest](https://www.northwestharvest.org/wp-content/themes/northwest-harvest/dist/images/nwh-logo-updated.svg)](https://www.northwestharvest.org/)
 
 * [Language & Accessibility Tools](#reciteme)
 
