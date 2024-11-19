@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3F_gl%3D1*9bo3ui*_ga*MTQ4NjM4ODcxOS4xNzMyMDI5NDU0*_ga_3TRK53PM75*MTczMjAyOTQ1NC4xLjEuMTczMjAyOTUyOS42MC4wLjA.&_ga=2.88860315.16059224.1732029454-1486388719.1732029454)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
