@@ -205,27 +205,25 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [The Top 17 Worst PC Games Ever (Again)!](https://www.somethingawful.com/news/worst-games-ever/1/)
-* [Best of @sheboyganscan](https://www.somethingawful.com/twitter-tuesday/tt03-27-12/1/)
-* [The Horrible Saga of SWAP.avi](https://www.somethingawful.com/horrors-of-porn/horrible-saga-swapavi/)
-* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
-* [Collectible Plates](https://www.somethingawful.com/photoshop-phriday/collectible-plates/1/)
+* [The Hardy Boys and Nancy Drew: UNLEASHED](https://www.somethingawful.com/comedy-goldmine/hardy-boys-nancy/1/)
+* [The Simcity Board of Advisors](https://www.somethingawful.com/news/simcity-advisors/1/)
+* [A Vampire's Diary...](https://www.somethingawful.com/awful-links/awful-link-754/)
+* [Movie Posters](https://www.somethingawful.com/photoshop-phriday/movie-posters/1/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [By god I am posting a thread on the awful app](http://forums.somethingawful.com/showthread.php?threadid=4075550 "By god I am posting a thread on the awful app")
-* ![](https://fi.somethingawful.com/forums/posticons/fyad-archery.gif) [you afraid of skeleton?](http://forums.somethingawful.com/showthread.php?threadid=4075549 "you afraid of skeleton?")
 * ![](https://fi.somethingawful.com/forums/posticons/hell-fuckthis.gif) [Oh good, Kevin Smith is making another movie](http://forums.somethingawful.com/showthread.php?threadid=4075559 "Oh good, Kevin Smith is making another movie")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-salt.gif) [Dr. Eunice](http://forums.somethingawful.com/showthread.php?threadid=4075602 "Dr. Eunice")
 * ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Let's Make Our Own GBS Adam Sandler Movie](http://forums.somethingawful.com/showthread.php?threadid=4075573 "Let's Make Our Own GBS Adam Sandler Movie")
+* ![](https://fi.somethingawful.com/forums/posticons/fyad-archery.gif) [you afraid of skeleton?](http://forums.somethingawful.com/showthread.php?threadid=4075549 "you afraid of skeleton?")
 
 ### Random Articles
 
-* [Peak Oil](https://www.somethingawful.com/daily-dirt/peak-oil/)
-* [The Cauldron, Wiccan Wisdom, and The Witch Forum](https://www.somethingawful.com/weekend-web/witch-forums/1/)
-* [Laser Spammers](https://www.somethingawful.com/icq-pranks/icq-transcript-laser/1/)
-* [Evel Knievel 3D Stunt Game](https://www.somethingawful.com/game-reviews/evel-knievel-3d/1/)
-* [A World Without Cronuts](https://www.somethingawful.com/news/cronut-world-without/)
+* [Space is Where You Belong, Lance Bass!](https://www.somethingawful.com/news/space-where-you/)
+* [Pimp My Snack](https://www.somethingawful.com/awful-links/awful-link-3819/)
+* [GOLD!](https://www.somethingawful.com/news/gold/1/)
+* [Trolls on Treasure Island](https://www.somethingawful.com/rom-pit/trolls-treasureisland-octavio/)
+* [SA's Humor](https://www.somethingawful.com/news/sas-humor/)
 
 [Random!](https://www.somethingawful.com/random/)
 
