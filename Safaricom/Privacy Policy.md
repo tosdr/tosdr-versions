@@ -1,10 +1,10 @@
 [![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673c7f2b0dd9352c78cbd62b_logo_black.jpg)](https://www.safari.com/)
 
-__
-
 DESTINATIONS
 
 TOP DESTINATIONS
+
+[Cape Town](https://www.safari.com/destinations/cape-town)
 
 [Kenya](https://www.safari.com/destinations/kenya)
 
@@ -76,9 +76,13 @@ HOLIDAY TYPES
 
 [BLOG](https://www.safari.com/blog)
 
-ABOUT US
+ABOUT US         
 
 [Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
+
+  
+
+__
 
 Menu
 
