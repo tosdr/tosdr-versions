@@ -20,7 +20,7 @@
 
 * [About](https://sciencing.com/about/)
 * [Editorial Policies](https://sciencing.com/policies/)
-* [Privacy Policy](https://www.static.com/privacy-policy)
+* [Privacy Policy](https://www.sciencing.com/privacy-policy/)
 * [Terms of Use](https://www.static.com/terms)
 
 © 2024 [Static Media](https://www.static.com/). All Rights Reserved
@@ -101,7 +101,7 @@ An updated timestamp is placed at the top of each article whenever we make chang
 
 If you have a correction for an article, it can be submitted at (908) 514-8038‬ or .
 
-[About](https://sciencing.com/about/) [Privacy Policy](https://www.static.com/privacy-policy)
+[About](https://sciencing.com/about/) [Privacy Policy](https://www.sciencing.com/privacy-policy/)
 
 © 2024 [Static Media](https://www.static.com/)® Sciencing.com All Rights Reserved
 
