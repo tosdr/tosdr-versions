@@ -2,8 +2,6 @@ This site needs Javascript for some functionality to work properly
 
 [Skip to main content](#main)
 
-Accounts database maintenance 19th November from 09:00-10:00 CET
-
 [![Mullvad logo](/_app/immutable/assets/logo.Ba5MUFAA.svg)](https://mullvad.net/en/)
 
 * [About](https://mullvad.net/en/about)
