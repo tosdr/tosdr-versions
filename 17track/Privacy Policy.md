@@ -1,4 +1,4 @@
-Welcome to visit the 17TRACK website, application, devices, and other related software (hereinafter referred to as "we" or "17TRACK "). This policy applies to VASTAR SINGAPORE TECHNOLOGY PTE. LTD., which provides products and services of 17TRACK. We highly value the privacy and security of user (hereinafter referred to as "you") personal information. We will strictly adhere to legal requirements, implement corresponding security measures, and make every effort to protect the security of your personal information and privacy. In light of this, we have formulated this "Privacy Policy of 17TRACK Product " (hereinafter referred to as "this policy/privacy policy") and would like to bring it to your attention:
+Welcome to visit 17TRACK website, application,devices,and other related software under DEMON NETWORK TECH CO., LTD. (hereinafter referred to as "we" or "17TRACK")
 
 This policy applies to all features and services of the 17TRACK products we provide, including mobile apps, websites, mini-programs, Tracking API, and the Shopify application. Before using any of the features or services we offer, please read and thoroughly understand this policy. Please start using them only after confirming your full understanding and agreement.
 
@@ -100,7 +100,7 @@ We will not sell, rent, trade, or otherwise disclose your personal information t
 
 * Service Providers and Suppliers: For the management, supply, and improvement of 17TRACK services, as well as for marketing purposes, we may disclose personal information, including transaction information, to service providers and suppliers. Examples include logistics companies, suppliers, payment service providers such as PayPal, hosting and maintenance providers, data storage and management providers, marketing and promotional providers, and providers of email and SMS notifications. This is used to help us improve our services and products.
     
-* Shipping insurance services: In order to offer you value-added services, including shipping insurance, we will share your personal information, order details, and logistics data with Seel Insurance Company when you opt for shipping insurance services. This action is taken to ensure we could provide the insurance services you have requested.
+* For providing logistics insurance services: In order to offer you value-added services, including shipping insurance, we will share your personal information, order details, and logistics data with Seel Insurance Company when you choose the logistics insurance service. This is done to ensure that we can provide you with the requested logistics insurance service.
     
 * Protection of Legal Rights and Other Legal Purposes: We may be required to disclose information, such as being subpoenaed, appearing in court, or being requested by law enforcement personnel for investigation, or for any other situation where the law requires us to disclose such information. We may also disclose personal information when necessary to protect our legal rights or to enforce our terms of use and other agreements. 17TRACK may provide your personal information in response to a search warrant, subpoena, or other valid legal query or command, or other requirements of applicable law.
     
@@ -181,11 +181,30 @@ You have the right to obtain a copy of your personal information. If you need to
 
 f)California Resident Consumer Rights:
 
-In accordance with the California Consumer Privacy Act (CCPA), California residents have the right to know, access, and delete their personal data. California residents also have the right to opt-out of the sale of their personal data and not to be discriminated against for exercising their privacy rights. We do not sell your personal data for any purpose and do not discriminate against you for exercising your privacy rights.
+Under the California Consumer Privacy Act (CCPA), California residents have the right to know, access, and delete their personal data. California residents also have the right to opt out of the sale of their personal data and to not be discriminated against for exercising their privacy rights. We do not sell your personal data to anyone for any purpose, nor do we discriminate when responding to privacy rights requests.
 
-If you are a California resident, please review this privacy policy for important information about your rights under the California Consumer Privacy Act and how to submit requests to us in accordance with these rights.
+If you are a California resident, please be sure to review this privacy policy for important information about your rights under California privacy law and how to submit requests based on those rights
 
-g)Response to Your Requests:
+g)EU Data Protection Laws:
+
+Under the General Data Protection Regulation (GDPR), as a data subject, you have the following rights regarding your personal data:
+
+* Right to Know: You have the right to know how your personal data is being processed, including the purposes of processing, the types of data, the retention period, and the identities of recipients of the data.
+    
+* Right to Access: You have the right to access your personal data and may request a copy of the personal data we hold about you.
+    
+* Right to Erasure (Right to be Forgotten): In certain circumstances, you have the right to request the deletion of your personal data, especially if the data is no longer necessary for the purposes for which it was processed, if you have withdrawn consent, or if the processing of the data is in violation of the law.
+    
+* Right to Opt Out of Data Sales: Under GDPR regulations, you have the right to ensure your data is processed lawfully, fairly, and transparently. You also have the right to choose not to have your personal data sold, which is a safeguard for your privacy.
+    
+* Right to Non-Discrimination: You should not face discrimination when exercising any of the above rights.
+    
+
+We do not sell your personal data for any purpose.
+
+We will not discriminate against you for exercising your privacy rights, such as accessing, deleting data, or opting out of the sale of your data.
+
+h)Response to Your Requests:
 
 For the requests mentioned above, we will respond within 5-7 working days. Please refer to Chapter Eleven for our contact information.
 
@@ -256,23 +275,25 @@ You can manage or reject cookies or data analytics tools through your browser se
 
 ### **10\. Changes to this policy**
 
-To ensure that you are always aware of how we collect, use, and disclose your information, we will publish any changes or updates to this privacy policy on this website and encourage you to periodically review this privacy policy. If we make changes to this privacy policy, we will notify you by modifying the date at the top of this privacy policy.
+To ensure that you are always aware of how we collect, use and disclose your information, Dymax reserves the right to post any changes or updates to this Privacy Policy on this website and encourages you to periodically review this Privacy Policy for the most current information. Once we change this Privacy Policy, we will notify you by updating the "Last Updated Date" at the top of this Privacy Policy.
 
 ### **11.Contact us**
 
-If you have any questions about this privacy policy, please feel free to contact us at any time.
+If you have any questions about this Privacy Policy or require further information, please feel free to contact us at any time by one of the following methods
 
-Contact Person (Data Protection Officer):
+Contact person (Data Protection Officer): Hou Yi
 
-Address：
+Address: 3204 , Building 11 Tian An Cloud Park,NO.2018,Xuegang Road,Bantian
 
-E-mail：[serv@17track.net](mailto:serv@17track.net)
+Phone number: +86-0755-86171718
 
-Phone Number：
+Email:bis @17track.net
 
-### **Appendix One: List of Third-Party SDKs (Android App Only)**
+### **Appendix I: List of Third-Party SDK (Android Apps Only)**
 
-In order to efficiently carry out development and provide users with more diverse services, we use third-party Software Development Kits (SDKs) in the 17TRACK Android App. These SDKs are tools provided by third parties. The SDKs we use include:
+To enhance our research and development efficiency and provide users with more diverse services, DEMON NETWORK TECH CO., LTD. uses third-party software development kits (SDK) in the 17TRACK Android app. These SDK are typically provided by third-party vendors to help improve app functionality and performance.
+
+The SDKs we use include:
 
 * QQ Login SDK (used to support QQ authorization login and account binding, which may collect user device identification information).
     
@@ -287,3 +308,14 @@ In order to efficiently carry out development and provide users with more divers
 * Firebase SDK (used to support push notifications, analysis, and statistics of application errors, which may collect user device identification information).
     
 * AdMob SDK (used to display ads in the mobile app, sourced from the Google Ad Network, with location-based restrictions for specified regions, which may collect user device identification information).
+    
+
+### **Appendix II: Developer Information**
+
+In the interest of transparency, we hereby add the full developer information:
+
+Developer : DEMON NETWORK TECH CO., LTD
+
+Phone number: +86-0755-86171718
+
+E-mail: [bis@17track.net](mailto:bis@17track.net)
