@@ -279,25 +279,25 @@ Sponsor may conduct a background check to confirm any potential winner’s eligi
 Top of Today
 ------------
 
-1. [![Ashley Bertino mugshot](https://am23.mediaite.com/lc/cnt/uploads/2024/11/ashley-bertino-mugshot-432x243.jpg)](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
+1. [![Left, to right: Jakob Scott and Caylin Opal Marie Monroe (Warrick County Sheriff's Department). Inset: Silas Scott (Tribute Archive).](https://am22.mediaite.com/lc/cnt/uploads/2024/11/indianababymurder-432x243.jpg)](https://lawandcrime.com/crime/mother-who-sometimes-would-forget-to-feed-her-infant-son-who-starved-to-death-gets-65-years-in-prison/)
     
-    ### [Mother of 12-year-old who died from untreated diabetes said daughter 'was being dramatic': Witnesses](https://lawandcrime.com/crime/mother-of-12-year-old-who-died-from-untreated-diabetes-said-daughter-was-being-dramatic-witnesses/)
+    ### [Mother who sometimes 'would forget' to feed her infant son who starved to death gets 65 years in prison](https://lawandcrime.com/crime/mother-who-sometimes-would-forget-to-feed-her-infant-son-who-starved-to-death-gets-65-years-in-prison/)
     
-2. [![Donald Trump, George Stephanopoulos](https://am23.mediaite.com/lc/cnt/uploads/2024/05/Trump-Stephanopoulos-432x243.jpg)](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
+2. [![Micaiah Joseph (U.S. Attorney's Office).](https://am21.mediaite.com/lc/cnt/uploads/2024/11/jan6-9-432x243.jpg)](https://lawandcrime.com/high-profile/obama-appointed-judge-gives-tri-corn-hat-wearing-jan-6-rioter-who-was-dressed-for-battle-3-year-prison-sentence/)
     
-    ### ['No reason for any further delay': Fed-up judge in Trump defamation case against ABC News, George Stephanopoulos refuses demand to push back trial date](https://lawandcrime.com/lawsuit/no-reason-for-any-further-delay-fed-up-judge-in-trump-defamation-case-against-abc-news-george-stephanopoulos-refuses-demand-to-push-back-trial-date/)
+    ### [Obama-appointed judge gives tri-corn hat-wearing Jan. 6 rioter who was 'dressed for battle' 3-year prison sentence](https://lawandcrime.com/high-profile/obama-appointed-judge-gives-tri-corn-hat-wearing-jan-6-rioter-who-was-dressed-for-battle-3-year-prison-sentence/)
     
-3. [![Zachary Young](https://am24.mediaite.com/lc/cnt/uploads/2024/10/Zachary-Young-432x243.jpg)](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
+3. [![Jebea Johnson](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Jebea-Johnson-432x243.jpg)](https://lawandcrime.com/crime/dumbest-criminal-inmate-tries-to-put-out-hit-on-gang-member-using-code-words-on-jail-phone-cops-say/)
     
-    ### ['Issue the subpoena right away': Judge tells CNN's parent company to turn over extensive financial documents in Navy veteran's defamation case against the network](https://lawandcrime.com/high-profile/issue-the-subpoena-right-away-judge-tells-cnns-parent-company-to-turn-over-extensive-financial-documents-in-navy-veterans-defamation-case-against-the-network/)
+    ### ['Dumbest criminal': Inmate tries to put out hit on gang member using code words on jail phone, cops say](https://lawandcrime.com/crime/dumbest-criminal-inmate-tries-to-put-out-hit-on-gang-member-using-code-words-on-jail-phone-cops-say/)
     
-4. [![Donald Trump and Tanya Chutkin and Abigail Jo Shry](https://am22.mediaite.com/lc/cnt/uploads/2024/11/Donald-Trump-and-Tanya-Chutkin-and--432x243.jpg)](https://lawandcrime.com/crime/you-are-in-our-sights-woman-who-threatened-to-kill-trump-jan-6-judge-wont-be-sitting-on-her-couch-daily-watching-the-news-for-a-while/)
+4. [![Joseph Brandon Gerdvil (Orange County Sheriff's Department).](https://am24.mediaite.com/lc/cnt/uploads/2024/11/Joseph-Brandon-Gerdvil-432x243.jpg)](https://lawandcrime.com/video/i-just-called-to-say-i-love-you-man-belts-out-tina-turner-stevie-wonder-after-allegedly-decapitating-parents-bodycam-shows/)
     
-    ### ['You are in our sights': Woman who threatened to kill Trump Jan. 6 judge won't be sitting 'on her couch daily watching the news' for a while](https://lawandcrime.com/crime/you-are-in-our-sights-woman-who-threatened-to-kill-trump-jan-6-judge-wont-be-sitting-on-her-couch-daily-watching-the-news-for-a-while/)
+    ### ['I just called to say I love you': Man belts out Tina Turner, Stevie Wonder after allegedly decapitating parents, bodycam shows](https://lawandcrime.com/video/i-just-called-to-say-i-love-you-man-belts-out-tina-turner-stevie-wonder-after-allegedly-decapitating-parents-bodycam-shows/)
     
-5. [![Jillian Ludwig, Shaquille Taylor](https://am22.mediaite.com/lc/cnt/uploads/2023/11/Jillian-Ludwig-Shaquille-Taylor--432x243.jpg)](https://lawandcrime.com/lawsuit/family-of-jogging-teen-killed-by-man-who-was-walking-free-after-being-deemed-incompetent-for-trial-files-50-million-lawsuit/)
+5. [![lululemon shoplifting suspects](https://am21.mediaite.com/lc/cnt/uploads/2024/11/Lululemon-shoplifting--432x243.jpg)](https://lawandcrime.com/video/gonna-run-me-over-f-bodycam-shows-officer-firing-at-lululemon-shoplifting-suspect-who-nearly-strikes-her-during-getaway/)
     
-    ### [Family of jogging teen killed by man who was walking free after being deemed incompetent for trial files $50 million lawsuit](https://lawandcrime.com/lawsuit/family-of-jogging-teen-killed-by-man-who-was-walking-free-after-being-deemed-incompetent-for-trial-files-50-million-lawsuit/)
+    ### ['Gonna run me over, f---!': Bodycam shows officer firing at Lululemon shoplifting suspect who nearly strikes her during getaway](https://lawandcrime.com/video/gonna-run-me-over-f-bodycam-shows-officer-firing-at-lululemon-shoplifting-suspect-who-nearly-strikes-her-during-getaway/)
     
 
 [](http://eepurl.com/c89Jdb)
