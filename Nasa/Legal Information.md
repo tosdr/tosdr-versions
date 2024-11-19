@@ -70,7 +70,7 @@ Suggested Searches
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
+article4 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![NASA’s Hubble Sees Aftermath of Galaxy’s Scrape with Milky Way](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/artist-concepts/Hubble_LMC_MilkyWay_STScI-01JCED2G6A7M6NJQSY9SMQH230.jpg)
 
 5 min read
 
@@ -82,7 +82,7 @@ article5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-af
 
 ### What’s Up: November 2024 Skywatching Tips from NASA
 
-article2 weeks ago](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2024-skywatching-tips-from-nasa/)
+article3 weeks ago](https://science.nasa.gov/solar-system/skywatching/whats-up-november-2024-skywatching-tips-from-nasa/)
 
 Back
 
@@ -253,13 +253,13 @@ article 4 days ago](https://science.nasa.gov/missions/hubble/hubble-takes-a-look
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 4 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![This release features an illustration of the galaxy in which black hole LID-568 resides. A smaller illustration of black hole itself, in an outlined box, is superimposed on top of the galaxy image toward our upper right. Two lines extend from a single point in the middle of the galaxy and terminate on corners of the outlined box containing the black hole illustration. The placement of the lines and outlined box indicate that the superimposed black hole image is an enlargement of a tiny place in the center of the galaxy.](https://www.nasa.gov/wp-content/uploads/2024/11/lid568-crunched.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![This release features an illustration of the galaxy in which black hole LID-568 resides. A smaller illustration of black hole itself, in an outlined box, is superimposed on top of the galaxy image toward our upper right. Two lines extend from a single point in the middle of the galaxy and terminate on corners of the outlined box containing the black hole illustration. The placement of the lines and outlined box indicate that the superimposed black hole image is an enlargement of a tiny place in the center of the galaxy.](https://www.nasa.gov/wp-content/uploads/2024/11/lid568-crunched.jpg?w=1024)
 
 4 min read
 
 ### Astronomers Find Early Fast-Feeding Black Hole Using NASA Telescopes
 
-article 5 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/)
+article 6 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early-fast-feeding-black-hole-using-nasa-telescopes/)
 
 ### Highlights
 
@@ -269,7 +269,7 @@ article 5 days ago](https://www.nasa.gov/missions/chandra/astronomers-find-early
 
 ### Station Science Top News: Nov. 15, 2024
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![iss070e113015 (March 10, 2024) -- NASA astronaut and Expedition 70 Flight Engineer Jeanette Epps is pictured floating in microgravity aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/03/53589381459-01243dd5d3-o-1.jpg?w=1024)
+article 18 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![iss070e113015 (March 10, 2024) -- NASA astronaut and Expedition 70 Flight Engineer Jeanette Epps is pictured floating in microgravity aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/03/53589381459-01243dd5d3-o-1.jpg?w=1024)
 
 5 min read
 
@@ -281,7 +281,7 @@ article 6 days ago](https://www.nasa.gov/missions/station/iss-research/wearable-
 
 ### Station Science Top News: Nov. 8, 2024
 
-article 7 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)
+article 1 week ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-8-2024/)
 
 ### Highlights
 
@@ -291,19 +291,19 @@ article 7 days ago](https://www.nasa.gov/centers-and-facilities/johnson/station-
 
 ### NASA Satellites Reveal Abrupt Drop in Global Freshwater Levels
 
-article 3 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
+article 4 days ago](https://science.nasa.gov/earth/nasa-satellites-reveal-abrupt-drop-in-global-freshwater-levels/)[![NASA’s EMIT collected this hyperspectral image of the Amazon River in northern Brazil](https://www.nasa.gov/wp-content/uploads/2024/11/1-pia26417-emit-acquatic.png?w=1024)
 
 5 min read
 
 ### NASA’s EMIT Will Explore Diverse Science Questions on Extended Mission
 
-article 4 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-diverse-science-questions-on-extended-mission/)[![Coastal locations, such as Drakes Bay on the Point Reyes peninsula in Northern California](https://www.nasa.gov/wp-content/uploads/2024/11/1-point-reyes-noaa.jpg?w=1024)
 
 4 min read
 
 ### NASA Data Helps International Community Prepare for Sea Level Rise
 
-article 5 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
+article 6 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-international-community-prepare-for-sea-level-rise/)
 
 ### Highlights
 
@@ -313,19 +313,19 @@ article 5 days ago](https://www.nasa.gov/earth/oceans/nasa-data-helps-internatio
 
 ### NASA’s Curiosity Mars Rover Takes a Last Look at Mysterious Sulfur
 
-article 9 hours ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
+article 19 hours ago](https://www.nasa.gov/missions/mars-science-laboratory/curiosity-rover/nasas-curiosity-mars-rover-takes-a-last-look-at-mysterious-sulfur/)[![Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/06/Artemis_1_Rollout-1280.jpg)
 
 2 min read
 
 ### Amendment 68: F.12 Artemis IV Deployed Instruments Program Final Text and Due Dates Released.
 
-article 4 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
+article 5 days ago](https://science.nasa.gov/researchers/solicitations/roses-2024/f-12-artemis-iv-deployed-instruments-program-final-text-and-due-dates-released/)[![Moonquakes](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/lunar-science/2023/09/as14-67-09361_orig.jpg)
 
 2 min read
 
 ### Moonquakes
 
-article 5 days ago](https://science.nasa.gov/moon/moonquakes/)
+article 6 days ago](https://science.nasa.gov/moon/moonquakes/)
 
 ### Featured
 
@@ -335,7 +335,7 @@ article 5 days ago](https://science.nasa.gov/moon/moonquakes/)
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
+article 4 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)[![Hubble Takes a Look at Tangled Galaxies](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/hubble/galaxies/interacting/Hubble_%20MCG+05-31-045_potw2446a.jpg)
 
 2 min read
 
@@ -357,41 +357,41 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Station Science Top News: Nov. 15, 2024
 
-article 8 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
+article 18 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
 
 2 min read
 
 ### Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)[![Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/1714/188_Saturn_E2_80_99s_North_Polar_Hurricane.jpeg)
+article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)[![Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/1714/188_Saturn_E2_80_99s_North_Polar_Hurricane.jpeg)
 
 1 min read
 
 ### Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.
 
-article 8 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/table-1-of-roses-24-and-the-roses-2024-summary-of-solicitation-updated-to-include-link-to-grants-policy-guidance-on-proposal-requirements/)
+article 18 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/table-1-of-roses-24-and-the-roses-2024-summary-of-solicitation-updated-to-include-link-to-grants-policy-guidance-on-proposal-requirements/)
 
 ### Highlights
 
-[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+[![A woman wearing a black polo shirt with the NASA insignia, dark gray pants, and white shoes stands inside an aircraft hangar in front of a scaled aircraft model. The words “SUSAN Electrofan” and “PAX 180” are printed on a graphic along with fuselage, with a large NASA insignia in the center of the plane. The rear of the aircraft model, along with the wings and tail, are taken apart to display the inner components that make up its electrified propulsion system.](https://www.nasa.gov/wp-content/uploads/2024/11/grc-2024-c-12427-002-e1731959466240.jpg?w=1024)
+
+5 min read
+
+### NASA Engineer Carries Indigenous Roots into New Aviation Era
+
+article 11 mins ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
 ### NASA Electric Aircraft Testbed (NEAT)
 
-article 12 hours ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
+article 22 hours ago](https://www.nasa.gov/neat/)[![A blue circle with white type displaying the NASA acronym encircled by a white swoosh and a red arrow.](https://www.nasa.gov/wp-content/uploads/2024/11/nasa-insignia-rgb.jpg?w=1024)
 
 1 min read
 
 ### Dynamic Spin Rig Publications
 
-article 3 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
-
-7 min read
-
-### Six Ways Supercomputing Advances Our Understanding of the Universe
-
-article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
+article 4 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Highlights
 
@@ -401,19 +401,19 @@ article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advance
 
 ### NASA Program Aids Pediatric Patients Facing Medical Treatments
 
-article 11 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-program-aids-pediatric-patients-facing-medical-treatments/)[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
+article 21 hours ago](https://www.nasa.gov/directorates/somd/space-communications-navigation-program/nasa-program-aids-pediatric-patients-facing-medical-treatments/)[![an engineer looks into an eyepiece connected to a large electronic instrument.](https://www.nasa.gov/wp-content/uploads/2024/03/img-2812.jpg?w=1024)
 
 2 min read
 
 ### NASA Goddard Lidar Team Receives Center Innovation Award for Advancements
 
-article 3 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
+article 4 days ago](https://www.nasa.gov/technology/goddard-tech/nasa-goddard-lidar-team-receives-center-innovation-award-for-advancements/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/08-degrendele-exh-liq-v04-4k-h265.jpg?w=1024)
 
 7 min read
 
 ### Six Ways Supercomputing Advances Our Understanding of the Universe
 
-article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
+article 4 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advances-our-understanding-of-the-universe/)
 
 ### Featured
 
@@ -423,7 +423,7 @@ article 3 days ago](https://www.nasa.gov/general/six-ways-supercomputing-advance
 
 ### Math, Mentorship, Motherhood: Behind the Scenes with NASA Engineers
 
-article 1 week ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
+article 2 weeks ago](https://www.nasa.gov/aeronautics/math-mentorship-motherhood-nasa-engineers/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/jsc2024e005968.jpg?w=1024)
 
 5 min read
 
@@ -445,19 +445,19 @@ article 2 weeks ago](https://science.nasa.gov/planetary-science/programs/radiois
 
 ### Precision Pointing Goes the Distance on NASA Experiment
 
-article 4 days ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![The NASA flag is seen flying at half-staff on NASA's Day of Remembrance, Thursday, Feb. 7, 2019, at NASA Headquarters in Washington.](https://www.nasa.gov/wp-content/uploads/2022/12/32076592507-b9aa350caf-k.jpg?w=977)
+article 5 days ago](https://www.nasa.gov/directorates/stmd/precision-pointing-goes-the-distance-on-nasa-experiment/)[![The NASA flag is seen flying at half-staff on NASA's Day of Remembrance, Thursday, Feb. 7, 2019, at NASA Headquarters in Washington.](https://www.nasa.gov/wp-content/uploads/2022/12/32076592507-b9aa350caf-k.jpg?w=977)
 
 3 min read
 
 ### NASA Seeks Options for Future Headquarters Building
 
-article 4 days ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/)[![The crew of Apollo 12](https://www.nasa.gov/wp-content/uploads/2024/11/apollo-12-1-crew-photo-s69-38992.jpg?w=1024)
+article 5 days ago](https://www.nasa.gov/centers-and-facilities/hq/nasa-seeks-options-for-future-headquarters-building/)[![The crew of Apollo 12](https://www.nasa.gov/wp-content/uploads/2024/11/apollo-12-1-crew-photo-s69-38992.jpg?w=1024)
 
 23 min read
 
 ### 55 Years Ago: Apollo 12 Makes a Pinpoint Landing on the Moon
 
-article 4 days ago](https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/)
+article 5 days ago](https://www.nasa.gov/history/55-years-ago-apollo-12-makes-a-pinpoint-landing-on-the-moon/)
 
 ### Highlights
 
@@ -479,7 +479,7 @@ article 3 weeks ago](https://www.nasa.gov/centers-and-facilities/armstrong/la-na
 
 ### Destacado de la NASA: Felipe Valdez, un ingeniero inspirador
 
-article 3 weeks ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)
+article 4 weeks ago](https://www.nasa.gov/es/destacado-de-la-nasa-felipe-valdez-un-ingeniero-inspirador/)
 
 [![OCIO Banner](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png?w=1907)](https://www.nasa.gov/wp-content/uploads/2023/03/2021-ocio-banner.png)
 
