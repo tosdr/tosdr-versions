@@ -64,9 +64,9 @@ Featured stories
 
 Loss of Smell Tied to Over 100 Serious Medical Conditions](https://www.everydayhealth.com/neurological-disorders/loss-of-smell-tied-to-serious-medical-conditions/)[![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
-![ ](https://images.everydayhealth.com/images/news/fda-pulling-phenylephrine-from-market-1440x810.jpg)
+![ ](https://images.everydayhealth.com/images/news/organic-carrots-recalled-for-e-coli-1440x810.jpg)
 
-FDA Plans to Pull Certain Over-the-Counter Cough Medicines and Decongestants from Store Shelves](https://www.everydayhealth.com/lung-respiratory/fda-plans-to-pull-certain-cough-medicines-and-decongestants/)
+E. Coli Outbreak Tied to Organic Whole and Baby Carrots](https://www.everydayhealth.com/infectious-diseases/e-coli-outbreak-tied-to-organic-carrots/)
 
 ![ ](https://images.everydayhealth.com/react-component-images/image-src-placeholder-16x9288625876.png)
 
