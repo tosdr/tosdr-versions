@@ -21,7 +21,7 @@ Get your deals](https://www.thomannmusic.com/social_70th-anniversary.html)
 search  
 
 * [3-Year Thomann Warranty](https://www.thomannmusic.com/helpdesk_warranty.html)
-* [Repair Service](https://www.thomannmusic.com/helpdesk_repair.html)
+* [Satisfaction Guarantee](https://www.thomannmusic.com/helpdesk_satisfaction.html)
 
 en · $
 
@@ -79,6 +79,7 @@ en · $
 * [New Products](https://www.thomannmusic.com/prodnews.html)
 * [Top Sellers](https://www.thomannmusic.com/topseller.html)
 * [Bargains](https://www.thomannmusic.com/blowouts.html)
+* [Download Deals](https://www.thomannmusic.com/special_downloaddeals.html)
 
 * [Gift voucher](https://www.thomannmusic.com/gift_voucher.html)
 
