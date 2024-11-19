@@ -117,57 +117,57 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Fast, Accurate & Easy to Use
-> ----------------------------
+> Instantaneous, Nicely Designed, Graphical Invoices
+> --------------------------------------------------
 > 
-> Small Business Management System or SBMS, now rebranded as Invoices Online is an online invoicing system developed by the same guys that developed our site, we use it and honestly recommend it to all people who have dynamic sites, or want an online invoicing solution.  The invoicing application is fast, accurate, easy to use, and it really enhances the online experience of our clients.
+> Selling backtracks and popular songs by South African artists in our online shop required an online invoicing system that sends instantaneous, nicely designed, graphical invoices in pdf format to clients that made realtime purchases on our site. InvoicesOnline.co.za provided us with the perfect solution, their API integration enabled our clients to view their invoices and account balance right in our site. We are very satisfied with InvoicesOnline.co.za.
 
-Jannie Schutte - myFinance-Online.co.za
+Henry Venter
 
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=8843461)  
-Echo Recording Studio cc
+![valued client Bchange Online CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8330&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=208628510)  
+Bchange Online CC
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=204079292)  
-OPTIMUS ELECTRICAL PTY (LTD)
-
-![valued client VIR Electrical (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7991&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=45139851)  
-VIR Electrical (PTY) LTD
-
-![valued client Repairs In Motion](https://www.invoicesonline.co.za/scripts/image.php?bid=6788&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=187116084)  
-Repairs In Motion
-
-![valued client Import Maaw](https://www.invoicesonline.co.za/scripts/image.php?bid=6159&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=23931179)  
-Import Maaw
-
-![valued client Salt & Pepper Guest Accommodation (Pty) Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8332&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=122120061)  
-Salt & Pepper Guest Accommodation (Pty) Ltd.
-
-![valued client CBR Verwe/Paints](https://www.invoicesonline.co.za/scripts/image.php?bid=6574&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=174386720)  
-CBR Verwe/Paints
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=6571523)  
-Brilliant Roof Products
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=63280096)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=76533543)  
+![valued client Tagline Brands](https://www.invoicesonline.co.za/scripts/image.php?bid=6177&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=123113402)  
 Tagline Brands
 
-![valued client Blue Sky Solar Services](https://www.invoicesonline.co.za/scripts/image.php?bid=7332&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=38430702)  
-Blue Sky Solar Services
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=2474050)  
+Henry's Home Renovations
 
-![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=11379685)  
-Goju Ryu Karate Centre
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=91554523)  
+Desygn
 
-![valued client VS Auto Spares and Repairs (Pty) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=7961&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=175586055)  
-VS Auto Spares and Repairs (Pty) LTD
+![valued client Gemini-IT Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8156&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=58695253)  
+Gemini-IT Group
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=208024811)  
-TIGERDSL
+![valued client Network Grey (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=7333&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=172465933)  
+Network Grey (Pty) Ltd
 
-![valued client Frequency Fanatics (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8558&file=logo_300_100&type=&fe=8e2d98c3546cb15711c8469843cb2610d02de517d184a074c64af96f9ce52764&c=210511002)  
-Frequency Fanatics (Pty) Ltd
+![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=3969179)  
+Wiselink Broadband Pty Ltd
+
+![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=79088662)  
+Vplay Letsheng Mall
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=212642356)  
+Wiselink Broadband Dundee
+
+![valued client GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS](https://www.invoicesonline.co.za/scripts/image.php?bid=3194&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=180510854)  
+GF CASTELYN Trading as ELECTROPRINT ARMATURE REWINDERS
+
+![valued client INDUSTRIAL DRUM SERVICES (PTY)LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7576&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=130853597)  
+INDUSTRIAL DRUM SERVICES (PTY)LTD
+
+![valued client Kara Medical (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=3913&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=69334419)  
+Kara Medical (Pty) Ltd
+
+![valued client Stories (Pty) Ltd t/a Storietyd](https://www.invoicesonline.co.za/scripts/image.php?bid=2162&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=28708170)  
+Stories (Pty) Ltd t/a Storietyd
+
+![valued client Digifax (Pty) Ltd trading as Digirent](https://www.invoicesonline.co.za/scripts/image.php?bid=571&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=11694794)  
+Digifax (Pty) Ltd trading as Digirent
+
+![valued client Qothiphango Mining ](https://www.invoicesonline.co.za/scripts/image.php?bid=8487&file=logo_300_100&type=&fe=917db8975bfe41404491733e2e6cde4c5161f66d8fb2294b2ebffbc8ad83a7ea&c=81231308)  
+Qothiphango Mining
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
