@@ -190,14 +190,14 @@
 
 Subscribe
 
-[#### Heart Health](https://www.healthline.com/heart-health)
+[#### Weight Management](https://www.healthline.com/weight-management)
 
-* [Basics](https://www.healthline.com/heart-health/basics)
-* [Cholesterol](https://www.healthline.com/heart-health/cholesterol)
-* [High Blood Pressure](https://www.healthline.com/heart-health/hypertension)
-* [What to Eat](https://www.healthline.com/heart-health/diet)
-* [Prevention and Lifestyle](https://www.healthline.com/heart-health/prevention)
-* [Afib](https://www.healthline.com/heart-health/afib)
+* [Nutrition](https://www.healthline.com/weight-management/nutrition)
+* [Fitness](https://www.healthline.com/weight-management/fitness)
+* [Mental Well-Being](https://www.healthline.com/weight-management/well-being)
+* [Healthy Habits](https://www.healthline.com/weight-management/healthy-habits)
+* [Treatment](https://www.healthline.com/weight-management/treatment-medication)
+* [Apps](https://www.healthline.com/weight-management/apps-products)
 
 Terms of Use
 ============
