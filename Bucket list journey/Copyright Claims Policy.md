@@ -243,6 +243,16 @@ Jump right in and you will get your printable ideas by email:
 
 ![](https://forms.aweber.com/form/displays.htm?id=TBxsTCxsnAzM)
 
+[Save this hotel for your Yountville, California Bu ![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
+The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
+Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
+@yountvilleca @visitnapavalley](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
+
+![Save this hotel for your Yountville, California Bucket List. @NapaValleyLodge is just minutes away from everything you’ll want to do in Yountville, but you may not want to leave. 
+The grounds alone are dreamy, with their relaxing fountains trickling in the background, fire pits crackling under the stars, a sparkling pool calling your name, and plenty of cozy spots to lounge with a glass of wine (or two 😉). 
+Oh, and did I mention the bocce ball court? Because a little friendly competition pairs perfectly with a day of wine tasting 🍷 
+@yountvilleca @visitnapavalley](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCjq-XyPMhi/) 
+
 [I’m no artist, but I do LOVE trying something ne ![I’m no artist, but I do LOVE trying something new—how about you?
 When my friend @inspiringoptimism invited me to her dreamy vacation rental @hummingwayranch for a paint night, I was SO in! #bucketlist 
 The mission? Four of us, armed with paintbrushes, a YouTube tutorial, and lots of wine, took on the challenge of painting (or at least attempting to paint 😂) a colorful peacock 🦚 Let’s just say, some of our peacocks had very unique personalities!
@@ -304,38 +314,6 @@ Sometimes, it’s about the small victories, like trying a new recipe, signing u
 What little adventure did you have today?
 PS: this was my reward for try saying yes to an invitation I’d normally turn down 😊
 #bucketlist #bucketlist✔️ #goals #motovation #bucketlistadventures #bucketlisters #faceyourfears #saynotofear #takearisk](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DCHVXphvEsX/) 
-
-[🌳 Here’s my one-day bucket list itinerary for ![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
-(💫 SAVE for planning your trip to Northern #California💫)
-Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
-1️⃣ Have coffee & Pastries @tartinebakery in the Inner Sunset ☕🥐 This local gem is famous for its pastries (and sourdough bread!)—seriously, their babka is a must-try!
-2️⃣ Explore the California Academy of Sciences (@calacademy) 🐠 Don’t miss the four-story Osher Rainforest (butterflies galore!) or the bioluminescent creatures in the aquarium.
-3️⃣ Stop by @conservatoryofflowers 🌸 They’ve got giant water lilies and rare orchids, plus the building is a 100+ year-old wood-and-glass building.
-4️⃣ See the masterpieces at @deyoungmuseum 🎨  Not a museum lover? Neither am I, but the de Young might have changed my mind. It’s packed with art from the 17th century to today
-5️⃣ Grab lunch @hookfishco🐟🌮 Fuel up with poke bowls, fish tacos, and guac at this laid-back spot near Ocean Beach. Outdoor seating only, so bundle up if it’s chilly!
-6️⃣ Make a Quick Stop at Queen Wilhelmina Garden and the Dutch Windmill 🌷 Spring tulips are a highlight, but even in the off-season (I was there in fall), the windmill is a photo-op.
-7️⃣ Pedal Boat on Blue Heron Lake 🚤 Hop into a pedal or rowboat @blueheronboathouse. Cruise around, enjoy the scenery and get a little leg workout at the same time!
-8️⃣ Walk the JFK Promenade 🚶‍♀️Take a scenic walk along this artsy Promenade toward the Japanese Tea Garden.
-9️⃣ Stroll through the @japaneseteagardensf 🍁 Finish the day in peace at this 5-acre haven of koi ponds, pagodas, and cherry blossoms (in March/April). 
-1️⃣0️⃣ Dinner at @kothaisf 🍽
-End your adventure with a feast at this cozy spot in the Inner Sunset. Their Asian-inspired dishes like Slow Shrooms and Monterey Squid are the perfect way to wrap up a day well-spent.
-#sanfrancisco #sanfranciscocalifornia #california #BucketListAdventures #visitcalifornia#travelbucketlist #GoldenGatePark](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='1000'%20height='560'%20viewBox='0%200%201000%20560'%3E%3C/svg%3E)
-
-![🌳 Here’s my one-day bucket list itinerary for GOLDEN GATE PARK, SAN FRANCISCO 🌳
-(💫 SAVE for planning your trip to Northern #California💫)
-Want to conquer all that Golden Gate Park has to offer in just one day? Challenge accepted! At over 1,000 acres (bigger than Central Park!), this park is a haven of gardens, museums, lakes, and trails. Here’s how to make the most of it:
-1️⃣ Have coffee & Pastries @tartinebakery in the Inner Sunset ☕🥐 This local gem is famous for its pastries (and sourdough bread!)—seriously, their babka is a must-try!
-2️⃣ Explore the California Academy of Sciences (@calacademy) 🐠 Don’t miss the four-story Osher Rainforest (butterflies galore!) or the bioluminescent creatures in the aquarium.
-3️⃣ Stop by @conservatoryofflowers 🌸 They’ve got giant water lilies and rare orchids, plus the building is a 100+ year-old wood-and-glass building.
-4️⃣ See the masterpieces at @deyoungmuseum 🎨  Not a museum lover? Neither am I, but the de Young might have changed my mind. It’s packed with art from the 17th century to today
-5️⃣ Grab lunch @hookfishco🐟🌮 Fuel up with poke bowls, fish tacos, and guac at this laid-back spot near Ocean Beach. Outdoor seating only, so bundle up if it’s chilly!
-6️⃣ Make a Quick Stop at Queen Wilhelmina Garden and the Dutch Windmill 🌷 Spring tulips are a highlight, but even in the off-season (I was there in fall), the windmill is a photo-op.
-7️⃣ Pedal Boat on Blue Heron Lake 🚤 Hop into a pedal or rowboat @blueheronboathouse. Cruise around, enjoy the scenery and get a little leg workout at the same time!
-8️⃣ Walk the JFK Promenade 🚶‍♀️Take a scenic walk along this artsy Promenade toward the Japanese Tea Garden.
-9️⃣ Stroll through the @japaneseteagardensf 🍁 Finish the day in peace at this 5-acre haven of koi ponds, pagodas, and cherry blossoms (in March/April). 
-1️⃣0️⃣ Dinner at @kothaisf 🍽
-End your adventure with a feast at this cozy spot in the Inner Sunset. Their Asian-inspired dishes like Slow Shrooms and Monterey Squid are the perfect way to wrap up a day well-spent.
-#sanfrancisco #sanfranciscocalifornia #california #BucketListAdventures #visitcalifornia#travelbucketlist #GoldenGatePark](https://bucketlistjourney.net/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/reel/DB9OT8Fylus/) 
 
 [Follow on Instagram](https://www.instagram.com/bucketlistjourney/)
 
