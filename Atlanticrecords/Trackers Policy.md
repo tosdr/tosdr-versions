@@ -1,4 +1,4 @@
-LAST REVISED: 10 February 2023
+LAST REVISED: 19 November 2024
 
 Cookies Policy
 ==============
