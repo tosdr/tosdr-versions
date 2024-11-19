@@ -225,7 +225,7 @@ Questions? Contact us at support@acorns.com
 
 ![Acorns logo](https://sqy7rm.media.zestyio.com/Acorns-Footer-Logo-2x-2022.png)
 
-[**Pricing**](https://www.acorns.com/pricing/) [**Store**](https://store.acorns.com/) [**Affiliates**](https://app.impact.com/campaign-campaign-info-v2/Acorns-Invest-Spare-Change.brand) [**Legal**](https://www.acorns.com/terms/) [**Privacy Policy**](https://www.acorns.com/privacy/)
+[**Pricing**](https://www.acorns.com/pricing/) [**Store**](https://store.acorns.com/) [**Affiliates**](https://app.impact.com/campaign-campaign-info-v2/Acorns-Invest-Spare-Change.brand) [**Acorns Legal**](https://www.acorns.com/terms/) [**Acorns Early Legal**](https://www.gohenry.com/us/terms-and-conditions/)
 
  [![Instagram](https://sqy7rm.media.zestyio.com/Instagram.png)](https://www.instagram.com/acorns/)[![Twitter](https://sqy7rm.media.zestyio.com/Twitter.png)](https://twitter.com/acorns)[![Facebook](https://sqy7rm.media.zestyio.com/Facebook.png)](https://www.facebook.com/AcornsGrow/)![Wheelchair icon](https://sqy7rm.media.zestyio.com/EqualWeb-ADA-icon-green.svg)
 
