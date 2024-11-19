@@ -36,18 +36,18 @@
         
         Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
     
+    * [![This Costco Membership comes with a $45 Digital Costco Shop Card](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        This Costco Membership comes with a $45 Digital Costco Shop Card](https://www.bleepingcomputer.com/offer/deals/this-costco-membership-comes-with-a-45-digital-costco-shop-card/)
+    * [![Spotify abused to promote pirated software and game cheats](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+        
+        Spotify abused to promote pirated software and game cheats](https://www.bleepingcomputer.com/news/security/spotify-abused-to-promote-pirated-software-and-game-cheats/)
     * [![Brave on iOS adds new ](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Brave on iOS adds new "Shred" button to wipe site-specific data](https://www.bleepingcomputer.com/news/security/brave-on-ios-adds-new-shred-button-to-wipe-site-specific-data/)
     * [![Chinese hackers exploit Fortinet VPN zero-day to steal credentials](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
         
         Chinese hackers exploit Fortinet VPN zero-day to steal credentials](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-fortinet-vpn-zero-day-to-steal-credentials/)
-    * [![US space tech giant Maxar discloses employee data breach](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        US space tech giant Maxar discloses employee data breach](https://www.bleepingcomputer.com/news/security/us-space-tech-giant-maxar-discloses-employee-data-breach/)
-    * [![Palo Alto Networks patches two firewall zero-days used in attacks](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
-        
-        Palo Alto Networks patches two firewall zero-days used in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-patches-two-firewall-zero-days-used-in-attacks/)
     
 * [Tutorials](https://www.bleepingcomputer.com/tutorials/)
     
