@@ -338,11 +338,11 @@ Related Insights
     
     Article
     
-* [Easy Money Management](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/easy-money-management-with-or-without-a-checking-account)
+* [4 Factors to Opening a Checking Account for Teens](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/should-your-teen-have-a-student-checking-account)
     
     Article
     
-* [Checking Account Alternatives](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/checking-account--alternatives)
+* [How to endorse a check: 6 important steps](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/how-to-endorse-a-check)
     
     Article
     
