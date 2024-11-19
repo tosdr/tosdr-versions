@@ -309,6 +309,12 @@ Menü
 * [Partner](https://homematic-ip.com/de/partner)
 * [Karriere](https://karriere.eq-3.de/karriere.html)
 
+ [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_3.jpg.webp?itok=P10YaEAs)
+
+News
+
+Macht jeden Garten smart: Das neue Homematic IP Schalt-Mess-Kabel – außen](https://homematic-ip.com/de/news/schalt-mess-kabel-aussen-smarter-garten)
+
  [![](/sites/default/files/styles/thumbnail/public/images/neuheiten_press_news-grafik_2.jpg.webp?itok=vapN3H64)
 
 News
