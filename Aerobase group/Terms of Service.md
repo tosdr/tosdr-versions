@@ -150,6 +150,11 @@ For further information regarding the applicable laws, regulations, and policies
 
 #### Defense News
 
+* [Pentagon announces hypersonic testing pact with UK, Australia](https://www.defensenews.com/pentagon/2024/11/18/pentagon-announces-hypersonic-testing-pact-with-uk-australia/)  
+    11/18/24 03:40pm  
+    
+    A new hypersonic testing partnership between the U.S., Australia and the U.K. will pool the three nations' expertise in testing high-speed weapons, including the U.S. Air Force's Air-launched Rapid Response Weapon, pictured here mounted on a B-52 bomber. (Giancarlo Casem/U.S. Air Force)
+    
 * [Second Trump presidency could mean harder line with defense industry](https://www.defensenews.com/air/2024/11/18/second-trump-presidency-could-mean-harder-line-with-defense-industry/)  
     11/18/24 11:12am  
     
@@ -164,11 +169,6 @@ For further information regarding the applicable laws, regulations, and policies
     11/13/24 06:51am  
     
     A J-35A stealth fighter, designed and built by Shenyang Aircraft Corporation, taxis at Zhuhai International Airport on Nov. 12, 2024. (China Military)
-    
-* [Next-gen stealth tanker may be unaffordable, Air Force secretary fears](https://www.defensenews.com/air/2024/11/08/next-gen-stealth-tanker-may-be-unaffordable-air-force-secretary-fears/)  
-    11/08/24 02:15pm  
-    
-    The Air Force worries it will be unable to afford a next-generation refueling tanker, as the service struggles with how to pay for a bow wave of modernizations. (Alexis Morris/U.S. Air Force)
     
 
 Recent parts by keyword  
