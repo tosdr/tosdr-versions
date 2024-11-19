@@ -84,21 +84,25 @@ Close
     
     USD $4,600.00 – $5,700.00
     
+     [![CRG PLUS – GPS Receiver](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver/)
+    
+    [CRG PLUS – GPS Receiver](https://www.agragps.com/product/crg-plus-gps-receiver/)
+    
+    $5,700.00
+    
+     [![CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
+    
+    [CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
+    
+    USD $6,800.00
+    
+     [![CRG VISION PLUS PACKAGE](https://www.agragps.com/wp-content/uploads/2024/11/xVision-Display-web-image-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ugOUdB7XgF.jpg)](https://www.agragps.com/product/crg-vision-plus-package/)
+    
+    [CRG VISION PLUS PACKAGE](https://www.agragps.com/product/crg-vision-plus-package/)
+    
+    $13,850.00
+    
     BRIDGE
-    
-     [![CRG – GPS receiver + Bridge](https://www.agragps.com/wp-content/uploads/2022/03/xCRG-5371-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.9ct3xFsbXm.jpg)](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
-    
-    [CRG – GPS receiver + Bridge](https://www.agragps.com/product/crg-chameleon-rtk-guidance/)
-    
-    USD $4,600.00 – $5,700.00
-    
-     [![AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/wp-content/uploads/2023/05/x20230525_163159-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R81JYgTrln.jpg)](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
-    
-    [AGCO-JD Rogator 932-937 SERIES](https://www.agragps.com/product/agco-jd-rogator-932-937-series/)
-    
-    $3,380.00
-    
-    ITC Extend
     
      [![ITCExtend for Starfire ITC](https://www.agragps.com/wp-content/uploads/2022/02/xITCextend-4881-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Fg3-LTL1lg.jpg)](https://www.agragps.com/product/itcextend/)
     
@@ -110,23 +114,23 @@ Close
     
     Accessories
     
-     [![CLAAS LEXION ROOF MOUNT](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112336-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VUNyWe8Xy5.jpg)](https://www.agragps.com/product/claas-lexion-mount/)
+     [![CASE CNH OVAL mount](https://www.agragps.com/wp-content/uploads/2022/11/xCNH-OVAL-thegem-product-justified-square-xxs.jpg.pagespeed.ic.6aOVQv9bO5.jpg)](https://www.agragps.com/product/case-cnh-oval-mount/)
     
-    [CLAAS LEXION ROOF MOUNT](https://www.agragps.com/product/claas-lexion-mount/)
-    
-    $120.00
-    
-     [![FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/wp-content/uploads/2021/10/xfendtmount7xx-thegem-product-justified-square-xxs.jpg.pagespeed.ic.vVGCq-_fUN.jpg)](https://www.agragps.com/product/fendt-mount-2/)
-    
-    [FENDT ROOF MOUNT 7XX-10XX](https://www.agragps.com/product/fendt-mount-2/)
+    [CASE CNH OVAL mount](https://www.agragps.com/product/case-cnh-oval-mount/)
     
     $120.00
     
-     [![CAB-RAM Display mount](https://www.agragps.com/wp-content/uploads/2022/10/x20220403_114913-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.uPk0t3qePx.jpg)](https://www.agragps.com/product/cab-ram/)
+     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R2UtLQrlYG.jpg)](https://www.agragps.com/product/fendt-mount/)
     
-    [CAB-RAM Display mount](https://www.agragps.com/product/cab-ram/)
+    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
     
-    $90.00
+    $120.00
+    
+     [![Emlid Reach RS2+ Base station](https://www.agragps.com/wp-content/uploads/2022/03/xemlid2-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.-uOYn_Xix2.jpg)](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    [Emlid Reach RS2+ Base station](https://www.agragps.com/product/emlid-reach-rs2-base-station/)
+    
+    $2,690.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
@@ -158,6 +162,16 @@ All Categories
 * Fendt
     
 * FENDT
+    
+* GPS
+    
+* GPS
+    
+* GPS
+    
+* GPS
+    
+* GPS
     
 * GPS
     
@@ -248,13 +262,11 @@ Menu
     
     USD $4,600.00 – $5,700.00
     
-    BRIDGE
+     [![CRG PLUS – GPS Receiver](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver/)
     
-     [![CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/wp-content/uploads/2022/02/xDSC00162-scaled-thegem-product-justified-square-xxs.jpg.pagespeed.ic.A6FkpPuYj7.jpg)](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
+    [CRG PLUS – GPS Receiver](https://www.agragps.com/product/crg-plus-gps-receiver/)
     
-    [CNH-JD Magnum/T8/Analog 2012-2019](https://www.agragps.com/product/cnh-jd-magnum-t8-analog-2012-2019/)
-    
-    $3,380.00
+    $5,700.00
     
      [![CRG PLUS – GPS receiver with Bridge](https://www.agragps.com/wp-content/uploads/2024/11/xWhatsApp-Image-2024-11-18-at-13.13.11_ece95405-thegem-product-justified-square-xxs.jpg.pagespeed.ic.VbLq8ct70w.jpg)](https://www.agragps.com/product/crg-plus-gps-receiver-with-bridge/)
     
@@ -262,7 +274,13 @@ Menu
     
     USD $6,800.00
     
-    ITC Extend
+     [![CRG VISION PLUS PACKAGE](https://www.agragps.com/wp-content/uploads/2024/11/xVision-Display-web-image-2-thegem-product-justified-square-xxs.jpg.pagespeed.ic.ugOUdB7XgF.jpg)](https://www.agragps.com/product/crg-vision-plus-package/)
+    
+    [CRG VISION PLUS PACKAGE](https://www.agragps.com/product/crg-vision-plus-package/)
+    
+    $13,850.00
+    
+    BRIDGE
     
      [![ITCExtend for Starfire ITC](https://www.agragps.com/wp-content/uploads/2022/02/xITCextend-4881-thegem-product-justified-square-xxs.jpg.pagespeed.ic.Fg3-LTL1lg.jpg)](https://www.agragps.com/product/itcextend/)
     
@@ -274,23 +292,23 @@ Menu
     
     Accessories
     
-     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R2UtLQrlYG.jpg)](https://www.agragps.com/product/fendt-mount/)
+     [![CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/wp-content/uploads/2024/05/xAxion-F-M-thegem-product-justified-square-xxs.jpg.pagespeed.ic.0zFTjpsgg-.jpg)](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
-    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
+    [CLAAS AXION ROOF MOUNT – FRONT](https://www.agragps.com/product/claas-axion-roof-mount-front/)
     
     $120.00
-    
-     [![MTG POWER CABLE 6POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112154-thegem-product-justified-square-xxs.jpg.pagespeed.ic.OuTJI2461j.jpg)](https://www.agragps.com/product/mtg-power-cable-6pos/)
-    
-    [MTG POWER CABLE 6POS](https://www.agragps.com/product/mtg-power-cable-6pos/)
-    
-    $160.00
     
      [![MTG POWER CABLE 12POS](https://www.agragps.com/wp-content/uploads/2022/04/x20220403_112225-thegem-product-justified-square-xxs.jpg.pagespeed.ic.G7AFfIV5DV.jpg)](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
     [MTG POWER CABLE 12POS](https://www.agragps.com/product/mtg-power-cable-12pos/)
     
     $160.00
+    
+     [![FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/wp-content/uploads/2021/10/x20220403_112521-thegem-product-justified-square-xxs.jpg.pagespeed.ic.R2UtLQrlYG.jpg)](https://www.agragps.com/product/fendt-mount/)
+    
+    [FENDT ROOF MOUNT 8XX-9XX](https://www.agragps.com/product/fendt-mount/)
+    
+    $120.00
     
 * [About CRG](https://www.agragps.com/about-crg/)
 * [Become a Dealer](https://www.agragps.com/dealer-request/)
