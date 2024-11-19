@@ -4,27 +4,29 @@ Features
 
 [#### Podcast Hosting
 
-Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Private Podcasts
+Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Distribution
 
-Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Analytics
+Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### Analytics
 
 Podcast analytics software](https://transistor.fm/features/podcast-analytics-software/)[#### AI Transcription
 
-Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Distribution
+Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Website Builder
 
-Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### Dynamic Ads
+Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[#### Network Website Builder
 
-Automatically insert ads in episodes.](https://transistor.fm/features/dynamic-ads/)[#### YouTube Auto-posting
+Build a website to showcase your network](https://transistor.fm/features/network-websites/)[#### Private Podcasts
 
-Auto-post your podcast to YouTube](https://transistor.fm/features/youtube/)[#### Website Builder
+Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Dynamic Ads
 
-Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[#### Collaborate
+Automatically insert ads in episodes.](https://transistor.fm/features/dynamic-ads/)[#### Collaborate
 
-Invite team members to your podcast](https://transistor.fm/features/invite-multiple-collaborators/)[#### Embeddable Player
+Invite team members to your podcast](https://transistor.fm/features/invite-multiple-collaborators/)[#### Integrations
 
-Custom embeddable podcast player](https://transistor.fm/features/embeddable-podcast-player/)[#### Integrations
+Integrations for your podcast workflow](https://transistor.fm/features/integrations/)[#### Embeddable Player
 
-Integrations for your podcast workflow](https://transistor.fm/features/integrations/)
+Custom embeddable podcast player](https://transistor.fm/features/embeddable-podcast-player/)[#### YouTube Auto-posting
+
+Auto-post your podcast to YouTube](https://transistor.fm/features/youtube/)
 
 [View all Features](https://transistor.fm/features/)
 
@@ -32,25 +34,25 @@ Integrations for your podcast workflow](https://transistor.fm/features/integrati
 
 Company
 
-[Blog
+[#### Blog
 
-Read our latest podcasting articles and guides.](https://transistor.fm/blog/)[About us
+Read our latest podcasting articles and guides.](https://transistor.fm/blog/)[#### About Us
 
-Transistor's story so far.](https://transistor.fm/about/)[Our customers
+Transistor's story so far.](https://transistor.fm/about/)[#### Our customers
 
-Who is using Transistor for their podcast?](https://transistor.fm/customers/)[Reviews
+Who is using Transistor for their podcast?](https://transistor.fm/customers/)[#### Reviews
 
-Podcast hosting reviews](https://transistor.fm/reviews/)
+Podcast hosting reviews.](https://transistor.fm/reviews/)
 
 ### Recent Posts
 
 [How to start a podcast](https://transistor.fm/how-to-start-a-podcast/) [What is a podcast RSS feed?](https://transistor.fm/podcast-rss-feed/) [How to promote your podcast](https://transistor.fm/ideas-promote-podcast/)
 
-[View all Posts →](https://transistor.fm/blog/)
+[View all Posts](https://transistor.fm/blog/)
 
 [Sign in](https://dashboard.transistor.fm/signin) [Start free trial](https://dashboard.transistor.fm/signup)
 
-[Dashboard →](https://dashboard.transistor.fm/)
+[Dashboard](https://dashboard.transistor.fm/)
 
 Toggle menu
 
@@ -58,15 +60,15 @@ Toggle menu
 
 [#### Podcast Hosting
 
-Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Private Podcasts
+Host unlimited podcasts on one account](https://transistor.fm/features/host-multiple-podcasts-on-the-same-account/)[#### Distribution
 
-Create a private podcast for your team](https://transistor.fm/features/private-podcasts/)[#### Analytics
+Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[#### Analytics
 
 Podcast analytics software](https://transistor.fm/features/podcast-analytics-software/)[#### AI Transcription
 
-Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Distribution
+Automatically transcribe your podcast](https://transistor.fm/features/ai-transcription/)[#### Website Builder
 
-Easily submit your podcast everywhere](https://transistor.fm/features/distribution/)[View all Features](https://transistor.fm/features/)
+Podcast website builder](https://transistor.fm/features/podcast-website-builder/)[View all Features](https://transistor.fm/features/)
 
 ### Menu
 
@@ -74,7 +76,7 @@ Easily submit your podcast everywhere](https://transistor.fm/features/distributi
 
 [Dashboard](https://dashboard.transistor.fm/) [Sign In](https://dashboard.transistor.fm/signin) [Start free trial](https://dashboard.transistor.fm/signup)
 
-Terms of Service
+Terms of Service
 ================
 
 [These Terms](https://www.iubenda.com/terms-and-conditions/87497601) govern
@@ -637,7 +639,7 @@ Transistor provides podcast hosting and analytics for thousands of organizations
 
 [Learn how to start a podcast →](https://transistor.fm/how-to-start-a-podcast/)
 
-[Bluesky](https://bsky.app/profile/transistor.fm "Transistor on Bluesky") [YouTube](https://www.youtube.com/channel/UCY-RAM94RTpFuXvcYnRDqCA "Transistor on YouTube") [Facebook](https://facebook.com/transistor.fm "Transistor on Facebook") [Instagram](https://www.instagram.com/transistor.fm/ "Transistor on Instagram") [Mastodon](https://podcastindex.social/@transistor "Transistor on Mastadon")
+[Bluesky](https://bsky.app/profile/transistor.fm "Transistor on Bluesky") [YouTube](https://www.youtube.com/channel/UCY-RAM94RTpFuXvcYnRDqCA "Transistor on YouTube") [Facebook](https://facebook.com/transistor.fm "Transistor on Facebook") [Instagram](https://www.instagram.com/transistor.fm "Transistor on Instagram") [Mastodon](https://podcastindex.social/@transistor "Transistor on Mastodon")
 
 ### Podcast Solutions
 
