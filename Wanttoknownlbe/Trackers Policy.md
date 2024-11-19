@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/chinezen-laten-us-als-een-blok-vallen/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/het-avatar-festival-kom-je-ook/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
