@@ -14,19 +14,17 @@ Use Cases
 
 Partners
 
-[d
+[#
 
-Service providers](https://www.storj.io/partner/service-providers)[T
+Partner library](https://www.storj.io/partner/library)[T
 
-Resellers](https://www.storj.io/partner/resellers)[b
+Resellers](https://www.storj.io/partner/resellers)[d
 
-Technology alliances](https://www.storj.io/partner/technology-alliance)[a
+Service providers](https://www.storj.io/partner/service-providers)[b
 
-Storage providers](https://www.storj.io/partner/storage-providers)[0
+Technology alliances](https://www.storj.io/partner/technology-alliance)[0
 
-Partner portal](https://partners.storj.io/)[#
-
-Partner library](https://www.storj.io/partner/library)
+Partner portal](https://partners.storj.io/)
 
 Resources
 
