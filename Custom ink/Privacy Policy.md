@@ -226,8 +226,8 @@ Custom Ink, LLC
 1640 Boro Place Suite 301  
 Tysons VA 22102  
 703-891-2205  
-[Click Here](https://www.customink.com/remove) to unsubscribe from marketing  
-[Click Here](https://privacyportal.onetrust.com/webform/ad37f637-4936-48fb-9de5-eacfd28c9739/81ffeefa-aa44-4b28-9a0e-e8710790f056) for privacy and marketing removals  
+[Click here to unsubscribe from marketing](https://www.customink.com/remove)  
+[Click here for privacy and marketing removals](https://privacyportal.onetrust.com/webform/ad37f637-4936-48fb-9de5-eacfd28c9739/81ffeefa-aa44-4b28-9a0e-e8710790f056)  
 Email [privacy@customink.com](mailto:privacy@customink.com) for all other requests
 
 [Browse All of Our Products](https://www.customink.com/products) [Start Designing in the Lab](https://www.customink.com/lab)
