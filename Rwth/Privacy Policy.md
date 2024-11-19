@@ -181,11 +181,6 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eev/forschung/lidx/1/ "To
 
 _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eew/wirtschaft/lidx/1/ "To Portal Page (Corporate Relations)")_
 
-#### [News](https://www.rwth-aachen.de/cms/root/wirtschaft/~eko/Aktuell/lidx/1/ "Corporate Relations > News")
-
-* [Announcements](https://www.rwth-aachen.de/cms/root/wirtschaft/Aktuell/~cgch/Meldungen/lidx/1/ "Corporate Relations > News > Announcements")
-* [Events](https://www.rwth-aachen.de/cms/root/wirtschaft/Aktuell/~cgcj/Veranstaltungen/lidx/1/ "Corporate Relations > News > Events")
-
 #### [Collaborations](https://www.rwth-aachen.de/cms/root/wirtschaft/~ekp/Kooperation/lidx/1/ "Corporate Relations > Collaborations")
 
 * [Why Collaborate?](https://www.rwth-aachen.de/cms/root/wirtschaft/Kooperation/~bjyb/Warum-kooperieren-/lidx/1/ "Corporate Relations > Collaborations > Why Collaborate?")
