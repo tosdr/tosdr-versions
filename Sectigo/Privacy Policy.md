@@ -142,11 +142,11 @@ Resource Library
 
 [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
 
+* [Root Causes 440: Public Key Directories](https://www.sectigo.com/resource-library/root-causes-440-public-key-directories)
 * [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
 * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
 * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
 * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
-* [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
 
 The total economic impact™ of Sectigo Certificate Manager
 
@@ -242,11 +242,11 @@ Login
     * [Upcoming Webinars](https://www.sectigo.com/resource-library/webinars)
     * [47-Day TLS: shorter certificate lifespans everywhere](https://www.sectigo.com/resource-library/47-day-tls-shorter-certificate-lifespans-everywhere)
     * [Root Causes Podcast Series](https://www.sectigo.com/root-causes-podcast)
+    * [Root Causes 440: Public Key Directories](https://www.sectigo.com/resource-library/root-causes-440-public-key-directories)
     * [Root Causes 439: PQC Onramp Narrowed Down to 15 Candidates](https://www.sectigo.com/resource-library/root-causes-439-pqc-onramp-narrowed-down-to-15-candidates)
     * [Root Causes 438: PQC Is an Existential Requirement](https://www.sectigo.com/resource-library/root-causes-438-pqc-is-an-existential-requirement)
     * [Root Causes 437: Don't Blame the Linter](https://www.sectigo.com/resource-library/root-causes-437-dont-blame-the-linter)
     * [Root Causes 436: Formal Proofs](https://www.sectigo.com/resource-library/root-causes-436-formal-proofs)
-    * [Root Causes 435: The PQC "Q Day" Is Not That Simple](https://www.sectigo.com/resource-library/root-causes-435-the-pqc-q-day-is-not-that-simple)
     
 * Company
     
