@@ -227,20 +227,20 @@ Detailed information
 | Adobe Analytics | s\_cc | yle.fi | session | HTTP Cookie | Measuring the number of users of the contents of Yle's internet services as required by the tasks laid down in the Public Broadcasting Act. |
 | Adobe Analytics | test | yle.fi | session | HTTP Cookie | Measuring the number of users of the contents of Yle's internet services as required by the tasks laid down in the Public Broadcasting Act. |
 | Browser identification | yle\_selva | yle.fi | 1580 days | HTTP Cookie | Measuring the number of users of the contents of Yle's internet services as required by the tasks laid down in the Public Broadcasting Act. |
-| Chartbeat | \_cb | yle.fi | permanent | HTML Local Storage | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_cb | yle.fi | session | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_cb | yle.fi | 395 days | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_cb\_expires | analytics-sdk.yle.fi | permanent | HTML Local Storage | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_cb\_svref | yle.fi | session | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_cb\_svref | yle.fi | 1 day | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_cbt | yle.fi | session | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_chartbeat2 | yle.fi | 395 days | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_chartbeat2 | yle.fi | permanent | HTML Local Storage | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_chartbeat2 | yle.fi | session | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_chartbeat2\_expires | yle.fi | permanent | HTML Local Storage | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_chartbeat4 | yle.fi | session | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | \_chartbeat4 | yle.fi | 1 day | HTTP Cookie | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
-| Chartbeat | ping | chartbeat.net (third party) | session | Pixel Tracker | Cookies allow you to view the number of browsers currently present on each of the Yle pages. |
+| Chartbeat | \_cb | yle.fi | permanent | HTML Local Storage | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_cb | yle.fi | session | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_cb | yle.fi | 395 days | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_cb\_expires | analytics-sdk.yle.fi | permanent | HTML Local Storage | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_cb\_svref | yle.fi | session | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_cb\_svref | yle.fi | 1 day | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_cbt | yle.fi | session | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_chartbeat2 | yle.fi | 395 days | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_chartbeat2 | yle.fi | permanent | HTML Local Storage | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_chartbeat2 | yle.fi | session | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_chartbeat2\_expires | yle.fi | permanent | HTML Local Storage | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_chartbeat4 | yle.fi | session | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | \_chartbeat4 | yle.fi | 1 day | HTTP Cookie | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
+| Chartbeat | ping | chartbeat.net (third party) | session | Pixel Tracker | To make it possible to view the number of browsers currently using Yle’s pages, through which we can develop the editorial work. |
 | Common | yle\_country\_code | yle.fi | 7 days | HTML Local Storage | The cookie is used in analytics to distinguish foreign consumption of services from domestic, so that we can better serve the Finnish public |
 | Common | yle\_sk | yle.fi | permanent | Identifier | To identify and enable the service for logged in users. Is used for analysis, development and follow up of the personal experience as well as for analysis of logged usage in general. |
 | Cookie consent | userconsent | yle.fi | 180 days | HTTP Cookie | Cookie management of Yle's browser services. Displaying cookie consent in the browser interface to the service user. |
@@ -291,6 +291,7 @@ Detailed information
 | Yle Areena | podcasts:podcastToRestore | areena.yle.fi | permanent | HTML Local Storage | Information about the podcast or radio program the user has listened to most recently. Used to return this program to the site's audio player when the user returns to the site. |
 | Yle Areena | podcasts:playQueue | areena.yle.fi | permanent | HTML Local Storage | Makes it possible to remember which radio or podcast programs a user has added to their playlist between page loads and visits. |
 | Yle ID | ylelogin | yle.fi | 370 days | HTTP Cookie | A cookie related to authentication, which identifies the Yle ID user. |
+| Yle ID | yle\_sk | yle.fi | permanent | Local Storage | To identify and enable the service for logged in users. Is used for analysis, development and follow up of the personal experience as well as for analysis of logged usage in general. |
 | yle.fi | yleinteraction | yle.fi | 12 hours | HTTP Cookie | A session identifier used in interactive content on Yle's digital services, which preserves the choices made by the user between uses of the application. |
 | yle.fi | ukko\_abgroup | yle.fi | 6 days | HTTP Cookie | User tests of yle.fi entity. |
 | yle.fi | yle\_rec | yle.fi | 365 days | HTTP Cookie | Unique identifier for service development. Enables the development of Yle's services based on user choices and movement within services. |
@@ -311,7 +312,7 @@ Detailed information
 | Adobe | Adobe (3rd party) | permanent | SDK | Measuring the number of users of the contents of Yle's internet services as required by the tasks laid down in the Public Broadcasting Act. |
 | Appsflyer | Appsflyer (3rd party) | permanent | SDK | Analytics for the applications. To record events, sessions and clicks in the app. |
 | Braze | Braze (3rd party) | permanent | SDK | Enabling push notifications and internal communication in the application and analytics for these. |
-| Chartbeat | Chartbeat (3rd party) | permanent | SDK | Cookies allows Yle to view the number of browsers currently present on each of the Yle pages. |
+| Chartbeat | Chartbeat (3rd party) | permanent | SDK | To make it possible to view the number of users currently using the Yle app so that we can develop the editorial work. |
 | Facebook | facebook.com (3rd party) |     |     | Content published in social media displayed in connection with Yle articles. |
 | Firebase Performance Monitoring | Firebase (3rd party) | permanent | SDK | Application performance monitoring. |
 | Firebase Crashlytics | Firebase (3rd party) | permanent | SDK | Identifying errors in the application. |
