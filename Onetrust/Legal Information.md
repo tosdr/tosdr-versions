@@ -174,9 +174,9 @@ On-demand webinar coming soon...
 
 ### Resources
 
-* [The new Martech equation: How consent management completes your CDP strategy](https://www.onetrust.com/resources/the-new-martech-equation-how-consent-management-completes-your-cdp-strategy-ebook/)
-* [Getting Ready for the EU AI Act, Phase 1: Discover & Catalog, The Gartner® Report​](https://www.onetrust.com/resources/getting-ready-for-the-eu-ai-act-phase-1-discover-and-catalog-the-gartner-report/)
-* [OneTrust AI Governance demo video](https://www.onetrust.com/resources/onetrust-ai-governance-demo-video/)
+* [Rise above risk: Third-party management in technology](https://www.onetrust.com/resources/rise-above-risk-third-party-management-in-technology-infographic/)
+* [Elevating client compliance with OneTrust Automation: Key strategies for partners](https://www.onetrust.com/resources/elevating-client-compliance-with-onetrust-automation-key-strategies-for-partners-webinar/)
+* [Tackling IT security risks for banks in South Africa](https://www.onetrust.com/resources/tackling-it-security-risks-for-banks-in-south-africa-webinar/)
 
 ### Platform
 
