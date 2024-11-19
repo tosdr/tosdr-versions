@@ -5,7 +5,7 @@
 Search
 
 * [Products](https://www.tradingview.com/chart/)
-* [Community](https://www.tradingview.com/community/)
+* [Community](https://www.tradingview.com/ideas/)
 * [Markets](https://www.tradingview.com/markets/)
 * [News](https://www.tradingview.com/news/)
 * [Brokers](https://www.tradingview.com/brokers/)
@@ -411,7 +411,7 @@ For business
 
 * [Widgets](https://www.tradingview.com/widget/)
 * [Advertising](https://www.tradingview.com/advertising-info/)
-* [Charting libraries](https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/)
+* [Charting libraries](https://www.tradingview.com/free-charting-libraries/)
 * [Lightweight Charts™](https://www.tradingview.com/lightweight-charts/)
 * [Advanced Charts](https://www.tradingview.com/advanced-charts/)
 * [Trading Platform](https://www.tradingview.com/trading-platform/)
