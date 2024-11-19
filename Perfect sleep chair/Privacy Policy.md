@@ -846,6 +846,7 @@ Enter your email Subscribe
 * [Facebook](https://www.facebook.com/Journeyhl "Journey Health & Lifestyle on Facebook")
 * [YouTube](https://www.youtube.com/user/firstSTREETinc "Journey Health & Lifestyle on YouTube")
 
+* Amazon
 * American Express
 * Apple Pay
 * Discover
