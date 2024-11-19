@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Ärger mit der Post: „Verfehlungen sollten finanzielle Konsequenzen haben“](https://www.test.de/Aerger-mit-der-Post-Verfehlungen-sollten-finanzielle-Konsequenzen-haben-5979613-0/ "Ärger mit der Post - „Verfehlungen sollten finanzielle Konsequenzen haben“")
-* [Falsches Fest­geld: Portal Einlagen­kompass macht fragwürdige Angebote](https://www.test.de/Falsches-Festgeld-Vorsicht-vor-Irrefuehrung-6029728-0/ "Falsches Festgeld - Portal Einlagenkompass macht fragwürdige Angebote")
-* [Fünf-Punkte-Strategie mit aktiven Fonds: Mit Top-Fonds den Markt schlagen](https://www.test.de/Fuenf-Punkte-Strategie-mit-aktiven-Fonds-Mehr-Rendite-mit-Top-Fonds-6156098-0/ "Fünf-Punkte-Strategie mit aktiven Fonds - Mit Top-Fonds den Markt schlagen")
-* [Rück­ruf: Bremse bei Stokke-Kinder­wagen kann sich lösen](https://www.test.de/Stokke-Rueckruf-Problem-mit-der-Bremse-6176592-0/ "Rückruf - Bremse bei Stokke-Kinderwagen kann sich lösen")
-* [Seit 2020 auf Warn­liste: Deutsche Edel­fisch stellt Insolvenz­antrag](https://www.test.de/Seit-2020-auf-Warnliste-Deutsche-Edelfisch-stellt-Insolvenzantrag-6167404-0/ "Seit 2020 auf Warnliste - Deutsche Edelfisch stellt Insolvenzantrag")
-* [Börsen­weisheiten: Aktien und Fonds im Mai verkaufen – was ist dran?](https://www.test.de/Boersenweisheiten-Aktien-und-Fonds-im-Mai-verkaufen-was-ist-dran-5999173-0/ "Börsenweisheiten - Aktien und Fonds im Mai verkaufen – was ist dran?")
+* [Dubiose Zinsportale: maxisparen.de maximal miss­trauen](https://www.test.de/Dubiose-Zinsportale-maxisparende-maximal-misstrauen-6111879-0/ "Dubiose Zinsportale - maxisparen.de maximal misstrauen")
+* [Erbstreit: Interview: „Um Geld geht es meist nur vordergründig“](https://www.test.de/Erbstreit-Interview-Um-Geld-geht-es-meist-nur-vordergruendig-5988060-0/ "Erbstreit - Interview: „Um Geld geht es meist nur vordergründig“")
+* [Outlook und Co: E-Mail zurück­holen – mit wenigen Klicks](https://www.test.de/Outlook-und-Co-E-Mail-zurueckholen-mit-wenigen-Klicks-6082034-0/ "Outlook und Co - E-Mail zurückholen – mit wenigen Klicks")
+* [Sicher­heits­lücke in Backup-App: Warnung vor G Cloud Backup auf iOS](https://www.test.de/Sicherheitsluecke-in-Backup-App-Warnung-vor-G-Cloud-Backup-auf-iOS-6128014-0/ "Sicherheitslücke in Backup-App - Warnung vor G Cloud Backup auf iOS")
+* [Zahn­arzt: Zahn­arzt­rechnung – auf diese Punkte sollten Sie achten](https://www.test.de/Gewusst-wie-Zahnarztrechnung-pruefen-5972716-0/ "Zahnarzt - Zahnarztrechnung – auf diese Punkte sollten Sie achten")
+* [Kündigung Kfz-Versicherung: Kfz-Versicherung wechseln – so gehts](https://www.test.de/Kfz-Versicherung-wechseln-so-gehts-6160032-0/ "Kündigung Kfz-Versicherung - Kfz-Versicherung wechseln – so gehts")
 
 Service Stiftung Warentest
 
