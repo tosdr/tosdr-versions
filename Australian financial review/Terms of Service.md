@@ -321,15 +321,16 @@ Advertise
 [Life & Leisure](https://www.afr.com/life-and-leisure)
 ------------------------------------------------------
 
-[![ ](https://static.ffx.io/images/$zoom_0.4415%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_68/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/9b404dac441af9817207266f82a5ee9f88e3a904)](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
+[![ ](https://static.ffx.io/images/$zoom_0.1293%2C$multiply_4%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_83/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/de41f591669e693a0f9c469f694587abc5be9cdd)](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
 
-### [Meet the mother of all cargo bikes](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
+### [What it feels like to drive a multimillion-dollar simulator](https://www.afr.com/life-and-luxury/cars-bikes-and-boats/what-it-feels-like-to-drive-a-multimillion-dollar-simulator-20241105-p5knxn)
 
-* John Davidson
+* 55 mins ago
+* Tony Davis
 
-* ### [Dispatches from a midlife crisis summer camp](https://www.afr.com/life-and-luxury/health-and-wellness/dispatches-from-a-midlife-crisis-summer-camp-20241016-p5kira)
+* ### [When you buy this fashion label, you’re joining a community](https://www.afr.com/life-and-luxury/fashion-and-style/when-you-buy-this-fashion-label-you-re-joining-a-community-20240903-p5k7ep)
     
-* ### [It’s entirely possible you deserve, even need, one of these](https://www.afr.com/life-and-luxury/fashion-and-style/it-s-entirely-possible-you-deserve-even-need-one-of-these-20241111-p5kpqj)
+* ### [Meet the mother of all cargo bikes](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
     
 
 [Rich List](https://www.afr.com/rich-list)
