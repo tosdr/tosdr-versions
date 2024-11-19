@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Guess Who BN Is! (7,327)](https://forum.nationstates.net/viewtopic.php?t=553505&f=25&view=unread#unread ""Guess Who BN Is!" (7,327 posts)")
-* [Is AN’s flag a flag? (7,995)](https://forum.nationstates.net/viewtopic.php?t=495404&f=25&view=unread#unread ""Is AN’s flag a flag?" (7,995 posts)")
-* [The Holiday Most Forgotten \[IC / Atte… (33)](https://forum.nationstates.net/viewtopic.php?t=558383&f=5&view=unread#unread ""The Holiday Most Forgotten [IC / Attendees ONLY]" (33 posts)")
-* [AN Out of Context III (4,210)](https://forum.nationstates.net/viewtopic.php?t=552139&f=25&view=unread#unread ""AN Out of Context III" (4,210 posts)")
-* [WARGAMES (23)](https://forum.nationstates.net/viewtopic.php?t=558489&f=5&view=unread#unread ""WARGAMES" (23 posts)")
+* [Ukrainian War VII: Everything has a p… (9,937)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (9,937 posts)")
+* [What is AN's Setting? (38)](https://forum.nationstates.net/viewtopic.php?t=557284&f=25&view=unread#unread ""What is AN's Setting?" (38 posts)")
+* [American Politics: Turnabout Trump (5,394)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (5,394 posts)")
+* [The NOVU Sports Blog (102)](https://forum.nationstates.net/viewtopic.php?t=552025&f=7&view=unread#unread ""The NOVU Sports Blog" (102 posts)")
+* [What is the most terrifying thing abo… (501)](https://forum.nationstates.net/viewtopic.php?t=553705&f=25&view=unread#unread ""What is the most terrifying thing about AN" (501 posts)")
 
 Advertisement
 
