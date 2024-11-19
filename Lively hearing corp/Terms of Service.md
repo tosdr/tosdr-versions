@@ -78,6 +78,7 @@ Try Enhance Select hearing aids for 100 days. If you're not fully satisfied, we'
 
 * Up to 3-year warranty
 * Customer support 7 days a week
+    
 * Free shipping and returns
 
 ![](/cdn-cgi/image/width=3840,quality=80,format=auto/_next/static/media/proven-success.4b51860a.jpg)
