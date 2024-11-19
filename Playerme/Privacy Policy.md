@@ -33,9 +33,9 @@
     
     ### What's new:
     
-    [](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
+    [](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
     
-    ![Ranking the 10 Best ARPG to Play in 2024 and Beyond](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Ratatan, Patapon's Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -73,9 +73,9 @@
     
     ### What's new:
     
-    [](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
+    [](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
     
-    ![Ranking the 10 Best ARPG to Play in 2024 and Beyond](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
+    ![Ratatan, Patapon's Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDE5OScgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJz48L3N2Zz4=)
     
     Load More
     
@@ -141,6 +141,32 @@ TRENDING
 *   Back
 * The Last of Us
 
+![Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/wp-content/uploads/2024/11/Ratatan-Patapons-Spiritual-Successor-Is-Officially-Launching-on-PS4-and-PS5-in-2025.png)
+
+[Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 19, 2024/
+
+The highly anticipated rhythm-action game Ratatan, developed by Ratata Arts in collaboration with TVT, will be released in 2025. Ratatan…
+
+[Read More](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
+
+![The Game Awards 2024 Nominees: Complete List](https://player.me/wp-content/uploads/2024/11/The-Game-Awards-2024-Nominees.png)
+
+[The Game Awards 2024 Nominees: Complete List](https://player.me/the-game-awards-2024-nominees-complete-list/)
+
+
+------------------------------------------------------------------------------------------------------------------
+
+November 19, 2024/
+
+The Game Awards 2024, one of the most prestigious annual events in gaming, is set to take place on Thursday,…
+
+[Read More](https://player.me/the-game-awards-2024-nominees-complete-list/)
+
 ![Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-ARPG-to-Play-in-2024-and-Beyond.png)
 
 [Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
@@ -218,32 +244,6 @@ November 14, 2024/
 After over a decade since the launch of Final Cut Pro X, Apple has unveiled the highly anticipated Final Cut…
 
 [Read More](https://player.me/final-cut-pro-11-arrives-on-mac-with-more-ai-features/)
-
-![Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/wp-content/uploads/2024/11/Monster-Hunter-Outlanders.png)
-
-[Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 13, 2024/
-
-Capcom and TiMi Studio Group have announced Monster Hunter Outlanders, an ambitious new mobile game set in the popular Monster…
-
-[Read More](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
-
-![Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More ](https://player.me/wp-content/uploads/2024/11/Baidu-World-2024-Announcements-1.png)
-
-[Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More](https://player.me/baidu-world-2024-announcements/) 
-
-
--------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 13, 2024/
-
-At the Baidu World 2024 conference in Shanghai, Baidu founder and CEO Robin Li unveiled new groundbreaking technologies and shared…
-
-[Read More](https://player.me/baidu-world-2024-announcements/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -276,6 +276,32 @@ GAMING
 *   Back
 * The Last of Us
 
+![Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/wp-content/uploads/2024/11/Ratatan-Patapons-Spiritual-Successor-Is-Officially-Launching-on-PS4-and-PS5-in-2025.png)
+
+[Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+November 19, 2024/
+
+The highly anticipated rhythm-action game Ratatan, developed by Ratata Arts in collaboration with TVT, will be released in 2025. Ratatan…
+
+[Read More](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
+
+![The Game Awards 2024 Nominees: Complete List](https://player.me/wp-content/uploads/2024/11/The-Game-Awards-2024-Nominees.png)
+
+[The Game Awards 2024 Nominees: Complete List](https://player.me/the-game-awards-2024-nominees-complete-list/)
+
+
+------------------------------------------------------------------------------------------------------------------
+
+November 19, 2024/
+
+The Game Awards 2024, one of the most prestigious annual events in gaming, is set to take place on Thursday,…
+
+[Read More](https://player.me/the-game-awards-2024-nominees-complete-list/)
+
 ![Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/wp-content/uploads/2024/11/Ranking-the-10-Best-ARPG-to-Play-in-2024-and-Beyond.png)
 
 [Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
@@ -379,32 +405,6 @@ November 13, 2024/
 At the Baidu World 2024 conference in Shanghai, Baidu founder and CEO Robin Li unveiled new groundbreaking technologies and shared…
 
 [Read More](https://player.me/baidu-world-2024-announcements/)
-
-![Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](https://player.me/wp-content/uploads/2024/11/Overwatch-Classic-6v6-Is-Launching-on-Overwatch-2-From-November-12-to-December-2.png)
-
-[Overwatch: Classic 6v6 Is Launching on Overwatch 2 From November 12 to December 2](https://player.me/overwatch-classic-launches-from-november-12-december-2/)
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-November 12, 2024/
-
-In an unexpected move but sure to excite long-time fans, Overwatch 2 has announced a limited-time game mode called Overwatch:…
-
-[Read More](https://player.me/overwatch-classic-launches-from-november-12-december-2/)
-
-![Marvel Rivals Announces Fortnite Crossover Before End of 2024](https://player.me/wp-content/uploads/2024/11/Marvel-Rivals-Announces-Fortnite-Crossover-Before-End-of-2024.png)
-
-[Marvel Rivals Announces Fortnite Crossover Before End of 2024](https://player.me/marvel-rivals-x-fortnite-crossover-before-end-of-2024/)
-
-
----------------------------------------------------------------------------------------------------------------------------------------------
-
-November 12, 2024/
-
-Marvel Rivals, the eagerly anticipated 6v6 shooter developed by NetEase, has taken center stage in the gaming world with its…
-
-[Read More](https://player.me/marvel-rivals-x-fortnite-crossover-before-end-of-2024/)
 
 [Older Posts](https://player.me/page/2/)Newer Posts
 
@@ -817,6 +817,18 @@ Android smartwatches have become an essential gadget for many people, particular
 
 player.me
 
+[](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/ "Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025")
+
+[Ratatan, Patapon’s Spiritual Successor, Is Officially Launching on PS4 and PS5 in 2025](https://player.me/ratatan-is-officially-launching-on-ps4-and-ps5-in-2025/)
+
+November 19, 2024
+
+[](https://player.me/the-game-awards-2024-nominees-complete-list/ "The Game Awards 2024 Nominees: Complete List")
+
+[The Game Awards 2024 Nominees: Complete List](https://player.me/the-game-awards-2024-nominees-complete-list/)
+
+November 19, 2024
+
 [](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/ "Ranking the 10 Best ARPG to Play in 2024 and Beyond")
 
 [Ranking the 10 Best ARPG to Play in 2024 and Beyond](https://player.me/ranking-the-10-best-arpg-to-play-in-2024-and-beyond/)
@@ -853,22 +865,10 @@ November 14, 2024
 
 November 14, 2024
 
-[](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/ "Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration")
-
-[Monster Hunter Outlanders, a New Free-to-Play Monster Hunter Mobile Game, Is Launching with Multiplayer Hunts and Open-World Exploration](https://player.me/monster-hunter-outlanders-is-a-new-f2p-mobile-game/)
-
-November 13, 2024
-
-[](https://player.me/baidu-world-2024-announcements/ "Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More ")
-
-[Baidu World 2024 Announcements: New iRAG Technology, MiaoDa No Code Tool, AI Smart Glasses and More](https://player.me/baidu-world-2024-announcements/) 
-
-November 13, 2024
-
 [ตรวจหวย 17 มกราคม 2567](https://www.surveymonkey.com/r/checklottery17jan)  
 [Ufabet](https://www.surveymonkey.com/r/ufabet_ufa)  
 
-Visited 581,712 times, 20 visit(s) today
+Visited 581,765 times, 73 visit(s) today
 
 ![Player.me Logo](image/svg+xml;base64,PHN2ZyB2aWV3Qm94PScwIDAgMzAwIDg5JyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnPjwvc3ZnPg==)
 
