@@ -9,7 +9,7 @@
         * [Platform in Action](https://www.yotpo.com/use-cases/)
         * [Product Releases Hub](https://www.yotpo.com/product-releases/)
     * * [Our Products](#)
-        * [SMS
+        * [SMS Marketing
             
             Reach shoppers anywhere with mobile experiences that convert.](https://www.yotpo.com/platform/sms-marketing/)
         * [Reviews & UGC
@@ -63,7 +63,7 @@
             
             Watch video tutorials from eCommerce retention experts.](https://www.yotpo.com/resources/type/videos-webinars/)
     * * [Connect](#)
-        * [Contact us](https://www.yotpo.com/contact-us/)
+        * [Contact Us](https://www.yotpo.com/contact-us/)
         * [Help Center](https://support.yotpo.com/?utm_source=YotpoWeb&utm_medium=web-menu)
         * [Yotpo Community](https://community.yotpo.com/?utm_source=yotpo.com&utm_medium=menu)
         * [Become a Partner](https://www.yotpo.com/partners/)
@@ -323,9 +323,9 @@ Partnerships
 Company
 
 * [About Yotpo](https://www.yotpo.com/about/)
-* [Contact us](https://www.yotpo.com/contact-us/)
+* [Contact Us](https://www.yotpo.com/contact-us/)
 * [Careers](https://www.yotpo.com/careers/)
-* [Request a demo](https://www.yotpo.com/request-a-demo/)
+* [Request a Demo](https://www.yotpo.com/request-a-demo/)
 * [Customer Success](https://www.yotpo.com/customer-success/)
 
 Support
