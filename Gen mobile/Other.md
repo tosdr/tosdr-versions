@@ -180,6 +180,7 @@ SUPPORT
 * [Accessibility](https://www.genmobile.com/pages/accessibility)
 * [Your Privacy Choices![](https://cdn.shopify.com/s/files/1/2954/7774/files/Checkbox_3.svg?v=1680889787)](https://www.genmobile.com/pages/your-privacy-choice)
 * [Do Not Contact](https://www.genmobile.com/pages/do-not-contact)
+* [Vulnerability Disclosure](https://www.genmobile.com/pages/vulnerability-disclosure)
 
 © 2024 Gen Mobile, a division of DISH Wireless, L.L.C. All rights reserved
 
