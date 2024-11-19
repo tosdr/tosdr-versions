@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [The Sasquatch](https://www.myabandonware.com/game/the-sasquatch-t5o)
+* [Snowman's Land](https://www.myabandonware.com/game/snowman-s-land-t5l)
 * [Highway Pursuit](https://www.myabandonware.com/game/highway-pursuit-t5e)
 * [Seven Years War 2](https://www.myabandonware.com/game/seven-years-war-2-t4k)
 * [The House of the Dead III](https://www.myabandonware.com/game/the-house-of-the-dead-iii-beh)
-* [Furry 2](https://www.myabandonware.com/game/furry-2-t4m)
-* [Refuse. Home, Sweep Home!](https://www.myabandonware.com/game/refuse-home-sweep-home-twx)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
