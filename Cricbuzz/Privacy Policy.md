@@ -56,11 +56,7 @@ AllLive NowToday
     
     West Indies v England, 2024
     
-    [England vs West Indies](https://www.cricbuzz.com/live-cricket-scores/95191/eng-vs-wi-4th-t20i-west-indies-v-england-2024 "England v West Indies, 4th T20I - WI Won")
-    
-    4th T20I
-    
-* [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-west-indies-v-england-2024 "West Indies v England, 5th T20I - No Result")
+    [West Indies vs England](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-west-indies-v-england-2024 "West Indies v England, 5th T20I - No Result")
     
     5th T20I
     
@@ -170,17 +166,17 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Preview")
-    
-    4th Match
-    
-* [Otago vs Wellington](https://www.cricbuzz.com/live-cricket-scores/107465/otg-vs-wel-6th-match-plunket-shield "Otago v Wellington, 6th Match - Preview")
+    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Lunch")
     
     6th Match
     
-* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Preview")
+* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Lunch")
     
     5th Match
+    
+* [Northern Knights vs Auckland](https://www.cricbuzz.com/live-cricket-scores/107451/nk-vs-akl-4th-match-plunket-shield "Northern Knights v Auckland, 4th Match - Lunch")
+    
+    4th Match
     
 * WOMEN
     
@@ -204,15 +200,7 @@ AllLive NowToday
     
 * Costa Rica Women tour of Mexico 2024
     
-    [Costa Rica Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/110301/crw-vs-mexw-1st-t20i-costa-rica-women-tour-of-mexico-2024 "Costa Rica Women v Mexico Women, 1st T20I - MEXW Won")
-    
-    1st T20I
-    
-* [Costa Rica Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/110305/crw-vs-mexw-2nd-t20i-costa-rica-women-tour-of-mexico-2024 "Costa Rica Women v Mexico Women, 2nd T20I - MEXW Won")
-    
-    2nd T20I
-    
-* [Costa Rica Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/110313/crw-vs-mexw-3rd-t20i-costa-rica-women-tour-of-mexico-2024 "Costa Rica Women v Mexico Women, 3rd T20I - Complete")
+    [Costa Rica Women vs Mexico Women](https://www.cricbuzz.com/live-cricket-scores/110313/crw-vs-mexw-3rd-t20i-costa-rica-women-tour-of-mexico-2024 "Costa Rica Women v Mexico Women, 3rd T20I - Complete")
     
     3rd T20I
     
@@ -523,41 +511,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132464/nathan-mcsweeney-and-brendan-doggett-the-bond-of-brothers-that-transcended-borders "McSweeney and Doggett: The bond of brothers that transcended borders ")
+
+[McSweeney and Doggett: The bond of brothers that transcended borders](https://www.cricbuzz.com/cricket-news/132464/nathan-mcsweeney-and-brendan-doggett-the-bond-of-brothers-that-transcended-borders "McSweeney and Doggett: The bond of brothers that transcended borders ")
+
+just now
+
   [](https://www.cricbuzz.com/cricket-news/132463/bangladesh-recall-sharmin-akter-supta-jahanara-alam-for-ireland-odis "Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs")
 
 [Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs](https://www.cricbuzz.com/cricket-news/132463/bangladesh-recall-sharmin-akter-supta-jahanara-alam-for-ireland-odis "Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs")
 
-3h ago
+9h ago
 
   [](https://www.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025 "RCB sign Omkar Salvi as men's bowling coach for IPL 2025")
 
 [RCB sign Omkar Salvi as men's bowling coach for IPL 2025](https://www.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025 "RCB sign Omkar Salvi as men's bowling coach for IPL 2025")
 
-5h ago
+11h ago
 
   [](https://www.cricbuzz.com/cricket-news/132461/theres-so-much-for-me-to-learn-off-ashwin-lyon "There's so much for me to learn off Ashwin - Lyon")
 
 [There's so much for me to learn off Ashwin - Lyon](https://www.cricbuzz.com/cricket-news/132461/theres-so-much-for-me-to-learn-off-ashwin-lyon "There's so much for me to learn off Ashwin - Lyon")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132460/fit-again-tanzim-sakib-cleared-for-competitive-cricket "Fit-again Tanzim Sakib cleared for competitive cricket")
 
 [Fit-again Tanzim Sakib cleared for competitive cricket](https://www.cricbuzz.com/cricket-news/132460/fit-again-tanzim-sakib-cleared-for-competitive-cricket "Fit-again Tanzim Sakib cleared for competitive cricket")
 
-6h ago
+12h ago
 
   [](https://www.cricbuzz.com/cricket-news/132459/zimbabwe-name-three-uncapped-players-for-pakistan-odis "Zimbabwe name three uncapped players for Pakistan ODIs")
 
 [Zimbabwe name three uncapped players for Pakistan ODIs](https://www.cricbuzz.com/cricket-news/132459/zimbabwe-name-three-uncapped-players-for-pakistan-odis "Zimbabwe name three uncapped players for Pakistan ODIs")
 
-7h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132458/aaron-hardie-adam-zampa-and-marcus-stoinis-set-up-clinical-win-australia-vs-pakistan "Hardie, Zampa and Stoinis set up clinical win")
-
-[Hardie, Zampa and Stoinis set up clinical win](https://www.cricbuzz.com/cricket-news/132458/aaron-hardie-adam-zampa-and-marcus-stoinis-set-up-clinical-win-australia-vs-pakistan "Hardie, Zampa and Stoinis set up clinical win")
-
-7h ago
+13h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
