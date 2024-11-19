@@ -303,32 +303,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [https://www.cd-cc.si/kultura/razstave](https://www.cd-cc.si/kultura/razstave)
     
-    [12:00 Jelena Bulajić, BG](javascript:void(0);)
-    
-    **12.09.2024 | 12:00**
-    
-    **[Muzej savremene umetnosti Beograd](http://seecult.org/institucija/muzej-savremene-umetnosti-beograd)**
-    
-    Salon Muzeja savremene umetnosti, Pariska 14, Beograd
-    
-    **JELENA BULAJIĆ** (1990, Vrbas): **AFTER SUGIMOTO** - prva samostalna izložba (11.9.-18.11.2024.)
-    
-    Kustoskinja izložbe: Kristina Armuš
-    
-    [https://www.msub.org.rs](https://www.msub.org.rs/)
-    
-    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
-    
-    **19.09.2024 | 10:00**
-    
-    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
-    
-    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
-    
-    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
-    
-    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
-    
     [10:00 Antonio Pichillá Quiacaín, LJ](javascript:void(0);)
     
     **19.09.2024 | 10:00**
@@ -343,14 +317,38 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
     
     [http://www.mglc-lj.si](http://www.mglc-lj.si/)
     
+    [10:00 Stari mojstri iz zbirk Muzeja za umetnost in obrt, Zagreb, LJ](javascript:void(0);)
+    
+    **19.09.2024 | 10:00**
+    
+    **[Narodna galerija, Ljubljana](http://seecult.org/institucija/narodna-galerija-ljubljana)**
+    
+    **STARI MOJSTRI IZ ZBIRK MUZEJA ZA UMETNOST IN OBRT, ZAGREB - SLIKARSTVO, KIPARSTVO IN GRAFIKA** \- izložba (18.9.2024.-9.2.2025.)
+    
+    Autorice koncepcije i kustosice izložbe: dr. sc. Antonia Došen, viša kustosica i voditeljica Zbirke grafike i Zbirke tiskarstva i knjigoveštva MUO, Marijana Paula Ferenčić kustosica u Zbirci slikarstva MUO i Jasmina Fučkan, muzejska savjetnica i voditeljica Zbirke skulpture i Zbirke bjelokosti MUO
+    
+    [https://www.ng-slo.si/si](https://www.ng-slo.si/si)
+    
+    [10:00 Nika Erjavec, LJ](javascript:void(0);)
+    
+    **20.09.2024 | 10:00**
+    
+    Muzej sodobne umetnosti Metelkova, +MSUM, Maistrova 3, Ljubljana
+    
+    **NIKA ERJAVEC** (1994): **(NE)STVARNOST, 2024** - intermedijska instalacija (19.9.-25.11.2024.)
+    
+    Kustosinja razstave: Ana Mizerit
+    
+    [https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarno...](https://www.mg-lj.si/si/razstave/4000/napovedujemo-prepih-nika-erjavec-nestvarnost-2024)
+    
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/karavukovo/karavukova-jazbina/f15.jpg?itok=kMqNLQ4O)](http://seecult.org/galerija/galerija-umetnika/karavukovo/karavukova-jazbina)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zorica-vasic/kunst-messe/born-critical.jpg?itok=Kdcab3Dk)](http://seecult.org/galerija/galerija-umetnika/zorica-vasic/kunst-messe)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/masimo.jpg?itok=MYItJqwW)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/bastina/arsenije-jovanovic-freske-i-manastiri/decani-strasni-sud-detalj.jpg?itok=pvYrzDXZ)](http://seecult.org/galerija/foto-galerija/ba%C5%A1tina/arsenije-jovanovi%C4%87-freske-i-manastiri)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -366,6 +364,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Aktivizam i umetnost - istorijska iskustva i participativne prakse](http://seecult.org/vest/aktivizam-i-umetnost-istorijska-iskustva-i-participativne-prakse)
+* [Irena Paunović u Haosu](http://seecult.org/vest/irena-paunovic-u-haosu)
 * [Volja sinovljeva - vestern, samurajski i guslarski film](http://seecult.org/vest/volja-sinovljeva-vestern-samurajski-i-guslarski-film)
 * [Preminuo Dejan Despić](http://seecult.org/vest/preminuo-dejan-despic)
 * [Stare i nove reči](http://seecult.org/vest/stare-i-nove-reci)
@@ -374,8 +374,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Poboljšati status slobodnih umetnika](http://seecult.org/vest/poboljsati-status-slobodnih-umetnika)
 * [Glas promena koji podstiče kritičko razmišljanje](http://seecult.org/vest/glas-promena-koji-podstice-kriticko-razmisljanje)
 * [Ples, otpor, (ne)rad](http://seecult.org/vest/ples-otpor-nerad)
-* [Mladi i digitalno doba](http://seecult.org/vest/mladi-i-digitalno-doba)
-* [12\. Vizualizator – Re-kreacija vida](http://seecult.org/vest/12-vizualizator-re-kreacija-vida)
 
 * [Konkursi](#tab1_1)
 
