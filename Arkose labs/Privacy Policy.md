@@ -691,6 +691,10 @@ In compliance with the EU-US Data Privacy Framework Principles, Arkose Labs comm
 
 X
 
-Cyber threats are evolving—Arkose Labs is evolving faster. Learn about our latest releases.
+New Research: Benchmark your defensive AI maturity against peers
 
-[Click Here](https://www.arkoselabs.com/blog/a-look-at-our-latest-feature-updates)
+[Learn More](https://www.arkoselabs.com/intersection-ai-digital-fraud-cyber-defenses/)
+
+                                               
+
+https://www.arkoselabs.com/legal/privacy-policy/
