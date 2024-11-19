@@ -429,7 +429,7 @@ Get started today,
 no credit card required.
 ========================
 
-[Get Webshare Free](https://dashboard.webshare.io/register?source=home_hero_button_register)[Get Quote](#)
+[Get Webshare Free](https://dashboard.webshare.io/register?source=home_hero_button_register)[Get a Quote](#)
 
 [![](https://cdn.prod.website-files.com/5e42f62100b3490abec730e4/662f5802210174c495089655_Webshare%20Logo_white.svg)](#)[Buy fast & affordable proxy servers. Get 10 proxies today for free.](https://dashboard.webshare.io/register?source=footer_free_proxies_banner_register)
 
