@@ -6,9 +6,15 @@
 
 [内容中心](https://www.pangleglobal.com/zh/resource)
 
-[帮助中心](https://www.pangleglobal.com/zh/knowledge)
+[帮助中心](https://www.pangleglobal.com/zh/helpcenter)
 
 [品牌安全中心](https://www.pangleglobal.com/zh/brandsafety)
+
+登录
+
+注册
+
+中文
 
 [首页](https://www.pangleglobal.com/zh/)
 
