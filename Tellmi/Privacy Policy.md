@@ -19,7 +19,7 @@ Open Menu Close Menu
 
 [For The NHS](https://www.tellmi.help/nhs-and-local-authorities)
 
-[For Autism](https://www.tellmi.help/tellmi-autism-project)
+[For Autism](https://www.tellmi.help/autism)
 
 [News & Research](https://www.tellmi.help/news-research)
 
@@ -61,7 +61,7 @@ Open Menu Close Menu
 
 [For The NHS](https://www.tellmi.help/nhs-and-local-authorities)
 
-[For Autism](https://www.tellmi.help/tellmi-autism-project)
+[For Autism](https://www.tellmi.help/autism)
 
 [News & Research](https://www.tellmi.help/news-research)
 
@@ -93,7 +93,7 @@ Open Menu Close Menu
 
 [For The NHS](https://www.tellmi.help/nhs-and-local-authorities)
 
-[For Autism](https://www.tellmi.help/tellmi-autism-project)
+[For Autism](https://www.tellmi.help/autism)
 
 [Folder: News & Research](https://www.tellmi.help/news-research)
 
