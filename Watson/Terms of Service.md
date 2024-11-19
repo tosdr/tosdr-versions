@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![pluie modérée](https://www.watson.ch/fr/_watsui/static/img/weather/w-17.svg)8°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![ciel couvert](https://www.watson.ch/fr/_watsui/static/img/weather/w-6.svg)10°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,26 +54,26 @@
 
 Thèmes du moment
 
+* [Catastrophe naturelle](https://www.watson.ch/fr/catastrophe-naturelle/)
+* [Immobilier](https://www.watson.ch/fr/immobilier/)
+* [Confédération](https://www.watson.ch/fr/confederation/)
+* [Nestlé](https://www.watson.ch/fr/nestle/)
+* [Analyse](https://www.watson.ch/fr/analyse/)
 * [Climat](https://www.watson.ch/fr/climat/)
-* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
+* [Genève](https://www.watson.ch/fr/geneve/)
+* [Votation](https://www.watson.ch/fr/votation/)
+* [voiture](https://www.watson.ch/fr/voiture/)
 * [People](https://www.watson.ch/fr/people/)
 * [Environnement](https://www.watson.ch/fr/environnement/)
 * [Santé](https://www.watson.ch/fr/sante/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
 * [Nucléaire](https://www.watson.ch/fr/nucleaire/)
-* [Sciences](https://www.watson.ch/fr/sciences/)
 * [Valais](https://www.watson.ch/fr/valais/)
-* [Brésil](https://www.watson.ch/fr/bresil/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Crime](https://www.watson.ch/fr/crime/)
-* [Médecine](https://www.watson.ch/fr/medecine/)
+* [Entreprise](https://www.watson.ch/fr/entreprise/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [nourriture](https://www.watson.ch/fr/nourriture/)
-* [armes](https://www.watson.ch/fr/armes/)
-* [Best of watson](https://www.watson.ch/fr/best-of-watson/)
+* [votations 2024](https://www.watson.ch/fr/votations-2024/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
-* [ukraine](https://www.watson.ch/fr/ukraine/)
-* [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
 * [Obtenir l'application](https://www.watson.ch/fr/u/app)
