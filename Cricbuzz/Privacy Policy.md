@@ -48,7 +48,7 @@ SEARCH
 
 [My Account](https://www.cricbuzz.com/premium-subscription/user/account-info "My Account") Sign Out
 
-[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[SL vs NZ - Preview](https://www.cricbuzz.com/live-cricket-scores/108761/sl-vs-nz-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 3rd ODI - Preview")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[ADSW vs PRSW - Live](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - Live")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[SLA vs PAKA - Lunch](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Lunch")
+[MATCHES](https://www.cricbuzz.com/cricket-match/live-scores)[NZ vs SL - Break](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Break")[PAK vs AUS - AUS Won](https://www.cricbuzz.com/live-cricket-scores/92057/pak-vs-aus-3rd-t20i-pakistan-tour-of-australia-2024 "Pakistan v Australia, 3rd T20I - AUS Won")[ADSW vs PRSW - ADSW Won](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-womens-big-bash-league-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - ADSW Won")[WI vs ENG - No Result](https://www.cricbuzz.com/live-cricket-scores/95196/wi-vs-eng-5th-t20i-england-tour-of-west-indies-2024 "West Indies v England, 5th T20I - No Result")[SLA vs PAKA - Stumps](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-sri-lanka-a-tour-of-pakistan-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
 
 AllLive NowToday
 
@@ -72,7 +72,7 @@ AllLive NowToday
     
     2nd ODI
     
-* [Sri Lanka vs New Zealand](https://www.cricbuzz.com/live-cricket-scores/108761/sl-vs-nz-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "Sri Lanka v New Zealand, 3rd ODI - Preview")
+* [New Zealand vs Sri Lanka](https://www.cricbuzz.com/live-cricket-scores/108761/nz-vs-sl-3rd-odi-new-zealand-tour-of-sri-lanka-2024 "New Zealand v Sri Lanka, 3rd ODI - Break")
     
     3rd ODI
     
@@ -84,27 +84,27 @@ AllLive NowToday
     
 * ICC Mens T20 World Cup Asia Qualifier B 2024
     
-    [United Arab Emirates vs Bhutan  LIVE](https://www.cricbuzz.com/live-cricket-scores/108952/uae-vs-btn-2nd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Bhutan, 2nd Match - Live")
-    
-    2nd Match
-    
-* [Thailand vs Qatar  LIVE](https://www.cricbuzz.com/live-cricket-scores/108945/thai-vs-qat-1st-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Qatar, 1st Match - Live")
+    [Thailand vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108945/thai-vs-qat-1st-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Qatar, 1st Match - QAT Won")
     
     1st Match
     
-* [Bahrain vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/108956/bhr-vs-sau-3rd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Saudi Arabia, 3rd Match - Preview")
+* [United Arab Emirates vs Bhutan](https://www.cricbuzz.com/live-cricket-scores/108952/uae-vs-btn-2nd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "United Arab Emirates v Bhutan, 2nd Match - UAE Won")
+    
+    2nd Match
+    
+* [Bahrain vs Saudi Arabia](https://www.cricbuzz.com/live-cricket-scores/108956/bhr-vs-sau-3rd-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bahrain v Saudi Arabia, 3rd Match - Toss")
     
     3rd Match
     
-* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Upcoming")
-    
-    4th Match
-    
-* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - Upcoming")
+* [Bhutan vs Qatar](https://www.cricbuzz.com/live-cricket-scores/108970/btn-vs-qat-5th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Bhutan v Qatar, 5th Match - Preview")
     
     5th Match
     
-* [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Upcoming")
+* [Thailand vs Cambodia](https://www.cricbuzz.com/live-cricket-scores/108963/thai-vs-cbd-4th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Thailand v Cambodia, 4th Match - Preview")
+    
+    4th Match
+    
+* [Saudi Arabia vs United Arab Emirates](https://www.cricbuzz.com/live-cricket-scores/108973/sau-vs-uae-6th-match-icc-mens-t20-world-cup-asia-qualifier-b-2024 "Saudi Arabia v United Arab Emirates, 6th Match - Preview")
     
     6th Match
     
@@ -114,25 +114,37 @@ AllLive NowToday
     
     6th T20I
     
+* T20 LEAGUE
+    
+    Abu Dhabi T10 League 2024
+    
+    [Team Abu Dhabi vs Ajman Bolts](https://www.cricbuzz.com/live-cricket-scores/109400/ad-vs-ajmb-1st-match-abu-dhabi-t10-league-2024 "Team Abu Dhabi v Ajman Bolts, 1st Match - Upcoming")
+    
+    1st Match
+    
 * DOMESTIC
     
     CSA Four-Day Series Division One 2024-25
     
-    [Western Province vs Warriors](https://www.cricbuzz.com/live-cricket-scores/104772/wpr-vs-war-8th-match-csa-four-day-series-division-one-2024-25 "Western Province v Warriors, 8th Match - Match drawn")
-    
-    8th Match
-    
-* [North West vs Lions](https://www.cricbuzz.com/live-cricket-scores/104780/nwest-vs-lions-9th-match-csa-four-day-series-division-one-2024-25 "North West v Lions, 9th Match - Match drawn")
+    [North West vs Lions](https://www.cricbuzz.com/live-cricket-scores/104780/nwest-vs-lions-9th-match-csa-four-day-series-division-one-2024-25 "North West v Lions, 9th Match - Match drawn")
     
     9th Match
     
-* [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Preview")
+* [Western Province vs Warriors](https://www.cricbuzz.com/live-cricket-scores/104772/wpr-vs-war-8th-match-csa-four-day-series-division-one-2024-25 "Western Province v Warriors, 8th Match - Match drawn")
+    
+    8th Match
+    
+* [Titans vs Knights](https://www.cricbuzz.com/live-cricket-scores/104786/tit-vs-kng-10th-match-csa-four-day-series-division-one-2024-25 "Titans v Knights, 10th Match - Toss")
     
     10th Match
     
+* [Lions vs Western Province](https://www.cricbuzz.com/live-cricket-scores/104794/lions-vs-wpr-11th-match-csa-four-day-series-division-one-2024-25 "Lions v Western Province, 11th Match - Upcoming")
+    
+    11th Match
+    
 * Pakistan A v Sri Lanka A, 2024
     
-    [Sri Lanka A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Lunch")
+    [Sri Lanka A vs Pakistan A](https://www.cricbuzz.com/live-cricket-scores/109253/sla-vs-paka-2nd-unofficial-test-pakistan-a-v-sri-lanka-a-2024 "Sri Lanka A v Pakistan A, 2nd Unofficial Test - Stumps")
     
     2nd Unofficial Test
     
@@ -158,11 +170,7 @@ AllLive NowToday
     
 * Plunket Shield
     
-    [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Stumps")
-    
-    6th Match
-    
-* [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Stumps")
+    [Central Districts vs Canterbury](https://www.cricbuzz.com/live-cricket-scores/107457/cd-vs-cntbry-5th-match-plunket-shield "Central Districts v Canterbury, 5th Match - Stumps")
     
     5th Match
     
@@ -170,25 +178,29 @@ AllLive NowToday
     
     4th Match
     
+* [Wellington vs Otago](https://www.cricbuzz.com/live-cricket-scores/107465/wel-vs-otg-6th-match-plunket-shield "Wellington v Otago, 6th Match - Stumps")
+    
+    6th Match
+    
 * WOMEN
     
     WBBL 2024
     
-    [Sydney Thunder Women vs Sydney Sixers Women](https://www.cricbuzz.com/live-cricket-scores/101400/sytw-vs-sysw-31st-match-wbbl-2024 "Sydney Thunder Women v Sydney Sixers Women, 31st Match - No Result")
-    
-    31st Match
-    
-* [Adelaide Strikers Women vs Perth Scorchers Women  LIVE](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-wbbl-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - Live")
+    [Adelaide Strikers Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101401/adsw-vs-prsw-32nd-match-wbbl-2024 "Adelaide Strikers Women v Perth Scorchers Women, 32nd Match - ADSW Won")
     
     32nd Match
     
-* [Sydney Thunder Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101408/sytw-vs-mlsw-33rd-match-wbbl-2024 "Sydney Thunder Women v Melbourne Stars Women, 33rd Match - Upcoming")
+* [Sydney Thunder Women vs Melbourne Stars Women](https://www.cricbuzz.com/live-cricket-scores/101408/sytw-vs-mlsw-33rd-match-wbbl-2024 "Sydney Thunder Women v Melbourne Stars Women, 33rd Match - Preview")
     
     33rd Match
     
 * [Sydney Sixers Women vs Perth Scorchers Women](https://www.cricbuzz.com/live-cricket-scores/101411/sysw-vs-prsw-34th-match-wbbl-2024 "Sydney Sixers Women v Perth Scorchers Women, 34th Match - Upcoming")
     
     34th Match
+    
+* [Hobart Hurricanes Women vs Melbourne Renegades Women](https://www.cricbuzz.com/live-cricket-scores/101417/hbhw-vs-mlrw-35th-match-wbbl-2024 "Hobart Hurricanes Women v Melbourne Renegades Women, 35th Match - Upcoming")
+    
+    35th Match
     
 * Costa Rica Women tour of Mexico 2024
     
@@ -503,41 +515,41 @@ This Privacy Policy (the “**Privacy Policy**”) serves to inform you of our p
 
 #### LATEST NEWS
 
+  [](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
+
+[Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I](https://www.cricbuzz.com/cricket-news/132470/coetzee-handed-demerit-point-for-dissenting-wide-call-in-johannesburg-t20i "Coetzee handed demerit point for dissenting 'wide' call in Johannesburg T20I")
+
+29m ago
+
+  [](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
+
+[Top order, Schutt deflate Scorchers](https://www.cricbuzz.com/cricket-news/132469/top-order-schutt-deflate-scorchers "Top order, Schutt deflate Scorchers")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132468/india-playing-11-dhruv-jurel-devdutt-padikkal-virat-kohli-nitish-reddy-prasigh-krishna-harshit-rana-perth-test-australia-tour-border-gavaskar-trophy "India's top-seven takes shape amid Perth rain and intense nets")
+
+[India's top-seven takes shape amid Perth rain and intense nets](https://www.cricbuzz.com/cricket-news/132468/india-playing-11-dhruv-jurel-devdutt-padikkal-virat-kohli-nitish-reddy-prasigh-krishna-harshit-rana-perth-test-australia-tour-border-gavaskar-trophy "India's top-seven takes shape amid Perth rain and intense nets")
+
+1h ago
+
+  [](https://www.cricbuzz.com/cricket-news/132467/temba-bavuma-back-to-lead-south-africas-bid-to-reach-wtc-final "Bavuma back to lead South Africa's bid to reach WTC final")
+
+[Bavuma back to lead South Africa's bid to reach WTC final](https://www.cricbuzz.com/cricket-news/132467/temba-bavuma-back-to-lead-south-africas-bid-to-reach-wtc-final "Bavuma back to lead South Africa's bid to reach WTC final")
+
+5h ago
+
   [](https://www.cricbuzz.com/cricket-news/132466/kasun-rajitha-lasith-embuldeniya-recalled-for-south-africa-tests "Rajitha, Embuldeniya recalled for South Africa Tests")
 
 [Rajitha, Embuldeniya recalled for South Africa Tests](https://www.cricbuzz.com/cricket-news/132466/kasun-rajitha-lasith-embuldeniya-recalled-for-south-africa-tests "Rajitha, Embuldeniya recalled for South Africa Tests")
 
-25m ago
+6h ago
 
   [](https://www.cricbuzz.com/cricket-news/132465/shafali-verma-left-out-of-indias-odi-squad-to-face-australia "Shafali Verma left out of India's ODI squad to face Australia")
 
 [Shafali Verma left out of India's ODI squad to face Australia](https://www.cricbuzz.com/cricket-news/132465/shafali-verma-left-out-of-indias-odi-squad-to-face-australia "Shafali Verma left out of India's ODI squad to face Australia")
 
-3h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132464/nathan-mcsweeney-and-brendan-doggett-the-bond-of-brothers-that-transcended-borders "McSweeney and Doggett: The bond of brothers that transcended borders ")
-
-[McSweeney and Doggett: The bond of brothers that transcended borders](https://www.cricbuzz.com/cricket-news/132464/nathan-mcsweeney-and-brendan-doggett-the-bond-of-brothers-that-transcended-borders "McSweeney and Doggett: The bond of brothers that transcended borders ")
-
-6h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132463/bangladesh-recall-sharmin-akter-supta-jahanara-alam-for-ireland-odis "Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs")
-
-[Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs](https://www.cricbuzz.com/cricket-news/132463/bangladesh-recall-sharmin-akter-supta-jahanara-alam-for-ireland-odis "Bangladesh recall Sharmin Akhter, Jahanara Alam for Ireland ODIs")
-
-15h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025 "RCB sign Omkar Salvi as men's bowling coach for IPL 2025")
-
-[RCB sign Omkar Salvi as men's bowling coach for IPL 2025](https://www.cricbuzz.com/cricket-news/132462/rcb-sign-omkar-salvi-as-mens-bowling-coach-for-ipl-2025 "RCB sign Omkar Salvi as men's bowling coach for IPL 2025")
-
-17h ago
-
-  [](https://www.cricbuzz.com/cricket-news/132461/theres-so-much-for-me-to-learn-off-ashwin-lyon "There's so much for me to learn off Ashwin - Lyon")
-
-[There's so much for me to learn off Ashwin - Lyon](https://www.cricbuzz.com/cricket-news/132461/theres-so-much-for-me-to-learn-off-ashwin-lyon "There's so much for me to learn off Ashwin - Lyon")
-
-18h ago
+9h ago
 
 [More News](https://www.cricbuzz.com/cricket-news "Click to view more News")
 
