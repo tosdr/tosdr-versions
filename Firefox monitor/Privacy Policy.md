@@ -272,12 +272,14 @@ We respond to all requests we receive from individuals wishing to exercise their
 
 Please visit our [forums](https://support.mozilla.org/) for general support help.
 
-### Menu
+Menu
+----
 
 * Mozilla Privacy
 * Mozilla Subscription Services
 
-#### [Mozilla Privacy](https://www.mozilla.org/en-US/privacy/)
+[Mozilla Privacy](https://www.mozilla.org/en-US/privacy/)
+---------------------------------------------------------
 
 * [Mozilla Websites, Communications & Cookies](https://www.mozilla.org/en-US/privacy/websites/)
 * [Mozilla Accounts](https://www.mozilla.org/en-US/privacy/mozilla-accounts/)
