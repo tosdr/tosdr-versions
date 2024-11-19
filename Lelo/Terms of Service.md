@@ -71,7 +71,7 @@ back to menu
 * [日本語](https://www.lelo.com/ja/terms-of-use)
 * [한국어](https://www.lelo.com/ko/terms-of-use)
 
-BLACK FRIDAY: UP TO 50% OFF + GIFT
+BLACK FRIDAY: UP TO 60% OFF + GIFT
 
 [SHOP NOW](https://www.lelo.com/black-friday)
 
