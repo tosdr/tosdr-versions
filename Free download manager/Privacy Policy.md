@@ -191,15 +191,15 @@ Popular tutorials
 
 [Featured
 
+How to Protect your Email Account from Being Hacked](https://en.freedownloadmanager.org/tutorials/how-to-protect-your-email-account-from-being-hacked.html)
+
+[Featured
+
 How to re-enable deactivated Facebook account](https://en.freedownloadmanager.org/tutorials/how-to-re-enable-deactivated-facebook-account.html)
 
 [Featured
 
 How to clean registry](https://en.freedownloadmanager.org/tutorials/how-to-clean-registry.html)
-
-[Featured
-
-How to play Android games on your Windows PC](https://en.freedownloadmanager.org/tutorials/how-to-play-android-games-on-your-windows-pc.html)
 
 [Terms & Privacy](https://www.freedownloadmanager.org/privacy.htm) • [Contact us](https://www.freedownloadmanager.org/contactus.htm) • [Donate](https://www.freedownloadmanager.org/donate.htm)
 
