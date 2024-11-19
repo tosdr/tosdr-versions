@@ -48,7 +48,7 @@ shop
     
     [](https://www.poopourri.com/collections/black-friday-cyber-monday-sale)
     
-    **Black Friday | Up to 60% Off!**
+    **35% off Sitewide**
     
     [](https://www.poopourri.com/collections/black-friday)
     
