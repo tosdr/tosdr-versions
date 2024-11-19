@@ -62,7 +62,7 @@ Gas Parts](https://www.weber.com/US/en/parts--et--support/replacement-parts/gas-
 
 [Shop All Gas Grills](https://www.weber.com/US/en/gas/ "Shop All Gas Grills")
 
-  [![](https://dw-images.weber.com/images/MAP%20Holiday/HolidayFY2025/Spirit%20MAP/SpiritMegaMenu.png?auto=compress,format)Holiday Deal: Up to $130 OFF Select Spirit Grills](https://www.weber.com/US/en/holiday-special-offers/)[![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
+  [![](https://dw-images.weber.com/images/plp/2024_Slate_207x165.jpg?auto=compress,format)The New Slate Griddle](https://www.weber.com/US/en/slategriddle.html)
 
 [Charcoal](https://www.weber.com/US/en/charcoal/ "Charcoal")
 
