@@ -31,6 +31,192 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
+Ucrania ataca por primera vez territorio ruso con misiles
+=========================================================
+
+El presidente de EE.UU., Joe Biden, autorizó a Kiev el empleo de misiles de largo alcance contra objetivos en territorio ruso, el domingo
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+![Captura de archivo de un video del Ministerio de Defensa ruso de un blindado atacado en la región de Kursk.](https://www.elcomercio.com/wp-content/uploads/2024/11/Kiev.jpg)
+
+El **Ministerio de Defensa de Rusia** confirmó hoy, martes 19 de noviembre de 2024, el primer ataque ucraniano con misiles balísticos de fabricación estadounidense ATACMS. El ataque estuvo dirigido contra una instalación militar en territorio de este país.
+
+### Más noticias
+
+* [Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales](https://www.elcomercio.com/actualidad/mundo/putin-aprueba-doctrina-que-permite-respuesta-nuclear-a-ataques-convencionales.html "Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales")
+* [Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia](https://www.elcomercio.com/actualidad/mundo/joe-biden-autoriza-misiles-largo-alcance-ucrania-ofensiva-contra-rusia.html "Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia")
+* [Alemania celebra 35 años de la caída del Muro de Berlín con la mirada sobre Ucrania](https://www.elcomercio.com/actualidad/muro-berlin-alemania-ucrania.html "Alemania celebra 35 años de la caída del Muro de Berlín con la mirada sobre Ucrania")
+
+Ucrania realiza el primer ataque con misiles
+--------------------------------------------
+
+Según el parte de guerra, se derribaron **cinco misiles** y los fragmentos de un sexto impactaron de fabricación en el recinto **de una instalación militar** en la región fronteriza de Briansk.
+
+“Como resultado, **se declaró un incendio** que se extinguió operativamente. No hay muertos ni heridos”, señala el comunicado castrense colgado en Telegram.
+
+El ataque se perpetró a las 03:25 de la madrugada, “según datos confirmados, con el uso de misiles tácticos ATACMS de fabricación estadounidense”.
+
+Las baterías antiaéreas S-400 y Pantsir **abatieron cinco de los misile**s, precisa el comunicado.
+
+Previamente, el Estado Mayor ucraniano había informado, sin dar detalles del armamento utilizado, sobre **un ataque exitoso** contra un arsenal del Ejército ruso en Briansk.
+
+Presidente de EE.UU. autorizó uso de misiles
+--------------------------------------------
+
+Según informaron el domingo medios occidentales, **el presidente de EE.UU., Joe Biden,** autorizó a Kiev el empleo de misiles de largo alcance contra objetivos en territorio ruso.
+
+La prensa informó en principio que el permiso únicamente incluía a la región fronteriza de Kursk, parcialmente ocupada por tropas ucranianas desde agosto. **Donde Moscú habría desplegado** a miles de soldados norcoreanos.
+
+Precisamente, en respuesta a la decisión de Washington, el presidente ruso, **Vladímir Putin,** aprobó hoy la nueva doctrina nuclear rusa que permite el empleo de armamento atómico en caso de ataque [convencional](https://es.wikipedia.org/wiki/Ucrania "https://es.wikipedia.org/wiki/Ucrania").
+
+Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales
+=============================================================================
+
+El documento también considerará "ataque conjunto" la agresión de un país que carezca de armamento atómico
+----------------------------------------------------------------------------------------------------------
+
+![El presidente ruso, Vladimir Putin, en una reunión en Rusia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Putin.jpg)
+
+El presidente ruso, **Vladímir Putin,** aprobó hoy una doctrina nuclear que permite respuestas con armamento nuclear ante ataques convencionales que amenacen la soberanía de **Rusia y Bielorrusia.**
+
+### Más noticias
+
+* [Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia](https://www.elcomercio.com/actualidad/mundo/joe-biden-autoriza-misiles-largo-alcance-ucrania-ofensiva-contra-rusia.html "Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia")
+* [Corea del Norte lanza un misil balístico sin identificar hacia el mar de Japón](https://www.elcomercio.com/actualidad/mundo/corea-del-norte-lanza-un-misil-balistico-sin-identificar-hacia-el-mar-de-japon-2.html "Corea del Norte lanza un misil balístico sin identificar hacia el mar de Japón")
+* [Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut](https://www.elcomercio.com/actualidad/mundo/israel-lanza-nuevo-ataque-contra-edificio-oeste-beirut.html "Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut")
+
+La doctrina autoriza **un ataque nuclear** en caso de que el ataque convencional enemigo suponga “una amenaza crítica para la soberanía y (o) integridad territorial”. Esto aplica para ambos países, que integran la Unión Estatal Rusia-Bielorrusia.
+
+El documento también considerará **“ataque conjunto”** la agresión de un país que carezca de armamento atómico, pero que tenga el respaldo de una potencia nuclear.
+
+La doctrina publicada amplía la categoría de alianzas militares contra las que **Rusia** aplicará la estrategia de disuasión nuclear. El documento se publicó en el portal de información legal del Estado ruso.
+
+“La agresión de cualquier Estado perteneciente a **una coalición militar** (bloque, alianza) contra la Federación de Rusia y (o) sus aliados es vista como una **agresión de la coalición** en su conjunto”, señala.
+
+Estas **dos últimas cláusulas** son consideradas por los analistas como una clara advertencia a Estados Unidos y la OTAN, en caso de que **decidan involucrase directamente** en el conflicto en Ucrania.
+
+La doctrina nuclear
+-------------------
+
+Rusia puede recurrir a las **armas nucleares** también en caso de “ataque masivo” con aviones de guerra, misiles de crucero, hipersónicos, drones y otros aparatos no tripulados que **violen el espacio aéreo** del país.
+
+Por primera vez, **el documento alude no solo a la aviación** y a aparatos hipersónicos enemigos, sino también a drones. Esto pues es un instrumento de guerra que **ha adquirido una gran popularidad** en los últimos años.
+
+Al mismo tiempo, **la doctrina subraya que Rusia** ve las armas nucleares como “un instrumento de disuasión” de carácter defensivo, cuyo empleo es una “medida extrema y forzosa”.
+
+Putin había anunciado los cambios en la **doctrina nuclear** a finales de septiembre, pero la promulgó justo cuando se cumplen **1 000 días de combates** en Ucrania.
+
+Además, el anuncio tiene lugar después de que EE.UU., según la prensa occidental, autorizara a Ucrania el empleo de misiles de largo alcance contra territorio ruso.
+
+Putin, que aprobó tras el comienzo de la **guerra el despliegue de armas nucleares** tácticas en Bielorrusia, había advertido que dicha decisión significaría que EEUU y la OTAN “están en [guerra con Rusi](https://es.wikipedia.org/wiki/Ucrania "https://es.wikipedia.org/wiki/Ucrania")a”.
+
+Cuándo y por qué se conmemora el Día del Hombre
+===============================================
+
+Cada 19 de noviembre se celebra el Día Internacional del Hombre.
+----------------------------------------------------------------
+
+![Seis pilares guían el Día Internacional del Hombre. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-del-Hombre.jpg)
+
+El **Día Internacional del Hombre** se conmemora cada 19 de noviembre. Esta fecha fue establecida en 1992 por **Thomas Oaster**, director del **Centro de Estudios Masculinos** en la Universidad de Misuri-Kansas. Sin embargo, **su reconocimiento global comenzó en 1999, cuando se celebró por primera vez en Trinidad y Tobago**. En esa ocasión, el **profesor Jerome Teelucksingh** organizó seminarios sobre violencia doméstica y modelos masculinos para honrar a su padre en su cumpleaños, según la web del [Parlamento Andino](https://www.parlamentoandino.org/index.php/actualidad/noticias/868-dia-internacional-del-hombre "https://www.parlamentoandino.org/index.php/actualidad/noticias/868-dia-internacional-del-hombre"). 
+
+### Más noticias
+
+* [¿Cuándo se celebra el Día del](https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html "https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html") [H](https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html "https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html")[ombre?](https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html "https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html")
+* [¿Cuándo es el Día del hombre?](https://www.elcomercio.com/actualidad/mundo/cuando-dia-del-hombre.html "https://www.elcomercio.com/actualidad/mundo/cuando-dia-del-hombre.html")
+
+La iniciativa de Oaster buscaba **abordar temas cruciales** como la salud masculina, la promoción de modelos masculinos positivos, y la importancia de la equidad de género. **La idea fue respaldada por Ingeborg Breines**, directora del programa Mujeres y Cultura de Paz de la Unesco, quien consideró que era necesario equilibrar las representaciones de género en la sociedad, de acuerdo con [Día Internacional De](https://www.diainternacionalde.com/ficha/dia-internacional-del-hombre "https://www.diainternacionalde.com/ficha/dia-internacional-del-hombre").  
+
+**Objetivos y temas** 
+----------------------
+
+Desde su creación, el **Día Internacional del Hombre** ha tenido varios objetivos fundamentales. En 2009, se definieron seis pilares que guían esta celebración: 
+
+1. Promover modelos masculinos positivos. 
+
+2. Celebrar las contribuciones positivas de los hombres a la sociedad. 
+
+3. Centrarse en la salud y el bienestar de los varones. 
+
+4. Mejorar las relaciones interpersonales de género. 
+
+5. Destacar la discriminación hacia los hombres. 
+
+6. Crear un mundo más seguro y mejor para todos. 
+
+Estos pilares buscan no solo **resaltar las virtudes masculinas**, sino también **abordar los desafíos que enfrentan los hombres en diversas áreas**. 
+
+**Importancia de la salud masculina** 
+--------------------------------------
+
+Un aspecto crucial del **Día Internacional del Hombre** es la **atención a la salud masculina**. Según la **Organización Mundial de la Salud** (OMS), los hombres suelen tener menos acceso a servicios médicos y son menos propensos a buscar atención cuando están enfermos. Esto contribuye a una **menor esperanza de vida** en comparación con las mujeres, a decir del Parlamento Andino.  
+
+Así funciona el Pico y placa en Quito este martes 19 de noviembre
+=================================================================
+
+Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+![La medida se implementa en Quito para tratar de regular el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/pico-y-placa.jpg)
+
+La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
+
+### Más noticias
+
+* [Quito tendrá el desfile de los mercados por sus fiestas](https://www.elcomercio.com/actualidad/quito/quito-tendra-desfile-mercados-fiestas.html "Quito tendrá el desfile de los mercados por sus fiestas")
+* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
+* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
+
+El esquema de aplicación del Pico y Placa
+-----------------------------------------
+
+En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
+
+Según el **último dígito de la placa**, el cronograma es el siguiente:
+
+* **Lunes:** placas terminadas en 1 y 2.
+* **Martes**: placas terminadas en 3 y 4.
+* **Miércoles**: placas terminadas en 5 y 6.
+* **Jueves**: placas terminadas en 7 y 8.
+* **Viernes:** placas terminadas en 9 y 0.
+
+Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
+
+Documentos necesarios para circular
+-----------------------------------
+
+Para circular, es **esencial tener la licencia** y la matrícula vigentes.
+
+Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
+
+* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
+* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
+* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
+* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
+* Realizar la evaluación teórica.
+* Esperar la entrega de la nueva licencia.
+
+Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
+
+Colaboración ciudadana en el Pico y placa
+-----------------------------------------
+
+El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
+
+Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
+
+En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
+
+> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
+>   
+> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
+>   
+> Respeta las normas de tránsito y evita sanciones.  
+>   
+> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
+> 
+> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
+
 ¿Qué estamos haciendo con la naturaleza en Ecuador?
 ===================================================
 
@@ -60,6 +246,35 @@ De forma preliminar, se estima que son más de 1 000 hectáreas consumidas por e
 Los daños en otras provincias como **Loja** también son incalculables para la flora, fauna y la salud de las personas. Los habitantes de **Cuenca y Loja** respiraron a**ire entre poco saludable y peligroso**. Muy pocos usaron mascarillas porque aún no hay un nivel de conciencia de los efectos que se producen.
 
 Las **autoridades locales y las judiciales** tienen un **reto muy importante**. De ratificarse que estos incendios fueron provocados, los **jueces deben hacer cumplir la ley** y estar a la altura de los bomberos y voluntarios que se esfuerzan por apagar el fuego. 
+
+Cartas a Quito / 19 de noviembre de 2024
+========================================
+
+Estas son las cartas a Quito de este martes 19 de noviembre de 2024
+-------------------------------------------------------------------
+
+![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
+
+Hablemos de intergeneracionalidad
+---------------------------------
+
+Pronunciarlo es casi un trabalenguas, pero aproximarse a esta cuestión desde un ángulo jocoso o trivial, no supone a mi entender acierto. Su calado va mucho más allá y se codea con otros grandes retos de nuestra civilización en el momento en el que se encuentra, tales como la sostenibilidad. Sin embargo, no apreciamos su dimensión y mucho menos su repercusión, aunque como tantas otras cuestiones, su abordaje llegará pronto y no será un acto de voluntad sino de necesidad.
+
+Vivimos en la sociedad del desperdicio, y lo afirma esta viajera empedernida que ha recorrido muchos lugares del planeta en el que todo se aprovecha y recicla varias veces, dado que cuando se carece de hasta lo imprescindible, cualquier posesión/propiedad se considera un tesoro.
+
+Pero nuestra inconsciencia derrochadora es tal que no la limitamos a recursos naturales y materiales, sino que la extendemos a ámbitos del conocimiento, la experiencia, la creatividad, la genialidad. En una sociedad en la que perseguimos inclusión, léase movilidad, diversidad… establecemos acérrima discriminación en función de las edades. Sentenciamos “que si los jóvenes no saben, que si los viejos no entienden. “Topicazos”, que a menudo esconden nuestros propios egoísmos e inseguridades. Los factores económicos, en empresas y corporaciones, también nutren este despilfarro.
+
+Pero hemos de caer en la cuenta de que todo cambia y lo hace muy rápido. Y con una esperanza de vida alargada como los rayos de sol en un atardecer, los llamados viejos de antes son los madurit@s de hoy y probablemente serán jóvenes en un mañana.
+
+No caemos en la cuenta, de que el secreto de la supervivencia de nuestra especie es la adaptación, y que estamos programados para ello. Por tanto, las descalificaciones generales por cuestión de edad, basándonos en prejuicios, modas, miedos o intereses; vacuo valor tiene. Máxime, cuando si damos una oportunidad al individuo o individua, este nos demuestra que nos encontramos equivocados.
+
+Me reitero en que una sociedad inteligente, es aquella que aprovecha y valoriza todos sus recursos, naturales, materiales y humanos, y en esta gran cuestión de edadismo, se necesita un gran pacto. La involucración de todos los agentes, porque requiere de un cambio de mentalidad y eso no se logra de la noche a la mañana, con fuegos artificiales cuya pólvora se difumina en momentos.
+
+Integremos en nuestra agenda este nuevo reto y abandonemos ese camino fácil que nos lleva a una nueva fragmentación. Extraigamos el haber de cada ser humano para situarlo en el lugar que corresponde y que no es otro, que el que más le enriquece y como sociedad más nos aporta.
+
+No desechemos nada, no desterremos a nadie.
+
+Cristina Maruri
 
 La construcción de los saberes
 ==============================
@@ -138,36 +353,7 @@ Julio Pollino Tamayo, crítico de cine, dice, sin ambages de _Blow-Up_: “Consi
 
 No fue su última cinta, pero el **histórico cortometraje** _La mirada_ debió serlo. Él llega a una iglesia. Su sombra arrebatada por el camino lo precede como en un ceremonial. El maestro llevaba casi veinte años sin caminar. Pero él es capaz de retar su **debilidad** y transformar lo ilusorio o fantástico en realidad. Sí, es él. Lento y acaso solemne por algo que dejó para que discurrieran los demás, se acerca al sitio donde se está restaurando el _Moisés_ de Miguel Ángel, mucho tiempo alojado en las **tinieblas** de alguna bodega. _Moisés_ redivivo, Antonioni caminando. El milagro. Los cuerpos. Mármol y carne. El **cine**. El silencio. Juntos, en el vacío que sienten los dos. Antonioni sigue, ¿hacia dónde? ¿Hacia la luz que llene su vacío?
 
-Cartas a Quito / 19 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este martes 19 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Hablemos de intergeneracionalidad
----------------------------------
-
-Pronunciarlo es casi un trabalenguas, pero aproximarse a esta cuestión desde un ángulo jocoso o trivial, no supone a mi entender acierto. Su calado va mucho más allá y se codea con otros grandes retos de nuestra civilización en el momento en el que se encuentra, tales como la sostenibilidad. Sin embargo, no apreciamos su dimensión y mucho menos su repercusión, aunque como tantas otras cuestiones, su abordaje llegará pronto y no será un acto de voluntad sino de necesidad.
-
-Vivimos en la sociedad del desperdicio, y lo afirma esta viajera empedernida que ha recorrido muchos lugares del planeta en el que todo se aprovecha y recicla varias veces, dado que cuando se carece de hasta lo imprescindible, cualquier posesión/propiedad se considera un tesoro.
-
-Pero nuestra inconsciencia derrochadora es tal que no la limitamos a recursos naturales y materiales, sino que la extendemos a ámbitos del conocimiento, la experiencia, la creatividad, la genialidad. En una sociedad en la que perseguimos inclusión, léase movilidad, diversidad… establecemos acérrima discriminación en función de las edades. Sentenciamos “que si los jóvenes no saben, que si los viejos no entienden. “Topicazos”, que a menudo esconden nuestros propios egoísmos e inseguridades. Los factores económicos, en empresas y corporaciones, también nutren este despilfarro.
-
-Pero hemos de caer en la cuenta de que todo cambia y lo hace muy rápido. Y con una esperanza de vida alargada como los rayos de sol en un atardecer, los llamados viejos de antes son los madurit@s de hoy y probablemente serán jóvenes en un mañana.
-
-No caemos en la cuenta, de que el secreto de la supervivencia de nuestra especie es la adaptación, y que estamos programados para ello. Por tanto, las descalificaciones generales por cuestión de edad, basándonos en prejuicios, modas, miedos o intereses; vacuo valor tiene. Máxime, cuando si damos una oportunidad al individuo o individua, este nos demuestra que nos encontramos equivocados.
-
-Me reitero en que una sociedad inteligente, es aquella que aprovecha y valoriza todos sus recursos, naturales, materiales y humanos, y en esta gran cuestión de edadismo, se necesita un gran pacto. La involucración de todos los agentes, porque requiere de un cambio de mentalidad y eso no se logra de la noche a la mañana, con fuegos artificiales cuya pólvora se difumina en momentos.
-
-Integremos en nuestra agenda este nuevo reto y abandonemos ese camino fácil que nos lleva a una nueva fragmentación. Extraigamos el haber de cada ser humano para situarlo en el lugar que corresponde y que no es otro, que el que más le enriquece y como sociedad más nos aporta.
-
-No desechemos nada, no desterremos a nadie.
-
-Cristina Maruri
-
-Chófer de bus amenazó con un machete a otro conductor en Quito
+Chofer de bus amenazó con un machete a otro conductor en Quito
 ==============================================================
 
 La AMT y la cooperativa de transporte del bus involucrado se pronunciaron sobre el incidente ocurrido en el norte de Quito.
@@ -883,289 +1069,3 @@ Durante la gala, **Lucía e Ivonne** deslumbraron en la **alfombra roja** de los
 Lucía Vives, de 28 años, es una defensora activa de la diversidad y la inclusión. Su relación con Ivonne fue objeto de especulaciones y comentarios positivos en las **plataformas digitales,** donde muchos elogiaron su valentía al compartir su **amor** públicamente.
 
 A pesar de que ambas optaron por mantener su relación relativamente privada, su aparición en un evento tan destacado fue vista como un símbolo de aceptación y amor.
-
-Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut
-=====================================================================
-
-Casi 3 500 personas murieron en más de un año de fuego cruzado entre Israel y Hezbolá.
---------------------------------------------------------------------------------------
-
-![Daños tras una explosión en Beirut, Líbano.](https://www.elcomercio.com/wp-content/uploads/2024/11/beirut-edificio-efe.jpg)
-
-Al menos **una persona murió** el domingo, 18 de noviembre de 2024, y **nueve resultaron heridas** en el ataque israelí contra la zona de Mar Elias, en el **oeste de Beirut**, informó el Ministerio de Salud Pública libanés.
-
-### Más noticias
-
-* [Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/israel-anuncia-nuevos-ataques-sedes-hizbula-beirut-sur-libano.html "Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano")
-* [Chinos bajan de peso en campamentos de adelgazamiento con disciplina extrema](https://www.elcomercio.com/tendencias/curiosidades/china-campamentos-adelgazamiento-salud-obesidad.html "Chinos bajan de peso en campamentos de adelgazamiento con disciplina extrema")
-* [La hambruna se cernirá sobre el norte de Gaza en días si no se actúa pronto](https://www.elcomercio.com/actualidad/mundo/hambruna-cernira-norte-gaza-dias-actua-pronto.html "La hambruna se cernirá sobre el norte de Gaza en días si no se actúa pronto")
-
-El **Centro de Operaciones de Emergencia de Salud Pública**, afiliado al Ministerio de Salud Pública, aseguró en un comunicado que “la **incursión del enemigo israelí** en la calle Mar Elias de Beirut causó el martirio (muerte) de una persona y heridas a otras nueve, dos de ellas en estado crítico”.
-
-Según la Agencia Nacional de Noticias libanesa (ANN), el blanco del ataque fue un edificio en esta zona del oeste de la capital, aunque no se sabe con certeza qué tipo de inmueble es.
-
-Hasta el momento **se desconocen más detalles** sobre quién era el posible objetivo de este ataque e Israel no se pronunció ante esta información.
-
-Segundo ataque de Israel contra Beirut
---------------------------------------
-
-En imágenes transmitidas por televisiones locales se ve una gran **bola de fuego** y la gente huyendo del lugar del ataque, cuyo lanzamiento **no fue advertido previamente** por el portavoz en árabe del Ejército israelí, Avichay Adree, para su evacuación.
-
-Se trata de la **segunda acción armada de Israel** contra Beirut en lo que va de día, ya que esta mañana, un **ataque contra la sede del partido panarabista Baaz** en la zona central de Beirut de Ras al Nabaa acabó con la vida del responsable de medios del grupo chií libanés Hizbulá, Mohamed Afif.
-
-Israel lanzó, además, otros **ataques contra diferentes puntos del Líbano**, y uno de ellos ha causado la muerte de dos soldados del Ejército libanés.
-
-Casi **3 500 personas murieron** en más de un año de fuego cruzado entre **Israel y Hezbolá**, aunque la gran mayoría de víctimas se produjo desde el pasado 23 de septiembre cuando el Estado judío inició una **campaña incesante de bombardeos** contra el país mediterráneo.
-
-Cortes de luz en Quito para este martes 19 de noviembre
-=======================================================
-
-Quito tendrá cortes de luz de ocho horas, tras la reducción que realizó el Ministerio de Energía.
--------------------------------------------------------------------------------------------------
-
-![La Empresa Eléctrico de Quito es la empresa encargada de distribuir el servicio en la capital](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-apagones-quito-martes.jpg)
-
-La Empresa Eléctrica Quito (**EEQ**) presentó los horarios de **cortes de luz** que tendrá la ciudad este martes 19 de noviembre de 2024.
-
-### Más noticias
-
-* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
-
-Apagones programados se redujeron a ocho horas
-----------------------------------------------
-
-El **racionamiento eléctrico** en Ecuador se retomó el 23 de septiembre de 2024, luego que en abril y junio el país tuviera apagones programados.
-
-Desde esta fecha, los cortes de luz no se han detenido, alcanzando en algunos días las **14 horas**.
-
-Según el nuevo anuncio del Ministerio de Energía, Quito y el resto de ciudades del país tendrán apagones de **ocho horas**, entre el 18 y 21 de noviembre.
-
-La reducción se debe a la mejora en los caudales de los ríos en la Amazonía y a la venta de energía desde **Colombia**[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
-
-Compra de energía a Colombia
-----------------------------
-
-Sobre este último tema, la Corporación Eléctrica del Ecuador (Celec) detalló que Ecuador firmó cuatro contratados para la importación de energía con el país del norte.
-
-La compra incluye un mejoramiento de **150 MW** para la central Esmeraldas IV y **122,1 MW** para la central Durán. Además, está el alquiler de **260 MW** para Pascuales, por 18 meses. El cuarto proyecto es la compra de **100 MW** para San Juan de Manta.
-
-Sin embargo, la falta de lluvias considerables persiste en el Austro, donde se ubican tres de las centrales hidroeléctricas más importantes del país: **Paute, Mazar y Sopladora**.
-
-Cortes de luz en Quito para este martes 19 de noviembre
--------------------------------------------------------
-
-Los cortes de luz en Quito serán de ocho horas para los **sectores residenciales** y de siete para el **sector industrial**.
-
-La suspensión del servicio eléctrico en las viviendas se realizará en **dos franjas horarias** de cuatro horas cada una, en la madrugada o mañana; y en la tarde o noche.
-
-Mientras que en los sectores industriales los apagones serán de **17:00 a 24:00**.
-
-Conoce los horarios de cortes de luz para las **zonas residenciales** de Quito:
-
-### De 00:00 a 04:00 y de 12:00 a 16:00
-
-* Miraflores
-* El Bosque
-* Andalucía
-* Conocoto
-* Cumbayá
-* Eugenio Espejo
-
-### De 08:00 a 12:00 y de 20:00 a 24:00
-
-* Luluncoto
-* La Floresta
-* Eplicachima
-* Nueva Cumbayá
-
-### Desde 02:00 a 06:00 y de 19:00 a 23:00
-
-* La Carolina
-* Tababela
-* Los Bancos
-* Pérez Guerrero
-* El Obraje (Machachi)
-
-### De 08:00 a 12:00 y de 20:00 a 24:00
-
-* Chimbacalle
-* Belisario Quevedo
-* Iñaquito
-* Inga Bajo
-
-### De 07:00 a 11:00 y de 20:00 a 24:00
-
-* Chilibulo
-* Granda Centeno
-* Río Coca
-
-### Desde 04:00 a 08:00 y de 16:00 a 20:00
-
-* Gualo
-* Sangolquí
-
-### De 02:00 a 06:00 y de 14:00 a 18:00
-
-* Barrionuevo
-* Santa Rosa
-* El Quinche
-
-### Desde 10:00 a 14:00 y de 20:00 a 24:00
-
-* Olímpico
-* Cristianía
-* San Antonio
-* Alangasí
-
-### De 06:00 a 10:00 y de 16:00 a 20:00
-
-* San Rafael
-* Tumbaco
-* Pomasqui
-
-### De 00:00 a 04:00 y de 15:00 a 19:00
-
-* San Roque
-* Río Coca
-* Cotocollao
-* Conocoto
-* Santa Rosa
-* Inga Bajo
-
-### De 11:00 a 15:00 y de 20:00 a 24:00
-
-* Olímpico
-* Escuela Sucre
-* La Marín
-* Diez Vieja
-* San Pablo
-* Iñaquito
-* Tababela
-* Diez Nueva
-* Los Bancos
-* Pomasqui
-
-### De 12:00 a 16:00 y de 20:00 a 24:00
-
-* Miraflores
-* Granda Centeno
-* Andalucía
-* Cristianía
-* Cotocollao
-* Eplicachima
-* Conocoto
-* Carolina
-* San Rafael
-* Eugenio Espejo
-* Batán Alto
-
-Te compartimos el **cronograma completo** de cortes de luz por sectores en Quito para este martes 19 de noviembre:
-
-Justin Bieber preocupa por su aislamiento
-=========================================
-
-La falta de aparciones de Justin Bieber desata alarma sobre su salud mental tras el caso Diddy.
------------------------------------------------------------------------------------------------
-
-![A los 15 años Justin Bieber trabajó con Diddy.](https://www.elcomercio.com/wp-content/uploads/2024/11/justin-bieber-El-Comercio.jpg)
-
-En los últimos días, el medio internacional _In Touch_ reveló detalles sobre el estado emocional de **Justin Bieber**, basándose en declaraciones de personas cercanas a su círculo familiar.
-
-Estas fuentes aseguran que el cantante está viviendo un momento crítico y que su comportamiento actual ha despertado serias preocupaciones entre quienes lo rodean.
-
-### Más noticias
-
-* **[Pedro Pascal es fan del pan, los elefantes y ¿qué más?](https://www.elcomercio.com/tendencias/pedro-pascal.html "https://www.elcomercio.com/tendencias/pedro-pascal.html")**
-* **[¿Cómo celebró P. Diddy su cumpleaños en la cárcel?](https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html "https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html")**
-
-“Justin apenas sale de casa”, afirmó una de las personas consultadas por el medio. Aunque se creyó que su falta de socialización era por su nueva etapa como padre, las señales recientes sugieren algo más profundo.
-
-Bieber, quien dio la bienvenida a su **hijo Jack Blues** en agosto de 2024 junto a su **esposa Hailey Baldwin**, ha decidido concentrarse exclusivamente en su familia y carrera, y ha evitado casi cualquier contacto con el mundo exterior.
-
-Según _In Touch_ , la preocupación principal radica en el posible regreso de pensamientos suicidas que marcaron etapas anteriores de la vida del cantante. “Parece estar retrocediendo en los avances que había logrado en su salud mental. Este retroceso ha puesto en alerta a su círculo más cercano”, añadió la fuente.
-
-**Aislamiento y señales preocupantes**
---------------------------------------
-
-El aislamiento de Justin Bieber ha sido evidente incluso para el público. Según _Cambio 22_, el cantante ha reducido sus apariciones públicas, limitándose a visitas a la iglesia y momentos breves junto a Hailey.
-
-Esta reclusión podría estar ligada al estrés generado por las acusaciones contra Sean Combs, conocido como **Diddy**, con quien Bieber trabajó en su adolescencia.
-
-Las alarmas se encienden debido a la presión psicológica que los acontecimientos recientes parecen haber desencadenado. El portal _Los 40_ explicó que, aunque Justin ha trabajado intensamente en mejorar su bienestar emocional, los recuerdos del pasado y su vínculo con Diddy podrían estar influyendo negativamente en su estado actual.
-
-**La salud mental de Justin: ¿qué está en juego?**
---------------------------------------------------
-
-La salud mental de Bieber no es un tema nuevo. Durante años, el cantante ha hablado abiertamente sobre sus luchas con la **ansiedad y la depresión**.
-
-Sin embargo, los detalles que han surgido a raíz del caso de Diddy parecen haber reactivado antiguos conflictos internos. Una de las fuentes citadas por _In Touch_ comentó: “Justin estaba en un buen lugar, pero los eventos recientes lo han desestabilizado. Todos temen que esto lo lleve a una caída”.
-
-### Más del tema
-
-* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
-* **[Un organizador de las fiestas de P. Diddy detalló los excesos de los eventos](https://www.elcomercio.com/afull/diddy-rapero-fiestas.html "https://www.elcomercio.com/afull/diddy-rapero-fiestas.html")**
-
-El impacto psicológico que podrían haber tenido las experiencias de su adolescencia con Diddy no se ha confirmado oficialmente, pero los rumores y especulaciones han tomado fuerza.
-
-Imágenes antiguas y grabaciones de entrevistas resurgen en redes sociales, donde los usuarios analizan señales de incomodidad y tensión en el comportamiento de Bieber.
-
-**Un momento crítico para la familia Bieber**
----------------------------------------------
-
-El portal _RT_ señaló que su aparente desconexión del mundo exterior podría ser tanto una estrategia de protección como un síntoma de algo más profundo. Hailey, quien ha sido un pilar de apoyo constante, también estaría preocupada por el impacto que este episodio está teniendo en su esposo.
-
-Este difícil período coincide con el aumento de atención mediática sobre el caso Diddy, lo que añade presión a la vida privada de Bieber. Si bien el cantante ha evitado hacer declaraciones públicas, las de su entorno sugieren que su salud mental está siendo tratada con extrema precaución.
-
-La DANA pasa factura a enfermos crónicos y adultos mayores
-==========================================================
-
-Los adultos mayores son uno de los colectivos más afectados por la DANA en Valencia.
-------------------------------------------------------------------------------------
-
-![Un hombre toma un descanso junto al barranco del Poyo a su paso por Paiporta.](https://www.elcomercio.com/wp-content/uploads/2024/11/DANA-noviembre-11.jpg)
-
-Pepa Matías no se quiere quejar, dice que ella por lo menos no perdió la casa, pero tiene motivos porque **vivió dos semanas de pesadilla**: primero **se inundó su vivienda**, después su marido, jubilado como ella, se cayó limpiando el barro y tuvo que ser operado, y ahora las d**olencias de ambos van a peor.**
-
-### Más noticias
-
-* [En Valencia piden no tirar lodo a la alcantarilla ante la alerta por una nueva DANA](https://www.elcomercio.com/actualidad/mundo/valencia-piden-tirar-lodos-alcantarilla-alerta-dana.html "En Valencia piden no tirar lodo a la alcantarilla ante la alerta por una nueva DANA")
-* [Ocho comunidades en alerta por una nueva DANA](https://www.elcomercio.com/actualidad/mundo/ocho-comunidades-alerta-nueva-dana-traera-fuertes-lluvias-viento-nieve.html "Ocho comunidades en alerta por una nueva DANA")
-* [Resiliencia en Quito en 2 iniciativas de seguridad ciudadana](https://www.elcomercio.com/opinion/editorial/resiliencia-quito-iniciativas-seguridad.html "Resiliencia en Quito en 2 iniciativas de seguridad ciudadana")
-
-“Mi marido antes salía de casa, pero ahora ya no –explica–. A mí **me da miedo que se infecte la herida** con este barro que **llena las calles y huele tan mal,** y él tampoco quiere salir porque tiene alzheimer y desde el día del temporal está más desorientado”.
-
-Como el esposo de Pepa, muchos **enfermos crónicos** ya notan los efectos a medio y largo plazo del temporal ([DANA](https://www.elcomercio.com/actualidad/mundo/ocho-comunidades-alerta-nueva-dana-traera-fuertes-lluvias-viento-nieve.html "https://www.elcomercio.com/actualidad/mundo/ocho-comunidades-alerta-nueva-dana-traera-fuertes-lluvias-viento-nieve.html")) que azotó Valencia (este) y se llevó la vida de, al menos, 218 personas, según el último dato oficial disponible.
-
-La asistencia sanitaria entró en una segunda fase, según Carlos Sánchez, responsable del Servicio de Asistencia Municipal de Urgencia y Rescate de Madrid (SAMUR) desplazado a Valencia: “**Si durante los primeros días acudíamos a emergencias,** ahora ayudamos sobre todo a personas con movilidad reducida que necesitan asistencia sanitaria por dolencias crónicas”.
-
-“El hecho de que **nosotros estemos en la calle** y trabajemos en coordinación con policía y bomberos nos permite estar en contacto con el ciudadano y que nos pueda reclamar esa asistencia”, añade.
-
-Los riesgos de ayudar en plena calle
-------------------------------------
-
-Pero no siempre los ciudadanos piden ayuda. Pepa, por ejemplo, siente que a su alrededor hay desgracias mayores que la suya y por eso, a pesar de su avanzada edad, salió a la calle con su marido a echar una mano en las **tareas de limpieza**.
-
-Los dos se resbalaron y el peor parado fue su esposo, que ya estaba en lista de **espera para una prótesis** y tuvo que ser operado de urgencia.
-
-El posoperatorio está siendo complicado porque, como no pueden ir hasta el centro médico, es ella quien se está encargando de las curas y de **mantener en casa la higiene** que precisa un enfermo, cosa nada fácil en estos momentos en un pueblo, Massanassa, donde todavía hay agua encharcada y basura por las calles.
-
-“Tuve ansiedad y me estoy medicando, pero con cuidado porque también **tomo medicamentos** para la tensión y los problemas de articulaciones”, comenta Pepa, que habla más de las dolencias de su marido que de las suyas.
-
-Pero ella también padece **enfermedades crónicas** que se están complicando por el peso del trabajo que supone cuidar a su esposo y por la tensión que ha vivido y sigue viviendo. “Estoy agotada y muy triste –reconoce–, pero **intento no desanimarme**. Ya le dije a mi marido que **nada de ver las noticias,** mejor cosas que nos entretengan”.
-
-Los ancianos, uno de los colectivos más afectados
--------------------------------------------------
-
-Una de las vecinas de Pepa es otra mujer mayor que tiene **problemas respiratorios** y a la que el polvo que flota en el ambiente le provoca ahogos.
-
-En otro pueblo de la zona anegada, Algemesí, Isabel Adam camina por la calle con su madre de 81 años. “Es el primer paseo desde el día del temporal”, aclara.
-
-“Llevaba desde el 29 de octubre –día del temporal– sin salir porque está todo lleno de barro y es peligroso para ella, que va con andador; además**, está más desorientada de lo habitual**“, agrega mientras acompaña a la peluquería a su madre, que “es muy coqueta”.
-
-Cerca de donde vive murió el día del **temporal Pepe Magraner**, un hombre de 80 años que estaba solo en casa cuando le alcanzó el agua.
-
-Los mayores de 70 años fueron los que más sufrieron el primer envite del temporal, con al menos 104 fallecidos del total, y ahora siguen siendo **uno de los colectivos más vulnerables** porque sus dolencias se han complicado.
-
-Durante los primeros días, muchos se quedaron sin luz y **tuvieron problemas** para conseguir agua potable, **comida variada y medicinas,** cosa que ya se está traduciendo en complicaciones de salud para las personas con patologías de base.
