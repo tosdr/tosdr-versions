@@ -558,6 +558,10 @@ MENU MENU
     [Featured Stories](https://home.treasury.gov/news/featured-stories)
     -------------------------------------------------------------------
     
+    November 19, 2024
+    
+    [Strengthening Global Sanctions: Two Years of Enhanced Partnership](https://home.treasury.gov/news/featured-stories/strengthening-global-sanctions-two-years-of-enhanced-partnership)
+    
     September 20, 2024
     
     [Spotlighting Women’s Retirement Security](https://home.treasury.gov/news/featured-stories/spotlighting-womens-retirement-security)
@@ -566,26 +570,22 @@ MENU MENU
     
     [From Car Dealers to Union Workers: Engaging Stakeholders on Historic Biden-Harris Climate Law](https://home.treasury.gov/news/featured-stories/from-car-dealers-to-union-workers-engaging-stakeholders-on-historic-biden-harris-climate-law)
     
-    September 4, 2024
-    
-    [Analysis of the First Year of the Low-Income Communities Bonus Credit Program: Building an Inclusive and Affordable Clean Energy Economy](https://home.treasury.gov/news/featured-stories/analysis-of-the-first-year-of-the-low-income-communities-bonus-credit-program-building-an-inclusive-and-affordable-clean-energy-economy)
-    
     [View all Featured Stories](https://home.treasury.gov/news/featured-stories "View all Featured Stories")
     
     [Press Releases](https://home.treasury.gov/news/press-releases)
     ---------------------------------------------------------------
     
-    November 18, 2024
+    November 19, 2024
     
-    [Treasury International Capital Data for September](https://home.treasury.gov/news/press-releases/jy2717)
+    [Treasury Targets Key Hamas Leaders and Financiers](https://home.treasury.gov/news/press-releases/jy2720)
     
-    November 18, 2024
+    November 19, 2024
     
-    [Treasury Issues Final Regulations to Sharpen and Enhance CFIUS Procedures and Enforcement Authorities to Protect National Security](https://home.treasury.gov/news/press-releases/jy2716)
+    [Treasury Targets Fentanyl Traffickers and Other Key Contributors to U.S. Opioid Crisis](https://home.treasury.gov/news/press-releases/jy2719)
     
-    November 18, 2024
+    November 19, 2024
     
-    [Treasury Targets Organization with Ties to Violent Actors in the West Bank](https://home.treasury.gov/news/press-releases/jy2715)
+    [U.S. Department of the Treasury Releases Final Rules to Expand Access to Clean Energy Tax Credits](https://home.treasury.gov/news/press-releases/jy2718)
     
     [View All Press Releases](https://home.treasury.gov/news/press-releases "View all Press Releases")
     
