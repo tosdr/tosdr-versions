@@ -23,7 +23,7 @@ Search gov.je  Search
 
 * [Home](https://www.gov.je/Pages/default.aspx "gov.je home")
 
-   
+    
 
 Terms and conditions
 ====================
@@ -136,7 +136,7 @@ Our sites
 * [Open Data](https://opendata.gov.je/ "Open Data opens in new window")
 * [Parishes](https://comite.je/ "Parishes opens in new window")
 * [Petitions](https://petitions.gov.je/ "Petitions opens in new window")
-* [States Assembly](https://statesassembly.gov.je/ "States Assembly opens in new window")
+* [States Assembly](https://statesassembly.je/ "States Assembly opens in new window")
 * [Visit Jersey](https://www.jersey.com/ "Visit Jersey opens in new window")
 
 Find us on social media
