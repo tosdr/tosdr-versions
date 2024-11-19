@@ -29,13 +29,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.kagstv.com/assets/KCEN/images/c23e7927-15a9-4ca0-baa7-3968de32b069/20241118T210246/c23e7927-15a9-4ca0-baa7-3968de32b069_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/c23e7927-15a9-4ca0-baa7-3968de32b069/20241118T210246/c23e7927-15a9-4ca0-baa7-3968de32b069_360x203.jpg)](https://www.kagstv.com/article/news/local/two-driving-with-1-million-worth-of-methamphetamine-arrested-interstate-45/500-d2cce15c-9bcb-441c-a5f8-d685cd1c43f5)
+        
+        #### [Two caught with $1 million worth of methamphetamine in their car](https://www.kagstv.com/article/news/local/two-driving-with-1-million-worth-of-methamphetamine-arrested-interstate-45/500-d2cce15c-9bcb-441c-a5f8-d685cd1c43f5)
+        
     *  [![](https://media.kagstv.com/assets/KCEN/images/f5de71a2-9bf9-490d-ace0-90a0dac07bc0/20241118T185128/f5de71a2-9bf9-490d-ace0-90a0dac07bc0_16x9.jpg) ![](https://media.kagstv.com/assets/KCEN/images/f5de71a2-9bf9-490d-ace0-90a0dac07bc0/20241118T185128/f5de71a2-9bf9-490d-ace0-90a0dac07bc0_360x203.jpg)](https://www.kagstv.com/article/news/local/missing-15-year-old-last-seen-in-brenham-tx-on-nov-13-2024-speculated-to-be-in-houston-tx-area/500-c15f37b8-d1fd-4379-8bcd-352bda647d58)
         
         #### [Have you seen this person? Brenham authorities seeking help finding missing 15-year-old](https://www.kagstv.com/article/news/local/missing-15-year-old-last-seen-in-brenham-tx-on-nov-13-2024-speculated-to-be-in-houston-tx-area/500-c15f37b8-d1fd-4379-8bcd-352bda647d58)
-        
-    *  [![](https://media.kagstv.com/assets/WFAA/images/d79d4271-be22-43af-8ec6-48467d0c2cfd/20241118T044007/d79d4271-be22-43af-8ec6-48467d0c2cfd_16x9.jpg) ![](https://media.kagstv.com/assets/WFAA/images/d79d4271-be22-43af-8ec6-48467d0c2cfd/20241118T044007/d79d4271-be22-43af-8ec6-48467d0c2cfd_360x203.jpg)](https://www.kagstv.com/article/news/local/texas-a-m-u/texas-am-25th-anniversary-aggie-bonfire-collapse-that-killed-12/287-eb861270-77b5-40bf-96b3-1f247a80b114)
-        
-        #### [25 years later | Texas A&M commemorates anniversary of campus bonfire collapse that killed 12](https://www.kagstv.com/article/news/local/texas-a-m-u/texas-am-25th-anniversary-aggie-bonfire-collapse-that-killed-12/287-eb861270-77b5-40bf-96b3-1f247a80b114)
         
     
 * [Weather](https://www.kagstv.com/weather/)
@@ -86,9 +86,9 @@ Navigation
 
 Bryan, TX »
 
-54°
+57°
 
-![Clear](/assets/shared-images/weather-icons/partly-cloudy-night_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Bryan, TX »](https://www.kagstv.com/weather)
 
