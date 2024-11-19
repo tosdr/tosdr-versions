@@ -243,6 +243,16 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
+[![](https://cwbchicago.com/wp-content/uploads/2024/05/Snellling-brandon-johnson-326x245.jpg)](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
+
+Citywide
+
+### [After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
+
+[November 16, 2024 12:38 PM](https://cwbchicago.com/2024/11)
+
+Less than 24 hours after his office insisted that Mayor Brandon Johnson would attend Monday’s funeral for slain Chicago Police Officer Enrique Martinez despite the grieving family’s wishes, Johnson reversed course Saturday.[](https://cwbchicago.com/2024/11/after-ignoring-a-grieving-familys-wishes-for-nearly-a-week-chicago-mayor-says-hell-stay-away-from-slain-cops-funeral.html "After rejecting a grieving family’s wishes for nearly a week, Chicago mayor says he’ll stay away from slain cop’s funeral")
+
 [![](https://cwbchicago.com/wp-content/uploads/2024/11/sheridan-and-irving-park-road-map-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
 
 Lakeview
@@ -262,16 +272,6 @@ Chicago Lawn
 [November 16, 2024 7:37 AM](https://cwbchicago.com/2024/11)
 
 Not even two months after being paroled for an armed robbery conviction, Trinidy Mintz carjacked and robbed two men at gunpoint and then crashed the hijacked vehicle in front of Chicago cops, prosecutors say.[](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/ODPO-OIS-polk-state-citizen-326x245.jpg)](https://cwbchicago.com/2024/11/shots-fired-at-off-duty-cop-during-robbery-attempt-in-the-loop-more-shots-fired-during-second-holdup-nearby.html "Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby")
-
-Loop
-
-### [Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby](https://cwbchicago.com/2024/11/shots-fired-at-off-duty-cop-during-robbery-attempt-in-the-loop-more-shots-fired-during-second-holdup-nearby.html "Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby")
-
-[November 16, 2024 6:58 AM](https://cwbchicago.com/2024/11)
-
-Armed robbers fired shots at an off-duty Chicago police officer in the Loop on Saturday morning, according to preliminary information provided by a source. Investigators suspect the same holdup crew fired shots at another victim they targeted in River North.[](https://cwbchicago.com/2024/11/shots-fired-at-off-duty-cop-during-robbery-attempt-in-the-loop-more-shots-fired-during-second-holdup-nearby.html "Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby")
 
 Search
 
