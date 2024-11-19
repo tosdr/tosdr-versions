@@ -180,11 +180,11 @@ We base the TechCrunch Code of Conduct on the principles of inclusion, equality,
 * [Code of Conduct](https://techcrunch.com/code-of-conduct/)
 * [About Our Ads](https://legal.yahoo.com/us/en/yahoo/privacy/adinfo/index.html)
 
-* [Bluesky Surge](https://techcrunch.com/2024/11/12/what-is-bluesky-everything-to-know-about-the-x-competitor/)
-* [Cybertruck Recall](https://techcrunch.com/2024/11/13/tesla-issues-sixth-cybertruck-recall-in-a-year/)
-* [Hot Topic Data Breach](https://techcrunch.com/2024/11/13/hot-topic-data-breach-exposed-personal-data-of-57-million-customers/)
-* [Amazon Takes On Temu](https://techcrunch.com/2024/11/13/amazon-takes-on-temu-and-shein-with-discount-amazon-haul-store/)
-* [Klarna IPO](https://techcrunch.com/2024/11/13/klarna-kickstarts-u-s-ipo-plans-with-confidential-sec-filing/)
+* [X Exodus](https://techcrunch.com/2024/11/18/mastodon-sees-a-boost-from-the-x-exodus-too-founder-says/)
+* [Sam Altman](https://techcrunch.com/2024/11/18/sam-altman-will-co-chair-the-new-mayor-of-san-franciscos-transition-team/)
+* [Partiful](https://techcrunch.com/2024/11/18/partiful-is-googles-best-app-of-2024/)
+* [Perplexity Shopping Feature](https://techcrunch.com/2024/11/18/perplexity-introduces-a-shopping-feature-for-pro-users/)
+* [Josh Kushner](https://techcrunch.com/2024/11/18/openai-investor-josh-kushner-praises-musk-despite-musks-openai-lawsuit/)
 * [Tech Layoffs](https://techcrunch.com/2024/11/13/tech-layoffs-2024-list/)
 * [ChatGPT](https://techcrunch.com/2024/11/01/chatgpt-everything-to-know-about-the-ai-chatbot/)
 
