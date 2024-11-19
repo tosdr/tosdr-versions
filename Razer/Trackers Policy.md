@@ -117,6 +117,7 @@ Switch to
             -------
             
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
+            * [Razer USB 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-4-dock)
             * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand Chroma (USB-A Hub)](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma)
             
@@ -148,6 +149,7 @@ Switch to
             -------
             
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
+            * [Razer USB 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-4-dock)
             * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
             * [Razer 130W USB-C GaN charger](https://www.razer.com/gaming/pc/accessories/razer-usb-c-gan-charger)
@@ -1284,6 +1286,7 @@ Switch to
         -------
         
         * [View All Mac](https://www.razer.com/mac)
+        * [Razer USB 4 Dock - Mercury](https://www.razer.com/gaming-pc-accessories/razer-usb-4-dock)
         * [Razer Thunderbolt 4 Dock for Mac](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-mercury-edition)
         * [Razer USB-C GaN Charger 130W](https://www.razer.com/gaming-pc-accessories/razer-usb-c-gan-charger-white)
         * [Razer Laptop Stand](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-mercury-edition)
