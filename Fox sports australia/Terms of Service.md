@@ -28,10 +28,12 @@ FOX SCORES
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/TEST2024-250501)
 * [Women's BBL
     
+    ADE won by 30 runs
+    
     |     |     |
     | --- | --- |
-    | ADE | 1 /81 |
-    | PER |     |
+    | ADE | 6 /169 |
+    | PER | 8 /139 |
     
     Match Centre](https://www.foxsports.com.au/cricket/match-centre/WBBL2024-250132)
 * Golf
@@ -140,6 +142,66 @@ FOX SCORES
     | GS  | 99  |
     
     Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010236/box-score)
+* [NBA
+    
+    20/11 11:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BOS | –   |
+    | CLE | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010041)
+* [NBA
+    
+    20/11 11:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | BKN | –   |
+    | CHA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010043)
+* [NBA
+    
+    20/11 12:00 AEST
+    
+    |     |     |
+    | --- | --- |
+    | MEM | –   |
+    | DEN | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010045)
+* [NBA
+    
+    20/11 12:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | DAL | –   |
+    | NO  | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010047)
+* [NBA
+    
+    20/11 13:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | SA  | –   |
+    | OKC | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010049)
+* [NBA
+    
+    20/11 14:30 AEST
+    
+    |     |     |
+    | --- | --- |
+    | LAL | –   |
+    | UTA | –   |
+    
+    Match Centre](https://www.foxsports.com.au/basketball/nba/match-centre/NBA2024-25010051)
 * Football
     
 * [WCQ
