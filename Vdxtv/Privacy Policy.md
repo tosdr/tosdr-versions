@@ -429,7 +429,7 @@ U.S. Phone
 U.S. toll-free number +1 (800) 480-0816  
 Emeryville local office number +1 (510) 250-5500
 
-![privacy at vee dee ex dot tv](https://cdn.prod.website-files.com/62346762d4aa3516c44b3da1/66446c90667cb4f840f41898_email.png)
+![privacy at vee dee ex dot tv](https://cdn.prod.website-files.com/62346762d4aa3516c44b3da1/66446c90667cb4f840f41898_email.avif)
 
 To protect the security of your information, we will take steps as we deem necessary to confirm your identity or the identity of your Authorized Agent or valid power of attorney before completing a request or sharing any personal information with you or your Authorized Agent or valid power of attorney.
 
