@@ -72,6 +72,14 @@ Country UK AU & NZ SG MY US IE
     
     Latest News
     
+    ![](/media/dcoajkae/bannerads_group_airesearchreport_1200x627-min.png?rmode=max&width=230&height=295&v=1db3a694cb0e4c0)
+    
+    Posted 19th November 2024
+    
+    Generative AI: A third of UK workers admit to using AI covertly to get ahead
+    
+    [Read article on Generative AI: A third of UK workers admit to using AI covertly to get ahead](https://www.theaccessgroup.com/en-gb/about/news/generative-ai-a-third-of-uk-workers-admit-to-using-ai-covertly-to-get-ahead/)
+    
     ![](/media/ul5bzsny/frame-3-2.png?rmode=max&width=230&height=295&v=1db2c603cac50d0)
     
     Posted 1 November 2024
@@ -143,30 +151,6 @@ Country UK AU & NZ SG MY US IE
     Access unveils Access Evo - New AI-Enhanced Software to support HR professionals
     
     [Read article on Access unveils Access Evo - New AI-Enhanced Software to support HR professionals](https://www.theaccessgroup.com/en-gb/about/news/access-unveils-access-evo-new-ai-enhanced-software-to-support-hr-professionals/)
-    
-    ![](/media/o2upanwf/business-staff-around-a-tablet.jpg?rmode=max&width=230&height=295&v=1dab75fae97a1c0)
-    
-    Posted 6th June 2024
-    
-    The Access Group acquires global hotel tech specialist SHR Group 
-    
-    [Read article on The Access Group acquires global hotel tech specialist SHR Group](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-expands-in-north-america-with-acquisition-of-hotel-tech-specialist-shr-group/) 
-    
-    ![](/media/pb3hdpt0/news-card_acquisitions_lightyear.png?rmode=max&width=230&height=295&v=1daa2ea1fcd0db0)
-    
-    Posted 10th May 2024
-    
-    The Access Group has entered into an agreement to acquire pioneering AP automation provider, Lightyear
-    
-    [Read article on The Access Group has entered into an agreement to acquire pioneering AP automation provider, Lightyear](https://www.theaccessgroup.com/en-gb/about/news/the-access-group-has-entered-into-an-agreement-to-acquire-pioneering-ap-automation-provider-lightyear/)
-    
-    ![](/media/cv3ediz4/news-card_acquisitions_incase.png?rmode=max&width=230&height=295&v=1daa232d0206760)
-    
-    Posted 9th May 2024
-    
-    Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience
-    
-    [Read article on Access Legal makes landmark acquisition of pioneering mobile app provider, inCase – to transform lawyer client experience](https://www.theaccessgroup.com/en-gb/about/news/access-legal-makes-landmark-acquisition-of-pioneering-mobile-app-provider-incase/)
     
     Access software lets you work the way you want, giving your organisation the power to thrive and grow
     
