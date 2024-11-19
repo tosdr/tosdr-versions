@@ -884,6 +884,7 @@ Solution
     * [All-Flash Storage](https://www.qnap.com/go/solution/all-flash/)
     * [Petabyte-Scale Storage](https://www.qnap.com/go/solution/petabyte-storage/)
     * [AI Storage](https://www.qnap.com/go/solution/optimize-ai-with-qnap-storage/)
+    * [Immutable Storage](https://www.qnap.com/go/solution/immutable-storage)
     * [FC-SAN Storage](https://www.qnap.com/go/solution/fibrechannel-san/)
     * [High Availability Storage](https://www.qnap.com/go/product/es2486dc)
     * [Cold Data Storage](https://www.qnap.com/go/solution/blueglacier/)
