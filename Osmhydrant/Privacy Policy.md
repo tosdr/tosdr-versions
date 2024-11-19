@@ -26,7 +26,7 @@ OsmHydrant Lookup fire stations & fire hydrants
     * [Português](https://www.osmhydrant.org/pt/privacy-policy)
     * [Ukraiński](https://www.osmhydrant.org/uk/privacy-policy)
 
-[Login](https://www.osmhydrant.org/auth/authorize)
+[EDIT via v2](https://www.osmhydrant.org/beta/)
 
 Privacy Policy
 --------------
