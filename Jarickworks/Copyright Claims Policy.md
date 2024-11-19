@@ -187,10 +187,10 @@ Ethereum
 
 [](https://jarick.works/eidolon/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/008.svg)](https://jarick.works/anaarkei/what-is-anarchism-02-14/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/reminders-1.svg)](https://jarick.works/beagle/productivity/reminders/)
 
-[![](https://jarick.works/wp-content/uploads/beagle/svg/shell/login-1.svg)](https://jarick.works/beagle/shell/login/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/002.svg)](https://jarick.works/anaarkei/thomas-sowell-on-politicians/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/004.svg)](https://jarick.works/anaarkei/what-is-anarchism-01-14/)
+[![](https://jarick.works/wp-content/uploads/beagle/svg/productivity/sheets-1.svg)](https://jarick.works/beagle/productivity/sheets/)
 
-[![](https://jarick.works/wp-content/uploads/anaarkei/svg/022.svg)](https://jarick.works/anaarkei/stay-positive/)
+[![](https://jarick.works/wp-content/uploads/anaarkei/svg/015.svg)](https://jarick.works/anaarkei/resist-injustice/)
