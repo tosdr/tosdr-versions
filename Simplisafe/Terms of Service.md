@@ -36,33 +36,39 @@ Account
 
 [Home](https://simplisafe.com/)[Legal](https://simplisafe.com/legal)[Terms of Use](https://legal/terms-of-use)
 
-### SimpliSafe Terms of Use
+**SimpliSafe Terms of Use**
+===========================
 
-**Last updated: February 2020**
+**Last updated: November 2024**
 
-These terms of use are entered into by and between You and SimpliSafe, Inc. (**“SimpliSafe”**, **“Company"**, **"we"** or **"us"**). The following terms and conditions, together with any documents, agreements or policies they expressly incorporate by reference (collectively, these **"Terms of Use"**), govern your access to and use of [www.simplisafe.com](https://www.simplisafe.com/) or any other mobile or web interface now existing or later developed (e.g., mobile sites or mobile applications, collectively, **“Online Applications”**), including any content and functionality offered on or through [www.simplisafe.com](https://www.simplisafe.com/) or any Online Applications (collectively, the **"Website"**). The term “you,” as used in this these Terms of Use, means any person or entity who accesses or uses the Website.
+**Acceptance of the Terms of Use**
 
-Please read these Terms of Use carefully before you start to use the Website. By using the Website, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at [www.simplisafe.com/legal/privacy-policy](https://simplisafe.com/legal/privacy-policy), incorporated herein by reference. If you do not want to agree to these Terms of Use or the [Privacy Policy](https://simplisafe.com/legal/privacy-policy), you must not access or use the Website.
+These terms of use are entered into by and between You and SimpliSafe, Inc. (**“SimpliSafe”, “Company**", "**we**" or "**us**"). The following terms and conditions, together with any documents, agreements or policies they expressly incorporate by reference (collectively, these "**Terms of Use**"), govern your access to and use of [www.simplisafe.com](http://www.simplisafe.com/) or any other mobile or web interface now existing or later developed (e.g., mobile sites or mobile applications, collectively, **“Online Applications”**), including any content and functionality offered on or through [www.simplisafe.com](http://www.simplisafe.com/) or any Online Applications, such as any SimpliSafe hosted user web forums or SimpliSafe online communities, and online customer service or support chat services (including direct online chat with agent, agent video chat, chat bots or chat forums) (collectively, the "**Website**"). The term “you,” as used in this these Terms of Use, means any person or entity who accesses or uses the Website.
+
+Please read these Terms of Use carefully before you start to use the Website. By using the Website, you accept and agree to be bound and abide by these Terms of Use and our Privacy Policy, found at [www.simplisafe.com/privacy-policy](http://www.simplisafe.com/privacy-policy), incorporated herein by reference. If you do not want to agree to these Terms of Use or the [Privacy Policy](http://www.simplisafe.com/privacy-policy), you must not access or use the Website.
 
 The Website is offered and available to users who are 18 years of age or older. By using the Website, you represent and warrant that you meet the foregoing eligibility requirements. If you do not, you must not access or use the Website. Moreover, the products and services featured on the Website are available only in the United States. You agree not to use or attempt to use any SimpliSafe product or service from outside of the United States or for any illegal or unlawful purpose.
 
-For the avoidance of doubt, the [Terms of Service](https://simplisafe.com/legal/terms-of-service) govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](https://simplisafe.com/legal/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](https://simplisafe.com/legal/terms-of-service)s or [Terms of Sale](https://simplisafe.com/legal/terms-sale) shall be superseded and governed by the [Terms of Service](https://simplisafe.com/legal/terms-of-service) or [Terms of Sale](https://simplisafe.com/legal/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising under the** [Terms of Service](https://simplisafe.com/legal/terms-of-service) **or** [Terms of Sale](https://simplisafe.com/legal/terms-sale) **shall be subject solely to those terms and not these Terms of Use.**
+For the avoidance of doubt, the [Terms of Service](http://simplisafe.com/terms-of-service), including any related terms or policies referenced or incorporated therein, govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](http://simplisafe.com/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](http://simplisafe.com/terms-of-service) or [Terms of Sale](http://simplisafe.com/terms-sale) shall be superseded and governed by the [Terms of Service](http://simplisafe.com/terms-of-service) or [Terms of Sale](http://simplisafe.com/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising under the** [Terms of Service](http://simplisafe.com/terms-of-service) **or** [Terms of Sale](http://simplisafe.com/terms-sale)**, and not these Terms of Use, shall be subject solely to those terms and not these Terms of Use.**
 
-1\. **Changes to the Terms of Use & Website**
+* **Changes to the Terms of Use & Website**
+    
 
 We may revise and update these Terms of Use from time to time in our sole discretion. All changes are effective immediately when we post them, and apply to all access to and use of the Website thereafter. Your continued use of the Website following the posting of revised Terms of Use means that you accept and agree to the changes. However, any changes to the dispute resolution provisions set forth in Governing Law and Jurisdiction will not apply to any disputes for which the parties have actual notice prior to the date the change is posted on the Website. In addition, we may update the content on the Website from time to time, but its content is not necessarily complete or up-to-date. Any of the material on the Website may be out of date at any given time, and we are under no obligation to update such material
 
-2\. **Accessing the Website**
+* **Accessing the Website**
+    
 
-We reserve the right to withdraw or amend the Website, and any service or material we provide on the Website, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period
+We reserve the right to withdraw or amend the Website, and any service or material we provide on the Website, in our sole discretion without notice. We will not be liable if for any reason all or any part of the Website is unavailable at any time or for any period.
 
-3\. **Intellectual Property Rights**
+* **Intellectual Property Rights**
+    
 
 The Website and its entire contents, features and functionality (including but not limited to all information, software, text, displays, images, video and audio, and the design, selection and arrangement thereof), are owned by SimpliSafe, its licensors or other providers of such material and are protected by United States and international copyright, trademark, patent, trade secret and other intellectual property or proprietary rights laws.
 
-These Terms of Use permit you to use the Website for your personal, non-commercial use only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on our Website except for your personal use. If we provide social media features, such as [Facebook](https://www.facebook.com/SimpliSafe/), [Twitter](https://twitter.com/simplisafe), [Pinterest](https://www.pinterest.com/simplisafe/), [Google+](https://plus.google.com/+SimpliSafe), or others that are later developed, with certain content, you may take such actions as are enabled by such features.
+These Terms of Use permit you to use the Website for your personal, non-commercial use only. You must not reproduce, distribute, modify, create derivative works of, publicly display, publicly perform, republish, download, store or transmit any of the material on our Website except for your personal use. If we provide _social media features_, such as [Facebook](https://www.facebook.com/SimpliSafe/), [Twitter](https://twitter.com/simplisafe) or [X](http://www.x.com/), [Instagram](http://www.instagram.com/), [TikTok](http://www.tiktok.com/), [Pinterest](https://www.pinterest.com/simplisafe/), [Google+](https://plus.google.com/+SimpliSafe), or others that are later developed, with certain content, you may take such actions as are enabled by such features.
 
-**You must not:**
+You must not:
 
 * Modify copies of any materials from the Website.
     
@@ -75,11 +81,13 @@ No right, title or interest in or to the Website or any content on the Website i
 
 The software comprising the Website, and/or that is used to support, power or operate the Website, may contain or be provided together with open source software. Each item of open source software is subject to its own applicable license terms, which can be found at [https://simplisafe.com/open-source-disclosures](https://simplisafe.com/open-source-disclosures) and/or in the software documentation or the applicable help, notices, about or source files. Copyrights to the open source software are held by the respective copyright holders indicated therein.
 
-**4\. Trademarks**
+* **Trademarks**
+    
 
 SimpliSafe and SimpliCam, and their respective logos and all related names, logos, product and service names, designs and slogans are trademarks of SimpliSafe or its affiliates or licensors. You must not use such marks without the prior written permission of SimpliSafe. All other names, logos, product and service names, designs and slogans on the Website are the trademarks of their respective owners.
 
-**5\. Prohibited Uses**
+* **Prohibited Uses**
+    
 
 You may use the Website only for lawful purposes and in accordance with these Terms of Use. You agree not to use the Website:
 
@@ -110,14 +118,14 @@ Additionally, you agree not to:
     
 * Otherwise attempt to interfere with the proper working of the Website.
     
+* **User Contributions**
+    
 
-6\. **User Contributions**
-
-The Website may contain message boards, chat rooms, surveys, personal web pages or profiles, forums, bulletin boards and other interactive features (collectively, "**Interactive Services**") that allow users to post, submit, publish, display or transmit to other users or other persons (hereinafter, "post") content or materials (collectively, "**User Contributions**") on or through the Website.
+The Website may contain message boards, chat rooms, surveys, personal web pages or profiles, forums, online communities, bulletin boards, chatbots, and other interactive features (collectively, "**Interactive Services**") that allow users to post, submit, publish, display or transmit to other users or other persons (hereinafter, "**post**") content or materials (collectively, "**User Contributions**") on or through the Website.
 
 All User Contributions must comply with the Content Standards set out in these Terms of Use.
 
-Any User Contribution you post to the site will be considered non-confidential and non-proprietary. By providing any User Contribution on the Website, you grant us and our affiliates and service providers, and each of their and our respective licensees, successors and assigns the right to use, reproduce, modify, perform, display, distribute and otherwise disclose to third parties any such material and you are fully responsible for any User Contributions that you submit or contribute.
+Any User Contribution you post to the site will be considered non-confidential and non-proprietary. By providing any User Contribution on the Website, you grant us and our affiliates and service providers, and each of their and our respective licensees, successors and assigns the right to use, reproduce, modify, perform, display, distribute, and/or otherwise disclose to third parties any such material and you are fully responsible for any User Contributions that you submit or contribute.
 
 You represent and warrant that:
 
@@ -125,8 +133,8 @@ You represent and warrant that:
     
 * All of your User Contributions do and will comply with these Terms of Use.
     
-
-7\. **Monitoring and Enforcement; Termination**
+* **Monitoring and Enforcement; Termination**
+    
 
 We have the right to:
 
@@ -139,7 +147,8 @@ We have the right to:
 
 We do not undertake to review all material before it is posted on the Website and cannot ensure prompt removal of objectionable material after it has been posted. Accordingly, we assume no liability for any action or inaction regarding transmissions, communications or content provided by any user or third party. We have no liability or responsibility to anyone for performance or nonperformance of the activities described in this section.
 
-8\. **Content Standards**
+* **Content Standards**
+    
 
 These content standards apply to any and all User Contributions and use of Interactive Services. User Contributions must in their entirety comply with all applicable federal, state, local and international laws and regulations. Without limiting the foregoing, User Contributions must not:
 
@@ -149,7 +158,11 @@ These content standards apply to any and all User Contributions and use of Inter
     
 * Infringe any patent, trademark, trade secret, copyright or other intellectual property or other rights of any other person.
     
-* Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our [Privacy Policy](https://simplisafe.com/legal/privacy-policy).
+* Violate the legal rights (including the rights of publicity and privacy) of others or contain any material that could give rise to any civil or criminal liability under applicable laws or regulations or that otherwise may be in conflict with these Terms of Use and our
+    
+    [Privacy Policy](http://www.simplisafe.com/privacy-policy)
+    
+    .
     
 * Be likely to deceive any person.
     
@@ -163,18 +176,20 @@ These content standards apply to any and all User Contributions and use of Inter
     
 * Give the impression that they emanate from or are endorsed by us or any other person or entity, if this is not the case.
     
-
-9\. **Copyright Complaints**
+* **Copyright Complaints**
+    
 
 If you believe that any User Contributions violate your copyright, please sending us a notice of the copyright infringement in accordance with the requirements of the U.S. Digital Millennium Copyright Act of 1998. It is the policy of the Company to terminate the user accounts of repeat infringers. You may file a notification of such infringement with our Designated Agent as set forth below:
 
 * Name of Agent Designated to Receive Notification of Claimed Infringement: Attention: General Counsel/Copyright Complaints
     
-* Full Address of Designated Agent to Which Notification Should be Sent: 100 Summer Street, 3rd Floor, 02110
+* Full Address of Designated Agent to Which Notification Should be Sent: 100 Summer Street, 3rd floor, Boston MA 02110
     
 * Telephone Number of Designated Agent: 617-229-7023
     
-* E-Mail Address of Designated Agent: [copyright-complaints@simplisafe.com](mailto:copyright-complaints@simplisafe.com)
+* E-Mail Address of Designated Agent:
+    
+    [copyright-complaints@simplisafe.com](http://copyright-complaints@simplisafe.com/)
     
 
 Please see 17 U.S.C. §512(c)(3) for the requirements of a proper notification. Please note that the information provided in your notification, including any personal information contained therein, may be forwarded to the person who has provided the allegedly infringing content, and your sending us such notification constitutes your consent to share this information with the alleged infringer.
@@ -183,19 +198,22 @@ You should also note that if you make any material misrepresentation in your not
 
 We may give notice of a claim of copyright infringement to our users by means of a general notice on the Website, electronic mail to a user's email address in our records, or by written communication sent by first-class mail to a user's address in our records.
 
-10\. **No Reliance on Information Posted**
+* **No Reliance on Information Posted**
+    
 
-The information presented on or through the Website is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor to the Website, or by anyone who may be informed of any of its contents.
+The information presented on or through the Website is made available solely for general information purposes. We do not warrant the accuracy, completeness or usefulness of this information. Any reliance you place on such information is strictly at your own risk. We disclaim all liability and responsibility arising from any reliance placed on such materials by you or any other visitor to the Website, or by anyone who may be informed of any of its contents. This includes any information presented on the Website, including but not limited to information provided by a live agent, in a pre-written summary or FAQ, or any interactive automated technologies such as chat bots or AI tools. You understand your use and/or reliance on any such information should only be considered after you make a reasonable assessment of the information and is done at your own risk.
 
 The Website may include content provided by third parties, including materials provided by other users, bloggers and third-party licensors, syndicators, aggregators and/or reporting services. All statements and/or opinions expressed in these materials, and all articles and responses to questions and other content, other than the content provided by the Company, are solely the opinions and the responsibility of the person or entity providing those materials. These materials do not necessarily reflect the opinion of the Company. We are not responsible, or liable to you or any third party, for the content or accuracy of any materials provided by any third parties.
 
-11\. **Information About You and Your Visits to the Website**
+* **Information About You and Your Visits to the Website**
+    
 
-Please refer to SimpliSafe’s Privacy Policy at [www.simplisafe.com/legal](https://simplisafe.com/legal/privacy-policy) for important information about our collection, use and sharing of your personal information. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the [Privacy Policy](https://simplisafe.com/legal/privacy-policy).
+Please refer to SimpliSafe’s Privacy Policy at [www.simplisafe.com/privacy-policy](http://simplisafe.com/privacy-policy) for important information about our collection, use and sharing of your personal information. By using the Website, you consent to all actions taken by us with respect to your information in compliance with the [Privacy Policy](http://www.simplisafe.com/privacy-policy).
 
-12\. **Linking to the Website and Social Media Features**
+* **Linking to the Website and Social Media Features**
+    
 
-You may link to our homepage, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must not establish a link in such a way as to suggest any form of association, approval or endorsement on our part without our express written consent.
+You may link to our homepage, provided you do so in a way that is fair and legal and does not damage our reputation or take advantage of it, but you must **not** establish a link in such a way as to suggest any form of association, approval or endorsement on our part without our express written consent.
 
 The Website may provide certain social media features that enable you to:
 
@@ -219,51 +237,66 @@ You may use these features solely as they are provided by us solely with respect
 
 You agree to cooperate with us in causing any unauthorized framing or linking immediately to cease. We reserve the right to withdraw linking permission without notice.
 
-13\. **Links from the Website**
+* **Links from the Website**
+    
 
 If the Website contains links to other sites and resources provided by third parties, these links are provided for your convenience only. This includes links contained in advertisements, including banner advertisements and sponsored links. We have no control over the contents of those sites or resources and accept no responsibility for them or for any loss or damage that may arise from your use of them. If you decide to access any of the third-party websites linked to the Website, you do so entirely at your own risk and subject to the terms and conditions of use for such websites.
 
-14\. **Geographic Restrictions**
+* **Geographic Restrictions**
+    
 
 The owner of the Website is based in the Commonwealth of Massachusetts in the United States. We provide the Website for use only by persons located in the United States. We make no claims that the Website or any of its content is accessible or appropriate outside of the United States. Access to the Website may not be legal by certain persons or in certain countries. If you access the Website from outside the United States, you do so on your own initiative and are responsible for compliance with local laws.
 
-15\. **Disclaimer of Warranties**
+* **Disclaimer of Warranties**
+    
 
 YOUR USE OF THE WEBSITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE IS AT YOUR OWN RISK. THE WEBSITE, ITS CONTENT AND ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. WE DISCLAIM ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. YOU ARE SOLELY RESPONSIBLE FOR YOUR INTERACTIONS WITH OTHER USERS. PRODUCT REVIEWS AND COMMENTS ARE STRICTLY THE OPINION OF THE USER POSTING SUCH REVIEWS OR COMMENTS, AND THE COMPANY DOES NOT ENDORSE OR APPROVE ANY SUCH REVIEWS OR COMMENTS. NEITHER THE COMPANY NOR ANY PERSON ASSOCIATED WITH THE COMPANY MAKES ANY WARRANTY OR REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF THE WEBSITE. WITHOUT LIMITING THE FOREGOING, NEITHER THE COMPANY NOR ANYONE ASSOCIATED WITH THE COMPANY REPRESENTS OR WARRANTS THAT THE WEBSITE, ITS CONTENT OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER THAT MAKES IT AVAILABLE ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT THE WEBSITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE WILL OTHERWISE MEET YOUR NEEDS OR EXPECTATIONS. WE ARE NOT RESPONSIBLE FOR TYPOGRAPHICAL ERRORS OR OMISSIONS RELATING TO PRICING, TEXT, OR PHOTOGRAPHY. WHILE WE ATTEMPT TO MAKE YOUR ACCESS AND USE OF THE WEBSITE SAFE, WE CANNOT AND DO NOT REPRESENT OR WARRANT THAT OUR WEBSITE OR ITS SERVER(S) ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS, THEREFORE, YOU SHOULD USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND DISINFECT VIRUSES FROM ANY DOWNLOAD.
 
 THE FOREGOING DOES NOT AFFECT ANY WARRANTIES WHICH CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.
 
-16. **Limitation on Liability**
+* **Limitation on Liability**
+    
 
 IN NO EVENT WILL THE COMPANY, ITS AFFILIATES OR THEIR LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, THE WEBSITE, ANY WEBSITES LINKED TO IT, ANY CONTENT ON THE WEBSITE OR SUCH OTHER WEBSITES OR ANY SERVICES OR ITEMS OBTAINED THROUGH THE WEBSITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE. SOME STATES DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU.
 
-17\. **Indemnification**
+* **Indemnification**
+    
 
 You agree to defend, indemnify and hold harmless the Company, its affiliates, licensors and service providers, and its and their respective officers, directors, employees, contractors, agents, licensors, suppliers, successors and assigns from and against any claims, liabilities, damages, judgments, awards, losses, costs, expenses or fees (including reasonable attorneys' fees) arising out of or relating to your violation of these Terms of Use or your use of the Website, including, but not limited to, your User Contributions, any use of the Website's content, services and products other than as expressly authorized in these Terms of Use or your use of any information obtained from the Website. THE FOREGOING INDEMNIFICATION OBLIGATIONS MAY NOT BE ENFORCEABLE IN SOME STATES, SO SUCH OBLIGATIONS MAY NOT APPLY TO YOU.
 
-18\. **Governing Law and Jurisdiction**
+* **Governing Law and Jurisdiction**
+    
 
-This Agreement shall be governed by and construed according to the laws of the Commonwealth of Massachusetts without reference to its conflicts of law rules. The interpretation of this Agreement shall not be construed against the drafter. You agree that any action at law or in equity arising out of or relating to these Website Terms of Use shall be filed only in the state and federal courts located in Boston, Massachusetts and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action, or proceeding arising out of these Website Terms of Use. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF YOU OR WE WANT TO ASSERT A DISPUTE AGAINST THE OTHER, THEN YOU OR WE MUST COMMENCE IT (BY DELIVERY OF WRITTEN NOTICE AS SET FORTH IN SECTION 21 WITHIN 1 YEAR AFTER THE DISPUTE ARISES -- OR IT WILL BE FOREVER BARRED. DISPUTES AND CLAIMS ARISING UNDER THE [TERMS OF SERVICE](https://simplisafe.com/legal/terms-of-service) AND [TERMS OF SALE](https://simplisafe.com/legal/terms-sale) SHALL BE SUBJECT TO THE CORRESPONDING DISPUTE RESOLUTION PROVISIONS SET FORTH THEREIN.
+This Agreement shall be governed by and construed according to the laws of the Commonwealth of Massachusetts without reference to its conflicts of law rules. The interpretation of this Agreement shall not be construed against the drafter. You agree that any action at law or in equity arising out of or relating to these Website Terms of Use shall be filed only in the state and federal courts located in Boston, Massachusetts and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts over any suit, action, or proceeding arising out of these Website Terms of Use. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, IF YOU OR WE WANT TO ASSERT A DISPUTE AGAINST THE OTHER, THEN YOU OR WE MUST COMMENCE IT (BY DELIVERY OF WRITTEN NOTICE AS SET FORTH IN SECTION 21) WITHIN 1 YEAR AFTER THE DISPUTE ARISES -- OR IT WILL BE FOREVER BARRED. **DISPUTES AND CLAIMS ARISING UNDER THE** [TERMS OF SERVICE](http://simplisafe.com/terms-of-service) **AND** [TERMS OF SALE](http://simplisafe.com/terms-sale) **SHALL BE SUBJECT TO THE CORRESPONDING DISPUTE RESOLUTION PROVISIONS SET FORTH THEREIN.**
 
-19\. **Waiver and Severability**
+* **Waiver and Severability**
+    
 
 No waiver of by the Company of any term or condition set forth in these Terms of Use shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under these Terms of Use shall not constitute a waiver of such right or provision. If any provision of these Terms of Use is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of the Terms of Use will continue in full force and effect.
 
-20\. **Entire Agreement**
+* **Entire Agreement**
+    
 
-The Terms of Use and our [Privacy Policy](https://simplisafe.com/legal/privacy-policy) constitute the sole and entire agreement between you and SimpliSafe with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to your use the Website.
+The Terms of Use and our [Privacy Policy](http://www.simplisafe.com/privacy-policy) constitute the sole and entire agreement between you and SimpliSafe with respect to the Website and supersede all prior and contemporaneous understandings, agreements, representations and warranties, both written and oral, with respect to your use the Website.
 
-For the avoidance of doubt, the [Terms of Service](https://simplisafe.com/legal/terms-of-service) govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](https://simplisafe.com/legal/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](https://simplisafe.com/legal/terms-of-service) or [Terms of Sale](https://simplisafe.com/legal/terms-sale) shall be superseded and governed by the [Terms of Service](https://simplisafe.com/legal/terms-of-service) or [Terms of Sale](https://simplisafe.com/legal/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising thereunder shall be subject solely to those terms and not these Terms of Use.**
+For the avoidance of doubt, the [Terms of Service](http://simplisafe.com/terms-of-service), including any related terms or policies referenced or incorporated therein, govern your use of any products or services you have selected to receive from SimpliSafe, including account information and account management; and all purchases through our Website or other transactions for the sale of products or services formed through the Website are governed by our [Terms of Sale](http://simplisafe.com/terms-sale). These Terms of Use are in addition to any such terms that may apply to you. Any conflicts between these Terms of Use and the [Terms of Service](http://simplisafe.com/terms-of-service) or [Terms of Sale](http://simplisafe.com/terms-sale) shall be superseded and governed by the [Terms of Service](http://simplisafe.com/terms-of-service) or [Terms of Sale](http://simplisafe.com/terms-sale), respectively (and solely as applicable). **Any claims and disputes arising thereunder, and not from these Terms of Use, shall be subject solely to those terms and not these Terms of Use.**
 
-21\. **Your Comments and Concerns**
+* **Your Comments and Concerns**
+    
 
-The website is operated by SimpliSafe, Inc. located at 100 Summer Street, Suite 300, Boston, MA 02110.
+The website is operated by SimpliSafe, Inc. located at 100 Summer Street, Boston, MA 02110.
 
 All written notices due or contemplated hereunder should be sent to the attention of the Legal Department as indicated below.
 
-SimpliSafe, Inc. 100 Summer Street, Suite 300, Boston, MA 02110 Re: Legal Department/Terms of Use Notice
+SimpliSafe, Inc.
 
-All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [tou@simplisafe.com](mailto:tou@simplisafe.com)
+100 Summer Street
+
+Boston, MA 02110
+
+Re: Legal Department/Terms of Use Notice
+
+All other feedback, comments, requests for technical support and other communications relating to the Website should be directed to: [tou@simplisafe.com](http://tou@simplisafe.com/)
 
 Get offers and security advice
 
