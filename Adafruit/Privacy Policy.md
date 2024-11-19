@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ If you have knowledge, let others light their candles at it”
+“ Being good in business is the most fascinating kind of art. Making money is art and working is art and good business is the best art.”
 
-[Margaret Fuller](http://en.wikipedia.org/wiki/Margaret_Fuller)
+[Andy Warhol](https://en.wikipedia.org/wiki/Andy_Warhol)
 
 [](https://www.adafruit.com/about)
 
