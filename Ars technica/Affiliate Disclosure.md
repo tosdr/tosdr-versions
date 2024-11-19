@@ -87,9 +87,9 @@ Most Read
     
     1. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
     
-2. 2. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+2. 2. [Explicit deepfake scandal shuts down Pennsylvania school](https://arstechnica.com/tech-policy/2024/11/school-failed-to-report-ai-nudes-of-kids-for-months-now-parents-are-suing/)
     
-3. 3. [Explicit deepfake scandal shuts down Pennsylvania school](https://arstechnica.com/tech-policy/2024/11/school-failed-to-report-ai-nudes-of-kids-for-months-now-parents-are-suing/)
+3. 3. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
 4. 4. [Trump’s FCC chair is Brendan Carr, who wants to regulate everyone except ISPs](https://arstechnica.com/tech-policy/2024/11/trumps-fcc-chair-is-brendan-carr-who-wants-to-regulate-everyone-except-isps/)
     
