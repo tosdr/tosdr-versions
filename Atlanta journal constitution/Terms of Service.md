@@ -16,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-why-we-moved-to-midtown/2P6ZFP3JDRH73I73Y73BOCIR7U/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [UATL](https://www.ajc.com/uatl/)
 * [High School Sports](https://www.ajc.com/sports/high-school/)
