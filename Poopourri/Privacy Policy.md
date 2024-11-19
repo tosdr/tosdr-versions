@@ -4,7 +4,7 @@
 
 ![](https://s.amazon-adsystem.com/iu3?pid=67ae216d-997c-4448-b1c3-25887206ec47&event=PageView)
 
-                  
+              
 
    [Skip to Content](#main-content) [Skip to Navigation](#masthead)
 
@@ -48,7 +48,7 @@ shop
     
     [](https://www.poopourri.com/collections/black-friday-cyber-monday-sale)
     
-    **Black Friday | Up to 60% Off!**
+    **35% off Sitewide**
     
     [](https://www.poopourri.com/collections/black-friday)
     
