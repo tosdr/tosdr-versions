@@ -141,15 +141,15 @@ Atos homepage](https://atos.net/en/)
         Press releases
         --------------
         
+        * [Salon des Maires et des collectivités 2024: Software République launches the commercialization of its “U1st Vision” concept “A first in citizen-centric mobile services with a focus on health”, with first deliveries scheduled for late 2025](https://atos.net/en/2024/press-release_2024_11_19/salon-des-maires-et-des-collectivites-2024-software-republique-launches-the-commercialization-of-its-u1st-vision-concept-a-first-in-citizen-centric-mobile-services-with-a-f)
         * [Eviden’s Supercomputers Ranked #1 and #2 for Energy Efficiency on the Green500 List](https://atos.net/en/2024/press-release_2024_11_19/evidens-supercomputers-ranked-1-and-2-for-energy-efficiency-on-the-green500-list)
         * [Eviden enables quantum emulation in high-performance computing through dedicated software](https://atos.net/en/2024/news_2024_11_18/eviden-enables-quantum-emulation-in-high-performance-computing-through-dedicated-software)
-        * [La CANUT choisit le groupement Onepoint, Atos et Eviden pour accompagner les acteurs publics dans le déploiement de l’IA](https://atos.net/en/2024/press-release_2024_11_18/la-canut-choisit-le-groupement-onepoint-atos-et-eviden-pour-accompagner-les-acteurs-publics-dans-le-deploiement-de-lia)
         
         ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         Nov 19, 2024
         
-        ### Eviden’s Supercomputers Ranked #1 and #2 for Energy Efficiency on the Green500 List
+        ### Salon des Maires et des collectivités 2024: Software République launches the commercialization of its “U1st Vision” concept “A first in citizen-centric mobile services with a focus on health”, with first deliveries scheduled for late 2025
         
     * [Atos Research Community](https://atos.net/en/atos-research-community)
         
