@@ -419,17 +419,17 @@ Please note that, in some instances, we may decline to honor your request where,
 
 ### [Grapevine police bust multimillion-dollar crime ring targeting warehouses](https://www.fox4news.com/news/grapevine-police-bust-multimillion-dollar-crime-ring-targeting-warehouses)
 
+ [![Wyoming abortion laws, including explicit ban on pills to end pregnancy, struck down by judge](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/abortion-pills-ultrasound-getty.jpg?ve=1&tl=1)
+
+ ![Wyoming abortion laws, including explicit ban on pills to end pregnancy, struck down by judge](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/abortion-pills-ultrasound-getty.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/wyoming-abortion-laws-ban-pills-end-pregnancy-struck-down)
+
+### [Wyoming abortion laws, including explicit ban on pills to end pregnancy, struck down by judge](https://www.fox4news.com/news/wyoming-abortion-laws-ban-pills-end-pregnancy-struck-down)
+
  [![Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2171836124.jpg?ve=1&tl=1)
 
  ![Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2171836124.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gabbard-nomination-russia-comments)
 
 ### [Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://www.fox4news.com/news/gabbard-nomination-russia-comments)
-
- [![Suspect in custody after allegedly kidnapping child he met on social media, police say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/utah-kidnapping.jpg?ve=1&tl=1)
-
- ![Suspect in custody after allegedly kidnapping child he met on social media, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/utah-kidnapping.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspect-custody-after-allegedly-kidnapping-child-he-met-social-media-police-say)
-
-### [Suspect in custody after allegedly kidnapping child he met on social media, police say](https://www.fox4news.com/news/suspect-custody-after-allegedly-kidnapping-child-he-met-social-media-police-say)
 
 ###### [News](https://www.fox4news.com/news)
 
