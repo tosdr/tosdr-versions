@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Ukrainian War VII: Everything has a p… (9,937)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (9,937 posts)")
-* [What is AN's Setting? (38)](https://forum.nationstates.net/viewtopic.php?t=557284&f=25&view=unread#unread ""What is AN's Setting?" (38 posts)")
-* [American Politics: Turnabout Trump (5,394)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (5,394 posts)")
-* [The NOVU Sports Blog (102)](https://forum.nationstates.net/viewtopic.php?t=552025&f=7&view=unread#unread ""The NOVU Sports Blog" (102 posts)")
-* [What is the most terrifying thing abo… (501)](https://forum.nationstates.net/viewtopic.php?t=553705&f=25&view=unread#unread ""What is the most terrifying thing about AN" (501 posts)")
+* [Commend or Condemn AN II (2,269)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,269 posts)")
+* [Ukrainian War VII: Everything has a p… (9,992)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (9,992 posts)")
+* [Grant AN's wish then curse it (1,152)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,152 posts)")
+* [The Catalyst of Crisis (OOC/Signup) (87)](https://forum.nationstates.net/viewtopic.php?t=558391&f=5&view=unread#unread ""The Catalyst of Crisis (OOC/Signup)" (87 posts)")
+* [What triggers you about the AN? (10,832)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,832 posts)")
 
 Advertisement
 
