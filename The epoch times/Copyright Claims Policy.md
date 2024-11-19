@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [In Chicago, Illegal Immigration Crisis Stokes Pushback From Locals](https://www.theepochtimes.com/article/in-chicago-illegal-immigration-crisis-stokes-pushback-from-locals-5761715)
+* [45 Hong Kong Pro-Democracy Figures Sentenced in Landmark National Security Law Case](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
     
-    NEW By [Steven Kovac](https://www.theepochtimes.com/author/steven-kovac)
+    NEW By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
-    [![In Chicago, Illegal Immigration Crisis Stokes Pushback From Locals](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![45 Hong Kong Pro-Democracy Figures Sentenced in Landmark National Security Law Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![In Chicago, Illegal Immigration Crisis Stokes Pushback From Locals](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761817-3-205x123.jpg.webp)](https://www.theepochtimes.com/article/in-chicago-illegal-immigration-crisis-stokes-pushback-from-locals-5761715)
-* [IRS Announces Lower Interest Rates for 1st Quarter of 2025](https://www.theepochtimes.com/us/irs-announces-lower-interest-rates-for-1st-quarter-of-2025-post-5761734)
+    ![45 Hong Kong Pro-Democracy Figures Sentenced in Landmark National Security Law Case](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762068-HK-court-205x123.jpg.webp)](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
+* [US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://www.theepochtimes.com/world/us-state-department-says-russia-escalated-ukraine-war-by-deploying-north-koreans-5761883)
     
-    1hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![IRS Announces Lower Interest Rates for 1st Quarter of 2025](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IRS Announces Lower Interest Rates for 1st Quarter of 2025](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761922-08122024-DSC06641-IRS-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/irs-announces-lower-interest-rates-for-1st-quarter-of-2025-post-5761734)
-* [Big Jump in Homebuilder Sales Expectations on Hopes of New Regulatory Relief: NAHB](https://www.theepochtimes.com/us/big-jump-in-homebuilder-sales-expectations-on-hopes-of-new-regulatory-relief-nahb-5761706)
+    ![US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690856-07242023-DSC03117-Matthew-Miller-OP-1-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-state-department-says-russia-escalated-ukraine-war-by-deploying-north-koreans-5761883)
+* [Former Maryland Governor Is First to Announce Bid for DNC Chair](https://www.theepochtimes.com/us/former-maryland-governor-is-first-to-announce-bid-for-dnc-chair-5761872)
     
-    2hr By [Tom Ozimek](https://www.theepochtimes.com/author/tom-ozimek)
+    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Big Jump in Homebuilder Sales Expectations on Hopes of New Regulatory Relief: NAHB](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Former Maryland Governor Is First to Announce Bid for DNC Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Big Jump in Homebuilder Sales Expectations on Hopes of New Regulatory Relief: NAHB](https://img.theepochtimes.com/assets/uploads/2024/04/30/id5640657-AP24101728242371-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/big-jump-in-homebuilder-sales-expectations-on-hopes-of-new-regulatory-relief-nahb-5761706)
-* [5 Things to Know About Chris Wright, Trump’s Energy Nominee](https://www.theepochtimes.com/us/5-things-to-know-about-chris-wright-trumps-energy-nominee-5761408)
+    ![Former Maryland Governor Is First to Announce Bid for DNC Chair](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762052-Martin-OMalley-GettyImages-2170643456-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-maryland-governor-is-first-to-announce-bid-for-dnc-chair-5761872)
+* [Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://www.theepochtimes.com/article/day-in-photos-launch-of-g20-senate-in-session-and-olive-pressing-5761558)
     
-    2hr By [Joseph Lord](https://www.theepochtimes.com/author/joseph-lord)
+    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
-    [![5 Things to Know About Chris Wright, Trump’s Energy Nominee](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Things to Know About Chris Wright, Trump’s Energy Nominee](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761156-Chris-Wright-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/5-things-to-know-about-chris-wright-trumps-energy-nominee-5761408)
-* [DeSantis Says Decision on Rubio Senate Replacement Will Likely Be Made at Start of January](https://www.theepochtimes.com/us/desantis-says-decision-on-rubio-senate-replacement-will-likely-be-made-at-start-of-january-5761674)
+    ![Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761917-GettyImages-2184796784-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-launch-of-g20-senate-in-session-and-olive-pressing-5761558)
+* [Meet the Top 4 Contenders for Treasury Secretary](https://www.theepochtimes.com/us/meet-the-top-4-contenders-for-treasury-secretary-5761741)
     
-    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![DeSantis Says Decision on Rubio Senate Replacement Will Likely Be Made at Start of January](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Meet the Top 4 Contenders for Treasury Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![DeSantis Says Decision on Rubio Senate Replacement Will Likely Be Made at Start of January](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761871-DeSantis-GettyImages-2023487429-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/desantis-says-decision-on-rubio-senate-replacement-will-likely-be-made-at-start-of-january-5761674)
-* [US Existing Home Sales Sees Largest Monthly Gain in Nearly 3 Years](https://www.theepochtimes.com/real-estate/us-existing-home-sales-sees-largest-monthly-gain-in-nearly-3-years-5761593)
-    
-    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
-    
-    [![US Existing Home Sales Sees Largest Monthly Gain in Nearly 3 Years](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US Existing Home Sales Sees Largest Monthly Gain in Nearly 3 Years](https://img.theepochtimes.com/assets/uploads/2024/06/04/id5662475-1-GettyImages-1243437601-ed-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-existing-home-sales-sees-largest-monthly-gain-in-nearly-3-years-5761593)
-* [Biden Asks Congress to Approve $100 Billion Supplemental for Disaster Relief](https://www.theepochtimes.com/us/biden-urges-congress-to-approve-100-billion-supplemental-for-disaster-relief-5761720)
+    ![Meet the Top 4 Contenders for Treasury Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761947-Scott-Bessent-Howard-Lutnick-Kevin-Warsh-Marc-Rowan-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/meet-the-top-4-contenders-for-treasury-secretary-5761741)
+* [Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://www.theepochtimes.com/us/biden-attends-1st-day-of-his-final-g20-summit-amid-tense-u-s-russia-relations-5761925)
     
     4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
-    [![Biden Asks Congress to Approve $100 Billion Supplemental for Disaster Relief](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Asks Congress to Approve $100 Billion Supplemental for Disaster Relief](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761870-11072024-DSC08532-Joe-Biden-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-congress-to-approve-100-billion-supplemental-for-disaster-relief-5761720)
-* [IDF Says It Killed Hezbollah Spokesperson in Beirut Airstrike](https://www.theepochtimes.com/world/idf-says-it-killed-hezbollah-spokesperson-in-beirut-airstrike-5761422)
+    ![Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762050-Biden-at-G20-in-BrazilKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-attends-1st-day-of-his-final-g20-summit-amid-tense-u-s-russia-relations-5761925)
+* [Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://www.theepochtimes.com/us/trump-selects-former-rep-sean-duffy-for-transportation-secretary-5761999)
     
-    4hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    4hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
-    [![IDF Says It Killed Hezbollah Spokesperson in Beirut Airstrike](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![IDF Says It Killed Hezbollah Spokesperson in Beirut Airstrike](https://img.theepochtimes.com/assets/uploads/2024/11/13/id5759310-GettyImages-2183866152-OP-205x123.jpg.webp)](https://www.theepochtimes.com/world/idf-says-it-killed-hezbollah-spokesperson-in-beirut-airstrike-5761422)
-* [How the US Will Confront the CCP Under Trump’s Second Term](https://www.theepochtimes.com/article/under-trump-2-0-us-is-expected-to-deepen-its-confrontation-of-the-ccp-threat-5760615)
+    ![Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5762025-Sean-Duffy-GettyImages-1052999718-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-former-rep-sean-duffy-for-transportation-secretary-5761999)
+* [Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://www.theepochtimes.com/us/court-dismisses-californias-lawsuit-against-citys-voter-id-law-5761887)
     
-    4hr By [Terri Wu](https://www.theepochtimes.com/author/terri-wu)
+    5hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
-    [![How the US Will Confront the CCP Under Trump’s Second Term](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![How the US Will Confront the CCP Under Trump’s Second Term](https://img.theepochtimes.com/assets/uploads/2024/11/17/id5761405-outside3-205x123.jpg.webp)](https://www.theepochtimes.com/article/under-trump-2-0-us-is-expected-to-deepen-its-confrontation-of-the-ccp-threat-5760615)
-* [5 Things to Know About the G20 Summit as World Leaders Gather in Rio de Janeiro](https://www.theepochtimes.com/world/5-things-to-know-about-the-g20-summit-as-world-leaders-gather-in-rio-de-janeiro-5761537)
+    ![Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755541-California-Voters-2KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-dismisses-californias-lawsuit-against-citys-voter-id-law-5761887)
+* [Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://www.theepochtimes.com/us/pennsylvania-supreme-court-orders-counties-not-to-count-undated-ballots-5761847)
     
-    4hr By [Emmanuele Khouri](https://www.theepochtimes.com/author/emmanuele-khouri) and [Marcos Schotgues](https://www.theepochtimes.com/author/marcos-schotgues)
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
-    [![5 Things to Know About the G20 Summit as World Leaders Gather in Rio de Janeiro](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![5 Things to Know About the G20 Summit as World Leaders Gather in Rio de Janeiro](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761760-G20-Rio2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/5-things-to-know-about-the-g20-summit-as-world-leaders-gather-in-rio-de-janeiro-5761537)
+    ![Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755264-GettyImages-2182503287-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-orders-counties-not-to-count-undated-ballots-5761847)
+* [Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://www.theepochtimes.com/us/georgia-appeals-court-cancels-oral-argument-over-fani-willis-disqualification-5761940)
+    
+    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    
+    [![Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750488-GettyImages-1615613101-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-appeals-court-cancels-oral-argument-over-fani-willis-disqualification-5761940)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
