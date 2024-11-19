@@ -362,15 +362,9 @@ United States
 * [![US](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/us.svg)
     
     United States](#)
-* [![GB](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/gb.svg)
-    
-    United Kingdom](#)
 * [![SG](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/sg.svg)
     
     Singapore](#)
-* [![NZ](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/nz.svg)
-    
-    New Zealand](#)
 * [![JP](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/jp.svg)
     
     Japan / 日本](#)
@@ -953,9 +947,6 @@ United States
 * [![ZW](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/zw.svg)
     
     Zimbabwe](#)
-* [![AU](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/au.svg)
-    
-    Australia](#)
 * [![HK](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/hk.svg)
     
     Hong Kong SAR / 香港特別行政區](#)
@@ -1070,6 +1061,15 @@ United States
 * [![CA](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/ca.svg)
     
     Canada](#)
+* [![GB](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/gb.svg)
+    
+    United Kingdom](#)
+* [![NZ](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/nz.svg)
+    
+    New Zealand](#)
+* [![AU](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/au.svg)
+    
+    Australia](#)
 
 English
 
@@ -1090,15 +1090,9 @@ United States (USD $)
 * [![US](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/us.svg)
     
     United States (USD $)](#)
-* [![GB](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/gb.svg)
-    
-    United Kingdom (GBP £)](#)
 * [![SG](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/sg.svg)
     
     Singapore (SGD $)](#)
-* [![NZ](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/nz.svg)
-    
-    New Zealand (NZD $)](#)
 * [![JP](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/jp.svg)
     
     Japan / 日本 (JPY ¥)](#)
@@ -1681,9 +1675,6 @@ United States (USD $)
 * [![ZW](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/zw.svg)
     
     Zimbabwe (USD $)](#)
-* [![AU](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/au.svg)
-    
-    Australia (AUD $)](#)
 * [![HK](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/hk.svg)
     
     Hong Kong SAR / 香港特別行政區 (HKD $)](#)
@@ -1798,6 +1789,15 @@ United States (USD $)
 * [![CA](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/ca.svg)
     
     Canada (CAD $)](#)
+* [![GB](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/gb.svg)
+    
+    United Kingdom (GBP £)](#)
+* [![NZ](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/nz.svg)
+    
+    New Zealand (NZD $)](#)
+* [![AU](https://cdn.shopify.com/extensions/a0796722-b177-4eba-b419-1abe0dd13a4c/geolocation-orbe-251/assets/au.svg)
+    
+    Australia (AUD $)](#)
 
 Shop now
 
