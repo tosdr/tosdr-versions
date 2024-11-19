@@ -258,9 +258,9 @@ If you have any questions or concerns regarding the Privacy Policy Agreement rel
 
 The Atlas Society 
 
-22001 Northpark Dr Ste 250
+1308 Miwok Dr,
 
-Kingwood Texas 77339
+Lodi, CA 95240
 
 **‍**
 
@@ -270,7 +270,9 @@ Carly Gino
 
 [cgino@atlassociety.org](mailto:cgino@atlassociety.org) 833.296.7263
 
-22001 Northpark Drive Ste 250, Kingwood TX 77339
+1308 Miwok Dr,
+
+Lodi, CA 95240
 
 ![The Atlas Society](https://cdn.prod.website-files.com/5e9494215713f67c21b33cab/5ea1ba1c06d5f8f5a227235b_atlas.png)
 
