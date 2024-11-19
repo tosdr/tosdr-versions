@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 #### S'informer
 
@@ -201,9 +201,9 @@ SRG SSR Société suisse de radiodiffusion et télévision
 
 En sa qualité d’unité d’entreprise de la Société suisse de radiodiffusion et télévision (SRG SSR), la RTS s’engage à protéger votre vie privée.
 
-Afin que vous puissiez utiliser nos offres en ligne en toute sécurité, la Déclaration de protection des données établie par la SSR vous informe sur le traitement de vos données personnelles : https://www.srgssr.ch/fr/protection-des-donnees
+Afin que vous puissiez utiliser nos offres en ligne en toute sécurité, la Déclaration de protection des données établie par la SSR vous informe sur le traitement de vos données personnelles : [https://www.srgssr.ch/fr/protection-des-donnees](https://www.srgssr.ch/fr/protection-des-donnees)
 
-Si vous souhaitez obtenir des renseignements ou si vous avez des questions au sujet de la protection des données, vous pouvez nous écrire à l’adresse protectiondesdonnees@rts.ch. Vous pouvez également nous contacter aux coordonnées indiquées ci-dessous. Nous serons heureux de vous répondre.
+Si vous souhaitez obtenir des renseignements ou si vous avez des questions au sujet de la protection des données, vous pouvez nous écrire à l’adresse [protectiondesdonnees@rts.ch](mailto:protectiondesdonnees@rts.ch). Vous pouvez également nous contacter aux coordonnées indiquées ci-dessous. Nous serons heureux de vous répondre.
 
 RTS Radio Télévision Suisse
 
