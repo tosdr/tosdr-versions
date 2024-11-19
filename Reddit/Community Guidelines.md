@@ -38,7 +38,7 @@ This is a search field with an auto-suggest feature attached.
 ![Reddit Content Policy](https://redditinc.com/hubfs/Reddit%20Inc/About/Redditinc_Logo_About%20Page@2x.png "Reddit Content Policy")
 
 Reddit Content Policy
-=====================
+---------------------
 
 * [English](https://www.redditinc.com/policies/content-policy?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
