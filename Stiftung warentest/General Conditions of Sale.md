@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Resistente Stärke: Die Extra-Power aus Kartoffeln](https://www.test.de/Resistente-Staerke-Die-Extra-Power-aus-Kartoffeln-6123567-0/ "Resistente Stärke - Die Extra-Power aus Kartoffeln")
-* [Bisphenole: Schad­stoffe in Unter­wäsche](https://www.test.de/Bisphenole-in-Unterwaesche-6163207-0/ "Bisphenole - Schadstoffe in Unterwäsche")
-* [BPA in Konserven: Die Dose hat ein Problem](https://www.test.de/BPA-in-Konserven-Die-Dose-hat-ein-Problem-6110181-0/ "BPA in Konserven - Die Dose hat ein Problem")
-* [E-Growing: Firmen von Juicyfields insolvent](https://www.test.de/E-Growing-Firmen-von-Juicyfields-insolvent-5963963-0/ "E-Growing - Firmen von Juicyfields insolvent")
-* [Repair-Shampoos im Test: Welches hilft gestresstem Haar?](https://www.test.de/Repair-Shampoos-im-Test-6017199-0/ "Repair-Shampoos im Test - Welches hilft gestresstem Haar?")
-* [Linsen- und Kicher­erbsen-Chips im Test: Leichte Konkurrenz für Kartoffel­chips](https://www.test.de/Linsen-und-Kicherbsen-Chips-im-Test-5959980-0/ "Linsen- und Kichererbsen-Chips im Test - Leichte Konkurrenz für Kartoffelchips")
+* [Stürze im Alter: Sorge vor Stürzen in Griff bekommen](https://www.test.de/Stuerze-im-Alter-Sorge-vor-Stuerzen-in-Griff-bekommen-6104640-0/ "Stürze im Alter - Sorge vor Stürzen in Griff bekommen")
+* [Druckertinte im Abo: Wann sich ein Tinten-Abo lohnt](https://www.test.de/Druckertinte-im-Abo-Wann-sich-ein-Tinten-Abo-lohnt-5971943-0/ "Druckertinte im Abo - Wann sich ein Tinten-Abo lohnt")
+* [Verpackungs­ärger: Alterra Slee­ping Cream](https://www.test.de/Verpackungsaerger-Alterra-Sleeping-Cream-6095379-0/ "Verpackungsärger - Alterra Sleeping Cream")
+* [Instabile Intel CPUs: Was Betroffene tun können](https://www.test.de/Instabile-Intel-CPUs-Was-Betroffene-tun-koennen-6147165-0/ "Instabile Intel CPUs - Was Betroffene tun können")
+* [Akne­mittel mit Isotretinoin: Wirk­sam, aber nichts für Schwangere](https://www.test.de/Aknemittel-mit-Isotretinoin-Wirksam-aber-nichts-fuer-Schwangere-6117944-0/ "Aknemittel mit Isotretinoin - Wirksam, aber nichts für Schwangere")
+* [Katze und Hund aus dem Tierheim: Was bei einer Tier­adoption zu beachten ist](https://www.test.de/Tiere-aus-dem-Tierheim-Was-bei-einer-Tieradoption-zu-beachten-ist-6112442-0/ "Katze und Hund aus dem Tierheim - Was bei einer Tieradoption zu beachten ist")
 
 Service Stiftung Warentest
 
