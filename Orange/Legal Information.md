@@ -210,7 +210,8 @@ This Privacy Notice is subject to change. 
 
 [How Orange commits to personal data protection and information security](https://www.orange.com/en/safer-digital-world/how-orange-commits-personal-data-protection-and-information-security)
 
-### Follow us
+Follow us
+---------
 
 * [LinkedIn](https://www.linkedin.com/company/1110)
 * [Facebook](https://www.facebook.com/Orange/)
@@ -218,7 +219,8 @@ This Privacy Notice is subject to change. 
 * [Twitter](https://www.twitter.com/orange/)
 * [TikTok](https://www.tiktok.com/@orange)
 
-### About Orange About Orange
+About Orange About Orange
+-------------------------
 
 * [Podcasts](https://www.orange.com/en/all-orange-podcasts)
 * [Networks documentation](https://gallery.orange.com/reseaux#lang=en)
@@ -227,7 +229,8 @@ This Privacy Notice is subject to change. 
 * [CSR Media library](https://gallery.orange.com/rse#lang=en&v=root)
 * [Non-financial reporting](https://www.orange.com/en/non-financial-reporting)
 
-### Other links Other links
+Other links Other links
+-----------------------
 
 * [Jobs search](https://orange.jobs/site/fr-home/?utm_source=Ocomfr&utm_medium=link&utm_campaign=OrangeCom)
 * [Radio Waves](https://radio-waves.orange.com/en/)
