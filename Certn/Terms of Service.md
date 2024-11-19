@@ -102,6 +102,7 @@ Error
 * [Applicant Terms of Use](#contract-skxc4ktljx)
 * [mg - la - con-648](#contract-xmifpf3vk)
 * [Income Verification Terms of Use](#contract-sjctngdzke)
+* [Conditions D'Utilisation Du Demandeur](#contract-hk1b1gfm1g)
 
 Test Contract 2
 ---------------
@@ -6125,6 +6126,181 @@ These terms of use are subject to change from time to time. Certn will notify yo
 You consent to receive any agreements, notices, disclosures and other communications (collectively, “**Notices**”) to which these Terms refer electronically including without limitation by e-mail or by posting notices with the Services. You agree that all Notices provided electronically satisfy any legal requirement that such communications be in writing.
 
 If you have any questions about these Terms, you can contact customer support via email at [support@certn.co](mailto:support@certn.co).
+
+Conditions D'Utilisation Du Demandeur
+-------------------------------------
+
+### Version 1.1
+
+##### Effective November 18th 2024
+
+[Download](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/versions/673baf894ceb6389773b654f.pdf)
+
+* * *
+
+### Table of Contents
+
+* * *
+
+**CONDITIONS D’UTILISATION DU** **DEMANDEUR**
+
+Certn recueille et traite des renseignements, y compris des données personnelles, dans le but de fournir des services de vérification et de validation des antécédents (les « **Services** »). En accédant aux Services et en les utilisant, vous acceptez d’être lié par les conditions générales suivantes (les « **Conditions »).** Avant de continuer, veuillez lire attentivement les conditions ci-dessous.
+
+**License.**
+
+Certn vous accorde une licence pour utiliser l’application Web ou mobile (l’« **Application** »), ainsi que toute mise à jour, documentation et services connexes.
+
+**Votre compte.**
+
+Pour accéder à l’application, créez un compte avec votre nom, votre adresse de courriel et votre mot de passe, ou utilisez une connexion à identification unique (IU). Vous acceptez de fournir des renseignements exacts, à jour et complets pendant le processus d’inscription, et de mettre à jour ces renseignements au besoin pour les garder exacts, à jour et complets. Certn ne sera pas responsable des inexactitudes ou de décisions de tiers résultant de renseignements incorrects ou incomplets que vous avez soumis.
+
+Vous êtes responsable du maintien de la confidentialité de votre compte, de votre nom d’utilisateur et de votre mot de passe ainsi que de la restriction de l’accès non autorisé à ceux-ci. Vous acceptez d’assumer la responsabilité de toutes les activités qui se produisent avec votre permission ou votre autorisation en vertu de votre compte. Vous acceptez d’aviser immédiatement Certn de toute utilisation non autorisée de votre compte ou de votre mot de passe, ou de toute autre violation de la sécurité.
+
+Les renseignements personnels recueillis par l’entremise de l’Application seront utilisés exclusivement aux fins de fournir les Services. Certn ne divulguera pas ces renseignements à des tiers sans votre consentement explicite, sauf si la loi l’exige.
+
+**Accès au tableau de bord**.
+
+Certn vous fournira un tableau de bord qui contient, entre autres, des demandes d’information, des tâches à effectuer et un répertoire de vérification et de validation des antécédents terminés, y compris les données d’authentification vérifiables, telles que définis ci-dessous (les « **Résultats** »). Certn ne fournit pas, et ne peut pas fournir de conseils juridiques ou d’autres services connexes. Certn ne garantit pas non plus qu’un tiers avec lequel vous consentez à partager vos Résultats se conformera aux lois, aux règles, aux réglementations et aux exigences locales, provinciales, étatiques ou fédérales en vigueur (les « **Lois en vigueur** ») dans leur collecte ou leur utilisation de ces Résultats.
+
+**Identifications vérifiables.**
+
+Si vous utilisez la fonctionnalité de portefeuille de l’Application (disponible uniquement sur l’application mobile) (le « **MyCertn Wallet (Portefeuille MyCertn)** ») pour stocker, partager et vérifier les références personnelles (les « **références vérifiables** »), les conditions suivantes s’appliquent :
+
+* Certn ne sera pas responsable de toute communication ou relation entre vous et tout utilisateur final avec lequel vous choisissez de partager vos renseignements personnels.
+* Vous pouvez partager des données d’authentification vérifiables avec des tiers à tout moment et aussi longtemps que vous le souhaitez.
+* Il est de votre responsabilité de vous assurer que vous êtes à l’aise avec la politique de protection de la vie privée de tout tiers avec lequel vous partagez vos informations personnelles, et de demander et de consulter cette politique.
+* Certn et les émetteurs tiers fournissant des données d’authentification vérifiables au portefeuille MyCertn ne garantissent pas que les Services seront exempts d’erreurs, complets ou exacts en tout temps.
+* Certn ne fait aucune déclaration, garantie ou assurance concernant la pertinence du portefeuille MyCertn ou de ses services à un usage particulier.
+* Certn ne garantit pas que le portefeuille MyCertn, votre utilisation de celui-ci ou les services fournis par son intermédiaire respecteront ou vous aideront à respecter toute loi ou réglementation en vigueur.
+* Vous pouvez télécharger le portefeuille MyCertn sur votre appareil pour un usage personnel seulement.
+* Vous ne pouvez pas transférer le portefeuille MyCertn ou l’accès aux services à d’autres, sauf indication contraire dans la présente entente.
+* Vous pouvez retirer votre consentement à partager vos données d’authentification vérifiables à tout moment. Toutefois, si vous partagez vos données d’authentification vérifiables avec un tiers, vous reconnaissez qu’il peut conserver et utiliser les renseignements comme l’exige la loi.
+* Certn n’est pas responsable de la vérification du tiers; nous recommandons donc de ne partager des données d’authentification vérifiables qu’avec des personnes et des organisations de confiance.
+
+**Exigences relatives à l’appareil.**
+
+En utilisant l’application mobile, y compris le portefeuille MyCertn, le cas échéant, vous nous autorisez à recueillir et à utiliser des renseignements techniques sur votre appareil et les logiciels, le matériel et les périphériques connexes, pour améliorer nos produits et vous fournir les services.
+
+L’utilisation de l’application, y compris le portefeuille MyCertn, le cas échéant, peut nécessiter que votre appareil réponde aux exigences minimales de fonctionnement, notamment en ce qui concerne la mémoire ou les systèmes d’exploitation. Nous vous informerons de toute exigence système minimale de temps à autre. Si vous ne répondez pas aux spécifications minimales détaillées pour l’Application, vous pourriez éprouver une utilisation limitée ou ne pas être en mesure d’utiliser ou d’accéder entièrement au portefeuille ou aux services MyCertn.
+
+**Mise à jour de l’application et des services.**
+
+De temps à autre, nous pouvons mettre à jour automatiquement l’Application et réviser les Services pour rehausser la performance, améliorer les fonctionnalités, refléter les changements apportés au système d’exploitation ou résoudre des problèmes de sécurité (les « **Mises à jour** »). Nous pouvons également vous demander de mettre à jour l’Application pour ces raisons. Les mises à jour peuvent modifier ou supprimer certaines caractéristiques ou fonctionnalités. Vous convenez que Certn n’a aucune obligation (i) de fournir des Mises à jour, ou (ii) de continuer à fournir ou à activer des caractéristiques et/ou fonctionnalités particulières de l’Application.
+
+Si vous vous désabonnez des mises à jour automatiques, vous pourriez ne pas être en mesure de continuer à utiliser l’Application ou les Services.
+
+Nous ne sommes pas responsables des autres sites Web ou contenus. L’Application peut contenir des liens vers d’autres sites Web indépendants et afficher, inclure ou rendre disponible du contenu tiers (y compris des données, des informations, des applications et d’autres services de produits) ou fournir des liens vers des sites Web ou des services tiers (les « **Services tiers** ») qui ne sont pas fournis par Certn. Ces Services tiers ne sont pas sous le contrôle de Certn, et nous ne sommes pas responsables de leur contenu ou de leurs politiques de confidentialité (le cas échéant) et nous n’avons pas vérifié et approuvé leur contenu ou leurs politiques de confidentialité.
+
+Nonobstant toute disposition contraire dans les présentes Conditions, vous reconnaissez et acceptez que : (a) vous accédez aux Services de tiers ou les déployez par l’entremise de l’Application à votre seule discrétion; (b) vous devez lire les conditions générales et les politiques de confidentialité associées aux Services de tiers qui régissent votre utilisation de ces Services de tiers; et (c) Certn ne possède pas ou ne contrôle pas les Services de tiers.
+
+Certn ne garantit en aucun cas l’exactitude, la fiabilité, la sécurité, l’exhaustivité, l’utilité, le respect du droit d’auteur ou la qualité de tout Service tiers. Vous convenez que vous assumez tous les risques associés à l’utilisation ou à l’utilisation de services de tiers.
+
+**Utilisation de nos Services.**
+
+En utilisant les Services et l’Application, vous acceptez et confirmez que :
+
+* Vous utiliserez les Services et l’Application conformément aux Conditions et à toutes les Lois en vigueur.
+* Vous avez l’âge légal dans votre juridiction.
+* Vous avez le droit de fournir les renseignements soumis à Certn.
+* Les renseignements fournis sont véridiques, exacts et non trompeurs.
+* Vous êtes la personne concernée par les informations.
+* Les renseignements ne violent aucune obligation ou aucun droit juridique de tiers, y compris les droits de propriété intellectuelle ou de confidentialité.
+
+**Votre vie privée.**
+
+Conformément à la législation en vigueur en matière de protection des données, nous sommes tenus de vous fournir certains renseignements sur qui nous sommes, comment nous traitons vos renseignements personnels et à quelles fins, et sur vos droits en ce qui concerne vos renseignements personnels et comment les exercer. Ces renseignements sont fournis dans la [Politique de confidentialité](https://vault.pactsafe.io/s/5d800911-f26c-4e3a-884d-85117a81799b/legal.html?g=37964#contract-bylz4uhm3) de Certn, à moins que vous utilisiez un Service spécifique auquel une politique de confidentialité différente s’applique, que nous mettrons à votre disposition.
+
+En fournissant vos renseignements personnels, vous consentez à ce que Certn partage ces renseignements avec les fournisseurs de services tiers nécessaires pour répondre à votre demande de prestation des Services. Ces tiers ont le droit de se fier à ce consentement pour recueillir des renseignements à votre sujet, uniquement dans le but de fournir les Services.
+
+Dans l’éventualité où Certn ou un tiers cesse d’exploiter ou cesse autrement de vous rendre les Services, vos renseignements personnels seront supprimés de nos systèmes, sur préavis, à vous et à tout tiers avec lequel vous avez partagé vos renseignements, conformément à la législation en vigueur en matière de protection des données.
+
+Vos renseignements, qui peuvent inclure des renseignements personnels, des renseignements financiers, des identifiants de connexion, des données de communication et des données personnelles sensibles que nous détenons sur nos serveurs, sont chiffrés au repos à l’aide de l’algorithme de chiffrement AES-256 standard du secteur et chiffrés durant leur transfert à l’aide de TLS 1.2 au minimum. Nous conservons vos renseignements aussi longtemps qu’il est nécessaire seulement, conformément aux lois et aux règlements en vigueur.
+
+**Accès aux Résultats.**
+
+Certn vous fournira des Résultats ainsi que des mises à jour sur l’état des Résultats par le biais de l’Application . Les Résultats fournis seront basés sur les informations fournies à Certn par des sources tierces, et Certn ne peut garantir l’exactitude, l’exhaustivité ou l’actualité des informations contenues dans les résultats. Vous reconnaissez et acceptez que Certn n’est pas responsable des erreurs, des omissions ou des inexactitudes dans les Résultats.
+
+**Litiges, corrections, suppressions.**
+
+Si vous souhaitez contester des Résultats ou corriger des inexactitudes associées à vos renseignements personnels, vous pouvez le faire dans l’application. Vous pouvez également demander l’accès à toute information ou la suppression de toute information qui a déjà été fournie ou partagée par Certn.
+
+**Restrictions.**
+
+Vous acceptez de ne pas accéder à l’Application ou de ne pas l’utiliser à des fins illégales ou à des fins autres que celles pour laquelle Certn la rend disponible.
+
+Vous reconnaissez expressément que vous ne devez pas :
+
+* Fournir ou transmettre des données illégales, nuisibles, menaçantes, insultantes, dérangeantes, préjudiciables, obscènes, diffamatoires, inacceptables d’un point de vue racial ou ethnique.
+* Enfreindre l’un des droits de propriété intellectuelle de Certn.
+* Recueillir ou divulguer illégalement des renseignements sur d’autres personnes par l’entremise de l’Application.
+* Utiliser toute information obtenue de l’Application afin de harceler, d’abuser ou de nuire à une autre personne.
+* Tenter d’usurper l’identité d’un autre utilisateur ou d’une autre personne ou d’utiliser le nom d’utilisateur d’un autre utilisateur.
+* Transmettre des logiciels malveillants ou tout programme conçu pour perturber l’Application ou les systèmes de Certn.
+* Utiliser à mauvais escient les services de soutien de Certn ou soumettre de fausses demandes ou commandes de vérification des antécédents.
+* Démonter, décompiler ou désosser une partie de l’Application ou tenter autrement de dégager un code source ou des idées ou algorithmes sous-jacents de toute partie de l’Application ou des Services ou de créer des œuvres dérivées basées sur celle-ci.
+* Utiliser ou tenter d’utiliser l’application à des fins non autorisées.
+* Utiliser l’Application au profit d’un tiers sans l’autorisation écrite préalable de Certn.
+* Modifier, supprimer ou masquer tout droit d’auteur, marque de commerce, brevet ou autre avis ou légende qui apparaissent sur l’Application.
+* Créer une responsabilité pour Certn ou ses fournisseurs de services ou faire en sorte que Certn perde les services de nos fournisseurs de services.
+* Louer, céder sous bail, concéder en sous-licence ou rendre l’Application ou les Services disponibles à d’autres sans le consentement écrit préalable de Certn.
+
+**Propriété intellectuelle.**
+
+Tous les Droits de propriété intellectuelle (tels que définis ci-dessous) liés à l’Application et aux Services seront la propriété de Certn de manière absolue et dans leur intégralité. Ces droits comprennent les droits à la base de données, brevets, droits d’auteur, marques de commerce (qu’elles soient enregistrées ou non), secrets commerciaux, droits sur la conception (enregistrés ou non); savoir-faire, dessins préliminaires, droits moraux et tout droit similaire qui peuvent exister actuellement ou dans le futur dans n’importe quelle juridiction, y compris, mais sans s’y limiter, toute demande et tout enregistrement pour ce qui précède, ainsi que le nom Certn, les logos, les dessins, les noms de domaine, les graphiques, les icônes, le langage de programmation, les marques de service, les caractéristiques, les fonctions, les textes, les icônes de boutons, les images, les logiciels, les compilations de données et les autres caractéristiques distinctives de la marque, ainsi que la compilation et l’organisation de ces éléments. (« **Droits de propriété intellectuelle** »).
+
+Sous réserve des présentes Conditions, Certn vous accorde une licence mondiale, limitée, révocable et non exclusive pour accéder et utiliser l’Application et les Services tels qu’ils vous sont fournis par Certn pour votre usage personnel et non commercial uniquement. La licence est non transférable et non cessible, et vous ne devez pas accorder à un tiers un droit, une permission, une licence ou une sous-licence concernant l’un des droits accordés en vertu des présentes sans l’autorisation écrite préalable de Certn, qu’elle peut refuser à sa seule discrétion. Vous n’acquérez aucun droit de propriété ou autre droit de propriété intellectuelle sur l’Application ou les Services au-delà de ce droit d’utilisation limité. La violation de toute disposition de cette licence peut entraîner la résiliation immédiate de la licence, à la seule discrétion de Certn.
+
+**Responsabilités.**
+
+L’Application et les Services ne sont pas destinés à fournir des conseils juridiques, fiscaux ou financiers. Les Services, ou certaines parties et/ou fonctionnalités de ceux-ci, sont fournis avec la compréhension que ni nous ni nos tiers ne sommes engagés dans la prestation de services comptables, d’investissement, fiscaux, juridiques ou autres services professionnels. Certn décline spécifiquement toute responsabilité, perte ou risque qui est encouru en conséquence, directement ou indirectement, de l’utilisation et de l’application de tout contenu sur l’Application. De plus, nous et nos fournisseurs de services tiers ne sommes pas responsables des décisions de crédit, d’assurance, d’emploi ou d’investissement ou de tout dommage ou autre perte résultant de décisions qui découlent de l’utilisation des Services ou de tout matériel ou information accessible par son intermédiaire. Le rendement passé ne garantit pas les résultats futurs.
+
+VOUS CONVENEZ QUE VOTRE UTILISATION DES SERVICES ET DE TOUS LES RENSEIGNEMENTS ET CONTENUS (Y COMPRIS CEUX DE TIERS) EST À VOS RISQUES ET EST FOURNIE « TELLE QUELLE » ET « SELON LA DISPONIBILITÉ ». NOUS, ET NOS FOURNISSEURS TIERS, DÉCLINONS TOUTE GARANTIE DE QUELQUE NATURE QUE CE SOIT QUANT À L’UTILISATION DES SERVICES, EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S’Y LIMITER, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER ET DE RESPECT DU DROIT D’AUTEUR. NOUS, ET NOS ÉMETTEURS, NE GARANTISSONS PAS QUE LES SERVICES (i) RÉPONDRONT À VOS EXIGENCES, (ii) SERONT ININTERROMPUS, LIVRÉS DANS UN DÉLAI RAISONNABLE, SÛRS OU SANS ERREUR, (iii) LES RÉSULTATS QUI PEUVENT ÊTRE OBTENUS PAR LES SERVICES SERONT EXACTS OU FIABLES, (iv) LA QUALITÉ DE TOUT PRODUIT, SERVICE, INFORMATION OU AUTRE MATÉRIEL OBTENU PAR VOUS PAR L’ENTREMISE DES SERVICES RÉPONDRONT À VOS ATTENTES, OU (v) QUE TOUTE ERREUR DANS LES SERVICES OU LA TECHNOLOGIE SERA CORRIGÉE. TOUT MATÉRIEL TÉLÉCHARGÉ OU AUTREMENT OBTENU PAR L’UTILISATION DES SERVICES EST EFFECTUÉ À VOTRE PROPRE DISCRÉTION ET À VOS PROPRES RISQUES ET VOUS ÊTES SEUL RESPONSABLE DE TOUT DOMMAGE À VOTRE SYSTÈME INFORMATIQUE OU DE TOUTE PERTE DE DONNÉES RÉSULTANT DU TÉLÉCHARGEMENT DE CE MATÉRIEL. NOUS, EN NOTRE NOM ET AU NOM DE TOUS LES FOURNISSEURS TIERS, DÉCLINONS EXPRESSÉMENT TOUT TYPE DE DÉCLARATION OU DE GARANTIE CONCERNANT LA DISPONIBILITÉ OU LE TEMPS DE RÉPONSE DES SERVICES OU DU CONTENU OU DES RENSEIGNEMENTS OBTENUS PAR L’INTERMÉDIAIRE DES SERVICES OU QUE CET ACCÈS SERA ININTERROMPU OU EXEMPT D’ERREURS ET, SAUF DISPOSITION EXPRESSE DES PRÉSENTES, DÉCLINONS EXPRESSÉMENT L’EXACTITUDE, L’EXHAUSTIVITÉ ET L’ACTUALITÉ DE TOUS LES RENSEIGNEMENTS RECUEILLIS EN VOTRE NOM. AUCUN CONSEIL OU RENSEIGNEMENT, ORAL OU ÉCRIT, QUE VOUS OBTENIEZ DE NOUS OU DE NOS FOURNISSEURS PAR L’INTERMÉDIAIRE DES SERVICES OU DE CEUX-CI NE CRÉERA DE GARANTIE NON EXPRESSÉMENT ÉNONCÉE DANS LES PRÉSENTES CONDITIONS.
+
+VOUS CONVENEZ QUE NOUS (Y COMPRIS NOS DIRIGEANTS, DIRECTEURS, EMPLOYÉS ET AGENTS) ET NOS FOURNISSEURS TIERS NE SERONT PAS RESPONSABLES DE TOUT DOMMAGE INDIRECT, ACCIDENTEL, SPÉCIAL, CONSÉCUTIFS OU EXEMPLAIRES, Y COMPRIS, MAIS SANS S’Y LIMITER LES DOMMAGES POUR PERTE DE PROFITS, DE VOLONTÉ, D’UTILISATION, DE DONNÉES OU AUTRES PERTES, MÊME SI NOUS AVONS ÉTÉ AVISÉS DE LA POSSIBILITÉ DE TELS DOMMAGES, RÉSULTANT (i) DE L’UTILISATION OU DE L’INCAPACITÉ D’UTILISER LES SERVICES SUR NOTRE SITE WEB OU NOTRE APPLICATION MOBILE OU SUR LE SITE WEB OU L’APPLICATION MOBILE D’UN FOURNISSEUR DE COMPTE TIERS; (ii) DU COÛT DE L’OBTENTION DE BIENS ET DE SERVICES DE REMPLACEMENT, (iii) DE TOUT PRODUIT, DONNÉE, INFORMATION OU SERVICE ACHETÉ OU OBTENU, DE TOUT MESSAGE REÇU OU TOUTE TRANSACTION EFFECTUÉE, PAR L’INTERMÉDIAIRE OU À PARTIR DES SERVICES, (iv) L’ACCÈS NON AUTORISÉ OU L’ALTERATION DE VOTRE TRANSMISSION OU DE VOS DONNÉES, SAUF SI CERTN EN EST LA CAUSE, (vi) L’UTILISATION, L’INCAPACITÉ D’UTILISATION, L’UTILISATION NON AUTORISÉE, LE RENDEMENT OU LE NON-RENDEMENT DE TOUT SITE TIERS, MÊME SI LE FOURNISSEUR A ÉTÉ INFORMÉ AU PRÉALABLE DE LA POSSIBILITÉ DE TELS DOMMAGES, OU (vii) TOUTE AUTRE QUESTION RELATIVE AUX SERVICES.
+
+LA RESPONSABILITÉ DE CERTN ENVERS VOUS OU TOUT TIERS POUR TOUTE RÉCLAMATION DÉCOULANT DE VOTRE UTILISATION DU PORTEFEUILLE OU EN LIEN AVEC CELLE-CI OU DE VOS DONNÉES D’IDENTIFICATION SERA LIMITÉE À 1 000 $ CA.
+
+Bien que Certn s’efforce de fournir une Application fiable et accessible, Certn ne garantit pas un accès ininterrompu. Les problèmes d’entretien, de mises à jour ou imprévus peuvent temporairement affecter la disponibilité de l’Application.
+
+L’application est destinée à un usage personnel et privé. Si vous utilisez l’Application à des fins commerciales, d’affaires ou de revente, nous ne serons pas responsables des pertes, y compris la perte de profit, la perte d’affaires, l’interruption des activités ou la perte d’occasions d’affaires.
+
+Dans la mesure permise par la loi, nous ne sommes pas responsables des retards, des défaillances de livraison ou d’autres pertes ou dommages résultant de la transmission de données sur les réseaux de communication, y compris Internet. Vous reconnaissez que l’utilisation d’Internet, des réseaux mobiles et d’autres médias de communication comporte des risques, comme des virus, des problèmes de sécurité des données, le piratage, la disponibilité des services et la fiabilité de la transmission des données. Si notre prestation des Services ou notre soutien pour le portefeuille MyCertn est retardée en raison d’un événement hors de notre contrôle, nous vous en informerons dès que possible et prendrons des mesures pour minimiser l’impact du retard.
+
+**Résiliation.**
+
+Certn peut mettre fin à votre accès à l’Application et à vos Résultats à tout moment, avec ou sans motif ou préavis. En cas de résiliation, vous acceptez de cesser immédiatement d’utiliser l’Application.
+
+Les présentes Conditions peuvent être modifiées de temps à autre. Certn vous informera de tout changement important dans l’Application. Votre utilisation continue de l’Application indiquera que vous acceptez les conditions révisées.
+
+**Transaction électronique**.
+
+En utilisant les Services, vous garantissez que vous avez accepté de faire des transactions par voie électronique par l’entremise de l’Application. Vous convenez qu’une signature électronique est l’équivalent légal d’une signature manuscrite. Vous garantissez également que l’utilisation d’un clavier, d’une souris ou d’un autre appareil pour sélectionner un élément, un bouton, une icône ou un geste/action similaire constitue une signature valide comme si elle était effectivement signée par écrit. Vous garantissez également qu’aucune autorité de certification ou autre vérification par un tiers n’est nécessaire pour valider une signature électronique, et que l’absence d’une telle certification ou vérification par un tiers n’aura aucune incidence sur l’applicabilité de la signature électronique. Après avoir autorisé l’utilisation de votre signature électronique, vous pouvez toujours retirer votre consentement dans l’Application ou en communiquant avec support@certn.co.
+
+**Loi en vigueur.**
+
+Toutes les questions relatives aux Services et à votre accès à l’Application et à son utilisation seront régies par les lois de la province de la Colombie-Britannique et les lois fédérales du Canada qui s’y appliquent.
+
+**Divers**.
+
+Aucune disposition des présentes Conditions ne doit être interprétée comme créant un emploi, une agence, un partenariat, une franchise, une coentreprise ou toute autre forme de coentreprise ou d’autorité pour lier l’autre partie.
+
+Certn ne sera pas responsable de tout éventuel manquement ou retard dans son exécution des obligations que lui imposent les Conditions qui découlerait de causes indépendantes de sa volonté, y compris, mais sans s’y limiter, les conflits du travail, les grèves, les lock-out, les pannes d’Internet ou de télécommunications, les pénuries ou l’impossibilité d’obtenir de la main-d’œuvre, de l’énergie ou des fournitures, la guerre, le terrorisme, les émeutes, les catastrophes naturelles ou les actions gouvernementales, les pandémies, les actes de pirates informatiques ou d’autres tiers malveillants et les problèmes liés à Internet en général, et cette exécution sera excusée dans la mesure où elle est empêchée ou retardée en raison de l’un des éléments susmentionnés.
+
+Toute renonciation à une disposition des Conditions ne sera valable que si elle est établie par écrit et qu’elle ne s’applique qu’à l’élément spécifique mentionné. Le défaut d’appliquer une disposition ne saurait constituer une renonciation à ladite disposition.
+
+Dans l’éventualité où l’une ou l’autre des dispositions de ces Conditions serait réputée invalide ou inapplicable en tout ou en partie, toutes les autres dispositions continueront néanmoins d’être valides et exécutoires, et les éléments invalides ou inapplicables seront retirés du reste des présentes Conditions.
+
+Certn peut mettre à jour ces Conditions de temps à autre. Toute modification entrera en vigueur dès sa publication sur l’Application. Il est de votre responsabilité d’examiner régulièrement ces Conditions.
+
+**Soutien.**
+
+Vous pouvez demander du soutien par un courriel envoyé à [support@certn.co](mailto:support@certn.co).
+
+**Avis et consentement à recevoir des avis par voie électronique.**
+
+Vous consentez à recevoir tous les accords, avis, divulgations et autres communications (collectivement, les « **Avis »)** auxquels les présentes Conditions font référence par voie électronique, y compris, mais sans s’y limiter, par courriel ou par publication d’avis sur l’Application. Vous acceptez que tous les Avis fournis par voie électronique satisfont à toute exigence légale selon laquelle ces communications doivent être faites par écrit. Si vous avez des questions au sujet des présentes Conditions, vous pouvez communiquer avec le service à la clientèle dans l’Application ou par courriel à l’adresse [support@certn.co](mailto:support@certn.co).
+
+« **Certn** » comprend Certn Holdings Inc. et chacune de ses filiales.
 
 * * *
 
