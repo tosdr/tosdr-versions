@@ -42,12 +42,12 @@ Sök Meny
         
 * [Konfirmation](https://www.svenskakyrkan.se/konfirmation)
     
+    * [Hitta konfirmation](https://www.svenskakyrkan.se/konfirmation/hitta-konfirmation)
+        
     * [Konfirmeras på andra språk](https://www.svenskakyrkan.se/konfirmeras-pa-finska-samiska-eller-teckensprak)
         
         * [Konfirmation för dig som är teckenspråkig](https://www.svenskakyrkan.se/konfirmation/teckensprak)
             
-    * [Hitta konfirmation](https://www.svenskakyrkan.se/konfirmation/hitta-konfirmation)
-        
     * [Konfirmeras som vuxen](https://www.svenskakyrkan.se/konfirmation/konfirmeras-som-vuxen)
         
     * [Vanliga frågor om konfirmation](https://www.svenskakyrkan.se/konfirmation/vanliga-fragor-och-svar)
@@ -184,7 +184,7 @@ Sök Meny
             
             * [Kontaktpersoner för arbetet mot sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp/motsexuellaovergreppmotsexuellaovergreppkontaktpersoner)
                 
-            * [Organisationer som arbetar mot sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp/andra-organisationer)
+            * [Organisationer som arbetar mot sexuella övergrepp](https://www.svenskakyrkan.se/motsexuellaovergrepp/motsexuellaovergreppandra-organisationer)
                 
         * [Våld i nära relationer](https://www.svenskakyrkan.se/fa-hjalp/vald-i-nara-relationer)
             
