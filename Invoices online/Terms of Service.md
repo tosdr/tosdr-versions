@@ -196,59 +196,63 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Enjoying Invoices Online
-> ------------------------
+> Impossible to run our businesses without IO
+> -------------------------------------------
 > 
-> I have enjoyed using your system so much at \*(business name removed), that I have decided to load my personal business onto it as well.
-> 
-> I have upgraded to the Gold account in order to support you guys!
+> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
+>   
+> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
+>   
+> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
+>   
+> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
 
-Shaun Gartshore
+Kobus Venter
 
-![valued client Xpress Designs](https://www.invoicesonline.co.za/scripts/image.php?bid=6143&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=82948886)  
-Xpress Designs
+![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=26225038)  
+Mountain Lion Properties
 
-![valued client Camp 4 Africa (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=8442&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=136528844)  
-Camp 4 Africa (Pty) Ltd
-
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=89257027)  
-LEO DEVELOPMENT GROUP
-
-![valued client Echo Recording Studio cc](https://www.invoicesonline.co.za/scripts/image.php?bid=225&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=42756583)  
-Echo Recording Studio cc
-
-![valued client Adele Jordaan T/A Joyful Noise Music Room](https://www.invoicesonline.co.za/scripts/image.php?bid=7958&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=132696427)  
-Adele Jordaan T/A Joyful Noise Music Room
-
-![valued client Brand's Fountains Deco and Events Coordinatoin ](https://www.invoicesonline.co.za/scripts/image.php?bid=6303&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=212290731)  
-Brand's Fountains Deco and Events Coordinatoin
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=65827675)  
-Lion Software Develepment
-
-![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=63863101)  
-Konsortium Operations (PTY) LTD
-
-![valued client Fox Alarms & Security](https://www.invoicesonline.co.za/scripts/image.php?bid=4937&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=134548816)  
-Fox Alarms & Security
-
-![valued client ARCHITEK PTY LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=8208&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=154181783)  
-ARCHITEK PTY LTD
-
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=17836904)  
+![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=113451084)  
 Henry's Home Renovations
 
-![valued client OPTIMUS ELECTRICAL PTY (LTD)](https://www.invoicesonline.co.za/scripts/image.php?bid=4990&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=136924488)  
-OPTIMUS ELECTRICAL PTY (LTD)
+![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=199678743)  
+Norton Medical & Consult - Namibia
 
-![valued client Wiselink Broadband Pty Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=4072&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=106479397)  
-Wiselink Broadband Pty Ltd
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=46746714)  
+Brilliant Roof Products
 
-![valued client MR Compressors& Industrial Supplies](https://www.invoicesonline.co.za/scripts/image.php?bid=7893&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=187007172)  
-MR Compressors& Industrial Supplies
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=212848103)  
+Waterfinatics Swim School
 
-![valued client TIGERDSL](https://www.invoicesonline.co.za/scripts/image.php?bid=2831&file=logo_300_100&type=&fe=94c8bb8a19401a623dd8862a7c2d6e14b0b2084229c5290bd9b325243ba80602&c=10909107)  
-TIGERDSL
+![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=139904565)  
+Tiny Cuddles Photography
+
+![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=45827064)  
+Wiselink Broadband Dundee
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=47538968)  
+Entidee Enterprise PTY (ltd)
+
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=116804705)  
+Safe-Train Consulting (PTY) Ltd
+
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=185787152)  
+Mtunzini Group
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=199105745)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=69053343)  
+High Point Marketing CC t/a Leads For Africa
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=95343532)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=42186454)  
+Leef in Afrikaans
+
+![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=83085608)  
+Tracknetics
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
