@@ -124,6 +124,6 @@ If you have questions about (or suggestions for!) this policy, please [contact u
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Your service is GREAT!!!
+You guys have great service... Keep up the good work!
 
-Jaci Stephen
+Allen Yi Hsu
