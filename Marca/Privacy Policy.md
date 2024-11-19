@@ -1,20 +1,18 @@
  
 
 * Es noticia:
+* [España](https://www.marca.com/futbol/nations-league/cronica/2024/11/18/673b819722601d5b768b4597.html)
 * [España - Suiza](https://www.marca.com/futbol/uefa-nations-league/espana-suiza/2024/11/18/01_0195_20241118_118_497-directo.html)
-* [España - Suiza dónde ver](https://www.marca.com/futbol/seleccion/2024/11/18/espana-suiza-hora-ver-hoy-tv-partido-nations-league.html)
-* [Alineación España hoy](https://www.marca.com/futbol/seleccion/2024/11/17/alineacion-probable-espana-suiza-nations-league.html)
-* [España - Dinamarca dónde ver](https://www.marca.com/futbol/europeo-sub-21/2024/11/18/espana-dinamarca-sub-21-horario-ver-partido-amistoso.html)
 * [Croacia - Portugal](https://www.marca.com/futbol/uefa-nations-league/croacia-portugal/2024/11/18/01_0195_20241118_535_359-directo.html)
 * [Nadal](https://www.marca.com/tenis/copa-davis/2024/11/18/nadal-pista-espero-controlar-emociones-aqui-ayudar-equipo-ganar.html)
 * [Rodrygo](https://www.marca.com/futbol/real-madrid/2024/11/18/sorpresa-rodrygo.html)
 * [Hezonja](https://www.marca.com/baloncesto/euroliga/2024/11/18/hezonja-jugara-euroliga-ventanas-critica-calendario-ridiculo.html)
+* [Verstappen](https://www.marca.com/motor/formula1/2024/11/18/673ba53046163fb31d8b4583.html)
 * [Chapi](https://www.marca.com/futbol/2024/11/18/tragedia-futbol-sevillano-muere-chapi-accidente-trafico.html)
-* [Dónde se puede ver la Copa Davis](https://www.marca.com/tenis/copa-davis/2024/11/18/espana-paises-bajos-partidos-hora-ver-tv-copa-davis.html)
+* [Dónde ver la Copa Davis](https://www.marca.com/tenis/copa-davis/2024/11/18/espana-paises-bajos-partidos-hora-ver-tv-copa-davis.html)
 * [Partidos Nations League hoy](https://www.marca.com/futbol/nations-league/2024/11/18/partidos-nations-league-hoy-18-noviembre-juega-horarios-ver.html)
 * [Bildu Okupas](https://www.marca.com/tiramillas/actualidad/economia/2024/11/18/673b8592268e3e16558b45d7.html)
 * [Marruecos - Lesoto](https://www.marca.com/futbol/futbol-internacional/2024/11/18/673b7fa2f49425d14d3ee3ca-directo.html)
-* [Cuándo juega Marruecos](https://www.marca.com/futbol/copa-africa/2024/11/18/marruecos-lesoto-hora-ver-clasificacion-copa-africa.html)
 * [Leticia Sabater](https://www.marca.com/tiramillas/television/2024/11/18/673ba21422601d324f8b45a0.html)
 * [Muface](https://www.marca.com/tiramillas/actualidad/economia/2024/11/18/673b7c3ae2704eb0588b45d1.html)
 * [Marc Márquez](https://www.marca.com/motor/motogp/gp-valencia/2024/11/18/673b22e7268e3e607a8b458b.html)
