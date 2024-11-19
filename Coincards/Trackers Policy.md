@@ -309,7 +309,7 @@ Coincards.com uses Trackers to deliver ads or marketing content, and to measure 
     
     Storage duration:
     
-    * \_fbc: 4 months
+    * \_fbc: 3 months
     * \_fbp: 3 months
     * fr: 3 months
     
