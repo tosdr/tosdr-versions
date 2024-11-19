@@ -30,13 +30,16 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/b3845d88-e854-4c00-853b-bfcb04ee0752/20241119T045346/b3845d88-e854-4c00-853b-bfcb04ee0752_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b3845d88-e854-4c00-853b-bfcb04ee0752/20241119T045346/b3845d88-e854-4c00-853b-bfcb04ee0752_360x203.jpg)](https://www.wqad.com/article/news/local/east-moline-plans-upgrade-water-infrastructure/526-b3a8caf9-345d-4224-9890-fc769c923893)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_360x203.jpg)](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
         
-        #### [East Moline officials calling for improvements to city's water infrastructure](https://www.wqad.com/article/news/local/east-moline-plans-upgrade-water-infrastructure/526-b3a8caf9-345d-4224-9890-fc769c923893)
+        #### [2 men arrested in Peoria County accused of derailing train](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224) [![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_360x203.jpg)](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/ec4d94cd-d147-4eaf-b153-a59af32e7d8f/20241119T005715/ec4d94cd-d147-4eaf-b153-a59af32e7d8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ec4d94cd-d147-4eaf-b153-a59af32e7d8f/20241119T005715/ec4d94cd-d147-4eaf-b153-a59af32e7d8f_360x203.jpg)](https://www.wqad.com/article/news/local/alpha-delta-phi-fraternity-iowa-city-alleged-hazing/526-81910aaf-e08f-4a28-a5b4-edeac2b4dbf3)
+        #### [2 Peoria County men accused of derailing train](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224) [![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/5aa235d7-0afa-4d58-a598-e0bffb8ded87/5aa235d7-0afa-4d58-a598-e0bffb8ded87_360x203.jpg)](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
         
-        #### [University of Iowa police find 56 fraternity pledges blindfolded in potential hazing incident](https://www.wqad.com/article/news/local/alpha-delta-phi-fraternity-iowa-city-alleged-hazing/526-81910aaf-e08f-4a28-a5b4-edeac2b4dbf3)
+        #### [Officials: 2 men charged with derailing train in Peoria County](https://www.wqad.com/article/news/local/peoria-train-derailment-bartonville/526-ca135546-eaa6-4bd8-82ae-6863164f8224)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/4b970a53-09cc-4ce2-8e3d-bf37d518a67d/4b970a53-09cc-4ce2-8e3d-bf37d518a67d_360x203.jpg)](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
+        
+        #### [Holiday happenings: Quad Cities events to get you in the holiday mood](https://www.wqad.com/article/entertainment/events/2024-holiday-events-in-the-quad-cities/526-06f3d4e3-3688-4a2a-bdf0-9d467c85c2be)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -60,9 +63,9 @@ Navigation
         
         #### [Weather Impact Alert: Gusty snow showers to reduce visibility Wednesday afternoon, and evening](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-    *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
+    *  [![](https://media.tegna-media.com/assets/WFAA/images/20ddb2d1-6be5-469d-b417-4ef1f2339725/20ddb2d1-6be5-469d-b417-4ef1f2339725_16x9.jpg) ![](https://media.tegna-media.com/assets/WFAA/images/20ddb2d1-6be5-469d-b417-4ef1f2339725/20ddb2d1-6be5-469d-b417-4ef1f2339725_360x203.jpg)](https://www.wqad.com/article/weather/free-winter-spotter-training-classes-december/526-bb882e4d-75a4-4dce-af38-cea31afbd63b)
         
-        #### [Tropical Storm Sara weakens to tropical depression after making landfall in Belize](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
+        #### [National Weather Service Quad Cities hosts free winter spotter training classes this December](https://www.wqad.com/article/weather/free-winter-spotter-training-classes-december/526-bb882e4d-75a4-4dce-af38-cea31afbd63b)
         
     
 * [Sports](https://www.wqad.com/sports)
@@ -86,9 +89,9 @@ Navigation
 
 Davenport, IA »
 
-57°
+53°
 
-![Partly Cloudy/Wind](/assets/shared-images/weather-icons/partly-cloudy-day_210x210.png)
+![Sunny](/assets/shared-images/weather-icons/clear-day_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
