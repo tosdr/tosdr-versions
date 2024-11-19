@@ -283,12 +283,14 @@ Thunderbird May Disclose Information To:
 
 **Email address providers (Desktop Only Legacy)**: Prior to version 128, Thunderbird partnered with Gandi.net and Mailfence to allow you to create a new email address through Thunderbird. If you choose to use this feature, your email address search terms are sent to Gandi.net and Mailfence to return available addresses. In addition, your country location is also shared to provide the correct prices. You can learn more about [Gandi.net’s](https://contract.gandi.net/v5/contracts/14420/Privacy_Policy_US_2.0_en.pdf) and [Mailfence’s](https://mailfence.com/en/privacy.jsp) data practices by reading their privacy notices.
 
-### Menu
+Menu
+----
 
 * Mozilla Privacy
 * Thunderbird
 
-#### [Mozilla Privacy](https://www.mozilla.org/en-US/privacy/)
+[Mozilla Privacy](https://www.mozilla.org/en-US/privacy/)
+---------------------------------------------------------
 
 * [Mozilla Websites, Communications & Cookies](https://www.mozilla.org/en-US/privacy/websites/)
 * [Mozilla Accounts](https://www.mozilla.org/en-US/privacy/mozilla-accounts/)
