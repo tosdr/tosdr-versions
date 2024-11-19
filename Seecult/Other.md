@@ -344,11 +344,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/portret-jasne-tijardovic-1966-1975/jasnatijardovic.jpg?itok=wU2mN1A5)](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-film/portret-jasne-tijardovic-1966)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/manik/manik-full-size-image/kcb-seecult09-web.jpg?itok=n3-q3dGd)](http://seecult.org/galerija/galerija-umetnika/manik/manik-full-size-image)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/dr-keka-humor-works.jpg?itok=FzWAbLHe)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/gmm2007.jpg?itok=TcKINDQZ)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -364,6 +364,7 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [ICOMOS Srbija: Poništiti odluku o Generalštabu](http://seecult.org/vest/icomos-srbija-ponistiti-odluku-o-generalstabu)
 * [Aktivizam i umetnost - istorijska iskustva i participativne prakse](http://seecult.org/vest/aktivizam-i-umetnost-istorijska-iskustva-i-participativne-prakse)
 * [Irena Paunović u Haosu](http://seecult.org/vest/irena-paunovic-u-haosu)
 * [Volja sinovljeva - vestern, samurajski i guslarski film](http://seecult.org/vest/volja-sinovljeva-vestern-samurajski-i-guslarski-film)
@@ -373,7 +374,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Dani srpskog filma u Helsinkiju](http://seecult.org/vest/dani-srpskog-filma-u-helsinkiju)
 * [Poboljšati status slobodnih umetnika](http://seecult.org/vest/poboljsati-status-slobodnih-umetnika)
 * [Glas promena koji podstiče kritičko razmišljanje](http://seecult.org/vest/glas-promena-koji-podstice-kriticko-razmisljanje)
-* [Ples, otpor, (ne)rad](http://seecult.org/vest/ples-otpor-nerad)
 
 * [Konkursi](#tab1_1)
 
