@@ -44,7 +44,7 @@ Install the bot-free Tactiq extension](https://tactiq.io/chrome-extension)
 
 #### AI Tools
 
-[GPT-4o Note Taker](https://tactiq.io/ai-tools/gpt-4o-note-taker)
+[AI Meeting Summary](https://tactiq.io/ai-tools/ai-meeting-summary)
 
 [AI Note Taker](https://tactiq.io/ai-tools/ai-note-taker)
 
