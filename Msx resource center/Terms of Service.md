@@ -140,6 +140,7 @@ MSX Music player
 
 Latest reactions
 
+* [New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)](https://www.msx.org/photoshoots/nijmegen-2010/new-stuff-sale-bitwise-booth-including-many-msxdev-games-and-advanced-vers "New stuff for sale at the Bitwise booth, including many MSXDev games and the Advanced version of Deep Dungeon. (Let's see how long it takes until ARTRAG comments that it contains an easter egg bonus game!)")
 * [PISA MSX DEVCON 2024](https://www.msx.org/news/en/pisa-event-on-11162024 "PISA MSX DEVCON 2024")
 * [JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial](https://www.msx.org/news/hardware/en/jpt-panakey-v2-pansonic-msx2-and-turbo-r-keyboard-replacement-leonardo-padial "JPT-PANAKEY-V2 Panasonic MSX2+ and turbo R keyboard replacement by Leonardo Padial")
 * [Tiny Magic - Digital Edition available](https://www.msx.org/news/software/en/tiny-magic-digital-edition-available "Tiny Magic - Digital Edition available")
@@ -149,10 +150,10 @@ Latest reactions
 * [MSXdev24 #14 Kitten2 - The Return](https://www.msx.org/news/challenges/en/msxdev24-14-kitten2-the-return "MSXdev24 #14 Kitten2 - The Return")
 * [MSXdev24 #09 Wizsoul](https://www.msx.org/news/challenges/en/msxdev24-09 "MSXdev24 #09 Wizsoul")
 * [A Lone Wolf](https://www.msx.org/news/en/a-lone-wolf "A Lone Wolf ")
-* [LevelUp! on stage](https://www.msx.org/news/media/en/level-up-on-stage "LevelUp! on stage")
 
 Latest forum posts
 
+* [problems with Megaflashrom SCC+](https://www.msx.org/forum/msx-talk/general-discussion/problems-with-megaflashrom-scc "problems with Megaflashrom SCC+")
 * [TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?](https://www.msx.org/forum/msx-talk/hardware/trh9000-v9990-spiderwave-opl4-dont-work-in-slotx4 "TRH9000 V9990 & Spiderwave OPL4 don't work in Slotx4?")
 * [RTC batteries actually working? :O](https://www.msx.org/forum/msx-talk/general-discussion/rtc-batteries-actually-working-o?page=1 "RTC batteries actually working? :O")
 * [Demand for battery replacement adapter for Philips VG-8235 & NMS8250?](https://www.msx.org/forum/msx-talk/hardware/demand-for-battery-replacement-adapter-for-philips-vg-8235-nms8250?page=1 "Demand for battery replacement adapter for Philips VG-8235 & NMS8250?")
@@ -165,7 +166,6 @@ Latest forum posts
 * [I need a guide or manual for Sorcerian...](https://www.msx.org/forum/msx-talk/software/i-need-a-guide-or-manual-for-sorcerian "I need a guide or manual for Sorcerian...")
 * [MSXgl – A new C game library for MSX](https://www.msx.org/forum/msx-talk/development/msxgl-%E2%80%93-a-new-c-game-library-for-msx?page=27 "MSXgl – A new C game library for MSX")
 * [Pretty weird item form Telemática Argentina TVD-256](https://www.msx.org/forum/msx-talk/hardware/pretty-weird-item-form-telematica-argentina-tvd-256 "Pretty weird item form Telemática Argentina TVD-256")
-* [msx .music. dsk](https://www.msx.org/forum/msx-talk/graphics-and-music/msx-music-dsk "msx .music. dsk")
 
 [](https://www.msx.org/forum/)[More forum topics](https://www.msx.org/forum/)
 
