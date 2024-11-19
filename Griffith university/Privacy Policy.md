@@ -908,7 +908,7 @@ Footer
 * [Digital](https://www.griffith.edu.au/about-griffith/campuses-facilities/digital?city=online)
 * [Gold Coast](https://www.griffith.edu.au/about-griffith/campuses-facilities/gold-coast)
 * [Logan](https://www.griffith.edu.au/about-griffith/campuses-facilities/logan)
-* [Mount Gravatt](https://www.griffith.edu.au/about-griffith/campuses-facilities/mt-gravatt)
+* [Mount Gravatt](https://www.griffith.edu.au/about-griffith/campuses-facilities/brisbane-south-mt-gravatt)
 * [Nathan](https://www.griffith.edu.au/about-griffith/campuses-facilities/nathan)
 * [South Bank](https://www.griffith.edu.au/about-griffith/campuses-facilities/south-bank)
 
