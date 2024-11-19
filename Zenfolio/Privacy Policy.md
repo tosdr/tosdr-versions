@@ -305,6 +305,7 @@ Resources
 * [Book 1:1](https://zenfolio.com/success-call/)
 * [Blog](https://zenfolio.com/blog/)
 * [Photography Guides](https://zenfolio.com/photography-guides/)
+* [Shipping Calculator](https://zenfolio.com/shipping-calculator-tool/)
 
 Help
 
