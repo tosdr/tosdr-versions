@@ -27,10 +27,11 @@ EN
         * [Establishment of the Council of Europe Data Protection Day](https://uodo.gov.pl/en/p/establishment-of-the-council-of-europe-data-protection-day)
     * [Your data – Your concern](https://uodo.gov.pl/en/p/tdts)
         * [General information](https://uodo.gov.pl/en/641)
+        * [Implementation of the programme in 2024/2025 (15th edition)](https://uodo.gov.pl/en/702)
+        * [Implementation of the programme in 2023/2024 (14th edition)](https://uodo.gov.pl/en/695)
         * [Implementation of the programme in 2022/2023 (13th edition)](https://uodo.gov.pl/en/642)
         * [Implementation of the programme in 2021/2022 (12th edition)](https://uodo.gov.pl/en/643)
         * [Logo for download](https://uodo.gov.pl/en/644)
-        * [Implementation of the programme in 2023/2024 (14th edition)](https://uodo.gov.pl/en/695)
     * [Cooperation](https://uodo.gov.pl/en/645)
         * [European Data Protection Supervisor](https://uodo.gov.pl/en/646)
         * [International](https://uodo.gov.pl/en/p/international)
@@ -69,7 +70,7 @@ Events ![arrow](/bundles/app/images/arrow-navbar.svg)
 
 Your data – Your concern ![arrow](/bundles/app/images/arrow-navbar.svg) 
 
- ![arrow](/bundles/app/images/arrow-navbar.svg) Your data – Your concern [General information](https://uodo.gov.pl/en/641) [Implementation of the programme in 2022/2023 (13th edition)](https://uodo.gov.pl/en/642) [Implementation of the programme in 2021/2022 (12th edition)](https://uodo.gov.pl/en/643) [Logo for download](https://uodo.gov.pl/en/644) [Implementation of the programme in 2023/2024 (14th edition)](https://uodo.gov.pl/en/695)
+ ![arrow](/bundles/app/images/arrow-navbar.svg) Your data – Your concern [General information](https://uodo.gov.pl/en/641) [Implementation of the programme in 2024/2025 (15th edition)](https://uodo.gov.pl/en/702) [Implementation of the programme in 2023/2024 (14th edition)](https://uodo.gov.pl/en/695) [Implementation of the programme in 2022/2023 (13th edition)](https://uodo.gov.pl/en/642) [Implementation of the programme in 2021/2022 (12th edition)](https://uodo.gov.pl/en/643) [Logo for download](https://uodo.gov.pl/en/644)
 
 Cooperation ![arrow](/bundles/app/images/arrow-navbar.svg) 
 
