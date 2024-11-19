@@ -20,7 +20,9 @@ Menu
     * [Français (French)](https://www.realvnc.com/fr/legal/ "French")
     * [Portuguese](https://www.realvnc.com/pt/legal/ "Portuguese")
 
-[![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
+[![RealVNC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202588%20354'%3E%3C/svg%3E)
+
+![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
 
 * [Products](#products)
     * [RealVNC Connect
@@ -220,13 +222,17 @@ Menu
     * [French](https://www.realvnc.com/fr/legal/ "French")
     * [Portuguese](https://www.realvnc.com/pt/legal/ "Portuguese")
 
-[![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
+[![RealVNC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202588%20354'%3E%3C/svg%3E)
+
+![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
 
 * [Sign In](https://manage.realvnc.com/en/)
 
 * [Sign In](https://manage.realvnc.com/en/)
 
-[![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
+[![RealVNC](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%202588%20354'%3E%3C/svg%3E)
+
+![RealVNC](https://www.realvnc.com/wp-content/uploads/2022/01/Blue-RealVNC.svg)](https://www.realvnc.com/en/)
 
 * [Sign In](https://manage.realvnc.com/en/)
 
