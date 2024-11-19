@@ -232,7 +232,9 @@ If you like these links, you'll love
 
 ![TotalFark](https://img.fark.net/images/2017/site/totalfark_logo_2017.png)
 
-More Fark for your buck
+Total access  
+Total knowledge  
+Total Fark
 
 [learn more](https://www.fark.com/farq/about/#What_is_TotalFark) | [sign up](https://www.fark.com/totalfarksignup)
 
@@ -332,16 +334,16 @@ Also on Fark
 
 |     |     |
 | --- | --- |
-| [Main](https://www.fark.com/) | [The Merriam-Webster word of the day for November 18 is 'denigrate', as in "A waffle is good, but if you add butter and maple syrup on top, denigrate"](https://www.fark.com/goto/13466480) ( [merriam-webster.com](https://www.fark.com/goto/13466480) ) » [(10 comments)](https://www.fark.com/comments/13466480/The-Merriam-Webster-word-of-day-for-November-18-is-denigrate-as-in-A-waffle-is-good-but-if-you-add-butter-maple-syrup-on-top-denigrate) |
-| [Discussion](https://www.fark.com/discussion/) | [Coworker angry about paternity leave impact: "I may be having a kid, but you're giving birth to problems"](https://www.fark.com/goto/13466522) ( [boredpanda.com](https://www.fark.com/goto/13466522) ) » [(10 comments)](https://www.fark.com/comments/13466522/Coworker-angry-about-paternity-leave-impact-I-may-be-having-a-kid-but-youre-giving-birth-to-problems) |
-| [Sports](https://www.fark.com/sports/) | [Jake Paul apologizes for Mike Tyson fight outcome, but fans remain split over whether the knockout was staged or if it was just the CGI's day off](https://www.fark.com/goto/13466500) ( [boredpanda.com](https://www.fark.com/goto/13466500) ) » [(7 comments)](https://www.fark.com/comments/13466500/Jake-Paul-apologizes-for-Mike-Tyson-fight-outcome-but-fans-remain-split-over-whether-knockout-was-staged-if-it-was-just-CGIs-day-off) |
-| [Business](https://www.fark.com/business/) | [Roblock](https://www.fark.com/goto/13466666) ( [nbcnews.com](https://www.fark.com/goto/13466666) ) » [(2 comments)](https://www.fark.com/comments/13466666/Roblock) |
-| [STEM](https://www.fark.com/stem/) | [David Attenborough is 98, but of course that wonderful voice will live forever (whether he likes it or not)](https://www.fark.com/goto/13466746) ( [independent.co.uk](https://www.fark.com/goto/13466746) ) » [(8 comments)](https://www.fark.com/comments/13466746/David-Attenborough-is-98-but-of-course-that-wonderful-voice-will-live-forever-whether-he-likes-it-not) |
-| [Entertainment](https://www.fark.com/entertainment/) | [Eva Longoria: "I didn't move out of the United States because Trump won the election. Seriously"](https://www.fark.com/goto/13466652) ( [usatoday.com](https://www.fark.com/goto/13466652) ) » [(12 comments)](https://www.fark.com/comments/13466652/Eva-Longoria-I-didnt-move-out-of-United-States-because-Trump-won-election-Seriously) |
-| [Fandom](https://www.fark.com/fandom/) | [Meet the woman who inspired the good witches of Oz](https://www.fark.com/goto/13466622) ( [smithsonianmag.com](https://www.fark.com/goto/13466622) ) » [(6 comments)](https://www.fark.com/comments/13466622/Meet-woman-who-inspired-good-witches-of-Oz) |
-| [D'awww](https://www.fark.com/dawww/) | [OK, making tiny pancakes for the baby mouse you rescued is adorable. But making the mouse little books is too far](https://www.fark.com/goto/13466214) ( [youtube.com](https://www.fark.com/goto/13466214) ) » [(3 comments)](https://www.fark.com/comments/13466214/OK-making-tiny-pancakes-for-baby-mouse-you-rescued-is-adorable-But-making-mouse-little-books-is-too-far) |
-| [Food](https://www.fark.com/food/) | [Fluffy popcorn is not safe to eat; guess I'll go back to eating the crunchy parts that come in the bag](https://www.fark.com/goto/13466600) ( [allrecipes.com](https://www.fark.com/goto/13466600) ) » [(17 comments)](https://www.fark.com/comments/13466600/Fluffy-popcorn-is-not-safe-to-eat-guess-Ill-go-back-to-eating-crunchy-parts-that-come-in-bag) |
-| [Politics](https://www.fark.com/politics/) | [Andrew McCarthy has less than zero respect for Trump's cabinet picks](https://www.fark.com/goto/13466696) ( [mediaite.com](https://www.fark.com/goto/13466696) ) » [(10 comments)](https://www.fark.com/comments/13466696/Andrew-McCarthy-has-less-than-zero-respect-for-Trumps-cabinet-picks) |
+| [Main](https://www.fark.com/) | [The ultimate crossover event sure to please everybody: a Jesus themed sex party](https://www.fark.com/goto/13466864) ( [vice.com](https://www.fark.com/goto/13466864) ) » [(26 comments)](https://www.fark.com/comments/13466864/The-ultimate-crossover-event-sure-to-please-everybody-a-Jesus-themed-sex-party) |
+| [Discussion](https://www.fark.com/discussion/) | ["My husband has lost his sex drive. Is he banging someone else?" (possible nsfw content on page)](https://www.fark.com/goto/13466856) ( [thesun.co.uk](https://www.fark.com/goto/13466856) ) » [(4 comments)](https://www.fark.com/comments/13466856/My-husband-has-lost-his-sex-drive-Is-he-banging-someone-else-possible-nsfw-content-on-page) |
+| [Sports](https://www.fark.com/sports/) | [This will be the worst MNF game so far](https://www.fark.com/goto/13467090) ( [si.com](https://www.fark.com/goto/13467090) ) » [(5 comments)](https://www.fark.com/comments/13467090/This-will-be-worst-MNF-game-so-far) |
+| [Business](https://www.fark.com/business/) | [WSJ says Musk and Trump's impulsive plans will just wreck the economy. Counter point: but then everything will be super cheap and we can buy up everything](https://www.fark.com/goto/13466912) ( [alternet.org](https://www.fark.com/goto/13466912) ) » [(8 comments)](https://www.fark.com/comments/13466912/WSJ-says-Musk-Trumps-impulsive-plans-will-just-wreck-economy-Counter-point-but-then-everything-will-be-super-cheap-we-can-buy-up-everything) |
+| [STEM](https://www.fark.com/stem/) | [Mollusk of Mystery discovered in Monterey Bay, Mike Myers nowhere in sight](https://www.fark.com/goto/13466818) ( [eastbaytimes.com](https://www.fark.com/goto/13466818) ) » [(3 comments)](https://www.fark.com/comments/13466818/Mollusk-of-Mystery-discovered-in-Monterey-Bay-Mike-Myers-nowhere-in-sight) |
+| [Entertainment](https://www.fark.com/entertainment/) | [You can only be The Sexiest Man Alive for one year. So, 40 years, 40 men](https://www.fark.com/goto/13466786) ( [abcnews.go.com](https://www.fark.com/goto/13466786) ) » [(6 comments)](https://www.fark.com/comments/13466786/You-can-only-be-The-Sexiest-Man-Alive-for-one-year-So-40-years-40-men) |
+| [Fandom](https://www.fark.com/fandom/) | [James Stephanie Sterling has been taking the piss out of the games industry for ten years now](https://www.fark.com/goto/13467006) ( [youtube.com](https://www.fark.com/goto/13467006) ) » [(0 comments)](https://www.fark.com/comments/13467006/James-Stephanie-Sterling-has-been-taking-piss-out-of-games-industry-for-ten-years-now) |
+| [D'awww](https://www.fark.com/dawww/) | [Save the squirrels; they're worth it](https://www.fark.com/goto/13466832) ( [dailymail.co.uk](https://www.fark.com/goto/13466832) ) » [(0 comments)](https://www.fark.com/comments/13466832/Save-squirrels-theyre-worth-it) |
+| [Food](https://www.fark.com/food/) | [Trump's tariffs on wine will kill all the restaurants. Only McDonalds will remain](https://www.fark.com/goto/13466924) ( [qz.com](https://www.fark.com/goto/13466924) ) » [(11 comments)](https://www.fark.com/comments/13466924/Trumps-tariffs-on-wine-will-kill-all-restaurants-Only-McDonalds-will-remain) |
+| [Politics](https://www.fark.com/politics/) | [Matt Gaetz: I never thought that Joel Leppard (an attorney representing multiple women making accusations of sexual misconduct against him) would eat MY face](https://www.fark.com/goto/13466946) ( [mediaite.com](https://www.fark.com/goto/13466946) ) » [(59 comments)](https://www.fark.com/comments/13466946/Matt-Gaetz-I-never-thought-that-Joel-Leppard-an-attorney-representing-multiple-women-making-accusations-of-sexual-misconduct-against-him-would-eat-MY-face) |
 
 * Fark :: [Main](https://www.fark.com/) | [Discussion](https://www.fark.com/discussion/) | [Sports](https://www.fark.com/sports/) | [Business](https://www.fark.com/business/) | [STEM](https://www.fark.com/stem/) | [Entertainment](https://www.fark.com/entertainment/) | [Fandom](https://www.fark.com/fandom/) | [D'awww](https://www.fark.com/dawww/) | [Food](https://www.fark.com/food/) | [Politics](https://www.fark.com/politics/)
 * Total Fark :: [TotalFark](https://total.fark.com/) | [TF Live](https://total.fark.com/live/) | [TF Advice](https://total.fark.com/advice/) | [TF Discussion](https://total.fark.com/tfdiscussion/) | [Commented](https://total.fark.com/commented/) | [Top Voted](https://total.fark.com/linkvote/) | [Greenlit](https://total.fark.com/greenlit/)
@@ -351,7 +353,7 @@ Also on Fark
 
 [Submit a Link »](https://www.fark.com/submit/)
 
-Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 18 2024 14:42:26  
+Copyright © 1999 - 2024 Fark, Inc | Last updated: Nov 18 2024 19:43:18  
 [Contact Us via Farkback](https://www.fark.com/farkback)  |  [Report a bug/error msg](https://www.fark.com/farkback/error)  |  [Terms of service/legal/privacy policy](https://www.fark.com/farq/legal)  |  [Do Not Sell or Share My Personal Information](javascript:void(0))  
 ![](https://www.fark.com/ll)
 
