@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Thank you for the proficiency and fast resolution.
+The service is wonderful and I have never had any complaints about it but I wish you used some other payment method instead or in addition to Paypal because it cancelled my subscription for no reason and without my intention - just declined my card.
 
-Guillermo
+Julia Lukyanova
