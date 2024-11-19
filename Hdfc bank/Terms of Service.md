@@ -1098,10 +1098,10 @@ The following are the broad Terms & Conditions of the captioned cover :2.7.1**Pe
   
 **HDFC Bank InstaAccount:** 
 
-* This account is valid for a period of 1 year only.  You will need to visit a branch to complete a full KYC process to convert this account to any standard savings/salary account within a year. 
+* This account is valid for a period of 1 year only.  You will need to complete Video KYC process within stipulated timelines or visit a branch to complete a full KYC process to convert this account to any standard savings/salary account within a year
 * Your account balance cannot exceed INR 1 lac at any given point of time.
 * Your annual credit to this account, in one financial year, cannot exceed INR 2 lacs
-* You have to maintain the Average Monthly Balance (AMB) / Average Quarterly Balance (AQB) as per the product that you have selected during the InstaAccount Opening process. However, as per guidance from Government of India, we shall not be levying charges for non maintenance of AMB / AQB , till 30 June 2020. Non maintenance of AMB / AQB charges will be applicable for all accounts w.e.f 1 July 2020.
+* **You have to maintain the Average Monthly Balance (AMB) / Average Quarterly Balance (AQB) as per Regular Savings Account ([www.hdfcbank.com/personal/save/accounts/savings-accounts/regular-savings-accounts](https://ind01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.hdfcbank.com%2Fpersonal%2Fsave%2Faccounts%2Fsavings-accounts%2Fregular-savings-accounts&data=05%7C02%7CEuroMoney%40hdfcbank.com%7C79a5669b174f41e0558208dd079fb403%7C827fd02205a64e57be9ccc069b6ae62d%7C0%7C0%7C638675104682766633%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=SddfOgwfCCoZUi0mVlRSeeiwTXjaBA6B9vjyii4%2B8a0%3D&reserved=0 "Original URL: http://www.hdfcbank.com/personal/save/accounts/savings-accounts/regular-savings-accounts. Click or tap if you trust this link.")) till completion of full KYC. Post completion of full KYC (via Video KYC or branch visit), the product features, benefits and charges would be applicable basis the product that you have selected during the Insta-Account Opening process**
 
   
 
@@ -5548,6 +5548,11 @@ Print
 
 [Click Here](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/Digital-Activation-Offer-T-and-C.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/Digital-Activation-Offer-T-and-C.pdf") Digital Activation Offer T&C  
 ​​​​​​​
+
+[Click Here](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Diwali-Booklet-41124-Savings-Nov-12.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Diwali-Booklet-41124-Savings-Nov-12.pdf") Savings Account Offer Booklet
+
+  
+[Click Here](https://www.hdfcbank.com/Footer/Useful%20Links/terms%20and%20conditions/pdf%20-%202024/nov/Diwali-Booklet-41124-Salary-Nov-12.pdf "/Footer/Useful Links/terms and conditions/pdf - 2024/nov/Diwali-Booklet-41124-Salary-Nov-12.pdf") Salary Account Offer Booklet
 
   
 
