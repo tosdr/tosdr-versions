@@ -282,12 +282,14 @@ Higgins led Derry City to two FAI Cup finals in three years. (Photo: Ben McShane
 [Woman accused of urinating beside toilet in police cell given final warning](https://www.derrynow.com/news/local-news/1658466/woman-accused-of-urinating-beside-toilet-in-police-cell-given-final-warning.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+[![ALERT: Women warned to be vigilant following 'strange' man sighting](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Women warned to be vigilant following 'strange' man sighting")](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
 
-[Deaths](https://www.derrynow.com/section/977/deaths)
+Image: Pixabay
 
-[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
+[Home](https://www.derrynow.com/)
+
+[ALERT: Derry women warned to be vigilant following strange man sightings](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Larne boss Lynch possible contender to replace Higgins](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Larne boss Lynch possible contender to replace Higgins")](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
 
@@ -298,15 +300,6 @@ Larne boss Tiernan Lynch could be in line to replace Ruaidhri Higgins. (Photo: B
 [Larne boss Lynch possible contender to replace Higgins](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ALERT: Women warned to be vigilant following 'strange' man sighting](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Women warned to be vigilant following 'strange' man sighting")](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
-
-Image: Pixabay
-
-[Home](https://www.derrynow.com/)
-
-[ALERT: Derry women warned to be vigilant following strange man sightings](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)")](https://www.derrynow.com/news/derry-sport/1658358/the-republic-of-ireland-s-newest-international-and-his-connection-to-derry.html)
 
 Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)
@@ -316,20 +309,6 @@ Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)
 [The Republic of Ireland's newest international and his connection to Derry](https://www.derrynow.com/news/derry-sport/1658358/the-republic-of-ireland-s-newest-international-and-his-connection-to-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
-
-[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
-
-[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman jailed for 12 months after being convicted of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman jailed for 12 months after being convicted of drug offences")](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry woman jailed for 12 months after being convicted of drug offences](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Benone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Benone")](https://www.derrynow.com/news/county-derry-post/1658546/full-house-as-residents-and-stakeholders-gather-to-discuss-future-of-benone-holiday-and-leisure-park-complex.html)
 
 Benone
@@ -338,6 +317,27 @@ Benone
 
 [Full house as residents and stakeholders gather to discuss future of Benone Holiday and Leisure Park Complex](https://www.derrynow.com/news/county-derry-post/1658546/full-house-as-residents-and-stakeholders-gather-to-discuss-future-of-benone-holiday-and-leisure-park-complex.html)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![County Derry woman jailed for 12 months after being convicted of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman jailed for 12 months after being convicted of drug offences")](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[County Derry woman jailed for 12 months after being convicted of drug offences](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'")](https://www.derrynow.com/story-telling/pictures---videos/1657936/in-pictures-richmond-centre-welcomes-arrival-of-santa-and-cast-of-aladdin.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Richmond Centre welcomes arrival of Santa and cast of 'Aladdin'](https://www.derrynow.com/story-telling/pictures---videos/1657936/in-pictures-richmond-centre-welcomes-arrival-of-santa-and-cast-of-aladdin.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ADVERTISEMENT - CONTINUE READING BELOW
 
@@ -517,6 +517,13 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
+[![Derry Death Notices - Tuesday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Tuesday")](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Tuesday, November 19, 2024](https://www.derrynow.com/news/deaths/1658747/derry-death-notices-tuesday-november-19-2024.html)
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)")](https://www.derrynow.com/news/gaa/1658800/merciless-magherafelt-waltz-into-ulster-u16-club-championship-semi-final.html)
 
 Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)
@@ -526,7 +533,7 @@ Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)
 [Merciless Magherafelt waltz into Ulster U16 Club Championship semi final](https://www.derrynow.com/news/gaa/1658800/merciless-magherafelt-waltz-into-ulster-u16-club-championship-semi-final.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Fire crews currently attending vehicle fire close to Claudy village](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fire crews currently attending vehicle fire close to Claudy village")](https://www.derrynow.com/news/home/1658946/fire-crews-currently-attending-vehicle-fire-close-to-claudy-village.html)
+[![Fire crews currently attending vehicle fire close to Claudy village](https://www.derrynow.com/resizer/165/93/true/__GHOST_URL__/northdevon/content/images/2022/10/imgID585303_reduced.jpg--.jpg "Fire crews currently attending vehicle fire close to Claudy village")](https://www.derrynow.com/news/home/1658946/fire-crews-currently-attending-vehicle-fire-close-to-claudy-village.html)
 
 Fire fighters are currently at the scene.
 
@@ -559,15 +566,6 @@ Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)
 
 [The long winding road for Derry from Mickey Harte to Paddy Tally](https://www.derrynow.com/news/derry-news/1658306/the-long-winding-road-for-derry-from-mickey-harte-to-paddy-tally.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![ALERT: Women warned to be vigilant following 'strange' man sighting](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Screenshot_2024-11-18_123910-1731933605844.png--.png?1731933605931 "ALERT: Women warned to be vigilant following 'strange' man sighting")](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
-
-Image: Pixabay
-
-[Home](https://www.derrynow.com/)
-
-[ALERT: Derry women warned to be vigilant following strange man sightings](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
