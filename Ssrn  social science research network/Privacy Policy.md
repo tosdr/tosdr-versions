@@ -374,6 +374,17 @@ When you create a [Researchfish opens in new tab/window](https://app.researchfi
 
 When you create or confirm an Interfolio Dossier account, certain personal information is required, such as your name and email address. You may add other information such as your contact details, work history, experience, education, interests, writing samples, transcripts, letters of recommendation, and cover letters. Your university may also create an Interfolio Dossier account for you. For guidance on how to manage your account, and the materials and information shared through your account, please visit [https://product-help.interfolio.com/en\_US/about-dossier-accounts opens in new tab/window](https://product-help.interfolio.com/en_US/about-dossier-accounts).
 
+| Local language |
+| --- |
+| [Datenschutzrichtlinie opens in new tab/window](https://www.elsevier.com/de-de/legal/privacy-policy) |
+| [Política de privacidad opens in new tab/window](https://www.elsevier.com/es-es/legal/privacy-policy) |
+| [Política de Privacidade opens in new tab/window](https://www.elsevier.com/pt-br/legal/privacy-policy) |
+| [Politique de protection des données personnelles opens in new tab/window](https://www.elsevier.com/fr-fr/legal/privacy-policy) |
+| [プライバシーポリシー（個人情報保護方針） opens in new tab/window](https://www.elsevier.com/ja-jp/legal/privacy-policy) |
+| [隐私政策 opens in new tab/window](https://www.elsevier.com/zh-cn/legal/privacy-policy) |
+| [隱私權政策 opens in new tab/window](https://www.elsevier.com/zh-tw/legal/privacy-policy) |
+| [개인정보보호정책 opens in new tab/window](https://www.elsevier.com/ko-kr/legal/privacy-policy) |
+
 Useful links
 
 * [Submit your paper](https://www.elsevier.com/researcher/author/submit-your-paper)
