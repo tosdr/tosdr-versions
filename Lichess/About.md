@@ -82,7 +82,7 @@ A site the size of Lichess requires many people to maintain it. It also [require
 * [Telegram](https://t.me/lichessdotorg)
 * [WhatsApp](https://whatsapp.com/channel/0029VaDXYlD2f3ENRMZQHF0K)
 * [TikTok](https://www.tiktok.com/@lichessdotorg)
-* [Bluesky](https://staging.bsky.app/profile/lichess.bsky.social)
+* [Bluesky](https://bsky.app/profile/lichess.org)
 * [Mobile app for iOS](https://itunes.apple.com/us/app/lichess-online-chess/id968371784?mt=8)
 * [Mobile app for Android](https://play.google.com/store/apps/details?id=org.lichess.mobileapp)
 * [New mobile app BETA for Android](https://play.google.com/store/apps/details?id=org.lichess.mobileV2)
