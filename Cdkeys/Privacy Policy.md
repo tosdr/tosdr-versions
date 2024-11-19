@@ -556,19 +556,47 @@ You are seeing games that are valid in your region which is ‘%1’. If you wan
 
 To view games that are valid in your region ‘%1’, click here
 
-1.    [![Hearts of Iron IV: Götterdämmerung Expansion PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/hearts_of_iron_iv_gtng.png)   No 1. \-47%
+1.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 1. \-62%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
     
-    DLC](https://www.cdkeys.com/pc/hearts-of-iron-iv-gotterdammerung-expansion-pc-dlc-steam)
+    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
     
-    **[Hearts of Iron IV: Götterdämmerung Expansion PC - DLC](https://www.cdkeys.com/pc/hearts-of-iron-iv-gotterdammerung-expansion-pc-dlc-steam "Hearts of Iron IV: Götterdämmerung Expansion PC - DLC")**
-    
-    Special Price $20.99 RRP $39.79
+    Special Price $26.79 RRP $70.09
     
     [Add to Wish List](# "Add to Wish List")
     
      Buy Now
     
-2.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 2. \-22%
+2.    [![Metro Exodus - Gold Edition PC ](https://cdn.cdkeys.com/245x340/media/catalog/product/b/a/base_1__2_1.png)   No 2. \-96%](https://www.cdkeys.com/pc/metro-exodus-gold-edition-pc)
+    
+    **[Metro Exodus - Gold Edition PC](https://www.cdkeys.com/pc/metro-exodus-gold-edition-pc "Metro Exodus - Gold Edition PC ")**
+    
+    Special Price $3.39 RRP $76.49
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+3.    [![SILENT HILL 2 - Digital Deluxe PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/i/silent_hill_2_-_digital_deluxe.jpg)   No 3. \-41%](https://www.cdkeys.com/pc/silent-hill-2-digital-deluxe-pc-steam)
+    
+    **[SILENT HILL 2 - Digital Deluxe PC](https://www.cdkeys.com/pc/silent-hill-2-digital-deluxe-pc-steam "SILENT HILL 2 - Digital Deluxe PC")**
+    
+    Special Price $52.89 RRP $89.19
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+4.    [![V Rising PC](https://cdn.cdkeys.com/245x340/media/catalog/product/r/o/roblox-card-10-800-robux-800-robux-pc-game-cover_12_.jpg)   No 4. \-63%](https://www.cdkeys.com/pc/v-rising-pc-steam)
+    
+    **[V Rising PC](https://www.cdkeys.com/pc/v-rising-pc-steam "V Rising PC")**
+    
+    Special Price $16.59 RRP $44.59
+    
+    [Add to Wish List](# "Add to Wish List")
+    
+     Buy Now
+    
+5.    [![S.T.A.L.K.E.R. 2: Heart of Chornobyl PC (EU & North America)](https://cdn.cdkeys.com/245x340/media/catalog/product/h/e/heart_of_chornobyl.jpg)   No 5. \-22%
     
     Pre-order](https://www.cdkeys.com/pc/s-t-a-l-k-e-r-2-heart-of-chernobyl-pc-steam)
     
@@ -580,63 +608,11 @@ To view games that are valid in your region ‘%1’, click here
     
      Buy Now
     
-3.    [![Marvel's Spider-Man: Miles Morales PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/fadad.jpg)   No 3. \-59%](https://www.cdkeys.com/pc/marvel-s-spider-man-miles-morales-pc-steam)
+6.    [![Farming Simulator 25 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/a/farming_simulator_25.jpg)   No 6. \-32%](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam)
     
-    **[Marvel's Spider-Man: Miles Morales PC](https://www.cdkeys.com/pc/marvel-s-spider-man-miles-morales-pc-steam "Marvel's Spider-Man: Miles Morales PC")**
+    **[Farming Simulator 25 PC](https://www.cdkeys.com/pc/farming-simulator-25-pc-steam "Farming Simulator 25 PC")**
     
-    Special Price $20.99 RRP $50.99
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-4.    [![Marvel's Spider-Man Remastered PC](https://cdn.cdkeys.com/245x340/media/catalog/product/s/g/sgvsvsfv.jpg)   No 4. \-58%](https://www.cdkeys.com/pc/marvel-s-spider-man-remastered-pc-steam)
-    
-    **[Marvel's Spider-Man Remastered PC](https://www.cdkeys.com/pc/marvel-s-spider-man-remastered-pc-steam "Marvel's Spider-Man Remastered PC")**
-    
-    Special Price $26.49 RRP $63.69
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-5.    [![TEKKEN 8 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/n/e/new_project_-_2023-08-28t100027.863.jpg)   No 5. \-62%](https://www.cdkeys.com/pc/tekken-8-pc-steam)
-    
-    **[TEKKEN 8 PC](https://www.cdkeys.com/pc/tekken-8-pc-steam "TEKKEN 8 PC")**
-    
-    Special Price $26.79 RRP $70.09
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-6.    [![Frostpunk 2 PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/r/frostpunk_2_1.jpg)   No 6. \-47%](https://www.cdkeys.com/pc/frostpunk-2-pc-steam)
-    
-    **[Frostpunk 2 PC](https://www.cdkeys.com/pc/frostpunk-2-pc-steam "Frostpunk 2 PC")**
-    
-    Special Price $25.49 RRP $48.39
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-7.    [![Destiny 2: The Final Shape PC - DLC](https://cdn.cdkeys.com/245x340/media/catalog/product/1/4/14161265.jpg)   No 7. \-57%
-    
-    DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam)
-    
-    **[Destiny 2: The Final Shape PC - DLC](https://www.cdkeys.com/pc/destiny-2-the-final-shape-pc-dlc-steam "Destiny 2: The Final Shape PC - DLC")**
-    
-    Special Price $22.89 RRP $53.49
-    
-    [Add to Wish List](# "Add to Wish List")
-    
-     Buy Now
-    
-8.    [![Crusader Kings III PC](https://cdn.cdkeys.com/245x340/media/catalog/product/f/i/fifa-22-pc-game-origin-cover_52__1.jpg)   No 8. \-80%](https://www.cdkeys.com/pc/crusader-kings-iii-3-pc-steam)
-    
-    **[Crusader Kings III PC](https://www.cdkeys.com/pc/crusader-kings-iii-3-pc-steam "Crusader Kings III PC")**
-    
-    Special Price $10.79 RRP $53.49
+    Special Price $36.29 RRP $53.49
     
     [Add to Wish List](# "Add to Wish List")
     
