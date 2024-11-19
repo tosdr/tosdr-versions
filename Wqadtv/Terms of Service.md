@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_16x9.jpg) ![](https://media.tegna-media.com/assets/KFMB/images/844b19f4-1a5b-4264-88b0-0ef63d59f21d/844b19f4-1a5b-4264-88b0-0ef63d59f21d_360x203.jpg)](https://www.wqad.com/article/news/crime/davenport-woman-police-car-fire/526-04b07e65-98ee-44f6-bf7c-861e92252c8f)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/ec4d94cd-d147-4eaf-b153-a59af32e7d8f/20241119T005715/ec4d94cd-d147-4eaf-b153-a59af32e7d8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ec4d94cd-d147-4eaf-b153-a59af32e7d8f/20241119T005715/ec4d94cd-d147-4eaf-b153-a59af32e7d8f_360x203.jpg)](https://www.wqad.com/article/news/local/alpha-delta-phi-fraternity-iowa-city-alleged-hazing/526-81910aaf-e08f-4a28-a5b4-edeac2b4dbf3)
         
-        #### [Davenport woman accused of trying to set police car on fire](https://www.wqad.com/article/news/crime/davenport-woman-police-car-fire/526-04b07e65-98ee-44f6-bf7c-861e92252c8f)
+        #### [University of Iowa police find 56 fraternity pledges blindfolded in potential hazing incident](https://www.wqad.com/article/news/local/alpha-delta-phi-fraternity-iowa-city-alleged-hazing/526-81910aaf-e08f-4a28-a5b4-edeac2b4dbf3)
         
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/c52efea4-9a5d-463f-b21a-067466d3731c/20241118T204406/c52efea4-9a5d-463f-b21a-067466d3731c_360x203.jpg)](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/82249c2f-5221-4cee-8a44-238c833e4737/20241118T221327/82249c2f-5221-4cee-8a44-238c833e4737_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/82249c2f-5221-4cee-8a44-238c833e4737/20241118T221327/82249c2f-5221-4cee-8a44-238c833e4737_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/davenport-riverview-terrace-park-renovations-mixed-emotions/526-699c808a-c15b-42bd-8f01-3ee7543ac1b8)
         
-        #### [Enter to win a new snowblower this winter from WQAD and Petersen Plumbing](https://www.wqad.com/article/news/local/contests/enter-to-win-a-new-snowblower-this-winter-from-wqad-and-petersen-plumbing/526-91822e86-bad7-4d2b-9c18-a26bfd2a4968)
+        #### [Mixed emotions over renovations coming to Riverview Terrace Park in Davenport](https://www.wqad.com/article/news/local/infrastructure/davenport-riverview-terrace-park-renovations-mixed-emotions/526-699c808a-c15b-42bd-8f01-3ee7543ac1b8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9/20241118T131423/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9/20241118T131423/d5ff29ef-1ac5-4e9a-a714-72479a4a06b9_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/9c576326-309e-42ef-b225-b95f7264b0dd/20241118T230602/9c576326-309e-42ef-b225-b95f7264b0dd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9c576326-309e-42ef-b225-b95f7264b0dd/20241118T230602/9c576326-309e-42ef-b225-b95f7264b0dd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [More rain to come, could be heavy in spots tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [More rain to come, increasing wind tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
@@ -86,9 +86,9 @@ Navigation
 
 Davenport, IA »
 
-61°
+62°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
 Davenport, IA »](https://www.wqad.com/weather)
 
