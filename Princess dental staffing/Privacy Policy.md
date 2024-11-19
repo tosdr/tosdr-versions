@@ -29,7 +29,7 @@ Privacy Policy
 
 * * *
 
-_Last updated: November 15, 2024_
+_Last updated: November 18, 2024_
 
 Princess Dental Staffing offers various services to help its users find dental staff and coordinate dental employment opportunities in the dental community. Princess Dental Staffing’s Privacy Policy ("Privacy Policy") is designed to explain the information we collect and how we use it to provide our services and give users a better experience. It applies to any users of [www.PrincessDentalStaffing.com](https://www.princessdentalstaffing.com/) and any web pages, mobile applications and mobile websites operated by Princess Dental Staffing (collectively, the "Site"), including those who are seeking to find dental professionals through Princess Dental Staffing ("Employers") as well as those who are looking to promote their profiles through Princess Dental Staffing ("Candidates"), and any users of any of the various services that Princess Dental Staffing or its subsidiaries provide through the Site or any other channels, including over the telephone (collectively, "Services"). Please note that certain of our subsidiaries have separate privacy policies.
 
@@ -284,30 +284,45 @@ If you no longer wish to participate in our Services, you may inactivate your ac
 
 If you inactivate your Princess Dental Staffing account, we will remove your name and other contact and identifiable information from our publicly viewable database. If you inactivate your account, we have no obligation to retain your information, and may delete any or all of your account information without liability. However, we may retain information related to you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, de-identified information, account recovery, auditing our records, enforcing our rights and obligations under our agreements, or if required by law. Princess Dental Staffing may also retain and use your information if necessary to provide the Services to other Registered Users. For example, just as an email you may send to another person through an email service provider resides in that person’s inbox even after you delete it from your sent files or close your account, emails you send through Princess Dental Staffing to other Users, as well as your contributions to Princess Dental Staffing groups, may remain visible to others after you have closed your account. Similarly, other information you have shared with others, or that others have copied, may also remain visible. Princess Dental Staffing disclaims any liability in relation to the deletion or retention (subject to the terms herein) of information, or any obligation not to delete the information. Princess Dental Staffing does not control when search engines update their search index or cache, which may contain certain job posts, profiles or other information that have since been removed from Princess Dental Staffing’s Site.
 
-VII. Collection of Information from Children
---------------------------------------------
+VII. Your Data Protection Rights
+--------------------------------
+
+You have numerous rights in connection with your personal information and how we handle it, i.e to access, correct, update or request deletion, object the processing, restrict processing, request portability, withdraw your consent and right to file a complaint.
+
+Your rights:
+
+* To access, correct, update or request deletion of your personal information. You may do so by contacting us at [info@princessdentalstaffing.com](mailto:info@princessdentalstaffing.com).
+* To object to the processing of your personal information, ask us to restrict the processing of your personal information or request portability of your personal information. You may do so by contacting us [info@princessdentalstaffing.com](mailto:info@princessdentalstaffing.com).
+* If we are processing your personal information with your consent, you can withdraw your consent at any time. Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect the processing of your personal information conducted pursuant to lawful processing grounds other than consent. You may do so by contacting us at [info@princessdentalstaffing.com](mailto:info@princessdentalstaffing.com).
+* You have the right to file a complaint with a data protection authority about our collection and use of your personal information. For more information, please contact your local data protection authority.
+* You can control and limit the type of personal information we collect and process about you in a number of ways. For example, you can disconnect your social media account(s) from your account or control your social media privacy settings to limit the information shared with us. You can also reset your mobile advertising identifier or limit ad tracking altogether using the settings on your phone. You can also limit or disable the use of cookies (or similar technologies).
+
+We will respond to all requests we receive from individuals wishing to exercise their data protection rights in accordance with applicable data protection laws.
+
+VIII. Collection of Information from Children
+---------------------------------------------
 
 Princess Dental Staffing’s Site and Services are not intended for individuals under the age of 14. Moreover, if we become aware that we have collected personal information (as defined by the Children’s Online Privacy Protection Act) from children under the age of 13, we will take reasonable steps to delete it as soon as practicable.
 
-VIII. How We Protect Information
---------------------------------
+IX. How We Protect Information
+------------------------------
 
 We have implemented a variety of administrative, technical, and physical security measures to protect against the unauthorized access, destruction, or alteration of your information. These safeguards vary based on the sensitivity of information that we collect, process, and store and the current state of technology.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot guarantee that information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
-IX. Links to Other Websites
----------------------------
+X. Links to Other Websites
+--------------------------
 
 The Site and Services may contain links to third-party websites and services. However, we are not responsible for the privacy practices employed by those web sites or services, nor are we responsible for the information or content they contain. This Privacy Policy applies solely to information collected by us through the Site and Services; thus when you use a link to go from the Site or Services to a third-party web site or service, this policy is no longer in effect and the privacy policy of such third-party site or service will govern.
 
-X. Changes to Our Privacy Policy
---------------------------------
+XI. Changes to Our Privacy Policy
+---------------------------------
 
 Princess Dental Staffing reserves the right to change this Privacy Policy and our [Terms of Use](https://www.princessdentalstaffing.com/terms) at any time. We will notify you about and provide you with choice about material changes to this Privacy Policy or in our practices as required by applicable law. Material changes will go into effect 30 days after we notify. Non-material changes or clarifications will take effect immediately upon posting of the updated policy on our Site. You should periodically check https://www.princessdentalstaffing.com/privacy for updates. Your use of the Site or the Services after such effective date will constitute acceptance by you of such changes.
 
-XI. Privacy Information for California Residents
-------------------------------------------------
+XII. Privacy Information for California Residents
+-------------------------------------------------
 
 If you are a California resident, California law requires us to provide you with some additional information regarding how we collect, use, and share your "personal information" (as defined in the California Consumer Privacy Act ("CCPA")).
 
@@ -352,13 +367,13 @@ The CCPA further provides you with the right to not be discriminated against (as
 
 The California "Shine the Light" law gives residents of California the right under certain circumstances to request information from us regarding the manner in which we share certain categories of personal information (as defined in the Shine the Light law) with third parties for their direct marketing purposes. We do not share your personal information with third parties for their own direct marketing purposes.
 
-XII. Privacy Information for Nevada Residents
----------------------------------------------
+XIII. Privacy Information for Nevada Residents
+----------------------------------------------
 
 Under Nevada law, certain Nevada consumers may opt out of the sale of "personally identifiable information" for monetary consideration (as such terms are defined under Nevada law) to a person for that person to license or sell such information to additional persons. If you are a Nevada resident and you have purchased services or products from us, you may submit a request to opt out of any potential future sales under Nevada law by contacting us via e-mail at [info@princessdentalstaffing.com](mailto:info@princessdentalstaffing.com). Please note we may take reasonable steps to verify your identity and the authenticity of the request.
 
-XIII. Contact Us
-----------------
+XIV. Contact Us
+---------------
 
 If you have any questions on our Privacy Policy, you can contact us via email at [info@princessdentalstaffing.com](mailto:info@princessdentalstaffing.com) or at:
 
@@ -504,7 +519,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-257707)
+Don’t have an account? [Sign up](#sign-up-582183)
 
 Sign up for an account
 
@@ -522,7 +537,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-257707)
+Already have an account? [Sign in](#sign-in-582183)
 
 Log in to your account
 
@@ -542,7 +557,7 @@ Remember sign in for 60 days
 
 * * *
 
-Don’t have an account? [Sign up](#sign-up-845545)
+Don’t have an account? [Sign up](#sign-up-146747)
 
 Sign up for an account
 
@@ -560,7 +575,7 @@ By registering, you acknowledge you've read and agree to the [Terms and Conditio
 
 * * *
 
-Already have an account? [Sign in](#sign-in-845545)
+Already have an account? [Sign in](#sign-in-146747)
 
 Success
 
