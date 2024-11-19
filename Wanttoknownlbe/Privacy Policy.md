@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/nieuws/trump-laat-pelosi-even-zien-wie-de-baas-is/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/een-wankele-werkelijkheid/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
