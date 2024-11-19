@@ -335,15 +335,15 @@ Advertise
 [Rich List](https://www.afr.com/rich-list)
 ------------------------------------------
 
-[![Laurence Escalante built Virtual Gaming Worlds into a multibillion-dollar business. ](https://static.ffx.io/images/$zoom_0.3151%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_95%2C$y_120/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/1991178d80a757a1cc5836acaf37a7a27662aef9)](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
+[![Doug Rathbone is a small shareholder and chairman of Delta Ag, which has been bought out by Elders Ltd in a $475m deal. He also owns luxury wine brands Yering Station, Mount Langi Ghiran and Xanadu. ](https://static.ffx.io/images/$zoom_0.3433%2C$multiply_3%2C$ratio_1.777778%2C$width_1059%2C$x_234%2C$y_188/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/c1140337c8be25830bdfab273f3e7d9b8bf06889)](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
 
-### [Laurence Escalante’s VGW bulks up exec ranks as casinos bristle](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
+### [Nufarm entrepreneur Doug Rathbone a winner in $475m Elders buyout](https://www.afr.com/companies/agriculture/nufarm-entrepreneur-doug-rathbone-a-winner-in-475m-elders-buyout-20241119-p5krr8)
 
-* Primrose Riordan and Zoe Samios
+* Simon Evans
 
-* ### [‘If we lose everything, we can just get a regular job’](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
+* ### [Laurence Escalante’s VGW bulks up exec ranks as casinos bristle](https://www.afr.com/companies/games-and-wagering/laurence-escalante-s-vgw-bulks-up-exec-ranks-as-casinos-bristle-20241117-p5kr9f)
     
-* ### [Goodman suffers first strike against pay despite 75pc return](https://www.afr.com/property/commercial/goodman-suffers-first-strike-against-pay-despite-75pc-return-20241114-p5kqiv)
+* ### [‘If we lose everything, we can just get a regular job’](https://www.afr.com/wealth/people/why-this-founder-is-investing-70m-in-start-ups-20240808-p5k0q9)
     
 
 [The Australian Financial Review](https://www.afr.com/)
