@@ -87,23 +87,26 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
         * [Archaeology](https://www.sciencenews.org/topic/archaeology)
         * [Psychology](https://www.sciencenews.org/topic/psychology)
-    * * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+    * Recent posts in Humans
+        ----------------------
+        
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
+            
+            ### [Vaccines, fluoride, raw milk: How RFK Jr.’s views may shape public health](https://www.sciencenews.org/article/rfk-vaccines-fluoride-autism-milk-covid)
+            
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")3 hours ago
+            
+        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Youth tobacco use has gone down, but the work isn’t over](https://www.sciencenews.org/article/cigarette-vaping-nicotine-tobacco-youth)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")1 hour ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")7 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Keeping weight off may be stymied by fat cells’ ‘memory’ of obesity](https://www.sciencenews.org/article/weight-loss-obesity-fat-memory-cells)
             
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")23 hours ago
-            
-        * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
-            
-            ### [50 years ago, U.S. drinking water sparked health and safety concerns](https://www.sciencenews.org/article/drinking-water-carcinogens-update)
-            
-            By [Karen Kwon](https://www.sciencenews.org/author/karen-kwon "Posts by Karen Kwon")November 15, 2024
+            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 18, 2024
             
 * [Life](https://www.sciencenews.org/topic/life)
     * [Life](https://www.sciencenews.org/topic/life)
@@ -114,7 +117,16 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
         * [Genetics](https://www.sciencenews.org/topic/genetics)
         * [Microbes](https://www.sciencenews.org/topic/microbes)
-    * * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
+    * Recent posts in Life
+        --------------------
+        
+        * [Life](https://www.sciencenews.org/topic/life)
+            
+            ### [Clams use fiber optics to channel sunlight to symbiotic algae](https://www.sciencenews.org/article/clam-fiber-optics-symbiotic-algae)
+            
+            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")5 hours ago
+            
+        * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
             ### [Some people don’t have a mind’s eye. Scientists want to know why](https://www.sciencenews.org/article/minds-eye-brain-aphantasia-imagination)
             
@@ -126,19 +138,16 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 15, 2024
             
-        * [Animals](https://www.sciencenews.org/topic/animals)
-            
-            ### [Stray DNA is all around us. It could revolutionize conservation](https://www.sciencenews.org/article/edna-environmental-conservation)
-            
-            By [Erin Garcia de Jesús](https://www.sciencenews.org/author/erin-garcia-de-jesus "Posts by Erin Garcia de Jesús")November 14, 2024
-            
 * [Earth](https://www.sciencenews.org/topic/earth)
     * [Earth](https://www.sciencenews.org/topic/earth)
         * [Agriculture](https://www.sciencenews.org/topic/agriculture)
         * [Climate](https://www.sciencenews.org/topic/climate)
         * [Oceans](https://www.sciencenews.org/topic/oceans)
         * [Environment](https://www.sciencenews.org/topic/environment)
-    * * [Oceans](https://www.sciencenews.org/topic/oceans)
+    * Recent posts in Earth
+        ---------------------
+        
+        * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
             
@@ -161,7 +170,10 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Materials Science](https://www.sciencenews.org/topic/materials-science)
         * [Quantum Physics](https://www.sciencenews.org/topic/quantum-physics)
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
-    * * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
+    * Recent posts in Physics
+        -----------------------
+        
+        * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
             ### [Accelerated muons bring next-gen particle colliders closer to reality](https://www.sciencenews.org/article/accelerated-muons-particle-colliders)
             
@@ -184,7 +196,10 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
         * [Astronomy](https://www.sciencenews.org/topic/astronomy)
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
         * [Cosmology](https://www.sciencenews.org/topic/cosmology)
-    * * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
+    * Recent posts in Space
+        ---------------------
+        
+        * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
             ### [A first look at rocks from the lunar farside create a volcanic mystery](https://www.sciencenews.org/article/first-look-rocks-lunar-volcanic-mystery)
             
