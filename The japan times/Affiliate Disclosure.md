@@ -20,7 +20,7 @@ link policy
 
  ![Search](/theme_japantimes/images/search_icon.svg)
 
-[November 19, 2024](https://www.japantimes.co.jp/archive/2024/11/19/ "archive page")
+[November 20, 2024](https://www.japantimes.co.jp/archive/2024/11/20/ "archive page")
 
  [![The Japan Times](/theme_japantimes/images/logo-white-2.png)](https://www.japantimes.co.jp/ "The Japan Times")
 
@@ -131,9 +131,9 @@ If you would like to quote more than 20 percent of an article, please contact us
 
 * Editors' Picks
 
-[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
-  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
 [Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
 
@@ -147,20 +147,18 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434627.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ")](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
 
-[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+[Japan ministry launches website to estimate alcohol breakdown time](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
 
-  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+  [![A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434684.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed")](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
 
 Editors' Picks
 --------------
 
-[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan ranked 31st in digital competitiveness, 92nd for English skills](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
-By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kazuaki Nagata")  
-
-  [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
+  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
@@ -188,9 +186,11 @@ By [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
-[Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+[Japan ministry launches website to estimate alcohol breakdown time](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
 
-  [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
+By [Kathleen Benoza](https://www.japantimes.co.jp/author/4167/kathleen-benoza/ "Kathleen Benoza")  
+
+  [![A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434684.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A screenshot of a health ministry website that allows people to easily calculate the amount of time it takes for their body to break down the alcohol they have consumed")](https://www.japantimes.co.jp/news/2024/11/18/japan/science-health/japan-alcohol-watch/ "Japan ministry launches website to estimate alcohol breakdown time")
 
 Podcast
 -------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Former minister Daishiro Yamagiwa named to lead LDP semiconductor group](https://www.japantimes.co.jp/business/2024/11/19/economy/japan-ldp-new-chip-czar/ "Former minister Daishiro Yamagiwa named to lead LDP semiconductor group")
-
-1 hour ago
-
-[Ukraine ambassador warns of Russian military tech transfers to North Korea](https://www.japantimes.co.jp/news/2024/11/19/world/politics/north-korean-troops-kursk-dangerous-development/ "Ukraine ambassador warns of Russian military tech transfers to North Korea")
-
-1 hour ago
-
-[Nippon Steel claims union 'misinformation' in battle for U.S. Steel](https://www.japantimes.co.jp/business/2024/11/19/companies/nippon-steel-misinformation/ "Nippon Steel claims union 'misinformation' in battle for U.S. Steel")
-
-1 hour ago
-
-[Trump confirms plans to use the military to assist in mass deportations](https://www.japantimes.co.jp/news/2024/11/19/world/politics/trump-military-mass-deportations/ "Trump confirms plans to use the military to assist in mass deportations")
+[Ukraine hits Russia with U.S. ATACMS missiles for first time](https://www.japantimes.co.jp/news/2024/11/19/world/ukraine-us-missiles-russia-first-hit/ "Ukraine hits Russia with U.S. ATACMS missiles for first time")
 
 2 hours ago
 
-[Saitama high school apologizes for negligence leading to fatal car crash](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/saitama-school-car-rollover/ "Saitama high school apologizes for negligence leading to fatal car crash")
+[Mass casualty attacks in China put focus on mental health as economy slows](https://www.japantimes.co.jp/news/2024/11/19/asia-pacific/society/china-mass-attacks-society-health/ "Mass casualty attacks in China put focus on mental health as economy slows")
 
 2 hours ago
+
+[Car rams into students outside China primary school, hurting several people](https://www.japantimes.co.jp/news/2024/11/19/asia-pacific/crime-legal/china-car-ramming/ "Car rams into students outside China primary school, hurting several people")
+
+3 hours ago
+
+[Reelected Hyogo governor vows to serve with a 'humble heart'](https://www.japantimes.co.jp/news/2024/11/19/japan/politics/hyogo-governor-first-day-return/ "Reelected Hyogo governor vows to serve with a 'humble heart'")
+
+3 hours ago
+
+[Japan police arrest executive of group referring women to sex trade](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/japan-police-arrest-sex-trade-executive/ "Japan police arrest executive of group referring women to sex trade")
+
+4 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
