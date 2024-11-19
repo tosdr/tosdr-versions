@@ -12,7 +12,7 @@ Use Code : HDEALS20
     
 * [TRACK ORDER STATUS](https://www.budgetpetcare.com/orderstatus.aspx)
 
-[1-800-840-2008Mon-Sat 9 AM - 6 PM CST](tel:1-800-840-2008)
+[1-800-840-2008](tel:1-800-840-2008)
 
  [![Icon-Register](/images/icon-d/d-Icon-register.png) Register](https://www.budgetpetcare.com/customer_login.aspx) [![Icon-Login](/images/icon-d/d-Icon-login.png) Login](https://www.budgetpetcare.com/customer_login.aspx)
 
@@ -225,7 +225,11 @@ Subscribe for access to our best deals and offers. Get 10% Discount on first Ord
 * [Nexgard](https://www.budgetpetcare.com/nexgard-for-dogs/dog-flea-and-tick-treatment-318.aspx "Nexgard")
 * [Nexgard Spectra](https://www.budgetpetcare.com/nexgard-spectra-for-dogs/dog-flea-and-tick-treatment-325.aspx "Nexgard Spectra")
 
-![Icon-Phone](/images/icon-d/d-Icon-phone.png) [1-800-840-2008](tel:1-800-840-2008)Mon-Sat 9 AM - 6 PM CST
+[1-800-840-2008
+
+Mon - Fri. 7AM - 7PM PST
+
+Sat: 7AM - 4PM PST](tel:1-800-840-2008)
 
 ![icon-email](/images/icon-d/d-icon-email.png) [customerservice@BudgetPetCare.com](mailto:customerservice@BudgetPetCare.com)
 
