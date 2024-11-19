@@ -31,8 +31,8 @@
 [Menu](#)
 
 * [Home](https://www.foxnews.com/)
+* [Trump Transition](https://www.foxnews.com/category/politics/elections/presidential/trump-transition)
 * [Politics](https://www.foxnews.com/politics)
-* [Democracy '24](https://www.foxnews.com/elections)
 * [Media](https://www.foxnews.com/media)
 * [Opinion](https://www.foxnews.com/opinion)
 
