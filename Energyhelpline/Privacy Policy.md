@@ -48,7 +48,6 @@
     * [British Gas](https://www.energyhelpline.com/british-gas)
     * [SSE Business](https://www.energyhelpline.com/sse)
     * [Crown Gas & Power](https://www.energyhelpline.com/crown-gas-power)
-    * [Total Energies](https://www.energyhelpline.com/total-energies)
     * [Smartest Energy](https://www.energyhelpline.com/smartestenergy)
     * [Valda Energy](https://www.energyhelpline.com/valda-energy)
     * [Ovo Energy](https://www.energyhelpline.com/ovo-energy)
