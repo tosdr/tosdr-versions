@@ -112,21 +112,21 @@ All the issues and problems will be resolved pursuant to our Japanese Terms of U
 
 [![Disney Plus](//i0.wp.com/saiganak.com/wp-content/uploads/2023/03/banner_disneyplus_336x280a.jpg)](https://accesstra.de/0050f1000ymk)
 
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/redbull-white-edition-00-150x150.jpg)
+    
+    "RedBull THE WHITE EDITION Fresh Breeze" limited term appeared!](https://saiganak.com/review/redbull-te-white-edition-fresh-breeze/)
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/08/neogeo-mini-limited-set-kuroko-00-150x150.jpg)
+    
+    "Kuroko version"appeared in "NEOGEO mini SamuSpi"!](https://saiganak.com/product/neogeo-mini-limited-set-kuroko/)
+* [![](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/trials-of-mana-demo-play-00-150x150.jpg)
+    
+    "TRIALS of MANA" Trial Version Review! Immersion in a story!](https://saiganak.com/review/trials-of-mana-demo-play/)
 * [![【Showdown Edition】Review ](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/03/neogeo-arcade-stick-pro-use-impression-00-1-150x150.jpg "【Showdown Edition】Review ")
     
     【Showdown Edition】Review "NEOGEO Arcade Stick PRO"!](https://saiganak.com/review/neogeo-arcade-stick-pro-use-impression/ "【Showdown Edition】Review ")
-* [![Coca-Cola energy drinks are here! How is the taste?](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/07/cocacola-energy-0-150x150.jpg "Coca-Cola energy drinks are here! How is the taste?")
+* [!['SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!](https://i0.wp.com/saiganak.com/wp-content/uploads/2020/05/survivor-energy-drink-testing-00-150x150.jpg "'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!")
     
-    Coca-Cola energy drinks are here! How is the taste?](https://saiganak.com/review/cocacola-energy-review/ "Coca-Cola energy drinks are here! How is the taste?")
-* [![From April Fool's Joke to Reality: Razer's New Energy Drink](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/06/razer-respawn-release00-1-150x150.jpg "From April Fool's Joke to Reality: Razer's New Energy Drink")
-    
-    From April Fool's Joke to Reality: Razer's New Energy Drink](https://saiganak.com/product/razer-respawn-release/ "From April Fool's Joke to Reality: Razer's New Energy Drink")
-* [![8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://i0.wp.com/saiganak.com/wp-content/uploads/2023/07/8bitdo-neogeo-wireless-controller-release-00-150x150.jpg "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-    
-    8BitDo's NEOGEO Wireless Controller comes with official SNK license!](https://saiganak.com/product/8bitdo-neogeo-wireless-controller-release/ "8BitDo's NEOGEO Wireless Controller comes with official SNK license!")
-* [![SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://i0.wp.com/saiganak.com/wp-content/uploads/2019/12/snk-okinawa-charity-tshirt-00-150x150.jpg "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
-    
-    SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!](https://saiganak.com/product/snk-okinawa-charity-tshirt/ "SNK sells charity T-shirts for rebuilding Shuri-Jo Castle!")
+    'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!](https://saiganak.com/review/survivor-energy-drink-testing/ "'SURVIVOR'! Energy Drink Available for 100 JPY (0.93 USD)!")
 
 [](#top)
 
