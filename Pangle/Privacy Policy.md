@@ -6,9 +6,15 @@
 
 [Resources](https://www.pangleglobal.com/resource)
 
-[Help Center](https://www.pangleglobal.com/knowledge)
+[Help Center](https://www.pangleglobal.com/helpcenter)
 
 [Brand Safety Center](https://www.pangleglobal.com/brandsafety)
+
+Log In
+
+Sign Up
+
+English
 
 [Home](https://www.pangleglobal.com/)
 
