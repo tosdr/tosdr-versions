@@ -12,11 +12,7 @@
 * [Blog](https://blog.pingperfect.com/)
 * [Rent a game server](#)
     * [| Choose a game...](https://pingperfect.com/game)
-    * * * *
-        
     * [| Location](https://pingperfect.com/locations)
-    * * * *
-        
     * [| Hardware](https://pingperfect.com/hardware)
 * [Dedicated Servers](#)
     * [| Dedicated Servers](https://pingperfect.com/dedicated-servers)
