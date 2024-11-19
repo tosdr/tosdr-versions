@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [FTC Announces Virtual Workshop on Predatory Pricing](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-announces-virtual-workshop-predatory-pricing)
+    ### [Federal Court Orders Harris Jewelry to Restore its Website and Claims Portal for Servicemembers to Request Refunds](https://www.ftc.gov/news-events/news/press-releases/2024/11/federal-court-orders-harris-jewelry-restore-its-website-claims-portal-servicemembers-request-refunds)
     
     November 18, 2024
     
@@ -235,11 +235,11 @@ Main Menu Mega
     Upcoming Event
     --------------
     
-    Nov18
+    Nov20
     
-    ### [Commissioner Bedoya remarks at NYU Wagner](https://www.ftc.gov/news-events/events/2024/11/commissioner-bedoya-remarks-nyu-wagner)
+    ### [Ex Parte Meeting on Unfair or Deceptive Fees NPRM between Commissioner Holyoak’s Office, Howard Beales, and Timothy Muris](https://www.ftc.gov/news-events/events/2024/11/ex-parte-meeting-unfair-or-deceptive-fees-nprm-between-commissioner-holyoaks-office-howard-beales)
     
-    Monday, November 18, 2024 | 5:30PM - 7:00PM
+    Wednesday, November 20, 2024 | 3:00PM
     
     [View more Events](https://www.ftc.gov/news-events/events)
     
