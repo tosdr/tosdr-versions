@@ -19,7 +19,7 @@ Main navigation
 
 * [Culture & Community](https://www.cityofgp.com/culture-community)
     * [About Grande Prairie](https://www.cityofgp.com/culture-community/about-grande-prairie)
-        * [Moving to Grande Prairie](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie)
+        * [Grande Prairie Guide](https://www.cityofgp.com/culture-community/about-grande-prairie/grande-prairie-guide)
         * [Grande Prairie – Vivre ici](https://www.cityofgp.com/culture-community/about-grande-prairie/grande-prairie-vivre-ici)
         * [City History](https://www.cityofgp.com/culture-community/about-grande-prairie/city-history)
         * [Economic Profile & Data](https://www.cityofgp.com/culture-community/about-grande-prairie/economic-profile-data)
@@ -263,7 +263,7 @@ Mobile Menu
 
 * [Culture & Community](https://www.cityofgp.com/culture-community)
     Back to Main Menu* [About Grande Prairie](https://www.cityofgp.com/culture-community/about-grande-prairie)
-        * [Moving to Grande Prairie](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie)
+        * [Grande Prairie Guide](https://www.cityofgp.com/culture-community/about-grande-prairie/grande-prairie-guide)
             * [Immigration (Rural Renewal Stream)](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie/immigration-rural-renewal-stream)
                 * [Information for Employers](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie/immigration-rural-renewal-stream-0)
                 * [Information for Candidates](https://www.cityofgp.com/culture-community/about-grande-prairie/moving-grande-prairie/immigration-rural-renewal-stream-1)
