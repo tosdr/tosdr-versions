@@ -3,7 +3,7 @@
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 * TV & Streaming
 * Audio
@@ -23,7 +23,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 #### S'informer
 
@@ -60,7 +60,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 * TV & Streaming
 * Audio
@@ -86,7 +86,7 @@ Retour
 * [Info](https://www.rts.ch/info/)
 * [Sport](https://www.rts.ch/sport/)
 * [Culture](https://www.rts.ch/info/culture/)
-* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-pietinent-a-bakou-avant-le-sommet-du-g20-et-l-arrivee-des-ministres-28693437.html)
+* [COP29](https://www.rts.ch/info/sciences-tech/environnement/2024/minute-par-minute/les-negociations-a-la-cop29-entrent-dans-le-dur-avec-en-vue-un-accord-d-ici-vendredi-28693437.html)
 
 #### S'informer
 
