@@ -1,4 +1,4 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZzuXvwoAAVEAAABc6RY)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZzvrnQoAAVEAAABco2I)
 
 Es noticia
 
@@ -6,11 +6,13 @@ Es noticia
 * [Felipe VI](https://www.elmundo.es/espana/2024/11/18/673b6786fc6c83f5618b457f.html)
 * [Nuria Montes](https://www.elmundo.es/comunidad-valenciana/2024/11/18/673b6f2efdddff41648b4589.html)
 * [Grand Prix](https://www.elmundo.es/television/2024/11/18/673b387fe85ececa698b458c.html)
+* [Impuesto Banca](https://www.elmundo.es/espana/2024/11/18/673b739efdddff6e138b459a.html)
 * [Antonio Noblejas](https://www.elmundo.es/comunidad-valenciana/2024/11/18/673b92a2fdddff3c358b45a1.html)
 * [Juan José Guemes](https://www.elmundo.es/espana/2024/11/18/673b3656fc6c8314128b456e.html)
 * [García Ortiz](https://www.elmundo.es/espana/2024/11/18/673b517d21efa044728b4588.html)
 * [Jero García](https://www.elmundo.es/madrid/2024/11/18/673615e7fc6c83e06f8b4589.html)
 * [José Mercé](https://www.elmundo.es/madrid/2024/11/17/6738b24521efa003038b4589.html)
+* [Muguruza](https://www.elmundo.es/pais-vasco/2024/11/18/673b61c721efa06e538b459f.html)
 * [Muface](https://www.elmundo.es/economia/2024/11/18/673b25c0fc6c83d25b8b45a1.html)
 * [Ana Rosa](https://www.elmundo.es/television/2024/11/18/673affbbe4d4d887598b4597.html)
 * [Inma del Moral](https://www.elmundo.es/loc/que-fue-de/2024/11/18/673b13cae4d4d8a4218b4581.html)
@@ -19,7 +21,6 @@ Es noticia
 * [Teresa Ribera](https://www.elmundo.es/espana/2024/11/18/673b54bfe4d4d8151f8b4590.html)
 * [Guerra Ucrania](https://www.elmundo.es/internacional/2024/11/18/673adb60a75cca8941701fc1-directo.html)
 * [Luces Navidad Barcelona](https://www.elmundo.es/cataluna/2024/11/18/673b206afc6c8356218b4597.html)
-* [España Suiza](https://www.elmundo.es/como/2024/11/18/673af5dee4d4d828238b4584.html)
 * [España - Países Bajos](https://www.elmundo.es/como/2024/11/18/673b2149fdddffe1528b4578.html)
 * [Copa Davis](https://www.elmundo.es/como/2024/11/18/673b07f021efa0a54f8b4583.html)
 * [Festivos Madrid 2024](https://www.elmundo.es/como/2024/03/25/66014a62e9cf4aea7a8b4576.html)
