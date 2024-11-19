@@ -116,7 +116,7 @@ Legal agreements for Klarna services
 
   
 
-[Pay now by card](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/paybycard)
+[Pay in full by card](https://cdn.klarna.com/1.0/shared/content/legal/terms/0/en_us/paybycard)
 
 **Purchase and delivery information**
 
