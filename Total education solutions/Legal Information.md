@@ -2,9 +2,9 @@
 
 [TES](https://www.tes.com/)
 
-* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
+* [Blog](https://www.tes.com/for-schools/blog)
     
-* [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
     
 * [Contact Us](https://www.tes.com/contact)
     
@@ -110,9 +110,9 @@ TES Close
     
 * [School Portal](https://www.tes.com/authn/select?rtn=https%3A//www.tes.com/schools/employers/school-chooser)
     
-* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
+* [Blog](https://www.tes.com/for-schools/blog)
     
-* [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
+* [Tes Awards for International Schools](https://www.tes.com/schools-awards)
     
 * [Contact Us](https://www.tes.com/contact)
     
@@ -462,7 +462,7 @@ Back to top
         
     * [Work for Tes](https://www.tes.com/corporate/work-for-tes)
         
-    * [Partners](https://www.tes.com/partners)
+    * [Partners](https://www.tes.com/corporate/partnerships)
         
     * [Legal Terms and Policies](https://www.tes.com/policies/overview)
         
@@ -518,18 +518,50 @@ Back to top
     
 * [Tes Institute](https://www.tes.com/institute) Open
     
-    * [For partners](https://www.tes.com/institute/partnerships)
+    * [Teacher training courses](https://www.tes.com/institute/courses)
         
-    * [For prospective teachers](https://www.tes.com/institute/courses/become-a-teacher)
+    * [SKE for teachers](https://www.tes.com/institute/courses/subject-knowledge-enhancement-teachers)
         
-    * [For schools](https://www.tes.com/institute/support-for-schools)
+    * [MA in Education with Pedagogy](https://www.tes.com/institute/courses/ma-education-pedagogy)
         
-    * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
+    * [Support for schools](https://www.tes.com/institute/support-for-schools)
         
     
 * [Advice Hub](https://www.tes.com/advice-hub) Open
     
+    * [Blog](https://www.tes.com/for-schools/blog)
+        
     * [Safeguarding](https://www.tes.com/advice-hub/safeguarding)
+        
+    * [Tes Live Lessons](https://www.tes.com/for-schools/live-lessons)
+        
+    
+* [Products](https://www.tes.com/for-schools) Open
+    
+    * [Tes Staff Management](https://www.tes.com/for-schools/staff-management)
+        
+    * [Tes Class Charts](https://www.tes.com/for-schools/class-charts)
+        
+    * [Tes Learning Pathways](https://www.tes.com/for-schools/learning-pathways)
+        
+    * [Tes Timetable](https://www.tes.com/for-schools/timetabling-edval)
+        
+    * [Tes Parents’ Meetings](https://www.tes.com/for-schools/parents-meetings)
+        
+    * [Tes Room Booking](https://www.tes.com/for-schools/room-booking)
+        
+    * [Tes Clubs and Events](https://www.tes.com/for-schools/clubs-and-events)
+        
+    
+* [Products](https://www.tes.com/for-schools) Open
+    
+    * [Tes Safeguarding Training](https://www.tes.com/for-schools/safeguarding-training)
+        
+    * [Tes MyConcern](https://www.tes.com/for-schools/myconcern)
+        
+    * [Tes Clarity](https://www.tes.com/for-schools/clarity)
+        
+    * [Tes Literacy Assessment Online](https://www.tes.com/for-schools/literacy-assessment)
         
     
 
