@@ -29,7 +29,7 @@
 
   
 
-[![antiwar.com shop logo](https://antiwar.com/donate/shop3.gif)](http://cafepress.com/antiwar)
+[![antiwar.com shop logo](https://antiwar.com/donate/shop2.gif)](http://cafepress.com/antiwar)
 
         
 
