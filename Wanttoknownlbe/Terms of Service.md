@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/een-zeer-indrukwekkend-interview-met-inelia-benz/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/gezond-12-jarig-meisje-sterft-na-hpv-vaccinatie/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
