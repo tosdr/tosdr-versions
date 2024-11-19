@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-360x180.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+    
+    ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+    
     [![There is free tuition and after-school activities (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-18-11-2024-at-17.28-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
     
     ### [New free youth club opens in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
@@ -51,10 +55,6 @@
     [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
     
     ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-    
-    [![The arches on America Street are opposite the America House apartment block. CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-1-360x180.jpg)](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
-    
-    ### [Comment: Promoting nightlife without neglecting residents is a tough balancing act](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-360x180.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+    
+    ### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+    
     [![There is free tuition and after-school activities (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-18-11-2024-at-17.28-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
     
     ### [New free youth club opens in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
@@ -136,10 +140,6 @@ View All Result
     [![Inside Shakespeare's Globe.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Shakepearce-Globe-Theatre-inside-360x180.jpg)](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
     
     ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-    
-    [![The arches on America Street are opposite the America House apartment block. CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-1-360x180.jpg)](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
-    
-    ### [Comment: Promoting nightlife without neglecting residents is a tough balancing act](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -211,17 +211,17 @@ Terms of Use
 
 [16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
 
-[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
-### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
-[13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
-
 [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
 ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
 [18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+### [East Street Market attack: First photo of victim released](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
+
+[13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
 [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
@@ -242,6 +242,12 @@ Terms of Use
 [12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
 ### Featured Articles
+
+[![Waste fire on Devon Street. Credit: LFB](https://southwarknews.co.uk/wp-content/uploads/2024/11/waste-fire-southwark-1-120x86.webp)](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+
+### [Fire inside 300 tonne pile of waste causes mass evacuation in Bermondsey](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
+
+[19th November 2024](https://southwarknews.co.uk/area/bermondsey/fire-inside-300-tonne-pile-of-waste-causes-mass-evacuation-in-bermondsey/)
 
 [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
 
@@ -272,12 +278,6 @@ Terms of Use
 ### [Where to get married in Southwark: from an iconic theatre to the top of The Shard](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
 
 [17th November 2024](https://southwarknews.co.uk/area/peckham/where-to-get-married-in-southwark-from-an-iconic-theatre-to-the-top-of-the-shard/)
-
-[![Creative Commons- By Waterford_Man](https://southwarknews.co.uk/wp-content/uploads/2024/11/Tourists-Creative-Commons-By-Waterford_Man-120x86.jpg)](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-
-### [Could a Tourist Tax come to London?](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-
-[17th November 2024](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
 
 ### USEFUL PAGES
 
