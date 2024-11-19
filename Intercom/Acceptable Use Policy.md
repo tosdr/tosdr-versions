@@ -48,7 +48,7 @@ blankblankblankblankblank
     
     Featured
     
-    [![](data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAABwAQCdASoQAAgACoB8JagCdAFAAAD+7jtG156OVi+6qCQAAAA=)![The New Economics of Customer Service guide](https://images.ctfassets.net/xny2w179f4ki/2eRVgWj4kZRJYxprDhb3ue/56e062bc3476b93d4a48757972ada235/Web_Resources_Navigation_Image.png?&q=90)
+    [![](data:image/webp;base64,UklGRjAAAABXRUJQVlA4ICQAAABwAQCdASoQAAgACoB8JagCdAFAAAD+7gJbIyJz3CM0wbAAAAA=)![The New Economics of Customer Service guide](https://images.ctfassets.net/xny2w179f4ki/4WFfWQelt3du3LZo1Lvcx9/7da4990b0fe8634d46c55be20c13f355/Web_Resources_Navigation_Image.webp?&q=90)
     
     The New Economics of Customer Service guideLearn how AI breaks the linear CS growth model...](https://www.intercom.com/campaign/new-economics-of-customer-service)[![](data:image/webp;base64,UklGRkYAAABXRUJQVlA4IDoAAACQAwCdASoYAAwAPzmEuVOvKKWisAgB4CcJaQDE2BQbvBVO2sPgAP7TiBTJH6JtQztWD8OSVsaY4AAA)![How AI is transforming customer service tech stacks](https://images.ctfassets.net/xny2w179f4ki/2bnAm34T5p0GoHlWEDwzLK/5fdac80d66ea81978772d37aaa2a74ea/Ticket-hero.webp?&q=90)
     
