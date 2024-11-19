@@ -294,9 +294,6 @@
         
         [Communication](https://segment.com/en-us/cpaas) [Customer Data](https://segment.com/en-us/customer-data-platform)
         
-    * [**CustomerAI**
-        
-        Combine real-time engagement data with AI to know your customers better.](https://segment.com/en-us/customer-ai)
     * [**Trust Center**
         
         Twilio’s security, data privacy, regulatory compliance, and resiliency policies.](https://segment.com/en-us/trust-center)
@@ -659,9 +656,6 @@ Data is collected based on search terms. [Privacy Policy](https://segment.com/e
         
         [Communication](https://segment.com/en-us/cpaas) [Customer Data](https://segment.com/en-us/customer-data-platform)
         
-    * [**CustomerAI**
-        
-        Combine real-time engagement data with AI to know your customers better.](https://segment.com/en-us/customer-ai)
     * [**Trust Center**
         
         Twilio’s security, data privacy, regulatory compliance, and resiliency policies.](https://segment.com/en-us/trust-center)
