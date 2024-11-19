@@ -197,8 +197,6 @@ Sat: 7AM - 4PM PST](tel:1-800-840-2008)
 ![AES 256bit Secure Shopping](/images/Secure-Shopping-icon.png) AES-256bit  
 Secure Shopping
 
-Available On : [![App Store](/images/iPhone-badge.png)](https://itunes.apple.com/us/app/budgetpetcare-com/id1312567356?mt=8)[![Google play](/images/android-badge.png)](https://play.google.com/store/apps/details?id=com.bpc.us&hl=en)
-
 Follow Us On :
 
 * [![Facebook](/images/Fb-icon.png)](https://www.facebook.com/Budgetpetcarecom-226026674640926/)
