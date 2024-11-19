@@ -34,7 +34,7 @@ Log In
 
 Use tab to navigate through the menu items.
 
-![Wooden Toy Train](https://static.wixstatic.com/media/9aa0592cbdc1457089abf42b4929e03a.jpg/v1/fill/w_85,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_auto/9aa0592cbdc1457089abf42b4929e03a.jpg)
+![Wooden Toy Train](https://static.wixstatic.com/media/9aa0592cbdc1457089abf42b4929e03a.jpg/v1/fill/w_85,h_54,al_c,q_80,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/9aa0592cbdc1457089abf42b4929e03a.jpg)
 
 Shipping & Fulfillment
 ======================
@@ -91,6 +91,6 @@ Do Not Sell My Personal Information
 
 [About Us](https://www.littlebabyboonursery.com/about-us)
 
-![LGBT Friendly Business.jpg](https://static.wixstatic.com/media/5c1f9e_046419d4fcb34da4b3389ec29572b4b6~mv2.jpg/v1/fill/w_133,h_20,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_auto/LGBT%20Friendly%20Business.jpg)
+![LGBT Friendly Business.jpg](https://static.wixstatic.com/media/5c1f9e_046419d4fcb34da4b3389ec29572b4b6~mv2.jpg/v1/fill/w_133,h_20,al_c,q_80,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/LGBT%20Friendly%20Business.jpg)
 
 bottom of page
