@@ -69,7 +69,7 @@ Dessa Användningsvillkor och din användning av ditt Schibsted-konto regleras a
 
 **Kontakta oss**
 
-Om Du har några frågor eller kommentarer om dessa Användningsvillkor kontaktar Du den som ansvarar för den Tjänst Du försöker få åtkomst till med Schibsted-kontot.
+Om Du har några frågor eller kommentarer om dessa Användningsvillkor kontaktar du den som ansvarar för den Tjänst du försöker få åtkomst till med Schibsted-kontot.
 
 [Användarvillkor](https://login.schibsted.com/about/terms)  [Om Schibsted-konto](https://info.privacy.schibsted.com/se/vad-ar-ett-schibsted-konto/)
 
