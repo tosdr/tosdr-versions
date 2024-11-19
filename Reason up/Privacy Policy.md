@@ -1,3 +1,19 @@
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2727%27%20height=%2733%27/%3e)![icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![icon](/_next/static/media/icon.a51ffbb7.svg)
+
+BLACK FRIDAY & CYBER MONDAY
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2727%27%20height=%2733%27/%3e)![icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![icon](/_next/static/media/icon.a51ffbb7.svg)
+
+Buy now and get 50% OFF
+
+![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2727%27%20height=%2733%27/%3e)![icon](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+
+![icon](/_next/static/media/icon.a51ffbb7.svg)
+
 [Contact Us](https://www.reasonsecurity.com/contact-us)[Blog](https://www.reasonsecurity.com/blog)
 
 [![logo](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
