@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/b3845d88-e854-4c00-853b-bfcb04ee0752/20241119T045346/b3845d88-e854-4c00-853b-bfcb04ee0752_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/b3845d88-e854-4c00-853b-bfcb04ee0752/20241119T045346/b3845d88-e854-4c00-853b-bfcb04ee0752_360x203.jpg)](https://www.wqad.com/article/news/local/east-moline-plans-upgrade-water-infrastructure/526-b3a8caf9-345d-4224-9890-fc769c923893)
+        
+        #### [East Moline officials calling for improvements to city's water infrastructure](https://www.wqad.com/article/news/local/east-moline-plans-upgrade-water-infrastructure/526-b3a8caf9-345d-4224-9890-fc769c923893)
+        
     *  [![](https://media.tegna-media.com/assets/WQAD/images/ec4d94cd-d147-4eaf-b153-a59af32e7d8f/20241119T005715/ec4d94cd-d147-4eaf-b153-a59af32e7d8f_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/ec4d94cd-d147-4eaf-b153-a59af32e7d8f/20241119T005715/ec4d94cd-d147-4eaf-b153-a59af32e7d8f_360x203.jpg)](https://www.wqad.com/article/news/local/alpha-delta-phi-fraternity-iowa-city-alleged-hazing/526-81910aaf-e08f-4a28-a5b4-edeac2b4dbf3)
         
         #### [University of Iowa police find 56 fraternity pledges blindfolded in potential hazing incident](https://www.wqad.com/article/news/local/alpha-delta-phi-fraternity-iowa-city-alleged-hazing/526-81910aaf-e08f-4a28-a5b4-edeac2b4dbf3)
-        
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/82249c2f-5221-4cee-8a44-238c833e4737/20241118T221327/82249c2f-5221-4cee-8a44-238c833e4737_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/82249c2f-5221-4cee-8a44-238c833e4737/20241118T221327/82249c2f-5221-4cee-8a44-238c833e4737_360x203.jpg)](https://www.wqad.com/article/news/local/infrastructure/davenport-riverview-terrace-park-renovations-mixed-emotions/526-699c808a-c15b-42bd-8f01-3ee7543ac1b8)
-        
-        #### [Mixed emotions over renovations coming to Riverview Terrace Park in Davenport](https://www.wqad.com/article/news/local/infrastructure/davenport-riverview-terrace-park-renovations-mixed-emotions/526-699c808a-c15b-42bd-8f01-3ee7543ac1b8)
         
     
 * [Weather](https://www.wqad.com/weather)
@@ -56,9 +56,9 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.tegna-media.com/assets/WQAD/images/9c576326-309e-42ef-b225-b95f7264b0dd/20241118T230602/9c576326-309e-42ef-b225-b95f7264b0dd_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/9c576326-309e-42ef-b225-b95f7264b0dd/20241118T230602/9c576326-309e-42ef-b225-b95f7264b0dd_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+    *  [![](https://media.tegna-media.com/assets/WQAD/images/17fde576-bbe0-44f3-a12a-2a934ac03320/20241119T050535/17fde576-bbe0-44f3-a12a-2a934ac03320_16x9.jpg) ![](https://media.tegna-media.com/assets/WQAD/images/17fde576-bbe0-44f3-a12a-2a934ac03320/20241119T050535/17fde576-bbe0-44f3-a12a-2a934ac03320_360x203.jpg)](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
-        #### [More rain to come, increasing wind tonight](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
+        #### [Wind Advisory until 3am](https://www.wqad.com/article/weather/forecast/moline-davenport-quad-cities-forecast/526-7e9b6b56-59e4-48cb-844b-4987f2b5e204)
         
     *  [![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_16x9.jpg) ![](https://media.tegna-media.com/assets/CCT/images/d3187929-cdd3-4688-bfc3-189b146d6244/20241117T160800/d3187929-cdd3-4688-bfc3-189b146d6244_360x203.jpg)](https://www.wqad.com/article/news/nation-world/tropical-storm-sara-nears-landfall/507-d63ee4bc-2945-440a-a8aa-d7b062ec539d)
         
@@ -86,7 +86,7 @@ Navigation
 
 Davenport, IA »
 
-62°
+57°
 
 ![Cloudy/Wind](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
 
