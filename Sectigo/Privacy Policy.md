@@ -96,9 +96,9 @@ CA agnostic certificate lifecycle management platform for the modern enterprise.
 
 [50+ Technology Integrations](https://www.sectigo.com/enterprise-solutions/certificate-manager/integrations) [47-Day certificates are coming](https://www.sectigo.com/47-day-ssl)
 
-Prepare for 45-day TLS certificates!
+Prepare for 47-day TLS certificates!
 
-Download our free 45-day survival guide to learn how automation can help you stay ahead.
+Download our free 47-day survival guide to learn how automation can help you stay ahead.
 
 [Download](https://www.sectigo.com/resource-library/ebook-the-47-day-survival-guide)
 
