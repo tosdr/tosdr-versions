@@ -1,179 +1,96 @@
 [Skip to content](#content)
 
-[![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-desktop-dark.png)](https://www.discoveryeducation.co.uk/)
+[![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/11/de-logo-full-black.png)](https://www.discoveryeducation.co.uk/)
+
+[![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/11/Discovery-Education-Logo-Horizontal-Full-Color-Neg-1024x236.png)](https://www.discoveryeducation.co.uk/)
+
+![de-logo-full-black](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
+
+![de-logo-full-black](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/11/de-logo-full-black.png)
 
 * Solutions
     
-    Close Solutions Open Solutions
-    
-    * [](https://www.discoveryeducation.co.uk/resources/stem-solutions)
-        
-        STEM
-        
-    
-    * [](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
-        
-        DoodleMaths and DoodleTables
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/coding/)
-        
-        Coding
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
-        
-        STEM Connect
-        
-    
-    * [](https://www.discoveryeducation.co.uk/resources/literacy-solutions)
-        
-        Literacy
-        
-    
-    * [](https://www.discoveryeducation.co.uk/resources/primary/doodleenglish)
-        
-        DoodleEnglish and DoodleSpell
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
-        
-        Time for Phonics
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
-        
-        DreamBox Reading Plus
-        
-    
-    * [](https://www.discoveryeducation.co.uk/resources/curriculum-solutions)
-        
-        Curriculum
-        
-    
-    * [](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
-        
-        Espresso
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
-        
-        Health and Relationships
-        
-    * [](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
-        
-        Augmented Reality
-        
-    
 * School Success
     
-    Close School Success Open School Success
-    
-    * [](https://www.discoveryeducation.co.uk/success-webinars/)
-        
-        Success Webinars
-        
-    * [](https://www.discoveryeducation.co.uk/success-stories/)
-        
-        School Success Stories
-        
-    
-    * [](https://www.discoveryeducation.co.uk/school-success-advisors/)
-        
-        Your School Success Advisors
-        
-    * [](https://help.discoveryeducation.co.uk/hc/en-gb)
-        
-        FAQs
-        
-    
-* [Try for Free](https://www.discoveryeducation.co.uk/consultation-booking/)
-    
+* [Try for Free](https://www.discoveryeducation.co.uk/consultation-booking)
+* [Log in](https://app.discoveryeducation.co.uk/)
 
 [Login](https://app.discoveryeducation.co.uk/)
 
-[Contact Us](#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjU1MTQwIiwidG9nZ2xlIjpmYWxzZX0%3D)
+[Try for Free](https://www.discoveryeducation.co.uk/consultation-booking)
 
-[![](https://www.discoveryeducation.co.uk/wp-content/uploads/2024/10/de-logo-desktop-dark.png)](https://www.discoveryeducation.co.uk/)
+* [](https://www.discoveryeducation.co.uk/resources/stem-solutions)
+    
+    STEM
+    
 
-[Login](https://app.discoveryeducation.co.uk/)
+* [](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
+    
+    DoodleMaths and DoodleTables
+    
+* [](https://www.discoveryeducation.co.uk/resources/primary/coding/)
+    
+    Coding
+    
+* [](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
+    
+    STEM Connect
+    
 
-* Solutions
+* [](https://www.discoveryeducation.co.uk/resources/literacy-solutions)
     
-    Close Solutions Open Solutions
+    Literacy
     
-    * [](https://www.discoveryeducation.co.uk/resources/stem-solutions)
-        
-        STEM
-        
+
+* [](https://www.discoveryeducation.co.uk/resources/primary/doodleenglish)
     
-    * [](https://www.discoveryeducation.co.uk/resources/primary/doodlemaths/)
-        
-        DoodleMaths and DoodleTables
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/coding/)
-        
-        Coding
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/stem-connect/)
-        
-        STEM Connect
-        
+    DoodleEnglish and DoodleSpell
     
-    * [](https://www.discoveryeducation.co.uk/resources/literacy-solutions)
-        
-        Literacy
-        
+* [](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
     
-    * [](https://www.discoveryeducation.co.uk/resources/primary/doodleenglish)
-        
-        DoodleEnglish and DoodleSpell
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/time-for-phonics/)
-        
-        Time for Phonics
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
-        
-        DreamBox Reading Plus
-        
+    Time for Phonics
     
-    * [](https://www.discoveryeducation.co.uk/resources/curriculum-solutions)
-        
-        Curriculum
-        
+* [](https://www.discoveryeducation.co.uk/resources/primary/dreambox-reading/)
     
-    * [](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
-        
-        Espresso
-        
-    * [](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
-        
-        Health and Relationships
-        
-    * [](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
-        
-        Augmented Reality
-        
+    DreamBox Reading Plus
     
-* School Success
+
+* [](https://www.discoveryeducation.co.uk/resources/curriculum-solutions)
     
-    Close School Success Open School Success
+    Curriculum
     
-    * [](https://www.discoveryeducation.co.uk/success-webinars/)
-        
-        Success Webinars
-        
-    * [](https://www.discoveryeducation.co.uk/success-stories/)
-        
-        School Success Stories
-        
+
+* [](https://www.discoveryeducation.co.uk/resources/primary/espresso/)
     
-    * [](https://www.discoveryeducation.co.uk/school-success-advisors/)
-        
-        Your School Success Advisors
-        
-    * [](https://help.discoveryeducation.co.uk/hc/en-gb)
-        
-        FAQs
-        
+    Espresso
     
-* [Try for Free](https://www.discoveryeducation.co.uk/consultation-booking/)
+* [](https://www.discoveryeducation.co.uk/resources/primary/health-and-relationships/)
+    
+    Health and Relationships
+    
+* [](https://www.discoveryeducation.co.uk/resources/augmented-reality/)
+    
+    Augmented Reality
+    
+
+* [](https://www.discoveryeducation.co.uk/success-webinars/)
+    
+    Success Webinars
+    
+* [](https://www.discoveryeducation.co.uk/success-stories/)
+    
+    School Success Stories
+    
+
+* [](https://www.discoveryeducation.co.uk/school-success-advisors/)
+    
+    School Success Advisors
+    
+* [](https://help.discoveryeducation.co.uk/hc/en-gb)
+    
+    FAQs
     
 
 These Terms of Service and Licence (these “**Standard Terms**”) are applicable to any Order Form (each, an “**Order Form**”) issued by Discovery Education Europe Limited ( “**Discovery Education**”) to the individual or entity listed in the Order Form (“**Subscriber**”) to provide access to the Discovery Education: Pathway CPD products and services identified therein (the “**Services**”) and to Subscriber’s use of the Services. Each Order Form shall be deemed to be part of these Standard Terms and subject to the terms and conditions set forth herein. These Standard Terms supersede all other prior and contemporaneous agreements, negotiations, communications or understandings, oral or written, with respect to the subject matter hereof. In no event shall the terms and conditions of any other purchase agreement amend or modify the terms and conditions of these Standard Terms.
