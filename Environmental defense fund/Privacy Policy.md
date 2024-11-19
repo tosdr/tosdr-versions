@@ -158,13 +158,13 @@ Stay informed and get inspired with our in-depth reporting about the people and 
 
 Close Featured
 
+[Images from groundbreaking satellite bring methane problem into view](https://www.edf.org/content/newly-released-images-methanesat-demonstrate-powerful-capabilities)
+
+          [![A rendering of Methane SAT flying over the Earth](/sites/default/files/styles/2_1_366_183_focal_point/public/2023-05/2023%20MethSatMission_2800x2100px_01-1.jpg?h=675af096&itok=ztTdpefc)](https://www.edf.org/content/newly-released-images-methanesat-demonstrate-powerful-capabilities)
+
 [Vital Signs, our digital magazine, will make you think and give you hope](https://www.edf.org/content/vital-signs-our-digital-magazine-will-make-you-think-and-give-you-hope)
 
           [![Aerial photo of a road next to a beautiful coastline](/sites/default/files/styles/2_1_366_183_focal_point/public/2023-08/GettyImages-1201242840-VitalSigns.jpg?h=f52e7eb6&itok=mBHTrubh)](https://www.edf.org/content/vital-signs-our-digital-magazine-will-make-you-think-and-give-you-hope)
-
-[Want to use your job to save the planet? Degrees is for you.](https://www.edf.org/degrees-green-jobs-podcast)
-
-          [![Illustration of the Earth, windmills and Degrees podcast host.](/sites/default/files/styles/2_1_366_183_focal_point/public/2024-03/cropped-Chartable%20art%202023-Degrees-CoverArt-1280x720.jpg?h=b7b86f3a&itok=fCUSpfu0)](https://www.edf.org/degrees-green-jobs-podcast)
 
 Breadcrumb
 ----------
