@@ -173,6 +173,7 @@
         * [Deploy 2024](https://www.digitalocean.com/deploy)
         * [DO Impact](https://www.digitalocean.com/impact)
         * [Nonprofits](https://www.digitalocean.com/impact/nonprofits)
+        * [Wavemakers Program](https://www.digitalocean.com/wavemakers)
         
         Documentation
         
@@ -472,6 +473,7 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 * [Currents Research](https://www.digitalocean.com/currents)
 * [Hatch Startup Program](https://www.digitalocean.com/hatch)
+* [Wavemakers Program](https://www.digitalocean.com/wavemakers)
 * [Compass Council](https://www.digitalocean.com/research)
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Newsletter Signup](https://www.digitalocean.com/community#iaan)
@@ -547,6 +549,7 @@ The data controller of your personal information is DigitalOcean, LLC.
 * [Write for DOnations](https://www.digitalocean.com/community/pages/write-for-digitalocean)
 * [Currents Research](https://www.digitalocean.com/currents)
 * [Hatch Startup Program](https://www.digitalocean.com/hatch)
+* [Wavemakers Program](https://www.digitalocean.com/wavemakers)
 * [Compass Council](https://www.digitalocean.com/research)
 * [Open Source](https://www.digitalocean.com/open-source)
 * [Newsletter Signup](https://www.digitalocean.com/community#iaan)
