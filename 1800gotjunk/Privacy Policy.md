@@ -597,6 +597,46 @@ Sign up for our emails and get exclusive benefits
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Super friendly, efficient, and professional.
+
+calgarymikel Calgary 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Would recommend to anyone who got junk thats gotta go. Sterling and Faiver were friendly and quick, thank you for your service!
+
+Julian Greff Calgary 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Phones Ari say they would be there at 9:00 but don’t get here until 9:30. We’re very pleasant and efficient once they got here.
+
+Leslie Hunt Calgary 14/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+John and the team really helped out me and some friends when de-cluttering. Will definitely use the service again!
+
+Noah Whiteley Calgary 13/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Friendly, patient folks that provided prompt service. Thank you!
+
+Alyssa Kohl Calgary 11/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 Amazing. Seeing these boys lift my 1968 induction stove was something else and I will be using these guys again 11/10
 
 Zack Acker Calgary 09/11/2024
@@ -608,14 +648,6 @@ Zack Acker Calgary 09/11/2024
 Zach and Carlos were great! Super respectful and really made our moving experience easier! Would recommend for sure!
 
 Zaki Aslam Calgary 06/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
-
-Karen Hanson Calgary 05/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -640,6 +672,14 @@ Ilse Calgary 05/11/2024
 The guys were very polite, and super efficient. I will totally use them again! Great job. And thank you.
 
 Diana Ruff Calgary 05/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great guys, very friendly and efficient. Hard workers. Would definitely recommend them to anyone
+
+Karen Hanson Calgary 05/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -696,46 +736,6 @@ Gina Tietze Calgary 02/11/2024
 Very helpful and understanding, going over and beyond expectations. Thank you
 
 Rebecca M Calgary 31/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Removed all my junk in a timely manner. Happy with service.
-
-Nia Calgary 29/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Trey and Tyler you both were terrific. Thank you very much.
-
-Joan Brewster Calgary 29/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Sterling and Kyla were awesome.
-
-Samuel Reid Calgary 28/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Amazing work! Hauled everything away safely and efficiently. Took less than 5min. Thank you for the help!
-
-Lucypiepen Calgary 26/10/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Professional and friendly. Even made an attempt at sweeping out my very dusty garage.
-
-Teri Silveira Calgary 26/10/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -965,9 +965,41 @@ Donald Sarvis Seattle 16/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
-Max and Kieth crushed it
+Hired them a second time. John and Alex did a great job. On time, very professional, and upfront about cost. Will use services again.
 
-Dan Appino Wisconsin 15/11/2024
+Steve Chesna Wisconsin 16/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+This crew is great as usual
+
+John Brigham Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Easy pickup and great working with Bo and John!
+
+Corey Cope Seattle 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Keone and Drew were quick and easy to work with in removing my couch
+
+Dean Fouchia Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
+Great communication and fast service from Kevin and Day! Thanks!
+
+Courtney C. Seattle 15/11/2024
 
 ![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
 
@@ -981,49 +1013,17 @@ Kaylee Marcum Seattle 15/11/2024
 
 ![Google review](/themes/custom/gotjunk_us/images/google.svg)
 
+Max and Kieth crushed it
+
+Dan Appino Wisconsin 15/11/2024
+
+![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
+
+![Google review](/themes/custom/gotjunk_us/images/google.svg)
+
 August and Canyon were fantastic! Pleasant to work with and came time, fair estimate and removed all! Easy peasy!
 
 Lyn Wi Madison 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Very helpful and reliable. Nice job!
-
-kim miller Madison 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-They were awesome. John, Sam and Brayan
-
-Kris Saudek Wisconsin 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Great job by Samuel and Will!
-
-Erica Zacher Wisconsin 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-I needed a couch removed. John and Brian were quick, efficient, and polite. The price was reasonable. Thank you!
-
-Julian Lacera Wisconsin 15/11/2024
-
-![Five star image](/themes/custom/gotjunk_us/images/5stars.svg)
-
-![Google review](/themes/custom/gotjunk_us/images/google.svg)
-
-Kevin and Dave were awesome definitely recommend them! Super easy and professional
-
-Jason Kim Seattle 15/11/2024
 
 ### 
 
