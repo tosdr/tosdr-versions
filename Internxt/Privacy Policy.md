@@ -6,6 +6,8 @@ Products
 
 [Internxt Drive](https://internxt.com/drive)[Internxt S3](https://internxt.com/cloud-object-storage)[Internxt Send](https://send.internxt.com/)[Internxt VPN](https://internxt.com/vpn)
 
+[Business](https://internxt.com/business)
+
 Our Values
 
 [Privacy](https://internxt.com/privacy)[Open Source](https://internxt.com/open-source)
