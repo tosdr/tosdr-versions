@@ -66,9 +66,9 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![monsanto](/assets/logos/MonsantoStateContributions2007-2012.png)](http://www.followthemoney.org/research/institute-research/names-in-the-news-monsanto)
+[![NRG Energy Giving](/assets/Images/teasers/small/NRG.png)](http://www.followthemoney.org/research/blog/nrg-energy-blue-red-green/)
 
-Monsanto has taken a keen interest in ballot measures.
+NRG Energy Giving, by Party, 2000-13.
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
