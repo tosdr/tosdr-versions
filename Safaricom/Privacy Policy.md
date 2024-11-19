@@ -1,24 +1,10 @@
-Rated 4.9 / 5 based on [761 reviews](https://www.trustpilot.com/review/www.safari.com) on
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/6520b0548d3d382c9397bb18_trustpilot_2366_logo_1630325953_dqa8g.webp)
-
-Trustpilot
-
-Africa's Leading Safari Company 2024 – World Travel Awards
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/64afd4327ac7097277b8488f_flag%20US.png)
-
-[+1 (800) 854-1896](tel:+1(800)854-1896)
-
-[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/67135389be2521c91c01a1f7_winner_logo_variation.png)](https://www.safari.com/)
+[![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/673c7f2b0dd9352c78cbd62b_logo_black.jpg)](https://www.safari.com/)
 
 __
 
-Destinations
+DESTINATIONS
 
 TOP DESTINATIONS
-
-EAST AFRICA
 
 [Kenya](https://www.safari.com/destinations/kenya)
 
@@ -29,6 +15,8 @@ EAST AFRICA
 [Sabi Sands Game Reserve](https://www.safari.com/destinations/sabi-sand-game-reserve)
 
 [Victoria Falls](https://www.safari.com/destinations/victoria-falls)
+
+EAST AFRICA
 
 [Amboseli National Park](https://www.safari.com/destinations/amboseli-national-park)
 
@@ -60,9 +48,7 @@ SOUTHERN AFRICA
 
 [Zambia](https://www.safari.com/destinations/zambia)
 
-[See all destinations +](https://www.safari.com/destinations)
-
-Experiences
+EXPERIENCES
 
 HOLIDAY TYPES
 
@@ -88,9 +74,9 @@ HOLIDAY TYPES
 
 [Photographic Safaris](https://www.safari.com/holidays/photographic-safaris)
 
-[Blog](https://www.safari.com/blog)
+[BLOG](https://www.safari.com/blog)
 
-About us
+ABOUT US
 
 [Our Story](https://www.safari.com/about-us)[Why travel with us](https://www.safari.com/travel-with-us)[FAQ](https://www.safari.com/faq)[Testimonials](https://www.trustpilot.com/review/safari.com)[Financial Protection](https://www.safari.com/travel-with-us#financial-protection)[Meet the Team](https://www.safari.com/meet-the-team)[Partner with us](https://www.safari.com/affiliates)[Contact us](https://www.safari.com/contact)
 
@@ -139,6 +125,32 @@ Customer Testimonials
 out of 5 based on
 
 [761 reviews](https://www.trustpilot.com/review/www.safari.com)
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 19, 2024
+
+> A massive thank you to Anja
+
+> A massive thank you to Anja, she helped us with everything and super quick with responding on WhatsApp - really looking forward to the Safari 🙏🏼🙌🏼 great service thanks!
+
+customer
+
+,
+
+![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
+
+> Nov 18, 2024
+
+> Shann was Wonderful!
+
+> Shann was fantastic and very helpful with booking a very last minute trip!
+
+Amelia
+
+,
+
+US
 
 ![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
 
@@ -237,34 +249,6 @@ Paulene
 ,
 
 ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 13, 2024
-
-> Exceptional travel agent and overall experience!!
-
-> Leigh Ann was an exceptional travel agent who went above and beyond to make our trip to Kruger National Park, Victoria Falls, and Chobe unforgettable. Her recommendations were spot-on, and what made the experience even better was her personal perspective—insights you simply won’t find online. She shared tips that added so much value to our trip and made everything feel more meaningful. Leigh Ann was available anytime we had questions, which made us feel completely supported throughout the trip. From the initial planning stages to our return, every detail was seamless and perfectly coordinated. If you’re planning a trip to Africa, I highly recommend Leigh Ann. She truly gave us a once-in-a-lifetime experience. Thank you, Leigh Ann!
-
-Uvaldo Oz Mencia
-
-,
-
-ZA
-
-![](https://cdn.prod.website-files.com/636e23f049cf1220392fecac/636e23f049cf1217132fecfc_stars-5.svg)
-
-> Nov 13, 2024
-
-> quick and pleasant
-
-> The agent was a pleasure to communicate with and all requests were dealt with quickly. She was able to offer many options that fit our needs. The whole experience could not have gone smoother
-
-jeffrey gougeon
-
-,
-
-KR
 
 VIP service
 
