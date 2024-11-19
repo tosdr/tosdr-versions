@@ -81,6 +81,7 @@ Menu
     
     * [Across The Miles](https://www.moonpig.com/uk/personalised-cards/christmas/from-across-the-miles/)
     * [Baby's First Christmas](https://www.moonpig.com/uk/personalised-cards/christmas/babys-first-christmas/)
+    * [Charity Cards](https://www.moonpig.com/uk/personalised-cards/christmas/charity-cards/)
     * [First Christmas Together](https://www.moonpig.com/uk/personalised-cards/christmas/1st-christmas-together/)
     * [From The Pets](https://www.moonpig.com/uk/personalised-cards/christmas/from-pets/)
     * [From The Family](https://www.moonpig.com/uk/personalised-cards/christmas/from-family/)
@@ -202,6 +203,7 @@ Menu
     * [Great Value Gift Sets](https://www.moonpig.com/uk/flowers-and-plants/gift-sets/)
     * [Luxury Flowers](https://www.moonpig.com/uk/flowers-and-plants/luxury/)
     * [Go Large for £5 Extra](https://www.moonpig.com/uk/flowers-and-plants/go-large/)
+    * [Flowers £30 & Under](https://www.moonpig.com/uk/flowers-and-plants/affordable-blooms/)
     
     ### Shop by Occasion
     
