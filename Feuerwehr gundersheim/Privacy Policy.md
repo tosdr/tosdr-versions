@@ -246,7 +246,21 @@ In diesem Abschnitt erhalten Sie eine Übersicht über die in dieser Datenschutz
 
 #### Termine:
 
-Es gibt keine zukünftigen Events.
+### Jahreshauptversammlung
+
+Datum: 18\. Januar 2025
+
+Uhrzeit: 19:00
+
+### Tag der offenen Tür
+
+Datum: 19\. Juni 2025
+
+Uhrzeit: 11:00
+
+Ort: An der Weidenmühle 16, 67598 Gundersheim
+
+![](https://feuerwehr-gundersheim.de/wp-content/uploads/2018/12/Banner-TdoT-FFGsh-300x153.png)
 
 * [Impressum](https://feuerwehr-gundersheim.de/impressum/)
 * [Datenschutzerklärung](https://feuerwehr-gundersheim.de/datenschutzerklaerung/)
