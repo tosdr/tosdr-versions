@@ -308,7 +308,7 @@ This Application participates in the IAB Europe Transparency & Consent Framework
     
     Storage duration:
     
-    * \_fbc: 4 months
+    * \_fbc: 3 months
     * \_fbp: 3 months
     * fr: 3 months
     
