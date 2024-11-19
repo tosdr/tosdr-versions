@@ -77,7 +77,7 @@ Follow Us!
 
 [9,800](https://x.com/myabandonware "Follow us on X") [Follow](https://x.com/myabandonware "Follow us on X")
 
-[30](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") Follow
+[100](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky") [Follow](https://bsky.app/profile/myabandonware.bsky.social "Follow us on BlueSky")
 
 Monthly Newsletter
 
@@ -107,11 +107,11 @@ Top downloads
 
 Latest releases
 
+* [Virtual City 2: Paradise Resort](https://www.myabandonware.com/game/virtual-city-2-paradise-resort-tx5)
+* [Virtual City](https://www.myabandonware.com/game/virtual-city-t4d)
+* [Chimera](https://www.myabandonware.com/game/chimera-4ox)
 * [Matta Blatta](https://www.myabandonware.com/game/matta-blatta-abu)
 * [The Sasquatch](https://www.myabandonware.com/game/the-sasquatch-t5o)
-* [Snowman's Land](https://www.myabandonware.com/game/snowman-s-land-t5l)
-* [Highway Pursuit](https://www.myabandonware.com/game/highway-pursuit-t5e)
-* [Seven Years War 2](https://www.myabandonware.com/game/seven-years-war-2-t4k)
 
 List of [new games here](https://www.myabandonware.com/browse/recent/)  
 Follow us on [FB](https://www.facebook.com/myabandonware), [X](https://x.com/myabandonware) or [BlueSky](https://bsky.app/profile/myabandonware.bsky.social)
