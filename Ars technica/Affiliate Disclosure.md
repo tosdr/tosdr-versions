@@ -83,17 +83,17 @@ We apply the same rigor and standards of objectivity to these articles as we do 
 
 Most Read
 
-1. [![Listing image for first story in Most Read: I, too, installed an open source garage door opener, and I’m loving it](https://cdn.arstechnica.net/wp-content/uploads/2024/10/IMG_5523-scaled-768x432-1729621105.jpeg)](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+1. [![Listing image for first story in Most Read: April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://cdn.arstechnica.net/wp-content/uploads/2024/11/sstone_twitter-768x432-1731946328.jpeg)](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
     
-    1. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
+    1. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
     
-2. 2. [April Fools’ joke results in Japanese firm making a beige ’80s throwback PC case](https://arstechnica.com/gadgets/2024/11/big-beige-80s-pc-case-started-out-as-a-joke-but-its-becoming-real-in-japan/)
+2. 2. [I, too, installed an open source garage door opener, and I’m loving it](https://arstechnica.com/gadgets/2024/11/i-too-installed-an-open-source-garage-door-opener-and-am-loving-it/)
     
-3. 3. [School failed to report AI nudes of kids for months. Now parents are suing.](https://arstechnica.com/tech-policy/2024/11/school-failed-to-report-ai-nudes-of-kids-for-months-now-parents-are-suing/)
+3. 3. [Explicit deepfake scandal shuts down Pennsylvania school](https://arstechnica.com/tech-policy/2024/11/school-failed-to-report-ai-nudes-of-kids-for-months-now-parents-are-suing/)
     
-4. 4. [SpaceX president predicts rapid increase in Starship launch rate](https://arstechnica.com/space/2024/11/spacex-president-predicts-rapid-increase-in-starship-launch-rate/)
+4. 4. [Trump’s FCC chair is Brendan Carr, who wants to regulate everyone except ISPs](https://arstechnica.com/tech-policy/2024/11/trumps-fcc-chair-is-brendan-carr-who-wants-to-regulate-everyone-except-isps/)
     
-5. 5. [Trump’s FCC chair is Brendan Carr, who wants to regulate everyone except ISPs](https://arstechnica.com/tech-policy/2024/11/trumps-fcc-chair-is-brendan-carr-who-wants-to-regulate-everyone-except-isps/)
+5. 5. [SpaceX president predicts rapid increase in Starship launch rate](https://arstechnica.com/space/2024/11/spacex-president-predicts-rapid-increase-in-starship-launch-rate/)
     
 
 Customize
