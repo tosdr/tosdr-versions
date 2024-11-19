@@ -1,4 +1,4 @@
-[MATCH ANNOUNCED: Lebanon Humanitarian Appeal. Donate Today](https://www.canadahelps.org/en/terms-of-use/%E2%80%9Dhttps://www.canadahelps.org/en/crisis-relief-center/lebanon-crisis-2024/?utm_source=landingpage&utm_medium=CHcrc&utm_campaign=skinnybanner%E2%80%9D)
+[Nominate and Help Us Give $100,000 This GivingTuesday! Learn More.](https://www.canadahelps.org/en/givingtuesday/)
 
  
 
