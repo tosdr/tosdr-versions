@@ -158,72 +158,72 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [45 Hong Kong Pro-Democracy Figures Sentenced in Landmark National Security Law Case](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
+* [45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
     
-    NEW By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    7hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
-    [![45 Hong Kong Pro-Democracy Figures Sentenced in Landmark National Security Law Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![45 Hong Kong Pro-Democracy Figures Sentenced in Landmark National Security Law Case](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762068-HK-court-205x123.jpg.webp)](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
+    ![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762068-HK-court-205x123.jpg.webp)](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
 * [US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://www.theepochtimes.com/world/us-state-department-says-russia-escalated-ukraine-war-by-deploying-north-koreans-5761883)
     
-    2hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
     [![US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690856-07242023-DSC03117-Matthew-Miller-OP-1-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-state-department-says-russia-escalated-ukraine-war-by-deploying-north-koreans-5761883)
 * [Former Maryland Governor Is First to Announce Bid for DNC Chair](https://www.theepochtimes.com/us/former-maryland-governor-is-first-to-announce-bid-for-dnc-chair-5761872)
     
-    3hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
+    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
     [![Former Maryland Governor Is First to Announce Bid for DNC Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Former Maryland Governor Is First to Announce Bid for DNC Chair](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762052-Martin-OMalley-GettyImages-2170643456-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-maryland-governor-is-first-to-announce-bid-for-dnc-chair-5761872)
 * [Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://www.theepochtimes.com/article/day-in-photos-launch-of-g20-senate-in-session-and-olive-pressing-5761558)
     
-    4hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
+    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
     
     [![Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761917-GettyImages-2184796784-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-launch-of-g20-senate-in-session-and-olive-pressing-5761558)
 * [Meet the Top 4 Contenders for Treasury Secretary](https://www.theepochtimes.com/us/meet-the-top-4-contenders-for-treasury-secretary-5761741)
     
-    4hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    10hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
     [![Meet the Top 4 Contenders for Treasury Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Meet the Top 4 Contenders for Treasury Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761947-Scott-Bessent-Howard-Lutnick-Kevin-Warsh-Marc-Rowan-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/meet-the-top-4-contenders-for-treasury-secretary-5761741)
 * [Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://www.theepochtimes.com/us/biden-attends-1st-day-of-his-final-g20-summit-amid-tense-u-s-russia-relations-5761925)
     
-    4hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    10hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
     
     [![Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762050-Biden-at-G20-in-BrazilKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-attends-1st-day-of-his-final-g20-summit-amid-tense-u-s-russia-relations-5761925)
 * [Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://www.theepochtimes.com/us/trump-selects-former-rep-sean-duffy-for-transportation-secretary-5761999)
     
-    4hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
     
     [![Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5762025-Sean-Duffy-GettyImages-1052999718-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-former-rep-sean-duffy-for-transportation-secretary-5761999)
 * [Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://www.theepochtimes.com/us/court-dismisses-californias-lawsuit-against-citys-voter-id-law-5761887)
     
-    5hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
+    11hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
     
     [![Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755541-California-Voters-2KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-dismisses-californias-lawsuit-against-citys-voter-id-law-5761887)
 * [Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://www.theepochtimes.com/us/pennsylvania-supreme-court-orders-counties-not-to-count-undated-ballots-5761847)
     
-    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    11hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
     ![Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755264-GettyImages-2182503287-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-orders-counties-not-to-count-undated-ballots-5761847)
 * [Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://www.theepochtimes.com/us/georgia-appeals-court-cancels-oral-argument-over-fani-willis-disqualification-5761940)
     
-    5hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
+    11hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
     
     [![Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
