@@ -1,4 +1,4 @@
-[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![faible pluie](https://www.watson.ch/fr/_watsui/static/img/weather/w-16.svg)8°](https://www.watson.ch/fr/o/meteo)
+[![watson](https://www.watson.ch/fr/_watsui/static/img/logos/logo_watson_navi_ch.png)](https://www.watson.ch/fr/)[![pluie modérée](https://www.watson.ch/fr/_watsui/static/img/weather/w-17.svg)8°](https://www.watson.ch/fr/o/meteo)
 
 [DE](https://www.watson.ch/) | [FR](https://www.watson.ch/fr/)
 
@@ -54,25 +54,25 @@
 
 Thèmes du moment
 
-* [Espionnage](https://www.watson.ch/fr/espionnage/)
+* [Climat](https://www.watson.ch/fr/climat/)
+* [Ski nordique](https://www.watson.ch/fr/ski-nordique/)
+* [People](https://www.watson.ch/fr/people/)
 * [Environnement](https://www.watson.ch/fr/environnement/)
 * [Santé](https://www.watson.ch/fr/sante/)
-* [Musique](https://www.watson.ch/fr/musique/)
 * [Etats-Unis](https://www.watson.ch/fr/etats-unis/)
-* [Football](https://www.watson.ch/fr/football/)
-* [Mode](https://www.watson.ch/fr/mode/)
+* [Nucléaire](https://www.watson.ch/fr/nucleaire/)
+* [Sciences](https://www.watson.ch/fr/sciences/)
 * [Valais](https://www.watson.ch/fr/valais/)
-* [Russie](https://www.watson.ch/fr/russie/)
+* [Brésil](https://www.watson.ch/fr/bresil/)
 * [Argent](https://www.watson.ch/fr/argent/)
-* [Médicament](https://www.watson.ch/fr/medicament/)
-* [Nati](https://www.watson.ch/fr/nati/)
+* [Crime](https://www.watson.ch/fr/crime/)
 * [Médecine](https://www.watson.ch/fr/medecine/)
 * [Guerre contre l'Ukraine](https://www.watson.ch/fr/guerre-contre-l-ukraine/)
-* [Chiens](https://www.watson.ch/fr/chiens/)
-* [Animaux](https://www.watson.ch/fr/animaux/)
-* [France](https://www.watson.ch/fr/france/)
+* [nourriture](https://www.watson.ch/fr/nourriture/)
+* [armes](https://www.watson.ch/fr/armes/)
 * [Best of watson](https://www.watson.ch/fr/best-of-watson/)
 * [Poutine](https://www.watson.ch/fr/poutine/)
+* [ukraine](https://www.watson.ch/fr/ukraine/)
 * [Donald Trump](https://www.watson.ch/fr/donald-trump/)
 * [Tous les thèmes](https://www.watson.ch/fr/u/tag_list)
 
