@@ -36,7 +36,7 @@ MENUMENU
                 * [ORCID’s Historical Community](https://info.orcid.org/orcid-community/orcids-historical-community/)
                 * [ORCID Community Partners](https://info.orcid.org/orcid-community/orcid-community-partners/)
                 * [Peer PID and Scholarly Infrastructure Providers](https://info.orcid.org/orcid-community/peer-pid-and-scholarly-infrastructure-providers/)
-        * * [Services](https://info.orcid.org/documentation/features/)
+        * * [Services](https://info.orcid.org/documentation/services/)
                 * [Affiliation Manager](https://info.orcid.org/affiliation-manager/)
                 * [Member Portal](https://info.orcid.org/documentation/member-portal/)
                 * [Annual data files](https://info.orcid.org/what-is-orcid/services/annual-data-files/)
@@ -425,9 +425,9 @@ You (the Record Holder or a Trusted Individual) may choose to include other addi
 We will use the above information to enable you to create and populate your ORCID Record, and to:
 
 * Help us respond to questions or disputes about your Record 
-* Publish Everyone Data held within your ORCID Record in the [ORCID Public Data File](https://info.orcid.org/documentation/features/annual-data-files/)
+* Publish Everyone Data held within your ORCID Record in the [ORCID Public Data File](https://info.orcid.org/what-is-orcid/services/annual-data-files/)
 * Publish Everyone Data held within your ORCID Record as a publicly accessible web page in the ORCID Registry
-* Make Everyone Data held within your ORCID Record available via our [APIs](https://info.orcid.org/documentation/features/orcid-apis/)
+* Make Everyone Data held within your ORCID Record available via our [APIs](https://info.orcid.org/what-is-orcid/services/orcid-apis/)
 * Make Trusted Party Data held within your ORCID Record available via our APIs to ORCID Members to whom you have granted permission
 * Help us operate, protect, evaluate and improve our Websites and the ORCID Registry, its features, and ORCID operations generally
 
@@ -548,7 +548,7 @@ We do not otherwise share your personal data. We never sell your personal data, 
 
 In addition to ORCID’s commitment to giving Record Holders control over their ORCID Records, we seek to support open access to ORCID information for the research community. ORCID shares with the public free of charge Everyone Data through the Registry web pages and APIs for viewing and use. Access to and use of this data is governed by our [Terms of Use](https://info.orcid.org/terms-of-use/) and [membership agreements](https://info.orcid.org/membership/direct-membership-terms-conditions/).
 
-Annually, ORCID also releases a [Public Data File](https://info.orcid.org/documentation/features/annual-data-files/), containing all Everyone Data from active ORCID Records within the ORCID Registry at the time of creation. The public has free access to the Public Data File for viewing and re-use. We share the Public Data File to ensure that all scholarly communication stakeholders, including organizations that are not ORCID Members, have broad access to what has become a vital part of the scholarly communication infrastructure. Additionally, this serves as a method to allow ORCID data to be archived in the public interest and for scientific and historical research purposes.
+Annually, ORCID also releases a [Public Data File](https://info.orcid.org/what-is-orcid/services/annual-data-files/), containing all Everyone Data from active ORCID Records within the ORCID Registry at the time of creation. The public has free access to the Public Data File for viewing and re-use. We share the Public Data File to ensure that all scholarly communication stakeholders, including organizations that are not ORCID Members, have broad access to what has become a vital part of the scholarly communication infrastructure. Additionally, this serves as a method to allow ORCID data to be archived in the public interest and for scientific and historical research purposes.
 
 The Public Data File is released under a [CC0 1.0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) developed by Creative Commons, in which ORCID waives all copyright and related rights it owns in the Public Data File to the extent permitted by law. Accordingly, ORCID does not impose restrictions or conditions (including those contained in our Terms of Use and membership agreements) on use of the Public Data File, but we have published recommended community norms in our [Public Data File Use Policy](https://info.orcid.org/public-data-file-use-policy/). 
 
