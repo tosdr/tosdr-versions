@@ -1,6 +1,6 @@
-[Viator - A TripAdvisor Company: Save up to 30% off! Plus, reserve now & pay later + 10.5% Cash Back
+[HP Canada: Black Friday unbeatable deals - Save up to 70% + 10% Cash Back
 
-Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/viator?store=viator&sourceName=sitewide-sticky-header)
+Shop Now](https://www.rakuten.ca/ticket/campaign/2019-countdown-clock/coupon/hp-canada?store=hp-canada&sourceName=sitewide-sticky-header)
 
 [](https://www.rakuten.ca/)
 
