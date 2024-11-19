@@ -297,17 +297,17 @@ _By_ [Joseph Howlett](https://www.quantamagazine.org/authors/josephhowlett)
 
 _By_ [John Pavlus](https://www.quantamagazine.org/authors/john-pavlus)
 
+[![Bessis sitting at an outdoor café in Paris.](https://www.quantamagazine.org/wp-content/uploads/2024/11/QADavidBessis-crLaurenceGeai-Thumbnail.webp)](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+
+[#### Mathematical Thinking Isn’t What You Think It Is](https://www.quantamagazine.org/mathematical-thinking-isnt-what-you-think-it-is-20241118/)
+
+_By_ [Kelsey Houston-Edwards](https://www.quantamagazine.org/authors/kelsey-houston-edwards)
+
 [![A meteorite floating in space](https://www.quantamagazine.org/wp-content/uploads/2024/11/TheComet_crChristianStangl-Thumbnail.webp)](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
 
 [#### The Cosmos Teems with Complex Organic Molecules](https://www.quantamagazine.org/the-cosmos-teems-with-complex-organic-molecules-20241113/)
 
 _By_ [Elise Cutts](https://www.quantamagazine.org/authors/elise-cutts)
-
-[![Animation in which tornadoes twirl amid a crystalline lattice.](https://www.quantamagazine.org/wp-content/uploads/2024/11/Supersolids-crIbrahimRayintakath_RuiBrazThumbnail.webp)](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-
-[#### Physicists Spot Quantum Tornadoes Twirling in a ‘Supersolid’](https://www.quantamagazine.org/physicists-spot-quantum-tornadoes-twirling-in-a-supersolid-20241106/)
-
-_By_ [Zack Savitsky](https://www.quantamagazine.org/authors/zack-savitsky)
 
 The Quanta Newsletter
 
