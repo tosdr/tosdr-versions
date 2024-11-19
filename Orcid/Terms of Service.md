@@ -36,7 +36,7 @@ MENUMENU
                 * [ORCID’s Historical Community](https://info.orcid.org/orcid-community/orcids-historical-community/)
                 * [ORCID Community Partners](https://info.orcid.org/orcid-community/orcid-community-partners/)
                 * [Peer PID and Scholarly Infrastructure Providers](https://info.orcid.org/orcid-community/peer-pid-and-scholarly-infrastructure-providers/)
-        * * [Services](https://info.orcid.org/documentation/features/)
+        * * [Services](https://info.orcid.org/documentation/services/)
                 * [Affiliation Manager](https://info.orcid.org/affiliation-manager/)
                 * [Member Portal](https://info.orcid.org/documentation/member-portal/)
                 * [Annual data files](https://info.orcid.org/what-is-orcid/services/annual-data-files/)
