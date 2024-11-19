@@ -20,6 +20,14 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+    
+    ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+    
+    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-360x180.jpg)](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+    
+    ### [Family of East Street Market victim says he was ‘warm, kind and generous’](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+    
     [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--360x180.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
     
     ### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
@@ -47,15 +55,6 @@
     [![Creative Commons- By Waterford_Man](https://southwarknews.co.uk/wp-content/uploads/2024/11/Tourists-Creative-Commons-By-Waterford_Man-360x180.jpg)](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
     
     ### [Could a Tourist Tax come to London?](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-    
-    [![Zoe Garbett, a Green member of the London Assembly. 
-    Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Zoe-Garbett-1-360x180.jpg)](https://southwarknews.co.uk/area/london/a-police-caution-is-spent-after-two-and-a-half-years-yet-a-prostitutes-caution-will-show-up-until-your-100/)
-    
-    ### [A police caution is spent after two and a half years, yet a ‘prostitute’s caution’ will show up until you’re 100](https://southwarknews.co.uk/area/london/a-police-caution-is-spent-after-two-and-a-half-years-yet-a-prostitutes-caution-will-show-up-until-your-100/)
-    
-    [![Jackie Power](https://southwarknews.co.uk/wp-content/uploads/2022/01/MG_4571-copy-e1606322639364.jpg)](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
-    
-    ### [Planning and preparing for next season’s planting is the perfect activity to lift those winter blues](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -106,6 +105,14 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+    
+    ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+    
+    [![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-360x180.jpg)](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+    
+    ### [Family of East Street Market victim says he was ‘warm, kind and generous’](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+    
     [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--360x180.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
     
     ### [Fire erupts at recycling plant off Old Kent Road](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
@@ -133,15 +140,6 @@ View All Result
     [![Creative Commons- By Waterford_Man](https://southwarknews.co.uk/wp-content/uploads/2024/11/Tourists-Creative-Commons-By-Waterford_Man-360x180.jpg)](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
     
     ### [Could a Tourist Tax come to London?](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-    
-    [![Zoe Garbett, a Green member of the London Assembly. 
-    Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Zoe-Garbett-1-360x180.jpg)](https://southwarknews.co.uk/area/london/a-police-caution-is-spent-after-two-and-a-half-years-yet-a-prostitutes-caution-will-show-up-until-your-100/)
-    
-    ### [A police caution is spent after two and a half years, yet a ‘prostitute’s caution’ will show up until you’re 100](https://southwarknews.co.uk/area/london/a-police-caution-is-spent-after-two-and-a-half-years-yet-a-prostitutes-caution-will-show-up-until-your-100/)
-    
-    [![Jackie Power](https://southwarknews.co.uk/wp-content/uploads/2022/01/MG_4571-copy-e1606322639364.jpg)](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
-    
-    ### [Planning and preparing for next season’s planting is the perfect activity to lift those winter blues](https://southwarknews.co.uk/news/community/planning-and-preparing-for-next-seasons-planting-is-the-perfect-activity-to-lift-those-winter-blues/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -359,31 +357,43 @@ Website
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
+[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
 [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
 ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
-[![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/DSC_7271-2024-11-06T22_12_38.272-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+### [Loan round-up – Millwall striker helps pile on misery on Dundee](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-[12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+[14th November 2024](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+[![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-120x86.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
-### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
-[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[![Romain Esse during Millwall's game against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/R-Esse-02727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
-
-### [Three Millwall players given international call-ups](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
-
-[12th November 2024](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
+[12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
 ### Featured Articles
+
+[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[![Hilkiah McLeggan. Image: Met Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Untitled-design-2024-11-13T141955.385.png.article-962-e1731923792618-120x86.jpg)](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+
+### [Family of East Street Market victim says he was ‘warm, kind and generous’](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
+
+[18th November 2024](https://southwarknews.co.uk/area/walworth/family-of-east-street-market-victim-says-he-was-warm-kind-and-generous/)
 
 [![Several fire engines were called to extinguish the blaze at the waste management facility](https://southwarknews.co.uk/wp-content/uploads/2024/11/Several-fire-engines-were-called-to-extinguish-the-blaze-at-the-waste-management-facility--120x86.png)](https://southwarknews.co.uk/area/bermondsey/fire-erupts-at-recycling-plant-off-old-kent-road/)
 
@@ -408,18 +418,6 @@ Website
 ### [Could a Tourist Tax come to London?](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
 
 [17th November 2024](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-
-[![Tradtional pie, mash and liquor at Manzes.](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_9951-e1731590815410-120x86.jpg)](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-### [London’s oldest pie and mash shop supports campaign for protected status of iconic dish](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-[16th November 2024](https://southwarknews.co.uk/area/southwark/londons-oldest-pie-and-mash-shop-supports-campaign-for-protected-status-of-iconic-dish/)
-
-[![East Street Market reopened on Tuesday, November 12](https://southwarknews.co.uk/wp-content/uploads/2024/11/IMG_3153-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-
-### [Comment: East Street Market is pulling together after tragic attack](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
-
-[16th November 2024](https://southwarknews.co.uk/area/walworth/comment-east-street-market-is-pulling-together-after-tragic-attack/)
 
 ### USEFUL PAGES
 
