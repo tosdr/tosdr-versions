@@ -184,7 +184,8 @@ If you have questions about this Privacy Policy or our policies, please talk to 
 
 #### Get the news
 
-* [](https://www.twitter.com/worldanvil)[](https://www.youtube.com/channel/UCf5MDxxTuT1OpwOxVfG-ofg)[](https://www.twitch.tv/worldanvil)[](https://www.facebook.com/worldanvil)[](https://worldanvil.tumblr.com/)[](http://www.reddit.com/r/worldanvil)[](https://www.worldanvil.com/discord)
+* [](https://bsky.app/profile/worldanvil.com)
+[](https://www.twitter.com/worldanvil)[](https://www.youtube.com/channel/UCf5MDxxTuT1OpwOxVfG-ofg)[](https://www.twitch.tv/worldanvil)[](https://www.facebook.com/worldanvil)[](https://worldanvil.tumblr.com/)[](http://www.reddit.com/r/worldanvil)[](https://www.worldanvil.com/discord)
 
 #### Listen to our Podcast
 
@@ -206,4 +207,4 @@ If you have questions about this Privacy Policy or our policies, please talk to 
 
 * * *
 
-by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.042 © 2017-2024 \[en\] | Anvil Time: **10:33**, Nov 19 2024
+by [3 Armored Kittens](https://3armoredkittens.com/) · Prodromos v.1.1 - World Anvil 0.9.15.042 © 2017-2024 \[en\] | Anvil Time: **16:46**, Nov 19 2024
