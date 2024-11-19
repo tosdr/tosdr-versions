@@ -285,8 +285,6 @@ Company
 
 [Affiliates](https://copyleaks.com/affiliate)
 
-[Biden Executive Order on AI](https://copyleaks.com/biden-executive-order-ai-compliance)
-
 Resources
 
 [Plagiarism Checker](https://copyleaks.com/plagiarism-checker)
