@@ -356,6 +356,7 @@ If any provision in the Agreement is held invalid or unenforceable, that provisi
 
 * Learn More
 * [What Is a VPN?](https://www.expressvpn.com/what-is-vpn)
+* [What Is my IP?](https://www.expressvpn.com/what-is-my-ip)
 * [Where to Watch](https://www.expressvpn.com/where-to-watch)
 * [Top 5 VPN Uses](https://www.expressvpn.com/get-started)
 * [Blog](https://www.expressvpn.com/blog)
