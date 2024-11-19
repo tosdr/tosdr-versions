@@ -342,11 +342,11 @@ Related Insights
     
     Video
     
-* [Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
+* [For Fintech, the Future is Now](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/for-fintech-the-future-is-now)
     
     Article
     
-* [For Fintech, the Future is Now](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/for-fintech-the-future-is-now)
+* [Budgeting for Teens: Teaching Teens to Save](https://www.regions.com/insights/personal/personal-finances/budgeting-and-saving/teaching-teens-how-to-save-money)
     
     Article
     
