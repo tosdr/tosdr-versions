@@ -17,7 +17,7 @@ English Edition
 * [অসমীয়া (Assam)](https://assam.news18.com/)
 * [ଓଡ଼ିଆ (Odia)](https://odia.news18.com/)
 
-Tue, Nov 19, 2024
+Wed, Nov 20, 2024
 
 [Download News18 APP](https://onelink.to/eng-web-other)[Watch LIVE TV](https://www.news18.com/livetv/)
 
@@ -128,13 +128,13 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
-    * [Dhanush](https://www.news18.com/movies/dhanushs-reaction-to-nayanthara-vignesh-dating-on-nrd-sets-goes-viral-do-you-have-any-shame-9124774.html)
-    * [Rakesh Roshan](https://www.news18.com/movies/rakesh-roshan-ajay-devgn-krrish-3-karan-arjun-exit-hrithik-roshan-vivek-oberoi-exclusive-9123611.html)
-    * [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-    * [Ashneer Grover](https://www.news18.com/movies/ashneer-grover-breaks-silence-on-getting-schooled-by-salman-khan-my-deal-numbers-are-9124687.html)
+    * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
+    * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
+    * [Aryan Khan](https://www.news18.com/movies/aryan-khans-debut-netflix-series-on-bollywood-announced-shah-rukh-khan-says-this-one-is-9124837.html)
+    * [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
     * [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
     * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-    * [Dilip Joshi](https://www.news18.com/movies/taarak-mehta-ka-ooltah-chashmah-dilip-joshi-asit-modi-fight-jethalal-to-leave-show-9124043.html)
+    * [Dhanush](https://www.news18.com/movies/dhanushs-reaction-to-nayanthara-vignesh-dating-on-nrd-sets-goes-viral-do-you-have-any-shame-9124774.html)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
     * [Check Credit Score](https://www.moneycontrol.com/credit-score?utm_source=News18English&utm_medium=Email&utm_campaign=CBEnglish)
@@ -170,13 +170,13 @@ Follow us on
 
 In Trends:
 
-* [Dhanush](https://www.news18.com/movies/dhanushs-reaction-to-nayanthara-vignesh-dating-on-nrd-sets-goes-viral-do-you-have-any-shame-9124774.html)
-* [Rakesh Roshan](https://www.news18.com/movies/rakesh-roshan-ajay-devgn-krrish-3-karan-arjun-exit-hrithik-roshan-vivek-oberoi-exclusive-9123611.html)
-* [Kabir Bedi](https://www.news18.com/movies/kabir-bedi-reveals-why-parveen-babi-left-him-she-was-afraid-that-i-will-force-her-to-9121996.html)
-* [Ashneer Grover](https://www.news18.com/movies/ashneer-grover-breaks-silence-on-getting-schooled-by-salman-khan-my-deal-numbers-are-9124687.html)
+* [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
+* [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
+* [Aryan Khan](https://www.news18.com/movies/aryan-khans-debut-netflix-series-on-bollywood-announced-shah-rukh-khan-says-this-one-is-9124837.html)
+* [Nayanthara](https://www.news18.com/web-stories/celebrities/5-nayanthara-inspired-saree-blouses-for-wedding-season-2617291/)
 * [India vs Aus](https://www.news18.com/cricket/series/india-vs-australia-2024-25.html)
 * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
-* [Dilip Joshi](https://www.news18.com/movies/taarak-mehta-ka-ooltah-chashmah-dilip-joshi-asit-modi-fight-jethalal-to-leave-show-9124043.html)
+* [Dhanush](https://www.news18.com/movies/dhanushs-reaction-to-nayanthara-vignesh-dating-on-nrd-sets-goes-viral-do-you-have-any-shame-9124774.html)
 
 * Follow Us
 * [](https://www.whatsapp.com/channel/0029Va6hvgbDOQITqnmuXi0J)
@@ -430,7 +430,7 @@ This Policy was last updated as of 14th November 2024.
 
 ![](https://images.news18.com/ibnlive/uploads/2021/07/1627283897_news18_logo-1200x800.jpg)
 
-Nov 19, 2024
+Nov 20, 2024
 
 [View All](https://www.news18.com/short-news/)
 
