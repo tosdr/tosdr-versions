@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/vaccinaties-gezondheid/het-e-60-miljoen-cadeautje-voor-edith-schippers/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/trump-laat-pelosi-even-zien-wie-de-baas-is/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
