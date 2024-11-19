@@ -197,6 +197,7 @@ mobile-main-nav
     * [Parent/Community Partnerships](https://www.lwsd.org/get-involved/parent-community-partnerships)
     * [PTSA Council](https://www.lwsd.org/get-involved/parent-community-partnerships/ptsa-in-lwsd)
     * [Volunteering in LWSD](https://www.lwsd.org/get-involved/volunteering-in-lwsd)
+    * [Season of Giving](https://www.lwsd.org/get-involved/season-of-giving)
     
 * [Programs](https://www.lwsd.org/programs)
     
@@ -550,6 +551,7 @@ nav-main
     * [Parent/Community Partnerships](https://www.lwsd.org/get-involved/parent-community-partnerships)
     * [PTSA Council](https://www.lwsd.org/get-involved/parent-community-partnerships/ptsa-in-lwsd)
     * [Volunteering in LWSD](https://www.lwsd.org/get-involved/volunteering-in-lwsd)
+    * [Season of Giving](https://www.lwsd.org/get-involved/season-of-giving)
     
 * [Programs](https://www.lwsd.org/programs)
     
