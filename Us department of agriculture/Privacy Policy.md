@@ -260,7 +260,7 @@ Footer navigation
 
 ### Sign Up for Updates
 
-[Subscribe](https://visitor.r20.constantcontact.com/manage/optin?v=001Sk_8Aa13394xonLLUknSR_CtAy6sVkj7-WTntErj4YHitEGv_xZXTgEreyr8MdkMKJ6cnoDLHPraoNtEuHeVpYuA7EHtjdGdcHtASf8lweU%3D)
+[Subscribe](https://public.govdelivery.com/accounts/USDAOC/subscriber/new)
 
  ![USDA Logo](/themes/usda/img/usda-symbol.svg)[U.S. Department of Agriculture](https://www.usda.gov/ "Home")
 
