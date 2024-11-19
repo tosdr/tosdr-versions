@@ -724,6 +724,7 @@ Your session expired. Please login again to continue to purchase.
     * [Installer network](https://enphase.com/homeowners/enphase-installer-network)
     * [Upgrade my system](https://enphase.com/homeowners/home-solar-upgrade-program)
     * [Enphase App login](https://enlighten.enphaseenergy.com/)
+    * [Blog](https://enphase.com/blog)
     * [Connected appliances](https://enphase.com/homeowners/connected-appliances)
     * [Critical updates](https://enphase.com/homeowners/updates)
     * [Design my system](https://estimator.enphase.com/)
@@ -776,6 +777,7 @@ Your session expired. Please login again to continue to purchase.
     * [Leadership](https://enphase.com/leadership/)
     * [Investors](https://investor.enphase.com/)
     * [Careers](https://enphase.com/careers)
+    * [Blog](https://enphase.com/blog)
     * [Cybersecurity](https://enphase.com/cybersecurity)
     * [Contact us](https://enphase.com/contact)
     
