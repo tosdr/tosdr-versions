@@ -34,11 +34,11 @@ Login Stay logged in
 
 Latest Forum Topics
 
-* [Commend or Condemn AN II (2,269)](https://forum.nationstates.net/viewtopic.php?t=553545&f=25&view=unread#unread ""Commend or Condemn AN II" (2,269 posts)")
-* [Ukrainian War VII: Everything has a p… (9,992)](https://forum.nationstates.net/viewtopic.php?t=551126&f=20&view=unread#unread ""Ukrainian War VII: Everything has a price" (9,992 posts)")
-* [Grant AN's wish then curse it (1,152)](https://forum.nationstates.net/viewtopic.php?t=555678&f=25&view=unread#unread ""Grant AN's wish then curse it" (1,152 posts)")
-* [The Catalyst of Crisis (OOC/Signup) (87)](https://forum.nationstates.net/viewtopic.php?t=558391&f=5&view=unread#unread ""The Catalyst of Crisis (OOC/Signup)" (87 posts)")
-* [What triggers you about the AN? (10,832)](https://forum.nationstates.net/viewtopic.php?t=535499&f=25&view=unread#unread ""What triggers you about the AN?" (10,832 posts)")
+* [2023-24 Israel-Iran proxy conflict (2,010)](https://forum.nationstates.net/viewtopic.php?t=557569&f=20&view=unread#unread ""2023-24 Israel-Iran proxy conflict" (2,010 posts)")
+* [Where would you never live ? (88)](https://forum.nationstates.net/viewtopic.php?t=558482&f=20&view=unread#unread ""Where would you never live ?" (88 posts)")
+* [What rights specifically will Donald… (230)](https://forum.nationstates.net/viewtopic.php?t=558263&f=20&view=unread#unread ""What rights specifically will Donald Trump Take Away?" (230 posts)")
+* [American Politics: Turnabout Trump (5,527)](https://forum.nationstates.net/viewtopic.php?t=558037&f=20&view=unread#unread ""American Politics: Turnabout Trump" (5,527 posts)")
+* [A trans question. (141)](https://forum.nationstates.net/viewtopic.php?t=558407&f=20&view=unread#unread ""A trans question." (141 posts)")
 
 Advertisement
 
