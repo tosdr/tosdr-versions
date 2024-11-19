@@ -68,20 +68,20 @@ travel • live • work • interact • share • repeat • 
 [fun from day one!](#)
 ----------------------
 
-* [fun from day one!](#tab_673c100b2df32)
+* [fun from day one!](#tab_673c669501a22)
     ---------------------------------------
     
-    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_673c100b2df32)
+    [We are here to offer more than just accommodation. We are committed to provide you a home away from home, where you can instantly feel like a part of a community of likeminded people. We have events running at the hostel every day of the week, so that you can meet other travellers and have fun from day one!](#tab_673c669501a22)
     
-* [fomo no more!](#tab_673c100b2df46)
+* [fomo no more!](#tab_673c669501a31)
     -----------------------------------
     
-    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_673c100b2df46)
+    [We want you to experience Amsterdam in the best way possible, with no room for fomo. We’re here to give you the coolest tips and recommendations for your visit, from our many local perspectives. Our staff is an amazing mix of true Amsterdammers and international locals who are there for you 24/7.](#tab_673c669501a31)
     
-* [we’ve got you covered, dude](#tab_673c100b2df54)
+* [we’ve got you covered, dude](#tab_673c669501a3e)
     -------------------------------------------------
     
-    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_673c100b2df54)
+    [You are part of the international and unique Via family as you check in. Our spaces just boost creativity and they are designed for all kinds of needs; make connections, have fun, eat & drink, join activities, sleep, connect online and offline, make memories, take cool photos… We come from all around the world just like our guests, so we really get you, dude.](#tab_673c669501a3e)
     
 
 ##### [view facilities](https://www.viahostels.com/facilities/)
@@ -172,7 +172,7 @@ Cinema room
 
 **Monday | 20:00  
 Cinema room  
-**After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening. Join us for ‘Ten Things I Hate About You’!
+**After a day of adventure around the city, kick back in our inviting cinema room for a laid-back evening. Join us for ‘The Night Before Christmas’
 
 #### Brushes ‘n Brews
 
@@ -186,23 +186,23 @@ The Dude Bar
 The Dude Bar  
 **Gather in the bar area for a fun, creative evening. Enrich your Amsterdam experience by making a special bracelet so you can remember the fun times forever. We have all the stuff, you just bring you.
 
-#### Game night
+#### Kings of Cups
 
-**Thursday | 19:00  
+**Thursday | 20:00  
 The Dude Bar  
-**Join us for Game Night featuring thrilling rounds of giant Jenga and uproarious fun with Cards Against Humanity. With high-stakes stacking and endless laughs, it’s the perfect way to unwind and enjoy quality time with friends!
+**Join us for a fun-filled beer pong tournament! Show-off your skills, compete with friends, and aim for the ultimate prize – a free pitcher of beer for the winning team.
 
-#### Live DJ + Karaoke Party
+#### Karaoke Party
 
-**Friday | start 14:30  
+**Friday | 20:00  
 The Dude Bar  
-**DJ brings your favorite tunes from 14:30 – 17:30 and after (20:00) it’s time to hit the stage during our karaoke night. Extra fun: every singer gets a free shot!
+**What’s your go-to karaoke song? Come show us on Friday, all singers get a free shot. Bring your friends, or make some new ones singing your heart out!
 
-#### Boozy Bingo
+#### Pub Quiz
 
-**Saturday | 19:00  
+**Saturday | 20:00  
 The Dude Bar  
-**Test your musical knowledge and lucky charm by joining us for an unforgettable evening. A music bingo night with bonus rounds and free shots
+**Get ready for a night of brain-teasing fun at our Pub Quiz! Challenge your wits and compete for glory. The best part? Free shots & beers for the winners.
 
 Trusted by over 10,000 visitors worldwide
 -----------------------------------------
