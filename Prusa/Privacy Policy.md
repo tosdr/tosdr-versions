@@ -1,3 +1,5 @@
+[Introducing Prusa CORE One](https://www.prusa3d.com/product/prusa-core-one/): Our new fully-enclosed CoreXY 3D printer with active chamber temperature control!
+
 Shipping to
 
 ![United States flag](/cdn-cgi/image/width=45,format=auto,quality=85/content/images/country/1792.png)United States
