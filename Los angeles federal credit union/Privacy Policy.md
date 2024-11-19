@@ -117,7 +117,7 @@ Privacy Policy
 * [BLOG](https://www.lafcu.org/about-us/blog)
 * [WHAT'S NEW](https://www.lafcu.org/whats-new)
 * [RATES](https://www.lafcu.org/rates)
-* [PAYMENTS](https://lafcu.messagepay.com/payment/accountlookup)
+* [PAYMENTS](https://www.lafcu.org/make-a-payment)
 
 Socialize With Us
 -----------------
