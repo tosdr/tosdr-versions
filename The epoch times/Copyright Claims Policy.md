@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
+* [Netanyahu Says ‘It’s Not a Secret’ That Israel Hit a Key Iranian Nuclear Component](https://www.theepochtimes.com/world/netanyahu-says-its-not-a-secret-that-israel-hit-a-key-iranian-nuclear-component-5762160)
+    
+    NEW By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Netanyahu Says ‘It’s Not a Secret’ That Israel Hit a Key Iranian Nuclear Component](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Netanyahu Says ‘It’s Not a Secret’ That Israel Hit a Key Iranian Nuclear Component](https://img.theepochtimes.com/assets/uploads/2023/11/09/id5526380-GettyImages-152881699-205x123.jpg.webp)](https://www.theepochtimes.com/world/netanyahu-says-its-not-a-secret-that-israel-hit-a-key-iranian-nuclear-component-5762160)
+* [Major US Health Network Files for Bankruptcy](https://www.theepochtimes.com/business/major-us-health-network-files-for-bankruptcy-5762231)
+    
+    NEW By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
+    
+    [![Major US Health Network Files for Bankruptcy](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Major US Health Network Files for Bankruptcy](https://img.theepochtimes.com/assets/uploads/2024/07/04/id5680286-Bankruptcy-Court-SB-205x123.jpg.webp)](https://www.theepochtimes.com/business/major-us-health-network-files-for-bankruptcy-5762231)
+* [US Military Suicides Continued to Increase in 2023: Pentagon Report](https://www.theepochtimes.com/us/us-military-suicides-continued-to-increase-in-2023-pentagon-report-5760258)
+    
+    2hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    
+    [![US Military Suicides Continued to Increase in 2023: Pentagon Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![US Military Suicides Continued to Increase in 2023: Pentagon Report](https://img.theepochtimes.com/assets/uploads/2024/11/11/id5758042-Vets-Day-6_JF_11112024-205x123.jpg.webp)](https://www.theepochtimes.com/us/us-military-suicides-continued-to-increase-in-2023-pentagon-report-5760258)
+* [Ukraine Has Fired First US-Made ATACMS Missiles Inside Russia, Says Kremlin](https://www.theepochtimes.com/world/ukraine-has-fired-first-us-made-atacms-missiles-inside-russia-says-kremlin-5762239)
+    
+    2hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Ukraine Has Fired First US-Made ATACMS Missiles Inside Russia, Says Kremlin](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Ukraine Has Fired First US-Made ATACMS Missiles Inside Russia, Says Kremlin](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761575-GettyImages-824113280-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/ukraine-has-fired-first-us-made-atacms-missiles-inside-russia-says-kremlin-5762239)
+* [Second Baltic Sea Cable Cut, Germany Suspects Sabotage](https://www.theepochtimes.com/world/second-baltic-sea-cable-cut-germany-suspects-sabotage-5762155)
+    
+    3hr By [Owen Evans](https://www.theepochtimes.com/author/owen-evans)
+    
+    [![Second Baltic Sea Cable Cut, Germany Suspects Sabotage](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Second Baltic Sea Cable Cut, Germany Suspects Sabotage](https://img.theepochtimes.com/assets/uploads/2024/05/09/id5647131-Boris-Pistorius-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/second-baltic-sea-cable-cut-germany-suspects-sabotage-5762155)
+* [After First-Term Reversal, Trump’s Election Revives Prospect of Syria Pullout](https://www.theepochtimes.com/world/after-first-term-reversal-trumps-election-revives-prospect-of-syria-pullout-5760520)
+    
+    4hr By [Adam Morrow](https://www.theepochtimes.com/author/adam-morrow)
+    
+    [![After First-Term Reversal, Trump’s Election Revives Prospect of Syria Pullout](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![After First-Term Reversal, Trump’s Election Revives Prospect of Syria Pullout](https://img.theepochtimes.com/assets/uploads/2024/09/29/id5732258-Syria-US-troops-GettyImages-1320354779-205x123.jpg.webp)](https://www.theepochtimes.com/world/after-first-term-reversal-trumps-election-revives-prospect-of-syria-pullout-5760520)
+* [Putin Signs New Doctrine Lowering Threshold for Russia Using Nuclear Weapons](https://www.theepochtimes.com/world/putin-signs-new-doctrine-lowering-threshold-for-russia-using-nuclear-weapons-5762150)
+    
+    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    
+    [![Putin Signs New Doctrine Lowering Threshold for Russia Using Nuclear Weapons](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![Putin Signs New Doctrine Lowering Threshold for Russia Using Nuclear Weapons](https://img.theepochtimes.com/assets/uploads/2024/11/08/id5756562-1.download-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/putin-signs-new-doctrine-lowering-threshold-for-russia-using-nuclear-weapons-5762150)
+* [State Laws Addressing Illegal Immigration in Limbo After Trump’s Reelection](https://www.theepochtimes.com/us/state-laws-addressing-illegal-immigration-in-limbo-after-trumps-reelection-5761778)
+    
+    5hr By [Darlene McCormick Sanchez](https://www.theepochtimes.com/author/darlene-sanchez)
+    
+    [![State Laws Addressing Illegal Immigration in Limbo After Trump’s Reelection](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![State Laws Addressing Illegal Immigration in Limbo After Trump’s Reelection](https://img.theepochtimes.com/assets/uploads/2023/12/15/id5547853-GettyImages-1834230231_1-205x123.jpg.webp)](https://www.theepochtimes.com/us/state-laws-addressing-illegal-immigration-in-limbo-after-trumps-reelection-5761778)
+* [The Challenges and Pathways for Trump to Reduce Federal Workers](https://www.theepochtimes.com/us/the-challenges-and-pathways-for-trump-to-remove-federal-workers-in-efficiency-drive-5761080)
+    
+    5hr By [Kevin Stocklin](https://www.theepochtimes.com/author/kevin-stocklin)
+    
+    [![The Challenges and Pathways for Trump to Reduce Federal Workers](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    
+    ![The Challenges and Pathways for Trump to Reduce Federal Workers](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762225-GettyImages-2176986714-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/the-challenges-and-pathways-for-trump-to-remove-federal-workers-in-efficiency-drive-5761080)
 * [45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
     
-    7hr By [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
+    13hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
     
     [![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762068-HK-court-205x123.jpg.webp)](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
-* [US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://www.theepochtimes.com/world/us-state-department-says-russia-escalated-ukraine-war-by-deploying-north-koreans-5761883)
-    
-    8hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
-    
-    [![US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![US State Department Says Russia Escalated Ukraine War by Deploying North Koreans](https://img.theepochtimes.com/assets/uploads/2024/07/20/id5690856-07242023-DSC03117-Matthew-Miller-OP-1-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-state-department-says-russia-escalated-ukraine-war-by-deploying-north-koreans-5761883)
-* [Former Maryland Governor Is First to Announce Bid for DNC Chair](https://www.theepochtimes.com/us/former-maryland-governor-is-first-to-announce-bid-for-dnc-chair-5761872)
-    
-    9hr By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
-    
-    [![Former Maryland Governor Is First to Announce Bid for DNC Chair](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Former Maryland Governor Is First to Announce Bid for DNC Chair](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762052-Martin-OMalley-GettyImages-2170643456-205x123.jpg.webp)](https://www.theepochtimes.com/us/former-maryland-governor-is-first-to-announce-bid-for-dnc-chair-5761872)
-* [Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://www.theepochtimes.com/article/day-in-photos-launch-of-g20-senate-in-session-and-olive-pressing-5761558)
-    
-    10hr By [Epoch Times Staff](https://www.theepochtimes.com/author/epoch-times-staff)
-    
-    [![Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Day in Photos: Launch of G20, Senate in Session, and Olive Pressing](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761917-GettyImages-2184796784-OP-205x123.jpg.webp)](https://www.theepochtimes.com/article/day-in-photos-launch-of-g20-senate-in-session-and-olive-pressing-5761558)
-* [Meet the Top 4 Contenders for Treasury Secretary](https://www.theepochtimes.com/us/meet-the-top-4-contenders-for-treasury-secretary-5761741)
-    
-    10hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
-    
-    [![Meet the Top 4 Contenders for Treasury Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Meet the Top 4 Contenders for Treasury Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5761947-Scott-Bessent-Howard-Lutnick-Kevin-Warsh-Marc-Rowan-1-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/meet-the-top-4-contenders-for-treasury-secretary-5761741)
-* [Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://www.theepochtimes.com/us/biden-attends-1st-day-of-his-final-g20-summit-amid-tense-u-s-russia-relations-5761925)
-    
-    10hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
-    
-    [![Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Biden Attends 1st Day of His Final G20 Summit Amid Tense US–Russia Relations](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762050-Biden-at-G20-in-BrazilKO-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-attends-1st-day-of-his-final-g20-summit-amid-tense-u-s-russia-relations-5761925)
-* [Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://www.theepochtimes.com/us/trump-selects-former-rep-sean-duffy-for-transportation-secretary-5761999)
-    
-    10hr By [Nathan Worcester](https://www.theepochtimes.com/author/nathan-worcester) and [Melanie Sun](https://www.theepochtimes.com/author/melanie-sun)
-    
-    [![Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Trump Selects Former Rep. Sean Duffy for Transportation Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/18/id5762025-Sean-Duffy-GettyImages-1052999718-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-selects-former-rep-sean-duffy-for-transportation-secretary-5761999)
-* [Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://www.theepochtimes.com/us/court-dismisses-californias-lawsuit-against-citys-voter-id-law-5761887)
-    
-    11hr By [Jill McLaughlin](https://www.theepochtimes.com/author/jill-mclaughlin)
-    
-    [![Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Court Dismisses California’s Lawsuit Against City’s Voter ID Law](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755541-California-Voters-2KO-205x123.jpg.webp)](https://www.theepochtimes.com/us/court-dismisses-californias-lawsuit-against-citys-voter-id-law-5761887)
-* [Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://www.theepochtimes.com/us/pennsylvania-supreme-court-orders-counties-not-to-count-undated-ballots-5761847)
-    
-    11hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Pennsylvania Supreme Court Orders Counties Not to Count Undated Ballots](https://img.theepochtimes.com/assets/uploads/2024/11/06/id5755264-GettyImages-2182503287-1-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/pennsylvania-supreme-court-orders-counties-not-to-count-undated-ballots-5761847)
-* [Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://www.theepochtimes.com/us/georgia-appeals-court-cancels-oral-argument-over-fani-willis-disqualification-5761940)
-    
-    11hr By [Sam Dorman](https://www.theepochtimes.com/author/sam-dorman)
-    
-    [![Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
-    
-    ![Georgia Appeals Court Cancels Oral Argument for Trump Bid to Disqualify Fani Willis](https://img.theepochtimes.com/assets/uploads/2024/10/30/id5750488-GettyImages-1615613101-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/georgia-appeals-court-cancels-oral-argument-over-fani-willis-disqualification-5761940)
+    ![45 Hong Kong Pro-Democracy Figures Jailed in Landmark National Security Law Case](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762223-HK-court-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/45-hong-kong-pro-democracy-figures-sentenced-in-landmark-national-security-law-case-5762063)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
