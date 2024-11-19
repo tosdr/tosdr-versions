@@ -309,9 +309,8 @@ _[To Portal Page](https://www.rwth-aachen.de/cms/root/~eex/Die-RWTH/lidx/1/ "To 
 * [Contact](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/~cxdn/Kontakt/lidx/1/ "About RWTH > Contact & Directions > Contact")
 * [Visiting RWTH and Getting Around](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/~jgtm/Anreise-und-Mobilitaet/lidx/1/ "About RWTH > Contact & Directions > Visiting RWTH and Getting Around")
 * [RWTH Navigator](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/~epe/RWTH-Navigator/lidx/1/ "About RWTH > Contact & Directions > RWTH Navigator")
-* [Telephone Directory](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/~epd/Telefonbuch/lidx/1/ "About RWTH > Contact & Directions > Telephone Directory")
 * [Feedback](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/~cqjq/Feedback/lidx/1/ "About RWTH > Contact & Directions > Feedback")
-* [More ...](https://www.rwth-aachen.de/cms/root/Die-RWTH/~emu/Kontakt-Anreise/lidx/1/ "About RWTH > Contact & Directions > More ...")
+* [Space Management](https://www.rwth-aachen.de/cms/root/Die-RWTH/Kontakt-Anreise/~epf/Raumverwaltung/lidx/1/ "About RWTH > Contact & Directions > Space Management")
 
 [Close](#)
 
