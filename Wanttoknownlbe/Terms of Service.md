@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/overige/burgerinitiatief-mh17-jouw-steun-is-nodig/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/geschiedenis/onze-jfk-memorial/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
