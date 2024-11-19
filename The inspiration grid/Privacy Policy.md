@@ -291,6 +291,18 @@ Latest
 inspiration
 -----------
 
+![](https://inspgr.id/app/uploads/2024/11/lettering-mat-voyce-24-feature.jpg)
+
+[](https://theinspirationgrid.com/awesome-food-themed-lettering-by-mat-voyce/)
+
+### Awesome Food-Themed Lettering by Mat Voyce
+
+![](https://inspgr.id/app/uploads/2024/11/art-shinji-tsuchimochi-feature.jpg)
+
+[](https://theinspirationgrid.com/ukiyo-works-illustrations-by-shinji-tsuchimochi/)
+
+### Ukiyo Works: Illustrations by Shinji Tsuchimochi
+
 ![](https://inspgr.id/app/uploads/2024/11/art-jason-sims-feature.jpg)
 
 [](https://theinspirationgrid.com/perceptual-art-mesmerizing-installations-by-jason-sims/)
@@ -326,18 +338,6 @@ inspiration
 [](https://theinspirationgrid.com/matreksha-fun-sculptures-by-dima-lamonov/)
 
 ### Matreksha: Fun Sculptures by Dima Lamonov
-
-![](https://inspgr.id/app/uploads/2024/11/photography-gian-donati-24-feature.jpg)
-
-[](https://theinspirationgrid.com/black-white-architecture-stunning-photos-by-gian-corrado-donati/)
-
-### Black & White Architecture: Stunning Photos by Gian Corrado Donati
-
-![](https://inspgr.id/app/uploads/2024/11/branding-musa-restaurant-feature.jpg)
-
-[](https://theinspirationgrid.com/musa-restaurant-branding-by-tiare-payano/)
-
-### Musa Restaurant Branding by Tiare Payano
 
 Awesome products for creatives
 ------------------------------
