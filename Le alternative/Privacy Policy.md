@@ -12,6 +12,8 @@
 * [CATEGORIE](https://www.lealternative.net/menu)
 * [PROGETTI ETICI](https://www.lealternative.net/progetti-etici/)
 * [DIZIONARIO](https://www.lealternative.net/dizionario-nerd-italiano/)
+* [LISTA](https://lista.lealternative.net/)
+* [COMUNITÀ](https://www.lealternative.net/come-seguirci/)
 * [🔎](https://www.lealternative.net/cerca-nel-sito/)
 * [❄️](https://www.lealternative.net/snowflake/)
 
