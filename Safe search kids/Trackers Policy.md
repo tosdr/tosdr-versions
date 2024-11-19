@@ -654,19 +654,20 @@ Share This Article
 * [Human Interest](https://www.safesearchkids.com/well-being/human-interest/)
 * [Well-Being](https://www.safesearchkids.com/well-being/)
 
+[![The History of Thanksgiving for Students](https://www.safesearchkids.com/wp-content/uploads/2023/11/Thanksgiving-USA.jpg)](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+
+### 
+
+[The History of Thanksgiving](https://www.safesearchkids.com/the-history-of-thanksgiving/)
+
 [![Safe Internet for Schools](https://www.safesearchkids.com/wp-content/uploads/2022/05/Kids-in-Classroom-Searching-the-Web-Safely.jpg)](https://www.safesearchkids.com/internet-filtering/)
 
 ### 
 
 [Safe Internet for Schools](https://www.safesearchkids.com/internet-filtering/)
 
-[![Amazon Free 18-24 year olds](https://www.safesearchkids.com/wp-content/uploads/2024/10/Students-in-School-Hallway.jpg)](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
-
-### 
-
-[Amazon Prime FREE + 50% OFF](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
-
 * [Parental Control Software](https://www.safesearchkids.com/parental-control-software/)
+* [Amazon Prime for Students](https://www.safesearchkids.com/amazon-prime-offer-for-young-adults-and-college-students/)
 
 ### Parenting and Well-Being
 
@@ -831,6 +832,7 @@ Share This Article
 
 ### Internet Filtering & Security
 
+* [How Important Are Software Updates for Safety?](https://www.safesearchkids.com/how-important-are-software-updates-for-device-safety-and-your-protection/)
 * [Don’t Fall for Coupon Scams This Shopping Season](https://www.safesearchkids.com/dont-fall-for-coupon-scams-this-shopping-season/)
 * [Gamer Security | Protect and Play Safer](https://www.safesearchkids.com/gamer-security/)
 * [Biometric Security and Its Uncharted Pitfalls](https://www.safesearchkids.com/the-future-of-biometric-security-and-its-uncharted-pitfalls/)
