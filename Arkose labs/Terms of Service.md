@@ -372,6 +372,6 @@ _Warranty Disclaimer__._ Arkose Labs and its licensors, suppliers, partners, par
 
 X
 
-Cyber threats are evolving—Arkose Labs is evolving faster. Learn about our latest releases.
+New Research: Benchmark your defensive AI maturity against peers
 
-[Click Here](https://www.arkoselabs.com/blog/a-look-at-our-latest-feature-updates)
+[Learn More](https://www.arkoselabs.com/intersection-ai-digital-fraud-cyber-defenses/)
