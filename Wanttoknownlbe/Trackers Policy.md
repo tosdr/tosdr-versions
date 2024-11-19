@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/politiek/oorlog/ex-president-george-bush-jr-gearresteerd/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/chinezen-laten-us-als-een-blok-vallen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
