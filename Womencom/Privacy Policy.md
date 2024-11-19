@@ -41,20 +41,32 @@
 * [Newsletter](https://subscribe.women.com/newsletter "Newsletter")
 * [Advertise](https://static.com/advertise "Advertise")
 
-*  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+*  [![Gabrielle Union and Dwayne Wade at a basketball event](https://www.women.com/img/gallery/5-celeb-parents-who-are-loud-proud-supporters-of-their-trans-and-non-binary-children/intro-1731522385.jpg)](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
     
-    [Living](https://www.women.com/category/living/)
+    [Politics](https://www.women.com/category/politics/)
     
-    [Living](https://www.women.com/category/living/) By Amanda Chatel
+    [Politics](https://www.women.com/category/politics/) By Amanda Chatel
     
-    [Try Emma Watson's Viral Daily Journaling Practice For A Simple, Effective Mindfulness Habit](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
-    ============================================================================================================================================================================================================
+    [5 Celeb Parents Who Are Loud & Proud Supporters Of Their Trans And Non-Binary Children](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
+    ====================================================================================================================================================================
     
-    If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
+    Unlike generations before, our understanding of sexuality and gender is finally catching up with the experiences others have had since the dawn of time.
     
-    By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+    By Amanda Chatel [Read More](https://www.women.com/1712546/celebs-supportive-trans-non-binary-children/)
     
-* *  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
+* *  [![Emma Watson posing at the British Academy Film Awards](https://www.women.com/img/gallery/try-emma-watsons-viral-daily-journaling-practice-for-a-simple-effective-mindfulness-habit/intro-1731619992.jpg)](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+        
+        [Living](https://www.women.com/category/living/)
+        
+        [Living](https://www.women.com/category/living/) By Amanda Chatel
+        
+        ### [Try Emma Watson's Viral Daily Journaling Practice For A Simple, Effective Mindfulness Habit](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+        
+        If you have yet to start journaling, now might be time. And using Emma Watson's daily journaling practice is a good way to get started.
+        
+        By Amanda Chatel [Read More](https://www.women.com/1714009/emma-watson-viral-daily-journaling-practice-simple-effective-mindfulness-habit/)
+        
+    *  [![Dolly Parton smiling at an event in 2022](https://www.women.com/img/gallery/the-peoples-librarian-dolly-parton-is-bringing-books-back-to-the-people-thank-goodness/intro-1731513674.jpg)](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
         
         [Politics](https://www.women.com/category/politics/)
         
@@ -66,22 +78,22 @@
         
         By Madison Emily Whisenand [Read More](https://www.women.com/1712281/dolly-parton-bringing-books-back-to-people-imagination-library/)
         
-    *  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-        
-        [Living](https://www.women.com/category/living/)
-        
-        [Living](https://www.women.com/category/living/) By Emily Hutchinson
-        
-        ### [Anna Kendrick Is Refreshingly Candid About Her Decision To Remain Childless By Choice](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-        
-        Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
-        
-        By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
-        
 
 More Stories
 ------------
 
+*  [![Anna Kendrick on the red carpet for her film, ](https://www.women.com/img/gallery/anna-kendrick-is-refreshingly-candid-about-her-decision-to-remain-childless-by-choice/intro-1731437103.jpg)](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+    
+    [Living](https://www.women.com/category/living/)
+    
+    [Living](https://www.women.com/category/living/) By Emily Hutchinson
+    
+    ### [Anna Kendrick Is Refreshingly Candid About Her Decision To Remain Childless By Choice](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+    
+    Everyone's decision whether or not to have children is deeply personal, and Anna Kendrick's reasoning is straightforward and simple.
+    
+    By Emily Hutchinson [Read More](https://www.women.com/1711422/anna-kendrick-refreshingly-candid-decision-remain-childless-by-choice/)
+    
 *  [![Jennifer Lopez on the red carpet](https://www.women.com/img/gallery/5-jennifer-lopez-looks-that-show-off-her-killer-legs/intro-1730828602.jpg)](https://www.women.com/1705892/jennifer-lopez-leggiest-looks-all-time/)
     
     [Fashion](https://www.women.com/category/fashion/)
@@ -393,18 +405,6 @@ More Stories
     Thanks to Kylie Jenner, classic time pieces are more on trend than ever. Here's how the star is using the accessory to bridge luxury and practicality.
     
     By Bernadette Roe [Read More](https://www.women.com/1700478/kylie-jenner-trendiest-way-wear-watches-2024/)
-    
-*  [![A woman reading a book](https://www.women.com/img/gallery/the-5-best-books-of-the-2020s-for-millennials/intro-1730307958.jpg)](https://www.women.com/1701412/best-books-for-women-in-30s/)
-    
-    [Living](https://www.women.com/category/living/)
-    
-    [Living](https://www.women.com/category/living/) By Bernadette Roe
-    
-    ### [The 5 Best Books Of The 2020s For Millennials](https://www.women.com/1701412/best-books-for-women-in-30s/)
-    
-    For millenials in their early 30s, it can be difficult to navigate the changing tides of adulthood. These five books offer insight, wisdom and inspiration.
-    
-    By Bernadette Roe [Read More](https://www.women.com/1701412/best-books-for-women-in-30s/)
     
 
 Back
