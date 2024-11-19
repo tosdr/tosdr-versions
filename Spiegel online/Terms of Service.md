@@ -178,7 +178,7 @@ Gutscheine
 
 ### Freizeit
 
-* [Adventskalender](https://spiele.spiegel.de/adventskalender/?utm_campaign=adventskalender&utm_medium=footer_navigation&utm_source=spiegel_de "Adventskalender")
+* [Adventskalender Gewinnspiel](https://spiele.spiegel.de/adventskalender/?utm_campaign=adventskalender&utm_medium=footer_navigation&utm_source=spiegel_de "Adventskalender Gewinnspiel")
 * [Bücher bestellen](https://www.amazon.de/stores/page/9A033B74-B98E-4CE4-BB30-C47BD542801B?_encoding=UTF8&camp=1638&creative=6742&linkCode=ur2&linkId=ddec9c715dda90b1e0d431bb3abc5d3c&tag=wwwspiegelde-21 "Bücher bestellen")
 * [Eurojackpot](https://ad3.adfarm1.adition.com/redi?bid=10752058&kid=3485247&sid=4117394 "Eurojackpot")
 
@@ -376,7 +376,6 @@ SPIEGEL Gruppe
 * [SPIEGEL Akademie](https://akademie.spiegel.de/ "SPIEGEL Akademie")
 
 * [Services](https://www.spiegel.de/services/ "Services") Menü Services aufklappen
-    * [Adventskalender](https://spiele.spiegel.de/adventskalender/?utm_campaign=adventskalender&utm_medium=footer_navigation&utm_source=spiegel_de "Adventskalender")
     * [Bußgeldrechner](https://www.spiegel.de/auto/aktuell/bussgeldrechner-was-zu-schnelles-fahren-kostet-a-244772.html "Bußgeldrechner")
     * [Uni-Tools](https://www.spiegel.de/lebenundlernen/uni/studium-tipps-und-hilfe-fuer-uni-und-studentenleben-a-640620.html "Uni-Tools")
     * [Währungsrechner](https://boersen.manager-magazin.de/spon/devisen_uebersicht.htn#rechner "Währungsrechner")
