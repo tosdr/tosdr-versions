@@ -66,7 +66,7 @@ Any e-mail addresses are not used or collected for any purpose other than notify
 
 ### Look at this!
 
-[![Contributions From Nursing Home and Long-Term Care Industry, by State, 2001–2016](/assets/Images/teasers/small/nursing-homes.JPG)](https://www.followthemoney.org/research/institute-reports/nursing-a-long-term-political-strategy)
+[![2013 and 2014: Monetary Competitiveness in State Legislative Races](/assets/Uploads/Comp-vs-Incumb.png)](https://www.followthemoney.org/research/institute-reports/2013-and-2014-monetary-competitiveness-in-state-legislative-races/)
 
   [See More Visualizations](https://www.followthemoney.org/look-at-this)
 
