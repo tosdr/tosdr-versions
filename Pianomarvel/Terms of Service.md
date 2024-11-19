@@ -2,7 +2,7 @@
 
   
 
-**Last updated** **February 5, 2024**
+**Last updated** **November 14, 2024**
 
   
 
@@ -88,7 +88,7 @@
 
   
 
-These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Piano Marvel, LLC, doing business as Piano Marvel ("**Piano Marvel**", “**we**”, “**us**”, or “**our**”), concerning your access to and use of the [https://pianomarvel.com](https://pianomarvel.com/) website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). We are registered in Colorado, United States and have our registered office at 8212 Park Rd., Rye, CO 81069. You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU MUST DISCONTINUE USE IMMEDIATELY.
+These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and Piano Marvel LLC, doing business as Piano Marvel ("**Piano Marvel**", “**we**”, “**us**”, or “**our**”), concerning your access to and use of the [https://pianomarvel.com](https://pianomarvel.com/) website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). We are registered in Colorado, United States and have our registered office at 8212 Park Rd., Rye, CO 81069. You agree that by accessing the Site, you have read, understood, and agree to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU MUST DISCONTINUE USE IMMEDIATELY.
 
   
 
@@ -448,6 +448,8 @@ Aaron Garner
 
 Attn: Copyright Agent
 
+8212 Park Rd.
+
 Rye, CO 81069
 
 United States
@@ -630,7 +632,7 @@ In order to resolve a complaint regarding the Site or to receive further informa
 
   
 
-**Piano Marvel, LLC**
+**Piano Marvel LLC**
 
 **8212 Park Rd.**
 
