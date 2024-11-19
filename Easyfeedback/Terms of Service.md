@@ -366,4 +366,4 @@ November 1st, 2018
 
  [![easyfeedback logo weiß-rot](https://easy-feedback.com/wp-content/uploads/2020/02/easyfeedback-logo-weiss-rot.png)](https://easy-feedback.com/)
 
-Feedback Management Survey Tool ・ Made with love・ easyfeedback GmbH © 2010 – 2023 ・ All rights reserved.
+Feedback Management Survey Tool ・ Made with love・ easyfeedback GmbH © 2010 – 2025 ・ All rights reserved.
