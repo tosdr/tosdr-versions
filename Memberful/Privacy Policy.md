@@ -33,7 +33,7 @@
         
         Operator
         
-        Strategic blueprints to turn your business into a thriving membership.](https://operator.guide/)
+        Strategic blueprints to turn your business into a thriving membership.](https://www.membershipoperator.com/)
     * [announcement
         
         Product Updates
