@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Effortless Robot Movements](https://www.sciencedaily.com/releases/2024/11/241118125806.htm)
 * [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
 * [Optogenetics: Treating Epilepsy Seizures](https://www.sciencedaily.com/releases/2024/11/241115124741.htm)
 * [Advancing the Search for Life On Mars](https://www.sciencedaily.com/releases/2024/11/241118125317.htm)
@@ -217,7 +218,6 @@ this hour
 * [Enigma of the Crab Nebula's 'Zebra' Pattern](https://www.sciencedaily.com/releases/2024/11/241118125046.htm)
 * [Big Benefits to Online Gaming](https://www.sciencedaily.com/releases/2024/11/241118125037.htm)
 * [Abrupt Drop in Global Freshwater Levels](https://www.sciencedaily.com/releases/2024/11/241116195719.htm)
-* [Earliest Evidence of Humans Using Fire](https://www.sciencedaily.com/releases/2024/11/241116195644.htm)
 
 Trending Topics
 ---------------
@@ -232,23 +232,23 @@ this week
 
 [Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
-[Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
+[Stress](https://www.sciencedaily.com/news/mind_brain/stress/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
-
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
+
+[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Ecology](https://www.sciencedaily.com/news/earth_climate/ecology/)
+[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+
+[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
 
 [Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
-
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
 
   
 
