@@ -376,9 +376,9 @@ P
 
 ©2019 - 2024 By [![avatar](https://p.zhheo.com/8DSTSS20990281646044689944.PNG!cover_mini)张洪Heo](https://zhheo.com/)
 
-[![](https://p.zhheo.com/VPiMHH24891181731917988329.png!cover)京公网安备11011402054421号](http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11011402054421)[京ICP备19051325号-2](https://beian.miit.gov.cn/#/Integrated/index)
+[![](https://p.zhheo.com/VPiMHH24891181731917988329.png!cover)京公网安备11011402054421号](https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11011402054421)[京ICP备19051325号-2](https://beian.miit.gov.cn/#/Integrated/index)
 
-[订阅](https://blog.zhheo.com/rss/)[主题](https://blog.zhheo.com/update/)[](https://blog.zhheo.com/cc/ "cc协议")
+[打赏](https://rewards.zhheo.com/)[主题](https://blog.zhheo.com/update/)[举报与反馈](https://wj.zhheo.com/s/I70pWS)[](https://blog.zhheo.com/cc/ "cc协议")
 
 协议提醒助手
 
