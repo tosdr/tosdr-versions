@@ -1,3 +1,9 @@
+**
+
+The LWTech campus and Early Learning Center will be closing at 3 p.m. today due to expected high winds. Students should check Canvas for instructions from faculty regarding their afternoon and evening classes.
+
+**close alert
+
 [Skip to Main Content](#mainContent)[Skip to Footer](#mainFooter)
 
 [Visit](https://www.lwtech.edu/admissions/campus-tour.aspx)[Give](https://www.lwtech.edu/foundation/bright-futures/index.aspx)[Get Started](https://www.lwtech.edu/admissions/get-started-at-lwtech.aspx)
@@ -267,4 +273,4 @@ Information
 
 Last Updated:   | 2024 Copyright © Lake Washington Institute of Technology
 
-[9/26/24](https://a.cms.omniupdate.com/11/?skin=oucampus&account=lwtech&site=www&action=de&path=/about-us/shared-governance/policies-and-procedures/website-privacy-policy.pcf)
+[11/19/24](https://a.cms.omniupdate.com/11/?skin=oucampus&account=lwtech&site=www&action=de&path=/about-us/shared-governance/policies-and-procedures/website-privacy-policy.pcf)
