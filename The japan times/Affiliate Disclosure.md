@@ -135,21 +135,21 @@ If you would like to quote more than 20 percent of an article, please contact us
 
   [![Japanese companies lack the agility needed for the digital transformation, a new report says.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/15/434393.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Japanese companies lack the agility needed for the digital transformation, a new report says.")](https://www.japantimes.co.jp/business/2024/11/15/economy/japan-digital-competitiveness-english-ranking/ "Japan ranked 31st in digital competitiveness, 92nd for English skills")
 
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+[Japan, Australia and U.S. boost collective deterrence efforts amid China concerns](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
+
+  [![The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434711.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
+
+[Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
+
+  [![The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434627.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ")](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
+
 [Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
   [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
-
-[Hyogo governor reelected following ouster by assembly over harassment](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
-
-  [![Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434601.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
-
-[Mount Fuji eyes China-made tram to transport hikers, source says](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
-
-  [![Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.")](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
-
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Editors' Picks
 --------------
@@ -164,31 +164,33 @@ By [Kazuaki Nagata](https://www.japantimes.co.jp/author/142/kazuaki-nagata/ "Kaz
 
 [JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
 
+[Rising sex tourism exposes loopholes in Japan's anti-prostitution law](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+By [Karin Kaneko](https://www.japantimes.co.jp/author/4420/karin-kaneko/ "Karin Kaneko")  
+
+  [![While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/10/02/422453.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "While financial misfortunes during the COVID-19 pandemic may have driven some women to work the streets, others simply want more money to spend — or want to pay off their debts — at host clubs.")](https://www.japantimes.co.jp/news/2024/10/06/japan/society/japan-sex-tourism/ "Rising sex tourism exposes loopholes in Japan's anti-prostitution law")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
+[Japan, Australia and U.S. boost collective deterrence efforts amid China concerns](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
+
+By [Gabriel Dominguez](https://www.japantimes.co.jp/author/3151/gabriel-dominguez/ "Gabriel Dominguez")  
+
+  [![The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434711.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The aircraft carrier USS Ronald Reagan and the Japan Maritime Self-Defense Force helicopter destroyer JS Hyuga sail in formation with 16 other ships from the U.S. Navy and the Japan Maritime Self-Defense Force as aircraft from the U.S. Air Force and Japan Air Self-Defense Force fly overhead in formation during the Keen Sword exercise in the Philippine Sea on Nov. 8, 2018.  ")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/japan-australia-us-collective-deterrence/ "Japan, Australia and U.S. boost collective deterrence efforts amid China concerns")
+
+[BUSINESS](https://www.japantimes.co.jp/business/ "BUSINESS")
+
+[Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
+
+By [Mia Glass](https://www.japantimes.co.jp/author/3540/mia-glass/ "Mia Glass")  
+
+  [![The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434627.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "The likelihood of interest-rate hikes from the Bank of Japan and further cuts from the Federal Reserve will drive the yen's recovery to as far as ¥130 against the dollar, according to some strategists. ")](https://www.japantimes.co.jp/business/2024/11/18/markets/yen-bulls-us-japan-interest-rates-gap/ "Yen bulls lie in wait for U.S.-Japan yield gap to shrink next year")
+
+[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
+
 [Japan police helping people quit illegal part-time jobs](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
 
   [![A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434565.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A Metropolitan Police Department official offers a lecture on yami baito dark part-time jobs to high school students in Tokyo's Taito Ward on Tuesday.")](https://www.japantimes.co.jp/news/2024/11/17/japan/crime-legal/illegal-part-time-jobs/ "Japan police helping people quit illegal part-time jobs")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Hyogo governor reelected following ouster by assembly over harassment](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
-
-By [Francis Tang](https://www.japantimes.co.jp/author/5450/francis-tang/ "Francis Tang")  
-
-  [![Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/18/434601.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Motohiko Saito makes a speech following his reelection Sunday as governor of Hyogo Prefecture, a position he lost after the prefectural assembly unanimously passed a no-confidence vote against him in September.")](https://www.japantimes.co.jp/news/2024/11/18/japan/politics/hyogo-governor-saito-reelected/ "Hyogo governor reelected following ouster by assembly over harassment")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[Mount Fuji eyes China-made tram to transport hikers, source says](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
-
-By [Mariko Katsumura](https://www.japantimes.co.jp/author/4316/mariko-katsumura/ "Mariko Katsumura")  
-
-  [![Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/17/434475.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "Fuji Subaru Line fifth station is crowded with hikers on Mount Fuji in Yamanashi Prefecture in September 2023.")](https://www.japantimes.co.jp/news/2024/11/17/japan/mount-fuji-chinese-tram/ "Mount Fuji eyes China-made tram to transport hikers, source says")
-
-[JAPAN](https://www.japantimes.co.jp/news/japan/ "JAPAN")
-
-[American tourist arrested over defacing of Meiji Shrine torii gate](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
-
-  [![A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.](https://cdn4.premiumread.com/?url=https://www.japantimes.co.jp/japantimes/uploads/images/2024/11/14/434096.jpg?v=3.1&w=400&q=100&f=jpg&t=1.51 "A photo taken on Monday shows a torii gate at the Meiji Shrine on which carvings resembling kanji were found.")](https://www.japantimes.co.jp/news/2024/11/14/japan/crime-legal/meiji-shrine-defacement-arrest/ "American tourist arrested over defacing of Meiji Shrine torii gate")
 
 Podcast
 -------
@@ -209,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
-[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
+[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -251,17 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Microsoft opens AI and robotics research base in Tokyo](https://www.japantimes.co.jp/business/2024/11/18/tech/microsoft-ai-robotics-tokyo/ "Microsoft opens AI and robotics research base in Tokyo")
+[Japan's Fugaku supercomputer takes top spot in two rankings for 10th time](https://www.japantimes.co.jp/business/2024/11/19/companies/fugaku-supercomputer-top/ "Japan's Fugaku supercomputer takes top spot in two rankings for 10th time")
 
-10 hours ago
+17 mins ago
 
-[Yamanashi officially scraps Fuji railway plan as it looks to Chinese tram](https://www.japantimes.co.jp/news/2024/11/18/japan/fuji-chinese-tram-announcement/ "Yamanashi officially scraps Fuji railway plan as it looks to Chinese tram")
+[Japan to hold regular economic security talks with U.K. under two-plus-two model](https://www.japantimes.co.jp/news/2024/11/19/japan/japan-uk-economic-two-plus-two/ "Japan to hold regular economic security talks with U.K. under two-plus-two model")
 
-[How Bluesky, alternative to X and Facebook, is handling explosive growth](https://www.japantimes.co.jp/business/2024/11/18/tech/bluesky-growth-twitter-x/ "How Bluesky, alternative to X and Facebook, is handling explosive growth")
+1 hours ago
 
-[Japan to test anti-drone laser system next year](https://www.japantimes.co.jp/news/2024/11/18/japan/japan-antidrone-laser-system/ "Japan to test anti-drone laser system next year")
+[How 1,000 days of conflict fueled robot wars between Russia and Ukraine](https://www.japantimes.co.jp/news/2024/11/19/world/1000-days-robot-wars-russia-ukraine/ "How 1,000 days of conflict fueled robot wars between Russia and Ukraine")
 
-[Indefinite prison term sought for murder of 'Don Juan of Kishu'](https://www.japantimes.co.jp/news/2024/11/18/japan/crime-legal/don-juan-indefinite-prison-request/ "Indefinite prison term sought for murder of 'Don Juan of Kishu'")
+1 hours ago
+
+[Chinese man suspected of stalking celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/haruna-kojima-stalk-arrest/ "Chinese man suspected of stalking celebrity Haruna Kojima")
+
+1 hours ago
+
+[Two undersea cables in Baltic Sea found to have been cut](https://www.japantimes.co.jp/news/2024/11/19/world/undersea-cables-baltic-germany-finland/ "Two undersea cables in Baltic Sea found to have been cut")
+
+1 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
