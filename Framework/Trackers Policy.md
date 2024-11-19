@@ -194,7 +194,7 @@ This Website uses Trackers to deliver personalized ads or marketing content, and
     
     Storage duration:
     
-    * \_fbc: 4 months
+    * \_fbc: 3 months
     * \_fbp: 3 months
     * fr: 3 months
     
