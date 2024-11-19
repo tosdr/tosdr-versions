@@ -53,9 +53,9 @@ Burgenland: Mogersdorf 6, 8382 Mogersdorf, Austria
 
 Tel: [+43-680-2311-673](tel:+436802311673)
 
-UID: ATU70020158 | FN: 443581a
+UID: ATU70020158 | FN: 443581a Eisenstadt
 
-Court of jurisdiction Graz, Austria
+Court of jurisdiction Güssing, Austria
 
   
 
