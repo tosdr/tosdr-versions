@@ -88,7 +88,7 @@ Jun **14**
 * [Jun 14, 2024](https://papermc.io/threads/1-21.1221/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 10,758
+* 10,775
 * 2
 
 ### The 1.21 Update​
@@ -204,7 +204,7 @@ May **28**
 * [May 28, 2024](https://papermc.io/threads/paper-velocity-1-20-6.1152/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,634
+* 8,638
 * 6
 
 ### The 1.20.5/6 Update​
@@ -340,7 +340,7 @@ Mar **22**
 * [Mar 22, 2024](https://papermc.io/threads/important-dev-psa-future-removal-of-cb-package-relocation.1106/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,964
+* 14,970
 * 12
 
 ### Future removal of CB package relocation + moving away from obfuscation at runtime​
@@ -438,7 +438,7 @@ Dec **31**
 * [Dec 31, 2023](https://papermc.io/threads/new-years-post.1009/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 27,474
+* 27,483
 * 6
 
 Happy New Year from PaperMC!​
@@ -582,7 +582,7 @@ Dec **25**
 * [Dec 25, 2023](https://papermc.io/threads/paper-velocity-1-20-4.998/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,978
+* 8,983
 * 1
 
 ### The 1.20.4 Update​
@@ -641,7 +641,7 @@ Oct **10**
 * [Oct 10, 2023](https://papermc.io/threads/paper-velocity-1-20-2.920/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 15,253
+* 15,256
 * 1
 
 ### The 1.20.2 Update​
@@ -761,7 +761,7 @@ Jun **11**
 * [Jun 11, 2023](https://papermc.io/threads/paper-velocity-1-20-1.783/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 14,179
+* 14,184
 * 9
 
 ### The 1.20(.1) Update​
@@ -882,7 +882,7 @@ Mar **15**
 * [Mar 15, 2023](https://papermc.io/threads/paper-velocity-1-19-4.680/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 8,499
+* 8,501
 * 3
 
 ### The 1.19.4 Update​
@@ -954,7 +954,7 @@ Dec **11**
 * [Dec 11, 2022](https://papermc.io/threads/paper-velocity-1-19-3.592/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 13,914
+* 13,918
 * 1
 
 ### The 1.19.3 Update​
@@ -1094,7 +1094,7 @@ Jun **12**
 * [Jun 12, 2022](https://papermc.io/threads/paper-1-19.344/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 37,750
+* 37,752
 * 18
 
 ### The 1.19 Update​
@@ -1166,7 +1166,7 @@ Mar **04**
 * [Mar 4, 2022](https://papermc.io/threads/paper-1-18-2.185/)
 * [PaperMC](https://papermc.io/home/authors/papermc.44/)
 
-* 23,932
+* 23,933
 * 12
 
 ### The 1.18.2 Update​
@@ -1318,7 +1318,7 @@ Overall, PaperMC is a community that's excited about Minecraft software and maki
 
 No members online now.
 
-Total: 41 (members: 2, guests: 39)
+Total: 20 (members: 0, guests: 20)
 
 ### [Latest posts](https://papermc.io/whats-new/posts/?skip=1)
 
@@ -1329,7 +1329,7 @@ Total: 41 (members: 2, guests: 39)
 Question [Generate a dimension with a set list of biomes?](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/)
 
 * [LinuxCat](https://papermc.io/members/linuxcat.12564/)
-* [58 minutes ago](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/)
+* [Yesterday at 8:11 PM](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
@@ -1338,9 +1338,9 @@ Replies
 
 Views
 
-8
+26
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [58 minutes ago](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 8:11 PM](https://papermc.io/threads/generate-a-dimension-with-a-set-list-of-biomes.1444/latest)
 
 [LinuxCat](https://papermc.io/members/linuxcat.12564/)
 
@@ -1353,7 +1353,7 @@ Views
 Question [Error when trying to start papermc jar](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/)
 
 * [VexTV](https://papermc.io/members/vextv.12559/)
-* [Today at 4:45 PM](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/)
+* [Yesterday at 4:45 PM](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/)
 * [Help](https://papermc.io/forums/paper-help/)
 
 Replies
@@ -1362,9 +1362,9 @@ Replies
 
 Views
 
-21
+27
 
-[Help](https://papermc.io/forums/paper-help/) [Today at 4:48 PM](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/latest)
+[Help](https://papermc.io/forums/paper-help/) [Yesterday at 4:48 PM](https://papermc.io/threads/error-when-trying-to-start-papermc-jar.1443/latest)
 
 [electronicboy](https://papermc.io/members/electronicboy.2/)
 
@@ -1375,7 +1375,7 @@ Views
 [Error when connection to MongoDB database](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/)
 
 * [rqiiz\_](https://papermc.io/members/rqiiz_.12543/)
-* [Yesterday at 9:50 PM](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/)
+* [Sunday at 9:50 PM](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/)
 * [Plugin Development](https://papermc.io/forums/paper-plugin-development/)
 
 Replies
@@ -1384,9 +1384,9 @@ Replies
 
 Views
 
-38
+41
 
-[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Yesterday at 9:50 PM](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/latest)
+[Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Sunday at 9:50 PM](https://papermc.io/threads/error-when-connection-to-mongodb-database.1442/latest)
 
 [rqiiz\_](https://papermc.io/members/rqiiz_.12543/)
 
@@ -1430,7 +1430,7 @@ Replies
 
 Views
 
-111
+112
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Thursday at 8:23 AM](https://papermc.io/threads/cannot-place-torch-on-wall.1441/latest)
 
@@ -1454,7 +1454,7 @@ Replies
 
 Views
 
-496
+497
 
 [Help](https://papermc.io/forums/paper-help/) [Wednesday at 12:19 AM](https://papermc.io/threads/server-problem.1400/latest)
 
@@ -1479,7 +1479,7 @@ Replies
 
 Views
 
-84
+87
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 10, 2024](https://papermc.io/threads/crash-paperspigot-1-12-2-idk.1440/latest)
 
@@ -1523,7 +1523,7 @@ Replies
 
 Views
 
-105
+106
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 9, 2024](https://papermc.io/threads/mockbukkit-a-testing-framework-for-minecraft-plugins.1438/latest)
 
@@ -1547,7 +1547,7 @@ Replies
 
 Views
 
-82
+84
 
 [Plugin Development](https://papermc.io/forums/paper-plugin-development/) [Nov 9, 2024](https://papermc.io/threads/disallowing-player-to-move-minecart.1437/latest)
 
