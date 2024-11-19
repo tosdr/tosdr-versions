@@ -243,35 +243,35 @@ We have included on the pages of this website a robots meta tag with the “noai
 
 This privacy policy was created in party by using [Termly’s Privacy Policy Generator](https://termly.io/products/privacy-policy-generator/?ftseo).
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Caitlin-Tracey-326x245.jpg)](https://cwbchicago.com/2024/11/family-wins-court-fight-for-remains-of-woman-found-dead-in-south-loop-condo-stairwell.html "Family wins court fight for remains of woman found dead in South Loop condo stairwell")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/sheridan-and-irving-park-road-map-326x245.jpg)](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
 
-South Loop
+Lakeview
 
-### [Family wins court fight for remains of woman found dead in South Loop condo stairwell](https://cwbchicago.com/2024/11/family-wins-court-fight-for-remains-of-woman-found-dead-in-south-loop-condo-stairwell.html "Family wins court fight for remains of woman found dead in South Loop condo stairwell")
+### [Gunmen fire shots while robbing victims near the Sheridan Red Line station](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
 
-[November 15, 2024 6:15 PM](https://cwbchicago.com/2024/11)
+[November 16, 2024 10:36 AM](https://cwbchicago.com/2024/11)
 
-A Cook County judge on Friday cleared the way for family members to claim the body of a woman who was found dead in the stairwell of a South Loop condo building on October 27.[](https://cwbchicago.com/2024/11/family-wins-court-fight-for-remains-of-woman-found-dead-in-south-loop-condo-stairwell.html "Family wins court fight for remains of woman found dead in South Loop condo stairwell")
+Gunmen fired shots while robbing a group of men near the Sheridan Red Line station on Saturday morning. Fortunately, no gunshot injuries were reported.[](https://cwbchicago.com/2024/11/gunmen-fire-shots-while-robbing-victims-near-the-sheridan-red-line-station.html "Gunmen fire shots while robbing victims near the Sheridan Red Line station")
 
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Garland-andrew-326x245.jpeg)](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/Trinidy-Mintz-326x245.jpg)](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
+
+Chicago Lawn
+
+### [He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
+
+[November 16, 2024 7:37 AM](https://cwbchicago.com/2024/11)
+
+Not even two months after being paroled for an armed robbery conviction, Trinidy Mintz carjacked and robbed two men at gunpoint and then crashed the hijacked vehicle in front of Chicago cops, prosecutors say.[](https://cwbchicago.com/2024/11/he-carjacked-at-man-at-gunpoint-less-than-2-months-after-being-paroled-for-robbery-prosecutors-claim.html "He carjacked at man at gunpoint less than 2 months after being paroled for robbery, prosecutors claim")
+
+[![](https://cwbchicago.com/wp-content/uploads/2024/11/ODPO-OIS-polk-state-citizen-326x245.jpg)](https://cwbchicago.com/2024/11/shots-fired-at-off-duty-cop-during-robbery-attempt-in-the-loop-more-shots-fired-during-second-holdup-nearby.html "Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby")
 
 Loop
 
-### [Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
+### [Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby](https://cwbchicago.com/2024/11/shots-fired-at-off-duty-cop-during-robbery-attempt-in-the-loop-more-shots-fired-during-second-holdup-nearby.html "Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby")
 
-[November 15, 2024 5:43 PM](https://cwbchicago.com/2024/11)
+[November 16, 2024 6:58 AM](https://cwbchicago.com/2024/11)
 
-The man who robbed a Loop bank on Thursday afternoon unwittingly grabbed a GPS tracker when he snatched money from a teller’s drawer, an error that would lead to his arrest less than an hour later.[](https://cwbchicago.com/2024/11/loop-bank-robber-grabbed-cash-containing-gps-tracker-fbi-says-i-did-it.html "Loop bank robber grabbed cash containing GPS tracker, FBI says; ‘I did it.’")
-
-[![](https://cwbchicago.com/wp-content/uploads/2024/11/Williamomo-Peray-326x245.jpg)](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
-
-Lincoln Square
-
-### [18 years for robbing 7 businesses while on parole for robbing 6 businesses](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
-
-[November 15, 2024 11:12 AM](https://cwbchicago.com/2024/11)
-
-A man has been given an 18-year sentence for robbing seven North Side businesses last year while he was on parole for an 18-year sentence he received for six robberies in 2014.[](https://cwbchicago.com/2024/11/18-years-for-robbing-7-businesses-while-on-parole-for-robbing-6-businesses.html "18 years for robbing 7 businesses while on parole for robbing 6 businesses")
+Armed robbers fired shots at an off-duty Chicago police officer in the Loop on Saturday morning, according to preliminary information provided by a source. Investigators suspect the same holdup crew fired shots at another victim they targeted in River North.[](https://cwbchicago.com/2024/11/shots-fired-at-off-duty-cop-during-robbery-attempt-in-the-loop-more-shots-fired-during-second-holdup-nearby.html "Shots fired at off-duty cop during robbery attempt in the Loop; more shots fired during second holdup nearby")
 
 Search
 
