@@ -20,16 +20,16 @@ Tuesday, November 19 2024
 
 Latest
 
-* [Tiny11 ISO updated to Windows 11 24H2](https://digitpatrox.com/tiny11-iso-updated-to-windows-11-24h2/)
-* [How to Cut Home Heating Costs This Winter](https://digitpatrox.com/how-to-cut-home-heating-costs-this-winter/)
-* [What’s the Difference and When Does It Matter?](https://digitpatrox.com/whats-the-difference-and-when-does-it-matter/)
-* [When to Use it (And When Not to)](https://digitpatrox.com/when-to-use-it-and-when-not-to/)
-* [How to cook without an oven: 5 alternative kitchen appliances you need right now](https://digitpatrox.com/how-to-cook-without-an-oven-5-alternative-kitchen-appliances-you-need-right-now/)
-* [Chinese hackers exploit Fortinet VPN zero-day to steal credentials](https://digitpatrox.com/chinese-hackers-exploit-fortinet-vpn-zero-day-to-steal-credentials/)
-* [Google now lets you manage all of your old Nest Cams from the Home app](https://digitpatrox.com/google-now-lets-you-manage-all-of-your-old-nest-cams-from-the-home-app/)
-* [Stalker 2 Release Date and Time (Countdown Timer)](https://digitpatrox.com/stalker-2-release-date-and-time-countdown-timer/)
-* [You Can Use Gemini to Build Google Home Automations, but Should You?](https://digitpatrox.com/you-can-use-gemini-to-build-google-home-automations-but-should-you/)
-* [How to use Tiny11 Builder to create custom Windows 11 ISO without junk apps](https://digitpatrox.com/how-to-use-tiny11-builder-to-create-custom-windows-11-iso-without-junk-apps/)
+* [Severed subsea internet cables raise network security questions](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
+* [Unemployment is near historic lows – why’s it so hard to get an IT job?](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
+* [Apple Might Be Ditching the Lightning Headphone Jack Adapter, but You Don’t Have To](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
+* [Organic Carrots Linked to E. Coli Outbreak | Grimmway Farms](https://digitpatrox.com/organic-carrots-linked-to-e-coli-outbreak-grimmway-farms/)
+* [Why Having a Book-Shaped Phone Means I Read More Books](https://digitpatrox.com/why-having-a-book-shaped-phone-means-i-read-more-books/)
+* [Majority of firms using generative AI experience related security incidents – even as it empowers security teams](https://digitpatrox.com/majority-of-firms-using-generative-ai-experience-related-security-incidents-even-as-it-empowers-security-teams/)
+* [How To Improve Contact Center CX Without Buying New Tech](https://digitpatrox.com/how-to-improve-contact-center-cx-without-buying-new-tech/)
+* [Should you buy a mattress in a closeout Black Friday sale? I’m a deals writer, here’s my take](https://digitpatrox.com/should-you-buy-a-mattress-in-a-closeout-black-friday-sale-im-a-deals-writer-heres-my-take/)
+* [US space tech giant Maxar discloses employee data breach](https://digitpatrox.com/us-space-tech-giant-maxar-discloses-employee-data-breach/)
+* [Tesla’s first 500kW V4 Superchargers are coming next year](https://digitpatrox.com/teslas-first-500kw-v4-superchargers-are-coming-next-year/)
 
 * [Facebook](https://www.facebook.com/digitpatroxoffice/)
 * [X](https://twitter.com/digitpatrox)
@@ -171,35 +171,35 @@ Popular Posts
     August 13, 2024
     
 
-* [![](https://pureinfotech.com/wp-content/uploads/2023/02/tiny11-windows-11-hero.webp)](https://digitpatrox.com/tiny11-iso-updated-to-windows-11-24h2/)
+* [![](https://cdn.mos.cms.futurecdn.net/pUY7cH9aCgzpE8ijRSzuqW-1200-80.jpg)](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
     
-    [Tiny11 ISO updated to Windows 11 24H2](https://digitpatrox.com/tiny11-iso-updated-to-windows-11-24h2/)
+    [Severed subsea internet cables raise network security questions](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
     
-    2 minutes ago
+    4 minutes ago
     
-* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1666737111/prod/content/dam/CRO-Images-2022/Magazine/12December/CR-Magazine-InlineHero-How-to-Save-on-Heating-Costs-this-Winter-2212-1022)](https://digitpatrox.com/how-to-cut-home-heating-costs-this-winter/)
+* [![](https://www.computerworld.com/wp-content/uploads/2024/11/3607427-0-62351800-1732014219-shutterstock_797089132.jpg?quality=50&strip=all&w=1024)](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
     
-    [How to Cut Home Heating Costs This Winter](https://digitpatrox.com/how-to-cut-home-heating-costs-this-winter/)
+    [Unemployment is near historic lows – why’s it so hard to get an IT job?](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
     
-    3 minutes ago
+    24 minutes ago
     
-* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/53489788449_cdfaaa41b1_o.jpg)](https://digitpatrox.com/whats-the-difference-and-when-does-it-matter/)
+* [![](https://lifehacker.com/imagery/articles/01JD0ABZK5K2ZBSEHEKSGV57HQ/hero-image.fill.size_1200x675.png)](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
     
-    [What’s the Difference and When Does It Matter?](https://digitpatrox.com/whats-the-difference-and-when-does-it-matter/)
+    [Apple Might Be Ditching the Lightning Headphone Jack Adapter, but You Don’t Have To](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
     
-    5 minutes ago
+    52 minutes ago
     
-* [![](https://assets.techrepublic.com/uploads/2024/11/dhcp-featured-image-11182024-min.png)](https://digitpatrox.com/when-to-use-it-and-when-not-to/)
+* [![](https://article.images.consumerreports.org/image/upload/t_article_tout/v1731958282/prod/content/dam/CRO-Images-2024/Health/CR-Health-InlineHero-Carrots-linked-to-E-coli-outbreak--1124)](https://digitpatrox.com/organic-carrots-linked-to-e-coli-outbreak-grimmway-farms/)
     
-    [When to Use it (And When Not to)](https://digitpatrox.com/when-to-use-it-and-when-not-to/)
+    [Organic Carrots Linked to E. Coli Outbreak | Grimmway Farms](https://digitpatrox.com/organic-carrots-linked-to-e-coli-outbreak-grimmway-farms/)
     
-    47 minutes ago
+    1 hour ago
     
-* [![](https://cdn.mos.cms.futurecdn.net/LWB6hPKQZjaQfiQtqU3JVS-1200-80.jpg)](https://digitpatrox.com/how-to-cook-without-an-oven-5-alternative-kitchen-appliances-you-need-right-now/)
+* [![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/11/a-book-on-a-galaxy-z-fold-5.jpg)](https://digitpatrox.com/why-having-a-book-shaped-phone-means-i-read-more-books/)
     
-    [How to cook without an oven: 5 alternative kitchen appliances you need right now](https://digitpatrox.com/how-to-cook-without-an-oven-5-alternative-kitchen-appliances-you-need-right-now/)
+    [Why Having a Book-Shaped Phone Means I Read More Books](https://digitpatrox.com/why-having-a-book-shaped-phone-means-i-read-more-books/)
     
-    51 minutes ago
+    1 hour ago
     
 
 ![](https://digitpatrox.com/wp-content/uploads/2023/12/Digitpatrox-NEW-Logo-White.png)
@@ -208,48 +208,48 @@ Digitpatrox will show you best Career and Income Sources and also present you La
 
 Recent Topics
 
-* [2 minutes ago
+* [4 minutes ago
     
-    ### Tiny11 ISO updated to Windows 11 24H2](https://digitpatrox.com/tiny11-iso-updated-to-windows-11-24h2/)
-* [3 minutes ago
+    ### Severed subsea internet cables raise network security questions](https://digitpatrox.com/severed-subsea-internet-cables-raise-network-security-questions/)
+* [24 minutes ago
     
-    ### How to Cut Home Heating Costs This Winter](https://digitpatrox.com/how-to-cut-home-heating-costs-this-winter/)
-* [5 minutes ago
+    ### Unemployment is near historic lows – why’s it so hard to get an IT job?](https://digitpatrox.com/unemployment-is-near-historic-lows-whys-it-so-hard-to-get-an-it-job/)
+* [52 minutes ago
     
-    ### What’s the Difference and When Does It Matter?](https://digitpatrox.com/whats-the-difference-and-when-does-it-matter/)
+    ### Apple Might Be Ditching the Lightning Headphone Jack Adapter, but You Don’t Have To](https://digitpatrox.com/apple-might-be-ditching-the-lightning-headphone-jack-adapter-but-you-dont-have-to/)
 
 Most Popular Topics
 
+* [August 13, 2024
+    
+    ### Windows 11 receives August 2024 update (KB5041585)](https://digitpatrox.com/windows-11-receives-august-2024-update-kb5041585/)
+* [2 weeks ago
+    
+    ### What Is MUBI, and Is a Subscription Worth the Money?](https://digitpatrox.com/what-is-mubi-and-is-a-subscription-worth-the-money/)
 * [September 6, 2024
     
-    ### This Single Feature Makes New Outlook for Windows Worth It](https://digitpatrox.com/this-single-feature-makes-new-outlook-for-windows-worth-it/)
-* [September 8, 2024
-    
-    ### How to Negotiate a New-Car Price Effectively](https://digitpatrox.com/how-to-negotiate-a-new-car-price-effectively/)
-* [October 11, 2024
-    
-    ### 6 Best Hosted Virtual Desktop (HVD) Solutions 2024](https://digitpatrox.com/6-best-hosted-virtual-desktop-hvd-solutions-2024/)
+    ### NYT Strands Today: Hints, Answers & Spangram for September 7](https://digitpatrox.com/nyt-strands-today-hints-answers-spangram-for-september-7/)
 
 Last Modified Topics
 
 * [2 hours ago
     
-    ### Google now lets you manage all of your old Nest Cams from the Home app](https://digitpatrox.com/google-now-lets-you-manage-all-of-your-old-nest-cams-from-the-home-app/)
+    ### How To Improve Contact Center CX Without Buying New Tech](https://digitpatrox.com/how-to-improve-contact-center-cx-without-buying-new-tech/)
+* [2 hours ago
+    
+    ### Should you buy a mattress in a closeout Black Friday sale? I’m a deals writer, here’s my take](https://digitpatrox.com/should-you-buy-a-mattress-in-a-closeout-black-friday-sale-im-a-deals-writer-heres-my-take/)
 * [3 hours ago
     
-    ### Stalker 2 Release Date and Time (Countdown Timer)](https://digitpatrox.com/stalker-2-release-date-and-time-countdown-timer/)
-* [5 hours ago
-    
-    ### You Can Use Gemini to Build Google Home Automations, but Should You?](https://digitpatrox.com/you-can-use-gemini-to-build-google-home-automations-but-should-you/)
+    ### US space tech giant Maxar discloses employee data breach](https://digitpatrox.com/us-space-tech-giant-maxar-discloses-employee-data-breach/)
 
 Most Viewed Topics
 
-* [August 13, 2024
-    
-    ### TikTok Is Pushing Old and False News as ”Breaking” Alerts](https://digitpatrox.com/tiktok-is-pushing-old-and-false-news-as-breaking-alerts/)
 * [August 12, 2024
     
     ### How to enable Do Not Track on your web browser for Windows](https://digitpatrox.com/how-to-enable-do-not-track-on-your-web-browser-for-windows/)
+* [August 11, 2024
+    
+    ### US citizen charged with aiding North Korean hackers moonlighting as tech workers](https://digitpatrox.com/us-citizen-charged-with-aiding-north-korean-hackers-moonlighting-as-tech-workers/)
 * [August 21, 2024
     
     ### Indiana Jones The Great Circle Is Here with a Release Date and a PS5 Launch](https://digitpatrox.com/indiana-jones-the-great-circle-is-here-with-a-release-date-and-a-ps5-launch/)
