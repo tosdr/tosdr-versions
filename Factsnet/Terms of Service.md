@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![50 Facts About Paronychia ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-paronychia/)
+[![29 Facts About Dubai Events ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/events/29-facts-about-dubai-events/)
 
-Health Science
+Events
 
-18 Nov 2024
+19 Nov 2024
 
-[50 Facts About Paronychia](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-paronychia/)
+[29 Facts About Dubai Events](https://facts.net/events/29-facts-about-dubai-events/)
 
-[![25 Facts About Moschellandsbergite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/25-facts-about-moschellandsbergite/)
+[![50 Facts About Perovskite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/50-facts-about-perovskite/)
 
-Earth Sciences
+Earth & Life Science
 
-18 Nov 2024
+19 Nov 2024
 
-[25 Facts About Moschellandsbergite](https://facts.net/earth-and-life-science/earth-sciences/25-facts-about-moschellandsbergite/)
+[50 Facts About Perovskite](https://facts.net/earth-and-life-science/50-facts-about-perovskite/)
 
 [Home](https://facts.net/) [Terms](https://facts.net/terms/)
 
