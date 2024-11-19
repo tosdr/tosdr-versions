@@ -18,6 +18,8 @@ Marketing
 
 Customer Engagement
 
+[Feedback Tool](https://restaurant.menufy.com/feedback-tool)
+
 [About Us](https://restaurant.menufy.com/about-us)
 
 [Blog](https://restaurant.menufy.com/blog)
@@ -50,6 +52,8 @@ Marketing
 [Get More Info](https://restaurant.menufy.com/hr360m-get-more-info)
 
 Customer Engagement
+
+[Feedback Tool](https://restaurant.menufy.com/feedback-tool)
 
 [About Us](https://restaurant.menufy.com/about-us)
 
