@@ -30,13 +30,13 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7/20241119T073057/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7/20241119T073057/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-uw-rower-passes-away-free-diving-accident/281-e447287d-58b2-4ecc-9142-4b0d12f731b9)
+    *  [![](https://media.king5.com/assets/KING/images/d4b64287-8fe3-4621-b713-79e707536d47/20241119T190043/d4b64287-8fe3-4621-b713-79e707536d47_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d4b64287-8fe3-4621-b713-79e707536d47/20241119T190043/d4b64287-8fe3-4621-b713-79e707536d47_360x203.jpg)](https://www.king5.com/article/news/local/rare-endangered-tree-stolen-seattle-arboretum/281-a06b8a46-c607-42fe-87f2-91dcdff86879)
         
-        #### ['He made a huge impact': Former UW rower passes away after free diving accident](https://www.king5.com/article/news/local/seattle/former-uw-rower-passes-away-free-diving-accident/281-e447287d-58b2-4ecc-9142-4b0d12f731b9)
+        #### [Rare endangered tree stolen from Seattle's Washington Park Arboretum](https://www.king5.com/article/news/local/rare-endangered-tree-stolen-seattle-arboretum/281-a06b8a46-c607-42fe-87f2-91dcdff86879)
         
-    *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+    *  [![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_16x9.jpg) ![](https://media.king5.com/assets/KING/images/0f38477a-6070-4de8-ab16-8496eed7610d/20241117T040503/0f38477a-6070-4de8-ab16-8496eed7610d_360x203.jpg)](https://www.king5.com/article/news/local/suspicion-dui-car-lake-washington/281-5f2cded4-1345-46fe-8e8a-701da00b84db)
         
-        #### [Bomb cyclone will lead to damaging winds in western Washington Tuesday](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
+        #### [Teen in critical condition at hospital after sister drives vehicle into lake in suspected DUI](https://www.king5.com/article/news/local/suspicion-dui-car-lake-washington/281-5f2cded4-1345-46fe-8e8a-701da00b84db)
         
     
 * [Weather](https://www.king5.com/weather/)
@@ -60,9 +60,9 @@ Navigation
         
         #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
         
-    *  [![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
+    *  [![](https://media.king5.com/assets/KING/images/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2/fe99cb93-6fbf-4715-a83d-55c4c0ad28c2_360x203.jpg)](https://www.king5.com/article/weather/blizzard-warning-cascades-mountain-snow-high-wind/281-631882be-66ef-4046-9ca0-8cab8ac1c214)
         
-        #### [What is bombogenesis? Understanding the science behind upcoming bomb cyclone](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
+        #### [Blizzard Warning issued for the Cascades. Here's when it goes into effect](https://www.king5.com/article/weather/blizzard-warning-cascades-mountain-snow-high-wind/281-631882be-66ef-4046-9ca0-8cab8ac1c214)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-38°
+44°
 
-![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-night_210x210.png)
+![Mostly Cloudy](/assets/shared-images/weather-icons/mostly-cloudy-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
