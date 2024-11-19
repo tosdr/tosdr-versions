@@ -226,7 +226,7 @@ Main Menu Mega
     
     [Press Release](https://www.ftc.gov/news-events/news/press-releases)
     
-    ### [Federal Court Orders Harris Jewelry to Restore its Website and Claims Portal for Servicemembers to Request Refunds](https://www.ftc.gov/news-events/news/press-releases/2024/11/federal-court-orders-harris-jewelry-restore-its-website-claims-portal-servicemembers-request-refunds)
+    ### [FTC Announces Virtual Workshop on Predatory Pricing](https://www.ftc.gov/news-events/news/press-releases/2024/11/ftc-announces-virtual-workshop-predatory-pricing)
     
     November 18, 2024
     
