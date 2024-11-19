@@ -25,7 +25,7 @@ Error 404: Page not found.
 
 Follow Pepper&Carrot on:
 
- [![Masto](https://www.peppercarrot.com/core/img/s_masto.svg)](https://framapiaf.org/@davidrevoy "Mastodon")[![Fbook](https://www.peppercarrot.com/core/img/s_fb.svg)](https://www.facebook.com/pages/Pepper-Carrot/307677876068903 "Facebook")[![Insta](https://www.peppercarrot.com/core/img/s_insta.svg)](https://www.instagram.com/deevadrevoy/ "Instagram")[![RSS](https://www.peppercarrot.com/core/img/s_rss.svg)](https://www.davidrevoy.com/feed/en/rss "RSS (blog posts)")  
+ [![Masto](https://www.peppercarrot.com/core/img/s_masto.svg)](https://framapiaf.org/@davidrevoy "Mastodon")[![Masto](https://www.peppercarrot.com/core/img/s_bs.svg)](https://bsky.app/profile/davidrevoy.com "Bluesky")[![Fbook](https://www.peppercarrot.com/core/img/s_fb.svg)](https://www.facebook.com/pages/Pepper-Carrot/307677876068903 "Facebook")[![Insta](https://www.peppercarrot.com/core/img/s_insta.svg)](https://www.instagram.com/deevadrevoy/ "Instagram")[![RSS](https://www.peppercarrot.com/core/img/s_rss.svg)](https://www.davidrevoy.com/feed/en/rss "RSS (blog posts)")  
   
 Join community chat rooms:  
 [IRC: #pepper&carrot on libera.chat](https://libera.chat/)  
@@ -61,7 +61,7 @@ Join community chat rooms:
 
 Follow Pepper&Carrot on:
 
- [![Masto](https://www.peppercarrot.com/core/img/s_masto.svg)](https://framapiaf.org/@davidrevoy "Mastodon")[![Fbook](https://www.peppercarrot.com/core/img/s_fb.svg)](https://www.facebook.com/pages/Pepper-Carrot/307677876068903 "Facebook")[![Insta](https://www.peppercarrot.com/core/img/s_insta.svg)](https://www.instagram.com/deevadrevoy/ "Instagram")[![RSS](https://www.peppercarrot.com/core/img/s_rss.svg)](https://www.davidrevoy.com/feed/en/rss "RSS (blog posts)")  
+ [![Masto](https://www.peppercarrot.com/core/img/s_masto.svg)](https://framapiaf.org/@davidrevoy "Mastodon")[![Masto](https://www.peppercarrot.com/core/img/s_bs.svg)](https://bsky.app/profile/davidrevoy.com "Bluesky")[![Fbook](https://www.peppercarrot.com/core/img/s_fb.svg)](https://www.facebook.com/pages/Pepper-Carrot/307677876068903 "Facebook")[![Insta](https://www.peppercarrot.com/core/img/s_insta.svg)](https://www.instagram.com/deevadrevoy/ "Instagram")[![RSS](https://www.peppercarrot.com/core/img/s_rss.svg)](https://www.davidrevoy.com/feed/en/rss "RSS (blog posts)")  
   
 Join community chat rooms:  
 [IRC: #pepper&carrot on libera.chat](https://libera.chat/)  
