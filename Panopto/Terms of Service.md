@@ -25,11 +25,9 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Accessibility](https://www.panopto.com/capabilities/accessibility/)
         * [Powered by AI](https://www.panopto.com/capabilities/powered-by-ai/)
         * [Tracking and Analytics](https://www.panopto.com/capabilities/tracking-and-analytics/)
-    * Product Add-Ons
         * [Panopto Access AI](https://www.panopto.com/product-add-ons/access-ai/)
         * [Panopto Knowledge Insights](https://www.panopto.com/product-add-ons/knowledge-insights/)
         * [Panopto Connect](https://www.panopto.com/product-add-ons/panopto-connect/)
-        * [\>> See all Add-ons](https://www.panopto.com/product-add-ons/)
     
 * Elai Generative AI Video
     
@@ -71,7 +69,7 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [AI Meeting Recording Software](https://www.panopto.com/use-cases/meeting-intelligence/)
         * [Online Video Training Platform](https://www.panopto.com/use-cases/video-training/)
     
-* Resources & Support
+* Resources
     
     ![](https://www.panopto.com/wp-content/uploads/2024/07/1075-_pop-650x650.png)
     
@@ -90,9 +88,9 @@ English Français Deutsch 日本語 한국어 Italiano Español
         * [Customer Stories](https://www.panopto.com/resource-library/customer-stories/)
     * Support
         * [Support Center](https://www.panopto.com/support/)
-        * [Community Forum](https://community.panopto.com/)
-        * [Contact Sales](https://www.panopto.com/contact-us/)
         * [Support for Students](https://www.panopto.com/support/for-students/)
+        * [Customer Community](https://community.panopto.com/)
+        * [Contact Sales](https://www.panopto.com/contact-us/)
     
 
 [Schedule a demo](https://www.panopto.com/schedule-demo/)
