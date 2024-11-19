@@ -1,6 +1,6 @@
-![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)      
+![](https://www.facebook.com/tr?id=811491626833587&ev=PageView&noscript=1)           Terms & Conditions – Omax Health - Omax Health               
 
-Terms & Conditions – Omax Health - Omax Health                      
+     
 
                 
 
@@ -303,7 +303,7 @@ Go to product page
 
 ### Let customers speak for us
 
-[3411 reviews](https://omaxhealth.com/pages/reviews)
+[3412 reviews](https://omaxhealth.com/pages/reviews)
 
 [Write a review](#)
 
@@ -329,6 +329,14 @@ Go to product page
 
 2207
 
+V
+
+[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
+
+Vincent A.
+
+Relief is instantaneous! You can feel the soothing coolness as soon as it’s applied! It’s the go to product I use for long lasting results
+
 J
 
 [CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/new-cryofreeze-cbd-roll-on-extra-strength#judgeme_product_reviews)
@@ -348,15 +356,5 @@ Autumn P.
 **A product that actually works!**
 
 I’ve been using CryoFreeze for over a year and it never ceases to amaze me.
-
-V
-
-[3 Pack CryoFreeze® Hemp CBD Roll-On | Extra Strength](https://omaxhealth.com/products/3-pack-cryofreeze-hemp-cbd-roll-on-extra-strength#judgeme_product_reviews)
-
-Vance W.
-
-**Awesome**
-
-This is one product that works just like they say. I tell everyone I can about it. I all so bought some for friends so they could try and see for themselves how great it is.
 
 Load More
