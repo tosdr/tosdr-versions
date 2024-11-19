@@ -2,7 +2,7 @@ Shopping Hours: [11am-8pm](https://www.seminoletownecenter.com/hours/ "Shopping 
 
   |  
 
-72˚F Sun
+76˚F Cloud
 
 [Seminole Towne Center home page Seminole Towne Center logo SEMINOLE TOWNE CENTER](https://www.seminoletownecenter.com/ "Click to return to the home page.")
 
@@ -257,7 +257,7 @@ Sanford, FL 32771
 
 [![Kohan Retail Investment Group](https://cdn.placewise.com/Kohan/images/KohanLogo.png)](http://www.kohanretail.com/)
 
-Visit Our Centers Other Kohan Centers Colonial Park Mall Findlay Mall Golden East Crossing Greenwood Mall Holiday Village Mall Jasper Mall Lima Mall Livingston Mall Lufkin Mall Marshall Town Center New Towne Mall Pierre Bossier Mall Seminole Towne Center Southern Hills Mall Temple Mall Towne West Square Valle Vista Mall Valley View Vicksburg Mall Washington Crown Center The Westwood Mall
+Visit Our Centers Other Kohan Centers Findlay Mall Golden East Crossing Greenwood Mall Holiday Village Mall Jasper Mall Lima Mall Livingston Mall Lufkin Mall Marshall Town Center New Towne Mall Pierre Bossier Mall Seminole Towne Center Southern Hills Mall Temple Mall Towne West Square Valley View Vicksburg Mall Washington Crown Center The Westwood Mall
 
 © 2024 Kohan Retail Investment Group
 
