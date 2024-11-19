@@ -17,7 +17,7 @@ ADVERTISEMENT
 * News
 * Columns
 * [Videos](https://freebeacon.com/type/video)
-* [Newsletter](https://freebeacon.com/newsletter)
+* Newsletters
 * 
 
 * [Politics](https://freebeacon.com/politics/)
@@ -41,6 +41,11 @@ ADVERTISEMENT
     
     The Foreign Policy Stakes of 2024](https://freebeacon.com/columns/the-foreign-policy-stakes-of-2024/)
 
+* [Morning Beacon](https://freebeacon.com/newsletters/morning-beacon/)
+* [Weekend Beacon](https://freebeacon.com/newsletters/weekend-beacon/)
+* [Stiles Section](https://freebeacon.com/newsletters/stiles-section/)
+* [Sign Up](https://freebeacon.com/newsletters/)
+
  Search
 
 Search 
@@ -57,7 +62,7 @@ GO
     * [Matthew Continetti](https://freebeacon.com/author/matt/)
     * [Editorials](https://freebeacon.com/author/washington-free-beacon-staff/)
     * [Men Of The Year](https://freebeacon.com/men-of-the-year/)
-* [Newsletter](https://freebeacon.com/newsletter/)
+* [Newsletters](https://freebeacon.com/newsletters/)
 * [Videos](https://freebeacon.com/type/video/)
 
 Free Beacon Terms of Use
