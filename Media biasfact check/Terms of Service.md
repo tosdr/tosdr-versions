@@ -67,11 +67,11 @@
 
 MBFC News
 
-* [November 16, 2024 | MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 10th – Nov 16th](https://mediabiasfactcheck.com/2024/11/16/mbfcs-weekly-media-literacy-quiz-covering-the-week-of-nov-10th-nov-16th/ "MBFC’s Weekly Media Literacy Quiz Covering the Week of Nov 10th – Nov 16th")
-* [November 16, 2024 | MBFC’s Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/16/mbfcs-daily-vetted-fact-checks-for-11-16-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)")
-* [November 15, 2024 | Media News Daily: Top Stories for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/media-news-daily-top-stories-for-11-15-2024/ "Media News Daily: Top Stories for 11/15/2024")
-* [November 15, 2024 | MBFC’s Daily Vetted Fact Checks for 11/15/2024](https://mediabiasfactcheck.com/2024/11/15/mbfcs-daily-vetted-fact-checks-for-11-15-2024/ "MBFC’s Daily Vetted Fact Checks for 11/15/2024")
-* [November 14, 2024 | Media News Daily: Top Stories for 11/14/2024](https://mediabiasfactcheck.com/2024/11/14/media-news-daily-top-stories-for-11-14-2024/ "Media News Daily: Top Stories for 11/14/2024")
+* [November 19, 2024 | MBFC’s Daily Vetted Fact Checks for 11/19/2024](https://mediabiasfactcheck.com/2024/11/19/mbfcs-daily-vetted-fact-checks-for-11-19-2024/ "MBFC’s Daily Vetted Fact Checks for 11/19/2024")
+* [November 18, 2024 | Media News Daily: Top Stories for 11/18/2024](https://mediabiasfactcheck.com/2024/11/18/media-news-daily-top-stories-for-11-18-2024/ "Media News Daily: Top Stories for 11/18/2024")
+* [November 18, 2024 | MBFC’s Daily Vetted Fact Checks for 11/18/2024](https://mediabiasfactcheck.com/2024/11/18/mbfcs-daily-vetted-fact-checks-for-11-18-2024/ "MBFC’s Daily Vetted Fact Checks for 11/18/2024")
+* [November 17, 2024 | Media News Daily: Top Stories for 11/17/2024](https://mediabiasfactcheck.com/2024/11/17/media-news-daily-top-stories-for-11-17-2024/ "Media News Daily: Top Stories for 11/17/2024")
+* [November 17, 2024 | MBFC’s Daily Vetted Fact Checks for 11/17/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/17/mbfcs-daily-vetted-fact-checks-for-11-17-2024-weekend-edition/ "MBFC’s Daily Vetted Fact Checks for 11/17/2024 (Weekend Edition)")
 
 Search for:  
 
@@ -145,74 +145,74 @@ No related posts.
 
 #### Recently Added Sources or Pages
 
-* [Stand to Reason – Bias and Credibility](https://mediabiasfactcheck.com/stand-to-reason-bias-and-credibility/)
+* [Arizona Silver Belt – Bias and Credibility](https://mediabiasfactcheck.com/arizona-silver-belt-bias/)
     
-    November 16, 2024
+    November 18, 2024
     
-* [Steve Quayle (stevequayle.com) – Bias and Credibility](https://mediabiasfactcheck.com/steve-quayle-stevequayle-com-bias-and-credibility/)
+* [Sunday Post – Bias and Credibility](https://mediabiasfactcheck.com/sunday-post-bias/)
     
-    November 16, 2024
+    November 18, 2024
     
-* [Shape Magazine – Bias and Credibility](https://mediabiasfactcheck.com/shape-magazine-bias-and-credibility/)
+* [Rheinische Post (rp-online.de) – Bias and Credibility](https://mediabiasfactcheck.com/rheinische-post-rp-online-de-bias/)
     
-    November 16, 2024
+    November 18, 2024
     
-* [London World – Bias and Credibility](https://mediabiasfactcheck.com/london-world-bias/)
+* [Strange Sounds – Bias and Credibility](https://mediabiasfactcheck.com/strange-sounds-bias-and-credibility/)
     
-    November 16, 2024
+    November 18, 2024
     
-* [San Francisco Standard – Bias and Credibility](https://mediabiasfactcheck.com/san-francisco-standard-bias-and-credibility/)
+* [Frontiers in Immunology – Bias and Credibility](https://mediabiasfactcheck.com/frontiers-in-immunology-bias-and-credibility/)
     
-    November 15, 2024
+    November 18, 2024
     
-* [Cryptography Journal – Bias and Credibility](https://mediabiasfactcheck.com/cryptography-journal-bias/)
+* [Tallahassee Reports – Bias and Credibility](https://mediabiasfactcheck.com/tallahassee-reports-bias-and-credibility/)
     
-    November 15, 2024
+    November 17, 2024
     
-* [Lynn News – Bias and Credibility](https://mediabiasfactcheck.com/lynn-news-bias/)
+* [Straight – Bias and Credibility](https://mediabiasfactcheck.com/straight-bias-and-credibility/)
     
-    November 15, 2024
+    November 17, 2024
     
-* [SFist – Bias and Credibility](https://mediabiasfactcheck.com/sfist-bias-and-credibility/)
+* [St. George News – Bias and Credibility](https://mediabiasfactcheck.com/st-george-news-bias-and-credibility/)
     
-    November 15, 2024
+    November 17, 2024
     
 
 #### Recently Updated Pages
 
-* [Right Bias](https://mediabiasfactcheck.com/right/ "View Right Bias") - November 16, 2024
+* [Border Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/border-telegraph-bias/ "View Border Telegraph – Bias and Credibility") - November 18, 2024
     
-* [Stand to Reason – Bias and Credibility](https://mediabiasfactcheck.com/stand-to-reason-bias-and-credibility/ "View Stand to Reason – Bias and Credibility") - November 16, 2024
+* [Border Counties Advertiser – Bias and Credibility](https://mediabiasfactcheck.com/border-counties-advertiser-bias/ "View Border Counties Advertiser – Bias and Credibility") - November 18, 2024
     
-* [Conspiracy-Pseudoscience](https://mediabiasfactcheck.com/conspiracy/ "View Conspiracy-Pseudoscience") - November 16, 2024
+* [BoomLive – Bias and Credibility](https://mediabiasfactcheck.com/boomlive-bias/ "View BoomLive – Bias and Credibility") - November 18, 2024
     
-* [Steve Quayle (stevequayle.com) – Bias and Credibility](https://mediabiasfactcheck.com/steve-quayle-stevequayle-com-bias-and-credibility/ "View Steve Quayle (stevequayle.com) – Bias and Credibility") - November 16, 2024
+* [BonSens – Bias and Credibility](https://mediabiasfactcheck.com/bonsens/ "View BonSens – Bias and Credibility") - November 18, 2024
     
-* [Left-Center Bias](https://mediabiasfactcheck.com/leftcenter/ "View Left-Center Bias") - November 16, 2024
+* [Boise City Wire – Bias and Credibility](https://mediabiasfactcheck.com/boise-city-wire/ "View Boise City Wire – Bias and Credibility") - November 18, 2024
     
-* [Shape Magazine – Bias and Credibility](https://mediabiasfactcheck.com/shape-magazine-bias-and-credibility/ "View Shape Magazine – Bias and Credibility") - November 16, 2024
+* [BNR NewsRadio – Bias and Credibility](https://mediabiasfactcheck.com/bnr-newsradio/ "View BNR NewsRadio – Bias and Credibility") - November 18, 2024
     
-* [Least Biased](https://mediabiasfactcheck.com/center/ "View Least Biased") - November 16, 2024
+* [Bluegrass Times – Bias and Credibility](https://mediabiasfactcheck.com/bluegrass-times-bias/ "View Bluegrass Times – Bias and Credibility") - November 18, 2024
     
-* [London World – Bias and Credibility](https://mediabiasfactcheck.com/london-world-bias/ "View London World – Bias and Credibility") - November 16, 2024
+* [Bluefield Daily Telegraph – Bias and Credibility](https://mediabiasfactcheck.com/bluefield-daily-telegraph-bias/ "View Bluefield Daily Telegraph – Bias and Credibility") - November 18, 2024
     
-* [The National Pulse – Bias and Credibility](https://mediabiasfactcheck.com/the-national-pulse/ "View The National Pulse – Bias and Credibility") - November 15, 2024
+* [Blue State Blues News – Bias and Credibility](https://mediabiasfactcheck.com/blue-states-blues-news-bias/ "View Blue State Blues News – Bias and Credibility") - November 18, 2024
     
-* [Fox Business – Bias and Credibility](https://mediabiasfactcheck.com/fox-business/ "View Fox Business – Bias and Credibility") - November 15, 2024
+* [Bloomington-Richfield Sun Current – Bias and Credibility](https://mediabiasfactcheck.com/bloomington-richfield-sun-current-bias/ "View Bloomington-Richfield Sun Current – Bias and Credibility") - November 18, 2024
     
 
 #### Today’s Top Page Views
 
 * [Media Bias/Fact Check News](https://mediabiasfactcheck.com/)
-* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [Least Biased](https://mediabiasfactcheck.com/center/)
-* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
-* [NewsNation - Bias and Credibility](https://mediabiasfactcheck.com/newsnation/)
+* [Filtered Search](https://mediabiasfactcheck.com/filtered-search/)
 * [CNN - Bias and Credibility](https://mediabiasfactcheck.com/left/cnn-bias/)
-* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
-* [MBFC's Daily Vetted Fact Checks for 11/16/2024 (Weekend Edition)](https://mediabiasfactcheck.com/2024/11/16/mbfcs-daily-vetted-fact-checks-for-11-16-2024-weekend-edition/)
-* [Associated Press (AP News) - Bias and Credibility](https://mediabiasfactcheck.com/associated-press/)
+* [Fox News (foxnews.com) - Bias and Credibility](https://mediabiasfactcheck.com/fox-news-bias/)
+* [Search](https://mediabiasfactcheck.com/search/)
 * [New York Times - Bias and Credibility](https://mediabiasfactcheck.com/new-york-times/)
+* [CBC News (Canadian Broadcasting) - Bias and Credibility](https://mediabiasfactcheck.com/cbc-news-canadian-broadcasting/)
+* [The Guardian - Bias and Credibility](https://mediabiasfactcheck.com/the-guardian/)
+* [BBC - Bias and Credibility](https://mediabiasfactcheck.com/bbc/)
 
 #### Subscribe via Email
 
@@ -235,3 +235,23 @@ Email Address
 [RSS](https://mediabiasfactcheck.com/feed/)
 
 Copyright 2024 Media Bias Fact Check LLC
+
+Close this module
+
+Your Support Keeps Us Going!
+
+Support our mission - ad-free browsing & exclusive content.  
+  
+If you value our work, consider becoming a member.
+
+  
+New membership plans available.
+
+**Every contribution counts**
+
+**\*Ad-Free Memberships Starting at $3**  
+**\*Donations do not remove ads**
+
+[See all of our Plans](https://mediabiasfactcheck.com/membership-account/membership-levels/)[Donate Instead](https://mediabiasfactcheck.com/support-media-bias-fact-check/)
+
+[Never see this message again](#)
