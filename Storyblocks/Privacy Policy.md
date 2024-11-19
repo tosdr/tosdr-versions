@@ -99,6 +99,7 @@ Resources
 * [Courses](https://www.storyblocks.com/resources/courses)
 * [Case Studies](https://www.storyblocks.com/resources/case-studies)
 * [Storyblocks News](https://www.storyblocks.com/resource/news)
+* [License Comparison](https://www.storyblocks.com/business-solutions/license-comparison)
 * [FAQs](https://help.storyblocks.com/en/)
 
 All
