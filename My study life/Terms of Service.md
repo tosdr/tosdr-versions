@@ -447,3 +447,9 @@ Hit enter to search or ESC to close
 Search for: 
 
 [](# "Go to top")
+
+![cookie](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2030%2030'%3E%3C/svg%3E)
+
+![cookie](https://mystudylife.com/wp-content/themes/mystudylife/inc/images/30x30xcookie.png.pagespeed.ic.Oo-2g2kh5k.png)
+
+You trust MyStudyLife with your data. We respect that and use cookies responsibly. We NEVER sell your data to third parties. By using this website, you agree to our cookie policy. [cookie policy.](https://mystudylife.com/privacy-policy/) [Close](#)
