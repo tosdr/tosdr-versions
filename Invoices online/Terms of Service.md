@@ -196,63 +196,57 @@ Note: If at any time you should have any concern regarding security, privacy or 
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Saving time, saving money
+> -------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks to Invoices Online, administration of our client accounts went from an absolute nightmare, to an exciting and pleasurable couple of hours every Friday.  The system just makes everything so quick and easy.
 
-Kobus Venter
+Cornel Erasmus - TELA Loss Adjusters & Assessors
 
-![valued client Mountain Lion Properties](https://www.invoicesonline.co.za/scripts/image.php?bid=4949&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=26225038)  
-Mountain Lion Properties
+![valued client Highlands Auto Engineering](https://www.invoicesonline.co.za/scripts/image.php?bid=8553&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=203050654)  
+Highlands Auto Engineering
 
-![valued client Henry's Home Renovations](https://www.invoicesonline.co.za/scripts/image.php?bid=1221&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=113451084)  
-Henry's Home Renovations
+![valued client De light Investments(Pty)Ltd trading as Serene Memorials](https://www.invoicesonline.co.za/scripts/image.php?bid=6723&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=42124953)  
+De light Investments(Pty)Ltd trading as Serene Memorials
 
-![valued client Norton Medical & Consult - Namibia](https://www.invoicesonline.co.za/scripts/image.php?bid=7934&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=199678743)  
-Norton Medical & Consult - Namibia
-
-![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=46746714)  
-Brilliant Roof Products
-
-![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=212848103)  
+![valued client Waterfinatics Swim School](https://www.invoicesonline.co.za/scripts/image.php?bid=2587&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=186235654)  
 Waterfinatics Swim School
 
-![valued client Tiny Cuddles Photography](https://www.invoicesonline.co.za/scripts/image.php?bid=5167&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=139904565)  
-Tiny Cuddles Photography
+![valued client APTV Telecoms CC](https://www.invoicesonline.co.za/scripts/image.php?bid=8378&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=146033447)  
+APTV Telecoms CC
 
-![valued client Wiselink Broadband Dundee](https://www.invoicesonline.co.za/scripts/image.php?bid=5399&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=45827064)  
-Wiselink Broadband Dundee
+![valued client KTEN PARTS](https://www.invoicesonline.co.za/scripts/image.php?bid=7612&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=24982503)  
+KTEN PARTS
 
-![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=47538968)  
-Entidee Enterprise PTY (ltd)
+![valued client OXYAIDER (PTY) LTD ](https://www.invoicesonline.co.za/scripts/image.php?bid=7574&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=198083856)  
+OXYAIDER (PTY) LTD
 
-![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=116804705)  
-Safe-Train Consulting (PTY) Ltd
+![valued client The Gourmet Artisans Ltd.](https://www.invoicesonline.co.za/scripts/image.php?bid=8737&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=188297128)  
+The Gourmet Artisans Ltd.
 
-![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=185787152)  
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=82055820)  
+Calonet
+
+![valued client Tantra Sound and Lightz](https://www.invoicesonline.co.za/scripts/image.php?bid=1208&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=207457823)  
+Tantra Sound and Lightz
+
+![valued client Mtunzini Group ](https://www.invoicesonline.co.za/scripts/image.php?bid=5721&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=211830092)  
 Mtunzini Group
 
-![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=199105745)  
-VIV'S TRUCKS (Pty) Ltd. (651)
+![valued client Sonic Electrical Services PTY Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6803&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=107265932)  
+Sonic Electrical Services PTY Ltd
 
-![valued client High Point Marketing CC t/a Leads For Africa](https://www.invoicesonline.co.za/scripts/image.php?bid=6845&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=69053343)  
-High Point Marketing CC t/a Leads For Africa
+![valued client Safe-Train Consulting (PTY) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=5066&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=80393648)  
+Safe-Train Consulting (PTY) Ltd
 
-![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=95343532)  
-RADIO TYGERBERG 104FM NPC
+![valued client Cpower Projects t/a Pro Pure Water ](https://www.invoicesonline.co.za/scripts/image.php?bid=7742&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=150720134)  
+Cpower Projects t/a Pro Pure Water
 
-![valued client Leef in Afrikaans](https://www.invoicesonline.co.za/scripts/image.php?bid=7426&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=42186454)  
-Leef in Afrikaans
+![valued client One2b](https://www.invoicesonline.co.za/scripts/image.php?bid=4093&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=100749377)  
+One2b
 
-![valued client Tracknetics](https://www.invoicesonline.co.za/scripts/image.php?bid=8211&file=logo_300_100&type=&fe=01c3b9e764667aeb52c097ae31963e90c04772d507d9289cea194be73d025e5b&c=83085608)  
-Tracknetics
+![valued client BEE SURE CONSULTING (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=8110&file=logo_300_100&type=&fe=598df751a7f3302682e5f03f7a581fcdda7cdd76416dd3c96d8518826da2df31&c=62640892)  
+BEE SURE CONSULTING (PTY) LTD
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
