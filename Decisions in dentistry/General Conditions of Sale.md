@@ -138,6 +138,21 @@ Provider ID# 317924
 
 [### decisionsindentistry](https://www.instagram.com/decisionsindentistry/ "@decisionsindentistry")
 
+[Black Friday savings START NOW!⁠ ⁠ Through 12/ ![Black Friday savings START NOW!⁠
+⁠
+Through 12/2/2024 enjoy 25% off all individual courses OR save $49 on an annual study club membership with code BF24.⁠
+⁠
+Purchase now at a discount and take your courses at your own convenience!⁠
+⁠
+Visit decisionsindentistry.com/ce or click the link in bio.⁠
+⁠
+*Promotion valid 11/18/24-12/2/24. Must use coupon code BF24 at checkout.⁠
+⁠
+⁠
+---⁠
+⁠
+#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCgw6RJsHCG/) 
+
 [The American Dental Hygienists’ Association (ADH ![The American Dental Hygienists’ Association (ADHA) has introduced interim policies on scaling procedures and airway health screenings, pushing for advanced education and expanded roles for dental hygienists. These policies, set for official adoption in 2025, are sparking conversations about scope of practice and training requirements in the profession.⁠
 ⁠
 ⁠
@@ -172,13 +187,6 @@ Provider ID# 317924
 ---⁠
 ⁠
 #dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCUNeziOhMF/) 
-
-[Crown lengthening is essential for creating a stab ![Crown lengthening is essential for creating a stable biological foundation in restorative dentistry, ensuring long-term success. By understanding the significance of diagnosing altered passive eruption (APE) and applying an interdisciplinary approach, clinicians can optimize both functional and esthetic outcomes while preserving soft and hard tissue health. Link in bio.⁠
-⁠
-⁠
----⁠
-⁠
-#dentistry #dentist #dental #smile #dentista #teeth #cosmeticdentistry #dentistryworld #dentalphotography #odonto #tooth #dentistrylife #orthodontics #dentalcare #dentalhygienist #dentalimplants #oralhealth #veneers #dentalstudent #dentalassistant #dentalclinic #dentistlife #dentalhygiene #teethwhitening #oralsurgery #dds #endodontics #continuingeducation #education](https://decisionsindentistry.com/wp-content/plugins/instagram-feed/img/placeholder.png)](https://www.instagram.com/p/DCRormqsb-B/) 
 
 [Load More](javascript:void(0);) [Follow on Instagram](https://www.instagram.com/decisionsindentistry/)
 
