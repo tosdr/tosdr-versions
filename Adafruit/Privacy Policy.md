@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ A hacker to me is someone creative who does wonderful things”
+“ If you have knowledge, let others light their candles at it”
 
-[Tim Berners-Lee](https://twitter.com/wef/statuses/294738623641812992)
+[Margaret Fuller](http://en.wikipedia.org/wiki/Margaret_Fuller)
 
 [](https://www.adafruit.com/about)
 
