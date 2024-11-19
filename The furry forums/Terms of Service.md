@@ -17,7 +17,7 @@ Login with username, password and session length
 News:
 -----
 
-**Any thread that is unlocked** is free to be posted in! Threads are not considered "dead" until they are locked.
+Other smiley sets available - you change the species by going to **Profile > Look and Layout > Smiley Set**!
 
   
   
