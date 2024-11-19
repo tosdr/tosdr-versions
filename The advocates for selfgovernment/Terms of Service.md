@@ -506,7 +506,7 @@ Quizzes & Apps
     
     6 Min](https://www.theadvocates.org/qep/hrt-progressive/)
     
-*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fhuman-respect-tests.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=86eb5883) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fhuman-respect-tests.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=86eb5883)
+*    [![](/wp-content/themes/yootheme/cache/92/human-respect-tests-925738ae.jpeg) ![](/wp-content/themes/yootheme/cache/92/human-respect-tests-925738ae.jpeg)
     
     ### Protest + Civil Disobedience
     
@@ -523,7 +523,7 @@ Quizzes & Apps
     
     3.5 Min](https://www.theadvocates.org/qep/protest-civil-disobedience/)
     
-*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fpolice-accountability.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=c87a1665) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fpolice-accountability.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=c87a1665)
+*    [![](/wp-content/themes/yootheme/cache/d0/police-accountability-d0d465e9.jpeg) ![](/wp-content/themes/yootheme/cache/d0/police-accountability-d0d465e9.jpeg)
     
     ### Police Accountability
     
@@ -540,7 +540,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/police-accountability/)
     
-*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fsingle-issue-surveys.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=dc3c2259) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fsingle-issue-surveys.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=dc3c2259)
+*    [![](/wp-content/themes/yootheme/cache/74/single-issue-surveys-74fe222a.jpeg) ![](/wp-content/themes/yootheme/cache/74/single-issue-surveys-74fe222a.jpeg)
     
     ### Pandemic Survey
     
@@ -557,7 +557,7 @@ Quizzes & Apps
     
     4 Min](https://www.theadvocates.org/qep/pandemic-survey/)
     
-*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Felection-integrity-survey.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=b2089061) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Felection-integrity-survey.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=b2089061)
+*    [![](/wp-content/themes/yootheme/cache/c3/election-integrity-survey-c3a7fd55.jpeg) ![](/wp-content/themes/yootheme/cache/c3/election-integrity-survey-c3a7fd55.jpeg)
     
     ### Election Integrity Survey
     
@@ -574,7 +574,7 @@ Quizzes & Apps
     
     3 Min](https://www.theadvocates.org/qep/election-integrity-survey/)
     
-*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fdo-you-understand-self-government.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=abad9e54) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fdo-you-understand-self-government.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=abad9e54)
+*    [![](/wp-content/themes/yootheme/cache/25/do-you-understand-self-government-2509ba0f.jpeg) ![](/wp-content/themes/yootheme/cache/25/do-you-understand-self-government-2509ba0f.jpeg)
     
     ### Censorship and Free Speech
     
@@ -659,7 +659,7 @@ Quizzes & Apps
     
     4.5 Min](https://www.theadvocates.org/qep/federal-spending-survey/)
     
-*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2023%2F06%2Fgun-control.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=072f66f4) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2023%2F06%2Fgun-control.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=072f66f4)
+*    [![](/wp-content/themes/yootheme/cache/13/gun-control-13210d36.jpeg) ![](/wp-content/themes/yootheme/cache/13/gun-control-13210d36.jpeg)
     
     ### Gun Control Survey
     
