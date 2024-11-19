@@ -2,11 +2,9 @@
 
 Discover now](https://shop.ledger.com/pages/ledger-flex)
 
-Our Website now exists in . Do you want to change languages?
+Do you want to change language to ?
 
-Yes, please No, I'm good
-
-You can revert to English at any time by clicking on the language menu on the top right corner of the page.
+Yes, please No, thanks
 
   [![Ledger](https://www.ledger.com/wp-content/themes/ledger-v2/public/images/ledger-logo-long.svg)](https://www.ledger.com/ "Ledger")
 
