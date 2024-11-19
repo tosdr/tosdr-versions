@@ -62,9 +62,10 @@ This Privacy Policy covers the following topics:
 7. [Security](#section7)
 8. [Third Party Links](#section8)
 9. [Children’s Privacy](#section9)
-10. [Notice to California Residents](#section10)
-11. [Accessibility](#section11)
-12. [How to Contact Us](#section12)
+10. [Your State Privacy Rights and Additional Disclosures](#section10)
+11. [Notice to California Residents](#section11)
+12. [Accessibility](#section12)
+13. [How to Contact Us](#section13)
 
 #### 1\. Information We Collect Online
 
@@ -74,7 +75,7 @@ We collect Personally Identifiable Information from you through your use of the 
 We may collect the following Personally Identifiable Information that you voluntarily provide to us in using our Sites and Services:
 
 * _Contact Us._ When you contact us online, we collect your name, email address, company name and any Personally Identifiable Information that you choose to provide to us in your message.
-* _Mobile Applications._ If you register for an account on our My Transit Manager, Transdev Connect, MobiMe, GoMobile, or our other mobile applications, you will provide us with your name, email address, telephone number, geolocation data, and you will create a password. If you use our mobile applications, you will provide us with your geolocation data (regional and precise). 
+* _Mobile Applications._ If you register for an account on our My Transit Manager, Transdev Connect, MobiMe, GoMobile, or our other mobile applications, you will provide us with your name, email address, telephone number, geolocation data, and you will create a password. If you use our mobile applications, you will provide us with your geolocation data (regional and precise). Please note that if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes, and any references to such sharing in this Privacy Policy do not apply to the Transdev Connect Services.
 * _Register as an Approved Vendor._ As part of our Transdev Vendor Registration System, you will provide us with your name, email address, telephone number, mailing address, title, EIN number, ethnicity, gender, professional information, military/veteran status, and vendor/company information.
 * _Apply for a Job._ If you wish to apply for a job on our career portal, you will create a profile via LinkedIn or provide us with your name, email address, and creating a password. You may also choose to upload your resume. We use Recruit Rooster and JobVite to facilitate this process. Please review [Recruit Rooster’s privacy policy here](https://recruitrooster.com/privacy-terms/), and [JobVite’s privacy notice here](https://www.employinc.com/privacy/). If you wish to receive email alerts about new job openings through our Talent Network, you will provide us with your email address or log in via LinkedIn.
 * _Signup for Employee News Updates._ Current Transdev employees that wish to receive employee news updates to their inbox will provide us with their email address.
@@ -112,6 +113,8 @@ We use the Personally Identifiable Information we collect to provide the Service
 
 #### 3\. How We Share Your Information
 
+We may share the Personally Identifiable Information we collect from you in the following ways:
+
 * With vendors who perform data or Site-related services on our behalf (e.g., email, hosting, maintenance, backup, analysis, etc.);
 * With vendors to prepare, deploy and analyze advertising content;
 * To the extent that we are required to do so by law;
@@ -121,6 +124,8 @@ We use the Personally Identifiable Information we collect to provide the Service
 * With any other person or entity as part of any business or asset sale, equity transaction, merger, acquisition, bankruptcy, liquidation, or similar proceeding, or in preparation for any of these events;
 * With any other person or entity where you consent to the disclosure; and
 * For any other purpose disclosed by us when you provide the Personally Identifiable Information or for any other purpose we deem necessary, including to protect the health or safety of others.
+
+As previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
 #### 4\. Cookies and Other Tracking Technologies
 
@@ -137,6 +142,8 @@ We use Cookies to:
 * Recognize when you return to the Sites.
 
 We set some Cookies ourselves, while separate entities set other Cookies. We use Cookies other entities set to provide us with useful information, to help us improve our Sites and Services, to conduct advertising, and to analyze the effectiveness of advertising. For example, we use Cookies from Google and other similar companies.
+
+As previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
 **How You Can Opt Out of Cookies**
 
@@ -164,7 +171,9 @@ We use Google Analytics, a web analytics service provided by Google, Inc. Google
 **Google reCAPTCHA**  
 We use Google reCAPTCHA, a free service provided by Google, Inc., to protect our Sites from spam and abuse. Google reCAPTCHA uses advanced risk analysis techniques to decipher humans and bots. Google reCAPTCHA works differently depending on what version is deployed. For example, you may be asked to check a box indicating that you are not a robot or Google reCAPTCHA may detect abusive traffic without user interaction. Google reCAPTCHA works by transmitting certain types of information to Google, such as the referrer URL, IP address, visitor behavior, operating system information, browser and length of the visit, cookies, and mouse movements. Your use of Google reCAPTCHA is subject to Google’s [Privacy Policy](https://policies.google.com/privacy) and [Terms of Service](https://policies.google.com/terms). More information as to Google reCAPTCHA and how it works is [available here](https://developers.google.com/recaptcha).
 
-#### 5\. “Do Not Track” Signals
+#### 5\. Universal Opt-Out Mechanisms
+
+The Sites recognize the Global Privacy Control (“GPC”) signal. If you are using a browser setting or plug-in that sends an opt-out preference signal to each website you visit, we will treat that as a valid request to opt out. To download and use a browser supporting the GPC browser signal, click here: [https://globalprivacycontrol.org/orgs](https://globalprivacycontrol.org/orgs). If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use.
 
 Some internet browsers incorporate a “Do Not Track” feature that signals to websites you visit that you do not want to have your online activity tracked. Given that there is not a uniform way that browsers communicate the “Do Not Track” signal, the Sites do not currently interpret, respond to, or alter their practices when they receive “Do Not Track” signals.
 
@@ -188,7 +197,28 @@ The Sites and Services may contain links that will let you leave the Sites and S
 
 The Sites and Services are not intended for children under 13 years of age. We do not knowingly collect, use, or disclose personal information from children under 13.
 
-#### 10\. Notice to California Residents
+#### 10\. Your State Privacy Rights and Additional Disclosures
+
+Depending on the state in which you reside, you may have certain privacy rights regarding your Personally Identifiable Information. If you are a California resident, please see our “Notice to California Residents” section below. For other state residents, your privacy rights may include (if applicable):
+
+* The right to confirm whether or not we are processing your Personally Identifiable Information and to access such Personally Identifiable Information and the categories of Personally Identifiable Information we are processing or have processed;
+* The right to obtain a copy of your Personally Identifiable Information that we collected from and/or about you in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the information to another controller without hindrance, where the processing is carried out by automated means;
+* The right, at our option, to obtain a list of specific third parties, other than natural persons, to which we have disclosed your Personally Identifiable Information or any Personally Identifiable Information;
+* The right to obtain a list of categories of third parties to which we have disclosed your Personally Identifiable Information;
+* The right to delete Personally Identifiable Information that we collected from and/or about you, subject to certain exceptions;
+* The right to correct inaccurate Personally Identifiable Information that we maintain about you, subject to certain exceptions;
+* The right, if applicable, to opt out of the processing of your Personally Identifiable Information for purposes of (1) targeted advertising; (2) the “sale” of your Personally Identifiable Information (as that term is defined by applicable law); and (3) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you;
+* If we are required by applicable law to obtain your consent to process sensitive Personally Identifiable Information, the right to withdraw your consent; and
+* The right not to receive discriminatory treatment by us for the exercise of your privacy rights.
+
+While we do not “sell” Personally Identifiable Information as that term may be commonly interpreted, depending on how the applicable privacy law defines a “sale,” we may sell Personally Identifiable Information to third parties if you are using certain applications or visiting certain websites. For instance, if you are a resident of Colorado or Connecticut, our use of cookies and tracking technologies constitutes a sale of Personally Identifiable Information to third-party advertisers. We also use cookies and other tracking to display advertisements about our products to you on nonaffiliated websites, applications, and online services. This is “targeted advertising” under applicable privacy laws. We do not use Personally Identifiable Information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals. Further, as previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.  
+To exercise your rights, please submit a request through our interactive webform available here, by emailing us at infoUS@transdev.com, or by calling us toll free at 1-800-225-8880. If legally required, we will comply with your request upon verification of your identity and, to the extent applicable, the identity of the individual on whose behalf you are making such request. To do so, we will ask you to verify data points based on information we have in our records. If you are submitting an opt-out request on behalf of another individual, please use the same contact methods described above. We will process authorized agent requests in accordance with applicable law. If we refuse to take action regarding your request, you may appeal our decision through our interactive webform available here, by emailing us at infoUS@transdev.com, by calling us toll free at 1-800-225-8880, or by replying to the email you received from us in response to your request. If you would like to opt out of targeted advertising, you may alter your cookie preferences as described herein.
+
+**Notice to Nevada Residents**
+
+Nevada law allows Nevada residents to opt out of the sale of certain types of Personally Identifiable Information. Subject to several exceptions, Nevada law defines “sale” to mean the exchange of certain types of Personally Identifiable Information for monetary consideration to another person. We do not currently sell Personally Identifiable Information as defined in the Nevada law. However, if you are a Nevada resident, you still may submit a verified request to opt out of sales and we will record your instructions and incorporate them in the future if our policy changes. You may send opt-out requests to infoUS@transdev.com.
+
+#### 11\. Notice to California Residents
 
 The California Consumer Privacy Act, as amended by the California Privacy Rights Act of 2020 (“CCPA”), requires that we provide California residents with a privacy policy that contains a comprehensive description of our online and offline practices regarding the collection, use, sale, sharing, and retention of personal information and of the rights of California residents regarding their personal information. This section of the Privacy Policy is intended solely for, and is applicable only as to, California residents. If you are not a California resident, this section does not apply to you and you should not rely on it.
 
@@ -249,6 +279,8 @@ We sold or shared Personal Information to third parties for the following busine
 * Auditing related to counting impressions to unique visitors, verifying positioning
 * Providing advertising and marketing services
 * Advancing our commercial or economic interests
+
+As previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
 The following table identifies the categories of Personal Information that we disclosed for a business purpose in the 12 months preceding the Last Updated Date of this Privacy Policy and, for each category, the categories of recipients to whom we disclosed Personal Information:
 
@@ -324,11 +356,11 @@ If you have enabled privacy controls on your browser (such as a plugin), we will
 **Shine the Light Law**  
 We do not disclose personal information obtained through our Sites or Services to third parties for their direct marketing purposes. Accordingly, we have no obligations under California Civil Code § 1798.83.
 
-#### 11\. Accessibility
+#### 12\. Accessibility
 
 We are committed to ensuring this Privacy Policy is accessible to individuals with disabilities. If you wish to access this Privacy Policy in an alternative format, please contact us as described below.
 
-#### 12\. How to Contact Us
+#### 13\. How to Contact Us
 
 If you have any questions or concerns about our privacy policies or practices, please contact us per below:  
 Transdev North America, Inc.  
