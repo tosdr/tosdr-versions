@@ -29,7 +29,7 @@ Search
     
     * ###### Healthy living
         
-        [Latest features](https://patient.info/news-and-features)
+        [Latest features](https://patient.info/news-and-features)[Cold and flu season](https://patient.info/cold-and-flu-season)
         
         [Exercise and physical activity](https://patient.info/healthy-living#exerciseandphysicalactivity)[Healthy eating](https://patient.info/healthy-living#healthyeating)[Healthy relationships](https://patient.info/healthy-living#healthyrelationships)[Managing harmful habits](https://patient.info/healthy-living#managingharmfulhabits)[Mental wellbeing](https://patient.info/healthy-living#mentalwellbeing)[Relaxation and sleep](https://patient.info/healthy-living#relaxationandsleep)
         
