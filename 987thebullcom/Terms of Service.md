@@ -212,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| I Never LieZach Top<br><br>4:42pm |
-| I Am Not OkayJelly Roll<br><br>4:37pm |
-| Fancy LikeWalker Hayes<br><br>4:34pm |
-| Different 'Round HereRiley Green Ft Luke Combs<br><br>4:31pm |
-| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:28pm |
+| Love You, Miss You, Mean ItLuke Bryan<br><br>10:40pm |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>10:37pm |
+| Darlin'Chase Matthew<br><br>10:25pm |
+| A Bar Song (Tipsy)Shaboozey<br><br>10:22pm |
+| Next Thing You KnowJordan Davis<br><br>10:20pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -360,9 +360,13 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
+Top 40 • Pacific NW
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
@@ -371,10 +375,6 @@ Sports • Midwest
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
