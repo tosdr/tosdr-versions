@@ -110,11 +110,11 @@ Recent Stories
 
 Monitor Daily
 
-November 15, 2024
+November 18, 2024
 
-An extraordinary man and his message for today
+Bread or circus
 
-“You have to love that person who’s hitting you.” That is a quote from civil rights icon John Lewis in today’s review of a new biography.Why is that true? The pioneer of modern nonviolent resistance, Mohandas Gandhi, came to a startling conclusion. Injustice comes from the desire to control others, which plays upon our passions and prejudices. Truth comes from the struggle to control oneself without yielding to despair or hate. In its most radical forms, this becomes a transformational grace that changes people and societies through conscience, not through control.It is the amplitude of a pure heart, unabridged and unleashed, and a power that does not wax or wane with the political seasons.
+Read our first two stories today, and one thing jumps out. The Trump administration is looking like it will take a blowtorch to business as usual in Washington, from health to immigration and beyond. But the thing about disruption is that it is ... disruptive. And if this election was about anything, it was a reminder that everything comes back to how voters feel about the economy. Mr. Trump’s challenge will be in pulling the levers that lead to economic regeneration and avoiding those that only add to the political circus.  
 
 [Listen to or read today's issue](https://www.csmonitor.com/Daily)
 
