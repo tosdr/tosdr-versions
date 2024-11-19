@@ -11,10 +11,9 @@
     3. [Trophäen](https://gg-community.de/trophy-list/)
     4. [Benutzerränge](https://gg-community.de/ranks/)
     5. [Meistgestellten Fragen (FAQ)](https://gg-community.de/faq-question-list/)
-5. [Garrys Mod Shop](https://ggc.tebex.io/)
-6. [GExtension](https://gg-community.de/gextension)
-7. [Streaming-Partner](https://gg-community.de/streaming-partner/)
-8. [Wiki](https://gg-community.de/lexicon/)
+5. [GExtension](https://gg-community.de/gextension)
+6. [Streaming-Partner 1](https://gg-community.de/streaming-partner/)
+7. [Wiki](https://gg-community.de/lexicon/)
 
 [](https://gg-community.de/login/?url=https%3A%2F%2Fgg-community.de%2F%3Fsc-terms-of-use "Anmelden oder registrieren")
 
