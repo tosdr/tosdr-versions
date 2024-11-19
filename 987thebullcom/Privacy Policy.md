@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Love You, Miss You, Mean ItLuke Bryan<br><br>10:40pm |
-| I Got A GuyPost Malone Ft Luke Combs<br><br>10:37pm |
-| Darlin'Chase Matthew<br><br>10:25pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>10:22pm |
-| Next Thing You KnowJordan Davis<br><br>10:20pm |
+| Wolves CryBryan Martin<br><br>4:39am |
+| Tennessee OrangeMegan Moroney<br><br>4:36am |
+| TexasBlake Shelton<br><br>4:33am |
+| Bigger HousesDan Shay<br><br>4:30am |
+| Whatcha See Is Whatcha GetChris Janson<br><br>4:27am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
 
-Spanish • Western
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
-
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
-
-Country • Western
+Top 40 • Pacific NW
 
 [![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
 Sports • Midwest
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
+
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
+
+Country • Western
 
 [](https://www.alphamediausa.com/)
 
