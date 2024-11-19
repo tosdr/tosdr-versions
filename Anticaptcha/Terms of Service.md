@@ -98,7 +98,6 @@ Subscription
 | [reCAPTCHA v2](https://anti-captcha.com/apidoc/task-types/RecaptchaV2TaskProxyless) | $0.95 - $2\* | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
 | [reCAPTCHA v3](https://anti-captcha.com/apidoc/task-types/RecaptchaV3TaskProxyless) | $1 - $2\*\* | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
 | [reCAPTCHA Enterprise v2/v3](https://anti-captcha.com/apidoc/task-types/RecaptchaV2EnterpriseTaskProxyless) | $5  | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
-| [hCaptcha](https://anti-captcha.com/apidoc/task-types/HCaptchaTaskProxyless) | $2  | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
 | [GeeTest](https://anti-captcha.com/apidoc/task-types/GeeTestTaskProxyless) | $1.8 | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
 | [Arkose Labs](https://anti-captcha.com/apidoc/task-types/FunCaptchaTaskProxyless) | $3  | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
 | [Turnstile](https://anti-captcha.com/apidoc/task-types/TurnstileTaskProxyless) | $2  | 5 s | Busy: 1000  <br>Idle: 1200 | 1000 / per minute |
@@ -113,7 +112,7 @@ Get Started Now
 
 Best captcha solving API
 
-The most accurate, cheapest and fastest service, with an amazing customer area and support. Solve [Recaptcha V2](https://anti-captcha.com/apidoc/task-types/RecaptchaV2TaskProxyless), [Recaptcha V3](https://anti-captcha.com/apidoc/task-types/RecaptchaV3TaskProxyless), [hCaptcha](https://anti-captcha.com/apidoc/task-types/HCaptchaTaskProxyless), [image captchas](https://anti-captcha.com/apidoc/task-types/ImageToTextTask), and many more with our top-quality trained workforce. We can also solve [custom captchas](https://anti-captcha.com/apidoc/task-types/AntiGateTask?search=cloudflare) on any web page by programming our workers' browsers with our proprietary technology. Our robust API supports unlimited parallel processing threads, ensuring seamless integration into your application.
+The most accurate, cheapest and fastest service, with an amazing customer area and support. Solve [Recaptcha V2](https://anti-captcha.com/apidoc/task-types/RecaptchaV2TaskProxyless), [Recaptcha V3](https://anti-captcha.com/apidoc/task-types/RecaptchaV3TaskProxyless), , [image captchas](https://anti-captcha.com/apidoc/task-types/ImageToTextTask), and many more with our top-quality trained workforce. We can also solve [custom captchas](https://anti-captcha.com/apidoc/task-types/AntiGateTask?search=cloudflare) on any web page by programming our workers' browsers with our proprietary technology. Our robust API supports unlimited parallel processing threads, ensuring seamless integration into your application.
 
 100% of captchas are solved by human workers from around the world.
 
