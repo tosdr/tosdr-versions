@@ -120,20 +120,20 @@ Last Updated: November 15, 2011.
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34527)
+     [](https://patriotpost.us/cartoons/34534)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
+*      [Victor Joecks Debunking the Left’s Deportation Hysteria](https://patriotpost.us/opinion/112124-debunking-the-lefts-deportation-hysteria-2024-11-19)
+*      [Cal Thomas Trimming Obese Government](https://patriotpost.us/opinion/112123-trimming-obese-government-2024-11-19)
+*      [Daniel McCarthy Why Democrats Are Losing Tomorrow’s Elections Today](https://patriotpost.us/opinion/112122-why-democrats-are-losing-tomorrows-elections-today-2024-11-19)
+*      [Gary Bauer A Cultural Icon](https://patriotpost.us/opinion/112121-a-cultural-icon-2024-11-19)
+*      [Rich Lowry The Age of Whispered Conversations](https://patriotpost.us/opinion/112119-the-age-of-whispered-conversations-2024-11-19)
+*      [The Washington Stand Advancing the Right to Life in 2025 and Beyond](https://patriotpost.us/opinion/112125-advancing-the-right-to-life-in-2025-and-beyond-2024-11-19)
+*      [The Babylon Bee 9 Things RFK Jr. Plans to Do on Day One to Make America Healthy Again](https://patriotpost.us/opinion/112117-9-things-rfk-jr-plans-to-do-on-day-one-to-make-america-healthy-again-2024-11-19)
 *      [Gary Bauer Avoiding Past Mistakes](https://patriotpost.us/opinion/112066-avoiding-past-mistakes-2024-11-18)
-*      [Rich Lowry No, the Left Can’t Create a New Joe Rogan](https://patriotpost.us/opinion/112064-no-the-left-cant-create-a-new-joe-rogan-2024-11-18)
-*      [Jeff Jacoby The Missionary in the Parking Lot](https://patriotpost.us/opinion/112063-the-missionary-in-the-parking-lot-2024-11-18)
-*      [The Washington Stand Recess Games](https://patriotpost.us/opinion/112065-recess-games-2024-11-18)
-*      [The Babylon Bee What’s Next? Here Are 10 Great Career Options for Kamala to Consider](https://patriotpost.us/opinion/112067-whats-next-here-are-10-great-career-options-for-kamala-to-consider-2024-11-18)
-*      [Matthew Continetti Meet the New Boss](https://patriotpost.us/opinion/112020-meet-the-new-boss-2024-11-16)
-*      [Imprimis Populist Conservatism and Constitutional Order](https://patriotpost.us/opinion/112021-populist-conservatism-and-constitutional-order-2024-11-16)
-*      [The Washington Stand The 4 Stories You Missed This Week](https://patriotpost.us/opinion/112022-the-4-stories-you-missed-this-week-2024-11-16)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -147,11 +147,11 @@ Last Updated: November 15, 2011.
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
+[![](https://img.patriotpost.us/01JAZT6VDT6H9HTK9EJ190K832.jpeg)](https://patriotpostshop.com/collections/featured-products)
 
 ### The Foundation
 
-“The fabric of American empire ought to rest on the solid basis of THE CONSENT OF THE PEOPLE. The streams of national power ought to flow from that pure, original fountain of all legitimate authority.” —Alexander Hamilton (1787)
+“In questions of power, then, let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.” —Thomas Jefferson (1798)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
