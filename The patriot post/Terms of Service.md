@@ -1,10 +1,10 @@
-**You Make a Difference!** Our mission and operations are funded entirely by Patriots like you! Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us) now.
+**Patriots:** For over 26 years, your generosity has made it possible to offer The Patriot Post without a subscription fee to military personnel, students, and those with limited means. Please [support the 2024 Year-End Campaign](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us) today.
 
-[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_6&utm_medium=web&utm_source=patriotpost.us)
+[Support Liberty](https://patriotpost.us/donation/new?utm_campaign=55&utm_content=precontent_4&utm_medium=web&utm_source=patriotpost.us)
 
 [![](/assets/logo-3b6b6294dd1ca7308b9a9754bfeffaef9918dcc5467b9d15a5a8937b4c1e7e6d.svg)](https://patriotpost.us/)
 
-[Read The Latest Digest](https://patriotpost.us/digests/112102-mid-day-digest-2024-11-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Latest Digest](https://patriotpost.us/digests/112128-mid-day-digest-2024-11-19?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 Subscriber/User Terms and Conditions of Service
 
@@ -189,7 +189,7 @@ These Terms and Conditions, together with the Privacy Policy, represent the enti
 
 All users and subscribers of Web site agree to abide by and comply with these "Subscriber/User Terms and Conditions of Service," as set forth by Publius Press, Inc., publisher of The Patriot Post, as a condition of subscription or use.
 
-[Read The Mid-Day Digest](https://patriotpost.us/digests/112102-mid-day-digest-2024-11-18?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
+[Read The Mid-Day Digest](https://patriotpost.us/digests/112128-mid-day-digest-2024-11-19?utm_campaign=latest_digest&utm_content=subscribe_sidebar&utm_medium=web&utm_source=patriotpost.us)
 
 [Executive News Summary](https://patriotpost.us/categories/74-headlines)
 
@@ -228,11 +228,7 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[Wear Your Patriotism on Your Sleeve
-
- 
-
-Shop Now](https://patriotpostshop.com/)
+No MSM Churn No Clickbait Junk No Advertising
 
 ### The Foundation
 
@@ -262,7 +258,7 @@ The Patriot Post is steadfast in our mission to extend the [endowment of Liberty
 
   
 
-The Patriot Post and [Patriot Foundation Trust](https://patriotfoundationtrust.org/), in keeping with our [Military Mission of Service](https://patriotpost.us/about/mission) to our uniformed service members and veterans, are proud to support and promote the [National Medal of Honor Heritage Center](https://www.mohhc.org/), the [Congressional Medal of Honor Society](https://www.cmohs.org/), both the [Honoring the Sacrifice](https://honoringthesacrifice.com/) and [Warrior Freedom Service Dogs](https://www.warriorfreedom.org/) aiding wounded veterans, the [National Veterans Entrepreneurship Program](https://www.utc.edu/gary-w-rollins-college-of-business/outreach-programs/national-veterans-entrepreneurship-program), the [Folds of Honor](https://foldsofhonor.org/about-us/) outreach, and [Officer Christian Fellowship](https://www.ocfusa.org/), the [Air University Foundation](https://www.airuniversity.af.edu/), and [Naval War College Foundation](https://nwcfoundation.org/), and the [Naval Aviation Museum Foundation](https://www.navalaviationmuseum.org/). "Greater love has no one than this, to lay down one's life for his friends." (John 15:13)
+The Patriot Post and [Patriot Foundation Trust](https://patriotfoundationtrust.org/), in keeping with our [Military Mission of Service](https://patriotpost.us/about/mission) to our uniformed service members and veterans, are proud to support and promote the [National Medal of Honor Heritage Center](https://www.mohhc.org/), the [Congressional Medal of Honor Society](https://www.cmohs.org/), both the [Honoring the Sacrifice](https://honoringthesacrifice.com/) and [Warrior Freedom Service Dogs](https://www.warriorfreedom.org/) aiding wounded veterans, the [Tunnel to Towers Foundation](https://t2t.org/), the [National Veterans Entrepreneurship Program](https://www.utc.edu/gary-w-rollins-college-of-business/outreach-programs/national-veterans-entrepreneurship-program), the [Folds of Honor](https://foldsofhonor.org/about-us/) outreach, and [Officer Christian Fellowship](https://www.ocfusa.org/), the [Air University Foundation](https://www.airuniversity.af.edu/), and [Naval War College Foundation](https://nwcfoundation.org/), and the [Naval Aviation Museum Foundation](https://www.navalaviationmuseum.org/). "Greater love has no one than this, to lay down one's life for his friends." (John 15:13)
 
 ##### Email Subscriptions
 
