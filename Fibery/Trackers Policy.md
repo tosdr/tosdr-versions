@@ -207,24 +207,17 @@ The following are third-party cookies.
 
 | Domain | Cookie Name | Expiration | Description | Opt-Out |
 | --- | --- | --- | --- | --- |
-| third party | IDE | 2 years | Targeting/ Advertising (Google DoubleClick) | [Google Opt-Out](https://adssettings.google.com/authenticated?hl=en) |
+| third party | IDE | 2 years | Tracks information about your interaction with ads, helping to deliver personalized advertising and measure the effectiveness of campaigns (Google DoubleClick) | [Google Opt-Out](https://adssettings.google.com/authenticated?hl=en) |
 | third party | \_ga | 2 years | Analytics used to distinguish users (Google Analytics) | [Google Opt-Out](https://tools.google.com/dlpage/gaoptout/) |
 | third party | \_gid | 24 hours | Analytics used to distinguish users (Google Analytics) | [Google Opt-Out](https://tools.google.com/dlpage/gaoptout/) |
 | third party | \_gat | 1 minute | Analytics used to throttle request rate (Google Analytics) | [Google Opt-Out](https://tools.google.com/dlpage/gaoptout/) |
-| third party | intercom-id-<id> | Session | Intercom ID to connect website and Intercom account | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
-| third party | product\_store\_identifier | 1 year | Intercom ID to identify the account | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
-| third party | intercom-session-<id> | 1 year | Intercom id to distinguish users | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
-| third party | ajs\_anonymous\_id | 1 year | Typeform usage statistics | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
-| third party | ajs\_group\_id | 1 year | Typeform usage statistics | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
-| third party | ajs\_user\_id | 1 year | Typeform usage statistics | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
-| third party | device\_view | Session | Typeform view settings | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
-| third party | attribution\_user\_id | 1 year | Typeform usage statistics | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
-| third party | first\_interaction | 1 year | Typeform usage statistics | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
-| third party | zero\_interaction | 1 year | Typeform usage statistics | [Typeform Data Policy](https://www.typeform.com/help/what-happens-to-my-data/) |
+| third party | intercom-id-<id>  <br>intercom-session-<id> | 1 year  <br>Session | Intercom ID to connect website and Intercom account, and distinguish users (Intercom) | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
+| third party | product\_store\_identifier | 1 year | Intercom ID to identify the account (Intercom) | [Intercom Cookie Policy](https://www.intercom.com/terms-and-policies#cookie-policy) |
+| third party | bcookie  <br>li\_gc  <br>lidc  <br>li\_sugr  <br>UserMatchHistory  <br>AnalyticSyncHistory | 1 year  <br>6 months  <br>24 hours  <br>90 days  <br>30 days  <br>30 days | Delivers tailored offers, links your website visit to the originating advertisements, and provides insights into the performance of our advertising campaigns (LinkedIn) | [LinkedIn Cookie Policy](https://www.linkedin.com/legal/cookie-policy) |
 
 If you have any questions regarding the use of cookies at Fibery, please feel free to contact us at support@fibery.io or gdpr@fibery.io.
 
-Last update date: November 7th 2019.
+Last update date: November 19th, 2024.
 
 Try for free till you 🖤 it, or till trial expires 🤷
 
