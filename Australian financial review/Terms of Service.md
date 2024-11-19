@@ -309,9 +309,8 @@ Advertise
 
 [![The rising cost-of-living burden has left more Australian unhappy.](https://static.ffx.io/images/$zoom_0.5521%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/c_scale%2Cw_300%2Cq_88%2Cf_auto/560b4d9bc3d8e0a640f8eb4f98cdd11314971896)](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
 
-### [Happiness and social cohesion hit record lows for Australians](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
+### [Social cohesion hits record lows, support for immigration slumps](https://www.afr.com/work-and-careers/workplace/happiness-and-social-cohesion-hit-record-lows-for-australians-20241114-p5kqpa)
 
-* 54 mins ago
 * Patrick Durkin
 
 * ### [This former investment banker now runs a $2b caravan park business](https://www.afr.com/work-and-careers/leaders/this-former-investment-banker-now-runs-a-2bn-caravan-park-business-20241106-p5koim)
@@ -326,7 +325,6 @@ Advertise
 
 ### [Meet the mother of all cargo bikes](https://www.afr.com/technology/meet-the-mother-of-all-cargo-bikes-20241114-p5kqnu)
 
-* 54 mins ago
 * John Davidson
 
 * ### [Dispatches from a midlife crisis summer camp](https://www.afr.com/life-and-luxury/health-and-wellness/dispatches-from-a-midlife-crisis-summer-camp-20241016-p5kira)
