@@ -133,7 +133,7 @@ B2B Inquiry
 * [Motorola](https://www.motorola.com/us/about)
 * [Lenovo](https://www.lenovo.com/us/en/pc/?referer=https%3A%2F%2Fwww.motorola.com%2F)
 * [Licensing](https://www.motorola.com/us/about/licensing)
-* [Do Not Sell](https://www.motorola.com/us/legal/motorola-data-privacy-rights)
+* [Do Not Sell or Share My Personal Information](https://www.motorola.com/us/legal/motorola-data-privacy-rights)
 * [Terms Of Sale](https://www.motorola.com/us/legal/terms-of-sale)
 * [Privacy Statement](https://help.motorola.com/hc/apps/privacy/notice/us/en-us/)
 * [Terms Of Use](https://www.motorola.com/us/legal/terms-of-use)
