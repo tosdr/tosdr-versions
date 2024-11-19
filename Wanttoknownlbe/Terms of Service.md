@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/geschiedenis/onze-jfk-memorial/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/president-john-f-kennedy-de-complotdenker/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
