@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/president-john-f-kennedy-de-complotdenker/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/inspiratie/een-zeer-indrukwekkend-interview-met-inelia-benz/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
