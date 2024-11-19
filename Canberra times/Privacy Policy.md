@@ -2,15 +2,15 @@ Ad
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1731901032/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1731910901/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 [Privacy](https://www.canberratimes.com.au/privacy/)
 
-[![The Canberra Times](/static/1731901032/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1731910901/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1731901032/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1731910901/sites/canberratimes/images/masthead/masthead-square.svg)](https://www.canberratimes.com.au/)
 
-[![The Canberra Times](/static/1731901032/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1731910901/sites/canberratimes/images/masthead/masthead-only.svg)](https://www.canberratimes.com.au/)
 
 SectionsMy Region
 
@@ -40,7 +40,7 @@ SectionsMy Region
 
 [Life & Style](https://www.canberratimes.com.au/life-style/)
 
-[Life](https://www.canberratimes.com.au/life-style/life/)[Money](https://www.canberratimes.com.au/life-style/money/)[Books](https://www.canberratimes.com.au/life-style/books/)[Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[Recipes](https://www.canberratimes.com.au/life-style/recipes/)[Celebrity](https://www.canberratimes.com.au/life-style/celebrity/)[Social photos](https://www.canberratimes.com.au/life-style/photos/)
+[Life](https://www.canberratimes.com.au/life-style/life/)[Money](https://www.canberratimes.com.au/life-style/money/)[Puzzles](https://www.canberratimes.com.au/life-style/puzzles/)[Books](https://www.canberratimes.com.au/life-style/books/)[Recipes](https://www.canberratimes.com.au/life-style/recipes/)[Celebrity](https://www.canberratimes.com.au/life-style/celebrity/)[Social photos](https://www.canberratimes.com.au/life-style/photos/)
 
 [Jobs](https://www.canberratimes.com.au/jobs/)
 
@@ -296,7 +296,7 @@ Tracking and Targeting
 
 [Tracking and Targeting Policy](https://www.canberratimes.com.au/tracking-and-targeting/)
 
-[![The Canberra Times](/static/1731901032/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
+[![The Canberra Times](/static/1731910901/sites/canberratimes/images/masthead/masthead-alt.png)](https://www.canberratimes.com.au/)
 
 [](https://www.facebook.com/CanberraTimes/)[](https://twitter.com/canberratimes)[](https://www.instagram.com/canberratimes)
 
