@@ -208,21 +208,21 @@ Turn Your Curiosity Into Discovery
 
 Latest Facts
 
-[![25 Facts About Nagygite ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/earth-and-life-science/earth-sciences/25-facts-about-nagyagite/)
+[![25 Facts About Educational Purposes ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%22150%22 height=%22100%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/society-and-social-sciences/society/25-facts-about-educational-purposes/)
 
-Earth Sciences
+Society
 
-18 Nov 2024
+19 Nov 2024
 
-[25 Facts About Nagygite](https://facts.net/earth-and-life-science/earth-sciences/25-facts-about-nagyagite/)
+[25 Facts About Educational Purposes](https://facts.net/society-and-social-sciences/society/25-facts-about-educational-purposes/)
 
-[![25 Facts About EuropiumIII Oxide ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/science/25-facts-about-europiumiii-oxide/)
+[![50 Facts About Pityriasis Rubra Pilaris ](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 width=%221%22 height=%221%22 viewBox=%220 0 1 1%22 /%3E)](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-pityriasis-rubra-pilaris/)
 
-Science
+Health Science
 
-18 Nov 2024
+19 Nov 2024
 
-[25 Facts About EuropiumIII Oxide](https://facts.net/science/25-facts-about-europiumiii-oxide/)
+[50 Facts About Pityriasis Rubra Pilaris](https://facts.net/fitness-and-wellbeing/health-science/50-facts-about-pityriasis-rubra-pilaris/)
 
 [Home](https://facts.net/) [Privacy Policy](https://facts.net/privacy-policy/)
 
