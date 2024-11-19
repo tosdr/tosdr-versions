@@ -92,17 +92,17 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Innovation
+
+### Schools get real on artificial intelligence](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1119/Schools-get-real-on-artificial-intelligence "Schools get real on artificial intelligence")
+
+[Resilience
+
+### Howard University hoped to make history. Now it’s ready for a different role.](https://www.csmonitor.com/USA/Politics/2024/1119/kamala-harris-howard-university-speech "Howard University hoped to make history. Now it’s ready for a different role.")
+
 [Equality
 
 ### Millions in rural America lack reliable internet. How Massachusetts towns got online.](https://www.csmonitor.com/USA/Society/2024/1119/rural-broadband-internet-access-massaschusetts "Millions in rural America lack reliable internet. How Massachusetts towns got online.")
-
-[Integrity
-
-### A vote that straddles Sri Lanka’s divides](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1118/A-vote-that-straddles-Sri-Lanka-s-divides "A vote that straddles Sri Lanka’s divides")
-
-[Joy
-
-### A graceful renewal of Notre-Dame Cathedral](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1115/A-graceful-renewal-of-Notre-Dame-Cathedral "A graceful renewal of Notre-Dame Cathedral")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
-[### Millions in rural America lack reliable internet. How Massachusetts towns got online.](https://www.csmonitor.com/USA/Society/2024/1119/rural-broadband-internet-access-massaschusetts "Millions in rural America lack reliable internet. How Massachusetts towns got online.")
+[### Hong Kong court locks up a generation of pro-democracy leaders](https://www.csmonitor.com/World/Asia-Pacific/2024/1119/hong-kong-jail-democracy "Hong Kong court locks up a generation of pro-democracy leaders")
 
-[### Trump takes office in January. Here’s how Biden is spending his final days as president.](https://www.csmonitor.com/USA/2024/1118/biden-trump-clean-energy-student-loan-ukraine-judges "Trump takes office in January. Here’s how Biden is spending his final days as president.")
+[### Europe nations investigate cut cables in the Baltic Sea. Was it Russian sabotage?](https://www.csmonitor.com/World/Europe/2024/1119/Ukraine-war-Russian-sabotage-europe-undersea-cables "Europe nations investigate cut cables in the Baltic Sea. Was it Russian sabotage?")
 
-[### Ukraine has been waiting to strike deep into Russia. Is Biden’s approval too late?](https://www.csmonitor.com/World/Europe/2024/1118/Russia-Ukraine-War-Trump-Putin-Biden-Missiles "Ukraine has been waiting to strike deep into Russia. Is Biden’s approval too late?")
+[### Now UK farmers have a reason to protest. They say a tax hike will destroy family farms.](https://www.csmonitor.com/World/Europe/2024/1119/Uk-farmers-protest-tax-Keir-Starmer-EU "Now UK farmers have a reason to protest. They say a tax hike will destroy family farms.")
 
 * * *
 
