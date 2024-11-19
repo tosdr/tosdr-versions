@@ -291,6 +291,18 @@ PARAGOULD, AR 72450
 Check Out Our Blog
 ------------------
 
+[![A semi-realistic, 2D cartoon-style image of a thoughtful character with glasses holding a document labeled 'Bankruptcy Rules' while looking at a calendar with multiple marked dates. Surrounding the character are icons such as a gavel, dollar signs, and paperwork, symbolizing legal and financial aspects of bankruptcy filing. The background includes subtle elements like question marks and filing symbols, using flat colors and minimal shading to create a clean, approachable, and informative design.](https://creditnerds.com/wp-content/uploads/2024/11/How-Many-Times-Can-You-File-Bankruptcy-30x30.webp)](https://creditnerds.com/how-many-times-can-you-file-bankruptcy/)
+
+[Uncategorized](https://creditnerds.com/category/uncategorized/)
+
+November 19, 2024
+
+#### [How Many Times Can You File Bankruptcy?](https://creditnerds.com/how-many-times-can-you-file-bankruptcy/)
+
+Filing for bankruptcy can be a lifeline during financial hardship, but it’s not a decision to take lightly. A common question for those who’ve already been through it is: How many times can you file bankruptcy? While there’s no strict limit, specific waiting periods apply before you can file again and receive a discharge of …
+
+[Read More](https://creditnerds.com/how-many-times-can-you-file-bankruptcy/)
+
 [![A semi-realistic, 2D cartoon-style image of a friendly character with glasses holding a document labeled 'Used Car Payment 2024.' The character stands beside a simple illustration of a car, surrounded by icons such as dollar signs, a calculator, and calendar pages, symbolizing monthly payments. The background includes financial elements like charts, using flat colors and minimal shading to convey the concept of average used car payments in a clear and approachable way.](https://creditnerds.com/wp-content/uploads/2024/11/What-Is-the-Average-Used-Car-Payment-in-2024-30x30.webp)](https://creditnerds.com/what-is-the-average-used-car-payment-in-2024/)
 
 [Credit](https://creditnerds.com/category/credit/)
@@ -386,18 +398,6 @@ October 25, 2024
 A brokerage account is an investment account that allows you to invest your money in stocks, bonds, mutual funds, ETFs, brokered CDs, and money market funds. Unlike retirement accounts like a 401(k) or IRA, brokerage accounts provide flexibility for contributions and withdrawals without specific tax advantages or penalties. With a brokerage account, you have the …
 
 [Read More](https://creditnerds.com/what-is-a-brokerage-account/)
-
-[![Cartoon-style image of a person wearing glasses, sitting at a desk with a computer displaying an auto loan application. The character looks thoughtful, with a car and floating dollar signs in the background, representing the decision-making process of getting an online auto loan.](https://creditnerds.com/wp-content/uploads/2024/10/Online-auto-loan-30x30.webp)](https://creditnerds.com/should-you-get-an-online-auto-loan/)
-
-[Credit](https://creditnerds.com/category/credit/)
-
-October 23, 2024
-
-#### [Should You Get an Online Auto Loan?](https://creditnerds.com/should-you-get-an-online-auto-loan/)
-
-When purchasing a car, you generally have two main financing options: securing a loan through a bank (or credit union) or opting for dealership financing. While dealership financing has its advantages, securing a loan from a bank or credit union allows you to sidestep the dealership as a middleman. One option that is growing in …
-
-[Read More](https://creditnerds.com/should-you-get-an-online-auto-loan/)
 
 ![](https://creditnerds.com/wp-content/uploads/2023/12/small-logo-white-30x30.png)
 
