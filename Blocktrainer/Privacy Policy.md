@@ -59,10 +59,7 @@
 * [News & Blog](https://www.blocktrainer.de/blog)
 * [Forum](https://forum.blocktrainer.de/)
 * [Events](https://www.blocktrainer.de/bitcoin-events)
-* [Shop](https://www.blocktrainer.de/shop)
-    * [Wallet Backups](https://www.blocktrainer.de/shop/wallet-backups)
-    * [Cooles Zeug](https://www.blocktrainer.de/shop/cooles-zeug)
-    * [Bücher](https://www.blocktrainer.de/shop/buecher)
+* [Shop](https://shop.blocktrainer.de/)
 * [Unterstützen](https://www.blocktrainer.de/unterstuetze-uns)
 
 1. [Startseite](https://www.blocktrainer.de/ "Startseite")
@@ -577,7 +574,7 @@ Die Inhalte stellen keine Anlageberatung, sondern ein reines Bildungs- und Infor
     * [Spenden](https://www.blocktrainer.de/unterstuetze-uns "Spenden")
     * [Patenschaft](https://www.blocktrainer.de/patenschaft "Patenschaft")
 * SONSTIGES
-    * [Shop](https://www.blocktrainer.de/shop "Shop")
+    * [Shop](https://shop.blocktrainer.de/ "Shop")
     * [RSS Feed](https://www.blocktrainer.de/feed "RSS Feed")
     * [Status](https://status.blocktrainer.de/ "Status")
 
@@ -593,7 +590,7 @@ Kopieren
 
 [](#)
 
-[![blocktrainer.de](/fileadmin/_processed_/9/e/csm_blocktrainer_box_17e9184473.png)](https://www.blocktrainer.de/unterstuetze-uns)
+[![Relai](/fileadmin/_processed_/9/0/csm_RelaiApp_49dbef3ad1.jpg)](https://ref.blocktrainer.de/relai/ws/blocktrainer-empfehlungslinks/logo-banner)
 
 **Privatsphäre-Einstellungen**
 
