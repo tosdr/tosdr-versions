@@ -334,7 +334,7 @@ New
 
 [![](files/all-over-print-recycled-unisex-sweatshirt-white-front-6733a67f9c02ecopy.jpg)
 
-Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
+Holiday Collection](https://www.atari.com/collections/holiday-collection)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
@@ -356,7 +356,7 @@ Menu
 
 [![](files/all-over-print-recycled-unisex-sweatshirt-white-front-6733a67f9c02ecopy.jpg)
 
-Holiday Collection](https://www.atari.com/collections/holiday-sweatshirts)
+Holiday Collection](https://www.atari.com/collections/holiday-collection)
 
 [![](files/atari_merch_nov2024-350_1.jpg)
 
