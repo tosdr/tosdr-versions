@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![There is free tuition and after-school activities (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-18-11-2024-at-17.28-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
+    
+    ### [New free youth club opens in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
+    
     [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
     
     ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
@@ -51,10 +55,6 @@
     [![The arches on America Street are opposite the America House apartment block. CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-1-360x180.jpg)](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
     
     ### [Comment: Promoting nightlife without neglecting residents is a tough balancing act](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
-    
-    [![Creative Commons- By Waterford_Man](https://southwarknews.co.uk/wp-content/uploads/2024/11/Tourists-Creative-Commons-By-Waterford_Man-360x180.jpg)](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-    
-    ### [Could a Tourist Tax come to London?](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![There is free tuition and after-school activities (supplied)](https://southwarknews.co.uk/wp-content/uploads/2024/11/Image-18-11-2024-at-17.28-360x180.jpg)](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
+    
+    ### [New free youth club opens in Rotherhithe](https://southwarknews.co.uk/area/rotherhithe/new-free-youth-club-opens-in-rotherhithe/)
+    
     [![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-360x180.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
     
     ### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
@@ -136,10 +140,6 @@ View All Result
     [![The arches on America Street are opposite the America House apartment block. CREDIT: Google Street View](https://southwarknews.co.uk/wp-content/uploads/2024/11/America-House-1-360x180.jpg)](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
     
     ### [Comment: Promoting nightlife without neglecting residents is a tough balancing act](https://southwarknews.co.uk/area/borough/comment-promoting-nightlife-without-neglecting-residents-is-a-tough-balancing-act/)
-    
-    [![Creative Commons- By Waterford_Man](https://southwarknews.co.uk/wp-content/uploads/2024/11/Tourists-Creative-Commons-By-Waterford_Man-360x180.jpg)](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
-    
-    ### [Could a Tourist Tax come to London?](https://southwarknews.co.uk/area/london/could-a-tourist-tax-come-to-london/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -217,29 +217,29 @@ Terms of Use
 
 [13th November 2024](https://southwarknews.co.uk/area/walworth/east-street-market-attack-first-photo-of-victim-released/)
 
+[![The sun setting on Maydew House](https://southwarknews.co.uk/wp-content/uploads/2024/11/20211011_172544-scaled-1-120x86.jpg)](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+### [Bermondsey council estate block pulled down after £15 million spent before failed refurbishment](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
+[18th November 2024](https://southwarknews.co.uk/area/bermondsey/bermondsey-council-estate-block-pulled-down-after-15-million-spent-before-failed-refurbishment/)
+
 [![Rafter Walk (credit: Tom Campbell)](https://southwarknews.co.uk/wp-content/uploads/2024/11/19F55D6296E9544094C3DFE0691AE646-e1731427398206-120x86.jpeg)](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
 ### [Names revealed for new streets and places in Canada Water](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
 [12th November 2024](https://southwarknews.co.uk/area/rotherhithe/names-revealed-for-new-streets-and-places-in-canada-water/)
 
-[![The aftermath of the East Street Market attack](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-4-747x560-1-120x86.jpeg)](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+[![The Den. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/DSC_7271-2024-11-06T22_12_38.272-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-### [Man charged with murder after East Street Market stab attack](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+### [Loan round-up – Millwall striker helps pile on misery on Dundee](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-[12th November 2024](https://southwarknews.co.uk/area/walworth/man-charged-with-murder-after-east-street-market-stab-attack/)
+[14th November 2024](https://southwarknews.co.uk/sport/football/millwall/loan-round-up-millwall-striker-helps-pile-on-misery-on-dundee-united/)
 
-[![Benaissa Lourdjane claims he lured the attacker away from fleeing crowds](https://southwarknews.co.uk/wp-content/uploads/2024/11/unnamed-1-1-120x86.jpg)](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+[![Image by Steve Ullathorne](https://southwarknews.co.uk/wp-content/uploads/2024/11/daliso-chaponda_0086_photo-by-steve-ullathorne-1400x1400-1-1024x1024-1-e1731436687311-120x86.jpg)](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
-### [Exclusive: Former paratrooper ‘pinned’ suspected knifeman to the floor in East Street Market attack](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
+### [12 things to do in South London from now til the end of November](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
-[11th November 2024](https://southwarknews.co.uk/area/walworth/exclusive-former-paratrooper-pinned-suspected-knifeman-to-the-floor-in-east-street-market-attack/)
-
-[![Romain Esse during Millwall's game against Stoke City. Image: Millwall FC](https://southwarknews.co.uk/wp-content/uploads/2024/11/R-Esse-02727-120x86.jpg)](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
-
-### [Three Millwall players given international call-ups](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
-
-[12th November 2024](https://southwarknews.co.uk/sport/football/millwall/three-millwall-players-given-international-call-ups/)
+[12th November 2024](https://southwarknews.co.uk/news/community/12-things-to-do-in-south-london-from-now-til-the-end-of-november/)
 
 ### Featured Articles
 
