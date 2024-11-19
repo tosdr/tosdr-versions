@@ -117,63 +117,61 @@ This policy is effective as of 29 June 2021.
 More than 1,000 businesses operate more efficiently with us.
 ============================================================
 
-> Impossible to run our businesses without IO
-> -------------------------------------------
+> Support even on Sundays!
+> ------------------------
 > 
-> IO is an integral part of our day to day business. It allows me complete control and overview functionality, while still enabling franchise owners to run their various franchises without interruption.  
->   
-> At Storietyd.co.za - a bookclub for Afrikaans children, with thousands of members - all our billing is automated, automated invoices, automated debit orders, automated payment allocation, and so forth. Administration would be an absolute nightmare without IO.  
->   
-> We are suppliers of bulk educational products to schools, our reps in the field use IO for quotes, invoicing and managing debtors, directly from their smartphones / tablets.  
->   
-> We are extremely satisfied with Invoices Online, and would certainly recommend that you try it out.
+> Thanks Adriaan...
+> 
+> You guys even work on Sundays?
+> 
+> I’m impressed!!
 
-Kobus Venter
+Johan Botha - Brand Xplosion
 
-![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=77723521)  
-Baby Toddles Infant Care
+![valued client Kaylas Creations](https://www.invoicesonline.co.za/scripts/image.php?bid=7957&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=103733669)  
+Kaylas Creations
 
-![valued client LEO DEVELOPMENT GROUP](https://www.invoicesonline.co.za/scripts/image.php?bid=7896&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=152453474)  
-LEO DEVELOPMENT GROUP
-
-![valued client MONSTER SECURITY SERVICES](https://www.invoicesonline.co.za/scripts/image.php?bid=5438&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=10122029)  
-MONSTER SECURITY SERVICES
-
-![valued client Three Moons Emporium](https://www.invoicesonline.co.za/scripts/image.php?bid=7645&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=69472121)  
-Three Moons Emporium
-
-![valued client Fox Alarms & Security CC](https://www.invoicesonline.co.za/scripts/image.php?bid=5134&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=154096963)  
-Fox Alarms & Security CC
-
-![valued client Lion Software Develepment](https://www.invoicesonline.co.za/scripts/image.php?bid=7097&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=204460711)  
-Lion Software Develepment
-
-![valued client MONSTER SECURITY GUARDING](https://www.invoicesonline.co.za/scripts/image.php?bid=7801&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=27453878)  
-MONSTER SECURITY GUARDING
-
-![valued client Vplay Letsheng Mall](https://www.invoicesonline.co.za/scripts/image.php?bid=8358&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=54457388)  
-Vplay Letsheng Mall
-
-![valued client Kainos  (Pty) Ltd](https://www.invoicesonline.co.za/scripts/image.php?bid=6111&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=157401792)  
-Kainos (Pty) Ltd
-
-![valued client Roekeloos Group](https://www.invoicesonline.co.za/scripts/image.php?bid=8320&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=29230439)  
-Roekeloos Group
-
-![valued client Beyond Laser CNC Cutting Technology South Africa CC](https://www.invoicesonline.co.za/scripts/image.php?bid=4419&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=208172400)  
-Beyond Laser CNC Cutting Technology South Africa CC
-
-![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=125120453)  
+![valued client Website Café (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=4081&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=145602307)  
 Website Café (PTY) LTD
 
-![valued client Lindani Protection Services & Projects](https://www.invoicesonline.co.za/scripts/image.php?bid=8265&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=54743976)  
-Lindani Protection Services & Projects
-
-![valued client OptaServ](https://www.invoicesonline.co.za/scripts/image.php?bid=7689&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=58777178)  
-OptaServ
-
-![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=68bd8a594f334bf9496763e83e732034f04933835ec705f9274c7cd413a8f0bf&c=14787760)  
+![valued client TurboFibre](https://www.invoicesonline.co.za/scripts/image.php?bid=6535&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=16685973)  
 TurboFibre
+
+![valued client J.M. HUMAN RESOURCES](https://www.invoicesonline.co.za/scripts/image.php?bid=4626&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=58305710)  
+J.M. HUMAN RESOURCES
+
+![valued client Roamfree Boerdery (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=2350&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=158607103)  
+Roamfree Boerdery (PTY) LTD
+
+![valued client Brilliant Roof Products](https://www.invoicesonline.co.za/scripts/image.php?bid=8079&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=51419283)  
+Brilliant Roof Products
+
+![valued client Goju Ryu Karate Centre](https://www.invoicesonline.co.za/scripts/image.php?bid=2827&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=56627493)  
+Goju Ryu Karate Centre
+
+![valued client Baby Toddles Infant Care](https://www.invoicesonline.co.za/scripts/image.php?bid=343&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=73438411)  
+Baby Toddles Infant Care
+
+![valued client Entidee Enterprise PTY (ltd)](https://www.invoicesonline.co.za/scripts/image.php?bid=4344&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=19107866)  
+Entidee Enterprise PTY (ltd)
+
+![valued client RADIO TYGERBERG 104FM NPC](https://www.invoicesonline.co.za/scripts/image.php?bid=8595&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=52596210)  
+RADIO TYGERBERG 104FM NPC
+
+![valued client Calonet ](https://www.invoicesonline.co.za/scripts/image.php?bid=3324&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=1553657)  
+Calonet
+
+![valued client Konsortium Operations (PTY) LTD](https://www.invoicesonline.co.za/scripts/image.php?bid=294&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=71872961)  
+Konsortium Operations (PTY) LTD
+
+![valued client Desygn](https://www.invoicesonline.co.za/scripts/image.php?bid=7855&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=45106191)  
+Desygn
+
+![valued client VIV'S TRUCKS (Pty) Ltd. (651)](https://www.invoicesonline.co.za/scripts/image.php?bid=6481&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=104075384)  
+VIV'S TRUCKS (Pty) Ltd. (651)
+
+![valued client Nogana Events and Decor](https://www.invoicesonline.co.za/scripts/image.php?bid=3755&file=logo_300_100&type=&fe=de32671c765d59a4a300f859b62ec07be4b80f41f5d38a00727fc4e0a192d8fb&c=155235432)  
+Nogana Events and Decor
 
 [API Documentation](http://support.invoicesonline.co.za/developer-api)  |  [WooCommerce](https://www.invoicesonline.co.za/woocommerce)  |  [FAQ](https://www.invoicesonline.co.za/faq)  |  [Terms & Conditions](https://www.invoicesonline.co.za/terms-and-conditions)  |  [Privacy Policy](https://www.invoicesonline.co.za/privacy-policy)  |  [Contact](https://www.invoicesonline.co.za/contact)
 
