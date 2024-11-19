@@ -1,16 +1,16 @@
-![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZzvrnQoAAVEAAABco2I)
+![](https://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2Fregistro%2Favisolegal%2Ehtml&s=elmundo&d=ZzxAHwoAAVAAAABbru8)
 
 Es noticia
 
 * [Pedro Sánchez](https://www.elmundo.es/internacional/2024/11/18/673b7bbae9cf4afa418b4588.html)
-* [Felipe VI](https://www.elmundo.es/espana/2024/11/18/673b6786fc6c83f5618b457f.html)
-* [Nuria Montes](https://www.elmundo.es/comunidad-valenciana/2024/11/18/673b6f2efdddff41648b4589.html)
-* [Grand Prix](https://www.elmundo.es/television/2024/11/18/673b387fe85ececa698b458c.html)
+* [Guerra Rusia Ucrania](https://www.elmundo.es/internacional/2024/11/19/673c33221ee97cbdb65a4c5e-directo.html)
+* [Tarjeta transporte público Madrid](https://www.elmundo.es/madrid/2024/11/19/673b5ff1e9cf4aa4258b45a0.html)
+* [El Hormiguero](https://www.elmundo.es/television/momentvs/2024/11/19/673c2fc1e85ece20158b457d.html)
 * [Impuesto Banca](https://www.elmundo.es/espana/2024/11/18/673b739efdddff6e138b459a.html)
 * [Antonio Noblejas](https://www.elmundo.es/comunidad-valenciana/2024/11/18/673b92a2fdddff3c358b45a1.html)
 * [Juan José Guemes](https://www.elmundo.es/espana/2024/11/18/673b3656fc6c8314128b456e.html)
 * [García Ortiz](https://www.elmundo.es/espana/2024/11/18/673b517d21efa044728b4588.html)
-* [Jero García](https://www.elmundo.es/madrid/2024/11/18/673615e7fc6c83e06f8b4589.html)
+* [Burberry](https://www.elmundo.es/yodona/moda/2024/11/19/673b0cd7e4d4d828238b458d.html)
 * [José Mercé](https://www.elmundo.es/madrid/2024/11/17/6738b24521efa003038b4589.html)
 * [Muguruza](https://www.elmundo.es/pais-vasco/2024/11/18/673b61c721efa06e538b459f.html)
 * [Muface](https://www.elmundo.es/economia/2024/11/18/673b25c0fc6c83d25b8b45a1.html)
