@@ -208,6 +208,7 @@ this hour
 
 * * *
 
+* [Flying Reptiles: How Pterosaurs Become Giants](https://www.sciencedaily.com/releases/2024/11/241118125218.htm)
 * [Effortless Robot Movements](https://www.sciencedaily.com/releases/2024/11/241118125806.htm)
 * [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
 * [Optogenetics: Treating Epilepsy Seizures](https://www.sciencedaily.com/releases/2024/11/241115124741.htm)
@@ -217,7 +218,6 @@ this hour
 * [Global Warming and Net Zero](https://www.sciencedaily.com/releases/2024/11/241118125147.htm)
 * [Enigma of the Crab Nebula's 'Zebra' Pattern](https://www.sciencedaily.com/releases/2024/11/241118125046.htm)
 * [Big Benefits to Online Gaming](https://www.sciencedaily.com/releases/2024/11/241118125037.htm)
-* [Abrupt Drop in Global Freshwater Levels](https://www.sciencedaily.com/releases/2024/11/241116195719.htm)
 
 Trending Topics
 ---------------
@@ -236,11 +236,11 @@ this week
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
-
-[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
+[Batteries](https://www.sciencedaily.com/news/matter_energy/batteries/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
@@ -248,7 +248,7 @@ this week
 
 [Food](https://www.sciencedaily.com/news/plants_animals/food/)
 
-[Early Humans](https://www.sciencedaily.com/news/fossils_ruins/early_humans/)
+[Fossils](https://www.sciencedaily.com/news/fossils_ruins/fossils/)
 
   
 
