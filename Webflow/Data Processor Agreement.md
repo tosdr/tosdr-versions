@@ -415,7 +415,7 @@ Table of contents
 Product
 
 * [Platform](https://webflow.com/platform)
-* [Designer](https://webflow.com/designer)
+* [Design](https://webflow.com/designer)
 * [Edit mode](https://webflow.com/edit-mode)
 * [Interactions](https://webflow.com/interactions-animations)
 * [Page building
