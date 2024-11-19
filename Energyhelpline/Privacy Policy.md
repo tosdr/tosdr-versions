@@ -15,7 +15,6 @@
         [Business Electricity](https://www.energyhelpline.com/business-energy/electricity)
         
         * [Electricity Meters](https://www.energyhelpline.com/business-energy/electricity/electricity-meter-installation)
-        * [Half Hourly](https://www.energyhelpline.com/business-energy/electricity/half-hourly-meters)
         
     * [Business Gas](https://www.energyhelpline.com/business-energy/gas)
         
@@ -35,9 +34,9 @@
     * [Gas](https://www.energyhelpline.com/gas)
     * [Electricity](https://www.energyhelpline.com/)
     
-* [Our Suppliers](https://www.energyhelpline.com/)
+* [Suppliers](https://www.energyhelpline.com/)
     
-    [Our Suppliers](https://www.energyhelpline.com/)
+    [Suppliers](https://www.energyhelpline.com/)
     
     Find a fixed rate today and save yourself some money on your next energy deal
     
@@ -45,10 +44,15 @@
     
     * [British Gas Lite](https://www.energyhelpline.com/british-gas-lite)
     * [Scottish Power](https://www.energyhelpline.com/scottish-power)
-    * [Smartest Energy](https://www.energyhelpline.com/smartestenergy)
-    * [British Gas](https://www.energyhelpline.com/british-gas)
-    * [Valda Energy](https://www.energyhelpline.com/valda-energy)
     * [EDF Energy](https://www.energyhelpline.com/edf-energy)
+    * [British Gas](https://www.energyhelpline.com/british-gas)
+    * [SSE Business](https://www.energyhelpline.com/sse)
+    * [Crown Gas & Power](https://www.energyhelpline.com/crown-gas-power)
+    * [Total Energies](https://www.energyhelpline.com/total-energies)
+    * [Smartest Energy](https://www.energyhelpline.com/smartestenergy)
+    * [Valda Energy](https://www.energyhelpline.com/valda-energy)
+    * [Ovo Energy](https://www.energyhelpline.com/ovo-energy)
+    * [Drax Energy](https://www.energyhelpline.com/drax-energy)
     
 * [About & Help](https://www.energyhelpline.com/about-us)
     
