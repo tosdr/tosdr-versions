@@ -6,8 +6,6 @@ Exclusive color drop: Save $50 off Ultra Open Earbuds in new Carbon Blue. [Buy n
 
 Save an extra 10% on Certified Refurbished products with coupon code SAVE10. [Shop](https://www.bose.com/c/refurbished)
 
-My Bose members get a Holiday Bonus Card up to $100 to use on future orders. [Terms apply](https://www.bose.com/holiday-bonus-card-terms-and-conditions)
-
 [Cancel](#)
 
 Back
