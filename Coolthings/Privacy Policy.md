@@ -43,6 +43,11 @@
     
     [See All](https://www.coolthings.com/gear/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
+    
+    [Nike Elite EasyOn Backpack Thoughtfully Redesigns the Backpack with Accessibility in Mind](https://www.coolthings.com/nike-elite-easyon-backpack-paris-2024-paralympic-games-accessibility-features/)
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
     
     [Harlowe Sol 5 MagSafe Camera Light Brings Versatile Lighting Angles to Your iPhone](https://www.coolthings.com/harlowe-sol-5-magsafe-camera-light-adjustable-lighting-angles-for-iphone/)
@@ -52,11 +57,6 @@
     
     [Nikon Z50 II Offers One-Touch Imaging Presets to Instantly Change Color Tones and Set the Mood for Any Scene](https://www.coolthings.com/nikon-z50-ii-mirrorless-camera-one-touch-imaging-presets-picture-control/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
-    
-    [JanSport Venture Pack Finally Adds a Travel Backpack to the Popular Outfit’s Range](https://www.coolthings.com/jansport-venture-pack-travel-backpack-40l-carry-on/)
-    --------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
     * [OUTDOOR GEAR](http://www.coolthings.com/tag/outdoor-gear/)
     * [CAMPING GEAR](http://www.coolthings.com/tag/camping-gear/)
@@ -120,6 +120,11 @@
     
     [See All](https://www.coolthings.com/vehicles/)
     
+    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/droyd-fury-youth-atv-ride-on-rugged-quad-bike-for-kids/)
+    
+    [Droyd Fury Youth ATV Gives Kids a Rugged Quad Bike for Tackling Dirt, Grass, and Gravel](https://www.coolthings.com/droyd-fury-youth-atv-ride-on-rugged-quad-bike-for-kids/)
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+    
     [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/segway-ninebot-zt3-pro-electric-scooter-offroad/)
     
     [Segway Ninebot ZT3 Pro Takes the Outfit’s Electric Scooters to the Off-Road](https://www.coolthings.com/segway-ninebot-zt3-pro-electric-scooter-offroad/)
@@ -129,11 +134,6 @@
     
     [2025 Can-Am Canyon Brings the Outfit’s Three-Wheel Moto Design to the Rugged Off-Road](https://www.coolthings.com/2025-can-am-canyon-adventure-touring-trike-off-road-vehicle/)
     --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20360%20240'%3E%3C/svg%3E)](https://www.coolthings.com/segway-ninebot-ekickscooter-c2-lite-electric-scooter-for-kids-power-assist-mode/)
-    
-    [Segway Ninebot eKickScooter C2 Lite Brings Unique Assist Mode to Electric Scooters](https://www.coolthings.com/segway-ninebot-ekickscooter-c2-lite-electric-scooter-for-kids-power-assist-mode/)
-    -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
 * [CLAD](https://www.clad.com/ "Men’s Style and Gear Magazine")
 
