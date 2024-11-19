@@ -419,7 +419,6 @@
             * [ ]  [Oliver Falk's README](https://handbook.gitlab.com/handbook/customer-success/csm/readmes/ofalk/)
             * [ ]  [Researching Customer Questions](https://handbook.gitlab.com/handbook/customer-success/csm/researching-customer-questions/)
             * [ ]  [Roleplay Scenarios](https://handbook.gitlab.com/handbook/customer-success/csm/roleplays/)
-            * [ ]  [Sander Brienen's README](https://handbook.gitlab.com/handbook/customer-success/csm/readmes/sbrienen/)
             * [ ]  [Service Ping FAQ](https://handbook.gitlab.com/handbook/customer-success/csm/service-ping-faq/)
             * [ ]  [Stage Adoption Metrics](https://handbook.gitlab.com/handbook/customer-success/csm/stage-adoption/)
             * [ ]  [Success Plans](https://handbook.gitlab.com/handbook/customer-success/csm/success-plans/)
