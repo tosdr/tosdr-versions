@@ -26,43 +26,41 @@ Search for:
 
 ### [TOP STORIES](https://www.commdiginews.com/category/top-stories/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-fettermanatlanticfest-1200-x-628-1200x630.jpg)](https://americanwirenews.com/fetterman-explains-why-he-looks-forward-to-voting-to-confirm-elise-stefanik/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-thune-chuck-split-1200-x-628-1200x630.jpg)](https://americanwirenews.com/senate-gop-thwarts-schumers-mad-rush-to-confirm-bidens-radical-left-wing-judges/)
 
-[Fetterman explains why he ‘looks forward’ to voting to confirm Elise Stefanik](https://americanwirenews.com/fetterman-explains-why-he-looks-forward-to-voting-to-confirm-elise-stefanik/)
+[Senate GOP thwarts Schumer’s mad rush to confirm Biden’s radical left-wing judges](https://americanwirenews.com/senate-gop-thwarts-schumers-mad-rush-to-confirm-bidens-radical-left-wing-judges/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-obama-1200x630.jpg)](https://americanwirenews.com/no-longer-the-party-of-obama-jeh-johnson-urges-dems-to-look-forward-not-backward/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-gaetz-1200x630.jpg)](https://americanwirenews.com/mollie-hemingway-defends-gaetz-as-media-uncorks-another-sleazy-smear-and-leaks-begin/)
 
-[‘No longer the party of Obama’: Jeh Johnson urges Dems to ‘look forward, not backward’](https://americanwirenews.com/no-longer-the-party-of-obama-jeh-johnson-urges-dems-to-look-forward-not-backward/)
+[Mollie Hemingway defends Gaetz as media uncorks another sleazy smear, and leaks begin](https://americanwirenews.com/mollie-hemingway-defends-gaetz-as-media-uncorks-another-sleazy-smear-and-leaks-begin/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mcconnell-1200x630.jpg)](https://americanwirenews.com/rick-scott-pushes-back-on-sketchy-claim-mcconnell-nixed-recess-appointments-yes-there-will-be/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-biden-g20-1200x630.png)](https://americanwirenews.com/hes-behind-the-palm-tree-oh-my-god-bumbling-joe-biden-mia-during-g20-family-photo/)
 
-[Rick Scott pushes back on sketchy claim McConnell nixed recess appointments: ‘Yes, there will be’](https://americanwirenews.com/rick-scott-pushes-back-on-sketchy-claim-mcconnell-nixed-recess-appointments-yes-there-will-be/)
+[‘He’s behind the palm tree … Oh my God’: Wandering Joe Biden MIA during G20 leaders ‘family photo’](https://americanwirenews.com/hes-behind-the-palm-tree-oh-my-god-bumbling-joe-biden-mia-during-g20-family-photo/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scott-pelley-1200x630.jpg)](https://americanwirenews.com/trump-spox-showcases-exactly-why-we-rebuffed-60-minutes-for-an-interview/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-ibarra-1200x630.jpg)](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
 
-[Trump spox showcases ‘exactly why we rebuffed 60 Minutes for an interview’](https://americanwirenews.com/trump-spox-showcases-exactly-why-we-rebuffed-60-minutes-for-an-interview/)
+[Laken Riley murder suspect’s wife placed him at the crime scene](https://americanwirenews.com/laken-riley-murder-suspects-wife-placed-him-at-the-crime-scene/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-scarborough-and-brzezinski-1200x630.jpg)](https://americanwirenews.com/morning-joe-cohosts-shredded-on-social-media-for-groveling-surrender-to-trump/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-humefox-1200-x-628-1200x630.jpg)](https://americanwirenews.com/foxs-brit-hume-downplays-trumps-enormous-mandate/)
 
-[‘Morning Joe’ cohosts shredded as reactions pour in to groveling surrender to Trump](https://americanwirenews.com/morning-joe-cohosts-shredded-on-social-media-for-groveling-surrender-to-trump/)
+[Fox’s Brit Hume downplays Trump’s ‘enormous mandate’](https://americanwirenews.com/foxs-brit-hume-downplays-trumps-enormous-mandate/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/rf-trump-press-1200x630.jpg)](https://americanwirenews.com/trump-extends-olive-branch-to-media-says-its-vital-to-have-a-free-fair-and-open-press/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-chuck-schumer-1200x630.jpg)](https://americanwirenews.com/schumer-rams-through-sham-border-bill-to-hamstring-trump/)
 
-(Official White House Photo by Joyce N. Boghosian)
+[Schumer rams through sham border bill to hamstring Trump](https://americanwirenews.com/schumer-rams-through-sham-border-bill-to-hamstring-trump/)
 
-[Trump extends olive branch to media, says it’s ‘vital’ to have a ‘free, fair and open’ press](https://americanwirenews.com/trump-extends-olive-branch-to-media-says-its-vital-to-have-a-free-fair-and-open-press/)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-mitch-mcconnell-1200x630.png)](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/09/sg-desantis-1-1200x630.jpg)](https://americanwirenews.com/desantis-details-rubio-replacement-game-plan-does-not-bode-well-for-lara-trump/)
-
-[DeSantis details Rubio replacement game plan – does not bode well for Lara Trump](https://americanwirenews.com/desantis-details-rubio-replacement-game-plan-does-not-bode-well-for-lara-trump/)
+[Reporter insists Mitch McConnell said ‘no recess’ appointments](https://americanwirenews.com/reporter-insists-mitch-mcconnell-said-no-recess-appointments/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sdg-trump-dance-1200x630.jpg)](https://americanwirenews.com/total-maga-takeover-trump-dance-rocks-nfl-even-goes-global/)
 
 [‘TOTAL MAGA TAKEOVER’: Trump dance rocks NFL, even goes global](https://americanwirenews.com/total-maga-takeover-trump-dance-rocks-nfl-even-goes-global/)
 
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-tapper-johnson-1200x630.jpg)
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-lizcheney2-1200-x-628-1200x630.jpg)
 
-### ‘Open door now being closed’: GOP speaker has stern message for illegal immigrants](https://americanwirenews.com/open-door-now-being-closed-gop-speaker-has-stern-message-for-illegal-immigrants/)
+### Top lawyer suggests Liz Cheney should flee the country](https://americanwirenews.com/top-lawyer-suggests-liz-cheney-should-flee-the-country/)
 
 [THE WIRE...](https://americanwirenews.com/category/the-wire/)
 
@@ -79,6 +77,14 @@ Search for:
 ### [Trump met with thunderous ovation in triumphant return to MSG for UFC fight night](https://americanwirenews.com/trump-met-with-thunderous-ovation-in-triumphant-return-to-msg-for-ufc-fight-night/)
 
 ### [LATEST](https://www.commdiginews.com/category/latest/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-homan-220x180.jpg)](https://americanwirenews.com/sanctuary-mayors-governors-dig-in-to-defy-trump-and-homan-on-deportation/)
+
+[Sanctuary mayors, governors dig in to defy Trump and Homan on deportation](https://americanwirenews.com/sanctuary-mayors-governors-dig-in-to-defy-trump-and-homan-on-deportation/)
+
+[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-brennan-gabbard-220x180.jpg)](https://americanwirenews.com/john-brennans-take-on-tulsi-gabbard-as-dni-head-breaks-irony-meters-everywhere/)
+
+[John Brennan’s take on Tulsi Gabbard as DNI head breaks irony meters everywhere](https://americanwirenews.com/john-brennans-take-on-tulsi-gabbard-as-dni-head-breaks-irony-meters-everywhere/)
 
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-snl-baldwin-220x180.jpg)](https://americanwirenews.com/alec-baldwin-slammed-for-shameful-rfk-jr-impersonation-on-snl/)
 
@@ -169,16 +175,6 @@ Search for:
 [![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-hegseth-220x180.jpg)](https://americanwirenews.com/not-for-long-pete-hegseth-offers-his-take-on-gender-neutral-wokeness-in-the-us-military/)
 
 [‘Not for long’: Pete Hegseth sounds off on gender-neutral wokeness in the US military](https://americanwirenews.com/not-for-long-pete-hegseth-offers-his-take-on-gender-neutral-wokeness-in-the-us-military/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/sg-sebelius-1200-x-628-220x180.jpg)](https://americanwirenews.com/nutty-ex-obama-official-claims-rfk-jr-nomination-will-end-up-killing-people/)
-
-[Nutty ex-Obama official claims RFK Jr. nomination will ‘end up killing people’](https://americanwirenews.com/nutty-ex-obama-official-claims-rfk-jr-nomination-will-end-up-killing-people/)
-
-[![](https://americanwirenews.com/wp-content/uploads/2024/11/getty-biden-apec-220x180.jpg)](https://americanwirenews.com/one-more-humiliation-for-biden-gets-stuck-in-back-row-of-world-leaders-pic/)
-
-[One more humiliation for Biden, gets stuck in back row of world leaders’ pic](https://americanwirenews.com/one-more-humiliation-for-biden-gets-stuck-in-back-row-of-world-leaders-pic/)
-
-(Photo by SAUL LOEB/AFP via Getty Images)
 
 Start today! **Enjoy the REAL news** at your fingertips. You could be getting the best stories in your inbox twice a day.
 
