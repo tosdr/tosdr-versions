@@ -305,7 +305,7 @@
 
 [#Пискарев](https://er.ru/activity/news?tags%5B0%5D=17151) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#исполнительский сбор](https://er.ru/activity/news?tags%5B0%5D=56017)
 
-Сегодня 16:00
+19.11.24
 
 [![«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://cdn.er.ru/media/news/November2024/0DISVQeKP05wNK5lFLVV-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
 
@@ -313,7 +313,7 @@
 
 [#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#поддержкасемеймобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093582)
 
-Сегодня 09:30
+19.11.24
 
 [![«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://cdn.er.ru/media/news/November2024/43wb9FLmyrb24cl91tbv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
 
