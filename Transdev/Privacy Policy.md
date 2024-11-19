@@ -75,7 +75,7 @@ We collect Personally Identifiable Information from you through your use of the 
 We may collect the following Personally Identifiable Information that you voluntarily provide to us in using our Sites and Services:
 
 * _Contact Us._ When you contact us online, we collect your name, email address, company name and any Personally Identifiable Information that you choose to provide to us in your message.
-* _Mobile Applications._ If you register for an account on our My Transit Manager, Transdev Connect, MobiMe, GoMobile, or our other mobile applications, you will provide us with your name, email address, telephone number, geolocation data, and you will create a password. If you use our mobile applications, you will provide us with your geolocation data (regional and precise). Please note that if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes, and any references to such sharing in this Privacy Policy do not apply to the Transdev Connect Services.
+* _Mobile Applications._ If you register for an account on our MyTransitManager, MobiMe, GoMobile, or our other mobile applications, you will provide us with your name, email address, telephone number, geolocation data, and you will create a password. If you use our mobile applications, you will provide us with your geolocation data (regional and precise). Please note that if you are user of the MyTransitManager Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes, and any references to such sharing in this Privacy Policy do not apply to the MyTransitManager Services.
 * _Register as an Approved Vendor._ As part of our Transdev Vendor Registration System, you will provide us with your name, email address, telephone number, mailing address, title, EIN number, ethnicity, gender, professional information, military/veteran status, and vendor/company information.
 * _Apply for a Job._ If you wish to apply for a job on our career portal, you will create a profile via LinkedIn or provide us with your name, email address, and creating a password. You may also choose to upload your resume. We use Recruit Rooster and JobVite to facilitate this process. Please review [Recruit Rooster’s privacy policy here](https://recruitrooster.com/privacy-terms/), and [JobVite’s privacy notice here](https://www.employinc.com/privacy/). If you wish to receive email alerts about new job openings through our Talent Network, you will provide us with your email address or log in via LinkedIn.
 * _Signup for Employee News Updates._ Current Transdev employees that wish to receive employee news updates to their inbox will provide us with their email address.
@@ -125,7 +125,7 @@ We may share the Personally Identifiable Information we collect from you in the 
 * With any other person or entity where you consent to the disclosure; and
 * For any other purpose disclosed by us when you provide the Personally Identifiable Information or for any other purpose we deem necessary, including to protect the health or safety of others.
 
-As previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
+As previously noted, if you are user of the MyTransitManager Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
 #### 4\. Cookies and Other Tracking Technologies
 
@@ -143,7 +143,7 @@ We use Cookies to:
 
 We set some Cookies ourselves, while separate entities set other Cookies. We use Cookies other entities set to provide us with useful information, to help us improve our Sites and Services, to conduct advertising, and to analyze the effectiveness of advertising. For example, we use Cookies from Google and other similar companies.
 
-As previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
+As previously noted, if you are user of the MyTransitManager Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
 **How You Can Opt Out of Cookies**
 
@@ -211,7 +211,7 @@ Depending on the state in which you reside, you may have certain privacy rights 
 * If we are required by applicable law to obtain your consent to process sensitive Personally Identifiable Information, the right to withdraw your consent; and
 * The right not to receive discriminatory treatment by us for the exercise of your privacy rights.
 
-While we do not “sell” Personally Identifiable Information as that term may be commonly interpreted, depending on how the applicable privacy law defines a “sale,” we may sell Personally Identifiable Information to third parties if you are using certain applications or visiting certain websites. For instance, if you are a resident of Colorado or Connecticut, our use of cookies and tracking technologies constitutes a sale of Personally Identifiable Information to third-party advertisers. We also use cookies and other tracking to display advertisements about our products to you on nonaffiliated websites, applications, and online services. This is “targeted advertising” under applicable privacy laws. We do not use Personally Identifiable Information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals. Further, as previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.  
+While we do not “sell” Personally Identifiable Information as that term may be commonly interpreted, depending on how the applicable privacy law defines a “sale,” we may sell Personally Identifiable Information to third parties if you are using certain applications or visiting certain websites. For instance, if you are a resident of Colorado or Connecticut, our use of cookies and tracking technologies constitutes a sale of Personally Identifiable Information to third-party advertisers. We also use cookies and other tracking to display advertisements about our products to you on nonaffiliated websites, applications, and online services. This is “targeted advertising” under applicable privacy laws. We do not use Personally Identifiable Information for profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals. Further, as previously noted, if you are user of the MyTransitManager Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.  
 To exercise your rights, please submit a request through our interactive webform available here, by emailing us at infoUS@transdev.com, or by calling us toll free at 1-800-225-8880. If legally required, we will comply with your request upon verification of your identity and, to the extent applicable, the identity of the individual on whose behalf you are making such request. To do so, we will ask you to verify data points based on information we have in our records. If you are submitting an opt-out request on behalf of another individual, please use the same contact methods described above. We will process authorized agent requests in accordance with applicable law. If we refuse to take action regarding your request, you may appeal our decision through our interactive webform available here, by emailing us at infoUS@transdev.com, by calling us toll free at 1-800-225-8880, or by replying to the email you received from us in response to your request. If you would like to opt out of targeted advertising, you may alter your cookie preferences as described herein.
 
 **Notice to Nevada Residents**
@@ -280,7 +280,7 @@ We sold or shared Personal Information to third parties for the following busine
 * Providing advertising and marketing services
 * Advancing our commercial or economic interests
 
-As previously noted, if you are user of the Transdev Connect Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
+As previously noted, if you are user of the MyTransitManager Service, no mobile information is shared with third parties or affiliates for marketing or promotional purposes.
 
 The following table identifies the categories of Personal Information that we disclosed for a business purpose in the 12 months preceding the Last Updated Date of this Privacy Policy and, for each category, the categories of recipients to whom we disclosed Personal Information:
 
