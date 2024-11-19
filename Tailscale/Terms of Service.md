@@ -37,6 +37,7 @@ By use-case
 * [Secure SaaS](https://tailscale.com/use-cases/secure-saas)
 * [Business VPN](https://tailscale.com/use-cases/business-vpn)
 * [Homelab](https://tailscale.com/use-cases/homelab)
+* [Site-to-site Networking](https://tailscale.com/use-cases/site-to-site-networking)
 
 By role
 
