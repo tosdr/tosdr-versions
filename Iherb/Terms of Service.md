@@ -1131,11 +1131,11 @@ Marken der Woche
 
 [Specials](https://de.iherb.com/specials)[Neu](https://de.iherb.com/new-products)[Ausprobieren](https://de.iherb.com/trial-pricing)[Bestseller](https://de.iherb.com/catalog/topsellers)
 
-[\-22% für Grippe & Erkältung 
+[\-22% auf Körperpflege
 
  
 
-‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/common-cold-flu?pcode=22FLU24)
+‌‌Jetzt shoppen‌‌](https://de.iherb.com/c/body-care?pcode=22CARE24)
 
       
 
