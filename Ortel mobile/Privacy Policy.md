@@ -52,6 +52,10 @@ Deutsch
     * [Internet Nachbuchen](https://www.ortelmobile.de/zusatzoptionen.html "Internet Nachbuchen")
     * [Best Europe](https://www.ortelmobile.de/besteurope.html "Best Europe")
     * [Vertrag kündigen](https://info.ortelmobile.de/kuendigung/ "Vertrag kündigen")
+    * [eSIM](https://www.ortelmobile.de/service/esim.html "eSIM")
+    * [Datenverbrauch](https://www.ortelmobile.de/service/wie-viel-gb.html "Datenverbrauch")
+    * [Hotspot einrichten](https://www.ortelmobile.de/service/hotspot-einrichten.html "Hotspot einrichten")
+    * [nfc](https://www.ortelmobile.de/service/nfc.html "nfc")
     
 
  
