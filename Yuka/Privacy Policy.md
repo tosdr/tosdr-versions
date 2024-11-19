@@ -399,7 +399,7 @@ Personal Data is collected for the following purposes and using the following se
     
     #### Call-out by email
     
-    If you call out a brand via email, Yuka is automatically blind-copied (bcc) on the pre-drafted email. Yuka has access to the content of the email sent and the email address used to send it, in order to update the counter of the number of consumers who have called out the brand.  
+    If you call out a brand via email, Yuka is automatically copied (cc) on the pre-drafted email. Yuka has access to the content of the email sent and the email address used to send it, in order to update the counter of the number of consumers who have called out the brand.  
       
     Personal data processed: email address; email signature.
     
@@ -1221,6 +1221,6 @@ This privacy statement has been prepared based on provisions of multiple legisla
 
 This privacy policy relates solely to Yuka, if not stated otherwise within this document.
 
-Latest update: November 14, 2024
+Latest update: November 19, 2024
 
 [iubenda](https://www.iubenda.com/en/privacy-and-cookie-policy-generator "iubenda - Privacy Policy generator") hosts this content and only collects [the Personal Data strictly necessary](https://www.iubenda.com/privacy-policy/65675001) for it to be provided.
