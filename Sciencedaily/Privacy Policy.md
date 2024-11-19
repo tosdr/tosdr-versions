@@ -12,7 +12,7 @@ Your source for the latest research news
 
 ScienceDaily
 
-**November 18, 2024**
+**November 19, 2024**
 
 * * *
 
@@ -228,27 +228,27 @@ this week
 
 [HEALTH](https://www.sciencedaily.com/news/top/health/)
 
+[Mental Health Research](https://www.sciencedaily.com/news/health_medicine/mental_health/)
+
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
-
-[Stress](https://www.sciencedaily.com/news/mind_brain/stress/)
+[Stroke](https://www.sciencedaily.com/news/mind_brain/stroke/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Stars](https://www.sciencedaily.com/news/space_time/stars/)
-
 [Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Stars](https://www.sciencedaily.com/news/space_time/stars/)
+
+[Spintronics](https://www.sciencedaily.com/news/matter_energy/spintronics/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
-[Biology](https://www.sciencedaily.com/news/plants_animals/biology/)
+[Water](https://www.sciencedaily.com/news/earth_climate/water/)
 
-[Nature](https://www.sciencedaily.com/news/plants_animals/nature/)
+[Food](https://www.sciencedaily.com/news/plants_animals/food/)
 
-[Marine Biology](https://www.sciencedaily.com/news/plants_animals/marine_biology/)
+[Early Humans](https://www.sciencedaily.com/news/fossils_ruins/early_humans/)
 
   
 
