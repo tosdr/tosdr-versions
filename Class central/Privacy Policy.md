@@ -1,4 +1,4 @@
- [### ![](/images/promobar/deal.svg) Black Friday 2024: 25+ Ways to Save on Online Learning
+ [![](/images/promobar/deal.svg) Black Friday 2024: 25+ Ways to Save on Online Learning
 
 View](https://www.classcentral.com/report/online-courses-deals-black-friday-cyber-monday/)
 
@@ -9,12 +9,11 @@ Close
 Courses
 
 Class Central
--------------
 
 * [Rankings](https://www.classcentral.com/rankings)
 * [Collections](https://www.classcentral.com/collections)
 
-### Subjects
+Subjects
 
 [View all](https://www.classcentral.com/subjects)
 
@@ -40,31 +39,31 @@ Class Central
 
 Courses from [1000+ universities](https://www.classcentral.com/universities)
 
-### Rankings
+Rankings
 
 * [![Best of All Time](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fbest-courses%2Fmini-banner-best-of-all-time.png?auto=format&blur=200&h=420&ixlib=php-4.1.0&px=16&s=a028a87f0192d4953fe0b99acbeaeaed)](https://www.classcentral.com/collection/top-free-online-courses)
 * [![Most Popular of All Time](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fbest-courses%2Fmini-banner-most-popular-of-all-time.png?auto=format&blur=200&h=420&ixlib=php-4.1.0&px=16&s=3f8fb65ce7315ca713a947dcf87ce390)](https://www.classcentral.com/report/most-popular-online-courses/)
 
-### Best Courses
+Best Courses
 
 * [Best of All Time](https://www.classcentral.com/collection/top-free-online-courses)
 * [Best of the Year 2022](https://www.classcentral.com/report/best-free-online-courses-2022/)
 * [Best of the Year 2021](https://www.classcentral.com/report/best-free-online-courses-2021/)
 
-### Most Popular Courses
+Most Popular Courses
 
 * [Most Popular of All Time](https://www.classcentral.com/report/most-popular-online-courses/)
 * [Most Popular of the Year 2024](https://www.classcentral.com/report/most-popular-courses-2024/)
 * [Most Popular of the Year 2023](https://www.classcentral.com/report/most-popular-courses-2023/)
 
-### Collections
+Collections
 
 * [![Ivy League Courses](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fcollections%2Fcollection-ivy-league-moocs-social.jpg?auto=format&blur=200&h=420&ixlib=php-4.1.0&px=16&s=9f55d4e7860e5cfec2e884d964d34a45)](https://www.classcentral.com/collection/ivy-league-moocs)
 * [![Free Coursera Courses](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fcollections%2Fcollection-coursera-free-courses.png?auto=format&blur=200&h=420&ixlib=php-4.1.0&px=16&s=25d3b9b21e53dd418038f337b31087c1)](https://www.classcentral.com/report/coursera-free-online-courses/)
 * [![Free Certificates](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fcollections%2Fcollection-free-certificates.png?auto=format&blur=200&h=420&ixlib=php-4.1.0&px=16&s=a37754e308540b502d132fbb2d86b1ae)](https://www.classcentral.com/report/free-certificates/)
 * [![Free Google Certifications](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Fcollections%2Fcollection-google-certs.png?auto=format&blur=200&h=420&ixlib=php-4.1.0&px=16&s=72776a7461a4fd7bdc88ba304e2f2660)](https://www.classcentral.com/report/free-google-certifications/)
 
-### Computer Science
+Computer Science
 
 * [Artificial Intelligence](https://www.classcentral.com/subject/ai)
 * [Algorithms and Data Structures](https://www.classcentral.com/subject/algorithms-and-data-structures)
@@ -88,7 +87,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Digital Image Processing](https://www.classcentral.com/subject/digital-image-processing)
 * [View all Computer Science](https://www.classcentral.com/subject/cs)
 
-### Health & Medicine
+Health & Medicine
 
 * [Nutrition & Wellness](https://www.classcentral.com/subject/nutrition-and-wellness)
 * [Disease & Disorders](https://www.classcentral.com/subject/disease-and-disorders)
@@ -110,7 +109,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Massage Therapy](https://www.classcentral.com/subject/massage-therapy)
 * [View all Health & Medicine](https://www.classcentral.com/subject/health)
 
-### Mathematics
+Mathematics
 
 * [Statistics & Probability](https://www.classcentral.com/subject/statistics)
 * [Foundations of Mathematics](https://www.classcentral.com/subject/foundations-of-mathematics)
@@ -134,7 +133,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Mathematical Thinking](https://www.classcentral.com/subject/mathematical-thinking)
 * [View all Mathematics](https://www.classcentral.com/subject/maths)
 
-### Business
+Business
 
 * [Management & Leadership](https://www.classcentral.com/subject/management-and-leadership)
 * [Finance](https://www.classcentral.com/subject/finance)
@@ -158,7 +157,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Business Proposal](https://www.classcentral.com/subject/business-proposal)
 * [View all Business](https://www.classcentral.com/subject/business)
 
-### Humanities
+Humanities
 
 * [History](https://www.classcentral.com/subject/history)
 * [Literature](https://www.classcentral.com/subject/literature)
@@ -182,7 +181,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Religious Studies](https://www.classcentral.com/subject/religious-studies)
 * [View all Humanities](https://www.classcentral.com/subject/humanities)
 
-### Engineering
+Engineering
 
 * [Electrical Engineering](https://www.classcentral.com/subject/electrical-engineering)
 * [Mechanical Engineering](https://www.classcentral.com/subject/mechanical-engineering)
@@ -206,7 +205,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Energy Conversion](https://www.classcentral.com/subject/energy-conversion)
 * [View all Engineering](https://www.classcentral.com/subject/engineering)
 
-### Science
+Science
 
 * [Chemistry](https://www.classcentral.com/subject/chemistry)
 * [Physics](https://www.classcentral.com/subject/physics)
@@ -230,7 +229,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Medicine](https://www.classcentral.com/subject/medicine)
 * [View all Science](https://www.classcentral.com/subject/science)
 
-### Education & Teaching
+Education & Teaching
 
 * [K12](https://www.classcentral.com/subject/k12)
 * [Higher Education](https://www.classcentral.com/subject/higher-education)
@@ -254,7 +253,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Classroom Management](https://www.classcentral.com/subject/classroom-management)
 * [View all Education & Teaching](https://www.classcentral.com/subject/education)
 
-### Social Sciences
+Social Sciences
 
 * [Sociology](https://www.classcentral.com/subject/sociology)
 * [Economics](https://www.classcentral.com/subject/economics)
@@ -278,7 +277,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Media Studies](https://www.classcentral.com/subject/media-studies)
 * [View all Social Sciences](https://www.classcentral.com/subject/social-sciences)
 
-### Art & Design
+Art & Design
 
 * [Music](https://www.classcentral.com/subject/music)
 * [Digital Media](https://www.classcentral.com/subject/digital-media)
@@ -301,7 +300,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Clay Modeling](https://www.classcentral.com/subject/clay-modeling)
 * [View all Art & Design](https://www.classcentral.com/subject/art-and-design)
 
-### Data Science
+Data Science
 
 * [Bioinformatics](https://www.classcentral.com/subject/bioinformatics)
 * [Big Data](https://www.classcentral.com/subject/big-data)
@@ -325,7 +324,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Data Preparation](https://www.classcentral.com/subject/data-preparation)
 * [View all Data Science](https://www.classcentral.com/subject/data-science)
 
-### Programming
+Programming
 
 * [Mobile Development](https://www.classcentral.com/subject/mobile-development)
 * [Web Development](https://www.classcentral.com/subject/web-development)
@@ -347,7 +346,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [GNU Toolchain](https://www.classcentral.com/subject/gnu-toolchain)
 * [View all Programming](https://www.classcentral.com/subject/programming-and-software-development)
 
-### Personal Development
+Personal Development
 
 * [Communication Skills](https://www.classcentral.com/subject/communication-skills)
 * [Career Development](https://www.classcentral.com/subject/career-development)
@@ -371,7 +370,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 * [Dog Training](https://www.classcentral.com/subject/dog-training)
 * [View all Personal Development](https://www.classcentral.com/subject/personal-development)
 
-### Information Security (InfoSec)
+Information Security (InfoSec)
 
 * [Cybersecurity](https://www.classcentral.com/subject/cybersecurity)
 * [Network Security](https://www.classcentral.com/subject/network-security)
@@ -391,7 +390,7 @@ Courses from [1000+ universities](https://www.classcentral.com/universities)
 
 [![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Freport%2Fcoursera-economics%2Fcoursera-economics-2%2F?auto=format&ixlib=php-4.1.0&s=f592f4d813d7d21812c1988e633edeee)](https://www.classcentral.com/report/cousera-layoffs-2024/)
 
-#### [Coursera Announces Layoffs, Stock Plunges Despite $100M Milestone](https://www.classcentral.com/report/cousera-layoffs-2024/)
+[Coursera Announces Layoffs, Stock Plunges Despite $100M Milestone](https://www.classcentral.com/report/cousera-layoffs-2024/)
 
 Two years after its first major layoff round, Coursera announces another, impacting 10% of its workforce.
 
@@ -412,40 +411,37 @@ Two years after its first major layoff round, Coursera announces another, impact
     Trending](https://www.classcentral.com/report/free-google-certifications/)
 
 Most common
------------
 
-1. digital marketing
+1. law
     
-2. hacking
+2. computer science
     
-3. finance
+3. cyber security
     
 
 Popular subjects
-----------------
 
 1. [Data Analysis
     
     8,807 courses](https://www.classcentral.com/subject/data-analysis)
-2. [Cybersecurity
+2. [Digital Marketing
     
-    16,781 courses](https://www.classcentral.com/subject/cybersecurity)
-3. [Computer Science
+    6,269 courses](https://www.classcentral.com/subject/digital-marketing)
+3. [Artificial Intelligence
     
-    43,314 courses](https://www.classcentral.com/subject/cs)
+    13,863 courses](https://www.classcentral.com/subject/ai)
 
 Popular courses
----------------
 
-1. [Nutrition, Exercise and Sports
+1. [Positive Psychiatry and Mental Health
     
-    Wageningen University](https://www.classcentral.com/course/nutrition-wageningen-university-research-nutritio-14381)
-2. [Justice
+    The University of Sydney](https://www.classcentral.com/course/positive-psychiatry-8783)
+2. [Introduction to Genetics and Evolution
     
-    Harvard University](https://www.classcentral.com/course/justice-harvard-university-justice-610)
-3. [Greening the Economy: Sustainable Cities
+    Duke University](https://www.classcentral.com/course/geneticsevolution-381)
+3. [The Ancient Greeks
     
-    Lund University](https://www.classcentral.com/course/gte-sustainable-cities-4851)
+    Wesleyan University](https://www.classcentral.com/course/ancientgreeks-502)
 
 ![](https://ccweb.imgix.net/https%3A%2F%2Fwww.classcentral.com%2Fimages%2Flists%2Flist-empty.png?auto=format&ixlib=php-4.1.0&w=100&s=d64b43c1b6dcf041e56fce6ac1794fcf)
 
