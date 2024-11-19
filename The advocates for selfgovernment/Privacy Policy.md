@@ -253,103 +253,85 @@ Enable Dark Mode
     
     Latest Articles
     
-    *    [![](/wp-content/themes/yootheme/cache/dd/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-dd70eb10.png) ![](/wp-content/themes/yootheme/cache/dd/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-dd70eb10.png)
+    * [![The Status of Status](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-1.03.05 PM-300x200.png)
         
         Underthrow Series
         
         The Status of Status
         
-        by **Max Borders**
+        by **Max Borders** • Nov 13 • 5 mins Read](https://www.theadvocates.org/the-status-of-status/)
         
-        Read more](https://www.theadvocates.org/the-status-of-status/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/21/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-215d88ee.png) ![](/wp-content/themes/yootheme/cache/21/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-215d88ee.png)
+    * [![Are You a Fox or a Hedgehog?](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-05-at-2.26.51 PM-300x300.png)
         
         Underthrow Series
         
         Are You a Fox or a Hedgehog?
         
-        by **Max Borders**
+        by **Max Borders** • Nov 06 • 3 mins Read](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
         
-        Read more](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/48/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-4803d26d.png) ![](/wp-content/themes/yootheme/cache/48/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-4803d26d.png)
+    * [![The Great Fiscal Conundrum](https://www.theadvocates.org/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-1.40.32 PM-300x171.png)
         
         Underthrow Series
         
         The Great Fiscal Conundrum
         
-        by **Max Borders**
+        by **Max Borders** • Oct 30 • 5 mins Read](https://www.theadvocates.org/the-great-fiscal-conundrum/)
         
-        Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/e0/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-e08701a1.png) ![](/wp-content/themes/yootheme/cache/e0/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-e08701a1.png)
+    * [![We Have to Clean Up the Mess Ourselves](https://www.theadvocates.org/wp-content/uploads/2024/10/Screenshot-2024-10-22-at-1.01.57 PM-300x188.png)
         
         Underthrow Series
         
         We Have to Clean Up the Mess Ourselves
         
-        by **Max Borders**
+        by **Max Borders** • Oct 23 • 4 mins Read](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
         
-        Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/88/Clouds-2.7-8896b9d5.jpeg) ![](/wp-content/themes/yootheme/cache/88/Clouds-2.7-8896b9d5.jpeg)
+    * [![In the Ashes of the Apparatus](https://www.theadvocates.org/wp-content/uploads/2024/10/Clouds-2.7-300x202.jpg)
         
         Underthrow Series
         
         In the Ashes of the Apparatus
         
-        Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
+        by **Max Borders** • Oct 16 • 6 mins Read](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
         
-    *    [![](/wp-content/themes/yootheme/cache/0c/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-0c6bd9f3.png) ![](/wp-content/themes/yootheme/cache/0c/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-0c6bd9f3.png)
+    * [![Bug Bites and Bureaucrats](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-1.48.22 PM-300x183.png)
         
         Underthrow Series
         
         Bug Bites and Bureaucrats
         
-        by **Max Borders**
+        by **Max Borders** • Oct 09 • 5 mins Read](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
         
-        Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/83/Mule-on-out-scaled-1-837b63b2.jpeg) ![](/wp-content/themes/yootheme/cache/83/Mule-on-out-scaled-1-837b63b2.jpeg)
+    * [![Old Man Mountain Weeps](https://www.theadvocates.org/wp-content/uploads/2024/10/Mule-on-out-scaled-1-300x169.jpg)
         
         Underthrow Series
         
         Old Man Mountain Weeps
         
-        by **Max Borders**
+        by **Max Borders** • Oct 02 • 5 mins Read](https://www.theadvocates.org/old-man-mountain-weeps/)
         
-        Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/83/Update-1-834b4890.jpeg) ![](/wp-content/themes/yootheme/cache/83/Update-1-834b4890.jpeg)
+    * [![The A Word (Gasp) – Anarchy](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x300.jpg)
         
         Underthrow Series
         
         The A Word (Gasp) – Anarchy
         
-        by **Max Borders**
+        by **Max Borders** • Sep 25 • 2 mins Read](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
         
-        Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/03/edit-copy-03fa3c43.jpeg) ![](/wp-content/themes/yootheme/cache/03/edit-copy-03fa3c43.jpeg)
+    * [![Makers and Takers](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)
         
         Underthrow Series
         
         Makers and Takers
         
-        by **Max Borders**
+        by **Max Borders** • Sep 18 • 4 mins Read](https://www.theadvocates.org/makers-and-takers/)
         
-        Read more](https://www.theadvocates.org/makers-and-takers/)
-        
-    *    [![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-13d36a0b.png) ![](/wp-content/themes/yootheme/cache/13/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-13d36a0b.png)
+    * [![Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x300.png)
         
         Underthrow Series
         
         Blinking Lights: Heroes of Underthrow
         
-        by **Max Borders**
-        
-        Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
+        by **Max Borders** • Sep 11 • 3 mins Read](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
         
     
     [](#)[](#)
@@ -439,26 +421,9 @@ Enable Dark Mode
 Quizzes & Apps
 --------------
 
-*    [![](/wp-content/themes/yootheme/cache/60/asg-whitehouse-60ee3a2c.jpeg) ![](/wp-content/themes/yootheme/cache/60/asg-whitehouse-60ee3a2c.jpeg)
+*  [![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp) ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
     
-    ### The World’s Smallest Political Quiz
-    
-    Discover your political type and what your answers mean
-    
-    Read more
-    
-    WSPQ
-    
-    23,242,153 Respondents  
-    by **The Advocates**
-    
-    Duration
-    
-    2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
-    
-*  [![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp) ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
-    
-    ### Human Respect Test for Progressives
+    ### Human Respect Test for Libertarians
     
     Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
@@ -466,46 +431,12 @@ Quizzes & Apps
     
     Human Respect Tests
     
-    13,330 Respondents  
+    13,020 Respondents  
     by **The Advocates**
     
     Duration
     
-    6 Min](https://www.theadvocates.org/qep/hrt-progressive/)
-    
-*  [![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp) ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
-    
-    ### Human Respect Test for Conservatives
-    
-    Explore the dynamics of political persuasion and coercion… Which do you prefer?
-    
-    Read more
-    
-    Human Respect Tests
-    
-    1,140 Respondents  
-    by **The Advocates**
-    
-    Duration
-    
-    5 Min](https://www.theadvocates.org/qep/hrt-conservative/)
-    
-*  [![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp) ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
-    
-    ### Human Respect Test for Moderates
-    
-    Explore the dynamics of political persuasion and coercion… Which do you prefer?
-    
-    Read more
-    
-    Human Respect Tests
-    
-    13,850 Respondents  
-    by **The Advocates**
-    
-    Duration
-    
-    5 Min](https://www.theadvocates.org/qep/hrt-moderate/)
+    5 Min](https://www.theadvocates.org/qep/hrt-libertarian/)
     
 *  [![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp) ![](/wp-content/themes/yootheme/cache/81/DALL%C2%B7E-2024-06-26-11.32.05-A-utopian-scene-expressing-authoritarian-ideals_-a-highly-organized-and-controlled-community-with-grand-imposing-architecture-and-a-clear-hierarchy.--815d94b9.webp)
     
@@ -524,9 +455,9 @@ Quizzes & Apps
     
     5 Min](https://www.theadvocates.org/qep/hrt-authoritarian/)
     
-*  [![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp) ![](/wp-content/themes/yootheme/cache/df/DALL%C2%B7E-2024-06-12-15.25.44-A-utopian-scene-expressing-libertarian-ideas_-a-vibrant-self-sustaining-community-with-eco-friendly-buildings-and-lush-green-spaces.-People-are-engag-1-df959f8d.webp)
+*  [![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp) ![](/wp-content/themes/yootheme/cache/db/DALL%C2%B7E-2024-06-26-11.37.57-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-dbd22718.webp)
     
-    ### Human Respect Test for Libertarians
+    ### Human Respect Test for Moderates
     
     Explore the dynamics of political persuasion and coercion… Which do you prefer?
     
@@ -534,114 +465,317 @@ Quizzes & Apps
     
     Human Respect Tests
     
-    13,020 Respondents  
+    13,850 Respondents  
     by **The Advocates**
     
     Duration
     
-    5 Min](https://www.theadvocates.org/qep/hrt-libertarian/)
+    5 Min](https://www.theadvocates.org/qep/hrt-moderate/)
+    
+*  [![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp) ![](/wp-content/themes/yootheme/cache/40/DALL%C2%B7E-2024-06-26-11.36.47-A-utopian-scene-set-in-a-conservative-society.-The-landscape-features-well-maintained-parks-clean-streets-lined-with-traditional-houses-and-a-promin-405f3713.webp)
+    
+    ### Human Respect Test for Conservatives
+    
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
+    
+    Read more
+    
+    Human Respect Tests
+    
+    1,140 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    5 Min](https://www.theadvocates.org/qep/hrt-conservative/)
+    
+*  [![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp) ![](/wp-content/themes/yootheme/cache/8c/DALL%C2%B7E-2024-06-12-15.25.32-A-utopian-scene-expressing-progressive-ideals_-a-dynamic-and-inclusive-community-with-innovative-architecture-renewable-energy-and-diverse-cultural--8c450c0c.webp)
+    
+    ### Human Respect Test for Progressives
+    
+    Explore the dynamics of political persuasion and coercion… Which do you prefer?
+    
+    Read more
+    
+    Human Respect Tests
+    
+    13,330 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    6 Min](https://www.theadvocates.org/qep/hrt-progressive/)
+    
+*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fhuman-respect-tests.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=86eb5883) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fhuman-respect-tests.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=86eb5883)
+    
+    ### Protest + Civil Disobedience
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    1,290 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    3.5 Min](https://www.theadvocates.org/qep/protest-civil-disobedience/)
+    
+*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fpolice-accountability.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=c87a1665) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fpolice-accountability.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=c87a1665)
+    
+    ### Police Accountability
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    1,120 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/police-accountability/)
+    
+*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fsingle-issue-surveys.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=dc3c2259) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fsingle-issue-surveys.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=dc3c2259)
+    
+    ### Pandemic Survey
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    1,450 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    4 Min](https://www.theadvocates.org/qep/pandemic-survey/)
+    
+*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Felection-integrity-survey.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=b2089061) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Felection-integrity-survey.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=b2089061)
+    
+    ### Election Integrity Survey
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    860 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/election-integrity-survey/)
+    
+*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fdo-you-understand-self-government.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=abad9e54) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2024%2F06%2Fdo-you-understand-self-government.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=abad9e54)
+    
+    ### Censorship and Free Speech
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    1,950 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    4.5 Min](https://www.theadvocates.org/qep/censorship-and-free-speech/)
+    
+*    [![](/wp-content/themes/yootheme/cache/8d/worlds-smallest-quiz-8d87bfac.jpeg) ![](/wp-content/themes/yootheme/cache/8d/worlds-smallest-quiz-8d87bfac.jpeg)
+    
+    ### Identity Politics and Political Correctness
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    2,250 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    4 Min](https://www.theadvocates.org/qep/identity-politics-and-political-correctness/)
+    
+*    [![](/wp-content/themes/yootheme/cache/3e/government-debt-3e0f6cf3.jpeg) ![](/wp-content/themes/yootheme/cache/3e/government-debt-3e0f6cf3.jpeg)
+    
+    ### Government Debt, Money, and Monetary Policy
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    1,140 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    3 Min](https://www.theadvocates.org/qep/government-debt-money-and-monetary-policy/)
+    
+*    [![](/wp-content/themes/yootheme/cache/12/national-security-and-foreign-policy-120e34bb.jpeg) ![](/wp-content/themes/yootheme/cache/12/national-security-and-foreign-policy-120e34bb.jpeg)
+    
+    ### National Security And Foreign Policy
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    2,500 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    4 Min](https://www.theadvocates.org/qep/national-security-survey/)
+    
+*    [![](/wp-content/themes/yootheme/cache/54/AdobeStock_68336479-scaled-5479660a.jpeg) ![](/wp-content/themes/yootheme/cache/54/AdobeStock_68336479-scaled-5479660a.jpeg)
+    
+    ### Federal Spending Survey
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    2,270 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    4.5 Min](https://www.theadvocates.org/qep/federal-spending-survey/)
+    
+*    [![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2023%2F06%2Fgun-control.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=072f66f4) ![](https://www.theadvocates.org/wp-admin/admin-ajax.php?action=kernel&p=image&src=%7B%22file%22%3A%22wp-content%2Fuploads%2F2023%2F06%2Fgun-control.jpeg%22%2C%22thumbnail%22%3A%22324%2C432%2C%22%7D&hash=072f66f4)
+    
+    ### Gun Control Survey
+    
+    Discover if your political type score matches with your views on specific issues, and compare your results to others.
+    
+    Read more
+    
+    Single Issue Surveys
+    
+    850 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    7 Min](https://www.theadvocates.org/qep/gun-control-survey/)
+    
+*    [![](/wp-content/themes/yootheme/cache/60/asg-whitehouse-60ee3a2c.jpeg) ![](/wp-content/themes/yootheme/cache/60/asg-whitehouse-60ee3a2c.jpeg)
+    
+    ### The World’s Smallest Political Quiz
+    
+    Discover your political type and what your answers mean
+    
+    Read more
+    
+    WSPQ
+    
+    23,242,153 Respondents  
+    by **The Advocates**
+    
+    Duration
+    
+    2.5 Min](https://www.theadvocates.org/qep/the-worlds-smallest-political-quiz/)
     
 
 Articles
 --------
 
-*    [![](/wp-content/themes/yootheme/cache/07/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-0700ddd7.png) ![](/wp-content/themes/yootheme/cache/07/Screenshot-2024-11-11-at-1.03.05%E2%80%AFPM-0700ddd7.png)
+* [![The Status of Status](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-11-at-1.03.05 PM-300x200.png)
     
     Underthrow Series
     
     The Status of Status
     
-    by **Max Borders**
+    by **Max Borders** • Nov 13 • 5 mins Read](https://www.theadvocates.org/the-status-of-status/)
     
-    Read more](https://www.theadvocates.org/the-status-of-status/)
-    
-*    [![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png) ![](/wp-content/themes/yootheme/cache/fb/Screenshot-2024-11-05-at-2.26.51%E2%80%AFPM-fb2dbe29.png)
+* [![Are You a Fox or a Hedgehog?](https://www.theadvocates.org/wp-content/uploads/2024/11/Screenshot-2024-11-05-at-2.26.51 PM-300x300.png)
     
     Underthrow Series
     
     Are You a Fox or a Hedgehog?
     
-    by **Max Borders**
+    by **Max Borders** • Nov 06 • 3 mins Read](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
     
-    Read more](https://www.theadvocates.org/are-you-a-fox-or-a-hedgehog/)
-    
-*    [![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png) ![](/wp-content/themes/yootheme/cache/92/Screenshot-2024-10-29-at-1.40.32%E2%80%AFPM-9273e4aa.png)
+* [![The Great Fiscal Conundrum](https://www.theadvocates.org/wp-content/uploads/2024/10/Screenshot-2024-10-29-at-1.40.32 PM-300x171.png)
     
     Underthrow Series
     
     The Great Fiscal Conundrum
     
-    by **Max Borders**
+    by **Max Borders** • Oct 30 • 5 mins Read](https://www.theadvocates.org/the-great-fiscal-conundrum/)
     
-    Read more](https://www.theadvocates.org/the-great-fiscal-conundrum/)
-    
-*    [![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png) ![](/wp-content/themes/yootheme/cache/3a/Screenshot-2024-10-22-at-1.01.57%E2%80%AFPM-3af73766.png)
+* [![We Have to Clean Up the Mess Ourselves](https://www.theadvocates.org/wp-content/uploads/2024/10/Screenshot-2024-10-22-at-1.01.57 PM-300x188.png)
     
     Underthrow Series
     
     We Have to Clean Up the Mess Ourselves
     
-    by **Max Borders**
+    by **Max Borders** • Oct 23 • 4 mins Read](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
     
-    Read more](https://www.theadvocates.org/we-have-to-clean-up-the-mess-ourselves/)
-    
-*    [![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg) ![](/wp-content/themes/yootheme/cache/52/Clouds-2.7-52e68f12.jpeg)
+* [![In the Ashes of the Apparatus](https://www.theadvocates.org/wp-content/uploads/2024/10/Clouds-2.7-300x202.jpg)
     
     Underthrow Series
     
     In the Ashes of the Apparatus
     
-    Read more](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
+    by **Max Borders** • Oct 16 • 6 mins Read](https://www.theadvocates.org/in-the-ashes-of-the-apparatus/)
     
-*    [![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png) ![](/wp-content/themes/yootheme/cache/d6/Screenshot-2024-09-30-at-1.48.22%E2%80%AFPM-d61bef34.png)
+* [![Bug Bites and Bureaucrats](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-30-at-1.48.22 PM-300x183.png)
     
     Underthrow Series
     
     Bug Bites and Bureaucrats
     
-    by **Max Borders**
+    by **Max Borders** • Oct 09 • 5 mins Read](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
     
-    Read more](https://www.theadvocates.org/bug-bites-and-bureaucrats/)
-    
-*    [![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg) ![](/wp-content/themes/yootheme/cache/59/Mule-on-out-scaled-1-590b5575.jpeg)
+* [![Old Man Mountain Weeps](https://www.theadvocates.org/wp-content/uploads/2024/10/Mule-on-out-scaled-1-300x169.jpg)
     
     Underthrow Series
     
     Old Man Mountain Weeps
     
-    by **Max Borders**
+    by **Max Borders** • Oct 02 • 5 mins Read](https://www.theadvocates.org/old-man-mountain-weeps/)
     
-    Read more](https://www.theadvocates.org/old-man-mountain-weeps/)
-    
-*    [![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg) ![](/wp-content/themes/yootheme/cache/59/Update-1-593b7e57.jpeg)
+* [![The A Word (Gasp) – Anarchy](https://www.theadvocates.org/wp-content/uploads/2024/09/Update-1-300x300.jpg)
     
     Underthrow Series
     
     The A Word (Gasp) – Anarchy
     
-    by **Max Borders**
+    by **Max Borders** • Sep 25 • 2 mins Read](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
     
-    Read more](https://www.theadvocates.org/the-a-word-gasp-anarchy/)
-    
-*    [![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg) ![](/wp-content/themes/yootheme/cache/d9/edit-copy-d98a0a84.jpeg)
+* [![Makers and Takers](https://www.theadvocates.org/wp-content/uploads/2024/09/edit-copy-300x200.jpg)
     
     Underthrow Series
     
     Makers and Takers
     
-    by **Max Borders**
+    by **Max Borders** • Sep 18 • 4 mins Read](https://www.theadvocates.org/makers-and-takers/)
     
-    Read more](https://www.theadvocates.org/makers-and-takers/)
-    
-*    [![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png) ![](/wp-content/themes/yootheme/cache/c9/Screenshot-2024-09-09-at-11.09.05%E2%80%AFAM-c9a35ccc.png)
+* [![Blinking Lights: Heroes of Underthrow](https://www.theadvocates.org/wp-content/uploads/2024/09/Screenshot-2024-09-09-at-11.09.05 AM-300x300.png)
     
     Underthrow Series
     
     Blinking Lights: Heroes of Underthrow
     
-    by **Max Borders**
-    
-    Read more](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
+    by **Max Borders** • Sep 11 • 3 mins Read](https://www.theadvocates.org/blinking-lights-heroes-of-underthrow/)
     
 
 [](#)[](#)
