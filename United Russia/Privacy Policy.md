@@ -299,6 +299,14 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![Госдума приняла инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://cdn.er.ru/media/news/November2024/ypiQVAUmn6a3Ytn0vvHI-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
+
+[Госдума приняла инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
+
+[#Пискарев](https://er.ru/activity/news?tags%5B0%5D=17151) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#исполнительский сбор](https://er.ru/activity/news?tags%5B0%5D=56017)
+
+Сегодня 16:00
+
 [![«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://cdn.er.ru/media/news/November2024/0DISVQeKP05wNK5lFLVV-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
 
 [«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
@@ -336,14 +344,6 @@
 [«Единая Россия», «Молодая Гвардия» и Всероссийская федерация самбо проведут в 2025 году в Москве массовую тренировку по самбо](https://er.ru/activity/news/edinaya-rossiya-molodaya-gvardiya-i-vserossijskaya-federaciya-sambo-provedut-v-2025-godu-v-moskve-massovuyu-trenirovku-po-sambo)
 
 [#МГЕР](https://er.ru/activity/news?tags%5B0%5D=47) [#Демидов](https://er.ru/activity/news?tags%5B0%5D=8672) [#Zасамбо](https://er.ru/activity/news?tags%5B0%5D=1093194) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#тренировка](https://er.ru/activity/news?tags%5B0%5D=2478)
-
-16.11.24
-
-[![Владимир Якушев отметил практики партстроительства и реализации народной программы «Единой России» в Башкирии](https://cdn.er.ru/media/news/November2024/ETvdrCH4PdbiKkHCzEzS-small.JPG)](https://er.ru/activity/news/vladimir-yakushev-otmetil-praktiki-partstroitelstva-i-realizacii-narodnoj-programmy-edinoj-rossii-v-bashkirii)
-
-[Владимир Якушев отметил практики партстроительства и реализации народной программы «Единой России» в Башкирии](https://er.ru/activity/news/vladimir-yakushev-otmetil-praktiki-partstroitelstva-i-realizacii-narodnoj-programmy-edinoj-rossii-v-bashkirii)
-
-[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хабиров](https://er.ru/activity/news?tags%5B0%5D=140172) [#региональнаяконференция](https://er.ru/activity/news?tags%5B0%5D=109190) [#Республика Башкортостан](https://er.ru/activity/news?tags%5B0%5D=490) [#народнаяпрограмма](https://er.ru/activity/news?tags%5B0%5D=109889)
 
 16.11.24
 
