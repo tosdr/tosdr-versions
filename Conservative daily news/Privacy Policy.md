@@ -181,6 +181,7 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [The Rimfire Report: Why Aren't .17HMR & .22WMR More Popular?](https://www.thegunpage.com/the-rimfire-report-why-arent-17hmr-22wmr-more-popular/10611960)
 * [Gun Control Groups Fail to See Difference in Charitable Fundraising with Firearms and Criminal Use of Firearms](https://www.thegunpage.com/gun-control-groups-fail-to-see-difference-in-charitable-fundraising-with-firearms-and-criminal-use-of-firearms/10611957)
 * [Michigan Using Gun-Free Zones To Subvert The Right To Carry](https://www.thegunpage.com/michigan-using-gun-free-zones-to-subvert-the-right-to-carry/10611954)
 * [Memphis City Leaders Just Keep Pushing Their Anti-Gun Schemes](https://www.thegunpage.com/memphis-city-leaders-just-keep-pushing-their-anti-gun-schemes/10611950)
@@ -190,7 +191,6 @@ Recent Posts
 * [Team Savage’s Matt Alwine Wins Production Division Title At 2024 PRS Finale](https://www.thegunpage.com/team-savages-matt-alwine-wins-production-division-title-at-2024-prs-finale/10611952)
 * [New Pistol Records Set At 2024 CMP Western Games](https://www.thegunpage.com/new-pistol-records-set-at-2024-cmp-western-games/10611953)
 * [Achieve Next-Level Training with the Strikeman X SIRT Dry-Fire Laser Training Pistol](https://www.thegunpage.com/achieve-next-level-training-with-the-strikeman-x-sirt-dry-fire-laser-training-pistol/10611940)
-* [Why Matt Gaetz Scares Democrats More Than Trump](https://www.thegunpage.com/why-matt-gaetz-scares-democrats-more-than-trump/10611936)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
