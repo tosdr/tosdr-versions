@@ -387,7 +387,7 @@ Change log
 [Archived versions](https://1password.com/legal/privacy/privacy-archive/)
 
 1. [](https://1password.com/)
-2. [Legal](https://1password.com/legal)
+2. [Legal](https://1password.com/legal-center)
 3. [Privacy Policy](https://1password.com/legal/privacy)
 
 English
