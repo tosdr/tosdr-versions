@@ -1,6 +1,6 @@
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
- [![](https://www.mypillow.com/media/logo/stores/1/websitelogo.png)](https://www.mypillow.com/)
+[![](https://www.mypillow.com/media/logo/stores/1/websitelogo.png)](https://www.mypillow.com/)
 
 [Skip to Content](#contentarea)
 
@@ -33,8 +33,8 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
     * [Accessory Pillows](https://www.mypillow.com/accessory-pillows)
     * [Multi-Use MyPillows](https://www.mypillow.com/multi-use-mypillow)
-    * [Body Pillow](https://www.mypillow.com/bedding/mybody-pillow)
-    * [Bolster Pillow](https://www.mypillow.com/bedding/bolster-pillow-w-bolster-pillowcase)
+    * [Body Pillow](https://www.mypillow.com/mybody-pillow)
+    * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-offer)
     * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
@@ -89,7 +89,7 @@ Get Even Lower Prices!
 
 Apply
 
- ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
+![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
 [](https://www.mypillow.com/the-classic-collection)
 
@@ -99,29 +99,29 @@ Apply
 
 [](https://www.mypillow.ca/mystore-general-redirect)
 
-   [](https://www.mypillow.com/bath)
+[](https://www.mypillow.com/bath)
 
-   [](https://www.mypillow.com/bedding)
+[](https://www.mypillow.com/bedding)
 
-   [](https://www.mypillow.com/slipper-specials)
+[](https://www.mypillow.com/slipper-specials)
 
-   [](https://www.mypillow.com/accessory-pillows)
+[](https://www.mypillow.com/accessory-pillows)
 
-   [](https://www.mypillow.com/bath/kitchen-towels)
+[](https://www.mypillow.com/bath/kitchen-towels)
 
-   [](https://www.mypillow.com/the-classic-collection)
+[](https://www.mypillow.com/the-classic-collection)
 
-   [](https://www.mypillow.com/bedding/blankets)
+[](https://www.mypillow.com/bedding/blankets)
 
-   [](https://www.mypillow.com/pet)
+[](https://www.mypillow.com/pet)
 
-   [](https://www.mypillow.com/bath/mypillow-bath-robes)
+[](https://www.mypillow.com/bath/mypillow-bath-robes)
 
-   [](https://www.mypillow.ca/my-mattress-topper)
+[](https://www.mypillow.ca/my-mattress-topper)
 
-   [](https://www.mypillow.com/clothing/made-in-america-socks-category)
+[](https://www.mypillow.com/clothing/made-in-america-socks-category)
 
-   [](https://www.mypillow.com/mystore-gummies)
+[](https://www.mypillow.com/mystore-gummies)
 
 [SAVE up to 80% with promo code
 
@@ -147,29 +147,29 @@ SHOP NOW](https://www.mypillow.com/new-gorka)
 
 SHOP NOW](https://www.mypillow.com/hannity-new)
 
-   [](https://www.mypillow.com/mattresses)
+[](https://www.mypillow.com/mattresses)
 
-   [](https://www.mypillow.ca/mypillow-2-pick-your-size)
+[](https://www.mypillow.ca/mypillow-2-pick-your-size)
 
-   [](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
+[](https://www.mypillow.ca/mikes-products/what-are-the-odds-br-from-crack-addict-to-ceo)
 
-   [](https://www.mypillow.ca/mystore-general-redirect)
+[](https://www.mypillow.ca/mystore-general-redirect)
 
-   [](https://www.mypillow.com/gift-cards)
+[](https://www.mypillow.com/gift-cards)
 
-   [](https://www.mypillow.com/couch-and-recliner-pillows)
+[](https://www.mypillow.com/couch-and-recliner-pillows)
 
-   [](https://www.mypillow.com/bath/beach-towels)
+[](https://www.mypillow.com/bath/beach-towels)
 
-   [](https://www.mypillow.com/pet)
+[](https://www.mypillow.com/pet)
 
-   [](https://www.mypillow.com/smoothtoe-socks)
+[](https://www.mypillow.com/smoothtoe-socks)
 
-   [](https://www.mypillow.com/open-box)
+[](https://www.mypillow.com/open-box)
 
-   [](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
+[](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
 
-   [](https://www.mypillow.ca/clothing)
+[](https://www.mypillow.ca/clothing)
 
 ### Discover our Guarantee
 
@@ -177,7 +177,7 @@ MyPillow’s patented interlocking fill adjusts to your individual sleep needs r
   
 “I personally guarantee it will be the most comfortable pillow you’ll ever own! – Mike Lindell “
 
- ![](https://www.mypillow.com/media/logo/default/mypillow-logo-white.png)
+![](https://www.mypillow.com/media/logo/default/mypillow-logo-white.png)
 
 Order now [1-800-544-8939](tel:18005448939)
 
