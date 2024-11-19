@@ -168,17 +168,17 @@ By Theme
 
 Latest Real Weddings
 
+[![Navneet and Anhad](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
+
+![Navneet and Anhad](https://image.wedmegood.com/resized/250X/uploads/images/0def7b421277420ba3f04daed6d44148realwedding/N&AWedding-602.jpg?crop=268,1726,1629,916)
+
+Navneet and Anhad (Delhi NCR)](https://www.wedmegood.com/real_wedding/detail/navneet-and-anhad-delhi-ncr-punjabi-sikh-wedding-4434)
+
 [![Jiya and Hardik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
 
 ![Jiya and Hardik](https://image.wedmegood.com/resized/250X/uploads/images/55a69c5cbde342968c1e49e153de11dbrealwedding/_BTG3094_Original.jpeg?crop=272,337,1626,914)
 
 Jiya and Hardik (Pushkar)](https://www.wedmegood.com/real_wedding/detail/jiya-and-hardik-pushkar-sindhi-wedding-4432)
-
-[![Kyraa and Hardik](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP8XQ8AAnsBfKyAV94AAAAASUVORK5CYII=)
-
-![Kyraa and Hardik](https://image.wedmegood.com/resized/250X/uploads/images/c92209dea9db4ea19cea7c20aace3e40realwedding/024A3170Large2.jpeg?crop=121,342,1013,570)
-
-Kyraa and Hardik (Thailand)](https://www.wedmegood.com/real_wedding/detail/kyraa-and-hardik-thailand-sindhi-wedding-4426)
 
 Browse by Category
 
