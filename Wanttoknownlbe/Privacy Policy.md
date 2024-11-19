@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/een-wankele-werkelijkheid/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/mind-control/anti-gmo-wetenschappers-worden-aangevallen/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
