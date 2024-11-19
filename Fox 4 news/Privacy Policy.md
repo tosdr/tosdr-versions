@@ -401,6 +401,24 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Texans never trail while handing Cowboys 5th straight loss, 34-10](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/gettyimages-2185498615.jpg?ve=1&tl=1)
+
+ ![Texans never trail while handing Cowboys 5th straight loss, 34-10](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/gettyimages-2185498615.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/sports/texans-never-trail-while-handing-cowboys-5th-straight-loss-34-10)
+
+### [Texans never trail while handing Cowboys 5th straight loss, 34-10](https://www.fox4news.com/sports/texans-never-trail-while-handing-cowboys-5th-straight-loss-34-10)
+
+ [![Carroll ISD considers hiring armed school marshals](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111824-py-southlake-carrol-armed-marshal-pkg-jb__k_00.00.10.22.jpg?ve=1&tl=1)
+
+ ![Carroll ISD considers hiring armed school marshals](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111824-py-southlake-carrol-armed-marshal-pkg-jb__k_00.00.10.22.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/carroll-isd-school-marshall-armed-employees)
+
+### [Carroll ISD considers hiring armed school marshals](https://www.fox4news.com/news/carroll-isd-school-marshall-armed-employees)
+
+ [![Grapevine police bust multimillion-dollar crime ring targeting warehouses](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/grapevine-theft-ring-1.png?ve=1&tl=1)
+
+ ![Grapevine police bust multimillion-dollar crime ring targeting warehouses](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/grapevine-theft-ring-1.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/grapevine-police-bust-multimillion-dollar-crime-ring-targeting-warehouses)
+
+### [Grapevine police bust multimillion-dollar crime ring targeting warehouses](https://www.fox4news.com/news/grapevine-police-bust-multimillion-dollar-crime-ring-targeting-warehouses)
+
  [![Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2171836124.jpg?ve=1&tl=1)
 
  ![Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2171836124.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gabbard-nomination-russia-comments)
@@ -412,24 +430,6 @@ Please note that, in some instances, we may decline to honor your request where,
  ![Suspect in custody after allegedly kidnapping child he met on social media, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/utah-kidnapping.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspect-custody-after-allegedly-kidnapping-child-he-met-social-media-police-say)
 
 ### [Suspect in custody after allegedly kidnapping child he met on social media, police say](https://www.fox4news.com/news/suspect-custody-after-allegedly-kidnapping-child-he-met-social-media-police-say)
-
- [![Irving police officer killed in motorcycle crash was 'poster child' for the department, police chief says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-alex-irving-officer-fatal-motorcycle-crash-5p_00.00.01.48.jpg?ve=1&tl=1)
-
- ![Irving police officer killed in motorcycle crash was 'poster child' for the department, police chief says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-alex-irving-officer-fatal-motorcycle-crash-5p_00.00.01.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-police-officer-killed-motorcycle-crash-was-poster-child-department-police-chief-says)
-
-### [Irving police officer killed in motorcycle crash was 'poster child' for the department, police chief says](https://www.fox4news.com/news/irving-police-officer-killed-motorcycle-crash-was-poster-child-department-police-chief-says)
-
- [![Trump's cabinet: Who he's picked so far and which positions remain open](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183887435-scaled.jpg?ve=1&tl=1)
-
- ![Trump's cabinet: Who he's picked so far and which positions remain open](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183887435-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-appointments-so-far-november-17-2024)
-
-### [Trump's cabinet: Who he's picked so far and which positions remain open](https://www.fox4news.com/news/trump-cabinet-appointments-so-far-november-17-2024)
-
- [![Trump may attend SpaceX's 'Starship' launch scheduled for Tuesday](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-and-musk.jpg?ve=1&tl=1)
-
- ![Trump may attend SpaceX's 'Starship' launch scheduled for Tuesday](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-and-musk.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-may-attend-spacex-starship-launch-tuesday)
-
-### [Trump may attend SpaceX's 'Starship' launch scheduled for Tuesday](https://www.fox4news.com/news/trump-may-attend-spacex-starship-launch-tuesday)
 
 ###### [News](https://www.fox4news.com/news)
 
