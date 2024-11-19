@@ -65,6 +65,9 @@ Huawei Central
     
 * [Wearables](https://www.huaweicentral.com/category/wearables/)
     
+    * [![Huawei Watch D2 pre-sale China](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-pre-sale-400x240.jpg)
+        
+        Huawei Watch D2 wearable open for pre-sale in China](https://www.huaweicentral.com/huawei-watch-d2-wearable-open-for-pre-sale-in-china/)
     * [![Huawei Watch D2 Malaysia](https://www.huaweicentral.com/wp-content/uploads/2024/11/Watch-D2-400x240.jpg)
         
         Huawei Watch D2 will launch in Malaysia on November 19](https://www.huaweicentral.com/huawei-watch-d2-will-launch-in-malaysia-on-november-19/)
@@ -77,9 +80,6 @@ Huawei Central
     * [![Huawei Watch Ultimate Green Edition China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Green-Edition-1-400x240.jpg)
         
         Huawei launches Watch Ultimate Green Edition in China with dual-tone bezel](https://www.huaweicentral.com/huawei-launches-watch-ultimate-green-edition-in-china-with-dual-tone-bezel/)
-    * [![Huawei Watch Ultimate Green China](https://www.huaweicentral.com/wp-content/uploads/2024/10/Watch-Ultimate-400x240.jpg)
-        
-        Huawei to launch Watch Ultimate Green Edition on October 22 in China](https://www.huaweicentral.com/huawei-to-launch-watch-ultimate-green-edition-on-october-22-in-china/)
     
 * [Contact Us](https://www.huaweicentral.com/contact/)
 
