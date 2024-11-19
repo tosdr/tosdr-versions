@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![2nd Dallas woman arrested for Facebook Marketplace meetup murder](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/dallas-iphone-murder.jpg?ve=1&tl=1)
+ [![Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2171836124.jpg?ve=1&tl=1)
 
- ![2nd Dallas woman arrested for Facebook Marketplace meetup murder](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/dallas-iphone-murder.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/annika-aleman-amaya-medrano-dallas-murder)
+ ![Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2171836124.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/gabbard-nomination-russia-comments)
 
-### [2nd Dallas woman arrested for Facebook Marketplace meetup murder](https://www.fox4news.com/news/annika-aleman-amaya-medrano-dallas-murder)
+### [Tulsi Gabbard's nomination to lead US intelligence raises scrutiny over past Russia comments](https://www.fox4news.com/news/gabbard-nomination-russia-comments)
 
- [![Poll: Most Americans still support stricter gun laws, assault weapons ban](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gun-shop.jpg?ve=1&tl=1)
+ [![Suspect in custody after allegedly kidnapping child he met on social media, police say](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/utah-kidnapping.jpg?ve=1&tl=1)
 
- ![Poll: Most Americans still support stricter gun laws, assault weapons ban](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gun-shop.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/americans-support-stricter-gun-laws-assault-weapons-ban)
+ ![Suspect in custody after allegedly kidnapping child he met on social media, police say](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/utah-kidnapping.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/suspect-custody-after-allegedly-kidnapping-child-he-met-social-media-police-say)
 
-### [Poll: Most Americans still support stricter gun laws, assault weapons ban](https://www.fox4news.com/news/americans-support-stricter-gun-laws-assault-weapons-ban)
+### [Suspect in custody after allegedly kidnapping child he met on social media, police say](https://www.fox4news.com/news/suspect-custody-after-allegedly-kidnapping-child-he-met-social-media-police-say)
 
- [![Dallas County man exonerated in 1997 shaken baby case](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/6eb23e0b-gavelnew.jpg?ve=1&tl=1)
+ [![Irving police officer killed in motorcycle crash was 'poster child' for the department, police chief says](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-alex-irving-officer-fatal-motorcycle-crash-5p_00.00.01.48.jpg?ve=1&tl=1)
 
- ![Dallas County man exonerated in 1997 shaken baby case](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2022/10/32/18/592/333/6eb23e0b-gavelnew.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-andrew-roark-exonerated-shaken-baby)
+ ![Irving police officer killed in motorcycle crash was 'poster child' for the department, police chief says](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-alex-irving-officer-fatal-motorcycle-crash-5p_00.00.01.48.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/irving-police-officer-killed-motorcycle-crash-was-poster-child-department-police-chief-says)
 
-### [Dallas County man exonerated in 1997 shaken baby case](https://www.fox4news.com/news/dallas-county-andrew-roark-exonerated-shaken-baby)
+### [Irving police officer killed in motorcycle crash was 'poster child' for the department, police chief says](https://www.fox4news.com/news/irving-police-officer-killed-motorcycle-crash-was-poster-child-department-police-chief-says)
 
- [![An Indian family froze to death at the US-Canada border, a journey that's becoming more common](https://images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/11/32/18/gettyimages-646257654.jpg?ve=1&tl=1)
+ [![Trump's cabinet: Who he's picked so far and which positions remain open](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2183887435-scaled.jpg?ve=1&tl=1)
 
- ![An Indian family froze to death at the US-Canada border, a journey that's becoming more common](https://images.foxtv.com/images.foxtv.com/static.fox9.com/www.fox9.com/content/uploads/2024/11/32/18/592/333/gettyimages-646257654.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/us-canada-border-crossing-indian-family-death-trial)
+ ![Trump's cabinet: Who he's picked so far and which positions remain open](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2183887435-scaled.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-cabinet-appointments-so-far-november-17-2024)
 
-### [An Indian family froze to death at the US-Canada border, a journey that's becoming more common](https://www.fox4news.com/news/us-canada-border-crossing-indian-family-death-trial)
+### [Trump's cabinet: Who he's picked so far and which positions remain open](https://www.fox4news.com/news/trump-cabinet-appointments-so-far-november-17-2024)
 
- [![Obesity could affect 260M Americans by 2050, study warns](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-1264742755.jpg?ve=1&tl=1)
+ [![Trump may attend SpaceX's 'Starship' launch scheduled for Tuesday](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-and-musk.jpg?ve=1&tl=1)
 
- ![Obesity could affect 260M Americans by 2050, study warns](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-1264742755.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/obesity-overweight-americans)
+ ![Trump may attend SpaceX's 'Starship' launch scheduled for Tuesday](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-and-musk.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-may-attend-spacex-starship-launch-tuesday)
 
-### [Obesity could affect 260M Americans by 2050, study warns](https://www.fox4news.com/news/obesity-overweight-americans)
+### [Trump may attend SpaceX's 'Starship' launch scheduled for Tuesday](https://www.fox4news.com/news/trump-may-attend-spacex-starship-launch-tuesday)
 
 ###### [News](https://www.fox4news.com/news)
 
