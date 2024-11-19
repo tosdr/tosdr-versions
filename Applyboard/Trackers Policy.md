@@ -8,7 +8,7 @@
     * [Events](https://www.applyboard.com/resources/events-2)
     * [Blog](https://www.applyboard.com/blog)
     * [ApplyInsights](https://www.applyboard.com/applyinsights)
-    * [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
+    * [Trends Report 2025](https://www.applyboard.com/applyinsights/trends-report-2025)
 * [Login](https://accounts.applyboard.com/)
 * [Register](https://www.applyboard.com/register)
 
@@ -22,7 +22,7 @@ Menu
     * [Events](https://www.applyboard.com/resources/events-2)
     * [Blog](https://www.applyboard.com/blog)
     * [ApplyInsights](https://www.applyboard.com/applyinsights)
-    * [Trends Report 2024](https://www.applyboard.com/applyinsights/trends-report-2024)
+    * [Trends Report 2025](https://www.applyboard.com/applyinsights/trends-report-2025)
 * [Login](https://accounts.applyboard.com/)
 * [Register](https://www.applyboard.com/register)
 
