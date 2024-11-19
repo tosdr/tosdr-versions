@@ -22,7 +22,7 @@ For individuals](https://www.euractiv.com/euractiv-plus)
 [**Euractiv Pro**  
 For policy professionals](https://www.euractiv.com/euractiv-pro)
 
-[Ukraine](https://www.euractiv.com/topics/ukraine0/)[The Capitals](https://www.euractiv.com/sections/the-capitals/)[VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/) | [Newsletters](https://www.euractiv.com/account)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Intelligence](https://intelligence.euractiv.com/)
+[Ukraine](https://www.euractiv.com/topics/ukraine0/)[The Capitals](https://www.euractiv.com/sections/the-capitals/)[VDL 2.0](https://www.euractiv.com/vdl-2-0-commission-tracker/)[Defence](https://www.euractiv.com/topics/defence/)[Enlargement](https://www.euractiv.com/topics/enlargement0/) | [Newsletters](https://www.euractiv.com/newsletters/)[Podcasts](https://www.euractiv.com/podcast)[Videos](https://www.euractiv.com/video/)[Events](https://events.euractiv.com/)[Jobs](https://jobs.euractiv.com/)[Advocacy Lab](https://www.euractiv.com/content_providers/euractivs-advocacy-lab/)
 
 ![Logo](https://www.euractiv.com/wp-content/themes/euractiv-2024/logo.png)  [×](javascript:void(0))
 
@@ -640,7 +640,7 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 * [L'Expresso](https://www.euractiv.com/newsletters)
 * [Le Capitali](https://www.euractiv.com/newsletters)
 * [Agrifood Pro Brief](https://www.euractiv.com/euractiv-pro)
-* [Energy, Environment and Transport Pro Brief](https://www.euractiv.com/euractiv-pro)
+* [Energy, Environment & Transport Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Health Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Technology Pro Brief](https://www.euractiv.com/euractiv-pro)
 * [Jobletter](https://www.euractiv.com/newsletters)
@@ -663,7 +663,6 @@ Languages: [Français](https://www.euractiv.fr/?post_type=page&p=179361) | [Deut
 ##### About Euractiv
 
 * [About us](https://www.euractiv.com/about-euractiv)
-* [Podcasts](https://www.euractiv.com/podcast)
 * [Mediahuis](https://www.mediahuis.com/en/)
 * [Contact us](https://www.euractiv.com/contactus)
 * [Press releases](http://pr.euractiv.com/company/euractiv-39?_ga=2.205483607.690285834.1726672856-146497519.1726672856)
