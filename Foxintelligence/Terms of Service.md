@@ -322,9 +322,9 @@ I want to see
 
 Promote post
 
-[![Webinar-travel](https://www.foxintelligence.io/wp-content/uploads/elementor/thumbs/Webinar-travel-scaled-quvagjim2stzhnd5l7b3x20ce2vxnnynwr8eyew6t8.jpg "Webinar-travel")
+[![3a6a72c1-326c-4cc7-9412-7b2557a2b4ea.black_friday_2024](https://www.foxintelligence.io/wp-content/uploads/elementor/thumbs/3a6a72c1-326c-4cc7-9412-7b2557a2b4ea.black_friday_2024-qxa2sq8kl49455ffnniym2y4ku2uu6mla6y0udbwxo.jpg "3a6a72c1-326c-4cc7-9412-7b2557a2b4ea.black_friday_2024")
 
-Travel Industry Webinar: Summer Holidays and Olympic Games Impact](https://www.foxintelligence.io/travel-industry-webinar-summer-holidays-and-olympic-games-impact/)
+Webinar: Black Friday 2024 Results](https://www.foxintelligence.io/black-friday-2024-results/)
 
 Book a demo
 
