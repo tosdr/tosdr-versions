@@ -34,6 +34,7 @@ Search CLU:  Go
     * [Undergraduate Majors & Minors](https://www.callutheran.edu/academics/majors/)
     * [Bachelor's Degree for Professionals](https://www.callutheran.edu/professionals/)
     * [Graduate Programs](https://www.callutheran.edu/academics/graduate/)
+    * [Online Programs](https://www.callutheran.edu/academics/online-programs/)
     * [Schools & Colleges](https://www.callutheran.edu/academics/schools-colleges.html)
     * [Academic Advising](https://www.callutheran.edu/academics/academic-advising.html)
     * [Career Services](https://www.callutheran.edu/students/career-services/)
