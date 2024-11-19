@@ -1,4 +1,6 @@
-![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-189739140186)                                                   
+![null](https://www.facebook.com/tr?id=1565747026990890&ev=PageView&noscript=1&a=plbigcommerce1.2&eid=store-2-prd-us-central1-189750543872)                                                   
+
+FLASH SALE—$1 Holiday Printable Collections! | [SHOP](https://www.carsondellosa.com/sale/todays-offers/holiday-printable-bulletin-board-sets/)
 
 FREE SHIPPING on Online Orders $40+
 
