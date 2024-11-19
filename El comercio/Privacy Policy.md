@@ -31,1041 +31,1061 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Ucrania ataca por primera vez territorio ruso con misiles
-=========================================================
+¿Cómo una abuela de Zambia se convirtió en ícono de la moda?
+============================================================
 
-El presidente de EE.UU., Joe Biden, autorizó a Kiev el empleo de misiles de largo alcance contra objetivos en territorio ruso, el domingo
------------------------------------------------------------------------------------------------------------------------------------------
-
-![Captura de archivo de un video del Ministerio de Defensa ruso de un blindado atacado en la región de Kursk.](https://www.elcomercio.com/wp-content/uploads/2024/11/Kiev.jpg)
-
-El **Ministerio de Defensa de Rusia** confirmó hoy, martes 19 de noviembre de 2024, el primer ataque ucraniano con misiles balísticos de fabricación estadounidense ATACMS. El ataque estuvo dirigido contra una instalación militar en territorio de este país.
-
-### Más noticias
-
-* [Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales](https://www.elcomercio.com/actualidad/mundo/putin-aprueba-doctrina-que-permite-respuesta-nuclear-a-ataques-convencionales.html "Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales")
-* [Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia](https://www.elcomercio.com/actualidad/mundo/joe-biden-autoriza-misiles-largo-alcance-ucrania-ofensiva-contra-rusia.html "Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia")
-* [Alemania celebra 35 años de la caída del Muro de Berlín con la mirada sobre Ucrania](https://www.elcomercio.com/actualidad/muro-berlin-alemania-ucrania.html "Alemania celebra 35 años de la caída del Muro de Berlín con la mirada sobre Ucrania")
-
-Ucrania realiza el primer ataque con misiles
---------------------------------------------
-
-Según el parte de guerra, se derribaron **cinco misiles** y los fragmentos de un sexto impactaron de fabricación en el recinto **de una instalación militar** en la región fronteriza de Briansk.
-
-“Como resultado, **se declaró un incendio** que se extinguió operativamente. No hay muertos ni heridos”, señala el comunicado castrense colgado en Telegram.
-
-El ataque se perpetró a las 03:25 de la madrugada, “según datos confirmados, con el uso de misiles tácticos ATACMS de fabricación estadounidense”.
-
-Las baterías antiaéreas S-400 y Pantsir **abatieron cinco de los misile**s, precisa el comunicado.
-
-Previamente, el Estado Mayor ucraniano había informado, sin dar detalles del armamento utilizado, sobre **un ataque exitoso** contra un arsenal del Ejército ruso en Briansk.
-
-Presidente de EE.UU. autorizó uso de misiles
---------------------------------------------
-
-Según informaron el domingo medios occidentales, **el presidente de EE.UU., Joe Biden,** autorizó a Kiev el empleo de misiles de largo alcance contra objetivos en territorio ruso.
-
-La prensa informó en principio que el permiso únicamente incluía a la región fronteriza de Kursk, parcialmente ocupada por tropas ucranianas desde agosto. **Donde Moscú habría desplegado** a miles de soldados norcoreanos.
-
-Precisamente, en respuesta a la decisión de Washington, el presidente ruso, **Vladímir Putin,** aprobó hoy la nueva doctrina nuclear rusa que permite el empleo de armamento atómico en caso de ataque [convencional](https://es.wikipedia.org/wiki/Ucrania "https://es.wikipedia.org/wiki/Ucrania").
-
-Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales
-=============================================================================
-
-El documento también considerará "ataque conjunto" la agresión de un país que carezca de armamento atómico
-----------------------------------------------------------------------------------------------------------
-
-![El presidente ruso, Vladimir Putin, en una reunión en Rusia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Putin.jpg)
-
-El presidente ruso, **Vladímir Putin,** aprobó hoy una doctrina nuclear que permite respuestas con armamento nuclear ante ataques convencionales que amenacen la soberanía de **Rusia y Bielorrusia.**
-
-### Más noticias
-
-* [Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia](https://www.elcomercio.com/actualidad/mundo/joe-biden-autoriza-misiles-largo-alcance-ucrania-ofensiva-contra-rusia.html "Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia")
-* [Corea del Norte lanza un misil balístico sin identificar hacia el mar de Japón](https://www.elcomercio.com/actualidad/mundo/corea-del-norte-lanza-un-misil-balistico-sin-identificar-hacia-el-mar-de-japon-2.html "Corea del Norte lanza un misil balístico sin identificar hacia el mar de Japón")
-* [Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut](https://www.elcomercio.com/actualidad/mundo/israel-lanza-nuevo-ataque-contra-edificio-oeste-beirut.html "Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut")
-
-La doctrina autoriza **un ataque nuclear** en caso de que el ataque convencional enemigo suponga “una amenaza crítica para la soberanía y (o) integridad territorial”. Esto aplica para ambos países, que integran la Unión Estatal Rusia-Bielorrusia.
-
-El documento también considerará **“ataque conjunto”** la agresión de un país que carezca de armamento atómico, pero que tenga el respaldo de una potencia nuclear.
-
-La doctrina publicada amplía la categoría de alianzas militares contra las que **Rusia** aplicará la estrategia de disuasión nuclear. El documento se publicó en el portal de información legal del Estado ruso.
-
-“La agresión de cualquier Estado perteneciente a **una coalición militar** (bloque, alianza) contra la Federación de Rusia y (o) sus aliados es vista como una **agresión de la coalición** en su conjunto”, señala.
-
-Estas **dos últimas cláusulas** son consideradas por los analistas como una clara advertencia a Estados Unidos y la OTAN, en caso de que **decidan involucrase directamente** en el conflicto en Ucrania.
-
-La doctrina nuclear
--------------------
-
-Rusia puede recurrir a las **armas nucleares** también en caso de “ataque masivo” con aviones de guerra, misiles de crucero, hipersónicos, drones y otros aparatos no tripulados que **violen el espacio aéreo** del país.
-
-Por primera vez, **el documento alude no solo a la aviación** y a aparatos hipersónicos enemigos, sino también a drones. Esto pues es un instrumento de guerra que **ha adquirido una gran popularidad** en los últimos años.
-
-Al mismo tiempo, **la doctrina subraya que Rusia** ve las armas nucleares como “un instrumento de disuasión” de carácter defensivo, cuyo empleo es una “medida extrema y forzosa”.
-
-Putin había anunciado los cambios en la **doctrina nuclear** a finales de septiembre, pero la promulgó justo cuando se cumplen **1 000 días de combates** en Ucrania.
-
-Además, el anuncio tiene lugar después de que EE.UU., según la prensa occidental, autorizara a Ucrania el empleo de misiles de largo alcance contra territorio ruso.
-
-Putin, que aprobó tras el comienzo de la **guerra el despliegue de armas nucleares** tácticas en Bielorrusia, había advertido que dicha decisión significaría que EEUU y la OTAN “están en [guerra con Rusi](https://es.wikipedia.org/wiki/Ucrania "https://es.wikipedia.org/wiki/Ucrania")a”.
-
-Cuándo y por qué se conmemora el Día del Hombre
-===============================================
-
-Cada 19 de noviembre se celebra el Día Internacional del Hombre.
-----------------------------------------------------------------
-
-![Seis pilares guían el Día Internacional del Hombre. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/Dia-del-Hombre.jpg)
-
-El **Día Internacional del Hombre** se conmemora cada 19 de noviembre. Esta fecha fue establecida en 1992 por **Thomas Oaster**, director del **Centro de Estudios Masculinos** en la Universidad de Misuri-Kansas. Sin embargo, **su reconocimiento global comenzó en 1999, cuando se celebró por primera vez en Trinidad y Tobago**. En esa ocasión, el **profesor Jerome Teelucksingh** organizó seminarios sobre violencia doméstica y modelos masculinos para honrar a su padre en su cumpleaños, según la web del [Parlamento Andino](https://www.parlamentoandino.org/index.php/actualidad/noticias/868-dia-internacional-del-hombre "https://www.parlamentoandino.org/index.php/actualidad/noticias/868-dia-internacional-del-hombre"). 
-
-### Más noticias
-
-* [¿Cuándo se celebra el Día del](https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html "https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html") [H](https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html "https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html")[ombre?](https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html "https://www.elcomercio.com/sociedad/dia-internacional-celebracion-hombre-genero-mundial.html")
-* [¿Cuándo es el Día del hombre?](https://www.elcomercio.com/actualidad/mundo/cuando-dia-del-hombre.html "https://www.elcomercio.com/actualidad/mundo/cuando-dia-del-hombre.html")
-
-La iniciativa de Oaster buscaba **abordar temas cruciales** como la salud masculina, la promoción de modelos masculinos positivos, y la importancia de la equidad de género. **La idea fue respaldada por Ingeborg Breines**, directora del programa Mujeres y Cultura de Paz de la Unesco, quien consideró que era necesario equilibrar las representaciones de género en la sociedad, de acuerdo con [Día Internacional De](https://www.diainternacionalde.com/ficha/dia-internacional-del-hombre "https://www.diainternacionalde.com/ficha/dia-internacional-del-hombre").  
-
-**Objetivos y temas** 
-----------------------
-
-Desde su creación, el **Día Internacional del Hombre** ha tenido varios objetivos fundamentales. En 2009, se definieron seis pilares que guían esta celebración: 
-
-1. Promover modelos masculinos positivos. 
-
-2. Celebrar las contribuciones positivas de los hombres a la sociedad. 
-
-3. Centrarse en la salud y el bienestar de los varones. 
-
-4. Mejorar las relaciones interpersonales de género. 
-
-5. Destacar la discriminación hacia los hombres. 
-
-6. Crear un mundo más seguro y mejor para todos. 
-
-Estos pilares buscan no solo **resaltar las virtudes masculinas**, sino también **abordar los desafíos que enfrentan los hombres en diversas áreas**. 
-
-**Importancia de la salud masculina** 
---------------------------------------
-
-Un aspecto crucial del **Día Internacional del Hombre** es la **atención a la salud masculina**. Según la **Organización Mundial de la Salud** (OMS), los hombres suelen tener menos acceso a servicios médicos y son menos propensos a buscar atención cuando están enfermos. Esto contribuye a una **menor esperanza de vida** en comparación con las mujeres, a decir del Parlamento Andino.  
-
-Así funciona el Pico y placa en Quito este martes 19 de noviembre
-=================================================================
-
-Infórmate sobre las restricciones y documentos necesarios para circular en Quito este martes. Revisa la fecha de caducidad de tus documentos.
----------------------------------------------------------------------------------------------------------------------------------------------
-
-![La medida se implementa en Quito para tratar de regular el tránsito.](https://www.elcomercio.com/wp-content/uploads/2024/11/pico-y-placa.jpg)
-
-La medida d**el Pico y placa** sigue vigente en Quito para restringir la **movilidad de ciertos vehículos** un día de la semana, **según el último dígito** del registro metálico.
-
-### Más noticias
-
-* [Quito tendrá el desfile de los mercados por sus fiestas](https://www.elcomercio.com/actualidad/quito/quito-tendra-desfile-mercados-fiestas.html "Quito tendrá el desfile de los mercados por sus fiestas")
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
-* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
-
-El esquema de aplicación del Pico y Placa
------------------------------------------
-
-En la mañana la medida se aplica en un **horario de 06:00 a 09:30** y en la tarde, de 16:00 a 20:00.
-
-Según el **último dígito de la placa**, el cronograma es el siguiente:
-
-* **Lunes:** placas terminadas en 1 y 2.
-* **Martes**: placas terminadas en 3 y 4.
-* **Miércoles**: placas terminadas en 5 y 6.
-* **Jueves**: placas terminadas en 7 y 8.
-* **Viernes:** placas terminadas en 9 y 0.
-
-Este martes, **todos los vehículos pueden circular** debido a que en feriados no se aplica la medida.
-
-Documentos necesarios para circular
------------------------------------
-
-Para circular, es **esencial tener la licencia** y la matrícula vigentes.
-
-Si tu licencia está caducada, debe**s seguir estos pasos** para renovarla:
-
-* Generar una orden de pago en la página de la Agencia Nacional de Tránsito (ANT).
-* Cancelar el valor correspondiente, ya sea en línea o en puntos físicos de pago.
-* Obtener un turno para la emisión de la licencia en la agencia de tu preferencia.
-* Acercarte a la agencia 15 minutos antes de la hora asignada, presentar el turno impreso con la hora y día agendado.
-* Realizar la evaluación teórica.
-* Esperar la entrega de la nueva licencia.
-
-Si tu licencia está **próxima a caducarse y** tu turno es aún lejano, puedes mostrar impreso el turno cuando los agentes de tránsito te detengan.
-
-Colaboración ciudadana en el Pico y placa
------------------------------------------
-
-El **Municipio de Quito** insta a los conductores a cumplir con las restricciones del Pico y placa para mejorar el flujo vehicular en las horas pico.
-
-Planificar los recorridos y verificar que todos **los documentos estén en regla** es fundamental para evitar sanciones y garantizar una movilidad más eficiente.
-
-En conclusión, este martes, **los vehículos con placas terminadas en 3 y 4** no pueden circular dentro de Quito. Asegúrate de tener tu licencia y matrícula vigentes para evitar [inconvenientes](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito").
-
-> 🚨[#AMTInforma](https://twitter.com/hashtag/AMTInforma?src=hash&ref_src=twsrc%5Etfw) | ¡Ponte pilas!  
->   
-> 💁 Recuerda, hoy la medida “Pico y Placa” se mantiene con normalidad.  
->   
-> Respeta las normas de tránsito y evita sanciones.  
->   
-> 🚘 Con cultura vial [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/zPj1sgdKTa](https://t.co/zPj1sgdKTa)
-> 
-> — AMTQuito (@AMT\_Quito) [October 15, 2024](https://twitter.com/AMT_Quito/status/1846123824149868564?ref_src=twsrc%5Etfw)
-
-¿Qué estamos haciendo con la naturaleza en Ecuador?
-===================================================
-
-En Azuay se presentaron denuncias en contra de los supuestos autores de los incendios en el Parque Nacional Cajas.
-------------------------------------------------------------------------------------------------------------------
-
-![Con helicópteros, bomberos y voluntarios se intenta apagar el fuego en el Parque Nacional Cajas y sus inmediaciones. Cortesía: Bomberos Cuenca](https://www.elcomercio.com/wp-content/uploads/2024/11/cajas.jpg)
-
-Incendios forestales como el que afecta al **Parque Nacional Cajas** y sus inmediaciones en **Azuay** podrían ser provocados. Las autoridades locales presentaron **denuncias** en contra de los supuestos autores. Incluyen **pruebas y testimonios.**
-
-Solo pensar que fueron ocasionados, nos debe llevar a una **profunda reflexión**. ¿Cómo están los valores, conciencia… de la sociedad en Ecuador?
-
-> ¿Es posible que hayamos llegado a un punto en el que los intereses puntuales, económicos, políticos o de cualquier índole superen el bien común?
-
-El **Parque Nacional Cajas** tiene 28 544 hectáreas y se caracteriza por su geografía montañosa, lagunas y un ecosistema único que alberga una gran variedad de flora y fauna.
-
-La importancia del Cajas radica no solo en su valor ecológico, sino también en su papel como fuente de recursos hídricos. Las más de **200 lagunas** del parque son esenciales para el abastecimiento de agua potable y riego en Cuenca.
-
-Ecuador está pendiente de lo que ocurre con la sequía en Cuenca, que ya lleva 129 días. Es la más prolongada de los últimos 51 años. Desde 1973 se empezaron a llevar registros.
-
-Precisamente, el Parque Nacional Cajas es el **principal humedal** desde donde nacen los ríos cuencanos como el **Tomebamba**, que son vitales para el **embalse de Mazar.**
-
-Esta reserva es administrada, manejada, regulada y controlada por la empresa municipal Etapa desde el 2000. La intención es mantener intactos sus recursos naturales, pero ahora el impacto será muy grave.
-
-De forma preliminar, se estima que son más de 1 000 hectáreas consumidas por el fuego y hay impactantes imágenes de animales quemados y flora perdida.
-
-Los daños en otras provincias como **Loja** también son incalculables para la flora, fauna y la salud de las personas. Los habitantes de **Cuenca y Loja** respiraron a**ire entre poco saludable y peligroso**. Muy pocos usaron mascarillas porque aún no hay un nivel de conciencia de los efectos que se producen.
-
-Las **autoridades locales y las judiciales** tienen un **reto muy importante**. De ratificarse que estos incendios fueron provocados, los **jueces deben hacer cumplir la ley** y estar a la altura de los bomberos y voluntarios que se esfuerzan por apagar el fuego. 
-
-Cartas a Quito / 19 de noviembre de 2024
-========================================
-
-Estas son las cartas a Quito de este martes 19 de noviembre de 2024
--------------------------------------------------------------------
-
-![Cartas a Quito. Foto: Archivo / EL COMERCIO](https://www.elcomercio.com/wp-content/uploads/2024/04/CARTAS-A-QUITO-1.jpg)
-
-Hablemos de intergeneracionalidad
----------------------------------
-
-Pronunciarlo es casi un trabalenguas, pero aproximarse a esta cuestión desde un ángulo jocoso o trivial, no supone a mi entender acierto. Su calado va mucho más allá y se codea con otros grandes retos de nuestra civilización en el momento en el que se encuentra, tales como la sostenibilidad. Sin embargo, no apreciamos su dimensión y mucho menos su repercusión, aunque como tantas otras cuestiones, su abordaje llegará pronto y no será un acto de voluntad sino de necesidad.
-
-Vivimos en la sociedad del desperdicio, y lo afirma esta viajera empedernida que ha recorrido muchos lugares del planeta en el que todo se aprovecha y recicla varias veces, dado que cuando se carece de hasta lo imprescindible, cualquier posesión/propiedad se considera un tesoro.
-
-Pero nuestra inconsciencia derrochadora es tal que no la limitamos a recursos naturales y materiales, sino que la extendemos a ámbitos del conocimiento, la experiencia, la creatividad, la genialidad. En una sociedad en la que perseguimos inclusión, léase movilidad, diversidad… establecemos acérrima discriminación en función de las edades. Sentenciamos “que si los jóvenes no saben, que si los viejos no entienden. “Topicazos”, que a menudo esconden nuestros propios egoísmos e inseguridades. Los factores económicos, en empresas y corporaciones, también nutren este despilfarro.
-
-Pero hemos de caer en la cuenta de que todo cambia y lo hace muy rápido. Y con una esperanza de vida alargada como los rayos de sol en un atardecer, los llamados viejos de antes son los madurit@s de hoy y probablemente serán jóvenes en un mañana.
-
-No caemos en la cuenta, de que el secreto de la supervivencia de nuestra especie es la adaptación, y que estamos programados para ello. Por tanto, las descalificaciones generales por cuestión de edad, basándonos en prejuicios, modas, miedos o intereses; vacuo valor tiene. Máxime, cuando si damos una oportunidad al individuo o individua, este nos demuestra que nos encontramos equivocados.
-
-Me reitero en que una sociedad inteligente, es aquella que aprovecha y valoriza todos sus recursos, naturales, materiales y humanos, y en esta gran cuestión de edadismo, se necesita un gran pacto. La involucración de todos los agentes, porque requiere de un cambio de mentalidad y eso no se logra de la noche a la mañana, con fuegos artificiales cuya pólvora se difumina en momentos.
-
-Integremos en nuestra agenda este nuevo reto y abandonemos ese camino fácil que nos lleva a una nueva fragmentación. Extraigamos el haber de cada ser humano para situarlo en el lugar que corresponde y que no es otro, que el que más le enriquece y como sociedad más nos aporta.
-
-No desechemos nada, no desterremos a nadie.
-
-Cristina Maruri
-
-La construcción de los saberes
-==============================
-
-La transposición didáctica explica la evolución de los conceptos, desde los saberes expertos hasta los saberes escolares.
--------------------------------------------------------------------------------------------------------------------------
-
-![La construcción de saberes -desde las teorías y métodos que las sustentan- implica una serie de procesos rigurosos.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2-3.jpg)
-
-**La construcción de los saberes es un tema intocado en los sistemas educativos.** La razón estriba en que los profesores, en su mayoría, aceptamos los temas que aprueban los ministerios de Educación -sin beneficio de inventario-, en las mallas curriculares, que más tarde son desarrolladas por las empresas editoriales con especialistas en las cuatro macroáreas: **Lenguaje, Matemática, Ciencias Naturales y Estudios Sociales.**
-
-¿Cómo se construyen los saberes?
---------------------------------
-
-**Es una pregunta a veces incómoda** porque la formación de los docentes está instalada en conocimientos descritos y explicados en manuales, guías o textos oficiales. **En pocas ocasiones se presentan discrepancias o propuestas argumentadas, desde el punto de vista científico**, para contribuir a la mejora de un texto escolar, salvo casos excepcionales cuando se identifican fallas de contenido. **Lo anterior parece obvio, porque los temas son públicos; por lo tanto, obligatorios y gratuitos.**
-
-La realidad es diferente: **los saberes son dinámicos, y no están escritos en piedras.** Los conocimientos científicos cambian no solo de un año escolar a otro -como se piensa-, sino de un mes a otro, de una semana u otra. **Los casos son evidentes en todas las ciencias, y no solo en la biología, como se cree.**
-
-**La construcción de saberes** -desde las teorías y métodos que las sustentan- **implica una serie de procesos rigurosos, que una disciplina ha intentado descifrar: la transposición didáctica.**
-
-Del conocimiento experto al saber enseñado
-------------------------------------------
-
-Una apreciación preliminar: todas las **“materias” o “asignaturas”** que se enseñan en los sistemas educativos formales y no formales, responden a modelos disciplinares que se inspiran en las **ciencias duras** -Matemática, Física, Química, Biología y Tecnología, fundamentalmente-, y en las **ciencias blandas o sociales** -Psicología, Sociología, Economía, Pedagogía, entre otras-.
-
-Existe un mapa de asignaturas -parecido a la **Tabla Periódica de los Elementos**\-, que sirvió en una época, pero que ahora es obsoleto. **Edgar Morin**, científico francés, fue el encargado de demoler la vigente sistematización de las ciencias en disciplinas, mediante **la teoría y método de la complejidad**; sin embargo, **el paradigma disciplinar subsiste porque agrada a los profesores y didactistas.**
-
-**¿Qué formula la transposición didáctica?** Intenta pasar o transferir, de manera coherente, el conocimiento experto -de filósofos, científicos, investigadores- a los estudiantes y, en primer lugar, a los docentes o enseñantes.
-
-En otros términos: **adapta los saberes científicos (difíciles y complicados, basados en fórmulas, axiomas y algoritmos) a las necesidades de aprendizaje de los estudiantes, según los grupos etarios.** Para ello utiliza la didáctica, entendida como la ciencia y el arte de enseñanza, creadas por **Juan Amos Comenio**, checo (1592), teólogo, filósofo y educador, quien lideró la revolución de la pedagogía y la didáctica como ciencias autónomas.
-
-Creadores
----------
-
-**Yves Chevallard, didacta de las matemáticas,** propuso en 1975 la **teoría de la transposición didáctica** reconocida y aplicada en las numerosas disciplinas escolares, aunque algunos atribuyen la paternidad del concepto de transposición didáctica a **Michel Verret**, quien, en una tesis doctoral, planteó que **“la didáctica es la transmisión de aquellos que saben a aquellos que no saben, de los que han aprendido a aquellos que aprenden”.**
-
-Chevallard sostiene que “**el estudio de la transposición didáctica implica una “vigilancia epistemológica”,** esto es, examinar la distancia, vista por la deformación que existe entre el objeto de saber **(del saber erudito)** y el objeto de enseñanza **(del saber a enseñar).**
-
-Saberes transmitidos
---------------------
-
-**Convertir una teoría en un objetivo de enseñanza es el punto focal de la transposición didáctica**, hoy asistida con una herramienta valiosa como es la **“Taxonomía de Bloom Digital”**, tratada en otro ensayo.
-
-En el presente caso, **la transmisión de los saberes no culmina con el aprendizaje memorístico -a veces sin entender-, sino en el desarrollo de competencias –**la comprensión es importante- para el logro del **aprendizaje autónomo y crítico, inscritos en otras habilidades como la investigación, de la mano de la observación, la experimentación y la aplicación del método científico.**
-
-En síntesis, dicen sus creadores, **es urgente evitar “la transmisión burocrática de los saberes, a través de un proceso de transformación -no mecánico- de los saberes sabios en saberes aprendidos”.**
-
-**¿Una política pública sobre la transposición didáctica?**
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-6-1024x683.jpg)
-
-Antonioni, la voracidad del vacío
-=================================
-
-Un cine de personajes alienados y solitarios que refleja la incomunicación y decadencia social.
------------------------------------------------------------------------------------------------
-
-![Marco Antonio Rodríguez, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Marco-Antonio-Rodriguez-1.jpg)
-
-En 1986, Michelangelo Antonioni (Italia, 1912-2007), uno de los grandes **directores del cine de oro** italiano y mundial, sufrió un accidente cerebrovascular que diezmó su porte gallardo y brioso, celebrado como el de uno de los más apuestos galanes de **cine** de su tiempo. La llanura de Ferrara donde nació formó su **sensibilidad creadora**. Horizonte sin finales. Niebla y presagio. Luz que dibuja y borra; altera, quebranta y reaviva; devasta y devora. Soledad originaria, desnuda, inviolada.
-
-La niebla cerrada y la luz deslucida de su primer documental, _Gente de Po_ (1947), devinieron recursos constantes de su **filmografía**. Los dos consumen a los **personajes** y entumecen el tiempo. Lejanía. Apartamiento de lo que nos rodea. Nuestros sentimientos –creía el **cineasta**– nacen, viven y mueren enfermos. Todas las **narraciones** de sus **filmes** se disipan como aventados por una ráfaga de la nada; sin embargo, dejan en el **espectador** señales imborrables. Es el **prodigio** del **cine arte**: asombro, extrañeza, desconcierto.
-
-Antonioni, el poeta del desarraigo
-----------------------------------
-
-El **ser humano** exiliado de él mismo, de los demás y de sus circunstancias, merodea el cine de Antonioni; personajes, los suyos, que se desvanecen como por encantamiento. Más que distanciamiento, ellos rezuman **denegación**, tedio, hartura de vivir, a veces, incluso, de lo soñado. Arquitecto de un universo propio, no solo se aparta de sus **protagonistas**, sino que los rehúsa. El **ser humano** como un rasgo en su escenario. Especie de **caligrafía** china. Va y viene, va y viene: ¿simples **marionetas** menguadas por la alienación y la incomunicación?
-
-**Aristócrata** sin escudo nobiliario, la vida de **Antonioni** fue la de un explorador de los recintos de nuestras interioridades. Desde su derrame cerebral, no podía hablar ni movilizarse, pero violentaba su mano izquierda para escribir. **Artista** de cultura universal, fue reconocido por su **escritura**, como crítico y autor de sus guiones. En 1995 reapareció con el filme _Más allá de las_ _nubes_. Relato de un amor que jamás existió. No obstante, un aire menudo sobrevuela para enseñarnos la nimiedad del **amor humano** ante la grandeza de quienes creen en el amor a un ser superior, somos “una cerilla en medio de una alcoba incendiada de sol”.
-
-En _El eclipse_ (1962) Mónica Viti encarna la soledad. El **legendario** actor Alain Delon es un mero **interlocutor** de ella, suerte de caja de resonancia. El filme es una **apología** de la **soledad** existencial. En la última escena asciende la música de Prokófiev y el poder secreto de su ritmo acerado. Los diálogos se silencian. Solo quedan Roma y sus calles desamparadas, árboles fantasmales y trazos de rostros a la deriva. Huida hacia la nada. Los contornos se difuminan y el tiempo se embalsama.
-
-El **tríptico** sobre la burguesía italiana, _La aventura_ (1960), _La noche_ (1961) y _El eclipse_ (1962), semeja un mural pintado en tres paneles sobre la **decadencia** y ruina de la burguesía de su país de origen y de toda Europa. Ensayo refinado de las posibilidades lingüísticas del cine como reproductor de revoluciones **sociopolíticas**. Cine de vuelos históricos sobre una **clase social** corroída por la vileza y el vacío.
-
-Julio Pollino Tamayo, crítico de cine, dice, sin ambages de _Blow-Up_: “Considero a _Blow-Up_ la única película indispensable de la historia del cine”. Se trata, sin duda, de un **filme excepcional**. Con base a un relato de Julio Cortázar, a quien el maestro lo muestra en un cameo (intervención fugaz), casi nada toma de este. Londres. **Artistas** del movimiento pop. **Aventura** de un fotógrafo que desvela un asesinato valiéndose de sus fotografías, pero que no le sirven para probar el delito. Abstracción pura. Esencia de la exclusión del ser de sí mismo. Orfandad, desamparo, desarraigo del ser. Transgresión. Ruptura. Misterio y magia. Soledad y vacío como nuestra única sustancia. Esta película de Antonioni es, acaso, la que más ha influido en **directores** y **cineastas**.
-
-No fue su última cinta, pero el **histórico cortometraje** _La mirada_ debió serlo. Él llega a una iglesia. Su sombra arrebatada por el camino lo precede como en un ceremonial. El maestro llevaba casi veinte años sin caminar. Pero él es capaz de retar su **debilidad** y transformar lo ilusorio o fantástico en realidad. Sí, es él. Lento y acaso solemne por algo que dejó para que discurrieran los demás, se acerca al sitio donde se está restaurando el _Moisés_ de Miguel Ángel, mucho tiempo alojado en las **tinieblas** de alguna bodega. _Moisés_ redivivo, Antonioni caminando. El milagro. Los cuerpos. Mármol y carne. El **cine**. El silencio. Juntos, en el vacío que sienten los dos. Antonioni sigue, ¿hacia dónde? ¿Hacia la luz que llene su vacío?
-
-Chofer de bus amenazó con un machete a otro conductor en Quito
-==============================================================
-
-La AMT y la cooperativa de transporte del bus involucrado se pronunciaron sobre el incidente ocurrido en el norte de Quito.
----------------------------------------------------------------------------------------------------------------------------
-
-![El chófer del bus increpó al ciudadano con un machete](https://www.elcomercio.com/wp-content/uploads/2024/11/cochapamba-bus-machete-quito.jpg)
-
-Un altercado entre **dos conductores** que tuvo lugar en una calle del **norte de Quito** se viralizó en redes sociales. La actitud **violenta** de uno de ellos, quien a**menazó con un machete** a un ciudadano, trajo varias consecuencias.
-
-### Más noticias
-
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
-* [La actitud al volante es vital para el tránsito de Quito en los apagones](https://www.elcomercio.com/actualidad/quito/actitud-volante-transito-apagones-quito.html "La actitud al volante es vital para el tránsito de Quito en los apagones")
-* [AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina](https://www.elcomercio.com/actualidad/quito/amt-habla-de-sanciones-a-conductoras-que-irrumpieron-en-la-carolina.html "AMT habla de las sanciones a las conductoras que irrumpieron en La Carolina")
-
-Un hombre manejaba un vehículo liviano por una doble vía del barrio **Cochapamba** cuando se encontró con un **bus de transporte** urbano que subía de frente.
-
-Otros carros parqueados a los costados no permitían que ambos vehículos pasaran. Ante la negativa de ambos conductores de ceder el paso y retroceder, el chofer de la unidad **increpó al ciudadano** en varias ocasiones con un machete.
-
-En las imágenes se observa como una pequeña, que se encontraba en el vehículo liviano, comenzó a llorar, **atemorizada** por el incómodo momento.
-
-El video grabado por el conductor amenazado se difundió en **redes sociales** a las pocas horas de lo sucedido, la tarde del domingo 17 de noviembre de 2024.
-
-El violento hecho **causó molestia en la ciudadanía**, quienes solicitaban que la Agencia Metropolitana de Tránsito actuara[.](https://www.amt.gob.ec/ "https://www.amt.gob.ec/")
-
-AMT se pronunció tras el incidente
-----------------------------------
-
-Ante ello, la entidad a cargo de la movilidad en Quito difundió un comunicado en la que advirtió **la apertura de un proceso** para el conductor y la cooperativa.
-
-La AMT rechazó “todo tipo de violencia por parte de conductores de vehículos motorizados”y aseguró que remitirá un informe a la **Secretaría de Movilidad** para que se realice el respectivo proceso.
-
-Esto, “con la finalidad de establecer precedentes y prevenir otros actos similares”.
-
-Asimismo, la entidad se comprometió a **capacitar** a los demás conductores de la cooperativa de transporte involucrada.
-
-> 📢 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Ante el video que circula en redes sociales, la AMT rechaza 🚫 todo tipo de violencia en las vías.  
-> ✅ Hemos remitido el caso a la Secretaría de Movilidad.  
->   
-> 🚍 ¡Conduce con respeto y empatía por un tránsito seguro para todos! 🚦  
-> ☀️ [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/oStbTAmcsa](https://t.co/oStbTAmcsa)
-> 
-> — AMTQuito (@AMT\_Quito) [November 18, 2024](https://twitter.com/AMT_Quito/status/1858623850092601819?ref_src=twsrc%5Etfw)
-
-Conductor del bus habló de lo sucedido
---------------------------------------
-
-Sobre el incidente también pronunció el chofer de la unidad 80, que brinda servicio en la ruta **Cochapamba – El Labrado**, en el Sistema Integrado Trolebús.
-
-El hombre identificado como **Jorge M.**, de 70 años, justificó su mal accionar en la molestia que le causó que el otro conductor no le cediera el paso.
-
-“Yo bajé a decirle al señor que por favor me dé paso, yo tengo un tiempo límite para subir y bajar por esta ruta, cómo me cerró el vidrio y no me dejaba pasar, **me indigné**“, comentó a los medios de comunicación.
-
-Sobre el porqué llevaba un **arma blanca** consigo, el conductor dijo: “Yo llevo el machete por seguridad, yo salgo a las 04:00 de mi casa y me toca llevarlo para cuidarme”.
-
-En sus declaraciones, el ciudadano **reconoció su error**: “Yo cometí un error, estoy consciente de eso, pero yo pienso que debía darme prioridad él a mí porque yo subía por la calle”, mencionó el conductor.
-
-Chófer fue separado de la cooperativa
--------------------------------------
-
-Por su parte, el gerente de la cooperativa Catar, **Edwin Viveros**, ofreció disculpas a la ciudadanía por lo sucedido y aseguró que tras el hecho, **el chofer fue separado de forma indefinida** de la empresa de transporte público.
-
-“Estamos buscando los videos completos, sabemos que otros vecinos fueron testigos de lo que pasó, al parecer el incidente duró más de ocho minutos”, dijo Viveros.
-
-Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?
-==========================================================================================
-
-Los cortes de luz en Ecuador bajaron a 8 horas diarias gracias a la compra de energía de Colombia y mejores condiciones hídricas. La crisis eléctrica sigue impactando al país.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![La compra de energía desde Colombia se reanudó desde el 17 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/electricidad-2.jpg)
-
-Los **cortes de luz** se redujeron de 12 a ocho horas diarias desde este 18 de noviembre de 2024 en todo el Ecuador. La reducción de los **racionamientos eléctricos** responde a la **compra de energía a Colombia** y a la **mejora de las condiciones hídricas** de los afluentes de la zona oriental del país[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
-
-### Más noticias
-
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
-* [Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia")
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-
-La ministra de Energía, **Inés Manzano**, confirmó que la transferencia de energía desde Colombia se reanudó el domingo 17 de noviembre, con un promedio de entrega de 420 megavatios (MW) diarios. Para este lunes 18, se proyectó un incremento a 440 MW. Ambos países trabajaron en ajustes regulatorios para viabilizar esta transacción comercial**.**
-
-¿Por qué podemos importar energía desde Colombia?
--------------------------------------------------
-
-**Ecuador y Colombia** están conectados a través de un sistema de interconexión eléctrica. Esto les permite intercambiar energía según las necesidades y capacidades de cada país, señaló **Marco Acuña**, presidente del Colegio de Ingenieros Eléctricos de Pichincha. . Esta red tiene una capacidad de transmisión de hasta 450 MW.
-
-Además, el 15 de noviembre de 2024, Colombia aprobó una resolución que permitió retomar las exportaciones hacia Ecuador, después de haberlas suspendido el 30 de septiembre. La venta de energía se interrumpió debido a la grave crisis hidrológica que atraviesa la región.
-
-Esto llevó a Colombia a preservar el agua de sus **embalses hidráulicos** y recurrir a la generación de energía térmica para abastecer su mercado interno. Sin embargo, durante la segunda semana de noviembre, los embalses colombianos recuperaron más del 60% de su capacidad, lo que permitió reanudar las exportaciones hacia Ecuador.
-
-Un modelo basado en excedentes
-------------------------------
-
-La compra de energía a **Colombia actual** no es un **acuerdo a largo plazo**, sino una relación de compra diaria, sujeta al nivel de los embalses y la disponibilidad de excedentes, explicó la ministra Manzano.
-
-Esto incluye energía generada a partir de combustibles líquidos (diésel y fueloil), térmica, generada con gas natural o carbón e incluso provenientes de fuentes **hidráulicas**, en ese orden de prioridad. Es decir, la energía que venden a Ecuador proviene primero de combustibles líquidos, que es la más costosa.
-
-Precio de la energía importada
-------------------------------
-
-El precio del kilovatio hora (kWh) varía según la fuente de generación.
-
-* La energía producida con diésel o fuel oil oscila entre 35 y 45 centavos de dólar, es la que estamos pagando en este momento.
-* La generada con gas natural o carbón se sitúa entre 15 y 30 centavos de dólar.
-* La energía hídrica, la más económica, está por debajo de los 15 centavos de dólar por kWh.
-
-Crisis hídrica impacta centrales hidroeléctricas clave del Ecuador
-------------------------------------------------------------------
-
-Recordemos que **Ecuador** atraviesa una grave **crisis eléctrica** desde hace casi dos meses. El déficit energético de 1 080 MW, acompañado de una de las peores sequías de los últimos 60 años, ha obligado a las autoridades a programar continuos y prolongados **cortes de luz** y a buscar energía en el país vecino.
-
-La falta de agua afecta la **generación hidroeléctrica** del Ecuador. Por ejemplo, el Complejo Hidroeléctrico Paute, en el Austro del país, no puede operar al 100% por falta del recurso hídrico.
-
-Este Complejo Hidroeléctrico está integrado por las centrales **Mazar, Paute-Molino y Sopladora**, que juntas alcanzan una potencia instalada de 1 700 MW.
-
-Sin embargo, el 18 de noviembre solo operaron **Paute-Molino**, con tres de sus 11 turbinas, y **Sopladora**, con una de sus cuatro unidades. Ambas centrales reanudaron operaciones a partir de las 13:00 de este lunes, tras estar inactivas los días 16 y 17 de noviembre. Por su parte, **Mazar** sigue fuera de operación desde el 15 de noviembre.
-
-El **embalse Mazar**, que alimenta estas tres centrales, está en un nivel crítico, señaló, **Acuña**. La cota del reservorio se ubicó en 2 110,99 metros sobre el nivel del mar (m.s.n.m), cuando el nivel mínimo recomendado para operar sin riesgo es de 2 115.
-
-Es decir, le falta completar una altura de más de 4 metros con agua. Este reservorio tiene una extensión de 31 kilómetros.
-
-Condición de Coca Codo Sinclair
--------------------------------
-
-Por su parte, la central **Coca Codo Sinclair**, ubicada entre las provincias de **Napo y Sucumbíos**, en la Amazonía del Ecuador, operó a un promedio del 20% de su capacidad la segunda semana de noviembre. Sin embargo, el Ministerio de Energía reportó un incremento de generación, debido a la mejora de los caudales entre el 16 y 17 de noviembre. Esto, junto a la energía proveniente de Colombia, contribuyó a la reducción de horas de cortes de luz desde este 18 de noviembre.
-
-Para el presidente del Colegio de Ingenieros Eléctricos de Pichincha, el **acuerdo de compra de energía de Colombia** alivia **temporalmente la crisis en Ecuado**r. Sin embargo, señaló la importancia de **preservar los embalses nacionales** y realizar mantenimientos en las **centrales térmicas** para garantizar un sistema eléctrico estable en el futuro cercano.
-
-Clases se modifican en Azuay y Loja por fuertes incendios forestales
-====================================================================
-
-El Ministerio de Educación cambió la modalidad de clases en escuelas y colegios de Azuay y Loja por los voraces incendios forestales.
--------------------------------------------------------------------------------------------------------------------------------------
-
-![Las clases en tres cantones del sur de Ecuador cambiaron su modalidad](https://www.elcomercio.com/wp-content/uploads/2024/11/incendios-forestales-clases.jpg)
-
-El **Ministerio de Educación** informó las **escuelas y colegios** de tres cantones del sur de Ecuador cambiarán la modalidad de sus **clases** a **no presenciales**. La decisión obedece a la emergencia por **incendios forestales** que se registra en **Azuay y Loja**.
-
-### Más noticias
-
-* [Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-incendios-creados-manabi.html "Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí")
-* [Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía](https://www.elcomercio.com/actualidad/ecuador/ecuador-declara-emergencia-nacional-por-incendios-deficit-hidrico-y-sequia.html "Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía")
-* [Loja y Azuay suman miles de hectáreas quemadas](https://www.elcomercio.com/actualidad/ecuador/loja-azuay-suman-miles-hectareas-quemadas.html "Loja y Azuay suman miles de hectáreas quemadas")
-
-Al menos 3 700 hectáreas destruidas en los incendios forestales
----------------------------------------------------------------
-
-Según el último informe del Ministerio del Ambiente, Agua y Transición Ecológica (Maate), compartido la tarde de este lunes 18 de noviembre de 2024, los incendios forestales avanzan en estas dos provincias.
-
-Los trabajos en las parroquias de **San Pedro de Vilcabamba, Malacatos y Vilcabamba** continúan. La afectación en estos lugares asciende a las **3 709 hectáreas**,
-
-En el **Parque Nacional Podocarpus**, provincia de Loja, 136 efectivos de varias instituciones continúan con los trabajos de control de las **llamas**.
-
-Los fuertes incendios forestales registrados en Azuay y Loja, que comenzaron a extenderse el sábado 9 de noviembre, llevaron a que las autoridades declaren la **emergencia** en la zona por **60 días**.
-
-Clases no presenciales en Azuay y Loja
---------------------------------------
-
-Ante esta emergencia, el Ministerio de Educación emitió un comunicado este lunes 18 de noviembre. En el documento se informó que los **estudiantes** de algunas unidades educativas de Azuay y Loja recibirán sus clases bajo la **modalidad no presencial**.
-
-La cartera de Estado aplicará esta medida hasta el **miércoles 20 de noviembre** en todas las instituciones del cantón **Loja** y en 13 de **Cuenca y Nabón**, hasta el martes 19 de noviembre.
-
-Sin embargo, las autoridades **no detallaron** en el documento cuáles son las escuelas y colegios en Azuay en las que la modalidad se ajusta.
-
-Hasta este lunes 18 de noviembre, una decisión ministerial similar incluía a **21 unidades educativas**. Estas fueron:
-
-### Cuenca:
-
-* Unidad Educativa Alonso González.
-* Escuela de Educación Básica Ecuador Amazónicos.
-* Unidad Educativa Cornelio Hidalgo.
-
-### Nabón:
-
-* Escuela de Educación Básica Los Andes.
-* Escuela de Educación Básica Río Amazonas.
-* Unidad Educativa Víctor León Vivar
-
-### Loja:
-
-* Centro de Educación Inicial Antonio Peña Celi.
-* Centro Educativo Comunitario Intercultural Bilingüe José Vicente Andrade.
-* ⁠Colegio PCEI Vilcabamba.
-* ⁠Colegio Vilcabamba.
-* ⁠Escuela Dolores Palacio Bravo.
-* ⁠Escuela Dra. Piedad Burneo Ojeda.
-* ⁠Escuela Francisco Javier Salazar.
-* ⁠Escuela Gonzalo Abad Grijalva.
-* ⁠Escuela Juan Montalvo.
-* ⁠Escuela Julián de Rúa Pizarro.
-* ⁠Escuela Manuel Riofrío Mora.
-* ⁠Escuela Particular La Calandria.
-* ⁠Escuela 13 de Abril.
-* ⁠Escuela Rosa Cevallos de Ludeña.
-* ⁠Unidad Educativa San Pedro de Vilcabamba.
-
-Otras medidas ante los incendios forestales
--------------------------------------------
-
-Asimismo, las autoridades postergaron el **desfile estudiantil** que se iba a realizar en conmemoración de los 204 años de Independencia de Loja, el 17 de noviembre, como medida preventiva,
-
-Además, se evalúan las **infraestructuras** de los centros escolares aledaños a los incendios para identificar posibles afectaciones por la emergencia.
-
-El Ministerio de Educación instó a los estudiantes, padres de familia, docentes y trabajadores que cuiden su salud utilizando **mascarillas** y evitando realizar actividades al aire libre.
-
-> \[COMUNICADO\] Ante la emergencia por los incendios forestales, informamos a la comunidad educativa lo siguiente:  
->   
-> 🏫 Clases en modalidad no presencial en todas las instituciones educativas en el cantón Loja el 19 y 20 de noviembre.  
->   
-> 🏫 13 instituciones de los cantones Cuenca y… [pic.twitter.com/0edZrMWCit](https://t.co/0edZrMWCit)
-> 
-> — Ministerio de Educación del Ecuador (@Educacion\_Ec) [November 18, 2024](https://twitter.com/Educacion_Ec/status/1858653612794147315?ref_src=twsrc%5Etfw)
-
-Cristian Ramírez revela por qué volvió a la Selección de Ecuador
-================================================================
-
-El lateral Cristian Ramírez se refirió a su regreso a la Selección de Ecuador después de seis años de ausencia.
----------------------------------------------------------------------------------------------------------------
-
-![Cristian Ramírez en un entrenamiento de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T202326.343.jpg)
-
-**Cristian Ramírez** es uno de los nuevos nombres que forman parte de la Selección de Ecuador en la era de **Sebastián Beccacece**. El defensor retornó a la Tri con el argentino y lo hizo tras un periodo de ausencia de seis años y de haber renunciado al elenco.
-
-En la primera convocatoria del entrenador argentino tras asumir las riendas del combinado, una de las principales novedades fue el nombre del lateral derecho del **Ferencváros**. Pese a ello, este no pudo incorporarse debido a que sufrió una lesión con su equipo.
-
-### Más noticias:
-
-* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
-* [La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-entrenamiento-colombia-puerta-cerrada.html "La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia")
-* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
-
-Aunque no llegó en el llamado inicial, Beccacece persistió en su convocatoria y para la segunda doble fecha a cargo del entrenador, **Ramírez** arribó. En aquella doble fecha de eliminatorias, el defensa consiguió sumar minutos ante Paraguay tras ingresar desde el banco[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-Para las últimas jornadas de este 2024, Cristian Ramírez volvió a ser llamado y espera por volver a sumar minutos. Ante Bolivia no pisó el rectángulo de juego, sin embargo, contra **Colombia** habrá una nueva oportunidad para hacerlo durante este martes 19 de noviembre del 2024.
-
-Los motivos del regreso de Cristian Ramírez.
---------------------------------------------
-
-Previo al partido que tendrá la Tri frente a los cafeteros, **Cristian Ramírez** conversó con El Canal del Fútbol y reveló por qué decidió regresar a la Selección de Ecuador. Asimismo, recalcó los motivos por los cuales, en su momento, se alejó del combinado nacional.
-
-“Hay muchos factores que a uno, como jugador, le impiden volver. En su momento tomé la decisión por temas personales (…) **Me dieron la oportunidad de volver y hacerme sentir, nuevamente, parte del grupo. Para mí eso ha sido muy importante y ese fue el motivo principal por el que decidí volver**“, manifestó del defensor.
-
-Ramírez también sostuvo que, durante su tiempo de ausencia, desde la Federación Ecuatoriana de Fútbol (FEF) siempre estuvieron pendientes de él. Asimismo, agradeció a **Beccacece** y al combinado y destacó el nivel de sus compañeros y las nuevas generaciones.
-
-Cristian Ramírez con la Selección de Ecuador
---------------------------------------------
-
-Cristian Ramírez tuvo su primer llamado con la **Selección de Ecuador** en 2013, cuando la dirigía Reinaldo Rueda. El futbolista debutó en un amistoso ante Honduras.
-
-Con la Tri, el lateral ha disputado un total de **22 partidos** entre duelos de exhibición, Copa América y eliminatorias. En tal cantidad de cotejos ha marcado y asistido en una oportunidad.
-
-Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad
-==========================================================================
-
-El Bloque de Seguridad detalló las cifras de los operativos realizados en Ecuador, entre el 1 de enero y el 17 de noviembre.
-----------------------------------------------------------------------------------------------------------------------------
-
-![Representantes de la Policía, Fuerzas Armadas, Ministerio del Interior y Ministerio de Defensa durante la rueda de prensa de este lunes](https://www.elcomercio.com/wp-content/uploads/2024/11/bloque-seguridad-operativos.jpg)
-
-Representantes del **Bloque de Seguridad** dieron una rueda de prensa en la ciudad de **Manta**, donde mostraron los **resultados obtenidos** entre el 1 de enero y el 17 de noviembre de 2024 en Ecuador.
-
-### Más noticias
-
-* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
-* [Policía abre nuevo reclutamiento para 2 900 aspirantes](https://www.elcomercio.com/actualidad/ecuador/policia-nueva-convocatoria-noviembre-aspirantes.html "Policía abre nuevo reclutamiento para 2 900 aspirantes")
-* [Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas](https://www.elcomercio.com/actualidad/seguridad/estudiantes-26-colegios-se-formaran-doctrina-fuerzas-armadas.html "Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas")
-
-En el evento realizado este lunes 18 de noviembre estuvieron presentes la ministra del Interior, **Mónica Palencia**, el ministro de Defensa, **Giancarlo Loffredo**, el comandante de la Policía Nacional, **Víctor Zárate** y el Jefe del Estado Mayor de las Fuerzas Armadas, **Pablo Caicedo**.
-
-Homicidios intencionales se redujeron, según el Gobierno
---------------------------------------------------------
-
-Mónica Palencia, ministra del Interior, aseguró que los **homicidios intencionales** en el país se redujeron un **18 %** con respecto al 2023, pasando de 7 151 crímenes a 5 866. Esta cifra comparativa corresponde al periodo enero-noviembre[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
-
-Según detalló la funcionaria, en el distrito de Manta, que incluye a los cantones **Manta, Jaramijó y Montecristi**, se registró una reducción de **29,2 %** de casos de este delito, entre el 6 de junio al 17 de noviembre del 2024,
-
-> RESULTADOS BLOQUE DE SEGURIDAD  
->   
-> Entre el 1 de enero y el 17 de noviembre de 2024, existe una reducción de 18% de homicidios intencionales a nivel nacional, en comparación con el mismo periodo de 2023.  
->   
-> ➡️Además, se han decomisado 262,27 toneladas de droga, un 37,7% más que en… [pic.twitter.com/HBnegyehNJ](https://t.co/HBnegyehNJ)
-> 
-> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 19, 2024](https://twitter.com/MinInteriorEc/status/1858665310876037354?ref_src=twsrc%5Etfw)
-
-En **Durán**, uno de los cantones con más conflictos armados, la estadística mostró una reducción del **32,5 %** de homicidios intencionales entre el 1 de julio y el 17 de noviembre de 2024, a decir por Palencia.
-
-Los **asesinatos** en este lugar pasaron de **286 a 193**, comparado con el mismo periodo del año anterior.
-
-Operativos de la Policía Nacional y Fuerzas Armadas
----------------------------------------------------
-
-Mientras tanto, según datos de los representantes de la **Policía Nacional** y las **Fuerzas Armadas**, estos fueron los resultados que dejaron los **293 168 operativos** a nivel nacional, en estos 321 días de 2024:
-
-### Detenidos
-
-* **65 491 personas detenidas**, de las cuales 1 477 pertenecían a grupos delictivos organizados
-* **107 delincuentes** fueron **neutralizados** con uso legítimo de la fuerza
-* **11 objetivos de alto valor** y 145 de intermedio valor fueron capturados
-* 3 455 casos de **desaparición** tratados con 2 013 personas localizadas
-* 1 483 personas detenidas por delitos de desaparición y **extorsión**
-
-### Decomisos
-
-* **262, 27 toneladas de droga incautadas**, lo que representa un incremento del **37,7 %** en relación con 2023 (109,53 toneladas)
-* **9 360 armas de fuego** decomisadas
-* 20 184 **armas blancas** decomisadas
-* **5 405 vehículos robados** fueron recuperados
-* **8 099 motocicletas** recuperadas
-* Cerca de 2 toneladas de **explosivos** decomisados
-* Cerca de **6 millones de dólares** recuperados
-
-> Ministra del Interior, [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw):  
->   
-> En un comparativo entre el 01 de enero al 17 de noviembre 2023 y el 01 de enero al 17 de noviembre 2024 existe una reducción del 18% en homicidios intencionales a nivel nacional, además, dentro de este periodo se han decomisado 262,27… [pic.twitter.com/MoyGsyhtwc](https://t.co/MoyGsyhtwc)
-> 
-> — Policía Ecuador (@PoliciaEcuador) [November 18, 2024](https://twitter.com/PoliciaEcuador/status/1858569020808544328?ref_src=twsrc%5Etfw)
-
-5 000 reservistas se suman a las Fuerzas Armadas
-------------------------------------------------
-
-Por su parte, el ministro de Defensa Nacional, **Gian Carlo Loffredo**, afirmó que **5 000 reservistas** se unirán a las **Fuerzas Armadas** con el objetivo de incrementar el personal en las calles.
-
-**4 500 personas** se sumarán al **Ejército**, mientras que 250 irán a las **Fuerzas Aéreas** y 250 a las **Fuerzas Navales**.
-
-### Incendios forestales
-
-Loffredo también se refirió a los **incendios forestales** que enfrentan varias ciudades de la **Sierra Sur**.
-
-Sobre esta emergencia, la Organización de Naciones Unidas (**ONU**) confirmó la donación de un **bambi buket** a Ecuador.
-
-Este helicóptero dedicado a la carga, trasportación y lanzamiento de agua en el combate contra incendios será utilizado por las **Fuerzas Armadas** para ayuda humanitaria y apoyo a otras instituciones.
-
-> ¡Cuando el camino se pone duro, solo los duros se ponen en el camino!💪  
->   
-> ➡️El ministro de Defensa Nacional, Gian Carlo Loffredo, destacó en [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw):  
->   
-> ✅Cerca de 5.000 reservistas se unen a las Fuerzas Armadas.  
->   
-> ✅Bambi Bucket donado por parte de la Organización de… [pic.twitter.com/DsSHpAep43](https://t.co/DsSHpAep43)
-> 
-> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [November 18, 2024](https://twitter.com/DefensaEc/status/1858612569403257193?ref_src=twsrc%5Etfw)
-
-Asimismo, el Ministro afirmó que se estableció una Activación del Sistema de Cooperación Aérea (**Sicoffa**) con la Fuerza Aérea de Perú.
-
-Por el momento, el país del sur colabora en las emergencias en **Loja**, con dos bambi buckets.
-
-Ecuador fortalecerá su seguridad con alianzas internacionales
+Tiene 80 años y es más feroz que nunca. Así es Margret Chola.
 -------------------------------------------------------------
 
-Finalmente, durante su intervención, Palencia explicó que Ecuador se incluirá en **cuatro comités y alianzas internacionales** de seguridad. Estos son:
+![Fue su nieta quien le propuso vestir ropa en tendencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-2.jpg)
 
-* Comité Latinoamericano de la Seguridad Interna, (Clasi);
-* Comité Permanente de la Seguridad Interna, (COSI).
-* Alianza del Banco Interamericano de Desarrollo para la Seguridad, Paz y Justicia
-* Comité Interamericano contra el Terrorismo (Cicte)
+En una aldea rural de **Zambia**, vive **Margret Chola**, de más de 80 años. Es una abuela que conquistó a las redes sociales con sus audaces fotos de moda.
 
-Se espera que la colaboración en estas instituciones le permitan al país desarrollar aspectos de **seguridad interinstitucional** a favor de la lucha contra el **crimen** y el **terrorismo**.
-
-Byron Castillo sorprende a la Selección de Ecuador
-==================================================
-
-Los jugadores de la Selección de Ecuador recibieron la visita de uno de sus antiguos compañeros y compartieron entre sí.
-------------------------------------------------------------------------------------------------------------------------
-
-![Byron Castillo (tercero de izquierda a derecha) junto a miembros de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T164724.870.jpg)
-
-La **Selección de Ecuador** está cada vez más cerca de enfrentar a Colombia y, antes de partir hacia tierras cafeteras, acogió a un antiguo miembro del equipo. **Byron Castillo**, que formó parte de la escuadra en anteriores oportunidades, estuvo junto a los convocados.
-
-Después de la resolución de su caso y el de la Tri con el **Tribunal de Arbitraje Deportivo (TAS)**, que dejó al conjunto nacional con tres puntos menos para las vigentes eliminatorias, el lateral derecho no volvió a formar parte de las nóminas. Aunque la resolución no implicó una sanción para el jugador, pero lo marginó del **Mundial de Catar 2022** y de futuros llamados.
-
-### Más noticias:
-
-* [La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-entrenamiento-colombia-puerta-cerrada.html "La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia")
-* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
-* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
-
-Pese a que ya no conforma el equipo, aquello no le impide al futbolista pasar tiempo con sus compañeros y así lo expuso en redes sociales. Por medio de una publicación en sus historias de Instagram, este hizo público su encuentro con los seleccionados junto al bus del **elenco tricolor**.
-
-En la fotografía, **Byron Castillo** aparece en el medio de los futbolistas y con una indumentaria casual y diferenciadora. Estos, a su vez, ocupan el uniforme de entrenamiento celeste de la Selección del Ecuador.
-
-El reencuentro de Byron Castillo y sus compañeros de la Selección del Ecuador
------------------------------------------------------------------------------
-
-Los jugadores del combinado ecuatoriano con los cuales **Byron Castillo** estuvo fueron tanto de su etapa en el equipo, así como con quienes coincidió en **Barcelona SC**, adonde volvió en esta temporada 2024. Asimismo, nuevos nombres también se sumaron.
-
-**Félix Torres, Xavier Arrega, Pervis Estupiñán, Kendry Páez, Gonzalo Plata y Piero Hincapié** fueron los futbolistas que estuvieron junto al lateral derecho. A su vez, estos replicaron en sus redes el encuentro con el futbolista.
-
-De todos los jugadores presentes, solo con uno no coincidió dentro de la **Selección de Ecuador**. Kendry Páez no compartió camerino con Castillo durante la etapa de este último en la Tri y tampoco ha coincidido con él en clubes[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-¿Qué pasó con Byron Castillo en la Selección de Ecuador?
---------------------------------------------------------
-
-**Byron Castillo** debutó y estuvo presente con la Tri durante las eliminatorias rumbo al Mundial de Catar 2022. El lateral derecho formó parte del equipo hasta los últimos momentos previos del certamen, pero no entró en la lista final debido a la resolución del TAS.
-
-Cuando finalizaron las eliminatorias, **Chile** elevó un reclamo a la FIFA en el que cuestionaba la nacionalidad de Castillo. Tras el rechazo de parte del organismo, la ‘Roja’ acudió hacia el Tribunal, que dictaminó que la **Selección de Ecuador** no infringió reglamentos y la documentación del futbolista era legítima, más no sus datos.
-
-A raíz de lo suscitado, el combinado nacional arrancó con **tres puntos** menos las presentes eliminatorias.
-
-Cortes de luz en Guayaquil para este martes 19 de noviembre
-===========================================================
-
-CNEL detalló los horarios de cortes de luz que tendrá Guayaquil, la capital de Guayas, este martes.
----------------------------------------------------------------------------------------------------
-
-![Guayaquil tendrá cortes de luz programados de ocho horas en las zonas residenciales](https://www.elcomercio.com/wp-content/uploads/2024/11/guayaquil-cortes-martes-19.jpg)
-
-La Corporación Nacional de Electricidad (**CNEL**) detalló los **horarios** de cortes de luz que tendrá **Guayaquil** este martes 19 de noviembre de 2024.
+Su historia comenzó cuando su **nieta, Diana Kaumba**, una estilista con base en Nueva York, le propuso vestirla con prendas de alta costura durante una visita familiar. Lo que empezó como un juego, ahora es un fenómeno cultural.
 
 ### Más noticias
 
-* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-* [Cortes de luz en Quito para este martes 19 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-martes-19-de-noviembre.html "Cortes de luz en Quito para este martes 19 de noviembre")
-* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
+* **[¿Qué colores combinan con vino tinto?](https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html "https://www.elcomercio.com/tendencias/combinaciones-vino-tinto-blusa-pantalones-zapatos.html")**
+* [**Ideas para lucir como Rachel Green de ‘Friends’**](https://www.instagram.com/elcomerciocom/p/DAOUiFStOAD/?img_index=1 "https://www.instagram.com/elcomerciocom/p/DAOUiFStOAD/?img_index=1")
 
-Apagones programados se redujeron a ocho horas
-----------------------------------------------
+Según la BBC, Diana creó la Granny Series en 2023, inspirada en su abuela y en la memoria de su padre, quien le inculcó su amor por la moda. “Quería mostrarle al mundo que el estilo no tiene fecha de caducidad”, comenta Kaumba.
 
-El **racionamiento eléctrico** en Ecuador se retomó el 23 de septiembre de 2024, luego que en **abril y junio** el país tuviera apagones programados.
+Las primeras fotografías, tomadas en un contexto rural con elementos cotidianos como radios y cultivos, rápidamente se hicieron virales.
 
-Desde esta fecha, los cortes de luz no se han detenido, alcanzando en algunos días las **14 horas**.
+**El fenómeno en redes sociales**
+---------------------------------
 
-Según el nuevo anuncio del **Ministerio de Energía**, Guayaquil y el resto de ciudades del país tendrán apagones de **ocho horas**, entre el 18 y 21 de noviembre.
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-1-1024x683.jpg)
 
-La reducción se debe a la mejora en los caudales de los ríos en la Amazonía y a la venta de energía desde **Colombia**[.](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.eeq.com.ec/")
+Margret Chola tiene ahora más de 225 000 seguidores en Instagram. En su cuenta comparte fotografías en las que combina _outfits_ con estilos vibrantes con un toque tradicional.
 
-Compra de energía a Colombia
-----------------------------
+En abril de 2024, alcanzó su mayor popularidad al posar con un vestido rojo de la **marca Adidas** y joyería llamativa. Las imágenes resaltan el lugar donde vive.
 
-Sobre este último tema, la Corporación Eléctrica del Ecuador (Celec) detalló que Ecuador firmó **cuatro contratados** para la importación de energía con el país del norte.
+Hay techos de chapa y campos de maíz que contrastan con atuendos recargados que reflejan la influencia estilística de su nieta Diana.
 
-La compra incluye un mejoramiento de **150 MW** para la central Esmeraldas IV y **122,1 MW** para la central Durán. Además, está el alquiler de **260 MW** para Pascuales, por 18 meses. El cuarto proyecto es la compra de **100 MW** para San Juan de Manta.
+“Me siento diferente y viva con esta ropa”, declaró Margret en entrevista con la BBC. La respuesta del público ha sido masiva. “Nunca pensé que tendría este impacto”, agrega. La plataforma ha sido fundamental para romper con las ideas preconcebidas sobre la moda y la edad.
 
-Sin embargo, la falta de lluvias considerables persiste en el Austro, donde se ubican tres de las centrales hidroeléctricas más importantes del país: **Paute, Mazar y Sopladora**.
-
-Cortes de luz en Guayaquil para este martes 19 de noviembre
------------------------------------------------------------
-
-Según el cronograma de CNEL, los cortes de luz en Guayaquil serán de ocho horas en las zonas residenciales y de tres o seis horas en las zonas industriales.
-
-Los apagones programados en las viviendas se ejecutarán en **dos y tres franjas horarias**, que incluyen la madrugada o mañana, la mañana o tarde y la tarde o noche.
-
-Conoce el **cronograma completo** de las suspensiones eléctricas en Guayaquil por sectores:
-
-Loja y Azuay suman miles de hectáreas quemadas
-==============================================
-
-Incendios forestales mantienen en riesgo a Loja y Azuay.
---------------------------------------------------------
-
-![Incendios forestales se registran en San Pedro de Vilcabamba, Malacatos, Vilcabamba y el Parque Nacional Podocarpus.](https://www.elcomercio.com/wp-content/uploads/2024/11/incendio.jpg)
-
-Los **incendios forestales** avanzan en **Loja y Azuay**. El Ministerio del Ambiente, Agua y Transición Ecológica (Maate) dio un nuevo informe sobre la situación, la tarde de este lunes, 18 de noviembre de 2024.
-
-Los equipos siguen trabajando en los territorios afectados por las llamas. Son miles de **hectáreas consumidas**.
-
-### Más noticias
-
-* [Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-incendios-creados-manabi.html "Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí")
-* [Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía](https://www.elcomercio.com/actualidad/ecuador/ecuador-declara-emergencia-nacional-por-incendios-deficit-hidrico-y-sequia.html "Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía")
-* [17 incendios forestales están activos en Ecuador este lunes 18 de noviembre](https://www.elcomercio.com/actualidad/ecuador/17-incendios-forestales-estan-activos-en-ecuador-este-lunes-18-de-noviembre.html "17 incendios forestales están activos en Ecuador este lunes 18 de noviembre")
-
-> 📍El Ministerio del Ambiente, Agua y Transición Ecológica actualiza información, en relación a los incendios Forestales en el Parque Nacional Podocarpus, provincia de Loja. ⤵️ [pic.twitter.com/53WTVSLI84](https://t.co/53WTVSLI84)
-> 
-> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [November 18, 2024](https://twitter.com/Ambiente_Ec/status/1858608280601317707?ref_src=twsrc%5Etfw)
-
-Incendios forestales en Loja y Azuay
-------------------------------------
-
-En el **Parque Nacional Podocarpus**, provincia de Loja, 136 efectivos de varias instituciones continúan trabajando para controlar un incendio forestal.
-
-El Maate informó que, desde el Puesto de Mando Unificado (PMU), en la parroquia **San Pedro de Vilcabamba** continúan los trabajos para controlar y sofocar el incendio.
-
-El helicóptero de la república de Perú, equipado con bambi bucket (bolsa para transportar agua), realizó descargas de líquido sobre varias zonas de las parroquias **San Pedro de Vilcabamba, Malacatos y Vilcabamba**. También en el parque.
-
-La superficie afectada asciende a **3 709 hectáreas**, aproximadamente. En el **Parque Podocarpus** llegaron a **115 hectáreas** de bosque primario y páramo.
-
-Al Puesto de Mando Unificado se sumarán 27 brigadistas de refuerzo en **incendios forestales**, entre otros.
-
-> [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw)| Un helicóptero de la República del Perú, con tecnología Bambi Bucket, realiza descargas de agua sobre las áreas afectadas por el incendio forestal en San Pedro de Vilcabamba, Malacatos, Vilcabamba y el Parque Nacional Podocarpus. ✖️🔥💪🏼 [pic.twitter.com/owvsNmtrZg](https://t.co/owvsNmtrZg)
-> 
-> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [November 18, 2024](https://twitter.com/Ambiente_Ec/status/1858590834649870350?ref_src=twsrc%5Etfw)
-
-Llamas en Cuenca
-----------------
-
-En Cuenca, Azuay, técnicos y guardaparques del [**Ministerio del Ambiente**](https://www.ambiente.gob.ec/) trabajan con el apoyo de brigadistas especialistas en manejo integral del fuego de las áreas protegidas de los parques nacionales: **Cajas, Sangay, Llanganates y del Programa Amazonia sin Fuego**.
-
-Los incendios se mantienen, principalmente, en el Parque Nacional Cajas y en los cantones **Santa Isabel, Nabón y Sigsig**.
-
-Para las tareas han llegado donaciones, como de chalecos forestales, palas contra incendios, extintores y un Bambi Bucket.
-
-El Oro y un incendio controlado
--------------------------------
-
-Por otro lado, la Cartera de Estado informó que el incendio en el cantón **Chilla**, en El Oro, ya está controlado.
-
-Sin embargo, el equipo del **Cuerpo de Bomberos de Machala** permanece en el área para verificar la posible presencia de focos activos en la zona.
-
-Debido a los incendios forestales que afectaron a los sectores: en los cerros Pillo y Chillacocha, así como San Miguel y Obispo, alrededor de **1 500 hectáreas** de vegetación han sido comprometidas en la zona alta de la provincia.
-
-En el sector cerro **El Obispo**, los equipos inspeccionaron el río Pivir, que abastece de agua a los cantones Chilla y Pasaje, a través del río Jubones. En las tareas se confirmó que la naciente no presentó riesgo de afectación por el incendio.  
-
-Para Francisco Egas, Liga de Quito no cumplió el reglamento
-===========================================================
-
-Liga de Quito perdió tres puntos por una sanción de la Comisión Disciplinaria de la FEF.
-----------------------------------------------------------------------------------------
-
-![Ezequiel Piovi, capitán de Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/egas_sancion_1.jpg)
-
-Francisco Egas, presidente de la **Federación Ecuatoriana de Fútbol (FEF)**, se refirió a la sanción que la Comisión Disciplinaria le impuso a Liga de Quito de mermarle tres puntos en la Liga Pro.
-
-La resolución de la Comisión Disciplinaria se conoció el sábado 16 de noviembre de 2024, en donde se establece que le **deben mermar tres puntos a Liga por no cumplir con el pago** de una deuda pendiente con Franklin Guerra, jugador que pasó por la institución entre el 2018 y 2022.
-
-### Más noticias:
-
-* [La Selección de Ecuador buscará su segunda victoria en Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-historial-colombia-eliminatorias.html "La Selección de Ecuador buscará su segunda victoria en Colombia")
-* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
-* [Deportivo Quito cayó con Liga de Portoviejo y prende velas](https://www.elcomercio.com/deportes/futbol/depotivo-quito-liga-portoviejo-marcador.html "Deportivo Quito cayó con Liga de Portoviejo y prende velas")
-
-Isaac Álvarez, presidente de LDU, aseguró este lunes 18 que el pago se realizó dentro de los plazos establecidos por el **Código Disciplinario, por lo que apelarán la sanción** y esperan recuperar los puntos que ganaron en cancha.
-
-“Cumplimos con el valor total del jugador (…) Dentro de los plazos (…) Estas normas castigan en el **eventual incumplimiento del pago que no es el presente caso** (…) Lo que significa que no debe existir sanción alguna”, aseguró Álvarez en un video colgado en las redes del club.
-
-La fecha límite de pago de la deuda con Guerra era el jueves 14 de noviembre. El pago se realizó el mismo día en horas de la mañana, pero la **notificación de la cancelación llegó a la FEF el viernes 15**, tal como lo reconoció el propio Álvarez en sus declaraciones.
-
-El artículo 150, numeral 4 del Código de la FEF, menciona que el “(…) pago o el convenio suscrito con el acreedor se tiene que **presentar hasta las 18:00 del día hábil anterior a la fecha programada** para la realización del siguiente partido”.
-
-La categoría sub-15 jugó su partido ante Universidad Católica el propio viernes y se clasificaron para las semifinales del Campeonato de Formativas 2024.
-
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/egas_sancion_2-1024x683.jpg)
-
-Foto: API.
-
-Egas reaccionó ante la sanción
-------------------------------
-
-“Tenemos un reglamento que es el que aplicamos. Si Liga tiene elementos de convicción y de prueba en su apelación corresponderá a la Cámara de Apelación aplicarlos”, mencionó Egas en Guayaquil consultado sobre el tema.
-
-“**Para nosotros es evidente que el Reglamento no se ha cumplido** (…) habla de cumplir con toda la fase de pago y notificación antes del primer partido de una de las categorías”, indicó el dirigente.
-
-Recalcó que es “**dolorosísimo**” aplicar el reglamento, pero es el mismo que se utilizó para otros casos.
-
-“Es el [reglamento que está en nuestros libros](https://www.fef.ec/estatutos-y-reglamentos/). Fue aprobado por los clubes en los distintos congresos”, sentenció.
-
-> Francisco Egas y su posición ante la sanción de los -3 puntos a [#LDU](https://twitter.com/hashtag/LDU?src=hash&ref_src=twsrc%5Etfw) ⚪️  
->   
-> “Es evidente que el reglamento no se ha cumplido. Para nosotros es doloroso aplicar este reglamento que está en nuestros libros”. [pic.twitter.com/jbbPHpWLHb](https://t.co/jbbPHpWLHb)
-> 
-> — Sonia Pérez (@soniiperez\_) [November 18, 2024](https://twitter.com/soniiperez_/status/1858563392128090569?ref_src=twsrc%5Etfw)
-
-San viernes
------------
-
-¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?
-====================================================================================
-
-El Cpccs acreditó a ocho veedores ciudadanos para supervisar la renovación parcial de la Corte Constitucional.
---------------------------------------------------------------------------------------------------------------
-
-![Veedores ciudadanos acreditados por el Cpccs supervisarán la renovación parcial de la Corte Constitucional.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-33-2.jpg)
-
-El **Consejo de Participación Ciudadana y Control Social (Cpccs)** acreditó a ocho veedores ciudadanos para supervisar el proceso de **renovación parcial de jueces y juezas de la Corte Constitucional**. Esta veeduría surgió a partir de una iniciativa ciudadana presentada el 7 de agosto de 2024 por el representante del **Comité Permanente de Defensa de los Derechos Humanos, Billy Navarrete**.
-
-### Más noticias
-
-* [Cpccs hará instructivo relacionado con integrantes del CNE](https://www.elcomercio.com/actualidad/politica/cpccs-hara-instructivo-relacionado-con-integrantes-cne.html "Cpccs hará instructivo relacionado con integrantes del CNE")
-* [Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/nueve-candidatos-avanzan-proceso-seleccion-corte-constitucional.html "Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional")
-* [Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/corte-constitucional-aprueba-propuesta-de-daniel-noboa-sobre-bases-militares-extranjeras.html "Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras")
-
-De acuerdo con la **Constitución** y la **Ley Orgánica de Participación Ciudadana**, corresponde al Cpccs regular este **mecanismo de control social**. Por ello, se llevó a cabo una convocatoria pública entre el 16 y el 23 de octubre de 2024, a la que se **inscribieron 27 personas interesadas**.
-
-> 📝 Boletín de prensa  
->   
-> 8 veedores ciudadanos están habilitados para vigilar el proceso de renovación de la Corte Constitucional [@AndresFantoniB](https://twitter.com/AndresFantoniB?ref_src=twsrc%5Etfw) [pic.twitter.com/MIcaDNlmoT](https://t.co/MIcaDNlmoT)
-> 
-> — Participa Ecuador (@CpccsEc) [November 18, 2024](https://twitter.com/CpccsEc/status/1858622540299857941?ref_src=twsrc%5Etfw)
-
-Proceso de selección y acreditación
------------------------------------
-
-Durante la convocatoria, se registraron postulantes de las **provincias de Guayas, Pichincha, Manabí, Los Ríos y Pastaza**, además de **un participante desde Argentina**.
-
-De los **27 inscritos**, 18 cumplieron con los requisitos establecidos. Posteriormente, ocho candidatos fueron seleccionados tras participar en un **proceso de capacitación e inducción**, el cual incluyó sesiones presenciales y virtuales.
-
-Los **ciudadanos acreditados** como veedores son:
-
-* Luis Gonzalo Acosta Abarca.
-* Adrián Fernando Bastías Robayo (designado como coordinador).
-* Carlos Alberto Almeida Alvarado.
-* Carlos Efraín Enrique Cordero Caza.
-* Diego Paul Ron Sumba.
-* Oswaldo Alejandro Garcés Proaño.
-* Aida Elena Espinoza Flores.
-* Johanna Melyna Romero Larco.
-
-Resolución de acreditación y respaldo institucional
----------------------------------------------------
-
-El Cpccs remitió a la **Comisión Calificadora** toda la documentación referente al proceso de convocatoria, inscripción, verificación de **requisitos y acreditación** de los veedores seleccionados. Esto con el objetivo de garantizar la transparencia en la supervisión de la renovación de la **Corte Constitucional**.
-
-> [#Importante](https://twitter.com/hashtag/Importante?src=hash&ref_src=twsrc%5Etfw)  
-> Para ser parte de la Veeduría Ciudadana que vigilará la designación del Fiscal General, puedes inscribirte por vía electrónica en los correos habilitados. [@AndresFantoniB](https://twitter.com/AndresFantoniB?ref_src=twsrc%5Etfw) [#CiudadanosComoTú](https://twitter.com/hashtag/CiudadanosComoT%C3%BA?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/05yaXh0xX4](https://t.co/05yaXh0xX4)
-> 
-> — Participa Ecuador (@CpccsEc) [November 18, 2024](https://twitter.com/CpccsEc/status/1858616167197458765?ref_src=twsrc%5Etfw)
-
-Finalmente, mediante esta resolución, el Cpccs notificó la **aprobación y acreditación oficial** de esta veeduría ciudadana. La acción reafirma el **compromiso del organismo** con los mecanismos de control social y la participación ciudadana en **procesos fundamentales para el Estado**.
-
-Encuentran una momia de un tigre de dientes de sable 
-=====================================================
-
-Gracias al hallazgo, se obtuvo nueva información sobre los tigres dientes de sable.
------------------------------------------------------------------------------------
-
-![Detalles inéditos de un cachorro de tigre dientes de sable. Foto: National Geographic.](https://www.elcomercio.com/wp-content/uploads/2024/11/cachorro-dientes-de-sable.jpg)
-
-Un **grupo de científicos rusos** ha realizado un descubrimiento fascinante en **Siberia**. Según [20 Minutos](https://www.20minutos.es/noticia/5654765/0/hallan-perfectamente-conservada-momia-cachorro-tigre-dientes-sable-murio-anos/ "https://www.20minutos.es/noticia/5654765/0/hallan-perfectamente-conservada-momia-cachorro-tigre-dientes-sable-murio-anos/"), **hallaron una momia de un cachorro de tigre dientes de sable**, un felino extinto, sorprendentemente bien conservada. La momia fue recuperada del **permafrost y data de hace 37 000 años**. 
-
-### Más noticias
-
-* [Ave que vivió con dinosaurios hace 70 millones de años fue descubierta en Argentina](https://www.elcomercio.com/actualidad/mundo/ave-dinosaurios-millones-descubierta-argentina.html "https://www.elcomercio.com/actualidad/mundo/ave-dinosaurios-millones-descubierta-argentina.html")
-* [Los satélites son capaces de detectar fósiles desde el espacio](https://www.elcomercio.com/tendencias/ciencia/satelites-fosiles-espacio-investigadores-paleontologos.html)
-
-**Estudio revela detalles inéditos del cachorro** 
+**Un mensaje de empoderamiento intergeneracional**
 --------------------------------------------------
 
-Este hallazgo, siguiendo con 20 Minutos, ha sido detallado en **un estudio reciente publicado en Scientific Reports por la Academia de Ciencias de Rusia**.  
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-3-1024x683.jpg)
 
-Los investigadores revelaron detalles nunca antes vistos sobre este antiguo animal. Entre los hallazgos más impactantes, se destacó que **el cuello del cachorro era dos veces más grueso que el de un cachorro de león actual**. Además, **su mandíbula estaba perfectamente adaptada para albergar sus icónicos incisivos en forma de cono**, característicos de esta especie. 
+**La abuela fashionista** no solo es un ícono de estilo, sino un símbolo de empoderamiento. Según Diana, las sesiones han estrechado la relación entre ambas y han generado conciencia sobre la importancia de honrar a las generaciones mayores.
 
-**Los dedos del cachorro de dientes de sable** 
------------------------------------------------
+Las palabras de Margret reflejan esta filosofía: “Nunca podrás cambiar el pasado, pero sí construir tu futuro”.
 
-Otro descubrimiento importante fue **cómo los dedos del cachorro le habrían permitido caminar sobre la nieve** durante la última glaciación. Este detalle **aporta nueva información sobre la vida de los tigres dientes de sable** en su hábitat natural. 
+En una de las tomas más icónicas, Margret aparece con jeans y una peluca rubia, elementos que nunca había usado antes.
 
-**Procedimiento del hallazgo** 
--------------------------------
+Esta representación, explica la BBC , rompe con las barreras tradicionales de la **moda rural en Zambia**, y demuestra que la elegancia no depende del contexto.
 
-Según [La Nación](https://www.lanacion.com.ar/lifestyle/en-las-redes/hallaron-la-momia-de-un-tigre-dientes-de-sable-bebe-en-el-hielo-y-hubo-conmocion-por-lo-que-escondia-nid18112024/ "https://www.lanacion.com.ar/lifestyle/en-las-redes/hallaron-la-momia-de-un-tigre-dientes-de-sable-bebe-en-el-hielo-y-hubo-conmocion-por-lo-que-escondia-nid18112024/"), **después de retirar cuidadosamente la “momia bebé” del suelo helado**, los científicos descubrieron que **se trataba de la cabeza, el torso delantero, huesos de la cadera y extremidades traseras**. Si hubiera estado completo, el cachorro mediría solo 35 centímetros de largo. 
+**La moda como herramienta para unir generaciones**
+---------------------------------------------------
 
-**Identificación y datación del cachorro** 
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-1024x683.jpg)
+
+La popularidad de Margret ha trascendido fronteras. Cuatro nietas han solicitado los servicios de Diana para estilizar a sus propias abuelas.
+
+Las fotografías, llenas de color y contrastes, no solo celebran la moda, sino también las historias personales y culturales.
+
+Margret ha utilizado sus sesiones para reflexionar sobre su vida y sus raíces. Incorpora, por ejemplo, objetos como el _mbaula_ o brasero de carbón, un símbolo de resiliencia frente a los cortes de energía en Zambia.
+
+**Inspiración global desde lo local**
+-------------------------------------
+
+![Fue su nieta quien le propuso vestir ropa en tendencia.](https://www.elcomercio.com/wp-content/uploads/2024/11/abuela-fashion-El-Comercio-2-1024x683.jpg)
+
+Fue su nieta quien le propuso vestir ropa en tendencia. Foto: Instagram
+
+El impacto de la abuela fashionista no solo se siente en las redes sociales. Su historia inspira a quienes la ven como un ejemplo de autenticidad y valentía.
+
+El concepto de la Granny Series ha sido aplaudido por su capacidad de desafiar las normas de la moda y presentar un enfoque fresco y positivo.
+
+“Vivir sin miedo al juicio es lo que deseo transmitir”, declara Margret. La abuela fashionista de Zambia nos recuerda que nunca es tarde para reinventarse y brillar, incluso desde los rincones más remotos del mundo.
+
+¿La ciclovía podría ser una alternativa durante los cortes de luz en Quito?
+===========================================================================
+
+La movilidad de Quito durante los cortes de luz se complica por los semáforos apagados.
+---------------------------------------------------------------------------------------
+
+![Los cortes de luz complican la movilidad en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/Bicilceta-en-Quito.jpg)
+
+En medio de los cortes de luz que afecta a **Quito** debido a la crisis hídrica, la **ciclovía** ofrece una posible solución para mejorar la **movilidad en la ciudad**[.](https://es.wikipedia.org/wiki/Ciclov%C3%ADa "https://es.wikipedia.org/wiki/Ciclov%C3%ADa")
+
+Más noticias
+------------
+
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
+* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
+* [Cortes de luz se reducen desde este 18 de noviembre en Quito](https://www.elcomercio.com/actualidad/ecuador/cortes-de-luz-se-reducen-desde-este-18-de-noviembre-en-quito.html "Cortes de luz se reducen desde este 18 de noviembre en Quito")
+
+Con 144,25 kilómetros de infraestructura distribuidos entre tramos utilitarios (82.13 km) y recreativos (62.12 km), esta red **facilita los traslados**, sobre todo en trayectos cortos. Sin embargo, su implementación enfrenta varios desafíos, como la ausencia de un sistema de **bicicleta pública** y la falta de una **cultura vial adecuada.**
+
+¿Es posible utilizar la ciclovía como una solución de movilidad en Quito?
+-------------------------------------------------------------------------
+
+Los **cortes de luz**, provocados por la disminución de agua en los embalses de **Mazar** y **Coca Codo** **Sinclair**, interrumpen los **semáforos** por largas horas y complican la congestión vehicular.
+
+Frente a este panorama, la **ciclovía** se presenta como una **alternativa** viable durante las horas diurnas, aunque todavía requiere ajustes en varios aspectos.
+
+Diego Puente, integrante del colectivo de ciclistas **Ciclópolis**, explica que la **ciclovía** necesita mayor _cobertura_ y una mejor **convivencia ciudadana.**
+
+Según Puente, la **bicicleta** supera a los vehículos durante los cortes de luz, ya que permite avanzar en cruces donde los **semáforos** permanecen **apagados** o no hay **agentes de tránsito.**
+
+Sin embargo, critica que las autoridades de **tránsito** priorizan a los vehículos por encima de los **peatones** y **ciclistas**.
+
+Además, considera que los **cortes de luz** representan una oportunidad para promover el uso de la **bicicleta** como medio de transporte.
+
+Por esta razón, insiste en la importancia de articular el uso de la **bicicleta** con el sistema de **transporte público.**
+
+Por su parte, Wladimir De la Torre, del programa para las Américas de Global Designing Cities Initiative, coincide con Puente en que resulta más seguro usar la **bicicleta** durante las horas de alta carga vehicular.
+
+No obstante, advierte que cuando el **tráfico disminuye**, los vehículos circulan a **mayor velocidad,** lo que incrementa los **riesgos para ciclistas** y **peatones**.
+
+En contraste, **Andrés** **Castillo**, experto en **movilidad**, cuestiona la viabilidad de esta opción.
+
+Detalla que **Quito** carece de una cultura que fomente el respeto hacia los **ciclistas**, lo que limita el impacto de la **ciclovía**.
+
+Aunque esta infraestructura se planteó para mejorar la movilidad, asegura que no garantiza soluciones efectivas debido a las condiciones actuales de la ciudad.
+
+También señala que los **cortes de luz** son un problema temporal y que la **ciclovía** no resolverá el tránsito en estos casos.
+
+Quito sin bicicleta pública
+---------------------------
+
+Además, el sistema de **bicicleta [pública](https://www.elcomercio.com/actualidad/quito/bicicleta-publica-quito-servicio-funcionar.html)** dejó de operar en julio de 2023, lo que limita el acceso para quienes podrían considerar este medio.
+
+Según De la Torre, el regreso de este servicio, vinculado al transporte público, sería clave para promover su uso.
+
+Asimismo, mejorar la calidad y cobertura del **transporte público** incentivaría a más personas a combinar ambos medios.
+
+La Selección de Ecuador Sub-20 cayó ante Colombia
+=================================================
+
+La 'Tri' juvenil atraviesa un momento complicado, sumando su tercera derrota consecutiva en la preparación para el Sudamericano Sub-20 2025.
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+![La Selección de Ecuador Sub-20 perdió contra Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-19T140048.824.jpg)
+
+La **Selección de Ecuador Sub-20** perdió 1-2 contra su similar de **Colombia** este martes 19 de noviembre, en un amistoso disputado en el Estadio Rodrigo Paz Delgado, en Quito.
+
+Este fue el segundo enfrentamiento entre ambas selecciones en el mes, con el mismo resultado adverso para los ecuatorianos.
+
+### Más noticias:
+
+* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
+* [Alineación de Ecuador con Dognaldo, Beccacece y un invitado especial](https://www.elcomercio.com/deportes/futbol/alineacion-ecuador-dognaldo-beccacece-eliminatorias-sudamericanas.html "Alineación de Ecuador con Dognaldo, Beccacece y un invitado especial")
+* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
+
+En el partido de este martes, **Elkin Ruiz marcó** el único gol para la Tri, mientras que en el primer amistoso, jugado el 15 de noviembre, el gol ecuatoriano fue obra de Bruno Caicedo.
+
+Ecuador Sub-20, lejos de su mejor versión
+-----------------------------------------
+
+**Miguel** **Bravo**, director técnico de la **Sub-20**, trabaja en la preparación del equipo para el Campeonato Sudamericano 2025. Sin embargo, los resultados recientes no acompañan: de los últimos cuatro amistosos, Ecuador ha conseguido solo una victoria.
+
+El único triunfo fue en junio de este año, cuando v**enció a Paraguay** por 0-1 gracias a un gol de Michael Bermúdez.
+
+Desde entonces, la ‘Tri’ juvenil **ha perdido 3-2 contra Chile** y, en noviembre, ambos duelos contra Colombia por 1-2.
+
+Sudamericano Sub-20 2025: Rivales y calendario
+----------------------------------------------
+
+Ecuador ya conoce a sus rivales para el Campeonato Sudamericano Sub-20, que se jugará en Arequipa, Perú, del 23 de enero al 16 de febrero de 2025. La Tri quedó en el Grupo B junto a **Brasil, Colombia, Chile y Bolivia**.
+
+Calendario de Ecuador en el torneo:
+
+* **24 de enero:** vs. Bolivia
+* **28 de enero:** vs. Colombia
+* **30 de enero:** vs. Brasil
+* **1 de febrero:** vs. Chile
+
+El Grupo A estará compuesto por **Perú, Uruguay, Venezuela, Paraguay y Argentina.**
+
+Ecuador buscará mejorar su rendimiento para lograr uno de los cuatro cupos disponibles al Mundial Sub-20 de Uzbekistán 2025.
+
+Formato del torneo
+------------------
+
+El **Campeonato Sudamericano Sub-20 2025** se disputará en 2 fases: Fase Preliminar (fase de grupos) y Fase Final (Las seis (6) selecciones clasificadas de la fase preliminar participarán de esta fase, con el mismo sistema de juego todos contra todos).
+
+Todas las fases se jugarán a una sola rueda de partidos. La **fase preliminar** la disputan los 10 equipos, distribuidos en 2 grupos de 5 equipos cada uno.
+
+Clasificarán para la **fase final**, los equipos que ocupen las tres primeras posiciones en cada grupo.
+
+No te pierdas nuestro Especial de Halloween
 -------------------------------------------
 
-El **análisis del cráneo**, siguiendo con la misma fuente, permitió a los investigadores **identificar al cachorro como una cría de tigre dientes de sable**, lo que **sitúa al animal en el Pleistoceno Superior**. Este felino, que habitaba Europa y Asia, **se caracterizaba por tener un tamaño similar al de un león moderno**, con patas largas y caninos superiores dentados y aplanados. Los tigres dientes de sable **eran conocidos por ser adaptaciones de grandes felinos de la época**, a decir de la misma fuente. 
+10 momentos clave de los 1000 días de guerra de Rusia en Ucrania
+================================================================
 
-**Confirmación de características anatómicas** 
------------------------------------------------
+El 6 de agosto de 2024 Ucrania lanzó una operación transfronteriza para conquistar parte del territorio de la región rusa.
+--------------------------------------------------------------------------------------------------------------------------
 
-Además, el análisis comparativo de sus dientes y huesos con los de leones actuales **reveló que el cachorro tenía aproximadamente tres semanas cuando murió**. Los expertos también notaron que **su cabeza era más corta y redondeada**, con orejas más altas y redondas, y un cuello más grueso y alargado. Estos rasgos confirmaron las conclusiones previas basadas en la anatomía ósea. 
+![Los ucranianos encienden 1.000 velas para conmemorar los 1.000 días desde el inicio de la invasión rusa a gran escala de Ucrania, durante una oración conjunta en la base del Monumento a la Patria en Kiev, Ucrania.](https://www.elcomercio.com/wp-content/uploads/2024/11/rusia-guerra-militares.jpg)
 
-**Los dientes de sable: una antigua hipótesis confirmada** 
------------------------------------------------------------
+La **guerra entre Ucrania** y [Rusia](https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html "https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html") cumple este martes, 19 de noviembre de 2024, 1000 días con las hostilidades plenamente activas y sin perspectivas de un final inminente. Estos son los 10 momentos clave de la contienda hasta ahora.
 
-**Otro descubrimiento importante**, según La Nación, fue sobre los **famosos dientes de sable del tigre**. Los investigadores respaldaron una antigua hipótesis: **los caninos del tigre podrían haber estado ocultos por los labios y la piel**, lo que impedía que se vieran cuando la boca estaba cerrada. Aunque el cachorro era demasiado joven para mostrar sus dientes, la profundidad de sus labios apoya esta teoría. 
+### Más noticias
 
-**Mechones de pelo y características sorprendentes** 
------------------------------------------------------
+* [Ucrania ataca por primera vez territorio ruso con misiles estadounidenses](https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html "Ucrania ataca por primera vez territorio ruso con misiles estadounidenses")
+* [Rusia impone multa astronómica a Google de 20 decillones](https://www.elcomercio.com/tecnologia/rusia-multa-google-gobierno.html "Rusia impone multa astronómica a Google de 20 decillones ")
+* [Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin](https://www.elcomercio.com/actualidad/mundo/zelenski-pide-alemania-misiles-largo-alcance-amenaza-nuclear-putin.html "Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin")
 
-Una de las características más sorprendentes fueron los **mechones de pelo largos y pálidos que se extendían hacia atrás desde las comisuras de la boca**, lo que sugiere que **estos rasgos podrían haber sido aún más pronunciados en los adultos**, tal vez para formar una barba en la mandíbula inferior. 
+Rusia invade Ucrania 
+---------------------
 
-**Adaptaciones en las patas para el hielo** 
---------------------------------------------
+El 24 de febrero de 2022, tropas rusas atacaron Ucrania e iniciaron un cerco sobre Kiev y tomaron rápidamente territorios ucranianos en el norte, el este y en el sur. El presidente ucraniano, Volodímir Zelenski, apareció en un vídeo en el que desmentía **rumores sobre su huida y proclamaba su intención de resistir.** Comenzaba así el mayor conflicto en suelo europeo desde la II Guerra Mundial.
 
-Finalmente, a decir de La Nación, **los estudios sobre las patas del cachorro revelaron que las almohadillas bajo cada dedo eran cuadradas en lugar de ovaladas**, lo que es común en los gatos modernos. La almohadilla principal debajo de la palma tenía forma de riñón, lo que indica **adaptaciones para caminar sobre la nieve**, lo que sugiere que **los dientes de sable estaban perfectamente adaptados para sobrevivir en el hielo**. 
+La batalla de Kiev 
+-------------------
 
-Este descubrimiento agrega **una pieza más a los muchos restos prehistóricos recuperados del suelo helado de Siberia**, incluidos mamuts, rinocerontes lanudos, lobos y leones de las cavernas, que siguen sorprendiendo a los científicos sobre la vida en el Pleistoceno. 
+Después de más de un mes de asedio, y al no lograr tomar el **aeropuerto de Gostómel** para hacer llegar en avión batallones adicionales, las fuerzas rusas comenzaron a retirarse el 29 de marzo de los alrededores de Kiev. Tres días después, el Ejército ucraniano recuperaba el control de toda la región de Kiev. El Gobierno ucraniano sobrevivió al intento **ruso de derrocarlo por la fuerza.**
 
-¿Quién es la novia de la hija mayor de Carlos Vives?
-====================================================
+Las masacres de Bucha 
+----------------------
 
-La hija mayor de Carlos Vives captó la atención del público tras presentar a su novia en los Latin Grammy 2024.
----------------------------------------------------------------------------------------------------------------
+El 1 de abril, cuando las tropas ucranianas entraron en Bucha, una ciudad dormitorio cercana a Kiev, descubrieron los cadáveres de 458 personas que habían sido enterradas por los ocupantes rusos en fosas comunes. Una parte de estos muertos habían sido ejecutados. El descubrimiento de las matanzas fue presentado por Rusia como una **operación ucraniana de falsa bandera**. La masacre es aún hoy el episodio más representativo de las atrocidades rusas en esta guerra.
 
-![Lucy Vives tiene 28 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T171919.942.jpg)
+El sitio de Azovstal 
+---------------------
 
-**Lucía Vive**s, la hija mayor del reconocido cantante colombiano **Carlos Vives**, captó la atención del público tras presentar a su **novia** en la reciente **ceremonia** de los **Latin Grammy 2024**.
+El 17 de mayo de 2022, después de un dramático asedio de casi tres meses, la tropas ucranianas que se habían atrincherado en la acería de Azovstal de Mariúpol se rendían a las fuerzas rusas, que completaban así la toma de la ciudad.
 
-Ese evento celebró la carrera de su **padre**, quien fue homenajeado como **Persona del Año** por sus tres décadas en la **música**, y también marcó un momento significativo en la vida personal de **Lucía**, más conocida como Lucy.
+El sitio de la planta y el asedio a Mariúpol dejaron imágenes apocalípticas que conmovieron al mundo. Miles de personas murieron en la toma rusa de la ciudad, **entre ellas los civiles que perdieron la vida en el bombardeo del 16 de marzo** contra el Teatro de Mariúpol donde se refugiaban.
+
+La toma de Lugansk 
+-------------------
+
+El 3 de julio de 2022, Rusia completaba de facto la toma de la región ucraniana de Lugansk con la caída en sus manos de la ciudad de Lisichansk. **Una semana antes tomó Sievierodonetsk**, el otro gran bastión ucraniano en Lugansk. 
+
+La liberación de Jersón 
+------------------------
+
+El 11 de noviembre de 2022 las tropas ucranianas liberaron la ciudad de Jersón. Las escenas de júbilo de la población recibiendo a su Ejército emocionaron a millones de personas.
+
+Ese mismo otoño las fuerzas ucranianas retomaron también el control de los territorios conquistados por Rusia en la región nororiental de Járkov. Esta contraofensiva simultánea en dos segmentos distintos del frente ha sido hasta el momento la operación ucraniana más fructífera de esta guerra.
+
+El asedio a Bajmut 
+-------------------
+
+El foco del frente pasó a finales de 2023 a la ciudad de Bajmut, en la región oriental de Donetsk. A lo largo de casi un año, y con el grupo de mercenarios Wagner como punta de lanza, Rusia llevó a cabo una ofensiva implacable sobre la ciudad que concluyó el 21 de mayo de 2023 con la captura de sus ruinas.
+
+La contraofensiva fallida 
+--------------------------
+
+En junio de 2023 Ucrania comenzó una segunda contraofensiva dirigida hacia el sur que tenía como objetivo llegar al mar de Azov. La **solidez de las fortificaciones rusas** y la falta de superioridad aérea ucraniana frustró los planes de Kiev. La contraofensiva se apagó en otoño sin lograr los resultados esperados. 
+
+Rusia recupera la iniciativa 
+-----------------------------
+
+Al tiempo que moría la contraofensiva ucraniana, Rusia recuperaba la iniciativa y comenzaba la ofensiva centrada en el este que todavía perdura.
+
+Lentamente, y a un elevado coste de bajas que está consiguiendo suplir, el Ejército ruso empezó a ganar terreno en el otoño de 2023 y no dejó de hacerlo hasta hoy.
+
+La operación de Kursk 
+----------------------
+
+El 6 de agosto de 2024 Ucrania lanzó una ambiciosa operación transfronteriza para conquistar parte del territorio de la región rusa de Kursk. Los objetivos eran abortar los **planes rusos de abrir un nuevo frente** desde **Kursk** penetrando en la región ucraniana de Sumi y distraer a las fuerzas rusas de su ofensiva en el este.
+
+El primero de ellos se cumplió, pero no el segundo. Rusia no ha expulsado a las tropas de Kiev de Kursk, pero -pese a haber tenido que desplegar a decenas de miles de soldados para intentar conseguirlo-, sigue ganando terreno en Ucrania. En noviembre de este año, unos 11.000 soldados norcoreanos se incorporaron a las tropas rusas que tratan de expulsar a los ucranianos de Kursk.
+
+La participación de estos soldados norcoreanos es lo que, según medios estadounidenses, ha inclinado al presidente de Estados Unidos, Joe Biden, a autorizar a los ucranianos el **uso de los misiles ATACMS**, de un alcance de 300 kilómetros, en territorio ruso, más concretamente en Kursk.
+
+Las amenazas rusas no se han hecho esperar: Rusia dice que este permiso echa “leña al fuego” al conflicto, empeorará el futuro de Ucrania y advirtió contra Estados Unidos por su posible utilizlalción en suelo ruso. Además, el presidente ruso, **Vladimir Putin,** firmó un decreto que autoriza el **uso del arma nuclear** para responder cualquier ataque convencional que amenace la soberanía rusa.
+
+Dura agresión a Javier Aguirre, DT de México, obtiene sanción ejemplar
+======================================================================
+
+Javier Aguirre, DT de México, sufrió una fuerte agresión en Liga de Naciones y la Concacaf impuso una sanción ejemplar.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Javier 'Vasco' Aguirre después de la agresión recibida con México.](https://www.elcomercio.com/wp-content/uploads/2024/11/6053a3cc9f86b889b986b99d9345a4129cd9f787.jpg)
+
+La **Selección de Honduras** recibió una sanción de parte de la Concacaf a raíz de los incidentes en su partido de ida ante México en la Liga de Naciones. Al término de aquel partido, Javier ‘Vasco’ Aguirre, DT de los aztecas, fue víctima de una agresión.
+
+Por medio de un comunicado, la **comisión disciplinaria** sancionó a la sede de los hondureños de cara a su próximo partido. Estos no podrán disputar el siguiente duelo que tengan como locales, en un partido oficial, con aficionados.
+
+### Más noticias:
+
+* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
+* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
+* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
+
+Después de los incidentes, Aguirre le restó importancia a lo sucedido y prefirió no referirse al tema. **Reinaldo Rueda**, DT de Honduras, criticó lo sucedido y se expuso su rechazo a tal tipo de manifestaciones en el fútbol.
+
+> ¡PESIMA SEGURIDAD Y ORGANIZACIÓN! ❌  
+>   
+> Javier Aguirre se llevó un fuerte golpe con una lata de cerveza lanzada desde las gradas lo que provocó que se le abriera la cabeza y terminara sangrando 🇲🇽  
+>   
+> NO HAY LUGAR PARA LA VIOLENCIA EN EL FUTBOL [#RivalidadAzteca](https://twitter.com/hashtag/RivalidadAzteca?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/8XT7Dozgfn](https://t.co/8XT7Dozgfn)
+> 
+> — TV Azteca Deportes (@AztecaDeportes) [November 16, 2024](https://twitter.com/AztecaDeportes/status/1857640897266991175?ref_src=twsrc%5Etfw)
+
+México pide tranquilidad a sus hinchas tras agresión de Aguirre
+---------------------------------------------------------------
+
+El director deportivo de la selección de México, **Duilio Davino**, pidió este domingo que los hinchas del Tri no generen violencia en el partido de vuelta de los cuartos de final de la Liga de Naciones de la Concacaf ante Honduras.
+
+“**La afición debe ser ejemplar en las gradas y apoyar al equipo, que tiene que hacer su trabajo en la cancha para darle la vuelta a la serie**“, explicó en Toluca, centro de México, en donde este martes los mexicanos recibirán a Honduras, que ganó como local 2-0 el duelo de ida de la serie, el viernes pasado.
+
+El estadio Francisco Morazán en San Pedro Sula, Honduras, que albergó el primer duelo de los cuartos de final, se vivió un ambiente hostil para los mexicanos, que tuvo su momento más alto al término del encuentro, cuando **Javier Aguirre**, seleccionador de **México**, sufrió un corte en su cabeza por una lata que le lanzó un hincha[.](https://en.wikipedia.org/wiki/Javier_Aguirre "https://en.wikipedia.org/wiki/Javier_Aguirre")
+
+“**Ya estamos más tranquilos porque estamos en casa. En el partido del viernes, desde que llegamos a Honduras, la delegación no se sintió segura, ni cuando salieron a calentar los chicos a la cancha.** Se van a tomar las medidas que se deben tomar y ahora pensamos en lo que viene, esperamos el apoyo de la gente en Toluca”, añadió Davino.
+
+Entre las medidas que ha tomado la **Federación Mexicana de Fútbol** fue emitir una nota de prensa en la que solicitó a la Concacaf “actuar conforme al reglamento” por la agresión a Aguirre.
+
+La investigación y expectativas de México
+-----------------------------------------
+
+La Concacaf también condenó el ataque al entrenador y remitió el caso a su Comisión Disciplinaria para su “**revisión e investigación**“. Este llegó a su fin con la sanción a Honduras.
+
+Davino, además, espera a que la **Concacaf** finalice su averiguación y es optimista en que México remontara la serie como local ante Honduras y se clasificará a las semifinales de la Liga de Naciones.
+
+“Las derrotas duelen, pero es una serie de 180 minutos, se perdieron los primero 90, se dejaron de hacer cosas y estoy seguro de que el martes –**19 de noviembre del 2024**– les daremos vuelta a la situación”, sentenció Davino
+
+Alineación de Ecuador con Dognaldo, Beccacece y un invitado especial
+====================================================================
+
+El Licenciado Dognaldo está más ilusionado que nunca y se atrevió a hacer una alineación ganadora para enfrentar a Colombia.
+----------------------------------------------------------------------------------------------------------------------------
+
+![La Selección de Ecuador se enfrenta a Colombia en las eliminatorias sudamericanas.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-19T131525.879.jpg)
+
+La **Selección de Ecuador** se enfrenta este martes 19 de noviembre a Colombia en Barranquilla, por la última jornada de las eliminatorias sudamericanas. El **Licenciado Dognaldo** no quiso quedarse fuera del debate y presentó su alineación ideal para cerrar el 2024 con broche de oro.
+
+El combinado ecuatoriano **enfrentará un duro reto ante los cafeteros** en la duodécima jornada de eliminatorias. Aunque está en puestos de clasificación directa, una victoria de visitante sería histórica y acercaría aún más al sueño mundialista.
+
+### Más noticias:
+
+* [¿Dónde ver a la Selección de Ecuador contra Colombia?](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-colombia-donde-ver-eliminatorias.html "¿Dónde ver a la Selección de Ecuador contra Colombia?")
+* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
+* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
+
+**Ecuador** ocupa la quinta posición con 16 puntos en 11 partidos, mientras que Colombia se encuentra tercero con 19 unidades.
+
+La alineación del Licenciado Dognaldo y sus aliados
+---------------------------------------------------
+
+El **Licenciado** **Dognaldo**, inspirado por la calidad de la generación ecuatoriana, presentó su alineación para lograr un triunfo memorable en Barranquilla. Ecuador solo ha ganado una vez en suelo colombiano en toda la historia de las eliminatorias sudamericanas.
+
+La **única victoria tricolor** en territorio cafetero fue el 20 de julio de 1965, cuando Washington Muñoz anotó el gol del triunfo 0-1. Ese partido correspondió a las eliminatorias para el Mundial de Inglaterra 1966.
+
+Con la meta de repetir esa hazaña, **Dognaldo propuso a sus _11 guerreros_** para el desafío:
+
+* **Arquero:** Hernán Galíndez
+* **Defensas:** Jhoanner Chávez, Willian Pacho, Piero Hincapié, y Pervis Estupiñán
+* **Mediocampistas:** Alan Franco, Gonzalo Plata, y Moisés Caicedo
+* **Delanteros:** Alan Minda, Kevin Rodríguez, y John Yeboah
+
+Como si su alineación no fuera suficiente, el Licenciado Dognaldo pidió ayuda a dos expertos.
+
+Por un lado, **Sebastián** **Beccacece**, quien actualmente dirige a la Selección de Ecuador, y por otro, **Hernán** **Darío** **‘Bolillo’ Gómez**, un entrenador con un pasado tanto en Ecuador como en Colombia, quienes también se animaron a armar sus posibles onces para el enfrentamiento en Barranquilla.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCj7hCouyFZ/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DCj7hCouyFZ/?utm_source=ig_embed&utm_campaign=loading)
+
+Ficha del partido
+-----------------
+
+**Colombia vs. Ecuador**
+
+**Fecha**: Martes 19 de noviembre.
+
+**Hora**: 18:00.
+
+**Estadio**: Metropolitano Roberto Meléndez.
+
+**¿Dónde ver?** Streaming.
+
+No te pierdas nuestro Especial de Halloween
+-------------------------------------------
+
+El dólar sigue su ascenso en Colombia, acercándose a los $4 500 pesos
+=====================================================================
+
+Según analistas, el comportamiento del dólar se ve impulsado por varios factores internacionales, destacándose el efecto Trump.
+-------------------------------------------------------------------------------------------------------------------------------
+
+![Imagen referencial.](https://www.elcomercio.com/wp-content/uploads/2024/11/dolar-efe-colombia.jpg)
+
+La cotización del dólar estadounidense en [Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html") continúa su **tendencia alcista,** y la moneda se acerca a la barrera psicológica de los $4 500. Desde el 11 hasta el 15 de noviembre, el valor del dólar subió de $4 346 a $4 454, manteniendo un ritmo ascendente en la segunda mitad del 2024, según El Espectador.
+
+### Más noticias:
+
+* [Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia](https://www.elcomercio.com/actualidad/negocios/gustavo-petro-colombia-ecuador-fortaleza-energetica-electricidad-exportaciones.html "Gustavo Petro dice que ayudará a Ecuador con la fortaleza energética de Colombia")
+* [Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?](https://www.elcomercio.com/actualidad/negocios/energia-colombia-crisis-electrica-ecuador-estado-embalses-cortes-luz.html "Energía de Colombia alivia crisis eléctrica en Ecuador, ¿en qué estado están los embalses?")
+* [Colombia enfrenta una dura sanción para el partido contra Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-enfrenta-una-dura-sancion-para-el-partido-contra-ecuador.html "Colombia enfrenta una dura sanción para el partido contra Ecuador")
+
+Este incremento genera inquietud en los mercados, ya que el país **depende de las importaciones** y la **entrada de divisas.**
+
+Factores internacionales impulsan la subida
+-------------------------------------------
+
+Según analistas, el comportamiento del dólar se ve impulsado por varios factores internacionales, destacándose el efecto Trump. La **elección de Donald Trump como presidente de EE. UU**. y sus políticas económicas generaron **expectativas que fortalecen al dólar**, según el El Espectador.
+
+“Las medidas de Trump, como los aranceles y los beneficios fiscales para empresarios, han atraído a inversionistas hacia EE. UU., lo que elevó el valor del dólar”, explica Sebastián Chacón Marín, director de la Escuela de Negocios del Politécnico Grancolombiano.
+
+A este fenómeno se le suman factores como las **decisiones** de la Reserva Federal de Estados Unidos y la persistente inflación, que generan incertidumbre en los **mercados globales**. Además, la caída en los precios del petróleo ha afectado negativamente a las economías de los países exportadores, como Colombia, lo que contribuye a la depreciación del peso colombiano.
+
+Incertidumbre en Colombia
+-------------------------
+
+Por otro lado, la situación interna de Colombia también afecta el **comportamiento de su moneda.** La reciente depreciación del peso y la preocupación por el presupuesto nacional de 2025 aumentaron la incertidumbre. En este contexto, se prevé que el dólar se mantenga cerca de los **$4 500 en los próximos días**, señala El Espectador.
+
+De acuerdo con los analistas, para la semana que comienza, se espera que la divisa estadounidense fluctúe entre los $4 450 y los $4 490, sin llegar a superar los $4 500. Esta proyección se da en un clima de alta incertidumbre económica, tanto a nivel nacional como internacional, indica El Espectador.
+
+La historia del gatito negro que encontró un hogar en pleno octubre
+===================================================================
+
+Ludovico tiene siete meses y un futuro prometedor.
+--------------------------------------------------
+
+![Ludovico fue rescatado durante una campaña de esterilización. Foto: Cortesía](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T130534.483.jpg)
+
+Contrario a lo que muchas personas creen, los **gatos** sí son cariñosos; como los **perritos**, los felinos también curan heridas y alivian penas.
+
+Esa -precisamente- es la misión de **Ludovico**, un **gatito negro** que se acerca al año de vida y que hace un mes apareció en la cuenta de Instagram de **_EL COMERCIO_** buscando un hogar.  
+Te contamos su historia.
 
 ### **Más noticias:**
 
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
-* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html")
-* [Ángela Aguilar causa polémica con el lanzamiento de su muñeca](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html")
+* [Maltrato animal: las infracciones leves también castigan con una multa económica](https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html "https://www.elcomercio.com/narices-frias/maltrato-animal-multa-sancion-infracciones-leves.html")
+* [Multa ejemplar para un caso de crueldad animal en Ecuador](https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/narices-frias/crueldad-animal-sancion-ecuador-multa.html?source=Internal&ref=Single+Content+Link")
+* [¿Tu gato se perdió? Sigue estos pasos para aumentar las posibilidades de su regreso](https://www.elcomercio.com/narices-frias/gato-desaparece-animales-reencuentro-mascotas.html?source=Internal&ref=Single+Same+Category "https://www.elcomercio.com/narices-frias/gato-desaparece-animales-reencuentro-mascotas.html?source=Internal&ref=Single+Same+Category")
 
-**Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón**
+**La historia del gatito negro que encontró un hogar en pleno octubre**
+-----------------------------------------------------------------------
+
+La foto de **Ludovico** se publicó en octubre, un mes difícil para los **felinos negros**, pues todavía hay gente que los utiliza en rituales durante Halloween.
+
+Los amantes de los animalitos pedían ocultar la historia de este gatito, pero el destino de Ludovico estaba escrito: encontraría un hogar.
+
+Constanza Falconi, voluntaria en **Fundación Camino a Casa**, fue la encargada de entregárselo a Stephanie Álvarez, su nueva tutora.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DA7HuzTPbxb/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Constanza Falconi (@constanza.falconi)](https://www.instagram.com/reel/DA7HuzTPbxb/?utm_source=ig_embed&utm_campaign=loading)
+
+**¿Cómo llegó Ludovico a manos de Constanza?**
+----------------------------------------------
+
+Esta amante de los animales encontró al gatito negro durante una campaña de esterilización; el felino, según los vecinos del sector, pasó toda la noche aferrado a una malla metálica.
+
+**La nueva vida de Ludovico**
+-----------------------------
+
+Este animalito pasó de permanecer a la intemperie a vivir en una casa con una tutora amorosa y **responsable**, y con Lucy, una **gatita** de ocho años que perdió a su compañero de vida por una enfermedad.
+
+> [View this post on Instagram](https://www.instagram.com/p/DBT77sLP3qA/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by El Comercio de Ecuador (@elcomerciocom)](https://www.instagram.com/p/DBT77sLP3qA/?utm_source=ig_embed&utm_campaign=loading)
+
+Stephanie admite que la convivencia costó trabajo, pero que ahora los dos animalitos comparten espacios y hasta comida. “**Ludovico** siempre quiere jugar”, dice Stephanie.
+
+También afirma que su felino negro, junto a Lucy, hace más llevadero la pena de ver a su padre con **Alzheimer**.
+
+¿Quiénes se libran de estar en una junta receptora del voto?
+============================================================
+
+Los miembros de las juntas receptores del voto deben tomar en cuenta algunos puntos.
 ------------------------------------------------------------------------------------
 
-Carlos Vives celebró la noche más significativa de su carrera al recibir el máximo galardón de los Latin Grammy 2024. La velada estuvo llena de emoción y homenajes.
+![Personal del CNE avanza con los procesos del calendario electoral.](https://www.elcomercio.com/wp-content/uploads/2024/11/MJRV-3.jpg)
 
-El artista colombiano compartió ese reconocimiento con su familia, amigos y figuras destacadas de la música latina. Todos se unieron para rendirle tributo por su trayectoria.
+El **Consejo Nacional Electoral (CNE)** ya definió a los miembros de las juntas receptoras del voto para las elecciones 2025. Se trata de 287 534 personas a escala nacional y en el exterior.
 
-> [View this post on Instagram](https://www.instagram.com/reel/DCYcH9HuzWn/?utm_source=ig_embed&utm_campaign=loading)
+Hay quienes se libran de estar en las mesas y otros que podrían enfrentar sanciones en el proceso electoral que se desarrollará el **9 de febrero**.
+
+### Más noticias
+
+* [Miembros de las juntas para las elecciones 2025 tienen capacitaciones, ¿en qué consisten?](https://www.elcomercio.com/actualidad/politica/miembros-juntas-elecciones-2025-tienen-capacitaciones-consisten.html "Miembros de las juntas para las elecciones 2025 tienen capacitaciones, ¿en qué consisten?")
+* [En Pichincha habrá 49 357 miembros de Juntas Receptoras del Voto](https://www.elcomercio.com/actualidad/politica/pichincha-sorteo-juntas-receptoras-voto.html "En Pichincha habrá 49 357 miembros de Juntas Receptoras del Voto")
+* [¿Miembros de juntas receptoras del voto aún pueden cobrar la compensación?](https://www.elcomercio.com/actualidad/politica/miembros-de-juntas-receptoras-del-voto-aun-pueden-cobrar-la-compensacion.html "¿Miembros de juntas receptoras del voto aún pueden cobrar la compensación?")
+* [Miembros de las juntas para elecciones 2025 tienen obligaciones y límites](https://www.elcomercio.com/actualidad/miembros-juntas-elecciones-2025-tienen-obligaciones-limites.html "Miembros de las juntas para elecciones 2025 tienen obligaciones y límites")
+
+> 🔴 Hoy inicia la notificación a los Miembros de las Juntas Receptoras del Voto de las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw). 🇪🇨🗳️  
+>   
+> Si fuiste seleccionado, conoce las funciones que desempeñarás y capacítate a partir del 2⃣ de diciembre.  
+>   
+> ¡[#VamosTodosXEcuador](https://twitter.com/hashtag/VamosTodosXEcuador?src=hash&ref_src=twsrc%5Etfw)! 🙋‍♀️🙋‍♂️ [pic.twitter.com/8ejRRJFHix](https://t.co/8ejRRJFHix)
 > 
-> [A post shared by The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCYcH9HuzWn/?utm_source=ig_embed&utm_campaign=loading)
+> — cnegobec (@cnegobec) [November 18, 2024](https://twitter.com/cnegobec/status/1858537305549451530?ref_src=twsrc%5Etfw)
 
-La velada comenzó con una impresionante sección musical, en la que participaron leyendas como Rubén Blades, Juan Luis Guerra, Gloria y Emilio Estefan, y Alejandro Sanz.
+Miembros de juntas receptoras del voto y la norma
+-------------------------------------------------
 
-La actuación más destacada fue la interpretación de Juanes de La Gota fría, una versión rockera que hizo ponerse de pie al propio Carlos Vives, quien expresó su emoción por la cantidad de artistas que lo acompañaron esa noche.
+Los integrantes de las **mesas electorales** deben cumplir con la misión de forma obligatoria. No obstante, hay casos excepcionales.
 
-**¿Quién es la novia de la hija mayor de Carlos Vives?**
---------------------------------------------------------
+El **Código de la Democracia**, en el artículo 292, define que quien no concurra a integrar las juntas receptoras del voto, estando obligado, será multado con el equivalente al **15% de una remuneración mensual básica unificada**.
 
-La **novia** de **Lucía** es una modelo **extranjera**. Algunos medios la identifican como **Ivonne**. Aunque los detalles sobre su **vida personal** son escasos, se confirmó que ella ya es conocida por la familia **Vives**.
+Sin embargo, se contemplan excepciones como haber sufrido **calamidad doméstica** grave ocurrida en el día de las elecciones o hasta ocho días antes.
 
-Durante la gala, **Lucía e Ivonne** deslumbraron en la **alfombra roja** de los Latin Grammy, mostrando una conexión palpable.
+Se suman quienes no puedan acudir por motivos de salud o por impedimento físico comprobados con el certificado de médico del sistema nacional de **salud público** o privado.
 
-> [View this post on Instagram](https://www.instagram.com/p/C0cacryx8_C/?utm_source=ig_embed&utm_campaign=loading)
+Las justificaciones se deberán presentar luego del proceso electoral. Una vía son las delegaciones provinciales del **CNE**.
+
+¿Quiénes no estarán en las mesas?
+---------------------------------
+
+El **CNE** determinó que las personas que actuaron como vocales principales de las juntas en los tres últimos procesos electorales, incluida la consulta popular del 21 de abril de 2024, no volverán a estar en las **elecciones 2025**.
+
+Claro que no incluye a las **zonas electorales** donde se requiera completar las personas para las juntas.  
+
+Hay impedimentos vigentes
+-------------------------
+
+No todas las personas pueden ser parte de las juntas. Hay **limitantes** definidas y de cumplimiento obligatorio.
+
+* Dignatarios de elección popular en ejercicio de sus funciones 
+* Militares y policías en servicio activo 
+* Ciudadanos   que   laboran   en   calidad   de   conserjes   en   los   establecimientos educativos seleccionados como recintos electorales 
+* Candidatos a dignidades de elección popular 
+
+¿Cómo saber si está en una junta?
+---------------------------------
+
+Este 18 de noviembre de 2024, el **CNE** empezó las notificaciones a los **miembros de las juntas receptoras del voto**, ya sea de forma presencial o vía correo electrónico. Adicionalmente, las personas pueden consultar este dato junto con el lugar de **votación**.
+
+Para saber el sitio de sufragio solo se requiere el número de cédula y la fecha de nacimiento. No es necesario acudir a las delegaciones del **CNE**.
+
+Se debe ingresar al sistema del [organismo electoral](https://www.cne.gob.ec/). A la par, está disponible la CNE App, tanto para IOS o Android.
+
+Al menos 17 cierres viales se harán en Quito este martes 19 de noviembre
+========================================================================
+
+En el estadio Olímpico Atahualpa se realizará un festival gastronómico y musical. La zona de La Carolina será la afectada con vías cerradas
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+![Los agentes metropolitanos se encargan de los cierres viales y la gestión del flujo vehicular en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/cierres-viales.jpg)
+
+La noche de este martes 19 de noviembre de 2024, la **Agencia Metropolitana de Tránsito (AMT)** ejecutará varios cierres viales en los alrededores del estadio Olímpico Atahualpa.
+
+### Más noticias
+
+* [Cortes de agua en Quito este martes 19 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-agua-quito-martes-19-de-noviembre.html "Cortes de agua en Quito este martes 19 de noviembre")
+* [Las fiestas de Quito arrancan este miércoles 20 de noviembre](https://www.elcomercio.com/actualidad/quito/fiestas-quito-agenda-inicio-ceremonia.html "Las fiestas de Quito arrancan este miércoles 20 de noviembre")
+* [Chofer de bus amenazó con un machete a otro conductor en Quito](https://www.elcomercio.com/actualidad/quito/chofer-bus-machete-quito-amt.html "Chofer de bus amenazó con un machete a otro conductor en Quito")
+
+Operativo de tránsito
+---------------------
+
+Un **concierto y festival gastronómico** se realizarán dentro del estadio, en el norte de Quito, por lo que la AMT dispuso un operativo de tránsito.
+
+Los agentes civiles de tránsito se encargarán de gestionar el flujo vehicular en los alrededores de las zonas cerradas para evitar trancones.
+
+El operativo se inició durante la noche del lunes 18 de noviembre con el **cierre de la calle José Correa,** a partir de las 23:00. Sin embargo, el resto de cierres se aplicará desde las 20:00 hasta la 01:00 del miércoles 20 de noviembre de 2024.
+
+Estos cierres se implementarán de manera paulatina de acuerdo con el aforo de asistentes al evento.
+
+Cierres viales
+--------------
+
+El operativo de tránsito contempla el cierre de varias zonas en la zona de La Carolina. Las calles y avenidas afectadas son:
+
+* Av. 6 de Diciembre y José Correa
+* José Correa y Gonzalo Serrano
+* José Correa y S. Quintero
+* José Correa y Carlos Arroyo del Río
+* M.M. Sánchez y Carlos Arroyo del Río
+* M.M. Sánchez y S. Quintero
+* M.M. Sánchez y Juan Ramírez
+* M.M. Sánchez y Javier Aráuz
+* M.M. Sánchez y av. 6 de Diciembre
+* Av. 6 de Diciembre y Portugal
+* Suecia y av. De los Shyris
+* Av. Naciones Unidas y av. De los Shyris
+* Av. Naciones Unidas y av. República del Salvador
+* Av. Portugal y av. República del Salvador
+* Hugo Moncayo y av. 6 de Diciembre
+* Av. 6 de Diciembre y Gaspar de Villarroel
+* El Telégrafo y av. De los Shyris
+
+Rutas alternas
+--------------
+
+Si necesitas circular por el sector, puedes tomar vías alternas para no toparte con los cierres viales.
+
+Estas son las vías habilitadas:
+
+* Av. Amazonas
+* Av. Eloy Alfaro
+* Av. 10 de Agosto
+
+Los agentes metropolitanos de tránsito, además, harán control de autos mal estacionados. Ten [precaución.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
+
+> 🎤 [#CierreVialQuito](https://twitter.com/hashtag/CierreVialQuito?src=hash&ref_src=twsrc%5Etfw) | ¡Atención!  
+>   
+> 🎵 Por el concierto de Feid hay cierres viales cerca al Estadio Olímpico Atahualpa.  
+>   
+> 🚘 Revisa el plan operativo aquí ➡️  
+> ✅ Al circular informado [#QuitoRenace](https://twitter.com/hashtag/QuitoRenace?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/4UDYK3OXuu](https://t.co/4UDYK3OXuu)
 > 
-> [A post shared by lucia vives gomez (@lucyvives)](https://www.instagram.com/p/C0cacryx8_C/?utm_source=ig_embed&utm_campaign=loading)
+> — AMTQuito (@AMT\_Quito) [November 19, 2024](https://twitter.com/AMT_Quito/status/1858872714007556404?ref_src=twsrc%5Etfw)
 
-Lucía Vives, de 28 años, es una defensora activa de la diversidad y la inclusión. Su relación con Ivonne fue objeto de especulaciones y comentarios positivos en las **plataformas digitales,** donde muchos elogiaron su valentía al compartir su **amor** públicamente.
+¿Dónde ver a la Selección de Ecuador contra Colombia?
+=====================================================
 
-A pesar de que ambas optaron por mantener su relación relativamente privada, su aparición en un evento tan destacado fue vista como un símbolo de aceptación y amor.
+La Selección de Ecuador se enfrentará a Colombia en las eliminatorias al Mundial 2026 como visitante en Barranquilla.
+---------------------------------------------------------------------------------------------------------------------
+
+![Gonzalo Plata y Alan Minda celebran un gol de la Selección de Ecuador ante Bolivia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T113643.679.jpg)
+
+La última jornada de eliminatorias durante el 2024 para la **Selección de Ecuador** será ante Colombia como visitante. El partido se llevará a cabo durante este martes 19 de noviembre del 2024 y contará con opciones en streaming y televisión para verlo.
+
+El conjunto ecuatoriano ya se encuentra en tierras cafeteras y viajó desde el país un día antes del choque clasificatorio. La escuadra que dirige **Sebastián Beccacece** lo hizo desde Guayaquil, donde entrenó y jugó su partido previo de la doble fecha.
+
+### Más noticias:
+
+* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
+* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
+* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
+
+Para el duelo frente al conjunto colombiano, la Tri llega motivada y con el mejor de sus resultados en lo que va de las eliminatorias. En el duelo anterior ante Bolivia, el plantel se impuso por una goleada de 4-0 con un doblete de Gonzalo Plata y tantos de **Enner Valencia y Alan Minda**.
+
+Aquel choque frente al conjunto boliviano fue el quinto de Beccacece al mando de la **Selección de Ecuador**. Su contundente resultado, además, dio un indicio de mejoría ofensiva ante las dudas que había dejado tan solo un gol a favor en los cuatro partidos previos.
+
+Colombia llega con derrota para enfrentar a la Selección de Ecuador
+-------------------------------------------------------------------
+
+En su último partido, **Colombia** perdió como visitante ante **Uruguay** por un marcador de 3-2. Pese a que el conjunto cafetero se puso por delante en el marcador con antelación, la ‘Celeste’ lo pudo dar vuelta en los minutos finales.
+
+La escuadra que hará de local cuenta con **19 puntos** dentro de las eliminatorias, tres más que la Selección de Ecuador. En el partido de ida, que se llevó a cabo en Quito, ambos elenco dividieron honores y no marcaron goles.
+
+Horario y transmisión de Ecuador vs. Colombia
+---------------------------------------------
+
+**Partido**: Selección de Ecuador vs Colombia.
+
+**Fecha**: 19 de noviembre del 2024.
+
+**Hora**: 18:00.
+
+**Estadio**: Metropolitano de Barranquilla.
+
+**Transmisión**: Streaming y cines de la capital. Después del cotejo, este se transmitirá en diferido en señal abierta.
+
+¡Haz tus tareas!
+================
+
+Pretender engañar al profesor entregando respuestas de la IA es por lo menos desconsiderado con sus canas.
+----------------------------------------------------------------------------------------------------------
+
+![Saudia Levoyer, columnista en EL COMERCIO.](https://www.elcomercio.com/wp-content/uploads/2024/04/Saudia-Levoyer-2.jpg)
+
+Hace 15 días tuve la oportunidad de escuchar a **Eduardo Gómez Cerón**, profesor de Derecho de la Unicomfacauca (Colombia), cuando leía una carta a los **estudiantes de Ciencias Sociales y Humanas** titulada “Doce consideraciones para un estudiante que deja que la **inteligencia artificial** haga sus tareas”. Le pedí autorización para reproducirla y muy agradecido me dio la que tenía en sus manos. Apenas la he recortado un poco. Ahí les va:
+
+“1. En primer lugar, este texto no consiste en una **condena a la inteligencia artificial.** Pretender condenar un **avance tecnológico** que ya está aquí y en manos de todos, es una tontería y es, además, inútil. Sería comportarse como los obreros de hace siglo y medio que ante el hecho de que las máquinas desplazaban mano de obra, quisieron destruir las máquinas…
+
+2\. En el **mundo académico** las tareas están para ser hechas (…) por quienes son aprendices, se encuentran en **proceso de formación**. Las tareas son una de las maneras de aprender, de comprobar si hemos asimilado los conceptos y estamos en condiciones de aplicarlas a una **situación hipotética o real** que se nos propone.
+
+3\. Antes, la manera fraudulenta de **hacer tareas** era buscarse un texto ajeno –que los hay infinitos en internet- y atribuírselo, copiarlo sin citar al autor, sin ponerle comillas. El profesor podía sospechar que no era de quien lo presentaba, por razones de estilo, porque a veces aparecían temas, detalles o referencias no incluidas en las preguntas, etc. Una manera de **comprobar** si quien firmaba la **tarea** era efectivamente el **autor**, era indagarlo oralmente sobre sus **afirmaciones**, los conceptos utilizados, el **lenguaje**. En la persecución de esta **modalidad** de fraude, se podía ir más allá de las **consecuencias académicas**: estábamos ante un plagio, un robo de **propiedad intelectual** (…).
+
+4\. Ahora parece estar solucionado el **problema** del **plagio** porque el Chat GPT entrega un texto sin comillas, como un cheque al portador, que puede cobrarlo quien lo tiene (solo que en lo referido a los **verdaderos intereses** del que está en **formación**, se trata de un cheque sin fondos \[…\]). ¡Quien está contestando la tarea es la **inteligencia artificial**, no el estudiante!
+
+5\. Haz una prueba: inventémonos una **tarea** que todavía no te han asignado. Pidámosle al Chat GPT que haga un resumen de la novela Cien años de soledad de García Márquez. Entregará cuatro párrafos “perfectos”, en pocos segundos. Pero tú no has leído la novela, te has privado de crecer con esa **experiencia**. ¿O acaso te da igual entregar la foto a color de un banquete que haberlo disfrutado?
+
+6\. Dijo el **filósofo colombiano**, antioqueño de la **primera mitad del siglo XX**, Fernando González, que leer es estar en **condiciones** de encontrarle más matices al mundo y a la vida. Leer te aporta un prisma a través del cual ves mejor la **complejidad** de los fenómenos que se te ponen al frente. Y, si después de leer, tratas de poner por escrito tus ideas, incluso tus **confusiones**, encontrarás que te has enriquecido con la **experiencia**, que cada vez analizas mejor y te expresas mejor, de manera más rica, más profunda (…): leer y escribir te ayudan a ordenar y a ahondar tus **pensamientos**, a encontrarles relación con una cantidad de otras ideas, de buenas ideas. Leer y escribir te ponen a **otro nivel**.
+
+7\. ¿Qué impresión tienes cuando conoces y conversas con una de esas **personas** a las que se les nota la **educación** que han tenido? Que les sale a relucir lo que han leído y lo que han escrito (…) No suelen ser las personas que primero hablan ni lo hacen de manera acalorada, atropellada, repetitiva o frondosa; prefieren primero oír y luego hablan con **serenidad** y **sabiduría**, acaso con **brevedad**. Dicen las cosas de manera tan admirable, tan inmejorable, que uno piensa: ¡Esto pudiera transcribirse tal cual al papel, está correcto! (…).
+
+8\. Cuentan que el **escritor norteamericano John Steinbeck** no tenía **talento**, facilidad para escribir, al menos al inicio de su carrera. En su **juventud** respondía, además, por numerosos oficios de **supervivencia**, algunos pesados físicamente, que lo hacían llegar cansado (…) a su cuarto. Pero se había propuesto ser escritor, escribir digamos de 9 a 11 pm todos los días. Cuando no “le salía” nada, entonces escribía los **ejercicios** de **mecanografía aprendidos** (…) Con el tiempo, prácticamente sus manos “escribían solas”: la práctica lo puso en condiciones de **convertir** en relatos cada vez mejores, sus **ocurrencias**, sus vivencias, sus reflexiones. Llegó a ganar el Premio Nobel.
+
+9\. Querido amigo estudiante (…): tú tienes menos limitaciones que Steinbeck; cuando te sientas frente a la **computadora** no estás tan agotado. Haz tus tareas por ti mismo, no importa que con errores; ¡irás mejorando cada día! No pongas a la **inteligencia artificial** a hacer tus tareas (puede ser que, después de escribir lo tuyo, le hagas las mismas preguntas a la IA y compares lo que hiciste con lo que ella “dice”; es perfectamente legítimo que complementes lo tuyo con lo que esa **enorme memoria** que es la **inteligencia** **artificial** te aporta. Pero haz los añadidos con tus palabras, en tus términos).
+
+10\. **Entregar tareas hechas por la IA** es pretender engaña al profesor. Casi nunca se logra, él lo descubre. **Pretender engañar al profesor e**ntregando respuestas de la IA es por lo menos desconsiderado con sus canas. Pero en el caso del estudiante, la cosa es más grave. Tu formación –que es para lo que estás estudiando- es como un bebé al que nutres con **esfuerzos** y con **avances**. ¿Le darías cualquier bebida, digamos barata, edulcorada, aprovechándote de que los bebés no pueden reclamar o discernir que les está pasando? Le darías, por el contrario, el mejor nutriente (…) para que sea de provecho. Entonces, ¡no hagas la tontería de engañarte a ti mismo!
+
+11\. Cuentan que un **dirigente político**, por allá, en otro planeta muy parecido a este, se precia de que no les pierde tiempo a sus **discursos** porque todos los hace la IA. Creo que, enterada de este detalle, la **inteligencia artificial**, si pudiera votar, no votaría por él (es artificial, pero no deja de ser inteligencia).
+
+12\. Queridos amigos estudiantes (…), esto lo escribí con mucho afecto, pero no con **inteligencia artificial**”. 
+
+Zelenski pide a Alemania misiles de largo alcance tras amenaza nuclear de Putin
+===============================================================================
+
+Olaf Scholz reiteró su negativa a suministrar este tipo de armamento por el riesgo de provocar una escalada.
+------------------------------------------------------------------------------------------------------------
+
+![Volodímir Zelenski en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/volodimir-ucrania-efe.jpg)
+
+ El presidente ucraniano, [Volodímir Zelenski](https://www.elcomercio.com/actualidad/mundo/zelenski-rusia-ataque-central-zaporiyia-radiacion.html "https://www.elcomercio.com/actualidad/mundo/zelenski-rusia-ataque-central-zaporiyia-radiacion.html"), pidió este martes, 19 de noviembre de 2024, a Alemania que envíe a Ucrania **armamento de largo alcance** en respuesta a la decisión del presidente ruso, Vladímir Putin, de endurecer su **doctrina nuclear** después de que Estados Unidos permitiera a Kiev usar sus misiles balísticos contra objetivos militares situados dentro de Rusia.
+
+### Más noticias
+
+* [Ucrania ataca por primera vez territorio ruso con misiles estadounidenses](https://www.elcomercio.com/actualidad/mundo/ucrania-ataca-por-primera-vez-territorio-ruso-con-misiles.html "Ucrania ataca por primera vez territorio ruso con misiles estadounidenses")
+* [Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales](https://www.elcomercio.com/actualidad/mundo/putin-aprueba-doctrina-que-permite-respuesta-nuclear-a-ataques-convencionales.html "Putin aprueba doctrina que permite respuesta nuclear a ataques convencionales")
+* [Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia](https://www.elcomercio.com/actualidad/mundo/joe-biden-autoriza-misiles-largo-alcance-ucrania-ofensiva-contra-rusia.html "Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia")
+
+“Por lo que respecta a las **capacidades de larga distancia**, estamos trabajando para que todos los países las apoyen. Pienso que, después de las declaraciones (de Putin) sobre **armamento nuclear** es hora de que Alemania tome las decisiones correspondientes”, dijo Zelenski.
+
+La petición de Zelenski se produjo después de que el canciller alemán, Olaf Scholz, reiterase desde Rio de Janeiro, donde asiste a la cumbre del G-20, su negativa a suministrar este tipo de armamento por el riesgo de provocar una escalada.
+
+El presidente ruso Vladímir Putin emitió este martes un decreto para modificar la **doctrina nuclear** del país, que pasa a considerar un **ataque con misiles balísticos** contra su territorio un motivo suficiente para utilizar su armamento nuclear.
+
+Según dijo este martes una fuente militar ucraniana al medio de Kiev RBK, el Ejército ucraniano atacó por primera vez la pasada noche territorio ruso con un **misil balístico estadounidense ATACMS.** Un arsenal ruso situado en la región de Briansk fue alcanzado en el ataque.
+
+Durante su visita de este martes a Ucrania, la primera ministra danesa visitó junto a Zelenski una **fábrica de drones de largo alcance.** Dinamarca fue el primer país en apoyar la producción propia de armamento de Ucrania comprando a sus empresas parte del armamento que envía a Kiev para repeler la agresión rusa.
+
+La Unión Europea y otros aliados de Ucrania siguen el ejemplo danés.
+
+Sector de producción de cerdo dice que está en riesgo por posible TLC con Canadá
+================================================================================
+
+El sector ecuatoriano de producción de cerdo exige ser excluido del TLC con Canadá.
+-----------------------------------------------------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/cerditos.jpg)
+
+La posible firma de un Tratado de Libre Comercio (TLC) entre **Ecuador y Canadá** preocupa al **sector de producción de cerdo ecuatoriano**. El gremio exige ser declarado como “actor ultrasensible” y quedar **excluido** de estas negociaciones[.](https://es.wikipedia.org/wiki/Ecuador "https://es.wikipedia.org/wiki/Ecuador")
+
+### Más noticias
+
+* [Organizaciones sociales cuestionan confidencialidad del TLC entre Ecuador y Canadá](https://www.elcomercio.com/actualidad/negocios/organizaciones-sociales-cuestionan-confidencialidad-el-tlc-entre-ecuador-y-canada.html "Organizaciones sociales cuestionan confidencialidad del TLC entre Ecuador y Canadá")
+* [La Unión Europea celebra 7 años del acuerdo comercial con Ecuador](https://www.elcomercio.com/actualidad/mundo/union-europea-celebra-7-anos-acuerdo-comercial-ecuador.html "La Unión Europea celebra 7 años del acuerdo comercial con Ecuador")
+* [Costa Rica es una puerta de ingreso para Ecuador en Centroamérica](https://www.elcomercio.com/opinion/editorial/costa-rica-entrada-puerta-ecuador-centroamerica.html "Costa Rica es una puerta de ingreso para Ecuador en Centroamérica")
+
+Representantes del gremio advierten que un **acuerdo comercial con Canadá,** en las condiciones actuales, podría devastar la industria porcina local y su cadena de valor.
+
+Además, señalan que el sector de ecuatoriano produce anualmente 220 000 toneladas métricas de carne de cerdo y genera 180 000 empleos directos, principalmente en zonas rurales. Asimismo, aporta alrededor de 1 000 millones de dólares a la economía y absorbe medio millón de toneladas de maíz nacional al año, un insumo clave para su operación.
+
+Sin embargo, esta industria enfrenta desventajas estructurales frente a Canadá, cuya producción porcina cuenta con subsidios estatales de 6 000 millones de dólares anuales.
+
+Este respaldo permite que **Canadá** sea el cuarto **exportador mundial** de **carne de cerdo**, con 1,3 millones de toneladas exportadas anualmente. Esto equivale al 65% de la producción canadiense, aseguran.
+
+Posibles peligros con el TLC
+----------------------------
+
+Un **análisis técnico del gremio** prevé que, de abrirse el mercado ecuatoriano a productos porcinos canadienses, habrá una reducción del 46% en la producción nacional. Esto representaría pérdidas económicas estimadas en 800 millones de dólares en ventas y un impacto negativo de 307 millones de dólares en la economía local. Además, se calcula la eliminación de hasta **165 000 empleos**, un golpe crítico para la **ruralidad ecuatoriana**.
+
+Por ello, los **porcicultores** solicitan que la declaratoria de “**actor ultrasensible**” del sector quede plasmada en el **acuerdo comercial con Canadá**. Esto garantizará la exclusión de la negociación de toda la **cadena relacionada con el sector de cerdos**, incluyendo la **producción de maíz**.
+
+El **gremio argumenta** que esta medida es esencial para evitar un **desequilibrio económico** y proteger la sostenibilidad del sector y las familias que dependen de él.
+
+‘Dune: La profecía’ de Max es como ‘Juego de Tronos’ pero futurista
+===================================================================
+
+El universo de Dune llega a la televisión con una épica visual que promete dividir opiniones.
+---------------------------------------------------------------------------------------------
+
+!['Dune: La profecía' es una serie de Max compuesta por seis episodios.](https://www.elcomercio.com/wp-content/uploads/2024/11/serie-dune-El-Comercio.jpg)
+
+Desde su estreno el 17 de noviembre de 2024 en **Max**, **‘Dune: La profecía**‘ ha captado la atención de los seguidores de la ciencia ficción. Esta nueva serie, basada en el **universo de Dune** creado por **Frank Herbert**, ocurre 10 000 años antes de los eventos de las películas recientes.
+
+Inspirada en la novela ‘**Sisterhood of Dune’ de Brian Herbert y Kevin J. Anderson**, la trama sigue a **las hermanas Valya y Tula Harkonnen**, figuras clave en la fundación de las Bene Gesserit, una orden con gran influencia en el universo Dune.
+
+### Más noticias
+
+* **[Netflix lanza un avance especial del ‘Juego del Calamar 2’](https://www.elcomercio.com/afull/netflix-lanza-avance-especial-juego-calamar-2-segunda-temporada.html "https://www.elcomercio.com/afull/netflix-lanza-avance-especial-juego-calamar-2-segunda-temporada.html")**
+* **[‘Shogun’ ¿Es tan buena como dicen?](https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html "https://www.elcomercio.com/afull/shogun-serie-vestuario-violencia-idioma-elenco-trama.html")**
+
+El sitio especializado en cine Sensacine destaca que la narrativa de la serie combina elementos políticos y conspirativos, similar a ‘Juego de Tronos’ pero con un giro futurista y extraño. Esta conexión no solo es visual, sino también temática, con luchas de poder y traiciones en el centro de la historia.
+
+**Un despliegue visual impresionante**
+--------------------------------------
+
+![](https://www.elcomercio.com/wp-content/uploads/2024/11/serie-dune-El-Comercio-1-1024x683.jpg)
+
+Emily Watson es una de las protagonistas de la serie ‘Dune: La profecía’. Foto: IMDB
+
+La producción ha sido elogiada por su calidad visual. El sitio Mundo Deportivo resalta el impresionante diseño de escenarios y vestuario. Sin embargo, este despliegue no solo busca maravillar, sino contextualizar una trama densa y a menudo compleja.
+
+El reparto incluye nombres como [**Emily Watson**](https://www.imdb.com/name/nm0001833/ "https://www.imdb.com/name/nm0001833/") **y [Olivia Williams](https://www.imdb.com/name/nm0931404/?ref_=fn_al_nm_1 "https://www.imdb.com/name/nm0931404/?ref_=fn_al_nm_1")**, quienes interpretan a las hermanas Harkonnen. Su química en pantalla ha sido muy celebrada, según críticas recogidas por el sitio especializado **Rotten Tomatoes**, donde la serie tiene una puntuación del 71%.
+
+A pesar de ello, algunos críticos han señalado que la introducción de tantos personajes en el primer episodio podría resultar abrumadora para los espectadores más casuales.
+
+**Comparaciones con ‘Juego de Tronos**‘
+---------------------------------------
+
+La comparación con ‘Juego de Tronos’ no es casualidad. Desde sus primeras escenas, ‘Dune: La profecía’ establece un juego de alianzas y traiciones que recuerda a la exitosa **serie de HBO**.
+
+Según Sensacine, “en un solo episodio, hay suficiente muerte, conspiración y drama político para rivalizar con los conflictos de los Siete Reinos”.
+
+A pesar de ello, algunos críticos consideran que la serie podría asustar a quienes buscan un enfoque más ligero. Mientras ‘Juego de Tronos’ logró equilibrar la intriga política y el desarrollo de personajes, ‘Dune: La profecía’ se presenta como una experiencia más crítica y centrada en sus fanáticos más fieles.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/reel/DCXNwpbNjnG/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida de Max Latinoamérica (@streammaxla)](https://www.instagram.com/reel/DCXNwpbNjnG/?utm_source=ig_embed&utm_campaign=loading)
+
+**¿Un nuevo éxito en Max?**
+---------------------------
+
+El estreno de la serie es parte de la estrategia de Max, la plataforma que combina HBO Max y Discovery+. Según Mundo Deportivo, con más de 99,6 millones de suscriptores, Max busca consolidarse como un competidor fuerte en el mercado del _streaming_.
+
+La crítica está dividida. Mientras algunos celebran su ambición, otros temen que su densidad sea un obstáculo para conectarse con audiencias más amplias. Sin embargo, su primer episodio ha logrado iniciar conversaciones, lo cual deja claro que este universo aún tiene mucho por ofrecer.
+
+**Una serie para los fans más fieles**
+--------------------------------------
+
+Aunque su estreno ha dividido opiniones, ‘Dune: La profecía’ promete convertirse en una adición interesante al universo de Frank Herbert. Cada lunes se estrena un nuevo episodio, son seis en total.
+
+¿Será suficiente para conquistar a los espectadores? El tiempo lo dirá.
+
+Vocales suplentes del CNE exigen transición conforme a la Constitución
+======================================================================
+
+Vocales suplentes del CNE exigen cumplir sentencia de 2019, rechazan prórroga de titulares y anuncian su principalización.
+--------------------------------------------------------------------------------------------------------------------------
+
+![Rueda de prensa de los vocales suplentes del CNE.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-34-3.jpg)
+
+Los vocales suplentes del **Consejo Nacional Electoral (CNE)** presentaron este 19 de noviembre de 2024 un documento ante Corte Constitucional (CC) para solicitar el cumplimiento del dictamen emitido en 2019.
+
+Este documento, según **María Cristina Kronfle**, vocal suplente del CNE, establece que los **períodos de los consejeros son definitivos e inalterables**. Asimismo, que los suplentes tienen el derecho de asumir los cargos principales al finalizar el período de los titulares.
+
+### Más noticias
+
+* [CNE hizo cambios para el debate presidencial 2025](https://www.elcomercio.com/actualidad/politica/cne-cambios-debate-presidencial-2025.html "CNE hizo cambios para el debate presidencial 2025")
+* [Cpccs hará instructivo relacionado con integrantes del CNE](https://www.elcomercio.com/actualidad/politica/cpccs-hara-instructivo-relacionado-con-integrantes-cne.html "Cpccs hará instructivo relacionado con integrantes del CNE")
+* [CNE abre nueva etapa para ser observador en las elecciones 2025](https://www.elcomercio.com/actualidad/politica/cne-abre-nueva-etapa-para-observador-elecciones-2025.html "CNE abre nueva etapa para ser observador en las elecciones 2025")
+
+La acción legal busca evitar lo que calificaron como una **“autoprórroga”** de los actuales consejeros principales.
+
+El recurso fue presentado a pocas horas de que concluya el período constitucional de los vocales titulares **Diana Atamaint, Enrique Pita, José Cabrera y Esthela Acero**. Kronfle afirmó que la medida es fundamental para garantizar la **estabilidad institucional y democrática del país**.
+
+“Confiamos en que este proceso permita restituir el respeto al orden constitucional y evitar acciones que vulneren la **normativa vigente**“, expresó en rueda de prensa.
+
+Argumentos de los vocales suplentes sobre el dictamen de 2019
+-------------------------------------------------------------
+
+María Cristina Kronfle, junto a Mónica Noriega y José Merino, sostuvo que el dictamen de la **Corte Constitucional del 2019** deja claro que los suplentes deben **principalizarse al finalizar el período** de los titulares.
+
+Según los suplentes, este criterio no puede ser aplicado de manera parcial, y rechazaron que se intente utilizar un pronunciamiento previo de la **Procuraduría General del Estado**.
+
+> ‼️[#URGENTE](https://twitter.com/hashtag/URGENTE?src=hash&ref_src=twsrc%5Etfw)  
+> "No necesitamos autorización de nadie (para la principalización)", dice María Cristina Kronfle, vocal suplente del CNE. Ratifica que este miércoles, 20 de noviembre, realizarán el reemplazo legal.  
+> ▶️[@notimundoec](https://twitter.com/notimundoec?ref_src=twsrc%5Etfw) [pic.twitter.com/55OEJd6K80](https://t.co/55OEJd6K80)
+> 
+> — Ecuadorinmediato (@ecuainm\_oficial) [November 19, 2024](https://twitter.com/ecuainm_oficial/status/1858908058862436543?ref_src=twsrc%5Etfw)
+
+En rueda de prensa, Kronfle recordó que este mismo dictamen **ya fue aplicado en otros casos**. Se refirieron, por ejemplo, a la destitución del expresidente del Consejo de Participación Ciudadana y Control Social (Cpccs), Alembert Vera, por incumplimiento.
+
+Los suplentes insistieron en que **su designación por parte de la Asamblea Nacional en 2019 fue legítima.** Además, mencionaron que están preparados para asumir las funciones que les corresponden en este **momento de transición**.
+
+Acciones inmediatas para la principalización en el CNE
+------------------------------------------------------
+
+Los suplentes anunciaron que este **miércoles 20 de noviembre acudirán a las instalaciones del CNE**, para **asumir sus cargos como vocales principales**.
+
+**José Merino** confirmó que estará presente desde las 07:30. Esto a pesar de que se informó sobre posibles **restricciones de acceso en los exteriores del organismo electoral**. Los suplentes solicitaron garantías al Estado para que su ingreso se lleve a cabo sin contratiempos.
+
+> 🇪🇨ECUADOR NO TE DEJES ENGAÑAR:  
+>   
+> LOS ACTUALES VOCALES DEL CNE, SE TIENEN QUE IR POR NORMA EXPRESA‼️  
+>   
+> Auto-prórroga NO HAY 👇🏼 [pic.twitter.com/o6or2pUTdY](https://t.co/o6or2pUTdY)
+> 
+> — María Cristina Kronfle (@mckronfle) [November 17, 2024](https://twitter.com/mckronfle/status/1858263889529524359?ref_src=twsrc%5Etfw)
+
+Además, señalaron que están capacitados para continuar con el **cronograma electoral** de cara a las **elecciones generales de febrero de 2025**.
+
+Kronfle enfatizó que la cercanía de los comicios no debe servir como excusa para mantener la conformación del CNE. “Estamos al tanto de cada una de las actividades del calendario electoral y listos para cumplir con nuestra responsabilidad”, afirmó.
+
+Viña del Mar 2025 tiene su primer listado de artistas confirmados
+=================================================================
+
+Solo una cantante chilena figura en la lista de artistas confirmados.
+---------------------------------------------------------------------
+
+![Myriam Hernández participará en Viña del Mar 2025. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-19T120329.096.jpg)
+
+El LXIV **Festival Internacional de la [Canción de Viña del Mar](https://www.elfestival.tv/ "https://www.elfestival.tv/")** se realizará del 23 al 28 de febrero de 2025 en el icónico Anfiteatro de la **Quinta Vergara**, en Viña del Mar, **Chile**.
+
+Ese **evento**, uno de los más importantes de **América Latina**, promete atraer a miles de asistentes y millones de televidentes a nivel internacional.
+
+### **Más noticias:**
+
+* [¿Quién es la novia de la hija mayor de Carlos Vives?](https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html "https://www.elcomercio.com/tendencias/entretenimiento/carlos-vives-musica-novia-latin-grammy.html")
+* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
+* [El cuerpo de Liam Payne finalmente llegó a casa](https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link "https://www.elcomercio.com/tendencias/entretenimiento/liam-payne-cuerpo-repatriado-londres.html?source=Internal&ref=Single+Content+Link")
+
+**¿Dónde se verá Viña del Mar 2025?**
+-------------------------------------
+
+La producción del **festival** estará a cargo de Mega, un canal de televisión chileno que ganó la licitación para transmitir el evento.
+
+La transmisión también se realizará a través de plataformas de **streaming** como Disney+ en Latinoamérica.
+
+**¿Quiénes presentarán Viña del Mar?**
+--------------------------------------
+
+Los presentadores principales serán Rafael Araneda y Karen Doggenweiler. Ellos aportarán su amplia experiencia en la animación de este tipo de espectáculos.
+
+**Viña del Mar 2025 tiene su primer listado de artistas confirmados**
+---------------------------------------------------------------------
+
+Varios artistas destacados se presentarán durante las seis noches del festival. Entre ellos se encuentran el reconocido cantante estadounidense Marc Anthony, el colombiano Carlos Vives y la chilena Myriam Hernández.
+
+> [View this post on Instagram](https://www.instagram.com/p/DChBqzbxmve/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Myriam Hernandez (@myriamhernandez\_oficial)](https://www.instagram.com/p/DChBqzbxmve/?utm_source=ig_embed&utm_campaign=loading)
+
+Otros artistas que también formarán parte del evento son **Sebastián Yatra,** el dúo Ha\*Ash, la banda Bacilos y el rapero argentino Duki.
+
+**Viña del Mar es la vitrina de artistas emergentes**
+-----------------------------------------------------
+
+Además de las actuaciones musicales, el **festival** incluirá competencias internacionales y folclóricas, donde se espera la participación de nuevos talentos emergentes.
+
+> [View this post on Instagram](https://www.instagram.com/p/DCft2USNOiM/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by Festival de Viña del Mar (@elfestivaldevina)](https://www.instagram.com/p/DCft2USNOiM/?utm_source=ig_embed&utm_campaign=loading)
+
+Las postulaciones para estas competencias se cerraron el 1 de noviembre de 2024.
+
+Las ballenas azules forman una sola gran población en la Antártida
+==================================================================
+
+El animal más grande del mundo forma una única población en la Antártida, lo que es clave para su conservación y adaptación.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Ballena azul](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-3-2.jpg)
+
+El animal más grande del mundo, la **ballena azul**, forma una sola gran **población** circumpolar en la **Antártida** y no está dispersa en **varias comunidades**, a pesar del enorme tamaño del **océano austral**[.](https://es.wikipedia.org/wiki/Balaenoptera_musculus "https://es.wikipedia.org/wiki/Balaenoptera_musculus")
+
+#### Más noticias
+
+* [Científicos vigilan población de iguanas rosadas en el volcán Wolf de las Islas Galápagos](https://www.elcomercio.com/actualidad/ecuador/cientificos-vigilan-poblacion-de-iguanas-rosadas-en-el-volcan-wolf-de-las-islas-galapagos-2.html "Científicos vigilan población de iguanas rosadas en el volcán Wolf de las Islas Galápagos")
+* [La Conferencia de Biodiversidad 2024 es una oportunidad para el mundo](https://www.elcomercio.com/opinion/editorial/cop16-cali-colombia-paises-compromisos.html "La Conferencia de Biodiversidad 2024 es una oportunidad para el mundo")
+* [Ballena cachalote se quedó varada en playa de Ecuador](https://www.elcomercio.com/actualidad/ecuador/ballena-cachalote-varada-playa-ecuador.html "Ballena cachalote se quedó varada en playa de Ecuador")
+
+Basándose en la última evaluación de las **ballenas azules antárticas** en 2004 y utilizando registros antiguos de **caza de ballenas**, que eran sorprendentemente detallados, un equipo dirigido por Zoe Rand, estudiante de doctorado de la Universidad de Washington publicó sus hallazgos en la revista Endangered Species Research.
+
+Nuevas perspectivas en la conservación de las ballenas azules antárticas
+------------------------------------------------------------------------
+
+Las **ballenas azules antárticas** -con 30 metros de longitud y más de 200 toneladas de peso- están catalogadas como una especie en **peligro de extinción**, y comprender la estructura de su población es esencial para su **conservación**. La conservación a **nivel de población** aumenta la **biodiversidad**, lo que ayuda a la especie a adaptarse mejor a los **cambios ambientales** y aumenta las posibilidades de **supervivencia** a largo plazo.
+
+Durante los años de **caza de ballenas**, los biólogos comenzaron el Discovery Marking Program. Se clavaron varillas de metal de 30 centímetros con números de serie en los músculos de las ballenas. Cuando se capturaron estas **ballenas**, se devolvió la varilla de metal y se anotó el tamaño, el sexo, la longitud y el lugar donde se capturó a la **ballena**. Comparar dónde se marcaron las **ballenas** con dónde se capturaron podría arrojar información valiosa sobre el **movimiento de las ballenas azules antárticas**, pero estos datos nunca se han utilizado antes para analizar la estructura de la población, informa la Universidad de Washington.
+
+Nuevas evidencias sobre la migración y la unicidad de la población de ballenas azules antárticas
+------------------------------------------------------------------------------------------------
+
+En este nuevo estudio, estos **datos históricos** se utilizaron junto con datos de **encuestas** contemporáneas en modelos bayesianos para calcular las **tasas de movimiento** interanual entre las tres cuencas oceánicas que conforman el Océano Austral (Atlántico, Índico y Pacífico), que constituyen las **zonas de alimentación** de las **ballenas azules antárticas**. El equipo encontró una mezcla frecuente entre las **cuencas oceánicas,** lo que sugiere que las **ballenas** no regresan a la misma cuenca todos los años. Esto indica que las **ballenas azules antárticas** son una única población circumpolar en el **Océano Austral**.
+
+Estos resultados son consistentes con los **estudios** de los cantos de las **ballenas azules antárticas**, que se escuchan en todo el Océano Austral. Solo se ha registrado un tipo de canto entre las ballenas azules antárticas. En comparación, las **ballenas azules pigmeas** tienen cinco cantos diferentes que corresponden a cinco **poblaciones diferentes.** Estos resultados también son consistentes con los **estudios genéticos**, que encontraron que las **ballenas azules antárticas** están más estrechamente relacionadas de lo que se esperaría si fueran **poblaciones** separadas.
+
+Nuevo análisis cuantitativo de las ballenas azules antárticas
+-------------------------------------------------------------
+
+Este estudio es la primera vez que los **datos históricos** de **recuperación de marcas** del Programa de Marcado Discovery se han analizado utilizando **métodos cuantitativos modernos**. Estos datos existen para muchas otras especies de **ballenas cazadas,** como las ballenas de aleta y sei, por lo que los métodos del **nuevo estudio** podrían proporcionar un marco para **análisis similares** también para esas **especies de ballenas.**
+
+Todavía hay mucho que los **científicos** no saben sobre la **ballena azul antártica.** Aunque no parecen estar separadas geográficamente en sus **aguas de alimentación** en diferentes **cuencas oceánicas,** aún podrían tener **estructuras poblacionales** distintas basadas en diferencias en los hábitats de reproducción o el momento de la **migración**.
+
+Descubriendo el comportamiento reproductivo de la ballena azul antártica
+------------------------------------------------------------------------
+
+Sin embargo, casi nada se sabe sobre el **comportamiento reproductivo** de la **ballena azul antártica**, según los investigadores. El uso de datos históricos de la caza de ballenas junto con datos contemporáneos, como el etiquetado por satélite y la identificación fotográfica, sigue siendo la mejor esperanza de los científicos para descubrir los secretos del animal más grande de la Tierra.
+
+¿Con quién juega Ecuador hoy? Así está la tabla de posiciones en eliminatorias.
+===============================================================================
+
+La Selección de Ecuador llega en el quinto lugar de la eliminatoria a esta jornada. ¿Con quién juega Ecuador hoy?
+-----------------------------------------------------------------------------------------------------------------
+
+![Hernán Galíndez, arquero de la Selección de Ecuador ante Colombia.](https://www.elcomercio.com/wp-content/uploads/2024/11/Galiondez.jpg)
+
+La **Selección de Ecuador** arribó a **Barranquilla** en la noche del 18 de noviembre de 2024, con la vista puesta en su último partido del año por las eliminatorias sudamericanas al **Mundial 2026**. ¿Con quién juega Ecuador hoy?
+
+**Ecuador** llegará al encuentro en la quinta posición de la tabla con 16 puntos, luego de 11 partidos disputados.
+
+La selección está a solo un punto de Brasil (4° con 17), pero debe medirse con una de las selecciones más fuertes del momento, **Colombia**, que ocupa el tercer lugar, con 19 unidades.
+
+### Más noticias:
+
+* [¿A qué hora juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/horario-partido-ecuador-colombia-eliminatorias-sudamericanas.html "¿A qué hora juega la Selección de Ecuador vs. Colombia?")
+* [Cristian Ramírez revela por qué volvió a la Selección de Ecuador](https://www.elcomercio.com/deportes/cristian-ramirez-seleccion-ecuador-regreso.html "Cristian Ramírez revela por qué volvió a la Selección de Ecuador")
+* [Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-amenaza-con-dar-la-sorpresa-a-colombia-en-eliminatorias.html "Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias")
+
+Este martes 19 de noviembre del 2024, la **Tri** se enfrentará a **Colombia** en el estadio **Metropolitano de Barranquilla**, a las 18:00 hora de Ecuador, por la jornada 12 del proceso clasificatorio.
+
+**Así está la tabla de posiciones:**
+------------------------------------
+
+1. **Argentina** – 22 puntos
+2. **Uruguay** – 19 puntos
+3. **Colombia** – 19 puntos
+4. **Brasil** – 17 puntos
+5. **Ecuador** – 16 puntos
+6. **Paraguay** – 16 puntos
+7. **Venezuela** – 12 puntos
+8. **Bolivia** – 12 puntos
+9. **Perú** – 7 puntos
+10. **Chile** – 6 puntos
+
+Partido Colombia vs. Ecuador
+----------------------------
+
+El partido ante los colombianos es clave para que la Tri’ mantenga su posición en los puestos de clasificación directa al Mundial, cerrando 2024 de manera positiva. Ecuador ha mostrado solidez durante el año, especialmente tras el cambio de entrenador, con **Sebastián Beccacece** tomando las riendas a mediados de 2024.
+
+Este será el último compromiso del año para los dirigidos por el argentino, que buscan seguir sumando en su objetivo de estar en la próxima **Copa del Mundo.**
+
+**Historial de enfrentamientos en Colombia**
+--------------------------------------------
+
+Ecuador tiene un historial complicado en suelo colombiano. En 21 encuentros de eliminatorias, la selección ecuatoriana solo ha ganado una vez en Colombia, en 1965. Desde entonces, no ha logrado derrotar a los cafeteros en territorio colombiano.
+
+**Ficha del partido**
+---------------------
+
+* **Fecha:** Martes 19 de noviembre
+* **Hora:** 18:00 (hora de Ecuador)
+* **Estadio:** Metropolitano Roberto Meléndez, Barranquilla
+
+Recta final del juicio a Dominique Pelicot
+==========================================
+
+Una vez que terminen, se espera que hablen por primera vez los dos hijos varones de Gisèle y Dominique Pelicot, David y Florian.
+--------------------------------------------------------------------------------------------------------------------------------
+
+![Gisèle Pelicot a su llegada al tribunal de Avignon.](https://www.elcomercio.com/wp-content/uploads/2024/11/gisele-efe-noviembre.jpg)
+
+El juicio contra [Dominique Pelicot](https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html "https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html") y otros **50 acusados de** violar a Gisèle (exesposa del primero), a lo largo de 10 años, bajo los **efectos de somníferos**, entra en la recta final con los últimos interrogatorios.
+
+### Más noticias
+
+* [Gisele Pelicot llegó al Tribunal de Aviñón con su testimonio](https://www.elcomercio.com/actualidad/mundo/gisele-pelicot-llego-al-tribunal-de-avinon-con-su-testimonio.html "Gisele Pelicot llegó al Tribunal de Aviñón con su testimonio")
+* [Con audiencia de testigos Gisèle Pelicot corre el riesgo de ser revictimizada](https://www.elcomercio.com/actualidad/mundo/con-audiencia-testigos-gisele-pelicot-corre-riesgo-ser-revictimizada.html "https://www.elcomercio.com/actualidad/mundo/con-audiencia-testigos-gisele-pelicot-corre-riesgo-ser-revictimizada.html")
+* [Se proyectarán los videos de las violaciones a Gisèle Pelicot](https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html "https://www.elcomercio.com/actualidad/mundo/proyectaran-videos-violaciones-gisele-pelicot.html")
+
+El lunes, 18 de noviembre de 2024, empiezó la undécima semana de este **macrojuicio,** con las declaraciones de los últimos acusados: **Nicolas F., periodista de 43 años; Boris M., trabajador de 37 años en una empresa de transportes; Philippe L., jardinero de 62; y Joseph C., jubilado de 69 años.**
+
+Una vez que terminen, se espera que hablen por primera vez los dos **hijos varones de Gisèle** y **Dominique Pelicot, David y Florian.**
+
+La hija, Caroline Darian, ya lo hizo la primera semana, aunque podría volver a declarar, como Gisèle Pelicot, si ellas quieren.
+
+Desde que el pasado 2 de septiembre comenzó este juicio ante el **Tribunal de Aviñón (sureste de Francia)**, testificaron más de un **centenar de personas,** entre los 51 acusados, con edades que van de los **26 a los 74 años**, expertos en **psiquiatría y familiares**, como mujeres, exparejas e hijos.
+
+Además de Dominique Pelicot, **14 hombres reconocieron cometer las violaciones,** mientras que 35 lo rechazaron alegando diversos motivos, que van desde el desconocimiento de estar cometiendo dicho delito al sometimiento al exmarido de Gisèle Pelicot, al que acusan de ser el instigador.
+
+A uno de los acusados, Hassan O., de 30 años, se le juzga en su ausencia porque se dio a la fuga.
+
+Los hechos investigados se remontan a 2011, cuando **Dominique Pelicot, que ahora tiene 71 años,** empezó a drogar con grandes dosis de ansiolíticos a su mujer, de la misma edad, para dejarla en estado de inconsciencia para violarla.
+
+Con el tiempo, insatisfecho con sus actos, empezó a contactar a **decenas de hombres a través de Internet** para que abusaran sexualmente de su mujer en su presencia en la casa familiar, situada en Mazan (sureste de Francia).
+
+Sin el consentimiento de Gisèle Pelicot
+---------------------------------------
+
+Eso ocurría siempre **sin el consentimiento de Gisèle**, que estaba completamente anestesiada por los efectos de los medicamentos, como el mismo Dominique Pelicot admitió, nada más empezar el juicio.
+
+Los métodos eran claros y repetitivos, según relató el principal acusado, que se enfrenta a penas que pueden llegar a los **20 años de prisión.**
+
+Las reglas que debían cumplir
+-----------------------------
+
+En concreto, buscaba a los hombres en sitios en línea, les advertía de que su mujer de entonces -están divorciados desde agosto- **estaría “dormida”,** que **no tenían que oler a tabaco ni tener las uñas largas,** que tenían prohibido hacer ruido, que tenían que hacer caso de lo que él les dijera, para evitar ser descubiertos, **y que él lo grabaría todo.**
+
+“Tenía la familia ideal, **lo arruiné todo y ahora debo pagar**“, reconoció de forma tajante el pasado 17 de septiembre. Sin embargo, puntualizó que no es el único culpable: “**Soy un violador, como todos los demás acusados, que estaban al corriente de todo”.**
+
+Esos actos se alargaron prácticamente una década, hasta septiembre 2020, cuando Dominique Pelicot fue descubierto grabando bajo las faldas de **varias clientas de un supermercado** y fue sorprendido por un guardia de seguridad.
+
+La mujer sufría principio de Alzheimer
+--------------------------------------
+
+Las mujeres lo denunciaron, la policía lo detuvo y descubrió una recopilación de centenares de vídeos, fotos y montajes de las **decenas de violaciones que sufrió Gisèle Pelicot**, que nunca antes había advertido nada y que pensó durante años que sus problemas ginecológicos se debían a una dolencia aún no diagnosticada y que **sufría un principio de Alzheimer**, debido a las frecuentes pérdidas de memoria.
+
+Este juicio mediático despertó interés de todo el mundo, como lo muestran los 1**65 medios acreditados** para seguir el caso en el Tribunal de Aviñón, donde cada jornada Gisèle Pelicot es ovacionada por el público **asistente a las audiencias**, con una presencia mayoritaria de mujeres.
+
+Gisèle, además, se convirtió en un **símbolo feminista internacional**, al decidir dar la cara y pedir que su caso sea público. ¿El motivo? **“Que la vergüenza cambie de bando”,** como ella mismo dijo a la prensa al inicio del proceso.
+
+La intención del presidente del Tribunal de Aviñón, Roger Arata, es empezar con las peticiones de penas de la acusación particular, es decir, de los abogados de Gisèle Pelicot. El **jueves sería el turno de la Fiscalía,** que se alargaría hasta viernes. La semana próxima vendría el turno de las defensas. La sentencia se espera el 20 de diciembre.
