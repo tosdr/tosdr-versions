@@ -10,7 +10,7 @@
 * [Recherchen](https://netzpolitik.org/dossiers-recherchen/)
 * [Podcast](https://netzpolitik.org/podcast/)
 * [Newsletter](https://netzpolitik.org/newsletter)
-* [Spenden](https://netzpolitik.org/spenden/?via=menue)
+* [Spenden](https://netzpolitik.org/vollehaerte/?via=menue)
 * [Shop](https://netzpolitik.org/shop)
 * [Über uns](https://netzpolitik.org/ueber-uns)
 
