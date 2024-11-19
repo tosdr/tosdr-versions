@@ -1,6 +1,6 @@
 **JavaScript seems to be disabled in your browser.** For the best experience on our site, be sure to turn on Javascript in your browser.
 
- [![](https://www.mypillow.com/media/logo/stores/1/websitelogo.png)](https://www.mypillow.com/)
+[![](https://www.mypillow.com/media/logo/stores/1/websitelogo.png)](https://www.mypillow.com/)
 
 [Skip to Content](#contentarea)
 
@@ -33,8 +33,8 @@ Customer Service [1-800-308-1299](tel:18003081299)
     * [Pillowcases](https://www.mypillow.com/bedding/pillowcases)
     * [Accessory Pillows](https://www.mypillow.com/accessory-pillows)
     * [Multi-Use MyPillows](https://www.mypillow.com/multi-use-mypillow)
-    * [Body Pillow](https://www.mypillow.com/bedding/mybody-pillow)
-    * [Bolster Pillow](https://www.mypillow.com/bedding/bolster-pillow-w-bolster-pillowcase)
+    * [Body Pillow](https://www.mypillow.com/mybody-pillow)
+    * [Bolster Pillow](https://www.mypillow.com/bolster-pillow-w-bolster-pillowcase)
     * [Bible Story MyPillows](https://www.mypillow.com/2-pack-childrens-bible-pillows-offer)
     * [Couch and Recliner Pillows](https://www.mypillow.com/couch-and-recliner-pillows)
 * [Bedding](https://www.mypillow.com/bedding)
@@ -89,7 +89,7 @@ Get Even Lower Prices!
 
 Apply
 
- ![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
+![](https://www.mypillow.com/media/wysiwyg/promotions/free-shipping-75-exclude.jpg)
 
 * [Home](https://www.mypillow.com/ "Go to Home Page")
 * **Privacy Policy**
@@ -163,7 +163,7 @@ Website Owner and its online advertising vendors may use various technologies to
 **Last Update**  
 _This Privacy Policy was last updated on February 24, 2021._
 
- ![](https://www.mypillow.com/media/logo/default/mypillow-logo-white.png)
+![](https://www.mypillow.com/media/logo/default/mypillow-logo-white.png)
 
 Order now [1-800-544-8939](tel:18005448939)
 
