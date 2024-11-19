@@ -48,14 +48,14 @@
     
     *   ![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg)![Tarife](https://www.telekom.de/resources/images/974632/internet-tarife.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife "Internet-Tarife")
-        * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit "Internet-Tarife ohne Laufzeit")
+        * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/shop/tarife/internet-tarife-flex "Internet-Tarife ohne Laufzeit")
         * [Für junge Leute unter 28](https://www.telekom.de/shop/tarife/internet-tarife-young "Für junge Leute unter 28")
         * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz "Zubuchoptionen")
         * [Verfügbarkeitsprüfung](https://www.telekom.de/netz/dsl-vdsl-lte-verfuegbarkeit?wt_mc=ii_sososoxx_navi-internet-tarife-verfuegbarkeitspruefung "Verfügbarkeitsprüfung")
     *   ![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg)![Geräte](https://www.telekom.de/resources/images/974628/internet-geraete.svg) Geräte ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [WLAN & Router](https://www.telekom.de/zuhause/geraete-und-zubehoer/wlan-und-router?wt_mc=ii_sososoxx_navi-internet-geraete-wlan-router "WLAN & Router")
         * [Festnetztelefone](https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone "Festnetztelefone")
-        * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome "Smart Home Geräte")
+        * [Smart Home Geräte](https://shop.telekom.de/smart-home "Smart Home Geräte")
     *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [WLAN Pakete](https://www.telekom.de/festnetz/heimvernetzung/wlan-pakete "WLAN Pakete")
         * [WLAN Optimierung](https://www.telekom.de/festnetz/heimvernetzung/wlan-optimierung "WLAN Optimierung")
@@ -123,6 +123,7 @@
     
     *   ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg) Tarife ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Glasfaser-Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte-glasfaser-tarife "Glasfaser-Tarife")
+        * [Tarife vergleichen: Glasfaser und DSL](https://www.telekom.de/netz/glasfaser/tarife-vergleichen "Tarife vergleichen: Glasfaser und DSL")
     *   ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg) Glasfaservorteile ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Glasfaser Vorteile](https://www.telekom.de/netz/glasfaser-vorteile "Glasfaser Vorteile")
         * [Glasfaserausbau](https://www.telekom.de/netz/glasfaser/glasfaserausbau "Glasfaserausbau")
@@ -143,7 +144,7 @@
     
     *   ![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg)![Tarife](https://www.telekom.de/resources/images/974626/glasfaser-tarife-produkte.svg) Junge Leute unter 28 ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg) ![Weiter](https://www.telekom.de/resources/images/1080210/arrow-right-hover.svg)  
         * [Young Mobilfunk-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young "Young Mobilfunk-Tarife")
-        * [Young Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=internet-tarife "Young Internet-Tarife")
+        * [Young Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife-young "Young Internet-Tarife")
         * [Young Internet-Tarife mit TV](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=mtv-tarife "Young Internet-Tarife mit TV")
     
       ![Schließen](https://www.telekom.de/resources/images/1080216/close.svg)![Schließen](https://www.telekom.de/resources/images/1080218/close-hover.svg) Menü schließen
@@ -352,9 +353,9 @@
                 
             * [Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife)
                 
-            * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/festnetz/tarife-und-optionen/dsl-ohne-vertragslaufzeit)
+            * [Internet-Tarife ohne Laufzeit](https://www.telekom.de/shop/tarife/internet-tarife-flex)
                 
-            * [Für junge Leute unter 28](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute)
+            * [Für junge Leute unter 28](https://www.telekom.de/shop/tarife/internet-tarife-young)
                 
             * [Zubuchoptionen](https://www.telekom.de/optionsuebersicht/festnetz)
                 
@@ -371,7 +372,7 @@
                 
             * [Festnetztelefone](https://www.telekom.de/zuhause/geraete-und-zubehoer/festnetz-telefone)
                 
-            * [Smart Home Geräte](https://www.telekom.de/zuhause/magenta-smarthome)
+            * [Smart Home Geräte](https://shop.telekom.de/smart-home)
                 
             
         *  ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Heimvernetzung ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
@@ -536,6 +537,8 @@
                 
             * [Glasfaser-Tarife](https://www.telekom.de/netz/glasfaser?ActiveTabID=glasfaser-tarife&wt_mc=ii_sososoxx_navi-glasfaser-tarife-und-produkte-glasfaser-tarife)
                 
+            * [Tarife vergleichen: Glasfaser und DSL](https://www.telekom.de/netz/glasfaser/tarife-vergleichen)
+                
             
         *  ![Vernetztes Zuhause](https://www.telekom.de/resources/images/974634/internet-vernetztes-zuhause.svg)Glasfaservorteile ![Weiter](https://www.telekom.de/resources/images/1080208/arrow-right.svg)
             
@@ -591,7 +594,7 @@
                 
             * [Young Mobilfunk-Tarife](https://www.telekom.de/mobilfunk/tarife/smartphone-tarife-young)
                 
-            * [Young Internet-Tarife](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=internet-tarife)
+            * [Young Internet-Tarife](https://www.telekom.de/shop/tarife/internet-tarife-young)
                 
             * [Young Internet-Tarife mit TV](https://www.telekom.de/festnetz/tarife-und-optionen/fuer-junge-leute?ActiveTabID=mtv-tarife)
                 
