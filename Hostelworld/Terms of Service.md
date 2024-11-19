@@ -15,7 +15,7 @@ USD
 Hostels Worldwide
 =================
 
-We have 12452 Hostels in 2594 cities.
+We have 12450 Hostels in 2597 cities.
 
 Where do you want to go?
 
@@ -1993,7 +1993,7 @@ nattaliarr
 
 BarcelonaHostels
 
-from US$10.65
+from US$2.73
 
 [](https://www.hostelworld.com/st/hostels/europe/netherlands/amsterdam/ "Amsterdam Hostels")
 
@@ -2025,7 +2025,7 @@ lauren\_dixon
 
 LisbonHostels
 
-from US$9.32
+from US$8.52
 
 [](https://www.hostelworld.com/st/hostels/europe/spain/madrid/ "Madrid Hostels")
 
@@ -2037,7 +2037,7 @@ from US$14.36
 
 BerlinHostels
 
-from US$11.71
+from US$8.52
 
 ### Top Hostels
 
@@ -2063,7 +2063,7 @@ From US$12.88](https://www.hostelworld.com/st/hostels/p/61557/st-christopher-s-b
 
 Amsterdam
 
-8.6
+8.5
 
 From US$19.16](https://www.hostelworld.com/st/hostels/p/93919/clinknoord/ "ClinkNOORD")[![Wombat's City Hostel London](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel London")
 
@@ -2081,7 +2081,7 @@ Venice
 
 9.3
 
-From US$18.71](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
+From US$18.70](https://www.hostelworld.com/st/hostels/p/285768/anda-venice/ "Anda Venice")[![Wombat's City Hostel Vienna Naschmarkt](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "Wombat's City Hostel Vienna Naschmarkt")
 
 **Wombat's City Hostel Vienna Naschmarkt**
 
@@ -2095,7 +2095,7 @@ From US$21.22](https://www.hostelworld.com/st/hostels/p/45674/wombat-s-city-host
 
 Paris
 
-8.1
+8.2
 
 From US$22.34](https://www.hostelworld.com/st/hostels/p/19865/st-christopher-s-inn-canal/ "St Christopher's Inn Canal")[![St Christopher's at The Winston](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII= "St Christopher's at The Winston")
 
