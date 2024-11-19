@@ -30,9 +30,9 @@ Navigation
     
     Latest News Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/d63308a4-d15c-40ab-be20-b482ea1a1dae/20241119T020124/d63308a4-d15c-40ab-be20-b482ea1a1dae_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d63308a4-d15c-40ab-be20-b482ea1a1dae/20241119T020124/d63308a4-d15c-40ab-be20-b482ea1a1dae_360x203.jpg)](https://www.king5.com/article/news/local/beloved-stanwood-dog-rescue-in-need/281-69c8bc83-33f4-448f-ac23-28d00828257a)
+    *  [![](https://media.king5.com/assets/KING/images/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7/20241119T073057/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7/20241119T073057/cd9a7e3d-ffb3-4914-b7ec-4c23cfd4ded7_360x203.jpg)](https://www.king5.com/article/news/local/seattle/former-uw-rower-passes-away-free-diving-accident/281-e447287d-58b2-4ecc-9142-4b0d12f731b9)
         
-        #### [Beloved Stanwood dog rescue in need of rescuing](https://www.king5.com/article/news/local/beloved-stanwood-dog-rescue-in-need/281-69c8bc83-33f4-448f-ac23-28d00828257a)
+        #### ['He made a huge impact': Former UW rower passes away after free diving accident](https://www.king5.com/article/news/local/seattle/former-uw-rower-passes-away-free-diving-accident/281-e447287d-58b2-4ecc-9142-4b0d12f731b9)
         
     *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
@@ -56,13 +56,13 @@ Navigation
     
     Latest Weather Stories
     
-    *  [![](https://media.king5.com/assets/KING/images/fd565adc-af9b-40a7-85b3-15952d5093ef/20241118T125200/fd565adc-af9b-40a7-85b3-15952d5093ef_16x9.jpg) ![](https://media.king5.com/assets/KING/images/fd565adc-af9b-40a7-85b3-15952d5093ef/20241118T125200/fd565adc-af9b-40a7-85b3-15952d5093ef_360x203.jpg)](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+    *  [![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_16x9.jpg) ![](https://media.king5.com/assets/KING/images/d726966d-e8eb-4407-88c8-d827d43377a0/20241119T034959/d726966d-e8eb-4407-88c8-d827d43377a0_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
         
-        #### [Western Washington Weather Forecast](https://www.king5.com/article/weather/forecast/7-day/seattle-tacoma-everett-bellevue-weather-forecast/281-65c9dfd7-0838-4ec8-b3c3-0def25d49a51)
+        #### [What is bombogenesis? Understanding the science behind upcoming bomb cyclone](https://www.king5.com/article/weather/weather-blog/what-is-bomb-cyclone-science-behind-term/281-be91e4a9-2cba-4568-b32b-b5fb89fb68e2)
         
-    *  [![](https://media.king5.com/assets/KING/images/1e7b359c-5afd-4a05-aa3a-50ab608792ea/20241119T011203/1e7b359c-5afd-4a05-aa3a-50ab608792ea_16x9.jpg) ![](https://media.king5.com/assets/KING/images/1e7b359c-5afd-4a05-aa3a-50ab608792ea/20241119T011203/1e7b359c-5afd-4a05-aa3a-50ab608792ea_360x203.jpg)](https://www.king5.com/article/weather/snoqualmie-pass-significant-snowfall-november/281-65b21837-6ee3-428e-83be-4389df24d27f)
+    *  [![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_16x9.jpg) ![](https://media.king5.com/assets/KING/images/cf64c9cc-f514-4450-92ec-d8561f1a5d7f/20241118T154342/cf64c9cc-f514-4450-92ec-d8561f1a5d7f_360x203.jpg)](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
-        #### [Snoqualmie Pass sees first significant snowfall as potential above-average season looms](https://www.king5.com/article/weather/snoqualmie-pass-significant-snowfall-november/281-65b21837-6ee3-428e-83be-4389df24d27f)
+        #### [Bomb cyclone will lead to damaging winds in western Washington Tuesday](https://www.king5.com/article/weather/weather-blog/high-wind-watch-19-foot-waves-washington-weather/281-598283bd-52b4-4ad1-8562-087695573e11)
         
     
 * [Sports](https://www.king5.com/sports)
@@ -94,9 +94,9 @@ Navigation
 
 Seattle, WA »
 
-42°
+41°
 
-![Cloudy](/assets/shared-images/weather-icons/cloudy-night_210x210.png)
+![Rain](/assets/shared-images/weather-icons/rain-day_210x210.png)
 
 Seattle, WA »](https://www.king5.com/weather)
 
