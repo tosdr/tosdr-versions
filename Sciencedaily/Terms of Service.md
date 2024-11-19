@@ -229,16 +229,16 @@ this hour
 
 * * *
 
+* [Mouse Created from Gene Older Than Animal Life](https://www.sciencedaily.com/releases/2024/11/241118125716.htm)
+* [Optogenetics: Treating Epilepsy Seizures](https://www.sciencedaily.com/releases/2024/11/241115124741.htm)
+* [Advancing the Search for Life On Mars](https://www.sciencedaily.com/releases/2024/11/241118125317.htm)
+* [Precambrian Worm: Big Evolutionary Discovery](https://www.sciencedaily.com/releases/2024/11/241118125212.htm)
+* [Dieting: Cause of the Yo-Yo Effect](https://www.sciencedaily.com/releases/2024/11/241118125210.htm)
+* [Global Warming and Net Zero](https://www.sciencedaily.com/releases/2024/11/241118125147.htm)
+* [Enigma of the Crab Nebula's 'Zebra' Pattern](https://www.sciencedaily.com/releases/2024/11/241118125046.htm)
+* [Big Benefits to Online Gaming](https://www.sciencedaily.com/releases/2024/11/241118125037.htm)
 * [Abrupt Drop in Global Freshwater Levels](https://www.sciencedaily.com/releases/2024/11/241116195719.htm)
 * [Earliest Evidence of Humans Using Fire](https://www.sciencedaily.com/releases/2024/11/241116195644.htm)
-* [Egyptians Drank Hallucinogenic Cocktails](https://www.sciencedaily.com/releases/2024/11/241115124633.htm)
-* [Scientific Thought On Emotions in Animals](https://www.sciencedaily.com/releases/2024/11/241114161428.htm)
-* [Genetic 'Switch' Behind Parrot Color Diversity](https://www.sciencedaily.com/releases/2024/11/241115125034.htm)
-* [Sitting Too Long Can Harm Heart Health](https://www.sciencedaily.com/releases/2024/11/241115124729.htm)
-* [Heart Shape and Risk of Cardiovascular Disease](https://www.sciencedaily.com/releases/2024/11/241114125445.htm)
-* [Living Microbes in Earth's Driest Desert](https://www.sciencedaily.com/releases/2024/11/241114125607.htm)
-* [AI Headphones Create a 'Sound Bubble'](https://www.sciencedaily.com/releases/2024/11/241114161302.htm)
-* [Backyard Birds Learn from New Neighbors](https://www.sciencedaily.com/releases/2024/11/241114161140.htm)
 
 Trending Topics
 ---------------
@@ -251,17 +251,17 @@ this week
 
 [Behavior](https://www.sciencedaily.com/news/mind_brain/behavior/)
 
-[Child Development](https://www.sciencedaily.com/news/mind_brain/child_development/)
+[Stem Cells](https://www.sciencedaily.com/news/health_medicine/stem_cells/)
 
 [Infectious Diseases](https://www.sciencedaily.com/news/health_medicine/infectious_diseases/)
 
 [PHYSICAL & TECH](https://www.sciencedaily.com/news/top/technology/)
 
-[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
-
 [Stars](https://www.sciencedaily.com/news/space_time/stars/)
 
-[Optics](https://www.sciencedaily.com/news/matter_energy/nature_of_light/)
+[Communications](https://www.sciencedaily.com/news/computers_math/communications/)
+
+[Nature of Water](https://www.sciencedaily.com/news/matter_energy/nature_of_water/)
 
 [ENVIRONMENT](https://www.sciencedaily.com/news/top/environment/)
 
