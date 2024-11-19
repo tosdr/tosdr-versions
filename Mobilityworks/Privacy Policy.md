@@ -50,7 +50,7 @@ Search for:
 
 [Search](#)
 
-[InMotion 2024 - 100+ Strong and Expanding to Meet Your Mobility Needs](https://mobworksstg.wpengine.com/inmotion)
+[Black Friday Savings Event - Unlock the Savings!](https://mobworksstg.wpengine.com/inmotion)
 
 [![MobilityWorks Logo](https://www.mobilityworks.com/wp-content/uploads/mobility-works-logo-transparent-160x56.png)](https://www.mobilityworks.com/)
 
