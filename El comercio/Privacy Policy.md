@@ -31,991 +31,1157 @@
 * [Empleo](https://www.elcomercio.com/empleo/)
 * [Contactos](https://www.elcomercio.com/contactos/)
 
-Colombia enfrenta una dura sanción para el partido contra Ecuador
-=================================================================
+Cristian Ramírez revela por qué volvió a la Selección de Ecuador
+================================================================
 
-El último partido de la Selección de Ecuador por las eliminatorias sudamericanas 2024 será ante Colombia.
----------------------------------------------------------------------------------------------------------
+El lateral Cristian Ramírez se refirió a su regreso a la Selección de Ecuador después de seis años de ausencia.
+---------------------------------------------------------------------------------------------------------------
 
-![Colombia tiene una dura sanción ante Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-18T143205.526.jpg)
+![Cristian Ramírez en un entrenamiento de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T202326.343.jpg)
 
-**Colombia** recibió una sanción significativa por parte de la FIFA para el encuentro contra **Ecuador**, programado para este martes 19 de noviembre, a las 18:00, en el Estadio Metropolitano Roberto Meléndez, en Barranquilla.
+**Cristian Ramírez** es uno de los nuevos nombres que forman parte de la Selección de Ecuador en la era de **Sebastián Beccacece**. El defensor retornó a la Tri con el argentino y lo hizo tras un periodo de ausencia de seis años y de haber renunciado al elenco.
 
-El ente rector del fútbol penalizó a la selección cafetera debido a **cánticos discriminatorios** ocurridos en su partido ante Argentina el pasado 10 de septiembre.
+En la primera convocatoria del entrenador argentino tras asumir las riendas del combinado, una de las principales novedades fue el nombre del lateral derecho del **Ferencváros**. Pese a ello, este no pudo incorporarse debido a que sufrió una lesión con su equipo.
 
 ### Más noticias:
 
-* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
-* [Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-patron-ecuador-regresa-colombia.html "Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia")
-* [Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-amenaza-con-dar-la-sorpresa-a-colombia-en-eliminatorias.html "Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias")
+* [Byron Castillo sorprende a la Selección de Ecuador](https://www.elcomercio.com/deportes/seleccion-ecuador-reencuentro-byron-castillo.html "Byron Castillo sorprende a la Selección de Ecuador")
+* [La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-entrenamiento-colombia-puerta-cerrada.html "La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia")
+* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
 
-La sanción de Colombia
-----------------------
+Aunque no llegó en el llamado inicial, Beccacece persistió en su convocatoria y para la segunda doble fecha a cargo del entrenador, **Ramírez** arribó. En aquella doble fecha de eliminatorias, el defensa consiguió sumar minutos ante Paraguay tras ingresar desde el banco[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
 
-La FIFA sancionó a Colombia con la r**educción del 25% de aforo** para su partido contra Ecuador. Las áreas afectadas serán las tribunas ubicadas detrás de los arcos.
+Para las últimas jornadas de este 2024, Cristian Ramírez volvió a ser llamado y espera por volver a sumar minutos. Ante Bolivia no pisó el rectángulo de juego, sin embargo, contra **Colombia** habrá una nueva oportunidad para hacerlo durante este martes 19 de noviembre del 2024.
 
-Esta medida responde a los incidentes ocurridos durante la victoria de Colombia 2-1 sobre Argentina, donde se silbó el himno de la **Albiceleste**, se profirieron insultos y se arrojaron objetos hacia los jugadores de la selección campeona del mundo.
+Los motivos del regreso de Cristian Ramírez.
+--------------------------------------------
 
-Ecuador busca dar la sorpresa
------------------------------
+Previo al partido que tendrá la Tri frente a los cafeteros, **Cristian Ramírez** conversó con El Canal del Fútbol y reveló por qué decidió regresar a la Selección de Ecuador. Asimismo, recalcó los motivos por los cuales, en su momento, se alejó del combinado nacional.
 
-El equipo de la mitad del mundo llega embalado, con una seguidilla de cuatro partidos sin perder en la era **Beccacece**, cuyo auspicioso comienzo se dio, curiosamente, con una derrota ajustada ante Brasil.
+“Hay muchos factores que a uno, como jugador, le impiden volver. En su momento tomé la decisión por temas personales (…) **Me dieron la oportunidad de volver y hacerme sentir, nuevamente, parte del grupo. Para mí eso ha sido muy importante y ese fue el motivo principal por el que decidí volver**“, manifestó del defensor.
 
-Tras ese 1-0, las dudas del equipo mutaron de la defensa al sector de ataque. Pero los reparos quedaron disipados en parte con la **goleada por 4-0 infligida a Bolivia** el pasado jueves en la portuaria ciudad de Guayaquil, un escenario similar al que encontrarán los de Beccacece en el estadio Metropolitano de Barranquilla.
+Ramírez también sostuvo que, durante su tiempo de ausencia, desde la Federación Ecuatoriana de Fútbol (FEF) siempre estuvieron pendientes de él. Asimismo, agradeció a **Beccacece** y al combinado y destacó el nivel de sus compañeros y las nuevas generaciones.
 
-Ahora, buscarán replicar la única victoria histórica conseguida en territorio colombiano: un 0-1 el 20 de julio de 1965. En ese encuentro, correspondiente al proceso eliminatorio para el Mundial de Inglaterra 1966, **Washington Muñoz** marcó el gol que selló la hazaña ecuatoriana.
+Cristian Ramírez con la Selección de Ecuador
+--------------------------------------------
 
-Historial en Colombia
----------------------
+Cristian Ramírez tuvo su primer llamado con la **Selección de Ecuador** en 2013, cuando la dirigía Reinaldo Rueda. El futbolista debutó en un amistoso ante Honduras.
 
-**Ecuador y Colombia se han enfrentado 21 veces** en eliminatorias sudamericanas, con un saldo claramente favorable para los cafeteros cuando juegan como locales.
+Con la Tri, el lateral ha disputado un total de **22 partidos** entre duelos de exhibición, Copa América y eliminatorias. En tal cantidad de cotejos ha marcado y asistido en una oportunidad.
 
-En los 10 partidos disputados en suelo colombiano, el combinado local ha conseguido seis victorias, tres empates y una sola derrota. Durante estos encuentros, **Colombia ha marcado 13 goles**, mientras que Ecuador apenas suma tres anotaciones.
+Gobierno mostró los resultados que dejaron 293 168 operativos de seguridad
+==========================================================================
 
-¿Qué es y cuándo se espera la próxima alineación planetaria? 
-=============================================================
+El Bloque de Seguridad detalló las cifras de los operativos realizados en Ecuador, entre el 1 de enero y el 17 de noviembre.
+----------------------------------------------------------------------------------------------------------------------------
 
-La alineación planetaria ocurre cuando varios planetas parecen alinearse en el cielo.
--------------------------------------------------------------------------------------
+![Representantes de la Policía, Fuerzas Armadas, Ministerio del Interior y Ministerio de Defensa durante la rueda de prensa de este lunes](https://www.elcomercio.com/wp-content/uploads/2024/11/bloque-seguridad-operativos.jpg)
 
-![Las alineaciones planetarias ocurren por los movimientos orbitales planetarios. Foto: Freepik.](https://www.elcomercio.com/wp-content/uploads/2024/11/alineacion-planetaria.jpg)
-
-Una **alineación planetaria** es un **fenómeno astronómico** donde varios planetas **parecen estar en línea recta desde la perspectiva de la Tierra**. Este evento ocurre cuando los planetas se encuentran en la misma región del cielo y en una línea de visión común desde nuestro planeta.  
+Representantes del **Bloque de Seguridad** dieron una rueda de prensa en la ciudad de **Manta**, donde mostraron los **resultados obtenidos** entre el 1 de enero y el 17 de noviembre de 2024 en Ecuador.
 
 ### Más noticias
 
-* [Helicóptero de la NASA detectó fragmentos de una nave espacial](https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html "https://www.elcomercio.com/tecnologia/nasa-helicoptero-marte-nave-espacial.html") 
-* [Noviembre es un mes cargado de fenómenos astronómicos. ¿Cuáles se verán en Ecuador?](https://www.elcomercio.com/tendencias/ciencia/fenomenos-astronomicos-ecuador-noviembre.html "https://www.elcomercio.com/tendencias/ciencia/fenomenos-astronomicos-ecuador-noviembre.html")
+* [Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025](https://www.elcomercio.com/actualidad/seguridad/policia-nacional-pone-en-marcha-plan-operativo-de-elecciones-2025.html "Policía Nacional pone en marcha el Plan Operativo de Elecciones 2025")
+* [Policía abre nuevo reclutamiento para 2 900 aspirantes](https://www.elcomercio.com/actualidad/ecuador/policia-nueva-convocatoria-noviembre-aspirantes.html "Policía abre nuevo reclutamiento para 2 900 aspirantes")
+* [Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas](https://www.elcomercio.com/actualidad/seguridad/estudiantes-26-colegios-se-formaran-doctrina-fuerzas-armadas.html "Estudiantes de 26 colegios se formarán bajo la doctrina de las Fuerzas Armadas")
 
-Aunque visualmente impactante, **las alineaciones no implican que los planetas estén físicamente cerca unos de otros en el espacio**. 
+En el evento realizado este lunes 18 de noviembre estuvieron presentes la ministra del Interior, **Mónica Palencia**, el ministro de Defensa, **Giancarlo Loffredo**, el comandante de la Policía Nacional, **Víctor Zárate** y el Jefe del Estado Mayor de las Fuerzas Armadas, **Pablo Caicedo**.
 
-**¿Por qué ocurren las alineaciones planetarias?** 
----------------------------------------------------
-
-Las **alineaciones planetarias** son el resultado de los **movimientos orbitales de los planetas alrededor del Sol**. Cada planeta sigue una **trayectoria conocida como eclíptica**, y su velocidad de traslación varía según su proximidad al Sol. Por ejemplo, los planetas más cercanos, como Mercurio y Venus, se mueven más rápido que aquellos más lejanos como Saturno o Neptuno, según informa [OkDiario](https://okdiario.com/ciencia/que-segun-ciencia-alineacion-planetaria-11424898 "https://okdiario.com/ciencia/que-segun-ciencia-alineacion-planetaria-11424898").  
-
-Para que ocurra una alineación, **los planetas deben coincidir en un punto específico de sus órbitas sobre la eclíptica**. Desde nuestra perspectiva, esto **crea la ilusión de que están alineados**. Sin embargo, es importante destacar que **esta alineación no significa que estén físicamente próximos**; pueden estar a millones de kilómetros de distancia entre sí, de acuerdo con la [National Geographic](https://www.ngenespanol.com/el-espacio/alineaciones-planetarias-que-son-y-cuando-veremos-las-proximas/ "https://www.ngenespanol.com/el-espacio/alineaciones-planetarias-que-son-y-cuando-veremos-las-proximas/").  
-
-**Tipos de alineaciones planetarias** 
---------------------------------------
-
-Las alineaciones, según la web [Star Walk](https://starwalk.space/es/news/what-is-planet-parade "https://starwalk.space/es/news/what-is-planet-parade"), **pueden clasificarse según el número de planetas involucrados**: 
-
-* **Mini alineación:** tres planetas. 
-
-* **Alineación pequeña:** cuatro planetas. 
-
-* **Alineación grande:** cinco o seis planetas. 
-
-* **Gran alineación:** todos los planetas del Sistema Solar. 
-
-Las **mini y pequeñas alineaciones** son más comunes y pueden ocurrir varias veces al año. En contraste, **las grandes alineaciones son eventos raros**. Por ejemplo, se estima que **una gran alineación** completa, donde todos los ocho planetas se sitúan en un arco de 180 grados, **ocurre aproximadamente cada 396 mil millones de años**. 
-
-**Fecha de la próxima alineación planetaria**  
------------------------------------------------
-
-Según **Star Walk**, la **próxima alineación planetaria** ocurrirá el 21 de enero de 2025, al caer la tarde, justo después del atardecer. En ese momento, **seis planetas** — Marte, Júpiter, Urano, Neptuno, Venus y Saturno — **se alinearán en el cielo**.  
-
-**Cuatro de estos planetas (Marte, Júpiter, Venus y Saturno) serán visibles sin necesidad de equipos especiales.** Sin embargo, para observar Urano y Neptuno, será necesario contar con un telescopio o binoculares potentes.  
-
-**Esta alineación será visible en la mañana desde casi cualquier parte del mundo**, aunque **la fecha ideal para observarla puede variar según la ubicación**. Para una mejor experiencia, se puede descargar **Sky Tonight**, una **aplicación gratuita que facilita la identificación de objetos celestes** y es útil para encontrar **la mejor ubicación en el cielo para observar el fenómeno**. 
-
-La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita
-=====================================================================
-
-Gonzalo Plata es una de las figuras de la Selección de Ecuador de Sebastián Beccacece y él y su equipo recibieron una tierna visita.
-------------------------------------------------------------------------------------------------------------------------------------
-
-![Gonzalo Plata (der.) junto a su director técnico Sebastián Beccacece en la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T130722.074.jpg)
-
-La **Selección de Ecuador** triunfó ante Bolivia en su último partido de eliminatorias sudamericanas por un marcador de 4-0 y se prepara para el siguiente ante Colombia. En medio de los dos compromisos, los futbolistas, y sobre todo **Gonzalo Plata**, acogieron a un huésped especial.
-
-En el último choque del combinado ecuatoriano, la Tri tuvo su mejor resultado en la era de **Sebastián Beccacece** desde que asumió las riendas del equipo. A su vez, para tal duelo y el venidero, este volvió a citar a Plata.
-
-### Más noticias:
-
-* [Las fortalezas de la Selección de Ecuador con Beccacece](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html "Las fortalezas de la Selección de Ecuador con Beccacece")
-* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
-* [La Selección de Ecuador buscará su segunda victoria en Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-historial-colombia-eliminatorias.html "La Selección de Ecuador buscará su segunda victoria en Colombia")
-
-El extremo ecuatoriano tuvo su **segunda convocatoria** y estuvo presente en su tercer partido bajo las órdenes el entrenador argentino. En el último cotejo ante la ‘Verde’, en el Monumental de Guayaquil, **Plata** fue una de las figuras y colaboró en la goleada.
-
-Después del triunfo frente a Bolivia, el elenco tricolor permaneció en su concentración en la ciudad del litoral antes de su viaje hacia Colombia. Allí, la madre de **Gonzalo Plata** se hizo presente, compartió con los seleccionados y su hijo y cocinó para ellos.
-
-El reencuentro entre ‘Platita’ y su madre
------------------------------------------
-
-La **Selección de Ecuador** mostró la llegada y el compartir entre Gonzalo Plata y su progenitora en sus redes sociales. Allí, los jugadores del combinado nacional también estuvieron junto al futbolista y la madre de este[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-En las imágenes, Plata y su madre se abrazan entre sí. A su vez, este está junto a ella y sus compañeros y esta también conversa con miembros de la escuadra como **Javier Arreaga, Cristian Ramírez o Enner Valencia.**
-
-Jugadores que compartieron con el extremo ecuatoriano en sus inicios en Independiente del Valle, como **Moisés Ramírez, Moisés Caicedo o Willian Pacho** también se acercaron. Dentro de la visita, ella preparó un enconcado para los convocados.
-
-Gonzalo Plata y un partido de lujo con la Selección de Ecuador
---------------------------------------------------------------
-
-En el pasado duelo con la **Selección de Ecuador**, Gonzalo Plata marcó un doblete ante Bolivia. A los 28 y a los 49 minutos y fue uno de los mejores del compromiso en el equipo de **Sebastián Beccacece**.
-
-El tricolor se estableció como extremo por derecha y estuvo presente en el cotejo hasta los 68 minutos de juego. El primer tanto llegó con un sombrerito y el segundo llegó con un remate seco dentro del área. En ambas oportunidades, **Enner Valencia** hizo las asistencias.
-
-Quito tendrá el desfile de los mercados por sus fiestas
-=======================================================
-
-El desfile de los mercados de Quito es una tradición que se realiza durante las fiestas de la capital.
-------------------------------------------------------------------------------------------------------
-
-![Los mercados de Quito realizarán su tradicional desfile por las fiestas de la capital.](https://www.elcomercio.com/wp-content/uploads/2024/11/desfile.jpg)
-
-La capital del Ecuador tendrá el tradicional desfile **Los Mercados Saludan a Quito**, una festividad que destaca la identidad cultural y la historia de los mercados quiteños[.](https://es.wikipedia.org/wiki/Quito "https://es.wikipedia.org/wiki/Quito")
-
-Más noticias
-------------
-
-* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
-* [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
-* [Vecinos de Quito frenan la construcción del intercambiador de la Occidental](https://www.elcomercio.com/actualidad/quito/vecinos-quito-frenan-intercambiador-occidental.html "Vecinos de Quito frenan la construcción del intercambiador de la Occidental")
-
-Este evento, promovido por la Agencia Metropolitana de Coordinación de Comercio, se realizará el miércoles 27 de noviembre en el Centro Histórico de Quito.
-
-¿Qué incluye el desfile de Los Mercados Saludan a Quito?
+Homicidios intencionales se redujeron, según el Gobierno
 --------------------------------------------------------
 
-El recorrido comenzará a las 08:00 en el Parque Benito Juárez, ubicado en la intersección de las calles Venezuela y Bogotá, y finalizará en la **Plaza de la Iglesia de San Francisco.**
+Mónica Palencia, ministra del Interior, aseguró que los **homicidios intencionales** en el país se redujeron un **18 %** con respecto al 2023, pasando de 7 151 crímenes a 5 866. Esta cifra comparativa corresponde al periodo enero-noviembre[.](https://www.policia.gob.ec/ "https://www.policia.gob.ec/")
 
-Durante el desfile, los asistentes podrán disfrutar de **carros** **alegóricos**, comparsas, música y trajes tradicionales. Además, estos serán presentados por los comerciantes de los **mercados de Quito.**
+Según detalló la funcionaria, en el distrito de Manta, que incluye a los cantones **Manta, Jaramijó y Montecristi**, se registró una reducción de **29,2 %** de casos de este delito, entre el 6 de junio al 17 de noviembre del 2024,
 
-La jornada terminará con una premiación a las mejores representaciones en varias categorías. Por último, el público disfrutará de un espectáculo con **bandas musicales** y **artistas locales**, diseñado para rendir homenaje a las tradiciones y reforzar la conexión con la comunidad.
+> RESULTADOS BLOQUE DE SEGURIDAD  
+>   
+> Entre el 1 de enero y el 17 de noviembre de 2024, existe una reducción de 18% de homicidios intencionales a nivel nacional, en comparación con el mismo periodo de 2023.  
+>   
+> ➡️Además, se han decomisado 262,27 toneladas de droga, un 37,7% más que en… [pic.twitter.com/HBnegyehNJ](https://t.co/HBnegyehNJ)
+> 
+> — Ministerio del Interior Ecuador 🇪🇨 (@MinInteriorEc) [November 19, 2024](https://twitter.com/MinInteriorEc/status/1858665310876037354?ref_src=twsrc%5Etfw)
 
-El papel de los mercados de Quito
----------------------------------
+En **Durán**, uno de los cantones con más conflictos armados, la estadística mostró una reducción del **32,5 %** de homicidios intencionales entre el 1 de julio y el 17 de noviembre de 2024, a decir por Palencia.
 
-Más allá del espectáculo, este evento reconoce el papel fundamental de los mercados como espacios **culturales** y **patrimoniales**.
+Los **asesinatos** en este lugar pasaron de **286 a 193**, comparado con el mismo periodo del año anterior.
 
-Estos centros de abasto no solo proveen productos frescos y locales, sino que también preservan saberes y costumbres transmitidos a través de generaciones. Los mercados representan el alma de Quito y son un testimonio vivo de su identidad.
-
-Eventos destacados de las Fiestas de Quito 2024
------------------------------------------------
-
-Las Fiestas de Quito ofrecen una variedad de actividades que resaltan la tradición y modernidad de la capital. Algunos eventos destacados incluyen:
-
-* **Te Deum**: Ceremonia religiosa de acción de gracias. Fecha: 20 de noviembre, 10:00, Basílica de Nuestra Señora de la Merced.
-* **Fiesta Centro**: Inicio oficial de las festividades con la entrega de títulos de propiedad y una muestra artística. Fecha: 21 de noviembre, 14:00, Plaza de San Francisco.
-* **Festival Chicha con Corbatín**: Homenaje a la música popular ecuatoriana. Fecha: 26 de noviembre, 18:00, Coliseo General Rumiñahui.
-* **Pasacalle del Adulto Mayor**: Evento dedicado al pasacalle tradicional. Fecha: 27 de noviembre, 10:00, Coliseo General Rumiñahui.
-* **Desfile Mascarada Quiteña**: Espectáculo nocturno de luces y cultura. Fecha: 28 de noviembre, 17:00, Av. Amazonas y Patria.
-* **Mega Feria Metropolitana Valle**: Feria navideña en el Valle de Los Chillos y Tumbaco. Fecha: 29 de noviembre, 10:00.
-* **Desfiles de la Confraternidad Nacional**: Desfiles simultáneos en el sur (30 de noviembre, 10:00, Av. Teniente Hugo Ortiz) y el norte (1 de diciembre, 10:00, Av. Los Shyris).
-* **Quinde Electro Fest**: Festival musical en el Parque Bicentenario. Fechas: 5 al 7 de diciembre, desde las 12:00.
-* **Sesión Solemne**: Ceremonia oficial en honor a la fundación de Quito. Fecha: 6 de diciembre, 15:00, Teatro Nacional Sucre.
-
-Postergan prueba de razonamiento para aspirantes a docentes municipales en Quito
-================================================================================
-
-La Secretaría de Educación de Quito emitió un comunicado sobre las dificultades que enfrentaron varios aspirantes en el proceso de selección docente municipal
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![Los aspirantes a docentes municipales mostraron su inconformidad en redes sociales.](https://www.elcomercio.com/wp-content/uploads/2024/11/Docente-Municipal-1.jpg)
-
-Aspirantes a **docentes municipales** manifestaron su malestar al no poder completar el examen de **razonamiento** el sábado 16 de noviembre de 2024.
-
-Más noticias
-------------
-
-* [Educadores comunitarios reciben pago del Gobierno](https://www.elcomercio.com/actualidad/ecuador/educadores-comunitarios-reciben-pago-gobierno.html "Educadores comunitarios reciben pago del Gobierno")
-* [Ministerio de Educación desarrolla plan de emergencias ante cortes de luz](https://www.elcomercio.com/actualidad/ministerio-educacion-desarrolla-plan-emergencias-cortes-de-luz.html "Ministerio de Educación desarrolla plan de emergencias ante cortes de luz")
-* [¿Cómo quedan los horarios de clases con los cortes de luz?](https://www.elcomercio.com/actualidad/ecuador/como-quedan-horarios-clases-cortes-luz.html "¿Cómo quedan los horarios de clases con los cortes de luz?")
-
-Ante esto, la Secretaría de Educación, Recreación y Deporte del Municipio de Quito informó la **postergación** de la prueba de **razonamiento** y **personalidad**, correspondiente al proceso de aptitud municipal.
-
-Fallas técnicas en el examen para docente municipal
+Operativos de la Policía Nacional y Fuerzas Armadas
 ---------------------------------------------------
 
-La decisión se tomó debido a **problemas técnicos** durante el ingreso de los aspirantes a la plataforma habilitada para el registro.
+Mientras tanto, según datos de los representantes de la **Policía Nacional** y las **Fuerzas Armadas**, estos fueron los resultados que dejaron los **293 168 operativos** a nivel nacional, en estos 321 días de 2024:
 
-Según el comunicado oficial, aproximadamente 500 mil **aspirantes** intentaron acceder al sistema, pero solo 14 mil lograron completar el proceso de inscripción.
+### Detenidos
 
-La empresa encargada de gestionar la plataforma, HEI-PAM, no pudo resolver los inconvenientes técnicos, lo que llevó a la **reprogramación** de la **evaluación** hasta nuevo aviso.
+* **65 491 personas detenidas**, de las cuales 1 477 pertenecían a grupos delictivos organizados
+* **107 delincuentes** fueron **neutralizados** con uso legítimo de la fuerza
+* **11 objetivos de alto valor** y 145 de intermedio valor fueron capturados
+* 3 455 casos de **desaparición** tratados con 2 013 personas localizadas
+* 1 483 personas detenidas por delitos de desaparición y **extorsión**
 
-La **Secretaría** enfatizó que su prioridad es garantizar condiciones adecuadas para todos los participantes. Asimismo, se comprometió a comunicar las nuevas fechas de la prueba a través de los canales oficiales del Municipio.
+### Decomisos
 
-> 📌 [#Comunicado](https://twitter.com/hashtag/Comunicado?src=hash&ref_src=twsrc%5Etfw) | Con relación a la prueba de razonamiento y personalidad, para el proceso de aptitud municipal informamos: [pic.twitter.com/5yJFPBksz9](https://t.co/5yJFPBksz9)
+* **262, 27 toneladas de droga incautadas**, lo que representa un incremento del **37,7 %** en relación con 2023 (109,53 toneladas)
+* **9 360 armas de fuego** decomisadas
+* 20 184 **armas blancas** decomisadas
+* **5 405 vehículos robados** fueron recuperados
+* **8 099 motocicletas** recuperadas
+* Cerca de 2 toneladas de **explosivos** decomisados
+* Cerca de **6 millones de dólares** recuperados
+
+> Ministra del Interior, [@Palencia3Monica](https://twitter.com/Palencia3Monica?ref_src=twsrc%5Etfw):  
+>   
+> En un comparativo entre el 01 de enero al 17 de noviembre 2023 y el 01 de enero al 17 de noviembre 2024 existe una reducción del 18% en homicidios intencionales a nivel nacional, además, dentro de este periodo se han decomisado 262,27… [pic.twitter.com/MoyGsyhtwc](https://t.co/MoyGsyhtwc)
 > 
-> — Secretaría de Educación, Recreación y Deporte (@EducacionQuito) [November 16, 2024](https://twitter.com/EducacionQuito/status/1857830227172360234?ref_src=twsrc%5Etfw)
+> — Policía Ecuador (@PoliciaEcuador) [November 18, 2024](https://twitter.com/PoliciaEcuador/status/1858569020808544328?ref_src=twsrc%5Etfw)
 
-Inscripciones y requisitos del proceso
---------------------------------------
+5 000 reservistas se suman a las Fuerzas Armadas
+------------------------------------------------
 
-El proceso de aptitud docente es un requisito previo para participar en los concursos de **méritos** y **oposición**, necesarios para ingresar al **Magisterio Municipal**, conforme lo establece el artículo 94.1 de la Ley Orgánica de Educación Intercultural (**LOEI**).
+Por su parte, el ministro de Defensa Nacional, **Gian Carlo Loffredo**, afirmó que **5 000 reservistas** se unirán a las **Fuerzas Armadas** con el objetivo de incrementar el personal en las calles.
 
-Para participar, los aspirantes deben cumplir los siguientes requisitos:
+**4 500 personas** se sumarán al **Ejército**, mientras que 250 irán a las **Fuerzas Aéreas** y 250 a las **Fuerzas Navales**.
 
-* Ser mayor de 18 años.
-* Poseer un título de tercer o cuarto nivel en Educación o áreas afines, registrado en la Senescyt.
+### Incendios forestales
 
-¿Quiénes pueden participar?
----------------------------
+Loffredo también se refirió a los **incendios forestales** que enfrentan varias ciudades de la **Sierra Sur**.
 
-El proceso está dirigido a:
+Sobre esta emergencia, la Organización de Naciones Unidas (**ONU**) confirmó la donación de un **bambi buket** a Ecuador.
 
-* Aspirantes al Magisterio Municipal que no cuenten con la condición de “aptos”, antes conocida como “elegibles”.
-* Docentes con nombramientos provisionales o contratos del Magisterio Municipal, incluidos los de ofertas inclusivas y los Centros Municipales de Educación Inicial (Cemei), que busquen participar en futuros concursos de méritos y oposición.
+Este helicóptero dedicado a la carga, trasportación y lanzamiento de agua en el combate contra incendios será utilizado por las **Fuerzas Armadas** para ayuda humanitaria y apoyo a otras instituciones.
 
-La Copa Ecuador confirmó horario para la final
-==============================================
+> ¡Cuando el camino se pone duro, solo los duros se ponen en el camino!💪  
+>   
+> ➡️El ministro de Defensa Nacional, Gian Carlo Loffredo, destacó en [#RuedaDePrensa](https://twitter.com/hashtag/RuedaDePrensa?src=hash&ref_src=twsrc%5Etfw):  
+>   
+> ✅Cerca de 5.000 reservistas se unen a las Fuerzas Armadas.  
+>   
+> ✅Bambi Bucket donado por parte de la Organización de… [pic.twitter.com/DsSHpAep43](https://t.co/DsSHpAep43)
+> 
+> — Ministerio de Defensa Nacional del Ecuador (@DefensaEc) [November 18, 2024](https://twitter.com/DefensaEc/status/1858612569403257193?ref_src=twsrc%5Etfw)
 
-Independiente del Valle y El Nacional definirán por primera vez un título de la Copa Ecuador.
----------------------------------------------------------------------------------------------
+Asimismo, el Ministro afirmó que se estableció una Activación del Sistema de Cooperación Aérea (**Sicoffa**) con la Fuerza Aérea de Perú.
 
-![Keny Arroyo (i) y Josué Chalá en un partido de la Liga Pro 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/copa_ecuador_1.jpg)
+Por el momento, el país del sur colabora en las emergencias en **Loja**, con dos bambi buckets.
 
-La gran final de la Copa Ecuador entre **Independiente del Valle y El Nacional** se jugará en el estadio Rodrigo Paz Delgado. La Federación Ecuatoriana de Fútbol (FEF) cambió de decisión y de sede.
+Ecuador fortalecerá su seguridad con alianzas internacionales
+-------------------------------------------------------------
 
-En primera instancia la final de la **Copa Ecuador se iba a jugar en el estadio Olímpico de Ibarra**, una decisión que poco agradó a los finalistas, por lo que solicitaron que se traslade a la capital ecuatoriana, casa de rayados y rojos.
+Finalmente, durante su intervención, Palencia explicó que Ecuador se incluirá en **cuatro comités y alianzas internacionales** de seguridad. Estos son:
 
-### Más noticias:
+* Comité Latinoamericano de la Seguridad Interna, (Clasi);
+* Comité Permanente de la Seguridad Interna, (COSI).
+* Alianza del Banco Interamericano de Desarrollo para la Seguridad, Paz y Justicia
+* Comité Interamericano contra el Terrorismo (Cicte)
 
-* [Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-fecha14-etapa.html "Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14")
-* [Sebastián Beccacece planteará un Ecuador intenso ante Colombia](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-colombia-barranquilla-eliminatorias.html "Sebastián Beccacece planteará un Ecuador intenso ante Colombia")
-* [Barcelona Sporting Club aplastó a El Nacional en amistoso](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-nacional-amistoso.html "Barcelona Sporting Club aplastó a El Nacional en amistoso")
+Se espera que la colaboración en estas instituciones le permitan al país desarrollar aspectos de **seguridad interinstitucional** a favor de la lucha contra el **crimen** y el **terrorismo**.
 
-Este lunes 18 de noviembre de 2024, la FEF ratificó que la final será el 27 de este mes y reveló que el **balón empezará a rodar desde las 15:00**, con lo que que queda lista la previa de este partido para definir al campeón.
+Byron Castillo sorprende a la Selección de Ecuador
+==================================================
 
-El monarca de la Copa Ecuador se llevará un premio económico acumulado de 340 000 dólares, y el **cuarto cupo para la Copa Libertadores 2025** y arrancará la competencia desde la primera fase de eliminación.
+Los jugadores de la Selección de Ecuador recibieron la visita de uno de sus antiguos compañeros y compartieron entre sí.
+------------------------------------------------------------------------------------------------------------------------
 
-Este cupo recayó directamente en manos de El Nacional, porque Independiente del Valle ya inscribió su nombre en la **fase de grupos de la Libertadores al ganar la primera fase de la Liga Pro**, con lo que liberó el sitio entregado por la Copa Ecuador.
+![Byron Castillo (tercero de izquierda a derecha) junto a miembros de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T164724.870.jpg)
 
-El camino de los campeones
---------------------------
+La **Selección de Ecuador** está cada vez más cerca de enfrentar a Colombia y, antes de partir hacia tierras cafeteras, acogió a un antiguo miembro del equipo. **Byron Castillo**, que formó parte de la escuadra en anteriores oportunidades, estuvo junto a los convocados.
 
-El camino de El Nacional en la **Copa Ecuador arrancó ante Baños Ciudad de Fuego** en los dieciseisavos de final. En los 90 minutos terminó empatado 1-1 y en la definición de penales los rojos ganaron 3-1.
-
-El partido resultó más complicado de lo esperado y a punto estuvieron de quedarse eliminados de forma temprana en el torneo.
-
-Los octavos de final sirvieron para **eliminar a Deportivo Santo Domingo** en el estadio Etho Vega. El marcador fue un ajustado y disputado 3-2.
-
-Los cuartos de final los puso frente a frente ante **Liga de Quito, campeón de la Copa Ecuador en 2019**. En el tiempo reglamentario empataron 1-1 y en los penales triunfaron por 3-1, con el portero David Cabezas como la gran figura.
-
-En las semifinales no tuvieron problemas para dejar en el camino a Mushuc Runa con un global de 4-1.
-
-Por su parte, **Independiente del Valle arrancó su periplo en el estadio Olímpico de Ibarra** enfrentando a Olmedo, actualmente en la Segunda Categoría de Chimborazo y campeón del país en el 2000.
-
-En los 90 minutos empataron 0-0 en un duro cotejo, y en los penales se llevaron la llave por 3-2.
-
-En los octavos de final **bregaron hasta el último minutos para vencer 2-1 a Cuniburo** en el Olímpico Atahualpa, con un gol en propia meta del arquero rival en su propia meta.
-
-En los cuartos de final **derrotaron a Guayaquil City en el Christian Benítez** por 2-1, mientras que en semifinales necesitaron de los penales para eliminar a Universidad Católica por 6-5. El marcador global fue de 2-2.
-
-![](https://www.elcomercio.com/wp-content/uploads/2024/11/copa_ecuador_2-1024x683.jpg)
-
-San viernes
------------
-
-James Rodríguez es duda para enfrentar a Ecuador
-================================================
-
-Colombia recibe a Ecuador este martes 19 de noviembre en Barranquilla.
-----------------------------------------------------------------------
-
-![Richard Ríos (izq.) y James Rodríguez en un partido de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-18T133512.556.jpg)
-
-El seleccionador de Colombia, Néstor Lorenzo, mantiene dudas sobre incluir a **James Rodríguez** en la formación titular para el partido contra **Ecuador**, correspondiente a la duodécima fecha de las eliminatorias sudamericanas rumbo al Mundial 2026.
-
-Lorenzo afirmó que el diez, aunque **está en mejor condición física** que el viernes, seguirá esperando la evolución.
+Después de la resolución de su caso y el de la Tri con el **Tribunal de Arbitraje Deportivo (TAS)**, que dejó al conjunto nacional con tres puntos menos para las vigentes eliminatorias, el lateral derecho no volvió a formar parte de las nóminas. Aunque la resolución no implicó una sanción para el jugador, pero lo marginó del **Mundial de Catar 2022** y de futuros llamados.
 
 ### Más noticias:
 
-* [Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-amenaza-con-dar-la-sorpresa-a-colombia-en-eliminatorias.html "Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias")
-* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
-* [La Selección de Ecuador buscará su segunda victoria en Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-historial-colombia-eliminatorias.html "La Selección de Ecuador buscará su segunda victoria en Colombia")
+* [La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia](https://www.elcomercio.com/deportes/seleccion-ecuador-entrenamiento-colombia-puerta-cerrada.html "La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia")
+* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
+* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
 
-“**James, ha ido evolucionando favorablemente**, está mejor que en el partido anterior y vamos a ver de hoy a mañana cómo sigue”, dijo.
+Pese a que ya no conforma el equipo, aquello no le impide al futbolista pasar tiempo con sus compañeros y así lo expuso en redes sociales. Por medio de una publicación en sus historias de Instagram, este hizo público su encuentro con los seleccionados junto al bus del **elenco tricolor**.
 
-Al ser preguntado por la diferencia en el funcionamiento de Colombia cuando juega James Rodríguez y cuando lo reemplaza **Juan Fernando Quintero**, Lorenzo indicó que, aunque tienen características diferentes, ambos aportan “velocidad desde lo mental, desde la resolución de la jugada y con una pegada extensa de ambos”.
+En la fotografía, **Byron Castillo** aparece en el medio de los futbolistas y con una indumentaria casual y diferenciadora. Estos, a su vez, ocupan el uniforme de entrenamiento celeste de la Selección del Ecuador.
 
-Todos pueden ser titulares
---------------------------
+El reencuentro de Byron Castillo y sus compañeros de la Selección del Ecuador
+-----------------------------------------------------------------------------
 
-Lorenzo aseguró que todos los jugadores que fueron convocados **están en capacidad de ser titulares**, aunque admitió que el entrenador puede fallar a la hora de ponderar las opciones.
+Los jugadores del combinado ecuatoriano con los cuales **Byron Castillo** estuvo fueron tanto de su etapa en el equipo, así como con quienes coincidió en **Barcelona SC**, adonde volvió en esta temporada 2024. Asimismo, nuevos nombres también se sumaron.
 
-“Hay una línea delgada entre un jugador y otro y se analizan un montón de cosas, pero uno como entrenador se puede equivocar”, admitió.
+**Félix Torres, Xavier Arrega, Pervis Estupiñán, Kendry Páez, Gonzalo Plata y Piero Hincapié** fueron los futbolistas que estuvieron junto al lateral derecho. A su vez, estos replicaron en sus redes el encuentro con el futbolista.
 
-“Borré (Rafael Santos) fue durante muchos partidos titular, ahora es **Durán** (John Jader) el titular y Córdoba (John) fue titular. Uno trata de ver el contexto, el rival y cómo están ellos en la semana. Me da bronca tener que mandar alguno a la tribuna porque son jugadores que pueden estar en el campo de juego”, dijo.
+De todos los jugadores presentes, solo con uno no coincidió dentro de la **Selección de Ecuador**. Kendry Páez no compartió camerino con Castillo durante la etapa de este último en la Tri y tampoco ha coincidido con él en clubes[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
 
-Análisis sobre Ecuador
-----------------------
+¿Qué pasó con Byron Castillo en la Selección de Ecuador?
+--------------------------------------------------------
 
-De la selección ecuatoriana que dirige su compatriota **Sebastián Becaccece** y las diferencias con la plantilla que condujo el español Félix Sánchez, Lorenzo expresó que ambos tienen ideas de juego muy parecidas y han aprovechado el buen trabajo en divisiones inferiores que promueve la Federación Ecuatoriana de Fútbol.
+**Byron Castillo** debutó y estuvo presente con la Tri durante las eliminatorias rumbo al Mundial de Catar 2022. El lateral derecho formó parte del equipo hasta los últimos momentos previos del certamen, pero no entró en la lista final debido a la resolución del TAS.
 
-“Han **tenido un proceso de crecimiento muy grande.** Han trabajado muy bien en categorías inferiores, han llegado a finales mundiales y eso les dio un plus a los jugadores que están ahora en la selección mayor. Creo que los dos entrenadores han aprovechado las características de los jugadores que tienen y el sistema que les queda mejor”, indicó.
+Cuando finalizaron las eliminatorias, **Chile** elevó un reclamo a la FIFA en el que cuestionaba la nacionalidad de Castillo. Tras el rechazo de parte del organismo, la ‘Roja’ acudió hacia el Tribunal, que dictaminó que la **Selección de Ecuador** no infringió reglamentos y la documentación del futbolista era legítima, más no sus datos.
 
-El lateral del Mallorca español Johan Mojica acompañó el técnico Lorenzo en la rueda de prensa, se refirió a la actitud con la que saldrán a jugar ante Ecuador luego de la derrota en Montevideo.
+A raíz de lo suscitado, el combinado nacional arrancó con **tres puntos** menos las presentes eliminatorias.
 
-“**Lo de Uruguay nos dolió**, perder de esa manera, tenemos la sangre en el ojo, pero cambiamos el chip para ponerlo del lado que nos beneficie”, dijo.
+Cortes de luz en Guayaquil para este martes 19 de noviembre
+===========================================================
 
-Matizó que la selección no puede llenarse de rabia por la derrota del viernes “porque enceguece”.
+CNEL detalló los horarios de cortes de luz que tendrá Guayaquil, la capital de Guayas, este martes.
+---------------------------------------------------------------------------------------------------
 
-“Hay que mantener la armonía futbolística. La selección ha adquirido una madurez mental para sacar la casta en momentos difíciles”, sostuvo.
+![Guayaquil tendrá cortes de luz programados de ocho horas en las zonas residenciales](https://www.elcomercio.com/wp-content/uploads/2024/11/guayaquil-cortes-martes-19.jpg)
 
-Plazos para inscribir una candidatura presidencial tras descalificación
-=======================================================================
-
-Resolución de recursos define candidaturas y reemplazos dentro de los plazos del cronograma electoral.
-------------------------------------------------------------------------------------------------------
-
-![Simpatizantes de Jan Topic acudieron al Tribunal Contencioso Electoral el pasado 10 de agosto de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-29-1.jpg)
-
-El **marco electoral** se establece procedimientos rigurosos para la **inscripción de candidaturas y la resolución de disputas relacionadas**, conocidos como r**ecursos contenciosos electorales**. Estas acciones, reguladas por el **Código de la Democracia**, garantizan la transparencia y el derecho a la participación política en el proceso democrático.
+La Corporación Nacional de Electricidad (**CNEL**) detalló los **horarios** de cortes de luz que tendrá **Guayaquil** este martes 19 de noviembre de 2024.
 
 ### Más noticias
 
-* [CNE hizo cambios para el debate presidencial 2025](https://www.elcomercio.com/actualidad/politica/cne-cambios-debate-presidencial-2025.html "CNE hizo cambios para el debate presidencial 2025")
-* [Cpccs hará instructivo relacionado con integrantes del CNE](https://www.elcomercio.com/actualidad/politica/cpccs-hara-instructivo-relacionado-con-integrantes-cne.html "Cpccs hará instructivo relacionado con integrantes del CNE")
-* [CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas](https://www.elcomercio.com/actualidad/politica/cne-nego-inscripcion-lista-asambleistas-nacionales.html "CNE negó inscripción de la lista para asambleístas nacionales a cuatro organizaciones políticas")
+* [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
+* [Cortes de luz en Quito para este martes 19 de noviembre](https://www.elcomercio.com/actualidad/quito/cortes-de-luz-en-quito-para-este-martes-19-de-noviembre.html "Cortes de luz en Quito para este martes 19 de noviembre")
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
 
-El **Tribunal Contencioso Electoral (TCE)** actúa como el órgano encargado de resolver las controversias surgidas durante este período.
+Apagones programados se redujeron a ocho horas
+----------------------------------------------
 
-Proceso previo a la etapa contenciosa
--------------------------------------
+El **racionamiento eléctrico** en Ecuador se retomó el 23 de septiembre de 2024, luego que en **abril y junio** el país tuviera apagones programados.
 
-La **inscripción de candidaturas** inició el 13 de septiembre de 2024 y concluyó el 2 de octubre del mismo año. Durante esta fase, el **Consejo Nacional Electoral (CNE)** recibió las postulaciones, notificó los listados de candidatos y abrió un período para objeciones, las cuales debían ser resueltas en un **plazo de dos días**.
+Desde esta fecha, los cortes de luz no se han detenido, alcanzando en algunos días las **14 horas**.
 
-> [#EcuadorVotaInformado](https://twitter.com/hashtag/EcuadorVotaInformado?src=hash&ref_src=twsrc%5Etfw) 🗳️  
->   
-> 🗓️ El próximo 9️⃣ de febrero la ciudadanía elegirá a 1️⃣5️⃣8️⃣ autoridades principales en las [#Elecciones2025Ec](https://twitter.com/hashtag/Elecciones2025Ec?src=hash&ref_src=twsrc%5Etfw).  
->   
-> Conoce los planes de trabajo de las y los candidatos. 📱⤵️  
-> 🔗 [https://t.co/YNdgoufuJw](https://t.co/YNdgoufuJw) [pic.twitter.com/zZNLkZ2b14](https://t.co/zZNLkZ2b14)
-> 
-> — cnegobec (@cnegobec) [November 16, 2024](https://twitter.com/cnegobec/status/1857854186165096555?ref_src=twsrc%5Etfw)
+Según el nuevo anuncio del **Ministerio de Energía**, Guayaquil y el resto de ciudades del país tendrán apagones de **ocho horas**, entre el 18 y 21 de noviembre.
 
-Este mecanismo garantiza que las candidaturas cumplan con los **requisitos legales y que cualquier observación** sea atendida oportunamente.
+La reducción se debe a la mejora en los caudales de los ríos en la Amazonía y a la venta de energía desde **Colombia**[.](https://www.recursosyenergia.gob.ec/programacionracionamiento-eed1/ "https://www.eeq.com.ec/")
 
-En caso de objeciones **no resueltas favorablemente** para los involucrados, los candidatos o las organizaciones políticas pueden **presentar recursos administrativos ante el CNE**. Estos recursos, además de ser una herramienta para **corregir posibles errores**, aseguran que los participantes puedan agotar todas las instancias en la sede administrativa antes de acudir al ámbito contencioso.
-
-Interposición y sustanciación de los recursos contenciosos
-----------------------------------------------------------
-
-Los **recursos contenciosos** ante el TCE iniciaron el 1 de octubre y culminaron el 20 de octubre de 2024.
-
-Estos se interponen cuando una **candidatura considera vulnerados sus derechos** por decisiones del CNE, como descalificaciones o resoluciones relacionadas con **objeciones e impugnaciones**. Una vez recibida la solicitud, el CNE tiene un plazo de tres días para remitir los expedientes al TCE, que asume la competencia del caso.
-
-El período de sustanciación, que abarca desde el **19 de octubre hasta el 10 de noviembre de 2024**.
-
-Durante este tiempo, el TCE revisa los argumentos y la**s pruebas presentadas**, pudiendo convocar audiencias públicas. Las resoluciones emitidas son definitivas y de obligatorio cumplimiento, sentando precedentes en la **administración electoral**.
-
-Impacto en el desarrollo electoral
-----------------------------------
-
-La r**esolución de estos recursos** tiene un impacto en el **proceso electoral**, ya que de ella depende la oficialización de las **candidaturas y la posibilidad de realizar reemplazos si el TCE descalifica alguna postulación**.
-
-El **Código de la Democracia** establece plazos específicos para ejecutar estas acciones, con el fin de garantizar que el cronograma electoral no se vea afectado.
-
-Una vez finalizado el proceso contencioso, el CNE puede proceder con **actividades clave**, como la **impresión de papeletas y la organización logística** para los comicios.
-
-El **Código de la Democracia** establece procedimientos y plazos específicos para la resolución de recursos **contenciosos electorales** relacionados con la inscripción de candidaturas, asegurando que el cronograma electoral se mantenga **sin alteraciones significativas**.
-
-Plazos para inscribir una nueva candidatura
--------------------------------------------
-
-Las resoluciones del TCE son **definitivas y de obligatorio** cumplimiento. Si el TCE descalifica una candidatura, el partido o **movimiento político** correspondiente puede presentar un reemplazo, siempre que se respeten los plazos establecidos en el **calendario electoral**.
-
-**Esteban Ron**, Decano de la Facultad de Derecho de la UISEK, en una entrevista en **Radio Quito**, mencionó que el Código de la Democracia dispone que una vez notificado, las organizaciones políticas, cuando hacen el reemplazo o la subsanación de candidatos, tienen **48 horas para tales efectos**.
-
-El Pleno del CNE conoció la sentencia sobre la descalificación a la precandidatura de **[Jan Topic](https://es.wikipedia.org/wiki/Jan_Topi%C4%87 "https://es.wikipedia.org/wiki/Jan_Topi%C4%87")**. Por esta razón, el **plazo para la nueva inscripción** vence este lunes 18 de noviembre de 2024 y deberán presentar a sus nuevos candidatos a la **Presidencia y Vicepresidencia**.
-
-Ron también indica que el **Código de la Democracia y el Reglamento de Inscripción de Candidaturas** considera en este caso al **binomio presidencial** como una **candidatura unipersonal,** por más de que esté compuesto por dos personas. Por esta razón, Mishelle Calvache aún no estaba calificada y por ello si **puede declinar a su candidatura**.
-
-> M. Calvache si puede declinar su candidatura.  
->   
-> El binomio presidencial es considerado una candidatura unipersonal (Art. 99 Cod Dem), por lo que al no calificar a J. Tópic aún no se encuentra calificado el Binomio.  
->   
-> La candidatura es irrenunciable una vez calificada por el CNE -…
-> 
-> — Esteban Ron Castro (@EstebanPRonC) [November 18, 2024](https://twitter.com/EstebanPRonC/status/1858515355628453969?ref_src=twsrc%5Etfw)
-
-Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia
-=============================================================
-
-La gran figura de la Selección de Ecuador cumplió su sanción y estará disponible para Sebastián Beccacece.
-----------------------------------------------------------------------------------------------------------
-
-![Moisés Caicedo cantando el himno de Ecuador en un partido de la selección.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-18T122533.683.jpg)
-
-**Moisés** **Caicedo**, estrella del Chelsea y pilar de la Selección de Ecuador, regresa para enfrentar a Colombia en la última jornada de las eliminatorias sudamericanas de 2024.
-
-A sus 23 años, el mediocampista es reconocido como uno de los mejores en su posición en la Premier League, lo que convierte su retorno en una gran noticia para el equipo de **Sebastián Beccacece.**
-
-### Más noticias:
-
-* [Las fortalezas de la Selección de Ecuador con Beccacece](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html "Las fortalezas de la Selección de Ecuador con Beccacece")
-* [Moisés Caicedo, el jefe del Chelsea de Inglaterra](https://www.elcomercio.com/deportes/futbol/moises-caicedo-el-jefe-del-chelsea-de-inglaterra.html "Moisés Caicedo, el jefe del Chelsea de Inglaterra")
-* [Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador](https://www.elcomercio.com/deportes/futbol/carlos-gruezo-perfila-como-reemplazo-moises-caicedo-ecuador.html "Carlos Gruezo se perfila como el reemplazo de Moisés Caicedo en Ecuador")
-
-La sanción de Moisés Caicedo
+Compra de energía a Colombia
 ----------------------------
 
-En el partido contra Uruguay, disputado en Montevideo el pasado octubre, **Caicedo** recibió su segunda tarjeta amarilla del proceso eliminatorio, lo que lo dejó fuera del compromiso ante Bolivia.
+Sobre este último tema, la Corporación Eléctrica del Ecuador (Celec) detalló que Ecuador firmó **cuatro contratados** para la importación de energía con el país del norte.
 
-Ante su ausencia, **Beccacece** optó por Pedro Vite, quien cumplió un buen papel en la goleada 4-0 sobre la ‘Verde’, en Guayaquil.
+La compra incluye un mejoramiento de **150 MW** para la central Esmeraldas IV y **122,1 MW** para la central Durán. Además, está el alquiler de **260 MW** para Pascuales, por 18 meses. El cuarto proyecto es la compra de **100 MW** para San Juan de Manta.
 
-Con su sanción cumplida, el regreso de Caicedo **representa un alivio para la ‘Tri’**, que recupera a uno de sus líderes en un duelo crucial contra un rival de jerarquía como Colombia.
+Sin embargo, la falta de lluvias considerables persiste en el Austro, donde se ubican tres de las centrales hidroeléctricas más importantes del país: **Paute, Mazar y Sopladora**.
 
-Los números de Caicedo en eliminatorias
----------------------------------------
+Cortes de luz en Guayaquil para este martes 19 de noviembre
+-----------------------------------------------------------
 
-En estas eliminatorias, **Moisés Caicedo ha sido una pieza clave para Ecuador**, jugando 10 de los 11 partidos posibles, todos como titular. Su desempeño le ha valido ser incluido en un equipo ideal de la jornada.
+Según el cronograma de CNEL, los cortes de luz en Guayaquil serán de ocho horas en las zonas residenciales y de tres o seis horas en las zonas industriales.
 
-En cuanto a estadísticas ofensivas, el volante registra tres asistencias y **promedia 1,3 pases clave por partido**. Además, ha generado dos ocasiones claras de gol y mantiene un 86 % de precisión en sus entregas.
+Los apagones programados en las viviendas se ejecutarán en **dos y tres franjas horarias**, que incluyen la madrugada o mañana, la mañana o tarde y la tarde o noche.
 
-En el aspecto defensivo, Moisés Caicedo **destaca como uno de los mejores mediocampistas** de las eliminatorias sudamericanas. El tricolor acumula ocho intercepciones, 21 entradas efectivas, 64 balones recuperados, cinco despejes y un 55 % de duelos ganados.
+Conoce el **cronograma completo** de las suspensiones eléctricas en Guayaquil por sectores:
 
-Con estas cifras, **Caicedo reafirma su rol c**omo uno de los mediocampistas más destacados del proceso eliminatorio, una presencia que será determinante para buscar el triunfo en Barranquilla.
+Loja y Azuay suman miles de hectáreas quemadas
+==============================================
 
-Colombia vs. Ecuador
---------------------
+Incendios forestales mantienen en riesgo a Loja y Azuay.
+--------------------------------------------------------
 
-La **Selección de Ecuador** visitará este martes 19 de noviembre a Colombia en la última jornada de las eliminatorias sudamericanas de 2024. La ‘Tri’ buscará repetir una hazaña que ocurrió hace más de 60 años.
+![Incendios forestales se registran en San Pedro de Vilcabamba, Malacatos, Vilcabamba y el Parque Nacional Podocarpus.](https://www.elcomercio.com/wp-content/uploads/2024/11/incendio.jpg)
 
-El compromiso, válido por la duodécima jornada del proceso eliminatorio, se disputará en el **Estadio** **Metropolitano** **Roberto Meléndez** y está programado para las 18:00 (hora de Ecuador).
+Los **incendios forestales** avanzan en **Loja y Azuay**. El Ministerio del Ambiente, Agua y Transición Ecológica (Maate) dio un nuevo informe sobre la situación, la tarde de este lunes, 18 de noviembre de 2024.
 
-No te pierdas nuestro Especial Halloween
-----------------------------------------
+Los equipos siguen trabajando en los territorios afectados por las llamas. Son miles de **hectáreas consumidas**.
 
-Así se jugará la fecha 12 de las eliminatorias sudamericanas
-============================================================
+### Más noticias
 
-La Selección de Ecuador visitará a Colombia en la fecha 12 de las eliminatorias a la Copa del Mundo 2026.
----------------------------------------------------------------------------------------------------------
+* [Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí](https://www.elcomercio.com/actualidad/politica/daniel-noboa-hablo-incendios-creados-manabi.html "Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí")
+* [Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía](https://www.elcomercio.com/actualidad/ecuador/ecuador-declara-emergencia-nacional-por-incendios-deficit-hidrico-y-sequia.html "Ecuador declara emergencia nacional por incendios, déficit hídrico y sequía")
+* [17 incendios forestales están activos en Ecuador este lunes 18 de noviembre](https://www.elcomercio.com/actualidad/ecuador/17-incendios-forestales-estan-activos-en-ecuador-este-lunes-18-de-noviembre.html "17 incendios forestales están activos en Ecuador este lunes 18 de noviembre")
 
-![Alan Minda, jugador de la Selección de Ecuador en Guayaquil.](https://www.elcomercio.com/wp-content/uploads/2024/11/horarios_12_1.jpg)
+> 📍El Ministerio del Ambiente, Agua y Transición Ecológica actualiza información, en relación a los incendios Forestales en el Parque Nacional Podocarpus, provincia de Loja. ⤵️ [pic.twitter.com/53WTVSLI84](https://t.co/53WTVSLI84)
+> 
+> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [November 18, 2024](https://twitter.com/Ambiente_Ec/status/1858608280601317707?ref_src=twsrc%5Etfw)
 
-La fecha 12 de las **eliminatorias sudamericanas al Mundial 2026** se jugará íntegramente el martes 19 de noviembre de 2024 en cinco distintas ciudades, con lo que el calendario de este año llegará a su fin.
+Incendios forestales en Loja y Azuay
+------------------------------------
 
-En las 11 primeras fechas de las eliminatorias sudamericanas, **Argentina lidera la tabla de posiciones con 22 puntos** y un gol diferencia de +13. Tienen la primera opción de clasificar a la Copa del Mundo y defender su título.
+En el **Parque Nacional Podocarpus**, provincia de Loja, 136 efectivos de varias instituciones continúan trabajando para controlar un incendio forestal.
+
+El Maate informó que, desde el Puesto de Mando Unificado (PMU), en la parroquia **San Pedro de Vilcabamba** continúan los trabajos para controlar y sofocar el incendio.
+
+El helicóptero de la república de Perú, equipado con bambi bucket (bolsa para transportar agua), realizó descargas de líquido sobre varias zonas de las parroquias **San Pedro de Vilcabamba, Malacatos y Vilcabamba**. También en el parque.
+
+La superficie afectada asciende a **3 709 hectáreas**, aproximadamente. En el **Parque Podocarpus** llegaron a **115 hectáreas** de bosque primario y páramo.
+
+Al Puesto de Mando Unificado se sumarán 27 brigadistas de refuerzo en **incendios forestales**, entre otros.
+
+> [#Loja](https://twitter.com/hashtag/Loja?src=hash&ref_src=twsrc%5Etfw)| Un helicóptero de la República del Perú, con tecnología Bambi Bucket, realiza descargas de agua sobre las áreas afectadas por el incendio forestal en San Pedro de Vilcabamba, Malacatos, Vilcabamba y el Parque Nacional Podocarpus. ✖️🔥💪🏼 [pic.twitter.com/owvsNmtrZg](https://t.co/owvsNmtrZg)
+> 
+> — Min. de Ambiente, Agua y Transición Ecológica 🇪🇨 (@Ambiente\_Ec) [November 18, 2024](https://twitter.com/Ambiente_Ec/status/1858590834649870350?ref_src=twsrc%5Etfw)
+
+Llamas en Cuenca
+----------------
+
+En Cuenca, Azuay, técnicos y guardaparques del [**Ministerio del Ambiente**](https://www.ambiente.gob.ec/) trabajan con el apoyo de brigadistas especialistas en manejo integral del fuego de las áreas protegidas de los parques nacionales: **Cajas, Sangay, Llanganates y del Programa Amazonia sin Fuego**.
+
+Los incendios se mantienen, principalmente, en el Parque Nacional Cajas y en los cantones **Santa Isabel, Nabón y Sigsig**.
+
+Para las tareas han llegado donaciones, como de chalecos forestales, palas contra incendios, extintores y un Bambi Bucket.
+
+El Oro y un incendio controlado
+-------------------------------
+
+Por otro lado, la Cartera de Estado informó que el incendio en el cantón **Chilla**, en El Oro, ya está controlado.
+
+Sin embargo, el equipo del **Cuerpo de Bomberos de Machala** permanece en el área para verificar la posible presencia de focos activos en la zona.
+
+Debido a los incendios forestales que afectaron a los sectores: en los cerros Pillo y Chillacocha, así como San Miguel y Obispo, alrededor de **1 500 hectáreas** de vegetación han sido comprometidas en la zona alta de la provincia.
+
+En el sector cerro **El Obispo**, los equipos inspeccionaron el río Pivir, que abastece de agua a los cantones Chilla y Pasaje, a través del río Jubones. En las tareas se confirmó que la naciente no presentó riesgo de afectación por el incendio.  
+
+Para Francisco Egas, Liga de Quito no cumplió el reglamento
+===========================================================
+
+Liga de Quito perdió tres puntos por una sanción de la Comisión Disciplinaria de la FEF.
+----------------------------------------------------------------------------------------
+
+![Ezequiel Piovi, capitán de Liga de Quito en el 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/egas_sancion_1.jpg)
+
+Francisco Egas, presidente de la **Federación Ecuatoriana de Fútbol (FEF)**, se refirió a la sanción que la Comisión Disciplinaria le impuso a Liga de Quito de mermarle tres puntos en la Liga Pro.
+
+La resolución de la Comisión Disciplinaria se conoció el sábado 16 de noviembre de 2024, en donde se establece que le **deben mermar tres puntos a Liga por no cumplir con el pago** de una deuda pendiente con Franklin Guerra, jugador que pasó por la institución entre el 2018 y 2022.
 
 ### Más noticias:
 
-* [Liga de Quito pierde tres puntos por una sanción](https://www.elcomercio.com/deportes/futbol/liga-quito-sancion-fef-puntos.html "Liga de Quito pierde tres puntos por una sanción")
-* [Sebastián Beccacece planteará un Ecuador intenso ante Colombia](https://www.elcomercio.com/deportes/futbol/beccacece-ecuador-colombia-barranquilla-eliminatorias.html "Sebastián Beccacece planteará un Ecuador intenso ante Colombia")
-* [Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-fecha14-etapa.html "Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14")
+* [La Selección de Ecuador buscará su segunda victoria en Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-historial-colombia-eliminatorias.html "La Selección de Ecuador buscará su segunda victoria en Colombia")
+* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
+* [Deportivo Quito cayó con Liga de Portoviejo y prende velas](https://www.elcomercio.com/deportes/futbol/depotivo-quito-liga-portoviejo-marcador.html "Deportivo Quito cayó con Liga de Portoviejo y prende velas")
 
-El segundo lugar los comparten **Uruguay y Colombia con 19 unidades**, pero el gol diferencia le favorece a los ‘charrúas’ con +8 por sobre los +6 de los ‘cafeteros’.
+Isaac Álvarez, presidente de LDU, aseguró este lunes 18 que el pago se realizó dentro de los plazos establecidos por el **Código Disciplinario, por lo que apelarán la sanción** y esperan recuperar los puntos que ganaron en cancha.
 
-El cuarto lugar es para Brasil con 17 puntos y un gol diferencia de +6; Ecuador es quinto con 16 y un gol diferencia de +6 y el sexto para Paraguay con 16 y un gol diferencia de +1.
+“Cumplimos con el valor total del jugador (…) Dentro de los plazos (…) Estas normas castigan en el **eventual incumplimiento del pago que no es el presente caso** (…) Lo que significa que no debe existir sanción alguna”, aseguró Álvarez en un video colgado en las redes del club.
 
-Venezuela se apoderó de la **séptima casilla con 12 unidades y un gol diferencia de -2**. Al momento, la ‘Vinotinto’ se está llevando el cupo al repechaje y sigue con las opciones claras de obtener su primer boleto a este torneo.
+La fecha límite de pago de la deuda con Guerra era el jueves 14 de noviembre. El pago se realizó el mismo día en horas de la mañana, pero la **notificación de la cancelación llegó a la FEF el viernes 15**, tal como lo reconoció el propio Álvarez en sus declaraciones.
 
-**Bolivia (12), Perú (7) y Chile (6) ocupan el octavo, noveno y décimo lugar** en la tabla, con lo que se están quedando sin un cupo a la Copa del Mundo, pero aún tienen siete fechas por delante para darle vuelta a esta situación.
+El artículo 150, numeral 4 del Código de la FEF, menciona que el “(…) pago o el convenio suscrito con el acreedor se tiene que **presentar hasta las 18:00 del día hábil anterior a la fecha programada** para la realización del siguiente partido”.
 
-Goleadores de las eliminatorias
--------------------------------
+La categoría sub-15 jugó su partido ante Universidad Católica el propio viernes y se clasificaron para las semifinales del Campeonato de Formativas 2024.
 
-Lionel Messi es el goleador de las eliminatorias con seis tantos. Le anotó un triplete a Bolivia en el Monumental de River Plate, un **doblete a Perú en el Monumental de Universitario**, y uno a Ecuador en el propio Monumental.
+![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/egas_sancion_2-1024x683.jpg)
 
-El uruguayo Darwin Núñez ocupa el segundo lugar con cinco tantos. Sus goles se reparten con un **doblete a Bolivia y uno a Argentina, Brasil y Colombia**.
+Foto: API.
 
-Luego vienen **Antonio Sanabria de Paraguay, Luis Fernando Díaz de Colombia y Raphinha de Brasil** con cuatro tantos cada uno.
+Egas reaccionó ante la sanción
+------------------------------
 
-Enner Valencia, Gonzalo Plata y Félix Torres son los jugadores ecuatorianos con más tantos. Tiene dos cada uno.
+“Tenemos un reglamento que es el que aplicamos. Si Liga tiene elementos de convicción y de prueba en su apelación corresponderá a la Cámara de Apelación aplicarlos”, mencionó Egas en Guayaquil consultado sobre el tema.
 
-Fecha 12 – eliminatorias
-------------------------
+“**Para nosotros es evidente que el Reglamento no se ha cumplido** (…) habla de cumplir con toda la fase de pago y notificación antes del primer partido de una de las categorías”, indicó el dirigente.
 
-### Martes 19/11
+Recalcó que es “**dolorosísimo**” aplicar el reglamento, pero es el mismo que se utilizó para otros casos.
 
-**15:00 Bolivia vs. Paraguay  
-**Estadio: Municipal  
-Ciudad: El Alto
+“Es el [reglamento que está en nuestros libros](https://www.fef.ec/estatutos-y-reglamentos/). Fue aprobado por los clubes en los distintos congresos”, sentenció.
 
-**18:00 Colombia vs. Ecuador  
-**Estadio: Metropolitano  
-Ciudad: Barranquilla
-
-**19:00 Argentina vs. Perú  
-**Estadio: La Bombonera  
-Estadio: Buenos Aires
-
-**19:00 Chile vs. Venezuela  
-**Estadio: Nacional  
-Ciudad: Santiago
-
-**19:45 Brasil vs. Uruguay  
-**Estadio: Arena Fonte Nova  
-Ciudad: Salvador
+> Francisco Egas y su posición ante la sanción de los -3 puntos a [#LDU](https://twitter.com/hashtag/LDU?src=hash&ref_src=twsrc%5Etfw) ⚪️  
+>   
+> “Es evidente que el reglamento no se ha cumplido. Para nosotros es doloroso aplicar este reglamento que está en nuestros libros”. [pic.twitter.com/jbbPHpWLHb](https://t.co/jbbPHpWLHb)
+> 
+> — Sonia Pérez (@soniiperez\_) [November 18, 2024](https://twitter.com/soniiperez_/status/1858563392128090569?ref_src=twsrc%5Etfw)
 
 San viernes
 -----------
 
-Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz
-================================================================================
+¿Qué función tienen los nuevos veedores de la renovación de la Corte Constitucional?
+====================================================================================
 
-El Gobierno Nacional firmó contratos por 467,28 millones de dólares para incorporar generación térmica y superar la emergencia energética del Ecuador
------------------------------------------------------------------------------------------------------------------------------------------------------
+El Cpccs acreditó a ocho veedores ciudadanos para supervisar la renovación parcial de la Corte Constitucional.
+--------------------------------------------------------------------------------------------------------------
 
-![Los contratos incluyen la compra y alquiler de generación térmica en centrales ubicadas en Esmeraldas, Durán, Pascuales y San Juan de Manta.](https://www.elcomercio.com/wp-content/uploads/2024/11/central-1811.jpg)
+![Veedores ciudadanos acreditados por el Cpccs supervisarán la renovación parcial de la Corte Constitucional.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-33-2.jpg)
 
-El **Gobierno Nacional** firmó cuatro contratos que permitirán incorporar 632,1 megavatios (MW) de **generación térmica** para enfrentar la **crisis eléctrica** que atraviesa el **Ecuador**[.](https://en.wikipedia.org/wiki/Ecuador "https://en.wikipedia.org/wiki/Ecuador")
+El **Consejo de Participación Ciudadana y Control Social (Cpccs)** acreditó a ocho veedores ciudadanos para supervisar el proceso de **renovación parcial de jueces y juezas de la Corte Constitucional**. Esta veeduría surgió a partir de una iniciativa ciudadana presentada el 7 de agosto de 2024 por el representante del **Comité Permanente de Defensa de los Derechos Humanos, Billy Navarrete**.
 
-Con esta acción, se busca mitigar los **cortes de luz** que han dejado al país en oscuras durante casi dos meses, informó la Corporación Eléctrica del Ecuador (**Celec**), este lunes 18 de noviembre de 2024.
+### Más noticias
+
+* [Cpccs hará instructivo relacionado con integrantes del CNE](https://www.elcomercio.com/actualidad/politica/cpccs-hara-instructivo-relacionado-con-integrantes-cne.html "Cpccs hará instructivo relacionado con integrantes del CNE")
+* [Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional](https://www.elcomercio.com/actualidad/politica/nueve-candidatos-avanzan-proceso-seleccion-corte-constitucional.html "Nueve candidatos avanzan en el proceso de selección para la Corte Constitucional")
+* [Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras](https://www.elcomercio.com/actualidad/politica/corte-constitucional-aprueba-propuesta-de-daniel-noboa-sobre-bases-militares-extranjeras.html "Corte Constitucional aprueba propuesta de Daniel Noboa sobre bases militares extranjeras")
+
+De acuerdo con la **Constitución** y la **Ley Orgánica de Participación Ciudadana**, corresponde al Cpccs regular este **mecanismo de control social**. Por ello, se llevó a cabo una convocatoria pública entre el 16 y el 23 de octubre de 2024, a la que se **inscribieron 27 personas interesadas**.
+
+> 📝 Boletín de prensa  
+>   
+> 8 veedores ciudadanos están habilitados para vigilar el proceso de renovación de la Corte Constitucional [@AndresFantoniB](https://twitter.com/AndresFantoniB?ref_src=twsrc%5Etfw) [pic.twitter.com/MIcaDNlmoT](https://t.co/MIcaDNlmoT)
+> 
+> — Participa Ecuador (@CpccsEc) [November 18, 2024](https://twitter.com/CpccsEc/status/1858622540299857941?ref_src=twsrc%5Etfw)
+
+Proceso de selección y acreditación
+-----------------------------------
+
+Durante la convocatoria, se registraron postulantes de las **provincias de Guayas, Pichincha, Manabí, Los Ríos y Pastaza**, además de **un participante desde Argentina**.
+
+De los **27 inscritos**, 18 cumplieron con los requisitos establecidos. Posteriormente, ocho candidatos fueron seleccionados tras participar en un **proceso de capacitación e inducción**, el cual incluyó sesiones presenciales y virtuales.
+
+Los **ciudadanos acreditados** como veedores son:
+
+* Luis Gonzalo Acosta Abarca.
+* Adrián Fernando Bastías Robayo (designado como coordinador).
+* Carlos Alberto Almeida Alvarado.
+* Carlos Efraín Enrique Cordero Caza.
+* Diego Paul Ron Sumba.
+* Oswaldo Alejandro Garcés Proaño.
+* Aida Elena Espinoza Flores.
+* Johanna Melyna Romero Larco.
+
+Resolución de acreditación y respaldo institucional
+---------------------------------------------------
+
+El Cpccs remitió a la **Comisión Calificadora** toda la documentación referente al proceso de convocatoria, inscripción, verificación de **requisitos y acreditación** de los veedores seleccionados. Esto con el objetivo de garantizar la transparencia en la supervisión de la renovación de la **Corte Constitucional**.
+
+> [#Importante](https://twitter.com/hashtag/Importante?src=hash&ref_src=twsrc%5Etfw)  
+> Para ser parte de la Veeduría Ciudadana que vigilará la designación del Fiscal General, puedes inscribirte por vía electrónica en los correos habilitados. [@AndresFantoniB](https://twitter.com/AndresFantoniB?ref_src=twsrc%5Etfw) [#CiudadanosComoTú](https://twitter.com/hashtag/CiudadanosComoT%C3%BA?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/05yaXh0xX4](https://t.co/05yaXh0xX4)
+> 
+> — Participa Ecuador (@CpccsEc) [November 18, 2024](https://twitter.com/CpccsEc/status/1858616167197458765?ref_src=twsrc%5Etfw)
+
+Finalmente, mediante esta resolución, el Cpccs notificó la **aprobación y acreditación oficial** de esta veeduría ciudadana. La acción reafirma el **compromiso del organismo** con los mecanismos de control social y la participación ciudadana en **procesos fundamentales para el Estado**.
+
+Encuentran una momia de un tigre de dientes de sable 
+=====================================================
+
+Gracias al hallazgo, se obtuvo nueva información sobre los tigres dientes de sable.
+-----------------------------------------------------------------------------------
+
+![Detalles inéditos de un cachorro de tigre dientes de sable. Foto: National Geographic.](https://www.elcomercio.com/wp-content/uploads/2024/11/cachorro-dientes-de-sable.jpg)
+
+Un **grupo de científicos rusos** ha realizado un descubrimiento fascinante en **Siberia**. Según [20 Minutos](https://www.20minutos.es/noticia/5654765/0/hallan-perfectamente-conservada-momia-cachorro-tigre-dientes-sable-murio-anos/ "https://www.20minutos.es/noticia/5654765/0/hallan-perfectamente-conservada-momia-cachorro-tigre-dientes-sable-murio-anos/"), **hallaron una momia de un cachorro de tigre dientes de sable**, un felino extinto, sorprendentemente bien conservada. La momia fue recuperada del **permafrost y data de hace 37 000 años**. 
+
+### Más noticias
+
+* [Ave que vivió con dinosaurios hace 70 millones de años fue descubierta en Argentina](https://www.elcomercio.com/actualidad/mundo/ave-dinosaurios-millones-descubierta-argentina.html "https://www.elcomercio.com/actualidad/mundo/ave-dinosaurios-millones-descubierta-argentina.html")
+* [Los satélites son capaces de detectar fósiles desde el espacio](https://www.elcomercio.com/tendencias/ciencia/satelites-fosiles-espacio-investigadores-paleontologos.html)
+
+**Estudio revela detalles inéditos del cachorro** 
+--------------------------------------------------
+
+Este hallazgo, siguiendo con 20 Minutos, ha sido detallado en **un estudio reciente publicado en Scientific Reports por la Academia de Ciencias de Rusia**.  
+
+Los investigadores revelaron detalles nunca antes vistos sobre este antiguo animal. Entre los hallazgos más impactantes, se destacó que **el cuello del cachorro era dos veces más grueso que el de un cachorro de león actual**. Además, **su mandíbula estaba perfectamente adaptada para albergar sus icónicos incisivos en forma de cono**, característicos de esta especie. 
+
+**Los dedos del cachorro de dientes de sable** 
+-----------------------------------------------
+
+Otro descubrimiento importante fue **cómo los dedos del cachorro le habrían permitido caminar sobre la nieve** durante la última glaciación. Este detalle **aporta nueva información sobre la vida de los tigres dientes de sable** en su hábitat natural. 
+
+**Procedimiento del hallazgo** 
+-------------------------------
+
+Según [La Nación](https://www.lanacion.com.ar/lifestyle/en-las-redes/hallaron-la-momia-de-un-tigre-dientes-de-sable-bebe-en-el-hielo-y-hubo-conmocion-por-lo-que-escondia-nid18112024/ "https://www.lanacion.com.ar/lifestyle/en-las-redes/hallaron-la-momia-de-un-tigre-dientes-de-sable-bebe-en-el-hielo-y-hubo-conmocion-por-lo-que-escondia-nid18112024/"), **después de retirar cuidadosamente la “momia bebé” del suelo helado**, los científicos descubrieron que **se trataba de la cabeza, el torso delantero, huesos de la cadera y extremidades traseras**. Si hubiera estado completo, el cachorro mediría solo 35 centímetros de largo. 
+
+**Identificación y datación del cachorro** 
+-------------------------------------------
+
+El **análisis del cráneo**, siguiendo con la misma fuente, permitió a los investigadores **identificar al cachorro como una cría de tigre dientes de sable**, lo que **sitúa al animal en el Pleistoceno Superior**. Este felino, que habitaba Europa y Asia, **se caracterizaba por tener un tamaño similar al de un león moderno**, con patas largas y caninos superiores dentados y aplanados. Los tigres dientes de sable **eran conocidos por ser adaptaciones de grandes felinos de la época**, a decir de la misma fuente. 
+
+**Confirmación de características anatómicas** 
+-----------------------------------------------
+
+Además, el análisis comparativo de sus dientes y huesos con los de leones actuales **reveló que el cachorro tenía aproximadamente tres semanas cuando murió**. Los expertos también notaron que **su cabeza era más corta y redondeada**, con orejas más altas y redondas, y un cuello más grueso y alargado. Estos rasgos confirmaron las conclusiones previas basadas en la anatomía ósea. 
+
+**Los dientes de sable: una antigua hipótesis confirmada** 
+-----------------------------------------------------------
+
+**Otro descubrimiento importante**, según La Nación, fue sobre los **famosos dientes de sable del tigre**. Los investigadores respaldaron una antigua hipótesis: **los caninos del tigre podrían haber estado ocultos por los labios y la piel**, lo que impedía que se vieran cuando la boca estaba cerrada. Aunque el cachorro era demasiado joven para mostrar sus dientes, la profundidad de sus labios apoya esta teoría. 
+
+**Mechones de pelo y características sorprendentes** 
+-----------------------------------------------------
+
+Una de las características más sorprendentes fueron los **mechones de pelo largos y pálidos que se extendían hacia atrás desde las comisuras de la boca**, lo que sugiere que **estos rasgos podrían haber sido aún más pronunciados en los adultos**, tal vez para formar una barba en la mandíbula inferior. 
+
+**Adaptaciones en las patas para el hielo** 
+--------------------------------------------
+
+Finalmente, a decir de La Nación, **los estudios sobre las patas del cachorro revelaron que las almohadillas bajo cada dedo eran cuadradas en lugar de ovaladas**, lo que es común en los gatos modernos. La almohadilla principal debajo de la palma tenía forma de riñón, lo que indica **adaptaciones para caminar sobre la nieve**, lo que sugiere que **los dientes de sable estaban perfectamente adaptados para sobrevivir en el hielo**. 
+
+Este descubrimiento agrega **una pieza más a los muchos restos prehistóricos recuperados del suelo helado de Siberia**, incluidos mamuts, rinocerontes lanudos, lobos y leones de las cavernas, que siguen sorprendiendo a los científicos sobre la vida en el Pleistoceno. 
+
+¿Quién es la novia de la hija mayor de Carlos Vives?
+====================================================
+
+La hija mayor de Carlos Vives captó la atención del público tras presentar a su novia en los Latin Grammy 2024.
+---------------------------------------------------------------------------------------------------------------
+
+![Lucy Vives tiene 28 años. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T171919.942.jpg)
+
+**Lucía Vive**s, la hija mayor del reconocido cantante colombiano **Carlos Vives**, captó la atención del público tras presentar a su **novia** en la reciente **ceremonia** de los **Latin Grammy 2024**.
+
+Ese evento celebró la carrera de su **padre**, quien fue homenajeado como **Persona del Año** por sus tres décadas en la **música**, y también marcó un momento significativo en la vida personal de **Lucía**, más conocida como Lucy.
+
+### **Más noticias:**
+
+* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
+* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html")
+* [Ángela Aguilar causa polémica con el lanzamiento de su muñeca](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-polemica-muneca-redes-sociales.html")
+
+**Los Latin Grammy premiaron la trayectoria de Carlos Vives con su máximo galardón**
+------------------------------------------------------------------------------------
+
+Carlos Vives celebró la noche más significativa de su carrera al recibir el máximo galardón de los Latin Grammy 2024. La velada estuvo llena de emoción y homenajes.
+
+El artista colombiano compartió ese reconocimiento con su familia, amigos y figuras destacadas de la música latina. Todos se unieron para rendirle tributo por su trayectoria.
+
+> [View this post on Instagram](https://www.instagram.com/reel/DCYcH9HuzWn/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by The Latin Recording Academy (@latingrammys)](https://www.instagram.com/reel/DCYcH9HuzWn/?utm_source=ig_embed&utm_campaign=loading)
+
+La velada comenzó con una impresionante sección musical, en la que participaron leyendas como Rubén Blades, Juan Luis Guerra, Gloria y Emilio Estefan, y Alejandro Sanz.
+
+La actuación más destacada fue la interpretación de Juanes de La Gota fría, una versión rockera que hizo ponerse de pie al propio Carlos Vives, quien expresó su emoción por la cantidad de artistas que lo acompañaron esa noche.
+
+**¿Quién es la novia de la hija mayor de Carlos Vives?**
+--------------------------------------------------------
+
+La **novia** de **Lucía** es una modelo **extranjera**. Algunos medios la identifican como **Ivonne**. Aunque los detalles sobre su **vida personal** son escasos, se confirmó que ella ya es conocida por la familia **Vives**.
+
+Durante la gala, **Lucía e Ivonne** deslumbraron en la **alfombra roja** de los Latin Grammy, mostrando una conexión palpable.
+
+> [View this post on Instagram](https://www.instagram.com/p/C0cacryx8_C/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [A post shared by lucia vives gomez (@lucyvives)](https://www.instagram.com/p/C0cacryx8_C/?utm_source=ig_embed&utm_campaign=loading)
+
+Lucía Vives, de 28 años, es una defensora activa de la diversidad y la inclusión. Su relación con Ivonne fue objeto de especulaciones y comentarios positivos en las **plataformas digitales,** donde muchos elogiaron su valentía al compartir su **amor** públicamente.
+
+A pesar de que ambas optaron por mantener su relación relativamente privada, su aparición en un evento tan destacado fue vista como un símbolo de aceptación y amor.
+
+Israel lanza un nuevo ataque contra un edificio en el oeste de Beirut
+=====================================================================
+
+Casi 3 500 personas murieron en más de un año de fuego cruzado entre Israel y Hezbolá.
+--------------------------------------------------------------------------------------
+
+![Daños tras una explosión en Beirut, Líbano.](https://www.elcomercio.com/wp-content/uploads/2024/11/beirut-edificio-efe.jpg)
+
+Al menos **una persona murió** el domingo, 18 de noviembre de 2024, y **nueve resultaron heridas** en el ataque israelí contra la zona de Mar Elias, en el **oeste de Beirut**, informó el Ministerio de Salud Pública libanés.
+
+### Más noticias
+
+* [Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano](https://www.elcomercio.com/actualidad/mundo/israel-anuncia-nuevos-ataques-sedes-hizbula-beirut-sur-libano.html "Israel anuncia nuevos ataques contra sedes de Hizbulá en Beirut y el sur del Líbano")
+* [Chinos bajan de peso en campamentos de adelgazamiento con disciplina extrema](https://www.elcomercio.com/tendencias/curiosidades/china-campamentos-adelgazamiento-salud-obesidad.html "Chinos bajan de peso en campamentos de adelgazamiento con disciplina extrema")
+* [La hambruna se cernirá sobre el norte de Gaza en días si no se actúa pronto](https://www.elcomercio.com/actualidad/mundo/hambruna-cernira-norte-gaza-dias-actua-pronto.html "La hambruna se cernirá sobre el norte de Gaza en días si no se actúa pronto")
+
+El **Centro de Operaciones de Emergencia de Salud Pública**, afiliado al Ministerio de Salud Pública, aseguró en un comunicado que “la **incursión del enemigo israelí** en la calle Mar Elias de Beirut causó el martirio (muerte) de una persona y heridas a otras nueve, dos de ellas en estado crítico”.
+
+Según la Agencia Nacional de Noticias libanesa (ANN), el blanco del ataque fue un edificio en esta zona del oeste de la capital, aunque no se sabe con certeza qué tipo de inmueble es.
+
+Hasta el momento **se desconocen más detalles** sobre quién era el posible objetivo de este ataque e Israel no se pronunció ante esta información.
+
+Segundo ataque de Israel contra Beirut
+--------------------------------------
+
+En imágenes transmitidas por televisiones locales se ve una gran **bola de fuego** y la gente huyendo del lugar del ataque, cuyo lanzamiento **no fue advertido previamente** por el portavoz en árabe del Ejército israelí, Avichay Adree, para su evacuación.
+
+Se trata de la **segunda acción armada de Israel** contra Beirut en lo que va de día, ya que esta mañana, un **ataque contra la sede del partido panarabista Baaz** en la zona central de Beirut de Ras al Nabaa acabó con la vida del responsable de medios del grupo chií libanés Hizbulá, Mohamed Afif.
+
+Israel lanzó, además, otros **ataques contra diferentes puntos del Líbano**, y uno de ellos ha causado la muerte de dos soldados del Ejército libanés.
+
+Casi **3 500 personas murieron** en más de un año de fuego cruzado entre **Israel y Hezbolá**, aunque la gran mayoría de víctimas se produjo desde el pasado 23 de septiembre cuando el Estado judío inició una **campaña incesante de bombardeos** contra el país mediterráneo.
+
+Cortes de luz en Quito para este martes 19 de noviembre
+=======================================================
+
+Quito tendrá cortes de luz de ocho horas, tras la reducción que realizó el Ministerio de Energía.
+-------------------------------------------------------------------------------------------------
+
+![La Empresa Eléctrico de Quito es la empresa encargada de distribuir el servicio en la capital](https://www.elcomercio.com/wp-content/uploads/2024/11/cortes-luz-apagones-quito-martes.jpg)
+
+La Empresa Eléctrica Quito (**EEQ**) presentó los horarios de **cortes de luz** que tendrá la ciudad este martes 19 de noviembre de 2024.
 
 ### Más noticias
 
 * [En Quito hay solidaridad durante los cortes de luz](https://www.elcomercio.com/actualidad/quito/quito-solidaridad-durante-cortes-luz.html "En Quito hay solidaridad durante los cortes de luz")
 * [Inés Manzano dice que Colombia empezó a entregar energía a Ecuador](https://www.elcomercio.com/actualidad/negocios/ines-manzano-anuncia-nuevas-medidas-para-reducir-cortes-luz.html "Inés Manzano dice que Colombia empezó a entregar energía a Ecuador")
-* [Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz](https://www.elcomercio.com/actualidad/negocios/colombia-confirma-suministrara-electricidad-ecuador-cortes-de-luz.html "Colombia confirma que suministrará electricidad a Ecuador ante los cortes de luz")
+* [Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz](https://www.elcomercio.com/actualidad/negocios/ecuador-firma-contratos-para-mitigar-la-crisis-electrica-y-reducir-cortes-de-luz.html "Ecuador firma contratos para mitigar la crisis eléctrica y reducir cortes de luz")
 
-Los contratos se suscribieron a través del **Ministerio de Energía y Minas** y la **Celec,** el viernes 15 de noviembre del 2024. La inversión total llega a 467,28 millones de dólares.
+Apagones programados se redujeron a ocho horas
+----------------------------------------------
 
-El gerente encargado de Celec, **Gustavo Sánchez**, señaló que esta medida responde al compromiso por mitigar los **impactos del estiaje**. La escasez de agua impide el normal funcionamiento de las **hidroeléctricas** y ha obligado a programar **cortes de luz** en todo el país, desde el pasado 23 de septiembre.
+El **racionamiento eléctrico** en Ecuador se retomó el 23 de septiembre de 2024, luego que en abril y junio el país tuviera apagones programados.
 
-Contratos de generación eléctrica
----------------------------------
+Desde esta fecha, los cortes de luz no se han detenido, alcanzando en algunos días las **14 horas**.
 
-Los contratos incluyen la **compra y alquiler de generación térmica.** Los nuevos equipos reforzarán las centrales ubicadas en **Esmeraldas, Durán, Pascuales y San Juan de Manta**. Los plazos de entrega van de 50 a 180 días.
+Según el nuevo anuncio del Ministerio de Energía, Quito y el resto de ciudades del país tendrán apagones de **ocho horas**, entre el 18 y 21 de noviembre.
 
-Entre los proyectos están la adquisición de **150 MW para la central Esmeraldas IV** y **122,1 MW** para la **central Durán**. Además, está el alquiler de **260 MW para Pascuales**, por 18 meses. El cuarto proyecto es la compra de 100 MW para **San Juan de Manta**.
+La reducción se debe a la mejora en los caudales de los ríos en la Amazonía y a la venta de energía desde **Colombia**[.](https://www.eeq.com.ec/ "https://www.eeq.com.ec/")
 
-Asimismo, Celec señaló que estos esfuerzos se complementan con la recuperación de 630,2 MW que estaban fuera de operación. Así como la incorporación progresiva de 204 MW provenientes de la central hidroeléctrica **Alluriquín, parte del proyecto Toachi Pilatón**. Esto está previsto para diciembre próximo.
+Compra de energía a Colombia
+----------------------------
 
-Deportivo Quito va por la revancha en Portoviejo con la consigna ‘prohibido rendirse’
-=====================================================================================
+Sobre este último tema, la Corporación Eléctrica del Ecuador (Celec) detalló que Ecuador firmó cuatro contratados para la importación de energía con el país del norte.
 
-En Deportivo Quito se mentalizan para remontar la serie ante Liga de Portoviejo, en los cuartos de final del Nacional de Ascenso.
----------------------------------------------------------------------------------------------------------------------------------
+La compra incluye un mejoramiento de **150 MW** para la central Esmeraldas IV y **122,1 MW** para la central Durán. Además, está el alquiler de **260 MW** para Pascuales, por 18 meses. El cuarto proyecto es la compra de **100 MW** para San Juan de Manta.
 
-![Deportivo Quito visitará a Liga de Portoviejo en el Reales Tamarindos, el 24 de noviembre del 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/DeportivoQuito-6.jpg)
+Sin embargo, la falta de lluvias considerables persiste en el Austro, donde se ubican tres de las centrales hidroeléctricas más importantes del país: **Paute, Mazar y Sopladora**.
 
-**Deportivo Quito** se encuentra con la mirada puesta en la **revancha** contra la **Liga de Portoviejo**, en un partido decisivo por la clasificación a las **semifinales** del **Nacional** de **Ascenso**.
+Cortes de luz en Quito para este martes 19 de noviembre
+-------------------------------------------------------
 
-La **‘AKD’** buscará remontar el 1-0 en contra que sufrió en el **partido de ida**, jugado el domingo 17 de noviembre en **Quito**.
+Los cortes de luz en Quito serán de ocho horas para los **sectores residenciales** y de siete para el **sector industrial**.
 
-La serie tendrá su resolución este fin de semana en el estadio **Reales Tamarindos**, en Portoviejo.
+La suspensión del servicio eléctrico en las viviendas se realizará en **dos franjas horarias** de cuatro horas cada una, en la madrugada o mañana; y en la tarde o noche.
 
-### Más noticias:
+Mientras que en los sectores industriales los apagones serán de **17:00 a 24:00**.
 
-* [Deportivo Quito cayó con Liga de Portoviejo y prende velas](https://www.elcomercio.com/deportes/futbol/depotivo-quito-liga-portoviejo-marcador.html "Deportivo Quito cayó con Liga de Portoviejo y prende velas")
-* [Las sanciones que apresuraron el descenso del Deportivo Quito en 2016](https://www.elcomercio.com/deportes/futbol/liga-quito-deportivo-sanciones-fef.html "Las sanciones que apresuraron el descenso del Deportivo Quito en 2016")
-* [Liga de Portoviejo, un rival experimentado para el Deportivo Quito](https://www.elcomercio.com/deportes/futbol/liga-portoviejo-jugadores-experimentados-ascenso.html "Liga de Portoviejo, un rival experimentado para el Deportivo Quito")
+Conoce los horarios de cortes de luz para las **zonas residenciales** de Quito:
 
-En la ida, el único gol del encuentro llegó a los 55 minutos, cuando **Jackson Landazury** marcó para la Liga de Portoviejo.
+### De 00:00 a 04:00 y de 12:00 a 16:00
 
-A pesar de dominar la posesión del balón, **Deportivo Quito** no logró concretar sus pocas ocasiones, careció de ideas en ataque, y se vio superado por un sólido planteamiento defensivo del equipo manabita.
+* Miraflores
+* El Bosque
+* Andalucía
+* Conocoto
+* Cumbayá
+* Eugenio Espejo
 
-Deportivo Quito apuesta por sus dos corazones
+### De 08:00 a 12:00 y de 20:00 a 24:00
+
+* Luluncoto
+* La Floresta
+* Eplicachima
+* Nueva Cumbayá
+
+### Desde 02:00 a 06:00 y de 19:00 a 23:00
+
+* La Carolina
+* Tababela
+* Los Bancos
+* Pérez Guerrero
+* El Obraje (Machachi)
+
+### De 08:00 a 12:00 y de 20:00 a 24:00
+
+* Chimbacalle
+* Belisario Quevedo
+* Iñaquito
+* Inga Bajo
+
+### De 07:00 a 11:00 y de 20:00 a 24:00
+
+* Chilibulo
+* Granda Centeno
+* Río Coca
+
+### Desde 04:00 a 08:00 y de 16:00 a 20:00
+
+* Gualo
+* Sangolquí
+
+### De 02:00 a 06:00 y de 14:00 a 18:00
+
+* Barrionuevo
+* Santa Rosa
+* El Quinche
+
+### Desde 10:00 a 14:00 y de 20:00 a 24:00
+
+* Olímpico
+* Cristianía
+* San Antonio
+* Alangasí
+
+### De 06:00 a 10:00 y de 16:00 a 20:00
+
+* San Rafael
+* Tumbaco
+* Pomasqui
+
+### De 00:00 a 04:00 y de 15:00 a 19:00
+
+* San Roque
+* Río Coca
+* Cotocollao
+* Conocoto
+* Santa Rosa
+* Inga Bajo
+
+### De 11:00 a 15:00 y de 20:00 a 24:00
+
+* Olímpico
+* Escuela Sucre
+* La Marín
+* Diez Vieja
+* San Pablo
+* Iñaquito
+* Tababela
+* Diez Nueva
+* Los Bancos
+* Pomasqui
+
+### De 12:00 a 16:00 y de 20:00 a 24:00
+
+* Miraflores
+* Granda Centeno
+* Andalucía
+* Cristianía
+* Cotocollao
+* Eplicachima
+* Conocoto
+* Carolina
+* San Rafael
+* Eugenio Espejo
+* Batán Alto
+
+Te compartimos el **cronograma completo** de cortes de luz por sectores en Quito para este martes 19 de noviembre:
+
+Justin Bieber preocupa por su aislamiento
+=========================================
+
+La falta de aparciones de Justin Bieber desata alarma sobre su salud mental tras el caso Diddy.
+-----------------------------------------------------------------------------------------------
+
+![A los 15 años Justin Bieber trabajó con Diddy.](https://www.elcomercio.com/wp-content/uploads/2024/11/justin-bieber-El-Comercio.jpg)
+
+En los últimos días, el medio internacional _In Touch_ reveló detalles sobre el estado emocional de **Justin Bieber**, basándose en declaraciones de personas cercanas a su círculo familiar.
+
+Estas fuentes aseguran que el cantante está viviendo un momento crítico y que su comportamiento actual ha despertado serias preocupaciones entre quienes lo rodean.
+
+### Más noticias
+
+* **[Pedro Pascal es fan del pan, los elefantes y ¿qué más?](https://www.elcomercio.com/tendencias/pedro-pascal.html "https://www.elcomercio.com/tendencias/pedro-pascal.html")**
+* **[¿Cómo celebró P. Diddy su cumpleaños en la cárcel?](https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html "https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html")**
+
+“Justin apenas sale de casa”, afirmó una de las personas consultadas por el medio. Aunque se creyó que su falta de socialización era por su nueva etapa como padre, las señales recientes sugieren algo más profundo.
+
+Bieber, quien dio la bienvenida a su **hijo Jack Blues** en agosto de 2024 junto a su **esposa Hailey Baldwin**, ha decidido concentrarse exclusivamente en su familia y carrera, y ha evitado casi cualquier contacto con el mundo exterior.
+
+Según _In Touch_ , la preocupación principal radica en el posible regreso de pensamientos suicidas que marcaron etapas anteriores de la vida del cantante. “Parece estar retrocediendo en los avances que había logrado en su salud mental. Este retroceso ha puesto en alerta a su círculo más cercano”, añadió la fuente.
+
+**Aislamiento y señales preocupantes**
+--------------------------------------
+
+El aislamiento de Justin Bieber ha sido evidente incluso para el público. Según _Cambio 22_, el cantante ha reducido sus apariciones públicas, limitándose a visitas a la iglesia y momentos breves junto a Hailey.
+
+Esta reclusión podría estar ligada al estrés generado por las acusaciones contra Sean Combs, conocido como **Diddy**, con quien Bieber trabajó en su adolescencia.
+
+Las alarmas se encienden debido a la presión psicológica que los acontecimientos recientes parecen haber desencadenado. El portal _Los 40_ explicó que, aunque Justin ha trabajado intensamente en mejorar su bienestar emocional, los recuerdos del pasado y su vínculo con Diddy podrían estar influyendo negativamente en su estado actual.
+
+**La salud mental de Justin: ¿qué está en juego?**
+--------------------------------------------------
+
+La salud mental de Bieber no es un tema nuevo. Durante años, el cantante ha hablado abiertamente sobre sus luchas con la **ansiedad y la depresión**.
+
+Sin embargo, los detalles que han surgido a raíz del caso de Diddy parecen haber reactivado antiguos conflictos internos. Una de las fuentes citadas por _In Touch_ comentó: “Justin estaba en un buen lugar, pero los eventos recientes lo han desestabilizado. Todos temen que esto lo lleve a una caída”.
+
+### Más del tema
+
+* **[P. Diddy y su controversial vínculo con Justin Bieber se debate en las redes](https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html "https://www.elcomercio.com/tendencias/trending/p-diddy-justin-bieber-abuso.html")**
+* **[Un organizador de las fiestas de P. Diddy detalló los excesos de los eventos](https://www.elcomercio.com/afull/diddy-rapero-fiestas.html "https://www.elcomercio.com/afull/diddy-rapero-fiestas.html")**
+
+El impacto psicológico que podrían haber tenido las experiencias de su adolescencia con Diddy no se ha confirmado oficialmente, pero los rumores y especulaciones han tomado fuerza.
+
+Imágenes antiguas y grabaciones de entrevistas resurgen en redes sociales, donde los usuarios analizan señales de incomodidad y tensión en el comportamiento de Bieber.
+
+**Un momento crítico para la familia Bieber**
 ---------------------------------------------
 
-La consigna en el campamento chulla es clara: “prohibido rendirse”.
+El portal _RT_ señaló que su aparente desconexión del mundo exterior podría ser tanto una estrategia de protección como un síntoma de algo más profundo. Hailey, quien ha sido un pilar de apoyo constante, también estaría preocupada por el impacto que este episodio está teniendo en su esposo.
 
-La directiva y el cuerpo técnico de **Deportivo Quito**, encabezados por el entrenador **Carlos Castro**, confían en que aún tienen 90 minutos por delante para dar vuelta la serie. Sus hinchas, los más fieles, también apelan a sus dos corazones: ‘uno para vivir y otro pasar sufrir’.
+Este difícil período coincide con el aumento de atención mediática sobre el caso Diddy, lo que añade presión a la vida privada de Bieber. Si bien el cantante ha evitado hacer declaraciones públicas, las de su entorno sugieren que su salud mental está siendo tratada con extrema precaución.
 
-A través de sus redes sociales, el club reafirmó su compromiso con la hinchada y dejó claro que, aunque la misión es difícil, no se rendirán.
+La DANA pasa factura a enfermos crónicos y adultos mayores
+==========================================================
 
-“Esto es de 180 minutos, y faltan 90. Cerramos filas y pensar en lo que se viene. #ElQuitoEs un club que se debe a su gente y en el que rendirse no se permite”, publicaron el 18 de noviembre, tras el partido.
+Los adultos mayores son uno de los colectivos más afectados por la DANA en Valencia.
+------------------------------------------------------------------------------------
 
-Con solo un gol de ventaja, la revancha se perfila como un encuentro emocionante, donde el equipo local, Liga de Portoviejo, aspirará a ganar ante su gente. Se espera a miles de hinchas en el estadio.
+![Un hombre toma un descanso junto al barranco del Poyo a su paso por Paiporta.](https://www.elcomercio.com/wp-content/uploads/2024/11/DANA-noviembre-11.jpg)
 
-En cualquier caso, Deportivo Quito viajará con la mentalidad de que el desafío está lejos de estar resuelto, y todo puede pasar en los 90 minutos restantes.
-
-Los hinchas chullas confían que los jugadores sacarán a relucir esos dos corazones de los que se enorgullecen.
-
-Las fortalezas de la Selección de Ecuador con Beccacece
-=======================================================
-
-La Selección de Ecuador venció a Bolivia en su último partido de las eliminatorias rumbo al Mundial 2026 y Beccacece tiene puntos altos.
-----------------------------------------------------------------------------------------------------------------------------------------
-
-![Sebastián Beccacece, DT de la Selección de Ecuador, en rueda de prensa de eliminatorias.](https://www.elcomercio.com/wp-content/uploads/2024/11/20241113137263-gye-dt-sebastian-beccacece-scaled.jpg)
-
-La **Selección de Ecuador** se mantiene en zona de clasificación de las eliminatorias sudamericanas y, ante Bolivia, **Sebastián Beccacece** consiguió su segundo triunfo y primera goleada. Pese a ello, la solidez defensiva sigue siendo la principal herramienta y se complementa con otras.
-
-El partido de la Tri ante la ‘**Verde**‘ dejó buenas sensaciones en el elenco del entrenador argentino, que presentaba dudas en función de sus anteriores partidos. La falta de gol le había aquejado, aunque su estandarte era la solidez ofensiva.
-
-### Más noticias:
-
-* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
-* [La Selección de Ecuador buscará su segunda victoria en Colombia](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-historial-colombia-eliminatorias.html "La Selección de Ecuador buscará su segunda victoria en Colombia")
-* [La Selección de Ecuador entrenó en Guayaquil y prepara maletas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-entrenamiento-colombia-mundial.html "La Selección de Ecuador entrenó en Guayaquil y prepara maletas")
-
-Aquel choque ante los bolivianos, el conjunto ecuatoriano se impuso por un marcador de 4-0 en el Estadio Monumental de Guayaquil. El próximo compromiso para la escuadra será en Barranquilla ante **Colombia** durante el martes 19 de noviembre del 2024[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
-
-En el cotejo ante los cafeteros, estos tendrán la localía como ventaja y llegan en mejor ubicación que los de la mitad de mundo. A su vez, cuentan con 19 goles a favor dentro de la clasificatoria, por lo que el equipo de **Beccacece** deberá poner sus máximos recursos.
-
-La defensa de la Selección de Ecuador, baluarte de Sebastián Beccacece
-----------------------------------------------------------------------
-
-Tanto con su DT anterior, **Félix Sánchez Bas**, como con Sebastián Beccacece, la **Selección de Ecuador** se ha caracterizado por la seguridad en el fondo. La defensa del combinado es la mejor de las eliminatorias sudamericanas.
-
-En 11 partidos, el combinado tricolor tan solo ha recibido cuatro goles dentro de los once partidos en los que ha disputado. Dentro de la era de **Beccacece**, este solo ha recibido un gol en contra en los cinco cotejos desde su debut.
-
-Para lograr aquella solidez, el argentino ha optado por una línea de **tres defensas centrales**. Aquello ha sido acompañado de dos laterales o carrileros que rotan las dos funciones en función del esquema táctico y la idea de juego.
-
-Las variantes posicionales en la Tri, otra de las estrategias
--------------------------------------------------------------
-
-Una de las estrategias que ha llevado a cabo **Sebastián Beccacece** durante su gestión en la Selección de Ecuador es la polivancia posicional de sus jugadores. A partir de ello, los jugadores han tenido que ocupar posiciones naturales y otras que no les corresponden.
-
-El entrenador ha sabido ubicar a los jugadores y sacarles provecho. Futbolistas como **Alan Franco, Alan Minda y Joel Ordóñez** han ocupado otros puestos.
-
-11 bandas internacionales tocarán en el Quitofest 2024
-======================================================
-
-El Quitofest 2024 se realizará en el parque Bicentenario.
----------------------------------------------------------
-
-![La cantante chilena Ana Tijoux participará en el Quitofest 2024. Foto: Instagram](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T122416.899.jpg)
-
-La espera terminó. Este 18 de noviembre finalmente se conocieron los nombres de las bandas nacionales e internacionales que tocarán en el **Quitofest 2024**. Las invitadas llegarán a Quito desde Argentina, **México**, Estados Unidos, Perú, República Dominicana y más países.
-
-Te contamos todos los detalles. 
-
-### **Más noticias:** 
-
-* [Ángela Aguilar enfrenta humillación y nuevos ataques de ciberacoso](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-ciberacoso-ataques-criticas-cazzu.html")
-* [Ángela Aguilar ya es la Mujer del Año 2024](https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html "https://www.elcomercio.com/tendencias/entretenimiento/angela-aguilar-mujer-ano-revista-glamour.html")
-
-**¿Cuándo será el Quitofest 2024?**
------------------------------------
-
-Para el 5, 6 y 7 de diciembre está previsto el **Quitofesto 2024**; será en el parque Bicentenario. La fiesta arrancará el jueves, con la presentación de bandas como Los Mirlos, La Sagrada Familia, Machaka, Mula.
-
-**¿Cuántas bandas nacionales participarán en el Quitofest 2024?**
------------------------------------------------------------------
-
-En la lista están **Bajo Sueños, Lolabúm, Rocola Bacalao,** Mugre Sur, Estamos perdidos… De acuerdo con la cartelera compartida por el Quitofest 2024, 25 representantes ecuatorianos animarán esta nueva edición durante los tres días.
-
-> [View this post on Instagram](https://www.instagram.com/reel/DB3lJVpJJfl/?utm_source=ig_embed&utm_campaign=loading)
-> 
-> [A post shared by Fotografía Cuenca (@gabriel.art\_\_)](https://www.instagram.com/reel/DB3lJVpJJfl/?utm_source=ig_embed&utm_campaign=loading)
-
-**11 bandas internacionales tocarán en el Quitofest 2024**
-----------------------------------------------------------
-
-Bandas de Argentina, México, Estados Unidos, Perú, República Dominicana y más países tocarán en Quito el próximo 5, 6 y 7 de diciembre de 2024. 
-
-Te compartimos la lista de todas las invitadas:
-
-* La Delio Valdez (Argentina)
-* Los Mirlos (Perú)
-* Mula (República Dominicana)
-* Molotov (México)
-
-* Ana Tijoux (Chile)
-* Él Mató a un Policía Motorizado (Argentina)
-* Velandia y La Tigra (Colombia)
-* Malón (Argentina)
-* Madball (Estados Unidos)
-* Here Comes The Kraken (México)
-* Las Tres Piedras (Colombia)
-
-**¿Tiene costo el Quitofest 2024?**
------------------------------------
-
-La organización confirmó que el acceso a esta nueva edición del Quitofest 2024 será gratuito.
-
-Congreso Internacional analiza los desafíos de correctores frente a la inteligencia artificial
-==============================================================================================
-
-La agenda del Congreso y de cursos previos se desarrollarán del 19 al 23 de noviembre en el Paraninfo de la Universidad Andina Simón Bolívar
---------------------------------------------------------------------------------------------------------------------------------------------
-
-![El séptimo Congreso de Corrección de Textos en Español se realizará en Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/congreso.jpg)
-
-El séptimo **Congreso Internacional de Corrección de Textos** en Español se desarrollará en Quito. Está impulsado por la Asociación de Correctores de Textos de Ecuador (Acorte) y la Universidad Andina Simón Bolívar.
+Pepa Matías no se quiere quejar, dice que ella por lo menos no perdió la casa, pero tiene motivos porque **vivió dos semanas de pesadilla**: primero **se inundó su vivienda**, después su marido, jubilado como ella, se cayó limpiando el barro y tuvo que ser operado, y ahora las d**olencias de ambos van a peor.**
 
 ### Más noticias
 
-* [La ética digital, ciberseguridad e inteligencia artificial](https://www.elcomercio.com/uncategorized/etica-digital-ciberseguridad-lorena-naranjo-columnista.html "La ética digital, ciberseguridad e inteligencia artificial")
-* [El país donde se habla mejor español, según la inteligencia artificial](https://www.elcomercio.com/tecnologia/inteligencia-artificial-espanol-dialecto.html "El país donde se habla mejor español, según la inteligencia artificial ")
-* [El ‘dame trayendo’ o ‘no seas malito’ solo se entienden en Ecuador](https://www.elcomercio.com/actualidad/mundo/dame-trayendo-seas-malito-solo-se-entienden-ecuador.html "El ‘dame trayendo’ o ‘no seas malito’ solo se entienden en Ecuador")
+* [En Valencia piden no tirar lodo a la alcantarilla ante la alerta por una nueva DANA](https://www.elcomercio.com/actualidad/mundo/valencia-piden-tirar-lodos-alcantarilla-alerta-dana.html "En Valencia piden no tirar lodo a la alcantarilla ante la alerta por una nueva DANA")
+* [Ocho comunidades en alerta por una nueva DANA](https://www.elcomercio.com/actualidad/mundo/ocho-comunidades-alerta-nueva-dana-traera-fuertes-lluvias-viento-nieve.html "Ocho comunidades en alerta por una nueva DANA")
+* [Resiliencia en Quito en 2 iniciativas de seguridad ciudadana](https://www.elcomercio.com/opinion/editorial/resiliencia-quito-iniciativas-seguridad.html "Resiliencia en Quito en 2 iniciativas de seguridad ciudadana")
 
-Corrección e inteligencia artificial
+“Mi marido antes salía de casa, pero ahora ya no –explica–. A mí **me da miedo que se infecte la herida** con este barro que **llena las calles y huele tan mal,** y él tampoco quiere salir porque tiene alzheimer y desde el día del temporal está más desorientado”.
+
+Como el esposo de Pepa, muchos **enfermos crónicos** ya notan los efectos a medio y largo plazo del temporal ([DANA](https://www.elcomercio.com/actualidad/mundo/ocho-comunidades-alerta-nueva-dana-traera-fuertes-lluvias-viento-nieve.html "https://www.elcomercio.com/actualidad/mundo/ocho-comunidades-alerta-nueva-dana-traera-fuertes-lluvias-viento-nieve.html")) que azotó Valencia (este) y se llevó la vida de, al menos, 218 personas, según el último dato oficial disponible.
+
+La asistencia sanitaria entró en una segunda fase, según Carlos Sánchez, responsable del Servicio de Asistencia Municipal de Urgencia y Rescate de Madrid (SAMUR) desplazado a Valencia: “**Si durante los primeros días acudíamos a emergencias,** ahora ayudamos sobre todo a personas con movilidad reducida que necesitan asistencia sanitaria por dolencias crónicas”.
+
+“El hecho de que **nosotros estemos en la calle** y trabajemos en coordinación con policía y bomberos nos permite estar en contacto con el ciudadano y que nos pueda reclamar esa asistencia”, añade.
+
+Los riesgos de ayudar en plena calle
 ------------------------------------
 
-El Congreso de Corrección de Textos busca responder **¿cuáles son los retos de la corrección de estilo en la era de la inteligencia artificial?** Y se desarrollará del 21 al 23 de noviembre de 2024 en el Paraninfo de la Universidad Andina Simón Bolívar.
+Pero no siempre los ciudadanos piden ayuda. Pepa, por ejemplo, siente que a su alrededor hay desgracias mayores que la suya y por eso, a pesar de su avanzada edad, salió a la calle con su marido a echar una mano en las **tareas de limpieza**.
 
-El evento recibirá a editores, escritores, diseñadores, agentes literarios, traductores, entre otros profesionales relacionados con la corrección de textos y el ámbito editorial.
+Los dos se resbalaron y el peor parado fue su esposo, que ya estaba en lista de **espera para una prótesis** y tuvo que ser operado de urgencia.
 
-Esta edición contará con conferencias magistrales de expertos internacionales. Entre ellos están:
+El posoperatorio está siendo complicado porque, como no pueden ir hasta el centro médico, es ella quien se está encargando de las curas y de **mantener en casa la higiene** que precisa un enfermo, cosa nada fácil en estos momentos en un pueblo, Massanassa, donde todavía hay agua encharcada y basura por las calles.
 
-* **Argentina:**
-    * Nuria Gómez-Belart, experta en correctología y lenguaje claro
-    * Daniel Benchimol, reconocido por su extensa trayectoria en la integración de la tecnología en el sector editorial
-* **España:**
-    * Antonio Martín, uno de los referentes en la formación de correctores y en lenguaje claro
-    * Sabela Fernández, experta en lingüística aplicada a las tecnologías
+“Tuve ansiedad y me estoy medicando, pero con cuidado porque también **tomo medicamentos** para la tensión y los problemas de articulaciones”, comenta Pepa, que habla más de las dolencias de su marido que de las suyas.
 
-El tema de este congreso **Corrección e inteligencia artificial:** retos profesionales de una nueva era engloba las preocupaciones y las expectativas de los profesionales de la corrección. Además, se efectuarán charlas especializadas y cursos precongreso sobre lenguaje claro y [corrección de textos](https://es.wikipedia.org/wiki/Inteligencia_artificial "https://es.wikipedia.org/wiki/Inteligencia_artificial").
+Pero ella también padece **enfermedades crónicas** que se están complicando por el peso del trabajo que supone cuidar a su esposo y por la tensión que ha vivido y sigue viviendo. “Estoy agotada y muy triste –reconoce–, pero **intento no desanimarme**. Ya le dije a mi marido que **nada de ver las noticias,** mejor cosas que nos entretengan”.
 
-Agenda y costos
----------------
+Los ancianos, uno de los colectivos más afectados
+-------------------------------------------------
 
-La Acorte y la **Universidad Andina Simón Bolívar** te invitan a sumergirte en el mundo de la corrección de textos y el lenguaje claro junto a expertos reconocidos internacionalmente.
+Una de las vecinas de Pepa es otra mujer mayor que tiene **problemas respiratorios** y a la que el polvo que flota en el ambiente le provoca ahogos.
 
-Con los conocimientos que adquieras, podrás mejorar tus habilidades, ampliar tos conocimientos y conectar con otros profesionales en este evento único de Hispanoamérica.
+En otro pueblo de la zona anegada, Algemesí, Isabel Adam camina por la calle con su madre de 81 años. “Es el primer paseo desde el día del temporal”, aclara.
 
-Los **cursos precongreso** se pueden hacer de forma presencial o en línea y se realizarán el 19 y 20 de noviembre, de 09:00 a 12:00.
+“Llevaba desde el 29 de octubre –día del temporal– sin salir porque está todo lleno de barro y es peligroso para ella, que va con andador; además**, está más desorientada de lo habitual**“, agrega mientras acompaña a la peluquería a su madre, que “es muy coqueta”.
 
-Así mismo, el Congreso lo puedes hacer en ambas modalidades, del 21 al 23 de noviembre de 2024.
+Cerca de donde vive murió el día del **temporal Pepe Magraner**, un hombre de 80 años que estaba solo en casa cuando le alcanzó el agua.
 
-Las opciones de inscripción son las siguientes:
+Los mayores de 70 años fueron los que más sufrieron el primer envite del temporal, con al menos 104 fallecidos del total, y ahora siguen siendo **uno de los colectivos más vulnerables** porque sus dolencias se han complicado.
 
-* Congreso presencial 65 dólares
-* Congreso en línea 45 dólares
-* Cursos (presencial o en línea) 30 dólares
-* Congreso + cursos 80 dólares presencial y 60 en línea
+Durante los primeros días, muchos se quedaron sin luz y **tuvieron problemas** para conseguir agua potable, **comida variada y medicinas,** cosa que ya se está traduciendo en complicaciones de salud para las personas con patologías de base.
 
-Para inscribirte debes hacer el pago y llenar este formulario [https://forms.gle/ikMghJ1dt1vXsCLA6](https://forms.gle/ikMghJ1dt1vXsCLA6 "formulario de inscripción") y debes comunicarte al [098 925 9199](https://wa.me/593989259199 "https://wa.me/593989259199")
+Liga de Portoviejo confirmó horario para recibir al Deportivo Quito
+===================================================================
 
-Esta es la agenda y programación de los cursos que puedes realizar:
+Liga de Portoviejo le puso precio a las entradas para recibir al Deportivo Quito en el Ascenso Nacional.
+--------------------------------------------------------------------------------------------------------
 
-Está listo el programa por las fiestas de Quito del 2024
-========================================================
+![César Espíndola (1) y Jhojan Riascos, jugadores de Liga de Portoviejo.](https://www.elcomercio.com/wp-content/uploads/2024/11/portoviejo_revancha_1.jpg)
 
-El Alcalde de Quito, Pabel Muñoz, presentó esta mañana el programa para las fiestas de Quito.
----------------------------------------------------------------------------------------------
+Las escuadras de **Liga de Portoviejo y el Deportivo Quito** jugarán el partido más esperado de la revancha de los cuartos de final del Torneo de Ascenso Nacional.
 
-![Las bandas de los colegios son parte importante de los desfiles de la Confraternidad.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-65.jpg)
-
-Este 18 de noviembre del 2024, el alcalde **Pabel Muñoz** presentó el programa por las **Fiestas de Quito** **del 2024.** En esta celebración, que corresponde a los **490 años** de **fundación española de la ciudad**, tendrá eventos tradicionales y contemporáneos.
-
-### Más noticias
-
-* [Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil](https://www.elcomercio.com/actualidad/ecuador/cambios-inesperados-horarios-cortes-luz-quito-guayaquil.html "Ciudadanos reportan cambios inesperados en los horarios de cortes de luz en Quito y Guayaquil")
-* [El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza](https://www.elcomercio.com/actualidad/quito/siniestros-transito-quito-muerte-motociclistas.html "El perfil de víctima más susceptible en los siniestros de tránsito en Quito se afianza")
-* [Vecinos de Quito frenan la construcción del intercambiador de la Occidental](https://www.elcomercio.com/actualidad/quito/vecinos-quito-frenan-intercambiador-occidental.html "Vecinos de Quito frenan la construcción del intercambiador de la Occidental")
-
-El presupuesto de las fiestas de Quito del 2024
------------------------------------------------
-
-El **presupuesto** para las **fiestas de Quito del 2024** no varía en torno al del año pasado. Según informó la administración municipal, el costo será de **2 615 000 dólares.**
-
-Para Muñoz, esta inversión **se multiplica en ganancia hasta cuatro veces**, no todo para el Municipio, sino para el comercio que gira alrededor de las fiestas. Para ello, esperan que al menos **360 000 personas participen.**
-
-Los eventos más importantes
----------------------------
-
-Según informaron desde Frecuencia Quiteña, el programa radial del burgomaestre quiteño, participarán **352 artistas,** de los cuales **10 son internacionales**. Además, habrá **37 festivales independientes.**
-
-Además, habrá **16 eventos tradicionales**, en **el programa de las fiestas de Quito del 2024**, entre ellos el Te Deum, el festival Chicha con corbata, el festival del pasacalle, tanto para el adulto mayor, como en general. Otro acto importante será el desfile de la Mascarada Quiteña y el festival **Chispa y Sal Quiteña**, que incluye el humor clásico de la capital, pero que también incorpora el ‘stand up’ de los nuevos humoristas[.](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")[](https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito "https://es.wikipedia.org/wiki/Municipio_del_Distrito_Metropolitano_de_Quito")
-
-El programa definitivo
-----------------------
-
-Este será el programa de los actos más importantes por los 490 años de la fundación de San Francisco de Quito.
-
-* **20 de noviembre, 10:00, Basílica de Nuestra Señora de la Merced.** Te Deum. Acto religioso de agradecimiento. Basílica de Nuestra Señora de la Merced
-* **21 de noviembre, 14:00. Fiesta Centro en la Plaza de San Francisco**. Entrega de 2 000 títulos de propiedad a cargo de la Secretaría de Hábitat y Ordenamiento Territorial a través de la Unidad Especial Regula tu Barrio con una muestra artística de identidad quiteña.
-* **22 de noviembre, 18:00. Centro de Eventos Bicentenario**. ‘Las Voces Latinoamericanas Cantan a Quito’, un Tributo musical a cantautoras latinoamericanas.
-* **26 de noviembre, 18:00. Coliseo General Rumiñahui.** Festival Chicha con Corbatín, homenaje a la música popular ecuatoriana.
-* **27 de noviembre, 10:00, Coliseo Rumiñahui.** Festival del Pasacalle del Adulto Mayor.
-* **27 de noviembre, 18:00, Coliseo Rumiñahui.** Festival de Pasacalle.
-* **28 de noviembre,19:00. Teatro Capitol.** Chispa Sal Quiteña Stand Up.
-* **28 de noviembre, 17:00, av. Amazonas y Patria.** Desfile Mascarada Quiteña. Desfile nocturno de luces con participación educativa y cultural
-* **29 de noviembre, desde las 10:00. Administraciones zonales del Valle de los Chillos y Tumbaco.** Mega Feria Metropolitana Valle / Navidad Quiteña.
-* **30 de noviembre, 10:00, av. Teniente Hugo Ortiz.** Desfiles de la Confraternidad Nacional Sur.
-* **1 de diciembre, 10:00, av. Los Shyris.** Desfiles de la Confraternidad Nacional Norte.
-* **3 de diciembre, 19:00, Teatro Capitol.** Chispa y Sal Quiteña Tradicional.
-* **Del 5 hasta al 7 de diciembre,12:00, Parque Bicentenario.** Quinde Electro Fest, Festival de música y celebración emblemática de la ciudad,
-* **6 de diciembre, 15:00, Teatro Nacional Sucre**. Sesión Solemne.
-* **7 y 8 de diciembre, 10:00, en Calderón.** Mega Feria Metropolitana Norte / Navidad Quiteña,
-
-Liga de Quito asegura que sanción de la FEF no es procedente
-============================================================
-
-Liga de Quito comparte el primer lugar de la segunda etapa de la Liga Pro con Independiente.
---------------------------------------------------------------------------------------------
-
-![Fernando Cornejo, jugador de Liga de Quito.](https://www.elcomercio.com/wp-content/uploads/2024/11/alvarez_sancion_1.jpg)
-
-**Liga de Quito**, con Isaac Álvarez a la cabeza como su presidente, presentó su postura sobre la sanción impuesta por la Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF) y la resta de tres puntos.
-
-Según Isaac Álvarez, Liga de Quito **cumplió con los pagos pendientes de la deuda que mantenía** con Franklin Guerra, exjugador que estuvo en la institución del 2018 al 2022, en donde ganó cuatro títulos nacionales.
+En la ida, **Liga de Portoviejo le ganó 0-1 al Deportivo Quito** con un tanto de Jackson Landazury en un repleto estadio Gonzalo Pozo Ripalda, que por unos pocos segundos quedó en silencio por esta anotación de los visitantes.
 
 ### Más noticias:
 
-* [Mike Tyson explicó la razón de morder sin parar su guante](https://www.elcomercio.com/deportes/boxeo/mike-tyson-muerde-guamtes-paul.html "Mike Tyson explicó la razón de morder sin parar su guante")
-* [La Selección de Ecuador entrenó en Guayaquil y prepara maletas](https://www.elcomercio.com/deportes/futbol/seleccion-ecuador-entrenamiento-colombia-mundial.html "La Selección de Ecuador entrenó en Guayaquil y prepara maletas")
-* [Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14](https://www.elcomercio.com/deportes/futbol/barcelona-sporting-club-fecha14-etapa.html "Barcelona Sporting Club jugará en ‘horario unificado’ la fecha 14")
+* [Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias](https://www.elcomercio.com/deportes/futbol/ecuador-amenaza-con-dar-la-sorpresa-a-colombia-en-eliminatorias.html "Ecuador amenaza con dar la sorpresa a Colombia en eliminatorias")
+* [Independiente del Valle solicita que se anule la sanción a Liga de Quito](https://www.elcomercio.com/deportes/futbol/independiente-del-valle-solicita-que-se-anule-la-sancion-liga-de-quito.html "Independiente del Valle solicita que se anule la sanción a Liga de Quito")
+* [Liga de Quito asegura que sanción de la FEF no procede](https://www.elcomercio.com/deportes/futbol/isaac-alvarez-sancion-fef-guerra.html "Liga de Quito asegura que sanción de la FEF no es procedente")
 
-En octubre, Liga recibió por parte de la **FEF un plazo de 30 días para cancelar una deuda pendiente** con Guerra, misma que, según los universitarios, se canceló en dos partes y dentro del tiempo establecido.
+Los dirigentes de los manabitas esperan que el **Reales Tamarindos esté al tope de su capacidad** y pusieron a la venta los boletos con precios populares. Las generales tendrán un valor de cuatro dólares, las más baratas de todas las que están a disposición de la hinchada.
 
-El primer pago se hizo el 2 de octubre y el segundo el **14 de noviembre a las 10:31 de la mañana**, dentro del tiempo que los artículos 150 y 151 del Código Disciplinario de la FEF, por lo que la sanción impuesta no procedería.
+La preferencia costará 5 dólares, la tribuna 8, el palco norte y sur 10 (5 para los niños) y el palco vip 15 (7.50 para los niños).
 
-“Cumplimos con el valor total del jugador (…) Dentro de los plazos (…) **Estas normas castigan en el eventual incumplimiento** del pago que no es el presente caso (…) Lo que significa que no debe existir sanción alguna”, aseguró Álvarez en un video colgado en las redes del club la mañana de este lunes 18 de noviembre de 2024.
+En el Gonzalo Pozo Ripalda más de 15 000 hinchas de la ‘AKD’ coparon todas las localidades puestas a sus disposición, **mientras que un puñados de seguidores de la ‘Capira’** se hicieron presentes en un sector de la general norte.
 
-Álvarez indica que la notificación a la FEF se realizó el viernes 15, junto a la carta de recepción del pago de parte de Guerra.
+La campaña de los dos equipos
+-----------------------------
 
-“Aun así fuimos notificados cerca de las 20:00 del mismo día. Bajo estos conceptos y el resguardo del principio de integridad deportiva, **apelaremos la decisión de la FEF**“, aseguró el principal directivo de los albos.
+Los manabitas están invictos jugando en casa. En los treintaidosavos de final derrotaron 2-1 a Estrella Roja de Azuay, **en los dieciseisavos vencieron 1-0 a Daquilema FC de Cotopaxi**, y en los octavos de final 2-0 a Naranja Mekánica de Guayas.
 
-La tabla de posiciones de la segunda etapa se reestructuró y ahora **Independiente del Valle y Liga de Quito** comparten el liderato con 26 puntos y un gol diferencia positivo de +12.
+El Quito fuera de casa le ganó 1-2 a Santa Elena SC en Guayaquil, **empató 0-0 con Catera Orense en Machala**, y volvió a empatar 1-1 contra Toreros FC en Guayaquil.
 
-Si LDU gana la etapa habla finales para definir al campeón. Si IDV lo hace se proclamará campeón directamente y sumará a sus vitrinas la segunda corona de la Liga Pro.
+El ganador de esta llave jugará contra el **22 de Julio (Esmeraldas) vs. Aviced (Azuay)**. La ida se disputó en el Folke Anderson y terminó empatado 0-0. La revancha será en el Alejandro Serrano Aguilar.
 
-> 🔊 Comunicado oficial  
->   
-> Queremos informar a toda la comunidad cómo se desarrolló el proceso de pago hacia el ex jugador Franklin Guerra  
->   
-> Nuestra Institución ha seguido todas las indicaciones establecidas en el regalamento de la FEF, por lo que queremos expresar nuestra… [pic.twitter.com/FTaP3ap8fv](https://t.co/FTaP3ap8fv)
-> 
-> — LDU Oficial (@LDU\_Oficial) [November 18, 2024](https://twitter.com/LDU_Oficial/status/1858528340333748704?ref_src=twsrc%5Etfw)
+Los otros semifinalistas se conocerán de los cruces entre Atlético Vinotinto (Pichincha) vs. La Paz (Manabí), y Cuenca Jrs. (Azuay) vs. La Unión (Cotopaxi).
 
-¿Qué dice la sanción de la FEF?
--------------------------------
+Cuartos de final – vuelta
+-------------------------
 
-La Comisión Disciplinaria de la FEF decidió sancionar a los universitarios “con la pérdida de tres puntos que hubiera obtenido o llegare a obtener, **que les serán restados para determinar su ubicación en la correspondiente tabla de posiciones**, de la respectiva etapa; además, no podrá negociar jugadores ni adquiriendo ni cediendo, sanción aplicable a todas las categorías”, reza la parte medular de la decisión tomada el 15 de noviembre.
+### Viernes 22/11
 
-Los albos infringieron los artículos 150 y 151 del Código Disciplinario de la FEF por no “**cancelar o depositar en la Tesorería de la Federación Ecuatoriana de Fútbol** los valores adeudados, en dinero, en efectivo o cheque certificado, lo cual será demostrado con los recibos auténticos de pago ante la Comisión Disciplinaria o a su vez presentar convenio suscrito con el acreedor”.
+**12:00 Aviced vs. 22 de Julio  
+**Ida: 0-0  
+Estadio: Alejandro Serrano Aguilar  
+Ciudad: Cuenca
 
-El **referido pago se debió realizar hasta las 18:00 del jueves 14 de noviembre**, porque el viernes 15 la categoría sub-15 tuvo su partido ante la Universidad Católica.
+Sábado 23/11
+------------
 
-Las deudas correspondiente son con Renato Ibarra por un valor de 35 499 dólares y Franklin Guerra por 85 000 dólares, por varias cuotas vencidas.
+**11:30 Atlético Vinotinto vs. La Paz  
+**Ida: 1-0  
+Estadio: Olímpico Atahualpa  
+Ciudad: Quito
 
-“Por medio del presente lamentamos informar que nuestro club ha sido sancionado por la Federación Ecuatoriana de Fútbol. **Esta resolución será apelada debido a que el pago se realizó dentro del plazo correspondiente**“, dijo Liga en un comunicado difundido en sus redes sociales.
+Domingo 24/11
+-------------
 
-![Foto: API.](https://www.elcomercio.com/wp-content/uploads/2024/11/alvarez_sancion_2-1024x683.jpg)
+**11:00 Cuenca Jrs. vs. La Unión  
+**Ida: 0-1  
+Estadio: Alejandro Serrano Aguilar  
+Ciudad: Cuenca
 
-Foto: API.
+**15:00 Liga de Portoviejo vs. Deportivo Quito  
+**Ida: 1-0  
+Estadio: Reales Tamarindos  
+Ciudad: Portoviejo
 
 San viernes
 -----------
 
-Joe Biden autoriza a Ucrania el uso de misiles de largo alcance contra Rusia
-============================================================================
+¿Cuándo juega Ecuador vs. Colombia por eliminatorias?
+=====================================================
 
-Los ATACMS disponen de un sistema de navegación inercial asistido por GPS y son propulsados por combustible sólido.
--------------------------------------------------------------------------------------------------------------------
+Las eliminatorias sudamericanas cierran su actividad de 2024, y Ecuador buscará sumar en un difícil compromiso ante Colombia.
+-----------------------------------------------------------------------------------------------------------------------------
 
-![Joe Biden durante uno de sus discursos.](https://www.elcomercio.com/wp-content/uploads/2024/11/joe-biden-eeuu-efe.jpg)
+![Moisés Caicedo en un partido entre Ecuador y Colombia en el estadio Rodrigo Paz Delgado.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-18T163852.854.jpg)
 
-El presidente de Estados Unidos, Joe Biden, autorizó el domingo, 18 de noviembre de 2024, a Ucrania el uso de **misiles de largo alcance**, específicamente los **ATACMS (MGM-140)**, contra territorio ruso.
+La **Selección de Ecuador** disputará su último partido del año frente a Colombia, correspondiente a la duodécima jornada de las eliminatorias sudamericanas rumbo al Mundial de Estados Unidos, México y Canadá 2026.
 
-### Más noticias
-
-* [Joe Biden arriba a Perú para participar por última vez en la cumbre Apec](https://www.elcomercio.com/actualidad/mundo/biden-lima-para-participar-ultima-vez-cumbre-apec-economia.html "Joe Biden arriba a Perú para participar por última vez en la cumbre Apec")
-* [Donald Trump agradece a Joe Biden una transición pacífica](https://www.elcomercio.com/actualidad/mundo/trump-destaca-politica-dura-agradece-biden-transicion-pacifica.html "Donald Trump agradece a Joe Biden una transición pacífica")
-* [Joe Biden acudió a votar anticipadamente en Delaware](https://www.elcomercio.com/actualidad/mundo/joe-biden-acude-votar-anticipadamente-en-delaware.html "Joe Biden acudió a votar anticipadamente en Delaware")
-
- La autorización por parte de Estados Unidos del **uso de misiles de largo alcance ATACMS** contra objetivos en territorio ruso, adelantada por medios estadounidenses, es un cambio sustancial en la política de la administración de Joe Biden respecto a la guerra de Ucrania.
-
-Hasta ahora, Ucrania solía podía utilizar los misiles ATACMS para sus ataques en el **territorio invadido** por Rusia, aunque el presidente ucraniano, **Volodímir Zelenski,** solicitaba desde hace meses emplearlos para bombardear objetivos en Rusia.
-
-¿Cómo funcionan los misiles ATACMS?
------------------------------------
-
-El sistema de misiles tácticos convencionales del Ejército de Tierra (ATACMS, por sus siglas en inglés) es un sistema de **ataque superficie-superficie** de alta precisión fabricado por la empresa estadounidense Lockheed Martin.
-
-Fueron utilizados con gran efectividad por primera vez durante la operación Tormenta del Desierto, entre 1990 y 1991, cuando una **coalición liderada por Estados Unidos** atacó Irak en respuesta a su invasión de Kuwait.
-
-Los ATACMS disponen de un **sistema de navegación inercial** asistido por GPS y son propulsados por combustible sólido. Miden aproximadamente **4 metros de longitud**, tienen un diámetro de 60,96 centímetros y cuentan con una ojiva de **226 kilogramos de explosión fragmentada**.
-
-Pueden ser lanzados desde una plataforma de lanzamiento múltiple M270 o desde el sistema móvil HIMARS (por sus siglas en inglés).
-
-Los ATACMS en el conflicto 
----------------------------
-
-Estados Unidos suministró a Ucrania los primeros ATACMS **en otoño de 20**23, pero solo para emplearlos en territorio ucraniano y en una versión con un **alcance más reducido** que los que han sido enviados en los últimos meses, 165 kilómetros frente a 300.
-
-El pasado 3 de octubre el Ejército de Ucrania informó de la destrucción de un valioso **radar ruso** modelo Nebo-M mediante un misil ATACMS, aunque no precisó dónde se produjo el ataque.
-
-Pese a la intensa campaña por parte de **Kiev para que Washingto**n levantara la prohibición de utilizar estos misiles dentro de Rusia, la Casa Blanca no cedió hasta ahora y en octubre apostó por una solución alternativa: **800 millones de dólares** de ayuda para que la industria militar ucraniana redoblara la producción de armamento de largo alcance.
-
-El 1 de noviembre pasado Zelenski puso sobre la mesa la posibilidad de atacar con los ATACMS a los soldados norcoreanos que se encuentran en Rusia para combatir del lado de las tropas del Kremlin en Ucrania.
-
-Además de los ATACMS, Ucrania dispone de **otros misiles de crucero**, los Storm Shadow suministrados por el Reino Unido, y los SCALP-EG, proporcionados por Francia. Como en el caso anterior, su uso en territorio ruso está prohibido.
-
-Independiente del Valle solicita que se anule la sanción a Liga de Quito
-========================================================================
-
-Liga de Quito fue sancionado por la Comisión Disciplinaria de la Federación Ecuatoriana de Fútbol (FEF).
---------------------------------------------------------------------------------------------------------
-
-![Ezequiel Piovi, capitán de Liga de Quito, y Richard Schunke, capitán de Independiente del Valle.](https://www.elcomercio.com/wp-content/uploads/2024/11/PORTADA-NOTA-EC-2024-11-18T114143.647.jpg)
-
-Contra todo pronóstico, **Independiente del Valle**, club que se vio beneficiado por la sanción a **Liga de Quito**, ha tomado una postura inesperada que podría cambiar el desenlace de la Liga Pro 2024.
-
-La mañana del sábado 16 de noviembre, la **Comisión Disciplinaria de la FEF** sancionó al elenco universitario con la pérdida de tres puntos por incumplimientos económicos.
-
-Esta decisión **impacta directamente en la tabla de posiciones**, pues a falta de dos fechas para el final de la etapa, los albos eran favoritos para clasificar a la final y evitar que Independiente del Valle se consagre campeón directo.
+El equipo tricolor llega con el ánimo en alto tras golear 4-0 a Bolivia en el Estadio Monumental, en lo que fue el segundo triunfo bajo la dirección técnica de **Sebastián** **Beccacece**.
 
 ### Más noticias:
 
-* [Liga de Quito pierde tres puntos por una sanción](https://www.elcomercio.com/deportes/futbol/liga-quito-sancion-fef-puntos.html "Liga de Quito pierde tres puntos por una sanción")
-* [Uruguay venció a Colombia con gol de un ex Liga de Quito](https://www.elcomercio.com/deportes/uruguay-vencio-colombia-eliminatorias-liga-de-quito.html "Uruguay venció a Colombia con gol de un ex Liga de Quito")
-* [Liga de Quito y un ‘agradecimiento’ por Marco Angulo](https://www.elcomercio.com/deportes/futbol/liga-quito-marco-angulo-mensaje.html "Liga de Quito y un ‘agradecimiento’ por Marco Angulo")
+* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
+* [Colombia enfrenta una dura sanción para el partido contra Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-enfrenta-una-dura-sancion-para-el-partido-contra-ecuador.html "Colombia enfrenta una dura sanción para el partido contra Ecuador")
+* [Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia](https://www.elcomercio.com/deportes/futbol/moises-caicedo-patron-ecuador-regresa-colombia.html "Moisés Caicedo, el ‘patrón’ de Ecuador, regresa ante Colombia")
 
-El castigo se basa en los artículos 150 y 151 del Código Disciplinario de la FEF, que penalizan a los clubes que no cumplen con el pago de valores adeudados o no presentan acuerdos válidos con los acreedores.
+Actualmente, **Ecuador** ocupa la **quinta posición en la tabla, con 16 puntos** en 11 partidos, lo que lo coloca en puestos de clasificación directa. Por su parte, Colombia es tercera con 19 puntos. Cabe recordar que Ecuador inició las eliminatorias con tres puntos menos debido a una sanción impuesta por el caso Byron Castillo en el proceso anterior.
 
-En este caso, **Liga de Quito debía cancelar $35 499** a Renato Ibarra y $85 000 a Franklin Guerra antes de las 18:00 del jueves 14 de noviembre, previo al partido de la categoría Sub-15 contra Universidad Católica.
-
-La postura de Independiente del Valle
+¿Cuándo y dónde se jugará el partido?
 -------------------------------------
 
-A pesar de ser el principal beneficiado al recuperar el liderato, Independiente del Valle sorprendió con su postura pública sobre la sanción que recibió **Liga de Quito**.
+El duelo entre Ecuador y Colombia, válido por la duodécima jornada, se disputará este **martes 19 de noviembre** en el Estadio Metropolitano Roberto Meléndez de Barranquilla, Colombia.  
+El encuentro está programado para las **18:00 (hora de Ecuador)**.
 
-“**Independiente del Valle considera importante defender el Fair Play** y la integridad de la competición, de tal manera que la definición del campeonato en curso sea determinada por los resultados deportivos obtenidos en cancha”, expresó el club en un comunicado oficial.
+Este será el segundo compromiso del día, luego del Bolivia vs. Paraguay (15:00). Los siguientes encuentros serán: **Argentina vs. Perú** y Chile vs. Venezuela (19:00), y cerrará la jornada Brasil vs. Uruguay (19:45).
 
-> 🚨 Comunicado Oficial | [pic.twitter.com/AJm1GeTBAc](https://t.co/AJm1GeTBAc)
-> 
-> — Independiente del Valle (@IDV\_EC) [November 18, 2024](https://twitter.com/IDV_EC/status/1858539351052865561?ref_src=twsrc%5Etfw)
+Historial de Ecuador en suelo colombiano
+----------------------------------------
 
-Con esta declaración, **IDV solicitó a la FEF que revierta la sanción** y devuelva los tres puntos al ‘Rey de Copas’, priorizando la justicia deportiva sobre las cuestiones administrativas.
+Ecuador y Colombia se han e**nfrentado 21 veces** en eliminatorias, con un balance desfavorable para los tricolores como visitantes.
 
-Con respecto a la sanción, **Liga de Quito** hizo un comunicado a la opinión pública sobre lo acontecido y apelarán a la sanción, ya que según ellos cumplieron con todas sus obligaciones.
+En los 10 partidos disputados en territorio colombiano, la selección local ha logrado seis victorias, tres empates y solo una derrota. Colombia ha marcado 13 goles en estos enfrentamientos, mientras que Ecuador solo ha anotado en tres ocasiones.
 
-No te pierdas nuestro Especial de Halloween
+La única victoria de Ecuador en suelo colombiano fue el **20 de julio de 1965**, cuando **Washington Muñoz** marcó el gol del triunfo por 0-1. Aquel partido correspondía a las eliminatorias para el Mundial de Inglaterra 1966, y desde entonces, los tricolores no han vuelto a ganar en territorio cafetero.
+
+### Ficha del partido
+
+**Colombia** vs. Ecuador
+
+**Fecha**: Martes 19 de noviembre.
+
+**Hora**: 18:00.
+
+**Estadio**: Metropolitano Roberto Meléndez.
+
+No te pierdas nuestro especial de Halloween
 -------------------------------------------
 
-P. Diddy amenaza a sus víctimas desde la cárcel, dicen medios internacionales
-=============================================================================
+Adiós a Bela Karolyi, el polémico entrenador de Nadia Comaneci
+==============================================================
 
-Violaciones penitenciarias, presunto chantaje y estrategias mediáticas complican el caso judicial de Diddy.
------------------------------------------------------------------------------------------------------------
+Bela Karolyi saltó a la fama internacional como el artífice de los éxitos de la gimnasta rumana Nadia Comaneci.
+---------------------------------------------------------------------------------------------------------------
 
-![Diddy fue detenido el 16 de septiembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/diddy-El-Comercio-10.jpg)
+![Nadia Comaneci fue una de las deportistas más aclamadas en el mundo. Bela Karolyi fue un entrenador importante para ella.](https://www.elcomercio.com/wp-content/uploads/2024/11/nadiacomaneci.jpg)
 
-**Sean Combs**, conocido como **P. Diddy** , se enfrenta a nuevas acusaciones que complican su ya delicada situación legal.
+El mundo de la **gimnasia artística** está de luto tras el fallecimiento de **Bela Karolyi**, uno de los entrenadores más influyentes y controversiales de la historia del deporte, a los 82 años. Fue guía de **Nadia Comaneci**.
 
-Los fiscales aseguran que ha **violado las reglas penitenciarias** para influir en su juicio y manipular a las víctimas mientras permanece detenido por delitos graves como **tráfico sexual y crimen organizado**.
+Nacido en Cluj-Napoca, Rumanía, **Karolyi** saltó a la fama internacional como el artífice de los éxitos de la gimnasta rumana **Nadia Comaneci,** quien, bajo su tutela, hizo historia en los Juegos Olímpicos de Montreal 1976 al obtener el primer ‘**10 perfecto**‘ en la historia de la gimnasia olímpica.
+
+### Más noticias:
+
+* [Colombia busca sacudirse ante la Selección de Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-ecuador-eliminatorias-mundial-metropolitano.html "Colombia busca sacudirse ante la Selección de Ecuador")
+* [Colombia enfrenta una dura sanción para el partido contra Ecuador](https://www.elcomercio.com/deportes/futbol/colombia-enfrenta-una-dura-sancion-para-el-partido-contra-ecuador.html "Colombia enfrenta una dura sanción para el partido contra Ecuador")
+* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
+
+Bela Karolyi dejó huella
+------------------------
+
+**Karolyi** también dejó una huella imborrable en la gimnasia estadounidense, al entrenar a **Mary Lou Retton**, quien ganó el oro en los **Juegos Olímpicos de Los Ángeles 1984**, convirtiéndose en la primera mujer estadounidense en obtener el título en el concurso general.
+
+Sin embargo, su legado no estuvo exento de **polémica** debido a sus estrictos y a menudo cuestionados métodos de entrenamiento.
+
+Famoso por su disciplina rigurosa y su enfoque implacable, Karolyi fue criticado por su trato duro hacia las gimnastas, a quienes obligaba a entrenar incansablemente, incluso cuando estaban lesionadas.
+
+Un ejemplo de ello fue el caso de Kerri Strug en los Juegos Olímpicos de **Atlanta 1996**, cuando, a pesar de una lesión en el tobillo, **Karolyi** la hizo saltar para asegurar la medalla de oro para Estados Unidos.
+
+Tras abandonar Rumanía en 1981**, Karolyi** y su esposa Marta se establecieron en Texas, donde abrieron un centro de alto rendimiento y entrenaron a numerosas gimnastas de élite.
+
+A lo largo de su carrera, formó a varias campeonas olímpicas y mundiales como **Nadia Comaneci**, pero su nombre también quedó marcado por las denuncias de maltrato físico y emocional a las gimnastas, las cuales resurgieron en los últimos años, en un contexto marcado por el escándalo de abusos sexuales del doctor Larry Nassar.
+
+A pesar de las controversias, **Karolyi** dejó un legado perdurable que transformó la gimnasia estadounidense y global.
+
+Nadia Comaneci
+--------------
+
+**Nadia Comaneci**, gimnasta rumana, hizo historia en los Juegos Olímpicos de Montreal 1976 al obtener el primer 10 perfecto en la historia de la gimnasia artística.
+
+Con solo 14 años, su logro la convirtió en una estrella mundial. Comaneci ganó múltiples medallas olímpicas y es considerada una leyenda del deporte.
+
+> [Ver esta publicación en Instagram](https://www.instagram.com/p/DCc1ex3pJWU/?utm_source=ig_embed&utm_campaign=loading)
+> 
+> [Una publicación compartida por Nadia Comaneci (@comaneci10)](https://www.instagram.com/p/DCc1ex3pJWU/?utm_source=ig_embed&utm_campaign=loading)
+
+La lluvia vuelve a Quito, luego de varias mañanas nubladas
+==========================================================
+
+Esta semana volverán las lluvias a Quito. La semana pasada, la nubosidad llegaba desde la Amazonía, pero se disipaba por las tardes.
+------------------------------------------------------------------------------------------------------------------------------------
+
+![Quito, en estos días amanecía nublado, pero no llovía.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-67.jpg)
+
+En los últimos días, **Quito amanecía nublado y frío.** Parecía que las **lluvias** eran inevitables, pero por la tarde, **se despejaba el cielo** y volvían los calores. Se debe a un comportamiento según los niveles de la atmósfera. Sin embargo, este **lunes 18 de noviembre del 2024,** volvieron las lluvias en algunas partes de la ciudad.
 
 ### Más noticias
 
-* **[Jelena Noura Hadid y otros nombres ocultos de los famosos que debes conocer](https://www.elcomercio.com/afull/nombres-reales-famosos.html "https://www.elcomercio.com/afull/nombres-reales-famosos.html")**
-* **[Preguntan a Jennifer Lopez por P. Diddy y su reacción inquieta a los fans](https://www.elcomercio.com/afull/jennifer-lopez-pdiddy.html "https://www.elcomercio.com/afull/jennifer-lopez-pdiddy.html")**
+* [Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre](https://www.elcomercio.com/actualidad/ecuador/lluvias-desbordamientos-clima-semana-18-22-noviembre.html "Lluvias y desbordamientos afectarán el clima en la semana del 18 al 22 de noviembre")
+* [Quito tendrá el desfile de los mercados por sus fiestas](https://www.elcomercio.com/actualidad/quito/quito-tendra-desfile-mercados-fiestas.html "Quito tendrá el desfile de los mercados por sus fiestas")
+* [11 bandas internacionales tocarán en el Quitofest 2024](https://www.elcomercio.com/tendencias/entretenimiento/quitofest-2024-cartelera-bandas-internacionales-nacionales-musica.html "11 bandas internacionales tocarán en el Quitofest 2024")
 
-Documentos judiciales obtenidos por el medio _Page Six_ revelan que Combs habría utilizado cuentas telefónicas de al menos ocho reclusos para realizar llamadas no autorizadas.
+Desde temprano, el **Instituto Nacional de Meteorología e Hidrología (Inamhi)** registró lluvias con tormentas en **Machachi**, y que poco a poco fueron dirigiéndose al sur de Quito. Ya por la tarde, vecinos del **Valle de los Chillos** dieron cuenta de precipitaciones en su zona. En el norte, caía una llovizna.
 
-**El chantaje de Diddy con ayuda de otros reos**
-------------------------------------------------
+“Justamente desde el día de ayer, ya presenciamos condiciones favorables para las lluvias en horas de la mañana, porque en la **Amazonía** ha llovido estos días. La humedad penetraba en la parte norte de la Sierra”, dice C**ristina Valdiviezo**, del departamento de pronósticos del Inamhi[.](https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador) "https://en.wikipedia.org/wiki/Instituto_Nacional_de_Meteorolog%C3%ADa_e_Hidrolog%C3%ADa_(Ecuador)")
 
-Según los fiscales, el rapero habría pagado a otros presos a través de aplicaciones de transferencia de dinero para acceder a estas líneas.
+Quito, con mañanas nubladas y sin lluvias
+-----------------------------------------
 
-Las acusaciones incluyen el uso de llamadas a tres bandas, una práctica prohibida por la **Oficina Federal de Prisiones (BOP)**. Esta técnica habría permitido a Diddy contactar personas no autorizadas, como víctimas y socios externos.
+En los últimos días, **los amaneceres en Quito fueron fríos y nublados**. Luego, volvía el calor y el **tiempo seco.** Era el efecto de la humedad que llegaba desde el norte de la Amazonía.
 
-Según el medio _20 Minutos_, los fiscales argumentan que estas llamadas también se usaron para **chantajear a las víctimas** y alterar su testimonio en el juicio programado para el 5 de mayo de 2025.
+Este fenómeno se da, según cuenta Valdiviezo, porque tenemos condiciones favorables **en un nivel de la atmósfera** para que se den precipitaciones, pero, **en un nivel más alto de la atmósfera**, tenemos **otras condiciones** y que provoca que estas lluvias se corten y “que no se produzca un desarrollo vertical, que las nubes no crezcan”.
 
-**La celebración del cumpleaños de P. Diddy tras las rejas**
-------------------------------------------------------------
+Los niveles de la atmósfera
+---------------------------
 
-![El rapero 'Diddy' Combs está detenido en una prisión federal de Nueva York. Foto: EFE](https://www.elcomercio.com/wp-content/uploads/2024/10/Diseno-sin-titulo194-1024x683.jpg)
+Los técnicos del **Inamhi** analizan los diferentes **niveles de la atmósfera.** El nivel en que se encuentra Quito, es de hasta **700 hectopascales**, la medida de la presión atmosférica, que equivale a los **3 000 metros sobre el nivel del mar (msnm).**
 
-El rapero ‘Diddy’ Combs está detenido en una prisión federal de Nueva York. Foto: EFE
+**“En este nivel existen condiciones favorables** para que se den precipitaciones, hay humedad y hay convergencia de viento, que se unen y ascienden a los niveles superiores”, dice Valdiviezo.
 
-Además, Combs enfrenta señalamientos de manipulación mediática. Un ejemplo citado es la celebración de su **cumpleaños 55**.
+El **segundo nivel** está a **500 hectopascales**, lo que vendría a ser de **5 000 msnm**. En ese nivel, los **vientos no convergen y no permiten que la nube siga creciendo.**
 
-Los fiscales alegan que el **[evento](https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html "https://www.elcomercio.com/afull/p-diddy-cumpleanos-carcel.html")**, aparentemente organizado por sus hijos y difundido en redes sociales, fue planeado por el propio Diddy como una estrategia de relaciones públicas.
+Un **tercer nivel,** que ya está mucho más alto, es de **250 hectopascales.** La altura equivaldría a **10 000 msnm.** “En ese nivel tampoco tenemos condiciones favorables para la lluvia, porque **no hay convergencia de vientos e incluso no tenemos humedad”.**
 
-Según _El Espectador_, este acto tenía como objetivo generar empatía pública y presionar indirectamente al jurado.
+Eso explica por qué, la lluvia no se había producido en Quito, incluso a pesar de la temperatura que, por el frío, parecía favorable para las precipitaciones en la capital en los días pasados.
 
-**¿Estrategias de defensa o manipulación?**
+  
+
+  
+
+El Senado, la última barrera de Trump en la formación de su controvertido Gobierno
+==================================================================================
+
+La Cámara Alta supervisa el nombramiento de los miembros del Ejecutivo, de los jueces federales y del Tribunal Supremo.
+-----------------------------------------------------------------------------------------------------------------------
+
+![Donald Trump en una fotografía de archivo.](https://www.elcomercio.com/wp-content/uploads/2024/11/donald-trump-noviembre-1.jpg)
+
+El controvertido Gobierno que está perfilando el **presidente electo** de Estados Unidos, [Donald Trump,](https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html "https://www.elcomercio.com/actualidad/mundo/trump-confirma-que-usara-a-fuerzas-armadas-para-deportar-a-migrantes-indocumentados.html") está sometido no solo al **escrutinio público,** sino también al del Senado, cámara de la que depende la **autorización de los nombramientos** y que podría frenar los **planes del político republicano.**
+
+### Más noticias
+
+* [Matt Gaetz fue nominado a fiscal general de Donald Trump](https://www.elcomercio.com/actualidad/mundo/matt-gaetz-nominado-fiscal-general-donald-trump.html "Matt Gaetz fue nominado a fiscal general de Donald Trump")
+* [Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos](https://www.elcomercio.com/actualidad/mundo/kristi-noem-sera-secretaria-seguridad-nacional.html "Kristi Noem será la secretaria de Seguridad Nacional de Estados Unidos")
+* [Donald Trump avanza en el diseño de su Gabinete](https://www.elcomercio.com/actualidad/mundo/donald-trump-avanza-diseno-gabinete-dar-forma-proyecto-maga.html "Donald Trump avanza en el diseño de su Gabinete")
+
+En manos de ese hemiciclo está dar el visto bueno como secretario de **Sanidad al antivacunas Robert F. Kennedy Jr.**, como fiscal **general a Matt Gaetz,** investigado en el pasado por abuso de una menor, o como **secretario de Defensa a Pete Hegseth**, que pagó a una mujer para silenciar su acusación de asalto sexual, entre otros puestos en el punto de mira.
+
+¿Qué cargos dependen de la autorización del Senado?
+---------------------------------------------------
+
+La **Cámara Alta** supervisa el nombramiento de los **miembros del Ejecutivo**, de los jueces federales y del Tribunal Supremo, de los embajadores y **altos cargos diplomáticos** y de los directores de agencias federales destacadas, como la **CIA o el FBI.**
+
+No tiene en su mano en cambio **validar otros funcionarios clave**, como el vicepresidente, los asesores de la Casa Blanca o el jefe de gabinete del mandatario en la Casa Blanca.
+
+El proceso requiere que el nominado presente una **declaración financiera y testifique** ante un comité del Senado. Una vez concluida esta etapa, el **comité vota sobre la nominación**, y, si es aprobada, el candidato pasa a ser sometido a la votación final en el pleno del Senado.
+
+¿Cuántos votos se necesitan?
+----------------------------
+
+La mayoría simple, 51 de los 100 senadores. Tras las elecciones del pasado 5 de noviembre y a partir del 3 de enero, el **Partido Republicano controlará 53 escaños,** pero en las filas conservadoras hay voces que se han levantado ya en contra de algunos de los nombramientos más polémicos.
+
+Si se produjera un **empate con 50 votos a favor y 50 en contra,** el voto decisivo lo tendría el presidente del Senado, un puesto que ocupará el actual senador de Ohio, J.D. Vance.
+
+¿Se puede evitar el voto del Senado?
+------------------------------------
+
+Trump, que asumirá el poder el 20 de enero, podría acogerse a los **Nombramientos en Receso**, una cláusula establecida en el artículo II de la **Constitución que estipula que el presidente** tiene el poder de llenar todas las vacantes durante un periodo sin sesiones en el Senado.
+
+Serían nombramientos temporales, hasta la siguiente sesión, pero en la **práctica esa designación** podría estar en vigor dos años y el presidente puede nominar en receso a una misma persona de forma sucesiva, según el Servicio de Investigación del Congreso.
+
+El magnate neoyorquino dejó caer que podría acogerse a esa medida y el futuro líder de la mayoría conservadora en el Senado, John Thune, comentó que es una posibilidad que está sobre la mesa, aunque confía en que la colaboración con los demócratas evite llegar a ese punto.
+
+**Ni el Senado ni la Cámara de Representantes** pueden entrar en receso durante más de tres días sin el consentimiento de la otra cámara, pero los republicanos tendrán el control de ambas a partir de enero. En caso de no haber acuerdo entre las cámaras, el **presidente puede también aplazarlas** hasta el tiempo que considere apropiado.
+
+¿Hubo nombramientos en receso en el pasado?
 -------------------------------------------
 
-La defensa de Diddy no ha publicado comentarios oficiales sobre estas acusaciones recientes.
+Los exmandatarios republicanos **Ronald Reagan** (1981-1989), **George H. W. Bush** (1989-1993) y **George W. Bush** (2001-2009) y los demócratas **Bill Clinton** (1993-2001) y Barack Obama (2009-2017) utilizaron nombramientos en receso, aunque para puestos de perfil bajo.
 
-### Más del tema
+Esa práctica, sin embargo, no estuvo exenta de controversias. En junio de 2014, el Tribunal Supremo consideró que Obama excedió su **autoridad constitucional** con este tipo de designaciones y determinó que el Senado debe estar en receso al menos diez días para que puedan realizarse.
 
-* **[P. Diddy, entre mujeres, música y demandas](https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html "https://www.elcomercio.com/tendencias/p-diddy-parejas-hijos-arresto-demandas.html")**
-* **[10 claves sobre el escándalo de P. Diddy](https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html "https://www.elcomercio.com/afull/p-diddy-trafico-sexual.html")**
+¿Hay antecedentes de rechazos?
+------------------------------
 
-Sin embargo, la complejidad del caso aumenta a medida que se descubren más violaciones de las normativas penitenciarias y posibles intentos de manipulación.
+En los últimos **100 años el Senado** solo se puso a tres nominaciones, todas ellas impulsadas por presidentes republicanos: **Charles Warren como fiscal general** en 1925, Lewis Strauss como secretario de Comercio en 1959 y **John Tower como secretario de Defensa en 1989**.
 
-El uso de tácticas legales cuestionables, como las descritas, podría tener un impacto significativo en el juicio. Los fiscales consideran que estas acciones demuestran un patrón de comportamiento destinado a evadir la justicia.
+El **Servicio de Investigación del Congreso** recuerda que en la práctica las nominaciones rara vez son rechazadas en el pleno del Senado, porque los **candidatos más controvertidos** no suelen llegar hasta ese momento decisivo. 
+
+La Selección de Ecuador, a puerta cerrada antes de medirse a Colombia
+=====================================================================
+
+La Selección de Ecuador trabaja a puerta cerrada en Guayaquil y viajará a Colombia para su próximo partido de eliminatorias.
+----------------------------------------------------------------------------------------------------------------------------
+
+![Pervis Estupiñán, Enner Valencia y Piero Hincapié en un partido de eliminatorias de la Selección de Ecuador.](https://www.elcomercio.com/wp-content/uploads/2024/11/Diseno-sin-titulo-2024-11-18T160936.279.jpg)
+
+La **Selección de Ecuador** trabaja a puerta cerrada para planear el duelo del próximo martes 19 de noviembre de 2024 ante **Colombia**. Aquello en la duodécima fecha de las eliminatorias sudamericanas al Mundial 2026.
+
+Aún con el sabor de la goleada 4-0 del pasado jueves ante Bolivia, en Guayaquil, el equipo de **Sebastián Beccacece** ha preferido aislarse de las cámaras para forjar el juego en su visita a la selección cafetera.
+
+### Más noticias:
+
+* [La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita](https://www.elcomercio.com/deportes/seleccion-ecuador-gonzalo-plata-madre.html "La Selección de Ecuador y Gonzalo Plata tuvieron una ‘amorosa’ visita")
+* [Las fortalezas de la Selección de Ecuador con Beccacece](https://www.elcomercio.com/deportes/sebastian-beccacece-seleccion-ecuador-fortalezas-colombia.html "Las fortalezas de la Selección de Ecuador con Beccacece")
+* [¿Cuándo juega la Selección de Ecuador vs. Colombia?](https://www.elcomercio.com/deportes/futbol/cuando-juega-ecuador-colombia-barranquilla.html "¿Cuándo juega la Selección de Ecuador vs. Colombia?")
+
+La **Selección de Ecuador** se entrena en la cálida ciudad costera de Guayaquil para intentar recrear el ambiente de la urbe barranquillera. No contará con el delantero **Leonardo Campana** ni el lateral Angelo Preciado, así como con Ángel Mena, quien se retiró de la selección nacional en el duelo con Bolivia.
+
+Y es que la Tri no está para distraerse en llegar al Mundial y se mantiene en el quinto puesto de la tabla. Pese a que partió la eliminatoria con menos tres puntos por una sanción internacional, esta parece haberse olvidado por el caso del jugador **Byron Castillo.**
+
+La Selección de Ecuador apuesta por la posesión
+-----------------------------------------------
+
+La afición está contenta con el trabajo de **Sebastián Beccacece** que ha logrado solidificar su defensa y conjugar el orden y precisión al momento de intentar avanzar en ofensiva.
+
+Ese trabajo posesivo y desgastante sobre el rival, que se vio muy claro en el partido ante **Bolivia**. Así dejó la sensación de que el equipo podría llegar a ser contundente en el ataque, algo que la afición y la prensa local reclamaban.
+
+Tras dejar a punto el equipo, Beccacece y sus dirigidos esperan partir a Barranquilla este 18 de noviembre. El DT prevé “**jugar de igual a igual**” contra una de las selecciones a las que más respeta y resalta por su buen nivel[.](https://en.wikipedia.org/wiki/Ecuador_national_football_team "https://en.wikipedia.org/wiki/Ecuador_national_football_team")
+
+El técnico sabe que los cafeteros se fortalecen en el estadio ‘Metropolitano’, por eso ha pedido a sus **dirigidos** estar preparados al momento de sufrir los embates de un equipo contundente. El cuadro colombiano, además, cuenta con una alta dosis de efectividad en los **tiros libres y de esquina**.
+
+La Tri de Sebastián Beccacece mejora su ofensiva
+------------------------------------------------
+
+El partido del martes 19 de noviembre del 2024 en Barranquilla se medirá el poder ofensivo y colectivo de **Colombia** ante el eficaz sistema defensivo y solidario de **Ecuador**. Este también estará marcador por la habilidad y potencia física.
+
+Para la afición ecuatoriana, el nivel que ha alcanzado Ecuador en los últimos cinco partidos de las eliminatorias, de la mano del argentino **Beccacece**, podría incomodar al equipo cafetero. La percepción se sustenta en la mejoría ofensiva que ha experimentado la Tri. Esta cuenta con repetidos cambios de frente aprovechados por sus veloces atacantes comandados por el goleador **Enner Valencia**.
+
+Y es que la experiencia de **Valencia**, a veces criticado por los hinchas, combina su poder para encarar y la inventiva desarrollada para asistir a sus compañeros.
+
+Cualquiera sea el resultado del próximo martes, por la **duodécima fecha** que cerrará las eliminatorias por este año, Ecuador ha insistido en que seguirá con la idea de juego que ha imprimido Beccacece, de cara al año 2025, decisivo para el afán de clasificarse al **Mundial**
+
+Daniel Noboa alertó sobre incendios ‘creados’ en el sur de Ecuador; visitó Manabí
+=================================================================================
+
+Daniel Noboa estuvo en Manabí y entregó recursos. Habló de los incendios forestales.
+------------------------------------------------------------------------------------
+
+![El presidente Daniel Noboa estuvo en Manabí, este 18 de noviembre de 2024.](https://www.elcomercio.com/wp-content/uploads/2024/11/Daniel-Noboa-Manabi.jpg)
+
+El presidente **Daniel Noboa** estuvo en Manabí. En la provincia, entregó recursos para proyectos de agua potable y habló de los incendios forestales que amenazan a **Ecuador**[.](https://es.wikipedia.org/wiki/Daniel_Noboa)[](https://es.wikipedia.org/wiki/Daniel_Noboa)
+
+El Mandatario entregó un monto de **1,84 millones de dólares**. Lo hizo en un evento en Bahía de Caráquez.
+
+### Más noticias
+
+* [Daniel Noboa define recuperación del feriado del 31 de octubre](https://www.elcomercio.com/actualidad/politica/daniel-noboa-define-recuperacion-feriado-31-octubre.html "Daniel Noboa define recuperación del feriado del 31 de octubre")
+* [Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca](https://www.elcomercio.com/actualidad/politica/daniel-noboa-insta-a-la-unidad-iberoamericana-en-discurso-en-cuenca.html "Daniel Noboa insta a la unidad iberoamericana en discurso en Cuenca")
+* [17 incendios forestales están activos en Ecuador este lunes 18 de noviembre](https://www.elcomercio.com/actualidad/ecuador/17-incendios-forestales-estan-activos-en-ecuador-este-lunes-18-de-noviembre.html "17 incendios forestales están activos en Ecuador este lunes 18 de noviembre")
+
+> ¡49 GAD de todo el país recibieron 20 millones de dólares! 🇪🇨👏  
+>   
+> El presidente [@DanielNoboaOk](https://twitter.com/DanielNoboaOk?ref_src=twsrc%5Etfw) anunció esta entrega de recursos destinados a 56 proyectos de agua potable, saneamiento, riego y vialidad.  
+>   
+> Como parte de esto, a través del [@BDEcuadorBP](https://twitter.com/BDEcuadorBP?ref_src=twsrc%5Etfw) y [@FinanzasEc](https://twitter.com/FinanzasEc?ref_src=twsrc%5Etfw), el Gobierno… [pic.twitter.com/FFjWdqNScE](https://t.co/FFjWdqNScE)
+> 
+> — Presidencia Ecuador 🇪🇨 (@Presidencia\_Ec) [November 18, 2024](https://twitter.com/Presidencia_Ec/status/1858584410838258067?ref_src=twsrc%5Etfw)
+
+Daniel Noboa y los incendios en Ecuador
+---------------------------------------
+
+El Presidente de Ecuador, este 18 de noviembre de 2024, aseguró que **“ciertos grupos con fines políticos intentan ver arder a nuestro país. Vemos terrorismo ambiental, vemos incendios forestales creados por otros”**. Agregó que se ha evidenciado incendios forestales creados.
+
+Hasta la mañana de este 18 de noviembre, **17 incendios forestales** se encontraban activos en Ecuador, sobre todo, en **Cuenca y Loja**.
+
+Según **Daniel Noboa**, su Gobierno va a resistir y superar todas las adversidades. En ese marco, el Presidente informó de la transferencia por parte del **Banco de Desarrollo del Ecuador (BDE)**.
+
+Los rubros para intervenciones
+------------------------------
+
+El monto de **1,84 millones de dólares** fue para cinco gobiernos autónomos descentralizados: el provincial de Manabí y los municipios de **Chone, 24 de Mayo, El Carmen y Sucre**.
+
+Las autoridades locales recibieron los recursos para financiar proyectos, como de **agua potable**, saneamiento, vialidad, riego y gestión de residuos sólidos.
+
+Los recursos son parte de un total de 20 millones destinados a **49 gobiernos autónomos** de Ecuador.
+
+Según **Daniel Noboa**, con la transferencia no solo se pagan cuentas pendientes de años anteriores, sino que se generan empleos y se activa la economía de los cantones beneficiados.
+
+Durante la visita a Manabí, el Presidente formalizó de 11 juntas de riego y drenaje para las parroquias Junín, Rocafuerte, Tosagua, Jaramijó y Montecristi. Son **536 socios y 3 800 hectáreas productivas**.
+
+El Presidente, los recursos y la política
+-----------------------------------------
+
+El gerente general del BDE, **Carlos Rivera**, informó que la entidad, a través de 11 proyectos, ha destinado 6,5 millones para el desarrollo de Manabí. Agregó que incrementaron más de 40 millones de la capacidad de endeudamiento de esta provincia con el banco.
+
+El **Presidente** apuntó que los montos se destinan no porque haya más recursos, sino porque tenemos algo que “ellos no tenían: honestidad y el compromiso de hacer las cosas y hacerlas bien”. De todas formas, **Daniel Noboa** llamó a la unidad.
