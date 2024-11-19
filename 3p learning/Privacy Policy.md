@@ -231,8 +231,8 @@ About 3P Learning Ltd’s Privacy Policy
 
 This policy explains our privacy and security commitments in plain language.
 
-* 3P Learning is a global provider of e-learning resources. We produce a range of online resources and a network of websites including  [Mathletics](https://www.3plearning.com/software/mathletics/?), [Spellodrome](https://www.3plearning.com/software/spellodrome/?), [Reading Eggs](https://www.3plearning.com/software/reading-eggs/?), [Mathseeds](https://www.3plearning.com/software/mathseeds/?), [Wordflyers](https://www.3plearning.com/software/wordflyers/?), [Writing Legends](https://www.writinglegends.com/?r=AU), [Storyathon,](https://www.storyathon.com/?r=AU)  [Teachers Workshop Series](https://teacherworkshopseries.com/?r=AU) and Brightpath Progress (collectively, the ‘Site’), and World Maths Day/ World Education Games branded resources and products.
-* Each product or resource, together with challenge websites for national and regional events which may use or integrate with the Site, is owned and operated by the 3P Learning group of companies (including 3P Learning Limited, Blake eLearning and their related entities and subsidiaries) (collectively, ‘**3P Learning’** or **‘us’** or **‘we**’). 
+* 3P Learning is a global provider of e-learning resources. We produce a range of online resources and a network of websites including  [Mathletics](https://www.3plearning.com/software/mathletics/?), [Reading Eggs](https://www.3plearning.com/software/reading-eggs/?), [Mathseeds](https://www.3plearning.com/software/mathseeds/?), [Wordflyers](https://www.3plearning.com/software/wordflyers/?), [Writing Legends](https://www.writinglegends.com/?r=AU), [Storyathon,](https://www.storyathon.com/?r=AU)  [Teachers Workshop Series](https://teacherworkshopseries.com/?r=AU) and Brightpath Progress (collectively, the ‘**Site**’), and World Maths Day/ World Education Games branded resources and products.
+* Each product or resource, together with challenge websites for national and regional events which may use or integrate with the Site, is owned and operated by the 3P Learning group of companies (including 3P Learning Limited, Blake eLearning Pty Ltd and their related entities and subsidiaries) (collectively, ‘**3P Learning’** or **‘us’** or **‘we**’). 
 * References to the Site in this Privacy Policy include all 3P Learning products and resources that we produce and distribute.
 * 3P Learning is committed to protecting the safety and security of our registered users, including students, teachers, school administrators and parents (collectively, **Registrants**) and we are sensitive to concerns about the safety of the personal information provided to us. Please read this Privacy Policy carefully in order to understand how any personal information collected by us is used.
 * As a global company, our Privacy Policy has been developed in accordance with a range of legislation which applies to us. In addition, we have developed our privacy framework to assist our customers that are schools, districts and education bodies to comply with privacy legislation and regulations applicable to them and the way they manage personal information. 
@@ -291,7 +291,7 @@ How we collect and process your personal information
 * The personal information or identifiers provided to us from the parent or teacher will be used in our programs to deliver our Services.
 * The learning activities in our education programs may also allow personal information to be collected and processed as follows:
     * Students and teachers may access learning activities that allow a free-text response to be entered, for example, educational book review, writing exercises, or to note learning outcomes. The information may be viewed by the subscribed Registrants within their account permissions. The teacher or parent may give additional consents for competition activities that we administer.
-    * Students may access learning activities for reading practice. Our program may collect voice-recordings of a student where a teacher has assigned a reading practice tasks (school customers only). Audio files can be deleted at any time and are automatically deleted after 24 months.
+    * Students may access learning activities for reading practice. Our program may collect voice-recordings of a student where a teacher has assigned a reading practice tasks (_school customers only_). Audio files can be deleted at any time and are automatically deleted after 24 months.
 * In circumstances personal information is entered by the user, consent is given by School or Home Customer to 3P Learning to use the information to deliver and these learning activities.
 * For School Customers, we do not enable additional services from third parties (such as class administration services) to collect or use personal information unless you have agreed to receive those services. In those circumstances the terms of the third party in relation to the collection and use of personal information will also apply.
 
@@ -304,7 +304,7 @@ What we will do with your information
 
 * The information collected from Registrants, customers or prospective customers may be used for the following purposes:
     * to provide access to our products and services;
-    * to manage prospective purchases, purchased subscriptions and payments including to provide quotes or offers.
+    * to manage prospective purchases, purchased subscriptions and payments including to provide quotes or offers;
     * to send a confirmation notice to the Registrant of the registration; to administer and manage accounts, including password resetting, responding to questions raised by Registrants, to contact the Registrant about any problems with the Registrant’s account or conduct on the Site;
     * to receive updates about our products and services;
     * to send out a 3P Learning newsletter or emails about the Site including information about current events, changes, improvements, upgrades, new product development and rules of the Site;
@@ -349,13 +349,13 @@ Keeping your personal information secure
 ----------------------------------------
 
 * 3P Learning is committed to information security. We will use all reasonable endeavours to keep the personal information we collect and use in a secure environment, and we have implemented appropriate technical, administrative and physical security measures that are designed to protect personal information from unauthorised access, disclosure, use and modification. These measures include the encryption of personal information and the implementation of organisational measures, such as our incident response plan. As part of our privacy compliance processes we review these security procedures to consider appropriate new technology and methods and engage independent third parties to review and audit aspects of our information security. 
-* We use Microsoft Azure and Amazon Web Services for data hosting and storage. Both providers are recognised for their leading approaches to data security.
+* We use Microsoft Azure and Amazon Web Services for data hosting and storage as set out in the table below. Both providers are recognised for their leading approaches to data security.
 * |     | Where data is hosted |     | (Backup) |
     | --- | --- | --- | --- |
     | Reading Eggs, Mathseeds, Wordflyers, Writing legends | AWS | US  | (Australia) |
     | Mathletics | Microsoft Azure | US  | (West Europe) |
     | Writing Legends, Storyathon | Microsoft Azure | Australia and US. | (West Europe) |
-    | Brightpath Progress | AWS | Australia | (Australia (Vic) |
+    | Brightpath Progress | AWS | Australia | (Australia (Vic)) |
     
 * Further information regarding Microsoft Azure privacy and security practices, including the latest updates and compliance information, at [news.microsoft.com/security2015](http://news.microsoft.com/security2015) and [www.microsoft.com/en-us/trustcenter/security/azure-security](https://www.microsoft.com/en-us/trustcenter/security/azure-security).
 * Further information regarding Amazon Web Services privacy and security practices, including the latest updates and compliance information, can be found at [aws.amazon.com/compliance/data-privacy-faq](https://aws.amazon.com/compliance/data-privacy-faq/) and [aws.amazon.com/security](https://aws.amazon.com/security/)
@@ -381,7 +381,7 @@ Anonymous or aggregated information
 * In addition to personal information and results data, 3P Learning also collects anonymous information about Registrants and the activities of Registrants on the Site. Anonymous information is information that is not linked to the name or identity of a user. This information is used for educational performance reporting and analytics and to assist us in enhancing the learning resources. The information remains anonymous at all times.
 * 3P Learning powers certain elements of the Company’s online marketing and advertising using information from third-party service providers that already know about you (referred to as ‘retargeting’). We collect information about where you saw the ads and what ads you clicked on. This is data that does not personally or directly identify you. We do not engage in this type of marketing or advertising to students or children.
 * When agreeing to the Term and Conditions, Registrants grant us the right to use this anonymous information for our own purposes, such as the preparation of statistical reports or to improve and change the content of our products.
-* You can find more information on cookies in our ‘Cookies & Third Party Technologies Policy’. 
+* You can find more information on cookies and website technologies in our ‘Cookies & Third Party Technologies Policy’.
 
 Revision of Privacy Policy
 --------------------------
@@ -395,7 +395,7 @@ By accessing our learning Sites or websites you consent to the terms under which
 Contact Us
 ----------
 
-All requests to access, update and delete personal information as well as questions and concerns about your personal information and this Privacy Policy should be directed as follows.
+All requests to access, update and delete personal information as well as questions and concerns about your personal information and this Privacy Policy should be directed as follows:
 
 For Reading Eggs/Mathseeds products: [dpo@3plearning.com](mailto:dpo@3plearning.com)  
 For other products: [privacy@3plearning.com](mailto:privacy@3plearning.com)
@@ -416,7 +416,7 @@ Special information for users across Canada
 * Information that is located outside Canada will adhere and be subject to legal requirements in those foreign countries. We review and respond to requirements according to the laws applicable to us and our service providers.
 * **For School Customers – Mathletics**  Our customer service team in Canada administers student data for Mathletics for Canadian school customers.  Accordingly, student names remain in Canada for this service. The data pertaining to a student’s activity within the platform (non-personally identifiable data) is stored in the East US 2 region of Microsoft Azure, and backed up in West Europe.  Access to data is restricted to users with approved access to 3P applications. The School may approve teachers, administration and IT personnel to access information (including student information) held in the school account. 
 
-        Schools may request that their users in a class are identified by pseudonyms rather           than names to access our products and resources. 
+        Schools may request that their users in a class are identified by pseudonyms rather than names to access our products and resources. 
 
         Please contact our Privacy Officer if you require additional information at:  
         Privacy Officer, 3P Learning, 655 Parramatta Road, Leichhardt, NSW 2040 Australia, or [privacy@3plearning.com](mailto:privacy@3plearning.com).  
@@ -438,18 +438,18 @@ Special Information for users in the European Union and the United Kingdom
 * The information below should be read in addition to our Privacy Policy, and outlines specific information relevant to certain aspects of our GDPR compliance.
 * 3P Learning UK Ltd is registered with the Independent Commissioners Office (ICO), registration reference no: **Z2188515.** A copy of this certificate can be downloaded [here](https://pppmarketingcdn.blob.core.windows.net/docs/global/policy/2024:data-protection-registration-certificate-3p-learning-uk-limited.pdf). 3P Learning UK Ltd is a company registered in England and Wales with company registration no. 05919214 and is a trading company within the 3P Learning Group.
 * Lawfulness of processing: 3P Learning collects personal information in a number of contexts and for a number of purposes. Please refer to the “What personal information we collect”, “What we will do with your information” and “How we collect and process your information” sections of the Privacy Policy. Our processing activities are based either on consent or legitimate interests pursued by 3P Learning and our school and district customers in delivering learning resources for use by schools, teachers, parents and students which are designed to improve learning outcomes and inspire a love of learning.
-* Is personal information transferred outside of the European Union or the United Kingdom? Yes, personal information in relation to Registered Users and customers located in the EU or the UK may be transferred outside of the EU or UK in 2 main situations:
+* Is personal information transferred outside of the European Union or the United Kingdom? Yes, personal information in relation to Registrants located in the EU or the UK may be transferred outside of the EU or UK in two main situations:
     * User data may be uploaded to and stored on our servers located in the USA or Australia. For further information about where personal information is hosted please see our [Data Privacy and Security FAQs](https://pppmarketingcdn.blob.core.windows.net/docs/global/policy/2024:04:3p-learning-data-privacy-security-faqs.pdf)
     * Additional information about Microsoft’s compliance with the EU GDPR is available [here](https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx).
     * Additional information about Amazon Web Services’ compliance with the EU GDPR is available [here](https://aws.amazon.com/compliance/gdpr-center/).
-    * In most instances, personal data about our EU and UK based customers is collected, accessed and managed by our sales, operational and customer support teams in the United Kingdom. Very occasionally however, such information may be shared with our employees in one of our offices outside of the UK e.g. to respond to an urgent customer support query outside of normal hours or for internal reporting processes. Our main offices outside of the EU and UK are located in Calgary, Canada and Sydney, Australia. To ensure appropriate safeguards exist in relation to such transfers, 3P Learning has implemented standard contractual clauses to cover the transfer of data relevant to EU and UK registrants to other companies within the 3P Group that are not located in the EU.
+    * In most instances, personal data about our EU and UK based customers is collected, accessed and managed by our sales, operational and customer support teams in the United Kingdom. Very occasionally however, such information may be shared with our employees in one of our offices outside of the UK e.g. to respond to an urgent customer support query outside of normal hours or for internal reporting processes. Our main offices outside of the EU and UK are located in Calgary, Canada and Sydney, Australia. To ensure appropriate safeguards exist in relation to such transfers, 3P Learning has implemented [standard contractual clauses](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) to cover the transfer of data relevant to EU and UK registrants to other companies within the 3P Group that are not located in the EU.
     * We stay up to date with regulatory developments in the EU and the UK to ensure that appropriate and compliant safeguards are in place for the transfer of any personal information outside of the EU or UK.
 * Additionally, please refer to information about our Hall of Fame.
 * For further information, please contact the 3P Learning Data Protection and Privacy Officers, whose details are as below:  
     For Reading Eggs/Mathseeds products: [dpo@3plearning.com](mailto:dpo@3plearning.com)  
     For other products: [privacy@3plearning.com](mailto:privacy@3plearning.com)
 
-If you have any further questions or would like to contact us regarding the above: please visit our [Contact Us](https://www.3plearning.com/contact/) page for details.
+If you have any further questions or would like to contact us by telephone regarding the above: please visit our [Contact Us](https://www.3plearning.com/contact/?) page for details.
 
 More privacy information
 ------------------------
@@ -496,7 +496,7 @@ When you visit our Websites, wee use the following cookies:
 
 * **Essential website cookies.** These are cookies that are required for the operation of our Website, Services and the use of their features. The information collected relates to the operation of our Website and Services (e.g. website scripting language and security tokens) and enables us to provide you with the service you have requested. In most cases these are session cookies and are deleted when you close your browser. Some may persist for up to 48 hrs to up to 13 months improve the experience for users that log back into the Services within a short range of periods of logging out.
 * **Analytical / performance cookies.** These cookies collect information on how users use our Website, for example which pages you visit most often, whether you receive any error messages and how you arrived at our website. Information collected by these cookies is used to improve your use of our Website and Services. These cookies expire after a period of inactivity.
-* **Functionality cookies.** These cookies are used to enhance the functionality of our Websites and Services, to improve your user experience and to make your visits more tailored and enjoyable, by remembering the choices you have made when interacting with our websites and online products. In most cases these cookies are persistent cookies and remain stored, in order to recall your preferences, until you clear your cache.
+* **Functionality cookies.**  These cookies are used to enhance the functionality of our Websites and Services, to improve your user experience by remembering the choices you have made when interacting with our websites and online products. In most cases these cookies are persistent cookies and remain stored, in order to recall your preferences, until you clear your cache.
 * **Advertising cookies.** These cookies are used to make advertising messages more relevant to the user of the Website and are based on the user’s browser settings. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting ads that are based on your interests. In most cases these cookies expire within 90 days but can persist up to 13 months. We do not use cookies to engage in behavioural targeting of advertisements to students.
 
 **Additional information about third party cookies**
