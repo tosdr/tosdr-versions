@@ -734,6 +734,7 @@ it
             * [Accordi locali e linee di azione](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/accordi-locali-e-linee-di-azione.html)
             * [Monitoraggio](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/monitoraggio.html)
             * [Questionario](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/questionario.html)
+            * [Documenti formativi](https://www.inps.it/it/it/inps-comunica/dossier/inps-per-tutti/documenti-formativi.html)
             
         * [INPGI passa a INPS](#)
             
