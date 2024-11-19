@@ -132,13 +132,13 @@ On The Blog
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
+[Customer Stories
+
+Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
+
 [Salesforce
 
-Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
-
-[Own Accelerate
-
-Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
+Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
 
 Company
 
@@ -356,13 +356,13 @@ On The Blog
 
 It’s Official: Own Joins Salesforce](https://www.ownbackup.com/blog/own-joins-salesforce)
 
+[Customer Stories
+
+Stanley Black & Decker and ACV Auctions Unlock Salesforce Efficiency with Own Archive](https://www.ownbackup.com/blog/stanley-black-decker-and-acv-auctions-unlock-salesforce-efficiency-with-own-archive)
+
 [Salesforce
 
-Tackling Salesforce Data Overload: Practical Tips from a Senior Salesforce Admin](https://www.ownbackup.com/blog/tackling-salesforce-data-overload-practical-tips-from-a-senior-salesforce-admin)
-
-[Own Accelerate
-
-Introducing New Data Seeding Options: Essential, Unlimited, and Sandbox Anonymization](https://www.ownbackup.com/blog/introducing-new-data-seeding-options-essential-unlimited-and-sandbox-anonymization)
+Fuel AI and Forecasting: Is Your Salesforce Data Prepared?](https://www.ownbackup.com/blog/fuel-ai-and-forecasting-is-your-salesforce-data-prepared)
 
 Company
 
