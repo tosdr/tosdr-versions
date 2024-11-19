@@ -209,9 +209,9 @@ Menu
         
         [Read more news](http://news.harvard.edu/)
         
-        1. [**U.S. fertility rates are tumbling, but some families still go big. Why?** It’s partly matter of faith. Economist examines choice to have large families in new book.](https://news.harvard.edu/gazette/story/2024/11/u-s-fertility-rates-tumbling-but-some-families-still-go-big-why/)
+        1. [**Is cheese bad for you?** Nutritionist explains why you’re probably eating way too much](https://news.harvard.edu/gazette/story/2024/11/is-cheese-bad-for-you/)
         2. [**Did Trump election signal start of new political era?** Analysts weigh issues, strategies, media decisions at work in contest, suggest class may become dominant factor](https://news.harvard.edu/gazette/story/2024/11/did-trump-election-signal-start-of-new-political-era/)
-        3. [**Are optimists the realists?** Humanity is doing better than ever yet it often doesn’t seem that way. In podcast, experts make the case for fact-based hope.](https://news.harvard.edu/gazette/story/2024/11/are-optimists-the-realists-optimism-toxic-positivity-podcast-steven-pinker/)
+        3. [**8 Harvard students named Rhodes Scholars** 5 in U.S. class, most for any institution, joined by 3 international recipients](https://news.harvard.edu/gazette/story/2024/11/8-harvard-students-named-rhodes-scholars/)
         
     2. [Sign up for the Daily Gazette](https://www.pages01.net/harvard/gazette?email=)
     
