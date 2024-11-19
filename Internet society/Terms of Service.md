@@ -18,7 +18,7 @@
     
 * [Our Impact](https://www.internetsociety.org/our-impact/)
     
-    * [2025 Action Plan](https://www.internetsociety.org/action-plan/2025/)
+    * [Action Plan](https://www.internetsociety.org/action-plan/2025/)
     
 * [Get Involved](https://www.internetsociety.org/get-involved/)
     
