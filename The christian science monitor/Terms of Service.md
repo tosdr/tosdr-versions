@@ -92,6 +92,10 @@ Behind the news are values that drive people and nations. Explore them here.
 
 Recent Stories
 
+[Equality
+
+### Millions in rural America lack reliable internet. How Massachusetts towns got online.](https://www.csmonitor.com/USA/Society/2024/1119/rural-broadband-internet-access-massaschusetts "Millions in rural America lack reliable internet. How Massachusetts towns got online.")
+
 [Integrity
 
 ### A vote that straddles Sri Lanka’s divides](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1118/A-vote-that-straddles-Sri-Lanka-s-divides "A vote that straddles Sri Lanka’s divides")
@@ -99,10 +103,6 @@ Recent Stories
 [Joy
 
 ### A graceful renewal of Notre-Dame Cathedral](https://www.csmonitor.com/Commentary/the-monitors-view/2024/1115/A-graceful-renewal-of-Notre-Dame-Cathedral "A graceful renewal of Notre-Dame Cathedral")
-
-[Safety
-
-### When Hezbollah rockets are incoming, and you can’t reach the shelter](https://www.csmonitor.com/World/Middle-East/2024/1115/hezbollah-rockets-terrorize-northern-israel-towns "When Hezbollah rockets are incoming, and you can’t reach the shelter")
 
 [See all News & Values stories](https://www.csmonitor.com/values)
 
@@ -158,11 +158,11 @@ Regions
 
 Recent Stories
 
+[### Millions in rural America lack reliable internet. How Massachusetts towns got online.](https://www.csmonitor.com/USA/Society/2024/1119/rural-broadband-internet-access-massaschusetts "Millions in rural America lack reliable internet. How Massachusetts towns got online.")
+
 [### Trump takes office in January. Here’s how Biden is spending his final days as president.](https://www.csmonitor.com/USA/2024/1118/biden-trump-clean-energy-student-loan-ukraine-judges "Trump takes office in January. Here’s how Biden is spending his final days as president.")
 
 [### Ukraine has been waiting to strike deep into Russia. Is Biden’s approval too late?](https://www.csmonitor.com/World/Europe/2024/1118/Russia-Ukraine-War-Trump-Putin-Biden-Missiles "Ukraine has been waiting to strike deep into Russia. Is Biden’s approval too late?")
-
-[### Spirit Airlines files for bankruptcy as it struggles to recover from pandemic losses](https://www.csmonitor.com/USA/2024/1118/Spirit-Airlines-bankrupt-debt-COVID-19-pandemic "Spirit Airlines files for bankruptcy as it struggles to recover from pandemic losses")
 
 * * *
 
