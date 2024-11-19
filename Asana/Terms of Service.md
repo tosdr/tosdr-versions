@@ -1,3 +1,7 @@
+Introducing Asana’s Fall 2024 Release. Discover what's new.[Explore now](https://asana.com/whats-new?utm_medium=web&utm_source=top-banner)
+
+x icon
+
 [Asana Home](https://asana.com/?noredirect)
 
 * Product chevron-down icon
