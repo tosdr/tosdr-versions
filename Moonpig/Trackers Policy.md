@@ -430,47 +430,9 @@ Information about our use of cookies
 
 Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. By visiting or using this site with your browser set to allow cookies, you are consenting to our use of cookies for the purposes set out below.
 
-A cookie is a small file of letters and numbers that we store on your browser or the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive.
-
 To make full use of Moonpig.com and to benefit from certain personalised features, your computer, tablet or mobile phone will need to be set up to accept cookies. The Moonpig.com website (like many other shopping websites) will not work when cookies are blocked.
 
 The list below details the cookies used on Moonpig.com. We have outlined who sets these cookies and their purpose.
-
-**Category:** Functionality
-
-**Party:** Moonpig.com
-
-**Purpose:** Moonpig.com uses these cookies to enable functionalities that provide a basic personalised experience whilst browsing, personalising items and shopping on our website. Examples include being able to login, selecting items to purchase and saving customisations. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.
-
-**Category:** Strictly necessary
-
-**Party:** Moonpig.com
-
-**Purpose:** These cookies are essential as they enable you to move around a website and use its features, such as accessing the basket. The information collected through these cookies is only used for this purpose and is never shared or sold on to third parties.
-
-**Category:** Analytical/Performance
-
-**Party:** Google Analytics and GoSquared
-
-**Purpose:** Google Analytics and GoSquared use cookies to collect data that helps us understand how people are using the site and monitor any errors that users may be experiencing. We use this information to identify how and where we can improve the user experience. The data collected through this cookie is anonymous. We have turned on [Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en) to get an idea of our demographics and users’ interests. Please see below for how we use this data.
-
-**Category:** Analytical/Performance
-
-**Party:** Inspectlet and Hotjar
-
-**Purpose:** Moonpig.com works with 3rd parties to monitor the experience our users have. These cookies are used to collect information about how visitors use our site which we use to improve the user experience. The cookies collect information in an anonymous form, including user actions and behaviour on the site.
-
-**Category:** Targeting
-
-**Category:** Targeting Party: Facebook, Instagram, Twitter Advertising, Google AdWords, DoubleClick, Casale Media, AppNexus, [Adap.tv](http://adap.tv/), ADTECH, Atlas, Captify, Pintrest, Bing Ads, Awin, Global Media, Snapchat, Tiktok, Teads
-
-**Purpose:** Targeting cookies track our own paid advertising activity. We use the information collected by these cookies to help us determine where our ads will be most effective online. Each individual advertiser uses its own tracking cookies and the data taken is not confidential data or interchangeable anonymous. We have turned on [Google Analytics Demographics and Interest Reporting](https://support.google.com/analytics/answer/2799357?hl=en) to get an idea of our demographics and users’ interests. Please see below for how we use this data.
-
-**Category:** Testing
-
-**Party:** Visual Website Optimizer
-
-**Purpose:** Moonpig.com works with 3rd party Visual Website Optimizer to test and find the optimal content and experience for our users. The cookies used by Visual Website Optimizer enable us to identify which experiences visitors to our site have seen and how the content has performed for the visitor, this will allow us to ensure that future experiences can be further improved. The data collected through these cookies is anonymous; Visual Website Optimizer does not collect specific customer data and is never shared with other third parties.
 
 Google Analytics
 ----------------
@@ -480,7 +442,7 @@ We have implemented Google Analytics features based on Display Advertising  ([G
 Managing Cookies
 ----------------
 
-We've made it easy for you to control your cookies. To find out more about the different types of cookies we use, manage your preferences, or accept all cookies, simply click [](javascript:OneTrust.ToggleInfoDisplay())[change your preferences](javascript:OneTrust.ToggleInfoDisplay()).
+We've made it easy for you to control your cookies. To find out more about the different types of cookies we use, manage your preferences, or accept all cookies, simply click [change your preferences](javascript:OneTrust.ToggleInfoDisplay()).
 
 What happens if I disable cookies?
 ----------------------------------
