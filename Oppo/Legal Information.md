@@ -45,7 +45,7 @@
 * [About OPPO](https://www.oppo.com/uk/about/) [About OPPO](https://www.oppo.com/uk/about/)
     
     * [Our Story](https://www.oppo.com/uk/about/)
-    * [Discover](https://www.oppo.com/uk/discover/technology/)
+    * [OPPO AI](https://www.oppo.com/uk/discover/technology/oppo-ai/)
     * [News](https://www.oppo.com/uk/newsroom/)
     * [Campaign](https://events.oppo.com/uk/)
     
@@ -155,17 +155,17 @@ Quick Links
 * About OPPO
     
     * [Our Story](https://www.oppo.com/uk/about/)
-    * [Discover](https://www.oppo.com/uk/discover/technology/)
+    * [OPPO AI](https://www.oppo.com/uk/discover/technology/oppo-ai/)
     * [News](https://www.oppo.com/uk/newsroom/)
     * [Campaign](https://events.oppo.com/uk/)
     
     * [Our Story](https://www.oppo.com/uk/about/)
-    * [Discover](https://www.oppo.com/uk/discover/technology/)
+    * [OPPO AI](https://www.oppo.com/uk/discover/technology/oppo-ai/)
     * [News](https://www.oppo.com/uk/newsroom/)
     * [Campaign](https://events.oppo.com/uk/)
     
     * [Our Story](https://www.oppo.com/uk/about/)
-    * [Discover](https://www.oppo.com/uk/discover/technology/)
+    * [OPPO AI](https://www.oppo.com/uk/discover/technology/oppo-ai/)
     * [News](https://www.oppo.com/uk/newsroom/)
     * [Campaign](https://events.oppo.com/uk/)
     
