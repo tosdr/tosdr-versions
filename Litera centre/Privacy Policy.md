@@ -251,7 +251,7 @@ Copyright 2024. All rights reserved with [Litera Centre](https://cvngp04.na1.hs
 
 [![Call Litera Centre Team](https://res.cloudinary.com/litlr/image/upload/v1706678311/litera/lit-call_qzlq6i.png)](tel:+919871160718)
 
-[![Whatsapp Messenger](https://res.cloudinary.com/litlr/images/v1657285689/sidebar_whatsapp/sidebar_whatsapp.png?_i=AA)](https://my.literacentre.com/wa)
+[![Whatsapp Messenger](https://res.cloudinary.com/litlr/images/v1657285689/sidebar_whatsapp/sidebar_whatsapp.png?_i=AA)](https://wa.me/19402868456)
 
 [Enroll  
 Now](https://www.literacentre.com/enrollment-form/)
