@@ -105,23 +105,23 @@ October 22, 2024
 
 [agatha directed by kotcfacu (director)](https://yiff-party.com/yiff/agatha-directed-by-kotcfacu-director/)
 
-0 16 1
+0 19 1
 
 November 18, 2024
 
-[](https://yiff-party.com/yiff/zoey-created-by-ruth66/)
+[](https://yiff-party.com/yiff/nintendo-and-etc-created-by-joe-dud/)
 
-[zoey created by ruth66](https://yiff-party.com/yiff/zoey-created-by-ruth66/)
+[nintendo and etc created by joe dud](https://yiff-party.com/yiff/nintendo-and-etc-created-by-joe-dud/)
 
-0 88 0
+0 93 0
 
-October 20, 2024
+October 21, 2024
 
-[](https://yiff-party.com/yiff-ai-premium/directed-by-hydra-director-17/)
+[](https://yiff-party.com/yiff-ai-premium/directed-by-bedtimes-10/)
 
-[directed by hydra (director)](https://yiff-party.com/yiff-ai-premium/directed-by-hydra-director-17/)
+[directed by bedtimes](https://yiff-party.com/yiff-ai-premium/directed-by-bedtimes-10/)
 
-0 3 0
+0 2 0
 
 November 19, 2024
 
