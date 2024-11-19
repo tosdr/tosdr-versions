@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[SWCC keeps changing with keyword ‘new challenges’](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
-[![SWCC keeps changing with keyword ‘new challenges’](https://wp.japantimes.co.jp/wp-content/uploads/2024/08/img_unraveling_27_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/27?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=4 "SWCC keeps changing with keyword ‘new challenges’")
+[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -253,25 +253,25 @@ SUPPLEMENTS BINDER
 Latest News
 -----------
 
-[Japan's Fugaku supercomputer takes top spot in two rankings for 10th time](https://www.japantimes.co.jp/business/2024/11/19/companies/fugaku-supercomputer-top/ "Japan's Fugaku supercomputer takes top spot in two rankings for 10th time")
+[Former minister Daishiro Yamagiwa named to lead LDP semiconductor group](https://www.japantimes.co.jp/business/2024/11/19/economy/japan-ldp-new-chip-czar/ "Former minister Daishiro Yamagiwa named to lead LDP semiconductor group")
 
-17 mins ago
+1 hour ago
 
-[Japan to hold regular economic security talks with U.K. under two-plus-two model](https://www.japantimes.co.jp/news/2024/11/19/japan/japan-uk-economic-two-plus-two/ "Japan to hold regular economic security talks with U.K. under two-plus-two model")
+[Ukraine ambassador warns of Russian military tech transfers to North Korea](https://www.japantimes.co.jp/news/2024/11/19/world/politics/north-korean-troops-kursk-dangerous-development/ "Ukraine ambassador warns of Russian military tech transfers to North Korea")
 
-1 hours ago
+1 hour ago
 
-[How 1,000 days of conflict fueled robot wars between Russia and Ukraine](https://www.japantimes.co.jp/news/2024/11/19/world/1000-days-robot-wars-russia-ukraine/ "How 1,000 days of conflict fueled robot wars between Russia and Ukraine")
+[Nippon Steel claims union 'misinformation' in battle for U.S. Steel](https://www.japantimes.co.jp/business/2024/11/19/companies/nippon-steel-misinformation/ "Nippon Steel claims union 'misinformation' in battle for U.S. Steel")
 
-1 hours ago
+1 hour ago
 
-[Chinese man suspected of stalking celebrity Haruna Kojima](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/haruna-kojima-stalk-arrest/ "Chinese man suspected of stalking celebrity Haruna Kojima")
+[Trump confirms plans to use the military to assist in mass deportations](https://www.japantimes.co.jp/news/2024/11/19/world/politics/trump-military-mass-deportations/ "Trump confirms plans to use the military to assist in mass deportations")
 
-1 hours ago
+2 hours ago
 
-[Two undersea cables in Baltic Sea found to have been cut](https://www.japantimes.co.jp/news/2024/11/19/world/undersea-cables-baltic-germany-finland/ "Two undersea cables in Baltic Sea found to have been cut")
+[Saitama high school apologizes for negligence leading to fatal car crash](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/saitama-school-car-rollover/ "Saitama high school apologizes for negligence leading to fatal car crash")
 
-1 hours ago
+2 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
