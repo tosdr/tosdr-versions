@@ -2,6 +2,8 @@
 
 [TES](https://www.edukey.co.uk/)
 
+* [Blog](https://www.tes.com/en-gb/for-schools/blog)
+    
 * [Schools Awards](https://www.tes.com/en-gb/schools-awards)
     
 * [Contact us](https://www.tes.com/en-gb/contact)
@@ -87,7 +89,7 @@ TES Close
         * [Tes Clubs and Events](https://www.edukey.co.uk/en-gb/for-schools/clubs-and-events)
             
         
-    * [Safeguarding and compliance](https://www.edukey.co.uk/en-gb) Open
+    * Safeguarding and compliance Open
         
         * [Tes Safeguarding Training](https://www.edukey.co.uk/en-gb/for-schools/safeguarding-training)
             
@@ -96,7 +98,7 @@ TES Close
         * [Tes Clarity](https://www.tes.com/en-gb/for-schools/clarity)
             
         
-    * [Staff management & Finance](https://www.tes.com/for-schools/staff-management) Open
+    * Staff management & Finance Open
         
         * [Staff Management Subscription](https://www.edukey.co.uk/en-gb/for-schools/staff-management)
             
@@ -119,6 +121,8 @@ TES Close
 * [Tes Institute](https://www.tes.com/institute)
     
 * [School Portal](https://www.tes.com/authn/select?rtn=https%3A//www.tes.com/schools/employers/school-chooser)
+    
+* [Blog](https://www.tes.com/en-gb/for-schools/blog)
     
 * [Schools Awards](https://www.tes.com/en-gb/schools-awards)
     
@@ -518,17 +522,19 @@ Back to top
     
 * [Tes Institute](https://www.tes.com/institute) Open
     
-    * [For partners](https://www.tes.com/institute/partnerships)
+    * [Teacher training courses](https://www.tes.com/institute/courses)
         
-    * [For prospective teachers](https://www.tes.com/institute/courses/become-a-teacher)
+    * [SKE for teachers](https://www.tes.com/institute/courses/subject-knowledge-enhancement-teachers)
         
-    * [For schools](https://www.tes.com/institute/support-for-schools)
+    * [MA in Education with Pedagogy](https://www.tes.com/institute/courses/ma-education-pedagogy)
         
-    * [For teachers](https://www.tes.com/institute/courses/improve-your-skills)
+    * [Support for schools](https://www.tes.com/institute/support-for-schools)
         
     
 * [Advice Hub](https://www.tes.com/en-gb/advice-hub) Open
     
+    * [Blog](https://www.tes.com/en-gb/for-schools/blog)
+        
     * [Safeguarding](https://www.tes.com/en-gb/advice-hub/safeguarding)
         
     * [SEND](https://www.edukey.co.uk/en-gb/advice-hub/send)
@@ -537,11 +543,41 @@ Back to top
         
     * [Early career teachers](https://www.tes.com/en-gb/advice-hub/early-career-teachers)
         
-    * [Teachers](https://www.tes.com/en-gb/advice-hub/teachers)
-        
-    * [Leaders](https://www.tes.com/en-gb/advice-hub/leaders)
-        
     * [Tes Live Lessons](https://www.tes.com/en-gb/for-schools/live-lessons)
+        
+    
+* [Products](https://www.tes.com/en-gb/for-schools) Open
+    
+    * [Tes Staff Management](https://www.tes.com/en-gb/for-schools/staff-management)
+        
+    * [Tes Class Charts](https://www.tes.com/en-gb/for-schools/class-charts)
+        
+    * [Tes Provision Map](https://www.tes.com/en-gb/for-schools/provision-map)
+        
+    * [Tes Timetable](https://www.tes.com/en-gb/for-schools/timetabling-edval)
+        
+    * [Tes Parents' Meetings](https://www.tes.com/en-gb/for-schools/parents-meetings)
+        
+    * [Tes Room Booking](https://www.tes.com/en-gb/for-schools/room-booking)
+        
+    * [Tes Clubs and Events](https://www.tes.com/en-gb/for-schools/clubs-and-events)
+        
+    
+* [Products](https://www.tes.com/en-gb/for-schools) Open
+    
+    * [Tes Safeguarding Training](https://www.tes.com/en-gb/for-schools/safeguarding-training)
+        
+    * [Tes MyConcern](https://www.tes.com/en-gb/for-schools/myconcern)
+        
+    * [Tes Clarity](https://www.tes.com/en-gb/for-schools/clarity)
+        
+    * [Tes EduPay](https://www.tes.com/en-gb/for-schools/edupay)
+        
+    * [Tes BPS](https://www.tes.com/en-gb/for-schools/bps)
+        
+    * [Tes HR](https://www.tes.com/en-gb/for-schools/tes-hr)
+        
+    * [Tes Literacy Assessment Online](https://www.tes.com/en-gb/for-schools/literacy-assessment)
         
     
 
