@@ -30,6 +30,7 @@
     * [Instagram](https://www.instagram.com/987TheBull)
     * [YouTube](https://www.youtube.com/user/987TheBull)
     * [Snapchat](https://www.snapchat.com/add/PDX987TheBull)
+    * [TikTok](https://www.tiktok.com/@987thebull)
 * [Listen To Us](#)
     * [iHeart](https://www.iheart.com/live/987-the-bull-7574/)
     * [TuneIn](https://tunein.com/radio/987-The-Bull-s35937/)
@@ -66,6 +67,7 @@
 * [Instagram](https://www.instagram.com/987TheBull)
 * [YouTube](https://www.youtube.com/user/987TheBull)
 * [Snapchat](https://www.snapchat.com/add/PDX987TheBull)
+* [TikTok](https://www.tiktok.com/@987thebull)
 
 [](https://www.alphamediaplayer.com/987thebull)[](https://www.alphamediaplayer.com/987thebull)
 
@@ -210,11 +212,11 @@ Recently Played
 
 |     |
 | --- |
-| Ridin' RoadsDustin Lynch<br><br>9:20am |
-| Take Your TimeSam Hunt<br><br>9:16am |
-| Truck BedHardy<br><br>9:13am |
-| I Never LieZach Top<br><br>9:10am |
-| I Am Not OkayJelly Roll<br><br>9:06am |
+| I Never LieZach Top<br><br>4:42pm |
+| I Am Not OkayJelly Roll<br><br>4:37pm |
+| Fancy LikeWalker Hayes<br><br>4:34pm |
+| Different 'Round HereRiley Green Ft Luke Combs<br><br>4:31pm |
+| I'M Gonna Love YouCody Johnson Ft Carrie Underwood<br><br>4:28pm |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -358,10 +360,6 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -370,9 +368,13 @@ Spanish • Western
 
 Sports • Midwest
 
-[![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
+[![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
+
+Top 40 • Eastern
 
 [](https://www.alphamediausa.com/)
 
