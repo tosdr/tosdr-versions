@@ -211,9 +211,9 @@ By [Kathryn Wortley](https://www.japantimes.co.jp/author/240/kathryn-wortley/ "K
 SUSTAINABLE JAPAN
 -----------------
 
-[The celebrated artist ‘updating’ the kimono](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[Azabudai Hills, Tokyo’s green new downtown ‘village’](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
-[![The celebrated artist ‘updating’ the kimono](https://wp.japantimes.co.jp/wp-content/uploads/2024/09/img_magazine_40_04_02-200x200.jpg)](https://sustainable.japantimes.com/magazine/vol40/40-04?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=1 "The celebrated artist ‘updating’ the kimono")
+[![Azabudai Hills, Tokyo’s green new downtown ‘village’](https://wp.japantimes.co.jp/wp-content/uploads/2024/07/img_unraveling_26_01-200x200.jpg)](https://sustainable.japantimes.com/unraveling/26?utm_source=jto&utm_medium=sidebanner&utm_campaign=jto_sidebanner&f=2 "Azabudai Hills, Tokyo’s green new downtown ‘village’")
 
 SPECIAL SUPPLEMENTS [![note](/theme_japantimes/images/icon_note.png)](javascript:; "Note")
 ------------------------------------------------------------------------------------------
@@ -255,23 +255,23 @@ Latest News
 
 [Ukraine hits Russia with U.S. ATACMS missiles for first time](https://www.japantimes.co.jp/news/2024/11/19/world/ukraine-us-missiles-russia-first-hit/ "Ukraine hits Russia with U.S. ATACMS missiles for first time")
 
-2 hours ago
+8 hours ago
 
 [Mass casualty attacks in China put focus on mental health as economy slows](https://www.japantimes.co.jp/news/2024/11/19/asia-pacific/society/china-mass-attacks-society-health/ "Mass casualty attacks in China put focus on mental health as economy slows")
 
-2 hours ago
+8 hours ago
 
 [Car rams into students outside China primary school, hurting several people](https://www.japantimes.co.jp/news/2024/11/19/asia-pacific/crime-legal/china-car-ramming/ "Car rams into students outside China primary school, hurting several people")
 
-3 hours ago
+9 hours ago
 
 [Reelected Hyogo governor vows to serve with a 'humble heart'](https://www.japantimes.co.jp/news/2024/11/19/japan/politics/hyogo-governor-first-day-return/ "Reelected Hyogo governor vows to serve with a 'humble heart'")
 
-3 hours ago
+9 hours ago
 
 [Japan police arrest executive of group referring women to sex trade](https://www.japantimes.co.jp/news/2024/11/19/japan/crime-legal/japan-police-arrest-sex-trade-executive/ "Japan police arrest executive of group referring women to sex trade")
 
-4 hours ago
+10 hours ago
 
 [SUBSCRIBE](https://www.japantimes.co.jp/sub "Subscribe")
 
