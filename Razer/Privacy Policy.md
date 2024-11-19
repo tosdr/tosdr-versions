@@ -6,7 +6,7 @@ Select a location to view location-specific content and shop online.
 
 Switch to
 
-[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy%3F_gl%3D1*9bo3ui*_ga*MTQ4NjM4ODcxOS4xNzMyMDI5NDU0*_ga_3TRK53PM75*MTczMjAyOTQ1NC4xLjEuMTczMjAyOTUyOS42MC4wLjA.&_ga=2.88860315.16059224.1732029454-1486388719.1732029454)
+[Select another location](https://www.razer.com/choose-location?from=%2Flegal%2Fcustomer-privacy-policy)
 
 ![](../assets/images/mega-menu/menu-open.png)
 
@@ -117,6 +117,7 @@ Switch to
             -------
             
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
+            * [Razer USB 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-4-dock)
             * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand Chroma (USB-A Hub)](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma)
             
@@ -148,6 +149,7 @@ Switch to
             -------
             
             * [Razer USB-C Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-c-dock)
+            * [Razer USB 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-usb-4-dock)
             * [Razer Thunderbolt 4 Dock](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-chroma)
             * [Razer Laptop Stand](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-chroma-v2)
             * [Razer 130W USB-C GaN charger](https://www.razer.com/gaming/pc/accessories/razer-usb-c-gan-charger)
@@ -1284,6 +1286,7 @@ Switch to
         -------
         
         * [View All Mac](https://www.razer.com/mac)
+        * [Razer USB 4 Dock - Mercury](https://www.razer.com/gaming-pc-accessories/razer-usb-4-dock)
         * [Razer Thunderbolt 4 Dock for Mac](https://www.razer.com/gaming-pc-accessories/razer-thunderbolt-4-dock-mercury-edition)
         * [Razer USB-C GaN Charger 130W](https://www.razer.com/gaming-pc-accessories/razer-usb-c-gan-charger-white)
         * [Razer Laptop Stand](https://www.razer.com/gaming-pc-accessories/razer-laptop-stand-mercury-edition)
