@@ -90,11 +90,11 @@ MENU SEARCH FIND [SUBSCRIBE](https://independentaustralia.net/about-ia/subscribe
 
 [IA-is-fighting-for-survival! Please help](https://www.gofundme.com/f/ia-is-fighting-for-survival-its-life-depends-on-you)
 
-[Government bans social media fearing rise of 'Generation Left'](https://independentaustralia.net/article-display/government-bans-social-media-fearing-rise-of--generation-left,19158)
+[U.S. Election not about economic anxiety, it’s about religious identity anxiety](https://independentaustralia.net/article-display/us-election-not-about-economic-anxiety-its-about-religious-identity-anxiety,19182)
 
-[AUKUS proves Australia and U.S. to be an Odd Couple](https://independentaustralia.net/article-display/politics-display/aukus-proves-australia-and-us-to-be-an-odd-couple,19166)
+[Net migration in September quarter fell — but not enough](https://independentaustralia.net/article-display/politics-display/net-migration-in-september-quarter-fell--but-not-enough,19185)
 
-[Australia’s 3G shutdown: Why your 4G/5G phone is now blocked](https://independentaustralia.net/article-display/australias-3g-shutdown-why-your-4g5g-phone-is-now-blocked,19159)
+[Altruism among voters fading as selfishness prevails](https://independentaustralia.net/article-display/altruism-among-voters-fading-as-selfishness-prevails,19183)
 
 Comments Policy
 
@@ -136,11 +136,11 @@ Just in
 * [The growth of Australia's flexible office in 2024](https://independentaustralia.net/article-display/the-growth-of-australias-flexible-office-in-2024,18626 "Permanent Link : The growth of Australia's flexible office in 2024")
 * [U.S. Election not about economic anxiety, it’s about religious identity anxiety](https://independentaustralia.net/article-display/us-election-not-about-economic-anxiety-its-about-religious-identity-anxiety,19182 "Permanent Link : U.S. Election not about economic anxiety, it’s about religious identity anxiety")
 * [IA is fighting for its life and its survival depends on YOU!](https://independentaustralia.net/article-display/ia-is-fighting-for-its-life-and-its-survival-depends-on-you,19172 "Permanent Link : IA is fighting for its life and its survival depends on YOU!")
+* [Net migration in September quarter fell — but not enough](https://independentaustralia.net/article-display/net-migration-in-september-quarter-fell-but-not-enough,19185 "Permanent Link : Net migration in September quarter fell — but not enough")
 * [War Memorial makes little effort to recognise Frontier Wars](https://independentaustralia.net/article-display/war-memorial-makes-little-effort-to-recognise-frontier-wars,19184 "Permanent Link : War Memorial makes little effort to recognise Frontier Wars")
 * [Altruism among voters fading as selfishness prevails](https://independentaustralia.net/article-display/altruism-among-voters-fading-as-selfishness-prevails,19183 "Permanent Link : Altruism among voters fading as selfishness prevails")
 * [Trump taps into new media and rise in youth conservatism](https://independentaustralia.net/article-display/trump-taps-into-new-media-and-rise-in-youth-conservatism,19181 "Permanent Link : Trump taps into new media and rise in youth conservatism")
 * [Peter Dutton’s Liberals copy Trump’s playbook of falsehoods and fraud](https://independentaustralia.net/article-display/peter-duttons-liberals-copy-trumps-playbook-of-falsehoods-and-fraud,19180 "Permanent Link : Peter Dutton’s Liberals copy Trump’s playbook of falsehoods and fraud")
-* [There's no substitute for experience — tell that to online lifers](https://independentaustralia.net/article-display/theres-no-substitute-for-experience-tell-that-to-online-lifers,19179 "Permanent Link : There's no substitute for experience — tell that to online lifers")
 
 [![](https://independent-australia.myshopify.com/cdn/shop/files/2024MagCover1_aff90a98-8997-4ca5-8e59-d49c1b50ea32_large.jpg?v=1698989656)](https://independent-australia.myshopify.com/collections/magazines-and-newspapers/products/copy-of-2024-ia-print-magazine-subscriber-advance-order-discounted-price-1)
 
