@@ -316,6 +316,6 @@ English ▼
 * [Accessibility](https://www.kodak.com/en/company/page/accessibility/ "Accessibility") |
 * [Privacy](https://www.kodak.com/en/company/page/privacy/ "Privacy") |
 * [Your Privacy Choices](https://www.kodak.com/en/company/page/privacy-choices/ "Your Privacy Choices") |
-* Cookie Preferences
+* Do Not Sell My Personal Information/Opt Out of Targeted Advertisings
 
 Copyright ©2024 Eastman Kodak Company. All Rights Reserved.
