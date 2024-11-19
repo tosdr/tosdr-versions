@@ -464,7 +464,7 @@ If we publish information that turns out to be inaccurate it is important that t
     * [Privacy policy](https://www.independent.co.uk/service/privacy-notice-a6184181.html)
     * 
     * [User policies](https://www.independent.co.uk/service/user-policies-a6184151.html)
-    * [Modern Slavery Statement](https://www.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
+    * [Modern Slavery Statement](https://static.independent.co.uk/static-assets/IND-Modern-Slavery-Statement-22-23.pdf)
 
 ### Thank you for registering
 
