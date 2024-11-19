@@ -205,25 +205,24 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Yahoo Personals Part 2](https://www.somethingawful.com/comedy-goldmine/yahoo-personals-part-2/1/)
-* [Toys: A Reality](https://www.somethingawful.com/comedy-goldmine/toys-a-reality/1/)
-* [Musical Artists Gone Insane!](https://www.somethingawful.com/comedy-goldmine/musical-artists-gone/1/)
-* [Matrix Explained, Real-Life Superheroes, and SongMeanings](https://www.somethingawful.com/weekend-web/matrix-explained-reallife/1/)
-* [Interview with a Former Porn Star](https://www.somethingawful.com/news/texas-presley-interview/1/)
+* [Zookeeper; Horrible Bosses; Larry Crowne](https://www.somethingawful.com/current-movie-reviews/zookeeper-horrible-bosses/1/)
+* [Lowtax Can't Cook](https://www.somethingawful.com/news/lowtax-cant-cook/)
+* [SparkNotes, Crush Forum, and Runescape](https://www.somethingawful.com/weekend-web/sparknotes-crushtalk-runescape/1/)
+* [ASDA Story](https://www.somethingawful.com/mmo-roulette/asda/1/)
+* [Semi Automatic Turban](https://www.somethingawful.com/awful-links/awful-link-580/)
 
 ### Popular Threads
 
 * ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Declaring my domecile a Christmas Free Zone](http://forums.somethingawful.com/showthread.php?threadid=4075612 "Declaring my domecile a Christmas Free Zone")
-* ![](https://fi.somethingawful.com/forums/posticons/byob-gents.gif) [Let's Make Our Own GBS Adam Sandler Movie](http://forums.somethingawful.com/showthread.php?threadid=4075573 "Let's Make Our Own GBS Adam Sandler Movie")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [Happy International Mens Day](http://forums.somethingawful.com/showthread.php?threadid=4075609 "Happy International Mens Day")
 
 ### Random Articles
 
-* [The Patriot Act II: Electric Boogaloo](https://www.somethingawful.com/news/patriot-act-ii/)
-* [Great Conversations History Missed](https://www.somethingawful.com/news/conversations-history-missed/1/)
-* [The Time Tooth Tooth Reclaimed his Eagle](https://www.somethingawful.com/news/tooth-reclaim-eagle/1/)
-* [Defending the Indefensible: Kings of Leon](https://www.somethingawful.com/garbage-day/kings-leon-sundown/)
-* [My Address to the 17th Annual Show Pig Roundup of Greely, Ohio](https://www.somethingawful.com/news/my-address-17th/)
+* [Unnecessary Advertisements](https://www.somethingawful.com/photoshop-phriday/unnecessary-advertisements/1/)
+* [Are You a Power User?](https://www.somethingawful.com/news/computer-power-user/)
+* [Tales from the Zoo, Part Four](https://www.somethingawful.com/comedy-goldmine/tales-from-zoo-4/1/)
+* [Good Life Decisions (Thanks, Charlie!)](https://www.somethingawful.com/awful-links/life-decisions-zou/)
+* [Meatspin (NOT SAFE FOR WORK)](https://www.somethingawful.com/awful-links/awful-link-3982/)
 
 [Random!](https://www.somethingawful.com/random/)
 
