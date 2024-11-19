@@ -265,7 +265,7 @@ Select State\*AlabamaAlaskaArizonaArkansasCaliforniaColoradoConnecticutDelawareD
 
 Yes! Please have an attorney, paralegal, or staff member from Pintas & Mullins law firm or their co-counsel contact me as soon as possible to discuss my questions. **They may contact me by email or telephone (including text messages, autodialed / auto-selected or pre-recorded and artificial voice calls and the use of artificial intelligence).** I approve the use of call recording and monitoring of all of my inbound and outbound calls with the law firm. I also agree to the [Privacy Policy](https://www.pintas.com/privacy-policy/)[Privacy Policy](https://www.pintas.com/privacy-policy-pr/), and [Terms](https://www.pintas.com/website-terms-of-use/)[online Terms](https://www.pintas.com/website-terms-of-use-pr/), including its mandatory arbitration provision **and allowance of tracking and sharing with third parties information concerning my interacting with this site, but not details of my case.** I understand that my message and data rates may apply and that consent to such contact is not required for use of these services.
 
-Name
+Email
 
 This field is for validation purposes and should be left unchanged.
 
@@ -275,17 +275,17 @@ This field is for validation purposes and should be left unchanged.
 
 #### Frequently Asked Questions
 
-[![What are the standards for disaster preparedness for nursing homes?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-what-are-the-standards-for-disaster-preparedness-in-nursing-homes.jpg "What Are the Standards for Disaster Preparedness for Nursing Homes?")](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/ "What Are the Standards for Disaster Preparedness for Nursing Homes?")
+[![What percentage of workers get lung cancer?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-what-percentage-of-workers-get-lung-cancer.jpg "What Percentage of Workers Get Lung Cancer?")](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/ "What Percentage of Workers Get Lung Cancer?")
 
-[#### What Are the Standards for Disaster Preparedness for Nursing Homes?](https://www.pintas.com/faq/what-are-the-standards-for-disaster-preparedness-in-nursing-homes/)
+[#### What Percentage of Workers Get Lung Cancer?](https://www.pintas.com/lung-cancer/what-percentage-of-workers-get-lung-cancer/)
 
-[![What are the signs of end stage lung cancer?](https://www.pintas.com/wp-content/uploads/2020/04/lung-cancer-lawsuit-lawyer-what-are-the-signs-of-end-stage-lung-cancer.jpg "What Are the Signs of End Stage Lung Cancer?")](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer "What Are the Signs of End Stage Lung Cancer?")
+[![Can you request a second opinion for an autopsy?](https://www.pintas.com/wp-content/uploads/2020/09/faqs-can-you-request-a-second-opinion-for-an-autopsy.jpg "Can You Request a Second Opinion For an Autopsy?")](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/ "Can You Request a Second Opinion For an Autopsy?")
 
-[#### What Are the Signs of End Stage Lung Cancer?](https://www.pintas.com/practice-areas/lung-cancer/signs-of-end-stage-lung-cancer)
+[#### Can You Request a Second Opinion For an Autopsy?](https://www.pintas.com/faq/can-you-request-a-second-opinion-for-an-autopsy/)
 
-[![How do i know if a dog bite is infected?](https://www.pintas.com/wp-content/uploads/2023/06/dog-bite-hero-300x211.jpg "How Do I Know if a Dog Bite Is Infected?")](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected "How Do I Know if a Dog Bite Is Infected?")
+[![Can roundup cause cancer in dogs?](https://www.pintas.com/wp-content/uploads/2020/07/lung-cancer-can-roundup-cause-cancer-in-dogs.jpg "Can Roundup Cause Cancer in Dogs?")](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/ "Can Roundup Cause Cancer in Dogs?")
 
-[#### How Do I Know if a Dog Bite Is Infected?](https://www.pintas.com/practice-areas/dog-bite-lawyer/how-to-tell-if-a-bite-is-infected)
+[#### Can Roundup Cause Cancer in Dogs?](https://www.pintas.com/lawsuit/roundup-weed-killer/can-roundup-cause-cancer-in-dogs/)
 
 ### Injured?  
 Tell Us What Happened.
