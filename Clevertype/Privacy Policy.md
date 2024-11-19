@@ -2,9 +2,9 @@
 
 top of page
 
-![](https://static.wixstatic.com/media/fc7570_55904e96536049abacddde7e435df85b~mv2.png/v1/fill/w_96,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_auto/fc7570_55904e96536049abacddde7e435df85b~mv2.png)
+![](https://static.wixstatic.com/media/fc7570_55904e96536049abacddde7e435df85b~mv2.png/v1/fill/w_96,h_58,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/fc7570_55904e96536049abacddde7e435df85b~mv2.png)
 
-[![header.png](https://static.wixstatic.com/media/b66ec7_f72782fe63b74068b1e82b34828385a0~mv2.png/v1/fill/w_195,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/header.png)](https://www.clevertype.co/)
+[![header.png](https://static.wixstatic.com/media/b66ec7_f72782fe63b74068b1e82b34828385a0~mv2.png/v1/fill/w_195,h_38,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/header.png)](https://www.clevertype.co/)
 
 * [Pricing](https://clevertype.web.app/pricing)
 * [Blog](https://www.clevertype.co/blog)
@@ -267,11 +267,11 @@ Thank you for taking the time to read our Privacy Policy!
 CleverType Now!
 ---------------
 
-[![GetItOnGooglePlay.png](https://static.wixstatic.com/media/b66ec7_63222b998b1d42a69b34d5e3fcbf9689~mv2.png/v1/fill/w_147,h_45,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/GetItOnGooglePlay.png)](https://play.google.com/store/apps/details?id=com.clevertype.ai.keyboard&referrer=utm_source%3Dwebsite%26utm_medium%3Dfooter)
+[![GetItOnGooglePlay.png](https://static.wixstatic.com/media/b66ec7_63222b998b1d42a69b34d5e3fcbf9689~mv2.png/v1/fill/w_147,h_45,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/GetItOnGooglePlay.png)](https://play.google.com/store/apps/details?id=com.clevertype.ai.keyboard&referrer=utm_source%3Dwebsite%26utm_medium%3Dfooter)
 
-[![GetItOnApple.png](https://static.wixstatic.com/media/b66ec7_ee76f3be034e42a5b1ec479379f8d887~mv2.png/v1/fill/w_160,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/GetItOnApple.png)](https://apps.apple.com/us/app/clevertype-ai-keyboard/id6560110828)
+[![GetItOnApple.png](https://static.wixstatic.com/media/b66ec7_ee76f3be034e42a5b1ec479379f8d887~mv2.png/v1/fill/w_160,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/GetItOnApple.png)](https://apps.apple.com/us/app/clevertype-ai-keyboard/id6560110828)
 
-[![GetItOnDesktop.png](https://static.wixstatic.com/media/b66ec7_18e4aaf0bb97401d8b0de170cebc32ac~mv2.png/v1/fill/w_160,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_auto/GetItOnDesktop.png)](https://chromewebstore.google.com/detail/clevertype/kmegkapfhhgoflknlihfbpmhfmmhblbf)
+[![GetItOnDesktop.png](https://static.wixstatic.com/media/b66ec7_18e4aaf0bb97401d8b0de170cebc32ac~mv2.png/v1/fill/w_160,h_49,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/GetItOnDesktop.png)](https://chromewebstore.google.com/detail/clevertype/kmegkapfhhgoflknlihfbpmhfmmhblbf)
 
 © 2024 by CleverType
 
