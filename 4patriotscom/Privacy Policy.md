@@ -194,61 +194,17 @@ Search
     
     [Lanterns & Lighting](https://4patriots.com/category/solar-power/solar-lanterns-lighting)[RV & Camping](https://4patriots.com/category/rv-camping)[Home & Health](https://4patriots.com/category/home-health)[Subscriptions](https://4patriots.com/category/subscriptions)[Kits & Bundles](https://4patriots.com/category/solar-food-combo-kits)[Emergency Essentials](https://4patriots.com/category/emergency-essentials)[As Seen on TV](https://4patriots.com/category/as-seen-on-tv)[🎄 **Gift Guide**](https://4patriots.com/category/gift-guide)[**Deals**](https://4patriots.com/category/deals)
     
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-HXT-ROADSIDE-630x1052.jpg)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://s3-us-west-2.amazonaws.com/catsy.1040/SITE-AD-2403-HXT-ROADSIDE-854x674.jpg)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=452)](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
     
     ###### Best Seller
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    ###### The MacGyver of Flashlights.
+    ###### The Gift of Preparedness
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
-    [Shop Halo-XT Flashlight](https://4patriots.com/product/haloxt-tactical-9-in-1-solar-flashlight?from=%2Fsearch)
-    
-    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
-    
-    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
-    
-* [Deals](https://4patriots.com/category/deals)
-    
-    ###### Featured Deals
-    
-    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
-    
-    [Shop All](https://4patriots.com/category/deals)
-    
-    [![](https://assets.catsy.com/catsy.1040/MENU-2403-PPGS-LIFESTYLE-OUTDOORS-854x674.jpg)](https://4patriots.com/category/solar-food-combo-kits)[Bundle & Save](https://4patriots.com/category/solar-food-combo-kits)
-    
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-FBR-LIFESTYLE-KITCHEN-854x674.jpg)](https://4patriots.com/product/emergency-food-ration-bars)["No Prep" Emergency Food Bars](https://4patriots.com/category/water-filtration/long-term-water-storage)
-    
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
-    
-    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
-    
-    ###### Featured Early Black Friday Deals
-    
-    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
-    
-    [Shop All](https://4patriots.com/category/deals)
-    
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
-    
-    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F68945a4346ea4469947e8aeca804706c?width=343)
-    
-    Survival Food Cooking Deal](https://4patriots.com/product/food-fire-emergency-cooking-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
-    
-    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
-    
-    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
-    
-    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
-    
-    ###### Early Black Friday Deals Start Now
-    
-    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
-    
-    [Shop Now](https://4patriots.com/category/deals)
+    [Shop the Gift Guide](https://4patriots.com/category/gift-guide)
     
     ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
     
@@ -285,6 +241,50 @@ Search
     Fruits, Veggies & FREE Gifts](https://4patriots.com/product/fruit-veggie-snacks-emergency-survival-food-kit)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F48b6561e88044a87b1e905c49bcb6088?width=343)
     
     TSA-Approved Power Bank](https://4patriots.com/product/patriot-power-cell-cx-portable-solar-power-bank)
+    
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
+    
+    ###### Early Black Friday Deals Start Now
+    
+    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+    
+    [Shop Now](https://4patriots.com/category/deals)
+    
+    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+    
+    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+    
+* [Deals](https://4patriots.com/category/deals)
+    
+    ###### Featured Deals
+    
+    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+    
+    [Shop All](https://4patriots.com/category/deals)
+    
+    [![](https://assets.catsy.com/catsy.1040/MENU-2403-PPGS-LIFESTYLE-OUTDOORS-854x674.jpg)](https://4patriots.com/category/solar-food-combo-kits)[Bundle & Save](https://4patriots.com/category/solar-food-combo-kits)
+    
+    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-FBR-LIFESTYLE-KITCHEN-854x674.jpg)](https://4patriots.com/product/emergency-food-ration-bars)["No Prep" Emergency Food Bars](https://4patriots.com/category/water-filtration/long-term-water-storage)
+    
+    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
+    
+    [![](https://s3-us-west-2.amazonaws.com/catsy.1040/MENU-2410-PPGS-X-LIFESTYLE-OUTDOORS-854x674.jpg )](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)["Ultracharge" Backup Power Package](https://4patriots.com/product/ultracharge-patriot-power-generator-2000x-sidekick-bundle)﻿
+    
+    ###### Featured Early Black Friday Deals
+    
+    ![](https://cdn.builder.io/api/v1/pixel?apiKey=1adbd5971dac4273891f273603729777)
+    
+    [Shop All](https://4patriots.com/category/deals)
+    
+    [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F1abd78e7a79a48ddb14cce805c8646b8?width=343)
+    
+    B1G1 Mini Generator Deal](https://4patriots.com/product/supercharge-patriot-power-generator-1800-sidekick-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F68945a4346ea4469947e8aeca804706c?width=343)
+    
+    Survival Food Cooking Deal](https://4patriots.com/product/food-fire-emergency-cooking-bundle)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F18eb4df89fce447fb8df45519e514965?width=343)
+    
+    "Mini" Cooler & Warmer](https://4patriots.com/product/freedom-fridge-electric-cooler-warmer)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F53b2f8faa63c483aab46b333e5c6123b?width=343)
+    
+    #1 Emergency Kit for Cars](https://4patriots.com/product/patriot-power-all-in-one-emergency-car-kit-95-pieces)
     
     [![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2Fafe30086aaf54c3191129ed6c3913c9b?width=500)](https://4patriots.com/category/deals)[![](https://cdn.builder.io/api/v1/image/assets%2F1adbd5971dac4273891f273603729777%2F4a521c4c3a8f4b5f8006029711027a7c?width=638)](https://4patriots.com/product/emergency-food-ration-bars)
     
