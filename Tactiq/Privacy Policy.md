@@ -28,6 +28,10 @@ Install the bot-free Tactiq extension](https://tactiq.io/chrome-extension)
 
 #### Post-meeting
 
+[Workflows
+
+New](https://tactiq.io/workflows)
+
 [Summaries](https://tactiq.io/features/summaries)
 
 [Action items](https://tactiq.io/features/action-items)
@@ -280,7 +284,9 @@ Summary of updates:
 
 ###### Product  
 
-[How it works](https://tactiq.io/howitworks)[Integrations](https://tactiq.io/integrations)[Pricing](https://tactiq.io/buy)[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)[Customer meetings](https://tactiq.io/use-cases/customer-meetings)[Team meetings](https://tactiq.io/use-cases/team-meetings)
+[How it works](https://tactiq.io/howitworks)[Integrations](https://tactiq.io/integrations)[Pricing](https://tactiq.io/buy)[Vision](https://tactiq.io/vision)[Impact](https://tactiq.io/impact)[Customer meetings](https://tactiq.io/use-cases/customer-meetings)[Team meetings](https://tactiq.io/use-cases/team-meetings)[Workflows
+
+New](https://tactiq.io/workflows)
 
 ###### Resources  
 
