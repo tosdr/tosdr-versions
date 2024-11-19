@@ -4,11 +4,17 @@
 
 [](https://www.tellwut.com/)
 
-[![Open Sweepstake](/images/sweepstake.png)](javascript:void(0);)Sign Up Login
+[![Open Sweepstake](/images/sweepstake.png)](javascript:void(0);)
+
+Sign Up
+
+Login
 
 EARN
 
 REWARDS LIVE
+
+[![Open Sweepstake](/images/sweepstake.png)](javascript:void(0);)
 
 ##### Sweepstake Information
 
@@ -385,9 +391,9 @@ Tellwut has a very active voter panel which can provide you with an instantaneou
 * [Affiliate](https://www.tellwut.com/affiliates)
 * [Advertising](https://www.tellwut.com/advertising)
 
-* Surveys: **91,475**
+* Surveys: **91,484**
 
-* Voters: **2,965,774**
+* Voters: **2,966,205**
 
 * Light / Dark / Auto
 
