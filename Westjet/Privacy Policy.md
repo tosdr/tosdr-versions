@@ -534,7 +534,7 @@ Help
 ----
 
 * [Lost luggage](https://www.westjet.com/en-ca/baggage/lost-delayed-damaged)
-* [Great jobs](https://www.westjet.com/en-ca/careers)
+* [Great careers](https://www.westjet.com/en-ca/careers)
 * [FAQs](https://www.westjet.com/en-ca/help)
 * [Travel Agents](https://www.westjettravelagents.com/)﻿
 * [Flight interruptions and passenger rights](https://www.westjet.com/en-ca/interruptions)
