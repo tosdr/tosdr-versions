@@ -115,7 +115,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 [NEW
 
-![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw32483fad/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit)
+![Wired Floodlight](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw28d3beda/Products/HiRes%20Images/Wired%20Floodlight/wired-fl-right-w.png?sw=840&sh=723&sm=fit)
 
 Wired Floodlight
 
@@ -242,7 +242,7 @@ From $79.99](https://www.arlo.com/en-us/doorbell/AVD3001-100NAS.html)
 
 [NEW
 
-![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw32483fad/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
+![Wired Floodlight](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw28d3beda/Products/HiRes%20Images/Wired%20Floodlight/wired-fl-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
 
 Wired Floodlight
 
@@ -396,7 +396,7 @@ Security Plans
         
         * [NEW
             
-            ![Arlo Wired Floodlight, in white, facing right](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw32483fad/Products/HiRes%20Images/Wired%20Floodlight/wired-floodlight-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
+            ![Wired Floodlight](https://www.arlo.com/dw/image/v2/BDFZ_PRD/on/demandware.static/-/Sites-master-catalog-arlo/default/dw28d3beda/Products/HiRes%20Images/Wired%20Floodlight/wired-fl-right-w.png?sw=840&sh=723&sm=fit "Wired Floodlight")
             
             Wired Floodlight
             
