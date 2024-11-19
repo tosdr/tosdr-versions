@@ -1,15 +1,4 @@
-Monday, November 18 2024
-
-Breaking News
-
-* [If You Think Kamala Harris Was Serious About The Things She Promised During The Recent Presidential Campaign, You’re Dead Wrong](https://www.conservativedailynews.com/2024/11/if-you-think-kamala-harris-was-serious-about-the-things-she-promised-during-the-recent-presidential-campaign-youre-dead-wrong/)
-* [Jen Psaki Admits Dems Are ‘In The Wilderness’ Without A ‘Clear Leader Of The Party’](https://www.conservativedailynews.com/2024/11/jen-psaki-admits-dems-are-in-the-wilderness-without-a-clear-leader-of-the-party/)
-* [Now an Excellent Time to Add 4 more Justices of the Supreme Court](https://www.conservativedailynews.com/2024/11/now-an-excellent-time-to-add-4-more-justices-of-the-supreme-court/)
-* [Trump Confirms He Will Declare National Emergency, Use Military Assets For Mass Deportation](https://www.conservativedailynews.com/2024/11/trump-confirms-he-will-declare-national-emergency-use-military-assets-for-mass-deportation/)
-* [Baseless Assaults Will Fill The Airwaves Until Nominations Complete](https://www.conservativedailynews.com/2024/11/baseless-assaults-will-fill-the-airwaves-until-nominations-complete/)
-* [Medal of Honor Monday: Army Sgt. 1st Class Sammy Lee Davis](https://www.conservativedailynews.com/2024/11/medal-of-honor-monday-army-sgt-1st-class-sammy-lee-davis/)
-* [President Joe Biden’s Schedule for Monday, November 18, 2024](https://www.conservativedailynews.com/2024/11/president-joe-bidens-schedule-for-monday-november-18-2024/)
-* [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/)
+Tuesday, November 19 2024
 
 * [RSS](https://www.conservativedailynews.com/news-feeds/)
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
@@ -181,16 +170,16 @@ Recent Posts
 
 [![RSS](https://www.conservativedailynews.com/wp-includes/images/rss.png)](https://www.thegunpage.com/category/best-gun-news/posted-1/feed) [Second Amendment News](https://www.thegunpage.com/)
 
+* [Meet one of the country’s worst sheriffs](https://www.thegunpage.com/meet-one-of-the-countrys-worst-sheriffs/10611966)
+* [2024 Holiday Gift Guide: Pistols](https://www.thegunpage.com/2024-holiday-gift-guide-pistols/10611965)
+* [TFB Review: New AR-15 Accessories from F.A.B. Defense](https://www.thegunpage.com/tfb-review-new-ar-15-accessories-from-f-a-b-defense/10611962)
+* [POTD: Flying Heckler & Kochs](https://www.thegunpage.com/potd-flying-heckler-kochs/10611963)
 * [The Rimfire Report: Why Aren't .17HMR & .22WMR More Popular?](https://www.thegunpage.com/the-rimfire-report-why-arent-17hmr-22wmr-more-popular/10611960)
 * [Gun Control Groups Fail to See Difference in Charitable Fundraising with Firearms and Criminal Use of Firearms](https://www.thegunpage.com/gun-control-groups-fail-to-see-difference-in-charitable-fundraising-with-firearms-and-criminal-use-of-firearms/10611957)
 * [Michigan Using Gun-Free Zones To Subvert The Right To Carry](https://www.thegunpage.com/michigan-using-gun-free-zones-to-subvert-the-right-to-carry/10611954)
 * [Memphis City Leaders Just Keep Pushing Their Anti-Gun Schemes](https://www.thegunpage.com/memphis-city-leaders-just-keep-pushing-their-anti-gun-schemes/10611950)
 * [Collegiate Rifle: Akron Just Misses The Mark In Weekend Trifecta Against Navy, Nebraska](https://www.thegunpage.com/collegiate-rifle-akron-just-misses-the-mark-in-weekend-trifecta-against-navy-nebraska/10611956)
 * [TFB Weekly Web Deals 114: Deals for November 18th, 2024](https://www.thegunpage.com/tfb-weekly-web-deals-114-deals-for-november-18th-2024/10611949)
-* [Pennsylvania District Attorney Suing To Allow Medical Marijuana Users Firearms Access](https://www.thegunpage.com/pennsylvania-district-attorney-suing-to-allow-medical-marijuana-users-firearms-access/10611948)
-* [Team Savage’s Matt Alwine Wins Production Division Title At 2024 PRS Finale](https://www.thegunpage.com/team-savages-matt-alwine-wins-production-division-title-at-2024-prs-finale/10611952)
-* [New Pistol Records Set At 2024 CMP Western Games](https://www.thegunpage.com/new-pistol-records-set-at-2024-cmp-western-games/10611953)
-* [Achieve Next-Level Training with the Strikeman X SIRT Dry-Fire Laser Training Pistol](https://www.thegunpage.com/achieve-next-level-training-with-the-strikeman-x-sirt-dry-fire-laser-training-pistol/10611940)
 
 [![ Conservative Political Blogs](https://blog.feedspot.com/wp-content/uploads/2016/12/conservative_political_216px.png?x58297)](https://blog.feedspot.com/conservative_political_blogs/ "Conservative Political Blogs")
 
@@ -229,18 +218,6 @@ Contact Us
 * [Facebook](https://www.facebook.com/ConservativeDailyNews/)
 * [X](https://twitter.com/CDNPosts)
 * [Telegram](https://t.me/CDNMedia)
-
-Recent Comments
-
-* Stanley Warner on [Five Government Programs That Musk’s Government Efficiency Agency Could Put On The Chopping Block](https://www.conservativedailynews.com/2024/11/five-government-programs-that-musks-government-efficiency-agency-could-put-on-the-chopping-block/#comment-783286)
-* Stanley Warner on [Trump Sends His Clearest Message Yet To DOJ Bureaucrats With Unexpected Leadership Picks](https://www.conservativedailynews.com/2024/11/trump-sends-his-clearest-message-yet-to-doj-bureaucrats-with-unexpected-leadership-picks/#comment-783285)
-* Beverly Sellers on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783274)
-* Stanley Warner on [Trump Puts Bureaucrats Behind America’s Bungled Education System On Notice](https://www.conservativedailynews.com/2024/11/trump-puts-bureaucrats-behind-americas-bungled-education-system-on-notice/#comment-783269)
-* Stanley Warner on [Can A FOX Weekend Host Run Our Military? Absolutely](https://www.conservativedailynews.com/2024/11/can-a-fox-weekend-host-run-our-military-absolutely/#comment-783268)
-* Stanley Warner on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783267)
-* Ted Thomas on [The Voters Have Made Their Decision: The Real Evil In American Politics is…The Democrats](https://www.conservativedailynews.com/2024/11/the-voters-have-made-their-decision-the-real-evil-in-american-politics-is-the-democrats/#comment-783266)
-* Stanley Warner on [May God Bless Donald Trump And His Presidency](https://www.conservativedailynews.com/2024/11/may-god-bless-donald-trump-and-his-presidency/#comment-783259)
-* Stanley Warner on [A Lesson For Democrats — Don’t Be Weird](https://www.conservativedailynews.com/2024/11/a-lesson-for-democrats-dont-be-weird/#comment-783258)
 
 [Close](#)
 
