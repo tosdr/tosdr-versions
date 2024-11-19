@@ -1,6 +1,6 @@
 [Skip To Content](#page-content-section) [Skip To Navigation](#)
 
-[$10k Sparkle Spree! Enter to Win $10,000. Terms Apply >](https://www.shaneco.com/10ksparklespree?promo_name=global_holidaygiveaway) [Free Express Shipping & Free 60-Day Returns](https://www.shaneco.com/customer-service/shipping?promo_name=global_shipping)
+[Win $10,000 to Spend on Fine Jewelry. Ends 11/24, Terms Apply >](https://www.shaneco.com/10ksparklespree?promo_name=global&promo_id=holidaygiveaway) [Get an Engagement Ring for Thanksgiving! Order by Sat 11/23 Noon MST.](https://www.shaneco.com/engagement-rings/c?promo_name=global_thanksgiving)
 
 **Item**  has been added to your bag
 
