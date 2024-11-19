@@ -198,7 +198,7 @@ Supercharge Your Voice
 © 2024 Voicemod Inc., Sucursal en España
 
 * [Legal](https://www.voicemod.net/en/legal/ "Legal")
-* [Privacy Policy](https://www.voicemod.net/en/privacy/ "Privacy Policy")
+* [Privacy Policy](https://www.voicemod.net/en/?page_id=3693 "Privacy Policy")
 * [Terms of Use](https://www.voicemod.net/en/terms-of-use/ "Terms of Use")
 * [Cookies Policy](https://www.voicemod.net/en/cookies-policy/ "Cookies Policy")
 * [3rd Party Software](https://voicemod.notion.site/3ce7ec8daebb4d228b2bf2310daeccd5 "3rd Party Software")
