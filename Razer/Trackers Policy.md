@@ -1437,13 +1437,15 @@ Your Cart is empty.
 
 Pick the perfect gifts for every kind of gamer with our Razer Holiday Gift Guide. [Shop Now \>](https://www.razer.com/campaigns/year-end-gift-guide)
 
-RAZER LEGAL
-===========
-
 RAZER COOKIE POLICY
--------------------
+===================
 
 Cookie Settings Cookie 设置 Cookie 設置 Paramètres des cookies Cookie-Einstellungen Impostazioni cookie Cookie 設定 쿠키 설정 Configuración de cookies Definições de cookies إعدادات ملف تعريف الارتباط ကွတ်ကီးဆက်တင်များ การตั้งค่าคุกกี้ Tanımlama Bilgisi Ayarları Cài đặt cookie Pengaturan Cookie
+
+Cookie List
+-----------
+
+A cookie is a small piece of data (text file) that a website – when visited by a user – asks your browser to store on your device in order to remember information about you, such as your language preference or login information. Those cookies are set by us and called first-party cookies. We also use third-party cookies – which are cookies from a domain different than the domain of the website you are visiting – for our advertising and marketing efforts. More specifically, we use cookies and other tracking technologies for the following purposes:
 
 Shop
 
