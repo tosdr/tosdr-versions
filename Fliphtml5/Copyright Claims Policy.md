@@ -45,7 +45,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
     * [All Features](https://fliphtml5.com/features/)
     
-     [![discover-features-of-fliphtml5-online-flipbook-maker](/images/header/discover-features-of-fliphtml5-online-flipbook-maker.png)](https://fliphtml5.com/features/)
+     [![discover features of fliphtml5 online flipbook maker](/images/header/discover-features-of-fliphtml5-online-flipbook-maker.png)](https://fliphtml5.com/features/)
     
 * [Explore](https://fliphtml5.com/exploring/)
     
@@ -74,7 +74,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     
     [All Categories](https://fliphtml5.com/exploring/)
     
-     ![1_convert_pdf_into_flipbooks_fliphtml5](/images/header/explore-digital-publications-with-fliphtml5.png)
+     ![1 convert pdf into flipbooks fliphtml5](/images/header/explore-digital-publications-with-fliphtml5.png)
     
 * [Templates](https://fliphtml5.com/templates/)
     
@@ -98,7 +98,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Newspaper](https://fliphtml5.com/templates/newspaper/)
     [All Templates](https://fliphtml5.com/templates/)
     
-     [![free-online-template-customize-fliphtml5](/images/header/free-online-template-customize-fliphtml5.png)](https://fliphtml5.com/templates/)
+     [![free online template customize fliphtml5](/images/header/free-online-template-customize-fliphtml5.png)](https://fliphtml5.com/templates/)
     
 * [Solutions](https://fliphtml5.com/learning-center/solutions/)
     
@@ -143,7 +143,7 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
     * [Cookbook](https://fliphtml5.com/learning-center/create/digital-cookbook/)
     * [All Articles](https://fliphtml5.com/learning-center/create/)
     
-     [![Digital-Publishing-Solution-for-All-Industries-fliphtml5](/images/header/Digital-Publishing-Solution-for-All-Industries-fliphtml5.png)](https://fliphtml5.com/learning-center/create/)
+     [![Digital Publishing Solution for All Industries fliphtml5](/images/header/Digital-Publishing-Solution-for-All-Industries-fliphtml5.png)](https://fliphtml5.com/learning-center/create/)
     
 * [Support](https://help.fliphtml5.com/)
     
@@ -373,38 +373,26 @@ Enjoying your free trial? Only 9 days left! Upgrade Now
 
  DMCA Policy
 
-Updated on July 30th, 2021
+Updated on November 18th, 2024
 
 DMCA Policy
 -----------
 
 ### **Zero Tolerance For Copyright Infringement**
 
-FlipHTML5 respects the intellectual property rights of others just as it expects third parties to respect its rights. Pursuant to the Digital Millennium Copyright Act (DMCA) (17 U.S.C. § 512), FlipHTML5 has implemented procedures for receiving written notification of claimed infringements as set forth herein. **It is** FlipHTML5's **policy to promptly respond to clear notices of alleged copyright infringement that comply with the Digital Millennium Copyright Act. In addition, we will promptly terminate without notice the accounts of those determined by us to be "repeat infringers";**
+FlipHTML5 respects the intellectual property rights of others and expects third parties to respect its rights in return. Pursuant to the Digital Millennium Copyright Act (DMCA) (17 U.S.C. § 512), FlipHTML5 has implemented procedures for receiving and processing clear notices of claimed copyright infringements. It is our policy to respond promptly to valid DMCA takedown requests and to take action in accordance with the law. We may also terminate, without notice, the accounts of users who are deemed "repeat infringers."
 
-If you have come across content hosted on our website that infringes your copyright, please let us know by sending us an email at [\[email protected\]](https://fliphtml5.com/cdn-cgi/l/email-protection).
+### **Counter-Notices**
 
-To submit a good faith infringement claim to us, you must submit notice to us that sets forth the following information:
+If you believe your content was removed in error, you may submit a copyright counter-notice through Google’s DMCA counter-notice form. If Google determines that the counter-notice is valid and the content is restored, please contact our support team to restore it on FlipHTML5.
 
-1) The URL of the offending publication hosted on our web;
+### **Important Notice**
 
-2) A description of the copyrighted work that you claim has been infringed;
+Under Section 512(f) of the DMCA, anyone who knowingly misrepresents material as infringing may be subject to liability. This policy is intended to comply with applicable laws and should not be construed as legal advice. For legal advice, please consult your attorney.
 
-3) An electronic signature of the person authorized to act on behalf of the owner of the copyright interest;
+### **Modifications**
 
-4) Your telephone number and e-mail address;
-
-5) A statement that the complaining party has a good faith belief that the use of the material is unauthorized by the copyright agent; and
-
-6) A statement that the information in the notification is accurate, and, under penalty of perjury, that the complaining party is authorized to act on behalf of the copyright owner.
-
-Once we receive your claims, we will check it and remove the book or directly disable the users' accounts.
-
-Please note that under Section 512(f) of the DMCA, any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability.
-
-### **MODIFICATIONS**
-
-FlipHTML5 reserves the right to modify the contents of this page and its policy for handling DMCA claims at any time for any reason. You are encouraged to check back to review this policy frequently for any changes.
+FlipHTML5 reserves the right to modify this page and its DMCA policy at any time. Please review this policy regularly to stay informed of any updates.
 
 * Company
 * [Home](https://fliphtml5.com/)
