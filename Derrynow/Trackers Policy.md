@@ -56,7 +56,7 @@ Search
 
 [![Home](images/logos/21/logo_white.jpg?v=1696508508227 "Home")](https://www.derrynow.com/)
 
-18 Nov 2024
+19 Nov 2024
 
 * [Home
     
@@ -259,29 +259,6 @@ Advertise with Us
 
 Most Popular
 
-[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
-
-[Deaths](https://www.derrynow.com/section/977/deaths)
-
-[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
-------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Larne boss Lynch possible contender to replace Higgins](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Larne boss Lynch possible contender to replace Higgins")](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
-
-Larne boss Tiernan Lynch could be in line to replace Ruaidhri Higgins. (Photo: Ben McShane/Sportsfile)
-
-[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
-
-[Larne boss Lynch possible contender to replace Higgins](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Woman accused of urinating beside toilet in police cell given final warning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman accused of urinating beside toilet in police cell given final warning")](https://www.derrynow.com/news/local-news/1658466/woman-accused-of-urinating-beside-toilet-in-police-cell-given-final-warning.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[Woman accused of urinating beside toilet in police cell given final warning](https://www.derrynow.com/news/local-news/1658466/woman-accused-of-urinating-beside-toilet-in-police-cell-given-final-warning.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 [![Higgins family hits back with staunch defence of former Derry City manager](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Higgins family hits back with staunch defence of former Derry City manager")](https://www.derrynow.com/news/derry-sport/1658403/higgins-family-hits-back-with-staunch-defence-of-former-derry-city-manager.html)
 
 Higgins led Derry City to two FAI Cup finals in three years. (Photo: Ben McShane/Sportsfile)
@@ -297,6 +274,29 @@ Higgins led Derry City to two FAI Cup finals in three years. (Photo: Ben McShane
 
 [Derry man who ‘flouted his bail conditions’ remanded in custody](https://www.derrynow.com/news/local-news/1658448/derry-man-who-flouted-his-bail-conditions-remanded-in-custody.html)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Woman accused of urinating beside toilet in police cell given final warning](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Woman accused of urinating beside toilet in police cell given final warning")](https://www.derrynow.com/news/local-news/1658466/woman-accused-of-urinating-beside-toilet-in-police-cell-given-final-warning.html)
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Woman accused of urinating beside toilet in police cell given final warning](https://www.derrynow.com/news/local-news/1658466/woman-accused-of-urinating-beside-toilet-in-police-cell-given-final-warning.html)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry Death Notices - Monday](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry Death Notices - Monday")](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+
+[Deaths](https://www.derrynow.com/section/977/deaths)
+
+[Derry Death Notices - Monday, November 18, 2024](https://www.derrynow.com/news/deaths/1656855/derry-death-notices-monday-november-18-2024.html)
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Larne boss Lynch possible contender to replace Higgins](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Larne boss Lynch possible contender to replace Higgins")](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
+
+Larne boss Tiernan Lynch could be in line to replace Ruaidhri Higgins. (Photo: Ben McShane/Sportsfile)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Larne boss Lynch possible contender to replace Higgins](https://www.derrynow.com/news/derry-sport/1658393/larne-boss-lynch-possible-contender-to-replace-higgins.html)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![ALERT: Women warned to be vigilant following 'strange' man sighting](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Women warned to be vigilant following 'strange' man sighting")](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
 
@@ -316,19 +316,19 @@ Mark McGuinness and Anthony Gordon (credit - Mark McGuinness Instagram)
 [The Republic of Ireland's newest international and his connection to Derry](https://www.derrynow.com/news/derry-sport/1658358/the-republic-of-ireland-s-newest-international-and-his-connection-to-derry.html)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+[![IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar")](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+
+[Pictures & Videos](https://www.derrynow.com/section/981/multimedia)
+
+[IN PICTURES: Derry fundraising quiz for Gaza in The Rocking Chair Bar](https://www.derrynow.com/story-telling/pictures---videos/1657935/in-pictures-derry-fundraising-quiz-for-gaza-in-the-rocking-chair-bar.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![County Derry woman jailed for 12 months after being convicted of drug offences](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "County Derry woman jailed for 12 months after being convicted of drug offences")](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
 
 [Local News](https://www.derrynow.com/section/975/news)
 
 [County Derry woman jailed for 12 months after being convicted of drug offences](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Warning to Derry residents about council service delays due to weather](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Warning to Derry residents about council service delays due to weather")](https://www.derrynow.com/news/derry-news/1658444/warning-to-derry-residents-about-council-service-delays-due-to-weather.html)
-
-[Derry News](https://www.derrynow.com/section/999/derry-news)
-
-[Warning to Derry residents about council service delays due to weather](https://www.derrynow.com/news/derry-news/1658444/warning-to-derry-residents-about-council-service-delays-due-to-weather.html)
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 [![Benone](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Benone")](https://www.derrynow.com/news/county-derry-post/1658546/full-house-as-residents-and-stakeholders-gather-to-discuss-future-of-benone-holiday-and-leisure-park-complex.html)
 
@@ -517,7 +517,41 @@ Advertise with Us
 
 [](https://www.derrynow.com/section/975/news)
 
-[![Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)")](https://www.derrynow.com/news/derry-news/1658306/the-long-winding-road-for-derry-from-mickey-harte-to-paddy-tally.html)
+[![Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)")](https://www.derrynow.com/news/gaa/1658800/merciless-magherafelt-waltz-into-ulster-u16-club-championship-semi-final.html)
+
+Kian Haynes under pressure form Joe Boylan (credit: Martin McGlone)
+
+[GAA](https://www.derrynow.com/section/1060/gaa)
+
+[Merciless Magherafelt waltz into Ulster U16 Club Championship semi final](https://www.derrynow.com/news/gaa/1658800/merciless-magherafelt-waltz-into-ulster-u16-club-championship-semi-final.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Fire crews currently attending vehicle fire close to Claudy village](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "Fire crews currently attending vehicle fire close to Claudy village")](https://www.derrynow.com/news/home/1658946/fire-crews-currently-attending-vehicle-fire-close-to-claudy-village.html)
+
+Fire fighters are currently at the scene.
+
+[Home](https://www.derrynow.com/)
+
+[Fire crews currently attending vehicle fire close to Claudy village](https://www.derrynow.com/news/home/1658946/fire-crews-currently-attending-vehicle-fire-close-to-claudy-village.html)
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Northlands Centre to celebrate 50 years of service with a special New Year’s Day Dip](https://www.derrynow.com/resizer/165/93/true/2024_11_18/IDNM_18-11-24_Northlands_Centre_30169261-1731927303932.jpg--.jpg?1731927304004 "Northlands Centre to celebrate 50 years of service with a special New Year’s Day Dip")](https://www.derrynow.com/news/local-news/1658387/northlands-centre-to-celebrate-50-years-of-service-with-a-special-new-years-day-dip.html)
+
+Northlands Addiction Treatment Centre is set to celebrate its 50th anniversary.
+
+[Local News](https://www.derrynow.com/section/975/news)
+
+[Northlands Centre to celebrate 50 years of service with a special New Year’s Day Dip](https://www.derrynow.com/news/local-news/1658387/northlands-centre-to-celebrate-50-years-of-service-with-a-special-new-years-day-dip.html)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Tiernan Lynch has agreed to become the new Derry City manager](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Tiernan_Lynch-1731958427724_1731958610.jpg--.jpg?1731958610892 "Tiernan Lynch has agreed to become the new Derry City manager")](https://www.derrynow.com/news/derry-sport/1658911/tiernan-lynch-has-agreed-to-become-the-new-derry-city-manager.html)
+
+[Derry Sport](https://www.derrynow.com/section/1064/local-sport)
+
+[Tiernan Lynch has agreed to become the new Derry City manager](https://www.derrynow.com/news/derry-sport/1658911/tiernan-lynch-has-agreed-to-become-the-new-derry-city-manager.html)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+[![Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Derry_manager-1731923975975.PNG--.PNG?1731923976037 "Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)")](https://www.derrynow.com/news/derry-news/1658306/the-long-winding-road-for-derry-from-mickey-harte-to-paddy-tally.html)
 
 Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)
 
@@ -526,7 +560,7 @@ Derry manager Paddy Tally (credit: Margaret McLaughlin - Derry GAA Facebook)
 [The long winding road for Derry from Mickey Harte to Paddy Tally](https://www.derrynow.com/news/derry-news/1658306/the-long-winding-road-for-derry-from-mickey-harte-to-paddy-tally.html)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![ALERT: Women warned to be vigilant following 'strange' man sighting](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7 "ALERT: Women warned to be vigilant following 'strange' man sighting")](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
+[![ALERT: Women warned to be vigilant following 'strange' man sighting](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Screenshot_2024-11-18_123910-1731933605844.png--.png?1731933605931 "ALERT: Women warned to be vigilant following 'strange' man sighting")](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
 
 Image: Pixabay
 
@@ -534,40 +568,6 @@ Image: Pixabay
 
 [ALERT: Derry women warned to be vigilant following strange man sightings](https://www.derrynow.com/news/home/1658561/alert-county-derry-women-warned-to-be-vigilant-following-strange-man-sightings.html)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![County Derry woman jailed for 12 months after being convicted of drug offences](https://www.derrynow.com/resizer/165/93/true/2022_04_26/Untitled_design_-_2022-04-26T133706.560-1650977110783.jpg--.jpg?1650977112033 "County Derry woman jailed for 12 months after being convicted of drug offences")](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
-
-[Local News](https://www.derrynow.com/section/975/news)
-
-[County Derry woman jailed for 12 months after being convicted of drug offences](https://www.derrynow.com/news/local-news/1658712/county-derry-woman-jailed-for-12-months-after-being-convicted-of-drug-offences.html)
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Benone](https://www.derrynow.com/resizer/165/93/true/2024_06_14/Council_offices-1683191862175.jpg--court_action_over_council_bug_prompted_by__duty_of_care_for__staff_health_and_well_being_-1698138695240.jpg--easy_read_alternatives_high_on_agenda_for_causeway_coast_and_glens-1718380270650.jpg--.jpg?1718380270683 "Benone")](https://www.derrynow.com/news/county-derry-post/1658546/full-house-as-residents-and-stakeholders-gather-to-discuss-future-of-benone-holiday-and-leisure-park-complex.html)
-
-Benone
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Full house as residents and stakeholders gather to discuss future of Benone Holiday and Leisure Park Complex](https://www.derrynow.com/news/county-derry-post/1658546/full-house-as-residents-and-stakeholders-gather-to-discuss-future-of-benone-holiday-and-leisure-park-complex.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Ballinascreen with their junior Ulster club championship title (credit- Ulster GAA website)](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Ballinascreen-1731942591716.PNG--.PNG?1731942591817 "Ballinascreen with their junior Ulster club championship title (credit- Ulster GAA website)")](https://www.derrynow.com/news/gaa/1658667/perfect-weekend-for-derry-s-hurling-club-s-on-ulster-stage.html)
-
-Ballinascreen with their junior Ulster club championship title (credit- Ulster GAA website)
-
-[GAA](https://www.derrynow.com/section/1060/gaa)
-
-[Perfect weekend for Derry's hurling club's on Ulster stage](https://www.derrynow.com/news/gaa/1658667/perfect-weekend-for-derry-s-hurling-club-s-on-ulster-stage.html)
------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-[![Henry Group](https://www.derrynow.com/resizer/165/93/true/2024_11_18/Henry_Group_2-1731930297204.JPG--.JPG?1731930301000 "Henry Group")](https://www.derrynow.com/news/county-derry-post/1658442/henry-group-is-new-ni-chamber-patron.html)
-
-Henry Group
-
-[County Derry Post](https://www.derrynow.com/section/1000/county-derry-post)
-
-[Henry Group is new NI Chamber Patron](https://www.derrynow.com/news/county-derry-post/1658442/henry-group-is-new-ni-chamber-patron.html)
------------------------------------------------------------------------------------------------------------------------------------------
 
 ![](images/DLIcon.png)
 
