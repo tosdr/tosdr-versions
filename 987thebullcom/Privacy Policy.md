@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Wolves CryBryan Martin<br><br>4:39am |
-| Tennessee OrangeMegan Moroney<br><br>4:36am |
-| TexasBlake Shelton<br><br>4:33am |
-| Bigger HousesDan Shay<br><br>4:30am |
-| Whatcha See Is Whatcha GetChris Janson<br><br>4:27am |
+| Save MeJelly Roll Ft Lainey Wilson<br><br>10:37am |
+| Where It EndsBailey Zimmerman<br><br>10:34am |
+| One Man BandOld Dominion<br><br>10:31am |
+| AustinDasha<br><br>10:28am |
+| I Got A GuyPost Malone Ft Luke Combs<br><br>10:26am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,14 +497,6 @@ State
 Featured Brands
 ---------------
 
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
-
-Sports • Midwest
-
 [![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
 
 Spanish • Western
@@ -512,6 +504,14 @@ Spanish • Western
 [![Bay Country Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/BayCountry-BothFrequencies-DK%20(2).png)](https://www.kbaycountry.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
+
+Top 40 • Pacific NW
 
 [](https://www.alphamediausa.com/)
 
