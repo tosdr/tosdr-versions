@@ -652,7 +652,7 @@ SELECT
 
 Beauty Deal - Creamy Long Last Liner - Dark Cacao
 
-SELECT Buy for $5
+SOLD OUT Buy for $5
 
 ![](https://www.100percentpure.com/s/files/1/0648/1955/files/1CPEDC_Creamy_Long_Last_Liner_Dark_Cacao_Primary_efc92456-cdfc-446e-b417-e92e4c09feec.jpg?em-origin=cdn.shopify.com)
 
@@ -660,7 +660,7 @@ Beauty Deal - Creamy Long Last Liner - Dark Cacao
 
 This creamy, long-lasting eyeliner pencil glides easily onto lids to line and define your eyes, while nourishing skin with jojoba oil.
 
-SELECT
+SOLD OUT
 
 [![](https://www.100percentpure.com/s/files/1/0648/1955/products/1BODBD1CPEBL_Beauty_Deal_2022-Creamy_Long_Last_Liner__Blackest_Primary_2.jpg?em-origin=cdn.shopify.com)](#product-6838961078350)
 
