@@ -1,7 +1,3 @@
-* [Home](https://freedmanseating.com/)
-
-* Online Privacy Policy
-
 Online Privacy Policy
 =====================
 
