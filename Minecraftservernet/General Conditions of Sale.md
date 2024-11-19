@@ -29,15 +29,17 @@ Version All 1.21.3 1.21.2 1.21.1 1.21 1.20.6 1.20.5 1.20.4 1.20.3 1.20.2 1.20.1 
 
 Active Servers
 
-[![Payaman_SMP](plugins/MineCraft/icons/25x25xPayaman_SMP_1729955508.png.pagespeed.ic.aCHQSaveMt.jpg)
+[![MCVerseCity](plugins/MineCraft/icons/25x25xMCVerseCity_1700330564.png.pagespeed.ic.k89VlBgKKa.jpg)
 
-Payaman SMP](https://minecraft-server.net/details/Payaman_SMP/ "Payaman SMP") [Stormy Lagoon - Crossplay 1.21.1](https://minecraft-server.net/details/StormyLagoon/ "Stormy Lagoon - Crossplay 1.21.1")[![Cobalt](plugins/MineCraft/icons/25x25xCobalt_1730840649.png.pagespeed.ic.MW8BNEQizg.png)
+1.21.1 Vanilla+ NoGrief](https://minecraft-server.net/details/MCVerseCity/ "1.21.1 Vanilla+ NoGrief")[![MithrilMagic](plugins/MineCraft/icons/25x25xMithrilMagic_1719320579.png.pagespeed.ic.BDum0eRhpr.png)
 
-isoVerse | 1.21 Survival Skyblock Creative Parkour \[Java & Bedrock\]](https://minecraft-server.net/details/Cobalt/ "isoVerse | 1.21 Survival Skyblock Creative Parkour [Java & Bedrock]")[![rsmv](plugins/MineCraft/icons/25x25xrsmv_1703034436.png.pagespeed.ic.1lwcBJKLKB.png)
+MithrilMagic](https://minecraft-server.net/details/MithrilMagic/ "MithrilMagic")[![mcprison](plugins/MineCraft/icons/25x25xmcprison_1722027662.png.pagespeed.ic.0wYsTOy-Nc.png)
 
-RSMV.net](https://minecraft-server.net/details/rsmv/ "RSMV.net")[![TAoMC](plugins/MineCraft/icons/25x25xTAoMC_1731181702.png.pagespeed.ic.0xBbYwjfPL.jpg)
+STAFF NEEDED - PURPLE PRISON](https://minecraft-server.net/details/mcprison/ "STAFF NEEDED - PURPLE PRISON")[![whoocraft](plugins/MineCraft/icons/25x25xwhoocraft_1701651132.png.pagespeed.ic.98LTIjFdN0.png)
 
-The Art of Minecraft - Crossplay](https://minecraft-server.net/details/TAoMC/ "The Art of Minecraft - Crossplay")
+(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -](https://minecraft-server.net/details/whoocraft/ "(1.21.3) Amplified vanilla - 0 tick farms - better structures - villager leashing - tpa and homes -")[![mistylands](plugins/MineCraft/icons/25x25xmistylands_1666311278.png.pagespeed.ic.Obda9MLF8d.png)
+
+Mistylands Survival Est.2010](https://minecraft-server.net/details/mistylands/ "Mistylands Survival Est.2010")
 
 1. [Minecraft Servers](https://minecraft-server.net/)
 2. Refund
@@ -114,4 +116,4 @@ Set
 * [Statistics](https://minecraft-server.net/overall-stats/ "Statistics")
 * [Contact](https://minecraft-server.net/contact/ "Contact")
 
-© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.06475 - Created by [Debaucus](https://debauc.us/)
+© Minecraft-Server.net 2024. All rights reserved. 'Minecraft' is a property of [Mojang](https://www.mojang.com/). You can buy [Minecraft here](https://www.minecraft.net/). 7 queries, time: 0.0599 - Created by [Debaucus](https://debauc.us/)
