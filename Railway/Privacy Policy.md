@@ -1,13 +1,13 @@
 [Railway](https://railway.app/ "Dashboard")
 
-[](https://railway.app/)[All systems operational↗](https://status.railway.app/)
+[](https://railway.app/)[All systems operational↗](https://status.railway.com/)
 
 * * *
 
 Copyright © 2024 Railway Corp.  
 All rights reserved.
 
-[](https://trust.railway.app/)
+[](https://trust.railway.com/)
 
 Product
 
@@ -24,8 +24,8 @@ Company
 * [About](https://railway.app/about)
 * [Careers](https://railway.app/careers)
 * [Blog](https://blog.railway.com/)
-* [Shop](https://shop.railway.app/)
-* [Trust](https://trust.railway.app/)
+* [Shop](https://shop.railway.com/)
+* [Trust](https://trust.railway.com/)
 
 Contact
 
