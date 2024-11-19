@@ -294,9 +294,6 @@
         
         [Communication](https://www.twilio.com/en-us/cpaas) [Customer Data](https://www.twilio.com/en-us/customer-data-platform)
         
-    * [**CustomerAI**
-        
-        Combine real-time engagement data with AI to know your customers better.](https://www.twilio.com/en-us/customer-ai)
     * [**Trust Center**
         
         Twilio’s security, data privacy, regulatory compliance, and resiliency policies.](https://www.twilio.com/en-us/trust-center)
@@ -659,9 +656,6 @@ Data is collected based on search terms. [Privacy Policy](https://www.twilio.co
         
         [Communication](https://www.twilio.com/en-us/cpaas) [Customer Data](https://www.twilio.com/en-us/customer-data-platform)
         
-    * [**CustomerAI**
-        
-        Combine real-time engagement data with AI to know your customers better.](https://www.twilio.com/en-us/customer-ai)
     * [**Trust Center**
         
         Twilio’s security, data privacy, regulatory compliance, and resiliency policies.](https://www.twilio.com/en-us/trust-center)
