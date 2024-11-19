@@ -1,30 +1,30 @@
 [Skip to main content](#main-content)
 
-Save 50% Sitewide! DETAILS
+Meloni's Must Haves: BOGO Free! DETAILS
 
-CYBER MONDAY TRAINING RUN
-
-Close the Modal
-
-#### Save 50% Sitewide!
-
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women)
-
-Offer valid 11/18/2024 8AM ET - 11/19/2024 6AM ET.
-
-Sitewide discounts priced as marked. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
-
-FREE GIFT WITH PURCHASE
+MELONI'S MUST HAVES
 
 Close the Modal
 
-#### Free Tommie Copper Baseball Hat on Orders $125+
+#### BUY 1 GET 1 FREE
 
-[SHOP MEN](https://www.tommiecopper.com/men/)    [SHOP WOMEN](https://www.tommiecopper.com/women/)
+[SHOP NOW](https://www.tommiecopper.com/special/melonis-must-haves/)
 
-Offer valid 10/11/2024 8AM ET - 10/12/2024 6AM ET.
+Offer valid 11/19/2024 8AM ET - 11/20/2024 6AM ET.
 
-Free Baseball Hat automatically applied on orders $125+. Order subtotal must reach $100 before taxes and shipping. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+To receive Buy 1 Get 1 Free discount on Meloni's Must Haves, must add two (2) eligible items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
+
+COMPRESSION SOCKS
+
+Close the Modal
+
+#### Buy 1 Get 1 Free Today!
+
+[SHOP NOW](https://www.tommiecopper.com/compression-socks/)
+
+Offer valid 11/1/2024 8AM ET - 11/4/2024 6AM ET.
+
+To receive Buy 1 Get 1 Free discount on all compression socks, must add two (2) eligible full-price items to cart. Discount automatically applied on lowest priced item. Offer only valid on tommiecopper.com. Not valid on previous purchases. Cannot be combined with any other offers or coupons. Valid while supplies last. Terms subject to change.
 
 [Toggle menu](#)
 
