@@ -69,7 +69,7 @@ a--up
 
 a--h-150-100
 
-Isomorphic Labs Limited, is a company organised under the laws of England and Wales, with registered office at 100 New Bridge Street, London, EC4V 6JA (“**IsoLabs**”, “us”, “we”, or “our”).   
+Isomorphic Labs Limited, is a company organised under the laws of England and Wales, with registered office at 280 Bishopsgate, London, EC2M 4RB, United Kingdom (“**IsoLabs**”, “us”, “we”, or “our”).   
   
 ‍
 
