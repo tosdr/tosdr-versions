@@ -455,15 +455,15 @@ FR
         
         Recommended Stores
         
-        [Under Armour Canada
+        [Lululemon
+        
+        4% Cash Back](https://www.rakuten.ca/lululemon)[Under Armour Canada
         
         8% Cash Back](https://www.rakuten.ca/under-armour-canada)[tentree
         
         3% Cash Back](https://www.rakuten.ca/ten-tree)[Puma Canada
         
-        up to 9% Cash Back](https://www.rakuten.ca/puma-canada)[Sport Chek
-        
-        2% Cash Back](https://www.rakuten.ca/sport-chek-canada)[MEC
+        up to 9% Cash Back](https://www.rakuten.ca/puma-canada)[MEC
         
         2% Cash Back](https://www.rakuten.ca/mec)
         
