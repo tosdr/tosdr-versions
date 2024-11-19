@@ -88,7 +88,6 @@
 
 ###### [Sports](http://www.foxnews.com/sports)
 
-* [2024 World Series](https://www.foxsports.com/mlb/world-series)
 * [NFL](http://www.foxnews.com/category/sports/nfl)
 * [College Football](http://www.foxnews.com/category/sports/ncaa-fb)
 * [MLB](http://www.foxnews.com/category/sports/mlb)
