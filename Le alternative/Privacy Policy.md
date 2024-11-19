@@ -8,8 +8,10 @@
 
 [MENU](https://www.lealternative.net/menu/)
 
-* [MENU](https://www.lealternative.net/menu)
 * [CHI SIAMO](https://www.lealternative.net/chi-siamo/)
+* [CATEGORIE](https://www.lealternative.net/menu)
+* [PROGETTI ETICI](https://www.lealternative.net/progetti-etici/)
+* [DIZIONARIO](https://www.lealternative.net/dizionario-nerd-italiano/)
 * [🔎](https://www.lealternative.net/cerca-nel-sito/)
 * [❄️](https://www.lealternative.net/snowflake/)
 
