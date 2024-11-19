@@ -694,7 +694,3 @@ X
 Cyber threats are evolving—Arkose Labs is evolving faster. Learn about our latest releases.
 
 [Click Here](https://www.arkoselabs.com/blog/a-look-at-our-latest-feature-updates)
-
-                                               
-
-www.google.com
