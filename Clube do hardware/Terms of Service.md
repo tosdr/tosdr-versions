@@ -113,7 +113,7 @@ Regras do Clube do Hardware
 **Por [Gabriel Torres](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/ "Ir ao perfil de Gabriel Torres")**  
 10 de novembro de 2021 em [Avisos da administração](https://www.clubedohardware.com.br/forums/forum/9-avisos-da-administra%C3%A7%C3%A3o/)
 
- [Compartilhar](#elShareItem_207057748_menu)
+ [Compartilhar](#elShareItem_1847787174_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -148,7 +148,7 @@ Posts recomendados
 * Administrador
 * ![](https://www.clubedohardware.com.br/uploads/themes/team_admin.png)
 * * [11k](https://www.clubedohardware.com.br/profile/281750-gabriel-torres/content/ "10.985 posts")
-* 13.068
+* 13.069
 * 16/01/2002
 *  Offline
 
@@ -324,7 +324,7 @@ Mais opções...
 
 Este tópico está impedido de receber novas respostas.
 
- [Compartilhar](#elShareItem_1598672346_menu)
+ [Compartilhar](#elShareItem_816177120_menu)
 
 * [](https://web.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")[](https://api.whatsapp.com/send?text=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no WhatsApp")
 * [](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.clubedohardware.com.br%2Fforums%2Ftopic%2F690576-regras-do-clube-do-hardware%2F "Compartilhar no Facebook")
@@ -365,105 +365,105 @@ Mais opções...
 
 * ### Últimos tópicos
     
-    * [![Red X](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/505136-86380729928_23.p3_2_.thumb.gif.aa2f99a19ce1de6742d15c8137abb4a1.gif)](https://www.clubedohardware.com.br/profile/1206096-red-x/ "Ir ao perfil de Red X")
+    * [![MarkinSH](https://www.clubedohardware.com.br/uploads/members/monthly_2024_10/imported-photo-1255049.thumb.jpeg.41b08f5b55f89c71e3ae5e30cb601d8b.jpeg)](https://www.clubedohardware.com.br/profile/1255049-markinsh/ "Ir ao perfil de MarkinSH")
         
         0
+        
+        [essa fonte é boa](https://www.clubedohardware.com.br/forums/topic/1702742-essa-fonte-%C3%A9-boa/?do=getNewComment "essa fonte é boa")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [MarkinSH](https://www.clubedohardware.com.br/profile/1255049-markinsh/ "Ir ao perfil de MarkinSH")  
+        1 hora atrás
+        
+    * [![vit1n_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1196436.thumb.jpeg.c4dc9c9cc3649a16086d0f42012d6fcc.jpeg)](https://www.clubedohardware.com.br/profile/1196436-vit1n_/ "Ir ao perfil de vit1n_")
+        
+        0
+        
+        [Fonte EVGA 400w aguenta temporariamente essa config?](https://www.clubedohardware.com.br/forums/topic/1702741-fonte-evga-400w-aguenta-temporariamente-essa-config/?do=getNewComment "Fonte EVGA 400w aguenta temporariamente essa config?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [vit1n\_](https://www.clubedohardware.com.br/profile/1196436-vit1n_/ "Ir ao perfil de vit1n_")  
+        2 horas atrás
+        
+    * [![Sarjk](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46271%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3ES%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1256304-sarjk/ "Ir ao perfil de Sarjk")
+        
+        0
+        
+        [Acabei brickando a GPU, procuro BIOS original. BIOS brickada](https://www.clubedohardware.com.br/forums/topic/1702740-acabei-brickando-a-gpu-procuro-bios-original-bios-brickada/?do=getNewComment "Acabei brickando a GPU, procuro BIOS original. BIOS brickada")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [Sarjk](https://www.clubedohardware.com.br/profile/1256304-sarjk/ "Ir ao perfil de Sarjk")  
+        3 horas atrás
+        
+    * [![ZNJXT](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256300.thumb.jpeg.903827f1b15129ffc3978332586d02a2.jpeg)](https://www.clubedohardware.com.br/profile/1256300-znjxt/ "Ir ao perfil de ZNJXT")
+        
+        3
+        
+        [Comprei uma B450 ASUS tuf gaming plus-ii para meu Ryzen 5 2600 e não dá vídeo](https://www.clubedohardware.com.br/forums/topic/1702739-comprei-uma-b450-asus-tuf-gaming-plus-ii-para-meu-ryzen-5-2600-e-n%C3%A3o-d%C3%A1-v%C3%ADdeo/?do=getNewComment "Comprei uma B450 ASUS tuf gaming plus-ii para meu Ryzen 5 2600 e não dá vídeo")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [ZNJXT](https://www.clubedohardware.com.br/profile/1256300-znjxt/ "Ir ao perfil de ZNJXT")  
+        4 horas atrás
+        
+    * [![haaxsg](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256299.thumb.jpeg.07016a2a77022a543fb1f30e65049db2.jpeg)](https://www.clubedohardware.com.br/profile/1256299-haaxsg/ "Ir ao perfil de haaxsg")
+        
+        2
+        
+        [Qual placa de Vídeo devo usar?](https://www.clubedohardware.com.br/forums/topic/1702738-qual-placa-de-v%C3%ADdeo-devo-usar/?do=getNewComment "Qual placa de Vídeo devo usar?")
+        
+        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
+        Por [haaxsg](https://www.clubedohardware.com.br/profile/1256299-haaxsg/ "Ir ao perfil de haaxsg")  
+        5 horas atrás
+        
+    * [![CloudZ](https://www.clubedohardware.com.br/uploads/members/monthly_2020_01/nuvem.thumb.jpg.32636c106e3f348d435e64213dd6ae23.jpg)](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")
+        
+        1
+        
+        [Temperatura da placa de vídeo](https://www.clubedohardware.com.br/forums/topic/1702737-temperatura-da-placa-de-v%C3%ADdeo/?do=getNewComment "Temperatura da placa de vídeo")
+        
+        [Placas de vídeo](https://www.clubedohardware.com.br/forums/forum/94-placas-de-v%C3%ADdeo/ "Placas de vídeo")  
+        Por [CloudZ](https://www.clubedohardware.com.br/profile/859044-cloudz/ "Ir ao perfil de CloudZ")  
+        5 horas atrás
+        
+    * [![Nelson Backes](https://www.clubedohardware.com.br/uploads/members/monthly_2024_01/imported-photo-1236629.thumb.jpeg.a93b971fa181802c55a4178521d4f2ac.jpeg)](https://www.clubedohardware.com.br/profile/1236629-nelson-backes/ "Ir ao perfil de Nelson Backes")
+        
+        2
+        
+        [Monitor com suporte HDR mas entrada sem suporte ?](https://www.clubedohardware.com.br/forums/topic/1702736-monitor-com-suporte-hdr-mas-entrada-sem-suporte/?do=getNewComment "Monitor com suporte HDR mas entrada sem suporte ?")
+        
+        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
+        Por [Nelson Backes](https://www.clubedohardware.com.br/profile/1236629-nelson-backes/ "Ir ao perfil de Nelson Backes")  
+        5 horas atrás
+        
+    * [![PauloBrunoPS98](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/imported-photo-1172461.thumb.png.b96876c6974e7b715a48b614d227e09a.png)](https://www.clubedohardware.com.br/profile/1172461-paulobrunops98/ "Ir ao perfil de PauloBrunoPS98")
+        
+        4
+        
+        [A fonte PcYes Electro v2 de 550W consegue aguentar uma RX 6650XT?](https://www.clubedohardware.com.br/forums/topic/1702735-a-fonte-pcyes-electro-v2-de-550w-consegue-aguentar-uma-rx-6650xt/?do=getNewComment "A fonte PcYes Electro v2 de 550W consegue aguentar uma RX 6650XT?")
+        
+        [Fontes e energia](https://www.clubedohardware.com.br/forums/forum/153-fontes-e-energia/ "Fontes e energia")  
+        Por [PauloBrunoPS98](https://www.clubedohardware.com.br/profile/1172461-paulobrunops98/ "Ir ao perfil de PauloBrunoPS98")  
+        5 horas atrás
+        
+    * [![clauX](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c46295%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EC%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1242391-claux/ "Ir ao perfil de clauX")
+        
+        2
+        
+        [Epic games se recusa a recuperar a conta](https://www.clubedohardware.com.br/forums/topic/1702734-epic-games-se-recusa-a-recuperar-a-conta/?do=getNewComment "Epic games se recusa a recuperar a conta")
+        
+        [Vírus, malware, invasões e afins](https://www.clubedohardware.com.br/forums/forum/88-v%C3%ADrus-malware-invas%C3%B5es-e-afins/ "Vírus, malware, invasões e afins")  
+        Por [clauX](https://www.clubedohardware.com.br/profile/1242391-claux/ "Ir ao perfil de clauX")  
+        5 horas atrás
+        
+    * [![Red X](https://www.clubedohardware.com.br/uploads/members/monthly_2022_12/505136-86380729928_23.p3_2_.thumb.gif.aa2f99a19ce1de6742d15c8137abb4a1.gif)](https://www.clubedohardware.com.br/profile/1206096-red-x/ "Ir ao perfil de Red X")
+        
+        4
         
         [watercooler esquentando muito em processador Básico](https://www.clubedohardware.com.br/forums/topic/1702733-watercooler-esquentando-muito-em-processador-b%C3%A1sico/?do=getNewComment "watercooler esquentando muito em processador Básico")
         
         [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
         Por [Red X](https://www.clubedohardware.com.br/profile/1206096-red-x/ "Ir ao perfil de Red X")  
-        10 minutos atrás
-        
-    * [![joão victor zerbatti](data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201024%201024%22%20style%3D%22background%3A%23c4bb62%22%3E%3Cg%3E%3Ctext%20text-anchor%3D%22middle%22%20dy%3D%22.35em%22%20x%3D%22512%22%20y%3D%22512%22%20fill%3D%22%23ffffff%22%20font-size%3D%22700%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20Roboto%2C%20Helvetica%2C%20Arial%2C%20sans-serif%22%3EJV%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E)](https://www.clubedohardware.com.br/profile/1092883-jo%C3%A3o-victor-zerbatti/ "Ir ao perfil de joão victor zerbatti")
-        
-        3
-        
-        [Escolher em qual disco instalar o Windows](https://www.clubedohardware.com.br/forums/topic/1702732-escolher-em-qual-disco-instalar-o-windows/?do=getNewComment "Escolher em qual disco instalar o Windows")
-        
-        [Windows 11](https://www.clubedohardware.com.br/forums/forum/284-windows-11/ "Windows 11")  
-        Por [joão victor zerbatti](https://www.clubedohardware.com.br/profile/1092883-jo%C3%A3o-victor-zerbatti/ "Ir ao perfil de joão victor zerbatti")  
-        42 minutos atrás
-        
-    * [![walt1n_](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256296.thumb.jpeg.0c05785080d82e01f3ef666d2124300a.jpeg)](https://www.clubedohardware.com.br/profile/1256296-walt1n_/ "Ir ao perfil de walt1n_")
-        
-        1
-        
-        [Recomendação de PC ate R$4000](https://www.clubedohardware.com.br/forums/topic/1702731-recomenda%C3%A7%C3%A3o-de-pc-ate-r4000/?do=getNewComment "Recomendação de PC ate R$4000")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [walt1n\_](https://www.clubedohardware.com.br/profile/1256296-walt1n_/ "Ir ao perfil de walt1n_")  
-        46 minutos atrás
-        
-    * [![dutch7](https://www.clubedohardware.com.br/uploads/members/monthly_2024_09/imported-photo-1245023.thumb.jpeg.f3e630dfa633790be7a303fdeb9f7b5e.jpeg)](https://www.clubedohardware.com.br/profile/1245023-dutch7/ "Ir ao perfil de dutch7")
-        
-        0
-        
-        [Pc só fica com a luz da cpu acessa](https://www.clubedohardware.com.br/forums/topic/1702730-pc-s%C3%B3-fica-com-a-luz-da-cpu-acessa/?do=getNewComment "Pc só fica com a luz da cpu acessa")
-        
-        [Placas-mãe](https://www.clubedohardware.com.br/forums/forum/28-placas-m%C3%A3e/ "Placas-mãe")  
-        Por [dutch7](https://www.clubedohardware.com.br/profile/1245023-dutch7/ "Ir ao perfil de dutch7")  
-        50 minutos atrás
-        
-    * [![RM30](https://www.clubedohardware.com.br/uploads/members/monthly_2021_09/317328653_Snoopy5kb.thumb.png.1c6696b8fd313f7633fd81cb656be988.png)](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")
-        
-        0
-        
-        [Arquivo de backup do AOMEI corrompido](https://www.clubedohardware.com.br/forums/topic/1702729-arquivo-de-backup-do-aomei-corrompido/?do=getNewComment "Arquivo de backup do AOMEI corrompido")
-        
-        [HD, SSD e NAS](https://www.clubedohardware.com.br/forums/forum/31-hd-ssd-e-nas/ "HD, SSD e NAS")  
-        Por [RM30](https://www.clubedohardware.com.br/profile/1172064-rm30/ "Ir ao perfil de RM30")  
-        1 hora atrás
-        
-    * [![lucasxpg202](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/imported-photo-1256174.thumb.jpeg.bb9379b5c059f3eb43e5f444b552f3e4.jpeg)](https://www.clubedohardware.com.br/profile/1256174-lucasxpg202/ "Ir ao perfil de lucasxpg202")
-        
-        3
-        
-        [Qual posição esccolher das fans?](https://www.clubedohardware.com.br/forums/topic/1702728-qual-posi%C3%A7%C3%A3o-esccolher-das-fans/?do=getNewComment "Qual posição esccolher das fans?")
-        
-        [Refrigeração e superaquecimento](https://www.clubedohardware.com.br/forums/forum/155-refrigera%C3%A7%C3%A3o-e-superaquecimento/ "Refrigeração e superaquecimento")  
-        Por [lucasxpg202](https://www.clubedohardware.com.br/profile/1256174-lucasxpg202/ "Ir ao perfil de lucasxpg202")  
-        1 hora atrás
-        
-    * [![Rafael C.](https://www.clubedohardware.com.br/uploads/members/monthly_2024_07/imported-photo-1132005.thumb.jpeg.8465ff3c43ecc7b7b4f6f2ca8e5f49d4.jpeg)](https://www.clubedohardware.com.br/profile/1132005-rafael-c/ "Ir ao perfil de Rafael C.")
-        
-        0
-        
-        [Placa de vídeo não dá vídeo pelo HDMI: GTX 550ti, AOC 24G2E11](https://www.clubedohardware.com.br/forums/topic/1702727-placa-de-v%C3%ADdeo-n%C3%A3o-d%C3%A1-v%C3%ADdeo-pelo-hdmi-gtx-550ti-aoc-24g2e11/?do=getNewComment "Placa de vídeo não dá vídeo pelo HDMI: GTX 550ti, AOC 24G2E11")
-        
-        [Computador não liga ou não dá vídeo](https://www.clubedohardware.com.br/forums/forum/122-computador-n%C3%A3o-liga-ou-n%C3%A3o-d%C3%A1-v%C3%ADdeo/ "Computador não liga ou não dá vídeo")  
-        Por [Rafael C.](https://www.clubedohardware.com.br/profile/1132005-rafael-c/ "Ir ao perfil de Rafael C.")  
-        1 hora atrás
-        
-    * [![Junior Kumassaka](https://www.clubedohardware.com.br/uploads/members/monthly_2024_08/IMG-20190611-WA0162.thumb.jpg.18b0654173383b509d17ba3c7282e27b.jpg)](https://www.clubedohardware.com.br/profile/1251710-junior-kumassaka/ "Ir ao perfil de Junior Kumassaka")
-        
-        0
-        
-        [placa-mãe NOVA, não RECONHECE WINDOWS NO SSD (MBR)](https://www.clubedohardware.com.br/forums/topic/1702726-placa-m%C3%A3e-nova-n%C3%A3o-reconhece-windows-no-ssd-mbr/?do=getNewComment "placa-mãe NOVA, não RECONHECE WINDOWS NO SSD (MBR)")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [Junior Kumassaka](https://www.clubedohardware.com.br/profile/1251710-junior-kumassaka/ "Ir ao perfil de Junior Kumassaka")  
-        1 hora atrás
-        
-    * [![brunoofontes](https://www.clubedohardware.com.br/uploads/members/monthly_2018_10/imported-photo-1010362.thumb.png.8122ad359ade2d362cf3a6cc7fff5bd2.png)](https://www.clubedohardware.com.br/profile/1010362-brunoofontes/ "Ir ao perfil de brunoofontes")
-        
-        0
-        
-        [Monitor LG ml24600m-b com falha na imagem e barulho na placa](https://www.clubedohardware.com.br/forums/topic/1702725-monitor-lg-ml24600m-b-com-falha-na-imagem-e-barulho-na-placa/?do=getNewComment "Monitor LG ml24600m-b com falha na imagem e barulho na placa")
-        
-        [Monitores de vídeo](https://www.clubedohardware.com.br/forums/forum/37-monitores-de-v%C3%ADdeo/ "Monitores de vídeo")  
-        Por [brunoofontes](https://www.clubedohardware.com.br/profile/1010362-brunoofontes/ "Ir ao perfil de brunoofontes")  
-        1 hora atrás
-        
-    * [![_claytones](https://www.clubedohardware.com.br/uploads/members/monthly_2024_11/FB_IMG_1694515831863.thumb.jpg.7e0a3f0f7dd00beb6a7a8a2b0535c0c8.jpg)](https://www.clubedohardware.com.br/profile/722505-_claytones/ "Ir ao perfil de _claytones")
-        
-        3
-        
-        [Recomendações pra PC Gamer até R$3.500,00](https://www.clubedohardware.com.br/forums/topic/1702724-recomenda%C3%A7%C3%B5es-pra-pc-gamer-at%C3%A9-r350000/?do=getNewComment "Recomendações pra PC Gamer até R$3.500,00")
-        
-        [Montagem e upgrade de computadores de mesa](https://www.clubedohardware.com.br/forums/forum/93-montagem-e-upgrade-de-computadores-de-mesa/ "Montagem e upgrade de computadores de mesa")  
-        Por [\_claytones](https://www.clubedohardware.com.br/profile/722505-_claytones/ "Ir ao perfil de _claytones")  
-        2 horas atrás
+        6 horas atrás
         
     
 
@@ -624,10 +624,10 @@ Clube do Hardware [Powered by Invision Community](https://www.invisioncommunity.
 
 * Criar novo...
 
-[![GRÁTIS: ebook Redes Wi-Fi – 2ª Edição](https://www.clubedohardware.com.br/uploads/attachments/monthly_2023_04/redes-wifi2-capa-popup.jpg.808b72677a2bc3ea7b77c0c66fe6308b.jpg)](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[![Ebook grátis: Aprenda a ler resistores e capacitores!](https://www.clubedohardware.com.br/uploads/attachments/monthly_2021_01/Aprenda_a_Ler_Resistores_e_Capacitores-capa-3d-newsletter.thumb.jpg.8e89ae55e5231cd11f4fddb26b4d3aeb.jpg)](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 **EBOOK GRÁTIS!**
 
-[**CLIQUE AQUI E BAIXE AGORA MESMO!**](https://bit.ly/redes-wi-fi "GRÁTIS: ebook Redes Wi-Fi – 2ª Edição")
+[**CLIQUE AQUI E BAIXE AGORA MESMO!**](http://bit.ly/aprenda-resitores-capacitores "Ebook grátis: Aprenda a ler resistores e capacitores!")
 
 ![](https://www.facebook.com/tr?id=1945334499261173&ev=PageView&cd%5Bitem_id%5D=690576&cd%5Bitem_name%5D=Regras+do+Clube+do+Hardware&cd%5Bitem_type%5D=topic&cd%5Bcategory_name%5D=Avisos da administração)
