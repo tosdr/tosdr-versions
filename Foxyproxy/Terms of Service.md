@@ -133,6 +133,6 @@ These Terms will be governed by and construed in accordance with the laws of the
 
 #### Testimonials ([View All](https://getfoxyproxy.org/testimonials/))
 
-Dear FoxyProxy team, Very solid no-nonsense service. Have subscribed again! Good to see the price had not gone up, this is the right price point.
+I have renewed my subscription and its working fine thank you. Im very pleased with your service.
 
-Luite van Zelst
+Kelvin Logan
