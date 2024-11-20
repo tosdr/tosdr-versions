@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/inspiratie/meelezen/straling-echt-wel/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/hoofdartikelen/de-schandalige-mondkapjes-doctrine/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
