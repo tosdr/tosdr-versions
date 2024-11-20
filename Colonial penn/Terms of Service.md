@@ -201,7 +201,7 @@ Call to get a free quote today.
 
 #### We make **customer service simple.**
 
-Managing your policy is simple and easy. [Log in](https://www.mycolonialpenn.com/) to your account to see:
+Managing your policy is simple and easy. [Log in](https://my.colonialpenn.com/) to your account to see:
 
 * * Coverage amounts
     * Cash value & loan information
