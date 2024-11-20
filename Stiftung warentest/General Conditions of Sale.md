@@ -594,12 +594,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
 
 Fußbereich
 
@@ -2729,12 +2729,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
 
      ![](https://cdn.test.de/file/image/61/a5/683818f1-f18c-41a2-a5ad-5f07e55df961-mobile/cr-newsletter_02-mobil-1000px;w400.png)
 
@@ -2785,12 +2785,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
 
 Neueste Tests
 
@@ -2803,12 +2803,12 @@ Neueste Tests
 
 test.de entdecken
 
-* [Sanierungs­fahr­plan fürs Haus: Sanieren mit Konzept](https://www.test.de/Sanierungsfahrplan-fuers-Haus-Sanieren-mit-Konzept-6031445-0/ "Sanierungsfahrplan fürs Haus - Sanieren mit Konzept")
-* [Schlaf­mittel: Vorsicht vor Produkten mit Melatonin](https://www.test.de/Schlafmittel-Vorsicht-vor-Produkten-mit-Melatonin-6143885-0/ "Schlafmittel - Vorsicht vor Produkten mit Melatonin")
-* [Auto-Antriebe im Kosten­vergleich: Ab Kompakt­klasse lohnen sich E-Autos](https://www.test.de/Auto-Antriebe-im-Kostenvergleich-Ab-Kompaktklasse-lohnen-sich-E-Autos-6016503-0/ "Auto-Antriebe im Kostenvergleich - Ab Kompaktklasse lohnen sich E-Autos")
-* [Strom­preisbremse-Rechner: Was Ihnen die Strom­preisbremse bringt](https://www.test.de/Strompreisbremse-Rechner-So-viel-bringt-die-Strompreisbremse-5978005-0/ "Strompreisbremse-Rechner - Was Ihnen die Strompreisbremse bringt")
-* [Statistiken zu ETF: Die Erfolgs­geschichte der ETF](https://www.test.de/Statistiken-zu-ETF-Die-Erfolgsgeschichte-der-ETF-6067757-0/ "Statistiken zu ETF - Die Erfolgsgeschichte der ETF")
-* [Überge­wicht bei Kindern: Kampf den Corona-Pfunden](https://www.test.de/Uebergewicht-bei-Kindern-Kampf-den-Corona-Pfunden-5979072-0/ "Übergewicht bei Kindern - Kampf den Corona-Pfunden")
+* [Trade Republic Tages­geld Giro­konto: Top-Zinsen, aber schlechtere Bedingungen](https://www.test.de/Tagesgeld-Debitkarte-Girokonto-Trade-Republic-hohe-Zinsen-6084201-0/ "Trade Republic Tagesgeld Girokonto - Top-Zinsen, aber schlechtere Bedingungen")
+* [Mutmacher: Schluss mit den Gebührentricks!](https://www.test.de/Mutmacher-Schluss-mit-den-Gebuehrentricks-5953407-0/ "Mutmacher - Schluss mit den Gebührentricks!")
+* [Weichmacher: Sonnen­creme unter Schad­stoff­verdacht – was ist dran?](https://www.test.de/Weichmacher-Sonnencreme-unter-Schadstoffverdacht-was-ist-dran-6103822-0/ "Weichmacher - Sonnencreme unter Schadstoffverdacht – was ist dran?")
+* [Beruhigungs­mittel im Test: Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet](https://www.test.de/Beruhigungsmittel-2999340-0/ "Beruhigungsmittel im Test - Von Hopfen bis Lavendel – viele Mittel sind wenig geeignet")
+* [Strukturierte Anleihen: Diese beliebten Zins-Zertifikate sollten Sie meiden](https://www.test.de/Strukturierte-Anleihen-Zinszertifikate-mit-Tuecken-6071052-0/ "Strukturierte Anleihen - Diese beliebten Zins-Zertifikate sollten Sie meiden")
+* [Mikrobiom-Selbst­tests: Teure Analysen ohne Aussagekraft](https://www.test.de/Mikrobiom-Selbstests-Teure-Analysen-ohne-Aussagekraft-6115898-0/ "Mikrobiom-Selbsttests - Teure Analysen ohne Aussagekraft")
 
 Service Stiftung Warentest
 
