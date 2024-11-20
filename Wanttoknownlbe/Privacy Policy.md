@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/wetenschap/energie/weerman-moest-zwijgen-over-kernramp/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/kijk-naar-de-mondkapjes-idiotie/ "Feeling Lucky? »")
 
 Privacy policy
 ==============
