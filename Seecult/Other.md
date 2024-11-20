@@ -342,11 +342,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi/34.jpg?itok=-Ca4BbLg)](http://seecult.org/galerija/galerija-umetnika/katarina-radovic/dok-nas-smrt-ne-rastavi)
+[![Bojana Pejic: Zoran Popovic, Vom trauma des kollektivismus zum glucklichen ich](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-tekstovitexts/zoran-popovic-bibliografija/bibliography/txt_1.jpg?itok=XD-cuOiw "Bojana Pejic: Zoran Popovic, Vom trauma des kollektivismus zum glucklichen ich")](http://seecult.org/galerija/galerija-umetnika/zoran-popovic-escapism/zoran-popovic-tekstovitexts/zoran-popovic-0)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara/dscf5179.jpg?itok=CyK0szpm)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/koncerti/dan-bubnjara)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/nikola-markovic.jpg?itok=KJ1u4Ns4)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
