@@ -1278,6 +1278,8 @@
                 * [ ]  [Git Team](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/data-access/git/)
                 * [ ]  [Gitaly Team](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/data-access/gitaly/)
                     * [ ]  [Debugging the Gitaly service](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/data-access/gitaly/debug/)
+            * [ ]  [Tenant Scale Group](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/tenant-scale/)
+                * [ ]  [Cells Infrastructure Team](https://handbook.gitlab.com/handbook/engineering/infrastructure-platforms/tenant-scale/cells-infrastructure/)
         * [ ]  [Joint R&D OKR Process](https://handbook.gitlab.com/handbook/engineering/okrs/)
         * [ ]  [Monitoring of GitLab.com](https://handbook.gitlab.com/handbook/engineering/monitoring/)
             * [ ]  [Staging Monitoring](https://handbook.gitlab.com/handbook/engineering/monitoring/staging-monitoring/)
