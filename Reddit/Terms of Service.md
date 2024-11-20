@@ -38,7 +38,7 @@ This is a search field with an auto-suggest feature attached.
 ![Reddit User Agreement](https://redditinc.com/hubfs/Reddit%20Inc/About/Redditinc_Logo_About%20Page@2x.png "Reddit User Agreement")
 
 Reddit User Agreement
-=====================
+---------------------
 
 * [English](https://www.redditinc.com/policies/user-agreement?hsLang=en)
     * * [All](https://redditinc.com/policies?hsLang=en)
