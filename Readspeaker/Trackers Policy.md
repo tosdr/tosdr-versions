@@ -164,7 +164,7 @@ Solutions
 
 © ReadSpeaker B.V. All rights reserved.
 
-[linkedin](https://www.linkedin.com/company/readspeaker) [facebook](https://www.facebook.com/ReadSpeaker/) [youtube](https://www.youtube.com/channel/UC1XftPBh3QPQzoN0VW1QwWQ) [instagram](https://www.instagram.com/readspeaker/) [tiktok](https://www.tiktok.com/@readspeaker) [discord](https://discord.gg/G6bjeMYQ) [x-twitter](https://x.com/ReadSpeaker)
+[linkedin](https://www.linkedin.com/company/readspeaker) [facebook](https://www.facebook.com/ReadSpeaker/) [youtube](https://www.youtube.com/channel/UC1XftPBh3QPQzoN0VW1QwWQ) [instagram](https://www.instagram.com/readspeaker/) [tiktok](https://www.tiktok.com/@readspeaker) [discord](https://www.readspeaker.com/discord/) [x-twitter](https://x.com/ReadSpeaker)
 
 [](https://www.readspeaker.com/)
 
