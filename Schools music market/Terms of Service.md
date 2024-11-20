@@ -26,7 +26,7 @@ Menu
 
 [](https://schoolsmusicmarket.com/wishlist/)
 
- [](https://schoolsmusicmarket.com/product/lets-learn-about-reggae-music/)
+ [](https://schoolsmusicmarket.com/product/music-notation-worksheet/)
 
 [HOME](https://schoolsmusicmarket.com/seller-dashboard)
 
@@ -42,7 +42,7 @@ Results
 
 See all results
 
-[$0.00 0 Cart](#)
+[0,00 € 0 Cart](#)
 
 [](https://schoolsmusicmarket.com/seller-dashboard/)
 
@@ -60,7 +60,7 @@ See all results
 
 ![](https://schoolsmusicmarket.com/wp-content/uploads/2023/07/SMM-Logo.png)](https://schoolsmusicmarket.com/)
 
-[$0.00 0 Cart](#)
+[0,00 € 0 Cart](#)
 
 [](https://schoolsmusicmarket.com/seller-dashboard/)
 
@@ -97,7 +97,7 @@ Sellers Terms And Conditions
     
     Rated **235567** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~3,00 €~ Original price was: 3,00 €.2,00 €Current price is: 2,00 €.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -107,7 +107,7 @@ Sellers Terms And Conditions
     
     Rated **235554** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~3,00 €~ Original price was: 3,00 €.2,00 €Current price is: 2,00 €.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -117,7 +117,7 @@ Sellers Terms And Conditions
     
     Rated **235541** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~3,00 €~ Original price was: 3,00 €.2,00 €Current price is: 2,00 €.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -127,7 +127,7 @@ Sellers Terms And Conditions
     
     Rated **235528** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~3,00 €~ Original price was: 3,00 €.2,00 €Current price is: 2,00 €.
     
 * [![](data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20300%20300'%3E%3C/svg%3E)
     
@@ -137,7 +137,7 @@ Sellers Terms And Conditions
     
     Rated **235515** out of 5
     
-    ~$3.00~ Original price was: $3.00.$2.00Current price is: $2.00.
+    ~3,00 €~ Original price was: 3,00 €.2,00 €Current price is: 2,00 €.
     
 
 We'll send you everything you need to make this year's celebration unforgettable.
@@ -282,7 +282,7 @@ Results
 
 See all results
 
- [](https://schoolsmusicmarket.com/product/the-circle-of-fifths-display-visual-aids/)
+ [](https://schoolsmusicmarket.com/product/squilt-listening-journal/)
 
 ###### Browse By Year/Grade
 
@@ -390,4 +390,4 @@ See all results
 
 ![fbpx](https://www.facebook.com/tr?id=694577338779269&ev=PageView&noscript=1)
 
-We noticed you're visiting from United States (US). We've updated our prices to United States (US) dollar for your shopping convenience. [Use Pound sterling instead.](https://schoolsmusicmarket.com/sellers-terms-and-conditions/?currency=GBP) [Dismiss](#)
+We noticed you're visiting from Latvia. We've updated our prices to Euro for your shopping convenience. [Use Pound sterling instead.](https://schoolsmusicmarket.com/sellers-terms-and-conditions/?currency=GBP) [Dismiss](#)
