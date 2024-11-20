@@ -654,14 +654,14 @@ Service
 Bergisches ServiceCenter
 ========================
 
-Montag bis Freitag  
+[(Öffnet in einem neuen Tab)](https://www.wuppertal.de/service/rueckrufservice.php)Montag bis Freitag  
 von 07:30 bis 18:00 Uhr
 
 [+49 202 563-0](tel:00492025630 "+49 202 563-0")
 
-[Sie möchten zwischen 12:00 und 18:00 Uhr zurückgerufen werden? (Öffnet in einem neuen Tab)](https://cie-webcallback.wuppertal.de/callback-wptal.html)
+[Sie möchten zwischen 12:00 und 18:00 Uhr zurückgerufen werden?](https://www.wuppertal.de/service/rueckrufservice.php "Rückrufservice")
 
-[Live-Chat (Öffnet in einem neuen Tab)](https://www.wuppertal.de/service/live-chat.php "Lice-Chat")
+[Live-Chat (Öffnet in einem neuen Tab)](https://www.wuppertal.de/service/live-chat.php "Live-Chat")
 
 [servicecenter_stadt.wuppertal_de](mailto:servicecenter%E2%9A%B9stadt.wuppertal%E2%97%A6de)
 
@@ -695,8 +695,8 @@ Navigation
 
 Seite teilen schließen
 
-* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1732098758)
-* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1732098758)
+* [auf Facebook teilen (Öffnet in einem neuen Tab)](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1732120922)
+* [auf Twitter teilen (Öffnet in einem neuen Tab)](https://twitter.com/share?url=https%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php&t=1732120922)
 * [per E-Mail teilen](mailto:?subject=wuppertal.de%20-%20Seitenempfehlung&body=Hallo%2C%0A%0Aich%20m%C3%B6chte%20die%20folgende%20Seite%20empfehlen%3A%0Ahttps%3A%2F%2Fwww.wuppertal.de%2Fservice%2Fdatenschutz_dsgvo.php%0A%0ABeste%20Gr%C3%BC%C3%9Fe)
 
 Suche
