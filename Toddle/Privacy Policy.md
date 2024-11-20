@@ -1,8 +1,8 @@
-![](https://www.facebook.com/tr?id=233378714831666&ev=PageView&noscript=1)  
+![](https://www.facebook.com/tr?id=233378714831666&ev=PageView&noscript=1) 
 
 ![](https://px.ads.linkedin.com/collect/?pid=4160820&fmt=gif)
 
-      Privacy Policy | Toddle                                              
+Privacy Policy | Toddle        
 
 [![Toddle](https://www.toddleapp.com/wp-content/uploads/2024/07/Toddle_black_logo.svg)](https://www.toddleapp.com/ "Toddle")
 
