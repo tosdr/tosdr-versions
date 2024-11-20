@@ -205,26 +205,27 @@ Featured articles and columns that don't fit anywhere else on Something Awful.
 
 ### What's Hot
 
-* [Bernie Sanders Campaign Posters!](https://www.somethingawful.com/photoshop-phriday/bernie-sanders-posters/)
-* [Meet Kingsley, a Very Special Mascot!](https://www.somethingawful.com/photoshop-phriday/kingsley-soccer-mascot/)
-* [MS Paint Embarrassing Moments! (Part 2)](https://www.somethingawful.com/comedy-goldmine/paint-embarrassing-moments2/1/)
-* [A Second Train Just Hit the South Tower!](https://www.somethingawful.com/news/amtrak-security/1/)
-* [Watchmen Funnies](https://www.somethingawful.com/photoshop-phriday/watchmen-funnies/1/)
+* [Taylor Swift Crotch Chop: The Final Chops!](https://www.somethingawful.com/comedy-goldmine/swift-chop-gifs/1/)
+* [New Xbox Avatars](https://www.somethingawful.com/comedy-goldmine/new-xbox-avatar/1/)
+* [The President Has Wood(en Statue)](https://www.somethingawful.com/photoshop-phriday/trump-wood-statue/)
+* [GI Army Funnies: The New Assignment](https://www.somethingawful.com/news/military-comic-afghanistan/1/)
+* [Rifts Worldbook 20: Canada (1999)](https://www.somethingawful.com/dungeons-and-dragons/rifts-canada-siembieda/1/)
 
 ### Popular Threads
 
-* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [all i wanna do is have sum fun](http://forums.somethingawful.com/showthread.php?threadid=4075643 "all i wanna do is have sum fun")
 * ![](https://fi.somethingawful.com/forums/posticons/lf-arecountry.gif) [Declaring my domecile a Christmas Free Zone](http://forums.somethingawful.com/showthread.php?threadid=4075612 "Declaring my domecile a Christmas Free Zone")
 * ![](https://fi.somethingawful.com/forums/posticons/icons-08/food.png) [Do you throw out cheese that has mold?](http://forums.somethingawful.com/showthread.php?threadid=4075652 "Do you throw out cheese that has mold?")
+* ![](https://fi.somethingawful.com/forums/posticons/cd_hype.gif) [all i wanna do is have sum fun](http://forums.somethingawful.com/showthread.php?threadid=4075643 "all i wanna do is have sum fun")
+* ![](https://fi.somethingawful.com/forums/posticons/cspam-yeshahahayes.gif) [What poor financial decisions do you regularly make?](http://forums.somethingawful.com/showthread.php?threadid=4075673 "What poor financial decisions do you regularly make?")
 * ![](https://fi.somethingawful.com/forums/posticons/pi-cock.png) [Happy International Mens Day](http://forums.somethingawful.com/showthread.php?threadid=4075609 "Happy International Mens Day")
 
 ### Random Articles
 
-* [Hiren & Pankaj's Homepage](https://www.somethingawful.com/awful-links/hiren-pankaj-wallpapers/)
-* [The Perils of Not Being Famous](https://www.somethingawful.com/news/perils-not-famous/)
-* [Miqel.com](https://www.somethingawful.com/awful-links/awful-link-3084/)
-* [Night of the Living Mr. Rogers](https://www.somethingawful.com/news/night-living-rogers/1/)
-* [Gateorade](https://www.somethingawful.com/news/gateorade/)
+* [The Internationally Beloved Demo Roundup: Part 8](https://www.somethingawful.com/your-band-sucks/internationally-beloved-demo/)
+* [The Ultimate ALF Wiki: ALF Expanded Universe](https://www.somethingawful.com/feature-articles/alf-tv-wikipedia/)
+* [Jumpy's Music](https://www.somethingawful.com/awful-links/awful-link-1696/)
+* [The Navojoa Trail](https://www.somethingawful.com/awful-movie-database/the-navojoa-trail/)
+* [Subj: ROAMIN DAD LOSES A CAR](https://www.somethingawful.com/news/roamin-dad-2/)
 
 [Random!](https://www.somethingawful.com/random/)
 
