@@ -283,6 +283,7 @@ Search Search Close
     * [Federal Financial Aid](https://www.waldenu.edu/financial-aid/federal-financial-aid)
     * [Financial Aid Forms](https://www.waldenu.edu/financial-aid/forms)
     * [Walden Grants and Scholarships](https://www.waldenu.edu/financial-aid/grants-and-scholarships)
+    * [Build Your Education Plan](https://www.waldenu.edu/financial-aid/byep)
 * [Admissions](https://www.waldenu.edu/admissions)
     * Start your journey toward a higher degree.
     * Get step-by-step guidance from a dedicated Enrollment Specialist.
@@ -792,6 +793,7 @@ Call Us: [**8556465286**](tel:8556465286)
     * [Federal Financial Aid](https://www.waldenu.edu/financial-aid/federal-financial-aid "Federal Financial Aid")
     * [Financial Aid Forms](https://www.waldenu.edu/financial-aid/forms "Financial Aid Forms")
     * [Walden Grants and Scholarships](https://www.waldenu.edu/financial-aid/grants-and-scholarships "Walden Grants and Scholarships")
+    * [Build Your Education Plan](https://www.waldenu.edu/financial-aid/byep "Build Your Education Plan")
     
     Search Search Close 
     
