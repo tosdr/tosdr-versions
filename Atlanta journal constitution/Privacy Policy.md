@@ -1,4 +1,4 @@
-[Breaking: TRAFFIC UPDATE | Crash blocking all lanes of I-285 South near airport](https://www.ajc.com/news/crime/traffic-alert-all-lanes-closed-on-i-285-south-near-airport/V7KQERALXNFDRJMLDLCZWJQ7YQ/)
+[Breaking: WATCH LIVE: Judge sentencing Jose Ibarra after being found guilty in the killing of Laken Riley](https://www.ajc.com/news/live-judge-sentencing-jose-ibarra-after-being-found-guilty-in-the-killing-of-laken-riley/NALTNMN7ZNBS7EIEXPYUULQDRY/)
 
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
