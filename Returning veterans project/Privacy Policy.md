@@ -185,11 +185,11 @@ Newsletter Signup
 
 ![Red Star Icon](https://cdn.returningveterans.org/images/site/star_red.png)[### Wall of Honor
 
-![Harold Teeters](https://cdn.returningveterans.org/images/honor/23_H_Teeters_N.jpg)  
+![Captain Colin Bunn](https://cdn.returningveterans.org/images/honor/flag_generic_wall_of_honor.jpg)  
 
-**In Honor of Harold Teeters**  
-United States Navy  
-Submitted by Messiah Lutheran Church, Vancouver Wa](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
+**In Honor of Captain Colin Bunn**  
+United States Marine Corps  
+Submitted by Anonymous](https://returningveterans.org/wall-of-honor/ "Visit the Wall of Honor")
 
 Returning Veterans Project
 
@@ -230,5 +230,5 @@ _The appearance of U.S. Department of Defense (DoD) visual information does not 
 * [Site by NetRaising](https://netraising.com/ "NetRaising | a web consultancy")
 
 https://returningveterans.org/about/privacy-statement/  
-Printed 11/19/24 - 1:29:42  
+Printed 11/19/24 - 7:23:10  
 © 2024 Returning Veterans Project
