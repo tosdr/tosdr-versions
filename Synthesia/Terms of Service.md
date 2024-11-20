@@ -469,7 +469,7 @@ Company
 
 [About Us](https://www.synthesia.io/about)[Ethics Guidelines](https://www.synthesia.io/ethics)[AI Research](https://www.synthesia.io/research)[Jobs
 
-Hiring](https://www.synthesia.io/careers)[Newsroom](https://www.synthesia.io/newsroom)[Security](https://security.synthesia.io/)[Legal](https://www.synthesia.io/legal)[Contact Sales](https://help.synthesia.io/en/articles/7182166-how-to-contact-us#h_105ad09a88)[Affiliates](https://www.synthesia.io/partners/affiliates)[Partners](https://www.synthesia.io/partners)
+Hiring](https://www.synthesia.io/careers)[Newsroom](https://www.synthesia.io/newsroom)[Security](https://security.synthesia.io/)[Legal](https://www.synthesia.io/legal)[Contact Sales](https://help.synthesia.io/en/articles/7182166-how-to-contact-us#h_105ad09a88)[Affiliates](https://www.synthesia.io/partners/affiliates)[Partners](https://www.synthesia.io/partners)[Sitemap](https://www.synthesia.io/sitemap)
 
 © 2024 Synthesia Limited. All rights reserved.
 
