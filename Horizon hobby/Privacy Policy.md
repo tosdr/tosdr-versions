@@ -2,25 +2,21 @@
 
 [Skip to main content](#maincontent) [Skip to footer content](#footercontent)
 
-[Pre-Black Friday
-
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
+[Pre-Black Friday Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
 [CLEARANCE
 
-Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/)
 
 [RC Club Bonus Points
 
 Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
-[Pre-Black Friday
-
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
+[Pre-Black Friday Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
 [CLEARANCE
 
-Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/)
 
 [RC Club Bonus Points
 
@@ -108,25 +104,21 @@ My store
 
 [](#)
 
-[Pre-Black Friday
-
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
+[Pre-Black Friday Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
 [CLEARANCE
 
-Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/)
 
 [RC Club Bonus Points
 
 Earn Extra Points On Select Items](https://www.horizonhobby.com/rc-club-bonus-points-3/)
 
-[Pre-Black Friday
-
-Save up to $250!](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
+[Pre-Black Friday Ending Soon](https://www.horizonhobby.com/horizon-hobby-rc-sale/pre-black-friday-sale/)
 
 [CLEARANCE
 
-Save big while supplies last](https://www.horizonhobby.com/clearance-sale/)
+Save Big While Supplies Last](https://www.horizonhobby.com/clearance-sale/)
 
 [RC Club Bonus Points
 
