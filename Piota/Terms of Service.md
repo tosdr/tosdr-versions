@@ -121,9 +121,9 @@ About Us
 
 Piota brings engagement into the digital age for organisations of all description. Whether it's schools, charities  or even local sports teams and youth clubs, our apps can reach networks far and wide to deliver the information your community needs directly and instantly.
 
-![](/pagespeed_static/1.JiBnMqyl6S.gif)
+![](https://piota.nedtechnology.co.in/wp-content/uploads/2024/07/put.png)
 
-![](/pagespeed_static/1.JiBnMqyl6S.gif)
+![](https://piota.nedtechnology.co.in/wp-content/uploads/2024/06/Piota-logo-1024x297.png)
 
 Address
 -------
