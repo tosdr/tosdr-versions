@@ -903,6 +903,14 @@ Die Einbindung von Storifyme ist technisch notwendig. Hierin liegt unser berecht
 
 Detaillierte Informationen zum Datenschutz bei Storifyme finden Sie [auf der Seite von Storifyme](https://www.storifyme.com/legal/privacy-policy "Storifyme").
 
+### Podcast auf Drittplattformen
+
+Sie können unser Z+ Podcast Angebot auch auf Drittplattformen (z.B. Apple Music oder Spotify) nutzen. Um Ihnen das zu ermöglichen, müssen personenbezogene Daten in Form eines Hash-Werts übergeben werden. Dies geschieht nur, wenn Sie Ihre Z+ Angebote auf der Drittplattform aktiv freischalten. Ihr ZEIT-Nutzerkonto wird zu keinem Zeitpunkt mit einem Konto eines Dritten verbunden. Weitere personenbezogene Daten werden hierbei nicht verarbeitet.
+
+Die Datenverarbeitung ist zur Abwicklung des zustande kommenden Vertrags gesetzlich erlaubt (Art. 6 Abs. 1 b) DSGVO). Die Weitergabe der oben genannten personenbezogenen Daten ist erforderlich, um Ihnen die Möglichkeit zu bieten, Inhalte auf Drittplattformen nutzen zu können.
+
+Sobald Sie das Z+ Podcast Angebot nicht mehr auf einer Plattform Dritter nutzen können oder wollen, werden die zuvor übergebenen Daten dort gelöscht.
+
 ![Illustration](//images.ctfassets.net/9q531vlek15f/65PTsb1N72tTX3l48lEkON/312228272ea611fae3e0baf1d32c9139/ZV_DSGVO_Illu_03.svg)
 
 TEIL III: Bei der Nutzung unserer Website automatisch erhobene Daten nach Zustimmung
