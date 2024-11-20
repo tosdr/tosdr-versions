@@ -203,7 +203,7 @@ En sa qualité d’unité d’entreprise de la Société suisse de radiodiffusio
 
 Afin que vous puissiez utiliser nos offres en ligne en toute sécurité, la Déclaration de protection des données établie par la SSR vous informe sur le traitement de vos données personnelles : [https://www.srgssr.ch/fr/protection-des-donnees](https://www.srgssr.ch/fr/protection-des-donnees)
 
-Si vous souhaitez obtenir des renseignements ou si vous avez des questions au sujet de la protection des données, vous pouvez nous écrire à l’adresse [protectiondesdonnees@rts.ch](mailto:protectiondesdonnees@rts.ch). Vous pouvez également nous contacter aux coordonnées indiquées ci-dessous. Nous serons heureux de vous répondre.
+Si vous souhaitez obtenir des renseignements ou si vous avez des questions au sujet de la protection des données, vous pouvez nous écrire à l’adresse [protectiondesdonnees@rts.ch](mailto:protectiondesdonnees@rts.ch). Vous pouvez également nous contacter aux coordonnées indiquées ci-dessous. C’est avec plaisir que nous vous répondrons.
 
 RTS Radio Télévision Suisse
 
