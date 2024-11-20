@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/gezondheid/bestaan-chemtrails-officieel-erkend/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/overige/27-sept-open-dag-universiteit-tastam-voor-natuurlijke-geneeswijzen/ "Feeling Lucky? »")
 
 Cookies op WantToKnow
 =====================
