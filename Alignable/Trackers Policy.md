@@ -30,7 +30,7 @@ A cookie is a tiny data file that resides on your computer, mobile phone, or oth
 
 Any information provided to third parties through cookies will not be personally identifiable but may provide general segment information (e.g. your geography) for the enhancement of your user experience by providing more relevant advertising. Alignable does not store unencrypted personally identifiable information in the cookies.
 
-You can remove or block cookies using the settings in your browser, but doing so may impact your ability to use our website, or limit our site functionality. You can also customize your cookie settings [here.](https://www.alignable.com/visitor-cookie-policy#)
+You can remove or block cookies using the settings in your browser, but doing so may impact your ability to use our website, or limit our site functionality. You can also customize your cookie settings [here.](#)
 
 ### **What types of cookies do we use and why do we use them?**
 
