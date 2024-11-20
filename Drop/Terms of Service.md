@@ -3,13 +3,13 @@ Here are the [instructions on how to enable JavaScript in your web browser](http
 
 [Click to view our Accessibility Statement or contact us with accessibility-related questions](https://drop.com/accessibility)
 
-[Signature Series Cotton Candy Keyboard
+[Drop + grell OAE1 Headphones
 
-Give your desk a sugar rush
+New finish, same incredible fidelity.
 
-SHOP NOW
+LISTEN IN
 
-_keyboard\_arrow\_right_](https://drop.com/buy/drop-signature-series-cotton-candy-keyboard)
+_keyboard\_arrow\_right_](https://drop.com/buy/drop-grell-oae1-headphones/)
 
 Free Standard Shipping in the US on orders over $99
 
