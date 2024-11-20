@@ -45,7 +45,7 @@ account
 
 close
 
-[THE BEST DEAL in digital Bible study IS HERE! Access $3,100 worth of premium resources to help understand Scripture. Start your free trial today!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_BestDeal3100_20241111)
+[Find answers to your Bible questions with Bible Gateway Plus. NOW ON SALE! Save 20% FOR LIFE!](https://www.biblegateway.com/plus/?utm_source=bg&utm_medium=alert&utm_campaign=bgplus_alert_answerquestions_nowonsale20241111)
 
 close
 
