@@ -232,7 +232,8 @@ Company
 * [Contact Us](https://simplenursing.com/contact-us/)
 * [Privacy Policy & Terms of Service](https://simplenursing.com/privacy-policy/)
 * [See Pricing & Plans](https://simplenursing.com/pricing/)
-* [Reviews](https://simplenursing.com/testimonials/)
+* [Reviews](https://www.trustpilot.com/review/simplenursing.com)
+* [Testimonials](https://simplenursing.com/testimonials/)
 
 SimpleNursing Products
 
@@ -240,6 +241,22 @@ SimpleNursing Products
 * [NCLEX Prep](https://simplenursing.com/nclex/)
 * [NCLEX-PN® Prep](https://simplenursing.com/nclex-pn/)
 * [TEAS](https://simplenursing.com/teas/)
+
+Nursing School Features
+
+* [Study Guides](https://simplenursing.com/guides/)
+* [Video Series](https://simplenursing.com/video-series/)
+* [Nursing School Quiz Builder](https://simplenursing.com/nursing-school-quiz-builder/)
+* [Exit Prep Video Lectures](https://simplenursing.com/exit-prep-video-lectures/)
+
+NCLEX Prep Features
+
+* [Readiness Assessments](https://simplenursing.com/nclex-readiness-assessments/)
+* [Adaptive Study Plan](https://simplenursing.com/study-plan/)
+* [Review Lecture Series](https://simplenursing.com/review-lecture-series/)
+* [NCLEX Quiz Builder](https://simplenursing.com/nclex-quiz-builder/)
+* [NCLEX Live Review](https://simplenursing.com/nclex-live-review/)
+* [Computer Adaptive Testing](https://simplenursing.com/computer-adaptive-testing/)
 
 Free Resources
 
