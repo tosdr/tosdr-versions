@@ -30,7 +30,7 @@
                 [Learn More](https://copyleaks.com/ai-content-detector/ai-insights?utm_source=website&utm_medium=header&utm_campaign=ai-insights)
                 
     * * * [Academic IntegrityThe only solution that detects AI-generated code, plagiarized and modified source code, and provides essential licensing details.](https://copyleaks.com/academic-integrity)
-        * * [Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
+        * * [GenAI Governance & ComplianceGuarantee ethical AI use and regulatory compliance with a robust and fully scalable governance framework.](https://copyleaks.com/governance-risk-and-compliance)
         * * [Unauthorized LLM UsageEnsure your intellectual property is protected from unauthorized use by large language models (LLMs).](https://copyleaks.com/unauthorized-llm-usage)
         
     * * * [AI Model TrainingEnsure your AI model is trained solely on human-created datasets to enhance accuracy and avoid potential collapse.](https://copyleaks.com/ai-model-training-data)
