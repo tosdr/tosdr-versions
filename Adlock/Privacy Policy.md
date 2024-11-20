@@ -289,6 +289,18 @@ Definitions and legal references
 Latest news
 -----------
 
+[![How to Stop Automatic New Tabs Opening in Google Chrome](/wp-content/uploads/2020/08/Group-217.png)
+
+### How to Stop Automatic New Tabs Opening in Google Chrome](https://adlock.com/blog/how-to-stop-automatic-tabs-opening-in-google-chrome/)
+
+[![Ad Blocker Detected: How To Remove It?](/wp-content/uploads/2021/02/hide_adlock2-1-1.jpg)
+
+### Ad Blocker Detected: How To Remove It?](https://adlock.com/blog/how-to-stop-ad-blocker-detection-on-websites/)
+
+[![Ad-Free Twitch: How to Block Annoying Ads](/wp-content/uploads/2021/02/Twich-cover.jpg)
+
+### Ad-Free Twitch: How to Block Annoying Ads](https://adlock.com/blog/how-to-block-twitch-ads/)
+
 [![How to Stop Seeing Political Ads Online](/wp-content/uploads/2024/11/Political-ads-1.jpg)
 
 ### How to Stop Seeing Political Ads Online](https://adlock.com/blog/how-to-block-political-ads/)
@@ -300,18 +312,6 @@ Latest news
 [![How to Remove Lock Screen Ads on Android](/wp-content/uploads/2023/12/android-lock-screen.png)
 
 ### How to Remove Lock Screen Ads on Android](https://adlock.com/blog/how-to-remove-ads-from-lock-screen/)
-
-[![How To Block All Porn Sites on Any Device](/wp-content/uploads/2021/02/Full-Guide-for-Restricting-Adult-Content.png)
-
-### How To Block All Porn Sites on Any Device](https://adlock.com/blog/how-to-block-porn-sites/)
-
-[![How To Block Temu Ads: A Step-by-Step Guide](/wp-content/uploads/2024/09/Temu-ads.png)
-
-### How To Block Temu Ads: A Step-by-Step Guide](https://adlock.com/blog/how-to-block-temu-ads/)
-
-[![How To Watch YouTube Without Ads on Android](/wp-content/uploads/2019/04/YouTubeNew.png)
-
-### How To Watch YouTube Without Ads on Android](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)
 
 [For Android](https://adlock.com/adlock-for-android/)[For Windows](https://adlock.com/adlock-for-windows/)[For Chrome](https://adlock.com/adlock-for-chrome/)[For Safari](https://adlock.com/adlock-for-safari/)[For macOS](https://adlock.com/adlock-for-macos/)[For iOS](https://adlock.com/adblocker-for-iphone-ios/)[For YouTube](https://adlock.com/blog/how-to-block-youtube-ads-on-android/)[For Twitch](https://adlock.com/blog/how-to-block-twitch-ads/)
 
