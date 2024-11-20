@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [BTC ACCOUNTS HACKED](https://pastebin.com/RDK65GQh)
-    
-    JavaScript | 1 sec ago | 0.09 KB
-    
-* [⭐ get any gift card for FREE](https://pastebin.com/8QSzagbb)
+* [⭐ FREE giftcards method](https://pastebin.com/tNecJNA1)
     
     JavaScript | 3 sec ago | 0.05 KB
     
-* [⭐ FREE giftcards method](https://pastebin.com/MGtVm5GT)
+* [⭐ giftcards for free](https://pastebin.com/grtA32h6)
+    
+    JavaScript | 6 sec ago | 0.05 KB
+    
+* [Amazon Gift cards LEAKED](https://pastebin.com/BuyS9qLr)
+    
+    JavaScript | 6 sec ago | 0.09 KB
+    
+* [⭐ giftcards for free](https://pastebin.com/PFprd7xE)
     
     JavaScript | 10 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/8diBEYLX)
+* [⭐ get any gift card for FREE](https://pastebin.com/1d5zdpst)
     
-    JavaScript | 12 sec ago | 0.05 KB
+    JavaScript | 14 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/hLv5iCCr)
+* [⭐ get any gift card for FREE](https://pastebin.com/9m1vrAYD)
     
     JavaScript | 17 sec ago | 0.05 KB
     
-* [Chaturbate Accounts with Tokens](https://pastebin.com/QJXLcaqm)
+* [⭐ giftcards for free](https://pastebin.com/biP3yNwU)
     
-    JavaScript | 18 sec ago | 0.09 KB
+    JavaScript | 18 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/mCGU0Wqy)
+* [Leaked by Zak](https://pastebin.com/djnLPevw)
     
-    JavaScript | 19 sec ago | 0.05 KB
-    
-* [⭐ giftcards for free](https://pastebin.com/WTrj26Bm)
-    
-    JavaScript | 23 sec ago | 0.05 KB
+    JavaScript | 23 sec ago | 0.09 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
