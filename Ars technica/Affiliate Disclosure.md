@@ -93,7 +93,7 @@ Most Read
     
 4. 4. [The ISS has been leaking air for 5 years, and engineers still don’t know why](https://arstechnica.com/space/2024/11/nasa-roscosmos-disagree-on-risk-of-catastrophic-failure-from-iss-air-leak/)
     
-5. 5. [Trump’s FCC chair is Brendan Carr, who wants to regulate everyone except ISPs](https://arstechnica.com/tech-policy/2024/11/trumps-fcc-chair-is-brendan-carr-who-wants-to-regulate-everyone-except-isps/)
+5. 5. [SpaceX will try some new tricks on Starship’s sixth test flight](https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/)
     
 
 Customize
