@@ -524,7 +524,7 @@ Sök Meny
                 
             * [Ärkebiskopen](https://www.svenskakyrkan.se/arkebiskopen)
                 
-                * [Kontakt – ärkebiskopens stab](https://www.svenskakyrkan.se/arkebiskopen/arkebiskop-antje/stab)
+                * [Kontakt – ärkebiskopens stab](https://www.svenskakyrkan.se/arkebiskopen/stab)
                     
                 * [Ärkebiskop Martin Modéus](https://www.svenskakyrkan.se/arkebiskopen/arkebiskop-martin)
                     
