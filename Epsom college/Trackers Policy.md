@@ -1,4 +1,4 @@
-![](https://www.facebook.com/tr?id=202909781929230&ev=PageView &noscript=1)                      Cookies | Epsom College                             
+![](https://www.facebook.com/tr?id=202909781929230&ev=PageView &noscript=1)                      Cookies | Epsom College                            
 
 [Skip to content](#content-wrap)
 
