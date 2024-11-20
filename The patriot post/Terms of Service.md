@@ -195,26 +195,32 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 ### Memesters Union
 
-     [](https://patriotpost.us/memes/112085-certify-it-2024-11-18)
+     [](https://patriotpost.us/memes/112138-a-red-glow-2024-11-20)
 
 * [More Memes >](https://patriotpost.us/memes)
 
 ### Cartoons
 
-     [](https://patriotpost.us/cartoons/34534)
+     [](https://patriotpost.us/cartoons/34540)
 
 * [More Cartoons >](https://patriotpost.us/cartoons)
 
 ### Top Opinion
 
-*      [Victor Joecks Debunking the Left’s Deportation Hysteria](https://patriotpost.us/opinion/112124-debunking-the-lefts-deportation-hysteria-2024-11-19)
-*      [Cal Thomas Trimming Obese Government](https://patriotpost.us/opinion/112123-trimming-obese-government-2024-11-19)
-*      [Daniel McCarthy Why Democrats Are Losing Tomorrow’s Elections Today](https://patriotpost.us/opinion/112122-why-democrats-are-losing-tomorrows-elections-today-2024-11-19)
-*      [Gary Bauer A Cultural Icon](https://patriotpost.us/opinion/112121-a-cultural-icon-2024-11-19)
-*      [Rich Lowry The Age of Whispered Conversations](https://patriotpost.us/opinion/112119-the-age-of-whispered-conversations-2024-11-19)
-*      [The Washington Stand Advancing the Right to Life in 2025 and Beyond](https://patriotpost.us/opinion/112125-advancing-the-right-to-life-in-2025-and-beyond-2024-11-19)
-*      [The Babylon Bee 9 Things RFK Jr. Plans to Do on Day One to Make America Healthy Again](https://patriotpost.us/opinion/112117-9-things-rfk-jr-plans-to-do-on-day-one-to-make-america-healthy-again-2024-11-19)
-*      [Gary Bauer Avoiding Past Mistakes](https://patriotpost.us/opinion/112066-avoiding-past-mistakes-2024-11-18)
+*      [Gary Bauer 18 Minutes](https://patriotpost.us/opinion/112169-18-minutes-2024-11-20)
+*      [Salena Zito Biden Was the Fluke in 2020, Not Trump in 2016](https://patriotpost.us/opinion/112168-biden-was-the-fluke-in-2020-not-trump-in-2016-2024-11-20)
+*      [Stephen Moore Breaking Up Google Will Be a Great American Catastrophe](https://patriotpost.us/opinion/112167-breaking-up-google-will-be-a-great-american-catastrophe-2024-11-20)
+*      [Tim Graham TV Stars Mock the Tiny Threat of Trans Women in Sports](https://patriotpost.us/opinion/112166-tv-stars-mock-the-tiny-threat-of-trans-women-in-sports-2024-11-20)
+*      [John Stossel Destructive Environmentalists](https://patriotpost.us/opinion/112165-destructive-environmentalists-2024-11-20)
+*      [Star Parker Young, Black, Hispanic Americans Would Opt Out of Social Security Even if It Wasn’t Broken](https://patriotpost.us/opinion/112164-young-black-hispanic-americans-would-opt-out-of-social-security-even-if-it-wasnt-broken-2024-11-20)
+*      [Ian Haworth Biden Wants War on His Way Out](https://patriotpost.us/opinion/112163-biden-wants-war-on-his-way-out-2024-11-20)
+*      [Byron York Schumer to GOP: Please Don’t Do What We Were Going to Do to You](https://patriotpost.us/opinion/112162-schumer-to-gop-please-dont-do-what-we-were-going-to-do-to-you-2024-11-20)
+*      [Betsy McCaughey Kamala’s Defeat Ushers in New, Law-and-Order Future for Cities](https://patriotpost.us/opinion/112161-kamalas-defeat-ushers-in-new-law-and-order-future-for-cities-2024-11-20)
+*      [Hans von Spakovsky Pennsylvania Officials Openly Admit to Trying to Steal Senate Seat](https://patriotpost.us/opinion/112158-pennsylvania-officials-openly-admit-to-trying-to-steal-senate-seat-2024-11-20)
+*      [Christine Flowers Advise and Consent as Important as Ever](https://patriotpost.us/opinion/112156-advise-and-consent-as-important-as-ever-2024-11-20)
+*      [Allen West Cleanup on Aisle 7](https://patriotpost.us/opinion/112154-cleanup-on-aisle-7-2024-11-20)
+*      [The Washington Stand Dems Continue Infighting Over Trans Issues After Election Loss](https://patriotpost.us/opinion/112160-dems-continue-infighting-over-trans-issues-after-election-loss-2024-11-20)
+*      [The Babylon Bee Kamala Asks Biden to Stop Doing Trump Dance in Cabinet Meetings](https://patriotpost.us/opinion/112152-kamala-asks-biden-to-stop-doing-trump-dance-in-cabinet-meetings-2024-11-20)
 
 * [More Opinion >](https://patriotpost.us/opinion)
 
@@ -228,11 +234,11 @@ All users and subscribers of Web site agree to abide by and comply with these "S
 
 [END OF WATCH](https://patriotpost.us/end-of-watch)
 
-[![](https://img.patriotpost.us/01JAZT33BFPWCKHQ8TMC2021Z7.jpeg)](https://patriotpostshop.com/collections/featured-products)
+[The Web's First and Foremost Conservative News Digest](https://patriotpost.us/alexander/2810)
 
 ### The Foundation
 
-“In questions of power, then, let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.” —Thomas Jefferson (1798)
+“The importance of piety and religion; of industry and frugality; of prudence, economy, regularity and an even government; all … are essential to the well-being of a family.” —Samuel Adams (1780)
 
 * [More Founders' Quotes >](https://patriotpost.us/quotes)
 
