@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
- [![Trump Stimulus Checks: Will they be issued, and could you receive one?](https://images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/02/32/18/GettyImages-1214408820.jpg?ve=1&tl=1)
+ [![Delta to serve Shake Shack burgers on flights](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2157750376.jpg?ve=1&tl=1)
 
- ![Trump Stimulus Checks: Will they be issued, and could you receive one?](https://images.foxtv.com/images.foxtv.com/static.fox5dc.com/www.fox5dc.com/content/uploads/2023/02/32/18/592/333/GettyImages-1214408820.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-stimulus-checks-will-be-issued-could-you-receive-one)
+ ![Delta to serve Shake Shack burgers on flights](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2157750376.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/delta-shake-shack-burgers)
 
-### [Trump Stimulus Checks: Will they be issued, and could you receive one?](https://www.fox4news.com/news/trump-stimulus-checks-will-be-issued-could-you-receive-one)
+### [Delta to serve Shake Shack burgers on flights](https://www.fox4news.com/news/delta-shake-shack-burgers)
 
- [![19-year-old Dallas gang member arrested in Glock switch crackdown](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/glock-switch-1.jpg?ve=1&tl=1)
+ [![US alcohol-related deaths more than double over past 20 years](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-467650191.jpg?ve=1&tl=1)
 
- ![19-year-old Dallas gang member arrested in Glock switch crackdown](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/glock-switch-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/johnny-bates-glock-switch-crackdown)
+ ![US alcohol-related deaths more than double over past 20 years](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-467650191.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alcohol-deaths-us-study)
 
-### [19-year-old Dallas gang member arrested in Glock switch crackdown](https://www.fox4news.com/news/johnny-bates-glock-switch-crackdown)
+### [US alcohol-related deaths more than double over past 20 years](https://www.fox4news.com/news/alcohol-deaths-us-study)
 
- [![North Texas nonprofit helps families navigate loss](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-tisia-broken-halos-haven-6a_kdfw4565_146_mxf_00.02.13.50.jpg?ve=1&tl=1)
+ [![Cowboys stars Micah Parsons, Osa Odighizuwa partner with Duncanville ISD for turkey giveaway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111924-pb-cowboy-turkey-giveaway-pkg-dial_00.00.06.52.jpg?ve=1&tl=1)
 
- ![North Texas nonprofit helps families navigate loss](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-tisia-broken-halos-haven-6a_kdfw4565_146_mxf_00.02.13.50.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/broken-halos-haven-lewisville-families-loss)
+ ![Cowboys stars Micah Parsons, Osa Odighizuwa partner with Duncanville ISD for turkey giveaway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111924-pb-cowboy-turkey-giveaway-pkg-dial_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cowboys-stars-micah-parsons-osa-odighizuwa-partner-duncanville-isd-turkey-giveaway)
 
-### [North Texas nonprofit helps families navigate loss](https://www.fox4news.com/news/broken-halos-haven-lewisville-families-loss)
+### [Cowboys stars Micah Parsons, Osa Odighizuwa partner with Duncanville ISD for turkey giveaway](https://www.fox4news.com/news/cowboys-stars-micah-parsons-osa-odighizuwa-partner-duncanville-isd-turkey-giveaway)
 
- [![Fort Worth Police investigate early morning shooting near Texas Wesleyan University](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/GettyImages-1246437778-2.jpg?ve=1&tl=1)
+ [![SpaceX's Starship rocket splashes down in the Indian Ocean](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/spacex-starship-6-2.jpg?ve=1&tl=1)
 
- ![Fort Worth Police investigate early morning shooting near Texas Wesleyan University](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/06/32/18/592/333/GettyImages-1246437778-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/fort-worth-police-investigate-early-morning-shooting-near-texas-wesleyan-university)
+ ![SpaceX's Starship rocket splashes down in the Indian Ocean](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/spacex-starship-6-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
 
-### [Fort Worth Police investigate early morning shooting near Texas Wesleyan University](https://www.fox4news.com/news/fort-worth-police-investigate-early-morning-shooting-near-texas-wesleyan-university)
+### [SpaceX's Starship rocket splashes down in the Indian Ocean](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
 
- [![Car plummets from parking area into mall, killing 1](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/carmall.jpg?ve=1&tl=1)
+ [![Dallas County ballot errors may have impacted Prop U vote](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/05/32/18/city-hall.jpg?ve=1&tl=1)
 
- ![Car plummets from parking area into mall, killing 1](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/carmall.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/car-mall-guatemala)
+ ![Dallas County ballot errors may have impacted Prop U vote](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/05/32/18/592/333/city-hall.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-ballot-errors-prop-u-vote)
 
-### [Car plummets from parking area into mall, killing 1](https://www.fox4news.com/news/car-mall-guatemala)
+### [Dallas County ballot errors may have impacted Prop U vote](https://www.fox4news.com/news/dallas-county-ballot-errors-prop-u-vote)
 
 ###### [News](https://www.fox4news.com/news)
 
