@@ -78,5 +78,3 @@ It is important to know that if you disable cookies you may not be able to use c
 [about](https://www.worldometers.info/about/) | [faq](https://www.worldometers.info/faq/) | [languages](https://www.worldometers.info/languages/) | [contact](https://www.worldometers.info/contact/)
 
 © Copyright Worldometers.info - All rights reserved - [Disclaimer & Privacy Policy](https://www.worldometers.info/disclaimer/)
-
-![Quantcast](//pixel.quantserve.com/pixel/p-Pd9JxUkvV0m7q.gif)
