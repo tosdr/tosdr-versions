@@ -64,7 +64,7 @@ Last Updated: July 1, 2024
 
 English
 
-[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56 "Printer Friendly, PDF & Email")
+[![Printer Friendly, PDF & Email](//cdn.printfriendly.com/buttons/printfriendly-pdf-button-nobg.png)](https://www.printfriendly.com/print?url=https://www.nbcuniversal.com/taxonomy/term/56?__source=InvestingClub%7Cnewsletter%7Cmarketing%7Cmonthlymeeting%7Cletterfromjim%7C20240813&tpcc=InvestingClub%7Cnewsletter%7Cmarketing%7Cmonthlymeeting%7Cletterfromjim%7C20240813 "Printer Friendly, PDF & Email")
 
 NBCUniversal Privacy Policy
 ===========================
