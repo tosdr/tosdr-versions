@@ -308,15 +308,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-Remus Lupin’s condition of lycanthropy is a metaphor for AIDS.
+If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
 
 ### Potter History
 
-July 8, 2000 – Harry Potter and the Goblet of Fire is released in the United States and United Kingdom simultaneously. It was the first Harry Potter book to be released in both countries on the same day.
+August 16, 2004 – A passage from Harry Potter and the Half-Blood Prince describing a character we would come to learn was the new Minister of Magic, Rufus Scrimgeour, was revealed.
 
 ### Potter Quote
 
-“I’ve got to do it! He’ll kill me! He’ll kill my whole family!”
+“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
 
 [](#)
 
