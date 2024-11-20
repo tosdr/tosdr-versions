@@ -265,7 +265,7 @@ Your Comments and Concerns
 
 Unless otherwise indicated, all feedback, comments, requests for technical support, and other communications relating to the Website may be directed to: [\[email protected\]](https://paywithmoon.com/cdn-cgi/l/email-protection).
 
-[](https://www.facebook.com/paywithmoon/)[](https://twitter.com/intent/follow?region=follow_link&screen_name=paywithmoon&tw_p=followbutton)[](https://instagram.com/paywithmoon)[](https://discord.gg/E9TP7wPtZF)
+[](https://www.facebook.com/paywithmoon/)[](https://twitter.com/intent/follow?region=follow_link&screen_name=paywithmoon&tw_p=followbutton)[](https://instagram.com/paywithmoon)[](https://discord.gg/F2rHrHFTAf)
 
 [Contact Us](https://paywithmoon.com/contact-us)
 
