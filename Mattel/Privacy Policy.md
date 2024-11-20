@@ -51,6 +51,8 @@ In some instances, to comply with good privacy practices and the law, we may de-
 
 By accessing, using, or otherwise interacting with any part of the Services, or by otherwise providing personal data to Mattel, you agree to be bound by the terms of this Privacy Statement and the applicable Terms and Conditions of Use which govern your use of the Services. If you do not agree with the terms of this Privacy Statement and the applicable Terms and Conditions, do not access or use the Services or provide personal data to us.
 
+  
+
 ![](https://cdn.builder.io/api/v1/pixel?apiKey=8be5a791274f462fa36ba4e5344b7513)
 
 **Table of Contents**
@@ -106,7 +108,7 @@ a. [When You Direct Us to Share or Otherwise with Your Consent](https://shop.mat
 
 6.     [**How We Protect Your Personal Information**](https://shop.mattel.com/privacy-statement#anchor-how-we-protect-your-personal-information)
 
-**7.**     [**International Transfers**](https://shop.mattel.com/privacy-statement#anchor-international-transfers)
+7.     [**International Transfers**](https://shop.mattel.com/privacy-statement#anchor-international-transfers)
 
 **8.**     [**Regional Disclosures**](https://shop.mattel.com/privacy-statement#anchor-regional-disclosures)
 
@@ -619,7 +621,7 @@ These third-parties may set and access their own tracking technologies on your d
 
 **NAI/DAA Opt-Out.** Some of the companies we use may be members of the Network Advertising Initiative (“NAI”) or Digital Advertising Alliance (“DAA”). The NAI provides information regarding targeted advertising and the [opt-out procedures of NAI members](https://optout.networkadvertising.org/), including opt-out mechanisms for web browsers, mobile and other connected devices, and a tool to opt out from participating NAI members using your hashed email address for interest-based advertising. You may also want to visit the [DAA's website](https://optout.aboutads.info/), which provides information regarding targeted advertising and offers an opt-out for DAA-participating companies. To learn more about interest-based advertisements from participating third parties in Canada, please visit the Canadian DAA online choice page at [https://youradchoices.ca/en/tools](https://youradchoices.ca/en/tools).
 
-**Google Analytics.** We use Google Analytics, which use cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. The Services may also collect information about the use of other websites, apps, and online services. You can [learn about Google's practices](https://policies.google.com/technologies/partner-sites), and opt out of them by downloading the [Google Analytics opt-out browser add-on.](https://tools.google.com/dlpage/gaoptout)
+**Google Analytics.** We use Google Analytics, which use cookies and similar technologies to collect and analyze information about the use of the Services and report on activities and trends. The Services may also collect information about the use of other websites, apps, and online services. You can [learn about Google's practices](https://policies.google.com/technologies/partner-sites), and opt out of them by downloading the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout)[.](https://tools.google.com/dlpage/gaoptout)
 
 Please note that opting out through these mechanisms does not opt you out of being served advertising from Mattel. You will continue to see non-targeted advertisements from many companies, possibly even Mattel, while online. In other words, in the case you have expressed your opt-out by the above methods, some online ads will still appear, but these will not benefit from the information Mattel could have otherwise used that is specific to you or your browsing history. The same way a printed newspaper advertisement addresses a large number of readers generally and no one reader in particular, your advertisements after opt-out will be general in nature and are placed by Mattel to advertise to the general public. Your opt-out choices are also browser and device specific; if you disable your cookies or upgrade your browser after opting out, or if you use different computers or browsers, you will need to indicate your opt-out choices across those other computers and browsers.
 
@@ -1453,11 +1455,11 @@ If you are a resident of Australia, the following information applies.
 
 **Likely Overseas Disclosure.** Personal Information we collect may be disclosed to overseas recipients that are located in the United States or any other country in which we or our subcontractors maintain facilities. We rely on your consent to facilitate this disclosure in the United States and other jurisdictions, where laws regarding processing of personal information may be less stringent than the Australian Privacy Principles. In certain cases, we may rely on appropriate safeguards such as standard contractual clauses as a basis for overseas disclosure.
 
-**Your Rights to Access and Correct Your Personal Information.** You have the right to access and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access and corrections of inaccuracies in your personal information we have in our custody or control by contacting us on our [website.](https://consumersupport.mattel.com/mattelsupport/s/create-case) The purpose of verifying the identity of the individual seeking access to their personal information records.
+**Your Rights to Access and Correct Your Personal Information.** You have the right to access and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access and corrections of inaccuracies in your personal information we have in our custody or control by contacting us on our [website](https://consumersupport.mattel.com/mattelsupport/s/create-case)[.](https://consumersupport.mattel.com/mattelsupport/s/create-case) The purpose of verifying the identity of the individual seeking access to their personal information records.
 
 **Third-party Advertising.** As discussed above, we work with certain third-party advertising companies in connection with our online advertising and those companies may set cookies or other tracking technologies in connection with providing advertising related services to us. Please refer to EDAA’s choice page at [www.youradvertisingchoices.com](http://www.youradvertisingchoices.com/) to learn more about your choices related to advertising with respect to participating EDAA member companies.
 
-**Complaints and Resolving Concerns.** If you have any questions or comments about this Privacy Notice or if you otherwise have a question or complaint about the manner in which we or our service providers treat your personal information, you may contact us on our [website.](https://consumersupport.mattel.com/mattelsupport/s/create-case)
+**Complaints and Resolving Concerns.** If you have any questions or comments about this Privacy Notice or if you otherwise have a question or complaint about the manner in which we or our service providers treat your personal information, you may contact us on our [website](https://consumersupport.mattel.com/mattelsupport/s/create-case)[.](https://consumersupport.mattel.com/mattelsupport/s/create-case)
 
 You may also obtain further information about your privacy rights from the _Office of the Australian Information Commissioner (OAIC)_ at [www.oaic.gov.au](http://www.oaic.gov.au/). OAIC has authority to investigate complaints and claims for compensation in appropriate cases.
 
@@ -1533,7 +1535,7 @@ h.        Other circumstances as stipulated by laws, regulations, and re
 
 法律、法规和监管规则规定的其他情形。
 
-**Who will Mattel Share Your Personal Information with?**
+### **Who will Mattel Share Your Personal Information with?**
 
 **Mattel将与谁共享个人数据？**
 
@@ -1620,8 +1622,6 @@ h.        Survey, questionnaire, and product review suppliers. These pa
 i.          Professional advisers, including lawyers, auditors, and insurers globally. These partners provide consultancy, legal, insurance, and accounting services to Mattel.
 
 专业顾问。包括全球范围内的律师、审计师和保险公司。他们为Mattel提供咨询、法律、保险和会计服务。
-
-  
 
 **Other Uses and Disclosures**
 
@@ -1798,7 +1798,7 @@ We are committed to protecting the personal data of minors. That's why we alway
 
 Please be aware that not all the above rights may apply in all cases. If this happens, we will let you know why your request cannot be granted.
 
-You may exercise your privacy rights by sending an email to the Data Protection Officer of Mattel do Brasil, IW Advogados, represented by Tiago Camargo, at the following email address: dpo.mattelbrasil@iw.adv.br. We will return with a response to your request within a maximum period of 15. You may also contact the [ANPD](https://www.gov.br/anpd/pt-br)  [regarding concerns related to](https://www.gov.br/anpd/pt-br)  regarding concerns related to Mattel’s privacy and data protection practices.
+You may exercise your privacy rights by sending an email to the Data Protection Officer of Mattel do Brasil, IW Advogados, represented by Tiago Camargo, at the following email address: dpo.mattelbrasil@iw.adv.br. We will return with a response to your request within a maximum period of 15. You may also contact the [ANPD](https://www.gov.br/anpd/pt-br)  regarding concerns related to  regarding concerns related to Mattel’s privacy and data protection practices.
 
 **International Transfer**. When we transfer personal data subjected to the LGPD to outside Brazil, we make sure it is done properly. This may include using standard contractual clauses or following other ANPD guidelines on the subject.
 
