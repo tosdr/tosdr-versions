@@ -168,37 +168,37 @@ Questions regarding Pastebin's Privacy Statement or information practices should
 
 [Public Pastes](https://pastebin.com/archive)
 
-* [⭐ FREE giftcards method](https://pastebin.com/jDd3SUzm)
+* [⭐ FREE giftcards method](https://pastebin.com/YPQ6MtwJ)
     
-    JavaScript | 1 sec ago | 0.05 KB
+    JavaScript | 2 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/MdpErZbN)
+* [⭐ giftcards for free](https://pastebin.com/AXpc3AJg)
     
-    JavaScript | 4 sec ago | 0.05 KB
+    JavaScript | 27 sec ago | 0.05 KB
     
-* [⭐ giftcards for free](https://pastebin.com/L47p0SPQ)
+* [⭐ FREE giftcards method](https://pastebin.com/4TwnFbvM)
     
-    JavaScript | 25 sec ago | 0.05 KB
+    JavaScript | 39 sec ago | 0.05 KB
     
-* [⭐ giftcards for free](https://pastebin.com/rR22ScHt)
+* [⭐ giftcards for free](https://pastebin.com/9NjCM92v)
     
-    JavaScript | 29 sec ago | 0.05 KB
+    JavaScript | 41 sec ago | 0.05 KB
     
-* [⭐ get any gift card for FREE](https://pastebin.com/wnfL1eU7)
+* [⭐ giftcards for free](https://pastebin.com/tARkgMuA)
     
-    JavaScript | 32 sec ago | 0.05 KB
+    JavaScript | 59 sec ago | 0.05 KB
     
-* [⭐ FREE giftcards method](https://pastebin.com/emVgaKkb)
+* [⭐ FREE giftcards method](https://pastebin.com/H83FZAJU)
     
-    JavaScript | 45 sec ago | 0.05 KB
+    JavaScript | 1 min ago | 0.05 KB
     
-* [⭐ giftcards for free](https://pastebin.com/rkzHtAvz)
+* [⭐ giftcards for free](https://pastebin.com/CytkXAt7)
     
-    JavaScript | 46 sec ago | 0.05 KB
+    JavaScript | 1 min ago | 0.05 KB
     
-* [⭐ giftcards for free](https://pastebin.com/XLRFKejN)
+* [⭐ giftcards for free](https://pastebin.com/D146QCHB)
     
-    JavaScript | 47 sec ago | 0.05 KB
+    JavaScript | 1 min ago | 0.05 KB
     
 
 [](https://pastebin.com/tools#chrome "Google Chrome Extension")[](https://pastebin.com/tools#firefox "Firefox Extension")[](https://pastebin.com/tools#iphone "iPhone/iPad Application")[](https://pastebin.com/tools#windows "Windows Desktop Application")[](https://pastebin.com/tools#android "Android Application")[](https://pastebin.com/tools#macos "MacOS X Widget")[](https://pastebin.com/tools#opera "Opera Extension")[](https://pastebin.com/tools#pastebincl "Linux Application")
