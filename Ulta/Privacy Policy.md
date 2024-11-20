@@ -1102,8 +1102,6 @@ Free standard shipping on any $35 purchase
         
         The brightest up and coming brands](https://www.ulta.com/discover/sparked)
         
-    * [Beauty Reads](https://www.ulta.com/discover/beauty-reads)
-        
     * [Ulta Beauty Live](https://www.ulta.com/innovation/live-shopping/)
         
     * [Product FAQ](https://www.ulta.com/product-faq/questions)
