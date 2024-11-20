@@ -94,13 +94,13 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Vaccines, fluoride, raw milk: How RFK Jr.’s views may shape public health](https://www.sciencenews.org/article/rfk-vaccines-fluoride-autism-milk-covid)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")15 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")17 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
             ### [Youth tobacco use has gone down, but the work isn’t over](https://www.sciencenews.org/article/cigarette-vaping-nicotine-tobacco-youth)
             
-            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")19 hours ago
+            By [Aimee Cunningham](https://www.sciencenews.org/author/aimee-cunningham "Posts by Aimee Cunningham")21 hours ago
             
         * [Health & Medicine](https://www.sciencenews.org/topic/health-medicine)
             
@@ -124,7 +124,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Nature’s first fiber optics could light the way to internet innovation](https://www.sciencenews.org/article/clam-fiber-optics-symbiotic-algae)
             
-            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")17 hours ago
+            By [Elie Dolgin](https://www.sciencenews.org/author/elie-doglin "Posts by Elie Dolgin")19 hours ago
             
         * [Neuroscience](https://www.sciencenews.org/topic/neuroscience)
             
@@ -147,6 +147,12 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
     * Recent posts in Earth
         ---------------------
         
+        * [Climate](https://www.sciencenews.org/topic/climate)
+            
+            ### [Climate change has amped up hurricane wind speeds by 30 kph on average](https://www.sciencenews.org/article/climate-change-hurricane-wind-speeds)
+            
+            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")15 mins ago
+            
         * [Oceans](https://www.sciencenews.org/topic/oceans)
             
             ### [The world’s largest coral was discovered in the South Pacific](https://www.sciencenews.org/article/world-largest-coral-solomon-islands)
@@ -158,12 +164,6 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             ### [22 pesticides show links to prostate cancer](https://www.sciencenews.org/article/pesticides-link-prostate-cancer)
             
             By [Andrea Tamayo](https://www.sciencenews.org/author/andrea-tamayo "Posts by Andrea Tamayo")November 14, 2024
-            
-        * [Environment](https://www.sciencenews.org/topic/environment)
-            
-            ### [Fire-prone neighborhoods on the fringes of nature are rapidly expanding](https://www.sciencenews.org/article/fire-prone-neighborhoods-expanding)
-            
-            By [Nikk Ogasa](https://www.sciencenews.org/author/nikk-ogasa "Posts by Nikk Ogasa")November 8, 2024
             
 * [Physics](https://www.sciencenews.org/topic/physics)
     * [Physics](https://www.sciencenews.org/topic/physics)
@@ -177,7 +177,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")10 hours ago
             
         * [Particle Physics](https://www.sciencenews.org/topic/particle-physics)
             
@@ -203,7 +203,7 @@ INDEPENDENT JOURNALISM SINCE 1921](https://www.sciencenews.org/)
             
             ### [Einstein’s gravity endures despite a dark energy puzzle](https://www.sciencenews.org/article/einstein-gravity-dark-energy-desi) 
             
-            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")8 hours ago
+            By [Emily Conover](https://www.sciencenews.org/author/emily-conover "Posts by Emily Conover")10 hours ago
             
         * [Planetary Science](https://www.sciencenews.org/topic/planetary-science)
             
