@@ -78,7 +78,7 @@ Search
 
 #### Breaking News
 
-[Manhattan DA Alvin Bragg agrees to pause Trump ‘hush money’ sentencing — but opposes tossing case entirely](https://nypost.com/2024/11/19/us-news/donald-trumps-hush-money-conviction-could-be-tossed-today-by-nyc-judge/)
+[Trump makes selection for head of Department of Education -- which he has vowed to shutter](https://nypost.com/2024/11/19/us-news/trump-selects-linda-mcmahon-to-lead-department-of-education-which-he-has-vowed-to-shutter/)
 
 Privacy Notice Highlights
 =========================
