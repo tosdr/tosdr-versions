@@ -247,10 +247,10 @@ The registered office for First Group Enterprises is 58, Southwark Bridge Road,Â
 
 _Privacy policy updated 7 June 2018_
 
-##### Download First News now on
+##### Download the First News app now!
 
-* [![Download on the App Store](/wp-content/themes/firstnews_timber/assets/img/apple-logo.png)](https://apps.apple.com/gb/app/first-news/id1544460681)
-* [![Android app on Google Play](/wp-content/themes/firstnews_timber/assets/img/android-logo.png)](https://play.google.com/store/apps/details?id=uk.co.firstnews.app)
+* [![Download on the App Store](/wp-content/themes/firstnews_timber/assets/img/svg/Apple-App-Store-badge.svg)](https://apps.apple.com/gb/app/first-news/id1544460681)
+* [![Get it on Google Play](/wp-content/themes/firstnews_timber/assets/img/svg/Google-Play-Store-badge.svg)](https://play.google.com/store/apps/details?id=uk.co.firstnews.app)
 
 * [Terms](https://www.firstnews.co.uk/terms) |
 * [Privacy](https://live.firstnews.co.uk/privacy)
