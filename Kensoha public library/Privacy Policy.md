@@ -52,7 +52,7 @@ Search FAQs
 
 * [My Settings](https://mykpl.bibliocommons.com/account)
 
-[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1732025160709)](https://mykpl.info/)
+[![Kenosha Public Library](//cor-liv-cdn-static.bibliocommons.com/images/WI-KENOSHA/logo.png?1732024947432)](https://mykpl.info/)
 
 [Main navigation](#) [Events](#)
 
@@ -162,7 +162,7 @@ Search
     
     * [Business Skills](https://mykpl.info/resources/business/)
     * [Creative](https://mykpl.info/resources/arts-crafts/)
-    * [Language](https://mykpl.info/learning-tools/language-learning/)
+    * [Money Smarts (Free Financial Learning)](http://mykpl.info/MoneySmarts)
     * [Digital Citizenship Course](https://my.nicheacademy.com/mykpl/pathway/64732)
     
     ### Keeping You Curious
@@ -546,7 +546,7 @@ Kenosha, WI 53142-2129
 
 Powered by BiblioCommons.
 
-BiblioWeb: webapp07 Version 4.23.0 Last updated 2024/11/06 08:40
+BiblioWeb: webapp01 Version 4.23.0 Last updated 2024/11/05 08:30
 
 [Back to Top](#top)
 
