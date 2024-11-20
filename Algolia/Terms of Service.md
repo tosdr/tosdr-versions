@@ -1,11 +1,11 @@
 * [* Deutsch](https://www.algolia.com/de/policies/policyEntryMenu/policyentry-1 "Switch to ")[* English](#)[* français](https://www.algolia.com/fr/policies/policyEntryMenu/policyentry-1 "Switch to ")
     
 
-[Now streaming:
+[News:
 
-Watch the replays from DevCon 2024 🍿
+Come see us at AWS re:Invent, booth 393, Dec 2-6!
 
-Learn more](https://www.algolia.com/devcon)
+Learn more](https://www.algolia.com/search-solutions/algolia-on-aws)
 
 * [Company](https://www.algolia.com/about)
 * [Partners](https://partners.algolia.com/)
@@ -31,7 +31,7 @@ Menu
         
         Suggestions anywhere in the user journey
         
-    *  [![](/files/live/sites/algolia-assets/files/nav/local_mall_1.svg) Merchandising Studio](https://www.algolia.com/industries/ecommerce/merchandising-studio)
+    *  [![](/files/live/sites/algolia-assets/files/nav/local_mall_1.svg) Merchandising Studio](https://www.algolia.com/industries/ecommerce/digital-merchandising)
         
         Data-enhanced customer experiences, without code
         
@@ -108,7 +108,7 @@ Menu
     
     *  [![](/files/live/sites/algolia-assets/files/nav/diversity_3_FILL1_wght400_GRAD0_opsz48_1_1.svg) Customer Hub](https://www.algolia.com/customer-hub)
     *  [![](/files/live/sites/algolia-assets/files/nav/screen_search_desktop_1.svg) Changelog](https://changelog.algolia.com/)
-    *  [![](/files/live/sites/algolia-assets/files/nav/newspaper_1.svg) Newsroom](https://www.algolia.com/about/news/)
+    *  [![](/files/live/sites/algolia-assets/files/nav/newspaper_1.svg) Newsroom](https://www.algolia.com/about/news)
     
 
 Quick Access
@@ -254,7 +254,7 @@ This SLA applies to Subscribers who subscribe to the listed Algolia Plans on or 
 
 #### Company
 
-[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news/)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
+[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
 
 #### Social networks
 
@@ -294,7 +294,7 @@ This SLA applies to Subscribers who subscribe to the listed Algolia Plans on or 
 
 #### Company
 
-[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news/)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
+[About Algolia](https://www.algolia.com/about)[Careers](https://www.algolia.com/careers)[Newsroom](https://www.algolia.com/about/news)[Events](https://www.algolia.com/events)[Leadership](https://www.algolia.com/about/leadership)[Social impact](https://www.algolia.com/about/social-impact)[Contact us](https://www.algolia.com/contact)
 
 #### Social networks
 
@@ -309,7 +309,7 @@ This SLA applies to Subscribers who subscribe to the listed Algolia Plans on or 
 Algolia mark white ©2024 Algolia - All rights reserved.
 
 * Cookie settings
-* [Trust Center](https://www.algolia.com/trust-center/)
+* [Trust Center](https://www.algolia.com/trust-center)
 * [Privacy Policy](https://www.algolia.com/policies/privacy)
 * [Terms of service](https://www.algolia.com/policies/terms)
 * [Acceptable Use Policy](https://www.algolia.com/policies/acceptable-use)
