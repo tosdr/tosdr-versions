@@ -387,21 +387,21 @@ Share This Article
 
  
 
+* [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
 * [Instagram Safety](https://www.safesearchkids.com/instagram-sensitive-content-and-family-center/)
 * [Is Threads Safe?](https://www.safesearchkids.com/is-threads-safe-for-teens/)
 * [Parental App](https://www.safesearchkids.com/best-parental-control-app/)
 * [Kik Messenger](https://www.safesearchkids.com/what-parents-should-know-about-kik-messenger/)
 * [Is Discord Safe?](https://www.safesearchkids.com/is-discord-safe-for-your-kids-a-complete-parental-guide/)
-* [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
-* [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
 * [CyberBullying](https://www.safesearchkids.com/cyber-bullying-for-parents/)
+* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
+* [Safer Messenger](https://www.safesearchkids.com/parental-controls-for-facebook-messenger/)
+* [Phones in School](https://www.safesearchkids.com/cell-phones-in-school/)
 * [Is TikTok Safe?](https://www.safesearchkids.com/5-things-parents-need-to-know-about-tiktok/)
+* [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
 * [Navigating Twitch](https://www.safesearchkids.com/parents-guide-to-navigating-twitch-tv/)
 * [Roblox Safety](https://www.safesearchkids.com/roblox-parental-controls/)
-* [Snapchat Safety](https://www.safesearchkids.com/snapchat-kids/)
 * [Is Reddit Safe](https://www.safesearchkids.com/is-reddit-safe/)
-* [WhatsApp Safety](https://www.safesearchkids.com/whatsapp-safety-for-kids/)
-* [Teens on X](https://www.safesearchkids.com/tips-to-help-keep-teens-safe-on-twitter/)
 
 Safe and Secure Internet Browsing
 ---------------------------------
