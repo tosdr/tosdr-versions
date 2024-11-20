@@ -158,76 +158,76 @@ Please note that under Section 512(f) of the DMCA, any person who knowingly mate
 
 TOP NEWS
 
-* [NFL Has No Issue With ‘Trump Dance’ Celebrations, Spokesman Says](https://www.theepochtimes.com/sports/nfl-has-no-issue-with-trump-dance-celebrations-spokesman-says-5762971)
+* [Lawmakers, Advocates Speak Out Against Mass Jailing of Hong Kong Activists](https://www.theepochtimes.com/us/lawmakers-advocates-speak-out-against-mass-jailing-of-hong-kong-activists-5763159)
     
-    NEW By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
+    NEW By [Stacy Robinson](https://www.theepochtimes.com/author/stacy-robinson)
     
-    [![NFL Has No Issue With ‘Trump Dance’ Celebrations, Spokesman Says](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Lawmakers, Advocates Speak Out Against Mass Jailing of Hong Kong Activists](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![NFL Has No Issue With ‘Trump Dance’ Celebrations, Spokesman Says](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762978-bs19191293-205x123.jpg.webp)](https://www.theepochtimes.com/sports/nfl-has-no-issue-with-trump-dance-celebrations-spokesman-says-5762971)
-* [Brazilian Police Arrest 5 Over Plot to Kill Lula and Mount Coup in 2022](https://www.theepochtimes.com/world/brazilian-police-arrest-5-over-plot-to-kill-lula-and-mount-coup-in-2022-post-5762863)
+    ![Lawmakers, Advocates Speak Out Against Mass Jailing of Hong Kong Activists](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762693-11192024-DSC00039-Nancy-Pelosi-205x123.jpg.webp)](https://www.theepochtimes.com/us/lawmakers-advocates-speak-out-against-mass-jailing-of-hong-kong-activists-5763159)
+* [Pentagon UFO Office Director Describes Unexplained Sightings in Senate Testimony](https://www.theepochtimes.com/us/pentagon-ufo-office-director-describes-unexplained-sightings-in-senate-testimony-5763091)
     
-    4hr By [Chris Summers](https://www.theepochtimes.com/author/chris-summers)
+    NEW By [Jacob Burg](https://www.theepochtimes.com/author/jacob-burg)
     
-    [![Brazilian Police Arrest 5 Over Plot to Kill Lula and Mount Coup in 2022](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Pentagon UFO Office Director Describes Unexplained Sightings in Senate Testimony](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Brazilian Police Arrest 5 Over Plot to Kill Lula and Mount Coup in 2022](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762935-Brazil_Rio_G20_24324666641539-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/world/brazilian-police-arrest-5-over-plot-to-kill-lula-and-mount-coup-in-2022-post-5762863)
-* [US Embassy in Kyiv Shuts Over ‘Potential Significant Air Attack’](https://www.theepochtimes.com/world/us-embassy-in-kyiv-shuts-over-potential-significant-air-attack-5762859)
+    ![Pentagon UFO Office Director Describes Unexplained Sightings in Senate Testimony](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763393-2024-11-14T203141Z_2_LYNXMPEKAD03H_RTROPTP_4_UKRAINE-CRISIS-USA-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/pentagon-ufo-office-director-describes-unexplained-sightings-in-senate-testimony-5763091)
+* [House Ethics Committee Decides Not to Release Gaetz Report](https://www.theepochtimes.com/us/house-ethics-chairman-has-reservations-about-releasing-gaetz-report-5763249)
     
-    4hr By [Katabella Roberts](https://www.theepochtimes.com/author/katabella-roberts)
+    1hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![US Embassy in Kyiv Shuts Over ‘Potential Significant Air Attack’](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![House Ethics Committee Decides Not to Release Gaetz Report](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Embassy in Kyiv Shuts Over ‘Potential Significant Air Attack’](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762927-GettyImages-1240748355-LS-205x123.jpg.webp)](https://www.theepochtimes.com/world/us-embassy-in-kyiv-shuts-over-potential-significant-air-attack-5762859)
-* [Foreign Investors Keep Buying US Debt as Domestic Demand Slows: Treasury Data](https://www.theepochtimes.com/business/foreign-investors-keep-buying-us-debt-as-domestic-demand-slows-treasury-data-5762799)
+    ![House Ethics Committee Decides Not to Release Gaetz Report](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763398-gaetz-LSedit-205x123.jpg)](https://www.theepochtimes.com/us/house-ethics-chairman-has-reservations-about-releasing-gaetz-report-5763249)
+* [Bipartisan Panel Urges Congress to Revoke China’s Trade Privileges](https://www.theepochtimes.com/china/bipartisan-panel-urges-congress-to-revoke-chinas-trade-privileges-5763120)
     
-    7hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
+    2hr By [Frank Fang](https://www.theepochtimes.com/author/frank-fang), Epoch Times
     
-    [![Foreign Investors Keep Buying US Debt as Domestic Demand Slows: Treasury Data](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Bipartisan Panel Urges Congress to Revoke China’s Trade Privileges](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Foreign Investors Keep Buying US Debt as Domestic Demand Slows: Treasury Data](https://img.theepochtimes.com/assets/uploads/2024/10/09/id5738583-Dollar-GettyImages-2150540506-LS-205x123.jpg.webp)](https://www.theepochtimes.com/business/foreign-investors-keep-buying-us-debt-as-domestic-demand-slows-treasury-data-5762799)
-* [Consciousness Flows Like a River From Life to Life](https://www.theepochtimes.com/health/consciousness-flows-like-a-river-from-life-to-life-5706093)
+    ![Bipartisan Panel Urges Congress to Revoke China’s Trade Privileges](https://img.theepochtimes.com/assets/uploads/2024/09/09/id5720990-GettyImages-1165548990-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/bipartisan-panel-urges-congress-to-revoke-chinas-trade-privileges-5763120)
+* [US Vetoes UN Resolution Calling for Gaza Cease-Fire](https://www.theepochtimes.com/world/us-vetoes-un-resolution-calling-for-gaza-cease-fire-5763064)
     
-    11hr By [Yuhong Dong](https://www.theepochtimes.com/expert/yuhong-dong-experts) and [Makai Allbert](https://www.theepochtimes.com/author/makai-allbert)
+    2hr By [Chase Smith](https://www.theepochtimes.com/author/chase-smith)
     
-    [![Consciousness Flows Like a River From Life to Life](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Vetoes UN Resolution Calling for Gaza Cease-Fire](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Consciousness Flows Like a River From Life to Life](https://img.theepochtimes.com/assets/uploads/2024/11/16/id5760873-Untitled_Artwork-9-205x123.jpg.webp)](https://www.theepochtimes.com/health/consciousness-flows-like-a-river-from-life-to-life-5706093)
-* [Biden Urges World Leaders to Keep Focus on Climate](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
+    ![US Vetoes UN Resolution Calling for Gaza Cease-Fire](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763373-GettyImages-2185750540-1-205x123.jpg)](https://www.theepochtimes.com/world/us-vetoes-un-resolution-calling-for-gaza-cease-fire-5763064)
+* [US Home Prices Maintain Upward Trend](https://www.theepochtimes.com/real-estate/us-home-prices-maintain-upward-trend-5763189)
     
-    12hr By [Emel Akan](https://www.theepochtimes.com/author/emel-akan)
+    3hr By [Naveen Athrappully](https://www.theepochtimes.com/author/naveen-athrappully)
     
-    [![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![US Home Prices Maintain Upward Trend](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Biden Urges World Leaders to Keep Focus on Climate](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762936-Biden-at-G20-in-Brazil_2-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/biden-urges-world-leaders-to-keep-focus-on-climate-5762661)
-* [New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://www.theepochtimes.com/us/new-york-times-attacks-detached-from-reality-shen-yun-artists-say-5762648)
+    ![US Home Prices Maintain Upward Trend](https://img.theepochtimes.com/assets/uploads/2024/11/14/id5759929-House-sale_1KO-205x123.jpg.webp)](https://www.theepochtimes.com/real-estate/us-home-prices-maintain-upward-trend-5763189)
+* [Texas Offers 1,400-Acre Ranch to Trump for Mass Deportations Program](https://www.theepochtimes.com/us/texas-offers-1400-acre-ranch-to-trump-for-mass-deportations-program-5763144)
     
-    13hr By [Petr Svab](https://www.theepochtimes.com/author/petr-svab)
+    3hr By [Jack Phillips](https://www.theepochtimes.com/author/jack-phillips)
     
-    [![New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Texas Offers 1,400-Acre Ranch to Trump for Mass Deportations Program](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![New York Times’ Attacks Detached From Reality, Shen Yun Artists Say](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762448-DSC04963-e-205x123.jpg.webp)](https://www.theepochtimes.com/us/new-york-times-attacks-detached-from-reality-shen-yun-artists-say-5762648)
-* [Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://www.theepochtimes.com/article/trump-promises-to-use-recess-appointments-if-needed-but-what-are-they-5762526)
+    ![Texas Offers 1,400-Acre Ranch to Trump for Mass Deportations Program](https://img.theepochtimes.com/assets/uploads/2024/06/13/id5668091-GettyImages-1865318333-OP-205x123.jpg.webp)](https://www.theepochtimes.com/us/texas-offers-1400-acre-ranch-to-trump-for-mass-deportations-program-5763144)
+* [From China to Tariffs: What Howard Lutnick Would Oversee as Commerce Secretary](https://www.theepochtimes.com/business/from-china-to-tariffs-what-howard-lutnick-would-oversee-as-commerce-secretary-5763040)
     
-    13hr By [Samantha Flom](https://www.theepochtimes.com/author/samantha-flom)
+    3hr By [Andrew Moran](https://www.theepochtimes.com/author/andrew-moran)
     
-    [![Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![From China to Tariffs: What Howard Lutnick Would Oversee as Commerce Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Promises to Use Recess Appointments If Needed, but What Are They?](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762676-Recess-appointments-5-205x123.jpg.webp)](https://www.theepochtimes.com/article/trump-promises-to-use-recess-appointments-if-needed-but-what-are-they-5762526)
-* [Trump Chooses Linda McMahon for Education Secretary](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
+    ![From China to Tariffs: What Howard Lutnick Would Oversee as Commerce Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5763384-Howard-Lutnick-GettyImages-2171390481-LSedit-205x123.jpg)](https://www.theepochtimes.com/business/from-china-to-tariffs-what-howard-lutnick-would-oversee-as-commerce-secretary-5763040)
+* [Comcast Will Spin Off MSNBC, CNBC, and Cable Channels](https://www.theepochtimes.com/business/comcast-will-spin-off-msnbc-cnbc-and-cable-channels-5763133)
     
-    14hr By [Aldgra Fredly](https://www.theepochtimes.com/author/aldgra-fredly)
+    4hr By [Austin Alonzo](https://www.theepochtimes.com/author/austin-alonzo)
     
-    [![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Comcast Will Spin Off MSNBC, CNBC, and Cable Channels](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![Trump Chooses Linda McMahon for Education Secretary](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762934-Linda-McMahon_NPC-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/us/trump-chooses-linda-mcmahon-for-education-secretary-5762773)
-* [US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
+    ![Comcast Will Spin Off MSNBC, CNBC, and Cable Channels](https://img.theepochtimes.com/assets/uploads/2021/10/28/Comcast-205x123.jpg.webp)](https://www.theepochtimes.com/business/comcast-will-spin-off-msnbc-cnbc-and-cable-channels-5763133)
+* [Speaker Johnson Bars Men From Women’s Bathrooms at Capitol](https://www.theepochtimes.com/us/speaker-johnson-bars-men-from-womens-bathrooms-at-capitol-5763131)
     
-    14hr By [Dorothy Li](https://www.theepochtimes.com/author/dorothy-li)
+    4hr By [Arjun Singh](https://www.theepochtimes.com/author/arjun-singh)
     
-    [![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
+    [![Speaker Johnson Bars Men From Women’s Bathrooms at Capitol](https://img.theepochtimes.com/assets/themes/eet/images/white.png)
     
-    ![US Is Preparing New Sanctions Over Sentencing of 45 Activists in Hong Kong: State Department](https://img.theepochtimes.com/assets/uploads/2024/11/20/id5762938-GettyImages-2184864156-LSedit-205x123.jpg.webp)](https://www.theepochtimes.com/china/us-is-preparing-new-sanctions-over-sentencing-of-45-activists-in-hong-kong-state-department-5762445)
+    ![Speaker Johnson Bars Men From Women’s Bathrooms at Capitol](https://img.theepochtimes.com/assets/uploads/2024/11/19/id5762320-11192024-DSC09819-House-Republicans-Mike-Johnson-205x123.jpg.webp)](https://www.theepochtimes.com/us/speaker-johnson-bars-men-from-womens-bathrooms-at-capitol-5763131)
 
 [![The Epoch Times](https://www.theepochtimes.com/assets/themes/eet/images/logo_eet.svg)](https://www.theepochtimes.com/)
 
