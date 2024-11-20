@@ -1,4 +1,4 @@
-![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-6e295535-17e9-4ea1-ba00-ad89ecfed5eb&vrid=10815690-b409-4b9b-b83e-6e4371ab211a)
+![](https://c.ypcdn.com/2/p/webyp?ptid=www.yellowpages.com&rid=webyp-1b5ff0ae-7d96-497c-bee6-efb80d36eb35&vrid=4fe205e0-e658-477d-b84b-c774d8fd10e8)
 
 [![The Real Yellow Pages logo](//i3.ypcdn.com/ypu/images/svgs/mobile_yp_logo.svg?b22cf63)![The Real Yellow Pages logo](//i4.ypcdn.com/ypu/images/svgs/yp.svg?b22cf63)](https://www.yellowpages.com/)
 
@@ -281,7 +281,7 @@ Thryv, Inc. respects the copyright of others and we expect our users of the YP S
 
 ### 12.2 To File a Copyright Complaint (DMCA)
 
-1. If you believe that any material on or accessible through the YP Sites or Service infringes your copyright, pursuant to section 512(c)(3) of the DMCA , please send us a written notice requesting takedown per the DMCA, containing the following necessary information to our Designated Agent, listed below, or to [dmcanotices@thryv.com](mailto:dmcanotices@thryv.com):
+1. If you believe that any material on or accessible through the YP Sites or Service infringes your copyright, pursuant to section 512(c)(3) of the DMCA , please send us a written notice requesting takedown per the DMCA, containing the following necessary information to our Designated Agent, listed below, or to [\[email protected\]](https://www.yellowpages.com/cdn-cgi/l/email-protection):
     1. Identification of the copyrighted work(s) or material(s) claimed to be infringed;
     2. Identification of the material that is claimed to be infringing, or to be the subject of allegedly infringing activity and that is to be removed, and information reasonably sufficient to permit us to locate and verify the material;
     3. Your contact information sufficient for us to identify you, including: name, and address, telephone number and/or email address. If you are not the owner of the copyrighted material that has been allegedly infringed, please describe your relationship to the copyright owner;
@@ -320,7 +320,7 @@ Thryv, Inc.
 P.O. Box 619810
 DFW Airport, TX 75261-9810
 
-Email: [dmcanotices@thryv.com](mailto:dmcanotices@thryv.com)
+Email: [\[email protected\]](https://www.yellowpages.com/cdn-cgi/l/email-protection)
 
 ### 12.6 Trademark Policy.
 
@@ -328,7 +328,7 @@ A trademark is a word, slogan, logo, symbol or design that can be used to distin
 
 ### 12.7 To File a Trademark Complaint
 
-1. To report a claim of trademark infringement, please provide the following items to [dmcanotices@thryv.com](mailto:dmcanotices@thryv.com):
+1. To report a claim of trademark infringement, please provide the following items to [\[email protected\]](https://www.yellowpages.com/cdn-cgi/l/email-protection):
     1. Your complete contact information, including: full name, telephone number, address and email. If you are not the owner of the trademark that has allegedly been infringed, please describe your relationship to the trademark owner;
     2. The specific word, symbol, etc. to which you claim trademark rights;
     3. The basis of your trademark rights, including, if applicable, the application or registration number;
