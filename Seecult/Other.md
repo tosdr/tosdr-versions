@@ -342,11 +342,11 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 
 [Galerija umetnika](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")[](http://seecult.org/galerija/galerija-umetnika "Galerija umetnika")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno/zampa-hamburg.jpg?itok=z4g1xpHx)](http://seecult.org/galerija/galerija-umetnika/zampa-di-leone/zampa-di-leone-razno)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/galerija-umetnika/selman-trtovac/crna-ruka/ruka-ubice/crna-ruka-selman-trtovac.jpg?itok=c8smIsa1)](http://seecult.org/galerija/galerija-umetnika/selman-trtovac/crna-rukaruka-ubice)
 
 [Foto galerija](http://seecult.org/galerija/foto-galerija "Foto galerija")[](http://seecult.org/galerija/foto-galerija "Foto galerija")
 
-[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/foto-arhiva/juha.jpg?itok=vjWnj6tH)](http://seecult.org/galerija/foto-galerija/foto-arhiva)
+[![](http://seecult.org/sites/default/files/styles/block_220x160/public/gallery/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/beldocs-2009/dovidjenja-kako-ste.jpg?itok=SkOn8D0u)](http://seecult.org/galerija/foto-galerija/festivali-koncerti-predstave-akcije/festivali/beldocs-2009)
 
 * [Najčitanije](#news_1)
 * [Najnovije](#news_2)
@@ -362,6 +362,8 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Preminula Jasna Tijardović Popović](http://seecult.org/vest/preminula-jasna-tijardovic-popovic)
 * [Najuži izbor za NIN-ovu nagradu za 2022.](http://seecult.org/vest/najuzi-izbor-za-nin-ovu-nagradu-za-2022)
 
+* [Selekcija filmova 15. MikroFAF-a – Fresh Frames](http://seecult.org/vest/selekcija-filmova-15-mikrofaf-fresh-frames)
+* [FDU zahteva oslobađanje pritvorenih](http://seecult.org/vest/fdu-zahteva-oslobadanje-pritvorenih)
 * [Izmenjena vodom](http://seecult.org/vest/izmenjena-vodom)
 * [Specijalne nagrade FAF-a povodom 30 godina](http://seecult.org/vest/specijalne-nagrade-faf-povodom-30-godina)
 * [Radovan Vujović dobitnik nagrade Raša Plaović](http://seecult.org/vest/radovan-vujovic-dobitnik-nagrade-rasa-plaovic)
@@ -370,8 +372,6 @@ SEEcult.org is a nongovernmental, non-profit organization based in Belgrade, fou
 * [Aktivizam i umetnost - istorijska iskustva i participativne prakse](http://seecult.org/vest/aktivizam-i-umetnost-istorijska-iskustva-i-participativne-prakse)
 * [Izvanredan doprinos informatici](http://seecult.org/vest/izvanredan-doprinos-informatici)
 * [Irena Paunović u Haosu](http://seecult.org/vest/irena-paunovic-u-haosu)
-* [Volja sinovljeva - vestern, samurajski i guslarski film](http://seecult.org/vest/volja-sinovljeva-vestern-samurajski-i-guslarski-film)
-* [Preminuo Dejan Despić](http://seecult.org/vest/preminuo-dejan-despic)
 
 * [Konkursi](#tab1_1)
 
