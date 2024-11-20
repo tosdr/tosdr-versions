@@ -4,13 +4,13 @@
 
 [](https://buypiezano.com/Home)
 
-[Order Now!](https://buypiezano.com/checkout/8e35bf/step1?m=347005320987994515)
+[Order Now!](https://buypiezano.com/checkout/8e35bf/step1?m=348002118009244245)
 
 Make Golden Crispy, Extra Cheesy, Stone Baked Pizza in Minutes!
 
-[Order Yours Now →](https://buypiezano.com/checkout/8e35bf/step1?m=347005320987994515)
+[Order Yours Now →](https://buypiezano.com/checkout/8e35bf/step1?m=348002118009244245)
 
-Please Click Here to Call: [1-800-309-0437](tel:18003090437)
+Please Click Here to Call: [1-800-313-4358](tel:18003134358)
 
 Terms and Conditions
 
