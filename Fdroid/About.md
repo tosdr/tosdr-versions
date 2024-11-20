@@ -178,4 +178,4 @@ F-Droid is powered by your donations!
 * [This Week Is on Fire](https://f-droid.org/en/2024/10/24/twif.html) Oct 24, 2024
 * [Sync your clock, it's stable time](https://f-droid.org/en/2024/10/17/twif.html) Oct 17, 2024
 
-© 2010-2024 F-Droid Contributors (F-Droid 2024-11-18, fdroid-website [2.288](https://gitlab.com/fdroid/fdroid-website/tree/b667f6eb43)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
+© 2010-2024 F-Droid Contributors (F-Droid 2024-11-20, fdroid-website [2.288](https://gitlab.com/fdroid/fdroid-website/tree/b667f6eb43)) [Status](https://fdroidstatus.org/) | [Edit on GitLab](https://gitlab.com/fdroid/fdroid-website/edit/master/)
