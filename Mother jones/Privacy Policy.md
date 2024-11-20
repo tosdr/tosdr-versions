@@ -8,10 +8,10 @@
 
 *  
     
-* [RFK Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-donald-trump-health-and-human-services/)
-* [Elon Musk](https://www.motherjones.com/politics/2024/11/musk-trump-men-election-results-misogyny-sexism/)
-* [Trump’s Defense Secretary Pick](https://www.motherjones.com/politics/2024/11/trump-peter-hegseth-defense-secretary-pick-theobros-hopes-for-a-christian-crusade/)
-* [Russian Disinformation](https://www.motherjones.com/politics/2024/11/trump-cabinet-picks-marco-rubio-elise-stefanik-once-confirmed-putin-attacked-the-2016-election-to-help-trump/)
+* [Trump’s Staff Picks](https://www.motherjones.com/politics/2024/11/brendan-carr-federal-communications-commission-donald-trump/)
+* [Trump’s Mass Deportation Plot](https://www.motherjones.com/politics/2024/11/trump-mass-deportations-military-national-emergency/)
+* [Climate Change](https://www.motherjones.com/politics/2024/11/trump-repeal-biden-climate-policies-manufacturing-jobs/)
+* [Matt Gaetz Ethics Report](https://www.motherjones.com/politics/2024/11/matt-gaetz-ethics-report-house-speaker-mike-johnson-private-citizen-donald-trump-doj-nominee/)
 
 * [Newsletters](https://www.motherjones.com/newsletters/?mj_oac=dropdown_nav)
 * [Politics](https://www.motherjones.com/politics/)
@@ -27,10 +27,10 @@
 
 *  
     
-* [RFK Jr.](https://www.motherjones.com/politics/2024/11/robert-f-kennedy-jr-donald-trump-health-and-human-services/)
-* [Elon Musk](https://www.motherjones.com/politics/2024/11/musk-trump-men-election-results-misogyny-sexism/)
-* [Trump’s Defense Secretary Pick](https://www.motherjones.com/politics/2024/11/trump-peter-hegseth-defense-secretary-pick-theobros-hopes-for-a-christian-crusade/)
-* [Russian Disinformation](https://www.motherjones.com/politics/2024/11/trump-cabinet-picks-marco-rubio-elise-stefanik-once-confirmed-putin-attacked-the-2016-election-to-help-trump/)
+* [Trump’s Staff Picks](https://www.motherjones.com/politics/2024/11/brendan-carr-federal-communications-commission-donald-trump/)
+* [Trump’s Mass Deportation Plot](https://www.motherjones.com/politics/2024/11/trump-mass-deportations-military-national-emergency/)
+* [Climate Change](https://www.motherjones.com/politics/2024/11/trump-repeal-biden-climate-policies-manufacturing-jobs/)
+* [Matt Gaetz Ethics Report](https://www.motherjones.com/politics/2024/11/matt-gaetz-ethics-report-house-speaker-mike-johnson-private-citizen-donald-trump-doj-nominee/)
 
 [Subscribe to our magazine](https://secure.motherjones.com/flex/MOJ/SUBS/?p=SEGHOP&c=SEGHOC&d=SEGHOD&f=SEGHOF "Subscribe")
 
