@@ -1,6 +1,6 @@
 ×
 
-         
+        
 
 _**Family Owned and Operated Since 1993!**_
 
@@ -253,7 +253,7 @@ Search results
     
     4 in stock
     
-    $60.00
+    $64.00
     
     Quantity  Add to cart
     
