@@ -305,7 +305,7 @@
 
 [#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407)
 
-Сегодня 16:30
+20.11.24
 
 [![Владимир Якушев обратил внимание на необходимость закрепить «мастер-план» на законодательном уровне](https://cdn.er.ru/media/news/November2024/iD7C2zS8MiAcDM2XHEkZ-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-obratil-vnimanie-na-neobhodimost-zakrepit-master-plan-na-zakonodatelnom-urovne)
 
@@ -313,7 +313,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#мастер-план](https://er.ru/activity/news?tags%5B0%5D=1092102) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
 
-Сегодня 15:31
+20.11.24
 
 [![Госдума приняла в первом чтении законопроект «Единой России» о бесплатной юридической помощи для многодетных семей](https://cdn.er.ru/media/news/November2024/a2wcIWyAC4RLtL3UsaoH-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-besplatnoj-yuridicheskoj-pomoshi-dlya-mnogodetnyh-semej)
 
@@ -321,7 +321,7 @@
 
 [#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 15:03
+20.11.24
 
 [![«Единая Россия» поддержала создание единой программы воспитания в детских лагерях](https://cdn.er.ru/media/news/November2024/Ula7Rg5X8V0x0nAdolDP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhala-sozdanie-edinoj-programmy-vospitaniya-v-detskih-lageryah)
 
@@ -329,7 +329,7 @@
 
 [#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
 
-Сегодня 14:10
+20.11.24
 
 [![Владимир Якушев о расселении сирот: Нужно максимально задействовать в регионах жилой фонд, который построен за счёт бюджетных средств](https://cdn.er.ru/media/news/November2024/0b9MZNu46Ywko9092HWQ-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-o-rasselenii-sirot-nuzhno-maksimalno-zadejstvovat-v-regionah-zhiloj-fond-kotoryj-postroen-za-schyot-byudzhetnyh-sredstv)
 
@@ -337,7 +337,7 @@
 
 [#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=135932) [#сироты](https://er.ru/activity/news?tags%5B0%5D=1090754) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
 
-Сегодня 13:54
+20.11.24
 
 [![«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://cdn.er.ru/media/news/November2024/tLzwkvkcvO3k3YJ3OaNE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
 
@@ -345,7 +345,7 @@
 
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#защитадетства](https://er.ru/activity/news?tags%5B0%5D=105383) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
-Сегодня 09:30
+20.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
