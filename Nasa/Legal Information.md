@@ -269,7 +269,7 @@ article 5 days ago](https://www.nasa.gov/missions/emit/nasas-emit-will-explore-d
 
 ### Station Science Top News: Nov. 15, 2024
 
-article 24 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![iss070e113015 (March 10, 2024) -- NASA astronaut and Expedition 70 Flight Engineer Jeanette Epps is pictured floating in microgravity aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/03/53589381459-01243dd5d3-o-1.jpg?w=1024)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![iss070e113015 (March 10, 2024) -- NASA astronaut and Expedition 70 Flight Engineer Jeanette Epps is pictured floating in microgravity aboard the International Space Station.](https://www.nasa.gov/wp-content/uploads/2024/03/53589381459-01243dd5d3-o-1.jpg?w=1024)
 
 5 min read
 
@@ -357,13 +357,13 @@ article 5 days ago](https://science.nasa.gov/missions/hubble/nasas-hubble-sees-a
 
 ### Station Science Top News: Nov. 15, 2024
 
-article 24 hours ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
+article 1 day ago](https://www.nasa.gov/centers-and-facilities/johnson/station-science-top-news-nov-15-2024/)[![Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment](https://assets.science.nasa.gov/dynamicimage/assets/science/missions/landsat/2024/09/safires_epc_20240903_th.jpg)
 
 2 min read
 
 ### Amendment 69: DRAFT A.59 New or Modified GLOBE Protocols for Community Comment
 
-article 24 hours ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)[![Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/1714/188_Saturn_E2_80_99s_North_Polar_Hurricane.jpeg)
+article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024/amendment-69-draft-a-59-new-or-modified-globe-protocols-for-community-comment/)[![Table 1 of ROSES-24 and the ROSES-2024 Summary of Solicitation Updated to Include Link to Grants Policy Guidance on Proposal Requirements.](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/1714/188_Saturn_E2_80_99s_North_Polar_Hurricane.jpeg)
 
 1 min read
 
@@ -379,7 +379,7 @@ article 1 day ago](https://science.nasa.gov/researchers/solicitations/roses-2024
 
 ### NASA Engineer Carries Indigenous Roots into New Aviation Era
 
-article 6 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
+article 7 hours ago](https://www.nasa.gov/centers-and-facilities/glenn/nasa-engineer-carries-indigenous-roots-into-new-aviation-era/)[![A white building surrounded by external equipment in front of a blue sky with clouds.](https://www.nasa.gov/wp-content/uploads/2024/11/1-grc-2015-c-07729.jpg?w=1024)
 
 2 min read
 
@@ -401,7 +401,7 @@ article 4 days ago](https://www.nasa.gov/dynamic-spin-rig-publications/)
 
 ### Super Insulation Requires Super Materials 
 
-article 21 mins ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
+article 1 hour ago](https://www.nasa.gov/technology/tech-transfer-spinoffs/super-insulation-requires-super-materials/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/kjell-lindgren-mission-all-systems-go-patient-photo.jpg?w=1024)
 
 4 min read
 
@@ -445,7 +445,7 @@ article 2 weeks ago](https://science.nasa.gov/planetary-science/programs/radiois
 
 ### Northwestern University Takes Top Honors in BIG Idea Lunar Inflatables Challenge 
 
-article 21 mins ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
+article 1 hour ago](https://www.nasa.gov/directorates/stmd/northwestern-university-takes-top-honors-in-big-idea-lunar-inflatables-challenge/)[![](https://www.nasa.gov/wp-content/uploads/2024/11/18-christensen-a-sc24-dyamondpointcloud-3-29-2023a-dyamond-co2-anim-globe.png?w=1024)
 
 2 min read
 
