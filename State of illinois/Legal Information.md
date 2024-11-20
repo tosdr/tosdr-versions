@@ -1,13 +1,5 @@
 [Skip to main content](#main)
 
-Possible online services disruption due to Internet related outage
-
-Hide Alerts Show Alerts Toggle Icon
-
-A worldwide technology outage is causing disruption to some State of Illinois online systems.  We are aware of this issue and are diligently working on restoration.
-
-_Close button_
-
 [![Illinois.gov](/content/dam/soi/en/web/illinois/images/logos/illinois_gov.png)](https://www.illinois.gov/)
 
 * [Government](https://www.illinois.gov/government.html)
