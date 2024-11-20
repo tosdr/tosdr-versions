@@ -401,35 +401,35 @@ Please note that, in some instances, we may decline to honor your request where,
 
 [View More](https://www.fox4news.com/news)
 
+ [![Texas Board of Education tentatively approves new curriculum integrating the Bible](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/p-amelia-sboe-curriculum-vote-9p_00.00.09.00.jpg?ve=1&tl=1)
+
+ ![Texas Board of Education tentatively approves new curriculum integrating the Bible](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/p-amelia-sboe-curriculum-vote-9p_00.00.09.00.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/texas-board-education-tentatively-approves-new-curriculum-integrating-bible)
+
+### [Texas Board of Education tentatively approves new curriculum integrating the Bible](https://www.fox4news.com/news/texas-board-education-tentatively-approves-new-curriculum-integrating-bible)
+
+ [![Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/garland-condo-witness.png?ve=1&tl=1)
+
+ ![Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/garland-condo-witness.png?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/johnny-ross-jr-murder-in-garland-condo-wrapped-body-witness-speaks)
+
+### [Garland condo murder suspect to witness who alerted police: 'You're not gonna tell on me, bestie'](https://www.fox4news.com/news/johnny-ross-jr-murder-in-garland-condo-wrapped-body-witness-speaks)
+
+ [![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/trump-picks-1.jpg?ve=1&tl=1)
+
+ ![Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/trump-picks-1.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
+
+### [Trump’s Cabinet, White House staff picks: Who’s been nominated so far](https://www.fox4news.com/news/trumps-cabinet-white-house-staff-picks-whos-been-nominated-so-far)
+
+ [![Trump to nominate Linda McMahon for education secretary](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/linda-mcmahon.jpg?ve=1&tl=1)
+
+ ![Trump to nominate Linda McMahon for education secretary](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/linda-mcmahon.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/trump-nominate-linda-mcmahon-education-secretary)
+
+### [Trump to nominate Linda McMahon for education secretary](https://www.fox4news.com/news/trump-nominate-linda-mcmahon-education-secretary)
+
  [![Delta to serve Shake Shack burgers on flights](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-2157750376.jpg?ve=1&tl=1)
 
  ![Delta to serve Shake Shack burgers on flights](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-2157750376.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/delta-shake-shack-burgers)
 
 ### [Delta to serve Shake Shack burgers on flights](https://www.fox4news.com/news/delta-shake-shack-burgers)
-
- [![US alcohol-related deaths more than double over past 20 years](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/gettyimages-467650191.jpg?ve=1&tl=1)
-
- ![US alcohol-related deaths more than double over past 20 years](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/gettyimages-467650191.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/alcohol-deaths-us-study)
-
-### [US alcohol-related deaths more than double over past 20 years](https://www.fox4news.com/news/alcohol-deaths-us-study)
-
- [![Cowboys stars Micah Parsons, Osa Odighizuwa partner with Duncanville ISD for turkey giveaway](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/111924-pb-cowboy-turkey-giveaway-pkg-dial_00.00.06.52.jpg?ve=1&tl=1)
-
- ![Cowboys stars Micah Parsons, Osa Odighizuwa partner with Duncanville ISD for turkey giveaway](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2024/11/32/18/592/333/111924-pb-cowboy-turkey-giveaway-pkg-dial_00.00.06.52.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/cowboys-stars-micah-parsons-osa-odighizuwa-partner-duncanville-isd-turkey-giveaway)
-
-### [Cowboys stars Micah Parsons, Osa Odighizuwa partner with Duncanville ISD for turkey giveaway](https://www.fox4news.com/news/cowboys-stars-micah-parsons-osa-odighizuwa-partner-duncanville-isd-turkey-giveaway)
-
- [![SpaceX's Starship rocket splashes down in the Indian Ocean](https://images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/spacex-starship-6-2.jpg?ve=1&tl=1)
-
- ![SpaceX's Starship rocket splashes down in the Indian Ocean](https://images.foxtv.com/images.foxtv.com/static.livenowfox.com/www.livenowfox.com/content/uploads/2024/11/32/18/592/333/spacex-starship-6-2.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
-
-### [SpaceX's Starship rocket splashes down in the Indian Ocean](https://www.fox4news.com/news/spacex-starship-launch-live-test-flight-november-19)
-
- [![Dallas County ballot errors may have impacted Prop U vote](https://images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/05/32/18/city-hall.jpg?ve=1&tl=1)
-
- ![Dallas County ballot errors may have impacted Prop U vote](https://images.foxtv.com/images.foxtv.com/static.fox4news.com/www.fox4news.com/content/uploads/2020/05/32/18/592/333/city-hall.jpg?ve=1&tl=1&ve=1&tl=1)](https://www.fox4news.com/news/dallas-county-ballot-errors-prop-u-vote)
-
-### [Dallas County ballot errors may have impacted Prop U vote](https://www.fox4news.com/news/dallas-county-ballot-errors-prop-u-vote)
 
 ###### [News](https://www.fox4news.com/news)
 
