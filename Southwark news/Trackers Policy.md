@@ -20,6 +20,10 @@
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
+    
+    ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
+    
     [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
     
     ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
@@ -51,10 +55,6 @@
     [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
     
     ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-    
-    [![Elly Baker AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elly-Baker-360x180.jpg)](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
-    
-    ### [Debate on whether asylum seekers living on as little as £8.86 a week should get help with transport costs](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
@@ -105,6 +105,10 @@ View All Result
     * [Politics](https://southwarknews.co.uk/category/news/politics/)
     * [Regeneration](https://southwarknews.co.uk/category/news/regeneration/)
     
+    [![Looking up Denmark Hill from Camberwell New Road. Image: Google](https://southwarknews.co.uk/wp-content/uploads/2024/11/Lookig-up-Denmark-Hill-from-Camberwell-New-Road.-Image-Google-360x180.png)](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
+    
+    ### [25 Camberwell businesses offering events, prizes and discounts in run-up to Christmas](https://southwarknews.co.uk/area/camberwell/25-camberwell-businesses-offering-events-prizes-and-discounts-in-run-up-to-christmas/)
+    
     [![Thameslink passengers are told to plan ahead over the Christmas holiday. Pictured, Blackfriars station.](https://southwarknews.co.uk/wp-content/uploads/2024/11/Class-700-at-Blackfriars-360x180.jpg)](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
     
     ### [Crucial Thameslink route disrupted for five days over Christmas](https://southwarknews.co.uk/area/elephant-and-castle/crucial-thameslink-route-disrupted-for-five-days-over-christmas/)
@@ -136,10 +140,6 @@ View All Result
     [![Police are searching for two potential witnesses. Image: British Transport Police](https://southwarknews.co.uk/wp-content/uploads/2024/11/Police-are-searching-for-two-potential-witnesses.-Image-British-Transport-Police-360x180.png)](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
     
     ### [Police appeal for potential witnesses to ‘murder’ at Southwark Underground Station](https://southwarknews.co.uk/area/waterloo/police-appeal-for-potential-witnesses-to-murder-at-southwark-underground-station/)
-    
-    [![Elly Baker AM. Credit: London Assembly](https://southwarknews.co.uk/wp-content/uploads/2024/11/Elly-Baker-360x180.jpg)](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
-    
-    ### [Debate on whether asylum seekers living on as little as £8.86 a week should get help with transport costs](https://southwarknews.co.uk/area/london/debate-on-whether-asylum-seekers-living-on-as-little-as-8-86-a-week-should-get-help-with-transport-costs/)
     
 * [History & Nostalgia](https://southwarknews.co.uk/category/history/)
     * [All History](https://southwarknews.co.uk/category/history/)
