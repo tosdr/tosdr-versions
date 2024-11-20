@@ -713,9 +713,7 @@ The Lake Washington School District does not discriminate in any programs or act
 
 [Powered by Finalsite](https://www.finalsite.com/districts "Powered by Finalsite opens in a new window")
 
-Windstorm Update - 11/19/24
----------------------------
+Schools Closed Due to Power Outages - November 20, 2024
+-------------------------------------------------------
 
-Due to a power outage, all on-campus after-school activities and athletics at **Lake Washington High School** are canceled for 11/19/24.   
-  
-Updated: 11/19/24 at 3:25 p.m.
+Schools Closed, Wednesday, November 20, due to widespread power outages No Extended Day Care. All programs and activities are canceled. No athletics, events or public use. Resource Center and Support Services are open on regular schedule.
