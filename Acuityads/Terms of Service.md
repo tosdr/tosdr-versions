@@ -30,9 +30,9 @@ WEBINAR Nov 19 - Measuring ROI and Impact in Drive-to-Store Advertising
         * [Guides](https://illumin.com/insights/guides/)
         * [Events](https://illumin.com/insights/events/)
         * [Podcasts & Webinars](https://illumin.com/insights/podcasts-webinars/)
-    * ![Retail media lacks crucial measurement](https://illumin.com/wp-content/uploads/2024/11/retail-media-measurement-263x300.jpg)
+    * ![What it will take to win over Holiday shoppers in 2024](https://illumin.com/wp-content/uploads/2024/11/holiday-shoppers-2024-1-263x300.jpg)
         
-        Retail media lacks crucial measurement[Read More](https://illumin.com/insights/blog/retail-media-lacks-crucial-measurement/)
+        What it will take to win over Holiday shoppers in 2024[Read More](https://illumin.com/insights/blog/win-over-holiday-shoppers-in-2024/)
         
 * [Company](#)
     * [Company](#)
