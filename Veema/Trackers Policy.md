@@ -11,7 +11,6 @@
     * [Short Courses](https://veema.co.uk/shorter-courses/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [Webinars](https://veema.co.uk/cpd-webinars/)
     * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD  
@@ -47,7 +46,6 @@ No products in the basket.
     * [Short Courses](https://veema.co.uk/shorter-courses/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [Webinars](https://veema.co.uk/cpd-webinars/)
     * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD  
@@ -77,7 +75,6 @@ No products in the basket.
     * [Short Courses](https://veema.co.uk/shorter-courses/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [Webinars](https://veema.co.uk/cpd-webinars/)
     * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD  
@@ -101,7 +98,6 @@ No products in the basket.
     * [Short Courses](https://veema.co.uk/shorter-courses/)
     * [Accredited Courses](https://veema.co.uk/teacher-cpd-programmes/#1624293010852-11a082d8-c621)
     * [Bespoke Programmes](mailto:cpd@veema.co.uk?subject=CPD%20Enquiry)
-    * [Webinars](https://veema.co.uk/cpd-webinars/)
     * [7 – 9 Week Courses](https://veema.co.uk/continuing-professional-development-cpd-courses/)
     * [E-Learning Video Courses](https://lms.veema.co.uk/)
 * [CPD  
