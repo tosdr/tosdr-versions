@@ -443,15 +443,15 @@ What Customers Are Saying
 
 Based on 304,284 Carpet Cleaning Services Reviews
 
-Doesn't saturate the carpet and padding. Dries fast and smells great. **RP.** - Travelers Rest, SC - 11/19/2024
+Professional: on time, polite, efficient, great results **EM.** - Overland Park, KS - 11/19/2024
 
 (5.0 Out of 5 stars)
 
-**SA.** - Jacksonville, FL - 11/19/2024
+The service tech was friendly& took time to answer questions. I could not believe how clean my carpets were & how little time it took. Please thank your tech for treating us(seniors) as your special customers. I know no differen then any body. **HG.** - Jefferson City, MO - 11/19/2024
 
 (5.0 Out of 5 stars)
 
-Excellent service, prompt, professional, and i am a very happy customer. Thanks Tim **CM.** - Manchester, NH - 11/19/2024
+Courteous, prompt, professional thorough and very reasonable **LS.** - Corrales, NM - 11/19/2024
 
 (5.0 Out of 5 stars)
 
