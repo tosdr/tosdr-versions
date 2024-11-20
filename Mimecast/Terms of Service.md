@@ -57,11 +57,6 @@
     
 * Our Platform
     
-    * [![](https://assets.mimecast.com/api/public/content/9a62d3288e0d4b7a951cd5fe701ae070?v=f38d2f62)
-        
-        Our Platform
-        
-        Transform your approach to human risk management](https://www.mimecast.com/products/our-platform/)
     * [![](https://assets.mimecast.com/api/public/content/e8b4a094ce9b4a4b82bef72e9c72447e?v=eb31cf67)
         
         Advanced Email Security
@@ -79,14 +74,14 @@
         Collaboration Security
         
         Allow employees to collaborate securely](https://www.mimecast.com/products/collaboration-security/)
-    
-    [Product Suite](https://www.mimecast.com/products/)
-    
     * [![](https://assets.mimecast.com/api/public/content/51a3c17138a243c49e5a4395746bfbfe?v=e0560dcc)
         
         Code42 Incydr
         
         Address all forms of insider threats](https://www.mimecast.com/products/code42-incydr/)
+    
+    [Product Suite](https://www.mimecast.com/products/)
+    
     * [![](https://assets.mimecast.com/api/public/content/d65e43865e2a459482d0e2ee90a4948f?v=fefb9ea4)
         
         Aware
@@ -103,11 +98,13 @@
         
         Protect your brand and reputation](https://www.mimecast.com/products/dmarc-analyzer/)
     
-    ![topnav_plans.svg](https://assets.mimecast.com/api/public/content/946d853722194c86bdae8da05e63158a?v=dda04a96)
+    ![platform overview.svg](https://assets.mimecast.com/api/public/content/94a9c3f709c44c17890807df50483413?v=265bff86)
     
-    Mimecast Plans
+    Our Platform
     
-    [Get Started](https://www.mimecast.com/products/mimecast-plans/)
+    Transform your approach to human risk management
+    
+    [Explore Now](https://www.mimecast.com/products/our-platform/)
     
 * Solutions
     
