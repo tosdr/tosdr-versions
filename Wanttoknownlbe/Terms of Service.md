@@ -63,7 +63,7 @@
 
 Zoeken
 
-[](https://www.wanttoknow.nl/hoofdartikelen/de-schandalige-mondkapjes-doctrine/ "Feeling Lucky? »")
+[](https://www.wanttoknow.nl/nieuws/de-zegepreek-van-nigel-farage-heerlijk/ "Feeling Lucky? »")
 
 Algemene voorwaarden WantToKnow aanbiedingen
 ============================================
