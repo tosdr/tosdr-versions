@@ -1,6 +1,6 @@
 [Skip to Main Content](#maincontent)
 
-Schedule certain appointments online. [Get started](https://www.vmfh.org/content/vmfhorg/en/access "Access").
+Inclement weather updates. [Learn more](https://www.vmfh.org/content/vmfhorg/en/resources/virginia-mason-franciscan-health-employee-connection/severe-weather-and-disaster-information "Inclement weather updates. Learn more.").
 
 * [Ways to give](https://www.vmfh.org/content/vmfhorg/en/our-foundations)
 * [Refer a patient](https://www.vmfh.org/content/vmfhorg/en/resources/refer-a-patient)
