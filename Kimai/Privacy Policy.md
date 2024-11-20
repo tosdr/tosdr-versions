@@ -233,10 +233,10 @@ English
 ###### Kimai for [Kimai](#landing-kimai-for)
 
 * [Non-Profits](https://www.kimai.org/en/time-tracking-non-profit.html)
-* [Time Tracking](https://www.kimai.org/en/online-time-tracking "Open-Source Time Tracking")
-* [Time Log](https://www.kimai.org/en/open-source-time-log "Open-Source Time Log")
-* [Time Tracker](https://www.kimai.org/en/open-source-time-tracker "Open-Source Time Tracker")
-* [Timesheet](https://www.kimai.org/en/open-source-timesheet "Open-Source Timesheet")
+* [Agencies](https://www.kimai.org/en/agency-time-tracking "Time-tracking for Time Tracking For Agencies")
+* [Consultants](https://www.kimai.org/en/consultants-time-tracking "Time-tracking for Time Tracking For Consultants")
+* [Software Developers](https://www.kimai.org/en/software-developers-time-tracking "Time-tracking for Time Tracking For Software Developers")
+* [More industries](https://www.kimai.org/en/industry)
 
 ###### Compare [Compare](#footer-cmp)
 
@@ -244,6 +244,7 @@ English
 * [Clockify](https://www.kimai.org/en/clockify-alternative "Compare Kimai to Clockify")
 * [OpenProject](https://www.kimai.org/en/openproject-alternative "Compare Kimai to OpenProject")
 * [toggl track](https://www.kimai.org/en/toggl-alternative "Compare Kimai to toggl track")
+* [Time Tracking Terms](https://www.kimai.org/en/time-tracking-terms)
 
 * [Site notice](https://www.kimai.org/en/site-notice.html)
 * [Privacy policy](https://www.kimai.org/en/privacy-policy.html)
