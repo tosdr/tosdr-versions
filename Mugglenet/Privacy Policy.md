@@ -246,20 +246,6 @@ MuggleNet Archive Select Month November 2024  (14) October 2024  (27) Septembe
 
 ### November 2024
 
-#### Tue, Nov 19
-
-Harry Potter and the Deathly Hallows - Part 1 movie
-
-Recurs yearly
-
-2010
-
-Poppy Corby-Tuech's birthday
-
-Recurs yearly
-
-Rosier
-
 #### Fri, Nov 22
 
 Hagrid leads Harry to dragon enclosure
@@ -308,15 +294,15 @@ Thanks to its research-backed ergonomic design, including a proprietary 4-way ad
 
 ### Did You Know
 
-If a wizard is buried with a wand made of yew, the wand sprouts into a tree that guards the dead owner’s grave.
+Nearly Headless Nick died on October 31, 1492, after being hit in the neck 45 times with a blunt ax.
 
 ### Potter History
 
-August 16, 2004 – A passage from Harry Potter and the Half-Blood Prince describing a character we would come to learn was the new Minister of Magic, Rufus Scrimgeour, was revealed.
+September 10, 2007 – Harry Potter is named the highest-grossing motion picture franchise of all time, with $4.47 billion in ticket sales.
 
 ### Potter Quote
 
-“Scars can come in handy. I have one myself above my left knee that is a perfect map of the London Underground.”
+“She’s been breaking into your broom shed in the garden since the age of six and taking each of your brooms out in turn when you weren’t looking.”
 
 [](#)
 
