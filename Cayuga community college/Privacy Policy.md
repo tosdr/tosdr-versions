@@ -184,7 +184,7 @@ Personal Data is collected for the following purposes and using the following se
     
     This processing constitutes:
     
-    * a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana
+    * a Sale in Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana
     
 * ### Displaying content from external platforms
     
@@ -617,7 +617,7 @@ Further information for Users in the United States
 
 This part of the document integrates with and supplements the information contained in the rest of the privacy policy and is provided by the business running this Website and, if the case may be, its parent, subsidiaries and affiliates (for the purposes of this section referred to collectively as “we”, “us”, “our”).
 
-The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are residents in the following states: California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon and Montana.
+The information contained in this section applies to all Users (Users are referred to below, simply as “you”, “your”, “yours”), who are residents in the following states: **California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana.**
 
 For such Users, this information supersedes any other possibly divergent or conflicting provisions contained in the privacy policy.
 
@@ -766,16 +766,16 @@ In addition to the rights listed above common to all Users in the United States,
 * **The right to opt out of the Sharing of your Personal Information** for cross-context behavioral advertising;
 * **The right to request to limit our use or disclosure of your Sensitive Personal Information** to only that which is necessary to perform the services or provide the goods, as is reasonably expected by an average consumer. Please note that certain exceptions outlined in the law may apply, such as, when the collection and processing of Sensitive Personal Information is necessary to verify or maintain the quality or safety of our service.
 
-#### Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon and Montana
+#### Additional rights for Users residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana
 
-In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado, Connecticut, Texas and Oregon, you have
+In addition to the rights listed above common to all Users in the United States, as a User residing in Virginia, Colorado, Connecticut, Texas, Oregon, Nevada, Delaware, Iowa, New Hampshire, New Jersey, Nebraska and Montana you have
 
 * **The right to opt out of** the processing of your personal information for **Targeted Advertising or profiling** in furtherance of decisions that produce legal or similarly significant effects concerning you;
 * **The right to freely give, deny or withdraw your consent for the processing of your Sensitive Personal Information.** Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
 
-#### Additional rights for users residing in Utah
+#### Additional rights for users residing in Utah and Iowa
 
-In addition to the rights listed above common to all Users in the United States, as a User residing in Utah, you have
+In addition to the rights listed above common to all Users in the United States, as a User residing in Utah and Iowa, you have
 
 * **The right to opt out of** the processing of your Personal Information for **Targeted Advertising**;
 * **The right to opt out of the processing of your Sensitive Personal Information.** Please note that certain exceptions outlined in the law may apply, such as, but not limited to, when the collection and processing of Sensitive Personal Information is necessary for the provision of a product or service specifically requested by the consumer.
