@@ -5,7 +5,7 @@ This release should be pretty boring
 
 Yet somehow it isn’t. Your free-form content maps itself. Visual editing without the mess. Complex content releases made easy.
 
-[Explore the new features](https://www.sanity.io/release?ref=takeover)
+[Watch the launch video](https://www.youtube.com/watch?v=GNE2SULJzOg)
 
 ![](https://cdn.sanity.io/images/3do82whm/next/ee4f40635f7dca5925f899be52d3cf1254fd552a-1920x1080.png?w=3840&q=75&fit=clip&auto=format)
 
@@ -521,7 +521,7 @@ Stay connected
 * [Community](https://slack.sanity.io/)
 * [X.com](https://x.com/sanity_io)
 * [Bluesky](https://bsky.app/profile/sanity.io)
-* [YouTube](https://www.youtube.com/channel/UCGz69JwGRptteFAaX8hSKCQ)
+* [YouTube](https://www.youtube.com/@sanity_io)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/sanity)
 * [Blog RSS](https://www.sanity.io/feed/rss)
 * [Newsletter](https://www.sanity.io/newsletter)
