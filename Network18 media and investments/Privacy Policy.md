@@ -128,12 +128,12 @@ English
 * [Astrology](https://www.news18.com/astrology/)
 * [Studio18](https://www.news18.com/studio18/)
 * Top Trends
+    * [Maharashtra Exit Poll](https://www.news18.com/elections/maharashtra-exit-poll-2024-live-updates-election-results-bjp-congress-ncp-shiv-sena-liveblog-9126522.html)
+    * [Jharkhand Exit Poll](https://www.news18.com/india/jharkhand-exit-poll-2024-live-updates-election-results-bjp-jmm-congress-rjd-c-voter-chanakya-predictions-liveblog-9126654.html)
     * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
     * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
     * [Saira Banu](https://www.news18.com/movies/ar-rahmans-rare-comment-on-wife-saira-banu-goes-viral-amid-separation-she-was-beautiful-9125903.html)
-    * [Nagarjuna](https://www.news18.com/movies/nagarjuna-makes-rare-comment-about-sobhita-dhulipala-says-she-makes-naga-chaitanya-happy-she-could-9125922.html)
     * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-says-shah-rukh-khan-attended-her-wedding-with-sanjay-you-wouldnt-9126062.html)
-    * [Maharashtra Election](https://www.news18.com/elections/maharashtra-election-2024-live-updates-polling-today-bjp-ncp-shiv-sena-congress-mahayuti-mva-mumbai-liveblog-9125931.html)
     * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
 * News18 Initiatives
     * [Indian Of The Year](https://www.news18features.com/indianoftheyear/)
@@ -170,12 +170,12 @@ Follow us on
 
 In Trends:
 
+* [Maharashtra Exit Poll](https://www.news18.com/elections/maharashtra-exit-poll-2024-live-updates-election-results-bjp-congress-ncp-shiv-sena-liveblog-9126522.html)
+* [Jharkhand Exit Poll](https://www.news18.com/india/jharkhand-exit-poll-2024-live-updates-election-results-bjp-jmm-congress-rjd-c-voter-chanakya-predictions-liveblog-9126654.html)
 * [Ayushmann Khurrana](https://www.news18.com/movies/ayushmann-khurrana-stops-new-york-concert-midway-after-fan-throws-dollars-at-him-aap-charity-9124738.html)
 * [AR Rahman](https://www.news18.com/movies/ar-rahman-wife-saira-banu-are-separating-after-29-years-tensions-have-created-insurmountable-gap-9125943.html)
 * [Saira Banu](https://www.news18.com/movies/ar-rahmans-rare-comment-on-wife-saira-banu-goes-viral-amid-separation-she-was-beautiful-9125903.html)
-* [Nagarjuna](https://www.news18.com/movies/nagarjuna-makes-rare-comment-about-sobhita-dhulipala-says-she-makes-naga-chaitanya-happy-she-could-9125922.html)
 * [Shalini Passi](https://www.news18.com/movies/fabulous-lives-shalini-passi-says-shah-rukh-khan-attended-her-wedding-with-sanjay-you-wouldnt-9126062.html)
-* [Maharashtra Election](https://www.news18.com/elections/maharashtra-election-2024-live-updates-polling-today-bjp-ncp-shiv-sena-congress-mahayuti-mva-mumbai-liveblog-9125931.html)
 * [IPL Mega Auction](https://www.news18.com/topics/ipl-2025-mega-auction/)
 
 * Follow Us
