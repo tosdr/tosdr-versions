@@ -1,710 +1,225 @@
-![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/628253d9d7b76c59a2f1b5ac_subsplash-church-plants-blur-1.png)![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/628253da1226cf7c6a398f1b_subsplash-church-plants-blur-3.png)
-
-Subsplash Terms of Use
-======================
-
-English
-
-español / SPANISH
-
-français / FRENCH
-
-AUSTRALIA
-
-Last updated November 5, 2024 – Version 3.9
-
-PLEASE READ THESE TERMS OF USE CAREFULLY. THIS IS A LEGALLY BINDING AGREEMENT. YOU MAY ACCEPT THESE TERMS BY:
-
-(A) CLICKING TO ACCEPT OR AGREE TO THESE TERMS OF USE, WHERE THIS OPTION IS MADE AVAILABLE TO YOU BY SUBSPLASH IN THE USER INTERFACE FOR ANY SERVICE; OR
-
-(B) BY ACTUALLY USING SUBSPLASH'S PRODUCTS, SOFTWARE, SERVICES, OR WEBSITES (COLLECTIVELY, THE “SERVICES”).  YOU UNDERSTAND AND AGREE THAT SUBSPLASH WILL TREAT YOUR USE OF THE SERVICES AS ACCEPTANCE OF THE TERMS OF USE FROM THAT POINT ONWARD.
-
-These terms of use (the “Terms of Use” or “Agreement”) govern your access to and use of the Services offered by Subsplash, Inc. and Subsplash Wallet, LLC (hereinafter collectively referred to as “Subsplash”) as an end user.  They do not alter in any way the terms or conditions of any other agreement you may have with Subsplash, its subsidiaries, or affiliates.  If you are using the Services on behalf of any entity, you represent and warrant that you are authorized to accept these Terms of Use on such entity's behalf.
-
-Subsplash reserves the right to change or modify any of the terms and conditions contained in these Terms of Use, the Terms of Service, or any policy or guideline, at any time and in its sole discretion.  Any changes or modification will be effective immediately upon posting of the revisions on the Subsplash’s websites or Services. Your continued use of the Services following the posting of its changes or modifications will constitute your acceptance of such changes or modifications. Therefore, you should frequently review these Terms of Use and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Services.  If you do not agree to the amended terms, you must stop using the Services.  You warrant and attest that you are at least thirteen (13) years of age, and, if you are below the legal age to form a binding contract within your jurisdiction, have permission from your parent or guardian to use our Services.
-
-All other questions or comments about the Services should be directed to support@subsplash.com.
-
-### 1\. PRIVACY POLICY AND FEEDBACK
-
-Please refer to our [Privacy Policy](http://www.subsplash.com/legal/privacy) for information on how Subsplash collects, uses and discloses personally identifiable and other information from its users.
-
-Any suggestions, ideas or feedback (“Feedback”) concerning the Services provided by you to Subsplash shall become the sole property of Subsplash.  Subsplash shall own exclusive rights, including all intellectual property rights, and shall be entitled to the unrestricted use and circulation thereof for any purpose, without acknowledgment or compensation to you. You hereby agree that such Feedback is provided on a non-proprietary and non-confidential basis. To the extent that you have any rights in the Feedback, by operation of law or otherwise, you hereby agree to assign and hereby do assign to Subsplash all right, title and interest in and to the Feedback. You agree to perform all acts reasonably requested by Subsplash to perfect and enforce such rights.
-
-### 2\. REGISTRATION FOR THE SERVICE
-
-If you wish to utilize the Services, you will be required to register by providing information about yourself and, if you are registering on behalf of an entity, information about that entity (such as identification, credit card information, and contact details).  You agree that any such information you provide is accurate, complete and updated.  Failure to do so constitutes a breach to these Terms of Use and may result in a termination of your account and access to the Services.  You are responsible for maintaining the security and confidentiality of your account password.  You are also solely responsible for all activities that occur through your User ID and password.  You agree not to access or use, or attempt to access or use, the Services or any part thereof using the identity or the Registration Data of any person other than you.  You agree to immediately notify Subsplash of any unauthorized use of your User ID or password.  From time to time, you may be asked to confirm your account via an email message. If such account is not reconfirmed, the account may be deleted by Subsplash. Once your account has been deleted, your User Content may be retained by Subsplash and may or may not be displayed.
-
-### 3\. USER CONTENT AND ACCEPTABLE USE
-
-The Services may allow you to post, upload, send communications, or stream content (“User Content”).  Subsplash has the right to refuse any User Content.  You agree that Subsplash, at its sole discretion, has the right to screen, reject, or remove any User Content, or portion thereof, posted to our servers that infringes our, or any third party intellectual property or other rights, violates these Terms of Use or our other policies, or is otherwise objectionable. Subsplash reserves the right to disclose any such material posted to our servers as necessary to satisfy any applicable law, regulation, legal process, or governmental request.
-
-You should save all of your User Content through alternate storage solutions inasmuch as Subsplash does not warrant the security or reliability of its Services.  If you delete your account, some or all of your User Content may also be deleted.
-
-We value integrity, truth, and respect for others, freedom of religion, free speech, and we strive to avoid displaying content, apps, or websites that are inappropriate according to traditional Christian scripture and values. For this reason, we don’t allow the publication or promotion of murder; torture; racism (that one ethnicity, people, or group is superior or inferior to another); blasphemy; or sexual, religious, or political content or activity that violates or disparages traditional Christian scripture and values, or organizations with such views.
-
-In alignment with the above, the following is prohibited:
-
-• Harassment or stalking of another person;
-
-• Unsolicited mass mailings or "spam";
-
-• Posting User Content determined by Subsplash to be or likely to be illegal, or to violate any local, state, provincial or federal law or regulation or the rights of any person or entity; or that violates the rules or requirements of one or more mobile app platforms or mobile app stores;
-
-• Harmful, offensive, and abusive language, including but not limited to: hate speech, expletives, harassment, obscenities, vulgarities, sexually explicit language or images, video, or other objectionable content (e.g. nudity, bestiality, pornography);
-
-• Posting User Content that is inappropriate based on the subject matter and the audience;
-
-• Posting User Content that is encrypted or that contains viruses or any other computer programming routines that are intended to damage, interfere with, intercept, or appropriate any system or information;
-
-• Posting User Content that violates intellectual property rights of any person;
-
-• Impersonating any person or entity or otherwise misrepresenting your affiliation with a person or entity;
-
-• Posting private or confidential information of any third party without their express consent, including, without limitation, personally identifiable information, addresses, phone numbers, email addresses, Social Security numbers, and credit card numbers;
-
-• Using the Services to build a site or otherwise posting User Content intended, in whole or in part, to boost another site’s ranking.
-
-• Posting links to third-party sites or services without their permission.
-
-• Posting any User Content that, in the sole judgment of Subsplash, may expose Subsplash to any harm or liability of any type.
-
-You agree that you will only provide User Content that you do not have reason to believe to be false and you will not:
-
-• use the Service to violate the security of any computer network, crack passwords or security encryption codes; transfer or store illegal material including any deemed threatening or obscene;
-
-• create user accounts by automated means or under false or fraudulent pretenses;
-
-• scrape or collect information about other users in an automated fashion.
-
-Subsplash reserves the right to remove User Content that, in the sole judgment of Subsplash, violates traditional Christian scripture and values.
-
-Subsplash reserves the right to investigate and take appropriate legal action in its sole discretion against anyone who violates this provision, including without limitation, removing the offending User Content, and terminating the violator's Service without refund.
-
-By posting User Content, you grant Subsplash and its affiliates the perpetual, irrevocable, worldwide, royalty-free, freely transferable, and sublicensable (through unlimited levels of sublicense) non-exclusive right to create derivative works of, use, reproduce, modify, transmit, publish, publicly display and distribute, and advertise on and around, and search for purposes of providing relevant advertisements, such User Content and derivative work.  You represent and warrant that (a) you own and control all of the rights to the User Content that you post or you otherwise have the right to post such User Content and to grant the rights granted herein; (b) the User Content is accurate and not misleading; (c) distribution of the User Content you supply in accordance with your direction does not violate these Terms of Use and will not violate any rights of or cause injury to any person or entity; and (d) you possess the consent of all individuals who are visible in the Customer Content to permit you to include such individuals' likeness as part of the User Content. You hereby waive any moral rights you may have in such User Content under the laws of any jurisdiction. We may (but are not obligated to) display your User Content, including your username and your actual name (according to the preferences you select). With regard to third party advertisements, Subsplash is not responsible or liable for the content of such advertisements.
-
-Subsplash shall have the right to delete your User Content from the Services if you terminate your account and are inactive for greater than six (6) months.
-
-Subsplash shall also have the right to anonymize any information or data you upload to the Services, to combine it with anonymized data of others and to thereby create anonymized aggregated data (“Aggregated Data”). Subsplash shall be the sole owner of the Aggregated Data, shall be free to utilize such Aggregated Data for any and all purposes in anonymized form, and you agree that you are entitled to no compensation or consideration from Subsplash with regard to Aggregated Data.
-
-### 4\. PAYMENT
-
-If you purchase products or services from or through Subsplash, you will be charged in advance. No refunds shall be issued except within Subsplash’s sole discretion.  All charges and payments shall be in U.S. dollars.  For those customers making payment by credit card, ACH, or other method, you authorize Subsplash to debit your credit card or other account (as the case may be) for amounts authorized.  Subsplash reserves the right to collect certain taxes or other assessments from you in order to comply with local, state, provincial, Federal, or international laws and regulations, as required now or later imposed. If you claim exemption from any taxes, you shall provide Subsplash with documentation required by the taxing authority to support an exemption.  If you have subscribed for a paid service Subsplash reserves the right to change the price of its Services upon (30) days notice to you and you will be given the opportunity to terminate the Services prior to such increase becoming effective. Subsplash does not set, and is not responsible for, the prices for products or services set by other users on the Services. As between users, all sales are final and Subsplash is not responsible for coordinating, permitting, or facilitating refunds. If you agree to provide a refund to another user, you are solely responsible and liable for providing such refund.
-
-### 5\.  SUBSPLASH GIVING
-
-If you register and/or utilize the Subsplash giving functionality (“Subsplash Giving”) provided by Subsplash Wallet, you agree to the following:
-
-a.  In addition to the payment provisions contained in Section 4 above, you appoint Subsplash Wallet as your agent to process online donations for the amounts you select for the particular organization (“Donee”) selected by you.   Subsplash transaction fees shall be deducted from online donations at such times as agreed by Subsplash Wallet and Donees.
-
-b.  Only the authorized credit card or account holder may donate through Subsplash Giving. A third party may not use the donor's card information or enter donations on behalf of the donor. This practice may constitute "credit card laundering" and may violate credit card usage agreements. Subsplash Wallet is hereby authorized to report any such abuses to the appropriate authorities.   All donations made through Subsplash Wallet are refundable only with the agreement of the Donee and completed when made and Donees have complete discretion and control over the use of all donated funds.
-
-c.  Federal law prohibits charities from promising or providing goods and services (e.g., tickets to events or raffles) in exchange for making a donation. Subsplash Wallet may only accept pure contributions and not part gift and part sale transactions.
-
-d.  Donor information will be shared with the Donee.
-
-e.  When you send a text message to Subsplash or Subsplash Wallet for purposes of utilizing text-to-give functionality, you will be disclosing your cell phone number to Subsplash and Subsplash Wallet, and you thereby consent to receiving a hyperlink to the Subsplash Wallet donation portal via text message. In order to stop receiving texts from Subsplash or Subsplash Wallet, respond to the text message by typing “STOP.” You may receive a subsequent message confirming your opt-out request. For help, type and send “HELP” to 888-364-4483. Message and data rates may apply. Your cell carrier is not liable for delayed or undelivered messages.
-
-f.  You (as an Individual) can elect to use Subsplash Giving as the payment service for future payments. This allows Subsplash to process and receive payments with your authorization either on a one-time, recurring or sporadic basis. Preapproved payments of this type are sometimes referred to as a “billing agreement,” “subscription,” “recurring payment,” “recurring donation,” “reference transaction,” “preauthorized transfer”, “automatic payment”, “installment” or “unscheduled card-on-file”. We refer to such payments as “recurring payments”
-
-If you elect to initiate recurring payments (which includes recurring donations), you are authorizing us to store and automatically charge your selected method of payment in the payment amount (including fees and charges) and frequency that you designated, without further consent or instructions from you. You may pause (and later resume) your recurring payments by following the instructions available by clicking here. If you wish to cancel your recurring payments, you may do so by revoking your authorization at least ten (10) business days prior to the next scheduled payment date. To learn how to cancel your recurring payments (and thereby revoke your authorization), click here.
-
-Once a payment is processed, a payment cannot be canceled by us and we have no obligation to honor any request to stop, correct, reverse or recall a payment. We may default to a recurring payment for your individual account, but you may elect a one-time payment. If any changes are made to a stored payment method or linked account is changed, any recurring payments associated with that stored payment method or linked account may be paused, canceled or otherwise adversely affected. Revoking an authorization for a specific recurring payment schedule will not cancel other authorizations for recurring payments. If you pause or cancel a recurring payment, you may still owe money for the donation, purchase or pledge, or have additional obligations for any goods or services that you receive but have not paid for.
-
-If you schedule a recurring payment, the recurring payment amount you specified will be billed to the credit or debit card, bank account, or other account you designate during the setup process. If you want to designate a different credit, debit card or bank or other account, or if there is a change in such cards or accounts, you must change such information through the application. This may temporarily delay your ability to make online payments while your new payment information is verified.
-
-### 6\. CONSENT TO RECEIVE EMAILS AND NOTICE; ELECTRONIC SIGNATURES
-
-By using the Services, you consent to receive emails from Subsplash, which may include commercial emails. We may use your information to send you news or product updates. You may “opt out” of receiving marketing or promotional email from Subsplash by following “unsubscribe” instructions or using “unsubscribe” links within communications we send. As long as you maintain an account, you may not "opt out" of receiving account-related emails from Subsplash.  The parties hereto may give legal notice by means of electronic mail, which electronic mail shall be considered delivered when sent.  The notice address of Subsplash shall be support@subsplash.com (or such other address as is provided by Subsplash to you) via email at your Notice address and your address for the receipt of notices pursuant to this Agreement shall be the current email address listed by you in your account profile.
-
-The Services may permit you to execute certain documents whether presented by us or other users, by electronic signature. You hereby consent to the use of electronic signatures, and agree that your electronic signature, whether digital or encrypted, on such documents shall have the same force and effect as original manual signatures.
-
-### 7\. COPYRIGHT AND LIMITED LICENSE
-
-Unless otherwise indicated, the Services and all content on the Services, including, without limitation, the Subsplash logo, and all designs, text, graphics, pictures, information, data, software, sound files, other files, and the selection and arrangement thereof (collectively, the "Materials") are the property of Subsplash, its licensors or its customers and are protected by U.S., Canadian and international copyright laws.
-
-To the extent that Subsplash grants you access, you are granted a limited, non-exclusive, non-transferable, non-sublicensable license to access and use the Services.  Such license is subject to these Terms of Use and does not include or authorize: (a) any resale or commercial (non-personal) use of the Services or the Materials therein; (b) the distribution, public performance or public display of any Materials; (c) modifying or otherwise making any derivative uses of the Services or the Materials, or any portion thereof; (d) use of automated means, including spiders, robots, crawlers, data mining tools, or the like to download data from the Services; (e) downloading (other than page caching) of any portion of the Services, the Materials or any information contained therein, except as expressly permitted; (f) any attempt to gain unauthorized access to Subsplash’ computer systems or engage in any activity that disrupts, diminishes the quality of, interferes with the performance of, or impairs the functionality of, the Services; or (g) collection or harvesting of any personally identifiable information, including, but not limited to, company names, domain names, or account names, from the Service nor to use the communication systems provided by the Service for any commercial solicitation purposes; (h) use of any portion of the Services as a destination linked from any unsolicited bulk messages or unsolicited commercial messages; (i) any use of the Services or the Materials other than for their intended purpose; (j) use the Services to infringe the intellectual property rights of Subsplash or any third party; (k) copying, modifying, creating a derivative work of, reverse engineering, decompiling, or otherwise attempting to extract the source code of any software or any part thereof, unless this is expressly permitted or required by law, or unless you have been specifically told that you may do so by Subsplash, in writing. You may not access, copy, assess, disclose, display, or otherwise use the Service for purposes of competitive analysis.  Any use of the Services or the Materials other than as specifically authorized herein, without the prior written permission of Subsplash, is strictly prohibited and will terminate the license granted herein. Such unauthorized use may also violate applicable laws including without limitation copyright and trademark laws and applicable communications regulations and statutes. Unless explicitly stated herein, nothing in these Terms of Use shall be construed as conferring any license to intellectual property rights, whether by estoppel, implication or otherwise. This license is revocable at any time.
-
-### 8\. REPEAT INFRINGER POLICY
-
-In accordance with the Digital Millennium Copyright Act (DMCA), the Copyright Act (Canada) and other applicable law, Subsplash has adopted a policy of terminating, in appropriate circumstances and at Subsplash's sole discretion, access to those who are deemed to be repeat infringers. Subsplash may also, at its sole discretion, limit access to the Services and/or terminate the accounts of any users who infringe any intellectual property rights of others.
-
-### 9\.  COPYRIGHT POLICY
-
-Subsplash respects the intellectual property rights of others and expects users of the Services to do the same. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to us. If you believe that your copyrighted materials have been copied in a way that constitutes copyright infringement, please provide us with the following information: (i) a physical or electronic signature of the copyright owner or a person authorized to act on their behalf; (ii) identification of the copyrighted work claimed to have been infringed; (iii) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material; (iv) your contact information, including your address, telephone number, and an email address; (v) a statement by you that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (vi) a statement that the information in the notification is accurate, and, under penalty of perjury, that you are authorized to act on behalf of the copyright owner.
-
-We reserve the right to remove content alleged to be infringing without prior notice and at our sole discretion. We also reserve the right to inform you if we receive a notice from a third party that User Content you have posted infringes upon such third party’s copyright and to inform such third party that we have provided you with such notice.  Our designated copyright agent for notice of alleged copyright infringement appearing on the Services is:
-
-Subsplash, Inc
-
-Copyright Agent
-
-Address: 5473 Blair Rd Ste 100, PMB 41141, Dallas, Texas 75231
-
-Email: copyrightagent@subsplash.com
-
-### 10\. TRADEMARKS
-
-Subsplash®, The Church App®, and The Church App by Subsplash™ are trademarks of Subsplash and they may not be used or imitated, in whole or in part, without the prior written permission of Subsplash.  You may not use any metatags or any other "hidden text" utilizing said trademarks or any other name, or product or service name of Subsplash without our prior written permission. In addition, the look and feel of the Services, including all page headers, custom graphics, button icons and scripts, is the service mark, trademark, and/or trade dress of Subsplash and may not be copied, imitated, or used, in whole or in part, without our prior written permission. All other trademarks, registered trademarks, product names, and logos displayed through the Services are the property of their respective owners.
-
-### 11\. HYPERLINKS
-
-You are granted a limited, non-exclusive, non-transferable right to create a text hyperlink to the Services, provided such link does not portray Subsplash or any of its products and services in a false, misleading, derogatory, or otherwise defamatory manner and provided further that the linking site does not contain any adult or illegal material or any material that is offensive, harassing, or otherwise objectionable. This limited right may be revoked at any time. You may not use a Subsplash logo or other proprietary graphic to link to the Services without the express written permission of Subsplash. Further, you may not use, frame, or utilize framing techniques to enclose any Subsplash trademark, logo, or other proprietary information, including the images found through the Services, the content of any text, or the layout/design of any page or form displayed through the Services without Subsplash's express written consent. Except as noted above, you are not conveyed any right or license by implication, estoppel or otherwise in or under any patent, trademark, copyright, or proprietary right of Subsplash or any third party.
-
-### 12\. THIRD PARTY CONTENT
-
-Subsplash or its customers may provide links to web pages and content of third parties as a service to those interested in such links and content, and Subsplash may post third party content or allow users to post their content. Subsplash does not monitor or have any control over any third party content or third party websites. Subsplash does not endorse or adopt any third party content or third party website and can make no guarantee as to its accuracy or completeness. Subsplash does not represent or warrant the accuracy of any information contained therein and undertakes no responsibility to update or review any third party content or third party websites. You understand that by using the Services you may be exposed to content that you may find offensive, indecent or objectionable and you use links, third party content and third party websites at your own risk.  When you leave the Subsplash Services, you should be aware that our terms and policies no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website or services to which you navigate from the Subsplash Services.
-
-Subsplash is not the publisher or author of third party content. It is a passive service for storage and dissemination of the ideas and opinions that Subsplash users and vendors may choose to post.  Subsplash does not screen works before they are posted, and no prior approval is required for posting.  Subsplash’ activities are subject to the protections of Section 230 of the Communications Decency Act and the safe harbor provisions of Section 512 of the Digital Millennium Communications Act.  
-
-### 13\. THIRD-PARTY CONTENT, GOODS, AND/OR SERVICES
-
-The Services may also provide information regarding or link to certain applications, goods, and/or services provided or offered by third parties (collectively the "Third-Party Goods and Services"). Subsplash is merely an information provider and is not a referral service, and it does not recommend or endorse any such Third-Party Goods and Services or monitor or have any control over such Third-Party Goods and Services. Therefore, Subsplash makes no guarantee, representation, or warranty of any kind as to the quality, competency, value, reliability, responsiveness, accuracy, or completeness of any such Third-Party Goods and Services or the results obtained therefrom, and Subsplash assumes no responsibility or liability for any Third Party Goods and Services or for the actions or failure to act of those providing such Third-Party Goods and Services. You assume full responsibility for your use of any such Third-Party Goods and Services. In the event of a dispute between any consumer and vendor, the parties will work out the dispute themselves.
-
-The Services may be used by third parties to provide information, content, and materials (collectively “Third-Party Content”).  Subsplash is not responsible for, and does not guarantee, the quality, competency, value, reliability, responsiveness, accuracy, availability, or completeness of any Third-Party Content.  Subsplash makes no representation or warranty that Third-Party Content is appropriate or available for use in all countries, or that it will be accessible from places where it may be illegal or prohibited.
-
-### 14\. ADVERTISEMENTS AND PROMOTIONS; BETA SERVICES
-
-Subsplash may run advertisements and promotions from third parties as part of the Services. Your business dealings or correspondence with, or participation in promotions of, advertisers other than Subsplash, and any terms, conditions, warranties or representations associated with such dealings, are solely between you and such third party. Subsplash is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of such third party advertisers on the Services.
-
-From time to time, in its sole authority and discretion, Subsplash may offer You access to beta versions of current, upcoming, or in-development Services. Subsplash has sole discretion on: (1) whether to offer such access and to impose any conditions prior to such access; (2) the duration and scope of the beta testing period and Your access; and (3) whether to implement any features or Services tested during the beta testing period. If you are charged any fees for beta tested Services and the beta testing is discontinued early, you will receive a pro-rated refund for such services.
-
-In addition to the limitations on liability in these Terms, and except as stated herein, Subsplash shall have no liability to you or any third party for beta testing services, including, without limitation, early discontinuance of the best tested Services, bugs or errors in the beta tested Services, or loss of data uploaded to the beta tested Services. Any beta testing you provide to the Services is done at your own risk.
-
-### 15\. WARRANTY DISCLAIMERS
-
-THE MATERIALS AND THE SERVICES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. SUBSPLASH DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT AS TO THE INFORMATION, CONTENT, OR MATERIALS. SUBSPLASH DOES NOT REPRESENT OR WARRANT THAT MATERIALS, INCLUDING THE INFORMATION AVAILABLE THROUGH THE SERVICES ARE ACCURATE, COMPLETE, RELIABLE, CURRENT, OR ERROR-FREE. SUBSPLASH DOES NOT REPRESENT OR WARRANT THAT THE SERVICES OR ITS SERVERS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS.
-
-SUBSPLASH IS NOT RESPONSIBLE FOR ERRORS OR OMISSIONS IN ANY INFORMATION OR MATERIALS ACCESSED THROUGH THE SERVICES, THE SITE, OR ANY OTHER PART OF THE SERVICE. WHILE SUBSPLASH ATTEMPTS TO MAKE YOUR ACCESS AND USE OF THE SERVICES SAFE, SUBSPLASH CANNOT AND DOES NOT REPRESENT OR WARRANT THAT THE SERVICES OR ITS SERVER(S), OR ANY CONTENT OR MATERIALS ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; THEREFORE, YOU SHOULD USE INDUSTRY-RECOGNIZED SOFTWARE TO DETECT AND NEUTRALIZE VIRUSES, SPYWARE, MALWARE, AND OTHER HARMFUL OR OTHERWISE UNDESIRABLE COMPONENTS FROM ANY DOWNLOAD. SUBSPLASH MAKES NO WARRANTIES REGARDING SECURITY OR RELIABILITY OF THE SERVICES.
-
-Subsplash reserves the right to change or delete any and all content and any Services at any time without notice.
-
-### 16\. LIMITATION OF LIABILITY
-
-IN NO EVENT SHALL SUBSPLASH OR ANY OF ITS CORPORATE AFFILIATES, INDEPENDENT CONTRACTORS, SERVICE PROVIDERS, OR CONSULTANTS, OR ANY OF THEIR RESPECTIVE DIRECTORS, EMPLOYEES, AND AGENTS, BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, LOSS OF USE, LOSS OF OPPORTUNITY, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE) OR OTHERWISE, ARISING OUT OF OR IN ANY WAY RELATED TO OR CONNECTED WITH ANY USE OF THE SERVICES, THE CONTENT, OR THE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE  SERVICES, INCLUDING WITHOUT LIMITATION ANY DAMAGES, LOSS, OR INJURY CAUSED BY OR RESULTING FROM RELIANCE ON ANY INFORMATION OBTAINED FROM SUBSPLASH, OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SUBSPLASH’ RECORDS, PROGRAMS, OR SERVICES. THE AGGREGATE LIABILITY OF SUBSPLASH, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING IN ANY MANNER TO THE USE OF THE SERVICES, SHALL NOT EXCEED ANY COMPENSATION YOU PAID, IF ANY, TO SUBSPLASH FOR ACCESS TO OR USE OF THE SERVICES DURING THE YEAR PRECEDING THE ACT OR OMISSION OUT OF WHICH SUCH LIABILITY AROSE.
-
-SUBSPLASH MAKES NO WARRANTIES REGARDING SECURITY OR RELIABILITY OF THE SERVICES.  
-
-IF YOU ARE A CALIFORNIA RESIDENT, YOU HEREBY WAIVE CALIFORNIA CIVIL CODE SECTION 1542, WHICH SAYS “A GENERAL RELEASE DOES NOT EXTEND TO CLAIMS THAT THE CREDITOR OR RELEASING PARTY DOES NOT KNOW OR SUSPECT TO EXIST IN HIS OR HER FAVOR AT THE TIME OF EXECUTING THE RELEASE AND THAT, IF KNOWN BY HIM OR HER, WOULD HAVE MATERIALLY AFFECTED HIS OR HER SETTLEMENT WITH THE DEBTOR OR RELEASED PARTY” OR OTHER LIKE PROVISIONS OF SIMILAR IMPORT.”
-
-### 17\. COMPLIANCE WITH LAWS
-
-You represent and warrant that your use of the Services shall comply with all local, state, provincial, and federal laws.
-
-### 18\. INDEMNIFICATION
-
-You agree to indemnify, defend and hold Subsplash, its subsidiaries, affiliated companies and their respective shareholders, directors, officers, employees, agents, attorneys, successors and/or assigns, (the “Indemnified Parties”) harmless from, and to reimburse the Indemnified Parties for, any claims, cost, expenses, losses, demands, damages, legal fees and costs, penalties, and/or liabilities of any kind or nature, resulting from or relating in any way to your use of or inability to use our Services, your conduct on the Services, your violation of these Terms of Use, your violation of the rights of any third party, your performance related to any Statements of Work, or related to any User Content you post. You further agree to indemnify, hold harmless and defend Subsplash against any claims asserted or threatened against Subsplash by your end users related to or arising in any way out of your breach of warranties or representations, services, operation of your organization, use of our Services, or failure to provide services.  We may defend any such claim, at our option, and you must pay our attorney fees and costs.  This indemnity will continue in full force after expiration or termination of this Agreement.
-
-### 19\. TERM AND TERMINATION
-
-This agreement shall continue until such time as either party terminates.  You may terminate without cause by deactivating the account from “your account” page.   Subsplash has the right to terminate the Services without cause only by providing thirty (30) days prior notice to the email account listed by you in your user account information.  In the event this Agreement is terminated, Subsplash will make available to you, upon your request, a file of your User Content for download for a period of thirty (30) days after termination. You agree and acknowledge that Subsplash has no obligation to retain your User Content or any other data, and may delete same, thirty (30) days after termination.
-
-### 20\. TERMINATION FOR CAUSE
-
-Subsplash may immediately terminate this Agreement in the event of your material breach of the terms or conditions of this Agreement.  Any breach of your payment obligations or unauthorized use of your account will be deemed a material breach of this Agreement.  
-
-### 21\. ARBITRATION
-
-In the event of any controversy between the parties, the parties hereto shall consult and attempt to reach a solution satisfactory to both parties.  If they fail to do so within a period of thirty (30) days, then either party may, by notice to the other, demand mediation under the mediation rules of the American Arbitration Association.  If resolution is not reached within sixty (60) days after service of a written demand for mediation, any unresolved controversy or claim (other than claims identified in the Subsplash Privacy Policy) shall be settled by arbitration in accordance with the rules of the American Arbitration Association before a single arbitrator in Seattle, Washington.  The arbitrator shall render a written opinion including findings of fact and law and the award and/or determination of the arbitrator shall be binding upon the parties, and their respective administrators and assigns, and shall not be subject to appeal.  Judgment may be entered upon the award of the arbitrator in any court of competent jurisdiction. The expenses of the arbitration shall be shared equally by the parties unless the arbitration determines that the expenses shall be otherwise assessed and the prevailing party may be awarded its attorneys’ fees and expenses by the arbitrator. It is the intent of the parties that, barring extraordinary circumstances, arbitration proceedings shall be concluded within ninety (90) days from the date the arbitrator is appointed.  The arbitrator may extend this time limit only if failure to do so would unduly prejudice the rights of the parties.  Failure to adhere to this time limit shall not constitute a basis for challenging the award.  Consistent with the expedited nature of arbitration, pre-hearing information exchange shall be limited to the reasonable production of relevant, non-privileged documents, carried out expeditiously. This Section shall not apply to claims concerning the ownership, validity, infringement, misappropriation, disclosure, misuse or enforceability of any confidential information, patent right, copyright, mask work, trademark or any other trade secret or intellectual property.  To the fullest extent permitted by applicable law, no arbitration or claim shall be joined to any other arbitration or claim, and no class arbitration proceedings shall be permitted. In no event shall any claim, action or proceeding by you related in any way to the Services be instituted more than two (2) years after the cause of action arose. In the event that any term of this Section (Arbitration) is held to be in conflict with a mandatory provision of applicable law, such conflicting term shall be modified automatically to comply with such provision and the remainder of this Section shall not be affected.
-
-### 22\. APPLICABLE LAW AND VENUE
-
-These Terms of Use and your use of the Services shall be governed by and construed in accordance with the laws of the United States of America and the State of Delaware applicable to agreements made and to be entirely performed within the State of Delaware (even if your use is outside of the State of Delaware), without resort to its conflict of law provisions. You agree that with respect to any disputes or claims not subject to arbitration (as set forth above), any action at law or in equity arising out of or relating to the Services or these Terms of Use shall be filed only in the state and federal courts located in the county of Kent, Delaware and you hereby irrevocably and unconditionally consent and submit to the exclusive jurisdiction of such courts.
-
-### 23\. ASSIGNMENT; CHANGE IN CONTROL
-
-This Agreement may not be assigned by you without the prior written approval of Subsplash but may be assigned without your consent by Subsplash to (i) a parent or subsidiary, (ii) an acquirer of assets, or (iii) a successor by merger.
-
-### 24\. SEVERABILITY
-
-If any of these Terms of Use should be determined to be invalid, illegal or unenforceable for any reason by any court of competent jurisdiction then such term shall be enforced only to the extent it is enforceable, shall otherwise be deemed severed from these Terms of Use, shall not affect the validity and enforceability of any remaining provisions, and the remaining terms shall survive and remain in full force and effect and continue to be binding and enforceable.
-
-### 25\. RELATIONSHIP
-
-You agree that no joint venture, partnership, employment, or agency relationship exists between you and Subsplash.
-
-### 26\. WAIVER
-
-No waiver of any term, provision or condition of this Agreement, whether by conduct or otherwise, in any one or more instances, shall be deemed to be, or shall constitute, a waiver of any other term, provision or condition hereof, whether or not similar, nor shall such waiver constitute a continuing waiver of any such term, provision or condition hereof. No waiver shall be binding unless executed in writing by the party making the waiver.
-
-### 27\.  FORCE MAJEURE
-
-If the performance of any part of this Agreement by either party is prevented, hindered, delayed, or otherwise made impracticable by reason of any flood, riot, fire, judicial or governmental action, labor disputes, act of God, or any other causes beyond the control of either party, that party shall be excused from such to the extent that it is prevented, hindered, or delayed by such causes.
-
-### 28\. ENTIRE AGREEMENT
-
-This Agreement constitutes the complete and exclusive statement of the agreement between the parties with respect to the use of the Services and any acts or omissions of Subsplash and supersedes any and all prior or contemporaneous communications, representations, statements and understandings, whether oral or written, between the parties.
-
-### ‍
-
-Última actualización: 15 de abril de 2022 - Versión 3.6
-
-SÍRVASE LEER ESTAS CONDICIONES DE USO CUIDADOSAMENTE. ESTE ES UN CONTRATO LEGALMENTE VINCULANTE. PUEDE ACEPTAR ESTAS CONDICIONES:
-
-(A) AL HACER CLIC PARA ACEPTAR O ESTAR DE ACUERDO CON ESTAS CONDICIONES DE USO, CUANDO SUBSPLASH PONE A SU DISPOSICIÓN ESTA OPCIÓN EN LA INTERFAZ DE USUARIO DE CUALQUIER SERVICIO; O
-
-(B) CON EL USO ACTUAL DE LOS PRODUCTOS, SOFTWARE, SERVICIOS O SITIOS WEB DE SUBSPLASH (COLECTIVAMENTE, LOS "SERVICIOS"). USTED ENTIENDE Y ESTÁ DE ACUERDO EN QUE SUBSPLASH TRATARÁ EL USO DE LOS SERVICIOS POR USTED COMO ACEPTACIÓN DE LAS CONDICIONES DE USO DESDE ESE MOMENTO EN ADELANTE.
-
-Estas condiciones de uso (las "Condiciones de Uso" o el "Contrato") rigen su acceso como usuario final al Servicio y al uso de los Servicios ofrecidos por Subsplash, Inc. y Subsplash Wallet, LLC (en lo sucesivo denominados colectivamente como "Subsplash"). De ninguna manera cámbian los términos y condiciones de cualquier otro contrato que usted pueda tener con Subsplash, sus subsidiarios o sus filiales. Si usted está usando los Servicios a nombre de cualquier entidad, usted manifiesta y garantiza que está autorizado a aceptar estas Condiciones de Uso a nombre de dicha entidad.
-
-Subsplash se reserva el derecho de cambiar o modificar cualquier término o condición en estas Condiciones de Uso, las Condiciones de Servicio o en cualquier política o pauta, en cualquier momento y a su único juicio. Cualquier cambio o modificación entrará en vigor inmediatamente después de la publicación de las revisiones en los sitios web o Servicios de Subsplash. El uso continuo de los Servicios por usted después de la publicación de sus cambios o modificaciones constituirá su aceptación de dichos cambios o modificaciones. Por lo tanto, usted debe repasar estas Condiciones de Uso con frecuencia y las políticas correspondientes de vez en cuando para entender los términos y condiciones que se aplican a su uso de los Servicios. Si no está de acuerdo con las condiciones enmendadas, debe dejar de usar los Servicios. Usted garantiza y atestigua que tiene por lo menos trece (13) años y, si tiene menos de la edad legal para formar un contrato vinculante dentro de su jurisdicción, tiene permiso de su padre o tutor para usar nuestros Servicios.
-
-Todas las otras preguntas o comentarios sobre los Servicios se deben dirigir a legal@Subsplash.com.
-
-**1\. Política de privacidad y comentarios**
-
-Consulte nuestra [Política de Privacidad](http://www.subsplash.com/legal/privacy) para obtener información sobre cómo Subsplash recopila, utiliza y divulga información personal identificable de sus usuarios.
-
-Cualquier sugerencia, idea o comentario ("Feedback") que usted le proporcione a Subsplash relacionado con el Servicio proporcionado por usted a Subsplash se convertirá en propiedad única de Subsplash. Subsplash poseerá derechos exclusivos, incluidos todos los derechos de propiedad intelectual, y tendrá derecho al uso y circulación sin restricciones de estos para cualquier objetivo, sin reconocimiento o compensación para usted. Por el presente usted está de acuerdo que dicho "Feedback" se proporciona sin derechos de propriedad y sin ser confidencial. Hasta el punto en que usted tenga cualquier derecho sobre el "Feedback", por pleno derecho o de otro modo, por medio del presente usted acepta asignar y por el presente asigna a Subsplash todo el derecho, propiedad e interés en y al "Feedback". Usted está de acuerdo en llevar a cabo todo acto razonablemente solicitado por Subsplash para perfeccionar y hacer cumplir dichos derechos.
-
-**2\. Inscripción en el Servicio**
-
-Si desea utilizar los Servicios, tendrá que inscribirse proporcionando información sobre usted y, si se está inscribiendo a nombre de una entidad, información sobre esa entidad (como identificación, información de tarjeta de crédito y detalles de contacto). Usted está de acuerdo en que dicha información proporcionada por usted está correcta, completa y actualizada. No hacerlo constituye un incumplimiento de estas Condiciones de uso y puede resultar en que se dé por terminada su cuenta y el acceso a los Servicios. Usted tiene la responsabilidad de mantener la seguridad y confidencialidad de su nombre de usuario y de la contraseña de su cuenta. Usted es el único responsable de todas las actividades que ocurran con el uso de su nombre y su contraseña. Usted acepta no acceder o usar, ni tratar de acceder o de usar, los Servicios o cualquier parte de los mismos usando la identidad o los Datos de inscripción de cualquier persona que no sea usted.  Usted está de acuerdo en notificar a Subsplash inmediatamente de cualquier uso no autorizado de su ID de usuario o su contraseña. De vez en cuando, es posible que se le pida confirmar su cuenta por medio de un mensaje de correo electrónico. Si no se reconfirma dicha cuenta, Subsplash puede borrar su cuenta Una vez que se haya borrado su cuenta, Subsplash puede retener su Contenido del Usuario y es posible que se muestre o no.
-
-**3\. Contenido del Usuario y uso aceptable**
-
-Los Servicios pueden permitirle publicar, cargar, enviar comunicaciones o transmitir contenido ("Contenido del Usuario"). Subsplash tiene el derecho de rechazar cualquier Contenido del Usuario. Usted está de acuerdo en que Subsplash, a su entera discreción, tiene el derecho de filtrar, rechazar o retirar cualquier Contenido del Usuario, o parte de este, publicado en nuestros servidores que infrinja nuestra propiedad intelectual u otros derechos, o cualquier otro derecho de terceros, que viole estas Condiciones de Uso o nuestras otras políticas, o que de otra manera sea objetable. Subsplash se reserva el derecho de divulgar cualquier material de ese tipo publicado en nuestros servidores según sea necesario para satisfacer cualquier ley, regulación, proceso legal o solicitud gubernamental aplicable.
-
-Debe guardar todo su Contenido del Usuario a través de soluciones de almacenamiento alternativas ya que Subsplash no garantiza la seguridad o confiabilidad de sus Servicios. Si retira su cuenta, también es posible que algo o todo su Contenido del Usuario se borre.
-
-Le damos valor a la integridad, la verdad y el respeto por los demás, la libertad de religión, la libertad de expresión, y nos esforzamos por evitar mostrar contenido, aplicaciones o sitios web que son inapropiados de acuerdo con las escrituras y los valores cristianos tradicionales Por esta razón, no permitimos la publicación, comunicación o promoción del asesinato; tortura; racismo (que una etnia, pueblo o grupo es superior o inferior a otro); blasfemia; o contenido o actividad sexual, religiosa o política que viole o menosprecie las escrituras y los valores cristianos tradicionales, u organizaciones con tales puntos de vista.
-
-Vinculado con lo anterior, lo siguiente queda prohibido:
-
-• El acoso o acecho de otra persona;      
-
-• Correos masivos no solicitados o "spam";
-
-• Publicar Materiales del Cliente determinados por Subsplash, que son ilegales o que probablemente lo sean, o que violan las leyes o regulaciones locales, estatales, provinciales o federales o los derechos de cualquier persona o entidad, o que violan las reglas o requisitos de una o más plataformas de aplicaciones móviles o tiendas de aplicaciones móviles;
-
-• El lenguaje dañino, ofensivo y abusivo, incluidos sin limitación, improperios, acoso, obscenidades, vulgaridades, lenguaje sexualmente explícito, imágenes, videos u otros materiales inapropiados (por ejemplo, desnudez, bestialidad, pornografía);
-
-• Publicar Materiales del Usuario que sean inapropiados basados en el tema y la audiencia;
-
-• Publicar Materiales del Usuario que estén encriptados o que contengan virus o cualquier otra rutina de programación informática que tengan la intención de dañar, interferir, interceptar o apropiarse de cualquier sistema o información;
-
-• Publicar Materiales del Usuario que violen los derechos de propiedad intelectual de cualquier persona;
-
-• Hacerse pasar por cualquier persona o entidad o de otro modo representar inedacuadamente su afiliación con una persona o entidad;
-
-• Publicar información privada o confidencial de cualquier tercero sin su consentimiento expreso, incluyendo sin limitación, información personal identificable, direcciones, números de teléfono, direcciones de correo electrónico, números de Seguro Social y números de tarjetas de crédito;
-
-• Usar los Servicios para crear un sitio o publicar Contenido del Usuario destinado, en su totalidad o en parte, a aumentar la clasificación de otro sitio.
-
-• Publicar enlaces a sitios o servicios de terceros sin el permiso de ellos.
-
-• Publicar cualquier Contenido del Usuario que, a juicio exclusivo de Subsplash, pueda exponer a Subsplash a cualquier daño o responsabilidad de cualquier tipo.
-
-• Usted está de acuerdo en que solo proporcionará Contenido del Usuario que no tenga razones para creer que es falso o engañoso y no podrá:
-
-• Usar el Servicio para violar la seguridad de cualquier red informática, descifrar contraseñas o códigos de cifrado de seguridad; transferir o almacenar material ilegal, incluido cualquier material considerado amenazante u obsceno;
-
-• Crear cuentas de usuario por medios automatizados o con pretextos falsos o fraudulentos;
-
-• Extraer (scrape) o recopilar información sobre otros usuarios de forma automatizada.
-
-Subsplash se reserva el derecho de retirar el Contenido del Usuario que, a juicio exclusivo de Subsplash, viole las escrituras y los valores cristianos tradicionales.
-
-Subsplash se reserva el derecho de investigar y tomar las acciones legales apropiadas a su exclusiva discreción contra cualquier persona que viole esta disposición, incluyendo, sin limitación, eliminar la comunicación ofensiva del Contenido del Usuario y terminar el Servicio del infractor sin reembolso.
-
-Al publicar Contenido del Usuario, usted otorga a Subsplash y sus filiales el derecho no exclusivo perpetuo, irrevocable, mundial, libre de regalías, libremente transferible y sublicenciable (a través de niveles ilimitados de sublicencia) para crear trabajos derivados, usar, reproducir, modificar, transmitir, publicar, mostrar y distribuir públicamente, y anunciarse en y alrededor, y buscar con el fin de proporcionar anuncios relevantes, dicho Contenido del Usuario y trabajo derivado. Usted manifiesta y garantiza que (a) posee y controla todos los derechos sobre el Contenido del Usuario que publica o que de otra manera tiene el derecho de publicar dicho Contenido del Usuario y de otorgar los derechos otorgados en este documento; (b) el Contenido del Usuario es preciso y no engañoso; (c) la distribución del Contenido del Usuario que usted proporciona de acuerdo con sus instrucciones no viola estas Condiciones de Uso y no violará ningún derecho ni causará daño a ninguna persona o entidad; y (d) usted posee el consentimiento de todas las personas que son visibles en el Contenido del Cliente para permitirle incluir la imagen de dichas personas como parte del Contenido del Usuario. Por el presente, usted renuncia a cualquier derecho moral que pueda tener sobre dicho Contenido del Usuario bajo las leyes de cualquier jurisdicción. Podemos (pero no estamos obligados a) mostrar su Contenido del Usuario, lo que incluiye su nombre de usuario y su nombre real (de acuerdo con las preferencias que seleccione). En lo que se refiere a los anuncios de terceros, Subsplash no es responsable del contenido de dichos anuncios.
-
-Subsplash tendrá el derecho de retirar su Contenido del Usuario de los Servicios si cancela su cuenta y está inactivo durante más de seis (6) meses.
-
-Subsplash también tendrá el derecho de anonimizar cualquier información o datos que cargue en los Servicios, combinarlos con datos anonimizados de otros y, por lo tanto, crear datos agregados anónimos ("Datos agregados"). Subsplash será el único propietario de los Datos Agregados, tendrá la libertad de usar dichos Datos Agregados para todos y cada uno de los propósitos en forma anonimizada, y usted está de acuerdo en que no tiene derecho a ninguna compensación o consideración de Subsplash en lo que se refiere a los datos agregados.
-
-**4\. Pago**
-
-Si compra productos o servicios de Subsplash o a través de Subsplash, se le cobrará por adelantado.  No se emitirán reembolsos excepto a la entera discreción de Subsplash. Todos los cargos y pagos serán en dólares de EE. UU.(USD). Para aquellos clientes que paguen con tarjeta de crédito, ACH u otro método, usted autoriza a Subsplash a cargar a su tarjeta de crédito u otra cuenta (según sea el caso) por las cantidades autorizadas. Subsplash se reserva el derecho de cobrarle ciertos impuestos u otras evaluaciones para cumplir con las leyes y regulaciones locales, estatales, provinciales, federales o internacionales, según se requiera ahora o se impongan más adelante. Si reclama la exención de cualquier impuesto, tendrá que proporcionarle a Subsplash la documentación requerida por la autoridad fiscal para apoyar una exención. Si se ha suscrito a un servicio pagado, Subsplash se reserva el derecho de cambiar el precio de sus Servicios con (30) días de anticipación y se le dará la oportunidad de cancelar los Servicios antes de que dicho aumento entre en vigor. Subsplash no establece los precios de los productos o servicios establecidos por otros usuarios en los Servicios y no es responsable de ellos. Al igual que entre usuarios, todas las ventas son finales y Subsplash no es responsable de coordinar, permitir o facilitar los reembolsos. Si está de acuerdo en proporcionarle un reembolso a otro usuario, usted es el único responsable de proporcionar dicho reembolso.
-
-**5\.  Subsplash Giving**
-
-Si se inscribe y/o utiliza la funcionalidad de Subsplash Giving ("Subsplash Giving") proporcionada por Subsplash Wallet, acepta lo siguiente:
-
-a.  Además de las disposiciones de pago contenidas en la Sección 4 anterior, usted designa a Subsplash Wallet como su agente para procesar donaciones en línea por las cantidades que seleccione para la organización en particular ("Donatario") seleccionada por usted. Las tarifas de transacción de Subsplash se descontarán de los donativos en línea en los momentos acordados por Subsplash Wallet y los Donatarios
-
-b.  Solo el titular autorizado de la tarjeta de crédito o cuenta puede donar a través de Subsplash Giving. Un tercero no puede usar la información de la tarjeta del donante o ingresar donativos a nombre del donante. Esta práctica puede constituir "lavado con tarjetas de crédito" y puede violar los acuerdos de uso de las tarjetas de crédito Por el peresente se autoriza a Subsplash Wallet a reportar tales abusos a las autoridades correspondientes Todos los donativos hechos por medio de Subsplash Wallet son reembolsables solo si el Donatario lo acepta y se completan cuando se hacen y los Donatarios tienen total discreción y control sobre el uso de todos los fondos donados.
-
-c.  Las leyes federales prohíben a las organizaciones benéficas prometer o proporcionar bienes y servicios (por ejemplo, boletos para eventos o rifas) a cambio de hacer una donación. Subsplash Wallet solo puede aceptar contribuciones puras y no transacciones parte regalo y parte venta.
-
-d.  La información del donante se compartirá con el Donatario.
-
-e.  Cuando usted le envía un mensaje de texto a Subsplash o a Subsplash Wallet con el objetivo de utilizar la función de donativos por texto, estará divulgando el número de su celular a Subsplash y a Subsplash Wallet, por lo tanto, da su consentimiento para recibir un hipervínculo al portal de donativos de Subsplash Wallet por medio de un texto. Para dejar de recibir textos de Subsplash o de Subsplash Wallet, responda "STOP" al mensaje de texto. Puede que reciba un mensaje subsiguiente para confirmar la solicitud para dejar de participar (opt-out). Para recibir ayuda, envié "HELP" al 888-364-4483. Es posible que correspondan las tarifas de mensajes y datos. La empresa operadora de su celular no es responsable de mensajes retrasados o no entregados.
-
-f.  Usted, (como individuo) puede elegir el uso de Subsplash Giving como el servicio de pagos para hacer pagos futuros. Esto permite a Subsplash procesar y recibir pagos con su autorización, ya sea una vez o de forma recurrente o esporádica. Los pagos preaprobados de este tipo a veces se denominan "acuerdo de facturación", "suscripción", "pago recurrente", "donación recurrente", "transacción de referencia", "transferencia preautorizada", "pago automático", "pago a plazos" o "tarjeta en archivo no programada". Nos referimos a tales pagos como "pagos recurrentes".
-
-Si elige iniciar pagos recurrentes (que incluyen donativos recurrentes), nos está autorizando a guardar y cargar automáticamente el método de pago seleccionado por usted en la cantidad del pago (incluso las tarifas y cargos) y la frecuencia que usted designó, sin más consentimiento o instrucciones de su parte. Puede hacer una pausa (y luego reanudar) sus pagos recurrentes siguiendo las instrucciones disponibles haciendo clic aquí. Si desea cancelar sus pagos recurrentes, puede hacerlo revocando su autorización por lo menos diez (10) días laborables antes de la próxima fecha de pago programada. Para saber cómo cancelar sus pagos recurrentes (y así revoca su autorización), haga clic aquí.
-
-Una vez que se procesa un pago, un pago no puede ser cancelado por nosotros y no tenemos la obligación de aceptar ninguna solicitud para detener, corregir, revertir o retirar un pago. Es posible que pasemos por defecto a un pago recurrente para su cuenta individual, pero usted puede elegir un pago único. Si se hacen cambios a un método de pago guardado o se cambia la cuenta vinculada, cualquier pago recurrente asociado con ese método de pago guardado o cuenta vinculada, puede crear una pausa, cancelarlo o afectarlo negativamente. Revocar una autorización para un programa de pagos recurrente específico no cancelará otras autorizaciones para pagos recurrentes. Si pausa o cancela un pago recurrente, aún puede deber dinero por el donativo, compra o promesa de donar, o tener obligaciones adicionales por cualquier bien o servicio que reciba pero que no haya pagado
-
-Si crea un plan de pago recurrente, la cantidad del pago recurrente que especificó se facturará a la tarjeta de crédito o débito, cuenta bancaria u otra cuenta que designe durante el proceso de configuración. Si quiere designar una tarjeta de crédito, débito o bancaria u otra cuenta diferente, o si hay un cambio en dichas tarjetas o cuentas, debe cambiar dicha información a través de la aplicación. Esto puede retrasar temporalmente su capacidad de hacer pagos en línea mientras se verifica su nueva información de pago.
-
-**6\. Consentimiento para recibir correos electrónicos y avisos**
-
-Al usar los Servicios, usted permite recibir correos electrónicos de Subsplash, los que pueden incluir correos electrónicos comerciales. Podemos usar su información para mandarle noticias o actualizaciones del producto. Usted puede darse de baja ("opt-out") de recibir correos electrónicos de márketing o promocionales de Subsplash siguiendo las instrucciones para darse de baja ("unsubscribe") o usando los enlaces para darse de baja que se encuentran en las comunicaciones que mandamos. Mientras mantenga una cuenta no se puede dar de baja ("opt-out") de recibir de Subsplash mensajes de servicio o relacionados con la cuenta Las partes del presente pueden hacer notificaciones legales por medio del correo electrónico, cuyo correo electrónico se considerará entregado cuando se envíe. La dirección de notificación de Subsplash será support@subsplash.com  (u otra dirección que Subsplash le proporcione por correo electrónico a la dirección para Notificaciones de usted) y su dirección para recibir notificaciones según este Contrato será la dirección actual de correo electrónico que usted indicó en el perfil de su cuenta.  
-
-**7\. Derechos de autor (copyright) y licencia limitada**
-
-A menos que se indique otra cosa, los Servicios y el contenido de los Servicios, incluso y sin limitaciones, el logotipo de Subsplash, todos los diseños, textos, gráficos, fotos, información, datos, software, archivos de sonido, otros archivos y la selección y arreglo de estos (colectivamente, los "Materiales") son propiedad de Subsplash, sus licenciatarios o sus clientes y están protegidos por las leyes de derechos de autor de EE. UU., canadienses e internacionales.
-
-Hasta el punto en que Subsplash le otorgue acceso, a usted se le otorga una licencia limitada, no exclusiva, no transferible, no sublicenseable, para acceder y usar los Servicios. Dicha licencia está sujeta a estas Condiciones de Uso y no incluye ni autoriza: (a) la reventa o uso comercial (no personal) de los Servicios o los Materiales en ella;(b) la distribución, representación o exposición pública de ninguno de los Materiales; (c) modificar o de otro modo hacer uso derivado de los Servicios o Materiales o cualquier parte de los mismos; (d) el uso de medios automatizados, incluso arañas, robots informáticos, rastreadores, herramientas de extracción de datos o parecidos, para descargar datos de los Servicios, (e) bajar (aparte de almacenamiento de páginas en el caché) cualquier parte de los Servicios, los Materiales, o cualquier información contenida en ellos, excepto cuando se permita expresamente; (f) cualquier intento de obtener acceso no autorizado a los sistemas de computadoras de Subsplash o participar en cualquier actividad que perturbe, disminuya la calidad de, interfiera con el desempeño de o afecte la funcionalidad de los Servicios; o (g) recopilar o cosechar del Servicio cualquier información personal identificable, incluso sin estar limitada a, nombres de empresas, nombres de dominio o nombres de cuentas, ni usar para objetivos de solicitación comercial los sistemas de comunicación proporcionados por el Servicio;  (h) uso de cualquier parte de los Servicios como un destino enlazado a mensajes a granel no solicitados o mensajes comerciales no solicitados (i) cualquier uso de los Servicios o los Materiales que no sea para el objetivo destinado; (j) copiar, modificar, crear trabajo derivado del mismo, ingenieria inversa, descompilar o de otro modo tratar de extraer el código fuente o parte del mismo de cualquier software a menos que esté expresamente permitido o exigido por la ley, o a menos que Subsplash le haya dicho por escrito específicamente que puede hacerlo. Usted no puede acceder, copiar, evaluar, divulgar, exponer ni de otro modo usar el Servicio para los objetivos del análisis competitivo. Usted no puede acceder, copiar, evaluar, divulgar, exponer ni de otro modo usar el Servicio para los objetivos del análisis competitivo. Cualquier uso del Servicio o de los Materiales de Servicio que no sea el específicamente autorizado en este documento, sin el permiso previo por escrito de Subsplash, está estrictamente prohibido y dará por teminada la licencia otorgada en este documento. Dicho uso no autorizado también puede violar las leyes aplicables, lo que incluye sin estar limitadas a ellas. las leyes de derechos de autor y de marcas comerciales y las regulaciones y estatutos de comunicaciones correspondientes. A menos que se indique explícitamente aquí, nada en estas Condiciones de Uso se interpretará como que confiere ningún tipo de licencia a los derechos de propiedad intelectual, ya sea por exclusión, implicación o de otro modo. Esta licencia es revocable en cualquier momento.
-
-**8\. Política sobre infractores reiterativos**
-
-Según la ley llamada en inglés Digital Millennium Copyright Act (DMCA). el Copyright Act (Canadá) y otras leyes aplicables, Subsplash ha adoptado la política de dar por terminado, en circunstancias apropiadas y a único juicio de Subsplash, el acceso a aquellos que se consideran ser infractores reiterativos. Subsplash también puede, a su único juicio, limitar acceso a los Servicios y/o dar por terminada la cuenta de cualquier usuario que infrinja cualquiera de los derechos de propiedad intelectual de otros.
-
-**9\.  Política de derechos de autor (copyright)**
-
-Subsplash respeta los derechos de propiedad intelectual de otros y espera que los usuarios de los Servicios hagan lo mismo. Responderemos a las notificaciones de supuestas violaciones de derechos de autor que cumplan con las leyes correspondientes y se nos proporcionen correctamente. Si usted cree que se han copiado materiales con derechos de autor de manera que constituyen una violación de los derechos de autor, sírvase proporcionarnos la información siguiente: (i) una firma física o electrónica del dueño de los derechos de autor o de una persona autorizada para actuar a su nombre; (ii) identificación del trabajo protegido por derechos de autor que sostienen ha sido violado; (iii) identificación del material que se sostiene es una violación o que es el sujeto de la actividad de violación y que se tiene que eliminar o acceso a la cual hay que inutilizar, y la información razonablemente suficiente que permita que localicemos el material; (iv) su información de contacto que incluya su dirección, número de teléfono y una dirección de correo electrónico. (v) una declaración hecha por usted indicando que cree de buena fe que el uso del material de la manera en que se indica en la queja no está autorizado por el dueño de los derechos de autor, su agente o la ley; y (vi) una declaración que indique que la información que está en la notificación es correcta y que, bajo pena de perjurio, usted está autorizado para actuar a nombre del dueño de los derechos de autor.
-
-Nos reservamos el derecho de eliminar el contenido que supuestamente es una violación sin previo aviso y a nuestra entera discreción. También nos reservamos el derecho de notificarle si recibimos información de un tercero que el Contenido de Usuario que usted ha publicado infringe en los derechos de autor de dicho tercero y de informar a dicho tercero que le hemos proporcionado dicha notificación. Nuestro agente de derechos de autor designado para la notificación de una supuesta infracción de derechos de autor que aparece en el Servicio es:
-
-Subsplash, Inc
-
-Dirección: 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
-
-Email: legal@subsplash.com
-
-**10\. Marcas registradas**
-
-Subsplash®, The Church App®, y The Church App by Subsplash™ son marcas registradas de Subsplash y no se pueden usar ni se pueden imitar, en su totalidad o en parte, sin permiso previo por escrito de Subsplash. No puede usar etiquetas meta ("metatags") ni ningún otro "texto oculto" usando dichas marcas registradas ni cualquier otro nombre, o nombre de producto o servicio de Subsplash sin nuestro previo permiso por escrito. Además, el "look and feel" (apariencia gráfica) de los Servicios es la marca de servicio, marca registrada o imagen comercial de Subsplash, esto incluye todos los encabezados de página, los gráficos personalizados, los iconos de botón y las secuencias de comando, y no se puede copiar, imitar ni usar, en su totalidad o en parte, sin nuestro previo permiso por escrito. Todas las otras marcas comerciales, las marcas registradas, los nombres de productos y los logotipos que se exhiben en los Servicios son propiedad de sus respectivos dueños.
-
-**11\. Hiperenlaces**
-
-Se le otorga el derecho limitado, no exclusivo, no transferible de crear un hiperenlace de texto a los Servicios siempre y cuando dicho enlace no represente a Subsplash ni a ninguno de sus productos o servicios de un modo falso, desorientador, despectivo o de otro modo difamatorio y, además, siempre y cuando el sitio del enlace no contenga ningún material para adultos o ilegal ni ningún material que sea ofensivo, acosador o de otro modo objetable. Este derecho limitado se puede revocar en cualquier momento. Usted no puede usar el logotipo de Subsplash ni otros gráficos protegidos para vincular con los Servicios sin el permiso expreso por escrito de Subsplash. Además, no puede utilizar, enmarcar ni utilizar técnicas de enmarcado para rodear ninguna marca registrada, logotipo u otra información de propiedad exclusiva de Subsplash incluso las imágenes que se encuentran en los Servicios, el contenido de cualquier texto o disposición/diseño de ninguna página o formulario que se exhiba en los Servicios sin el consentimiento expreso por escrito de Subsplash. Excepto según lo indicado arriba, a usted no se le otorga ningún derecho ni licencia por implicación, exclusión o de otro modo en o bajo ninguna patente, marca registrada, derechos de autor o derecho de propiedad de Subsplash o ningún tercero.
-
-**12\. Contenido de terceros**
-
-Subsplash o sus clientes pueden proporcionar enlaces a las páginas web y al contenido de terceros como un servicio a aquellos interesados en dichos enlaces y contenido y Subsplash puede publicar contenido de terceros o permitir que los usuarion publiquen su contenido. Subsplash no monitoriza ni tiene control sobre ningún contenido de terceros ni sitios web de terceros. Subsplash no endorsa ni adopta ningún contenido de terceros ni sitio web de terceros y no puede garantizar si están correctos o completos. Subsplash no asegura ni garantiza la exactitud de ninguna información contenida en ellos y no asume ninguna responsabilidad de actualizar ni repasar ningún contenido de terceros o de sitios web de terceros. Usted entiende que, al usar estos Servicios, puede estar expuesto al contenido que usted pueda considerar ofensivo, indecente u objetable y que usa enlaces, contenido de terceros y sitios web de terceros bajo su propio riesgo. Cuando deja Subsplash Services, debe estar consciente de que ya no rigen nuestras condiciones y políticas.  Usted debe repasar las condiciones y políticas correspondientes, incluso las prácticas de privacidad y recolección de datos, de cualquier sitio o servicio web al que navegue desde Subsplash Services.
-
-Subsplash no es editor ni autor del contenido de terceros. Es un servicio pasivo para almacenar y diseminar las ideas y opiniones que los usuarios y vendedores de Subsplash decidan publicar. Subsplash no filtra trabajos antes de que se publiquen y no se necesita aprobación previa para publicar. Las actividades de Subsplash están sujetas a la protección de la Sección 230 de la ley llamada Communications Decency Act (Ley de decencia en cominucaciones) y de las disposiciones "safe harbor" (puerto seguro) de la Sección 512 de la ley Digital Millenium Communications Act (Ley de comunicaciones digitales en el milenio).   
-
-**13\. Contenido, bienes y/o servicios de terceros**
-
-Los Servicios también pueden proporcionar información sobre ciertas aplicaciones y bienes y/o servicios proporcionados por terceros o enlaces a los mismos (colectivamente los "Bienes y servicios de terceros"). Subsplash simplemente es un proveedor de información y no es un servicio de remisión y no recomienda ni respalda dichos Bienes y Servicios de Terceros ni monitoriza ni tiene control sobre dichos Bienes y Servicios de Terceros. Por lo tanto, Subsplash no representa, ni garantiza ni hace ningún tipo de promesa sobre la calidad, aptitud, valor, confiabilidad, receptividad, precisión o totalidad de dichos Bienes y Servicios de Terceros o los resultados obtenidos de los mismos y Subsplash no asume ninguna responsabilidad legal ni de otra índole por Bienes o Servicios de Terceros ni por las acciones o falta de acción de aquellos que proporcionan dichos Bienes y Servicios de Terceros. Usted asume la responsabilidad total del uso que usted haga de cualquiera de dichos Bienes y Servicios de Terceros. En el caso de una disputa entre cualquier consumidor y vendedor, las partes resolverán la disputa entre ellos.  
-
-**14\. Anuncios y promociones; servicios beta**
-
-Subsplash puede poner anuncios y promociones de terceros como parte de sus Servicios. Sus tratos comerciales o correspondencia con los anunciantes, aparte de Subsplash, o participación en las promociones de estos y cualquier término, condición, garantía o representación relacionada con dichos tratos son solo entre usted y dicho tercero. Subsplash no tiene responsabilidad legal ni de otra índole por ninguna pérdida o daño de ningún tipo en el que se incurra como resultado de dichos tratos o como resultado de la presencia de dichos anunciantes de terceros en los Servicios.
-
-De vez en cuando, con su autoridad y discreción exclusiva, Subsplash puede ofrecerle acceso a versiones beta de Servicios actuales, venideros o en desarrollo. Subsplash tiene discreción exclusiva de: (1) decidir si ofrecerle dicho acceso y de imponer cualquier condición a dicho acceso (2) la duración y alcance del período de la prueba beta y el acceso por usted; y (3) si debe implementar características o Servicios que hayan sido probados durante el período de la prueba beta. Si se le cobra algo por los Servicios beta probados y las pruebas beta se descontinuan pronto, usted recibirá un reembolso prorrateado por dichos servicios.
-
-Además de las limitaciones de la responsabilidad civil en estas Condiciones, y excepto cuando se manifiesta aquí, Subsplash no tendrá ninguna responsabilidad con usted ni con terceros por los Servicios de pruebas beta incluso sin estar limitado, la descontinuación temprana de los Servicios de beta probados, problemas o errores en los Servicios beta probados o pérdida de datos en los Servicios beta probados. Cualquier prueba beta que proporcione a los Servicios la hace por su cuenta y riesgo.
-
-**15\. LIMITACIONES DE LA GARANTÍA**
-
-LOS MATERIALES DEL SERVICIO Y EL SERVICIO SE PROPORCIONAN "TAL CUAL" Y "SEGÚN DISPONIBLES" SIN GARANTÍAS DE NINGÚN TIPO YA SEAN EXPRESAS O IMPLÍCITAS. SUBSPLASH DESCARGA SU RESPONSABILIDAD DE TODAS LAS GARANTÍAS, EXPRESAS O IMPLÍCITAS, INCLUSO Y SIN LIMITACIONES, GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN, IDONEIDAD PARA UN OBJETIVO EN PARTICULAR, DE TITULARIDAD Y NO INFRACCIÓN DE LA INFORMACIÓN, CONTENIDO O MATERIALES. SUBSPLASH NO MANIFIESTA NI GARANTIZA QUE LOS MATERIALES, INCLUSO LA INFORMACIÓN DISPONIBLE POR MEDIO DE ESTOS SERVICIOS, ESTÉN CORRECTOS, COMPLETOS, SIN ERRORES, SEAN CONFIABLES O ACTUALES. SUBSPLASH NO MANIFIESTA NI GARANTIZA QUE LOS SERVICIOS O SUS SERVIDORES ESTÉN LIBRES DE VIRUS O DE OTROS COMPONENTES DAÑINOS.
-
-SUBSPLASH NO ES RESPONSABLE DE ERRORES NI DE OMISIONES EN NINGUNA INFORMACIÓN O MATERIALES QUE SE ACCEDAN A TRAVÉS DE SUS SERVICIOS, EL SITIO O CUALQUIER OTRA PARTE DEL SERVICIO. AUNQUE SUBSPLASH TRATA DE QUE SU ACCESO Y USO DE LOS SERVICIOS SEA SEGURO, SUBSPLASH NO PUEDE MANIFESTAR NI GARANTIZAR Y NO MANIFIESTA NI GARANTIZA QUE LOS SERVICIOS O SU(S) SERVIDOR(ES) O CUALQUIER CONTENIDO O MATERIALES ESTÉN LIBRES DE VIRUS U OTROS COMPONENTES DAÑINOS; POR LO TANTO, CUANDO VAYA A HACER UNA DESCARGA, USTED DEBE USAR SOFTWARE RECONOCIDO POR LA INDUSTRIA PARA DETECTAR Y NEUTRALIZAR VIRUS, PROGRAMAS ESPÍA, PROGRAMAS MALICIOSOS U OTROS COMPONENTES DAÑINOS O DE OTRO MODO INDESEABLES. SUBSPLASH NO GARANTIZA LA SEGURIDAD NI LA CONFIABILIDAD DE LOS SERVICIOS
-
-Subsplash se reserva el derecho de cambiar o borrar cualquier y todo contenido y cualquier Servicio en cualquier momento sin notificarlo.
-
-**16\. Limitación de responsabilidad**
-
-EN NINGÚN CASO, SUBSPLASH NI NINGUNO DE SUS AFILIADOS CORPORATIVOS, CONTRATISTAS INDEPENDIENTES, PROVEEDORES DE SERVICIO O ASESORES, NI NINGUNO DE SUS RESPECTIVOS DIRECTORES, EMPLEADOS Y AGENTES, SERÁN RESPONSABLES DE NINGÚN DAÑO DIRECTO, ESPECIAL, INDIRECTO O CONSECUENTE O DAÑOS PUNITIVOS , INCLUSO PERO SIN ESTAR LIMITADO A PÉRDIDA DE USO, PÉRDIDA DE OPORTUNIDAD, PÉRDIDA DE GANANCIAS O PÉRDIDA DE DATOS, YA SEA EN LA ACCIÓN DE UN CONTRATO, AGRAVIO (INCLUSO NEGLIGENCIA SIN ESTAR LIMITADO A ELLA) O DE OTRO MODO, QUE SURJA DE O DE CUALQUIER MODO ESTÉ RELACIONADO O CONECTADO CON LOS SERVICIOS, EL CONTENIDO O LOS MATERIALES QUE CONTIENE EL SERVICIO O QUE SE ACCEDEN A TRAVÉS DEL SERVICIO, INCLUSO SIN LIMITACIÓN, CUALQUIER DAÑO, PÉRDIDA O LESIÓN CAUSADA POR O RESULTADO DE DEPENDER DE CUALQUIER INFORMACIÓN OBTENIDA DE SUBSPLASH O QUE SEA EL RESULTADO DE ERRORES, OMISIONES, INTERRUPCIONES, ARCHIVOS O CORREOS ELECTRÓNICOS BORRADOS, ERRORES, DEFECTOS, VIRUS, RETARDO DE OPERACIÓN O TRANSMISIÓN O CUALQUIER FALLO DE DESEMPEÑO, YA SEA O NO EL RESULTADO DE ACTOS DE LA NATURALEZA, FALLO EN LAS COMUNICACIONES, ROBO, DESTRUCCIÓN O ACCESO NO AUTORIZADO A LOS REGISTROS, PROGRAMAS O SERVICIOS DE SUBSPLASH LA RESPONSABILIDAD TOTAL DE SUBSPLASH, YA SEA EN CONTRATO, GARANTÍA, AGRAVIO (INCLUSO NEGLIGENCIA YA SEA ACTIVA, PASIVA O IMPUTADA), RESPONSABILIDAD LEGAL POR EL PRODUCTO, RESPONSABILIDAD OBJETIVA U OTRA TEORÍA QUE SURJA DE O ESTÉ RELACIONADA DE CUALQUIER MANERA CON EL USO DE LOS SERVICIOS, NO SOBREPASARÁ NINGUNA COMPENSACIÓN QUE USTED LE HAYA PAGADO A SUBSPLASH, SI HAY ALGUNA, POR ACCESO A LOS SERVICIOS O USO DE LOS MISMOS DURANTE EL AÑO PREVIO AL ACTO U OMISIÓN DEL QUE SURGIÓ DICHA RESPONSABILIDAD.SIÓN O CUALQUIER FALLO DE DESEMPEÑO, YA SEA O NO EL RESULTADO DE ACTOS DE LA NATURALEZA, FALLO EN LAS COMUNICACIONES, ROBO, DESTRUCCIÓN O ACCESO NO AUTORIZADO A LOS REGISTROS, PROGRAMAS O SERVICIOS DE SUBSPLASH LA RESPONSABILIDAD TOTAL DE SUBSPLASH, YA SEA EN CONTRATO, GARANTÍA, AGRAVIO LA RESPONSABILIDAD AGREGADA DE SUBSPLASH, YA SEA POR CONTRATO, AGRAVIO (INCLUSO NEGLIGENCIA YA SEA ACTIVA, PASIVA O IMPUTADA), PRODUCTO, RESPONSABILIDAD CIVIL, RESPONSABILIDAD ESTRICTA U OTRA TEORÍA QUE SURJA DE O ESTÉ RELACIONADA DE CUALQUIER MANERA CON EL USO DE LOS SERVICIOS, NO EXCEDERÁ NINGUNA COMPENSACIÓN QUE HAYA PAGADO, SI LA HAY, A SUBSPLASH POR EL ACCESO O USO DE LOS SERVICIOS DURANTE EL AÑO ANTERIOR AL ACTO U OMISIÓN DEL QUE SURGIÓ DICHA RESPONSABILIDAD.
-
-SUBSPLASH NO GARANTIZA LA SEGURIDAD NI LA CONFIABILIDAD DE LOS SERVICIOS
-
-SI USTED ES RESIDENTE DE CALIFORNIA, POR EL PRESENTE, USTED RENUNCIA A LA SECCIÓN 1542 DEL CÓDIGO CIVIL DE CALIFORNIA QUE DICE "UNA EXONERACIÓN GENERAL NO SE EXTIENDE A LAS RECLAMACIONES QUE EL ACREEDOR O LA PARTE EXONERANTE NO SABE NI SOSPECHA QUE EXISTEN A SU FAVOR AL MOMENTO DE FIRMAR LA EXONERACIÓN LAS QUE, SI LO HUBIERAN SABIDO, HABRÍAN AFECTADO MATERIALMENTE SU ACUERDO CON EL DEUDOR O PARTE EXONERADA U OTRAS DISPOSICIONES PARECIDAS DE IMPORTANCIA SIMILAR".
-
-**17. Cumplimiento con las leyes**
-
-Usted manifiesta y garantiza que el uso de los Servicios por usted cumplirá con todas las leyes locales, estatales, provinciales y federales.
-
-**18\. Indemnización**
-
-Usted está de acuerdo en indemnizar, defender y exonerar de responsabilidad a Subsplash, sus subsidiarias, compañías afiliadas y sus accionistas respectivos, directores, ejecutivos, empleados, agentes, abogados, sucesores o cesionarios respectivos (las "Partes Indemnizadas") de y contra cualquier y todo daño y de reembolsar a las Partes Indemnizadas de toda reclamación, costo, gastos, pérdidas, demandas, daños, costos y honorarios legales, penalidades y/o responsabilidad de cualquier tipo o naturaleza que sea el resultado de o esté relacionada de cualquier modo con el uso de nuestro Servicio por usted; su conducta en los Servicios; su violación de estas Condiciones de Uso; su violación de los derechos de cualquier tercero; su desempeño relacionado con cualquier Declaración de Trabajo o relacionado con cualquier Contenido de Usuario que usted publique. Usted también está de acuerdo en indemnizar, eximir de responsabilidad y defender a Subsplash contra cualquier reclamo afirmado o amenazado contra Subsplash por parte de sus usuarios finales relacionado con o que surja de alguna manera de su incumplimiento de garantías o representaciones, servicios, operación de su organización, uso de nuestros Servicios o falta de prestación de servicios. Podemos defender cualquier reclamación de este tipo a opción nuestra y usted tendrá que pagar nuestros costos y honorarios de abogados. Esta indemnización continuará en pleno vigor después que venza o se dé por terminado este Acuerdo.
-
-**19\. Plazo y terminación**
-
-El presente contrato continuará hasta el momento en que cualquiera de las partes lo dé por terminado. Usted puede darlo por terminado sin motivo desactivando su cuenta de la página "your account" (su cuenta). Subsplash tiene el derecho de dar por terminados los Servicios sin motivo proporcionando solo un aviso con treinta (30) días de anterioridad a la dirección de correo electrónico indicada por usted en la información de su cuenta de usuario. En caso de que se dé por terminado el presente Contrato, cuando usted lo solicite, Subsplash pondrá a su disposición para descargar, un archivo con su Contenido de Usuario durante los treinta (30) días después de terminado el mismo. Usted reconoce y está de acuerdo en que Subsplash no tiene la obligación de conservar su Contenido del Usuario ni cualquier otro dato y puede borrar dichos datos treinta (30) días después de la terminación.
-
-**20\. Terminación con motivo**
-
-Subsplash puede dar por terminado el presente Contrato inmediatamente en caso de una violación sustancial por usted de los términos y condiciones de este Contrato. Cualquier incumplimiento con sus obligaciones de pago o uso no autorizado de su cuenta se considerará un incumplimiento de disposiciones esenciales del presente Contrato.
-
-**21\. Arbitraje**
-
-En caso de cualquier controversia entre las partes, las partes del presente se consultarán y tratarán de llegar a ua solución satisfactoria a ambas partes. Si no lo hacen dentro de un período de treinta (30) días, entonces, cualquiera de las partes puede, al notificar a la otra, exigir mediación según las reglas de mediación de la asociación de árbitros llamada American Arbitration Association. Si no se resuelve dentro de los sesenta (60) días de la entrega de una solicitud escrita de mediación, cualquier controversia o reclamo que no se haya resuelto (aparte de los reclamos indentificados en la Política de Privacidad de Subsplash) será resuelto por el arbitraje de acuerdo con las reglas de la American Arbitration Association ante un solo árbitro en Seattle, Washington. El árbitro dará una opinión por escrito que incluirá las conclusiones relativas a los hechos y a la ley, y el laudo o determinación del árbitro será vinculante para las partes y sus respectivos administradores y cesionarios y no estará sujeto a apelaciones. En cuanto el árbitro emita el laudo arbitral, el fallo se podrá ingresar en cualquier tribunal de jurisdicción competente. Los gastos de arbitraje se compartirán igualmente entre las partes a menos que el arbitraje determine que los gastos se deben imponer de otro modo y es posible que el árbitro le adjudique a la parte ganadora los costos y honorarios de sus abogados. Es la intención de las partes que, salvo que se presenten circunstancias extraordinarias, el procedimiento de arbitraje terminará dentro de noventa (90) días a partir de la fecha en que se designó al árbitro. El árbitro puede extender ese límite de tiempo solo si dejar de hacerlo perjudicaría indebidamente los derechos de las partes. Dejar de observar ese límite de tiempo no constituye motivo para impugnar el laudo. Conforme al carácter acelerado del arbitraje, el intercambio de información antes de la audiencia estará limitado a que se presenten sin demora documentos pertinentes y no privilegiados.
-
-Esta Sección no se aplicará a reclamaciones relacionadas con la propiedad, validez, violación, apropiación indebida, divulgación, uso indebido o ejecutabilidad de cualquier información confidencial, derechos de patente, derechos de autor, esquemas de trazado de circuitos integrados (mask work), marca registrada o cualquier otro secreto profesional o propiedad intelectual. Hasta el alcance máximo permitido por la ley aplicable, ningún arbitraje ni reclamación se vinculará a ningún otro arbitraje o reclamación y no se permitirán procedimientos colectivos de arbitraje. En ningún caso podrá instituir una reclamación, acción o procedimiento que de cualquier modo esté relacionado con el Servicios más de dos (2) años después de surgida la causa de la acción. En el caso de que cualquier condición de esta Sección (Arbitraje) se considere en conflicto con una disposición obligatoria de la ley aplicable, dicha condición será modificada automáticamente para cumplir con dicha disposición y el resto de esta Sección no se verá afectada.
-
-**22\. Ley y jurisdicción correspondiente**
-
-Estas Condiciones de Uso y el uso de nuestros Servicios por usted estarán gobernados por y serán interpretados de acuerdo con las leyes de los Estados Unidos de América y el estado de Delaware que correspondan a los contratos que se lleven a cabo y se desempeñen por completo en el estado de Delaware (aún si el uso suyo es fuera del estado de Delaware), sin recurrir a conflictos con sus disposiciones legales. Usted está de acuerdo en que, respecto a todas las disputas o reclamaciones no sujetas al arbitraje (según se establece arriba), cualquier acción conforme a derecho o equidad que surja de o esté relacionada con el Servicio o estas Condiciones de Uso será presentada solo en los tribunales estatales y federales del condado Kent, Delaware y, por el presente, usted da su consentimiento irrevocable e incondicional y se somete a la jurisdicción exclusiva de dichos tribunales.
-
-**23\. Transferencia; cambio en el control**
-
-Usted no puede transferir este Contrato sin aprobación previa por escrito de Subsplash, pero usted lo puede transferir sin el consentimiento de Subsplash a (i) una empresa matriz o sus subsidiarias, (ii) un adquiriente de activos o (iii) un sucesor por medio de una fusión.  
-
-**24\. Divisibilidad**
-
-Si un tribunal de jurisdicción competente determina por cualquier razón que cualquiera de estas Condiciones de Uso es inválida, ilegal o inejecutable entonces, esa condición se debe ejecutar solo hasta el punto de que sea ejecutable, de otra manera se considerará invalidada de estas Condiciones de Uso, no afectará la validez y ejecutabilidad de ninguna de las disposiciones restantes y el resto de las condiciones permanecerán en plena vigencia y continuarán siendo obligatorias y ejecutables.
-
-**25\. Parentesco**
-
-Usted está de acuerdo en que entre usted y Subsplash no existe una empresa conjunta, sociedad, empleo ni relación de agencia.
-
-**26\. Renuncias**
-
-Ninguna renuncia a cualquier término, disposición o condición del presente Contrato ya sea por conducta o de otro modo, en ninguna instancia se considerará ser, ni constituirá renuncia a ningún otro término, disposición ni condición de este, ya sean similares o no, ni el uso de dicha renuncia constituirá una renuncia continua a dicho término, disposición o condición de este. Ninguna renuncia será vinculante a menos que la parte que renuncia la formalice por escrito con su firma.
-
-**27\.  Fuerza mayor**
-
-Si el desempeño de cualquier parte del presente Contrato por cualquiera de las dos partes no se puede llevar a cabo, se dificulta, retrasa o de otro modo se hace impráctico debido a una inundación, disturbio, fuego, acción legal o gubernamental, disputas laborales, acto de la naturaleza o cualquier otro motivo fuera del control de cualquiera de las dos partes, se excusará a esa parte de dicho desempeño hasta el punto en que no se pueda llevar a cabo, se dificulte o se retrase por dichos motivos.
-
-**28\. Contrato completo**  
-
-El presente Contrato constituye la manifestación completa y exclusiva del acuerdo entre las partes con respecto al uso de los Servicios y cualquier acto u omisión de Subsplash y reemplaza a todas y cada una de las comunicaciones, representaciones, declaraciones y entendimientos previos o contemporáneos entre las partes, ya sean verbales o escritos.
-
-Dernière mise à jour le 15 avril 2022 – Version 3.6
-
-VEUILLEZ LIRE ATTENTIVEMENT LES PRÉSENTES CONDITIONS D’UTILISATION. IL S’AGIT D’UN ACCORD JURIDIQUEMENT CONTRAIGNANT. VOUS POUVEZ ACCEPTER LES PRÉSENTES CONDITIONS DE L’UNE DES DEUX FAÇONS SUIVANTES :
-
-A) EN CLIQUANT POUR ACCEPTER OU CONVENIR DES PRÉSENTES CONDITIONS D’UTILISATION, LORSQUE CETTE OPTION VOUS EST OFFERTE PAR SUBSPLASH DANS L’INTERFACE DE L’UTILISATEUR POUR TOUT SERVICE OU
-
-B) EN UTILISANT EFFECTIVEMENT LES PRODUITS, LOGICIELS, SERVICES OU SITES WEB DE SUBSPLASH (COLLECTIVEMENT LES « SERVICES »). VOUS COMPRENEZ ET ACCEPTEZ QUE SUBSPLASH CONSIDÈRE VOTRE UTILISATION DES SERVICES COMME UNE ACCEPTATION DES CONDITIONS D’UTILISATION À PARTIR DE CE MOMENT.
-
-Les présentes conditions d’utilisation (ci-après les « Conditions d’utilisation » ou l’« Accord ») régissent votre accès et votre utilisation des services offerts par Subsplash, Inc. et Subsplash Wallet, LLC (ci-après dénommées collectivement « Subsplash ») en tant qu’utilisateur final. Elles ne modifient en rien les conditions ou les modalités de tout autre accord que vous pourriez avoir avec Subsplash, ses filiales ou ses sociétés affiliées. Si vous utilisez les services au nom d’une personne morale, vous déclarez et garantissez que vous êtes autorisé à accepter les Conditions d’utilisation au nom de cette personne morale.
-
-Subsplash se réserve le droit de changer ou de modifier toute condition et modalité contenues dans les présentes Conditions d’utilisation, les Conditions de service ou toute politique ou ligne directrice, à tout moment et à sa seule discrétion. Tout changement ou modification entrera en vigueur immédiatement dès la publication des révisions sur les sites Web ou les services de Subsplash. Votre utilisation continue des services après la publication de ces changements ou modifications constituera votre acceptation de ces changements ou modifications. Par conséquent, il vous appartient de relire fréquemment les présentes Conditions d’utilisation et les politiques applicables de temps à autre afin de comprendre les conditions qui s’appliquent à votre utilisation des services. Si vous n’acceptez pas les conditions modifiées, vous devez cesser d’utiliser les services. Vous garantissez et attestez que vous êtes âgé d’au moins treize (13) ans et que, si vous n’avez pas l’âge légal pour conclure un accord dans votre ressort territorial, vous avez la permission d’un parent ou d’un tuteur pour utiliser nos services.
-
-Toutes autres questions ou commentaires au sujet des services doivent être adressés à legal@subsplash.com.
-
-### 1\. Politique de confidentialité et commentaires
-
-Veuillez consulter notre [Politique de protection de la vie privée](https://www.subsplash.com/privacy-french) pour savoir comment Subsplash recueille, utilise et divulgue les informations personnelles identifiables et autres informations de ses utilisateurs.
-
-Toute suggestion, idée ou commentaire (ci-après les « Retours d’information ») concernant les services qui vous sont fournis par Subsplash devient la propriété exclusive de Subsplash. Subsplash en détiendra les droits exclusifs, y compris tous les droits de propriété intellectuelle et aura le droit de les utiliser et de les diffuser sans restriction à quelque fin que ce soit, sans mention ni compensation pour vous. Vous convenez par la présente que les Retours d’information sont fournis sur une base de non-exclusivité et de non-confidentialité. Dans la mesure où vous avez de quelconques droits sur les Retours d’information, par application de la loi ou de quelque autre manière, vous acceptez par la présente de céder et vous cédez par la présente à Subsplash tout droit, titre et intérêt à l’égard des Retours d’information. Vous acceptez d’accomplir tous les actes raisonnablement demandés par Subsplash pour parfaire et faire valoir ces droits.
-
-### 2\. Inscription au Service
-
-Si vous souhaitez utiliser les services, vous devez vous inscrire en fournissant des informations sur vous-même et, si vous vous inscrivez au nom d’une personne morale, des informations au sujet de cette personne morale (telles que identification, informations de carte de crédit et coordonnées). Vous convenez que les informations que vous fournissez sont exacte, complète et à jour. Tout manquement à cette obligation constitue une violation des Conditions d’utilisation et peut entraîner la résiliation de votre compte et de votre accès aux services. Il vous incombe de préserver la sécurité et la confidentialité du mot de passe de votre compte. Vous êtes également seul responsable de toutes les activités qui se déroulent par le biais de votre identifiant et de votre mot de passe. Vous convenez de ne pas accéder ou utiliser, ni tenter d’accéder ou d’utiliser, les services ou toute partie de ceux-ci à l’aide de l’identité ou des données d’inscription d’une autre personne que vous. Vous convenez d’informer immédiatement Subsplash de toute utilisation non autorisée de votre identifiant d’utilisateur ou de votre mot de passe. Il peut de temps à autre vous être demandé de confirmer votre compte par le biais d’un courrier électronique. Si le compte n’est pas reconfirmé, il pourra être supprimé par Subsplash. Une fois que votre compte est supprimé, votre contenu utilisateur peut être conservé par Subsplash et peut être ou non affiché .
-
-### 3\. Contenu utilisateur et utilisation acceptable
-
-Les services peuvent vous permettre de publier, télécharger, envoyer des communications ou diffuser du contenu {ci-après le « Contenu utilisateur »). Subsplash a le droit de refuser tout Contenu utilisateur. Vous convenez que Subsplash, à sa seule discrétion, a le droit de filtrer, de rejeter ou de retirer tout ou partie du Contenu utilisateur, publié sur nos serveurs. qui enfreint notre propriété intellectuelle ou d’autres droits ou ceux d’un tiers, qui viole les Conditions d’utilisation ou nos autres politiques, ou qui est de quelque autre manière répréhensible. Subsplash se réserve le droit de divulguer tous documents publiés sur nos serveurs si nécessaire pour satisfaire à toute loi, réglementation, procédure juridique ou demande gouvernementale.
-
-Il vous appartient de sauvegarder l’ensemble de votre Contenu utilisateur par le biais de solutions de stockage de remplacement dans la mesure où Subsplash ne garantit pas la sécurité ou la fiabilité de ses services. Si vous supprimez votre compte, tout ou partie de votre Contenu utilisateur peut aussi être supprimé. 
-
-Nous valorisons l’intégrité, la vérité et le respect d’autrui, la liberté de religion et la liberté d’expression, et nous nous efforçons d’éviter d’afficher du contenu, des applications ou des sites Web qui sont inappropriés selon les écritures et les valeurs chrétiennes traditionnelles. C’est pourquoi nous ne permettons pas la publication, la communication ou la promotion du meurtre, de la torture, du racisme (qu’une ethnie, un peuple ou un groupe est inférieur ou supérieur à un autre), du blasphème, ou encore de contenu ou d’activités à caractère sexuel, religieux ou politique qui transgressent ou dénigrent les écritures et valeurs chrétiennes traditionnelles ou les organisations ayant de telles opinions.
-
-En accord avec ce qui précède, les activités suivantes sont interdites:
-
-• Harcèlement ou traque d’une autre personne
-
-• Envoi massif de courriers électroniques non sollicités ou « spam »
-
-• Publication de Contenu utilisateur considéré par Subsplash comme étant ou pouvant être illicite, ou violant toute loi ou règlementation locale, d’État, provinciale ou fédérale ou les droits d’une personne physique ou morale, ou violant les règles ou les exigences d’une ou plusieurs plateformes d’applications mobiles ou magasin d’applications mobiles
-
-• Langage nuisible, offensant et abusif, tels que jurons, harcèlement, obscénités, vulgarités, ainsi propos, images, vidéos sexuellement explicites ou autres contenu répréhensibles (par exemple nudité, bestialité, pornographie)
-
-• Publication de Contenu utilisateur qui est inapproprié en fonction du sujet et du public;
-
-• Publication de Contenu utilisateur qui est chiffré ou qui contient des virus ou toute autre routine de programme informatique destiné à endommager, interférer, intercepter ou s’approprier tout système ou information
-
-• Publication de Contenu utilisateur qui viole les droits de propriété intellectuelle de quiconque
-
-• Usurpation d’identité de toute personne physique ou morale ou fausse déclaration de votre affiliation avec une personne physique ou morale
-
-• Publication d’informations privées ou confidentielles de tout tiers sans son consentement exprès, notamment d’informations personnelles identifiables, adresses, numéros de téléphone, adresses électroniques, numéros de sécurité sociale et numéros de cartes de crédit
-
-• Utilisation des services pour construire un site ou publier du Contenu utilisateur destiné, en tout ou en partie, à améliorer le classement d’un autre site
-
-• Publication de liens vers des sites ou des services tiers sans leur autorisation
-
-• Publication de Contenu utilisateur qui, à la seule appréciation de Subsplash, peut exposer Subsplash à un préjudice ou une responsabilité de quelque type que ce soit
-
-Vous acceptez de ne soumettre que le Contenu utilisateur dont vous n’avez aucune raison de croire qu’il est faux ou trompeur, et vous acceptez de ne pas:
-
-• Utiliser le service pour violer la sécurité de tout réseau informatique, craquer des mots de passe ou des codes de cryptage de sécurité, transférer ou stocker des documents illicites, y compris des documents jugés menaçants ou obscènes
-
-• Créer des comptes d’utilisateur par des moyens automatisés ou sous des prétextes faux ou frauduleux
-
-• Extraire ou recueillir des informations sur d’autres utilisateurs de façon automatisée
-
-Subsplash se réserve le droit de supprimer le Contenu utilisateur qui, à la seule appréciation de Subsplash, transgresse les écritures et les valeurs chrétiennes traditionnelles. 
-
-Subsplash se réserve le droit d’enquêter et de prendre des mesures juridiques appropriées à sa seule discrétion à l’encontre de quiconque enfreint la présente disposition, notamment en supprimant le Contenu utilisateur incriminé et en résiliant le service du contrevenant sans remboursement.
-
-En publiant du Contenu utilisateur, vous accordez à Subsplash et à ses sociétés affiliées le droit non- exclusif, perpétuel, irrévocable, mondial, libre de redevances, librement transférable et cessible en sous-licence (à des niveaux illimités de sous-licence) de créer des œuvres dérivées du Contenu utilisateur et ses œuvres dérivées, de les utiliser, reproduire, modifier, transmettre, publier, afficher et distribuer publiquement, d’en faire la promotion, et de les chercher dans le but d’offrir des publicités pertinentes. Vous déclarez et garantissez que a) vous possédez et contrôlez tous les droits sur le Contenu utilisateur que vous publiez ou que vous avez le droit de publier ce Contenu utilisateur et d’accorder les droits que vous accordez par la présente, b) le Contenu utilisateur est exact et n’est pas trompeur, c) la distribution du Contenu utilisateur que vous fournissez conformément à vos instructions n’enfreint pas les Conditions d’utilisation et ne violera pas les droits de toute personne physique ou morale, ni ne lui causera de préjudice, d) vous possédez le consentement de toutes les personnes qui sont visibles dans le Contenu utilisateur pour vous permettre d’inclure l’image de ces personnes dans le Contenu utilisateur. Vous renoncez par la présente à tout droit moral que vous pourriez avoir sur ce Contenu utilisateur en vertu des lois de toute autorité compétente. Nous pouvons (sans y être obligés) afficher votre Contenu utilisateur, y compris votre nom d’utilisateur et votre nom réel (selon les préférences que vous sélectionnez). En ce qui concerne les publicités des tiers, Subsplash n’est pas responsable du contenu de ces publicités.
-
-Subsplash a le droit de supprimer votre Contenu utilisateur des services si vous résiliez votre compte et êtes inactif pendant plus de six (6) mois. 
-
-Subsplash a également le droit de rendre anonymes les informations ou données que vous téléchargez dans les services pour les combiner aux données anonymisées d’autres personnes et créer ainsi des Données agrégées anonymes (ci-après les « Données agrégées »). Subsplash est le seul propriétaire des Données agrégées, est libre d’utiliser ces Données agrégées sous forme anonyme à toutes fins, et vous acceptez par la présente n’avoir droit à aucune compensation ni considération de la part de Subsplash en ce qui concerne les Données agrégées. 
-
-### 4\. Paiement
-
-Si vous achetez des produits ou des services auprès de Subsplash ou par l’intermédiaire de Subsplash, vous serez facturé à l’avance. Aucun remboursement ne sera effectué, sauf à la seule discrétion de Subsplash. Tous les frais et les paiements sont en dollars US. Pour les clients effectuant leur paiement par carte de crédit, par le système ACH ou autre méthode, vous autorisez Subsplash à débiter votre carte de crédit ou autre compte (selon le cas) des montants autorisés. Subsplash se réserve le droit de collecter certaines taxes ou autres cotisations auprès de vous afin de se conformer aux lois et règlementations locales, d’État, provinciales, fédérales ou internationales, telles qu’elles sont requises actuellement ou imposées ultérieurement. Si vous demandez une exonération, vous devez fournir à Subsplash les documents requis par les autorités fiscales pour la justifier. Si vous avez souscrit à un service payant, Subsplash se réserve le droit de modifier les tarifs de ses services moyennant préavis de (30) jours et vous aurez la possibilité de résilier les services avant l’entrée en vigueur de cette augmentation. Subsplash ne fixe pas et n’est pas responsable des prix des produits ou des services établis par d’autres utilisateurs des services. Comme entre les utilisateurs, toutes les ventes sont finales et Subsplash n’est pas chargée de coordonner, autoriser ou faciliter les remboursements. Si vous acceptez d’offrir un remboursement à un autre utilisateur, vous êtes seul responsable de ce remboursement. 
-
-### 5\. Subsplash Giving
-
-Si vous vous inscrivez et/ou utilisez la fonctionnalité Subsplash Giving (ci-après « Subsplash Giving ») fournie par Subsplash Wallet, vous acceptez ce qui suit:
-
-a. En plus des dispositions de paiement contenues à la section 4 ci-dessus, vous désignez Subsplash Wallet comme votre agent pour traiter les dons en ligne selon les montants sélectionnés pour l’organisation particulière (ci-après le « Donataire ») que vous avez sélectionnée. Les frais de transaction de Subsplash sont déduits des dons en ligne au moment convenu par Subsplash Wallet et le Donataire.
-
-b. Seul le titulaire autorisé de la carte de crédit ou du compte peut faire un don par le biais de Subsplash Giving. Un tiers ne peut utiliser les informations de carte du donateur ni faire des dons au nom du donateur. Cette pratique peut constituer un « blanchiment de carte de crédit » et enfreindre les contrats d’utilisation des cartes de crédit. Subsplash Wallet est autorisée par la présente à signaler tout abus de ce genre aux autorités compétentes. Tous les dons effectués par le biais de Subsplash Wallet ne sont remboursables qu’avec l’accord du Donataire et sont réalisés lorsqu’ils sont effectués, et le Donataire a l’entière discrétion et contrôle sur l’utilisation de tous les fonds donnés.
-
-c. La loi fédérale interdit aux organisations caritatives de promettre ou de fournir des biens et des services (par exemple des billets pour des événements ou des tombolas) en échange d’un don. Subsplash Wallet ne peut accepter que des contributions pures et non des transactions qui sont en partie des dons et en partie des ventes.
-
-d. Les informations du donateur seront partagées avec le Donataire.
-
-e. Lorsque vous enverrez un SMS à Subsplash ou à Subsplash Wallet dans le but d’utiliser la fonctionnalité de dons par SMS, vous divulguez votre numéro de téléphone portable à Subsplash et à Subsplash Wallet, et vous consentez ainsi à recevoir par SMS un hyperlien vers le portail de dons de Subsplash Wallet. Pour cesser de recevoir des SMS de Subsplash ou de Subsplash Wallet, il vous suffit de répondre au SMS en tapant « STOP ». Il se peut que vous receviez un message vous confirmant votre demande de désinscription. Pour obtenir de l’aide, tapez et envoyez « HELP » \[AIDE\] au 888 3644483. Des frais de messages et de données peuvent s’appliquer. Votre opérateur cellulaire n’est pas responsable des messages retardés ou non livrés.
-
-f. Vous (en tant que particulier) pouvez choisir d’utiliser Subsplash Giving comme service de paiement pour vos futurs paiements. Cela permet à Subsplash de traiter et de recevoir des paiements avec votre autorisation de façon ponctuelle, récurrente ou sporadique. Les paiements pré-approuvés de ce type sont parfois dénommés « accord de facturation », « abonnement », « paiement récurrent », « don récurrent », « opération de référence », « transfert préautorisé », « paiement automatique », « versement » ou « carte au dossier non programmée ». Nous désignons ces paiements comme des « paiements récurrents ».
-
-Si vous choisissez d’instaurer des paiements récurrents (qui englobent les dons récurrents), vous nous autorisez à stocker et à débiter automatiquement le mode de paiement choisi du montant du paiement (incluant les frais) et la fréquence que vous avez indiquée, sans autre consentement ni instruction de votre part. Vous pouvez interrompre (et reprendre ultérieurement) vos paiements récurrents en suivant les instructions disponibles en cliquant [ici](https://support.subsplash.com/s/article/Edit-or-change-a-recurring-gift-details). Si vous souhaitez annuler vos paiements récurrents, vous pouvez le faire en révoquant votre autorisation au moins dix (10) jours ouvrables avant la prochaine date de paiement prévue. Pour savoir comment annuler vos paiements récurrents (et ainsi révoquer votre autorisation), cliquez [ici](https://support.subsplash.com/s/article/Stop-a-recurring-gift).
-
-Une fois qu’un paiement est traité, nous ne pouvons pas l’annuler et nous n’avons pas l’obligation d’honorer toute demande pour arrêter, corriger, inverser ou révoquer un paiement. Le paiement récurrent peut être mis par défaut pour votre compte individuel, mais vous pouvez choisir d’effectuer un paiement unique. Si des modifications sont apportées à un mode de paiement emregistré ou à un le compte lié, tout paiement récurrent associé à ce mode de paiement enregistré ou à ce compte lié peut être interrompu, annulé ou affecté négativement de quelque autre manière. La révocation d’une autorisation pour un calendrier de paiements récurrents spécifique n’annulera pas les autres autorisations de paiements récurrents. Si vous interrompez un paiement récurrent ou l’annulez, il se peut que vous deviez encore de l’argent pour le don, l’achat ou la promesse, ou que vous ayez des obligations supplémentaires pour tout bien ou service que vous avez reçu mais que vous n’avez pas payé.
-
-Si vous programmez un paiement récurrent, le montant du paiement récurrent que vous spécifiez sera facturé sur la carte de crédit ou de débit, le compte bancaire ou un autre compte que vous désignez pendant le processus de configuration. Si vous souhaitez désigner une autre carte de crédit ou de débit, un autre compte bancaire ou un autre compte, ou si vous changez de carte ou de compte, vous devez modifier ces informations dans l’application. Cela peut retarder temporairement votre capacité à effectuer des paiements en ligne pendant que vos nouvelles informations de paiement sont vérifiées.
-
-### 6\. Consentement à recevoir des courriers électroniques et des notifications
-
-En utilisant les services, vous consentez à recevoir des courriers électroniques de Subsplash, ce qui peut comprendre des messages commerciaux. Nous pouvons utiliser vos informations pour vous envoyer des nouvelles ou des mises à jour de produits. Vous pouvez choisir de vous « désinscrire » de la réception de courriers électroniques promotionnels ou de marketing de Subsplash en suivant les directives pour « se désabonner » ou en utilisant les liens « se désabonner » dans les communications que nous envoyons. Tant que vous maintenez un compte, vous ne pouvez pas refuser de recevoir de la part de Subsplash des courriers électroniques relatifs au compte. Les parties aux présentes peuvent envoyer une notification légale par courrier électronique lequel est considéré comme remis au moment de son envoi. L’adresse de notification de Subsplash est support@subsplash.com (ou toute autre adresse qui vous est fournie par Subsplash) par courrier électronique à votre adresse de notification, et votre adresse pour la réception de notifications conformément au présent accord est l’adresse électronique actuelle que vous avez indiquée dans le profil de votre compte.
-
-### 7\. Droits d’auteur et licence limitée
-
-Sauf indication contraire, les services et tout le contenu des services, y compris notamment le logo Subsplash et tous les dessins, textes graphiques, images, informations, données, logiciels, fichiers audio, autres fichiers, ainsi que la sélection et l’arrangement de ceux-ci (collectivement, les « Documents ») sont la propriété de Subsplash, de ses concédants de licence ou de ses clients, et sont protégés par les lois américaines, canadiennes et internationales en matière de droits d’auteur. 
-
-Dans la mesure où Subsplash vous accorde l’accès, vous bénéficiez d’une licence limitée, non exclusive, non transférable, non sous-licenciable pour accéder aux services et les utiliser. Cette licence est assujettie aux présentes Conditions d’utilisation et ne comprend ni n’autorise : a) la revente ou l’utilisation commerciale (non personnelle) des services ou des Documents décrits aux présentes, b) la distribution, la représentation publique ou l’affichage public de tout Document, c) la modification ou la réalisation d’utilisations dérivées des services, des Documents ou de toute partie de ceux-ci, d) l’utilisation de moyens automatisés, notamment des collecteurs, des robots, des robots d’indexation, des outils d’extraction de données ou d’autres moyens similaires de téléchargement des données à partir des services, e) le téléchargement (de quelque autre manière que par la mise en cache des pages) de toute partie des Services, des Documents ou de toute information y étant contenue, sauf autorisation expresse, f) toute tentative d’accès non autorisé aux systèmes informatiques de Subsplash ou toute activité qui perturbe, diminue la qualité, interfère avec les performances ou nuit à la fonctionnalité des services, g) la collecte ou la récolte de toute information personnelle identifiable, notamment les noms de société, les noms de domaine ou les noms de comptes, à partir du service ni l’utilisation des systèmes de communications fournis par le Service à des fins de sollicitation commerciale, h) l’utilisation de toute partie des services en tant que destination liée à des messages de masse non sollicités ou à des messages commerciaux non sollicités, i) toute utilisation des services ou des documents autre que celle à laquelle ils sont destinés, j) l’utilisation des services pour enfreindre les droits de propriété intellectuelle de Subsplash ou de toute tiers, k) la copie, la modification, la création d’une œuvre dérivée l’ingénierie inverse, la décompilation ou la tentative d’extraction du code source de tout logiciel ou de toute partie de celui-ci, à moins que cela ne soit expressément autorisé ou requis par la loi, ou que Subsplash vous ait spécifiquement indiqué par écrit que vous pouviez le faire. Vous ne pouvez pas accéder, copier, évaluer, divulguer, afficher ou utiliser de quelque autre manière le Service à des fins d’analyse concurrentielle. Toute utilisation des services ou des documents autre que celle spécifiquement autorisée aux présentes, sans l’autorisation écrite préalable de Subsplash, est strictement interdite et mettra fin à la licence accordée par les présentes. Une telle utilisation non autorisée peut également constituer une violation des lois applicables, notamment des lois sur les droits d’auteur et les marques de commerce ainsi que des règlementations et des lois applicables en matière de communication. Sauf mention explicite aux présentes, aucune disposition des Conditions d’utilisation ne saurait être interprétée comme conférant une licence sur les droits de propriété intellectuelle, que ce soit par préclusion, implication ou de quelque autre manière. Cette licence est révocable à tout moment.
-
-### 8\. Politique relative aux contrevenants récidivistes
-
-Conformément à la loi Digital Millennium Copyright Act (DMCA), à la Loi sur le droit d’auteur (Canada) et à d’autres lois applicables, Subsplash a adopté une politique consistant à mettre fin, dans des circonstances appropriées et à la seule discrétion de Subsplash, à l’accès aux personnes considérées comme étant des contrevenants récidivistes. Subsplash peut aussi, à sa seule discrétion, limiter l’accès aux services et/ou résilier les comptes de tout utilisateur qui enfreint les droits de propriété intellectuelle d’autrui.
-
-### 9\. Politique en matière de droits d’auteur
-
-Subsplash respecte les droits de propriété intellectuelle d’autrui et attend des utilisateurs des services qu’ils fassent de même. Nous répondrons aux notifications de violation présumée des droits d’auteur qui sont conformes aux lois applicables et qui nous sont correctement transmises. Si vous pensez que vos documents protégés par des droits d’auteur ont été copiés d’une manière qui constitue une violations de ces droits, veuillez nous fournir les informations suivantes : i) une signature physique ou électronique du titulaire des droits d’auteur ou d’une personne autorisée à agir en son nom, ii) l’identification de l’œuvre protégée par les droits d’auteur dont la violation est alléguée, iii) l’identification du Document présumé contrevenant ou qui fait l’objet d’une activité de violation et qui doit être retiré ou dont l’accès doit être désactivé, et des informations raisonnablement suffisantes pour nous permettre de localiser ledit Document, iv) vos coordonnées, notamment adresse, numéro de téléphone et adresse électronique, v) une déclaration de votre part indiquant que vous pensez de bonne foi que l’utilisation du Document de la manière faisant l’objet de la réclamation n’est pas autorisée par le titulaire des droit d’auteur, son agent ou la loi, vi) une déclaration indiquant que les information contenues dans la notification sont exactes et, sous peine de parjure, que vous êtes autorisé à agir au nom du titulaire des droits d’auteur.
-
-Nous nous réservons le droit de supprimer tout contenu présumé contrevenant sans préavis et à notre seule discrétion. Nous nous réservons également le droit de vous informer si nous recevons une notification d’un tiers selon lequel le Contenu utilisateur que vous avez publié viole les droits d’auteur de ce tiers et d’informer ce tiers que nous vous avons transmis ladite notification. Notre agent désigné en matière de droits d’auteur pour toute notification de violation présumée des droits d’auteur apparaissant sur les services est:
-
-Subsplash, Inc
-
-Adresse: 750 N Saint Paul St Ste 250, PMB 41141, Dallas, Texas 75201-3206
-
-Courrier électronique: legal@subsplash.com
-
-### 10\. Marques de commerce
-
-Subsplash®, The Church App® et The Church App by Subsplash™ sont des marques de commerce de Subsplash et elles ne peuvent être utilisées ni imitées, en tout ou en partie, sans l’autorisation écrite préalable de Subsplash. Vous ne pouvez pas utiliser de métatags ni aucun autre « texte caché » utilisant lesdites marques de commerce ou tout autre nom, nom de produit ou de service de Subsplash sans notre autorisation écrite préalable. En outre, l’aspect et la convivialité des services, y compris les en-têtes de pages, les graphiques personnalisés, les icônes de boutons et les scripts, sont la marque de service, la marque de commerce et/ou l’habillage commercial de Subsplash et ne peuvent être copiés, imités ni utilisés, en tout ou en partie, sans notre autorisation écrite préalable. Toutes les autres marques de commerce, marques déposées, noms de produits et logos affichés dans les services appartiennent à leurs détenteurs respectifs. 
-
-### 11\. hyperLiens
-
-Vous bénéficiez d’un droit limité, non exclusif et non cessible de créer un lien hypertexte avec les services, à condition que ce lien ne présente pas Subsplash ou l’un de ses produits et services de manière fausse, trompeuse, désobligeante ou de quelque autre manière diffamatoire et à condition également que le site de liaison ne contienne pas de document pour adultes ou illégal, ou tout document offensant, harcelant ou de quelque autre manière répréhensible. Ce droit limité peut être révoqué à tout moment. Vous ne pouvez pas utiliser un logo Subsplash ou tout autre graphique exclusif pour créer un lien avec les services sans l’autorisation écrite expresse de Subsplash. En outre, vous ne pouvez pas utiliser, encadrer ou utiliser des techniques d’encadrement pour intégrer tout logo ou toute marque de commerce ou autre information propriété exclusive de Subsplash, y compris les images trouvées par le biais des services, le contenu de tout texte, ou la mise en page/conception de tout formulaire ou page affiché par le biais des services sans le consentement écrit exprès de Subsplash. Sauf conformément aux indications ci-dessus, aucun droit ni licence ne vous est transmis par implication, préclusion ou de quelque autre manière en vertu de tout brevet, droit d’auteur, droit de propriété ou toute marque de commerce de Subsplash ou de tout tiers. 
-
-### 12\. Contenu de tiers
-
-Subsplash ou ses clients peuvent fournir des liens avec des pages Web et du contenu de tiers à titre de service pour les personnes intéressées par ces liens et contenu, et Subsplash peut publier du contenu de tiers ou permettre aux utilisateurs de publier leur contenu. Subsplash ne surveille pas et n’exerce aucun contrôle sur le contenu ni les sites Web de tiers. Subsplash n’approuve ni n’adopte aucun contenu ou site Web tiers et ne peut donner aucune garantie quant à son exactitude ou son exhaustivité. Subsplash ne prétend garantir ni ne garantit l’exactitude de toutes informations contenues sur ces sites et n’assume aucune responsabilité quant à la mise à jour ou la révision de tout contenu ou site Web tiers. Vous comprenez qu’en utilisant les services, vous pouvez être exposé à du contenu que vous pouvez trouver offensant, indécent ou répréhensible et que vous utilisez les liens, le Contenu tiers et les sites Web tiers à vos propres risques. Lorsque vous quittez les services de Subsplash, vous devez savoir que nos conditions et politiques ne s’appliquent plus. Vous devez examiner les conditions et politiques applicables, y compris en matière de protection de la vie privée et de collecte des données de tout site Web ou service vers lequel vous naviguez à partir des services de Subsplash. 
-
-Subsplash n’est ni l’éditeur ni l’auteur du Contenu tiers. Il s’agit d’un service passif de stockage et de diffusion d’idées et d’opinions que les utilisateurs et sous-traitants de Subsplash peuvent choisir de publier. Subsplash ne filtre pas ces œuvres avant leur publication et aucune approbation préalable n’est requise pour leur publication. Les activités de Subsplash sont assujetties aux protections de l’article 230 de la loi Communications Decency Act et aux dispositions refuge (« Safe Harbor ») de l’article 512 de la loi Digital Millennium Communications Act. Communications Act).
-
-### 13\. Contenu, biens et/ou services de tiers
-
-Les services peuvent également fournir des informations ou des liens concernant des applications, biens et/ou services fournis ou proposés par des tiers (ci-après collectivement les « Biens et services tiers »). Subsplash est un simple fournisseur d’informations et non un service de référence, et ne recommande ni approuve aucun de ces Biens et services tiers, ni ne surveille les Biens et services tiers et n’en a pas le contrôle. Par conséquent, Subsplash ne fait aucune déclaration et ne donne aucune garantie d’aucune sorte concernant la qualité, la compétence, la valeur, la fiabilité, la réactivité, l’exactitude ni l’exhaustivité de ces Biens et services tiers ou les résultats qui en découlent, et Subsplash n’assume aucune responsabilité pour ces Biens et services tiers, ni pour les actions ou absence d’action des personnes qui fournissent ces Biens et services tiers. Vous assumez l’entière responsabilité de votre utilisation de ces Biens et services tiers. En cas de litige entre un consommateur et un prestataire, les parties règlent le litige par elles-mêmes. 
-
-Les services peuvent être utilisés par des tiers pour fournir des informations, du contenu et des documents (ci-après collectivement le « Contenu tiers »). Subsplash n’est pas responsable et ne garantit pas la qualité, la compétence, la valeur, la fiabilité, la réactivité, l’exactitude, la disponibilité, ni l’exhaustivité de tout Contenu tiers. Subsplash ne prétend garantir ni ne donne aucune garantie que le Contenu tiers est approprié ou disponible pour une utilisation dans tous les pays, ou qu’il est accessible à partir d’endroits où il peut être illicite ou interdit.
-
-### 14\. Publicités et promotions, services bêta
-
-Subsplash peut diffuser des publicités et des promotions de tiers dans le cadre des services. Vos relations d’affaires ou votre correspondance avec des annonceurs autres que Subsplash, ou votre participation à leurs promotions, ainsi que toute condition, modalité, garantie ou déclaration associée à ces relations sont uniquement entre vous et le tiers en question. Subsplash n’est responsable d’aucun préjudicie ou perte ou de quelque nature que ce soit occasionné par ces relations ou découlant de la présence des annonceurs tiers sur les services. 
-
-De temps à autre, en son seul pouvoir et à sa seule discrétion, Subsplash peut vous offrir l’accès à des versions bêta de services actuels, à venir ou en cours de développement. Subsplash a toute latitude pour décider : 1) d’offrir ou non un tel accès et imposer des conditions préalables à cet accès, 2) de la durée et de la portée de la période d’essai et de votre accès et 3) de la mise en œuvre ou non de fonctionnalités ou de services testés pendant la période de test bêta. Si des frais vous sont facturés pour les services testés en version bêta et que le test bêta prend fin plus tôt que prévu, vous recevrez un remboursement au prorata pour ces services.
-
-Outre les limitations de responsabilité prévues dans les présentes conditions, et sauf comme indiqué aux présentes, Subsplash n’a aucune responsabilité à votre égard ou à l’égard de tout tiers pour les services de test bêta, y compris notamment l’interruption anticipée des services testés, les bogues ou les erreurs des services bêtas, ou la perte de données téléchargées dans les services bêtas. Tout test bêta que vous fournissez aux services est effectué à vos propres risques.
-
-### 15\. EXCLUSIONS DE GARANTIE
-
-LES DOCUMENTS ET LES SERVICES SONT FOURNIS « TELS QUELS » ET « TELS QUE DISPONIBLES » SANS GARANTIES D’AUCUNE SORTE, QU’ELLE SOIT EXPRESSE OU IMPLICITE. SUBSPLASH DÉCLINE TOUTE GARANTIE, EXPRESSE OU IMPLICITE, Y COMPRIS, SANS S’Y LIMITER, LES GARANTIES IMPLICITES DE QUALITÉ MARCHANDE, D’ADÉQUATION À UN USAGE PARTICULIER, DE TITRE DE PROPRIÉTÉ ET D’ABSENCE DE CONTREFAÇON EN CE QUI CONCERNE LES INFORMATIONS, LE CONTENU ET LES DOCUMENTS. SUBSPLASH NE PRÉTEND GARANTIR NI NE GARANTIT QUE LES DOCUMENTS, Y COMPRIS LES INFORMATIONS DISPONIBLES PAR LE BIAIS DES SERVICES SONT EXACTS, COMPLETS, FIABLES, ACTUALISÉS OU EXEMPTS D’ERREURS. SUBSPLASH NE PRÉTEND GARANTIR NI NE GARANTIT QUE LES SERVICES OU SES SERVEURS SONT EXEMPTS DE VIRUS OU D’AUTRES ÉLÉMENTS NUISIBLES. 
-
-SUBSPLASH N’EST PAS RESPONSABLE DES ERREURS OU OMISSIONS DANS LES INFORMATIONS OU DOCUMENTS ACCESSIBLES PAR LES SERVICES, LE SITE, OU TOUTE AUTRE PARTIE DU SERVICE. BIEN QUE SUBSPLASH S’EFFORCE DE RENDRE SÛRS VOTRE ACCÈS ET VOTRE UTILISATION DES SERVICES , SUBSPLASH NE PEUT PAS PRÉTENDRE GARANTIR NI GARANTIR QUE LES SERVICES OU SES SERVEURS, OU TOUT CONTENU OU DOCUMENT SONT EXEMPTS DE VIRUS OU D’AUTRES ÉLÉMENTS NUISIBLES : PAR CONSÉQUENT, VOUS DEVEZ UTILISER UN LOGICIEL RECONNU PAR L’INDUSTRIE POUR DÉTECTER ET NEUTRALISER LES VIRUS, LOGICIELS ESPIONS, LOGICIELS MALVEILLANTS ET AUTRES ÉLÉMENTS NUISIBLES OU DE QUELQUE AUTRE MANIÈRE INDÉSIRABLES DE TOUT TÉLÉCHARGEMENT. SUBSPLASH NE DONNE AUCUNE GARANTIE CONCERNANT LA SÉCURITÉ OU LA FIABILITÉ DES SERVICES.
-
-Subsplash se réserve le droit de modifier ou de supprimer tout ou partie du contenu et des Services à tout moment, sans préavis.
-
-### 16\. Limite de responsabilité
-
-EN AUCUN CAS SUBSPLASH OU L’UN QUELCONQUE DE SES SOCIÉTÉS AFFILIÉES SOUS-TRAITANTS, PRESTATAIRES DE SERVICES OU CONSULTANTS NI AUCUN DE LEURS ADMINISTRATEURS, SALARIÉS ET AGENTS NE SAURAIENT ÊTRE TENUS RESPONSABLES DE TOUT DOMMAGE PARTICULIER, DIRECT OU INDIRECT, ACCESSOIRE OU PUNITIF, NOTAMMENT LA PERTE D’UTILISATION, LA PERTE D’OPPORTUNITÉS, LA PERTE DE PROFITS OU LA PERTE DE DONNÉES, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE (Y COMPRIS DE NÉGLIGENCE) OU AUTRE, DÉCOULANT DE TOUTE MANIÈRE LIÉE OU CONNECTÉE À TOUTE UTILISATION DES SERVICES, DU CONTENU OU DES DOCUMENTS QUI Y SONT CONTENUS OU QUI SONT ACCESSIBLES PAR L’INTERMÉDIAIRE DES SERVICES, NOTAMMENT TOUT DOMMAGE, PERTE OU PRÉJUDICE CAUSÉ OU DÉCOULANT DE LA CONFIANCE ACCORDÉE À TOUTE INFORMATION OBTENUE AUPRÈS DE SUBSPLASH, OU RÉSULTANT D’ERREURS, D’OMISSIONS, D’INTERRUPTIONS, DE SUPPRESSIONS DE FICHIERS OU DE COURRIERS ÉLECTRONIQUES, D’ERREURS, DE DÉFAUTS, DE VIRUS, DE RETARDS DE FONCTIONNEMENT OU DE TRANSMISSION OU DE TOUTE DÉFAILLANCE DE PERFORMANCE, QU’IL RÉSULTE OU NON DE CATASTROPHES NATURELLES, D’UNE DÉFAILLANCE DES COMMUNICATIONS, D’UN VOL, D’UNE DESTRUCTION, OU D’UN ACCÈS NON AUTORISÉ AUX DOSSIERS, PROGRAMMES OU SERVICES DE SUBSPLASH. LA RESPONSABILITÉ GLOBALE DE SUBSPLASH, QU’IL S’AGISSE D’UN CONTRAT, D’UNE GARANTIE, D’UN DÉLIT (Y COMPRIS DE NÉGLIGENCE, QU’ELLE SOIT ACTIVE, PASSIVE OU IMPUTÉE), DE LA RESPONSABILITÉ EN MATIÈRE DE PRODUITS, DE LA RESPONSABILITÉ STRICTE OU DE TOUTE AUTRE THÉORIE DÉCOULANT DE L’UTILISATION DES SERVICES OU S’Y RAPPORTANT DE QUELQUE MANIÈRE QUE CE SOIT NE SAURAIT DÉPASSER LE MONTANT QUE VOUS AVEZ PAYÉE, LE CAS ÉCHÉANT, À SUBSPLASH POUR L’ACCÈS AUX SERVICES OU LEUR UTILISATION AU COURS DE L’ANNÉE PRÉCÉDANT L’ACTION OU L’OMISSION À L’ORIGINE DE CETTE RESPONSABILITÉ. 
-
-SUBSPLASH NE DONNE AUCUNE GARANTIE CONCERNANT LA SÉCURITÉ OU LA FIABILITÉ DES SERVICES. 
-
-SI VOUS RÉSIDEZ EN CALIFORNIE, VOUS RENONCEZ PAR LA PRÉSENTE À L’APPLICATION DE L’ARTCLE 1542 DU CODE CIVIL DE CALIFORNIE, QUI STIPULE : « UNE DÉCHARGE GÉNÉRALE NE S’ÉTEND PAS AUX RÉCLAMATIONS DONT LE CRÉANCIER OU LA PARTIE LIBÉRATRICE N’A PAS CONNAISSANCE OU NE SOUPÇONNE PAS L’EXISTENCE EN SA FAVEUR AU MOMENT DE L’EXÉCUTION DE LA DÉCHARGE ET QUI, SI ELLES AVAIENT ÉTÉ CONNUES, AURAIENT EU UNE INCIDENCE SUBSTANTIELLE SUR LE RÈGLEMENT AVEC LE DÉBITEUR OU LA PARTIE LIBÉRÉE » OU D’AUTRES DISPOSITIONS SIMILAIRES.
-
-### 17\. Conformité aux lois
-
-Vous déclarez et garantissez que votre utilisation des services sera conforme à toutes les lois locales, d’État, provinciales et fédérales.
-
-### 18\. Indemnisation
-
-Vous acceptez d’indemniser, de défendre et de tenir à couvert Subsplash, ses filiales, ses sociétés affiliées et leurs actionnaires, administrateurs, dirigeants, salariés, agents, avocats, successeurs et/ou cessionnaires respectifs (les « Parties indemnisées »), et de rembourser les Parties indemnisées, pour tout coût, réclamation, dépense, perte, demande, dommage, honoraires et frais juridiques, pénalité et/ou responsabilité de toute sorte ou nature, découlant ou liés de quelque manière que ce soit à votre utilisation ou incapacité à utiliser nos services, à votre comportement sur les services, à votre violation des présentes Conditions d’utilisation, à votre violation des droits de tiers, à votre performance relative à tout cahier des charges, ou à tout Contenu utilisateur que vous publiez. Vous acceptez en outre d’indemniser, de défendre et de dégager de toute responsabilité Subsplash pour toute réclamation déposée ou menacée contre Subsplash par vos utilisateurs finaux liée ou découlant de quelque manière que ce soit de votre violation des garanties ou déclarations, des services, du fonctionnement de votre organisation, de l’utilisation de nos services ou de l’absence de services. Nous pouvons défendre toute réclamation de ce type, à notre gré, et vous devez payer nos honoraires et frais d’avocats. Cette clause restera pleinement en vigueur après l’expiration ou la résiliation du présent accord.
-
-### 19\. Durée et résiliation
-
-Le présent accord se poursuivra jusqu’à ce que l’une ou l’autre des parties le résilie. Vous pouvez le résilier sans motif en désactivant votre compte à partir de la page « votre compte ». Subsplash a le droit de résilier les services sans motif en vous donnant uniquement un préavis de trente (30) jours à l’adresse électronique que vous avez indiquée dans les informations de votre compte utilisateur. En cas de résiliation du présent accord, Subsplash mettra à votre disposition, à votre demande, un fichier de votre Contenu utilisateur à télécharger pour une période de trente (30) jours à compter de la résiliation. Vous convenez et reconnaissez que Subsplash n’a aucune obligation de conserver votre Contenu utilisateur ou toute autre donnée et qu’elle peut les supprimer trente (30) jours à compter de la résiliation.
-
-### 20\. Résiliation pour cause
-
-Subsplash peut immédiatement résilier le présent accord en cas de violation substantielle de votre part des conditions ou des modalités du présent accord. Toute violation de vos obligations de paiement ou toute utilisation non autorisée de votre compte sera considérée comme un manquement grave aux termes du présent accord.
-
-### 21\. Arbitrage
-
-En cas de différend entre les parties, les parties aux présentes se consulteront et tenteront de trouver une solution satisfaisante pour les deux parties. Si elles n’y parviennent pas dans un délai de trente (30) jours, l’une ou l’autre partie peut, par notification à l’autre, demander une médiation selon les règles de médiation de l’American Arbitration Association. Si aucun règlement n’est trouvé dans les soixante (60) jours suivant la signification d’une demande écrite de médiation, tout différend ou réclamation non résolu (autre que les réclamations identifiées dans la Politique de protection de la vie privée de Subsplash) sera réglé par arbitrage, conformément aux règles de l’American Arbitration Association devant un arbitre unique à Seattle (État de Washington). L’arbitre rendra un avis écrit comprenant ses conclusions de faits et de droit, et la sentence ou la décision de l’arbitre liera les parties, ainsi que leurs administrateurs et ayants droit respectifs, et ne sera pas susceptible d’appel. La sentence arbitrale peut faire l’objet d’un jugement dans tout tribunal compétent. Les frais de l’arbitrage seront partagés également entre les parties, à moins que l’arbitrage ne décide que les frais doivent être évaluées de quelque autre manière et que la partie gagnante peut se voir attribuer ses honoraires d’avocats et ses frais par l’arbitre. L’intention des parties est que, sauf circonstances extraordinaires, la procédure d’arbitrage soit terminée dans les quatre-vingt-dix (90) jours suivant la date de nomination de l’arbitre. L’arbitre ne peut prolonger ce délai que si la non-prolongation porterait indûment préjudice aux droits des parties. Le non-respect de ce délai ne peut constituer un motif de contestation de la sentence. Conformément à la nature accélérée de l’arbitrage, l’échange d’informations préalable à l’audience se limite à la production raisonnable de documents pertinents, non confidentiels et réalisés le plus rapidement possible. La présente section ne s’applique pas aux réclamations concernant la propriété, la validité, l’atteinte, le détournement, la divulgation, l’utilisation abusive ou la force exécutoire de toute information confidentielle, droit de brevet, droit d’auteur, moyen de masquage, marque de commerce ou tout autre secret commercial ou toute propriété intellectuelle. Dans toute la mesure permise par les lois applicables, aucun arbitrage ou réclamation ne pourront être joints à un autre arbitrage ou réclamation, et aucune procédure d’arbitrage collectif n’est autorisée. En aucun cas, unw réclamation, action ou procédure de votre part liée de quelque manière que ce soit aux services ne pourra être intentée plus de deux (2) ans après la naissance de la cause de l’action. Si l’une des clauses de la présente section (Arbitrage) est considérée comme étant en conflit avec une disposition obligatoire de la loi applicable, cette clause conflictuelle sera modifiée automatiquement pour la rendre conforme à cette disposition et le reste de la présente section ne sera pas affecté.
-
-### 22\. Droit applicable et ressort compétent
-
-Les présentes Conditions d’utilisation et votre utilisation des services sont régies et interprétées conformément aux lois des États-Unis d’Amérique et de l’État du Delaware applicables aux accords conclus et devant être entièrement exécutés dans l’État du Delaware (même si votre utilisation se fait hors de l’État de Delaware), sans recours aux dispositions en matière de conflits des lois. Vous convenez qu’en ce qui concerne tout différend ou réclamation non soumis à l’arbitrage (comme indiqué ci-dessus), toute action en justice ou en équité relative aux services ou aux présentes Conditions d’utilisation ou s’y rapportant ne sera déposée qu’auprès des tribunaux d’État et fédéraux situés dans le comté de Kent dans l’État du Delaware et vous vous consentez et vous soumettez irrévocablement et inconditionnellement à la compétence exclusive de ces tribunaux. 
-
-### 23\. Cession, changement de contrôle
-
-Vous ne pouvez pas céder le présent accord sans l’accord écrit préalable de Subsplash mais Subsplash peut le céder sans votre consentement à i) une société mère ou une filiale, ii) un acquéreur des actifs ou iii) un successeur par voie de fusion. 
-
-### 24\. Divisibilité
-
-Si l’une des présentes Conditions d’utilisation devait être jugée invalide, illégale ou inapplicable pour quelque motif que ce soit par tout tribunal compétent, cette condition ne sera appliquée que dans la mesure où elle est applicable, elle sera par ailleurs considérée comme dissociée des présentes Conditions d’utilisation, et cela n’affectera pas la validité et l’applicabilité des autres disposition, et les autres conditions resteront pleinement en vigueur et continueront d’être contraignantes et applicables.
-
-### 25\. Relation
-
-Vous convenez qu’aucune relation de joint-venture, partenariat, emploi ou agence n’existe entre vous et Subsplash.
-
-### 26\. Renonciation
-
-Aucune renonciation à une condition, disposition ou modalité du présent accord, que ce soit par comportement ou de quelque autre manière, dans un ou plusieurs cas, ne sera considérée comme une renonciation ou ne constituera une renonciation à toute autre condition, disposition ou modalité du présent accord, qu’elle soit similaire ou non, et cette renonciation ne constituera une renonciation permanente à cette condition, disposition ou modalité. Aucune renonciation n’est contraignante si elle n’est pas signée par écrit par la partie qui y renonce.
-
-### 27\. Force majeure
-
-Si l’exécution de toute partie du présent accord par l’une ou l’autre des parties est empêchée, entravée, retardée ou de quelque autre manière rendue impossible en raison d’une inondation, d’une émeute, d’un incendie, d’une mesure gouvernementale ou judiciaire, d’un conflit de travail, d’un cas de force majeure ou toute autre cause indépendante de la volonté de l’une ou l’autre des parties, cette partie sera dispensée de l’exécution dans la mesure où elle est empêchée, entravée ou retardée par ces causes. 
-
-### 28\. Intégralité de l’accord
-
-Le présent accord constitue la déclaration entière et exclusive de l’accord entre les parties en ce qui concerne l’utilisation des services et tout acte ou omission de Subsplash et remplace toutes les communications, représentations, déclarations et ententes antérieures ou contemporaines, qu’elles soient orales ou écrites, entre les parties.
-
-### ‍
-
-Last updated November 15, 2021
-
-The following sections of the Subsplash Terms of Use are modified for residents of Australia. If you are a resident of Australia, these modified sections supersede their numerical counterpart sections in the Terms of Use as applicable.
-
-Subsplash reserves the right to change or modify any of the terms and conditions contained in these Terms of Use, the Terms of Service, or any policy or guideline, at any time and in its sole discretion upon notice to you.  Unless a change is required sooner in order to comply with applicable law, we will provide at least thirty (30) days prior notice to you. If you do not accept such changes, you may terminate your account with us using our software application or by contacting us as described in these Terms of Use.  Your continued use of the Services following the effective date of the changes or modifications will constitute your acceptance of such changes or modifications. Therefore, you should frequently review these Terms of Use and applicable policies from time-to-time to understand the terms and conditions that apply to your use of the Services.  If you do not agree to the amended terms, you must stop using the Services.  You warrant and attest that you are at least eighteen (18) years of age.
-
-### **16\.** LIMITATION OF LIABILITY
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN ADDITION TO THE FOREGOING WARRANTY DISCLAIMERS AND SUBJECT TO SUBSPLASH’S OBLIGATIONS UNDER THE NON-EXCLUDABLE PROVISIONS, IN NO EVENT SHALL SUBSPLASH OR ANY OF ITS RELATED BODIES CORPORATE, CORPORATE AFFILIATES, INDEPENDENT CONTRACTORS, SERVICE PROVIDERS, OR CONSULTANTS, OR ANY OF THEIR RESPECTIVE DIRECTORS, EMPLOYEES, AND AGENTS, BE LIABLE FOR ANY SPECIAL, INDIRECT, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, LOSS OF USE, LOSS OF OPPORTUNITY, LOSS OF PROFITS, OR LOSS OF DATA, WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE), UNDER STATUTE OR OTHERWISE, ARISING OUT OF OR IN ANY WAY RELATED TO OR CONNECTED WITH ANY USE OF THE SERVICES, THE CONTENT, OR THE MATERIALS CONTAINED IN OR ACCESSED THROUGH THE  SERVICES, INCLUDING WITHOUT LIMITATION ANY DAMAGES, LOSS, OR INJURY CAUSED BY OR RESULTING FROM RELIANCE ON ANY INFORMATION OBTAINED FROM SUBSPLASH, OR THAT RESULT FROM MISTAKES, OMISSIONS, INTERRUPTIONS, DELETION OF FILES OR EMAIL, ERRORS, DEFECTS, VIRUSES, DELAYS IN OPERATION OR TRANSMISSION OR ANY FAILURE OF PERFORMANCE, WHETHER OR NOT RESULTING FROM ACTS OF GOD, COMMUNICATIONS FAILURE, THEFT, DESTRUCTION, OR UNAUTHORIZED ACCESS TO SUBSPLASH’ RECORDS, PROGRAMS, OR SERVICES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE AGGREGATE LIABILITY OF SUBSPLASH, WHETHER IN CONTRACT, WARRANTY, TORT (INCLUDING NEGLIGENCE, WHETHER ACTIVE, PASSIVE, OR IMPUTED), PRODUCT LIABILITY, STRICT LIABILITY, OR OTHER THEORY, ARISING OUT OF OR RELATING IN ANY MANNER TO THE USE OF THE SERVICES, SHALL NOT EXCEED ANY COMPENSATION YOU PAID, IF ANY, TO SUBSPLASH FOR ACCESS TO OR USE OF THE SERVICES DURING THE YEAR PRECEDING THE ACT OR OMISSION OUT OF WHICH SUCH LIABILITY AROSE.
-
-SUBSPLASH MAKES NO WARRANTIES REGARDING SECURITY OR RELIABILITY OF THE SERVICES.
-
-Notwithstanding the foregoing, nothing in these Terms of Use excludes, restricts or modifies any right or remedy, or any guarantee, warranty or other term or condition, implied or imposed by any legislation which cannot lawfully be excluded or limited. If any guarantee, warranty, term or condition is implied or imposed in relation to these Terms of Use pursuant to the Australian Consumer Law or any other applicable legislation and cannot be excluded (a “Non-Excludable Provision”), and Subsplash is able to limit your remedy for a breach of the Non-Excludable Provision, then the liability of Subsplash for breach of the Non-Excludable Provision is limited to one or more of the following at Subsplash’s option: (i) in the case of goods, the replacement of the goods or the supply of equivalent goods, the repair of the goods, the payment of the cost of replacing the goods or of acquiring equivalent goods, or the payment of the cost of having the goods repaired; and (ii) in the case of services, the supplying of the services again, or the payment of the cost of having the services supplied again.
-
-### **18\.** INDEMNIFICATION
-
-You agree to indemnify, defend and hold Subsplash, its “Related Bodies Corporate” (as that term is defined in the Corporations Act 2001 (Cth)) subsidiaries, affiliated companies and their respective shareholders, directors, officers, employees, agents, attorneys, successors and/or assigns, (the “Indemnified Parties”) harmless from, and to reimburse the Indemnified Parties for, any claims, cost, expenses, losses, demands, damages, legal fees and costs, penalties, and/or liabilities of any kind or nature, resulting from or relating in any way to: (i) your use of our Services, (ii) your conduct on the Services, (iii) your violation of these Terms of Use, (iv) your violation of the rights of any third party, (v) your performance related to any Statements of Work, or (vi) related to any User Content you post. You further agree to indemnify, hold harmless and defend Subsplash against any claims asserted or threatened against Subsplash by your end users related to or arising in any way out of your breach of warranties or representations, services, operation of your organization, use of our Services, or failure to provide services.  We may defend any such claim, at our option, and you must pay our attorney fees and costs.  This indemnity will continue in full force after expiration or termination of this Agreement.
-
-### **21\.** DISPUTE RESOLUTION
-
-In the event of any dispute between the parties, the parties hereto shall consult and attempt to reach a solution satisfactory to both parties.  If they fail to do so within a period of thirty (30) days, then either party may, by notice to the other, demand mediation under the mediation rules of the Resolution Institute.  If resolution is not reached within sixty (60) days after service of a written demand for mediation, any unresolved controversy or claim (other than claims identified in the Subsplash Privacy Policy) may be instituted non-exclusively in the federal courts of Australia or the courts of New South Wales. This Section shall not apply to claims concerning the ownership, validity, infringement, misappropriation, disclosure, misuse or enforceability of any confidential information, patent right, copyright, mask work, trademark or any other trade secret or intellectual property.  To the fullest extent permitted by applicable law, no court proceedings or claim shall be joined to any other court proceedings or claim, and no class action proceedings shall be permitted. In no event shall any claim, action or proceeding by you related in any way to the Services be instituted more than two (2) years after the cause of action arose. In the event that any term of this Section (Dispute Resolution) is held to be in conflict with a mandatory provision of applicable law, such conflicting term shall be modified automatically to comply with such provision and the remainder of this Section shall not be affected.
-
-### **22\.** APPLICABLE LAW
-
-These Terms of Use and your use of the Services shall be governed by and construed in accordance with the laws of  Australia.
-
-### **28\.** ENTIRE AGREEMENT
-
-This Agreement constitutes the complete and exclusive statement of the agreement between the parties with respect to the use of the Services and any acts or omissions of Subsplash and supersedes any and all prior or contemporaneous communications, representations, statements and understandings, whether oral or written, between the parties. However, nothing in these Terms of Use limits any liability you or we may have in connection with any communications, representations, statements and understandings, whether oral or written, made prior to or during the term of these Terms of Use, where such liability cannot be lawfully excluded.
+[![Subsplash Logo](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/64d1546f0b2e6541c7beed66_Subsplash_Logo_Black%201.svg)](https://www.subsplash.com/)
+
+* [PRICING](https://www.subsplash.com/pricing)
+* products
+    
+    
+    
+    ALL IN ONE
+    
+    [![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/62d5b781edf1e7296ee72c75_subsplash-all-in-one.webp)
+    
+    Subsplash One
+    
+    The all-in-one platform to know, grow, and engage your church](https://www.subsplash.com/product/one)
+    
+    CREATE
+    
+    [
+    
+    Apps
+    
+    Custom-branded mobile and TV apps on all leading devices](https://www.subsplash.com/product/custom-church-apps)[
+    
+    Websites
+    
+    Drag-and-drop website builder with advanced SEO tools](https://www.subsplash.com/product/church-websites)
+    
+    GROW
+    
+    [
+    
+    Giving
+    
+    Mobile, web, and text giving with donor management and analytics](https://www.subsplash.com/product/online-giving)
+    
+    REACH
+    
+    [
+    
+    Media
+    
+    Media hosting and sermon player with no ads or distractions](https://www.subsplash.com/product/church-media)[
+    
+    Live streaming
+    
+    Full HD live streaming to your app, website, and social media](https://www.subsplash.com/product/church-live-streaming)
+    
+    CONNECT
+    
+    [
+    
+    Church management
+    
+    Child check-in, email builder, volunteers, and service planning](https://www.subsplash.com/product/church-management-software)[
+    
+    Groups & Messaging
+    
+    Secure messaging and group engagement for your church](https://www.subsplash.com/product/messaging-for-churches)[
+    
+    Events
+    
+    Manage event registrations and payments from one dashboard](https://www.subsplash.com/product/church-event-management)
+    
+    WHAT’S NEW
+    
+    [New! Check-in on the Subsplash Platform
+    
+    Our powerful new software for a simple & seamless check-in process](https://www.subsplash.com/product/check-in-software)[Top 10 challenges facing pastors today
+    
+    Understanding & navigating the complexities of modern-day ministry](https://www.subsplash.com/blog/pastor-problems)[5 best church donation tracking tools
+    
+    Explore the top online giving solutions for churches](https://www.subsplash.com/blog/church-donation-tracking-software)[Discipleship training 101: A comprehensive guide
+    
+    Insights & strategies for effective discipleship training](https://www.subsplash.com/blog/discipleship-training)
+    
+    TALK TO SALES
+    
+    [469-564-3922
+    
+    Connect with a ministry consultant](tel:+1(469)5643922)
+    
+    [206.965.8090
+    
+    Connect with a ministry consultant](tel:2069658090)
+    
+* use cases
+    
+    
+    
+    Churches
+    
+    [
+    
+    Church plants
+    
+    First 3 years](https://www.subsplash.com/use-cases/church-plants)[
+    
+    Neighborhood church
+    
+    Churches up to 250
+    
+    Up to 250 people](https://www.subsplash.com/use-cases/neighborhood-church)[
+    
+    Local church
+    
+    Churches up to 500
+    
+    Up to 500 people](https://www.subsplash.com/use-cases/local-church)
+    
+    [
+    
+    Regional church
+    
+    Churches up to 2,000
+    
+    Up to 2,000 people](https://www.subsplash.com/use-cases/regional-church)[
+    
+    Mega & multisite
+    
+    Churches 2,000+
+    
+    2,000+ people](https://www.subsplash.com/use-cases/mega-church)
+    
+    More
+    
+    [
+    
+    Ministries & nonprofits
+    
+    Mission-based organizations](https://www.subsplash.com/use-cases/ministries-nonprofits)[![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/667dd577891a2f59350a1c6c_icons-rest-api.svg)
+    
+    Enterprise solutions
+    
+    Powerful integrations, API access, and more](https://www.subsplash.com/use-cases/enterprise)
+    
+    ALL IN ONE
+    
+    [![](https://cdn.prod.website-files.com/627d5cb7a65390b3f8dcbc63/62d5b781edf1e7296ee72c75_subsplash-all-in-one.webp)
+    
+    Subsplash One
+    
+    The all-in-one platform to know, grow, and engage your church](https://www.subsplash.com/product/one)
+    
+    TALK TO SALES
+    
+    [469-564-3922
+    
+    Connect with a ministry consultant](tel:+1(469)564-3922)
+    
+    [206.965.8090
+    
+    Connect with a ministry consultant](tel:+1(469)564-3922)
+    
+* RESOURCES
+    
+    
+    
+    LEARN
+    
+    [
+    
+    Blog
+    
+    Latest updates for your ministry](https://www.subsplash.com/blog)[
+    
+    Webinars & events
+    
+    Industry trends, product announcements, and more](https://www.subsplash.com/resources/webinars)
+    
+    ENGAGE
+    
+    [
+    
+    Free media
+    
+    Customizable media kits and curated image library](https://www.subsplash.com/free-media-page)[
+    
+    Ebooks & more
+    
+    In-depth guides and industry reports](https://www.subsplash.com/resources/ebooks)
+    
+    [
+    
+    Equip & Engage
+    
+    The Subsplash podcast](https://www.subsplash.com/resources/podcast)[
+    
+    Discipleship content
+    
+    Special access to world-class resources from leading ministries](https://www.subsplash.com/resources/discipleship-resources)
+    
+    GET HELP
+    
+    [Client support
+    
+    Technical questions and admin support](https://support.subsplash.com/)
+    
+    [Donor & app user support
+    
+    Donor account access and other issues](https://support.subsplash.com/en/collections/8595329-end-user-donor-resources)
+    
+    TALK TO SALES
+    
+    [469-564-3922
+    
+    Connect with a ministry consultant](tel:+1(469)564-3922)
+    
+    [206.965.8090
+    
+    Connect with a ministry consultant](tel:2069658090)
+    
+    Subscribe
+    
+    [Subscribe to our newsletter
+    
+    Tools & resources to make disciples in a digital age. Every Monday in your inbox.](#)
+    
+    [206.965.8090
+    
+    Connect with a ministry consultant](tel:2069658090)
+    
+* [Login](https://www.subsplash.com/login)
+* [BOOK A DEMO](#)
+
+[LOGIN](https://www.subsplash.com/login)[BOOK A DEMO](#)
