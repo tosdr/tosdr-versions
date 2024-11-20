@@ -403,7 +403,7 @@ Stay connected
 * [Community](https://slack.sanity.io/)
 * [X.com](https://x.com/sanity_io)
 * [Bluesky](https://bsky.app/profile/sanity.io)
-* [YouTube](https://www.youtube.com/channel/UCGz69JwGRptteFAaX8hSKCQ)
+* [YouTube](https://www.youtube.com/@sanity_io)
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/sanity)
 * [Blog RSS](https://www.sanity.io/feed/rss)
 * [Newsletter](https://www.sanity.io/newsletter)
