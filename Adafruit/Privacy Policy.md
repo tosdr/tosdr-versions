@@ -105,9 +105,9 @@ Search
     
     $14.95](https://www.adafruit.com/product/5980)
     
-    ![Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328 with lots of components, and booklet](https://cdn-shop.adafruit.com/230x173/170-04.jpg)[Adafruit MetroX Classic Kit - Experimentation Kit for Metro 328
+    ![Angled shot of black, rectangular doubler prototyping board.](https://cdn-shop.adafruit.com/230x173/5906-00.jpg)[Adafruit Proto Doubler PiCowbell for Pico and PicoW
     
-    $84.95](https://www.adafruit.com/product/170)
+    $7.50](https://www.adafruit.com/product/5906)
     
 * [Gift Ideas](https://www.adafruit.com/explore)
 * [What's New](https://www.adafruit.com/new)
@@ -404,9 +404,9 @@ For security related matters please email: [\[email protected\]](https://www.a
 * [Jobs](https://jobs.adafruit.com/)
 * [Gift Cards](https://www.adafruit.com/category/14)
 
-“ Forgive many things in others; nothing in yourself”
+“ Remember what the dormouse said: feed your head, feed your head”
 
-[Ausonius](https://en.wikipedia.org/wiki/Ausonius#Saw_mill)
+[Grace Slick](https://en.wikipedia.org/wiki/White_Rabbit_(song))
 
 [](https://www.adafruit.com/about)
 
