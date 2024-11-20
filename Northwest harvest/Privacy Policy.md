@@ -344,7 +344,6 @@ Follow Us
 ---------
 
 * [Facebook](https://www.facebook.com/NWHarvest)
-* [Twitter](https://twitter.com/NWHarvest)
 * [Instagram](https://www.instagram.com/nwharvest/)
 * [Vimeo](https://vimeo.com/nwharvest)
 
