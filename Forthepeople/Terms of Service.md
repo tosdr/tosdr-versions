@@ -74,7 +74,7 @@
         * [Student Opportunities](https://www.forthepeople.com/student-careers/)
     * [FAQ](https://www.forthepeople.com/faq/)
     * [In the Community](https://www.forthepeople.com/in-the-community/)
-    * [In the Media](https://www.forthepeople.com/in-the-media/)
+    * [In the Media](https://www.forthepeople.com/blog/category/in-the-media/)
     * [Shop](https://shop.forthepeople.com/?_gl=1%2A1rkc89r%2A_gcl_aw%2AR0NMLjE3MjM2NjA4NzMuQ2p3S0NBancyZEcxQmhCNEVpd0E5OThjcUpiRXQxTUNRc0lFNWdOMnhMQjBzT1NGdUZsVjdBSmxLbWM5MkJGUmVMU01IRGkzSl9NQU5Sb0NIX1FRQXZEX0J3RQ..%2A_gcl_au%2AMTQ4NzQ4ODAwNy4xNzI1ODg5MzQ1)
     * [Testimonials](https://www.forthepeople.com/testimonials/)
 * [Contact](https://www.forthepeople.com/free-case-evaluation/)
