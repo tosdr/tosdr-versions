@@ -56,7 +56,7 @@
     
     EXPLORE
     
-    [Explore store](https://enphase.com/store) [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
+    [Explore store](https://enphase.com/store) [Microinverters](https://enphase.com/store/microinverters) [Batteries](https://enphase.com/store/storage) [Communication](https://enphase.com/store/communication) [Accessories](https://enphase.com/store/accessories) [EV chargers](https://enphase.com/store/ev-chargers) [Portable energy](https://enphase.com/homeowners/portable-energy) [Services](https://enphase.com/store/services) [Lifestyle](https://enphase.com/store/lifestyle-products)
     
     ACCOUNT
     
@@ -310,6 +310,7 @@ Your session expired. Please login again to continue to purchase.
     * [Connected appliances](https://enphase.com/homeowners/connected-appliances)
     * [Critical updates](https://enphase.com/homeowners/updates)
     * [Design my system](https://estimator.enphase.com/)
+    * [Portable energy](https://enphase.com/homeowners/portable-energy)
     
 * Business owners
     
