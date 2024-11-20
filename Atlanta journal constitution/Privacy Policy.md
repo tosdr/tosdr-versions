@@ -1,3 +1,5 @@
+[Breaking: TRAFFIC UPDATE | Crash blocking all lanes of I-285 South near airport](https://www.ajc.com/news/crime/traffic-alert-all-lanes-closed-on-i-285-south-near-airport/V7KQERALXNFDRJMLDLCZWJQ7YQ/)
+
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
 Log In
@@ -14,6 +16,7 @@ Log In
 [Frequently Asked Questions
 --------------------------](https://www.ajc.com/frequently-asked-questions)
 
+* [A.M. ATL Newsletter](https://www.ajc.com/news/am-atl-sheriffs-burger-beef-leads-to-litigation/KR3ULA7EIJCGJA4NXDL23FTVEQ/)
 * [Politically Georgia](https://www.ajc.com/politics/politically-georgia/)
 * [Holiday Guide](https://www.ajc.com/things-to-do/atlanta-winter-guide/)
 * [UATL](https://www.ajc.com/uatl/)
