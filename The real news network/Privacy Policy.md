@@ -73,15 +73,15 @@ Follow Us
 Trending Posts
 --------------
 
-* [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
+* [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
 * [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
-* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
+* [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
 * [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
+* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * ['I found \[my family\] in pieces. In pieces.': Gaza's orphans speak](https://therealnews.com/i-found-my-family-in-pieces-in-pieces-gazas-orphans-speak)
 
 Close
@@ -137,15 +137,15 @@ Follow Us
 Trending Posts
 --------------
 
-* [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
-* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
 * [10 ways to be prepared and grounded now that Trump has won](https://therealnews.com/10-ways-to-be-prepared-and-grounded-now-that-trump-has-won)
+* [Why did Democrats lose? Just listen to the voters.](https://therealnews.com/why-did-democrats-lose-just-listen-to-the-voters)
+* [Trump's army of social vigilantes are coming for payback](https://therealnews.com/trumps-army-of-social-vigilantes-are-coming-for-payback)
 * [‘Let this election galvanize and radicalize us’: Abby Martin, Francesca Fiorentini, and Kat Abughazaleh respond to Trump’s win](https://therealnews.com/let-this-election-galvanize-and-radicalize-us-abby-martin-francesca-fiorentini-and-kat-abughazaleh-respond-to-trumps-win)
 * [Cops cuffed her for failing to signal, but a camera turned their plan upside down](https://therealnews.com/cops-cuffed-her-for-failing-to-signal-but-a-camera-turned-their-plan-upside-down)
-* [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
 * [“Let’s unite!”: Poisoned residents of America’s sacrifice zones are banding together](https://therealnews.com/lets-unite-poisoned-residents-of-americas-sacrifice-zones-are-banding-together)
-* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
+* [Anti-Zionism has existed since the beginning of Zionism](https://therealnews.com/anti-zionism-has-existed-since-the-beginning-of-zionism)
 * [Democrats chose backing a genocide over defeating Trump](https://therealnews.com/democrats-chose-backing-a-genocide-over-defeating-trump)
+* [Rep. Raskin: Trump’s administration will ‘create a climate of fear and intimidation’ to govern. Don’t let them](https://therealnews.com/rep-raskin-trumps-administration-will-create-a-climate-of-fear-and-intimidation-to-govern-dont-let-them)
 * ['I found \[my family\] in pieces. In pieces.': Gaza's orphans speak](https://therealnews.com/i-found-my-family-in-pieces-in-pieces-gazas-orphans-speak)
 
 [Skip to content](#main)
