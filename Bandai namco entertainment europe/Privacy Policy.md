@@ -23,8 +23,8 @@ Popular Games
 
 Latest game news
 
-* [GUNDAM: REQUIEM FOR VENGEANCE: RED VS BLUE team-based competitive experience launches in Fortnite](https://en.bandainamcoent.eu/gundam/news/gundam-requiem-vengeance-red-vs-blue-team-based-competitive-experience-launches)
-* [ELDEN RING Shadow of the Erdtree soundtrack available now on Bandai Namco Game Music channels](https://en.bandainamcoent.eu/elden-ring/news/elden-ring-shadow-of-the-erdtree-soundtrack-available-now-bandai-namco-game-music)
+* [Season 8 of MY HERO ULTRA RUMBLE is here!](https://en.bandainamcoent.eu/my-hero-academia/news/season-8-of-my-hero-ultra-rumble-here)
+* [MY HERO ULTRA RUMBLE – Developer’s Blog VOL. 17](https://en.bandainamcoent.eu/my-hero-academia/news/my-hero-ultra-rumble-developers-blog-vol-17)
 
    ![](/themes/custom/bne_main/images/newsletter/banner-newsletter.jpg?1648764000)
 
