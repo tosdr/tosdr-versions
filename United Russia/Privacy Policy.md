@@ -299,6 +299,46 @@
 
 [Все новости](https://er.ru/activity/news)
 
+[![«Женское движение Единой России» приняло участие в международном форуме «Содружество моды»](https://cdn.er.ru/media/news/November2024/QmD7KzGum3wJgIxnuhGO-small.jpg)](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-prinyalo-uchastie-v-mezhdunarodnom-forume-sodruzhestvo-mody)
+
+[«Женское движение Единой России» приняло участие в международном форуме «Содружество моды»](https://er.ru/activity/news/zhenskoe-dvizhenie-edinoj-rossii-prinyalo-uchastie-v-mezhdunarodnom-forume-sodruzhestvo-mody)
+
+[#Санкт-Петербург](https://er.ru/activity/news?tags%5B0%5D=622) [#Полуянова](https://er.ru/activity/news?tags%5B0%5D=11309) [#Святенко](https://er.ru/activity/news?tags%5B0%5D=44335) [#ЖенскоеДвижениеЕдинойРоссии](https://er.ru/activity/news?tags%5B0%5D=1093396) [#партпроекты](https://er.ru/activity/news?tags%5B0%5D=1090407)
+
+Сегодня 16:30
+
+[![Владимир Якушев обратил внимание на необходимость закрепить «мастер-план» на законодательном уровне](https://cdn.er.ru/media/news/November2024/iD7C2zS8MiAcDM2XHEkZ-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-obratil-vnimanie-na-neobhodimost-zakrepit-master-plan-na-zakonodatelnom-urovne)
+
+[Владимир Якушев обратил внимание на необходимость закрепить «мастер-план» на законодательном уровне](https://er.ru/activity/news/vladimir-yakushev-obratil-vnimanie-na-neobhodimost-zakrepit-master-plan-na-zakonodatelnom-urovne)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#СоветФедерации](https://er.ru/activity/news?tags%5B0%5D=67479) [#мастер-план](https://er.ru/activity/news?tags%5B0%5D=1092102) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327)
+
+Сегодня 15:31
+
+[![Госдума приняла в первом чтении законопроект «Единой России» о бесплатной юридической помощи для многодетных семей](https://cdn.er.ru/media/news/November2024/a2wcIWyAC4RLtL3UsaoH-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-besplatnoj-yuridicheskoj-pomoshi-dlya-mnogodetnyh-semej)
+
+[Госдума приняла в первом чтении законопроект «Единой России» о бесплатной юридической помощи для многодетных семей](https://er.ru/activity/news/gosduma-prinyala-v-pervom-chtenii-zakonoproekt-edinoj-rossii-o-besplatnoj-yuridicheskoj-pomoshi-dlya-mnogodetnyh-semej)
+
+[#Метелев](https://er.ru/activity/news?tags%5B0%5D=133170) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#многодетныесемьи](https://er.ru/activity/news?tags%5B0%5D=109325) [#бесплатнаяюридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=120547) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 15:03
+
+[![«Единая Россия» поддержала создание единой программы воспитания в детских лагерях](https://cdn.er.ru/media/news/November2024/Ula7Rg5X8V0x0nAdolDP-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-podderzhala-sozdanie-edinoj-programmy-vospitaniya-v-detskih-lageryah)
+
+[«Единая Россия» поддержала создание единой программы воспитания в детских лагерях](https://er.ru/activity/news/edinaya-rossiya-podderzhala-sozdanie-edinoj-programmy-vospitaniya-v-detskih-lageryah)
+
+[#Яровая](https://er.ru/activity/news?tags%5B0%5D=131) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#детскийлагерь](https://er.ru/activity/news?tags%5B0%5D=110135) [#летнийотдыхдетей](https://er.ru/activity/news?tags%5B0%5D=134120) [#образование](https://er.ru/activity/news?tags%5B0%5D=57)
+
+Сегодня 14:10
+
+[![Владимир Якушев о расселении сирот: Нужно максимально задействовать в регионах жилой фонд, который построен за счёт бюджетных средств](https://cdn.er.ru/media/news/November2024/0b9MZNu46Ywko9092HWQ-small.jpg)](https://er.ru/activity/news/vladimir-yakushev-o-rasselenii-sirot-nuzhno-maksimalno-zadejstvovat-v-regionah-zhiloj-fond-kotoryj-postroen-za-schyot-byudzhetnyh-sredstv)
+
+[Владимир Якушев о расселении сирот: Нужно максимально задействовать в регионах жилой фонд, который построен за счёт бюджетных средств](https://er.ru/activity/news/vladimir-yakushev-o-rasselenii-sirot-nuzhno-maksimalno-zadejstvovat-v-regionah-zhiloj-fond-kotoryj-postroen-za-schyot-byudzhetnyh-sredstv)
+
+[#Якушев](https://er.ru/activity/news?tags%5B0%5D=1094) [#Хуснуллин](https://er.ru/activity/news?tags%5B0%5D=2916) [#Совфед](https://er.ru/activity/news?tags%5B0%5D=135932) [#сироты](https://er.ru/activity/news?tags%5B0%5D=1090754) [#жилье](https://er.ru/activity/news?tags%5B0%5D=113) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49)
+
+Сегодня 13:54
+
 [![«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://cdn.er.ru/media/news/November2024/tLzwkvkcvO3k3YJ3OaNE-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
 
 [«Единая Россия» проводит День юридической помощи по вопросам защиты детства](https://er.ru/activity/news/edinaya-rossiya-provodit-den-yuridicheskoj-pomoshi-po-voprosam-zashity-detstva)
@@ -306,46 +346,6 @@
 [#Кузнецова](https://er.ru/activity/news?tags%5B0%5D=4127) [#юридическаяпомощь](https://er.ru/activity/news?tags%5B0%5D=110126) [#защитадетства](https://er.ru/activity/news?tags%5B0%5D=105383) [#штабобщественнойподдержки](https://er.ru/activity/news?tags%5B0%5D=1092101) [#приемная](https://er.ru/activity/news?tags%5B0%5D=640)
 
 Сегодня 09:30
-
-[![О поправках к бюджету на 2025-2027 годы. Статья Андрея Исаева](https://cdn.er.ru/media/news/November2024/zIITaWNjK3EHag8tjB32-small.jpg)](https://er.ru/activity/news/o-popravkah-k-byudzhetu-na-2025-2027-gody-statya-andreya-isaeva)
-
-[О поправках к бюджету на 2025-2027 годы. Статья Андрея Исаева](https://er.ru/activity/news/o-popravkah-k-byudzhetu-na-2025-2027-gody-statya-andreya-isaeva)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=121396) [#РГ](https://er.ru/activity/news?tags%5B0%5D=8568) [#статья](https://er.ru/activity/news?tags%5B0%5D=71) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112) [#поправки](https://er.ru/activity/news?tags%5B0%5D=331)
-
-Сегодня 09:00
-
-[![«Единая Россия»: Выставку трофейной военной техники «Сила V правде — гордость и Победа» в Казани посетили более 120 тысяч человек](https://cdn.er.ru/media/news/November2024/HmQJNtdadHFtf1THA929-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-vystavku-trofejnoj-voennoj-tehniki-sila-v-pravde-gordost-i-pobeda-v-kazani-posetili-bolee-120-tysyach-chelovek)
-
-[«Единая Россия»: Выставку трофейной военной техники «Сила V правде — гордость и Победа» в Казани посетили более 120 тысяч человек](https://er.ru/activity/news/edinaya-rossiya-vystavku-trofejnoj-voennoj-tehniki-sila-v-pravde-gordost-i-pobeda-v-kazani-posetili-bolee-120-tysyach-chelovek)
-
-[#выставка военной техники](https://er.ru/activity/news?tags%5B0%5D=47860) [#НАТО](https://er.ru/activity/news?tags%5B0%5D=1286) [#Республика Тататрстан](https://er.ru/activity/news?tags%5B0%5D=106972)
-
-Сегодня 08:30
-
-[![Госдума приняла инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://cdn.er.ru/media/news/November2024/ypiQVAUmn6a3Ytn0vvHI-small.jpg)](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
-
-[Госдума приняла инициированный «Единой Россией» законопроект, освобождающий участников СВО от взыскания исполнительского сбора в период их участия в боевых действиях](https://er.ru/activity/news/gosduma-prinyala-iniciirovannyj-edinoj-rossiej-zakonoproekt-osvobozhdayushij-uchastnikov-svo-ot-vzyskaniya-ispolnitelskogo-sbora-v-period-ih-uchastiya-v-boevyh-dejstviyah)
-
-[#Пискарев](https://er.ru/activity/news?tags%5B0%5D=17151) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#законотворчество](https://er.ru/activity/news?tags%5B0%5D=10327) [#СВО](https://er.ru/activity/news?tags%5B0%5D=1092872) [#спецоперация](https://er.ru/activity/news?tags%5B0%5D=1092566) [#поддержкавоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1094152) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#законодательнаяинициативаЕР](https://er.ru/activity/news?tags%5B0%5D=152136) [#исполнительский сбор](https://er.ru/activity/news?tags%5B0%5D=56017)
-
-19.11.24
-
-[![«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://cdn.er.ru/media/news/November2024/0DISVQeKP05wNK5lFLVV-small.jfif)](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
-
-[«Единая Россия» внесла законопроект о дополнительном неоплачиваемом отпуске родителям и супругам раненого или больного участника СВО](https://er.ru/activity/news/edinaya-rossiya-vnesla-zakonoproekt-o-dopolnitelnom-neoplachivaemom-otpuske-roditelyam-i-suprugam-ranenogo-ili-bolnogo-uchastnika-svo)
-
-[#Исаев](https://er.ru/activity/news?tags%5B0%5D=113007) [#Лантратова](https://er.ru/activity/news?tags%5B0%5D=1607) [#законопроект](https://er.ru/activity/news?tags%5B0%5D=116) [#Госдума](https://er.ru/activity/news?tags%5B0%5D=37) [#поддержкасемейвоеннослужащих](https://er.ru/activity/news?tags%5B0%5D=1093581) [#поддержкасемеймобилизованных](https://er.ru/activity/news?tags%5B0%5D=1093582)
-
-19.11.24
-
-[![«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://cdn.er.ru/media/news/November2024/43wb9FLmyrb24cl91tbv-small.jpg)](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
-
-[«Единая Россия» и Минпромторг продолжат совместную работу по подготовке кадров для российской промышленности](https://er.ru/activity/news/edinaya-rossiya-i-minpromtorg-prodolzhat-sovmestnuyu-rabotu-po-podgotovke-kadrov-dlya-rossijskoj-promyshlennosti)
-
-[#Васильев](https://er.ru/activity/news?tags%5B0%5D=947) [#фракцияЕР](https://er.ru/activity/news?tags%5B0%5D=110930) [#Алиханов](https://er.ru/activity/news?tags%5B0%5D=103216) [#Минпромторг](https://er.ru/activity/news?tags%5B0%5D=3505) [#кадры](https://er.ru/activity/news?tags%5B0%5D=975) [#регионы](https://er.ru/activity/news?tags%5B0%5D=49) [#суверенитет](https://er.ru/activity/news?tags%5B0%5D=9840) [#бюджет](https://er.ru/activity/news?tags%5B0%5D=112)
-
-18.11.24
 
 ![Сайт президента РФ](https://cdn.er.ru/media/sites/July2020/7T7J24LxtsdGGJVk1lL0.jpg)
 
