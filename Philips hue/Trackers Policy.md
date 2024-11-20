@@ -7,7 +7,7 @@
     * [Black Friday](https://www.philips-hue.com/en-us/products/promotions/black-friday-cyber-monday-deals)
     * [New](https://www.philips-hue.com/en-us/products/promotions/newest-philips-hue-products)
     * [Exclusives](https://www.philips-hue.com/en-us/products/all-products?filters=exclusive)
-    * [Top sellers](https://www.philips-hue.com/en-us/products/all-products?page=1&sort=most-sold)
+    * [Top sellers](https://www.philips-hue.com/en-us/products/all-products?sort=most-sold)
     * [Bundles](https://www.philips-hue.com/en-us/products/smart-light-bundles)
     * [Shop all](https://www.philips-hue.com/en-us/products/all-products)
     
