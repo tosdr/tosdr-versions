@@ -58,7 +58,9 @@
 
 [Donate](https://www.understood.org/en/donate)
 
-[](https://www.understood.org/en/assistant "Understood AI Assistant")
+[](https://www.understood.org/en/assistant "Understood Assistant")
+
+Hi 👋, ask the **Understood Assistant** about differences like ADHD and dyslexia.
 
 Terms of use
 ============
