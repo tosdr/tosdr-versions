@@ -1,5 +1,3 @@
-[Breaking: Kemp requests $12.2 billion in federal aid for Hurricane Helene](https://www.ajc.com/politics/kemp-requests-122-billion-in-federal-aid-for-hurricane-helene/6BEFIPWPTVH63MYWZXKLKXSFJY/)
-
 [![ajc logo](/pf/resources/logos/AJC/logo-full-redesign.svg?d=1834)![ajc logo](/pf/resources/logos/AJC/logo-short.svg?d=1834)](https://www.ajc.com/)
 
 Log In
