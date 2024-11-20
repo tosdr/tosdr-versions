@@ -147,7 +147,7 @@ Subscribe for access to our best deals and offers. Get 10% Discount on first Ord
 
  
 
- [![Quick Survey](/images/QuickSurvey-img.png) Take Our Quick Survey Help us serve you better!](https://docs.google.com/forms/d/e/1FAIpQLSeDx2zSWti78LPY77lpYOOvqvevEv7ftf7-1PormE8v7pmtsg/viewform?usp=send_form)
+  [![Quick Survey](/images/Them-24/BlackFriday/Take-Survey.jpg) ![Quick Survey](/images/QuickSurvey-img.png) Take Our Quick Survey Help us serve you better!](https://docs.google.com/forms/d/e/1FAIpQLSeDx2zSWti78LPY77lpYOOvqvevEv7ftf7-1PormE8v7pmtsg/viewform?usp=send_form)
 
   
 
