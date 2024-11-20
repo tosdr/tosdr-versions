@@ -965,11 +965,11 @@ Feedback
 
 [Copyright](https://www.ssrn.com/index.cfm/en/dmca-notice-policy/ "Copyright") [Terms and Conditions](https://www.ssrn.com/index.cfm/en/terms-of-use/ "Terms and Conditions") [Privacy Policy](https://www.elsevier.com/legal/privacy-policy "Privacy Policy")
 
-All content on this site: Copyright © 2023 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
+All content on this site: Copyright © 2024 Elsevier Inc., its licensors, and contributors. All rights are reserved, including those for text and data mining, AI training, and similar technologies. For all open access content, the Creative Commons licensing terms apply.
 
 We use cookies to help provide and enhance our service and tailor content.
 
-To learn more, visit Cookie Settings. This page was processed by aws-apollo-l200 in 0.110 seconds
+To learn more, visit Cookie Settings. This page was processed by aws-apollo-l200 in 0.140 seconds
 
 [](http://www.relx.com/ "RELX")
 
