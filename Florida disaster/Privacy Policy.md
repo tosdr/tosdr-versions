@@ -226,9 +226,9 @@ Dial 711 (TDD/TTY)        
 
 ### Weather Outlook
 
-**Tuesday, November 19, 2024**
+**Wednesday, November 20, 2024**
 
-**...Active Weather Returns Across the Florida Panhandle and Big Bend...Scattered Showers and Thunderstorms to Move Eastward With Associated Cold Front...Isolated Strong to Severe Thunderstorms Possible Along Western Panhandle; Lightning, Damaging Wind Gusts, Isolated Tornado or Two and Heavy Rainfall...Localized Flash Flooding Possible Across Panhandle With Intense Rainfall Rates...Breezy Conditions Outside of Thunderstorm Activity...Rainfall Spreading Eastward into Nature Coast and Northern Penisula Overnight...Breezy Onshore Winds and Elevated Surf to Create Instances of Minor Coastal Flooding Along Panhandle and Big Bend; Lingering Instances of Coastal Flooding Along St. Johns River and Keys...Minor to Moderate Riverine Flooding for St. Johns and Withlacoochee Rivers Continue...**
+**...Scattered Showers With Thunderstorms Near the West Coast to Continue Across Peninsula...Frontal System Making Its Way Through Peninsula...Breezy Wind Gusts Expected Across the State With Stronger Gusts Near Coastlines...Second Cold Front to Reinforce Dry and Cool Conditions...Rain Chances to Decline From Northwest to Southeast Thorugh Evening Hours and Tonight...Coolest Temperatures of the Season to Arrive...Feels-Like Temperatures In Upper 30s For Portions of Northern Panhandle by Sunrise Thursday Morning...High Risk for Rip Currents Across Gulf and West Coast; Moderate to High Along Numerous East Coast Beaches...Minor Coastal Flooding Along Much of West Coast and Florida Keys With Strong Onshore Winds and Elevated Surf...**
 
 [More Details](https://www.floridadisaster.org/weather/)
 
