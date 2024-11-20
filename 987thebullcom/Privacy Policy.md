@@ -349,11 +349,11 @@ Recently Played
 
 |     |
 | --- |
-| Are You Gonna Kiss Me Or NotThompson Square<br><br>9:16pm |
-| Holy SmokesBailey Zimmerman<br><br>9:12pm |
-| World On FireNate Smith<br><br>9:09pm |
-| A Bar Song (Tipsy)Shaboozey<br><br>9:06pm |
-| Pink SkiesZach Bryan<br><br>8:55pm |
+| Boys 'Round HereBlake Shelton Ft Pistol Annies And F<br><br>4:40am |
+| Wolves CryBryan Martin<br><br>4:37am |
+| KinfolksSam Hunt<br><br>4:34am |
+| Devil You KnowTyler Braden<br><br>4:31am |
+| Lies, Lies, LiesMorgan Wallen<br><br>4:28am |
 
 [View Full Playlist](https://www.987thebull.com/recently-played)
 
@@ -497,21 +497,21 @@ State
 Featured Brands
 ---------------
 
-[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+[![Panhandle Sports Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/KVWE-Logo-RedBlack-Dk.png)](https://www.panhandlesportsstar.com/)
 
-Spanish • Western
-
-[![Live 95.5 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBFF.png)](https://www.live955.com/)
-
-Top 40 • Pacific NW
-
-[![99.7 DJX Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WDJX.png)](https://www.wdjx.com/)
-
-Top 40 • Eastern
+Sports • Midwest
 
 [![98.5 The Bull Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KDES.png)](https://www.985thebull.com/)
 
 Country • Western
+
+[![News-Talk 1480 WHBC Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-WHBCAM.png)](https://www.whbc.com/)
+
+News Talk • Eastern
+
+[![Latino 106.3 Logo](https://www.alphamediausa.com/wp-content/uploads/brand/logo/AmplayerAPP-StationLogo-300-KBMG.png)](https://www.latinosaltlake.com/)
+
+Spanish • Western
 
 [](https://www.alphamediausa.com/)
 
