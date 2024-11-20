@@ -3,11 +3,11 @@
 Información legal
 
 * Información legal
-* [Condiciones Generales](https://www.mobifriends.com/web/legalext/terms)
-* [Inf.prev. a la contratación](https://www.mobifriends.com/web/legalext/information)
-* [Privacidad](https://www.mobifriends.com/web/legalext/privacy)
-* [Propiedad industrial e intelectual](https://www.mobifriends.com/web/legalext/property)
-* [Renuncia de responsabilidad](https://www.mobifriends.com/web/legalext/declaration)
+* [Condiciones Generales](https://www.mobifriends.com/legal/condiciones)
+* [Inf.prev. a la contratación](https://www.mobifriends.com/legal/informacion)
+* [Privacidad](https://www.mobifriends.com/legal/privacidad)
+* [Propiedad industrial e intelectual](https://www.mobifriends.com/legal/propiedad)
+* [Renuncia de responsabilidad](https://www.mobifriends.com/legal/declaracion)
 
   
 
@@ -200,11 +200,11 @@ Calle Escorial 180, Bajos exterior, 08024 Barcelona. España.
 [Comprimir sección](javascript:comprimir_todo('ac_sub_1','ac_link_1');)
 
 * [Regístrate](https://www.mobifriends.com/ "Regístrate")
-* [Mobifriends](https://www.mobifriends.com/web/mobifriendsext "Mobifriends")
+* [Mobifriends](https://www.mobifriends.com/sobre-nosotros "Mobifriends")
 * [Ayuda](https://www.mobifriends.com/ayuda "Ayuda")
-* [Información legal](https://www.mobifriends.com/web/legalext "Información legal")
-* [Contactar](https://www.mobifriends.com/web/contactext "Contactar")
-* [Prensa](https://www.mobifriends.com/web/pressext "Prensa")
+* [Información legal](https://www.mobifriends.com/legal "Información legal")
+* [Contactar](https://www.mobifriends.com/contactar "Contactar")
+* [Prensa](https://www.mobifriends.com/prensa "Prensa")
 * [Frases de Amor](https://www.mobifriends.com/Frases-Amor "Frases de Amor")
 * [Blog](https://blog.mobifriends.com/ "mobifriends - Blog - Conocer gente, amigos gratis y buscar pareja")
 
