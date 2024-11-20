@@ -305,17 +305,17 @@ dojo
 
 developers
 
-[Blog](https://www.codewars.com/blog)[Partner Schools](https://www.codewars.com/partner-schools)[Missions
+[Blog](https://www.codewars.com/blog)[Partner Schools](https://www.codewars.com/partner-schools)[Get Hired](https://www.andela.com/why-join-andela?utm_campaign=codewarsfooter&utm_source=codewars&utm_medium=codewars-site)[Missions
 
 Preview](#)
 
 educators
 
-[Educator Partnerships](https://www.codewars.com/partnerships)
+[Educator Partnerships](https://www.codewars.com/partnerships)[Assess Students](https://www.qualified.io/?utm_source=codewars&utm_campaign=codewars-footer)
 
 companies
 
-[Skill Assessments](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)
+[Skill Assessments](https://www.qualified.io/?utm_source=codewars&utm_campaign=companies-header)[Find Candidates](https://www.andela.com/?utm_source=codewars&utm_campaign=codewars-footer)
 
 © 2023 [Andela](https://www.andela.com/?utm_source=codewars&utm_campaign=copyright). All rights reserved.
 
