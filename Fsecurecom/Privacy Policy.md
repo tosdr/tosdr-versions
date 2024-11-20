@@ -14,6 +14,7 @@ Skip to main content
         * [F‑Secure Total](https://www.f-secure.com/en/legal/privacy/total)
         * [F‑Secure VPN](https://www.f-secure.com/en/legal/privacy/vpn)
         * [F‑Secure ID Protection](https://www.f-secure.com/en/legal/privacy/id-protection)
+        * [F‑Secure Mobile Security](https://www.f-secure.com/en/legal/privacy/mobile-security)
         * [F‑Secure Sense](https://www.f-secure.com/en/legal/privacy/sense)
         * [Support tool](https://www.f-secure.com/en/legal/privacy/support-tool)
         * [Surveys](https://www.f-secure.com/en/legal/privacy/surveys)
@@ -22,6 +23,7 @@ Skip to main content
     * Terms
         
         * [F‑Secure VPN](https://www.f-secure.com/en/legal/terms/vpn)
+        * [F‑Secure Mobile Security](https://www.f-secure.com/en/legal/terms/mobile-security)
         * [Community forums](https://www.f-secure.com/en/legal/terms/community)
         * [Remote support](https://www.f-secure.com/en/legal/terms/remote-support)
         * [Websites](https://www.f-secure.com/en/legal/terms/websites)
@@ -78,12 +80,14 @@ Choose your country
     * [F‑Secure Total](https://www.f-secure.com/en/legal/privacy/total)
     * [F‑Secure VPN](https://www.f-secure.com/en/legal/privacy/vpn)
     * [F‑Secure ID Protection](https://www.f-secure.com/en/legal/privacy/id-protection)
+    * [F‑Secure Mobile Security](https://www.f-secure.com/en/legal/privacy/mobile-security)
     * [F‑Secure Sense](https://www.f-secure.com/en/legal/privacy/sense)
     * [Support tool](https://www.f-secure.com/en/legal/privacy/support-tool)
     * [Surveys](https://www.f-secure.com/en/legal/privacy/surveys)
     * [Websites](https://www.f-secure.com/en/legal/privacy/websites)
 * Terms
     * [F‑Secure VPN](https://www.f-secure.com/en/legal/terms/vpn)
+    * [F‑Secure Mobile Security](https://www.f-secure.com/en/legal/terms/mobile-security)
     * [Community forums](https://www.f-secure.com/en/legal/terms/community)
     * [Remote support](https://www.f-secure.com/en/legal/terms/remote-support)
     * [Websites](https://www.f-secure.com/en/legal/terms/websites)
