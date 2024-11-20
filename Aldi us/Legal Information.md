@@ -221,7 +221,7 @@ Shopping List
         
     * [Holiday](https://www.aldi.us/products/holiday/ "Get holly and jolly for the Holiday season. View recipe ideas and assemble your Holiday grocery list and find dinner, side dishes, desserts and more at your local ALDI.  ")
         
-    * [ALDI Gear](https://www.aldi.us/products/aldi-gear/ "Browse our upcoming Winter 2024 limited-edition ALDI Gear which includes holiday sweaters, tumblers, slippers, pajamas & more. Shop the collection November 20th.")
+    * [ALDI Gear](https://www.aldi.us/products/aldi-gear/ "Explore our latest ALDI Gear collection. Shop ALDI holiday sweaters, slippers, tumblers, pajamas & more at your local ALDI.")
         
     * [BBQ & Picnic](https://www.aldi.us/products/bbq-picnic/ "Dive into spring and summer with ALDI’s barbecue and picnic essentials! Browse our finest selection of meats, fresh produce and sides for your outdoor feast.")
         
